@@ -4,7 +4,7 @@ artifact_type: corpus_map
 scope: FULL_MAIN_SERIES
 generation: V1
 status: canonical
-source_boundary: ContinuedExplosions01whole supplied edition accepted at31text/28imagescopes; containing publication gate pending; following source unadmitted; fullfixed41continues; frozenexact
+source_boundary: ContinuedExplosions02whole supplied edition accepted at35text/25imagescopes; containing publication gate pending; following source unadmitted; fullfixed41continues; frozenexact
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,14 +17,14 @@ project_initialization:
   source_reconnaissance_complete: true
   required_ledgers_initialized: true
   sequential_analysis_lock: open
-  next_permitted_operation: EXPANDED_CONTEXP01_PUBLICATION_GATE
+  next_permitted_operation: EXPANDED_CONTEXP02_PUBLICATION_GATE
 sequential_execution:
   mode: continuous_sequential
   unit_type: volume
   authorized_start: V11
   terminal_boundary: V17
   committed_high_water_mark: V17
-  next_candidate_operation: EXPANDED_CONTEXP01_PUBLICATION_GATE
+  next_candidate_operation: EXPANDED_CONTEXP02_PUBLICATION_GATE
   confirmation_between_units: false
   run_state: active
 ---
@@ -44,7 +44,7 @@ The project is not primarily a plot-summary project and is not satisfied by trai
 ## 2. Current authority state
 
 <!-- CURRENT_OPERATION_START -->
-**ContinuedExplosions01 whole-edition analysis is accepted at its supplied-component scopes. The current operation is exact publication verification.** [Full reading](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V01_DEEP_READING.md), [component register](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V01_COMPONENT_REGISTER.json), [current qualifications](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V01_CURRENT_PRECISION_QUALIFICATIONS.json) and [local assessments](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V01_EXPLORATORY_LOCAL_ASSESSMENTS.json) cover all31text/28imagescopes. Main2646P/bonus50P/nonfiction77P, 72selected premises/117native voice fragments/7 unchanged-contract local assessments/33ten-ledger appends. Original frozen authority, four scores and14future blanks remain exact. Close the full publication gate and reload published authority before ContinuedExplosions02 separate admission. All remaining StageC/StageD/secondary/index/finalrelease work continues.
+**ContinuedExplosions02 whole-edition analysis is accepted at its supplied-component scopes. The current operation is exact publication verification.** [Full reading](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V02_DEEP_READING.md), [component register](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V02_COMPONENT_REGISTER.json), [current qualifications](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V02_CURRENT_PRECISION_QUALIFICATIONS.json) and [local assessments](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V02_EXPLORATORY_LOCAL_ASSESSMENTS.json) cover all35text/25imagescopes. Main2573P/bonus57P/nonfiction73P, 92selected premises/148native voice fragments/7 unchanged-contract local assessments/37ten-ledger appends. Original frozen authority, four scores and14future blanks remain exact. Close the full publication gate and reload published authority before Consulting the Masked Devil separate admission. All remaining StageC/StageD/secondary/index/finalrelease work continues.
 <!-- CURRENT_OPERATION_END -->
 
 The main17 principal readings/checkpoints, main-only specialists, MAIN_ONLY_R1 reconstruction/diagnostic suite, main-principal evidence indexes and four designated holdout-principal assessments are accepted. Their historical derivation, original forecasts, adverse findings and frozen bytes remain separately authoritative at their original boundaries. They are not a substitute for outstanding edition components, expanded synthesis or revised models.

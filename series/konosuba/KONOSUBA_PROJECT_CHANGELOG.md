@@ -1263,3 +1263,43 @@ Preceding current-operation paragraph retained verbatim:
 
 
 Main2646P/bonus50P/nonfiction77P/total2773P; full ruby/residual/image scopes before uncoded seal 2026-10-18T18:05:27.347969+00:00;72selected premises/117native-joined voices/7unchanged-contract local assessments/33ten-ledger appends. Supplemental12accepted/11already publishedof19; mixed5published; global percentage null. Baseline`f4c8684db02772b0606db2f94c629cbbf57de913`; exact containing publication/full gate pending. Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate ContinuedExplosions02 whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.
+
+
+## ContinuedExplosions01 full gate and fresh authority reload — 2026-10-18T19:03:05.464510+00:00
+
+Preceding current-operation paragraph preserved verbatim:
+
+````markdown
+**ContinuedExplosions01 whole-edition analysis is accepted at its supplied-component scopes. The current operation is exact publication verification.** [Full reading](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V01_DEEP_READING.md), [component register](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V01_COMPONENT_REGISTER.json), [current qualifications](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V01_CURRENT_PRECISION_QUALIFICATIONS.json) and [local assessments](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V01_EXPLORATORY_LOCAL_ASSESSMENTS.json) cover all31text/28imagescopes. Main2646P/bonus50P/nonfiction77P, 72selected premises/117native voice fragments/7 unchanged-contract local assessments/33ten-ledger appends. Original frozen authority, four scores and14future blanks remain exact. Close the full publication gate and reload published authority before ContinuedExplosions02 separate admission. All remaining StageC/StageD/secondary/index/finalrelease work continues.
+````
+
+**ContinuedExplosions01 supplied-edition analysis is accepted at all31text/28imagescopes. The next operation is separate ContinuedExplosions02 whole-edition admission.** [Full reading](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V01_DEEP_READING.md), [current qualifications](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V01_CURRENT_PRECISION_QUALIFICATIONS.json), [local assessments](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V01_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_CONTEXP01_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. Supplemental12of19whole editions and mixed5of5programs are accepted at stated scopes; the global narrative-component percentage remains unresolved. Original frozen authority, four scores and14future blanks remain exact. ContinuedExplosions02remains separately unadmitted; all remaining StageC/StageD/secondary/index/finalrelease work continues.
+
+
+Source`b0668884aeb1e0f58db2395b214b9b3b947f0d8f`/tree`bfe536383447bb0981352516766727c62f85520d`;8536remote paths/55changedstreams exact. Source39156117969/job117759579842 and final39156575085/job117760926921 each352fulltests/zeroallfive non-success/selectionfalse; housekeeping39156544696/job117760836958NO_OP/exact finalsource dispatch; exact integrationstatus succeeds on actualsource. Fresh499project/66current/fourscores/14blankreload 2026-10-18T19:02:04.737344+00:00. All72historicalpins exact, current main`14f077fa43012012f9eca72fd83fc0cadb971ac6`reconciled without protected-main integration claim. ContinuedExplosions02whole unopened at this boundary; fullprogramcontinues.
+
+
+## ContinuedExplosions02 admission transition — 2026-10-18T19:03:46.948332+00:00
+
+The preceding current-operation paragraph is retained verbatim; the following admission snapshot has its own time and scope.
+
+````markdown
+**ContinuedExplosions01 supplied-edition analysis is accepted at all31text/28imagescopes. The next operation is separate ContinuedExplosions02 whole-edition admission.** [Full reading](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V01_DEEP_READING.md), [current qualifications](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V01_CURRENT_PRECISION_QUALIFICATIONS.json), [local assessments](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V01_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_CONTEXP01_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. Supplemental12of19whole editions and mixed5of5programs are accepted at stated scopes; the global narrative-component percentage remains unresolved. Original frozen authority, four scores and14future blanks remain exact. ContinuedExplosions02remains separately unadmitted; all remaining StageC/StageD/secondary/index/finalrelease work continues.
+````
+
+**Current ContinuedExplosions02 separate admission — 2026-10-18T19:03:27.479348+00:00:** Exact local`Konosuba - Spin-off - Continued Explosions - Volume 02.epub`,2412289bytes/SHA256`ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267`,freshCRC/JapaneseOPF/35text/25image structure verified after preceding fullgate/freshreload. Pre-body applicable informed family context sealed with original Dust01 questions retained as unchanged historical controls/original14blanks and declared known earlier/later exposure. No new story paragraph or image has been read at this admission snapshot; extraction is not completion. Actual whole-edition source-first readingactive/unaccepted; formal L/H/voice/local assessments wait for a complete uncodedseal. Fullremainingprogramcontinues; future sources remain separately unadmitted.
+
+
+
+## ContinuedExplosions02 analytical acceptance transition — 2026-10-18T20:19:12.906750+00:00
+
+Preceding current-operation paragraph retained verbatim:
+
+````markdown
+**ContinuedExplosions02 whole-edition source-first reading is active and not yet accepted.** Exact local `Konosuba - Spin-off - Continued Explosions - Volume 02.epub` has 35textual units and 25native images. Pre-body informed exposure, applicable family model contracts and working inquiries are sealed; unchanged Dust01 questions remain historical controls. Extraction is not completion; actual full body/ruby/residual/image reading and a complete uncoded seal precede formal outcomes. Original frozen controls, four scores and14blank future fields remain unchanged. See the component matrix and continuous audit for exact identities, dated snapshots and gate evidence. Fullremainingprogramcontinues; later sources remain separately unadmitted.
+````
+
+**ContinuedExplosions02 whole-edition analysis is accepted at its supplied-component scopes. The current operation is exact publication verification.** [Full reading](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V02_DEEP_READING.md), [component register](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V02_COMPONENT_REGISTER.json), [current qualifications](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V02_CURRENT_PRECISION_QUALIFICATIONS.json) and [local assessments](10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V02_EXPLORATORY_LOCAL_ASSESSMENTS.json) cover all35text/25imagescopes. Main2573P/bonus57P/nonfiction73P, 92selected premises/148native voice fragments/7 unchanged-contract local assessments/37ten-ledger appends. Original frozen authority, four scores and14future blanks remain exact. Close the full publication gate and reload published authority before Consulting the Masked Devil separate admission. All remaining StageC/StageD/secondary/index/finalrelease work continues.
+
+
+Main2573P/bonus57P/nonfiction73P/total2703P; full ruby/residual/image scopes before uncoded seal 2026-10-18T19:51:53.347000+00:00;92selected premises/148native-joined voices/7unchanged-contract local assessments/37ten-ledger appends. Supplemental13accepted/12already publishedof19; mixed5published; global percentage null. Baseline`b0668884aeb1e0f58db2395b214b9b3b947f0d8f`; exact containing publication/full gate pending. Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Consulting the Masked Devil whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.

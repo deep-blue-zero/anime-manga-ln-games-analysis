@@ -1,7 +1,7 @@
 {
   "schema": "KONOSUBA_STAGE_C_COMPONENT_COVERAGE_V1",
   "status": "ACTIVE_NOT_COMPLETE",
-  "updated_utc": "2026-10-18T18:33:42.020793+00:00",
+  "updated_utc": "2026-10-18T20:19:12.906750+00:00",
   "fixed41_identity_seal": "fe59ede667ed3532f9cd0e62fdd650655d029c191fd3bd95df84ab404f2f56c5",
   "coverage_denominator_state": "FULL_ADMITTED_NARRATIVE_COMPONENT_DENOMINATOR_NOT_YET_RESOLVED",
   "expanded_narrative_completion_percentage": null,
@@ -20,7 +20,8 @@
       "EXP-01",
       "EXP-02",
       "EXP-03",
-      "CONTEXP-01"
+      "CONTEXP-01",
+      "CONTEXP-02"
     ],
     "not_an_expanded_component_percentage": true,
     "published_full_gate_closed": [
@@ -34,7 +35,8 @@
       "DUST-CONT",
       "EXP-01",
       "EXP-02",
-      "EXP-03"
+      "EXP-03",
+      "CONTEXP-01"
     ]
   },
   "objects": [
@@ -531,8 +533,8 @@
       "source_id": "CONTEXP-01",
       "native_sha256": "60962eb6d9d10c2c640846c22749ebad305180beb6af1a41c9b05ef76b4fa51f",
       "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
-      "stage_C_status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
-      "remaining": "Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate ContinuedExplosions02 whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.",
+      "stage_C_status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_PUBLISHED_FULL_GATE_CLOSED_AT_STATED_COMPONENT_SCOPES",
+      "remaining": "Supplied-edition scopes and publication gate closed; expanded synthesis/StageD/finalrelease remain.",
       "admission_utc": "2026-10-18T17:25:22.481780+00:00",
       "admission_sha256": "0a9ed4ce7cde469c6cb15878d3d33c4c9dd963ec957d2cde2c4c5f1fb0b58196",
       "preceding_full_gate_source": "d2debefa1191927594547b89320923ebfb8fffd3",
@@ -569,14 +571,58 @@
       "actual_textual_components": 31,
       "reading": "10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V01_DEEP_READING.md",
       "register": "10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V01_COMPONENT_REGISTER.json",
-      "receiving": "10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V01_RECEIVING_AND_PROVENANCE.json"
+      "receiving": "10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V01_RECEIVING_AND_PROVENANCE.json",
+      "authorship_publication_state": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+      "publication_gate": {
+        "source_commit": "b0668884aeb1e0f58db2395b214b9b3b947f0d8f",
+        "closed_utc": "2026-10-18T19:01:54.369818+00:00",
+        "receipt": "09 Audits and Manifests/KONOSUBA_CONTEXP01_EXPANDED_PUBLICATION_GATE_CLOSE.json"
+      }
     },
     {
       "source_id": "CONTEXP-02",
       "native_sha256": "ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267",
       "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
-      "stage_C_status": "NARRATIVE_COMPONENT_ANALYSIS_PENDING",
-      "remaining": "Separate admission, actual full admitted reading and coherent analysis/receiving/publication; structure/cache is not literary completion"
+      "stage_C_status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+      "remaining": "Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Consulting the Masked Devil whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.",
+      "admission_utc": "2026-10-18T19:03:27.479348+00:00",
+      "admission_sha256": "7f77c217d7a711a0966a74377ddcc1ec9852b75be97fd82a01e68cad4516ccaa",
+      "preceding_full_gate_source": "b0668884aeb1e0f58db2395b214b9b3b947f0d8f",
+      "initial_separate_admission_snapshot": {
+        "source_id": "CONTEXP-02",
+        "native_sha256": "ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267",
+        "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+        "stage_C_status": "SEPARATELY_ADMITTED_WHOLE_EDITION_SOURCE_FIRST_READING_ACTIVE_NOT_ACCEPTED",
+        "remaining": "Full actual bodies/ruby/residuals/images and uncodedseal before formal outcomes;17responsibilities/tenledgers/component receiving/publication. No credit from extraction.",
+        "admission_utc": "2026-10-18T19:03:27.479348+00:00",
+        "admission_sha256": "7f77c217d7a711a0966a74377ddcc1ec9852b75be97fd82a01e68cad4516ccaa",
+        "preceding_full_gate_source": "b0668884aeb1e0f58db2395b214b9b3b947f0d8f"
+      },
+      "accepted_utc": "2026-10-18T20:19:00.916436+00:00",
+      "principal_P_slots": 2573,
+      "other_P_slots": 130,
+      "separate_bonus_narrative": true,
+      "bonus_P_slots": 57,
+      "nonfiction_P_slots": 73,
+      "individually_identified_bonus_narrative_groups": [
+        {
+          "id": "CONTEXP02-BONUS-ELECTRONIC-COSTUME-MARQUIS",
+          "title": "たまには本気の着ぐるみ侯爵",
+          "native_units": [
+            "CONTEXP-02-U031"
+          ],
+          "native_member": "OEBPS/Text/part0029.xhtml",
+          "paragraph_slots": 57,
+          "title_component": "CONTEXP-02-U030",
+          "viewpoint": "Megumin first person;three-thousand bounty reference afterC1event,exactdayunknown",
+          "scope": "Complete separate electronic story actually read; fair-test proposal, actual joint surprise aggression, hoped-for outing, new volunteers and imposed shop role distinguished from unperformed hunt/zipper exposure/future repair."
+        }
+      ],
+      "all_native_images_actually_viewed": 25,
+      "actual_textual_components": 35,
+      "reading": "10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V02_DEEP_READING.md",
+      "register": "10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V02_COMPONENT_REGISTER.json",
+      "receiving": "10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V02_RECEIVING_AND_PROVENANCE.json"
     },
     {
       "source_id": "MASK",

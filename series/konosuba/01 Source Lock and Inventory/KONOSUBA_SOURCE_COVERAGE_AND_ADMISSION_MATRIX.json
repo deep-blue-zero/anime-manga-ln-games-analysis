@@ -8367,7 +8367,7 @@
       "analytical_completion": "NOT_ESTABLISHED_BY_METADATA_MATRIX",
       "expanded_stage_C": {
         "prior_pre_admission_snapshot": {},
-        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_PUBLISHED_FULL_GATE_CLOSED_AT_STATED_COMPONENT_SCOPES",
         "admission_utc": "2026-10-18T17:25:22.481780+00:00",
         "admission_sha256": "0a9ed4ce7cde469c6cb15878d3d33c4c9dd963ec957d2cde2c4c5f1fb0b58196",
         "native_bytes": 18609246,
@@ -8381,7 +8381,7 @@
         "actual_new_images_viewed_at_admission": 0,
         "structural_extraction_is_not_literary_completion": true,
         "formal_codes_or_question_outcomes_assigned_at_admission": false,
-        "remaining": "Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate ContinuedExplosions02 whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.",
+        "remaining": "Supplied-edition literary/component scopes and exact publication gate closed; expanded synthesis/StageD/finalrelease remain.",
         "reader_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05,DUST-06,DUST-07,DUST-CONT,EXP-01,EXP-02,EXP-03. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim.",
         "initial_separate_admission_snapshot": {
           "prior_pre_admission_snapshot": {},
@@ -8433,7 +8433,13 @@
         "receiving_record": "10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V01_RECEIVING_AND_PROVENANCE.json",
         "current_qualifications": "10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V01_CURRENT_PRECISION_QUALIFICATIONS.json",
         "current_edition_reconciliation": "続・この素晴らしい世界に爆焔を！ 我ら、めぐみん盗賊団 【電子特別版】. Electronic issue2016-12-28; underlying print first2017-01-01; copyright2017. Author暁なつめ; illustration三嶋くろね; design百足屋ユウコ＋モンマ蚕（ムシカゴグラフィクス）; publisher三坂泰二/KADOKAWA. Dates and contributor fields separately actually read. All native components dispositioned; original admission retained.",
-        "model_scope": "Same informed root received17substantive responsibilities,72whole-effect H/L arguments,117individual exact voice/window joins,7unchanged Megumin contracts,8retrospective party-context comparisons,31text/28image roles,one independently identified50P electronic bonus,65qualifications and33decisions across ten append-only ledgers. Named actors and recipient knowledge include Megumin/Yunyun/Iris/Kazuma/Aqua/Darkness/Chris/Cecily/Claire/Dust/Karen/guards/crowd/cat/creators. Same-root authorship/receiving is not independent review, native-human validation or a new blind score."
+        "model_scope": "Same informed root received17substantive responsibilities,72whole-effect H/L arguments,117individual exact voice/window joins,7unchanged Megumin contracts,8retrospective party-context comparisons,31text/28image roles,one independently identified50P electronic bonus,65qualifications and33decisions across ten append-only ledgers. Named actors and recipient knowledge include Megumin/Yunyun/Iris/Kazuma/Aqua/Darkness/Chris/Cecily/Claire/Dust/Karen/guards/crowd/cat/creators. Same-root authorship/receiving is not independent review, native-human validation or a new blind score.",
+        "authorship_publication_state": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+        "publication_gate": {
+          "source_commit": "b0668884aeb1e0f58db2395b214b9b3b947f0d8f",
+          "closed_utc": "2026-10-18T19:01:54.369818+00:00",
+          "receipt": "09 Audits and Manifests/KONOSUBA_CONTEXP01_EXPANDED_PUBLICATION_GATE_CLOSE.json"
+        }
       }
     },
     {
@@ -8649,7 +8655,78 @@
           "required_action": "Map exact component boundaries, locators, authorship and treatment during stage-authorized source inspection."
         }
       ],
-      "analytical_completion": "NOT_ESTABLISHED_BY_METADATA_MATRIX"
+      "analytical_completion": "NOT_ESTABLISHED_BY_METADATA_MATRIX",
+      "expanded_stage_C": {
+        "prior_pre_admission_snapshot": {},
+        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+        "admission_utc": "2026-10-18T19:03:27.479348+00:00",
+        "admission_sha256": "7f77c217d7a711a0966a74377ddcc1ec9852b75be97fd82a01e68cad4516ccaa",
+        "native_bytes": 2412289,
+        "native_sha256": "ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267",
+        "preceding_full_gate_source": "b0668884aeb1e0f58db2395b214b9b3b947f0d8f",
+        "preceding_fresh_reload_sha256": "17a5ef3b4b3876c20c476e48eb437dab8f5b3077725945c5942271a353a3e196",
+        "native_text_components": 35,
+        "native_images": 25,
+        "pre_body_context_seal_sha256": "02f7704563704abb6d90fc21ffdf3541f143996c67c2262e9910078990a9faf9",
+        "actual_new_story_P_read_at_admission": 0,
+        "actual_new_images_viewed_at_admission": 0,
+        "structural_extraction_is_not_literary_completion": true,
+        "formal_codes_or_question_outcomes_assigned_at_admission": false,
+        "remaining": "Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Consulting the Masked Devil whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.",
+        "reader_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05,DUST-06,DUST-07,DUST-CONT,EXP-01,EXP-02,EXP-03,CONTEXP-01. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim.",
+        "initial_separate_admission_snapshot": {
+          "prior_pre_admission_snapshot": {},
+          "status": "SEPARATELY_ADMITTED_WHOLE_EDITION_SOURCE_FIRST_READING_ACTIVE_NOT_ACCEPTED",
+          "admission_utc": "2026-10-18T19:03:27.479348+00:00",
+          "admission_sha256": "7f77c217d7a711a0966a74377ddcc1ec9852b75be97fd82a01e68cad4516ccaa",
+          "native_bytes": 2412289,
+          "native_sha256": "ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267",
+          "preceding_full_gate_source": "b0668884aeb1e0f58db2395b214b9b3b947f0d8f",
+          "preceding_fresh_reload_sha256": "17a5ef3b4b3876c20c476e48eb437dab8f5b3077725945c5942271a353a3e196",
+          "native_text_components": 35,
+          "native_images": 25,
+          "pre_body_context_seal_sha256": "02f7704563704abb6d90fc21ffdf3541f143996c67c2262e9910078990a9faf9",
+          "actual_new_story_P_read_at_admission": 0,
+          "actual_new_images_viewed_at_admission": 0,
+          "structural_extraction_is_not_literary_completion": true,
+          "formal_codes_or_question_outcomes_assigned_at_admission": false,
+          "remaining": "All actual eligible bodies/ruby/residuals/images; complete uncoded seal; formal17responsibilities/ten-ledger/component dispositions/qualified same-root receiving and full publication gate.",
+          "reader_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05,DUST-06,DUST-07,DUST-CONT,EXP-01,EXP-02,EXP-03,CONTEXP-01. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim."
+        },
+        "accepted_utc": "2026-10-18T20:19:00.916436+00:00",
+        "actual_reading": "All35textual components, their actual individual narrative/paratext roles, full ruby/navigation/residuals and25native images actually read/viewed before full uncoded seal/formal assignment. Any image-only prose, comic or bonus has its own component identity and stated scope.",
+        "principal_P_slots": 2573,
+        "other_P_slots": 130,
+        "separate_bonus_narrative": true,
+        "bonus_P_slots": 57,
+        "nonfiction_P_slots": 73,
+        "individually_identified_bonus_narrative_groups": [
+          {
+            "id": "CONTEXP02-BONUS-ELECTRONIC-COSTUME-MARQUIS",
+            "title": "たまには本気の着ぐるみ侯爵",
+            "native_units": [
+              "CONTEXP-02-U031"
+            ],
+            "native_member": "OEBPS/Text/part0029.xhtml",
+            "paragraph_slots": 57,
+            "title_component": "CONTEXP-02-U030",
+            "viewpoint": "Megumin first person;three-thousand bounty reference afterC1event,exactdayunknown",
+            "scope": "Complete separate electronic story actually read; fair-test proposal, actual joint surprise aggression, hoped-for outing, new volunteers and imposed shop role distinguished from unperformed hunt/zipper exposure/future repair."
+          }
+        ],
+        "uncoded_seal_utc": "2026-10-18T19:51:53.347000+00:00",
+        "uncoded_seal_sha256": "7d1b5e4d46a2e5d4cd248f295e2f09f2578d7f6bb122248a53709b9041ef1784",
+        "selected_whole_premises_not_census": 92,
+        "native_verified_voice_witnesses": 148,
+        "unchanged_question_local_assessments": 7,
+        "ten_ledger_appends": 37,
+        "reading_path": "10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V02_DEEP_READING.md",
+        "component_register": "10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V02_COMPONENT_REGISTER.json",
+        "receiving_record": "10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V02_RECEIVING_AND_PROVENANCE.json",
+        "current_qualifications": "10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V02_CURRENT_PRECISION_QUALIFICATIONS.json",
+        "current_edition_reconciliation": "続・この素晴らしい世界に爆焔を！2 わがままバスターズ 【電子特別版】. Electronic issue and underlying print first edition both2019-03-01; copyrightAkatsuki/Mishima2019. Author暁なつめ;illustration三嶋くろね;design百足屋ユウコ＋モンマ蚕（ムシカゴグラフィクス）;publisher三坂泰二/KADOKAWA. All actual endmatter fields separately read. All native components dispositioned; original admission retained.",
+        "model_scope": "The same informed root received seventeen substantive responsibilities, 92 bounded effects, 148 individually argued current native voice records, seven unchanged Megumin contracts, eight informed party contexts, 35 text/25 image roles, one independently identified 57-P electronic bonus, 76 qualifications and 37 decisions across ten append-only ledgers. Named subjects include Megumin, Yunyun, Iris, Kazuma, Aqua, Darkness, Barton, Barbera, Cecily, Zesta, the Eris priest, Vanir, Wiz, Zereschilt, Claire, Rain, guards, novices, creatures and creators. Actual receipt, permissions, roles, cues, resources and unperformed outcomes are checked. Same-root author/receiver is not independent review, native-human/audio validation or a new blind trial."
+      }
     },
     {
       "source_id": "MASK",
@@ -12776,7 +12853,7 @@
       "disposition": "NOT_ESTABLISHED_BY_METADATA_MATRIX",
       "expanded_stage_C": {
         "prior_pre_admission_snapshot": {},
-        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_PUBLISHED_FULL_GATE_CLOSED_AT_STATED_COMPONENT_SCOPES",
         "admission_utc": "2026-10-18T17:25:22.481780+00:00",
         "admission_sha256": "0a9ed4ce7cde469c6cb15878d3d33c4c9dd963ec957d2cde2c4c5f1fb0b58196",
         "native_bytes": 18609246,
@@ -12790,7 +12867,7 @@
         "actual_new_images_viewed_at_admission": 0,
         "structural_extraction_is_not_literary_completion": true,
         "formal_codes_or_question_outcomes_assigned_at_admission": false,
-        "remaining": "Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate ContinuedExplosions02 whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.",
+        "remaining": "Supplied-edition literary/component scopes and exact publication gate closed; expanded synthesis/StageD/finalrelease remain.",
         "reader_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05,DUST-06,DUST-07,DUST-CONT,EXP-01,EXP-02,EXP-03. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim.",
         "initial_separate_admission_snapshot": {
           "prior_pre_admission_snapshot": {},
@@ -12842,7 +12919,13 @@
         "receiving_record": "10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V01_RECEIVING_AND_PROVENANCE.json",
         "current_qualifications": "10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V01_CURRENT_PRECISION_QUALIFICATIONS.json",
         "current_edition_reconciliation": "続・この素晴らしい世界に爆焔を！ 我ら、めぐみん盗賊団 【電子特別版】. Electronic issue2016-12-28; underlying print first2017-01-01; copyright2017. Author暁なつめ; illustration三嶋くろね; design百足屋ユウコ＋モンマ蚕（ムシカゴグラフィクス）; publisher三坂泰二/KADOKAWA. Dates and contributor fields separately actually read. All native components dispositioned; original admission retained.",
-        "model_scope": "Same informed root received17substantive responsibilities,72whole-effect H/L arguments,117individual exact voice/window joins,7unchanged Megumin contracts,8retrospective party-context comparisons,31text/28image roles,one independently identified50P electronic bonus,65qualifications and33decisions across ten append-only ledgers. Named actors and recipient knowledge include Megumin/Yunyun/Iris/Kazuma/Aqua/Darkness/Chris/Cecily/Claire/Dust/Karen/guards/crowd/cat/creators. Same-root authorship/receiving is not independent review, native-human validation or a new blind score."
+        "model_scope": "Same informed root received17substantive responsibilities,72whole-effect H/L arguments,117individual exact voice/window joins,7unchanged Megumin contracts,8retrospective party-context comparisons,31text/28image roles,one independently identified50P electronic bonus,65qualifications and33decisions across ten append-only ledgers. Named actors and recipient knowledge include Megumin/Yunyun/Iris/Kazuma/Aqua/Darkness/Chris/Cecily/Claire/Dust/Karen/guards/crowd/cat/creators. Same-root authorship/receiving is not independent review, native-human validation or a new blind score.",
+        "authorship_publication_state": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+        "publication_gate": {
+          "source_commit": "b0668884aeb1e0f58db2395b214b9b3b947f0d8f",
+          "closed_utc": "2026-10-18T19:01:54.369818+00:00",
+          "receipt": "09 Audits and Manifests/KONOSUBA_CONTEXP01_EXPANDED_PUBLICATION_GATE_CLOSE.json"
+        }
       }
     },
     {
@@ -12854,7 +12937,78 @@
         "embedded_bonus_fiction"
       ],
       "admission": "NOT_ADMITTED_BY_THIS_MATRIX",
-      "disposition": "NOT_ESTABLISHED_BY_METADATA_MATRIX"
+      "disposition": "NOT_ESTABLISHED_BY_METADATA_MATRIX",
+      "expanded_stage_C": {
+        "prior_pre_admission_snapshot": {},
+        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+        "admission_utc": "2026-10-18T19:03:27.479348+00:00",
+        "admission_sha256": "7f77c217d7a711a0966a74377ddcc1ec9852b75be97fd82a01e68cad4516ccaa",
+        "native_bytes": 2412289,
+        "native_sha256": "ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267",
+        "preceding_full_gate_source": "b0668884aeb1e0f58db2395b214b9b3b947f0d8f",
+        "preceding_fresh_reload_sha256": "17a5ef3b4b3876c20c476e48eb437dab8f5b3077725945c5942271a353a3e196",
+        "native_text_components": 35,
+        "native_images": 25,
+        "pre_body_context_seal_sha256": "02f7704563704abb6d90fc21ffdf3541f143996c67c2262e9910078990a9faf9",
+        "actual_new_story_P_read_at_admission": 0,
+        "actual_new_images_viewed_at_admission": 0,
+        "structural_extraction_is_not_literary_completion": true,
+        "formal_codes_or_question_outcomes_assigned_at_admission": false,
+        "remaining": "Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Consulting the Masked Devil whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.",
+        "reader_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05,DUST-06,DUST-07,DUST-CONT,EXP-01,EXP-02,EXP-03,CONTEXP-01. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim.",
+        "initial_separate_admission_snapshot": {
+          "prior_pre_admission_snapshot": {},
+          "status": "SEPARATELY_ADMITTED_WHOLE_EDITION_SOURCE_FIRST_READING_ACTIVE_NOT_ACCEPTED",
+          "admission_utc": "2026-10-18T19:03:27.479348+00:00",
+          "admission_sha256": "7f77c217d7a711a0966a74377ddcc1ec9852b75be97fd82a01e68cad4516ccaa",
+          "native_bytes": 2412289,
+          "native_sha256": "ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267",
+          "preceding_full_gate_source": "b0668884aeb1e0f58db2395b214b9b3b947f0d8f",
+          "preceding_fresh_reload_sha256": "17a5ef3b4b3876c20c476e48eb437dab8f5b3077725945c5942271a353a3e196",
+          "native_text_components": 35,
+          "native_images": 25,
+          "pre_body_context_seal_sha256": "02f7704563704abb6d90fc21ffdf3541f143996c67c2262e9910078990a9faf9",
+          "actual_new_story_P_read_at_admission": 0,
+          "actual_new_images_viewed_at_admission": 0,
+          "structural_extraction_is_not_literary_completion": true,
+          "formal_codes_or_question_outcomes_assigned_at_admission": false,
+          "remaining": "All actual eligible bodies/ruby/residuals/images; complete uncoded seal; formal17responsibilities/ten-ledger/component dispositions/qualified same-root receiving and full publication gate.",
+          "reader_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05,DUST-06,DUST-07,DUST-CONT,EXP-01,EXP-02,EXP-03,CONTEXP-01. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim."
+        },
+        "accepted_utc": "2026-10-18T20:19:00.916436+00:00",
+        "actual_reading": "All35textual components, their actual individual narrative/paratext roles, full ruby/navigation/residuals and25native images actually read/viewed before full uncoded seal/formal assignment. Any image-only prose, comic or bonus has its own component identity and stated scope.",
+        "principal_P_slots": 2573,
+        "other_P_slots": 130,
+        "separate_bonus_narrative": true,
+        "bonus_P_slots": 57,
+        "nonfiction_P_slots": 73,
+        "individually_identified_bonus_narrative_groups": [
+          {
+            "id": "CONTEXP02-BONUS-ELECTRONIC-COSTUME-MARQUIS",
+            "title": "たまには本気の着ぐるみ侯爵",
+            "native_units": [
+              "CONTEXP-02-U031"
+            ],
+            "native_member": "OEBPS/Text/part0029.xhtml",
+            "paragraph_slots": 57,
+            "title_component": "CONTEXP-02-U030",
+            "viewpoint": "Megumin first person;three-thousand bounty reference afterC1event,exactdayunknown",
+            "scope": "Complete separate electronic story actually read; fair-test proposal, actual joint surprise aggression, hoped-for outing, new volunteers and imposed shop role distinguished from unperformed hunt/zipper exposure/future repair."
+          }
+        ],
+        "uncoded_seal_utc": "2026-10-18T19:51:53.347000+00:00",
+        "uncoded_seal_sha256": "7d1b5e4d46a2e5d4cd248f295e2f09f2578d7f6bb122248a53709b9041ef1784",
+        "selected_whole_premises_not_census": 92,
+        "native_verified_voice_witnesses": 148,
+        "unchanged_question_local_assessments": 7,
+        "ten_ledger_appends": 37,
+        "reading_path": "10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V02_DEEP_READING.md",
+        "component_register": "10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V02_COMPONENT_REGISTER.json",
+        "receiving_record": "10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V02_RECEIVING_AND_PROVENANCE.json",
+        "current_qualifications": "10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V02_CURRENT_PRECISION_QUALIFICATIONS.json",
+        "current_edition_reconciliation": "続・この素晴らしい世界に爆焔を！2 わがままバスターズ 【電子特別版】. Electronic issue and underlying print first edition both2019-03-01; copyrightAkatsuki/Mishima2019. Author暁なつめ;illustration三嶋くろね;design百足屋ユウコ＋モンマ蚕（ムシカゴグラフィクス）;publisher三坂泰二/KADOKAWA. All actual endmatter fields separately read. All native components dispositioned; original admission retained.",
+        "model_scope": "The same informed root received seventeen substantive responsibilities, 92 bounded effects, 148 individually argued current native voice records, seven unchanged Megumin contracts, eight informed party contexts, 35 text/25 image roles, one independently identified 57-P electronic bonus, 76 qualifications and 37 decisions across ten append-only ledgers. Named subjects include Megumin, Yunyun, Iris, Kazuma, Aqua, Darkness, Barton, Barbera, Cecily, Zesta, the Eris priest, Vanir, Wiz, Zereschilt, Claire, Rain, guards, novices, creatures and creators. Actual receipt, permissions, roles, cues, resources and unperformed outcomes are checked. Same-root author/receiver is not independent review, native-human/audio validation or a new blind trial."
+      }
     },
     {
       "source_id": "MASK",

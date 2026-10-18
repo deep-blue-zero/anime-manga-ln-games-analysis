@@ -895,3 +895,48 @@ Native18609246bytes/SHA256`60962eb6d9d10c2c640846c22749ebad305180beb6af1a41c9b05
 | CONTEXP-01-U031 | item/navigation-documents.xhtml / 0 | NONSPINE_NAVIGATION |
 
 Main2646P/bonus50P/nonfiction77P/total2773P; full ruby/residual/image scopes before uncoded seal 2026-10-18T18:05:27.347969+00:00;72selected premises/117native-joined voices/7unchanged-contract local assessments/33ten-ledger appends. Supplemental12accepted/11already publishedof19; mixed5published; global percentage null. All31text units/2773P/28native images actually received. Main7bodies2646P plus distinct50P electronic bonus equals2696fiction P; remaining77P is frontmatter/creator afterword/provenance/credits/colophon. ZeroPwrappers/navigation are inspected, not secretly credited as narrative. Banners/cast quotes/composites/actual scene art/2decorativechibi closures/illustrator comments/logos have distinct roles; no integral image-only prose or lower creator-page fictional coda. Rumor and staged cat rescue are nested accounts with unequal truth authority.
+
+
+## CONTEXP-02 accepted whole-edition routes — 2026-10-18T20:19:00.916436+00:00
+
+Native2412289bytes/SHA256`ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267`. [Component register](../10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V02_COMPONENT_REGISTER.json), [full reading](../10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V02_DEEP_READING.md), [92selectedpremises](../10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V02_HUMOR_REGISTER.md), [148voicecontexts](../10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V02_VOICE_REGISTER.md), [7 local assessments](../10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V02_EXPLORATORY_LOCAL_ASSESSMENTS.json), [current qualifications](../10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V02_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](../10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V02_RECEIVING_AND_PROVENANCE.json) control exact joins.
+
+| Unit | Native member / P slots | Actual role |
+|---|---|---|
+| CONTEXP-02-U001 | OEBPS/Text/cover_page.xhtml / 0 | COVER_ART |
+| CONTEXP-02-U002 | OEBPS/Text/part0000.xhtml / 0 | COLOR_MEGUMIN_INTRODUCTION |
+| CONTEXP-02-U003 | OEBPS/Text/part0001.xhtml / 0 | COLOR_CONTENTS_AND_DESIGN_CREDITS |
+| CONTEXP-02-U004 | OEBPS/Text/part0002.xhtml / 0 | COLOR_CAST_COMPOSITE_QUOTED_TEASERS |
+| CONTEXP-02-U005 | OEBPS/Text/part0003.xhtml / 0 | COLOR_AQUA_SERVICE_PINUP_NOT_PERFORMED_BEACH_EVENT |
+| CONTEXP-02-U006 | OEBPS/Text/part0004.xhtml / 0 | TITLE_AND_CREATOR_CREDITS |
+| CONTEXP-02-U007 | OEBPS/Text/part0005.xhtml / 4 | USE_AND_LAYOUT_NOTICES |
+| CONTEXP-02-U008 | OEBPS/Text/part0006.xhtml / 13 | TEXT_CONTENTS_INCLUDING_ELECTRONIC_BONUS |
+| CONTEXP-02-U009 | OEBPS/Text/part0007.xhtml / 0 | PROLOGUE_MEGUMIN_PORTRAIT_NOT_NARRATOR |
+| CONTEXP-02-U010 | OEBPS/Text/part0008.xhtml / 41 | PRINCIPAL_PROLOGUE_KAZUMA |
+| CONTEXP-02-U011 | OEBPS/Text/part0009.xhtml / 0 | DECORATIVE_CHIBI_YUNYUN |
+| CONTEXP-02-U012 | OEBPS/Text/part0010.xhtml / 0 | EPISODE_ONE_IRIS_BANNER_NOT_NARRATOR |
+| CONTEXP-02-U013 | OEBPS/Text/part0011.xhtml / 509 | PRINCIPAL_EPISODE_ONE_MEGUMIN_POST_CHIEFTAIN_TRIAL |
+| CONTEXP-02-U014 | OEBPS/Text/part0012.xhtml / 0 | DECORATIVE_CHIBI_MEGUMIN |
+| CONTEXP-02-U015 | OEBPS/Text/part0013.xhtml / 0 | EPISODE_TWO_YUNYUN_BANNER_NOT_NARRATOR |
+| CONTEXP-02-U016 | OEBPS/Text/part0014.xhtml / 485 | PRINCIPAL_EPISODE_TWO_MEGUMIN |
+| CONTEXP-02-U017 | OEBPS/Text/part0015.xhtml / 0 | EPISODE_THREE_CECILY_BANNER_NOT_NARRATOR |
+| CONTEXP-02-U018 | OEBPS/Text/part0016.xhtml / 470 | PRINCIPAL_EPISODE_THREE_MEGUMIN |
+| CONTEXP-02-U019 | OEBPS/Text/part0017.xhtml / 0 | EPISODE_FOUR_CHOMUSUKE_BANNER_NOT_NARRATOR |
+| CONTEXP-02-U020 | OEBPS/Text/part0018.xhtml / 577 | PRINCIPAL_EPISODE_FOUR_MEGUMIN |
+| CONTEXP-02-U021 | OEBPS/Text/part0019.xhtml / 0 | DECORATIVE_CHIBI_CHRIS |
+| CONTEXP-02-U022 | OEBPS/Text/part0020.xhtml / 0 | FINAL_EPISODE_IRIS_BANNER_NOT_NARRATOR |
+| CONTEXP-02-U023 | OEBPS/Text/part0021.xhtml / 412 | PRINCIPAL_FINAL_EPISODE_KAZUMA |
+| CONTEXP-02-U024 | OEBPS/Text/part0022.xhtml / 0 | DECORATIVE_CHIBI_IRIS |
+| CONTEXP-02-U025 | OEBPS/Text/part0023.xhtml / 0 | EPILOGUE_MEGUMIN_BANNER |
+| CONTEXP-02-U026 | OEBPS/Text/part0024.xhtml / 79 | PRINCIPAL_EPILOGUE_MEGUMIN_DELIBERATE_MERCY_DISCLOSURE |
+| CONTEXP-02-U027 | OEBPS/Text/part0025.xhtml / 31 | CREATOR_AFTERWORD_READER_ONLY_EVOLVED_ANIMAL_IDENTITY |
+| CONTEXP-02-U028 | OEBPS/Text/part0026.xhtml / 0 | ILLUSTRATOR_AFTERWORD_ART_AND_RASTER_COMMENT |
+| CONTEXP-02-U029 | OEBPS/Text/part0027.xhtml / 4 | WEB_REVISION_AND_NEW_MATERIAL_PROVENANCE |
+| CONTEXP-02-U030 | OEBPS/Text/part0028.xhtml / 2 | ELECTRONIC_BONUS_TITLE |
+| CONTEXP-02-U031 | OEBPS/Text/part0029.xhtml / 57 | SEPARATE_ELECTRONIC_BONUS_COSTUME_MARQUIS_MEGUMIN |
+| CONTEXP-02-U032 | OEBPS/Text/part0030.xhtml / 0 | FULL_WRAP_COVER_BIOS_MARKETING_AND_CREDITS |
+| CONTEXP-02-U033 | OEBPS/Text/part0031.xhtml / 16 | ELECTRONIC_COLOPHON_AND_UNDERLYING_PRINT_DATE |
+| CONTEXP-02-U034 | OEBPS/Text/part0032.xhtml / 3 | RIGHTS_AND_HISTORICAL_PRODUCTION_NOTICES |
+| CONTEXP-02-U035 | OEBPS/Text/part0033.xhtml / 0 | TERMINAL_RETAILER_BRANDING |
+
+Main2573P/bonus57P/nonfiction73P/total2703P; full ruby/residual/image scopes before uncoded seal 2026-10-18T19:51:53.347000+00:00;92selected premises/148native-joined voices/7unchanged-contract local assessments/37ten-ledger appends. Supplemental13accepted/12already publishedof19; mixed5published; global percentage null. All 35 textual units, 2,703 paragraph slots and 25 native images were actually received. Seven main bodies contain 2,573 P; the distinct electronic bonus contains 57 P, for 2,630 fiction P and 73 nonfiction P. Zero-P wrappers are inspected without extra story credit. Color profiles/teasers, contents, banners, four decorative chibis, actual scene illustrations, illustrator raster reactions, full-wrap biographies/blurb/credits and retailer logo have distinct roles. There is no integral image-only fiction body; creator raster prose is still actually read. The prior store-bonus recollection/summary is not an independent complete reading of that earlier source.
