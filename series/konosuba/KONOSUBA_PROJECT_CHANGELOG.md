@@ -1063,3 +1063,43 @@ Preceding current-operation paragraph retained verbatim:
 
 
 Principal2881P/other71P/total2952P; full ruby/residual/image scopes before uncoded seal 2026-10-18T11:04:05.328502+00:00;64selected premises/146native-joined voices/7unchanged-question local assessments/34ten-ledger appends. Supplemental7accepted/6already publishedof19; mixed5published; global percentage null. Baseline`e9f4ae451a02bfc2c8a0b8220fc7e2d7b91c4ace`; exact containing publication/full gate pending. Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate separately titled unnumbered Dust continuation whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.
+
+
+## Dust07 full gate and fresh authority reload — 2026-10-18T11:46:37.613998+00:00
+
+Preceding current-operation paragraph preserved verbatim:
+
+````markdown
+**Dust07 whole-edition analysis is accepted at its supplied-component scopes. The current operation is exact publication verification.** [Full reading](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_DEEP_READING.md), [component register](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_COMPONENT_REGISTER.json), [current qualifications](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_CURRENT_PRECISION_QUALIFICATIONS.json) and [local assessments](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_EXPLORATORY_LOCAL_ASSESSMENTS.json) cover all20text/19imagescopes. Principal2881P/other71P, 64selected premises/146native voice fragments/7unchanged-question assessments/34ten-ledger appends. Original frozen authority, four scores and14future blanks remain exact. Close the full publication gate and reload published authority before separately titled unnumbered Dust continuation separate admission. All remaining StageC/StageD/secondary/index/finalrelease work continues.
+````
+
+**Dust07 supplied-edition analysis is accepted at all20text/19imagescopes. The next operation is separate separately titled unnumbered Dust continuation whole-edition admission.** [Full reading](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_DEEP_READING.md), [current qualifications](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_CURRENT_PRECISION_QUALIFICATIONS.json), [local assessments](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_DUST07_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. Supplemental7of19whole editions and mixed5of5programs are accepted at stated scopes; the global narrative-component percentage remains unresolved. Original frozen authority, four scores and14future blanks remain exact. separately titled unnumbered Dust continuationremains separately unadmitted; all remaining StageC/StageD/secondary/index/finalrelease work continues.
+
+
+Source`9a5ac5e4b58cc60501df32142505d4ce4a38860d`/tree`6a7ec689a2f6f449e4a99c23f2651bd87df2af7a`;8444remote paths/37changedstreams exact. Source39123855460/job117664789277 and final39124174967/job117665713213 each352fulltests/zeroallfive non-success/selectionfalse; housekeeping39124143792/job117665628266NO_OP/exact finalsource dispatch; exact integrationstatus succeeds on actualsource. Fresh409project/66current/fourscores/14blankreload 2026-10-18T11:46:32.964787+00:00. All72historicalpins exact, current main`308f4db1c492f23699c6021afe756074cce99117`reconciled without protected-main integration claim. separately titled unnumbered Dust continuationwhole unopened at this boundary; fullprogramcontinues.
+
+
+## DustContinuation admission transition — 2026-10-18T11:46:53.916081+00:00
+
+The preceding current-operation paragraph is retained verbatim; the following admission snapshot has its own time and scope.
+
+````markdown
+**Dust07 supplied-edition analysis is accepted at all20text/19imagescopes. The next operation is separate separately titled unnumbered Dust continuation whole-edition admission.** [Full reading](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_DEEP_READING.md), [current qualifications](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_CURRENT_PRECISION_QUALIFICATIONS.json), [local assessments](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_DUST07_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. Supplemental7of19whole editions and mixed5of5programs are accepted at stated scopes; the global narrative-component percentage remains unresolved. Original frozen authority, four scores and14future blanks remain exact. separately titled unnumbered Dust continuationremains separately unadmitted; all remaining StageC/StageD/secondary/index/finalrelease work continues.
+````
+
+**Current DustContinuation separate admission — 2026-10-18T11:46:51.471833+00:00:** Exact local`Konosuba Extra - Dust - Motto Ano Orokamono ni mo Kyakkou wo - Himesama kara no Shoutaijou.epub`,5588468bytes/SHA256`c5ffcf82e82cb0c205f34fe776f99d23fb2ac8cf13841598c92a607988bfa023`,freshCRC/JapaneseOPF/23text/22image structure verified after preceding fullgate/freshreload. Pre-body informed-root context sealed with unchanged sevenDust01questions/original14blanks and declared known earlier/later exposure. No new story paragraph or image has been read at this admission snapshot; extraction is not completion. Actual whole-edition source-first readingactive/unaccepted; formal L/H/voice/local assessments wait for a complete uncodedseal. Fullremainingprogramcontinues; future sources remain separately unadmitted.
+
+
+
+## Dust continuation analytical acceptance transition — 2026-10-18T12:46:17.242979+00:00
+
+Preceding current-operation paragraph retained verbatim:
+
+````markdown
+**DustContinuation whole-edition source-first reading is active and not yet accepted.** Exact local `Konosuba Extra - Dust - Motto Ano Orokamono ni mo Kyakkou wo - Himesama kara no Shoutaijou.epub` has 23textual units and 22native images. Pre-body informed exposure, the unchanged seven questions and prior working inquiries are sealed. Extraction is not completion; actual full body/ruby/residual/image reading and a complete uncoded seal precede formal outcomes. Original frozen controls, four scores and14blank future fields remain unchanged. See the component matrix and continuous audit for exact identities, dated snapshots and gate evidence. Fullremainingprogramcontinues; later sources remain separately unadmitted.
+````
+
+**Dust continuation whole-edition analysis is accepted at its supplied-component scopes. The current operation is exact publication verification.** [Full reading](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_DEEP_READING.md), [component register](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_COMPONENT_REGISTER.json), [current qualifications](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_CURRENT_PRECISION_QUALIFICATIONS.json) and [local assessments](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_EXPLORATORY_LOCAL_ASSESSMENTS.json) cover all23text/22imagescopes. Principal2846P/other70P, 73selected premises/150native voice fragments/7unchanged-question assessments/34ten-ledger appends. Original frozen authority, four scores and14future blanks remain exact. Close the full publication gate and reload published authority before Explosions01 separate admission. All remaining StageC/StageD/secondary/index/finalrelease work continues.
+
+
+Principal2846P/other70P/total2916P; full ruby/residual/image scopes before uncoded seal 2026-10-18T12:18:47.351639+00:00;73selected premises/150native-joined voices/7unchanged-question local assessments/34ten-ledger appends. Supplemental8accepted/7already publishedof19; mixed5published; global percentage null. Baseline`9a5ac5e4b58cc60501df32142505d4ce4a38860d`; exact containing publication/full gate pending. Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Explosions01 whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.

@@ -627,3 +627,36 @@ Native4740436bytes/SHA256`cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be
 | DUST-07-U020 | item/navigation-documents.xhtml / 0 | NONSPINE_NAVIGATION_REFERENCE |
 
 Principal2881P/other71P/total2952P; full ruby/residual/image scopes before uncoded seal 2026-10-18T11:04:05.328502+00:00;64selected premises/146native-joined voices/7unchanged-question local assessments/34ten-ledger appends. Supplemental7accepted/6already publishedof19; mixed5published; global percentage null. All20text/19image scopes actually read; principal U010-0142881P, other71P. Prologue memory/current Dust/main reports/opponent lore/known lies/dream fiction/creator paratext retain access. IMG015prior Small trust exchange/IMG016prior Kazuma sword handover/IMG017Dust-spear-white-dragon/IMG018real final Leen hand do not certify other adjacent actions or repeat events. No separately supplied bonus/audio/absent draft/main battle credit.
+
+
+## DUST-CONT accepted whole-edition routes — 2026-10-18T12:45:50.687643+00:00
+
+Native5588468bytes/SHA256`c5ffcf82e82cb0c205f34fe776f99d23fb2ac8cf13841598c92a607988bfa023`. [Component register](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_COMPONENT_REGISTER.json), [full reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_DEEP_READING.md), [73selectedpremises](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_HUMOR_REGISTER.md), [150voicecontexts](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_VOICE_REGISTER.md), [seven assessments](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_EXPLORATORY_LOCAL_ASSESSMENTS.json), [current qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_RECEIVING_AND_PROVENANCE.json) control exact joins.
+
+| Unit | Native member / P slots | Actual role |
+|---|---|---|
+| DUST-CONT-U001 | item/xhtml/p-cover.xhtml / 0 | COVER_ART_WRAPPER |
+| DUST-CONT-U002 | item/xhtml/p-fmatter-001.xhtml / 0 | DEPENDENT_FRONT_LEEN_ART |
+| DUST-CONT-U003 | item/xhtml/p-fmatter-002.xhtml / 0 | IMAGE_CONTENTS_AND_CREDITS |
+| DUST-CONT-U004 | item/xhtml/p-fmatter-003.xhtml / 0 | UNCAPTIONED_BRIDAL_ART |
+| DUST-CONT-U005 | item/xhtml/p-fmatter-004.xhtml / 0 | UNCAPTIONED_PAIR_BLOSSOM_ART |
+| DUST-CONT-U006 | item/xhtml/p-titlepage.xhtml / 0 | TITLE_CREDITS |
+| DUST-CONT-U007 | item/xhtml/p-caution.xhtml / 4 | CAUTION_PARATEXT |
+| DUST-CONT-U008 | item/xhtml/p-toc-001.xhtml / 11 | TEXT_CONTENTS |
+| DUST-CONT-U009 | item/xhtml/p-001.xhtml / 0 | EDITORIAL_CHARACTER_PROFILES |
+| DUST-CONT-U010 | item/xhtml/p-002.xhtml / 574 | PRINCIPAL_CHAPTER_ONE_RETURN_JOURNEY |
+| DUST-CONT-U011 | item/xhtml/p-003.xhtml / 551 | PRINCIPAL_CHAPTER_TWO_ROYAL_PAST_AND_GROOM |
+| DUST-CONT-U012 | item/xhtml/p-004.xhtml / 510 | PRINCIPAL_CHAPTER_THREE_INVESTIGATION_AND_LEEN_VIEWPOINT |
+| DUST-CONT-U013 | item/xhtml/p-005.xhtml / 531 | PRINCIPAL_CHAPTER_FOUR_INFILTRATION_CONTRACT_AND_CAPTURE |
+| DUST-CONT-U014 | item/xhtml/p-006.xhtml / 573 | PRINCIPAL_CHAPTER_FIVE_WEDDING_EXPOSURE_AND_BATTLE |
+| DUST-CONT-U015 | item/xhtml/p-007.xhtml / 73 | PRINCIPAL_EPILOGUE_DUST_RETURN |
+| DUST-CONT-U016 | item/xhtml/p-008.xhtml / 34 | PRINCIPAL_EPILOGUE_TWO_PRIVATE_GAIBIL_DORECK |
+| DUST-CONT-U017 | item/xhtml/p-009.xhtml / 32 | AUTHOR_AFTERWORD |
+| DUST-CONT-U018 | item/xhtml/p-010.xhtml / 0 | READER_SURVEY_AND_SOCIAL_ADVERTISEMENT |
+| DUST-CONT-U019 | item/xhtml/p-allcover-001.xhtml / 0 | WRAP_COVER_MARKETING_AND_TWO_CREATOR_FLAPS |
+| DUST-CONT-U020 | item/xhtml/p-colophon.xhtml / 20 | ELECTRONIC_COLOPHON |
+| DUST-CONT-U021 | item/xhtml/p-colophon2.xhtml / 3 | USE_NOTICE_PARATEXT |
+| DUST-CONT-U022 | item/xhtml/p-bookwalker.xhtml / 0 | RETAILER_LOGO_WRAPPER |
+| DUST-CONT-U023 | item/navigation-documents.xhtml / 0 | NONSPINE_NAVIGATION_REFERENCE |
+
+Principal2846P/other70P/total2916P; full ruby/residual/image scopes before uncoded seal 2026-10-18T12:18:47.351639+00:00;73selected premises/150native-joined voices/7unchanged-question local assessments/34ten-ledger appends. Supplemental8accepted/7already publishedof19; mixed5published; global percentage null. All23text/22image actual scopes; principalU010-0162846P/other70P. Dust/Leen viewpoint/private Gaibil epilogue/reports/recalled stories/public performance/creator production and marketing retain unequal authority. IMG022is reader survey not contributor panel; two creatorflaps onIMG004; images do not certify unpictured acts. No separate bonus/audio/anime/abandoned-setting credit.
