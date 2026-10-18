@@ -1431,3 +1431,14 @@ Source: Bonus P13-34/P37-67. Knowingly deceptive speech differs from an innocent
 Transition: STRENGTHEN. Confidence: HIGH for sequence; MODERATE for mechanism.
 
 Root precision: C03P149/P156-176/P420-424 is direct adverse evidence for N01; no outside perpetrator or moral-acknowledgment condition is added. N02’s observed help exceeds the strength of its inferred tenderness mechanism. Final377-379 comments remain unnamed; Small’s366 protest is the identified turn. Final pullers are three recruited former criminal men. Toy purchase precedes the later thanks/guilt/giving. These limits apply across the appended responsibilities. Publication is a separate gate and Dust03 remains closed until it closes.
+
+
+## Expanded TRPG-CORE received observations — 2026-10-18T02:29:30.403076+00:00
+
+Whole supplied edition accepted at its stated component scopes; containing publication pending. [Complete analysis](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_DEEP_READING.md), [current qualifications](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_CURRENT_QUALIFICATIONS.json) and [all initial/current append decisions](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_LEDGER_APPEND_DECISIONS.json) control these three rows. Edited replay, second-person guide, prospective scenario, optional templates, teaching balloons and references retain unequal authority. No frozen-model/score change, independent trial or main-J01/J02 count.
+
+| ID | Subjects and native printed source route | Observation | Causal/model implication | Authority/adverse limit |
+|---|---|---|---|---|
+| TRPGC-DE01 | Chiho and rescuers; 057–060 | Strength breaks a chest without a declared trap check; the bomb causes damage and destroys part of the possible ruby reward. | Useful capability does not repair omitted precaution; another’s cover mitigates one consequence without erasing the remaining loss. | Actual two rubies differ from hypothetical five and later new loot; local game arithmetic not main-world physical law. |
+| TRPGC-DE02 | Gilbert/Otohime/party; 025,037–043 | Reassurance about armor is tested by actual swallowing; complaint and scope defense follow while imperfect shields and later attacks repair the danger. | A successful eventual phase cannot retroactively make earlier reassurance safe or the first handoff sufficient. | Armor-like clothing is not established metal; hypothetical digestion damage never occurs here. |
+| TRPGC-DE03 | GM and players constructing fiction; 022,064,067,080–081 | Creator-authority jokes, an openly added sectarian insult, an adopted villain park and a new cow-rescue bonus alter the local fiction. | Do not infer independently pre-existing triggers or scripted rewards from later effective response. | This is collaborative authored play, not blind behavioral sampling; preserve GM/player/PC planes. |

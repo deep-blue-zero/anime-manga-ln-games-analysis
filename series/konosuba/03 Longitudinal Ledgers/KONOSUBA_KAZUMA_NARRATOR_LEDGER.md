@@ -907,3 +907,14 @@ Source: Bonus P50-67. Do not invent grievances or convert absent main-party char
 Transition: PRESERVE. Confidence: HIGH for planes.
 
 Root precision: C03P149/P156-176/P420-424 is direct adverse evidence for N01; no outside perpetrator or moral-acknowledgment condition is added. N02’s observed help exceeds the strength of its inferred tenderness mechanism. Final377-379 comments remain unnamed; Small’s366 protest is the identified turn. Final pullers are three recruited former criminal men. Toy purchase precedes the later thanks/guilt/giving. These limits apply across the appended responsibilities. Publication is a separate gate and Dust03 remains closed until it closes.
+
+
+## Expanded TRPG-CORE received observations — 2026-10-18T02:29:30.403076+00:00
+
+Whole supplied edition accepted at its stated component scopes; containing publication pending. [Complete analysis](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_DEEP_READING.md), [current qualifications](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_CURRENT_QUALIFICATIONS.json) and [all initial/current append decisions](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_LEDGER_APPEND_DECISIONS.json) control these three rows. Edited replay, second-person guide, prospective scenario, optional templates, teaching balloons and references retain unequal authority. No frozen-model/score change, independent trial or main-J01/J02 count.
+
+| ID | Subjects and native printed source route | Observation | Causal/model implication | Authority/adverse limit |
+|---|---|---|---|---|
+| TRPGC-KN01 | World-guide narrative voice; 250–260 | The continuous fiction addresses an unnamed second-person protagonist; Kazuma appears as a speaking character inside it. | Attribute mocked expectations, reader access and evaluations to the guide narrator/newcomer as locally warranted. | Do not import Kazuma’s first-person main-novel narrator grammar or identify the newcomer as Mitsurugi from sword/goddess alone. |
+| TRPGC-KN02 | Edited replay narrator, PC speakers and GM; 010–082 | The GM/editor reports player speech, PC declarations, dice results, improvisation and imagined alternatives under separate labels. | Narrator report of a result, a PC’s boast and a player joke about the creator have unequal fact status. | Not unfiltered historical transcript, actor audio or a third-party independent observation of every biography. |
+| TRPGC-KN03 | Gilbert/receptionist/GM; 080–082 | Gilbert’s executive-rank upgrade meets clerical checking and polite doubt; artifact return remains intended, while the GM explicitly adds150KE cow reward. | Retain self-credit inflation, outside correction and actual reward authorship as different claims. | Receptionist does not certify executive rank or observed temple delivery; future skill learning remains a plan. |

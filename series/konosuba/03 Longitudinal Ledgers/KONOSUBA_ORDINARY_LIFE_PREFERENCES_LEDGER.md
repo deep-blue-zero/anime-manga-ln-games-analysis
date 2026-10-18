@@ -859,3 +859,14 @@ Source: Bonus P3-24/P37-67. No genuine abstinence preference, informed Taylor re
 Transition: EXPAND. Confidence: MODERATE.
 
 Root precision: C03P149/P156-176/P420-424 is direct adverse evidence for N01; no outside perpetrator or moral-acknowledgment condition is added. N02’s observed help exceeds the strength of its inferred tenderness mechanism. Final377-379 comments remain unnamed; Small’s366 protest is the identified turn. Final pullers are three recruited former criminal men. Toy purchase precedes the later thanks/guilt/giving. These limits apply across the appended responsibilities. Publication is a separate gate and Dust03 remains closed until it closes.
+
+
+## Expanded TRPG-CORE received observations — 2026-10-18T02:29:30.403076+00:00
+
+Whole supplied edition accepted at its stated component scopes; containing publication pending. [Complete analysis](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_DEEP_READING.md), [current qualifications](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_CURRENT_QUALIFICATIONS.json) and [all initial/current append decisions](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_LEDGER_APPEND_DECISIONS.json) control these three rows. Edited replay, second-person guide, prospective scenario, optional templates, teaching balloons and references retain unequal authority. No frozen-model/score change, independent trial or main-J01/J02 count.
+
+| ID | Subjects and native printed source route | Observation | Causal/model implication | Authority/adverse limit |
+|---|---|---|---|---|
+| TRPGC-OP01 | PCs and table; 021,084,193,218–219 | Living standard sets money/recovery stakes; cohabitation does not automatically reduce per-PC cost, nonpayment can reduce XP, and future celebration needs skills. | Ordinary maintenance and desire remain part of continued adventure. | Rules/options and actual payments differentiated; no free same-scene reset or verified occupied royal suite. |
+| TRPGC-OP02 | Optional lifepath/motive personas; 111–115 | The book permits ordinary families, poverty, coercion, no grand goal and peaceful life alongside vengeance or destiny. | A player may construct an actor whose motives do not replicate a principal’s defining obsession. | Selectable templates are not performed histories; coercion is not desire or consent. |
+| TRPGC-OP03 | World-guide newcomer; scenario prospective party; 253,255–260;309–310 | A500E guide fee,1000E registration and3000E savings coexist with unsubsidized lunch; eating harvested crops later trades possible reward for food/XP. | Economic tradeoffs matter outside climactic combat. | Use Eris versus KE correctly; scenario consumption/payment and future party success remain unperformed. |

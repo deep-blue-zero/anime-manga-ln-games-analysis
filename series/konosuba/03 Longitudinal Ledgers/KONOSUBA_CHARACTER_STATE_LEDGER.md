@@ -1186,3 +1186,14 @@ Source: Bonus P48-66. His statement is interested speech, not a new performance 
 Transition: EXPAND. Confidence: MODERATE.
 
 Root precision: C03P149/P156-176/P420-424 is direct adverse evidence for N01; no outside perpetrator or moral-acknowledgment condition is added. N02’s observed help exceeds the strength of its inferred tenderness mechanism. Final377-379 comments remain unnamed; Small’s366 protest is the identified turn. Final pullers are three recruited former criminal men. Toy purchase precedes the later thanks/guilt/giving. These limits apply across the appended responsibilities. Publication is a separate gate and Dust03 remains closed until it closes.
+
+
+## Expanded TRPG-CORE received observations — 2026-10-18T02:29:30.403076+00:00
+
+Whole supplied edition accepted at its stated component scopes; containing publication pending. [Complete analysis](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_DEEP_READING.md), [current qualifications](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_CURRENT_QUALIFICATIONS.json) and [all initial/current append decisions](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_LEDGER_APPEND_DECISIONS.json) control these three rows. Edited replay, second-person guide, prospective scenario, optional templates, teaching balloons and references retain unequal authority. No frozen-model/score change, independent trial or main-J01/J02 count.
+
+| ID | Subjects and native printed source route | Observation | Causal/model implication | Authority/adverse limit |
+|---|---|---|---|---|
+| TRPGC-CS01 | Replay Otohime; 018–019,023–025,037–044,072–073 | A death-return owner explicitly wants to survive, filters risk and remains frightened while choosing real cover. | Fear does not preclude costly protection; narrow success and social praise change appraisal transiently. | Paid game cheat, co-authored past and edited play account; not Darkness or a universal fear cure. |
+| TRPGC-CS02 | World-guide Darkness; 258; reference262 | Concern for a poorly equipped newcomer coexists with avid interest in his reported beating. | Preserve care and pleasure-oriented attention together rather than replacing either with a single trait. | Guide-fiction occurrence and conditional reference are distinct; no toad quest or actual new beating is performed and pleasure cannot consent for another. |
+| TRPGC-CS03 | Main-character NPC reference; 261–262 | Profiles give early-state ages and conditional helpful roles; Megumin can offer wisdom despite theatrical behavior, Darkness noble knowledge despite poor sword accuracy. | Reference explicitly permits multidimensional competence. | Not a dated encounter, natural speech distribution or license to backproject later main-state resources or these early ages everywhere. |

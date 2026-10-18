@@ -785,3 +785,14 @@ Source: Bonus P25-34/P37-67. This limits opportunity classification. It is neith
 Transition: PRESERVE. Confidence: HIGH for depicted scope.
 
 Root precision: C03P149/P156-176/P420-424 is direct adverse evidence for N01; no outside perpetrator or moral-acknowledgment condition is added. N02’s observed help exceeds the strength of its inferred tenderness mechanism. Final377-379 comments remain unnamed; Small’s366 protest is the identified turn. Final pullers are three recruited former criminal men. Toy purchase precedes the later thanks/guilt/giving. These limits apply across the appended responsibilities. Publication is a separate gate and Dust03 remains closed until it closes.
+
+
+## Expanded TRPG-CORE received observations — 2026-10-18T02:29:30.403076+00:00
+
+Whole supplied edition accepted at its stated component scopes; containing publication pending. [Complete analysis](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_DEEP_READING.md), [current qualifications](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_CURRENT_QUALIFICATIONS.json) and [all initial/current append decisions](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_LEDGER_APPEND_DECISIONS.json) control these three rows. Edited replay, second-person guide, prospective scenario, optional templates, teaching balloons and references retain unequal authority. No frozen-model/score change, independent trial or main-J01/J02 count.
+
+| ID | Subjects and native printed source route | Observation | Causal/model implication | Authority/adverse limit |
+|---|---|---|---|---|
+| TRPGC-SO01 | Otohime/Chiho/Gilbert; 072–073,075–078 | Actual area danger elicits a deliberate shove/cover, paid return and later healing/shielding; death refusal remains explicit. | Protective action and survival motive coexist, with costs and insufficient earlier margins retained. | GM narrates Aqua-related power but no main Aqua appearance is observed; no unlimited resurrection or fear cure. |
+| TRPGC-SO02 | Scenario prospective PCs/Okina/Goblins; 298–311 | Refusal can end the scenario, retreat can fail the quest, failed harvest can lose loot or create attack, and crops threaten either side. | A comic source can preserve real branch failure and competing resources. | No actual play session occurred; these are authored possibilities, not observed acts or a new R1 test. |
+| TRPGC-SO03 | Newcomer/Aqua/Darkness; 250–252,258 | Near-death arrival and angry grievance remain despite apology comedy; sincere concern and excited harmful-interest coexist in Darkness’s questions. | Do not treat a gag’s resolution as proof of safe treatment, consent or absence of material consequence. | No performed punch or new beating; other actor’s pleasure cannot authorize harm. |

@@ -467,3 +467,21 @@ Native EPUB SHA256`4dfbfdde2052cf435d1d843d8127c3fa4139c046b3abddd34ab63bfd3dda5
 DUST-02-BONUS-01 (admissionS18), 仲間の秘密, p010P1-67/2031base/0ruby, is separately admitted complete fiction. Afterword p009P1-21 includes three signed creator comments in the raster image at21. All16 excluded containers/139P/17nav and23images have exact native identities/dispositions in the register; repeated art/prologue is not repeated independent evidence.
 
 Current routes: C03P149/P156-176/P420-424 (refusal, coercive plan, act); Final217-250 (transport, alternatives); Final355-381 (numerical tactical threat, unnamed377-379); C04P483-490 (Chris diversion), P528-550 (purchase/giving); Final331-352/P436-455/P510-546 (recruited former criminal pullers, shared victory); bonusP23-24/P53-56/P67 (withheld knowledge, plain registers, proposed retreat). Original seven questions/fourteen blanks and main/holdout routes stay exact; selections are not a census or new score.
+
+
+## Stage C TRPG-CORE accepted component routes — 2026-10-18T02:29:30.403076+00:00
+
+Native SHA256`038bfc2d98f5e30853e041942805c7fe17eb8487ee33b8f18da5507f9e57e59c`,118704701bytes. [Complete333register](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json) binds exact wrapper/image members and hashes. Ordinary spine=printed+2; covers/flaps retain individual exceptions. Counts are source/view metadata, not independent events. [Current analysis](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_DEEP_READING.md), [qualifications](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_CURRENT_QUALIFICATIONS.json) and [receiving](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_RECEIVING_AND_PROVENANCE.json) govern reused initial codes.
+
+| Stable component | Native printed/spine route | Accepted authority |
+|---|---|---|
+| TRPG-CORE-REPLAY-01 | printed010-082+084; S012-084+086 | Edited played-session narrative; GM/player/PC/reported past distinct; dependent art039/059/077/083 not additional events |
+| TRPG-CORE-WORLD-01 | printed250-260; S252-262, including259map | Complete second-person guide; unnamed newcomer distinct from Kazuma narrator/Mitsurugi assumption |
+| TRPG-CORE-SCENARIO-01 | printed298-311; S300-313 | Complete prospective scenario/refusal/retreat/failure/reward/afterplay, not an actual run |
+| TRPG-CORE-TEACHING-01 | printed009/085/203/249/263/297 | Staged teaching balloons; no natural J01pairs or main timeline |
+| TRPG-CORE-PERSONA-01 | printed101/103/105/107/109;111-115; dispersed flavor | Optional persona/history/reference, not actual genealogies or performed spells |
+| TRPG-CORE-RULES-01 | printed203-248 and related passages | Game mechanics/embedded examples at actual reading scope; conditional cover235 |
+| TRPG-CORE-GM-01 | printed263-296 | GM guidance, quests, enemies and traps;271pointer289 conflicts withactual288/index321 |
+| TRPG-CORE-PARATEXT-01 | front matter,312-323appendix, covers/forms/colophon/platform | Individually scoped reference/visual/bibliographic matter |
+
+Ledger IDs TRPGC-CS/RS/DE/CC/HM/JV/KN/OP/SO/PV01-03 retain their subjects and printed source routes. Current qualifications:235conditional cover;062king/frog pun and reported device property;113visible殺しの魔名 but unproved phonetic pun;105written timing without establishedL3;009skepticism and085recruitment at staged plane;253advertised500Ewithout shown collection. Original75/41objects/codes, all120comic-note pages, frozen main evidence/four holdout scores/original14blanks stay retrievable unchanged.

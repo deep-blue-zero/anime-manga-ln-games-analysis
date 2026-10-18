@@ -1,7 +1,7 @@
 {
   "schema": "KONOSUBA_STAGE_C_COMPONENT_COVERAGE_V1",
   "status": "ACTIVE_NOT_COMPLETE",
-  "updated_utc": "2026-10-18T01:39:32.953430+00:00",
+  "updated_utc": "2026-10-18T02:30:52.363450+00:00",
   "fixed41_identity_seal": "fe59ede667ed3532f9cd0e62fdd650655d029c191fd3bd95df84ab404f2f56c5",
   "coverage_denominator_state": "FULL_ADMITTED_NARRATIVE_COMPONENT_DENOMINATOR_NOT_YET_RESOLVED",
   "expanded_narrative_completion_percentage": null,
@@ -165,15 +165,21 @@
       "source_id": "DUST-02",
       "native_sha256": "4dfbfdde2052cf435d1d843d8127c3fa4139c046b3abddd34ab63bfd3dda531f",
       "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
-      "stage_C_status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_CONTAINING_PUBLICATION_PENDING",
-      "remaining": "Containing publication gate; later synthesis/model revision work; supplied-edition literary/component receiving complete",
+      "stage_C_status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_PUBLISHED_FULL_GATE_CLOSED",
+      "remaining": "Later expanded synthesis/attributable model revision responsibilities; supplied-edition literary/component reading and publication gate complete",
       "principal_admission_sha256": "1d029e984afb97a2a14624bcf53d9f2f3702efc8a2019c24f7aef6fe473c5ce6",
       "historical_preacceptance_stage_C_status": "SEVEN_PRINCIPAL_MEMBERS_SEPARATELY_ADMITTED_READING_NOT_YET_CREDITED_AT_ADMISSION",
       "principal_P_slots": 3052,
       "excluded_P_slots": 139,
       "all_native_images_inspected": 23,
       "whole_edition_receiving_record": "10 Expanded Corpus/Dust/KONOSUBA_DUST_V02_RECEIVING_AND_PROVENANCE.json",
-      "accepted_utc": "2026-10-18T01:39:32.953430+00:00"
+      "accepted_utc": "2026-10-18T01:39:32.953430+00:00",
+      "authorship_publication_state": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_CONTAINING_PUBLICATION_PENDING",
+      "publication_gate": {
+        "source_commit": "8656b8ae1441ce168f38efd1fbd1e3e4c798d1f6",
+        "closed_utc": "2026-10-18T02:01:19.189055+00:00",
+        "receipt": "09 Audits and Manifests/KONOSUBA_DUST02_EXPANDED_PUBLICATION_GATE_CLOSE.json"
+      }
     },
     {
       "source_id": "DUST-03",
@@ -368,9 +374,14 @@
       "source_id": "TRPG-CORE",
       "native_sha256": "038bfc2d98f5e30853e041942805c7fe17eb8487ee33b8f18da5507f9e57e59c",
       "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
-      "stage_C_status": "ALL333_ACTUAL_COMPONENT_INSPECTION_SEPARATELY_ADMITTED_READING_ACTIVE_NOT_ACCEPTED",
-      "remaining": "Actual333page inspection/full eligible narrative analysis/receiving/publication; admission is not completion",
-      "admission_sha256": "63fdcf5557c2d1aff5fa3d742722f06e66479d0ffa8e061c6942823fd779a1c1"
+      "stage_C_status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+      "remaining": "Containing exact publication/readback/full audit gate; other-edition completeness and exhaustive numeric rules certification not asserted",
+      "admission_sha256": "63fdcf5557c2d1aff5fa3d742722f06e66479d0ffa8e061c6942823fd779a1c1",
+      "accepted_utc": "2026-10-18T02:29:30.403076+00:00",
+      "reading": "10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_DEEP_READING.md",
+      "register": "10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "receiving": "10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_RECEIVING_AND_PROVENANCE.json",
+      "actual_scopes": "333original actual page dispositions/full eligible continuous fiction andflavor;43rootnativechecks andfull analytical receiving; dense numeric/cross-rule limits retained"
     },
     {
       "source_id": "TRPG-ADV",
@@ -379,5 +390,20 @@
       "stage_C_status": "NARRATIVE_COMPONENT_ANALYSIS_PENDING",
       "remaining": "Separate admission, actual full admitted reading and coherent analysis/receiving/publication; structure/cache is not literary completion"
     }
-  ]
+  ],
+  "mixed_program_accounting_only": {
+    "total": 5,
+    "accepted_including_current_pending_publication": [
+      "ART-CHEERS",
+      "ART-BLESSING",
+      "FAN-MEM",
+      "TRPG-CORE"
+    ],
+    "published_full_gate_closed": [
+      "ART-CHEERS",
+      "ART-BLESSING",
+      "FAN-MEM"
+    ],
+    "not_narrative_component_completion_percentage": true
+  }
 }

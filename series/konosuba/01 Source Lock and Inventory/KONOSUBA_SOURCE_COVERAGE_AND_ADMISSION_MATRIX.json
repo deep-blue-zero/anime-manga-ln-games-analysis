@@ -5060,7 +5060,7 @@
       "analytical_completion": "NOT_ESTABLISHED_BY_METADATA_MATRIX",
       "expanded_stage_C": {
         "accepted_utc": "2026-10-18T01:39:32.953430+00:00",
-        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_CONTAINING_PUBLICATION_PENDING",
+        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_PUBLISHED_FULL_GATE_CLOSED",
         "preceding_full_gate_source": "ee740bf0023b6cc7167f80cbbc70fa949f29f232",
         "principal": "Seven complete members/3052P/2960nonempty/102610base/2742ruby/4103rt; P full source-first and S full informed retrospective readings with distinct disclosed histories",
         "nonprincipal": "All16containers/139P/125nonempty/3825base/35ruby/62rt/17nav and23actualimages under separate admission",
@@ -5070,7 +5070,13 @@
         "receiving_path": "10 Expanded Corpus/Dust/KONOSUBA_DUST_V02_RECEIVING_AND_PROVENANCE.json",
         "historical_metadata_fields": "Original metadata no-reading/unmapped dispositions unchanged; this overlay supplies later actual semantic acceptance",
         "unresolved": "Exact old identity/restraint; full dragon resolution; unique motives/artifact mechanisms; bonus absolute date/reprint identity; other-edition completeness",
-        "model_scope": "Expanded only; all R1/Gen01-05/original14 blanks/four scores exact; no aggregate local score"
+        "model_scope": "Expanded only; all R1/Gen01-05/original14 blanks/four scores exact; no aggregate local score",
+        "authorship_publication_state": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_CONTAINING_PUBLICATION_PENDING",
+        "publication_gate": {
+          "source_commit": "8656b8ae1441ce168f38efd1fbd1e3e4c798d1f6",
+          "closed_utc": "2026-10-18T02:01:19.189055+00:00",
+          "receipt": "09 Audits and Manifests/KONOSUBA_DUST02_EXPANDED_PUBLICATION_GATE_CLOSE.json"
+        }
       }
     },
     {
@@ -10803,7 +10809,22 @@
           "required_action": "Map exact component boundaries, locators, authorship and treatment during stage-authorized source inspection."
         }
       ],
-      "analytical_completion": "NOT_ESTABLISHED_BY_METADATA_MATRIX"
+      "analytical_completion": "NOT_ESTABLISHED_BY_METADATA_MATRIX",
+      "expanded_stage_C": {
+        "accepted_utc": "2026-10-18T02:29:30.403076+00:00",
+        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+        "source_plane": "POST_VALIDATION_EXPANDED_TRPG_ONLY",
+        "native_pages_dispositioned": 333,
+        "eligible_continuous_components": "Edited replay010-082+084; complete guide250-260; complete prospective scenario298-311; all eligible optional/template/flavor/example prose at declared scopes",
+        "reading_path": "10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_DEEP_READING.md",
+        "component_register": "10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+        "receiving_record": "10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_RECEIVING_AND_PROVENANCE.json",
+        "current_qualifications": "10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_CURRENT_QUALIFICATIONS.json",
+        "actual_reader_scopes": "Original all333 individual scopes; root full argument/333dispositions/75premises/41voice/30proposals and43freshnativepages, not333freshrootviews",
+        "limits": "Dense numerical/index/rules-interaction certification not claimed; historical rawack stream/oldrouteproof unavailable in transport; current native333joins verified exact",
+        "model_scope": "R1/66current/72historical/fourholdout scores/original14blanks unchanged; no fifthholdout or mainJ01/J02 pool",
+        "historical_metadata_fields": "Preserved unchanged; this later semantic overlay controls current acceptance"
+      }
     },
     {
       "source_id": "TRPG-ADV",
@@ -11375,12 +11396,18 @@
       "disposition": "NOT_ESTABLISHED_BY_METADATA_MATRIX",
       "expanded_stage_C": {
         "accepted_utc": "2026-10-18T01:39:32.953430+00:00",
-        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_CONTAINING_PUBLICATION_PENDING",
+        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_PUBLISHED_FULL_GATE_CLOSED",
         "principal_and_bonus": "COMPLETE_SUPPLIED_EDITION_ACCEPTED",
         "component_register": "10 Expanded Corpus/Dust/KONOSUBA_DUST_V02_COMPONENT_REGISTER.json",
         "receiving_record": "10 Expanded Corpus/Dust/KONOSUBA_DUST_V02_RECEIVING_AND_PROVENANCE.json",
         "source_plane": "POST_VALIDATION_EXPANDED_ONLY",
-        "original_metadata_disposition": "Preserved historical observations; actual current acceptance supplied by this overlay"
+        "original_metadata_disposition": "Preserved historical observations; actual current acceptance supplied by this overlay",
+        "authorship_publication_state": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_CONTAINING_PUBLICATION_PENDING",
+        "publication_gate": {
+          "source_commit": "8656b8ae1441ce168f38efd1fbd1e3e4c798d1f6",
+          "closed_utc": "2026-10-18T02:01:19.189055+00:00",
+          "receipt": "09 Audits and Manifests/KONOSUBA_DUST02_EXPANDED_PUBLICATION_GATE_CLOSE.json"
+        }
       }
     },
     {
@@ -11689,7 +11716,22 @@
         "scenarios_and_fictional_examples"
       ],
       "admission": "NOT_ADMITTED_BY_THIS_MATRIX",
-      "disposition": "NOT_ESTABLISHED_BY_METADATA_MATRIX"
+      "disposition": "NOT_ESTABLISHED_BY_METADATA_MATRIX",
+      "expanded_stage_C": {
+        "accepted_utc": "2026-10-18T02:29:30.403076+00:00",
+        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+        "source_plane": "POST_VALIDATION_EXPANDED_TRPG_ONLY",
+        "native_pages_dispositioned": 333,
+        "eligible_continuous_components": "Edited replay010-082+084; complete guide250-260; complete prospective scenario298-311; all eligible optional/template/flavor/example prose at declared scopes",
+        "reading_path": "10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_DEEP_READING.md",
+        "component_register": "10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+        "receiving_record": "10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_RECEIVING_AND_PROVENANCE.json",
+        "current_qualifications": "10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_CURRENT_QUALIFICATIONS.json",
+        "actual_reader_scopes": "Original all333 individual scopes; root full argument/333dispositions/75premises/41voice/30proposals and43freshnativepages, not333freshrootviews",
+        "limits": "Dense numerical/index/rules-interaction certification not claimed; historical rawack stream/oldrouteproof unavailable in transport; current native333joins verified exact",
+        "model_scope": "R1/66current/72historical/fourholdout scores/original14blanks unchanged; no fifthholdout or mainJ01/J02 pool",
+        "historical_metadata_fields": "Preserved unchanged; this later semantic overlay controls current acceptance"
+      }
     },
     {
       "source_id": "TRPG-ADV",

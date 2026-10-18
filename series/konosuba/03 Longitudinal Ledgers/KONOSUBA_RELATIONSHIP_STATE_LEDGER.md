@@ -969,3 +969,14 @@ Source: Bonus P37-67. The meeting is observed, its harm-avoidance motive inferre
 Transition: EXPAND. Confidence: MODERATE.
 
 Root precision: C03P149/P156-176/P420-424 is direct adverse evidence for N01; no outside perpetrator or moral-acknowledgment condition is added. N02’s observed help exceeds the strength of its inferred tenderness mechanism. Final377-379 comments remain unnamed; Small’s366 protest is the identified turn. Final pullers are three recruited former criminal men. Toy purchase precedes the later thanks/guilt/giving. These limits apply across the appended responsibilities. Publication is a separate gate and Dust03 remains closed until it closes.
+
+
+## Expanded TRPG-CORE received observations — 2026-10-18T02:29:30.403076+00:00
+
+Whole supplied edition accepted at its stated component scopes; containing publication pending. [Complete analysis](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_DEEP_READING.md), [current qualifications](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_CURRENT_QUALIFICATIONS.json) and [all initial/current append decisions](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_LEDGER_APPEND_DECISIONS.json) control these three rows. Edited replay, second-person guide, prospective scenario, optional templates, teaching balloons and references retain unequal authority. No frozen-model/score change, independent trial or main-J01/J02 count.
+
+| ID | Subjects and native printed source route | Observation | Causal/model implication | Authority/adverse limit |
+|---|---|---|---|---|
+| TRPGC-RS01 | Otohime ↔ Chiho; 027,040–043,072–073,076–078 | A shared reported accident becomes conditional protection, then repeated actual cover; the oath has an instrumental benefit and the player later deliberately provides a spotlight. | Affiliation, useful incentives and survival limits jointly produce cooperation. | Gratitude is not retroactive consent; player-selected failed evasion is not a naturally sampled trial. |
+| TRPGC-RS02 | Gilbert ↔ Temiren; 020,028,045–046,069 | Romance-manga prince appraisal survives corrections, while affection is made conditional on a donation; a hypothetical restored prince also meets refusal. | Different appraisals can defeat correction without removing social pressure or the other actor’s refusal. | Roleplayed contact is not real-player contact; agreement to a donation is shown, actual payment not established. |
+| TRPGC-RS03 | Unnamed newcomer ↔ quartet/new novice; 250–260 | Fallible guides assist, charge, tease and share lunch without subsidy; a different novice priest then freely asks to form a party. | The setting permits ordinary new relationships and mixed help rather than exclusive quartet attachment. | Prospective future adventures do not demonstrate complete campaign replacement; the newcomer is not identified as Mitsurugi. |

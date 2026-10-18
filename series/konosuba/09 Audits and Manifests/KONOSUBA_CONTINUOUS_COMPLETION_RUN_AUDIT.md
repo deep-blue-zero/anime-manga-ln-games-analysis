@@ -4,7 +4,7 @@ artifact_type: execution_and_source_reconciliation_audit
 scope: V11-V17 continuation and the fixed 41-object expanded-source program
 generation: V1
 status: active_provisional
-source_boundary: Local fixed41 program active; recoveryee740bf0 gate closed; Dust02 whole edition accepted, containing publication required; Core separately admitted/unaccepted; frozen authority exact
+source_boundary: Local fixed41 active; Core full component analysis accepted, containing publication pending; Dust02 gate8656b8ae closed; Advanced and Dust03 unopened; frozen authority exact
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -21,8 +21,8 @@ The owner's 2026-10-16 request executes `KONOSUBA_CONTINUATION_AND_FULL_CORPUS_C
 | Execution mode | `continuous_sequential` |
 | Main-series authorized range | V11–V17 |
 | Accepted high-water mark | V17 principal and final Gen05 checkpoint; CP06/evidence freeze published and fully audited at a1539842 |
-| Current phase | Owner-resumed Stage C; Dust02 whole edition accepted, containing publication pending; Dust01/three mixed programs published; Core separately admitted/unaccepted |
-| Next canonical operation | DUST02_PUBLICATION_GATE_REQUIRED; Dust03 CLOSED until gate/reload/separate admission; Core separately admitted; full fixed41 program continues |
+| Current phase | Owner-resumed Stage C; Dust02/Dust01 and three mixed programs published; Core accepted at stated scopes, publication pending |
+| Next canonical operation | EXPANDED_TRPG_CORE_PUBLICATION_GATE; no new source admission until exact full gate/reload; full fixed41 program continues |
 | Current prospective model | Gen05 frozen through V15, original 25 blank pairs exact; formal V16–V17 8C/6P/1F/3AMB/7NT separate from accepted locals; no Gen06 |
 | Initial published continuing-branch head at reconnaissance | `0238f356ee2ade28e39aa3a940ea0e091f8211f4` |
 | Initial main at reconciliation | `53de8ba455938174a3f14f887cd33739261a4e5f` |
@@ -799,3 +799,19 @@ Fresh published-authority reload at2026-10-18T01:22:30.533248+00:00 checked ever
 Complete local receiving closes the preserved Dust02 analytical handoff with attributable corrections and seven separate current dispositions. The17-section argument and source receipts preserve original authoring/exposure histories. Two complete principal readers have different informed-source limits; root’s historical328 unique principal P/all139 excluded P/23images and new bounded local checks remain separately recorded. Bonus fiction, afterword, three signed creator comments, edition/marketing/navigation matter and23images retain unequal authority. Art and the prologue preview do not create repeated independent events.
 
 All ten current ledger files keep exact prior bytes and receive coherent expanded additions. The locator index adds all seven principal native joins and separate bonus/component routes. Only two DUST02 expanded Stage C overlays enter the matrix; original metadata, other40 object/register rows, fixed41 seal, frozen forecasts/models,14 original blanks and four scorecards stay exact. The closed recoverygateee740bf0 receipt accompanies this transaction. Dust03 stays CLOSED until this unit’s full publication gate/reload and separate admission. Core remains its own admitted receiving task. The remaining fixed41 program stays active.
+
+
+## Dust02 full gate closure and resumed Core receiving — 2026-10-18T02:04:16.716239+00:00
+
+Dust02 is accepted/published/full-gate closed at8656b8ae after exact8316-path/27-stream readback,352-test source audit,NO_OP housekeeping and352-test final actual-source audit/status. The exact closure and subsequent published authority reload preserve every frozen source/model/score boundary. All earlier dated pending statements describe authorship and are not live blockers. Book accounting remains2of19 supplemental whole editions and3of5 mixed programs accepted/published; the global admitted-narrative denominator remains unresolved and percentage null.
+
+Core remains separately admitted/unaccepted. Root has received its complete28475-character literary argument, all333 individual disposition records, full source/reading receipt/route map/initial precision overlay, and a growing selected-register scope recorded privately. New native image checks and the clarified printed113 label do not constitute a fresh333-page source pass. Core acceptance still requires completed75H/41V/30-ledger receiving, native consequential checks and attributable current qualifications, then its own publication gate. Dust03 and TRPG Advanced require their separate governed admissions; neither is opened by this progress update.
+
+
+## TRPG Core actual receiving and semantic acceptance — 2026-10-18T02:29:30.403076+00:00
+
+The entire transported initial report, all333individual semantic dispositions,75premise arguments,41voice/context arguments and30ten-ledger proposals were received. Root directly read43unique nativepages plus one labelcrop, including complete guide250-260/scenario298-311/coherent replay072-078. All333native wrappers/images/localcopies join exact;39manifest/seal/product hashes and original75/41objects/120comic-note-page coverage pass. Two historical private streams were not transported and are not claimed locally rehashed; exact retained333dispositions/uncoded objects plus fresh nativejoins are the actual current evidence.
+
+Core is accepted at the declared individual component scopes with [complete current analysis](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_DEEP_READING.md), original authorhistory, current30qualifications and30append decisions. Cover multiplier is conditional; glyph殺しの魔名 resolves legibility but not pun/pronunciation; graphicFireballtiming alone does not establishL3. H1diary intrusion is distinct from reportedartifactproperty, skepticalquestion from categoricalrefusal, H2recruitment from staging, advertised500E from collection. All75initial codes/41objects/originalnotes remain unchanged; no census/independenttrials/newscore. Exact current8656ledgerprefixes preserved in allten. Other40object/register/coverage rows unchanged.
+
+Main advanced1065d51c→308f4db1 with only CHARACTER_ANALYSIS_INDEX.md and characters/registry.jsonl. Ordinary merge1754e17e imports both exactmainstreams; no manual character-global edit or governance change. The containing publication must still pass exact candidate indexpreflight, owner/rulesets/freshheads, ordinarypush/fullremote readback/sourceaudit→housekeeping→final actualsourceaudit/status and fresh authorityreload. Mixedaccounting4of5accepted including pendingCore/3of5published, prose2of19, all17mainexcluded programs and StageD/finalrelease remain open; globalpercentage null. Advanced and Dust03 not opened.
