@@ -5,26 +5,26 @@ artifact_type: synthesis_architecture
 series: Harmony / ハーモニー
 series_id: harmony
 generation: HARMONY_BOOTSTRAP_V1
-version: '0.21'
+version: '0.22'
 status: active_provisional
 scope: Synthesis architecture and reconstruction specification
 source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U020 interstice34 text/part0013.html and actual epilogue heading35/body36 text/part0015.html through2171rawbodycp/literal body-etml closure; ancillary37–40 classified excluded; all40spine occurrences accounted; next source NONE
 canonical_home: series/harmony/00 Frameworks and Methods/HARMONY_SYNTHESIS_ARCHITECTURE.md
 created: '2026-10-16'
-review_status: SCOPED_FOUNDATION_ACCEPTED_2026_10_16
+review_status: G2_RECONCILIATION_SEMANTIC_ACCEPTED_2026_10_17
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 recommended_reasoning_class: DEEP_SYNTHESIS
-architecture_lifecycle: INITIAL
+architecture_lifecycle: EVOLVING
 ---
 
 # Harmony / ハーモニー — synthesis and corpus architecture
 
 ## 1. Responsibility, authority and source model
 
-This INITIAL architecture defines how future readings accumulate into a mature analysis of **one prose novel**. It pairs with the [analytical method](../00%20Frameworks%20and%20Methods/HARMONY_ANALYTICAL_METHOD.md) and [source/witness map](../00%20Frameworks%20and%20Methods/HARMONY_SOURCE_AND_SCOPE_MAP.md) under [the sole entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md). Generation `HARMONY_BOOTSTRAP_V1` remains active provisional guidance, accepted by scoped foundation review at HAR-U001 and retained for the owner-authorized continuous run; no prior architecture is displaced. The historical G0 checkpoint had no admitted sequential-analysis unit; the entrypoint owns the current frontier.
+This EVOLVING architecture preserves the completed G1 accumulation design and routes separately authorized retrospective work for **one prose novel**. It pairs with the [analytical method](../00%20Frameworks%20and%20Methods/HARMONY_ANALYTICAL_METHOD.md) and [source/witness map](../00%20Frameworks%20and%20Methods/HARMONY_SOURCE_AND_SCOPE_MAP.md) under [the sole entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md). Generation `HARMONY_BOOTSTRAP_V1` remains active provisional guidance, accepted by scoped foundation review at HAR-U001 and retained for the owner-authorized continuous run; no prior architecture is displaced. The historical G0 checkpoint had no admitted sequential-analysis unit; the entrypoint owns the current frontier.
 
 The source model separates the original Japanese work, the verified reading witness to be selected, alternate editions, translation witnesses, paratext and adaptations. Shared packaging and authorship do not establish shared continuity. Conflicts are classified as edition/translation difference, focalizer knowledge, memory, deception, institutional claim, framing level, chronology or unresolved inconsistency before any harmonization. Uncertainty survives as an explicit claim state.
 
@@ -145,3 +145,8 @@ Apply the live [reasoning policy](../../../governance/source-policies/MANGA_ANIM
 **Exception and material-channel review — HAR-U017, 2026-10-17.** Newly described professional exceptions versus unwritten social pressure, physical correspondence with unknown authorship and represented destinations versus requested travel fit the current actor/channel/knowledge-limit and claims/countercase fields. The sole world ledger can distinguish law, assessment, report obligation and workaround without a second institution home; directional histories handle translated delivery and one-sided calls. Existing ownership remains adequate, INITIAL retained; no migration or downstream synthesis/reconstruction. Sequential coverage and the actual epilogue remain incomplete.
 
 **Sequential-completion architecture review — HAR-U020, 2026-10-17.** The null interstice, explicit artifact/reader self-description, affirmative global outcome narration and changed collective enunciative position fit existing narrative-level, actor-identity, knowledge-channel and claim-version fields. The current voice is not turned into an invented new personal subject; existing directional histories can record NO_CHANGE where only memorial co-naming occurs. Three sole ledger homes and frozen per-reading evidence remain adequate, so INITIAL is retained without migration or an extra model. All40occurrences and complete natural epilogue are accounted: current G1 source coverage is complete for the exact d583… witness, with candidate/publication acceptance independently recorded. The gate table above explicitly preserves bootstrap states; it does not erase this dated current qualification. G2–G6 remain NOT_STARTED/separately gated, including final claim reconciliation and G5 reconstruction. Source completion does not validate a person or supply an owner-reviewed terminal governance seal.
+
+
+**Formal G2 retrospective architecture review — 2026-10-17.** The owner separately authorized G2 after PR190's verified main integration. The three existing cumulative owners remain sufficient: the actor owner now exposes independent monograph/readiness ceilings for every subject, the institutional owner selects complete-novel reliance without overwriting report channels, and the claims owner provides readable current arguments, eleven attributable new versions and an exhaustive disposition index. The single G2 [reconciliation disposition and handoff](../07%20Audits%20and%20Handoffs/HARMONY_G2_RECONCILIATION_AND_HANDOFF.md) owns gate/audit/dependency reporting, not another set of claims. This responsibility justifies one new artifact in the existing audit home; no competing ledger, character registry, theme index or synthesis is created.
+
+EVOLVING records this legitimate current retrieval refinement; all dated INITIAL G1 reviews and the gate table's explicitly historical bootstrap states remain intact. G2 is complete for the admitted corpus after independent semantic review; exact-head branch publication and owner-controlled integration remain separate. The formal gate table above retains its explicitly historical bootstrap column. G1 exact-witness coverage and completed/NONE source state remain unchanged. G3 specialist role-gap/completion, G4 final synthesis, G5 model construction/validation and G6 release remain NOT_STARTED and require separate authorization. The post-reading readiness assessment does not weaken §5 or supply a model: literary monograph eligibility, conditional behavior within evidenced contexts and broad simulation candidacy have different evidence thresholds. No full private psychology or prior model validation is required merely to acknowledge narrower supported potential. The source scope, five-label scale, acceptance/validation contract and ownership graph are unchanged.
