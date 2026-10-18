@@ -987,3 +987,119 @@ Native classroom interval follows the existing November LN03Maika/Sencounter and
 | Readiness | Evidence addendum for later explicitly versioned reconstruction, no new operational packet/test. Ordinary source-consistent reconstruction, conversation, counterfactuals, unfamiliar people, cross-series and acoustic domains require separate assessments |
 
 M0.13 retains original adult LNfit/time/UNTESTED/noncurrent identity.13historical attempts remain6first-action failures(oneinput-qualified)+1exposure-qualified gift match+6baseline ties;5olderclaim forecasts separate/18records. Original outcomes already independently read, no new heldout credit or model validation. Same-author/evaluator and latent familiarity limits remain; no independent acceptance/numerical accuracy/VALIDATEDdomain. Full reconstruction/readiness assessment remains mandatory.
+
+
+## KSS05 historical evidence addendum — an object voice and human limits
+
+The [reading/index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_05_DEEP_READING.md#observation-locator-index) owns all50native anchors/29nonempty paragraphs in authorpart09. A crocodile tissue cover narrates; Shiori is perceived and Sendai blamed while absent. Its affectionate 志緒理ちゃん, rival full-name reference, 私 and extravagant self-praise are object-narrator language, not new human conversational samples. Its explicit inability to speak prevents automatic transfer of its interior to human hearing.
+
+| Responsibility | Evidence and negative constraint |
+| --- | --- |
+| Historical Miyagi image | Narrator reports early packing and slight apparent anxiety; inferred affection ranking and alternative care hypothesis remain its own. Original LN04p014 M own choice/no-regret amid unease and refusal of help stay independently attributed |
+| Historical Sendai image | Narrator allocates blame for move, university and room sharing while admitting limited understanding. No new current Sendai voice, action or private motive; M agency does not disprove all Sendai influence |
+| Material/form comparison | Boxed crocodile/cat still outside strongly correspond to original packing phase, not an exact same instant or ventriloquized M psyche. Comfort desired, not delivered; move/arrival/unpacking not performed here |
+| Readiness | Historical evidence addendum only. Original adult fits and M/S-V09-EXIT, BW09night and earlier historical views retained; no new operational packet/test, acoustic readiness, unfamiliar-person or cross-series validation |
+| Claim routing clarification | ERRATUM-KSS-05-001 restores housing to CLM-LN-JP-V04-005.v6 and preserves valid privacy evidence in CLM-LN-JP-V05-001.v6. Historical LN09 references to04005 retain its v5 privacy meaning; earlier housing references retain v1–v4. The original model prefix is unchanged and no outcome is rescored |
+
+Source unit C2:28literal checks/90serialized bindings in LN04p0141–60,108–137. Separate post-Q1 claim-routing correction:29checks/94bindings in LN09p004/p007/p008/p009/p013. These are known-source checks, not new heldout interactions. All13historical attempts/18forecast records unchanged; no independent acceptance, numerical accuracy or VALIDATEDdomain. Full reconstruction program remains mandatory.
+
+M0.13 retains original adult fit/time/UNTESTED/noncurrent identity. The new object focalizer supplies no operational human response model.
+
+
+## KSS06 historical evidence addendum — soft address and object conversation
+
+The [reading/index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_06_DEEP_READING.md#observation-locator-index) owns complete nativepart10/69anchors42nonempty,42native checks, explicit black-glyph derivative qualification and20original checks/51bindings. Cat plush focalizes; Mquoted speech/handling and object dialogue have distinct speakers/access routes. Catmostlyわたし/simple hiragana terms contrast croc私/inflated seniority/register; native30私variation preserved. These object registers are not human conversational samples.
+
+| Responsibility | Evidence and limitation |
+| --- | --- |
+| Historical Miyagi | Cat reports complaints/home company; Mstrokes/holds cat and says packing nearlydone/temporarystay, selects box/places it. Two soft quoted lines provide a bounded written object-address context, not a global human style or all Mmotives |
+| Historical Sendai | Cat remembers selection and anticipates future meeting from Mreport. No new current Sown-voice action, reciprocal promise, performed reunion or knowledge of object talk |
+| Source-specific access | KSS05inability-to-speak-to-comfort passage remains exact; KSS06reports/enacts object dialogue. Current CLM-KSS-05-002.v2/PROP-KSS-05-011.v2 qualify universal silence. Neither humans hearing that conversation nor all object-world ontology established |
+| Behavioral limits | Cat reply/wish differs demonstrated Mhearing; no heard-human refusal judgment inferred. Croc rank/deference conditionR154belongs solely to represented object exchange, understanding/acceptance/enforcement unestablished; no human model permission |
+| Original phase | Original LN04p014boxedcroc/bedsidecat/Mlift-and-invitation support phase; actual SSboxing/conversation are additional material. No exact same instant or claim the novel contains them |
+| Readiness | Earlier adult models retain own fit/time/UNTESTED/noncurrent prefixes. These are historical evidence addenda, no new operational packet/test; no expanded unfamiliar-person, cross-series, acoustic or generic conversation validation |
+
+All13historical attempts/18forecast records unchanged. No independent acceptance/numerical accuracy/VALIDATEDdomain. ERRATUM-KSS-05-001 housing/privacy routes retained unchanged; current speech qualification is a later-source revision, not a frozen-byte repair or failed formal forecast. Full reconstruction assessments remain mandatory.
+
+M0.13 original adult fit/time identity remains unchanged; historical object frame does not validate an operational human response model.
+
+
+## KSS07 historical evidence addendum — peer privacy and distinct knowledge clocks
+
+The [reading/index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_07_DEEP_READING.md#observation-locator-index) owns the complete native authorparts07→08/118anchors77nonempty and source-qualified C1/C2. Ami narrates one first-college-year lateApril phonecall with Maika. Mabsent/reported; actual Sroommate identity is reader-known from originals but not discovered by these peers here.
+
+| Responsibility | Evidence and negative constraint |
+| --- | --- |
+| Historical Miyagi | Peer reports of questions diverted/photo and homeentry refused are not new Mown narration or a proven mutually agreed no-guests term. Original LN05Mprivate relativecover/makeshift guestban and canceled Maika plan/guilt have separate source routes; actual R037guestterms retained |
+| Historical Sendai | Not a named current SSspeaker or new own-behavior sample. Original private lateApril nonreturn reasons are reader evidence, not what Ami/Maika hear. Later actual S→Maika identity disclosure is existing REL-LN-JP-V06-007.v2, not April knowledge/new event |
+| Peer access | Doubting kinship or imagining a handsome boyfriend does not establish actual Sidentity; knowing Sendai as priorclassmate differs knowing she is roommate. Later LN06p008focalizer is Maika, not Ami; later Ami original LN07identity knowledge remains later |
+| Local norms and obligations | R155is Ami/Maika local no-forcing principle with actual topicchange, not Mheard/ratified privacycontract or permanent noquestions. R156is Maika own future summerreturn assurance; absent Mnotbound, actual return not shown |
+| Supporting readiness | Ami individual monograph now REQUIRED/PENDING; own sustained interior adds priorities, conflicting wants, contextual restraint and register beside prior recurring contributions. Maika individual monograph remains required. Neither has a validated functional model |
+| Principal readiness | Original M0.13/S0.14adult fit/time/UNTESTED/noncurrent prefixes retained. These are historical evidence addenda, no new operational packet/test, heldout credit or expanded unfamiliar-person/cross-series/acoustic validation |
+
+All13historical attempts/18forecast records unchanged. Known originals rechecked for correspondence do not become new prospective outcomes; Ami fantasy narrowed to wouldbeamusing is not a failed formal forecast. Full time-bounded reconstruction/validation assessments remain mandatory. ERRATUM-KSS-05-001housing/privacy redirects and later object-dialogue qualification preserved.
+
+
+## KSS08 historical evidence addendum — firm refusal, ordinary care and informed outsiders
+
+The [reading/index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_08_DEEP_READING.md#observation-locator-index) owns complete native05→06/116anchors73nonempty,73native checks, qualified printglyph/split/occlusion findings and30original checks/350bindings. Maika narrates bothparts across distinct phone/text/hometown stages. These historical source inputs do not alter the original adult operational candidates.
+
+| Responsibility | Source evidence and negative constraint |
+| --- | --- |
+| Historical Miyagi | Actual text/Mphonevoice maintains nonreturn plan, gives crowds/travel/ease reasons, claims study/college difference and reminds Mai locks/trash. Neither complete private motive nor performed study follows; maternal echo does not create parental authority or attribute mother gas/fridge list to M |
+| Identity disclosure | Native06p36reports Mhas toldAmi actual Sroommate identity; original LN07p008147corroborates same earlier disclosure and Mprivate fairness reason. Ami has explicit information but says cannotbelieve; affective surprise versus residual factual doubt remain alternatives. No Aprilforeknowledge or fullprivatehistory receipt |
+| Historical Sendai | Named absent roommate/closepair image from Maika earlier visit. No new own currentSspeech/action or psychological policy. Original Sschoolrecognition/contested claim to haveheardM and actualvideo stay known original evidence, not nativebodycompletion |
+| Source versus counterpart | Mai remembers existing LN06homevisit and begins an answer whose detailedcontents are not supplied. Known LN07video/aftercall events cannot fill native answer/peer knowledge or rescore original Sfirst-action FAILEDcase |
+| Local obligations | R156own Mai return component observed through actual hometownmeeting; wholebreakduration/chores/parentmeeting unshown, Mneverbound. R157only Mai before-departure checklist assurance; later addedlocking reminder heard, separate explicit ratification not shown |
+| Supporting contexts | Maika familyattachment/solofreedom/envy/advocacy/returnrevaluation and Ami welcome/play/changeperception/incredulity have independent responsibilities. Both individualmonographs REQUIRED/PENDING; unnamed mother boundedensemble only |
+| Readiness | Original M0.13/S0.14adult fit/time/UNTESTED/noncurrent prefixes intact;13historical attempts18forecasts unchanged. No new operational packet, independent heldoutcase or expanded familiar/unfamiliar/cross-series/acoustic validation |
+
+Any knows shorthand in preserved sourceQ1records information received; the current model notes above do not settle Ami degree of belief. Native/accepted prospective states remain exact; source-based corrections qualify current interpretations rather than rewriting first encounters. Full time-bounded model assessments/testing and final corpus duties remain mandatory.
+
+
+## KSS09 historical evidence addendum — object care and the limits of an affection model
+
+The [reading/index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_09_DEEP_READING.md#observation-locator-index) owns complete native04/60anchors31nonempty,31native checks, printsplit/occlusion qualification and30original checks/199bindings. A nameless platypustissuecover focalizes; catCHOPSTICKRESTS are separate from the KSS06catplush.
+
+| Responsibility | Evidence and negative constraint |
+| --- | --- |
+| Historical Sendai | Actualshort可愛いね31has targetinferredbyobject37; 仲良くね57and drag/pat/beakstroke/placement are bounded writtenobject-address/handling. Care changesobjectfeltneglect, not proofSfullintent/actualhearingofobjectvoice/universalhuman-boundaryrespect |
+| Historical Miyagi | Objectremembersselection/gift/introducingS andgrantsMlife-debtpriority. OriginalMchoice/Spreemptivejoint-fundpurchase/laterMcovertransfer andfivecatgift have directhumanroutes; objectgratitude not Mselfacceptedrole or fullgiftintent |
+| Information andnorms | Native39strongnegativehuman-hearingexpectation beside timedmanualpull is a focalized gap, not proventelepathy. R158number-entitlement/R159Mpriority/R160getalongaddress belong only to representedobject domain, no new humanrights/exclusivity/legalownership |
+| Action andcapacity | Native53loyalty toSvaluedcats AND physicalcannotselfmove both constrain shakingoff. Actualgreetings55precede finalhumanrequest57; hiddennyaa60followsstroke59. Neither freehumanconsentpolicy nor completefriendshipacceptance follows |
+| Provenance/chronology | Originalfivegift/twocommonspace/threeroomdecor supports currentthree without contradiction; exactSSdate/currentindividualcatcolors unprovided. OriginalSbirthdayAug23/giftAug24 distinct, no nativeexactday inferred |
+| Readiness | OriginalM0.13/S0.14adultfit/time/UNTESTED/noncurrent prefixes/13historicalattempts18forecasts unchanged. No newoperationalpacket/heldouttest/unfamiliar/cross-series/acousticvalidation. Objects have literaryform responsibilities, no forcedfunctionalmodels |
+
+The current wording of the cats numerical claim concerns permission to be cherished three times as much, not a measurable tripled-cuteness trait. Sourcejournal/earlieracceptedstates remain exact. Ordinary positiveobjectcare cannot substitute for testing human refusal/agency policy; monographs and full functional-reconstruction assessments remain mandatory.
+
+
+## KSS10 historical evidence addendum — private veto and changed priority
+
+The [reading/index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_10_DEEP_READING.md#recoverable-evidence-and-observation-locator-index) binds complete48 native anchors/26nonempty,26native literal checks, one explicit PDF black-glyph comparison fold/actual glyph crop and33original checks/344bindings. The crocodile tissue cover focalizes; black-cat happiness appraisal is its report. Miyagi has one actual current line and bounded visible handling; her complete present interior remains unavailable through the cover.
+
+| Responsibility | Evidence and negative constraint |
+| --- | --- |
+| Human agency | Original Aug23 first room entry is Miyagi-initiated/admitted. Original225–235 preserves lip stroke/question, Miyagi conditional-no wording, Sendai proceeding and later substitute-present framing; no clear affirmative yes or birthday-wide grant. Object veto is a separate claimant. |
+| Current access | Miyagi sighs, pulls the cover and says バイト、むかつく. Apparent unhappiness and Sendai referent are object inferences; Sendai job attendance, exact present day and return unshown. |
+| Action/capacity | Cover cannot selfmove; Miyagi hand-pull follows inward 動け without proving thought comprehension. Only-self-heard きゅんっ is focalized material-body narration, not actual acoustic inspection. |
+| Development | Cover retains dislike of Sendai in room yet decides forgiveness/prays for early return for Miyagi apparent welfare. New R161v1→v2 is solely private object stance; no human assent or standing room access. |
+| Source clocks | Last-week birthday corresponds to original Aug23; native present exact day/year unknown. Original Sendai private joy/Miyagi next-morning fatigue/gift doubt retain separate access; no new event duplication or object omniscience. |
+| Readiness | Original M0.13/S0.14 fit/time/UNTESTED/noncurrent prefixes,13 historical attempts and18 forecast records unchanged. No operational packet, held-out test, numerical accuracy or unfamiliar/cross-series/acoustic validation added. |
+
+This evidence has descriptive and literary-form responsibilities. It does not validate a general human consent or care policy. Principal, Maika and Ami monographs and full time-bounded reconstruction assessments remain mandatory; objects do not require invented functional models or symmetrical monographs.
+
+
+## KSS11 historical evidence addendum — peer agency and limited reassurance
+
+The [reading/index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_11_DEEP_READING.md#observation-locator-index) binds complete68native anchors42nonempty/42literal checks, raw42/42PDF correspondence/five text-pixel pairs and12original checks/107bindings. Miyagi supplies actual phone words and a countertease, while Maika supplies the focalizing account; neither is a full current Miyagi interior.
+
+| Responsibility | Evidence and negative constraint |
+| --- | --- |
+| Time/channel | Maika chooses a call despite expecting little explanation; five rings and M local 大丈夫 answer establish this call's time approval, R162, not unrestricted private-topic consent. |
+| Information | M reports cafe work/night return, denies frequent quarrels and says enjoying solitude/reading. Maika teasing/nonloneliness inference/imagined face/qualified reassurance remain distinct; no complete M affect, actual reading or S return. |
+| Reciprocal agency | M returns 面白ガール with a reported Maika pillar-apology habit; Maika requests no mention and falls into pillow. R163 following uptake is unshown; current scene is a retelling, not new collision or universal habit test. |
+| Geography | Native Maika own parental-home selflocation versus original M Dec31舞香も実家に帰っていない is explicit unresolved tension. Current PROP-V09-018.v2 revises weighting, with no invented travel/secret lie/particle substitution or assumed separate fictional continuity. |
+| Chronology | Native current year end lacks exactday/year; original Dec29/Dec30 tutoring differs reported SS cafe work. No same-original-call identity established; adult principal source histories remain separate. |
+| Readiness | Original M0.13/S0.14 fit/time/UNTESTED/noncurrent,13historical attempts/18forecast records unchanged. No operational packet, held-out score, numeric accuracy or unfamiliar/cross-series/acoustic validation. |
+
+Maika's own family/autonomy motives, deliberation, concern and reciprocal vulnerability strengthen her REQUIRED individual monograph. Principal/Ami studies, full role-gap review and time-bounded reconstruction remain mandatory. Descriptive friendship evidence does not validate a universal teasing/care or information policy.

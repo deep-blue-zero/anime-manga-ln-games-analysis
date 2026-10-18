@@ -12,6 +12,8 @@ do_not_use_as_current_authority: false
 
 # Character-model evidence matrix — main-only evidence plane
 
+The original main-only index below retains its authored source/exposure scope. The dated Phase B appendix adds separately tagged validation routes; it does not add holdouts to the main derivation corpus or certify expanded literary/component completion.
+
 This accepted main-only plane connects the six frozen R1 models to admitted principal evidence. It supplies 75 claim rows: all 39 behavioral/valuation commitments, four typed constraints and 32 additional literary, relationship, narrator, ordinary-life, ensemble, voice and transfer claims. These are curated causal claims, not a claim that 39 forecasts exhaust the mature models. The remaining validation and expanded planes must still be added before full 41-object/component acceptance.
 
 The model baseline is the published 3b92d9fac53c6065098d690aef68773588126def suite, with actual semantic acceptance 15:04:33.118647Z and freeze 15:05:30.667128Z on 2026-10-17. Root subsequently reports the full publication gate closed 15:19:27.894053Z. The immutable freeze’s PENDING-at-authorship statement is preserved as history. The producer’s candidate was subsequently accepted by root on 2026-10-17T18:02:32.019080Z at the bounded receiving scope recorded below. The producer remains shielded from holdout narratives, findings and scores. This containing canonical publication is pending at authorship.
@@ -912,3 +914,46 @@ Root’s actual receiving reused the earlier complete 85,926-byte v1 prose read 
 The public companion preserves all 75 claim rows, 102 route windows, 61 witness rows, 162 section hashes, 168 protocol routes and 43 original contracts. Its six private tested-core locations are replaced by explicit opaque recovery aliases; their tested bytes/hashes remain unchanged and are reproducibly recovered from the public model plus the frozen adoption inverse. No local evidence path is published. This source-safe transformation and the metadata wrapper do not revise model mechanisms or scoring.
 
 The 32 additional mature-claim rows are curated coverage, not a claim that every mature sentence in every model is independently localized. Coarse original witness clauses and unresolved primary specificity remain explicit. Final expanded-source coverage and a substantive complete-index audit are still required.
+
+
+## Separate Phase B frozen-model validation route plane — 2026-10-17T21:53:24.382586+00:00
+
+The original main-only model/witness/claim rows and structured companion above remain unchanged. The [four-book overlay](KONOSUBA_WITHHELD_VALIDATION_EVIDENCE_OVERLAY.json) separately indexes all 39 unchanged source commitments across the four predefined books, with 25 exact principal-member identities, original literal hashes, accepted outcome fields, native/event routes and mandatory counterevidence fields. Its full four-book diagnoses are exact accepted values, not new rescoring or new main-only support.
+
+YORI01 K08 and DUST07 E06 have accepted consequential local failures. E06 retains MODERATE occasion/history scope and its coherent-episode rival; K08 retains contrary compatible examples without a vote cancellation. DUST06 E01/E06 remain ambiguous; MASK E08 retains the narrower independent recommendation; E03 care, E05 inference and E08 timing gaps remain visible. DUST07 named-character dependent fits/new Japanese/adverse surfaces are retained despite formal new-independent-event NT scope. Fourteen contracts remain untested in all four sources; four T constraints remain source N/A. No 156 independent trials, pooled accuracy, absence confirmation or altered-world replay is added.
+
+The [claim-revision ledger](KONOSUBA_CLAIM_REVISION_LEDGER.md) records three attributable later-revision obligations. Recording failures or a new private viewpoint does not revise R1. Stage D must distinguish validation-driven change from additional expanded evidence, preserve old/new claims and contrary evidence, and keep the original models/90 responses/settings/criteria/scores independently retrievable. Complete expanded routes, post-validation models and full 41/component acceptance remain pending.
+
+
+## Stage C DUST-01 observational plane — 2026-10-17T22:53:08.846506+00:00
+
+Twenty separately tagged EC-DUST01 observations now append to the ten maintained ledgers, routed through [Dust V01](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V01_DEEP_READING.md). Concealed spear capacity and chosen idling coexist; actual protective action coexists with misconduct; Leen attachment is particular without a certified romance; narrator inference, dream experience and provider agency restrict generalization. The separate bonus supplies domestic Aqua/Kazuma/Vanir/Wiz observations after the main-only freeze. These are evidence for later attributable Stage D comparison, not edits to frozen R1 or a full promoted Dust reconstruction. No new independent validation score or exhaustive humor denominator.
+
+
+## Stage C artbook evidence extension — 2026-10-17T23:27:29.977226+00:00
+
+The immutable main-only structured matrix and frozen model evidence remain unchanged. Current expanded constraints route through [Cheers§6–10](../10%20Expanded%20Corpus/Artbooks/KONOSUBA_CHEERS_COMPONENT_AND_LITERARY_ANALYSIS.md) and the [complete Blessing report](../10%20Expanded%20Corpus/Artbooks/KONOSUBA_BLESSING_COMPONENT_AND_LITERARY_ANALYSIS.md), native registers and EC-ARTBOOKS observations in all ten ledgers.
+
+| Model subject | New bounded constraint / counterevidence | Primary route | Authority transition |
+|---|---|---|---|
+| Kazuma | Revises purchase after risk information; nevertheless restrains/pressures others and participates in status boasting; narrator questions not private facts | CHEERS120/B1/122final; BLESSING142/147–148 | Expanded evidence for later StageD, unchanged R1/old score |
+| Aqua | Meaningful familiarity cue/game success coexist with appetitive friction and dangerous curse hypothesis; cleaning causal responsibility remains indirect | CHEERS118/B1/121/B1; BLESSING145/148 | Preserve competence-domain/knowledge/judgment/access distinctions |
+| Megumin | Title/recognition framing can exploit others’ restraints and rule omissions; new danger information also elicits actual cast interruption | CHEERS120–122; BLESSING146–147 | Opposing cases retained; no universal impracticality or automatic inhibition |
+| Darkness | Investigative role, challenge and duty-driven work coexist with performed objection and corrective compensation demand | CHEERS118/122B3; BLESSING142/147–148 | No covert claim of welcome/consent from later belonging or bodily durability |
+| Party / Yunyun | Resources and tactical work distributed; Yunyun actual skill and solo-label objection coexist; alternate settings must recalibrate consequences | CHEERS121–122; BLESSING145–147 | Secondary promotion remains evidence-thresholded; no full model from artbook alone |
+
+All major accepted additions have named actors/recipients, exact source regions, observation/inference classes and contradictory evidence in the reports. No new four-book validation success/failure or retrospective main-only outcome is generated. Blessing H3 qualification controls use of original selected records.
+
+
+## Stage C FAN-MEM model-constraint extension — 2026-10-18T00:05:03.198219+00:00
+
+These are newexpanded constraints, not revisedscores or frozen R1replacement. [Fullreading](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_AND_LITERARY_ANALYSIS.md) and [register](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_REGISTER.json) provide exactnativejoins and current qualification.
+
+| Constraint | Modelsubject/variable | Located evidence and contrarylimit | Currenttransition |
+|---|---|---|---|
+| EC-FAN-MC01 | Kazuma incentive/competence/morallimit | S097–099 actualrewardacceptance/advice/teacherrole/escape; localtoiletrestraint/concern, no certifiedrescue | EXPAND mixedmechanisms; deferStage D, no universalvirtue/crueltyrule |
+| EC-FAN-MC02 | Party domaincomplementarity | S099 Chris/Yunyun/Wiz/Darknesstasks; originalquartetconstraints remain | EXPAND roleconditionalcompetence, not contextfreerank |
+| EC-FAN-MC03 | Aqua status/reappraisal/economics | S110–111 price/freewatercompetitor/tributeattempt; utilitynotmonopoly, nosale/payment | EXPAND recognition/resourceinteraction, not totalincapacity |
+| EC-FAN-MC04 | Kazuma/Luna/party audiencescripts | S100–107 usefulhelpwithdateincentive/partyobjection/Lunaexit; explicitfans/film/pollplane | EXPAND source-specificinteraction, noordinaryMAINexternalmediaknowledge |
+| EC-FAN-MC05 | Voice and evidence-class scope | FM-H07referencecapacityHN/A; FM-V15L2/L1afteroriginalL3; FM-V05reportedselfproverb/L3defensible; 水商売L3explicit | QUALIFYwarrants, preserveoriginals, no pooledstatistics ornew modelscore |
+| EC-FAN-MC06 | Productionintent/referencecorroboration | S090–094 creatorconstraints; allreferenceplanes markeddependent/hypothetical/report asappropriate | CONTEXTUALsupport only, cannot erase performedcounterevidence or immutablefailure |

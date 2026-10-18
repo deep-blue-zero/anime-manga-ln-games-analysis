@@ -1,0 +1,399 @@
+{
+  "schema": "KONOSUBA_DUSTCONT_WHOLE_SUPPLIED_EDITION_SAME_ROOT_ACCEPTANCE_V1",
+  "source_id": "DUST-CONT",
+  "status": "ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+  "accepted_utc": "2026-10-18T12:45:50.687643+00:00",
+  "native_identity": {
+    "native_filename": "Konosuba Extra - Dust - Motto Ano Orokamono ni mo Kyakkou wo - Himesama kara no Shoutaijou.epub",
+    "native_bytes": 5588468,
+    "native_sha256": "c5ffcf82e82cb0c205f34fe776f99d23fb2ac8cf13841598c92a607988bfa023",
+    "OPF_member": "item/standard.opf",
+    "OPF_sha256": "41862bf5187eb0cd4a81f9cf6e7ee7dbb66acd51f5c66801b7ae82ab607e547c"
+  },
+  "actual_source_and_reading_receipt": {
+    "schema": "KONOSUBA_DUSTCONT_ACTUAL_WHOLE_SOURCE_AND_READING_RECEIPT_V1",
+    "source_id": "DUST-CONT",
+    "accepted_utc": "2026-10-18T12:45:50.687643+00:00",
+    "native_filename": "Konosuba Extra - Dust - Motto Ano Orokamono ni mo Kyakkou wo - Himesama kara no Shoutaijou.epub",
+    "native_bytes": 5588468,
+    "native_sha256": "c5ffcf82e82cb0c205f34fe776f99d23fb2ac8cf13841598c92a607988bfa023",
+    "OPF_member": "item/standard.opf",
+    "OPF_sha256": "41862bf5187eb0cd4a81f9cf6e7ee7dbb66acd51f5c66801b7ae82ab607e547c",
+    "language": [
+      "ja"
+    ],
+    "colophon": "Electronic2026-02-28/ver.001, print-base2026-03-01first edition. Exact separately titled unnumbered more work 姫様からの招待状. OriginalAkatsuki/proseHirukuma/illustrationHagure/conceptMishima; internal spine code is not narrative volume8.",
+    "admission_sha256": "c4ab1fb7d52d432e9f62748ee55651ae2395cf179a2cae9cf025390d25b1e5b8",
+    "admission_utc": "2026-10-18T11:46:51.471833+00:00",
+    "preceding_full_gate_source": "9a5ac5e4b58cc60501df32142505d4ce4a38860d",
+    "preceding_gate_sha256": "ee9d09b4a2304f88a7f91250ae9c6bef06defe31ee40622ccb516061b30cac7b",
+    "preceding_fresh_reload_sha256": "d3825aa0d006964a8854f441c113920e9c33d3a647d1a51831a69ef69afb5c42",
+    "complete_uncoded_seal_sha256": "8c20d38a55ddd38a178ee1bc35b46e12a431753844c54a234c6775ebb32ee186",
+    "complete_uncoded_seal_utc": "2026-10-18T12:18:47.351639+00:00",
+    "actual_reading": {
+      "all_textual_components": 23,
+      "all_native_P_slots": 2916,
+      "principal_P_slots": 2846,
+      "other_P_slots": 70,
+      "separate_bonus_narrative": false,
+      "all_native_images_actually_viewed": 22,
+      "all_ruby_displayed_inline_and_nonparagraph_residual_received": true,
+      "all_native_local_and_archive_text_image_hash_joins_reverified": 45,
+      "fresh_native_ZIP_CRC": "PASS",
+      "image_individual_scopes_control": true
+    },
+    "source_first_sealed_pins": [
+      {
+        "file": "NATIVE_ADMISSION.json",
+        "bytes": 26074,
+        "sha256": "c4ab1fb7d52d432e9f62748ee55651ae2395cf179a2cae9cf025390d25b1e5b8"
+      },
+      {
+        "file": "ROOT_PRE_BODY_PREPARATION_SEAL.json",
+        "bytes": 9028,
+        "sha256": "292b9f1a7909b2b943735b792185bec0bae894340c2b81f71c58ca74ba85c304"
+      },
+      {
+        "file": "ACTUAL_SOURCE_FIRST_UNCODED_NOTES.jsonl",
+        "bytes": 134260,
+        "sha256": "60d4f7831ef5ae9d34b17e5e7b75b034397dacdbc2d969fe753fab06499d78ac"
+      },
+      {
+        "file": "ACTUAL_IMAGE_VIEW_UNCODED_NOTES.jsonl",
+        "bytes": 15877,
+        "sha256": "99a67d6989353c6fcb2885f8dab9b1504f4119e3601c81bd7921075b0112ff3f"
+      }
+    ],
+    "formal_coverage": {
+      "full_responsibilities": 17,
+      "selected_premises_not_census": 73,
+      "native_verified_short_form_context_witnesses": 150,
+      "local_unchanged_question_assessments": 7,
+      "append_only_decisions_across_ten_ledgers": 34,
+      "current_precision_qualifications": 45
+    },
+    "same_root_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05,DUST-06,DUST-07. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim.",
+    "no_independent_second_full_pass_native_human_audio_claim": true,
+    "source_first_originals_remain_exact": true,
+    "original_four_scores_and_14_future_fields_unchanged": true,
+    "publication_state": "CONTAINING_EXACT_PUBLICATION_AND_FULL_GATE_PENDING",
+    "midread_precision_context": "Dust07 full gate/fresh authority and declared assessments/inquiries plus prior Dust04 coercive-danger precision preceded this body; same informed main/fourholdout/R1 exposure, not independent new test. Electronic/print dates distinct, actual source title unnumbered."
+  },
+  "current_root_check": "Same continuing informed root checked all17responsibilities/named referents,73whole-premise L/H warrants,150exact original native-window joins,7unchanged-question conjunction/rival assessments,23text/22image scopes and34append-only decisions. No independent receiver/second pass. Retain actual nonhelp/coercion, qualified leisure comparability, actual term checks/provider veto, tactical failure/collateral, opposite bride/jail identity errors, public versus private brainwash/no-harm accounts, actual surviving devil/new contract and unfinished outcomes.",
+  "current_qualifications": [
+    {
+      "id": "Q01",
+      "qualification": "Exact source is the separately titled もっとあの愚か者にも脚光を！ 姫様からの招待状, not a newly invented numbered volume8. Printed spineあ-6/8-1 is an internal code. Author explicitly reopens the seven-volume ending under more.",
+      "source": "U017P0003–0011;U020;IMG003/004"
+    },
+    {
+      "id": "Q02",
+      "qualification": "Whole supplied scope23text/22images/2916P; principal U010–0162846P including five chapters/two epilogues, other70P. No separate supplied bonus. All ruby/residuals and native images actually read before seal.",
+      "source": "admission/seal/U001–023"
+    },
+    {
+      "id": "Q03",
+      "qualification": "Electronic colophon2026-02-28/ver.001 differs from print-base2026-03-01 first edition. Preserve both dates; inventory selling/release and OPF modification do not silently replace actual colophon observations.",
+      "source": "U020P0007–0012"
+    },
+    {
+      "id": "Q04",
+      "qualification": "All150 original short voice anchors join the exact native windows; purposeful selection, no audio/native-human, second independent pass, population gag census or new main J01 claim.",
+      "source": "current voice register/whole seal"
+    },
+    {
+      "id": "Q05",
+      "qualification": "ロリーサ is explicitly used for the small succubus here. Real ドレック and proxy devil ガイビル are separate actors; Leen/princess are separate lookalikes. No new names or identity facts are backfilled into frozen older states.",
+      "source": "U010P0149;U011P0416;U013P0085/0208–0223/0306–0314"
+    },
+    {
+      "id": "Q06",
+      "qualification": "Princess letter pressure/no-veto and Dust refusal precede his actual revised travel choice. Leen offers accompaniment for her own reasons; party volunteered later. No automatic consent from invitation, authority or proposed travel.",
+      "source": "U010P0003–0067/0187–0209/0276–0285/0353–0368"
+    },
+    {
+      "id": "Q07",
+      "qualification": "Actual child grooming, Leen cleanup, wanted walk, picture-book purchase, specific assent and generous cookie offers are nonsexual care/attachment evidence. Child is not an adult romantic rival; Cecilys inappropriate child approach/harassment is described only non-graphically, with actual protection attempts.",
+      "source": "U010P0068–0107;U011P0458–0550;U012P0320–0375;U015P0068–0069"
+    },
+    {
+      "id": "Q08",
+      "qualification": "Old rescue declaration becomes reported DarkStalker gossip; Dust accidental confirmation amplifies it. Spy described female by Vanir, location/identity unresolved. Advanced-class expertise does not prove a newly observed spy scene.",
+      "source": "U010P0109–0167/0263–0272"
+    },
+    {
+      "id": "Q09",
+      "qualification": "Child positively agrees and actually hands over her own hair for snacks; advisor waives fee after receiving this consideration. This present exchange does not authorize earlier Dust payments using her materials. Wiz expensive snacks/humiliation remain separate owner costs.",
+      "source": "U010P0213–0239"
+    },
+    {
+      "id": "Q10",
+      "qualification": "Oracle advice is actually sought, extra disaster detail has explicit price and is knowingly declined; narrator perfect-accuracy appraisal is not a new observed accuracy census or identified future disaster. Vanir tracking limit is explicit.",
+      "source": "U010P0241–0272"
+    },
+    {
+      "id": "Q11",
+      "qualification": "Travel decision precedes forgotten funds, actual empty wallet shown/Leen savings separate. Escort arrangement belongs Keith/Taylor distributed planning; billion bounty is rejected for danger/time. No new bounty attempt or fully printed binding financial loss.",
+      "source": "U010P0276–0299/0353–0380"
+    },
+    {
+      "id": "Q12",
+      "qualification": "Yun main battle and prior past events remain mediated reports. Actual audience rejects a break in heroic ceremonial speech and Dust rebuke hurts Yun; his kindness claim does not prove no harm, future consolation unperformed. No clinical diagnosis or H3/H4 exemption from genre speech.",
+      "source": "U010P0302–0352"
+    },
+    {
+      "id": "Q13",
+      "qualification": "Client misheard names and Dust cognitive-decline suggestion are written characterization, no medical diagnosis. Three-carriage client arrangement is actual; Small pays passenger/travel-work purpose and Leen invites her, not Dust commandeering.",
+      "source": "U010P0381–0427"
+    },
+    {
+      "id": "Q14",
+      "qualification": "Road spear use occurs because magic sword still not returned by Kazuma. Small passenger objection precedes manipulated bait choice; first rescue real, hair graze/repetition/exhaustion real. Toad migration is Keith hypothesis, not proven exclusive Megumin causation.",
+      "source": "U010P0444–0498"
+    },
+    {
+      "id": "Q15",
+      "qualification": "Client explicitly objects to meat/blood on carriages and Dust ignores. Actual useful food/burn disposal does not authorize provider property use. No cruelty-free result or total environmental repair claimed.",
+      "source": "U010P0493–0498"
+    },
+    {
+      "id": "Q16",
+      "qualification": "Family whereabouts remain uncontacted and unknown; Dust parents-resilient belief is not evidence they are safe. His nostalgia/current-life enjoyment and grumble-smile are actual self-report, not total absence of regret.",
+      "source": "U010P0500–0542;U011P0210–0215/0263–0271"
+    },
+    {
+      "id": "Q17",
+      "qualification": "Actual gate entry uses invitation and selective true help account without detailed old-identity check. Active hood/disguise persists. Princess public local mischief popularity is observed/reported in bounded groups, not every citizens view.",
+      "source": "U011P0030–0060"
+    },
+    {
+      "id": "Q18",
+      "qualification": "Threatened fractures initially are threats; actual capture/binding/gagging occur. Dust hears protests despite false consent/bonus translation and cites kings permission. Leen objects. Later room hanging actually observed at U011P349; no authority, injury-threshold, comedy or affection exemption.",
+      "source": "U011P0065–0183/0341–0383"
+    },
+    {
+      "id": "Q19",
+      "qualification": "Butler starts old name then repairs Dust; true/original princess labels are knowing role insults, not identity equality. Casual-address permission is recipient-specific, not general removal of rank.",
+      "source": "U011P0118–0139"
+    },
+    {
+      "id": "Q20",
+      "qualification": "King actually apologizes in private, using Line; Dust owns decision while acknowledging pressure, with 私-to-俺 repair/hedged no regret. Child exchange plus money twice refused. Old foreign match reportedly failed; current groom is domestic former chancellors eldest son, future office unperformed.",
+      "source": "U011P0231–0299"
+    },
+    {
+      "id": "Q21",
+      "qualification": "Dust refused visit is forced by push/grip/whip binding and exposure threat. Princess feigned sleep/rope humor do not mean restraint is unreal or permitted. Doreck later begins untying, full release inferred after actual start.",
+      "source": "U011P0300–0383/0451–0452"
+    },
+    {
+      "id": "Q22",
+      "qualification": "Bookshop free-use license attributed to princess includes Dust without his permission; idealized histories and author-supervised beauty changes are in-world reports/skims, not root reading all those books. Arson contemplated, not performed; child book actually bought.",
+      "source": "U011P0468–0496"
+    },
+    {
+      "id": "Q23",
+      "qualification": "Axis conversion/refuge/suppression and anti-religion statements initially Cecily reports, princess conversion only directly confirmed U014P133. Signup form rejected before signature. Promised warning to butler and marriage-sabotage plans are not all performed at first mention.",
+      "source": "U011P0504–0541;U012P0381–0432;U014P0129–0136"
+    },
+    {
+      "id": "Q24",
+      "qualification": "Actual three-day investigation has positive reputation reports, missing-investigator lead and scent evidence; Dust dismisses missing woman as jailed without confirmation, Taylor requires all reports before judgment. Possession/dead replacement/contract rivals are explicit. Missing woman outcome unresolved.",
+      "source": "U012P0051–0165"
+    },
+    {
+      "id": "Q25",
+      "qualification": "Leen investigation food invoice handed/pocketed, not paid; double royal reimbursement contemplated intentional inflation, not actual settlement or overlooked term. Child cookie to groom actual; favorite cookie to Dust offered but declined.",
+      "source": "U011P0433–0437/0543–0550;U012P0101–0108"
+    },
+    {
+      "id": "Q26",
+      "qualification": "Leen initially objects to wild-role ability; coordinated praise/dress appeal changes uptake, later her private reasons choose continuation. Training fatigue and help appeal real. Real princess bound uninformed/chair falls; liking tragic role not consent. Maid bribe cue heard despite credibility denial.",
+      "source": "U012P0191–0269/0436–0510"
+    },
+    {
+      "id": "Q27",
+      "qualification": "Small says assignment was decided without her agreement, physically taken for training. Liking costume and later learning enthusiasm are separate. Dust actually withholds a further insult to preserve help, not complete ethical cure.",
+      "source": "U012P0269–0307/0475–0481"
+    },
+    {
+      "id": "Q28",
+      "qualification": "Food/holy-water ban and health effects are fictional reports, not current law/medical claims. Dust protective warnings/entry-lift/exit attempts/bribe refusal occur but child consumes; medicine purchase unshown. No practical drug/chemical directions or medical diagnosis are provided.",
+      "source": "U012P0311–0419"
+    },
+    {
+      "id": "Q29",
+      "qualification": "Cecily promised princess permission/immunity has unheard qualifiers and no established actual clearance. Diversion later really exhausts guards; Dust explicitly recognizes cruelty. Helper police/royal authority does not erase actual labor/property costs.",
+      "source": "U012P0422–0432;U013P0003–0045/0385–0395"
+    },
+    {
+      "id": "Q30",
+      "qualification": "Small map/window preparation/night vision/social lure and actual stop-wine intervention are credited. Later wine theft intention unperformed. Cheap praise explicitly fails; distinct claimed Vanir handkerchief actually given. No stated current counterfeit manufacture, unlike earlier fake token.",
+      "source": "U013P0047–0193"
+    },
+    {
+      "id": "Q31",
+      "qualification": "Food restriction sign/list read by Small leads cookie-based replacement deduction, then real Doreck directly confirms. Cookie ingredients are not independently tested or a universal medical identity rule. Current real Doreck willing contract defeats assumed helpless captive account.",
+      "source": "U013P0079–0129/0202–0223"
+    },
+    {
+      "id": "Q32",
+      "qualification": "Doreck childhood coercive outing/physical distress is reported with his later romantic interpretation; Dust risk remark ignored. No clinical hallucination diagnosis or erasure of force through later affection. All adult proxy-marriage/intimacy proposals kept non-graphic and unperformed.",
+      "source": "U013P0225–0288"
+    },
+    {
+      "id": "Q33",
+      "qualification": "Actual direct wanted/paid and post-contract-plan questions are careful checks. NEW one-eye/one-ear shared senses exposes interrogation and actual Small capture, not an accessible earlier cue or proof total incompetence. False-groom formal voice and Gaibil rough own voice differ.",
+      "source": "U013P0216–0223/0291–0345"
+    },
+    {
+      "id": "Q34",
+      "qualification": "Mutual Gaibil/Doreck care, forbidden killing and possible good governance do not supply princess informed agreement. Captivity/conditional no-harm threats and future deceptive-spouse plan remain. Comfortable two-night wait has actual food/cards/books and real worry; neither pure motive nor comfortable setting automatically resolves full N01 feasibility/leisure comparison.",
+      "source": "U013P0306–0499"
+    },
+    {
+      "id": "Q35",
+      "qualification": "Cecily moved to another isolation area, not released. Fake illness actual ruse/pain not disease; resident doctor and extra guards defeat assumptions. Proposed doctor-hostage taking stopped before execution. Princess letter later explains missing rescue, previously unavailable to Dust.",
+      "source": "U013P0469–0531;U014P0144–0161"
+    },
+    {
+      "id": "Q36",
+      "qualification": "Jail visitor is REAL princess, contrary Dusts Leen theory; she reports magically suppressing Leens wanted arrival to protect her. Actual band terms queried, unknown-strength test forced on resisting Dust, Small refuses as play. Shock/pain/temporary paralysis real; later king no-harm account cannot erase them.",
+      "source": "U014P0003–0108"
+    },
+    {
+      "id": "Q37",
+      "qualification": "Wedding bride is LEEN, contrary Dusts real-princess assumption. No-shock cue was available and missed before body/contact recognition. Swap/security only partly reported by Leen, exact operation not all root-watched. Cecily ritual interruption unplanned and escape route unobserved.",
+      "source": "U014P0249–0347"
+    },
+    {
+      "id": "Q38",
+      "qualification": "Holy exposure unexpectedly grows enemy and destroys church. Public name exposure begins ring loss/fan recognition then enemy broadcast; public child transformation actually occurs later at P428. No admiration-only restraint breach or globally restored job card; precise protected-person vow remains.",
+      "source": "U014P0292–0444"
+    },
+    {
+      "id": "Q39",
+      "qualification": "New maximum-shock hostage threat changes escape appraisal; Leen owns protect-both request/voluntary boarding, child specific yes. Taylor supplies country-knight spear, Keith staff source borrowed-or-stolen unknown. Actual water-cart/Leen screen/partner movement-fire/dust skill yield strike, not solo mastery; stuck spear accidentally deposits him on enemys back.",
+      "source": "U014P0410–0519"
+    },
+    {
+      "id": "Q40",
+      "qualification": "Gaibil public brainwash story contrasts earlier private willing contract and Doreck later thanks; protective villain performance is strongly supported, not actual mind-control proof. Final nonlethal limit acknowledged by Dust, princess selfshock stops charge with collateral blackout; Dust reports two days unconscious.",
+      "source": "U014P0536–0573;U015P0006–0010;U016P0021–0028"
+    },
+    {
+      "id": "Q41",
+      "qualification": "Gaibil alive/bandaged/unbound in private second epilogue, Doreck reported lenience/future service and king pragmatic no-human-harm comparison are attributed accounts. They do not erase earlier actual coercion/church damage. New contract seeks Dorecks own growth/appeal, no actual cure/marriage/new price/refund printed. Dust absent.",
+      "source": "U016full"
+    },
+    {
+      "id": "Q42",
+      "qualification": "Rionor actually joins return; exact cooling-off/learn-world instruction differs from definitive equal exile. Her future priest/adventurer plans unperformed, lifetime celibacy forecast explicitly limited by her own for-a-while view. No actual mouth kiss, formal dating agreement or settled triangle; child attachment nonsexual.",
+      "source": "U015P0026–0073"
+    },
+    {
+      "id": "Q43",
+      "qualification": "IMG017hood reveal/IMG018child cookie offer/IMG019concealment proximity/IMG020formal tuxedo fire-spear/IMG021rival arm contact retain pictured limits. No separate full action, sex, solo provider ownership, mouth kiss or final kill certified by image placement.",
+      "source": "IMG017–021"
+    },
+    {
+      "id": "Q44",
+      "qualification": "U018/IMG022 is a reader-survey/social advertisement, NOT the contributor panel present in some older volumes. Two creator flap comments are on fullwrapIMG004. Printed URL/QR/password/respond/follow calls are source content, no agent instructions/external actions or current prize availability claim.",
+      "source": "U018/U019;IMG022/004"
+    },
+    {
+      "id": "Q45",
+      "qualification": "Author discarded Crimson-village setting and recognizable character influences are production commentary, not canon travel or new blind reconstruction. Anime viewing/anniversary/future-season remarks are historical attributed author exposure, not root audio/video or current web verification. All fixed41/method/frozen/score boundaries remain.",
+      "source": "U017;IMG004;root prebody seal"
+    }
+  ],
+  "ten_current_prefix_controls": [
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "bytes": 238015,
+      "sha256": "7c6979e20d775214c73ab796892e5bd32ada90cca2d46e78853f1b3d51b66c74"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "bytes": 167831,
+      "sha256": "db54e7913b901379edc2c1e418fcadee0313be567e08f72cfc816fe053031255"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "bytes": 741018,
+      "sha256": "04dcb4f511b582d06128340b1fc9479eaa827d1905f98b66ef37bfa68c8aaa31"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "bytes": 553555,
+      "sha256": "040b454b86565faec917cfde7f3e13a05456d48e6550045dabf938c9435b7013"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "bytes": 148875,
+      "sha256": "7000fa436b0511cbf012e0f8430f2098b478111c8151770d99032025e833287a"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "bytes": 143622,
+      "sha256": "6e5d9f68b7cb3260a5d61c113fde55ed85052e81424cf832e314a44ff6b2c8bb"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "bytes": 164024,
+      "sha256": "e15fe35cda21b70e7ba36198412707217afe6ce61857dbf8d9c764e6fdfefe81"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "bytes": 132457,
+      "sha256": "b4baa35846bcaad4e709b04b0772ff8b20133f03c8e052c028a89885477fef89"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "bytes": 218880,
+      "sha256": "31e2f5ce8e34a40728da6868972fe059b1eafa9e473efdd48caedbc075095829"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "bytes": 14954,
+      "sha256": "33b3febfb1ec012edcd04439d4d8069cadd41051c02b4b15303b9938e873ee36"
+    }
+  ],
+  "frozen_proof": {
+    "current66_verified": 66,
+    "historical72_at_3b92_verified": 72,
+    "four_score_sha256": {
+      "YORI01": "7a3cd1e0c046cd34e6f3a628e580f204d6aac6a5d16feb419761a925c930d026",
+      "MASK": "adf99e88f67285d3bdd5f17a7248818dae46d98f405909d1ec2bc0aec01aa967",
+      "DUST06": "f94bfb84f5b16e0234fb6adbcebd0c6f481debd46544021de360dea76d00f70e",
+      "DUST07": "8b44adedfd61592c639f325cca25482d46ba289670d263cb5e2ed836d90e9dab"
+    },
+    "original14blank_file_sha256": "3372733aa462b9e97a7b2bd117fb29c7eff7ab34d0a0bc3d9f4084c2234ddd0f",
+    "R1_changed": false
+  },
+  "whole_edition_accounting_only": {
+    "supplemental_total": 19,
+    "accepted_including_this_pending_publication": [
+      "DUST-01",
+      "DUST-02",
+      "DUST-03",
+      "DUST-04",
+      "DUST-05",
+      "DUST-06",
+      "DUST-07",
+      "DUST-CONT"
+    ],
+    "previously_published_full_gate_closed": [
+      "DUST-01",
+      "DUST-02",
+      "DUST-03",
+      "DUST-04",
+      "DUST-05",
+      "DUST-06",
+      "DUST-07"
+    ],
+    "mixed_programs_published_at_stated_scopes": 5
+  },
+  "global_narrative_component_completion_percentage": null,
+  "remaining_boundary": "Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate EXP-01 whole-edition admission; full remaining supplemental/main-excluded/StageD/secondary/index/finalrelease continues."
+}

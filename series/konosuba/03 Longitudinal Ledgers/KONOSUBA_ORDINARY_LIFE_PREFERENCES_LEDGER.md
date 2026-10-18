@@ -715,3 +715,246 @@ Source plane: designated supplemental holdout DUST-06, exact EPUB SHA256 `d533fc
 | VB-DUST06-OP02 | Dust/Line; Rionor; Leen; guild members | C02P319–326/601–656; C03P538–596; EpiP3–67 | E1/E3/E5; HIGH routine/state, interpretation qualified | Rest follows fatigue; repeated gambling despite losses differs from a controlled leisure routine. Royal impersonation imposes actual work before a later exit choice. Ordinary guild belonging coexists with public embarrassment and real conflict; Luna’s quiet request is obeyed before the invasion report changes mood. | Neither emotional comfort nor later voluntary participation authorizes an imposed start. No formal romance, unseen military response or full-series secondary development is inferred. |
 
 Complete separate principal passes and sealed initials precede coordinated receiving; source-first inventories are not trial denominators. External factual/routing corrections preserve every original. Actual source admission, reading, validation acceptance, full-edition literary coverage and publication remain separate. No new source/body/image or expanded model revision follows from this appendix.
+
+
+## Phase B DUST07 frozen-model validation overlay — OL
+
+Source plane: designated supplemental holdout DUST-07, exact EPUB SHA256 `cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5`, five admitted principal members only. Outside V01–V17 derivation; no frozen R1 model, original 43-contract registry, Gen01–05 history or prior holdout score changes. Acceptance UTC: `2026-10-17T21:16:29.555881+00:00`. Native one-based all-body routes and identity are defined by the [withheld validation](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_WITHHELD_SOURCE_VALIDATION.md). The complete prior ledger remains an exact prefix; main-only historical states remain retrievable at 3b92. Comparative Dust focal access is explicitly separate from Kazuma narration.
+
+| Stable observation ID | Subject | Exact DUST07 context/locator | Evidence class / confidence | Bounded observation | Claim transition / remaining limit |
+|---|---|---|---|---|---|
+| VB-DUST07-OL01 | Dust; Leen; Fatefore | C01P901–947; C02P267–378; C03P177–198; EpiP3–23/129–147 | Observed act/report/private Dust appraisal separately identified; HIGH wording/order, MODERATE functional cause | Money, childcare, food handling, promised rest, drink and familiar company form actual mundane incentives/care. Leen’s protective prepayment metaphor accompanies specific intimacy; the mouth kiss remains incomplete. | Current needs shift after imposed training without a general personality rewrite. Particular people are not fungible role fillers; affection does not authorize new acts. |
+| VB-DUST07-OL02 | Town men; women; succubi; Taylor | C02P23–177/381–442/648–656 | Observed act/report/private Dust appraisal separately identified; HIGH wording/order, MODERATE functional cause | Dream/reward incentives mobilize varied clients; Taylor actually declines the invitation. Daytime capacity and provider workload are real constraints. Women’s marriage motive follows Dust’s expressly false rumor. | No all-men/all-women law or true Kazuma marriage policy. Numerical XP gaming can align training; institutional retention is Dust’s causal account, not a census of every resident. |
+| VB-DUST07-OL03 | Wiz; Vanir; merchant | C01P343–378; C02P227–264; C03P96–129/406–438; EpiP119–123 | Observed act/report/private Dust appraisal separately identified; HIGH wording/order, MODERATE functional cause | Shop/deceased-wife memory, customer protection, commercial payment and separate debt arrangements express different values. Merchant’s weapon gift is real, maintenance failure and repair later real too. | Property/memory attachment is not automatically a particular living-company contract; no permanent altruism, unlimited services or universal incompetence follows. |
+
+Complete separate principal passes and sealed initial assessments precede coordinated receiving. Every original label and attributable correction remains preserved; no statistical independence, new J02 census or native-human/acoustic certification. Full edition/component analysis, current-model revision and this containing publication gate remain separate.
+
+
+## Stage C DUST-01 expanded-source overlay — OL
+
+Source: Japanese DUST-01, SHA256 `b77ac48f67168395c1437f23b2360f1a833311aba5a8d7177866a93d572c3644`; nine complete principal members, separately analyzed bonus and edition components. Acceptance recorded `2026-10-17T22:53:08.846506+00:00`. Routes use the one-based all-body P convention in [Dust V01](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V01_DEEP_READING.md), §16; bonus routes use p-012.xhtml P1–52. This separately tagged expanded plane preserves the complete prior ledger as an exact prefix and does not amend main-only historical states, R1, Gen01–05 or four-book scores.
+
+| Stable observation | Subject / context | Source route | Evidence / confidence | Accepted bounded finding and claim transition |
+|---|---|---|---|---|
+| EC-DUST01-OL01 | Dust: money, food, shelter and personal cost | C02P48–55/457–465; C05P577–583; EpiP29–66 | Observed choice/report; HIGH occurrence, MODERATE stable preference | Jail can offer valued shelter/food; debt, bread and repairs constrain ordinary life. Giving a saleable tomato to Leen competes with cash. One meal or object does not establish a permanent universal taste. |
+| EC-DUST01-OL02 | Aqua; Kazuma; Vanir; Wiz in bonus routine | BONUS-01P13–52 | Observed routine/dialogue, narrator appraisal qualified | Kotatsu warmth, firewood work refusal, an appointment reminder, sect deference, tea and a dinner request provide mundane scripts. Requesting dinner does not show the meal; hostility does not preclude sharing ordinary space. |
+
+All substantive routes resolve through the complete reading and separate edition analysis; source-safe selected records preserve speaker/addressee and uncertainty. Expanded observation, main-model revision, exact-head publication and whole-corpus completion are distinct.
+
+
+## Stage C artbook component overlay — OL — 2026-10-17T23:27:29.977226+00:00
+
+Sources: ART-CHEERS SHA256 `fb0e29a264b37acb5f8b24cdcbb7be3d343898d0bf7ef61bf4f62a1ce85532ea` and ART-BLESSING SHA256 `12854d8c71ad700cd177d2928250786034f7928a938416c5846dfede9c75b37c`. [Cheers](../10%20Expanded%20Corpus/Artbooks/KONOSUBA_CHEERS_COMPONENT_AND_LITERARY_ANALYSIS.md) and [Blessing](../10%20Expanded%20Corpus/Artbooks/KONOSUBA_BLESSING_COMPONENT_AND_LITERARY_ANALYSIS.md) give complete supplied-component routes and actual reader/receiving limits. Expanded evidence only; main-only frozen histories, R1, Gen01–05, original blanks and four-book scorecards stay unchanged. The entire prior ledger is an exact prefix.
+
+| Stable observation | Named subject | Exact source context / route | Evidence class / confidence | Accepted bounded finding | Claim transition / limit |
+|---|---|---|---|---|---|
+| EC-ARTBOOKS-OL01 | Aqua; Kazuma; Yunyun; party | CHEERS118/B1–121/B2 | Observed cards/tea/snacks plus spoken company expectation | Aqua wins a game and takes Chris’s offered snack; shop tea has social/commercial costs; Yunyun waits home for possible visitors. Mundane preference is contextual, not cognitive incapacity or universal passivity. | EXPAND ordinary incentives; no automatic global skill rank from game victory. |
+| EC-ARTBOOKS-OL02 | Aqua; Kazuma; Megumin; Komekko | BLESSING S009/S140–141 | Album-frame dialogue/reader-facing song, distinct planes | Camera economy prompts resale interest and Aqua’s refusal; drawing song makes food-like shapes into Megumin and ends in praise/offered hug. No performed sale/hug or dated sung performance. | EXPAND resource/affection representations with source-plane/date limitations. |
+
+
+## Stage C Memorial Fanbook overlay — OL
+
+Source: FAN-MEM, SHA-256 `e08725fc99cebadd52f93d05122de36d4ae39b435d0d993c41b068b127ebb32d`, electronic 2020-04-01 ver.001. The [complete analysis](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_AND_LITERARY_ANALYSIS.md), [register](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_REGISTER.json) and [receiving](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_RECEIVING_REVIEW.md) retain exact native routes, unequal authority and reading limits. Snnn is the one-based native spine identity. This separately tagged expanded plane preserves the entire prior ledger and does not replace a frozen checkpoint, R1, Gen01–05 or score history.
+
+| Stable observation | Named subject/context | Source window | Evidence/confidence | Accepted finding | Claim transition/limit |
+|---|---|---|---|---|---|
+| EC-FAN-OL01 | Kazuma, Aqua, Megumin and Darkness | S096 opening game; S099 mansion return | H1/H2 routines; high local confidence | Card competition, rest, food and pack bargains, task interruption and apology repair frame the dungeon story. The card lich’s death belongs to game rules. | EXPAND mundane incentives, without inventing a frequency or preference census. |
+| EC-FAN-OL02 | Editorial household and material plane | S050/S072/S078; full reader’s S088 account | Reference and scripted voices; moderate transfer confidence | Food and clothing constraints coexist with magic. The Japan-memento defense belongs to a commissioned fashion exchange that ends in planner blame. | EXPAND with dependence flags. Root did not view S088; this is not a newly dated MAIN confession. |
+
+These are two analytical responsibilities, not independent repeated trials. The complete reader read all 121 pages; root sealed an initial 37-page pass, then checked five further pages during coordinated receiving. Shared-lineage limits and all current qualifications apply. Publication remains a separate gate.
+
+
+## Stage C — Dust02 whole supplied edition: ordinary life preferences
+
+Source DUST-02; principal p002-p008 plus separately admitted bonus p010 and edition components. The [whole-edition receiving record](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V02_RECEIVING_AND_PROVENANCE.json) preserves full source/reader scopes, both original seven-question proposals, current root dispositions and exact precision history. This appends to the current published ledger; every earlier byte remains an exact prefix. Main-only R1, Gen01-05, original forecasts/blanks and four scorecards stay unchanged. Stage D model revision remains later work.
+
+The producer supplied91 principal append proposals against the exact earlier0ce33a0f baseline. Root received all91; this ledger adopts the relevant scoped observations with current qualifications, then adds one separately identified bonus observation. These are responsibilities and dependent evidence routes, not independent trials.
+
+### DUST02-OL01 — Embodied pleasures are positively valued
+
+An appetite-free paradise is unattractive, not a universal cure for his present dissatisfaction.
+
+Source: C01P138–140. Direct preference; no theological or medical generalization.
+
+Transition: STRENGTHEN. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-OL02 — Shared quiet
+
+Cloud-watching and stepping outside a noisy feast show situated quiet seeking.
+
+Source: C02P246–247; EpiP40–43. Does not contradict later preference for familiar noisy company in another person’s care.
+
+Transition: PRESERVE. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-OL03 — Advance spending and borrowed future profit
+
+He spends before a working team is secured and has borrowed against expected dragon profit; Leen later repays debt from proceeds.
+
+Source: C02P453; C03P51–56. Her action is not his voluntary completed debt repayment.
+
+Transition: STRENGTHEN. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-OL04 — A small particular gift carries real cost
+
+Toy is smaller because of budget but consumes his remaining money and produces valued delight.
+
+Source: C04P537/544–549. Specific recipient Yunyun, purchase earlier than giving, not universal generosity or romance.
+
+Transition: STRENGTHEN. Confidence: HIGH. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-OL05 — Formal service and free time
+
+Luna’s workload and lost free time are actual concerns; Dust listens but tires.
+
+Source: C03P247–263. No completed personal holiday or new counseling expertise.
+
+Transition: PRESERVE. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-OL06 — Professional and mentor interest
+
+Small values skill recognition, Vanir’s presence and controlled access to dream services.
+
+Source: C03P192–211/368; FinalP516. Independent goal, not an unlimited client-dependence trait; actual age unknown.
+
+Transition: STRENGTHEN. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-OL07 — Yunyun’s ordinary moral spending boundary
+
+Unlike other recipients, she refuses the photo-sale money and lectures Vanir.
+
+Source: FinalP16–17. Do not infer everyone’s assent from group profit or absence of objection.
+
+Transition: STRENGTHEN. Confidence: HIGH. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-OL08 — Hosting becomes accepted with shared costs
+
+Dust protests imposed generosity, hears contributions and acknowledges reciprocal social borrowing before hosting.
+
+Source: EpiP19–33. No final total bill, debt payoff or initial consent; qualified later voluntary choice.
+
+Transition: PRESERVE. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-OL09 — Alcohol rules and state
+
+Kazuma and Darkness prevent Yunyun/Megumin drinking; Leen becomes drunk and unable to complete a spell or conversation.
+
+Source: EpiP39/45–66. No invented alcohol consumption by the two stopped girls; no universal adult drinking tolerance.
+
+Transition: PRESERVE. Confidence: HIGH. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-OL10 — Chosen familiar company
+
+Dust carries Leen back to the group because he expects familiar noise to support a good dream.
+
+Source: EpiP66–67. Expectation not observed dream result, but a concrete ordinary value beyond status.
+
+Transition: STRENGTHEN. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-OL11 — Private recreation and peer venting
+
+Food, drink, paid private recreation, appointments and a separate peer audience shape ordinary choices. The health/abstinence account is Dust’s admitted cover for spending.
+
+Source: Bonus P3-24/P37-67. No genuine abstinence preference, informed Taylor refusal/shop ban, ordinary orientation diagnosis or fixed frequency is established.
+
+Transition: EXPAND. Confidence: MODERATE.
+
+Root precision: C03P149/P156-176/P420-424 is direct adverse evidence for N01; no outside perpetrator or moral-acknowledgment condition is added. N02’s observed help exceeds the strength of its inferred tenderness mechanism. Final377-379 comments remain unnamed; Small’s366 protest is the identified turn. Final pullers are three recruited former criminal men. Toy purchase precedes the later thanks/guilt/giving. These limits apply across the appended responsibilities. Publication is a separate gate and Dust03 remains closed until it closes.
+
+
+## Expanded TRPG-CORE received observations — 2026-10-18T02:29:30.403076+00:00
+
+Whole supplied edition accepted at its stated component scopes; containing publication pending. [Complete analysis](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_DEEP_READING.md), [current qualifications](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_CURRENT_QUALIFICATIONS.json) and [all initial/current append decisions](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_LEDGER_APPEND_DECISIONS.json) control these three rows. Edited replay, second-person guide, prospective scenario, optional templates, teaching balloons and references retain unequal authority. No frozen-model/score change, independent trial or main-J01/J02 count.
+
+| ID | Subjects and native printed source route | Observation | Causal/model implication | Authority/adverse limit |
+|---|---|---|---|---|
+| TRPGC-OP01 | PCs and table; 021,084,193,218–219 | Living standard sets money/recovery stakes; cohabitation does not automatically reduce per-PC cost, nonpayment can reduce XP, and future celebration needs skills. | Ordinary maintenance and desire remain part of continued adventure. | Rules/options and actual payments differentiated; no free same-scene reset or verified occupied royal suite. |
+| TRPGC-OP02 | Optional lifepath/motive personas; 111–115 | The book permits ordinary families, poverty, coercion, no grand goal and peaceful life alongside vengeance or destiny. | A player may construct an actor whose motives do not replicate a principal’s defining obsession. | Selectable templates are not performed histories; coercion is not desire or consent. |
+| TRPGC-OP03 | World-guide newcomer; scenario prospective party; 253,255–260;309–310 | A500E guide fee,1000E registration and3000E savings coexist with unsubsidized lunch; eating harvested crops later trades possible reward for food/XP. | Economic tradeoffs matter outside climactic combat. | Use Eris versus KE correctly; scenario consumption/payment and future party success remain unperformed. |
+
+
+## Expanded TRPG-ADV received observations — 2026-10-18T05:03:55.185963+00:00
+
+Whole supplied edition accepted at its individual actual reading scopes; containing exact publication/full gate pending. [Full reading](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_ADV_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_ADV_LEDGER_APPEND_DECISIONS.json), [qualifications](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_ADV_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_ADV_RECEIVING_AND_PROVENANCE.json) control these additions. Same informed root AI; replay, rules/flavor, reference, optional personas, divider and unperformed scenario remain distinct. No frozen R1/score/blank-field revision or new independent trial.
+
+| ID | Subjects / printed source route | Observation | Implication | Authority and adverse limit |
+|---|---|---|---|---|
+| TRPGA-OP01 | Replay household economy; 035-038,103-106 | A free-purchase level5/six-slot base still costs upkeep perPC; printed quest net2530each rises to4530after apology. | Domestic rewards are effective motives with continuing resource costs, not an escape from economics. | No asserted individual arithmetic recomputation or all facilities installed from every proposal. Orbs remain powerless unsellable ornaments. |
+| TRPGA-OP02 | Replay comfort differences; 023,037-038,106 | Suite lodgers and Economy lodgers share a base yet keep differing bedding/status; garden/toys/bath combine practical effects with pleasure. | Shared affiliation/space does not imply identical comfort preference or equal spending. | Ending supplies local welcome/bath enjoyment, not a tested permanent household routine. Future bedding upgrade is a wish. |
+| TRPGA-OP03 | World-reference food and travel; 234-245,247 | Teleport costs preserve bulk transport/escort work; monster attacks supply capital barbecue meat; Crimson tourism and Komekko appetite narrow grand stakes to ordinary wants. | Everyday constraints and appetites shape adventure even when world ecology is fantastic. | Reference descriptions, rumors and profile examples are not newly witnessed meals/trips or measured stable principal preferences. |
+
+
+## Expanded DUST-03 received observations — 2026-10-18T06:18:22.445096+00:00
+
+Whole supplied edition accepted at declared fiction/component scopes; containing exact publication/full gate pending. [Full seventeen-responsibility reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_LEDGER_APPEND_DECISIONS.json), [seven unchanged-question local assessments](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_EXPLORATORY_LOCAL_ASSESSMENTS.json), [qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_RECEIVING_AND_PROVENANCE.json) control these additions. Same continuing informed root, with known later principal exposure; no independent reader, new main validation cohort or acoustic claim. Frozen R1/66current/72historical/four scores/original14blank future fields remain exact. Direct contrary conduct, actual checking, missing full triggers and distinct provider agreements remain visible.
+
+| ID | Subjects / native route | Observation | Implication | Authority and adverse limit |
+|---|---|---|---|---|
+| DUST03-OP01 | Money and usable benefit; U011:P0362–0409;U012:P0200–0223/0428–0432/0533–0537;U013:P0738–0746/0887–0913;U020:P0047–0050 | Tabs, a merely proposed extension, received reward, unsold ring, prepaid crowd and cancellation fee have different transaction states. | Possession, promised access, performed payment and later consumption must be separately accounted. | No secured tab extension or cash-ring exchange; successful cancellation income remains checking counterevidence. |
+| DUST03-OP02 | Comfort, maintenance and ordinary freedom; U012:P0006–0036/0486–0505;U013:P0449–0467/0529–0586;U014:P0103–0132;U016:P0001–0024 | Kotatsu, tea, cleaning and brief unsupervised enjoyment give material form to ordinary preference and its costs. | A side character's daily work and a princess's constrained freedom deepen the world beyond ranks and spectacle. | Dust's current life is not simply fake; Beldia's projected domestic costs do not absolve every antagonist. |
+| DUST03-OP03 | Professional recovery and marketed access; U011:P0338–0351/0519–0573/0656–0739;U013:P0675–0746 | Providers lose food/custom and pursue their own recovery; Vanir sells product ownership as friendship or popularity. | The same scarce good can promise subsistence, belonging or attraction, with different uptake. | Safety and future popularity are unproved provider claims; Yunyun acquires product, not verified new friends. Dust refuses ingestion despite desire. |
+
+
+## Expanded DUST-04 received observations — 2026-10-18T07:29:49.102050+00:00
+
+Whole supplied edition accepted at declared scopes; containing exact publication/full gate pending. [Full seventeen-responsibility reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_LEDGER_APPEND_DECISIONS.json), [seven unchanged-question local assessments](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_EXPLORATORY_LOCAL_ASSESSMENTS.json), [qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_RECEIVING_AND_PROVENANCE.json) control these additions. Same continuing informed root with known later principal exposure; no independent reader, new main validation cohort or acoustic claim. FrozenR1/66current/72historical/four scores/original14blank fields remain exact. Actual protective costs, coercive choices, incomplete conjuncts, correct checking and provider terms remain visible.
+
+| ID | Subjects / native route | Observation | Implication | Authority and adverse limit |
+|---|---|---|---|---|
+| DUST04-OP01 | Money stages and ownership; U011:P0553–0568;U012:P0148/0207/0610/1075–1079;U015:P0007–0014 | Taylor cash is given, the advance is received then spent, an allowance for Small is diverted and final compensation is actually paid for a failed commission. | Track received, owned, entrusted, promised, gambled and compensated resources separately. | No invented account repair, completed multiplied repayment, upgraded lodging or original mission success. Specific future generosity remains hypothetical. |
+| DUST04-OP02 | Ordinary work and compatible motives; U011:P0415–0458;U012:P0216–0227/0390–0394/1005–1018;U013:P0287–0298 | Restaurant work has an inducement and costs; Small investigates a branch and develops access; a comforting dream is only an uncertain attempt; Vanir delivers reciprocity. | Providers have schedules, subsistence, interests and limits rather than serving as free interchangeable means. | No certified dream delivery/payment, unrestricted land promise or disinterested omniscience. Actual manager instruction differs from independently chosen service. |
+| DUST04-OP03 | Gift objects, cover and actual tending; U012:P0658/0765–0770;U013:P0320–0326;U014:P0123–0134/0323–0324;U015:P0034–0042 | A gift sword is preserved during leisure loss, later risked for rescue; a coat covers Leen; an ill Small is tended and carried gently. | Particular object attachment and small completed care can matter without solving an entire duty or relationship. | Sword value is not spear identity restraint. Jealousy remains a live coat-help rival, and the epilogue is no completed mutual confession. |
+
+
+## Expanded DUST-05 received observations — 2026-10-18T09:04:10.135762+00:00
+
+Whole supplied edition accepted at declared scopes; containing exact publication/full gate pending. [Full17responsibility reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_LEDGER_APPEND_DECISIONS.json), [7unchanged-question assessments](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_EXPLORATORY_LOCAL_ASSESSMENTS.json), [29qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_RECEIVING_AND_PROVENANCE.json) control uptake. Same informed continuing root/known later principal exposure; no independent reviewer or new main score/audio claim. Frozen66/72/fourscores/original14blanks exact. Earlier [Dust04 additive coercive-scope correction](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_N01_COERCIVE_DANGER_PRECISION.json) remains current: coercive danger needs no bodily-injury threshold, and earlier direct contraries remain.
+
+| ID | Subjects / native route | Observation | Implication | Authority and adverse limit |
+|---|---|---|---|---|
+| DUST05-OP01 | Payment and recipient stages; U010:P0016–0031;U011:P0267–0283/0372–0378/0502–0541/0725–0738 | Bag seized for known obligations, clothes paid for child, necklace promised, party funds refused, meal actually depletes wallet, extra fee offered and credit negotiation proposed. | Track seized/received/owned/promised/paid/entrusted/recipient-specific resources instead of one net wealth label. | Remittance, necklace settlement and secured credit remain unshown; Leen/Taylor saving subset excludes Keith, child purchases cannot be scored as a gift to Leen. |
+| DUST05-OP02 | Paid work and usable benefit; U011:P0834–0848/1130–1158;U012:P0006–0012/0107/0393–0400/0694–0696 | Task prepayment is checked, bounded recovery paid, rumor advance partly feeds child and divination price is heard then paid in hair/nail. | Actual term checking coexists with resource pressure, deceptive cover and other-person permission gaps. | Paid acceptance is not total harm repair; tab story is false not actual debt; child assent to material transfer unshown. |
+| DUST05-OP03 | Chosen home, care and attention; U011:P0327–0354/0585–0604/1338–1340;U012:P0135–0146/0629–0642/0708–0723 | Dust neglects rinse and shared time, then apologizes, wants the lively town for child, accepts present stay and plans around reported princess visit. | Ordinary life and partner attachment have independent value beside former duty; actual acknowledgment is more specific than warm framing. | Apology/intention is not durable care cure, long-term stay undecided and imminent visit not performed. Others' favorable family-like impression cannot erase care lapse. |
+
+
+## Expanded DUST-06 received observations — 2026-10-18T10:04:53.783186+00:00
+
+Whole supplied edition accepted at stated scopes; containing publication/full gate pending. [Full seventeen-responsibility reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_LEDGER_APPEND_DECISIONS.json), [seven unchanged-question assessments](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_EXPLORATORY_LOCAL_ASSESSMENTS.json), [34 qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_RECEIVING_AND_PROVENANCE.json) control uptake. Same informed continuing root/known earlier principal exposure; no independent reviewer or new main score/audio claim. Frozen66/72/four scores/original14blanks exact. Prior Dust04 additive coercive-scope correction remains current: no bodily-injury threshold and no later-success repair of earlier contrary evidence.
+
+| ID | Subjects / native route | Observation | Implication | Authority and adverse limit |
+|---|---|---|---|---|
+| DUST06-WHOLE-OP01 | Actual payment and promised benefit; U010P0140–0148/0488–0500/0550–0583;U011P0363–0368/0552–0569/0740–0749 | Kingdom food subsidy offered, Yun share paid, princess balance loan offered, secrecy object bought, jewel sold, casino apology round and two registration fees paid. | Track payer/recipient and offered/paid/usable/known stages instead of repairing a net balance. | Royal subsidy, balance settlement, cup authenticity/delivery, bun fulfillment and role compensation remain unshown; princess loan is not Leen gift. |
+| DUST06-WHOLE-OP02 | Freedom, gambling and chosen home; U010P0223–0234;U011P0601–0712/0873–0879/0965–0969;U014P0032–0042 | Dust likes current freedom, actually enjoys gambling despite denial, had adventurer interest before instruction and values noisy guild as home. | Chosen life has positive value alongside loss, duty and social sanction. | Exile/name prohibition are real; farewell partly bravado. Warm home framing not justification of forced drinks, punches or all imposed costs. |
+| DUST06-WHOLE-OP03 | Work and provider boundaries; U010P0236–0296;U012P0055–0083/0237–0269;U013P0010–0028 | Princess/child sell, Dust disrupts employer, Small complaint secures departure; cup incentive and counterfeit first-rescuer bun induce labor, child meal penalty imposed on drugged men. | Useful production depends on actual provider skills/terms and costs, not Dust owning all work resources. | Intended fake reward is deliberate deception, manager permission not worker assent, job completed not all payments settled or autonomy respected. |
+
+
+## Expanded DUST-07 received observations — 2026-10-18T11:33:04.335402+00:00
+
+Whole supplied edition accepted at stated scopes; containing publication/full gate pending. [Full seventeen-responsibility reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_LEDGER_APPEND_DECISIONS.json), [seven unchanged-question assessments](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_EXPLORATORY_LOCAL_ASSESSMENTS.json), [44 qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_RECEIVING_AND_PROVENANCE.json) control uptake. Same informed continuing root/known earlier principal exposure; no independent reviewer or new main score/audio claim. Frozen66/72/four scores/original14blanks exact. Prior Dust04 additive coercive-scope correction remains current: no bodily-injury threshold and no later-success repair of earlier contrary evidence.
+
+| ID | Subjects / native route | Observation | Implication | Authority and adverse limit |
+|---|---|---|---|---|
+| DUST07-WHOLE-OP01 | Gift, loan, credit and actual closure; U011P0361–0376/1085–1115;U012P0152–0155/0259–0264;U014P0111–0125 | Merchant spear gift permits sale; sword/books are loans, private defense credit explicitly settled through emotions and separate guild10M later received. | Track owner/payer/recipient and offered/actual/usable/settled stages rather than one repaired net account. | Sword/book return and annual vouchers unshown; no outstanding D7 credit or reversal into Leen gift. Old paid D5 divination is distinct. |
+| DUST07-WHOLE-OP02 | Work, incentives and provider cost; U012P0024–0208/0483–0546 | Offered food/free services and serial cliffhangers recruit clients/workers, card baseline motivates leveling, Wiz costume/speech and Small towing impose costs. | Useful defense production requires actual owned materials, helper knowledge and limits. | Adult/dream material non-graphic; fiction not actual captive incident, guilt/client fear real, delayed briefing/ownership checks and unfulfilled benefits retained. No isolated efficacy experiment. |
+| DUST07-WHOLE-OP03 | Chosen home and deferred leisure; U011P0387–0400;U013P0265–0305/0648–0660;U014P0131–0148 | Dust never considers flight, gives up current lounge/drink for protection, sometimes accepts lost praise for child privacy and chooses present ordinary life with actual private recognition. | Positive value of home, attachment and ordinary pleasure can coexist with threat and reputation costs. | Future all-leisure fulfillment not watched, public vindication incomplete, choice does not erase fraud/coercion/nonhelp or supply universal cure. |
+
+
+## Expanded DUST-CONT received observations — 2026-10-18T12:45:50.687643+00:00
+
+Whole supplied edition accepted at stated scopes; containing publication/full gate pending. [Full seventeen-responsibility reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_LEDGER_APPEND_DECISIONS.json), [seven unchanged-question assessments](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_EXPLORATORY_LOCAL_ASSESSMENTS.json), [45 qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_RECEIVING_AND_PROVENANCE.json) control uptake. Same informed continuing root with known main/four-holdout and prior numbered Dust exposure; this separately admitted continuation receives no pristine blind-test claim. No independent reviewer or new main score/audio claim. Frozen66/72/four scores/original14blanks exact. Prior Dust04 additive coercive-scope correction remains current: no bodily-injury threshold and no later-success repair of earlier contrary evidence.
+
+| ID | Subjects / native route | Observation | Implication | Authority and adverse limit |
+|---|---|---|---|---|
+| DUSTCONT-WHOLE-OP01 | Specific resources and ownership; U010P0213–0239/0276–0299/0493–0498;U011P0468–0496;U012P0101–0108;U013P0145–0158 | Owned child hair trade, late travel funding, client meat objection, child picture-book purchase, large invoice and actual handkerchief transfer have different owners/recipients. | Track offered/actual/paid/usable/withheld and who authorizes each use rather than creating a repaired net balance. | Client boundary ignored, invoice/reimbursement/medicine/royalties unshown, new handkerchief not automatically old counterfeit, current trade not past permission. |
+| DUSTCONT-WHOLE-OP02 | Ordinary value and role cost; U011P0458–0467;U014P0199–0213/0364–0444;U015 | Privacy motivates alcohol/gambling restraint; child wanted walk wins time, actual hero fame revives pressure and return includes Rionor despite desire for ordinary life. | Ordinary chosen identity has value apart from old rank; desired attention can be uncomfortable in actual recipient context. | No universal rejection of old love/admiration, no guaranteed future quiet or settled romance. Child attachment nonsexual; public display protected stakes not simple pride-only. |
+| DUSTCONT-WHOLE-OP03 | Future obligation and changed contract; U011P0276–0299;U013P0329–0345;U015P0026–0051;U016P0013–0034 | Future office/conditional no-kill/royal cooling-off/proposed class and Gaibil new own-development contract have distinct actual and future stages. | An actual handshake or lenient instruction is not a completed health, career or relational outcome. | No new price/refund/soul-return claim, no actual marriage/medical cure/clerical appointment. Reported no-human-harm defense cannot erase real captivity/pain/property damage. |
+
+
+## Expanded EXP-01 received observations — 2026-10-18T14:03:27.763693+00:00
+
+Whole supplied edition accepted at stated scopes; containing publication/full gate pending. [Full seventeen-responsibility reading](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_LEDGER_APPEND_DECISIONS.json), [7 unchanged-contract local assessments](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_EXPLORATORY_LOCAL_ASSESSMENTS.json), [42 qualifications](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_RECEIVING_AND_PROVENANCE.json) control uptake. Same informed root after main17, four holdout principals, mixed sources and eight complete Dust supplied editions; no pristine blind or native-human claim. Main R1 remains frozen. No independent reviewer or new main score/audio claim. Frozen66/72/four scores/original14blanks exact. Prior Dust04 additive coercive-scope correction remains current: no bodily-injury threshold and no later-success repair of earlier contrary evidence.
+
+| ID | Subjects / native route | Observation | Implication | Authority and adverse limit |
+|---|---|---|---|---|
+| EXP01-WHOLE-OP01 | Scarcity, actual family care and resource direction; U018P0404–0438;U023P0210–0265;U037P0226–0246 | Actual breakfast sacrifice, shared food, gifted sandwich and uncertain household stores matter alongside asking others to provide meals. A permitted all-you-want meal exceeds expectations. | Represent concrete giver, receiver, quantity, ownership and retained routine; poverty does not imply universal frugality. | No invented food preferences or real nutrition diagnosis; self-serving appetite and real care can coexist. |
+| EXP01-WHOLE-OP02 | Mundane activity beyond the specialty; U018P0543–0614;U028P0009–0038/0281–0299;U037P0036–0082 | Games, accessories, washing, chores, craft interests, cat care and family tasks give varied ordinary-life contexts. Some intended chores remain only plans. | Generate ordinary capable or neutral acts without requiring a spell-equivalent gag every turn. | Board-game Explosion is not actual magic; game borrowing, a dagger purchase and planned chores retain their distinct evidence. |
+| EXP01-WHOLE-OP03 | Other people’s work, autonomy and finite time; U028P0055–0114;U034P0130–0153;IMG029–043 | A cashless adult still works as a useful spell provider; a shop owner has routines and independent training; a devil’s food/company service is conditional and ends in a farewell. | Keep actual employment, available cash, craft, schedules, preferences and obligations separate. | Do not convert an intrusive admirer’s routine account into omniscience, or a prospective familiar offer into a permanently free provider. |
