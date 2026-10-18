@@ -1,6 +1,6 @@
 {
   "schema": "anime-manga-ln-games-analysis/series-registry/v2",
-  "status": "GIT_PRIMARY_AUTHORITY_EPOCH_1_STABILIZING",
+  "status": "GIT_ACTIVE_ACCEPTED",
   "series": [
     {
       "series_id": "86-eighty-six",
@@ -149,6 +149,22 @@
       "authority_status": "GIT_PRIMARY"
     },
     {
+      "series_id": "genocidal-organ",
+      "stable_slug": "genocidal-organ",
+      "canonical_title": "Genocidal Organ / 虐殺器官",
+      "media": [
+        "NOVEL"
+      ],
+      "repository_path": "series/genocidal-organ/",
+      "canonical_entrypoint": "series/genocidal-organ/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_GENOCIDAL_ORGAN_BOOTSTRAP_20261016",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Independent original Japanese prose-novel analysis of narration, character development, agency, institutions and literary form, with evidence-tested reconstruction; primary and derived evidence remain in Drive."
+    },
+    {
       "series_id": "genshin-impact",
       "stable_slug": "genshin-impact",
       "canonical_title": "Genshin Impact",
@@ -175,6 +191,22 @@
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
       "authority_status": "GIT_PRIMARY"
+    },
+    {
+      "series_id": "harmony",
+      "stable_slug": "harmony",
+      "canonical_title": "Harmony / ハーモニー",
+      "media": [
+        "NOVEL"
+      ],
+      "repository_path": "series/harmony/",
+      "canonical_entrypoint": "series/harmony/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_HARMONY_BOOTSTRAP_20261016",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Independent original Japanese prose-novel analysis of narration, character development, agency, institutions and literary form, with evidence-tested reconstruction; primary and derived evidence remain in Drive."
     },
     {
       "series_id": "henshin-metamorphosis",
@@ -442,6 +474,22 @@
       "authority_status": "GIT_PRIMARY"
     },
     {
+      "series_id": "peach-girl",
+      "stable_slug": "peach-girl",
+      "canonical_title": "Peach Girl / ピーチガール",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/peach-girl/",
+      "canonical_entrypoint": "series/peach-girl/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_UNREVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_PEACH_GIRL_BOOTSTRAP_20261016",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Original Japanese manga analysis of character development, directional relationships, information and reputation, and manga form; architecture supports longitudinal synthesis and time-bounded character reconstruction. Primary and derived evidence remain in Drive."
+    },
+    {
       "series_id": "project-sekai",
       "stable_slug": "project-sekai",
       "canonical_title": "Project SEKAI",
@@ -568,16 +616,18 @@
     {
       "series_id": "shuukura",
       "stable_slug": "shuukura",
-      "canonical_title": "Shuukura",
+      "canonical_title": "Shuukura / 週に一度クラスメイトを買う話",
       "media": [
         "LIGHT_NOVEL"
       ],
       "repository_path": "series/shuukura/",
-      "canonical_entrypoint": null,
-      "canonical_entrypoint_status": "MISSING",
-      "materialization_status": "PRESENT_REVIEWED",
+      "canonical_entrypoint": "series/shuukura/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_UNREVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
-      "authority_status": "GIT_PRIMARY"
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Independent V2 architecture for original-Japanese LN reading, separate web witnesses, longitudinal character and relationship analysis, and evidence-tested reconstruction; V1 remains preserved historical analysis. Primary and derived evidence remain in Drive."
     },
     {
       "series_id": "silent-witch",

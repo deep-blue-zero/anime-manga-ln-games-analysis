@@ -1,0 +1,16 @@
+{
+  "series_id": "shuukura",
+  "stable_slug": "shuukura",
+  "canonical_title": "Shuukura / 週に一度クラスメイトを買う話",
+  "media": [
+    "LIGHT_NOVEL"
+  ],
+  "repository_path": "series/shuukura/",
+  "canonical_entrypoint": "series/shuukura/CURRENT_STATE_AND_CORPUS_MAP.md",
+  "canonical_entrypoint_status": "PRESENT_VERIFIED",
+  "materialization_status": "PRESENT_UNREVIEWED",
+  "migration_scope": "G5_FINAL_AGGREGATE",
+  "authority_status": "GIT_PRIMARY",
+  "project_initiation_gate": "REQUIRED",
+  "catalog_note": "Independent V2 architecture for original-Japanese LN reading, separate web witnesses, longitudinal character and relationship analysis, and evidence-tested reconstruction; V1 remains preserved historical analysis. Primary and derived evidence remain in Drive."
+}

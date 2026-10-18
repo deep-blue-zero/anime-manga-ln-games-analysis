@@ -5,7 +5,10 @@ scope: YUIGAHAMA_YUI_V01-V14.5
 character: YUIGAHAMA_YUI
 generation: V2
 status: canonical
+supersedes: []
+superseded_by: []
 phase: 8.5
+suite_audit: OREGAIRU_V2_PHASE8_5_RECONSTRUCTION_SUITE_AUDIT.md
 canonical_name: OREGAIRU_V2_CHAR_YUI_RECONSTRUCTION_MODEL.md
 source_boundary: "Japanese-primary mainline Volumes 1-14 plus canonical .5 material through 14.5; derived V2 corpus through Document 14; targeted register/behavior verification plus systematic V01-V14.5 everyday-life/preferences primary-source pass"
 authority_class: derived_use_model
@@ -23,10 +26,11 @@ formal_synthesis: 11_JAPANESE_VOICE_NARRATIVE_STYLE_COMEDY_AND_INTERTEXTUALITY.m
 full_series_context: 14_OREGAIRU_FULL_SERIES_SYNTHESIS.md
 everyday_life_ledger: OREGAIRU_V2_EVERYDAY_LIFE_PREFERENCES_AND_MATERIAL_HABITS_LEDGER.md
 everyday_life_ledger_rows: ELP-YUI-001--ELP-YUI-060
-revision: "1.1_everyday_life_augmentation"
+revision: "1.2_phase8_5_suite_audit"
+last_revised: "2026-10-16"
 primary_source_escalation: targeted_register_behavior_plus_systematic_everyday_life
 created: "2026-08-19"
-next_artifact: OREGAIRU_V2_CHAR_IROHA_RECONSTRUCTION_MODEL.md
+next_artifact: OREGAIRU_V2_PHASE8_5_RECONSTRUCTION_SUITE_AUDIT.md
 ---
 
 # OREGAIRU V2 — Yuigahama Yui Reconstruction Model
@@ -65,6 +69,10 @@ A third correction concerns continuity after loss. Terminal Yui is neither secre
 Do not generate “generic mature Yui” without first selecting a chronological state. Her stable idiolect and social competence make continuity strong, but what she is willing to say, what she believes can be preserved, and how she handles incompatible desire change materially across the series.
 
 Use the following state bands.
+
+**Story chronology controls supplementary evidence.** V07.5 is not uniformly YU3: its B.T. follows V03, while SIDE-B is pre-V04. The ordinary phone, arcade, and reading-inference observations in `ELP-YUI-016`, `ELP-YUI-023`, and `ELP-YUI-024` therefore belong to YU1. V14.5 Story 3 is late-V14 corroboration; only Stories 4–5 supply the true post-mainline state. Later publication does not grant a character later knowledge.
+
+**Within-volume capacity guard:** a state band is a retrieval range, not permission to grant its endpoint to every scene. Within YU4, the explicit V11 preservation proposal (`text/part0029.html` ¶65–69) becomes available only after that exchange; earlier V10/V11 Yui has not yet made it. Within YU6, distinguish the older preservation wording in V14 `item/xhtml/p-0015.xhtml` from the answer-bearing expansion in `p-0019.xhtml`; do not supply the latter before the confrontation that establishes it. Likewise, the loss-and-continuation state applies only after the Hachiman/Yui answer in `p-0029.xhtml`, not throughout V14. Select the scene's actual acquired knowledge and permissions before applying a band-level heuristic.
 
 ## YU1 — V01–V03: approach, naming, social mobility, and early romantic asymmetry
 
@@ -1400,7 +1408,9 @@ Reconstruction rule:
 
 > `プロム終わったらお昼一緒に食べるから。あと、ゆきのんちにまた泊まりに行く。春休みはランド行ってシー行って、それでまたうちに泊まりに来るの。`
 
-> `一緒にやりたいことたくさんあるの……何年も何十年もかかっちゃうくらい`
+> `一緒にやりたいことたくさんあるの。[…]何年も何十年もかかっちゃうくらい`
+
+The second excerpt is abridged from `item/xhtml/p-0026.xhtml` ¶302; `[…]` marks an editorial omission of ordinary-activity examples, not a hesitation in Yui's speech.
 
 Reconstruction rule:
 
@@ -2218,14 +2228,25 @@ The compact rule is:
 
 # 24. Phase-8.5 freeze and handoff
 
+The following record preserves the model's original construction boundary. Its third-model position and next-model instruction are historical, not the current suite high-water mark.
+
 `OREGAIRU_V2_CHAR_YUI_RECONSTRUCTION_MODEL.md` is complete as the third Phase-8.5 reconstruction artifact and has been revised to `1.1_everyday_life_augmentation`. Its systematic mainline everyday-life slice is canonical at 60 rows in the shared Phase-8.5 ledger.
 
 Its governing use rule is:
 
 > **Simulate Yui as an active relational intelligence whose medium is ordinary social interaction. Preserve her softness, plural desire, jealousy, humor, future orientation, and ability to keep people in relation. Do not let those strengths erase the late-series lesson that atmosphere and accommodation become harmful when they decide the future in place of explicit answers.**
 
-The architecture-defined next artifact is:
+At that construction boundary, the architecture-defined next artifact was:
 
 > **`OREGAIRU_V2_CHAR_IROHA_RECONSTRUCTION_MODEL.md`**
 
-Phase 8.5 remains active until the planned reconstruction suite is complete or an evidence-thin model is formally deferred under the architecture's exit rule.
+## 24.1 Attributable suite-audit revision — 2026-10-16
+
+Revision `1.2_phase8_5_suite_audit` preserves revision `1.1_everyday_life_augmentation` in Git history and makes the following targeted corrections:
+
+- **REVISE temporal routing:** V07.5 B.T./SIDE-B observations use their early story placement, as established by the V07.5 reading §1.3 and the primary chronology anchors `text/part0017.html` ¶2 and `text/part0024.html` ¶6. The three affected ELP row IDs remain stable; no observation is discarded. Within-volume guards also prevent the V11 proposal, V14 expanded `全部`, and post-answer loss state from leaking backward within their broad bins.
+- **REVISE exact-quotation presentation:** EX-YUI-07 marks its editorial omission explicitly, preserving the distinction between abridgment and Yui's hesitation. The substantive future-friendship interpretation is **PRESERVE**.
+
+All eight initial models now exist. The current next step is `OREGAIRU_V2_PHASE8_5_RECONSTRUCTION_SUITE_AUDIT.md`, read through the registered corpus map. This individual amendment does not certify completion of the cross-model audit or authorize a Phase 9 freeze. Source facts, Document-13 claim boundaries, original state variants, and Yui's subjecthood remain unchanged.
+
+Phase 8.5 remains active until the architecture's suite-level source-routing, chronology, relationship-register, negative-constraint, everyday-life, and cross-model consistency checks are closed or explicitly deferred under its exit rule. Individual model completion alone does not close the phase.

@@ -5,14 +5,14 @@ artifact_type: "institutional_state_ledger"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "1.16"
+version: "1.17"
 status: "canonical"
 scope: "Material constraints, institutional rules and consequential adult/organizational decisions"
 canonical_home: "series/medalist/03 Longitudinal Ledgers/MEDALIST_INSTITUTIONS_RESOURCES_AND_AUTHORITY_LEDGER.md"
 source_boundary: "Japanese V01–V15 closed (Scores 1–61, Short Programs 1–7, three Exhibitions, own-volume material); Official Fanbooks 01 and 02 audited (MD-FR-FB01, MD-FR-FB02); later sources unadmitted"
 created: "2026-10-11"
-updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_FB02_UPDATE"
+updated: "2026-10-14"
+review_status: "INDEPENDENT_SOURCE_FIDELITY_REVIEWED"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -558,3 +558,9 @@ In this section `EV-####` expands to the [Official Fanbook 02 paratext audit's](
 | MD-IN-0160 | Access and shelter among clubs and households | Years before V01 to V09 | A child from a harmful home drawn into a club by an older skater and sheltered by that skater's mother; a senior head coach who makes it his business to give people a place; a coach and his wife who keep on terms with a pupil's parents for her sake; an application declined on a mother's word; a skater who must stop because her one parent cannot be kept working | Who gets to skate, and who is looked after while skating, is settled between households | EV-0010/0012/0014/0016; MD-CL-0014@11/0022@12/0026@9 | FB-CREATOR; HIGH as stated |
 
 A table sets the story's events against Winter Olympic years without calendar years, under a statement that the story's world is a little in the future and differs from the real one (EV-0027). It is recorded in the chronology ledger.
+
+## Independent source-review institutional bounds (2026-10-14)
+
+The [audit](../07%20Audits%20and%20Handoffs/MEDALIST_INDEPENDENT_SOURCE_FIDELITY_AND_CORRECTION_AUDIT.md) confirms that **MD-IN-0136** already says a sponsorship agreement must be renegotiated. Read the later “injury’s economy” projection’s “a sponsor” as **terms requiring adjustment**, not as a sponsor demonstrably withdrawn. Gori’s original V13 Score53 occurrence0136 speaks of agreements in principle requiring adjustment; the completed negotiation and money amount are unshown. Historical claim0011@13/0022@9 loss shorthand is corrected in the claims ledger.
+
+The original V13 profile0125 prints first-year middle school, age12. Existing release errata for thirteen-year-old V12/V13 wording stand; current adult risk/dormitory discussion uses twelve at that checkpoint, without a later birthday inference. Mika’s and Iruka’s injury causes remain unstated; Tsukasa’s harness accident has a depicted mechanism. All medical, licence and treatment statements remain attributed in-universe accounts. No new institution, rule, source admission or state event is added.

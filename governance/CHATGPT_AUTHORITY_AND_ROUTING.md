@@ -1,7 +1,7 @@
 ---
 document_role: chatgpt_authority_bootstrap
-document_status: ACTIVE_STABILIZING
-document_revision: 2.6-authority-epoch-1
+document_status: ACTIVE_ACCEPTED
+document_revision: 2.8-authority-epoch-1
 schema_version: 1
 repository_provider: GitHub
 provider_confirmed: true
@@ -21,7 +21,7 @@ non_series_namespace: studies
 sheet_authoring_policy: DRIVE_NATIVE_CONTROLLED_THEN_VERIFIED_GIT_MERGE
 migration_evidence_folder_name: MANGA_ANIME_GIT_MIGRATION_EVIDENCE
 stabilization_days: 14
-audit_cadence: daily-lightweight-plus-full-day-0-7-14
+audit_cadence: exact-head-integration-plus-weekly-full
 analytical_drive_root_id: 18sF-o3T_7SUsaVb3zXwvjkYX9gtGXsf7
 source_drive_root_id: 1tNJvglC-ri_AEGTkJupZ78WddyiCqQMy
 drive_master_index_name: MANGA_ANIME_DRIVE_INDEX.md
@@ -39,21 +39,23 @@ drive_sidecar_sha256: b46ab4ee99e9b5eb529168995b2530bccd30f529bc61f7e83cdd03599a
 effective_at: 2026-09-02T14:20:11Z
 ---
 
-# ChatGPT Git Authority and Change-Routing Handoff
+# Git Authority and Change-Routing Handoff
 
-**Supersession:** This revision supersedes `CHATGPT_GIT_AUTHORITY_AND_ROUTING_HANDOFF_DRAFT_INERT.md`. The earlier draft remains historical and must not be used as the live handoff.
+**Audience:** every person and agent working in this repository. The file path and front-matter keys keep their original `chatgpt` names so existing links resolve.
 
-## Critical status: Git authority is active and stabilizing
+**Record:** Activation, stabilization and acceptance of epoch 1 are recorded in `governance/cutovers/AUTHORITY_EPOCH_1_ACTIVATION_RECORD.md`, including this document's supersession of the inert draft handoff.
 
-The epoch-1 activation tuple is live. The repository is now the primary analytical authority for the exact scope enumerated by `governance/AUTHORITY_SCOPE.json`; the Drive master index carries the matching active pointer and checksum. The 14-day stabilization period is heightened verification, not a moratorium on new Git-native analysis.
+## Status: Git authority is active and accepted
 
-This handoff routes changes but never supplies mutation authorization by itself. ChatGPT must still follow a current user instruction and verify the applicable live Git-side predicate before writing.
+The epoch-1 activation tuple is live. The repository is the primary analytical authority for the exact scope enumerated by `governance/AUTHORITY_SCOPE.json`; the Drive master index carries the matching activation pointer and checksum. The owner accepted the stabilized epoch on 2026-10-15, and migration is complete.
+
+This handoff routes changes but never supplies mutation authorization by itself. An agent must still follow a current user instruction and verify the applicable live Git-side predicate before writing.
 
 The epoch-1 Drive activation evidence remains part of the authority record, but routine `GIT_PRIMARY` work does not require a fresh Drive read. A pasted copy may be stale and is never sufficient evidence by itself.
 
 ## 1. Purpose
 
-After an approved migration and cutover, this document tells ChatGPT:
+After an approved migration and cutover, this document tells every agent working in the repository:
 
 - which system is authoritative for each artifact;
 - where analytical changes belong;
@@ -75,11 +77,13 @@ Before routing routine `GIT_PRIMARY` work, fetch the live repository records. Gi
 5. the protected activation tag resolves to the declared full activation commit;
 6. no newer rollback or recovery epoch supersedes the activation.
 
-The Drive-side activation evidence must be revalidated for a cutover, rollback, recovery, authority-epoch or authority-scope change, scheduled stabilization reconciliation, Drive-native refresh, or a reported authority mismatch. In those operations:
+The Drive-side activation evidence must be revalidated for a cutover, rollback, recovery, authority-epoch or authority-scope change, Drive-native refresh, or a reported authority mismatch. In those operations:
 
 1. the live Drive master index, read by stable Drive file ID, must contain a matching `GIT_ACTIVE_STABILIZING` or `GIT_ACTIVE_ACCEPTED` pointer;
 2. the Drive master-index bytes must match their checksum sidecar; and
 3. the Git record and Drive pointer must agree on repository, epoch, cutover ID, activation commit, tag, scope hash, and effective state.
+
+Until the owner updates the Drive pointer after the 2026-10-15 acceptance, a pointer reading `GIT_ACTIVE_STABILIZING` with an otherwise matching tuple is the expected state, not a mismatch.
 
 If a required Git-side condition is false, unavailable, stale, or ambiguous:
 
@@ -134,6 +138,19 @@ The Git repository is not blanket authority over everything in either Drive root
 - extraction/packaging tooling unless separately approved;
 - Drive-native semantics explicitly classified `DRIVE_NATIVE_PRIMARY`.
 
+### 4.2 Analytical fidelity and procedural corrigibility
+
+The repository exists to produce source-grounded literary, narrative, character, relationship, thematic, and comparative analysis. Accuracy and fidelity to admitted source evidence are its substantive objectives. Authority records, gates, freezes, validators, and publication controls are instruments that preserve the reliability, reproducibility, provenance, and integrity of that analysis. They must not be used to obstruct legitimate corrections or keep a known analytical error in force.
+
+Procedure and accuracy are not interchangeable. A procedurally compliant artifact or a passing validator does not establish that an interpretation is accurate. A substantiated correction does not by itself authorize bypassing validation, scope, or authority controls.
+
+- **Duty of correction.** When material evidence shows that a current analytical claim is erroneous, materially incomplete, misleading, or no longer supportable, correct or supersede it through a legitimate route. Do not knowingly keep a defective claim as unqualified current authority merely to satisfy a procedure. When correction is blocked, keep the defect and the exact blocker recorded where current state is read until it is resolved. A correction rests on source evidence: locators and provenance, material counterevidence, and stated uncertainty. Ordinary interpretive disagreement, an agent's confidence, or disagreement between Claude, Codex, ChatGPT, or other sessions is not by itself evidence of error; competing supported readings are recorded, not overwritten.
+- **Procedural corrigibility.** Procedures are also subject to evidence-based review. When a control demonstrably obstructs an otherwise authorized, evidence-backed correction, select the narrowest sufficient remedy: an existing permitted correction route; a superseding version or targeted erratum; repair of a validator that does not implement its governing text; amendment of the governing procedure; or, only where these are inadequate, a narrowly scoped, documented exception. A recurrent conflict is a procedure defect to amend, not a reason to repeat exceptions. A scope or validation blocker does not by itself prove a control defective; a control that correctly requires coordinated authorization is working.
+- **Historical integrity.** Current authority and historical evidence are different objects. Frozen readings, prospective predictions, source receipts, closure seals, and decision records are not silently rewritten because later analysis improved. Correct them through attributable errata, claim revisions, or superseding artifacts that keep the original state and an auditable revision chain, unless a separately authorized procedure permits modification (Section 8.2). Corrigibility never authorizes falsifying a historical knowledge boundary.
+- **Authorization boundaries.** A claim of improved accuracy is not owner authorization. This principle never lets an agent self-authorize source acquisition or narrative admission; work outside its authorized source or file scope; publication of restricted, private, or ineligible content; modification of frozen evidence; modification of repository-global controls from a series- or study-scoped task; bypass of protected-branch, identity, provenance, or publication controls; suppression of failing validation; or rewriting of Git history. An agent may diagnose a conflict and propose a remedy within its current scope; the diagnosis is not new write authority.
+
+The operational correction and conflict procedure is in `governance/policies/CHANGE_INTEGRATION_CHECKLIST.md` under "Analytical corrections and procedural conflicts". Sequential-lock and terminal-closure semantics, including how corrections proceed after source admission closes, are in Section 3.8 of `governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md`.
+
 ## 5. Repository hierarchy
 
 Expected live hierarchy:
@@ -171,24 +188,38 @@ Preserve each mature project's internal structure and canonical entrypoint. Do n
 
 ## 6. Mandatory first-read order
 
-For any analytical task after activation:
+Acquire the following universal context for every repository task, then add every applicable responsibility below **before** performing that operation. Section ranges include their subsections. Reuse verified context within a session while its governing revision and scope remain unchanged; reacquire changed rules after reconciliation. If responsibilities expand, acquire the additional context first. This is retrieval guidance into the canonical policies, not an alternative abbreviated policy hierarchy.
 
 1. read live `AGENTS.md`;
 2. fetch and validate live `governance/AUTHORITY_STATE.yaml` and `governance/AUTHORITY_SCOPE.json` under the applicable predicate in Section 2;
-3. read `governance/policies/CHANGE_INTEGRATION_CHECKLIST.md` and `governance/policies/BRANCH_LIFECYCLE.md` before proposing a write;
-4. read `governance/MANGA_ANIME_CORPUS_INDEX.md`;
-5. resolve the project through `series/registry.json` or `studies/registry.json`;
-6. require `canonical_entrypoint_status: PRESENT_VERIFIED`, then read the exact project-local `canonical_entrypoint` named by the registry; an explicit `MISSING` status is a stop condition, not permission to infer a substitute;
-7. read only the analysis, evidence, or Drive-native references needed for the task;
-8. consult `crosswalk/drive-to-git.jsonl` when source identity or historical provenance matters.
+3. read this document's Sections 2-4, 6-7 and 12 (activation, trust, authority, acquisition, routing and stops);
+4. before proposing a write, read the checklist's **Before editing** and follow its **Checklist acquisition by operation**, plus the applicable branch section of `governance/policies/BRANCH_LIFECYCLE.md`;
+5. for project work, resolve the exact row in `series/registry.json` or `studies/registry.json`, require `canonical_entrypoint_status: PRESENT_VERIFIED`, and read the full named project-local `canonical_entrypoint`; an explicit `MISSING` status is a stop condition, not permission to infer a substitute;
+6. read the project's governing method, architecture, source boundary and applicable evidence/claim obligations before analysis. Read the corpus index's relevant route when discovering or rerouting a project, and its complete catalogs when checking for an existing root before initiation; unrelated catalog rows need not enter an established project's working context;
+7. retrieve the analysis, evidence and source references required by the task, including `crosswalk/drive-to-git.jsonl` when source identity or historical provenance matters.
 
-A `MISSING` series route is legitimate only when its `series_id` appears in the reviewed `allowed_missing_canonical_entrypoints` set in `governance/repository-controls/tracked-file-policy.json`. Any other `MISSING` route, or any stale allowlist entry with no corresponding missing route, is a repository-validation failure. The current epoch-1 reviewed exception is `shuukura` only.
+| Responsibility actually undertaken | Additional canonical reading before the operation |
+|---|---|
+| Any substantial analytical execution | Analytical execution routing below; [reasoning policy](source-policies/MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md) Sections 1-4, 8-9, 11-16, 18-19 and 21; [topology policy](source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md) Sections 1-6 and 8-11. Read reasoning Sections 5-7 when resolving a new configuration or relying on provider/cost facts, 10 for model migration, 17 for calibration, 20 for policy maintenance; topology Section 7 for transport/scale limits and 12 for topology evaluation. Required evidence capability checks remain mandatory. |
+| Continuing established sequential analysis | [Initiation policy](source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md) Sections 2 and 3.8-3.9; [continuation policy](source-policies/MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY.md) Governing rule and Sections 1-6, 8-10, 12-13, adding Section 7 before interrupted-run recovery. Section 11 is explanatory examples. For long-series work, [long-series protocol](source-policies/MANGA_ANIME_LONG_SERIES_HYBRID_EXECUTION_PROTOCOL.md) Sections 1-2, 5 and 12-14; acquire the next phase's sections before entering it. |
+| Retrospective synthesis or character reconstruction without admission | Project method, architecture, admitted-source boundary and reconstruction/validation contract; initiation Sections 2 and 3.8; reasoning Section 15; long-series Sections 1-2, 6-8 and 10-14. Add Section 9 when multimodal completion is required. Continuation rules activate only if the operation also admits sources or recovers a sequential run. |
+| New project, material restart or architectural initialization | Entire [initiation policy](source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md), relevant naming/archive and medium-specific method/specification rules; long-series Sections 1-4 and 12-14 when applicable. Add the sequential row before the first reading. |
+| Cross-session transfer, acceptance or authority promotion | [Handoff contract](source-policies/MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md): Sections 1-7 and 10-14 plus 8 for producers and 9 for receivers; both when responsible for both sides. All semantic-acceptance provisions in that contract apply when accepting or promoting substantial analysis, including provisions added there by later reviewed changes. Use its existing template when a transfer is required. |
+| Character discovery/curation, or changes invalidating existing character references | [Character maintenance policy](policies/CHARACTER_DISCOVERY_MAINTENANCE.md) and the applicable authority/evidence specification in `characters/README.md`; curation branch section in the branch policy. Creating a character monograph alone is analytical work, not curation authority. |
+| Commit, publication or integration | This document's Section 8 introduction and 8.1, Section 10.1 and Section 13; applicable checklist sections; [publication policy](policies/PUBLICATION_AND_CONTRIBUTION_POLICY.md). Stable analytical branches also read [housekeeping policy](policies/AUTOMATED_GLOBAL_INDEX_MAINTENANCE.md). Read the [nightly policy](policies/NIGHTLY_ANALYTICAL_INTEGRATION.md) when operating or changing that integration route. |
+| Repository-wide governance, controls or validation | The affected owning policies and control files in full, `governance/repository-controls/change-obligations.json`, [repository controls](policies/REPOSITORY_CONTROLS.md), [artifact eligibility](policies/ARTIFACT_ELIGIBILITY.md), [audit execution](policies/AUDIT_EXECUTION.md), affected validator/generator and regression tests; branch policy's Cross-cutting work and Temporary branches. Full validation remains required by the checklist. |
+| Frozen-artifact correction, supersession or control conflict | This document's Section 8.2; checklist's correction/conflict procedure; [archive authority policy](source-policies/ARCHIVE_AUTHORITY_AND_SUPERSESSION_POLICY.md), applicable authority vocabulary in `characters/README.md`, and the artifact's freeze/source/closure controls. A source-boundary dispute also requires initiation Section 3.8 and continuation Sections 3-5 and 9. |
+| Authority recovery, epoch/scope mismatch or Drive-native operation | This document's Sections 2, 9-11 and 14; the linked epoch record and affected cutover/export policies. Historical migration records are retrieved for the actual recovery/provenance question, not as recurring operating instructions. |
+
+A policy link identifies ownership; it is not a demand to recursively read every linked file. A rule's prerequisites and cross-references become required when the operation depends on them. No project-specific method, freeze, source boundary, evidence requirement or publication control is made optional by this routing table. When a task cannot be bounded to the listed sections, read the owning policy in full.
+
+A `MISSING` series route is legitimate only when its `series_id` appears in the reviewed `allowed_missing_canonical_entrypoints` set in `governance/repository-controls/tracked-file-policy.json`. Any other `MISSING` route, or any stale allowlist entry with no corresponding missing route, is a repository-validation failure. The reviewed exception set is empty after the coordinated Shuukura V2 entrypoint transition; no series currently has a missing canonical entrypoint.
 
 Conversation memory, search-result ranking, file recency, and filename similarity do not outrank the live authority records.
 
 ### Analytical execution routing
 
-For model/workload selection, read `source-policies/MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md`. For environment capabilities and stage ownership, read `source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md`. Long-series work should normally use `source-policies/MANGA_ANIME_LONG_SERIES_HYBRID_EXECUTION_PROTOCOL.md`; cross-session transfers follow `source-policies/MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md`.
+For model/workload selection, read `source-policies/MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md`. For environment capabilities and stage ownership, read `source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md`. Long-series work should normally use `source-policies/MANGA_ANIME_LONG_SERIES_HYBRID_EXECUTION_PROTOCOL.md`; cross-session transfers follow `source-policies/MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md`. All substantial analytical prose follows that contract's section 15 named-subject and referential-clarity standard and its bounded name-and-reference check before semantic acceptance, authority promotion, or integration.
 
 The preferred long-series arrangement is fresh cloud architecture, local sequential readings and ledgers, fresh cloud substantial synthesis, then local required evidence completion and repository integration. These preferences do not grant write authority, weaken the initiation/continuation gates, or change specialized curation and housekeeping ownership. A transferred draft is not current authority until accepted through the existing process.
 
@@ -200,7 +231,7 @@ The preferred long-series arrangement is fresh cloud architecture, local sequent
 | New title | Create registry/corpus-index change and reviewed stable slug before content |
 | Comparative, taxonomy, or cross-series study | `studies/<stable-slug>/` content on the continuing `studies/<stable-slug>` branch; never force into a series |
 | Character discovery registry and generated index | Sole curation agent on reusable `character-registry`; coordinated pre-merge evidence repair follows `CHARACTER_DISCOVERY_MAINTENANCE.md` |
-| Other governance, authority maps, crosswalks, Git indexes, or repository tooling | Narrow temporary `chatgpt/<purpose>` or `codex/<purpose>` branch with heightened review and verified post-integration pruning |
+| Other governance, authority maps, crosswalks, Git indexes, or repository tooling | Narrow temporary agent branch (`codex/<purpose>`, `chatgpt/<purpose>` or `claude/<purpose>`) with heightened review and verified post-integration pruning |
 | Primary sources, media, or extraction outputs | Source/ingestion domain; never analytical Git |
 | Existing `DRIVE_NATIVE_PRIMARY` Doc/Sheet | Controlled Drive-native workflow, then verified Git projection refresh |
 | Convenience ZIP or frozen release binary | Drive only; update Git manifest if needed |
@@ -215,14 +246,14 @@ When a current user request authorizes a Git-primary analytical change, the comm
 1. choose the approved source object available on the execution platform: primary/source-domain material in Drive, or approved primary-source material on local disk;
 2. record the source boundary and provenance needed by the existing project architecture;
 3. produce or update the analytical document in its canonical Git project path;
-4. publish the analytical change through one of the two execution profiles below.
+4. publish the analytical change through one of the two execution profiles (Section 8.1).
 
 Drive and local disk are alternative source/evidence surfaces. Selecting either one does not make it the analytical write authority, and raw primary sources or extraction outputs must not be added to Git unless a separate authority record and user instruction expressly permit it.
 
 Before either execution profile:
 
 1. verify the applicable live Git-side authority predicate and authenticated repository access;
-2. read the corpus index, registry, and exact verified project entrypoint;
+2. acquire the project route and exact verified entrypoint under Section 6 when the change concerns a project; a cross-cutting change acquires the affected global owners instead;
 3. select the branch required by `governance/policies/BRANCH_LIFECYCLE.md`;
 4. identify the exact authorized paths and evaluate `governance/repository-controls/change-obligations.json` for every required same-change index, registry, crosswalk, or manifest update;
 5. preserve the established project architecture, source boundary, authority metadata, and provenance;
@@ -230,49 +261,13 @@ Before either execution profile:
 
 On stable `series/<stable-slug>` and `studies/<stable-slug>` branches, follow `governance/policies/AUTOMATED_GLOBAL_INDEX_MAINTENANCE.md`. Write the named analytical root and required routing descriptors. Housekeeping synchronizes only five series/study routing outputs. Use the analytical author-preflight profile in `governance/policies/CHANGE_INTEGRATION_CHECKLIST.md`; pending routing is permitted on the source branch, but integration requires completed housekeeping and a successful `Repository integration audit` status on the exact final commit. Noncurrent drafts use the complete `draft_noncurrent` quartet in `characters/README.md` and remain ineligible as current evidence. Character discovery is exclusively maintained by the owner-authorized cloud curation agent under `governance/policies/CHARACTER_DISCOVERY_MAINTENANCE.md`; only that agent may provide a coordinated character repair on the source branch before integration.
 
-### 8.1 GitHub API or connector mode (ChatGPT)
+### 8.1 Execution profiles and branches
 
-1. fetch `main` and the exact target-branch head; confirm the selected branch is based on or explicitly reconciled with current `main`;
-2. fetch the complete current contents and blob SHA for every existing path to be changed at the captured commit; verify completeness before constructing any full-file replacement;
-3. confirm that the provider will record an author from `allowed_author_identities` and a committer from `allowed_committer_identities` in `governance/repository-controls/tracked-file-policy.json`; the GitHub server identity may be an allowed committer but is never an allowed author, and wildcard identity patterns are prohibited;
-4. create or reuse `series/<stable-slug>` for continuing series work, `studies/<stable-slug>` for continuing study work, or a narrow temporary `chatgpt/<purpose>` branch for cross-cutting or one-shot work;
-5. construct each candidate from the verified original plus targeted edits, review its complete diff, and write only the authorized paths using current blob SHAs for replacement safety and an atomic multi-file tree/commit when the connector supports it;
-6. treat the exact candidate Git tree as the live path inventory and update only the semantic outputs required by the obligation map; an ordinary path change inside an existing registered root does not require a global path-list projection;
-7. fetch the resulting commit and each changed file, compare remote contents with the reviewed candidates and the complete branch delta against the validated base; validate formatting, links, structured data, authority records, commit identity, generated outputs, and the exact changed-file set;
-8. use the owner-controlled integration route authorized for the change: a pull request when required, or an explicitly authorized ordinary non-forced integration into `main`; never infer merge authority from this handoff or a branch name;
-9. immediately before integration, recheck remote-head drift and confirm the reviewed branch delta is unchanged;
-10. after integration, fetch the resulting `main` head, verify that its tree or reviewed patch corresponds to the approved change, and require the `main` repository audit to complete successfully before declaring the Git transaction closed.
+The two execution profiles, GitHub API or connector mode and local clone mode, are commit and publication procedure and live in the checklist's [execution profiles](policies/CHANGE_INTEGRATION_CHECKLIST.md#execution-profiles). Branch names, retention and pruning follow `governance/policies/BRANCH_LIFECYCLE.md`. A Git transaction closes only when the post-integration `main` audit passes.
 
-This profile has no working tree or staging area. Complete verified source contents, exact base refs, blob identities, authorized path lists, commit and branch comparisons, any applicable PR diff, and post-integration `main` verification provide the equivalent safety controls.
+<a id="84-frozen-release-administrative-maintenance"></a>
 
-Follow the checklist's connector-failure procedure after truncated reads, payload failures, timeouts, or ambiguous writes: inspect remote state before retrying, preserve already applied and concurrent changes, and use an approved Git-capable environment or report a precise blocker when a complete safe replacement is unavailable. Never substitute a summary, omit untouched sections, or repeatedly overwrite from a stale before-image.
-
-### 8.2 Local clone mode (Codex)
-
-1. fetch the target branch and inspect `git status`, the current branch, upstream tracking, and the exact base commit; stop on unrelated or ambiguous worktree changes;
-2. create or reuse `series/<stable-slug>` for continuing series work, `studies/<stable-slug>` for continuing study work, or a narrow temporary `codex/<purpose>` branch for cross-cutting or one-shot work;
-3. edit only the authorized paths through targeted patches against the current files, preserving unaffected bytes and document history under the maintained-document rules;
-4. stage explicit paths with `git add -- <path>...`; never use `git add .`, a directory-wide add, or wildcard staging;
-5. run `python tools/prepare_commit.py --base origin/main --write-generated`, review its outputs, and stage each required generated path explicitly;
-6. run `python tools/prepare_commit.py --base origin/main --check`; add `--full` only when explicitly required or when changing executable validation, workflow, schema, publication-safety, or authority controls;
-7. inspect `git diff --cached --check`, the exact staged path list, file sizes, and the complete staged diff;
-8. commit the reviewed tree on the selected branch and recheck `origin/main` immediately before publication;
-9. use the owner-controlled integration route authorized for the change: a pull request when required, or an explicitly authorized ordinary non-forced fast-forward or compare-and-swap update of `main`;
-10. after integration, fetch the resulting `main` head, verify remote exactness, and require the `main` repository audit to complete successfully before declaring the Git transaction closed.
-
-An integration that materializes successfully but fails the post-integration `main` audit is not a completed transaction. Preserve the integrated content, classify the repository state as stabilization remediation for that change, and repair forward through the applicable routed branch or a narrow temporary remediation branch; do not rewrite published history merely to erase the failed integration commit.
-
-Do not create ordinary content directly on `main`, force-push, rewrite published history, delete protected refs, or broaden repository access. An owner-authorized integration may advance `main` normally from an exact reviewed branch; it may not bypass remote-drift checks or the final `main` audit.
-
-If authenticated GitHub access is unavailable, request connection/authorization or return a proposed patch. Do not silently write the analytical change to Drive.
-
-### 8.3 Branch retention and pruning
-
-Temporary bootstrap, migration, repair, audit-remediation, experiment, and one-shot branches must be deleted after their intended content is verified on `origin/main`, their integration is recoverable by ancestry or exact tree/patch comparison, the `main` audit is green, and no intended artifact remains unique to the branch. Delete the remote temporary branch and then any local counterpart.
-
-The curation agent's exact `character-registry` branch may remain while its recurring task is active; follow `governance/policies/CHARACTER_DISCOVERY_MAINTENANCE.md`. Continuing `series/<stable-slug>` and `studies/<stable-slug>` branches may remain while their named analytical roots are active. Different series or study branches may advance concurrently. Periodically reconcile them with `main`; work on the same analytical root must not proceed concurrently without explicit reconciliation. Apply the verified pruning rule when a continuing branch is retired.
-
-### 8.4 Frozen-release administrative maintenance
+### 8.2 Frozen-release administrative maintenance
 
 A project or release described as `immutable`, `frozen`, `final`, or `archival` is analytically immutable by default, not necessarily byte-immutable. A reviewed governance change may maintain narrowly administrative metadata needed to keep the repository routable and auditable, including authority state, supersession fields, current-authority flags, registry pointers, or equivalent corpus-routing metadata, provided that the change does not alter analytical prose, claims, evidence interpretation, source boundary, or substantive release content.
 
@@ -310,16 +305,7 @@ Do not independently edit projection components or treat an unmerged Drive revis
 
 ### 10.1 Git indexes
 
-`governance/repository-controls/change-obligations.json` is the machine-readable same-change requirement map. `governance/policies/CHANGE_INTEGRATION_CHECKLIST.md` is the compact human and agent pre-commit contract. Apply both; do not rely on memory or update every catalog indiscriminately.
-
-| Change | Required synchronized surface |
-|---|---|
-| Any tracked add, delete, or rename | Use the exact candidate Git tree as the canonical live path inventory; no global path-list projection is required. |
-| Add or reroute a series root on its stable branch | Add or update `.repository/series-registry.json`; automation updates `series/registry.json`, `series/README.md`, and the corpus index. Deletion remains manual and separately reviewed. |
-| Add or reroute a study root on its stable branch | Add or update `.repository/study-registry.json`; automation updates `studies/registry.json`, `studies/README.md`, and the corpus index. Deletion remains manual and separately reviewed. |
-| New eligible character analysis | The curation agent reviews it after merge; discovery may lag while existing character invariants remain valid. Retired character-upsert files are optional historical leads, never replacement inputs. |
-| Change character metadata or already referenced evidence | Only the curation agent updates `characters/registry.jsonl` and generates `CHARACTER_ANALYSIS_INDEX.md`. Broken references or a stale index require a coordinated repair before the source change integrates. |
-| Add or change a Drive-only reference | Update `provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md` and verify its anchors. |
+`governance/repository-controls/change-obligations.json` is the machine-readable same-change requirement map, and the checklist's [change obligations](policies/CHANGE_INTEGRATION_CHECKLIST.md#change-obligations) table is its human form. Apply both; do not rely on memory or update every catalog indiscriminately.
 
 Project-local entrypoints, indexes, and manifests must be updated when their own architecture requires them. Frozen migration crosswalks, activation bindings, and `G3_BOOTSTRAP_TRACKED_PATHS.txt` are not routine generated outputs and must not be rewritten merely to reflect later Git-native work. Historical transaction records may retain references to a live path manifest that existed at the recorded commit; those references are provenance, not a current dependency.
 
@@ -333,23 +319,7 @@ Its existing `MANGA_ANIME_DRIVE_INDEX.md_SHA256.txt` sidecar must be updated and
 
 Drive per-series indexes remain unchanged unless the owner separately authorizes targeted pointer banners. Their migrated Git copies use repository-relative links.
 
-### 10.3 Prepared Drive pointer template
-
-The following is a template, not an instruction to edit Drive:
-
-```yaml
-authority_pointer_schema: 1
-state: CUTOVER_PREPARED
-repository: deep-blue-zero/anime-manga-ln-games-analysis
-authority_epoch: <MONOTONIC_INTEGER>
-cutover_id: <UNIQUE_ID>
-candidate_commit: <FULL_COMMIT_OID>
-activation_tag: <PROTECTED_ANNOTATED_TAG>
-authority_scope_sha256: <SHA256>
-effective_at: null
-```
-
-The active block must contain the same tuple with `state: GIT_ACTIVE_STABILIZING` and a verified effective timestamp. The pointer and checksum sidecar must agree before authority is effective.
+The prepared pointer template used for activation is kept in the epoch-1 record (Section 14).
 
 ## 11. Cutover and rollback state meanings
 
@@ -366,7 +336,7 @@ The active block must contain the same tuple with `state: GIT_ACTIVE_STABILIZING
 
 Rollback never implies that stale Drive content contains later Git-only changes. Preserve and reconcile post-cutover Git work before declaring a rollback authority boundary.
 
-## 12. Stop conditions for ChatGPT
+## 12. Stop conditions
 
 Stop and request owner direction when:
 
@@ -385,49 +355,10 @@ Stop and request owner direction when:
 
 Do not repair authority ambiguity by guessing, copying to both systems, or choosing whichever system is easiest to edit.
 
-## 13. Activation checklist
+## 13. Ongoing verification
 
-This document may be changed from `DRAFT_INERT` only through the migration framework.
+After acceptance, verification is event-driven rather than daily: an exact-head `Repository integration audit` for every integration, the post-merge `main` audit that closes each Git transaction, the weekly scheduled full audit, unchanged-revision export-and-merge verification for every Drive-native change, and an immediate full audit on any anomaly. Misrouted analysis is preserved and reconciled; it is never automatically deleted or overwritten.
 
-- [x] Exact GitHub remote verified.
-- [x] Hardened framework approved.
-- [x] Inventory and classification reconciled by Drive ID.
-- [x] Authority scope contains no in-scope blockers.
-- [x] Candidate commit and protected annotated tag verified.
-- [x] Drive master-index before-image preserved.
-- [x] Drive pointer and SHA-256 sidecar updated and verified.
-- [x] Git and Drive activation tuples match exactly.
-- [x] Live handoff header populated with non-null cutover values.
-- [x] Separate user authorization for cutover recorded.
-- [x] Post-activation handoff commit reviewed and merged.
+## 14. Epoch-1 record
 
-All activation conditions passed for epoch 1. Any later mismatch triggers the fail-closed recovery behavior above.
-
-## 14. Approved stabilization operation
-
-Git is live for `GIT_PRIMARY` work throughout the approved 14-day stabilization period. Stabilization is heightened observation, not a moratorium on new analysis.
-
-Cadence:
-
-- Day 0: full post-cutover baseline audit;
-- Days 1–14: daily lightweight, read-only Drive/Git delta checks;
-- Day 7: full ID-level reconciliation and repository integrity audit;
-- Day 14: final full reconciliation and acceptance-readiness audit;
-- after every Git integration: targeted local or exact-tree validation followed by remote-head verification and the single full `main` repository audit; the originating transaction remains open until that audit passes;
-- after every Drive-native change: unchanged-revision export-and-merge verification;
-- on any anomaly: immediate triggered full audit.
-
-Daily audits distinguish expected Drive-native work, primary-source activity, evidence/binary storage, misrouted Git-primary analysis, and ambiguous changes. They do not require legitimate Drive activity to stop. Misrouted analysis is preserved and reconciled; it is never automatically deleted or overwritten.
-
-Final `GIT_ACTIVE_ACCEPTED` status requires zero unresolved severity-0/1 defects, one verified Git-native analytical change, one refresh test per Drive-native artifact class, successful rollback-readiness verification, and explicit owner acceptance.
-
-## 15. Active epoch-1 tuple
-
-- Authority epoch: `1`
-- Cutover ID: `g8-authority-epoch-1-20260902T134713Z`
-- Activation commit: `01561d0c9398917c1329501b798733041ab17e98`
-- Protected annotated tag: `activation/authority-epoch-1`
-- Authority scope SHA-256: `008b7b2adf114c1f39dd86fae064344457dab5b9e45486623fc9237fb6ed0916`
-- Effective timestamp: `2026-09-02T14:20:11Z`
-
-The activation commit fixes the corpus boundary. Later commits on `main` may add governance records and authorized Git-primary analysis without changing that boundary; any new authority epoch requires a new protected activation tuple.
+The activation checklist, the stabilization plan, the prepared Drive pointer template and the active tuple are kept in `governance/cutovers/AUTHORITY_EPOCH_1_ACTIVATION_RECORD.md`; the tuple also stands in this document's front matter. The activation commit fixes the corpus boundary. Later commits on `main` may add governance records and authorized Git-primary analysis without changing that boundary; any new authority epoch requires a new protected activation tuple.

@@ -1,0 +1,189 @@
+{
+  "schema": "VERITAS_PUBLIC_ORIGINAL_WITNESS_CUSTODY_AND_FROZEN_HISTORY_ROLE_V1",
+  "role": "Opaque original witness metadata, not fresh source receiving/independentQA/adoption.",
+  "original_witnesses": [
+    {
+      "private_witness_id": "VERITAS_ORIGINAL_AUTHOR_0",
+      "current_repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 49607,
+      "sha256": "e0b64a944cc24bb6c71c4eb236118c6763883b5ab8ff3d1095912d6780374b15",
+      "git_blob_oid_of_actual_bytes": "8490875d962d9c1cc4fd36c0939eb8dd8084a3de"
+    },
+    {
+      "private_witness_id": "VERITAS_ORIGINAL_AUTHOR_1",
+      "current_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_INPUT_SOURCE7_GRADE_AND_CURRENT105_QUALIFIER_RECEIVING_V1.json",
+      "bytes": 96330,
+      "sha256": "010dfd2652711bb69cb8b3af08285437ae15789460b3e86f0c8b38fab358ac6b",
+      "git_blob_oid_of_actual_bytes": "ff28b196c388a2f2cf924973c1de38fc8c10dc95"
+    },
+    {
+      "private_witness_id": "VERITAS_ORIGINAL_AUTHOR_2",
+      "current_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json",
+      "bytes": 279058,
+      "sha256": "ac4d5aa0fe867e53914df9f1505996180edfa72004b665b40432200f4f7e1c2d",
+      "git_blob_oid_of_actual_bytes": "32f6032b9d3ba7736c3b477f8bc59b962d91e5b1"
+    },
+    {
+      "private_witness_id": "VERITAS_ORIGINAL_AUTHOR_3",
+      "current_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json",
+      "bytes": 416682,
+      "sha256": "519ecde5c1df08b8aa4a1493aff46dec2490dfe45956faa6475d78ed5d11589a",
+      "git_blob_oid_of_actual_bytes": "fb6fa9fe1bb6baea392828a593b411a805b1bb20"
+    },
+    {
+      "private_witness_id": "VERITAS_ORIGINAL_AUTHOR_4",
+      "current_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json",
+      "bytes": 580583,
+      "sha256": "251c0724f9398a56331581ff74ec113f064b04a32fb40d668aa3a217b29ff459",
+      "git_blob_oid_of_actual_bytes": "1f72783264c17afa13754aa64ed75cb5df750f69"
+    },
+    {
+      "private_witness_id": "VERITAS_ORIGINAL_AUTHOR_5",
+      "current_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_TARGET_PURPOSE_INDEX_V1.json",
+      "bytes": 70612,
+      "sha256": "31350c8e7f9341803026edf95a7f4d44a5b6837730cfd6ff351e66639d1c811e",
+      "git_blob_oid_of_actual_bytes": "8aee9c41f7e8e214036719b271aef8930a8a1574"
+    },
+    {
+      "private_witness_id": "VERITAS_ORIGINAL_AUTHOR_6",
+      "current_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_LITERAL52_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+      "bytes": 903345,
+      "sha256": "b91c03283c240212a771c52373af234229ae3024daff6bef2294321e46fa4496",
+      "git_blob_oid_of_actual_bytes": "e28684b4e560091905a2887ed13eaa10f57cc1af"
+    },
+    {
+      "private_witness_id": "VERITAS_ORIGINAL_AUTHOR_7",
+      "current_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json",
+      "bytes": 13019,
+      "sha256": "5eca3c64cdb563d220bfe7d35938a0a9b10839108dccb2d6a0be101269120987",
+      "git_blob_oid_of_actual_bytes": "6ea0b285525b271c6bde1ae97fd0990d950d72f3"
+    },
+    {
+      "private_witness_id": "VERITAS_ORIGINAL_QA_OLD201_BODY_ONLY",
+      "current_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/INDEPENDENT_VERITAS_CURRENT201_FULL52_BODY_FIRST_LITERARY_DIMENSION15_E00112_RIVAL8_END16_GAP14_RECEIVING_QA_V1.json",
+      "bytes": 222943,
+      "sha256": "5fb16096b1a23f04f716cc2b4449f32e31075edc3a477c79542bba177aad4eda",
+      "git_blob_oid_of_actual_bytes": "2d8ff242c046f40a5e1d8a3130d3fe5ccf13ce77"
+    },
+    {
+      "private_witness_id": "VERITAS_ORIGINAL_QA_FULL_CURRENT200_V3",
+      "current_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/INDEPENDENT_VERITAS_CURRENT_V3_COMPLETE200_LITERAL52_NEW105_SOURCE7_EXACT8_FULL_LITERARY_COMPONENT_CURRENT_POSITIVE_REVIEW_V1.json",
+      "bytes": 399718,
+      "sha256": "bbbbf36b7fc79665c2d9f4ae04abf002a9a2e2c5db79648a4ffd5380b9a6edd9",
+      "git_blob_oid_of_actual_bytes": "b20e879a6de7ed4559299acba4cb039a07605299"
+    },
+    {
+      "private_witness_id": "VERITAS_ORIGINAL_QA_CURRENT_V4_ADDITIVE_DELTA",
+      "current_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/INDEPENDENT_VERITAS_CURRENT_V4_VP042_WANTED_REPORT_MODE_ADDITIVE_BOUNDED_DELTA_AND_COMPLETE_ORIGINAL_TWO_STAGE_QA_SUCCESSOR_V1.json",
+      "bytes": 107231,
+      "sha256": "703d627bc158484bbbb5420a02b4d779e722790522b63a2c181853297450120c",
+      "git_blob_oid_of_actual_bytes": "632061fc2a37c90d645d13e538646b1287d1d893"
+    },
+    {
+      "private_witness_id": "VERITAS_ORIGINAL_ROOT",
+      "current_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_ACTUAL_ROOT_CURRENT200_LITERAL52_NEW105_SELECTED7_EXACTV4_ADOPTION_WITH_LIMITS_V1.json",
+      "bytes": 45025,
+      "sha256": "46121eacbc425e4c8907d6f9907cc6861992ba32fd54f59194146b2bcfeb0b54",
+      "git_blob_oid_of_actual_bytes": "ed3dc61fc89314b3e6212c9d3bde512820641070"
+    }
+  ],
+  "named_opaque_original_locator_witnesses": [
+    {
+      "private_witness_id": "private-witness:VERITAS-05C003C23EAE905B7034228C",
+      "original_whole_receipt_witness_id": "VERITAS_ORIGINAL_QA_OLD201_BODY_ONLY",
+      "original_JSON_pointer": "/body/exact_C_path",
+      "role": "Original executor locator is witnessed privately; no new unbound public source dependency."
+    },
+    {
+      "private_witness_id": "private-witness:VERITAS-BE9CA4B1D372CA84FE870687",
+      "original_whole_receipt_witness_id": "VERITAS_ORIGINAL_QA_OLD201_BODY_ONLY",
+      "original_JSON_pointer": "/author_source7_receiving_receipt/exact_C_path",
+      "role": "Original executor locator is witnessed privately; no new unbound public source dependency."
+    },
+    {
+      "private_witness_id": "private-witness:VERITAS-1E7B03EAA3BABD1C0FD9C029",
+      "original_whole_receipt_witness_id": "VERITAS_ORIGINAL_QA_OLD201_BODY_ONLY",
+      "original_JSON_pointer": "/all7_actual_pins_and_own_selected_complete_passages/0/exact_existing_C_beforeimage",
+      "role": "Original executor locator is witnessed privately; no new unbound public source dependency."
+    },
+    {
+      "private_witness_id": "private-witness:VERITAS-9727AA8A55F35A63FB0D313E",
+      "original_whole_receipt_witness_id": "VERITAS_ORIGINAL_QA_OLD201_BODY_ONLY",
+      "original_JSON_pointer": "/all7_actual_pins_and_own_selected_complete_passages/1/exact_existing_C_beforeimage",
+      "role": "Original executor locator is witnessed privately; no new unbound public source dependency."
+    },
+    {
+      "private_witness_id": "private-witness:VERITAS-BD6DADCFD0B1DAB639899CE7",
+      "original_whole_receipt_witness_id": "VERITAS_ORIGINAL_QA_OLD201_BODY_ONLY",
+      "original_JSON_pointer": "/all7_actual_pins_and_own_selected_complete_passages/2/exact_existing_C_beforeimage",
+      "role": "Original executor locator is witnessed privately; no new unbound public source dependency."
+    },
+    {
+      "private_witness_id": "private-witness:VERITAS-4FE880766DDCA52A50373EF6",
+      "original_whole_receipt_witness_id": "VERITAS_ORIGINAL_QA_OLD201_BODY_ONLY",
+      "original_JSON_pointer": "/all7_actual_pins_and_own_selected_complete_passages/3/exact_existing_C_beforeimage",
+      "role": "Original executor locator is witnessed privately; no new unbound public source dependency."
+    },
+    {
+      "private_witness_id": "private-witness:VERITAS-599653312C838ED2BB294D57",
+      "original_whole_receipt_witness_id": "VERITAS_ORIGINAL_QA_OLD201_BODY_ONLY",
+      "original_JSON_pointer": "/all7_actual_pins_and_own_selected_complete_passages/4/exact_existing_C_beforeimage",
+      "role": "Original executor locator is witnessed privately; no new unbound public source dependency."
+    },
+    {
+      "private_witness_id": "private-witness:VERITAS-96254AD81534B03FD756C837",
+      "original_whole_receipt_witness_id": "VERITAS_ORIGINAL_QA_OLD201_BODY_ONLY",
+      "original_JSON_pointer": "/all7_actual_pins_and_own_selected_complete_passages/5/exact_existing_C_beforeimage",
+      "role": "Original executor locator is witnessed privately; no new unbound public source dependency."
+    },
+    {
+      "private_witness_id": "private-witness:VERITAS-49F7609E5BEE1E40FEBC9805",
+      "original_whole_receipt_witness_id": "VERITAS_ORIGINAL_QA_OLD201_BODY_ONLY",
+      "original_JSON_pointer": "/all7_actual_pins_and_own_selected_complete_passages/6/exact_existing_C_beforeimage",
+      "role": "Original executor locator is witnessed privately; no new unbound public source dependency."
+    },
+    {
+      "private_witness_id": "private-witness:VERITAS-B189AC331BAC6399DA48E685",
+      "original_whole_receipt_witness_id": "VERITAS_ORIGINAL_QA_FULL_CURRENT200_V3",
+      "original_JSON_pointer": "/actual_current_manifest/evidence_path",
+      "role": "Original executor locator is witnessed privately; no new unbound public source dependency."
+    },
+    {
+      "private_witness_id": "private-witness:VERITAS-B1D24B4829ED211E401A3CE5",
+      "original_whole_receipt_witness_id": "VERITAS_ORIGINAL_QA_FULL_CURRENT200_V3",
+      "original_JSON_pointer": "/narrow_current_findings_closed/VP104/original_finding/evidence_path",
+      "role": "Original executor locator is witnessed privately; no new unbound public source dependency."
+    },
+    {
+      "private_witness_id": "private-witness:VERITAS-359BD62BCAE2FAECCB92706D",
+      "original_whole_receipt_witness_id": "VERITAS_ORIGINAL_QA_FULL_CURRENT200_V3",
+      "original_JSON_pointer": "/independent_mechanical_review/evidence_path",
+      "role": "Original executor locator is witnessed privately; no new unbound public source dependency."
+    },
+    {
+      "private_witness_id": "private-witness:VERITAS-BC7288A77F8F074E1292A3C3",
+      "original_whole_receipt_witness_id": "VERITAS_ORIGINAL_QA_FULL_CURRENT200_V3",
+      "original_JSON_pointer": "/independent_two_stage_delta_and_full_raw_recovery/evidence_path",
+      "role": "Original executor locator is witnessed privately; no new unbound public source dependency."
+    }
+  ],
+  "full_original100193_retained_role": "The current revised thirdQA retains the entire original two-stage304 object and appends Minato's distinct boundedVP042 qualification. Original reviewer/grades/checks remain dated at their original scopes.",
+  "all11_original105_carriers_and_qualification_inverses": "Original author V4 private namespace copied byte-identically; opaque proof IDs are custody witnesses, not new unbound public source dependencies.",
+  "author_ROOT_review_grade_roles": {
+    "author": "WHOLE7_MAINTAINED_WRITTEN_ANALYTICAL_CARRIERS",
+    "ROOT": "SELECTED7_MAINTAINED_WRITTEN_CONTEXTS",
+    "independent_QA": "OLD201_SELECTED_BODY_SCOPE_PLUS_CURRENT200_NEW105_COMPONENT_SCOPE_PLUS_BOUNDED_V4_DELTA;ORIGINAL_GRADES_PRESERVED",
+    "fresh_primary_native_raw_AV_whole105_normal_or_source_admission": 0
+  },
+  "ordinary_goods_and_all14_OPEN_models0_fixed_scope": {
+    "required": 355,
+    "named": 29,
+    "parents": 25,
+    "homes": 384,
+    "navigation": 788,
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "next178": "UNREACHED",
+    "merge_approval": "RESERVED"
+  }
+}

@@ -1,0 +1,380 @@
+{
+  "schema": "ART_COMMERCE_CURRENT_PUBLIC_REVIEW_COMPOSITION_AND_CONDITIONAL_TRANSPORT_CONTROL_V1",
+  "created_UTC": "2026-10-14T10:30:17.916236+00:00",
+  "composer": "/root/m008_composition_review",
+  "role_disclosure": "Metadata/raw-schema/locator composer, not Art literary body/new105 author or its distinct literary reviewer. Root alone accepted actual semantic meaning; current postcomposition metadata QA and byte acceptance remain separate.",
+  "exact_public_component_count": 15,
+  "current_first14_components": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_ART_COMMERCE_AND_UNCHOSEN_HEADSHIP_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 49054,
+      "sha256": "450e4a1bcdd629269dc607652c5106ac4abf09d0fa83b97205fd40e8cfee6695",
+      "git_blob_oid_of_actual_bytes": "38436156d3fc53ddd16368016a78260bfde85f9b",
+      "component_role": "BODY"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP000_ACP035_V1.json",
+      "bytes": 391873,
+      "sha256": "7a2444c8e5e6b622cbcdd327e8656e06ec40d93662a6e71ff0ad1ade6b079565",
+      "git_blob_oid_of_actual_bytes": "84cfe728531a27bc6030cc2b66196773c861a119",
+      "component_role": "PURPOSE_000_035"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP036_ACP070_V1.json",
+      "bytes": 527768,
+      "sha256": "a38b4b41905fbc94c93522040a71649e7902e5fa2b707fd04c1d7817aafaaa9f",
+      "git_blob_oid_of_actual_bytes": "cf29bec9bd8c6abbb12c8984331ba05edf4104b3",
+      "component_role": "PURPOSE_036_070"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP071_ACP104_V1.json",
+      "bytes": 688509,
+      "sha256": "dc543adfb7dbaecc2ff411004d6abec6097ab0a30eef07b36df1fd3db1321958",
+      "git_blob_oid_of_actual_bytes": "c025e412be633ccb648ca16e8bc0d50640b9c00b",
+      "component_role": "PURPOSE_071_104"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT1_SOURCE_INPUT_AND_GRADE_RECEIVING_V1.json",
+      "bytes": 43230,
+      "sha256": "dc8b74790aec83c7d787ba83fd41f58f8feaceb11bacebb62f57cd60ec703630",
+      "git_blob_oid_of_actual_bytes": "8979e3e2aaefd58eb21cbd6b0ac1455d4c190dc3",
+      "component_role": "SOURCE1"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_PURPOSE_INDEX_AND_AUTHOR_RECEIVING_V1.json",
+      "bytes": 196517,
+      "sha256": "7cd475f544eefe2a84b410f51bc6402ef36e78721d3b4479ee9bff6b173472d3",
+      "git_blob_oid_of_actual_bytes": "bc07a479da434438f6376d9d4dc1e5ffc4609de7",
+      "component_role": "PURPOSE_INDEX"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT_LITERAL52_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+      "bytes": 496574,
+      "sha256": "f6007156409e1e0b137f51468a17fe5f77136dcd0d05bc81c2ea6aa7f758cef2",
+      "git_blob_oid_of_actual_bytes": "b4237111d34be6a1930eb8aa6783875bd3c61110",
+      "component_role": "LITERAL52_REGISTER"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT_SAVED_OUTPUT_AND_CONDITIONAL_TRANSPORT_RECEIPT_V1.json",
+      "bytes": 10643,
+      "sha256": "a5f8d15a0315ccc8c54f0ee770934fdb8ecb05d538b2a3723201cd43709f4d4d",
+      "git_blob_oid_of_actual_bytes": "f3a01b90350847eed2d5bf5ca03dcf747ef12d98",
+      "component_role": "TRANSPORT"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/INDEPENDENT_ART_COMMERCE_CURRENT224_COMPLETE52_BODY_FIRST_LITERARY_AND_FULL_V1_BODY_INVERSE_POSITIVE_QA_V1.json",
+      "bytes": 97403,
+      "sha256": "60af3afec152b740456aa2179fb3355c3034e9948aca89a637425929b244b997",
+      "git_blob_oid_of_actual_bytes": "a37619ff3faf3ebf4425c3d96a57f607a0d0205f",
+      "component_role": "QA_BODY_ONLY"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/INDEPENDENT_ART_COMMERCE_CURRENT_V4_COMPLETE224_LITERAL52_ALL105_SOURCE1_EXACT8_FULL_MANUAL_POSITIVE_COMPONENT_QA_V1.json",
+      "bytes": 673045,
+      "sha256": "1d11ad6300c853c4e0b8a561766b517f3e7cba612fcb4d41dfb713b94657516d",
+      "git_blob_oid_of_actual_bytes": "eae39b8d9e209f38f00a988691718c5076652ff1",
+      "component_role": "QA_FULL_CURRENT_V4"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/INDEPENDENT_ART_CURRENT_V4_EXACT8_FULL11_RAW3_SOURCE_CARRIERS_LITERAL52_CORE1_CURRENT_GRAPH_MECHANICAL_QA_V1.json",
+      "bytes": 13238,
+      "sha256": "54fe61bc9ccac3c549eed0fbae5c8a948014df5ec2d700e719565eed38ad2006",
+      "git_blob_oid_of_actual_bytes": "2238cbd5e5bbe91a30890af58ecc55b95d61d1df",
+      "component_role": "QA_MECHANICAL"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/INDEPENDENT_ART_CURRENT_V4_ONE_ACP042_REPORT_SCOPE_COUNTER_EXACT8_COMPLETE_RAW_INVERSE_DELTA_QA_V1.json",
+      "bytes": 645539,
+      "sha256": "23d9279e2e226acba18fa5339edad2f6192256bb56db122442561789872df0f9",
+      "git_blob_oid_of_actual_bytes": "6bc28d9243e2a6c25d61782ceb209684b9c2c86d",
+      "component_role": "QA_ACP042_DELTA"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_ACTUAL_ROOT_COMPLETE52_NEW105_WHOLE139_ONE_NAMED_SEMANTIC_ADOPTION_WITH_LIMITS_V1.json",
+      "bytes": 62531,
+      "sha256": "0085e3599450d21241e87f4ea9e2ea5b5ba7a8ac0cf1b3f3eb1df9460de2e885",
+      "git_blob_oid_of_actual_bytes": "b09f7b4ca5dbd4e611c0dfc50f76c6ce21bc000d",
+      "component_role": "ACTUAL_ROOT_SIGNED_SEMANTIC_RECEIPT_EXACT_RAW_NOOP"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT_PUBLIC_SOURCE_QA_ROOT_OPAQUE_WITNESS_CUSTODY_V1.json",
+      "bytes": 20617,
+      "sha256": "5ec810ab7c90c495a1bef1e98079e3b9ab6bd9af55c02047ddd187460a836eba",
+      "git_blob_oid_of_actual_bytes": "04adafa76e97a0dc74d838044f9fc3fdcac5d795",
+      "component_role": "DOCUMENTARY_OPAQUE_CUSTODY"
+    }
+  ],
+  "actual_signed_ROOT_semantic_acceptance": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_ACTUAL_ROOT_COMPLETE52_NEW105_WHOLE139_ONE_NAMED_SEMANTIC_ADOPTION_WITH_LIMITS_V1.json",
+    "bytes": 62531,
+    "sha256": "0085e3599450d21241e87f4ea9e2ea5b5ba7a8ac0cf1b3f3eb1df9460de2e885",
+    "git_blob_oid_of_actual_bytes": "b09f7b4ca5dbd4e611c0dfc50f76c6ce21bc000d",
+    "original_signed_receipt_byte_noop": true,
+    "decision": "ACCEPT_CURRENT_ART_COMMERCE_EXACTV4_COMPLETE224_LITERAL52_NEW105_SOURCE1_EXISTING_ONE_NAMED_ENSEMBLE_WITH_LIMITS_FOR_METADATA_ONLY_PUBLIC_COMPOSITION",
+    "scope": "Original224/52/new105525/whole maintained139/ONEembeddednamed/source-qualified/currentQA and rawpreservation accepted. Root signature authorizes metadata-only public composition, not these newly composed15 bytes."
+  },
+  "current_metadata229_body": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_ART_COMMERCE_AND_UNCHOSEN_HEADSHIP_INSTITUTIONAL_SYNTHESIS.md",
+    "bytes": 49054,
+    "sha256": "450e4a1bcdd629269dc607652c5106ac4abf09d0fa83b97205fd40e8cfee6695",
+    "git_blob_oid_of_actual_bytes": "38436156d3fc53ddd16368016a78260bfde85f9b",
+    "physical_lines": 229,
+    "original224": {
+      "bytes": 48808,
+      "sha256": "a9ab2e1ae988746a19ec62042b551b0f9a794b513851417beda82a014dde2181",
+      "git_blob_oid_of_actual_bytes": "7879f8bbafe00219fe93e4b38844a10c9183f099"
+    },
+    "type": "institutional_synthesis",
+    "status": "active_provisional",
+    "review_state": "ROOT_ACCEPTED_WITH_LIMITS_INDEPENDENT_COMPONENT_REVIEW_COMPLETE",
+    "metadata_delta": "Only original type/status replaced; five missing review/authority/lineage/canonical-home lines inserted after originalL5. No52paragraph/rival/end/gap/source/105meaning changes.",
+    "measured_UTF8_byte_delta": 246,
+    "post_frontmatter_body_line_delta": 5
+  },
+  "operative_reconstruction": {
+    "register_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT_LITERAL52_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+    "bytes": 496574,
+    "sha256": "f6007156409e1e0b137f51468a17fe5f77136dcd0d05bc81c2ea6aa7f758cef2",
+    "git_blob_oid_of_actual_bytes": "b4237111d34be6a1930eb8aa6783875bd3c61110",
+    "current_array_JSON_pointer": "/full_body_reconstruction/current_metadata229_reconstruction_and_original224_history_qualification_V1/complete229_line_layout",
+    "current_rule": "Use complete229 layout and current52 literal paragraph fields; exact229 raw equality executed.",
+    "historical224_pair": "Original complete224_line_layout and its original executed body tuple remain exact dated author reconstruction. They are governed by the explicit new operative229 member; no original224 byte claim is rebound."
+  },
+  "current_live_metadata_reference_changes": {
+    "original_live_body_tuple_objects_updated": 60,
+    "new_current_reconstruction_tuple_objects_added": 1,
+    "body_argument_endpoint_gap_physical_lines_shifted": 82,
+    "body_UTF8_offset_fields_shifted": 52,
+    "literal_hashes_and_lengths_changed": 0,
+    "transport_argument_extent_physical_lines": 229,
+    "source139_physical_line_refs_shifted": 0
+  },
+  "dated_original_QA_source_and_readback_roles": {
+    "body_only_QA98076": "Original whole224/52 body-only/selective-source scope and tuple retained literally, with only approved3 locator values opaque. It did not receive newly composed229 metadata. Exact arguments are unchanged and current semantic authority is Root62531; composition metadataQA remains pending.",
+    "full_QA674563": "Complete priorV4/source/105/literal52 argument QA at its actual grade; only approved11 delivery values opaque, old224/8component tuples unchanged. Original19877/2825 mechanics remain distinct witnesses, not replayed or relabelled as new composition checks.",
+    "mechanical13238_and_delta645539": "Entire raw files are byte-identical noops. Canonical references/check labels and all operation counts remain literal dated review evidence.",
+    "source1_original_readback": "Original L1–84/L85–164/L165–224 and ACP042 body224/52 capture strings remain literal history, not current229 byte-reconstruction claims. Source physical139 values, source_refs/source_lines/question references and producer/frozen105 locators are unchanged.",
+    "original_pending_clauses": "Every original author/QA/Root preparation/pending clause across components remains literal at creation scope, qualified by actual signed semantic Root authority and this current documentary layer. No blanket historical review regrade."
+  },
+  "exact_actual_ROOT_operative_meaning_qualifications": [
+    "CurrentACP042 means wanted fishing/ruined rod remain substantive; achieved fishing is not established in the received report. No global absence/disproof and no freshE814primary/normal reading. OriginalO042andallother524fields preserved.",
+    "CurrentACP104 preserves Sora's need for wages as intrinsic motive; it is not achieved payroll evidence or a global nonpayment claim.",
+    "Miyo refuses Teacher reading her wanted romance novels. Ritsu's sculpture/materials/favorite-author affection/cake are distinct; no novelist or writing/typewriter-refusal attribution is inserted.",
+    "Hiromi's mistaken noninvolvement belief and Miyo's inward apology do not supply spoken reassurance, discovery, restored friendship or Hiromi's café presence.",
+    "Retained initial scope phrase 'Ritsu founder enthusiasm' is historical preparer scope language, not evidence Ritsu founded the club. CurrentACQ12/body explicitly leaves founding and first meeting unreceived; no founder status is adopted and frozen initial text remains literal.",
+    "Current61767 qualifier governs only O025/O071/O073/O075/O079/O087.59334 governs oldGSC16 coffee-direction aliases, not newwholeGSCcredit. O069 versusO087 actor/event boundaries remain source-local.",
+    "Quiet reading, art/craft, cake, tastes, food, affection, company, rest and refusals have intrinsic analytical weight; no stakes, school, name-frequency or model eligibility exclusion.",
+    "Common105 original26whole79selected contributors/priorROOTsource/report dispositions remain attributed. Newtarget-specific105 comparisons do not imply another105normal/primary/native/raw/AV pass, this event's attendance or direct proof of every clause."
+  ],
+  "current_qualified_source1": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT1_SOURCE_INPUT_AND_GRADE_RECEIVING_V1.json",
+    "bytes": 43230,
+    "sha256": "dc8b74790aec83c7d787ba83fd41f58f8feaceb11bacebb62f57cd60ec703630",
+    "git_blob_oid_of_actual_bytes": "8979e3e2aaefd58eb21cbd6b0ac1455d4c190dc3",
+    "all_original_SOURCE1_fields_except_current_body_pin_unchanged": true,
+    "current_ACP042_report_scope_qualification": "Full original operative qualifier unchanged. Desired fishing is not upgraded to a demonstrated endpoint or global absence; original counter/source carrier payloads remain literal."
+  },
+  "existing_institution_and_ONE_named_scope": {
+    "required_home": "P3-INST-ART-COMMERCE-UNCHOSEN-HEADSHIP",
+    "ONE_existing_named_duty": "P3-ENSEMBLE-MIYO-FUYU-RITSU-HIROMI",
+    "named_rule": "12substantial paragraph dimensions discharge ONE existing29named duty; no newENS_REL required package or extra named denominator. Canonical/source credit remains pending actual installation/publication.",
+    "named_dimensions": 12,
+    "separate_ensemble_required_package_added": 0
+  },
+  "QA14_actual_authority": {
+    "opaque_private_witness_id": "ROOT_ART_COMMERCE_FOUR_QA_EXACT14_NAMED_DELIVERY_VALUE_ONLY_SCALAR_APPROVAL_20261014_V1.json",
+    "bytes": 14826,
+    "sha256": "57432f4d19ecc1d6a01a45010de5e38350dafebc19e633e9f53e8f7c03931041",
+    "git_blob_oid_of_actual_bytes": "d157af2adca6b35caccd987c301215eea56cba40",
+    "value_changes": 14,
+    "body_QA_absolute_values": 3,
+    "full_QA_relative_values": 10,
+    "full_QA_absolute_values": 1,
+    "mechanical_delta_value_changes": 0,
+    "key_renames": 0,
+    "all_original_decisions_grades_payloads_pins_and_literal_canonical_keys": "Preserved except exactly approved locator scalar values; complete raw inverses retained privately."
+  },
+  "source_grade_roles": {
+    "author": "Whole maintained139 analytical argument and genuinely new105target-specific written report comparisons; original contributors26whole79selected remain attributed.",
+    "ROOT": "Actual whole224/literal52 and whole maintained139 written analytical argument plus105fivefields/52joins/sourcequestions/currentQA/currentcontrols accepted at signed62531 scope; no primary/native/AV promotion.",
+    "distinct_reviewer": "Original body-only selected33–35/67–139 and adequate prior report/current105/source-purpose meanings at declared reviewer scopes; current compositionQA separately pending."
+  },
+  "original_ROOT_runtime_snapshot_preserved": {
+    "head": "c5ce4c5d6dbeaf717d97488ce1c052bd450b8701",
+    "required": 146,
+    "named": 16,
+    "models": 0,
+    "all14gaps": "OPEN",
+    "snapshot_only": "Publishing runtime chain pending; no futureArt count or certificate."
+  },
+  "current_ROOT_reported_predecessor_runtime": {
+    "source_prefix": "c5",
+    "actual_required_named": [
+      146,
+      16
+    ],
+    "main_origin_prefix": "67",
+    "main_required_named": [
+      133,
+      13
+    ],
+    "SOURCE_run": 38542525482,
+    "HOUSEKEEPING_run": 38544509937,
+    "FINAL_run": 38544548944,
+    "status_id": 56311832231,
+    "app_id": 15368,
+    "301_units_complete_equal_IDs_selection_false_five_zero": true,
+    "role": "Root separately reported complete published Publishing predecessor chain23c2f5. The original62531 snapshot-pending string is dated preparation. No new Art head inherits this certificate; Art gates remain pending."
+  },
+  "conditional_after_actual_Art_installation_publication": {
+    "required": 147,
+    "named": 17,
+    "required_types_delta": "ExistingINSTITUTION+1only; named ONEembedded existingduty+1; no separateENSrequired credit"
+  },
+  "canonical_credit_here": 0,
+  "current_distinct_postcomposition_metadata_QA": "PENDING_DIFFERENT_AUTHOR_SAVED15_REVIEW",
+  "ROOT_current15_composed_byte_acceptance": "PENDING_ACTUAL_PERSONAL_RECEIVING_AND_SIGNATURE",
+  "shared7_metadata_final_freeze_guarded_install_preflight_provider_commit_push_readback_new_exact_head_CI": "PENDING_ROOT_ONLY_SEPARATE_GATES",
+  "fixed": {
+    "required": 355,
+    "named": 29,
+    "parents": 25,
+    "homes": 384,
+    "navigation": 788
+  },
+  "all14_original_gaps": "OPEN",
+  "models": 0,
+  "merge": "RESERVED_NEXT178_UNREACHED",
+  "new_primary_source_admission_identity_model_or_runtime_credit": 0,
+  "R_Git_provider_sharedmetadata_operations": 0,
+  "current_20261014_actual_public15_QA_shared7_QA_and_ROOT_precursor_byte_adoption_documentary_qualification_V2": {
+    "schema": "ART_CURRENT_PUBLIC15_FINAL_V2_ONE_CONTROL_ACTUAL_QA_SHARED7_ROOT_PRECURSOR_DOCUMENTARY_QUALIFICATION_V1",
+    "created_UTC": "2026-10-14T10:57:13.798210+00:00",
+    "composer": "/root/m008_composition_review",
+    "scope": "One additive documentary member in the same current15 CONTROL. All fourteen other public files and every original CONTROL member remain literal. This composition adds no literary/source receiving, source admission, model, canonical count or runtime credit.",
+    "dated_V1_creation_roles": {
+      "all_original_control_members": "Every original member/value/order, including current_distinct_postcomposition_metadata_QA, ROOT_current15_composed_byte_acceptance and shared7_metadata_final_freeze_guarded_install_preflight_provider_commit_push_readback_new_exact_head_CI, is retained as the original V1 creation scope. The completed precursor reviews and acceptance below qualify those historical pending statements; they are not operative unresolved source errors.",
+      "all_original_component_pending_and_QA_roles": "Original preparation/pending clauses and all original body-only224, full currentV4, source139/readback, author, independent QA and signed62531 tuples remain dated at their exact received scopes. No historical scope, decision, grade or payload is overwritten.",
+      "original_CONTROL_basis": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT_PUBLIC_REVIEW_COMPOSITION_AND_CONDITIONAL_TRANSPORT_CONTROL_V1.json",
+        "bytes": 17902,
+        "sha256": "6543155ba282ff6ea8b756da9176e20eef0240b00b56c83345c9ee1eef195a6c",
+        "git_blob_oid_of_actual_bytes": "26dfa2c88beae88664a21ab17808c4a5b5919e70",
+        "role": "Exact original17902 V1 CONTROL, accepted only as part of the precursor15; not the new final V2 CONTROL bytes."
+      }
+    },
+    "actual_completed_distinct_public15_metadata_QA": {
+      "opaque_private_witness_id": "ART_CURRENT229_PUBLIC15_DISTINCT_COMPLETE_METADATA_MANUAL_QA_20368_20261014_V1",
+      "bytes": 20368,
+      "sha256": "b338cbec17a7ae9efcc27536725766fd5b335f818fe84154727ddf4ece7f9aa6",
+      "git_blob_oid_of_actual_bytes": "91feca844a43566a106c54f6821b2ed21c3b9e9f",
+      "reviewer": "/root/minato_105_derivative",
+      "decision": "PASS_WITH_LIMITS_CURRENT_ART229_EXACT15_METADATA_ONLY_COMPOSITION_ALL13_RAW_RECOVERIES_TYPED_CURRENT_GRAPH_AND_QUALIFIED_SEMANTIC_AUTHORITY_FOR_ROOT_BYTE_RECEIVING",
+      "current_findings": [],
+      "exact_original15_manifest": {
+        "opaque_private_witness_id": "ART_CURRENT229_ORIGINAL_PUBLIC15_MANIFEST_36046_20261014_V1",
+        "bytes": 36046,
+        "sha256": "c79b51c89fa99405ee11654df1321e655cea953235afd358aaedbf56ed4d1fac",
+        "git_blob_oid_of_actual_bytes": "7e0108854c55841124522917b66520e1b82664f6"
+      },
+      "scope": "Different-author current229 metadata/preservation composition review of the original fifteen V1 bytes. It reuses adequate earlier literary/source/new105 scopes with disclosed original Art authorship; it has not reviewed this new additive CONTROL member.",
+      "actual_saved_mechanical_receipts": [
+        {
+          "opaque_private_witness_id": "ART_CURRENT229_PUBLIC15_METADATA_MECHANICS_2900_20261014_V1",
+          "bytes": 46301,
+          "sha256": "dca055847ffc92a1e84884db7838b67e83a577811d1e4873d1eb744cbd54a5ce",
+          "git_blob_oid_of_actual_bytes": "eb966018ce3669a9db0d7c512a1493e70f1b878f",
+          "check_count": 2900,
+          "current_findings": []
+        },
+        {
+          "opaque_private_witness_id": "ART_CURRENT229_PUBLIC15_METADATA_SUPPLEMENT_7_20261014_V1",
+          "bytes": 1339,
+          "sha256": "667ac0de197cadc7911430f49051c486a0a47c3939c6c9a68c5fd260a4305c10",
+          "git_blob_oid_of_actual_bytes": "3a209d489c4e8b4a92091b92ff6cced00001faeb",
+          "check_count": 7,
+          "current_findings": []
+        }
+      ],
+      "saved_predicate_count": 2907,
+      "saved_failure_count": 0
+    },
+    "actual_completed_distinct_shared7_documentary_QA": {
+      "opaque_private_witness_id": "ART147_CURRENT_C5_SHARED7_DISTINCT_DOCUMENTARY_MANUAL_QA_24214_20261014_V1",
+      "bytes": 24214,
+      "sha256": "d47e9d6a4adc53c75d8119a3d426a1d783da748664047d430c53154c06892423",
+      "git_blob_oid_of_actual_bytes": "5b25ae3c1829586cfb3c7a579ef4c20f2a8bcf3b",
+      "reviewer": "/root/publishing_shared7_review",
+      "decision": "ACCEPT_CURRENT_C_ONLY_ART147_EXACT7_SHARED_METADATA_WITH_LIMITS",
+      "actual_saved_predicate_count": 663,
+      "actual_failure_count": 0,
+      "mechanical_QA": {
+        "opaque_private_witness_id": "ART147_CURRENT_C5_SHARED7_EXECUTED_MECHANICAL_QA_88676_20261014_V1",
+        "bytes": 88676,
+        "sha256": "370173e842d36245e1fdeaadb5bacd66e7829396efbd45348798983170490bf3",
+        "git_blob_oid_of_actual_bytes": "ff6745910351deb8be8dde05e4b23618815cf24a"
+      },
+      "scope": "Different-author exact7 C-only target documentary and full-raw preservation review at its declared sourcec5/main67 preparation basis. No shared7 candidate is modified or installed by this CONTROL append."
+    },
+    "actual_accepted_shared7_basis": {
+      "manifest": {
+        "opaque_private_witness_id": "ROOT_ART147_CURRENT_C5_SHARED7_MANIFEST_11057_20261014_V1",
+        "bytes": 11057,
+        "sha256": "fcb6c951c6ccb6edfc087fcd6790c1a9d9ba3ff03ee57bec0b24d9154dec4e7a",
+        "git_blob_oid_of_actual_bytes": "a86c84334212272a5e91c73a27332a4569626092"
+      },
+      "complete_full_raw_inverse_forward_proof": {
+        "opaque_private_witness_id": "ROOT_ART147_SHARED7_FULL_RAW_INVERSE_FORWARD_PROOF_71403_20261014_V1",
+        "bytes": 71403,
+        "sha256": "53038abb1634f7a01e2a68619eead921f02aab049967168a73513b08c4a8c537",
+        "git_blob_oid_of_actual_bytes": "a580addf5f44a5aa65c1f4fdf7bcbd089d2a2ade"
+      },
+      "role": "The exact seven metadata bytes accepted by the signed ROOT precursor. This private evidence is bound through opaque IDs and exact pins; it is not an additional public file or a current installed runtime certificate."
+    },
+    "actual_ROOT_original_public15_and_shared7_precursor_byte_adoption": {
+      "opaque_private_witness_id": "ROOT_ART147_ORIGINAL_PUBLIC15_SHARED7_SIGNED_PRECURSOR_ADOPTION_7865_20261014_V1",
+      "bytes": 7865,
+      "sha256": "0313481fd76a0571ba898ee4522c53781da70f5ff9f70da574c8ef032e0d6b15",
+      "git_blob_oid_of_actual_bytes": "24a38546c31abc81b7e62a2992a3a8603b2498dd",
+      "ROOT": "ROOT",
+      "signature": "SIGNED_AFTER_ACTUAL_CURRENT15_DOCUMENTARY_CONTROL_CUSTODY_DISTINCT_METADATA_QA_AND_SHARED7_RECEIVING",
+      "decision": "ACCEPT_CURRENT_ART229_ORIGINAL_PUBLIC15_AND_ROOT_SHARED7_EXACT_BYTES_WITH_LIMITS_FOR_SINGLE_CONTROL_QUALIFICATION_AND_FINAL_ROOT_FREEZE",
+      "state": "ACTUAL_ORIGINAL_PUBLIC15_AND_EXACT_SHARED7_BYTE_ADOPTION_WITH_LIMITS_COMPLETE",
+      "accepted_scope": "Original fifteen V1 public components including exact17902 CONTROL plus the separately bound exact shared7 metadata. The actual signature is a precursor acceptance that authorizes this single CONTROL qualification.",
+      "excluded_scope": "It does not accept the new final V2 CONTROL bytes, final CONTROL delta QA, ROOT final22 freeze, installation, canonical count, remote publication, main integration or future exact-head runtime."
+    },
+    "current_final_V2_and_remaining_actual_gates": {
+      "final_CONTROL_distinct_bounded_delta_QA": "PENDING_SEPARATE_DIFFERENT_AUTHOR_REVIEW_OF_THIS_NEW_CONTROL",
+      "ROOT_final_current15_shared7_22_byte_acceptance_and_freeze": "PENDING_ACTUAL_FINAL_QUALIFIER_RECEIVING_AND_SIGNATURE",
+      "installer_two_concrete_guard_findings": "PENDING_ROOT_REPAIR_AND_DISTINCT_REVIEW; no installation gate is closed here",
+      "guarded_installation_author_preflight_fresh_live_controls_commit_push_full_readback_new_exact_head_CI": "PENDING_ROOT_ONLY_SEPARATE_ACTUAL_GATES",
+      "predecessor_runtime": "The original currentCONTROL predecessor c5 Publishing chain and its later ROOT-reported closure remain exact dated predecessor evidence. No future Art head inherits that green.",
+      "actual_source_required_named": [
+        146,
+        16
+      ],
+      "main_required_named": [
+        133,
+        13
+      ],
+      "conditional_only_after_actual_Art_guarded_installation_publication": [
+        147,
+        17
+      ],
+      "new_canonical_publication_or_runtime_credit": 0,
+      "fixed": {
+        "required": 355,
+        "named": 29,
+        "parents": 25,
+        "homes": 384,
+        "navigation": 788
+      },
+      "all14_original_gaps": "OPEN",
+      "models": 0,
+      "next178": "UNREACHED",
+      "merge_approval": "RESERVED"
+    },
+    "unchanged_meaning_and_source_grades": "All52 substantial paragraphs, all105/all525 target fields and frozen105 envelopes, source139/scopes/qualifiers, original QA14-opacity decisions and public ROOT62531 raw bytes remain unchanged. This is documentary composition, not independent literary QA or new source consumption.",
+    "R_Git_provider_sharedmetadata_mutations": 0
+  }
+}

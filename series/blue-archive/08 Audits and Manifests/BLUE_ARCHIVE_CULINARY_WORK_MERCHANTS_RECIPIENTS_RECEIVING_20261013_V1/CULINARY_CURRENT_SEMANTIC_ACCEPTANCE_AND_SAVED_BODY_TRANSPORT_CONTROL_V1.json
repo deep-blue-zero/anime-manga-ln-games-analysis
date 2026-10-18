@@ -1,0 +1,294 @@
+{
+  "schema": "CULINARY_CURRENT_ROOT_ADOPTED_METADATA_ONLY_EXACT14_PUBLIC_COMPOSITION_CONTROL_V1",
+  "composer": "/root/m008_composition_review",
+  "UTC": "2026-10-14T04:59:33.431324+00:00",
+  "existing_home": "P3-INST-CULINARY-WORK-MERCHANTS-RECIPIENTS",
+  "source_responsibility": "CURRENT_OWNER_ADDITION::P3-INST-CULINARY-WORK-MERCHANTS-RECIPIENTS",
+  "new_named_duty": null,
+  "actual_ROOT_adoption": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CULINARY_WORK_MERCHANTS_RECIPIENTS_RECEIVING_20261013_V1/CULINARY_ACTUAL_ROOT_COMPLETE40_NEW105_SOURCE7_ADOPTION_WITH_LIMITS_V1.json",
+    "bytes": 393173,
+    "sha256": "773173f9948f69f775424c73860e6a551033a2fe81da9290d381db3f5d0540d3",
+    "git_blob_oid_of_actual_bytes": "affdd02647013f525b24979be4b688a98ef16e04"
+  },
+  "original_ROOT390663": {
+    "bytes": 390663,
+    "sha256": "e8a417f68bf05ce7e27fe776e850f73cf4e64dbe60f6416f970f4475cd03ba19",
+    "git_blob_oid_of_actual_bytes": "b800a782dbf8e59e743233116679319cf2ffc23e",
+    "evidence_id": "private-witness:CULINARY-ROOT-ORIGINAL-MANUAL-ADOPTION",
+    "exact_decision": "ACCEPT_COMPLETE_CURRENT40_ARGUMENT_NEW105_PURPOSES_CORE7_AND_ADEQUATE_DISTINCT_QA_WITH_LIMITS_FOR_PUBLIC_COMPOSITION;CANONICAL_INSTALLATION_AND_RUNTIME_SEPARATE"
+  },
+  "current_semantic_decision": "ROOT_ADOPTED_WITH_LIMITS;DISTINCT_COMPOSITION_REVIEW_PENDING;NOT_INSTALLED_NOT_PUBLISHED",
+  "current_body": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_CULINARY_WORK_MERCHANTS_AND_RECIPIENTS_INSTITUTIONAL_SYNTHESIS.md",
+    "bytes": 35034,
+    "sha256": "4d6819ba741010adf10bd4a9829a74edd6413af969ca8a704649f98d9302fe1c",
+    "git_blob_oid_of_actual_bytes": "8f1c48e101fa3f3676ba513465767b98a9b8299c"
+  },
+  "current_physical_lines": 191,
+  "original_personally_received_190_role": "ROOT/Minato/author190 body meanings and all40 literals remain adequate; current191 has only metadata promotion plus exact typed/offset reconstruction changes.",
+  "current13_before_this_control": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_CULINARY_WORK_MERCHANTS_AND_RECIPIENTS_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 35034,
+      "sha256": "4d6819ba741010adf10bd4a9829a74edd6413af969ca8a704649f98d9302fe1c",
+      "git_blob_oid_of_actual_bytes": "8f1c48e101fa3f3676ba513465767b98a9b8299c"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CULINARY_WORK_MERCHANTS_RECIPIENTS_RECEIVING_20261013_V1/CULINARY_CURRENT105_NEW_TARGET_PURPOSES_CWCP000_CWCP035_V1.json",
+      "bytes": 260304,
+      "sha256": "9ff67829c589dd94cdfef42a337e6c2eb871a1c45f93f91925ec3ad8b5b50359",
+      "git_blob_oid_of_actual_bytes": "01ac7190afe6c9e7c651c3f4a9498082cf9e35fa"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CULINARY_WORK_MERCHANTS_RECIPIENTS_RECEIVING_20261013_V1/CULINARY_CURRENT105_NEW_TARGET_PURPOSES_CWCP036_CWCP070_V1.json",
+      "bytes": 519087,
+      "sha256": "61947a6d5df43403506237386cff83052765cecad7d5f236aa9d1e3cb4de282a",
+      "git_blob_oid_of_actual_bytes": "f5e2e83a53855e5fcb769159228742a053f4205d"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CULINARY_WORK_MERCHANTS_RECIPIENTS_RECEIVING_20261013_V1/CULINARY_CURRENT105_NEW_TARGET_PURPOSES_CWCP071_CWCP104_V1.json",
+      "bytes": 561193,
+      "sha256": "4488ce73491989254436b484abc4b2acb6e51e1be4a04c36107b8c49aa687565",
+      "git_blob_oid_of_actual_bytes": "19a8785d2e0894bd52bd2608c826e30f2f519db4"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CULINARY_WORK_MERCHANTS_RECIPIENTS_RECEIVING_20261013_V1/CULINARY_INPUT_SOURCE_GRADE_AND_CURRENT_QUALIFIER_RECEIVING_V1.json",
+      "bytes": 18677,
+      "sha256": "100b297ea03a16d4a4effd7acf38b9146fdf3fe8b9027ba09f3d66ae8e493c48",
+      "git_blob_oid_of_actual_bytes": "07dc8e9b47d25bb1b435355eadd3726309408ba8"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CULINARY_WORK_MERCHANTS_RECIPIENTS_RECEIVING_20261013_V1/CULINARY_CURRENT105_TARGET_PURPOSE_INDEX_V1.json",
+      "bytes": 132749,
+      "sha256": "6cbd3a72fae15e773c0936d382fbe190711eabc7bdec3330603c1d8aa1a7fe9f",
+      "git_blob_oid_of_actual_bytes": "01ae1e6a18f2206eb9255d4bd8a440d5c44f8051"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CULINARY_WORK_MERCHANTS_RECIPIENTS_RECEIVING_20261013_V1/CULINARY_LITERAL40_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+      "bytes": 392286,
+      "sha256": "5bfdf728b9840297a2be80297d5ecdc70638b761a028b12be8af29b9504d825e",
+      "git_blob_oid_of_actual_bytes": "f2353f46cab35a6ea72f25c071fa700447f9aa6d"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CULINARY_WORK_MERCHANTS_RECIPIENTS_RECEIVING_20261013_V1/CULINARY_SAVED_BODY_AND_EXACT8_TRANSPORT_RECEIPT_V1.json",
+      "bytes": 7432,
+      "sha256": "efb7f6062ff81bcd7dd783e4d5f017a341c6c7324010ef9c6086a7918dc2c78f",
+      "git_blob_oid_of_actual_bytes": "fe1e97e3300dc840c2a0586de67c0261e4ef15e6"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CULINARY_WORK_MERCHANTS_RECIPIENTS_RECEIVING_20261013_V1/CULINARY_INDEPENDENT_COMPLETE40_NEW105_SOURCE7_LITERARY_COMPONENT_REVIEW_V1.json",
+      "bytes": 449328,
+      "sha256": "b18ae34a2e93191224b7a10ae8f7b9a8e147987bbd103c5ccf8e588bf6252a2d",
+      "git_blob_oid_of_actual_bytes": "a757a5f5f6331b340745804885ac1a485408df1c"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CULINARY_WORK_MERCHANTS_RECIPIENTS_RECEIVING_20261013_V1/CULINARY_INDEPENDENT_CURRENT_CP094_READING_ACCESS_EXACT8_DELTA_REVIEW_V1.json",
+      "bytes": 685294,
+      "sha256": "92b15336a039738d7d211c2c1f4214ede4a1b99f19b6743e6151083d6894978d",
+      "git_blob_oid_of_actual_bytes": "033b4d1f15eba279d31433ae11fcea3cd69e17a0"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CULINARY_WORK_MERCHANTS_RECIPIENTS_RECEIVING_20261013_V1/CULINARY_INDEPENDENT_CURRENT_CP104_WAGE_MOTIVE_EXACT8_DELTA_REVIEW_V1.json",
+      "bytes": 622667,
+      "sha256": "8892d152e1f4a83a0e2e44176f89a449aaf60443e2514dad2c51f61f47dd1d4f",
+      "git_blob_oid_of_actual_bytes": "c3edbd3d89f03b16795e63c094af569541784a04"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CULINARY_WORK_MERCHANTS_RECIPIENTS_RECEIVING_20261013_V1/CULINARY_ACTUAL_ROOT_COMPLETE40_NEW105_SOURCE7_ADOPTION_WITH_LIMITS_V1.json",
+      "bytes": 393173,
+      "sha256": "773173f9948f69f775424c73860e6a551033a2fe81da9290d381db3f5d0540d3",
+      "git_blob_oid_of_actual_bytes": "affdd02647013f525b24979be4b688a98ef16e04"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CULINARY_WORK_MERCHANTS_RECIPIENTS_RECEIVING_20261013_V1/CULINARY_ORIGINAL_AUTHOR_AND_REVIEW_CUSTODY_WITH_CURRENT_RECEIVING_ROLES_V1.json",
+      "bytes": 47896,
+      "sha256": "1cfa9d9a9df3b4a8d515e72b9a87b0b0ecfe7ca04245790ffecac411d01ec5d8",
+      "git_blob_oid_of_actual_bytes": "7fa74cd74c3ae07d62c9ff3af15926978e52ec1a"
+    }
+  ],
+  "current_public_count_with_this_control": 14,
+  "public_opaque_custody": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CULINARY_WORK_MERCHANTS_RECIPIENTS_RECEIVING_20261013_V1/CULINARY_ORIGINAL_AUTHOR_AND_REVIEW_CUSTODY_WITH_CURRENT_RECEIVING_ROLES_V1.json",
+    "bytes": 47896,
+    "sha256": "1cfa9d9a9df3b4a8d515e72b9a87b0b0ecfe7ca04245790ffecac411d01ec5d8",
+    "git_blob_oid_of_actual_bytes": "7fa74cd74c3ae07d62c9ff3af15926978e52ec1a"
+  },
+  "original_author_pending_and_source_stage_roles": "Preserve every original required-home/purpose/index/source/register/transport pending and140/58a/bf7 creation statement as dated history. Actual signedROOT semantic acceptance qualifies argument/source-purpose acceptance only; install/publication/new runtime/MAIN gates remain separately pending.",
+  "current_operative_source_precision_routes": [
+    {
+      "purpose": "CP094",
+      "part_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CULINARY_WORK_MERCHANTS_RECIPIENTS_RECEIVING_20261013_V1/CULINARY_CURRENT105_NEW_TARGET_PURPOSES_CWCP071_CWCP104_V1.json",
+      "JSON_pointer": "/records/23/own_new_target_specific_positive_meaning",
+      "scope": "Miyo wanted novels/refused Teacher reading; Ritsu sculpture/materials. Frozen O094 literal."
+    },
+    {
+      "purpose": "CP104",
+      "part_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CULINARY_WORK_MERCHANTS_RECIPIENTS_RECEIVING_20261013_V1/CULINARY_CURRENT105_NEW_TARGET_PURPOSES_CWCP071_CWCP104_V1.json",
+      "JSON_pointer": "/records/33/own_new_target_specific_positive_meaning",
+      "current_source_receiving": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CULINARY_WORK_MERCHANTS_RECIPIENTS_RECEIVING_20261013_V1/CULINARY_INPUT_SOURCE_GRADE_AND_CURRENT_QUALIFIER_RECEIVING_V1.json",
+        "bytes": 18677,
+        "sha256": "100b297ea03a16d4a4effd7acf38b9146fdf3fe8b9027ba09f3d66ae8e493c48",
+        "git_blob_oid_of_actual_bytes": "07dc8e9b47d25bb1b435355eadd3726309408ba8"
+      },
+      "source_use_pointer": "/current_CP104_wage_motive_ambiguity_precision_source_use_qualification_V1",
+      "scope": "Sora wage motive and actual finite gloves/other goods distinguished; no achieved payroll/global nonpayment."
+    }
+  ],
+  "complete_QA_roles": {
+    "current_public_derivatives": [
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CULINARY_WORK_MERCHANTS_RECIPIENTS_RECEIVING_20261013_V1/CULINARY_INDEPENDENT_COMPLETE40_NEW105_SOURCE7_LITERARY_COMPONENT_REVIEW_V1.json",
+        "bytes": 449328,
+        "sha256": "b18ae34a2e93191224b7a10ae8f7b9a8e147987bbd103c5ccf8e588bf6252a2d",
+        "git_blob_oid_of_actual_bytes": "a757a5f5f6331b340745804885ac1a485408df1c"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CULINARY_WORK_MERCHANTS_RECIPIENTS_RECEIVING_20261013_V1/CULINARY_INDEPENDENT_CURRENT_CP094_READING_ACCESS_EXACT8_DELTA_REVIEW_V1.json",
+        "bytes": 685294,
+        "sha256": "92b15336a039738d7d211c2c1f4214ede4a1b99f19b6743e6151083d6894978d",
+        "git_blob_oid_of_actual_bytes": "033b4d1f15eba279d31433ae11fcea3cd69e17a0"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CULINARY_WORK_MERCHANTS_RECIPIENTS_RECEIVING_20261013_V1/CULINARY_INDEPENDENT_CURRENT_CP104_WAGE_MOTIVE_EXACT8_DELTA_REVIEW_V1.json",
+        "bytes": 622667,
+        "sha256": "8892d152e1f4a83a0e2e44176f89a449aaf60443e2514dad2c51f61f47dd1d4f",
+        "git_blob_oid_of_actual_bytes": "c3edbd3d89f03b16795e63c094af569541784a04"
+      }
+    ],
+    "original_fullreview_CP094_finding": "Retained historically; CP094 positive successor governs current supported scalar.",
+    "CP104": "Current one-scalar ambiguity clarification preserves CP094/body/other524/source grades.",
+    "grade": "No fresh whole40/105/core7/primary/native/AV review from composition. Minato existing full/successor QA and ROOT source grade remain precise."
+  },
+  "current_body_metadata_rule": "Three approved groups; active_provisional retained, institutional_synthesis type, explicit ROOT_ACCEPTED review_state, do_not_use false. No literary paragraph,105 five-field,source7 argument,model/gap/rival/end change.",
+  "current_graph_rule": "Body/source/index/register/transport current typed tuples and48 claim/rival byte/physical offsets plus45 dimension/end/gap line references current. Historical original ROOT/QA tuples remain literal, explicitly dated original witnesses rather than current derivatives.",
+  "operative_qualification_scope": {
+    "common61767": "O025/071/073/075/079/087 only, original envelopes preserved.",
+    "coffee59334": "Old publishedGSC9 body72/148+14 aliases only; not all105/attendance/adoption transfer."
+  },
+  "publication_recovery": "Every transformed full original byte inverse and forward executed; private original bytes/path/value maps bound, no executor address public.",
+  "operational_snapshot": {
+    "source": "f37b39b0bd1fb2518ffbfb5e3fb5bbc5baabc329",
+    "tree": "5f9e0d618c43ce56d003280c27ecd6f093b36c7b",
+    "main": "67b2a064714c099204636764a24aabc9ca58f2e6",
+    "published_packages": 143,
+    "published_named": 16,
+    "main_packages": 133,
+    "main_named": 13,
+    "role": "ROOT saved current receiving/publication basis; no provider query or newhead green from this composition."
+  },
+  "conditional_after_complete_ROOT_install_only": {
+    "packages": 144,
+    "named": 16,
+    "institution": 17,
+    "legacy_rows": 167
+  },
+  "fixed_scope": {
+    "required": 355,
+    "named": 29,
+    "parents": 25,
+    "homes": 384,
+    "navigation": 788,
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "next178": "UNREACHED",
+    "PR158": "OPEN_DRAFT_HOLD",
+    "merge": "RESERVED"
+  },
+  "remaining_gates": "Different-author actual composition/recovery/hygiene QA; ROOT whole current composition/control receiving and freeze; soleROOT installation, index author preflight, current-main/provider checks,push/readback,new SOURCE/HK/FINAL,MAIN integration remain separate.",
+  "R_Git_provider_sharedmetadata_protected_UNBOUND_or_source_admission_operations": 0,
+  "current_20261014_completed_Minato_composition_QA_and_original_ROOT_semantic_adoption_documentary_qualification_V2": {
+    "schema": "CULINARY_CURRENT14_COMPLETED_DISTINCT_COMPOSITION_QA_AND_ORIGINAL_SEMANTIC_ADOPTION_DOCUMENTARY_QUALIFICATION_V2",
+    "prepared_actual_UTC": "2026-10-14T05:17:49.599055+00:00",
+    "composer": "/root/m008_composition_review",
+    "composer_role": "Author35 purposes and public14 composition; this is a documentary metadata append, not independent literary/source/component QA or self-adoption.",
+    "actual_Minato_current14_manual_QA": {
+      "evidence_id": "private-witness:CULINARY-CURRENT14-MINATO-COMPLETE-COMPOSITION-MANUAL-QA",
+      "bytes": 15366,
+      "sha256": "db165cb9f2b325a2bf2f8c7004d35f917be841ba7c89df3862a262a6c8f30376",
+      "git_blob_oid_of_actual_bytes": "3b1c2e124177b43678a370fd84c1b71e2cba0df1",
+      "exact_decision": "PASS_WITH_LIMITS_CURRENT_CULINARY_PUBLIC14_METADATA_OPACITY_GRAPH_AND_FULL_PRESERVATION_FOR_SEPARATE_ROOT_COMPOSED_BYTE_RECEIVING_AND_INSTALLATION",
+      "current_finding_count": 0,
+      "current_findings": []
+    },
+    "actual_Minato_current14_mechanical_QA": {
+      "evidence_id": "private-witness:CULINARY-CURRENT14-MINATO-COMPLETE-COMPOSITION-MECHANICAL-QA",
+      "bytes": 547094,
+      "sha256": "5a03a921ce7d4c2817555e8c9efaa24307d1acb8a597914aa381847397a3545b",
+      "git_blob_oid_of_actual_bytes": "38c544893883ff7a1847baf90e6938dc8ee1721c",
+      "checks_passed": 2668,
+      "finding_count": 0,
+      "findings": [],
+      "scope": "Original V1 public14 metadata/opacity/currentgraph/full12 raw recovery;448operations,57custody/48spans/45rows,95 independently enumerated current aliases. No fresh literary/source105 pass."
+    },
+    "original_signed_ROOT_semantic_adoption": {
+      "evidence_id": "private-witness:CULINARY-ROOT-ORIGINAL-MANUAL-ADOPTION",
+      "bytes": 390663,
+      "sha256": "e8a417f68bf05ce7e27fe776e850f73cf4e64dbe60f6416f970f4475cd03ba19",
+      "git_blob_oid_of_actual_bytes": "b800a782dbf8e59e743233116679319cf2ffc23e",
+      "exact_decision": "ACCEPT_COMPLETE_CURRENT40_ARGUMENT_NEW105_PURPOSES_CORE7_AND_ADEQUATE_DISTINCT_QA_WITH_LIMITS_FOR_PUBLIC_COMPOSITION;CANONICAL_INSTALLATION_AND_RUNTIME_SEPARATE",
+      "scope": "Current original190/40/new105/core7 semantic/source-purpose acceptance WITH LIMITS for composition. Current191 body remains approved metadata-only; no canonical/runtime credit."
+    },
+    "exact_reviewed_predecessor14_manifest": {
+      "evidence_id": "private-witness:CULINARY-ORIGINAL-PUBLIC14-V1-COMPOSITION-MANIFEST",
+      "bytes": 11232,
+      "sha256": "6d5f0a78bed2396638d304407cf007ec2b8cb58c762ae820f4c7325d862ecc54",
+      "git_blob_oid_of_actual_bytes": "22c4e685f682a088d7cc2e077f30a64931dbf4ef"
+    },
+    "CURRENT_ROOT_composed_byte_final_QA_adoption": "ACTUAL_ROOT_PRECURSOR_V1_PUBLIC14_AND_SHARED7_BYTE_ADOPTION_WITH_LIMITS_COMPLETE;CURRENT_V2_V3_DOCUMENTARY_CONTROL_DELTA_QA_AND_FINAL21_FREEZE_PENDING",
+    "current_V2_one_control_documentary_delta_review": "PENDING_SEPARATE;prior full V1 compositionQA remains adequate at its declared scope",
+    "current_installation_publication_runtime_MAIN": "NOT_INSTALLED_NOT_PUBLISHED;INDEX_AUTHOR_PREFLIGHT_LIVE_CHECKS_OWNER_COMMIT_PUSH_REMOTE_READBACK_NEW_SOURCE_HOUSEKEEPING_FINAL_MAIN_INTEGRATION_PENDING",
+    "old_current_control_pending_fields_and_creation_history": "All original currentcontrol/V1 publicROOT393173 preparation-stage pending fields, historical decisions,originalauthor/ROOT/QA tuples and source-grade scopes remain literal. This current documentary member qualifies only actual completed Minato QA and signed original semantic adoption. Future ROOT final composed-byte acceptance needs its actual signed receipt.",
+    "exact_delta": "ONE_ADDITIVE_CONTROL_ROOT_MEMBER;OTHER13_PUBLIC_FILES_WHOLE_BYTE_NOOPS;EXACT14_PATHS_UNCHANGED;NO_15TH_PUBLICFILE",
+    "unchanged_semantics": "All40 literal arguments/all105 new fivefields/source7/currentCP094/CP104/61767six/59334oldGSC16 roles,body191/source grades and original envelopes unchanged.",
+    "fixed_scope": {
+      "required": 355,
+      "named": 29,
+      "parents": 25,
+      "homes": 384,
+      "navigation": 788,
+      "all14_original_gaps": "OPEN",
+      "models": 0,
+      "next178": "UNREACHED",
+      "PR158": "OPEN_DRAFT_HOLD",
+      "merge_approval": "RESERVED"
+    },
+    "new_literary_source_primary_native_AV_canonical_package_named_model_runtime_credit": 0,
+    "R_shared7_Git_provider_protected_UNBOUND_operations": 0,
+    "actual_ROOT_precursor14_and_shared7_composed_byte_adoption_V3": {
+      "schema": "CULINARY_ACTUAL_ROOT_PRECURSOR_PUBLIC14_AND_SHARED7_BYTE_ADOPTION_WITH_LIMITS_DOCUMENTARY_BINDING_V3",
+      "prepared_binding_UTC": "2026-10-14T05:22:37.085827+00:00",
+      "opaque_witness_id": "private-witness:CULINARY-ROOT-ACTUAL-PRECURSOR14-SHARED7-COMPOSED-BYTE-ADOPTION",
+      "bytes": 23541,
+      "sha256": "6a5d44599648804706ebb726d3a9a999be1a8a37b48fa5e61b11c92c5bf15712",
+      "git_blob_oid_of_actual_bytes": "e7b95fe2949f4049221cb1063d78fea4fefae03b",
+      "exact_ROOT_decision": "ACCEPT_CURRENT14_PUBLIC_COMPOSITION_AND_EXACT7_DOCUMENTARY_METADATA_WITH_LIMITS_FOR_FINAL_QUALIFIED_CONTROL_AND_GUARDED_INSTALL_FREEZE",
+      "exact_ROOT_gate_scope": "ACTUAL_ROOT_CURRENT_BYTE_ADOPTION_COMPLETE;ONE_ADDITIVE_CURRENT_CONTROL_QA_AND_FINAL21_FREEZE_PENDING;INSTALL_PREFLIGHT_PROVIDER_PUSH_READBACK_NEWHEAD_RUNTIME_PENDING",
+      "adopted_precursor_V1_public14_manifest": {
+        "bytes": 11232,
+        "sha256": "6d5f0a78bed2396638d304407cf007ec2b8cb58c762ae820f4c7325d862ecc54",
+        "git_blob_oid_of_actual_bytes": "22c4e685f682a088d7cc2e077f30a64931dbf4ef"
+      },
+      "adopted_precursor_V1_control": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CULINARY_WORK_MERCHANTS_RECIPIENTS_RECEIVING_20261013_V1/CULINARY_CURRENT_SEMANTIC_ACCEPTANCE_AND_SAVED_BODY_TRANSPORT_CONTROL_V1.json",
+        "bytes": 13626,
+        "sha256": "1e8cba8155871a260ae0af730259e0e29a6df1a05db26d43373f3a174f017afc",
+        "git_blob_oid_of_actual_bytes": "4487dc637dcc74ad1ae971951c6cb84d52bf9ef1"
+      },
+      "adopted_shared7_manifest": {
+        "bytes": 11281,
+        "sha256": "9be5949b7d2e9959f66e2fcbdafc1670232d15f183075ee744d720e7777ab4e9",
+        "git_blob_oid_of_actual_bytes": "b7c2fb70f4bb121a5ee44029b78727e089c32770"
+      },
+      "scope": "Actual signed receipt adopts the exact original V1 public14 and shared7. It does not certify this later V2/V3 documentary control value. All13 other publicfiles and original390663 semantic/source-role payloads remain byte-identical.",
+      "remaining_current_V3_gates": "MINATO_CURRENT_V2_V3_CONTROL_DELTA_QA;ROOT_FINAL21_FREEZE;GUARDED_INSTALL;AUTHOR_PREFLIGHT;LIVE_PROVIDER_MAIN_CHECKS;OWNER_COMMIT;PUSH;REMOTE_READBACK;NEW_SOURCE_HOUSEKEEPING_FINAL;MAIN_INTEGRATION_PENDING",
+      "new_canonical_package_named_or_publication_runtime_credit": 0
+    },
+    "prior_V2_ROOT_pending_scalar_preserved_as_dated_preparation_V3": {
+      "exact_original_scalar": "PENDING_AT_THIS_PREPARATION;NO_SIGNED_ROOT_FINAL_COMPOSED_BYTE_ADOPTION_CLAIMED",
+      "role": "Literal original V2 statement/private rawcontrol preserved; current actual precursor byte adoption is now qualified by the exact signed23541 receipt. All original V1 pending fields remain literal creation history."
+    },
+    "current_V3_documentary_application_rule": "Actual completed Minato V1 compositionQA and ROOT precursor14/shared7 byte adoption govern only their exact scopes. V2/V3 documentary additions need final bounded distinctQA and final21freeze. Current installation/publication/new runtime remain pending; no privatepath/selfhash or15thpublicfile."
+  }
+}

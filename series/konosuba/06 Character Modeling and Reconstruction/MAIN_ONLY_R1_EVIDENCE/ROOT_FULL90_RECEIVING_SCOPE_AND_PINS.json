@@ -1,0 +1,49 @@
+{
+  "recorded_utc": "2026-10-17T14:44:16.746880+00:00",
+  "status": "FULL_UNIQUE_SUBSTANTIVE_CONTENT_ACTUALLY_RECEIVED_NO_SUITE_ACCEPTANCE",
+  "new_primary_slots": 0,
+  "holdouts": "CLOSED",
+  "pins": [
+    {
+      "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-first-k18-responses-v1/ROOT_FIRST_K18_BOUNDED_RESPONSES.jsonl",
+      "bytes": 73974,
+      "sha256": "0617a36e0ddcf21218b1584db9a368f587a55e222176c2446a38effb2df8c740"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/v17-producer/aqua-megumin-first-executions-v1/PRODUCER_ALL36_FIRST_RESPONSES.jsonl",
+      "bytes": 99987,
+      "sha256": "be6e5b65842c4552f3be96acc972697b908f8b0cf690abd58445a55714e9ce71"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/ALL36_FIRST_COMPLETE_RESPONSE_RECORDS.json",
+      "bytes": 264871,
+      "sha256": "ea1c93e54eadde9e4126723f4eed8d0d386daaf6393bbf4ca049aef392b7afb1"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/reconstruction-pre-response-binding-v1/SAFE_OWNER_PROMPT_PACK_ROOT.json",
+      "bytes": 77120,
+      "sha256": "65157674d948f17907893abd47ab630e1e325aea1da1dbf17600b2f606375540"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/reconstruction-pre-response-binding-v1/SAFE_OWNER_PROMPT_PACK_PRODUCER.json",
+      "bytes": 151637,
+      "sha256": "3c11810c46f78632c92f839d7300cb4514c0582252b0fcb18afa0ac45e7a3b66"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/reconstruction-pre-response-binding-v1/SAFE_OWNER_PROMPT_PACK_INDEPENDENT.json",
+      "bytes": 148201,
+      "sha256": "7fcc86d74bd8932dc5cb4c2c1429948d7e6d9e38d8c3001559c8a61c5932163c"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/show_pair_for_root_receiving.py",
+      "bytes": 4184,
+      "sha256": "303976a2c56d378287f66824aee4b72a5d74d3b46ae9e6248f5cf95dbfa507ed"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-full90-actual-receiving-v1/ROOT_FULL90_ACTUAL_INPUT_RESPONSE_AND_CROSS_MODEL_RECEIVING.md",
+      "bytes": 7971,
+      "sha256": "c0de568b4f404078f42cbd101b1a6bec1d3b484c4f88eb7ff17ed98606050103"
+    }
+  ],
+  "actual_scope": "Root own K18 full readback before evaluator access; P all9 complete family displays; I F01 two separate subject displays plus allF02-F09 complete family displays. Proven literal duplicates factored as report declares."
+}

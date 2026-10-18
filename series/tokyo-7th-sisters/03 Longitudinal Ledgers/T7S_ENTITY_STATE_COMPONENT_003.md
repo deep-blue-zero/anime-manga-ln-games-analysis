@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_003
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.9"
+version: "1.13"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,7 +12,7 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0184; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0188; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-13
 last_updated: 2026-10-14
 ---
@@ -1036,4 +1036,193 @@ Nine complete family200480 primary occurrences, source-lock 12.90, witness `T7S_
 | `UNIT-0029` / `vivad-workplace` | Named `ビバド` workplace/location, rendered VivaD/VivaDo in admitted prose: Rona attributes donut-making, service, shifts/juicer mishap and recruitment/manager encounters to it, wants to keep the job and value her beginning. | 028P1–5;730P1–5;906P1;1066P1–5. Source-reported labor and origin make this institutional role warranted. No corporate/legal identity, owner, staff, pay, terms, schedule, actual shop interior, future guarantee or independent institutional voice is supplied. |
 
 Totals900KNOW/1025REL/29UNIT;102IDENTITY/84CHAR/29R2 unchanged. Old ledger bodies and histories stay exact. No professional mastery, managerial sole causation, cured vulnerability, settled romance or mature monograph is promoted.
+
+## B0185 Haru, ordinary initiative and renewed aspiration
+
+Nine complete family200460 primary occurrences, source-lock 12.91, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. `IDENTITY-0004/kasukabe-haru` / `CHAR-0004` and all peer/Player/institution identities retain prior access/readiness and unresolved machine binding. No new identity, character, unit or readiness decision.
+
+| Existing subject | Qualified new annotation | Prior state and access retained |
+| --- | --- | --- |
+| `CHAR-0004` / kasukabe-haru | Chooses renewed idol aspiration, finds learning/ordinary labor/shared pleasures meaningful, defends approachability and hobby distinction, turns partial recognition into effort. Local fear, embarrassment and bodily self-rule conflict remain. | Formation/AXiS/postEP6/NANASUTA decisions, injury/treatment, reception limits, overwork/concealment and safeguarding remain. Gratitude does not absolve earlier recruitment coercion or supply universal confidence, sole managerial causation or reciprocal romance. |
+
+| ID | Epistemic state | Native range and reliability |
+| --- | --- | --- |
+| `KNOW-0901` | Reports unnamed usual black thing rustling during office cleaning and refuses saying/hearing name. | 039P1–4; reported occurrence/avoidance, species contextual rather than explicit. |
+| `KNOW-0902` | Asks manager to handle the problem, calls him only recourse and offers Gジェット. | 039P4–5; situated request/offer, no observed removal or general dependence. |
+| `KNOW-0903` | Reassures not quitting and deliberately announces renewed idol aspiration despite earlier dislike. | 350P1–2; self-authored declaration, no total career date or erased earlier refusal grounds. |
+| `KNOW-0904` | Credits manager, loves song/dance and asks continuing association with Nanasta's and her manager. | 350P2–3; attribution/desire/address, no sole cause, reciprocal romance or absolution. |
+| `KNOW-0905` | Reports85testpoints, Miwako/Musubi tutoring and feeling smarter. | 384P1–2; no subject/denominator, independently measured general ability or demonstrated cause. |
+| `KNOW-0906` | Finds idol-related learning amusing and proposes it as aspirant recruitment appeal. | 384P3–4; proposal only, no recruited person or institution-wide efficacy. |
+| `KNOW-0907` | Takes egg-flavor answer as matching hers and belly-first taiyaki answer as matching too. | 388P1–3; only her uptake, hidden egg flavor unresolved and manager own words unavailable. |
+| `KNOW-0908` | Declares perfect compatibility and shyness through food-preference play. | 388P4; her appraisal/affect, accommodation/hyperbole remain rivals; no couple agreement. |
+| `KNOW-0909` | Reports Hime/Momoka supply shopping, one-per-person paper bargain and excited call-everyone idea. | 448P1–3; attributed acts/promotion, no verified mass purchase or enduring sales policy. |
+| `KNOW-0910` | Attributes idol-image question to Momoka, favors approachability herself and asks manager opinion. | 448P3–5; quoted peer question within Haru's account, Momoka's settled position unknown; no own Momoka/manager response or consensus. |
+| `KNOW-0911` | Reports unwanted office papers and urges regular disposal. | 634P1; practical admonition, no personal manager neglect proved or completed disposal. |
+| `KNOW-0912` | Imagines communal roasted foods/bonfire and loses original topic. | 634P2–4; direct proposal/digression, no actual fire/feast or validated procedure. |
+| `KNOW-0913` | Reports searching many places without obtaining local Unarin keychain. | 682P1–2; her hobby/search/low-spirits account, no global scarcity proof. |
+| `KNOW-0914` | Identifies held keychain as Unako, explains eyes and insists collecting is serious. | 682P3–5; her mascot distinction, no rendered item, universal gender rule or human identity admission. |
+| `KNOW-0915` | Reports eating three Rona/VivaD donuts beyond two-limit/weight fear and recalls chocolate pleasure. | 1006P1–4; reported consumption/self-rule, no measured weight or same-batch chronology. |
+| `KNOW-0916` | Plans three times normal movement in today's streamed live to compensate. | 1006P5; future proposal, no performed action, health equivalence, diagnosis or manager approval. |
+| `KNOW-0917` | Reports shopping with unnamed friend and overheard recognition/nonrecognition on7109street. | 1062P1–3; bounded partial encounter, no audience census or supplied other speakers/identities. |
+| `KNOW-0918` | Feels down briefly, infers growing recognition and renews effort to become known. | 1062P4–5; her inference/aspiration, no verified trend, universal reception or guaranteed success. |
+
+| ID | Directional relationship | Qualified state and missing access |
+| --- | --- | --- |
+| `REL-1026` | `kasukabe-haru → player-protagonist` | Credits support for renewed aspiration, seeks local help and opinion, plays at compatibility and confesses a food-rule lapse. Diverse forms of trust/address do not supply manager mind, sole causation, universal dependence, couple agreement or ethical absolution. |
+| `REL-1027` | `kasukabe-haru → asami-miwako` | Attributes tutoring and felt learning benefit; prior educational protection/plural futures remain admitted context. No new tutor's own turn or measured causal efficacy. |
+| `REL-1028` | `kasukabe-haru → tendoji-musubi` | Same bounded attribution of tutoring supplies peer assistance, without a new own Musubi response or proved general intelligence gain. |
+| `REL-1029` | `kasukabe-haru → nonohara-hime` | Names Hime as supply-shopping companion; no independently supplied peer judgment, completed mass purchase or new reciprocal access. |
+| `REL-1030` | `kasukabe-haru → serizawa-momoka` | Attributes shopping companionship and an idol-image question, then states her own favorable view of approachability. Momoka's settled position remains unknown within Haru's report; no established disagreement or agency consensus. |
+| `REL-1031` | `kasukabe-haru → tsunomori-rona` | Attributes provision of VivaD donuts and enjoyment, without a new Rona turn or proof of B0184 private batch/date/recipient. |
+| `REL-1032` | `kasukabe-haru → UNIT-0029 / vivad-workplace` | Names VivaD as source of Rona-provided donuts. This adds bounded food-source continuity to admitted workplace state, without legal/ownership/staffing/contract knowledge. |
+
+Totals918KNOW/1032REL/29UNIT;102IDENTITY/84CHAR/29R2 unchanged. Unarin/Unako are reported mascots/keychains, not newly admitted human subjects. Old ledger bodies/histories and unresolved access remain exact; no mature monograph promoted.
+
+## B0186 Kyoko's bounded requests, craft and support
+
+Eight complete family200610 primary documents, source-lock 12.92, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Kyoko `IDENTITY-0077` / `CHAR-0059` / `uesugi-uebasu-kyoko`, Player `IDENTITY-0001` / `CHAR-0001`, mother `IDENTITY-0098` / `CHAR-0080` / `uesugi-asuna-midori-kawa-juri`, Rena `IDENTITY-0084` / `CHAR-0064` / `araki-rena`, Honoka `IDENTITY-0083` / `CHAR-0063` / `saionji-honoka`, Coney `IDENTITY-0003` / `CHAR-0003` / stable `rokusaki-connie-presented`, Nanasta `UNIT-0002` and Le☆S☆Ca `UNIT-0014` retain existing handles, access and readiness. Mother/peers are offscreen reported/recalled; production workers remain chapter-local roles despite generic sprites. Native machine identity-resolution remains unresolved.
+
+| Existing subject | Qualified annotation | Prior state/access retained |
+| --- | --- | --- |
+| `CHAR-0059` / Kyoko | Requests several forms of particular attention, supplies practical care and retains professional aspiration. H makes force toward manager coexist with withheld creative preferences under an adult ideal, then records her own renewed plans and reported negotiation. | B0077recipient-authored help, B0121fear/agency, B0159mother comparison and other admitted responsibilities remain bounded; no fixed essence, total chronology, confidence/fear/comparison cure or reciprocal romance. `READY-0027` stays R2_STATE_BOUNDED/MONOGRAPH_NOT_READY. |
+| `CHAR-0001` / Player | In H supplies accompaniment, partial judgments/questions, warm tea, creative reframing and reported photo advocacy. In short cases his replies are available only through Kyoko's uptake. | Own H thoughts are authored but not omniscient; contact/production permission/outcome gaps retained, no sole helper causation or permanent safeguarding authority. |
+| `CHAR-0080` / Asuna/Juri | Named as Kyoko's mother and ideal of responsible acting, then distinguished from Kyoko's aspiration to surpass her. | Existing reported identity link remains; no new direct appearance/current advice, independently audited ability, universal adult model or mother–daughter rupture. |
+| `UNIT-0014` / Le☆S☆Ca | Kyoko reports missed peer contact/live scheduling, and later approaches a planned live with Rena/Honoka waiting. | No performed live, actual schedule/governance record, repertoire review or production success; prior group/animal-program consent responsibilities remain. |
+| `UNIT-0002` / Nanasta | Provides manager relation, office support and reported staff/photographer-facing representation. | Rumored threat/protection request and advocacy do not establish a safeguarding or editorial policy, control of external productions or contractual recourse. |
+
+| ID | Epistemic state | Native range and access limit |
+| --- | --- | --- |
+| `KNOW-0919` | Kyoko asks about likes/skills and asserts desire to know more. | 046P1–3; request, no manager's specific answer learned. |
+| `KNOW-0920` | Promises remembering and incorporates an implied objection. | 046P2–3; her uptake/promise, no direct other turn or exclusive confession. |
+| `KNOW-0921` | Reports enjoying idol work after earlier dismissiveness, credits own effort and speculates about another career. | 050P1–3; self-appraisal, no rank/sole cause or proved alternative success. |
+| `KNOW-0922` | Requests his attending gaze/proximity and declares unlimited possible progress. | 050P4–5; desire/rhetoric, not unlimited demonstrated capacity. |
+| `KNOW-0923` | Reports others busy and mostly shared recent experiences. | 464P1–3; local report, no complete dated routine census. |
+| `KNOW-0924` | Withdraws demanded novelty and asks for quiet TV/co-laughter. | 464P2–5; revised request, no enacted evening or lasting harmony. |
+| `KNOW-0925` | Complains about waiting/laziness and observes hair/tie disorder. | 810P1–3; her appraisal, no measured delay or general incompetence. |
+| `KNOW-0926` | Instructs crouching, says grooming done and forbids future expectation. | 810P4–5; bounded help/declaration, no pictured motion or permanent caretaker/refusal. |
+| `KNOW-0927` | Relays suspicious-person rumor, then explicitly labels recruiter comparison a joke. | 1034P1–3; rumor and humor, no culprit/actual assault or recruitment adjudication. |
+| `KNOW-0928` | Names fear/smaller children and asks manager protection under only-man premise. | 1034P4–5; attributed premise/request, no institutional efficacy or verified gender census. |
+| `KNOW-0929` | Reports crepe-shop couple classification and denies it while incorporating an implied answer. | 1206P1–3; others' turns not independently supplied, no actual relationship status. |
+| `KNOW-0930` | Denies grinning, proposes itchy nose and repeats romantic possibility. | 1206P4–5; written ambivalence interpretive; fixedportrait/voice unheard, literal irritation remains rival. |
+| `KNOW-0931` | Complains seemingly privately about recruits/gaze while asserting own work and future ambition. | 1330P1–3; her address and later-discovered manager presence, no unheard-thought claim, manager motive or settled romance. |
+| `KNOW-0932` | Discovers manager, incorporates earlier-presence answer and claims drama practice/asks forgetting. | 1330P4–5; post-exposure explanation, no independent fiction marker or actual forgetting. |
+| `KNOW-0933` | Reports successful acting/idol workload and missed Rena/Honoka/unit scheduling. | 6489P2–30; participants' accounts, no verified career metrics or arc identity for earlier incident. |
+| `KNOW-0934` | Player admits paperwork and offers upcoming accompaniment; Kyoko permits watching. | 6489P8–46; direct conversation/offer, no exact timetable or complete external duties. |
+| `KNOW-0935` | Director praises/permits read-through revisions, Kyoko hesitates then declines; Player plans venue contact. | 6489P47–72; P50–51fiction, P59contact only prospective, no technical score. |
+| `KNOW-0936` | Player recalls competition preference; Kyoko defends broad/memorable PR and hopes for solo lead. | 6489P77–91; recalled content/promotional rationale, no original-work inspection or promised casting. |
+| `KNOW-0937` | Photographer describes checked/rejected files; Kyoko asks about unchecked data then accepts checked selection. | 6489P96–110; interest/suppression inference, no inspected photos/rejection criteria. |
+| `KNOW-0938` | Kyoko says adult duty forbids imposing preferences; Player asks photographer unspecified favor. | 6489P114–139; her rationale and observed request, its content not yet supplied. |
+| `KNOW-0939` | Film director praises construction and invites personal pride/freer acting, offers break. | 6489P142–156; P142–144fiction, professional judgment attributed, no whole-film audit. |
+| `KNOW-0940` | Requests warm tea, receives authored giving, defines adulthood through best work choices and mother ideal. | 6489P160–173; dialogue/giving and her model, no foreground cup or Asuna direct characterization. |
+| `KNOW-0941` | Player challenges adult mask/replacement; Kyoko declares own aspiration to surpass mother and accepts particularity. | 6489P174–189; own uptake, no permanent comparison cure or automatic helper authority. |
+| `KNOW-0942` | Player promises everyone's response; Kyoko renews actress/idol plans and privately thanks. | 6489P186–204; universal assurance not outcome, new plan not completed shoot; P204sprite-free. |
+| `KNOW-0943` | Later staff praise is relayed; Kyoko reports vigorous negotiation and incorporating wishes. | 6489P208–216; friction/participant reports, no every-colleague agreement or verified project efficacy. |
+| `KNOW-0944` | Recognizes sample magazine/photo surprise; Player reports photographer contact/review/alternative request. | 6489P217–225; actualpixels/editorial/priorconsent unavailable; account does not retroactively fill every step. |
+| `KNOW-0945` | Player says Rena/Honoka wait; Kyoko goes and vows shine/smiles/gaze. | 6489P226–234; offscreen peer state/pre-performance aspiration, no shown live or audience response. |
+| `KNOW-0946` | Native transitions distinguish role work/private reflection/later backstage and final title/end. | 6489P0–237; complete scalar/state review, no elapsed-time/clientmotion or performed sound inference. |
+
+| ID | Directional relationship | Qualified new state and missing access |
+| --- | --- | --- |
+| `REL-1033` | `uesugi-uebasu-kyoko → player-protagonist` | Requests knowledge/witness/company/protection, supplies grooming/rest concern, protests gaze, accepts specific support and thanks, then commands looking. Counterpart `REL-1034` supplies the independently authored reverse H direction. Diverse conditional forms, no mutual couple, automatic compliance, permanent dependence or universally justified demands. |
+| `REL-1034` | `player-protagonist → uesugi-uebasu-kyoko` | H offers accompaniment/tea, develops and tests partial concern, reframes particularity and reports photo advocacy. Counterpart `REL-1033` retains Kyoko's own requests/uptake; director contribution also retains agency. P59contact/permission/production outcomes not supplied, no sole cure or invented direct short-case replies. |
+| `REL-1035` | `uesugi-uebasu-kyoko → uesugi-asuna-midori-kawa-juri` | Takes mother as ideal of acting responsibility, then distinguishes aspiration to surpass from replacement. Reported offscreen ideal, no present mother's words/reciprocal response or permanent rupture/comparison resolution. |
+| `REL-1036` | `uesugi-uebasu-kyoko → araki-rena` | Reports missed contact/scheduling; later Player says she waits for live. No own new Rena turn, verified timeline, sharedknowledge of whole workday or performed show. |
+| `REL-1037` | `uesugi-uebasu-kyoko → saionji-honoka` | Same bounded missed-contact/live-companion report; existing handle retained without guessed spelling. No new own Honoka turn or witnessed workday/performance. |
+| `REL-1038` | `uesugi-uebasu-kyoko → UNIT-0014 / Le☆S☆Ca` | Reports difficulty arranging live, then directs aspiration toward planned group stage. No new membership/governance, completedlive or schedule record. |
+| `REL-1039` | `uesugi-uebasu-kyoko → chapter-local production collaborators` | Withholds read-through/photo preferences, receives director invitation and later reports vigorous negotiation. Local director/actress/host/photographer roles remain distinct without stable person IDs, universal consent, flawlesscraft or external institution promotion. |
+| `REL-1040` | `player-protagonist → chapter-local photographer` | P137unspecified request is later related to an alternative magazine photo through his account of contact/review/advocacy. No complete editorial authority, consulted preference, consent chain or visible image; generic camera art not stable identity. |
+
+Totals946KNOW/1040REL/29UNIT;102IDENTITY/84CHAR/29R2 unchanged.28new epistemic states/8relations and qualified updates preserve all older ledger bodies/history/access. Mother/peers remain offscreen and staff local. No readiness, specialist or mature monograph promotion.
+
+## B0187 Shizuka, learning and situated initiative
+
+Nine complete family200530 primary occurrences, source-lock 12.93, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. `IDENTITY-0018/kuonji-shizuka` / `CHAR-0015` retains unresolved machine binding and existing household/SiSH/Nanasta history. Existing grandfather19/CHAR16, Mana20/CHAR17, Haru4/CHAR4 and Matsuri88/CHAR71 routes remain; no new person/character/unit/readiness identity is inferred from reports or labels.
+
+| Existing subject | Qualified new annotation | Prior state and access retained |
+| --- | --- | --- |
+| `CHAR-0015` / kuonji-shizuka | Credits new experience, offers tea/care/rest, seeks local food/technology help, values being found and arcade spectatorship, and offers a family escort. Uneven practical skill, unfinished personal address and possible reception mismatch remain. | Chosen outward purpose, reciprocal SiSH care, unit desire, family coercion/permission, resource/consent costs and disclosure/consultation issues remain. No universal passivity/mastery, unlimited permission, reciprocal romance or maturity promotion. |
+
+| ID | Epistemic state | Native range and reliability |
+| --- | --- | --- |
+| `KNOW-0947` | Credits fresh enjoyable days and learning beyond school to manager. | 057P1; her experience/attribution, no exhaustive cause or measured learning. |
+| `KNOW-0948` | Calls manager kind/reliable and says grandfather apparently likes him greatly. | 057P2; appraisal/qualified report, no own grandfather turn or universal permission. |
+| `KNOW-0949` | Leaves her parallel personal predicate incomplete, says she seems feverish and closes politely. | 057P3; literal self-description and embarrassed-affection/deflection readings coexist; no confirmed fever/confession. |
+| `KNOW-0950` | Says usual tea prepared and today's blend offered only to manager. | 061P1–2; stated preparation/exclusivity, no observed drinking or all-time exclusive service. |
+| `KNOW-0951` | Claims recovery/alerting/prevention ingredients and strong flavor, asks slow drinking. | 061P3; attributed tea claims/instruction, no verified ingredients/effect or medical approval. |
+| `KNOW-0952` | Frames manager self-care as matter for others and offers dedicated tea every day. | 061P4–5; role rhetoric/prospective care, no body ownership, daily enactment or agreement. |
+| `KNOW-0953` | Reports yearly quiet grandfather retreat and permitted idleness amid lessons/practice/study. | 412P1–3; her schedule/permission account, no external year/date or unlimited liberty. |
+| `KNOW-0954` | Wants shared retreat/day of idleness and playfully imagines taking him by car without holiday. | 412P4–5; invitation/conditional joke, no trip/abduction, leave or assent. |
+| `KNOW-0955` | Reports losing location during Nanasta exploration and normally following a companion. | 468P1–3; situated disorientation/habit account, no universal incapacity or deliberate loss. |
+| `KNOW-0956` | Welcomes encounter, conditionally values being sought and expects future finding. | 468P3–5; personal appraisal/question/expectation, no own search response or guaranteed capability. |
+| `KNOW-0957` | Takes up kebab name, reports smell and uncertainty about eating without furniture/chopsticks. | 674P1–3; shopping address/uptake/local etiquette gap, no rendered stall/food or heard manager explanation. |
+| `KNOW-0958` | Welcomes implied teaching offer, wants purchase and continued unfamiliar-world guidance. | 674P4–5; uptake/desire, no actual purchase/eating or settled reciprocal plan. |
+| `KNOW-0959` | Wrong app/repeated trouble and calls prompt desire to learn rather than summoning manager every error. | 702P1–3; stated uncertainty/burden/self-reliance aim, no completed manager help or proved subsequent mastery. |
+| `KNOW-0960` | Reports Haru-group teaching one function, asks a smile and textually identifies a two-shot. | 702P4–5; attributed instruction/textual photo act; no rendered pixels, peer own turn or separate shutter SFX. |
+| `KNOW-0961` | Asks how to set that photo as wallpaper. | 702P5; unresolved operation/request, no completed installation or manager own answer. |
+| `KNOW-0962` | Reports arcade visual dazzling/ringing/fatigue and quick gameovers in racing/fighting games. | 946P1/3; self-reported sensory effects/results, no heard sound, diagnosis or objective ranking. |
+| `KNOW-0963` | Treats Matsuri's apparent daily arcade enjoyment as puzzling and asks what training explains it. | 946P2; attributed premise/rhetorical inference, no independently verified routine/training. |
+| `KNOW-0964` | Enjoys watching manager's zombie game, appraises him as brave/impressive and asks return. | 946P4–5; spectatorship/appraisal/request, no actual game footage, violence or completed future visit. |
+| `KNOW-0965` | Notices evening after absorbed practice and plans freshening before brother dinner. | 1018P1–2; self-reported absorption/schedule, 汗を流す is washing/freshening here, not more exercise; no dinner enactment. |
+| `KNOW-0966` | Proposes introduction, attributes brother's earlier Mana fandom, predicts conversational fit and offers escort. | 1018P3–5; absent unnamed brother role/report/inference/offer; no fresh brother speech/name, own manager reply or completed introduction. |
+| `KNOW-0967` | Reports classmates' apparent butler inference and her explanation of life entrusted to important manager. | 1146P1–3; hedged/quoted account; no new butler identity or classmates' independently supplied belief. |
+| `KNOW-0968` | Invokes grandfather trust, reports congratulations and reads them as idol/meeting celebration. | 1146P4–5; own interpretation beside possible couple-misunderstanding rival, no verified classmates' motives/engagement. |
+
+| ID | Directional relationship | Qualified state and missing access |
+| --- | --- | --- |
+| `REL-1041` | `kuonji-shizuka → player-protagonist` | Credits guidance, offers exclusive care/sharedrest/familyescort, values attention and spectating, makes personal-photo/life-entrustment address. No manager-authored counterpart update, reciprocal romance, universal capability or assent to every proposal. |
+| `REL-1042` | `kuonji-shizuka → kuonji-grandfather` | Attributes affection/trust and a yearly exception for idleness; earlier affection/coercive authority remain. No new own grandfather turn, permission for every proposed trip or erased household pressure. |
+| `REL-1043` | `kuonji-shizuka → kasukabe-haru` | Attributes instruction of one photo function to Haru and others, preserving ongoing technical gaps. No Haru-authored counterpart turn or universal device mastery. |
+| `REL-1044` | `kuonji-shizuka → mimori-matsuri` | Imagines training behind Matsuri's apparently daily arcade enjoyment while Shizuka's own pleasure comes through spectatorship. No Matsuri own speech, new training fact or proved everyday routine. |
+| `REL-1045` | `kuonji-shizuka → reported unnamed older brother role` | Reports planned meal and earlier Mana fandom, predicts manager compatibility and offers introduction. Existing offstage family reference remains unresolved; no new identity/character route, brother counterpart state or completed meeting. |
+| `REL-1046` | `kuonji-shizuka → reported unnamed classmates` | Attributes inquiry, apparent butler inference/surprise/congratulations and supplies her own interpretation. Collective stays unnamed/unindividuated, without a new unit or own classmate turns/settled motives. |
+
+Totals968KNOW/1046REL/29UNIT;102IDENTITY/84CHAR/29R2 unchanged. Mana is a reported brother-interest reference, not supplied a new own turn or literal sister status; no new reverse relationship is fabricated. Existing reciprocal links, older histories and READY0008 remain exact; no mature monograph promoted.
+
+## B0188 Hime, chosen presentation and situated reciprocity
+
+Nine complete family200490 primary occurrences, source-lock 12.94, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. `IDENTITY-0009/nonohara-hime` / `CHAR-0009` retains unresolved machine binding, existing family/shop/WNo4/Nanasta history and historical READY0004. Existing mother10/CHAR10, father11/CHAR11, Miu85/CHAR67, Mimi42/CHAR65, Haru4/CHAR4, Momoka15/CHAR12, Susu21/CHAR18, Coney3/CHAR3 and Rona8/CHAR8 routes are looked up rather than inferred from new resource tokens. Unnamed638manager and family/companion reports supply no new person/character/unit identity.
+
+| Existing subject | Qualified new annotation | Prior state and access retained |
+| --- | --- | --- |
+| `CHAR-0009` / nonohara-hime | Offers tasting/transport/food/clothing care and a future sports role, wants company/recognition and a chance to thank, chooses particular adornment, addresses mother through memory and checks a mother-like manner. Receiving help, rough speech/cuteness, burdened enjoyment and initiative coexist. | Formation's co-original speech/cuteness, chosen entry and separate costume/consent limits; grief, temporary material help, capacity complaints, collective care and unresolved long-term vocation/workload remain. No false-mask verdict, permanent parental duty, reciprocal romance or readiness/maturity promotion. |
+
+| ID | Epistemic state | Native range and reliability |
+| --- | --- | --- |
+| `KNOW-0969` | Acknowledges asking manager for shop help, says she made new nama-chocolate tofu and credits Miu's idea. | 068P1–3; request/product/idea report; no witnessed help/recipe, independently tested flavor or unprocessed-ingredient claim. |
+| `KNOW-0970` | Qualifies thank-you framing, discusses affection-bearing woman-to-man gifts and denies that meaning for her own offering. | 068P2/4–5; both qualifications remain; no confirmed romantic transfer, actual tasting/reply or reciprocal declaration. |
+| `KNOW-0971` | Reports family granting a free day and renewed two-person time; offers any bicycle destination because manager company matters. | 353P1–3; family/history report and explicit desired company, no actual transport/date, permanent labor policy or manager assent. |
+| `KNOW-0972` | Questions bicycle intervention then attributes oiling and improved condition to manager through uptake. | 392P1–2;そっか/やっぱり account, not depicted maintenance, own manager explanation or technical inspection. |
+| `KNOW-0973` | Requests a chance to thank and offers transport home or possible dinner. | 392P3–4; specific gratitude/request/offer, no general prior-permission rule or completed meal/ride. |
+| `KNOW-0974` | Trials today'sワタシ/adult register, calls reaction thin and reports Mimi's makeup instruction. | 456P1–3; local performance/appraisal/report, no changed native portrait or independently known manager feeling. |
+| `KNOW-0975` | Predicts beauty like mother within a few years and teases about later manager infatuation/regret. | 456P4–5; own future assertion, no actual interval/appearance, romantic answer or permanent linguistic replacement. |
+| `KNOW-0976` | Reports yesterday's grave visit with father and others and formal report of present idol activity to mother. | 638P1–2; retrospective local account; others not an explicit sibling roster, no independently depicted grave scene/date. |
+| `KNOW-0977` | Reports mentioning kind支配人, companions and an unnamedマネージャー, and feeling mother smiled. | 638P3; distinct role words and気がした impression; no newly named638manager or literal maternal response/assent. |
+| `KNOW-0978` | Concludes all-family recognition of idol activity and reassures manager. | 638P4; Hime's conclusion, not independent family testimony, unlimited work conditions, grief cure or lifelong vocational decision. |
+| `KNOW-0979` | Calls holiday town crowded and two-person time fresh. | 726P1; her setting/relational appraisal; unpopulated mall art is not a crowd census or exact prior-outing chronology. |
+| `KNOW-0980` | Reports accessory embarrassment/Haru's outsized suggestions, wants style sometimes and dislikes strongly maidenly choices. | 726P2–4; her report/taste, no Haru own judgment or universal feminine norm. |
+| `KNOW-0981` | Offers to wear a manager-selected accessory and search/enter glittering shops. | 726P4–5; conditional help and chosen intention, no selection/purchase/wearing or whole-image authority transfer. |
+| `KNOW-0982` | Invites manager and everyone to upcoming shopping-street festival for a break. | 986P1; group/future invitation, no actual attendance or exclusively private date. |
+| `KNOW-0983` | Plans mother's received/gifted yukata, asks to be seen and predicts it may not suit her. | 986P2–4; gift report/future exposure/self-doubt; no post-death bequest/date, actual yukata pixels or manager appraisal. |
+| `KNOW-0984` | Proposes riverbank fireworks if manager has time and asks to make memories. | 986P5; conditional prospect, no completed outing/memories or link dating all earlier occurrences. |
+| `KNOW-0985` | Announces washing/requested shower-room use, reports Momoka's spill on a costume and predicts a hand-wash remedy. | 1070P1–2; costume owner unspecified; no performed washing, observed shower use or proved stain removal. |
+| `KNOW-0986` | Complains of dorm laundry/Susu's scattered clothes, offers all washing and requests manager shirt, claiming skill. | 1070P3–4; her report/self-claim/offer, no shirt handover, recipient answers or permanent domestic allocation. |
+| `KNOW-0987` | Offers ironing/advises public dress, then jokes about too much mother-like manner. | 1070P5; prospective care and role self-check, no actual parental status, finished ironing or sustainable load verdict. |
+| `KNOW-0988` | Expresses fatigue/sweat/thirst, requests a drink and reports Coney's sudden noon-onward soccer. | 1258P1–2; text/self-report with burdened wording, no heard breath, independently viewed play or delivered refreshment. |
+| `KNOW-0989` | Appraises Nanasta sport as not bad and Rona's shot as weak, wishing manager had seen it. | 1258P3; enjoyment/peer appraisal/retrospective wish, no objective ranking, Rona own response or prior manager spectatorship. |
+| `KNOW-0990` | Invites next manager participation, conditionally offers goalkeeping and wants to return the support she usually receives. | 1258P4–5; receiving/catching metaphor and valuation, no completed goalkeeper work, participation answer, exhaustive support history or blanket bodily/romantic assent. |
+
+| ID | Directional relationship | Qualified state and missing access |
+| --- | --- | --- |
+| `REL-1047` | `nonohara-hime → player-protagonist` | Offers care/transport/possible food, wants company/recognition/a chance to thank, asks for help and proposes returning support. Gift denials, particular appearance tastes and future conditions remain; no manager-authored counterpart update, settled romance or acceptance of every offer. |
+| `REL-1048` | `nonohara-hime → aihara-miu` | Credits the new chocolate-tofu idea to Miu through her report. No Miu own turn, independently shown recipe collaboration or reverse relation. |
+| `REL-1049` | `nonohara-hime → futagawa-mimi` | Reports adult-looking makeup instruction and her own disappointment at thin reception. No Mimi own judgment, newly certified expertise or durable appearance policy. |
+| `REL-1050` | `nonohara-hime → hime-mother` | Invokes future resemblance, reports formal grave-side address/felt smile and a received yukata, and jokes about mother-like care. Existing remembered/deceased mother remains without a new own approval turn, resolved grief, gift date or inevitable inherited role. |
+| `REL-1051` | `nonohara-hime → hime-father` | Reports father-and-others at the grave; separately describes a family-granted free day. Father is not independently authored here; no enumerated companions, own standing permission or permanent household redistribution. |
+| `REL-1052` | `nonohara-hime → kasukabe-haru` | Describes Haru's accessory suggestions as too much while stating her own preferences. No Haru own response, actual shared shopping or general rejection of femininity. |
+| `REL-1053` | `nonohara-hime → serizawa-momoka` | Reports Momoka's ice-cream spill and offers a predicted clothing remedy. Costume ownership and executed care remain unspecified; no Momoka own response or fixed caretaker assignment. |
+| `REL-1054` | `nonohara-hime → alessandra-susu` | Complains of scattered clothes and proposes washing alongside a mother-like self-check. No Susu own reply, independently certified habit or sustainable domestic duty. |
+| `REL-1055` | `nonohara-hime → rokusaki-connie-presented` | Reports sudden soccer proposal/noon-onward participation with burdened language and later mixed enjoyment. No Coney own intention/reply or retrospective erasure of earlier pressure/consent limits. |
+| `REL-1056` | `nonohara-hime → tsunomori-rona` | Retrospectively appraises a weak soccer shot within enjoyable group sport and wishes manager had witnessed it. No Rona own perspective, objective technical grade, prior manager viewing or new lasting ability state. |
+
+Totals990KNOW/1056REL/29UNIT;102IDENTITY/84CHAR/29R2 unchanged. All older directional/reciprocal histories remain exact; no new reverse relation is fabricated from reports, uptake or invitations. READY0004 stays its historical bounded decision; no mature monograph promoted.
 <!-- T7S ENTITY STATE PAYLOAD END -->

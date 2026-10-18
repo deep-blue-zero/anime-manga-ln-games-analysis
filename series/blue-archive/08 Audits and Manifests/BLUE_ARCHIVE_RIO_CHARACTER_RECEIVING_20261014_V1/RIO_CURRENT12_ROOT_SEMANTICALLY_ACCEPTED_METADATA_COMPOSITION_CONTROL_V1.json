@@ -1,0 +1,547 @@
+{
+  "schema": "RIO_CURRENT12_ACTUAL_ORIGINAL_SEMANTIC_AUTHORITY_AND_PENDING_CURRENT_BYTE_METADATA_CONTROL_V1",
+  "artifact_id": "RIO_CURRENT12_ROOT_SEMANTICALLY_ACCEPTED_METADATA_COMPOSITION_CONTROL_V1",
+  "composer": "/root/publishing_shared7_review",
+  "actual_composed_utc": "2026-10-14T21:44:04Z",
+  "current_first11_exact_public_component_tuples": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_RIO_CHARACTER_MONOGRAPH.md",
+      "bytes": 59526,
+      "sha256": "0404ea9f2fff73fc809514eb0caac3c16c641fc83045db2fed503c660cf6bb1f",
+      "git_blob_oid_of_actual_bytes": "2b16a15fa684df665a9f4a0ec5cfb8b6525c3093"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RIO_CHARACTER_RECEIVING_20261014_V1/RIO_CURRENT105_NEW_PURPOSE_JUDGMENTS_RIOP000_RIOP035_V1.json",
+      "bytes": 450356,
+      "sha256": "7bf2ba0670cac95e0f3ba3ec78ddbbba34d292a18ed8343f3619ecb257a33a9d",
+      "git_blob_oid_of_actual_bytes": "7ef78c4732849c856997bb036ba21d4fe2776234"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RIO_CHARACTER_RECEIVING_20261014_V1/RIO_CURRENT105_NEW_PURPOSE_JUDGMENTS_RIOP036_RIOP070_V1.json",
+      "bytes": 584442,
+      "sha256": "c11afa4459ac2f3d3f45ef11ebd364b870b826111308d18f8d1e26a7dc06fcd8",
+      "git_blob_oid_of_actual_bytes": "2b5aa5abdb0093b2d78b695502de6420218871b9"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RIO_CHARACTER_RECEIVING_20261014_V1/RIO_CURRENT105_NEW_PURPOSE_JUDGMENTS_RIOP071_RIOP104_V1.json",
+      "bytes": 739401,
+      "sha256": "e184d5da9fdde043efa84ba6cd051b34fae3eb750a4988767432938595fda32a",
+      "git_blob_oid_of_actual_bytes": "b3dca5b2a2fc7da6bf958cbc6acc8ac2c3d11713"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RIO_CHARACTER_RECEIVING_20261014_V1/RIO_EXISTING_CHAR43_SOURCE1_EXACT11_AUTHOR_SOURCE_SPECIFIC_RECEIVING_V2.json",
+      "bytes": 75016,
+      "sha256": "8aac9b259d89e6e233875d91ce0dbd81c09f5377481e103116b22ac368167564",
+      "git_blob_oid_of_actual_bytes": "da9912f3c280a7304a54ab93e4751ac4b2eb6e64"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RIO_CHARACTER_RECEIVING_20261014_V1/RIO_CURRENT196_COMPLETE_LITERAL69_CLAIM_SOURCE_QUESTION_PURPOSE_AND_LIMIT_REGISTER_V2.json",
+      "bytes": 832413,
+      "sha256": "0bd21006df0537f021d176782d64cdc3f05e2f60a64235ed2e7c0bb0ef316f4e",
+      "git_blob_oid_of_actual_bytes": "93f7f418787a081399ed49f6e0cd425e172f2224"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RIO_CHARACTER_RECEIVING_20261014_V1/RIO_ALL105_CURRENT_PURPOSE_AND_EXACT_SOURCE_BINDING_INDEX_V2.json",
+      "bytes": 207782,
+      "sha256": "27e5b01e64a2fb341d021b178b8fbd18e322eb0ea8ea42c1c151ac8b0ae134d6",
+      "git_blob_oid_of_actual_bytes": "3541d6cf15d8ac94673e8351c4fecdad17a40c2f"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RIO_CHARACTER_RECEIVING_20261014_V1/RIO_EXACT8_SAVED_OUTPUT_WHOLE_ORIGINAL_INPUT_PRESERVATION_AND_TRANSPORT_RECEIPT_V2.json",
+      "bytes": 924616,
+      "sha256": "6bd17a5b5556d686a98e30eee1267d2becac2f7fcb384263d6f7feec0c997e09",
+      "git_blob_oid_of_actual_bytes": "6280e0bbe7863ab19448c6a36a878b79b3549a4c"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RIO_CHARACTER_RECEIVING_20261014_V1/RIO_PRIOR_COMPLETED_COMPONENT_REVIEW_NEW_PUBLIC_REPORT_V1.json",
+      "bytes": 531935,
+      "sha256": "03049e986847cc368fe682578caeae588766c5fcb5d0a1b46f6e644e81482736",
+      "git_blob_oid_of_actual_bytes": "f31969c574e828e2cd24ec2a6902736044e99fd4"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RIO_CHARACTER_RECEIVING_20261014_V1/RIO_ACTUAL_ROOT_CURRENT196_COMPLETE_SEMANTIC_ADOPTION_WITH_LIMITS_V1.json",
+      "bytes": 60402,
+      "sha256": "75cfdd61a08a512652b81f6b0e2b5966a7dace715a98e8c2c71cbd62a59f6a56",
+      "git_blob_oid_of_actual_bytes": "7242860bba39acab8677e262d423d779de4d782f"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RIO_CHARACTER_RECEIVING_20261014_V1/RIO_CURRENT12_PUBLIC_AUTHORITY_AND_ORIGINAL_RECOVERY_CUSTODY_V1.json",
+      "bytes": 107836,
+      "sha256": "f5ff17812aaccb3bc0fb0e0cc6839befeff713a42992e6705b63e20a0f697de5",
+      "git_blob_oid_of_actual_bytes": "447659430762913a5b5b801357d59c2518b32650"
+    }
+  ],
+  "header_authority_witness_mapping": [
+    {
+      "header_witness_id": "ROOT_RIO_CURRENT196_SIGNED_SEMANTIC_ADOPTION_20261014_V1",
+      "original_actual_authority": {
+        "private_original_witness_id": "RIO-ORIGINAL-ROOT",
+        "bytes": 58225,
+        "sha256": "ef7b71311cdde64382df80fe18d03e669f7b49f00a17386a5796908ab428df9d",
+        "git_blob_oid_of_actual_bytes": "6f11521295b1568f033f9203833a7d2c40bb57fa"
+      },
+      "original_workflow_accepted_utc": "2026-10-14T20:50:52Z",
+      "current_public_derivative": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RIO_CHARACTER_RECEIVING_20261014_V1/RIO_ACTUAL_ROOT_CURRENT196_COMPLETE_SEMANTIC_ADOPTION_WITH_LIMITS_V1.json",
+        "bytes": 60402,
+        "sha256": "75cfdd61a08a512652b81f6b0e2b5966a7dace715a98e8c2c71cbd62a59f6a56",
+        "git_blob_oid_of_actual_bytes": "7242860bba39acab8677e262d423d779de4d782f"
+      },
+      "scope": "ROOT semantic acceptance of original196/69/current525/source11; no current12 byte acceptance or cryptographic signature."
+    },
+    {
+      "header_witness_id": "RIO_PRIOR_COMPLETED_COMPONENT_REVIEW_NEW_PUBLIC_REPORT_V1",
+      "current_genuine_reporting_object": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RIO_CHARACTER_RECEIVING_20261014_V1/RIO_PRIOR_COMPLETED_COMPONENT_REVIEW_NEW_PUBLIC_REPORT_V1.json",
+        "bytes": 531935,
+        "sha256": "03049e986847cc368fe682578caeae588766c5fcb5d0a1b46f6e644e81482736",
+        "git_blob_oid_of_actual_bytes": "f31969c574e828e2cd24ec2a6902736044e99fd4"
+      },
+      "original_private_reporting_structure": {
+        "private_original_witness_id": "RIO-ORIGINAL-INPUT",
+        "bytes": 472549,
+        "sha256": "23fb28313b0650b4c9c58105ec5efc9c46f4c32f0e06f0e22bf518fc8acd8a8b",
+        "git_blob_oid_of_actual_bytes": "431ee1934b954092ad82284a0a3ae1f89b45acde"
+      },
+      "original_completed_independent_component_review": {
+        "bytes": 502029,
+        "sha256": "9c216f932e30bbeb97c562e529859751c80021f4dcc113f9a1aa616859caa6a1",
+        "git_blob_oid_of_actual_bytes": "1141c36f74bb9f2754c639a4f1241fe7261b2286"
+      },
+      "original_independent_reviewer": "/root/m008_composition_review",
+      "new_reporter": "/root/publishing_shared7_review",
+      "scope": "Actual new reporting of prior completed review at preserved original scope. No fresh independent review/source receiving or current12 byte approval."
+    }
+  ],
+  "actual_original_ROOT_semantic_authority": {
+    "private_original_witness_id": "RIO-ORIGINAL-ROOT",
+    "bytes": 58225,
+    "sha256": "ef7b71311cdde64382df80fe18d03e669f7b49f00a17386a5796908ab428df9d",
+    "git_blob_oid_of_actual_bytes": "6f11521295b1568f033f9203833a7d2c40bb57fa"
+  },
+  "actual_original_ROOT_workflow_accepted_utc": "2026-10-14T20:50:52Z",
+  "actual_truthful_reporting_structure_ROOT_accepted": true,
+  "actual_C_only_composition_authorized": true,
+  "structure_acceptance_raw_tuple": {
+    "bytes": 6402,
+    "sha256": "c8c8cae06c3296165244c0cb47639abc08a215e393e17e175e01cca6cdedd769",
+    "git_blob_oid_of_actual_bytes": "4864754d1062e15a0860d688852576cd0d2c8f60"
+  },
+  "actual_dispatch_raw_tuple": {
+    "bytes": 3899,
+    "sha256": "8266a488464ba06101fcc9f1733296d927c8ce2b30770810fc6d21eaece85fd2",
+    "git_blob_oid_of_actual_bytes": "305b51dff067a25de86bad654cff645d72e3a5ef"
+  },
+  "current_measured_geometry": {
+    "original_author_physical_lines": 196,
+    "current_public_physical_lines": 208,
+    "literal_paragraphs": 69,
+    "title_actual_current_line": 29,
+    "first_literal_actual_current_line": 34,
+    "last_literal_actual_current_line": 208,
+    "source_carrier_physical_ranges": "UNCHANGED_ORIGINAL_SOURCE11",
+    "current_body": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_RIO_CHARACTER_MONOGRAPH.md",
+      "bytes": 59526,
+      "sha256": "0404ea9f2fff73fc809514eb0caac3c16c641fc83045db2fed503c660cf6bb1f",
+      "git_blob_oid_of_actual_bytes": "2b16a15fa684df665a9f4a0ec5cfb8b6525c3093"
+    }
+  },
+  "metadata_only_body_operations": {
+    "original_frontmatter1_15": "EXACT_APPROVED27_LINE_FRONTMATTER_WITH_VALID_AUTHORITY_QUARTET_AND_DATED_PRIVATE_STAGE_KEYS",
+    "unchanged_original_title17_actual_current_title29": "ONE_NAV_LINE_AFTER_THIS_UNCHANGED_TITLE",
+    "EOF": "ONLY_EXTRA_ORIGINAL_EMPTYLINE_LF_REMOVED; P069_OWN_LF_RETAINED",
+    "all69_literals": "WHOLE_LITERAL_BYTES_UNCHANGED",
+    "all525_current_target_values": "WHOLE_LITERAL_VALUES_UNCHANGED",
+    "current094": "CURRENT_V3_READING_ACCESS_COUNTER_PRESERVED",
+    "source11_ranges_and_grades": "UNCHANGED"
+  },
+  "location_normalization_scope": {
+    "base_absolute_groups": 60,
+    "base_absolute_pointer_occurrences": 811,
+    "grounded_canonical_groups": 16,
+    "private_or_prospective_base_groups": 44,
+    "actual_complete_original_location_group_count_including_aux_relative": 104,
+    "actual_exact_whole_scalar_operations": 909,
+    "no_substring_or_semantic_edit": true,
+    "opaque_resolution": "Every private-witness:RIO-LOC identifier is declared in current NAV; original exact strings, tuples and all pointer operations remain in private custody."
+  },
+  "historical_encoded_recovery_scope": [
+    {
+      "pointer": "/current_raw_61767_and_59334_modules/0/complete_original_raw_UTF8_base64",
+      "codec": "base64",
+      "original_encoded_UTF8_bytes": 82356,
+      "original_encoded_string_sha256": "5b441b5647a44555457431ef2ab1baf936b98fa96daa1def8a89ba69700f6ab7",
+      "decoded_original_tuple": {
+        "bytes": 61767,
+        "sha256": "390e8d78e69ffdf176b2e30db6d73916e8a18dd7e7a64606d7f8d3b67c4532d1",
+        "git_blob_oid_of_actual_bytes": "47011bbdab4c4439de1be7f3bca4b2dde6856f2f"
+      },
+      "absolute_or_private_delivery_marker_occurrences": 0,
+      "human_whole_source_or_QA_receiving_credit": 0,
+      "public_action": "FULL_ORIGINAL_ENCODED_VALUE_LITERAL_NO_PRIVATE_DELIVERY_MARKER"
+    },
+    {
+      "pointer": "/current_raw_61767_and_59334_modules/1/complete_original_raw_UTF8_base64",
+      "codec": "base64",
+      "original_encoded_UTF8_bytes": 79112,
+      "original_encoded_string_sha256": "2266cde5e56cbc4eb8dcf7dc497e4de75277b385b941ec92e13e95f7ca8135b1",
+      "decoded_original_tuple": {
+        "bytes": 59334,
+        "sha256": "a8cac86751eef7a84f11ba04d85eb72532f0496add6f3ab4c412a293cb71ee50",
+        "git_blob_oid_of_actual_bytes": "bd3fb3023ed7859a59b1e1443dc8080ade847679"
+      },
+      "absolute_or_private_delivery_marker_occurrences": 0,
+      "human_whole_source_or_QA_receiving_credit": 0,
+      "public_action": "FULL_ORIGINAL_ENCODED_VALUE_LITERAL_NO_PRIVATE_DELIVERY_MARKER"
+    },
+    {
+      "pointer": "/whole_reviewed_current_body_raw_UTF8_base64",
+      "codec": "base64",
+      "original_encoded_UTF8_bytes": 78104,
+      "original_encoded_string_sha256": "8201d86a3710c19876906c4da06e914450c9bc67933d2d20bb27c81e332ae66d",
+      "decoded_original_tuple": {
+        "bytes": 58578,
+        "sha256": "86933c0d358ff8416e56dc06aa4c30e97c5b23bd51d433c7c7fbd2bd32a67e1e",
+        "git_blob_oid_of_actual_bytes": "3a6b0212abca02cbd4704d4ca0fe2d498f561db1"
+      },
+      "absolute_or_private_delivery_marker_occurrences": 0,
+      "human_whole_source_or_QA_receiving_credit": 0,
+      "public_action": "FULL_ORIGINAL_ENCODED_VALUE_LITERAL_NO_PRIVATE_DELIVERY_MARKER"
+    },
+    {
+      "pointer": "/complete_body_precision_inverse_forward_proof_before_distinct_QA/complete_original_raw_UTF8_base64",
+      "codec": "base64",
+      "original_encoded_UTF8_bytes": 77916,
+      "original_encoded_string_sha256": "c979190985d571ccb8a70d32cecead3eac92dba9c31c2ef79398674aaa14dc9f",
+      "decoded_original_tuple": {
+        "bytes": 58435,
+        "sha256": "22e53b621b059190055767ece8ede28c347a715574df1dd0ea00b006da34796a",
+        "git_blob_oid_of_actual_bytes": "73425b8fd96f9d91016827de217f7e0653b1b789"
+      },
+      "absolute_or_private_delivery_marker_occurrences": 0,
+      "human_whole_source_or_QA_receiving_credit": 0,
+      "public_action": "FULL_ORIGINAL_ENCODED_VALUE_LITERAL_NO_PRIVATE_DELIVERY_MARKER"
+    },
+    {
+      "pointer": "/complete_source1_register_index_original_V1_raw_inverse_forward_proofs_lossless_encoded/0/complete_raw_UTF8_zlib_base64",
+      "codec": "zlib+base64",
+      "original_encoded_UTF8_bytes": 1296,
+      "original_encoded_string_sha256": "3f37e55f79e52158386c0023cdee8a2b796c4742e4f081963ff2f7c2a016a8e7",
+      "decoded_original_tuple": {
+        "bytes": 1898,
+        "sha256": "7f961560c757970d3a03e4ec8526abef43ac19f038a2b35535d8ac1d194eb3f3",
+        "git_blob_oid_of_actual_bytes": "f0c2364f818ae5ad2c726340c4b08f3ebaad57a9"
+      },
+      "absolute_or_private_delivery_marker_occurrences": 4,
+      "human_whole_source_or_QA_receiving_credit": 0,
+      "public_action": "EXPLICIT_OPAQUE_PRIVATE_CUSTODY_METADATA"
+    },
+    {
+      "pointer": "/complete_source1_register_index_original_V1_raw_inverse_forward_proofs_lossless_encoded/1/complete_raw_UTF8_zlib_base64",
+      "codec": "zlib+base64",
+      "original_encoded_UTF8_bytes": 8148,
+      "original_encoded_string_sha256": "433a4349d1c1732b4f1d2650ca2560c604b2c1d78e8870d3af84f9f99c8df0e3",
+      "decoded_original_tuple": {
+        "bytes": 289816,
+        "sha256": "461607144cadfb770745bce4cac84845a63aba9e824d94f5ce213d577631b02a",
+        "git_blob_oid_of_actual_bytes": "66421ef5c2fa001bd1e7fc9642e43f1572de19b9"
+      },
+      "absolute_or_private_delivery_marker_occurrences": 730,
+      "human_whole_source_or_QA_receiving_credit": 0,
+      "public_action": "EXPLICIT_OPAQUE_PRIVATE_CUSTODY_METADATA"
+    },
+    {
+      "pointer": "/complete_source1_register_index_original_V1_raw_inverse_forward_proofs_lossless_encoded/2/complete_raw_UTF8_zlib_base64",
+      "codec": "zlib+base64",
+      "original_encoded_UTF8_bytes": 2716,
+      "original_encoded_string_sha256": "5ac6c79af4fda16dec2a8699509d66fe998e5b7f6c41e085f771944b52ac9488",
+      "decoded_original_tuple": {
+        "bytes": 21254,
+        "sha256": "b5c919ea7e228cc57907f4e93e5250c058cd6ff8c96d76acef8fce98ce5ffe95",
+        "git_blob_oid_of_actual_bytes": "35a34fa4bb94b888c0086b43005fc0a5ad75403c"
+      },
+      "absolute_or_private_delivery_marker_occurrences": 12,
+      "human_whole_source_or_QA_receiving_credit": 0,
+      "public_action": "EXPLICIT_OPAQUE_PRIVATE_CUSTODY_METADATA"
+    }
+  ],
+  "current_original_source_grade_summary": {
+    "original_reviewer_8WHOLE_3SELECTED": {
+      "WHOLE_MAINTAINED": 8,
+      "SELECTED_MAINTAINED": 3
+    },
+    "distinct_reported_source_physical_lines": 2290,
+    "eleven_exact_original_reviewer_scope_records_summary": [
+      {
+        "source_id": "RIO-S01",
+        "actual_original_reviewer_grade": "WHOLE_MAINTAINED",
+        "actual_original_ranges": [
+          [
+            1,
+            1210
+          ]
+        ],
+        "distinct_reported_physical_lines": 1210
+      },
+      {
+        "source_id": "RIO-S02",
+        "actual_original_reviewer_grade": "WHOLE_MAINTAINED",
+        "actual_original_ranges": [
+          [
+            1,
+            76
+          ]
+        ],
+        "distinct_reported_physical_lines": 76
+      },
+      {
+        "source_id": "RIO-S03",
+        "actual_original_reviewer_grade": "WHOLE_MAINTAINED",
+        "actual_original_ranges": [
+          [
+            1,
+            60
+          ]
+        ],
+        "distinct_reported_physical_lines": 60
+      },
+      {
+        "source_id": "RIO-S04",
+        "actual_original_reviewer_grade": "SELECTED_MAINTAINED",
+        "actual_original_ranges": [
+          [
+            46,
+            174
+          ]
+        ],
+        "distinct_reported_physical_lines": 129
+      },
+      {
+        "source_id": "RIO-S05",
+        "actual_original_reviewer_grade": "WHOLE_MAINTAINED",
+        "actual_original_ranges": [
+          [
+            1,
+            52
+          ]
+        ],
+        "distinct_reported_physical_lines": 52
+      },
+      {
+        "source_id": "RIO-S06",
+        "actual_original_reviewer_grade": "WHOLE_MAINTAINED_BY_PRIOR_SELECTED_AND_NEW_REMAINING_INTERVALS",
+        "actual_original_ranges": [
+          [
+            1,
+            125
+          ]
+        ],
+        "distinct_reported_physical_lines": 125
+      },
+      {
+        "source_id": "RIO-S07",
+        "actual_original_reviewer_grade": "SELECTED_MAINTAINED_WITH_PRIOR_ADEQUATE_OWN_REUSE",
+        "actual_original_ranges": [
+          [
+            66,
+            150
+          ],
+          [
+            222,
+            257
+          ]
+        ],
+        "distinct_reported_physical_lines": 121
+      },
+      {
+        "source_id": "RIO-S08",
+        "actual_original_reviewer_grade": "WHOLE_MAINTAINED",
+        "actual_original_ranges": [
+          [
+            1,
+            160
+          ]
+        ],
+        "distinct_reported_physical_lines": 160
+      },
+      {
+        "source_id": "RIO-S09",
+        "actual_original_reviewer_grade": "SELECTED_MAINTAINED",
+        "actual_original_ranges": [
+          [
+            1,
+            59
+          ],
+          [
+            80,
+            217
+          ]
+        ],
+        "distinct_reported_physical_lines": 197
+      },
+      {
+        "source_id": "RIO-S10",
+        "actual_original_reviewer_grade": "WHOLE_MAINTAINED",
+        "actual_original_ranges": [
+          [
+            1,
+            83
+          ]
+        ],
+        "distinct_reported_physical_lines": 83
+      },
+      {
+        "source_id": "RIO-S11",
+        "actual_original_reviewer_grade": "WHOLE_MAINTAINED",
+        "actual_original_ranges": [
+          [
+            1,
+            77
+          ]
+        ],
+        "distinct_reported_physical_lines": 77
+      }
+    ],
+    "original_author_grades_scope": "Source reports author9newWHOLE+2priorWHOLE/2543 lines separately; the report author obtains no fresh source receiving.",
+    "original_common105_grade_scope": "Producer/source-owner original26WHOLE79SELECTED remains attributed; report/new INPUT creates no normal105/primary/native/raw/AV or admission credit.",
+    "original_body_only_QA_tuple": {
+      "C_path": "private-witness:RIO-LOC-229c6900896a805d5b2f",
+      "bytes": 116198,
+      "sha256": "ac5b984dbb845bc6682fee475720fa9380d381a8be5d82445fae74eb87136655",
+      "git_blob_oid_of_actual_bytes": "a4b6b4bb415b9a40574d323239f63fa85a433a30"
+    },
+    "selected_E850_scope": "Only original recorded necessary selected E850 L81–100 for the one act-precision judgment, not a new twelfth Rio core or whole-source promotion."
+  },
+  "original_current_and_historical_status_interpretation": "Original author-stage pending/draft/frontier statements and every original source/QA/ROOT tuple remain dated to private original196/69 bytes and their actual original events. The separate current public metadata fields govern the composed208/69 byte graph. Component QA and ROOT semantic acceptance refer to the exact original eight. Independent exact12 metadata QA and ROOT composed-byte adoption are pending; no source grade, required/named count, runtime, broad cast audit, model or merge credit is created.",
+  "existing_home": {
+    "required_id": "P3-CHAR-RIO-CH0158",
+    "source_responsibility": "P3-F051",
+    "required_row": 43,
+    "CSV_physical_line": 44,
+    "partition_pointer": "/homes/42",
+    "ordinal": 43,
+    "named_duties": []
+  },
+  "frontier_at_construction_ROOT_supplied": {
+    "published_required": 150,
+    "published_named": 18,
+    "composition_completion_count_added": 0,
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "fixed355_29_25_384_788": "UNCHANGED",
+    "merge": "RESERVED"
+  },
+  "remaining_actual_use_conditions": {
+    "distinct_current12_metadata_QA": "PENDING_M008_DIFFERENT_AUTHOR_REVIEW",
+    "ROOT_current12_complete_composed_byte_receiving_and_adoption": "PENDING",
+    "external_finalfreeze_and_shared7": "PENDING_ROOT",
+    "R_installation_INDEX_preflight_provider_push_raw_readback_new_exact_head_CI": "PENDING_ROOT",
+    "broad150_semantic_audit_or_milestone": "NOT_GRANTED"
+  },
+  "future_gates_are_conditions": "No completed12 metadata QA, ROOT composed-byte adoption, installation, current canonical count, remote publication or CI is asserted. A later actual qualification requires separate literal append/full inverse review.",
+  "selfpin": "EXTERNAL_FINAL12_MANIFEST_ONLY",
+  "R_Git_provider_shared_external_mutations": 0,
+  "new_source_admission_primary_native_AV_normal105_model_or_merge_credit": 0,
+  "actual_ROOT_current_metadata_QA_and_composed_byte_adoption_qualification": {
+    "schema": "ROOT_ACTUAL_CURRENT12_QA_AND_COMPOSED_BYTE_ADOPTION_QUALIFICATION_V1",
+    "actual_qualified_utc": "2026-10-14 22:07:13 UTC",
+    "authority_role": "Later actual workflow qualification of the unchanged first11 and reviewed original CONTROL21130; original pending fields below remain literal creation-time history. Noncryptographic. Final CONTROL is externally pinned only.",
+    "original_exact12_manifest_tuple": {
+      "bytes": 30590,
+      "sha256": "7346fe25c3c0e35df2b372528c6665fd2a635a9b9cfc3168133ed7adea89a7c1",
+      "git_blob_oid_of_actual_bytes": "b7595ac024fdc48e9495df35e6011ec2523369b3"
+    },
+    "original_CONTROL_raw_tuple": {
+      "bytes": 21130,
+      "sha256": "fa4baa1cef4588f63a7336b8976223d18932ded873bee056ed606b9dd4c60781",
+      "git_blob_oid_of_actual_bytes": "8119eaa60411d42494332f885f7cbe60e39a77ba"
+    },
+    "actual_independent_current12_QA": {
+      "manual": {
+        "bytes": 22565,
+        "sha256": "8e02ce53eb6127b62ad6d025407223de6a8ad25e887721365394129bcb5ba11e",
+        "git_blob_oid_of_actual_bytes": "0dba01b35ac2180fe17ac4d47740e18e57860325"
+      },
+      "mechanics": {
+        "bytes": 35869,
+        "sha256": "dd02e17cc94e9745af7ce9376a93dcefb208ccbdc36092f1910cf0e4c4ca6fda",
+        "git_blob_oid_of_actual_bytes": "2a91d6aec3d8df194ea5ec4c2934ba4d23c1fa77"
+      },
+      "original_reviewer": "/root/m008_composition_review",
+      "composer": "/root/publishing_shared7_review",
+      "current_findings": [],
+      "actual_input_checkpoint_predicates": 79914
+    },
+    "actual_ROOT_current12_composed_byte_adoption": {
+      "authority_id": "ROOT_RIO_CURRENT208_EXACT12_ACTUAL_COMPOSED_BYTE_ADOPTION_WITH_LIMITS_20261014_V1",
+      "bytes": 6442,
+      "sha256": "67aa3525f26421e8f82bb80269416e81154babbe1f9b24e4a4e3196f9cbe645e",
+      "git_blob_oid_of_actual_bytes": "593caafaddef7ae8d5f7c31e8902f904720e99df"
+    },
+    "ROOT_personal_receiving_scope": "Actual complete unique current metadata human receiving plus original semantic receiving reuse and complete independent raw/value preservation. No fictional fresh reading of every public JSON line.",
+    "current_conditions_completed": {
+      "distinct_current12_metadata_QA": "ACTUALLY_COMPLETE_WITH_LIMITS",
+      "ROOT_current12_complete_unique_metadata_receiving_and_original_meaning_reuse": "ACTUALLY_COMPLETE",
+      "ROOT_current12_composed_byte_adoption": "ACTUALLY_COMPLETE_WITH_LIMITS"
+    },
+    "remaining_conditions": {
+      "shared7_installation_preflight_provider_push_rawreadback_newCI": "PENDING_ROOT_ACTUAL_PUBLICATION",
+      "current150_broad_source_audit": "PENDING_ACTUAL_RECONCILIATION",
+      "merge": "RESERVED"
+    },
+    "changed_meaning": "Only dated pending-current metadata review and ROOT composed-byte adoption are now actually complete. No analytical/source/body/purpose/lineage/count/model/merge change.",
+    "new_runtime_count": 0,
+    "new_source_primary_native_AV_or_model_credit": 0
+  },
+  "current_metadata_link_format_repair_and_pre_format_authority_qualification_V1": {
+    "schema": "RIO_ONE_METADATA_LINK_DESTINATION_FORMAT_REPAIR_WITH_DATED_ADOPTION_SCOPE_V1",
+    "composer": "next_cast_source_preparation",
+    "actual_prepared_utc": "2026-10-14T23:01:36Z",
+    "authority": "ROOT explicitly authorized this finite diagnosed formatting successor; no analytical or source change.",
+    "diagnosis_attributed_to_ROOT": {
+      "staged_mandatory_preflight": "actual0b20b1/dd8d19",
+      "validator_percent_decoding_confirmation": "actualf556a7",
+      "finding": "Validator interpreted the old angle-wrapped destination literally."
+    },
+    "changed_metadata_line": 30,
+    "complete_old_destination": "<../../08 Audits and Manifests/BLUE_ARCHIVE_RIO_CHARACTER_RECEIVING_20261014_V1/RIO_CURRENT12_PUBLIC_AUTHORITY_AND_ORIGINAL_RECOVERY_CUSTODY_V1.json>",
+    "complete_current_destination": "../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_RIO_CHARACTER_RECEIVING_20261014_V1/RIO_CURRENT12_PUBLIC_AUTHORITY_AND_ORIGINAL_RECOVERY_CUSTODY_V1.json",
+    "decoded_destination_preserved": true,
+    "measured_body_byte_delta": 4,
+    "physical_lines": 208,
+    "title": 29,
+    "first_literal": 34,
+    "last_literal": 208,
+    "all69_complete_LF_literals_unchanged": true,
+    "all525_target_fields_original105_source11_and_dated_custody_unchanged": true,
+    "pre_format_body_tuple": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_RIO_CHARACTER_MONOGRAPH.md",
+      "bytes": 59522,
+      "sha256": "880531a89e1c69e95c703299b215d58edfadee412dece688bca32b260bf7512b",
+      "git_blob_oid_of_actual_bytes": "812e82204517ce009e10bcc542e3e5e158af8167"
+    },
+    "current_format_body_tuple": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_RIO_CHARACTER_MONOGRAPH.md",
+      "bytes": 59526,
+      "sha256": "0404ea9f2fff73fc809514eb0caac3c16c641fc83045db2fed503c660cf6bb1f",
+      "git_blob_oid_of_actual_bytes": "2b16a15fa684df665a9f4a0ec5cfb8b6525c3093"
+    },
+    "pre_format_final12_manifest_tuple": {
+      "private_witness_id": "ROOT_RIO_CURRENT208_FINAL12_ONE_CONTROL_QUALIFIED_EXTERNAL_FREEZE_MANIFEST_V1",
+      "bytes": 9835,
+      "sha256": "0dc29bb91221d503c5858f2f8deea28c33f20057eb62d64108a4f7cb0c1cd1c4",
+      "git_blob_oid_of_actual_bytes": "595863cb36a7492f6055495666b174acb68dfa40"
+    },
+    "dated_final_ROOT_byte_adoption_tuple": {
+      "private_witness_id": "ROOT_RIO_FINAL12_CONTROL_QUALIFIED_ACTUAL_BYTE_ADOPTION_WITH_LIMITS_20261014_V1",
+      "bytes": 2409,
+      "sha256": "15dd88e22271dc7ea246550c5ca57e9521b53122d48367541ece568f784bfef0",
+      "git_blob_oid_of_actual_bytes": "6b4aa369bd67bd18950841dc26664ebddaf896cf"
+    },
+    "dated_previous_QA_and_ROOT_adoption": "All original QA, ROOT decisions and completed-condition fields remain literal and govern their exact pre-format tuples. This later formatting qualification governs the changed current byte graph; it does not transfer those completed decisions to new bytes.",
+    "current_formatting_byte_QA_ROOT_adoption_preflight_and_publication": "PENDING_SEPARATE_ACTUAL_ROOT_OPERATIONS",
+    "new_semantic_source_primary_native_AV_normal105_identity_model_count_or_merge_credit": 0,
+    "R_Git_provider_shared_writes_by_this_author": 0
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "recorded_utc": "2026-10-17T14:53:15.450755+00:00",
+  "bank_identity": {
+    "path": "/workspace/scratch/konosuba/reconstruction-case-bank-private-v1/SEALED_EVALUATOR_CASE_BANK_PRIVATE.json",
+    "bytes": 130801,
+    "sha256": "1d88c6f5356adcb8b54bb401952be9b4b83f046a4aa141755af4a14e04e74e9f"
+  },
+  "all_reading_after_all90_first_output_seals": true,
+  "actual_new_fields_read": [
+    "completecommon/rubric/familycounts",
+    "all45titles",
+    "all45evaluator_only_hidden_facts",
+    "all45case_specific_causal_voice_questions",
+    "all45acceptable_response_alternatives_not_predictions",
+    "all36nearest_contrast_not_an_extra_execution"
+  ],
+  "read_groups": [
+    "F01-F03 pluscompletecommon/rubric; truncated444tokens recovered ascompletepre_execution_model_contract/countsandcompleteF01K/Aremainingfields",
+    "F04-F06 completeuntruncated",
+    "F07-F09 completeuntruncated"
+  ],
+  "already_read_fields_factored": "Actualall90promptreceiving supplies settings,relationshipstate,availableinformation,stakes,modeconditions and partyownerprivateinformation; literal equality tooriginalcorebanks is mechanical, notanotherfreshreadclaim.",
+  "new_primary_slots": 0,
+  "new_holdout_or_expanded_exposure": false,
+  "limitations": "Hidden facts are evaluator bookkeeping, never retroactive character knowledge. Root authored K first before this exposure; this post-response receiving is not blind coding or external source validation.",
+  "acceptance": false
+}

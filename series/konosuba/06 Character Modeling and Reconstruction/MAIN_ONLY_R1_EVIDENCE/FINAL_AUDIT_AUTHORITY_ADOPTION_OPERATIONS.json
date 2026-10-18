@@ -1,0 +1,19 @@
+{
+  "actual_acceptance_utc": "2026-10-17T15:04:33.118647+00:00",
+  "operations": [
+    {
+      "before_exact": "status: draft_noncurrent",
+      "after_exact": "status: active_provisional"
+    },
+    {
+      "before_exact": "do_not_use_as_current_authority: true",
+      "after_exact": "do_not_use_as_current_authority: false"
+    },
+    {
+      "before_exact": "## 1. Authority, responsibility and actual status\n\n",
+      "after_exact": "## 1. Authority, responsibility and actual status\n\n**Root semantic acceptance — 2026-10-17T15:04:33.118647+00:00.** The complete six-model derivation and varied simulation/receiving responsibilities are accepted as a bounded main-only baseline for unchanged-model external validation. All specified diagnostic aftervalues are received, all original adverse/qualified histories and untested conditions remain, and declared adoption operations preserve the tested causal cores. This is not acceptance of full-corpus completion, VERY_HIGH character fidelity or a future published commit. The [acceptance record](MAIN_ONLY_R1_EVIDENCE/ROOT_FINAL_SUITE_ACCEPTANCE_AND_RECEIVING.json) and separate freeze receipt bind actual later identities. Receiving-stage pending statements retained below are historical; only the publication gate remains before holdout release.\n\n"
+    }
+  ],
+  "complete_inverse_to_received_audit_sha256": "a55399a794e53390e12b66003fddc9211421a77570e0dee2f658cd5c6fc6fe3a",
+  "causal_or_score_change": false
+}

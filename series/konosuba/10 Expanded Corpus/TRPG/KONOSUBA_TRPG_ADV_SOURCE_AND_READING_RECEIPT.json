@@ -1,0 +1,73 @@
+{
+  "schema": "KONOSUBA_TRPG_ADV_ACTUAL_SOURCE_AND_READING_RECEIPT_V1",
+  "accepted_utc": "2026-10-18T05:03:55.185963+00:00",
+  "source_id": "TRPG-ADV",
+  "native_filename": "Konosuba - TRPG - Advanced Rulebook.epub",
+  "native_bytes": 123248665,
+  "native_sha256": "2efe00b0a914cf725dfd8a52a1983b8f633705330054bf82b0b9e09165cd9e7c",
+  "admission_sha256": "bddebca5cad084e939ff27ff4f8b1c76c5193ebb2bb0832608b1bd0fa954bdd9",
+  "OPF_member": "item/standard.opf",
+  "OPF_sha256": "e9372fbbee1c5bd15cd50936fe50b6b4a4bf5ced94d36ddc2335b449d52ccddf",
+  "language": [
+    "ja"
+  ],
+  "all331_actual_native_source_order_views": true,
+  "all_eligible_continuous_bodies_actually_read": true,
+  "individual_scopes_control": true,
+  "native_image_and_wrapper_archive_and_local_joins_reverified": 331,
+  "fresh_native_CRC": "PASS",
+  "complete_uncoded_seal_utc": "2026-10-18T04:44:52.985333+00:00",
+  "complete_uncoded_seal_sha256": "311a0e465734dd4508b34234e11cc7b1981c25b1c957fde1f7da10fd8ee3765c",
+  "uncoded_page_log_bytes": 631994,
+  "uncoded_page_log_sha256": "2e2d85c5f0616bd6444f1fe7bf4ea7e179b18e35159a2954772469dd41ad2945",
+  "uncoded_comic_observations": 282,
+  "initial_voice_witnesses": 49,
+  "formal_selected_premises": 100,
+  "formal_voice_witnesses": 49,
+  "short_fragment_records": 46,
+  "paraphrase_only_records": 3,
+  "all_formal_assignments_after_seal": true,
+  "additional_precision_whole_native_pages": [
+    95,
+    96
+  ],
+  "crops": [
+    {
+      "source_spine": 22,
+      "native_box": [
+        720,
+        1510,
+        1420,
+        1900
+      ],
+      "scale": 2,
+      "scope": "profile label: printed出自動画retained"
+    },
+    {
+      "source_spine": 326,
+      "native_box": [
+        90,
+        760,
+        900,
+        910
+      ],
+      "scale": 2,
+      "scope": "promotionalアクセル教団wordingretained"
+    }
+  ],
+  "display_request": "original",
+  "native_dimensions": [
+    1441,
+    2048
+  ],
+  "whole_display_dimensions": [
+    1312,
+    1864
+  ],
+  "reader_exposure": "Continuing informed root AI lineage, known main17/four holdouts/Dust01-02/artbooks/fanbook/Core, possible pretraining; no pristine blindness, native-human/acoustic judgment or statistical independence",
+  "same_root_authorship_and_checking_not_independent": true,
+  "no_OCR_audio_or_native_human_claim": true,
+  "dense_numeric_index_cross_rule_certification": false,
+  "initial_admission_status_kept_historically": "Admission recorded zero actual views at its own earlier time; this later receipt does not rewrite it.",
+  "publication_status": "CONTAINING_EXACT_PUBLICATION_AND_FULL_GATE_PENDING"
+}
