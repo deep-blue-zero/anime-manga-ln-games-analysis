@@ -5,13 +5,13 @@ artifact_type: corpus_map
 series: Harmony / ハーモニー
 series_id: harmony
 generation: HARMONY_BOOTSTRAP_V1
-version: '0.24'
+version: '0.25'
 status: active_provisional
 scope: Current state and sole first-read entrypoint
 source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U020 interstice34 text/part0013.html and actual epilogue heading35/body36 text/part0015.html through2171rawbodycp/literal body-etml closure; ancillary37–40 classified excluded; all40spine occurrences accounted; next source NONE
 canonical_home: series/harmony/CURRENT_STATE_AND_CORPUS_MAP.md
 created: '2026-10-16'
-review_status: G3_IN_PROGRESS_REVIEWED_SEVEN_STUDIES_2026_10_18
+review_status: G3_COMPLETE_COMPLEMENTARY_CONVERGENCE_ACCEPTED_2026_10_18
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -59,7 +59,7 @@ repository_state:
 
 # Harmony / ハーモニー — current state and corpus map
 
-This is the sole first-read entrypoint for the independent original prose-novel project at `series/harmony/`, on continuing branch `series/harmony`. The author is Project Itoh / 伊藤計劃. The foundation remains current-eligible **provisional project guidance**. G1 is complete and integrated: twenty frozen natural-unit readings reach the actual epilogue and account for all40spine occurrences. G2 is complete and integrated through PR217. The owner has now separately authorized full G3 specialist and monograph work, with G4/G5 readiness handoff only; current scope and convergence are routed below. No predecessor or frozen frontier is rewritten.
+This is the sole first-read entrypoint for the independent original prose-novel project at `series/harmony/`, on continuing branch `series/harmony`. The author is Project Itoh / 伊藤計劃. The foundation remains current-eligible **provisional project guidance**. G1 is complete and integrated: twenty frozen natural-unit readings reach the actual epilogue and account for all40spine occurrences. G2 is complete and integrated through PR217. The separately authorized full G3 specialist and monograph work is complete for the admitted witness after independent semantic convergence; G4/G5 readiness is handed off below, with their execution unstarted. No predecessor or frozen frontier is rewritten.
 
 `SEQUENTIAL_ANALYSIS_LOCK = OPEN`
 
@@ -76,7 +76,7 @@ Historical G0 passed for **HAR-U001 only**: the reviewed method/architecture and
 | Narrative admission | `ADMITTED_THROUGH_HAR-U020`;20natural sequential units; no next source operation |
 | Sequential reading | HAR-U001–HAR-U020 read/authored; actual narrative terminal36body0–2171/literal closures, meaningful34transition/35heading and excluded37–40fully disposed; unit acceptance/publication proved separately |
 | Longitudinal instruments | Three closed source-unit ledgers retain252literary evidence IDs/256spans,30subjects/110actorhistory/63directionIDs161relationhistory/137worldIDs; G2 current state adds30assessments to108historical readiness rows and selects169claims/189primary+2archive191retained/0predictions/22revisions |
-| Reconciliation and synthesis | G2 COMPLETE and integrated through PR217; the three owning ledgers remain authoritative. G3 IN_PROGRESS: seven reviewed studies cover Tuan, Kian, Nuaza, Oscar, Vashilov, relationships/autonomy and institutional care/coercion; narration, ending, Miaha and final convergence remain pending. G4/G5 execution and G6 NOT_STARTED |
+| Reconciliation and synthesis | G2 COMPLETE and integrated through PR217; the three owning ledgers remain authoritative. G3 COMPLETE for the admitted corpus: four specialist studies and six character studies accepted after substantive role-gap/dependency convergence. G4 READY_FOR_HANDOFF; G5 evidence/readiness handoff ready; their execution and G6 NOT_STARTED |
 | Character reconstruction | G2 reassesses all30subjects:1MULTICONTEXT_CANDIDATE/9DOMAIN_BOUNDED/20RECOGNITION_ONLY, with separate literary-monograph eligibility and explicit domain ceilings; all108G1 readiness histories retained plus30G2 assessments. Models NOT_STARTED/validation NOT_PERFORMED |
 | Owner review / publication permission | G1 PR190 remains integrated. G2 PR217 is CLOSED/MERGED at7d1448802707b52286429f2879ba4e2cfc565212, preserving sourcec25ae68271da7a6f3adf4e323df0099eae69c51f exactly. G3 branch publication is authorized; [PR226](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/226) stays draft. Protected-main merge, G4/G5 execution and G6 are outside this task |
 
@@ -123,8 +123,11 @@ Current G2 semantic acceptance is PASS for the completed admitted corpus after i
 
 ## Authorized G3 work and current retrieval
 
-The owner’s 2026-10-18 instruction authorizes four specialist responsibilities and six character studies under the existing architecture, plus independent semantic review and a documented G4/G5 readiness handoff. G3 remains **IN_PROGRESS** until all ten outputs and cross-study convergence are accepted. The [G3 responsibility, convergence and handoff record](07%20Audits%20and%20Handoffs/HARMONY_G3_CONVERGENCE_AND_HANDOFF.md) owns exact scopes and remaining work; it is not a replacement claims ledger or final novel synthesis.
+The owner’s 2026-10-18 instruction authorizes four specialist responsibilities and six character studies under the existing architecture, plus independent semantic review and a documented G4/G5 readiness handoff. G3 is **COMPLETE for the admitted corpus** after all ten substantive outputs and the full role-gap/dependency convergence were independently accepted. Remaining mandatory G3 analytical obligations: none. The [G3 responsibility, convergence and handoff record](07%20Audits%20and%20Handoffs/HARMONY_G3_CONVERGENCE_AND_HANDOFF.md) owns exact scopes and remaining work; it is not a replacement claims ledger or final novel synthesis.
 
-The first reviewed batch contains [Tuan](04%20Character%20and%20Relationship%20Studies/HARMONY_TUAN_MONOGRAPH.md), [Kian](04%20Character%20and%20Relationship%20Studies/HARMONY_KIAN_MONOGRAPH.md), and [relationships/autonomy](05%20Specialist%20Synthesis/HARMONY_RELATIONSHIPS_AND_AUTONOMY.md). The second reviewed batch adds [institutional care/coercion](05%20Specialist%20Synthesis/HARMONY_INSTITUTIONAL_CARE_AND_COERCION.md), [Nuaza](04%20Character%20and%20Relationship%20Studies/HARMONY_NUAZA_MONOGRAPH.md), [Oscar](04%20Character%20and%20Relationship%20Studies/HARMONY_OSCAR_STUDY.md), and [Vashilov](04%20Character%20and%20Relationship%20Studies/HARMONY_VASHILOV_STUDY.md). The final three intended targets remain explicitly planned in the handoff until published. An attributable [G3 historical wording erratum](03%20Longitudinal%20Ledgers/HARMONY_KNOWLEDGE_INSTITUTIONS_AND_COERCION_LEDGER.md#g3-attributable-wording-erratum--2026-10-18) corrects the inherited reading of 合意員 without changing frozen U016, K099 or CL128v1; all G2 formulations and CL128v2 motive reliance survive.
+The first reviewed batch contains [Tuan](04%20Character%20and%20Relationship%20Studies/HARMONY_TUAN_MONOGRAPH.md), [Kian](04%20Character%20and%20Relationship%20Studies/HARMONY_KIAN_MONOGRAPH.md), and [relationships/autonomy](05%20Specialist%20Synthesis/HARMONY_RELATIONSHIPS_AND_AUTONOMY.md). The second reviewed batch adds [institutional care/coercion](05%20Specialist%20Synthesis/HARMONY_INSTITUTIONAL_CARE_AND_COERCION.md), [Nuaza](04%20Character%20and%20Relationship%20Studies/HARMONY_NUAZA_MONOGRAPH.md), [Oscar](04%20Character%20and%20Relationship%20Studies/HARMONY_OSCAR_STUDY.md), and [Vashilov](04%20Character%20and%20Relationship%20Studies/HARMONY_VASHILOV_STUDY.md). The final reviewed batch adds [narration/ETML/final voice](05%20Specialist%20Synthesis/HARMONY_NARRATION_ETML_AND_FINAL_VOICE.md), [the ending](05%20Specialist%20Synthesis/HARMONY_ENDING_STUDY.md), and [Miaha](04%20Character%20and%20Relationship%20Studies/HARMONY_MIAHA_MONOGRAPH.md). The handoff records substantive coverage, strongest alternatives, nonredundancy and remaining work rather than treating ten files as a completion certificate. An attributable [G3 historical wording erratum](03%20Longitudinal%20Ledgers/HARMONY_KNOWLEDGE_INSTITUTIONS_AND_COERCION_LEDGER.md#g3-attributable-wording-erratum--2026-10-18) corrects the inherited reading of 合意員 without changing frozen U016, K099 or CL128v1; all G2 formulations and CL128v2 motive reliance survive.
 
 Live PR217 was merged on 2026-10-18; its sourcec25ae682 and integration7d144880 complete trees are identical. Current main14f077fa43012012f9eca72fd83fc0cadb971ac6 was incorporated by ordinary mergec9fd3d701e5222a5669e3fe1b69b778c70fb70af before this G3 batch, with no Harmony blob drift. Dated G2 reports retain their original draft/pending statements as historical transaction facts. No new source operation, G5 model, G4 final synthesis, G6 release or protected-main integration is performed by this G3 publication.
+
+
+The [completed G3 handoff](07%20Audits%20and%20Handoffs/HARMONY_G3_CONVERGENCE_AND_HANDOFF.md#final-g3-substantive-convergence-and-role-gap-disposition) preserves all historical partial frontiers and records current completion. G4 is ready for a separately authorized integrated argument; no G4 synthesis is written here. G5 retains all30 actor-owner evidence ceilings, models NOT_STARTED and validation NOT_PERFORMED, with no blind-holdout claim. G6 and protected-main integration remain outside this task. Current G3 branch publication is held in draft PR226; exact audit/readback receipts distinguish publication from literary acceptance and from main integration.

@@ -5,7 +5,7 @@ artifact_type: synthesis_architecture
 series: Harmony / ハーモニー
 series_id: harmony
 generation: HARMONY_BOOTSTRAP_V1
-version: '0.23'
+version: '0.24'
 status: active_provisional
 scope: Synthesis architecture and reconstruction specification
 source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U020 interstice34 text/part0013.html and actual epilogue heading35/body36 text/part0015.html through2171rawbodycp/literal body-etml closure; ancillary37–40 classified excluded; all40spine occurrences accounted; next source NONE
@@ -159,3 +159,8 @@ The owner separately authorizes the existing §6 responsibilities as four substa
 The [G3 convergence and handoff](../07%20Audits%20and%20Handoffs/HARMONY_G3_CONVERGENCE_AND_HANDOFF.md) records role boundaries, planned versus delivered paths, independent semantic acceptance and remaining G4/G5 requirements. The relationship study owns cross-dyad comparison; each monograph owns that person's developmental argument. The institutional study owns care/coercion mechanisms and permission; the form study owns narration/visible ETML/enunciative levels; the ending study tests their consequences at the final boundary without replacing a future G4 integrated novel argument. Shared evidence is linked through the frozen reading and canonical ledger rather than copied into new registries.
 
 G3 is IN_PROGRESS at the first reviewed three-artifact batch. G1/G2 remain complete for the same admitted witness; source admission remains completed/NONE. G4 and G5 are readiness/handoff responsibilities here, not executed synthesis or model production, and G6 remains unstarted. The gate table’s bootstrap states and all dated G1/G2 reviews above remain historical and unchanged. The architecture is still EVOLVING; this is a scoped realization of existing homes and responsibilities rather than a new analytical generation.
+
+
+**Final G3 architecture/role-gap review — 2026-10-18.** The authorized four specialist responsibilities and six character studies are now substantively complete after independent same-novel source/semantic review and cross-study convergence. The [G3 handoff](../07%20Audits%20and%20Handoffs/HARMONY_G3_CONVERGENCE_AND_HANDOFF.md#final-g3-substantive-convergence-and-role-gap-disposition) records the actual responsibilities, counterevidence, nonredundancy and source/claim-level dependencies. Keita, Reiko, Uwe and Gabriel receive supported integrated portraits; other subjects retain their actor-owner dispositions. No mandatory G3 gap requires an additional file, model, registry or source acquisition. The original three cumulative owners, evidence IDs and frozen G1/G2 histories remain in place, with one attributable historical wording erratum rather than a frozen-byte rewrite.
+
+G3 is COMPLETE for the admitted exact witness. G4 is READY_FOR_HANDOFF but NOT_STARTED; G5 evidence/readiness handoff is ready but model construction and validation are NOT_STARTED/NOT_PERFORMED and outside this task; G6 remains NOT_STARTED. The ten studies are dependencies of future G4/G5 work, not substitutes for those distinct responsibilities. The architecture remains EVOLVING with its established responsibility graph. Source admission remains completed/NONE; this retrospective completion creates no new narrative or protected-main merge permission.
