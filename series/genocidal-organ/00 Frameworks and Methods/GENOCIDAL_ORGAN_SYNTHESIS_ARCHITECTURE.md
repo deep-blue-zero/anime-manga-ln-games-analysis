@@ -5,7 +5,7 @@ artifact_type: synthesis_architecture
 series: Genocidal Organ / 虐殺器官
 series_id: genocidal-organ
 generation: GENOCIDAL_ORGAN_BOOTSTRAP_V1
-version: '0.4'
+version: '0.6'
 status: active_provisional
 scope: Synthesis architecture and reconstruction specification
 source_boundary: Original Japanese prose novel; current bounded witness frontier owned by source map and entrypoint; historical G0 admitted zero units
@@ -175,3 +175,22 @@ The three-owner architecture is adequate. G2 adds readable current projections i
 | G6 | NOT_PERFORMED / NOT_AUTHORIZED; draft publication and semantic G2 completion do not constitute terminal release |
 
 Recommended later order is a bounded G3 assignment covering narration/form/disclosure, actor/relationship agency and institutional/causal/normative reasoning; G5 may proceed alongside only under its own evidence/state/validation scope; G4 follows specialist convergence; G6 follows requested obligations and separately authorized integration/release. No actual monograph, specialist, model, simulation or comparison begins here. Source-exposure history prevents calling already-read cases blind holdouts. The semantic gate above follows substantive independent review and adopted corrections, not merely the existence of expected files; exact repository publication acceptance remains a separate check.
+
+
+## Owner-authorized G3 role allocation — 2026-10-18
+
+The new instruction separately commissions G3 on the accepted G2 boundary, with G4 and G5 readiness as the handoff responsibility. It authorizes the four specialist domains and substantial literary monographs for Clavis, Williams, John Paul and Lucia; no new source admission, G4 integrated novel synthesis, G5 model/validation or G6 release follows. The existing proposed homes in §§4/6 are now justified by independent arguments and repeated retrieval across the complete corpus. The three ledgers remain sole cumulative owners, and the source map/method/G1 freezes/G2 handoff remain preserved. No responsibility migrates into a competing registry.
+
+| Mandatory G3 responsibility | Actual evidence-bearing home / additional role |
+| --- | --- |
+| Narration, disclosure and formal construction | [Narration and moral agency](../05%20Specialist%20Synthesis/GENOCIDAL_ORGAN_NARRATION_AND_MORAL_AGENCY.md): narrator/addressee relations, disclosure timing, written Japanese and mediated voice |
+| Character/relationship development and agency | [Relationships and responsibility](../05%20Specialist%20Synthesis/GENOCIDAL_ORGAN_RELATIONSHIPS_AND_RESPONSIBILITY.md), plus the four monographs routed in the [actor owner](../03%20Longitudinal%20Ledgers/GENOCIDAL_ORGAN_ACTOR_RELATIONSHIP_AND_READINESS_LEDGER.md#go-g3-monograph-disposition) |
+| Institutions, causality and normative reasoning | [Institutional study](../05%20Specialist%20Synthesis/GENOCIDAL_ORGAN_INSTITUTIONS_CAUSALITY_AND_POLITICAL_RESPONSIBILITY.md): changing commands, resources/ecology, legibility, biological/linguistic interventions and explanation versus justification |
+| Ending in relation to prior evidence | [Ending and retrospective form](../05%20Specialist%20Synthesis/GENOCIDAL_ORGAN_ENDING_AND_RETROSPECTIVE_FORM.md): recurring protection/cost structure, private comforts and the still-future catastrophe |
+
+The role-gap review consolidates language/cognition, embodiment, technology, surveillance, consent/coercion, material circulation, personhood and political responsibility into those substantial homes rather than creating obligatory theme files. Supporting represented-mother/Alex/Leland/Rockwell/Lucius/Tzvi responsibilities have explicit bounded coverage; other subjects retain their all51 G2 dispositions. New CL089–096 make every study's central proposition recoverable in the sole claims owner. No inference from file count establishes completion. Full independent semantic review, required-source checks and cross-study reconciliation must precede the separate G3 convergence disposition; repository publication and exact-head audits remain independent. INITIAL lifecycle is retained because no cumulative ownership migration or new method is required.
+
+
+### G3 convergence disposition — 2026-10-18
+
+The [G3 convergence and readiness handoff](../07%20Audits%20and%20Handoffs/GENOCIDAL_ORGAN_G3_CONVERGENCE_AND_HANDOFF.md) now substantively reconciles the studies, strongest contrary cases, mandatory roles and supporting bounded subjects. Full independent review accepted every final artifact; attribution/citation defects and the material-circulation coverage gap were repaired before acceptance. G3 is SEMANTIC_COMPLETE with no remaining mandatory analytical/evidence obligation within GO-U001–028/all44. This disposition preserves G2 and does not infer completion from artifact count or CI. G4 is ready for a separately commissioned integrated novel argument; G5 retains the unchanged all51 eligibility/ceilings with model production NOT_STARTED and validation NOT_PERFORMED. No G4 synthesis, G5 model/test, G6 release or protected-main merge occurs here. Exact repository publication remains a separate audited transaction.
