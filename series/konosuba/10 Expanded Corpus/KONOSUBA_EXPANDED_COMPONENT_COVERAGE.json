@@ -1,7 +1,7 @@
 {
   "schema": "KONOSUBA_STAGE_C_COMPONENT_COVERAGE_V1",
   "status": "ACTIVE_NOT_COMPLETE",
-  "updated_utc": "2026-10-18T20:19:12.906750+00:00",
+  "updated_utc": "2026-10-18T21:29:39.453525+00:00",
   "fixed41_identity_seal": "fe59ede667ed3532f9cd0e62fdd650655d029c191fd3bd95df84ab404f2f56c5",
   "coverage_denominator_state": "FULL_ADMITTED_NARRATIVE_COMPONENT_DENOMINATOR_NOT_YET_RESOLVED",
   "expanded_narrative_completion_percentage": null,
@@ -21,7 +21,8 @@
       "EXP-02",
       "EXP-03",
       "CONTEXP-01",
-      "CONTEXP-02"
+      "CONTEXP-02",
+      "MASK"
     ],
     "not_an_expanded_component_percentage": true,
     "published_full_gate_closed": [
@@ -36,7 +37,8 @@
       "EXP-01",
       "EXP-02",
       "EXP-03",
-      "CONTEXP-01"
+      "CONTEXP-01",
+      "CONTEXP-02"
     ]
   },
   "objects": [
@@ -583,8 +585,8 @@
       "source_id": "CONTEXP-02",
       "native_sha256": "ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267",
       "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
-      "stage_C_status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
-      "remaining": "Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Consulting the Masked Devil whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.",
+      "stage_C_status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_PUBLISHED_FULL_GATE_CLOSED_AT_STATED_COMPONENT_SCOPES",
+      "remaining": "Supplied-edition scopes and publication gate closed; expanded synthesis/StageD/finalrelease remain.",
       "admission_utc": "2026-10-18T19:03:27.479348+00:00",
       "admission_sha256": "7f77c217d7a711a0966a74377ddcc1ec9852b75be97fd82a01e68cad4516ccaa",
       "preceding_full_gate_source": "b0668884aeb1e0f58db2395b214b9b3b947f0d8f",
@@ -622,15 +624,59 @@
       "actual_textual_components": 35,
       "reading": "10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V02_DEEP_READING.md",
       "register": "10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V02_COMPONENT_REGISTER.json",
-      "receiving": "10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V02_RECEIVING_AND_PROVENANCE.json"
+      "receiving": "10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V02_RECEIVING_AND_PROVENANCE.json",
+      "authorship_publication_state": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+      "publication_gate": {
+        "source_commit": "b274b31dfcc96932643feba27e53e1deb2dc7813",
+        "closed_utc": "2026-10-18T20:33:56.914127+00:00",
+        "receipt": "09 Audits and Manifests/KONOSUBA_CONTEXP02_EXPANDED_PUBLICATION_GATE_CLOSE.json"
+      }
     },
     {
       "source_id": "MASK",
       "native_sha256": "fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127",
       "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
-      "stage_C_status": "FULL_LITERARY_AND_EXCLUDED_COMPONENT_ANALYSIS_PENDING",
+      "stage_C_status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
       "prior_phase_B": "Principal narratives completely read and frozen-R1 validation accepted/published; scorecard immutable",
-      "remaining": "Complete proportional literary/component analysis without relabeling prior exposure or making a new blind test"
+      "remaining": "Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Fantastic Days whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.",
+      "admission_utc": "2026-10-18T20:34:30.309852+00:00",
+      "admission_sha256": "43aa5463a4d2b510fab84599429c8a2ad62241547e163cedf655fcde63541021",
+      "preceding_full_gate_source": "b274b31dfcc96932643feba27e53e1deb2dc7813",
+      "initial_separate_admission_snapshot": {
+        "source_id": "MASK",
+        "native_sha256": "fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127",
+        "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+        "stage_C_status": "SEPARATELY_ADMITTED_WHOLE_EDITION_SOURCE_FIRST_READING_ACTIVE_NOT_ACCEPTED",
+        "prior_phase_B": "Principal narratives completely read and frozen-R1 validation accepted/published; scorecard immutable",
+        "remaining": "Full actual bodies/ruby/residuals/images and uncodedseal before formal outcomes;17responsibilities/tenledgers/component receiving/publication. No credit from extraction.",
+        "admission_utc": "2026-10-18T20:34:30.309852+00:00",
+        "admission_sha256": "43aa5463a4d2b510fab84599429c8a2ad62241547e163cedf655fcde63541021",
+        "preceding_full_gate_source": "b274b31dfcc96932643feba27e53e1deb2dc7813"
+      },
+      "accepted_utc": "2026-10-18T21:29:15.090786+00:00",
+      "principal_P_slots": 2862,
+      "other_P_slots": 108,
+      "separate_bonus_narrative": true,
+      "bonus_P_slots": 57,
+      "nonfiction_P_slots": 51,
+      "individually_identified_bonus_narrative_groups": [
+        {
+          "id": "MASK-BONUS-ELECTRONIC-HAREM-CONSULTATION",
+          "title": "ハーレム相談はじめました",
+          "native_units": [
+            "MASK-U025"
+          ],
+          "native_member": "text/part0023.html",
+          "paragraph_slots": 57,
+          "viewpoint": "Vanir first person, exact day unassigned; holy-water stock is present",
+          "scope": "Complete separate electronic story read; actual payment/provider pressure/stance change distinguished from unperformed curse, purchase, exorcism and false rumors."
+        }
+      ],
+      "all_native_images_actually_viewed": 26,
+      "actual_textual_components": 29,
+      "reading": "10 Expanded Corpus/Masked Devil/KONOSUBA_MASK_DEEP_READING.md",
+      "register": "10 Expanded Corpus/Masked Devil/KONOSUBA_MASK_COMPONENT_REGISTER.json",
+      "receiving": "10 Expanded Corpus/Masked Devil/KONOSUBA_MASK_RECEIVING_AND_PROVENANCE.json"
     },
     {
       "source_id": "FD",

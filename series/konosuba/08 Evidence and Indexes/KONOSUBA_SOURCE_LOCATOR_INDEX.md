@@ -940,3 +940,42 @@ Native2412289bytes/SHA256`ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fb
 | CONTEXP-02-U035 | OEBPS/Text/part0033.xhtml / 0 | TERMINAL_RETAILER_BRANDING |
 
 Main2573P/bonus57P/nonfiction73P/total2703P; full ruby/residual/image scopes before uncoded seal 2026-10-18T19:51:53.347000+00:00;92selected premises/148native-joined voices/7unchanged-contract local assessments/37ten-ledger appends. Supplemental13accepted/12already publishedof19; mixed5published; global percentage null. All 35 textual units, 2,703 paragraph slots and 25 native images were actually received. Seven main bodies contain 2,573 P; the distinct electronic bonus contains 57 P, for 2,630 fiction P and 73 nonfiction P. Zero-P wrappers are inspected without extra story credit. Color profiles/teasers, contents, banners, four decorative chibis, actual scene illustrations, illustrator raster reactions, full-wrap biographies/blurb/credits and retailer logo have distinct roles. There is no integral image-only fiction body; creator raster prose is still actually read. The prior store-bonus recollection/summary is not an independent complete reading of that earlier source.
+
+
+## MASK accepted whole-edition routes — 2026-10-18T21:29:15.090786+00:00
+
+Native2895671bytes/SHA256`fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127`. [Component register](../10%20Expanded%20Corpus/Masked%20Devil/KONOSUBA_MASK_COMPONENT_REGISTER.json), [full reading](../10%20Expanded%20Corpus/Masked%20Devil/KONOSUBA_MASK_DEEP_READING.md), [88selectedpremises](../10%20Expanded%20Corpus/Masked%20Devil/KONOSUBA_MASK_HUMOR_REGISTER.md), [130voicecontexts](../10%20Expanded%20Corpus/Masked%20Devil/KONOSUBA_MASK_VOICE_REGISTER.md), [31 local assessments](../10%20Expanded%20Corpus/Masked%20Devil/KONOSUBA_MASK_EXPLORATORY_LOCAL_ASSESSMENTS.json), [current qualifications](../10%20Expanded%20Corpus/Masked%20Devil/KONOSUBA_MASK_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](../10%20Expanded%20Corpus/Masked%20Devil/KONOSUBA_MASK_RECEIVING_AND_PROVENANCE.json) control exact joins.
+
+| Unit | Native member / P slots | Actual role |
+|---|---|---|
+| MASK-U001 | titlepage.xhtml / 0 | COVER_ART |
+| MASK-U002 | text/part0000.html / 0 | REPEATED_COLOR_COVER |
+| MASK-U003 | text/part0001.html / 0 | COLOR_IRIS_COVER_AND_YUNYUN_PROFILE_QUOTES |
+| MASK-U004 | text/part0002.html / 0 | COLOR_SUCCUBUS_VANIR_LUNA_PROFILE_QUOTES |
+| MASK-U005 | text/part0003.html / 0 | COLOR_AQUA_WIZ_VANIR_PROFILE_QUOTES |
+| MASK-U006 | text/part0004.html / 0 | COLOR_CONTENTS_AND_DESIGN_CREDITS |
+| MASK-U007 | text/part0005.html / 6 | ELECTRONIC_TITLE_AND_IMPRINT |
+| MASK-U008 | text/part0006.html / 7 | ELECTRONIC_LAYOUT_AND_RIGHTS_NOTICES |
+| MASK-U009 | text/part0007.html / 13 | TEXTUAL_NAVIGATION |
+| MASK-U010 | text/part0008.html / 0 | PROLOGUE_VANIR_PORTRAIT_WRAPPER |
+| MASK-U011 | text/part0009.html / 45 | PRINCIPAL_PROLOGUE_VANIR_NARRATOR |
+| MASK-U012 | text/part0010.html / 0 | CHAPTER_ONE_YUNYUN_PORTRAIT_WRAPPER |
+| MASK-U013 | text/part0011.html / 481 | PRINCIPAL_CHAPTER_ONE_VANIR_NARRATOR |
+| MASK-U014 | text/part0012.html / 0 | CHAPTER_TWO_IRIS_PORTRAIT_WRAPPER |
+| MASK-U015 | text/part0013.html / 518 | PRINCIPAL_CHAPTER_TWO_VANIR_NARRATOR |
+| MASK-U016 | text/part0014.html / 0 | CHAPTER_THREE_LUNA_PORTRAIT_WRAPPER |
+| MASK-U017 | text/part0015.html / 587 | PRINCIPAL_CHAPTER_THREE_VANIR_NARRATOR |
+| MASK-U018 | text/part0016.html / 0 | CHAPTER_FOUR_SUCCUBUS_PORTRAIT_WRAPPER |
+| MASK-U019 | text/part0017.html / 648 | PRINCIPAL_CHAPTER_FOUR_VANIR_NARRATOR |
+| MASK-U020 | text/part0018.html / 0 | FINAL_CHAPTER_WIZ_PORTRAIT_WRAPPER |
+| MASK-U021 | text/part0019.html / 556 | PRINCIPAL_FINAL_CHAPTER_VANIR_FRAME_WIZ_PAST_VANIR_PAST |
+| MASK-U022 | text/part0020.html / 0 | EPILOGUE_PORTRAIT_WRAPPER |
+| MASK-U023 | text/part0021.html / 27 | PRINCIPAL_EPILOGUE_VANIR_NARRATOR |
+| MASK-U024 | text/part0022.html / 0 | IMAGE_ONLY_AUTHOR_AFTERWORD_NONFICTION |
+| MASK-U025 | text/part0023.html / 57 | DISTINCT_ELECTRONIC_BONUS_HAREM_CONSULTATION |
+| MASK-U026 | text/part0024.html / 4 | WEB_TO_BOOK_REVISION_AND_NEW_WRITING_PROVENANCE |
+| MASK-U027 | text/part0025.html / 5 | ILLUSTRATOR_AND_DESIGNER_CREDITS |
+| MASK-U028 | text/part0026.html / 16 | ELECTRONIC_AND_UNDERLYING_PRINT_COLOPHON |
+| MASK-U029 | text/part0027.html / 0 | BOOKWALKER_CLOSING_LOGO |
+
+Main2862P/bonus57P/nonfiction51P/total2970P; full ruby/residual/image scopes before uncoded seal 2026-10-18T21:05:47.312234+00:00;88selected premises/130native-joined voices/31unchanged-contract local assessments/27ten-ledger appends. Supplemental14accepted/13already publishedof19; mixed5published; global percentage null. All29textual units,2970P and26native images actually received. Seven main bodies2862P, separate electronic bonus57P, nonfiction51P; in addition one full image-only NONFICTION author afterword was visually read. No integral image-only fiction body. Color teasers, chapter portraits, scene illustrations, decorative chibis, logos and creator prose have separate scopes. The web-to-book provenance is not fresh complete reading of all web iterations.
