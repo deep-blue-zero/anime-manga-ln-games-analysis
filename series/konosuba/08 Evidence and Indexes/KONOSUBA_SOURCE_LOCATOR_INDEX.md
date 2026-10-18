@@ -485,3 +485,20 @@ Native SHA256`038bfc2d98f5e30853e041942805c7fe17eb8487ee33b8f18da5507f9e57e59c`,
 | TRPG-CORE-PARATEXT-01 | front matter,312-323appendix, covers/forms/colophon/platform | Individually scoped reference/visual/bibliographic matter |
 
 Ledger IDs TRPGC-CS/RS/DE/CC/HM/JV/KN/OP/SO/PV01-03 retain their subjects and printed source routes. Current qualifications:235conditional cover;062king/frog pun and reported device property;113visible殺しの魔名 but unproved phonetic pun;105written timing without establishedL3;009skepticism and085recruitment at staged plane;253advertised500Ewithout shown collection. Original75/41objects/codes, all120comic-note pages, frozen main evidence/four holdout scores/original14blanks stay retrievable unchanged.
+
+
+## TRPG-ADV accepted supplied-edition routes — 2026-10-18T05:03:55.185963+00:00
+
+Native123248665bytes/SHA256`2efe00b0a914cf725dfd8a52a1983b8f633705330054bf82b0b9e09165cd9e7c`. [All331native component rows](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_ADV_COMPONENT_REGISTER.json) bind actual wrapper/image members/hashes, reading scope,282uncoded observations and selected100/49analysis links. [Full reading](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_ADV_DEEP_READING.md), [qualifications](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_ADV_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_ADV_RECEIVING_AND_PROVENANCE.json) distinguish same-root authorship, rule discrepancies and unequal source planes.
+
+| Component range | Printed / native route | Authority and limits |
+|---|---|---|
+| Replay |010–106 / S012–108|Edited/coauthored PCs, players, GM, narrator and reported past; not main-novel events|
+| Character/growth |107–219 / S109–221|Optional personas/races/skills and revised rules; full flavor, dense table limits|
+| Headquarters |220–234 / S222–236|Rules/flavor; selected facilities/upkeep, not every proposed installation|
+| World |235–250 / S237–252|Reference/profiles/rumor/divider/marketing, not11new plot scenes|
+| GM |251–294 / S253–296|Enemy/trap guidance, authored ecology/rules and individual dense-stat limits|
+| Scenario |295–309 / S297–311|All branches/script/ending/afterplay read, unperformed|
+| Appendix/end matter |S312–331|Numeric/index inspection, empty forms, repeated cover art, colophon/retailer|
+
+Printedpage≈spine−2does not replace exact native rows, especially unnumbered art/forms/covers. SelectedU001–100/V001–049and ledgerCS/RS/DE/CC/HM/JV/KN/OP/SO/PV01–03are descriptive, not newJ01/J02orholdout trials. Croak/fortuneL3hasactualsoundwarrant;staging/gameabstractionisnotautomaticH3/H4. Sealeduncoded notes and all frozen authority/score/blank fields remain unchanged.

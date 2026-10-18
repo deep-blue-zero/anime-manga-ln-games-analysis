@@ -10812,7 +10812,7 @@
       "analytical_completion": "NOT_ESTABLISHED_BY_METADATA_MATRIX",
       "expanded_stage_C": {
         "accepted_utc": "2026-10-18T02:29:30.403076+00:00",
-        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_PUBLISHED_FULL_GATE_CLOSED_AT_STATED_COMPONENT_SCOPES",
         "source_plane": "POST_VALIDATION_EXPANDED_TRPG_ONLY",
         "native_pages_dispositioned": 333,
         "eligible_continuous_components": "Edited replay010-082+084; complete guide250-260; complete prospective scenario298-311; all eligible optional/template/flavor/example prose at declared scopes",
@@ -10823,7 +10823,13 @@
         "actual_reader_scopes": "Original all333 individual scopes; root full argument/333dispositions/75premises/41voice/30proposals and43freshnativepages, not333freshrootviews",
         "limits": "Dense numerical/index/rules-interaction certification not claimed; historical rawack stream/oldrouteproof unavailable in transport; current native333joins verified exact",
         "model_scope": "R1/66current/72historical/fourholdout scores/original14blanks unchanged; no fifthholdout or mainJ01/J02 pool",
-        "historical_metadata_fields": "Preserved unchanged; this later semantic overlay controls current acceptance"
+        "historical_metadata_fields": "Preserved unchanged; this later semantic overlay controls current acceptance",
+        "authorship_publication_state": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+        "publication_gate": {
+          "source_commit": "01d9273078ff4d836984af086c16ee8633edc0c8",
+          "closed_utc": "2026-10-18T02:47:28.322414+00:00",
+          "receipt": "09 Audits and Manifests/KONOSUBA_TRPG_CORE_EXPANDED_PUBLICATION_GATE_CLOSE.json"
+        }
       }
     },
     {
@@ -11114,7 +11120,58 @@
           "required_action": "Map exact component boundaries, locators, authorship and treatment during stage-authorized source inspection."
         }
       ],
-      "analytical_completion": "NOT_ESTABLISHED_BY_METADATA_MATRIX"
+      "analytical_completion": "NOT_ESTABLISHED_BY_METADATA_MATRIX",
+      "expanded_stage_C": {
+        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+        "actual_admission_utc": "2026-10-18T02:48:19.409431+00:00",
+        "admission_sha256": "bddebca5cad084e939ff27ff4f8b1c76c5193ebb2bb0832608b1bd0fa954bdd9",
+        "native_bytes": 123248665,
+        "native_sha256": "2efe00b0a914cf725dfd8a52a1983b8f633705330054bf82b0b9e09165cd9e7c",
+        "ZIP_CRC": "PASS_FRESH",
+        "OPF_member": "item/standard.opf",
+        "OPF_sha256": "e9372fbbee1c5bd15cd50936fe50b6b4a4bf5ced94d36ddc2335b449d52ccddf",
+        "language": [
+          "ja"
+        ],
+        "native_image_wrapper_routes": 331,
+        "preceding_full_gate_source": "01d9273078ff4d836984af086c16ee8633edc0c8",
+        "preceding_gate_sha256": "4a31ff49723a88ca56be8178c4feb2941c062465c7701d87fadf035aa04e4406",
+        "preceding_published_reload_sha256": "4ea033fe05e3b159bf5be5b61167b8d185151e92f564d8f8d7cc1e7ee571c38e",
+        "actual_reading": "All331nativepages actually viewed in source order; all eligible continuous replay/rules/flavor/reference/scenario prose read at individual scopes; dense numeric/index/form/visual limits retained.",
+        "historical_metadata_fields": "Original metadata-only no-admission state retained; this later actual admission overlay supplies current operation",
+        "remaining": "Containing exact publication/readback/fullsourceaudit/housekeeping/finalactualsourceaudit/status/freshreload before Dust03 separate admission. Dense rules/index certification and other-source completeness not asserted.",
+        "initial_admission_and_partial_progress_snapshot": {
+          "status": "SEPARATELY_ADMITTED_ALL331_ACTUAL_COMPONENT_INSPECTION_READING_ACTIVE_NOT_ACCEPTED",
+          "actual_admission_utc": "2026-10-18T02:48:19.409431+00:00",
+          "admission_sha256": "bddebca5cad084e939ff27ff4f8b1c76c5193ebb2bb0832608b1bd0fa954bdd9",
+          "native_bytes": 123248665,
+          "native_sha256": "2efe00b0a914cf725dfd8a52a1983b8f633705330054bf82b0b9e09165cd9e7c",
+          "ZIP_CRC": "PASS_FRESH",
+          "OPF_member": "item/standard.opf",
+          "OPF_sha256": "e9372fbbee1c5bd15cd50936fe50b6b4a4bf5ced94d36ddc2335b449d52ccddf",
+          "language": [
+            "ja"
+          ],
+          "native_image_wrapper_routes": 331,
+          "preceding_full_gate_source": "01d9273078ff4d836984af086c16ee8633edc0c8",
+          "preceding_gate_sha256": "4a31ff49723a88ca56be8178c4feb2941c062465c7701d87fadf035aa04e4406",
+          "preceding_published_reload_sha256": "4ea033fe05e3b159bf5be5b61167b8d185151e92f564d8f8d7cc1e7ee571c38e",
+          "actual_reading": "Ordered source-first native viewing/eligible prose reading active; admission/extraction not completion. Initial12pages acknowledged, no whole replay or edition completion. Formal codes unassigned until complete uncoded seal.",
+          "historical_metadata_fields": "Original metadata-only no-admission state retained; this later actual admission overlay supplies current operation",
+          "remaining": "All actual inspection/eligible continuous reading, uncoded seal, qualified analysis, ten ledger responsibilities, receiving and full publication gate"
+        },
+        "accepted_utc": "2026-10-18T05:03:55.185963+00:00",
+        "uncoded_seal_utc": "2026-10-18T04:44:52.985333+00:00",
+        "uncoded_observations": 282,
+        "selected_formal_premises": 100,
+        "selected_voice_witnesses": 49,
+        "ledger_appends": 30,
+        "reading_path": "10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_DEEP_READING.md",
+        "component_register": "10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_COMPONENT_REGISTER.json",
+        "receiving_record": "10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_RECEIVING_AND_PROVENANCE.json",
+        "current_qualifications": "10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_CURRENT_PRECISION_QUALIFICATIONS.json",
+        "model_scope": "Frozen66current/72historical/fourscores/original14blanks unchanged; no new fifthholdout, mainJ01/J02pool or independent reader."
+      }
     }
   ],
   "narrative_source_register": [
@@ -11719,7 +11776,7 @@
       "disposition": "NOT_ESTABLISHED_BY_METADATA_MATRIX",
       "expanded_stage_C": {
         "accepted_utc": "2026-10-18T02:29:30.403076+00:00",
-        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_PUBLISHED_FULL_GATE_CLOSED_AT_STATED_COMPONENT_SCOPES",
         "source_plane": "POST_VALIDATION_EXPANDED_TRPG_ONLY",
         "native_pages_dispositioned": 333,
         "eligible_continuous_components": "Edited replay010-082+084; complete guide250-260; complete prospective scenario298-311; all eligible optional/template/flavor/example prose at declared scopes",
@@ -11730,7 +11787,13 @@
         "actual_reader_scopes": "Original all333 individual scopes; root full argument/333dispositions/75premises/41voice/30proposals and43freshnativepages, not333freshrootviews",
         "limits": "Dense numerical/index/rules-interaction certification not claimed; historical rawack stream/oldrouteproof unavailable in transport; current native333joins verified exact",
         "model_scope": "R1/66current/72historical/fourholdout scores/original14blanks unchanged; no fifthholdout or mainJ01/J02 pool",
-        "historical_metadata_fields": "Preserved unchanged; this later semantic overlay controls current acceptance"
+        "historical_metadata_fields": "Preserved unchanged; this later semantic overlay controls current acceptance",
+        "authorship_publication_state": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+        "publication_gate": {
+          "source_commit": "01d9273078ff4d836984af086c16ee8633edc0c8",
+          "closed_utc": "2026-10-18T02:47:28.322414+00:00",
+          "receipt": "09 Audits and Manifests/KONOSUBA_TRPG_CORE_EXPANDED_PUBLICATION_GATE_CLOSE.json"
+        }
       }
     },
     {
@@ -11742,7 +11805,58 @@
         "scenarios_and_fictional_examples"
       ],
       "admission": "NOT_ADMITTED_BY_THIS_MATRIX",
-      "disposition": "NOT_ESTABLISHED_BY_METADATA_MATRIX"
+      "disposition": "NOT_ESTABLISHED_BY_METADATA_MATRIX",
+      "expanded_stage_C": {
+        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+        "actual_admission_utc": "2026-10-18T02:48:19.409431+00:00",
+        "admission_sha256": "bddebca5cad084e939ff27ff4f8b1c76c5193ebb2bb0832608b1bd0fa954bdd9",
+        "native_bytes": 123248665,
+        "native_sha256": "2efe00b0a914cf725dfd8a52a1983b8f633705330054bf82b0b9e09165cd9e7c",
+        "ZIP_CRC": "PASS_FRESH",
+        "OPF_member": "item/standard.opf",
+        "OPF_sha256": "e9372fbbee1c5bd15cd50936fe50b6b4a4bf5ced94d36ddc2335b449d52ccddf",
+        "language": [
+          "ja"
+        ],
+        "native_image_wrapper_routes": 331,
+        "preceding_full_gate_source": "01d9273078ff4d836984af086c16ee8633edc0c8",
+        "preceding_gate_sha256": "4a31ff49723a88ca56be8178c4feb2941c062465c7701d87fadf035aa04e4406",
+        "preceding_published_reload_sha256": "4ea033fe05e3b159bf5be5b61167b8d185151e92f564d8f8d7cc1e7ee571c38e",
+        "actual_reading": "All331nativepages actually viewed in source order; all eligible continuous replay/rules/flavor/reference/scenario prose read at individual scopes; dense numeric/index/form/visual limits retained.",
+        "historical_metadata_fields": "Original metadata-only no-admission state retained; this later actual admission overlay supplies current operation",
+        "remaining": "Containing exact publication/readback/fullsourceaudit/housekeeping/finalactualsourceaudit/status/freshreload before Dust03 separate admission. Dense rules/index certification and other-source completeness not asserted.",
+        "initial_admission_and_partial_progress_snapshot": {
+          "status": "SEPARATELY_ADMITTED_ALL331_ACTUAL_COMPONENT_INSPECTION_READING_ACTIVE_NOT_ACCEPTED",
+          "actual_admission_utc": "2026-10-18T02:48:19.409431+00:00",
+          "admission_sha256": "bddebca5cad084e939ff27ff4f8b1c76c5193ebb2bb0832608b1bd0fa954bdd9",
+          "native_bytes": 123248665,
+          "native_sha256": "2efe00b0a914cf725dfd8a52a1983b8f633705330054bf82b0b9e09165cd9e7c",
+          "ZIP_CRC": "PASS_FRESH",
+          "OPF_member": "item/standard.opf",
+          "OPF_sha256": "e9372fbbee1c5bd15cd50936fe50b6b4a4bf5ced94d36ddc2335b449d52ccddf",
+          "language": [
+            "ja"
+          ],
+          "native_image_wrapper_routes": 331,
+          "preceding_full_gate_source": "01d9273078ff4d836984af086c16ee8633edc0c8",
+          "preceding_gate_sha256": "4a31ff49723a88ca56be8178c4feb2941c062465c7701d87fadf035aa04e4406",
+          "preceding_published_reload_sha256": "4ea033fe05e3b159bf5be5b61167b8d185151e92f564d8f8d7cc1e7ee571c38e",
+          "actual_reading": "Ordered source-first native viewing/eligible prose reading active; admission/extraction not completion. Initial12pages acknowledged, no whole replay or edition completion. Formal codes unassigned until complete uncoded seal.",
+          "historical_metadata_fields": "Original metadata-only no-admission state retained; this later actual admission overlay supplies current operation",
+          "remaining": "All actual inspection/eligible continuous reading, uncoded seal, qualified analysis, ten ledger responsibilities, receiving and full publication gate"
+        },
+        "accepted_utc": "2026-10-18T05:03:55.185963+00:00",
+        "uncoded_seal_utc": "2026-10-18T04:44:52.985333+00:00",
+        "uncoded_observations": 282,
+        "selected_formal_premises": 100,
+        "selected_voice_witnesses": 49,
+        "ledger_appends": 30,
+        "reading_path": "10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_DEEP_READING.md",
+        "component_register": "10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_COMPONENT_REGISTER.json",
+        "receiving_record": "10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_RECEIVING_AND_PROVENANCE.json",
+        "current_qualifications": "10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_CURRENT_PRECISION_QUALIFICATIONS.json",
+        "model_scope": "Frozen66current/72historical/fourscores/original14blanks unchanged; no new fifthholdout, mainJ01/J02pool or independent reader."
+      }
     }
   ],
   "completion_gate": "Every admitted narrative source/component requires a documented disposition, all required analytical outputs validated, and explicit unresolved exclusions/gaps; metadata reconciliation alone does not close the project.",

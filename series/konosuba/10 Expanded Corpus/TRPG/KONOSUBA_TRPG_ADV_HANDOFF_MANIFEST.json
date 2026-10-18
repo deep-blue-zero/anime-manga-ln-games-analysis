@@ -1,0 +1,84 @@
+{
+  "schema": "KONOSUBA_TRPG_ADV_PRIVATE_CANONICAL_CANDIDATE_MANIFEST_V1",
+  "created_utc": "2026-10-18T05:03:55.185963+00:00",
+  "accepted_utc": "2026-10-18T05:03:55.185963+00:00",
+  "canonical_directory": "series/konosuba/10 Expanded Corpus/TRPG",
+  "files": [
+    {
+      "name": "KONOSUBA_TRPG_ADV_DEEP_READING.md",
+      "bytes": 29483,
+      "sha256": "46bb750ba40dd940ddd840a689d85fdab84137c19376bb8b82fb6e6ee4fa6d94"
+    },
+    {
+      "name": "KONOSUBA_TRPG_ADV_INITIAL_AUTHOR_UNCODED_SEAL.json",
+      "bytes": 1829,
+      "sha256": "311a0e465734dd4508b34234e11cc7b1981c25b1c957fde1f7da10fd8ee3765c"
+    },
+    {
+      "name": "KONOSUBA_TRPG_ADV_ORIGINAL_UNCODED_PAGE_NOTES.jsonl",
+      "bytes": 631994,
+      "sha256": "2e2d85c5f0616bd6444f1fe7bf4ea7e179b18e35159a2954772469dd41ad2945"
+    },
+    {
+      "name": "KONOSUBA_TRPG_ADV_ORIGINAL_UNCODED_COMIC_OBSERVATIONS.json",
+      "bytes": 47305,
+      "sha256": "579ac1dc009f27249deebb98e52f2f04bb3818d436dbea63224724268a9532bd"
+    },
+    {
+      "name": "KONOSUBA_TRPG_ADV_ORIGINAL_UNCODED_VOICE_WITNESSES.json",
+      "bytes": 23630,
+      "sha256": "0d1834ce03323d2817872038e2dc8ec09e5e2b7f80e3aa65276808110bb8c4f1"
+    },
+    {
+      "name": "KONOSUBA_TRPG_ADV_CURRENT_HUMOR_REGISTER.json",
+      "bytes": 122544,
+      "sha256": "ceebc72db533dfb8d041344bac0e4854b2e976f1dfc10dd23079a366d6794541"
+    },
+    {
+      "name": "KONOSUBA_TRPG_ADV_CURRENT_VOICE_REGISTER.json",
+      "bytes": 67129,
+      "sha256": "53a01ab8e1534d0fcf4ab87d7d5ad0a52fb8d531fbcbc2b4389b33bcf0cc7868"
+    },
+    {
+      "name": "KONOSUBA_TRPG_ADV_CURRENT_PRECISION_QUALIFICATIONS.json",
+      "bytes": 2424,
+      "sha256": "b6f2dd0062c98cd067887c7e9e60c5e2cd88f25745186bf31e2d75ba1b64e0c8"
+    },
+    {
+      "name": "KONOSUBA_TRPG_ADV_COMPONENT_REGISTER.json",
+      "bytes": 945048,
+      "sha256": "a46d71add94f4e9c539d81a887af88928c3f64b33429b42085179e0dfe469a1f"
+    },
+    {
+      "name": "KONOSUBA_TRPG_ADV_LEDGER_APPEND_DECISIONS.json",
+      "bytes": 72047,
+      "sha256": "7543ebe9aaf45e261148e52d9f6ea95569d3c9d5db7c68cab6daba212d897c80"
+    },
+    {
+      "name": "KONOSUBA_TRPG_ADV_SOURCE_AND_READING_RECEIPT.json",
+      "bytes": 2613,
+      "sha256": "068d501baee3ceb9d93824cf122a7472d0a7b66147ad9dca2df377757ceb3a6c"
+    },
+    {
+      "name": "KONOSUBA_TRPG_ADV_CURRENT_HUMOR_REGISTER.md",
+      "bytes": 39934,
+      "sha256": "b9e2d6bd3d3644fee33530878a6bb454fe1ba6103def48acf7195fbf1c338e60"
+    },
+    {
+      "name": "KONOSUBA_TRPG_ADV_CURRENT_VOICE_REGISTER.md",
+      "bytes": 20484,
+      "sha256": "80a4c2cdf13a7af46df03918cba04791884e37a4001c6379c09d07018fee5175"
+    },
+    {
+      "name": "KONOSUBA_TRPG_ADV_RECEIVING_AND_PROVENANCE.json",
+      "bytes": 10167,
+      "sha256": "9a90b88bfb8f1211e2825ba7338b8382a19cf7472d3f1820f5f0cffb62316c18"
+    }
+  ],
+  "files_excluding_this_manifest": 14,
+  "current_baseline_commit": "01d9273078ff4d836984af086c16ee8633edc0c8",
+  "native_identity_exact": true,
+  "all331native_and_local_joins_verified": true,
+  "current66_historical72_scores4_blank14_exact": true,
+  "candidate_only_until_adoption": true
+}

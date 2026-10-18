@@ -228,3 +228,18 @@ DUST-02 is accepted/published/full-gate closed at8656b8ae, actual tree407a09ca. 
 TRPG-CORE is accepted at its stated component scopes with containing publication pending: all333original native-page dispositions, complete edited replay/guide/scenario and eligible flavor,75selected premises/41voice witnesses/30ledger entries. Root received all analytical records and checked43unique nativepages, including complete250-260guide and298-311scenario. [Analysis](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_DEEP_READING.md) and [current receiving](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_RECEIVING_AND_PROVENANCE.json) retain conditional cover, resolved glyph/unproved pun, limited L3 warrant and other current qualifications. Original records/codes remain exact. Both Core overlays leave the other40objects/register entries and metadata histories unchanged.
 
 Book accounting remains2of19 supplemental editions; mixed programs are4of5accepted including this pending publication and3of5already published. Global admitted-component denominator unresolved; percentage null. No new source admission before this exact publication/readback/full gate and fresh reload. Advanced and Dust03 remain unopened.
+
+
+## TRPG Core exact publication reconciliation — 2026-10-18T02:48:16.499772+00:00
+
+Core source`01d9273078ff4d836984af086c16ee8633edc0c8`, tree`dd9f52d88bdca2507775c2403d0489233f404365` is accepted/published/full-gate closed at stated component scopes. Both source/final audits passed352fulltests with all five non-success counterszero and selectiondisabled; NO_OP housekeeping dispatched the exactfinalsource. All8335remote paths/37changedblobstreams matched. The [Core gate receipt](../09%20Audits%20and%20Manifests/KONOSUBA_TRPG_CORE_EXPANDED_PUBLICATION_GATE_CLOSE.json) closes earlier containing-pending history. Fresh published reload verified300projectstreams/66currentpins/four scores/original14blanks. Other40object/register rows and fixed41identity remain unchanged. Mixedprograms4of5published, supplemental2of19; global narrativepercentage null. Next is separate exact TRPG-ADV admission; Dust03unopened. Full program continues.
+
+
+## TRPG Advanced exact local admission — 2026-10-18T02:48:19.409431+00:00
+
+TRPG-ADV exact123248665bytes/SHA256`2efe00b0a914cf725dfd8a52a1983b8f633705330054bf82b0b9e09165cd9e7c`, freshCRC/jaOPF and331nativeimage-wrapper routes pass after Core fullgate/freshauthorityreload. Ordered actualreading active/unaccepted, first12views acknowledged; no completion/score/independence claim and no formal codes before fulluncodedseal. Both later Advancedadmission overlays preserve original metadata and other40rows. Full remaining program continues; global narrativecomponentpercentage null.
+
+
+## TRPG Advanced supplied-edition acceptance — 2026-10-18T05:03:55.185963+00:00
+
+[Advanced full reading](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_ADV_DEEP_READING.md) is accepted at331actual individual component scopes, containing publication/full gate pending. All eligible continuous bodies were read after separate exact admission and complete uncoded seal;282uncoded observations/49original context witnesses remain exact, with100selectedpremises/49formalvoice/30ten-ledger additions. All331native/archive/local wrapper-image joins were reverified; same informed root is not independent replication. Both Advanced overlays preserve initial metadata/admission histories and the other40object/register rows. Five mixedprograms accepted including this pending publication, four published; supplemental whole editions2of19; global narrative-component percentage null. Close exact gate/reload before Dust03 admission.

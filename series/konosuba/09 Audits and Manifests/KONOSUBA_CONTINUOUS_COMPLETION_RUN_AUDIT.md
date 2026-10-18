@@ -4,7 +4,7 @@ artifact_type: execution_and_source_reconciliation_audit
 scope: V11-V17 continuation and the fixed 41-object expanded-source program
 generation: V1
 status: active_provisional
-source_boundary: Local fixed41 active; Core full component analysis accepted, containing publication pending; Dust02 gate8656b8ae closed; Advanced and Dust03 unopened; frozen authority exact
+source_boundary: TRPG-ADV accepted at331individual scopes/full publication gate pending; Core gate01d92730 closed; Dust03unopened; full localfixed41 continues
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -21,8 +21,8 @@ The owner's 2026-10-16 request executes `KONOSUBA_CONTINUATION_AND_FULL_CORPUS_C
 | Execution mode | `continuous_sequential` |
 | Main-series authorized range | V11–V17 |
 | Accepted high-water mark | V17 principal and final Gen05 checkpoint; CP06/evidence freeze published and fully audited at a1539842 |
-| Current phase | Owner-resumed Stage C; Dust02/Dust01 and three mixed programs published; Core accepted at stated scopes, publication pending |
-| Next canonical operation | EXPANDED_TRPG_CORE_PUBLICATION_GATE; no new source admission until exact full gate/reload; full fixed41 program continues |
+| Current phase | Owner-resumed Stage C; Advanced accepted at331individual scopes/containing publication pending; five mixedprograms accepted/fourpublished |
+| Next canonical operation | EXPANDED_TRPG_ADV_PUBLICATION_GATE; no new source admission before exact fullgate/freshreload; Dust03unopened; fullfixed41 continues |
 | Current prospective model | Gen05 frozen through V15, original 25 blank pairs exact; formal V16–V17 8C/6P/1F/3AMB/7NT separate from accepted locals; no Gen06 |
 | Initial published continuing-branch head at reconnaissance | `0238f356ee2ade28e39aa3a940ea0e091f8211f4` |
 | Initial main at reconciliation | `53de8ba455938174a3f14f887cd33739261a4e5f` |
@@ -815,3 +815,18 @@ The entire transported initial report, all333individual semantic dispositions,75
 Core is accepted at the declared individual component scopes with [complete current analysis](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_DEEP_READING.md), original authorhistory, current30qualifications and30append decisions. Cover multiplier is conditional; glyph殺しの魔名 resolves legibility but not pun/pronunciation; graphicFireballtiming alone does not establishL3. H1diary intrusion is distinct from reportedartifactproperty, skepticalquestion from categoricalrefusal, H2recruitment from staging, advertised500E from collection. All75initial codes/41objects/originalnotes remain unchanged; no census/independenttrials/newscore. Exact current8656ledgerprefixes preserved in allten. Other40object/register/coverage rows unchanged.
 
 Main advanced1065d51c→308f4db1 with only CHARACTER_ANALYSIS_INDEX.md and characters/registry.jsonl. Ordinary merge1754e17e imports both exactmainstreams; no manual character-global edit or governance change. The containing publication must still pass exact candidate indexpreflight, owner/rulesets/freshheads, ordinarypush/fullremote readback/sourceaudit→housekeeping→final actualsourceaudit/status and fresh authorityreload. Mixedaccounting4of5accepted including pendingCore/3of5published, prose2of19, all17mainexcluded programs and StageD/finalrelease remain open; globalpercentage null. Advanced and Dust03 not opened.
+
+
+## Core full gate closed and published authority reloaded — 2026-10-18T02:48:16.499772+00:00
+
+Exact source01d9273078ff4d836984af086c16ee8633edc0c8/treedd9f52d88bdca2507775c2403d0489233f404365,8335remote paths/37changedstreams verified. Source39090702900 and final39090974804 each352fulltests/zero allfive non-success/selectionfalse; housekeeping39090951006NO_OP/exactdispatch; successful integrationstatus targets actualCorefinalrun. Fresh300project/66current/fourscore/14blank reload completed2026-10-18T02:47:31.606335+00:00 before any new source admission. [Gate receipt](KONOSUBA_TRPG_CORE_EXPANDED_PUBLICATION_GATE_CLOSE.json) closes prior pendinghistory. Next separately admit exact local TRPG-ADV; no Advanced/Dust03 body or image was opened by these publication operations. Full StageC/StageD/finalrelease program continues; globalcomponentpercentage null.
+
+
+## Advanced separate local native admission — 2026-10-18T02:48:19.409431+00:00
+
+Exact123248665byte local TRPG-ADV/SHA256`2efe00b0a914cf725dfd8a52a1983b8f633705330054bf82b0b9e09165cd9e7c`, fresh ZIP CRC/Japanese OPF/all331native image-wrapper routes verified after Core full gate and300publishedproject reload. AdmissionSHA256`bddebca5cad084e939ff27ff4f8b1c76c5193ebb2bb0832608b1bd0fa954bdd9`. Actual ordered source-first viewing and eligible prose reading now active; first12nativepages read with explicit scopes/uncoded notes. No complete replay/edition or exhaustive numeric audit, no formal L/H/voice outcomes before a completeuncodedseal, no fifthholdout/modelrescore. Other40object/register/coverage rows unchanged by this admission; currentmap controls continuation.
+
+
+## Advanced supplied-edition analytical acceptance — 2026-10-18T05:03:55.185963+00:00
+
+All331actualsource-orderpageviews/eligiblecontinuousbodies, uncodedseal beforeformal100premise/49voice/30ledgeranalysis, full17responsibilities and native331archive/localjoins are recorded in [receiving](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_ADV_RECEIVING_AND_PROVENANCE.json). Sameinformedroot/noindependentreaderornewvalidation. Initial282observations/49voiceobjects and allfrozen66/72/fourscores/original14blanks preserved. Complete Core gate receipt is included in this containing publication. Source01d92730 remains latestfullgatecloseduntil Advanced exactreadback/sourceaudit/housekeeping/finalactualsourceaudit/status/reload closes. Dust03 unopened; five mixedaccepted/fourpublished; supplemental2of19; globalpercentage null. Fullremaining StageC/StageD/finalrelease continues.
