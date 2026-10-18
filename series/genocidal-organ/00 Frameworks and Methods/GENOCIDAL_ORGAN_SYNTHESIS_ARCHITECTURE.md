@@ -5,7 +5,7 @@ artifact_type: synthesis_architecture
 series: Genocidal Organ / 虐殺器官
 series_id: genocidal-organ
 generation: GENOCIDAL_ORGAN_BOOTSTRAP_V1
-version: '0.5'
+version: '0.6'
 status: active_provisional
 scope: Synthesis architecture and reconstruction specification
 source_boundary: Original Japanese prose novel; current bounded witness frontier owned by source map and entrypoint; historical G0 admitted zero units
@@ -189,3 +189,8 @@ The new instruction separately commissions G3 on the accepted G2 boundary, with 
 | Ending in relation to prior evidence | [Ending and retrospective form](../05%20Specialist%20Synthesis/GENOCIDAL_ORGAN_ENDING_AND_RETROSPECTIVE_FORM.md): recurring protection/cost structure, private comforts and the still-future catastrophe |
 
 The role-gap review consolidates language/cognition, embodiment, technology, surveillance, consent/coercion, material circulation, personhood and political responsibility into those substantial homes rather than creating obligatory theme files. Supporting represented-mother/Alex/Leland/Rockwell/Lucius/Tzvi responsibilities have explicit bounded coverage; other subjects retain their all51 G2 dispositions. New CL089–096 make every study's central proposition recoverable in the sole claims owner. No inference from file count establishes completion. Full independent semantic review, required-source checks and cross-study reconciliation must precede the separate G3 convergence disposition; repository publication and exact-head audits remain independent. INITIAL lifecycle is retained because no cumulative ownership migration or new method is required.
+
+
+### G3 convergence disposition — 2026-10-18
+
+The [G3 convergence and readiness handoff](../07%20Audits%20and%20Handoffs/GENOCIDAL_ORGAN_G3_CONVERGENCE_AND_HANDOFF.md) now substantively reconciles the studies, strongest contrary cases, mandatory roles and supporting bounded subjects. Full independent review accepted every final artifact; attribution/citation defects and the material-circulation coverage gap were repaired before acceptance. G3 is SEMANTIC_COMPLETE with no remaining mandatory analytical/evidence obligation within GO-U001–028/all44. This disposition preserves G2 and does not infer completion from artifact count or CI. G4 is ready for a separately commissioned integrated novel argument; G5 retains the unchanged all51 eligibility/ceilings with model production NOT_STARTED and validation NOT_PERFORMED. No G4 synthesis, G5 model/test, G6 release or protected-main merge occurs here. Exact repository publication remains a separate audited transaction.

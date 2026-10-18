@@ -5,13 +5,13 @@ artifact_type: claim_revision_ledger
 series: Genocidal Organ / 虐殺器官
 series_id: genocidal-organ
 generation: GENOCIDAL_ORGAN_BOOTSTRAP_V1
-version: '0.32'
+version: '0.33'
 status: active_provisional
 scope: Claims, counterevidence, predictions and revisions ledger
 source_boundary: GO-JP-EPUB-001 through complete epilogue heading and prose; GO-U028; exclusive before spine 42 text/part0040.html
 canonical_home: series/genocidal-organ/03 Longitudinal Ledgers/GENOCIDAL_ORGAN_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md
 created: '2026-10-16'
-review_status: G3_STUDIES_SEMANTIC_ACCEPTED_CONVERGENCE_SEPARATE
+review_status: G3_SEMANTIC_COMPLETE_EXACT_PUBLICATION_SEPARATE
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -808,4 +808,4 @@ The owner separately commissioned G3 against the accepted complete-novel G2 stat
 | GO-CL095 / v1 | SUPPORTED_INFERENCE: John joins deliberate protective attachment to owned atrocity; his changed dependence and intended public atonement are real redirection without demonstrated repentance for the original life-weighing policy | G3 literary monograph C009; mediated history, avowal, action and narrator uptake separated | U013-E003–004; U016-E001–012; U021-E011–014; U022-E007–010; U026-E001–010; U027-E002–012; U028-E004/E007 | Lucia's intimate accusation supports mixed shame or origin; strategic concession remains plausible; actual disarmament/public risk defeats a simply unchanged fanatic, explicit no-regret defeats full conversion | No exhaustive private motive, offscreen implementation policy, necessary protection, appointed English successor or broad ordinary-family repertoire | OPEN; PRESERVE CL038–039/050–052/068/078/080–084; [John Paul monograph](../04%20Character%20and%20Relationship%20Studies/GENOCIDAL_ORGAN_JOHN_PAUL_MONOGRAPH.md) |
 | GO-CL096 / v1 | SUPPORTED_INFERENCE: Lucia's changing acts of address connect expertise, chosen disclosure, privacy objection and a public duty to know; her effects exceed Clavis's desired private verdict without making her an infallible conscience | G3 literary monograph C028; own decisions distinguished from Clavis projection and missing interval | U008-E002–012; U009-E008–014; U011-E010–016; U013-E001–006; U015-E001–007; U017-E006–010; U025-E007–009; U026-E008–010; U027-E004–009 | Edited-information consolation overreaches; John's motive ranking contests her diagnosis; her gun threat and acknowledged trial failure defeat idealized noncoercive guaranteed justice | No known earlier complicity/onset, verified marriage, reciprocal romance, general combat competence, pardon, posthumous endorsement or complete private policy | OPEN; PRESERVE CL031–032/034/040–047/078/082/084–085; [Lucia monograph](../04%20Character%20and%20Relationship%20Studies/GENOCIDAL_ORGAN_LUCIA_MONOGRAPH.md) |
 
-These arguments have received full-prose independent semantic review, source challenges and bounded name/reference checks. The later G3 convergence handoff separately owns cross-specialist completion, repository publication and G4/G5 readiness. Eight accepted studies do not complete G4 synthesis, G5 reconstruction or G6 release.
+These arguments have received full-prose independent semantic review, source challenges and bounded name/reference checks. The [G3 convergence and readiness handoff](../07%20Audits%20and%20Handoffs/GENOCIDAL_ORGAN_G3_CONVERGENCE_AND_HANDOFF.md) now records substantive cross-specialist completion and surviving alternatives. No G3 claim revision or unresolved mandatory evidence obligation results; CL001–096 and RV001–073 retain their current bounded states and full histories. Repository publication remains separately audited. G4 synthesis, G5 reconstruction/validation and G6 release remain unperformed.

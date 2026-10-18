@@ -5,13 +5,13 @@ artifact_type: corpus_map
 series: Genocidal Organ / 虐殺器官
 series_id: genocidal-organ
 generation: GENOCIDAL_ORGAN_BOOTSTRAP_V1
-version: '0.34'
+version: '0.35'
 status: active_provisional
-scope: Completed original-Japanese G1/G2 and owner-authorized G3 specialists and literary monographs; convergence in progress
+scope: Completed original-Japanese G1/G2 and owner-authorized G3 specialists, four literary monographs and convergence; G4/G5 readiness only
 source_boundary: GO-JP-EPUB-001 complete; GO-U001–028 through natural epilogue40/41; all44spine occurrences explicitly disposed
 canonical_home: series/genocidal-organ/CURRENT_STATE_AND_CORPUS_MAP.md
 created: '2026-10-16'
-review_status: G3_STUDIES_SEMANTIC_ACCEPTED_CONVERGENCE_PENDING
+review_status: G3_SEMANTIC_COMPLETE_EXACT_PUBLICATION_SEPARATE
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -72,9 +72,11 @@ retrospective_reconciliation:
 retrospective_specialist_work:
   authorization: OWNER_2026_10_18_G3_SPECIALISTS_AND_FOUR_MONOGRAPHS
   gate: G3
-  stage_state: STUDIES_SEMANTIC_ACCEPTED_CONVERGENCE_PENDING
+  stage_state: SEMANTIC_COMPLETE_INDEPENDENTLY_ACCEPTED
   specialist_studies: 4
   literary_monographs: 4
+  convergence: 07 Audits and Handoffs/GENOCIDAL_ORGAN_G3_CONVERGENCE_AND_HANDOFF.md
+  mandatory_g3_obligations_remaining: NONE
   admitted_boundary: GO_U001_THROUGH_GO_U028_ALL44_SAME_WITNESS
   narrative_admission: NONE
   g4: READINESS_HANDOFF_ONLY_NO_SYNTHESIS
@@ -106,9 +108,9 @@ The [complete source coverage and run handoff](07%20Audits%20and%20Handoffs/GENO
 | Required run ledger reconciliation | CLOSED within this sequential run: all84 three-owner unit dispositions,51subjects/156actor+156readiness,88directional relations,224knowledge records,88OPEN claims and69revisions reconciled; exact prior versions and live uncertainty retained |
 | Analyst forecasts | Four original forecasts retain their horizons:3SUPPORTED,1fixed-horizonUNDERDETERMINED,0open/untested; no forced terminal forecast |
 | Character readiness | Post-reading G2:2 MULTICONTEXT_CANDIDATE,6 DOMAIN_BOUNDED,43 RECOGNITION_ONLY; all51 independently reassessed for monograph eligibility/domain ceilings; all model production NOT_STARTED and validation NOT_PERFORMED |
-| Formal downstream gates | G2 accepted and merged in PR215; G3 four specialists/four monographs independently semantically accepted, cross-study convergence pending. G4/G5 readiness only; no integrated synthesis, model or validation; G6 unperformed |
+| Formal downstream gates | G2 accepted and merged in PR215; G3 four specialists/four monographs and substantive cross-study convergence independently semantically complete. G4/G5 readiness only; no integrated synthesis, model or validation; G6 unperformed |
 | Architecture | INITIAL and current three cumulative owners retained after bounded completion role-gap review; no empty specialist/model homes |
-| Repository integration | PR188 and navigation repair remain accepted. PR215 merged on 2026-10-18 at `a81103f2a9e67e36cae09a5e8365ca57a4f3e160` after the exact G2 audit chain; the new G3 work uses the same stable branch and a new draft PR. Protected-main integration remains separate |
+| Repository integration | PR188 and navigation repair remain accepted. PR215 merged on 2026-10-18 at `a81103f2a9e67e36cae09a5e8365ca57a4f3e160` after the exact G2 audit chain; the new G3 work continues on the same stable branch in [draft PR227](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/227). Protected-main integration remains separate |
 
 ## Retrospective G2: current argument routes
 
@@ -138,7 +140,7 @@ The transformed EPUB's acquisition/edition lineage and publisher-master equivale
 
 ## Next permitted operation and separately gated handoff
 
-**Next source operation: NONE.** The new owner instruction separately authorizes G3 specialists and four literary monographs against accepted G2. Their substantial arguments, counterevidence and Japanese expression are independently reviewed; cross-study convergence and its documented G4/G5 readiness handoff remain the next analytical responsibility. No G4 integrated novel synthesis, G5 behavioral model/validation, G6 release, simulation, comparison or other witness/title acquisition is authorized. The original G2 handoff is a preserved historical boundary, not the current permission statement.
+**Next source operation: NONE.** The new owner instruction separately authorizes G3 specialists and four literary monographs against accepted G2. Their substantial arguments, counterevidence and Japanese expression are independently reviewed; the [G3 convergence and G4/G5 readiness handoff](07%20Audits%20and%20Handoffs/GENOCIDAL_ORGAN_G3_CONVERGENCE_AND_HANDOFF.md) completes the assigned analytical responsibility. No G4 integrated novel synthesis, G5 behavioral model/validation, G6 release, simulation, comparison or other witness/title acquisition is authorized. The original G2 handoff is a preserved historical boundary, not the current permission statement.
 
 This root owns one prose novel. The other Project Itoh novel remains an independent source-facing context; common authorship establishes no shared fictional continuity or argument. Source payload stays outside Git, and no comparison study or global curation/governance record is authored here.
 
@@ -148,4 +150,4 @@ Live [AGENTS](../../AGENTS.md), [authority state](../../governance/AUTHORITY_STA
 <a id="go-g3-current-studies"></a>
 ## G3 current studies and convergence boundary
 
-The new instruction commissions the existing architecture's full G3 responsibilities. Read the [role-allocation review](00%20Frameworks%20and%20Methods/GENOCIDAL_ORGAN_SYNTHESIS_ARCHITECTURE.md#owner-authorized-g3-role-allocation--2026-10-18), [eight registered arguments CL089–096](03%20Longitudinal%20Ledgers/GENOCIDAL_ORGAN_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md#go-g3-specialist-arguments), [four monographs and unchanged readiness](03%20Longitudinal%20Ledgers/GENOCIDAL_ORGAN_ACTOR_RELATIONSHIP_AND_READINESS_LEDGER.md#go-g3-monograph-disposition), and [institutional dependency route](03%20Longitudinal%20Ledgers/GENOCIDAL_ORGAN_KNOWLEDGE_INSTITUTIONS_AND_COERCION_LEDGER.md#go-g3-institutional-dependencies). Those routes identify all four specialists and the Clavis/Williams/John Paul/Lucia studies without a duplicate catalog. All G1 readings/forecasts and G2 predecessor arguments remain preserved. G3 cross-study convergence/handoff remains pending this first substantive tranche's publication and exact audit chain; no G4/G5/G6 completion is implied.
+The new instruction commissions the existing architecture's full G3 responsibilities. Read the [role-allocation review](00%20Frameworks%20and%20Methods/GENOCIDAL_ORGAN_SYNTHESIS_ARCHITECTURE.md#owner-authorized-g3-role-allocation--2026-10-18), [eight registered arguments CL089–096](03%20Longitudinal%20Ledgers/GENOCIDAL_ORGAN_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md#go-g3-specialist-arguments), [four monographs and unchanged readiness](03%20Longitudinal%20Ledgers/GENOCIDAL_ORGAN_ACTOR_RELATIONSHIP_AND_READINESS_LEDGER.md#go-g3-monograph-disposition), and [institutional dependency route](03%20Longitudinal%20Ledgers/GENOCIDAL_ORGAN_KNOWLEDGE_INSTITUTIONS_AND_COERCION_LEDGER.md#go-g3-institutional-dependencies). Those routes identify all four specialists and the Clavis/Williams/John Paul/Lucia studies without a duplicate catalog. All G1 readings/forecasts and G2 predecessor arguments remain preserved. The [G3 convergence/readiness handoff](07%20Audits%20and%20Handoffs/GENOCIDAL_ORGAN_G3_CONVERGENCE_AND_HANDOFF.md) independently disposes cross-study consistency, nonredundancy, mandatory-role coverage, actual defects and surviving alternatives. No mandatory G3 analytical/evidence obligation remains. G4 integrated synthesis, G5 models/validation and G6 release remain unperformed; their readiness is not completion. Exact publication acceptance remains bound to the actual final source/HK/audit SHA rather than inferred from this prose.
