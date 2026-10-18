@@ -834,3 +834,238 @@ Source plane: designated supplemental holdout DUST-06, exact EPUB SHA256 `d533fc
 | VB-DUST06-CC02 | Line; old couple; Yunyun; outside providers | C02P286–326/333; C01P489–495/558–573; C03P195–206/403–406 | E1/E5; HIGH actual requests/provision, motive bounded | An available couple accepts finite dragon shelter and supplies a room after a rest request. Washing/drying, bill-shortfall help and expiry-warning/recast are real dependency responses. Broad future assistance, unperformed divination, compensation and repayment remain unshown. | E03/E07 bounded C; moral approval, universal immediate care, unlimited resources and mandatory Kazuma coordination are not implied. |
 
 Complete separate principal passes and sealed initials precede coordinated receiving; source-first inventories are not trial denominators. External factual/routing corrections preserve every original. Actual source admission, reading, validation acceptance, full-edition literary coverage and publication remain separate. No new source/body/image or expanded model revision follows from this appendix.
+
+
+## Phase B DUST07 frozen-model validation overlay — CC
+
+Source plane: designated supplemental holdout DUST-07, exact EPUB SHA256 `cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5`, five admitted principal members only. Outside V01–V17 derivation; no frozen R1 model, original 43-contract registry, Gen01–05 history or prior holdout score changes. Acceptance UTC: `2026-10-17T21:16:29.555881+00:00`. Native one-based all-body routes and identity are defined by the [withheld validation](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_WITHHELD_SOURCE_VALIDATION.md). The complete prior ledger remains an exact prefix; main-only historical states remain retrievable at 3b92. Comparative Dust focal access is explicitly separate from Kazuma narration.
+
+| Stable observation ID | Subject | Exact DUST07 context/locator | Evidence class / confidence | Bounded observation | Claim transition / remaining limit |
+|---|---|---|---|---|---|
+| VB-DUST07-CC01 | Dust; party | ProP3–35; C01P211–220/477–501/868–894; C02P689–713/758–842 | Observed act/report/private Dust appraisal separately identified; HIGH wording/order, MODERATE functional cause | Unfamiliar sword spacing differs from old spear skill and current recovery. Ordinary-party Decoy/flank/arrows/Fireball really combine, while shield/shot/spell failures against the commander persist. | Ability is domain-, tool- and opponent-sensitive; local fitted attempts support E01 without proving every phase succeeds or any particular quartet is necessary. |
+| VB-DUST07-CC02 | Wiz; Vanir; Rolyssa; Taylor | C02P227–264/476–568/617–644; C03P96–129/478–553 | Observed act/report/private Dust appraisal separately identified; HIGH wording/order, MODERATE functional cause | Lich/holy-dragon incompatibility, discreet-role terms, finite mana, accepted misinformation/abort scope, paid beams and a borrowed damaged shield constrain actual available resources. | Availability, permission, technical capacity, actual attempt and final result are separate. Initial imposed transport is not legitimized by later accepted work; no whole-campaign substitution from a local phase. |
+| VB-DUST07-CC03 | Dust; Leen; Fatefore; distant main party | C03P538–633/637–642 | Observed act/report/private Dust appraisal separately identified; HIGH wording/order, MODERATE functional cause | Accepted roles, borrowed shield, pact resistance and Leen’s vulnerability precede aerial choices. Breath channels a cold strike; unexpectedly strong freezing leads Dust to infer distant King defeat before a weak-scale attack. | Actual combination plus changed enemy world state; no sole-caster victory, guaranteed prior safety or direct newly observed Kazuma combat. Enemy final death is not explicitly established by falling/retreat. |
+
+Complete separate principal passes and sealed initial assessments precede coordinated receiving. Every original label and attributable correction remains preserved; no statistical independence, new J02 census or native-human/acoustic certification. Full edition/component analysis, current-model revision and this containing publication gate remain separate.
+
+
+## Stage C DUST-01 expanded-source overlay — CC
+
+Source: Japanese DUST-01, SHA256 `b77ac48f67168395c1437f23b2360f1a833311aba5a8d7177866a93d572c3644`; nine complete principal members, separately analyzed bonus and edition components. Acceptance recorded `2026-10-17T22:53:08.846506+00:00`. Routes use the one-based all-body P convention in [Dust V01](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V01_DEEP_READING.md), §16; bonus routes use p-012.xhtml P1–52. This separately tagged expanded plane preserves the complete prior ledger as an exact prefix and does not amend main-only historical states, R1, Gen01–05 or four-book scores.
+
+| Stable observation | Subject / context | Source route | Evidence / confidence | Accepted bounded finding and claim transition |
+|---|---|---|---|---|
+| EC-DUST01-CC01 | Dust; Mitsurugi: domain and present state | C02P132–135; FinalP759–801 | Private appraisal and action; HIGH text, bounded inference | Dust recognizes Mitsurugi’s considerable ability and his own drunken disadvantage, explicitly not an unconditional sober ranking. Later spear success establishes learned domain ability without universal superiority. |
+| EC-DUST01-CC02 | Institutional providers and timing | C04P512–539; C05P235–303/511–569; I01P3–49; FinalP315–380/571–655 | Observed operation and contract terms; HIGH sequence | Detection, false-police intervention and rescue depend on other providers, geometry and actual terms. Winning shop defense does not itself secure a usable time-limited reward; coordination is not guaranteed compliance. |
+
+All substantive routes resolve through the complete reading and separate edition analysis; source-safe selected records preserve speaker/addressee and uncertainty. Expanded observation, main-model revision, exact-head publication and whole-corpus completion are distinct.
+
+
+## Stage C artbook component overlay — CC — 2026-10-17T23:27:29.977226+00:00
+
+Sources: ART-CHEERS SHA256 `fb0e29a264b37acb5f8b24cdcbb7be3d343898d0bf7ef61bf4f62a1ce85532ea` and ART-BLESSING SHA256 `12854d8c71ad700cd177d2928250786034f7928a938416c5846dfede9c75b37c`. [Cheers](../10%20Expanded%20Corpus/Artbooks/KONOSUBA_CHEERS_COMPONENT_AND_LITERARY_ANALYSIS.md) and [Blessing](../10%20Expanded%20Corpus/Artbooks/KONOSUBA_BLESSING_COMPONENT_AND_LITERARY_ANALYSIS.md) give complete supplied-component routes and actual reader/receiving limits. Expanded evidence only; main-only frozen histories, R1, Gen01–05, original blanks and four-book scorecards stay unchanged. The entire prior ledger is an exact prefix.
+
+| Stable observation | Named subject | Exact source context / route | Evidence class / confidence | Accepted bounded finding | Claim transition / limit |
+|---|---|---|---|---|---|
+| EC-ARTBOOKS-CC01 | Yunyun; Megumin; Kazuma; Aqua; Darkness | CHEERS printed121/B3–122/B2 | Observed spell/count/resource states; HIGH | One contest: Yunyun cumulative9then16 and actual mana exhaustion; Megumin’s one Explosion follows gathered targets and supplied mana. No exclusive operator claim from provider, exact Megumin kill count absent. | EXPAND domain/resource/cooperation decomposition; nominal title ≠ independent global rank. |
+| EC-ARTBOOKS-CC02 | Aqua; Yunyun; Megumin; Darkness | BLESSING S145–147 | Observed rescue/weather/cast-stop/work roles; HIGH | Yunyun rescues swallowed Aqua and transiently shrinks the cloud; Megumin stops unsafe plan then provides crater, Aqua water, Yunyun cancellation and Darkness diversion. | EXPAND distinct situational successes without perfect consensual coordination or universal failure. |
+
+
+## Stage C Memorial Fanbook overlay — CC
+
+Source: FAN-MEM, SHA-256 `e08725fc99cebadd52f93d05122de36d4ae39b435d0d993c41b068b127ebb32d`, electronic 2020-04-01 ver.001. The [complete analysis](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_AND_LITERARY_ANALYSIS.md), [register](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_REGISTER.json) and [receiving](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_RECEIVING_REVIEW.md) retain exact native routes, unequal authority and reading limits. Snnn is the one-based native spine identity. This separately tagged expanded plane preserves the entire prior ledger and does not replace a frozen checkpoint, R1, Gen01–05 or score history.
+
+| Stable observation | Named subject/context | Source window | Evidence/confidence | Accepted finding | Claim transition/limit |
+|---|---|---|---|---|---|
+| EC-FAN-CC01 | Yunyun, Darkness, Chris and Wiz | S099 upper prose, complementary invasion | H1 performed spell, front, trap and fire work; high confidence | Their distinct roles combine into an effective party. Chris’s low class does not erase demonstrated trap competence. | EXPAND domains and lineup effects; do not create an unconditional strength ranking. |
+| EC-FAN-CC02 | Aqua’s clothing; editorial capacity | S072 fashion reference, FM-H07 qualification | Reported capacity; H not applicable to a new performed behavior | Poison, status and wound protection differ from pain and cold. The local reference is not a newly performed injury trial. | QUALIFY the original selected H1 applicability; no main-only result changes. |
+
+These are two analytical responsibilities, not independent repeated trials. The complete reader read all 121 pages; root sealed an initial 37-page pass, then checked five further pages during coordinated receiving. Shared-lineage limits and all current qualifications apply. Publication remains a separate gate.
+
+
+## Stage C — Dust02 whole supplied edition: competence context
+
+Source DUST-02; principal p002-p008 plus separately admitted bonus p010 and edition components. The [whole-edition receiving record](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V02_RECEIVING_AND_PROVENANCE.json) preserves full source/reader scopes, both original seven-question proposals, current root dispositions and exact precision history. This appends to the current published ledger; every earlier byte remains an exact prefix. Main-only R1, Gen01-05, original forecasts/blanks and four scorecards stay unchanged. Stage D model revision remains later work.
+
+The producer supplied91 principal append proposals against the exact earlier0ce33a0f baseline. Root received all91; this ledger adopts the relevant scoped observations with current qualifications, then adds one separately identified bonus observation. These are responsibilities and dependent evidence routes, not independent trials.
+
+### DUST02-CC01 — Aqua: repair and artwork are distinct
+
+Inter-world call plus friends’ report supplies resurrection/repair; water drawing is directly shown.
+
+Source: C01P142/178–186/202–207. Dust did not witness every bodily repair stage while dead; artistic ability is not merely inferred from divinity.
+
+Transition: PRESERVE. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-CC02 — Recruiting for actual role fit
+
+Defense, one-shot power, healing and tagalong management create different deployment costs.
+
+Source: C02P299–448. Valid role concerns coexist with hostile interview and deception; no blanket ranking or rejection theorem.
+
+Transition: STRENGTHEN. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-CC03 — Yunyun repertoire and readiness
+
+Strong multi-spell combat capacity coexists with later imposed inability to stay awake; the final recovered caster removes two legs.
+
+Source: C02P573–590/621–650; FinalP211–215/530–531. Temporary readiness loss is not absence of learned capacity.
+
+Transition: STRENGTHEN. Confidence: HIGH. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-CC04 — Small’s actual combat contribution
+
+Actual Sleep halts goblins; further Paralyze availability is reported rather than a separately depicted cast.
+
+Source: C02P641–656. Retain distinct actual versus available actions.
+
+Transition: STRENGTHEN. Confidence: HIGH. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-CC05 — Dragon handling is incompletely observed
+
+Dust’s calm reading and detailed retreat instructions are observed; sword extraction is his later report.
+
+Source: C02P755–811. No full duel, kill, solo pacification mechanism or identity confirmation is supplied.
+
+Transition: OPEN. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-CC06 — Chris’s institutional access
+
+Seal and specific conversation obtain information after initial restricted access.
+
+Source: C04P76–118. Method-specific success, not proof all divine powers are available in this form.
+
+Transition: STRENGTHEN. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-CC07 — Care transport has a capacity limit
+
+Dust can carry three slowly but recognizes collapse exceeds his solo evacuation speed; recruits three actual carriers with agreement.
+
+Source: FinalP223–250/430–449. Alternative provider arrangement is not raw strength sufficient for every phase.
+
+Transition: STRENGTHEN. Confidence: HIGH. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-CC08 — Actual spear action and electrical handoff
+
+Restraints and leg removal enable Dust’s spear placement; continued resistance leads to Leen’s instructed Lightning and actual destruction.
+
+Source: FinalP521–546. No solo or first-hit kill; source does not confer general engineering expertise.
+
+Transition: REVISE. Confidence: HIGH for sequence. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-CC09 — Shield/bow specialist limits
+
+Keith’s arrow places ropes and Taylor protects the casters while explicitly warning of limited endurance.
+
+Source: FinalP521–529. Actual effectiveness and limited margin coexist; no unlimited tank function.
+
+Transition: PRESERVE. Confidence: HIGH. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-CC10 — A domain assessment is a report
+
+Taylor calls Keith and Dust capable and Leen dependable. Kazuma describes coordination difficulty with his own group; Taylor explicitly lacks experience with that group.
+
+Source: Bonus P53-56. Preserve speaker, audience and unequal access. These utterances do not become independent new abilities or action failures by absent characters.
+
+Transition: PRESERVE. Confidence: HIGH for utterances.
+
+Root precision: C03P149/P156-176/P420-424 is direct adverse evidence for N01; no outside perpetrator or moral-acknowledgment condition is added. N02’s observed help exceeds the strength of its inferred tenderness mechanism. Final377-379 comments remain unnamed; Small’s366 protest is the identified turn. Final pullers are three recruited former criminal men. Toy purchase precedes the later thanks/guilt/giving. These limits apply across the appended responsibilities. Publication is a separate gate and Dust03 remains closed until it closes.
+
+
+## Expanded TRPG-CORE received observations — 2026-10-18T02:29:30.403076+00:00
+
+Whole supplied edition accepted at its stated component scopes; containing publication pending. [Complete analysis](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_DEEP_READING.md), [current qualifications](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_CURRENT_QUALIFICATIONS.json) and [all initial/current append decisions](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_LEDGER_APPEND_DECISIONS.json) control these three rows. Edited replay, second-person guide, prospective scenario, optional templates, teaching balloons and references retain unequal authority. No frozen-model/score change, independent trial or main-J01/J02 count.
+
+| ID | Subjects and native printed source route | Observation | Causal/model implication | Authority/adverse limit |
+|---|---|---|---|---|
+| TRPGC-CC01 | Replay distributed party; 049–060,068–078 | Light, furniture, bath expertise, purification, cover, shield, costly magic and offense solve different phases; some misses and losses persist. | Shared success is nonadditive and conditional on local role/resource handoffs. | No universal necessary coordinator, main-party replacement or equal competence across tasks; GM exceptions separately identified. |
+| TRPGC-CC02 | GM-adjudicated mechanics; 043,055–056; skill168; cover235; recovery084 | Cover from inside a frog and fishless-pool Fishing are local permissions. Standard cover doubles final HP damage only if the same attack also hit the coverer; successful coverer evasion receives normal cover processing. Postscenario recovery is distinct from in-combat healing. | Narrow actual mechanics support the local account without becoming universal novel physics. | Printed235 controls the conditional multiplier after defense. Covering/other skill exceptions need their own text; all-page inspection is not exhaustive numeric/cross-rule certification. RootRQ01. |
+| TRPGC-CC03 | Optional cheats and class adaptation; 132,169,194–202 | Basic classes in this game do not simply repeat novel acquisition gates; optional powers carry social, monetary, timing and resource costs. | Strong names do not prove limitless or identical novel capabilities. | Pain-derived defense does not imply consent, goddess cheat does not require a female PC, and a skill prerequisite is not waived by faith. |
+
+
+## Expanded TRPG-ADV received observations — 2026-10-18T05:03:55.185963+00:00
+
+Whole supplied edition accepted at its individual actual reading scopes; containing exact publication/full gate pending. [Full reading](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_ADV_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_ADV_LEDGER_APPEND_DECISIONS.json), [qualifications](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_ADV_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_ADV_RECEIVING_AND_PROVENANCE.json) control these additions. Same informed root AI; replay, rules/flavor, reference, optional personas, divider and unperformed scenario remain distinct. No frozen R1/score/blank-field revision or new independent trial.
+
+| ID | Subjects / printed source route | Observation | Implication | Authority and adverse limit |
+|---|---|---|---|---|
+| TRPGA-CC01 | Replay distributed battle roles; 045-052,060-070,091-103 | Haste/name-adjudicated turn control, poison, shields, cover, identification, scrolls and high ice output solve different phases, with fumbles and consumable/weapon costs retained. | Competence depends on build, target, timing, role combination and resource expenditure. | Printed outcomes are local examples, not exhaustive arithmetic/balance certification. Initiative overwrites do not stack; high output does not guarantee a kill. |
+| TRPGA-CC02 | Replay Gilbert conditional support; 062-068,078,094,100-101 | Gilbert fumbles a blessing and fails exorcism while joking about nonfrog motivation, yet later heals Oto30, shields allies and successfully blesses decisive attacks. | Motivational bias and genuine support capacity coexist; failure cannot erase later valid aid. | No universal nonfrog inability, doctrine-driven automatic success or repaired failed roll.悪役の迫力 is distinct from邪神の刻印. |
+| TRPGA-CC03 | Replay Oto protection and rule boundaries; 049-050,069-070,095-097,102-103 | Oto covers companions and the house despite personal evasion; the account explicitly gives one residual doubled to2 and later41 doubled to82 while surviving. | Personal fear, actual defense, shields, timing and costs must be modeled separately. | These local results do not certify every cover multiplier or named-skill interaction. No actual death-return in this finale; dense rule discrepancies remain unresolved. |
+
+
+## Expanded DUST-03 received observations — 2026-10-18T06:18:22.445096+00:00
+
+Whole supplied edition accepted at declared fiction/component scopes; containing exact publication/full gate pending. [Full seventeen-responsibility reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_LEDGER_APPEND_DECISIONS.json), [seven unchanged-question local assessments](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_EXPLORATORY_LOCAL_ASSESSMENTS.json), [qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_RECEIVING_AND_PROVENANCE.json) control these additions. Same continuing informed root, with known later principal exposure; no independent reader, new main validation cohort or acoustic claim. Frozen R1/66current/72historical/four scores/original14blank future fields remain exact. Direct contrary conduct, actual checking, missing full triggers and distinct provider agreements remain visible.
+
+| ID | Subjects / native route | Observation | Implication | Authority and adverse limit |
+|---|---|---|---|---|
+| DUST03-CC01 | Relevant physical conditions; U013:P0131–0169/0208–0247 | Claire's sword technique and noble level do not supply the missing metal armor; Yunyun's actual spell rescues the caught guards. | Capacity, equipment and field knowledge are separate inputs to effective action. | Dust's correct warning and offer do not erase his later obstruction. No class label guarantees safety. |
+| DUST03-CC02 | Discovery and recruited means; U013:P0589–0617;U014:P0240–0344 | Leen finds the hidden stairs from observed detail and dust; the final plan needs borrowed armor, helper rumors, a partial map and former etiquette. | Credit concrete inputs and their actual suppliers rather than attributing all useful means to Dust's genius. | Providers have differing knowledge. Agreement to assist is not approval of every consequence; outcomes are bounded, not safe total execution. |
+| DUST03-CC03 | Different actor strengths; U011:P0574–0587;U013:P0147–0204;U014:P0103–0132;U017:P0032–0039 | Yunyun clears encounters; Rein manages diplomacy but lacks local field knowledge; Iris handles duty and checks the supposed envoy afterward. | Use domain- and information-dependent competence rather than globally competent/foolish labels. | No exhaustive ability/rule certification. Dust's novel-based generalized appraisals and reports remain attributed. |
+
+
+## Expanded DUST-04 received observations — 2026-10-18T07:29:49.102050+00:00
+
+Whole supplied edition accepted at declared scopes; containing exact publication/full gate pending. [Full seventeen-responsibility reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_LEDGER_APPEND_DECISIONS.json), [seven unchanged-question local assessments](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_EXPLORATORY_LOCAL_ASSESSMENTS.json), [qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_RECEIVING_AND_PROVENANCE.json) control these additions. Same continuing informed root with known later principal exposure; no independent reader, new main validation cohort or acoustic claim. FrozenR1/66current/72historical/four scores/original14blank fields remain exact. Actual protective costs, coercive choices, incomplete conjuncts, correct checking and provider terms remain visible.
+
+| ID | Subjects / native route | Observation | Implication | Authority and adverse limit |
+|---|---|---|---|---|
+| DUST04-CC01 | Actual supplied means and changed matchups; U013:P0287–0328/0332–0378/0403–0443 | Small brings keys through species-specific access, Zesta casts outside the cell and heals, Dust attracts selective spells and uses a supplied spear after sword failure. | Capacity depends on location, enemy, reach, equipment and provider contribution, with actual coordination. | The wound is serious, the spear throw dangerous, a demon escapes and the first cell searches failed. No effortless solo success or blanket class-rank advantage. |
+| DUST04-CC02 | Information and institutional rearrangement; U011:P0341–0528;U012:P0735–0755/1048–1070;U014:P0339–0404 | Vanir and collaborators support a real retaliatory arrangement, Axis extortion fails, local guards stop the planned intrusion and an agreed rule converts the forecast draw. | Credit attempts to change information, incentives and deployment while evaluating execution separately. | Restaurant pass, explicit provider purposes and Revi's rule agreement are concrete. Collateral harm and coercion remain; no ethical-approval condition is invented for the tactical question. |
+| DUST04-CC03 | Other actors' practical strengths; U011:P0131–0240;U012:P0088–0098/0271–0281/0490–0525;U014:P0147–0155 | Yunyun refuses and blocks, Taylor checks wording, Leen supplies the target's optics counterexample, Keith actually sees what Dust cannot and Small explains stranger knowledge. | Distribute discovery and task competence to the actual supplier. | Strong useful acts do not delete Taylor's loss, Keith's envy/fainting, Leen's misinformed wager or Small's coerced exposure. No unseen role is manufactured. |
+
+
+## Expanded DUST-05 received observations — 2026-10-18T09:04:10.135762+00:00
+
+Whole supplied edition accepted at declared scopes; containing exact publication/full gate pending. [Full17responsibility reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_LEDGER_APPEND_DECISIONS.json), [7unchanged-question assessments](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_EXPLORATORY_LOCAL_ASSESSMENTS.json), [29qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_RECEIVING_AND_PROVENANCE.json) control uptake. Same informed continuing root/known later principal exposure; no independent reviewer or new main score/audio claim. Frozen66/72/fourscores/original14blanks exact. Earlier [Dust04 additive coercive-scope correction](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_N01_COERCIVE_DANGER_PRECISION.json) remains current: coercive danger needs no bodily-injury threshold, and earlier direct contraries remain.
+
+| ID | Subjects / native route | Observation | Implication | Authority and adverse limit |
+|---|---|---|---|---|
+| DUST05-CC01 | Formation, providers and geometric action; U011:P0793–0820;U012:P0372–0458/0611–0621 | Dust distributes monster fronts, recruits party/Yun, buys Vanir location, needs Small's flight, accepts group accommodation and changes fire angle for Leen. | Capacity is equipment/provider/position dependent and useful rearrangement can have real bodily cost. | Spear absent; no solo effortless class dominance. Manager permission not Small agreement, first searches fail, final flame burns and earlier claw seriously wounds. |
+| DUST05-CC02 | Bounded investigative completion; U011:P0932–1158;U012:P0493–0497/0625 | Symptom link and stock routes support actual recovery paid by two clients, but remaining forest stock is bitten and child corroborates eating it. | Task acceptance, tactic effect, remaining material and affected people require separate completion states. | No shown total forest cleanup or existing victim cure; helpers collapse from effort. Fantasy ingredient effects are in-world claims, not real medical guidance. |
+| DUST05-CC03 | Reciprocal contract and actual altered capacity; U011:P0807–0820;U012:P0465–0534/0611–0686 | Linked symptoms/emotions and unusual power precede explicit near-partner contract explanation and past reciprocal rescue. | Power has relational conditions and can transmit disturbance as well as enable protection. | Not isolated mechanics experiment; initial harmlessness assurance is falsified. Past weapon break/dragon rescue are memories, current spear missing, Leen acts under less knowledge. |
+
+
+## Expanded DUST-06 received observations — 2026-10-18T10:04:53.783186+00:00
+
+Whole supplied edition accepted at stated scopes; containing publication/full gate pending. [Full seventeen-responsibility reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_LEDGER_APPEND_DECISIONS.json), [seven unchanged-question assessments](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_EXPLORATORY_LOCAL_ASSESSMENTS.json), [34 qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_RECEIVING_AND_PROVENANCE.json) control uptake. Same informed continuing root/known earlier principal exposure; no independent reviewer or new main score/audio claim. Frozen66/72/four scores/original14blanks exact. Prior Dust04 additive coercive-scope correction remains current: no bodily-injury threshold and no later-success repair of earlier contrary evidence.
+
+| ID | Subjects / native route | Observation | Implication | Authority and adverse limit |
+|---|---|---|---|---|
+| DUST06-WHOLE-CC01 | Weapon availability and temporal constraints; U011P0542–0544/0817–0837/1008–1019;U012P0213–0226;U013P0234–0254/0558–0602 | Past practice/escape predate vow; worm makes waist sword inaccessible; princess then former knights supply spears during current protection, coupled with provider intervention. | Condition performance on actual equipment, vow timing, geometry and helpers. | No automatic incapacity from nonuse or full rank hierarchy from final win; current exception allows another truly protected person. |
+| DUST06-WHOLE-CC02 | Distributed retrieval plan; U013P0394–0475/0532–0602 | Yun gate idea fails, princess provides split/map, three helpers distract, child transforms, Small prearranged spell follows finger signal and dragons safely land riders. | Credit all actual planning/providers and distinguish unsuccessful attempt, access, execution and recovery. | Not Dust solo invention, no H3 merely from spectacle comment; recruitment false facts and initial force/food inducement remain costs. |
+| DUST06-WHOLE-CC03 | Changing opponent options with side effects; U011P0817–0837;U012P0237–0258;U013P0174–0254 | Covered sweep changes crowd escape, exclusive fake prize accelerates rescue, hostage-value lie removes capture motive but creates kill risk, spear planting exploits rush. | Rearrangement is a capacity with possible adverse side effects, not safe total success. | No invented ethical conjunct in N06; forced/misled providers and worsening mortal threat remain, final independent death check absent. |
+
+
+## Expanded DUST-07 received observations — 2026-10-18T11:33:04.335402+00:00
+
+Whole supplied edition accepted at stated scopes; containing publication/full gate pending. [Full seventeen-responsibility reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_LEDGER_APPEND_DECISIONS.json), [seven unchanged-question assessments](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_EXPLORATORY_LOCAL_ASSESSMENTS.json), [44 qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_RECEIVING_AND_PROVENANCE.json) control uptake. Same informed continuing root/known earlier principal exposure; no independent reviewer or new main score/audio claim. Frozen66/72/four scores/original14blanks exact. Prior Dust04 additive coercive-scope correction remains current: no bodily-injury threshold and no later-success repair of earlier contrary evidence.
+
+| ID | Subjects / native route | Observation | Implication | Authority and adverse limit |
+|---|---|---|---|---|
+| DUST07-WHOLE-CC01 | Actual checks and equipment constraints; U010P0009–0028;U011P0361–0376/0491–0507/0835–0840/1072–1077;U013P0538–0558 | Sword adaptation, informed spear disposal, load question, tip failure/repair and shield/contract resistance constrain performance. | Model real weapon access, condition, partner assent and recipient vulnerability before comparative competence. | Tip failure cause unverified; repaired delivery precedes actual function use. Shield shock real, Leen not fire-immune, no universal solo rank. |
+| DUST07-WHOLE-CC02 | Information, materials and formation; U011P0525–0705;U012P0158–0224/0694–0709;U013P0233–0254/0482–0630 | Abort uncertain attack, arrange guided scouts, choose actual sight skill, baseline leveling, shield-front/rear/spell roles, retained yam and final fire/cold/angle redistribute options. | Credit actual attempted rearrangement and all providers rather than attributing every plan/outcome to Dust alone. | Reported tour efficacy unisolated; unethical deception/force remain costs but N06 has no ethical-purity conjunct. Main victory is inferred favorable context, not planned solo cause. |
+| DUST07-WHOLE-CC03 | Actual failure and chance; U012P0821–0890;U013P0425–0439/0608–0647 | Winning stab deliberately traps Dust, feigned Dullahan death freezes only briefly and town breached; known costly spells exhaust Wiz, unexpected cold efficacy later creates opening. | A useful competence model must predict failed premises, resource limits, reactive rescue and opportunistic learning. | No flawlessly executed master plan, magical victory-flag curse or permanent commander-death claim; Rouzeri final death not checked. |
+
+
+## Expanded DUST-CONT received observations — 2026-10-18T12:45:50.687643+00:00
+
+Whole supplied edition accepted at stated scopes; containing publication/full gate pending. [Full seventeen-responsibility reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_LEDGER_APPEND_DECISIONS.json), [seven unchanged-question assessments](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_EXPLORATORY_LOCAL_ASSESSMENTS.json), [45 qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_RECEIVING_AND_PROVENANCE.json) control uptake. Same informed continuing root with known main/four-holdout and prior numbered Dust exposure; this separately admitted continuation receives no pristine blind-test claim. No independent reviewer or new main score/audio claim. Frozen66/72/four scores/original14blanks exact. Prior Dust04 additive coercive-scope correction remains current: no bodily-injury threshold and no later-success repair of earlier contrary evidence.
+
+| ID | Subjects / native route | Observation | Implication | Authority and adverse limit |
+|---|---|---|---|---|
+| DUSTCONT-WHOLE-CC01 | Distributed actual means; U010P0353–0380;U012P0436–0510;U013P0047–0193;U014P0437–0507 | Keith escort, Leen performance/screen, Small route/map/night vision/lure, Taylor procedure/spear, child turn/fire and observed Axis water actually enable results. | Assign competence to particular providers, availability, terms and geometry instead of Dust sole ownership. | Staff source borrowed-or-stolen unknown, magic damage fails but screen works, direct spear bounces; provider agreement and coercive costs retained, no class-rank theorem. |
+| DUSTCONT-WHOLE-CC02 | Failed recovery and actual surprise; U013P0291–0300/0455–0531;U014P0292–0337/0509–0573 | Shared senses exposes team, rescue assumption fails, resident doctor/extra guards defeat ruse, huge true form destroys church, spear snags and princess finally intervenes. | Attempted rearrangement includes failure, collateral, chance and nonlethal capacity limits. | No flawless master plan, unknown senses not earlier accessible cue, doctor predictable context remains; actual no hostage taken/final kill not claimed, Dust incapacitated2days. |
+| DUSTCONT-WHOLE-CC03 | Identity restraint, weapon and permission; U010P0459–0460;U011P0202–0221/0458–0467;U014P0199–0206/0410–0444 | Sword still loaned, active hood/ring/privacy, forced old-name exposure and new hostage threat precede supplied spear/current protected battle. | Condition unusual capacity on actual means, audience and precise existing vow exception. | No admiration-only breach or new job-card restoration; public child form actually atP428. Older unknown witness not filled, current successful joint fire-spear not universal safe superiority. |
+
+
+## Expanded EXP-01 received observations — 2026-10-18T14:03:27.763693+00:00
+
+Whole supplied edition accepted at stated scopes; containing publication/full gate pending. [Full seventeen-responsibility reading](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_LEDGER_APPEND_DECISIONS.json), [7 unchanged-contract local assessments](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_EXPLORATORY_LOCAL_ASSESSMENTS.json), [42 qualifications](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_RECEIVING_AND_PROVENANCE.json) control uptake. Same informed root after main17, four holdout principals, mixed sources and eight complete Dust supplied editions; no pristine blind or native-human claim. Main R1 remains frozen. No independent reviewer or new main score/audio claim. Frozen66/72/four scores/original14blanks exact. Prior Dust04 additive coercive-scope correction remains current: no bodily-injury threshold and no later-success repair of earlier contrary evidence.
+
+| ID | Subjects / native route | Observation | Implication | Authority and adverse limit |
+|---|---|---|---|---|
+| EXP01-WHOLE-CC01 | Megumin: narrow destructive power versus completed operation; U043P0414–0519 | A first acquired Explosion destroys the airborne targets but has unpracticed leakage, no staff, collateral wind/tree damage and complete mana/stamina loss; other people supply shelter, eventual recovery and transport. | Separate acquisition, target execution, friendly geometry, recovery, liability and knowledge of alternatives. | No full independently prepared safe-operation trial; later adult arrival cannot supply a previously secured exit. |
+| EXP01-WHOLE-CC02 | Ordinary craft reasoning with actual providers; U018P0561–0569;U037P0044–0154 | Megumin actively prefers craft class and attempts difficult medicine with actual teacher permission, recipe/materials and Arue’s assistance; Yunyun treats the cat and the teacher handles fire. The blacksmith describes real niche furnace work. | Keep domains and provider edges specific; ordinary reasoning and novice limits coexist. | No clinical efficacy test, no universal expertise, no unqualified conversion of magical craft into real chemistry or medicine. |
+| EXP01-WHOLE-CC03 | Yunyun, Bukkorori and Socket: competence is task-specific; U028P0117–0183/0338–0449;U043P0288–0352 | Yunyun’s combat and judgment become actual provision; Bukkorori has real strong spells but dangerous timing/control; Socket supplies her own wind/water protection and a limited divination service. | Ability, reliability, willingness, independent protection and institutional work are separate. | Unemployment is not absence of magical skill; a successful attack does not certify a safe rescue or all-seeing fortune system. |
