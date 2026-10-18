@@ -1,0 +1,2113 @@
+{
+  "created_utc": "2026-10-17T23:50:05.154795+00:00",
+  "source_id": "DUST-02",
+  "full_principal_pass_p": 3052,
+  "selected_unit_count": 61,
+  "population_denominator": null,
+  "no_J02_or_validation_score": true,
+  "L_H_separate": true,
+  "L3_or_H4_not_required_to_fill_a_quota": true,
+  "records": [
+    {
+      "id": "DUST02-H001",
+      "boundary": {
+        "unit": "Pro",
+        "member": "item/xhtml/p-002.xhtml",
+        "p_start": 5,
+        "p_end": 16
+      },
+      "whole_selected_premise": "Permission to share a bath becomes imagined permission to act",
+      "primary_L": "L0",
+      "L_rationale": "Yunyun asks to enter; Dust privately projects further implications. The request is about joining, not sexual consent. C03 later returns to the same event.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "Bath/travel norms and actual refusal/consent knowledge matter; imposed state never supplies retrospective consent."
+      ],
+      "eligibility_and_uncertainty": "Private inference and spoken permission differ; do not count the frame as a second occurrence.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-002.xhtml",
+        "p": 5,
+        "exact_form": "ご一緒してもいいですか",
+        "speaker_or_source_layer": "Yunyun→Dust",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H002",
+      "boundary": {
+        "unit": "C01",
+        "member": "item/xhtml/p-003.xhtml",
+        "p_start": 17,
+        "p_end": 55
+      },
+      "whole_selected_premise": "A good rope plan loses its would-be hero",
+      "primary_L": "L0",
+      "L_rationale": "Dust recognizes a workable collective plan but switches toward bounty and admiration, ignores Leen and is swallowed. Expectation reversal depends on a real choice and lethal consequence.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "Fantasy/RPG classes, task roles or artifact mechanisms matter; this is context, not a linguistic L3 test."
+      ],
+      "eligibility_and_uncertainty": "Death is literal in-world; resurrection does not make it nonliteral comic license or safe realistic behavior.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-003.xhtml",
+        "p": 17,
+        "exact_form": "指示も的確",
+        "speaker_or_source_layer": "Dust narration about Kazuma",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H003",
+      "boundary": {
+        "unit": "C01",
+        "member": "item/xhtml/p-003.xhtml",
+        "p_start": 37,
+        "p_end": 41
+      },
+      "whole_selected_premise": "A gendered rally receives a female correction",
+      "primary_L": "L2",
+      "L_rationale": "Dust rallies the pullers through male-coded daring; a woman rejects being discounted. Pragmatic recipient scope creates the retort beyond the portable physical task.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "No specifically Japanese cultural knowledge is required for the primary reversal; individual context and source planes still matter."
+      ],
+      "eligibility_and_uncertainty": "One participant’s objection, not a measured claim about all women or men.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-003.xhtml",
+        "p": 40,
+        "exact_form": "女だけど舐めないで",
+        "speaker_or_source_layer": "Unnamed woman→Dust",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H004",
+      "boundary": {
+        "unit": "C01",
+        "member": "item/xhtml/p-003.xhtml",
+        "p_start": 59,
+        "p_end": 90
+      },
+      "whole_selected_premise": "The afterlife becomes a suspected luxury venue",
+      "primary_L": "L0",
+      "L_rationale": "Concern and heavenly beauty are read through Dust’s commercial/sexual expectations; Eris corrects the venue and role. Desire-compatible interpretation generates the incongruity.",
+      "primary_H": "H2",
+      "H_rationale": "The underlying attention/preference is supported; intensity and physical farce are not portable measurements.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "In-world religious institution/doctrine or divine identity gap matters; no outside-world population claim."
+      ],
+      "eligibility_and_uncertainty": "Amplified framing does not establish an actual establishment or Eris’s desire.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-003.xhtml",
+        "p": 80,
+        "exact_form": "貴族御用達の秘密の店",
+        "speaker_or_source_layer": "Dust inference",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H005",
+      "boundary": {
+        "unit": "C01",
+        "member": "item/xhtml/p-003.xhtml",
+        "p_start": 101,
+        "p_end": 123
+      },
+      "whole_selected_premise": "The offender minimizes his file but fears the good part",
+      "primary_L": "L0",
+      "L_rationale": "He minimizes arrests; Eris contradicts that accounting, while unexpectedly positive records make him avoid questions about an earlier period.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "In-world religious institution/doctrine or divine identity gap matters; no outside-world population claim."
+      ],
+      "eligibility_and_uncertainty": "Good-deed file is Eris’s report; exact past still unknown.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-003.xhtml",
+        "p": 113,
+        "exact_form": "ゼロです",
+        "speaker_or_source_layer": "Eris→Dust",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H006",
+      "boundary": {
+        "unit": "C01",
+        "member": "item/xhtml/p-003.xhtml",
+        "p_start": 130,
+        "p_end": 157
+      },
+      "whole_selected_premise": "An appetite-free paradise sounds intolerable",
+      "primary_L": "L0",
+      "L_rationale": "An idealized painless afterlife loses appeal when it removes the pleasures Dust values; return ends in another inappropriate question.",
+      "primary_H": "H2",
+      "H_rationale": "The underlying attention/preference is supported; intensity and physical farce are not portable measurements.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "Fantasy/RPG classes, task roles or artifact mechanisms matter; this is context, not a linguistic L3 test.",
+        "In-world religious institution/doctrine or divine identity gap matters; no outside-world population claim."
+      ],
+      "eligibility_and_uncertainty": "The preferences are meaningful; no universal theology or resurrection frequency is inferred.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-003.xhtml",
+        "p": 140,
+        "exact_form": "実質一択",
+        "speaker_or_source_layer": "Dust appraisal",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H007",
+      "boundary": {
+        "unit": "C01",
+        "member": "item/xhtml/p-003.xhtml",
+        "p_start": 202,
+        "p_end": 232
+      },
+      "whole_selected_premise": "A sincere thank-you becomes an endless public praise job",
+      "primary_L": "L2",
+      "L_rationale": "Actual gratitude develops into strategic praise; Aqua explicitly requests accurate loud recognition and pursues further compliments.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "No specifically Japanese cultural knowledge is required for the primary reversal; individual context and source planes still matter."
+      ],
+      "eligibility_and_uncertainty": "Her resurrection and water-art capacities survive the social excess; no audio claim.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-003.xhtml",
+        "p": 224,
+        "exact_form": "的確に褒めて",
+        "speaker_or_source_layer": "Aqua→Dust",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H008",
+      "boundary": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 26,
+        "p_end": 40
+      },
+      "whole_selected_premise": "An accidental discoverer denies responsibility before accepting credit",
+      "primary_L": "L0",
+      "L_rationale": "Door activation is accidental, initial denial defensive, later praise convenient. The same outcome changes valence with the audience response.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "No specifically Japanese cultural knowledge is required for the primary reversal; individual context and source planes still matter."
+      ],
+      "eligibility_and_uncertainty": "The accident does not establish deliberate archaeological expertise.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-004.xhtml",
+        "p": 34,
+        "exact_form": "俺のせいじゃねえ",
+        "speaker_or_source_layer": "Dust→companions",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H009",
+      "boundary": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 46,
+        "p_end": 48
+      },
+      "whole_selected_premise": "Greater treasure means greater monster duty",
+      "primary_L": "L0",
+      "L_rationale": "Leen attaches the corresponding work to Dust’s larger-share demand; shared distribution becomes his stated common sense.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "No specifically Japanese cultural knowledge is required for the primary reversal; individual context and source planes still matter."
+      ],
+      "eligibility_and_uncertainty": "A local incentive reversal, not proof of spontaneous generosity.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-004.xhtml",
+        "p": 48,
+        "exact_form": "仲間で山分け",
+        "speaker_or_source_layer": "Dust→Leen/party",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H010",
+      "boundary": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 52,
+        "p_end": 58
+      },
+      "whole_selected_premise": "A lethal trap joke becomes a romantic afterlife fantasy",
+      "primary_L": "L0",
+      "L_rationale": "Dust maps Leen’s negative response onto desired shared death; she directly corrects the reading.",
+      "primary_H": "H2",
+      "H_rationale": "The underlying attention/preference is supported; intensity and physical farce are not portable measurements.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "No specifically Japanese cultural knowledge is required for the primary reversal; individual context and source planes still matter."
+      ],
+      "eligibility_and_uncertainty": "No actual plan to die together or confirmed romantic reciprocity.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-004.xhtml",
+        "p": 58,
+        "exact_form": "行く場所が違う",
+        "speaker_or_source_layer": "Leen→Dust",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H011",
+      "boundary": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 69,
+        "p_end": 79
+      },
+      "whole_selected_premise": "A protective hold exceeds its welcome",
+      "primary_L": "L0",
+      "L_rationale": "Dust shields Leen at a flash, then prolongs physical contact and insults her when checked. Her threat changes his behavior.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "No specifically Japanese cultural knowledge is required for the primary reversal; individual context and source planes still matter."
+      ],
+      "eligibility_and_uncertainty": "Protective onset and later unwanted contact have separate purposes; no spell cast is shown here.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-004.xhtml",
+        "p": 77,
+        "exact_form": "骨まで消し炭",
+        "speaker_or_source_layer": "Leen→Dust",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H012",
+      "boundary": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 128,
+        "p_end": 169
+      },
+      "whole_selected_premise": "Listless friends are diagnosed through appetite",
+      "primary_L": "L0",
+      "L_rationale": "Dust initially supplies sexual/ordinary explanations for Keith and Taylor; Leen’s persistent-fatigue account redirects attention.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "No specifically Japanese cultural knowledge is required for the primary reversal; individual context and source planes still matter."
+      ],
+      "eligibility_and_uncertainty": "Later artifact evidence revises this episode; ordinary sexuality does not diagnose the condition.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-004.xhtml",
+        "p": 165,
+        "exact_form": "体のだるさが抜けない",
+        "speaker_or_source_layer": "Leen→Dust; reports K/T",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H013",
+      "boundary": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 185,
+        "p_end": 247
+      },
+      "whole_selected_premise": "A harem recruitment poster recruits nobody",
+      "primary_L": "L0",
+      "L_rationale": "Dust’s expectations of eager applicants fail; presentation demands, public conflict and refusal by venues expose the work he thought would be easy.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "No specifically Japanese cultural knowledge is required for the primary reversal; individual context and source planes still matter."
+      ],
+      "eligibility_and_uncertainty": "The two threats are not harmless flirtation; no completed sexual assault is depicted.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-004.xhtml",
+        "p": 194,
+        "exact_form": "もうそろそろ昼",
+        "speaker_or_source_layer": "Dust narration",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H014",
+      "boundary": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 284,
+        "p_end": 290
+      },
+      "whole_selected_premise": "Dream expertise does not mean general battle magic",
+      "primary_L": "L0",
+      "L_rationale": "Leen tries to generalize a specialist service; Small corrects the domain and grants only conditional emergency help.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "Fantasy/RPG classes, task roles or artifact mechanisms matter; this is context, not a linguistic L3 test."
+      ],
+      "eligibility_and_uncertainty": "Capacity and agreed role remain distinct.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-004.xhtml",
+        "p": 290,
+        "exact_form": "本当に人手が足りなかったら",
+        "speaker_or_source_layer": "Small succubus→Dust/Leen",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H015",
+      "boundary": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 299,
+        "p_end": 326
+      },
+      "whole_selected_premise": "An eager tank is rejected for a concrete deployment problem",
+      "primary_L": "L0",
+      "L_rationale": "Darkness wants combat release; Dust acknowledges defense but fears misses and the need for another handler. Status embarrassment sits beside a real fit problem.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "Fantasy/RPG classes, task roles or artifact mechanisms matter; this is context, not a linguistic L3 test."
+      ],
+      "eligibility_and_uncertainty": "Not a universal incapacity claim or proof all future teams must exclude her.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-004.xhtml",
+        "p": 305,
+        "exact_form": "保護者がいねえと",
+        "speaker_or_source_layer": "Dust→Leen about Darkness",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H016",
+      "boundary": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 332,
+        "p_end": 382
+      },
+      "whole_selected_premise": "An archwizard is subjected to a hostile job interview",
+      "primary_L": "L2",
+      "L_rationale": "Dust uses chosen institutional politeness to expose the unfilled post-cast role. Accurate task questions become deliberate face aggression.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "Fantasy/RPG classes, task roles or artifact mechanisms matter; this is context, not a linguistic L3 test."
+      ],
+      "eligibility_and_uncertainty": "Megumin’s power is real; no actual Explosion follows this rejection.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-004.xhtml",
+        "p": 369,
+        "exact_form": "答えてくれませんかね",
+        "speaker_or_source_layer": "Dust→Megumin",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H017",
+      "boundary": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 394,
+        "p_end": 448
+      },
+      "whole_selected_premise": "The recruiting organizer celebrates successful rejection",
+      "primary_L": "L0",
+      "L_rationale": "Aqua’s useful healing is recognized but a fabricated Vanir deters her; Dust then forgets the actual need to recruit.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "No specifically Japanese cultural knowledge is required for the primary reversal; individual context and source planes still matter."
+      ],
+      "eligibility_and_uncertainty": "The invented visitor is his deception, not proof Aqua lacked willingness to help.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-004.xhtml",
+        "p": 448,
+        "exact_form": "募集の事が頭から抜けていた",
+        "speaker_or_source_layer": "Dust narration",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H018",
+      "boundary": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 456,
+        "p_end": 506
+      },
+      "whole_selected_premise": "A hesitant bid is made workable by paid invitation",
+      "primary_L": "L2",
+      "L_rationale": "Yunyun struggles to complete a request; Dust teases, while Leen names duration, membership and pay. Pragmatic clarity produces agreement.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "No specifically Japanese cultural knowledge is required for the primary reversal; individual context and source planes still matter."
+      ],
+      "eligibility_and_uncertainty": "Loneliness is not lack of competence or agreement to indefinite service.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-004.xhtml",
+        "p": 501,
+        "exact_form": "数日でいいから仲間に",
+        "speaker_or_source_layer": "Leen→Yunyun",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H019",
+      "boundary": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 535,
+        "p_end": 569
+      },
+      "whole_selected_premise": "A nominal harem needs an invented identity and many qualifications",
+      "primary_L": "L0",
+      "L_rationale": "Dust gives Small an alias and counts a pleasing team while his own private qualifications undermine the fantasy.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "No specifically Japanese cultural knowledge is required for the primary reversal; individual context and source planes still matter."
+      ],
+      "eligibility_and_uncertainty": "Alias is not her true name; apparent age and actual age are not equated.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-004.xhtml",
+        "p": 554,
+        "exact_form": "ハーレムパーティー",
+        "speaker_or_source_layer": "Dust appraisal",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H020",
+      "boundary": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 573,
+        "p_end": 618
+      },
+      "whole_selected_premise": "Useful magic receives conspicuously instrumental praise",
+      "primary_L": "L2",
+      "L_rationale": "Yunyun proves useful and Dust deliberately exaggerates praise to encourage further effort. He guesses jealousy from others’ silence.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "Fantasy/RPG classes, task roles or artifact mechanisms matter; this is context, not a linguistic L3 test."
+      ],
+      "eligibility_and_uncertainty": "The praise strategy is explicit; the other women’s private motives are unconfirmed.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-004.xhtml",
+        "p": 600,
+        "exact_form": "過剰なぐらいに褒めちぎって",
+        "speaker_or_source_layer": "Dust narration",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H021",
+      "boundary": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 621,
+        "p_end": 665
+      },
+      "whole_selected_premise": "The supposedly redundant helpers save the swordsman",
+      "primary_L": "L0",
+      "L_rationale": "Six goblins expose Dust’s deployment limits; Small’s Sleep and Leen’s Lightning solve what his sword does not.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "Fantasy/RPG classes, task roles or artifact mechanisms matter; this is context, not a linguistic L3 test."
+      ],
+      "eligibility_and_uncertainty": "No universal ranking of sword, spear, archwizard or dream specialist follows.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-004.xhtml",
+        "p": 645,
+        "exact_form": "魔法で眠らせてくれた",
+        "speaker_or_source_layer": "Dust inference about Small",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H022",
+      "boundary": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 666,
+        "p_end": 706
+      },
+      "whole_selected_premise": "The cheap rescue client omitted half the problem",
+      "primary_L": "L0",
+      "L_rationale": "Actual number contradicts the requested fee basis, and the client admits concealment. Dust demands an extra fee.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "Fantasy/RPG classes, task roles or artifact mechanisms matter; this is context, not a linguistic L3 test."
+      ],
+      "eligibility_and_uncertainty": "Demand is not shown payment; hidden fraud is not a known term he ignored.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-004.xhtml",
+        "p": 670,
+        "exact_form": "依頼料増やさないと",
+        "speaker_or_source_layer": "Client→Dust/group",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H023",
+      "boundary": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 748,
+        "p_end": 811
+      },
+      "whole_selected_premise": "A presumed sacrifice conceals a different encounter",
+      "primary_L": "L0",
+      "L_rationale": "Dust gives retreat instructions, privately calls his assurance a pretext to send companions to safety, and later reports removing a sword from the dragon.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "Fantasy/RPG classes, task roles or artifact mechanisms matter; this is context, not a linguistic L3 test."
+      ],
+      "eligibility_and_uncertainty": "Resolution offstage; no witnessed dragon kill or exact old identity supplied.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-004.xhtml",
+        "p": 760,
+        "exact_form": "背を向けるなよ",
+        "speaker_or_source_layer": "Dust→three companions",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H024",
+      "boundary": {
+        "unit": "C03",
+        "member": "item/xhtml/p-005.xhtml",
+        "p_start": 18,
+        "p_end": 67
+      },
+      "whole_selected_premise": "Free travel has a city-sized catch and credibility depends on donor",
+      "primary_L": "L0",
+      "L_rationale": "Dust asks about a defect and discounts the warning; companions trust coupons once Kazuma’s provenance is named.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "In-world religious institution/doctrine or divine identity gap matters; no outside-world population claim."
+      ],
+      "eligibility_and_uncertainty": "Asking is genuine counterevidence to never checking; the city warning really was available.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-005.xhtml",
+        "p": 18,
+        "exact_form": "裏でもあんのかよ",
+        "speaker_or_source_layer": "Dust→Kazuma",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H025",
+      "boundary": {
+        "unit": "C03",
+        "member": "item/xhtml/p-005.xhtml",
+        "p_start": 119,
+        "p_end": 149
+      },
+      "whole_selected_premise": "An attempted culture lesson is defeated by the target’s refusal",
+      "primary_L": "L2",
+      "L_rationale": "Dust tries to normalize mixed bathing through dubious social claims; Yunyun accepts the trip but explicitly rejects that premise.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "Bath/travel norms and actual refusal/consent knowledge matter; imposed state never supplies retrospective consent."
+      ],
+      "eligibility_and_uncertainty": "Trip participation is not blanket sexual consent or proof the later bath state is uncoerced.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-005.xhtml",
+        "p": 149,
+        "exact_form": "何を言われても",
+        "speaker_or_source_layer": "Yunyun→Dust",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H026",
+      "boundary": {
+        "unit": "C03",
+        "member": "item/xhtml/p-005.xhtml",
+        "p_start": 154,
+        "p_end": 176
+      },
+      "whole_selected_premise": "An attractive effect cuts short the instruction",
+      "primary_L": "L0",
+      "L_rationale": "Dust hears a charm’s promised benefit and stops the explanation, while retaining one targeting restriction and planning forced attraction.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "No specifically Japanese cultural knowledge is required for the primary reversal; individual context and source planes still matter."
+      ],
+      "eligibility_and_uncertainty": "Information error and deliberate ethical choice are separate; later reader-only duration is not his knowledge.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-005.xhtml",
+        "p": 159,
+        "exact_form": "それどころじゃない",
+        "speaker_or_source_layer": "Dust narration",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H027",
+      "boundary": {
+        "unit": "C03",
+        "member": "item/xhtml/p-005.xhtml",
+        "p_start": 187,
+        "p_end": 211
+      },
+      "whole_selected_premise": "A professional helper accepts for her own idol",
+      "primary_L": "L0",
+      "L_rationale": "Small rejects Dust as a romantic target, enjoys professional esteem, and accepts travel when Vanir’s attendance matters.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "No specifically Japanese cultural knowledge is required for the primary reversal; individual context and source planes still matter."
+      ],
+      "eligibility_and_uncertainty": "Do not identify praise as the unique cause or infer an unlimited obedience trait.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-005.xhtml",
+        "p": 187,
+        "exact_form": "私の憧れはバニル様",
+        "speaker_or_source_layer": "Small succubus→Dust",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H028",
+      "boundary": {
+        "unit": "C03",
+        "member": "item/xhtml/p-005.xhtml",
+        "p_start": 242,
+        "p_end": 263
+      },
+      "whole_selected_premise": "The harasser tries listening to the person burdened by his behavior",
+      "primary_L": "L2",
+      "L_rationale": "Luna rebukes harassment and lists work he causes; Dust actually listens before giving up the final coupon from fatigue.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "No specifically Japanese cultural knowledge is required for the primary reversal; individual context and source planes still matter."
+      ],
+      "eligibility_and_uncertainty": "His listening is real but no therapy credential or permanent reform is implied.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-005.xhtml",
+        "p": 247,
+        "exact_form": "しれっとセクハラ発言",
+        "speaker_or_source_layer": "Luna→Dust",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H029",
+      "boundary": {
+        "unit": "C03",
+        "member": "item/xhtml/p-005.xhtml",
+        "p_start": 303,
+        "p_end": 378
+      },
+      "whole_selected_premise": "The rigged draw is defeated by another rigged allegiance",
+      "primary_L": "L0",
+      "L_rationale": "Dust engineers a favorable first draw and is exposed; Small redirects the later arrangement toward her own desired seat with Vanir.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "No specifically Japanese cultural knowledge is required for the primary reversal; individual context and source planes still matter."
+      ],
+      "eligibility_and_uncertainty": "Her independent goal is not merely a random failed tool.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-005.xhtml",
+        "p": 368,
+        "exact_form": "この棒がオススメ",
+        "speaker_or_source_layer": "Small succubus→Vanir",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H030",
+      "boundary": {
+        "unit": "C03",
+        "member": "item/xhtml/p-005.xhtml",
+        "p_start": 409,
+        "p_end": 478
+      },
+      "whole_selected_premise": "Coerced affection produces an unwanted first audience",
+      "primary_L": "L0",
+      "L_rationale": "Explicit refusals precede Dust’s actual charm attempt; wind routes the first effect to the men. Their induced pursuit reverses the controller’s expected advantage.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "Bath/travel norms and actual refusal/consent knowledge matter; imposed state never supplies retrospective consent."
+      ],
+      "eligibility_and_uncertainty": "No completed assault; induced behavior is not ordinary orientation. Public description stays non-graphic.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-005.xhtml",
+        "p": 428,
+        "exact_form": "会話に割り込まないで",
+        "speaker_or_source_layer": "Leen→Dust",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H031",
+      "boundary": {
+        "unit": "C03",
+        "member": "item/xhtml/p-005.xhtml",
+        "p_start": 487,
+        "p_end": 539
+      },
+      "whole_selected_premise": "A wrong duration analogy makes helpful care suspicious",
+      "primary_L": "L0",
+      "L_rationale": "Leen’s unexpected tenderness is read through Dust’s male-duration model; he considers alternate causes but may exploit imposed affection.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "Bath/travel norms and actual refusal/consent knowledge matter; imposed state never supplies retrospective consent."
+      ],
+      "eligibility_and_uncertainty": "Different duration is reader-only477–478; no factual endorsement of her freely chosen romantic intent.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-005.xhtml",
+        "p": 529,
+        "exact_form": "効き目が切れている時間",
+        "speaker_or_source_layer": "Dust inference",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H032",
+      "boundary": {
+        "unit": "C03",
+        "member": "item/xhtml/p-005.xhtml",
+        "p_start": 564,
+        "p_end": 594
+      },
+      "whole_selected_premise": "The discounted bun contains a carbon-copy conversion",
+      "primary_L": "L0",
+      "L_rationale": "Repeated checking reveals concealed registration under a food discount; Dust refuses before signing.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "In-world religious institution/doctrine or divine identity gap matters; no outside-world population claim."
+      ],
+      "eligibility_and_uncertainty": "A successful cautious check, not simply another gullibility gag.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-005.xhtml",
+        "p": 594,
+        "exact_form": "向こうへ行け",
+        "speaker_or_source_layer": "Dust→Axis recruiter",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H033",
+      "boundary": {
+        "unit": "C03",
+        "member": "item/xhtml/p-005.xhtml",
+        "p_start": 668,
+        "p_end": 711
+      },
+      "whole_selected_premise": "A desired mixed bath meets actual age and legal restraint",
+      "primary_L": "L0",
+      "L_rationale": "The prologue returns; Dust recognizes Yunyun’s youth and restricts his own immediate behavior despite the offer to join.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "Bath/travel norms and actual refusal/consent knowledge matter; imposed state never supplies retrospective consent."
+      ],
+      "eligibility_and_uncertainty": "This local inhibition does not absolve the charm attempt or make all affection informed.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-005.xhtml",
+        "p": 683,
+        "exact_form": "相手はガキじゃねえか",
+        "speaker_or_source_layer": "Dust self-restraint",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H034",
+      "boundary": {
+        "unit": "C03",
+        "member": "item/xhtml/p-005.xhtml",
+        "p_start": 713,
+        "p_end": 758
+      },
+      "whole_selected_premise": "Fair turn-taking is an unacceptable solution to imposed affection",
+      "primary_L": "L2",
+      "L_rationale": "Dust proposes timed turns as if allocation solves the problem; the women unanimously reject it and actual spells follow.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "Bath/travel norms and actual refusal/consent knowledge matter; imposed state never supplies retrospective consent."
+      ],
+      "eligibility_and_uncertainty": "No general water dispel law or ethical reform is established; Vanir explains ending and remembered state.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-005.xhtml",
+        "p": 734,
+        "exact_form": "一人三十分ずつ交代",
+        "speaker_or_source_layer": "Dust→three women",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H035",
+      "boundary": {
+        "unit": "C03",
+        "member": "item/xhtml/p-005.xhtml",
+        "p_start": 770,
+        "p_end": 784
+      },
+      "whole_selected_premise": "Ordinary male friendship becomes a temporary sanctuary",
+      "primary_L": "L0",
+      "L_rationale": "After coerced attention, Dust values familiar joking company; the men worry about his unusual restraint.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "No specifically Japanese cultural knowledge is required for the primary reversal; individual context and source planes still matter."
+      ],
+      "eligibility_and_uncertainty": "Ordinary companionship differs from their earlier induced behavior; not a permanent anti-woman preference.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-005.xhtml",
+        "p": 784,
+        "exact_form": "男のダチ",
+        "speaker_or_source_layer": "Dust→Keith/Taylor",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H036",
+      "boundary": {
+        "unit": "C04",
+        "member": "item/xhtml/p-006.xhtml",
+        "p_start": 26,
+        "p_end": 61
+      },
+      "whole_selected_premise": "A holy seal repels recruiters while its owner nearly falls for a child",
+      "primary_L": "L0",
+      "L_rationale": "Chris can invoke religious access but is almost deceived by a performance; Dust uses her as an unwelcome shield.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "In-world religious institution/doctrine or divine identity gap matters; no outside-world population claim."
+      ],
+      "eligibility_and_uncertainty": "Religious affiliation is not global inferential immunity or consent to every public exposure.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-006.xhtml",
+        "p": 54,
+        "exact_form": "迫真の演技",
+        "speaker_or_source_layer": "Dust narration about child/Chris",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H037",
+      "boundary": {
+        "unit": "C04",
+        "member": "item/xhtml/p-006.xhtml",
+        "p_start": 135,
+        "p_end": 163
+      },
+      "whole_selected_premise": "Comfort about a goddess injures an unrecognized listener",
+      "primary_L": "L2",
+      "L_rationale": "Dust interprets Chris’s reaction as follower loyalty and offers comparative consolation without knowing her identity.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "In-world religious institution/doctrine or divine identity gap matters; no outside-world population claim."
+      ],
+      "eligibility_and_uncertainty": "Main-informed dramatic irony does not make the identity known to him.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-006.xhtml",
+        "p": 157,
+        "exact_form": "女神アクアよりマシ",
+        "speaker_or_source_layer": "Dust→Chris",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H038",
+      "boundary": {
+        "unit": "C04",
+        "member": "item/xhtml/p-006.xhtml",
+        "p_start": 168,
+        "p_end": 187
+      },
+      "whole_selected_premise": "An apology conceals the very cause needed to understand it",
+      "primary_L": "L0",
+      "L_rationale": "Dust partly apologizes for the bath, blames attendance and falsely suggests drunkenness to obscure his deliberate charm.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "No specifically Japanese cultural knowledge is required for the primary reversal; individual context and source planes still matter."
+      ],
+      "eligibility_and_uncertainty": "Yunyun’s later forgiveness is not informed exoneration.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-006.xhtml",
+        "p": 176,
+        "exact_form": "酒にでも酔って",
+        "speaker_or_source_layer": "Dust→Yunyun",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H039",
+      "boundary": {
+        "unit": "C04",
+        "member": "item/xhtml/p-006.xhtml",
+        "p_start": 228,
+        "p_end": 264
+      },
+      "whole_selected_premise": "A religious cause becomes attractive when profits are threatened",
+      "primary_L": "L0",
+      "L_rationale": "Dust’s resistance changes when book investigation may expose income, alongside concrete care for vulnerable companions.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "In-world religious institution/doctrine or divine identity gap matters; no outside-world population claim."
+      ],
+      "eligibility_and_uncertainty": "No unique pure motive and no proof that all religious assistance is insincere.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-006.xhtml",
+        "p": 259,
+        "exact_form": "エリス教に恩を売る",
+        "speaker_or_source_layer": "Dust appraisal",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H040",
+      "boundary": {
+        "unit": "C04",
+        "member": "item/xhtml/p-006.xhtml",
+        "p_start": 285,
+        "p_end": 321
+      },
+      "whole_selected_premise": "A date-like outing is read as a spending request",
+      "primary_L": "L0",
+      "L_rationale": "Yunyun’s cues are not smoothly understood, but Dust notices a particular toy desire and tries bargaining.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "No specifically Japanese cultural knowledge is required for the primary reversal; individual context and source planes still matter."
+      ],
+      "eligibility_and_uncertainty": "Later evidence shows actual earlier purchase; do not freeze the scene at apparent failure.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-006.xhtml",
+        "p": 316,
+        "exact_form": "それっぽい事",
+        "speaker_or_source_layer": "Yunyun→Dust",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H041",
+      "boundary": {
+        "unit": "C04",
+        "member": "item/xhtml/p-006.xhtml",
+        "p_start": 330,
+        "p_end": 363
+      },
+      "whole_selected_premise": "A technically non-lying cosplay scheme is rejected before execution",
+      "primary_L": "L0",
+      "L_rationale": "Dust hopes public inference will do the deceptive work while Chris names risk and rejects the method; he accepts a different plan.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "In-world religious institution/doctrine or divine identity gap matters; no outside-world population claim."
+      ],
+      "eligibility_and_uncertainty": "No completed parade or demonstrated improvement of Eris’s status.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-006.xhtml",
+        "p": 361,
+        "exact_form": "この方法は間違っている",
+        "speaker_or_source_layer": "Chris→Dust/group",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H042",
+      "boundary": {
+        "unit": "C04",
+        "member": "item/xhtml/p-006.xhtml",
+        "p_start": 373,
+        "p_end": 419
+      },
+      "whole_selected_premise": "A demonic denunciation markets the audience’s favorite goddess",
+      "primary_L": "L0",
+      "L_rationale": "Vanir expects shame, but doctrine turns the listed defects into virtues; his later causal story is accepted despite Dust finding it incoherent.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "In-world religious institution/doctrine or divine identity gap matters; no outside-world population claim."
+      ],
+      "eligibility_and_uncertainty": "Not independent verification of Vanir’s religious history or general worldly sociology.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-006.xhtml",
+        "p": 395,
+        "exact_form": "我慢することなかれ",
+        "speaker_or_source_layer": "Unnamed Axis congregant→Vanir/crowd; quotes doctrine; written feminine-coded stance, no separately established identity",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H043",
+      "boundary": {
+        "unit": "C04",
+        "member": "item/xhtml/p-006.xhtml",
+        "p_start": 421,
+        "p_end": 470
+      },
+      "whole_selected_premise": "A profitable secret album reveals the wrong model",
+      "primary_L": "L0",
+      "L_rationale": "Crowd demand produces sales before inspection; actual Vanir contents expose the fraud and feed his desired negative emotion.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "In-world religious institution/doctrine or divine identity gap matters; no outside-world population claim."
+      ],
+      "eligibility_and_uncertainty": "Dust’s normal-price interpretation is not a cost ledger; threats to Small are not shown fulfilled.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-006.xhtml",
+        "p": 457,
+        "exact_form": "半裸の旦那",
+        "speaker_or_source_layer": "Dust observes album",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H044",
+      "boundary": {
+        "unit": "C04",
+        "member": "item/xhtml/p-006.xhtml",
+        "p_start": 471,
+        "p_end": 527
+      },
+      "whole_selected_premise": "The useful escape contact is the pursuer’s strategist",
+      "primary_L": "L0",
+      "L_rationale": "Dust sends hostility toward Chris, then draws it from Keith and Taylor while following supposed Yunyun; the companion is actually Vanir.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "No specifically Japanese cultural knowledge is required for the primary reversal; individual context and source planes still matter."
+      ],
+      "eligibility_and_uncertainty": "Do not delete the scapegoating because later action is protective.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-006.xhtml",
+        "p": 486,
+        "exact_form": "クリスに向いたようだ",
+        "speaker_or_source_layer": "Dust inference about diversion",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H045",
+      "boundary": {
+        "unit": "C04",
+        "member": "item/xhtml/p-006.xhtml",
+        "p_start": 531,
+        "p_end": 549
+      },
+      "whole_selected_premise": "The empty wallet is worth another person’s delighted rivalry",
+      "primary_L": "L0",
+      "L_rationale": "A toy purchased earlier with all remaining money becomes an actual gift; the recipient confirms its intended social use.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "No specifically Japanese cultural knowledge is required for the primary reversal; individual context and source planes still matter."
+      ],
+      "eligibility_and_uncertainty": "Purchase precedes chase guilt, giving follows it; recipient is Yunyun, not Leen.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-006.xhtml",
+        "p": 549,
+        "exact_form": "空っぽの財布",
+        "speaker_or_source_layer": "Dust appraisal",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H046",
+      "boundary": {
+        "unit": "Final",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 16,
+        "p_end": 19
+      },
+      "whole_selected_premise": "Profit buys retrospective peace except from one beneficiary",
+      "primary_L": "L0",
+      "L_rationale": "Most accept photo proceeds and stop blaming Vanir, but Yunyun refuses the money and lectures him.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "No specifically Japanese cultural knowledge is required for the primary reversal; individual context and source planes still matter."
+      ],
+      "eligibility_and_uncertainty": "Actual payment exists; do not infer universal corruptibility.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-007.xhtml",
+        "p": 17,
+        "exact_form": "金を受け取らず",
+        "speaker_or_source_layer": "Dust narration about Yunyun",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H047",
+      "boundary": {
+        "unit": "Final",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 32,
+        "p_end": 89
+      },
+      "whole_selected_premise": "A delinquent wants the guards and guild to work",
+      "primary_L": "L0",
+      "L_rationale": "Convenient official inactivity becomes a threat to ordinary life; Dust urges duty while opportunistic thoughts remain.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "No specifically Japanese cultural knowledge is required for the primary reversal; individual context and source planes still matter."
+      ],
+      "eligibility_and_uncertainty": "Proposed exploitation of Luna is rejected; no sexual touch is performed.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-007.xhtml",
+        "p": 42,
+        "exact_form": "もうちょい調べる",
+        "speaker_or_source_layer": "Dust→guard",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H048",
+      "boundary": {
+        "unit": "Final",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 119,
+        "p_end": 138
+      },
+      "whole_selected_premise": "A self-excusing complaint evaporates under a sharper companion",
+      "primary_L": "L2",
+      "L_rationale": "Yunyun identifies Dust’s voluntary entry into the fraud; he abruptly turns toward seeking Vanir. A loneliness title briefly pleases its target.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "ぼっち social label plus title/status framing; lexical/pragmatic meaning can be adapted, no sound-based pun established."
+      ],
+      "eligibility_and_uncertainty": "Two adjacent short exchanges, selected as one shop-approach premise; no independent trial count.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-007.xhtml",
+        "p": 138,
+        "exact_form": "格好良いかも",
+        "speaker_or_source_layer": "Yunyun→Vanir",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H049",
+      "boundary": {
+        "unit": "Final",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 166,
+        "p_end": 200
+      },
+      "whole_selected_premise": "Modest self-description exposes a real skill asymmetry, then skills lose readiness",
+      "primary_L": "L2",
+      "L_rationale": "Yunyun’s offer as small help makes Small ask what her own place is; the whole recruited team then loses motivation before use.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "Fantasy/RPG classes, task roles or artifact mechanisms matter; this is context, not a linguistic L3 test."
+      ],
+      "eligibility_and_uncertainty": "Actual state loss, not proof capacities never existed.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-007.xhtml",
+        "p": 168,
+        "exact_form": "私はどうなるのでしょうか",
+        "speaker_or_source_layer": "Small succubus→Yunyun/group",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H050",
+      "boundary": {
+        "unit": "Final",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 223,
+        "p_end": 262
+      },
+      "whole_selected_premise": "The carrier complains while refusing abandonment",
+      "primary_L": "L0",
+      "L_rationale": "Dust bears three companions, resists their sleep inducements and residual risk, then receives an absurd five-year snooze response.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "No specifically Japanese cultural knowledge is required for the primary reversal; individual context and source planes still matter."
+      ],
+      "eligibility_and_uncertainty": "Comic amplification of rest talk does not make the carrying unreal or establish five years of actual sleep.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-007.xhtml",
+        "p": 253,
+        "exact_form": "あと五年",
+        "speaker_or_source_layer": "Three impaired women→Dust",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": "L1",
+        "anchor": "あと五年",
+        "mechanism": "The enlarged snooze interval supplies a phrasing-dependent nested exaggeration; selected whole carrying premise remains L0."
+      }
+    },
+    {
+      "id": "DUST02-H051",
+      "boundary": {
+        "unit": "Final",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 277,
+        "p_end": 317
+      },
+      "whole_selected_premise": "The work-avoidance invention destroys the will to enjoy the holiday",
+      "primary_L": "L0",
+      "L_rationale": "The diary reports the inventor’s self-defeating first design, then exemptions explain Dust’s special condition; he plans to suppress the incriminating record.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "Fantasy/RPG classes, task roles or artifact mechanisms matter; this is context, not a linguistic L3 test."
+      ],
+      "eligibility_and_uncertainty": "Diary test claims and Dust’s fit inference are not omniscient access to every machine property.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-007.xhtml",
+        "p": 286,
+        "exact_form": "ゲームや読書を楽しめなくなる",
+        "speaker_or_source_layer": "Inventor diary read by Dust",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H052",
+      "boundary": {
+        "unit": "Final",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 323,
+        "p_end": 345
+      },
+      "whole_selected_premise": "A corrective outburst gives away the infiltrator",
+      "primary_L": "L0",
+      "L_rationale": "Dust’s irritation at the group’s inflated fellowship defeats his stealth, converting overhearing into confrontation.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "No specifically Japanese cultural knowledge is required for the primary reversal; individual context and source planes still matter."
+      ],
+      "eligibility_and_uncertainty": "The criminals’ declarations do not make their interests ethically innocent.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-007.xhtml",
+        "p": 336,
+        "exact_form": "むさ苦しいわっ",
+        "speaker_or_source_layer": "Dust→three men",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H053",
+      "boundary": {
+        "unit": "Final",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 352,
+        "p_end": 388
+      },
+      "whole_selected_premise": "The rescuer wins by pretending to threaten his own ally",
+      "primary_L": "L0",
+      "L_rationale": "Three armed opponents disarm when Dust uses Small as a hostage; sleepy companions condemn his effective tactic.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "No specifically Japanese cultural knowledge is required for the primary reversal; individual context and source planes still matter."
+      ],
+      "eligibility_and_uncertainty": "Blade threat is feigned, instrumentalization is actual; no actual cut or free ally agreement.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-007.xhtml",
+        "p": 374,
+        "exact_form": "武器を捨てな",
+        "speaker_or_source_layer": "Dust→three men",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H054",
+      "boundary": {
+        "unit": "Final",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 389,
+        "p_end": 420
+      },
+      "whole_selected_premise": "Winning the fight leaves the information problem unsolved",
+      "primary_L": "L0",
+      "L_rationale": "Physical capture fails to yield the hidden sphere; failed search is followed by a book-burning bluff that extracts the location.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "No specifically Japanese cultural knowledge is required for the primary reversal; individual context and source planes still matter."
+      ],
+      "eligibility_and_uncertainty": "No actual book burned; he prolongs their distress for amusement414.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-007.xhtml",
+        "p": 414,
+        "exact_form": "燃やすつもりは毛頭ない",
+        "speaker_or_source_layer": "Dust narration",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H055",
+      "boundary": {
+        "unit": "Final",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 424,
+        "p_end": 454
+      },
+      "whole_selected_premise": "Former captives become the only available rescue carriers",
+      "primary_L": "L0",
+      "L_rationale": "Collapse exceeds Dust’s capacity; he bargains release for transport. Their preferences exclude Yunyun, whom Dust carries less gently.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "No specifically Japanese cultural knowledge is required for the primary reversal; individual context and source planes still matter."
+      ],
+      "eligibility_and_uncertainty": "Actual provider agreement and escape, not ethical redemption or equal care.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-007.xhtml",
+        "p": 436,
+        "exact_form": "縄を解いてやるから",
+        "speaker_or_source_layer": "Dust→three men",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H056",
+      "boundary": {
+        "unit": "Final",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 459,
+        "p_end": 500
+      },
+      "whole_selected_premise": "The apparently broken source reappears as an eye",
+      "primary_L": "L0",
+      "L_rationale": "Recovery suggests one causal explanation, then the moving machine makes an intact orb-like part visible and prompts revision.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "Fantasy/RPG classes, task roles or artifact mechanisms matter; this is context, not a linguistic L3 test."
+      ],
+      "eligibility_and_uncertainty": "Earlier destruction was Dust’s inference; final mechanism not fully inspected.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-007.xhtml",
+        "p": 500,
+        "exact_form": "もしかして",
+        "speaker_or_source_layer": "Dust revises causal inference",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H057",
+      "boundary": {
+        "unit": "Final",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 501,
+        "p_end": 546
+      },
+      "whole_selected_premise": "The small specialist’s controlled rewards assemble a large practical victory",
+      "primary_L": "L0",
+      "L_rationale": "Small recruits by dream installments, teammates restrain/defend/cut, and Dust coordinates spear plus Lightning.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "Fantasy/RPG classes, task roles or artifact mechanisms matter; this is context, not a linguistic L3 test."
+      ],
+      "eligibility_and_uncertainty": "Not a solo spear win; penetration alone did not stop it, blast injury remains.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-007.xhtml",
+        "p": 542,
+        "exact_form": "この槍に向かって撃て",
+        "speaker_or_source_layer": "Dust→Leen",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H058",
+      "boundary": {
+        "unit": "Final",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 547,
+        "p_end": 555
+      },
+      "whole_selected_premise": "The technically successful hero immediately misuses his fallen vantage",
+      "primary_L": "L0",
+      "L_rationale": "Admiration and complaint follow real victory, then Dust attempts voyeurism and receives an approaching punitive response.",
+      "primary_H": "H2",
+      "H_rationale": "The underlying attention/preference is supported; intensity and physical farce are not portable measurements.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "No specifically Japanese cultural knowledge is required for the primary reversal; individual context and source planes still matter."
+      ],
+      "eligibility_and_uncertainty": "No measured invulnerability or explicit completed kick impact is established at555.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-007.xhtml",
+        "p": 547,
+        "exact_form": "最後まで格好つかない",
+        "speaker_or_source_layer": "Leen→Dust",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H059",
+      "boundary": {
+        "unit": "Epi",
+        "member": "item/xhtml/p-008.xhtml",
+        "p_start": 13,
+        "p_end": 18
+      },
+      "whole_selected_premise": "A true boast sounds like the old social fantasy",
+      "primary_L": "L2",
+      "L_rationale": "Megumin rejects Yunyun’s real participation and gift report by invoking loneliness; status assumptions obstruct truth recognition.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "ぼっち social label plus title/status framing; lexical/pragmatic meaning can be adapted, no sound-based pun established."
+      ],
+      "eligibility_and_uncertainty": "Yunyun’s date label does not prove a negotiated romance, and her actual contribution remains real.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-008.xhtml",
+        "p": 14,
+        "exact_form": "妄想と現実の区別",
+        "speaker_or_source_layer": "Megumin→Yunyun",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H060",
+      "boundary": {
+        "unit": "Epi",
+        "member": "item/xhtml/p-008.xhtml",
+        "p_start": 19,
+        "p_end": 33
+      },
+      "whole_selected_premise": "A coerced host chooses hospitality after others share the cost",
+      "primary_L": "L0",
+      "L_rationale": "Kazuma publicly commits Dust’s money; protest fails, others offer contributions, and Dust affirmatively hosts.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "No specifically Japanese cultural knowledge is required for the primary reversal; individual context and source planes still matter."
+      ],
+      "eligibility_and_uncertainty": "Consent comes later; actual final total bill and debt payment unshown.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-008.xhtml",
+        "p": 33,
+        "exact_form": "俺様の奢り",
+        "speaker_or_source_layer": "Dust→guild crowd",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    },
+    {
+      "id": "DUST02-H061",
+      "boundary": {
+        "unit": "Epi",
+        "member": "item/xhtml/p-008.xhtml",
+        "p_start": 43,
+        "p_end": 67
+      },
+      "whole_selected_premise": "A hidden past nearly becomes a conversation, then sleep wins",
+      "primary_L": "L0",
+      "L_rationale": "Leen’s concern draws an actual disclosure start, interrupted by sleep; Dust carries her into familiar company.",
+      "primary_H": "H1",
+      "H_rationale": "Treat the actual choice and consequence literally in-world.",
+      "nested_form_or_register": "See linked selected voice record when the language layer is material; primary premise boundary is unchanged.",
+      "culture_context_flag": [
+        "No specifically Japanese cultural knowledge is required for the primary reversal; individual context and source planes still matter."
+      ],
+      "eligibility_and_uncertainty": "No secret content delivered, no proof of refusal or completed romantic mutuality.",
+      "selection_status": "PURPOSIVE retrospective selection after complete uncoded source-first seal; not exhaustive discovery/census",
+      "source_plane": "Observed/direct speech, report and inference distinguished in rationale and main reading",
+      "confidence": "MODERATE in mechanism; source event high where explicitly depicted",
+      "primary_short_anchor": {
+        "member": "item/xhtml/p-008.xhtml",
+        "p": 61,
+        "exact_form": "実はな",
+        "speaker_or_source_layer": "Dust→Leen",
+        "selection_timing": "post complete uncoded pass"
+      },
+      "mixed_or_secondary_H_limit": "H1 core may coexist with amplified speech/intensity; no H4 inference merely from magic, resurrection or uncertain motive.",
+      "nested_L_limits": {
+        "class": null,
+        "mechanism": "No additional independent linguistic-form classification is claimed beyond the primary premise and linked voice evidence."
+      }
+    }
+  ],
+  "root_receiving_utc": "2026-10-18T01:34:31.692041+00:00",
+  "root_precision_operations": [
+    {
+      "target": "KONOSUBA_DUST_V02_HUMOR_REGISTER.json",
+      "record_id": "DUST02-H023",
+      "field": "L_rationale",
+      "old": "Dust gives retreat instructions, privately calls his assurance an excuse to remove witnesses, and later reports removing a sword from the dragon.",
+      "new": "Dust gives retreat instructions, privately calls his assurance a pretext to send companions to safety, and later reports removing a sword from the dragon.",
+      "basis": "C02P775 establishes protective removal, not a uniquely demonstrated wish to remove witnesses.",
+      "codes_bounds_anchors_changed": false
+    },
+    {
+      "target": "KONOSUBA_DUST_V02_HUMOR_REGISTER.json",
+      "record_id": "DUST02-H029",
+      "field": "L_rationale",
+      "old": "Dust engineers a favorable first draw and is exposed; the second arrangement routes Small toward Vanir’s own preference.",
+      "new": "Dust engineers a favorable first draw and is exposed; Small redirects the later arrangement toward her own desired seat with Vanir.",
+      "basis": "Her already stated Vanir preference and actual recommendation, not an invented Vanir seating preference, explain her choice.",
+      "codes_bounds_anchors_changed": false
+    }
+  ],
+  "original_whole_file": {
+    "bytes": 121023,
+    "sha256": "a655d286cd2e03555bcd892648c176207f620d7135f331c735022e8b75cbd311"
+  }
+}

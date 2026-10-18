@@ -1314,3 +1314,221 @@ Source plane: designated supplemental holdout DUST-06, exact EPUB SHA256 `d533fc
 | VB-DUST06-JV02 | Yunyun → Dust; Dust → paralyzed Perie; Dust → Yunyun; Leen → Dust | C03P35–39/388; C04P381–391; EpiP54–55 | E1 pragmatic/knowledge access; HIGH wording, MODERATE limit-function | Wait at39 cannot be omitted when assessing yielding. Dust’s silence-as-consent statement occurs under actual paralysis and is false. No-witness reassurance384 is Dust’s reply after objection382. Leen’s quiet final qualifier is available to the reader but explicitly unheard by Dust. | No invented receipt, compulsory wording, successful-control test or transfer of a different actor’s voice to K08. Full selected source strings remain private where long; public evidence uses short anchors and native P routes. |
 
 Complete separate principal passes and sealed initials precede coordinated receiving; source-first inventories are not trial denominators. External factual/routing corrections preserve every original. Actual source admission, reading, validation acceptance, full-edition literary coverage and publication remain separate. No new source/body/image or expanded model revision follows from this appendix.
+
+
+## Phase B DUST07 frozen-model validation overlay — JH
+
+Source plane: designated supplemental holdout DUST-07, exact EPUB SHA256 `cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5`, five admitted principal members only. Outside V01–V17 derivation; no frozen R1 model, original 43-contract registry, Gen01–05 history or prior holdout score changes. Acceptance UTC: `2026-10-17T21:16:29.555881+00:00`. Native one-based all-body routes and identity are defined by the [withheld validation](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_WITHHELD_SOURCE_VALIDATION.md). The complete prior ledger remains an exact prefix; main-only historical states remain retrievable at 3b92. Comparative Dust focal access is explicitly separate from Kazuma narration.
+
+| Stable observation ID | Subject | Exact DUST07 context/locator | Evidence class / confidence | Bounded observation | Claim transition / remaining limit |
+|---|---|---|---|---|---|
+| VB-DUST07-JH01 | Kazuma; Megumin; Dust | C01P69/159/164/174/179/1041/1046/1050/1078 | Observed act/report/private Dust appraisal separately identified; HIGH wording/order, MODERATE functional cause | Kazuma’s actual Yamazaki misnaming, mock 様, rescue commitment and coarse challenge have distinct addressees and cues. Megumin’s referent questions are confrontational and lead to collar-grabbing; rank/ethnic status is not automatically chosen Explosion-art priority. | Literal/pragmatic and L0–L3 components remain separate. Ordinary だから and earlier gratitude cannot manufacture a civil contrast in later direct1050 pressure; K08 possible adverse surface remains despite event dependence. |
+| VB-DUST07-JH02 | Wiz; Vanir; incubi; Dust | C01P826–829; C02P497–503/563–566/574–599; C03P241–250 | Observed act/report/private Dust appraisal separately identified; HIGH wording/order, MODERATE functional cause | 我が名はめぐみん is Wiz performing Vanir’s altered script. ドゥーユー事 is a local hybrid-form candidate; pain/itch idiom receives a literal itch payoff. 主語 is the character’s829 wording although the protected entity is grammatically an omitted object/argument. | L0 structure, L1 phrasing, L2 stance/register and L3 form dependence are mechanism questions, not word-count labels. Mixed/competing classifications stay visible; no acoustic inference or third formal coder. |
+| VB-DUST07-JH03 | Keith; Dust; Leen/Vanir | EpiP43–60/96–128 | Observed act/report/private Dust appraisal separately identified; HIGH wording/order, MODERATE functional cause | Keith54 jeers; Dust55 addresses him and objects to blows; Leen56/57 retorts. Real Leen is right101/124–125; the left113 intimacy invitation111 is Vanir’s impersonation, revealed117. | External corrections preserve all originals. S’s preseal erratum already fixes its old note; I DI07-113 needs external correction. No borrowed quotation, speaker stereotype or imagined completed kiss. |
+
+Complete separate principal passes and sealed initial assessments precede coordinated receiving. Every original label and attributable correction remains preserved; no statistical independence, new J02 census or native-human/acoustic certification. Full edition/component analysis, current-model revision and this containing publication gate remain separate.
+
+
+## Stage C DUST-01 expanded-source overlay — JV
+
+Source: Japanese DUST-01, SHA256 `b77ac48f67168395c1437f23b2360f1a833311aba5a8d7177866a93d572c3644`; nine complete principal members, separately analyzed bonus and edition components. Acceptance recorded `2026-10-17T22:53:08.846506+00:00`. Routes use the one-based all-body P convention in [Dust V01](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V01_DEEP_READING.md), §16; bonus routes use p-012.xhtml P1–52. This separately tagged expanded plane preserves the complete prior ledger as an exact prefix and does not amend main-only historical states, R1, Gen01–05 or four-book scores.
+
+| Stable observation | Subject / context | Source route | Evidence / confidence | Accepted bounded finding and claim transition |
+|---|---|---|---|---|
+| EC-DUST01-JV01 | Dust; providers; authority scripts | ProP3–13; C01P169–176; C02P132–135; C03P191–203/270–312; C04P298–305; C05P307–338/511–522 | Exact short forms and addressees; HIGH wording, MODERATE pragmatics | The 33 selected cases distinguish polite exclusion, pressure for compensation, performed mercy and actual apology. C01 ends in intended apology; C05 depicts an actual jumping prostration. Voice grammar is relationship/task dependent, not catchphrase imitation. |
+| EC-DUST01-JV02 | Concealed permission and native name ruby | C02P109–120; FinalP784–801; D01-V10/V32/V33 | Inner represented address/ruby vs external utterance; HIGH layer | Permission to an absent remembered person is inward, not a spoken turn proving their complete relationship. Preserve native ruby bases/readings and original annotation limits. L/H axes remain separate; no acoustic or native-human certification. |
+
+All substantive routes resolve through the complete reading and separate edition analysis; source-safe selected records preserve speaker/addressee and uncertainty. Expanded observation, main-model revision, exact-head publication and whole-corpus completion are distinct.
+
+
+## Stage C artbook component overlay — JV — 2026-10-17T23:27:29.977226+00:00
+
+Sources: ART-CHEERS SHA256 `fb0e29a264b37acb5f8b24cdcbb7be3d343898d0bf7ef61bf4f62a1ce85532ea` and ART-BLESSING SHA256 `12854d8c71ad700cd177d2928250786034f7928a938416c5846dfede9c75b37c`. [Cheers](../10%20Expanded%20Corpus/Artbooks/KONOSUBA_CHEERS_COMPONENT_AND_LITERARY_ANALYSIS.md) and [Blessing](../10%20Expanded%20Corpus/Artbooks/KONOSUBA_BLESSING_COMPONENT_AND_LITERARY_ANALYSIS.md) give complete supplied-component routes and actual reader/receiving limits. Expanded evidence only; main-only frozen histories, R1, Gen01–05, original blanks and four-book scorecards stay unchanged. The entire prior ledger is an exact prefix.
+
+| Stable observation | Named subject | Exact source context / route | Evidence class / confidence | Accepted bounded finding | Claim transition / limit |
+|---|---|---|---|---|---|
+| EC-ARTBOOKS-JV01 | Megumin→Yunyun; Yunyun→Megumin; Kazuma | CHEERS printed122/B1/final; CH-HV09/13 | Exact written short forms with addressee/context; HIGH text | ぼっち is Megumin’s taunt; ソロパーティー is Yunyun’s preferred self-framing. Kazuma’s closing 我が名はカズマ shares elevated grammar after criticism. | EXPAND pragmatic functions, not catchphrase/acoustic imitation; L/culture/H axes separate. |
+| EC-ARTBOOKS-JV02 | Aqua→party; Yunyun→Megumin; Komekko→reader | BLESSING S009/S144/S140–141; selected22voice analyses | Exact source forms and recipient; HIGH selected text | コレは絶対売らない; Yunyun友達なんて欲しくない; drawing-song reader invitation belongs to Komekko. 荒魔鬼鮭 permits L0plot/L3food-name distinction, not acoustic inference. | EXPAND voice-by-context; preserve uncertain tiny glyphs, no full-series portability percentage. |
+
+
+## Stage C Memorial Fanbook overlay — JV
+
+Source: FAN-MEM, SHA-256 `e08725fc99cebadd52f93d05122de36d4ae39b435d0d993c41b068b127ebb32d`, electronic 2020-04-01 ver.001. The [complete analysis](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_AND_LITERARY_ANALYSIS.md), [register](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_REGISTER.json) and [receiving](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_RECEIVING_REVIEW.md) retain exact native routes, unequal authority and reading limits. Snnn is the one-based native spine identity. This separately tagged expanded plane preserves the entire prior ledger and does not replace a frozen checkpoint, R1, Gen01–05 or score history.
+
+| Stable observation | Named subject/context | Source window | Evidence/confidence | Accepted finding | Claim transition/limit |
+|---|---|---|---|---|---|
+| EC-FAN-JV01 | Aqua; ordinary offer versus lexical pun | S102 and S110–111; FM-V15/FM-V20 | L2 current/L1 rival for help; L3 for the water pun | 一肌脱ぐ offers help without a locally exploited stripping ambiguity; the original L3 is qualified. 水商売 has an explicit, central double reading. | REVISE the current classification warrant, preserving original codes; no rule makes all idioms L3. |
+| EC-FAN-JV02 | Kazuma, Medusa and Luna; context functions | S097–099 and S105–107; FM-V09–13/18–19 | Selected L1/L2 written voice; high speaker confidence | Teacher address changes from deference to dependence. Kazuma’s rough instruction differs from self-promotion. Luna’s indefinite postponement functions as withdrawal. | EXPAND role-conditioned voice; no catchphrase, acoustic or independent baseline claim. |
+
+These are two analytical responsibilities, not independent repeated trials. The complete reader read all 121 pages; root sealed an initial 37-page pass, then checked five further pages during coordinated receiving. Shared-lineage limits and all current qualifications apply. Publication remains a separate gate.
+
+
+## Stage C — Dust02 whole supplied edition: japanese voice humor
+
+Source DUST-02; principal p002-p008 plus separately admitted bonus p010 and edition components. The [whole-edition receiving record](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V02_RECEIVING_AND_PROVENANCE.json) preserves full source/reader scopes, both original seven-question proposals, current root dispositions and exact precision history. This appends to the current published ledger; every earlier byte remains an exact prefix. Main-only R1, Gen01-05, original forecasts/blanks and four scorecards stay unchanged. Stage D model revision remains later work.
+
+The producer supplied91 principal append proposals against the exact earlier0ce33a0f baseline. Root received all91; this ledger adopts the relevant scoped observations with current qualifications, then adds one separately identified bonus observation. These are responsibilities and dependent evidence routes, not independent trials.
+
+### DUST02-JV01 — Strategic politeness can attack face
+
+Dust explicitly chooses polite interview syntax to corner Megumin rather than express deference or care.
+
+Source: C02P369–375. Exact short form and literal/pragmatic distinction in V008; no acoustic inference.
+
+Transition: STRENGTHEN. Confidence: HIGH. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-JV02 — Specific rough orders are not merely insults
+
+Retreat procedure, distributed inquiry, conditional rescue bargain and electrical handoff use familiar rough voice for concrete tasks.
+
+Source: C02P760; FinalP101/436/542. Different functions need actual context, not a positive/polite morphology criterion.
+
+Transition: PRESERVE. Confidence: HIGH. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-JV03 — Modesty and comparative worry
+
+Yunyun offers small help; Small’s question makes the actual competence disparity salient.
+
+Source: FinalP166–168. Sparse turn illustrates pragmatic relation, not a complete paired form-effect test.
+
+Transition: STRENGTHEN. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-JV04 — Ownership through conditional service
+
+Small’s conditional manpower offer and later staged dream access preserve limits while obtaining cooperation.
+
+Source: C02P290; FinalP516. Different report/action planes and independent preferences remain; politeness is not unlimited assent.
+
+Transition: STRENGTHEN. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-JV05 — Recipient and knowledge constrain forgiveness
+
+Dust’s alcohol excuse conceals the charm; Yunyun’s forgiving phrase occurs without knowledge of that cause.
+
+Source: C04P176/546. Literal forgiveness is not analyst-certified informed consent.
+
+Transition: PRESERVE. Confidence: HIGH for access distinction. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-JV06 — Partial revelation, not a refused answer
+
+Companion invitation, actual disclosure start and sleeping response make a failed conversation.
+
+Source: EpiP57–65. No content, acoustic performance or deliberate final refusal inferred.
+
+Transition: OPEN. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-JV07 — Purposive register provenance
+
+Thirty-five contextual illustrations preserve speaker/addressee, exact short form, literal gloss, pragmatic function, before/after selected windows and missingness.
+
+Source: Voice V001–V035; humor H001–H061. Post-uncoded-pass presentation selection; no formal J01 score or claims of independent repeated trials.
+
+Transition: PRESERVE. Confidence: HIGH for scope. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-JV08 — Two forms of plain speech and a closing proposal
+
+Taylor uses measured plain speech; Kazuma uses contracted rough plain speech. Leen’s idiomatic accountability challenge exposes selective privacy. The unquoted final line proposes retreat.
+
+Source: Bonus P30-33/P53-56/P65-67. No grammatical formal/plain opposition, necessary Japanese-only L3 mechanism, heard performance or completed departure is asserted.
+
+Transition: QUALIFY. Confidence: HIGH for written forms; MODERATE for broader voice transfer.
+
+Root precision: C03P149/P156-176/P420-424 is direct adverse evidence for N01; no outside perpetrator or moral-acknowledgment condition is added. N02’s observed help exceeds the strength of its inferred tenderness mechanism. Final377-379 comments remain unnamed; Small’s366 protest is the identified turn. Final pullers are three recruited former criminal men. Toy purchase precedes the later thanks/guilt/giving. These limits apply across the appended responsibilities. Publication is a separate gate and Dust03 remains closed until it closes.
+
+
+## Expanded TRPG-CORE received observations — 2026-10-18T02:29:30.403076+00:00
+
+Whole supplied edition accepted at its stated component scopes; containing publication pending. [Complete analysis](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_DEEP_READING.md), [current qualifications](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_CURRENT_QUALIFICATIONS.json) and [all initial/current append decisions](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_LEDGER_APPEND_DECISIONS.json) control these three rows. Edited replay, second-person guide, prospective scenario, optional templates, teaching balloons and references retain unequal authority. No frozen-model/score change, independent trial or main-J01/J02 count.
+
+| ID | Subjects and native printed source route | Observation | Causal/model implication | Authority/adverse limit |
+|---|---|---|---|---|
+| TRPGC-JV01 | Player/PC/GM speaker layers; 022,064,073–076 | Creator challenge, newly improvised insult, death-return explanation and wished-for author cameo use different audiences and authority. | Do not attribute table jokes to PC knowledge or GM deity narration to a main-character spoken turn. | 41 purposeful language witnesses, not natural before/after J01 mappings or independent tests. |
+| TRPGC-JV02 | Aqua/receptionist/Kazuma/Vanir/Chris; 203,249,252,256,261–263 | Short checked forms identify loophole stance, advertising aside, childish apology, private professional doubt and contested authority. | Voice functions require actual speaker, addressee and pragmatic context; Wiz’s eternal20 is profile narration. | No acoustic/native-human claim. Untagged corrector identity cautiously qualified; normalized initial sample forms receive explicit errata. |
+| TRPGC-JV03 | Unnamed sample mage and lifepath narrator; 101,105,113–114 | The sample Fireball uses a visible pause, prolonged continuation and script contrast. This supports written timing/bathos; the113table label is visibly殺しの魔名, without an independently established pun. | Separate portable bathos and materially timed written form; current L1/form-MIXED warrant does not establish the initial L3 claim merely from orthography. | RootRQ02/RQ04 govern current form use; original initial codes/uncertainty remain attributed history. No acoustic/native-human claim or new Megumin cast. |
+
+
+## Expanded TRPG-ADV received observations — 2026-10-18T05:03:55.185963+00:00
+
+Whole supplied edition accepted at its individual actual reading scopes; containing exact publication/full gate pending. [Full reading](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_ADV_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_ADV_LEDGER_APPEND_DECISIONS.json), [qualifications](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_ADV_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_ADV_RECEIVING_AND_PROVENANCE.json) control these additions. Same informed root AI; replay, rules/flavor, reference, optional personas, divider and unperformed scenario remain distinct. No frozen R1/score/blank-field revision or new independent trial.
+
+| ID | Subjects / printed source route | Observation | Implication | Authority and adverse limit |
+|---|---|---|---|---|
+| TRPGA-JV01 | Croak/fortune and king/frog recap; 043; prior Core062 recap | ゲーコーとギョーコー explicitly pairs croak with僥倖 sound; wish-to-king/frog-king is a recapped device event. | The croak/fortune local wordplay centrally needsL3reconstruction, while a portable ironic outcome can contain a language-sensitive nested layer. | Not every chant, script change, historical idiom or fantasy term isL3. Recap is not another independent wish test. |
+| TRPGA-JV02 | Pressure, self-reference and religious stance; 030-041,051,075,084,098 | この身 self-reference, stammered Aqua cheer, rude shut-up interruption, GM darkness-to-passion repair and title-shaped home declaration carry distinct functions/audiences. | Register/pragmatic coding must retain who speaks, to whom, under what pressure and at which PC/table plane. | 49purposefulwitnesses comprise46short fragments and3paraphrase-only records; no audio/native-human judgment or natural before/after effect estimate. |
+| TRPGA-JV03 | World profiles and staged teaching figures; 107,115-121,236,246-249,251,295 | Grand sample personas, Yunyun’s hesitant我が名, Chris’sあたし and royal/humble introductions offer contrastive presentation; Aqua’s GM claim receives elliptical correction. | These examples support descriptive style/functions, not a population distribution or automatically performed register change. | Profile Chris does not reveal Eris identity here.シンフォニア gloss is Symphonia; original English Sinforia retained historically. Hypothetical script dialogue remains unperformed. |
+
+
+## Expanded DUST-03 received observations — 2026-10-18T06:18:22.445096+00:00
+
+Whole supplied edition accepted at declared fiction/component scopes; containing exact publication/full gate pending. [Full seventeen-responsibility reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_LEDGER_APPEND_DECISIONS.json), [seven unchanged-question local assessments](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_EXPLORATORY_LOCAL_ASSESSMENTS.json), [qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_RECEIVING_AND_PROVENANCE.json) control these additions. Same continuing informed root, with known later principal exposure; no independent reader, new main validation cohort or acoustic claim. Frozen R1/66current/72historical/four scores/original14blank future fields remain exact. Direct contrary conduct, actual checking, missing full triggers and distinct provider agreements remain visible.
+
+| ID | Subjects / native route | Observation | Implication | Authority and adverse limit |
+|---|---|---|---|---|
+| DUST03-JV01 | Dust performed roles; U011:P0099;U012:P0428–0432;U013:P0793–0807/0856–0869;U014:P0330–0366 | He uses flattering subordinate speech, instant jewel-driven deference, a monitored Rein imitation and recalled envoy/knight etiquette. | Recipient, concealment and task independently explain written register changes; honorifics do not uniquely measure care. | 77 contextual witnesses include a duplicate-event replay and embedded reports, not a frozen before/after experiment or acoustic/native-human validation. |
+| DUST03-JV02 | Polite criticism, refusals and indirect thanks; U011:P0381–0409/0467–0478;U012:P0525–0526;U013:P0294–0297;U017:P0032–0039 | Luna keeps polite form while confirming an insult; Yunyun refuses payment and a friendship label; Leen denies the couple label; Iris disguises directed thanks as soliloquy. | Form, proposition and pragmatic force require separate reading rather than politeness-to-consent shortcuts. | Content-only boundaries can remain L0; storing a Japanese fragment does not automatically make L1/L2 dependence material. |
+| DUST03-JV03 | Anraku Girl, old instruction and language limits; U011:P0259–0278/0751–0798;U012:P0086–0088;U016:P0006–0007 | The plant changes fragile, stilted, direct, deferential and abusive personae; Iris explicitly comments on idiom color; the recalled instruction has lady-or-protected-person exceptions. | Only the explicit black-eye mismatch supports the selected central L3 case; full permission alternatives must survive paraphrase. | Katakana and ordinary idioms are not automatic L3. Old instruction is a recalled quote; no native-human speech judgment or exact allusion history is claimed. |
+
+
+## Expanded DUST-04 received observations — 2026-10-18T07:29:49.102050+00:00
+
+Whole supplied edition accepted at declared scopes; containing exact publication/full gate pending. [Full seventeen-responsibility reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_LEDGER_APPEND_DECISIONS.json), [seven unchanged-question local assessments](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_EXPLORATORY_LOCAL_ASSESSMENTS.json), [qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_RECEIVING_AND_PROVENANCE.json) control these additions. Same continuing informed root with known later principal exposure; no independent reader, new main validation cohort or acoustic claim. FrozenR1/66current/72historical/four scores/original14blank fields remain exact. Actual protective costs, coercive choices, incomplete conjuncts, correct checking and provider terms remain visible.
+
+| ID | Subjects / native route | Observation | Implication | Authority and adverse limit |
+|---|---|---|---|---|
+| DUST04-JV01 | Performed roles and recipient shifts; U011:P0341–0358;U012:P0074–0076/0441–0448/1005–1018/1062–1070;U013:P0183–0186 | Dust performs old fortune teller, formal denial and alarmed witness; Rein preserves courteous criticism; Small uses a grandfatherly relation; Aqua prompts Zesta seriousness. | Independent disguise, recipient pressure and actual access establish roles before form is used to explain their expression. | Eighty native-verified written fragments are selected, not a spoken corpus, acoustic judgment or independent before/after test. Politeness alone does not establish affection or assent. |
+| DUST04-JV02 | Specific forms and their limits; U012:P0395–0403/0594–0600/0632–0635;U014:P0152–0160/0218–0221 | The near-form correction and shared word completion require reconstruction; here-too, an affirmative anger assurance and extended ship imagery are material but translatable forms. | Use L3 for central Japanese form, L1 for particular wording and L0 when a portable proposition suffices. | No automatic L3 from katakana, idiom, omitted wording or a stored Japanese fragment; the unverified moon allusion is not certified. |
+| DUST04-JV03 | Professional refusals and coercive reinterpretation; U011:P0448–0458;U012:P0617–0689;U013:P0304–0310/0349–0351;U014:P0137–0143/0314–0324 | Small limits recipient and work, Zesta converts a courteous deferral into supposed assent, she flatly refuses his address request and Leen refuses the gaze. | Ordinary refusal content and pragmatic reinterpretation require separate judgments; actual veto ownership and force matter. | No hidden opposite consent from professional dress, apparent pleasure or crude narrative framing. Non-graphic derivative account; no audio/native-human claim. |
+
+
+## Expanded DUST-05 received observations — 2026-10-18T09:04:10.135762+00:00
+
+Whole supplied edition accepted at declared scopes; containing exact publication/full gate pending. [Full17responsibility reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_LEDGER_APPEND_DECISIONS.json), [7unchanged-question assessments](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_EXPLORATORY_LOCAL_ASSESSMENTS.json), [29qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_RECEIVING_AND_PROVENANCE.json) control uptake. Same informed continuing root/known later principal exposure; no independent reviewer or new main score/audio claim. Frozen66/72/fourscores/original14blanks exact. Earlier [Dust04 additive coercive-scope correction](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_N01_COERCIVE_DANGER_PRECISION.json) remains current: coercive danger needs no bodily-injury threshold, and earlier direct contraries remain.
+
+| ID | Subjects / native route | Observation | Implication | Authority and adverse limit |
+|---|---|---|---|---|
+| DUST05-JV01 | Past/current Dust and independently supplied roles; U010:P0165–0195/0445–0465;U012:P0573–0600/0655–0686 | Formal 私/knight courtesy contrasts with current 俺/rough manner; recipient judges flat emotional recitation; painful headbutt returns current self-name/register. | Role/history are established by source action before voice is used to explain their expression. | Ninety-eight written native-checked fragments are selected, not heard audio/native-human judgments or prospective before/after testing; politeness alone proves no moral quality or rank. |
+| DUST05-JV02 | Assent, choice and refusal forms; U010:P0224–0229;U011:P0684–0698/0834–0848/1000–1036;U012:P0448–0458 | Distracted acknowledgment is seized, forced thanks retains dislike, hearing-only formula withholds acceptance and repeated conversion alternatives erase refusal. | Interpret pragmatic force through independent coercion, owned leverage and actual response. | Yun's relieved reluctance follows offered accommodation; Small's tear-deformed thanks follows release. Neither wording alone establishes hidden consent. |
+| DUST05-JV03 | Child speech and narrow form burden; U011:P0046–0059/0125–0136/0932–0938;U012:P0714–0723;U014:P0004–0005 | Segmented master title is misread, slurred old-name fragment cut off, blend rejected, elongated surprise follows belated message, author repairs a rude adjective. | Each anchor has a native context join and specific materiality argument; old-name resolution is later and attributable. | No exact full name from early fragment alone; false accusations remain non-graphic. Paratext self-correction is not a character observation or independent test. |
+
+
+## Expanded DUST-06 received observations — 2026-10-18T10:04:53.783186+00:00
+
+Whole supplied edition accepted at stated scopes; containing publication/full gate pending. [Full seventeen-responsibility reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_LEDGER_APPEND_DECISIONS.json), [seven unchanged-question assessments](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_EXPLORATORY_LOCAL_ASSESSMENTS.json), [34 qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_RECEIVING_AND_PROVENANCE.json) control uptake. Same informed continuing root/known earlier principal exposure; no independent reviewer or new main score/audio claim. Frozen66/72/four scores/original14blanks exact. Prior Dust04 additive coercive-scope correction remains current: no bodily-injury threshold and no later-success repair of earlier contrary evidence.
+
+| ID | Subjects / native route | Observation | Implication | Authority and adverse limit |
+|---|---|---|---|---|
+| DUST06-WHOLE-JV01 | Old and present Dust role adaptation; U010P0101–0114;U011P0090–0099/0580–0596/0740–0749/0873–0879/1023–1033;U013P0505–0514 | Formal refusal/private bare-name boundary, awkward ぜ, pronoun repairs, natural 俺, old private courtesy and sincere congratulations have independently established roles/history. | Generate recipient/state-conditioned voice rather than a single catchphrase or moral label. | 107written native-joined fragments only; no heard acoustic shift, independent before/after voice experiment or new main J01 trial. |
+| DUST06-WHOLE-JV02 | Assent, invitation and repair; U012P0029–0071/0553–0596;U013P0485–0492/0606–0640;U014P0046–0055 | Manners request, term-before-assent complaint, formal no-veto, renewed continuation choice, 悪い clarification and quiet public-setting qualification have distinct pragmatic force. | Use recipient response and independent coercion/exit facts to interpret form. | Politeness not permission; later pleasure not retroactive assent. Leen last words/uncompleted quiet line not Dust heard knowledge. |
+| DUST06-WHOLE-JV03 | Language burden and paratext; U011P0762–0771/1008–1019;U015P0012–0016/0026–0029 | Pride/dust homophony names Dust, exact vow admits another protected person, author who-is-this reaction and くれない/紅 joke retain context. | Specific L3 reconstruction need differs from L1 exact-wording evidence and authorial tone. | Native receptionist リーン is not normalized to リール; creator comment not independent character trial, absent bonus novel not read. |
+
+
+## Expanded DUST-07 received observations — 2026-10-18T11:33:04.335402+00:00
+
+Whole supplied edition accepted at stated scopes; containing publication/full gate pending. [Full seventeen-responsibility reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_LEDGER_APPEND_DECISIONS.json), [seven unchanged-question assessments](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_EXPLORATORY_LOCAL_ASSESSMENTS.json), [44 qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_RECEIVING_AND_PROVENANCE.json) control uptake. Same informed continuing root/known earlier principal exposure; no independent reviewer or new main score/audio claim. Frozen66/72/four scores/original14blanks exact. Prior Dust04 additive coercive-scope correction remains current: no bodily-injury threshold and no later-success repair of earlier contrary evidence.
+
+| ID | Subjects / native route | Observation | Implication | Authority and adverse limit |
+|---|---|---|---|---|
+| DUST07-WHOLE-JV01 | Dust audience-specific rough voice; U011P0361–0376/1037–1115;U013P0215–0276/0498–0524;U014P0141–0148 | Rough voice accommodates explicit disposal/return checks, euphemized training, feigned anger, private protective wish, former-role admission and chosen current identity. | Generate voice from recipient, purpose, access and actual role rather than moralizing roughness or copying one catchphrase. | 146current written fragments native-window joined; no audio/native-human or independent before-after/J01 claim. One original elongation mismatch remains explicit, shortened current form verified. |
+| DUST07-WHOLE-JV02 | Small, spies, Leen and owned uptake; U011P0305–0339/0557–0705;U012P0511–0546;U014P0072–0125 | Purpose repair, refusal, offered exit/owned revenge, servile cover, ordinary alarm slip, no-veto and later protest, prepayment and false invitation have distinct pragmatic forces. | Interpret form through independent actor/history/terms rather than assuming politeness, flattery or enthusiasm equals blanket consent. | Praise follows initial revenge choice; later towing cost unanticipated. Real Leen right, Vanir left; neither epilogue approach reaches mouth contact. |
+| DUST07-WHOLE-JV03 | Form precision and unequal paratext; U012P0574–0583/0877–0885;U015P0009–0021;U017;VOICE V055 | Question pun needs reconstruction, class correction changes model, creator main-character/discarded qualifiers limit claims; current exact subtitle 愚者 corrects earlier note expansion. | Material L1 qualification, L2 force and L3 form are separate arguments tied to actual context. | 145original anchors exact/one elongation mismatch preserved and current shortened; no silent sealed-note repair, title backfill or read/canon credit for discarded draft. |
+
+
+## Expanded DUST-CONT received observations — 2026-10-18T12:45:50.687643+00:00
+
+Whole supplied edition accepted at stated scopes; containing publication/full gate pending. [Full seventeen-responsibility reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_LEDGER_APPEND_DECISIONS.json), [seven unchanged-question assessments](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_EXPLORATORY_LOCAL_ASSESSMENTS.json), [45 qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_RECEIVING_AND_PROVENANCE.json) control uptake. Same informed continuing root with known main/four-holdout and prior numbered Dust exposure; this separately admitted continuation receives no pristine blind-test claim. No independent reviewer or new main score/audio claim. Frozen66/72/four scores/original14blanks exact. Prior Dust04 additive coercive-scope correction remains current: no bodily-injury threshold and no later-success repair of earlier contrary evidence.
+
+| ID | Subjects / native route | Observation | Implication | Authority and adverse limit |
+|---|---|---|---|---|
+| DUSTCONT-WHOLE-JV01 | Dust role-conditioned written voice; U011P0006–0028/0263–0271/0410–0441;U013P0216–0223/0329–0334;U014P0059–0074/0433–0444 | Courtesy rehearsal, 私-to-俺 repair, deliberate rough denial, careful contract/band questions and private knight/princess address condition actual context. | Generate voice from role, recipient, access and current choice rather than a morally fixed polite/rough split. | 150original fragments native-window exact, no audio/native-human/independent before-after or new main J01 trial. Serious role metacomment not H3/H4 by itself. |
+| DUSTCONT-WHOLE-JV02 | Owned uptake and coercive pragmatics; U010P0003–0007;U011P0118–0183;U012P0269–0288;U013P0133–0165;U014P0074–0108 | No-veto letter, recipient-specific informality, false gag translation, explicit missing assent, cheap-praise veto and resisted shock have independently established force. | Politeness, current enthusiasm, affection or role-play framing does not substitute for the actual persons heard term/exit. | Small later object/learning uptake and Leen own continued reasons remain positive facts, without retroauthorizing earlier assignment; actual pain not erased by nonlethality. |
+| DUSTCONT-WHOLE-JV03 | Evidence qualification and performance; U012P0118–0128/0283–0307;U013P0500–0531;U014P0274–0287/0544–0556;U015P0006–0010;U017P0030 | Wait-for-all, only-rumor/all-conjecture, miscalculation, abrupt accusation and public brainwash claim identify different evidential/pragmatic acts; ebook thanks repairs medium. | Interpret form through actual speaker/audience and report/claim/observed truth distinctions. | No universal unreliable narrator, actual brainwashing proof or performed hostage from threatened plan. No L3 quota or clinical diagnosis from quoted banter. |
+
+
+## Expanded EXP-01 received observations — 2026-10-18T14:03:27.763693+00:00
+
+Whole supplied edition accepted at stated scopes; containing publication/full gate pending. [Full seventeen-responsibility reading](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_LEDGER_APPEND_DECISIONS.json), [7 unchanged-contract local assessments](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_EXPLORATORY_LOCAL_ASSESSMENTS.json), [42 qualifications](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_RECEIVING_AND_PROVENANCE.json) control uptake. Same informed root after main17, four holdout principals, mixed sources and eight complete Dust supplied editions; no pristine blind or native-human claim. Main R1 remains frozen. No independent reviewer or new main score/audio claim. Frozen66/72/four scores/original14blanks exact. Prior Dust04 additive coercive-scope correction remains current: no bodily-injury threshold and no later-success repair of earlier contrary evidence.
+
+| ID | Subjects / native route | Observation | Implication | Authority and adverse limit |
+|---|---|---|---|---|
+| EXP01-WHOLE-JV01 | Megumin’s function-first repertoire and Yunyun’s directness; VoiceV001–V108;U037P0268–0329;U043P0183–0219 | Polite structures carry ordinary reasoning, firm preference, manipulation, care, disclosure and threats. Yunyun uses hesitant invitations as well as precise objections, chosen instructions and direct refusal. | Preserve recipient, function, confidence and context before style; ordinary neutral speech remains possible. | 108 exact original fragments are written witnesses, not complete speech frequencies, sound evidence, native-human review or catchphrase mandates. |
+| EXP01-WHOLE-JV02 | Child/devil address, reference and source-plane language; IMG011/017/020/025–043;U018P0496–0539;U043P0574–0614 | Repeated name reference rebounds against its inventor; deferential devil/child address changes with particular requests and is later renegotiated. Long image dialogue and prose carry indispensable language evidence. | Use explicit native image hashes and narrative groups; distinguish creator address, fictional article and character speech. | Not every ruby, idiom or theatrical name is L3. The central 親子丼 hinge requires cultural/lexical reconstruction; no acoustic inference. |

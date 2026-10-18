@@ -1,0 +1,48 @@
+{
+  "schema": "KONOSUBA_TRPG_ADV_POST_SEAL_PRECISION_OVERLAY_V1",
+  "created_utc": "2026-10-18T04:48:31.673400+00:00",
+  "initial_seal_sha256": "311a0e465734dd4508b34234e11cc7b1981c25b1c957fde1f7da10fd8ee3765c",
+  "initial_notes_unchanged": true,
+  "additional_actual_whole_pages": [
+    95,
+    96
+  ],
+  "additional_actual_crop": {
+    "source_spine": 326,
+    "native_crop_box": [
+      90,
+      760,
+      900,
+      910
+    ],
+    "resize_factor": 2,
+    "crop_sha256": "01b8266616e562a7c443ff069cb60c73f84280fdf7fce05a214423e2fb47f1c9"
+  },
+  "findings": [
+    {
+      "id": "ADV-RQ01",
+      "source": "S095/printed093",
+      "current": "The named cheat used by Gilbert is 悪役の迫力 (Villain Presence), turning Goran critical into fumble. This is distinct from the separately printed enemy cheat 邪神の刻印, which targets noncritical failures. Original note already names Villain Presence correctly; this precision check resolves uncertainty without inventing a general rule from it."
+    },
+    {
+      "id": "ADV-RQ02",
+      "source": "S326 promotional back cover",
+      "current": "Crop clearly prints アクセル教団の街. Retain the literal promotional wording; do not silently replace it with アクシズ教団 or overwrite world-reference Alcanretia. This is not a new factual church identity."
+    },
+    {
+      "id": "ADV-RQ03",
+      "source": "S250/printed248; S251 note; S324 index note",
+      "current": "シンフォニア is Symphonia, correcting the initial English gloss Sinforia while retaining its exact Japanese fragment. Initial index note Christ is a typing error for Chris, not a new source reading. These English metadata corrections leave all sealed notes unchanged."
+    },
+    {
+      "id": "ADV-RQ04",
+      "source": "S022 profile enlargement",
+      "current": "Retain printed 出自:動画 already checked in the first pass. Do not replace it with inferred truck background or infer that the source profile is an error-free biography."
+    },
+    {
+      "id": "ADV-RQ05",
+      "source": "S149/147; S220/218; S276/274; S279/277; S287/285; S309/307",
+      "current": "Retain Wire Action maximum/prerequisite discrepancy, below9 versus9orbelow wording, Combat Golem45(3D) hit, Wyvern breath summary/body values, Poison Needle success-trigger wording and Bōren attack summary/type mismatch without silent repair or exhaustive mechanics certification."
+    }
+  ]
+}

@@ -753,3 +753,256 @@ Source plane: designated supplemental holdout DUST-06, exact EPUB SHA256 `d533fc
 | VB-DUST06-N02 | Leen as focal narrator; Dust; letters/rumor speakers | C01P596–640; C03P427–597; C04P301–339/595–600; EpiP54–55 | E1/E3, access/retelling tags; HIGH viewpoint, private intent qualified | Leen’s capture/role-choice perspectives are not automatically available to Dust; later access requires a specifically shown disclosure. Letters and mediated legends are not independent repeats of the old escape. A narrated photograph is textual information without actual image inspection; later prebrief narration supplies a prior route, not inferred omniscience. | Original E23 empty observation route gains an external link to existing D06-R-049 with overlap declared. No new source observation or independent event is manufactured; private qualifier and staff-theater inference stay attributed. |
 
 Complete separate principal passes and sealed initials precede coordinated receiving; source-first inventories are not trial denominators. External factual/routing corrections preserve every original. Actual source admission, reading, validation acceptance, full-edition literary coverage and publication remain separate. No new source/body/image or expanded model revision follows from this appendix.
+
+
+## Phase B DUST07 frozen-model validation overlay — KN
+
+Source plane: designated supplemental holdout DUST-07, exact EPUB SHA256 `cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5`, five admitted principal members only. Outside V01–V17 derivation; no frozen R1 model, original 43-contract registry, Gen01–05 history or prior holdout score changes. Acceptance UTC: `2026-10-17T21:16:29.555881+00:00`. Native one-based all-body routes and identity are defined by the [withheld validation](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_WITHHELD_SOURCE_VALIDATION.md). The complete prior ledger remains an exact prefix; main-only historical states remain retrievable at 3b92. Comparative Dust focal access is explicitly separate from Kazuma narration.
+
+| Stable observation ID | Subject | Exact DUST07 context/locator | Evidence class / confidence | Bounded observation | Claim transition / remaining limit |
+|---|---|---|---|---|---|
+| VB-DUST07-KN01 | Dust as supplemental narrator; Kazuma as reported/observed subject | C01P75–207/975–1115; C03P201–254/618–642; EpiP12–35 | Observed act/report/private Dust appraisal separately identified; HIGH wording/order, MODERATE functional cause | Dust misses recruitment dialogue177, hears training reports, observes some actual Kazuma lines and infers King victory from local weakening. Hypothetical boasting, false marriage rumor and enemy teleport complaint have different access. | Do not assign Dust private thoughts to Kazuma or silently give Dust the main Kazuma E6 class. Actual unfamiliar narrator self-excuses and audience comparisons remain source-plane tagged. |
+| VB-DUST07-KN02 | Dust; Leen; Kazuma | C01P1081–1111; EpiP25–26 | Observed act/report/private Dust appraisal separately identified; HIGH wording/order, MODERATE functional cause | Dust privately knows princess provenance and one-use fatal-magic negation; he tells Kazuma only generic enchantment. Leen’s corpse-loot/profit explanation is knowingly coordinated cover; Dust’s protective gift and release from the past coexist with possible profit. | New source supports a later attributable claim revision to the earlier accepted MAIN16 profit-exposed interpretation. Do not rewrite the frozen main-only reading/model or invent Kazuma’s contemporaneous knowledge. |
+| VB-DUST07-KN03 | Dust; external speakers | C02P664/827–885; C03P15–18/170/432–438/609–642 | Observed act/report/private Dust appraisal separately identified; HIGH wording/order, MODERATE functional cause | Subjective fear, false death/blood assumptions, enemy pet-report and King-weakening hypotheses differ from directly shown events. Decapitation, collapse and cold are actual; permanent deaths/hidden causal intentions remain narrower. | Narrator assertion is evidence with access limits, not automatic omniscience or blanket unreliability. Source corrections must retain exact subjects, timing and independently supported events. |
+
+Complete separate principal passes and sealed initial assessments precede coordinated receiving. Every original label and attributable correction remains preserved; no statistical independence, new J02 census or native-human/acoustic certification. Full edition/component analysis, current-model revision and this containing publication gate remain separate.
+
+
+## Stage C DUST-01 expanded-source overlay — KN
+
+Source: Japanese DUST-01, SHA256 `b77ac48f67168395c1437f23b2360f1a833311aba5a8d7177866a93d572c3644`; nine complete principal members, separately analyzed bonus and edition components. Acceptance recorded `2026-10-17T22:53:08.846506+00:00`. Routes use the one-based all-body P convention in [Dust V01](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V01_DEEP_READING.md), §16; bonus routes use p-012.xhtml P1–52. This separately tagged expanded plane preserves the complete prior ledger as an exact prefix and does not amend main-only historical states, R1, Gen01–05 or four-book scores.
+
+| Stable observation | Subject / context | Source route | Evidence / confidence | Accepted bounded finding and claim transition |
+|---|---|---|---|---|
+| EC-DUST01-KN01 | Dust as comparative narrator, not Kazuma focal access | ProP20–38; C01P38–39; FinalP735–755 | Alternate focal report and inference; HIGH layer | Aqua-as-delusional and Kazuma-as-face-saving are Dust’s motivated accounts; reader knowledge and actual event can oppose him. Do not silently assign Dust the Kazuma-narrator evidence class or treat his private motive guesses as observations. |
+| EC-DUST01-KN02 | Kazuma observed/reported in Dust viewpoint | C01P169–176; C03P1–14; BONUS-01P3–6/38 | Mediated acts and stated request; HIGH report, limited interiority | Dust resolves to apologize when Kazuma returns; completion is not shown by the exchange account. Kazuma’s paid surveillance request is actual dialogue; alleged guild treatment of him is his report, not direct staff testimony. |
+
+All substantive routes resolve through the complete reading and separate edition analysis; source-safe selected records preserve speaker/addressee and uncertainty. Expanded observation, main-model revision, exact-head publication and whole-corpus completion are distinct.
+
+
+## Stage C artbook component overlay — KN — 2026-10-17T23:27:29.977226+00:00
+
+Sources: ART-CHEERS SHA256 `fb0e29a264b37acb5f8b24cdcbb7be3d343898d0bf7ef61bf4f62a1ce85532ea` and ART-BLESSING SHA256 `12854d8c71ad700cd177d2928250786034f7928a938416c5846dfede9c75b37c`. [Cheers](../10%20Expanded%20Corpus/Artbooks/KONOSUBA_CHEERS_COMPONENT_AND_LITERARY_ANALYSIS.md) and [Blessing](../10%20Expanded%20Corpus/Artbooks/KONOSUBA_BLESSING_COMPONENT_AND_LITERARY_ANALYSIS.md) give complete supplied-component routes and actual reader/receiving limits. Expanded evidence only; main-only frozen histories, R1, Gen01–05, original blanks and four-book scorecards stay unchanged. The entire prior ledger is an exact prefix.
+
+| Stable observation | Named subject | Exact source context / route | Evidence class / confidence | Accepted bounded finding | Claim transition / limit |
+|---|---|---|---|---|---|
+| EC-ARTBOOKS-KN01 | Kazuma; Megumin; Yunyun; Darkness | CHEERS121last columns→122first;122/B3 | Direct rival question plus hedged narrator explanation; HIGH form/MODERATE cause | Yunyun asks about forgotten intermediate magic; Kazuma separately hedges it as cause of Megumin’s sweating. His Darkness-investigation motive remains a question; final unnamed aftermath supplies no fixed identities. | PRESERVE both source planes; reverse reviewer overrepair that excluded narrator hedge, no private-cause proof. |
+| EC-ARTBOOKS-KN02 | Kazuma; Aqua; Megumin; Greed | BLESSING S142/S148 | Narrator stereotypes/observed demands/reported cleaning separated | Kazuma’s anti-noble frame coexists with Darkness’s duty claim and later successful compensation demand. Aqua reports cleaning and Megumin infers salmon link; reader explanation is not an initial eyewitness event. | EXPAND access and indirect-causation rules, no omniscient proof or performed refund. |
+
+
+## Stage C Memorial Fanbook overlay — KN
+
+Source: FAN-MEM, SHA-256 `e08725fc99cebadd52f93d05122de36d4ae39b435d0d993c41b068b127ebb32d`, electronic 2020-04-01 ver.001. The [complete analysis](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_AND_LITERARY_ANALYSIS.md), [register](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_REGISTER.json) and [receiving](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_RECEIVING_REVIEW.md) retain exact native routes, unequal authority and reading limits. Snnn is the one-based native spine identity. This separately tagged expanded plane preserves the entire prior ledger and does not replace a frozen checkpoint, R1, Gen01–05 or score history.
+
+| Stable observation | Named subject/context | Source window | Evidence/confidence | Accepted finding | Claim transition/limit |
+|---|---|---|---|---|---|
+| EC-FAN-KN01 | Kazuma; self-implicating adviser | S098–099, ticket explanation, flight and home account | H1 self-appraisal and reported events; bounded inference | He recognizes his own susceptibility and gives a partial account at home. Useful reasoning coexists with fear and self-protection; Medusa’s hidden fate remains unknown. | EXPAND reliability by claim, rather than classifying the whole narrator as truthful or false. |
+| EC-FAN-KN02 | Kazuma; interested business critic | S110–111, commission offer, dashi and protection-racket comparison | H1 speech with L1/L2/L3 narrator stance | He first offers marketing for a share, then supplies a hostile metaphor and ironic distance. Irony does not disprove Aqua’s divinity or establish physical water properties. | EXPAND framing incentives; do not infer biological contents or sex work. |
+
+These are two analytical responsibilities, not independent repeated trials. The complete reader read all 121 pages; root sealed an initial 37-page pass, then checked five further pages during coordinated receiving. Shared-lineage limits and all current qualifications apply. Publication remains a separate gate.
+
+
+## Stage C — Dust02 whole supplied edition: kazuma narrator
+
+Source DUST-02; principal p002-p008 plus separately admitted bonus p010 and edition components. The [whole-edition receiving record](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V02_RECEIVING_AND_PROVENANCE.json) preserves full source/reader scopes, both original seven-question proposals, current root dispositions and exact precision history. This appends to the current published ledger; every earlier byte remains an exact prefix. Main-only R1, Gen01-05, original forecasts/blanks and four scorecards stay unchanged. Stage D model revision remains later work.
+
+The producer supplied91 principal append proposals against the exact earlier0ce33a0f baseline. Root received all91; this ledger adopts the relevant scoped observations with current qualifications, then adds one separately identified bonus observation. These are responsibilities and dependent evidence routes, not independent trials.
+
+Dust is this source’s first-person narrator. The maintained ledger’s filename does not turn Kazuma into its narrator or create a second rolling narrator ledger.
+
+### DUST02-N01 — Expanded first-person responsibility: Dust
+
+The maintained narrator responsibility can append Dust evidence without pretending Kazuma narrates this novel.
+
+Source: Whole DUST-02 principal. This is a scoped expanded-corpus subsection, not an additional rolling narrator ledger.
+
+Transition: PRESERVE. Confidence: HIGH. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-N02 — Own misconduct is sometimes plainly recorded
+
+His narration directly preserves coercive intent, scapegoating and edited diary evidence.
+
+Source: C03P176/420; C04P483–486; EpiP8. Not globally self-exonerating; admission can coexist with minimizing rhetoric.
+
+Transition: REVISE. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-N03 — Reader-only information is not choice information
+
+A private aside supplies the women’s different delayed duration, explicitly unheard by Dust.
+
+Source: C03P477–478/529. Do not call his later inference a refusal of a warning he actually received.
+
+Transition: PRESERVE. Confidence: HIGH. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-N04 — Reports and witnesses around death
+
+Aqua’s call is direct inter-world speech; melted-body repair is later reported by companions while Dust lacked ordinary visual access.
+
+Source: C01P142/178–186. Neither denies actual revival nor invents a full witnessed repair procedure.
+
+Transition: PRESERVE. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-N05 — Offstage dragon resolution
+
+Sword extraction and intended later dragon departure are Dust’s report; reward bag is observed and past prodigy story is Yunyun’s hearsay.
+
+Source: C02P793/811–824. No actual killing, exact identity or completed dragon departure asserted.
+
+Transition: OPEN. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-N06 — Quoted diary as evidence
+
+A first-person inventor’s recorded plans/tests explain exemptions when compared with observation; missing manual and blank future pages limit certainty.
+
+Source: FinalP276–290/310–317. No omniscient documentary guarantee or proof the inventor’s full intentions were realized.
+
+Transition: PRESERVE. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-N07 — Concealment becomes a completed act
+
+An earlier suppression intention is followed by a retrospective statement that incriminating diary parts were torn before the award.
+
+Source: FinalP317; EpiP8. Completed alteration is distinct from the earlier plan; no clean investigation inferred from a bounty.
+
+Transition: STRENGTHEN. Confidence: HIGH. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-N08 — Actual successful inference has corroboration
+
+Yunyun confirms Dust’s interpretation of the gift’s rivalry use, unlike the unconfirmed jealousy inferenceC02P618.
+
+Source: C04P540–541. Do not equalize supported and unsupported mind readings.
+
+Transition: PRESERVE. Confidence: HIGH. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-N09 — A causal explanation is revised
+
+Recovery first suggests destruction; visible orb-like eye opens an activation explanation.
+
+Source: FinalP465–500. Narrator revision, not proof of total epistemic failure or all device properties.
+
+Transition: STRENGTHEN. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-N10 — Concealed cause limits another person’s assent
+
+Yunyun’s forgiveness does not include knowledge of the intentional charm.
+
+Source: C04P172–180/546. Public analysis must preserve recipient access even where the first-person narrator benefits.
+
+Transition: STRENGTHEN. Confidence: HIGH. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-N11 — Ordinary ending includes a projected benefit
+
+He actually carries Leen back; a better dream among familiar friends is his valued expectation.
+
+Source: EpiP66–67. Dream contents and results are not shown.
+
+Transition: PRESERVE. Confidence: HIGH. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-N12 — Dust narrates an overheard and partly summarized meeting
+
+Initial voice recognition is hedged, later corroborated by content. Taylor/Kazuma statements, Dust’s appraisal, and Leen’s motive inference occupy separate planes; the complete complaint list is not printed.
+
+Source: Bonus P50-67. Do not invent grievances or convert absent main-party characters into newly observed actions. Kazuma is quoted inside Dust’s narration, not this story’s narrator.
+
+Transition: PRESERVE. Confidence: HIGH for planes.
+
+Root precision: C03P149/P156-176/P420-424 is direct adverse evidence for N01; no outside perpetrator or moral-acknowledgment condition is added. N02’s observed help exceeds the strength of its inferred tenderness mechanism. Final377-379 comments remain unnamed; Small’s366 protest is the identified turn. Final pullers are three recruited former criminal men. Toy purchase precedes the later thanks/guilt/giving. These limits apply across the appended responsibilities. Publication is a separate gate and Dust03 remains closed until it closes.
+
+
+## Expanded TRPG-CORE received observations — 2026-10-18T02:29:30.403076+00:00
+
+Whole supplied edition accepted at its stated component scopes; containing publication pending. [Complete analysis](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_DEEP_READING.md), [current qualifications](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_CURRENT_QUALIFICATIONS.json) and [all initial/current append decisions](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_LEDGER_APPEND_DECISIONS.json) control these three rows. Edited replay, second-person guide, prospective scenario, optional templates, teaching balloons and references retain unequal authority. No frozen-model/score change, independent trial or main-J01/J02 count.
+
+| ID | Subjects and native printed source route | Observation | Causal/model implication | Authority/adverse limit |
+|---|---|---|---|---|
+| TRPGC-KN01 | World-guide narrative voice; 250–260 | The continuous fiction addresses an unnamed second-person protagonist; Kazuma appears as a speaking character inside it. | Attribute mocked expectations, reader access and evaluations to the guide narrator/newcomer as locally warranted. | Do not import Kazuma’s first-person main-novel narrator grammar or identify the newcomer as Mitsurugi from sword/goddess alone. |
+| TRPGC-KN02 | Edited replay narrator, PC speakers and GM; 010–082 | The GM/editor reports player speech, PC declarations, dice results, improvisation and imagined alternatives under separate labels. | Narrator report of a result, a PC’s boast and a player joke about the creator have unequal fact status. | Not unfiltered historical transcript, actor audio or a third-party independent observation of every biography. |
+| TRPGC-KN03 | Gilbert/receptionist/GM; 080–082 | Gilbert’s executive-rank upgrade meets clerical checking and polite doubt; artifact return remains intended, while the GM explicitly adds150KE cow reward. | Retain self-credit inflation, outside correction and actual reward authorship as different claims. | Receptionist does not certify executive rank or observed temple delivery; future skill learning remains a plan. |
+
+
+## Expanded TRPG-ADV received observations — 2026-10-18T05:03:55.185963+00:00
+
+Whole supplied edition accepted at its individual actual reading scopes; containing exact publication/full gate pending. [Full reading](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_ADV_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_ADV_LEDGER_APPEND_DECISIONS.json), [qualifications](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_ADV_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_ADV_RECEIVING_AND_PROVENANCE.json) control these additions. Same informed root AI; replay, rules/flavor, reference, optional personas, divider and unperformed scenario remain distinct. No frozen R1/score/blank-field revision or new independent trial.
+
+| ID | Subjects / printed source route | Observation | Implication | Authority and adverse limit |
+|---|---|---|---|---|
+| TRPGA-KN01 | Replay narrator/GM/editor versus Kazuma; 010-106 | The replay alternates edited narrator, named players, PCs and GM; source acknowledges improvised ranks, adopted will revision and rules adjudication. | Track evaluator and authorship rather than attributing every comic judgment to Kazuma’s narrating mind. | This is not a Kazuma-first-person novel chapter. Player authorship and narrated PC background do not become principal-character events. |
+| TRPGA-KN02 | Instructional Kazuma figure; 003-004,107 | Indirect criticism is challenged; no advanced class is overread as no improvement; later strengthening is announced with……はず. | Qualified questions/inferences at teaching plane differ from categorical refusal or stable self-knowledge. | No dated main-timeline event, naturalJ01pair, postV17 state or new actual Adventurer class is established. |
+| TRPGA-KN03 | Narrative construction of dragon companionship; 081-082,088-089 | Chio proposes the dragon deathbed addition and GM adopts it; later GM blurts villain motive and cannot fully retract after skill invocation. | Source construction is observable evidence of collaboration and disclosure, not independent prior proof of the same psychological mechanism. | Do not treat the revised will, invented Ten Spears rank or confession requirement as pre-exposure frozen forecast evidence. |
+
+
+## Expanded DUST-03 received observations — 2026-10-18T06:18:22.445096+00:00
+
+Whole supplied edition accepted at declared fiction/component scopes; containing exact publication/full gate pending. [Full seventeen-responsibility reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_LEDGER_APPEND_DECISIONS.json), [seven unchanged-question local assessments](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_EXPLORATORY_LOCAL_ASSESSMENTS.json), [qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_RECEIVING_AND_PROVENANCE.json) control these additions. Same continuing informed root, with known later principal exposure; no independent reader, new main validation cohort or acoustic claim. Frozen R1/66current/72historical/four scores/original14blank future fields remain exact. Direct contrary conduct, actual checking, missing full triggers and distinct provider agreements remain visible.
+
+| ID | Subjects / native route | Observation | Implication | Authority and adverse limit |
+|---|---|---|---|---|
+| DUST03-KN01 | Dust as narrator, Kazuma as observed friend; U011:P0119–0144;U013:P0079–0092;U014:P0038–0041/0299–0313 | Dust misses Taylor's immediate drink trigger, dismisses the known palace claim and exploits the guards' fear with a false Kazuma report. | Record the external perspective and its information limits without adding Kazuma narration or changing main-only language scores. | His apparent presence during final alarms is a lie; present Kazuma voice and later reports are not independent full main-character trials. |
+| DUST03-KN02 | Mislabeling and bounded correction; U011:P0326/0635–0669/0805–0813;U012:P0063–0103/0472–0479;U013:P0758–0913;U014:P0009–0022 | Dust labels gifted fruit stolen, staged extortion blameless flirting, coercive payment voluntary and palace access a dream; some acts and witnesses contradict his labels. | Retain acts and corrections while distinguishing evaluative distortion, actual lying and mistaken causal inference. | He also checks solicitation and product risk and later accepts the bonus check. One failure is not global unreliability; correction does not prove remorse. |
+| DUST03-KN03 | Source layers and duplication; U010/U013:P0856–0869;U013:P0506–0586;U014:P0107/0143–0145;U016:P0006;IMG004/020–021 | The opening recurs, captions excerpt dialogue, Beldia is projected, the second mask mode lacks control and the old rule is remembered. | Deduplicate event presentations and keep direct, reported, inferred, remembered, illustrated and promotional planes distinct. | The magic mechanism is partly inferred; image placement does not certify the adjacent action is pictured. U017's native banner, not a guessed filename, identifies the epilogue. |
+
+
+## Expanded DUST-04 received observations — 2026-10-18T07:29:49.102050+00:00
+
+Whole supplied edition accepted at declared scopes; containing exact publication/full gate pending. [Full seventeen-responsibility reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_LEDGER_APPEND_DECISIONS.json), [seven unchanged-question local assessments](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_EXPLORATORY_LOCAL_ASSESSMENTS.json), [qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_RECEIVING_AND_PROVENANCE.json) control these additions. Same continuing informed root with known later principal exposure; no independent reader, new main validation cohort or acoustic claim. FrozenR1/66current/72historical/four scores/original14blank fields remain exact. Actual protective costs, coercive choices, incomplete conjuncts, correct checking and provider terms remain visible.
+
+| ID | Subjects / native route | Observation | Implication | Authority and adverse limit |
+|---|---|---|---|---|
+| DUST04-KN01 | Outside-view information routes; U012:P0282–0440/0563–0585/1019–1037;U014:P0009–0011 | Keith optics, later battle remains, a limited outing report, overheard palace talk and reported Iris victory give different access to events. | Dust is an informed but restricted narrator; main scenes viewed again are attributable alternate perspectives, not independent holdout trials. | Unknown third man, undead cause, private evening, palace details and unseen audio are not filled from prior main knowledge. |
+| DUST04-KN02 | Deliberate presentation versus inference error; U011:P0310–0340;U012:P0805–0813/1075–1079;U013:P0120–0138;U015:P0011–0014 | Dust admits wanting retaliation, denies his privately admitted worry, knowingly appropriates entrusted funds and hides the prophecy contribution; he also correctly detects the dangerous confession. | Separate lying, minimizing, selective credit, anxious guessing and genuine reasoning rather than labeling all narration unreliable. | A later useful act does not prove earlier pure intent; ownership misuse is not automatically unnoticed terms. The advance discrepancy remains unrepaired. |
+| DUST04-KN03 | Delayed explanation and fictional accusations; U010;U014:P0187–0223/0339–0404/0418–0430 | The prologue repeats the final draw, the plan is explained retrospectively as formed before rules, and Dust/Small invent allegations that mobilize companions. | Deduplicate textual presentations and distinguish the actor's withheld plan from actual absence of a plan. | Royal coercion is independently real, but invented abuse/stakes are not source facts. Revi's late unconditional-release intention is not ex ante knowledge or a performed counterfactual. |
+
+
+## Expanded DUST-05 received observations — 2026-10-18T09:04:10.135762+00:00
+
+Whole supplied edition accepted at declared scopes; containing exact publication/full gate pending. [Full17responsibility reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_LEDGER_APPEND_DECISIONS.json), [7unchanged-question assessments](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_EXPLORATORY_LOCAL_ASSESSMENTS.json), [29qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_RECEIVING_AND_PROVENANCE.json) control uptake. Same informed continuing root/known later principal exposure; no independent reviewer or new main score/audio claim. Frozen66/72/fourscores/original14blanks exact. Earlier [Dust04 additive coercive-scope correction](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_N01_COERCIVE_DANGER_PRECISION.json) remains current: coercive danger needs no bodily-injury threshold, and earlier direct contraries remain.
+
+| ID | Subjects / native route | Observation | Implication | Authority and adverse limit |
+|---|---|---|---|---|
+| DUST05-KN01 | Information route versus deliberate lie; U010:P0187–0195/0424–0437;U012:P0014–0038/0471–0479/0691–0702;U013 | Formal-leak cover, parent story, rumor fabrication, hangover and tab are admitted representations; Duke/Wiz and charm mechanisms are reports; princess epilogue is reader-only. | Separate lying, inference, memory/confusion and alternate-view access rather than globally unreliable narration. | Late mechanism or epilogue knowledge cannot be backfilled; exact causal share of Dust's campaign is unisolated from Kazuma's work. |
+| DUST05-KN02 | Kazuma as friend, provider and partly unseen agent; U011:P0561–0576/1234–1344;U012:P0006–0012/0107–0111/0697–0702 | Food transfer is seen without audible appeal, reflected collapse mechanism initially unknown, friend arrives and pays a narrow task, eventual Serena resolution is attributed to him. | Alternate Dust perspective can add attributable social/context evidence without independently rescoring known main outcomes. | No whole unseen trial, private act, main15 retest or generic raw-combat-rank inference; IMG014 depicts arrival not earlier kick. |
+| DUST05-KN03 | Reputation, concealed search and reader-only princess; U012:P0219–0243/0341–0358/0714–0723;U013:P0003–0028 | True solo arrival is discounted under prior lies; Dust searches while claiming sleep; knight legend is reported; child message and epilogue separately imply princess facilitation. | Keep what companions can reasonably appraise apart from hidden action and later reader corroboration. | Princess personally unnamed, intended visit unperformed; old full name is now local source knowledge, not silently repaired earlier UNKNOWN. |
+
+
+## Expanded DUST-06 received observations — 2026-10-18T10:04:53.783186+00:00
+
+Whole supplied edition accepted at stated scopes; containing publication/full gate pending. [Full seventeen-responsibility reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_LEDGER_APPEND_DECISIONS.json), [seven unchanged-question assessments](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_EXPLORATORY_LOCAL_ASSESSMENTS.json), [34 qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_RECEIVING_AND_PROVENANCE.json) control uptake. Same informed continuing root/known earlier principal exposure; no independent reviewer or new main score/audio claim. Frozen66/72/four scores/original14blanks exact. Prior Dust04 additive coercive-scope correction remains current: no bodily-injury threshold and no later-success repair of earlier contrary evidence.
+
+| ID | Subjects / native route | Observation | Implication | Authority and adverse limit |
+|---|---|---|---|---|
+| DUST06-WHOLE-KN01 | Dust and Leen knowledge planes; U010P0590–0640;U012P0414–0597;U013P0303–0339 | Leen viewpoint supplies actual capture/role/exit decisions unavailable to Dust; he assumes bodily safety/luxury, then asks assent and receives embellished retrieval demand. | Distinguish reasonable bodily appraisal, unsupported autonomy inference, later direct question and reader-only facts. | Later private release offers cannot justify earlier delay; maid knowing collusion differs from butler actual false identification. |
+| DUST06-WHOLE-KN02 | Explicit lies, reports and correction; U011P0386–0437/0903–0916;U013P0174–0208/0361–0368 | Princess letter denies night implication/admitting drug; captain specifies official account; Dust expressly labels hated-princess claim and heiress story false. | Assign statement-specific truth/access rather than global unreliability or accepting genre scripts as facts. | Non-graphic false night claim is not completed encounter; false orphan/forced-marriage recruitment not real family facts; hostage lie worsens threat. |
+| DUST06-WHOLE-KN03 | Other main figures and reader-only ending; U010P0422–0454/0507–0583;U013P0485–0492;U014P0046–0067 | Iris-mediated legend mostly right, actual Explosion/Vanir/Wiz encounter supplies bounded local facts; quiet Leen setting qualification and raid summons have distinct access/completion. | Expanded Dust perspective adds attributable evidence without retesting known main outcomes or filling future events. | No unheard line credited to Dust, no entire unseen Iris history/movie/audio, no final raid outcome or new original main score. |
+
+
+## Expanded DUST-07 received observations — 2026-10-18T11:33:04.335402+00:00
+
+Whole supplied edition accepted at stated scopes; containing publication/full gate pending. [Full seventeen-responsibility reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_LEDGER_APPEND_DECISIONS.json), [seven unchanged-question assessments](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_EXPLORATORY_LOCAL_ASSESSMENTS.json), [44 qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_RECEIVING_AND_PROVENANCE.json) control uptake. Same informed continuing root/known earlier principal exposure; no independent reviewer or new main score/audio claim. Frozen66/72/four scores/original14blanks exact. Prior Dust04 additive coercive-scope correction remains current: no bodily-injury threshold and no later-success repair of earlier contrary evidence.
+
+| ID | Subjects / native route | Observation | Implication | Authority and adverse limit |
+|---|---|---|---|---|
+| DUST07-WHOLE-KN01 | Main events, inference and reports; U011P0086–0207/0281–0295;U013P0562–0647;U014P0019–0028 | Aqua/cave-training learned through report/inquiry; enemy aura lore plus unexpected cold and later weakness reports prompt local Kazuma-victory conjecture/private certainty. | Grade evidence as report, actual local observation, lore and inference without erasing useful corroboration. | Unseen main battle not new root direct reading/independent holdout; prior known source exposure retained, no new original score. |
+| DUST07-WHOLE-KN02 | Known lies, actual mistakes and updates; U011P0525–0536;U012P0381–0442/0821–0890;U013P0663–0677 | Dust knowingly invents wife rumor, plans controlled spy information, accepts false enemy class/victory model then owns error; retaliatory truth names recruitment/dream lies. | Separate intentional performance from mistaken belief and evidence-sensitive revision. | Hidden actor intention alone not global unreliability; public ignorance not universal, no full opponent death check or main-motive omniscience. |
+| DUST07-WHOLE-KN03 | Reader-only intimacy, images and creator planes; U014P0072–0125;IMG015/016/017/018;U015 | Right-side real Leen/left-side disguise, unheard voyeur intent, quiet sword remark and displaced art preserve unequal access; afterword names historical final numbered volume and discarded route. | Bind exact actor/contact/placement before inferential uptake; corpus and source-plane boundaries persist. | No mouth kiss, telepathy proof or unsupplied alternate ending. Art not independent repeat; historical final volume not exhaustion, unnumbered continuation remains. |
+
+
+## Expanded DUST-CONT received observations — 2026-10-18T12:45:50.687643+00:00
+
+Whole supplied edition accepted at stated scopes; containing publication/full gate pending. [Full seventeen-responsibility reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_LEDGER_APPEND_DECISIONS.json), [seven unchanged-question assessments](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_EXPLORATORY_LOCAL_ASSESSMENTS.json), [45 qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_RECEIVING_AND_PROVENANCE.json) control uptake. Same informed continuing root with known main/four-holdout and prior numbered Dust exposure; this separately admitted continuation receives no pristine blind-test claim. No independent reviewer or new main score/audio claim. Frozen66/72/four scores/original14blanks exact. Prior Dust04 additive coercive-scope correction remains current: no bodily-injury threshold and no later-success repair of earlier contrary evidence.
+
+| ID | Subjects / native route | Observation | Implication | Authority and adverse limit |
+|---|---|---|---|---|
+| DUSTCONT-WHOLE-KN01 | Dust/Leen/private epilogue access; U012P0436–0510;U013P0291–0300;U014P0144–0161/0329–0347;U016 | Leen own reasons, NEW sensory sharing, later princess letter, partial swap report and private Gaibil aftermath arrive at different knowledge boundaries. | New information updates current account without backdating access or calling every hidden fact a reasoning failure. | Dust does not know private new contract; earlier rescue/identity beliefs remain historical, original frozen states untouched. No root independent rereading of remote main battle. |
+| DUSTCONT-WHOLE-KN02 | Reports, known lies and institutional accounts; U011P0468–0538;U012P0075–0142;U013P0306–0351;U014P0544–0556;U015–016 | Bookshop/holy-water/reputation statements are mediated, immunity qualifications knowingly omitted, public brainwash/no-harm account differs from private contract and actual shock. | Grade each source plane and claim rather than accepting official/public or sympathetic wording as complete truth. | In-world legal/medical claims not real guidance; no absent books/audio/anime credit, no zero-harm conclusion or actual mind-control proof from quoted performance. |
+| DUSTCONT-WHOLE-KN03 | Public legend, private intent and art; U014P0292–0444/0512–0519;U015P0013–0019;IMG017–022 | Identity revival and child transformation actual, public carries wrong bride assumption, accidental perch taken as mastery; merchandise and images extend surfaces at their actual scope. | Preserve partly true recognition without importing intent, private history or consent from representations. | Dependent art not repeated trials; IMG020formal tuxedo/flame motif not solo providers/final kill, IMG022survey not contributor panel, no mouth kiss/settled relationship in IMG021. |
+
+
+## Expanded EXP-01 received observations — 2026-10-18T14:03:27.763693+00:00
+
+Whole supplied edition accepted at stated scopes; containing publication/full gate pending. [Full seventeen-responsibility reading](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_LEDGER_APPEND_DECISIONS.json), [7 unchanged-contract local assessments](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_EXPLORATORY_LOCAL_ASSESSMENTS.json), [42 qualifications](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_RECEIVING_AND_PROVENANCE.json) control uptake. Same informed root after main17, four holdout principals, mixed sources and eight complete Dust supplied editions; no pristine blind or native-human claim. Main R1 remains frozen. No independent reviewer or new main score/audio claim. Frozen66/72/four scores/original14blanks exact. Prior Dust04 additive coercive-scope correction remains current: no bodily-injury threshold and no later-success repair of earlier contrary evidence.
+
+| ID | Subjects / native route | Observation | Implication | Authority and adverse limit |
+|---|---|---|---|---|
+| EXP01-WHOLE-KN01 | A non-Kazuma first-person narrator and reader-only interludes; U014–049;IMG026–043 | Megumin’s narrative mixes direct observation, admitted self-serving motive, private inference and limited access. Komekko’s separate interludes reveal facts unknown to her. | Append comparative narrator-access evidence without claiming Kazuma narrates this book. Keep publication, in-world and reader encounter order distinct. | Reader’s full main17/holdout/Dust exposure does not supply earlier protagonist knowledge or a newly blind test. |
+| EXP01-WHOLE-KN02 | Self-explanation, correction and denied comics; U028P0045–0052/0382–0454;U034P0176–0179→U035–036→U037P0001–0004;U043P0097–0108 | The narrator can distort a true request, misread a romantic frame and invent a barrier after a miss. The two-page comic is bounded by an immediately denied joking allegation. | Attribute an account before accepting its event or cause; preserve independent recipient contradiction. | CurrentQ41 corrects initial uncoded retrospective wording without altering the sealed notes. Comic depiction does not independently verify the alleged past act. |
+| EXP01-WHOLE-KN03 | Divination, public accounts and late rule disclosure; U043P0532–0573;U049;IMG025/040–043 | Adults’ divine-battle account conflicts with the known local cast; Socket withholds a desired future and later discloses the self-involvement blind spot. Horst receives a misleading report. | Retain separate public, protagonist, provider and reader belief states and the actual time of updates. | Empty output is not permanent no-partner proof; later inference is not a completed marriage, goddess death or witnessed future main event. |

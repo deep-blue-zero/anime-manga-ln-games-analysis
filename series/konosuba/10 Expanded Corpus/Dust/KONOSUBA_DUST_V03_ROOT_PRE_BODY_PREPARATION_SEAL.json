@@ -1,0 +1,22 @@
+{
+  "schema": "KONOSUBA_DUST03_INFORMED_ROOT_PRE_BODY_CONTEXT_SEAL_V1",
+  "created_utc": "2026-10-18T05:24:48.454847+00:00",
+  "source_id": "DUST-03",
+  "native_bytes": 18686443,
+  "native_sha256": "58b6a86f341eff89b1b4743c0a62a0c1535c8b4ecb1163fe104fda7fa26f3040",
+  "native_admission_sha256": "30161e56e9a93714cbb39b7c84cde39d63621605b28cfe22c88ac06a40ac7628",
+  "preceding_full_gate_source": "c121df158194c0fd01608899ed07080520b9cfc0",
+  "preceding_fresh_reload_sha256": "de7bf6f67938cdf3b537fc1bbd8c1f4bd106c6aef88ac51d63cc5e3e8583a1d4",
+  "actual_new_story_paragraphs_read_before_this_record": 0,
+  "actual_new_images_viewed_before_this_record": 0,
+  "existing_Dust01_seven_questions_read": true,
+  "original_questions_sha256": "3372733aa462b9e97a7b2bd117fb29c7eff7ab34d0a0bc3d9f4084c2234ddd0f",
+  "original14future_fields_remain_blank": true,
+  "no_new_forecast_generation_or_amendment": true,
+  "known_prior_local_Dust02_assessments": "N01partial with direct coercion contrary evidence;N02partial conjunctive support;N03partial;N04partial with checking counterevidence;N05partial;N06bounded confirmed;N07bounded confirmed. Earlier labels/arguments and original questions remain distinct.",
+  "known_prior_exposure": "Continuing informed root AI after main17/fourholdouts/Dust01-02/art-fan/Core/Advanced; possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim.",
+  "additional_known_later_exposure": "Dust06/07 principal holdouts already read; main17andfourholdout outcomes known. This natural-order continuation cannot be called pristine out of sample.",
+  "nonplot_preparation": "Use unchanged triggers/disconfirmation clauses; keep rival motives, means, consent, provider agreement, real costs, narrator/reader knowledge and updating visible. No pure-motive or goal-completion exemption added.",
+  "source_first_plan": "Read all25native textual units including residuals/front/end/navigation, all24images and full eligible principal/bonus/afterword bodies; record uncoded observations; seal complete before formal language/humor/voice coding and local question assessment. No formal outcome in this prep.",
+  "full_program_continues": true
+}

@@ -1,0 +1,1588 @@
+{
+  "status": "SUBSTANTIVELY_ACCEPTED_DUST07_AND_FOUR_BOOK_VALIDATION_CONCRETE_CANONICAL_CANDIDATE",
+  "candidate_authored_utc": "2026-10-17T21:23:16.911562+00:00",
+  "source_branch": "series/konosuba",
+  "entering_fully_audited_source": "757c58fc8ab0dbd11ac7ea3a904197dc3299cf26",
+  "reconciled_candidate_base": "747f4973549ce6c30731ce3ddf8d466c667f7ad2",
+  "imported_main": "cce4eb7cb02867112afbe1b40fd17c074a666df2",
+  "actual_acceptance": {
+    "state": "ACTUAL_ROOT_ACCEPTANCE_WITH_IMMUTABLE_BASELINE_AND_PRIOR_HISTORY_VERIFIED",
+    "actual_accepted_utc": "2026-10-17T21:16:29.555881+00:00",
+    "local_source_head": "747f4973549ce6c30731ce3ddf8d466c667f7ad2",
+    "last_fully_audited_source": "757c58fc8ab0dbd11ac7ea3a904197dc3299cf26",
+    "accepted_DUST07": {
+      "name": "ROOT_ACCEPTED_DUST07_ALL39_SOURCE_LOCAL_VALIDATION.json",
+      "bytes": 276665,
+      "sha256": "8b44adedfd61592c639f325cca25482d46ba289670d263cb5e2ed836d90e9dab"
+    },
+    "accepted_four_book": {
+      "name": "ROOT_ACCEPTED_FOUR_BOOK_UNCHANGED_R1_RECONCILIATION.json",
+      "bytes": 60673,
+      "sha256": "d9fff8062a5ba4ff7f4e3636d860607b6c013566fce7be5e469f865d7da5475c"
+    },
+    "reviewed_candidate": {
+      "name": "DUST07_COMPLETE_ALL39_ROOT_ADJUDICATION_CANDIDATE.json",
+      "bytes": 273881,
+      "sha256": "a6114bf1036973925d0c3f7ab1ef34689ad1a1bd2a0a8d78cf6223378f1e3ac0"
+    },
+    "reviewed_ledgers": {
+      "name": "TEN_LEDGER_DUST07_VALIDATION_APPEND_MANIFEST.json",
+      "bytes": 7653,
+      "sha256": "a2009b7da850cfa5ac9f5baf7e4181ac75b8da68a906765d4b2940f7c213b0db"
+    },
+    "reviewed_four_book": {
+      "name": "FOUR_BOOK_UNCHANGED_R1_RECONCILIATION_CANDIDATE.json",
+      "bytes": 59762,
+      "sha256": "7271c4867486f1ac7faee4602657a01e69ae972159d88577699fbefac87489d2"
+    },
+    "current66_checks": [
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_AQUA_RECONSTRUCTION_MODEL.md",
+        "bytes": 64491,
+        "sha256": "2f63ef1000c74a2bf105c3cfbbd4258f39e8abe9cf1544fac25768673f17c430",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+        "bytes": 51278,
+        "sha256": "3bec39a1014c50c6704e920b076076ecd2d82ffab0f987fd379844cc68783ee1",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_DARKNESS_RECONSTRUCTION_MODEL.md",
+        "bytes": 62581,
+        "sha256": "e54f45b3aaa74197e76ec917888416b08683ef2b7194586ba060b93979e78bc9",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+        "bytes": 61516,
+        "sha256": "6fe7b325666e339ed86edba70f8d1f9491705f66a6ecdc31eeb44a5bed7a89e4",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_MEGUMIN_RECONSTRUCTION_MODEL.md",
+        "bytes": 60891,
+        "sha256": "cbff1ec4266e8d6908b3d58af9870aa7f981fe40f3a573ed29da345e1f1d801f",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_PARTY_INTERACTION_MODEL.md",
+        "bytes": 67885,
+        "sha256": "cf2082e63718e1c51c171fb9225b0be5da603c1e85900f397c36e233af6d3f8e",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_RECONSTRUCTION_SUITE_AUDIT.md",
+        "bytes": 22872,
+        "sha256": "45f4b598f4aaa18bf74667133e8efcd747f2a93ca94337001b8bdc35c7379d33",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/ACTUAL_EXECUTION_RELEASE_AND_CR007_ACCEPTANCE.json",
+        "bytes": 7102,
+        "sha256": "d0cc0c205a9c7edf440deaf914d60a5f5b4708a35e7775fe62f1e0260c5379a7",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/ACTUAL_FIRST_RESPONSE_SETTINGS_AND_SEALS.json",
+        "bytes": 56954,
+        "sha256": "56d4e4df5b898d66f62ff1c23a830ecaf66ce927f8a327c0beff43e4c5df7085",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/ACTUAL_OWNER_PROMPT_PACK_AQUA_MEGUMIN.json",
+        "bytes": 151637,
+        "sha256": "3c11810c46f78632c92f839d7300cb4514c0582252b0fcb18afa0ac45e7a3b66",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/ACTUAL_OWNER_PROMPT_PACK_DARKNESS_PARTY.json",
+        "bytes": 148201,
+        "sha256": "7fcc86d74bd8932dc5cb4c2c1429948d7e6d9e38d8c3001559c8a61c5932163c",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/ACTUAL_OWNER_PROMPT_PACK_KAZUMA.json",
+        "bytes": 77120,
+        "sha256": "65157674d948f17907893abd47ab630e1e325aea1da1dbf17600b2f606375540",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/ALL39_EXTERNAL_FINDING_COVERAGE_NOT_ACCURACY.json",
+        "bytes": 3333,
+        "sha256": "fa965af1efd2d75ff89efe07cd7ade79bc211e7308c0e4604fc66ec0f0c7d314",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/D1_ELEVEN_OP_FORWARD_INVERSE_PROOF.json",
+        "bytes": 12315,
+        "sha256": "2325145b00870b4924540777920ea60bf22cc3592fce1a8b97e8108b496dafe0",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/EXACT_MODEL_CONTRACT_REGISTRY.json",
+        "bytes": 250967,
+        "sha256": "680748c892a9178852901c217b657119afeea3879e547db8a393d93878d9b833",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/FINAL_AUDIT_AUTHORITY_ADOPTION_OPERATIONS.json",
+        "bytes": 1473,
+        "sha256": "3ea34e13f30631d456f2c748b1a1b0b40f06e99e9e185b8d991c01f2b0676361",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/FINAL_PRE_RESPONSE_BINDING_MANIFEST.json",
+        "bytes": 11094,
+        "sha256": "e8239faaaa5e8f895a6157b30c85168d4b6a0b4df9f637e8058a7fafcc245f4b",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/FINAL_PRE_RESPONSE_BINDING_SEAL.json",
+        "bytes": 3085,
+        "sha256": "4d44a08e0d3cf48ab023317bf3115b7a73b9642ff5d50ae76baf9d4a1172a9d2",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/FINAL_SUITE_AUDIT_BOUNDED_RECEIVING.md",
+        "bytes": 6644,
+        "sha256": "a501fd0684bd8537dfa65464086821be475cb13e0daf2a889e22b705ba1c389e",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/FIRST_RESPONSES_AQUA_MEGUMIN.jsonl",
+        "bytes": 99987,
+        "sha256": "be6e5b65842c4552f3be96acc972697b908f8b0cf690abd58445a55714e9ce71",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/FIRST_RESPONSES_DARKNESS_PARTY.json",
+        "bytes": 264871,
+        "sha256": "ea1c93e54eadde9e4126723f4eed8d0d386daaf6393bbf4ca049aef392b7afb1",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/FIRST_RESPONSES_KAZUMA.jsonl",
+        "bytes": 73974,
+        "sha256": "0617a36e0ddcf21218b1584db9a368f587a55e222176c2446a38effb2df8c740",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/FIXED_EVALUATOR_CASE_BANK.json",
+        "bytes": 130801,
+        "sha256": "1d88c6f5356adcb8b54bb401952be9b4b83f046a4aa141755af4a14e04e74e9f",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/FIXED_EXECUTABLE_PROMPTS.json",
+        "bytes": 304159,
+        "sha256": "a0e260030457c940f06412c33894a86a69ba1aa301044af87ab9e9ab6f60674c",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/FROZEN_MAIN_ONLY_R1_MODEL_BODIES.json",
+        "bytes": 375471,
+        "sha256": "5c013fb950343a20576d3c93d55ee330c4ac2244b50b64e465e2c9b8bcb9b34b",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/INDEPENDENT_D1_ELEVEN_OP_RECEIVING_CLOSURE.md",
+        "bytes": 3685,
+        "sha256": "a38b6748647bbd829fe331df60a6b9f65f0905430641186e5c37ad3a0c73dea9",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/INDEPENDENT_FULL_AQUA_MEGUMIN36_PEER_REVIEW.md",
+        "bytes": 19365,
+        "sha256": "d31f6f858fb3c59b0c94b42ad2937a2c57acad4e5911ae74d5aeb1b06fddb8ff",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/INITIAL_ACTUAL_FULL90_READING_COVERAGE_AND_INPUT_QA.json",
+        "bytes": 7533,
+        "sha256": "bff63bea5dff33f58bb8140657ffbefb6d98dc9ed7860b6f9a243bbb548429e6",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/INITIAL_ALL45_CASES_90_RESPONSES_RECEIVING_MATRIX.md",
+        "bytes": 12775,
+        "sha256": "0d16d2677aea65a4b396f0e42ae51f650b659c5a4268c0f899965159e657bd5c",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/INITIAL_EXTERNAL_ASSESSMENTS_I.json",
+        "bytes": 524020,
+        "sha256": "075062c66fd4904ff219773138e75a02874f6dd9da1d01d51738ca79893ca612",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/INITIAL_EXTERNAL_ASSESSMENTS_K.json",
+        "bytes": 261900,
+        "sha256": "88d7603ae86b6ce0d83d4ed042d851c3ac9a51ed21324cb1e8e495de313a36dd",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/INITIAL_EXTERNAL_ASSESSMENTS_P.json",
+        "bytes": 469810,
+        "sha256": "833c6faab62d2c935cfe71021772b95d9d95f2d832556d392526a19527861ade",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/INITIAL_FULL90_ASSESSMENT_MANIFEST.json",
+        "bytes": 7205,
+        "sha256": "a0f58c59f5f6a04d00ee466e059e9da0429e99c3dfc2fedbaafec6ee8f90c00e",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/INITIAL_FULL90_ASSESSMENT_SEAL.json",
+        "bytes": 1116,
+        "sha256": "d6b83a778db6c071bf5045e42ce11b627d8a0f69ff027a26b15c53e3971ea113",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/INITIAL_FULL90_EXTERNAL_RECEIVING_REPORT.md",
+        "bytes": 19593,
+        "sha256": "9fdb8d683161073ebcbd5c6f6a62dd4bc5553bab618a9143bc1e7c7013b87951",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/INITIAL_SUITE_AUDIT_FULL_RECEIVING.md",
+        "bytes": 9446,
+        "sha256": "d493920578bde18f6944ed8941d0298fd3b41e5ce155e8936829bf74cef6254e",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/KONOSUBA_MAIN_ONLY_R1_REPRODUCTION_NOTES.md",
+        "bytes": 4201,
+        "sha256": "e444b5ee1c928407abca58c2f47b85c4399bb6584ad6dea4f9764f511c63ac09",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/MAIN_ONLY_R1_PUBLIC_ARTIFACT_MANIFEST.json",
+        "bytes": 17349,
+        "sha256": "96ea22275c86c97fad4d89875b1096b314d3cf2ded6381a1dbd1fd7750de72d4",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/MECHANICAL_PUBLIC_SUITE_REPRESENTATION_RECEIVING_REPORT.md",
+        "bytes": 6802,
+        "sha256": "eba44730e13cbb8166861ee96f246d5c0c5b78912e381e285c3af41c597c0941",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/ORIGINAL_CASE_BANK_MANIFEST.json",
+        "bytes": 4956,
+        "sha256": "0dd9328659fcb2e279035300053ed9c29660a5b0a3c6d83f0bfe1cb8b3c2e87c",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/ORIGINAL_CASE_BANK_SEAL.json",
+        "bytes": 1251,
+        "sha256": "dc623e198c411e307c96767a69da21432d88289e198652fa7d93f4a8bebf1120",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/ORIGINAL_LOSSLESS_BINDING_PARTITION_PROOF.json",
+        "bytes": 3063,
+        "sha256": "0ba66e3e4484ac20cd1a0c2f8681088efbfc6fb4611093d6e65ef85707f87d26",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/POST_EXECUTION_DIAGNOSTIC_REPAIRS_V2.json",
+        "bytes": 11664,
+        "sha256": "055a9981e2d6f21b82f99b8c4db0a29f6eede505b7ea720b5632b488d8086df5",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/POST_FIRST_RESPONSE_BINDING_METADATA_ERRATUM.json",
+        "bytes": 2181,
+        "sha256": "7ab16da27fed1c25bfbfd1eae41e93dd473e456c7f8ba982d5680c99a81caf45",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/POST_SHARED_QA_COMPARISON_AND_CURRENT_FINDINGS.md",
+        "bytes": 10338,
+        "sha256": "a5ccbf93b419d7e5b5326a8c605754ec4dc2dfcf8efc2c9b5a2e89ce5f3e5522",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/POST_SHARED_QA_EXTERNAL_CASE_AND_CRITERION_OVERLAY.json",
+        "bytes": 11957,
+        "sha256": "e0106477fd72c4c5dfb451cbb93853a8f238c52d057c73f1c60e5a41840bff9a",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/POST_SHARED_QA_RECEIVING_MANIFEST.json",
+        "bytes": 3983,
+        "sha256": "edd296d3ebe9fe259bcec0b73fd9f33c181a2d5b43e412b82de69e5557d739d5",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/POST_SHARED_QA_RECEIVING_SEAL.json",
+        "bytes": 1276,
+        "sha256": "eda993c23f8df3a28e879d7f0499915253913d64091fe28dc276224b79796807",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/PRECASE_MODEL_RECEIVING_AND_REPAIR_HISTORY.json",
+        "bytes": 104019,
+        "sha256": "7fb09e2d669bc26b32c48676819edd0d80074cdc6a56b753cd811f3826682356",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/PRESERVED_INITIAL_MODEL_CORES_AND_SEALS.json",
+        "bytes": 348399,
+        "sha256": "b5b93737f9c9ec548d630acbb968a9ecaef269f505a6c9232f07e2d490fc4820",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/PRE_RESPONSE_BINDINGS_AQUA_MEGUMIN.json",
+        "bytes": 535162,
+        "sha256": "13c46c5bb36d4c56ba41477ebbd67d1377c6db7076a6ef03305938fd708a953e",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/PRE_RESPONSE_BINDINGS_DARKNESS_PARTY.json",
+        "bytes": 564146,
+        "sha256": "c42a29d0ae406776ae66e70bd4ebdb5b52dbd7aa256a4bf747e75e2fe42885f4",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/PRE_RESPONSE_BINDINGS_KAZUMA.json",
+        "bytes": 283319,
+        "sha256": "36947aa88f432b9e0e26c02542c0a995547852458de812fd1491571089f010b5",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/PRE_RESPONSE_BINDING_HEADER_AND_ORDER.json",
+        "bytes": 3151,
+        "sha256": "782164f1e8bd0c635609f4125e946a0519d57bc62c52888a153249e314e186d7",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/PRODUCER_FULL_KAZUMA18_PEER_REVIEW.md",
+        "bytes": 13110,
+        "sha256": "b9a81871e19a6c7516039c0700acf76ed227dad733603c0267ec65f02cda17b4",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/PUBLIC_MODEL_ADOPTION_OPERATIONS_AND_CORE_RECOVERY.json",
+        "bytes": 22424,
+        "sha256": "e57771309b3872e6b8acb0c5d92ac65599cc20a952aa1e4c04d232b0477cc90b",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/ROOT_FINAL_SUITE_ACCEPTANCE_AND_RECEIVING.json",
+        "bytes": 9284,
+        "sha256": "92b6c4e464590b448d4c7656d02cb7805282cb239ef7178283cb31ca8bae0fbf",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/ROOT_FULL90_ACTUAL_RECEIVING.md",
+        "bytes": 7971,
+        "sha256": "c0de568b4f404078f42cbd101b1a6bec1d3b484c4f88eb7ff17ed98606050103",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/ROOT_FULL90_RECEIVING_SCOPE_AND_PINS.json",
+        "bytes": 2443,
+        "sha256": "0262e0a24790a91bcc622625b474015f69179b42f058322e94d467dfb747c028",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/ROOT_INITIAL_ASSESSMENT_COMPLETE_FACTORED_RECEIVING_AND_MECHANICAL_JOINS.json",
+        "bytes": 20627,
+        "sha256": "0fe6deb0e37f14bbe308c6709b7d892e47ca8fed1e4ad21c3f5690270f3c6501",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/ROOT_POST_FIRST90_EVALUATOR_BANK_REMAINING_FIELDS_RECEIVING.json",
+        "bytes": 1469,
+        "sha256": "79d2d5cdfff165e33d9aaf065dd218f27daef70f37ba45583fd71f64c205f533",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/ROOT_STATIC_CROSS_MODEL_RECEIVING.md",
+        "bytes": 11155,
+        "sha256": "3898c59061eba2cf2209339e9c22e3ee5f574e8bd6e46e1de70cd2d19c42859c",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/SEMANTIC_D1_ELEVEN_OP_RECEIVING_CLOSURE.md",
+        "bytes": 4403,
+        "sha256": "babdd2f2a94267a0fe8e127f4ec0dc79cfc6926affe28aeb3ebb69f1608dbef7",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/SIX_PUBLIC_MODEL_ADOPTION_RECEIVING.md",
+        "bytes": 5840,
+        "sha256": "9b81a489bc72ff62a125af04e671503323db499ea134ffc65daa96c6396942b3",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/SOURCE_SAFE_ENVELOPE_ORIGINAL_SERIALIZATION_MAP.json",
+        "bytes": 6213,
+        "sha256": "80ad017969bd72c88e7b754ae69d44ede131f036b9dcaa7ea87bd6f53b9a4ad6",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/SOURCE_SAFE_PRE_RESPONSE_BINDING_REASSEMBLY_RECIPE.json",
+        "bytes": 4967,
+        "sha256": "4405a817d892c8399eca4b438fc00c62e4ceeb2db74becfa3201563522d086b2",
+        "check": "CURRENT_BYTE_EXACT_IMMUTABLE_SUITE"
+      }
+    ],
+    "historical72_checks": [
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_AQUA_RECONSTRUCTION_MODEL.md",
+        "bytes": 64491,
+        "sha256": "2f63ef1000c74a2bf105c3cfbbd4258f39e8abe9cf1544fac25768673f17c430",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+        "bytes": 51278,
+        "sha256": "3bec39a1014c50c6704e920b076076ecd2d82ffab0f987fd379844cc68783ee1",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_DARKNESS_RECONSTRUCTION_MODEL.md",
+        "bytes": 62581,
+        "sha256": "e54f45b3aaa74197e76ec917888416b08683ef2b7194586ba060b93979e78bc9",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+        "bytes": 61516,
+        "sha256": "6fe7b325666e339ed86edba70f8d1f9491705f66a6ecdc31eeb44a5bed7a89e4",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_MEGUMIN_RECONSTRUCTION_MODEL.md",
+        "bytes": 60891,
+        "sha256": "cbff1ec4266e8d6908b3d58af9870aa7f981fe40f3a573ed29da345e1f1d801f",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_PARTY_INTERACTION_MODEL.md",
+        "bytes": 67885,
+        "sha256": "cf2082e63718e1c51c171fb9225b0be5da603c1e85900f397c36e233af6d3f8e",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_RECONSTRUCTION_SUITE_AUDIT.md",
+        "bytes": 22872,
+        "sha256": "45f4b598f4aaa18bf74667133e8efcd747f2a93ca94337001b8bdc35c7379d33",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/ACTUAL_EXECUTION_RELEASE_AND_CR007_ACCEPTANCE.json",
+        "bytes": 7102,
+        "sha256": "d0cc0c205a9c7edf440deaf914d60a5f5b4708a35e7775fe62f1e0260c5379a7",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/ACTUAL_FIRST_RESPONSE_SETTINGS_AND_SEALS.json",
+        "bytes": 56954,
+        "sha256": "56d4e4df5b898d66f62ff1c23a830ecaf66ce927f8a327c0beff43e4c5df7085",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/ACTUAL_OWNER_PROMPT_PACK_AQUA_MEGUMIN.json",
+        "bytes": 151637,
+        "sha256": "3c11810c46f78632c92f839d7300cb4514c0582252b0fcb18afa0ac45e7a3b66",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/ACTUAL_OWNER_PROMPT_PACK_DARKNESS_PARTY.json",
+        "bytes": 148201,
+        "sha256": "7fcc86d74bd8932dc5cb4c2c1429948d7e6d9e38d8c3001559c8a61c5932163c",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/ACTUAL_OWNER_PROMPT_PACK_KAZUMA.json",
+        "bytes": 77120,
+        "sha256": "65157674d948f17907893abd47ab630e1e325aea1da1dbf17600b2f606375540",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/ALL39_EXTERNAL_FINDING_COVERAGE_NOT_ACCURACY.json",
+        "bytes": 3333,
+        "sha256": "fa965af1efd2d75ff89efe07cd7ade79bc211e7308c0e4604fc66ec0f0c7d314",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/D1_ELEVEN_OP_FORWARD_INVERSE_PROOF.json",
+        "bytes": 12315,
+        "sha256": "2325145b00870b4924540777920ea60bf22cc3592fce1a8b97e8108b496dafe0",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/EXACT_MODEL_CONTRACT_REGISTRY.json",
+        "bytes": 250967,
+        "sha256": "680748c892a9178852901c217b657119afeea3879e547db8a393d93878d9b833",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/FINAL_AUDIT_AUTHORITY_ADOPTION_OPERATIONS.json",
+        "bytes": 1473,
+        "sha256": "3ea34e13f30631d456f2c748b1a1b0b40f06e99e9e185b8d991c01f2b0676361",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/FINAL_PRE_RESPONSE_BINDING_MANIFEST.json",
+        "bytes": 11094,
+        "sha256": "e8239faaaa5e8f895a6157b30c85168d4b6a0b4df9f637e8058a7fafcc245f4b",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/FINAL_PRE_RESPONSE_BINDING_SEAL.json",
+        "bytes": 3085,
+        "sha256": "4d44a08e0d3cf48ab023317bf3115b7a73b9642ff5d50ae76baf9d4a1172a9d2",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/FINAL_SUITE_AUDIT_BOUNDED_RECEIVING.md",
+        "bytes": 6644,
+        "sha256": "a501fd0684bd8537dfa65464086821be475cb13e0daf2a889e22b705ba1c389e",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/FIRST_RESPONSES_AQUA_MEGUMIN.jsonl",
+        "bytes": 99987,
+        "sha256": "be6e5b65842c4552f3be96acc972697b908f8b0cf690abd58445a55714e9ce71",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/FIRST_RESPONSES_DARKNESS_PARTY.json",
+        "bytes": 264871,
+        "sha256": "ea1c93e54eadde9e4126723f4eed8d0d386daaf6393bbf4ca049aef392b7afb1",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/FIRST_RESPONSES_KAZUMA.jsonl",
+        "bytes": 73974,
+        "sha256": "0617a36e0ddcf21218b1584db9a368f587a55e222176c2446a38effb2df8c740",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/FIXED_EVALUATOR_CASE_BANK.json",
+        "bytes": 130801,
+        "sha256": "1d88c6f5356adcb8b54bb401952be9b4b83f046a4aa141755af4a14e04e74e9f",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/FIXED_EXECUTABLE_PROMPTS.json",
+        "bytes": 304159,
+        "sha256": "a0e260030457c940f06412c33894a86a69ba1aa301044af87ab9e9ab6f60674c",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/FROZEN_MAIN_ONLY_R1_MODEL_BODIES.json",
+        "bytes": 375471,
+        "sha256": "5c013fb950343a20576d3c93d55ee330c4ac2244b50b64e465e2c9b8bcb9b34b",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/INDEPENDENT_D1_ELEVEN_OP_RECEIVING_CLOSURE.md",
+        "bytes": 3685,
+        "sha256": "a38b6748647bbd829fe331df60a6b9f65f0905430641186e5c37ad3a0c73dea9",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/INDEPENDENT_FULL_AQUA_MEGUMIN36_PEER_REVIEW.md",
+        "bytes": 19365,
+        "sha256": "d31f6f858fb3c59b0c94b42ad2937a2c57acad4e5911ae74d5aeb1b06fddb8ff",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/INITIAL_ACTUAL_FULL90_READING_COVERAGE_AND_INPUT_QA.json",
+        "bytes": 7533,
+        "sha256": "bff63bea5dff33f58bb8140657ffbefb6d98dc9ed7860b6f9a243bbb548429e6",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/INITIAL_ALL45_CASES_90_RESPONSES_RECEIVING_MATRIX.md",
+        "bytes": 12775,
+        "sha256": "0d16d2677aea65a4b396f0e42ae51f650b659c5a4268c0f899965159e657bd5c",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/INITIAL_EXTERNAL_ASSESSMENTS_I.json",
+        "bytes": 524020,
+        "sha256": "075062c66fd4904ff219773138e75a02874f6dd9da1d01d51738ca79893ca612",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/INITIAL_EXTERNAL_ASSESSMENTS_K.json",
+        "bytes": 261900,
+        "sha256": "88d7603ae86b6ce0d83d4ed042d851c3ac9a51ed21324cb1e8e495de313a36dd",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/INITIAL_EXTERNAL_ASSESSMENTS_P.json",
+        "bytes": 469810,
+        "sha256": "833c6faab62d2c935cfe71021772b95d9d95f2d832556d392526a19527861ade",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/INITIAL_FULL90_ASSESSMENT_MANIFEST.json",
+        "bytes": 7205,
+        "sha256": "a0f58c59f5f6a04d00ee466e059e9da0429e99c3dfc2fedbaafec6ee8f90c00e",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/INITIAL_FULL90_ASSESSMENT_SEAL.json",
+        "bytes": 1116,
+        "sha256": "d6b83a778db6c071bf5045e42ce11b627d8a0f69ff027a26b15c53e3971ea113",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/INITIAL_FULL90_EXTERNAL_RECEIVING_REPORT.md",
+        "bytes": 19593,
+        "sha256": "9fdb8d683161073ebcbd5c6f6a62dd4bc5553bab618a9143bc1e7c7013b87951",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/INITIAL_SUITE_AUDIT_FULL_RECEIVING.md",
+        "bytes": 9446,
+        "sha256": "d493920578bde18f6944ed8941d0298fd3b41e5ce155e8936829bf74cef6254e",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/KONOSUBA_MAIN_ONLY_R1_REPRODUCTION_NOTES.md",
+        "bytes": 4201,
+        "sha256": "e444b5ee1c928407abca58c2f47b85c4399bb6584ad6dea4f9764f511c63ac09",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/MAIN_ONLY_R1_PUBLIC_ARTIFACT_MANIFEST.json",
+        "bytes": 17349,
+        "sha256": "96ea22275c86c97fad4d89875b1096b314d3cf2ded6381a1dbd1fd7750de72d4",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/MECHANICAL_PUBLIC_SUITE_REPRESENTATION_RECEIVING_REPORT.md",
+        "bytes": 6802,
+        "sha256": "eba44730e13cbb8166861ee96f246d5c0c5b78912e381e285c3af41c597c0941",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/ORIGINAL_CASE_BANK_MANIFEST.json",
+        "bytes": 4956,
+        "sha256": "0dd9328659fcb2e279035300053ed9c29660a5b0a3c6d83f0bfe1cb8b3c2e87c",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/ORIGINAL_CASE_BANK_SEAL.json",
+        "bytes": 1251,
+        "sha256": "dc623e198c411e307c96767a69da21432d88289e198652fa7d93f4a8bebf1120",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/ORIGINAL_LOSSLESS_BINDING_PARTITION_PROOF.json",
+        "bytes": 3063,
+        "sha256": "0ba66e3e4484ac20cd1a0c2f8681088efbfc6fb4611093d6e65ef85707f87d26",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/POST_EXECUTION_DIAGNOSTIC_REPAIRS_V2.json",
+        "bytes": 11664,
+        "sha256": "055a9981e2d6f21b82f99b8c4db0a29f6eede505b7ea720b5632b488d8086df5",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/POST_FIRST_RESPONSE_BINDING_METADATA_ERRATUM.json",
+        "bytes": 2181,
+        "sha256": "7ab16da27fed1c25bfbfd1eae41e93dd473e456c7f8ba982d5680c99a81caf45",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/POST_SHARED_QA_COMPARISON_AND_CURRENT_FINDINGS.md",
+        "bytes": 10338,
+        "sha256": "a5ccbf93b419d7e5b5326a8c605754ec4dc2dfcf8efc2c9b5a2e89ce5f3e5522",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/POST_SHARED_QA_EXTERNAL_CASE_AND_CRITERION_OVERLAY.json",
+        "bytes": 11957,
+        "sha256": "e0106477fd72c4c5dfb451cbb93853a8f238c52d057c73f1c60e5a41840bff9a",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/POST_SHARED_QA_RECEIVING_MANIFEST.json",
+        "bytes": 3983,
+        "sha256": "edd296d3ebe9fe259bcec0b73fd9f33c181a2d5b43e412b82de69e5557d739d5",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/POST_SHARED_QA_RECEIVING_SEAL.json",
+        "bytes": 1276,
+        "sha256": "eda993c23f8df3a28e879d7f0499915253913d64091fe28dc276224b79796807",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/PRECASE_MODEL_RECEIVING_AND_REPAIR_HISTORY.json",
+        "bytes": 104019,
+        "sha256": "7fb09e2d669bc26b32c48676819edd0d80074cdc6a56b753cd811f3826682356",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/PRESERVED_INITIAL_MODEL_CORES_AND_SEALS.json",
+        "bytes": 348399,
+        "sha256": "b5b93737f9c9ec548d630acbb968a9ecaef269f505a6c9232f07e2d490fc4820",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/PRE_RESPONSE_BINDINGS_AQUA_MEGUMIN.json",
+        "bytes": 535162,
+        "sha256": "13c46c5bb36d4c56ba41477ebbd67d1377c6db7076a6ef03305938fd708a953e",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/PRE_RESPONSE_BINDINGS_DARKNESS_PARTY.json",
+        "bytes": 564146,
+        "sha256": "c42a29d0ae406776ae66e70bd4ebdb5b52dbd7aa256a4bf747e75e2fe42885f4",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/PRE_RESPONSE_BINDINGS_KAZUMA.json",
+        "bytes": 283319,
+        "sha256": "36947aa88f432b9e0e26c02542c0a995547852458de812fd1491571089f010b5",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/PRE_RESPONSE_BINDING_HEADER_AND_ORDER.json",
+        "bytes": 3151,
+        "sha256": "782164f1e8bd0c635609f4125e946a0519d57bc62c52888a153249e314e186d7",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/PRODUCER_FULL_KAZUMA18_PEER_REVIEW.md",
+        "bytes": 13110,
+        "sha256": "b9a81871e19a6c7516039c0700acf76ed227dad733603c0267ec65f02cda17b4",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/PUBLIC_MODEL_ADOPTION_OPERATIONS_AND_CORE_RECOVERY.json",
+        "bytes": 22424,
+        "sha256": "e57771309b3872e6b8acb0c5d92ac65599cc20a952aa1e4c04d232b0477cc90b",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/ROOT_FINAL_SUITE_ACCEPTANCE_AND_RECEIVING.json",
+        "bytes": 9284,
+        "sha256": "92b6c4e464590b448d4c7656d02cb7805282cb239ef7178283cb31ca8bae0fbf",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/ROOT_FULL90_ACTUAL_RECEIVING.md",
+        "bytes": 7971,
+        "sha256": "c0de568b4f404078f42cbd101b1a6bec1d3b484c4f88eb7ff17ed98606050103",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/ROOT_FULL90_RECEIVING_SCOPE_AND_PINS.json",
+        "bytes": 2443,
+        "sha256": "0262e0a24790a91bcc622625b474015f69179b42f058322e94d467dfb747c028",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/ROOT_INITIAL_ASSESSMENT_COMPLETE_FACTORED_RECEIVING_AND_MECHANICAL_JOINS.json",
+        "bytes": 20627,
+        "sha256": "0fe6deb0e37f14bbe308c6709b7d892e47ca8fed1e4ad21c3f5690270f3c6501",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/ROOT_POST_FIRST90_EVALUATOR_BANK_REMAINING_FIELDS_RECEIVING.json",
+        "bytes": 1469,
+        "sha256": "79d2d5cdfff165e33d9aaf065dd218f27daef70f37ba45583fd71f64c205f533",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/ROOT_STATIC_CROSS_MODEL_RECEIVING.md",
+        "bytes": 11155,
+        "sha256": "3898c59061eba2cf2209339e9c22e3ee5f574e8bd6e46e1de70cd2d19c42859c",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/SEMANTIC_D1_ELEVEN_OP_RECEIVING_CLOSURE.md",
+        "bytes": 4403,
+        "sha256": "babdd2f2a94267a0fe8e127f4ec0dc79cfc6926affe28aeb3ebb69f1608dbef7",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/SIX_PUBLIC_MODEL_ADOPTION_RECEIVING.md",
+        "bytes": 5840,
+        "sha256": "9b81a489bc72ff62a125af04e671503323db499ea134ffc65daa96c6396942b3",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/SOURCE_SAFE_ENVELOPE_ORIGINAL_SERIALIZATION_MAP.json",
+        "bytes": 6213,
+        "sha256": "80ad017969bd72c88e7b754ae69d44ede131f036b9dcaa7ea87bd6f53b9a4ad6",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/SOURCE_SAFE_PRE_RESPONSE_BINDING_REASSEMBLY_RECIPE.json",
+        "bytes": 4967,
+        "sha256": "4405a817d892c8399eca4b438fc00c62e4ceeb2db74becfa3201563522d086b2",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_DARKNESS_CHARACTER_MONOGRAPH.md",
+        "bytes": 34675,
+        "sha256": "c63bd0c4efa574ec1233e37f6038050016cbbf96771ef1aaf7b73f3eda3d8071",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CLAIM_REVISION_LEDGER.md",
+        "bytes": 27936,
+        "sha256": "bd45786c57858b37d257c768d4fa82a0b0ff3bf90ccec2b0e18bd96109becc8c",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+        "bytes": 193759,
+        "sha256": "ac6e75ab7cb2c8af8b5895b982009b11fea4c196420ccc497dc887e26859c84c",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+        "bytes": 125287,
+        "sha256": "cbb5cbbde1aefcc0bcaf914f421dcd7a7a50cc512a7d7fee1d89743a7877beab",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+        "bytes": 101192,
+        "sha256": "cfc6a7f4598d8076abce1e2d75a40830b493fa9ac1af78f33ec17667a3b952a3",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      },
+      {
+        "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md",
+        "bytes": 959140,
+        "sha256": "046cfb294ad1d1af43c7551e37525c4a74f5440ba82e20a1af0a452ed8a5b25e",
+        "check": "HISTORICAL_3b92_BYTES_EXACT"
+      }
+    ],
+    "unchanged_prior_source_scores": [
+      {
+        "source_id": "YORI01",
+        "name": "YORI01_ACCEPTED_ADJUDICATIONS.json",
+        "bytes": 87574,
+        "sha256": "7a3cd1e0c046cd34e6f3a628e580f204d6aac6a5d16feb419761a925c930d026"
+      },
+      {
+        "source_id": "MASK",
+        "name": "MASK_ACCEPTED_ADJUDICATIONS.json",
+        "bytes": 210188,
+        "sha256": "adf99e88f67285d3bdd5f17a7248818dae46d98f405909d1ec2bc0aec01aa967"
+      },
+      {
+        "source_id": "DUST06",
+        "name": "DUST06_ACCEPTED_ADJUDICATIONS.json",
+        "bytes": 229826,
+        "sha256": "f94bfb84f5b16e0234fb6adbcebd0c6f481debd46544021de360dea76d00f70e"
+      }
+    ],
+    "verified_review_seals": [
+      {
+        "name": "BOUNDED_RECEIVING_SEAL_v1.json",
+        "bytes": 1191,
+        "sha256": "e635606845f909116ce0376d9606baba093c17f52418a493abc4f4201a9e3b47"
+      },
+      {
+        "name": "FINAL_BOUNDED_SUCCESSOR_RECEIVING_CLOSURE_SEAL.json",
+        "bytes": 2996,
+        "sha256": "14499e9c65da7de5275111df8869e40494437915870ceb421733e48ed0abf85c"
+      },
+      {
+        "name": "RECEIVING_SEAL.json",
+        "bytes": 678,
+        "sha256": "b2017137c77676ebb43ae3ac7327919aba535589bf730bdd2a566f619fb272b1"
+      },
+      {
+        "name": "SEAL.json",
+        "bytes": 354,
+        "sha256": "7f902e3e41213f143a9327daf9a8cfc9eaddc6a68640bd953716c5cea38fb740"
+      },
+      {
+        "name": "SEAL.json",
+        "bytes": 829,
+        "sha256": "98e863615e6eca539d48db2559d4041c55bcb4f09f875722f0abb85e5fb77266"
+      },
+      {
+        "name": "SEAL.json",
+        "bytes": 384,
+        "sha256": "c5278ee946857c4df9527208d872117119c4b4f92a253a0ffb7e523676e8745a"
+      }
+    ],
+    "actual_root_review_scope": "Complete original I/Snew43+43 fields,117+75events,38+40voice, fullreports; current all43+43 recommendations/report/successor fields; complete candidate/ledger/crossbook receiving reports and all declared new correction/delta fields. Exact old literals, primary duplicate quotations and old rationale fields transparently reused after equality. No fresh old17-source pass or native-human/statistical claims.",
+    "formal_DUST07_counts": {
+      "CONFIRMED": 6,
+      "FALSIFIED": 1,
+      "PARTIAL": 1,
+      "NOT_TESTED": 31,
+      "four_T_source_NA": 4
+    },
+    "material_uncertainty": "E02 implicit metric, E04 proposed-arrangement/easierloss interpretation, E06 history/occasion rival, E03 care gap, E05 correct-inference opportunities,E08 compound timing and dependent K08 adverse surface retained.",
+    "acceptance_not_publication_or_StageC": true,
+    "allowed_ledger_header_operation": "Replace literal PENDING_ACTUAL_ROOT_ACCEPTANCE exactly once in each reviewed header with this actual_accepted_utc; all other payload bytes unchanged.",
+    "preservation": "All original initials/forecast blanks/Gen01–05 histories/models/registry/simulations/earlier source scores remain exact. No source media/rawXML/private acquisition material admitted to public Git.",
+    "remaining_program": "Full StageC19prose+17mainexcludedcomponentprograms+5actualmixedinspections, expanded synthesis, attributable StageDmodel revisions/qualifiedsecondary work, final synthesis/evidence indexes/component audit/release remain active without routine confirmation."
+  },
+  "public_evidence_manifest_sha256": "5e5b908328758341b2f253b6f20b13d13782ac78c24939b2aea072f5246c7bab",
+  "reviewed_ledger_manifest_sha256": "a2009b7da850cfa5ac9f5baf7e4181ac75b8da68a906765d4b2940f7c213b0db",
+  "ledger_actual_acceptance_metadata_operations": [
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "original_payload_sha256": "dbee7f8cb32b9764c32146353817d105f814ddf48b3b9d893b8b6acfd1d9197a",
+      "stamped_payload_sha256": "5836215b6dbabd16af1802d12313d960cb8648e58fbe974c24bdd928aa902d35",
+      "operation": "Replace PENDING_ACTUAL_ROOT_ACCEPTANCE once with actual acceptance UTC only",
+      "observation_ids": [
+        "VB-DUST07-CS01",
+        "VB-DUST07-CS02",
+        "VB-DUST07-CS03"
+      ],
+      "full_payload_inverse_byte_exact": true
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "original_payload_sha256": "583277ca30fa6c7de7e8d6c392316806f62b02d6742ba1486e01d9d9840c6100",
+      "stamped_payload_sha256": "1c08025b7b4c2d838ccff21fbb0442d76bacfcda336c351a9b71c9a835011d24",
+      "operation": "Replace PENDING_ACTUAL_ROOT_ACCEPTANCE once with actual acceptance UTC only",
+      "observation_ids": [
+        "VB-DUST07-RS01",
+        "VB-DUST07-RS02",
+        "VB-DUST07-RS03"
+      ],
+      "full_payload_inverse_byte_exact": true
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "original_payload_sha256": "a478405988ccd893eb878b84a1b16229091b19e0060b2aa92a741142f48ca401",
+      "stamped_payload_sha256": "72ff8a8194d88d8042c1906bac3a2da79a48fd6fa4a197a2d41b532fc2728226",
+      "operation": "Replace PENDING_ACTUAL_ROOT_ACCEPTANCE once with actual acceptance UTC only",
+      "observation_ids": [
+        "VB-DUST07-DE01",
+        "VB-DUST07-DE02",
+        "VB-DUST07-DE03"
+      ],
+      "full_payload_inverse_byte_exact": true
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "original_payload_sha256": "c28771dfe2b40dd6c7292b3d964a5d0576805c59f1b6abcd9faf73a1ad9022a0",
+      "stamped_payload_sha256": "8918eec8e81094deb46e092b3c518b7876ab7cd0ae6fb6b3fdcc90af53d125ac",
+      "operation": "Replace PENDING_ACTUAL_ROOT_ACCEPTANCE once with actual acceptance UTC only",
+      "observation_ids": [
+        "VB-DUST07-CC01",
+        "VB-DUST07-CC02",
+        "VB-DUST07-CC03"
+      ],
+      "full_payload_inverse_byte_exact": true
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "original_payload_sha256": "ce0f6583b01c0dc8071aa7dc64d72c15b9617826fa7a015dad544ba48f4855b0",
+      "stamped_payload_sha256": "ef2cd99ca0f39fa83811ea2b46087674461a87fc750799ffd91a1284eb1f4205",
+      "operation": "Replace PENDING_ACTUAL_ROOT_ACCEPTANCE once with actual acceptance UTC only",
+      "observation_ids": [
+        "VB-DUST07-HM01",
+        "VB-DUST07-HM02",
+        "VB-DUST07-HM03"
+      ],
+      "full_payload_inverse_byte_exact": true
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "original_payload_sha256": "211bd59a88a316379562c329a46784b8bda0bfdb5e22eab246e9aeb905f3f7b6",
+      "stamped_payload_sha256": "16710108846bf27ef8602907e5051ddc0d5144faae026970c12923d8226b9bf2",
+      "operation": "Replace PENDING_ACTUAL_ROOT_ACCEPTANCE once with actual acceptance UTC only",
+      "observation_ids": [
+        "VB-DUST07-JH01",
+        "VB-DUST07-JH02",
+        "VB-DUST07-JH03"
+      ],
+      "full_payload_inverse_byte_exact": true
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "original_payload_sha256": "0f03a994a091a64c966b52f8fd57621f2bb5c3e47191b818bafe85f672fedf43",
+      "stamped_payload_sha256": "eb30a1047a37220c9a4b8b8c55dc20a8d5f8385df37fde0148264a851b581454",
+      "operation": "Replace PENDING_ACTUAL_ROOT_ACCEPTANCE once with actual acceptance UTC only",
+      "observation_ids": [
+        "VB-DUST07-SO01",
+        "VB-DUST07-SO02",
+        "VB-DUST07-SO03"
+      ],
+      "full_payload_inverse_byte_exact": true
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "original_payload_sha256": "18440b43f0b8b77f4d154b4734e034d2de33d8c2d2db95f579c4b0ff169cfd31",
+      "stamped_payload_sha256": "4a9070697b4ceb8d2910b3ef676bf6e274fea51f031fd135973d567a404555fa",
+      "operation": "Replace PENDING_ACTUAL_ROOT_ACCEPTANCE once with actual acceptance UTC only",
+      "observation_ids": [
+        "VB-DUST07-KN01",
+        "VB-DUST07-KN02",
+        "VB-DUST07-KN03"
+      ],
+      "full_payload_inverse_byte_exact": true
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "original_payload_sha256": "8ba04cf5d18b1758bbdf8a405bfaaff2698a47de3210b2c67f7242e4d6372e22",
+      "stamped_payload_sha256": "e703799441cfb18cef875ae16293077d5d7c2bd9d6b16d2b3dd8b831738b8430",
+      "operation": "Replace PENDING_ACTUAL_ROOT_ACCEPTANCE once with actual acceptance UTC only",
+      "observation_ids": [
+        "VB-DUST07-OL01",
+        "VB-DUST07-OL02",
+        "VB-DUST07-OL03"
+      ],
+      "full_payload_inverse_byte_exact": true
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md",
+      "original_payload_sha256": "9d1556437878f00afcdd351ab0f5ddc256ed925fa4bb9c6458f497ae928cc43c",
+      "stamped_payload_sha256": "57bc1d60107fd9fae3bd95a5b6e50783002bfc0800fc3e4ddbdd4968adf6a3df",
+      "operation": "Replace PENDING_ACTUAL_ROOT_ACCEPTANCE once with actual acceptance UTC only",
+      "observation_ids": [
+        "VB-DUST07-PV01",
+        "VB-DUST07-PV02",
+        "VB-DUST07-PV03"
+      ],
+      "full_payload_inverse_byte_exact": true
+    }
+  ],
+  "authored_streams": [
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST07_INITIAL_ROOT_ALL39.json",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 392966,
+      "after_sha256": "556cfc12e64be07fba3603f2c338d4a76e583c1fac17d5abe0c047b78c900254"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST07_INITIAL_INDEPENDENT_ALL39.json",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 330627,
+      "after_sha256": "2b5091090986b750f415481f8efc9c74a0f83e88620b083101ae43c9fb3d1a19"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST07_INITIAL_SEMANTIC_ALL39.json",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 232773,
+      "after_sha256": "2cc407dca9dc8654178274d0c99ffdbf3e55f9e2758079bf06f2ab0ddcb92404"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST07_ACCEPTED_ADJUDICATIONS.json",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 276665,
+      "after_sha256": "8b44adedfd61592c639f325cca25482d46ba289670d263cb5e2ed836d90e9dab"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/FOUR_BOOK_ACCEPTED_UNCHANGED_R1_RECONCILIATION.json",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 60673,
+      "after_sha256": "d9fff8062a5ba4ff7f4e3636d860607b6c013566fce7be5e469f865d7da5475c"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST07_AND_FOUR_BOOK_ACTUAL_ACCEPTANCE_RECEIPT.json",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 46183,
+      "after_sha256": "4b5c79319e2516a7fa87c7e8ab6a11a2baec9df5909a383a43501aafb6e7f89e"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST07_INDEPENDENT_COORDINATED_RECEIVING.md",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 17935,
+      "after_sha256": "04d9fea029c799146d7aa0342d18aa9f0402e7cc40206f43fb1672e7775cc372"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST07_INDEPENDENT_COORDINATED_RECOMMENDATIONS_V1.json",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 196007,
+      "after_sha256": "47a5a9a80634520113403851b4ca6ea243723d18b77fec62fa91f37ddff9c89d"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST07_INDEPENDENT_E06_ADDENDUM_V2.md",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 4176,
+      "after_sha256": "5ea43f907ab48d584a1f5bf8bcf030e23f1ec265273880644050256a2ba91e4c"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST07_INDEPENDENT_COORDINATED_RECOMMENDATIONS_V2.json",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 199054,
+      "after_sha256": "5525fde7824bda3b4ed946b018ac501eccea9ff72d290e9c61168c41c7dbc0f3"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST07_INDEPENDENT_E02_ADDENDUM_V3.md",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 4208,
+      "after_sha256": "317a06f63bf90ad7be49730923f201430841e911e5b97414789db551fc9d8c1b"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST07_INDEPENDENT_COORDINATED_RECOMMENDATIONS_V3.json",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 203548,
+      "after_sha256": "563af8a403e7ee881e71b9c4a497d26948ee6f4aecb936ea006a2f4f2b12ccaa"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST07_SEMANTIC_COORDINATED_RECEIVING_ORIGINAL.md",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 31519,
+      "after_sha256": "e5371633732e90bbc31fa961f5b89e995ce55c5fe01231846c5e8a0697aa3066"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST07_SEMANTIC_COORDINATED_RECOMMENDATIONS_ORIGINAL.json",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 339147,
+      "after_sha256": "7080fb3335010a206839260f48368851e72599505f1b90a706f4ac8ac9494618"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST07_SEMANTIC_EXTERNAL_FACTUAL_QUALIFICATIONS.json",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 4758,
+      "after_sha256": "78c49225289cace3aa1b29fba7efdf88c08da3adf55a2f44c0edfc8bb50f4cbf"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST07_SEMANTIC_EXTERNAL_PRECISION_AND_FULL_INVERSE.json",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 3699,
+      "after_sha256": "c20ff09e48419d8dfc80b83375787e1dc0240b44b971fae298c65d91bdec6670"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST07_SEMANTIC_REPORT_EXACT_HASH_DERIVATIVE.md",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 31515,
+      "after_sha256": "5420c66617cfa734cd1fa0e74c91f80f2bcd3c324921d4d8e576f4dea4049005"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST07_SEMANTIC_RECOMMENDATIONS_ROUTE_DERIVATIVE.json",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 339147,
+      "after_sha256": "a009439532e742a9a19b7a4bbc8ddf39dd29e53ed2fbaf26579e77bd47e3b76e"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST07_INDEPENDENT_CANDIDATE_LEDGER_FOUR_BOOK_RECEIVING.md",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 11223,
+      "after_sha256": "10fb8893228f4126e7fa4d2cda090044b24dab41c1f99da04371c03c84998055"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST07_INDEPENDENT_FINAL_SUCCESSOR_ADDENDUM.md",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 7976,
+      "after_sha256": "b18dc11ad759fbb752ce97108e6588f82e716d46e9272f2430e56afdab3a7d82"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST07_INDEPENDENT_FINAL_SUCCESSOR_CLOSURE.json",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 2996,
+      "after_sha256": "14499e9c65da7de5275111df8869e40494437915870ceb421733e48ed0abf85c"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST07_SEMANTIC_CANDIDATE_LEDGER_RECEIVING.md",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 12493,
+      "after_sha256": "10113b7f68ff7cd20ba400b30ca6cd02173d44455a673a816732bdb0f7235333"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST07_SEMANTIC_LEDGER_V3_FULL_INVERSE.json",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 12834,
+      "after_sha256": "6ec0b410f8d75497f7bd0a4c6143070184d24fab2ec1bba40587321b44815562"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST07_SEMANTIC_FOUR_BOOK_RECEIVING.md",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 7647,
+      "after_sha256": "3e233f509befe7d7df7f508fa7d28b98509ba8b7ec6397c993a8771ac7ed40ec"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST07_SEMANTIC_FINAL_SCOPE_CLOSURE.json",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 3917,
+      "after_sha256": "2919287bbae642d76a0aa0ee9d226216044270178213d95a26569bb7b126b91e"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST07_ROOT_SOURCE_CORRECTIONS_V2.json",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 5336,
+      "after_sha256": "458d10c1a7a891c65d7cd3521fb5fc4630893a0a243be0c59096cab03aeb0caa"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST07_ROOT_ACTUAL_NEW_FIELD_RECEIVING.json",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 1087,
+      "after_sha256": "387915429ad71b32fb7e38ecf84dafe39d3d36e57a791559f03cf9537d5baa8a"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST07_ROOT_ACTUAL_CURRENT_RECOMMENDATION_RECEIVING.json",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 6092,
+      "after_sha256": "abce8eb4bd6265c56f2b41dba9f8ebeacc41d7a8d7136abf30afe961a4e12fff"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST07_EVENTS_AND_OPPORTUNITY_INDEX.json",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 277473,
+      "after_sha256": "740a00ad27244856782f4bcb692b66f9a16093b770b48f9432b067714c90ab8d"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST07_SOURCE_AND_READING_RECEIPT.json",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 13792,
+      "after_sha256": "92af876639a7b5379d307017091efff06d2f7c751db07d43cd34b43c0c33a84b"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "before_bytes": 202107,
+      "before_sha256": "bf9a951403a4a5f0f190c007c054b8fd0b3e668c16e7e4fc2ed412385779b79b",
+      "after_bytes": 205134,
+      "after_sha256": "10c1b61ba0ebd36db931312bbdba19c65c6b44e8fc62c98500f1e8b05b180e3e"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "before_bytes": 133706,
+      "before_sha256": "ca04f0cb85d2901a606e25c76b05fb44d2c58512fc7ade433f998f902fed0858",
+      "after_bytes": 136893,
+      "after_sha256": "1fa895e2bc13ae942bcfacf2d4f26fd2cfa6bc945619a2ddc738a1745e0ffef7"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "before_bytes": 182073,
+      "before_sha256": "c3f37df2b5090faf66accdb79913af9e6d9f933d833a1a0e4becf05aeb39ff4c",
+      "after_bytes": 185228,
+      "after_sha256": "d4e8dc627108c22b64de48060280830b2038e34b0f759e3629ba611f5376530d"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "before_bytes": 130351,
+      "before_sha256": "6a7ec6a4055bbe7a690d912ef82f315f900d48da83683704b83803b93a963c02",
+      "after_bytes": 133523,
+      "after_sha256": "6d8d00d54e61f93af1e553baa9a764a3e94db765fe5aa41c0552dd1b74a52bec"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "before_bytes": 707909,
+      "before_sha256": "0a34d92b17852d32be0e083f7f16a9f2a0741a6df623a1c3606a046c19dd4108",
+      "after_bytes": 711176,
+      "after_sha256": "53044a8c0729752a1352bb854c0a9ecd6461eb42c0ce9f326122bab9f556b27c"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "before_bytes": 519456,
+      "before_sha256": "2eb556b5ea3bd043ef244875a7162bb063975df6637104a8c1a5ea9c0b4141d1",
+      "after_bytes": 522784,
+      "after_sha256": "818575377264c4c20d5f1aa045d4644892a3c386cf2e8deb207122997d0acd05"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "before_bytes": 98846,
+      "before_sha256": "656ff7cf06e917b903f3ff08ff34ff031675b88bd5028c3086ad282a5277bc0b",
+      "after_bytes": 101945,
+      "after_sha256": "da68a9c394f01a243aee176568d4e4814aff1a0b67f44a75b715c0dfee5df2ab"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "before_bytes": 113351,
+      "before_sha256": "0f6d64edf37468792c26818228d9b14d5234fb384929f8cb06ff41146ba466c0",
+      "after_bytes": 116690,
+      "after_sha256": "1f7540f907ab370dbc293a6fe975095561b0a33b944d4a44647919888ca280ed"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "before_bytes": 110054,
+      "before_sha256": "b4d70c8bd998c05870f9266ba49abd5d4d914f2bbe9d963f94550f0aa8ef1741",
+      "after_bytes": 113197,
+      "after_sha256": "29d955f5017eb7b3a3bdc831674c9ca1b31c64d5cb6d5f051fdbb5681d98d172"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md",
+      "before_bytes": 968632,
+      "before_sha256": "dcec889888779de81193f677ffe835d03aeb9068cd92d0977400af4258c8bf44",
+      "after_bytes": 972228,
+      "after_sha256": "59c46e146987da990574b6c5774056781940e55760bc74c26785907c4dfa1565"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_WITHHELD_SOURCE_VALIDATION.md",
+      "before_bytes": 69096,
+      "before_sha256": "66dc82ed16f2443061b48fdca504fc6e206f47b5485749518803635213af4623",
+      "after_bytes": 116951,
+      "after_sha256": "e764bd951da56fa1b0a00107e381c2b77dc95fca2471e1c53e1b13bb7b8d0457"
+    },
+    {
+      "path": "series/konosuba/01 Source Lock and Inventory/KONOSUBA_SOURCE_COVERAGE_AND_ADMISSION_MATRIX.json",
+      "before_bytes": 551438,
+      "before_sha256": "20618536ffc1d72275958a8c0f9d64c3ada97a849c9fe053f8583d35df70d1b1",
+      "after_bytes": 556841,
+      "after_sha256": "61a4f0c4dc6988b9030a50b3edf9828807abf56b0c2e8a02ad3bbfdbf92e9107"
+    },
+    {
+      "path": "series/konosuba/01 Source Lock and Inventory/KONOSUBA_SOURCE_COVERAGE_AND_ADMISSION_MATRIX.md",
+      "before_bytes": 35417,
+      "before_sha256": "587d73e5159300b577c67787be0123ab7ced1a166f4399e31dead0dad27f5b4a",
+      "after_bytes": 38165,
+      "after_sha256": "7dd5d685e1cbfcd00bf5e2c1b79a851619d5a701ba36213a71c727495652e5e0"
+    },
+    {
+      "path": "series/konosuba/01 Source Lock and Inventory/KONOSUBA_SOURCE_INVENTORY.md",
+      "before_bytes": 22945,
+      "before_sha256": "9defa61c7f2d2ca87d591833c65bea9fb3a8f1b1a5f0d1eac1e130f4680e65b2",
+      "after_bytes": 25544,
+      "after_sha256": "98e6d064907ad97d517dda32a34755f2a80126a99a4d66568099893e0cb1280b"
+    },
+    {
+      "path": "series/konosuba/01 Source Lock and Inventory/KONOSUBA_SOURCE_LOCK.md",
+      "before_bytes": 17520,
+      "before_sha256": "1b594535e0ffde3211abe4640920cb5d382b8ddbf7af3e38389a79bcf7536aa4",
+      "after_bytes": 20119,
+      "after_sha256": "54d9c86e50568d8714dacc4a101cfbeac67d4d948321b78e6b9c4440be2ade7d"
+    },
+    {
+      "path": "series/konosuba/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "before_bytes": 165587,
+      "before_sha256": "7f796f1c65c06983aa563e4f6f2c1c0b4ff7ae6b65a9e57b9986a8b8acffba98",
+      "after_bytes": 171000,
+      "after_sha256": "523d4d2b3c33c5343ad1a343390fa88ac59c4749285bc652251b3400b0d90b6b"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_CONTINUOUS_COMPLETION_RUN_AUDIT.md",
+      "before_bytes": 176824,
+      "before_sha256": "df170cb4659a0dcad3c84fd37087781c9b5bc454a90a491831be274a882a95bf",
+      "after_bytes": 182224,
+      "after_sha256": "ae3c66d9a9bcd96b349a97ba194b79548ca19ef96b420ed23dfc6ea7057b15e4"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_DUST07_PUBLIC_EVIDENCE_V2_RECEIVING.md",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 7651,
+      "after_sha256": "dcfaae191de511de4e2266601d2676be9870a375748430799a4785d4dc8df9db"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_DUST07_PUBLIC_EVIDENCE_V3_RECEIVING_CLOSURE.md",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 2009,
+      "after_sha256": "df8fd746aee92ec75037745a3e631ee02c20e160ffe37bb49880a4393fcb99ba"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_DUST07_CANONICAL_V2_RECEIVING.md",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 10525,
+      "after_sha256": "1df58271f8b2b80a6c068ad7fd7d6fef354e5a23aefe38e8cd134859883b1f19"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_DUST07_CANONICAL_V6_RECEIVING_CLOSURE.md",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 5214,
+      "after_sha256": "7b60d185258dbe45ac775bf1f51bffa7b1e77da4bb76b5a07524ad2f10ad393e"
+    }
+  ],
+  "preservation": {
+    "all_ten_complete_previous_ledger_prefixes_exact": true,
+    "all_maintained_targeted_inverses_exact": true,
+    "all40_other_source_objects_and_register_rows_exact": true,
+    "fixed41_identity_seal": "fe59ede667ed3532f9cd0e62fdd650655d029c191fd3bd95df84ab404f2f56c5",
+    "all66_frozen_suite_current_exact": true,
+    "all72_historical_suite_CR007_pins_retrievable_at3b92": true,
+    "all_original_initials_and_prior_scores_and_forecasts_preserved": true
+  },
+  "substantive_limits": "Four principal-source validation programs and unchanged all39 reconciliation accepted. Whole-edition/component/full Stage C literary analysis and later work pending; actual reviewer scopes/contamination/dependence/counterevidence explicit. No source media/full XML/raw derivative/acquisition material in Git.",
+  "publication": "Containing commit/tree/readback/source audit/housekeeping/final actual-SHA status pending at authorship. Stage C narrative access remains CLOSED until its full successful gate. Source publication is separate from protected-main integration/release.",
+  "audit_self_exclusion": "Other authored streams pinned here; this audit is pinned by actual final candidate/remote readback, avoiding recursive self hash.",
+  "bounded_wrapper_successor": {
+    "actual_utc": "2026-10-17T21:24:32.977428+00:00",
+    "predecessor_manifest_sha256": "78022977e1afd01bdec8d30da5675eaedd59c81b42db24911134b276e0175de2",
+    "public_register_locator_operations": [
+      {
+        "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST07_SOURCE_AND_READING_RECEIPT.json",
+        "before": {
+          "name": "ROOT_ACCEPTED_DUST07_ALL39_SOURCE_LOCAL_VALIDATION.json",
+          "bytes": 276665,
+          "sha256": "8b44adedfd61592c639f325cca25482d46ba289670d263cb5e2ed836d90e9dab"
+        },
+        "after": {
+          "name": "DUST07_ACCEPTED_ADJUDICATIONS.json",
+          "bytes": 276665,
+          "sha256": "8b44adedfd61592c639f325cca25482d46ba289670d263cb5e2ed836d90e9dab",
+          "private_original_name": "ROOT_ACCEPTED_DUST07_ALL39_SOURCE_LOCAL_VALIDATION.json",
+          "canonical_path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST07_ACCEPTED_ADJUDICATIONS.json"
+        },
+        "before_sha256": "f1f86d78815557e61377d693679f1cd15d272794372208fd6f497f4291324594",
+        "after_sha256": "92af876639a7b5379d307017091efff06d2f7c751db07d43cd34b43c0c33a84b",
+        "complete_inverse_equal": true
+      }
+    ],
+    "scope": "Only public accepted-register basename/explicit canonical route and presentation spacing in genuinely new prose; tables, original records, scores, ledger payloads and every prior maintained byte unchanged. Full inverses retained privately."
+  },
+  "bounded_V4_source_admission_and_historical_pin_precision": {
+    "actual_utc": "2026-10-17T21:25:14.500261+00:00",
+    "predecessor_manifest_sha256": "7caba77b4b553600c39963cd9102fad1eedb9ae3112097a88da2de45f93f8dbc",
+    "operations": [
+      {
+        "path": "series/konosuba/01 Source Lock and Inventory/KONOSUBA_SOURCE_COVERAGE_AND_ADMISSION_MATRIX.md",
+        "before_sha256": "768e0a2fbeeada8fa7a3b98cf4b41afbe1a1ba5b82ba8645aeff2ab4fcdd8db8",
+        "after_sha256": "01d7dc402dd3d4d3f52028a5c6cc7d3cf7457e9243b9bd64e1fd457001a5028f",
+        "operations": [
+          {
+            "old": "Five principal members read; unchanged-R1 validation/four-book reconciliation accepted; containing gate and full Stage C literary/components OPEN",
+            "new": "Five principal members read; unchanged-R1 validation/four-book reconciliation accepted; containing publication gate pending; Stage C responsibilities pending; excluded bodies/images CLOSED",
+            "count": 1
+          }
+        ],
+        "complete_inverse_equal": true
+      },
+      {
+        "path": "series/konosuba/CURRENT_STATE_AND_CORPUS_MAP.md",
+        "before_sha256": "d53140aa5c134ff887ebcd588d97f48d35e063aa67f29be3dd4018474416a6c4",
+        "after_sha256": "a1bce8e1c2aad58f6fedd19faf2437308b1e4eae6c41221970a9d3de4e3034ce",
+        "operations": [
+          {
+            "old": "all 66 current / 72 historical frozen suite/CR007 pins intact",
+            "new": "all 66 current immutable suite pins exact and all 72 historical suite/CR007 pins independently retrievable at3b92; six overlay latest paths may contain later accepted ledger history",
+            "count": 1
+          }
+        ],
+        "complete_inverse_equal": true
+      },
+      {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_CONTINUOUS_COMPLETION_RUN_AUDIT.md",
+        "before_sha256": "a14a8ddb18af03c34a7eeec1ba23fe66d8615fb908a33aa5ecc7a1dce72c693c",
+        "after_sha256": "c9fe508222f89f586e0a580700a18691174ac846ac8412edcdd4dd31d325b4e3",
+        "operations": [
+          {
+            "old": "all 66 current / 72 historical frozen suite/CR007 pins intact",
+            "new": "all 66 current immutable suite pins exact and all 72 historical suite/CR007 pins independently retrievable at3b92; six overlay latest paths may contain later accepted ledger history",
+            "count": 1
+          }
+        ],
+        "complete_inverse_equal": true
+      }
+    ],
+    "no_narrative_admission_or_source_score_model_change": true
+  },
+  "bounded_V5_final_new_prose_spacing": {
+    "actual_utc": "2026-10-17T21:29:53.203876+00:00",
+    "predecessor_manifest_sha256": "80cf1d69055d450da70edba3b27819cd4ade34d3b7f7cd8b97fb3edb01024cc2",
+    "scope": "Six genuinely new prose streams only, exact literal spacing. All nonwhitespace characters, every copied accepted table, old prefix, hash, ID, link, source record and ledger payload unchanged; full inverse retained."
+  },
+  "bounded_V6_header_date_spacing": {
+    "actual_utc": "2026-10-17T21:31:18.189622+00:00",
+    "predecessor_manifest_sha256": "bc6c2d23f89a6397da5f8411f1404ee7953738c34f8674a0dbe3ced61f6e70f0",
+    "operations": [
+      {
+        "path": "series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_WITHHELD_SOURCE_VALIDATION.md",
+        "old": "as of2026-10-17T21:16:29.555881+00:00",
+        "new": "as of 2026-10-17T21:16:29.555881+00:00",
+        "count": 1,
+        "before_sha256": "b49b72f96c2981839a892610b4c0bb7db0f1464f068768f426ae52233fad4e56",
+        "after_sha256": "e764bd951da56fa1b0a00107e381c2b77dc95fca2471e1c53e1b13bb7b8d0457",
+        "complete_inverse_equal": true
+      }
+    ],
+    "all_other46_nonaudit_streams_byte_exact": true
+  },
+  "canonical_transaction_receiving": {
+    "root_accepted_for_adoption_utc": "2026-10-17T21:33:26.725496+00:00",
+    "exact_reviewed_V6_manifest_sha256": "71a95b87840de05f512621bde5a03c6e673552390398f5c05e0f49a1695fa4b2",
+    "reports": [
+      {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_DUST07_PUBLIC_EVIDENCE_V2_RECEIVING.md",
+        "bytes": 7651,
+        "sha256": "dcfaae191de511de4e2266601d2676be9870a375748430799a4785d4dc8df9db",
+        "scope": "Full new public wrappers and acceptance metadata; original-copy/source-safety/inverse scope, one explicit locator repair."
+      },
+      {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_DUST07_PUBLIC_EVIDENCE_V3_RECEIVING_CLOSURE.md",
+        "bytes": 2009,
+        "sha256": "df8fd746aee92ec75037745a3e631ee02c20e160ffe37bb49880a4393fcb99ba",
+        "scope": "Sole concrete accepted-register basename/canonical-path repair, all29 other products exact."
+      },
+      {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_DUST07_CANONICAL_V2_RECEIVING.md",
+        "bytes": 10525,
+        "sha256": "1df58271f8b2b80a6c068ad7fd7d6fef354e5a23aefe38e8cd134859883b1f19",
+        "scope": "Complete new report/source/current-state prose and operations; accepted39/30/39 reuse, source/pin/presentation findings."
+      },
+      {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_DUST07_CANONICAL_V6_RECEIVING_CLOSURE.md",
+        "bytes": 5214,
+        "sha256": "7b60d185258dbe45ac775bf1f51bffa7b1e77da4bb76b5a07524ad2f10ad393e",
+        "scope": "Exact V2–V6 successor closure, all48 current pins and inverses; source-gate/current-historical scope and whitespace-only repairs."
+      }
+    ],
+    "scope": "Complete genuinely new canonical V2 prose/mutable-source fields and public V2 wrappers, followed by bounded V3 locator/spacing and V4 source-gate/historical-pin precision and V5/V6 final spacing closure. Root actually received all four complete final wrapper reports; exact prior literals, accepted tables, original reports and ledger payloads reused transparently. No fresh primary source reading or statistical independence claim.",
+    "source_local_acceptance_remains": "2026-10-17T21:16:29.555881+00:00",
+    "containing_publication_gate": "PENDING"
+  },
+  "post_adoption_live_publication_reconciliation": {
+    "actual_utc": "2026-10-17T21:46:18.550724+00:00",
+    "prior_accepted52_assembly_sha256": "f00eb7b58a0a04cda85e0bfccf10f3e8c3d62d4a94c58c6383b72d7a3512442f",
+    "nightly_source_gate_closed_utc": "2026-10-17T21:43:20.528541+00:00",
+    "nightly_source": "a31d63672aa7da96f51cdcc60ab8378fa1d0fbae",
+    "nightly_PR": 216,
+    "main_integration": "ff5e454a598c0de3d506a9c5d45e80c63b24cc28",
+    "source_integration_and_local_trees_exact": "47841ef2a6ec60c480cfa2dae9b7e9b1d9e7b76f",
+    "preserving_local_merges": [
+      {
+        "kind": "source",
+        "parent": "747f4973549ce6c30731ce3ddf8d466c667f7ad2",
+        "preserved_remote_commit": "a31d63672aa7da96f51cdcc60ab8378fa1d0fbae",
+        "new_local_merge_commit": "9de7162e4a39b6ffe49e8b2d86eb0880a0692f44",
+        "complete_tree_equal": "47841ef2a6ec60c480cfa2dae9b7e9b1d9e7b76f",
+        "all52_accepted_working_products_exact": true,
+        "author_preflight": "PASS_EXACT_INDEX"
+      },
+      {
+        "kind": "main",
+        "parent": "9de7162e4a39b6ffe49e8b2d86eb0880a0692f44",
+        "preserved_remote_commit": "ff5e454a598c0de3d506a9c5d45e80c63b24cc28",
+        "new_local_merge_commit": "4e81cc98e592c0b4653bfa4afb54f50acad5396c",
+        "complete_tree_equal": "47841ef2a6ec60c480cfa2dae9b7e9b1d9e7b76f",
+        "all52_accepted_working_products_exact": true,
+        "author_preflight": "PASS_EXACT_INDEX"
+      }
+    ],
+    "scope": "Only current publication prose and operational audit/pin metadata; all49 other accepted streams byte-identical, no source/guard/outcome/model/ledger/table/reviewer changes. Original audit authorship fields remain historical.",
+    "main_postmerge_audit": "SEPARATE_NOT_CERTIFIED_BY_THIS_SOURCE_RECEIPT",
+    "StageC_gate": "CLOSED_UNTIL_DUST07_FULL_GATE"
+  }
+}
