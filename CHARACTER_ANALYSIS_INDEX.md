@@ -1114,6 +1114,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`renegade-shepard-monograph` — Renegade Shepard character monograph](studies/comparative-media/Mass%20Effect/01%20Character%20Monographs/MASS_EFFECT_RENEGADE_SHEPARD_CHARACTER_MONOGRAPH.md)
 
+### Crocodile tissue cover
+
+- Entity ID: `shuukura:crocodile-tissue-cover`
+- Entity aliases:
+  - _None._
+
+#### Subject: Original Japanese light-novel continuity and author supplements
+
+- Analysis subject ID: `shuukura:crocodile-tissue-cover@original-light-novel`
+- Series: `shuukura`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `kss10`: LIGHT_NOVEL OTHER: Author-released supplemental story KSS-10, ワニの衝撃: the nameless crocodile tissue cover recalls Miyagi’s celebration of Sendai’s birthday, then narrates a later room scene ending in a prayer for Sendai’s return. The birthday is described as last week; exact present day and year remain unknown. Original-novel correspondence supplies context, not continuous novel coverage. Earlier packing scenes and other supplements are outside this coverage.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`kss10-object-perspective` — KSS-10: territorial rivalry, care and reluctant accommodation](series/shuukura/03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_10_DEEP_READING.md) — **active provisional authority**
+
 ### Dabi
 
 - Entity ID: `my-hero-academia:todoroki-toya`
@@ -5191,6 +5211,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `reviewed-scope`: LIGHT_NOVEL VOLUME: Japanese light-novel V01 and V05 parenting, separation, search and reunion; V06 retrospective history; V10 letter and escort deliberation; V12 expedition, protection and terminal represented state.; continuity `light-novel`
 - Reviewed current evidence:
   - [`character-model` — Bounded character analysis through V12](series/mushoku-tensei/04%20Character%20Analysis/paul/RECONSTRUCTION_MODEL.md)
+
+### Platypus tissue cover
+
+- Entity ID: `shuukura:platypus-tissue-cover`
+- Entity aliases:
+  - _None._
+
+#### Subject: Original Japanese light-novel continuity and author supplements
+
+- Analysis subject ID: `shuukura:platypus-tissue-cover@original-light-novel`
+- Series: `shuukura`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `kss09`: LIGHT_NOVEL OTHER: Author-released supplemental story KSS-09, カモノハシの苦悩: the nameless platypus tissue cover narrates rivalry with three cat-shaped chopstick rests, receives Sendai’s care, carries the cats and exchanges greetings. The household frame follows the cat gift, but the exact evening and year are unestablished. Novel purchase, transfer and gift comparisons are context, not continuous novel coverage. Other supplements are outside this coverage.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`kss09-object-perspective` — KSS-09: affection claims, recognition, material limits and qualified coexistence](series/shuukura/03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_09_DEEP_READING.md) — **active provisional authority**
 
 ### Queen
 
