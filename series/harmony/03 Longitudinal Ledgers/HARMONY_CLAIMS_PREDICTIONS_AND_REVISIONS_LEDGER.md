@@ -5,7 +5,7 @@ artifact_type: claim_revision_ledger
 series: Harmony / ハーモニー
 series_id: harmony
 generation: HARMONY_BOOTSTRAP_V1
-version: '0.22'
+version: '0.23'
 status: active_provisional
 scope: Claims, counterevidence, predictions and revisions ledger
 source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U020 interstice34 text/part0013.html and actual epilogue heading35/body36 text/part0015.html through2171rawbodycp/literal body-etml closure; ancillary37–40 classified excluded; all40spine occurrences accounted; next source NONE
@@ -23,6 +23,8 @@ revisions: 22
 ---
 
 # Claims, predictions and revisions ledger
+
+**Current G3 historical-wording qualification:** the [institutional owner’s attributable 合意員 erratum](HARMONY_KNOWLEDGE_INSTITUTIONS_AND_COERCION_LEDGER.md#g3-attributable-wording-erratum--2026-10-18) supersedes CL128v1’s inherited “committee-member” target-class reading while preserving the original row. Current CL128v2’s motive revision and every G2 selector remain unchanged. This erratum adds no claim formulation, revision-table row or analyst prediction; counts remain169/191/22/0.
 
 **Current G2 retrieval:** [Current arguments](#g2-current-arguments--complete-admitted-novel-2026-10-17), [latest versions and attributable revisions](#g2-current-versions-and-attributable-revisions), and the [exhaustive disposition index](#g2-exhaustive-claim-disposition-and-uncertainty-index) own present retrospective reliance. Every earlier current-version selector remains true only at its explicitly named G1 frontier; the source-bound formulations below are not competing present authorities.
 
