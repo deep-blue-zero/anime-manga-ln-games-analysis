@@ -1,0 +1,69 @@
+{
+  "schema": "KONOSUBA_DUSTCONT_ACTUAL_WHOLE_SOURCE_AND_READING_RECEIPT_V1",
+  "source_id": "DUST-CONT",
+  "accepted_utc": "2026-10-18T12:45:50.687643+00:00",
+  "native_filename": "Konosuba Extra - Dust - Motto Ano Orokamono ni mo Kyakkou wo - Himesama kara no Shoutaijou.epub",
+  "native_bytes": 5588468,
+  "native_sha256": "c5ffcf82e82cb0c205f34fe776f99d23fb2ac8cf13841598c92a607988bfa023",
+  "OPF_member": "item/standard.opf",
+  "OPF_sha256": "41862bf5187eb0cd4a81f9cf6e7ee7dbb66acd51f5c66801b7ae82ab607e547c",
+  "language": [
+    "ja"
+  ],
+  "colophon": "Electronic2026-02-28/ver.001, print-base2026-03-01first edition. Exact separately titled unnumbered more work 姫様からの招待状. OriginalAkatsuki/proseHirukuma/illustrationHagure/conceptMishima; internal spine code is not narrative volume8.",
+  "admission_sha256": "c4ab1fb7d52d432e9f62748ee55651ae2395cf179a2cae9cf025390d25b1e5b8",
+  "admission_utc": "2026-10-18T11:46:51.471833+00:00",
+  "preceding_full_gate_source": "9a5ac5e4b58cc60501df32142505d4ce4a38860d",
+  "preceding_gate_sha256": "ee9d09b4a2304f88a7f91250ae9c6bef06defe31ee40622ccb516061b30cac7b",
+  "preceding_fresh_reload_sha256": "d3825aa0d006964a8854f441c113920e9c33d3a647d1a51831a69ef69afb5c42",
+  "complete_uncoded_seal_sha256": "8c20d38a55ddd38a178ee1bc35b46e12a431753844c54a234c6775ebb32ee186",
+  "complete_uncoded_seal_utc": "2026-10-18T12:18:47.351639+00:00",
+  "actual_reading": {
+    "all_textual_components": 23,
+    "all_native_P_slots": 2916,
+    "principal_P_slots": 2846,
+    "other_P_slots": 70,
+    "separate_bonus_narrative": false,
+    "all_native_images_actually_viewed": 22,
+    "all_ruby_displayed_inline_and_nonparagraph_residual_received": true,
+    "all_native_local_and_archive_text_image_hash_joins_reverified": 45,
+    "fresh_native_ZIP_CRC": "PASS",
+    "image_individual_scopes_control": true
+  },
+  "source_first_sealed_pins": [
+    {
+      "file": "NATIVE_ADMISSION.json",
+      "bytes": 26074,
+      "sha256": "c4ab1fb7d52d432e9f62748ee55651ae2395cf179a2cae9cf025390d25b1e5b8"
+    },
+    {
+      "file": "ROOT_PRE_BODY_PREPARATION_SEAL.json",
+      "bytes": 9028,
+      "sha256": "292b9f1a7909b2b943735b792185bec0bae894340c2b81f71c58ca74ba85c304"
+    },
+    {
+      "file": "ACTUAL_SOURCE_FIRST_UNCODED_NOTES.jsonl",
+      "bytes": 134260,
+      "sha256": "60d4f7831ef5ae9d34b17e5e7b75b034397dacdbc2d969fe753fab06499d78ac"
+    },
+    {
+      "file": "ACTUAL_IMAGE_VIEW_UNCODED_NOTES.jsonl",
+      "bytes": 15877,
+      "sha256": "99a67d6989353c6fcb2885f8dab9b1504f4119e3601c81bd7921075b0112ff3f"
+    }
+  ],
+  "formal_coverage": {
+    "full_responsibilities": 17,
+    "selected_premises_not_census": 73,
+    "native_verified_short_form_context_witnesses": 150,
+    "local_unchanged_question_assessments": 7,
+    "append_only_decisions_across_ten_ledgers": 34,
+    "current_precision_qualifications": 45
+  },
+  "same_root_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05,DUST-06,DUST-07. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim.",
+  "no_independent_second_full_pass_native_human_audio_claim": true,
+  "source_first_originals_remain_exact": true,
+  "original_four_scores_and_14_future_fields_unchanged": true,
+  "publication_state": "CONTAINING_EXACT_PUBLICATION_AND_FULL_GATE_PENDING",
+  "midread_precision_context": "Dust07 full gate/fresh authority and declared assessments/inquiries plus prior Dust04 coercive-danger precision preceded this body; same informed main/fourholdout/R1 exposure, not independent new test. Electronic/print dates distinct, actual source title unnumbered."
+}

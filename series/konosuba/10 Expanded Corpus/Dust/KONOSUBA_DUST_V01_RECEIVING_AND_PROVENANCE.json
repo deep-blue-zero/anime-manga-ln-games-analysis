@@ -1,0 +1,494 @@
+{
+  "schema": "KONOSUBA_DUST01_ROOT_ACCEPTANCE_AND_ATTRIBUTABLE_RECEIVING_V1",
+  "status": "ACCEPTED_CONTAINING_PUBLICATION_PENDING",
+  "accepted_utc": "2026-10-17T22:53:08.846506+00:00",
+  "preceding_published_source": "c781155764c1d605a2859e1e87fb2cddf67e40b5",
+  "whole_edition_scope_note_exact": "# DUST01 whole-edition acceptance scope for root receiving\n\nThis note specifies the completed evidence scope that can support root's whole-edition acceptance. It does **not** record an actual acceptance event, canonical adoption, current authority or publication. Source: DUST-01, 19,450,953-byte EPUB, SHA256 `b77ac48f67168395c1437f23b2360f1a833311aba5a8d7177866a93d572c3644`.\n\nTwo actual principal readings have distinct histories. The producer read all nine admitted principal units in order: 3,185 paragraph slots, 3,068 nonempty, 123,624 base characters, 3,299 ruby elements and 4,913 rt nodes, in 38 acknowledged windows. It remained shielded from later Dust/holdout findings, bonus, afterword and images; its earlier limited Epi P5 ruby/tail diagnostic and later full ordered P5 reading are disclosed. It retained main-series/shared-model/pretraining limitations. My complete second reviewer pass covered the same principal slots/base/ruby in 37 actual untruncated displays, after later Dust06/07 and this edition's bonus/images were already known. That is a retrospective informed pass, not the producer's natural-order lineage or a fresh independent validation sample.\n\nMy separate component task actually read all sixteen nonprincipal XHTML containers (fifteen spine members plus nonspine navigation), all 124 body slots/111 nonempty/3,784 base characters/40 ruby/71 rt, and nineteen non-P navigation strings. It includes the nineteen-paragraph afterword, caution/title/TOC/colophon/reference material and the complete ebook bonus **DUST-01-BONUS-01**, `item/xhtml/p-012.xhtml`, P1–52, 1,911 base characters. All twenty-seven manifest image resources were individually viewed at original resolution, including cover/front material, illustrations embedded in the nine principal units and the afterword image's three creator comments. Hashes, image dimensions and actual viewing receipt are retained; no image or full source array is proposed for public Git. Counts are file/paragraph coverage, not independent events or jokes.\n\nTogether these tasks cover twenty-five textual containers, 3,309 body slots/3,179 nonempty/127,408 base characters/3,339 ruby/4,984 rt, nineteen additional nav strings and twenty-seven viewed image assets. This is a literary/component inspection scope, not a claim to have semantically read every binary font/CSS byte or to have performed acoustic/human/native-speaker certification. Editorial reference, illustration/caption, original bonus fiction, creator commentary, packaging and promotions keep separate authority. Same-edition illustration/prose joins cannot multiply independent confirmation. The five actor/scene corrections are carried by component V2 with exact initial-history recovery.\n\nAfter both original principal seals, I actually received the producer's full seventeen sections, all fifty-three purposive humor/comparison records, all thirty-three voice records and seven exploratory hypotheses. Twelve additional coherent native-source windows (252 slots) checked consequential claims; this was not another full-book pass. The bounded repaired successor applies five exact operations: intended rather than completed apology, state-qualified Mitsurugi appraisal in prose and V09, vanished-attacker terminology and one English verb correction. Full inverses restore all three originals; the hypothesis file remains byte-identical with fourteen blanks. This later coordinated receiving is not independent discovery or a second formal code assignment. Neither 53, 33 nor paragraph counts define a new J01/J02 denominator or out-of-sample score; main-only freezes and four-book accepted results remain historical and unchanged.\n\nExact principal V2 streams acceptable at the sealed bounded receiving scope:\n\n| Product | Bytes | SHA256 |\n|---|---:|---|\n| `DUST01_PRINCIPAL_DEEP_READING_CANDIDATE.md` | 63,881 | `1715d2beb97f47b950813a206da231b0f4519c8cbc1c4ee949b712a80a032f0f` |\n| `SOURCE_SAFE_PURPOSIVE_HUMOR_RECORDS.json` | 68,899 | `859ebf0e1eaa7409108ef8eb3b54f5b755d32061df1b901931a05755b01361c3` |\n| `SOURCE_SAFE_PURPOSIVE_VOICE_RECORDS.json` | 51,947 | `d9265655dc7cae2e53c45a0cf1cb2eef31672dca4b999bbcdd100b5563f285cb` |\n| `NATURAL_ORDER_HYPOTHESES_NOT_MAIN_FORECASTS.json` | 10,914 | `3372733aa462b9e97a7b2bd117fb29c7eff7ab34d0a0bc3d9f4084c2234ddd0f` |\n\nThe original component seal, actor correction01, precision02, my principal initial seal and the complete coordinated review/closure remain separately retrievable. Creator roles are prose author 昼熊, original work 暁なつめ, character originals 三嶋くろね and illustration 憂姫はぐれ; OPF's coarse aut ambiguity is preserved. The 2017-08-01 publication date is distinct from the 2023-03-25 package modification date. The bonus's first-publication date and exact reproduction/adaptation relationships remain unestablished. Concealed skill does not establish a complete past identity/oath; dream content does not prove waking assault; prop/costume/blush does not establish consent. No other source was opened for this assembly, and P was not contacted or supplied excluded findings.\n\nRoot owns the actual acceptance stamp, canonical routing and publication gate. Dust02 or any other next source requires separate admission; no future permission is conferred by this note. Whole-edition coverage does not itself close every later Stage C/D synthesis or model-revision responsibility.\n",
+  "whole_edition_scope_sha256": "67b73c0d6c7cda62ab23c87fa917ac1c006d8ccc3492e2a3e57a64e9bde2d9c3",
+  "source_precision_operations": {
+    "status": "EXTERNAL_PROPOSALS_NOT_APPLIED_NOT_REPAIRED_CANDIDATE_ACCEPTANCE",
+    "created_utc": "2026-10-17T22:44:01.254985+00:00",
+    "operations": [
+      {
+        "finding": "R01_REQUIRED_COMPLETION_PRECISION",
+        "file": "DUST01_PRINCIPAL_DEEP_READING_CANDIDATE.md",
+        "operation": "count_one_exact_text",
+        "old": "He apologizes after the exchange,",
+        "new": "He resolves to apologize after the exchange,",
+        "count": 1
+      },
+      {
+        "finding": "R02_REQUIRED_STATE_QUALIFICATION",
+        "file": "DUST01_PRINCIPAL_DEEP_READING_CANDIDATE.md",
+        "operation": "count_one_exact_text",
+        "old": "Dust recognizes the stronger opponent privately and performs his exit as granting mercy.",
+        "new": "Dust privately recognizes Mitsurugi’s considerable ability and his own present drunken disadvantage, then performs his exit as granting mercy.",
+        "count": 1
+      },
+      {
+        "finding": "R02_REQUIRED_STATE_QUALIFICATION",
+        "file": "SOURCE_SAFE_PURPOSIVE_VOICE_RECORDS.json",
+        "operation": "count_one_exact_serialized_JSON_string",
+        "json_path": [
+          "records",
+          8,
+          "pragmatic_function_and_comparison"
+        ],
+        "record_id": "D01-V09",
+        "old": "A retreat from a recognized stronger opponent is performed as discretionary mercy; internal accounts132/135 add different self-protective reasons.",
+        "new": "A retreat after recognizing Mitsurugi’s considerable ability and his own present drunken disadvantage is performed as discretionary mercy; P135 also supplies the threatened loss of Leen’s future credit as a self-protective reason.",
+        "count": 1
+      },
+      {
+        "finding": "Q01_RECOMMENDED_SOURCE_HEDGE",
+        "file": "DUST01_PRINCIPAL_DEEP_READING_CANDIDATE.md",
+        "operation": "count_one_exact_text",
+        "old": "the surviving assassin’s future conduct remains his guess.",
+        "new": "the vanished attacker’s future conduct remains his guess.",
+        "count": 1
+      },
+      {
+        "finding": "P01_PRESENTATION_ONLY",
+        "file": "SOURCE_SAFE_PURPOSIVE_HUMOR_RECORDS.json",
+        "operation": "count_one_exact_serialized_JSON_string",
+        "json_path": [
+          "records",
+          35,
+          "whole_premise_description_and_mechanism"
+        ],
+        "record_id": "D01-H36",
+        "old": "Police authority routes the kidnappers, then three officers collapse into one disguised devil and linked shells. The operational provider differs from Dust’s first assumption.",
+        "new": "Police authority routs the kidnappers, then three officers collapse into one disguised devil and linked shells. The operational provider differs from Dust’s first assumption.",
+        "count": 1
+      }
+    ],
+    "full_forward_inverse_to_original_byte_streams_verified": true,
+    "original_files_unchanged": true,
+    "new_windows_codes_thresholds_or_hypothesis_answers": false,
+    "original_pins": [
+      {
+        "path": "PRIVATE_RECOVERY_34d5747af12f4b42",
+        "bytes": 63815,
+        "sha256": "94dda1c52b77987d0d3cf111958ca313878ed0cc3d27aa4afeb67992588714ae"
+      },
+      {
+        "path": "PRIVATE_RECOVERY_5750ac59c2963a0e",
+        "bytes": 51859,
+        "sha256": "fcf32f08ba76b72f2fba2bf1c66d5587e4753d9ba5d7b33f042eba7e42a047d0"
+      },
+      {
+        "path": "PRIVATE_RECOVERY_ef6fc7f5d7898d49",
+        "bytes": 68900,
+        "sha256": "f285e12faa93040ce7a3ba584bc4519dcacab8005420a2d9f48bbf3ac931df53"
+      }
+    ]
+  },
+  "principal_repaired_successor": {
+    "utc": "2026-10-17T22:46:49.867910+00:00",
+    "status": "ROOT_EXACT_ATTRIBUTABLE_REPAIRED_DERIVATIVE_AWAITING_BOUNDED_RECEIVING",
+    "operations_source_sha256": "8ccaffabe84b164f48ca4f37ff93d8a243b7e033b9f555e3842e40682d5da1d6",
+    "scope": "Only five reviewed exact prose values; source windows, codes, hypotheses and historical authority unchanged",
+    "originals_unchanged": true,
+    "products": [
+      {
+        "file": "DUST01_PRINCIPAL_DEEP_READING_CANDIDATE.md",
+        "original_bytes": 63815,
+        "original_sha256": "94dda1c52b77987d0d3cf111958ca313878ed0cc3d27aa4afeb67992588714ae",
+        "successor_bytes": 63881,
+        "successor_sha256": "1715d2beb97f47b950813a206da231b0f4519c8cbc1c4ee949b712a80a032f0f",
+        "operations": [
+          {
+            "finding": "R01_REQUIRED_COMPLETION_PRECISION",
+            "file": "DUST01_PRINCIPAL_DEEP_READING_CANDIDATE.md",
+            "operation": "count_one_exact_text",
+            "old": "He apologizes after the exchange,",
+            "new": "He resolves to apologize after the exchange,",
+            "count": 1
+          },
+          {
+            "finding": "R02_REQUIRED_STATE_QUALIFICATION",
+            "file": "DUST01_PRINCIPAL_DEEP_READING_CANDIDATE.md",
+            "operation": "count_one_exact_text",
+            "old": "Dust recognizes the stronger opponent privately and performs his exit as granting mercy.",
+            "new": "Dust privately recognizes Mitsurugi’s considerable ability and his own present drunken disadvantage, then performs his exit as granting mercy.",
+            "count": 1
+          },
+          {
+            "finding": "Q01_RECOMMENDED_SOURCE_HEDGE",
+            "file": "DUST01_PRINCIPAL_DEEP_READING_CANDIDATE.md",
+            "operation": "count_one_exact_text",
+            "old": "the surviving assassin’s future conduct remains his guess.",
+            "new": "the vanished attacker’s future conduct remains his guess.",
+            "count": 1
+          }
+        ],
+        "full_inverse_exact": true
+      },
+      {
+        "file": "SOURCE_SAFE_PURPOSIVE_VOICE_RECORDS.json",
+        "original_bytes": 51859,
+        "original_sha256": "fcf32f08ba76b72f2fba2bf1c66d5587e4753d9ba5d7b33f042eba7e42a047d0",
+        "successor_bytes": 51947,
+        "successor_sha256": "d9265655dc7cae2e53c45a0cf1cb2eef31672dca4b999bbcdd100b5563f285cb",
+        "operations": [
+          {
+            "finding": "R02_REQUIRED_STATE_QUALIFICATION",
+            "file": "SOURCE_SAFE_PURPOSIVE_VOICE_RECORDS.json",
+            "operation": "count_one_exact_serialized_JSON_string",
+            "json_path": [
+              "records",
+              8,
+              "pragmatic_function_and_comparison"
+            ],
+            "record_id": "D01-V09",
+            "old": "A retreat from a recognized stronger opponent is performed as discretionary mercy; internal accounts132/135 add different self-protective reasons.",
+            "new": "A retreat after recognizing Mitsurugi’s considerable ability and his own present drunken disadvantage is performed as discretionary mercy; P135 also supplies the threatened loss of Leen’s future credit as a self-protective reason.",
+            "count": 1
+          }
+        ],
+        "full_inverse_exact": true
+      },
+      {
+        "file": "SOURCE_SAFE_PURPOSIVE_HUMOR_RECORDS.json",
+        "original_bytes": 68900,
+        "original_sha256": "f285e12faa93040ce7a3ba584bc4519dcacab8005420a2d9f48bbf3ac931df53",
+        "successor_bytes": 68899,
+        "successor_sha256": "859ebf0e1eaa7409108ef8eb3b54f5b755d32061df1b901931a05755b01361c3",
+        "operations": [
+          {
+            "finding": "P01_PRESENTATION_ONLY",
+            "file": "SOURCE_SAFE_PURPOSIVE_HUMOR_RECORDS.json",
+            "operation": "count_one_exact_serialized_JSON_string",
+            "json_path": [
+              "records",
+              35,
+              "whole_premise_description_and_mechanism"
+            ],
+            "record_id": "D01-H36",
+            "old": "Police authority routes the kidnappers, then three officers collapse into one disguised devil and linked shells. The operational provider differs from Dust’s first assumption.",
+            "new": "Police authority routs the kidnappers, then three officers collapse into one disguised devil and linked shells. The operational provider differs from Dust’s first assumption.",
+            "count": 1
+          }
+        ],
+        "full_inverse_exact": true
+      }
+    ],
+    "unchanged_hypothesis_sha256": "3372733aa462b9e97a7b2bd117fb29c7eff7ab34d0a0bc3d9f4084c2234ddd0f",
+    "all14_blank_preservation": "Entire hypothesis file byte-identical; numeric direct-key diagnostic is not substituted for nested actual schema"
+  },
+  "actual_coordinated_receiving": {
+    "status": "COMPLETE_COORDINATED_CANDIDATE_AND_SELECTED_REGISTER_RECEIVING",
+    "actual_scope_attestation_utc": "2026-10-17T22:44:01.254985+00:00",
+    "own_initial_source_only_seal": {
+      "path": "PRIVATE_RECOVERY_1e060c0206038079",
+      "bytes": 3023,
+      "sha256": "24b960ce10dc63b370af41d3ee5679c9cadba342195b688e0b807558133586e6"
+    },
+    "producer_initial_analytical_seal": {
+      "path": "PRIVATE_RECOVERY_e38c4321cd984451",
+      "bytes": 8576,
+      "sha256": "38bc9c0ae0f8ef3b7d3f28b09537b89f551ea76356e019fda72cced81c2b7923"
+    },
+    "actual_read": {
+      "candidate_all_seventeen_sections_line_ranges": [
+        [
+          1,
+          65
+        ],
+        [
+          66,
+          125
+        ],
+        [
+          126,
+          185
+        ],
+        [
+          186,
+          245
+        ],
+        [
+          246,
+          305
+        ],
+        [
+          306,
+          "end"
+        ]
+      ],
+      "humor_all_record_specific_semantic_fields": [
+        [
+          1,
+          12
+        ],
+        [
+          13,
+          24
+        ],
+        [
+          25,
+          39
+        ],
+        [
+          40,
+          53
+        ]
+      ],
+      "voice_all_record_specific_semantic_fields": [
+        [
+          1,
+          11
+        ],
+        [
+          12,
+          22
+        ],
+        [
+          23,
+          33
+        ]
+      ],
+      "seven_hypotheses_all_fields_and_four_open_questions": true,
+      "reading_receipt_full_pass_seal_handoff_and_author_qualifications_read": true,
+      "other_seal_manifest_complete_nonpin_metadata_read_pin_arrays_verified": true,
+      "common_record_fields_read_once_and_losslessly_factored": {
+        "humor": 1,
+        "voice": 2
+      },
+      "bounded_primary_displays": [
+        {
+          "path": "PRIVATE_RECOVERY_8844b2ce1ab7bc12",
+          "bytes": 2169,
+          "sha256": "e03ffc4f655c84506a3260c19ce0b5246d3fd1f7b9da7e3da90a5bf6edbccd56",
+          "unit": "C01",
+          "member": "item/xhtml/p-003.xhtml",
+          "p_start": 158,
+          "p_end": 176,
+          "paragraph_slots": 19,
+          "base_characters": 614,
+          "ruby": 16,
+          "actual_complete_returned_display_read": true,
+          "untruncated": true
+        },
+        {
+          "path": "PRIVATE_RECOVERY_acc2939465c07ed5",
+          "bytes": 2023,
+          "sha256": "93301fd9c785b8339a53d8a921f9a1dc835488f0da08f600eb96a2c91b8636db",
+          "unit": "C02",
+          "member": "item/xhtml/p-004.xhtml",
+          "p_start": 109,
+          "p_end": 120,
+          "paragraph_slots": 12,
+          "base_characters": 571,
+          "ruby": 16,
+          "actual_complete_returned_display_read": true,
+          "untruncated": true
+        },
+        {
+          "path": "PRIVATE_RECOVERY_1003c6fb6267ba51",
+          "bytes": 2420,
+          "sha256": "4a529499395be75130b2c2ee8d58afb4e946838d1605189dbcaaf3440aff7737",
+          "unit": "C02",
+          "member": "item/xhtml/p-004.xhtml",
+          "p_start": 121,
+          "p_end": 135,
+          "paragraph_slots": 15,
+          "base_characters": 708,
+          "ruby": 16,
+          "actual_complete_returned_display_read": true,
+          "untruncated": true
+        },
+        {
+          "path": "PRIVATE_RECOVERY_b982c02e0f23be54",
+          "bytes": 1407,
+          "sha256": "3bc551f2912e91dba19d334b06ab7d58c462a0d5846f0e13a1a2d981ac357f82",
+          "unit": "C03",
+          "member": "item/xhtml/p-005.xhtml",
+          "p_start": 1,
+          "p_end": 14,
+          "paragraph_slots": 14,
+          "base_characters": 351,
+          "ruby": 13,
+          "actual_complete_returned_display_read": true,
+          "untruncated": true
+        },
+        {
+          "path": "PRIVATE_RECOVERY_d6a0312c11fdccb1",
+          "bytes": 5194,
+          "sha256": "3e870d024bed955801b0b4c9052a2444ea589c54cb59f177a44a45f5d7289ac5",
+          "unit": "C04",
+          "member": "item/xhtml/p-006.xhtml",
+          "p_start": 246,
+          "p_end": 275,
+          "paragraph_slots": 30,
+          "base_characters": 1462,
+          "ruby": 46,
+          "actual_complete_returned_display_read": true,
+          "untruncated": true
+        },
+        {
+          "path": "PRIVATE_RECOVERY_50589724667b6714",
+          "bytes": 1369,
+          "sha256": "836ce33f753a3f1003b88c40ff2b7804a18dd758bd63602302481e1433f41208",
+          "unit": "C04",
+          "member": "item/xhtml/p-006.xhtml",
+          "p_start": 298,
+          "p_end": 305,
+          "paragraph_slots": 8,
+          "base_characters": 399,
+          "ruby": 10,
+          "actual_complete_returned_display_read": true,
+          "untruncated": true
+        },
+        {
+          "path": "PRIVATE_RECOVERY_88d467996fe59767",
+          "bytes": 2961,
+          "sha256": "e0e13fd5d23345c83572534b5a541306af7cd5bdc80c4cf8d8c183d90a15cdcd",
+          "unit": "C04",
+          "member": "item/xhtml/p-006.xhtml",
+          "p_start": 514,
+          "p_end": 539,
+          "paragraph_slots": 26,
+          "base_characters": 834,
+          "ruby": 19,
+          "actual_complete_returned_display_read": true,
+          "untruncated": true
+        },
+        {
+          "path": "PRIVATE_RECOVERY_49c1d4c8de75ff4a",
+          "bytes": 2043,
+          "sha256": "c9f188f1ff427cdd40494afe2e8e23505c63dd15a40b50cc747e7d4c020c01bf",
+          "unit": "C05",
+          "member": "item/xhtml/p-007.xhtml",
+          "p_start": 511,
+          "p_end": 524,
+          "paragraph_slots": 14,
+          "base_characters": 585,
+          "ruby": 14,
+          "actual_complete_returned_display_read": true,
+          "untruncated": true
+        },
+        {
+          "path": "PRIVATE_RECOVERY_0f2e1aaec0650c04",
+          "bytes": 2337,
+          "sha256": "8538230590a50492c848c9f499f8203ce825dab5ecc6c40be144eee1abf3c879",
+          "unit": "Epi",
+          "member": "item/xhtml/p-010.xhtml",
+          "p_start": 1,
+          "p_end": 15,
+          "paragraph_slots": 15,
+          "base_characters": 647,
+          "ruby": 18,
+          "actual_complete_returned_display_read": true,
+          "untruncated": true
+        },
+        {
+          "path": "PRIVATE_RECOVERY_10cfb32dac09598f",
+          "bytes": 4914,
+          "sha256": "d4691738ba1b762fa035ba70aa6cc73bd5e87461442ec974d342a10f4e3cfb1b",
+          "unit": "Final",
+          "member": "item/xhtml/p-009.xhtml",
+          "p_start": 676,
+          "p_end": 710,
+          "paragraph_slots": 35,
+          "base_characters": 1311,
+          "ruby": 52,
+          "actual_complete_returned_display_read": true,
+          "untruncated": true
+        },
+        {
+          "path": "PRIVATE_RECOVERY_e8f80dcd4f3fdfcb",
+          "bytes": 3576,
+          "sha256": "9ea1dd1fdb9444a223bc5ed832a918a582ee8b48e53b9834c59d1f1dc44d8f84",
+          "unit": "Final",
+          "member": "item/xhtml/p-009.xhtml",
+          "p_start": 711,
+          "p_end": 741,
+          "paragraph_slots": 31,
+          "base_characters": 936,
+          "ruby": 30,
+          "actual_complete_returned_display_read": true,
+          "untruncated": true
+        },
+        {
+          "path": "PRIVATE_RECOVERY_b98e28cb14593b3b",
+          "bytes": 4429,
+          "sha256": "ed03b2948273cd4359dbe2496dc32c8307278ebc7bf5421acb87eed199d2d9a3",
+          "unit": "Final",
+          "member": "item/xhtml/p-009.xhtml",
+          "p_start": 769,
+          "p_end": 801,
+          "paragraph_slots": 33,
+          "base_characters": 1153,
+          "ruby": 52,
+          "actual_complete_returned_display_read": true,
+          "untruncated": true
+        }
+      ],
+      "bounded_primary_paragraph_slots": 252,
+      "not_a_second_full_principal_pass": true,
+      "helper_hash_definition_read_scope": "build_selected_records.py lines1–10 and build_voice_records.py lines1–6. Earlier broad rg returned truncated duplicate specifications; these small complete definitions recovered the needed technical scope, not a claimed full helper read."
+    },
+    "mechanical_checks": {
+      "all_author_seal_inputs_match": true,
+      "all_original_four_product_streams_unchanged": true,
+      "all86_native_short_base_joins": true,
+      "all119_serialized_window_hashes": true,
+      "all14_future_hypothesis_fields_still_blank": true,
+      "lossless_common_field_reconstruction": true
+    },
+    "semantic_vs_mechanical": "Native/projected equality and short-anchor joins are necessary provenance checks, not substitutes for source reading or actor verification.",
+    "native_verification_reused": {
+      "path": "PRIVATE_RECOVERY_6c104b2996238083",
+      "bytes": 5202,
+      "sha256": "a00b8f19f6354fa751230d15fb20e3bbded7edbf1dbb47758b8a7155f2755d50"
+    },
+    "no_new_source_elsewhere_or_source_acquisition": true,
+    "exposure_and_receiving_limits": [
+      "Retrospective continuing semantic lineage; MAIN01–17, all four holdouts, shared analyses and uncertain pretraining already known.",
+      "DUST01 bonus/nonprincipal text and all27 images were viewed before the separate principal pass; three narrow own actor findings were shared with root during that pass.",
+      "Own source-only principal seal predates producer packet access; this coordinated review is not initial independent coding or statistical replication.",
+      "No P contact, P other-task access, later source, excluded new component or image viewing during this comparison.",
+      "Producer full raw working notes and whole helper specifications were not claimed as freshly read; pinned and bounded metadata scope is explicit.",
+      "No acoustic/human/native-speaker or absolute-blindness certification.",
+      "No canonical/Git/index/model/frozen-history writes, main/J01/J02 new score or denominator."
+    ],
+    "disposition": "Two required bounded source precisions, two recommended minor terminology/presentation refinements across five proposed operations. Exact repaired bytes require separate receiving."
+  },
+  "repaired_closure_report": "# DUST01 repaired successor V2: bounded closure\n\nThe four exact repaired product streams are acceptable at this receiving scope. I read all actual old/new values in root's manifest and independently replayed the five operations from my sealed proposal. Every forward replay equals the delivered successor bytes; every inverse recovers the complete original bytes. Root's five operations equal the previously sealed five proposals, with no added operation.\n\nR01 now keeps the apology as a resolve. R02 now names Mitsurugi's considerable ability and Dust's present drunken disadvantage in both the chapter prose and D01-V09, retaining the distinct Leen/credit reason. Q01 now says the vanished attacker's future conduct. D01-H36 uses “routs.” These close the two required source precisions and the two recommended minor refinements without changing their mechanisms, source windows or classifications.\n\nThe hypothesis file is byte-identical to the original: all seven records and fourteen direct outcome/adjudication fields remain blank. The voice/humor JSONs differ only in their one declared prose field each; all other parsed values, IDs, L/H proposals, eligibility, bounds and source hashes remain exact. This check does not certify unseen whole-workspace changes; these four streams contain no source/model/frozen-history revision.\n\nThe previous complete seventeen-section, fifty-three-humor, thirty-three-voice and seven-hypothesis receiving is reused under its exact seal. This closure is a bounded delta/inverse/pin review, with no new principal read or image inspection. Original producer and semantic source-first files remain preserved. No P communication, canonical/Git write, new source, model score, denominator, actual adoption/publication or future admission is claimed.\n",
+  "component_v2_seal": {
+    "status": "SEALED_PRIVATE_COMPONENT_V2_AND_WHOLE_EDITION_SCOPE_FOR_ROOT_RECEIVING",
+    "actual_seal_utc": "2026-10-17T22:50:45.892045+00:00",
+    "source_safe_products": [
+      {
+        "file": "DUST01_SOURCE_SAFE_COMPONENT_INVENTORY_V2.json",
+        "bytes": 68137,
+        "sha256": "edaa16d0d4c4cde776ce381467d701f27630e1de4c3f9dc5be349504f3deaa97"
+      },
+      {
+        "file": "DUST01_COMPONENT_AND_BONUS_REPORT_V2.md",
+        "bytes": 27957,
+        "sha256": "62844186c30aa8f256d143217a59a593a20fb5a411f01f8362a240b30996d552"
+      },
+      {
+        "file": "WHOLE_EDITION_ACCEPTANCE_SCOPE.md",
+        "bytes": 5411,
+        "sha256": "67b73c0d6c7cda62ab23c87fa917ac1c006d8ccc3492e2a3e57a64e9bde2d9c3"
+      }
+    ],
+    "private_proof": {
+      "file": "PRIVATE_FULL_FORWARD_INVERSE_OPERATIONS_AND_ASSET_PRESERVATION.json",
+      "bytes": 29949,
+      "sha256": "e155acff17b0ea6c9a68edc3a1008ccbd9ab2424ca2bfe5885e4a194b8ab2e2e"
+    },
+    "private_builder": {
+      "file": "build_component_v2_and_whole_scope.py",
+      "bytes": 18338,
+      "sha256": "24045d1790d1b46179d86f86805074e950eaa221ed1f9ab40b562777ec82acab"
+    },
+    "no_root_acceptance_publication_or_future_admission_claim": true
+  },
+  "root_actual_scope": "Complete principal argument received, all86 short-form base anchors mechanically joined; complete bonus and bounded Final windows actually read. Root did not read entire principal. Separate S complete principal/components/images and subsequent coordinated receiving supply their recorded actual scopes.",
+  "interpretive_limits": "No pristine blind read, independent human reader, new paired coding/census/J02 score, main model revision or whole-corpus completion. Same-scene image/prose dependencies are retained.",
+  "public_adoption_transform": "Accepted principal has only four metadata/opening changes and a final receiving/routing paragraph relative to reviewed V2; component report prepends root acceptance to exact reviewed body; component register wraps exact reviewed values. Selected humor/voice and seven-hypothesis files are exact reviewed byte streams. Original private drafts/seals and all inverse operations remain retrievable."
+}

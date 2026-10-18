@@ -1050,3 +1050,243 @@ Source plane: designated supplemental holdout DUST-06, exact EPUB SHA256 `d533fc
 | VB-DUST06-CS02 | Kazuma; Aqua; Megumin; Darkness | C01P163–170/514–522; C03P91/211/394; C04P131 | Mediated E1 context, hypothesis separately tagged; HIGH wording, full decision access missing | Serena credit repeats a known MAIN15 event. The attributed Explosion-connoisseur label is real Japanese but not an adequate K08 pressure reply. Distant Explosion, hypothetical Darkness preferences and a priest’s unidentified Cure do not supply their complete named-subject choices. | All31 K/A/M/D commitments remain NT; no physical-appearance floor, absence confirmation or proxy credit from secondary actors. |
 
 Complete separate principal passes and sealed initials precede coordinated receiving; source-first inventories are not trial denominators. External factual/routing corrections preserve every original. Actual source admission, reading, validation acceptance, full-edition literary coverage and publication remain separate. No new source/body/image or expanded model revision follows from this appendix.
+
+
+## Phase B DUST07 frozen-model validation overlay — CS
+
+Source plane: designated supplemental holdout DUST-07, exact EPUB SHA256 `cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5`, five admitted principal members only. Outside V01–V17 derivation; no frozen R1 model, original 43-contract registry, Gen01–05 history or prior holdout score changes. Acceptance UTC: `2026-10-17T21:16:29.555881+00:00`. Native one-based all-body routes and identity are defined by the [withheld validation](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_WITHHELD_SOURCE_VALIDATION.md). The complete prior ledger remains an exact prefix; main-only historical states remain retrievable at 3b92. Comparative Dust focal access is explicitly separate from Kazuma narration.
+
+| Stable observation ID | Subject | Exact DUST07 context/locator | Evidence class / confidence | Bounded observation | Claim transition / remaining limit |
+|---|---|---|---|---|---|
+| VB-DUST07-CS01 | Dust; Leen; Fatefore | ProP3–51; C01P188–193/380–404; C02P351–378 | Observed act/report/private Dust appraisal separately identified; HIGH wording/order, MODERATE functional cause | Current particular Leen valuation differs from initial princess resemblance. He recognizes an escape option, identifies her and others as protectees, and actually retrains. The later cheek kiss follows a prior protective promise. | E04 cleaner escape-choice fit; no reduction to disguise-only nobility, single pure motive or retrospective final-state appraisal. |
+| VB-DUST07-CS02 | Kazuma; Aqua; Megumin; Darkness | C01P57–207/975–1115; C03P201–254 | Observed act/report/private Dust appraisal separately identified; HIGH wording/order, MODERATE functional cause | Actual Kazuma/Megumin speech and Darkness travel coexist with uneven subject access. Preparation/departure overlaps accepted MAIN16; Nos aftermath follows known MAIN17 displacement. Aqua is reported, not shown acting locally. | Formal 31 new-independent-test NT preserves dependent K01P/K03C/K08AMB and M01/D01 components. Textual novelty and new event independence remain distinct. |
+| VB-DUST07-CS03 | Wiz; Vanir | C02P227–264/617–644; C03P377–457 | Observed act/report/private Dust appraisal separately identified; HIGH wording/order, MODERATE functional cause | Wiz accepts limited covert help under pact/identity constraints, defends valued civilians and exhausts already finite mana. Vanir accepts priced phases and has a genuine airborne-target limit. | Neither universal ineptitude nor unlimited outside rescue; a high-capacity domain does not erase permission, compatibility, resource or judgment limits. |
+
+Complete separate principal passes and sealed initial assessments precede coordinated receiving. Every original label and attributable correction remains preserved; no statistical independence, new J02 census or native-human/acoustic certification. Full edition/component analysis, current-model revision and this containing publication gate remain separate.
+
+
+## Stage C DUST-01 expanded-source overlay — CS
+
+Source: Japanese DUST-01, SHA256 `b77ac48f67168395c1437f23b2360f1a833311aba5a8d7177866a93d572c3644`; nine complete principal members, separately analyzed bonus and edition components. Acceptance recorded `2026-10-17T22:53:08.846506+00:00`. Routes use the one-based all-body P convention in [Dust V01](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V01_DEEP_READING.md), §16; bonus routes use p-012.xhtml P1–52. This separately tagged expanded plane preserves the complete prior ledger as an exact prefix and does not amend main-only historical states, R1, Gen01–05 or four-book scores.
+
+| Stable observation | Subject / context | Source route | Evidence / confidence | Accepted bounded finding and claim transition |
+|---|---|---|---|---|
+| EC-DUST01-CS01 | Dust: capacity, concealment and ordinary identity | C01P158–176; FinalP759–801 | Observed act and Dust private appraisal; HIGH act, MODERATE scope | Staff defense and spear competence coexist with chosen idling and actual misconduct. Final792–794 resists declaring the ordinary self false. Expand the secondary evidence base; exact former identity/oath and universal power rank remain OPEN. |
+| EC-DUST01-CS02 | Aqua; Kazuma: domestic bonus | BONUS-01P3–52 | Observed dialogue/action; narrator motive inferences qualified | Kazuma pays for covert observation; Aqua follows a reminder, seeks warmth/food and quarrels with Vanir during tea. Do not turn the narrator’s appetite verdict into a global cognitive incapacity or make Megumin/Darkness offstage references into choices. |
+
+All substantive routes resolve through the complete reading and separate edition analysis; source-safe selected records preserve speaker/addressee and uncertainty. Expanded observation, main-model revision, exact-head publication and whole-corpus completion are distinct.
+
+
+## Stage C artbook component overlay — CS — 2026-10-17T23:27:29.977226+00:00
+
+Sources: ART-CHEERS SHA256 `fb0e29a264b37acb5f8b24cdcbb7be3d343898d0bf7ef61bf4f62a1ce85532ea` and ART-BLESSING SHA256 `12854d8c71ad700cd177d2928250786034f7928a938416c5846dfede9c75b37c`. [Cheers](../10%20Expanded%20Corpus/Artbooks/KONOSUBA_CHEERS_COMPONENT_AND_LITERARY_ANALYSIS.md) and [Blessing](../10%20Expanded%20Corpus/Artbooks/KONOSUBA_BLESSING_COMPONENT_AND_LITERARY_ANALYSIS.md) give complete supplied-component routes and actual reader/receiving limits. Expanded evidence only; main-only frozen histories, R1, Gen01–05, original blanks and four-book scorecards stay unchanged. The entire prior ledger is an exact prefix.
+
+| Stable observation | Named subject | Exact source context / route | Evidence class / confidence | Accepted bounded finding | Claim transition / limit |
+|---|---|---|---|---|---|
+| EC-ARTBOOKS-CS01 | Megumin; Yunyun | CHEERS printed121/B2–122/B3 | Observed contest actions, private-cause questions/inferences separate; HIGH sequence/MODERATE cause | Recognition/competitive identity recruits strategic rules and allies; Yunyun combines adequate-force skill with company needs and explicit objection. No nine-kill Megumin first round or universal16kill ceiling. | EXPAND distinct rewards/capacity/current-state variables; no main-only revision. |
+| EC-ARTBOOKS-CS02 | Megumin; Aqua; Darkness | BLESSING S146–148 | Observed action and reported prior cleaning/inference separated | Megumin stops casting after salmon information changes ally risk. Darkness objects to involuntary public-stripping exposure; Aqua’s later cleaning report supports an indirect explanation, not direct observation of the initiating event. | COUNTERCARICATURE constraints queued for Stage D, not a revised R1 score. |
+
+
+## Stage C Memorial Fanbook overlay — CS
+
+Source: FAN-MEM, SHA-256 `e08725fc99cebadd52f93d05122de36d4ae39b435d0d993c41b068b127ebb32d`, electronic 2020-04-01 ver.001. The [complete analysis](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_AND_LITERARY_ANALYSIS.md), [register](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_REGISTER.json) and [receiving](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_RECEIVING_REVIEW.md) retain exact native routes, unequal authority and reading limits. Snnn is the one-based native spine identity. This separately tagged expanded plane preserves the entire prior ledger and does not replace a frozen checkpoint, R1, Gen01–05 or score history.
+
+| Stable observation | Named subject/context | Source window | Evidence/confidence | Accepted finding | Claim transition/limit |
+|---|---|---|---|---|---|
+| EC-FAN-CS01 | Kazuma; reward and recognition | S097–099, adviser, reward and disciple sequence | H1 choice, proposals and reactions; high source confidence, moderate generalization | Private reward and deference draw practical competence into cruel advice. Concern for Medusa coexists with flight; a rescue is not demonstrated. | EXPAND mixed incentives; neither universal virtue nor total cruelty follows. |
+| EC-FAN-CS02 | Aqua; status and commercial adaptation | S110–111, complete water-business reprint | H1/H2 speech and attempts; high sequence confidence | A free, nonunique water supply undercuts her proposed price. Disputed goddess recognition becomes a tribute demand; payment and sale remain unshown. | EXPAND status, resources and reappraisal; do not infer fixed business incapacity. |
+
+These are two analytical responsibilities, not independent repeated trials. The complete reader read all 121 pages; root sealed an initial 37-page pass, then checked five further pages during coordinated receiving. Shared-lineage limits and all current qualifications apply. Publication remains a separate gate.
+
+
+## Stage C — Dust02 whole supplied edition: character state
+
+Source DUST-02; principal p002-p008 plus separately admitted bonus p010 and edition components. The [whole-edition receiving record](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V02_RECEIVING_AND_PROVENANCE.json) preserves full source/reader scopes, both original seven-question proposals, current root dispositions and exact precision history. This appends to the current published ledger; every earlier byte remains an exact prefix. Main-only R1, Gen01-05, original forecasts/blanks and four scorecards stay unchanged. Stage D model revision remains later work.
+
+The producer supplied91 principal append proposals against the exact earlier0ce33a0f baseline. Root received all91; this ledger adopts the relevant scoped observations with current qualifications, then adds one separately identified bonus observation. These are responsibilities and dependent evidence routes, not independent trials.
+
+### DUST02-CS01 — Dust: chosen embodied life
+
+A painless existence without appetite is unattractive, while familiar noisy company has positive value even after he seeks a quiet interval. The present life is not proved a fake mask simply because a prior identity exists.
+
+Source: C01P130–140; EpiP40–67. Direct appraisal and actual carrying; the good-dream outcome67 is his prediction, not observed.
+
+Transition: STRENGTHEN. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-CS02 — Dust: attachments without innocence
+
+Costly carrying, specific gift and inhibited complaint coexist with using Chris as a diversion and Small as a feigned hostage. Keep care and agency violations in one model.
+
+Source: C01P166–169; C04P483–549; FinalP223–250/365–381. Observed behavior and explicit private goals; later help does not erase earlier endangerment.
+
+Transition: REVISE. Confidence: HIGH for depicted acts; MODERATE for generalization. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-CS03 — Dust: tactical learning is local
+
+The final spear approach explicitly recalls Hydra overconfidence537 and uses restraints and a handoff. Immediate later voyeurism shows no global impulse reform.
+
+Source: C01P43–55; FinalP532–546. Direct narrated comparison plus actual sequence; blast injury remains.
+
+Transition: STRENGTHEN. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-CS04 — Dust: control of disclosure
+
+Older identity remains undescribed. Official/royal associations prompt evasion, but Leen moves him toward actual disclosure before sleep interrupts it.
+
+Source: C01P119–123; C02P253–257/788; EpiP50–63. Private response and direct conversation, not a new biography or exact oath.
+
+Transition: OPEN. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-CS05 — Yunyun: inclusion and independent judgment
+
+She wants company and rivalry credit, can decline a sexual premise, refuses fraudulent profits and supplies decisive magic. Social hesitancy does not erase capacity or agency.
+
+Source: C02P498–506/573–590; C04P536–549; FinalP17/530–531. Direct speech and observed acts; toy is actual gift, romance not established.
+
+Transition: STRENGTHEN. Confidence: HIGH within scenes. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-CS06 — Small: specialization and controlled access
+
+Professional esteem and Vanir preference matter; her own conditions can redirect Dust’s arrangements. Dream access is an actual resource she can stage.
+
+Source: C02P284–290/641–645; C03P187–211/368; FinalP516–525. Reported bargain plus observed compliance; actual age remains unknown and ロリーサ is invented alias.
+
+Transition: STRENGTHEN. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-CS07 — Leen: practical and relational agency
+
+She arranges bounded membership, manages debt, proposes leaving for concrete reasons and supplies the exact combat finish. Concern about all returning safely and hidden trouble is explicit.
+
+Source: C02P501; C03P51–56; C04P215; FinalP543; EpiP48–60. Reported repayment and actual requests/actions; no final reciprocal love declaration.
+
+Transition: STRENGTHEN. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-CS08 — Chris: refusal and institutional capacity
+
+Her seal and conversation succeed informationally; she rejects a risky method. Dust later exposing her is not her consent to the danger.
+
+Source: C04P107–118/361–363/483–490. Observed institutional interaction; her divine identity is not established as Dust’s knowledge.
+
+Transition: PRESERVE. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-CS09 — Aqua: capacity alongside recognition demand
+
+Resurrection support, water art and entertainment are not negated by an escalating request for accurate public praise. These are distinct domains and outcomes.
+
+Source: C01P142/183/202–224; EpiP38. Call/report plus directly observed artwork/entertainment; no frozen R1 outcome changed.
+
+Transition: PRESERVE. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-CS10 — Taylor: peer audience and unequal appraisal
+
+Taylor gives a favorable domain assessment of Keith/Dust and Leen, then voices complaints with Kazuma outside the party. Capacity appraisal and frustration coexist.
+
+Source: Bonus P48-66. His statement is interested speech, not a new performance trial or proof that every complaint is accurate.
+
+Transition: EXPAND. Confidence: MODERATE.
+
+Root precision: C03P149/P156-176/P420-424 is direct adverse evidence for N01; no outside perpetrator or moral-acknowledgment condition is added. N02’s observed help exceeds the strength of its inferred tenderness mechanism. Final377-379 comments remain unnamed; Small’s366 protest is the identified turn. Final pullers are three recruited former criminal men. Toy purchase precedes the later thanks/guilt/giving. These limits apply across the appended responsibilities. Publication is a separate gate and Dust03 remains closed until it closes.
+
+
+## Expanded TRPG-CORE received observations — 2026-10-18T02:29:30.403076+00:00
+
+Whole supplied edition accepted at its stated component scopes; containing publication pending. [Complete analysis](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_DEEP_READING.md), [current qualifications](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_CURRENT_QUALIFICATIONS.json) and [all initial/current append decisions](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_LEDGER_APPEND_DECISIONS.json) control these three rows. Edited replay, second-person guide, prospective scenario, optional templates, teaching balloons and references retain unequal authority. No frozen-model/score change, independent trial or main-J01/J02 count.
+
+| ID | Subjects and native printed source route | Observation | Causal/model implication | Authority/adverse limit |
+|---|---|---|---|---|
+| TRPGC-CS01 | Replay Otohime; 018–019,023–025,037–044,072–073 | A death-return owner explicitly wants to survive, filters risk and remains frightened while choosing real cover. | Fear does not preclude costly protection; narrow success and social praise change appraisal transiently. | Paid game cheat, co-authored past and edited play account; not Darkness or a universal fear cure. |
+| TRPGC-CS02 | World-guide Darkness; 258; reference262 | Concern for a poorly equipped newcomer coexists with avid interest in his reported beating. | Preserve care and pleasure-oriented attention together rather than replacing either with a single trait. | Guide-fiction occurrence and conditional reference are distinct; no toad quest or actual new beating is performed and pleasure cannot consent for another. |
+| TRPGC-CS03 | Main-character NPC reference; 261–262 | Profiles give early-state ages and conditional helpful roles; Megumin can offer wisdom despite theatrical behavior, Darkness noble knowledge despite poor sword accuracy. | Reference explicitly permits multidimensional competence. | Not a dated encounter, natural speech distribution or license to backproject later main-state resources or these early ages everywhere. |
+
+
+## Expanded TRPG-ADV received observations — 2026-10-18T05:03:55.185963+00:00
+
+Whole supplied edition accepted at its individual actual reading scopes; containing exact publication/full gate pending. [Full reading](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_ADV_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_ADV_LEDGER_APPEND_DECISIONS.json), [qualifications](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_ADV_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_ADV_RECEIVING_AND_PROVENANCE.json) control these additions. Same informed root AI; replay, rules/flavor, reference, optional personas, divider and unperformed scenario remain distinct. No frozen R1/score/blank-field revision or new independent trial.
+
+| ID | Subjects / printed source route | Observation | Implication | Authority and adverse limit |
+|---|---|---|---|---|
+| TRPGA-CS01 | Replay Otohime; 024-025,084-086,095-103 | Fear motivates ranged preparation and repeated borrowing, but he actually covers Chio, Gilbert and the house, survives and explicitly values not dying. | Model resource seeking as risk preparation plus comfort/dependence, with costly protection available despite fear. | Elicited motive report is not privileged mind access; borrowing continues after repair. Coauthored prior truck death and current rolls remain distinct. |
+| TRPGA-CS02 | Replay Chio; 020-021,032,046-047,083-086 | Restored-health enthusiasm supports a proposed poison/cure scheme, actual poisoning, harmful health rhetoric and real resource aid to Oto. | Retain help, coercive health ideology, appetite for proving a build and relationship hurt together. | Healing rhetoric does not neutralize harm; the initial poison/cure plan is not a completed cure. Chio is not a principal-cast alias. |
+| TRPGA-CS03 | Replay21; 024-034,051-052,083-086,090,098,106 | Numbered artificial undead joins under pressure/usefulness, later mediates hurt, claims town belonging and proposes a dragon memorial. | Affiliation can begin instrumentally and acquire valued local ties without erasing coerced entry or prior exclusion. | Same edited PC lineage;95percent claim repeats misinformation. Proposed memorial is not completed; no universal artificial-being psychology. |
+
+
+## Expanded DUST-03 received observations — 2026-10-18T06:18:22.445096+00:00
+
+Whole supplied edition accepted at declared fiction/component scopes; containing exact publication/full gate pending. [Full seventeen-responsibility reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_LEDGER_APPEND_DECISIONS.json), [seven unchanged-question local assessments](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_EXPLORATORY_LOCAL_ASSESSMENTS.json), [qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_RECEIVING_AND_PROVENANCE.json) control these additions. Same continuing informed root, with known later principal exposure; no independent reader, new main validation cohort or acoustic claim. Frozen R1/66current/72historical/four scores/original14blank future fields remain exact. Direct contrary conduct, actual checking, missing full triggers and distinct provider agreements remain visible.
+
+| ID | Subjects / native route | Observation | Implication | Authority and adverse limit |
+|---|---|---|---|---|
+| DUST03-CS01 | Dust; U011:P0763–0813;U013:P0236–0247;U014:P0211–0240;U016:P0001–0044 | Actual companion knockout and rescue obstruction coexist with a libation, stopping a castle attack and giving Iris a bounded outing. | Model selective deployment of competence and care, not a guaranteed serious-danger override. | Same informed root reading of Hirukuma fiction; later benefit does not erase direct contrary conduct, and H classification grants no exemption. |
+| DUST03-CS02 | Yunyun; U011:P0467–0478/0590–0594;U013:P0236–0247;U020:P0039–0050 | She volunteers help but refuses drinking money, identifies her own stolen snack, and rescues the guards against Dust's objection; a separate bonus check comes from Leen. | Social uncertainty and friendship susceptibility do not imply general lack of competence or boundaries. | Do not transfer Leen's bonus advice to Yunyun, or remove Yunyun's plant-persuasion and group-pressure failures. |
+| DUST03-CS03 | Iris, Claire, Rein; U012:P0375–0400;U013:P0131–0247/0506–0524;U014:P0103–0132;U017:P0032–0039 | Iris checks martial cues and later the real envoy; Claire has skill but misses armor dependence; Rein mediates and reveals financial constraints. | Separate field knowledge, status performance, duty, private attachment and follow-up inference. | Reported legend and artifact-presented memory are unequal to direct scenes; no universal noble incompetence or perfect Iris inference. |
+
+
+## Expanded DUST-04 received observations — 2026-10-18T07:29:49.102050+00:00
+
+Whole supplied edition accepted at declared scopes; containing exact publication/full gate pending. [Full seventeen-responsibility reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_LEDGER_APPEND_DECISIONS.json), [seven unchanged-question local assessments](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_EXPLORATORY_LOCAL_ASSESSMENTS.json), [qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_RECEIVING_AND_PROVENANCE.json) control these additions. Same continuing informed root with known later principal exposure; no independent reader, new main validation cohort or acoustic claim. FrozenR1/66current/72historical/four scores/original14blank fields remain exact. Actual protective costs, coercive choices, incomplete conjuncts, correct checking and provider terms remain visible.
+
+| ID | Subjects / native route | Observation | Implication | Authority and adverse limit |
+|---|---|---|---|---|
+| DUST04-CS01 | Dust; U012:P0608–0689/1075–1086;U013:P0405–0441;U014:P0108–0138 | He breaks a no-betting condition, bets Small before consent and diverts entrusted money; he also saves her at serious bodily cost and risks the cherished sword rather than betray Kazuma. | Represent conditional protective capacity and actual agency violations together; no uniform serious-danger override. | The wager is sharply adverse, while exact imminent-bodily-danger/leisure comparability is incomplete. Later benign treatment, victory and release-regardless do not repair the earlier choice or Dust03 contrary rescue obstruction. |
+| DUST04-CS02 | Small/Lolisa; U012:P0216–0227/0617–0710/1005–1018;U013:P0273–0328/0349–0351 | She pursues branch research, rejects a particular recipient, changes course for land access, obtains hotel permission and prison keys, delegates priest proximity and refuses requested address. | Professional networks and preferences supply practical competence alongside fear and context-dependent choice. | Vanir instructions, client inducement, royal custody, deceptive inclusion and freely owned veto are distinct. No unbounded personal assent from professional service or a later happy outcome. |
+| DUST04-CS03 | Taylor, Keith, Leen and Yunyun; U011:P0131–0240/0553–0568;U012:P0088–0098/0380–0448;U014:P0147–0164/0318–0324 | Taylor checks the contract but loses cash, Keith supplies optics but suffers fear/envy, Leen searches and monitors but wagers under false information, and Yunyun refuses the loan and blocks sabotage. | Keep practical domains, information conditions and actual costs separate from broad competence or social-confidence labels. | No romantic fact from Taylor mentoring, no delivered dream for Keith, no unseen later Yunyun role and no claim the party freely chose confinement. |
+
+
+## Dust04 N01 coercive-scope precision — 2026-10-18T08:13:02.489477+00:00
+
+[DUST04-CS-N01-PRECISION01](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_N01_COERCIVE_DANGER_PRECISION.json) supersedes only the earlier bodily-danger narrowing. The unchanged N01 trigger says coercive danger. At U012:P0661–0686 Dust knowingly pledges a particular companion for continued gambling, hears her no and the proposer's consent caution, then presses on; stopping the wager was feasible. Count this as direct contrary coercive-choice evidence. No physical injury, legal enforceability, completed forced handover or pure motive is added as a requirement. Later business agreement and benign reporting do not repair the earlier choice. Actual later rescue, costly protection and Dust03's separate contrary obstruction all remain. Original published assessment/report/uncoded bytes and all frozen scores/questions remain exact; this same-root correction is recorded after limited Dust05 exposure and gives no Dust05 formal outcome. Containing next publication/full gate pending.
+
+
+## Expanded DUST-05 received observations — 2026-10-18T09:04:10.135762+00:00
+
+Whole supplied edition accepted at declared scopes; containing exact publication/full gate pending. [Full17responsibility reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_LEDGER_APPEND_DECISIONS.json), [7unchanged-question assessments](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_EXPLORATORY_LOCAL_ASSESSMENTS.json), [29qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_RECEIVING_AND_PROVENANCE.json) control uptake. Same informed continuing root/known later principal exposure; no independent reviewer or new main score/audio claim. Frozen66/72/fourscores/original14blanks exact. Earlier [Dust04 additive coercive-scope correction](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_N01_COERCIVE_DANGER_PRECISION.json) remains current: coercive danger needs no bodily-injury threshold, and earlier direct contraries remain.
+
+| ID | Subjects / native route | Observation | Implication | Authority and adverse limit |
+|---|---|---|---|---|
+| DUST05-CS01 | Dust / ライン・シェイカー; U010:P0187–0195;U012:P0573–0600/0655/0682–0686 | The old full name and Bridle kingdom knight role are explicit in confused self-identification and past scenes; restored current self-name follows Leen's painful intervention. | Attribute new factual origin to Dust05 while preserving chosen present identity and older UNKNOWN records. | No princess personal name or identity equality with Leen; no claim present rough life is fake, current public disclosure completed, or a pristine independent reveal test. |
+| DUST05-CS02 | フェイトフォー; U011:P0267–0354/0684–0698;U012:P0622–0642/0708–0720 | Child receives paid care, experiences actual lapses/force, leaves a written note, visibly transforms from white dragon, reports involuntary harm and chooses to stay presently. | Model particular partner with capacity, preferences, attention needs and reciprocal dependence rather than interchangeable fragile child or safe resource. | Fictional growth-tier ages are not real-world equivalence; human form was new to Dust, earlier ambiguous accusations remain unsupported/non-graphic, long-term arrangement unplanned. |
+| DUST05-CS03 | Leen, Yun, Small, Taylor and Keith; U011:P0502–0541/0968–1036;U012:P0341–0458/0648–0650 | Leen keeps accounts and follows symptom cover; Yun supplies inquiry and active lore, Small refuses Vanir, men search and offer Yun group transfer. | Competence, social ease, practical care, information and owned boundaries vary by context and supplier. | Leen's earlier violence, Yun's friend-flattery uptake, Small's coercion and teammates' harmful allegiance remain; no global competence or gullibility label. |
+
+
+## Expanded DUST-06 received observations — 2026-10-18T10:04:53.783186+00:00
+
+Whole supplied edition accepted at stated scopes; containing publication/full gate pending. [Full seventeen-responsibility reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_LEDGER_APPEND_DECISIONS.json), [seven unchanged-question assessments](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_EXPLORATORY_LOCAL_ASSESSMENTS.json), [34 qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_RECEIVING_AND_PROVENANCE.json) control uptake. Same informed continuing root/known earlier principal exposure; no independent reviewer or new main score/audio claim. Frozen66/72/four scores/original14blanks exact. Prior Dust04 additive coercive-scope correction remains current: no bodily-injury threshold and no later-success repair of earlier contrary evidence.
+
+| ID | Subjects / native route | Observation | Implication | Authority and adverse limit |
+|---|---|---|---|---|
+| DUST06-WHOLE-CS01 | Dust / past knight; U010P0101–0114/0223–0234;U011P0580–0596/0740–0749/0873–0879/0965–0969 | Past formal role trains roughness, initially appends ぜ awkwardly, repairs 私 to 俺 and later describes 俺 coming naturally; present courtesy is recipient-dependent and freedom partly sincere/partly bravado. | Chosen ordinary self and accessible old role are both real, conditioned by audience/history and protection. | Neither courtesy nor knight capacity proves pristine morality; past restraint, gambling and ignored stop pleas remain. No acoustic experiment or universal irreversible change. |
+| DUST06-WHOLE-CS02 | Princess リオノール and genuine Leen; U010P0046–0114;U012P0427–0597;U013P0505–0514 | Princess now personally named, natural gold hair magically disguised brown; Leen is distinct lookalike. Princess plans and coerces while Leen accepts a role, loses exit then receives renewed option and chooses continuation. | Update exact facts and agency stages prospectively from this edition. | Earlier unnamed/UNKNOWN records remain historical; no twin/identity equality or invented prior color explanation, no later choice retroauthorizes capture. Wedding still future. |
+| DUST06-WHOLE-CS03 | Yun, Small, party and child; U010P0289–0296/0488;U012P0055–0071/0127–0133/0167–0168;U013P0532–0602 | Yun pays/rescues/rejects a proposal; Small owns boundary, reads odor evidence and supplies mental spell; men bear forced intoxication then divert; child positively agrees as partner. | Model context-specific agency, capacities, incentives and actual supplier contribution. | No universal gullibility/obedience, automatic provider access or child-resource ownership; later voluntary acts do not repair earlier force. |
+
+
+## Expanded DUST-07 received observations — 2026-10-18T11:33:04.335402+00:00
+
+Whole supplied edition accepted at stated scopes; containing publication/full gate pending. [Full seventeen-responsibility reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_LEDGER_APPEND_DECISIONS.json), [seven unchanged-question assessments](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_EXPLORATORY_LOCAL_ASSESSMENTS.json), [44 qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_RECEIVING_AND_PROVENANCE.json) control uptake. Same informed continuing root/known earlier principal exposure; no independent reviewer or new main score/audio claim. Frozen66/72/four scores/original14blanks exact. Prior Dust04 additive coercive-scope correction remains current: no bodily-injury threshold and no later-success repair of earlier contrary evidence.
+
+| ID | Subjects / native route | Observation | Implication | Authority and adverse limit |
+|---|---|---|---|---|
+| DUST07-WHOLE-CS01 | Dust ordinary identity and former capacity; U010P0009–0051;U011P0387–0460;U013P0498–0524/0648–0660;U014P0131–0148 | Changed class/sealed spear require actual sword adaptation; first lookalike differentiated, party receives actual past/child disclosure, enemy hears former role and private friends know hidden contribution. | Condition identity on audience, chosen present role, actual skill/equipment and partner privacy rather than real-knight/fake-fool switch. | Former-role statement not current job card/public restoration; private choice does not remove fraud, coercion, nonhelp or actual tactical errors. Original older unknown witness untouched. |
+| DUST07-WHOLE-CS02 | Leen, child and Small as separate actors; U011P0491–0507/0603–0628;U012P0352–0378/0511–0546;U013P0482–0630 | Leen voluntarily rides/regulates/ranged-supports; child has specific positive yeses and learned care; Small owns revenge/exit/task choices alongside no-veto towing. | Keep recipient, stage and contribution distinct from Dust having access to their capacity. | Later positive response does not retroauthorize force; child bond nonsexual, Leen not princess/Vanir, no formal dating contract or general provider obedience. |
+| DUST07-WHOLE-CS03 | Merchant, party, Vanir, Wiz and Luna; U011P0361–0376;U012P0192–0304;U013P0101–0129/0400–0495;U014P0111–0125 | Merchant permits free disposal; Keith sight, Taylor shield and Leen magic matter; Vanir credit/pact/reach, Wiz neutrality/mana and Luna institutional pledge constrain actual support. | Model provider ownership, budgets and context-specific agency rather than free omnipotent resources. | Party coercive training/Keith nonhelp remain; Wiz does collapse, Vanir proposes witness elimination and settles Dust through actual humiliation. |
+
+
+## Expanded DUST-CONT received observations — 2026-10-18T12:45:50.687643+00:00
+
+Whole supplied edition accepted at stated scopes; containing publication/full gate pending. [Full seventeen-responsibility reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_LEDGER_APPEND_DECISIONS.json), [seven unchanged-question assessments](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_EXPLORATORY_LOCAL_ASSESSMENTS.json), [45 qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_RECEIVING_AND_PROVENANCE.json) control uptake. Same informed continuing root with known main/four-holdout and prior numbered Dust exposure; this separately admitted continuation receives no pristine blind-test claim. No independent reviewer or new main score/audio claim. Frozen66/72/four scores/original14blanks exact. Prior Dust04 additive coercive-scope correction remains current: no bodily-injury threshold and no later-success repair of earlier contrary evidence.
+
+| ID | Subjects / native route | Observation | Implication | Authority and adverse limit |
+|---|---|---|---|---|
+| DUSTCONT-WHOLE-CS01 | Dust: chosen present self and unwanted celebrity; U011P0202–0299/0410–0467;U014P0199–0213/0364–0444;U015P0013–0019/0070–0073 | Private king apology/pronoun repair and lingering old attachment coexist with active hood/ring/name concealment, actual unwanted public old-name/child exposure and hero merchandise. | Represent audience, active privacy, ordinary-life value and protected permission separately from raw skill or a true-knight/fake-fool switch. | No current job-card or formal restoration decree; admiration pleasure is real but public exposure/hostage stakes precede embraced heroic role. Frozen historical unknowns unchanged. |
+| DUSTCONT-WHOLE-CS02 | Leen, Rionor, ロリーサ and child; U010P0149/0233–0239;U012P0191–0288/0436–0510;U014P0029–0108/0321–0444;U015 | Small explicitly named here; Leen has own role objections/reasons/boarding, princess chooses welfare visit and final intervention while coercing, child owns current trade and specific yeses. | Track actor identity, actual choice stage, skills and knowledge; later cooperation is evidence without retroauthorizing initial force. | Leen is wedding bride/real Rionor jail visitor; child nonsexual, no settled romance. Proper name not backfilled into older states; magic/staff pressure and forced shock remain. |
+| DUSTCONT-WHOLE-CS03 | Real Doreck and proxy Gaibil; U013P0208–0351;U014P0536–0556;U016 | Real Doreck willingly chose contract, Gaibil supplies proxy/actual patient care, public villain account shifts blame; both survive and private new wish seeks own appeal/growth. | Separate shared goals/real friendship from bride exclusion, coercion and public performance. | No actual brainwashing proof, health cure, new price/refund, guaranteed marriage or office. Reported royal no-human-harm defense does not erase captivity/shock/church damage; Dust absent at final contract. |
+
+
+## Expanded EXP-01 received observations — 2026-10-18T14:03:27.763693+00:00
+
+Whole supplied edition accepted at stated scopes; containing publication/full gate pending. [Full seventeen-responsibility reading](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_LEDGER_APPEND_DECISIONS.json), [7 unchanged-contract local assessments](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_EXPLORATORY_LOCAL_ASSESSMENTS.json), [42 qualifications](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_RECEIVING_AND_PROVENANCE.json) control uptake. Same informed root after main17, four holdout principals, mixed sources and eight complete Dust supplied editions; no pristine blind or native-human claim. Main R1 remains frozen. No independent reviewer or new main score/audio claim. Frozen66/72/four scores/original14blanks exact. Prior Dust04 additive coercive-scope correction remains current: no bodily-injury threshold and no later-success repair of earlier contrary evidence.
+
+| ID | Subjects / native route | Observation | Implication | Authority and adverse limit |
+|---|---|---|---|---|
+| EXP01-WHOLE-CS01 | Megumin: early chosen build and competing self-conceptions; U018P0023–0058;U037P0249–0329;U043P0183–0284/0431–0509 | Before acquisition she is a skilled school pupil with enough points for advanced magic but a different chosen aim. She knows practical objections, experiences identity/contribution conflict and actually commits to helping before a new point check removes the need to change the build. | Store chronological capability, chosen art, accepted burden, particular obligations and current resources as independent variables. | No early inherited final-main control, no actual advanced purchase, no universal art-first or care-first ordering; earlier danger refusal remains. |
+| EXP01-WHOLE-CS02 | Yunyun: independent recognition and costly choice; U023P0296–0309;U037P0257–0274;U043P0211–0245/0288–0345 | She wants a title beyond chief’s daughter, deliberately aligns graduation for company, then actually learns intermediate magic to protect others and the rival’s dream while still opposing Explosion. | Represent independent values, practical ability, particular attachment and her specific willingness at the moment. | Her projected year of recovery is Megumin’s estimate; loneliness is not her sole motive or an unlimited provider switch. |
+| EXP01-WHOLE-CS03 | Komekko and Horst: limited capacities, choices and future potential; IMG026–043;U043P0263–0314 | The child has exceptional puzzle skill and her own appetite/choices; a stronger devil becomes dependent on her and a particular friendship develops through food, play, concern and farewell. | Retain actual puzzle competence and particular relationship; evidence may support a later limited profile, with varied contexts still required before a broad reconstruction. | No completed summoning, future familiar contract or universal power rank. Horst’s lore and Komekko’s beliefs do not become Megumin’s knowledge. |

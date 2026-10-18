@@ -1,0 +1,150 @@
+{
+  "schema": "DUST01_NATURAL_ORDER_EXPLORATORY_HYPOTHESES_V1",
+  "authored_after": "Complete Dust01 principal pass; no Dust02 narrative admission or peer interpretation",
+  "created_utc": "2026-10-17T22:21:42.543853+00:00",
+  "status": "PRIVATE_STAGE_C_QUESTIONS_NOT_MAIN_ONLY_FORECAST_AMENDMENTS",
+  "not_an_out_of_sample_score": true,
+  "main_only_generation_or_frozen_original_fields_changed": false,
+  "hypotheses": [
+    {
+      "id": "DUST01-N01",
+      "character_or_system": "Dust",
+      "trigger_context": "A particular companion faces a credible, understood near-term coercive danger; a valued leisure opportunity competes and some concrete protective action is available.",
+      "predicted_appraisal": "The specific person’s danger should outweigh treating the situation as somebody else’s affair.",
+      "predicted_behavior_or_decision_tendency": "Seek usable information/help or intervene; ordinary joking may continue, but it should not replace the needed protective action.",
+      "relationship_stakes_state_modifiers_and_missingness": "Track urgency, credibility, means and rival risks as appraised before choice. A nonurgent wish to repair friendship is a separate condition, not this trigger.",
+      "qualitative_confidence": "MODERATE",
+      "principal_evidence_basis": [
+        "C02P395–406",
+        "C04P434–435",
+        "FinalP203–215 contrary boundary",
+        "FinalP241–380",
+        "FinalP599/672"
+      ],
+      "what_would_count_as_disconfirmation": "A fully depicted case where he understands the credible danger and feasible means but knowingly chooses the dispensable pleasure without a protective action is contrary. Do not add a later goal-completion or pure-motive exemption.",
+      "future_outcome": "",
+      "adjudication": "",
+      "future_source_access": "CLOSED until exact separate root admission after preceding volume gate"
+    },
+    {
+      "id": "DUST01-N02",
+      "character_or_system": "Dust–Leen",
+      "trigger_context": "A concrete, particular need or desire is expressed or credibly noticed, and Dust holds a usable resource with a meaningful competing personal value.",
+      "predicted_appraisal": "Her actual satisfaction can matter beyond its immediate monetary return.",
+      "predicted_behavior_or_decision_tendency": "Sometimes choose a specific gift/help while concealing or minimizing the tenderness; do not predict indiscriminate generosity.",
+      "relationship_stakes_state_modifiers_and_missingness": "Record subsistence needs, coercive demands and expected reciprocation as competing mechanisms, not automatic exclusions invented after the choice.",
+      "qualitative_confidence": "LOW_MODERATE",
+      "principal_evidence_basis": [
+        "C01P8",
+        "C02P457–465",
+        "C05P363–380/580–583",
+        "EpiP35–44"
+      ],
+      "what_would_count_as_disconfirmation": "Repeated adequately depicted refusals that preserve the resource despite the same recognized need would weaken this particular-care tendency; willingness only when the gain is immediate/status-visible would challenge the concealed-care account. One contrary case remains visible rather than automatically retiring a broad tendency.",
+      "future_outcome": "",
+      "adjudication": "",
+      "future_source_access": "CLOSED until exact separate root admission after preceding volume gate"
+    },
+    {
+      "id": "DUST01-N03",
+      "character_or_system": "Dust",
+      "trigger_context": "His unusual weapon capacity can solve a task, while displaying it would expose the older identity/constraint he is still treating as binding.",
+      "predicted_appraisal": "Privacy/chosen present identity should have value independent of simple pride in winning.",
+      "predicted_behavior_or_decision_tendency": "Favor concealment, a loophole or a different method where feasible; particular serious protection can change the permission appraisal.",
+      "relationship_stakes_state_modifiers_and_missingness": "The precise old promise is UNKNOWN. Record when a comparable secrecy constraint is actually active; do not infer it solely from nonuse or insist the ordinary life is fake.",
+      "qualitative_confidence": "MODERATE",
+      "principal_evidence_basis": [
+        "C01P159–164",
+        "C02P171–175",
+        "FinalP769–794"
+      ],
+      "what_would_count_as_disconfirmation": "A clear full-trigger choice to advertise the capacity simply for admiration, without any independently established change in the active restraint, is contrary. An unavailable alternative is missing opportunity, not proof of incapacity.",
+      "future_outcome": "",
+      "adjudication": "",
+      "future_source_access": "CLOSED until exact separate root admission after preceding volume gate"
+    },
+    {
+      "id": "DUST01-N04",
+      "character_or_system": "Dust",
+      "trigger_context": "A desired reward depends on an explicitly available timing/ownership/provider term beyond completion of the immediate task.",
+      "predicted_appraisal": "Attractive immediate gain may crowd out a full downstream access/accounting check.",
+      "predicted_behavior_or_decision_tendency": "Risk committing before resolving when/who/what additional condition makes the benefit usable. This is exploratory, not a prediction that every contract must fail.",
+      "relationship_stakes_state_modifiers_and_missingness": "Retain actual learning: FinalP74 asks for a defect. Strong current salience of a previous failure is a possible rival cause to record prospectively, not an exemption from adverse evidence.",
+      "qualitative_confidence": "LOW",
+      "principal_evidence_basis": [
+        "C05P76–77/550–568",
+        "FinalP58/74–78",
+        "EpiP52–56"
+      ],
+      "what_would_count_as_disconfirmation": "Proactive, adequate checks and secured terms in comparable full opportunities count against the underchecking mechanism; repeated careful uptake would warrant downgrade. No new score or denominator is specified in Stage C.",
+      "future_outcome": "",
+      "adjudication": "",
+      "future_source_access": "CLOSED until exact separate root admission after preceding volume gate"
+    },
+    {
+      "id": "DUST01-N05",
+      "character_or_system": "small succubus",
+      "trigger_context": "Dust requests costly cooperation or threatens a helper whose actual service/access can be withheld; praise targets her professional self-evaluation.",
+      "predicted_appraisal": "Esteem and custom matter, but control of access and her own exposure create real limits.",
+      "predicted_behavior_or_decision_tendency": "Set/retain at least a condition or veto when leverage is owned; praise can obtain bounded cooperation without erasing agency.",
+      "relationship_stakes_state_modifiers_and_missingness": "Separate manager instruction, client dependence, deception, physical compulsion and actual free agreement. Do not assume professional politeness means consent.",
+      "qualitative_confidence": "MODERATE",
+      "principal_evidence_basis": [
+        "C03P151–175",
+        "C03P339–366",
+        "C05P550–568",
+        "FinalP425–429 contrary compulsion",
+        "FinalP735–741"
+      ],
+      "what_would_count_as_disconfirmation": "Adequate cases in which she freely gives unbounded risky compliance despite a known, usable veto and no independently established rival would challenge the limit account. Actual compulsion is adverse to Dust’s respect, not evidence of her freely chosen compliance.",
+      "future_outcome": "",
+      "adjudication": "",
+      "future_source_access": "CLOSED until exact separate root admission after preceding volume gate"
+    },
+    {
+      "id": "DUST01-N06",
+      "character_or_system": "Dust and providers",
+      "trigger_context": "A numerically or positionally unfavorable encounter threatens a concrete task, and alternative geometry/materials/providers are actually available and can be recruited.",
+      "predicted_appraisal": "Avoiding the unfavorable deployment matters more than proving a class rank in a straight fight.",
+      "predicted_behavior_or_decision_tendency": "Attempt to change information, position, enemy options or provider arrangement rather than rely on raw direct superiority alone.",
+      "relationship_stakes_state_modifiers_and_missingness": "Keep availability and provider agreement explicit. Defect magnitude, unexpected side effects and collateral harm remain possible; no invented modern expertise.",
+      "qualitative_confidence": "MODERATE",
+      "principal_evidence_basis": [
+        "C04P464–495",
+        "FinalP364–403",
+        "FinalP487–566",
+        "FinalP578–655"
+      ],
+      "what_would_count_as_disconfirmation": "A full comparable choice of an obviously inferior frontal display while an understood, feasible rearrangement is available is contrary. A tactic’s partial success does not establish safe total execution/recovery.",
+      "future_outcome": "",
+      "adjudication": "",
+      "future_source_access": "CLOSED until exact separate root admission after preceding volume gate"
+    },
+    {
+      "id": "DUST01-N07",
+      "character_or_system": "Dust’s social inference",
+      "trigger_context": "An ambiguous interpersonal cue admits an explanation aligned with his own appetites or normal assumptions, with contrary information incomplete or inconvenient.",
+      "predicted_appraisal": "The desire-compatible account may feel like a deduction before it has excluded rivals.",
+      "predicted_behavior_or_decision_tendency": "Initially interpret the cue through that account and miss a plausible alternative; preserve cases in which direct correction produces an update.",
+      "relationship_stakes_state_modifiers_and_missingness": "This is a bounded inferential tendency, not global unreliability. Narrator knowledge, reader-only dialogue, and alternate viewpoint must remain separate.",
+      "qualitative_confidence": "LOW_MODERATE",
+      "principal_evidence_basis": [
+        "C01P38–39",
+        "C03P195–203",
+        "C05P243–303",
+        "I01P3–20",
+        "FinalP441–468"
+      ],
+      "what_would_count_as_disconfirmation": "Consistent initial consideration of meaningful rivals or adequate updating before any external exposure in similar cases would weaken the tendency. A guess made without accessible contrary evidence is not automatically a reasoning failure.",
+      "future_outcome": "",
+      "adjudication": "",
+      "future_source_access": "CLOSED until exact separate root admission after preceding volume gate"
+    }
+  ],
+  "open_questions_not_plot_predictions": [
+    "Exact old person resembling Leen and the exact spear restraint",
+    "What Leen actually witnessed that night",
+    "Extent of durable learning rather than a local strategy change",
+    "Actual condition/future behavior of the collapsed then vanished opponent"
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "utc": "2026-10-18T00:00:19.342533+00:00",
+  "status": "POST_RECEIVING_ATTRIBUTABLE_OVERLAY_ORIGINALS_NOT_EDITED",
+  "root_questions_then_actual_native_rechecks": [
+    {
+      "spine": 98,
+      "printed": 96,
+      "full_original_image_actually_returned_and_read": true
+    },
+    {
+      "spine": 102,
+      "printed": 100,
+      "full_original_image_actually_returned_and_read": true
+    }
+  ],
+  "DUST02_bonus_initial_seal_predates_overlay": {
+    "basename": "DUST02_BONUS_INITIAL_COMPLETE_UNCODED_SEAL_v1.json",
+    "bytes": 1303,
+    "sha256": "a6419aed540973148b7da8d273a90ff5f3b9df6a4789f2122435d219965f8cd0"
+  },
+  "originals": [
+    {
+      "basename": "FAN_MEM_ENTIRE_EDITION_UNCODED_SOURCE_FIRST_REPORT_v1.md",
+      "bytes": 36699,
+      "sha256": "0f06b0e6d28b0ec8b6817438ed062bfb1f9271d8a19845a3d67def7365091d88"
+    },
+    {
+      "basename": "FAN_MEM_COMPONENT_INVENTORY_UNCODED_v1.json",
+      "bytes": 177439,
+      "sha256": "2539aa136f51dfe3972803f4bfe10b9a72231134fc9e4efeb738a26268da1545"
+    },
+    {
+      "basename": "ACTUAL_ORDERED_PAGE_READ_ACKNOWLEDGEMENTS.jsonl",
+      "bytes": 128381,
+      "sha256": "d69d61af3ef82806893f6ccbd58f33b726f9691f3eef1887a7de042d682bb8b2"
+    },
+    {
+      "basename": "FAN_MEM_PURPOSIVE_HUMOR_EVIDENCE_ASSIGNMENTS_v2.json",
+      "bytes": 47074,
+      "sha256": "d8218ba6a73f0f1fe8a4a283e07d44334360fd9f95f63b641a62f6d93f41a82d"
+    },
+    {
+      "basename": "FAN_MEM_PURPOSIVE_JAPANESE_VOICE_ASSIGNMENTS_v2.json",
+      "bytes": 33733,
+      "sha256": "7a1dec7b919c6619e9a6601ea3bd0a394d73a15c76e307ce0151fde4b2ae762f"
+    }
+  ],
+  "current_qualifications": [
+    {
+      "id": "FAN-PREC-01",
+      "affected": [
+        "Report§7",
+        "FM-H-14 title/setup/H rationale",
+        "FM-V-11 context/pragmatics/L rationale",
+        "Any S098 ticket summary"
+      ],
+      "original_scope_error": "Ticket described as expiring/date constraints/true institutional deadline without distinguishing label truth.",
+      "current": "Genuine ticket; Kazuma himself writes date and same-day-only label. True service expiry not established. Deceptive perceived cutoff is the mechanism.",
+      "code_scope": "Original H1/L0 may remain for actual labeling/deception, not truth of expiry."
+    },
+    {
+      "id": "FAN-PREC-02",
+      "affected": [
+        "Acknowledgement98 uncoded_source_notes",
+        "Inventory S098 uncoded_observation"
+      ],
+      "original_exact_ambiguous_phrase": "Dustparty/Leen-specific ticketcontest proposed and observed without actualsexualservice demonstration.",
+      "current": "Dust party arrival is observed. Vanir proposes a Leen-facing ticket experiment; no execution/outcome of that proposal is shown.",
+      "no_Dust_or_Leen_performed_choice_inferred": true
+    },
+    {
+      "id": "FAN-PREC-03",
+      "affected": [
+        "FM-H-07 H_class/H_scope_and_rival"
+      ],
+      "initial_H_class": "H1",
+      "current_behavioral_H_applicability": "NOT_APPLICABLE_TO_NEW_PERFORMED_BEHAVIOR",
+      "current": "Editorial reported capacity and limits, with literal world-mechanical claim preserved; no actual new injury test. Neither H3 merely for reference status nor H4 for magic."
+    },
+    {
+      "id": "FAN-PREC-04",
+      "affected": [
+        "FM-V-15 selected_L_class/rival rationale"
+      ],
+      "initial_L_class": "L3",
+      "current_recommendation": "L2",
+      "confidence": "MODERATE",
+      "alternative": "L1 phrase-focused reading",
+      "reason": "Ordinary offer-of-help idiom; no locally exploited literal undressing ambiguity. Literal-translation error alone does not establish Japanese-form-central L3."
+    },
+    {
+      "id": "FAN-PREC-05",
+      "affected": [
+        "FM-V-05 justification"
+      ],
+      "initial_and_current_L_class": "L3 defensible, not compulsory",
+      "current": "Specific self-used proverb undercuts intended praise. Separate lexical/cultural/pragmatic contributions; no all-idioms-L3 rule."
+    }
+  ],
+  "no_original_or_canonical_or_Git_or_model_or_score_or_denominator_mutation": true
+}
