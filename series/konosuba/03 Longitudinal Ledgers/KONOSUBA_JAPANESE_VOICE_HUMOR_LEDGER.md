@@ -1361,3 +1361,76 @@ Source: FAN-MEM, SHA-256 `e08725fc99cebadd52f93d05122de36d4ae39b435d0d993c41b068
 | EC-FAN-JV02 | Kazuma, Medusa and Luna; context functions | S097–099 and S105–107; FM-V09–13/18–19 | Selected L1/L2 written voice; high speaker confidence | Teacher address changes from deference to dependence. Kazuma’s rough instruction differs from self-promotion. Luna’s indefinite postponement functions as withdrawal. | EXPAND role-conditioned voice; no catchphrase, acoustic or independent baseline claim. |
 
 These are two analytical responsibilities, not independent repeated trials. The complete reader read all 121 pages; root sealed an initial 37-page pass, then checked five further pages during coordinated receiving. Shared-lineage limits and all current qualifications apply. Publication remains a separate gate.
+
+
+## Stage C — Dust02 whole supplied edition: japanese voice humor
+
+Source DUST-02; principal p002-p008 plus separately admitted bonus p010 and edition components. The [whole-edition receiving record](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V02_RECEIVING_AND_PROVENANCE.json) preserves full source/reader scopes, both original seven-question proposals, current root dispositions and exact precision history. This appends to the current published ledger; every earlier byte remains an exact prefix. Main-only R1, Gen01-05, original forecasts/blanks and four scorecards stay unchanged. Stage D model revision remains later work.
+
+The producer supplied91 principal append proposals against the exact earlier0ce33a0f baseline. Root received all91; this ledger adopts the relevant scoped observations with current qualifications, then adds one separately identified bonus observation. These are responsibilities and dependent evidence routes, not independent trials.
+
+### DUST02-JV01 — Strategic politeness can attack face
+
+Dust explicitly chooses polite interview syntax to corner Megumin rather than express deference or care.
+
+Source: C02P369–375. Exact short form and literal/pragmatic distinction in V008; no acoustic inference.
+
+Transition: STRENGTHEN. Confidence: HIGH. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-JV02 — Specific rough orders are not merely insults
+
+Retreat procedure, distributed inquiry, conditional rescue bargain and electrical handoff use familiar rough voice for concrete tasks.
+
+Source: C02P760; FinalP101/436/542. Different functions need actual context, not a positive/polite morphology criterion.
+
+Transition: PRESERVE. Confidence: HIGH. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-JV03 — Modesty and comparative worry
+
+Yunyun offers small help; Small’s question makes the actual competence disparity salient.
+
+Source: FinalP166–168. Sparse turn illustrates pragmatic relation, not a complete paired form-effect test.
+
+Transition: STRENGTHEN. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-JV04 — Ownership through conditional service
+
+Small’s conditional manpower offer and later staged dream access preserve limits while obtaining cooperation.
+
+Source: C02P290; FinalP516. Different report/action planes and independent preferences remain; politeness is not unlimited assent.
+
+Transition: STRENGTHEN. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-JV05 — Recipient and knowledge constrain forgiveness
+
+Dust’s alcohol excuse conceals the charm; Yunyun’s forgiving phrase occurs without knowledge of that cause.
+
+Source: C04P176/546. Literal forgiveness is not analyst-certified informed consent.
+
+Transition: PRESERVE. Confidence: HIGH for access distinction. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-JV06 — Partial revelation, not a refused answer
+
+Companion invitation, actual disclosure start and sleeping response make a failed conversation.
+
+Source: EpiP57–65. No content, acoustic performance or deliberate final refusal inferred.
+
+Transition: OPEN. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-JV07 — Purposive register provenance
+
+Thirty-five contextual illustrations preserve speaker/addressee, exact short form, literal gloss, pragmatic function, before/after selected windows and missingness.
+
+Source: Voice V001–V035; humor H001–H061. Post-uncoded-pass presentation selection; no formal J01 score or claims of independent repeated trials.
+
+Transition: PRESERVE. Confidence: HIGH for scope. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-JV08 — Two forms of plain speech and a closing proposal
+
+Taylor uses measured plain speech; Kazuma uses contracted rough plain speech. Leen’s idiomatic accountability challenge exposes selective privacy. The unquoted final line proposes retreat.
+
+Source: Bonus P30-33/P53-56/P65-67. No grammatical formal/plain opposition, necessary Japanese-only L3 mechanism, heard performance or completed departure is asserted.
+
+Transition: QUALIFY. Confidence: HIGH for written forms; MODERATE for broader voice transfer.
+
+Root precision: C03P149/P156-176/P420-424 is direct adverse evidence for N01; no outside perpetrator or moral-acknowledgment condition is added. N02’s observed help exceeds the strength of its inferred tenderness mechanism. Final377-379 comments remain unnamed; Small’s366 protest is the identified turn. Final pullers are three recruited former criminal men. Toy purchase precedes the later thanks/guilt/giving. These limits apply across the appended responsibilities. Publication is a separate gate and Dust03 remains closed until it closes.

@@ -7709,3 +7709,92 @@ Source: FAN-MEM, SHA-256 `e08725fc99cebadd52f93d05122de36d4ae39b435d0d993c41b068
 | EC-FAN-MP02 | Dust/Leen unexecuted test and coding limits | S098 proposal; FM-H07/FM-V15 | Proposal, not result; H not applicable to a new capacity test; L2/L1 after receiving | Party arrival does not certify the proposed ticket test. The 24 original H and 23 original voice records remain preserved with explicit qualifications. | QUALIFY opportunities and warrants; do not add accuracy results or a census denominator. |
 
 These are two analytical responsibilities, not independent repeated trials. The complete reader read all 121 pages; root sealed an initial 37-page pass, then checked five further pages during coordinated receiving. Shared-lineage limits and all current qualifications apply. Publication remains a separate gate.
+
+
+## Stage C — Dust02 whole supplied edition: model prediction validation
+
+Source DUST-02; principal p002-p008 plus separately admitted bonus p010 and edition components. The [whole-edition receiving record](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V02_RECEIVING_AND_PROVENANCE.json) preserves full source/reader scopes, both original seven-question proposals, current root dispositions and exact precision history. This appends to the current published ledger; every earlier byte remains an exact prefix. Main-only R1, Gen01-05, original forecasts/blanks and four scorecards stay unchanged. Stage D model revision remains later work.
+
+The producer supplied91 principal append proposals against the exact earlier0ce33a0f baseline. Root received all91; this ledger adopts the relevant scoped observations with current qualifications, then adds one separately identified bonus observation. These are responsibilities and dependent evidence routes, not independent trials.
+
+The unchanged14 original future_outcome/adjudication values remain blank. The producer and second reader proposals are preserved in the separate assessment record; only the following separately attributable current root conclusions govern this append. No aggregate score or new generation is created.
+
+### DUST01-N01-DUST02-ROOT — PARTIAL_MIXED_SUPPORT_AND_DIRECT_CONTRARY
+
+Support: Final217-250: Dust actually transports particular impaired companions despite explicit attractive sleep/dream offers and his anticipated fatal consequence; urgency, available action and pleasure tradeoff are shown. The externally imposed drain is a broad coercive constraint; direct-agent-only eligibility is uncertain.
+
+Contrary evidence: C03P149 gives Yunyun’s explicit refusal before P156-176 gives Dust knowledge of induced attraction and his deliberate plan; P420-424 depicts execution for gratification. He can refrain from using the device and chooses the dispensable reward instead. Causing understood coercion is not an unstated exemption from protective conduct. No further moral acknowledgment or external perpetrator is required by the original question.
+
+Scope/rivals: These are mixed within-volume directions, not one clean passed trial. The pleasure-caused coercion is direct adverse evidence, not merely a general morality footnote. Chris scapegoating (C04P483-490) remains adverse but immediate escape is not an established leisure alternative. The Final hostage bluff changes a numerically bad encounter (P355-381), rather than depicting leisure replacing action. Do not pool these unlike triggers or erase any harm.
+
+Current transition: Retain bounded emergency carrying and reject an exceptionless protective hierarchy. This local mixed disposition does not fill the original fields or repair R1.
+
+### DUST01-N02-DUST02-ROOT — PARTIAL_CONJUNCTION_AND_ATTRIBUTION_LIMIT
+
+Support: Final223-250 gives actual Leen-directed help, a usable bodily resource, effort, tempting rest and refusal to leave residual danger. C01P166-169 and EpiP56-67 add relational care with less explicit competing resource value.
+
+Contrary evidence: No repeated fully matched withholding pattern is established. Yunyun’s toy is cross-target evidence and cannot confirm a Leen-specific claim.
+
+Scope/rivals: The gentle smile/support at P224-225 is overt; the complaints at P230-231 can minimize tenderness but also express actual labor resentment. They do not unambiguously identify concealed tenderness as the mechanism. Self-preservation and need for fighting partners (P236-237/P245) remain live contributors. No unique, pure or exclusively Leen motive is made a new requirement. The full concealment/minimization-and-care conjunction has less support than the help act itself, so the current whole-question conclusion is partial.
+
+Current transition: Strengthen observed particular practical care at moderate generalization confidence; keep the tenderness mechanism open. Preserve both readers’ supportive original labels as authored history.
+
+### DUST01-N03-DUST02-ROOT — PARTIAL
+
+Support: C02P635 contrasts spear advantage with sword stalling; Final532-541 supplies actual trained spear action. EpiP50-61 gives concealment and willingness to disclose.
+
+Contrary evidence: Public skill display and actual willingness to speak defeat absolute secrecy, but do not show admiration-only advertising under an independently unchanged binding restraint.
+
+Scope/rivals: A weapon’s usefulness, its physical availability and a binding older rule are different facts. Do not infer an active oath from nonuse, a full identity from hearsay, or a proven permission change from successful protection.
+
+Current transition: Preserve domain-specific capacity; leave exact identity, old restraint and permission appraisal open.
+
+### DUST01-N04-DUST02-ROOT — PARTIAL_WITH_GENUINE_CHECKING_COUNTEREVIDENCE
+
+Support: C03P159-160 cuts off further instructions after an attractive promised effect. The attention mechanism is plausible but exact unheard earlier content is not established.
+
+Contrary evidence: Ownership inquiry/assurance (P157-158), retained familiarity restriction (P172-176), proactive ticket inquiry (P18-23), and successful physical/document checks (P572-594) are real attentive evidence. They cannot be exempted because earlier fraud made caution salient.
+
+Scope/rivals: Do not backdate the later reader-only duration account P477-478 into delivered pre-choice terms. Concealed client numbers and fraudulent album contents are not known terms ignored. Recruitment goal substitution and memory retrieval failure are neighboring mechanisms, not automatically full matches to timing/ownership/provider clauses.
+
+Current transition: Retain a low-confidence reward-sensitive inquiry risk and downgrade any global contract-blindness account.
+
+### DUST01-N05-DUST02-ROOT — PARTIAL
+
+Support: C02P284-290 gives Leen’s initial request and a limited emergency role proposed by Dust and accepted by Small. C03P187-214 and the seating choice preserve her Vanir preference; Final516 supplies actual owned dream-access leverage.
+
+Contrary evidence: Impaired hostage use at Final365-376 is actual instrumentalization without free agreement, not a voluntary unlimited service response. Dangerous fraud participation leaves exact freely usable veto knowledge uncertain.
+
+Scope/rivals: Professional praise plus costly Dust request is not cleanly isolated: C03P194 recognition is internal, P193 claims credit, and Vanir attendance explains acceptance. Final366 is Small’s sleepy no-touch protest, whereas P377-379 are unnamed women’s comments grouped at P380; P378 is not uniquely hers.
+
+Current transition: Preserve bounded agency and access ownership, with missing praise conjunction explicit. Do not turn lack of power while impaired into freely waived agency.
+
+### DUST01-N06-DUST02-ROOT — BOUNDED_SUPPORT_C
+
+Support: Final355-381 explicitly notices numerical disadvantage before a changed-room hostage bluff; P436-455 recruits actual evacuation carriers; P510-546 depicts role recruitment, ropes, shields, leg cuts, spear and Lightning. Geometry/materials/providers are alternatives, not a mandatory all-three conjunction.
+
+Contrary evidence: C01P43-55 abandons a working rope role, disregards warning and ends in actual death. His bound-monster appraisal limits a clean acknowledged-inferiority match, while leaving serious overconfidence and underchecking visible.
+
+Scope/rivals: The hostage target did not agree. Numerical tactical rearrangement does not require an ethical-approval threat and does not establish innocence. The later three pullers are recruited former criminals, not the earlier bounty client. Effective spear penetration alone does not stop the machine; the blast injury remains.
+
+Current transition: Strengthen conditional practical rearrangement with phase/provider limits, no solo-victory, modern engineering or safe-total-recovery claim.
+
+### DUST01-N07-DUST02-ROOT — BOUNDED_SUPPORT_C
+
+Support: The seating scheme is desired-alliance inference despite Small’s already stated Vanir preference (C03P187-214/P350-378). Her independent choice exposes the missing rival.
+
+Contrary evidence: Actual document investigation (C03P572-594), causal rival testing (Final97-100/P185-190), visible-eye revision (P499-500) and recognition of Yunyun’s rivalry purpose before her confirmation (C04P540-541) show real consideration/updating.
+
+Scope/rivals: Unavailable reader-only knowledge is not refusal of a known warning, and an unverified guess is not automatically a proven falsehood. Vanir’s intervention and Small’s aims contribute to the seating result.
+
+Current transition: Retain a bounded desire-sensitive initial-attribution tendency at moderate generalization confidence and domain-specific competence.
+
+### DUST02-MPV08 — Bonus observations remain expanded evidence
+
+The bonus adds source-located ordinary-life and interaction evidence after the original principal seals. It neither fills original14 blanks nor changes frozen models, generations, holdout outcomes or principal selection denominators.
+
+Source: Bonus P1-67; all principal receiving. All seven current root dispositions are separate qualitative retrospective conclusions; the bonus supplies no new emergency test or aggregate accuracy result.
+
+Transition: PRESERVE. Confidence: HIGH for provenance.
+
+Root precision: C03P149/P156-176/P420-424 is direct adverse evidence for N01; no outside perpetrator or moral-acknowledgment condition is added. N02’s observed help exceeds the strength of its inferred tenderness mechanism. Final377-379 comments remain unnamed; Small’s366 protest is the identified turn. Final pullers are three recruited former criminal men. Toy purchase precedes the later thanks/guilt/giving. These limits apply across the appended responsibilities. Publication is a separate gate and Dust03 remains closed until it closes.

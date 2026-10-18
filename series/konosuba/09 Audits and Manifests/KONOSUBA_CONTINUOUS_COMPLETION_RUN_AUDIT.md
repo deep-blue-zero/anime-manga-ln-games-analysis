@@ -4,7 +4,7 @@ artifact_type: execution_and_source_reconciliation_audit
 scope: V11-V17 continuation and the fixed 41-object expanded-source program
 generation: V1
 status: active_provisional
-source_boundary: Owner-resumed fixed41 full program; published main/checkpoints/specialists/frozen R1/four-book validation/Dust01/three mixed programs preserved; exact pause state recovered, recovery publication pending before Dust02 and Core receiving
+source_boundary: Local fixed41 program active; recoveryee740bf0 gate closed; Dust02 whole edition accepted, containing publication required; Core separately admitted/unaccepted; frozen authority exact
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -21,8 +21,8 @@ The owner's 2026-10-16 request executes `KONOSUBA_CONTINUATION_AND_FULL_CORPUS_C
 | Execution mode | `continuous_sequential` |
 | Main-series authorized range | V11–V17 |
 | Accepted high-water mark | V17 principal and final Gen05 checkpoint; CP06/evidence freeze published and fully audited at a1539842 |
-| Current phase | Owner-resumed Stage C; Dust01 whole edition and three mixed programs published; Dust02/Core author packets preserved but unaccepted |
-| Next canonical operation | RECOVERY_PUBLICATION_GATE; then Dust02/Core receiving and all remaining fixed41 responsibilities |
+| Current phase | Owner-resumed Stage C; Dust02 whole edition accepted, containing publication pending; Dust01/three mixed programs published; Core separately admitted/unaccepted |
+| Next canonical operation | DUST02_PUBLICATION_GATE_REQUIRED; Dust03 CLOSED until gate/reload/separate admission; Core separately admitted; full fixed41 program continues |
 | Current prospective model | Gen05 frozen through V15, original 25 blank pairs exact; formal V16–V17 8C/6P/1F/3AMB/7NT separate from accepted locals; no Gen06 |
 | Initial published continuing-branch head at reconnaissance | `0238f356ee2ade28e39aa3a940ea0e091f8211f4` |
 | Initial main at reconciliation | `53de8ba455938174a3f14f887cd33739261a4e5f` |
@@ -786,3 +786,16 @@ The live-state rows above are reconciled to already verified publications; dated
 ## Pre-push main drift preserved — 2026-10-18T01:06:15.630366+00:00
 
 The immediate pre-push check stopped the first recovery candidate `4a435bdeed9ffcfaab4ebfb12a142c75f572b2f6` before any push: main had advanced from536328c3 to`1065d51ce5d4bec523e144fc2aec36f25abee8a1` through accepted Shuukura curation PR222. The first candidate and its passing8,305-path preflight remain preserved as earlier state, not certification of the successor. A clean ordinary merge imports exactly the two accepted curation paths, `CHARACTER_ANALYSIS_INDEX.md` and `characters/registry.jsonl`, byte-equal to that main. No global file was manually authored and no KonoSuba analytical content or source boundary changed through the import. This successor requires fresh exact-candidate author preflight, head/protection checks, normal publication/readback and its complete audit cycle. Recovery publication remains the next operation; Dust02/Core receiving and successor admissions remain gated.
+
+## Recovery full gate closed; actual receiving resumed — 2026-10-18T01:23:55.834872+00:00
+
+Recovery sourceee740bf0 completed its own exact readback, source audit, NO_OP housekeeping and final actual-source audit at2026-10-18T01:21:22.385449+00:00; see the [closed gate](KONOSUBA_LOCAL_RECOVERY_PUBLICATION_GATE_CLOSE.json). Both audits executed all352 tests without failure/error/skip/expected-failure/unexpected-success. Final status success01:20:17Z targets run39085785856 for actualee740bf0, despite default-main1065 metadata. Earlier recovery-pending and owner-pause paragraphs retain their authorship-time meanings and no longer block this authorized continuation. This is source-branch closure, with protected-main integration and final release separate.
+
+Fresh published-authority reload at2026-10-18T01:22:30.533248+00:00 checked every one of270 project streams, all66 current frozen suite products/all72 historical pins, four accepted scorecards and exact seven Dust questions. Existing admissions were revalidated against local native bytes: Dust02 all3,052 principal P/all139 excluded P/all23 images and Core333 wrapper-image joins. New local projections are separately identified derivatives; neither mechanical processing nor this reload counts as new semantic reading or image viewing. The local receiver now proceeds from the preserved Dust02/Core substantive receiving boundary and records its actual fresh scope separately. No original question blank, model, forecast, score, code or initial annotation is rewritten; no new source or successor admission is granted by this progress update. The complete remaining program remains authorized and unfinished.
+
+
+## Dust02 whole supplied edition root acceptance — 2026-10-18T01:39:32.953430+00:00
+
+Complete local receiving closes the preserved Dust02 analytical handoff with attributable corrections and seven separate current dispositions. The17-section argument and source receipts preserve original authoring/exposure histories. Two complete principal readers have different informed-source limits; root’s historical328 unique principal P/all139 excluded P/23images and new bounded local checks remain separately recorded. Bonus fiction, afterword, three signed creator comments, edition/marketing/navigation matter and23images retain unequal authority. Art and the prologue preview do not create repeated independent events.
+
+All ten current ledger files keep exact prior bytes and receive coherent expanded additions. The locator index adds all seven principal native joins and separate bonus/component routes. Only two DUST02 expanded Stage C overlays enter the matrix; original metadata, other40 object/register rows, fixed41 seal, frozen forecasts/models,14 original blanks and four scorecards stay exact. The closed recoverygateee740bf0 receipt accompanies this transaction. Dust03 stays CLOSED until this unit’s full publication gate/reload and separate admission. Core remains its own admitted receiving task. The remaining fixed41 program stays active.

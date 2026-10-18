@@ -448,3 +448,22 @@ Selected Japanese forms retain named speaker/addressee/context in each report/re
 The [complete register](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_REGISTER.json) binds all 121 native page assets/21coherent groups to wrapper/image hashes; it does not turn121pages into121events. Native SHA256`e08725fc99cebadd52f93d05122de36d4ae39b435d0d993c41b068b127ebb32d`, electronic2020-04-01ver.001. Stablefiction IDs: FAN-MEM-FIC-01 bodyS096–099/item/xhtml/p-094.xhtml–p-097.xhtml; FAN-MEM-COMIC-01 S100–107/p-098.xhtml–p-105.xhtml; FAN-MEM-REPRINT-01 S110–111/p-108.xhtml–p-109.xhtml. Exactprintedpage/spine/nativeimage joins inregister are reproducible without inventedPparagraphs. RTLprose tiers andcomicpanelorder remainmaterial.
 
 CreatorinterviewS090–094/p-088.xhtml–p-092.xhtml isreal-worldtestimony; referenceprofiles/quotedart/scriptedcolumns/hypotheticalbath/promoguide are separatelytagged. BibliographyS108–109/S112–113 is title/covermetadata, notbody reading. S114/S120actualcolophons; sourcecroppedjacketedges notinvented. Rootactual42 uniquepages, full reader121, all threefictionbodiesfullyreadbyboth; nosecondwhole editionpass. [Receivingprecision](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_RECEIVING_PRECISION_OVERLAY.md) qualifies fabricatedexpiry, unexecutedDusttest andH/Lwarrants. Originalfrozenmain evidence and fourholdout score routes remainunchanged.
+
+
+## Stage C DUST-02 supplied-edition routes — 2026-10-18T01:39:32.953430+00:00
+
+Native EPUB SHA256`4dfbfdde2052cf435d1d843d8127c3fa4139c046b3abddd34ab63bfd3dda531f`,18886514bytes. Bounds are one-based native body-p positions including blanks/images; base excludes rt/rp and retains tails. [Principal analysis](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V02_DEEP_READING.md), [component register](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V02_COMPONENT_REGISTER.json), [receiving](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V02_RECEIVING_AND_PROVENANCE.json).
+
+| Unit | Native member | Complete P bounds | Member SHA256 |
+|---|---|---|---|
+| Pro | `item/xhtml/p-002.xhtml` | 1-16 | `a98615c33220a7fc8d6137ae507462a54a7b0e27dec36185f408a0514705cf8a` |
+| C01 | `item/xhtml/p-003.xhtml` | 1-232 | `08de81dc831ebeb14c9ba61b6ce29f5eee0f4847fb5c231cb1ae7da3d94989f4` |
+| C02 | `item/xhtml/p-004.xhtml` | 1-847 | `0019755dfdc969bc87d6a37c06e1de41e5489efb9f4aa21dc9cbe75856389acc` |
+| C03 | `item/xhtml/p-005.xhtml` | 1-784 | `3ab022f0f5cfb9e26817aabbce17843920d93398f619a6095115d593287de4ce` |
+| C04 | `item/xhtml/p-006.xhtml` | 1-550 | `03ba3c619b0841e887d3d17d285391661633457189007737fc37a3c9ce710fac` |
+| Final | `item/xhtml/p-007.xhtml` | 1-555 | `389566bf26a458387cf1ed061d5281a71848946948a2a55f69f258f9fcb5eca2` |
+| Epi | `item/xhtml/p-008.xhtml` | 1-68 | `76cf0ab4cc98c9394868a130ff5ae11ecfce1fefe95fe3cd378b03277af733c2` |
+
+DUST-02-BONUS-01 (admissionS18), 仲間の秘密, p010P1-67/2031base/0ruby, is separately admitted complete fiction. Afterword p009P1-21 includes three signed creator comments in the raster image at21. All16 excluded containers/139P/17nav and23images have exact native identities/dispositions in the register; repeated art/prologue is not repeated independent evidence.
+
+Current routes: C03P149/P156-176/P420-424 (refusal, coercive plan, act); Final217-250 (transport, alternatives); Final355-381 (numerical tactical threat, unnamed377-379); C04P483-490 (Chris diversion), P528-550 (purchase/giving); Final331-352/P436-455/P510-546 (recruited former criminal pullers, shared victory); bonusP23-24/P53-56/P67 (withheld knowledge, plain registers, proposed retreat). Original seven questions/fourteen blanks and main/holdout routes stay exact; selections are not a census or new score.

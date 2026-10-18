@@ -800,3 +800,110 @@ Source: FAN-MEM, SHA-256 `e08725fc99cebadd52f93d05122de36d4ae39b435d0d993c41b068
 | EC-FAN-KN02 | Kazuma; interested business critic | S110–111, commission offer, dashi and protection-racket comparison | H1 speech with L1/L2/L3 narrator stance | He first offers marketing for a share, then supplies a hostile metaphor and ironic distance. Irony does not disprove Aqua’s divinity or establish physical water properties. | EXPAND framing incentives; do not infer biological contents or sex work. |
 
 These are two analytical responsibilities, not independent repeated trials. The complete reader read all 121 pages; root sealed an initial 37-page pass, then checked five further pages during coordinated receiving. Shared-lineage limits and all current qualifications apply. Publication remains a separate gate.
+
+
+## Stage C — Dust02 whole supplied edition: kazuma narrator
+
+Source DUST-02; principal p002-p008 plus separately admitted bonus p010 and edition components. The [whole-edition receiving record](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V02_RECEIVING_AND_PROVENANCE.json) preserves full source/reader scopes, both original seven-question proposals, current root dispositions and exact precision history. This appends to the current published ledger; every earlier byte remains an exact prefix. Main-only R1, Gen01-05, original forecasts/blanks and four scorecards stay unchanged. Stage D model revision remains later work.
+
+The producer supplied91 principal append proposals against the exact earlier0ce33a0f baseline. Root received all91; this ledger adopts the relevant scoped observations with current qualifications, then adds one separately identified bonus observation. These are responsibilities and dependent evidence routes, not independent trials.
+
+Dust is this source’s first-person narrator. The maintained ledger’s filename does not turn Kazuma into its narrator or create a second rolling narrator ledger.
+
+### DUST02-N01 — Expanded first-person responsibility: Dust
+
+The maintained narrator responsibility can append Dust evidence without pretending Kazuma narrates this novel.
+
+Source: Whole DUST-02 principal. This is a scoped expanded-corpus subsection, not an additional rolling narrator ledger.
+
+Transition: PRESERVE. Confidence: HIGH. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-N02 — Own misconduct is sometimes plainly recorded
+
+His narration directly preserves coercive intent, scapegoating and edited diary evidence.
+
+Source: C03P176/420; C04P483–486; EpiP8. Not globally self-exonerating; admission can coexist with minimizing rhetoric.
+
+Transition: REVISE. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-N03 — Reader-only information is not choice information
+
+A private aside supplies the women’s different delayed duration, explicitly unheard by Dust.
+
+Source: C03P477–478/529. Do not call his later inference a refusal of a warning he actually received.
+
+Transition: PRESERVE. Confidence: HIGH. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-N04 — Reports and witnesses around death
+
+Aqua’s call is direct inter-world speech; melted-body repair is later reported by companions while Dust lacked ordinary visual access.
+
+Source: C01P142/178–186. Neither denies actual revival nor invents a full witnessed repair procedure.
+
+Transition: PRESERVE. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-N05 — Offstage dragon resolution
+
+Sword extraction and intended later dragon departure are Dust’s report; reward bag is observed and past prodigy story is Yunyun’s hearsay.
+
+Source: C02P793/811–824. No actual killing, exact identity or completed dragon departure asserted.
+
+Transition: OPEN. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-N06 — Quoted diary as evidence
+
+A first-person inventor’s recorded plans/tests explain exemptions when compared with observation; missing manual and blank future pages limit certainty.
+
+Source: FinalP276–290/310–317. No omniscient documentary guarantee or proof the inventor’s full intentions were realized.
+
+Transition: PRESERVE. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-N07 — Concealment becomes a completed act
+
+An earlier suppression intention is followed by a retrospective statement that incriminating diary parts were torn before the award.
+
+Source: FinalP317; EpiP8. Completed alteration is distinct from the earlier plan; no clean investigation inferred from a bounty.
+
+Transition: STRENGTHEN. Confidence: HIGH. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-N08 — Actual successful inference has corroboration
+
+Yunyun confirms Dust’s interpretation of the gift’s rivalry use, unlike the unconfirmed jealousy inferenceC02P618.
+
+Source: C04P540–541. Do not equalize supported and unsupported mind readings.
+
+Transition: PRESERVE. Confidence: HIGH. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-N09 — A causal explanation is revised
+
+Recovery first suggests destruction; visible orb-like eye opens an activation explanation.
+
+Source: FinalP465–500. Narrator revision, not proof of total epistemic failure or all device properties.
+
+Transition: STRENGTHEN. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-N10 — Concealed cause limits another person’s assent
+
+Yunyun’s forgiveness does not include knowledge of the intentional charm.
+
+Source: C04P172–180/546. Public analysis must preserve recipient access even where the first-person narrator benefits.
+
+Transition: STRENGTHEN. Confidence: HIGH. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-N11 — Ordinary ending includes a projected benefit
+
+He actually carries Leen back; a better dream among familiar friends is his valued expectation.
+
+Source: EpiP66–67. Dream contents and results are not shown.
+
+Transition: PRESERVE. Confidence: HIGH. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-N12 — Dust narrates an overheard and partly summarized meeting
+
+Initial voice recognition is hedged, later corroborated by content. Taylor/Kazuma statements, Dust’s appraisal, and Leen’s motive inference occupy separate planes; the complete complaint list is not printed.
+
+Source: Bonus P50-67. Do not invent grievances or convert absent main-party characters into newly observed actions. Kazuma is quoted inside Dust’s narration, not this story’s narrator.
+
+Transition: PRESERVE. Confidence: HIGH for planes.
+
+Root precision: C03P149/P156-176/P420-424 is direct adverse evidence for N01; no outside perpetrator or moral-acknowledgment condition is added. N02’s observed help exceeds the strength of its inferred tenderness mechanism. Final377-379 comments remain unnamed; Small’s366 protest is the identified turn. Final pullers are three recruited former criminal men. Toy purchase precedes the later thanks/guilt/giving. These limits apply across the appended responsibilities. Publication is a separate gate and Dust03 remains closed until it closes.

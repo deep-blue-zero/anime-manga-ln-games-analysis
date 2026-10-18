@@ -1097,3 +1097,92 @@ Source: FAN-MEM, SHA-256 `e08725fc99cebadd52f93d05122de36d4ae39b435d0d993c41b068
 | EC-FAN-CS02 | Aqua; status and commercial adaptation | S110–111, complete water-business reprint | H1/H2 speech and attempts; high sequence confidence | A free, nonunique water supply undercuts her proposed price. Disputed goddess recognition becomes a tribute demand; payment and sale remain unshown. | EXPAND status, resources and reappraisal; do not infer fixed business incapacity. |
 
 These are two analytical responsibilities, not independent repeated trials. The complete reader read all 121 pages; root sealed an initial 37-page pass, then checked five further pages during coordinated receiving. Shared-lineage limits and all current qualifications apply. Publication remains a separate gate.
+
+
+## Stage C — Dust02 whole supplied edition: character state
+
+Source DUST-02; principal p002-p008 plus separately admitted bonus p010 and edition components. The [whole-edition receiving record](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V02_RECEIVING_AND_PROVENANCE.json) preserves full source/reader scopes, both original seven-question proposals, current root dispositions and exact precision history. This appends to the current published ledger; every earlier byte remains an exact prefix. Main-only R1, Gen01-05, original forecasts/blanks and four scorecards stay unchanged. Stage D model revision remains later work.
+
+The producer supplied91 principal append proposals against the exact earlier0ce33a0f baseline. Root received all91; this ledger adopts the relevant scoped observations with current qualifications, then adds one separately identified bonus observation. These are responsibilities and dependent evidence routes, not independent trials.
+
+### DUST02-CS01 — Dust: chosen embodied life
+
+A painless existence without appetite is unattractive, while familiar noisy company has positive value even after he seeks a quiet interval. The present life is not proved a fake mask simply because a prior identity exists.
+
+Source: C01P130–140; EpiP40–67. Direct appraisal and actual carrying; the good-dream outcome67 is his prediction, not observed.
+
+Transition: STRENGTHEN. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-CS02 — Dust: attachments without innocence
+
+Costly carrying, specific gift and inhibited complaint coexist with using Chris as a diversion and Small as a feigned hostage. Keep care and agency violations in one model.
+
+Source: C01P166–169; C04P483–549; FinalP223–250/365–381. Observed behavior and explicit private goals; later help does not erase earlier endangerment.
+
+Transition: REVISE. Confidence: HIGH for depicted acts; MODERATE for generalization. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-CS03 — Dust: tactical learning is local
+
+The final spear approach explicitly recalls Hydra overconfidence537 and uses restraints and a handoff. Immediate later voyeurism shows no global impulse reform.
+
+Source: C01P43–55; FinalP532–546. Direct narrated comparison plus actual sequence; blast injury remains.
+
+Transition: STRENGTHEN. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-CS04 — Dust: control of disclosure
+
+Older identity remains undescribed. Official/royal associations prompt evasion, but Leen moves him toward actual disclosure before sleep interrupts it.
+
+Source: C01P119–123; C02P253–257/788; EpiP50–63. Private response and direct conversation, not a new biography or exact oath.
+
+Transition: OPEN. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-CS05 — Yunyun: inclusion and independent judgment
+
+She wants company and rivalry credit, can decline a sexual premise, refuses fraudulent profits and supplies decisive magic. Social hesitancy does not erase capacity or agency.
+
+Source: C02P498–506/573–590; C04P536–549; FinalP17/530–531. Direct speech and observed acts; toy is actual gift, romance not established.
+
+Transition: STRENGTHEN. Confidence: HIGH within scenes. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-CS06 — Small: specialization and controlled access
+
+Professional esteem and Vanir preference matter; her own conditions can redirect Dust’s arrangements. Dream access is an actual resource she can stage.
+
+Source: C02P284–290/641–645; C03P187–211/368; FinalP516–525. Reported bargain plus observed compliance; actual age remains unknown and ロリーサ is invented alias.
+
+Transition: STRENGTHEN. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-CS07 — Leen: practical and relational agency
+
+She arranges bounded membership, manages debt, proposes leaving for concrete reasons and supplies the exact combat finish. Concern about all returning safely and hidden trouble is explicit.
+
+Source: C02P501; C03P51–56; C04P215; FinalP543; EpiP48–60. Reported repayment and actual requests/actions; no final reciprocal love declaration.
+
+Transition: STRENGTHEN. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-CS08 — Chris: refusal and institutional capacity
+
+Her seal and conversation succeed informationally; she rejects a risky method. Dust later exposing her is not her consent to the danger.
+
+Source: C04P107–118/361–363/483–490. Observed institutional interaction; her divine identity is not established as Dust’s knowledge.
+
+Transition: PRESERVE. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-CS09 — Aqua: capacity alongside recognition demand
+
+Resurrection support, water art and entertainment are not negated by an escalating request for accurate public praise. These are distinct domains and outcomes.
+
+Source: C01P142/183/202–224; EpiP38. Call/report plus directly observed artwork/entertainment; no frozen R1 outcome changed.
+
+Transition: PRESERVE. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-CS10 — Taylor: peer audience and unequal appraisal
+
+Taylor gives a favorable domain assessment of Keith/Dust and Leen, then voices complaints with Kazuma outside the party. Capacity appraisal and frustration coexist.
+
+Source: Bonus P48-66. His statement is interested speech, not a new performance trial or proof that every complaint is accurate.
+
+Transition: EXPAND. Confidence: MODERATE.
+
+Root precision: C03P149/P156-176/P420-424 is direct adverse evidence for N01; no outside perpetrator or moral-acknowledgment condition is added. N02’s observed help exceeds the strength of its inferred tenderness mechanism. Final377-379 comments remain unnamed; Small’s366 protest is the identified turn. Final pullers are three recruited former criminal men. Toy purchase precedes the later thanks/guilt/giving. These limits apply across the appended responsibilities. Publication is a separate gate and Dust03 remains closed until it closes.

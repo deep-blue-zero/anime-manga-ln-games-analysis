@@ -1403,3 +1403,68 @@ Source: FAN-MEM, SHA-256 `e08725fc99cebadd52f93d05122de36d4ae39b435d0d993c41b068
 | EC-FAN-HM02 | Comic framing and the reprint’s lexical effect | S100–107 and S110–111; FM-H18–24 | Mixed H1/H2/H4; 24 purposive records, moderate generalization | Fame performance escalates into a failed interview. Literal water trade enables an explicit 水商売 double meaning. | EXPAND selected mechanisms only; no census, J02 or portability percentage. H3 is not source uncertainty. |
 
 These are two analytical responsibilities, not independent repeated trials. The complete reader read all 121 pages; root sealed an initial 37-page pass, then checked five further pages during coordinated receiving. Shared-lineage limits and all current qualifications apply. Publication remains a separate gate.
+
+
+## Stage C — Dust02 whole supplied edition: humor mechanics
+
+Source DUST-02; principal p002-p008 plus separately admitted bonus p010 and edition components. The [whole-edition receiving record](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V02_RECEIVING_AND_PROVENANCE.json) preserves full source/reader scopes, both original seven-question proposals, current root dispositions and exact precision history. This appends to the current published ledger; every earlier byte remains an exact prefix. Main-only R1, Gen01-05, original forecasts/blanks and four scorecards stay unchanged. Stage D model revision remains later work.
+
+The producer supplied91 principal append proposals against the exact earlier0ce33a0f baseline. Root received all91; this ledger adopts the relevant scoped observations with current qualifications, then adds one separately identified bonus observation. These are responsibilities and dependent evidence routes, not independent trials.
+
+### DUST02-HM01 — Work allocation answers entitlement
+
+A desired reward or reputation is tested by the next actual unit of work: larger loot requires fighting; one blast leaves more goblins.
+
+Source: C02P46–48; C02P369–375. Portable premise can acquire L2 facework in the mock interview.
+
+Transition: STRENGTHEN. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-HM02 — Comic defeat does not delete capacity
+
+Real resurrection/art and real spear coordination remain after social exhaustion or physical deflation.
+
+Source: C01P202–224; FinalP532–555. H1 capacity/acts and H2 intensity must not be merged with H4 nonliteral license.
+
+Transition: PRESERVE. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-HM03 — The apparent tool has a competing objective
+
+Small routes allocation to Vanir; the apparent Yunyun guide is the negative-emotion strategist.
+
+Source: C03P350–378; C04P509–516. Role reversal depends on agents with their own goals, not random stupidity.
+
+Transition: STRENGTHEN. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-HM04 — Serious rescue uses an indecent method
+
+Ally-hostage leverage wins one phase; released enemies become rescue carriers and neglect Yunyun’s social value.
+
+Source: FinalP365–388/436–454. Literal coercive acts remain adverse even when the scene is comic; no actual wound asserted.
+
+Transition: REVISE. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-HM05 — Premature causal closure restarts the crisis
+
+Companion recovery suggests a broken source, but a mobile machine exposes a different possible mechanism.
+
+Source: FinalP465–500. Narrator inference is revised, not omniscient fact reversed by author fiat.
+
+Transition: STRENGTHEN. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-HM06 — Selected evidence and denominator
+
+Sixty-one whole selected premises retain ranges, short source anchors, L/H distinctions, cultural/context and uncertainty fields.
+
+Source: All seven admitted principal units; selected register H001–H061. Full source was read but selection is purposive; no complete census, second code set, J02 fraction or agreement claim.
+
+Transition: PRESERVE. Confidence: HIGH for declared scope. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-HM07 — The covert observer becomes the complaint target
+
+An apparently suspicious private meeting resolves into ordinary peer venting, then the investigator selectively resents becoming its topic. Privacy rhetoric reverses under a concrete counterexample.
+
+Source: Bonus P3-67. Producer8H/9V and root4H/4V are overlapping purposive accounts of one story; no pooled census, agreement statistic or J02 denominator.
+
+Transition: EXPAND. Confidence: MODERATE.
+
+Root precision: C03P149/P156-176/P420-424 is direct adverse evidence for N01; no outside perpetrator or moral-acknowledgment condition is added. N02’s observed help exceeds the strength of its inferred tenderness mechanism. Final377-379 comments remain unnamed; Small’s366 protest is the identified turn. Final pullers are three recruited former criminal men. Toy purchase precedes the later thanks/guilt/giving. These limits apply across the appended responsibilities. Publication is a separate gate and Dust03 remains closed until it closes.

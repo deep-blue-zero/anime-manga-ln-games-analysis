@@ -762,3 +762,100 @@ Source: FAN-MEM, SHA-256 `e08725fc99cebadd52f93d05122de36d4ae39b435d0d993c41b068
 | EC-FAN-OL02 | Editorial household and material plane | S050/S072/S078; full reader’s S088 account | Reference and scripted voices; moderate transfer confidence | Food and clothing constraints coexist with magic. The Japan-memento defense belongs to a commissioned fashion exchange that ends in planner blame. | EXPAND with dependence flags. Root did not view S088; this is not a newly dated MAIN confession. |
 
 These are two analytical responsibilities, not independent repeated trials. The complete reader read all 121 pages; root sealed an initial 37-page pass, then checked five further pages during coordinated receiving. Shared-lineage limits and all current qualifications apply. Publication remains a separate gate.
+
+
+## Stage C — Dust02 whole supplied edition: ordinary life preferences
+
+Source DUST-02; principal p002-p008 plus separately admitted bonus p010 and edition components. The [whole-edition receiving record](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V02_RECEIVING_AND_PROVENANCE.json) preserves full source/reader scopes, both original seven-question proposals, current root dispositions and exact precision history. This appends to the current published ledger; every earlier byte remains an exact prefix. Main-only R1, Gen01-05, original forecasts/blanks and four scorecards stay unchanged. Stage D model revision remains later work.
+
+The producer supplied91 principal append proposals against the exact earlier0ce33a0f baseline. Root received all91; this ledger adopts the relevant scoped observations with current qualifications, then adds one separately identified bonus observation. These are responsibilities and dependent evidence routes, not independent trials.
+
+### DUST02-OL01 — Embodied pleasures are positively valued
+
+An appetite-free paradise is unattractive, not a universal cure for his present dissatisfaction.
+
+Source: C01P138–140. Direct preference; no theological or medical generalization.
+
+Transition: STRENGTHEN. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-OL02 — Shared quiet
+
+Cloud-watching and stepping outside a noisy feast show situated quiet seeking.
+
+Source: C02P246–247; EpiP40–43. Does not contradict later preference for familiar noisy company in another person’s care.
+
+Transition: PRESERVE. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-OL03 — Advance spending and borrowed future profit
+
+He spends before a working team is secured and has borrowed against expected dragon profit; Leen later repays debt from proceeds.
+
+Source: C02P453; C03P51–56. Her action is not his voluntary completed debt repayment.
+
+Transition: STRENGTHEN. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-OL04 — A small particular gift carries real cost
+
+Toy is smaller because of budget but consumes his remaining money and produces valued delight.
+
+Source: C04P537/544–549. Specific recipient Yunyun, purchase earlier than giving, not universal generosity or romance.
+
+Transition: STRENGTHEN. Confidence: HIGH. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-OL05 — Formal service and free time
+
+Luna’s workload and lost free time are actual concerns; Dust listens but tires.
+
+Source: C03P247–263. No completed personal holiday or new counseling expertise.
+
+Transition: PRESERVE. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-OL06 — Professional and mentor interest
+
+Small values skill recognition, Vanir’s presence and controlled access to dream services.
+
+Source: C03P192–211/368; FinalP516. Independent goal, not an unlimited client-dependence trait; actual age unknown.
+
+Transition: STRENGTHEN. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-OL07 — Yunyun’s ordinary moral spending boundary
+
+Unlike other recipients, she refuses the photo-sale money and lectures Vanir.
+
+Source: FinalP16–17. Do not infer everyone’s assent from group profit or absence of objection.
+
+Transition: STRENGTHEN. Confidence: HIGH. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-OL08 — Hosting becomes accepted with shared costs
+
+Dust protests imposed generosity, hears contributions and acknowledges reciprocal social borrowing before hosting.
+
+Source: EpiP19–33. No final total bill, debt payoff or initial consent; qualified later voluntary choice.
+
+Transition: PRESERVE. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-OL09 — Alcohol rules and state
+
+Kazuma and Darkness prevent Yunyun/Megumin drinking; Leen becomes drunk and unable to complete a spell or conversation.
+
+Source: EpiP39/45–66. No invented alcohol consumption by the two stopped girls; no universal adult drinking tolerance.
+
+Transition: PRESERVE. Confidence: HIGH. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-OL10 — Chosen familiar company
+
+Dust carries Leen back to the group because he expects familiar noise to support a good dream.
+
+Source: EpiP66–67. Expectation not observed dream result, but a concrete ordinary value beyond status.
+
+Transition: STRENGTHEN. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-OL11 — Private recreation and peer venting
+
+Food, drink, paid private recreation, appointments and a separate peer audience shape ordinary choices. The health/abstinence account is Dust’s admitted cover for spending.
+
+Source: Bonus P3-24/P37-67. No genuine abstinence preference, informed Taylor refusal/shop ban, ordinary orientation diagnosis or fixed frequency is established.
+
+Transition: EXPAND. Confidence: MODERATE.
+
+Root precision: C03P149/P156-176/P420-424 is direct adverse evidence for N01; no outside perpetrator or moral-acknowledgment condition is added. N02’s observed help exceeds the strength of its inferred tenderness mechanism. Final377-379 comments remain unnamed; Small’s366 protest is the identified turn. Final pullers are three recruited former criminal men. Toy purchase precedes the later thanks/guilt/giving. These limits apply across the appended responsibilities. Publication is a separate gate and Dust03 remains closed until it closes.

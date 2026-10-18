@@ -1,7 +1,7 @@
 {
   "schema": "KONOSUBA_STAGE_C_COMPONENT_COVERAGE_V1",
   "status": "ACTIVE_NOT_COMPLETE",
-  "updated_utc": "2026-10-18T00:24:33.030461+00:00",
+  "updated_utc": "2026-10-18T01:39:32.953430+00:00",
   "fixed41_identity_seal": "fe59ede667ed3532f9cd0e62fdd650655d029c191fd3bd95df84ab404f2f56c5",
   "coverage_denominator_state": "FULL_ADMITTED_NARRATIVE_COMPONENT_DENOMINATOR_NOT_YET_RESOLVED",
   "expanded_narrative_completion_percentage": null,
@@ -9,7 +9,8 @@
   "book_accounting_only": {
     "supplemental_books_total": 19,
     "accepted_whole_supplied_editions": [
-      "DUST-01"
+      "DUST-01",
+      "DUST-02"
     ],
     "not_an_expanded_component_percentage": true
   },
@@ -164,9 +165,15 @@
       "source_id": "DUST-02",
       "native_sha256": "4dfbfdde2052cf435d1d843d8127c3fa4139c046b3abddd34ab63bfd3dda531f",
       "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
-      "stage_C_status": "SEVEN_PRINCIPAL_MEMBERS_SEPARATELY_ADMITTED_READING_NOT_YET_CREDITED_AT_ADMISSION",
-      "remaining": "Separate admission, actual full admitted reading and coherent analysis/receiving/publication; structure/cache is not literary completion",
-      "principal_admission_sha256": "1d029e984afb97a2a14624bcf53d9f2f3702efc8a2019c24f7aef6fe473c5ce6"
+      "stage_C_status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_CONTAINING_PUBLICATION_PENDING",
+      "remaining": "Containing publication gate; later synthesis/model revision work; supplied-edition literary/component receiving complete",
+      "principal_admission_sha256": "1d029e984afb97a2a14624bcf53d9f2f3702efc8a2019c24f7aef6fe473c5ce6",
+      "historical_preacceptance_stage_C_status": "SEVEN_PRINCIPAL_MEMBERS_SEPARATELY_ADMITTED_READING_NOT_YET_CREDITED_AT_ADMISSION",
+      "principal_P_slots": 3052,
+      "excluded_P_slots": 139,
+      "all_native_images_inspected": 23,
+      "whole_edition_receiving_record": "10 Expanded Corpus/Dust/KONOSUBA_DUST_V02_RECEIVING_AND_PROVENANCE.json",
+      "accepted_utc": "2026-10-18T01:39:32.953430+00:00"
     },
     {
       "source_id": "DUST-03",

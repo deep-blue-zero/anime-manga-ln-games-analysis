@@ -704,3 +704,84 @@ Source: FAN-MEM, SHA-256 `e08725fc99cebadd52f93d05122de36d4ae39b435d0d993c41b068
 | EC-FAN-SO02 | Darkness; volunteered interview fantasy | S104, complete questioning and fantasy context | H2 represented fantasy; high source-plane confidence | Willingness to receive embarrassing questions is specific. It is not a performed assault or universal consent; Luna’s discomfort remains material. | PRESERVE context and agency boundaries within the comic plane. |
 
 These are two analytical responsibilities, not independent repeated trials. The complete reader read all 121 pages; root sealed an initial 37-page pass, then checked five further pages during coordinated receiving. Shared-lineage limits and all current qualifications apply. Publication remains a separate gate.
+
+
+## Stage C — Dust02 whole supplied edition: seriousness override
+
+Source DUST-02; principal p002-p008 plus separately admitted bonus p010 and edition components. The [whole-edition receiving record](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V02_RECEIVING_AND_PROVENANCE.json) preserves full source/reader scopes, both original seven-question proposals, current root dispositions and exact precision history. This appends to the current published ledger; every earlier byte remains an exact prefix. Main-only R1, Gen01-05, original forecasts/blanks and four scorecards stay unchanged. Stage D model revision remains later work.
+
+The producer supplied91 principal append proposals against the exact earlier0ce33a0f baseline. Root received all91; this ledger adopts the relevant scoped observations with current qualifications, then adds one separately identified bonus observation. These are responsibilities and dependent evidence routes, not independent trials.
+
+### DUST02-SO01 — Tears inhibit a complaint
+
+Dust sees Leen’s tears, suppresses self-assertion and apologizes.
+
+Source: C01P166–169. Specific affective interruption; not universal respect or no future harassment.
+
+Transition: STRENGTHEN. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-SO02 — Dragon instructions before trust
+
+Concrete retreat behavior begins before Leen’s stated trust strengthens his resolve.
+
+Source: C02P760–784. No unseen duel details or invented first cause from later feedback.
+
+Transition: PRESERVE. Confidence: HIGH for order. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-SO03 — Underage/legal restraint amid coercion
+
+Dust recognizes Yunyun’s youth and restrains immediate action in the bath.
+
+Source: C03P683–690. Local inhibition does not undo deliberate charm or certify informed consent.
+
+Transition: PRESERVE. Confidence: HIGH. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-SO04 — Actual care before compensation
+
+He interposes to protect Small before Vanir offers a sales percentage.
+
+Source: C04P434–439. Commercial motive follows and remains; no unique altruistic cause.
+
+Transition: STRENGTHEN. Confidence: HIGH for sequence. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-SO05 — A companion can still be sacrificed to convenience
+
+Chris is pointed out to pursuers; Small becomes an unconsenting feigned hostage.
+
+Source: C04P483–490; FinalP365–381. Important adverse boundary to a universal emergency-protector rule.
+
+Transition: REVISE. Confidence: HIGH. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-SO06 — Impaired inaction is a changed state
+
+Sleep inducements and inability to flee occur under the drain; Dust’s carrying and remaining-residual-risk concern are actual actions.
+
+Source: FinalP193–250/430–434. Do not diagnose ordinary moral indifference from state-imposed incapacity.
+
+Transition: PRESERVE. Confidence: HIGH. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-SO07 — Public danger and self-liability coexist
+
+Dust commits to stopping the machine to protect the city while explicitly wanting evidence of his own role erased.
+
+Source: FinalP501–507. No pure-motive floor or goal-completion exemption; ethical accounting stays mixed.
+
+Transition: STRENGTHEN. Confidence: HIGH. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-SO08 — Affection reaches a disclosure threshold
+
+Leen’s companionship appeal elicits actual readiness; sleep blocks revelation and Dust carries her back.
+
+Source: EpiP50–67. Open past and relationship end-state; no delivered secret or new reciprocal love declaration.
+
+Transition: OPEN. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-SO09 — No new emergency opportunity in the bonus
+
+Protective language follows a hypocrisy challenge in an ordinary investigation; no actual urgent coercive danger requiring an emergency override is demonstrated.
+
+Source: Bonus P25-34/P37-67. This limits opportunity classification. It is neither a new N01 trial nor evidence that every expression of companion concern is false.
+
+Transition: PRESERVE. Confidence: HIGH for depicted scope.
+
+Root precision: C03P149/P156-176/P420-424 is direct adverse evidence for N01; no outside perpetrator or moral-acknowledgment condition is added. N02’s observed help exceeds the strength of its inferred tenderness mechanism. Final377-379 comments remain unnamed; Small’s366 protest is the identified turn. Final pullers are three recruited former criminal men. Toy purchase precedes the later thanks/guilt/giving. These limits apply across the appended responsibilities. Publication is a separate gate and Dust03 remains closed until it closes.

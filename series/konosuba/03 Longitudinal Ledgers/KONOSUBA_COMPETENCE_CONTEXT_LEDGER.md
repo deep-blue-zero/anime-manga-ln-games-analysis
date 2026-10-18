@@ -881,3 +881,92 @@ Source: FAN-MEM, SHA-256 `e08725fc99cebadd52f93d05122de36d4ae39b435d0d993c41b068
 | EC-FAN-CC02 | Aqua’s clothing; editorial capacity | S072 fashion reference, FM-H07 qualification | Reported capacity; H not applicable to a new performed behavior | Poison, status and wound protection differ from pain and cold. The local reference is not a newly performed injury trial. | QUALIFY the original selected H1 applicability; no main-only result changes. |
 
 These are two analytical responsibilities, not independent repeated trials. The complete reader read all 121 pages; root sealed an initial 37-page pass, then checked five further pages during coordinated receiving. Shared-lineage limits and all current qualifications apply. Publication remains a separate gate.
+
+
+## Stage C — Dust02 whole supplied edition: competence context
+
+Source DUST-02; principal p002-p008 plus separately admitted bonus p010 and edition components. The [whole-edition receiving record](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V02_RECEIVING_AND_PROVENANCE.json) preserves full source/reader scopes, both original seven-question proposals, current root dispositions and exact precision history. This appends to the current published ledger; every earlier byte remains an exact prefix. Main-only R1, Gen01-05, original forecasts/blanks and four scorecards stay unchanged. Stage D model revision remains later work.
+
+The producer supplied91 principal append proposals against the exact earlier0ce33a0f baseline. Root received all91; this ledger adopts the relevant scoped observations with current qualifications, then adds one separately identified bonus observation. These are responsibilities and dependent evidence routes, not independent trials.
+
+### DUST02-CC01 — Aqua: repair and artwork are distinct
+
+Inter-world call plus friends’ report supplies resurrection/repair; water drawing is directly shown.
+
+Source: C01P142/178–186/202–207. Dust did not witness every bodily repair stage while dead; artistic ability is not merely inferred from divinity.
+
+Transition: PRESERVE. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-CC02 — Recruiting for actual role fit
+
+Defense, one-shot power, healing and tagalong management create different deployment costs.
+
+Source: C02P299–448. Valid role concerns coexist with hostile interview and deception; no blanket ranking or rejection theorem.
+
+Transition: STRENGTHEN. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-CC03 — Yunyun repertoire and readiness
+
+Strong multi-spell combat capacity coexists with later imposed inability to stay awake; the final recovered caster removes two legs.
+
+Source: C02P573–590/621–650; FinalP211–215/530–531. Temporary readiness loss is not absence of learned capacity.
+
+Transition: STRENGTHEN. Confidence: HIGH. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-CC04 — Small’s actual combat contribution
+
+Actual Sleep halts goblins; further Paralyze availability is reported rather than a separately depicted cast.
+
+Source: C02P641–656. Retain distinct actual versus available actions.
+
+Transition: STRENGTHEN. Confidence: HIGH. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-CC05 — Dragon handling is incompletely observed
+
+Dust’s calm reading and detailed retreat instructions are observed; sword extraction is his later report.
+
+Source: C02P755–811. No full duel, kill, solo pacification mechanism or identity confirmation is supplied.
+
+Transition: OPEN. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-CC06 — Chris’s institutional access
+
+Seal and specific conversation obtain information after initial restricted access.
+
+Source: C04P76–118. Method-specific success, not proof all divine powers are available in this form.
+
+Transition: STRENGTHEN. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-CC07 — Care transport has a capacity limit
+
+Dust can carry three slowly but recognizes collapse exceeds his solo evacuation speed; recruits three actual carriers with agreement.
+
+Source: FinalP223–250/430–449. Alternative provider arrangement is not raw strength sufficient for every phase.
+
+Transition: STRENGTHEN. Confidence: HIGH. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-CC08 — Actual spear action and electrical handoff
+
+Restraints and leg removal enable Dust’s spear placement; continued resistance leads to Leen’s instructed Lightning and actual destruction.
+
+Source: FinalP521–546. No solo or first-hit kill; source does not confer general engineering expertise.
+
+Transition: REVISE. Confidence: HIGH for sequence. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-CC09 — Shield/bow specialist limits
+
+Keith’s arrow places ropes and Taylor protects the casters while explicitly warning of limited endurance.
+
+Source: FinalP521–529. Actual effectiveness and limited margin coexist; no unlimited tank function.
+
+Transition: PRESERVE. Confidence: HIGH. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-CC10 — A domain assessment is a report
+
+Taylor calls Keith and Dust capable and Leen dependable. Kazuma describes coordination difficulty with his own group; Taylor explicitly lacks experience with that group.
+
+Source: Bonus P53-56. Preserve speaker, audience and unequal access. These utterances do not become independent new abilities or action failures by absent characters.
+
+Transition: PRESERVE. Confidence: HIGH for utterances.
+
+Root precision: C03P149/P156-176/P420-424 is direct adverse evidence for N01; no outside perpetrator or moral-acknowledgment condition is added. N02’s observed help exceeds the strength of its inferred tenderness mechanism. Final377-379 comments remain unnamed; Small’s366 protest is the identified turn. Final pullers are three recruited former criminal men. Toy purchase precedes the later thanks/guilt/giving. These limits apply across the appended responsibilities. Publication is a separate gate and Dust03 remains closed until it closes.

@@ -5057,7 +5057,21 @@
           "required_action": "Map exact component boundaries, locators, authorship and treatment during stage-authorized source inspection."
         }
       ],
-      "analytical_completion": "NOT_ESTABLISHED_BY_METADATA_MATRIX"
+      "analytical_completion": "NOT_ESTABLISHED_BY_METADATA_MATRIX",
+      "expanded_stage_C": {
+        "accepted_utc": "2026-10-18T01:39:32.953430+00:00",
+        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_CONTAINING_PUBLICATION_PENDING",
+        "preceding_full_gate_source": "ee740bf0023b6cc7167f80cbbc70fa949f29f232",
+        "principal": "Seven complete members/3052P/2960nonempty/102610base/2742ruby/4103rt; P full source-first and S full informed retrospective readings with distinct disclosed histories",
+        "nonprincipal": "All16containers/139P/125nonempty/3825base/35ruby/62rt/17nav and23actualimages under separate admission",
+        "bonus": "DUST-02-BONUS-01 仲間の秘密; p010P1-67/2031base/0ruby; complete literary analysis",
+        "reading_path": "10 Expanded Corpus/Dust/KONOSUBA_DUST_V02_DEEP_READING.md",
+        "component_path": "10 Expanded Corpus/Dust/KONOSUBA_DUST_V02_COMPONENT_REGISTER.json",
+        "receiving_path": "10 Expanded Corpus/Dust/KONOSUBA_DUST_V02_RECEIVING_AND_PROVENANCE.json",
+        "historical_metadata_fields": "Original metadata no-reading/unmapped dispositions unchanged; this overlay supplies later actual semantic acceptance",
+        "unresolved": "Exact old identity/restraint; full dragon resolution; unique motives/artifact mechanisms; bonus absolute date/reprint identity; other-edition completeness",
+        "model_scope": "Expanded only; all R1/Gen01-05/original14 blanks/four scores exact; no aggregate local score"
+      }
     },
     {
       "source_id": "DUST-03",
@@ -11358,7 +11372,16 @@
         "embedded_bonus_fiction"
       ],
       "admission": "NOT_ADMITTED_BY_THIS_MATRIX",
-      "disposition": "NOT_ESTABLISHED_BY_METADATA_MATRIX"
+      "disposition": "NOT_ESTABLISHED_BY_METADATA_MATRIX",
+      "expanded_stage_C": {
+        "accepted_utc": "2026-10-18T01:39:32.953430+00:00",
+        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_CONTAINING_PUBLICATION_PENDING",
+        "principal_and_bonus": "COMPLETE_SUPPLIED_EDITION_ACCEPTED",
+        "component_register": "10 Expanded Corpus/Dust/KONOSUBA_DUST_V02_COMPONENT_REGISTER.json",
+        "receiving_record": "10 Expanded Corpus/Dust/KONOSUBA_DUST_V02_RECEIVING_AND_PROVENANCE.json",
+        "source_plane": "POST_VALIDATION_EXPANDED_ONLY",
+        "original_metadata_disposition": "Preserved historical observations; actual current acceptance supplied by this overlay"
+      }
     },
     {
       "source_id": "DUST-03",

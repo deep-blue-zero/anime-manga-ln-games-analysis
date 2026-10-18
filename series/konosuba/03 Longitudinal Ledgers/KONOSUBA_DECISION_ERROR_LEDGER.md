@@ -1294,3 +1294,140 @@ Source: FAN-MEM, SHA-256 `e08725fc99cebadd52f93d05122de36d4ae39b435d0d993c41b068
 | EC-FAN-DE02 | Aqua; price and recognition | S110–111, offer, free competitor and demands | H1/H2; high speech confidence, moderate private-appraisal confidence | A useful commodity is not necessarily scarce. A status claim substitutes for commercial exclusivity after competition appears. | EXPAND error and adaptation; no completed economic outcome is supplied. |
 
 These are two analytical responsibilities, not independent repeated trials. The complete reader read all 121 pages; root sealed an initial 37-page pass, then checked five further pages during coordinated receiving. Shared-lineage limits and all current qualifications apply. Publication remains a separate gate.
+
+
+## Stage C — Dust02 whole supplied edition: decision error
+
+Source DUST-02; principal p002-p008 plus separately admitted bonus p010 and edition components. The [whole-edition receiving record](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V02_RECEIVING_AND_PROVENANCE.json) preserves full source/reader scopes, both original seven-question proposals, current root dispositions and exact precision history. This appends to the current published ledger; every earlier byte remains an exact prefix. Main-only R1, Gen01-05, original forecasts/blanks and four scorecards stay unchanged. Stage D model revision remains later work.
+
+The producer supplied91 principal append proposals against the exact earlier0ce33a0f baseline. Root received all91; this ledger adopts the relevant scoped observations with current qualifications, then adds one separately identified bonus observation. These are responsibilities and dependent evidence routes, not independent trials.
+
+### DUST02-DE01 — Comprehended plan displaced by prestige
+
+Dust leaves an effective assigned role after appraising a bound monster as a glory opportunity; ignores a prior warning and dies.
+
+Source: C01P17–18/43–55. Overconfidence and reward salience, not absence of instructions or general inability.
+
+Transition: STRENGTHEN. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-DE02 — Greater share rejected after workload made explicit
+
+He changes distribution stance when Leen attaches monster responsibility to the requested surplus.
+
+Source: C02P46–48. A rational change under selfish values; not every unattractive choice is a cognition error.
+
+Transition: PRESERVE. Confidence: HIGH. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-DE03 — Goal substitution during recruitment
+
+Task-fit concerns become enjoyable rejection; he forgets recruitment while the advance is already spent.
+
+Source: C02P332–448/453. Attentional displacement, face aggression and cash management are separable.
+
+Transition: STRENGTHEN. Confidence: HIGH for explicit448. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-DE04 — Instrumental praise versus unverified jealousy
+
+Dust deliberately overpraises to encourage Yunyun, then infers others’ jealousy from weaker signals.
+
+Source: C02P598–618. His own strategy is explicit; others’ private motives remain uncertain.
+
+Transition: PRESERVE. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-DE05 — Hidden client misrepresentation
+
+Actual larger group contradicts supplied job number; he demands an additional fee.
+
+Source: C02P666–706. Information was concealed by client; do not classify as ignoring an explicit known term. Payment unshown.
+
+Transition: OPEN. Confidence: HIGH for admission. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-DE06 — Proactive coupon check, incomplete acceptance
+
+Dust asks about a catch, receives a city warning and discounts it.
+
+Source: C03P18–23. Asking is genuine competent behavior; subsequent underweighting is separate.
+
+Transition: REVISE. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-DE07 — Cut-off instructions and ethical intention
+
+Attractive charm effect captures attention, but he retains familiarity restriction and deliberately intends coercion.
+
+Source: C03P154–176/420–478. Reader-only duration information was not heard. The ethical choice is not reducible to knowledge deficit.
+
+Transition: STRENGTHEN. Confidence: HIGH for own intention. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-DE08 — Actual deception detection
+
+Repeated physical/document checks uncover concealed conversion paperwork before signing.
+
+Source: C03P572–594. Strong contrary to globally gullible/never-checks rule; prior salience is not an exclusion.
+
+Transition: STRENGTHEN. Confidence: HIGH. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-DE09 — Concealment dressed as explanation
+
+Dust knowingly suggests alcohol to keep Yunyun from learning why the bath felt unusual.
+
+Source: C04P172–180. Private narration makes it deliberate deception rather than innocent inference.
+
+Transition: STRENGTHEN. Confidence: HIGH. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-DE10 — Different actions before and after reward offer
+
+Interposition between Small and crowd precedes ten-percent compensation; later sales cooperation has an explicit reward.
+
+Source: C04P434–439. Do not backdate price into the first intervention or delete subsequent opportunism.
+
+Transition: PRESERVE. Confidence: HIGH for order. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-DE11 — Memory cue abandoned
+
+A sphere cue is not pursued; later direct sight restores the activation memory and produces evidence-suppression planning.
+
+Source: FinalP286–294/310–317. Attentional retrieval failure precedes deliberate concealment; these are not the same error.
+
+Transition: STRENGTHEN. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-DE12 — Competing causal hypotheses actually tested
+
+He tests infection against unaffected companions, retains demon/device rivals, then revises a broken-sphere hypothesis after seeing an eye.
+
+Source: FinalP97–100/185–190/465–500. No universal single-cause fixation; all device properties are not independently verified.
+
+Transition: REVISE. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-DE13 — Victory and information are different goals
+
+Disarming opponents does not locate the hidden object; failed search leads to another leverage strategy.
+
+Source: FinalP376–415. Book burning is a bluff, with amusement prolonging distress; successful information extraction does not make method ethical.
+
+Transition: STRENGTHEN. Confidence: HIGH. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-DE14 — Local learning with remaining execution cost
+
+Dust explicitly avoids Hydra’s earlier overconfidence, coordinates a second strike, yet is caught by the blast and returns to voyeurism.
+
+Source: FinalP532–555. Actual tactical learning without general impulse control or safe total execution.
+
+Transition: REVISE. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-DE15 — Edited causal evidence
+
+He actually tears incriminating portions from the diary before presenting it with the machine leg for an award.
+
+Source: EpiP8. Reported completed alteration, not only earlier intention317; award is not a clean responsibility audit.
+
+Transition: STRENGTHEN. Confidence: HIGH. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-DE16 — Selective privacy becomes surveillance
+
+Dust knows the spending cause, offers a false health cover, briefly invokes privacy, then switches to protective rhetoric after Leen cites his inconsistency. Actual following exposes complaints about him.
+
+Source: Bonus P13-34/P37-67. Knowingly deceptive speech differs from an innocent inference error; no general inability or wholly false concern is inferred.
+
+Transition: STRENGTHEN. Confidence: HIGH for sequence; MODERATE for mechanism.
+
+Root precision: C03P149/P156-176/P420-424 is direct adverse evidence for N01; no outside perpetrator or moral-acknowledgment condition is added. N02’s observed help exceeds the strength of its inferred tenderness mechanism. Final377-379 comments remain unnamed; Small’s366 protest is the identified turn. Final pullers are three recruited former criminal men. Toy purchase precedes the later thanks/guilt/giving. These limits apply across the appended responsibilities. Publication is a separate gate and Dust03 remains closed until it closes.

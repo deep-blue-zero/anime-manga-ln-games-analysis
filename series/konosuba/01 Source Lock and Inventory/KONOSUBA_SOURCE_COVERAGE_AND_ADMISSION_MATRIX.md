@@ -209,3 +209,10 @@ FAN-MEM supplied-component analysis is accepted/published/full-gate closed at`31
 ## Later owner resumption and local-source recovery — 2026-10-18T01:00:29.876928+00:00
 
 The historical pause above remains preserved. The owner has now supplied the verified archive and explicitly resumed the complete governed program with local EPUBs. All41 native identities/sizes/SHA256/CRC/Japanese OPF checks match the fixed snapshot; this changes no component reading or acceptance state. The [recovery receipt](../09%20Audits%20and%20Manifests/KONOSUBA_OWNER_RESUME_AND_LOCAL_HANDOFF_RECOVERY_20261018.json) and single current entrypoint identify the pending recovery publication gate. Dust02/Core remain unaccepted, all frozen outcomes stay exact and the global component percentage remains null.
+
+
+## Dust02 supplied-edition analytical acceptance after local recovery — 2026-10-18T01:39:32.953430+00:00
+
+Recoveryee740bf0 closed its full gate. DUST-02 now has accepted literary/component analysis:3052principal P,139excluded P in16containers,17nav, complete bonus p010P1-67 and23 inspected native images. The [receiving record](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V02_RECEIVING_AND_PROVENANCE.json) distinguishes two full source passes, bounded root checks, informed same-lineage limits, original labels and current partial/supportive conclusions. Two expanded_stage_C overlays leave original metadata and other40 object/register rows exact. Fixed41 identities and frozen authority remain unchanged.
+
+Book accounting is2of19 supplemental editions accepted, this containing gate pending, and3of5 mixed programs accepted/published. All17 main excluded-component programs and later expanded/Stage D/full-corpus work remain. Global component denominator unresolved, percentage null. Dust03 requires exact gate/reload then separate admission. Core separately admitted/unaccepted.

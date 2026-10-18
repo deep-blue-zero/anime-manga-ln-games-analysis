@@ -880,3 +880,92 @@ Source: FAN-MEM, SHA-256 `e08725fc99cebadd52f93d05122de36d4ae39b435d0d993c41b068
 | EC-FAN-RS02 | Kazuma, Luna and the party | S100–107, complete comic | H1/H2 within an explicit metafictional plane | Useful intervention follows a private date appraisal. His claim to sole coverage meets a whole-party objection and Luna withdraws. | EXPAND audience-conditioned scripts; no reciprocated date or ordinary MAIN knowledge of films follows. |
 
 These are two analytical responsibilities, not independent repeated trials. The complete reader read all 121 pages; root sealed an initial 37-page pass, then checked five further pages during coordinated receiving. Shared-lineage limits and all current qualifications apply. Publication remains a separate gate.
+
+
+## Stage C — Dust02 whole supplied edition: relationship state
+
+Source DUST-02; principal p002-p008 plus separately admitted bonus p010 and edition components. The [whole-edition receiving record](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V02_RECEIVING_AND_PROVENANCE.json) preserves full source/reader scopes, both original seven-question proposals, current root dispositions and exact precision history. This appends to the current published ledger; every earlier byte remains an exact prefix. Main-only R1, Gen01-05, original forecasts/blanks and four scorecards stay unchanged. Stage D model revision remains later work.
+
+The producer supplied91 principal append proposals against the exact earlier0ce33a0f baseline. Root received all91; this ledger adopts the relevant scoped observations with current qualifications, then adds one separately identified bonus observation. These are responsibilities and dependent evidence routes, not independent trials.
+
+### DUST02-RS01 — Dust–Leen: grief changes immediate response
+
+Her tears suppress his intended complaint; apology and reassuring contact follow.
+
+Source: C01P163–169. Actual inhibition and behavior; no claim that all future teasing or boundary violations stop.
+
+Transition: STRENGTHEN. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-RS02 — Dust–Leen: trust follows an initial decision
+
+He sends companions away before her explicit trust; her words then affect him.
+
+Source: C02P760–784. Chronology forbids using later praise as the cause of the first protective decision.
+
+Transition: PRESERVE. Confidence: HIGH for order. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-RS03 — Dust–Leen: disclosure not yet delivered
+
+A serious invitation evokes readiness; sleep interrupts the first disclosure phrase. He carries her back into familiar company.
+
+Source: EpiP50–67. No actual secret content or deliberate final refusal; drunkenness is a state limit.
+
+Transition: STRENGTHEN. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-RS04 — Dust–Yunyun: gift timing and target
+
+Actual toy purchase occurred before the later crowd chase, costs all remaining funds and is smaller by budget. Giving follows guilt and her thanks; recipient confirms intended rivalry use.
+
+Source: C04P309–321/536–549. Do not relabel as Leen gift, uniquely guilt-caused purchase or established romance.
+
+Transition: STRENGTHEN. Confidence: HIGH for stated sequence. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-RS05 — Dust–women: imposed affection
+
+Initial refusal and deliberate charm remain visible. Later pleasant attention and forgiveness are not informed consent to the unknown cause.
+
+Source: C03P149/176/420/477–478/734–758; C04P172–180/546. State manipulation and information asymmetry; no actual completed sexual assault in the pursuit scene.
+
+Transition: REVISE. Confidence: HIGH within source. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-RS06 — Dust–Chris: one companion used as diversion
+
+Dust accepts her rejected method but later exposes her costume to pursuing hostility. Selective help toward other friends does not cancel this.
+
+Source: C04P361–363/483–490. Actual decision and inferred redirected hostility; her consent to diversion absent.
+
+Transition: REVISE. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-RS07 — Dust–Small: cooperation versus coercion
+
+Conditional help and independent allegiance are different from being physically made a feigned hostage while impaired.
+
+Source: C02P290; C03P368; FinalP365–381/516. No actual blade wound, but no free agreement; later independent recruitment restores neither retroactive consent nor innocence.
+
+Transition: REVISE. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-RS08 — Dust–Keith/Taylor: state-specific company
+
+Induced pursuit is a distinct imposed state; ordinary friendship and effective bow/shield cooperation remain real.
+
+Source: C03P451–491/770–784; FinalP521–529. Do not infer ordinary orientation from magic or call all male affection a renewed charm.
+
+Transition: PRESERVE. Confidence: HIGH for distinction. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-RS09 — Yunyun–Megumin: a truth disbelieved
+
+Yunyun’s wish for rivalry credit organizes gift value and machine-fight motive; Megumin disbelieves her true boast using loneliness stigma.
+
+Source: C03P225–239; EpiP13–16. A status exchange, not evidence that Yunyun actually hallucinated the events.
+
+Transition: STRENGTHEN. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-RS10 — Private leader conversation and team boundaries
+
+Taylor and Kazuma share an ordinary private peer audience; Dust and Leen actually follow and overhear. Leen infers that privacy prevents teammates hearing grievances.
+
+Source: Bonus P37-67. The meeting is observed, its harm-avoidance motive inferred; no romance, criminal contact, dissolution or actual final retreat is established.
+
+Transition: EXPAND. Confidence: MODERATE.
+
+Root precision: C03P149/P156-176/P420-424 is direct adverse evidence for N01; no outside perpetrator or moral-acknowledgment condition is added. N02’s observed help exceeds the strength of its inferred tenderness mechanism. Final377-379 comments remain unnamed; Small’s366 protest is the identified turn. Final pullers are three recruited former criminal men. Toy purchase precedes the later thanks/guilt/giving. These limits apply across the appended responsibilities. Publication is a separate gate and Dust03 remains closed until it closes.
