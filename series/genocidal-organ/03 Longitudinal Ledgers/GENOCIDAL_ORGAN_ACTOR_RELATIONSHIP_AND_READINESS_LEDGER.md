@@ -5,7 +5,7 @@ artifact_type: longitudinal_ledger
 series: Genocidal Organ / 虐殺器官
 series_id: genocidal-organ
 generation: GENOCIDAL_ORGAN_BOOTSTRAP_V1
-version: '0.31'
+version: '0.32'
 status: active_provisional
 scope: Actor, directional relationship and reconstruction-readiness ledger
 source_boundary: GO-JP-EPUB-001 through complete epilogue heading and prose; GO-U028; exclusive before spine 42 text/part0040.html
@@ -675,3 +675,13 @@ Developmental reconciliation is deliberately time-indexed: a target's earlier ab
 ### Subsequent character-work responsibility
 
 Priority independent monograph candidates are Clavis, Williams, Lucia and John; represented Elisha, Alex, Leland, Rockwell, Lucius and Tzvi warrant focused treatment only when a distinct role and retrieval burden justify it. The same subject can be monograph-eligible while behavior remains recognition-only. The six bounded and two broader candidates are opportunities for separately commissioned G5, with model versions, training/evaluation exposure, era/recipient/knowledge inputs, negative constraints and honestly retrospective consistency tests. This G2 creates none of those models or tests. No global discovery or capability record is edited; the responsible curator receives candidate mapping leads through the handoff after integration.
+
+
+<a id="go-g3-monograph-disposition"></a>
+## G3 monographs and relationship responsibility — 2026-10-18
+
+The separately commissioned literary studies now supply substantial monographs for [Clavis](../04%20Character%20and%20Relationship%20Studies/GENOCIDAL_ORGAN_CLAVIS_MONOGRAPH.md), [Williams](../04%20Character%20and%20Relationship%20Studies/GENOCIDAL_ORGAN_WILLIAMS_MONOGRAPH.md), [John Paul](../04%20Character%20and%20Relationship%20Studies/GENOCIDAL_ORGAN_JOHN_PAUL_MONOGRAPH.md) and [Lucia](../04%20Character%20and%20Relationship%20Studies/GENOCIDAL_ORGAN_LUCIA_MONOGRAPH.md), with an independent [directional relationship argument](../05%20Specialist%20Synthesis/GENOCIDAL_ORGAN_RELATIONSHIPS_AND_RESPONSIBILITY.md). CL091–093/095–096 register their central propositions in the claims owner. This is literary completion, not a new readiness grade or model. The G2 all51 assessment and its 2 MULTICONTEXT_CANDIDATE/6 DOMAIN_BOUNDED/43 RECOGNITION_ONLY distribution remain current and unchanged; all 156 actor histories, 88 directional IDs and 207 readiness records remain preserved.
+
+The represented mother, Alex, Leland, Rockwell, Lucius and Tzvi receive evidence-bearing bounded sections across these studies and the institutional specialist. Their roles do not presently require competing monographs or separate models: the relationship study treats maternal authority and failed reciprocity, recipient-specific Alex, Leland's tactical and terminal replies, and the Lucius/Tzvi coercion hierarchy; the institutional study treats command and resource responsibility. Unnamed people and groups remain identifiable within their source limits, with no invented private mind or identity merge. This architecture disposition does not reduce the significance of unrepresented victims to the protagonists' feelings.
+
+G5 remains separately gated: model production NOT_STARTED, validation NOT_PERFORMED. A future model needs an era, recipient and knowledge envelope, countercases, negative constraints and honestly retrospective evaluation of already-read cases. The monographs' Japanese voice analysis is written-prose evidence, not acoustic performance; no dialogue, scenario test, broad simulation or new source is produced.

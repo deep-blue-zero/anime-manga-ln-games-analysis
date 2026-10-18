@@ -5,7 +5,7 @@ artifact_type: longitudinal_ledger
 series: Genocidal Organ / 虐殺器官
 series_id: genocidal-organ
 generation: GENOCIDAL_ORGAN_BOOTSTRAP_V1
-version: '0.31'
+version: '0.32'
 status: active_provisional
 scope: Knowledge, institutions, technology and coercion ledger
 source_boundary: GO-JP-EPUB-001 through complete epilogue heading and prose; GO-U028; exclusive before spine 42 text/part0040.html
@@ -337,3 +337,11 @@ All K001–224 histories were reviewed with the complete-novel claim and revisio
 | Disclosure and ending outcome | K199–200's public-knowledge demand is acted on, then interrupted; K210–211 distinguish witnessed John death from relayed Williams death. K219–222 add actual narrated hearings and deliberately weaponized distribution. Current deaths/disorder differ from future civil war/massacre. K223–224 juxtapose self-protection with an avowed national self-punishment/protection policy; global rescue is not observed (CL027/059/082–088). |
 
 The meaningful uncertainties remain assigned, rather than awaiting an unspecified next chapter: patient wishes and private motives; chronology of undisclosed knowledge; exact command authorship and battlefield forensic details; the grammar's parameters; external edition equivalence; and bounded source-wording tensions. Earlier sources' unsupplied documents are not fabricated to harmonize events. No missing material institutional or knowledge history was found that requires another cumulative owner. G3 can test those current arguments in its separately commissioned specialist responsibilities; G2 produces no specialist synthesis, formal simulation or validated model.
+
+
+<a id="go-g3-institutional-dependencies"></a>
+## G3 institutional and causal argument route — 2026-10-18
+
+The [institutional/causal/political responsibility study](../05%20Specialist%20Synthesis/GENOCIDAL_ORGAN_INSTITUTIONS_CAUSALITY_AND_POLITICAL_RESPONSIBILITY.md) now develops CL094 from the current G2 reconciliation, including successive orders/custody, public/private provision, material extraction and selective attention, bodily coercion, linguistic instrument versus explanatory theory versus protective outcome, and public judgment. The [ending study](../05%20Specialist%20Synthesis/GENOCIDAL_ORGAN_ENDING_AND_RETROSPECTIVE_FORM.md) develops CL090's terminal return and explicit present/future limit. Their full reasons and countercases remain in those homes; this owner retains every K001–224 channel and state history.
+
+No K225, new source event, retrospective scene-time knowledge or unified institutional mind is added. Direct orders, attributed higher intent, inferred causal accounts and enacted local capacities remain distinct. Functioning authentication, actual care and logistics, ecological substitution, consumer attention limits and Mugabe's civic hope, whose fulfillment is unverified remain material countercases to reductive claims of universal fraud or universal selfishness. The operative fictional instrument is substantially supported; its full parameters, external scientific validity, necessary protective effect and achieved global rescue are not newly certified. Exact higher authorizers, earlier private knowledge onset and complete aftermath remain unresolved within the admitted boundary.
