@@ -5,8 +5,8 @@ artifact_type: corpus_map
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.24"
-last_updated: "2026-10-14"
+version: "1.25"
+last_updated: "2026-10-18"
 status: canonical
 scope: "Single canonical first-read surface; accepted foundation, V01 to V12 and the companions IV -after-, IX -extra- and both -another- volumes closed; continuous sequential run authorized 2026-10-14 through every supplied Japanese LN work and the architecture’s synthesis products"
 source_boundary: "Japanese LN V01 to V12 and the companions IV -after-, IX -extra- and both -another- volumes read in full and closed; every supplied work read; no web or adaptation witness analyzed."
@@ -93,7 +93,19 @@ sequential_execution:
 
 This is the single current entrypoint for **Silent Witch: Secrets of the Silent Witch**, Japanese **サイレント・ウィッチ 沈黙の魔女の隠しごと**, by **依空まつり**. Routing aliases: Silent Witch, Secrets of the Silent Witch, サイレント・ウィッチ. Stable root and continuing branch: `series/silent-witch`.
 
+*Historical gate/progress narrative retained from earlier stages; the front matter and completed continuous-run record below own the reached boundary. It grants no new operation.*
+
 **SEQUENTIAL_ANALYSIS_LOCK = OPEN, for Japanese LN V01 only, by the owner’s 2026-10-13 resume instruction.** The earlier owner-directed hold is preserved as history in the [gate report](08%20Audits%20and%20Manifests/SW_V01_READINESS_GATE_REPORT.md). Japanese LN V01 is byte-locked; its original local locator package was recovered and reverified before the gate opened. Narrative high-water mark at gate opening was PRE_V01. **Committed high-water mark now: V12.** The [V01 deep reading](02%20Sequential%20Readings/SW_V01_DEEP_READING.md) covers the whole volume and freezes its exit state as `SW-FR-V01-EXIT`; the [master ledger](03%20Longitudinal%20Ledgers/SW_MASTER_LONGITUDINAL_LEDGER.md) carries the reconciled cumulative state. That single operation is complete. **On 2026-10-14 the owner authorized a continuous sequential run**: “Proceed with V02 and sequential deep readings until all works are read, and all artifacts per the synthesis architecture are completed.” The [run record](#continuous-run-authorized-2026-10-14) below states how that instruction is resolved into a terminal boundary. Web witnesses and adaptations remain outside it. No character model or literary synthesis exists yet.
+
+## Prospective framework amendment — 2026-10-18
+
+The owner commissioned bounded methodology and architecture amendments to prevent semantic compression. The [report](08%20Audits%20and%20Manifests/SW_DIAGNOSTIC_RETENTION_AMENDMENT_REPORT.md) records the change and checks: analytical method **1.6**, architecture **1.27**, volume template **1.3**, character method **1.4**. Their new retention requirements are prospective. They do not establish that V1 met them, correct known literary omissions, or regrade completed readiness findings. The method's section 7.1 owns the semantic-retention gate; architecture sections 5.1 and 11 own evidence routing and future-generation isolation.
+
+**Current analytical authority remains the completed V1 baseline.** Its readings, freezes, claims/revisions, arguments, synthesis, readiness assessment and historical receipts remain intact at their existing homes; the pre-amendment integrated state is `14f077fa43012012f9eca72fd83fc0cadb971ac6`. Historical bootstrap/V01 statements and the continuous-run record below describe their original stages. Source high-water mark, admitted corpus, source locks and structured execution/lock fields are unchanged. The new method is not a retrospective semantic certification of V1; the reported compression concerns remain unadjudicated source-to-analysis issues, and this task authorizes no V1 literary correction.
+
+**No second generation or qualification review is authorized or started.** Before a full independent run: owner review of the amendments; a separately authorized screened technical/method packet and bounded pilot; an independent source-grounded qualification review with resolved gate findings; then separate full-run authorization and a generation-specific initiation/namespace/authority decision under architecture section 11. V1 interpretation-bearing documents, framework history and known omissions must stay outside that analyst's working evidence set. A steward supplies screened governance from this single entrypoint; the packet is not a second entrypoint. Freeze completed independent interpretations before any separately authorized cross-generation comparison or authority adjudication.
+
+The amendment's branch publication and exact-head audits are recorded by Git/CI; owner semantic approval and main integration must be verified separately. No new analytical execution follows this amendment.
 
 ## Authority and current work
 
@@ -147,6 +159,7 @@ The owner explicitly accepted the ten-file V1 bootstrap. Its paired method/archi
 | [Master longitudinal ledger](03%20Longitudinal%20Ledgers/SW_MASTER_LONGITUDINAL_LEDGER.md) | Cumulative home for character, relationship, knowledge, world, prospective-question, form, readiness and unit-closure records, V01 to V12, IV -after-, IX -extra- and both -another- volumes. |
 | [Ledger architecture correction report](08%20Audits%20and%20Manifests/SW_LEDGER_ARCHITECTURE_CORRECTION_REPORT.md) | The 2026-10-14 split of claims and revisions, revision-event and claim-metadata audit, character-state audit and repairs, decisions on the remaining sections, and integrity checks. |
 | [Claims and revisions ledger](03%20Longitudinal%20Ledgers/SW_CLAIMS_AND_REVISIONS_LEDGER.md) | Sole home of the 104 load-bearing claims and their 916 revision events, split from the master on 2026-10-14, with a current-view index, review receipts and the claim-review contract. |
+| [Diagnostic-retention amendment report](08%20Audits%20and%20Manifests/SW_DIAGNOSTIC_RETENTION_AMENDMENT_REPORT.md) | Six-path methodology amendment, preservation verification, validation scope and prerequisites for independent qualification; no literary findings. |
 | [Volume reading template](00%20Frameworks%20and%20Methods/SW_VOLUME_READING_TEMPLATE.md) | Reusable deep-reading contract; explicitly not V01. |
 | [Bootstrap report](08%20Audits%20and%20Manifests/SW_BOOTSTRAP_REPORT.md) | Design precedents, actual accesses/checks, limitations and acceptance gates. |
 | [Exact authored manifest](08%20Audits%20and%20Manifests/SW_BOOTSTRAP_PATH_MANIFEST.json) | Ten-path staging allowlist and bootstrap identity. |
