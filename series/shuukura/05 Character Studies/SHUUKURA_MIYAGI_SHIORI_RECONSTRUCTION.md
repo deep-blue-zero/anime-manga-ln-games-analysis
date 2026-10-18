@@ -1075,7 +1075,7 @@ The current wording of the cats numerical claim concerns permission to be cheris
 
 ## KSS10 historical evidence addendum — private veto and changed priority
 
-The [reading/index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_10_DEEP_READING.md#observation-locator-index) binds complete48 native anchors/26nonempty,26native literal checks, one explicit PDF black-glyph comparison fold/actual glyph crop and33original checks/344bindings. The crocodile tissue cover focalizes; black-cat happiness appraisal is its report. Miyagi has one actual current line and bounded visible handling; her complete present interior remains unavailable through the cover.
+The [reading/index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_10_DEEP_READING.md#recoverable-evidence-and-observation-locator-index) binds complete48 native anchors/26nonempty,26native literal checks, one explicit PDF black-glyph comparison fold/actual glyph crop and33original checks/344bindings. The crocodile tissue cover focalizes; black-cat happiness appraisal is its report. Miyagi has one actual current line and bounded visible handling; her complete present interior remains unavailable through the cover.
 
 | Responsibility | Evidence and negative constraint |
 | --- | --- |
@@ -1087,3 +1087,19 @@ The [reading/index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_
 | Readiness | Original M0.13/S0.14 fit/time/UNTESTED/noncurrent prefixes,13 historical attempts and18 forecast records unchanged. No operational packet, held-out test, numerical accuracy or unfamiliar/cross-series/acoustic validation added. |
 
 This evidence has descriptive and literary-form responsibilities. It does not validate a general human consent or care policy. Principal, Maika and Ami monographs and full time-bounded reconstruction assessments remain mandatory; objects do not require invented functional models or symmetrical monographs.
+
+
+## KSS11 historical evidence addendum — peer agency and limited reassurance
+
+The [reading/index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_11_DEEP_READING.md#observation-locator-index) binds complete68native anchors42nonempty/42literal checks, raw42/42PDF correspondence/five text-pixel pairs and12original checks/107bindings. Miyagi supplies actual phone words and a countertease, while Maika supplies the focalizing account; neither is a full current Miyagi interior.
+
+| Responsibility | Evidence and negative constraint |
+| --- | --- |
+| Time/channel | Maika chooses a call despite expecting little explanation; five rings and M local 大丈夫 answer establish this call's time approval, R162, not unrestricted private-topic consent. |
+| Information | M reports cafe work/night return, denies frequent quarrels and says enjoying solitude/reading. Maika teasing/nonloneliness inference/imagined face/qualified reassurance remain distinct; no complete M affect, actual reading or S return. |
+| Reciprocal agency | M returns 面白ガール with a reported Maika pillar-apology habit; Maika requests no mention and falls into pillow. R163 following uptake is unshown; current scene is a retelling, not new collision or universal habit test. |
+| Geography | Native Maika own parental-home selflocation versus original M Dec31舞香も実家に帰っていない is explicit unresolved tension. Current PROP-V09-018.v2 revises weighting, with no invented travel/secret lie/particle substitution or assumed separate fictional continuity. |
+| Chronology | Native current year end lacks exactday/year; original Dec29/Dec30 tutoring differs reported SS cafe work. No same-original-call identity established; adult principal source histories remain separate. |
+| Readiness | Original M0.13/S0.14 fit/time/UNTESTED/noncurrent,13historical attempts/18forecast records unchanged. No operational packet, held-out score, numeric accuracy or unfamiliar/cross-series/acoustic validation. |
+
+Maika's own family/autonomy motives, deliberation, concern and reciprocal vulnerability strengthen her REQUIRED individual monograph. Principal/Ami studies, full role-gap review and time-bounded reconstruction remain mandatory. Descriptive friendship evidence does not validate a universal teasing/care or information policy.
