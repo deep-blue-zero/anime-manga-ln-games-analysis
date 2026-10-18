@@ -1,0 +1,217 @@
+{
+  "schema": "KONOSUBA_EXP01_CURRENT_PRECISION_QUALIFICATIONS_V1",
+  "created_utc": "2026-10-18T13:39:42.331438+00:00",
+  "original_uncoded_history_unchanged": true,
+  "findings": [
+    {
+      "id": "Q01",
+      "qualification": "Exact local edition is the 2014 Japanese Megumin-turn spin-off; no narrative number is printed into the title. Electronic issue and print-base first edition are both2014-07-01.",
+      "source": "U007/U052"
+    },
+    {
+      "id": "Q02",
+      "qualification": "All54text units/3232paragraph slots/51images were actually received before the uncoded seal. Paragraph count alone omits18full image-only prose pages, image-only dialogue and comic components.",
+      "source": "Native admission/whole uncoded seal;IMG026–043"
+    },
+    {
+      "id": "Q03",
+      "qualification": "Main-body first person is Megumin; five named image interludes use Komekko first person. An Arue-attributed tourist article, embedded books, creator remarks and a closing comic have distinct access and authority.",
+      "source": "U014–049;IMG009/025–043"
+    },
+    {
+      "id": "Q04",
+      "qualification": "Current school slice explicitly12, Komekko5; the7year earlier incident is a classmate report. Do not infer exact birthdays or import final-main skills/permissions.",
+      "source": "U018P0023/0209/0325;P0407"
+    },
+    {
+      "id": "Q05",
+      "qualification": "The prologue request initially concerns a non-graphic body-image aspiration, then actual spell teaching is requested. Later real art love/origin remains genuine; neither moment cancels the other.",
+      "source": "U014/U016;U037P0314–0324"
+    },
+    {
+      "id": "Q06",
+      "qualification": "Megumin begins LV1/45points, advanced30available, Explosion50unavailable. Card46later; class duck gives2points; wildcard point discovery is only actually checked before first cast.",
+      "source": "U018P0048–0058;U023P0026–0033;U037P0129–0133;U043P0431–0456"
+    },
+    {
+      "id": "Q07",
+      "qualification": "Classroom spell graduation is acquisition, not merely reaching a point count. Yunyun could have delayed learning instead of deliberately missing a potion; that correction occurs only after her motive is disclosed.",
+      "source": "U037P0249–0274"
+    },
+    {
+      "id": "Q08",
+      "qualification": "Actually negotiated contest scope, a later dangerous method, withdrawal, threatened leverage and useful outcome are different. No broad assent or friendship authorizes every later act.",
+      "source": "U018P0066–0079;U023P0013–0024/0275–0320"
+    },
+    {
+      "id": "Q09",
+      "qualification": "Yunyun freely grants half lunch and Megumin repeatedly eats all. Their ongoing bond and renewed aid do not erase the limit or the repeated protest.",
+      "source": "U018P0254–0268;U023P0112–0128"
+    },
+    {
+      "id": "Q10",
+      "qualification": "Ordinary sister care is material: Megumin routinely gives her own breakfast, brings an actual sandwich, cleans Komekko and plans work before travel. It coexists with imposing costs on other people.",
+      "source": "U018P0410–0438/0586;U023P0213–0238;U037P0329"
+    },
+    {
+      "id": "Q11",
+      "qualification": "The wooden training weapons disprove the literal supernatural-strength lesson; poses and performed strain do not grant a new ability.",
+      "source": "U023P0371–0399"
+    },
+    {
+      "id": "Q12",
+      "qualification": "Megumin’s fake possession, invented other-self story, false barrier excuse and theatrical survival claims are actual in-world speech. They are not automatic H4 physical license.",
+      "source": "U018P0224–0238/0480–0494;U043P0099–0101"
+    },
+    {
+      "id": "Q13",
+      "qualification": "Actual storms, magical effects and unintended collateral remain literal in the fiction; style beliefs are not independently validated death-flag laws.",
+      "source": "U018P0185–0262;U023P0612–0633"
+    },
+    {
+      "id": "Q14",
+      "qualification": "Forced handling of Dodonko’s blade and the actual push making Yunyun stab remain coercive despite protective goals or later success.",
+      "source": "U023P0443–0451;U043P0038–0047"
+    },
+    {
+      "id": "Q15",
+      "qualification": "The teacher’s and Bukkorori’s admitted delayed rescues impose real risk; effective power and eventual survival do not establish prior safe judgment.",
+      "source": "U023P0501–0503;U028P0154–0159"
+    },
+    {
+      "id": "Q16",
+      "qualification": "Yunyun has independent genius-title aspirations beyond her father, practical judgments, bodily advantage, owned refusals and chosen help; loneliness alone is insufficient.",
+      "source": "U023P0305–0309;U037P0296–0309;U043P0211–0345"
+    },
+    {
+      "id": "Q17",
+      "qualification": "A classmate’s medicine need remains unverified, not conclusively fake. Megumin explicitly challenges relational exploitation regardless of that truth.",
+      "source": "U034P0102–0114;U037P0154–0168"
+    },
+    {
+      "id": "Q18",
+      "qualification": "Craft materials and recipe are actually permitted by the teacher; Arue helps, Yunyun makes separate pet medicine and the teacher supplies water. No sole-genius or cost-free laboratory success.",
+      "source": "U037P0049–0121"
+    },
+    {
+      "id": "Q19",
+      "qualification": "Extra ingredients are assumed stronger by the novice, not proven effective. Fictional potion manufacture gives no ordinary medical/chemical expertise by analogy.",
+      "source": "U037P0146–0154"
+    },
+    {
+      "id": "Q20",
+      "qualification": "Only the duck’s leek is needed for the cure. New EXP/food information precipitates actual killing after reassurance; this adverse turn is not repaired by subsequent helpful medicine.",
+      "source": "U037P0114–0134"
+    },
+    {
+      "id": "Q21",
+      "qualification": "Megumin actually retrieves and hands back the money; hidden help is correctly inferred by Yunyun. Claimed pure self-interest and no-one-troubled claims are contested, not analyst truth.",
+      "source": "U037P0199–0228"
+    },
+    {
+      "id": "Q22",
+      "qualification": "Meal cost after an explicit all-you-want invitation is not a fabricated earlier budget violation. Recipient complaint and actual permission both remain.",
+      "source": "U037P0226–0246"
+    },
+    {
+      "id": "Q23",
+      "qualification": "First shared-danger plea produces refusal; later sister threat and accepted contribution loss produce meaningful conflict. Do not erase the first refusal or require a pure moral motive for the later return.",
+      "source": "U037P0404–0407;U043P0183–0284"
+    },
+    {
+      "id": "Q24",
+      "qualification": "Advanced acquisition is initially only falsely announced/considered. Yunyun actually purchases intermediate magic, loses student advantages and acts; Megumin has not silently bought advanced too.",
+      "source": "U043P0194–0245"
+    },
+    {
+      "id": "Q25",
+      "qualification": "Komekko refuses the proposed solo escape and changes the practical risk calculation. Specific stay-near instructions are not proof she will obey every later plan.",
+      "source": "U043P0263–0314"
+    },
+    {
+      "id": "Q26",
+      "qualification": "Yunyun’s dream-protecting sacrifice does not endorse the build. Her continuing opposition, fatigue and repayment dispute preserve an independent valuation.",
+      "source": "U043P0339–0352"
+    },
+    {
+      "id": "Q27",
+      "qualification": "Megumin’s care includes actual carrying, but it causes pain and she solicits abandonment before the beneficiary enforces the precise safe-return promise.",
+      "source": "U043P0361–0381"
+    },
+    {
+      "id": "Q28",
+      "qualification": "Cat target and toy/child seal joins occur at identifiable later cues. Reader-only interludes do not become early narrator omniscience; plausible missed clues still remain analytically relevant.",
+      "source": "U043P0120–0135/0387–0404;IMG026–043"
+    },
+    {
+      "id": "Q29",
+      "qualification": "The first cast is powerful but unpracticed, has no staff and lacks independently secured full recovery. Actual instructions/getting low do not alone establish the complete safe-operation guard.",
+      "source": "U043P0445–0509"
+    },
+    {
+      "id": "Q30",
+      "qualification": "The caster’s stated future appreciation of companions is meaningful but not a validated permanent restraint policy. Near-village casting is actually postponed despite continuing desire.",
+      "source": "U043P0503–0509/0547–0562"
+    },
+    {
+      "id": "Q31",
+      "qualification": "The new goddess seal’s failure and false public divine-battle explanation are different claims. No unnamed goddess is supplied a fandom name or directly observed future location.",
+      "source": "U043P0532–0544;IMG040"
+    },
+    {
+      "id": "Q32",
+      "qualification": "The narrator’s no-injury/only-door-loss account has a stated local scope; it does not remove cat distress, coercion, earlier costs or the separate seal problem.",
+      "source": "U043P0564–0573"
+    },
+    {
+      "id": "Q33",
+      "qualification": "Wolbach-related lore in Horst’s speech, the hooded rescuer, actual black-beast half and Megumin’s quiet evil-god hypothesis retain unequal knowledge and evidential strength.",
+      "source": "U016P0019–0022;IMG026/038/041;U043P0589–0593"
+    },
+    {
+      "id": "Q34",
+      "qualification": "The five image prose interludes are integral named narrative components with page sequences3/3/4/4/4. The final credits’ lower comic is separately identified CO-EXP01-END-CODA; it is not swallowed by a credits-only tick.",
+      "source": "IMG026–043/025"
+    },
+    {
+      "id": "Q35",
+      "qualification": "Two classroom comic pages are inspected and analyzed non-graphically as peer pressure and uncertainty around bodily boundaries. Friendship labels and suggestive banter are not an inferred intimate contract.",
+      "source": "U035–036;IMG021–022"
+    },
+    {
+      "id": "Q36",
+      "qualification": "親子丼 is an actual dish-name misunderstanding central to the image interlude; it warrants form-dependent reconstruction. Idioms, theatrical names and ruby are not automatically L3.",
+      "source": "IMG036–039"
+    },
+    {
+      "id": "Q37",
+      "qualification": "All108 originally selected prose voice fragments exactly match their independently located native windows. They are purposeful witnesses, not a full speech census or acoustic/native-human certification.",
+      "source": "Post-seal native join check/voice register"
+    },
+    {
+      "id": "Q38",
+      "qualification": "The empty crystal is observed before the self-involvement limit is disclosed. The epilogue supports a rival interpretation, not a proven marriage or a retroactive shared explanation.",
+      "source": "U028P0439–0454;U049P0033–0047"
+    },
+    {
+      "id": "Q39",
+      "qualification": "Socket’s future advice has an actual withholding motive and Megumin objects to the forecasted treatment; divination does not authorize future harassment or constitute newly observed main events.",
+      "source": "U049P0019–0032/0049–0050"
+    },
+    {
+      "id": "Q40",
+      "qualification": "Original main-only66/historical72, four scores and14Dust blanks remain separate immutable controls. This informed expanded reading does not create a new blind forecast generation or close the full41 program.",
+      "source": "Pre-body context;seven local assessments;fixed source matrix"
+    },
+    {
+      "id": "Q41",
+      "qualification": "Current source-plane precision: the two classroom comic pages U035–036/IMG021–022 sit between the quoted heard-from-where question and Megumin’s immediately denied joking allegation in U037P0001–0004. The scene they visualize is not independent proof that the alleged past coercion occurred. Earlier uncoded notes calling it retrospective context remain verbatim historical reading notes, controlled by this correction. Inspect the comic non-graphically; do not promote its depiction or broad friendship enthusiasm into an actual intimate contract or actual verified episode.",
+      "source": "U034P0176–0179→U035/IMG021→U036/IMG022→U037P0001–0004"
+    },
+    {
+      "id": "Q42",
+      "qualification": "H-axis receiving precision before adoption: U018P0062–0096 andP0161–0200 are currentH2 because the source actually amplifies status sensitivity into repeated painful aggression and style investment into costly weather manipulation for a pose. Their events/effects remain literal; ordinary motives can transfer while magnitude requires recalibration. Earlier private all-H1 draft is preserved. Neither violence nor magical scale alone is a nonliteral H3/H4 exception. Currentselected76H records comprise74H1/2H2.",
+      "source": "Currenthumorregister;INITIAL_FORMAL_HUMOR_BEFORE_INTENSITY_PRECISION.json privatehistory"
+    }
+  ]
+}

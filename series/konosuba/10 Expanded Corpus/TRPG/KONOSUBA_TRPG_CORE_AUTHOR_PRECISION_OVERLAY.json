@@ -1,0 +1,60 @@
+{
+  "created_utc": "2026-10-18T00:13:03.378887+00:00",
+  "originals_unchanged": true,
+  "rows": [
+    {
+      "id": "TRPGC-Q01",
+      "target": "TRPGC-V023 / original S103 note",
+      "old": "いけるかなっと",
+      "current_short_exact_anchor": "ここはコイツでどうだ",
+      "reason": "The actual printed uncertainty phrase has a drawn-out vowel marker: いけるか～なっと. The original compressed form was normalization, not an exact quotation. Preserve the original and use the independently rechecked contiguous offer fragment publicly.",
+      "actual_recheck_spine": 103
+    },
+    {
+      "id": "TRPGC-Q02",
+      "target": "TRPGC-V024 / original S107 note",
+      "old": "ファイアー（タメ）ぼおおる",
+      "current_short_exact_anchor": "ファイアー",
+      "additional_short_exact_anchor": "（タメ）",
+      "reason": "The original note compressed graphic prolongation and is not an exact contiguous printed quotation. Actual lettering contains an extended pause and many vowel characters. The checked short fragments retain the material timing without reproducing the whole chant.",
+      "actual_recheck_spine": 107
+    },
+    {
+      "id": "TRPGC-Q03",
+      "target": "TRPGC-U044 / S115 printed113 optional-family label",
+      "old": "Original uncoded label 殺しの魔客 and killing-guest pun interpretation",
+      "current": "Do not publish this label as an established exact quotation or assert a proved pun; retain readable occupational reveal and explicit glyph/form uncertainty.",
+      "reason": "Full page plus two enlarged native crops inspected. The explanatory text clearly distinguishes an apparent magic fighter from an actual magical assassin; final label glyph and any specifically Japanese pun were not securely resolved by this reader. This narrowly limits the label, not the rest of the actual full miniature reading.",
+      "actual_recheck_spine": 115,
+      "effect": "Before final coding seal, U044 is UNCERTAIN for form; original uncoded record and preseal code draft retained. No main census or prediction change."
+    },
+    {
+      "id": "TRPGC-Q04",
+      "target": "TRPGC-V036",
+      "old": "Wiz profile → reader; age phrase retained in a voice selection",
+      "current": "The age phrase is the profile author’s biographical field, not a directly spoken Wiz turn. Retain it only as paratextual character framing; actual isolated Wiz tagline is 大丈夫ですよ.",
+      "actual_recheck_spine": 264,
+      "effect": "No original overwrite; current evaluation explicitly distinguishes narrator/profile from dialogue."
+    }
+  ],
+  "material_native_recheck_spines": [
+    64,
+    69,
+    75,
+    78,
+    84,
+    103,
+    107,
+    111,
+    115,
+    116,
+    205,
+    251,
+    254,
+    258,
+    263,
+    264,
+    265
+  ],
+  "scope": "These17 already fully viewed pages were displayed again for material form/context checks after the uncoded seal. No new source, peer notes, audio or OCR. Actual Japanese visible; original full-pass coverage is not counted again."
+}

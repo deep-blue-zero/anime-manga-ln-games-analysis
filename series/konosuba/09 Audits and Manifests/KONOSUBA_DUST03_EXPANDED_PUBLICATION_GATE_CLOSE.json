@@ -1,0 +1,69 @@
+{
+  "schema": "KONOSUBA_DUST03_EXPANDED_PUBLICATION_GATE_CLOSE_V1",
+  "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+  "closed_utc": "2026-10-18T06:35:26.264364+00:00",
+  "actual_source_commit": "da2babc20ac4553d7e1e576e0fdcb6ba98b0394c",
+  "tree": "36aa82d62d9293cf0fd4cabe2584dcbe83d83b57",
+  "all8369_remote_paths_equal": true,
+  "all34_changed_blob_streams_equal": true,
+  "source_audit": {
+    "run": 39103945422,
+    "job": 117605722774,
+    "actual_source": "da2babc20ac4553d7e1e576e0fdcb6ba98b0394c",
+    "paths": 8369,
+    "full_tests": 352,
+    "all5_non_success_zero": true,
+    "selection_enabled": false,
+    "log_sha256": "c325eada5bd86088950d1fce174b205237b2fd161e71a85323a2bb46243d7c44"
+  },
+  "housekeeping": {
+    "verified_utc": "2026-10-18T06:30:23.909867+00:00",
+    "actual_SOURCE_SHA": "da2babc20ac4553d7e1e576e0fdcb6ba98b0394c",
+    "run": 39104140091,
+    "job": 117606299063,
+    "result": "NO_OP",
+    "exact_final_source_dispatch_verified": true,
+    "log_sha256": "a2fe132295885981e0517f329b4dac77f4c6ce8b65b3df7095460ae4538840a0",
+    "workflow_run_metadata_head": "308f4db1c492f23699c6021afe756074cce99117",
+    "started_at": "2026-10-18T06:28:16Z",
+    "completed_at": "2026-10-18T06:28:41Z",
+    "selected_actual_lines": [
+      "  BRANCH_NAME: series/konosuba",
+      "  SOURCE_SHA: da2babc20ac4553d7e1e576e0fdcb6ba98b0394c",
+      "  BRANCH_NAME: series/konosuba",
+      "  SOURCE_SHA: da2babc20ac4553d7e1e576e0fdcb6ba98b0394c",
+      "  BRANCH_NAME: series/konosuba",
+      "  SOURCE_SHA: da2babc20ac4553d7e1e576e0fdcb6ba98b0394c",
+      "PASS: dispatched the full audit for da2babc20ac4553d7e1e576e0fdcb6ba98b0394c",
+      "PASS: unchanged routing and branch boundaries verified; final audit dispatched"
+    ]
+  },
+  "final_audit": {
+    "run": 39104164541,
+    "job": 117606373548,
+    "actual_source": "da2babc20ac4553d7e1e576e0fdcb6ba98b0394c",
+    "paths": 8369,
+    "full_tests": 352,
+    "all5_non_success_zero": true,
+    "selection_enabled": false,
+    "log_sha256": "fcd4cb9eeed834840deddc0346914added242b8bd831849203483e4e4feb55cf",
+    "actual_snapshot_from_PASS": "da2babc20ac4553d7e1e576e0fdcb6ba98b0394c",
+    "displayed_workflow_head_metadata": "308f4db1c492f23699c6021afe756074cce99117"
+  },
+  "exact_commit_status": {
+    "url": "https://api.github.com/repos/deep-blue-zero/anime-manga-ln-games-analysis/statuses/da2babc20ac4553d7e1e576e0fdcb6ba98b0394c",
+    "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+    "id": 56620726425,
+    "node_id": "SC_kwDOUJ9ads8AAAANLtu4mQ",
+    "state": "success",
+    "description": "Exact commit passed the repository audit",
+    "target_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39104164541",
+    "context": "Repository integration audit",
+    "created_at": "2026-10-18T06:34:01Z",
+    "updated_at": "2026-10-18T06:34:01Z"
+  },
+  "source_branch_head": "da2babc20ac4553d7e1e576e0fdcb6ba98b0394c",
+  "current_main": "308f4db1c492f23699c6021afe756074cce99117",
+  "source_main_integration_not_asserted": true,
+  "next": "Fresh published authority reload below, then separate exact next-source admission. Full fixed41 program remains active."
+}
