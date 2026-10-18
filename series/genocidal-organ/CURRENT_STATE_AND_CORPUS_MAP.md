@@ -5,7 +5,7 @@ artifact_type: corpus_map
 series: Genocidal Organ / 虐殺器官
 series_id: genocidal-organ
 generation: GENOCIDAL_ORGAN_BOOTSTRAP_V1
-version: '0.35'
+version: '0.36'
 status: active_provisional
 scope: Completed original-Japanese G1/G2 and owner-authorized G3 specialists, four literary monographs and convergence; G4/G5 readiness only
 source_boundary: GO-JP-EPUB-001 complete; GO-U001–028 through natural epilogue40/41; all44spine occurrences explicitly disposed
@@ -86,8 +86,8 @@ repository_state:
   stable_branch: series/genocidal-organ
   routing_input: series/genocidal-organ/.repository/series-registry.json
   materialization_status: PRESENT_REVIEWED
-  main_integration: G1_PR188_AND_G2_PR215_MERGED_G3_BRANCH_PUBLICATION_SEPARATE
-  integration_hold_required: OWNER_CONTROLLED_G3_REVIEW_AND_SEPARATE_MERGE_AUTHORIZATION
+  main_integration: G1_PR188_AND_G2_PR215_MERGED_G3_OWNER_REVIEWED_AUTHORIZED_PR227_LIVE_TRANSACTION
+  integration_hold_required: FRESH_EXACT_HEAD_AUDITS_AND_PROTECTED_PR_MERGE
 ---
 
 # Genocidal Organ / 虐殺器官 — current state and corpus map
@@ -110,7 +110,7 @@ The [complete source coverage and run handoff](07%20Audits%20and%20Handoffs/GENO
 | Character readiness | Post-reading G2:2 MULTICONTEXT_CANDIDATE,6 DOMAIN_BOUNDED,43 RECOGNITION_ONLY; all51 independently reassessed for monograph eligibility/domain ceilings; all model production NOT_STARTED and validation NOT_PERFORMED |
 | Formal downstream gates | G2 accepted and merged in PR215; G3 four specialists/four monographs and substantive cross-study convergence independently semantically complete. G4/G5 readiness only; no integrated synthesis, model or validation; G6 unperformed |
 | Architecture | INITIAL and current three cumulative owners retained after bounded completion role-gap review; no empty specialist/model homes |
-| Repository integration | PR188 and navigation repair remain accepted. PR215 merged on 2026-10-18 at `a81103f2a9e67e36cae09a5e8365ca57a4f3e160` after the exact G2 audit chain; the new G3 work continues on the same stable branch in [draft PR227](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/227). Protected-main integration remains separate |
+| Repository integration | PR188 and navigation repair remain accepted. PR215 merged on 2026-10-18 at `a81103f2a9e67e36cae09a5e8365ca57a4f3e160` after the exact G2 audit chain. The owner reviewed [G3 PR227](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/227) and authorized reconciliation and protected-main merge; its live merged state, integration commit and exact-head audits supply the transaction result |
 
 ## Retrospective G2: current argument routes
 
@@ -151,3 +151,7 @@ Live [AGENTS](../../AGENTS.md), [authority state](../../governance/AUTHORITY_STA
 ## G3 current studies and convergence boundary
 
 The new instruction commissions the existing architecture's full G3 responsibilities. Read the [role-allocation review](00%20Frameworks%20and%20Methods/GENOCIDAL_ORGAN_SYNTHESIS_ARCHITECTURE.md#owner-authorized-g3-role-allocation--2026-10-18), [eight registered arguments CL089–096](03%20Longitudinal%20Ledgers/GENOCIDAL_ORGAN_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md#go-g3-specialist-arguments), [four monographs and unchanged readiness](03%20Longitudinal%20Ledgers/GENOCIDAL_ORGAN_ACTOR_RELATIONSHIP_AND_READINESS_LEDGER.md#go-g3-monograph-disposition), and [institutional dependency route](03%20Longitudinal%20Ledgers/GENOCIDAL_ORGAN_KNOWLEDGE_INSTITUTIONS_AND_COERCION_LEDGER.md#go-g3-institutional-dependencies). Those routes identify all four specialists and the Clavis/Williams/John Paul/Lucia studies without a duplicate catalog. All G1 readings/forecasts and G2 predecessor arguments remain preserved. The [G3 convergence/readiness handoff](07%20Audits%20and%20Handoffs/GENOCIDAL_ORGAN_G3_CONVERGENCE_AND_HANDOFF.md) independently disposes cross-study consistency, nonredundancy, mandatory-role coverage, actual defects and surviving alternatives. No mandatory G3 analytical/evidence obligation remains. G4 integrated synthesis, G5 models/validation and G6 release remain unperformed; their readiness is not completion. Exact publication acceptance remains bound to the actual final source/HK/audit SHA rather than inferred from this prose.
+
+## Owner-reviewed G3 integration — 2026-10-18
+
+After reviewing PR227, the owner explicitly instructed reconciliation and merge to main. This later instruction releases the G3 owner-review and separate-merge-authorization hold; earlier G3 task statements about protected-main integration describe that task's original scope. Ordinary preservation merges, fresh source/housekeeping/final exact-head audits, protected PR integration and a successful exact resulting-main audit remain required. The live PR and linked Actions results own the eventual integration identity and outcome. This administrative authorization update preserves the reviewed studies, cumulative ledgers, G1/G2 histories and completed/NONE source boundary; it performs no G4 synthesis, G5 reconstruction or G6 release.
