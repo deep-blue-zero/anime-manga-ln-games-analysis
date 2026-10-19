@@ -72,7 +72,7 @@ Artbook prose, embedded bonus fiction (including fiction within main-series EPUB
 | DUST-04 | Konosuba Extra - Dust - Volume 04.epub | PRINCIPAL_SUPPLEMENTAL_NOVEL_ANALYSIS | Not admitted by metadata reconciliation |
 | DUST-05 | Konosuba Extra - Dust - Volume 05.epub | PRINCIPAL_SUPPLEMENTAL_NOVEL_ANALYSIS | Not admitted by metadata reconciliation |
 | DUST-06 | Konosuba Extra - Dust - Volume 06.epub | FOUR_DESIGNATED_FROZEN_MODEL_VALIDATION_BOOKS | Five principal members read; unchanged-R1 validation accepted; full Stage C literary/component responsibilities pending; excluded bodies CLOSED |
-| DUST-07 | Konosuba Extra - Dust - Volume 07.epub | FOUR_DESIGNATED_FROZEN_MODEL_VALIDATION_BOOKS | Not admitted by metadata reconciliation |
+| DUST-07 | Konosuba Extra - Dust - Volume 07.epub | FOUR_DESIGNATED_FROZEN_MODEL_VALIDATION_BOOKS | Five principal members read; unchanged-R1 validation/four-book reconciliation accepted; containing publication gate pending; Stage C responsibilities pending; excluded bodies/images CLOSED |
 | DUST-CONT | Konosuba Extra - Dust - Motto Ano Orokamono ni mo Kyakkou wo - Himesama kara no Shoutaijou.epub | PRINCIPAL_SUPPLEMENTAL_NOVEL_ANALYSIS | Not admitted by metadata reconciliation |
 | EXP-01 | Konosuba - Spin-off - Explosions - Volume 01.epub | PRINCIPAL_SUPPLEMENTAL_NOVEL_ANALYSIS | Not admitted by metadata reconciliation |
 | EXP-02 | Konosuba - Spin-off - Explosions - Volume 02.epub | PRINCIPAL_SUPPLEMENTAL_NOVEL_ANALYSIS | Not admitted by metadata reconciliation |
@@ -162,3 +162,194 @@ MASK's full gate closed at 18:20:00.931531Z on 404591ed before Dust06 principal 
 Only Dust06's mutable reading/validation/component fields and register row advance. All other 40 objects/rows, identity, edition, publisher credits and provenance fields remain exact, with the fixed 41-object seal unchanged. Afterword p-007 (40 paragraph slots/1,673 base characters), excluded front/end, colophon and promotional bodies remain semantically unread; all 19 actual image resources remain unviewed. Principal validation does not certify absence of bonus fiction, whole-edition coverage or complete Stage C literary analysis. R1 models/43 contracts, prior scores and all prospective histories remain unchanged. Twenty separately tagged Phase B ledger observations do not enter main-only derivation.
 
 Dust06's containing publication gate remains pending at this authorship; latest fully audited source is 0d8067f1. Close its separate readback/source audit/housekeeping/final exact-head audit before Dust07 admission. Full four-book validation, 19 supplemental prose books, 17 main-edition excluded-component programs, five actual mixed/reference inspections, expanded analysis, attributable revisions and final synthesis/index/audit responsibilities remain active. No final release or archival closure is asserted.
+
+
+## Fourth holdout and four-book reconciliation — 2026-10-17T21:23:16.911562+00:00
+
+DUST07 principal validation and all 39 four-source diagnoses were accepted at 2026-10-17T21:16:29.555881+00:00 under unchanged MAIN_ONLY_R1: DUST07 has 6 C(E01–E05/E07), 1 P(E08), 1 local F(E06), 31 NT(named principal contracts), plus four generated-only source N/A controls. These are overlapping source-specific dispositions, not accuracy or 156 independent trials. The [four-book report](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_WITHHELD_SOURCE_VALIDATION.md) preserves YORI K08/DUST07 E06 failures, uncertain rivals and original scores; no baseline revision occurs.
+
+Exact DUST07 EPUB is 4,740,436 bytes/SHA256 `cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5`. Pro/C01/C02/C03/Epi, item/xhtml/p-002.xhtml through p-006.xhtml, were fully read: 2,881 all-body P slots, 2,769 nonempty, 100,169 base characters, 2,837 ruby and 4,367 rt nodes. [Source receipt](../04%20Checkpoints%20and%20Model%20Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST07_SOURCE_AND_READING_RECEIPT.json) binds exact native members/locators/exposure limits. DUST06 full gate closed 20:11:08.526739Z on 757c58fc before DUST07 principal admission 20:13:03.558500Z. Historical authored pending/metadata-only statements remain intact and reconciled here.
+
+Only DUST07 current reading/validation/component fields and its narrative register advance; other 40 source objects/register rows and fixed 41 identity seal remain exact. Historical package counts/metadata statements, edition/provenance/creator-role distinctions and colophon-pending status are preserved. Afterword p-007 (35 P slots/1,769 base characters), all 19 actual image resources and excluded front/end/colophon/promotional bodies remain semantically unread/unviewed. No bonus-absence, whole-edition or complete Stage C literary claim follows. All four principal validations accepted does not mean all four entire editions analyzed.
+
+The containing fourth-source/four-book publication gate remains pending; Stage C narrative admission is CLOSED until exact readback/source audit/housekeeping/final actual-SHA audit succeeds. Latest fully audited source is 757c58fc. After successful gate and fresh published reload, complete all 19 supplemental prose books/components, 17 main-edition excluded-component programs and five actual mixed/reference inspections, then expanded synthesis, attributable Stage D revisions, final synthesis/indexes/audit. The sole canonical current-state entrypoint remains active; no archival release is asserted.
+
+
+## Current Stage C DUST-01 whole-edition acceptance — 2026-10-17T22:53:08.846506+00:00
+
+The four-book c781 publication gate closed successfully 21:58:19.916567Z; earlier pending observations above are historical, not current source locks. After published-authority reload, DUST-01 was separately admitted and its nine-member complete principal, all 16 nonprincipal containers, bonus アクアを観察 and all 27 actual images were analyzed. The [reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V01_DEEP_READING.md), [component analysis](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V01_COMPONENT_ANALYSIS.md) and [register](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V01_COMPONENT_REGISTER.json) carry actual scope, native locators, corrections and authority limits. Exact native hash b77ac48f…/19,450,953 bytes, roles and 2017-08-01 supplied colophon are checked;2023 package modification does not date bonus publication.
+
+Two new mutable Stage C overlays on DUST-01 object/register record this later acceptance. All 41 original identities, source audits, metadata-only observations and the fixed identity seal remain unchanged; other 40 objects/register rows are exact. Supplied-object coverage is complete, but bonus date/duplicate relationships and the broader program remain open. Other holdout whole editions, all remaining supplemental works,17 main excluded-component programs and five mixed/reference programs remain separately accountable. No global component-denominator percentage is claimed before mapping is complete. Containing Dust01 publication remains pending at this authorship.
+
+
+## Dust01 publication-state reconciliation — 2026-10-17T23:14:53.541860+00:00
+
+The later exact source `0ce33a0f` full gate closed `2026-10-17T23:12:06.135006+00:00` after8,267-path/40-stream readback and successful source39077474836/NO_OP housekeeping39077685853/final39077711607; both audits ran all352tests. Prior containing-pending wording is historical at authorship. The two DUST01 current Stage C status fields now retain that old authored value alongside the successful source/close/receipt route. No source identity, prior metadata observation, other40object/register row, frozen model/prediction or score changes. Dust02 principal and FAN-MEM inspection have separate verified admissions, with no reading/completion credit from byte/hash/metadata work.
+
+
+## Attributable Stage C artbook component acceptance — 2026-10-17T23:27:29.977226+00:00
+
+ART-CHEERS all137 and ART-BLESSING all157 actual native pages now have accepted supplied-component analyses/registers under `10 Expanded Corpus/Artbooks/`. Author prose, illustrated frame/song/banter, reproduced/adapted art, creator/reference/promotion and paratext receive separate authority dispositions. Current JSON overlays add exact routes to the two source-object and two narrative-register rows; original metadata observations/all41identity seal remain unchanged. Cheers V5 corrects initial source errors and preserves contrary page-edge evidence; Blessing initial H3 labels remain historical with all28rationale qualifications. Containing publication gate pending. Other three mixed volumes and the full19prose/17main-excluded-component program remain separately accountable; no global component percentage is inferred.
+
+
+## Stage C two-artbook publication reconciliation — 2026-10-18T00:01:50.341293+00:00
+
+ART-CHEERS andART-BLESSING supplied-component programs are accepted/published/full-gate closed at`1ef78c578734f01c3806eaa65bc346f6da5e10ab` (2026-10-17T23:44:50.688567+00:00). Source39079377125/NO_OP housekeeping39079583747/final39079611210 and exact successful status bind that source; both audits passed352tests. See [exact closure](../09%20Audits%20and%20Manifests/KONOSUBA_TWO_ARTBOOKS_EXPANDED_PUBLICATION_GATE_CLOSE.json). The JSON receives only later-attributed StageC publication fields on those two object/register rows. Original metadata no-inspection/not-admitted observations remain historical;41identity seal unchanged. This completes2of5mixed supplied programs and1of19prosewhole-editions (Dust01); it is not a global narrative percentage. FAN/CORE/Dust02 candidates remain separately active, not complete.
+
+
+## Later Stage C FAN-MEM supplied-component acceptance — 2026-10-18T00:05:03.198219+00:00
+
+All121actualpages/21groups/threefictionbodies areanalyticallyaccepted with [complete unequal-authorityregister](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_REGISTER.json) and [boundedreceiving](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_RECEIVING_REVIEW.md). The source41identityseal/originalmetadataobservationsremainunchanged; twoFANobject/registerStage Coverlayssupplylateractualcoverage. Publicationgatepending. Threeof5mixedobjectsareanalyticallyaccepted,two published; one of 19supplementalwhole editionsaccepted,all 17mainextrasprogramsremain. Globalcomponentdenominatorunresolved, percentage null; nofourholdoutwhole editioncompletionornew R1score.
+
+
+## Memorial Fanbook gate closure and owner pause — 2026-10-18T00:24:33.030461+00:00
+
+FAN-MEM supplied-component analysis is accepted/published/full-gate closed at`31921a9c7c85976b70ae7ba8d26e6ccba8073a9a`, actual tree`1ded98851bd88fc980dbed474f4527a6b204defd`. Source39081695574/NO_OP housekeeping39082040699/final39082063885 and exact successful status bind that source; both audits passed352 tests. See [exact closure](../09%20Audits%20and%20Manifests/KONOSUBA_MEMORIAL_FANBOOK_PUBLICATION_GATE_CLOSE.json). This later StageC publication overlay preserves the original metadata audit and fixed41seal. Threeof5mixed programs andoneof19whole prose editions are published; DUST02 and CORE packets are sealed but unaccepted. The owner paused after this immediate gate; no new source or further analysis is released until owner resume and authority recovery. These reconciliation edits remain local/uncommitted, distinct from audited31921a9c.
+
+## Later owner resumption and local-source recovery — 2026-10-18T01:00:29.876928+00:00
+
+The historical pause above remains preserved. The owner has now supplied the verified archive and explicitly resumed the complete governed program with local EPUBs. All41 native identities/sizes/SHA256/CRC/Japanese OPF checks match the fixed snapshot; this changes no component reading or acceptance state. The [recovery receipt](../09%20Audits%20and%20Manifests/KONOSUBA_OWNER_RESUME_AND_LOCAL_HANDOFF_RECOVERY_20261018.json) and single current entrypoint identify the pending recovery publication gate. Dust02/Core remain unaccepted, all frozen outcomes stay exact and the global component percentage remains null.
+
+
+## Dust02 supplied-edition analytical acceptance after local recovery — 2026-10-18T01:39:32.953430+00:00
+
+Recoveryee740bf0 closed its full gate. DUST-02 now has accepted literary/component analysis:3052principal P,139excluded P in16containers,17nav, complete bonus p010P1-67 and23 inspected native images. The [receiving record](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V02_RECEIVING_AND_PROVENANCE.json) distinguishes two full source passes, bounded root checks, informed same-lineage limits, original labels and current partial/supportive conclusions. Two expanded_stage_C overlays leave original metadata and other40 object/register rows exact. Fixed41 identities and frozen authority remain unchanged.
+
+Book accounting is2of19 supplemental editions accepted, this containing gate pending, and3of5 mixed programs accepted/published. All17 main excluded-component programs and later expanded/Stage D/full-corpus work remain. Global component denominator unresolved, percentage null. Dust03 requires exact gate/reload then separate admission. Core separately admitted/unaccepted.
+
+
+## Dust02 exact publication reconciliation — 2026-10-18T02:04:16.716239+00:00
+
+DUST-02 is accepted/published/full-gate closed at8656b8ae, actual tree407a09ca. Source39087791087,NO_OP housekeeping39088120420 and final39088145784 bind that actual source; both audits passed352 full tests with zero non-success and exact successful final status. See the [gate receipt](../09%20Audits%20and%20Manifests/KONOSUBA_DUST02_EXPANDED_PUBLICATION_GATE_CLOSE.json). Fresh published reload verified281 project streams,66current/72historical pins, four scores and14 original blanks. Only two later DUST02 Stage C publication overlays change; original metadata/fixed41 seal/other40 object-register rows remain unchanged. Book accounting2of19 prose and3of5mixed published; global percentage null. Core receiving stays unaccepted; Dust03 needs separate exact admission despite its prior publication prerequisite now being closed.
+
+
+## TRPG Core supplied-edition acceptance — 2026-10-18T02:29:30.403076+00:00
+
+TRPG-CORE is accepted at its stated component scopes with containing publication pending: all333original native-page dispositions, complete edited replay/guide/scenario and eligible flavor,75selected premises/41voice witnesses/30ledger entries. Root received all analytical records and checked43unique nativepages, including complete250-260guide and298-311scenario. [Analysis](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_DEEP_READING.md) and [current receiving](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_RECEIVING_AND_PROVENANCE.json) retain conditional cover, resolved glyph/unproved pun, limited L3 warrant and other current qualifications. Original records/codes remain exact. Both Core overlays leave the other40objects/register entries and metadata histories unchanged.
+
+Book accounting remains2of19 supplemental editions; mixed programs are4of5accepted including this pending publication and3of5already published. Global admitted-component denominator unresolved; percentage null. No new source admission before this exact publication/readback/full gate and fresh reload. Advanced and Dust03 remain unopened.
+
+
+## TRPG Core exact publication reconciliation — 2026-10-18T02:48:16.499772+00:00
+
+Core source`01d9273078ff4d836984af086c16ee8633edc0c8`, tree`dd9f52d88bdca2507775c2403d0489233f404365` is accepted/published/full-gate closed at stated component scopes. Both source/final audits passed352fulltests with all five non-success counterszero and selectiondisabled; NO_OP housekeeping dispatched the exactfinalsource. All8335remote paths/37changedblobstreams matched. The [Core gate receipt](../09%20Audits%20and%20Manifests/KONOSUBA_TRPG_CORE_EXPANDED_PUBLICATION_GATE_CLOSE.json) closes earlier containing-pending history. Fresh published reload verified300projectstreams/66currentpins/four scores/original14blanks. Other40object/register rows and fixed41identity remain unchanged. Mixedprograms4of5published, supplemental2of19; global narrativepercentage null. Next is separate exact TRPG-ADV admission; Dust03unopened. Full program continues.
+
+
+## TRPG Advanced exact local admission — 2026-10-18T02:48:19.409431+00:00
+
+TRPG-ADV exact123248665bytes/SHA256`2efe00b0a914cf725dfd8a52a1983b8f633705330054bf82b0b9e09165cd9e7c`, freshCRC/jaOPF and331nativeimage-wrapper routes pass after Core fullgate/freshauthorityreload. Ordered actualreading active/unaccepted, first12views acknowledged; no completion/score/independence claim and no formal codes before fulluncodedseal. Both later Advancedadmission overlays preserve original metadata and other40rows. Full remaining program continues; global narrativecomponentpercentage null.
+
+
+## TRPG Advanced supplied-edition acceptance — 2026-10-18T05:03:55.185963+00:00
+
+[Advanced full reading](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_ADV_DEEP_READING.md) is accepted at331actual individual component scopes, containing publication/full gate pending. All eligible continuous bodies were read after separate exact admission and complete uncoded seal;282uncoded observations/49original context witnesses remain exact, with100selectedpremises/49formalvoice/30ten-ledger additions. All331native/archive/local wrapper-image joins were reverified; same informed root is not independent replication. Both Advanced overlays preserve initial metadata/admission histories and the other40object/register rows. Five mixedprograms accepted including this pending publication, four published; supplemental whole editions2of19; global narrative-component percentage null. Close exact gate/reload before Dust03 admission.
+
+
+## TRPG Advanced exact publication reconciliation — 2026-10-18T05:23:36.166158+00:00
+
+Advanced source`c121df158194c0fd01608899ed07080520b9cfc0`/tree`4ee04aad4fec7e1989f9ccc33771506a6f237f8e` is accepted/published/full-gate closed at331individual component scopes. All8351remote paths/32changedstreams match. Source39099672458/final39100029214each passed352fulltests,allfive non-success counterszero,selectiondisabled;NO_OPhousekeeping39100006603dispatched finalactualsource and exact integrationstatus succeeded. [Gate receipt](../09%20Audits%20and%20Manifests/KONOSUBA_TRPG_ADV_EXPANDED_PUBLICATION_GATE_CLOSE.json) closes earlier pending history. Fresh316project/66current/fourscores/original14blank reload completed2026-10-18T05:23:33.141746+00:00;72historicalpins remain exact. Fiveof5mixedprograms published at their stated scopes; supplemental whole editions2of19/globalpercentage null. Next separate Dust03 admission, still unopened here; full remaining program continues.
+
+
+## Dust03 separate native admission — 2026-10-18T05:25:42.861042+00:00
+
+DUST-03exactnative18686443bytes/SHA256`58b6a86f341eff89b1b4743c0a62a0c1535c8b4ecb1163fe104fda7fa26f3040`,freshCRC/jaOPF,25textunits/24imagesstructurallyprepared after closedAdvancedgate/freshpublishedreload. Admission/pre-bodyseal contain0actualnewparagraphs/0images; ordered whole-edition source-first reading active/unaccepted. Original seven questions/fourteen blanks and frozen scores remain exact. Both Dust03overlays preserve other40source rows; bookaccounting2of19/mixed5of5published/globalpercentage null.
+
+
+## Dust03 supplied-edition acceptance — 2026-10-18T06:18:22.445096+00:00
+
+[Full reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_DEEP_READING.md) is accepted at25actual textual/24native image component scopes, containing exact publication/full gate pending. Principal2755P/other131P include the complete50Pbonus; all ruby and nonparagraph residuals actually read, with a complete uncoded seal before60selectedwholepremises/77native-verifiedvoice/7localassessments/34ten-ledger additions. [Current qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_CURRENT_PRECISION_QUALIFICATIONS.json) preserve source-first image/section-label errors, duplicate prologue, actual rescue obstruction, exact spear exceptions and checking counterevidence. Both Dust03 overlays preserve original admission and other40rows. Three supplemental whole editions accepted/twoalready published; allfive mixedprograms published; globalcomponentpercentage null. Complete exact gate/reload before Dust04 admission; full remaining program continues.
+
+
+## Dust03 exact publication reconciliation — 2026-10-18T06:35:31.335816+00:00
+
+Dust03 source`da2babc20ac4553d7e1e576e0fdcb6ba98b0394c`/tree`36aa82d62d9293cf0fd4cabe2584dcbe83d83b57` is accepted/published/full-gate closed at25text/24image supplied-edition scopes. All8369remote paths/34changedstreams match. Source39103945422/job117605722774and final39104164541/job117606373548each352fulltests/zeroallfive non-success/selectionfalse; housekeeping39104140091/job117606299063NO_OP/exactfinalsource dispatch; exact integrationstatus succeeds on the actual source. [Gate receipt](../09%20Audits%20and%20Manifests/KONOSUBA_DUST03_EXPANDED_PUBLICATION_GATE_CLOSE.json) closes prior containing-pending history. Fresh334project/66current/fourscores/original14blank reload2026-10-18T06:35:31.151608+00:00preceded any next source admission;72historicalpins unchanged. Supplemental whole editions3of19 and allfive mixedprograms published at stated scopes; globalcomponentpercentage null. Dust04stillunopened and requires separate admission; fullremainingprogram continues.
+
+
+## Dust04 separate native admission — 2026-10-18T06:36:42.859366+00:00
+
+DUST-04exactlocal`Konosuba Extra - Dust - Volume 04.epub`,11564184bytes/SHA256`db62634fde71d33a45d2bb4832611825ff6853efdd7cac1bc4d0fc99b47f2c23`,freshCRC/JapaneseOPF/21textunit/24image structure verified only after preceding source`da2babc20ac4553d7e1e576e0fdcb6ba98b0394c`fullgate/freshreload. Pre-body informed-root context sealed, original sevenDust01questions and14blankfuturefields unchanged. Actualnewbody/imagecredit0atadmission; extraction is not literary completion. Whole-edition source-first readingactive/unaccepted; no formal outcomes until complete uncodedseal. Other40rows unchanged; fullremainingprogramcontinues.
+
+
+## Dust04 supplied-edition acceptance — 2026-10-18T07:29:49.102050+00:00
+
+[Full reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_DEEP_READING.md) is accepted at21actual textual/24native image scopes, containing exact publication/full gate pending. Principal2648P/other61P/total2709P, no separately supplied bonus; all ruby/residuals/images read before the07:07:56UTCuncoded seal and68selectedpremises/80nativeverifiedvoice/7localassessments/34ten-ledger appends. [23current qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_CURRENT_PRECISION_QUALIFICATIONS.json) retain actual coercion, partial trigger comparability, provider motives, failed mission, paid compensation, duplicate frame and unsettled accounting. Original admission and allother40rows remain exact. Supplemental4accepted/3already publishedof19; mixed5published; globalpercentage null. Close fullgate/freshreload before Dust05 admission; fullprogram continues.
+
+
+## Dust04 exact publication reconciliation — 2026-10-18T07:47:09.945880+00:00
+
+Dust04 source`a3451baadc55920d79d82c702e9cfc6d6eb817c0`/tree`14f61171233e0b9816213dfd951f5cc5e19daebe` is accepted/published/full-gate closed at21text/24image supplied-edition scopes. All8387remote paths/34changedstreams match. Source39108260010/job117618687790and final39108563252/job117619585614each352fulltests/zeroallfive non-success/selectionfalse; housekeeping39108534761/job117619502548NO_OP/exactfinalsource dispatch; exact integrationstatus succeeds on the actual source. [Gate receipt](../09%20Audits%20and%20Manifests/KONOSUBA_DUST04_EXPANDED_PUBLICATION_GATE_CLOSE.json) closes prior containing-pending history. Fresh352project/66current/fourscores/original14blank reload2026-10-18T07:46:42.711151+00:00preceded any next source admission;72historicalpins unchanged. Supplemental whole editions4of19 and allfive mixedprograms published at stated scopes; globalcomponentpercentage null. Dust05stillunopened and requires separate admission; fullremainingprogram continues.
+
+
+## Dust05 separate native admission — 2026-10-18T07:48:01.838206+00:00
+
+DUST-05exactlocal`Konosuba Extra - Dust - Volume 05.epub`,6713820bytes/SHA256`bdd0f7af1fe772cf0c760ebf2e1b9c7e2bd1fc7ed7d84ad9c4ec1d887e422ffc`,freshCRC/JapaneseOPF/19textunit/21image structure verified only after preceding source`a3451baadc55920d79d82c702e9cfc6d6eb817c0`fullgate/freshreload. Pre-body informed-root context sealed, original sevenDust01questions and14blankfuturefields unchanged. Actualnewbody/imagecredit0atadmission; extraction is not literary completion. Whole-edition source-first readingactive/unaccepted; no formal outcomes until complete uncodedseal. Other40rows unchanged; fullremainingprogramcontinues.
+
+
+## Dust04 N01 attributable precision — 2026-10-18T08:13:02.489477+00:00
+
+[Current narrow correction](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_N01_COERCIVE_DANGER_PRECISION.json) removes the added bodily-injury threshold from the unchanged coercive-danger contract and counts the unilateral leisure wager after no as direct contrary choice. Original a3451baa report/assessment/uncoded streams remain exact historical publication; actual protection and Dust03 contrary evidence remain. Correction is dated after Dust05uncoded reading through U011P1344; no Dust05formal outcome or original prebody rewrite. Joins the next exact publication/full gate.
+
+
+## Dust05 supplied-edition acceptance — 2026-10-18T09:04:10.135762+00:00
+
+[Full reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_DEEP_READING.md) accepted at19text/21image scopes, containing exact publication/full gate pending. Principal2733P/other60P/total2793P; all ruby/residuals/images before08:23:51UTCuncodedseal.68selectedpremises/98nativevoice/7unchangedquestionassessments/34ten-ledgerappends. [29qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_CURRENT_PRECISION_QUALIFICATIONS.json) retain active secrecy, actual identity/transformation disclosures, coercive-delay adverse evidence without bodily threshold, partial new trigger, term-checking counterevidence, owned refusal/force, forest remainder and payment/permission stages. Original admission/allother40rows retained, including additive Dust04 current precision. Supplemental5accepted/4already publishedof19; mixed5published; globalpercentage null. Close fullgate/freshreload before Dust06 whole-edition admission; fullprogramcontinues.
+
+
+## Dust05 exact publication reconciliation — 2026-10-18T09:17:44.345154+00:00
+
+Dust05 source`aafa7d65be8738e6862374a33ff5b720fa3c7da8`/tree`78e9f0588afbfb935fa098c95f392f3a849d6f70` is accepted/published/full-gate closed at19text/21imagesupplied-edition scopes. All8406remote paths/35changedstreams equal reviewed candidates. Source39114201812/job117636525043 and final39114517860/job117637456270 each352fulltests/zeroallfive non-success/selectionfalse; housekeeping39114484477/job117637359384NO_OP/exact finalsource dispatch; exact integrationstatus succeeds on actualsource. [Gate receipt](../09%20Audits%20and%20Manifests/KONOSUBA_DUST05_EXPANDED_PUBLICATION_GATE_CLOSE.json) closes prior containing-pending history. Dust04additive N01coercive-scope correction is included/published/full-gate-closed by this containing source; original Dust04historical report/assessment remain byteexact. Fresh371project/66current/fourscores/original14blank reload2026-10-18T09:17:44.149379+00:00 preceded next-source admission;72historicalpins exact. Supplemental whole editions5of19 and mixed5of5published at stated scopes; globalcomponentpercentage null. Dust06whole separately unopened despite declared prior principal exposure; fullremainingprogramcontinues.
+
+
+## Dust06 separate native admission — 2026-10-18T09:18:47.287658+00:00
+
+DUST-06exactlocal`Konosuba Extra - Dust - Volume 06.epub`,4582670bytes/SHA256`d533fc314c5ecb86ff9316e372d2b4eb9747d65eb413e4d9a8b97a52b2fff4a1`,freshCRC/JapaneseOPF/20textunit/19image structure verified only after preceding source`aafa7d65be8738e6862374a33ff5b720fa3c7da8`fullgate/freshreload. Pre-body informed-root context sealed, original sevenDust01questions and14blankfuturefields unchanged. Actualnewbody/imagecredit0atadmission; extraction is not literary completion. Whole-edition source-first readingactive/unaccepted; no formal outcomes until complete uncodedseal. Other40rows unchanged; fullremainingprogramcontinues.
+
+
+## Dust06 supplied-edition acceptance — 2026-10-18T10:04:53.783186+00:00
+
+[Full reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_DEEP_READING.md) accepted at20text/19imagescopes, containing publication/full gate pending. Principal2977P/other76P/total3053P; full ruby/residual/image scopes before uncoded seal 2026-10-18T09:47:38.481368+00:00;63selected premises/107native-joined voices/7unchanged-question local assessments/34ten-ledger appends. Supplemental6accepted/5already publishedof19; mixed5published; global percentage null. [Current qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_CURRENT_PRECISION_QUALIFICATIONS.json) preserve native access, precise vow timing, actual checking, owned veto/agency stages, protection alongside direct contrary delay/teasing, supplied weapons/providers, real costs and unshown settlement. Original admission/other40rows unchanged. Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Dust07 whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.
+
+
+## Dust06 exact publication reconciliation — 2026-10-18T10:24:32.047959+00:00
+
+Dust06 source`e9f4ae451a02bfc2c8a0b8220fc7e2d7b91c4ace`/tree`d61e36a3864b0f3a77b2f1700387e08bf00c5290` is accepted/published/full-gate closed at20text/19imagesupplied-edition scopes. All8425remote paths/35changedstreams equal reviewed candidates. Source39118281947/job117648447726 and final39118685767/job117649638740 each352fulltests/zeroallfive non-success/selectionfalse; housekeeping39118654174/job117649548089NO_OP/exact finalsource dispatch; exact integrationstatus succeeds on actualsource. [Gate receipt](../09%20Audits%20and%20Manifests/KONOSUBA_DUST06_EXPANDED_PUBLICATION_GATE_CLOSE.json) closes prior containing-pending history. Fresh390project/66current/fourscores/original14blank reload2026-10-18T10:24:12.713175+00:00 preceded next-source admission;72historicalpins exact. Supplemental whole editions6of19 and mixed5of5published at stated scopes; globalcomponentpercentage null. Dust07whole separately unopened despite declared prior principal exposure; fullremainingprogramcontinues.
+
+
+## Dust07 separate native admission — 2026-10-18T10:25:01.585808+00:00
+
+DUST-07exactlocal`Konosuba Extra - Dust - Volume 07.epub`,4740436bytes/SHA256`cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5`,freshCRC/JapaneseOPF/20textunit/19image structure verified only after preceding source`e9f4ae451a02bfc2c8a0b8220fc7e2d7b91c4ace`fullgate/freshreload. Pre-body informed-root context sealed, original sevenDust01questions and14blankfuturefields unchanged. Actualnewbody/imagecredit0atadmission; extraction is not literary completion. Whole-edition source-first readingactive/unaccepted; no formal outcomes until complete uncodedseal. Other40rows unchanged; fullremainingprogramcontinues.
+
+
+## Dust07 supplied-edition acceptance — 2026-10-18T11:33:04.335402+00:00
+
+[Full reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_DEEP_READING.md) accepted at20text/19imagescopes, containing publication/full gate pending. Principal2881P/other71P/total2952P; full ruby/residual/image scopes before uncoded seal 2026-10-18T11:04:05.328502+00:00;64selected premises/146native-joined voices/7unchanged-question local assessments/34ten-ledger appends. Supplemental7accepted/6already publishedof19; mixed5published; global percentage null. [Current qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_CURRENT_PRECISION_QUALIFICATIONS.json) preserve exact title and explicit sealed-quotation precision, audience/access and protected spear permission, actual provider choices/costs, Keith nonhelp beside positive protection, real tactical failures, exact sword-loan direction, explicit D7 credit settlement and both interrupted no-mouth-contact approaches. Original admission/other40rows unchanged. Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate separately titled unnumbered Dust continuation whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.
+
+
+## Dust07 exact publication reconciliation — 2026-10-18T11:46:37.613998+00:00
+
+Dust07 source`9a5ac5e4b58cc60501df32142505d4ce4a38860d`/tree`6a7ec689a2f6f449e4a99c23f2651bd87df2af7a` is accepted/published/full-gate closed at20text/19imagesupplied-edition scopes. All8444remote paths/37changedstreams equal reviewed candidates. Source39123855460/job117664789277 and final39124174967/job117665713213 each352fulltests/zeroallfive non-success/selectionfalse; housekeeping39124143792/job117665628266NO_OP/exact finalsource dispatch; exact integrationstatus succeeds on actualsource. [Gate receipt](../09%20Audits%20and%20Manifests/KONOSUBA_DUST07_EXPANDED_PUBLICATION_GATE_CLOSE.json) closes prior containing-pending history. Fresh409project/66current/fourscores/original14blank reload2026-10-18T11:46:32.964787+00:00 preceded next-source admission;72historicalpins exact. Supplemental whole editions7of19 and mixed5of5published at stated scopes; globalcomponentpercentage null. separately titled unnumbered Dust continuationwhole separately unopened despite declared prior principal exposure; fullremainingprogramcontinues.
+
+
+## DustContinuation separate native admission — 2026-10-18T11:46:53.916081+00:00
+
+DUST-CONTexactlocal`Konosuba Extra - Dust - Motto Ano Orokamono ni mo Kyakkou wo - Himesama kara no Shoutaijou.epub`,5588468bytes/SHA256`c5ffcf82e82cb0c205f34fe776f99d23fb2ac8cf13841598c92a607988bfa023`,freshCRC/JapaneseOPF/23textunit/22image structure verified only after preceding source`9a5ac5e4b58cc60501df32142505d4ce4a38860d`fullgate/freshreload. Pre-body informed-root context sealed, original sevenDust01questions and14blankfuturefields unchanged. Actualnewbody/imagecredit0atadmission; extraction is not literary completion. Whole-edition source-first readingactive/unaccepted; no formal outcomes until complete uncodedseal. Other40rows unchanged; fullremainingprogramcontinues.
+
+
+## Dust continuation supplied-edition acceptance — 2026-10-18T12:45:50.687643+00:00
+
+[Full reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_DEEP_READING.md) accepted at23text/22imagescopes, containing publication/full gate pending. Principal2846P/other70P/total2916P; full ruby/residual/image scopes before uncoded seal 2026-10-18T12:18:47.351639+00:00;73selected premises/150native-joined voices/7unchanged-question local assessments/34ten-ledger appends. Supplemental8accepted/7already publishedof19; mixed5published; global percentage null. [Current qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_CURRENT_PRECISION_QUALIFICATIONS.json) preserve unnumbered identity and distinct electronic/print dates, real versus proxy actors and reader access, actual protection beside coercion tolerance, significant term checks/provider veto, failed recovery/collateral, attributed public accounts, actual Gaibil survival and unfulfilled future outcomes. Original admission/other40rows unchanged. Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Explosions01 whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.
+
+
+## Dust continuation exact publication reconciliation — 2026-10-18T12:59:49.746708+00:00
+
+Dust continuation source`eb4ddb3c1c176a749df2d74fe9cbfe3d821dcf52`/tree`d63464c1d7a9b3ead80eb80c346a3aa2790bddae` is accepted/published/full-gate closed at23text/22imagesupplied-edition scopes. All8462remote paths/35changedstreams equal reviewed candidates. Source39128872820/job117679715437 and final39129294619/job117680960934 each352fulltests/zeroallfive non-success/selectionfalse; housekeeping39129265164/job117680878820NO_OP/exact finalsource dispatch; exact integrationstatus succeeds on actualsource. [Gate receipt](../09%20Audits%20and%20Manifests/KONOSUBA_DUSTCONT_EXPANDED_PUBLICATION_GATE_CLOSE.json) closes prior containing-pending history. Fresh427project/66current/fourscores/original14blank reload2026-10-18T12:59:49.558977+00:00 preceded next-source admission;72historicalpins exact. Supplemental whole editions8of19 and mixed5of5published at stated scopes; globalcomponentpercentage null. Explosions01whole separately unopened despite declared prior principal exposure; fullremainingprogramcontinues.
+
+
+## EXP01 separate native admission — 2026-10-18T13:00:03.469991+00:00
+
+EXP-01exactlocal`Konosuba - Spin-off - Explosions - Volume 01.epub`,19168549bytes/SHA256`ce67dad2bc3a47506f8bcaf699f11b767e353f43b94860b23bab35cc1635447e`,freshCRC/JapaneseOPF/54textunit/51image structure verified only after preceding source`eb4ddb3c1c176a749df2d74fe9cbfe3d821dcf52`fullgate/freshreload. Pre-body applicable informed family context sealed; original seven Dust01 questions remain historical unchanged controls with14blankfuturefields. Actualnewbody/imagecredit0atadmission; extraction is not literary completion. Whole-edition source-first readingactive/unaccepted; no formal outcomes until complete uncodedseal. Other40rows unchanged; fullremainingprogramcontinues.
+
+
+## Explosions01 supplied-edition acceptance — 2026-10-18T14:03:27.763693+00:00
+
+[Full reading](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_DEEP_READING.md) accepted at54text/51imagescopes, containing publication/full gate pending. Principal3187P/other45P/total3232P; full ruby/residual/image scopes before uncoded seal 2026-10-18T13:26:33.940923+00:00;76selected premises/108native-joined voices/7unchanged-contract local assessments/34ten-ledger appends. Supplemental9accepted/8already publishedof19; mixed5published; global percentage null. [Current qualifications](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_CURRENT_PRECISION_QUALIFICATIONS.json) preserve early knowledge/capacity, image-only narration and denied-allegation scope, actual care beside exploitation, recipient veto, actual resource costs and literal collateral, meaningful reconsideration before favorable new information, late oracle rule and unfulfilled future outcomes. Original admission/other40rows unchanged. Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Explosions02 whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.

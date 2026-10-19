@@ -1356,3 +1356,214 @@ Source plane: designated supplemental holdout DUST-06, exact EPUB SHA256 `d533fc
 | VB-DUST06-HM02 | Fatefore; Rionor; Yunyun; Rolyssa; Dust | C01P309–312; C02P762–771; C03P238–269/339–342; C04P432–448 | E1/E3; source-first mechanisms, HIGH forms/order, local L uncertainty | Child-form decoding, honor/dust naming, literal compliance with a rhetorical invitation, differing rewards for one item and bad acting that still distracts use different causal mechanisms. A successful distraction does not certify good acting, and a useful attack does not certify a full bad-metric mechanism. | Root26 purposive L/H examples were coded after its initial seal but before peer findings, based on67 earlier notes. No formal joke census, J02 denominator, translation proportion or intercoder reliability is created. |
 
 Complete separate principal passes and sealed initials precede coordinated receiving; source-first inventories are not trial denominators. External factual/routing corrections preserve every original. Actual source admission, reading, validation acceptance, full-edition literary coverage and publication remain separate. No new source/body/image or expanded model revision follows from this appendix.
+
+
+## Phase B DUST07 frozen-model validation overlay — HM
+
+Source plane: designated supplemental holdout DUST-07, exact EPUB SHA256 `cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5`, five admitted principal members only. Outside V01–V17 derivation; no frozen R1 model, original 43-contract registry, Gen01–05 history or prior holdout score changes. Acceptance UTC: `2026-10-17T21:16:29.555881+00:00`. Native one-based all-body routes and identity are defined by the [withheld validation](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_WITHHELD_SOURCE_VALIDATION.md). The complete prior ledger remains an exact prefix; main-only historical states remain retrievable at 3b92. Comparative Dust focal access is explicitly separate from Kazuma narration.
+
+| Stable observation ID | Subject | Exact DUST07 context/locator | Evidence class / confidence | Bounded observation | Claim transition / remaining limit |
+|---|---|---|---|---|---|
+| VB-DUST07-HM01 | Dust; Leen; team | C01P742–947; C02P267–355; C03P275–304 | Observed act/report/private Dust appraisal separately identified; HIGH wording/order, MODERATE functional cause | Boast→coercive test→real skill gain→persistent fear→body-status insult combines comic amplification with literal unwanted harm. Apparent bravado coexists with actual trembling/immobility and costly chosen advance. | H1 direct event versus H2 disposition amplification/H3 contingent staging remain component questions. A successful comic training result is not consent or a clinical cure; literal fantasy is not automatically H4 nonliteral. |
+| VB-DUST07-HM02 | Wiz; Vanir; undead commander | C02P469–510/714–818; C03P45–129 | Observed act/report/private Dust appraisal separately identified; HIGH wording/order, MODERATE functional cause | A powerful caster performs a humiliating altered script; mock respect and sincere-seeming consolation worsen an enemy’s stigma; mutual appetite briefly fraternizes until role correction. Commercial role shifts turn a plea into paid consultation/auction. | Nonadditive comic mechanisms depend on knowledge, status, causal timing and institutions; speaker identity and actual actions matter more than a trait label or catchphrase. |
+| VB-DUST07-HM03 | Dust; familiar observers; Vanir | C03P637–677; EpiP63–148 | Observed act/report/private Dust appraisal separately identified; HIGH wording/order, MODERATE functional cause | Hidden heroic work earns public derision; confession intended as revenge creates a new threat, apology briefly works, malice boast reverses it. Actual private almost-kiss is interrupted, and left-side false Leen exposes a different actor. | Source-first root 107 observations/30 groups and 68 purposive witnesses are not a gag census/J02 denominator. I 117/S 75 segments and 38/40 form records overlap; later coordinated comparison is not independent coding. |
+
+Complete separate principal passes and sealed initial assessments precede coordinated receiving. Every original label and attributable correction remains preserved; no statistical independence, new J02 census or native-human/acoustic certification. Full edition/component analysis, current-model revision and this containing publication gate remain separate.
+
+
+## Stage C DUST-01 expanded-source overlay — HM
+
+Source: Japanese DUST-01, SHA256 `b77ac48f67168395c1437f23b2360f1a833311aba5a8d7177866a93d572c3644`; nine complete principal members, separately analyzed bonus and edition components. Acceptance recorded `2026-10-17T22:53:08.846506+00:00`. Routes use the one-based all-body P convention in [Dust V01](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V01_DEEP_READING.md), §16; bonus routes use p-012.xhtml P1–52. This separately tagged expanded plane preserves the complete prior ledger as an exact prefix and does not amend main-only historical states, R1, Gen01–05 or four-book scores.
+
+| Stable observation | Subject / context | Source route | Evidence / confidence | Accepted bounded finding and claim transition |
+|---|---|---|---|---|
+| EC-DUST01-HM01 | Narrator self-authorization and neglected conditions | ProP3–42; C02P280–309; C05P511–569 | Literal event/implicature; purposive H/L proposals | Shared prison-night wording invites an intimate inference; apparent gains fail under omitted timing/ownership conditions. The 53 selected records retain mixed/serious comparators, not an exhaustive joke denominator. |
+| EC-DUST01-HM02 | Bonus domestic gag and evidence planes | BONUS-01P13–52 | Observed act vs narrator generalization; HIGH sequence | Comfort seeking, reminder, attempted anti-Eris prank and tea antagonism are causal comic mechanisms. Graffiti attempt interrupted by police is not completed vandalism. No new J02 score, portable share or independent coding claim. |
+
+All substantive routes resolve through the complete reading and separate edition analysis; source-safe selected records preserve speaker/addressee and uncertainty. Expanded observation, main-model revision, exact-head publication and whole-corpus completion are distinct.
+
+
+## Stage C artbook component overlay — HM — 2026-10-17T23:27:29.977226+00:00
+
+Sources: ART-CHEERS SHA256 `fb0e29a264b37acb5f8b24cdcbb7be3d343898d0bf7ef61bf4f62a1ce85532ea` and ART-BLESSING SHA256 `12854d8c71ad700cd177d2928250786034f7928a938416c5846dfede9c75b37c`. [Cheers](../10%20Expanded%20Corpus/Artbooks/KONOSUBA_CHEERS_COMPONENT_AND_LITERARY_ANALYSIS.md) and [Blessing](../10%20Expanded%20Corpus/Artbooks/KONOSUBA_BLESSING_COMPONENT_AND_LITERARY_ANALYSIS.md) give complete supplied-component routes and actual reader/receiving limits. Expanded evidence only; main-only frozen histories, R1, Gen01–05, original blanks and four-book scorecards stay unchanged. The entire prior ledger is an exact prefix.
+
+| Stable observation | Named subject | Exact source context / route | Evidence class / confidence | Accepted bounded finding | Claim transition / limit |
+|---|---|---|---|---|---|
+| EC-ARTBOOKS-HM01 | Megumin; Kazuma; rival/party | CHEERS §8 CH-HV01–13 | 13purposive source-first selections; qualitative only | Visible success criteria drift among reports, refusal, absent opponents, frog production and broad title; the critic joins elevated self-naming. Thirteen selected cases are not13independent trials/J02census. | EXPAND incentive/loophole/callback mechanism, retain counterevidence and dependent stages. |
+| EC-ARTBOOKS-HM02 | Blessing selected comic subjects | BLESSING68initial records +28H3qualifications | Historical labels with current row-level warrant limitation | Original author H3 rationales conflate source-plane/extrapolation caution with gag-contingent behavior. Originals preserved; all28such warrants qualified, no replacement codes/frequency invented. | REVISE eligibility of stated warrants; source-plane cautions remain separately valid. H4 not automatic from static/imagined art. |
+
+
+## Stage C Memorial Fanbook overlay — HM
+
+Source: FAN-MEM, SHA-256 `e08725fc99cebadd52f93d05122de36d4ae39b435d0d993c41b068b127ebb32d`, electronic 2020-04-01 ver.001. The [complete analysis](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_AND_LITERARY_ANALYSIS.md), [register](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_REGISTER.json) and [receiving](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_RECEIVING_REVIEW.md) retain exact native routes, unequal authority and reading limits. Snnn is the one-based native spine identity. This separately tagged expanded plane preserves the entire prior ledger and does not replace a frozen checkpoint, R1, Gen01–05 or score history.
+
+| Stable observation | Named subject/context | Source window | Evidence/confidence | Accepted finding | Claim transition/limit |
+|---|---|---|---|---|---|
+| EC-FAN-HM01 | Dungeon coalition and administrative mirror | S096–099, complete new prose | H1/H2; high structural confidence | Domestic avoidance leads to rewarded advice, a dependent owner, resource and amenity problems, then an outside-party crisis. Managing a dungeon mirrors unwanted household labor. | EXPAND incentive and genre irony; proposed devices are not all performed. |
+| EC-FAN-HM02 | Comic framing and the reprint’s lexical effect | S100–107 and S110–111; FM-H18–24 | Mixed H1/H2/H4; 24 purposive records, moderate generalization | Fame performance escalates into a failed interview. Literal water trade enables an explicit 水商売 double meaning. | EXPAND selected mechanisms only; no census, J02 or portability percentage. H3 is not source uncertainty. |
+
+These are two analytical responsibilities, not independent repeated trials. The complete reader read all 121 pages; root sealed an initial 37-page pass, then checked five further pages during coordinated receiving. Shared-lineage limits and all current qualifications apply. Publication remains a separate gate.
+
+
+## Stage C — Dust02 whole supplied edition: humor mechanics
+
+Source DUST-02; principal p002-p008 plus separately admitted bonus p010 and edition components. The [whole-edition receiving record](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V02_RECEIVING_AND_PROVENANCE.json) preserves full source/reader scopes, both original seven-question proposals, current root dispositions and exact precision history. This appends to the current published ledger; every earlier byte remains an exact prefix. Main-only R1, Gen01-05, original forecasts/blanks and four scorecards stay unchanged. Stage D model revision remains later work.
+
+The producer supplied91 principal append proposals against the exact earlier0ce33a0f baseline. Root received all91; this ledger adopts the relevant scoped observations with current qualifications, then adds one separately identified bonus observation. These are responsibilities and dependent evidence routes, not independent trials.
+
+### DUST02-HM01 — Work allocation answers entitlement
+
+A desired reward or reputation is tested by the next actual unit of work: larger loot requires fighting; one blast leaves more goblins.
+
+Source: C02P46–48; C02P369–375. Portable premise can acquire L2 facework in the mock interview.
+
+Transition: STRENGTHEN. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-HM02 — Comic defeat does not delete capacity
+
+Real resurrection/art and real spear coordination remain after social exhaustion or physical deflation.
+
+Source: C01P202–224; FinalP532–555. H1 capacity/acts and H2 intensity must not be merged with H4 nonliteral license.
+
+Transition: PRESERVE. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-HM03 — The apparent tool has a competing objective
+
+Small routes allocation to Vanir; the apparent Yunyun guide is the negative-emotion strategist.
+
+Source: C03P350–378; C04P509–516. Role reversal depends on agents with their own goals, not random stupidity.
+
+Transition: STRENGTHEN. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-HM04 — Serious rescue uses an indecent method
+
+Ally-hostage leverage wins one phase; released enemies become rescue carriers and neglect Yunyun’s social value.
+
+Source: FinalP365–388/436–454. Literal coercive acts remain adverse even when the scene is comic; no actual wound asserted.
+
+Transition: REVISE. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-HM05 — Premature causal closure restarts the crisis
+
+Companion recovery suggests a broken source, but a mobile machine exposes a different possible mechanism.
+
+Source: FinalP465–500. Narrator inference is revised, not omniscient fact reversed by author fiat.
+
+Transition: STRENGTHEN. Confidence: MODERATE. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-HM06 — Selected evidence and denominator
+
+Sixty-one whole selected premises retain ranges, short source anchors, L/H distinctions, cultural/context and uncertainty fields.
+
+Source: All seven admitted principal units; selected register H001–H061. Full source was read but selection is purposive; no complete census, second code set, J02 fraction or agreement claim.
+
+Transition: PRESERVE. Confidence: HIGH for declared scope. H1 actual source-level action/speech/report; any H2 exaggeration separated in selected register. Fantasy literalness does not imply real-world capability.
+
+### DUST02-HM07 — The covert observer becomes the complaint target
+
+An apparently suspicious private meeting resolves into ordinary peer venting, then the investigator selectively resents becoming its topic. Privacy rhetoric reverses under a concrete counterexample.
+
+Source: Bonus P3-67. Producer8H/9V and root4H/4V are overlapping purposive accounts of one story; no pooled census, agreement statistic or J02 denominator.
+
+Transition: EXPAND. Confidence: MODERATE.
+
+Root precision: C03P149/P156-176/P420-424 is direct adverse evidence for N01; no outside perpetrator or moral-acknowledgment condition is added. N02’s observed help exceeds the strength of its inferred tenderness mechanism. Final377-379 comments remain unnamed; Small’s366 protest is the identified turn. Final pullers are three recruited former criminal men. Toy purchase precedes the later thanks/guilt/giving. These limits apply across the appended responsibilities. Publication is a separate gate and Dust03 remains closed until it closes.
+
+
+## Expanded TRPG-CORE received observations — 2026-10-18T02:29:30.403076+00:00
+
+Whole supplied edition accepted at its stated component scopes; containing publication pending. [Complete analysis](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_DEEP_READING.md), [current qualifications](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_CURRENT_QUALIFICATIONS.json) and [all initial/current append decisions](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_LEDGER_APPEND_DECISIONS.json) control these three rows. Edited replay, second-person guide, prospective scenario, optional templates, teaching balloons and references retain unequal authority. No frozen-model/score change, independent trial or main-J01/J02 count.
+
+| ID | Subjects and native printed source route | Observation | Causal/model implication | Authority/adverse limit |
+|---|---|---|---|---|
+| TRPGC-HM01 | Diary/GM account plus companions; 061–064 | Diary intrusion and romantic framing are portable, while the reported king/frog backstory requires the Japanese change/frog and king wordplay. | Whole-premise portability is MIXED: portable intrusion and romance coexist with a central Japanese-form layer. | Whole L remains MIXED. H1 for actual diary intrusion; the artifact mishearing is an explicitly reported property, not an inferred human psychology or a new transformation. Initial mixed-H/H3 rationale preserved inRQ03. |
+| TRPGC-HM02 | World-guide Aqua/newcomer/Kazuma; 250–252 | Safe-start promise fails, anger becomes humiliating apology, and written childish deformation shrinks divine status. | Portable status reversal has a material Japanese-form layer; L MIXED, H2 for amplified defensive presentation. | No shown punch or acoustic claim; source is guide fiction, not new main-novel chronology. |
+| TRPGC-HM03 | Selected full-pass register; All333 actual images; selected75 premise groups | All120 original comic-note pages remain in75 selected premise groups with source intervals; selection is descriptive. The compressed113label is now read殺しの魔名, while pronunciation/pun centrality remains unproved. | L, H, culture, authority and eligibility are separate. H3 means local punchline-dependent behavior, not merely paratext or uncertainty. | Initial code history remains exact. Current H/L warrant qualifications and source planes govern reuse; no whole-source census, J02 denominator, score or automatic L3 from a Japanese label. RootRQ02 andLW records. |
+
+
+## Expanded TRPG-ADV received observations — 2026-10-18T05:03:55.185963+00:00
+
+Whole supplied edition accepted at its individual actual reading scopes; containing exact publication/full gate pending. [Full reading](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_ADV_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_ADV_LEDGER_APPEND_DECISIONS.json), [qualifications](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_ADV_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_ADV_RECEIVING_AND_PROVENANCE.json) control these additions. Same informed root AI; replay, rules/flavor, reference, optional personas, divider and unperformed scenario remain distinct. No frozen R1/score/blank-field revision or new independent trial.
+
+| ID | Subjects / printed source route | Observation | Implication | Authority and adverse limit |
+|---|---|---|---|---|
+| TRPGA-HM01 | Replay Chio health fixation and party religious pressure; 020-021,032-033,046-052 | Health gratitude becomes poison advocacy/actual damage and an unhealthy-should-die imperative; frog finishing is framed as Axis completion. | H2 amplified dispositions coexist with actualH1harm/pressure; worthy stated aims do not overwrite causal conduct. | Initial proposal versus actual poisoning versus proposed slow death remain separate.踏み絵 requires contextual gloss, not an automatic whole-premiseL3. |
+| TRPGA-HM02 | Local replay/scenario reversals; 030,088-089,102; scenario295,305-308 | Bartender prioritizes milk policing over undead; villain blurts an incriminating plan; party cheers foe survival for a satisfying finish; scripted commander gets his tank’s drill. | H3 is reserved for a particular punchline-dependent conduct, with mixedH1tableactions and unperformed proposals separately identified. | Staging, source uncertainty and explicit game effects alone are notH3. Proposed rescue of Goran never occurs; scenario branches are not actual play. |
+| TRPGA-HM03 | Authored ecology, base rules and reference comedy; 225-232,241-245,268-293 | Stable retail caveat, ordinary Round Table, bring-your-own monster meat, heroic cabbage and meowing imitation dragon domesticate grand fantasy expectations. | Literal fantasy-world facts and explicit abstractions can be comic withoutH4. Portable premise and nested phrasing need separate warrants. | 100selectedpremises retain all282uncoded observations and soft limits; not an exhaustive gag census, mainJ02 denominator or independent trial pool. |
+
+
+## Expanded DUST-03 received observations — 2026-10-18T06:18:22.445096+00:00
+
+Whole supplied edition accepted at declared fiction/component scopes; containing exact publication/full gate pending. [Full seventeen-responsibility reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_LEDGER_APPEND_DECISIONS.json), [seven unchanged-question local assessments](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_EXPLORATORY_LOCAL_ASSESSMENTS.json), [qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_RECEIVING_AND_PROVENANCE.json) control these additions. Same continuing informed root, with known later principal exposure; no independent reader, new main validation cohort or acoustic claim. Frozen R1/66current/72historical/four scores/original14blank future fields remain exact. Direct contrary conduct, actual checking, missing full triggers and distinct provider agreements remain visible.
+
+| ID | Subjects / native route | Observation | Implication | Authority and adverse limit |
+|---|---|---|---|---|
+| DUST03-HM01 | Conditionality and reward; U011:P0781–0798;U012:P0428–0432/0533–0537;U013:P0875–0913 | A promise only to consider release, unusable ring value and a prepaid bill produce distinct consequence reversals. | Preserve the particular condition and available information instead of treating all losses as one repeated defect. | Exact ring crest is later information; the mask spending declaration is embedded report, not Dust's personally witnessed original act. |
+| DUST03-HM02 | Beldia and observers; U013:P0529–0586 | Projected cleaning, repeated repair, initial forbearance and destroyed preparations make the observers sympathize and decline military comment. | Ordinary maintenance costs can reverse heroic genre valuation while remaining meaningful in-world. | Artifact-mediated past is not a new combat, independent replication or universal enemy innocence. Self head-throw is literal fantasy anatomy, not H4 by itself. |
+| DUST03-HM03 | Language and explicitly licensed figures; U012:P0086–0088;U013:P0304–0315;U014:P0205–0207;U020:P0001–0014 | Blue eyes literalize a Japanese idiom; dam/landslide and leaking-ship images are actual metaphors; bonus characters identify the borrowed redemption trope. | Keep form dependence and nonliteral license separate from fantasy setting or scene arrangement. | The 60 selections are purposeful, not a gag census. No forced primary H3; convention recognition does not make the whole story nonliteral. |
+
+
+## Expanded DUST-04 received observations — 2026-10-18T07:29:49.102050+00:00
+
+Whole supplied edition accepted at declared scopes; containing exact publication/full gate pending. [Full seventeen-responsibility reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_LEDGER_APPEND_DECISIONS.json), [seven unchanged-question local assessments](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_EXPLORATORY_LOCAL_ASSESSMENTS.json), [qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_RECEIVING_AND_PROVENANCE.json) control these additions. Same continuing informed root with known later principal exposure; no independent reader, new main validation cohort or acoustic claim. FrozenR1/66current/72historical/four scores/original14blank fields remain exact. Actual protective costs, coercive choices, incomplete conjuncts, correct checking and provider terms remain visible.
+
+| ID | Subjects / native route | Observation | Implication | Authority and adverse limit |
+|---|---|---|---|---|
+| DUST04-HM01 | Local knowledge and institutional norms; U011:P0380–0439;U012:P0510–0542/1048–1070;U013:P0082–0091 | A routine Explosion frightens an outsider, unfamiliar beauty lacks local reputation, foreign guards arrest a familiar intrusion plan, and true hometown reports make an official suspect her bell. | The same event has different warranted appraisals under different local information and institutions. | Actual spells and law responses are literal in-world. No universal common-sense hierarchy, independent main-party retest or proof that the bell is generally defective. |
+| DUST04-HM02 | False performances and real costs; U011:P0341–0458/0553–0568;U013:P0120–0158/0250–0282;U014:P0187–0223 | A staged fortune scheme hurts collaborators and fails to prevent Taylor losing cash; Zesta plays detective after an accidental allegation, and the rescue scene is explicitly called emotionally spoiled. | Literal lies and scene commentary remain actual behavior; staging alone does not warrant H3. | Ragcraft really threatens Dust and the fabricated royal accusations are not his actual acts. No behavior-category exemption for harm, failed execution or informed-consent limits. |
+| DUST04-HM03 | Form-dependent corrections, metaphor and designed rules; U012:P0395–0403/0594–0600/0864–0870;U014:P0218–0221/0339–0404 | A kindness/lewdness near-form correction and cross-speaker Japanese word completion warrant L3; damage and boat comparisons warrant primary H4; the weak card wins under an agreed exception. | Keep language dependence, explicit nonliteral license and a literal fantasy/game rule distinct. | 68purposeful whole premises, no census denominator or forced H3 quota. Opening and final draw are one event; prophecy success is not a general cure of low luck. |
+
+
+## Expanded DUST-05 received observations — 2026-10-18T09:04:10.135762+00:00
+
+Whole supplied edition accepted at declared scopes; containing exact publication/full gate pending. [Full17responsibility reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_LEDGER_APPEND_DECISIONS.json), [7unchanged-question assessments](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_EXPLORATORY_LOCAL_ASSESSMENTS.json), [29qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_RECEIVING_AND_PROVENANCE.json) control uptake. Same informed continuing root/known later principal exposure; no independent reviewer or new main score/audio claim. Frozen66/72/fourscores/original14blanks exact. Earlier [Dust04 additive coercive-scope correction](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_N01_COERCIVE_DANGER_PRECISION.json) remains current: coercive danger needs no bodily-injury threshold, and earlier direct contraries remain.
+
+| ID | Subjects / native route | Observation | Implication | Authority and adverse limit |
+|---|---|---|---|---|
+| DUST05-HM01 | Knowledge-dependent reversals; U010:P0205–0278/0345–0437;U012:P0172–0177/0219–0237/0519–0534 | Request becomes marriage, helper has a different matchmaking aim, toad swallowing has opposite subjects, true solo arrival seems another lie and safety assurance meets an actual claw. | Preserve each actor's access and actual corrections instead of importing the eventual reveal into initial appraisals. | Literal lies and fantasy are not primary H3/H4 by themselves; harm and information costs remain. |
+| DUST05-HM02 | Appetite, social performance and actual cost; U011:P0008–0037/0502–0541/1234–1279;U012:P0024–0065/0249–0297 | Generosity appears criminal or abnormal; rescue claims retain pleasure; a rumor scheme intimidates its author and offense expertise defeats forced gratitude. | H1 actual action and H2 amplified disposition account for selected effects with costs preserved. | No primary H3/H4 warranted among68purposeful whole selections; nested hyperbole, meta labels and staging do not force a class or corpus denominator. |
+| DUST05-HM03 | Specific language mechanisms; U010:P0052–0062;U011:P0451–0479/0932–0938;U012:P0085–0086/0249–0257;U013:P0023–0026 | Word/meaning split, repeated trust, friend/acquaintance stress, growing rumor counts and hollow promise formula have particular verbal roles; ボッチンピラ blends two insults. | L1 wording, L2 pragmatic performance and the central Japanese blend's L3 reconstruction requirement are separately argued. | L0 remains appropriate for portable propositions even with Japanese short anchors. No automatic L3 from child articulation, script, idiom or honorific presence. |
+
+
+## Expanded DUST-06 received observations — 2026-10-18T10:04:53.783186+00:00
+
+Whole supplied edition accepted at stated scopes; containing publication/full gate pending. [Full seventeen-responsibility reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_LEDGER_APPEND_DECISIONS.json), [seven unchanged-question assessments](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_EXPLORATORY_LOCAL_ASSESSMENTS.json), [34 qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_RECEIVING_AND_PROVENANCE.json) control uptake. Same informed continuing root/known earlier principal exposure; no independent reviewer or new main score/audio claim. Frozen66/72/four scores/original14blanks exact. Prior Dust04 additive coercive-scope correction remains current: no bodily-injury threshold and no later-success repair of earlier contrary evidence.
+
+| ID | Subjects / native route | Observation | Implication | Authority and adverse limit |
+|---|---|---|---|---|
+| DUST06-WHOLE-HM01 | Literal knowledge reversals; U010P0422–0454/0596–0640;U011P0903–0916;U013P0134–0156 | Knight apology excludes concealed knight, expertise prevents checking the stranger, official story contradicts private initiative and enemies mistake leisure substitution for strategy. | Actual access distribution and recipient distinction support H1 without declaring all narration unreliable. | Late reveal is not backdated, princess legend not wholly false and Perie/retinue misrecognitions are actual errors, not omniscient plans. |
+| DUST06-WHOLE-HM02 | Disposition and actual costs; U010P0174–0203;U011P0601–0696;U012P0475–0518 | Grand own-apology offer, escalating loss chase and repeated indifference despite curiosity amplify dispositions; staged casino accusations still impose real harassment/cost. | H2 motives may transfer more readily than exact comic extremity, while actual deliberate staging remains H1 behavior. | No forced H3/H4 from metascene label, magic or performed false story; beating, captivity, drugging and unwanted contact remain actual. |
+| DUST06-WHOLE-HM03 | Form-specific selected effects; U011P0127–0134/0580–0596/0762–0766;U012P0475–0481;U015P0026–0029 | Midnight reindexes tomorrow, polite clause gets rough particle, averaging becomes multiplication, ほこり explains Dust and くれない echoes 紅. | Separate L1 phrasing, L2 register/pragmatics and two central Japanese-form L3 cases. | 63chosen whole premises have no corpus denominator; paratext pun has no character-prediction weight. Preserve native リーン/リール inconsistency. |
+
+
+## Expanded DUST-07 received observations — 2026-10-18T11:33:04.335402+00:00
+
+Whole supplied edition accepted at stated scopes; containing publication/full gate pending. [Full seventeen-responsibility reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_LEDGER_APPEND_DECISIONS.json), [seven unchanged-question assessments](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_EXPLORATORY_LOCAL_ASSESSMENTS.json), [44 qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_RECEIVING_AND_PROVENANCE.json) control uptake. Same informed continuing root/known earlier principal exposure; no independent reviewer or new main score/audio claim. Frozen66/72/four scores/original14blanks exact. Prior Dust04 additive coercive-scope correction remains current: no bodily-injury threshold and no later-success repair of earlier contrary evidence.
+
+| ID | Subjects / native route | Observation | Implication | Authority and adverse limit |
+|---|---|---|---|---|
+| DUST07-WHOLE-HM01 | Literal reversals and known deception; U011P0361–0376/0449–0460/0760–0840;U012P0821–0890;U014P0111–0125 | Resale permitted, recognition boast fails, airborne exit impossible, spear tip fails, winning hit traps attacker and talking head repairs class/causal model; false invitation becomes debt settlement. | H1 actual knowledge, action and audience contrasts retain causal weight even when staged for comedy. | No H3/H4 merely from fantasy, genre flag, dream content, theatrical speech or unknown failure cause. Actual pain/force and fresh error remain. |
+| DUST07-WHOLE-HM02 | Amplified appetites and actual costs; U011P0343–0356/0990–1014;U012P0584–0643 | Opportunistic conspiracy admiration, reflected-fame eagerness and strongest-partner/creditor rhetoric amplify dispositions. | H2 allows cautious motive transfer while retaining literal acts and limiting exact intensity. | No immortality from debt rhetoric or class-rank proof from boast; coercive training/towing and failed tactics do not become harmless comic exceptions. |
+| DUST07-WHOLE-HM03 | Selected language mechanisms; U011P0305–0314/1037–1043;U012P0574–0583/0741–0754;U013P0425–0439 | Purpose/beat-up repair, English-Japanese ドゥーユー事 blend, rotten-body/heart contrast and premature victory flag have different language burdens. | Separate L2 performance/repair, L1 material wording and central-form L3 rather than automatic Japanese-form classification. | 64selected whole premises only, not a gag census; literal reverse scale/ordinary idiom not automatically L3, genre flag not magical causation. |
+
+
+## Expanded DUST-CONT received observations — 2026-10-18T12:45:50.687643+00:00
+
+Whole supplied edition accepted at stated scopes; containing publication/full gate pending. [Full seventeen-responsibility reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_LEDGER_APPEND_DECISIONS.json), [seven unchanged-question assessments](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_EXPLORATORY_LOCAL_ASSESSMENTS.json), [45 qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_RECEIVING_AND_PROVENANCE.json) control uptake. Same informed continuing root with known main/four-holdout and prior numbered Dust exposure; this separately admitted continuation receives no pristine blind-test claim. No independent reviewer or new main score/audio claim. Frozen66/72/four scores/original14blanks exact. Prior Dust04 additive coercive-scope correction remains current: no bodily-injury threshold and no later-success repair of earlier contrary evidence.
+
+| ID | Subjects / native route | Observation | Implication | Authority and adverse limit |
+|---|---|---|---|---|
+| DUSTCONT-WHOLE-HM01 | Literal identity and audience reversals; U010P0109–0183;U011P0148–0183;U014P0029–0042/0249–0395 | Private declaration becomes spy gossip, gag protest is falsely translated, real princess mistaken for Leen then wedding Leen mistaken for princess, public rescuer legend has wrong protected actor. | H1 actual speech/action/access produces comedy without erasing event consequences. | No forced H3/H4 from performance, genre ceremony, metaphors or fantasy; actual coercion/failed inference/church damage remain. Public identity partly true is not all-story truth. |
+| DUSTCONT-WHOLE-HM02 | Appetite, role and outcome; U010P0276–0299/0381–0404;U013P0455–0531;U014P0480–0519;U016P0021–0028 | Cashless shortcut appetite amplifies; corrected names fail again; relaxed jail reassurance misses rescue/doctor; snagged spear creates unplanned hero pose; all-as-planned boast coughs. | Distinguish amplified disposition, literal plan, actual result and public interpretation. | 73selected premises are not a census. Internal worry not automatic pure-motive exemption, safe total execution not inferred and rhetorical cough not clinical diagnosis. |
+| DUSTCONT-WHOLE-HM03 | Language burden and creator planes; U011P0006–0028/0233–0241;U012P0214–0268;U017P0003–0019/0029–0032 | Face/mud wording, double affection inversion, classified nonanswer/true-original roles and medium-aware thanks have different effects. | Use L1 material phrasing, L2 recipient/register force and portable L0 content; no selected central-form L3 warranted. | No automatic L3 from ordinary idiom/names/script. Afterword discarded village/anime claims are creator plane, no root viewing or canon alternative; survey advertisement not contributor trial. |
+
+
+## Expanded EXP-01 received observations — 2026-10-18T14:03:27.763693+00:00
+
+Whole supplied edition accepted at stated scopes; containing publication/full gate pending. [Full seventeen-responsibility reading](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_LEDGER_APPEND_DECISIONS.json), [7 unchanged-contract local assessments](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_EXPLORATORY_LOCAL_ASSESSMENTS.json), [42 qualifications](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_RECEIVING_AND_PROVENANCE.json) control uptake. Same informed root after main17, four holdout principals, mixed sources and eight complete Dust supplied editions; no pristine blind or native-human claim. Main R1 remains frozen. No independent reviewer or new main score/audio claim. Frozen66/72/four scores/original14blanks exact. Prior Dust04 additive coercive-scope correction remains current: no bodily-injury threshold and no later-success repair of earlier contrary evidence.
+
+| ID | Subjects / native route | Observation | Implication | Authority and adverse limit |
+|---|---|---|---|---|
+| EXP01-WHOLE-HM01 | Village norms, real style costs and inverted abnormality; U018P0138–0248;U023P0367–0399;U034P0142–0153;IMG009–010 | Style is actually rewarded and sometimes costly; practical Yunyun becomes the local oddity, props puncture a power claim and dangerous attractions are preserved for prestige. | Transfer evaluative mismatch, institutional incentives and counterpart dissent; calibrate magnitude to actual world rules. | Magic and genre belief alone are not H4; a false strength claim is not literal acquired strength or a universal death-flag law. |
+| EXP01-WHOLE-HM02 | Moving correction roles, partial truth and audience; U018P0300–0315;U023P0588–0635;U028P0382–0418;U043P0532–0544;U049P0019–0036 | Megumin can correct another person and be corrected; heroic, romantic and institutional accounts turn on private premises and selective disclosure. | Generate actual goals and information before choosing comic delivery; no fixed rational narrator or permanent boke/corrector assignment. | A blush, public legend or witty explanation is not private mind access, canon truth or behavioral validation. |
+| EXP01-WHOLE-HM03 | Chosen vulnerabilities and form-dependent culinary mistake; U023P0269–0320;U037P0547–0562;IMG026–043 | Food, friendship labels, prestige and flattery invite help or exploitation but also real veto; the ritual’s parent/child semantics become a Japanese chicken-and-egg bowl. | Keep actual term changes and provider choices. Reconstruct or annotate the dish-name hinge when transferring language. | No universal easily-manipulated switch, no actual child sacrifice or erotic reading; selected76premises are not a population census. |

@@ -1,0 +1,99 @@
+{
+  "artifact_id": "SW-QP1-ACCEPTED-PACKAGE-001",
+  "artifact_type": "qualification_accepted_package_manifest",
+  "series_id": "silent-witch",
+  "generation": "SW-QP1",
+  "version": "1.0",
+  "created": "2026-10-18",
+  "purpose": "Administrative retrieval and mandatory correction binding for the bounded qualification decision; no literary authority or G2 source admission",
+  "qualification_result": "QUALIFIED_AS_CORRECTED",
+  "source_boundary": "SW-LNJP-V01 complete textual prologue and Chapter1 only; prose pilot; no whole-volume closure",
+  "qualification_record": "series/silent-witch/08 Audits and Manifests/SW_QUALIFICATION_REVIEW.md",
+  "retrieval_contract": {
+    "accepted_package_route": "Read this manifest with the qualification record, then retrieve and verify every required member and the original source-first memo before presenting or using corrected qualification.",
+    "required_member_rule": "ALL_REQUIRED_MEMBERS_EXACT_BYTES_AND_SHA256",
+    "required_member_count": 4,
+    "mandatory_errata": [
+      "SW-QP1-ERR-001"
+    ],
+    "omit_erratum_acceptance": false,
+    "standalone_initial_candidate_corrected_acceptance": false,
+    "missing_or_mismatched_member_result": "INVALID_CORRECTED_PACKAGE",
+    "historical_retrieval": "Initial files remain retrievable as a frozen historical failed candidate. Direct retrieval of one or all initial files does not carry corrected acceptance.",
+    "presentation_requirement": "Every presentation of QUALIFIED_AS_CORRECTED must identify this complete composite and mandatory SW-QP1-ERR-001 association; never present the original cumulative record as accepted alone."
+  },
+  "required_members": [
+    {
+      "role": "READING",
+      "artifact_id": "SW-QP1-READING-OPENING",
+      "path": "series/silent-witch/08 Audits and Manifests/SW_QUALIFICATION_PILOT_READING.md",
+      "bytes": 48209,
+      "sha256": "270ea9a3d5590485bcd1c78980493e5b89347e6bd8db91bacb87a8d7a3e2754d"
+    },
+    {
+      "role": "CUMULATIVE",
+      "artifact_id": "SW-QP1-CUMULATIVE-OPENING",
+      "path": "series/silent-witch/08 Audits and Manifests/SW_QUALIFICATION_PILOT_CUMULATIVE.md",
+      "bytes": 31073,
+      "sha256": "d12765fc28b0ef21eb892c9d58c13cc2a88a8ba58f36f901affde77c96f427c3"
+    },
+    {
+      "role": "CLAIMS",
+      "artifact_id": "SW-QP1-CLAIMS-OPENING",
+      "path": "series/silent-witch/08 Audits and Manifests/SW_QUALIFICATION_PILOT_CLAIMS.md",
+      "bytes": 20978,
+      "sha256": "3144591fea510750bd243c87747266faaa926a9db96e8c848faa3a1acafe176e"
+    },
+    {
+      "role": "MANDATORY_ERRATUM",
+      "artifact_id": "SW-QP1-ERR-001",
+      "path": "series/silent-witch/08 Audits and Manifests/SW_QUALIFICATION_PILOT_ERRATUM.md",
+      "bytes": 15272,
+      "sha256": "968a3fea07875124f4824279abd4d2c0e30efdcd6a4e87984c489e6767b35425"
+    }
+  ],
+  "historical_initial_candidate": {
+    "result": "NOT_QUALIFIED",
+    "immutable_initial_commit": "466f0f52493347d16dc407247b37d5f721b1cf34",
+    "member_artifact_ids": [
+      "SW-QP1-READING-OPENING",
+      "SW-QP1-CUMULATIVE-OPENING",
+      "SW-QP1-CLAIMS-OPENING"
+    ],
+    "standalone_corrected_acceptance": false,
+    "preserve_bytes": true,
+    "interpretation_authority": "NONCURRENT_QUALIFICATION_EVIDENCE"
+  },
+  "source_first_original": {
+    "path": "series/silent-witch/08 Audits and Manifests/SOURCE_FIRST_REVIEW.md",
+    "original_filename": "SOURCE_FIRST_REVIEW.md",
+    "bytes": 11193,
+    "sha256": "2900a88a83cb7b2485f4ef69ab4cf18214ab70f41442592fd680e8b2a3ecfb5d",
+    "original_recorded_fixed_at_utc": "2026-10-18T22:27:15.0157842Z",
+    "original_role": "Independent reviewer preregistered source-first sample memo, fixed before candidate access",
+    "recovery_basis": "Exact original reviewer document recovered and hash-verified; not reconstructed from the combined report",
+    "byte_preservation": "No front matter, newline, punctuation or original trailing fence added, removed or normalized",
+    "authority_role": "HISTORICAL_PROVENANCE_ONLY_UNCLASSIFIED_LEGACY"
+  },
+  "decision_preservation": {
+    "initial_decision": "NOT_QUALIFIED",
+    "initial_review_original_sha256": "6a645d2d2ecc073a7c2b4d05507620a59978493f72dac1c535a6548db4d6062a",
+    "initial_decision_route": "series/silent-witch/08 Audits and Manifests/SW_QUALIFICATION_REVIEW.md#sw-qp1-independent-qualification-review-of-the-frozen-initial-pilot",
+    "final_recheck_decision": "QUALIFIED_AS_CORRECTED",
+    "final_recheck_original_sha256": "df165f835c25894e3029fc00c03685256d2fecbfeb1e22bc0b04335e08bfc8ad",
+    "final_recheck_route": "series/silent-witch/08 Audits and Manifests/SW_QUALIFICATION_REVIEW.md#sw-qp1-independent-erratum-recheck",
+    "preservation": "Existing combined record retains issued initial review and final independent recheck wording with its already-recorded heading-level shifts; this administrative update does not edit those sections."
+  },
+  "administrative_beforeimage": {
+    "source_commit": "f642081bbd8c5648e694900cb9d9680c4437f98c",
+    "qualification_record_sha256": "f1d4b40f16f4469a7306c6e3b8094ad4d3ddd62698bcc876b7c692e482bef199",
+    "scope": "Original memo archival, accepted-composite binding and current authorization routing only; frozen pilot members unchanged"
+  },
+  "authority_boundary": {
+    "current_literary_authority": "V1",
+    "pilot_members": "draft_noncurrent",
+    "source_reading_permission": "NONE_FROM_THIS_MANIFEST",
+    "full_generation_authorization": "Separate conditional owner instruction routed by the canonical current entrypoint",
+    "authority_promotion": "NOT_AUTHORIZED"
+  }
+}

@@ -11,6 +11,8 @@ do_not_use_as_current_authority: false
 
 # Source locator index — main-principal evidence
 
+The original main-only index below retains its authored source/exposure scope. The dated Phase B appendix adds separately tagged validation routes; it does not add holdouts to the main derivation corpus or certify expanded literary/component completion.
+
 This partial index makes the already frozen main-principal routes explicit. It is not the final full-corpus index, a new source admission, a new narrative read, or proof that excluded edition components have been analyzed. The seventeen native identities and 137 member contracts below are an exact readable projection of the accepted [main-principal evidence freeze](../09%20Audits%20and%20Manifests/KONOSUBA_MAIN_PRINCIPAL_EVIDENCE_FREEZE.json), SHA256 `4f4491ad50a55b00d4e218b4869fc409199e549db2f03df1c1e3be8c9f12a028`. The freeze records distinct actual reading, inherited authority and metadata-affiliation scopes. No holdout or expanded body was opened to prepare this index.
 
 ## Reproducing a route
@@ -382,3 +384,343 @@ This is the accepted main-only evidence plane of the project’s maintained inde
 Root accepted the bounded locator successor on 2026-10-17T16:47:45.960111Z, following the previously complete predecessor/prose receiving and exact six-operation successor review. That scope comprises 17 native identities, 137 principal member rows, ten historical ledger routes, seven specialists, six R1 model routes, all 43 contracts and six CR007 overlay pins. The earlier producer candidate remains independently recoverable with SHA256 `5b73dc43ec2c18df180604f6e92efc0a77996ff6cbe522b1f900f836b60da676`. This wrapper changes authority/scope metadata and adds this attribution; it does not claim a new seventeen-volume primary read.
 
 The rolling-ledger identities in this main-only plane describe the 3b92 freeze. Later ledger appends do not replace that historical state. The [character-model evidence matrix](KONOSUBA_CHARACTER_MODEL_EVIDENCE_MATRIX.md) supplies accepted main-only claim routes with its own explicit localization limits. Withheld and expanded evidence, actual visual/bonus/afterword inspection and final complete-corpus index acceptance remain separately required.
+
+
+## Phase B: four designated frozen-model validation sources — 2026-10-17T21:53:24.382586+00:00
+
+These 25 admitted principal members were completely read for unchanged-R1 source-local validation. They are not 25 independent opportunities, whole-edition completion or completed Stage C literary analyses. Resolve every contract via the [four-book route overlay](KONOSUBA_WITHHELD_VALIDATION_EVIDENCE_OVERLAY.json), its exact accepted-record path/contract_id and source-member table. YORI original root event cards require the linked current errata/K08 counterexample; original errors are not unqualified current interpretation. MASK current event cards retain external precision. DUST06/DUST07 routes and their context/missingness remain the exact accepted judgments.
+
+| Score label / native source | Unit | Exact member | All-body P bounds | Member SHA256 | Native SHA256 |
+|---|---|---|---|---|---|
+| YORI01 / YORI-01 | C01 | `text/part0010.html` | 1–336 | `d4cf22b19da44890c01c8afcd571058a94f672c0598c1ad4962b00cf5c21666f` | `71bf144bb0cead076949ef195e773eadab84676c2d650935bb41786794fd3594` |
+| YORI01 / YORI-01 | C02 | `text/part0012.html` | 1–353 | `b21083b8523c2b3f6703e9dc1a7755285e821f14ba9c34d49edaa106ce50abc4` | `71bf144bb0cead076949ef195e773eadab84676c2d650935bb41786794fd3594` |
+| YORI01 / YORI-01 | C03 | `text/part0014.html` | 1–367 | `a30ebfe41332c78ffa76d99a952911f15f7bc77daf58887a5ea49445604b9431` | `71bf144bb0cead076949ef195e773eadab84676c2d650935bb41786794fd3594` |
+| YORI01 / YORI-01 | C04 | `text/part0016.html` | 1–398 | `63bed8223c62f387c1377bb6a969d24ba25db81aa7e3ec06cc48b9d6b2ecee62` | `71bf144bb0cead076949ef195e773eadab84676c2d650935bb41786794fd3594` |
+| YORI01 / YORI-01 | C05 | `text/part0018.html` | 1–312 | `f98d101efb147882b8ab4b49837b148c19596a30310034d4c7e60e2a821e5ad6` | `71bf144bb0cead076949ef195e773eadab84676c2d650935bb41786794fd3594` |
+| YORI01 / YORI-01 | C06 | `text/part0020.html` | 1–302 | `1be523b948822df73ada764c5f7f05309ee688866be5e05980222e337f27e0c2` | `71bf144bb0cead076949ef195e773eadab84676c2d650935bb41786794fd3594` |
+| YORI01 / YORI-01 | C07 | `text/part0022.html` | 1–472 | `114f35a942b8917aa4b2ee0db34da1674f5ddc23eb6a7b8b2dd2f7bba20258fc` | `71bf144bb0cead076949ef195e773eadab84676c2d650935bb41786794fd3594` |
+| YORI01 / YORI-01 | C08 | `text/part0024.html` | 1–208 | `29f0bb171e904e4c2fc26095f622d6113275109a97df5440a40ec54e94aa4f9b` | `71bf144bb0cead076949ef195e773eadab84676c2d650935bb41786794fd3594` |
+| MASK / MASK | Pro | `text/part0009.html` | 1–45 | `891af7555bad39fd0fb25a1cd215a3f81452bf910ca6734f9b2bcc646f42a409` | `fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127` |
+| MASK / MASK | C01 | `text/part0011.html` | 1–481 | `ab88204aa23589b72f12c363847dde22702100bc37b17ff12bc75d1c619a8801` | `fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127` |
+| MASK / MASK | C02 | `text/part0013.html` | 1–518 | `f05e2d91c0172071fe267417fee8952b8642814e0adac0b061fb346f6e1dd8b3` | `fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127` |
+| MASK / MASK | C03 | `text/part0015.html` | 1–587 | `77f38b0b0eb23e61062712bf10bce0a97e0bb37863f55a5f62c046584fd29f33` | `fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127` |
+| MASK / MASK | C04 | `text/part0017.html` | 1–648 | `debf120259f59eb8f28a6fb05e1f7e01eae2a24b1b1ac50cef7c81fdb455fe3f` | `fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127` |
+| MASK / MASK | C05 | `text/part0019.html` | 1–556 | `afa3465b454f22d0795390e6d0b0c5f4dd93f5426bd492678692d45bd744f16d` | `fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127` |
+| MASK / MASK | Epi | `text/part0021.html` | 1–27 | `702642bc0b1e8be4d3b45b538e83124f046fedeeab4cd43d771bbe29d323efd6` | `fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127` |
+| DUST06 / DUST-06 | C01 | `item/xhtml/p-002.xhtml` | 1–640 | `650c8f241a553f41945bb77f0605b830d4c99e92c89121632d2f3d488edacfcb` | `d533fc314c5ecb86ff9316e372d2b4eb9747d65eb413e4d9a8b97a52b2fff4a1` |
+| DUST06 / DUST-06 | C02 | `item/xhtml/p-003.xhtml` | 1–1033 | `c5c70671020fd39427857d6572b3037e53506fc7e4e1dc29dbdb2d5d57f5b716` | `d533fc314c5ecb86ff9316e372d2b4eb9747d65eb413e4d9a8b97a52b2fff4a1` |
+| DUST06 / DUST-06 | C03 | `item/xhtml/p-004.xhtml` | 1–597 | `b5af4a189f729eb64a67120258f8b811d76d1d0905468d74fdb85805cd2cc719` | `d533fc314c5ecb86ff9316e372d2b4eb9747d65eb413e4d9a8b97a52b2fff4a1` |
+| DUST06 / DUST-06 | C04 | `item/xhtml/p-005.xhtml` | 1–640 | `5fa013adda41e8989c0fa71b01618d38b85cddb31f2b7b8be9d8c1f1074e3bb6` | `d533fc314c5ecb86ff9316e372d2b4eb9747d65eb413e4d9a8b97a52b2fff4a1` |
+| DUST06 / DUST-06 | Epi | `item/xhtml/p-006.xhtml` | 1–67 | `fc476f7ed5a0ab7a7ed57a0f15c41273d00517e5a7025d2b5cf3b4f63a66d37e` | `d533fc314c5ecb86ff9316e372d2b4eb9747d65eb413e4d9a8b97a52b2fff4a1` |
+| DUST07 / DUST-07 | Pro | `item/xhtml/p-002.xhtml` | 1–51 | `7ea4de340201b002efe97a46f4639b4d588a0d6e0b447634919a21341f41e46a` | `cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5` |
+| DUST07 / DUST-07 | C01 | `item/xhtml/p-003.xhtml` | 1–1115 | `c9ba71b51dab40b49a9f5d2b42952a635d1dd55a4e9c2aae16853c21d8e256e1` | `cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5` |
+| DUST07 / DUST-07 | C02 | `item/xhtml/p-004.xhtml` | 1–890 | `fffa57992203fe201aa2feb701792a5b7168bb29542cf44f34f1dffbba24b8d5` | `cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5` |
+| DUST07 / DUST-07 | C03 | `item/xhtml/p-005.xhtml` | 1–677 | `6777b851ec9f2e450e5cb21d96956c1ab584b9f2d3438842eceafb76241bf39a` | `cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5` |
+| DUST07 / DUST-07 | Epi | `item/xhtml/p-006.xhtml` | 1–148 | `b44ca1e68568f6e50d74461e956b1d432a296135e95cd93142f6054d85ae923d` | `cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5` |
+
+The original source receipts retain actual exposure order, chronology, narrator access, ruby/base conventions, reviewer limits, excluded bodies/images and original authorship-time publication status. Later actual gates are reconciled in the current-state map and run audit; this derived index is neither a new primary reading nor an exact-head publication receipt. All main-only member rows and the original structured matrix remain unchanged. Expanded bonus fiction and all eligible mixed/reference components still need individual routes and dispositions.
+
+
+## Stage C DUST-01 routes — 2026-10-17T22:53:08.846506+00:00
+
+[Dust V01](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V01_DEEP_READING.md) §16 maps all nine complete principal members, native one-based P bounds, base/ruby counts and high-consequence scenes. [Edition analysis](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V01_COMPONENT_ANALYSIS.md) identifies DUST-01-BONUS-01 (p-012.xhtml P1–52), afterword, all16 nonprincipal containers and all27 actually viewed images. The [component register](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V01_COMPONENT_REGISTER.json) preserves each native member/image hash and unequal authority. These expanded routes are outside frozen main derivation; quoted/depicted main events are not fresh independent occurrences.
+
+
+## Stage C two-artbook source routes — 2026-10-17T23:27:29.977226+00:00
+
+The [Cheers component register](../10%20Expanded%20Corpus/Artbooks/KONOSUBA_CHEERS_COMPONENT_REGISTER.json) joins all137 actually viewed native pages to exact wrapper/image members and hashes; [Blessing](../10%20Expanded%20Corpus/Artbooks/KONOSUBA_BLESSING_COMPONENT_REGISTER.json) does the same for all157. These counts describe actual component inspection, not independent event counts, source-wide joke denominators or whole-corpus coverage percentages. The accepted reports and receiving receipts state full/selected reader scopes.
+
+| Stable component | Reproducible native route | Accepted authority / analysis |
+|---|---|---|
+| ART-CHEERS-ILLUSTRATED-V04-01 | S030–033, item/image/i-024.jpg–i-027.jpg, printed024–027 | Dependent MAIN04 frontispiece per actual index; imagined wishes, not completed acts; analysis§3 |
+| ART-CHEERS-BANTER-108-01 | S114, printed108 upper anniversary illustration | Limited illustrated character banter; exact in-world date OPEN |
+| ART-CHEERS-STORY-01 | S124–128, item/image/i-118.jpg–i-122.jpg, printed118–122, bandsB1/B2/B3 read RTL within each | Entire author story analyzed§4–8; one frog contest; source-correct sequence/speakers; exact reprint join OPEN |
+| ART-BLESSING-ALBUM-FRAME-01 | S009–053, per-page native image hashes/regions in complete inventory | New interleaved caption dialogue separate from reproduced MAIN11–17 events; retrospective frame does not date separate story |
+| ART-BLESSING-SONG-01 | S140–141, printed134–135 | Full reader-facing drawing song; Komekko invitation, Megumin praise/offered hug, no completed hug/acoustic performance |
+| ART-BLESSING-STORY-01 | S142–148, printed136–142; exact wrapper/image hashes in register | Entire seven-page author story; Kazuma narration, information-updated spell interruption, distinct ensemble labor and indirect cleaning/salmon inference |
+| ART-BLESSING-MOVIE-BONUS-COVER-01 | S097 | Cover only inspected; unseen admission-bonus novel prose not analyzed/admitted by the image |
+
+Selected Japanese forms retain named speaker/addressee/context in each report/register. Blessing’s original68author labels require the companion28H3qualifications; no silent recoding or added validation trial. For current ledger claims EC-ARTBOOKS-CS/RS/DE/CC/HM/JV/SO/KN/OL/MP01–02, follow the named report region in each row and then its native image/hash. Original main-only locator authority remains retrievable unchanged.
+
+
+## Stage C FAN-MEM supplied-component routes — 2026-10-18T00:05:03.198219+00:00
+
+The [complete register](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_REGISTER.json) binds all 121 native page assets/21coherent groups to wrapper/image hashes; it does not turn121pages into121events. Native SHA256`e08725fc99cebadd52f93d05122de36d4ae39b435d0d993c41b068b127ebb32d`, electronic2020-04-01ver.001. Stablefiction IDs: FAN-MEM-FIC-01 bodyS096–099/item/xhtml/p-094.xhtml–p-097.xhtml; FAN-MEM-COMIC-01 S100–107/p-098.xhtml–p-105.xhtml; FAN-MEM-REPRINT-01 S110–111/p-108.xhtml–p-109.xhtml. Exactprintedpage/spine/nativeimage joins inregister are reproducible without inventedPparagraphs. RTLprose tiers andcomicpanelorder remainmaterial.
+
+CreatorinterviewS090–094/p-088.xhtml–p-092.xhtml isreal-worldtestimony; referenceprofiles/quotedart/scriptedcolumns/hypotheticalbath/promoguide are separatelytagged. BibliographyS108–109/S112–113 is title/covermetadata, notbody reading. S114/S120actualcolophons; sourcecroppedjacketedges notinvented. Rootactual42 uniquepages, full reader121, all threefictionbodiesfullyreadbyboth; nosecondwhole editionpass. [Receivingprecision](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_RECEIVING_PRECISION_OVERLAY.md) qualifies fabricatedexpiry, unexecutedDusttest andH/Lwarrants. Originalfrozenmain evidence and fourholdout score routes remainunchanged.
+
+
+## Stage C DUST-02 supplied-edition routes — 2026-10-18T01:39:32.953430+00:00
+
+Native EPUB SHA256`4dfbfdde2052cf435d1d843d8127c3fa4139c046b3abddd34ab63bfd3dda531f`,18886514bytes. Bounds are one-based native body-p positions including blanks/images; base excludes rt/rp and retains tails. [Principal analysis](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V02_DEEP_READING.md), [component register](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V02_COMPONENT_REGISTER.json), [receiving](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V02_RECEIVING_AND_PROVENANCE.json).
+
+| Unit | Native member | Complete P bounds | Member SHA256 |
+|---|---|---|---|
+| Pro | `item/xhtml/p-002.xhtml` | 1-16 | `a98615c33220a7fc8d6137ae507462a54a7b0e27dec36185f408a0514705cf8a` |
+| C01 | `item/xhtml/p-003.xhtml` | 1-232 | `08de81dc831ebeb14c9ba61b6ce29f5eee0f4847fb5c231cb1ae7da3d94989f4` |
+| C02 | `item/xhtml/p-004.xhtml` | 1-847 | `0019755dfdc969bc87d6a37c06e1de41e5489efb9f4aa21dc9cbe75856389acc` |
+| C03 | `item/xhtml/p-005.xhtml` | 1-784 | `3ab022f0f5cfb9e26817aabbce17843920d93398f619a6095115d593287de4ce` |
+| C04 | `item/xhtml/p-006.xhtml` | 1-550 | `03ba3c619b0841e887d3d17d285391661633457189007737fc37a3c9ce710fac` |
+| Final | `item/xhtml/p-007.xhtml` | 1-555 | `389566bf26a458387cf1ed061d5281a71848946948a2a55f69f258f9fcb5eca2` |
+| Epi | `item/xhtml/p-008.xhtml` | 1-68 | `76cf0ab4cc98c9394868a130ff5ae11ecfce1fefe95fe3cd378b03277af733c2` |
+
+DUST-02-BONUS-01 (admissionS18), 仲間の秘密, p010P1-67/2031base/0ruby, is separately admitted complete fiction. Afterword p009P1-21 includes three signed creator comments in the raster image at21. All16 excluded containers/139P/17nav and23images have exact native identities/dispositions in the register; repeated art/prologue is not repeated independent evidence.
+
+Current routes: C03P149/P156-176/P420-424 (refusal, coercive plan, act); Final217-250 (transport, alternatives); Final355-381 (numerical tactical threat, unnamed377-379); C04P483-490 (Chris diversion), P528-550 (purchase/giving); Final331-352/P436-455/P510-546 (recruited former criminal pullers, shared victory); bonusP23-24/P53-56/P67 (withheld knowledge, plain registers, proposed retreat). Original seven questions/fourteen blanks and main/holdout routes stay exact; selections are not a census or new score.
+
+
+## Stage C TRPG-CORE accepted component routes — 2026-10-18T02:29:30.403076+00:00
+
+Native SHA256`038bfc2d98f5e30853e041942805c7fe17eb8487ee33b8f18da5507f9e57e59c`,118704701bytes. [Complete333register](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json) binds exact wrapper/image members and hashes. Ordinary spine=printed+2; covers/flaps retain individual exceptions. Counts are source/view metadata, not independent events. [Current analysis](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_DEEP_READING.md), [qualifications](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_CURRENT_QUALIFICATIONS.json) and [receiving](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_RECEIVING_AND_PROVENANCE.json) govern reused initial codes.
+
+| Stable component | Native printed/spine route | Accepted authority |
+|---|---|---|
+| TRPG-CORE-REPLAY-01 | printed010-082+084; S012-084+086 | Edited played-session narrative; GM/player/PC/reported past distinct; dependent art039/059/077/083 not additional events |
+| TRPG-CORE-WORLD-01 | printed250-260; S252-262, including259map | Complete second-person guide; unnamed newcomer distinct from Kazuma narrator/Mitsurugi assumption |
+| TRPG-CORE-SCENARIO-01 | printed298-311; S300-313 | Complete prospective scenario/refusal/retreat/failure/reward/afterplay, not an actual run |
+| TRPG-CORE-TEACHING-01 | printed009/085/203/249/263/297 | Staged teaching balloons; no natural J01pairs or main timeline |
+| TRPG-CORE-PERSONA-01 | printed101/103/105/107/109;111-115; dispersed flavor | Optional persona/history/reference, not actual genealogies or performed spells |
+| TRPG-CORE-RULES-01 | printed203-248 and related passages | Game mechanics/embedded examples at actual reading scope; conditional cover235 |
+| TRPG-CORE-GM-01 | printed263-296 | GM guidance, quests, enemies and traps;271pointer289 conflicts withactual288/index321 |
+| TRPG-CORE-PARATEXT-01 | front matter,312-323appendix, covers/forms/colophon/platform | Individually scoped reference/visual/bibliographic matter |
+
+Ledger IDs TRPGC-CS/RS/DE/CC/HM/JV/KN/OP/SO/PV01-03 retain their subjects and printed source routes. Current qualifications:235conditional cover;062king/frog pun and reported device property;113visible殺しの魔名 but unproved phonetic pun;105written timing without establishedL3;009skepticism and085recruitment at staged plane;253advertised500Ewithout shown collection. Original75/41objects/codes, all120comic-note pages, frozen main evidence/four holdout scores/original14blanks stay retrievable unchanged.
+
+
+## TRPG-ADV accepted supplied-edition routes — 2026-10-18T05:03:55.185963+00:00
+
+Native123248665bytes/SHA256`2efe00b0a914cf725dfd8a52a1983b8f633705330054bf82b0b9e09165cd9e7c`. [All331native component rows](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_ADV_COMPONENT_REGISTER.json) bind actual wrapper/image members/hashes, reading scope,282uncoded observations and selected100/49analysis links. [Full reading](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_ADV_DEEP_READING.md), [qualifications](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_ADV_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_ADV_RECEIVING_AND_PROVENANCE.json) distinguish same-root authorship, rule discrepancies and unequal source planes.
+
+| Component range | Printed / native route | Authority and limits |
+|---|---|---|
+| Replay |010–106 / S012–108|Edited/coauthored PCs, players, GM, narrator and reported past; not main-novel events|
+| Character/growth |107–219 / S109–221|Optional personas/races/skills and revised rules; full flavor, dense table limits|
+| Headquarters |220–234 / S222–236|Rules/flavor; selected facilities/upkeep, not every proposed installation|
+| World |235–250 / S237–252|Reference/profiles/rumor/divider/marketing, not11new plot scenes|
+| GM |251–294 / S253–296|Enemy/trap guidance, authored ecology/rules and individual dense-stat limits|
+| Scenario |295–309 / S297–311|All branches/script/ending/afterplay read, unperformed|
+| Appendix/end matter |S312–331|Numeric/index inspection, empty forms, repeated cover art, colophon/retailer|
+
+Printedpage≈spine−2does not replace exact native rows, especially unnumbered art/forms/covers. SelectedU001–100/V001–049and ledgerCS/RS/DE/CC/HM/JV/KN/OP/SO/PV01–03are descriptive, not newJ01/J02orholdout trials. Croak/fortuneL3hasactualsoundwarrant;staging/gameabstractionisnotautomaticH3/H4. Sealeduncoded notes and all frozen authority/score/blank fields remain unchanged.
+
+
+## DUST-03 accepted whole-edition routes — 2026-10-18T06:18:22.445096+00:00
+
+Native18686443bytes/SHA256`58b6a86f341eff89b1b4743c0a62a0c1535c8b4ecb1163fe104fda7fa26f3040`. [All25text/24image dispositions](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_COMPONENT_REGISTER.json), [full reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_DEEP_READING.md), [selected60premises](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_HUMOR_REGISTER.md), [77voice contexts](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_VOICE_REGISTER.md), [seven local assessments](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [receiving](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V03_RECEIVING_AND_PROVENANCE.json) retain exact native routes.
+
+| Component | Native route / literal P slots | Current authority |
+|---|---|---|
+| U001–009 | Cover/front/caption/profile/title/caution/contents | Actual unequal visual/editorial/paratext scopes; IMG002currentYunyun correction |
+| U010 | p-002.xhtml /31P | Prologue duplicates the later U013 privacy event |
+| U011 | p-003.xhtml /813P | Chapter1; actual provider agency, coercion and libation |
+| U012 | p-004.xhtml /545P | Chapter2; ring provenance before commitment, resale refusal after |
+| U013 | p-005.xhtml /913P | Chapter3; rescue obstruction, mediated past and false dream inference |
+| U014–016 | p-006/007/008 /370+0+44P | Final chapter/flight; image20 dependent illustration, U016exact spear rule |
+| U017 | p-009.xhtml /39P | Actual epilogue confirmed by image21banner; gratitude checks disguise |
+| U018–020 | p-010/011/012 /27+4+50P | Author afterword, bonus title and complete separate bonus |
+| U021–025 | Allcover/colophons/retailer/nonspine navigation | Marketing/credits/legal/reference, not extra plot trials |
+
+Native one-basedPincludes blank/image slots; all ruby readings and nonparagraph residuals received. U010/U013and caption reuse do not multiply events. Explicit black/blue-eyes idiom supports L3; metaphors have actual H4license; no H3/H4from staging/fantasy alone. All34ledger rows have separate exact current-prefix controls and source/adverse limits. Original frozen14futurefields remain blank.
+
+
+## DUST-04 accepted whole-edition routes — 2026-10-18T07:29:49.102050+00:00
+
+Native11564184bytes/SHA256`db62634fde71d33a45d2bb4832611825ff6853efdd7cac1bc4d0fc99b47f2c23`. [All21text/24image dispositions](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_COMPONENT_REGISTER.json), [full17responsibility reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_DEEP_READING.md), [68selectedpremises](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_HUMOR_REGISTER.md), [80voicecontexts](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_VOICE_REGISTER.md), [7localassessments](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [provenance](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_RECEIVING_AND_PROVENANCE.json) control exact native joins.
+
+| Unit | Native route / P slots | Current authority |
+|---|---|---|
+| U001–009 | Cover/front/caption/profile/title/caution4P/contents10P | Unequal art/editorial/paratext; all images actually viewed |
+| U010 | p-002.xhtml /31P | Prologue duplicates the U014 final draw |
+| U011 | p-003.xhtml /568P | Chapter1; retaliation and Taylor cash loss |
+| U012 | p-004.xhtml /1086P | Chapter2; commission, surveillance, broken conditions and arrest |
+| U013 | p-005.xhtml /480P | Chapter3; real confession/threat, provider-dependent escape and recapture |
+| U014 | p-006.xhtml /441P | Finalchapter; coercive release demand, actual sword stake, weak-card victory |
+| U015 | p-007.xhtml /42P | Actual epilogueIMG021; compensation and small completed care |
+| U016 | p-008.xhtml /24P | Author afterword/contributorimage22; no heard-audio claim |
+| U017–021 | Allcover/colophons20+3P/retailer/nonspine navigation | Marketing/credits/notices/reference; no separately supplied bonus story |
+
+Principal2648P/other61P/total2709P includes blank/image slots; every ruby and nonparagraph residual received. Images are separately dispositioned, and their placement does not certify the adjacent action pictured. Two explicit Japanese-form mechanisms warrant L3; damage/boat comparisons provide H4license; no H3quota or fantasy-to-H4 shortcut. Four scores and original14futurefields remain unchanged.
+
+
+## Dust04 N01 attributable precision — 2026-10-18T08:13:02.489477+00:00
+
+[Current narrow correction](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_N01_COERCIVE_DANGER_PRECISION.json) removes the added bodily-injury threshold from the unchanged coercive-danger contract and counts the unilateral leisure wager after no as direct contrary choice. Original a3451baa report/assessment/uncoded streams remain exact historical publication; actual protection and Dust03 contrary evidence remain. Correction is dated after Dust05uncoded reading through U011P1344; no Dust05formal outcome or original prebody rewrite. Joins the next exact publication/full gate.
+
+
+## DUST-05 accepted whole-edition routes — 2026-10-18T09:04:10.135762+00:00
+
+Native6713820bytes/SHA256`bdd0f7af1fe772cf0c760ebf2e1b9c7e2bd1fc7ed7d84ad9c4ec1d887e422ffc`. [All19text/21image dispositions](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_COMPONENT_REGISTER.json), [full17responsibility reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_DEEP_READING.md), [68selectedpremises](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_HUMOR_REGISTER.md), [98voicecontexts](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_VOICE_REGISTER.md), [7localassessments](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [provenance](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_RECEIVING_AND_PROVENANCE.json) control exact joins.
+
+| Unit | Native route / P slots | Current authority |
+|---|---|---|
+| U001–009 | Front art/captions/credits/caution4P/TOC8P/profiles | All actual images; unequal editorial/marketing authority |
+| U010 | p-002.xhtml /637P | Chapter1, money/mining/dreams/main-side events |
+| U011 | p-003.xhtml /1344P | Chapter2, child care/bounded recovery/coercive influence |
+| U012 | p-004.xhtml /723P | Chapter3, campaign/search/transformation/name/contract |
+| U013 | p-005.xhtml /29P | Reader-only epilogue, bannerIMG017 |
+| U014 | p-006.xhtml /25P | Afterword/contributorIMG019 |
+| U015–019 | Allcover/colophon20P/use3P/retailer/nonspine nav | Full art/metadata/notices/reference, no separate bonus |
+
+Principal2733P/other60P/total2793P. Images014/016/018 depict arrival/pastbattle/princess rather than all neighboring actions. Original98anchors exact and interval-time unknowns retained. One central Japanese blend warrants L3; no primaryH3/H4quota or fantasy shortcut. Earlier additive Dust04N01precision travels in this publication. Frozen scores and14futurefields unchanged.
+
+
+## DUST-06 accepted whole-edition routes — 2026-10-18T10:04:53.783186+00:00
+
+Native4582670bytes/SHA256`d533fc314c5ecb86ff9316e372d2b4eb9747d65eb413e4d9a8b97a52b2fff4a1`. [Component register](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_COMPONENT_REGISTER.json), [full reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_DEEP_READING.md), [63selectedpremises](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_HUMOR_REGISTER.md), [107voicecontexts](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_VOICE_REGISTER.md), [seven assessments](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_EXPLORATORY_LOCAL_ASSESSMENTS.json), [current qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V06_RECEIVING_AND_PROVENANCE.json) control exact joins.
+
+| Unit | Native member / P slots | Actual role |
+|---|---|---|
+| DUST-06-U001 | item/xhtml/p-cover.xhtml / 0 | COVER_ART_WRAPPER |
+| DUST-06-U002 | item/xhtml/p-fmatter-001.xhtml / 0 | FRONT_PRINCESS_ART |
+| DUST-06-U003 | item/xhtml/p-fmatter-002.xhtml / 0 | IMAGE_CONTENTS |
+| DUST-06-U004 | item/xhtml/p-fmatter-003.xhtml / 0 | UNCAPTIONED_FRONT_YUN_ART |
+| DUST-06-U005 | item/xhtml/p-fmatter-004.xhtml / 0 | CAPTIONED_FRONT_PRINCESS_ART |
+| DUST-06-U006 | item/xhtml/p-titlepage.xhtml / 0 | TITLE_CREDITS |
+| DUST-06-U007 | item/xhtml/p-caution.xhtml / 4 | CAUTION_PARATEXT |
+| DUST-06-U008 | item/xhtml/p-toc-001.xhtml / 9 | TEXT_CONTENTS |
+| DUST-06-U009 | item/xhtml/p-001.xhtml / 0 | EDITORIAL_CHARACTER_PROFILES |
+| DUST-06-U010 | item/xhtml/p-002.xhtml / 640 | PRINCIPAL_CHAPTER_ONE |
+| DUST-06-U011 | item/xhtml/p-003.xhtml / 1033 | PRINCIPAL_CHAPTER_TWO_WITH_PAST_FLIGHT |
+| DUST-06-U012 | item/xhtml/p-004.xhtml / 597 | PRINCIPAL_CHAPTER_THREE_AND_LEEN_VIEWPOINT |
+| DUST-06-U013 | item/xhtml/p-005.xhtml / 640 | PRINCIPAL_CHAPTER_FOUR |
+| DUST-06-U014 | item/xhtml/p-006.xhtml / 67 | PRINCIPAL_EPILOGUE |
+| DUST-06-U015 | item/xhtml/p-007.xhtml / 40 | AUTHOR_AFTERWORD_AND_CONTRIBUTOR_IMAGE |
+| DUST-06-U016 | item/xhtml/p-allcover-001.xhtml / 0 | WRAP_COVER_MARKETING_FLAPS |
+| DUST-06-U017 | item/xhtml/p-colophon.xhtml / 20 | ELECTRONIC_COLOPHON |
+| DUST-06-U018 | item/xhtml/p-colophon2.xhtml / 3 | USE_NOTICE_PARATEXT |
+| DUST-06-U019 | item/xhtml/p-bookwalker.xhtml / 0 | RETAILER_LOGO_WRAPPER |
+| DUST-06-U020 | item/navigation-documents.xhtml / 0 | NONSPINE_NAVIGATION_REFERENCE |
+
+Principal2977P/other76P/total3053P; full ruby/residual/image scopes before uncoded seal 2026-10-18T09:47:38.481368+00:00;63selected premises/107native-joined voices/7unchanged-question local assessments/34ten-ledger appends. Supplemental6accepted/5already publishedof19; mixed5published; global percentage null. All20text/19image supplied-edition scopes actually read; principal U010-0142977P, other76P. Past flight, current Dust, Leen alternate viewpoint, explicit lies, mediated legend and letters retain access. IMG015pastnap/IMG016farewellsword/IMG018earlieropenhand do not certify unpictured night/vow/kiss/lift/flight. Front/profile/wrap/contributor/notice planes unequal; no separately supplied bonus/audio/movie credit.
+
+
+## Prediction/validation continuation route — 2026-10-18T10:24:58.590817+00:00
+
+The [original ledger](../03%20Longitudinal%20Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md) preserves its exact pre-extension1037070byte prefix/SHA256`e5947567f5c2c7661fe4b7000a0673626cd1515663e43fbd03e083dac17abb4a` plus only a route. New expanded-source entries append in [Continuation01](../03%20Longitudinal%20Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md). Same analytical responsibility, no forecast/score reset or filled original blank fields.
+
+
+## DUST-07 accepted whole-edition routes — 2026-10-18T11:33:04.335402+00:00
+
+Native4740436bytes/SHA256`cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5`. [Component register](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_COMPONENT_REGISTER.json), [full reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_DEEP_READING.md), [64selectedpremises](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_HUMOR_REGISTER.md), [146voicecontexts](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_VOICE_REGISTER.md), [seven assessments](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_EXPLORATORY_LOCAL_ASSESSMENTS.json), [current qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V07_RECEIVING_AND_PROVENANCE.json) control exact joins.
+
+| Unit | Native member / P slots | Actual role |
+|---|---|---|
+| DUST-07-U001 | item/xhtml/p-cover.xhtml / 0 | COVER_ART_WRAPPER |
+| DUST-07-U002 | item/xhtml/p-fmatter-001.xhtml / 0 | FRONT_DEPENDENT_PAIR_ART |
+| DUST-07-U003 | item/xhtml/p-fmatter-002.xhtml / 0 | IMAGE_CONTENTS_AND_MEMORIAL_ART_CREDIT |
+| DUST-07-U004 | item/xhtml/p-fmatter-003.xhtml / 0 | UNCAPTIONED_PARTY_MEAL_ART |
+| DUST-07-U005 | item/xhtml/p-fmatter-004.xhtml / 0 | UNCAPTIONED_LEEN_SMALL_ART |
+| DUST-07-U006 | item/xhtml/p-titlepage.xhtml / 0 | TITLE_CREDITS |
+| DUST-07-U007 | item/xhtml/p-caution.xhtml / 4 | CAUTION_PARATEXT |
+| DUST-07-U008 | item/xhtml/p-toc-001.xhtml / 9 | TEXT_CONTENTS |
+| DUST-07-U009 | item/xhtml/p-001.xhtml / 0 | EDITORIAL_CHARACTER_PROFILES |
+| DUST-07-U010 | item/xhtml/p-002.xhtml / 51 | PRINCIPAL_PAST_PROLOGUE |
+| DUST-07-U011 | item/xhtml/p-003.xhtml / 1115 | PRINCIPAL_CHAPTER_ONE_MOBILIZATION_TRAINING_SWORD_LOAN |
+| DUST-07-U012 | item/xhtml/p-004.xhtml / 890 | PRINCIPAL_CHAPTER_TWO_DEFENSE_BREACH |
+| DUST-07-U013 | item/xhtml/p-005.xhtml / 677 | PRINCIPAL_CHAPTER_THREE_TOWN_DEFENSE_AND_AERIAL_END |
+| DUST-07-U014 | item/xhtml/p-006.xhtml / 148 | PRINCIPAL_EPILOGUE |
+| DUST-07-U015 | item/xhtml/p-007.xhtml / 35 | AUTHOR_AFTERWORD_AND_CONTRIBUTOR_IMAGE |
+| DUST-07-U016 | item/xhtml/p-allcover-001.xhtml / 0 | WRAP_COVER_MARKETING_FLAPS |
+| DUST-07-U017 | item/xhtml/p-colophon.xhtml / 20 | ELECTRONIC_COLOPHON |
+| DUST-07-U018 | item/xhtml/p-colophon2.xhtml / 3 | USE_NOTICE_PARATEXT |
+| DUST-07-U019 | item/xhtml/p-bookwalker.xhtml / 0 | RETAILER_LOGO_WRAPPER |
+| DUST-07-U020 | item/navigation-documents.xhtml / 0 | NONSPINE_NAVIGATION_REFERENCE |
+
+Principal2881P/other71P/total2952P; full ruby/residual/image scopes before uncoded seal 2026-10-18T11:04:05.328502+00:00;64selected premises/146native-joined voices/7unchanged-question local assessments/34ten-ledger appends. Supplemental7accepted/6already publishedof19; mixed5published; global percentage null. All20text/19image scopes actually read; principal U010-0142881P, other71P. Prologue memory/current Dust/main reports/opponent lore/known lies/dream fiction/creator paratext retain access. IMG015prior Small trust exchange/IMG016prior Kazuma sword handover/IMG017Dust-spear-white-dragon/IMG018real final Leen hand do not certify other adjacent actions or repeat events. No separately supplied bonus/audio/absent draft/main battle credit.
+
+
+## DUST-CONT accepted whole-edition routes — 2026-10-18T12:45:50.687643+00:00
+
+Native5588468bytes/SHA256`c5ffcf82e82cb0c205f34fe776f99d23fb2ac8cf13841598c92a607988bfa023`. [Component register](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_COMPONENT_REGISTER.json), [full reading](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_DEEP_READING.md), [73selectedpremises](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_HUMOR_REGISTER.md), [150voicecontexts](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_VOICE_REGISTER.md), [seven assessments](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_EXPLORATORY_LOCAL_ASSESSMENTS.json), [current qualifications](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_CONT_RECEIVING_AND_PROVENANCE.json) control exact joins.
+
+| Unit | Native member / P slots | Actual role |
+|---|---|---|
+| DUST-CONT-U001 | item/xhtml/p-cover.xhtml / 0 | COVER_ART_WRAPPER |
+| DUST-CONT-U002 | item/xhtml/p-fmatter-001.xhtml / 0 | DEPENDENT_FRONT_LEEN_ART |
+| DUST-CONT-U003 | item/xhtml/p-fmatter-002.xhtml / 0 | IMAGE_CONTENTS_AND_CREDITS |
+| DUST-CONT-U004 | item/xhtml/p-fmatter-003.xhtml / 0 | UNCAPTIONED_BRIDAL_ART |
+| DUST-CONT-U005 | item/xhtml/p-fmatter-004.xhtml / 0 | UNCAPTIONED_PAIR_BLOSSOM_ART |
+| DUST-CONT-U006 | item/xhtml/p-titlepage.xhtml / 0 | TITLE_CREDITS |
+| DUST-CONT-U007 | item/xhtml/p-caution.xhtml / 4 | CAUTION_PARATEXT |
+| DUST-CONT-U008 | item/xhtml/p-toc-001.xhtml / 11 | TEXT_CONTENTS |
+| DUST-CONT-U009 | item/xhtml/p-001.xhtml / 0 | EDITORIAL_CHARACTER_PROFILES |
+| DUST-CONT-U010 | item/xhtml/p-002.xhtml / 574 | PRINCIPAL_CHAPTER_ONE_RETURN_JOURNEY |
+| DUST-CONT-U011 | item/xhtml/p-003.xhtml / 551 | PRINCIPAL_CHAPTER_TWO_ROYAL_PAST_AND_GROOM |
+| DUST-CONT-U012 | item/xhtml/p-004.xhtml / 510 | PRINCIPAL_CHAPTER_THREE_INVESTIGATION_AND_LEEN_VIEWPOINT |
+| DUST-CONT-U013 | item/xhtml/p-005.xhtml / 531 | PRINCIPAL_CHAPTER_FOUR_INFILTRATION_CONTRACT_AND_CAPTURE |
+| DUST-CONT-U014 | item/xhtml/p-006.xhtml / 573 | PRINCIPAL_CHAPTER_FIVE_WEDDING_EXPOSURE_AND_BATTLE |
+| DUST-CONT-U015 | item/xhtml/p-007.xhtml / 73 | PRINCIPAL_EPILOGUE_DUST_RETURN |
+| DUST-CONT-U016 | item/xhtml/p-008.xhtml / 34 | PRINCIPAL_EPILOGUE_TWO_PRIVATE_GAIBIL_DORECK |
+| DUST-CONT-U017 | item/xhtml/p-009.xhtml / 32 | AUTHOR_AFTERWORD |
+| DUST-CONT-U018 | item/xhtml/p-010.xhtml / 0 | READER_SURVEY_AND_SOCIAL_ADVERTISEMENT |
+| DUST-CONT-U019 | item/xhtml/p-allcover-001.xhtml / 0 | WRAP_COVER_MARKETING_AND_TWO_CREATOR_FLAPS |
+| DUST-CONT-U020 | item/xhtml/p-colophon.xhtml / 20 | ELECTRONIC_COLOPHON |
+| DUST-CONT-U021 | item/xhtml/p-colophon2.xhtml / 3 | USE_NOTICE_PARATEXT |
+| DUST-CONT-U022 | item/xhtml/p-bookwalker.xhtml / 0 | RETAILER_LOGO_WRAPPER |
+| DUST-CONT-U023 | item/navigation-documents.xhtml / 0 | NONSPINE_NAVIGATION_REFERENCE |
+
+Principal2846P/other70P/total2916P; full ruby/residual/image scopes before uncoded seal 2026-10-18T12:18:47.351639+00:00;73selected premises/150native-joined voices/7unchanged-question local assessments/34ten-ledger appends. Supplemental8accepted/7already publishedof19; mixed5published; global percentage null. All23text/22image actual scopes; principalU010-0162846P/other70P. Dust/Leen viewpoint/private Gaibil epilogue/reports/recalled stories/public performance/creator production and marketing retain unequal authority. IMG022is reader survey not contributor panel; two creatorflaps onIMG004; images do not certify unpictured acts. No separate bonus/audio/anime/abandoned-setting credit.
+
+
+## EXP-01 accepted whole-edition routes — 2026-10-18T14:03:27.763693+00:00
+
+Native19168549bytes/SHA256`ce67dad2bc3a47506f8bcaf699f11b767e353f43b94860b23bab35cc1635447e`. [Component register](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_COMPONENT_REGISTER.json), [full reading](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_DEEP_READING.md), [76selectedpremises](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_HUMOR_REGISTER.md), [108voicecontexts](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_VOICE_REGISTER.md), [7 local assessments](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_EXPLORATORY_LOCAL_ASSESSMENTS.json), [current qualifications](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_RECEIVING_AND_PROVENANCE.json) control exact joins.
+
+| Unit | Native member / P slots | Actual role |
+|---|---|---|
+| EXP-01-U001 | item/xhtml/p-cover.xhtml / 0 | COVER_ART |
+| EXP-01-U002 | item/xhtml/p-fmatter-001.xhtml / 0 | COLOR_PAIR_ART |
+| EXP-01-U003 | item/xhtml/p-fmatter-002.xhtml / 0 | COLOR_COMPARISON_CAPTION |
+| EXP-01-U004 | item/xhtml/p-fmatter-003.xhtml / 0 | COLOR_KOMEKKO_HORST_PUZZLE_CAPTION |
+| EXP-01-U005 | item/xhtml/p-fmatter-004.xhtml / 0 | COLOR_NAMED_GROUP_INTRODUCTIONS |
+| EXP-01-U006 | item/xhtml/p-fmatter-005.xhtml / 0 | EXPLICIT_HYPOTHETICAL_SLEEP_OVER_ART |
+| EXP-01-U007 | item/xhtml/p-titlepage.xhtml / 6 | TITLE_AND_CREATOR_CREDITS |
+| EXP-01-U008 | item/xhtml/p-caution.xhtml / 6 | USE_AND_LAYOUT_NOTICES |
+| EXP-01-U009 | item/xhtml/p-001.xhtml / 0 | ARUE_ATTRIBUTED_FICTIONAL_TOURIST_ARTICLE |
+| EXP-01-U010 | item/xhtml/p-002.xhtml / 0 | FICTIONAL_VILLAGE_MAP |
+| EXP-01-U011 | item/xhtml/p-toc-001.xhtml / 0 | IMAGE_CONTENTS |
+| EXP-01-U012 | item/xhtml/p-toc-002.xhtml / 10 | TEXT_CONTENTS |
+| EXP-01-U013 | item/xhtml/p-003.xhtml / 0 | PROLOGUE_BANNER |
+| EXP-01-U014 | item/xhtml/p-004.xhtml / 29 | PRINCIPAL_PROLOGUE_FIRST_HALF |
+| EXP-01-U015 | item/xhtml/p-005.xhtml / 0 | PRINCIPAL_IMAGE_SPOKEN_NAME_BRIDGE |
+| EXP-01-U016 | item/xhtml/p-006.xhtml / 57 | PRINCIPAL_PROLOGUE_SECOND_HALF |
+| EXP-01-U017 | item/xhtml/p-007.xhtml / 0 | CHAPTER_ONE_BANNER |
+| EXP-01-U018 | item/xhtml/p-008.xhtml / 614 | PRINCIPAL_CHAPTER_ONE |
+| EXP-01-U019 | item/xhtml/p-009.xhtml / 0 | INTERLUDE_I_IMAGE_PROSE_PAGE_ONE |
+| EXP-01-U020 | item/xhtml/p-010.xhtml / 0 | INTERLUDE_I_IMAGE_PROSE_PAGE_TWO |
+| EXP-01-U021 | item/xhtml/p-011.xhtml / 0 | INTERLUDE_I_IMAGE_PROSE_PAGE_THREE |
+| EXP-01-U022 | item/xhtml/p-012.xhtml / 0 | CHAPTER_TWO_BANNER |
+| EXP-01-U023 | item/xhtml/p-013.xhtml / 703 | PRINCIPAL_CHAPTER_TWO |
+| EXP-01-U024 | item/xhtml/p-014.xhtml / 0 | INTERLUDE_II_IMAGE_PROSE_PAGE_ONE |
+| EXP-01-U025 | item/xhtml/p-015.xhtml / 0 | INTERLUDE_II_IMAGE_PROSE_PAGE_TWO |
+| EXP-01-U026 | item/xhtml/p-016.xhtml / 0 | INTERLUDE_II_IMAGE_PROSE_PAGE_THREE |
+| EXP-01-U027 | item/xhtml/p-017.xhtml / 0 | CHAPTER_THREE_BANNER |
+| EXP-01-U028 | item/xhtml/p-018.xhtml / 493 | PRINCIPAL_CHAPTER_THREE_WITH_TWO_IMAGE_DIALOGUE_EXPANSIONS |
+| EXP-01-U029 | item/xhtml/p-019.xhtml / 0 | INTERLUDE_III_IMAGE_PROSE_PAGE_ONE |
+| EXP-01-U030 | item/xhtml/p-020.xhtml / 0 | INTERLUDE_III_IMAGE_PROSE_PAGE_TWO |
+| EXP-01-U031 | item/xhtml/p-021.xhtml / 0 | INTERLUDE_III_IMAGE_PROSE_PAGE_THREE |
+| EXP-01-U032 | item/xhtml/p-022.xhtml / 0 | INTERLUDE_III_IMAGE_PROSE_PAGE_FOUR |
+| EXP-01-U033 | item/xhtml/p-023.xhtml / 0 | CHAPTER_FOUR_BANNER |
+| EXP-01-U034 | item/xhtml/p-024.xhtml / 179 | PRINCIPAL_CHAPTER_FOUR_PART_ONE |
+| EXP-01-U035 | item/xhtml/p-025.xhtml / 0 | COMIC_DENIED_JOKING_ALLEGATION_PAGE_ONE |
+| EXP-01-U036 | item/xhtml/p-026.xhtml / 0 | COMIC_DENIED_JOKING_ALLEGATION_PAGE_TWO |
+| EXP-01-U037 | item/xhtml/p-027.xhtml / 427 | PRINCIPAL_CHAPTER_FOUR_PART_TWO |
+| EXP-01-U038 | item/xhtml/p-028.xhtml / 0 | INTERLUDE_IV_IMAGE_PROSE_PAGE_ONE |
+| EXP-01-U039 | item/xhtml/p-029.xhtml / 0 | INTERLUDE_IV_IMAGE_PROSE_PAGE_TWO |
+| EXP-01-U040 | item/xhtml/p-030.xhtml / 0 | INTERLUDE_IV_IMAGE_PROSE_PAGE_THREE |
+| EXP-01-U041 | item/xhtml/p-031.xhtml / 0 | INTERLUDE_IV_IMAGE_PROSE_PAGE_FOUR |
+| EXP-01-U042 | item/xhtml/p-032.xhtml / 0 | CHAPTER_FIVE_BANNER |
+| EXP-01-U043 | item/xhtml/p-033.xhtml / 614 | PRINCIPAL_CHAPTER_FIVE |
+| EXP-01-U044 | item/xhtml/p-034.xhtml / 0 | FINAL_INTERLUDE_IMAGE_PROSE_PAGE_ONE |
+| EXP-01-U045 | item/xhtml/p-035.xhtml / 0 | FINAL_INTERLUDE_IMAGE_PROSE_PAGE_TWO |
+| EXP-01-U046 | item/xhtml/p-036.xhtml / 0 | FINAL_INTERLUDE_IMAGE_PROSE_PAGE_THREE |
+| EXP-01-U047 | item/xhtml/p-037.xhtml / 0 | FINAL_INTERLUDE_IMAGE_PROSE_PAGE_FOUR |
+| EXP-01-U048 | item/xhtml/p-038.xhtml / 0 | EPILOGUE_BANNER |
+| EXP-01-U049 | item/xhtml/p-039.xhtml / 71 | PRINCIPAL_EPILOGUE |
+| EXP-01-U050 | item/xhtml/p-040.xhtml / 0 | MIXED_CREATOR_CREDITS_CAST_AND_SEPARATE_FICTIONAL_END_CODA |
+| EXP-01-U051 | item/xhtml/p-041.xhtml / 5 | COVER_DESIGN_CREDITS |
+| EXP-01-U052 | item/xhtml/p-colophon.xhtml / 18 | ELECTRONIC_COLOPHON |
+| EXP-01-U053 | item/xhtml/p-bookwalker.xhtml / 0 | RETAILER_BRANDING |
+| EXP-01-U054 | item/navigation-documents.xhtml / 0 | NONSPINE_NAVIGATION |
+
+Principal3187P/other45P/total3232P; full ruby/residual/image scopes before uncoded seal 2026-10-18T13:26:33.940923+00:00;76selected premises/108native-joined voices/7unchanged-contract local assessments/34ten-ledger appends. Supplemental9accepted/8already publishedof19; mixed5published; global percentage null. All54textual units/51native images actually inspected;3187principal P plus45other P do not count the18image-only prose pages. Five separately identified Komekko interludes, embedded fictional books, image-only spoken bridges/monologues, an Arue-attributed tourist article, explicitly hypothetical front art, a denied-allegation comic and separate lower end-coda have individual roles. Upper credits/creator comments and lower fiction inIMG025 have unequal authority. No paragraph-only completeness claim or unverified comic event.

@@ -1,0 +1,643 @@
+{
+  "schema": "DUST02_PRINCIPAL_SOURCE_AND_ACTUAL_READING_RECEIPT_V1",
+  "status": "PRIVATE_RECEIVING_CANDIDATE_NOT_PUBLICATION",
+  "source_id": "DUST-02",
+  "author": "昼熊",
+  "original_work": "暁なつめ",
+  "original_character_design": "三嶋くろね",
+  "illustration_credit": "憂姫はぐれ",
+  "bibliographic_date_not_used_as_fictional_chronology": true,
+  "native_identity": {
+    "bytes": 18886514,
+    "sha256": "4dfbfdde2052cf435d1d843d8127c3fa4139c046b3abddd34ab63bfd3dda531f",
+    "OPF": "item/standard.opf",
+    "OPF_sha256": "4c0f802b3540260bec7d32f73b5937450293a5c0ebcc266abe9fd9f9550fc13f",
+    "language": "ja",
+    "EPUB_version": "3.0"
+  },
+  "separate_admission": {
+    "actual_utc": "2026-10-17T23:13:35.129350+00:00",
+    "receipt_sha256": "1d029e984afb97a2a14624bcf53d9f2f3702efc8a2019c24f7aef6fe473c5ce6"
+  },
+  "entering_publication": {
+    "source": "0ce33a0ff540c4aea0f695c375bfcc57db244bca",
+    "tree": "b9653559fe7507ab0fb8cc66a9186a8e9185b496",
+    "Dust01_gate_closed_utc": "2026-10-17T23:12:06.135006Z",
+    "receiving_of_root_gate_metadata_not_new_reading_of_withheld_scores": true
+  },
+  "principal_contracts": [
+    {
+      "unit": "Pro",
+      "native_member": "item/xhtml/p-002.xhtml",
+      "spine_position": 10,
+      "native_member_sha256": "a98615c33220a7fc8d6137ae507462a54a7b0e27dec36185f408a0514705cf8a",
+      "all_body_p": 16,
+      "nonempty": 14,
+      "base_characters": 387,
+      "ruby": 17,
+      "rt": 26,
+      "locator": "body-p ordinal including empty/image p; 1-based; no image-byte reading"
+    },
+    {
+      "unit": "C01",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "spine_position": 11,
+      "native_member_sha256": "08de81dc831ebeb14c9ba61b6ce29f5eee0f4847fb5c231cb1ae7da3d94989f4",
+      "all_body_p": 232,
+      "nonempty": 221,
+      "base_characters": 7984,
+      "ruby": 204,
+      "rt": 296,
+      "locator": "body-p ordinal including empty/image p; 1-based; no image-byte reading"
+    },
+    {
+      "unit": "C02",
+      "native_member": "item/xhtml/p-004.xhtml",
+      "spine_position": 12,
+      "native_member_sha256": "0019755dfdc969bc87d6a37c06e1de41e5489efb9f4aa21dc9cbe75856389acc",
+      "all_body_p": 847,
+      "nonempty": 826,
+      "base_characters": 29459,
+      "ruby": 792,
+      "rt": 1200,
+      "locator": "body-p ordinal including empty/image p; 1-based; no image-byte reading"
+    },
+    {
+      "unit": "C03",
+      "native_member": "item/xhtml/p-005.xhtml",
+      "spine_position": 13,
+      "native_member_sha256": "3ab022f0f5cfb9e26817aabbce17843920d93398f619a6095115d593287de4ce",
+      "all_body_p": 784,
+      "nonempty": 761,
+      "base_characters": 26055,
+      "ruby": 687,
+      "rt": 1039,
+      "locator": "body-p ordinal including empty/image p; 1-based; no image-byte reading"
+    },
+    {
+      "unit": "C04",
+      "native_member": "item/xhtml/p-006.xhtml",
+      "spine_position": 14,
+      "native_member_sha256": "03ba3c619b0841e887d3d17d285391661633457189007737fc37a3c9ce710fac",
+      "all_body_p": 550,
+      "nonempty": 535,
+      "base_characters": 18092,
+      "ruby": 501,
+      "rt": 752,
+      "locator": "body-p ordinal including empty/image p; 1-based; no image-byte reading"
+    },
+    {
+      "unit": "Final",
+      "native_member": "item/xhtml/p-007.xhtml",
+      "spine_position": 15,
+      "native_member_sha256": "389566bf26a458387cf1ed061d5281a71848946948a2a55f69f258f9fcb5eca2",
+      "all_body_p": 555,
+      "nonempty": 542,
+      "base_characters": 18778,
+      "ruby": 476,
+      "rt": 699,
+      "locator": "body-p ordinal including empty/image p; 1-based; no image-byte reading"
+    },
+    {
+      "unit": "Epi",
+      "native_member": "item/xhtml/p-008.xhtml",
+      "spine_position": 16,
+      "native_member_sha256": "76cf0ab4cc98c9394868a130ff5ae11ecfce1fefe95fe3cd378b03277af733c2",
+      "all_body_p": 68,
+      "nonempty": 61,
+      "base_characters": 1855,
+      "ruby": 65,
+      "rt": 91,
+      "locator": "body-p ordinal including empty/image p; 1-based; no image-byte reading"
+    }
+  ],
+  "actual_full_source_coverage": {
+    "all_body_p": 3052,
+    "nonempty": 2960,
+    "base_characters": 102610,
+    "ruby": 2742,
+    "rt": 4103,
+    "ordered_untruncated_windows": 38,
+    "actual_every_projected_base_rt_material_style_read": true,
+    "native_p_xml_integrity": "mechanically verified complete; not a separate claim of full raw XML literary rereading"
+  },
+  "actual_ordered_windows": [
+    {
+      "unit": "Pro",
+      "start": 1,
+      "end": 16,
+      "base_all_ruby_material_styles_read": true,
+      "output_untruncated": true
+    },
+    {
+      "unit": "C01",
+      "start": 1,
+      "end": 80,
+      "base_all_ruby_material_styles_read": true,
+      "output_untruncated": true
+    },
+    {
+      "unit": "C01",
+      "start": 81,
+      "end": 160,
+      "base_all_ruby_material_styles_read": true,
+      "output_untruncated": true
+    },
+    {
+      "unit": "C01",
+      "start": 161,
+      "end": 232,
+      "base_all_ruby_material_styles_read": true,
+      "output_untruncated": true
+    },
+    {
+      "unit": "C02",
+      "start": 1,
+      "end": 80,
+      "base_all_ruby_material_styles_read": true,
+      "output_untruncated": true
+    },
+    {
+      "unit": "C02",
+      "start": 81,
+      "end": 170,
+      "base_all_ruby_material_styles_read": true,
+      "output_untruncated": true
+    },
+    {
+      "unit": "C02",
+      "start": 171,
+      "end": 260,
+      "base_all_ruby_material_styles_read": true,
+      "output_untruncated": true
+    },
+    {
+      "unit": "C02",
+      "start": 261,
+      "end": 350,
+      "base_all_ruby_material_styles_read": true,
+      "output_untruncated": true
+    },
+    {
+      "unit": "C02",
+      "start": 351,
+      "end": 440,
+      "base_all_ruby_material_styles_read": true,
+      "output_untruncated": true
+    },
+    {
+      "unit": "C02",
+      "start": 441,
+      "end": 530,
+      "base_all_ruby_material_styles_read": true,
+      "output_untruncated": true
+    },
+    {
+      "unit": "C02",
+      "start": 531,
+      "end": 620,
+      "base_all_ruby_material_styles_read": true,
+      "output_untruncated": true
+    },
+    {
+      "unit": "C02",
+      "start": 621,
+      "end": 710,
+      "base_all_ruby_material_styles_read": true,
+      "output_untruncated": true
+    },
+    {
+      "unit": "C02",
+      "start": 711,
+      "end": 800,
+      "base_all_ruby_material_styles_read": true,
+      "output_untruncated": true
+    },
+    {
+      "unit": "C02",
+      "start": 801,
+      "end": 847,
+      "base_all_ruby_material_styles_read": true,
+      "output_untruncated": true
+    },
+    {
+      "unit": "C03",
+      "start": 1,
+      "end": 90,
+      "base_all_ruby_material_styles_read": true,
+      "output_untruncated": true
+    },
+    {
+      "unit": "C03",
+      "start": 91,
+      "end": 180,
+      "base_all_ruby_material_styles_read": true,
+      "output_untruncated": true
+    },
+    {
+      "unit": "C03",
+      "start": 181,
+      "end": 270,
+      "base_all_ruby_material_styles_read": true,
+      "output_untruncated": true
+    },
+    {
+      "unit": "C03",
+      "start": 271,
+      "end": 360,
+      "base_all_ruby_material_styles_read": true,
+      "output_untruncated": true
+    },
+    {
+      "unit": "C03",
+      "start": 361,
+      "end": 450,
+      "base_all_ruby_material_styles_read": true,
+      "output_untruncated": true
+    },
+    {
+      "unit": "C03",
+      "start": 451,
+      "end": 540,
+      "base_all_ruby_material_styles_read": true,
+      "output_untruncated": true
+    },
+    {
+      "unit": "C03",
+      "start": 541,
+      "end": 630,
+      "base_all_ruby_material_styles_read": true,
+      "output_untruncated": true
+    },
+    {
+      "unit": "C03",
+      "start": 631,
+      "end": 720,
+      "base_all_ruby_material_styles_read": true,
+      "output_untruncated": true
+    },
+    {
+      "unit": "C03",
+      "start": 721,
+      "end": 784,
+      "base_all_ruby_material_styles_read": true,
+      "output_untruncated": true
+    },
+    {
+      "unit": "C04",
+      "start": 1,
+      "end": 90,
+      "base_all_ruby_material_styles_read": true,
+      "output_untruncated": true
+    },
+    {
+      "unit": "C04",
+      "start": 91,
+      "end": 180,
+      "base_all_ruby_material_styles_read": true,
+      "output_untruncated": true
+    },
+    {
+      "unit": "C04",
+      "start": 181,
+      "end": 270,
+      "base_all_ruby_material_styles_read": true,
+      "output_untruncated": true
+    },
+    {
+      "unit": "C04",
+      "start": 271,
+      "end": 360,
+      "base_all_ruby_material_styles_read": true,
+      "output_untruncated": true
+    },
+    {
+      "unit": "C04",
+      "start": 361,
+      "end": 450,
+      "base_all_ruby_material_styles_read": true,
+      "output_untruncated": true
+    },
+    {
+      "unit": "C04",
+      "start": 451,
+      "end": 550,
+      "base_all_ruby_material_styles_read": true,
+      "output_untruncated": true
+    },
+    {
+      "unit": "Final",
+      "start": 1,
+      "end": 90,
+      "base_all_ruby_material_styles_read": true,
+      "output_untruncated": true
+    },
+    {
+      "unit": "Final",
+      "start": 91,
+      "end": 135,
+      "base_all_ruby_material_styles_read": true,
+      "output_untruncated": true
+    },
+    {
+      "unit": "Final",
+      "start": 136,
+      "end": 200,
+      "base_all_ruby_material_styles_read": true,
+      "output_untruncated": true
+    },
+    {
+      "unit": "Final",
+      "start": 201,
+      "end": 270,
+      "base_all_ruby_material_styles_read": true,
+      "output_untruncated": true
+    },
+    {
+      "unit": "Final",
+      "start": 271,
+      "end": 345,
+      "base_all_ruby_material_styles_read": true,
+      "output_untruncated": true
+    },
+    {
+      "unit": "Final",
+      "start": 346,
+      "end": 420,
+      "base_all_ruby_material_styles_read": true,
+      "output_untruncated": true
+    },
+    {
+      "unit": "Final",
+      "start": 421,
+      "end": 490,
+      "base_all_ruby_material_styles_read": true,
+      "output_untruncated": true
+    },
+    {
+      "unit": "Final",
+      "start": 491,
+      "end": 555,
+      "base_all_ruby_material_styles_read": true,
+      "output_untruncated": true
+    },
+    {
+      "unit": "Epi",
+      "start": 1,
+      "end": 68,
+      "base_all_ruby_material_styles_read": true,
+      "output_untruncated": true
+    }
+  ],
+  "time_bounds": {
+    "native_verification_completed_before_read_utc": "2026-10-17T23:18:13.538773+00:00",
+    "first_paragraph_consumption_clock": "Not separately instrumented; after native verification and before the completed full-pass record",
+    "complete_ordered_pass_recorded_utc": "2026-10-17T23:43:03.271811+00:00",
+    "original_uncoded_seal_utc": "2026-10-17T23:43:03.272653+00:00",
+    "source_only_analysis_candidate_built_by_utc": "2026-10-17T23:54:24.290747+00:00",
+    "no_claim_of_exact_millisecond_literary_consumption_time": true
+  },
+  "uncoded_pass_seal": {
+    "bytes": 4138,
+    "sha256": "4e61c78f7f85dda664dc9423c832c28bb27122744e9e0f1a83d5d3b40268c7dd",
+    "preceded_selected_L_H_voice_and_local_assessments": true
+  },
+  "ruby_and_styles": {
+    "every_projected_base_rt_and_material_style_read": true,
+    "full_native_p_XML_and_ruby_tail_equality_mechanically_verified": true,
+    "raw_XML_read_scope": "Not a second full raw-XML semantic pass; all projected ruby/rt, tcy, p/descendant material attributes were displayed during full ordered windows",
+    "native_nonP_residual": "No omitted semantic residual in admitted bodies; verified mechanically",
+    "image_placeholder_slots_counted_but_bytes_unopened": true
+  },
+  "recovery_and_exposure_limits": [
+    "Only seven admitted principal members p-002 through p-008; no image bytes/front/end/afterword p009/bonus p010 or later Dust opened",
+    "No DUST02 peer/root interpretive notes received/opened",
+    "Continuing producer lineage with main01–17/model/simulation and Dust01 principal knowledge, five Cheers story pages, shared earlier QA, unknown pretraining; not a fresh independent reader",
+    "Prior-volume DUST01 EpiP5 limited early diagnostic retained in prior receipt; not repeated as DUST02 exposure",
+    "DUST02 ruby XML-tail mismatch fixed by boolean metadata diagnostic before body display; no future narrative exposed",
+    "Attempted Final91–180 display truncated, zero credited paragraphs; recovered by complete91–135 and136–200 windows"
+  ],
+  "closed_material": [
+    "afterword item/xhtml/p-009.xhtml",
+    "bonus item/xhtml/p-010.xhtml 仲間の秘密",
+    "all actual source images and front/end bodies",
+    "DUST03 and all later Dust",
+    "withheld-source findings, scores, current full project map, peer analytical products"
+  ],
+  "postpass_retrieval": {
+    "selected_form_revisits": "Full base lines for98 initial candidate targets plus61 humor-anchor targets, with overlap and the90 context-window slots listed separately; no additional original/full-ruby-pass credit.",
+    "explicit_context_revisits": [
+      {
+        "unit": "C01",
+        "p": [
+          37,
+          41
+        ]
+      },
+      {
+        "unit": "C02",
+        "p": [
+          775,
+          788
+        ]
+      },
+      {
+        "unit": "C03",
+        "p": [
+          10,
+          16
+        ]
+      },
+      {
+        "unit": "C03",
+        "p": [
+          421,
+          430
+        ]
+      },
+      {
+        "unit": "C03",
+        "p": [
+          748,
+          758
+        ]
+      },
+      {
+        "unit": "C04",
+        "p": [
+          244,
+          264
+        ]
+      },
+      {
+        "unit": "C04",
+        "p": [
+          388,
+          395
+        ]
+      },
+      {
+        "unit": "Final",
+        "p": [
+          47,
+          50
+        ]
+      },
+      {
+        "unit": "Epi",
+        "p": [
+          24,
+          33
+        ]
+      }
+    ],
+    "no_new_source_admission": true,
+    "actual_initial_candidate_target_p": {
+      "Pro": [
+        5,
+        16
+      ],
+      "C01": [
+        17,
+        40,
+        80,
+        152,
+        168,
+        209,
+        213,
+        217,
+        224
+      ],
+      "C02": [
+        34,
+        48,
+        77,
+        290,
+        369,
+        371,
+        375,
+        406,
+        448,
+        498,
+        501,
+        543,
+        600,
+        760,
+        783
+      ],
+      "C03": [
+        18,
+        21,
+        149,
+        187,
+        211,
+        247,
+        310,
+        358,
+        368,
+        428,
+        594,
+        683,
+        734,
+        737,
+        753,
+        784
+      ],
+      "C04": [
+        54,
+        107,
+        157,
+        176,
+        215,
+        218,
+        259,
+        316,
+        361,
+        362,
+        436,
+        438,
+        486,
+        537,
+        541,
+        546
+      ],
+      "Final": [
+        101,
+        120,
+        121,
+        136,
+        138,
+        151,
+        155,
+        166,
+        168,
+        217,
+        224,
+        235,
+        240,
+        253,
+        317,
+        336,
+        368,
+        374,
+        377,
+        414,
+        436,
+        446,
+        501,
+        516,
+        519,
+        529,
+        537,
+        542
+      ],
+      "Epi": [
+        14,
+        15,
+        17,
+        19,
+        28,
+        33,
+        50,
+        53,
+        57,
+        61,
+        62,
+        67
+      ]
+    },
+    "actual_unique_base_p_revisited": 199
+  },
+  "analytical_coverage": {
+    "full_primary_reading": true,
+    "twelve_method_passes": "Twelve analytical responsibilities over a full ordered first pass plus bounded revisits, not twelve claimed independent full-volume readings",
+    "seventeen_sections": 17,
+    "selected_humor_premises": 61,
+    "selected_voice_examples": 35,
+    "humor_population_denominator": null,
+    "not_a_J01_J02_or_out_of_sample_score": true,
+    "ten_append_responsibilities": 10,
+    "append_records": 91
+  },
+  "entering_questions": {
+    "generation": "DUST01 natural-order exploratory01",
+    "exact_original_bytes": 10914,
+    "exact_original_sha256": "3372733aa462b9e97a7b2bd117fb29c7eff7ab34d0a0bc3d9f4084c2234ddd0f",
+    "question_count": 7,
+    "unchanged_blank_outcome_adjudication_fields": 14,
+    "separate_local_assessments_only": true,
+    "no_Gen06_or_R1_change": true
+  },
+  "actual_governance_and_authority_scope": "Live AGENTS/authority/routing were read before narrative; previously read unchanged reasoning/topology/continuation/long-series/handoff/checklist reused by verified hashes. Full existing deep-reading/voice methods read in DUST01 then verified unchanged. Current full project map and validation-bearing rolling ledger bodies were not semantically opened. Ten published baseline bodies were hashed in-process only for append target identity.",
+  "not_independent_new_lineage_or_universal_blindness": true,
+  "no_acceptance_or_publication_claim": true,
+  "root_adoption": {
+    "receiving_utc": "2026-10-18T01:34:31.692041+00:00",
+    "original_record_and_reading_history_preserved": true,
+    "current_receiving": "KONOSUBA_DUST_V02_RECEIVING_AND_PROVENANCE.json",
+    "original_whole_file": {
+      "bytes": 16839,
+      "sha256": "21b41747057bab12038324e8367ea7084a851f91ddcf6f764962c48432e85080"
+    }
+  }
+}

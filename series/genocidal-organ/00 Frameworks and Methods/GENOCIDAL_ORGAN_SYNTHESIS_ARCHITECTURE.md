@@ -5,13 +5,13 @@ artifact_type: synthesis_architecture
 series: Genocidal Organ / 虐殺器官
 series_id: genocidal-organ
 generation: GENOCIDAL_ORGAN_BOOTSTRAP_V1
-version: '0.3'
+version: '0.8'
 status: active_provisional
 scope: Synthesis architecture and reconstruction specification
 source_boundary: Original Japanese prose novel; current bounded witness frontier owned by source map and entrypoint; historical G0 admitted zero units
 canonical_home: series/genocidal-organ/00 Frameworks and Methods/GENOCIDAL_ORGAN_SYNTHESIS_ARCHITECTURE.md
 created: '2026-10-16'
-review_status: FOUNDATION_ACCEPTED_CONTINUATION_OWNER_AUTHORIZED
+review_status: G5_RETROSPECTIVE_ONLY_INDEPENDENTLY_ACCEPTED_EXACT_PUBLICATION_SEPARATE
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -157,3 +157,56 @@ Retain the INITIAL architecture lifecycle and the present three cumulative owner
 | G6 publication / release readiness | NOT_PERFORMED as the formal architecture gate; accepted sequential publications and current-run closeout remain their own bounded transactions |
 
 **RUN_LEDGER_RECONCILIATION: COMPLETED** for the authorized sequential run's cumulative three-owner, history, attribution, uncertainty and fixed-prediction responsibilities through accepted U028, as recorded by adoption of the dated owning supplements. This scoped completion is distinct from formal G2–G6. All 28 frozen readings, prospective boundaries, calibration provenance, 68 prior claim-version formulations, RV001 initial-index distinction and the full fixed four-forecast section remain preserved; all 88 interpretive claims retain their supported OPEN limits. No STABILIZED lifecycle, retrospective specialist/synthesis/reconstruction assessment, blind-validation claim or cross-novel work follows from this maintenance note. Actual G1 acceptance is recorded above. Run routing/terminal authority and the still-PENDING series-branch closing-publication transaction remain separately owned; this append does not certify their completion.
+
+
+## Authorized formal G2 retrospective reconciliation — 2026-10-17
+
+The owner's new G2 instruction separately commissions the retrospective responsibility distinguished above from RUN_LEDGER_RECONCILIATION. The complete admitted boundary remains GO-U001–028/all44 in GO-JP-EPUB-001; next source remains NONE. The current [G2 disposition and handoff](../07%20Audits%20and%20Handoffs/GENOCIDAL_ORGAN_G2_RECONCILIATION_AND_HANDOFF.md) routes to the existing three owners: current claim arguments/all88 dispositions and attributable revisions; all51 post-reading readiness decisions and all88 directional histories; and current knowledge/institution/coercion reconciliation. Their original G1 histories and freezes remain preserved.
+
+The three-owner architecture is adequate. G2 adds readable current projections in those homes instead of a competing claims ledger, character registry, theme index or novel synthesis. No source evidence is removed for style. Historical source-run rows and earlier pending publication statements remain dated records; the current entrypoint/rolling receipt own live task and repository state. The INITIAL architecture lifecycle is retained; completion alone does not require STABILIZED status or new empty directories.
+
+| Gate at this new authorization boundary | Current scoped disposition |
+| --- | --- |
+| G1 | PASS unchanged for the exact complete witness; PR188 already merged, preservation verified |
+| G2 | SEMANTIC_COMPLETE and independently accepted after scoped challenge; exact repository publication acceptance belongs to the resulting commit's required audits. This is formal retrospective work, not a relabeled G1 supplement |
+| G3 | NOT_PERFORMED / NOT_AUTHORIZED by this task; specialist and monograph eligibility/dependencies are a G2 planning output only |
+| G4 | NOT_PERFORMED / NOT_AUTHORIZED; later integrated novel argument follows G3 convergence |
+| G5 | NOT_PERFORMED / NOT_AUTHORIZED; eight readiness candidates are not models or validation; all production NOT_STARTED and validation NOT_PERFORMED |
+| G6 | NOT_PERFORMED / NOT_AUTHORIZED; draft publication and semantic G2 completion do not constitute terminal release |
+
+Recommended later order is a bounded G3 assignment covering narration/form/disclosure, actor/relationship agency and institutional/causal/normative reasoning; G5 may proceed alongside only under its own evidence/state/validation scope; G4 follows specialist convergence; G6 follows requested obligations and separately authorized integration/release. No actual monograph, specialist, model, simulation or comparison begins here. Source-exposure history prevents calling already-read cases blind holdouts. The semantic gate above follows substantive independent review and adopted corrections, not merely the existence of expected files; exact repository publication acceptance remains a separate check.
+
+
+## Owner-authorized G3 role allocation — 2026-10-18
+
+The new instruction separately commissions G3 on the accepted G2 boundary, with G4 and G5 readiness as the handoff responsibility. It authorizes the four specialist domains and substantial literary monographs for Clavis, Williams, John Paul and Lucia; no new source admission, G4 integrated novel synthesis, G5 model/validation or G6 release follows. The existing proposed homes in §§4/6 are now justified by independent arguments and repeated retrieval across the complete corpus. The three ledgers remain sole cumulative owners, and the source map/method/G1 freezes/G2 handoff remain preserved. No responsibility migrates into a competing registry.
+
+| Mandatory G3 responsibility | Actual evidence-bearing home / additional role |
+| --- | --- |
+| Narration, disclosure and formal construction | [Narration and moral agency](../05%20Specialist%20Synthesis/GENOCIDAL_ORGAN_NARRATION_AND_MORAL_AGENCY.md): narrator/addressee relations, disclosure timing, written Japanese and mediated voice |
+| Character/relationship development and agency | [Relationships and responsibility](../05%20Specialist%20Synthesis/GENOCIDAL_ORGAN_RELATIONSHIPS_AND_RESPONSIBILITY.md), plus the four monographs routed in the [actor owner](../03%20Longitudinal%20Ledgers/GENOCIDAL_ORGAN_ACTOR_RELATIONSHIP_AND_READINESS_LEDGER.md#go-g3-monograph-disposition) |
+| Institutions, causality and normative reasoning | [Institutional study](../05%20Specialist%20Synthesis/GENOCIDAL_ORGAN_INSTITUTIONS_CAUSALITY_AND_POLITICAL_RESPONSIBILITY.md): changing commands, resources/ecology, legibility, biological/linguistic interventions and explanation versus justification |
+| Ending in relation to prior evidence | [Ending and retrospective form](../05%20Specialist%20Synthesis/GENOCIDAL_ORGAN_ENDING_AND_RETROSPECTIVE_FORM.md): recurring protection/cost structure, private comforts and the still-future catastrophe |
+
+The role-gap review consolidates language/cognition, embodiment, technology, surveillance, consent/coercion, material circulation, personhood and political responsibility into those substantial homes rather than creating obligatory theme files. Supporting represented-mother/Alex/Leland/Rockwell/Lucius/Tzvi responsibilities have explicit bounded coverage; other subjects retain their all51 G2 dispositions. New CL089–096 make every study's central proposition recoverable in the sole claims owner. No inference from file count establishes completion. Full independent semantic review, required-source checks and cross-study reconciliation must precede the separate G3 convergence disposition; repository publication and exact-head audits remain independent. INITIAL lifecycle is retained because no cumulative ownership migration or new method is required.
+
+
+### G3 convergence disposition — 2026-10-18
+
+The [G3 convergence and readiness handoff](../07%20Audits%20and%20Handoffs/GENOCIDAL_ORGAN_G3_CONVERGENCE_AND_HANDOFF.md) now substantively reconciles the studies, strongest contrary cases, mandatory roles and supporting bounded subjects. Full independent review accepted every final artifact; attribution/citation defects and the material-circulation coverage gap were repaired before acceptance. G3 is SEMANTIC_COMPLETE with no remaining mandatory analytical/evidence obligation within GO-U001–028/all44. This disposition preserves G2 and does not infer completion from artifact count or CI. G4 is ready for a separately commissioned integrated novel argument; G5 retains the unchanged all51 eligibility/ceilings with model production NOT_STARTED and validation NOT_PERFORMED. No G4 synthesis, G5 model/test, G6 release or protected-main merge occurs here. Exact repository publication remains a separate audited transaction.
+
+
+### G4 integrated argument disposition — 2026-10-18
+
+The owner's later G4–G6 execution instruction activates the existing integrated-novel responsibility. [Useful accounts and the right to answer](../06%20Novel%20Synthesis/GENOCIDAL_ORGAN_INTEGRATED_NOVEL_SYNTHESIS.md) is independently source/semantically accepted after a narrow hospital-guidance attribution repair. Its common literary problem, consequential countercases and ending resolution justify this mature whole-novel home; it is not a duplicate specialist index. [GO-CL097](../03%20Longitudinal%20Ledgers/GENOCIDAL_ORGAN_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md#go-g4-integrated-argument) registers the single supported open inference. The [independent review](../07%20Audits%20and%20Handoffs/GENOCIDAL_ORGAN_G4_G5_INDEPENDENT_SEMANTIC_REVIEW.md) owns acceptance and source-check limits.
+
+The current three cumulative owners and INITIAL lifecycle remain adequate. G4 adds no actor/relationship event, knowledge record, claim revision or forecast; existing G2 readiness stays 2 multicontext candidates, 6 domain-bounded and 43 recognition-only. Eight private G5 model candidates are frozen before independent evaluation; model construction, source acceptance, retrospective behavioral fit and broader generalization remain separate. G5 acceptance and G6 release are not claimed here. Same-witness source-only bounds and next source NONE remain; exact publication/audits and protected integration require their own completed transactions.
+
+
+### G5 actual reconstruction and evaluation disposition — 2026-10-19
+
+The existing §5 contract is now implemented by eight independently source-reviewed conditional models in the reserved Reconstruction home, with exact hashes and all51 current dispositions in the [sole actor owner](../03%20Longitudinal%20Ledgers/GENOCIDAL_ORGAN_ACTOR_RELATIONSHIP_AND_READINESS_LEDGER.md#go-g5-current-dispositions). Each model recovers all ten dimensions at its evidence-proportional temporal/recipient/knowledge breadth. The43 recognition-only subjects retain reasoned no-model outcomes rather than invented policies. No new readiness grade, cumulative owner, actor/event, relationship, knowledge record or claim/revision is created by model construction.
+
+The sole [independent validation/error report](../04%20Character%20and%20Relationship%20Studies/Reconstruction/GENOCIDAL_ORGAN_G5_VALIDATION_AND_ERROR_ANALYSIS.md) records actual59-case manual application:40 source-known replays and19 noncanonical sensitivity/boundary probes, five separate dimensions, weakly discriminative ranges, explicit abstentions and full error history. One Alex application overextended a recipient premise; the corrected evaluation retains PARTIAL strict binding and separately supported peer register without changing the frozen model. Two prescoring fixture errors and the post-scoring correction remain attributable; no new-model rerun is claimed. Construction-time metadata stays immutable, while actual current acceptance is external and hash-bound. RETROSPECTIVE_ONLY is the validation ceiling, not a universal person-level or prospective success claim.
+
+Independent source/semantic reconciliation accepts the actual bounded models, corrected report and current owner scopes; exact branch publication/audits remain separate. INITIAL lifecycle and existing responsibilities/three owners remain adequate. G4's literary integration supplies no behavioral evidence, and these policies do not become the novel's endorsed interpretation. G6 release, its independent cross-gate checks and authorized protected-main integration remain pending the exclusive release owner after G5 publication closes. No new source operation is authorized.

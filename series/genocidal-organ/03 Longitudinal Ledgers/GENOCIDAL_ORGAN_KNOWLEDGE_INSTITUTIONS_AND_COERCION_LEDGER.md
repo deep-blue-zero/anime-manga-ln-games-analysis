@@ -5,13 +5,13 @@ artifact_type: longitudinal_ledger
 series: Genocidal Organ / 虐殺器官
 series_id: genocidal-organ
 generation: GENOCIDAL_ORGAN_BOOTSTRAP_V1
-version: '0.30'
+version: '0.32'
 status: active_provisional
 scope: Knowledge, institutions, technology and coercion ledger
 source_boundary: GO-JP-EPUB-001 through complete epilogue heading and prose; GO-U028; exclusive before spine 42 text/part0040.html
 canonical_home: series/genocidal-organ/03 Longitudinal Ledgers/GENOCIDAL_ORGAN_KNOWLEDGE_INSTITUTIONS_AND_COERCION_LEDGER.md
 created: '2026-10-16'
-review_status: FOUNDATION_ACCEPTED_CONTINUATION_OWNER_AUTHORIZED
+review_status: G2_SEMANTIC_ACCEPTED_EXACT_PUBLICATION_SEPARATE
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -318,3 +318,30 @@ The224knowledge records remain unchanged. Speaker claims, narrator uptake, remem
 **Attributable U026 retrieval supplement.** The historical GO-U026 disposition above closes K185–194 but omitted an EXIT reference in its last cell. Its actual source-bounded transaction reference is [GO-U026-EXIT](../01%20Sequential%20Readings/GO_U026_PART_V_SUBSECTION_4.md#longitudinal-closeout-and-prospective-exit--go-u026-exit). This dated cross-reference adds no earlier knowledge, source reading or new record and leaves the original row/frozen reading exact.
 
 **RUN_LEDGER_RECONCILIATION: COMPLETED** for the authorized current-run knowledge/institution/coercion and disclosure-history closeout through accepted U028, as recorded by adoption of this supplement. No K225/new institution, fictional U029, claim rescore or forecast arises solely from these ancillary dispositions or completion. All older unresolved alternatives remain in their owning claim records. Global G1 technical/independent acceptance is PASS as bound above; series-branch closing publication remains a separate pending transaction. Formal architecture G2–G6 are NOT_PERFORMED and separately gated; no retrospective specialist, synthesis, reconstruction or release assessment is initiated here.
+
+
+<a id="go-g2-world-reconciliation"></a>
+## G2 current institutional and knowledge reconciliation
+
+All K001–224 histories were reviewed with the complete-novel claim and revision record. They remain source/disclosure-bounded records; no new fictional event, K225 or retrospective correction of scene-time access is created. The following current argument routes resolve their principal dependencies without repeating the operational source receipts. The claims owner supplies [ranked interpretations](GENOCIDAL_ORGAN_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md#go-g2-current-arguments).
+
+| Current question | Reconciled disposition and owning history |
+| --- | --- |
+| Command, custody and discretion | K039's trace-before-kill instruction, K111's explicit arrest/no-handover order, K134–138's performed capture, K139–163's interrupted transport/reported captive deaths, K177's newly characterized assassination and K199–211's accepted public-arrest route/dual-target report/lethal pickup are successive states. No missing revocation document is invented, and Williams's reported higher intent is not everyone's independently known policy. Clavis's consequential choices remain visible within these constraints (CL010v3/027). |
+| Official/private boundaries | K033–039/106–111/122–123/128–129/159–164/202–203 distinguish payer, legal mandate, provider, operative and beneficiary. Outsourcing can carry state influence while supplying actual services. Investment, legal-status and market accounts are strongly attributed fictional findings, not imported external corporate/law audits. A complete institution cannot be assigned one mind from a briefing or Williams's justification (CL024/026/057/060/062/065/073/083). |
+| Authentication, records and enforcement | K016–019/030–032/051–060/069–073/096–103/160/170 distinguish successful gate use, provisioned cover, mismatched borrowed credentials, privacy exceptions, sensor routes and inverse tracking. These are effective local capacities with gaps and coercive uses. The ending's polemical security critique does not invalidate every depicted function or prove a universal anti-terror result (CL016/023/033–034/037/041/043/048/053). |
+| Body control, feeling and intent | K006–007/012–013/040–050/079/084–088/100/112–119/128/130–152 distinguish biological support, covert pain, pain masking, emotional adjustment, cooperation treatment and direct motor override. The needle, cheek and Leland's report strongly support the local pain distinction. The field countercases preserve fear, guilt and discretionary acts; no whole-mind control or independently measured therapeutic cause is inferred (CL009v8/028/047–048/061/066/068/070). |
+| Grammar: three different evidentiary questions | K090–095/126/142/145/185–198/218/221–222 support an operative instrument within the narrated fiction more strongly after Clavis's use than before it. They do not equally establish the proposed evolutionary origin, exact brain mechanism or the protective security-policy outcome. The current causal ranking is CL050v5; topology/content and sonic/transcribed-media distinctions remain CL051–052/064/080/087. |
+| Intimate access and another mind | K002–003/025–026/040–042/047/054–056/061–068/074–086/102/127/171/180–182/192–200/205–217 distinguish perception, testimony, imagined speech, limited records and generated life story. U025's apology is imagined; U026's accusation is spoken. Current Lucia awareness does not prove old complicity. Maternal principal access and nonapplication add knowledge without retrieving consent or transparent affection (CL003/008/020–021/031/039–040/044–046/049/059/078/085–086). |
+| Material circulation and selective attention | K009–015/017/020–024/027–029/043–045/063/076–078/099/104–105/120–125/130–138/139–158/164–179/183–184/195–198/212/219–224 preserve communications, movement, resources, logistics, bodies and mediated histories in different scopes. Commodity histories stop at factories; preserved bodies and generated biographies are constructions with real uses and limits. Narrator economic/racialized generalizations remain attributable; Mugabe's civic hope is a material countercase to a wholly self-interested population portrait (CL012–019/035/055–058/063/067/069/071–079/085–088). |
+| Disclosure and ending outcome | K199–200's public-knowledge demand is acted on, then interrupted; K210–211 distinguish witnessed John death from relayed Williams death. K219–222 add actual narrated hearings and deliberately weaponized distribution. Current deaths/disorder differ from future civil war/massacre. K223–224 juxtapose self-protection with an avowed national self-punishment/protection policy; global rescue is not observed (CL027/059/082–088). |
+
+The meaningful uncertainties remain assigned, rather than awaiting an unspecified next chapter: patient wishes and private motives; chronology of undisclosed knowledge; exact command authorship and battlefield forensic details; the grammar's parameters; external edition equivalence; and bounded source-wording tensions. Earlier sources' unsupplied documents are not fabricated to harmonize events. No missing material institutional or knowledge history was found that requires another cumulative owner. G3 can test those current arguments in its separately commissioned specialist responsibilities; G2 produces no specialist synthesis, formal simulation or validated model.
+
+
+<a id="go-g3-institutional-dependencies"></a>
+## G3 institutional and causal argument route — 2026-10-18
+
+The [institutional/causal/political responsibility study](../05%20Specialist%20Synthesis/GENOCIDAL_ORGAN_INSTITUTIONS_CAUSALITY_AND_POLITICAL_RESPONSIBILITY.md) now develops CL094 from the current G2 reconciliation, including successive orders/custody, public/private provision, material extraction and selective attention, bodily coercion, linguistic instrument versus explanatory theory versus protective outcome, and public judgment. The [ending study](../05%20Specialist%20Synthesis/GENOCIDAL_ORGAN_ENDING_AND_RETROSPECTIVE_FORM.md) develops CL090's terminal return and explicit present/future limit. Their full reasons and countercases remain in those homes; this owner retains every K001–224 channel and state history.
+
+No K225, new source event, retrospective scene-time knowledge or unified institutional mind is added. Direct orders, attributed higher intent, inferred causal accounts and enacted local capacities remain distinct. Functioning authentication, actual care and logistics, ecological substitution, consumer attention limits and Mugabe's civic hope, whose fulfillment is unverified remain material countercases to reductive claims of universal fraud or universal selfishness. The operative fictional instrument is substantially supported; its full parameters, external scientific validity, necessary protective effect and achieved global rescue are not newly certified. Exact higher authorizers, earlier private knowledge onset and complete aftermath remain unresolved within the admitted boundary.

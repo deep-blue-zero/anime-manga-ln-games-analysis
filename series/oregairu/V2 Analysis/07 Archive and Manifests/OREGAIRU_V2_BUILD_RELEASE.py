@@ -341,18 +341,27 @@ def markdown_destinations(text: str) -> list[str]:
         if m:
             parsed = destination(m[2], 0, False)
             if parsed: definitions.setdefault(label_key(m[1]), parsed[0])
-    urls: list[str] = []
+    # Match labels once so unmatched openers never rescan the same suffix.
+    closers: dict[int, int] = {}
+    openers: list[int] = []
     i = 0; n = len(text)
+    while i < n:
+        char = text[i]
+        if char == "\\": i += 2; continue
+        if char == "[": openers.append(i)
+        elif char == "]" and openers:
+            closers[openers.pop()] = i + 1
+        i += 1
+    urls: list[str] = []
+    i = 0
     while i < n:
         if text[i] == "\\": i += 2; continue
         if text[i] != "[": i += 1; continue
-        begin = i + 1; j = begin; depth = 1
-        while j < n and depth:
-            if text[j] == "\\": j += 2; continue
-            if text[j] == "[": depth += 1
-            elif text[j] == "]": depth -= 1
-            j += 1
-        if depth: break
+        begin = i + 1; j = closers.get(i)
+        if j is None:
+            # An unmatched opener is literal text; later links still count.
+            i = begin
+            continue
         label = text[begin:j-1]
         if j < n and text[j] == "(":
             parsed = destination(text, j + 1, True)
@@ -391,6 +400,81 @@ def check_relative_links(members: dict[str, bytes]) -> dict:
     return {"relative_file_or_directory_links_checked": count, "external_links_not_fetched": external,
             "fragment_only_links_not_anchor_validated": fragments, "result": "PASS",
             "scope": "Markdown inline/image/defined-reference destinations; file existence only; no HTML href or heading-anchor claim"}
+
+
+def markdown_link_regression() -> dict:
+    """Check scanner recovery and actual missing-member rejection in memory."""
+    from unittest.mock import patch
+
+    prefixes = ("", "[unmatched ", "[unmatched\n", "[first [second\n")
+    labels = ("link", "outer [nested] label", r"escaped \[brackets\] label", r"escaped closer \] label")
+    cases = [
+        ("[normal](valid.md)", ["valid.md"]),
+        ("[one](valid.md) [two](other.md)", ["valid.md", "other.md"]),
+        ("[outer [nested] label](valid.md)", ["valid.md"]),
+        (r"[escaped \[brackets\] label](valid.md)", ["valid.md"]),
+        (r"\[literal\] [normal](valid.md)", ["valid.md"]),
+        (r"\[literal](missing.md) [normal](valid.md)", ["valid.md"]),
+        (r"[escaped closer \] label](valid.md)", ["valid.md"]),
+        ("![image](valid.md)", ["valid.md"]),
+        (r"\\[even escape](valid.md)", ["valid.md"]),
+        (r"\\\[odd escape](missing.md) [normal](valid.md)", ["valid.md"]),
+        (r"[outer [nested \] bracket] label](valid.md)", ["valid.md"]),
+        ("] ] [normal](valid.md)", ["valid.md"]),
+        ("[ unmatched opener\n[broken](missing.md)", ["missing.md"]),
+    ]
+    for prefix in prefixes:
+        for target in ("missing.md", "valid.md"):
+            for label in labels:
+                cases.append((prefix + f"[{label}]({target})", [target]))
+    for text, expected in cases:
+        require(markdown_destinations(text) == expected,
+                f"Markdown destination regression: {text!r}; expected {expected!r}")
+    for prefix in prefixes:
+        for target in ("missing.md", "valid.md"):
+            for label in labels:
+                members = {PREFIX + "/start.md": (prefix + f"[{label}]({target})").encode("utf-8"),
+                           PREFIX + "/valid.md": b"# Valid fixture member\n"}
+                try:
+                    result = check_relative_links(members)
+                except ValueError as exc:
+                    require(target == "missing.md" and "Unresolved archive-relative Markdown links:" in str(exc)
+                            and '"target": "missing.md"' in str(exc),
+                            f"Unexpected Markdown link rejection: {exc}")
+                else:
+                    require(target == "valid.md" and result["result"] == "PASS"
+                            and result["relative_file_or_directory_links_checked"] == 1,
+                            f"Missing or uncounted Markdown link: {prefix!r} {target}")
+
+    class CountedText(str):
+        def __new__(cls, value: str):
+            result = super().__new__(cls, value)
+            result.reads = 0
+            return result
+
+        def __getitem__(self, key):
+            self.reads += len(range(*key.indices(len(self)))) if isinstance(key, slice) else 1
+            return super().__getitem__(key)
+
+    scaling: list[dict] = []
+    for size in (64, 128, 256):
+        for name, text, expected in (
+            ("unmatched", "[" * size, []),
+            ("unmatched_then_link", "[" * size + "[link](valid.md)", ["valid.md"]),
+            ("nested_label", "[" * size + "label" + "]" * size + "(valid.md)", ["valid.md"]),
+        ):
+            counted = CountedText(text)
+            # Observe the visible scanner, charging slices for every copied character.
+            with patch.dict(globals(), {"mask_nonprose": lambda _: counted}):
+                actual = markdown_destinations(text)
+            require(actual == expected, f"Scaling fixture lost destinations: {name} {size}")
+            budget = 8 * len(text) + 64
+            require(counted.reads <= budget,
+                    f"Nonlinear bracket scan: {name} {size}: {counted.reads} reads > {budget}")
+            scaling.append({"case": name, "size": size, "character_reads": counted.reads, "budget": budget})
+    return {"destination_cases": len(cases), "member_validation_cases": len(prefixes) * 2 * len(labels),
+            "linear_scan_cases": scaling,
+            "unmatched_openers_missing_and_valid_links": "PASS", "result": "PASS"}
 
 
 def add_generated(members: dict[str, bytes], inventory: list[dict], tree: str, commit: str,
@@ -483,7 +567,7 @@ def verify_archive(source: io.BytesIO | Path, expected: dict[str, bytes], invent
 
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    parser.add_argument("--self-test", action="store_true", help="Run isolated Git replacement-ref regression; no packaging inputs required.")
+    parser.add_argument("--self-test", action="store_true", help="Run isolated Git replacement-ref and Markdown-link regressions; no packaging inputs required.")
     parser.add_argument("--repo", type=Path)
     parser.add_argument("--commit")
     parser.add_argument("--output", type=Path)
@@ -491,7 +575,7 @@ def main() -> None:
     args = parser.parse_args()
     if args.self_test:
         require(not any((args.repo, args.commit, args.output, args.receipt)), "--self-test takes no packaging inputs.")
-        print(json.dumps(replacement_ref_regression(), indent=2))
+        print(json.dumps({**replacement_ref_regression(), "markdown_links": markdown_link_regression()}, indent=2))
         return
     if any(value is None for value in (args.repo, args.commit, args.output, args.receipt)):
         parser.error("packaging requires --repo, --commit, --output and --receipt")
