@@ -43,6 +43,10 @@ Before pushing a stable analytical branch, follow the [publication sequence and 
 
 Use a narrowly named temporary branch under an audited agent prefix: `codex/<purpose>`, `chatgpt/<purpose>` or `claude/<purpose>`. Changes to validation, workflows, schemas, publication safety, or authority controls use `python tools/prepare_commit.py --base origin/main --check --full`. Temporary bootstrap, repair, migration, and one-shot automation branches must be pruned after their exact tips are verified as preserved on a green `main`; never delete an unverified or unmerged branch.
 
+### CI and PR Integration Steward
+
+The owner-operated scheduled EC2 steward has standing authority for routine PR reconciliation, CI repair, source synchronization, and eligible owner-authored integration as the primary autonomous coordinator under [the existing integration policy](governance/policies/NIGHTLY_ANALYTICAL_INTEGRATION.md#ci-and-pr-integration-steward). Read that section and its referenced publication/checklist controls before acting. It covers stable analytical branches and bounded routine temporary branches, preserves curation ownership and explicit holds, and reserves protected merges to an independently enforcing deterministic executor, with nightly integration retained only as a manual fallback under shared exclusion. This governance grant does not deploy the steward or extend the installed controller.
+
 ### Character curation
 
 The owner-authorized cloud curation agent is the sole routine writer of `characters/registry.jsonl` and generated `CHARACTER_ANALYSIS_INDEX.md`; follow `governance/policies/CHARACTER_DISCOVERY_MAINTENANCE.md`. Its recurring branch is exactly `character-registry` and may remain active. Housekeeping never writes either character file or applies character upserts.
@@ -51,7 +55,7 @@ The owner-authorized cloud curation agent is the sole routine writer of `charact
 
 Never add raw acquisition evidence, source media, private migration evidence, credentials, unreviewed binaries, symlinks, submodules, or hooks.
 
-The approved workflows are the content-read-only `.github/workflows/repository-audit.yml` with its isolated status-only reporter, the default-branch, exact-output-allowlisted `.github/workflows/global-index-housekeeping.yml`, and `.github/workflows/nightly-integration.yml` under `governance/policies/NIGHTLY_ANALYTICAL_INTEGRATION.md`. The owner authorizes nightly mechanical integration of audited stable series/study branches, including clean reconciliation, protected PR merges, and explicit post-merge audits. Every other workflow remains prohibited without a separately reviewed owner amendment.
+The approved workflows are the content-read-only `.github/workflows/repository-audit.yml` with its isolated status-only reporter, the default-branch, exact-output-allowlisted `.github/workflows/global-index-housekeeping.yml`, and `.github/workflows/nightly-integration.yml` under `governance/policies/NIGHTLY_ANALYTICAL_INTEGRATION.md`. The EC2 steward is the primary autonomous integration coordinator; the existing nightly workflow is authorized only as a manual fallback under the shared invariants and exclusion contract in that policy. Scheduled fallback apply is no longer authorized; deactivation and executor changes remain implementation work. Every other workflow remains prohibited without a separately reviewed owner amendment.
 
 ## License
 
