@@ -1142,3 +1142,39 @@ Native8547808bytes/SHA256`f60479bfe10ed8c7c0d36f0ad618dc3d1e17e65a167fa11b9519c3
 | YORI-03-U026 | item/navigation-documents.xhtml / 0 | OFF_SPINE_NAVIGATION |
 
 Main3006P/bonus0P/nonfiction54P/total3060P; full ruby/residual/image scopes before uncoded seal 2026-10-19T02:05:31.362330+00:00;98selected premises/146native-joined voices/31unchanged-contract local assessments/24ten-ledger appends. Supplemental18accepted/17already publishedof19; mixed5published; global percentage null. All26textualresources3060Pslots/26nativeimages actually received. Five longfictionbodies3006P plus54Ptextnonfiction;22dateddiaryframes,three temporary artifact alternatives and embedded books count within those parents. No separate electronic bonus. Every cover/title/profile/teaser/jacket/rights/navigation/image has an individual disposition; IMG016/019/020/021 planes do not add unseen enacted events. Current corrections preserve original uncoded notes exactly.
+
+
+## YORI-04 accepted whole-edition routes — 2026-10-19T03:57:28.974898+00:00
+
+Native10437818bytes/SHA256`22564990f051e81d7ac1e0e5a33b8a042c48292caad2624b5e8d8d3a3fca5a3f`. [Component register](../10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI04_COMPONENT_REGISTER.json), [full reading](../10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI04_DEEP_READING.md), [82selectedpremises](../10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI04_HUMOR_REGISTER.md), [76voicecontexts](../10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI04_VOICE_REGISTER.md), [31 local assessments](../10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI04_EXPLORATORY_LOCAL_ASSESSMENTS.json), [current qualifications](../10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI04_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](../10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI04_RECEIVING_AND_PROVENANCE.json) control exact joins.
+
+| Unit | Native member / P slots | Actual role |
+|---|---|---|
+| YORI-04-U001 | item/xhtml/p-cover.xhtml / 0 | COVER_ART |
+| YORI-04-U002 | item/xhtml/p-fmatter-001.xhtml / 0 | REPEATED_COLOR_COVER |
+| YORI-04-U003 | item/xhtml/p-fmatter-002.xhtml / 0 | COLOR_PAPERWORK_TEASER_WITH_TEXT |
+| YORI-04-U004 | item/xhtml/p-fmatter-003.xhtml / 0 | COLOR_THEATER_WATCHER_TEASER_WITH_TEXT |
+| YORI-04-U005 | item/xhtml/p-fmatter-004.xhtml / 0 | COLOR_FLOWER_MINERAL_TEASER_WITH_TEXT |
+| YORI-04-U006 | item/xhtml/p-fmatter-005.xhtml / 0 | VISUAL_TOC_AND_DESIGN_CREDIT |
+| YORI-04-U007 | item/xhtml/p-titlepage.xhtml / 0 | PRINTED_TITLE_AND_IMPRINT |
+| YORI-04-U008 | item/xhtml/p-caution.xhtml / 4 | ELECTRONIC_LAYOUT_NOTICES |
+| YORI-04-U009 | item/xhtml/p-toc-001.xhtml / 9 | TEXTUAL_TOC |
+| YORI-04-U010 | item/xhtml/p-001.xhtml / 0 | RASTER_EIGHT_CHARACTER_PROFILES |
+| YORI-04-U011 | item/xhtml/p-002.xhtml / 0 | STORY01_TITLE_WRAPPER |
+| YORI-04-U012 | item/xhtml/p-003.xhtml / 546 | STORY01_ACTING_LORD_WORK_AND_RECOVERY |
+| YORI-04-U013 | item/xhtml/p-004.xhtml / 0 | STORY02_TITLE_WRAPPER |
+| YORI-04-U014 | item/xhtml/p-005.xhtml / 558 | STORY02_FEMALE_DARKSTALKER_NARRATED_RETIRED_PROFESSIONALS |
+| YORI-04-U015 | item/xhtml/p-006.xhtml / 0 | STORY03_TITLE_WRAPPER |
+| YORI-04-U016 | item/xhtml/p-007.xhtml / 573 | STORY03_VANIR_PRIVACY_SUMMONING_AND_MISPLACED_ADORATION |
+| YORI-04-U017 | item/xhtml/p-008.xhtml / 0 | STORY04_TITLE_WRAPPER |
+| YORI-04-U018 | item/xhtml/p-009.xhtml / 682 | STORY04_ANGIE_EXPEDITION_AND_KNOWLEDGE_LIMITS |
+| YORI-04-U019 | item/xhtml/p-010.xhtml / 0 | STORY05_TITLE_WRAPPER |
+| YORI-04-U020 | item/xhtml/p-011.xhtml / 541 | STORY05_IGNIS_CIVIC_BATTLE_AND_UNWANTED_CONTRACT_EXTENSION |
+| YORI-04-U021 | item/xhtml/p-012.xhtml / 19 | AUTHOR_AFTERWORD_AND_CHRIS_DARKNESS_ILLUSTRATED_CODA |
+| YORI-04-U022 | item/xhtml/p-allcover-001.xhtml / 0 | JACKET_AUTHOR_ARTIST_BIOS_AND_SYNOPSIS |
+| YORI-04-U023 | item/xhtml/p-colophon.xhtml / 17 | ELECTRONIC_AND_BASE_PRINT_COLOPHON |
+| YORI-04-U024 | item/xhtml/p-colophon2.xhtml / 3 | RIGHTS_AND_BASE_EDITION_NOTICE |
+| YORI-04-U025 | item/xhtml/p-bookwalker.xhtml / 0 | BOOKWALKER_BRANDING |
+| YORI-04-U026 | item/navigation-documents.xhtml / 0 | OFF_SPINE_NAVIGATION |
+
+Main2900P/bonus0P/nonfiction52P/total2952P; full ruby/residual/image scopes before uncoded seal 2026-10-19T03:35:10.750313+00:00;82selected premises/76native-joined voices/31unchanged-contract local assessments/26ten-ledger appends. Supplemental19accepted/18already publishedof19; mixed5published; global percentage null. All26textresources2952Pslots/26images actually read/viewed. Five integral longstories2900P plus52Ptextnonfiction, no separate electronic bonus. Retold fairytale and mentioned adventurebook remain bounded embedded references, not fully read standalone books. Every wrapper/teaser/profile/jacket/cartoon/navigation/brand has individual disposition; tiny-cursive/design-name legibility limits explicitly retained.
