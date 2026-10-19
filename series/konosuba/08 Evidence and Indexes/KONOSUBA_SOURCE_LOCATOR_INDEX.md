@@ -1417,3 +1417,39 @@ Main2900P/bonus0P/nonfiction52P/total2952P; full ruby/residual/image scopes befo
 ## Iris cohort01 evidence routes
 
 [Source/identity/chronology index](KONOSUBA_IRIS_EVIDENCE_INDEX.md) supplies bounded MAIN06/10/11, CONTEXP01/02, DUST03 and MASK native routes, plus later-main letter/report limits. [Native provenance](../06%20Character%20Modeling%20and%20Reconstruction/IRIS_EXPANDED_V1_EVIDENCE/IRIS_NATIVE_BACKJOIN_PROVENANCE_01.json) preserves actual intervals and source/member hashes with zero new whole-reading credit. [Exact old forecast lineage](../06%20Character%20Modeling%20and%20Reconstruction/IRIS_EXPANDED_V1_EVIDENCE/IRIS_EXACT_FORECAST_LINEAGE_ANNEX_01.json) and [current receiving](../09%20Audits%20and%20Manifests/KONOSUBA_IRIS_COHORT_01_RECEIVING_AND_PROVENANCE.json) remain distinct from new optional source evaluation. These navigational witness groups are not an event denominator.
+
+
+## MAIN-07 excluded-component accepted routes — 2026-10-19T11:40:53.818751+00:00
+
+[Register](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V07_EXCLUDED_COMPONENT_REGISTER.json), [reading](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V07_EXCLUDED_DEEP_READING.md), [voice](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V07_EXCLUDED_VOICE_REGISTER.md), [comparisons](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V07_EXCLUDED_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [qualifications](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V07_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) govern new/inherited boundaries. All19new textual resources131P and32native images actually received;9accepted principal members3288P retained exact with zero new principal reading credit. New52P electronic bonus『たまにはお礼を言いたくて』,34P author afterword and45other wrapper/credit/navigation slots are distinct. Front composites, printed profile, paired bedside images, illustrator/guest production contributions and Volume8 promotional script retain their own planes. These counts are component accounting, not a narrative denominator. Selected25premises/24writtenfragments;31principal+8party comparisons distinguish35absent fulltriggers from4adjacent/ambiguous findings;fourtypedconstraints andsevenIrisno-opportunityrows preserve originaloutcomes. Twelveappends across tenledgers/32qualifications. Supplemental19/mixed5 andMAIN01-MAIN06fullgates plusIriscohort remainclosed; MAIN07analysis accepted/publicationpending; other10mainexcluded programs remain. Globalcomponentpercentage null.
+
+| Unit | Native member / slots | Disposition |
+|---|---|---|
+| MAIN-07-U001 | item/xhtml/p-cover.xhtml / 0 | COVER_WRAPPER;newprincipalcredit0 |
+| MAIN-07-U002 | item/xhtml/p-fmatter-001.xhtml / 0 | REPEATED_CROPPED_COVER_FRONTMATTER;newprincipalcredit0 |
+| MAIN-07-U003 | item/xhtml/p-fmatter-002.xhtml / 0 | COLOR_DIVINATION_COMPOSITE;newprincipalcredit0 |
+| MAIN-07-U004 | item/xhtml/p-fmatter-003.xhtml / 0 | COLOR_LAKE_HYDRA_COMPOSITE;newprincipalcredit0 |
+| MAIN-07-U005 | item/xhtml/p-fmatter-004.xhtml / 0 | COLOR_BRIDAL_CARRY_WITH_NONCONTEMPORANEOUS_BODY_QUOTATIONS;newprincipalcredit0 |
+| MAIN-07-U006 | item/xhtml/p-fmatter-005.xhtml / 0 | RASTER_CONTENTS_PRINT_LOCATORS;newprincipalcredit0 |
+| MAIN-07-U007 | item/xhtml/p-titlepage.xhtml / 5 | TITLE_IMPRINT;newprincipalcredit0 |
+| MAIN-07-U008 | item/xhtml/p-caution.xhtml / 6 | RIGHTS_AND_ELECTRONIC_NOTICE;newprincipalcredit0 |
+| MAIN-07-U009 | item/xhtml/p-toc-001.xhtml / 15 | TEXTUAL_CONTENTS;newprincipalcredit0 |
+| MAIN-07-U010 | item/xhtml/p-001.xhtml / 0 | RASTER_EDITION_CHARACTER_PROFILE;newprincipalcredit0 |
+| MAIN-07-U011 | item/xhtml/p-002.xhtml / 35 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-07-U012 | item/xhtml/p-003.xhtml / 488 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-07-U013 | item/xhtml/p-004.xhtml / 540 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-07-U014 | item/xhtml/p-005.xhtml / 523 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-07-U015 | item/xhtml/p-006.xhtml / 555 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-07-U016 | item/xhtml/p-007.xhtml / 784 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-07-U017 | item/xhtml/p-008.xhtml / 162 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-07-U018 | item/xhtml/p-009.xhtml / 147 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-07-U019 | item/xhtml/p-010.xhtml / 54 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-07-U020 | item/xhtml/p-011.xhtml / 34 | CREATOR_AFTERWORD_NOT_NEW_FICTION;newprincipalcredit0 |
+| MAIN-07-U021 | item/xhtml/p-012.xhtml / 0 | ILLUSTRATOR_CODA_ANIME_CONGRATULATION;newprincipalcredit0 |
+| MAIN-07-U022 | item/xhtml/p-013.xhtml / 0 | GUEST_ILLUSTRATOR_CONGRATULATION_COMIC_PROMOTION;newprincipalcredit0 |
+| MAIN-07-U023 | item/xhtml/p-014.xhtml / 0 | NEXT_VOLUME_FESTIVAL_PROMOTIONAL_SCRIPT;newprincipalcredit0 |
+| MAIN-07-U024 | item/xhtml/p-015.xhtml / 52 | SEPARATE_ELECTRONIC_BONUS_FICTION;newprincipalcredit0 |
+| MAIN-07-U025 | item/xhtml/p-016.xhtml / 5 | ILLUSTRATION_AND_DESIGN_CREDITS;newprincipalcredit0 |
+| MAIN-07-U026 | item/xhtml/p-colophon.xhtml / 14 | COLOPHON;newprincipalcredit0 |
+| MAIN-07-U027 | item/xhtml/p-bookwalker.xhtml / 0 | BOOKWALKER_LOGO;newprincipalcredit0 |
+| MAIN-07-U028 | item/navigation-documents.xhtml / 0 | NAVIGATION_RESIDUAL;newprincipalcredit0 |

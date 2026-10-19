@@ -1949,3 +1949,48 @@ Exact source57c44c52e923800515c236a312f6c204c931432c/tree445d621327a286597f33695
 ## Iris cohort01 semantic acceptance — 2026-10-19T10:36:23.961554+00:00
 
 Accepted the first evidence-proportional secondary cohort: Iris monograph, distinct bounded mechanism model, exact eight-block forecast lineage, seven separately scoped informed commitments, actual22-output/11-pair synthetic exercise history and reviews, and native/derivative attribution evidence. Published35-row initial coverage responsibility includes all18mandatory candidates and additional discovery queues; only Iris receives a new scoped Tier3 disposition. SI-D05 LOW retains CONTEXP01 warning/cast adversity; competitive tactics qualify general fairness, unfamiliar-person choice remains underdetermined, journal privacy weak. MAIN06 gate is closed; this new cohort publication remains pending. No source admission, full-principal rereading, source-validation score or global enrollment occurs here. All remaining full41program responsibilities continue.
+
+
+## Iris cohort01 full publication gate — 2026-10-19T10:54:46.081453+00:00
+
+Exact sourcebc9b67dc37212868b16e8b6eed1a39f07b258dd0/tree9f35e61dfcc12aa79bb71b5d173c7d67f76bcc83; all8917remote paths/25changedstreams match. Source audit39239266627/job118015835543, housekeeping39239969560/job118018126187NO_OP/exact dispatch, final audit39240031135/job118018336065; both352fulltests/zeroall5non-success/selectionfalse; actual-source finalstatus and fresh752project authority reload2026-10-19T10:54:45.929292+00:00. ScopedTier3, eight exact historical blocks, seven informed optional future rules and22actual synthetic outputs retain all stated uncertainty. Original authority/scores/questions stay exact. Next MAIN07 excluded resources require separate admission; broad census/synthesis/revised models/curation/release continue. No protected-main integration claimed.
+
+
+## MAIN07EXCLUDED admission transition — 2026-10-19T10:55:18.249369+00:00
+
+Prior current operation retained verbatim:
+
+````markdown
+**Iris cohort01 full publication gate is closed; separate Main07 excluded-component admission is next.** [Iris monograph](05%20Specialist%20Synthesis/KONOSUBA_IRIS_CHARACTER_MONOGRAPH.md), [bounded reconstruction](06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_IRIS_RECONSTRUCTION_MODEL.md), [coverage audit](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md), [evidence index](08%20Evidence%20and%20Indexes/KONOSUBA_IRIS_EVIDENCE_INDEX.md) and [exact-source gate](09%20Audits%20and%20Manifests/KONOSUBA_IRIS_COHORT01_PUBLICATION_GATE_CLOSE.json) govern uptake. Actual sourcebc9b67dc37212868b16e8b6eed1a39f07b258dd0; all8917paths/25changedstreams match; both audits352full/zeroallfive non-success and final exactsource status verified; fresh752project authority reload completed. Only Iris receives a new scopedTier3 disposition; seven informed rules and22actual synthetic outputs retain adverse, LOW and underdetermined branches withzero source-validation credit. Other mandatory/discovered candidate responsibilities remain in the incomplete35-row audit, without final tiers. Supplemental19/mixed5 and6of17mainexcluded gates are closed;11mainexcluded programs and allremaining expanded/secondary/principal/party/transfer/curation/release work continue. MAIN07 is still unadmitted at this reconciliation. Component percentage remains null.
+````
+
+**Main 07 excluded-component source-first reading is active and not yet accepted.** MAIN-07 exact local supplied edition 11201415bytes/SHA256 38c1fa428ba096cdc4c8b7a5df393dd5763b438e780ef2cef138860c608143c5, admitted after preceding full gate/fresh reload. Retain 9 accepted principal members by native hash/paragraph joins with zero new principal reading credit. 19 excluded text resources and 32 images require actual inspection. New reading/viewing credit is zero at this admission snapshot. Bespoke uncoded seal precedes formal outcomes; supplemental19/mixed5 gates stay closed and full41/secondary work continues.
+
+
+## Main07 excluded-component acceptance transition — 2026-10-19T11:42:36.577532+00:00
+
+Prior current-operation paragraph preserved verbatim:
+
+````markdown
+**Main 07 excluded-component source-first reading is active and not yet accepted.** MAIN-07 exact local supplied edition 11201415bytes/SHA256 38c1fa428ba096cdc4c8b7a5df393dd5763b438e780ef2cef138860c608143c5, admitted after preceding full gate/fresh reload. Retain 9 accepted principal members by native hash/paragraph joins with zero new principal reading credit. 19 excluded text resources and 32 images require actual inspection. New reading/viewing credit is zero at this admission snapshot. Bespoke uncoded seal precedes formal outcomes; supplemental19/mixed5 gates stay closed and full41/secondary work continues.
+````
+
+Prior source-group table and component statement preserved verbatim:
+
+| Source group | Fixed objects | Current analytical scope and remaining work |
+|---|---:|---|
+| Main series | 17 | Accepted principal narratives/checkpoints retained; 6of17 excluded-component full gates closed; other11 programs require separate admission and dispositions |
+| Dust | 8 | All seven numbered volumes and the separately titled unnumbered continuation have closed whole-supplied-edition gates; original principal holdout histories remain separate |
+| Explosions / Continued Explosions | 5 | All three plus two whole-supplied-edition gates closed; chronology, viewpoint and individual component limits retained |
+| Masked Devil / Fantastic Days | 2 | Both whole-supplied-edition gates closed; Mask's original principal holdout and Fantastic Days' selective game-adaptation scope remain distinct |
+| Yorimichi | 4 | All four collections have closed whole-supplied-edition gates at their declared component scopes; collection01's original principal holdout remains separately preserved |
+| Cheers / Blessing / Memorial Fanbook / TRPG Core / Advanced | 5 | All five programs have closed gates at declared supplied-component/page scopes, with dense-page and unequal-source-plane limits retained |
+
+6of17main excluded-component programs have closed full gates; other11remain, with original accepted principal bodies retained and zero new principal reading credit.
+
+**Main 07 excluded-component analysis is accepted; exact publication verification is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V07_EXCLUDED_DEEP_READING.md), [register](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V07_EXCLUDED_COMPONENT_REGISTER.json), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V07_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V07_EXCLUDED_RECEIVING_AND_PROVENANCE.json) govern uptake. All19new textual resources131P and32native images actually received;9accepted principal members3288P retained exact with zero new principal reading credit. New52P electronic bonus『たまにはお礼を言いたくて』,34P author afterword and45other wrapper/credit/navigation slots are distinct. Front composites, printed profile, paired bedside images, illustrator/guest production contributions and Volume8 promotional script retain their own planes. These counts are component accounting, not a narrative denominator. Twenty-five selectedcomicpremises/24shortwrittenfragments;39explicitprincipal-party comparisons retain35absentfulltriggers and4adjacent/ambiguous findings;fourtypedconstraints andsevenIrisno-opportunityrows do not change original outcomes. MAIN01-MAIN06excluded andsupplemental19/mixed5fullgates plusIriscohort areclosed. MAIN08excluded admission follows this fullgate/freshreload;other10mainexcluded programs andremaining synthesis/model/secondary/curation/releasework continue.
+
+
+All19new textual resources131P and32native images actually received;9accepted principal members3288P retained exact with zero new principal reading credit. New52P electronic bonus『たまにはお礼を言いたくて』,34P author afterword and45other wrapper/credit/navigation slots are distinct. Front composites, printed profile, paired bedside images, illustrator/guest production contributions and Volume8 promotional script retain their own planes. These counts are component accounting, not a narrative denominator. Selected25premises/24writtenfragments;31principal+8party comparisons distinguish35absent fulltriggers from4adjacent/ambiguous findings;fourtypedconstraints andsevenIrisno-opportunityrows preserve originaloutcomes. Twelveappends across tenledgers/32qualifications. Supplemental19/mixed5 andMAIN01-MAIN06fullgates plusIriscohort remainclosed; MAIN07analysis accepted/publicationpending; other10mainexcluded programs remain. Globalcomponentpercentage null.
+
+Exact publication/all-tree and changed-stream readback/source audit/housekeeping/final actual-source audit and status/fresh published-authority reload before MAIN08 excluded admission. Incorporate then-current main ordinarily if needed and repeat affected checks before the next push. Remaining main components, secondary census and earned cohorts, synthesis, versioned principal/party/transfer models, curation and release continue.

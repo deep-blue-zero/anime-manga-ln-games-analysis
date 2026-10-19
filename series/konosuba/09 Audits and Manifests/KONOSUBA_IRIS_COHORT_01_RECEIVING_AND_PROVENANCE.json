@@ -141,5 +141,14 @@
     "prior_failure": "Two historical draft status values outside repository enum; no analytical failure reported.",
     "failed_log_sha256": "bcfa490600043ca9ada84736ad737a0a3c95c5586a74e2cf61c52b4495d67711",
     "resolution": "Exact text in declared noncurrent JSON container; original private inputs unchanged."
+  },
+  "current_publication_gate": {
+    "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+    "source": "bc9b67dc37212868b16e8b6eed1a39f07b258dd0",
+    "closed_utc": "2026-10-19T10:54:45.928292+00:00",
+    "receipt": "09 Audits and Manifests/KONOSUBA_IRIS_COHORT01_PUBLICATION_GATE_CLOSE.json",
+    "reload_utc": "2026-10-19T10:54:45.929292+00:00",
+    "original_pending_at_authorship_fields_retained": true,
+    "containing_postgate_metadata_publication": "Carried with the next tranche; this field records the already closed preceding source gate."
   }
 }
