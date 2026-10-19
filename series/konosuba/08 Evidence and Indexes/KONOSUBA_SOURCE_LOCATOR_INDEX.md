@@ -1764,3 +1764,31 @@ The [Yunyun index](KONOSUBA_YUNYUN_EVIDENCE_INDEX.md) routes18families with four
 | MAIN-16-U026 | item/xhtml/p-colophon2.xhtml / 3 | USE_AND_RIGHTS_NOTICE;newprincipalcredit0 |
 | MAIN-16-U027 | item/xhtml/p-bookwalker.xhtml / 0 | BOOKWALKER_RETAILER_WRAPPER;newprincipalcredit0 |
 | MAIN-16-U028 | item/navigation-documents.xhtml / 0 | NONSPINE_NAVIGATION_WITH_20_NON_P_STRINGS;newprincipalcredit0 |
+
+
+## MAIN-17 excluded-component accepted routes — 2026-10-19T21:47:19.613697+00:00
+
+[Register](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V17_EXCLUDED_COMPONENT_REGISTER.json), [reading](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V17_EXCLUDED_DEEP_READING.md), [voice](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V17_EXCLUDED_VOICE_REGISTER.md), [comparisons](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V17_EXCLUDED_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [qualifications](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V17_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) govern new/inherited boundaries. All15 new textual resources71P/ruby/residuals and25 unique native images actually received and uncoded-sealed. Five accepted principal members2,608P retain exact authority and zero new principal-pass credit. There is no separate prose bonus:37Pcreator afterword includes a modal parallel-campaign synopsis and future threads;34other notice/contents/colophon/use slots. Current retained precision1,517unique BASE-TEXTP acrossallfiveunits: completeC1=591P/Ep=93P;C2=342P/C3=141P/final=350Pbounded. No fresh retainedruby/residual/all2,608P/wholeEPUB/newprincipalpass/independent claim. Cover/crop, two color compositions, promotional role montage, profiles/banners, closing contributor dedication, jacket biographies/blurb and edition text keep distinct source planes. These counts are not a global narrative denominator. Selected9premises/27writtenfragments;31principal+8party individualNTcomparisons/fourtypeddiagnostics/sevenIrisNT/sevenYunyunNT. 39explicit informed full-trigger-absent comparisons for creator/profile/promotion/retained-image planes. Four typeddiagnostics;7IrisNT/7YunyunNT preserve original fields. No separate bonus fiction; creator synopsis is useful attributed information but explicitly outside scoped eligibility. Retained actual choices do not become fresh trials. No independent validation, accuracy or confidence updates. 12appends across tenledgers/40qualifications. Supplemental19/mixed5 andMAIN01-MAIN16fullgates plusIris/Yunyuncohorts remainclosed;MAIN17analysis accepted/publicationpending. Terminalmainexcludedsource;globalcomponentpercentage null;fullsecondary/synthesis/versionedmodels/curation/integration/release continues.
+
+| Unit | Native member / slots | Disposition |
+|---|---|---|
+| MAIN-17-U001 | titlepage.xhtml / 0 | FULL_COVER_GROUP_TITLE_WRAPPER;newprincipalcredit0 |
+| MAIN-17-U002 | text/part0000.html / 0 | DEPENDENT_AQUA_COVER_CROP;newprincipalcredit0 |
+| MAIN-17-U003 | text/part0001.html / 0 | COLOR_RETAINED_EXPLOSION_MONTAGE_AND_NAMED_QUOTES;newprincipalcredit0 |
+| MAIN-17-U004 | text/part0002.html / 0 | COLOR_RETAINED_AQUA_RECOGNITION_DODGE_MONTAGE;newprincipalcredit0 |
+| MAIN-17-U005 | text/part0003.html / 0 | PROMOTIONAL_SAME_VOLUME_PARTY_ROLE_COMPOSITE;newprincipalcredit0 |
+| MAIN-17-U006 | text/part0004.html / 0 | RASTER_CONTENTS_CHIBIS_AND_DESIGN_CREDITS;newprincipalcredit0 |
+| MAIN-17-U007 | text/part0005.html / 0 | RASTER_TITLE_AUTHOR_IMPRINT;newprincipalcredit0 |
+| MAIN-17-U008 | text/part0006.html / 4 | ELECTRONIC_LAYOUT_THUMBNAIL_NOTICE;newprincipalcredit0 |
+| MAIN-17-U009 | text/part0007.html / 9 | TEXTUAL_CONTENTS;newprincipalcredit0 |
+| MAIN-17-U010 | text/part0008.html / 0 | FOUR_PRINCIPAL_RASTER_EDITORIAL_PROFILE;newprincipalcredit0 |
+| MAIN-17-U011 | text/part0009.html / 591 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_PASS_CREDIT;newprincipalcredit0 |
+| MAIN-17-U012 | text/part0010.html / 575 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_PASS_CREDIT;newprincipalcredit0 |
+| MAIN-17-U013 | text/part0011.html / 560 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_PASS_CREDIT;newprincipalcredit0 |
+| MAIN-17-U014 | text/part0012.html / 789 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_PASS_CREDIT;newprincipalcredit0 |
+| MAIN-17-U015 | text/part0013.html / 93 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_PASS_CREDIT;newprincipalcredit0 |
+| MAIN-17-U016 | text/part0014.html / 37 | CREATOR_AFTERWORD_MODAL_PARALLEL_CAMPAIGN_SYNOPSIS_FUTURE_THREADS_AND_CLOSING_ART;newprincipalcredit0 |
+| MAIN-17-U017 | text/part0015.html / 0 | FULL_WRAP_BIOGRAPHIES_MARKETING_AND_DESIGN_CREDITS;newprincipalcredit0 |
+| MAIN-17-U018 | text/part0016.html / 18 | COLOPHON_IMPRINT_SUPPORT;newprincipalcredit0 |
+| MAIN-17-U019 | text/part0017.html / 3 | RIGHTS_TRANSFER_SOURCE_DATE_NOTICE;newprincipalcredit0 |
+| MAIN-17-U020 | text/part0018.html / 0 | BOOKWALKER_RETAILER_WRAPPER;newprincipalcredit0 |

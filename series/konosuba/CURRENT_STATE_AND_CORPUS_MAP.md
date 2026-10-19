@@ -4,7 +4,7 @@ artifact_type: corpus_map
 scope: FULL_MAIN_SERIES
 generation: V1
 status: canonical
-source_boundary: MAIN16EXCLUDED accepted/new18resources121P/28images/60Pbonus; retained10principals/newprincipalcredit0; containingpublicationpending; supplemental19/mixed5closed;other1mainexcluded programs remain;full41continues
+source_boundary: MAIN17EXCLUDED accepted/new15resources71P/25images/0Pbonus; retained5principals/newprincipalcredit0; containingpublicationpending; supplemental19/mixed5closed;other0mainexcluded programs remain;full41continues
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,14 +17,14 @@ project_initialization:
   source_reconnaissance_complete: true
   required_ledgers_initialized: true
   sequential_analysis_lock: open
-  next_permitted_operation: EXPANDED_MAIN16EXCLUDED_PUBLICATION_GATE
+  next_permitted_operation: EXPANDED_MAIN17EXCLUDED_PUBLICATION_GATE
 sequential_execution:
   mode: continuous_sequential
   unit_type: volume
   authorized_start: V11
   terminal_boundary: V17
   committed_high_water_mark: V17
-  next_candidate_operation: EXPANDED_MAIN16EXCLUDED_PUBLICATION_GATE
+  next_candidate_operation: EXPANDED_MAIN17EXCLUDED_PUBLICATION_GATE
   confirmation_between_units: false
   run_state: active
 ---
@@ -44,7 +44,7 @@ The project is not primarily a plot-summary project and is not satisfied by trai
 ## 2. Current authority state
 
 <!-- CURRENT_OPERATION_START -->
-**Main 16 excluded-component analysis is accepted; exact publication verification is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V16_EXCLUDED_DEEP_READING.md), [register](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V16_EXCLUDED_COMPONENT_REGISTER.json), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V16_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V16_EXCLUDED_RECEIVING_AND_PROVENANCE.json) govern uptake. All18new textual resources121P/ruby/residuals and28unique native images actually received and uncoded-sealed. Ten accepted principal members2844P retain exact authority and zero new principal-pass credit. New60P electronic bonus『アクセルの街の名物女神』,21Pcreator afterword and40other notice/contents/heading/colophon/use slots. Current retained precision1395unique BASE-TEXTP acrossall10units: fourinterludes179P/final515P/epilogue29Pcomplete at base-text scope, four main chapters bounded. No fresh retained ruby/residual, full2844P/wholeEPUB/newprincipalpass or independent-reading claim. Cover/crop, contents, two montages, banners/profile, dependent contributor closet art, jacket biographies and NEXT17 keep their own planes. Counts are not a global narrative denominator. Selected12comicpremises/36writtenfragments;39explicitprincipal-party comparisons preserve localmatches/contrary/missingbranches separately;fourtypeddiagnostics/seven Iris NT and seven Yunyun full-predicate NT rows do not change original outcomes. MAIN01-MAIN15excluded,supplemental19/mixed5fullgates andIris/Yunyuncohorts areclosed. MAIN-17excluded admission follows this fullgate/freshreload;other1mainexcluded programs andremaining synthesis/model/secondary/curation/releasework continue.
+**Main17 excluded-component analysis is accepted; exact publication verification is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V17_EXCLUDED_DEEP_READING.md), [register](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V17_EXCLUDED_COMPONENT_REGISTER.json), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V17_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V17_EXCLUDED_RECEIVING_AND_PROVENANCE.json) govern uptake. All15 new textual resources71P/ruby/residuals and25 unique native images actually received and uncoded-sealed. Five accepted principal members2,608P retain exact authority and zero new principal-pass credit. There is no separate prose bonus:37Pcreator afterword includes a modal parallel-campaign synopsis and future threads;34other notice/contents/colophon/use slots. Current retained precision1,517unique BASE-TEXTP acrossallfiveunits: completeC1=591P/Ep=93P;C2=342P/C3=141P/final=350Pbounded. No fresh retainedruby/residual/all2,608P/wholeEPUB/newprincipalpass/independent claim. Cover/crop, two color compositions, promotional role montage, profiles/banners, closing contributor dedication, jacket biographies/blurb and edition text keep distinct source planes. These counts are not a global narrative denominator. Selected9comicpremises/27writtenfragments;39explicitprincipal-partyNTcomparisons/fourtypeddiagnostics/sevenIrisNT/sevenYunyunNT preserveoriginaloutcomes. MAIN01-MAIN16excluded,supplemental19/mixed5 andIris/Yunyuncohorts areclosed. Fullsecondarycensus/earnedartifacts/expanded synthesis/versionedprincipal-party-transfer/curation/integration/release follows this fullgate/freshreload;noMAIN18admission.
 <!-- CURRENT_OPERATION_END -->
 
 The main17 principal readings/checkpoints, main-only specialists, MAIN_ONLY_R1 reconstruction/diagnostic suite, main-principal evidence indexes and four designated holdout-principal assessments are accepted. Their historical derivation, original forecasts, adverse findings and frozen bytes remain separately authoritative at their original boundaries. They are not a substitute for outstanding edition components, expanded synthesis or revised models.
@@ -72,14 +72,14 @@ This execution uses the owner-designated local primary-source EPUB collection; i
 
 | Source group | Fixed objects | Current analytical scope and remaining work |
 |---|---:|---|
-| Main series | 17 | Accepted principal narratives/checkpoints retained; MAIN01-MAIN15 excluded full gates closed; MAIN16 analysis accepted/publication pending; other1 programs require separate admission and dispositions |
+| Main series | 17 | Accepted principal narratives/checkpoints retained; MAIN01-MAIN16 excluded full gates closed; terminal MAIN17 analysis accepted/publication pending; full census/synthesis/models/curation/release continues |
 | Dust | 8 | All seven numbered volumes and the separately titled unnumbered continuation have closed whole-supplied-edition gates; original principal holdout histories remain separate |
 | Explosions / Continued Explosions | 5 | All three plus two whole-supplied-edition gates closed; chronology, viewpoint and individual component limits retained |
 | Masked Devil / Fantastic Days | 2 | Both whole-supplied-edition gates closed; Mask's original principal holdout and Fantastic Days' selective game-adaptation scope remain distinct |
 | Yorimichi | 4 | All four collections have closed whole-supplied-edition gates at their declared component scopes; collection01's original principal holdout remains separately preserved |
 | Cheers / Blessing / Memorial Fanbook / TRPG Core / Advanced | 5 | All five programs have closed gates at declared supplied-component/page scopes, with dense-page and unequal-source-plane limits retained |
 
-Nineteen of19 supplemental supplied editions have closed full publication gates; all five mixed/reference gates are closed. 15of17main excluded-component programs have closed full gates; MAIN16analysis is accepted with publication gate pending; other1remain. Original accepted principal bodies retain exact history withzero newprincipal readingcredit. This book accounting is not a narrative-component percentage. The overall component denominator remains unresolved and percentage is null. Original metadata audits retain historical20/21/36-object scopes; none alone certifies the full41 corpus or semantic completion. Expanded synthesis, revised models, secondary-character work and final audit remain active.
+Nineteen of19 supplemental supplied editions have closed full publication gates; all five mixed/reference gates are closed. 16of17main excluded-component programs have closed full gates; MAIN17analysis is accepted with publication gate pending; other0remain. Original accepted principal bodies retain exact history withzero newprincipal readingcredit. This book accounting is not a narrative-component percentage. The overall component denominator remains unresolved and percentage is null. Original metadata audits retain historical20/21/36-object scopes; none alone certifies the full41 corpus or semantic completion. Expanded synthesis, revised models, secondary-character work and final audit remain active.
 
 Before another source is admitted, its predecessor's exact publication/readback, source audit, housekeeping, final actual-source audit/status and fresh published-authority reload must be satisfied under the governing workflow. Admission then verifies exact local identity/CRC/OPF/structure, records current informed exposure/questions and seals zero-new-body preparation. Full actual text/ruby/residual/image reading and an uncoded seal precede formal outcomes. Extraction, prior principal validation, captions and marketing do not substitute for that work.
 
