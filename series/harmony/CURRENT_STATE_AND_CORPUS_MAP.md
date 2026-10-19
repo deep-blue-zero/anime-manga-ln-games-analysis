@@ -5,13 +5,13 @@ artifact_type: corpus_map
 series: Harmony / ハーモニー
 series_id: harmony
 generation: HARMONY_BOOTSTRAP_V1
-version: '0.28'
+version: '0.29'
 status: active_provisional
 scope: Current state and sole first-read entrypoint
 source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U020 interstice34 text/part0013.html and actual epilogue heading35/body36 text/part0015.html through2171rawbodycp/literal body-etml closure; ancillary37–40 classified excluded; all40spine occurrences accounted; next source NONE
 canonical_home: series/harmony/CURRENT_STATE_AND_CORPUS_MAP.md
 created: '2026-10-16'
-review_status: G6_INDEPENDENT_SEMANTIC_ACCEPTANCE_COMPLETE_RELEASE_PENDING_MAIN
+review_status: G6_INDEPENDENT_SEMANTIC_ACCEPTANCE_COMPLETE_RELEASE_COMPLETED_MAIN_VERIFIED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -61,7 +61,7 @@ retrospective_g4_g6_execution:
   source_retrospective_cases: 32
   distinct_interactive_sessions: 15
   actual_interactive_responses: 96
-  g6: INDEPENDENT_FINAL_REVIEW_ACCEPTED_RELEASE_AWAITING_PROTECTED_INTEGRATION
+  g6: INDEPENDENT_FINAL_REVIEW_ACCEPTED_MAIN_RELEASE_COMPLETED
   release_audit: 07 Audits and Handoffs/HARMONY_G6_RELEASE_AND_COMPLETION_AUDIT.md
   validation: 04 Character and Relationship Studies/Reconstruction/HARMONY_G5_VALIDATION_AND_ERROR_ANALYSIS.md
 repository_state:
@@ -69,12 +69,17 @@ repository_state:
   routing_input: series/harmony/.repository/series-registry.json
   materialization_status: PRESENT_REVIEWED
   integration_route: OWNER_CONTROLLED_EXACT_HEAD_AUDITED_ROUTE
-  release_state: PENDING_PROTECTED_MAIN_AND_EXPLICIT_POSTMERGE_AUDIT
+  release_state: G6_RELEASE_COMPLETED_MAIN_VERIFIED
+  g6_release_source_commit: 7bee631f7521cfd576e4e69beb0ffdaa2d832765
+  g6_release_integration_commit: f2c78b4206e560319644ea9610c22712bfec1712
+  g6_release_pr_url: https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/238
+  explicit_postmerge_audit_url: https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39205844307
+  explicit_postmerge_audit_result: SUCCESS_FULL_352_TESTS_ZERO_SKIPS
 ---
 
 # Harmony / ハーモニー — current state and corpus map
 
-This project owns Project Itoh's original prose novel. Source admission and the continuous sequential run are complete in exact witness `HAR-JP-EPUB-001`, SHA-256 `d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae`. Twenty frozen natural-unit readings reach the actual epilogue; all40spine occurrences have explicit dispositions. Both next-source fields are **NONE**. G2 reconciliation and G3's four specialists/six character studies remain accepted. The separately authorized G4 argument, G5 bounded reconstructions/evaluations and independent final G6 semantic review are accepted. Protected-main release completion remains separately verified below.
+This project owns Project Itoh's original prose novel. Source admission and the continuous sequential run are complete in exact witness `HAR-JP-EPUB-001`, SHA-256 `d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae`. Twenty frozen natural-unit readings reach the actual epilogue; all40spine occurrences have explicit dispositions. Both next-source fields are **NONE**. G2 reconciliation and G3's four specialists/six character studies remain accepted. The separately authorized G4 argument, G5 bounded reconstructions/evaluations and independent final G6 semantic review are accepted. Protected-main integration and the successful explicit audit of the resulting main commit complete the release.
 
 `SEQUENTIAL_ANALYSIS_LOCK = OPEN` preserves the architecture prerequisite, not permission for another run. The unchanged terminal token `HARMONY_NATURAL_EPILOGUE_END` resolves to HAR-U020: meaningful interstice34, epilogue heading35 and complete body36 through2171rawbodycodepoints/literal ETML closures. Ancillaries37–40are separately classified and excluded. No HAR-U021 is invented.
 
@@ -88,7 +93,7 @@ This project owns Project Itoh's original prose novel. Source admission and the 
 | G3 | Four specialist studies and six character studies complete after independent convergence; no remaining mandatory role gap |
 | G4 | One substantial original whole-novel argument independently accepted, with a separately attributable Reiko-warning precision correction |
 | G5 | Ten conditional models, all30individual dispositions and32retrospective source cases independently reviewed;96actual responses in15contexts; five semantic successors and the original failure record retained |
-| G6 / repository release | Separate independent final semantic review ACCEPTED; protected-main integration and explicit resulting-main audit remain pending |
+| G6 / repository release | Separate independent final semantic review ACCEPTED; protected-main integration and the explicit full resulting-main audit successfully completed |
 | Architecture | EVOLVING; existing reconstruction, synthesis and audit homes implement the established responsibilities; no fourth cumulative owner or global registry |
 
 ## Names and identity
@@ -130,7 +135,7 @@ Live [AGENTS](../../AGENTS.md), [authority state](../../governance/AUTHORITY_STA
 
 The distinct independent G6 review accepts the complete source-bounded analytical package and its limitations. It personally inspects all96actual responses, reviews all30subject decisions and ten selected policies, verifies the five semantic repairs and unchanged-body metadata selection, and checks the integrated literary argument against the Japanese source and strongest alternatives. Its actual inspection depth is declared; it does not claim a fresh complete reread of every historical source/ledger byte. Original readings, failures, policy payloads and audit stages remain preserved.
 
-**Release completion is pending protected-main integration and a successful explicit audit of the actual resulting main commit.** Semantic acceptance alone does not close that Git transaction. The maintained entrypoint advances only after those results are verified; the independent pre-merge audit then remains unchanged as its historical review record.
+**Release completed through protected-main integration and a successful explicit full audit of the actual resulting main commit.** The verified source, integration and audit receipts are bound in the repository-state metadata above. The independent pre-merge audit remains unchanged as its historical review record.
 
 ## Project history
 
