@@ -1175,3 +1175,12 @@ Whole supplied edition accepted at stated scopes; containing publication/full ga
 |---|---|---|---|---|
 | YORI04-WHOLE-CC01 | Provider-specific boundaries and harassment; U018P305/404–410/467/524;U020P377–390/425–426/523 | Angie rejects unwanted spending/shield use; Vanir protests exit and is held/tied; K explicitly calls conduct sexual harassment. | Provider refusal controls continued task meaning, regardless of beneficiary benefit. | No pleasure, later payment, original contract or final victory grants new assent. |
 | YORI04-WHOLE-CC02 | Threat, execution and ethical restraint; U012P188/306;U016P249/489–490;U020P78/92/96/248/451 | D refuses unprovoked religious attack; Aq stops visitor violence; officials threaten execution-like consequences, renaming and governance. | Threats are actual pressure but outcomes stay unperformed where not shown. | No changed legal system/current city name or modern civic authority inferred from a threat. |
+
+
+## Main 01 excluded-component received observations — 2026-10-19T05:57:58.543749+00:00
+
+New21resources152P/29images actually read/viewed; accepted6principal members2878P retained withzero newprincipal reading credit. Containing publication/full gate pending. [Reading](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V01_EXCLUDED_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V01_EXCLUDED_LEDGER_APPEND_DECISIONS.json), [comparisons](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V01_EXCLUDED_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [qualifications](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V01_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) control uptake. Same informed root; selected17premises/22fragments are not a census, independent experiment or new blind scores. Frozen66/72/fourscores/14originalDustblanks exact.
+
+| ID | Subjects / native route | Observation | Implication | Limit |
+|---|---|---|---|---|
+| M01EX-LD08 | Aqua/Kazuma; anonymous actual interlocutors as individually specified; U023P11-14/25-26/34-47 | Aqua reported painting and direct Heal, K actual DrainTouch and unrepaired emotional distress have different access and outcome scopes. | One narrow fitted heal is real; no timed-art verification or complete comfort success. | New bonus or explicitly identified paratext; actual retained principal image joins are audits, not new events. Original prefix/controls/scores remain exact. |

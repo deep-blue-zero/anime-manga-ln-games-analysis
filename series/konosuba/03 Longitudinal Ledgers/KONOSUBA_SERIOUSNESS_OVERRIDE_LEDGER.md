@@ -989,3 +989,12 @@ Whole supplied edition accepted at stated scopes; containing publication/full ga
 |---|---|---|---|---|
 | YORI04-WHOLE-SO01 | Ordinary needs beneath elite identity; U014P51/290/495–553;U018P241–244/404/565;U020P447/527–540 | Remittances, state pension, one bill, mineral skill supplies, broken windows, tea and peaceful morning organize priorities. | Status talk does not eliminate scarcity, fatigue, bodily need, play or memory value. | No arbitrary monetary threshold or modern profession invented; local17age not backdated. |
 | YORI04-WHOLE-SO02 | Census candidates beyond principal cast; U014whole;U016whole;U018whole;U020whole | New direct material includes class-named retired women, Angie and fully named Ignis, with bounded notices of Hagen, scholar, Cecily and ghost. | Add to all-corpus candidate discovery rather than replace it with the initial requested-name list. | Supplemental-specific depth earns a bounded possible home, not automatic cross-context reconstruction. |
+
+
+## Main 01 excluded-component received observations — 2026-10-19T05:57:58.543749+00:00
+
+New21resources152P/29images actually read/viewed; accepted6principal members2878P retained withzero newprincipal reading credit. Containing publication/full gate pending. [Reading](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V01_EXCLUDED_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V01_EXCLUDED_LEDGER_APPEND_DECISIONS.json), [comparisons](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V01_EXCLUDED_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [qualifications](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V01_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) control uptake. Same informed root; selected17premises/22fragments are not a census, independent experiment or new blind scores. Frozen66/72/fourscores/14originalDustblanks exact.
+
+| ID | Subjects / native route | Observation | Implication | Limit |
+|---|---|---|---|---|
+| M01EX-LD09 | Aqua/Kazuma; anonymous actual interlocutors as individually specified; U023P33-43 | Aqua anger toward K is interrupted by actual injured child and specific care. | Meaningful care does not erase prior aggression or prove universal harmlessness. | New bonus or explicitly identified paratext; actual retained principal image joins are audits, not new events. Original prefix/controls/scores remain exact. |

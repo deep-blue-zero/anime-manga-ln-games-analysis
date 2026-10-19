@@ -1632,3 +1632,12 @@ Whole supplied edition accepted at stated scopes; containing publication/full ga
 |---|---|---|---|---|
 | YORI04-WHOLE-JV01 | Native written voice with literal and contextual planes; U012P183/276/531;U014P56/82/311;U018P328;U020P68/139/215/465 | 76 exact native fragments have specified P, speaker, gloss, independent scene context and form argument. | Register can support care, coercion, refusal, professional respect, self-defense or performance. | After-seal fragment selection explicit; raw rough witnesses preserved; no audio/native-human or new J01voice score. |
 | YORI04-WHOLE-JV02 | Reported and borrowed voice kept attributed; U012P62/74/353/379;U014P529;U016P65–88;U020P496–499;IMG021 | K’s imagined Chris/D words, letters read by Yun, complaint quotes, repeated Assassin correction and cartoon have different speakers/planes. | Do not count every written turn as the present actor spontaneously speaking. | No exact tiny-credit/cursive transcription claim or new enacted reunion from paratext. |
+
+
+## Main 01 excluded-component received observations — 2026-10-19T05:57:58.543749+00:00
+
+New21resources152P/29images actually read/viewed; accepted6principal members2878P retained withzero newprincipal reading credit. Containing publication/full gate pending. [Reading](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V01_EXCLUDED_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V01_EXCLUDED_LEDGER_APPEND_DECISIONS.json), [comparisons](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V01_EXCLUDED_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [qualifications](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V01_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) control uptake. Same informed root; selected17premises/22fragments are not a census, independent experiment or new blind scores. Frozen66/72/fourscores/14originalDustblanks exact.
+
+| ID | Subjects / native route | Observation | Implication | Limit |
+|---|---|---|---|---|
+| M01EX-LD04 | Aqua/Kazuma; anonymous actual interlocutors as individually specified; V01-V22 | Artist title, vague patron naming, occupational status and care language vary by actual recipient. | Post-seal exact fragments; no voice window experiment or acoustic performance. | New bonus or explicitly identified paratext; actual retained principal image joins are audits, not new events. Original prefix/controls/scores remain exact. |

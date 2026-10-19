@@ -1638,3 +1638,12 @@ Whole supplied edition accepted at stated scopes; containing publication/full ga
 |---|---|---|---|---|
 | YORI04-WHOLE-DE01 | Exact contract boundaries and local counterevidence; 31principal+8party+4typed comparison register | K07candor, K08direct pressure, D08unsafe confidence, M07blame concealment and actual A01fitted work each have distinct eligibility. | Preserve all exact models/scores; feed accountable later StageD. | No redefined forecast, hidden goal, excluded full contrary or typed constraint counted as behavioral confirmation. |
 | YORI04-WHOLE-DE02 | Local reading closure and continuing source gates; whole-edition seal/component register/afterword | All26text2952P/26images before formal coding, five long stories2900P plus52Pnonfiction; no separate bonus. | Nineteenth supplemental acceptance remains publication-pending until exact full gate/reload. | Main17already accepted principals remain inherited, while excluded components await separate admission; no denominator percent. |
+
+
+## Main 01 excluded-component received observations — 2026-10-19T05:57:58.543749+00:00
+
+New21resources152P/29images actually read/viewed; accepted6principal members2878P retained withzero newprincipal reading credit. Containing publication/full gate pending. [Reading](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V01_EXCLUDED_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V01_EXCLUDED_LEDGER_APPEND_DECISIONS.json), [comparisons](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V01_EXCLUDED_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [qualifications](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V01_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) control uptake. Same informed root; selected17premises/22fragments are not a census, independent experiment or new blind scores. Frozen66/72/fourscores/14originalDustblanks exact.
+
+| ID | Subjects / native route | Observation | Implication | Limit |
+|---|---|---|---|---|
+| M01EX-LD10 | Aqua/Kazuma; anonymous actual interlocutors as individually specified; U023P11/28-29/46-53 | Baseball property damage and sacred door carving are attributed past actions; crowding arises from effective performance. | No unshown entry failure/ecological damage; professional refusal remains actual contrary to a simple all-praise account. | New bonus or explicitly identified paratext; actual retained principal image joins are audits, not new events. Original prefix/controls/scores remain exact. |

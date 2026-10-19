@@ -1671,3 +1671,12 @@ Whole supplied edition accepted at stated scopes; containing publication/full ga
 |---|---|---|---|---|
 | YORI04-WHOLE-HM01 | Literal causal reversals across all five stories; U012P112–123/269–281;U014P279–317;U016P522–573;U020P365–390 | Selected comic premises retain decisions, errors, refusals and harms rather than discard them as gags. | 82 selected whole premises, one title-pun L3, no population denominator. | H1classifies selected causal effect, not literal every exaggeration or embedded narrator proposition. |
 | YORI04-WHOLE-HM02 | Repeated phrases and misinformation alter audience meaning; U012P62/353/531;U014P476–478;U020P301–302/523 | Borrowed request changes speaker/plane; sincere no is misread and corrected; safety reassurance is directly contradicted. | Context and recipient knowledge control pragmatic function. | No frequency extrapolation, exact formula requirement or humor-to-competence shortcut. |
+
+
+## Main 01 excluded-component received observations — 2026-10-19T05:57:58.543749+00:00
+
+New21resources152P/29images actually read/viewed; accepted6principal members2878P retained withzero newprincipal reading credit. Containing publication/full gate pending. [Reading](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V01_EXCLUDED_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V01_EXCLUDED_LEDGER_APPEND_DECISIONS.json), [comparisons](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V01_EXCLUDED_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [qualifications](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V01_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) control uptake. Same informed root; selected17premises/22fragments are not a census, independent experiment or new blind scores. Frozen66/72/fourscores/14originalDustblanks exact.
+
+| ID | Subjects / native route | Observation | Implication | Limit |
+|---|---|---|---|---|
+| M01EX-LD03 | Aqua/Kazuma; anonymous actual interlocutors as individually specified; H01-H17/U023/images010-011/023 | Selected bonus effects and staged profile/promo scripts have separately identified planes. | Overlap and nested form prevent population/census or independent-trial claims. | New bonus or explicitly identified paratext; actual retained principal image joins are audits, not new events. Original prefix/controls/scores remain exact. |

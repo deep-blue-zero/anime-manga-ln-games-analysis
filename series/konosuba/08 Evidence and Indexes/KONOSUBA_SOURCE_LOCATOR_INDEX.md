@@ -1178,3 +1178,38 @@ Native10437818bytes/SHA256`22564990f051e81d7ac1e0e5a33b8a042c48292caad2624b5e8d8
 | YORI-04-U026 | item/navigation-documents.xhtml / 0 | OFF_SPINE_NAVIGATION |
 
 Main2900P/bonus0P/nonfiction52P/total2952P; full ruby/residual/image scopes before uncoded seal 2026-10-19T03:35:10.750313+00:00;82selected premises/76native-joined voices/31unchanged-contract local assessments/26ten-ledger appends. Supplemental19accepted/18already publishedof19; mixed5published; global percentage null. All26textresources2952Pslots/26images actually read/viewed. Five integral longstories2900P plus52Ptextnonfiction, no separate electronic bonus. Retold fairytale and mentioned adventurebook remain bounded embedded references, not fully read standalone books. Every wrapper/teaser/profile/jacket/cartoon/navigation/brand has individual disposition; tiny-cursive/design-name legibility limits explicitly retained.
+
+
+## MAIN-01 excluded-component accepted routes — 2026-10-19T05:57:58.543749+00:00
+
+[Register](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V01_EXCLUDED_COMPONENT_REGISTER.json), [reading](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V01_EXCLUDED_DEEP_READING.md), [voice](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V01_EXCLUDED_VOICE_REGISTER.md), [comparisons](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V01_EXCLUDED_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [qualifications](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V01_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) govern new/inherited boundaries. New21textual resources152P/29individually viewed images; one56Pbonus,96Pnonfiction/wrappers; six accepted principal members2878P retained exact/newprincipal credit0. Selected17premises/22voicefragments,31principal+8party informed comparisons/fourtypedconstraints,11appends across tenledgers,22qualifications. Supplemental19/mixed5fullgates closed. Main01excluded analysis accepted/publicationpending; other16mainexcluded programs remain unadmitted; globalcomponentpercentage null.
+
+| Unit | Native member / slots | Disposition |
+|---|---|---|
+| MAIN-01-U001 | item/xhtml/p-cover.xhtml / 1 | COVER_WRAPPER;newprincipalcredit0 |
+| MAIN-01-U002 | item/xhtml/p-fmatter-001.xhtml / 1 | REPEATED_COVER_WRAPPER;newprincipalcredit0 |
+| MAIN-01-U003 | item/xhtml/p-fmatter-002.xhtml / 1 | COLOR_CABBAGE_DIALOGUE_WRAPPER;newprincipalcredit0 |
+| MAIN-01-U004 | item/xhtml/p-fmatter-003.xhtml / 1 | COLOR_FROG_DIALOGUE_WRAPPER;newprincipalcredit0 |
+| MAIN-01-U005 | item/xhtml/p-fmatter-004.xhtml / 1 | COLOR_STEAL_DIALOGUE_WRAPPER;newprincipalcredit0 |
+| MAIN-01-U006 | item/xhtml/p-fmatter-005.xhtml / 1 | COLOR_BELDIA_DIALOGUE_WRAPPER;newprincipalcredit0 |
+| MAIN-01-U007 | item/xhtml/p-fmatter-006.xhtml / 1 | RASTER_TOC_WRAPPER;newprincipalcredit0 |
+| MAIN-01-U008 | item/xhtml/p-titlepage.xhtml / 5 | TITLE_IMPRINT;newprincipalcredit0 |
+| MAIN-01-U009 | item/xhtml/p-caution.xhtml / 6 | ELECTRONIC_LAYOUT_RIGHTS_NOTICE;newprincipalcredit0 |
+| MAIN-01-U010 | item/xhtml/p-toc-001.xhtml / 11 | TEXTUAL_TOC_INCLUDING_BONUS;newprincipalcredit0 |
+| MAIN-01-U011 | item/xhtml/p-001.xhtml / 1 | RASTER_PROFILE_SCRIPT_PAGE1_WRAPPER;newprincipalcredit0 |
+| MAIN-01-U012 | item/xhtml/p-002.xhtml / 1 | RASTER_PROFILE_SCRIPT_PAGE2_WRAPPER;newprincipalcredit0 |
+| MAIN-01-U013 | item/xhtml/p-003.xhtml / 161 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-01-U014 | item/xhtml/p-004.xhtml / 608 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-01-U015 | item/xhtml/p-005.xhtml / 613 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-01-U016 | item/xhtml/p-006.xhtml / 817 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-01-U017 | item/xhtml/p-007.xhtml / 601 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-01-U018 | item/xhtml/p-008.xhtml / 78 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-01-U019 | item/xhtml/p-009.xhtml / 34 | AUTHOR_AFTERWORD_NONFICTION;newprincipalcredit0 |
+| MAIN-01-U020 | item/xhtml/p-010.xhtml / 1 | ILLUSTRATOR_CODA_WRAPPER;newprincipalcredit0 |
+| MAIN-01-U021 | item/xhtml/p-011.xhtml / 1 | NEXT_PROMOTIONAL_SCRIPT_WRAPPER;newprincipalcredit0 |
+| MAIN-01-U022 | item/xhtml/p-012.xhtml / 5 | ELECTRONIC_BONUS_TITLE;newprincipalcredit0 |
+| MAIN-01-U023 | item/xhtml/p-013.xhtml / 56 | AQUA_SENSEI_COMPLETE_BONUS_FICTION;newprincipalcredit0 |
+| MAIN-01-U024 | item/xhtml/p-014.xhtml / 6 | STAFF_DESIGN_CREDITS;newprincipalcredit0 |
+| MAIN-01-U025 | item/xhtml/p-colophon.xhtml / 17 | SUPPLIED_EDITION_COLOPHON;newprincipalcredit0 |
+| MAIN-01-U026 | item/xhtml/p-bookwalker.xhtml / 1 | BOOKWALKER_BRAND_WRAPPER;newprincipalcredit0 |
+| MAIN-01-U027 | item/navigation-documents.xhtml / 0 | OFF_SPINE_NAVIGATION;newprincipalcredit0 |
