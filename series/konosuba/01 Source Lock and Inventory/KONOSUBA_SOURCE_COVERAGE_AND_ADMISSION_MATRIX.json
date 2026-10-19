@@ -3187,7 +3187,7 @@
       ],
       "analytical_completion": "NOT_ESTABLISHED_BY_METADATA_MATRIX",
       "expanded_stage_C": {
-        "status": "MAIN_EXCLUDED_COMPONENT_ANALYSIS_ACCEPTED_WITH_EXACT_RETAINED_PRINCIPAL_AUTHORITY_CONTAINING_PUBLICATION_PENDING",
+        "status": "MAIN_EXCLUDED_COMPONENT_ANALYSIS_ACCEPTED_PUBLISHED_FULL_GATE_CLOSED_WITH_EXACT_RETAINED_PRINCIPAL",
         "admission_utc": "2026-10-19T14:35:54.075115+00:00",
         "native_sha256": "8b1d8befe7dc2562a9d3eb57e6c455b1a114b98af52594404e647194fd2e1733",
         "native_admission_sha256": "0d8b36d7dffeecae9aa49f3674fa28f67c0beaa8c9e4095894e81e697352aec0",
@@ -3200,7 +3200,7 @@
         "native_images_to_inspect": 28,
         "new_text_or_image_reading_credit_at_admission": 0,
         "formal_outcomes_assigned": false,
-        "remaining": "Exact publication/all-tree and changed-stream readback, full source audit, housekeeping, final actual-source audit/status and fresh published-authority reload before MAIN11 excluded admission. Ordinarily reconcile then-current main before another push. Remaining main components, complete secondary census/earned monographs/models/profiles, expanded synthesis/versioned principal-party-transfer revisions, curator integration and release continue.",
+        "remaining": "Declared supplied-edition scope and exact publication sequence closed. Other source programs, syntheses, versioned models, secondary artifacts, curation and final release continue.",
         "prior_pre_admission_snapshot": {},
         "accepted_utc": "2026-10-19T15:14:05.907503+00:00",
         "actual_new_excluded_P_slots": 127,
@@ -3271,6 +3271,12 @@
           "formal_outcomes_assigned": false,
           "remaining": "Actual excluded-resource/ruby/residual/image reading, bespoke uncoded seal, individual analysis, qualified comparisons, ten-ledger dispositions, receiving and publication. Original principal acceptance retained.",
           "prior_pre_admission_snapshot": {}
+        },
+        "authorship_publication_state": "MAIN_EXCLUDED_COMPONENT_ANALYSIS_ACCEPTED_WITH_EXACT_RETAINED_PRINCIPAL_AUTHORITY_CONTAINING_PUBLICATION_PENDING",
+        "publication_gate": {
+          "source_commit": "64e350b3d074dc84decf180fc1a369b421de9c4e",
+          "closed_utc": "2026-10-19T15:39:38.616220+00:00",
+          "receipt": "09 Audits and Manifests/KONOSUBA_MAIN10EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json"
         }
       }
     },
@@ -3586,7 +3592,94 @@
       "analytical_artifacts": [
         "series/konosuba/02 Sequential Readings/KONOSUBA_V11_DEEP_READING.md",
         "series/konosuba/09 Audits and Manifests/KONOSUBA_V11_RECEIVING_REVIEW.md"
-      ]
+      ],
+      "expanded_stage_C": {
+        "status": "MAIN_EXCLUDED_COMPONENT_ANALYSIS_ACCEPTED_WITH_EXACT_RETAINED_PRINCIPAL_AUTHORITY_CONTAINING_PUBLICATION_PENDING",
+        "admission_utc": "2026-10-19T15:40:12.650076+00:00",
+        "native_sha256": "ffee8a32ec536bbacf7f72c3482a11230dc177c33740296c55238eeb62eeab46",
+        "native_admission_sha256": "50749a3fcd57bc2a0f1e97d6eebc6b4c537c613c3d02798a0caeceae207d08d2",
+        "preceding_full_gate_source": "64e350b3d074dc84decf180fc1a369b421de9c4e",
+        "preceding_fresh_reload_sha256": "50faadab00d33a110b7d45841ee9af77c0892f03f1e9e89f3dcb8bb516ef84f0",
+        "pre_body_context_seal_sha256": "27686de7c0f887287c21284bba385ec663c8feff5ea64d37b2704f9f3ed14c33",
+        "retained_accepted_principal_members": 7,
+        "new_principal_reading_credit": 0,
+        "new_excluded_text_resources": 18,
+        "native_images_to_inspect": 28,
+        "new_text_or_image_reading_credit_at_admission": 0,
+        "formal_outcomes_assigned": false,
+        "remaining": "Exact publication/all-tree and changed-stream readback, full source audit, completed housekeeping, final actual-source audit/status and fresh published-authority reload before MAIN12 excluded admission. Ordinarily reconcile then-current main before another push. Remaining main components, complete secondary census/earned monographs/models/profiles, expanded synthesis/versioned principal-party-transfer revisions, curator integration and release continue.",
+        "prior_pre_admission_snapshot": {},
+        "accepted_utc": "2026-10-19T16:06:43.392524+00:00",
+        "actual_new_excluded_P_slots": 130,
+        "all_native_images_actually_viewed": 28,
+        "retained_principal_P_slots": 2865,
+        "bonus_fiction": {
+          "id": "MAIN11-BONUS-DANGEROUS-SKILL",
+          "title": "そのスキル、危険につき",
+          "component_id": "MAIN-11-U021",
+          "native_member": "item/xhtml/p-012.xhtml",
+          "paragraph_slots": 53,
+          "narrator": "Kazuma first-person; active lip-reader and participant",
+          "authority": "Castle-banquet slice days after Iris return. Represented decoding mediates nobles/Darkness speech; Kazuma's earlier retaliation is a retrospective self-report. Aqua's own public misreadings and Kazuma's stop are represented choices, later gifts/complaint narrator-reported; private motives, exact gift senders and performed notification remain unshown."
+        },
+        "nonbonus_text_slots_P": 77,
+        "author_afterword_P_slots": 30,
+        "other_wrapper_credit_slots_P": 47,
+        "image_only_narrative_components": [],
+        "image_only_compositional_welcome": null,
+        "excluded_uncoded_seal_utc": "2026-10-19T15:44:20.005551+00:00",
+        "excluded_uncoded_seal_sha256": "62479e41acf4038815902ef62d512525d4fb51e2d44c7b949b917622f76e4e0d",
+        "formal_counts": [
+          20,
+          27,
+          31,
+          12,
+          38
+        ],
+        "party_comparisons": 8,
+        "typed_constraints_not_behavioral_scores": 4,
+        "Iris_SI_C01_no_opportunity_comparisons": 7,
+        "Yunyun_SY_C01_no_opportunity_comparisons": 7,
+        "original_SI_SY_null_fields_preserved": 28,
+        "historical_Yunyun_cohort_gate_preserved": {
+          "actual_source_commit": "906a29b4c986de8035b2511ed19dbf3e7c3e0676",
+          "canonical_gate_sha256": "02bf090e2f30b8f01abb66a7fd4de5c4ce8a8ca219e7b4e25d703392a831af43",
+          "historical_gate_not_current_intervening_cohort": true
+        },
+        "reading_path": "10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V11_EXCLUDED_DEEP_READING.md",
+        "component_register": "10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V11_EXCLUDED_COMPONENT_REGISTER.json",
+        "receiving_record": "10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V11_EXCLUDED_RECEIVING_AND_PROVENANCE.json",
+        "current_qualifications": "10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V11_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json",
+        "supplied_colophon_and_prior_bibliography": "Electronic issue2017-05-01; print-basis first issue2017-05-01; copyright2017. Edition statements agree. Bonus states several days after returning Iris amid castle celebrations, without a unique calendar day or an exact identity with the prologue's particular party.",
+        "preceding_main_component_gate": {
+          "source_id": "MAIN-10",
+          "actual_source_commit": "64e350b3d074dc84decf180fc1a369b421de9c4e",
+          "gate_sha256": "c8b3db043052e2f200a252afa305013ffc008b1d74b83fe9839bde793836c741",
+          "reload_sha256": "50faadab00d33a110b7d45841ee9af77c0892f03f1e9e89f3dcb8bb516ef84f0",
+          "schema": "KONOSUBA_MAIN10EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE_V1"
+        },
+        "historical_Iris_cohort_gate_preserved": {
+          "actual_source_commit": "bc9b67dc37212868b16e8b6eed1a39f07b258dd0",
+          "historical_gate_not_current_intervening_cohort": true
+        },
+        "initial_excluded_component_admission_snapshot": {
+          "status": "SEPARATELY_ADMITTED_MAIN_EXCLUDED_COMPONENT_SOURCE_FIRST_READING_ACTIVE_NOT_ACCEPTED",
+          "admission_utc": "2026-10-19T15:40:12.650076+00:00",
+          "native_sha256": "ffee8a32ec536bbacf7f72c3482a11230dc177c33740296c55238eeb62eeab46",
+          "native_admission_sha256": "50749a3fcd57bc2a0f1e97d6eebc6b4c537c613c3d02798a0caeceae207d08d2",
+          "preceding_full_gate_source": "64e350b3d074dc84decf180fc1a369b421de9c4e",
+          "preceding_fresh_reload_sha256": "50faadab00d33a110b7d45841ee9af77c0892f03f1e9e89f3dcb8bb516ef84f0",
+          "pre_body_context_seal_sha256": "27686de7c0f887287c21284bba385ec663c8feff5ea64d37b2704f9f3ed14c33",
+          "retained_accepted_principal_members": 7,
+          "new_principal_reading_credit": 0,
+          "new_excluded_text_resources": 18,
+          "native_images_to_inspect": 28,
+          "new_text_or_image_reading_credit_at_admission": 0,
+          "formal_outcomes_assigned": false,
+          "remaining": "Actual excluded-resource/ruby/residual/image reading, bespoke uncoded seal, individual analysis, qualified comparisons, ten-ledger dispositions, receiving and publication. Original principal acceptance retained.",
+          "prior_pre_admission_snapshot": {}
+        }
+      }
     },
     {
       "source_id": "MAIN-12",
@@ -14212,7 +14305,7 @@
       "admission": "PRINCIPAL_MAIN_PROSE_ADMITTED",
       "disposition": "NOT_ESTABLISHED_BY_METADATA_MATRIX",
       "expanded_stage_C": {
-        "status": "MAIN_EXCLUDED_COMPONENT_ANALYSIS_ACCEPTED_WITH_EXACT_RETAINED_PRINCIPAL_AUTHORITY_CONTAINING_PUBLICATION_PENDING",
+        "status": "MAIN_EXCLUDED_COMPONENT_ANALYSIS_ACCEPTED_PUBLISHED_FULL_GATE_CLOSED_WITH_EXACT_RETAINED_PRINCIPAL",
         "admission_utc": "2026-10-19T14:35:54.075115+00:00",
         "native_sha256": "8b1d8befe7dc2562a9d3eb57e6c455b1a114b98af52594404e647194fd2e1733",
         "native_admission_sha256": "0d8b36d7dffeecae9aa49f3674fa28f67c0beaa8c9e4095894e81e697352aec0",
@@ -14225,7 +14318,7 @@
         "native_images_to_inspect": 28,
         "new_text_or_image_reading_credit_at_admission": 0,
         "formal_outcomes_assigned": false,
-        "remaining": "Exact publication/all-tree and changed-stream readback, full source audit, housekeeping, final actual-source audit/status and fresh published-authority reload before MAIN11 excluded admission. Ordinarily reconcile then-current main before another push. Remaining main components, complete secondary census/earned monographs/models/profiles, expanded synthesis/versioned principal-party-transfer revisions, curator integration and release continue.",
+        "remaining": "Declared supplied-edition scope and exact publication sequence closed. Other source programs, syntheses, versioned models, secondary artifacts, curation and final release continue.",
         "prior_pre_admission_snapshot": {},
         "accepted_utc": "2026-10-19T15:14:05.907503+00:00",
         "actual_new_excluded_P_slots": 127,
@@ -14296,6 +14389,12 @@
           "formal_outcomes_assigned": false,
           "remaining": "Actual excluded-resource/ruby/residual/image reading, bespoke uncoded seal, individual analysis, qualified comparisons, ten-ledger dispositions, receiving and publication. Original principal acceptance retained.",
           "prior_pre_admission_snapshot": {}
+        },
+        "authorship_publication_state": "MAIN_EXCLUDED_COMPONENT_ANALYSIS_ACCEPTED_WITH_EXACT_RETAINED_PRINCIPAL_AUTHORITY_CONTAINING_PUBLICATION_PENDING",
+        "publication_gate": {
+          "source_commit": "64e350b3d074dc84decf180fc1a369b421de9c4e",
+          "closed_utc": "2026-10-19T15:39:38.616220+00:00",
+          "receipt": "09 Audits and Manifests/KONOSUBA_MAIN10EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json"
         }
       }
     },
@@ -14335,7 +14434,94 @@
           "disposition": "IDENTIFIED_NOT_READ",
           "authority": "Post-validation expanded-corpus only; no prospective derivation authority."
         }
-      ]
+      ],
+      "expanded_stage_C": {
+        "status": "MAIN_EXCLUDED_COMPONENT_ANALYSIS_ACCEPTED_WITH_EXACT_RETAINED_PRINCIPAL_AUTHORITY_CONTAINING_PUBLICATION_PENDING",
+        "admission_utc": "2026-10-19T15:40:12.650076+00:00",
+        "native_sha256": "ffee8a32ec536bbacf7f72c3482a11230dc177c33740296c55238eeb62eeab46",
+        "native_admission_sha256": "50749a3fcd57bc2a0f1e97d6eebc6b4c537c613c3d02798a0caeceae207d08d2",
+        "preceding_full_gate_source": "64e350b3d074dc84decf180fc1a369b421de9c4e",
+        "preceding_fresh_reload_sha256": "50faadab00d33a110b7d45841ee9af77c0892f03f1e9e89f3dcb8bb516ef84f0",
+        "pre_body_context_seal_sha256": "27686de7c0f887287c21284bba385ec663c8feff5ea64d37b2704f9f3ed14c33",
+        "retained_accepted_principal_members": 7,
+        "new_principal_reading_credit": 0,
+        "new_excluded_text_resources": 18,
+        "native_images_to_inspect": 28,
+        "new_text_or_image_reading_credit_at_admission": 0,
+        "formal_outcomes_assigned": false,
+        "remaining": "Exact publication/all-tree and changed-stream readback, full source audit, completed housekeeping, final actual-source audit/status and fresh published-authority reload before MAIN12 excluded admission. Ordinarily reconcile then-current main before another push. Remaining main components, complete secondary census/earned monographs/models/profiles, expanded synthesis/versioned principal-party-transfer revisions, curator integration and release continue.",
+        "prior_pre_admission_snapshot": {},
+        "accepted_utc": "2026-10-19T16:06:43.392524+00:00",
+        "actual_new_excluded_P_slots": 130,
+        "all_native_images_actually_viewed": 28,
+        "retained_principal_P_slots": 2865,
+        "bonus_fiction": {
+          "id": "MAIN11-BONUS-DANGEROUS-SKILL",
+          "title": "そのスキル、危険につき",
+          "component_id": "MAIN-11-U021",
+          "native_member": "item/xhtml/p-012.xhtml",
+          "paragraph_slots": 53,
+          "narrator": "Kazuma first-person; active lip-reader and participant",
+          "authority": "Castle-banquet slice days after Iris return. Represented decoding mediates nobles/Darkness speech; Kazuma's earlier retaliation is a retrospective self-report. Aqua's own public misreadings and Kazuma's stop are represented choices, later gifts/complaint narrator-reported; private motives, exact gift senders and performed notification remain unshown."
+        },
+        "nonbonus_text_slots_P": 77,
+        "author_afterword_P_slots": 30,
+        "other_wrapper_credit_slots_P": 47,
+        "image_only_narrative_components": [],
+        "image_only_compositional_welcome": null,
+        "excluded_uncoded_seal_utc": "2026-10-19T15:44:20.005551+00:00",
+        "excluded_uncoded_seal_sha256": "62479e41acf4038815902ef62d512525d4fb51e2d44c7b949b917622f76e4e0d",
+        "formal_counts": [
+          20,
+          27,
+          31,
+          12,
+          38
+        ],
+        "party_comparisons": 8,
+        "typed_constraints_not_behavioral_scores": 4,
+        "Iris_SI_C01_no_opportunity_comparisons": 7,
+        "Yunyun_SY_C01_no_opportunity_comparisons": 7,
+        "original_SI_SY_null_fields_preserved": 28,
+        "historical_Yunyun_cohort_gate_preserved": {
+          "actual_source_commit": "906a29b4c986de8035b2511ed19dbf3e7c3e0676",
+          "canonical_gate_sha256": "02bf090e2f30b8f01abb66a7fd4de5c4ce8a8ca219e7b4e25d703392a831af43",
+          "historical_gate_not_current_intervening_cohort": true
+        },
+        "reading_path": "10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V11_EXCLUDED_DEEP_READING.md",
+        "component_register": "10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V11_EXCLUDED_COMPONENT_REGISTER.json",
+        "receiving_record": "10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V11_EXCLUDED_RECEIVING_AND_PROVENANCE.json",
+        "current_qualifications": "10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V11_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json",
+        "supplied_colophon_and_prior_bibliography": "Electronic issue2017-05-01; print-basis first issue2017-05-01; copyright2017. Edition statements agree. Bonus states several days after returning Iris amid castle celebrations, without a unique calendar day or an exact identity with the prologue's particular party.",
+        "preceding_main_component_gate": {
+          "source_id": "MAIN-10",
+          "actual_source_commit": "64e350b3d074dc84decf180fc1a369b421de9c4e",
+          "gate_sha256": "c8b3db043052e2f200a252afa305013ffc008b1d74b83fe9839bde793836c741",
+          "reload_sha256": "50faadab00d33a110b7d45841ee9af77c0892f03f1e9e89f3dcb8bb516ef84f0",
+          "schema": "KONOSUBA_MAIN10EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE_V1"
+        },
+        "historical_Iris_cohort_gate_preserved": {
+          "actual_source_commit": "bc9b67dc37212868b16e8b6eed1a39f07b258dd0",
+          "historical_gate_not_current_intervening_cohort": true
+        },
+        "initial_excluded_component_admission_snapshot": {
+          "status": "SEPARATELY_ADMITTED_MAIN_EXCLUDED_COMPONENT_SOURCE_FIRST_READING_ACTIVE_NOT_ACCEPTED",
+          "admission_utc": "2026-10-19T15:40:12.650076+00:00",
+          "native_sha256": "ffee8a32ec536bbacf7f72c3482a11230dc177c33740296c55238eeb62eeab46",
+          "native_admission_sha256": "50749a3fcd57bc2a0f1e97d6eebc6b4c537c613c3d02798a0caeceae207d08d2",
+          "preceding_full_gate_source": "64e350b3d074dc84decf180fc1a369b421de9c4e",
+          "preceding_fresh_reload_sha256": "50faadab00d33a110b7d45841ee9af77c0892f03f1e9e89f3dcb8bb516ef84f0",
+          "pre_body_context_seal_sha256": "27686de7c0f887287c21284bba385ec663c8feff5ea64d37b2704f9f3ed14c33",
+          "retained_accepted_principal_members": 7,
+          "new_principal_reading_credit": 0,
+          "new_excluded_text_resources": 18,
+          "native_images_to_inspect": 28,
+          "new_text_or_image_reading_credit_at_admission": 0,
+          "formal_outcomes_assigned": false,
+          "remaining": "Actual excluded-resource/ruby/residual/image reading, bespoke uncoded seal, individual analysis, qualified comparisons, ten-ledger dispositions, receiving and publication. Original principal acceptance retained.",
+          "prior_pre_admission_snapshot": {}
+        }
+      }
     },
     {
       "source_id": "MAIN-12",
