@@ -1,0 +1,90 @@
+{
+  "schema": "KONOSUBA_VANIR_COHORT03_RECEIVING_AND_PROVENANCE_V1",
+  "accepted_utc": "2026-10-19T22:24:39.262109+00:00",
+  "status": "ROOT_SEMANTIC_RECEIVING_COMPLETE_CONTAINING_PUBLICATION_PENDING",
+  "source_boundary_commit": "49dbe1b11b22a4007c33c9d3bea16c7877006bc1",
+  "preceding_gate": "09 Audits and Manifests/KONOSUBA_MAIN17EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json",
+  "receiver": "Same continuing informed root; new monograph/model/index, exact native/report provenance, private drafts and all12firstoutputs/6fixedcontrasts actually received. No delegated reader, independent model/reviewer, human-native, acoustic or fresh blind source validation.",
+  "tier": "3 at this declared evidence boundary; predictive reliability provisional. Earlier Iris/Yunyun scopes remain exact; other tiers and full census remain open.",
+  "artifacts": [
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_VANIR_CHARACTER_MONOGRAPH.md",
+      "bytes": 21220,
+      "sha256": "8f73773b13db653e893685e149e1945af31dca9ad3cb77abe18dbd2c5e399123"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_VANIR_RECONSTRUCTION_MODEL.md",
+      "bytes": 25561,
+      "sha256": "081b6bef4df5584837d2a6fb565f746aa3d9c00a3c925c592596d2d3bb3186df"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_VANIR_EVIDENCE_INDEX.md",
+      "bytes": 9299,
+      "sha256": "5bb83153687db8932828b61abc2d1b34af4998cac454932934c7a1e7c02f21ec"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/VANIR_EXPANDED_V1_EVIDENCE/VANIR_HYPOTHETICAL_SCENARIO_CONTRACTS_01.json",
+      "bytes": 8267,
+      "sha256": "6177ee4a4cf82e6bd3d3f1676312b564e9d110e5b888414906a3af05261c3ab2"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/VANIR_EXPANDED_V1_EVIDENCE/VANIR_ACTUAL_HYPOTHETICAL_OUTPUTS_01.json",
+      "bytes": 7385,
+      "sha256": "848861631d3d970550e551628f1dcf77069b951842d5885b00eef7454a27c267"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/VANIR_EXPANDED_V1_EVIDENCE/VANIR_HYPOTHETICAL_CAUSAL_RECEIVING_01.json",
+      "bytes": 3861,
+      "sha256": "44a621a4fb950d6743e645774e197d1768c1b136d42e090de5b5c64031dd29fa"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/VANIR_EXPANDED_V1_EVIDENCE/VANIR_NATIVE_AND_DERIVATIVE_PROVENANCE_01.json",
+      "bytes": 50305,
+      "sha256": "8334f1781654e1548b9799d9bc74d19225bb6a3db53ae5c487064d1ad3aa9368"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/VANIR_EXPANDED_V1_EVIDENCE/VANIR_EXACT_DRAFT_LINEAGE_01.json",
+      "bytes": 74740,
+      "sha256": "30f66554fbcd47735a8a8decd051a8c3acfc2cecf3d3983c0f849e090447846d"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json",
+      "bytes": 310571,
+      "sha256": "9e0d8521be95b337c465bf2ee1301f123ae24211976b2efb6aa622874ccee9cb"
+    }
+  ],
+  "semantic_acceptance_basis": [
+    "Distinct historical monograph and operational model cover goals, states, information, resources, appraisals, rewards, skill, judgment, errors, affect, relation-specific conduct, ordinary life, voice, canonical and transfer modes.",
+    "Eight rules each have exact source routes, rivals, predicates/exclusions, confidence and falsifiable expectations. No universal foresight, profit-only or unconditional-company model.",
+    "Actual harmful possession, imposed labor, presumptive dealing and deliberate humiliation remain alongside useful protection and chosen company. Actor claims do not establish recipient assent.",
+    "Native MAIN07 interlude complete162P separates actual coercive collection from future transport/treatment/restitution; C5bounded165P separates earlier packing, later sale and finite financing.",
+    "Seven complete MASK BASE-TEXT member unions2862P are exactly verified; 327MAIN07P added only within declared nine-member core scope. Not a new whole-EPUB/ruby/image pass or independent event denominator.",
+    "Twelve exactsame-authorhypothetical outputs/sixcontrasts preserve uncertain thresholds and adverse pressure; model02clarifies narrator/actor planes. All rule confidence states unchanged; no score or empirical reliability gain.",
+    "Public150-rowqualifiedworkingcensus adds5source-backedsubjects and updates13priorrows;132untouched priorrows exact. Working groups/provisionalidentities remain; globalindividualdenominator/percentage null."
+  ],
+  "hypothetical_exercise": {
+    "outputs": 12,
+    "pairs": 6,
+    "source_or_independent_validation_credit": 0,
+    "score": null,
+    "confidence_increase": false
+  },
+  "source_credit": {
+    "new_whole_source_passes": 0,
+    "MASK_BASE_TEXT_unique_P_in_core_union": 2862,
+    "MAIN07_BASE_TEXT_unique_P_in_core_receipt": 327,
+    "complete_MASK_members": 7,
+    "complete_MAIN07_members": 1,
+    "bounded_MAIN07_members": 1,
+    "independent_observation_denominator": null
+  },
+  "preservation": "66current/72historical/fouracceptedscorefiles/Dust14originalblankfields/eightenteringmodels/SIandSY28originalnullfields/80unrelatedscratchfiles unchanged; no old forecast retargeting or final-main model rewrite.",
+  "not_completed": [
+    "Exact Vanir candidate publication gate",
+    "Remaining individual census/joins/incidental dispositions and earned artifacts",
+    "Expanded specialist/principal/party/transfer synthesis and versioned revisions",
+    "Curator-owned global registry/index enrollment and integration",
+    "Component/release/final-entry audits and full program completion"
+  ],
+  "publication_gate": "Pending exact stage/authorpreflight/freshheads-owner-rules/normalpush/fullreadback/sourceaudit/housekeeping/finalactualsource-status/freshauthorityreload."
+}

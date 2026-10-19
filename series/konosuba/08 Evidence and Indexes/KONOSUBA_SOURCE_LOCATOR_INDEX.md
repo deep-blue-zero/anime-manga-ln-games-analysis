@@ -1792,3 +1792,8 @@ The [Yunyun index](KONOSUBA_YUNYUN_EVIDENCE_INDEX.md) routes18families with four
 | MAIN-17-U018 | text/part0016.html / 18 | COLOPHON_IMPRINT_SUPPORT;newprincipalcredit0 |
 | MAIN-17-U019 | text/part0017.html / 3 | RIGHTS_TRANSFER_SOURCE_DATE_NOTICE;newprincipalcredit0 |
 | MAIN-17-U020 | text/part0018.html / 0 | BOOKWALKER_RETAILER_WRAPPER;newprincipalcredit0 |
+
+
+## Vanir cohort03 evidence routes
+
+The [Vanir index](KONOSUBA_VANIR_EVIDENCE_INDEX.md) separates core native routes, inherited/derivative boundaries and hypothetical exercises. SevencompleteMASKBASE-TEXT members2862P plus327MAIN07P/twomembers are nine declared member scopes, not independent observations or a fresh source pass. [Receiving](../09%20Audits%20and%20Manifests/KONOSUBA_VANIR_COHORT_01_RECEIVING_AND_PROVENANCE.json) binds new prose, exactdraftlineage,12actualfirstoutputs/sixfixedcontrasts and full source-safe provenance. The [incremental census](KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json) preserves150qualifiedrows with open identity/group/tier responsibilities and globalnulls. No curator-owned global registry or generated index is authored here.
