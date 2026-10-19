@@ -201,3 +201,12 @@ New21resources152P/29images actually read/viewed; accepted6principal members2878
 | ID | Subjects / native route | Observation | Implication | Limit |
 |---|---|---|---|---|
 | M01EX-LD11 | Aqua/Kazuma; anonymous actual interlocutors as individually specified; ASrecords/U023/currentQ | One narrow A01 step and a qualified E03 care continuation are retained with all partial/NT branches. | No changed R1/old scores, no new blind validation, no hidden confirmation from paratext. | New bonus or explicitly identified paratext; actual retained principal image joins are audits, not new events. Original prefix/controls/scores remain exact. |
+
+
+## Main 02 excluded-component received observations — 2026-10-19T06:58:55.601202+00:00
+
+New21resources171P/30images actually read/viewed; accepted7principal members2915P retained withzero newprincipal reading credit. Containing publication/full gate pending. [Reading](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V02_EXCLUDED_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V02_EXCLUDED_LEDGER_APPEND_DECISIONS.json), [comparisons](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V02_EXCLUDED_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [qualifications](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V02_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) control uptake. Same informed root; selected11premises/24fragments are not a census, independent experiment or new blind scores. Frozen66/72/fourscores/14originalDustblanks exact.
+
+| ID | Subjects / native route | Observation | Implication | Limit |
+|---|---|---|---|---|
+| M02EX-LD11 | Kazuma/Megumin/Darkness/Aqua/Chris, with actual actors and evidence planes individually fixed; ASrecords/currentQ | Narrow K01 informed option-use and D06 ordinary practical attempt are supported; K07's candid first disclosure and all qualified/NT branches remain visible. | No copied outcomes, new blind score, retargeted historical secondary forecast or reopened accepted principal trial. | New bonus and declared paratext; retained-principal joins are audits of existing events, not new independent tests. Original ledger prefixes, controls and scores stay exact. |

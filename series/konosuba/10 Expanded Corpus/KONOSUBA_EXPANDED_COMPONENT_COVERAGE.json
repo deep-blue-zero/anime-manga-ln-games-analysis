@@ -1,7 +1,7 @@
 {
   "schema": "KONOSUBA_STAGE_C_COMPONENT_COVERAGE_V1",
   "status": "ACTIVE_NOT_COMPLETE",
-  "updated_utc": "2026-10-19T05:59:52.607980+00:00",
+  "updated_utc": "2026-10-19T07:00:11.798491+00:00",
   "fixed41_identity_seal": "fe59ede667ed3532f9cd0e62fdd650655d029c191fd3bd95df84ab404f2f56c5",
   "coverage_denominator_state": "FULL_ADMITTED_NARRATIVE_COMPONENT_DENOMINATOR_NOT_YET_RESOLVED",
   "expanded_narrative_completion_percentage": null,
@@ -57,9 +57,9 @@
       "source_id": "MAIN-01",
       "native_sha256": "7a80b4f6c6761176927539a6274892f187f1171e773a3295225a8ab5389747c6",
       "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
-      "stage_C_status": "MAIN_EXCLUDED_COMPONENT_ANALYSIS_ACCEPTED_WITH_EXACT_RETAINED_PRINCIPAL_AUTHORITY_CONTAINING_PUBLICATION_PENDING",
+      "stage_C_status": "MAIN_EXCLUDED_COMPONENT_ANALYSIS_ACCEPTED_PUBLISHED_FULL_GATE_CLOSED_WITH_EXACT_RETAINED_PRINCIPAL",
       "principal": "Accepted/frozen main-only narrative; this is not whole-EPUB component coverage",
-      "remaining": "Exact publication/readback/source/HK/finalsource audit/status/freshreload before Main02excluded admission. Before nextpush ordinarily merge then-current main and rerun affected checks. Full17mainexcluded/syntheses/versionedmodels/secondaryaudit/curation/release continue.",
+      "remaining": "Source scopes and full gate closed; other16mainexcluded programs, expanded/full syntheses/StageD/secondary/curation/finalrelease continue.",
       "excluded_component_program": {
         "status": "MAIN_EXCLUDED_COMPONENT_ANALYSIS_ACCEPTED_WITH_EXACT_RETAINED_PRINCIPAL_AUTHORITY_CONTAINING_PUBLICATION_PENDING",
         "accepted_utc": "2026-10-19T05:57:58.543749+00:00",
@@ -140,15 +140,102 @@
       },
       "reading": "10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V01_EXCLUDED_DEEP_READING.md",
       "register": "10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V01_EXCLUDED_COMPONENT_REGISTER.json",
-      "receiving": "10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V01_EXCLUDED_RECEIVING_AND_PROVENANCE.json"
+      "receiving": "10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V01_EXCLUDED_RECEIVING_AND_PROVENANCE.json",
+      "authorship_publication_state": "MAIN_EXCLUDED_COMPONENT_ANALYSIS_ACCEPTED_WITH_EXACT_RETAINED_PRINCIPAL_AUTHORITY_CONTAINING_PUBLICATION_PENDING",
+      "publication_gate": {
+        "source_commit": "56857658929112f685397277cf8be187a9683ab8",
+        "closed_utc": "2026-10-19T06:36:36.745853+00:00",
+        "receipt": "09 Audits and Manifests/KONOSUBA_MAIN01EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json"
+      }
     },
     {
       "source_id": "MAIN-02",
       "native_sha256": "44246be88b99d34f4f9835796274d8fada2ce24cb1e8df735a55d7185a3f8b15",
       "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
-      "stage_C_status": "EXCLUDED_EDITION_COMPONENT_ANALYSIS_PENDING",
+      "stage_C_status": "MAIN_EXCLUDED_COMPONENT_ANALYSIS_ACCEPTED_WITH_EXACT_RETAINED_PRINCIPAL_AUTHORITY_CONTAINING_PUBLICATION_PENDING",
       "principal": "Accepted/frozen main-only narrative; this is not whole-EPUB component coverage",
-      "remaining": "Audit and individually disposition bonus/afterword/illustrated and other excluded components"
+      "remaining": "Exact publication/readback/source/HK/finalsource audit/status/freshreload before Main03excluded admission. Before nextpush ordinarily merge then-current main and rerun affected checks. Fullremaining mainexcluded/syntheses/versionedmodels/secondaryaudit/curation/release continue.",
+      "excluded_component_program": {
+        "status": "MAIN_EXCLUDED_COMPONENT_ANALYSIS_ACCEPTED_WITH_EXACT_RETAINED_PRINCIPAL_AUTHORITY_CONTAINING_PUBLICATION_PENDING",
+        "accepted_utc": "2026-10-19T06:58:55.601202+00:00",
+        "new_excluded_text_resources": 21,
+        "actual_new_excluded_P_slots": 171,
+        "all_native_images_actually_viewed": 30,
+        "retained_accepted_principal_members": 7,
+        "retained_principal_P_slots": 2915,
+        "new_principal_reading_credit": 0,
+        "bonus_fiction": {
+          "component": "MAIN-02-U024",
+          "P": [
+            1,
+            63
+          ],
+          "title": "紅魔族は知能が高い",
+          "chronology": "Established mansion/Chris-Darkness friendship; exact chapter placement unresolved"
+        },
+        "nonfiction_P_slots": 108,
+        "excluded_uncoded_seal_utc": "2026-10-19T06:41:38.381842+00:00",
+        "excluded_uncoded_seal_sha256": "b7ae2f020aca0d4bc805723a85e783d4ab4b22adbdc337ae2c4b4a0ca2a6cc9d",
+        "formal_counts": [
+          11,
+          24,
+          31,
+          11,
+          25
+        ],
+        "party_comparisons": 8,
+        "typed_constraints_not_behavioral_scores": 4,
+        "reading_path": "10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V02_EXCLUDED_DEEP_READING.md",
+        "component_register": "10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V02_EXCLUDED_COMPONENT_REGISTER.json",
+        "receiving_record": "10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V02_EXCLUDED_RECEIVING_AND_PROVENANCE.json",
+        "current_qualifications": "10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V02_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json",
+        "supplied_colophon_and_prior_bibliography": "Supplied electronic colophon and print-basis firstedition both2013-12-01;copyright2013Akatsuki/Mishima;KADOKAWA and staff credits retained. This file's date does not erase any different external release record.",
+        "remaining": "Exact publication/readback/source/HK/finalsource audit/status/freshreload before Main03excluded admission. Before nextpush ordinarily merge then-current main and rerun affected checks. Fullremaining mainexcluded/syntheses/versionedmodels/secondaryaudit/curation/release continue."
+      },
+      "prior_excluded_component_state": {
+        "source_id": "MAIN-02",
+        "native_sha256": "44246be88b99d34f4f9835796274d8fada2ce24cb1e8df735a55d7185a3f8b15",
+        "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+        "stage_C_status": "EXCLUDED_EDITION_COMPONENT_ANALYSIS_PENDING",
+        "principal": "Accepted/frozen main-only narrative; this is not whole-EPUB component coverage",
+        "remaining": "Audit and individually disposition bonus/afterword/illustrated and other excluded components"
+      },
+      "accepted_utc": "2026-10-19T06:58:55.601202+00:00",
+      "initial_excluded_component_admission_snapshot": {
+        "source_id": "MAIN-02",
+        "native_sha256": "44246be88b99d34f4f9835796274d8fada2ce24cb1e8df735a55d7185a3f8b15",
+        "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+        "stage_C_status": "SEPARATELY_ADMITTED_MAIN_EXCLUDED_COMPONENT_SOURCE_FIRST_READING_ACTIVE_NOT_ACCEPTED",
+        "principal": "Accepted/frozen main-only narrative; this is not whole-EPUB component coverage",
+        "remaining": "Actual excluded-resource/ruby/residual/image reading, bespoke uncoded seal, individual analysis, qualified comparisons, ten-ledger dispositions, receiving and publication. Original principal acceptance retained.",
+        "excluded_component_program": {
+          "status": "SEPARATELY_ADMITTED_MAIN_EXCLUDED_COMPONENT_SOURCE_FIRST_READING_ACTIVE_NOT_ACCEPTED",
+          "admission_utc": "2026-10-19T06:37:07.050309+00:00",
+          "native_sha256": "44246be88b99d34f4f9835796274d8fada2ce24cb1e8df735a55d7185a3f8b15",
+          "native_admission_sha256": "3582573048b3278cc9276c7796ab56ca19320dc9108dd0c87b90e5e889207b2d",
+          "preceding_full_gate_source": "56857658929112f685397277cf8be187a9683ab8",
+          "preceding_fresh_reload_sha256": "157aa11c59bedde4f9fd70e0cef24b2772bd1c52b205cab8ee1e3b6fd5801ae6",
+          "pre_body_context_seal_sha256": "cba5e9d7c4c72545afcec99c222c325c75264240ad85b70a0199e5fca0cc8b29",
+          "retained_accepted_principal_members": 7,
+          "new_principal_reading_credit": 0,
+          "new_excluded_text_resources": 21,
+          "native_images_to_inspect": 30,
+          "new_text_or_image_reading_credit_at_admission": 0,
+          "formal_outcomes_assigned": false,
+          "remaining": "Actual excluded-resource/ruby/residual/image reading, bespoke uncoded seal, individual analysis, qualified comparisons, ten-ledger dispositions, receiving and publication. Original principal acceptance retained."
+        },
+        "prior_excluded_component_state": {
+          "source_id": "MAIN-02",
+          "native_sha256": "44246be88b99d34f4f9835796274d8fada2ce24cb1e8df735a55d7185a3f8b15",
+          "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+          "stage_C_status": "EXCLUDED_EDITION_COMPONENT_ANALYSIS_PENDING",
+          "principal": "Accepted/frozen main-only narrative; this is not whole-EPUB component coverage",
+          "remaining": "Audit and individually disposition bonus/afterword/illustrated and other excluded components"
+        }
+      },
+      "reading": "10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V02_EXCLUDED_DEEP_READING.md",
+      "register": "10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V02_EXCLUDED_COMPONENT_REGISTER.json",
+      "receiving": "10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V02_EXCLUDED_RECEIVING_AND_PROVENANCE.json"
     },
     {
       "source_id": "MAIN-03",
@@ -1106,11 +1193,12 @@
   "main_excluded_component_program_accounting_only": {
     "total_programs": 17,
     "analytically_accepted_containing_publication_pending": [
+      "MAIN-02"
+    ],
+    "published_full_gate_closed": [
       "MAIN-01"
     ],
-    "published_full_gate_closed": [],
     "unadmitted_remaining": [
-      "MAIN-02",
       "MAIN-03",
       "MAIN-04",
       "MAIN-05",
@@ -1128,6 +1216,10 @@
       "MAIN-17"
     ],
     "accepted_principal_bodies_retained_not_reread": true,
-    "not_a_narrative_component_denominator": true
+    "not_a_narrative_component_denominator": true,
+    "analytically_accepted_including_published": [
+      "MAIN-01",
+      "MAIN-02"
+    ]
   }
 }

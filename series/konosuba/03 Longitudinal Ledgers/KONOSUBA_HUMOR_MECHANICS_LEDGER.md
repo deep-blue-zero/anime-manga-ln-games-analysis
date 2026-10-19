@@ -1680,3 +1680,12 @@ New21resources152P/29images actually read/viewed; accepted6principal members2878
 | ID | Subjects / native route | Observation | Implication | Limit |
 |---|---|---|---|---|
 | M01EX-LD03 | Aqua/Kazuma; anonymous actual interlocutors as individually specified; H01-H17/U023/images010-011/023 | Selected bonus effects and staged profile/promo scripts have separately identified planes. | Overlap and nested form prevent population/census or independent-trial claims. | New bonus or explicitly identified paratext; actual retained principal image joins are audits, not new events. Original prefix/controls/scores remain exact. |
+
+
+## Main 02 excluded-component received observations — 2026-10-19T06:58:55.601202+00:00
+
+New21resources171P/30images actually read/viewed; accepted7principal members2915P retained withzero newprincipal reading credit. Containing publication/full gate pending. [Reading](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V02_EXCLUDED_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V02_EXCLUDED_LEDGER_APPEND_DECISIONS.json), [comparisons](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V02_EXCLUDED_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [qualifications](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V02_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) control uptake. Same informed root; selected11premises/24fragments are not a census, independent experiment or new blind scores. Frozen66/72/fourscores/14originalDustblanks exact.
+
+| ID | Subjects / native route | Observation | Implication | Limit |
+|---|---|---|---|---|
+| M02EX-LD03 | Kazuma/Megumin/Darkness/Aqua/Chris, with actual actors and evidence planes individually fixed; H01-H11 | Ordinary-game defeat, information reversal and second-knock competition use distinct premises; profiles, coda and preview have declared frames. | Overlapping windows do not create independent trials; profile ellipses are not mainline silence/confession. | New bonus and declared paratext; retained-principal joins are audits of existing events, not new independent tests. Original ledger prefixes, controls and scores stay exact. |

@@ -1647,3 +1647,12 @@ New21resources152P/29images actually read/viewed; accepted6principal members2878
 | ID | Subjects / native route | Observation | Implication | Limit |
 |---|---|---|---|---|
 | M01EX-LD10 | Aqua/Kazuma; anonymous actual interlocutors as individually specified; U023P11/28-29/46-53 | Baseball property damage and sacred door carving are attributed past actions; crowding arises from effective performance. | No unshown entry failure/ecological damage; professional refusal remains actual contrary to a simple all-praise account. | New bonus or explicitly identified paratext; actual retained principal image joins are audits, not new events. Original prefix/controls/scores remain exact. |
+
+
+## Main 02 excluded-component received observations — 2026-10-19T06:58:55.601202+00:00
+
+New21resources171P/30images actually read/viewed; accepted7principal members2915P retained withzero newprincipal reading credit. Containing publication/full gate pending. [Reading](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V02_EXCLUDED_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V02_EXCLUDED_LEDGER_APPEND_DECISIONS.json), [comparisons](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V02_EXCLUDED_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [qualifications](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V02_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) control uptake. Same informed root; selected11premises/24fragments are not a census, independent experiment or new blind scores. Frozen66/72/fourscores/14originalDustblanks exact.
+
+| ID | Subjects / native route | Observation | Implication | Limit |
+|---|---|---|---|---|
+| M02EX-LD10 | Kazuma/Megumin/Darkness/Aqua/Chris, with actual actors and evidence planes individually fixed; U024P34-63 | M's first occupational prediction lacks K's private invitation; both then prefer male, but the second visitor is never shown. | One falsified prediction and one unresolved prediction, not two errors or a general inability to reason. | New bonus and declared paratext; retained-principal joins are audits of existing events, not new independent tests. Original ledger prefixes, controls and scores stay exact. |

@@ -1637,3 +1637,63 @@ All17 main excluded-component programs remain, with accepted principal bodies re
 New21textual resources152P/29individually viewed images; one56Pbonus,96Pnonfiction/wrappers; six accepted principal members2878P retained exact/newprincipal credit0. Selected17premises/22voicefragments,31principal+8party informed comparisons/fourtypedconstraints,11appends across tenledgers,22qualifications. Supplemental19/mixed5fullgates closed. Main01excluded analysis accepted/publicationpending; other16mainexcluded programs remain unadmitted; globalcomponentpercentage null.
 
 Exact publication/readback/source/HK/finalsource audit/status/freshreload before Main02excluded admission. Before nextpush ordinarily merge then-current main and rerun affected checks. Full17mainexcluded/syntheses/versionedmodels/secondaryaudit/curation/release continue.
+
+
+## Main01 excluded-component full gate and reload — 2026-10-19T06:37:02.995940+00:00
+
+Prior current operation preserved verbatim:
+
+````markdown
+**Main 01 excluded-component analysis is accepted; exact publication verification is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V01_EXCLUDED_DEEP_READING.md), [register](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V01_EXCLUDED_COMPONENT_REGISTER.json), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V01_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V01_EXCLUDED_RECEIVING_AND_PROVENANCE.json) distinguish new21resources152P/29images from six retained accepted principal members2878P, withzero newprincipal reading credit. Selected17comic premises/22written fragments and31principal+8party informed comparisons retain all partial/untested branches; fourtypedconstraints are not behavioral scores. Supplemental19/mixed5gates are closed. Main02excluded admission follows this full gate/fresh reload. The other16mainexcluded programs, syntheses, versioned models, secondary-character artifacts, curation and finalrelease continue; globalnarrative percentage remains unresolved.
+````
+
+Prior source-accounting row and statement preserved verbatim:
+
+| Main series | 17 | Principal narratives/checkpoints retained; Main01 excluded-component analysis accepted with publication gate pending; other16 excluded-component programs require separate admission and dispositions |
+
+Main01 excluded-component analysis is accepted with its publication gate pending; the other16 programs remain, with accepted principal bodies retained and zero new principal reading credit.
+
+**Main01 excluded-component full publication gate is closed; the next operation is separate Main02 excluded-component admission.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V01_EXCLUDED_DEEP_READING.md), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V01_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_MAIN01EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. New21textresources152P/29images actually read/viewed; six accepted principal members2878P retained exact/newprincipal reading credit0. Supplemental19/mixed5 gates closed;1of17mainexcluded programs fullgateclosed/16remain; narrativecomponent percentage null. Main02 previously excluded resources remain unadmitted; its accepted principal bodies retain exact original authority withzero newprincipal reading credit. All remaining source/synthesis/versionedmodel/secondary/curation/release work continues.
+
+
+Exact source56857658929112f685397277cf8be187a9683ab8/tree36d9b9bec731c0715de4e96f575ff5376a8eaf42; all8809remote paths/17changedstreams equal reviewed candidate. Source39209629312/job117919908813 and final39210236998/job117921763663 each352fulltests/zeroallfive non-success/selectionfalse; housekeeping39210190180/job117921618468NO_OP/exact finalsource dispatch. Final status targets the actualsource. Fresh646project/66current/fourscores/14blankreload2026-10-19T06:36:44.682036+00:00.
+
+
+## MAIN02EXCLUDED admission transition — 2026-10-19T06:37:10.821581+00:00
+
+Prior current operation retained verbatim:
+
+````markdown
+**Main01 excluded-component full publication gate is closed; the next operation is separate Main02 excluded-component admission.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V01_EXCLUDED_DEEP_READING.md), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V01_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_MAIN01EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. New21textresources152P/29images actually read/viewed; six accepted principal members2878P retained exact/newprincipal reading credit0. Supplemental19/mixed5 gates closed;1of17mainexcluded programs fullgateclosed/16remain; narrativecomponent percentage null. Main02 previously excluded resources remain unadmitted; its accepted principal bodies retain exact original authority withzero newprincipal reading credit. All remaining source/synthesis/versionedmodel/secondary/curation/release work continues.
+````
+
+**Main 02 excluded-component source-first reading is active and not yet accepted.** MAIN-02 exact local supplied edition 6872479bytes/SHA256 44246be88b99d34f4f9835796274d8fada2ce24cb1e8df735a55d7185a3f8b15, admitted after preceding full gate/fresh reload. Retain 7 accepted principal members by native hash/paragraph joins with zero new principal reading credit. 21 excluded text resources and 30 images require actual inspection. New reading/viewing credit is zero at this admission snapshot. Bespoke uncoded seal precedes formal outcomes; supplemental19/mixed5 gates stay closed and full41/secondary work continues.
+
+
+## Main02 excluded-component acceptance transition — 2026-10-19T07:00:11.798491+00:00
+
+Prior current-operation paragraph preserved verbatim:
+
+````markdown
+**Main 02 excluded-component source-first reading is active and not yet accepted.** MAIN-02 exact local supplied edition 6872479bytes/SHA256 44246be88b99d34f4f9835796274d8fada2ce24cb1e8df735a55d7185a3f8b15, admitted after preceding full gate/fresh reload. Retain 7 accepted principal members by native hash/paragraph joins with zero new principal reading credit. 21 excluded text resources and 30 images require actual inspection. New reading/viewing credit is zero at this admission snapshot. Bespoke uncoded seal precedes formal outcomes; supplemental19/mixed5 gates stay closed and full41/secondary work continues.
+````
+
+Prior source-group table and component statement preserved verbatim:
+
+| Source group | Fixed objects | Current analytical scope and remaining work |
+|---|---:|---|
+| Main series | 17 | Principal narratives/checkpoints retained; Main01 excluded-component full gate closed; other16 excluded-component programs require separate admission and dispositions |
+| Dust | 8 | All seven numbered volumes and the separately titled unnumbered continuation have closed whole-supplied-edition gates; original principal holdout histories remain separate |
+| Explosions / Continued Explosions | 5 | All three plus two whole-supplied-edition gates closed; chronology, viewpoint and individual component limits retained |
+| Masked Devil / Fantastic Days | 2 | Both whole-supplied-edition gates closed; Mask's original principal holdout and Fantastic Days' selective game-adaptation scope remain distinct |
+| Yorimichi | 4 | All four collections have closed whole-supplied-edition gates at their declared component scopes; collection01's original principal holdout remains separately preserved |
+| Cheers / Blessing / Memorial Fanbook / TRPG Core / Advanced | 5 | All five programs have closed gates at declared supplied-component/page scopes, with dense-page and unequal-source-plane limits retained |
+
+One of17main excluded-component programs has a closed full gate; the other16remain, with accepted principal bodies retained and zero new principal reading credit.
+
+**Main 02 excluded-component analysis is accepted; exact publication verification is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V02_EXCLUDED_DEEP_READING.md), [register](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V02_EXCLUDED_COMPONENT_REGISTER.json), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V02_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V02_EXCLUDED_RECEIVING_AND_PROVENANCE.json) distinguish new21resources171P/30images from seven retained accepted principal members2915P, withzero newprincipal reading credit. Selected11comic premises/24written fragments and31principal+8party informed comparisons retain all partial/untested branches; fourtypedconstraints are not behavioral scores. Supplemental19/mixed5gates are closed. Main03excluded admission follows this full gate/fresh reload. The other15mainexcluded programs, syntheses, versioned models, secondary-character artifacts, curation and finalrelease continue; globalnarrative percentage remains unresolved.
+
+
+New21textual resources171P/30individually viewed images; one63Pbonus,108Pafterword/wrapper slots; seven accepted principal members2915P retained exact/newprincipal credit0. Selected11premises/24voicefragments,31principal+8party informed comparisons/fourtypedconstraints,11appends across tenledgers,25qualifications. Supplemental19/mixed5fullgates closed. Main01excluded full gate remains closed; Main02excluded analysis accepted/publicationpending; other15mainexcluded programs remain unadmitted; globalcomponentpercentage null.
+
+Exact publication/readback/source/HK/finalsource audit/status/freshreload before Main03excluded admission. Before nextpush ordinarily merge then-current main and rerun affected checks. Fullremaining mainexcluded/syntheses/versionedmodels/secondaryaudit/curation/release continue.

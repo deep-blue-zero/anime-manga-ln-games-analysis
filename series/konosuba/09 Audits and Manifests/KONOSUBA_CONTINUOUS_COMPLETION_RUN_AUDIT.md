@@ -4,7 +4,7 @@ artifact_type: execution_and_source_reconciliation_audit
 scope: V11-V17 continuation and the fixed 41-object expanded-source program
 generation: V1
 status: active_provisional
-source_boundary: MAIN01EXCLUDED accepted/new21resources152P/29images; retainedprincipalcredit0; containingfullgatepending; other16mainexcluded programs remain; full41continues
+source_boundary: MAIN02EXCLUDED accepted/new21resources171P/30images; retainedprincipalcredit0; containingfullgatepending; other15mainexcluded programs remain; full41continues
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -21,8 +21,8 @@ The owner's 2026-10-16 request executes `KONOSUBA_CONTINUATION_AND_FULL_CORPUS_C
 | Execution mode | `continuous_sequential` |
 | Main-series authorized range | V11–V17 |
 | Accepted high-water mark | V17 principal and final Gen05 checkpoint; CP06/evidence freeze published and fully audited at a1539842 |
-| Current phase | Owner-resumed Stage C; MAIN01EXCLUDED accepted at new/inherited scopes; exact publication gate pending |
-| Next canonical operation | MAIN01EXCLUDED_PUBLICATION_GATE; no MAIN02excluded admission before exact full gate/fresh published-authority reload |
+| Current phase | Owner-resumed Stage C; MAIN02EXCLUDED accepted at new/inherited scopes; exact publication gate pending |
+| Next canonical operation | MAIN02EXCLUDED_PUBLICATION_GATE; no MAIN03excluded admission before exact full gate/fresh published-authority reload |
 | Current prospective model | Gen05 frozen through V15, original 25 blank pairs exact; formal V16–V17 8C/6P/1F/3AMB/7NT separate from accepted locals; no Gen06 |
 | Initial published continuing-branch head at reconnaissance | `0238f356ee2ade28e39aa3a940ea0e091f8211f4` |
 | Initial main at reconciliation | `53de8ba455938174a3f14f887cd33739261a4e5f` |
@@ -1115,3 +1115,18 @@ MAIN-01 exact local supplied edition 7058492bytes/SHA256 7a80b4f6c6761176927539a
 ## Main01 excluded-component analytical acceptance — 2026-10-19T05:57:58.543749+00:00
 
 New21textual resources152P/29individually viewed images; one56Pbonus,96Pnonfiction/wrappers; six accepted principal members2878P retained exact/newprincipal credit0. Selected17premises/22voicefragments,31principal+8party informed comparisons/fourtypedconstraints,11appends across tenledgers,22qualifications. Supplemental19/mixed5fullgates closed. Main01excluded analysis accepted/publicationpending; other16mainexcluded programs remain unadmitted; globalcomponentpercentage null. [Receiving](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V01_EXCLUDED_RECEIVING_AND_PROVENANCE.json) records actual new source/image reading, exact retained principals, original uncoded seal and notes, redacted public preparation view, precise source planes and same-root review. Frozen66/72/fourscores/14blanks exact. Exact publication/readback/source/HK/finalsource audit/status/freshreload before Main02excluded admission. Before nextpush ordinarily merge then-current main and rerun affected checks. Full17mainexcluded/syntheses/versionedmodels/secondaryaudit/curation/release continue.
+
+
+## Main01 excluded-component full gate closed — 2026-10-19T06:37:02.995940+00:00
+
+Exact source56857658929112f685397277cf8be187a9683ab8/tree36d9b9bec731c0715de4e96f575ff5376a8eaf42; all8809remote paths/17changedstreams equal reviewed candidate. Source39209629312/job117919908813 and final39210236998/job117921763663 each352fulltests/zeroallfive non-success/selectionfalse; housekeeping39210190180/job117921618468NO_OP/exact finalsource dispatch. Final status targets the actualsource. Fresh646project/66current/fourscores/14blankreload2026-10-19T06:36:44.682036+00:00. New21textresources152P/29images actually read/viewed; six accepted principal members2878P retained exact/newprincipal reading credit0. Supplemental19/mixed5 gates closed;1of17mainexcluded programs fullgateclosed/16remain; narrativecomponent percentage null. Main02excluded is separately unadmitted; no second principal pass or new blind score. Main drift after publication is separately documented by the gate and must be merged before another push. All remaining program stages continue.
+
+
+## MAIN02EXCLUDED excluded-component admission and pre-body seal — 2026-10-19T06:37:10.821581+00:00
+
+MAIN-02 exact local supplied edition 6872479bytes/SHA256 44246be88b99d34f4f9835796274d8fada2ce24cb1e8df735a55d7185a3f8b15, admitted after preceding full gate/fresh reload. Retain 7 accepted principal members by native hash/paragraph joins with zero new principal reading credit. 21 excluded text resources and 30 images require actual inspection. New reading/viewing credit is zero at this admission snapshot. Bespoke uncoded seal precedes formal outcomes; supplemental19/mixed5 gates stay closed and full41/secondary work continues.
+
+
+## Main02 excluded-component analytical acceptance — 2026-10-19T06:58:55.601202+00:00
+
+New21textual resources171P/30individually viewed images; one63Pbonus,108Pafterword/wrapper slots; seven accepted principal members2915P retained exact/newprincipal credit0. Selected11premises/24voicefragments,31principal+8party informed comparisons/fourtypedconstraints,11appends across tenledgers,25qualifications. Supplemental19/mixed5fullgates closed. Main01excluded full gate remains closed; Main02excluded analysis accepted/publicationpending; other15mainexcluded programs remain unadmitted; globalcomponentpercentage null. [Receiving](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V02_EXCLUDED_RECEIVING_AND_PROVENANCE.json) records actual new source/image reading, exact retained principals, original uncoded seal and notes, redacted public preparation view, precise source planes and same-root review. Frozen66/72/fourscores/14blanks exact. Exact publication/readback/source/HK/finalsource audit/status/freshreload before Main03excluded admission. Before nextpush ordinarily merge then-current main and rerun affected checks. Fullremaining mainexcluded/syntheses/versionedmodels/secondaryaudit/curation/release continue.

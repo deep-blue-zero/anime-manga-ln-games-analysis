@@ -1213,3 +1213,39 @@ Main2900P/bonus0P/nonfiction52P/total2952P; full ruby/residual/image scopes befo
 | MAIN-01-U025 | item/xhtml/p-colophon.xhtml / 17 | SUPPLIED_EDITION_COLOPHON;newprincipalcredit0 |
 | MAIN-01-U026 | item/xhtml/p-bookwalker.xhtml / 1 | BOOKWALKER_BRAND_WRAPPER;newprincipalcredit0 |
 | MAIN-01-U027 | item/navigation-documents.xhtml / 0 | OFF_SPINE_NAVIGATION;newprincipalcredit0 |
+
+
+## MAIN-02 excluded-component accepted routes — 2026-10-19T06:58:55.601202+00:00
+
+[Register](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V02_EXCLUDED_COMPONENT_REGISTER.json), [reading](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V02_EXCLUDED_DEEP_READING.md), [voice](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V02_EXCLUDED_VOICE_REGISTER.md), [comparisons](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V02_EXCLUDED_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [qualifications](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V02_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) govern new/inherited boundaries. New21textual resources171P/30individually viewed images; one63Pbonus,108Pafterword/wrapper slots; seven accepted principal members2915P retained exact/newprincipal credit0. Selected11premises/24voicefragments,31principal+8party informed comparisons/fourtypedconstraints,11appends across tenledgers,25qualifications. Supplemental19/mixed5fullgates closed. Main01excluded full gate remains closed; Main02excluded analysis accepted/publicationpending; other15mainexcluded programs remain unadmitted; globalcomponentpercentage null.
+
+| Unit | Native member / slots | Disposition |
+|---|---|---|
+| MAIN-02-U001 | item/xhtml/p-cover.xhtml / 1 | COVER_WRAPPER;newprincipalcredit0 |
+| MAIN-02-U002 | item/xhtml/p-fmatter-001.xhtml / 1 | REPEATED_COVER_WRAPPER;newprincipalcredit0 |
+| MAIN-02-U003 | item/xhtml/p-fmatter-002.xhtml / 1 | COLOR_HOUSEHOLD_GAME_DIALOGUE_WRAPPER;newprincipalcredit0 |
+| MAIN-02-U004 | item/xhtml/p-fmatter-003.xhtml / 1 | COLOR_SUCCUBUS_SHOP_DIALOGUE_WRAPPER;newprincipalcredit0 |
+| MAIN-02-U005 | item/xhtml/p-fmatter-004.xhtml / 1 | COLOR_BATH_DIALOGUE_WRAPPER;newprincipalcredit0 |
+| MAIN-02-U006 | item/xhtml/p-fmatter-005.xhtml / 1 | COLOR_DESTROYER_DUAL_EXPLOSION_WRAPPER;newprincipalcredit0 |
+| MAIN-02-U007 | item/xhtml/p-fmatter-006.xhtml / 1 | RASTER_TOC_WRAPPER;newprincipalcredit0 |
+| MAIN-02-U008 | item/xhtml/p-titlepage.xhtml / 5 | TITLE_IMPRINT;newprincipalcredit0 |
+| MAIN-02-U009 | item/xhtml/p-caution.xhtml / 6 | ELECTRONIC_LAYOUT_RIGHTS_NOTICE;newprincipalcredit0 |
+| MAIN-02-U010 | item/xhtml/p-toc-001.xhtml / 12 | TEXTUAL_TOC_INCLUDING_BONUS;newprincipalcredit0 |
+| MAIN-02-U011 | item/xhtml/p-001.xhtml / 1 | RASTER_PROFILE_SCRIPT_PAGE1_WRAPPER;newprincipalcredit0 |
+| MAIN-02-U012 | item/xhtml/p-002.xhtml / 1 | RASTER_PROFILE_SCRIPT_PAGE2_WRAPPER;newprincipalcredit0 |
+| MAIN-02-U013 | item/xhtml/p-003.xhtml / 24 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-02-U014 | item/xhtml/p-004.xhtml / 746 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-02-U015 | item/xhtml/p-005.xhtml / 401 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-02-U016 | item/xhtml/p-006.xhtml / 530 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-02-U017 | item/xhtml/p-007.xhtml / 509 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-02-U018 | item/xhtml/p-008.xhtml / 659 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-02-U019 | item/xhtml/p-009.xhtml / 46 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-02-U020 | item/xhtml/p-010.xhtml / 45 | AUTHOR_AFTERWORD_NONFICTION;newprincipalcredit0 |
+| MAIN-02-U021 | item/xhtml/p-011.xhtml / 1 | ILLUSTRATOR_CODA_WRAPPER;newprincipalcredit0 |
+| MAIN-02-U022 | item/xhtml/p-012.xhtml / 1 | NEXT_PROMOTIONAL_SCRIPT_WRAPPER;newprincipalcredit0 |
+| MAIN-02-U023 | item/xhtml/p-013.xhtml / 5 | ELECTRONIC_BONUS_TITLE;newprincipalcredit0 |
+| MAIN-02-U024 | item/xhtml/p-014.xhtml / 63 | CRIMSON_DEMON_INTELLIGENCE_COMPLETE_BONUS_FICTION;newprincipalcredit0 |
+| MAIN-02-U025 | item/xhtml/p-015.xhtml / 6 | STAFF_DESIGN_CREDITS;newprincipalcredit0 |
+| MAIN-02-U026 | item/xhtml/p-colophon.xhtml / 17 | SUPPLIED_EDITION_COLOPHON;newprincipalcredit0 |
+| MAIN-02-U027 | item/xhtml/p-bookwalker.xhtml / 1 | BOOKWALKER_BRAND_WRAPPER;newprincipalcredit0 |
+| MAIN-02-U028 | item/navigation-documents.xhtml / 0 | OFF_SPINE_NAVIGATION;newprincipalcredit0 |
