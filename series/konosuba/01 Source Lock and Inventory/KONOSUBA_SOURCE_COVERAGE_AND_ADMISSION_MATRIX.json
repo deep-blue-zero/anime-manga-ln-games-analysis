@@ -2542,7 +2542,7 @@
       ],
       "analytical_completion": "NOT_ESTABLISHED_BY_METADATA_MATRIX",
       "expanded_stage_C": {
-        "status": "MAIN_EXCLUDED_COMPONENT_ANALYSIS_ACCEPTED_WITH_EXACT_RETAINED_PRINCIPAL_AUTHORITY_CONTAINING_PUBLICATION_PENDING",
+        "status": "MAIN_EXCLUDED_COMPONENT_ANALYSIS_ACCEPTED_PUBLISHED_FULL_GATE_CLOSED_WITH_EXACT_RETAINED_PRINCIPAL",
         "admission_utc": "2026-10-19T11:59:23.017492+00:00",
         "native_sha256": "ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e",
         "native_admission_sha256": "2d44ceabdf355cbda66f74a07f9f88cf30802ad9fbdb940f3961f568f993b514",
@@ -2555,7 +2555,7 @@
         "native_images_to_inspect": 30,
         "new_text_or_image_reading_credit_at_admission": 0,
         "formal_outcomes_assigned": false,
-        "remaining": "Exact publication/all-tree and changed-stream readback/source audit/housekeeping/final actual-source audit-status/fresh published-authority reload before MAIN09 excluded admission. Reconcile then-current main ordinarily before any later push. Remaining main components, full secondary census/earned artifacts, expanded synthesis/versioned principal-party-transfer revisions, curator integration and release continue.",
+        "remaining": "Declared supplied-edition scope and exact publication sequence closed. Other source programs, syntheses, versioned models, secondary artifacts, curation and final release continue.",
         "prior_pre_admission_snapshot": {},
         "accepted_utc": "2026-10-19T12:38:36.616728+00:00",
         "actual_new_excluded_P_slots": 128,
@@ -2633,6 +2633,12 @@
           "formal_outcomes_assigned": false,
           "remaining": "Actual excluded-resource/ruby/residual/image reading, bespoke uncoded seal, individual analysis, qualified comparisons, ten-ledger dispositions, receiving and publication. Original principal acceptance retained.",
           "prior_pre_admission_snapshot": {}
+        },
+        "authorship_publication_state": "MAIN_EXCLUDED_COMPONENT_ANALYSIS_ACCEPTED_WITH_EXACT_RETAINED_PRINCIPAL_AUTHORITY_CONTAINING_PUBLICATION_PENDING",
+        "publication_gate": {
+          "source_commit": "8bde99e740ce0c23d9dee951aeb27cbb1aaa7c85",
+          "closed_utc": "2026-10-19T13:00:32.922155+00:00",
+          "receipt": "09 Audits and Manifests/KONOSUBA_MAIN08EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json"
         }
       }
     },
@@ -13805,7 +13811,7 @@
       "admission": "PRINCIPAL_MAIN_PROSE_ADMITTED",
       "disposition": "NOT_ESTABLISHED_BY_METADATA_MATRIX",
       "expanded_stage_C": {
-        "status": "MAIN_EXCLUDED_COMPONENT_ANALYSIS_ACCEPTED_WITH_EXACT_RETAINED_PRINCIPAL_AUTHORITY_CONTAINING_PUBLICATION_PENDING",
+        "status": "MAIN_EXCLUDED_COMPONENT_ANALYSIS_ACCEPTED_PUBLISHED_FULL_GATE_CLOSED_WITH_EXACT_RETAINED_PRINCIPAL",
         "admission_utc": "2026-10-19T11:59:23.017492+00:00",
         "native_sha256": "ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e",
         "native_admission_sha256": "2d44ceabdf355cbda66f74a07f9f88cf30802ad9fbdb940f3961f568f993b514",
@@ -13818,7 +13824,7 @@
         "native_images_to_inspect": 30,
         "new_text_or_image_reading_credit_at_admission": 0,
         "formal_outcomes_assigned": false,
-        "remaining": "Exact publication/all-tree and changed-stream readback/source audit/housekeeping/final actual-source audit-status/fresh published-authority reload before MAIN09 excluded admission. Reconcile then-current main ordinarily before any later push. Remaining main components, full secondary census/earned artifacts, expanded synthesis/versioned principal-party-transfer revisions, curator integration and release continue.",
+        "remaining": "Declared supplied-edition scope and exact publication sequence closed. Other source programs, syntheses, versioned models, secondary artifacts, curation and final release continue.",
         "prior_pre_admission_snapshot": {},
         "accepted_utc": "2026-10-19T12:38:36.616728+00:00",
         "actual_new_excluded_P_slots": 128,
@@ -13896,6 +13902,12 @@
           "formal_outcomes_assigned": false,
           "remaining": "Actual excluded-resource/ruby/residual/image reading, bespoke uncoded seal, individual analysis, qualified comparisons, ten-ledger dispositions, receiving and publication. Original principal acceptance retained.",
           "prior_pre_admission_snapshot": {}
+        },
+        "authorship_publication_state": "MAIN_EXCLUDED_COMPONENT_ANALYSIS_ACCEPTED_WITH_EXACT_RETAINED_PRINCIPAL_AUTHORITY_CONTAINING_PUBLICATION_PENDING",
+        "publication_gate": {
+          "source_commit": "8bde99e740ce0c23d9dee951aeb27cbb1aaa7c85",
+          "closed_utc": "2026-10-19T13:00:32.922155+00:00",
+          "receipt": "09 Audits and Manifests/KONOSUBA_MAIN08EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json"
         }
       }
     },

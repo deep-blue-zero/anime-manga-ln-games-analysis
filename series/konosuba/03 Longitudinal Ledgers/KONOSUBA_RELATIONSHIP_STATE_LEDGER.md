@@ -1252,3 +1252,8 @@ All18new text resources128P/30native images actually received;8accepted principa
 | ID | Subjects / native route | Observation | Implication | Limit |
 |---|---|---|---|---|
 | M08EX-LD02 | Kazuma/Aqua/Wiz/Chris-Eris/Megumin/Darkness/Yunyun/Cecily/Vanir/Aigis/Zel; projected doll, reported counterpart, creator and promotion separately typed; MAIN-08-U023P4-28/54-58 | Aqua clings despite a work objection, destroys Wiz's product and later causes painful heat; Kazuma promises compensation and tries to wake her. These are different stages of one familiar interaction. | Familiarity is not bodily/property permission; construction completion makes exact boundary continuity a qualified comparison. No performed payment, release or cure. | New bonus and separately typed edition images/paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved. |
+
+
+## YUN-C01 — selective affiliation and boundaries
+
+Megumin is an admired friend/rival and a source of support, appropriation and humiliation; protest is not covert blanket consent. Kazuma's gift/real useful roles coexist with unique-reliance recruitment into harmful assistance. Iris's later peer address does not disclose her royal identity earlier; future ShapeChange/protective promises remain unperformed. Vanir's friend/tea/work rewards do not mean Yunyun always recognizes exploitation. Aigis's protection, blocking properties and harassment have separate effects. MAIN03refusal, MAIN16permanentrecruitmentrefusal and EXP03predepartureAlcanretiarefusal remain actual. CONTEXP02withhelddestination/after-arrivalreframe does not retroactively supply informed transit assent.

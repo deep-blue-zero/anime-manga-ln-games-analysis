@@ -1487,3 +1487,8 @@ Main2900P/bonus0P/nonfiction52P/total2952P; full ruby/residual/image scopes befo
 | MAIN-08-U024 | text/part0022.html / 5 | ILLUSTRATION_AND_DESIGN_CREDITS;newprincipalcredit0 |
 | MAIN-08-U025 | text/part0023.html / 15 | COLOPHON;newprincipalcredit0 |
 | MAIN-08-U026 | text/part0024.html / 0 | BOOKWALKER_RETAILER_WRAPPER;newprincipalcredit0 |
+
+
+## Yunyun cohort01 evidence routes
+
+The [Yunyun index](KONOSUBA_YUNYUN_EVIDENCE_INDEX.md) routes18families with four own-image-interlude subfamilies, native/report source planes, contrary cases and dedup limits. [Provenance](../06%20Character%20Modeling%20and%20Reconstruction/YUNYUN_EXPANDED_V1_EVIDENCE/YUNYUN_NATIVE_AND_DERIVATIVE_PROVENANCE_01.json) binds1050actualP/twelveacceptedunits and20nativepages/fourlinkedinterludes; these are receiving scopes, not an independent-event denominator or a second whole-source reading. [Current receiving](../09%20Audits%20and%20Manifests/KONOSUBA_YUNYUN_COHORT_01_RECEIVING_AND_PROVENANCE.json), old exact lineage, fixed synthetic inputs/outputs/review and new optionalSY-C01 remain distinct responsibilities.

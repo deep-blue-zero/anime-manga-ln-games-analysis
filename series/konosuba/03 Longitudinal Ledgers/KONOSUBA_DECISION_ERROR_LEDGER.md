@@ -1710,3 +1710,8 @@ All18new text resources128P/30native images actually received;8accepted principa
 | ID | Subjects / native route | Observation | Implication | Limit |
 |---|---|---|---|---|
 | M08EX-LD10 | Kazuma/Aqua/Wiz/Chris-Eris/Megumin/Darkness/Yunyun/Cecily/Vanir/Aigis/Zel; projected doll, reported counterpart, creator and promotion separately typed; MAIN-08-U023P11-13/29-60 | Kazuma's confident demand projection discounts price and later running cost; Wiz's technical making ability does not guarantee a useful product. Aqua's claimed suppression fails to sustain safe contact when the scene turns to actual heat/pain. | Neither total craft incompetence, intentional later harm nor an isolated unique cause is established; narrator market assumptions stay attributed. | New bonus and separately typed edition images/paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved. |
+
+
+## YUN-C01 — differentiated errors and adverse care
+
+Affiliation weighting can recruit useful work or reduce verification; a peak-output comparison can undervalue repeated service (D04LOW, concentratedEXP02sequence). Recognition can matter without instantly curing that appraisal. EXP03U034P168–240protectiveSleep is actual unagreed incapacitation, not inferred consent. MAIN09F268–321moral objection coexists with continued retreat support; MAIN15C2P217–260crime concern precedes emphatic harmful assistance after unique reliance. CONTEXP02U018P378–419recognized boundary violation recruits real protest and hazardous LightofSaber/balloonretaliation. Later help or a comic frame does not erase those choices; no universal humane-method or moral-veto rule.

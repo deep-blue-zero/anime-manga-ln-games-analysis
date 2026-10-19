@@ -1247,3 +1247,10 @@ All18new text resources128P/30native images actually received;8accepted principa
 | ID | Subjects / native route | Observation | Implication | Limit |
 |---|---|---|---|---|
 | M08EX-LD08 | Kazuma/Aqua/Wiz/Chris-Eris/Megumin/Darkness/Yunyun/Cecily/Vanir/Aigis/Zel; projected doll, reported counterpart, creator and promotion separately typed; MAIN-08-U023P15-60;U014P514-554 | Wiz constructs a healing device that is destroyed before demonstration, states rare crafting limits and later produces a high-mana doll at retrospective report level. Kazuma's inherited Cooking skill explains the useful festival kitchen. | Preserve actual capacity versus claimed specification, affordability and whole operation. No engineering expertise or magical energy imported into a nonmagical transfer. | New bonus and separately typed edition images/paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved. |
+
+
+## CR-SEC-Y01-001 — Yunyun attribution and finite competence
+
+Current synthesis clarifies MAIN15C2P217–260: Yunyun actually supplies Invisibility; Silent is stated as next requested work without a separately staged cast; Kazuma uses water/freezing and his stones. The frozen report table shorthand “Yunyun recruitment/ice” is not authority to credit his ice work to her. No frozen byte or old forecast outcome is changed.
+
+MAIN14I13P49–85attemptedInferno fails because Aigis blocks magic/skills; friendship wording and a treasured dagger then delay action. The later trial's reported rest/protection/intermediate-magic economy succeeds without making the initial combination good planning. MAIN17FP730–760preserves two remaining transfers, four-person capacity, another provider's resource and two actual group departures. Familiar expertise, missing information, attention, execution and ethics remain separate.

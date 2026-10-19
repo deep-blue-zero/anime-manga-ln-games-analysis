@@ -4,7 +4,7 @@ artifact_type: execution_and_source_reconciliation_audit
 scope: V11-V17 continuation and the fixed 41-object expanded-source program
 generation: V1
 status: active_provisional
-source_boundary: MAIN08EXCLUDED accepted/new18resources128P/30images/60Pbonus;retainedprincipalcredit0;containingfullgatepending;other9mainexcluded programs remain;full41continues
+source_boundary: MAIN08EXCLUDED fullgateclosed/freshauthorityreload; mainexcluded8of17closed; nextMAIN09EXCLUDEDadmission; supplemental19/mixed5closed; full41continues
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -21,8 +21,8 @@ The owner's 2026-10-16 request executes `KONOSUBA_CONTINUATION_AND_FULL_CORPUS_C
 | Execution mode | `continuous_sequential` |
 | Main-series authorized range | V11–V17 |
 | Accepted high-water mark | V17 principal and final Gen05 checkpoint; CP06/evidence freeze published and fully audited at a1539842 |
-| Current phase | Owner-resumed Stage C; MAIN08EXCLUDEDaccepted at new/inherited scopes; exact publication gate pending |
-| Next canonical operation | MAIN08EXCLUDED_PUBLICATION_GATE; no MAIN-09excluded admission before exact full gate/fresh published-authority reload |
+| Current phase | Owner-resumed fullprogram; Yunyun scopedTier3 cohort accepted/publicationpending; MAIN08 fullgateclosed; broaderworkcontinues |
+| Next canonical operation | YUNYUNCOHORT01_PUBLICATION_GATE then exactreload before separate MAIN09 excluded admission with both Iris/Yunyun optional scopes preserved |
 | Current prospective model | Gen05 frozen through V15, original 25 blank pairs exact; formal V16–V17 8C/6P/1F/3AMB/7NT separate from accepted locals; no Gen06 |
 | Initial published continuing-branch head at reconnaissance | `0238f356ee2ade28e39aa3a940ea0e091f8211f4` |
 | Initial main at reconciliation | `53de8ba455938174a3f14f887cd33739261a4e5f` |
@@ -1230,3 +1230,13 @@ MAIN-08 exact local supplied edition 2964798bytes/SHA256 ade837cb614f6a8548b639c
 ## Main08 excluded-component analytical acceptance — 2026-10-19T12:38:36.616728+00:00
 
 All18new text resources128P/30native images actually received;8accepted principal members2927P retained exact/newprincipalcredit0. New60P electronic bonus『漢のロマンを叶えるために』,22Pauthorafterword and46other wrapper/credit/contents slots are distinct. Covers/fronts/profile/eight chapter banners/body illustrations/illustrator and guest codas/future promotion retain separate planes.650bounded retainedP support image attribution and current corrections; no extra events or full principal pass. Counts are not a narrative denominator. Selected25premises/24writtenfragments;31principal+8party individualcomparisons/fourtypeddiagnostics/sevenIrisno-opportunityrows. 39explicit comparisons:34full conjunctions absent/unestablished; K04restraint/K08directpressure eligibility ambiguous; E03dependency-directed request locally supported without completed recovery; E06boundary continuity and E07reported production retain missing branches. No full heldoutC/F or accuracy update;4typeddiagnostics/7IrisNT preserve original fields. Retained events are not fresh trials. 12appends across tenledgers/30qualifications. Supplemental19/mixed5 andMAIN01-MAIN07fullgates plusIriscohort remainclosed; MAIN-08analysis accepted/publicationpending;other9mainexcluded programs remain;globalcomponentpercentage null. [Receiving](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V08_EXCLUDED_RECEIVING_AND_PROVENANCE.json) records actual new reading, retained principal scope, immutable uncoded observations, current corrections, redacted preparation and same-root receiving. Frozen66/72/fourscores/Dust14blanks/SI-C01original14nulls exact. Exact publication/all-tree and changed-stream readback/source audit/housekeeping/final actual-source audit-status/fresh published-authority reload before MAIN09 excluded admission. Reconcile then-current main ordinarily before any later push. Remaining main components, full secondary census/earned artifacts, expanded synthesis/versioned principal-party-transfer revisions, curator integration and release continue.
+
+
+## Main08 full publication gate — 2026-10-19T13:00:55.451823+00:00
+
+Exact source8bde99e740ce0c23d9dee951aeb27cbb1aaa7c85/tree72e0c78e47af82b1188ff347d47106026babe7b6; all8953remote paths/35changedstreams match. Source39255069863/job118068182192 and final39255588642/job118069938990 certify actualsource with352fulltests/zeroallfive non-success/selectionfalse; housekeeping39255533521/job118069752928NO_OP/exact finalsource dispatch. Actualsource finalstatus and fresh788project-path authority reload2026-10-19T13:00:42.326423+00:00. All18new text resources128P/30native images actually received;8accepted principal members2927P retained exact/newprincipalcredit0. New60P electronic bonus『漢のロマンを叶えるために』,22Pauthorafterword and46other wrapper/credit/contents slots are distinct. Covers/fronts/profile/eight chapter banners/body illustrations/illustrator and guest codas/future promotion retain separate planes.650bounded retainedP support image attribution and current corrections; no extra events or full principal pass. Counts are not a narrative denominator. Supplemental19/mixed5closed;8of17mainexcluded programs fullgateclosed/9remain; componentpercentage null. Next excluded resources remain unadmitted; no new source exposure in this update. Ordinary current-main reconciliation remains mandatory before another publication.
+
+
+## Yunyun cohort01 semantic receiving — 2026-10-19T13:21:08.660638+00:00
+
+New monograph/model/index, exacthistoricalY01 lineage, actualboundednative/image/report receiving and16response/eightpair causal exercise are received. Fifty-one audit rows retain open identities and finaltier gaps; no globalcensus closure. SY-C01has7informedrules/14originalnulls fixedbeforeMAIN09-17excluded exposure. PriorSI-C01/SEC01,66current/72historical,fourscores andDust14blanks remain unchanged. MAIN08 fullgateclosed with exactsource/final352tests andfreshreload; the new cohort still requires exactstage/preflight/normalpublication/readback/sourceaudit/HK/finalactualsource/status/reload. Registry/index remain curator-owned; all remaining source/synthesis/versionedmodels/secondary/curation/integration/release workcontinues.

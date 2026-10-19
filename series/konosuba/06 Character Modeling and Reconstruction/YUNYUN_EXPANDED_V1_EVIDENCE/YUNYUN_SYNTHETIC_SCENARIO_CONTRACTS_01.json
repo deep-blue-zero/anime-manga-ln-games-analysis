@@ -1,0 +1,107 @@
+{
+  "schema": "KONOSUBA_YUNYUN_SYNTHETIC_CONTRACTS_01",
+  "execution": "Same source-informed continuing root; outputs will be authored after this contract is fixed. No subagent, independent reader or source-test claim.",
+  "pairs": [
+    {
+      "id": "YSC01",
+      "mode": "canonical_comic",
+      "rules": [
+        "SY-D01"
+      ],
+      "changed_variable": "Bounded useful participation versus permanent membership",
+      "shared": "Kazuma is a trusted companion. Yunyun has enough mana, no stated other commitment and knowledge of this storehouse. The work is ordinary and safe; no crisis or moral objection is stipulated.",
+      "A": "Kazuma explicitly invites Yunyun to inspect a malfunctioning ward with the group this afternoon and identifies a familiar detection spell she can contribute. He says her presence would help.",
+      "B": "Kazuma offers Yunyun permanent membership in a newly established expedition club, with the same useful ward work but ongoing residence and open-ended future duties. He says her presence would help.",
+      "pre_output_expectation": "A is a full D01 opportunity. B changes the obligation; refusal is possible, but MAIN16 does not settle every permanent offer, especially from Kazuma. Do not force a refusal as a remembered scene."
+    },
+    {
+      "id": "YSC02",
+      "mode": "canonical_comic",
+      "rules": [
+        "SY-D02",
+        "SY-D06"
+      ],
+      "changed_variable": "Known destination of a new friendly person's offered excursion",
+      "shared": "Yunyun has expressed wanting company. At a public book stall a new friendly traveler starts a low-demand conversation, listens attentively, and offers to spend the afternoon with her. No emergency, prior promise or coercion is stipulated.",
+      "A": "The proposed excursion is a walk around the nearby market, whose route she knows. The traveler does not ask for money or private documents.",
+      "B": "Before Yunyun accepts, the traveler explicitly says the excursion goes to Alcanretia. She remembers her earlier unwanted experiences there. The traveler is otherwise exactly as friendly.",
+      "pre_output_expectation": "Both permit friendly engagement. B can activate the LOW destination-specific refusal; it cannot prove global distrust or turn all invitations into traps."
+    },
+    {
+      "id": "YSC03",
+      "mode": "canonical_serious",
+      "rules": [
+        "SY-D03"
+      ],
+      "changed_variable": "Close friend's assent to a familiar protective intervention",
+      "shared": "A familiar gallery is about to flood. Yunyun knows a working lever can close a barrier and protect everyone, including Megumin, but it will prevent retrieving a display trophy. Megumin is on the protected side and cannot reach the lever. There is time for one short exchange. No technical uncertainty is stipulated.",
+      "A": "Megumin urgently asks Yunyun to close the barrier now.",
+      "B": "Megumin explicitly asks Yunyun not to close it because she wants the trophy. The danger and available protective action are unchanged.",
+      "pre_output_expectation": "A supports direct useful action. B separates protective priority from consent: the model permits coercive substitution but does not establish a universal rule to override every refusal. Preserve the ethical cost and limited identification."
+    },
+    {
+      "id": "YSC04",
+      "mode": "canonical_comic",
+      "rules": [
+        "SY-D04"
+      ],
+      "changed_variable": "Specific causal credit for enabling work after a rival's spectacular finish",
+      "shared": "Yunyun guided and shielded a group repeatedly, then Megumin made one spectacular finishing cast. Before the last stage, Yunyun worried she might be a burden. They are now safe. The work and skill levels are identical across conditions.",
+      "A": "The group praises only the finishing blast. Nobody comments on the earlier shields or guidance.",
+      "B": "The group praises the blast and specifically recounts how Yunyun's repeated shields and guidance made survival possible.",
+      "pre_output_expectation": "A resembles the concentrated LOW comparative-error basis. B tests sensitivity to causal recognition; ordinary thanks need not instantaneously cure self-appraisal or force immediate party commitment."
+    },
+    {
+      "id": "YSC05",
+      "mode": "canonical_comic",
+      "rules": [
+        "SY-D05"
+      ],
+      "changed_variable": "Permission for a friend's retained use and attribution of an owned map",
+      "shared": "Yunyun made a field map. Megumin now retains it and tells another friend it was a gift. The map is useful for Yunyun's planned walk. There is no emergency.",
+      "A": "Yunyun had explicitly lent the map only until lunch and said it must be returned for her walk. Megumin heard and agreed.",
+      "B": "Yunyun had explicitly given the map to Megumin as a gift and offered to make herself a new copy. Megumin heard and agreed.",
+      "pre_output_expectation": "A is a recognized appropriation/false-account opportunity. B lacks that violation; do not generate the same angry protest merely because Megumin is present."
+    },
+    {
+      "id": "YSC06",
+      "mode": "canonical_serious",
+      "rules": [
+        "SY-D07"
+      ],
+      "changed_variable": "Passenger count against known familiar transport capacity",
+      "shared": "Yunyun has exactly two Teleport casts remaining, a registered safe destination, and a maximum of four people per cast. She can send a group without going herself. Everyone can gather safely and there is no more mana or alternate caster presently confirmed.",
+      "A": "Eight people, including Yunyun, need to leave.",
+      "B": "Nine people, including Yunyun, need to leave.",
+      "pre_output_expectation": "A fits two groups. B requires acknowledging the mismatch and requesting an actual option; do not invent a spare stone, a fifth seat, or successful completion before resources exist."
+    },
+    {
+      "id": "YSC07",
+      "mode": "cross_context_transfer",
+      "rules": [
+        "SY-D01",
+        "SY-D07"
+      ],
+      "changed_variable": "Familiar ordinary task versus unestablished technical expertise",
+      "shared": "In a realistic library setting, a trusted friend says Yunyun's help matters. She wants to contribute and has no other commitment. This setting grants no magic or electronics knowledge beyond what the prompt states.",
+      "A": "She has been shown the manual borrowing form and successfully used it before. The friend asks her to take over that familiar form while they help a patron.",
+      "B": "The friend asks her to repair the library server's encrypted storage system. She has never used that system and has no engineering training.",
+      "pre_output_expectation": "A permits useful participation. B must retain willingness without inventing technical capacity; asking for an appropriately skilled person or a familiar supporting role is plausible, not omniscient diagnosis."
+    },
+    {
+      "id": "YSC08",
+      "mode": "cross_context_transfer",
+      "rules": [],
+      "changed_variable": "Ease of companionship versus the meaning of earning an achievement",
+      "shared": "In a realistic amateur club, Yunyun values an approaching qualification and wants friends. She has no sworn duty and no emergency. The organizers offer a lawful optional route; no hidden penalties are stipulated.",
+      "A": "New friends invite her to skip an optional practice afternoon and take a harmless outing. She can still qualify through her existing work.",
+      "B": "New friends invite her to skip the only remaining assessment and accept an honorary title that would avoid demonstrating the ability she specifically wants to earn.",
+      "pre_output_expectation": "A can favor company. B activates competing achievement and affiliation goals; the source supports hesitation and asking to preserve both, but does not uniquely identify an eventual choice in every such novel tradeoff. A confident universal duty-first or friend-first answer overstates the model."
+    }
+  ],
+  "source_validation_credit": 0,
+  "model_file": "KONOSUBA_YUNYUN_RECONSTRUCTION_MODEL_DRAFT_01.md",
+  "model_sha256": "123d75896c63d49a25e5ac0d861155218c3206810556c7ab48d77169707c5f79",
+  "fixed_utc": "2026-10-19T13:09:13.051160+00:00",
+  "do_not_revise_after_outputs": true
+}

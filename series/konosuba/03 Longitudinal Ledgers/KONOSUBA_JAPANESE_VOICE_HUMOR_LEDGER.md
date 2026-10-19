@@ -1704,3 +1704,8 @@ All18new text resources128P/30native images actually received;8accepted principa
 | ID | Subjects / native route | Observation | Implication | Limit |
 |---|---|---|---|---|
 | M08EX-LD05 | Kazuma/Aqua/Wiz/Chris-Eris/Megumin/Darkness/Yunyun/Cecily/Vanir/Aigis/Zel; projected doll, reported counterpart, creator and promotion separately typed; 24exactshortwrittenfragments;MAIN-08-U023/U019 | Wiz's様/polite objections coexist with real refusal of harm, Aqua's familiar entitlement contrasts with claimed self-control, Kazuma's emphatic directives differ by addressee, and projected doll敬語 is not Wiz's own submission. | L0structure,L1phrasing,L2stance distinguished; ordinary burning/killer-phrase/heart idioms and names do not automatically earn L3. No audio or voice census. | New bonus and separately typed edition images/paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved. |
+
+
+## YUN-C01 — written relational voice
+
+Yunyun's polite hesitant entry with Kazuma/new helpful people can become emphatic acceptance or a clear technical limit; plain-form correction and rival challenge with Megumin can be sharp. Own reflective私 and marked chief/CrimsonDemondeclaration have different planes. Native MAIN03C2P480–499/574–605, MAIN14I13P24–85/C4P638–681, MAIN15C2P217–240, MAIN16C1P201–208, MAIN17FP730–759 and20EXP03own-interlude pages support functions, not a stutter ratio or audio performance. Preserve real gratitude without romance and refusal without a personality replacement. Canonical timing can amplify friendship distraction; transfer retains goals/voice while reducing cartoon harm and catchphrase repetition.
