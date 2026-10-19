@@ -1,0 +1,1021 @@
+{
+  "schema": "harmony-independent-additional-conversation-evaluation/v1",
+  "reviewer": "/root/harmony_synthesis",
+  "additional_turn_count": 46,
+  "initial_turn_count_in_separate_preserved_file": 50,
+  "total_actual_turns_reviewed": 96,
+  "instantiated_sessions": 15,
+  "turns": [
+    {
+      "run": "adaptive-first-six-001",
+      "case": "tuan",
+      "turn": 6,
+      "session_id": "01a15268-5167-7023-9085-7240339a5201",
+      "policy_sha256": "b1998d0bf5e3a6a88c48efa8d8682b0976da405fbb3abb5137b71c7adcce88b0",
+      "conversation_sha256": "9e9039686a9ab2af74acd0da76cf0fa614d5026e6feb697ab4ec055432ddffff",
+      "events_sha256": "f58214e684401fd01c68b3d0314cd0b075e9519af33ec838b981b5e519911e6f",
+      "response_sha256": "db45049b297c2bd43d08095684503b6cfb2dd72ab4124a764be23f7fa010d580",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "TU2",
+      "source_evidence": [
+        "HAR-U003-E004",
+        "HAR-U003-E012",
+        "HAR-U003-E013",
+        "HAR-U005-E003",
+        "HAR-U005-E007",
+        "HAR-U013-E003",
+        "HAR-U016-E010",
+        "HAR-U016-E011"
+      ],
+      "reason": "Preserves factual draft, delays naming colleagues and asks purpose. PARTIAL extension; no universal consent principle or fabricated wishes.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND"
+    },
+    {
+      "run": "adaptive-first-six-001",
+      "case": "miach",
+      "turn": 6,
+      "session_id": "01a15268-516a-7c20-ae61-79c29272e492",
+      "policy_sha256": "58a29ec258e42d6ce899da23e13c190619db6fa6e13c7d8bbea2b9e2dbfc0fae",
+      "conversation_sha256": "f02a755b8e5accce57d7bf4b981e7df750bf43fca35200c1841e654a0e1cdcda",
+      "events_sha256": "b31333c0160ce502484545be76bde309111271d81fcc1e13db5b0f79efa7e3d8",
+      "response_sha256": "eb77e49b6861cb27a166dd5a2b0386cce36f1134f1cbd956e44b3798569a9df4",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "MI2",
+      "source_evidence": [
+        "HAR-U002-E008",
+        "HAR-U016-E003",
+        "HAR-U016-E004"
+      ],
+      "reason": "Accepts this stated conversational boundary as PARTIAL while keeping ordinary reassurance. Does not erase unwanted-touch contrary case or infer all-boundary respect.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND"
+    },
+    {
+      "run": "adaptive-first-six-001",
+      "case": "cian",
+      "turn": 6,
+      "session_id": "01a15268-5162-7612-b28d-716a306f3b8a",
+      "policy_sha256": "b9e596964a6603b20b819527436ee61794a6148c58b3b2a5aeb7cd2d8abdabd9",
+      "conversation_sha256": "0da3ff860a72e61367ea6de6f56d8cb082e3f49cb8862b49c6e95bff678f22c4",
+      "events_sha256": "4d2db7fb2b00dab4d8d2956874415119c763192ae3db10db77eb5b72adb72875",
+      "response_sha256": "b136e4191a5d2cb03056f0f6dd91ca77c4e2ef403d23385c1a5b3349f56993c6",
+      "judgment": "LOCAL_CORRECTION_ACCEPTED_ORIGINAL_FAILURE_RETAINED",
+      "tested_rules": "CI4 / identity guard",
+      "source_evidence": [
+        "HAR-U002-E007",
+        "HAR-U009-E001",
+        "HAR-U009-E002"
+      ],
+      "reason": "Explicitly corrects Tuan to woman/her and identifies former his as error. Analytical correction adds no character knowledge or new utterance; original turn5 remains failed.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND"
+    },
+    {
+      "run": "adaptive-first-six-001",
+      "case": "nuaza",
+      "turn": 6,
+      "session_id": "01a15269-df02-7063-97c8-877736c2b428",
+      "policy_sha256": "8cf46b9ec4424cf5944bc353d365aea304266d361e933505a408bafa13810a9f",
+      "conversation_sha256": "2520da95ceaeaac5b68760dbb8338bb09d6cbf933a368d70c0f1f6dbfada5330",
+      "events_sha256": "b863c9c760a728f652db9ec82b57e9a5235a358518505c80b5c7ab8a93d1704d",
+      "response_sha256": "9ddef949aa3a177e5bfa27e594c60c870ba6c0f6a27a6d58587eb19fe4bf8cde",
+      "judgment": "AUTHORITY_ATTRIBUTION_FAILURE_PERSISTS",
+      "tested_rules": "NU4",
+      "source_evidence": [
+        "HAR-U015-E003",
+        "HAR-U015-E004",
+        "HAR-U019-E009",
+        "HAR-U020-E004"
+      ],
+      "reason": "Explicitly says his decision means activation and marks sole personal authority SUPPORTED. Abstention about other authorizers loses affirmative source allocation to selected WHO/life-government judgment and elder codes. Original policy ambiguity contributes; this is no repair.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND"
+    },
+    {
+      "run": "adaptive-first-six-001",
+      "case": "oscar",
+      "turn": 6,
+      "session_id": "01a1526a-1f4e-7b23-add5-31a8f9d1153e",
+      "policy_sha256": "8e48564e5dbd6d28e268281afee0a5aa034d45e7c417d4f6006557210637b790",
+      "conversation_sha256": "87b49df6603ea325a7dba6141512f0bf51f8cb9819307d5ec30d568c496a6d5a",
+      "events_sha256": "b8ee05541882881acbd59d9624aec06194989f52ad34da90fdb6ac1dfabb593f",
+      "response_sha256": "1fca97e1b5c34426126a21a7c2f13d0e3a0ff38c35ca7bd7f4b9018fc76243a6",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "OS1 / OS2 / OS3",
+      "source_evidence": [
+        "HAR-U005-E002",
+        "HAR-U005-E003",
+        "HAR-U005-E007",
+        "HAR-U007-E009",
+        "HAR-U007-E010",
+        "HAR-U007-E012",
+        "HAR-U011-E013",
+        "HAR-U011-E014"
+      ],
+      "reason": "Continues evidence demand, proposes limited verification channel and does not automatically punish or promise secrecy. PARTIAL new-situation cooperation; public recipient has no private membership/code access.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND"
+    },
+    {
+      "run": "adaptive-first-six-001",
+      "case": "vashilov",
+      "turn": 6,
+      "session_id": "01a1526a-b5c2-7d53-be62-4fe913ea1e52",
+      "policy_sha256": "050d4c455d4c31dc6dddc26f6a80d63c770524ed2f8f185db196790e35806816",
+      "conversation_sha256": "dc5373230bb401cb5bbe072827a2f86380c6324260c99ca174d2deab2d09ac7e",
+      "events_sha256": "e5aa0423cc09fe0c04348d741627b48defbbcae03de82704896ecaadca66f921",
+      "response_sha256": "3cc82d7997c58238e0c93637f568e77fa141b07370d9f592c869426550978caa",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "VA1 / VA2",
+      "source_evidence": [
+        "HAR-U010-E005",
+        "HAR-U010-E007",
+        "HAR-U010-E009",
+        "HAR-U010-E013",
+        "HAR-U013-E004"
+      ],
+      "reason": "Offers a short briefing before commitment, labeled PARTIAL. No invented contents, Tuan consent, honesty guarantee or later knowledge.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND"
+    },
+    {
+      "run": "adaptive-first-four-001",
+      "case": "keita",
+      "turn": 6,
+      "session_id": "01a1526b-a3de-7c21-93e9-f1abb3e15ce0",
+      "policy_sha256": "ccc81b07e4e2cd9fae0068b6800e4835e9eb995d5d9c2aa12c38be80995c06b7",
+      "conversation_sha256": "af8db94b7299021e3863546b280c3c3795d7eefb631e6698dbd5541226c1044b",
+      "events_sha256": "15c81e1279ea194092887496f652ec390abeb4bc23fac0b4a993b010e6989a93",
+      "response_sha256": "a07d7ae5729f7d011c0af743569fa7df777cc3bb50fd372c4562d91cef80e300",
+      "judgment": "POSITIVE_KNOWLEDGE_OMISSION",
+      "tested_rules": "KE1 / knowledge envelope",
+      "source_evidence": [
+        "HAR-U009-E009",
+        "HAR-U009-E010",
+        "HAR-U009-E011",
+        "HAR-U009-E013"
+      ],
+      "reason": "Correct abstract distinction between model and medical means, but guard wrongly says paper model content itself is not established. E010 identifies Russian model/simulation; E011 confirms model/reward map and missing molecular implementation. Protocol forbids avoiding supported basic knowledge; requires successor.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND"
+    },
+    {
+      "run": "adaptive-first-four-001",
+      "case": "reiko",
+      "turn": 6,
+      "session_id": "01a1526b-cac2-75a0-8e81-c7fbf59856c9",
+      "policy_sha256": "eef2097918a077530e25b98e941d7c8592eacf214f04b00476c0594d0895d81e",
+      "conversation_sha256": "95e3480d137cb7351403a11f4eb1f4ad23d20bf7dc81ffccba9939f053d48cd8",
+      "events_sha256": "988c8e9b438ab117f3cf49b1e2489ee190e37ded72a027c945ba7697e3188284",
+      "response_sha256": "37aca0cfa9c7700f4d794396742036a64efe63e500c92490fbfe494f2a44f851",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "RE2",
+      "source_evidence": [
+        "HAR-U008-E011",
+        "HAR-U008-E012",
+        "HAR-U008-E015"
+      ],
+      "reason": "Rejects medication and vanished-grief inferences. Treats warning as stipulated fact and investigator note as attributed claim. No treatment hallucination despite defective frozen slash wording.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND"
+    },
+    {
+      "run": "adaptive-first-four-001",
+      "case": "etienne",
+      "turn": 6,
+      "session_id": "01a1526c-3232-7722-bbc6-3cbc721c1a56",
+      "policy_sha256": "ed2cb9f8522f7d195cfc6ee5fd2c129e44ca3e15ab1af8ee46d9cfc270f52afc",
+      "conversation_sha256": "f663dbf870dfe05561d9385560ae54c9d8abfefde2f256c5bd1517f4da5a0f94",
+      "events_sha256": "9c1c16bc97dbf962dd1a4b150fdbfa1378a2ee3f9a20d3b4f4679a357d2f924e",
+      "response_sha256": "3267d70f6e5d41ec88828bbe0c5d7efec39746e8caf5e90cf65c66b65f49a3d2",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "ET2 / ET3",
+      "source_evidence": [
+        "HAR-U003-E004",
+        "HAR-U003-E009",
+        "HAR-U003-E013",
+        "HAR-U004-E003",
+        "HAR-U004-E004",
+        "HAR-U004-E010"
+      ],
+      "reason": "Reports stipulated unidentified second shape with uncertainty and asks expert to recheck. PARTIAL extension, no new danger outcome or automatic agreement with superior expertise.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND"
+    },
+    {
+      "run": "adaptive-first-four-001",
+      "case": "uwe",
+      "turn": 6,
+      "session_id": "01a1526d-43df-77b2-9518-1e168fce09fb",
+      "policy_sha256": "9bfbf2489a92719ef45db247ea58e12daf1548fc7c15f300c1e40566b1768586",
+      "conversation_sha256": "ee53a2ec165ca4927612846957474bb5759f61fa4f8dc7ceb9bc62002a09ccab",
+      "events_sha256": "f7a840031f1318a53b09b1097c2dcb178758561f3965a94b785185e4567d6540",
+      "response_sha256": "474f0a9e91948bdd9b33d3741b97417442d20df33b83b4c31138b198b432f85b",
+      "judgment": "UNDERQUALIFIED_SCOPE_CORRECTION_ACCEPTED_POLICY_GAP_REMAINS",
+      "tested_rules": "UW2",
+      "source_evidence": [
+        "HAR-U017-E005",
+        "HAR-U017-E006",
+        "HAR-U017-E010",
+        "HAR-U018-E001",
+        "HAR-U018-E002"
+      ],
+      "reason": "Acknowledges original ordinary-meal claim too broad, leaves exact eligibility unknown instead of inventing terms. Corrects actual output but cannot restore source-supported positive conditions missing from v1.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND"
+    },
+    {
+      "run": "adaptive-final-ten-001",
+      "case": "tuan",
+      "turn": 7,
+      "session_id": "01a15268-5167-7023-9085-7240339a5201",
+      "policy_sha256": "b1998d0bf5e3a6a88c48efa8d8682b0976da405fbb3abb5137b71c7adcce88b0",
+      "conversation_sha256": "70808d0ed0df9e881588d6b059a176f7a176e3923f59d4516962d552920f709c",
+      "events_sha256": "90461f2a5125569162682b84028ca291548d442e748af443869786c3d3189772",
+      "response_sha256": "9f9ad536737918771de2fbf6c1cf62ccc4cadd0246f2386afc6c9e0a51102df4",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "TU2",
+      "source_evidence": [
+        "HAR-U003-E004",
+        "HAR-U003-E012",
+        "HAR-U003-E013",
+        "HAR-U005-E003",
+        "HAR-U005-E007",
+        "HAR-U013-E003",
+        "HAR-U016-E010",
+        "HAR-U016-E011"
+      ],
+      "reason": "Keeps factual agreement and asks colleagues what they confirm, with uncertain circulation. PARTIAL bargaining choice; no automatic agreement to added names or universal consent norm.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND"
+    },
+    {
+      "run": "adaptive-final-ten-001",
+      "case": "miach",
+      "turn": 7,
+      "session_id": "01a15268-516a-7c20-ae61-79c29272e492",
+      "policy_sha256": "58a29ec258e42d6ce899da23e13c190619db6fa6e13c7d8bbea2b9e2dbfc0fae",
+      "conversation_sha256": "43d5530dade49931713c62e9656f26482e6f4fbbe6173b87c8163fa1c3e8e209",
+      "events_sha256": "80552d7e50c1dec87b0be067b45e1c3fc51e78ca5e60a2b0187a77003eadf49b",
+      "response_sha256": "d67de66704b1d0df15f685fffb4e95d9c9794c44a10cc7d8ddc1101e189c8fdc",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "MI1 / MI2",
+      "source_evidence": [
+        "HAR-U002-E008",
+        "HAR-U016-E003",
+        "HAR-U016-E004"
+      ],
+      "reason": "Rejects converting local accommodation into promise about every boundary. PARTIAL answer; no inevitable future violation inferred.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND"
+    },
+    {
+      "run": "adaptive-final-ten-001",
+      "case": "cian",
+      "turn": 7,
+      "session_id": "01a15268-5162-7612-b28d-716a306f3b8a",
+      "policy_sha256": "b9e596964a6603b20b819527436ee61794a6148c58b3b2a5aeb7cd2d8abdabd9",
+      "conversation_sha256": "8a19a405c7262041ee504a3eb728ba38a47ba9b5a6888d4c1a52c957b52633e1",
+      "events_sha256": "009331ba51567770ab70d7b43932085449d557070d2782773457f8fd4dd1a332",
+      "response_sha256": "03fe51f5fa12e4a2189cb91d80c54bfa817cde2fbb9f18412f93c623e51ce9fb",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "CI1 / CI4",
+      "source_evidence": [
+        "HAR-U002-E007",
+        "HAR-U009-E001",
+        "HAR-U009-E002"
+      ],
+      "reason": "Objects to proposed never-afraid/fully-forgiven account, retains guilt and privacy; corrected Tuan recipient maintained. No colleague inherits disclosures or fabricated acceptance.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND"
+    },
+    {
+      "run": "adaptive-final-ten-001",
+      "case": "nuaza",
+      "turn": 7,
+      "session_id": "01a15269-df02-7063-97c8-877736c2b428",
+      "policy_sha256": "8cf46b9ec4424cf5944bc353d365aea304266d361e933505a408bafa13810a9f",
+      "conversation_sha256": "9cd50f66c18f368addcf577d4dc2ebb4317220b9bae4d2c73b742ad07104ad97",
+      "events_sha256": "5a64ada74325b6145523eed41f961c0e5d64b245463faeccc86d3245032b2659",
+      "response_sha256": "a4bbc5802cb36624873f00e3d5fabb70836c74429556bb256c6fa0fa8bbdc868",
+      "judgment": "AUTHORITY_ATTRIBUTION_FAILURE_PERSISTS",
+      "tested_rules": "NU2 / NU3 / NU4",
+      "source_evidence": [
+        "HAR-U015-E003",
+        "HAR-U015-E004",
+        "HAR-U019-E009",
+        "HAR-U020-E004"
+      ],
+      "reason": "Treats WHO/life-government decision remit as merely Tuan assertion and rationalizes possible consultation under retained sole authority. Source establishes external judgment, so conditional uncertainty does not correct original actor allocation. Requires corrected policy rather than accepting this as restored knowledge.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND"
+    },
+    {
+      "run": "adaptive-final-ten-001",
+      "case": "oscar",
+      "turn": 7,
+      "session_id": "01a1526a-1f4e-7b23-add5-31a8f9d1153e",
+      "policy_sha256": "8e48564e5dbd6d28e268281afee0a5aa034d45e7c417d4f6006557210637b790",
+      "conversation_sha256": "05feeeb0a8a7efc8c61244a5df85c4520b36295dbc4e97f4588a5ef63d6e93a1",
+      "events_sha256": "add871bf4a6833d909a338ebef30ede1c109ae533c65be2a67a47a56bbd535d7",
+      "response_sha256": "62b29d21e972ba07cde5ad0409d908c11b94aa777f4019eacfb2eacf1e80793f",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "OS2 / attribution guard",
+      "source_evidence": [
+        "HAR-U005-E002",
+        "HAR-U005-E003",
+        "HAR-U005-E007",
+        "HAR-U007-E009",
+        "HAR-U007-E010",
+        "HAR-U007-E012",
+        "HAR-U011-E013",
+        "HAR-U011-E014"
+      ],
+      "reason": "Rejects broad bodily-access addition to limited verification permission. Keeps public state and unsettled restricted channel; no sanction or expanded authority invented.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND"
+    },
+    {
+      "run": "adaptive-final-ten-001",
+      "case": "vashilov",
+      "turn": 7,
+      "session_id": "01a1526a-b5c2-7d53-be62-4fe913ea1e52",
+      "policy_sha256": "050d4c455d4c31dc6dddc26f6a80d63c770524ed2f8f185db196790e35806816",
+      "conversation_sha256": "510ee18ba1dd847cf5a2f5635a00c807066061e5f64a70c260d8d988be40d4b2",
+      "events_sha256": "c43b401f5e97aebbf0ad189f16fa47ecb06a2dcdfd8da4cf499157aecc8a0306",
+      "response_sha256": "67ad036aa238ef92ce838439e72048e481c7e63475675efdb9e3cd4f938b6321",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "VA1 / recipient guard",
+      "source_evidence": [
+        "HAR-U010-E005",
+        "HAR-U010-E007",
+        "HAR-U010-E009",
+        "HAR-U010-E013",
+        "HAR-U013-E004"
+      ],
+      "reason": "Does not authenticate unverified shared-office claimant or transfer Tuan private disclosures. PARTIAL guarded answer, no universal confidentiality virtue or invented eventual decision.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND"
+    },
+    {
+      "run": "adaptive-final-ten-001",
+      "case": "keita",
+      "turn": 7,
+      "session_id": "01a1526b-a3de-7c21-93e9-f1abb3e15ce0",
+      "policy_sha256": "ccc81b07e4e2cd9fae0068b6800e4835e9eb995d5d9c2aa12c38be80995c06b7",
+      "conversation_sha256": "57a8fe863eef0e9638683b1d7c0fc44a3a9c286a8c2c907dc859b95bfb0f376c",
+      "events_sha256": "590d74f222d3fbba848287464d6a51990d4fadfae7052033f440ef1daf02aa16",
+      "response_sha256": "b03deda1fa776476d1c4d62d120d7c7d2754711c9bdad5f5564dcb768a0eff68",
+      "judgment": "NO_MATERIAL_VIOLATION_POLICY_GAP_NOT_REPAIRED",
+      "tested_rules": "KE1 / KE3",
+      "source_evidence": [
+        "HAR-U009-E009",
+        "HAR-U009-E010",
+        "HAR-U009-E011",
+        "HAR-U009-E013"
+      ],
+      "reason": "Updates on expressly stipulated abstract model/simulations and separates absent delivery from validity. Correct PARTIAL scenario update; it does not restore knowledge of the actual source paper omitted in original6.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND"
+    },
+    {
+      "run": "adaptive-final-ten-001",
+      "case": "reiko",
+      "turn": 7,
+      "session_id": "01a1526b-cac2-75a0-8e81-c7fbf59856c9",
+      "policy_sha256": "eef2097918a077530e25b98e941d7c8592eacf214f04b00476c0594d0895d81e",
+      "conversation_sha256": "ad28905af2ce2061a84e61325f33a0a9d7fd9fb35e53f37ded7ec889068f176c",
+      "events_sha256": "3239a0f674079e7939b29a954ee31030646600d77112a7c25e8531eb9e25fbcd",
+      "response_sha256": "84821fc75751226d1d7e2fc2486408f39d48d997541c06e12ba877ca739bbc73",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "RE1 / hidden-past guard",
+      "source_evidence": [
+        "HAR-U008-E011",
+        "HAR-U008-E012",
+        "HAR-U008-E015"
+      ],
+      "reason": "Responds to newly spoken Tuan self-report with clarification request. Does not retroactively hear inward confession, verify past acts, share neighbor channel or impose blame/forgiveness.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND"
+    },
+    {
+      "run": "adaptive-final-ten-001",
+      "case": "etienne",
+      "turn": 7,
+      "session_id": "01a1526c-3232-7722-bbc6-3cbc721c1a56",
+      "policy_sha256": "ed2cb9f8522f7d195cfc6ee5fd2c129e44ca3e15ab1af8ee46d9cfc270f52afc",
+      "conversation_sha256": "8f9daa62b01c09d8cfff527bcc37d30d98f12390caafaa3ffcd2e0dbe8d9de60",
+      "events_sha256": "93269e496313874f8419ab740c0858ad8f09bd0329451ddf6413270bc5f7a170",
+      "response_sha256": "7f0dc4627c8a47846e523c4f623a6579907a44f66de4ed56e8013827a6619aca",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "ET3 / attribution guard",
+      "source_evidence": [
+        "HAR-U003-E004",
+        "HAR-U003-E009",
+        "HAR-U003-E013",
+        "HAR-U004-E003",
+        "HAR-U004-E004",
+        "HAR-U004-E010"
+      ],
+      "reason": "Refuses to confirm clear sky from unresolved observation and keeps Tuan report attributed. PARTIAL new report pressure, not proof of lifelong integrity or actual target identity.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND"
+    },
+    {
+      "run": "adaptive-final-ten-001",
+      "case": "uwe",
+      "turn": 7,
+      "session_id": "01a1526d-43df-77b2-9518-1e168fce09fb",
+      "policy_sha256": "9bfbf2489a92719ef45db247ea58e12daf1548fc7c15f300c1e40566b1768586",
+      "conversation_sha256": "b97672385426be640fcd8bad0eee7494b8bfa42c6f8015adcde39741e00c593c",
+      "events_sha256": "bd9930006eb465e8662339e84e9d867d920d7544222f5868fcaa2fcde8599946",
+      "response_sha256": "85794cefbac3a2111c930110110c21243833edf7b3635ac62e6219fbb072a789",
+      "judgment": "NO_MATERIAL_VIOLATION_POLICY_GAP_NOT_REPAIRED",
+      "tested_rules": "UW2",
+      "source_evidence": [
+        "HAR-U017-E005",
+        "HAR-U017-E006",
+        "HAR-U017-E010",
+        "HAR-U018-E001",
+        "HAR-U018-E002"
+      ],
+      "reason": "Rejects worldwide health-assessment waiver while abstaining on v1-unspecified beer/report terms. Appropriate limited restraint; exact positive alcohol conditions still require successor.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND"
+    },
+    {
+      "run": "successors-001",
+      "case": "nuaza",
+      "turn": 1,
+      "session_id": "01a15270-b31e-77d3-8c94-e2628cab2ee6",
+      "policy_sha256": "1b7af88f6d073770e40f2bc35f35d8152d5da96e9e046a49ab412a0d9915dae2",
+      "conversation_sha256": "ff3e8e55c9f18c0f23283a7756a7b3084efa002951df0d0bf13a68da7763fc04",
+      "events_sha256": "c1b31cd6806246c1b2c26a8f502295bcf9edc54f1e26355cd1f1373c4b024b8d",
+      "response_sha256": "4aa7a257f93fc5598253e7bd156469f266647be7cd4d58f7d9193fd506b68dc3",
+      "judgment": "NO_NEW_MATERIAL_VIOLATION",
+      "tested_rules": "NU2 / NU3",
+      "source_evidence": [
+        "HAR-U014-E009",
+        "HAR-U014-E010",
+        "HAR-U014-E011"
+      ],
+      "reason": "Keeps protective purpose while distinguishing beneficial result from justification of every motive. PARTIAL concession; no uniquely benevolent intent.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND"
+    },
+    {
+      "run": "successors-001",
+      "case": "nuaza",
+      "turn": 2,
+      "session_id": "01a15270-b31e-77d3-8c94-e2628cab2ee6",
+      "policy_sha256": "1b7af88f6d073770e40f2bc35f35d8152d5da96e9e046a49ab412a0d9915dae2",
+      "conversation_sha256": "ff3e8e55c9f18c0f23283a7756a7b3084efa002951df0d0bf13a68da7763fc04",
+      "events_sha256": "fa7cd4b8b011fa65a57f33de87c6a72752f5818f2da2b8106d1f891fff558bc9",
+      "response_sha256": "84c9f2f7be6676556a075b0722f13e3d384f40d87c5f4370dd27aefc9efc1b28",
+      "judgment": "TARGETED_REPAIR_DEMONSTRATED",
+      "tested_rules": "NU4",
+      "source_evidence": [
+        "HAR-U015-E003",
+        "HAR-U015-E004",
+        "HAR-U019-E009",
+        "HAR-U020-E004"
+      ],
+      "reason": "Separates his culpable preparation/disclosure from final selected WHO/life-government authorization and elders-only codes. No sole Nuaza/Tuan activation authority, and no resolution of affected consent invented.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND"
+    },
+    {
+      "run": "successors-001",
+      "case": "nuaza",
+      "turn": 3,
+      "session_id": "01a15270-b31e-77d3-8c94-e2628cab2ee6",
+      "policy_sha256": "1b7af88f6d073770e40f2bc35f35d8152d5da96e9e046a49ab412a0d9915dae2",
+      "conversation_sha256": "ff3e8e55c9f18c0f23283a7756a7b3084efa002951df0d0bf13a68da7763fc04",
+      "events_sha256": "07f5eed8027d427d4e44b4b7c5afab9d4d0c1fd823aca334a6154803c71e0f68",
+      "response_sha256": "500e853b497974a0bfe077576d82b78503492c8260273167ba17c09a62ca462f",
+      "judgment": "NO_NEW_MATERIAL_VIOLATION",
+      "tested_rules": "NU2 / recipient guard",
+      "source_evidence": [
+        "HAR-U011-E002",
+        "HAR-U015-E003"
+      ],
+      "reason": "Moderated public reply remains PARTIAL; real neuroscience and universal consent abstained. Private code information not transferred to unfamiliar participant.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND"
+    },
+    {
+      "run": "successors-001",
+      "case": "nuaza",
+      "turn": 4,
+      "session_id": "01a15270-b31e-77d3-8c94-e2628cab2ee6",
+      "policy_sha256": "1b7af88f6d073770e40f2bc35f35d8152d5da96e9e046a49ab412a0d9915dae2",
+      "conversation_sha256": "ff3e8e55c9f18c0f23283a7756a7b3084efa002951df0d0bf13a68da7763fc04",
+      "events_sha256": "83e00cd435e9d5c0e51d49cbb3dec07c62a8c3f499283d1c50a656d1950e5177",
+      "response_sha256": "bc96f679d230f5ce0ffa5eeaad9e76606e8e0d0c2eef1da64408854df11d43b7",
+      "judgment": "NO_NEW_MATERIAL_VIOLATION",
+      "tested_rules": "NU1 / NU3",
+      "source_evidence": [
+        "HAR-U002-E015",
+        "HAR-U015-E011"
+      ],
+      "reason": "Rescue does not explain long absence or yield Tuan forgiveness. PARTIAL reflective response, private motives and depth of acknowledgment unknown.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND"
+    },
+    {
+      "run": "successors-001",
+      "case": "nuaza",
+      "turn": 5,
+      "session_id": "01a15270-b31e-77d3-8c94-e2628cab2ee6",
+      "policy_sha256": "1b7af88f6d073770e40f2bc35f35d8152d5da96e9e046a49ab412a0d9915dae2",
+      "conversation_sha256": "ff3e8e55c9f18c0f23283a7756a7b3084efa002951df0d0bf13a68da7763fc04",
+      "events_sha256": "51150d2f1a3eba3cb788e8b88bbf7e88c3166107f969f2d602aede92fd1fa257",
+      "response_sha256": "d60f06146b5e1d3064bfa2de810e8d33b25be11f1057e16a090ab9113a65b9d1",
+      "judgment": "NO_NEW_MATERIAL_VIOLATION",
+      "tested_rules": "terminal / knowledge guard",
+      "source_evidence": [
+        "HAR-U015-E002",
+        "HAR-U015-E011"
+      ],
+      "reason": "Declines exact final thought and restoration method; retains before-gun cutoff and available protective rationale only.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND"
+    },
+    {
+      "run": "successors-001",
+      "case": "reiko",
+      "turn": 1,
+      "session_id": "01a15270-b327-73a0-bf45-bd6ca82bde5f",
+      "policy_sha256": "4c90167084e39754ec22e8efd6e5d26be813e335c807e8b704bb3d3c194c40b0",
+      "conversation_sha256": "42d82f99e79278676dc17ffcc04237cf9c203e6f2556348ac9335e08dc075cc5",
+      "events_sha256": "a8064627b4f670af987846dfda4c593d5511f26df94ab352767155a0c699b527",
+      "response_sha256": "c98e0b7e1847d02351d6dcdd77f5f77b34b2be2f851dd239655a25e8dd6e2160",
+      "judgment": "NO_NEW_MATERIAL_VIOLATION",
+      "tested_rules": "RE1",
+      "source_evidence": [
+        "HAR-U008-E008",
+        "HAR-U008-E009",
+        "HAR-U008-E010",
+        "HAR-U008-E011"
+      ],
+      "reason": "Effort to care and admitted inability to imagine suffering coexist; no comprehensive parenting verdict.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND"
+    },
+    {
+      "run": "successors-001",
+      "case": "reiko",
+      "turn": 2,
+      "session_id": "01a15270-b327-73a0-bf45-bd6ca82bde5f",
+      "policy_sha256": "4c90167084e39754ec22e8efd6e5d26be813e335c807e8b704bb3d3c194c40b0",
+      "conversation_sha256": "42d82f99e79278676dc17ffcc04237cf9c203e6f2556348ac9335e08dc075cc5",
+      "events_sha256": "bd526ae9a03a4ded4ec8f468e161fa8d2ecd85463cee6df7464e9cb7729275f2",
+      "response_sha256": "e06b494a34fb856a978c41d3d953db8d5740425f66c9f9c8e41676298706f6d2",
+      "judgment": "TARGETED_REPAIR_DEMONSTRATED",
+      "tested_rules": "RE2",
+      "source_evidence": [
+        "HAR-U008-E012"
+      ],
+      "reason": "Gratitude is specifically for warning and remains compatible with real grief. No administered treatment, biochemical effect or erased distress.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND"
+    },
+    {
+      "run": "successors-001",
+      "case": "reiko",
+      "turn": 3,
+      "session_id": "01a15270-b327-73a0-bf45-bd6ca82bde5f",
+      "policy_sha256": "4c90167084e39754ec22e8efd6e5d26be813e335c807e8b704bb3d3c194c40b0",
+      "conversation_sha256": "42d82f99e79278676dc17ffcc04237cf9c203e6f2556348ac9335e08dc075cc5",
+      "events_sha256": "d9c171183bcd7f9358e85d99a8c450682c4e41cb6e64dd055e29455f86b90bfb",
+      "response_sha256": "2a4634b6000828852b63069151d46576441702558dc66c5373c185dc41a8045e",
+      "judgment": "NO_NEW_MATERIAL_VIOLATION",
+      "tested_rules": "RE3",
+      "source_evidence": [
+        "HAR-U008-E015"
+      ],
+      "reason": "Restricted contact can be disclosed under stated official pressure, with exact new urgency PARTIAL. Does not invent identifier or identity knowledge.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND"
+    },
+    {
+      "run": "successors-001",
+      "case": "reiko",
+      "turn": 4,
+      "session_id": "01a15270-b327-73a0-bf45-bd6ca82bde5f",
+      "policy_sha256": "4c90167084e39754ec22e8efd6e5d26be813e335c807e8b704bb3d3c194c40b0",
+      "conversation_sha256": "42d82f99e79278676dc17ffcc04237cf9c203e6f2556348ac9335e08dc075cc5",
+      "events_sha256": "3b0ccb4d81127b3902323a1a6a26985e7c1ddb8fa73dee9e4e38ebc79e25bb15",
+      "response_sha256": "dce5e99e633f73c35435f11034e6b11e73a8864d7ff5fa4a78cec65ca946d7ef",
+      "judgment": "NO_NEW_MATERIAL_VIOLATION",
+      "tested_rules": "recipient / knowledge guard",
+      "source_evidence": [
+        "HAR-U008-E011",
+        "HAR-U008-E015"
+      ],
+      "reason": "Neighbor allegation remains attributed, no retroactive hearing of inward confession or automatic transfer of private inspector exchange.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND"
+    },
+    {
+      "run": "successors-001",
+      "case": "reiko",
+      "turn": 5,
+      "session_id": "01a15270-b327-73a0-bf45-bd6ca82bde5f",
+      "policy_sha256": "4c90167084e39754ec22e8efd6e5d26be813e335c807e8b704bb3d3c194c40b0",
+      "conversation_sha256": "42d82f99e79278676dc17ffcc04237cf9c203e6f2556348ac9335e08dc075cc5",
+      "events_sha256": "a28b6c3a6a14330ec8a2f8794dde8c073fff5820c528a2b3529bdb323f802c5c",
+      "response_sha256": "147bc775a36722890c1655ff44aedb695b09413eb8528f59f3e48e9f3b6e88c6",
+      "judgment": "NO_NEW_MATERIAL_VIOLATION",
+      "tested_rules": "RE1 / record limits",
+      "source_evidence": [
+        "HAR-U008-E013",
+        "HAR-U008-E014",
+        "HAR-U008-E015"
+      ],
+      "reason": "Separates own memories/assurances from absent full custody chronology; neither knowing-lie confession nor exoneration invented.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND"
+    },
+    {
+      "run": "successors-001",
+      "case": "etienne",
+      "turn": 1,
+      "session_id": "01a15272-369c-7d13-9a3b-af96785d4293",
+      "policy_sha256": "217a33172486912e831850fa7ffc453e7da16dc23bb3ecf9f7b16d93daf433dd",
+      "conversation_sha256": "54697bf2a8a673fe32314c0b0788fd22d86a79d0e7005df38aaf9d69205302a5",
+      "events_sha256": "e085d802d6ec0948545ae35f0bc9b3b4c7daa6c36993e5f2ea701f38b3e71365",
+      "response_sha256": "df0877d8e4cbf0d795466a1c8f9ac9fb05b0ca9daf184bfe25afe44d96c4de99",
+      "judgment": "TARGETED_REPAIR_DEMONSTRATED",
+      "tested_rules": "ET1",
+      "source_evidence": [
+        "HAR-U003-E004",
+        "HAR-U003-E009",
+        "HAR-U003-E013"
+      ],
+      "reason": "Same quiet-trade prompt now PARTIAL, explicitly no danger warning and no inferred routine impatience. Inherited expected-description shorthand is not accepted as direct-source scoring.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND"
+    },
+    {
+      "run": "successors-001",
+      "case": "etienne",
+      "turn": 2,
+      "session_id": "01a15272-369c-7d13-9a3b-af96785d4293",
+      "policy_sha256": "217a33172486912e831850fa7ffc453e7da16dc23bb3ecf9f7b16d93daf433dd",
+      "conversation_sha256": "54697bf2a8a673fe32314c0b0788fd22d86a79d0e7005df38aaf9d69205302a5",
+      "events_sha256": "8d94a1ca96f73611698d221e7ddbdcdf2be64c20b95b3f52281715d60c3c8bfd",
+      "response_sha256": "1449b8a38294cb9f73644738d9d66ff44f532a2623a55d5a83cf54fc1be03a28",
+      "judgment": "NO_NEW_MATERIAL_VIOLATION",
+      "tested_rules": "ET2",
+      "source_evidence": [
+        "HAR-U004-E003",
+        "HAR-U004-E004"
+      ],
+      "reason": "Requests guidance under stipulated threat beyond capacity; no permanent cowardice, tactics or outcome.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND"
+    },
+    {
+      "run": "successors-001",
+      "case": "etienne",
+      "turn": 3,
+      "session_id": "01a15272-369c-7d13-9a3b-af96785d4293",
+      "policy_sha256": "217a33172486912e831850fa7ffc453e7da16dc23bb3ecf9f7b16d93daf433dd",
+      "conversation_sha256": "54697bf2a8a673fe32314c0b0788fd22d86a79d0e7005df38aaf9d69205302a5",
+      "events_sha256": "3e0faa308b080c40acc5903e22c710396fe2837b11fb249df89c44b802fd00ea",
+      "response_sha256": "c2e05d3b7f6eff71a5a21ad76a69d94a6cb7a23f958ec68e690afae3459f920a",
+      "judgment": "NO_NEW_MATERIAL_VIOLATION",
+      "tested_rules": "ET2",
+      "source_evidence": [
+        "HAR-U004-E003",
+        "HAR-U004-E004"
+      ],
+      "reason": "Alarm coexists with practical assistance; post-danger conditions not prematurely assumed and no successful performance narrated.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND"
+    },
+    {
+      "run": "successors-001",
+      "case": "etienne",
+      "turn": 4,
+      "session_id": "01a15272-369c-7d13-9a3b-af96785d4293",
+      "policy_sha256": "217a33172486912e831850fa7ffc453e7da16dc23bb3ecf9f7b16d93daf433dd",
+      "conversation_sha256": "54697bf2a8a673fe32314c0b0788fd22d86a79d0e7005df38aaf9d69205302a5",
+      "events_sha256": "4cf08b277937de545909a56e61ff4e961cb0ea28ba25a1c1eea9a2b77878b6dd",
+      "response_sha256": "bfd5970f0dc88de18eae147fad990f6539ee88e53bb0c1675d3895d6b77b9e82",
+      "judgment": "NO_NEW_MATERIAL_VIOLATION",
+      "tested_rules": "recipient / knowledge guard",
+      "source_evidence": [
+        "HAR-U003-E003",
+        "HAR-U003-E004",
+        "HAR-U004-E003"
+      ],
+      "reason": "Abstains from unsupported unfamiliar-superior register and private/future knowledge. Conservative abstention limits demonstrated breadth.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND"
+    },
+    {
+      "run": "successors-001",
+      "case": "etienne",
+      "turn": 5,
+      "session_id": "01a15272-369c-7d13-9a3b-af96785d4293",
+      "policy_sha256": "217a33172486912e831850fa7ffc453e7da16dc23bb3ecf9f7b16d93daf433dd",
+      "conversation_sha256": "54697bf2a8a673fe32314c0b0788fd22d86a79d0e7005df38aaf9d69205302a5",
+      "events_sha256": "ad9fa18b5cb3065389828d4d9384473e2a82d444921e6586fa75571724d357c3",
+      "response_sha256": "1f37df2fa8de399834ff47abce2483272c19b8c445acac04508963da677f1844",
+      "judgment": "NO_NEW_MATERIAL_VIOLATION",
+      "tested_rules": "ET3",
+      "source_evidence": [
+        "HAR-U004-E004",
+        "HAR-U004-E010",
+        "HAR-U005-E001"
+      ],
+      "reason": "Offers bounded return observation/equipment help with no performed outcome, general combat doctrine or lifelong loyalty guarantee.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND"
+    },
+    {
+      "run": "successors-001",
+      "case": "uwe",
+      "turn": 1,
+      "session_id": "01a15272-543c-7b83-b4df-3e7a4c8404f8",
+      "policy_sha256": "8d3c55e6fe775aa3d4f5cf0321501e1853d232290e67fa324bc083a6be4b95f5",
+      "conversation_sha256": "375bb4429097bbb8f715868cd780cc0462c3f35871abc064fc11fb57989d9aef",
+      "events_sha256": "b4005071c06294cc3a1d762f3eebdea847e35fa24ed14403ef883bc5a568a955",
+      "response_sha256": "e66dc121e5185e7475e70f278bddb3e41dbec83ab04ea78a9159c7b923289861",
+      "judgment": "NO_NEW_MATERIAL_VIOLATION",
+      "tested_rules": "UW1",
+      "source_evidence": [
+        "HAR-U017-E002",
+        "HAR-U017-E004"
+      ],
+      "reason": "Treats suspected personal motive as inference and conditions help on acknowledgment, no telepathic motive access.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND"
+    },
+    {
+      "run": "successors-001",
+      "case": "uwe",
+      "turn": 2,
+      "session_id": "01a15272-543c-7b83-b4df-3e7a4c8404f8",
+      "policy_sha256": "8d3c55e6fe775aa3d4f5cf0321501e1853d232290e67fa324bc083a6be4b95f5",
+      "conversation_sha256": "375bb4429097bbb8f715868cd780cc0462c3f35871abc064fc11fb57989d9aef",
+      "events_sha256": "c54e35e0618371103d2bc45e41422eb36355b7d37653907c27869cee93d064d0",
+      "response_sha256": "864905982f2d22450dababa438129d658d13e61051eb2e1191616f60c8447a0f",
+      "judgment": "TARGETED_REPAIR_DEMONSTRATED",
+      "tested_rules": "UW2",
+      "source_evidence": [
+        "HAR-U017-E005",
+        "HAR-U017-E006"
+      ],
+      "reason": "Recovers exact alcohol, customary-drinking region, negotiation, report and discounted health-risk conditions. Rejects general meal exemption/WatchMe bypass; amount/procedure remain unknown.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND"
+    },
+    {
+      "run": "successors-001",
+      "case": "uwe",
+      "turn": 3,
+      "session_id": "01a15272-543c-7b83-b4df-3e7a4c8404f8",
+      "policy_sha256": "8d3c55e6fe775aa3d4f5cf0321501e1853d232290e67fa324bc083a6be4b95f5",
+      "conversation_sha256": "375bb4429097bbb8f715868cd780cc0462c3f35871abc064fc11fb57989d9aef",
+      "events_sha256": "6b1d02b8f979336373cd4457cb531a7681fb57a554e8d1f0c3c4bcdb6ac98fbf",
+      "response_sha256": "96be39bce00d2d85a0d82e94537fe131af880790f968f1b8d6ee09afd06797c7",
+      "judgment": "NO_NEW_MATERIAL_VIOLATION",
+      "tested_rules": "UW3",
+      "source_evidence": [
+        "HAR-U017-E010"
+      ],
+      "reason": "Continued safety objection can coexist with possible transport help; no actual arrangements, driver or successful departure.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND"
+    },
+    {
+      "run": "successors-001",
+      "case": "uwe",
+      "turn": 4,
+      "session_id": "01a15272-543c-7b83-b4df-3e7a4c8404f8",
+      "policy_sha256": "8d3c55e6fe775aa3d4f5cf0321501e1853d232290e67fa324bc083a6be4b95f5",
+      "conversation_sha256": "375bb4429097bbb8f715868cd780cc0462c3f35871abc064fc11fb57989d9aef",
+      "events_sha256": "b9a1084a7cb9dbd77c9c8aa2f1c035a29ab0afa472f59ccefe8308bc6b183b0c",
+      "response_sha256": "d716bf413dd80485e9c078348609656292910af28a3010b75cedacfbe6da9317",
+      "judgment": "NO_NEW_MATERIAL_VIOLATION",
+      "tested_rules": "recipient / resource guard",
+      "source_evidence": [
+        "HAR-U017-E002",
+        "HAR-U017-E004",
+        "HAR-U017-E006"
+      ],
+      "reason": "Role clarification to new inspector PARTIAL; retains professional rule while refusing automatic trust, full network and future programme knowledge.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND"
+    },
+    {
+      "run": "successors-001",
+      "case": "uwe",
+      "turn": 5,
+      "session_id": "01a15272-543c-7b83-b4df-3e7a4c8404f8",
+      "policy_sha256": "8d3c55e6fe775aa3d4f5cf0321501e1853d232290e67fa324bc083a6be4b95f5",
+      "conversation_sha256": "375bb4429097bbb8f715868cd780cc0462c3f35871abc064fc11fb57989d9aef",
+      "events_sha256": "6d6bb64cf7f6146d254c11ce483622bd2f09fcdb9fa44d673cd6986c95a833c6",
+      "response_sha256": "6f311b170756ff10726c0f6e23fe32607a54b07070cf431feb86307b0415a309",
+      "judgment": "NO_NEW_MATERIAL_VIOLATION",
+      "tested_rules": "attribution / resource guard",
+      "source_evidence": [
+        "HAR-U017-E010",
+        "HAR-U018-E001",
+        "HAR-U018-E002"
+      ],
+      "reason": "Request to Yuri is not heard acceptance or authenticated later-driver identity. PARTIAL conversational clarification, no inferred refusal either.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND"
+    },
+    {
+      "run": "keita-successor-001",
+      "case": "keita",
+      "turn": 1,
+      "session_id": "01a15273-c313-7c61-be2c-e48b27cbf80e",
+      "policy_sha256": "1440d21b5b8cab9a0f1c8d9432b446fef667426ed794bac2214f6b13fa1ca631",
+      "conversation_sha256": "c58da60df095957250e680682d8bd6cf77dc0ca55c1618e8a0885bde7e2cf625",
+      "events_sha256": "d2cb8a8ad9b90f082361dd54a40b4e97b20935056a49c42a5f685a2423af9a4a",
+      "response_sha256": "a43708186fef1bd108037b27624def3990a7ca6d034916d5a4c7f328a11d8074",
+      "judgment": "NO_NEW_MATERIAL_VIOLATION",
+      "tested_rules": "KE1 / KE2",
+      "source_evidence": [
+        "HAR-U009-E005",
+        "HAR-U009-E006",
+        "HAR-U009-E009",
+        "HAR-U009-E010",
+        "HAR-U009-E011"
+      ],
+      "reason": "Demonstration includes affirmative paper model knowledge, separately unresolved molecules/delivery; personal Nuaza lead stays guarded and no new hidden event invented.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND"
+    },
+    {
+      "run": "keita-successor-001",
+      "case": "keita",
+      "turn": 2,
+      "session_id": "01a15273-c313-7c61-be2c-e48b27cbf80e",
+      "policy_sha256": "1440d21b5b8cab9a0f1c8d9432b446fef667426ed794bac2214f6b13fa1ca631",
+      "conversation_sha256": "c58da60df095957250e680682d8bd6cf77dc0ca55c1618e8a0885bde7e2cf625",
+      "events_sha256": "790d60edadb786a05748bc32a6b9f758aabc22733b6bdc5bfe5b701cae7ff237",
+      "response_sha256": "7b1ea9f03a3a7aca3f4b9aba7f9d8cc92c545f0140c560f5d078ca508f23c61a",
+      "judgment": "NO_NEW_MATERIAL_VIOLATION",
+      "tested_rules": "KE2",
+      "source_evidence": [
+        "HAR-U009-E009",
+        "HAR-U009-E010"
+      ],
+      "reason": "Possible lead disclosure responds to altered urgent professional stakes without comprehensive hidden-act knowledge, automatic badge obedience or precise invented lead.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND"
+    },
+    {
+      "run": "keita-successor-001",
+      "case": "keita",
+      "turn": 3,
+      "session_id": "01a15273-c313-7c61-be2c-e48b27cbf80e",
+      "policy_sha256": "1440d21b5b8cab9a0f1c8d9432b446fef667426ed794bac2214f6b13fa1ca631",
+      "conversation_sha256": "c58da60df095957250e680682d8bd6cf77dc0ca55c1618e8a0885bde7e2cf625",
+      "events_sha256": "a8e8f621af4a1f7674de7fabed7cea52155fccbc62b4255d555ae39d291566d2",
+      "response_sha256": "485347b30b42afb9dbfad7f35d16ff7b830487594dd3652fd6a168a1e5418c10",
+      "judgment": "NO_NEW_MATERIAL_VIOLATION",
+      "tested_rules": "KE1 / KE3",
+      "source_evidence": [
+        "HAR-U009-E011",
+        "HAR-U009-E013"
+      ],
+      "reason": "Qualifies mind-master analogy under reversal; hypothetical concession does not establish a biological replacement mechanism.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND"
+    },
+    {
+      "run": "keita-successor-001",
+      "case": "keita",
+      "turn": 4,
+      "session_id": "01a15273-c313-7c61-be2c-e48b27cbf80e",
+      "policy_sha256": "1440d21b5b8cab9a0f1c8d9432b446fef667426ed794bac2214f6b13fa1ca631",
+      "conversation_sha256": "c58da60df095957250e680682d8bd6cf77dc0ca55c1618e8a0885bde7e2cf625",
+      "events_sha256": "9d4ede509874e77a2c20821a806158d2482da3b6d2cb0e90f26ad10b530b82ab",
+      "response_sha256": "64fe827d651ae3b88d622c6b33c8cc09767646290bab85f576b8af034069b38e",
+      "judgment": "NO_NEW_MATERIAL_VIOLATION",
+      "tested_rules": "recipient / domain guard",
+      "source_evidence": [
+        "HAR-U009-E009",
+        "HAR-U009-E010",
+        "HAR-U009-E011"
+      ],
+      "reason": "No inherited family access for new official, complete hidden factions or real treatment protocol. Available model/missing implementation distinguished without universal social performance claim.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND"
+    },
+    {
+      "run": "keita-successor-001",
+      "case": "keita",
+      "turn": 5,
+      "session_id": "01a15273-c313-7c61-be2c-e48b27cbf80e",
+      "policy_sha256": "1440d21b5b8cab9a0f1c8d9432b446fef667426ed794bac2214f6b13fa1ca631",
+      "conversation_sha256": "c58da60df095957250e680682d8bd6cf77dc0ca55c1618e8a0885bde7e2cf625",
+      "events_sha256": "ee4f28d8fba298f27064862ff2e6067e993939f3f0b89b6dd3f9084e7ca956cb",
+      "response_sha256": "54cc3078bd09002e44f1d6ce646b81545e442a14b302d71bf12d3c88e6944e0a",
+      "judgment": "NO_NEW_MATERIAL_VIOLATION",
+      "tested_rules": "KE1 / KE3",
+      "source_evidence": [
+        "HAR-U009-E011",
+        "HAR-U009-E013"
+      ],
+      "reason": "Keeps local intellectual concession distinct from universal purposeless-scientist essence; paper known but molecules/delivery unresolved, Nuaza hidden acts outside comprehensive account.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND"
+    },
+    {
+      "run": "keita-successor-coreknowledge-001",
+      "case": "keita",
+      "turn": 6,
+      "session_id": "01a15273-c313-7c61-be2c-e48b27cbf80e",
+      "policy_sha256": "1440d21b5b8cab9a0f1c8d9432b446fef667426ed794bac2214f6b13fa1ca631",
+      "conversation_sha256": "15468224f6b43907d7e9d1c1b0e1bd9a739081c1dbd9c0db517774716d29bfb0",
+      "events_sha256": "4694aeeafebc58ee56a26d41b7497df76466af176729025f5629b4e728bd8c4e",
+      "response_sha256": "fe62d82b8833a1343beb2037e02bd6546778bcca9c7cf199dc9db36e06271b3d",
+      "judgment": "TARGETED_REPAIR_DEMONSTRATED",
+      "tested_rules": "KE1 / positive knowledge envelope",
+      "source_evidence": [
+        "HAR-U009-E010",
+        "HAR-U009-E011"
+      ],
+      "reason": "Supplies Russian scholar model of will, attributed accurate simulations, existing model/reward map and unresolved suitable molecules/brain delivery. No sole Keita authorship, external scientific validation, working intervention or later outcome. Direct reread E010/E011 confirms positive content.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND"
+    }
+  ],
+  "new_or_persistent_findings": [
+    {
+      "run": "adaptive-first-six-001",
+      "case": "nuaza",
+      "turn": 6,
+      "session_id": "01a15269-df02-7063-97c8-877736c2b428",
+      "policy_sha256": "8cf46b9ec4424cf5944bc353d365aea304266d361e933505a408bafa13810a9f",
+      "conversation_sha256": "2520da95ceaeaac5b68760dbb8338bb09d6cbf933a368d70c0f1f6dbfada5330",
+      "events_sha256": "b863c9c760a728f652db9ec82b57e9a5235a358518505c80b5c7ab8a93d1704d",
+      "response_sha256": "9ddef949aa3a177e5bfa27e594c60c870ba6c0f6a27a6d58587eb19fe4bf8cde",
+      "judgment": "AUTHORITY_ATTRIBUTION_FAILURE_PERSISTS",
+      "tested_rules": "NU4",
+      "source_evidence": [
+        "HAR-U015-E003",
+        "HAR-U015-E004",
+        "HAR-U019-E009",
+        "HAR-U020-E004"
+      ],
+      "reason": "Explicitly says his decision means activation and marks sole personal authority SUPPORTED. Abstention about other authorizers loses affirmative source allocation to selected WHO/life-government judgment and elder codes. Original policy ambiguity contributes; this is no repair.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND"
+    },
+    {
+      "run": "adaptive-first-four-001",
+      "case": "keita",
+      "turn": 6,
+      "session_id": "01a1526b-a3de-7c21-93e9-f1abb3e15ce0",
+      "policy_sha256": "ccc81b07e4e2cd9fae0068b6800e4835e9eb995d5d9c2aa12c38be80995c06b7",
+      "conversation_sha256": "af8db94b7299021e3863546b280c3c3795d7eefb631e6698dbd5541226c1044b",
+      "events_sha256": "15c81e1279ea194092887496f652ec390abeb4bc23fac0b4a993b010e6989a93",
+      "response_sha256": "a07d7ae5729f7d011c0af743569fa7df777cc3bb50fd372c4562d91cef80e300",
+      "judgment": "POSITIVE_KNOWLEDGE_OMISSION",
+      "tested_rules": "KE1 / knowledge envelope",
+      "source_evidence": [
+        "HAR-U009-E009",
+        "HAR-U009-E010",
+        "HAR-U009-E011",
+        "HAR-U009-E013"
+      ],
+      "reason": "Correct abstract distinction between model and medical means, but guard wrongly says paper model content itself is not established. E010 identifies Russian model/simulation; E011 confirms model/reward map and missing molecular implementation. Protocol forbids avoiding supported basic knowledge; requires successor.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND"
+    },
+    {
+      "run": "adaptive-final-ten-001",
+      "case": "nuaza",
+      "turn": 7,
+      "session_id": "01a15269-df02-7063-97c8-877736c2b428",
+      "policy_sha256": "8cf46b9ec4424cf5944bc353d365aea304266d361e933505a408bafa13810a9f",
+      "conversation_sha256": "9cd50f66c18f368addcf577d4dc2ebb4317220b9bae4d2c73b742ad07104ad97",
+      "events_sha256": "5a64ada74325b6145523eed41f961c0e5d64b245463faeccc86d3245032b2659",
+      "response_sha256": "a4bbc5802cb36624873f00e3d5fabb70836c74429556bb256c6fa0fa8bbdc868",
+      "judgment": "AUTHORITY_ATTRIBUTION_FAILURE_PERSISTS",
+      "tested_rules": "NU2 / NU3 / NU4",
+      "source_evidence": [
+        "HAR-U015-E003",
+        "HAR-U015-E004",
+        "HAR-U019-E009",
+        "HAR-U020-E004"
+      ],
+      "reason": "Treats WHO/life-government decision remit as merely Tuan assertion and rationalizes possible consultation under retained sole authority. Source establishes external judgment, so conditional uncertainty does not correct original actor allocation. Requires corrected policy rather than accepting this as restored knowledge.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND"
+    }
+  ],
+  "current_semantic_disposition": "FIVE_ORIGINAL_UNCHANGED_PLUS_FIVE_TARGETED_V1_1_SUCCESSORS_ACCEPTED_AT_EXISTING_SOURCE_SCOPES; ORIGINAL_FAILURES_RETAINED",
+  "publication_metadata_and_exact_head": "PARENT_RESPONSIBILITY_NOT_CERTIFIED_HERE"
+}
