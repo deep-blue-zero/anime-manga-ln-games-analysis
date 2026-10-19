@@ -5,14 +5,14 @@ artifact_type: corpus_map
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.22"
+version: "1.23"
 status: active_provisional
 scope: "Single current entrypoint for a material analytical restart at the continuing Shuukura root"
-source_boundary: "Frozen I1; LN01–09/fourBW/KSS01–12/OFF01–02 and KAK-JP-E0001 only through complete atomic commits; E0002+ and V1 unread; LN10 excluded"
+source_boundary: "Frozen I1; LN01–09/fourBW/KSS01–12/OFF01–02 and KAK-JP-E0001–E0002 only through complete atomic commits; E0003+ and V1 unread; LN10 excluded"
 canonical_home: series/shuukura/CURRENT_STATE_AND_CORPUS_MAP.md
 created: "2026-10-17"
 planning_date: "2026-10-16"
-review_status: E0001_NATIVE_AND_BOUNDED_WITNESS_REVIEW_COMPLETED
+review_status: E0002_NATIVE_AND_BOUNDED_WITNESS_REVIEW_COMPLETED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -27,7 +27,7 @@ project_initialization:
   architecture_status: active_provisional
   source_reconnaissance_complete: true
   source_reconnaissance_scope: METADATA_BYTES_STRUCTURE_AND_PROVENANCE_ONLY
-  source_admission: VERIFIED_ORDERED_I1_EXACT_UNIT_ADMISSIONS_THROUGH_KAK_E0001
+  source_admission: VERIFIED_ORDERED_I1_EXACT_UNIT_ADMISSIONS_THROUGH_KAK_E0002
   required_day_one_infrastructure_initialized: true
   required_day_one_infrastructure:
     - "04 Longitudinal Ledgers/SHUUKURA_CHARACTER_STATE_AND_READINESS_LEDGER.md"
@@ -38,14 +38,14 @@ project_initialization:
   owner_review: CURRENT_OWNER_INSTRUCTION_AUTHORIZES_VALIDATED_BOOTSTRAP_ADOPTION
   sequential_analysis_lock: OPEN
   lock_reason: VERIFIED_FOUNDATION_AND_ORDERED_I1_UNIT_ADMISSION
-  next_permitted_operation: KAK-JP-E0002
+  next_permitted_operation: KAK-JP-E0003
 sequential_execution:
   mode: continuous_sequential
   unit_type: other
   authorized_start: LN-JP-V01
   terminal_boundary: SHUUKURA-V2-20261017-I1
-  committed_high_water_mark: KAK-JP-E0001
-  next_candidate_operation: KAK-JP-E0002
+  committed_high_water_mark: KAK-JP-E0002
+  next_candidate_operation: KAK-JP-E0003
   confirmation_between_units: false
   run_state: active
   inventory_freeze_state: FROZEN_AVAILABLE_UNITS_AND_EXPLICIT_MANDATORY_GAPS
@@ -53,15 +53,15 @@ sequential_execution:
   authorization_record: "08 Audits and Handoffs/SHUUKURA_BOOTSTRAP_RECEIPT.md#continuous-execution-kickoff-and-recovery"
 analytical_execution:
   authorization: CONTINUOUS_SEQUENTIAL_AUTHORIZED_GATE_VERIFIED
-  sequential_units_admitted: 28
-  sequential_units_completed: 28
-  committed_narrative_high_water_mark: KAK-JP-E0001
-  character_reconstruction_readiness: E0001_WEB_SPECIFIC_HISTORICAL_STATE_NO_VALIDATED_DOMAIN
+  sequential_units_admitted: 29
+  sequential_units_completed: 29
+  committed_narrative_high_water_mark: KAK-JP-E0002
+  character_reconstruction_readiness: E0002_WEB_SPECIFIC_HISTORICAL_STATE_NO_VALIDATED_DOMAIN
 repository_state:
   stable_branch: series/shuukura
   routing_input: series/shuukura/.repository/series-registry.json
   materialization_status: PRESENT_UNREVIEWED
-  main_integration: SS18_CLOSED_ON_GREEN_MAIN_E0001_LOCAL_PENDING_PUBLICATION
+  main_integration: E0001_CLOSED_ON_GREEN_MAIN_E0002_LOCAL_PENDING_PUBLICATION
   integration_hold_required: NONE_FOR_COMPLETED_BOOTSTRAP
 ---
 
@@ -71,7 +71,25 @@ This is the single V2 first-read surface for **週に一度クラスメイトを
 
 `SEQUENTIAL_ANALYSIS_LOCK = OPEN`
 
-`NEXT_PERMITTED_OPERATION = KAK-JP-E0002`
+`NEXT_PERMITTED_OPERATION = KAK-JP-E0003`
+
+## Current checkpoint after KAK-JP-E0002 — 2026-10-19
+
+The continuing owner-authorized architecture-completion run remains active with periodic ordinary pushes and no routine confirmations. Both OFF evidence archives stay local. Original pause and earlier publication statements remain historical as-of records.
+
+E0001 CLOSED_ON_GREEN_MAIN: source`51f395ffa7480e15f5092886d7b98b63978fae54`, [PR237](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/237), protectedmain`08c9f70287df19e761bd2b0253905f5b2fdc65b1`, equal fulltree`e0a957af21c0b8e35ebb2ac9b7065bfeac8e929a`. Source39201708678 → housekeeping39201988650(NO_OP) → final actual-source39202027362; owner controller39201738780 VERIFIED_OWNER_ONLY/merged_verified and mandatory fresh owner-dispatched exact-main39202459174 allSUCCESS/8531paths/352tests/trusted status. Separate main push audit is not substituted. Ordinary local reconciliation`0272b6b4dd154938a8d8d622c51f3fae1dea36cc` preserves the entire tree and all analytical bytes. Earlier E1pending wording remains historical; this verified receipt closes only that publication, not the overall program.
+
+The [E0002 reading](03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KAK_JP_E0002_DEEP_READING.md) and [transaction audit](08%20Audits%20and%20Handoffs/SHUUKURA_V2_KAK_JP_E0002_TRANSACTION_AUDIT.md) cover all111native paragraphs in source order:65text-bearing narrative/46blanks/46br, no ruby or omitted body prose. Genuine entering/F1/F2/Q1 preceded later review;230native checks pass. ERRATUM-E0002-NOTE-001 explicitly corrects the original F1 surname-address locatorp54→p36 without changing its sealed bytes; current secrecy and one-thing wording retain precise scopes.
+
+Miyagi’s bad-day amusement/status account and interest in resistance coexist with an acknowledged gap about Sendai’s motive. Sendai’s questions, criticism, explicit local stop and resistance qualify literal total obedience; continued action and Miyagi’s unwillingness to comply also preclude declaring a completed repair. Recognized secrecy has separate spoken at-school and narrated not-telling-anyone scopes. No actual outsider disclosure, equal social cost or future enforcement is shown. Endpoint M-KAK-E0002-EXIT/S-KAK-E0002-OBSERVED-EXIT precedes Sendai’s next statement, whose content remains unprovided here. Adult LN09/BWnight and historical OFF states are retained separately.
+
+Bounded actual LN01 comparison finds displaced episode material and a substantially revised action sequence, not textual equality. Material absent only from E1 now has E2counterparts to LN75–76/109–118; append correspondence refinement without changing frozen E1. WebE2ending has no exact endpoint byLN157. Comparator’s incidental already-knownLN158–180 exposure is recorded separately; no futureweb/V1 opened. CONTINUITY_RELATION_UNRESOLVED and all prior tensions remain.
+
+Four ledgers1.20 add eight character events/two current source-local projections/two readiness reviews; eight relationship events/two directions/one revised and one new rule;15new propositions/three E0001 revisions/15access transitions/five tensions;three new claims/three E0001 revisions. Totals143claimIDs/478formulations/679propositionIDs/170ruleIDs. All18forecasts/13historical attempts, M0.13/S0.14draft_noncurrent/UNTESTED and zero validated domains remain unchanged.
+
+Whole E0002 introducing commit only: LN9/9, accessibleSS18/18, Kakuyomu2/431, Narōcorrespondence0/290, available29/458. Next KAK-JP-E0003 remains unread at this endpoint. GateOPEN/runactive/continuous_sequential/startLN01/terminalfixedI1 remain intact. No quarter review is due at29; available115/458(E0088) and web108/431 remain future boundaries. All51mandatory source gaps/27discovery duties, Narō290, modality, G3reconciliation, required monographs/specialists/reconstruction/V1comparison/integrated synthesis/release remain required.
+
+This section/front matter own current state. E0002 local commitment, its future publication/final exact-head audit and protected-main closure remain distinct; E0001green does not certify this new unit.
 
 ## Current checkpoint after KAK-JP-E0001 — 2026-10-18
 
@@ -148,11 +166,11 @@ The owner authorizes continuous_sequential through frozen I1 and every required 
 | --- | --- |
 | Primary LN witnesses | V01–V09 exact acquired Japanese editions admitted for ordered reading; all source hashes, colophons and native locator manifests verified; conversion-history limits retained |
 | Accessible supplements | Frozen18available all complete; cumulativeSS18 CLOSED_ON_GREEN_MAIN/PR232. Both OFF evidence archives remain local. Other mandatory sources remain gaps. |
-| Web witnesses | Complete frozen431snapshot/88232locator packet reverified; E0001complete only in whole atomic commit, nextE0002unread. Narō290correspondence remains0; fresh workmetadata is not episode text. |
+| Web witnesses | Frozen431source packet intact; E0001–E0002 complete only through whole atomic commits; nextE0003unread. Narō0/290correspondence; no futureweb/V1. |
 | Publication extent | Official LN10 release is scheduled for October 20, 2026; it is absent from this acquired snapshot and outside the proposed V01–V09 run |
-| Literary coverage | LN9/9 and18accessibleSS preserved; webE0001p1–165 complete including paratext. New witness-specific room/knowledge/agency evidence; concrete LNopening differences retained. Available28/458 only whole commit. |
-| Longitudinal state | Four ledgers1.19/140claimIDs472forms664props169rules. Distinct web/historical/adult packets and all prior errata/source tensions retained; full G3reconciliation pending. |
-| Reconstruction | M0.13/S0.14noncurrent/UNTESTED,13attempts18forecasts unchanged; zero validated domains. E0001priorLN exposure disqualifies blind overlap scoring; required monographs/readiness remain pending. |
+| Literary coverage | LN9/9/accessibleSS18/18 retained; webE0002all111p with original seals, scoped agency/secrecy and real LNrevisions. Available29/458 only whole commit. |
+| Longitudinal state | Four ledgers1.20/143claimIDs478forms679props170rules. Current web endpoints, all earlier historical/adult packets, source tensions and explicit errata retained; G3pending. |
+| Reconstruction | M0.13/S0.14noncurrent/UNTESTED;18forecasts/13attempts unchanged, zero validated domains. LN-familiar overlap not blind validation; required studies/tests remain. |
 | Synthesis and V1 comparison | Responsibilities/dependencies defined; no specialist, monograph, comparison findings or integrated synthesis |
 | Historical authority | V1 is preserved historical analysis and provenance; it does not supply current V2 conclusions |
 
@@ -166,7 +184,7 @@ The [source inventory](00%20Frameworks%20and%20Methods/SHUUKURA_SOURCE_INVENTORY
 | Unavailable supplemental sources | I1names51unacquired identities plus27finite discovery duties. V05afterword/earlier author notices expose thirdV04 script and V07audio identity/retrieval debt in that finite discovery scope. | AfterLN09 resolve exact titles/adaptations/duplicates, acquire legitimate complete originals/scripts/recordings and verify modality; no preview/V1/access-bypass substitution |
 | Narō correspondence / discovery completeness | N0800GA episodes 1–290 remain an unperformed source-correspondence obligation; 27 frozen author-notice records require original-story holdings and duplication reconciliation. | Complete source access/correspondence and the bounded discovery audit after independent LN freezes; keep any genuine missing sources visible. |
 
-Narrative high-water marks: **LNV09;externalSSOFF-JP-SS02;KakE0001;Narō0/290** only through whole E0001commit. Available28/458;accessibleSS18/18 CLOSED_ON_GREEN_MAIN. Next **KAK-JP-E0002** unread; full architecture/source-gap responsibilities remain active.
+Narrative high-water marks: **LNV09;externalSSOFF-JP-SS02;KakE0002;Narō0/290** only through whole E0002commit. Available29/458; next **KAK-JP-E0003** unread. E0001publication CLOSED_ON_GREEN_MAIN; E0002publication separate. All I1architecture/source obligations remain active.
 
 ## Governing retrieval order
 

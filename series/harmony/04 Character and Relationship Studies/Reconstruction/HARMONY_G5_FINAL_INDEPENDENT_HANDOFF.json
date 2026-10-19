@@ -1,0 +1,116 @@
+{
+  "schema": "harmony-independent-g5-final-handoff/v1",
+  "reviewer": "/root/harmony_synthesis",
+  "current_status": "COMPLETE_FOR_ASSIGNED_SOURCE_AND_ACTUAL_EXECUTION_REVIEW; NO_CANONICAL_WRITES",
+  "files_stable_after_this_manifest": true,
+  "source_cases": 32,
+  "coverage_dispositions": 30,
+  "actual_turns": 96,
+  "distinct_sessions": 15,
+  "content_disposition": "Five unchanged originals and five targeted source-corrected tested v1.1 semantic successors accepted at inherited scopes; five selected v1.2 metadata-only bodies verified identical. Original failures preserved.",
+  "public_packet_rebuilt_byte_identical": [
+    "interactions.json",
+    "runtime_receipt.json"
+  ],
+  "context_rebuilt_identical_except": "Fresh observation timestamp only",
+  "historical_input_trees_verified": [
+    13,
+    15,
+    15
+  ],
+  "initial32body_preserved_sha256": "d9c610636634ecad44798768730bafe11eb97ea31244a5ee41c26218f03681de",
+  "parent_integration_boundary": "Parent adds repository frontmatter and explicit historical-stage/current-completed notice while preserving these review bodies; exact-head validation and protected-main publication remain separate.",
+  "files": [
+    {
+      "filename": "HARMONY_G5_INDEPENDENT_RETROSPECTIVE_REVIEW.md",
+      "bytes": 38646,
+      "sha256": "afe14186f21222a2412874430ffce2795b01aad8e1412304717bc32cbc62f740",
+      "public_safe_location_check": "NO_ABSOLUTE_LOCAL_PATHS",
+      "intended_parent_directory": "series/harmony/04 Character and Relationship Studies/Reconstruction"
+    },
+    {
+      "filename": "HARMONY_G5_INDEPENDENT_RETROSPECTIVE_REVIEW_INITIAL_32_CASES.md",
+      "bytes": 30201,
+      "sha256": "d9c610636634ecad44798768730bafe11eb97ea31244a5ee41c26218f03681de",
+      "public_safe_location_check": "NO_ABSOLUTE_LOCAL_PATHS",
+      "intended_parent_directory": "series/harmony/04 Character and Relationship Studies/Reconstruction"
+    },
+    {
+      "filename": "HARMONY_G5_INDEPENDENT_INTERACTIVE_REVIEW.md",
+      "bytes": 33281,
+      "sha256": "b862c6bab616a6828aa87649fc39a6aabf0fb9e800d3c014087468e683a6dfb6",
+      "public_safe_location_check": "NO_ABSOLUTE_LOCAL_PATHS",
+      "intended_parent_directory": "series/harmony/04 Character and Relationship Studies/Reconstruction"
+    },
+    {
+      "filename": "HARMONY_G5_SUCCESSOR_SOURCE_REVIEW.md",
+      "bytes": 7567,
+      "sha256": "34bfd10bb2c14f6bea9b3dd6afca45a7883541b52a0720017e3b4cf6604290d8",
+      "public_safe_location_check": "NO_ABSOLUTE_LOCAL_PATHS",
+      "intended_parent_directory": "series/harmony/04 Character and Relationship Studies/Reconstruction"
+    },
+    {
+      "filename": "independent-retrospective-case-judgments.json",
+      "bytes": 47407,
+      "sha256": "2d6a5547d2c351dc6a9a23c3c15e9d404ff53f012261ced41f6282df758b1841",
+      "public_safe_location_check": "NO_ABSOLUTE_LOCAL_PATHS",
+      "intended_parent_directory": "series/harmony/04 Character and Relationship Studies/Reconstruction"
+    },
+    {
+      "filename": "independent-freeze-verification.json",
+      "bytes": 2185,
+      "sha256": "5b4867217eee65f90450e435f84f60b14bb47a99c0671914ad9f9d1cf3f59d13",
+      "public_safe_location_check": "NO_ABSOLUTE_LOCAL_PATHS",
+      "intended_parent_directory": "series/harmony/04 Character and Relationship Studies/Reconstruction"
+    },
+    {
+      "filename": "independent-initial-runtime-integrity.json",
+      "bytes": 19460,
+      "sha256": "a7d7205e24428226a56a4b10636469764632dcc9ebe691df14665ae0d75f13de",
+      "public_safe_location_check": "NO_ABSOLUTE_LOCAL_PATHS",
+      "intended_parent_directory": "series/harmony/04 Character and Relationship Studies/Reconstruction"
+    },
+    {
+      "filename": "independent-additional-runtime-integrity.json",
+      "bytes": 26863,
+      "sha256": "9702367b6b394eb30f911c129d68a53347f2255b8a436cc3326f41dd3e4c2fef",
+      "public_safe_location_check": "NO_ABSOLUTE_LOCAL_PATHS",
+      "intended_parent_directory": "series/harmony/04 Character and Relationship Studies/Reconstruction"
+    },
+    {
+      "filename": "independent-successor-freeze-verification.json",
+      "bytes": 3369,
+      "sha256": "40739a17de5f51b93ef03b44e2f3b8f41aabb1ff7100fa59f3f991214954ad40",
+      "public_safe_location_check": "NO_ABSOLUTE_LOCAL_PATHS",
+      "intended_parent_directory": "series/harmony/04 Character and Relationship Studies/Reconstruction"
+    },
+    {
+      "filename": "independent-initial-conversation-judgments.json",
+      "bytes": 38180,
+      "sha256": "e914f799abc09f853b7f74d57b6b9d4daa1bcb602860f3782c072e7985b9ebe1",
+      "public_safe_location_check": "NO_ABSOLUTE_LOCAL_PATHS",
+      "intended_parent_directory": "series/harmony/04 Character and Relationship Studies/Reconstruction"
+    },
+    {
+      "filename": "independent-additional-conversation-judgments.json",
+      "bytes": 58464,
+      "sha256": "3e5b48bd5212ceb6cc40af16c29e8cbd93439b837b209bc2ef71601e072b9e10",
+      "public_safe_location_check": "NO_ABSOLUTE_LOCAL_PATHS",
+      "intended_parent_directory": "series/harmony/04 Character and Relationship Studies/Reconstruction"
+    },
+    {
+      "filename": "HARMONY_G5_ALL_ACTUAL_TURN_JUDGMENTS.json",
+      "bytes": 167162,
+      "sha256": "cb73ac0cd5b88f3e370b2ce246ed85484d390a6aa7cbf240202e5bdf4ee29802",
+      "public_safe_location_check": "NO_ABSOLUTE_LOCAL_PATHS",
+      "intended_parent_directory": "series/harmony/04 Character and Relationship Studies/Reconstruction"
+    },
+    {
+      "filename": "HARMONY_G5_INDEPENDENT_PUBLIC_PACKET_REVIEW.json",
+      "bytes": 11861,
+      "sha256": "245224fc9469b51866ed3607f091c92ca9202f200fa9705e4be64de68a4096c4",
+      "public_safe_location_check": "NO_ABSOLUTE_LOCAL_PATHS",
+      "intended_parent_directory": "series/harmony/04 Character and Relationship Studies/Reconstruction"
+    }
+  ]
+}
