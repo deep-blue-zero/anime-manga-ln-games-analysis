@@ -1423,3 +1423,43 @@ Preceding current-operation paragraph retained verbatim:
 
 
 Main2748P/bonus0P/nonfiction36P/total2784P; full ruby/residual/image scopes before uncoded seal 2026-10-18T23:45:55.735751+00:00;91selected premises/126native-joined voices/31unchanged-contract local assessments/26ten-ledger appends. Supplemental16accepted/15already publishedof19; mixed5published; global percentage null. Baseline`8cb0beaf1a17447785ebbb7d4402d0557035ff48`; exact containing publication/full gate pending. Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Yorimichi 02 whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.
+
+
+## Yorimichi 01 full gate and fresh authority reload — 2026-10-19T00:22:24.577033+00:00
+
+Preceding current-operation paragraph preserved verbatim:
+
+````markdown
+**Yorimichi 01 whole-edition analysis is accepted at its supplied-component scopes. The current operation is exact publication verification.** [Full reading](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI01_DEEP_READING.md), [component register](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI01_COMPONENT_REGISTER.json), [current qualifications](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI01_CURRENT_PRECISION_QUALIFICATIONS.json) and [local assessments](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI01_EXPLORATORY_LOCAL_ASSESSMENTS.json) cover all32text/26imagescopes. Main2748P/bonus0P/nonfiction36P, 91selected premises/126native voice fragments/31 unchanged-contract local assessments/26ten-ledger appends. Original frozen authority, four scores and14future blanks remain exact. Close the full publication gate and reload published authority before Yorimichi 02 separate admission. All remaining StageC/StageD/secondary/index/finalrelease work continues.
+````
+
+**Yorimichi 01 supplied-edition analysis is accepted at all32text/26imagescopes. The next operation is separate Yorimichi 02 whole-edition admission.** [Full reading](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI01_DEEP_READING.md), [current qualifications](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI01_CURRENT_PRECISION_QUALIFICATIONS.json), [local assessments](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI01_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_YORI01_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. Supplemental16of19whole editions and mixed5of5programs are accepted at stated scopes; the global narrative-component percentage remains unresolved. Original frozen authority, four scores and14future blanks remain exact. Yorimichi 02remains separately unadmitted; all remaining StageC/StageD/secondary/index/finalrelease work continues.
+
+
+Source`8d83c69b16cdd4b6272518fdccc1282504cc0714`/tree`8f80e0f341211f60f66cb0c492a82f5f75827a1b`;8630remote paths/35changedstreams exact. Source39179568640/job117829226492 and final39179964202/job117830416021 each352fulltests/zeroallfive non-success/selectionfalse; housekeeping39179927450/job117830309863NO_OP/exact finalsource dispatch; exact integrationstatus succeeds on actualsource. Fresh572project/66current/fourscores/14blankreload 2026-10-19T00:22:05.391148+00:00. All72historicalpins exact, current main`25150d631638264c0bf383fe88bf7d6c2385b8d7`reconciled without protected-main integration claim. Yorimichi 02whole unopened at this boundary; fullprogramcontinues.
+
+
+## Yorimichi 02 admission transition — 2026-10-19T00:22:52.109841+00:00
+
+The preceding current-operation paragraph is retained verbatim; the following admission snapshot has its own time and scope.
+
+````markdown
+**Yorimichi 01 supplied-edition analysis is accepted at all32text/26imagescopes. The next operation is separate Yorimichi 02 whole-edition admission.** [Full reading](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI01_DEEP_READING.md), [current qualifications](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI01_CURRENT_PRECISION_QUALIFICATIONS.json), [local assessments](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI01_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [gate receipt](09%20Audits%20and%20Manifests/KONOSUBA_YORI01_EXPANDED_PUBLICATION_GATE_CLOSE.json) control uptake. Supplemental16of19whole editions and mixed5of5programs are accepted at stated scopes; the global narrative-component percentage remains unresolved. Original frozen authority, four scores and14future blanks remain exact. Yorimichi 02remains separately unadmitted; all remaining StageC/StageD/secondary/index/finalrelease work continues.
+````
+
+**Current Yorimichi 02 separate admission — 2026-10-19T00:22:28.188019+00:00:** Exact local`Konosuba - Short Stories - Yorimichi 2.epub`,9172954bytes/SHA256`f7b9051a4f2bea3033eea528477d4cc80cfdebe214d51d0764a3cf1eef352baf`,freshCRC/JapaneseOPF/35text/28image structure verified after preceding fullgate/freshreload. Pre-body applicable informed family context sealed with original Dust01 questions retained as unchanged historical controls/original14blanks and declared known earlier/later exposure. No new story paragraph or image has been read at this admission snapshot; extraction is not completion. Actual whole-edition source-first readingactive/unaccepted; formal L/H/voice/local assessments wait for a complete uncodedseal. Fullremainingprogramcontinues; future sources remain separately unadmitted.
+
+
+
+## Yorimichi 02 analytical acceptance transition — 2026-10-19T01:01:13.963846+00:00
+
+Preceding current-operation paragraph retained verbatim:
+
+````markdown
+**Yorimichi 02 whole-edition source-first reading is active and not yet accepted.** Exact local `Konosuba - Short Stories - Yorimichi 2.epub` has 35textual units and 28native images. Pre-body informed exposure, applicable family model contracts and working inquiries are sealed; unchanged Dust01 questions remain historical controls. Extraction is not completion; actual full body/ruby/residual/image reading and a complete uncoded seal precede formal outcomes. Original frozen controls, four scores and14blank future fields remain unchanged. See the component matrix and continuous audit for exact identities, dated snapshots and gate evidence. Fullremainingprogramcontinues; later sources remain separately unadmitted.
+````
+
+**Yorimichi 02 whole-edition analysis is accepted at its supplied-component scopes. The current operation is exact publication verification.** [Full reading](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI02_DEEP_READING.md), [component register](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI02_COMPONENT_REGISTER.json), [current qualifications](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI02_CURRENT_PRECISION_QUALIFICATIONS.json) and [local assessments](10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI02_EXPLORATORY_LOCAL_ASSESSMENTS.json) cover all35text/28imagescopes. Main2675P/bonus0P/nonfiction71P, 86selected premises/83native voice fragments/31 unchanged-contract local assessments/23ten-ledger appends. Original frozen authority, four scores and14future blanks remain exact. Close the full publication gate and reload published authority before Yorimichi 03 separate admission. All remaining StageC/StageD/secondary/index/finalrelease work continues.
+
+
+Main2675P/bonus0P/nonfiction71P/total2746P; full ruby/residual/image scopes before uncoded seal 2026-10-19T00:45:32.454836+00:00;86selected premises/83native-joined voices/31unchanged-contract local assessments/23ten-ledger appends. Supplemental17accepted/16already publishedof19; mixed5published; global percentage null. Baseline`599fe8823ff0768ad01fba8800e3ec4656c1408a`; exact containing publication/full gate pending. Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Yorimichi 03 whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.

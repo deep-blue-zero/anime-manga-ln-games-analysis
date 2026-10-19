@@ -9781,7 +9781,7 @@
       "analytical_completion": "ACCEPTED_FROZEN_R1_PRINCIPAL_VALIDATION_ONLY; FULL_EXPANDED_LITERARY_AND_EXCLUDED_COMPONENT_PROGRAM_OPEN",
       "expanded_stage_C": {
         "prior_pre_admission_snapshot": {},
-        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_PUBLISHED_FULL_GATE_CLOSED_AT_STATED_COMPONENT_SCOPES",
         "admission_utc": "2026-10-18T23:10:20.533665+00:00",
         "admission_sha256": "219d56c9c9998243985f891852933e87b2a32ee94037dc4b8c2143c086988513",
         "native_bytes": 2395940,
@@ -9795,7 +9795,7 @@
         "actual_new_images_viewed_at_admission": 0,
         "structural_extraction_is_not_literary_completion": true,
         "formal_codes_or_question_outcomes_assigned_at_admission": false,
-        "remaining": "Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Yorimichi 02 whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.",
+        "remaining": "Supplied-edition literary/component scopes and exact publication gate closed; expanded synthesis/StageD/finalrelease remain.",
         "reader_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05,DUST-06,DUST-07,DUST-CONT,EXP-01,EXP-02,EXP-03,CONTEXP-01,CONTEXP-02,MASK,FD. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim.",
         "initial_separate_admission_snapshot": {
           "prior_pre_admission_snapshot": {},
@@ -9835,7 +9835,13 @@
         "receiving_record": "10 Expanded Corpus/Yorimichi/KONOSUBA_YORI01_RECEIVING_AND_PROVENANCE.json",
         "current_qualifications": "10 Expanded Corpus/Yorimichi/KONOSUBA_YORI01_CURRENT_PRECISION_QUALIFICATIONS.json",
         "current_edition_reconciliation": "この素晴らしい世界に祝福を！ よりみち！. Author暁なつめ;illustration三嶋くろね;design百足屋ユウコ＋モンマ蚕（ムシカゴグラフィクス）;角川スニーカー文庫/KADOKAWA;publisher三坂泰二. Electronic and underlying print first edition2020-01-01/ver.002;copyrightNatsumeAkatsuki/KuroneMishima2020. All native components dispositioned; original admission retained.",
-        "model_scope": "Same continuing informed root actually read all32textualunits2784P/26images before seal, authored full17responsibilityreport,91boundedcomicpremises,126individualnativejoinedvoicearguments,31principal/8partyexact-contractcomparisonsand4typedchecks,ten-ledgerdecisionsandprecisionqualifications. Prior accepted YORI01principaltrial/all39dispositions remain exact, no new score or independent pass."
+        "model_scope": "Same continuing informed root actually read all32textualunits2784P/26images before seal, authored full17responsibilityreport,91boundedcomicpremises,126individualnativejoinedvoicearguments,31principal/8partyexact-contractcomparisonsand4typedchecks,ten-ledgerdecisionsandprecisionqualifications. Prior accepted YORI01principaltrial/all39dispositions remain exact, no new score or independent pass.",
+        "authorship_publication_state": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+        "publication_gate": {
+          "source_commit": "8d83c69b16cdd4b6272518fdccc1282504cc0714",
+          "closed_utc": "2026-10-19T00:21:54.092080+00:00",
+          "receipt": "09 Audits and Manifests/KONOSUBA_YORI01_EXPANDED_PUBLICATION_GATE_CLOSE.json"
+        }
       }
     },
     {
@@ -10081,7 +10087,65 @@
           "required_action": "Map exact component boundaries, locators, authorship and treatment during stage-authorized source inspection."
         }
       ],
-      "analytical_completion": "NOT_ESTABLISHED_BY_METADATA_MATRIX"
+      "analytical_completion": "NOT_ESTABLISHED_BY_METADATA_MATRIX",
+      "expanded_stage_C": {
+        "prior_pre_admission_snapshot": {},
+        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+        "admission_utc": "2026-10-19T00:22:28.188019+00:00",
+        "admission_sha256": "f3ede4239d7ca6a6c8335f815af412867c501b407c43506b2cb4e3c6f6eb1154",
+        "native_bytes": 9172954,
+        "native_sha256": "f7b9051a4f2bea3033eea528477d4cc80cfdebe214d51d0764a3cf1eef352baf",
+        "preceding_full_gate_source": "8d83c69b16cdd4b6272518fdccc1282504cc0714",
+        "preceding_fresh_reload_sha256": "02bc69053e9557a27f5031693f50bc2a706ee0c2547e2f802e0fd652501b14cd",
+        "native_text_components": 35,
+        "native_images": 28,
+        "pre_body_context_seal_sha256": "d32d2aca3c257ecdb4802b5cc2c171f09609821f86a83e888050c531b712caec",
+        "actual_new_story_P_read_at_admission": 0,
+        "actual_new_images_viewed_at_admission": 0,
+        "structural_extraction_is_not_literary_completion": true,
+        "formal_codes_or_question_outcomes_assigned_at_admission": false,
+        "remaining": "Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Yorimichi 03 whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.",
+        "reader_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05,DUST-06,DUST-07,DUST-CONT,EXP-01,EXP-02,EXP-03,CONTEXP-01,CONTEXP-02,MASK,FD,YORI-01. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim.",
+        "initial_separate_admission_snapshot": {
+          "prior_pre_admission_snapshot": {},
+          "status": "SEPARATELY_ADMITTED_WHOLE_EDITION_SOURCE_FIRST_READING_ACTIVE_NOT_ACCEPTED",
+          "admission_utc": "2026-10-19T00:22:28.188019+00:00",
+          "admission_sha256": "f3ede4239d7ca6a6c8335f815af412867c501b407c43506b2cb4e3c6f6eb1154",
+          "native_bytes": 9172954,
+          "native_sha256": "f7b9051a4f2bea3033eea528477d4cc80cfdebe214d51d0764a3cf1eef352baf",
+          "preceding_full_gate_source": "8d83c69b16cdd4b6272518fdccc1282504cc0714",
+          "preceding_fresh_reload_sha256": "02bc69053e9557a27f5031693f50bc2a706ee0c2547e2f802e0fd652501b14cd",
+          "native_text_components": 35,
+          "native_images": 28,
+          "pre_body_context_seal_sha256": "d32d2aca3c257ecdb4802b5cc2c171f09609821f86a83e888050c531b712caec",
+          "actual_new_story_P_read_at_admission": 0,
+          "actual_new_images_viewed_at_admission": 0,
+          "structural_extraction_is_not_literary_completion": true,
+          "formal_codes_or_question_outcomes_assigned_at_admission": false,
+          "remaining": "All actual eligible bodies/ruby/residuals/images; complete uncoded seal; formal17responsibilities/ten-ledger/component dispositions/qualified same-root receiving and full publication gate.",
+          "reader_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05,DUST-06,DUST-07,DUST-CONT,EXP-01,EXP-02,EXP-03,CONTEXP-01,CONTEXP-02,MASK,FD,YORI-01. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim."
+        },
+        "accepted_utc": "2026-10-19T01:00:35.578390+00:00",
+        "actual_reading": "All35textual components, their actual individual narrative/paratext roles, full ruby/navigation/residuals and28native images actually read/viewed before full uncoded seal/formal assignment. Any image-only prose, comic or bonus has its own component identity and stated scope.",
+        "principal_P_slots": 2675,
+        "other_P_slots": 71,
+        "separate_bonus_narrative": false,
+        "bonus_P_slots": 0,
+        "nonfiction_P_slots": 71,
+        "individually_identified_bonus_narrative_groups": [],
+        "uncoded_seal_utc": "2026-10-19T00:45:32.454836+00:00",
+        "uncoded_seal_sha256": "b2e09e16b1ad40808cddc3590fe0269e7fa26b639003da8ab78c2cab2029b0f9",
+        "selected_whole_premises_not_census": 86,
+        "native_verified_voice_witnesses": 83,
+        "unchanged_question_local_assessments": 31,
+        "ten_ledger_appends": 23,
+        "reading_path": "10 Expanded Corpus/Yorimichi/KONOSUBA_YORI02_DEEP_READING.md",
+        "component_register": "10 Expanded Corpus/Yorimichi/KONOSUBA_YORI02_COMPONENT_REGISTER.json",
+        "receiving_record": "10 Expanded Corpus/Yorimichi/KONOSUBA_YORI02_RECEIVING_AND_PROVENANCE.json",
+        "current_qualifications": "10 Expanded Corpus/Yorimichi/KONOSUBA_YORI02_CURRENT_PRECISION_QUALIFICATIONS.json",
+        "current_edition_reconciliation": "この素晴らしい世界に祝福を！ よりみち２回目！. Author暁なつめ;illustration三嶋くろね;角川スニーカー文庫/KADOKAWA;publisher青柳昌行. Electronic and underlying print first edition2020-11-01/ver.001;copyrightNatsumeAkatsuki/KuroneMishima2020. All native components dispositioned; original admission retained.",
+        "model_scope": "Same continuing informed root actually read all35textresources2746P/28images before uncodedseal, then authored17responsibilities,86boundedcomicpremises,83individualnativejoinedvoicearguments,31principal/8partyexact-contractcomparisonsand4typedchecks,ten-ledgerdecisionsandprecisionqualifications. No new holdout or independent score. All original frozen model/validation history unchanged."
+      }
     },
     {
       "source_id": "YORI-03",
@@ -13394,7 +13458,7 @@
       "disposition": "EIGHT_PRINCIPAL_MEMBERS_READ_COMPLETE_AND_SOURCE_LOCAL_VALIDATION_ACCEPTED; FULL_EXPANDED_LITERARY_AND_EXCLUDED_COMPONENTS_OPEN",
       "expanded_stage_C": {
         "prior_pre_admission_snapshot": {},
-        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_PUBLISHED_FULL_GATE_CLOSED_AT_STATED_COMPONENT_SCOPES",
         "admission_utc": "2026-10-18T23:10:20.533665+00:00",
         "admission_sha256": "219d56c9c9998243985f891852933e87b2a32ee94037dc4b8c2143c086988513",
         "native_bytes": 2395940,
@@ -13408,7 +13472,7 @@
         "actual_new_images_viewed_at_admission": 0,
         "structural_extraction_is_not_literary_completion": true,
         "formal_codes_or_question_outcomes_assigned_at_admission": false,
-        "remaining": "Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Yorimichi 02 whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.",
+        "remaining": "Supplied-edition literary/component scopes and exact publication gate closed; expanded synthesis/StageD/finalrelease remain.",
         "reader_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05,DUST-06,DUST-07,DUST-CONT,EXP-01,EXP-02,EXP-03,CONTEXP-01,CONTEXP-02,MASK,FD. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim.",
         "initial_separate_admission_snapshot": {
           "prior_pre_admission_snapshot": {},
@@ -13448,7 +13512,13 @@
         "receiving_record": "10 Expanded Corpus/Yorimichi/KONOSUBA_YORI01_RECEIVING_AND_PROVENANCE.json",
         "current_qualifications": "10 Expanded Corpus/Yorimichi/KONOSUBA_YORI01_CURRENT_PRECISION_QUALIFICATIONS.json",
         "current_edition_reconciliation": "この素晴らしい世界に祝福を！ よりみち！. Author暁なつめ;illustration三嶋くろね;design百足屋ユウコ＋モンマ蚕（ムシカゴグラフィクス）;角川スニーカー文庫/KADOKAWA;publisher三坂泰二. Electronic and underlying print first edition2020-01-01/ver.002;copyrightNatsumeAkatsuki/KuroneMishima2020. All native components dispositioned; original admission retained.",
-        "model_scope": "Same continuing informed root actually read all32textualunits2784P/26images before seal, authored full17responsibilityreport,91boundedcomicpremises,126individualnativejoinedvoicearguments,31principal/8partyexact-contractcomparisonsand4typedchecks,ten-ledgerdecisionsandprecisionqualifications. Prior accepted YORI01principaltrial/all39dispositions remain exact, no new score or independent pass."
+        "model_scope": "Same continuing informed root actually read all32textualunits2784P/26images before seal, authored full17responsibilityreport,91boundedcomicpremises,126individualnativejoinedvoicearguments,31principal/8partyexact-contractcomparisonsand4typedchecks,ten-ledgerdecisionsandprecisionqualifications. Prior accepted YORI01principaltrial/all39dispositions remain exact, no new score or independent pass.",
+        "authorship_publication_state": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+        "publication_gate": {
+          "source_commit": "8d83c69b16cdd4b6272518fdccc1282504cc0714",
+          "closed_utc": "2026-10-19T00:21:54.092080+00:00",
+          "receipt": "09 Audits and Manifests/KONOSUBA_YORI01_EXPANDED_PUBLICATION_GATE_CLOSE.json"
+        }
       }
     },
     {
@@ -13460,7 +13530,65 @@
         "embedded_bonus_fiction"
       ],
       "admission": "NOT_ADMITTED_BY_THIS_MATRIX",
-      "disposition": "NOT_ESTABLISHED_BY_METADATA_MATRIX"
+      "disposition": "NOT_ESTABLISHED_BY_METADATA_MATRIX",
+      "expanded_stage_C": {
+        "prior_pre_admission_snapshot": {},
+        "status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+        "admission_utc": "2026-10-19T00:22:28.188019+00:00",
+        "admission_sha256": "f3ede4239d7ca6a6c8335f815af412867c501b407c43506b2cb4e3c6f6eb1154",
+        "native_bytes": 9172954,
+        "native_sha256": "f7b9051a4f2bea3033eea528477d4cc80cfdebe214d51d0764a3cf1eef352baf",
+        "preceding_full_gate_source": "8d83c69b16cdd4b6272518fdccc1282504cc0714",
+        "preceding_fresh_reload_sha256": "02bc69053e9557a27f5031693f50bc2a706ee0c2547e2f802e0fd652501b14cd",
+        "native_text_components": 35,
+        "native_images": 28,
+        "pre_body_context_seal_sha256": "d32d2aca3c257ecdb4802b5cc2c171f09609821f86a83e888050c531b712caec",
+        "actual_new_story_P_read_at_admission": 0,
+        "actual_new_images_viewed_at_admission": 0,
+        "structural_extraction_is_not_literary_completion": true,
+        "formal_codes_or_question_outcomes_assigned_at_admission": false,
+        "remaining": "Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Yorimichi 03 whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.",
+        "reader_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05,DUST-06,DUST-07,DUST-CONT,EXP-01,EXP-02,EXP-03,CONTEXP-01,CONTEXP-02,MASK,FD,YORI-01. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim.",
+        "initial_separate_admission_snapshot": {
+          "prior_pre_admission_snapshot": {},
+          "status": "SEPARATELY_ADMITTED_WHOLE_EDITION_SOURCE_FIRST_READING_ACTIVE_NOT_ACCEPTED",
+          "admission_utc": "2026-10-19T00:22:28.188019+00:00",
+          "admission_sha256": "f3ede4239d7ca6a6c8335f815af412867c501b407c43506b2cb4e3c6f6eb1154",
+          "native_bytes": 9172954,
+          "native_sha256": "f7b9051a4f2bea3033eea528477d4cc80cfdebe214d51d0764a3cf1eef352baf",
+          "preceding_full_gate_source": "8d83c69b16cdd4b6272518fdccc1282504cc0714",
+          "preceding_fresh_reload_sha256": "02bc69053e9557a27f5031693f50bc2a706ee0c2547e2f802e0fd652501b14cd",
+          "native_text_components": 35,
+          "native_images": 28,
+          "pre_body_context_seal_sha256": "d32d2aca3c257ecdb4802b5cc2c171f09609821f86a83e888050c531b712caec",
+          "actual_new_story_P_read_at_admission": 0,
+          "actual_new_images_viewed_at_admission": 0,
+          "structural_extraction_is_not_literary_completion": true,
+          "formal_codes_or_question_outcomes_assigned_at_admission": false,
+          "remaining": "All actual eligible bodies/ruby/residuals/images; complete uncoded seal; formal17responsibilities/ten-ledger/component dispositions/qualified same-root receiving and full publication gate.",
+          "reader_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05,DUST-06,DUST-07,DUST-CONT,EXP-01,EXP-02,EXP-03,CONTEXP-01,CONTEXP-02,MASK,FD,YORI-01. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim."
+        },
+        "accepted_utc": "2026-10-19T01:00:35.578390+00:00",
+        "actual_reading": "All35textual components, their actual individual narrative/paratext roles, full ruby/navigation/residuals and28native images actually read/viewed before full uncoded seal/formal assignment. Any image-only prose, comic or bonus has its own component identity and stated scope.",
+        "principal_P_slots": 2675,
+        "other_P_slots": 71,
+        "separate_bonus_narrative": false,
+        "bonus_P_slots": 0,
+        "nonfiction_P_slots": 71,
+        "individually_identified_bonus_narrative_groups": [],
+        "uncoded_seal_utc": "2026-10-19T00:45:32.454836+00:00",
+        "uncoded_seal_sha256": "b2e09e16b1ad40808cddc3590fe0269e7fa26b639003da8ab78c2cab2029b0f9",
+        "selected_whole_premises_not_census": 86,
+        "native_verified_voice_witnesses": 83,
+        "unchanged_question_local_assessments": 31,
+        "ten_ledger_appends": 23,
+        "reading_path": "10 Expanded Corpus/Yorimichi/KONOSUBA_YORI02_DEEP_READING.md",
+        "component_register": "10 Expanded Corpus/Yorimichi/KONOSUBA_YORI02_COMPONENT_REGISTER.json",
+        "receiving_record": "10 Expanded Corpus/Yorimichi/KONOSUBA_YORI02_RECEIVING_AND_PROVENANCE.json",
+        "current_qualifications": "10 Expanded Corpus/Yorimichi/KONOSUBA_YORI02_CURRENT_PRECISION_QUALIFICATIONS.json",
+        "current_edition_reconciliation": "この素晴らしい世界に祝福を！ よりみち２回目！. Author暁なつめ;illustration三嶋くろね;角川スニーカー文庫/KADOKAWA;publisher青柳昌行. Electronic and underlying print first edition2020-11-01/ver.001;copyrightNatsumeAkatsuki/KuroneMishima2020. All native components dispositioned; original admission retained.",
+        "model_scope": "Same continuing informed root actually read all35textresources2746P/28images before uncodedseal, then authored17responsibilities,86boundedcomicpremises,83individualnativejoinedvoicearguments,31principal/8partyexact-contractcomparisonsand4typedchecks,ten-ledgerdecisionsandprecisionqualifications. No new holdout or independent score. All original frozen model/validation history unchanged."
+      }
     },
     {
       "source_id": "YORI-03",
