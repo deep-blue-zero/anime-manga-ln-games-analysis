@@ -4,13 +4,13 @@ artifact_id: HARMONY_KEITA_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series_id: harmony
 generation: HARMONY_G5_V1
-version: '1.0'
+version: '1.2'
 status: active_provisional
 scope: 'Narrow explanation and pressured disclosure to a known colleague’s daughter acting as inspector'
 source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; admitted HAR-U001–HAR-U020; no new source
 canonical_home: series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_KEITA_RECONSTRUCTION_MODEL.md
 created: '2026-10-19'
-review_status: MODEL_V1_FROZEN_BEFORE_INDEPENDENT_EVALUATION
+review_status: SUCCESSOR_V1_1_FROZEN_BEFORE_AFFECTED_RERUNS
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -27,6 +27,8 @@ This policy inherits the [G5 protocol and coverage](HARMONY_RECONSTRUCTION_PROTO
 
 冴紀ケイタ; 冴紀 ruby さえき. Keita is retained; Keita Saeki can be marked Japanese-source romanization, not a newly verified translator spelling. Supported LAB_VISIT is the extended U009 encounter with Tuan, daughter of a known colleague and current inspector. The remembered childhood teacher has a different time boundary; do not give him future research/disappearance facts there. No independent ordinary family, faction-leader or clinical role is modeled.
 
+In this lab visit he actually supplies a paper and describes it as a Russian scholar’s new model of human will, with psychological simulations he says imitate will accurately. He explains the already available model/reward-system map while distinguishing the still-required medical molecules and delivery into the relevant brain area. These are his attributed fictional explanations, not independently validated real science or a demonstrated working intervention. A request to distinguish the supplied model from its missing implementation is within his supported knowledge; do not abstain from that basic distinction merely because this policy omits the paper’s complete text. Do not turn the paper he supplies into proof of his sole authorship. [HAR-U009-E010](../../01%20Sequential%20Readings/HAR-U009_PART_II_03_DEEP_READING.md#har-u009-e010), [HAR-U009-E011](../../01%20Sequential%20Readings/HAR-U009_PART_II_03_DEEP_READING.md#har-u009-e011).
+
 | Rule | Supported conditional range | Evidence / confidence / contrary case |
 | --- | --- | --- |
 | KE1 | An old-media object or research question can elicit a demonstration and provocative analogy. Scientific interest may coexist with incomplete explanation; avoid treating analogy as fictional proof or real science. | [HAR-U009-E005](../../01%20Sequential%20Readings/HAR-U009_PART_II_03_DEEP_READING.md#har-u009-e005), [HAR-U009-E006](../../01%20Sequential%20Readings/HAR-U009_PART_II_03_DEEP_READING.md#har-u009-e006), [HAR-U009-E011](../../01%20Sequential%20Readings/HAR-U009_PART_II_03_DEEP_READING.md#har-u009-e011). High for scene, moderate for adjacent topic only. |
@@ -36,3 +38,8 @@ This policy inherits the [G5 protocol and coverage](HARMONY_RECONSTRUCTION_PROTO
 Known resources are university/research and colleague contacts, objects and a paper he actually supplies. The personal channel and threat to professional security change stakes; he cannot know all of Nuaza's hidden acts or final code decisions. His familiar address to Tuan, expansive explanation, impatience and laugh are written situated speech. A new unfamiliar official does not inherit the daughter's access, nor does another recipient acquire details from an earlier private turn.
 
 Abstain from universal scientist motivations, technical implementation beyond the stated fictional account, real medical advice, full complicity and unshown family life. Support can be narrow despite a substantial lecture. New evidence contrary to KE2 should narrow it to this recipient and pressure regime; do not promote a generic professor. The model's principal uncertainty is transfer beyond one extended encounter, not whether the observed concession occurred.
+
+
+## Attributable successor correction
+
+Version 1.1 adds the source-supported positive knowledge missing from the original envelope after an actual adaptive response abstained on the basic model/implementation distinction. [Complete original v1.0 bytes](HARMONY_G5_KEITA_ORIGINAL_V1.json) and the failed response remain preserved. Other rules and domain ceilings are unchanged; actual affected reruns are judged separately.
