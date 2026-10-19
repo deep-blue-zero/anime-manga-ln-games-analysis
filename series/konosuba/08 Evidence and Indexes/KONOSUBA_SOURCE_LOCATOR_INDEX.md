@@ -1289,3 +1289,44 @@ Main2900P/bonus0P/nonfiction52P/total2952P; full ruby/residual/image scopes befo
 | MAIN-03-U030 | item/xhtml/p-colophon.xhtml / 17 | SUPPLIED_EDITION_COLOPHON;newprincipalcredit0 |
 | MAIN-03-U031 | item/xhtml/p-bookwalker.xhtml / 1 | BOOKWALKER_BRAND_WRAPPER;newprincipalcredit0 |
 | MAIN-03-U032 | item/navigation-documents.xhtml / 0 | OFF_SPINE_NAVIGATION;newprincipalcredit0 |
+
+
+## MAIN-04 excluded-component accepted routes — 2026-10-19T08:38:07.954302+00:00
+
+[Register](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V04_EXCLUDED_COMPONENT_REGISTER.json), [reading](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V04_EXCLUDED_DEEP_READING.md), [voice](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V04_EXCLUDED_VOICE_REGISTER.md), [comparisons](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V04_EXCLUDED_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [qualifications](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V04_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) govern new/inherited boundaries. All24newresources144P/31images actually received;9acceptedprincipal members3135P retainedexact/newprincipalcredit0. One67Pbonus,26Pcreatorafterword and51otherwrapper/credit/navigation slots; one embedded welcome composition and one two-page imagined sequence identified. Staged frontmatter/profile/promotion separate. These slot counts are not a narrative denominator. Selected12premises/32voicefragments,31principal+8party informedcomparisons/fourtypedconstraints,11appends across tenledgers/28qualifications. Supplemental19/mixed5fullgates closed;MAIN01/MAIN02/MAIN03excludedfullgates remain closed;MAIN04analysis accepted/publicationpending;other13mainexcluded programs remain;globalcomponentpercentage null.
+
+| Unit | Native member / slots | Disposition |
+|---|---|---|
+| MAIN-04-U001 | item/xhtml/p-cover.xhtml / 0 | COVER_WRAPPER;newprincipalcredit0 |
+| MAIN-04-U002 | item/xhtml/p-fmatter-001.xhtml / 0 | COLOR_TRAVEL_AND_SHOPKEEPING_DIALOGUE_WRAPPER;newprincipalcredit0 |
+| MAIN-04-U003 | item/xhtml/p-fmatter-002.xhtml / 0 | COLOR_WIZ_DOLL_DIALOGUE_WRAPPER;newprincipalcredit0 |
+| MAIN-04-U004 | item/xhtml/p-fmatter-003.xhtml / 0 | COLOR_MEGUMIN_ADVENTURE_IMAGINING_WRAPPER;newprincipalcredit0 |
+| MAIN-04-U005 | item/xhtml/p-fmatter-004.xhtml / 0 | COLOR_DARKNESS_RELIGIOUS_REFUSAL_WRAPPER;newprincipalcredit0 |
+| MAIN-04-U006 | item/xhtml/p-fmatter-005.xhtml / 0 | COLOR_AQUA_ADMIRATION_WISH_WRAPPER;newprincipalcredit0 |
+| MAIN-04-U007 | item/xhtml/p-fmatter-006.xhtml / 0 | COLOR_KAZUMA_INTRUSIVE_IMAGINING_WRAPPER;newprincipalcredit0 |
+| MAIN-04-U008 | item/xhtml/p-fmatter-007.xhtml / 0 | COLOR_YUNYUN_COMPANY_WISH_AND_EXPLICIT_IMAGINATION_FRAME;newprincipalcredit0 |
+| MAIN-04-U009 | item/xhtml/p-titlepage.xhtml / 5 | TITLE_IMPRINT;newprincipalcredit0 |
+| MAIN-04-U010 | item/xhtml/p-caution.xhtml / 6 | ELECTRONIC_LAYOUT_RIGHTS_NOTICE;newprincipalcredit0 |
+| MAIN-04-U011 | item/xhtml/p-toc-001.xhtml / 0 | RASTER_TOC_WRAPPER;newprincipalcredit0 |
+| MAIN-04-U012 | item/xhtml/p-toc-002.xhtml / 12 | TEXTUAL_TOC_INCLUDING_BONUS;newprincipalcredit0 |
+| MAIN-04-U013 | item/xhtml/p-001.xhtml / 0 | RASTER_EDITION_CHARACTER_PROFILE;newprincipalcredit0 |
+| MAIN-04-U014 | item/xhtml/p-002.xhtml / 21 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-04-U015 | item/xhtml/p-003.xhtml / 505 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-04-U016 | item/xhtml/p-004.xhtml / 714 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-04-U017 | item/xhtml/p-005.xhtml / 34 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-04-U018 | item/xhtml/p-006.xhtml / 0 | IMAGE_ONLY_EMBEDDED_WELCOME_COMPOSITION;newprincipalcredit0 |
+| MAIN-04-U019 | item/xhtml/p-007.xhtml / 406 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-04-U020 | item/xhtml/p-008.xhtml / 0 | IMAGE_ONLY_IMAGINED_SEQUENCE_FIRST_PAGE;newprincipalcredit0 |
+| MAIN-04-U021 | item/xhtml/p-009.xhtml / 0 | IMAGE_ONLY_IMAGINED_SEQUENCE_SECOND_PAGE;newprincipalcredit0 |
+| MAIN-04-U022 | item/xhtml/p-010.xhtml / 218 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-04-U023 | item/xhtml/p-011.xhtml / 466 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-04-U024 | item/xhtml/p-012.xhtml / 677 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-04-U025 | item/xhtml/p-013.xhtml / 94 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-04-U026 | item/xhtml/p-014.xhtml / 26 | CREATOR_AFTERWORD_NOT_NEW_FICTION;newprincipalcredit0 |
+| MAIN-04-U027 | item/xhtml/p-015.xhtml / 0 | RASTER_NEXT_VOLUME_PROMOTION;newprincipalcredit0 |
+| MAIN-04-U028 | item/xhtml/p-016.xhtml / 5 | ELECTRONIC_BONUS_HEADING;newprincipalcredit0 |
+| MAIN-04-U029 | item/xhtml/p-017.xhtml / 67 | COMPLETE_SEPARATE_ELECTRONIC_BONUS_STORY;newprincipalcredit0 |
+| MAIN-04-U030 | item/xhtml/p-018.xhtml / 6 | ILLUSTRATION_AND_DESIGN_CREDITS;newprincipalcredit0 |
+| MAIN-04-U031 | item/xhtml/p-colophon.xhtml / 17 | COLOPHON;newprincipalcredit0 |
+| MAIN-04-U032 | item/xhtml/p-bookwalker.xhtml / 0 | BOOKWALKER_LOGO_WRAPPER;newprincipalcredit0 |
+| MAIN-04-U033 | item/navigation-documents.xhtml / 0 | NAVIGATION_RESIDUAL;newprincipalcredit0 |

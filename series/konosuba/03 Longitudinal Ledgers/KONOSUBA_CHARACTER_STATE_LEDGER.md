@@ -1445,3 +1445,12 @@ New24resources180P/30images actually read/viewed; accepted8principal members3001
 | ID | Subjects / native route | Observation | Implication | Limit |
 |---|---|---|---|---|
 | M03EX-LD01 | Kazuma/Megumin/Darkness/Aqua/Chris, with actual actors and evidence planes individually fixed; U028P1-30 | D's serious conditional spirit-help aim coexists with local pain preferences; K actually helps while retaining his separate event goal. | Neither all-masochism nor all-selfishness fits; actual reluctance and genuine help remain separately attributed. | New bonus and declared paratext; retained-principal joins are audits of existing events, not new independent tests. Original ledger prefixes, controls and scores stay exact. |
+
+
+## Main 04 excluded-component received observations — 2026-10-19T08:38:07.954302+00:00
+
+New24resources144P/31images actually read/viewed; accepted9principal members3135P retained withzero newprincipal reading credit. Containing publication/full gate pending. [Reading](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V04_EXCLUDED_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V04_EXCLUDED_LEDGER_APPEND_DECISIONS.json), [comparisons](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V04_EXCLUDED_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [qualifications](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V04_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) control uptake. Same informed root; selected12premises/32fragments are not a census, independent experiment or new blind scores. Frozen66/72/fourscores/14originalDustblanks exact.
+
+| ID | Subjects / native route | Observation | Implication | Limit |
+|---|---|---|---|---|
+| M04EX-LD01 | Kazuma/Aqua/Wiz/other hired workers; staged or imagined actors separately typed; U029P6-28/54-66 | Wiz corrects attributed pride, volunteers for a scoped task and later protests a sacred attack; Aqua's manual competence coexists with harmful target framing. | Volunteering and fear have distinct objects; neither generic timidity nor limitless compliance follows. | New bonus and declared paratext; retained-principal joins are audits of existing events, not new independent tests. Original ledger prefixes, controls and scores stay exact. |
