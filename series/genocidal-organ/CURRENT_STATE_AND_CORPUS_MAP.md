@@ -5,13 +5,13 @@ artifact_type: corpus_map
 series: Genocidal Organ / 虐殺器官
 series_id: genocidal-organ
 generation: GENOCIDAL_ORGAN_BOOTSTRAP_V1
-version: '0.39'
+version: '0.40'
 status: active_provisional
-scope: Completed original-Japanese G0–G5 and independent G6 release audit; release candidate ready pending exact publication and protected main integration
+scope: Completed original-Japanese G0–G6 release integrated through protected main and successful explicit post-merge full audit; bounded post-G6 interactive extension separately authorized
 source_boundary: GO-JP-EPUB-001 complete; GO-U001–028 through natural epilogue40/41; all44spine occurrences explicitly disposed
 canonical_home: series/genocidal-organ/CURRENT_STATE_AND_CORPUS_MAP.md
 created: '2026-10-16'
-review_status: G6_RELEASE_CANDIDATE_READY_PENDING_MAIN
+review_status: G6_RELEASE_COMPLETED_MAIN_VERIFIED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -86,15 +86,15 @@ retrospective_g4_g6_execution:
   authorization: OWNER_2026_10_18_EXECUTE_G4_G6_MULTI_AGENT_KIT
   admitted_boundary: GO_U001_THROUGH_GO_U028_ALL44_SAME_WITNESS
   narrative_admission: NONE
-  g4: INDEPENDENTLY_ACCEPTED_SOURCE_BRANCH_PUBLISHED_FULL_AUDIT_COMPLETE
-  g5: INDEPENDENTLY_ACCEPTED_SCOPED_RETROSPECTIVE_ONLY_SOURCE_BRANCH_PUBLISHED_FULL_AUDIT_COMPLETE
+  g4: INDEPENDENTLY_ACCEPTED_MAIN_INTEGRATED_POSTMERGE_FULL_AUDIT_COMPLETE
+  g5: INDEPENDENTLY_ACCEPTED_SCOPED_RETROSPECTIVE_ONLY_MAIN_INTEGRATED_POSTMERGE_FULL_AUDIT_COMPLETE
   accepted_model_count: 8
   subject_dispositions: 51
   source_replays: 40
   noncanonical_probes: 19
   validation: RETROSPECTIVE_ONLY
   validation_report: 04 Character and Relationship Studies/Reconstruction/GENOCIDAL_ORGAN_G5_VALIDATION_AND_ERROR_ANALYSIS.md
-  g6: G6_RELEASE_CANDIDATE_READY_PENDING_MAIN
+  g6: G6_RELEASE_COMPLETED_MAIN_VERIFIED
   release_audit: 07 Audits and Handoffs/GENOCIDAL_ORGAN_G6_RELEASE_AND_COMPLETION_AUDIT.md
   synthesis: 06 Novel Synthesis/GENOCIDAL_ORGAN_INTEGRATED_NOVEL_SYNTHESIS.md
   independent_review: 07 Audits and Handoffs/GENOCIDAL_ORGAN_G4_G5_INDEPENDENT_SEMANTIC_REVIEW.md
@@ -102,8 +102,10 @@ repository_state:
   stable_branch: series/genocidal-organ
   routing_input: series/genocidal-organ/.repository/series-registry.json
   materialization_status: PRESENT_REVIEWED
-  main_integration: G1_PR188_G2_PR215_G3_PR227_MERGED_G4_G5_G6_CANDIDATE_PENDING_PROTECTED_MAIN
-  integration_hold_required: DRAFT_PR_UNTIL_G6_EXACT_PUBLICATION_CHAIN_PASS
+  main_integration: G1_PR188_G2_PR215_G3_PR227_G4_G5_G6_PR231_MERGED_POSTMERGE_AUDIT_PASS
+  g6_merge_commit: 1f48c045276db2b58d4198d2acb4eec48a59447a
+  g6_postmerge_audit: https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39184161461
+  integration_hold_required: NONE_FOR_ACCEPTED_G6_RELEASE
 ---
 
 # Genocidal Organ / 虐殺器官 — current state and corpus map
@@ -124,9 +126,9 @@ The [complete source coverage and run handoff](07%20Audits%20and%20Handoffs/GENO
 | Required run ledger reconciliation | CLOSED within this sequential run: all84 three-owner unit dispositions,51subjects/156actor+156readiness,88directional relations,224knowledge records,88OPEN claims and69revisions reconciled; exact prior versions and live uncertainty retained |
 | Analyst forecasts | Four original forecasts retain their horizons:3SUPPORTED,1fixed-horizonUNDERDETERMINED,0open/untested; no forced terminal forecast |
 | Character readiness | Post-reading G2:2 MULTICONTEXT_CANDIDATE,6 DOMAIN_BOUNDED,43 RECOGNITION_ONLY; all51 independently reassessed for monograph eligibility/domain ceilings; G5 eight exact models independently accepted only for specified domains and RETROSPECTIVE_ONLY consistency QA; all43 recognition-only subjects have explicit no-model dispositions; eligibility grades remain unchanged |
-| Formal downstream gates | G2 accepted and merged in PR215; G3 four specialists/four monographs and substantive cross-study convergence independently semantically complete. G4 integrated novel argument independently accepted with its narrow source-role repair; source-branch publication and full audit chain complete. G5 bounded models, all51 dispositions and independent retrospective evaluation accepted with actual errors/limits retained; source-branch publication and full audit chain complete. Independent G6 source/semantic/cross-gate QA passes at the declared ceilings; its release candidate awaits its own exact publication chain and protected main integration |
+| Formal downstream gates | G2 accepted and merged in PR215; G3 four specialists/four monographs and substantive cross-study convergence independently semantically complete. G4 integrated novel argument independently accepted with its narrow source-role repair; source-branch publication and full audit chain complete. G5 bounded models, all51 dispositions and independent retrospective evaluation accepted with actual errors/limits retained; source-branch publication and full audit chain complete. Independent G6 source/semantic/cross-gate QA passes at the declared ceilings; PR231 integrated the exact release tree into protected main and its explicit post-merge full audit passed |
 | Architecture | INITIAL and current three cumulative owners retained after bounded completion role-gap review; no empty specialist/model homes |
-| Repository integration | PR188 and navigation repair remain accepted. PR215 merged on 2026-10-18 at `a81103f2a9e67e36cae09a5e8365ca57a4f3e160` after the exact G2 audit chain. [G3 PR227](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/227) merged at `6824146c917938a83fca4bb1f2bf8c27cfa0ab41`; its complete tree equals source `6cbd75af7e57ea3300d14ef484cbe3346fc9b3b9`. Refreshed main `adc7ff4032a17c0f2c90c231d14d033e1448e171` preserves that GO subtree; ordinary reconciliation `887bacca2dd729e95464c6c708b1d166bdddff5c` incorporates it without changing accepted GO bytes. G4 source-branch publication is complete at `6f3f2141ab45fbccbb15d3c7d5fffc068be54c47` with its full audit chain recorded in the rolling receipt; G5 source/final `2c2d04b564a94c47e0e5c5358b521831992a7b80` completed source39180929481→housekeeping39181182970(nochild)→[final39181217333](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39181217333), both full352tests/selectiondisabled/0skipped with exact trusted success56651733608. The G6 receipt records current release readiness; its own publication chain and protected main integration remain separate. Protected main has not integrated G4/G5 at this authoring checkpoint |
+| Repository integration | PR188 and navigation repair remain accepted. PR215 merged on 2026-10-18 at `a81103f2a9e67e36cae09a5e8365ca57a4f3e160` after the exact G2 audit chain. [G3 PR227](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/227) merged at `6824146c917938a83fca4bb1f2bf8c27cfa0ab41`; its complete tree equals source `6cbd75af7e57ea3300d14ef484cbe3346fc9b3b9`. Refreshed main `adc7ff4032a17c0f2c90c231d14d033e1448e171` preserves that GO subtree; ordinary reconciliation `887bacca2dd729e95464c6c708b1d166bdddff5c` incorporates it without changing accepted GO bytes. G4 source-branch publication is complete at `6f3f2141ab45fbccbb15d3c7d5fffc068be54c47` with its full audit chain recorded in the rolling receipt; G5 source/final `2c2d04b564a94c47e0e5c5358b521831992a7b80` completed source39180929481→housekeeping39181182970(nochild)→[final39181217333](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39181217333), both full352tests/selectiondisabled/0skipped with exact trusted success56651733608. The G6 audit retains its historical preintegration checkpoint. Current release completion is verified by PR231, exact merge `1f48c045276db2b58d4198d2acb4eec48a59447a`, complete-tree equality to reviewed source `5545e0575b75aaa25bf95069b19f512424081027` and explicit successful full post-merge audit [39184161461](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39184161461); the later current-state verification below supersedes that old pending-main description |
 
 ## Retrospective G2: current argument routes
 
@@ -156,7 +158,7 @@ The transformed EPUB's acquisition/edition lineage and publisher-master equivale
 
 ## Next permitted operation and separately gated handoff
 
-**Next source operation: NONE.** The owner's subsequent instruction to execute the G4–G6 multi-agent kit authorizes same-witness integrated synthesis, actual bounded reconstruction, independent retrospective evaluation and a separately owned terminal release. G4 is independently accepted and its full source-branch publication chain is complete; G5 is independently accepted within the scopes routed below and its full source-branch publication chain is complete; the independent G6 audit accepts a release candidate pending its own exact publication chain and protected main integration. The [G3 convergence and G4/G5 readiness handoff](07%20Audits%20and%20Handoffs/GENOCIDAL_ORGAN_G3_CONVERGENCE_AND_HANDOFF.md) and earlier G2 handoff retain their historical authorization boundaries. No new source/witness/title, comparison, broad simulation or global curation is admitted.
+**Next source operation: NONE.** The owner's subsequent instruction to execute the G4–G6 multi-agent kit authorizes same-witness integrated synthesis, actual bounded reconstruction, independent retrospective evaluation and a separately owned terminal release. G4 and G5 are independently accepted within the scopes routed below and integrated by PR231; G6 release completion is verified by the exact integration tree and successful explicit post-merge full audit. The later owner instruction separately authorizes the post-G6 interactive evaluation extension; that extension does not reopen the accepted release. The [G3 convergence and G4/G5 readiness handoff](07%20Audits%20and%20Handoffs/GENOCIDAL_ORGAN_G3_CONVERGENCE_AND_HANDOFF.md) and earlier G2 handoff retain their historical authorization boundaries. No new source/witness/title, comparison, broad simulation or global curation is admitted.
 
 This root owns one prose novel. The other Project Itoh novel remains an independent source-facing context; common authorship establishes no shared fictional continuity or argument. Source payload stays outside Git, and no comparison study or global curation/governance record is authored here.
 
@@ -196,4 +198,12 @@ The [combined independent source/semantic review](07%20Audits%20and%20Handoffs/G
 
 The distinct [G6 release and completion audit](07%20Audits%20and%20Handoffs/GENOCIDAL_ORGAN_G6_RELEASE_AND_COMPLETION_AUDIT.md) accepts G0–G5 preservation, actual literary/model responsibilities, independent error dispositions and cross-gate boundaries. Its direct same-witness Japanese checks and complete artifact review found no remaining material analytical blocker within the declared scope. The accepted package contains 28 frozen readings, four specialists, four literary monographs, one integrated novel argument, eight conditional models, one independent evaluation, all51 current model/coverage dispositions and the existing three cumulative owners. INITIAL architecture remains adequate; no new cumulative home or global registry is needed.
 
-**G6_RELEASE_CANDIDATE_READY_PENDING_MAIN** is the preintegration state. The containing commit, complete source→housekeeping→final audit chain, PR231 protected squash result, exact preserved integration tree and explicit post-merge main audit/status must be established separately from their actual Git/CI results. This dated candidate does not predict their success. The approved selected-branch nightly controller must verify its owner/access/ruleset/source-chain prerequisites before integration. The stable branch is retained. Next source operation stays **NONE**; no broader character simulation, new witness, cross-novel comparison, character curation or governance change is included.
+**Historical preintegration checkpoint:** `G6_RELEASE_CANDIDATE_READY_PENDING_MAIN` was the state at this dated candidate. The maintained current release state is now `G6_RELEASE_COMPLETED_MAIN_VERIFIED`, as established below. The original G6 audit remains unchanged. The containing commit, complete source→housekeeping→final audit chain, PR231 protected squash result, exact preserved integration tree and explicit post-merge main audit/status must be established separately from their actual Git/CI results. This dated candidate does not predict their success. The approved selected-branch nightly controller must verify its owner/access/ruleset/source-chain prerequisites before integration. The stable branch is retained. Next source operation stays **NONE**; no broader character simulation, new witness, cross-novel comparison, character curation or governance change is included.
+
+
+<a id="go-post-g6-current"></a>
+## Verified G6 integration and separate extension — 2026-10-19
+
+[PR231](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/231) is MERGED, recorded at 2026-10-19T01:10:36Z. Its reviewed source head is `5545e0575b75aaa25bf95069b19f512424081027`; protected squash result is `1f48c045276db2b58d4198d2acb4eec48a59447a`. Their **complete repository trees are identical**, and the integration commit is an ancestor of inspected current main `b09d7cc3a3b5ef57cbfa121f446c5d4120e3597f`. The Genocidal Organ subtree remains unchanged between that release and current main. Explicit repository-dispatch [post-merge audit39184161461](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39184161461) succeeded for that exact integration SHA, ran all352 tests and reported `Repository integration audit` success. Later explicit audit39185385499 also succeeded on the same SHA. These are live GitHub/repository observations made for this maintenance, not assertions backdated into the historical G6 audit.
+
+**Current accepted release: G6_RELEASE_COMPLETED_MAIN_VERIFIED.** The G6 audit, eight frozen v1 models, prior manual retrospective validation, G1 readings, source scope and forecasts retain their bytes and historical meanings. This forward maintenance corrects the entrypoint's stale current fields. The current owner instruction separately commissions actual multi-turn character-agent execution as a **post-G6 interactive evaluation extension** under the existing reconstruction responsibility. It supplies no new source admission, no new fictional continuity and no general simulation or prediction guarantee. The extension must retain full test conditions, runtime evidence, nonauthor decisions, genuine failures and unresolved limits; acceptance and publication of that new work remain distinct from the completed release.
