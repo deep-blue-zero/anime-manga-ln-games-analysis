@@ -89,5 +89,14 @@
     "Curator-owned global discovery and final integration/release"
   ],
   "preservation": "66current/72historical/fourscores/Dust14blanks and prior model/scope bytes must remain exact through staging/publication. No direct main write, forced history or raw source egress.",
-  "publication_gate": "Pending exact candidate, author validation, fresh heads/owner/rules, normal push, exact readback/sourceaudit/HK/finalactualsource/status/reload."
+  "publication_gate": "Pending exact candidate, author validation, fresh heads/owner/rules, normal push, exact readback/sourceaudit/HK/finalactualsource/status/reload.",
+  "current_publication_gate": {
+    "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+    "source": "906a29b4c986de8035b2511ed19dbf3e7c3e0676",
+    "closed_utc": "2026-10-19T13:37:18.624105+00:00",
+    "receipt": "09 Audits and Manifests/KONOSUBA_YUNYUN_COHORT01_PUBLICATION_GATE_CLOSE.json",
+    "reload_utc": "2026-10-19T13:37:28.714961+00:00",
+    "original_pending_at_authorship_fields_retained": true,
+    "containing_postgate_metadata_publication": "Carried with next tranche; records already closed exact preceding source gate."
+  }
 }

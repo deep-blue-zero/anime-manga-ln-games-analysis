@@ -4,7 +4,7 @@ artifact_type: execution_and_source_reconciliation_audit
 scope: V11-V17 continuation and the fixed 41-object expanded-source program
 generation: V1
 status: active_provisional
-source_boundary: MAIN08EXCLUDED fullgateclosed/freshauthorityreload; mainexcluded8of17closed; nextMAIN09EXCLUDEDadmission; supplemental19/mixed5closed; full41continues
+source_boundary: MAIN09EXCLUDED accepted/new22resources131P/33images/61Pbonus;retainedprincipalcredit0;containingfullgatepending;other8mainexcluded programs remain;full41continues
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -21,8 +21,8 @@ The owner's 2026-10-16 request executes `KONOSUBA_CONTINUATION_AND_FULL_CORPUS_C
 | Execution mode | `continuous_sequential` |
 | Main-series authorized range | V11–V17 |
 | Accepted high-water mark | V17 principal and final Gen05 checkpoint; CP06/evidence freeze published and fully audited at a1539842 |
-| Current phase | Owner-resumed fullprogram; Yunyun scopedTier3 cohort accepted/publicationpending; MAIN08 fullgateclosed; broaderworkcontinues |
-| Next canonical operation | YUNYUNCOHORT01_PUBLICATION_GATE then exactreload before separate MAIN09 excluded admission with both Iris/Yunyun optional scopes preserved |
+| Current phase | Owner-resumed Stage C; MAIN09EXCLUDEDaccepted at new/inherited scopes; exact publication gate pending |
+| Next canonical operation | MAIN09EXCLUDED_PUBLICATION_GATE; no MAIN-10excluded admission before exact full gate/fresh published-authority reload |
 | Current prospective model | Gen05 frozen through V15, original 25 blank pairs exact; formal V16–V17 8C/6P/1F/3AMB/7NT separate from accepted locals; no Gen06 |
 | Initial published continuing-branch head at reconnaissance | `0238f356ee2ade28e39aa3a940ea0e091f8211f4` |
 | Initial main at reconciliation | `53de8ba455938174a3f14f887cd33739261a4e5f` |
@@ -1240,3 +1240,18 @@ Exact source8bde99e740ce0c23d9dee951aeb27cbb1aaa7c85/tree72e0c78e47af82b1188ff34
 ## Yunyun cohort01 semantic receiving — 2026-10-19T13:21:08.660638+00:00
 
 New monograph/model/index, exacthistoricalY01 lineage, actualboundednative/image/report receiving and16response/eightpair causal exercise are received. Fifty-one audit rows retain open identities and finaltier gaps; no globalcensus closure. SY-C01has7informedrules/14originalnulls fixedbeforeMAIN09-17excluded exposure. PriorSI-C01/SEC01,66current/72historical,fourscores andDust14blanks remain unchanged. MAIN08 fullgateclosed with exactsource/final352tests andfreshreload; the new cohort still requires exactstage/preflight/normalpublication/readback/sourceaudit/HK/finalactualsource/status/reload. Registry/index remain curator-owned; all remaining source/synthesis/versionedmodels/secondary/curation/integration/release workcontinues.
+
+
+## Yunyun cohort01 exact gate/reload — 2026-10-19T13:37:40.162803+00:00
+
+Exact source906a29b4c986de8035b2511ed19dbf3e7c3e0676/tree284a6a74d4c4f3cec439670cad4ddaa6acd93579; all8965remote paths/26changedstreams match. Source audit39260117525/job118085252942, housekeeping39260745026/job118087409631NO_OP/exact dispatch, final audit39260809810/job118087627394; both352fulltests/zeroall5non-success/selectionfalse; actual-source finalstatus and fresh800project authority reload2026-10-19T13:37:28.714961+00:00. Next excluded resources remain unadmitted. Prediction maturity remains provisional; no synthetic source-validation score or complete census is asserted. Preserve MAIN08 source and intervening cohort identities separately. Current-main reconciliation remains mandatory before later push.
+
+
+## MAIN09EXCLUDED excluded-component admission and pre-body seal — 2026-10-19T13:38:12.699911+00:00
+
+MAIN-09 exact local supplied edition 3086699bytes/SHA256 a81499cd61dda060503d35d68db71c2bdc9e12e782412cf3724bca25a7f28f0e, admitted after preceding full gate/fresh reload. Retain 8 accepted principal members by native hash/paragraph joins with zero new principal reading credit. 22 excluded text resources and 33 images require actual inspection. New reading/viewing credit is zero at this admission snapshot. Bespoke uncoded seal precedes formal outcomes; supplemental19/mixed5 gates stay closed and full41/secondary work continues.
+
+
+## Main09 excluded-component analytical acceptance — 2026-10-19T14:18:26.827810+00:00
+
+All22new textual resources131P and33unique native images actually received. Eight accepted principal members3076P remain exact, with zero new principal reading credit. Separate61P electronic bonus『とあるひよこの必殺芸』,21P author afterword and49other wrapper/credit/contents slots; illustrator coda and five-page popularity appendix are separate raster paratext.1187bounded retainedP support current image/knowledge/chronology checks; these are no new events, full principal pass or eligible secondary source tests. Counts do not supply a narrative-component denominator. Selected26premises/29writtenfragments;31principal+8party individualcomparisons/fourtypeddiagnostics/fourteenIris-Yunyunno-opportunityrows. 39explicit comparisons:K02narrowresponse supported;K01adjacent game option;E01/E07partialcoordination;35fullconjunctionsNT. Fourtypeddiagnostics/14separateIris-YunyunNT preserve original fields. No full heldoutC/F, accuracy or confidence update; retained events are not fresh trials. 12appends across tenledgers/40qualifications. Supplemental19/mixed5 andMAIN01-MAIN08fullgates plusIris/Yunyuncohorts remainclosed; MAIN-09analysis accepted/publicationpending;other8mainexcluded programs remain;globalcomponentpercentage null. [Receiving](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V09_EXCLUDED_RECEIVING_AND_PROVENANCE.json) records actual new reading, retained principal scope, immutable uncoded observations, current corrections, redacted preparation and same-root receiving. Frozen66/72/fourscores/Dust14blanks/SI-C01/SY-C01original28nulls exact. Exact publication/all-tree and changed-stream readback, full source audit, housekeeping, final actual-source audit/status and fresh published-authority reload before MAIN10 excluded admission. Reconcile then-current main ordinarily before any later push. Remaining main components, complete secondary census/earned artifacts, expanded synthesis/versioned principal-party-transfer revisions, curator integration and release continue.
