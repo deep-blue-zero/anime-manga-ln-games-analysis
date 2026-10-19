@@ -3434,6 +3434,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`keroppe-naoki-comparison` — Keroppe × Naoki — SHINE POST](series/maebashi-witches/V1%20Analysis/05%20Comparative%20Analysis/MAEBASHI_CROSS_SERIES_INTERACTION_REFERENCE.md)
 
+### Kian
+
+- Entity ID: `harmony:kian`
+- Entity aliases:
+  - _None._
+
+#### Subject: Original Japanese novel continuity
+
+- Analysis subject ID: `harmony:kian@original-novel`
+- Series: `harmony`
+- Continuity: `original-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `g3-study-scope`: OTHER OTHER: School affiliation, ethical objection and hesitant participation; the adult reunion, retrospective rescue/balancer disclosure, mourning and the recorded fatal appeal. This is the monograph’s bounded original-novel scope, not continuous chapter coverage or a complete account of Kian’s professional and private life.; continuity `original-novel`
+- Reviewed current evidence:
+  - [`g3-character-study` — Kian: G3 literary character study](series/harmony/04%20Character%20and%20Relationship%20Studies/HARMONY_KIAN_MONOGRAPH.md) — **active provisional authority**
+
 ### Kibe
 
 - Entity ID: `rent-a-girlfriend:kibe`
@@ -5169,6 +5189,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `original-nice-reviewed-corpus`: ANIME EPISODE: Substantial subject-specific sections in a canonical Phase-3 character synthesis across the first-season episode boundary declared by the artifact; multi-subject documents are enrolled only for their explicitly co-primary subjects.; continuity `to-be-hero-x-animated-series`
 - Reviewed current evidence:
   - [`06-lin-ling-nice-moon-and-the-replacement-hero` — 06 LIN LING NICE MOON AND THE REPLACEMENT HERO](series/to-be-hero-x/03%20V2%20Specialist%20Syntheses/01%20Characters%20and%20Relationships/06_LIN_LING_NICE_MOON_AND_THE_REPLACEMENT_HERO.md)
+
+### Oscar Stauffenberg
+
+- Entity ID: `harmony:oscar-stauffenberg`
+- Entity aliases:
+  - _None._
+
+#### Subject: Original Japanese novel continuity
+
+- Analysis subject ID: `harmony:oscar-stauffenberg@original-novel`
+- Series: `harmony`
+- Continuity: `original-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `g3-study-scope`: OTHER OTHER: Professional encounters with Tuan: wine and reputation discipline, investigative exclusion and limited concession, emergency information demands, private working-group membership disclosure and assistance through Uwe. Childhood wine recollection remains self-report; later membership disclosure does not retroactively supply omniscience.; continuity `original-novel`
+- Reviewed current evidence:
+  - [`g3-character-study` — Oscar Stauffenberg: G3 literary character study](series/harmony/04%20Character%20and%20Relationship%20Studies/HARMONY_OSCAR_STUDY.md) — **active provisional authority**
 
 ### Otto
 
@@ -7147,6 +7187,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`claim-evidence-ledger` — Bounded chapter character interpretations and counterevidence](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
   - [`entity-state-ledger` — Individual character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
   - [`episode-1-0-arc-reading` — EPISODE 1.0 arc reading: individual motives, choices and relationships](series/tokyo-7th-sisters/07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_1_0_ARC_DEEP_READING.md)
+
+### Vashilov
+
+- Entity ID: `harmony:vashilov`
+- Entity aliases:
+  - _None._
+
+#### Subject: Original Japanese novel continuity
+
+- Analysis subject ID: `harmony:vashilov@original-novel`
+- Series: `harmony`
+- Continuity: `original-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `g3-study-scope`: OTHER OTHER: Credential performance and bounded cooperation during the car encounter, the Baghdad information call, armed factional pursuit of Nuaza, wounded bargaining and Tuan’s later reports and false attribution. Disclosure order is retained; this scope does not establish ordinary private life or a complete chain of orders.; continuity `original-novel`
+- Reviewed current evidence:
+  - [`g3-character-study` — Vashilov: G3 literary character study](series/harmony/04%20Character%20and%20Relationship%20Studies/HARMONY_VASHILOV_STUDY.md) — **active provisional authority**
 
 ### Viktor Idinarohk
 
