@@ -1,0 +1,312 @@
+{
+  "schema": "KONOSUBA_MAIN13_EXCLUDED_SELECTED_HUMOR_V1",
+  "source_id": "MAIN-13",
+  "records": [
+    {
+      "id": "M13EX-H01",
+      "boundary": {
+        "component_id": "MAIN-13-U021",
+        "start_P": 4,
+        "end_P": 9
+      },
+      "whole_selected_premise": "Kazuma hears magic goods are on sale and immediately expects explosion/indiscriminate damage; a familiar adventurer corrects the category by distinguishing this merchant from Wiz.",
+      "primary_L": "L0",
+      "L_rationale": "The overgeneralized prior and local correction are portable causal content.",
+      "primary_H": "H1",
+      "H_rationale": "Actual expectation, question and attributed correction are substantially literal; no new device explosion occurs.",
+      "source_plane": "New separate electronic bonus fiction; Kazuma first-person.",
+      "eligibility_and_limits": "The adventurer is unnamed; neither his contrast nor Kazuma's prior is a universal product test.",
+      "native_member": "text/part0019.html",
+      "native_member_sha256": "40614c5b077621ea835ed932c9f1f4bbc618967bba718dca190ac7ce61d4b0bc",
+      "formal_assignment_after_seal_utc": "2026-10-19T18:05:28.423658+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M13EX-H02",
+      "boundary": {
+        "component_id": "MAIN-13-U021",
+        "start_P": 10,
+        "end_P": 14
+      },
+      "whole_selected_premise": "Megumin requests a power-potion loan and Aqua requests a cleaning tool, both stressing absence of drawbacks; Kazuma privately forecasts misuse or breakage.",
+      "primary_L": "L1",
+      "L_rationale": "The repeated drawback disclaimer makes the conversational callback, while the request content remains translatable.",
+      "primary_H": "H1",
+      "H_rationale": "Requests and private predictions occur; proposed benefits and predicted failure remain unperformed.",
+      "source_plane": "New separate electronic bonus fiction; Kazuma first-person.",
+      "eligibility_and_limits": "Merchant/product claims are not independently tested; no actual new potion use or broken cleaner.",
+      "native_member": "text/part0019.html",
+      "native_member_sha256": "40614c5b077621ea835ed932c9f1f4bbc618967bba718dca190ac7ce61d4b0bc",
+      "formal_assignment_after_seal_utc": "2026-10-19T18:05:28.423658+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M13EX-H03",
+      "boundary": {
+        "component_id": "MAIN-13-U021",
+        "start_P": 15,
+        "end_P": 22
+      },
+      "whole_selected_premise": "A dexterity bandana makes Darkness hesitate precisely because attacks might hit, yet stronger enemies matter; Kazuma insists on funding and takes the item despite her attempted drawback objection.",
+      "primary_L": "L2",
+      "L_rationale": "Gift-giver authority, reluctant self-correction and the recipient's chosen configuration determine the exchange.",
+      "primary_H": "H1",
+      "H_rationale": "Deliberation, objection and taking are actual; conflicting identity and usefulness remain literal.",
+      "source_plane": "New separate electronic bonus fiction; Kazuma first-person.",
+      "eligibility_and_limits": "No urgent third-person danger, voluntary tension-free rebuild or intentional explanation of every later miss.",
+      "native_member": "text/part0019.html",
+      "native_member_sha256": "40614c5b077621ea835ed932c9f1f4bbc618967bba718dca190ac7ce61d4b0bc",
+      "formal_assignment_after_seal_utc": "2026-10-19T18:05:28.423658+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M13EX-H04",
+      "boundary": {
+        "component_id": "MAIN-13-U021",
+        "start_P": 22,
+        "end_P": 27
+      },
+      "whole_selected_premise": "Kazuma celebrates the ideal improvement for Darkness, imagines other spells/intellect fixes, then rejects the two competing purchase requests.",
+      "primary_L": "L0",
+      "L_rationale": "Selective valuation and an unperformed universal-fix wish survive paraphrase.",
+      "primary_H": "H1",
+      "H_rationale": "Choice and fantasy wish are narrator appraisals, not newly acquired abilities.",
+      "source_plane": "New separate electronic bonus fiction; Kazuma first-person.",
+      "eligibility_and_limits": "Bandana payment/price is not separately printed; the final equipped coda is distinct.",
+      "native_member": "text/part0019.html",
+      "native_member_sha256": "40614c5b077621ea835ed932c9f1f4bbc618967bba718dca190ac7ce61d4b0bc",
+      "formal_assignment_after_seal_utc": "2026-10-19T18:05:28.423658+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M13EX-H05",
+      "boundary": {
+        "component_id": "MAIN-13-U021",
+        "start_P": 25,
+        "end_P": 27
+      },
+      "whole_selected_premise": "Megumin retreats from gift request to a loan, while Aqua explicitly wants a gift because she will not repay and reveals a rainbow-party use for the cleaner.",
+      "primary_L": "L2",
+      "L_rationale": "Polite fallback bargaining contrasts with candid nonrepayment and the reclassification of a practical request as play.",
+      "primary_H": "H1",
+      "H_rationale": "Actual requests and proposed use are literal; there is no executed rainbow routine.",
+      "source_plane": "New separate electronic bonus fiction; Kazuma first-person.",
+      "eligibility_and_limits": "Aqua can want useful cleaning and recreation; neither motive deletes the other.",
+      "native_member": "text/part0019.html",
+      "native_member_sha256": "40614c5b077621ea835ed932c9f1f4bbc618967bba718dca190ac7ce61d4b0bc",
+      "formal_assignment_after_seal_utc": "2026-10-19T18:05:28.423658+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M13EX-H06",
+      "boundary": {
+        "component_id": "MAIN-13-U021",
+        "start_P": 26,
+        "end_P": 28
+      },
+      "whole_selected_premise": "Kazuma rejects the power potion because he predicts it will be used before a boss, and calls the cleaner a toy after Aqua's recreation pitch.",
+      "primary_L": "L2",
+      "L_rationale": "The correction is a familiar resource-allocation argument rather than a neutral item specification.",
+      "primary_H": "H1",
+      "H_rationale": "His objection and attribution occur; the anticipated misuse is not itself performed.",
+      "source_plane": "New separate electronic bonus fiction; Kazuma first-person.",
+      "eligibility_and_limits": "Do not count the objection as Megumin's actual impulsive drinking or Aqua's actual destruction.",
+      "native_member": "text/part0019.html",
+      "native_member_sha256": "40614c5b077621ea835ed932c9f1f4bbc618967bba718dca190ac7ce61d4b0bc",
+      "formal_assignment_after_seal_utc": "2026-10-19T18:05:28.423658+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M13EX-H07",
+      "boundary": {
+        "component_id": "MAIN-13-U021",
+        "start_P": 29,
+        "end_P": 38
+      },
+      "whole_selected_premise": "The merchant honestly explains a rare, costly, low-chance stone's enemy-reuse danger; Kazuma understands the objection, then pays because he has formed an undisclosed retrieval plan.",
+      "primary_L": "L2",
+      "L_rationale": "An apparent rash reversal is reinterpreted through unequal knowledge and a delayed explanation.",
+      "primary_H": "H1",
+      "H_rationale": "Terms received, deliberation and actual stone payment are literal.",
+      "source_plane": "New separate electronic bonus fiction; Kazuma first-person.",
+      "eligibility_and_limits": "Terms were checked; later execution failure does not prove he bought without hearing them. Only one stone exists.",
+      "native_member": "text/part0019.html",
+      "native_member_sha256": "40614c5b077621ea835ed932c9f1f4bbc618967bba718dca190ac7ce61d4b0bc",
+      "formal_assignment_after_seal_utc": "2026-10-19T18:05:28.423658+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M13EX-H08",
+      "boundary": {
+        "component_id": "MAIN-13-U021",
+        "start_P": 39,
+        "end_P": 45
+      },
+      "whole_selected_premise": "Kazuma offers a new technique and Megumin agrees only if it is nonlethal; the thrown stone hits and Steal is invoked.",
+      "primary_L": "L2",
+      "L_rationale": "An enthusiastic trial invitation still receives an act-specific limiting condition.",
+      "primary_H": "H1",
+      "H_rationale": "Conditional assent and the attempted test occur; recipient pain is retained.",
+      "source_plane": "New separate electronic bonus fiction; Kazuma first-person.",
+      "eligibility_and_limits": "Nonlethal acceptance does not authorize an unintended clothing theft; no carte-blanche consent.",
+      "native_member": "text/part0019.html",
+      "native_member_sha256": "40614c5b077621ea835ed932c9f1f4bbc618967bba718dca190ac7ce61d4b0bc",
+      "formal_assignment_after_seal_utc": "2026-10-19T18:05:28.423658+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M13EX-H09",
+      "boundary": {
+        "component_id": "MAIN-13-U021",
+        "start_P": 42,
+        "end_P": 51
+      },
+      "whole_selected_premise": "The intended instant stone-retrieval loop instead returns Megumin's underwear while she is paralyzed; the attractive tactical idea fails at a specific retrieval edge.",
+      "primary_L": "L0",
+      "L_rationale": "A plan's component succeeds while its recovery edge fails, a portable causal reversal.",
+      "primary_H": "H1",
+      "H_rationale": "Actual hit, theft and reported immobility can be treated literally on the fiction's stated ability plane.",
+      "source_plane": "New separate electronic bonus fiction; Kazuma first-person.",
+      "eligibility_and_limits": "One paralysis result is not a probability estimate, stone recovery or an infinite repeated attack.",
+      "native_member": "text/part0019.html",
+      "native_member_sha256": "40614c5b077621ea835ed932c9f1f4bbc618967bba718dca190ac7ce61d4b0bc",
+      "formal_assignment_after_seal_utc": "2026-10-19T18:05:28.423658+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M13EX-H10",
+      "boundary": {
+        "component_id": "MAIN-13-U021",
+        "start_P": 47,
+        "end_P": 51
+      },
+      "whole_selected_premise": "Kazuma starts with denial, explains his intended method, and shifts some blame to allegedly expensive clothing; Megumin rejects the price premise and reports immobility.",
+      "primary_L": "L2",
+      "L_rationale": "Favorable causal explanation and recipient correction are accountability moves with unequal information.",
+      "primary_H": "H1",
+      "H_rationale": "Explanation, blame and correction are actual; the claimed clothing value is disputed.",
+      "source_plane": "New separate electronic bonus fiction; Kazuma first-person.",
+      "eligibility_and_limits": "The initial short attention call is untagged; no fabricated expensive-clothing fact or complete candid account.",
+      "native_member": "text/part0019.html",
+      "native_member_sha256": "40614c5b077621ea835ed932c9f1f4bbc618967bba718dca190ac7ce61d4b0bc",
+      "formal_assignment_after_seal_utc": "2026-10-19T18:05:28.423658+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M13EX-H11",
+      "boundary": {
+        "component_id": "MAIN-13-U021",
+        "start_P": 51,
+        "end_P": 55
+      },
+      "whole_selected_premise": "A test framed as tactical ingenuity becomes public reputational damage when bystanders describe the actual humiliating effect; Kazuma anticipates another derogatory nickname.",
+      "primary_L": "L2",
+      "L_rationale": "Audience uptake recategorizes an intended innovation through its effect on another person.",
+      "primary_H": "H1",
+      "H_rationale": "The reactions and narrator's expectation are actual; the nickname's future use is only projected.",
+      "source_plane": "New separate electronic bonus fiction; Kazuma first-person.",
+      "eligibility_and_limits": "Speakers53/54 are untagged; no fixed gender/party attribution or harmlessness from comic framing.",
+      "native_member": "text/part0019.html",
+      "native_member_sha256": "40614c5b077621ea835ed932c9f1f4bbc618967bba718dca190ac7ce61d4b0bc",
+      "formal_assignment_after_seal_utc": "2026-10-19T18:05:28.423658+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M13EX-H12",
+      "boundary": {
+        "component_id": "MAIN-13-U021",
+        "start_P": 55,
+        "end_P": 58
+      },
+      "whole_selected_premise": "An untagged speaker asks the technique's price; Kazuma refuses use for pay and seeks a product return, while Darkness visibly wants the stone.",
+      "primary_L": "L2",
+      "L_rationale": "The market framing collides with his need to stop reputational escalation.",
+      "primary_H": "H1",
+      "H_rationale": "The question, refusal, return request and gaze occur.",
+      "source_plane": "New separate electronic bonus fiction; Kazuma first-person.",
+      "eligibility_and_limits": "Do not assign56 to Darkness merely from her later gaze, invent paid service, refund acceptance or completed return.",
+      "native_member": "text/part0019.html",
+      "native_member_sha256": "40614c5b077621ea835ed932c9f1f4bbc618967bba718dca190ac7ce61d4b0bc",
+      "formal_assignment_after_seal_utc": "2026-10-19T18:05:28.423658+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M13EX-H13",
+      "boundary": {
+        "component_id": "MAIN-13-U021",
+        "start_P": 50,
+        "end_P": 58
+      },
+      "whole_selected_premise": "The stone works once but Megumin's immobilization and lost-clothing problem receive no shown practical remedy before the scene closes into Kazuma's return plea.",
+      "primary_L": "L0",
+      "L_rationale": "Successful phase, failed recovery and a displaced recourse request are separable portable facts.",
+      "primary_H": "H1",
+      "H_rationale": "The dependency cue and his different request are literally represented.",
+      "source_plane": "New separate electronic bonus fiction; Kazuma first-person.",
+      "eligibility_and_limits": "This is adverse recovery adjacency, not proof of permanent immobility, universal neglect, or a free reset. Full all-actor response/opportunity remains limited.",
+      "native_member": "text/part0019.html",
+      "native_member_sha256": "40614c5b077621ea835ed932c9f1f4bbc618967bba718dca190ac7ce61d4b0bc",
+      "formal_assignment_after_seal_utc": "2026-10-19T18:05:28.423658+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M13EX-H14",
+      "boundary": {
+        "component_id": "MAIN-13-U021",
+        "start_P": 16,
+        "end_P": 60
+      },
+      "whole_selected_premise": "The bandana's promised improvement drives a purchase decision, but the separate closing coda reports that even when equipped Darkness still missed.",
+      "primary_L": "L1",
+      "L_rationale": "The late 'still/as expected' callback completes the earlier benefit-as-drawback reversal.",
+      "primary_H": "H1",
+      "H_rationale": "The coda reports actual equipping/misses without an exact target or trial sample.",
+      "source_plane": "New separate electronic bonus fiction; Kazuma first-person.",
+      "eligibility_and_limits": "Supplemented by U021P60; no automatic claim that all misses are deliberate or that the product has zero statistical effect. Setup16-22 and distinct coda60 are the selected effect within this declared broad interval; intervening stone turns overlap other selections without creating repeated observations.",
+      "native_member": "text/part0019.html",
+      "native_member_sha256": "40614c5b077621ea835ed932c9f1f4bbc618967bba718dca190ac7ce61d4b0bc",
+      "formal_assignment_after_seal_utc": "2026-10-19T18:05:28.423658+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M13EX-H15",
+      "boundary": {
+        "component_id": "MAIN-13-U018",
+        "start_P": 4,
+        "end_P": 7
+      },
+      "whole_selected_premise": "The author imagines veteran status buying impossible editor favors, then has the much smaller request for no deadlines/NEET time rhetorically rejected and promises to work.",
+      "primary_L": "L2",
+      "L_rationale": "A staged status-entitlement exchange collapses into ordinary subordinate apology.",
+      "primary_H": "H4",
+      "H_rationale": "The imagined editor privileges and unprinted interlocutor form a nonliteral authorial comic setup, poor evidence for realistic character prediction; this is not H4 merely because goblins are fantasy.",
+      "source_plane": "Author afterword; creator address, not character action.",
+      "eligibility_and_limits": "No actual otherworld photo expedition, Shinjuku closure, editor policy or agent instruction.",
+      "native_member": "text/part0016.html",
+      "native_member_sha256": "1029579e8439403b554d45e600c4e6b83c29580a3fb5278fd1c73ed52d7c2f5b",
+      "formal_assignment_after_seal_utc": "2026-10-19T18:05:28.423658+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M13EX-H16",
+      "boundary": {
+        "component_id": "MAIN-13-U018",
+        "start_P": 8,
+        "end_P": 10
+      },
+      "whole_selected_premise": "The creator compares Wiz/Vanir with Kazuma/Aqua, then blocks the anticipated romcom through a gender premise and leaves the shopkeeper's 'eternal...' fate under an ellipsis.",
+      "primary_L": "L1",
+      "L_rationale": "The withheld completion '(following omitted)' supplies a phrasing-based punchline after the genre setup.",
+      "primary_H": "H1",
+      "H_rationale": "A printed creator assertion and editorial joke are literal at their own nonfiction plane, not an enacted relationship.",
+      "source_plane": "Author afterword; creator address, not character action.",
+      "eligibility_and_limits": "Do not convert author intent, genderlessness or the ellipsis into a new behavioral trial, permanent universal partnership policy or completed romance.",
+      "native_member": "text/part0016.html",
+      "native_member_sha256": "1029579e8439403b554d45e600c4e6b83c29580a3fb5278fd1c73ed52d7c2f5b",
+      "formal_assignment_after_seal_utc": "2026-10-19T18:05:28.423658+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    }
+  ],
+  "H_protocol": "H1 literal acts or attributed statements; H2 underlying reaction with amplified intensity; H3 only behavior contingent on a local gag, not uncertainty; H4 staged/nonliteral presentation rather than fantasy automatically. Actual and projected effects remain different.",
+  "L_protocol": "L0 structurally portable; L1 phrasing-sensitive; L2 register/pragmatic stance; L3 central Japanese-form dependence. Whole effects and named nested forms are distinct; selected overlap is not a denominator."
+}
