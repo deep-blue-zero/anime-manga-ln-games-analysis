@@ -5,13 +5,13 @@ artifact_type: execution_admission_audit
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.16"
+version: "1.17"
 status: active_provisional
 scope: "Verified foundation, bounded source admission, exposure limits and atomic recovery"
-source_boundary: "Frozen I1; LN01–09/fourBW/KSS01–12 whole transactions; KSS12 owner-directed recovery; next OFF-JP-SS01; later supplements/web/V1 unread"
+source_boundary: "Frozen I1; independent LN01–09/fourBW/KSS01–12/OFF-JP-SS01 complete only in whole atomic commits; OFF-JP-SS02/web/V1 unread; V10 excluded"
 canonical_home: series/shuukura/08 Audits and Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md
 created: "2026-10-17"
-review_status: OWNER_DIRECTED_KSS12_RECOVERY_COMPLETE_ATOMIC_CANDIDATE
+review_status: OFF01_COMPLETE_NATIVE_SOURCE_SEMANTIC_AND_DISPOSITION_PRECISION_REVIEW_COMPLETED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -991,3 +991,22 @@ Transaction SHUUKURA-TX-KSS-12-20261018-A1 binds the [complete reading](../03%20
 | Publication | Local whole-unit checkpoint only. Earlier administrative publication and new KSS12 remote source/housekeeping/final-head/main audits require their own observed receipts. No new CI/integration success is claimed here. |
 
 The current entrypoint owns live state. The restored snapshot, source notes and Git bundle remain intact outside the working repository, and raw evidence stays outside analytical Git.
+
+
+## Durable checkpoint after OFF-JP-SS01
+
+Transaction SHUUKURA-TX-OFF-JP-SS01-20261018-A1 binds the [reading](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_OFF_JP_SS01_DEEP_READING.md), [audit](SHUUKURA_V2_OFF_JP_SS01_TRANSACTION_AUDIT.md), four ledgers1.17, source coverage and historical model addenda. Entering wholeKSS12f403364ae1375fe28da042e9f43b997a145309a2/treea9ac071b8480cb2d7f31fbe7d033eb945f523532 is the actual prospective boundary. No earlier committed unit or pause correction is replayed.
+
+Preferred source is the already-frozen publisher HTML39,650bytes/SHAf2fa6851703fdfd99a33c611dce7f3cae229d710eb5fc1daba8a8847d110f9e8. One p.spy_ss initial text plus120orderedbr.tail elements gives121segments63nonempty58blank/2,547displaycharacters; raw strings remain exact. MapSHA3a14fe25f7c14514ac67fd61237d5dbdcdc79c76379e1bbeda874f334058e42a;41materialliteral checks PASS. Attached321,901-byte1200x779PNG/SHA287a746a3aa3545e5a03834d86843f44f70e410c25700e5c8593f54bb6833457 is directly inspected promotional material, not narrative prose. SOURCE-REPRESENTATION-OFF01-001 corrects the initial image-fiction expectation without altering frozen I1 or witness bytes.
+
+Whole-native F1@2026-10-19T02:24:52.472005+00:00/7,139bytes/SHA430110abe555ad865c064aa12073bb916c6e3d660deac9dea0d32623bbcbbeeb precedes original comparison;Q2/9,338bytes/SHA35df19d8c3397638a085b64ce46de704a01de683dab232cee1cd4d862abb79bf;Q1@2026-10-19T02:32:17.101304+00:00/15,538bytes/SHA92340056c6fd7aa22cb52cd7578dedbb6621f112b4409f443f26fe60e47f4fb5. Actual complete HTML was exposed in one initial response; no half-story freeze or F2 is invented. All original journal prefixes remain byte-exact in the private evidence. The repository reading carries a declared LF derivative of Q1 (three CRLF separators converted only), 15535bytes/SHA72ed9e1d2be7dffaae4915db06530c37db4cd85899d3da2347089c0b2e7ff578; observation text/order is unchanged.
+
+After whole-native F1, bounded original verification covers LN01/02/03/04/05/07:12core ranges437paragraphs plus6targetedV05disposition contexts31occurrences,18ranges468occurrences453uniqueparagraphs in all;17,951nativeitertext characters includes repeats,128coresearch exposures separately logged,14literal checks PASS. V01class reassignment is final-year spring; V02first-home concealment, V03illness contents-unknown, V04housing disclosure/use, V05reimbursement/can-opening/not-brought and V07ticket spending retain separate event/disclosure clocks. These known novels add no new whole-unit or held-out credit.
+
+Sendai's final-high-school-year private container account distinguishes family-exit savings and retrospectively qualified emotional relief from the new attention attached to Miyagi's notes. A private keep-closed resolve and material separation analogy remain historical, with later disclosure/opening/replenishment/use at their own clocks. Historical S-OFF01-CONTAINER-EXIT/M-OFF01-ABSENT-EXIT preserve adult states and no shown Miyagi access. ERRATUM-OFF01-SOURCE-001 narrows the frozen V05 reading and historical ledger disposal wording: LN05item/xhtml/p-010.xhtmlp61(SHAc125c61cb0121097c9a200a29d2ad9d017c339948d9e292e393573830c2f58d8) establishes opening with a can opener, lost piggybank function and not bringing it to the new room. Final physical disposition is unestablished by that paragraph and seven bounded keyword-hit contexts. Append current CHR-LN-JP-V05-SENDAI_HAZUKI-001.v2,REL-LN-JP-V05-021.v2 and PROP-LN-JP-V02-009.v7; preserve all old rows and frozen V05 bytes. Neither discard nor relocation/storage is invented.
+
+Four ledgers1.17:9character rows(8new/1oldercorrection),2source-local projections/2readiness;9relationship rows(8new/1oldercorrection),2directions;R167private historical keep-closed resolve,167ruleIDs.23proposition versions(20new/3older),20access rows/7tensions give626propositionIDs;3older claim versions+3new give134claimIDs/463formulations.18forecast records/13historical attempts and M0.13/S0.14draft_noncurrent/UNTESTED remain unchanged; no validated domain.
+
+The owner explicitly directed that the new SS01 evidence remain local. Its verified archive is SHUUKURA_V2_OFF_JP_SS01_LOCATOR_AND_SOURCE_EVIDENCE_20261018_A1.zip,140,395bytes/SHAe9d13447bbd9a0ba29ad29cf8c90e12d7b158b444ef663f422262fe1a9a2f7e2/11members. No new Drive upload was performed. The original primary-source packet remains Drive1pi7_hhGoTqMsyEfrju4c-mRFipt41_Ju with exact source bytes; the deterministic native map, source checks and sealed notes are retained in the owner workspace under this retention instruction.
+
+Whole OFF-JP-SS01 introducing commit only:LN9/9;SS17/18;Kak0/431;Narō0/290;available26/458. Next OFF-JP-SS02; mandatory cumulative supplement publication at SS18/18 remains a separate obligation. No later source has been read. GateOPEN/continuous_sequential/runactive/startLN01/terminalfixedI1 remain intact. Full commit/tree and actual author-preflight receipt resolve through the introducing Git commit and private durable receipt. This is local durability; remote source/housekeeping/final-head/main audits are not claimed.
