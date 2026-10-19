@@ -1613,3 +1613,12 @@ Whole supplied edition accepted at stated scopes; containing publication/full ga
 | ID | Subjects / native route | Observation | Implication | Authority and adverse limit |
 |---|---|---|---|---|
 | YORI02-WHOLE-JV01 | 83exact native-joined context witnesses; VOICE_REGISTER | Each initial fragment matches the actual paragraph window and has an individual speaker/function warrant. | Written contextual force differs from audio, generic archetype or a prospective language test. | Alloriginal notes exact; no new J01outcomes or native-human/independent claim. |
+
+
+## Expanded YORI-03 received observations — 2026-10-19T02:33:28.359773+00:00
+
+Whole supplied edition accepted at stated scopes; containing publication/full gate pending. [Full seventeen-responsibility reading](../10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI03_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI03_LEDGER_APPEND_DECISIONS.json), [31 unchanged-contract local assessments](../10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI03_EXPLORATORY_LOCAL_ASSESSMENTS.json), [81 qualifications](../10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI03_CURRENT_PRECISION_QUALIFICATIONS.json) and [provenance](../10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI03_RECEIVING_AND_PROVENANCE.json) control uptake. Continuing informed root after17accepted main principals/fourholdoutvalidations/fivemixedprograms/17supplemental fullgates throughYORI02. New complete YORI03 source after43contract prebody reload and target-fit additive at0body/0images; sameAI lineage/possiblepretraining, no native-human/audio/independent/pristine-blindness claim. No independent reviewer or new main score/audio claim. Frozen66/72/four scores/original14blanks exact. Prior Dust04 additive coercive-scope correction remains current: no bodily-injury threshold and no later-success repair of earlier contrary evidence.
+
+| ID | Subjects / native route | Observation | Implication | Authority and adverse limit |
+|---|---|---|---|---|
+| YORI03-WHOLE-JV01 | 146native-joined interval-time voice witnesses; VOICE_REGISTER | Alloriginal fragments match base or ruby-displayed native windows; one ruby-only match is explicitly located at839. | Actual addressee, statement force, speaker switch and branch state govern written voice. | No audio/native-human/independent newJ01claim; original notes remain exact. |

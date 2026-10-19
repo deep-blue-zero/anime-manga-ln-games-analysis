@@ -4,7 +4,7 @@ artifact_type: execution_and_source_reconciliation_audit
 scope: V11-V17 continuation and the fixed 41-object expanded-source program
 generation: V1
 status: active_provisional
-source_boundary: Yorimichi 02whole edition accepted at35text/28imagescopes/fullgatepending; following source unadmitted; fullfixed41continues
+source_boundary: Yorimichi 03whole edition accepted at26text/26imagescopes/fullgatepending; following source unadmitted; fullfixed41continues
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -21,8 +21,8 @@ The owner's 2026-10-16 request executes `KONOSUBA_CONTINUATION_AND_FULL_CORPUS_C
 | Execution mode | `continuous_sequential` |
 | Main-series authorized range | V11–V17 |
 | Accepted high-water mark | V17 principal and final Gen05 checkpoint; CP06/evidence freeze published and fully audited at a1539842 |
-| Current phase | Owner-resumed Stage C; Yorimichi 02accepted35text/28image scopes/full publication gate pending; fullremainingprogramcontinues |
-| Next canonical operation | YORI02_PUBLICATION_GATE; no Yorimichi 03whole admission before exact fullgate/freshpublishedauthorityreload |
+| Current phase | Owner-resumed Stage C; Yorimichi 03accepted26text/26image scopes/full publication gate pending; fullremainingprogramcontinues |
+| Next canonical operation | YORI03_PUBLICATION_GATE; no Yorimichi 04whole admission before exact fullgate/freshpublishedauthorityreload |
 | Current prospective model | Gen05 frozen through V15, original 25 blank pairs exact; formal V16–V17 8C/6P/1F/3AMB/7NT separate from accepted locals; no Gen06 |
 | Initial published continuing-branch head at reconnaissance | `0238f356ee2ade28e39aa3a940ea0e091f8211f4` |
 | Initial main at reconciliation | `53de8ba455938174a3f14f887cd33739261a4e5f` |
@@ -1070,3 +1070,18 @@ ExactsourceYORI-02/9172954bytes/SHA256`f7b9051a4f2bea3033eea528477d4cc80cfdebe21
 ## Yorimichi 02 whole-edition analytical acceptance — 2026-10-19T01:00:35.578390+00:00
 
 Main2675P/bonus0P/nonfiction71P/total2746P; full ruby/residual/image scopes before uncoded seal 2026-10-19T00:45:32.454836+00:00;86selected premises/83native-joined voices/31unchanged-contract local assessments/23ten-ledger appends. Supplemental17accepted/16already publishedof19; mixed5published; global percentage null. [Receiving](../10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI02_RECEIVING_AND_PROVENANCE.json) records same informed root, seventeen responsibilities/named subjects, exact native/context joins, unchanged original questions and qualified agency/transaction/access/protection/competence claims. All66current/72historical/four scores/14blanks exact. Current map uses present-operation markers; dated transition preserved in root changelog, without importing publication identifiers into current-entrypoint prose. Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Yorimichi 03 whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.
+
+
+## Yorimichi 02 fullgate closed and fresh authority reloaded — 2026-10-19T01:33:25.635115+00:00
+
+Sourcedb1454ef9027993713c8bcce58e8b993e6e8a0cd/treece3d7ce78e4c6e4a80a48b3b271c3559d6020dc5,8667remote paths/60changedstreams exact. Source39185092387/job117845731354 and final39185385499/job117846619902 each352fulltests/zeroallfive non-success/selectionfalse; housekeeping39185353219/job117846521670NO_OP/exact finalsource dispatch; exact integrationstatus succeeds on actualsource. Fresh590project/66current/fourscores/original14blankreload2026-10-19T01:32:58.409620+00:00 precedes next-source admission. [Gate receipt](KONOSUBA_YORI02_EXPANDED_PUBLICATION_GATE_CLOSE.json) closes pendinghistory. Yorimichi 03whole unopened; supplemental17of19/mixed5of5published/globalpercentage null;72historicalexact. Fullremainingprogramcontinues.
+
+
+## Yorimichi 03 separate native admission and pre-body seal — 2026-10-19T01:33:27.097231+00:00
+
+ExactsourceYORI-03/8547808bytes/SHA256`f60479bfe10ed8c7c0d36f0ad618dc3d1e17e65a167fa11b9519c34bf5042c0d`,freshCRC/JapaneseOPF/26text/26image metadata admitted after precedingfullgate/freshreload. Zeroactualnewbody/imagecreditsatadmission; complete uncodedpass before formal outcomes;17responsibilities/ten-ledger/component receiving/publication still required. Original14futurefields/fourscores/frozenauthority unchanged. Same informedroot/knownlaterholdouts, no pristineblindness. Fullprogramcontinues.
+
+
+## Yorimichi 03 whole-edition analytical acceptance — 2026-10-19T02:33:28.359773+00:00
+
+Main3006P/bonus0P/nonfiction54P/total3060P; full ruby/residual/image scopes before uncoded seal 2026-10-19T02:05:31.362330+00:00;98selected premises/146native-joined voices/31unchanged-contract local assessments/24ten-ledger appends. Supplemental18accepted/17already publishedof19; mixed5published; global percentage null. [Receiving](../10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI03_RECEIVING_AND_PROVENANCE.json) records same informed root, seventeen responsibilities/named subjects, exact native/context joins, unchanged original questions and qualified agency/transaction/access/protection/competence claims. All66current/72historical/four scores/14blanks exact. Current map uses present-operation markers; dated transition preserved in root changelog, without importing publication identifiers into current-entrypoint prose. Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Yorimichi 04 whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.

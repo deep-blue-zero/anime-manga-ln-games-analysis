@@ -1,7 +1,7 @@
 {
   "schema": "KONOSUBA_STAGE_C_COMPONENT_COVERAGE_V1",
   "status": "ACTIVE_NOT_COMPLETE",
-  "updated_utc": "2026-10-19T01:01:13.963846+00:00",
+  "updated_utc": "2026-10-19T02:34:12.353600+00:00",
   "fixed41_identity_seal": "fe59ede667ed3532f9cd0e62fdd650655d029c191fd3bd95df84ab404f2f56c5",
   "coverage_denominator_state": "FULL_ADMITTED_NARRATIVE_COMPONENT_DENOMINATOR_NOT_YET_RESOLVED",
   "expanded_narrative_completion_percentage": null,
@@ -25,7 +25,8 @@
       "MASK",
       "FD",
       "YORI-01",
-      "YORI-02"
+      "YORI-02",
+      "YORI-03"
     ],
     "not_an_expanded_component_percentage": true,
     "published_full_gate_closed": [
@@ -44,7 +45,8 @@
       "CONTEXP-02",
       "MASK",
       "FD",
-      "YORI-01"
+      "YORI-01",
+      "YORI-02"
     ]
   },
   "objects": [
@@ -772,8 +774,8 @@
       "source_id": "YORI-02",
       "native_sha256": "f7b9051a4f2bea3033eea528477d4cc80cfdebe214d51d0764a3cf1eef352baf",
       "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
-      "stage_C_status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
-      "remaining": "Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Yorimichi 03 whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.",
+      "stage_C_status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_PUBLISHED_FULL_GATE_CLOSED_AT_STATED_COMPONENT_SCOPES",
+      "remaining": "Supplied-edition scopes and publication gate closed; expanded synthesis/StageD/finalrelease remain.",
       "admission_utc": "2026-10-19T00:22:28.188019+00:00",
       "admission_sha256": "f3ede4239d7ca6a6c8335f815af412867c501b407c43506b2cb4e3c6f6eb1154",
       "preceding_full_gate_source": "8d83c69b16cdd4b6272518fdccc1282504cc0714",
@@ -798,14 +800,45 @@
       "actual_textual_components": 35,
       "reading": "10 Expanded Corpus/Yorimichi/KONOSUBA_YORI02_DEEP_READING.md",
       "register": "10 Expanded Corpus/Yorimichi/KONOSUBA_YORI02_COMPONENT_REGISTER.json",
-      "receiving": "10 Expanded Corpus/Yorimichi/KONOSUBA_YORI02_RECEIVING_AND_PROVENANCE.json"
+      "receiving": "10 Expanded Corpus/Yorimichi/KONOSUBA_YORI02_RECEIVING_AND_PROVENANCE.json",
+      "authorship_publication_state": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+      "publication_gate": {
+        "source_commit": "db1454ef9027993713c8bcce58e8b993e6e8a0cd",
+        "closed_utc": "2026-10-19T01:32:48.019209+00:00",
+        "receipt": "09 Audits and Manifests/KONOSUBA_YORI02_EXPANDED_PUBLICATION_GATE_CLOSE.json"
+      }
     },
     {
       "source_id": "YORI-03",
       "native_sha256": "f60479bfe10ed8c7c0d36f0ad618dc3d1e17e65a167fa11b9519c34bf5042c0d",
       "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
-      "stage_C_status": "NARRATIVE_COMPONENT_ANALYSIS_PENDING",
-      "remaining": "Separate admission, actual full admitted reading and coherent analysis/receiving/publication; structure/cache is not literary completion"
+      "stage_C_status": "WHOLE_SUPPLIED_EDITION_ANALYSIS_ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+      "remaining": "Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Yorimichi 04 whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.",
+      "admission_utc": "2026-10-19T01:33:26.395948+00:00",
+      "admission_sha256": "f68b6fdbf751bffe1463ab4e47722519395e6c01e0a363598e71f49f5242cf30",
+      "preceding_full_gate_source": "db1454ef9027993713c8bcce58e8b993e6e8a0cd",
+      "initial_separate_admission_snapshot": {
+        "source_id": "YORI-03",
+        "native_sha256": "f60479bfe10ed8c7c0d36f0ad618dc3d1e17e65a167fa11b9519c34bf5042c0d",
+        "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
+        "stage_C_status": "SEPARATELY_ADMITTED_WHOLE_EDITION_SOURCE_FIRST_READING_ACTIVE_NOT_ACCEPTED",
+        "remaining": "Full actual bodies/ruby/residuals/images and uncodedseal before formal outcomes;17responsibilities/tenledgers/component receiving/publication. No credit from extraction.",
+        "admission_utc": "2026-10-19T01:33:26.395948+00:00",
+        "admission_sha256": "f68b6fdbf751bffe1463ab4e47722519395e6c01e0a363598e71f49f5242cf30",
+        "preceding_full_gate_source": "db1454ef9027993713c8bcce58e8b993e6e8a0cd"
+      },
+      "accepted_utc": "2026-10-19T02:33:28.359773+00:00",
+      "principal_P_slots": 3006,
+      "other_P_slots": 54,
+      "separate_bonus_narrative": false,
+      "bonus_P_slots": 0,
+      "nonfiction_P_slots": 54,
+      "individually_identified_bonus_narrative_groups": [],
+      "all_native_images_actually_viewed": 26,
+      "actual_textual_components": 26,
+      "reading": "10 Expanded Corpus/Yorimichi/KONOSUBA_YORI03_DEEP_READING.md",
+      "register": "10 Expanded Corpus/Yorimichi/KONOSUBA_YORI03_COMPONENT_REGISTER.json",
+      "receiving": "10 Expanded Corpus/Yorimichi/KONOSUBA_YORI03_RECEIVING_AND_PROVENANCE.json"
     },
     {
       "source_id": "YORI-04",

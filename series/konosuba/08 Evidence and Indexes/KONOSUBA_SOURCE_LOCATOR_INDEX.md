@@ -1106,3 +1106,39 @@ Native9172954bytes/SHA256`f7b9051a4f2bea3033eea528477d4cc80cfdebe214d51d0764a3cf
 | YORI-02-U035 | item/navigation-documents.xhtml / 0 | OFF_SPINE_NAVIGATION |
 
 Main2675P/bonus0P/nonfiction71P/total2746P; full ruby/residual/image scopes before uncoded seal 2026-10-19T00:45:32.454836+00:00;86selected premises/83native-joined voices/31unchanged-contract local assessments/23ten-ledger appends. Supplemental17accepted/16already publishedof19; mixed5published; global percentage null. All35textresources2746P/28nativeimages actually received. Seven distinct longstories2469P plus three distinct mini-stories206P =2675Pfiction;71Ptextual nonfiction. One image-only sequential afterword coda is separately admitted at actual visual/memory-motif scope. No additional supplied electronic bonus body: original fair/BD/DVD/purchase-bonus provenance is integrated here, not another copy. Fine game-ad microcopy in coda is not used as factual or behavioral evidence; major printed title/footer and full panel order were actually read. All cover/title/profile/jacket/provenance resources individually dispositioned.
+
+
+## YORI-03 accepted whole-edition routes — 2026-10-19T02:33:28.359773+00:00
+
+Native8547808bytes/SHA256`f60479bfe10ed8c7c0d36f0ad618dc3d1e17e65a167fa11b9519c34bf5042c0d`. [Component register](../10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI03_COMPONENT_REGISTER.json), [full reading](../10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI03_DEEP_READING.md), [98selectedpremises](../10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI03_HUMOR_REGISTER.md), [146voicecontexts](../10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI03_VOICE_REGISTER.md), [31 local assessments](../10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI03_EXPLORATORY_LOCAL_ASSESSMENTS.json), [current qualifications](../10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI03_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](../10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI03_RECEIVING_AND_PROVENANCE.json) control exact joins.
+
+| Unit | Native member / P slots | Actual role |
+|---|---|---|
+| YORI-03-U001 | item/xhtml/p-cover.xhtml / 0 | COVER_ART |
+| YORI-03-U002 | item/xhtml/p-fmatter-001.xhtml / 0 | REPEATED_COLOR_COVER |
+| YORI-03-U003 | item/xhtml/p-fmatter-002.xhtml / 0 | COLOR_RING_HORN_TEASER_WITH_TEXT |
+| YORI-03-U004 | item/xhtml/p-fmatter-003.xhtml / 0 | COLOR_COLLAR_TEASER_WITH_TEXT |
+| YORI-03-U005 | item/xhtml/p-fmatter-004.xhtml / 0 | COLOR_WIZ_VANIR_TEASER_WITH_TEXT |
+| YORI-03-U006 | item/xhtml/p-fmatter-005.xhtml / 0 | VISUAL_TOC_AND_DESIGN_CREDIT |
+| YORI-03-U007 | item/xhtml/p-titlepage.xhtml / 0 | PRINTED_TITLE_AND_IMPRINT |
+| YORI-03-U008 | item/xhtml/p-caution.xhtml / 4 | ELECTRONIC_LAYOUT_NOTICES |
+| YORI-03-U009 | item/xhtml/p-toc-001.xhtml / 9 | TEXTUAL_TOC |
+| YORI-03-U010 | item/xhtml/p-001.xhtml / 0 | RASTER_EIGHT_CHARACTER_PROFILES |
+| YORI-03-U011 | item/xhtml/p-002.xhtml / 0 | STORY01_TITLE_WRAPPER |
+| YORI-03-U012 | item/xhtml/p-003.xhtml / 517 | STORY01_RING_POWERS_AND_COSTS |
+| YORI-03-U013 | item/xhtml/p-004.xhtml / 0 | STORY02_TITLE_WRAPPER |
+| YORI-03-U014 | item/xhtml/p-005.xhtml / 629 | STORY02_COLLAR_TRUST_AND_UNWANTED_CONDITIONS |
+| YORI-03-U015 | item/xhtml/p-006.xhtml / 0 | STORY03_TITLE_WRAPPER |
+| YORI-03-U016 | item/xhtml/p-007.xhtml / 517 | STORY03_BUSINESS_PRIVACY_AND_WIZ_VANIR_BATTLE |
+| YORI-03-U017 | item/xhtml/p-008.xhtml / 0 | STORY04_TITLE_WRAPPER |
+| YORI-03-U018 | item/xhtml/p-009.xhtml / 461 | STORY04_DATED_INTERLEAVED_DIARY_THREADS |
+| YORI-03-U019 | item/xhtml/p-010.xhtml / 0 | STORY05_TITLE_WRAPPER |
+| YORI-03-U020 | item/xhtml/p-011.xhtml / 882 | STORY05_THREE_TEMPORARY_ALTERNATIVES_AND_CURRENT_COMPANY |
+| YORI-03-U021 | item/xhtml/p-012.xhtml / 21 | AUTHOR_AFTERWORD_AND_ILLUSTRATED_REDO_MINIATURE |
+| YORI-03-U022 | item/xhtml/p-allcover-001.xhtml / 0 | JACKET_AUTHOR_ARTIST_BIOS_AND_SYNOPSIS |
+| YORI-03-U023 | item/xhtml/p-colophon.xhtml / 17 | ELECTRONIC_AND_BASE_PRINT_COLOPHON |
+| YORI-03-U024 | item/xhtml/p-colophon2.xhtml / 3 | RIGHTS_AND_BASE_EDITION_NOTICE |
+| YORI-03-U025 | item/xhtml/p-bookwalker.xhtml / 0 | BOOKWALKER_BRANDING |
+| YORI-03-U026 | item/navigation-documents.xhtml / 0 | OFF_SPINE_NAVIGATION |
+
+Main3006P/bonus0P/nonfiction54P/total3060P; full ruby/residual/image scopes before uncoded seal 2026-10-19T02:05:31.362330+00:00;98selected premises/146native-joined voices/31unchanged-contract local assessments/24ten-ledger appends. Supplemental18accepted/17already publishedof19; mixed5published; global percentage null. All26textualresources3060Pslots/26nativeimages actually received. Five longfictionbodies3006P plus54Ptextnonfiction;22dateddiaryframes,three temporary artifact alternatives and embedded books count within those parents. No separate electronic bonus. Every cover/title/profile/teaser/jacket/rights/navigation/image has an individual disposition; IMG016/019/020/021 planes do not add unseen enacted events. Current corrections preserve original uncoded notes exactly.
