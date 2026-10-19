@@ -5,19 +5,19 @@ artifact_type: claim_revision_ledger
 series: Genocidal Organ / 虐殺器官
 series_id: genocidal-organ
 generation: GENOCIDAL_ORGAN_BOOTSTRAP_V1
-version: '0.33'
+version: '0.34'
 status: active_provisional
 scope: Claims, counterevidence, predictions and revisions ledger
 source_boundary: GO-JP-EPUB-001 through complete epilogue heading and prose; GO-U028; exclusive before spine 42 text/part0040.html
 canonical_home: series/genocidal-organ/03 Longitudinal Ledgers/GENOCIDAL_ORGAN_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md
 created: '2026-10-16'
-review_status: G3_SEMANTIC_COMPLETE_EXACT_PUBLICATION_SEPARATE
+review_status: G4_INDEPENDENT_SEMANTIC_ACCEPTED_EXACT_PUBLICATION_SEPARATE
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
-evidence_rows: 96
-claims: 96
+evidence_rows: 97
+claims: 97
 predictions: 4
 revisions: 73
 ---
@@ -809,3 +809,15 @@ The owner separately commissioned G3 against the accepted complete-novel G2 stat
 | GO-CL096 / v1 | SUPPORTED_INFERENCE: Lucia's changing acts of address connect expertise, chosen disclosure, privacy objection and a public duty to know; her effects exceed Clavis's desired private verdict without making her an infallible conscience | G3 literary monograph C028; own decisions distinguished from Clavis projection and missing interval | U008-E002–012; U009-E008–014; U011-E010–016; U013-E001–006; U015-E001–007; U017-E006–010; U025-E007–009; U026-E008–010; U027-E004–009 | Edited-information consolation overreaches; John's motive ranking contests her diagnosis; her gun threat and acknowledged trial failure defeat idealized noncoercive guaranteed justice | No known earlier complicity/onset, verified marriage, reciprocal romance, general combat competence, pardon, posthumous endorsement or complete private policy | OPEN; PRESERVE CL031–032/034/040–047/078/082/084–085; [Lucia monograph](../04%20Character%20and%20Relationship%20Studies/GENOCIDAL_ORGAN_LUCIA_MONOGRAPH.md) |
 
 These arguments have received full-prose independent semantic review, source challenges and bounded name/reference checks. The [G3 convergence and readiness handoff](../07%20Audits%20and%20Handoffs/GENOCIDAL_ORGAN_G3_CONVERGENCE_AND_HANDOFF.md) now records substantive cross-specialist completion and surviving alternatives. No G3 claim revision or unresolved mandatory evidence obligation results; CL001–096 and RV001–073 retain their current bounded states and full histories. Repository publication remains separately audited. G4 synthesis, G5 reconstruction/validation and G6 release remain unperformed.
+
+
+<a id="go-g4-integrated-argument"></a>
+## G4 integrated novel argument register — 2026-10-18
+
+The separately authorized G4 synthesis adds one supported, open literary inference after independent source and complete-prose review. This is an integrated interpretation of admitted evidence, not a new narrative event or a revision of an earlier claim. CL001–096, RV001–073 and all predecessor formulations retain their exact substance; all 28 frozen readings and all four original forecast horizons remain untouched. The full argument, countercases and retrieval routes belong to [Useful accounts and the right to answer](../06%20Novel%20Synthesis/GENOCIDAL_ORGAN_INTEGRATED_NOVEL_SYNTHESIS.md), with actual final-byte acceptance in the [independent review](../07%20Audits%20and%20Handoffs/GENOCIDAL_ORGAN_G4_G5_INDEPENDENT_SEMANTIC_REVIEW.md).
+
+| Claim ID / version | Proposition and claim type | Attribution / narrative level / source frontier | Supporting evidence IDs and locators | Strongest competing reading and counterevidence | Discriminating test / uncertainty | Current state and dependent homes |
+| --- | --- | --- | --- | --- | --- | --- |
+| GO-CL097 / v1 | SUPPORTED_INFERENCE: The novel repeatedly distinguishes the practical sufficiency of partial accounts from authority over another person's meaning and costs; its retrospective form reopens the limits of usable profiles, records, theories and protective stories, while the ending makes owned destructive authorship explicit without completing public answerability or projected catastrophe. Functioning care, records and Lucia's enacted alternative support a horizon in which another person's demand can contest an account and change action, rather than an escape through total knowledge or universal control. | G4 integrated whole-novel literary argument through GO-U028; practical action, character avowal, retrospective narrator and public addressee remain distinct | U001-E003–008; U003-E008–010; U005-E011–016; U006-E002–003; U013-E003–005; U014-E003/E009–013; U015-E001–012; U023-E008–009; U024-E004–006; U025-E003–004/E008–009; U026-E004–010; U027-E002–010; U028-E003–009; original member/N/L routes and exact XML/hash appendices linked in the synthesis | Bedside decisions cannot await unknowable wishes; practical role division and records genuinely work; ordinary unequal reciprocity is not coercion; Lucia uses a gun and cannot guarantee safe disclosure or public judgment; John refuses to claim justice yet still chooses; present harms are actual, future massacre/rescue uncompleted. | No general law explaining every event or asserted complete social program; differences in scale, purpose and warrant retained. Hidden motive, inaccessible wishes, safety of publicity and final social aftermath remain open; useful partial accounts can justify action under specific authority and purpose without total knowledge | OPEN; PRESERVE CL001–096/RV001–073; [integrated synthesis](../06%20Novel%20Synthesis/GENOCIDAL_ORGAN_INTEGRATED_NOVEL_SYNTHESIS.md); no new RV, forecast, readiness promotion or behavioral validation |
+
+Independent review accepted the argument after correcting only a new candidate's attribution of hospital wayfinding to a clinician. This correction changes no previously accepted source claim. Actor/relationship and knowledge owners require no new event or current-state change from G4. G5 source/model/test acceptance and G6 release remain separately gated; repository publication is not inferred from this semantic disposition.
