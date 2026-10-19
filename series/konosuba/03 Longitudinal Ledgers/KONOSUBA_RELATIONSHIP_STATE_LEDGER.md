@@ -1198,3 +1198,12 @@ New21resources171P/30images actually read/viewed; accepted7principal members2915
 | ID | Subjects / native route | Observation | Implication | Limit |
 |---|---|---|---|---|
 | M02EX-LD02 | Kazuma/Megumin/Darkness/Aqua/Chris, with actual actors and evidence planes individually fixed; U024P25/40-50 | Chris actually visits D; the prior invitation is K's reported overheard conversation. Familiar K/M play includes real penalty and a later unfairness objection. | Separate actual visit, reported invitation, chosen play and disputed informational fairness; no unlimited permission. | New bonus and declared paratext; retained-principal joins are audits of existing events, not new independent tests. Original ledger prefixes, controls and scores stay exact. |
+
+
+## Main 03 excluded-component received observations — 2026-10-19T07:51:28.048149+00:00
+
+New24resources180P/30images actually read/viewed; accepted8principal members3001P retained withzero newprincipal reading credit. Containing publication/full gate pending. [Reading](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V03_EXCLUDED_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V03_EXCLUDED_LEDGER_APPEND_DECISIONS.json), [comparisons](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V03_EXCLUDED_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [qualifications](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V03_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) control uptake. Same informed root; selected12premises/30fragments are not a census, independent experiment or new blind scores. Frozen66/72/fourscores/14originalDustblanks exact.
+
+| ID | Subjects / native route | Observation | Implication | Limit |
+|---|---|---|---|---|
+| M03EX-LD02 | Kazuma/Megumin/Darkness/Aqua/Chris, with actual actors and evidence planes individually fixed; U028P1-6/40-48 | Public-location objection, intensity negotiation and painful reciprocal waking have act-specific scope. | Familiarity or an initial request cannot authorize every later context. Full prior-boundary predicates are not invented. | New bonus and declared paratext; retained-principal joins are audits of existing events, not new independent tests. Original ledger prefixes, controls and scores stay exact. |

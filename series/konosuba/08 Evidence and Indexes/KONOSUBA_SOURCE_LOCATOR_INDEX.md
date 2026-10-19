@@ -1249,3 +1249,43 @@ Main2900P/bonus0P/nonfiction52P/total2952P; full ruby/residual/image scopes befo
 | MAIN-02-U026 | item/xhtml/p-colophon.xhtml / 17 | SUPPLIED_EDITION_COLOPHON;newprincipalcredit0 |
 | MAIN-02-U027 | item/xhtml/p-bookwalker.xhtml / 1 | BOOKWALKER_BRAND_WRAPPER;newprincipalcredit0 |
 | MAIN-02-U028 | item/navigation-documents.xhtml / 0 | OFF_SPINE_NAVIGATION;newprincipalcredit0 |
+
+
+## MAIN-03 excluded-component accepted routes — 2026-10-19T07:51:28.048149+00:00
+
+[Register](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V03_EXCLUDED_COMPONENT_REGISTER.json), [reading](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V03_EXCLUDED_DEEP_READING.md), [voice](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V03_EXCLUDED_VOICE_REGISTER.md), [comparisons](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V03_EXCLUDED_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [qualifications](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V03_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) govern new/inherited boundaries. All24newresources180P/30images actually received;8accepted principal members3001P retained exact/newprincipalcredit0. One62Pbonus,53Pcreatorafterword and65otherwrapper/credit/navigation slots; two-page embedded imagined sequence and Aqua rhetorical callout have separate image-only roles. Profiles/preview/coda are separate planes. These slot counts are not a narrative denominator. Selected12premises/30voicefragments,31principal+8party informedcomparisons/fourtypedconstraints,11appends across tenledgers/28qualifications. Supplemental19/mixed5fullgates closed;MAIN01/MAIN02excludedfullgates remain closed;MAIN03analysis accepted/publicationpending;other14mainexcluded programs remain;globalcomponentpercentage null.
+
+| Unit | Native member / slots | Disposition |
+|---|---|---|
+| MAIN-03-U001 | item/xhtml/p-cover.xhtml / 1 | COVER_WRAPPER;newprincipalcredit0 |
+| MAIN-03-U002 | item/xhtml/p-fmatter-001.xhtml / 1 | REPEATED_COVER_WRAPPER;newprincipalcredit0 |
+| MAIN-03-U003 | item/xhtml/p-fmatter-002.xhtml / 1 | COLOR_COURT_DIALOGUE_WRAPPER;newprincipalcredit0 |
+| MAIN-03-U004 | item/xhtml/p-fmatter-003.xhtml / 1 | COLOR_YUNYUN_REFUSAL_DIALOGUE_WRAPPER;newprincipalcredit0 |
+| MAIN-03-U005 | item/xhtml/p-fmatter-004.xhtml / 1 | COLOR_AQUA_MAID_DIALOGUE_WRAPPER;newprincipalcredit0 |
+| MAIN-03-U006 | item/xhtml/p-fmatter-005.xhtml / 1 | COLOR_MASK_POSSESSION_DIALOGUE_WRAPPER;newprincipalcredit0 |
+| MAIN-03-U007 | item/xhtml/p-fmatter-006.xhtml / 1 | RASTER_TOC_WRAPPER;newprincipalcredit0 |
+| MAIN-03-U008 | item/xhtml/p-titlepage.xhtml / 5 | TITLE_IMPRINT;newprincipalcredit0 |
+| MAIN-03-U009 | item/xhtml/p-caution.xhtml / 6 | ELECTRONIC_LAYOUT_RIGHTS_NOTICE;newprincipalcredit0 |
+| MAIN-03-U010 | item/xhtml/p-toc-001.xhtml / 11 | TEXTUAL_TOC_INCLUDING_BONUS;newprincipalcredit0 |
+| MAIN-03-U011 | item/xhtml/p-001.xhtml / 1 | RASTER_DEFENSE_PROFILE_SCRIPT_WRAPPER;newprincipalcredit0 |
+| MAIN-03-U012 | item/xhtml/p-002.xhtml / 1 | RASTER_PROSECUTION_PROFILE_SCRIPT_WRAPPER;newprincipalcredit0 |
+| MAIN-03-U013 | item/xhtml/p-003.xhtml / 25 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-03-U014 | item/xhtml/p-004.xhtml / 460 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-03-U015 | item/xhtml/p-005.xhtml / 1 | IMAGE_ONLY_AQUA_REFUTATION_CALLOUT_WITH_RETAINED_JOIN;newprincipalcredit0 |
+| MAIN-03-U016 | item/xhtml/p-006.xhtml / 176 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-03-U017 | item/xhtml/p-007.xhtml / 638 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-03-U018 | item/xhtml/p-008.xhtml / 680 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-03-U019 | item/xhtml/p-009.xhtml / 1 | IMAGE_ONLY_EMBEDDED_IMAGINED_COERCION_PAGE1;newprincipalcredit0 |
+| MAIN-03-U020 | item/xhtml/p-010.xhtml / 1 | IMAGE_ONLY_EMBEDDED_IMAGINED_COERCION_PAGE2;newprincipalcredit0 |
+| MAIN-03-U021 | item/xhtml/p-011.xhtml / 148 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-03-U022 | item/xhtml/p-012.xhtml / 694 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-03-U023 | item/xhtml/p-013.xhtml / 180 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-03-U024 | item/xhtml/p-014.xhtml / 53 | AUTHOR_AFTERWORD_NONFICTION;newprincipalcredit0 |
+| MAIN-03-U025 | item/xhtml/p-015.xhtml / 1 | ILLUSTRATOR_CODA_WRAPPER;newprincipalcredit0 |
+| MAIN-03-U026 | item/xhtml/p-016.xhtml / 1 | NEXT_PROMOTIONAL_SCRIPT_WRAPPER;newprincipalcredit0 |
+| MAIN-03-U027 | item/xhtml/p-017.xhtml / 5 | ELECTRONIC_BONUS_TITLE;newprincipalcredit0 |
+| MAIN-03-U028 | item/xhtml/p-018.xhtml / 62 | SLEEPING_FOREST_CRUSADER_COMPLETE_BONUS_FICTION;newprincipalcredit0 |
+| MAIN-03-U029 | item/xhtml/p-019.xhtml / 6 | STAFF_DESIGN_CREDITS;newprincipalcredit0 |
+| MAIN-03-U030 | item/xhtml/p-colophon.xhtml / 17 | SUPPLIED_EDITION_COLOPHON;newprincipalcredit0 |
+| MAIN-03-U031 | item/xhtml/p-bookwalker.xhtml / 1 | BOOKWALKER_BRAND_WRAPPER;newprincipalcredit0 |
+| MAIN-03-U032 | item/navigation-documents.xhtml / 0 | OFF_SPINE_NAVIGATION;newprincipalcredit0 |

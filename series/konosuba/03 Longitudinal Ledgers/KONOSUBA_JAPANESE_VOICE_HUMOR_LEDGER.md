@@ -1650,3 +1650,12 @@ New21resources171P/30images actually read/viewed; accepted7principal members2915
 | ID | Subjects / native route | Observation | Implication | Limit |
 |---|---|---|---|---|
 | M02EX-LD04 | Kazuma/Megumin/Darkness/Aqua/Chris, with actual actors and evidence planes individually fixed; V01-V24 | Game terms, formal competitive protest, Chris's casual D address and D's practical imperative perform different local functions. | Exact bounded written fragments after seal; no acoustic, native-human, preselected-window or L3-by-vocabulary claim. | New bonus and declared paratext; retained-principal joins are audits of existing events, not new independent tests. Original ledger prefixes, controls and scores stay exact. |
+
+
+## Main 03 excluded-component received observations — 2026-10-19T07:51:28.048149+00:00
+
+New24resources180P/30images actually read/viewed; accepted8principal members3001P retained withzero newprincipal reading credit. Containing publication/full gate pending. [Reading](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V03_EXCLUDED_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V03_EXCLUDED_LEDGER_APPEND_DECISIONS.json), [comparisons](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V03_EXCLUDED_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [qualifications](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V03_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) control uptake. Same informed root; selected12premises/30fragments are not a census, independent experiment or new blind scores. Frozen66/72/fourscores/14originalDustblanks exact.
+
+| ID | Subjects / native route | Observation | Implication | Limit |
+|---|---|---|---|---|
+| M03EX-LD04 | Kazuma/Megumin/Darkness/Aqua/Chris, with actual actors and evidence planes individually fixed; V01-V30 | Practical proposals, conditional mercy, alarm correction, qualified causal inference and distinct raster roles remain separate. | The local ヒキニート/カズマ reading relation is L3 at that form; the whole role-mismatch effect remains portable. Written-only post-seal selection. | New bonus and declared paratext; retained-principal joins are audits of existing events, not new independent tests. Original ledger prefixes, controls and scores stay exact. |

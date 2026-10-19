@@ -1436,3 +1436,12 @@ New21resources171P/30images actually read/viewed; accepted7principal members2915
 | ID | Subjects / native route | Observation | Implication | Limit |
 |---|---|---|---|---|
 | M02EX-LD01 | Kazuma/Megumin/Darkness/Aqua/Chris, with actual actors and evidence planes individually fixed; U024P1-62 | M's domain-specific game failure and K's usable prior knowledge coexist with D's ordinary practical action and Aqua's dozing. | Clan status is no general IQ, and offensive weakness is no global household incapacity. | New bonus and declared paratext; retained-principal joins are audits of existing events, not new independent tests. Original ledger prefixes, controls and scores stay exact. |
+
+
+## Main 03 excluded-component received observations — 2026-10-19T07:51:28.048149+00:00
+
+New24resources180P/30images actually read/viewed; accepted8principal members3001P retained withzero newprincipal reading credit. Containing publication/full gate pending. [Reading](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V03_EXCLUDED_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V03_EXCLUDED_LEDGER_APPEND_DECISIONS.json), [comparisons](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V03_EXCLUDED_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [qualifications](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V03_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) control uptake. Same informed root; selected12premises/30fragments are not a census, independent experiment or new blind scores. Frozen66/72/fourscores/14originalDustblanks exact.
+
+| ID | Subjects / native route | Observation | Implication | Limit |
+|---|---|---|---|---|
+| M03EX-LD01 | Kazuma/Megumin/Darkness/Aqua/Chris, with actual actors and evidence planes individually fixed; U028P1-30 | D's serious conditional spirit-help aim coexists with local pain preferences; K actually helps while retaining his separate event goal. | Neither all-masochism nor all-selfishness fits; actual reluctance and genuine help remain separately attributed. | New bonus and declared paratext; retained-principal joins are audits of existing events, not new independent tests. Original ledger prefixes, controls and scores stay exact. |
