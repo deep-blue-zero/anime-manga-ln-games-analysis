@@ -1,0 +1,262 @@
+{
+  "schema": "KONOSUBA_WHOLE_LOCAL_TEXT_EPUB_ACTUAL_UNCODED_READING_SEAL_V1",
+  "source_id": "FD",
+  "sealed_utc": "2026-10-18T22:35:15.015450+00:00",
+  "native_filename": "Konosuba - Spin-off - Fantastic Days.epub",
+  "native_bytes": 5358777,
+  "native_sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
+  "fresh_native_ZIP_CRC": "PASS",
+  "actual_complete_textual_units": 25,
+  "actual_paragraph_slots": 3707,
+  "actual_unique_native_images_viewed": 15,
+  "unit_interval_verification": [
+    {
+      "component_id": "FD-U001",
+      "native_member": "item/xhtml/p-cover.xhtml",
+      "sha256": "0f8b4500df63d8ab38dbb444adabde0da3242e360fa0d656442adb4e19ce331c",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "FD-U002",
+      "native_member": "item/xhtml/p-fmatter-001.xhtml",
+      "sha256": "2715cadd7a7395c7e4d5360485b5d421df88a94cea19a0426da38bf356a9e5c5",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "FD-U003",
+      "native_member": "item/xhtml/p-fmatter-002.xhtml",
+      "sha256": "8a8018999ba620b0d8eb3f2bd342e0836614c6d906fbdfe512f01d12fb307a01",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "FD-U004",
+      "native_member": "item/xhtml/p-fmatter-003.xhtml",
+      "sha256": "af0126b05a73e1c3cbb8230eb816579f20da75a56ecf892a0252fe71a5a0157d",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "FD-U005",
+      "native_member": "item/xhtml/p-fmatter-004.xhtml",
+      "sha256": "cbe130121dd58f2aa868d8327c1760b35742d52a4425c0381b11d9639d222533",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "FD-U006",
+      "native_member": "item/xhtml/p-titlepage.xhtml",
+      "sha256": "9fb5fe8f6202a36ad457178e9f90211fb5ee153202f80afd10ded8869228f7af",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "FD-U007",
+      "native_member": "item/xhtml/p-caution.xhtml",
+      "sha256": "49c6724be5fe694366b3fb9b9f34b5b4d575a047ee916c7093e807669a02ec67",
+      "paragraph_slots_actually_received": 4,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "FD-U008",
+      "native_member": "item/xhtml/p-001.xhtml",
+      "sha256": "3869a3fe9a66793663547626be453762a93239c42d3f9de47c2d88b6bfa7f698",
+      "paragraph_slots_actually_received": 6,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "FD-U009",
+      "native_member": "item/xhtml/p-toc-001.xhtml",
+      "sha256": "ebeba588def6cd61e029352f6cfad84c4c120db3ddd60cb4f9d9c6b88cabbc68",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "FD-U010",
+      "native_member": "item/xhtml/p-toc-002.xhtml",
+      "sha256": "32c30149b43fc5b6c3b8162bfc9ec3af8f8ad45244e1f5112c21c877928a37fc",
+      "paragraph_slots_actually_received": 13,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "FD-U011",
+      "native_member": "item/xhtml/p-002.xhtml",
+      "sha256": "6c3f40216ab087a4fe3c8140697827d85ed5dd387be084191b728cb6da2ca487",
+      "paragraph_slots_actually_received": 36,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "FD-U012",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "sha256": "ce69d8dd7882ae6337941cc3db1002515832b1e50e5dc24038653a26b80ea971",
+      "paragraph_slots_actually_received": 522,
+      "intervals": 4,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "FD-U013",
+      "native_member": "item/xhtml/p-004.xhtml",
+      "sha256": "e2b37d53c0f123af0a10e896a3f9ca552b74cd2a3050ecad462a7b4f73c734e8",
+      "paragraph_slots_actually_received": 592,
+      "intervals": 4,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "FD-U014",
+      "native_member": "item/xhtml/p-005.xhtml",
+      "sha256": "91be06290b393ab66b0341e1f34ff0b80d3903d575b54514d2deec136d6d1529",
+      "paragraph_slots_actually_received": 620,
+      "intervals": 4,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "FD-U015",
+      "native_member": "item/xhtml/p-006.xhtml",
+      "sha256": "84b69ab4fbb7c997ed442716b501abb2b7d6079ef858f16f9939f16ac08b06b7",
+      "paragraph_slots_actually_received": 560,
+      "intervals": 4,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "FD-U016",
+      "native_member": "item/xhtml/p-007.xhtml",
+      "sha256": "2f9a8fccec77226682cf06f5fe752a6986b6cba4affdfb2cb9ac14afbb58d51f",
+      "paragraph_slots_actually_received": 403,
+      "intervals": 3,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "FD-U017",
+      "native_member": "item/xhtml/p-008.xhtml",
+      "sha256": "df2b7d5cc566cba5825265989977d995a68483d874ce20d8994a7c09578dc803",
+      "paragraph_slots_actually_received": 455,
+      "intervals": 3,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "FD-U018",
+      "native_member": "item/xhtml/p-009.xhtml",
+      "sha256": "4623448e7e56a40aeeed86065761a5cf92e7fb47bf951c0e1ef1e50e2cb536dd",
+      "paragraph_slots_actually_received": 380,
+      "intervals": 3,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "FD-U019",
+      "native_member": "item/xhtml/p-010.xhtml",
+      "sha256": "b2aff2abadc2d04e714c67c34faa09e2779447f74bb3cd43965365f7b6b18a9d",
+      "paragraph_slots_actually_received": 77,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "FD-U020",
+      "native_member": "item/xhtml/p-011.xhtml",
+      "sha256": "bb2b95fc3f1a8f2bfd8cd7297781962a96360d49e19e8c4008cacafbfc2dea54",
+      "paragraph_slots_actually_received": 17,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "FD-U021",
+      "native_member": "item/xhtml/p-allcover-001.xhtml",
+      "sha256": "c68d991a8204ea25dcd718dda818f6df7e1b1473f7af1fd431b60647355b847b",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "FD-U022",
+      "native_member": "item/xhtml/p-colophon.xhtml",
+      "sha256": "19948c4611fa7b04465fba0adf50a749f71f28b1555975a1bf18e40465323972",
+      "paragraph_slots_actually_received": 19,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "FD-U023",
+      "native_member": "item/xhtml/p-colophon2.xhtml",
+      "sha256": "4e30e63e7cd5128ddab489bcfc2351eec9ade1dba28febf4f40fc7e76f4efdfd",
+      "paragraph_slots_actually_received": 3,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "FD-U024",
+      "native_member": "item/xhtml/p-bookwalker.xhtml",
+      "sha256": "65719179002ebb0468c3ba14986dda2049ad4c6a087daba3350b8c2189eeb97d",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "FD-U025",
+      "native_member": "item/navigation-documents.xhtml",
+      "sha256": "da7b9623815a31aed0c0781a3a226280f48d2d096c224ef57b91af6ec3467ce9",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    }
+  ],
+  "immutable_uncoded_pins": [
+    {
+      "file": "NATIVE_ADMISSION.json",
+      "bytes": 23449,
+      "sha256": "7dde511db60e6f8db5d1b20a8dbe6acda7c9deb8a3384d5d3b2bba53475dafef"
+    },
+    {
+      "file": "ROOT_PRE_BODY_PREPARATION_SEAL.json",
+      "bytes": 150789,
+      "sha256": "2f874635c4d5f4944d67d508282ea6dcb485dc0b8dd308992c16e1a03c6f1c1a"
+    },
+    {
+      "file": "ACTUAL_SOURCE_FIRST_UNCODED_NOTES.jsonl",
+      "bytes": 184126,
+      "sha256": "280ac3f260f78a39e6b6d7b9286cecd3eeca9ae0a5bef7d2085a51afcf239f6a"
+    },
+    {
+      "file": "ACTUAL_IMAGE_VIEW_UNCODED_NOTES.jsonl",
+      "bytes": 12169,
+      "sha256": "61341f1b4985805f4759cc6522c7bdf14144c9bddd3fc3a9c7c101d82383d093"
+    },
+    {
+      "file": "UNCODED_IMAGE_SCOPE_CORRECTIONS.jsonl",
+      "bytes": 1063,
+      "sha256": "d2d66a759d78828e03c34b4ffadfabf8ea4f19caaeaf7e891902c5fffb3bc127"
+    }
+  ],
+  "all_source_first_formal_outcomes_still_unassigned": true,
+  "reader": "Continuing informed root AI; same author and receiver, no independent review, pristine blindness, native-human or audio claim.",
+  "scope": "All supplied textual bodies, ruby readings displayed inline, native nonparagraph residuals, front/end/navigation, electronic bonus, author and contributor paratext, and every image received actual separate reading/view records. Exact layout inspection of textual XHTML is not a separate print-page facsimile claim. Structural extraction alone received no reading credit.",
+  "corrections_to_resolve_in_separate_current_derivatives": [
+    "A fresh complete visual rereading of native FD-IMG007 confirms the profile says コン次郎, without dakuten. The original private transcription ゴン次郎 was wrong; preserve it as historical, not as a native inconsistency. FD-U015P306/309/313 and FD-U017P87/310/312 also say コン次郎, the fox plush. FD-U013P94 names ポン太さん and FD-U015P304 explicitly describes multiple plush toys, so these are not established as the same item or a source contradiction. No change to actual source coverage, scores or models."
+  ],
+  "remaining": "Formal L/H and voice coding, natural-order question assessment, seventeen-responsibility report, component dispositions, ledger decisions, acceptance, and full publication gate; no whole-program completion claim.",
+  "pre_seal_actual_image_scope_corrections_preserving_originals": [
+    {
+      "schema": "KONOSUBA_PRE_SEAL_ACTUAL_IMAGE_TRANSCRIPTION_CORRECTION_V1",
+      "source_id": "FD",
+      "image_id": "FD-IMG007",
+      "native_image_sha256": "88d0475de460663582423e97c7803f9081b53d73ec6e3728154ce70a488fe5eb",
+      "original_uncoded_image_log_sha256": "61341f1b4985805f4759cc6522c7bdf14144c9bddd3fc3a9c7c101d82383d093",
+      "original_note_retained_exact": true,
+      "recorded_after_actual_model_view_utc": "2026-10-18T22:35:11.501655+00:00",
+      "formal_outcomes_assigned": false,
+      "original_erroneous_transcription": "ゴン次郎",
+      "current_scope": "A fresh complete visual rereading of native FD-IMG007 confirms the profile says コン次郎, without dakuten. The original private transcription ゴン次郎 was wrong; preserve it as historical, not as a native inconsistency. FD-U015P306/309/313 and FD-U017P87/310/312 also say コン次郎, the fox plush. FD-U013P94 names ポン太さん and FD-U015P304 explicitly describes multiple plush toys, so these are not established as the same item or a source contradiction. No change to actual source coverage, scores or models."
+    }
+  ]
+}

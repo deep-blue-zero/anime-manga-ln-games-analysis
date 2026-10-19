@@ -1,0 +1,1842 @@
+{
+  "schema": "KONOSUBA_YORI01_SELECTED_WHOLE_PREMISE_REGISTER_V1",
+  "created_utc": "2026-10-18T23:52:06.525012+00:00",
+  "source_id": "YORI-01",
+  "H_protocol": "H1 literal source-compatible acts; H2 actual amplification with stated intensity limits; H3 behavior too local-punchline-bound to generalize; H4 actual nonliteral behavioral license. Fantasy, deception, performance, survival, unknown cause and uncertain motive are not automatic H3/H4. Comic framing does not erase harm.",
+  "L_protocol": "L0 portable proposition; L1 material phrasing/rhythm; L2 pragmatics/register/recipient force; L3 central Japanese form requiring reconstruction or annotation. Ordinary idiom, cultural script, ruby, name or spell label alone does not establish L3.",
+  "selected_record_count": 91,
+  "counts_describe_selected_records_only": {
+    "H": {
+      "H1": 90,
+      "H2": 1
+    },
+    "L": {
+      "L2": 86,
+      "L0": 4,
+      "L3": 1
+    }
+  },
+  "no_population_denominator_or_accuracy_score": true,
+  "records": [
+    {
+      "id": "YORI01-WHOLE-H001",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U012",
+        "native_member": "text/part0010.html",
+        "native_member_sha256": "d4cf22b19da44890c01c8afcd571058a94f672c0598c1ad4962b00cf5c21666f",
+        "start_P": 4,
+        "end_P": 32
+      },
+      "whole_selected_premise": "The idle household dismisses its supposedly useless members while relying on their actual work and connections.",
+      "primary_L": "L2",
+      "L_rationale": "D supplied K’s gate job; K and Aq’s dismissive labels conflict with their own known dependence.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Aq alone sees the resident ghost here; K’s disbelief does not establish absence.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H002",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U012",
+        "native_member": "text/part0010.html",
+        "native_member_sha256": "d4cf22b19da44890c01c8afcd571058a94f672c0598c1ad4962b00cf5c21666f",
+        "start_P": 33,
+        "end_P": 49
+      },
+      "whole_selected_premise": "Excellent crystal polishing becomes deliberate destruction because the job was accepted for stress relief.",
+      "primary_L": "L2",
+      "L_rationale": "M’s own stated goal differs from K’s wage assumption; compensation and a requested loan remain costs.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Not an accidental break or drift from an original money goal; sale of her staff is threatened, not performed.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H003",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U012",
+        "native_member": "text/part0010.html",
+        "native_member_sha256": "d4cf22b19da44890c01c8afcd571058a94f672c0598c1ad4962b00cf5c21666f",
+        "start_P": 50,
+        "end_P": 77
+      },
+      "whole_selected_premise": "The spirit counselor first asks to delay the very exorcism offered, then really undertakes it next day.",
+      "primary_L": "L2",
+      "L_rationale": "D’s correction exposes task mismatch; cold and leisure qualify initial resistance without erasing later work.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "D knows the family; K mistakes her history and does not know her noble identity.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H004",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U012",
+        "native_member": "text/part0010.html",
+        "native_member_sha256": "d4cf22b19da44890c01c8afcd571058a94f672c0598c1ad4962b00cf5c21666f",
+        "start_P": 87,
+        "end_P": 109
+      },
+      "whole_selected_premise": "K restrains D for presumed rudeness while the client is deferential because of the rank K does not know.",
+      "primary_L": "L2",
+      "L_rationale": "The client’s actual request to release D and ordinary-name permission precede Aq’s bare address.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Permission to use a given name is real; exasperation does not retroactively revoke it.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H005",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U012",
+        "native_member": "text/part0010.html",
+        "native_member_sha256": "d4cf22b19da44890c01c8afcd571058a94f672c0598c1ad4962b00cf5c21666f",
+        "start_P": 113,
+        "end_P": 144
+      },
+      "whole_selected_premise": "An embarrassing haunting report invites a doctor recommendation until precise private facts establish real spirit contact.",
+      "primary_L": "L2",
+      "L_rationale": "Symptoms, skeptical interpretation and corroborating names/history occupy different evidential stages.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Not a clinical diagnosis; father’s words are mediated by Aq and selectively corroborated by client.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H006",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U012",
+        "native_member": "text/part0010.html",
+        "native_member_sha256": "d4cf22b19da44890c01c8afcd571058a94f672c0598c1ad4962b00cf5c21666f",
+        "start_P": 149,
+        "end_P": 170
+      },
+      "whole_selected_premise": "A client changes from forceful removal to a willing farewell, while K prices his errand as a share of the reward.",
+      "primary_L": "L2",
+      "L_rationale": "Translation-only scope is stated and accepted before the actual purchase.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "No automatic claim that every ghost request was a lie; the later admitted blame-shifting has narrower scope.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H007",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U012",
+        "native_member": "text/part0010.html",
+        "native_member_sha256": "d4cf22b19da44890c01c8afcd571058a94f672c0598c1ad4962b00cf5c21666f",
+        "start_P": 176,
+        "end_P": 198
+      },
+      "whole_selected_premise": "A possessed toy receives an informed hug, then a requested blow against K is refused and K wrings the toy instead.",
+      "primary_L": "L2",
+      "L_rationale": "Specific assent to one contact does not authorize another; client actually intervenes.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "No completed punch, blanket toy consent or toy movement is invented.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H008",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U012",
+        "native_member": "text/part0010.html",
+        "native_member_sha256": "d4cf22b19da44890c01c8afcd571058a94f672c0598c1ad4962b00cf5c21666f",
+        "start_P": 199,
+        "end_P": 215
+      },
+      "whole_selected_premise": "D protects the toy from burning until the ghost imposes an unwanted family comparison.",
+      "primary_L": "L2",
+      "L_rationale": "Her explicit stop-translation demand changes the current boundary; prior sympathy is not permanent welcome.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Proposed burning is not performed; non-graphic treatment of the unwelcome comparison.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H009",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U012",
+        "native_member": "text/part0010.html",
+        "native_member_sha256": "d4cf22b19da44890c01c8afcd571058a94f672c0598c1ad4962b00cf5c21666f",
+        "start_P": 221,
+        "end_P": 228
+      },
+      "whole_selected_premise": "An insulting ghost becomes polite when K threatens to publish his private diary.",
+      "primary_L": "L2",
+      "L_rationale": "Independent possession/leverage precedes the changed request, not inferred from grammar alone.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "The diary is actually found; public reading/printing is threatened, not completed.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H010",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U012",
+        "native_member": "text/part0010.html",
+        "native_member_sha256": "d4cf22b19da44890c01c8afcd571058a94f672c0598c1ad4962b00cf5c21666f",
+        "start_P": 230,
+        "end_P": 254
+      },
+      "whole_selected_premise": "A moving farewell is interrupted by a final adoption disclosure that leaves the son with a new unanswered question.",
+      "primary_L": "L2",
+      "L_rationale": "Real gratitude, tears and departure coexist with the family’s unresolved identity problem.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Diary destruction is promised, not shown; biological parentage remains unknown.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H011",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U012",
+        "native_member": "text/part0010.html",
+        "native_member_sha256": "d4cf22b19da44890c01c8afcd571058a94f672c0598c1ad4962b00cf5c21666f",
+        "start_P": 257,
+        "end_P": 275
+      },
+      "whole_selected_premise": "D hides the very acquaintance supporting her reassurance, then Aq willingly shares the received reward drink.",
+      "primary_L": "L2",
+      "L_rationale": "Rank concealment and genuine desire to drink together are separate observable commitments.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Cash reward is reported; K’s suspicion of every purchase request is not thereby proved.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H012",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U012",
+        "native_member": "text/part0010.html",
+        "native_member_sha256": "d4cf22b19da44890c01c8afcd571058a94f672c0598c1ad4962b00cf5c21666f",
+        "start_P": 286,
+        "end_P": 302
+      },
+      "whole_selected_premise": "K considers apologizing after seeing wine disappear, then hears Aq admit she falsely blamed him.",
+      "primary_L": "L2",
+      "L_rationale": "Partial spirit corroboration and one actual deception coexist; the planned apology is abandoned.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Only Aq’s side of the ghost conversation is heard; do not turn the image into K seeing the ghost.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H013",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U012",
+        "native_member": "text/part0010.html",
+        "native_member_sha256": "d4cf22b19da44890c01c8afcd571058a94f672c0598c1ad4962b00cf5c21666f",
+        "start_P": 303,
+        "end_P": 336
+      },
+      "whole_selected_premise": "Aq’s reflection on particular company warms the unseen K until a proposed disclosure of his secrets brings him downstairs.",
+      "primary_L": "L2",
+      "L_rationale": "Affectionate appraisal and privacy pressure change actual response in successive phases.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Heaven return remains blocked by the Demon King; no freely available easy separation, cast Create Water or new quest.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H014",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U014",
+        "native_member": "text/part0012.html",
+        "native_member_sha256": "b21083b8523c2b3f6703e9dc1a7755285e821f14ba9c34d49edaa106ce50abc4",
+        "start_P": 5,
+        "end_P": 23
+      },
+      "whole_selected_premise": "The caller is ignored until his cold plea, then M burns the warrant before learning its allegation.",
+      "primary_L": "L2",
+      "L_rationale": "Actual obstruction is distinct from innocence of the reported explosions.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "No successful escape from all legal costs or actual conviction is narrated.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H015",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U014",
+        "native_member": "text/part0012.html",
+        "native_member_sha256": "b21083b8523c2b3f6703e9dc1a7755285e821f14ba9c34d49edaa106ce50abc4",
+        "start_P": 27,
+        "end_P": 56
+      },
+      "whole_selected_premise": "A convincing circumstantial case becomes an exoneration, and the earlier condemners claim they always believed.",
+      "primary_L": "L2",
+      "L_rationale": "M requests a lie detector and actually goes; false loyal hindsight is checked against prior speech.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "No reaction is reported; a perfectly infallible device is not established.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H016",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U014",
+        "native_member": "text/part0012.html",
+        "native_member_sha256": "b21083b8523c2b3f6703e9dc1a7755285e821f14ba9c34d49edaa106ce50abc4",
+        "start_P": 58,
+        "end_P": 98
+      },
+      "whole_selected_premise": "Flattery of K’s fame becomes brisk departure after his debt is known, while a speculative superior caster mobilizes M.",
+      "primary_L": "L2",
+      "L_rationale": "Economic interest and chosen-art rivalry have independent preceding cues.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "D’s family connection is stated by the deputy; no assumption K absorbed all its implications.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H017",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U014",
+        "native_member": "text/part0012.html",
+        "native_member_sha256": "b21083b8523c2b3f6703e9dc1a7755285e821f14ba9c34d49edaa106ce50abc4",
+        "start_P": 101,
+        "end_P": 128
+      },
+      "whole_selected_premise": "The clerk distrusts the cleared M because of real past trouble, which M partly acknowledges while covering her ears.",
+      "primary_L": "L2",
+      "L_rationale": "New innocence and old responsibility are not mutually exclusive.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Device malfunction is the clerk’s hypothesis, not an observed fact.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H018",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U014",
+        "native_member": "text/part0012.html",
+        "native_member_sha256": "b21083b8523c2b3f6703e9dc1a7755285e821f14ba9c34d49edaa106ce50abc4",
+        "start_P": 129,
+        "end_P": 150
+      },
+      "whole_selected_premise": "A suspect list grows from M’s many disputes, including a new actual assault during the investigation.",
+      "primary_L": "L2",
+      "L_rationale": "K’s timeline correction blocks one revenge theory but not the newly performed wrong.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Names and motive guesses do not establish any suspect’s guilt.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H019",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U014",
+        "native_member": "text/part0012.html",
+        "native_member_sha256": "b21083b8523c2b3f6703e9dc1a7755285e821f14ba9c34d49edaa106ce50abc4",
+        "start_P": 154,
+        "end_P": 190
+      },
+      "whole_selected_premise": "Yun offers to share blame to protect M while mistakenly presuming guilt, then an attempted friendship label is cut into rivalry.",
+      "primary_L": "L2",
+      "L_rationale": "Care, wrong premises and a received relationship correction coexist in actual dialogue.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "The earlier female-devil blame story does not identify that devil or prove actual culpability.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H020",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U014",
+        "native_member": "text/part0012.html",
+        "native_member_sha256": "b21083b8523c2b3f6703e9dc1a7755285e821f14ba9c34d49edaa106ce50abc4",
+        "start_P": 194,
+        "end_P": 212
+      },
+      "whole_selected_premise": "No alibi becomes coercive questioning of Yun, then her exoneration leaves M admitting deliberate friend-humiliation.",
+      "primary_L": "L2",
+      "L_rationale": "Lack of an alibi is not guilt; a current correction does not erase confessed past conduct.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Detention/testing is shown, not a criminal conviction.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H021",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U014",
+        "native_member": "text/part0012.html",
+        "native_member_sha256": "b21083b8523c2b3f6703e9dc1a7755285e821f14ba9c34d49edaa106ce50abc4",
+        "start_P": 215,
+        "end_P": 230
+      },
+      "whole_selected_premise": "M insists on a cold-day cast after hearing of a better Explosion user, valuing the snow as an artistic canvas.",
+      "primary_L": "L2",
+      "L_rationale": "Known companion discomfort precedes the competitive choice and actual cast.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "The distant additional blast is initially uncertain, later separately observed; no new form-specific score from a metaphor.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H022",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U014",
+        "native_member": "text/part0012.html",
+        "native_member_sha256": "b21083b8523c2b3f6703e9dc1a7755285e821f14ba9c34d49edaa106ce50abc4",
+        "start_P": 235,
+        "end_P": 243
+      },
+      "whole_selected_premise": "A police ban is countered with a false claim that not casting will make M die and destroy the city.",
+      "primary_L": "L2",
+      "L_rationale": "K explicitly rejects the causal claim; M admits it was persuasion.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Neither real magical physiology nor nonliteral permission for actual later acts follows.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H023",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U014",
+        "native_member": "text/part0012.html",
+        "native_member_sha256": "b21083b8523c2b3f6703e9dc1a7755285e821f14ba9c34d49edaa106ce50abc4",
+        "start_P": 251,
+        "end_P": 283
+      },
+      "whole_selected_premise": "Heroic volunteers expect M to do the dangerous work, but she makes the imposed ban a bargaining tool.",
+      "primary_L": "L2",
+      "L_rationale": "Unaccepted provider presumption and Aq’s desire to go home expose asymmetric burdens.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Only full rescission, not the temporary offer, precedes M’s accepted casting.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H024",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U014",
+        "native_member": "text/part0012.html",
+        "native_member_sha256": "b21083b8523c2b3f6703e9dc1a7755285e821f14ba9c34d49edaa106ce50abc4",
+        "start_P": 287,
+        "end_P": 312
+      },
+      "whole_selected_premise": "A real large cast kills the bears and its crater disproves equivalence with the earlier reported blasts.",
+      "primary_L": "L0",
+      "L_rationale": "Actual target effect, collapse, K’s support and comparison are distinct phases.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Some prior backup geometry is supplied, not an exhaustive prior friendly-safety and recovery map.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H025",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U014",
+        "native_member": "text/part0012.html",
+        "native_member_sha256": "b21083b8523c2b3f6703e9dc1a7755285e821f14ba9c34d49edaa106ce50abc4",
+        "start_P": 314,
+        "end_P": 346
+      },
+      "whole_selected_premise": "A cleared M receives thanks while D independently arrives with a specimen that restores a different causal responsibility.",
+      "primary_L": "L2",
+      "L_rationale": "Mine mushrooms respond to nearby strong magic; sincere denial can coexist with indirect causation.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Harvest/disposal is proposed; the full forest population and every blast chain are not observed.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H026",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U014",
+        "native_member": "text/part0012.html",
+        "native_member_sha256": "b21083b8523c2b3f6703e9dc1a7755285e821f14ba9c34d49edaa106ce50abc4",
+        "start_P": 348,
+        "end_P": 353
+      },
+      "whole_selected_premise": "M demands evidence only after the evidence implicates her, and the deputy reaches for cuffs.",
+      "primary_L": "L2",
+      "L_rationale": "A sound abstract standard becomes self-serving timing in the actual case.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Cuffs drawn are not a completed arrest; prior unknown trigger is not backdated into deliberate causation.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H027",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U016",
+        "native_member": "text/part0014.html",
+        "native_member_sha256": "a30ebfe41332c78ffa76d99a952911f15f7bc77daf58887a5ea49445604b9431",
+        "start_P": 7,
+        "end_P": 16
+      },
+      "whole_selected_premise": "A board game makes both idle and industrious household members call their activity work.",
+      "primary_L": "L2",
+      "L_rationale": "A reserve-building argument competes with an actual chores wager.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Game Teleport and board-flipping Explosion do not give M new magic abilities.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H028",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U016",
+        "native_member": "text/part0014.html",
+        "native_member_sha256": "a30ebfe41332c78ffa76d99a952911f15f7bc77daf58887a5ea49445604b9431",
+        "start_P": 24,
+        "end_P": 50
+      },
+      "whole_selected_premise": "K’s no-contact scouting solution is rejected as defeating D’s adopted purpose.",
+      "primary_L": "L2",
+      "L_rationale": "A real capability-test request coexists with suggestive rival motives not yet admitted.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "K’s accusations are denied; later preferences cannot supply an earlier confession.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H029",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U016",
+        "native_member": "text/part0014.html",
+        "native_member_sha256": "a30ebfe41332c78ffa76d99a952911f15f7bc77daf58887a5ea49445604b9431",
+        "start_P": 64,
+        "end_P": 86
+      },
+      "whole_selected_premise": "A quiet signal is read as a pinky promise, then D discovers the tentacles are not the experience she wanted.",
+      "primary_L": "L2",
+      "L_rationale": "Misreceived instructions and explicit current fear defeat blanket inference from her general appetite.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "No actual coercive creature contact is needed to establish her refusal and flight.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H030",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U016",
+        "native_member": "text/part0014.html",
+        "native_member_sha256": "a30ebfe41332c78ffa76d99a952911f15f7bc77daf58887a5ea49445604b9431",
+        "start_P": 93,
+        "end_P": 116
+      },
+      "whole_selected_premise": "A thought-shaped creature resembles a named myth, but practical defense and a cast permit actual escape.",
+      "primary_L": "L0",
+      "L_rationale": "K’s Japanese-origin theory is an inference; D shields and K carries depleted M.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Not proof the creature is the external myth being; first blast does not kill it.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H031",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U016",
+        "native_member": "text/part0014.html",
+        "native_member_sha256": "a30ebfe41332c78ffa76d99a952911f15f7bc77daf58887a5ea49445604b9431",
+        "start_P": 128,
+        "end_P": 144
+      },
+      "whole_selected_premise": "A reduced-force test exposes real weakness despite the recipient’s stop request.",
+      "primary_L": "L2",
+      "L_rationale": "Aq mistakes weakness for acting; K’s useful test still violates an actual boundary.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Reward and closure/report are real; diagnostic usefulness is not permission.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H032",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U016",
+        "native_member": "text/part0014.html",
+        "native_member_sha256": "a30ebfe41332c78ffa76d99a952911f15f7bc77daf58887a5ea49445604b9431",
+        "start_P": 150,
+        "end_P": 175
+      },
+      "whole_selected_premise": "M obtains mana and uses a strength contest to reverse her usual dependence on D, then Aq supplies a delayed cure.",
+      "primary_L": "L2",
+      "L_rationale": "D first refuses, then actually accepts the taunted contest; magical treatment has a stated two-to-three-day horizon.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Next-day weakness alone cannot falsify the treatment, and the cream-puff theft is a different disclosed cause.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H033",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U016",
+        "native_member": "text/part0014.html",
+        "native_member_sha256": "a30ebfe41332c78ffa76d99a952911f15f7bc77daf58887a5ea49445604b9431",
+        "start_P": 177,
+        "end_P": 225
+      },
+      "whole_selected_premise": "D’s real need for chores help creates welcome care and renewed humiliation in the same household.",
+      "primary_L": "L2",
+      "L_rationale": "Tea and jar opening are performed help; others’ wish she remain weak meets her explicit objection.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Later enjoyment of an imposed role does not retrospectively permit its start.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H034",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U016",
+        "native_member": "text/part0014.html",
+        "native_member_sha256": "a30ebfe41332c78ffa76d99a952911f15f7bc77daf58887a5ea49445604b9431",
+        "start_P": 229,
+        "end_P": 270
+      },
+      "whole_selected_premise": "Crowd mockery of weakness is answered by actual protective women, while K’s intervention exposes his own patronizing premise.",
+      "primary_L": "L2",
+      "L_rationale": "Material help holding a mug and explicit defense alter D’s situation.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Promised escort is not a completed escorted journey.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H035",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U016",
+        "native_member": "text/part0014.html",
+        "native_member_sha256": "a30ebfe41332c78ffa76d99a952911f15f7bc77daf58887a5ea49445604b9431",
+        "start_P": 277,
+        "end_P": 303
+      },
+      "whole_selected_premise": "D enjoys spoon-feeding but still wants the curse cured, while K asks to extend it for convenience.",
+      "primary_L": "L2",
+      "L_rationale": "Distinct wants coexist; her explicit no prevents a welcome-care scene becoming blanket weakness preference.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "No actual extension is performed.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H036",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U016",
+        "native_member": "text/part0014.html",
+        "native_member_sha256": "a30ebfe41332c78ffa76d99a952911f15f7bc77daf58887a5ea49445604b9431",
+        "start_P": 314,
+        "end_P": 339
+      },
+      "whole_selected_premise": "A wounded returning threat brings M’s reliance on D into focus, and the still-weak D offers the shield anyway.",
+      "primary_L": "L2",
+      "L_rationale": "Known defensive role differs from lifting strength; other adventurers actually volunteer protection.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Future combat is interrupted before execution; no safety guarantee from declarations.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H037",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U016",
+        "native_member": "text/part0014.html",
+        "native_member_sha256": "a30ebfe41332c78ffa76d99a952911f15f7bc77daf58887a5ea49445604b9431",
+        "start_P": 342,
+        "end_P": 359
+      },
+      "whole_selected_premise": "D’s strength returns just as someone else has already finished the wounded creature.",
+      "primary_L": "L0",
+      "L_rationale": "A table-grip test establishes recovery; the offstage Wiz report and caster-death rule introduce an alternative cause.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Do not uniquely credit delayed Break Spell, divine favor or D’s own final kill.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H038",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U016",
+        "native_member": "text/part0014.html",
+        "native_member_sha256": "a30ebfe41332c78ffa76d99a952911f15f7bc77daf58887a5ea49445604b9431",
+        "start_P": 361,
+        "end_P": 367
+      },
+      "whole_selected_premise": "The return of strength ends solicitous attention, and D asks K to find another weakness curse.",
+      "primary_L": "L2",
+      "L_rationale": "The intensity of wanted dependency amplifies her demonstrated care appetite.",
+      "primary_H": "H2",
+      "H_rationale": "Actual dependency appetite is amplified at this bounded intensity, not licensed as an invariant future policy.",
+      "eligibility_and_limits": "One exaggerated request, not an actual new curse, universal wish to be helpless or permission for prior abuse.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H039",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U018",
+        "native_member": "text/part0016.html",
+        "native_member_sha256": "63bed8223c62f387c1377bb6a969d24ba25db81aa7e3ec06cc48b9d6b2ecee62",
+        "start_P": 7,
+        "end_P": 39
+      },
+      "whole_selected_premise": "Aq invokes law and penitence to appropriate a recovered wallet, exposed by questions about timing and recipient.",
+      "primary_L": "L2",
+      "L_rationale": "The supposed moral authority admits a finder-fee plan; K physically intervenes and Chris escapes.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "The original novice’s return is only reported later; no clerical ownership created.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H040",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U018",
+        "native_member": "text/part0016.html",
+        "native_member_sha256": "63bed8223c62f387c1377bb6a969d24ba25db81aa7e3ec06cc48b9d6b2ecee62",
+        "start_P": 51,
+        "end_P": 88
+      },
+      "whole_selected_premise": "M learns the black stone is cursed and values it more because of its name and appearance.",
+      "primary_L": "L2",
+      "L_rationale": "A known practical cost competes with her aesthetic preference, not simple ignorance.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "The stone’s effect does not independently explain every subsequent bad event.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H041",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U018",
+        "native_member": "text/part0016.html",
+        "native_member_sha256": "63bed8223c62f387c1377bb6a969d24ba25db81aa7e3ec06cc48b9d6b2ecee62",
+        "start_P": 90,
+        "end_P": 110
+      },
+      "whole_selected_premise": "M confirms theft-based blackmail, then recruits the public against K by presenting herself as victim.",
+      "primary_L": "L2",
+      "L_rationale": "Known reputation and audience change supply actual leverage.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "K’s past boundary violations remain relevant; Chris’s initial theft does not authorize M’s method.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H042",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U018",
+        "native_member": "text/part0016.html",
+        "native_member_sha256": "63bed8223c62f387c1377bb6a969d24ba25db81aa7e3ec06cc48b9d6b2ecee62",
+        "start_P": 116,
+        "end_P": 151
+      },
+      "whole_selected_premise": "Chris’s claimed friendship meets K’s narrow acquaintance account, then a successful cat imitation saves both.",
+      "primary_L": "L2",
+      "L_rationale": "K performs Stealth; Chris supplies the sound; police supply the Neroid explanation.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "No mind-reading or K authorship of the cat tactic; Chris’s prior coercive wager remains.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H043",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U018",
+        "native_member": "text/part0016.html",
+        "native_member_sha256": "63bed8223c62f387c1377bb6a969d24ba25db81aa7e3ec06cc48b9d6b2ecee62",
+        "start_P": 180,
+        "end_P": 214
+      },
+      "whole_selected_premise": "Drinks purchased with the reward convert the threatened criminal into a clerical friend.",
+      "primary_L": "L2",
+      "L_rationale": "Changed practical incentives and reciprocal senior/junior talk expose identity irony to the reader.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "K does not learn Chris is Eris; their thanks do not establish the earlier appropriation was right.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H044",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U018",
+        "native_member": "text/part0016.html",
+        "native_member_sha256": "63bed8223c62f387c1377bb6a969d24ba25db81aa7e3ec06cc48b9d6b2ecee62",
+        "start_P": 225,
+        "end_P": 254
+      },
+      "whole_selected_premise": "Aq’s righteous confrontation fails and she asks the weak NEET for the verbal tactic she lacks.",
+      "primary_L": "L2",
+      "L_rationale": "Explicit divinity dismissal precedes the actual response episode; revenge is not automatically self-legitimation.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Her divine assertion before the denial cannot count as a response to it.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H045",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U018",
+        "native_member": "text/part0016.html",
+        "native_member_sha256": "63bed8223c62f387c1377bb6a969d24ba25db81aa7e3ec06cc48b9d6b2ecee62",
+        "start_P": 269,
+        "end_P": 287
+      },
+      "whole_selected_premise": "Aq correctly identifies the novice scam but omits self-knowledge from her maxim and insists on wagering.",
+      "primary_L": "L2",
+      "L_rationale": "K’s restored maxim explains why knowing an opponent is insufficient.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Not a formal Japanese-only pun merely because the saying has cultural history.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H046",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U018",
+        "native_member": "text/part0016.html",
+        "native_member_sha256": "63bed8223c62f387c1377bb6a969d24ba25db81aa7e3ec06cc48b9d6b2ecee62",
+        "start_P": 291,
+        "end_P": 315
+      },
+      "whole_selected_premise": "A rule loophole permits a real Blessing yet the low-luck contestant still loses.",
+      "primary_L": "L2",
+      "L_rationale": "Actual tactic and stochastic result are separate; the crowd’s bets do not create competence.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "One loss does not prove the buff failed; no repeated-loss cycle or new invented throw.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H047",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U018",
+        "native_member": "text/part0016.html",
+        "native_member_sha256": "63bed8223c62f387c1377bb6a969d24ba25db81aa7e3ec06cc48b9d6b2ecee62",
+        "start_P": 317,
+        "end_P": 339
+      },
+      "whole_selected_premise": "The winner takes more than the agreed contents, then K’s heroic recovery challenge fails a funds check.",
+      "primary_L": "L2",
+      "L_rationale": "Aq’s exact-scope objection survives her earlier trick; real available money undercuts the pose.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Wallet’s gift history is first disclosed after loss; no fungible equivalent offered.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H048",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U018",
+        "native_member": "text/part0016.html",
+        "native_member_sha256": "63bed8223c62f387c1377bb6a969d24ba25db81aa7e3ec06cc48b9d6b2ecee62",
+        "start_P": 341,
+        "end_P": 359
+      },
+      "whole_selected_premise": "Chris offers her own valuable stake and restores the wallet, receiving a conversion offer she declines.",
+      "primary_L": "L2",
+      "L_rationale": "A real volunteered provider differs from earlier forced recruitment.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Contest details are elided and stone draw/recovery reported; no actual public stripping or conversion.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H049",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U018",
+        "native_member": "text/part0016.html",
+        "native_member_sha256": "63bed8223c62f387c1377bb6a969d24ba25db81aa7e3ec06cc48b9d6b2ecee62",
+        "start_P": 375,
+        "end_P": 389
+      },
+      "whole_selected_premise": "The same cursed stone attracts M for style and D for misfortune, while D tries to look like its responsible custodian.",
+      "primary_L": "L2",
+      "L_rationale": "Verbal slips and K’s inference implicate the orderer without an explicit confession.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Not a verified sale price, confirmed unique curse cause or consent to all costs.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H050",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U018",
+        "native_member": "text/part0016.html",
+        "native_member_sha256": "63bed8223c62f387c1377bb6a969d24ba25db81aa7e3ec06cc48b9d6b2ecee62",
+        "start_P": 390,
+        "end_P": 398
+      },
+      "whole_selected_premise": "M’s boast becomes negotiation and surrender when two Steal users threaten a public consequence.",
+      "primary_L": "L2",
+      "L_rationale": "Specific known leverage changes her actual speech before execution.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Final seizure, exposure, arrest and stone destination are unperformed in narration.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H051",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U020",
+        "native_member": "text/part0018.html",
+        "native_member_sha256": "f98d101efb147882b8ab4b49837b148c19596a30310034d4c7e60e2a821e5ad6",
+        "start_P": 4,
+        "end_P": 26
+      },
+      "whole_selected_premise": "The supreme undead is bullied over tea by the beneficiary visiting to thank her.",
+      "primary_L": "L2",
+      "L_rationale": "Literal power and apologetic social position diverge; others praise the tea while insulting D.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Tea quality is actual appraisal, not proof of general helplessness or permanent youth for all liches.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H052",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U020",
+        "native_member": "text/part0018.html",
+        "native_member_sha256": "f98d101efb147882b8ab4b49837b148c19596a30310034d4c7e60e2a821e5ad6",
+        "start_P": 43,
+        "end_P": 68
+      },
+      "whole_selected_premise": "Aq mistakes expert recruitment for a culprit accusation, then K’s perfect-formation claim receives doubt.",
+      "primary_L": "L2",
+      "L_rationale": "Clerk explicitly denies suspecting Wiz and differentiates actual roles.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Wiz’s lich identity is known to the party, not the clerk.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H053",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U020",
+        "native_member": "text/part0018.html",
+        "native_member_sha256": "f98d101efb147882b8ab4b49837b148c19596a30310034d4c7e60e2a821e5ad6",
+        "start_P": 76,
+        "end_P": 105
+      },
+      "whole_selected_premise": "Lich folklore insults the present lich, while Aq proposes purifying her as a diagnostic.",
+      "primary_L": "L2",
+      "L_rationale": "Wiz corrects a rumor and explicitly rejects sacrificial testing before the encounter.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "No trusted willing-consent condition; the proposal is not yet a cast.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H054",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U020",
+        "native_member": "text/part0018.html",
+        "native_member_sha256": "f98d101efb147882b8ab4b49837b148c19596a30310034d4c7e60e2a821e5ad6",
+        "start_P": 110,
+        "end_P": 138
+      },
+      "whole_selected_premise": "The eager exorcist flees frightening ghouls, is rescued by Wiz, and hurts the rescuer with grateful tears.",
+      "primary_L": "L2",
+      "L_rationale": "Adopted task failure, newly encountered fear, actual rescue and harmful recovery contact are separate.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "K actually separates them; no magical incapacity invented from her flight.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H055",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U020",
+        "native_member": "text/part0018.html",
+        "native_member_sha256": "f98d101efb147882b8ab4b49837b148c19596a30310034d4c7e60e2a821e5ad6",
+        "start_P": 151,
+        "end_P": 182
+      },
+      "whole_selected_premise": "A proud vampire cannot charm or shock Wiz but refuses to recognize her species and attacks its status.",
+      "primary_L": "L2",
+      "L_rationale": "Actual resistance changes his information; competitive taxonomies are adversarial voices.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Not every insulting hierarchy claim becomes a neutral world rule.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H056",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U020",
+        "native_member": "text/part0018.html",
+        "native_member_sha256": "f98d101efb147882b8ab4b49837b148c19596a30310034d4c7e60e2a821e5ad6",
+        "start_P": 200,
+        "end_P": 218
+      },
+      "whole_selected_premise": "A supposedly humble Wiz joins a prestige duel, which Aq interrupts with damaging purification of both.",
+      "primary_L": "L2",
+      "L_rationale": "Actual shared duel assent does not authorize a third-party attack.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Wiz nearly fades; Beldia’s appearance is a reported near-death image, not a living meeting.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H057",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U020",
+        "native_member": "text/part0018.html",
+        "native_member_sha256": "f98d101efb147882b8ab4b49837b148c19596a30310034d4c7e60e2a821e5ad6",
+        "start_P": 238,
+        "end_P": 258
+      },
+      "whole_selected_premise": "Two rivals flee the imposed Explosion test and propose a gentler alternative while M eagerly readies.",
+      "primary_L": "L2",
+      "L_rationale": "Both actual no/escape and K’s benefaction-based intervention must remain; XP motive is narrator attribution.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "M was present for the original target proposal; significant early bond remains uncertain, aftermath absent without cast.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H058",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U020",
+        "native_member": "text/part0018.html",
+        "native_member_sha256": "f98d101efb147882b8ab4b49837b148c19596a30310034d4c7e60e2a821e5ad6",
+        "start_P": 264,
+        "end_P": 288
+      },
+      "whole_selected_premise": "The replacement contest makes both drain Aq rather than each other, and the apparent victim is comfortable while they become ill.",
+      "primary_L": "L2",
+      "L_rationale": "Method changed from their proposal; concern and unclear judging rules precede discovery.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Their initial acceptance is not informed permission to sacred poisoning.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H059",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U020",
+        "native_member": "text/part0018.html",
+        "native_member_sha256": "f98d101efb147882b8ab4b49837b148c19596a30310034d4c7e60e2a821e5ad6",
+        "start_P": 289,
+        "end_P": 308
+      },
+      "whole_selected_premise": "Aq prevents withdrawal while the others try to save Wiz; the vampire offers a vegetarian future.",
+      "primary_L": "L2",
+      "L_rationale": "Explicit stop requests, real restraint and actual failed intervention keep costs literal.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "A pledge is not future compliance; intervention is attempted, not successful cessation.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H060",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U020",
+        "native_member": "text/part0018.html",
+        "native_member_sha256": "f98d101efb147882b8ab4b49837b148c19596a30310034d4c7e60e2a821e5ad6",
+        "start_P": 309,
+        "end_P": 312
+      },
+      "whole_selected_premise": "Blue-eyed vigilance ends in a purified vampire and a shop closed for a week.",
+      "primary_L": "L2",
+      "L_rationale": "Aq adapts the vigilance idiom to her actual eye color; functional gloss plus literal eye color preserves the mismatch.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "No automatic L3 for an idiom variation alone; no permanent Wiz death or exact recovery mechanism.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H061",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U022",
+        "native_member": "text/part0020.html",
+        "native_member_sha256": "1be523b948822df73ada764c5f7f05309ee688866be5e05980222e337f27e0c2",
+        "start_P": 7,
+        "end_P": 30
+      },
+      "whole_selected_premise": "Aq announces vigilance because the devil is more popular, then cold postpones her mission.",
+      "primary_L": "L2",
+      "L_rationale": "Her child-frightening imitation and demand for attack evidence qualify the moral frame.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Vanir’s danger is independently real to K; resistance is not necessarily a low-risk trial.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H062",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U022",
+        "native_member": "text/part0020.html",
+        "native_member_sha256": "1be523b948822df73ada764c5f7f05309ee688866be5e05980222e337f27e0c2",
+        "start_P": 36,
+        "end_P": 76
+      },
+      "whole_selected_premise": "An explicit rejection of a humiliating transport device meets a purchase and three days of silence.",
+      "primary_L": "L2",
+      "L_rationale": "Practical recovery, K’s embarrassment and M’s recipient boundary conflict.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Purchase is actual; wearing the carrier is not shown.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H063",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U022",
+        "native_member": "text/part0020.html",
+        "native_member_sha256": "1be523b948822df73ada764c5f7f05309ee688866be5e05980222e337f27e0c2",
+        "start_P": 83,
+        "end_P": 104
+      },
+      "whole_selected_premise": "Aq calls the devil’s social method sinister while K compares it to her own church, then apology-dance intentions prove no comfort.",
+      "primary_L": "L2",
+      "L_rationale": "Parallel practices and recipient impact undermine categorical self-exemption.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Advertised ghost-repellent efficacy is not observed in the customer’s home.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H064",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U022",
+        "native_member": "text/part0020.html",
+        "native_member_sha256": "1be523b948822df73ada764c5f7f05309ee688866be5e05980222e337f27e0c2",
+        "start_P": 105,
+        "end_P": 123
+      },
+      "whole_selected_premise": "A sold-out street worker exposes the stalkers and tolerates following only without interference.",
+      "primary_L": "L2",
+      "L_rationale": "An actual harmless-looking job and frightening head turn coexist with a stated boundary.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "No inferred apology to the frightened child or promise of universal devil harmlessness.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H065",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U022",
+        "native_member": "text/part0020.html",
+        "native_member_sha256": "1be523b948822df73ada764c5f7f05309ee688866be5e05980222e337f27e0c2",
+        "start_P": 125,
+        "end_P": 143
+      },
+      "whole_selected_premise": "Surveillance turns into rival produce sales, each claiming victory on a different metric.",
+      "primary_L": "L2",
+      "L_rationale": "Unit count and profit differ, while both actually benefit the shopkeeper.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Permanent job offers declined; vegetable battle claims remain advertisements.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H066",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U022",
+        "native_member": "text/part0020.html",
+        "native_member_sha256": "1be523b948822df73ada764c5f7f05309ee688866be5e05980222e337f27e0c2",
+        "start_P": 147,
+        "end_P": 189
+      },
+      "whole_selected_premise": "Paid potatoes become shared breakfast, then a useful protective-product idea is greeted as suspicious.",
+      "primary_L": "L2",
+      "L_rationale": "Aq’s actual long work and bounded domain competence contradict blanket uselessness.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "M eating nearby does not prove carrier grievance repaired; Nightmare horse is only a hypothesis.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H067",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U022",
+        "native_member": "text/part0020.html",
+        "native_member_sha256": "1be523b948822df73ada764c5f7f05309ee688866be5e05980222e337f27e0c2",
+        "start_P": 193,
+        "end_P": 209
+      },
+      "whole_selected_premise": "A competent broad demon repellent has no demand because it excludes a desired service too.",
+      "primary_L": "L2",
+      "L_rationale": "K’s repeated refusal follows the actual scope answer; demand failure differs from magical failure.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "No forced charm handover, proved absent magic or actual service episode from a product claim.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H068",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U022",
+        "native_member": "text/part0020.html",
+        "native_member_sha256": "1be523b948822df73ada764c5f7f05309ee688866be5e05980222e337f27e0c2",
+        "start_P": 215,
+        "end_P": 256
+      },
+      "whole_selected_premise": "A speculative jackpot rumor produces confidence, desertion of work and a false drinking cover.",
+      "primary_L": "L2",
+      "L_rationale": "K’s expectations outrun any actual provider promise.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Non-graphic critical scope; imagined future scenarios are not events or consent.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H069",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U022",
+        "native_member": "text/part0020.html",
+        "native_member_sha256": "1be523b948822df73ada764c5f7f05309ee688866be5e05980222e337f27e0c2",
+        "start_P": 258,
+        "end_P": 295
+      },
+      "whole_selected_premise": "A grateful visitor frame becomes Vanir’s cruel jackpot and K’s actual scream.",
+      "primary_L": "L2",
+      "L_rationale": "Revelation is retrospectively reported; embarrassment is real without elaborating imagined contact.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "No performed intimate act or exact transformation sequence is supplied.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H070",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U022",
+        "native_member": "text/part0020.html",
+        "native_member_sha256": "1be523b948822df73ada764c5f7f05309ee688866be5e05980222e337f27e0c2",
+        "start_P": 297,
+        "end_P": 302
+      },
+      "whole_selected_premise": "K adopts the anti-devil mission just as Aq and D welcome the publicly useful Vanir as resident.",
+      "primary_L": "L2",
+      "L_rationale": "Private harm and public service yield desynchronized evaluations.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "K’s extermination vow is not an actual killing, authorized quest or completed departure.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H071",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U024",
+        "native_member": "text/part0022.html",
+        "native_member_sha256": "114f35a942b8917aa4b2ee0db34da1674f5ddc23eb6a7b8b2dd2f7bba20258fc",
+        "start_P": 21,
+        "end_P": 54
+      },
+      "whole_selected_premise": "An intimidating namesake actually helps, while K begins honesty and substitutes an alias when more accusers arrive.",
+      "primary_L": "L2",
+      "L_rationale": "Perceived strength precedes polite probing; appearance is not proof of extortion.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "False identity is actual, not excused by later claims of literal truth.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H072",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U024",
+        "native_member": "text/part0022.html",
+        "native_member_sha256": "114f35a942b8917aa4b2ee0db34da1674f5ddc23eb6a7b8b2dd2f7bba20258fc",
+        "start_P": 69,
+        "end_P": 120
+      },
+      "whole_selected_premise": "A paid informant praises himself as a third person and wins tears plus a promise to leave him alone.",
+      "primary_L": "L2",
+      "L_rationale": "Alias, venue choice and selected causal history engineer the listeners’ appraisal.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Departure only proposed here; grandfather’s Japanese origin remains K’s inference.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H073",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U024",
+        "native_member": "text/part0022.html",
+        "native_member_sha256": "114f35a942b8917aa4b2ee0db34da1674f5ddc23eb6a7b8b2dd2f7bba20258fc",
+        "start_P": 128,
+        "end_P": 145
+      },
+      "whole_selected_premise": "A tiny pause changes Megumin into the visiting Megumi and provokes reciprocal naming insults.",
+      "primary_L": "L3",
+      "L_rationale": "The exact name segment メグミ plus delayed ン performs the comparison; translation must preserve/rebuild this minimal form relation.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "This is the selected name-form joke, not the whole otherwise portable household scene; print timing is not heard audio.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H074",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U024",
+        "native_member": "text/part0022.html",
+        "native_member_sha256": "114f35a942b8917aa4b2ee0db34da1674f5ddc23eb6a7b8b2dd2f7bba20258fc",
+        "start_P": 166,
+        "end_P": 199
+      },
+      "whole_selected_premise": "D restrains an unjustified attack, while K uses one valid correction to pressure the wronged listener into apology.",
+      "primary_L": "L2",
+      "L_rationale": "Actual legal threat, causal defense and deliberate reverse anger have different truth conditions.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Megumi’s almost-apology is stopped; allies’ admission K is wrong does not prevent their support.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H075",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U024",
+        "native_member": "text/part0022.html",
+        "native_member_sha256": "114f35a942b8917aa4b2ee0db34da1674f5ddc23eb6a7b8b2dd2f7bba20258fc",
+        "start_P": 205,
+        "end_P": 235
+      },
+      "whole_selected_premise": "D’s mediation becomes unwanted name humiliation; M’s protective competition proposal hides home advantage.",
+      "primary_L": "L2",
+      "L_rationale": "Sincere reassurance fails by recipient aesthetics, and a nonviolent redirect carries a private unfairness expectation.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "No full D07 disclosure sequence or chosen defensive-experience invitation is invented.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H076",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U024",
+        "native_member": "text/part0022.html",
+        "native_member_sha256": "114f35a942b8917aa4b2ee0db34da1674f5ddc23eb6a7b8b2dd2f7bba20258fc",
+        "start_P": 241,
+        "end_P": 280
+      },
+      "whole_selected_premise": "K actually makes useful equipment while idling, and the supposedly unwinnable outsiders earn the home crowd’s praise.",
+      "primary_L": "L2",
+      "L_rationale": "Forgotten competition and actual reported achievements contradict a forecast based on insider status.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Board-game rule change is proposed privately, not agreed.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H077",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U024",
+        "native_member": "text/part0022.html",
+        "native_member_sha256": "114f35a942b8917aa4b2ee0db34da1674f5ddc23eb6a7b8b2dd2f7bba20258fc",
+        "start_P": 285,
+        "end_P": 320
+      },
+      "whole_selected_premise": "The disfavored healer genuinely saves a patient, who regrets learning she did it and receives retaliation.",
+      "primary_L": "L2",
+      "L_rationale": "Technical competence, attribution and social treatment remain separate.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Akyua’s planned cast never occurs; gifts are promised, actual choking is not canceled by rescue.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H078",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U024",
+        "native_member": "text/part0022.html",
+        "native_member_sha256": "114f35a942b8917aa4b2ee0db34da1674f5ddc23eb6a7b8b2dd2f7bba20258fc",
+        "start_P": 327,
+        "end_P": 378
+      },
+      "whole_selected_premise": "An improvised ecology theory and an accidentally useful arrow become a reputation for foresight.",
+      "primary_L": "L2",
+      "L_rationale": "K explicitly admits improvising, then buys Aq’s silence to preserve the false impression.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Bear/wolf imbalance is plausible but not independently proved; no prior strategic manufacture.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H079",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U024",
+        "native_member": "text/part0022.html",
+        "native_member_sha256": "114f35a942b8917aa4b2ee0db34da1674f5ddc23eb6a7b8b2dd2f7bba20258fc",
+        "start_P": 380,
+        "end_P": 404
+      },
+      "whole_selected_premise": "A rehearsed contingency turns a successful boss shot but failed deterrence into a timed pack blast.",
+      "primary_L": "L0",
+      "L_rationale": "Actual prior division, support, target result, received failure and new cue explain the operation.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "D specifically accepts blast exposure; no exhaustive all-friendly separation/recovery guarantee.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H080",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U024",
+        "native_member": "text/part0022.html",
+        "native_member_sha256": "114f35a942b8917aa4b2ee0db34da1674f5ddc23eb6a7b8b2dd2f7bba20258fc",
+        "start_P": 410,
+        "end_P": 437
+      },
+      "whole_selected_premise": "Victory wins apologies and overbroad trust, then Ozuma’s withheld motive proves genuine gratitude for Hans.",
+      "primary_L": "L2",
+      "L_rationale": "Useful action does not make every bad report false; D attempts generous correction.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Companion loss is reported history, not a new observed death.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H081",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U024",
+        "native_member": "text/part0022.html",
+        "native_member_sha256": "114f35a942b8917aa4b2ee0db34da1674f5ddc23eb6a7b8b2dd2f7bba20258fc",
+        "start_P": 440,
+        "end_P": 456
+      },
+      "whole_selected_premise": "The apparent imitations have more heroic histories, so the powerful home party feels like the lesser original.",
+      "primary_L": "L2",
+      "L_rationale": "D’s respectful shift and K’s interruption expose the comparison standard.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Megumi’s lineage account is cut short; no named Japanese grandfather inferred as fact.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H082",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U024",
+        "native_member": "text/part0022.html",
+        "native_member_sha256": "114f35a942b8917aa4b2ee0db34da1674f5ddc23eb6a7b8b2dd2f7bba20258fc",
+        "start_P": 458,
+        "end_P": 472
+      },
+      "whole_selected_premise": "Promises to suppress slander elicit recognizable bad reports and actual collective prostration.",
+      "primary_L": "L2",
+      "L_rationale": "K’s internal stop pleas become more polite as the favorable account collapses.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "The internal pleas are not external K08 responses; final apology is actual but complete reparation unshown.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H083",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U026",
+        "native_member": "text/part0024.html",
+        "native_member_sha256": "29f0bb171e904e4c2fc26095f622d6113275109a97df5440a40ec54e94aa4f9b",
+        "start_P": 2,
+        "end_P": 40
+      },
+      "whole_selected_premise": "The called heroes discover they are the administrative problem and turn protests into polite apologies.",
+      "primary_L": "L2",
+      "L_rationale": "Actual qualification power and clerk pressure precede the surface switch.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Original YORI01 K08 failure remains; a compatible adjacent scene cannot cancel it.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H084",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U026",
+        "native_member": "text/part0024.html",
+        "native_member_sha256": "29f0bb171e904e4c2fc26095f622d6113275109a97df5440a40ec54e94aa4f9b",
+        "start_P": 41,
+        "end_P": 71
+      },
+      "whole_selected_premise": "M and D exempt themselves before changing outfits instead of conduct, while D prepares public rank as protection.",
+      "primary_L": "L2",
+      "L_rationale": "Own innocence claims meet explicit whole-party scope; role and noble defense are mixed.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "D readies pendant later but never actually coerces the inspector with it.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H085",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U026",
+        "native_member": "text/part0024.html",
+        "native_member_sha256": "29f0bb171e904e4c2fc26095f622d6113275109a97df5440a40ec54e94aa4f9b",
+        "start_P": 82,
+        "end_P": 116
+      },
+      "whole_selected_premise": "A common easy task exposes precisely this party’s known weakness, and Aq’s scaled-down snake plan fails.",
+      "primary_L": "L2",
+      "L_rationale": "Prechoice warning, adopted alternative, actual swallowing and K’s rescue fix phases.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Other parties perform safely; no blanket incompetence or independent new magical failure inferred.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H086",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U026",
+        "native_member": "text/part0024.html",
+        "native_member_sha256": "29f0bb171e904e4c2fc26095f622d6113275109a97df5440a40ec54e94aa4f9b",
+        "start_P": 118,
+        "end_P": 140
+      },
+      "whole_selected_premise": "The feared discipline turns out to be recruitment, reviving the status seekers.",
+      "primary_L": "L2",
+      "L_rationale": "Revocation capacity was real, assumed intention was wrong.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "No actual loss of qualification or accepted capital transfer.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H087",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U026",
+        "native_member": "text/part0024.html",
+        "native_member_sha256": "29f0bb171e904e4c2fc26095f622d6113275109a97df5440a40ec54e94aa4f9b",
+        "start_P": 143,
+        "end_P": 158
+      },
+      "whole_selected_premise": "A moving home-and-gratitude speech hides a specific nontransferable local amenity.",
+      "primary_L": "L2",
+      "L_rationale": "K’s own private reason limits any pure particular-person valuation claim.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Other men’s motive is inferred from known patronage, not independently confessed.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H088",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U026",
+        "native_member": "text/part0024.html",
+        "native_member_sha256": "29f0bb171e904e4c2fc26095f622d6113275109a97df5440a40ec54e94aa4f9b",
+        "start_P": 162,
+        "end_P": 179
+      },
+      "whole_selected_premise": "A wanted strong opponent appears because the person seeking prestige unknowingly captured its young.",
+      "primary_L": "L2",
+      "L_rationale": "Concrete admission and behavior supply a parental-chase explanation.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "No knowledge of species at capture; no claim every exact causal detail is directly verified.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H089",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U026",
+        "native_member": "text/part0024.html",
+        "native_member_sha256": "29f0bb171e904e4c2fc26095f622d6113275109a97df5440a40ec54e94aa4f9b",
+        "start_P": 181,
+        "end_P": 193
+      },
+      "whole_selected_premise": "Ambitious volunteers gather resolve while M takes the kill and bounty without regard to the scene.",
+      "primary_L": "L2",
+      "L_rationale": "An actual powerful cast solves the target while bypassing other people’s desired role.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Prior ban not explicitly lifted, full prior geometry absent; target success is not full M03 proof.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H090",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U026",
+        "native_member": "text/part0024.html",
+        "native_member_sha256": "29f0bb171e904e4c2fc26095f622d6113275109a97df5440a40ec54e94aa4f9b",
+        "start_P": 195,
+        "end_P": 203
+      },
+      "whole_selected_premise": "Party credit is offered to cancel blame, while the recruiter is pressed by applicants he did not seek.",
+      "primary_L": "L2",
+      "L_rationale": "D rejects convenient forgetting; levels, local romance and ambition are distinct concerns.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "No individual recruitment or complete accountability repair shown.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI01-WHOLE-H091",
+      "source_id": "YORI-01",
+      "boundary": {
+        "component_id": "YORI-01-U026",
+        "native_member": "text/part0024.html",
+        "native_member_sha256": "29f0bb171e904e4c2fc26095f622d6113275109a97df5440a40ec54e94aa4f9b",
+        "start_P": 204,
+        "end_P": 208
+      },
+      "whole_selected_premise": "M finally offers the whole party’s help just before the recruiter actually leaves.",
+      "primary_L": "L2",
+      "L_rationale": "He abandons his own never-leave-until-recruited pose after the provider reveals its social costs.",
+      "primary_H": "H1",
+      "H_rationale": "Literal performed acts, reports and specified proposals retain their separate source planes despite the comic reversal.",
+      "eligibility_and_limits": "Next-day departure is actual; no whole-party migration or license revocation.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T23:52:06.525012+00:00",
+      "not_an_independent_prediction_trial": true
+    }
+  ]
+}

@@ -1,0 +1,1862 @@
+{
+  "schema": "KONOSUBA_CONTEXP02_SELECTED_WHOLE_PREMISE_REGISTER_V1",
+  "created_utc": "2026-10-18T20:01:31.308947+00:00",
+  "source_id": "CONTEXP-02",
+  "H_protocol": "H1 literal source-plane compatible acts; H2 actual dispositional amplification with intensity-transfer limits; H3 behavior too local-punchline-bound to generalize; H4 actual nonliteral behavioral license. Magic, false testimony, performance, survival, unknown cause and wrong narrator prediction are not automatic H3/H4. Actual harmful acts remain actual at H2. No category quota or population claim.",
+  "L_protocol": "L0 portable proposition; L1 material rhythm/wording/tone; L2 pragmatics/register/recipient force; L3 central Japanese-form dependence requiring reconstruction or annotation. Standard ruby/ordinary idiom is not automatically L3.",
+  "selected_record_count": 92,
+  "counts_describe_selected_records_only": {
+    "H": {
+      "H1": 90,
+      "H2": 2
+    },
+    "L": {
+      "L2": 86,
+      "L0": 4,
+      "L3": 2
+    }
+  },
+  "no_population_denominator_or_accuracy_score": true,
+  "records": [
+    {
+      "id": "CONTEXP02-WHOLE-H001",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U010",
+        "native_member": "OEBPS/Text/part0008.xhtml",
+        "native_member_sha256": "c05dc1aba4e4337509894acb4e42464fec0b76ff4d9ecad3e61618f8530fd925",
+        "start_P": 3,
+        "end_P": 18
+      },
+      "whole_selected_premise": "A quiet household’s separate occupations fail to satisfy the person who wants a shared adventure now.",
+      "primary_L": "L2",
+      "L_rationale": "The offer to accompany the daily cast later answers one wish without accepting the present trip.",
+      "primary_H": "H1",
+      "H_rationale": "Megumin requests adventure; Darkness offers specific later company and Aqua destroys the scarf she repurposes as a rag.",
+      "eligibility_and_limits": "Neither independent leisure nor the offer is proof of a completed later outing; the knitting cost is real.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H002",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U010",
+        "native_member": "OEBPS/Text/part0008.xhtml",
+        "native_member_sha256": "c05dc1aba4e4337509894acb4e42464fec0b76ff4d9ecad3e61618f8530fd925",
+        "start_P": 20,
+        "end_P": 29
+      },
+      "whole_selected_premise": "A promise for the end of the rains stretches into next year under the same apparently reassuring wording.",
+      "primary_L": "L2",
+      "L_rationale": "Megumin hears and rejects the altered temporal commitment; the joke depends on the changed bargain.",
+      "primary_H": "H1",
+      "H_rationale": "Kazuma deliberately postpones while Megumin objects and wants present action.",
+      "eligibility_and_limits": "Not a mutually agreed schedule or a claim that no adventure is ever possible.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H003",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U010",
+        "native_member": "OEBPS/Text/part0008.xhtml",
+        "native_member_sha256": "c05dc1aba4e4337509894acb4e42464fec0b76ff4d9ecad3e61618f8530fd925",
+        "start_P": 30,
+        "end_P": 41
+      },
+      "whole_selected_premise": "The unwanted growth is someone else’s increasingly valued companion; its removal precedes an unperformed food proposal.",
+      "primary_L": "L2",
+      "L_rationale": "Aqua’s affectionate objection follows Megumin’s practical removal and exposes a different valuation.",
+      "primary_H": "H1",
+      "H_rationale": "Megumin actually plucks the glowing growth and then leaves after the others call her expedition play.",
+      "eligibility_and_limits": "Unknown species and Kazuma’s mushroom inference stay unresolved; proposed eating is not performed.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H004",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U013",
+        "native_member": "OEBPS/Text/part0011.xhtml",
+        "native_member_sha256": "78226812570a45053a1e90fc069dd72105fdbd50a0e5771c60e0a52ab7102518",
+        "start_P": 1,
+        "end_P": 37
+      },
+      "whole_selected_premise": "An accomplished high-level applicant and an anxious high-level friend encounter different barriers to party membership.",
+      "primary_L": "L2",
+      "L_rationale": "The receptionist’s fit explanation and Yunyun’s timing worries distinguish reputation from lack of ability.",
+      "primary_H": "H1",
+      "H_rationale": "Megumin finds no suitable party after waiting; Yunyun wants to approach but overconsiders interruption and class balance.",
+      "eligibility_and_limits": "Real achievements and opportunities remain; loneliness is not proof no one wants Yunyun.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H005",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U013",
+        "native_member": "OEBPS/Text/part0011.xhtml",
+        "native_member_sha256": "78226812570a45053a1e90fc069dd72105fdbd50a0e5771c60e0a52ab7102518",
+        "start_P": 38,
+        "end_P": 56
+      },
+      "whole_selected_premise": "A successful advertisement for one recruit fails when the advertiser includes herself as an inseparable benefit.",
+      "primary_L": "L2",
+      "L_rationale": "The volunteered addition changes exactly what the crowd was accepting.",
+      "primary_H": "H1",
+      "H_rationale": "People actually seek Yunyun and withdraw on hearing Megumin is bundled with her.",
+      "eligibility_and_limits": "No universal anti-Crimson prejudice; Megumin’s known conduct is the relevant additional cost.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H006",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U013",
+        "native_member": "OEBPS/Text/part0011.xhtml",
+        "native_member_sha256": "78226812570a45053a1e90fc069dd72105fdbd50a0e5771c60e0a52ab7102518",
+        "start_P": 56,
+        "end_P": 70
+      },
+      "whole_selected_premise": "Insulted reputation elicits an indoor Explosion attempt and turns a wanted party opening into a capture reward.",
+      "primary_L": "L2",
+      "L_rationale": "The emergency bounty and Yunyun’s own-company correction answer different aspects of the outcome.",
+      "primary_H": "H2",
+      "H_rationale": "Actual retaliatory chanting amplifies Megumin’s ordinary pride into a grossly disproportionate threatened indoor blast; Yunyun and the guild physically stop it.",
+      "eligibility_and_limits": "Actual attempt and3000reward remain consequential. No completed blast, no behavioral license and no transfer of the exact intensity as a universal rule.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H007",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U013",
+        "native_member": "OEBPS/Text/part0011.xhtml",
+        "native_member_sha256": "78226812570a45053a1e90fc069dd72105fdbd50a0e5771c60e0a52ab7102518",
+        "start_P": 79,
+        "end_P": 88
+      },
+      "whole_selected_premise": "A demanded comforting friend script meets a refusal to equate thin reassurance with friendship.",
+      "primary_L": "L2",
+      "L_rationale": "Yunyun answers the proposed relational performance rather than supplying its imagined lines.",
+      "primary_H": "H1",
+      "H_rationale": "Megumin asks for flattering support and Yunyun directly rejects the script before the capital visit.",
+      "eligibility_and_limits": "The imagined consolation is not Yunyun’s actual speech.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H008",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U013",
+        "native_member": "OEBPS/Text/part0011.xhtml",
+        "native_member_sha256": "78226812570a45053a1e90fc069dd72105fdbd50a0e5771c60e0a52ab7102518",
+        "start_P": 91,
+        "end_P": 120
+      },
+      "whole_selected_premise": "An uninformed capital arrival ends with a full royal-name disclosure and an anxious friend kneeling.",
+      "primary_L": "L2",
+      "L_rationale": "Trust-me reassurance and a later formal introduction do not give the traveler the same prior knowledge.",
+      "primary_H": "H1",
+      "H_rationale": "Yunyun learns Iris’s princess identity here after Megumin brings her to the castle.",
+      "eligibility_and_limits": "Prior important-family inference is not prior explicit knowledge; later staying does not retroactively inform the departure.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H009",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U013",
+        "native_member": "OEBPS/Text/part0011.xhtml",
+        "native_member_sha256": "78226812570a45053a1e90fc069dd72105fdbd50a0e5771c60e0a52ab7102518",
+        "start_P": 125,
+        "end_P": 148
+      },
+      "whole_selected_premise": "Patriotic necessity gives way to a retainer’s mundane pay loss, then a training offer wins release before any duel.",
+      "primary_L": "L2",
+      "L_rationale": "Rain corrects the no-need adventure argument and names her own penalty; Iris changes the pressure.",
+      "primary_H": "H1",
+      "H_rationale": "Retainers resist, Claire collapses under emotional threat and Rain yields before the proposed proof fight.",
+      "eligibility_and_limits": "No actual training victory or death; affection does not erase retainer work and pay costs.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H010",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U013",
+        "native_member": "OEBPS/Text/part0011.xhtml",
+        "native_member_sha256": "78226812570a45053a1e90fc069dd72105fdbd50a0e5771c60e0a52ab7102518",
+        "start_P": 161,
+        "end_P": 178
+      },
+      "whole_selected_premise": "Royal status threatens an ordinary friendship precisely when the princess asks that it continue normally.",
+      "primary_L": "L2",
+      "L_rationale": "Iris’s direct request licenses familiar treatment, whereas Yunyun’s expansive promises overshoot that specific need.",
+      "primary_H": "H1",
+      "H_rationale": "Iris asks to remain friends; Yunyun promises future ShapeChange and self-sacrifice.",
+      "eligibility_and_limits": "No new spell acquisition, body-double service or death is completed.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H011",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U013",
+        "native_member": "OEBPS/Text/part0011.xhtml",
+        "native_member_sha256": "78226812570a45053a1e90fc069dd72105fdbd50a0e5771c60e0a52ab7102518",
+        "start_P": 180,
+        "end_P": 200
+      },
+      "whole_selected_premise": "The wished-for guild initiation does not occur because feared conduct and rank already precede the entrants.",
+      "primary_L": "L2",
+      "L_rationale": "Megumin’s genre expectation conflicts with actual avoidance and later corrected reputation.",
+      "primary_H": "H1",
+      "H_rationale": "The group encounters wary people rather than the hoped-for template harassment.",
+      "eligibility_and_limits": "Fear of Iris and fear of Megumin have different supplied causes; no new battle from remembered front-line reports.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H012",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U013",
+        "native_member": "OEBPS/Text/part0011.xhtml",
+        "native_member_sha256": "78226812570a45053a1e90fc069dd72105fdbd50a0e5771c60e0a52ab7102518",
+        "start_P": 215,
+        "end_P": 245
+      },
+      "whole_selected_premise": "A forgotten recruitment offer is remembered as insult, rewritten as obsessive admiration, and corrected by the people involved.",
+      "primary_L": "L2",
+      "L_rationale": "Rex explicitly recalls apology and invitation; his denial narrows Megumin’s self-serving retelling.",
+      "primary_H": "H1",
+      "H_rationale": "Megumin fails to recognize former colleagues and then overstates their interest.",
+      "eligibility_and_limits": "Actual prior recruitment survives current teasing; present correction is not another past invitation event.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H013",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U013",
+        "native_member": "OEBPS/Text/part0011.xhtml",
+        "native_member_sha256": "78226812570a45053a1e90fc069dd72105fdbd50a0e5771c60e0a52ab7102518",
+        "start_P": 281,
+        "end_P": 304
+      },
+      "whole_selected_premise": "A presumed practical weak-point researcher pursues fundamental questions, yet dismisses testing his weather hypothesis.",
+      "primary_L": "L2",
+      "L_rationale": "Why-does-it-fly curiosity and hypothesis-does-not-matter distinguish inquiry from the private deadline.",
+      "primary_H": "H1",
+      "H_rationale": "Barton wants the rain stopped and demands Professor address despite not supplying a complete mechanism.",
+      "eligibility_and_limits": "Fundamental curiosity is not itself useless; his unsupported claims are not established ecology.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H014",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U013",
+        "native_member": "OEBPS/Text/part0011.xhtml",
+        "native_member_sha256": "78226812570a45053a1e90fc069dd72105fdbd50a0e5771c60e0a52ab7102518",
+        "start_P": 305,
+        "end_P": 328
+      },
+      "whole_selected_premise": "A conditional date becomes a heroic quest although a competing weather antecedent has already been supplied.",
+      "primary_L": "L2",
+      "L_rationale": "Iris offers to concede if the sky clears, but Megumin’s prior weather-charm information defeats exclusive causal inference.",
+      "primary_H": "H1",
+      "H_rationale": "They choose the task despite a safer-job proposal and the absence of a national emergency.",
+      "eligibility_and_limits": "Clear weather later cannot identify the frog as cause; Barbera’s own motive is not voiced.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H015",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U013",
+        "native_member": "OEBPS/Text/part0011.xhtml",
+        "native_member_sha256": "78226812570a45053a1e90fc069dd72105fdbd50a0e5771c60e0a52ab7102518",
+        "start_P": 332,
+        "end_P": 350
+      },
+      "whole_selected_premise": "The expert’s plant-capture lesson becomes a client rescue while another observer proposes leaving him happy.",
+      "primary_L": "L2",
+      "L_rationale": "Barton’s safety account and Megumin’s nonhelp proposal are contradicted by Yunyun’s actual intervention.",
+      "primary_H": "H1",
+      "H_rationale": "Yunyun cuts the vines and rescues the client during his explanation.",
+      "eligibility_and_limits": "Attributed symbiosis does not certify absence of danger or make the rescue a new kill.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H016",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U013",
+        "native_member": "OEBPS/Text/part0011.xhtml",
+        "native_member_sha256": "78226812570a45053a1e90fc069dd72105fdbd50a0e5771c60e0a52ab7102518",
+        "start_P": 355,
+        "end_P": 380
+      },
+      "whole_selected_premise": "A feared-looking animal receives royal pity while a protective friend proposes disguising the client’s killing as an accident.",
+      "primary_L": "L2",
+      "L_rationale": "Yunyun’s legal-insurance wording conflicts with her protective role; Megumin actually rebukes it.",
+      "primary_H": "H1",
+      "H_rationale": "Iris hesitates, Yunyun drives the animal away with warning force and then runs toward Barton angrily.",
+      "eligibility_and_limits": "No completed murder or completed blow is narrated; nonlethal warning is not a miss.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H017",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U013",
+        "native_member": "OEBPS/Text/part0011.xhtml",
+        "native_member_sha256": "78226812570a45053a1e90fc069dd72105fdbd50a0e5771c60e0a52ab7102518",
+        "start_P": 383,
+        "end_P": 396
+      },
+      "whole_selected_premise": "An expert’s ice advice improves a monster’s sale value and changes the cash-sensitive listener’s address.",
+      "primary_L": "L2",
+      "L_rationale": "The opportunistic big-brother offer follows the doubled-value claim, while Yunyun separately corrects assumed money need.",
+      "primary_H": "H1",
+      "H_rationale": "Freeze energizes the creature and Megumin becomes strategically friendly.",
+      "eligibility_and_limits": "Current lack of cash in another scene is not disproved, but universal insolvency cannot be inferred from thrift.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H018",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U013",
+        "native_member": "OEBPS/Text/part0011.xhtml",
+        "native_member_sha256": "78226812570a45053a1e90fc069dd72105fdbd50a0e5771c60e0a52ab7102518",
+        "start_P": 410,
+        "end_P": 451
+      },
+      "whole_selected_premise": "A real giant frog exceeds the currently equipped strongest technique and prompts an actual retreat plan.",
+      "primary_L": "L0",
+      "L_rationale": "The resource-dependent action sequence is portable without special Japanese form.",
+      "primary_H": "H1",
+      "H_rationale": "Iris uses ordinary sword power, explains the absent ancestral weapon, and Megumin orders Yunyun to prepare Teleport.",
+      "eligibility_and_limits": "Do not grant the unavailable dragon-killing technique or call a planned retreat a completed flight.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H019",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U013",
+        "native_member": "OEBPS/Text/part0011.xhtml",
+        "native_member_sha256": "78226812570a45053a1e90fc069dd72105fdbd50a0e5771c60e0a52ab7102518",
+        "start_P": 452,
+        "end_P": 478
+      },
+      "whole_selected_premise": "A longstanding personal attachment changes the retreat decision after the escape provider is ready and the shield accepts the cost.",
+      "primary_L": "L2",
+      "L_rationale": "The received childhood story moves Megumin, and explicit standby and acceptance fix the team arrangement before fire.",
+      "primary_H": "H1",
+      "H_rationale": "Yunyun has completed Teleport chanting; Iris knowingly accepts slime and retainer trouble; Megumin chooses the cast.",
+      "eligibility_and_limits": "This source has a real prior exit, unlike the earlier qualified case. Do not invent a new formal-permission or numeric-radius floor, or an unheard Barbera explanation.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H020",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U013",
+        "native_member": "OEBPS/Text/part0011.xhtml",
+        "native_member_sha256": "78226812570a45053a1e90fc069dd72105fdbd50a0e5771c60e0a52ab7102518",
+        "start_P": 479,
+        "end_P": 509
+      },
+      "whole_selected_premise": "A successful adventure returns to a household that sabotaged the weather charm to avoid its own promise.",
+      "primary_L": "L2",
+      "L_rationale": "Kazuma’s if-it-clears-we-are-in-trouble supplies the competing motive and Darkness’s repair changes the object state.",
+      "primary_H": "H1",
+      "H_rationale": "The frog cast occurs, the damaged doll is repaired, and Megumin asks for more dolls.",
+      "eligibility_and_limits": "The kill is confirmed later by the card, not immediate observed impact; more dolls and tomorrow weather are not yet completed here.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H021",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U016",
+        "native_member": "OEBPS/Text/part0014.xhtml",
+        "native_member_sha256": "980106fc3a72fab31bb3cf3b5d7e849c678bd37b1f0151dac1711308f79bcc76",
+        "start_P": 18,
+        "end_P": 41
+      },
+      "whole_selected_premise": "Pretending to be a noble allows a cleric to admit real duties were discarded, while clear weather still leaves the date unknown.",
+      "primary_L": "L2",
+      "L_rationale": "Staged noble/maid lines and the narrator’s unanswered date question occupy different truth planes.",
+      "primary_H": "H1",
+      "H_rationale": "Cecily plays with Iris and admits neglect; Megumin cuts off a potentially revealing secret-passage account.",
+      "eligibility_and_limits": "No actual change of social class or completed causal explanation of the weather.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H022",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U016",
+        "native_member": "OEBPS/Text/part0014.xhtml",
+        "native_member_sha256": "980106fc3a72fab31bb3cf3b5d7e849c678bd37b1f0151dac1711308f79bcc76",
+        "start_P": 52,
+        "end_P": 91
+      },
+      "whole_selected_premise": "A location-specific refusal meets claimed prior help, profiteering that startles an innocent hearer, and an illness excuse answered by a healer offer.",
+      "primary_L": "L2",
+      "L_rationale": "Megumin would accept elsewhere; Iris hears the holy-water pitch as charity and Cecily stops her own price-gouging explanation.",
+      "primary_H": "H1",
+      "H_rationale": "Cecily presses for Arcanretia and feigns incapacity, then refuses Aqua as proposed healer.",
+      "eligibility_and_limits": "No diagnosis or actual new healing; attributed water benefits are in-world claims.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H023",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U016",
+        "native_member": "OEBPS/Text/part0014.xhtml",
+        "native_member_sha256": "980106fc3a72fab31bb3cf3b5d7e849c678bd37b1f0151dac1711308f79bcc76",
+        "start_P": 100,
+        "end_P": 130
+      },
+      "whole_selected_premise": "A mask grab appears to be demon detection until attraction is explicitly supplied; a welcomed familiar receives a different response.",
+      "primary_L": "L2",
+      "L_rationale": "Vanir’s greeting-farewell refusal and Iris’s Hachibee familiarity mark recipient-specific relations.",
+      "primary_H": "H1",
+      "H_rationale": "Cecily imposes contact and Vanir removes her while warmly greeting Iris.",
+      "eligibility_and_limits": "No actual demon-sensing competence inferred from the grab and no transfer of Iris’s welcome to Cecily.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H024",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U016",
+        "native_member": "OEBPS/Text/part0014.xhtml",
+        "native_member_sha256": "980106fc3a72fab31bb3cf3b5d7e849c678bd37b1f0151dac1711308f79bcc76",
+        "start_P": 131,
+        "end_P": 170
+      },
+      "whole_selected_premise": "A desired transport service encounters an unavailable provider, while a powerful devil concedes a name before a demonstration occurs.",
+      "primary_L": "L2",
+      "L_rationale": "Wiz’s Teleport is requested, and Iris’s polite alias request is backed by an unfinished force display.",
+      "primary_H": "H1",
+      "H_rationale": "Vanir reports Wiz’s charred condition; Zereschilt yields before a fight and Iris’s toy desire is checked.",
+      "eligibility_and_limits": "Cause of Wiz’s condition, actual caster of later transit, a duel, toy purchase and universal demon-name law are not established.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H025",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U016",
+        "native_member": "OEBPS/Text/part0014.xhtml",
+        "native_member_sha256": "980106fc3a72fab31bb3cf3b5d7e849c678bd37b1f0151dac1711308f79bcc76",
+        "start_P": 181,
+        "end_P": 201
+      },
+      "whole_selected_premise": "An alleged magic toy is already owned, and free labor for a friendship label is not the same as willingly gifting past lunches.",
+      "primary_L": "L2",
+      "L_rationale": "Iris supplies specific ordinary recognition; Yunyun directly corrects tribute to confiscation.",
+      "primary_H": "H1",
+      "H_rationale": "Yunyun has collected shells all night and values Vanir’s friend label.",
+      "eligibility_and_limits": "Neither her genuine affection nor the label proves all transactions free, paid or freely chosen.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H026",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U016",
+        "native_member": "OEBPS/Text/part0014.xhtml",
+        "native_member_sha256": "980106fc3a72fab31bb3cf3b5d7e849c678bd37b1f0151dac1711308f79bcc76",
+        "start_P": 203,
+        "end_P": 221
+      },
+      "whole_selected_premise": "An indirect company bid becomes an actual invitation with a rest alternative, then an accepted order for replacement mana resources.",
+      "primary_L": "L2",
+      "L_rationale": "Megumin explicitly says she sought Yunyun first and names fatigue; Yunyun insists on joining.",
+      "primary_H": "H1",
+      "H_rationale": "Yunyun orders all intermediate stones offered by the shop.",
+      "eligibility_and_limits": "Order acceptance is real; payment/handover is not independently shown here, and destination is still withheld.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H027",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U016",
+        "native_member": "OEBPS/Text/part0014.xhtml",
+        "native_member_sha256": "980106fc3a72fab31bb3cf3b5d7e849c678bd37b1f0151dac1711308f79bcc76",
+        "start_P": 234,
+        "end_P": 250
+      },
+      "whole_selected_premise": "A presumed undead rival becomes a beauty rival, and one private face glimpse produces reports without sharing the sight.",
+      "primary_L": "L2",
+      "L_rationale": "Vanir’s leave-after-no-more-interference condition and the others’ refused requests bound access.",
+      "primary_H": "H1",
+      "H_rationale": "Cecily enters the back room and later describes a handsome adult face.",
+      "eligibility_and_limits": "Narrator does not directly view it; her earlier undead-detection inference is wrong.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H028",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U016",
+        "native_member": "OEBPS/Text/part0014.xhtml",
+        "native_member_sha256": "980106fc3a72fab31bb3cf3b5d7e849c678bd37b1f0151dac1711308f79bcc76",
+        "start_P": 261,
+        "end_P": 299
+      },
+      "whole_selected_premise": "The destination is disclosed after arrival and the public-help mission eventually yields a private evidence-destruction motive.",
+      "primary_L": "L2",
+      "L_rationale": "Yunyun’s upset and Cecily’s final confession answer omissions in the original invitation.",
+      "primary_H": "H1",
+      "H_rationale": "The party reaches Arcanretia; Megumin admits not telling Yunyun, and Cecily wants evidence gone.",
+      "eligibility_and_limits": "Do not assign an unshown Teleport caster or treat concealment motive as proof of every causal step.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H029",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U016",
+        "native_member": "OEBPS/Text/part0014.xhtml",
+        "native_member_sha256": "980106fc3a72fab31bb3cf3b5d7e849c678bd37b1f0151dac1711308f79bcc76",
+        "start_P": 322,
+        "end_P": 361
+      },
+      "whole_selected_premise": "A protective no-harassment warning meets followers who welcome the threatened leader punishment; a sham collapse then recruits concern.",
+      "primary_L": "L2",
+      "L_rationale": "The threatened sanction has the opposite audience incentive, while Megumin explicitly identifies the feigned faint.",
+      "primary_H": "H1",
+      "H_rationale": "Unwanted contact and actual stepping on Zesta occur, and he gets up.",
+      "eligibility_and_limits": "No completed head punishment, genuine collapse or princess-identity recognition inferred here.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H030",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U016",
+        "native_member": "OEBPS/Text/part0014.xhtml",
+        "native_member_sha256": "980106fc3a72fab31bb3cf3b5d7e849c678bd37b1f0151dac1711308f79bcc76",
+        "start_P": 374,
+        "end_P": 388
+      },
+      "whole_selected_premise": "The one-cast mage adopts investigation and supervision, then voices a retaliatory blast option that is not acted on.",
+      "primary_L": "L2",
+      "L_rationale": "The assigned role acknowledges task limits, while Zesta’s deterrent answers the conditional threat.",
+      "primary_H": "H1",
+      "H_rationale": "Megumin investigates and keeps the clerics away from Iris.",
+      "eligibility_and_limits": "Useful role adaptation is not automatically self-accepted substantial contribution loss plus a costly build alternative, or an adopted actual-person harm task.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H031",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U016",
+        "native_member": "OEBPS/Text/part0014.xhtml",
+        "native_member_sha256": "980106fc3a72fab31bb3cf3b5d7e849c678bd37b1f0151dac1711308f79bcc76",
+        "start_P": 390,
+        "end_P": 424
+      },
+      "whole_selected_premise": "Circumstances support one suspicion while the investigator briefly recognizes the burden of managing companions.",
+      "primary_L": "L2",
+      "L_rationale": "Cecily’s no-water-no-revival denial and Megumin’s bounded reflection distinguish causal evidence from self-appraisal.",
+      "primary_H": "H1",
+      "H_rationale": "Stored powder is missing, known food thefts matter and the clerics run toward the rival church on claimed sensing.",
+      "eligibility_and_limits": "Who supplied water and why the black creature exists remain unresolved; not every sensing claim is automatically false.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H032",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U016",
+        "native_member": "OEBPS/Text/part0014.xhtml",
+        "native_member_sha256": "980106fc3a72fab31bb3cf3b5d7e849c678bd37b1f0151dac1711308f79bcc76",
+        "start_P": 439,
+        "end_P": 467
+      },
+      "whole_selected_premise": "A fabricated romantic rejection becomes a planned physical ambush, and the recipient’s resistance is misdescribed as attraction.",
+      "primary_L": "L2",
+      "L_rationale": "The priest’s explicit unwantedness refutes Zesta’s coercive interpretation before she defends herself.",
+      "primary_H": "H1",
+      "H_rationale": "Cecily pins the priest, Zesta approaches, Megumin calls stop, and the priest throws Cecily and punches Zesta.",
+      "eligibility_and_limits": "No completed forced kiss; self-defense must not be flattened into three equivalent aggressors.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H033",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U016",
+        "native_member": "OEBPS/Text/part0014.xhtml",
+        "native_member_sha256": "980106fc3a72fab31bb3cf3b5d7e849c678bd37b1f0151dac1711308f79bcc76",
+        "start_P": 476,
+        "end_P": 485
+      },
+      "whole_selected_premise": "A real black-creature clue is rebranded as an ingenious Axis harassment scheme, and the supposed mastermind refuses the credit.",
+      "primary_L": "L2",
+      "L_rationale": "Megumin insists she actually saw something rather than accepting the flattering false intention.",
+      "primary_H": "H1",
+      "H_rationale": "She promises later coins and rejects the offered clever-plan attribution.",
+      "eligibility_and_limits": "No donation payment; this is a real near-M07 social case whose exact image-protection purpose and valued-person predicate need argument.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H034",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U018",
+        "native_member": "OEBPS/Text/part0016.xhtml",
+        "native_member_sha256": "224a107ccf68f82ce7ed516f39058ae40ff2c353fb15f5d63e41bc9b253693ad",
+        "start_P": 10,
+        "end_P": 44
+      },
+      "whole_selected_premise": "Unwanted honorary office follows a false interpretation, while an innkeeper’s loss becomes a proposed free-labor obligation.",
+      "primary_L": "L2",
+      "L_rationale": "Megumin quotes a warning against post-hoc religious linkage and declines the escalating work demand.",
+      "primary_H": "H1",
+      "H_rationale": "She leaves despite the appeal to ruin and supposed allergy.",
+      "eligibility_and_limits": "Snack theft is real, but complete ruin, allergy and scout claim are not independently verified.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H035",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U018",
+        "native_member": "OEBPS/Text/part0016.xhtml",
+        "native_member_sha256": "224a107ccf68f82ce7ed516f39058ae40ff2c353fb15f5d63e41bc9b253693ad",
+        "start_P": 61,
+        "end_P": 82
+      },
+      "whole_selected_premise": "A signed theft letter and left money fail to make taking property consensual; an attempted police visit is physically blocked.",
+      "primary_L": "L2",
+      "L_rationale": "Megumin’s literal report intention conflicts with the clerics’ face-protection appeal.",
+      "primary_H": "H1",
+      "H_rationale": "They restrain her, and she knowingly agrees to pretend ignorance because of her own past false blame.",
+      "eligibility_and_limits": "Clothes are later actually returned by report; neither paid theft nor disputed tears proves consent or repentance.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H036",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U018",
+        "native_member": "OEBPS/Text/part0016.xhtml",
+        "native_member_sha256": "224a107ccf68f82ce7ed516f39058ae40ff2c353fb15f5d63e41bc9b253693ad",
+        "start_P": 95,
+        "end_P": 119
+      },
+      "whole_selected_premise": "Hunters find no weak prey, return with stronger prey, and a rivalry taunt leads to imposed pain and embarrassment.",
+      "primary_L": "L2",
+      "L_rationale": "Iris’s near-sixty report and Megumin’s same-level comparison have different referents.",
+      "primary_H": "H2",
+      "H_rationale": "Megumin’s jealousy produces actual disproportionate retaliatory handling of Yunyun; the intensity amplifies an established competitive sensitivity.",
+      "eligibility_and_limits": "Keep bodily and social cost literal/non-graphic. No exact shared level, harmlessness by comic framing or universal intensity transfer.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H037",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U018",
+        "native_member": "OEBPS/Text/part0016.xhtml",
+        "native_member_sha256": "224a107ccf68f82ce7ed516f39058ae40ff2c353fb15f5d63e41bc9b253693ad",
+        "start_P": 121,
+        "end_P": 170
+      },
+      "whole_selected_premise": "The bathing plan needs both distant royal power and protection from clerics, so entry is tied to the bathers’ permission.",
+      "primary_L": "L2",
+      "L_rationale": "Iris defers to the actual users; Megumin conditionally permits Cecily only if she behaves.",
+      "primary_H": "H1",
+      "H_rationale": "Iris guards, rejects bribes, and Cecily enters after Megumin’s stated condition.",
+      "eligibility_and_limits": "No completed spying or blanket touching consent; Yunyun’s separate verbal answer is not shown.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H038",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U018",
+        "native_member": "OEBPS/Text/part0016.xhtml",
+        "native_member_sha256": "224a107ccf68f82ce7ed516f39058ae40ff2c353fb15f5d63e41bc9b253693ad",
+        "start_P": 171,
+        "end_P": 199
+      },
+      "whole_selected_premise": "A disliked sect supplies a potentially useful prior comparison, forcing a small epistemic update before a guarded departure.",
+      "primary_L": "L2",
+      "L_rationale": "Megumin accepts that intuition can matter without endorsing all Axis explanations.",
+      "primary_H": "H1",
+      "H_rationale": "Cecily reports weaker holy-water potency and the group investigates while leaving Iris with explicit warnings.",
+      "eligibility_and_limits": "The potency report is not independently measured; conditional defensive distance instructions are not executed attacks.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H039",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U018",
+        "native_member": "OEBPS/Text/part0016.xhtml",
+        "native_member_sha256": "224a107ccf68f82ce7ed516f39058ae40ff2c353fb15f5d63e41bc9b253693ad",
+        "start_P": 209,
+        "end_P": 218
+      },
+      "whole_selected_premise": "The black creature changes from exonerating evidence into a claimed personal creation as soon as its marketable intelligence appears.",
+      "primary_L": "L2",
+      "L_rationale": "Cecily’s ownership reversal reveals a changed profit appraisal.",
+      "primary_H": "H1",
+      "H_rationale": "Cecily alternately denies and asserts responsibility.",
+      "eligibility_and_limits": "Neither statement proves the creature’s origin; no actual sale is made.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H040",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U018",
+        "native_member": "OEBPS/Text/part0016.xhtml",
+        "native_member_sha256": "224a107ccf68f82ce7ed516f39058ae40ff2c353fb15f5d63e41bc9b253693ad",
+        "start_P": 235,
+        "end_P": 285
+      },
+      "whole_selected_premise": "A literal lethal-contact warning and hostile rank declaration are received as the start of an enjoyable performance.",
+      "primary_L": "L2",
+      "L_rationale": "Yunyun’s step-back request and the creature’s stated general rank precede Megumin’s competing introduction.",
+      "primary_H": "H1",
+      "H_rationale": "Yunyun offers nonharmful departure, the creature refuses, and Megumin interrupts before its proper name.",
+      "eligibility_and_limits": "Rank and danger were supplied; missing full name cannot excuse ignoring the available warning.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H041",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U018",
+        "native_member": "OEBPS/Text/part0016.xhtml",
+        "native_member_sha256": "224a107ccf68f82ce7ed516f39058ae40ff2c353fb15f5d63e41bc9b253693ad",
+        "start_P": 298,
+        "end_P": 321
+      },
+      "whole_selected_premise": "An actual inferno destroys the surrounding slimes while the survivor invalidates a comforting assumption about attachment.",
+      "primary_L": "L2",
+      "L_rationale": "Cecily explains grief as lost money/date prospects before Megumin’s comfort is completed.",
+      "primary_H": "H1",
+      "H_rationale": "Yunyun hits, the black creature survives, and its second partial name is interrupted.",
+      "eligibility_and_limits": "Not a miss or completed comforting pat; survival mechanism is not disclosed or a general resurrection rule.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H042",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U018",
+        "native_member": "OEBPS/Text/part0016.xhtml",
+        "native_member_sha256": "224a107ccf68f82ce7ed516f39058ae40ff2c353fb15f5d63e41bc9b253693ad",
+        "start_P": 326,
+        "end_P": 366
+      },
+      "whole_selected_premise": "Real attacks and evasion are still called a setting, then a clan challenge motivates the finishing cast during an interrupted explanation.",
+      "primary_L": "L2",
+      "L_rationale": "Yunyun explicitly says she is avoiding death; Megumin’s setting language misreceives that corrective.",
+      "primary_H": "H1",
+      "H_rationale": "Lightning hits but is resisted, ice imprisons the creature, and Megumin chooses to cast.",
+      "eligibility_and_limits": "Actual cue receipt is adverse to broad instant dependency use; no invented chosen-art denigration or recognized-rescue motive.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H043",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U018",
+        "native_member": "OEBPS/Text/part0016.xhtml",
+        "native_member_sha256": "224a107ccf68f82ce7ed516f39058ae40ff2c353fb15f5d63e41bc9b253693ad",
+        "start_P": 370,
+        "end_P": 385
+      },
+      "whole_selected_premise": "The protective legal threat stops one intrusion while a balloon pretext requires actual counterforce and a counterspell.",
+      "primary_L": "L2",
+      "L_rationale": "False magical-purpose wording recruits Iris’s innocent cooperation; Yunyun names the intended intrusion.",
+      "primary_H": "H1",
+      "H_rationale": "Zesta dispels the first blade, and Yunyun later actually destroys balloon and mouthpiece.",
+      "eligibility_and_limits": "No completed inhaling or forced kiss; neither first failure nor later success erases the prior choice.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H044",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U018",
+        "native_member": "OEBPS/Text/part0016.xhtml",
+        "native_member_sha256": "224a107ccf68f82ce7ed516f39058ae40ff2c353fb15f5d63e41bc9b253693ad",
+        "start_P": 389,
+        "end_P": 415
+      },
+      "whole_selected_premise": "A genuinely useful blessing does not authorize unwanted clinging, and a fun ending is interrupted by the person whose prey was stolen.",
+      "primary_L": "L2",
+      "L_rationale": "Megumin’s no-clinging request and qualified apology mark distinct boundaries; Yunyun refuses the group’s attempted closure.",
+      "primary_H": "H1",
+      "H_rationale": "Cecily blesses and clings; Megumin admits the stolen finish but justifies it by blaming slowness.",
+      "eligibility_and_limits": "No complete repair or absence of all acknowledgment; quoted Kazuma advice is not a new Kazuma scene.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H045",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U018",
+        "native_member": "OEBPS/Text/part0016.xhtml",
+        "native_member_sha256": "224a107ccf68f82ce7ed516f39058ae40ff2c353fb15f5d63e41bc9b253693ad",
+        "start_P": 418,
+        "end_P": 430
+      },
+      "whole_selected_premise": "A quiet health inquiry receives a selective answer that protects the absent person’s dignity.",
+      "primary_L": "L2",
+      "L_rationale": "Megumin explicitly withholds Aqua’s frequent crying for her honor while answering ordinary wellbeing.",
+      "primary_H": "H1",
+      "H_rationale": "Zesta shows genuine specific concern and Megumin protects Aqua’s image.",
+      "eligibility_and_limits": "Protecting Aqua’s image is real but differs from receiving a proposal to protect Megumin’s own impressive image; no absolution for harassment.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H046",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U018",
+        "native_member": "OEBPS/Text/part0016.xhtml",
+        "native_member_sha256": "224a107ccf68f82ce7ed516f39058ae40ff2c353fb15f5d63e41bc9b253693ad",
+        "start_P": 451,
+        "end_P": 470
+      },
+      "whole_selected_premise": "The chosen weak game opponent anticipates changed stakes, while the showperson’s desire for difficulty creates the actual loss.",
+      "primary_L": "L2",
+      "L_rationale": "Aqua’s entertainer explanation supplies a choice motive rather than inability alone.",
+      "primary_H": "H1",
+      "H_rationale": "Darkness rejects the proposed cancellation and wins; Aqua incurs garbage duty while Megumin tells Kazuma about the trip.",
+      "eligibility_and_limits": "Cheating and ghost-finger allegations unverified; future company is hoped for rather than accepted.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H047",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U020",
+        "native_member": "OEBPS/Text/part0018.xhtml",
+        "native_member_sha256": "f38c42820af4a9c0c718fa1267b50e7c79a651453cd6d46f6f7c96bcd6102cf1",
+        "start_P": 7,
+        "end_P": 43
+      },
+      "whole_selected_premise": "A waking dispute becomes an ambiguous retelling while the available companions have separate actual duties.",
+      "primary_L": "L2",
+      "L_rationale": "The later suggestive wording omits the mundane water/waking context; Darkness names civic work.",
+      "primary_H": "H1",
+      "H_rationale": "Kazuma uses water, Megumin wets bedding and smears actual paperwork, and Aqua declines for church activity.",
+      "eligibility_and_limits": "No new intimate advance from the retelling; Aqua’s goddess claim is not automatically Megumin’s belief.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H048",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U020",
+        "native_member": "OEBPS/Text/part0018.xhtml",
+        "native_member_sha256": "f38c42820af4a9c0c718fa1267b50e7c79a651453cd6d46f6f7c96bcd6102cf1",
+        "start_P": 49,
+        "end_P": 85
+      },
+      "whole_selected_premise": "A named request disappoints the usual coordinator, and card evidence answers old kill uncertainty before a money inference interrupts a new question.",
+      "primary_L": "L2",
+      "L_rationale": "For-her-not-you and the card’s named targets specify who is wanted and what is known.",
+      "primary_H": "H1",
+      "H_rationale": "Megumin learns Barton is famous and her card confirms the frog and Chappy kills.",
+      "eligibility_and_limits": "Ecology publicity does not prove weather causation or reveal the black creature’s full historical name.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H049",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U020",
+        "native_member": "OEBPS/Text/part0018.xhtml",
+        "native_member_sha256": "f38c42820af4a9c0c718fa1267b50e7c79a651453cd6d46f6f7c96bcd6102cf1",
+        "start_P": 87,
+        "end_P": 124
+      },
+      "whole_selected_premise": "A wanted novice party welcomes an overqualified friend until another friend invokes appropriate matching and her own provider need.",
+      "primary_L": "L2",
+      "L_rationale": "Yunyun’s joy and attempted retention fix the cost before Megumin’s intervention.",
+      "primary_H": "H1",
+      "H_rationale": "Beat4 and Clarice2 offer a real party; Megumin exposes Yunyun’s over40 level and the opportunity collapses.",
+      "eligibility_and_limits": "Unperformed power leveling is not rescue of the lost company; Yunyun’s ensuing imposed choking is also retained.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H050",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U020",
+        "native_member": "OEBPS/Text/part0018.xhtml",
+        "native_member_sha256": "f38c42820af4a9c0c718fa1267b50e7c79a651453cd6d46f6f7c96bcd6102cf1",
+        "start_P": 131,
+        "end_P": 182
+      },
+      "whole_selected_premise": "A guard’s present job blocks recruitment, but a captain’s after-duty offer is genuinely voluntary and then rejected by a different recipient.",
+      "primary_L": "L2",
+      "L_rationale": "On-duty refusal, conditional future volunteering and Iris’s prove-myself response are separate permissions.",
+      "primary_H": "H1",
+      "H_rationale": "Megumin accepts the captain’s offer without Iris, who then joins and rejects the extra guard.",
+      "eligibility_and_limits": "No duel, captain defeat or freely agreed exclusion of Iris; Megumin also wants her own stage.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H051",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U020",
+        "native_member": "OEBPS/Text/part0018.xhtml",
+        "native_member_sha256": "f38c42820af4a9c0c718fa1267b50e7c79a651453cd6d46f6f7c96bcd6102cf1",
+        "start_P": 188,
+        "end_P": 220
+      },
+      "whole_selected_premise": "The expert now has a real doctorate and actual dates, yet the most expensive ring fails at its intended recipient.",
+      "primary_L": "L2",
+      "L_rationale": "Professor-address insistence coexists with an explicit refusal of the engagement gift.",
+      "primary_H": "H1",
+      "H_rationale": "Barton reports dates/giving and ring refusal after his publication.",
+      "eligibility_and_limits": "Doctorate is not proof of a distinct university professorship, and money is not known to be Barbera’s sole motive.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H052",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U020",
+        "native_member": "OEBPS/Text/part0018.xhtml",
+        "native_member_sha256": "f38c42820af4a9c0c718fa1267b50e7c79a651453cd6d46f6f7c96bcd6102cf1",
+        "start_P": 225,
+        "end_P": 239
+      },
+      "whole_selected_premise": "A personally treasured cheap ring supplies a hypothesis about another person’s desired gift.",
+      "primary_L": "L2",
+      "L_rationale": "Iris explains particular meaning rather than abstract price; projection remains a proposal.",
+      "primary_H": "H1",
+      "H_rationale": "She values Kazuma’s actual ring and suggests meaningful work.",
+      "eligibility_and_limits": "No royal engagement or independent direct statement from Barbera.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H053",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U020",
+        "native_member": "OEBPS/Text/part0018.xhtml",
+        "native_member_sha256": "f38c42820af4a9c0c718fa1267b50e7c79a651453cd6d46f6f7c96bcd6102cf1",
+        "start_P": 249,
+        "end_P": 281
+      },
+      "whole_selected_premise": "A successful cutting hit regenerates, while the stronger weapon is now present and a precaution attracts its own class of enemy.",
+      "primary_L": "L0",
+      "L_rationale": "Resource state and changed attraction mechanism carry the effect without Japanese-specific form.",
+      "primary_H": "H1",
+      "H_rationale": "Yunyun hits; repeated hits exceed her mana; Iris brought the ancestral sword and an anti-leak necklace and kills the eaters.",
+      "eligibility_and_limits": "Do not reuse the earlier missing-sword state or call all preparation absent; item attraction is separately supplied.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H054",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U020",
+        "native_member": "OEBPS/Text/part0018.xhtml",
+        "native_member_sha256": "f38c42820af4a9c0c718fa1267b50e7c79a651453cd6d46f6f7c96bcd6102cf1",
+        "start_P": 293,
+        "end_P": 320
+      },
+      "whole_selected_premise": "Field evidence is real but its presentation contaminates the royal sword; conservation then changes the requested target act.",
+      "primary_L": "L2",
+      "L_rationale": "Iris requests different wording, while Barton’s tail-tip-only instruction creates an operative nonlethal constraint.",
+      "primary_H": "H1",
+      "H_rationale": "The group finds scat, hard fragments and a small shed gem, then agrees to seek only a regenerating tail tip.",
+      "eligibility_and_limits": "Pictorial feces icon is same illustration context, not another spoken act or proof of every biological claim.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H055",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U020",
+        "native_member": "OEBPS/Text/part0018.xhtml",
+        "native_member_sha256": "f38c42820af4a9c0c718fa1267b50e7c79a651453cd6d46f6f7c96bcd6102cf1",
+        "start_P": 323,
+        "end_P": 340
+      },
+      "whole_selected_premise": "A cheap gem’s supposed magic power is corrected as habitual thrift, while the real national treasure becomes the dangerous lure.",
+      "primary_L": "L2",
+      "L_rationale": "Yunyun answers the joking causal excuse; the valuable item’s independently supplied attraction is literal.",
+      "primary_H": "H1",
+      "H_rationale": "Megumin picks up the bait and the liger charges Iris’s necklace.",
+      "eligibility_and_limits": "No actual mind control, universal insolvency or H4 from the magical explanation.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H056",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U020",
+        "native_member": "OEBPS/Text/part0018.xhtml",
+        "native_member_sha256": "f38c42820af4a9c0c718fa1267b50e7c79a651453cd6d46f6f7c96bcd6102cf1",
+        "start_P": 341,
+        "end_P": 356
+      },
+      "whole_selected_premise": "A nonlethal task makes avoidance more difficult, and the conservationist physically prevents the proposed destructive shortcut.",
+      "primary_L": "L2",
+      "L_rationale": "Yunyun names the no-kill constraint; Barton’s petting advice fails to answer the urgent need.",
+      "primary_H": "H1",
+      "H_rationale": "Swamp is avoided, Explosion is requested but stopped before cast, and Iris adopts barehand capture.",
+      "eligibility_and_limits": "Actual spell avoidance is not an unexplained miss; no performed killing.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H057",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U020",
+        "native_member": "OEBPS/Text/part0018.xhtml",
+        "native_member_sha256": "f38c42820af4a9c0c718fa1267b50e7c79a651453cd6d46f6f7c96bcd6102cf1",
+        "start_P": 357,
+        "end_P": 370
+      },
+      "whole_selected_premise": "A serious safety argument is received even though its speaker openly admits political self-protection and a wish to abandon the job.",
+      "primary_L": "L2",
+      "L_rationale": "Megumin’s question about the gift recipient’s wishes changes Barton’s appraisal; her aside exposes mixed motive.",
+      "primary_H": "H1",
+      "H_rationale": "She argues Iris’s danger and possible execution risk, and Barton accepts the child-safety point.",
+      "eligibility_and_limits": "Useful care does not require pure motive; the wish to blur responsibility is not omitted.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H058",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U020",
+        "native_member": "OEBPS/Text/part0018.xhtml",
+        "native_member_sha256": "f38c42820af4a9c0c718fa1267b50e7c79a651453cd6d46f6f7c96bcd6102cf1",
+        "start_P": 371,
+        "end_P": 401
+      },
+      "whole_selected_premise": "The expert volunteers himself as bait and receives the necklace, whose removal reveals the strength that now scares the quarry.",
+      "primary_L": "L0",
+      "L_rationale": "The resource handoff and causal state change are portable.",
+      "primary_H": "H1",
+      "H_rationale": "Barton takes a real risk and face cost, but the intended bait fails as the creature retreats.",
+      "eligibility_and_limits": "The last explicit holder is Barton; do not invent an intermediate return to Iris before later theft.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H059",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U020",
+        "native_member": "OEBPS/Text/part0018.xhtml",
+        "native_member_sha256": "f38c42820af4a9c0c718fa1267b50e7c79a651453cd6d46f6f7c96bcd6102cf1",
+        "start_P": 402,
+        "end_P": 434
+      },
+      "whole_selected_premise": "An actual dodged cut and restored sword opportunity end in pity-based hesitation that the clever quarry exploits.",
+      "primary_L": "L2",
+      "L_rationale": "Megumin’s unemotional-bird-killing boast is set against Iris’s real hesitation and Yunyun’s rebuke.",
+      "primary_H": "H1",
+      "H_rationale": "Yunyun misses a dodging target; Iris hesitates; the necklace is stolen and the creature escapes.",
+      "eligibility_and_limits": "No tail harvest, kill, or new performed bird killing; the precise robbed holder is not narrated.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H060",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U020",
+        "native_member": "OEBPS/Text/part0018.xhtml",
+        "native_member_sha256": "f38c42820af4a9c0c718fa1267b50e7c79a651453cd6d46f6f7c96bcd6102cf1",
+        "start_P": 435,
+        "end_P": 456
+      },
+      "whole_selected_premise": "The client offers responsibility, the adventurer refuses to charge him, and the owner acknowledges bringing the risky resource.",
+      "primary_L": "L2",
+      "L_rationale": "Each speaker owns a distinct causal or role responsibility without an actual reimbursement transfer.",
+      "primary_H": "H1",
+      "H_rationale": "Barton offers compensation; Yunyun rejects it; Iris owns the choice; the small shed crystal becomes meaningful gift material.",
+      "eligibility_and_limits": "No completed repayment, parental forgiveness or yet-observed ring crafting.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H061",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U020",
+        "native_member": "OEBPS/Text/part0018.xhtml",
+        "native_member_sha256": "f38c42820af4a9c0c718fa1267b50e7c79a651453cd6d46f6f7c96bcd6102cf1",
+        "start_P": 457,
+        "end_P": 469
+      },
+      "whole_selected_premise": "A valuable discovery threatens overhunting, while the conservationist excludes the frog from his supposedly general concern.",
+      "primary_L": "L2",
+      "L_rationale": "The explicit species preference exposes the limit of his protective principle.",
+      "primary_H": "H1",
+      "H_rationale": "Barton fears publicity and asks for a solution allowing both gift and survival.",
+      "eligibility_and_limits": "No objective equal-species ethic inferred and no actual hunted population yet shown.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H062",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U020",
+        "native_member": "OEBPS/Text/part0018.xhtml",
+        "native_member_sha256": "f38c42820af4a9c0c718fa1267b50e7c79a651453cd6d46f6f7c96bcd6102cf1",
+        "start_P": 475,
+        "end_P": 499
+      },
+      "whole_selected_premise": "The mage stages her own worst reputation to protect the animal and client, using a royal witness and an actual prohibited-nearby cast.",
+      "primary_L": "L2",
+      "L_rationale": "The uncontrollable-urge story is explicitly authored false testimony, while Yunyun’s warning is actually heard first.",
+      "primary_H": "H1",
+      "H_rationale": "Megumin chooses her own face cost and casts into the forest; Iris offers to override card evidence.",
+      "eligibility_and_limits": "Actual cast is P0497. Rare creature and necklace destruction are invented cover, not performed kill or true compulsive disposition. Capital safety cost remains.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H063",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U020",
+        "native_member": "OEBPS/Text/part0018.xhtml",
+        "native_member_sha256": "f38c42820af4a9c0c718fa1267b50e7c79a651453cd6d46f6f7c96bcd6102cf1",
+        "start_P": 501,
+        "end_P": 526
+      },
+      "whole_selected_premise": "A distant happy-looking presentation does not settle an engagement, and the officer refuses the romantic-ending diversion.",
+      "primary_L": "L2",
+      "L_rationale": "The officer answers the near-capital prohibition rather than the desired cover-story dispute.",
+      "primary_H": "H1",
+      "H_rationale": "Girls observe faces without words; Megumin is restrained and released because of Iris, with a future ban warning.",
+      "eligibility_and_limits": "No explicit proposal acceptance, completed jail sentence or proof the cast was safe.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H064",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U020",
+        "native_member": "OEBPS/Text/part0018.xhtml",
+        "native_member_sha256": "f38c42820af4a9c0c718fa1267b50e7c79a651453cd6d46f6f7c96bcd6102cf1",
+        "start_P": 530,
+        "end_P": 560
+      },
+      "whole_selected_premise": "The carried leader is asked to own consequences and ignores a genuine alternative leader offer while diagnosing a missing capability.",
+      "primary_L": "L2",
+      "L_rationale": "Yunyun’s responsibility and practice offers differ from Megumin’s tracking-and-direction analysis.",
+      "primary_H": "H1",
+      "H_rationale": "Yunyun takes her home; castle reprimands persist and the necklace remains lost.",
+      "eligibility_and_limits": "Leadership offer is not an accepted handoff, and real mana recovery does not restore the missing asset.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H065",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U020",
+        "native_member": "OEBPS/Text/part0018.xhtml",
+        "native_member_sha256": "f38c42820af4a9c0c718fa1267b50e7c79a651453cd6d46f6f7c96bcd6102cf1",
+        "start_P": 561,
+        "end_P": 577
+      },
+      "whole_selected_premise": "Recognizing another coordinator’s burden coexists with counting everyone’s trouble except one’s own.",
+      "primary_L": "L2",
+      "L_rationale": "Yunyun’s corrective aphorism catches the narrator’s selective list of problem members.",
+      "primary_H": "H1",
+      "H_rationale": "Megumin admits she prefers acting freely and intends to ask Kazuma next morning.",
+      "eligibility_and_limits": "Partial insight is actual; neither no insight nor permanent self-correction is established.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H066",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U023",
+        "native_member": "OEBPS/Text/part0021.xhtml",
+        "native_member_sha256": "8b5d6508b4571489e3bd944ee46a63291e3512c64fadeda1c4c1d56bbb004b6e",
+        "start_P": 3,
+        "end_P": 27
+      },
+      "whole_selected_premise": "A quiet period is exposed as unreceived problems, and the smiling request fails until the requester angrily names the organizer’s burden.",
+      "primary_L": "L2",
+      "L_rationale": "Megumin’s repeated opening attempts to restart the interaction; Aqua openly proposes strategic timing of a different confession.",
+      "primary_H": "H1",
+      "H_rationale": "Kazuma learns of the national loss, initially refuses, and hears another undisclosed problem exists.",
+      "eligibility_and_limits": "That problem’s content remains unknown; narrator quiet was ignorance, not absence of activity.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H067",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U023",
+        "native_member": "OEBPS/Text/part0021.xhtml",
+        "native_member_sha256": "8b5d6508b4571489e3bd944ee46a63291e3512c64fadeda1c4c1d56bbb004b6e",
+        "start_P": 29,
+        "end_P": 56
+      },
+      "whole_selected_premise": "A threat to take daily magic becomes actual binding and mana removal, then theatrical seal vocabulary makes the restriction alluring.",
+      "primary_L": "L2",
+      "L_rationale": "Master and seal rename literal resource control; affectionate evasion and anything do not specify an intimate act.",
+      "primary_H": "H1",
+      "H_rationale": "Kazuma Binds and Drains, then agrees to help this once in exchange for the promise.",
+      "eligibility_and_limits": "No new learned alternative build, freely accepted long-term suppression, or performed sexual demand.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H068",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U023",
+        "native_member": "OEBPS/Text/part0021.xhtml",
+        "native_member_sha256": "8b5d6508b4571489e3bd944ee46a63291e3512c64fadeda1c4c1d56bbb004b6e",
+        "start_P": 59,
+        "end_P": 104
+      },
+      "whole_selected_premise": "A clear property refusal is bypassed by false permission while its owner is detained with a challenge she thinks she has learned to resist.",
+      "primary_L": "L2",
+      "L_rationale": "Darkness rejects the old humiliation lure but still participates in a diversion; daughter-request wording misrepresents authorization.",
+      "primary_H": "H1",
+      "H_rationale": "Megumin/Aqua borrow the heirloom from her father while Kazuma stalls her; she reclaims her old pendant.",
+      "eligibility_and_limits": "Actual family loan does not supply Darkness’s agreement; hypothetical dress/photos punishment is unperformed.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H069",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U023",
+        "native_member": "OEBPS/Text/part0021.xhtml",
+        "native_member_sha256": "8b5d6508b4571489e3bd944ee46a63291e3512c64fadeda1c4c1d56bbb004b6e",
+        "start_P": 108,
+        "end_P": 125
+      },
+      "whole_selected_premise": "The barred entrant obtains an exception through the noble authority whose influence on a princess he does not recognize.",
+      "primary_L": "L2",
+      "L_rationale": "Darkness struggles to guarantee good conduct, and Megumin quietly identifies learned authority use.",
+      "primary_H": "H1",
+      "H_rationale": "They enter by actual noble intervention; Aqua wants a token and Kazuma admits another token’s uses.",
+      "eligibility_and_limits": "Ban is not generally lifted; particular civic work and authority are not automatic permission for misuse.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H070",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U023",
+        "native_member": "OEBPS/Text/part0021.xhtml",
+        "native_member_sha256": "8b5d6508b4571489e3bd944ee46a63291e3512c64fadeda1c4c1d56bbb004b6e",
+        "start_P": 142,
+        "end_P": 162
+      },
+      "whole_selected_premise": "Actual former recruitment is treated as too implausible even after the recruiter confirms it.",
+      "primary_L": "L2",
+      "L_rationale": "Name correction and independent confirmation answer the household’s teasing hidden-cause theories.",
+      "primary_H": "H1",
+      "H_rationale": "Rex supplies the earlier invitation and Megumin grows angry at teasing disbelief.",
+      "eligibility_and_limits": "No real brainwashing, hostage or hired actor explanation.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H071",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U023",
+        "native_member": "OEBPS/Text/part0021.xhtml",
+        "native_member_sha256": "8b5d6508b4571489e3bd944ee46a63291e3512c64fadeda1c4c1d56bbb004b6e",
+        "start_P": 171,
+        "end_P": 202
+      },
+      "whole_selected_premise": "An expert volunteers help beyond contractual liability and proposes recovering property without killing the animal.",
+      "primary_L": "L2",
+      "L_rationale": "The stated recovery goal is narrower than the destructive shortcut.",
+      "primary_H": "H1",
+      "H_rationale": "Barton offers a scat lure and the group adopts a jewel-bait search.",
+      "eligibility_and_limits": "Voluntary help is not proof of every unasked tracking skill or later success.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H072",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U023",
+        "native_member": "OEBPS/Text/part0021.xhtml",
+        "native_member_sha256": "8b5d6508b4571489e3bd944ee46a63291e3512c64fadeda1c4c1d56bbb004b6e",
+        "start_P": 204,
+        "end_P": 223
+      },
+      "whole_selected_premise": "The coordinator detects the target and issues a quiet cue, then joins the same distracting debate he needs the others to stop.",
+      "primary_L": "L2",
+      "L_rationale": "Megumin’s reminder identifies the already received target cue and his own diversion.",
+      "primary_H": "H1",
+      "H_rationale": "Kazuma loses focus during a sexualized armor argument and is recalled to the task.",
+      "eligibility_and_limits": "Keep the talk non-graphic and attributed; no biological or institutional truth certified by their claims.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H073",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U023",
+        "native_member": "OEBPS/Text/part0021.xhtml",
+        "native_member_sha256": "8b5d6508b4571489e3bd944ee46a63291e3512c64fadeda1c4c1d56bbb004b6e",
+        "start_P": 229,
+        "end_P": 255
+      },
+      "whole_selected_premise": "An agreed natural performance is conspicuously artificial, and successful bait theft exposes an unprepared pursuit.",
+      "primary_L": "L2",
+      "L_rationale": "Darkness’s claimed daily jewel-viewing habit is a transparent cover, while Kazuma admits the next plan is undecided.",
+      "primary_H": "H1",
+      "H_rationale": "The liger takes the heirloom as planned and outruns them.",
+      "eligibility_and_limits": "Later successful recovery cannot backdate preparation or erase the family-property risk.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H074",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U023",
+        "native_member": "OEBPS/Text/part0021.xhtml",
+        "native_member_sha256": "8b5d6508b4571489e3bd944ee46a63291e3512c64fadeda1c4c1d56bbb004b6e",
+        "start_P": 249,
+        "end_P": 250
+      },
+      "whole_selected_premise": "A fine-legs idiom is replaced by appetizing prey and corrected explicitly.",
+      "primary_L": "L3",
+      "L_rationale": "カモネギ displaces カモシカ: the shared opening and food/prey versus graceful-animal meanings require reconstruction or annotation.",
+      "primary_H": "H1",
+      "H_rationale": "Aqua actually utters the malformed self-compliment and Megumin corrects it.",
+      "eligibility_and_limits": "No literal transformation, new anatomy or actual eating; overlap with the pursuit scene is not another event count.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H075",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U023",
+        "native_member": "OEBPS/Text/part0021.xhtml",
+        "native_member_sha256": "8b5d6508b4571489e3bd944ee46a63291e3512c64fadeda1c4c1d56bbb004b6e",
+        "start_P": 259,
+        "end_P": 276
+      },
+      "whole_selected_premise": "A confident appeal to the expert’s presumed tracking capacity receives a direct denial.",
+      "primary_L": "L2",
+      "L_rationale": "Barton’s cannot-do-that answers Kazuma’s invented provider assignment.",
+      "primary_H": "H1",
+      "H_rationale": "Footprints are lost and Kazuma shifts to enemy detection after asking the actual provider.",
+      "eligibility_and_limits": "Expertise is domain-specific, not universal incompetence or proof he accepted tracking earlier.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H076",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U023",
+        "native_member": "OEBPS/Text/part0021.xhtml",
+        "native_member_sha256": "8b5d6508b4571489e3bd944ee46a63291e3512c64fadeda1c4c1d56bbb004b6e",
+        "start_P": 279,
+        "end_P": 297
+      },
+      "whole_selected_premise": "A real rescue succeeds while naming the victim’s captor produces another future threat.",
+      "primary_L": "L2",
+      "L_rationale": "Trust-me reassurance competes with Aqua’s actual fear, then the proposed monster name appropriates her humiliation.",
+      "primary_H": "H1",
+      "H_rationale": "Kazuma cuts vines and Darkness pulls Aqua free; Megumin proposes the name and Barton a later application.",
+      "eligibility_and_limits": "No actual application or retaliatory rain; new-species status is Barton’s assertion.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H077",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U023",
+        "native_member": "OEBPS/Text/part0021.xhtml",
+        "native_member_sha256": "8b5d6508b4571489e3bd944ee46a63291e3512c64fadeda1c4c1d56bbb004b6e",
+        "start_P": 300,
+        "end_P": 310
+      },
+      "whole_selected_premise": "An initially alarming grasp becomes wanted contact, frustrating the companion focused on urgent recovery.",
+      "primary_L": "L2",
+      "L_rationale": "Aqua explicitly asks Darkness to wait because she wants further rapport.",
+      "primary_H": "H1",
+      "H_rationale": "The beetle grabs Aqua, she comes to welcome it, and the group waits until she is satisfied.",
+      "eligibility_and_limits": "Later welcome does not authorize the initial seizure; this contact differs from the unwanted plant capture.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H078",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U023",
+        "native_member": "OEBPS/Text/part0021.xhtml",
+        "native_member_sha256": "8b5d6508b4571489e3bd944ee46a63291e3512c64fadeda1c4c1d56bbb004b6e",
+        "start_P": 314,
+        "end_P": 340
+      },
+      "whole_selected_premise": "A low appraisal prompts a new chant, but the imposed resource limit already makes the physical restraint redundant.",
+      "primary_L": "L2",
+      "L_rationale": "Barton’s looking-down-on-you interpretation and the others’ treasure objections supply distinct appraisals.",
+      "primary_H": "H1",
+      "H_rationale": "Megumin begins chanting and Aqua/Darkness restrain her while Kazuma knows the mana shortage.",
+      "eligibility_and_limits": "No completed cast or free willing stop; animal contempt is not explicit denigration of her chosen art.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H079",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U023",
+        "native_member": "OEBPS/Text/part0021.xhtml",
+        "native_member_sha256": "8b5d6508b4571489e3bd944ee46a63291e3512c64fadeda1c4c1d56bbb004b6e",
+        "start_P": 341,
+        "end_P": 359
+      },
+      "whole_selected_premise": "A confident cat-lover’s friendly approach fails, and a nonlethal threat leaves the speaker pinned instead.",
+      "primary_L": "L2",
+      "L_rationale": "Kazuma’s not-scary assurance fails against the actual target response.",
+      "primary_H": "H1",
+      "H_rationale": "The liger attacks Kazuma and defeats Darkness’s charge.",
+      "eligibility_and_limits": "No invented death or granted animal-comprehension skill from self-description.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H080",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U023",
+        "native_member": "OEBPS/Text/part0021.xhtml",
+        "native_member_sha256": "8b5d6508b4571489e3bd944ee46a63291e3512c64fadeda1c4c1d56bbb004b6e",
+        "start_P": 360,
+        "end_P": 375
+      },
+      "whole_selected_premise": "The theatrical master returns actual mana and receives a temporary role agreement, while an endangered-species appeal is initially refused.",
+      "primary_L": "L2",
+      "L_rationale": "Megumin explicitly limits obedience to this occasion; the literal resource transfer supports the roleplay.",
+      "primary_H": "H1",
+      "H_rationale": "Kazuma restores mana and Megumin prepares Explosion despite Barton’s first plea.",
+      "eligibility_and_limits": "No permanent master authority or agreement to all acts; the same plea later changes the target choice through another cue.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H081",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U023",
+        "native_member": "OEBPS/Text/part0021.xhtml",
+        "native_member_sha256": "8b5d6508b4571489e3bd944ee46a63291e3512c64fadeda1c4c1d56bbb004b6e",
+        "start_P": 377,
+        "end_P": 398
+      },
+      "whole_selected_premise": "The chosen distraction fails, but a jump creates enough altered geometry for the property theft to work.",
+      "primary_L": "L0",
+      "L_rationale": "Different mechanisms explain distraction failure and retrieval success without Japanese form.",
+      "primary_H": "H1",
+      "H_rationale": "Aqua performs, the animal ignores her, Kazuma Steals the national necklace and some distance opens.",
+      "eligibility_and_limits": "Kazuma predicts limited harm, not safety; Darkness’s pleasure does not establish consent to every blast risk.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H082",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U023",
+        "native_member": "OEBPS/Text/part0021.xhtml",
+        "native_member_sha256": "8b5d6508b4571489e3bd944ee46a63291e3512c64fadeda1c4c1d56bbb004b6e",
+        "start_P": 400,
+        "end_P": 412
+      },
+      "whole_selected_premise": "A last plea precedes a cast whose actual trajectory contradicts the narrator’s expected unrestrained kill.",
+      "primary_L": "L2",
+      "L_rationale": "Barton asks only for frightening it away, Megumin glances at him, and Kazuma predicts killing from her boast.",
+      "primary_H": "H1",
+      "H_rationale": "Explosion passes the animal and destroys the nest and treasure behind it.",
+      "eligibility_and_limits": "The epilogue supplies deliberate mercy; do not label this immediate aim failure, animal death or fully safe operation.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H083",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U026",
+        "native_member": "OEBPS/Text/part0024.xhtml",
+        "native_member_sha256": "bd43453f9732468efff17988ffd25e76af6fade6039c44f7aacba449169a7991",
+        "start_P": 3,
+        "end_P": 5
+      },
+      "whole_selected_premise": "An alleged failure splits the heroine’s name into the art and a worthless remainder, which she renegotiates by character count.",
+      "primary_L": "L3",
+      "L_rationale": "めぐ／みん segmentation and two-versus-three-character allocation are central Japanese-form dependencies.",
+      "primary_H": "H1",
+      "H_rationale": "Aqua scolds and Megumin literally debates the share of her name assigned to Explosion.",
+      "eligibility_and_limits": "No literal mutilation or objective ability proportion; their belief that she missed is corrected later.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H084",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U026",
+        "native_member": "OEBPS/Text/part0024.xhtml",
+        "native_member_sha256": "bd43453f9732468efff17988ffd25e76af6fade6039c44f7aacba449169a7991",
+        "start_P": 6,
+        "end_P": 24
+      },
+      "whole_selected_premise": "A successful return of the heirloom coexists with a failed assigned distraction that did impress the wrong spectator.",
+      "primary_L": "L2",
+      "L_rationale": "Aqua answers that she drew attention; Kazuma specifies whose attention the task required.",
+      "primary_H": "H1",
+      "H_rationale": "Barton persuades the living animal, it leaves the heirloom and departs, and Darkness values the recovery.",
+      "eligibility_and_limits": "Not an unassisted Kazuma solution or completed return of the national necklace to Iris.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H085",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U026",
+        "native_member": "OEBPS/Text/part0024.xhtml",
+        "native_member_sha256": "bd43453f9732468efff17988ffd25e76af6fade6039c44f7aacba449169a7991",
+        "start_P": 28,
+        "end_P": 40
+      },
+      "whole_selected_premise": "A second autograph becomes a speculative resale asset while the supposedly accidental miss is privately admitted as deliberate mercy.",
+      "primary_L": "L2",
+      "L_rationale": "Aqua’s future-price conditional and Megumin’s own retrospective motive resolve different questions.",
+      "primary_H": "H1",
+      "H_rationale": "Megumin recalls her bond with a herbivorous beginner killer after the goji cue and intentionally spares this animal.",
+      "eligibility_and_limits": "No completed autograph resale, known actual-person target or character certainty that it is the same creature.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H086",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U026",
+        "native_member": "OEBPS/Text/part0024.xhtml",
+        "native_member_sha256": "bd43453f9732468efff17988ffd25e76af6fade6039c44f7aacba449169a7991",
+        "start_P": 41,
+        "end_P": 53
+      },
+      "whole_selected_premise": "Credit for one recovery renews a contest over who alone holds the group together.",
+      "primary_L": "L2",
+      "L_rationale": "Each self-essential claim exposes the self-exemption Megumin just ascribes to others.",
+      "primary_H": "H1",
+      "H_rationale": "Kazuma wants Iris’s praise, Darkness offers return service, Aqua asks a larger share and Megumin mentally claims the support role.",
+      "eligibility_and_limits": "Recovered property and performed return are distinct; the repeated pattern does not establish total absence of self-insight.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H087",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U026",
+        "native_member": "OEBPS/Text/part0024.xhtml",
+        "native_member_sha256": "bd43453f9732468efff17988ffd25e76af6fade6039c44f7aacba449169a7991",
+        "start_P": 57,
+        "end_P": 78
+      },
+      "whole_selected_premise": "A grateful next-adventure invitation meets refusal and an old promise, while companions postpone another confession until expected praise.",
+      "primary_L": "L2",
+      "L_rationale": "The request, refusal and timing advice have different audiences and remain open next steps.",
+      "primary_H": "H1",
+      "H_rationale": "Kazuma hears the withheld-problem reference and Megumin imagines future adventure.",
+      "eligibility_and_limits": "No completed intimate act, second adventure, necklace return or disclosed other mistake. The evolution theory remains unpopular conjecture to characters.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H088",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U031",
+        "native_member": "OEBPS/Text/part0029.xhtml",
+        "native_member_sha256": "cb026f94f3d357144f20c57734a29ce4d411e7012588cec609ece06645a963f9",
+        "start_P": 6,
+        "end_P": 17
+      },
+      "whole_selected_premise": "The mage who drove away a frontliner recruits a devil and mistakes his astonishment for praise of flexibility.",
+      "primary_L": "L2",
+      "L_rationale": "Yunyun explicitly corrects the compliment reading and the alleged frailty.",
+      "primary_H": "H1",
+      "H_rationale": "Megumin and Yunyun ask Zereschilt to join after guild expulsion.",
+      "eligibility_and_limits": "Actual strength and a request do not supply already accepted membership or a successful outing.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H089",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U031",
+        "native_member": "OEBPS/Text/part0029.xhtml",
+        "native_member_sha256": "cb026f94f3d357144f20c57734a29ce4d411e7012588cec609ece06645a963f9",
+        "start_P": 19,
+        "end_P": 23
+      },
+      "whole_selected_premise": "Individual friendship and a sister’s taste defeat the presumed blanket species prejudice.",
+      "primary_L": "L2",
+      "L_rationale": "Megumin’s name-similarity joke and Yunyun’s personal friendship explanation perform different relational work.",
+      "primary_H": "H1",
+      "H_rationale": "Both girls say why they do not reject the devil category.",
+      "eligibility_and_limits": "No objective common species or permission for subsequent aggression.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H090",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U031",
+        "native_member": "OEBPS/Text/part0029.xhtml",
+        "native_member_sha256": "cb026f94f3d357144f20c57734a29ce4d411e7012588cec609ece06645a963f9",
+        "start_P": 25,
+        "end_P": 33
+      },
+      "whole_selected_premise": "A proposed fair assessment is interrupted twice by aggression and a two-person zipper plan.",
+      "primary_L": "L2",
+      "L_rationale": "Zereschilt explicitly objects that surprise defeats the purpose before conceding under renewed attack.",
+      "primary_H": "H1",
+      "H_rationale": "The girls attack and force a concession.",
+      "eligibility_and_limits": "Proposed test consent is narrower than surprise aggression; no completed unzip or bodily exposure is narrated.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H091",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U031",
+        "native_member": "OEBPS/Text/part0029.xhtml",
+        "native_member_sha256": "cb026f94f3d357144f20c57734a29ce4d411e7012588cec609ece06645a963f9",
+        "start_P": 37,
+        "end_P": 40
+      },
+      "whole_selected_premise": "A neglected powerful figure wants recognition while an old bounty becomes a new insulting nickname.",
+      "primary_L": "L2",
+      "L_rationale": "Three-thousand-eris reuses the real capture reward against Megumin’s world-destruction boast.",
+      "primary_H": "H1",
+      "H_rationale": "Zereschilt accepts the outing in words and the girls begin wrestling.",
+      "eligibility_and_limits": "No world destruction, new bounty payment or exact date from the recurring reference.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "CONTEXP02-WHOLE-H092",
+      "source_id": "CONTEXP-02",
+      "boundary": {
+        "component_id": "CONTEXP-02-U031",
+        "native_member": "OEBPS/Text/part0029.xhtml",
+        "native_member_sha256": "cb026f94f3d357144f20c57734a29ce4d411e7012588cec609ece06645a963f9",
+        "start_P": 41,
+        "end_P": 57
+      },
+      "whole_selected_premise": "New eager companions make an overwhelming party on paper, then leave the originally recruited companion with the shop.",
+      "primary_L": "L2",
+      "L_rationale": "The shop assignment answers none of Zereschilt’s newly expressed outing desire; his subdued farewell exposes the exclusion.",
+      "primary_H": "H1",
+      "H_rationale": "Wiz and Vanir prepare, leave Zereschilt behind and are seen off; Megumin intends a future invitation.",
+      "eligibility_and_limits": "No narrated frog hunt/cast, freely negotiated work handoff or completed future repair.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T20:01:31.308947+00:00",
+      "not_an_independent_prediction_trial": true
+    }
+  ]
+}

@@ -18,6 +18,12 @@ The sole character curation agent uses the exact reusable `character-registry` b
 
 Follow `CHARACTER_DISCOVERY_MAINTENANCE.md` for semantic review, exact-head audits, protected automatic integration, and cloud checkpoints. Ordinary curation PRs contain only `characters/registry.jsonl` and `CHARACTER_ANALYSIS_INDEX.md`. Pre-merge evidence repairs are agent-authored on the exact source branch and integrated by the owner/source task as a combined validated change; this does not grant the daily agent authority to merge analysis.
 
+## Continuing reconstruction evaluation
+
+The sole reconstruction evaluator uses the exact reusable `character-reconstruction` branch for recurring two-file capability updates and at most one open PR to `main`. Like `character-registry`, this is an explicit continuing-branch exception to the temporary cross-cutting convention: retain it while active, recreate it from current `main` after any verified automatic deletion, and reconcile without force-pushing or rewriting history.
+
+Follow `CHARACTER_RECONSTRUCTION_MAINTENANCE.md` for review, exact-head audits, owner merge of substantive changes, and its bounded mechanical-maintenance merge authority. Its PRs contain only `characters/reconstruction_capabilities.jsonl` and `characters/CHARACTER_RECONSTRUCTION_INDEX.md`; the validator rejects any other path changed beside them. Series and study branches never carry these files: a source change that makes an assessment stale is reconciled later by the evaluator, not repaired on the source branch.
+
 ## Temporary branches
 
 Bootstrap, migration, repair, audit-remediation, experiment, and one-shot automation branches are disposable. A temporary branch has accomplished its purpose only after:
@@ -37,4 +43,4 @@ The [CI and PR Integration Steward delegation](NIGHTLY_ANALYTICAL_INTEGRATION.md
 
 ## Cross-cutting work
 
-Except for the continuing character curation branch above, repository-wide governance, tooling, or index changes use a narrowly named temporary branch under one of the audited agent prefixes: `codex/<purpose>`, `chatgpt/<purpose>` or `claude/<purpose>`. A branch under any other prefix receives no repository audit and so can never carry the required status. It must be pruned after verified integration. Do not route unrelated analytical content through a cross-cutting branch merely to avoid its series or study integration branch.
+Except for the continuing character curation and reconstruction branches above, repository-wide governance, tooling, or index changes use a narrowly named temporary branch under one of the audited agent prefixes: `codex/<purpose>`, `chatgpt/<purpose>` or `claude/<purpose>`. A branch under any other prefix receives no repository audit and so can never carry the required status. It must be pruned after verified integration. Do not route unrelated analytical content through a cross-cutting branch merely to avoid its series or study integration branch.
