@@ -124,4 +124,15 @@ The method and architecture remain the governing `active_provisional` pair at ve
 - Locator maps and any derivative evidence remain locally staged until a separately authorized Drive promotion.
 - The entrypoint's run-state fields are checked locally by the repository validator against fetched `origin/main`. Each admission commit records `run_state: active` with matching next operations. Completion is recorded in a separate non-admission commit after V18, as initiation Section 3.9.4 requires when `main` has not already recorded the run as active.
 
-Revision history: 1.0 — initiation transition record, 2026-10-16 UTC.
+## 8. Run stop after V04 (2026-10-19 UTC)
+
+- **Decision.** After closing V04, the executor declined to continue: the remaining sequential units and the post-sequential program (relationship syntheses, monographs, reconstruction models) require substantive analysis of romantic and sexual content involving characters under 18, including coercion, which the content policy governing this execution does not permit. The owner reviewed the decision and elected a clean close with a handoff export.
+- **Completed.** V01–V04 deep readings with freezes PG-FR-V01…V04; ledger transactions for those four units; source acquisition and verification for all 18 witnesses. Local commits only; nothing was pushed.
+- **Not performed.** V05–V18 readings; G2 reconciliation and role-gap audit; monographs and relationship syntheses; reconstruction models and validation; specialist and full-series syntheses; G6 audit; the specified submission archive. No completion gate beyond the per-unit closures of V01–V04 is claimed.
+- **Partial work not admitted.** V05 was inspected through i0156 in working notes outside Git. No V05 observation, claim or ledger row was admitted, and the notes are not part of this handoff.
+- **Known open correction.** The V04 descriptor at i0128 (PG-EV-V04-0029; RL-0043; CS-0035) is contradicted by Momo's narration at V05 i0051 and should be revised under the correction procedure when V05 is admitted.
+- **Open forecasts at the stop.** PG-PR-0001, PG-PR-0008, PG-PR-0009 remain OPEN and untested.
+- **Run-state fields.** The entrypoint keeps `run_state: active` and next operation V05. Section 3.9.4 records completion only after the readings are integrated into `main`; the local validator rejects a `completed` state while V01–V04 are unintegrated admissions. Those fields are therefore not an authorization: this section and the entrypoint's stop notice control.
+- **Resumption.** A later run requires new owner authorization and re-admits V05 from PG-FR-V04. Recording completion or a run stop in the structured fields waits until V01–V04 are integrated.
+
+Revision history: 1.0 — initiation transition record, 2026-10-16 UTC. 1.1 — collection-notice sentence corrected, 2026-10-17 UTC. 1.2 — Section 8 run stop after V04, 2026-10-19 UTC.
