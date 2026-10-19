@@ -1,0 +1,335 @@
+{
+  "schema": "KONOSUBA_MAIN14_EXCLUDED_SELECTED_HUMOR_V1",
+  "source_id": "MAIN-14",
+  "records": [
+    {
+      "id": "M14EX-H01",
+      "boundary": {
+        "component_id": "MAIN-14-U023",
+        "start_P": 1,
+        "end_P": 9
+      },
+      "whole_selected_premise": "Yunyun and Megumin reconsider a monster's upbringing; Aqua's guarantee of its goodness makes Kazuma more suspicious, and Aqua attacks his upbringing.",
+      "primary_L": "L2",
+      "L_rationale": "The guarantee becomes a discrediting cue in this familiar exchange; the insult answers standing rather than supplying evidence.",
+      "primary_H": "H1",
+      "H_rationale": "Actual positions, watering, distrust and insult; nobody's general theory of innate goodness or evil is thereby proved.",
+      "source_plane": "New separately headed electronic bonus; Kazuma first-person.",
+      "eligibility_and_limits": "Aqua's eyes claim is her assertion. Kazuma does not explicitly deny her divine identity, and her insult is not self-legitimation.",
+      "native_member": "OEBPS/Text/part0021.xhtml",
+      "native_member_sha256": "678620115aa7432ad39f3fb3a9b5b12cf84e6514d5c9119b9744b0315acde8c1",
+      "formal_assignment_after_seal_utc": "2026-10-19T19:14:12.050115+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M14EX-H02",
+      "boundary": {
+        "component_id": "MAIN-14-U023",
+        "start_P": 10,
+        "end_P": 15
+      },
+      "whole_selected_premise": "The seedling grasps Yunyun's finger; she announces adoption and succession, while Megumin redirects her toward making fertilizer and Aqua proposes cleaner water.",
+      "primary_L": "L2",
+      "L_rationale": "The escalating announcement and blunt practical redirection depend on speaker/addressee work rather than a fixed phrase.",
+      "primary_H": "H1",
+      "H_rationale": "The grasp, announcements, request and departure occur; adoption, future chiefship and completed fertilizer do not.",
+      "source_plane": "New separately headed electronic bonus; Kazuma first-person.",
+      "eligibility_and_limits": "Yunyun makes real choices. Her own particular preparation or completed task is not individually narrated after the group leaves.",
+      "native_member": "OEBPS/Text/part0021.xhtml",
+      "native_member_sha256": "678620115aa7432ad39f3fb3a9b5b12cf84e6514d5c9119b9744b0315acde8c1",
+      "formal_assignment_after_seal_utc": "2026-10-19T19:14:12.050115+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M14EX-H03",
+      "boundary": {
+        "component_id": "MAIN-14-U023",
+        "start_P": 16,
+        "end_P": 22
+      },
+      "whole_selected_premise": "Kazuma gently strokes the plant and proposes a remote forest life without human nourishment; the apparently innocent dependent answers coarsely.",
+      "primary_L": "L2",
+      "L_rationale": "The caring address is punctured by the plant's rough denial, changing the social relation.",
+      "primary_H": "H1",
+      "H_rationale": "The caress, plan, actual rude reply and questioning are literal within the fantasy.",
+      "source_plane": "New separately headed electronic bonus; Kazuma first-person.",
+      "eligibility_and_limits": "Kazuma alone hears the initial reply. His provision for survival is a supposition, not verified species biology.",
+      "native_member": "OEBPS/Text/part0021.xhtml",
+      "native_member_sha256": "678620115aa7432ad39f3fb3a9b5b12cf84e6514d5c9119b9744b0315acde8c1",
+      "formal_assignment_after_seal_utc": "2026-10-19T19:14:12.050115+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M14EX-H04",
+      "boundary": {
+        "component_id": "MAIN-14-U023",
+        "start_P": 23,
+        "end_P": 26
+      },
+      "whole_selected_premise": "The plant giggles innocently when questioned, then gives a tongue click after Kazuma demands another utterance.",
+      "primary_L": "L1",
+      "L_rationale": "The short denial-like performance and tongue click carry the callback; katakana alone is not L3 dependence.",
+      "primary_H": "H1",
+      "H_rationale": "Both observed performances occur; deceptive intent is a supported interpretation rather than narrated private access.",
+      "source_plane": "New separately headed electronic bonus; Kazuma first-person.",
+      "eligibility_and_limits": "A tongue click and speech are distinct observations. No recording or other witness is supplied.",
+      "native_member": "OEBPS/Text/part0021.xhtml",
+      "native_member_sha256": "678620115aa7432ad39f3fb3a9b5b12cf84e6514d5c9119b9744b0315acde8c1",
+      "formal_assignment_after_seal_utc": "2026-10-19T19:14:12.050115+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M14EX-H05",
+      "boundary": {
+        "component_id": "MAIN-14-U023",
+        "start_P": 27,
+        "end_P": 30
+      },
+      "whole_selected_premise": "Darkness returns with a reported low-visitor forest location and interrupts Kazuma's attempt to pull the seedling out and burn it.",
+      "primary_L": "L0",
+      "L_rationale": "The collision of a protective relocation errand and sudden disposal is portable event structure.",
+      "primary_H": "H1",
+      "H_rationale": "The threat and intervention have consequences: this disposal attempt is abandoned.",
+      "source_plane": "New separately headed electronic bonus; Kazuma first-person.",
+      "eligibility_and_limits": "Her concern for Aqua can coexist with protecting the dependent. No actual burning, injury or completed transplant follows.",
+      "native_member": "OEBPS/Text/part0021.xhtml",
+      "native_member_sha256": "678620115aa7432ad39f3fb3a9b5b12cf84e6514d5c9119b9744b0315acde8c1",
+      "formal_assignment_after_seal_utc": "2026-10-19T19:14:12.050115+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M14EX-H06",
+      "boundary": {
+        "component_id": "MAIN-14-U023",
+        "start_P": 31,
+        "end_P": 33
+      },
+      "whole_selected_premise": "Kazuma reports speech he really heard; Darkness answers from the plant's apparent infancy and his known prior hostility.",
+      "primary_L": "L0",
+      "L_rationale": "Different evidence and an ordinary developmental analogy produce the disagreement without a uniquely Japanese form.",
+      "primary_H": "H1",
+      "H_rationale": "The competing accounts and actual disbelief remain real; reader access supports the hearing but not Kazuma's universal innate-evil conclusion.",
+      "source_plane": "New separately headed electronic bonus; Kazuma first-person.",
+      "eligibility_and_limits": "Darkness did not witness the private speech. Her human-infant analogy does not establish this species' actual language limits.",
+      "native_member": "OEBPS/Text/part0021.xhtml",
+      "native_member_sha256": "678620115aa7432ad39f3fb3a9b5b12cf84e6514d5c9119b9744b0315acde8c1",
+      "formal_assignment_after_seal_utc": "2026-10-19T19:14:12.050115+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M14EX-H07",
+      "boundary": {
+        "component_id": "MAIN-14-U023",
+        "start_P": 34,
+        "end_P": 39
+      },
+      "whole_selected_premise": "A naming suggestion and a biological explanation accompany the returning group, whose pitying response displaces Kazuma's complaint.",
+      "primary_L": "L2",
+      "L_rationale": "The hesitant naming and polite explanation imply interpersonal stance, but their untagged speakers remain unresolved.",
+      "primary_H": "H1",
+      "H_rationale": "The spoken proposals, returned vegetable scraps and looks occur; proposed names and biological claims are not completed facts.",
+      "source_plane": "New separately headed electronic bonus; Kazuma first-person.",
+      "eligibility_and_limits": "Do not attribute P35 or P39 to Yunyun/Megumin merely from politeness or shyness; no completed renaming.",
+      "native_member": "OEBPS/Text/part0021.xhtml",
+      "native_member_sha256": "678620115aa7432ad39f3fb3a9b5b12cf84e6514d5c9119b9744b0315acde8c1",
+      "formal_assignment_after_seal_utc": "2026-10-19T19:14:12.050115+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M14EX-H08",
+      "boundary": {
+        "component_id": "MAIN-14-U023",
+        "start_P": 40,
+        "end_P": 43
+      },
+      "whole_selected_premise": "Kazuma invokes flying vegetables against an ordinary biological answer; Aqua arrives with sacred water and initially mistakes his conduct toward the plant.",
+      "primary_L": "L2",
+      "L_rationale": "His appeal to this world's absurd baseline and her mistaken rebuke supply the exchange's pragmatic mismatch.",
+      "primary_H": "H1",
+      "H_rationale": "The world-referential rebuttal, request to speak, water arrival and mistaken account are actual.",
+      "source_plane": "New separately headed electronic bonus; Kazuma first-person.",
+      "eligibility_and_limits": "Flying vegetables do not prove every inference about a seedling. Aqua arrives after the original private exchange.",
+      "native_member": "OEBPS/Text/part0021.xhtml",
+      "native_member_sha256": "678620115aa7432ad39f3fb3a9b5b12cf84e6514d5c9119b9744b0315acde8c1",
+      "formal_assignment_after_seal_utc": "2026-10-19T19:14:12.050115+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M14EX-H09",
+      "boundary": {
+        "component_id": "MAIN-14-U023",
+        "start_P": 44,
+        "end_P": 46
+      },
+      "whole_selected_premise": "Aqua's shoulder touch and suggestion that Kazuma sleep function as consolation to someone whom the reader knows really heard the plant.",
+      "primary_L": "L2",
+      "L_rationale": "An ostensibly sympathetic response becomes invalidating through the unequal information available.",
+      "primary_H": "H1",
+      "H_rationale": "The contact, fatigue attribution, advice and protest occur.",
+      "source_plane": "New separately headed electronic bonus; Kazuma first-person.",
+      "eligibility_and_limits": "Fatigue is Aqua's explanation, not an established diagnosis; the narrative does not show a completed rest or cure.",
+      "native_member": "OEBPS/Text/part0021.xhtml",
+      "native_member_sha256": "678620115aa7432ad39f3fb3a9b5b12cf84e6514d5c9119b9744b0315acde8c1",
+      "formal_assignment_after_seal_utc": "2026-10-19T19:14:12.050115+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M14EX-H10",
+      "boundary": {
+        "component_id": "MAIN-14-U023",
+        "start_P": 47,
+        "end_P": 49
+      },
+      "whole_selected_premise": "The group moves away and whispers about hospital care while Kazuma privately warns that future consequences are their problem.",
+      "primary_L": "L2",
+      "L_rationale": "Indirect group talk and his private resentment create exclusion without a fixed comic role.",
+      "primary_H": "H1",
+      "H_rationale": "Distance, heard words and private reaction are literal; a clinic visit is unperformed.",
+      "source_plane": "New separately headed electronic bonus; Kazuma first-person.",
+      "eligibility_and_limits": "The whispers do not establish a formal referral, a disorder, or unanimous knowledge of what he heard.",
+      "native_member": "OEBPS/Text/part0021.xhtml",
+      "native_member_sha256": "678620115aa7432ad39f3fb3a9b5b12cf84e6514d5c9119b9744b0315acde8c1",
+      "formal_assignment_after_seal_utc": "2026-10-19T19:14:12.050115+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M14EX-H11",
+      "boundary": {
+        "component_id": "MAIN-14-U023",
+        "start_P": 51,
+        "end_P": 56
+      },
+      "whole_selected_premise": "Komekko responds to the complaint by calling the plant appetizing; the rude seedling now makes a frightened sound.",
+      "primary_L": "L0",
+      "L_rationale": "The reversal from adult indulgence to the child's food appraisal is portable.",
+      "primary_H": "H1",
+      "H_rationale": "The child's remark and the plant's reaction occur; no eating or injury is shown.",
+      "source_plane": "New separately headed electronic bonus; Kazuma first-person.",
+      "eligibility_and_limits": "Child evidence stays age appropriate and nonsexual. Neither a lifelong child trait nor the plant's entire moral character is proved.",
+      "native_member": "OEBPS/Text/part0021.xhtml",
+      "native_member_sha256": "678620115aa7432ad39f3fb3a9b5b12cf84e6514d5c9119b9744b0315acde8c1",
+      "formal_assignment_after_seal_utc": "2026-10-19T19:14:12.050115+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M14EX-H12",
+      "boundary": {
+        "component_id": "MAIN-14-U023",
+        "start_P": 57,
+        "end_P": 57
+      },
+      "whole_selected_premise": "Kazuma converts this particular food remark into a cross-world claim that children are cruel.",
+      "primary_L": "L1",
+      "L_rationale": "The generalizing narratorial coda supplies the sting beyond the literal local remark.",
+      "primary_H": "H2",
+      "H_rationale": "A real underlying food appraisal/fear is amplified into a universal judgment; the acts themselves stay literal.",
+      "source_plane": "New separately headed electronic bonus; Kazuma first-person.",
+      "eligibility_and_limits": "The universal belongs to the narrator. It does not license a general developmental or ethical law.",
+      "native_member": "OEBPS/Text/part0021.xhtml",
+      "native_member_sha256": "678620115aa7432ad39f3fb3a9b5b12cf84e6514d5c9119b9744b0315acde8c1",
+      "formal_assignment_after_seal_utc": "2026-10-19T19:14:12.050115+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M14EX-H13",
+      "boundary": {
+        "component_id": "MAIN-14-U019",
+        "start_P": 4,
+        "end_P": 7
+      },
+      "whole_selected_premise": "The author describes becoming a writer to avoid commuting, then being made to commute because work at home stalls.",
+      "primary_L": "L1",
+      "L_rationale": "The causal reversal and self-own culminate in the unchanged home-guard persona.",
+      "primary_H": "H1",
+      "H_rationale": "Actual creator self-description or framing; the referents are attributed claims, not new character actions.",
+      "source_plane": "Creator afterword; distinct from canonical action and reader prediction trials.",
+      "eligibility_and_limits": "The editor's arrangement and productivity account are the author's report; no general occupational psychology follows.",
+      "native_member": "OEBPS/Text/part0017.xhtml",
+      "native_member_sha256": "54c5f724c0c13abec32571457c4bc1da51076d532d2573f96354f6ae3af17217",
+      "formal_assignment_after_seal_utc": "2026-10-19T19:14:12.050115+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M14EX-H14",
+      "boundary": {
+        "component_id": "MAIN-14-U019",
+        "start_P": 8,
+        "end_P": 9
+      },
+      "whole_selected_premise": "The apparent final settlement between two rivals is restated as becoming eternal rivals.",
+      "primary_L": "L1",
+      "L_rationale": "The negated settlement and forever-continuation turn structure the correction.",
+      "primary_H": "H1",
+      "H_rationale": "Actual creator self-description or framing; the referents are attributed claims, not new character actions.",
+      "source_plane": "Creator afterword; distinct from canonical action and reader prediction trials.",
+      "eligibility_and_limits": "Creator concept and future forecast support interpretation of rivalry, not new Yunyun/Megumin choices or a compulsory final romantic state.",
+      "native_member": "OEBPS/Text/part0017.xhtml",
+      "native_member_sha256": "54c5f724c0c13abec32571457c4bc1da51076d532d2573f96354f6ae3af17217",
+      "formal_assignment_after_seal_utc": "2026-10-19T19:14:12.050115+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M14EX-H15",
+      "boundary": {
+        "component_id": "MAIN-14-U019",
+        "start_P": 10,
+        "end_P": 12
+      },
+      "whole_selected_premise": "A climax announcement threatens the end of peaceful everyday life, then invites readers to keep enjoying the series lightly.",
+      "primary_L": "L2",
+      "L_rationale": "Publisher-like escalation is immediately qualified by a familiar author-to-reader reassurance.",
+      "primary_H": "H1",
+      "H_rationale": "Actual creator self-description or framing; the referents are attributed claims, not new character actions.",
+      "source_plane": "Creator afterword; distinct from canonical action and reader prediction trials.",
+      "eligibility_and_limits": "A tone promise does not make actual threats, imposed acts or technical failures nonliteral.",
+      "native_member": "OEBPS/Text/part0017.xhtml",
+      "native_member_sha256": "54c5f724c0c13abec32571457c4bc1da51076d532d2573f96354f6ae3af17217",
+      "formal_assignment_after_seal_utc": "2026-10-19T19:14:12.050115+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M14EX-H16",
+      "boundary": {
+        "component_id": "MAIN-14-U020",
+        "image_id": "MAIN-14-IMG026"
+      },
+      "whole_selected_premise": "The illustrator depicts Nerimaki imagining Megumin and Yunyun together, with the observer's thought and contributor framing visible.",
+      "primary_L": "L0",
+      "L_rationale": "The represented observer/imagination distinction is visually portable.",
+      "primary_H": "H4",
+      "H_rationale": "Explicitly compositional/imaginative or promotional staging; no literal source-world event is asserted by the represented performance.",
+      "source_plane": "Native raster contributor/promotion plane, read separately from principal and bonus action.",
+      "eligibility_and_limits": "An explicitly imagined contributor comic does not establish enacted intimacy, agreement or a new canonical relationship.",
+      "native_member": "OEBPS/Text/part0018.xhtml",
+      "native_member_sha256": "6870059317eb8cdc35e8e982ac117381bc515141e0527737da8913bd03a76e4d",
+      "native_image_sha256": "242e7c0a06e745d349dcbc4a1f0f1e38690da0f6307407fe7a25b5d6276c4a22",
+      "parent_principal_authority_retained": false,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T19:14:12.050115+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M14EX-H17",
+      "boundary": {
+        "component_id": "MAIN-14-U021",
+        "image_id": "MAIN-14-IMG027"
+      },
+      "whole_selected_premise": "NEXT15 offers successive dramatic priest/assassin pitches; Kazuma repeatedly identifies the demon-army executive and denies that the proposed serious plot is starting.",
+      "primary_L": "L1",
+      "L_rationale": "Repeated correction and the final start/does-not-start reversal shape the staged script.",
+      "primary_H": "H4",
+      "H_rationale": "Explicitly compositional/imaginative or promotional staging; no literal source-world event is asserted by the represented performance.",
+      "source_plane": "Native raster contributor/promotion plane, read separately from principal and bonus action.",
+      "eligibility_and_limits": "Promotional roles and jokes are not newly admitted MAIN15 events or an independent forecast.",
+      "native_member": "OEBPS/Text/part0019.xhtml",
+      "native_member_sha256": "ca3a73fbf32524b2af9ed211103b75dc3a89d5ba19313edf3f6564672a34b46d",
+      "native_image_sha256": "1e0f04647b091d721240efd20631fd9341b8059a4edafe9298e9e7bdcd18c221",
+      "parent_principal_authority_retained": false,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T19:14:12.050115+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    }
+  ],
+  "H_protocol": "H1 literal acts or attributed statements; H2 underlying reaction with amplified intensity; H3 only behavior contingent on a local gag, not uncertainty; H4 staged/nonliteral presentation rather than fantasy automatically. Actual and projected effects remain different.",
+  "L_protocol": "L0 structurally portable; L1 phrasing-sensitive; L2 register/pragmatic stance; L3 central Japanese-form dependence. Whole effects and named nested forms are distinct; selected overlap is not a denominator."
+}
