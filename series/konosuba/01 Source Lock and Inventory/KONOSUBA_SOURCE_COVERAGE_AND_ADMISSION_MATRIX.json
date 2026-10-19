@@ -4345,7 +4345,7 @@
       ],
       "analytical_completion": "PRINCIPAL_MAIN_NARRATIVE_ANALYZED; EXPANDED_COMPONENTS_OPEN",
       "expanded_stage_C": {
-        "status": "MAIN_EXCLUDED_COMPONENT_ANALYSIS_ACCEPTED_WITH_EXACT_RETAINED_PRINCIPAL_AUTHORITY_CONTAINING_PUBLICATION_PENDING",
+        "status": "MAIN_EXCLUDED_COMPONENT_ANALYSIS_ACCEPTED_PUBLISHED_FULL_GATE_CLOSED_WITH_EXACT_RETAINED_PRINCIPAL",
         "admission_utc": "2026-10-19T17:36:22.057597+00:00",
         "native_sha256": "20c39c98d0d7568f4b66c612b6fba6771566b97b32114c087a4c447ac5dc676b",
         "native_admission_sha256": "c73e8f565376cba08a18ae898d737b8591b48a886cb9c4a9cc67de93a713b4d0",
@@ -4358,7 +4358,7 @@
         "native_images_to_inspect": 28,
         "new_text_or_image_reading_credit_at_admission": 0,
         "formal_outcomes_assigned": false,
-        "remaining": "Complete exact candidate review/preflight, ordinary publication, all-tree/changed-stream readback, full source audit, completed housekeeping, final actual-source audit/status and fresh authority reload before MAIN14 excluded admission. Ordinarily reconcile then-current main before another push. Remaining sources, full individual secondary census/earned artifacts, expanded synthesis/versioned principal-party-transfer revisions, curation/integration and release continue.",
+        "remaining": "Declared supplied-edition scope and exact publication sequence closed. Other source programs, syntheses, versioned models, secondary artifacts, curation and final release continue.",
         "prior_pre_admission_snapshot": {},
         "accepted_utc": "2026-10-19T18:16:36.685091+00:00",
         "actual_new_excluded_P_slots": 129,
@@ -4432,6 +4432,12 @@
           "formal_outcomes_assigned": false,
           "remaining": "Actual excluded-resource/ruby/residual/image reading, bespoke uncoded seal, individual analysis, qualified comparisons, ten-ledger dispositions, receiving and publication. Original principal acceptance retained.",
           "prior_pre_admission_snapshot": {}
+        },
+        "authorship_publication_state": "MAIN_EXCLUDED_COMPONENT_ANALYSIS_ACCEPTED_WITH_EXACT_RETAINED_PRINCIPAL_AUTHORITY_CONTAINING_PUBLICATION_PENDING",
+        "publication_gate": {
+          "source_commit": "6c12a8013ec256bb998acdda2e15970aae5fea88",
+          "closed_utc": "2026-10-19T18:33:01.290323+00:00",
+          "receipt": "09 Audits and Manifests/KONOSUBA_MAIN13EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json"
         }
       }
     },
@@ -4724,7 +4730,97 @@
           "required_action": "Map exact component boundaries, locators, authorship and treatment during stage-authorized source inspection."
         }
       ],
-      "analytical_completion": "PRINCIPAL_MAIN_NARRATIVE_ANALYZED; EXPANDED_COMPONENTS_OPEN"
+      "analytical_completion": "PRINCIPAL_MAIN_NARRATIVE_ANALYZED; EXPANDED_COMPONENTS_OPEN",
+      "expanded_stage_C": {
+        "status": "MAIN_EXCLUDED_COMPONENT_ANALYSIS_ACCEPTED_WITH_EXACT_RETAINED_PRINCIPAL_AUTHORITY_CONTAINING_PUBLICATION_PENDING",
+        "admission_utc": "2026-10-19T18:33:50.576010+00:00",
+        "native_sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+        "native_admission_sha256": "66516800b5b49a768d316ac684b65643c51cbbd063c52363dbe501ba061e9c73",
+        "preceding_full_gate_source": "6c12a8013ec256bb998acdda2e15970aae5fea88",
+        "preceding_fresh_reload_sha256": "43d07cf4020126f874a009a5d8749883c3ce3bcc11c71bcc2d2ebdab5d50c0d6",
+        "pre_body_context_seal_sha256": "9d101dee5231314b36212b8ec8e5b69696cab6c9d90e32b90e8a584798702af0",
+        "retained_accepted_principal_members": 8,
+        "new_principal_reading_credit": 0,
+        "new_excluded_text_resources": 18,
+        "native_images_to_inspect": 29,
+        "new_text_or_image_reading_credit_at_admission": 0,
+        "formal_outcomes_assigned": false,
+        "remaining": "Complete exact candidate review/preflight, ordinary publication, all-tree/changed-stream readback, full source audit, completed housekeeping, final actual-source audit/status and fresh authority reload before MAIN15 excluded admission. Ordinarily reconcile then-current main before another push. MAIN15-17, full individual secondary census/earned artifacts, expanded synthesis/versioned principal-party-transfer revisions, curation/integration and release continue.",
+        "prior_pre_admission_snapshot": {},
+        "accepted_utc": "2026-10-19T19:19:44.536714+00:00",
+        "actual_new_excluded_P_slots": 129,
+        "all_native_images_actually_viewed": 29,
+        "retained_principal_P_slots": 2691,
+        "bonus_fiction": {
+          "id": "MAIN14-BONUS-INNOCENT-SEEDLING",
+          "title": "少女の苗は無邪気に嗤う",
+          "component_id": "MAIN-14-U023",
+          "native_member": "OEBPS/Text/part0021.xhtml",
+          "paragraph_slots": 57,
+          "narrator": "Kazuma first-person at Megumin's village home; exact retained-subchapter placement unspecified",
+          "authority": "Actual care, finger grasp, declared adoption/succession, invitation/departure, private rude speech/tongue click, reported site inquiry, stopped disposal, mistaken developmental/fatigue accounts, returned water, untagged naming/biology remarks and child food appraisal/fear. No completed adoption/office/name, burning, transplant, injury, eating, clinical referral, settled innate morality or universal developmental law."
+        },
+        "nonbonus_text_slots_P": 72,
+        "author_afterword_P_slots": 22,
+        "other_wrapper_credit_slots_P": 50,
+        "image_only_narrative_components": [],
+        "image_only_compositional_welcome": null,
+        "excluded_uncoded_seal_utc": "2026-10-19T18:40:15.389637+00:00",
+        "excluded_uncoded_seal_sha256": "8a74e0eaa1b438a665398333247bfaa029a5c09b29a08c1464e72ad0c8dbcdae",
+        "formal_counts": [
+          17,
+          41,
+          31,
+          12,
+          44
+        ],
+        "party_comparisons": 8,
+        "typed_constraints_not_behavioral_scores": 4,
+        "Iris_SI_C01_no_opportunity_comparisons": 7,
+        "Yunyun_SY_C01_no_eligible_opportunity_comparisons": 7,
+        "Yunyun_new_direct_bonus_choices_represented": true,
+        "Yunyun_has_no_new_bonus_choice": false,
+        "Yunyun_full_eligible_scope_cases": 0,
+        "original_SI_SY_null_fields_preserved": 28,
+        "historical_Yunyun_cohort_gate_preserved": {
+          "actual_source_commit": "906a29b4c986de8035b2511ed19dbf3e7c3e0676",
+          "canonical_gate_sha256": "02bf090e2f30b8f01abb66a7fd4de5c4ce8a8ca219e7b4e25d703392a831af43",
+          "historical_gate_not_current_intervening_cohort": true
+        },
+        "reading_path": "10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V14_EXCLUDED_DEEP_READING.md",
+        "component_register": "10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V14_EXCLUDED_COMPONENT_REGISTER.json",
+        "receiving_record": "10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V14_EXCLUDED_RECEIVING_AND_PROVENANCE.json",
+        "current_qualifications": "10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V14_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json",
+        "supplied_colophon_and_prior_bibliography": "Electronic issue2018-07-01; print-basis first issue2018-07-01;copyright2018. The separate bonus occurs around the same village-home pot before later reported garden planting; exact retained-subchapter placement is unspecified.",
+        "preceding_main_component_gate": {
+          "source_id": "MAIN-13",
+          "actual_source_commit": "6c12a8013ec256bb998acdda2e15970aae5fea88",
+          "gate_sha256": "9728829d59891b632390b3236e8f49904fc805aaca56891c685c4fd9ac36f926",
+          "reload_sha256": "43d07cf4020126f874a009a5d8749883c3ce3bcc11c71bcc2d2ebdab5d50c0d6",
+          "schema": "KONOSUBA_MAIN13EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE_V1"
+        },
+        "historical_Iris_cohort_gate_preserved": {
+          "actual_source_commit": "bc9b67dc37212868b16e8b6eed1a39f07b258dd0",
+          "historical_gate_not_current_intervening_cohort": true
+        },
+        "initial_excluded_component_admission_snapshot": {
+          "status": "SEPARATELY_ADMITTED_MAIN_EXCLUDED_COMPONENT_SOURCE_FIRST_READING_ACTIVE_NOT_ACCEPTED",
+          "admission_utc": "2026-10-19T18:33:50.576010+00:00",
+          "native_sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+          "native_admission_sha256": "66516800b5b49a768d316ac684b65643c51cbbd063c52363dbe501ba061e9c73",
+          "preceding_full_gate_source": "6c12a8013ec256bb998acdda2e15970aae5fea88",
+          "preceding_fresh_reload_sha256": "43d07cf4020126f874a009a5d8749883c3ce3bcc11c71bcc2d2ebdab5d50c0d6",
+          "pre_body_context_seal_sha256": "9d101dee5231314b36212b8ec8e5b69696cab6c9d90e32b90e8a584798702af0",
+          "retained_accepted_principal_members": 8,
+          "new_principal_reading_credit": 0,
+          "new_excluded_text_resources": 18,
+          "native_images_to_inspect": 29,
+          "new_text_or_image_reading_credit_at_admission": 0,
+          "formal_outcomes_assigned": false,
+          "remaining": "Actual excluded-resource/ruby/residual/image reading, bespoke uncoded seal, individual analysis, qualified comparisons, ten-ledger dispositions, receiving and publication. Original principal acceptance retained.",
+          "prior_pre_admission_snapshot": {}
+        }
+      }
     },
     {
       "source_id": "MAIN-15",
@@ -14865,7 +14961,7 @@
       "admission": "PRINCIPAL_MAIN_PROSE_ADMITTED",
       "disposition": "PRINCIPAL_MAIN_NARRATIVE_READ_COMPLETE_AND_ANALYZED; OTHER_EPUB_COMPONENTS_OPEN",
       "expanded_stage_C": {
-        "status": "MAIN_EXCLUDED_COMPONENT_ANALYSIS_ACCEPTED_WITH_EXACT_RETAINED_PRINCIPAL_AUTHORITY_CONTAINING_PUBLICATION_PENDING",
+        "status": "MAIN_EXCLUDED_COMPONENT_ANALYSIS_ACCEPTED_PUBLISHED_FULL_GATE_CLOSED_WITH_EXACT_RETAINED_PRINCIPAL",
         "admission_utc": "2026-10-19T17:36:22.057597+00:00",
         "native_sha256": "20c39c98d0d7568f4b66c612b6fba6771566b97b32114c087a4c447ac5dc676b",
         "native_admission_sha256": "c73e8f565376cba08a18ae898d737b8591b48a886cb9c4a9cc67de93a713b4d0",
@@ -14878,7 +14974,7 @@
         "native_images_to_inspect": 28,
         "new_text_or_image_reading_credit_at_admission": 0,
         "formal_outcomes_assigned": false,
-        "remaining": "Complete exact candidate review/preflight, ordinary publication, all-tree/changed-stream readback, full source audit, completed housekeeping, final actual-source audit/status and fresh authority reload before MAIN14 excluded admission. Ordinarily reconcile then-current main before another push. Remaining sources, full individual secondary census/earned artifacts, expanded synthesis/versioned principal-party-transfer revisions, curation/integration and release continue.",
+        "remaining": "Declared supplied-edition scope and exact publication sequence closed. Other source programs, syntheses, versioned models, secondary artifacts, curation and final release continue.",
         "prior_pre_admission_snapshot": {},
         "accepted_utc": "2026-10-19T18:16:36.685091+00:00",
         "actual_new_excluded_P_slots": 129,
@@ -14952,6 +15048,12 @@
           "formal_outcomes_assigned": false,
           "remaining": "Actual excluded-resource/ruby/residual/image reading, bespoke uncoded seal, individual analysis, qualified comparisons, ten-ledger dispositions, receiving and publication. Original principal acceptance retained.",
           "prior_pre_admission_snapshot": {}
+        },
+        "authorship_publication_state": "MAIN_EXCLUDED_COMPONENT_ANALYSIS_ACCEPTED_WITH_EXACT_RETAINED_PRINCIPAL_AUTHORITY_CONTAINING_PUBLICATION_PENDING",
+        "publication_gate": {
+          "source_commit": "6c12a8013ec256bb998acdda2e15970aae5fea88",
+          "closed_utc": "2026-10-19T18:33:01.290323+00:00",
+          "receipt": "09 Audits and Manifests/KONOSUBA_MAIN13EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json"
         }
       }
     },
@@ -14964,7 +15066,97 @@
         "embedded_bonus_fiction"
       ],
       "admission": "PRINCIPAL_MAIN_PROSE_ADMITTED",
-      "disposition": "PRINCIPAL_MAIN_NARRATIVE_READ_COMPLETE_AND_ANALYZED; OTHER_EPUB_COMPONENTS_OPEN"
+      "disposition": "PRINCIPAL_MAIN_NARRATIVE_READ_COMPLETE_AND_ANALYZED; OTHER_EPUB_COMPONENTS_OPEN",
+      "expanded_stage_C": {
+        "status": "MAIN_EXCLUDED_COMPONENT_ANALYSIS_ACCEPTED_WITH_EXACT_RETAINED_PRINCIPAL_AUTHORITY_CONTAINING_PUBLICATION_PENDING",
+        "admission_utc": "2026-10-19T18:33:50.576010+00:00",
+        "native_sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+        "native_admission_sha256": "66516800b5b49a768d316ac684b65643c51cbbd063c52363dbe501ba061e9c73",
+        "preceding_full_gate_source": "6c12a8013ec256bb998acdda2e15970aae5fea88",
+        "preceding_fresh_reload_sha256": "43d07cf4020126f874a009a5d8749883c3ce3bcc11c71bcc2d2ebdab5d50c0d6",
+        "pre_body_context_seal_sha256": "9d101dee5231314b36212b8ec8e5b69696cab6c9d90e32b90e8a584798702af0",
+        "retained_accepted_principal_members": 8,
+        "new_principal_reading_credit": 0,
+        "new_excluded_text_resources": 18,
+        "native_images_to_inspect": 29,
+        "new_text_or_image_reading_credit_at_admission": 0,
+        "formal_outcomes_assigned": false,
+        "remaining": "Complete exact candidate review/preflight, ordinary publication, all-tree/changed-stream readback, full source audit, completed housekeeping, final actual-source audit/status and fresh authority reload before MAIN15 excluded admission. Ordinarily reconcile then-current main before another push. MAIN15-17, full individual secondary census/earned artifacts, expanded synthesis/versioned principal-party-transfer revisions, curation/integration and release continue.",
+        "prior_pre_admission_snapshot": {},
+        "accepted_utc": "2026-10-19T19:19:44.536714+00:00",
+        "actual_new_excluded_P_slots": 129,
+        "all_native_images_actually_viewed": 29,
+        "retained_principal_P_slots": 2691,
+        "bonus_fiction": {
+          "id": "MAIN14-BONUS-INNOCENT-SEEDLING",
+          "title": "少女の苗は無邪気に嗤う",
+          "component_id": "MAIN-14-U023",
+          "native_member": "OEBPS/Text/part0021.xhtml",
+          "paragraph_slots": 57,
+          "narrator": "Kazuma first-person at Megumin's village home; exact retained-subchapter placement unspecified",
+          "authority": "Actual care, finger grasp, declared adoption/succession, invitation/departure, private rude speech/tongue click, reported site inquiry, stopped disposal, mistaken developmental/fatigue accounts, returned water, untagged naming/biology remarks and child food appraisal/fear. No completed adoption/office/name, burning, transplant, injury, eating, clinical referral, settled innate morality or universal developmental law."
+        },
+        "nonbonus_text_slots_P": 72,
+        "author_afterword_P_slots": 22,
+        "other_wrapper_credit_slots_P": 50,
+        "image_only_narrative_components": [],
+        "image_only_compositional_welcome": null,
+        "excluded_uncoded_seal_utc": "2026-10-19T18:40:15.389637+00:00",
+        "excluded_uncoded_seal_sha256": "8a74e0eaa1b438a665398333247bfaa029a5c09b29a08c1464e72ad0c8dbcdae",
+        "formal_counts": [
+          17,
+          41,
+          31,
+          12,
+          44
+        ],
+        "party_comparisons": 8,
+        "typed_constraints_not_behavioral_scores": 4,
+        "Iris_SI_C01_no_opportunity_comparisons": 7,
+        "Yunyun_SY_C01_no_eligible_opportunity_comparisons": 7,
+        "Yunyun_new_direct_bonus_choices_represented": true,
+        "Yunyun_has_no_new_bonus_choice": false,
+        "Yunyun_full_eligible_scope_cases": 0,
+        "original_SI_SY_null_fields_preserved": 28,
+        "historical_Yunyun_cohort_gate_preserved": {
+          "actual_source_commit": "906a29b4c986de8035b2511ed19dbf3e7c3e0676",
+          "canonical_gate_sha256": "02bf090e2f30b8f01abb66a7fd4de5c4ce8a8ca219e7b4e25d703392a831af43",
+          "historical_gate_not_current_intervening_cohort": true
+        },
+        "reading_path": "10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V14_EXCLUDED_DEEP_READING.md",
+        "component_register": "10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V14_EXCLUDED_COMPONENT_REGISTER.json",
+        "receiving_record": "10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V14_EXCLUDED_RECEIVING_AND_PROVENANCE.json",
+        "current_qualifications": "10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V14_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json",
+        "supplied_colophon_and_prior_bibliography": "Electronic issue2018-07-01; print-basis first issue2018-07-01;copyright2018. The separate bonus occurs around the same village-home pot before later reported garden planting; exact retained-subchapter placement is unspecified.",
+        "preceding_main_component_gate": {
+          "source_id": "MAIN-13",
+          "actual_source_commit": "6c12a8013ec256bb998acdda2e15970aae5fea88",
+          "gate_sha256": "9728829d59891b632390b3236e8f49904fc805aaca56891c685c4fd9ac36f926",
+          "reload_sha256": "43d07cf4020126f874a009a5d8749883c3ce3bcc11c71bcc2d2ebdab5d50c0d6",
+          "schema": "KONOSUBA_MAIN13EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE_V1"
+        },
+        "historical_Iris_cohort_gate_preserved": {
+          "actual_source_commit": "bc9b67dc37212868b16e8b6eed1a39f07b258dd0",
+          "historical_gate_not_current_intervening_cohort": true
+        },
+        "initial_excluded_component_admission_snapshot": {
+          "status": "SEPARATELY_ADMITTED_MAIN_EXCLUDED_COMPONENT_SOURCE_FIRST_READING_ACTIVE_NOT_ACCEPTED",
+          "admission_utc": "2026-10-19T18:33:50.576010+00:00",
+          "native_sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+          "native_admission_sha256": "66516800b5b49a768d316ac684b65643c51cbbd063c52363dbe501ba061e9c73",
+          "preceding_full_gate_source": "6c12a8013ec256bb998acdda2e15970aae5fea88",
+          "preceding_fresh_reload_sha256": "43d07cf4020126f874a009a5d8749883c3ce3bcc11c71bcc2d2ebdab5d50c0d6",
+          "pre_body_context_seal_sha256": "9d101dee5231314b36212b8ec8e5b69696cab6c9d90e32b90e8a584798702af0",
+          "retained_accepted_principal_members": 8,
+          "new_principal_reading_credit": 0,
+          "new_excluded_text_resources": 18,
+          "native_images_to_inspect": 29,
+          "new_text_or_image_reading_credit_at_admission": 0,
+          "formal_outcomes_assigned": false,
+          "remaining": "Actual excluded-resource/ruby/residual/image reading, bespoke uncoded seal, individual analysis, qualified comparisons, ten-ledger dispositions, receiving and publication. Original principal acceptance retained.",
+          "prior_pre_admission_snapshot": {}
+        }
+      }
     },
     {
       "source_id": "MAIN-15",

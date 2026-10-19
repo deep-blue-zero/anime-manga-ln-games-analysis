@@ -1660,3 +1660,37 @@ The [Yunyun index](KONOSUBA_YUNYUN_EVIDENCE_INDEX.md) routes18families with four
 | MAIN-13-U022 | text/part0020.html / 5 | ILLUSTRATION_AND_DESIGN_CREDITS;newprincipalcredit0 |
 | MAIN-13-U023 | text/part0021.html / 16 | COLOPHON_AND_IMPRINT;newprincipalcredit0 |
 | MAIN-13-U024 | text/part0022.html / 0 | BOOKWALKER_RETAILER_WRAPPER;newprincipalcredit0 |
+
+
+## MAIN-14 excluded-component accepted routes — 2026-10-19T19:19:44.536714+00:00
+
+[Register](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V14_EXCLUDED_COMPONENT_REGISTER.json), [reading](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V14_EXCLUDED_DEEP_READING.md), [voice](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V14_EXCLUDED_VOICE_REGISTER.md), [comparisons](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V14_EXCLUDED_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [qualifications](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V14_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) govern new/inherited boundaries. All18new textual resources129P and29unique native images actually received and uncoded-sealed. Eight accepted principal members2691P remain exact with zero new principal-pass credit. New57P electronic bonus『少女の苗は無邪気に嗤う』,22P creator afterword and50other wrapper/contents/heading/credit slots. Cover/profile/montage/banners/decorative vacation art, Nerimaki's imagined contributor comic and NEXT15 keep separate planes. All2691retained principal base-textP across8complete units were actually re-received for current image/identity/agency/chronology precision; no fresh retained ruby/residual, whole-EPUB or independent validation claim. Counts are not a global narrative denominator. Selected17premises/41writtenfragments;31principal+8party individualcomparisons/fourtypeddiagnostics/seven Iris NT and seven Yunyun unscored rows including two explicit near cases. 39explicit informed comparisons:5narrowA01-D01-D06-E05-E07compatibilities/2partialK07-E01/32full-guardNT;4typeddiagnostics;7IrisNT/7Yunyununscored including2explicit nearcases preserve original fields. Yunyun makes actual new bonus choices;0full SY guards are established. Retained context is not a fresh trial; no blind score, accuracy or confidence update. 12appends across tenledgers/44qualifications. Supplemental19/mixed5 andMAIN01-MAIN13fullgates plusIris/Yunyuncohorts remainclosed; MAIN-14analysis accepted/publicationpending;other3mainexcluded programs remain;globalcomponentpercentage null.
+
+| Unit | Native member / slots | Disposition |
+|---|---|---|
+| MAIN-14-U001 | OEBPS/Text/cover_page.xhtml / 0 | COVER_WRAPPER_YUNYUN_MEGUMIN_KAZUMA;newprincipalcredit0 |
+| MAIN-14-U002 | OEBPS/Text/part0000.xhtml / 0 | CROPPED_COVER_FRONTMATTER;newprincipalcredit0 |
+| MAIN-14-U003 | OEBPS/Text/part0001.xhtml / 0 | COLOR_PARTY_YUNYUN_MONTAGE_RETAINED_QUOTES;newprincipalcredit0 |
+| MAIN-14-U004 | OEBPS/Text/part0002.xhtml / 0 | RASTER_CONTENTS_UNJOINED_MAID_CHIBI;newprincipalcredit0 |
+| MAIN-14-U005 | OEBPS/Text/part0003.xhtml / 0 | DARKNESS_SUMMER_VACATION_DECORATIVE_ART;newprincipalcredit0 |
+| MAIN-14-U006 | OEBPS/Text/part0004.xhtml / 0 | MEGUMIN_SUMMER_VACATION_DECORATIVE_ART;newprincipalcredit0 |
+| MAIN-14-U007 | OEBPS/Text/part0005.xhtml / 6 | TITLE_IMPRINT;newprincipalcredit0 |
+| MAIN-14-U008 | OEBPS/Text/part0006.xhtml / 7 | RIGHTS_AND_ELECTRONIC_NOTICE;newprincipalcredit0 |
+| MAIN-14-U009 | OEBPS/Text/part0007.xhtml / 13 | TEXTUAL_CONTENTS;newprincipalcredit0 |
+| MAIN-14-U010 | OEBPS/Text/part0008.xhtml / 0 | RASTER_EDITORIAL_CHARACTER_PROFILE;newprincipalcredit0 |
+| MAIN-14-U011 | OEBPS/Text/part0009.xhtml / 15 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_PASS_CREDIT;newprincipalcredit0 |
+| MAIN-14-U012 | OEBPS/Text/part0010.xhtml / 418 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_PASS_CREDIT;newprincipalcredit0 |
+| MAIN-14-U013 | OEBPS/Text/part0011.xhtml / 573 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_PASS_CREDIT;newprincipalcredit0 |
+| MAIN-14-U014 | OEBPS/Text/part0012.xhtml / 404 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_PASS_CREDIT;newprincipalcredit0 |
+| MAIN-14-U015 | OEBPS/Text/part0013.xhtml / 85 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_PASS_CREDIT;newprincipalcredit0 |
+| MAIN-14-U016 | OEBPS/Text/part0014.xhtml / 681 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_PASS_CREDIT;newprincipalcredit0 |
+| MAIN-14-U017 | OEBPS/Text/part0015.xhtml / 384 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_PASS_CREDIT;newprincipalcredit0 |
+| MAIN-14-U018 | OEBPS/Text/part0016.xhtml / 131 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_PASS_CREDIT;newprincipalcredit0 |
+| MAIN-14-U019 | OEBPS/Text/part0017.xhtml / 22 | CREATOR_AFTERWORD_NOT_NEW_FICTION;newprincipalcredit0 |
+| MAIN-14-U020 | OEBPS/Text/part0018.xhtml / 0 | ILLUSTRATOR_NERIMAKI_IMAGINED_MEGUMIN_YUNYUN_COMIC;newprincipalcredit0 |
+| MAIN-14-U021 | OEBPS/Text/part0019.xhtml / 0 | FUTURE_VOLUME15_PROMOTIONAL_STAGED_SCRIPT;newprincipalcredit0 |
+| MAIN-14-U022 | OEBPS/Text/part0020.xhtml / 4 | SEPARATE_ELECTRONIC_BONUS_HEADING;newprincipalcredit0 |
+| MAIN-14-U023 | OEBPS/Text/part0021.xhtml / 57 | SEPARATE_ELECTRONIC_BONUS_FICTION;newprincipalcredit0 |
+| MAIN-14-U024 | OEBPS/Text/part0022.xhtml / 5 | ILLUSTRATION_AND_DESIGN_CREDITS;newprincipalcredit0 |
+| MAIN-14-U025 | OEBPS/Text/part0023.xhtml / 15 | COLOPHON_AND_IMPRINT;newprincipalcredit0 |
+| MAIN-14-U026 | OEBPS/Text/part0024.xhtml / 0 | BOOKWALKER_RETAILER_WRAPPER;newprincipalcredit0 |
