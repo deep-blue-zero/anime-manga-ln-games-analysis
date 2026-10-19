@@ -8,6 +8,8 @@
   "content_global_paths": [
     "characters/registry.jsonl",
     "CHARACTER_ANALYSIS_INDEX.md",
+    "characters/reconstruction_capabilities.jsonl",
+    "characters/CHARACTER_RECONSTRUCTION_INDEX.md",
     "series/registry.json",
     "studies/registry.json",
     "series/README.md",
@@ -15,7 +17,7 @@
     "governance/MANGA_ANIME_CORPUS_INDEX.md"
   ],
   "mandatory_groups": ["live_corpus", "smoke"],
-  "full_groups": ["live_corpus", "regression", "synthetic_git", "dormant_reconstruction"],
+  "full_groups": ["live_corpus", "regression", "synthetic_git", "reconstruction_capability"],
   "enablement_requires": [
     "reviewed live-assertion and dependency separation",
     "trusted successful baseline verification",

@@ -5,6 +5,7 @@ on:
     branches:
       - main
       - character-registry
+      - character-reconstruction
       - "codex/**"
       - "chatgpt/**"
       - "claude/**"

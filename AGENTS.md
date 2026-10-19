@@ -12,7 +12,7 @@ Analytical accuracy and fidelity to source evidence are the substantive objectiv
 
 ## Every commit and push
 
-Before editing, staging, committing or pushing, acquire the applicable sections of `governance/policies/CHANGE_INTEGRATION_CHECKLIST.md` through its Before editing section. Classify the change with `governance/repository-controls/change-obligations.json`. Stable analytical branches use the checklist's author preflight and may await housekeeping for five deterministic routing outputs; this is not integration readiness. Other changes use `python tools/prepare_commit.py --base origin/main --check` against the final staged index. Integration always requires the fully synchronized final commit and its successful `Repository integration audit` status. Character discovery may lag as expressly permitted by its maintenance policy.
+Before editing, staging, committing or pushing, acquire the applicable sections of `governance/policies/CHANGE_INTEGRATION_CHECKLIST.md` through its Before editing section. Classify the change with `governance/repository-controls/change-obligations.json`. Stable analytical branches use the checklist's author preflight and may await housekeeping for five deterministic routing outputs; this is not integration readiness. Other changes use `python tools/prepare_commit.py --base origin/main --check` against the final staged index. Integration always requires the fully synchronized final commit and its successful `Repository integration audit` status. Character discovery may lag as expressly permitted by its maintenance policy, and a reconstruction assessment may become effectively stale until the evaluator reconciles it; neither blocks other publication.
 
 Stage exact paths only: do not use `git add .` or wildcard staging. Push without force and never rewrite published history.
 
@@ -46,6 +46,10 @@ Use a narrowly named temporary branch under an audited agent prefix: `codex/<pur
 ### Character curation
 
 The owner-authorized cloud curation agent is the sole routine writer of `characters/registry.jsonl` and generated `CHARACTER_ANALYSIS_INDEX.md`; follow `governance/policies/CHARACTER_DISCOVERY_MAINTENANCE.md`. Its recurring branch is exactly `character-registry` and may remain active. Housekeeping never writes either character file or applies character upserts.
+
+### Character reconstruction evaluation
+
+The owner-authorized reconstruction evaluator is the sole routine writer of `characters/reconstruction_capabilities.jsonl` and generated `characters/CHARACTER_RECONSTRUCTION_INDEX.md`; follow `governance/policies/CHARACTER_RECONSTRUCTION_MAINTENANCE.md`. Its recurring branch is exactly `character-reconstruction` and may remain active. It never writes discovery files or analysis, and neither the curation agent nor housekeeping writes its two files. A recorded capability status is not present readiness; verify currentness with `tools/reconstruction_status.py`.
 
 ## Never, without a separately reviewed owner amendment
 

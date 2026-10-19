@@ -8,7 +8,7 @@ The recurring task runs in a cloud environment with Git, Python, the hash-locked
 
 GitHub Actions remains responsible for independent read-only validation. Global index housekeeping owns only the five series/study routing outputs in `AUTOMATED_GLOBAL_INDEX_MAINTENANCE.md`; neither that workflow nor its synchronizer may read character proposals as replacement inputs, rewrite the character registry, or generate the character index.
 
-The two-file allowlist applies to the agent's authored delta. It grants no authority to modify analytical prose, evidence or authority metadata, schemas, tools, workflows, other registries, or Drive files. Preserve unrelated character records, including study-based entries. Deletion, identity transfer between series, and reconstruction assessment remain outside routine curation authority.
+The two-file allowlist applies to the agent's authored delta. It grants no authority to modify analytical prose, evidence or authority metadata, schemas, tools, workflows, other registries, or Drive files. Preserve unrelated character records, including study-based entries. Deletion, identity transfer between series, and reconstruction assessment remain outside routine curation authority. The curation agent never writes `characters/reconstruction_capabilities.jsonl` or `characters/CHARACTER_RECONSTRUCTION_INDEX.md`.
 
 ## Daily discovery on main
 
@@ -47,6 +47,16 @@ For this bounded on-demand mode:
 Preserve any existing proposal files and Git history as provenance. The agent may read them as optional leads, but must independently verify their assertions against eligible analysis. Their disagreement with the global registry is not a synchronization obligation. Do not create or maintain these files merely to drive character enrollment.
 
 Series/study routing descriptors retain their existing deterministic housekeeping role.
+
+## Reconstruction handoff
+
+The reconstruction evaluator under `CHARACTER_RECONSTRUCTION_MAINTENANCE.md` derives its work from integrated Git state: newly included subjects, material changes to discovery rows, reviewed evidence, paths, anchors, coverage, and authority or supersession state. Discovery does not notify it, and neither agent reads the other's private checkpoint.
+
+Discovery revisions, including identity, scope, evidence, coverage, and curation changes, never require a synchronous capability-registry change. An affected assessment becomes effectively stale and the evaluator reconciles it; discovery integration is not blocked by it. Curation remains bound by the same evidence and identity rules regardless of whether a subject has been assessed.
+
+When an existing curation PR contains material reconstruction-relevant changes, its description may include a section titled `Reconstruction referrals (advisory, nonauthoritative)` listing, per referral, the exact analysis subject, the reviewed evidence references, the relevant basis commit, the material analytical change, apparent limits or gaps, and why a reconstruction review may be useful. Referrals are prioritization hints only. Do not open a PR solely to transmit referrals; the two-file authored-diff allowance is unchanged.
+
+The evaluator may report unenrolled substantial analysis under `Discovery candidates (advisory, nonauthoritative)` in its own PR descriptions. During review, read such sections in `character-reconstruction` PRs updated since the last checkpoint as optional leads, and independently verify them against eligible analysis before any enrollment.
 
 ## Coverage, concurrency, and reporting
 
