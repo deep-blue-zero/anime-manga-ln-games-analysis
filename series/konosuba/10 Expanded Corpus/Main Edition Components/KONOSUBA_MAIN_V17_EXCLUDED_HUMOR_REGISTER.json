@@ -1,0 +1,189 @@
+{
+  "schema": "KONOSUBA_MAIN17_EXCLUDED_SELECTED_HUMOR_V1",
+  "source_id": "MAIN-17",
+  "records": [
+    {
+      "id": "M17EX-H01",
+      "boundary": {
+        "component_id": "MAIN-17-U016",
+        "start_P": 8,
+        "end_P": 12
+      },
+      "whole_selected_premise": "The supposedly beginner town contains high-level stay-at-homes, strange workers, a formidable chicken/cat and a defended household while the main party is elsewhere.",
+      "primary_L": "L1",
+      "L_rationale": "The contrast rests on the compact 駆け出し description and a growing list of incongruous residents.",
+      "primary_H": "H1",
+      "H_rationale": "These are literal attributed creator-synopsis statements with explicit modal verbs; fantasy species or strength alone is not nonliteral staging.",
+      "source_plane": "Creator afterword's parallel-campaign sketch.",
+      "eligibility_and_limits": "P9でしょう/P10かもしれません/P12でしょう retain their force. No fully dramatized fight, direct participant knowledge or new validation trial is supplied.",
+      "native_member": "text/part0014.html",
+      "native_member_sha256": "0e6c75df4820ebbb68b8b42bb6e6348d17c9d41e2558c13c752f67b942bbe846",
+      "formal_assignment_after_seal_utc": "2026-10-19T21:46:52.526476+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M17EX-H02",
+      "boundary": {
+        "component_id": "MAIN-17-U016",
+        "start_P": 13,
+        "end_P": 16
+      },
+      "whole_selected_premise": "The author's parallel capital battle equips Iris with the strongest armor and sword and gives the younger sister a spectacular campaign beside the supposed central hero.",
+      "primary_L": "L1",
+      "L_rationale": "Repeated 最強 and the shift toward sibling devotion foreground competitive heroic framing.",
+      "primary_H": "H2",
+      "H_rationale": "A real established capacity/battle background is amplified through a maximal heroic synopsis; the modal duel and escape are not certified direct observations.",
+      "source_plane": "Creator synopsis, with prior mediated main-world information separately retained.",
+      "eligibility_and_limits": "Do not manufacture actual armor consent, a completed personal-reunion choice, exact warning uptake or a SI-C01 opportunity; the scope explicitly excludes creator wishes.",
+      "native_member": "text/part0014.html",
+      "native_member_sha256": "0e6c75df4820ebbb68b8b42bb6e6348d17c9d41e2558c13c752f67b942bbe846",
+      "formal_assignment_after_seal_utc": "2026-10-19T21:46:52.526476+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M17EX-H03",
+      "boundary": {
+        "component_id": "MAIN-17-U016",
+        "start_P": 19,
+        "end_P": 22
+      },
+      "whole_selected_premise": "Ending the main quest also leaves researchers unable to recover the Demon King's name-origin and war motives, and leaves his daughter's future troubles outside the main story.",
+      "primary_L": "L2",
+      "L_rationale": "Author-to-reader closure and a scholarly-loss aside reframe the expected total explanation of a final boss.",
+      "primary_H": "H1",
+      "H_rationale": "The creator's actual statement and the retained interrupted explanation are literal within their separate planes; no new historical answer is invented.",
+      "source_plane": "Creator explanation of ending and unresolved threads.",
+      "eligibility_and_limits": "Final P472–480 shows interruption rather than a revealed answer. Future daughter hardships are a prospect, not a newly received whole life.",
+      "native_member": "text/part0014.html",
+      "native_member_sha256": "0e6c75df4820ebbb68b8b42bb6e6348d17c9d41e2558c13c752f67b942bbe846",
+      "formal_assignment_after_seal_utc": "2026-10-19T21:46:52.526476+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M17EX-H04",
+      "boundary": {
+        "component_id": "MAIN-17-U016",
+        "start_P": 23,
+        "end_P": 27
+      },
+      "whole_selected_premise": "Kazuma expects a grand national reward while not knowing his sister is credited with greater achievements; several future threads accumulate before the author gives him a rest.",
+      "primary_L": "L2",
+      "L_rationale": "Selective narrator-like withholding, comparative achievement and reader-facing postponement produce the irony.",
+      "primary_H": "H2",
+      "H_rationale": "Underlying achievements and expectations are real source claims, but the status contrast is amplified; no award ceremony or future agreement is enacted.",
+      "source_plane": "Creator future-thread and character-state commentary.",
+      "eligibility_and_limits": "No performed ceremony, marriage or intimate promise; information differs between author, reader and Kazuma.",
+      "native_member": "text/part0014.html",
+      "native_member_sha256": "0e6c75df4820ebbb68b8b42bb6e6348d17c9d41e2558c13c752f67b942bbe846",
+      "formal_assignment_after_seal_utc": "2026-10-19T21:46:52.526476+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M17EX-H05",
+      "boundary": {
+        "component_id": "MAIN-17-U004",
+        "image_id": "MAIN-17-IMG004"
+      },
+      "whole_selected_premise": "Aqua's intense recognition and attempted reunion embrace meet Kazuma's automatic evasion and a wall collision.",
+      "primary_L": "L2",
+      "L_rationale": "Repeated カズマさん and the short recognition question mark an abrupt shift from relief to deflection.",
+      "primary_H": "H2",
+      "H_rationale": "Tearful reunion and automatic dodge are actual retained acts; the expressive magnitude is amplified without making fear or impact unreal.",
+      "source_plane": "Color composition of retained C1 P298–305.",
+      "eligibility_and_limits": "Caption current precision is アクアか, not original uncoded が. The healing and later dispute are subsequent text phases; no extra reunion from the montage.",
+      "native_member": "text/part0002.html",
+      "native_member_sha256": "66c5526832a833690440b8c34ad0ad638c8bd5fac0e79821c749d451f6741cd3",
+      "native_image_sha256": "5549b85fe47b1652da60f45bd6e5e596b6a2cd25344ba93b2c95585a0c06140e",
+      "parent_principal_authority_retained": false,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T21:46:52.526476+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M17EX-H06",
+      "boundary": {
+        "component_id": "MAIN-17-U003",
+        "image_id": "MAIN-17-IMG003"
+      },
+      "whole_selected_premise": "Repeated Explosion delights Kazuma and Megumin while Darkness sees both enormous cost and a prospective dangerous-person classification.",
+      "primary_L": "L2",
+      "L_rationale": "Cheering, grand praise and institutional alarm collide in adjacent named captions.",
+      "primary_H": "H1",
+      "H_rationale": "Finite stone-powered casts and the three attributed reactions are literal; the fantasy spell is not automatically H4 or a limitless-power proof.",
+      "source_plane": "Color montage of retained C1 P11/12/45 and the surrounding sequence.",
+      "eligibility_and_limits": "Current native precision preserves resource depletion, bodily overload and objections. This is another representation of a known event, not fresh repeated trials.",
+      "native_member": "text/part0001.html",
+      "native_member_sha256": "47dbdf6c85885a01d0ea3f594d5e01a5eefc935cc9c803a6094eaa0a80948a2f",
+      "native_image_sha256": "f9576b2922a7cbaec504a456c662fc449beaa7d1ef9ccf2742bef3cd015584e3",
+      "parent_principal_authority_retained": false,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T21:46:52.526476+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M17EX-H07",
+      "boundary": {
+        "component_id": "MAIN-17-U010",
+        "image_id": "MAIN-17-IMG008"
+      },
+      "whole_selected_premise": "Editorial capsules compress the party into a high-luck NEET, uncontrollable goddess, defensive noble and Explosion-only genius while the narrative supplies more conditional behavior.",
+      "primary_L": "L1",
+      "L_rationale": "Short absolute-sounding descriptions sharpen recognizable roles at the expense of scope.",
+      "primary_H": "H2",
+      "H_rationale": "The labels amplify real patterns; no one-line caption becomes a complete literal rule or erases counterexamples.",
+      "source_plane": "Raster editorial character profiles.",
+      "eligibility_and_limits": "No directly represented new choice. Actual restraint, broader interests, acquired skills and specific duties remain constraints.",
+      "native_member": "text/part0008.html",
+      "native_member_sha256": "d29c57511eadd13df7080c2d94724fdf35923874ffecb10078e02fcd39733021",
+      "native_image_sha256": "2e6980621256cf18069a5f08426c57864cc35264f6483f13403d513bb93ae5da",
+      "parent_principal_authority_retained": false,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T21:46:52.526476+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M17EX-H08",
+      "boundary": {
+        "component_id": "MAIN-17-U017",
+        "image_id": "MAIN-17-IMG024"
+      },
+      "whole_selected_premise": "The jacket promotes a powerless lone hero through Eris's preferred story and then lets Kazuma ask about the bounty.",
+      "primary_L": "L2",
+      "L_rationale": "Heroic aesthetic evaluation shifts into an ordinary money question inside promotional framing.",
+      "primary_H": "H2",
+      "H_rationale": "Established achievement is amplified as solitary/powerless despite the same jacket's mana-stone and party account; speakers' quoted acts are retained.",
+      "source_plane": "Jacket promotion quoting retained Eris C3 P355 and Kazuma C2 P575.",
+      "eligibility_and_limits": "No self-created omnipotence, pure motive or actual award payout. The two quotations do not become new speaker decisions.",
+      "native_member": "text/part0015.html",
+      "native_member_sha256": "d35f00dabdabaf65f99b03bbfeabbfed12eaac97241780f37629143c9252fcb9",
+      "native_image_sha256": "86b311e9fb2b095acd4552186280b5ae67225b0d53ba8360fe5517d06eb186bd",
+      "parent_principal_authority_retained": false,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T21:46:52.526476+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M17EX-H09",
+      "boundary": {
+        "component_id": "MAIN-17-U017",
+        "image_id": "MAIN-17-IMG024"
+      },
+      "whole_selected_premise": "A conventional professional author biography ends with a request to be serious at least for this volume.",
+      "primary_L": "L2",
+      "L_rationale": "A casual self-directed aside interrupts the institutional biographical register.",
+      "primary_H": "H1",
+      "H_rationale": "The attributed biographical aside is literally printed; it does not establish that all earlier work was unserious.",
+      "source_plane": "Historical jacket author biography.",
+      "eligibility_and_limits": "The illustrator's accompanying reader request and preferences remain a different speaker/source plane; no fictional-world skill or motive is inferred.",
+      "native_member": "text/part0015.html",
+      "native_member_sha256": "d35f00dabdabaf65f99b03bbfeabbfed12eaac97241780f37629143c9252fcb9",
+      "native_image_sha256": "86b311e9fb2b095acd4552186280b5ae67225b0d53ba8360fe5517d06eb186bd",
+      "parent_principal_authority_retained": false,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T21:46:52.526476+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    }
+  ],
+  "H_protocol": "H1 literal acts or attributed statements; H2 underlying reaction with amplified intensity; H3 only behavior contingent on a local gag, not uncertainty; H4 staged/nonliteral presentation rather than fantasy automatically. Actual and projected effects remain different.",
+  "L_protocol": "L0 structurally portable; L1 phrasing-sensitive; L2 register/pragmatic stance; L3 central Japanese-form dependence. Whole effects and named nested forms are distinct; selected overlap is not a denominator."
+}
