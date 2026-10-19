@@ -1203,3 +1203,12 @@ The [reading/index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_
 | Readiness | Original M0.13/S0.14 fit/time/UNTESTED/noncurrent,13historical attempts/18forecast records unchanged. No operational packet, held-out score, numeric accuracy or unfamiliar/cross-series/acoustic validation. |
 
 Maika's own family/autonomy motives, deliberation, concern and reciprocal vulnerability strengthen her REQUIRED individual monograph. Principal/Ami studies, full role-gap review and time-bounded reconstruction remain mandatory. Descriptive friendship evidence does not validate a universal teasing/care or information policy.
+
+
+## KSS12 historical evidence addendum — Mio's curiosity and Sendai's refusal
+
+The [KSS12 reading](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_12_DEEP_READING.md) recovers the original sealed unit; its current scene is summer-facing university peer contact at an unspecified exact date/year. Komatsu Mio has her own companionship wishes and a curiosity she admits would survive cooperation. Sendai Hazuki gives spoken reassurance while continuing to decline outings and naming a report as her reason for leaving. Smile, reassurance and refusal coexist. Neither Mio's boyfriend premise nor Sendai's literal no-boyfriend answer establishes every private attachment or the truth of a full motive explanation.
+
+Mio's explicit arm grip at native01p40 differs the unspecific interception at19. Assent, release, duration and injury are unshown; endpoint73 proposes future mixer compensation without Sendai's shown acceptance. LN05 contact-sharing permission is a bounded negotiated countercase, not standing permission for contact or access. LN09 later roommate-call knowledge and admitted cover remain at that later disclosure boundary. Miyagi is absent and unnamed in this supplement, so her own present knowledge/disposition is not directly advanced.
+
+MIO-KSS12-DEFERRED-INQUIRY-EXIT and S-KSS12-REPORT-REASON-EXIT are source-specific historical states. Adult principal exits and every earlier model state remain distinct; original M0.13/S0.14 are draft_noncurrent/UNTESTED,13historical attempts and18forecast records unchanged. This addendum supplies no new operational actor packet, held-out score, numeric accuracy, acoustic inspection or validated domain. Mio's individual monograph is now REQUIRED; no functional Mio model is certified. Principal/Maika/Ami studies, full role-gap audit and time-bounded reconstruction remain required.

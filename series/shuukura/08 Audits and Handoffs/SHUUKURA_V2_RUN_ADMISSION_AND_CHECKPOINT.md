@@ -5,13 +5,13 @@ artifact_type: execution_admission_audit
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.15.1"
+version: "1.16"
 status: active_provisional
 scope: "Verified foundation, bounded source admission, exposure limits and atomic recovery"
-source_boundary: "Frozen I1; LN01–09/fourBW/KSS01–10 closed on main; KSS11 whole committed; KSS12 source inspected but canonical transaction incomplete; owner-requested pause"
+source_boundary: "Frozen I1; LN01–09/fourBW/KSS01–12 whole transactions; KSS12 owner-directed recovery; next OFF-JP-SS01; later supplements/web/V1 unread"
 canonical_home: series/shuukura/08 Audits and Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md
 created: "2026-10-17"
-review_status: KSS10_NAVIGATION_CORRECTION_AND_OWNER_REQUESTED_PAUSE_CHECKPOINT
+review_status: OWNER_DIRECTED_KSS12_RECOVERY_COMPLETE_ATOMIC_CANDIDATE
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -971,3 +971,23 @@ No KSS12 canonical deep reading, material longitudinal update, exit-state freeze
 Prior source95c2 and PR219 integrated main `03c2b3c1b6250a896c45eb337aad620b06786d62` have identical whole tree `2368396b199de83493f4f10f8faa353df92d3a7a`. KSS11 already retains that main in its ancestry. New current main `d5535f0681a772d11d4af337d9c41219c5890ece` is the owner-approved Ami curation PR220: exactly `characters/registry.jsonl` and `CHARACTER_ANALYSIS_INDEX.md`. An ordinary merge imports their exact approved PR/source/main bytes without editing either as routine author. Every Shuukura before-image and frozen reading/audit was checked unchanged by this import. Governance and source inventory did not change. The initial local PR-head comparison lacked its Git object; fetching the exact PR220 head supplied it, after which complete two-file equality passed before merge. No failed author or repository check was waived.
 
 This administrative publication may include the already complete KSS11 atomic commit. It does not complete KSS12, the SS18 milestone or the overall program. Source audit, housekeeping, final exact-source audit, authorized nightly integration and mandatory explicit owner-main audit must all pass before this administrative Git transaction is called closed. Until those separate receipts exist, publication/integration is pending; earlier active-run passages and KSS11-local wording remain historical checkpoint statements. Preserve the stable branch and all future frozen-I1 obligations while paused.
+
+
+## Owner-directed recovery and durable checkpoint after KSS12
+
+The owner's 2026-10-18 request to retrieve this backup and resume analysis supersedes the earlier pause. Live branch/main and governance were recovered before edits. The preserved KSS12 entering commit remains fdbdf7629be655b471bd4d3120d24c03425f302d; later administrative pause/current-state bytes and six KSS10 fragment corrections were reconciled rather than replaying stale before-images. The historical unfinished-KSS12 section above describes the pause boundary, not current completion.
+
+Transaction SHUUKURA-TX-KSS-12-20261018-A1 binds the [complete reading](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_12_DEEP_READING.md), [audit](SHUUKURA_V2_KSS_12_TRANSACTION_AUDIT.md), four synchronized ledgers1.16, source coverage and preserved draft-model addenda. Exact whole commit/tree are resolved through Git; prose alone does not advance the boundary.
+
+| Responsibility | Current recoverable state |
+| --- | --- |
+| Source/seals | Nativepart01 SHA66ccdb91425c40f7c0e6a1dff571c53bc602841adec6a5963202fa8a11c2df30;all73anchors43nonempty30blank. Original F1/F2/Q1 unchanged; Q1SHA303dfa4f5a07b3149682f5cbc07bddd1ee138d0925b0363051b2c217f2fd6719. |
+| Fresh packet | Drive1em7Uwk2RFpOPkLS5hlCBLMy3xdDxOhb1/76,341bytes/SHAa151e59071c635ba37eca95a4e22e78d82f166624b993d2e25d34a2695025006/23members;new authenticated download, all declared hashes/restored bytes/CRC PASS. |
+| Literary state | MIO-KSS12-DEFERRED-INQUIRY-EXIT;S-KSS12-REPORT-REASON-EXIT. Pre/approaching summer inferred from64, exact day/year unknown. Mio's independent motives, repeated pressure and self-complication; Sendai reassurance/refusal and stated report explanation. Report truth, arm-grip assent/release/duration and future mixer acceptance unshown. |
+| Chronology/access | LN05 practical referral and local contact-sharing permission versus LN09 later roommate-call knowledge remain separate. Miyagi absent/unnamed in current supplement; adult M/S-V09-EXIT/BW09night retained. No motive/knowledge backdating or same-original-event claim. |
+| Readiness | Mio monograph now REQUIRED. M0.13/S0.14 fit/time/UNTESTED/noncurrent,13historical attempts18forecast records unchanged; no new model, operational prediction/test, validated domain or V1 comparison. |
+| HWM/next | Whole KSS12 commit only:LN9/9;SS16/18;Kak0/431;Narō0/290;available25/458. GateOPEN/runactive/continuous_sequential;startLN01/terminalfixedI1. Next OFF-JP-SS01;mandatory supplement publication SS18/18/OFF-JP-SS02. |
+| Remainder | Two available supplements,431Kakuyomu units,290Narō correspondence obligations,51known source gaps/27bounded discovery duties, mandatory voice sources and all later reconciliation/monograph/specialist/reconstruction/V1/integrated/release duties remain required. No future-release extension. |
+| Publication | Local whole-unit checkpoint only. Earlier administrative publication and new KSS12 remote source/housekeeping/final-head/main audits require their own observed receipts. No new CI/integration success is claimed here. |
+
+The current entrypoint owns live state. The restored snapshot, source notes and Git bundle remain intact outside the working repository, and raw evidence stays outside analytical Git.
