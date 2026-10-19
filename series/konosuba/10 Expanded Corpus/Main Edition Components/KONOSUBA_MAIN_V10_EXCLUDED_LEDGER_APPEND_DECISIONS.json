@@ -1,0 +1,166 @@
+{
+  "schema": "KONOSUBA_MAIN10_EXCLUDED_TEN_LEDGER_APPEND_DECISIONS_V1",
+  "source_id": "MAIN-10",
+  "ten_current_prefix_controls": [
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "bytes": 299502,
+      "sha256": "f70d500fe13bc491576d74d883e0d87bf321cba63d395bed8cc4358ca2a33d85"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "bytes": 219464,
+      "sha256": "8d230ff06f73ba880fe0d8e39c902ae9415ade22ccf1f0edb0c83b28a4129ef2"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "bytes": 789832,
+      "sha256": "67d892ced3e961406d03197e1c2c01a4f8ddc866a59495bd167f0cc861d6aff3"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "bytes": 599988,
+      "sha256": "5f7c478d04fc3e5b1dc0b69b01296113949e6ebe1043fadb58aa0d5960a10203"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "bytes": 197190,
+      "sha256": "3a16eae9eabd1a55a947bd8462675acd1472916800cb6eb5ec01713f958a2b0c"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "bytes": 189928,
+      "sha256": "31e9c532eb1d17b71ad7a005be954f44c84866d9286874a98cf2b8ca47e4e252"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "bytes": 213469,
+      "sha256": "e6f352398e442fc37a247f1100dc30a844d8980eb7ea3898221a85bac30b2772"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "bytes": 178108,
+      "sha256": "ccc97324465593ed3dbe6137186f8e96f15a6bda4354fc5767173110293fdcbd"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "bytes": 268733,
+      "sha256": "8e061247bd859c43ebe7fd47a1735b70947247ac648f5366fa1c1dbf80572394"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "bytes": 132797,
+      "sha256": "cabda3ccd03a2ef575ff2dec6be2c5e546a6e6c3611dcf280313394aa77a52c9"
+    }
+  ],
+  "rows": [
+    {
+      "id": "M10EX-LD01",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Darkness/Megumin/Cecily/Zel; unnamed elder/cat/vendors/police/priest/children, retained Iris/Claire/Rain/Levi/Ragcraft and creator/promotion separately typed",
+      "native_routes": "MAIN10U021P3-60/Q01-Q22",
+      "observation": "The new day records actual meal/nap, finite cash exchange, art, services/nuisance and selective self-account; many motives remain observer inferences.",
+      "implication": "One selected day is not a whole-person daily routine. Megumin cooks5; no new build/intimacy or ability state inferred.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/poll/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M10EX-LD02",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Darkness/Megumin/Cecily/Zel; unnamed elder/cat/vendors/police/priest/children, retained Iris/Claire/Rain/Levi/Ragcraft and creator/promotion separately typed",
+      "native_routes": "MAIN10U021P11-12/40-56",
+      "observation": "Darkness exchanges cash for a stated future chore; Aqua provides useful public services and distributes bread with Cecily while familiar conflicts continue.",
+      "implication": "Finite provision, future performance and cooperation at different goals remain separate; no blanket consent or universal household harmony.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/poll/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M10EX-LD03",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Darkness/Megumin/Cecily/Zel; unnamed elder/cat/vendors/police/priest/children, retained Iris/Claire/Rain/Levi/Ragcraft and creator/promotion separately typed",
+      "native_routes": "MAIN10U021P3-60/H01-H13",
+      "observation": "The time-stamped account repeatedly contrasts Aqua's self-description/intended effect with visible consequences, then reveals the observer and reward request.",
+      "implication": "Actual acts/claims and narrator exaggeration differ from inferred motives; lies are not automatically H4 and game/magic not automatically H3.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/poll/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M10EX-LD04",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Darkness/Megumin/Cecily/Zel; unnamed elder/cat/vendors/police/priest/children, retained Iris/Claire/Rain/Levi/Ragcraft and creator/promotion separately typed",
+      "native_routes": "MAIN10V01-V18/U021P4-60",
+      "observation": "Modal endings and causal hedges mark Kazuma's limits; embedded reports are not complete direct Aqua/Cecily transcripts. Final goddess-denial is an emphatic familiar status act.",
+      "implication": "Function/context/access precede pragmatic coding. A direct explanatory clause does not manufacture a civil K08 surface; preserve current adverse evidence.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/poll/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M10EX-LD05",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Darkness/Megumin/Cecily/Zel; unnamed elder/cat/vendors/police/priest/children, retained Iris/Claire/Rain/Levi/Ragcraft and creator/promotion separately typed",
+      "native_routes": "MAIN10U018P4-16/V19-V23/IMG027",
+      "observation": "Author home/hermit/game language and poll-origin audience framing differ from fictional voices; future Komekko script is a promotional plane.",
+      "implication": "No audio or series-wide voice frequency. Unverified fullDsmallcaption receives no exact Japanese microcoding.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/poll/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M10EX-LD06",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Darkness/Megumin/Cecily/Zel; unnamed elder/cat/vendors/police/priest/children, retained Iris/Claire/Rain/Levi/Ragcraft and creator/promotion separately typed",
+      "native_routes": "MAIN10U021P14-60/Q06-Q21",
+      "observation": "He observes useful work and nuisance, speculates about minds/causes, then reveals Hide surveillance. His fuller account still lacks interior access.",
+      "implication": "Private motive/spell type/habit attribution remains hedged; observation method does not make him infallible or morally neutral.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/poll/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M10EX-LD07",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Darkness/Megumin/Cecily/Zel; unnamed elder/cat/vendors/police/priest/children, retained Iris/Claire/Rain/Levi/Ragcraft and creator/promotion separately typed",
+      "native_routes": "MAIN10U021P3-56; retainedPr/Ep ring",
+      "observation": "Household meals, reading, future washing-up, snacks, pet contact, gifts, art and recognition matter without an urgent mission.",
+      "implication": "Specific permission to destroy sand art is not indifference to every possession; Iris values a cheap ring beyond price at retained scope only.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/poll/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M10EX-LD08",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Darkness/Megumin/Cecily/Zel; unnamed elder/cat/vendors/police/priest/children, retained Iris/Claire/Rain/Levi/Ragcraft and creator/promotion separately typed",
+      "native_routes": "MAIN10U021P16-49/Q09-Q17",
+      "observation": "Aqua's known water capability supports actual commercial-vessel provision49; elder Heal16 is cast but cure unshown; loud cat-kindness19 defeats its stated immediate effect20.",
+      "implication": "Fitted narrow service can coexist with ordinary judgment errors; no universal incompetence or reliability, pure motive, medical/engineering transfer credentials.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/poll/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M10EX-LD09",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Darkness/Megumin/Cecily/Zel; unnamed elder/cat/vendors/police/priest/children, retained Iris/Claire/Rain/Levi/Ragcraft and creator/promotion separately typed",
+      "native_routes": "MAIN10U021P41-59",
+      "observation": "Cecily shares actual bread distribution55 after finite Eris ration acquisition/stop51-53; Aqua's holy seal is partly an inferred type/closing claim.",
+      "implication": "Outside actors/resource ownership/limits stay independent. No untaggedCecily speech, unlimited church supply, completed seal or pure charity inferred.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/poll/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M10EX-LD10",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Darkness/Megumin/Cecily/Zel; unnamed elder/cat/vendors/police/priest/children, retained Iris/Claire/Rain/Levi/Ragcraft and creator/promotion separately typed",
+      "native_routes": "MAIN10U021P1-60; retainedC1/C3/C5;Q26-Q34",
+      "observation": "New bonus is ordinary life; retained art joins distinguish poisoning readiness, drug-plan accountability, actual dragon cooperation and protective gag escape.",
+      "implication": "Retained scenes give no new trial credit. Earlier gratification does not authorize later enemy restraint, threats, all intimate acts or unshown recovery.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/poll/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M10EX-LD11",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Darkness/Megumin/Cecily/Zel; unnamed elder/cat/vendors/police/priest/children, retained Iris/Claire/Rain/Levi/Ragcraft and creator/promotion separately typed",
+      "native_routes": "MAIN10U021P17-60",
+      "observation": "Aqua's evening merit account omits awkward context; Kazuma's observed counterevidence drives direct rebuke. Intended cat mercy, resource ownership and charity credit show different errors/claims.",
+      "implication": "Sincere pious appraisal and calculated persuasion remain rivals. Do not infer hidden belief from narrator scorn or confuse type uncertainty with nonliteral event.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/poll/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M10EX-LD12",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "subjects": "Kazuma/Aqua/Darkness/Megumin/Cecily/Zel; unnamed elder/cat/vendors/police/priest/children, retained Iris/Claire/Rain/Levi/Ragcraft and creator/promotion separately typed",
+      "native_routes": "MAIN10AS/R1K-A-D-M-E/T01-T04/SI-D01-D07/SY-D01-D07",
+      "observation": "39individual unchanged-contract comparisons,4typed diagnostics and14separateSI/SYNT preserve original outcomes. ExplicitK08local adversity is not a new blind F or confidence update; fitted/partial/missing branches remain distinct.",
+      "implication": "Continuing informed same root. Retained gambling/poisoning/ring/escape are not new trials; overlapping observations do not create independent denominators.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/poll/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    }
+  ]
+}

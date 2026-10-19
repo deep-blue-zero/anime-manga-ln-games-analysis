@@ -1,0 +1,84 @@
+{
+  "schema": "KONOSUBA_MAIN_EXCLUDED_ACTUAL_NEW_READING_WITH_RETAINED_PRINCIPAL_RECEIPT_V1",
+  "source_id": "MAIN-08",
+  "accepted_utc": "2026-10-19T12:38:36.616728+00:00",
+  "native_filename": "Konosuba - Main Series - Volume 08.epub",
+  "native_bytes": 2964798,
+  "native_sha256": "ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e",
+  "OPF_member": "content.opf",
+  "OPF_sha256": "6f9d657d375cabfeb72f84b6ad58df4afec75169ce44f847b352ba7bfcf176cc",
+  "language": [
+    "ja"
+  ],
+  "colophon_and_bibliographic_difference": "Electronic special-edition issue2015-12-28(Heisei27),copyright2016,and print-basis first issue2016-01-01(Heisei28) are separately explicit. Preserve both bibliographic dates rather than silently choose one or date every event from them.",
+  "admission_sha256": "2d44ceabdf355cbda66f74a07f9f88cf30802ad9fbdb940f3961f568f993b514",
+  "preceding_full_gate_source": "854da7b49c6d9f428de41becfb74b9e3ed511b73",
+  "preceding_fresh_reload_sha256": "5bfa357895ff1959842fbf0bfb4c54722b64e152705af597b863e6ba514f069d",
+  "excluded_uncoded_seal_sha256": "dcc1054867d466e16f9560e1997c9b44d26e2781a9418e249ff1263c884a8441",
+  "excluded_uncoded_seal_utc": "2026-10-19T12:11:02.117803+00:00",
+  "actual_new_reading": {
+    "text_resources": 18,
+    "P_slots": 128,
+    "native_images": 30,
+    "ruby_and_nonparagraph_residual_received": true,
+    "bonus_P": 60,
+    "nonbonus_text_slots_P": 68,
+    "author_afterword_P": 22,
+    "other_wrapper_credit_slots_P": 46
+  },
+  "retained_principal_authority": {
+    "members": 8,
+    "P_slots": 2927,
+    "new_principal_reading_credit": 0,
+    "exact_native_and_prior_acceptance_control_joins": true
+  },
+  "fresh_native_CRC": "PASS",
+  "all_native_text_image_hashes_reverified": true,
+  "original_uncoded_pins": [
+    {
+      "file": "NATIVE_ADMISSION.json",
+      "bytes": 39291,
+      "sha256": "2d44ceabdf355cbda66f74a07f9f88cf30802ad9fbdb940f3961f568f993b514"
+    },
+    {
+      "file": "ROOT_PRE_BODY_PREPARATION_SEAL.json",
+      "bytes": 182761,
+      "sha256": "8f703fd0f8f48ac966a6d7a0e478105b47fbe479dae0c24667967df6f323a5e2"
+    },
+    {
+      "file": "ACTUAL_SOURCE_FIRST_UNCODED_NOTES.jsonl",
+      "bytes": 19622,
+      "sha256": "e24cc04005348df6d2cc3f8b0316963e393bddbf9bf8d45ec6d546e91c8b81cd"
+    },
+    {
+      "file": "ACTUAL_IMAGE_VIEW_UNCODED_NOTES.jsonl",
+      "bytes": 26355,
+      "sha256": "d64e9f05244049f37b6dbfefdeba54fbf7f38c562371a5b9d8bf01eaa2b40444"
+    }
+  ],
+  "public_preparation_view_is_redacted": true,
+  "formal_counts": [
+    25,
+    24,
+    31,
+    12,
+    30
+  ],
+  "party_comparisons": 8,
+  "typed_constraints_not_behavioral_scores": 4,
+  "Iris_SI_C01_no_opportunity_comparisons": 7,
+  "preceding_main_component_gate": {
+    "source_id": "MAIN-07",
+    "actual_source_commit": "854da7b49c6d9f428de41becfb74b9e3ed511b73",
+    "gate_sha256": "18822a47e95d7480bd715ac761ebd884eaac95708033bed00e5459e601db26ba",
+    "reload_sha256": "5bfa357895ff1959842fbf0bfb4c54722b64e152705af597b863e6ba514f069d",
+    "schema": "KONOSUBA_MAIN07EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE_V1"
+  },
+  "historical_Iris_cohort_gate_preserved": {
+    "actual_source_commit": "bc9b67dc37212868b16e8b6eed1a39f07b258dd0",
+    "not_between_MAIN07_and_MAIN08": true
+  },
+  "continuing_informed_root_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05,DUST-06,DUST-07,DUST-CONT,EXP-01,EXP-02,EXP-03,CONTEXP-01,CONTEXP-02,MASK,FD,YORI-01,YORI-02,YORI-03,YORI-04. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim. Separately completed main excluded-component programs: MAIN-01,MAIN-02,MAIN-03,MAIN-04,MAIN-05,MAIN-06,MAIN-07. These include their actual new bonuses/paratext/images, with original principal authority retained and zero new principal-pass credit. No pristine blindness is claimed.",
+  "no_new_blind_independent_audio_or_full_principal_reread_claim": true,
+  "publication_state": "CONTAINING_EXACT_PUBLICATION_AND_FULL_GATE_PENDING"
+}

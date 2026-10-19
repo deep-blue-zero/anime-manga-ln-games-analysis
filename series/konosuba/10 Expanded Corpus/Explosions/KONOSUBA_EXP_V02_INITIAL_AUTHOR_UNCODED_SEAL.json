@@ -1,0 +1,537 @@
+{
+  "schema": "KONOSUBA_WHOLE_LOCAL_TEXT_EPUB_ACTUAL_UNCODED_READING_SEAL_V1",
+  "source_id": "EXP-02",
+  "sealed_utc": "2026-10-18T15:16:14.227298+00:00",
+  "native_filename": "Konosuba - Spin-off - Explosions - Volume 02.epub",
+  "native_bytes": 13672536,
+  "native_sha256": "ecf3e635c97be3d23366b7d15a153c546ba04a597caba190bb8ae44e71a1f1ff",
+  "fresh_native_ZIP_CRC": "PASS",
+  "actual_complete_textual_units": 58,
+  "actual_paragraph_slots": 3189,
+  "actual_unique_native_images_viewed": 50,
+  "unit_interval_verification": [
+    {
+      "component_id": "EXP-02-U001",
+      "native_member": "item/xhtml/p-cover.xhtml",
+      "sha256": "7c1a0e54c103f78e8ea8ae124f576c9489d115e2cb5bb67ce9ec6f481085f952",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U002",
+      "native_member": "item/xhtml/p-fmatter-001.xhtml",
+      "sha256": "b99c6b427ae338bbe89605611b2d8d5821625b91903166bde45e530fa54d0220",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U003",
+      "native_member": "item/xhtml/p-fmatter-002.xhtml",
+      "sha256": "e1fb32310fc49630545d937311fed7acbba479467980d5dfa58726ce2056628b",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U004",
+      "native_member": "item/xhtml/p-fmatter-003.xhtml",
+      "sha256": "f57878a3a3f08225baf8004d66c591addfa055dec9dbdf304d9acdaffd00b92a",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U005",
+      "native_member": "item/xhtml/p-fmatter-004.xhtml",
+      "sha256": "a4b8f1e63f3d886330eba9bdc0cbde42680841292de78e4fe8ca90de3fdec81a",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U006",
+      "native_member": "item/xhtml/p-titlepage.xhtml",
+      "sha256": "010f2b208aa62bee29c079ff6ce38e566d046601d90c80bf67ba8ae044506c0d",
+      "paragraph_slots_actually_received": 6,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U007",
+      "native_member": "item/xhtml/p-caution.xhtml",
+      "sha256": "60cd884a27555eaed461252881c69b1176ae4ff16061aa82450e9fa3dadf912b",
+      "paragraph_slots_actually_received": 6,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U008",
+      "native_member": "item/xhtml/p-001.xhtml",
+      "sha256": "51f06692ff030b57e4f3e6ff2414646edde9638db0f451e8d5b0aa368cef2456",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U009",
+      "native_member": "item/xhtml/p-002.xhtml",
+      "sha256": "5708153949f597db751e8be25b61894a28780c01658cafa58298f31cb47839b8",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U010",
+      "native_member": "item/xhtml/p-toc-001.xhtml",
+      "sha256": "ce5e9df3f31b137be1de394d768d58c95043d3751785b817df2071a05c0273a4",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U011",
+      "native_member": "item/xhtml/p-toc-002.xhtml",
+      "sha256": "62ccbe6c7d92745f4c5c534b022bf897b46494425304e5e0c18a94aacf3db88d",
+      "paragraph_slots_actually_received": 10,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U012",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "sha256": "5a5113f8f5ad7602c534c670e0a5576f4a763632a049d9d3b10380831d62a709",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U013",
+      "native_member": "item/xhtml/p-004.xhtml",
+      "sha256": "b4975683eabb904ae87fe70a25712b144b63a4dcac290f46dba99c9abe978798",
+      "paragraph_slots_actually_received": 23,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U014",
+      "native_member": "item/xhtml/p-005.xhtml",
+      "sha256": "31b0fa84109591aef47436c6098feafb44fdad2f8649453811ccfaeb2cd6073a",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U015",
+      "native_member": "item/xhtml/p-006.xhtml",
+      "sha256": "cf78620ba8660a2f821f83de83cd6cfb896874014de7cfaeeabf49407d10d638",
+      "paragraph_slots_actually_received": 487,
+      "intervals": 3,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U016",
+      "native_member": "item/xhtml/p-007.xhtml",
+      "sha256": "a7418433e03c0b0bf42f8f56c09bc12864fb8f756ca491f4850dc0e007b121d5",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U017",
+      "native_member": "item/xhtml/p-008.xhtml",
+      "sha256": "99c8ff03dac04abe0a342aa9772ba1655d35e77cab323e73a616f94acab985a1",
+      "paragraph_slots_actually_received": 158,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U018",
+      "native_member": "item/xhtml/p-009.xhtml",
+      "sha256": "49504a8f00e0ce50a64415b512a4e0b59bad555394420509fd3fc4cb9b8f81c3",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U019",
+      "native_member": "item/xhtml/p-010.xhtml",
+      "sha256": "4b9e0c8fbb698db466f252da4419c8aa4c04eb44887464b69dd5354ea6392cb8",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U020",
+      "native_member": "item/xhtml/p-011.xhtml",
+      "sha256": "0c78fbd60ec57f7a025cd4b9015195dad88163348fc3e262ec46a8b97770145b",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U021",
+      "native_member": "item/xhtml/p-012.xhtml",
+      "sha256": "66d37f40bb84a3f84c19d5559e3c5b84f5c438d734e16b5c1989c0c85f89649a",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U022",
+      "native_member": "item/xhtml/p-013.xhtml",
+      "sha256": "f9f75e03521ce78174ed580c336419ac58ca60dfa9d10461753950f76ca06aaf",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U023",
+      "native_member": "item/xhtml/p-014.xhtml",
+      "sha256": "7815e5bd9b505481befbb570e409ce2180d48afe638c2c7b2fcc813235c8b014",
+      "paragraph_slots_actually_received": 702,
+      "intervals": 4,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U024",
+      "native_member": "item/xhtml/p-015.xhtml",
+      "sha256": "08d02866ebe84855c684b01b91981344cb3066d1cac09738dcf04018a24294fb",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U025",
+      "native_member": "item/xhtml/p-016.xhtml",
+      "sha256": "eea83ace8bacc1abf7dba779c4073a8f3389325bf325ca5ccc3254ca3b34d790",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U026",
+      "native_member": "item/xhtml/p-017.xhtml",
+      "sha256": "4ca510fc40d258ac6ef212a0b277f35ec92d1e6bfceb0d0fb994aea88b0f4826",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U027",
+      "native_member": "item/xhtml/p-018.xhtml",
+      "sha256": "ebdb6d42c2300cec495afddab1f536b691f054d0542610fcaf8a2c073c0edfd6",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U028",
+      "native_member": "item/xhtml/p-019.xhtml",
+      "sha256": "1c7ceee3a87be17fdfb6d61c2fe0dce791851e1c72b965854bad16a69015a574",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U029",
+      "native_member": "item/xhtml/p-020.xhtml",
+      "sha256": "417d1d458cc45fa61582ea36ccfdbfb506bb5e6afc9a16983089d3538035def5",
+      "paragraph_slots_actually_received": 373,
+      "intervals": 2,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U030",
+      "native_member": "item/xhtml/p-021.xhtml",
+      "sha256": "f0727edcb081e315866a8e774974f0c48b10a145c6615124aed61517ba0e4cfc",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U031",
+      "native_member": "item/xhtml/p-022.xhtml",
+      "sha256": "36eb9b111afe5ac8ae871524aed7e54ba6bedad65fa704e0e2fa101a8ae5875d",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U032",
+      "native_member": "item/xhtml/p-023.xhtml",
+      "sha256": "ed49452c157b27c581b0f11a82b71ea77efe5536e1a01cc973ad5df59d1d8ec6",
+      "paragraph_slots_actually_received": 130,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U033",
+      "native_member": "item/xhtml/p-024.xhtml",
+      "sha256": "8986d10c051b8e2697f562705c41f5c4d7dca6f71bc9a2f25eed67e0f612465b",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U034",
+      "native_member": "item/xhtml/p-025.xhtml",
+      "sha256": "dec644e00f781006b1ef7fa0f3b5d973077b1eab43f9b8763a08ba39c0fa2bc9",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U035",
+      "native_member": "item/xhtml/p-026.xhtml",
+      "sha256": "65e698bca6988780c7d6e4d1088930d47b0d46432928019f1939d2d20a26b334",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U036",
+      "native_member": "item/xhtml/p-027.xhtml",
+      "sha256": "6956eb50ee501785630d8b3174060645d62b8627db926ae3f117b8c841a3969b",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U037",
+      "native_member": "item/xhtml/p-028.xhtml",
+      "sha256": "c12408e62cd19948502288c6881468b845e69668184288643d2409c5ee5cc4ad",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U038",
+      "native_member": "item/xhtml/p-029.xhtml",
+      "sha256": "0913fc720e19e3e0acf3c75c76bc06d2b2bacfc48a83c43361e5496dc47aabb2",
+      "paragraph_slots_actually_received": 534,
+      "intervals": 3,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U039",
+      "native_member": "item/xhtml/p-030.xhtml",
+      "sha256": "55a8fa12fa743fea0a4d3554be0fc5596cb7ec5ba1da4517764c50849d3b1873",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U040",
+      "native_member": "item/xhtml/p-031.xhtml",
+      "sha256": "a78ebc54fa2040b3e9374277b38d6c61c390557daf4219786a48d3b6a59df22f",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U041",
+      "native_member": "item/xhtml/p-032.xhtml",
+      "sha256": "91e622d4a900ab3a864a619e4c29defd0ee146eed38af1ad1d33ebc09c26d1f3",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U042",
+      "native_member": "item/xhtml/p-033.xhtml",
+      "sha256": "93caadd511d78e67a07ab4f3e93fa27d8fa0c8c1176e4779bc7ebf65079017bb",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U043",
+      "native_member": "item/xhtml/p-034.xhtml",
+      "sha256": "22e50d77ae4f54805bca6886cc88f0edfd5b2259fc894df09eb9af8aaac0d712",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U044",
+      "native_member": "item/xhtml/p-035.xhtml",
+      "sha256": "ab04b3fd93b2e314f27aae8c514d14a3965fe5b70831e6ca0179a4a3ace16b17",
+      "paragraph_slots_actually_received": 671,
+      "intervals": 4,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U045",
+      "native_member": "item/xhtml/p-036.xhtml",
+      "sha256": "0cc460dc91ab6be7bde0a98b1566fac0559b3120b52e3c3f184ebf85c2501ec7",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U046",
+      "native_member": "item/xhtml/p-037.xhtml",
+      "sha256": "cb5ff7384601ab87f832f61b838b75d188d606e7bfc5ccd5d00cbcc3fd97c9ad",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U047",
+      "native_member": "item/xhtml/p-038.xhtml",
+      "sha256": "02af5dca35c62a596770e187ee623440e3d1199e7cf9622e7f2736a8b8d31b77",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U048",
+      "native_member": "item/xhtml/p-039.xhtml",
+      "sha256": "f6437b85c164b7edca1c109078052cfeccb706eca6a29cf45dbe13eb217b8af2",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U049",
+      "native_member": "item/xhtml/p-040.xhtml",
+      "sha256": "f9d3c4bcebbe42128feb2e91c048f264e5794b9e4276adc5080cf37e89a25c98",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U050",
+      "native_member": "item/xhtml/p-041.xhtml",
+      "sha256": "5cd76d670b0a6d41576a7e2b86b4553d28b3cbecaf547b3fb941333b579f373e",
+      "paragraph_slots_actually_received": 62,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U051",
+      "native_member": "item/xhtml/p-042.xhtml",
+      "sha256": "5950ef429912fee0792ab902ec2367632b22666b5cbe49df32845a26e85e44ff",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U052",
+      "native_member": "item/xhtml/p-043.xhtml",
+      "sha256": "2152568ac1a6b6147d82672ee17c99fda6ee048940062e7d7d9b75064c5bab86",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U053",
+      "native_member": "item/xhtml/p-044.xhtml",
+      "sha256": "706a2d47ce366fbe157842fb5524336919f0ee0956caf192a1df72e44a6d805c",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U054",
+      "native_member": "item/xhtml/p-045.xhtml",
+      "sha256": "f4bab5aa4c9869d2e126d6d18744aea5f1d4e88bf3d6e5d078c142258dc7654d",
+      "paragraph_slots_actually_received": 4,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U055",
+      "native_member": "item/xhtml/p-046.xhtml",
+      "sha256": "3874a40d204396efb52dd189fbe45ae3bab9bfbd4f51710dff06e5e85a63a968",
+      "paragraph_slots_actually_received": 5,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U056",
+      "native_member": "item/xhtml/p-colophon.xhtml",
+      "sha256": "15e053d9d2bcfe382a8fa039122708a27e18dd832029c1e2a0074ef9b1a96ec4",
+      "paragraph_slots_actually_received": 18,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U057",
+      "native_member": "item/xhtml/p-bookwalker.xhtml",
+      "sha256": "5fea6f2510e62288e91d99a2ab3ebd68620c7d9a14adc17d45960e90be3506e6",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "EXP-02-U058",
+      "native_member": "item/navigation-documents.xhtml",
+      "sha256": "4ca11546f102dbebcdd5f81e3402f76c1ba877fb3dba41591c76049ca4f621ca",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    }
+  ],
+  "immutable_uncoded_pins": [
+    {
+      "file": "NATIVE_ADMISSION.json",
+      "bytes": 59288,
+      "sha256": "8e980e97636b77f7eec790ff9f38830f586b2a91a780fc9c07f5fab94f5440e3"
+    },
+    {
+      "file": "ROOT_PRE_BODY_PREPARATION_SEAL.json",
+      "bytes": 16249,
+      "sha256": "6a6fddd4ef6199575e840adf1cdc7d89d7101c2bb191234b9455a85bc332d634"
+    },
+    {
+      "file": "ACTUAL_SOURCE_FIRST_UNCODED_NOTES.jsonl",
+      "bytes": 165810,
+      "sha256": "588e7970ef92b10075cce49e720d9953b80f8af177d8a56357e2bd28d7f28823"
+    },
+    {
+      "file": "ACTUAL_IMAGE_VIEW_UNCODED_NOTES.jsonl",
+      "bytes": 45752,
+      "sha256": "468093c1c0050340eda78a0ce2fec39c9f1da6246dde9c30729aa15b5161500d"
+    },
+    {
+      "file": "UNCODED_IMAGE_SCOPE_CORRECTIONS.jsonl",
+      "bytes": 2767,
+      "sha256": "2d314ff44bcadb76a2b56ac8c5bfece25547e5587ab9bd0e730935b07f207a4e"
+    }
+  ],
+  "all_source_first_formal_outcomes_still_unassigned": true,
+  "reader": "Continuing informed root AI; same author and receiver, no independent review, pristine blindness, native-human or audio claim.",
+  "scope": "All supplied textual bodies, ruby readings displayed inline, native nonparagraph residuals, front/end/navigation, electronic bonus, author and contributor paratext, and every image received actual separate reading/view records. Exact layout inspection of textual XHTML is not a separate print-page facsimile claim. Structural extraction alone received no reading credit.",
+  "corrections_to_resolve_in_separate_current_derivatives": [
+    "Actual complete image view is now acknowledged; prose supplies kneeling and address to the cat. No independent extra event, mind access or pose transcription added. Original record remains historical and is controlled by this correction.",
+    "The offered powder, substitution of a cleaner unfamiliar with the task, bicarbonate question and subsequent food-slime outflow strongly support an accidental mix-up route. The actual pour is not directly witnessed. Cecily later accusing Arnes of stealing her missing powder is a character allegation, not proof. Preserve the original notes and this controlling precision together."
+  ],
+  "remaining": "Formal L/H and voice coding, natural-order question assessment, seventeen-responsibility report, component dispositions, ledger decisions, acceptance, and full publication gate; no whole-program completion claim.",
+  "pre_seal_actual_image_scope_corrections_preserving_originals": [
+    {
+      "schema": "KONOSUBA_UNCODED_ACTUAL_IMAGE_SCOPE_CORRECTION_V1",
+      "recorded_after_actual_model_view_utc": "2026-10-18T14:26:22.613576+00:00",
+      "image_id": "EXP-02-IMG012",
+      "native_image_sha256": "cac6fc6301cd5ec53009d5707fe83fb44c3cfc3421e76daca1d1e12dca10ecf4",
+      "original_acknowledgement_preserved_exact": true,
+      "reason": "The original image12 note was written in the same tool execution that returned the image, before the model had actually received that return. It was premature and used the just-read prose for its description. This record acknowledges actual visual inspection only now and corrects scope before any complete uncoded seal or formal assignment.",
+      "actual_view": "Full native doorway illustration received and visually inspected: red-haired hat-wearing visitor on the left, hand at chest, visible face, looking toward Megumin/cat on the right. It does not independently establish a complete kneeling posture. ProseU017P0152 explicitly narrates kneeling and later hidden face; image composition and prose instant must not be assumed identical. No printed dialogue in this image.",
+      "current_scope": "Actual complete image view is now acknowledged; prose supplies kneeling and address to the cat. No independent extra event, mind access or pose transcription added. Original record remains historical and is controlled by this correction.",
+      "formal_outcomes_assigned": false
+    },
+    {
+      "schema": "KONOSUBA_UNCODED_ACTUAL_IMAGE_SCOPE_CORRECTION_V1",
+      "recorded_after_actual_model_view_utc": "2026-10-18T15:15:49.905529+00:00",
+      "image_id": "EXP-02-IMG037",
+      "native_image_sha256": "9c10c2afa0ecc0715abe969bafa4dc32dd6349be02972c4bf2e88144b1d80446",
+      "original_acknowledgement_preserved_exact": true,
+      "reason": "Focused actual rereading of the complete image-only fourth interlude distinguishes a proposed powder bribe and delegated cleaning from a directly depicted physical handover or pour. The original loose actual-handoff shorthand is retained historically.",
+      "actual_view": "Cecily brings out her concealed powder as a proposed inducement; Zesta accepts the cleaning assignment in exchange for a private report about Megumin. He asks where the bicarbonate is. The following page asks whether this bag is bicarbonate while Cecily leaves. No powder handover, pouring or completed cleaning is explicitly shown in these pages.",
+      "current_scope": "The offered powder, substitution of a cleaner unfamiliar with the task, bicarbonate question and subsequent food-slime outflow strongly support an accidental mix-up route. The actual pour is not directly witnessed. Cecily later accusing Arnes of stealing her missing powder is a character allegation, not proof. Preserve the original notes and this controlling precision together.",
+      "formal_outcomes_assigned": false
+    }
+  ]
+}
