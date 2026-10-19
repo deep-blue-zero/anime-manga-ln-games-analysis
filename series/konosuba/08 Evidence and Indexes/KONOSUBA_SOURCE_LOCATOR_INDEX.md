@@ -1453,3 +1453,37 @@ Main2900P/bonus0P/nonfiction52P/total2952P; full ruby/residual/image scopes befo
 | MAIN-07-U026 | item/xhtml/p-colophon.xhtml / 14 | COLOPHON;newprincipalcredit0 |
 | MAIN-07-U027 | item/xhtml/p-bookwalker.xhtml / 0 | BOOKWALKER_LOGO;newprincipalcredit0 |
 | MAIN-07-U028 | item/navigation-documents.xhtml / 0 | NAVIGATION_RESIDUAL;newprincipalcredit0 |
+
+
+## MAIN-08 excluded-component accepted routes — 2026-10-19T12:38:36.616728+00:00
+
+[Register](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V08_EXCLUDED_COMPONENT_REGISTER.json), [reading](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V08_EXCLUDED_DEEP_READING.md), [voice](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V08_EXCLUDED_VOICE_REGISTER.md), [comparisons](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V08_EXCLUDED_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [qualifications](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V08_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) govern new/inherited boundaries. All18new text resources128P/30native images actually received;8accepted principal members2927P retained exact/newprincipalcredit0. New60P electronic bonus『漢のロマンを叶えるために』,22Pauthorafterword and46other wrapper/credit/contents slots are distinct. Covers/fronts/profile/eight chapter banners/body illustrations/illustrator and guest codas/future promotion retain separate planes.650bounded retainedP support image attribution and current corrections; no extra events or full principal pass. Counts are not a narrative denominator. Selected25premises/24writtenfragments;31principal+8party individualcomparisons/fourtypeddiagnostics/sevenIrisno-opportunityrows. 39explicit comparisons:34full conjunctions absent/unestablished; K04restraint/K08directpressure eligibility ambiguous; E03dependency-directed request locally supported without completed recovery; E06boundary continuity and E07reported production retain missing branches. No full heldoutC/F or accuracy update;4typeddiagnostics/7IrisNT preserve original fields. Retained events are not fresh trials. 12appends across tenledgers/30qualifications. Supplemental19/mixed5 andMAIN01-MAIN07fullgates plusIriscohort remainclosed; MAIN-08analysis accepted/publicationpending;other9mainexcluded programs remain;globalcomponentpercentage null.
+
+| Unit | Native member / slots | Disposition |
+|---|---|---|
+| MAIN-08-U001 | titlepage.xhtml / 0 | COVER_WRAPPER;newprincipalcredit0 |
+| MAIN-08-U002 | text/part0000.html / 0 | CROPPED_ERIS_COVER_FRONTMATTER;newprincipalcredit0 |
+| MAIN-08-U003 | text/part0001.html / 0 | COLOR_FESTIVAL_PROPOSAL_COMPOSITE;newprincipalcredit0 |
+| MAIN-08-U004 | text/part0002.html / 0 | COLOR_COSTUME_AUDIENCE_AND_AIGIS_COMPOSITE;newprincipalcredit0 |
+| MAIN-08-U005 | text/part0003.html / 0 | COLOR_CHRIS_ERIS_ROLES_AND_ATTRIBUTED_PEACE_WISH;newprincipalcredit0 |
+| MAIN-08-U006 | text/part0004.html / 0 | RASTER_CONTENTS_PRINT_LOCATORS;newprincipalcredit0 |
+| MAIN-08-U007 | text/part0005.html / 6 | TITLE_IMPRINT;newprincipalcredit0 |
+| MAIN-08-U008 | text/part0006.html / 6 | RIGHTS_AND_ELECTRONIC_NOTICE;newprincipalcredit0 |
+| MAIN-08-U009 | text/part0007.html / 14 | TEXTUAL_CONTENTS_WITH_ELECTRONIC_BONUS;newprincipalcredit0 |
+| MAIN-08-U010 | text/part0008.html / 0 | RASTER_EDITION_CHARACTER_PROFILE;newprincipalcredit0 |
+| MAIN-08-U011 | text/part0009.html / 21 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-08-U012 | text/part0010.html / 452 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-08-U013 | text/part0011.html / 498 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-08-U014 | text/part0012.html / 673 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-08-U015 | text/part0013.html / 513 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-08-U016 | text/part0014.html / 559 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-08-U017 | text/part0015.html / 158 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-08-U018 | text/part0016.html / 53 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-08-U019 | text/part0017.html / 22 | CREATOR_AFTERWORD_NOT_NEW_FICTION;newprincipalcredit0 |
+| MAIN-08-U020 | text/part0018.html / 0 | ILLUSTRATOR_CODA_STAGED_DISGUISE_THOUGHT;newprincipalcredit0 |
+| MAIN-08-U021 | text/part0019.html / 0 | GUEST_ILLUSTRATOR_CONGRATULATION_AND_ANIME_ANTICIPATION;newprincipalcredit0 |
+| MAIN-08-U022 | text/part0020.html / 0 | NEXT_VOLUME_09_AND_MASK_PROMOTION;newprincipalcredit0 |
+| MAIN-08-U023 | text/part0021.html / 60 | SEPARATE_ELECTRONIC_BONUS_FICTION;newprincipalcredit0 |
+| MAIN-08-U024 | text/part0022.html / 5 | ILLUSTRATION_AND_DESIGN_CREDITS;newprincipalcredit0 |
+| MAIN-08-U025 | text/part0023.html / 15 | COLOPHON;newprincipalcredit0 |
+| MAIN-08-U026 | text/part0024.html / 0 | BOOKWALKER_RETAILER_WRAPPER;newprincipalcredit0 |
