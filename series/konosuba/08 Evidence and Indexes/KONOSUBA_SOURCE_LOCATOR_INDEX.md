@@ -1492,3 +1492,73 @@ Main2900P/bonus0P/nonfiction52P/total2952P; full ruby/residual/image scopes befo
 ## Yunyun cohort01 evidence routes
 
 The [Yunyun index](KONOSUBA_YUNYUN_EVIDENCE_INDEX.md) routes18families with four own-image-interlude subfamilies, native/report source planes, contrary cases and dedup limits. [Provenance](../06%20Character%20Modeling%20and%20Reconstruction/YUNYUN_EXPANDED_V1_EVIDENCE/YUNYUN_NATIVE_AND_DERIVATIVE_PROVENANCE_01.json) binds1050actualP/twelveacceptedunits and20nativepages/fourlinkedinterludes; these are receiving scopes, not an independent-event denominator or a second whole-source reading. [Current receiving](../09%20Audits%20and%20Manifests/KONOSUBA_YUNYUN_COHORT_01_RECEIVING_AND_PROVENANCE.json), old exact lineage, fixed synthetic inputs/outputs/review and new optionalSY-C01 remain distinct responsibilities.
+
+
+## MAIN-09 excluded-component accepted routes — 2026-10-19T14:18:26.827810+00:00
+
+[Register](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V09_EXCLUDED_COMPONENT_REGISTER.json), [reading](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V09_EXCLUDED_DEEP_READING.md), [voice](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V09_EXCLUDED_VOICE_REGISTER.md), [comparisons](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V09_EXCLUDED_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [qualifications](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V09_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) govern new/inherited boundaries. All22new textual resources131P and33unique native images actually received. Eight accepted principal members3076P remain exact, with zero new principal reading credit. Separate61P electronic bonus『とあるひよこの必殺芸』,21P author afterword and49other wrapper/credit/contents slots; illustrator coda and five-page popularity appendix are separate raster paratext.1187bounded retainedP support current image/knowledge/chronology checks; these are no new events, full principal pass or eligible secondary source tests. Counts do not supply a narrative-component denominator. Selected26premises/29writtenfragments;31principal+8party individualcomparisons/fourtypeddiagnostics/fourteenIris-Yunyunno-opportunityrows. 39explicit comparisons:K02narrowresponse supported;K01adjacent game option;E01/E07partialcoordination;35fullconjunctionsNT. Fourtypeddiagnostics/14separateIris-YunyunNT preserve original fields. No full heldoutC/F, accuracy or confidence update; retained events are not fresh trials. 12appends across tenledgers/40qualifications. Supplemental19/mixed5 andMAIN01-MAIN08fullgates plusIris/Yunyuncohorts remainclosed; MAIN-09analysis accepted/publicationpending;other8mainexcluded programs remain;globalcomponentpercentage null.
+
+| Unit | Native member / slots | Disposition |
+|---|---|---|
+| MAIN-09-U001 | OEBPS/Text/cover_page.xhtml / 0 | COVER_WRAPPER;newprincipalcredit0 |
+| MAIN-09-U002 | OEBPS/Text/part0000.xhtml / 0 | CROPPED_MEGUMIN_COVER_FRONTMATTER;newprincipalcredit0 |
+| MAIN-09-U003 | OEBPS/Text/part0001.xhtml / 0 | COLOR_ORDINARY_REQUESTS_COMPOSITE_RETAINED_ANCHORS;newprincipalcredit0 |
+| MAIN-09-U004 | OEBPS/Text/part0002.xhtml / 0 | COLOR_MEGUMIN_WOLBACH_RECOGNITION_RETAINED_ANCHOR;newprincipalcredit0 |
+| MAIN-09-U005 | OEBPS/Text/part0003.xhtml / 0 | COLOR_MEGUMIN_LIKING_RETAINED_ANCHOR;newprincipalcredit0 |
+| MAIN-09-U006 | OEBPS/Text/part0004.xhtml / 0 | RASTER_CONTENTS_PRINT_LOCATORS;newprincipalcredit0 |
+| MAIN-09-U007 | OEBPS/Text/part0005.xhtml / 6 | TITLE_IMPRINT;newprincipalcredit0 |
+| MAIN-09-U008 | OEBPS/Text/part0006.xhtml / 7 | RIGHTS_AND_ELECTRONIC_NOTICE;newprincipalcredit0 |
+| MAIN-09-U009 | OEBPS/Text/part0007.xhtml / 15 | TEXTUAL_CONTENTS_WITH_BONUS_AND_POLL;newprincipalcredit0 |
+| MAIN-09-U010 | OEBPS/Text/part0008.xhtml / 0 | RASTER_EDITION_CHARACTER_PROFILE;newprincipalcredit0 |
+| MAIN-09-U011 | OEBPS/Text/part0009.xhtml / 44 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-09-U012 | OEBPS/Text/part0010.xhtml / 546 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-09-U013 | OEBPS/Text/part0011.xhtml / 658 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-09-U014 | OEBPS/Text/part0012.xhtml / 544 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-09-U015 | OEBPS/Text/part0013.xhtml / 300 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-09-U016 | OEBPS/Text/part0014.xhtml / 868 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-09-U017 | OEBPS/Text/part0015.xhtml / 74 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-09-U018 | OEBPS/Text/part0016.xhtml / 42 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-09-U019 | OEBPS/Text/part0017.xhtml / 21 | CREATOR_AFTERWORD_NOT_NEW_FICTION;newprincipalcredit0 |
+| MAIN-09-U020 | OEBPS/Text/part0018.xhtml / 0 | ILLUSTRATOR_CODA_STAGED_ROMANCE_COMMENTARY;newprincipalcredit0 |
+| MAIN-09-U021 | OEBPS/Text/part0019.xhtml / 61 | SEPARATE_ELECTRONIC_BONUS_FICTION;newprincipalcredit0 |
+| MAIN-09-U022 | OEBPS/Text/part0020.xhtml / 0 | POPULARITY_POLL_MEGUMIN_FIRST_AND_PROMOTION;newprincipalcredit0 |
+| MAIN-09-U023 | OEBPS/Text/part0021.xhtml / 0 | POPULARITY_POLL_ERIS_IRIS_AQUA_YUNYUN_STAGED_SCRIPTS;newprincipalcredit0 |
+| MAIN-09-U024 | OEBPS/Text/part0022.xhtml / 0 | POPULARITY_POLL_DARKNESS_WIZ_KAZUMA_KOMEKKO_VANIR_ZEL_SCRIPTS;newprincipalcredit0 |
+| MAIN-09-U025 | OEBPS/Text/part0023.xhtml / 0 | POPULARITY_POLL_CHOMUSUKE_LUNA_CHRIS_DUST_MITSURUGI_SCRIPTS;newprincipalcredit0 |
+| MAIN-09-U026 | OEBPS/Text/part0024.xhtml / 0 | POPULARITY_POLL_REMAINING_MIXED_BALLOT_ENTRIES;newprincipalcredit0 |
+| MAIN-09-U027 | OEBPS/Text/part0025.xhtml / 5 | ILLUSTRATION_AND_DESIGN_CREDITS;newprincipalcredit0 |
+| MAIN-09-U028 | OEBPS/Text/part0026.xhtml / 16 | COLOPHON_AND_IMPRINT;newprincipalcredit0 |
+| MAIN-09-U029 | OEBPS/Text/part0027.xhtml / 0 | BOOKWALKER_RETAILER_WRAPPER;newprincipalcredit0 |
+| MAIN-09-U030 | OEBPS/Text/nav.xhtml / 0 | NONPARAGRAPH_NAVIGATION;newprincipalcredit0 |
+
+
+## MAIN-10 excluded-component accepted routes — 2026-10-19T15:14:05.907503+00:00
+
+[Register](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V10_EXCLUDED_COMPONENT_REGISTER.json), [reading](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V10_EXCLUDED_DEEP_READING.md), [voice](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V10_EXCLUDED_VOICE_REGISTER.md), [comparisons](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V10_EXCLUDED_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [qualifications](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V10_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) govern new/inherited boundaries. All17new textual resources127P and28unique native images actually received. Seven accepted principal members3026P remain exact with zero new principal reading credit. New60P electronic bonus『女神、頑張ってます』,20P author afterword and47other wrapper/contents/credit slots; illustrator coda and future-volume11 promotion are separate raster paratext.955bounded retainedP across allseven principal members support current scene/identity/chronology precision without a new full-principal pass, new event or eligible secondary trial. Counts do not establish a narrative denominator. Selected21premises/23writtenfragments;31principal+8party individualcomparisons/fourtypeddiagnostics/fourteenIris-Yunyunno-opportunityrows. 39explicitcomparisons:2narrowlocalsupports(A01/D06),1K08direct-pressureadverse,4partial(K02/A02/E01/E07),2adjacent(K01/E05),1ambiguousK04 and29fullconjunctionsNT. Fourtypeddiagnostics/14separateIris-YunyunNT preserveoriginalfields. Sameinformedsource-localobservations,noblindC/F,accuracyorconfidenceupdate;retainedscenesarenotfreshtrials. 12appends across tenledgers/38qualifications. Supplemental19/mixed5 andMAIN01-MAIN09fullgates plusIris/Yunyuncohorts remainclosed; MAIN-10analysis accepted/publicationpending;other7mainexcluded programs remain;globalcomponentpercentage null.
+
+| Unit | Native member / slots | Disposition |
+|---|---|---|
+| MAIN-10-U001 | titlepage.xhtml / 0 | COVER_WRAPPER;newprincipalcredit0 |
+| MAIN-10-U002 | text/part0000.html / 0 | CROPPED_IRIS_COVER_FRONTMATTER;newprincipalcredit0 |
+| MAIN-10-U003 | text/part0001.html / 0 | COLOR_COMPANION_CHOICES_RETAINED_ANCHORS;newprincipalcredit0 |
+| MAIN-10-U004 | text/part0002.html / 0 | COLOR_CASINO_BETTING_LOSSES_RETAINED_ANCHORS;newprincipalcredit0 |
+| MAIN-10-U005 | text/part0003.html / 0 | COLOR_IRIS_COMBAT_AND_COUNTRY_REQUEST_RETAINED_ANCHORS;newprincipalcredit0 |
+| MAIN-10-U006 | text/part0004.html / 0 | RASTER_CONTENTS_PRINT_LOCATORS;newprincipalcredit0 |
+| MAIN-10-U007 | text/part0005.html / 6 | TITLE_IMPRINT;newprincipalcredit0 |
+| MAIN-10-U008 | text/part0006.html / 7 | RIGHTS_AND_ELECTRONIC_NOTICE;newprincipalcredit0 |
+| MAIN-10-U009 | text/part0007.html / 13 | TEXTUAL_CONTENTS_WITH_ELECTRONIC_BONUS;newprincipalcredit0 |
+| MAIN-10-U010 | text/part0008.html / 0 | RASTER_EDITION_CHARACTER_PROFILE;newprincipalcredit0 |
+| MAIN-10-U011 | text/part0009.html / 21 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-10-U012 | text/part0010.html / 337 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-10-U013 | text/part0011.html / 541 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-10-U014 | text/part0012.html / 699 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-10-U015 | text/part0013.html / 610 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-10-U016 | text/part0014.html / 758 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-10-U017 | text/part0015.html / 60 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-10-U018 | text/part0016.html / 20 | CREATOR_AFTERWORD_NOT_NEW_FICTION;newprincipalcredit0 |
+| MAIN-10-U019 | text/part0017.html / 0 | ILLUSTRATOR_IRIS_RING_SLEEP_CODA;newprincipalcredit0 |
+| MAIN-10-U020 | text/part0018.html / 0 | FUTURE_VOLUME11_PROMOTIONAL_STAGED_SCRIPT;newprincipalcredit0 |
+| MAIN-10-U021 | text/part0019.html / 60 | SEPARATE_ELECTRONIC_BONUS_FICTION;newprincipalcredit0 |
+| MAIN-10-U022 | text/part0020.html / 5 | ILLUSTRATION_AND_DESIGN_CREDITS;newprincipalcredit0 |
+| MAIN-10-U023 | text/part0021.html / 16 | COLOPHON_AND_IMPRINT;newprincipalcredit0 |
+| MAIN-10-U024 | text/part0022.html / 0 | BOOKWALKER_RETAILER_WRAPPER;newprincipalcredit0 |
