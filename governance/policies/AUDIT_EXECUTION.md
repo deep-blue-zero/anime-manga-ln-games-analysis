@@ -14,7 +14,7 @@ The three approved workflows, their privileges, the isolated status reporter, so
 
 `../repository-controls/test-execution-policy.json` requires `selection_enabled: false`. The runner also enforces that condition in code. There is no content execution command or environment bypass in this release; changing the flag alone fails validation.
 
-`../../tools/tests/test-catalog.json` assigns every existing test an explicit responsibility, input description, and smoke designation. Tests inspecting real corpus state remain in the always-required group; mixed classes are conservatively retained there. The reconstruction production-absence assertion is a live-corpus guard, separate from its dormant synthetic assessment scenarios. The remaining assertion-level separation and dependency review are not claimed complete.
+`../../tools/tests/test-catalog.json` assigns every existing test an explicit responsibility, input description, and smoke designation. Tests inspecting real corpus state remain in the always-required group; mixed classes are conservatively retained there. The live reconstruction production-contract assertion is a live-corpus guard, separate from the `reconstruction_capability` group's synthetic assessment scenarios. The remaining assertion-level separation and dependency review are not claimed complete.
 
 The shadow classifier compares complete Git deltas with rename detection disabled. Unknown paths, changed controls, missing/unusable baselines, unregistered roots, incompatible runtimes, or uncatalogued tests propose full execution. Ordinary registered data and routing changes may propose content execution. Every proposed exclusion is reported, and actual execution remains full.
 
