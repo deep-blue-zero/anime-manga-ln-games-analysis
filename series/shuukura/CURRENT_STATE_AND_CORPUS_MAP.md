@@ -5,14 +5,14 @@ artifact_type: corpus_map
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.20"
+version: "1.21"
 status: active_provisional
 scope: "Single current entrypoint for a material analytical restart at the continuing Shuukura root"
-source_boundary: "Frozen I1; independent LN01–09/fourBW/KSS01–12/OFF-JP-SS01 complete only in whole atomic commits; OFF-JP-SS02/web/V1 unread; V10 excluded"
+source_boundary: "Frozen I1; independent LN01–09/fourBW/KSS01–12/OFF-JP-SS01/OFF-JP-SS02 complete only in whole atomic commits; web/V1 unread; V10 excluded"
 canonical_home: series/shuukura/CURRENT_STATE_AND_CORPUS_MAP.md
 created: "2026-10-17"
 planning_date: "2026-10-16"
-review_status: OFF01_COMPLETE_NATIVE_SOURCE_SEMANTIC_AND_DISPOSITION_PRECISION_REVIEW_COMPLETED
+review_status: OFF02_COMPLETE_NATIVE_MEMORY_FOOD_AND_THREE_CLOCK_REVIEW_COMPLETED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -27,7 +27,7 @@ project_initialization:
   architecture_status: active_provisional
   source_reconnaissance_complete: true
   source_reconnaissance_scope: METADATA_BYTES_STRUCTURE_AND_PROVENANCE_ONLY
-  source_admission: VERIFIED_ORDERED_I1_EXACT_UNIT_ADMISSIONS_THROUGH_OFF01
+  source_admission: VERIFIED_ORDERED_I1_EXACT_UNIT_ADMISSIONS_THROUGH_OFF02
   required_day_one_infrastructure_initialized: true
   required_day_one_infrastructure:
     - "04 Longitudinal Ledgers/SHUUKURA_CHARACTER_STATE_AND_READINESS_LEDGER.md"
@@ -38,14 +38,14 @@ project_initialization:
   owner_review: CURRENT_OWNER_INSTRUCTION_AUTHORIZES_VALIDATED_BOOTSTRAP_ADOPTION
   sequential_analysis_lock: OPEN
   lock_reason: VERIFIED_FOUNDATION_AND_ORDERED_I1_UNIT_ADMISSION
-  next_permitted_operation: OFF-JP-SS02
+  next_permitted_operation: KAK-JP-E0001
 sequential_execution:
   mode: continuous_sequential
   unit_type: other
   authorized_start: LN-JP-V01
   terminal_boundary: SHUUKURA-V2-20261017-I1
-  committed_high_water_mark: OFF-JP-SS01
-  next_candidate_operation: OFF-JP-SS02
+  committed_high_water_mark: OFF-JP-SS02
+  next_candidate_operation: KAK-JP-E0001
   confirmation_between_units: false
   run_state: active
   inventory_freeze_state: FROZEN_AVAILABLE_UNITS_AND_EXPLICIT_MANDATORY_GAPS
@@ -53,10 +53,10 @@ sequential_execution:
   authorization_record: "08 Audits and Handoffs/SHUUKURA_BOOTSTRAP_RECEIPT.md#continuous-execution-kickoff-and-recovery"
 analytical_execution:
   authorization: CONTINUOUS_SEQUENTIAL_AUTHORIZED_GATE_VERIFIED
-  sequential_units_admitted: 26
-  sequential_units_completed: 26
-  committed_narrative_high_water_mark: OFF-JP-SS01
-  character_reconstruction_readiness: OFF01_PRIVATE_CONTAINER_HISTORICAL_STATE_DISPOSITION_QUALIFIED_NO_VALIDATED_DOMAIN
+  sequential_units_admitted: 27
+  sequential_units_completed: 27
+  committed_narrative_high_water_mark: OFF-JP-SS02
+  character_reconstruction_readiness: OFF02_PRIVATE_MEAL_MEMORY_HISTORICAL_STATE_NO_VALIDATED_DOMAIN
 repository_state:
   stable_branch: series/shuukura
   routing_input: series/shuukura/.repository/series-registry.json
@@ -71,7 +71,20 @@ This is the single V2 first-read surface for **週に一度クラスメイトを
 
 `SEQUENTIAL_ANALYSIS_LOCK = OPEN`
 
-`NEXT_PERMITTED_OPERATION = OFF-JP-SS02`
+`NEXT_PERMITTED_OPERATION = KAK-JP-E0001`
+
+## Current checkpoint after OFF-JP-SS02 — 2026-10-18
+
+[OFF-JP-SS02](03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_OFF_JP_SS02_DEEP_READING.md) and its [audit](08%20Audits%20and%20Handoffs/SHUUKURA_V2_OFF_JP_SS02_TRANSACTION_AUDIT.md) form the next complete atomic transaction after OFF01commit90592c6dcb2465def9fddf3d47895d822c456950. Miyagi Shiori's November kitchen account shows renewed enjoyment of food making solitary meals harder to bear and reviving family memories. Her easier satiation-only self is a defensive adaptation to this home; the childhood words repeated at the end complicate her assertion that the calendar-marking child is gone. Cooking lessons, an alternative self and the future with Sendai remain counterfactual or unfinished, while rice and curry are actually prepared.
+
+Whole OFF-JP-SS02 introducing commit only: LN9/9; accessible supplements18/18; Kakuyomu0/431; Narō0/290; available27/458. Next inventory candidate KAK-JP-E0001 remains unread. This completes the frozen accessible supplement lane locally; the wider continuous I1 run is not complete. Mandatory cumulative SS18/18 publication/integration is pending and must not be described as green main. Four ledgers1.18:8newMcharacterrows/2historicalprojections/2readiness;8relationshiprows/2directions; no new or revised rule,167ruleIDs retained.23propositionversions(20new/3older),20accessrows/7tensions yield646propositionIDs;3olderclaimversions+3new yield137claimIDs/469formulations. M0.13/S0.14draft_noncurrent/UNTESTED,18forecastrecords/13historicalattempts and no validateddomain remain unchanged. Alloldrows andOFF01dispositioncorrection are preserved.
+
+M-OFF02-KITCHEN-EXIT/S-OFF02-ABSENT-EXIT are source-specific historical projections. Contextual Miyagi's final-high-school-year November fear of postgraduation meal loss is not a performed cutoff or adult knowledge. Sendai is absent and receives no shown memory disclosure. Adult M/S-V09-EXIT/BW09night, SS01spring and all earlier source-local states remain distinct. The exact meaning of this source's calendar marks is not supplied; the unfinished Sendai dash stays unfinished. The ending prepares convenience food without narrating its consumption.
+
+The verified SS02 evidence archive SHUUKURA_V2_OFF_JP_SS02_LOCATOR_AND_SOURCE_EVIDENCE_20261018_A1.zip remains local: 135,242bytes/SHA603ebc3506dc5abb1ec871fb8ef863a1a1dabc24ef6786d7e8ad61be3cf09744/12members, all memberhashes/CRC PASS. No new Drive upload was performed or is claimed. The original primary-source admission packet remains Drive1pi7_hhGoTqMsyEfrju4c-mRFipt41_Ju,2,774,617bytes/SHA4cd8450e9627a1d46f5114d009a65b9f7ba3f2847a9f0f455245ba86e430ec3c/57membersCRCpass, with exact SS02HTML/PNGmatches. SS01's evidence remains local under the owner's explicit direction; SS02's notes/locators/checks also stay in the owner workspace.
+
+This section and structured front matter own live state. Earlier current-checkpoint/pause sections retain their historical as-of boundaries and links. This is local durability; remote publication, source/housekeeping/final-head and main-integration checks are not claimed. All51frozen source gaps/27discovery duties, Narō290correspondence, voice/media, reconciliation, monographs, specialists, reconstruction, V1comparison and final synthesis/release responsibilities remain required.
+
 
 ## Current checkpoint after OFF-JP-SS01 — 2026-10-18
 
@@ -116,12 +129,12 @@ The owner authorizes continuous_sequential through frozen I1 and every required 
 | Responsibility | Current state |
 | --- | --- |
 | Primary LN witnesses | V01–V09 exact acquired Japanese editions admitted for ordered reading; all source hashes, colophons and native locator manifests verified; conversion-history limits retained |
-| Accessible supplements | Frozen18available:fourBW/KSS01–12/OFF-JP-SS01 complete17/18 only through whole introducing commits. Next OFF-JP-SS02; SS18/18 publication milestone pending. |
+| Accessible supplements | Frozen18available all complete only through whole OFF02commit:fourBW/KSS01–12/OFF-JP-SS01/OFF-JP-SS02. SS18/18 mandatory cumulative publication/integration pending. Other mandatory unavailable supplements remain gaps. |
 | Web witnesses | Kakuyomu: 431 ordered native episode snapshots and 88,232 paragraph locators retained and verified; zero narrative readings. Narō: 290-episode correspondence responsibility remains unperformed |
 | Publication extent | Official LN10 release is scheduled for October 20, 2026; it is absent from this acquired snapshot and outside the proposed V01–V09 run |
-| Literary coverage | Prior nine novels/fourBW/KSS01–12 preserved; OFF01complete121native segments63nonempty. Private savings container, contextual Sendai identity and historical separation claim; no present Miyagi access or actual future contact. |
-| Longitudinal state | Four ledgers1.17/134claimIDs463forms626props167rules. Source-disposition erratum appends current versions while retaining earlier rows. KSS11 geography remains OPEN; dedicated corpus reconciliation pending. |
-| Reconstruction | M0.13/S0.14fit/time/UNTESTED/noncurrent,13attempts18forecasts unchanged; no new validation. OFF01adds historical private-container evidence; principal/Maika/Ami/Mio monographs and full role-gap/time-bounded reconstruction duties remain required. |
+| Literary coverage | Prior nine novels/fourBW/KSS01–12/OFF01preserved; OFF02complete82native segments47nonempty. Miyagi private historical food/familymemory, conditional cooking and unfinished future; no current Sendai access or meal consumption. |
+| Longitudinal state | Four ledgers1.18/137claimIDs469forms646props167rules. Source/actor/event clocks and historical future projections separated. OFF01disposition qualification retained; KSS11 geography remains OPEN; dedicated corpus reconciliation pending. |
+| Reconstruction | M0.13/S0.14fit/time/UNTESTED/noncurrent,13attempts18forecasts unchanged; no validated domain. OFF02adds historical private meal-memory evidence; principal/Maika/Ami/Mio monographs and full role-gap/time-bounded reconstruction duties remain required. |
 | Synthesis and V1 comparison | Responsibilities/dependencies defined; no specialist, monograph, comparison findings or integrated synthesis |
 | Historical authority | V1 is preserved historical analysis and provenance; it does not supply current V2 conclusions |
 
@@ -135,7 +148,7 @@ The [source inventory](00%20Frameworks%20and%20Methods/SHUUKURA_SOURCE_INVENTORY
 | Unavailable supplemental sources | I1names51unacquired identities plus27finite discovery duties. V05afterword/earlier author notices expose thirdV04 script and V07audio identity/retrieval debt in that finite discovery scope. | AfterLN09 resolve exact titles/adaptations/duplicates, acquire legitimate complete originals/scripts/recordings and verify modality; no preview/V1/access-bypass substitution |
 | Narō correspondence / discovery completeness | N0800GA episodes 1–290 remain an unperformed source-correspondence obligation; 27 frozen author-notice records require original-story holdings and duplication reconciliation. | Complete source access/correspondence and the bounded discovery audit after independent LN freezes; keep any genuine missing sources visible. |
 
-Narrative high-water marks: **LNV09;externalSSOFF-JP-SS01;KakNONE;Narō0/290** only through whole OFF01 commitment. Available26/458;SS17/18. Next **OFF-JP-SS02**; mandatory supplement publication SS18/18 remains pending. All other frozen source/corpus duties remain active.
+Narrative high-water marks: **LNV09;externalSSOFF-JP-SS02;KakNONE;Narō0/290** only through whole OFF02commitment. Available27/458;accessibleSS18/18. Next **KAK-JP-E0001** remains unread; mandatory SS18/18publication/integration pending. All other frozen source/corpus duties remain active.
 
 ## Governing retrieval order
 
