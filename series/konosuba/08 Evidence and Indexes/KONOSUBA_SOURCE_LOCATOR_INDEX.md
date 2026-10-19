@@ -1694,3 +1694,37 @@ The [Yunyun index](KONOSUBA_YUNYUN_EVIDENCE_INDEX.md) routes18families with four
 | MAIN-14-U024 | OEBPS/Text/part0022.xhtml / 5 | ILLUSTRATION_AND_DESIGN_CREDITS;newprincipalcredit0 |
 | MAIN-14-U025 | OEBPS/Text/part0023.xhtml / 15 | COLOPHON_AND_IMPRINT;newprincipalcredit0 |
 | MAIN-14-U026 | OEBPS/Text/part0024.xhtml / 0 | BOOKWALKER_RETAILER_WRAPPER;newprincipalcredit0 |
+
+
+## MAIN-15 excluded-component accepted routes — 2026-10-19T20:16:57.387976+00:00
+
+[Register](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V15_EXCLUDED_COMPONENT_REGISTER.json), [reading](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V15_EXCLUDED_DEEP_READING.md), [voice](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V15_EXCLUDED_VOICE_REGISTER.md), [comparisons](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V15_EXCLUDED_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [qualifications](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V15_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) govern new/inherited boundaries. All19new textual resources108P/ruby/residuals and27unique native images actually received and uncoded-sealed. Seven accepted principal members3013P remain exact with zero new principal-pass credit. New57P electronic bonus『貴族スタイル』,14P creator afterword and37other notice/contents/heading/colophon/use slots. Current retained native precision recheck1088unique BASE-TEXTP across6of7units, with onlyPr44/Ep65complete; no fresh retained ruby/residual/C3whole-unit/whole-EPUB/independent reading claim. Cover/montage/main illustrations, anniversary composition, editorial profile, illustrator's note-drafting vignette, jacket biographies and NEXT16 retain distinct planes. Counts are not a global narrative denominator. Selected12premises/36writtenfragments;31principal+8party individualcomparisons/fourtypeddiagnostics/seven Iris NT and seven Yunyun full-predicate NT rows. 39explicit informed comparisons:4narrowD06/E03/E05/E07compatibilities,4partialK04/K07/D01/E01,31full-trigger-absent. Four typeddiagnostics;7IrisNT/7YunyunNT preserve original fields. Neither actor chooses in the new bonus; retained context is not a fresh trial; overlapping source-local matches are not independent validation, accuracy or confidence updates. 12appends across tenledgers/44qualifications. Supplemental19/mixed5 andMAIN01-MAIN14fullgates plusIris/Yunyuncohorts remainclosed; MAIN-15analysis accepted/publicationpending;other2mainexcluded programs remain;globalcomponentpercentage null.
+
+| Unit | Native member / slots | Disposition |
+|---|---|---|
+| MAIN-15-U001 | OEBPS/Text/cover_page.xhtml / 0 | FULL_COVER_WRAPPER_AQUA_KAZUMA;newprincipalcredit0 |
+| MAIN-15-U002 | OEBPS/Text/part0000.xhtml / 0 | DEPENDENT_CROPPED_COVER_FRONTMATTER;newprincipalcredit0 |
+| MAIN-15-U003 | OEBPS/Text/part0001.xhtml / 0 | COLOR_MONTAGE_ACCEPTED_MAIN_QUOTES;newprincipalcredit0 |
+| MAIN-15-U004 | OEBPS/Text/part0002.xhtml / 0 | COLOR_NIGHT_BALCONY_ACCEPTED_MAIN_SCENE;newprincipalcredit0 |
+| MAIN-15-U005 | OEBPS/Text/part0003.xhtml / 0 | FIFTH_ANNIVERSARY_COMMEMORATIVE_COMPOSITION;newprincipalcredit0 |
+| MAIN-15-U006 | OEBPS/Text/part0004.xhtml / 0 | RASTER_CONTENTS_ERIS_LEFT_UNJOINED_NUN_RIGHT;newprincipalcredit0 |
+| MAIN-15-U007 | OEBPS/Text/part0005.xhtml / 0 | RASTER_TITLE_IMPRINT;newprincipalcredit0 |
+| MAIN-15-U008 | OEBPS/Text/part0006.xhtml / 4 | ELECTRONIC_NOTICE_AND_RIGHTS;newprincipalcredit0 |
+| MAIN-15-U009 | OEBPS/Text/part0007.xhtml / 13 | TEXTUAL_CONTENTS;newprincipalcredit0 |
+| MAIN-15-U010 | OEBPS/Text/part0008.xhtml / 0 | RASTER_EDITORIAL_CHARACTER_PROFILE;newprincipalcredit0 |
+| MAIN-15-U011 | OEBPS/Text/part0009.xhtml / 44 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_PASS_CREDIT;newprincipalcredit0 |
+| MAIN-15-U012 | OEBPS/Text/part0010.xhtml / 505 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_PASS_CREDIT;newprincipalcredit0 |
+| MAIN-15-U013 | OEBPS/Text/part0011.xhtml / 958 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_PASS_CREDIT;newprincipalcredit0 |
+| MAIN-15-U014 | OEBPS/Text/part0012.xhtml / 548 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_PASS_CREDIT;newprincipalcredit0 |
+| MAIN-15-U015 | OEBPS/Text/part0013.xhtml / 520 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_PASS_CREDIT;newprincipalcredit0 |
+| MAIN-15-U016 | OEBPS/Text/part0014.xhtml / 373 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_PASS_CREDIT;newprincipalcredit0 |
+| MAIN-15-U017 | OEBPS/Text/part0015.xhtml / 65 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_PASS_CREDIT;newprincipalcredit0 |
+| MAIN-15-U018 | OEBPS/Text/part0016.xhtml / 14 | CREATOR_AFTERWORD_AND_ILLUSTRATOR_NOTE_DRAFTING_VIGNETTE;newprincipalcredit0 |
+| MAIN-15-U019 | OEBPS/Text/part0017.xhtml / 0 | NEXT16_PROMOTIONAL_STAGED_HOUSEHOLD_SCRIPT;newprincipalcredit0 |
+| MAIN-15-U020 | OEBPS/Text/part0018.xhtml / 2 | SEPARATE_ELECTRONIC_BONUS_HEADING;newprincipalcredit0 |
+| MAIN-15-U021 | OEBPS/Text/part0019.xhtml / 57 | SEPARATE_ELECTRONIC_BONUS_FICTION;newprincipalcredit0 |
+| MAIN-15-U022 | OEBPS/Text/part0020.xhtml / 0 | FULL_WRAP_JACKET_BIOGRAPHIES_AND_BLURB;newprincipalcredit0 |
+| MAIN-15-U023 | OEBPS/Text/part0021.xhtml / 15 | COLOPHON_AND_IMPRINT;newprincipalcredit0 |
+| MAIN-15-U024 | OEBPS/Text/part0022.xhtml / 3 | USE_AND_RIGHTS_NOTICE;newprincipalcredit0 |
+| MAIN-15-U025 | OEBPS/Text/part0023.xhtml / 0 | BOOKWALKER_RETAILER_WRAPPER;newprincipalcredit0 |
+| MAIN-15-U026 | OEBPS/Text/nav.xhtml / 0 | NONSPINE_NAVIGATION_RESOURCE_WITH_16_NON_P_STRINGS;newprincipalcredit0 |
