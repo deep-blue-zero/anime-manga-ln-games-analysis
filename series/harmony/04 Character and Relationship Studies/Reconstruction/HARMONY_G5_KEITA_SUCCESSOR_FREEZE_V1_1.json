@@ -1,0 +1,24 @@
+{
+  "schema": "harmony-g5-successor-freeze/v1",
+  "frozen_utc": "2026-10-19T04:38:00.081407+00:00",
+  "original_freeze_commit": "6286a941b34736ec76ade2062928e6070405f1e9",
+  "reason": "Keita own-paper positive knowledge omitted; actual adaptive overabstention against U009-E010/E011",
+  "files": [
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_KEITA_RECONSTRUCTION_MODEL.md",
+      "sha256": "1440d21b5b8cab9a0f1c8d9432b446fef667426ed794bac2214f6b13fa1ca631",
+      "bytes": 5959
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_G5_KEITA_ORIGINAL_V1.json",
+      "sha256": "0280deba21119e3f38de039b5bf19f5ba5e137480b18cbcaee63140ba4e44c9e",
+      "bytes": 4958
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/Interactive/scenarios_keita_successor.json",
+      "sha256": "a0b73554747fc3aaa5fdcbf8aeffca979cbd492ee02c1d6b39d9928eef5bf6bc",
+      "bytes": 2742
+    }
+  ],
+  "evaluation_at_freeze": "KEITA_SUCCESSOR_RERUN_NOT_PERFORMED"
+}

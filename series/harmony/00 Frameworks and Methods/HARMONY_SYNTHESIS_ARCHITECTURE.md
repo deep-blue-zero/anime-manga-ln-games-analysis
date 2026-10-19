@@ -5,13 +5,13 @@ artifact_type: synthesis_architecture
 series: Harmony / ハーモニー
 series_id: harmony
 generation: HARMONY_BOOTSTRAP_V1
-version: '0.24'
+version: '0.25'
 status: active_provisional
 scope: Synthesis architecture and reconstruction specification
 source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U020 interstice34 text/part0013.html and actual epilogue heading35/body36 text/part0015.html through2171rawbodycp/literal body-etml closure; ancillary37–40 classified excluded; all40spine occurrences accounted; next source NONE
 canonical_home: series/harmony/00 Frameworks and Methods/HARMONY_SYNTHESIS_ARCHITECTURE.md
 created: '2026-10-16'
-review_status: G2_RECONCILIATION_SEMANTIC_ACCEPTED_2026_10_17
+review_status: G4_G5_INDEPENDENTLY_ACCEPTED_G6_SEPARATE
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -164,3 +164,12 @@ G3 is IN_PROGRESS at the first reviewed three-artifact batch. G1/G2 remain compl
 **Final G3 architecture/role-gap review — 2026-10-18.** The authorized four specialist responsibilities and six character studies are now substantively complete after independent same-novel source/semantic review and cross-study convergence. The [G3 handoff](../07%20Audits%20and%20Handoffs/HARMONY_G3_CONVERGENCE_AND_HANDOFF.md#final-g3-substantive-convergence-and-role-gap-disposition) records the actual responsibilities, counterevidence, nonredundancy and source/claim-level dependencies. Keita, Reiko, Uwe and Gabriel receive supported integrated portraits; other subjects retain their actor-owner dispositions. No mandatory G3 gap requires an additional file, model, registry or source acquisition. The original three cumulative owners, evidence IDs and frozen G1/G2 histories remain in place, with one attributable historical wording erratum rather than a frozen-byte rewrite.
 
 G3 is COMPLETE for the admitted exact witness. G4 is READY_FOR_HANDOFF but NOT_STARTED; G5 evidence/readiness handoff is ready but model construction and validation are NOT_STARTED/NOT_PERFORMED and outside this task; G6 remains NOT_STARTED. The ten studies are dependencies of future G4/G5 work, not substitutes for those distinct responsibilities. The architecture remains EVOLVING with its established responsibility graph. Source admission remains completed/NONE; this retrospective completion creates no new narrative or protected-main merge permission.
+
+
+## 11. G4–G5 realization and final-release handoff
+
+The owner's new instruction authorizes the established responsibilities for the complete admitted Japanese witness. The [integrated novel argument](../06%20Novel%20Synthesis/HARMONY_INTEGRATED_NOVEL_SYNTHESIS.md) is a substantial original G4 synthesis, independently accepted with an attributable Reiko-warning precision correction. It integrates rather than joins the four specialists/six portraits and preserves the affirmative ending, actual medical benefits, Tuan's compromises and strongly supported alternatives. Its argument supplies no additional behavioral evidence.
+
+The existing §5 contract now has ten conditional models and explicit individual dispositions for all30subjects. [Protocol/coverage](../04%20Character%20and%20Relationship%20Studies/Reconstruction/HARMONY_RECONSTRUCTION_PROTOCOL_AND_COVERAGE.md) distinguishes one multicontext, five bounded and four narrower models from20no-model subjects. [Validation/error analysis](../04%20Character%20and%20Relationship%20Studies/Reconstruction/HARMONY_G5_VALIDATION_AND_ERROR_ANALYSIS.md) records32source-exposed retrospective cases and96actualresponses in15distinctsessions, independent adaptive questioning, five warranted semantic successors, a runtime pronoun error and the full original failure record. Current selection and exact tested versions are externally hash-bound; publication-only metadata corrections do not silently become tested full-file revisions.
+
+The responsibility graph remains adequate and EVOLVING: one canonical synthesis, reconstruction under the existing character-study home, reviews under reconstruction/audits and the same three cumulative owners. There is no new ledger, identity registry or competing entrypoint. G1 readings, G2 historical rows, claims and prospective frontiers remain unchanged. G6 is a separate independent cross-gate/source/name/model/synthesis review; semantic closure does not itself perform protected-main integration. Source admission remains completed/NONE and no comparison or narrative witness is added.
