@@ -5,7 +5,7 @@ artifact_type: corpus_map
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.25"
+version: "1.26"
 status: active_provisional
 scope: "Single current entrypoint for a material analytical restart at the continuing Shuukura root"
 source_boundary: "Frozen I1; LN01–09/fourBW/KSS01–12/OFF01–02 and KAK-JP-E0001–E0004 only through complete atomic commits; E0005+ and V1 unread; LN10 excluded"
@@ -47,12 +47,12 @@ sequential_execution:
   committed_high_water_mark: KAK-JP-E0004
   next_candidate_operation: KAK-JP-E0005
   confirmation_between_units: false
-  run_state: active
+  run_state: interrupted_pending_recovery
   inventory_freeze_state: FROZEN_AVAILABLE_UNITS_AND_EXPLICIT_MANDATORY_GAPS
   terminal_definition: "Every eligible primary narrative unit and required supplement in the verified kickoff inventory across the admitted lanes; then all required reconciliation, monographs, specialists, reconstruction, V1 comparison, integrated synthesis and release audits. No automatic future releases."
-  authorization_record: "08 Audits and Handoffs/SHUUKURA_BOOTSTRAP_RECEIPT.md#continuous-execution-kickoff-and-recovery"
+  authorization_record: "08 Audits and Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md#owner-requested-pause-after-e0004-publication"
 analytical_execution:
-  authorization: OWNER_DIRECTED_E0004_COMPLETION_PUBLICATION_AND_PAUSE_HANDOFF_ONLY_NO_E0005_ADMISSION
+  authorization: OWNER_PAUSED_AFTER_E0004_PUBLICATION_RESUMPTION_REQUIRED
   sequential_units_admitted: 31
   sequential_units_completed: 31
   committed_narrative_high_water_mark: KAK-JP-E0004
@@ -61,7 +61,7 @@ repository_state:
   stable_branch: series/shuukura
   routing_input: series/shuukura/.repository/series-registry.json
   materialization_status: PRESENT_UNREVIEWED
-  main_integration: E0003_CLOSED_ON_GREEN_MAIN_E0004_LOCAL_PENDING_PUBLICATION
+  main_integration: E0004_CLOSED_ON_GREEN_MAIN_OWNER_PAUSED_PENDING_RECOVERY
   integration_hold_required: NONE_FOR_COMPLETED_BOOTSTRAP
 ---
 
@@ -72,6 +72,18 @@ This is the single V2 first-read surface for **週に一度クラスメイトを
 `SEQUENTIAL_ANALYSIS_LOCK = OPEN`
 
 `NEXT_PERMITTED_OPERATION = KAK-JP-E0005`
+
+## Current owner-requested pause after E0004 publication
+
+The owner's latest instruction is to finish the current E0004 analysis, publish it upstream, then pause. E4 now has the separately verified green-main publication above. Analytical execution is **interrupted_pending_recovery**, with authorization **OWNER_PAUSED_AFTER_E0004_PUBLICATION_RESUMPTION_REQUIRED**. No E0005 primary reading, new analytical unit, source discovery or synthesis begins without explicit owner resumption and recovery of the live committed state. Finishing review/publication of this administrative pause record remains part of the requested closeout.
+
+E0004 is CLOSED_ON_GREEN_MAIN: actual source `15aa72e2ae722381de8a77c2760948d9b67b02bd`, [PR242](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/242), protected main `c1791859155f1379d4afedc7b0b60ce66505f840` and equal whole-repository tree `71dc273cfe701202874e6365b3f4cf6dab103e90`. Source audit 39210992135 → housekeeping 39211547478 (NO_OP) → final actual-source audit 39211588557; owner controller 39209329812 records VERIFIED_OWNER_ONLY/merged_verified. The mandatory fresh owner-dispatched exact-main audit 39212164293 succeeded, separately from the ordinary main-push audit. Ordinary local reconciliation `e2839abdd4ce6a1ffda81c22887c6847ecf34496` preserves the complete analytical tree. The verified private E4 closure receipt binds actual targets, trusted statuses and source/main blob equality; no earlier run substitutes for this chain. This closes E4 publication only.
+
+The gate remains OPEN as a valid architectural foundation. The unchanged E0005 next-operation fields and configured continuous mode are recovery routing only, not current permission. Original start LN-JP-V01, terminal SHUUKURA-V2-20261017-I1 and the complete I1 membership/hash remain intact. This is an owner-requested interruption, not completed/NONE, a run-stop seal or terminal closure. All E4-era active statements remain true as of their historical acceptance/publication preparation; this later instruction governs present continuation.
+
+Committed analytical high-water remains KAK-JP-E0004: LN9/9, accessible supplements18/18, Kakuyomu4/431, Narō correspondence0/290 and available31/458. No count or source identity advances in this administrative record. All51 mandatory source gaps,27 discovery duties, 290 Narō correspondences, modality obligations, G3 reconciliation, required Miyagi/Sendai/Maika/Ami/Mio monographs and justified role-gap review, both specialists, domain-specific reconstruction/testing/abstention, later post-freeze V1 comparison, integrated synthesis and G7 release audit remain required. M0.13/S0.14 remain draft_noncurrent/UNTESTED, with zero validated domains;18 forecasts/13 historical attempts and all failures/ties/exposure limits remain unchanged. Both OFF evidence archives remain local.
+
+The [current pause authority checkpoint](08%20Audits%20and%20Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md#owner-requested-pause-after-e0004-publication) owns this later instruction. The metadata-only pause commit and its publication are separate from the already verified E4 analytical commit; no future commit hash is invented.
 
 ## Current checkpoint after KAK-JP-E0004 — 2026-10-19
 
@@ -226,7 +238,7 @@ The [source inventory](00%20Frameworks%20and%20Methods/SHUUKURA_SOURCE_INVENTORY
 | Unavailable supplemental sources | I1names51unacquired identities plus27finite discovery duties. V05afterword/earlier author notices expose thirdV04 script and V07audio identity/retrieval debt in that finite discovery scope. | AfterLN09 resolve exact titles/adaptations/duplicates, acquire legitimate complete originals/scripts/recordings and verify modality; no preview/V1/access-bypass substitution |
 | Narō correspondence / discovery completeness | N0800GA episodes 1–290 remain an unperformed source-correspondence obligation; 27 frozen author-notice records require original-story holdings and duplication reconciliation. | Complete source access/correspondence and the bounded discovery audit after independent LN freezes; keep any genuine missing sources visible. |
 
-Narrative high-water marks: **LNV09; externalSSOFF-JP-SS02; KakE0004; Narō0/290** only through the whole E0004 commit. Available31/458; next **KAK-JP-E0005** unread. E0003 publication is CLOSED_ON_GREEN_MAIN; E0004 publication remains separate. All fixed-I1 source and architecture duties remain active.
+Narrative high-water marks: **LNV09; externalSSOFF-JP-SS02; KakE0004; Narō0/290** remain unchanged after the whole E0004 commit. Available31/458. E0004 is CLOSED_ON_GREEN_MAIN; execution is interrupted_pending_recovery at the owner’s direction. **KAK-JP-E0005 is an unread recovery candidate only; explicit owner resumption is required.** All fixed-I1 source and G3–G7 duties remain required.
 
 ## Governing retrieval order
 
