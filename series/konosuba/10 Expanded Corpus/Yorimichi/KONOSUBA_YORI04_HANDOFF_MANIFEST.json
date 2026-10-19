@@ -1,0 +1,93 @@
+{
+  "schema": "KONOSUBA_YORI04_DERIVATIVE_CANDIDATE_MANIFEST_V1",
+  "created_utc": "2026-10-19T03:57:28.974898+00:00",
+  "source_id": "YORI-04",
+  "current_baseline_commit": "dd778d4e57b2b898990f543cb7d46ce54648ff8b",
+  "canonical_directory": "series/konosuba/10 Expanded Corpus/Yorimichi",
+  "files_excluding_this_manifest": [
+    {
+      "name": "KONOSUBA_YORI04_COMPONENT_REGISTER.json",
+      "bytes": 277653,
+      "sha256": "3b3c5ca579e021301b5f0bbf91787481fa8883ee67e96e48acd20b4f3a9563cb"
+    },
+    {
+      "name": "KONOSUBA_YORI04_DEEP_READING.md",
+      "bytes": 50978,
+      "sha256": "d295fdc9625142e43c9117700cd0b0d86186b0bfb8be4b991602f9c9b403a5d8"
+    },
+    {
+      "name": "KONOSUBA_YORI04_HUMOR_REGISTER.json",
+      "bytes": 104386,
+      "sha256": "e63d784fc2d1c72617697f7e4d2009032ffffb6b6017b8388be5fe370749b5ac"
+    },
+    {
+      "name": "KONOSUBA_YORI04_VOICE_REGISTER.json",
+      "bytes": 196772,
+      "sha256": "5da8306d1be56f3d4c81291cc613cb4be13aaa9784e4b4f52dc20cafe66f39f9"
+    },
+    {
+      "name": "KONOSUBA_YORI04_EXPLORATORY_LOCAL_ASSESSMENTS.json",
+      "bytes": 252222,
+      "sha256": "ff88a03e36e1c347b688d3fdade0d8f4874d84e27743a75a552e35e170511dfd"
+    },
+    {
+      "name": "KONOSUBA_YORI04_CURRENT_PRECISION_QUALIFICATIONS.json",
+      "bytes": 12682,
+      "sha256": "717e16c7c444b5d7f1cf8ed8f854ddfb0feab6289b76c0f98e6cbf5e9a9defd6"
+    },
+    {
+      "name": "KONOSUBA_YORI04_LEDGER_APPEND_DECISIONS.json",
+      "bytes": 31440,
+      "sha256": "316872bdba0104961dc286db1465c59ed8565a054069e62d89c7498dcc2cfa8e"
+    },
+    {
+      "name": "KONOSUBA_YORI04_INITIAL_AUTHOR_UNCODED_SEAL.json",
+      "bytes": 11700,
+      "sha256": "787a2a35f08924ca1048f9921e106647702e4e741d65e94ea0d4835fce52d797"
+    },
+    {
+      "name": "KONOSUBA_YORI04_ROOT_PRE_BODY_PREPARATION_SEAL.json",
+      "bytes": 175266,
+      "sha256": "091522ceb5cc15fa1c7f91d4dbb1cc4bed6c34db36e47271fe9f3f43c13146c5"
+    },
+    {
+      "name": "KONOSUBA_YORI04_ORIGINAL_UNCODED_TEXT_NOTES.jsonl",
+      "bytes": 165647,
+      "sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0"
+    },
+    {
+      "name": "KONOSUBA_YORI04_ORIGINAL_UNCODED_IMAGE_NOTES.jsonl",
+      "bytes": 22250,
+      "sha256": "614e7d4be1a9ad7223e0bc7476f93662e27b1fa22382c051f73c40a17e893a73"
+    },
+    {
+      "name": "KONOSUBA_YORI04_COMPONENT_ANALYSIS.md",
+      "bytes": 16552,
+      "sha256": "6ee99c633a446358d8b57a22c5bdbb655c5bfebf719c19807bcd4eaefc20f061"
+    },
+    {
+      "name": "KONOSUBA_YORI04_HUMOR_REGISTER.md",
+      "bytes": 53258,
+      "sha256": "f232b5cb5cb3a97760f5269ef4ac7a3fcd6d0da6facf9d0860109d3a47d2e2e5"
+    },
+    {
+      "name": "KONOSUBA_YORI04_VOICE_REGISTER.md",
+      "bytes": 47103,
+      "sha256": "05e6f40ea63c2e159037e933c5229ca683ae1ebab5567b98a14f64dde5de79e5"
+    },
+    {
+      "name": "KONOSUBA_YORI04_SOURCE_AND_READING_RECEIPT.json",
+      "bytes": 8483,
+      "sha256": "14bf3f091f7f4cccfc806bacf51ff33af6c8207532c6dfdd445398e2a6efbdb2"
+    },
+    {
+      "name": "KONOSUBA_YORI04_RECEIVING_AND_PROVENANCE.json",
+      "bytes": 27339,
+      "sha256": "1a9c6ce80e5b22dc791d92ba52cbdd5dd669f13ea54b16ee8ee5e69b1383c45c"
+    }
+  ],
+  "status": "ACCEPTED_AT_STATED_SCOPES_CONTAINING_PUBLICATION_PENDING",
+  "native_epub_or_full_native_story_text_not_published": true,
+  "original_uncoded_derivative_notes_published_exact_not_native_source": true,
+  "frozen66_historical72_scores4_original14blanks_exact": true
+}

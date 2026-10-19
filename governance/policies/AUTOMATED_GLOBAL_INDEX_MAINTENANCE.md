@@ -8,7 +8,7 @@ The trusted default-branch workflow `.github/workflows/global-index-housekeeping
 - `studies/README.md`
 - `governance/MANGA_ANIME_CORPUS_INDEX.md`
 
-Every other path is read-only to housekeeping, including `characters/registry.jsonl` and `CHARACTER_ANALYSIS_INDEX.md`. The character curation agent exclusively maintains those two files under `CHARACTER_DISCOVERY_MAINTENANCE.md`. Housekeeping must not regenerate the character index, normalize the character registry, or apply character upserts.
+Every other path is read-only to housekeeping, including `characters/registry.jsonl` and `CHARACTER_ANALYSIS_INDEX.md`. The character curation agent exclusively maintains those two files under `CHARACTER_DISCOVERY_MAINTENANCE.md`. Housekeeping must not regenerate the character index, normalize the character registry, or apply character upserts. The reconstruction outputs `characters/reconstruction_capabilities.jsonl` and `characters/CHARACTER_RECONSTRUCTION_INDEX.md` are neither writable by housekeeping nor admitted on a stable analytical branch; a source change that makes an assessment stale integrates without a capability update.
 
 The machine-readable boundary is `governance/repository-controls/global-index-automation-policy.json`, schema v2. The synchronizer produces only series/study registry outputs. The workflow stages only the five routing outputs, and the repository audit validates this boundary independently.
 

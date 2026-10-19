@@ -1,0 +1,98 @@
+{
+  "schema": "KONOSUBA_YUNYUN_SYNTHETIC_CAUSAL_RECEIVING_01",
+  "reviewer": "Same informed continuing root after actually authored outputs; no independent reviewer or source validation.",
+  "scope": "All16 preserved outputs in8fixed pairs. This is a causal/scope audit with explicit underidentification, not a success-rate estimate.",
+  "pairs": [
+    {
+      "id": "YSC01",
+      "causal_receiving": "A changes hesitation into preparation after a trusted actual fitted role. B pauses at permanent obligation and asks about its terms while retaining bounded help. A is the full D01 instance; B is a scope contrast.",
+      "voice": "A polite entry becomes a direct useful question. B does not imitate the MAIN16 refusal mechanically.",
+      "limit": "B's eventual permanent decision is not identified; the output's negotiation is one plausible branch, not a new rule to accept or refuse Kazuma."
+    },
+    {
+      "id": "YSC02",
+      "causal_receiving": "Both responses engage warmly. A discloses wanted company early; B retains the previously known destination boundary and proposes a smaller local contact.",
+      "voice": "The hesitation tracks a specific known cost instead of making every stranger frightening.",
+      "limit": "D06 still rests on one concentrated native refusal. The hypothetical local alternative and every unknown traveler reaction have zero source credit; no global distrust or fear diagnosis."
+    },
+    {
+      "id": "YSC03",
+      "causal_receiving": "A carries out a requested practical protection. B performs the stipulated helpful mechanism over the recipient's explicit objection and apologizes without erasing the lost choice.",
+      "voice": "Serious urgency sharpens speech without comic belittlement.",
+      "limit": "The source permits protective coercion but does not uniquely predict it whenever a friend refuses. B is a plausible but underidentified branch; no claim that either agreement or refusal ceases to matter. The final model must state that D03 predicts a protective response more securely than the choice among urging, substitution, or override."
+    },
+    {
+      "id": "YSC04",
+      "causal_receiving": "A makes a peak-spectacle comparison and favors more training; B registers specific causal praise yet still keeps training goals. Real enabling work does not change across the pair.",
+      "voice": "B's surprised question avoids an instant confident-personality replacement.",
+      "limit": "Recognition sensitivity is an unvalidated plausible mechanism. The source has admiration, repeated help, selective praise and actual child thanks in one linked sequence, not a controlled no-praise versus praise experiment. No new confirmation or confidence gain for D04. A simulator must also permit residual self-doubt despite accurate praise."
+    },
+    {
+      "id": "YSC05",
+      "causal_receiving": "A corrects a known loan-to-gift misrepresentation and requests return; B treats the same retained object as a freely given gift. The permission history changes the response.",
+      "voice": "A's sharper correction differs from B's pleased practical explanation.",
+      "limit": "A includes an invented laughter continuation by Megumin. That is generated ensemble behavior rather than a measured Yunyun-only consequence; it cannot validate independent counterpart behavior. The first request/correction precedes that added line, so the core contrast does not rely on it."
+    },
+    {
+      "id": "YSC06",
+      "causal_receiving": "A performs arithmetic/coordination within stipulated familiar capacity; B reports the mismatch and asks for a real additional option without generating a resource or completed evacuation.",
+      "voice": "Clear operational speech is permitted despite anxiety.",
+      "limit": "The arithmetic is explicit in the input and therefore an easy consistency check. It provides no evidence of original tactical discovery, broad planning superiority, or independent D07 validation. Selection of a person to remain is not identified."
+    },
+    {
+      "id": "YSC07",
+      "causal_receiving": "A accepts a learned manual role and checks missing details; B retains willingness while declining to invent encrypted-storage expertise and offers a familiar supporting job.",
+      "voice": "Transferred polite entry and concrete usefulness carry function without Japanese catchphrase spam.",
+      "limit": "Library work is hypothetical. Supporting tasks and escalation to an expert are sensible bounded candidates, not proven canonical habits or a universal technical-safety ethic. No acquired electronics knowledge."
+    },
+    {
+      "id": "YSC08",
+      "causal_receiving": "A chooses company when qualification is unaffected; B favors negotiating an achievement-preserving meeting rather than instantly accepting the honorary title.",
+      "voice": "B includes hesitation and appreciation instead of effortless moral rhetoric.",
+      "limit": "The final choice under a real irreversible loss of company remains underidentified. B must not become an absolute honest-achievement-over-friends prediction; MAIN14's explicit company counterweight survives."
+    }
+  ],
+  "findings": [
+    "Distinct triggers can produce preparation, refusal, negotiation, firm correction or uncertain future choice without making Yunyun uniformly passive or assertive.",
+    "Concern is compatible with control; a successful stipulated protective mechanism does not establish ethically adequate conduct.",
+    "D04 comparative weighting and D06 destination boundary remain LOW; no rule is promoted by this exercise.",
+    "Generated counterpart continuation, explicit arithmetic, and source-near contrasts reduce evidentiary independence and difficulty.",
+    "Two particularly uncertain axes remain: selecting a protective method over an explicit refusal, and ranking achievement against a genuinely lost relationship opportunity.",
+    "The transfer examples check unsupported-skill restraint and functional voice but cannot establish real-world competence or predictive reliability."
+  ],
+  "revision_decisions": [
+    {
+      "target": "Model draft02: synthetic receiving appendix",
+      "decision": "Explicitly distinguish protective action from underidentified method selection, and retain both praise sensitivity and residual self-doubt as plausible branches."
+    },
+    {
+      "target": "Model draft02: goal hierarchy appendix",
+      "decision": "Keep company-versus-earned-achievement priority unresolved in novel forced tradeoffs; do not universalize the one generated negotiation."
+    },
+    {
+      "target": "Monograph draft02: review limits appendix",
+      "decision": "Document same-author16outputs/8pairs, no independent or source-test credit, and the actual weaknesses without a numerical score."
+    }
+  ],
+  "actual_outputs": 16,
+  "fixed_pairs": 8,
+  "independent_or_source_validation_credit": 0,
+  "statistical_score": null,
+  "confidence_increase": false,
+  "all_inputs_outputs_and_draft01_preserved": true,
+  "reviewed_utc": "2026-10-19T13:12:06.572166+00:00",
+  "input_pins": [
+    {
+      "file": "KONOSUBA_YUNYUN_RECONSTRUCTION_MODEL_DRAFT_01.md",
+      "sha256": "123d75896c63d49a25e5ac0d861155218c3206810556c7ab48d77169707c5f79"
+    },
+    {
+      "file": "YUNYUN_SYNTHETIC_SCENARIO_CONTRACTS_01.json",
+      "sha256": "4a840af5c8dd78f0f14428f3656f76aa7ed521ea1d34369b288bc2955d5d5c3f"
+    },
+    {
+      "file": "YUNYUN_ACTUAL_SYNTHETIC_OUTPUTS_01.json",
+      "sha256": "2d7ff9f7941b99ab54ee13edf8293ca3b41f627343e99f9dd713102145b70729"
+    }
+  ]
+}

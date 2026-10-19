@@ -1,0 +1,1741 @@
+{
+  "schema": "KONOSUBA_YORI02_SELECTED_WHOLE_PREMISE_REGISTER_V1",
+  "created_utc": "2026-10-19T00:53:31.463685+00:00",
+  "source_id": "YORI-02",
+  "H_protocol": "H1 literal source-compatible conduct; H2 bounded amplification; H3 local-punchline behavior that cannot safely generalize; H4 actual nonliteral behavioral license. Fantasy, deception, performance, survival and uncertain motive/cause alone do not establish H3/H4. These selected whole effects are H1; this does not declare every sentence or every intensity literal.",
+  "L_protocol": "L0 portable proposition; L1 material phrasing/rhythm; L2 pragmatics/register/recipient force; L3 central Japanese form needing reconstruction/annotation. Ordinary idiom, ruby, a cultural reference or a spell name alone does not establish L3.",
+  "selected_record_count": 86,
+  "counts_describe_selected_records_only": {
+    "H": {
+      "H1": 86
+    },
+    "L": {
+      "L2": 82,
+      "L3": 3,
+      "L0": 1
+    }
+  },
+  "no_population_denominator_or_accuracy_score": true,
+  "records": [
+    {
+      "id": "YORI02-WHOLE-H001",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "d8574291fd3d1c4231eba73b3d406cc6d9d95bedb2dbf8ba8b5eb6f6221b145a",
+        "start_P": 9,
+        "end_P": 51
+      },
+      "whole_selected_premise": "Shockwave fishing is treated as artistic insult, then the actual full-power cast brings fish and costs.",
+      "primary_L": "L2",
+      "L_rationale": "The dispute concerns the use and dignity of M's art, not inability to hit a lake.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "K's power warning is interrupted before the cast; quota success51 does not erase wave/crater costs.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H002",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "d8574291fd3d1c4231eba73b3d406cc6d9d95bedb2dbf8ba8b5eb6f6221b145a",
+        "start_P": 41,
+        "end_P": 58
+      },
+      "whole_selected_premise": "Grateful appraisal of K's uncomplaining carry is withdrawn after his unwanted remark.",
+      "primary_L": "L2",
+      "L_rationale": "M's first-person retraction explicitly changes the value of the same interaction.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Her family/upbringing explanation is a guess, not K's established biography.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H003",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "d8574291fd3d1c4231eba73b3d406cc6d9d95bedb2dbf8ba8b5eb6f6221b145a",
+        "start_P": 63,
+        "end_P": 90
+      },
+      "whole_selected_premise": "D rejects efficient scouting because the ambush experience is itself desired.",
+      "primary_L": "L2",
+      "L_rationale": "The defensive-experience motive is explicit before charging, unlike the earlier YORI01 qualified case.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "A chosen initial ordeal does not authorize a later unwanted condition.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H004",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "d8574291fd3d1c4231eba73b3d406cc6d9d95bedb2dbf8ba8b5eb6f6221b145a",
+        "start_P": 96,
+        "end_P": 112
+      },
+      "whole_selected_premise": "The wanted ordeal changes into an explicit rescue request, while K blocks another helper.",
+      "primary_L": "L2",
+      "L_rationale": "The new clothing-damage boundary and repeated request are actually voiced.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "No injury threshold or later pleasure erases refusal; exact final rescue is elided.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H005",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "d8574291fd3d1c4231eba73b3d406cc6d9d95bedb2dbf8ba8b5eb6f6221b145a",
+        "start_P": 118,
+        "end_P": 139
+      },
+      "whole_selected_premise": "A controlled day-end casting plan is interrupted by actual pet abduction and a respectful reply to Wolbach's name.",
+      "primary_L": "L2",
+      "L_rationale": "Different received premises explain M's recognition and K's chase.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Collar shopping is requested, not a completed purchase; abductor remains unnamed.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H006",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "d8574291fd3d1c4231eba73b3d406cc6d9d95bedb2dbf8ba8b5eb6f6221b145a",
+        "start_P": 140,
+        "end_P": 170
+      },
+      "whole_selected_premise": "K turns a retrieval into public pursuit with false bounty and harmlessness claims.",
+      "primary_L": "L2",
+      "L_rationale": "M's informed concern contrasts with recruited civilians' account.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "K's exact earlier demon knowledge is not shown; no backdated known monster danger.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H007",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "d8574291fd3d1c4231eba73b3d406cc6d9d95bedb2dbf8ba8b5eb6f6221b145a",
+        "start_P": 171,
+        "end_P": 187
+      },
+      "whole_selected_premise": "D supplies scandalous hostage demands that the actual abductor repeatedly denies.",
+      "primary_L": "L2",
+      "L_rationale": "The source of the alleged demand is corrected in dialogue.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "No sexual act or demand is credited to the abductor; critical non-graphic account only.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H008",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "d8574291fd3d1c4231eba73b3d406cc6d9d95bedb2dbf8ba8b5eb6f6221b145a",
+        "start_P": 190,
+        "end_P": 222
+      },
+      "whole_selected_premise": "A successful Steal removes the knife without releasing D, and defense praise becomes an unwanted idiom insult.",
+      "primary_L": "L2",
+      "L_rationale": "Actual effects and D's correction of thick-skin wording have different scopes.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Knife retrieval is not complete hostage resolution or global safe operation.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H009",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "d8574291fd3d1c4231eba73b3d406cc6d9d95bedb2dbf8ba8b5eb6f6221b145a",
+        "start_P": 226,
+        "end_P": 246
+      },
+      "whole_selected_premise": "M stops Aqua's real exorcism when Chom's weakness makes its effect threatening.",
+      "primary_L": "L2",
+      "L_rationale": "Concern, uncertain cause, request and actual stop occur in order.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Rough travel and sacred magic are competing causes; no unique diagnosis from appearance.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H010",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "d8574291fd3d1c4231eba73b3d406cc6d9d95bedb2dbf8ba8b5eb6f6221b145a",
+        "start_P": 247,
+        "end_P": 283
+      },
+      "whole_selected_premise": "Being assigned valued firepower turns M's awkward dependency into a felt place in the party.",
+      "primary_L": "L2",
+      "L_rationale": "K's actual role recognition precedes M's grateful first-person belonging.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Bag stolen before cast; D shields Aq, but enemy death, full geometry and final carry remain unshown.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H011",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "f0c5edba29c92458a6241c651d31109cd2bad621ec3f9fc90078ea686eded825",
+        "start_P": 8,
+        "end_P": 16
+      },
+      "whole_selected_premise": "New-world visitors treat ordinary vehicles as monsters while Aqua supplies names with suspect mechanics.",
+      "primary_L": "L2",
+      "L_rationale": "K's familiar-world knowledge differs from companions' received explanations.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Local misunderstanding does not establish every Aqua statement as deliberate deception.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H012",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "f0c5edba29c92458a6241c651d31109cd2bad621ec3f9fc90078ea686eded825",
+        "start_P": 32,
+        "end_P": 54
+      },
+      "whole_selected_premise": "An expensive memory-erasing trip is refused until its destination is named Japan, then immediately bought.",
+      "primary_L": "L2",
+      "L_rationale": "The destination changes K's choice despite previously received cost and memory rule.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Actual purchase/use and narrated visit; no dream or illusion assumption.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H013",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "f0c5edba29c92458a6241c651d31109cd2bad621ec3f9fc90078ea686eded825",
+        "start_P": 65,
+        "end_P": 82
+      },
+      "whole_selected_premise": "Limited yen prompts an ATM-Steal proposal that K stops, followed by actual cheap-food delight.",
+      "primary_L": "L2",
+      "L_rationale": "Advice, refusal and ordinary eating are different acts.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "No ATM theft, gold exchange or exact real-world menu/price recommendation.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H014",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "f0c5edba29c92458a6241c651d31109cd2bad621ec3f9fc90078ea686eded825",
+        "start_P": 98,
+        "end_P": 114
+      },
+      "whole_selected_premise": "Aqua's sophisticated train pose becomes a caught scarf and requires ordinary station help.",
+      "primary_L": "L2",
+      "L_rationale": "Public composure and new practical dependency reverse within the same action.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Employee actually rescues; D/M also try; not sole K rescue or inability to know trains.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H015",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "f0c5edba29c92458a6241c651d31109cd2bad621ec3f9fc90078ea686eded825",
+        "start_P": 119,
+        "end_P": 132
+      },
+      "whole_selected_premise": "A recorded vending voice is accepted as an unseen worker despite initial objections.",
+      "primary_L": "L2",
+      "L_rationale": "The joke uses mistaken attribution of a real recording, not an actual person in the machine.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "K distances himself; no magical consciousness or literal license inferred.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H016",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "f0c5edba29c92458a6241c651d31109cd2bad621ec3f9fc90078ea686eded825",
+        "start_P": 141,
+        "end_P": 160
+      },
+      "whole_selected_premise": "D's pride at being scouted becomes distress when the proposed adult job is explained.",
+      "primary_L": "L2",
+      "L_rationale": "Actual disclosure changes the meaning of the offer and her response.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "No accepted job or intimate act; K's numerical age guesses are not verified.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H017",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "f0c5edba29c92458a6241c651d31109cd2bad621ec3f9fc90078ea686eded825",
+        "start_P": 162,
+        "end_P": 179
+      },
+      "whole_selected_premise": "M tries to rescue game characters, then photographers misread her true origin as committed roleplay.",
+      "primary_L": "L2",
+      "L_rationale": "K's intervention and strangers' genre frame differ from M's own account.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "No screen damage; photographic participation does not validate every mistaken premise.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H018",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "f0c5edba29c92458a6241c651d31109cd2bad621ec3f9fc90078ea686eded825",
+        "start_P": 183,
+        "end_P": 196
+      },
+      "whole_selected_premise": "Real game skill is performed for an admiring companion while a deflating expert is kept away.",
+      "primary_L": "L2",
+      "L_rationale": "Audience-specific account management follows actual twenty-one wins.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Not proof of universal combat skill or an equivalent-person attachment test.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H019",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "f0c5edba29c92458a6241c651d31109cd2bad621ec3f9fc90078ea686eded825",
+        "start_P": 197,
+        "end_P": 208
+      },
+      "whole_selected_premise": "D's frustrated machine blow calls forth K's civil explanation and practical removal.",
+      "primary_L": "L2",
+      "L_rationale": "Staff rules and foreignness account frame an actual apology.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "No proof all machines are chance games, no unshown loan or new old-score revision.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H020",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "f0c5edba29c92458a6241c651d31109cd2bad621ec3f9fc90078ea686eded825",
+        "start_P": 213,
+        "end_P": 225
+      },
+      "whole_selected_premise": "Aqua offers thanks only while she remembers, while K knowingly helps obtain a souvenir.",
+      "primary_L": "L2",
+      "L_rationale": "Memory-loss premise makes her limit both sincere and poignant.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Actual keychain acquired; exact technique, cost and repeated-loss cycle are unshown.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H021",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "f0c5edba29c92458a6241c651d31109cd2bad621ec3f9fc90078ea686eded825",
+        "start_P": 227,
+        "end_P": 244
+      },
+      "whole_selected_premise": "A preserved room turns K's furtive visit into family grief, then practical donation calculations.",
+      "primary_L": "L2",
+      "L_rationale": "Flowers, cleanliness and data deletion are actual; his response mixes care and money arithmetic.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Private drive contents unspecified; no erotic reconstruction or actual family conversation.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H022",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "f0c5edba29c92458a6241c651d31109cd2bad621ec3f9fc90078ea686eded825",
+        "start_P": 245,
+        "end_P": 258
+      },
+      "whole_selected_premise": "Police scrutiny interrupts the group, and fading time leaves a memo and gold rather than a meeting.",
+      "primary_L": "L2",
+      "L_rationale": "D's denial, M's unperformed blast and K's actual parting message retain separate intentions.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "No spell cast, family receipt, conversion or final use of the gold is shown.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H023",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "f0c5edba29c92458a6241c651d31109cd2bad621ec3f9fc90078ea686eded825",
+        "start_P": 262,
+        "end_P": 282
+      },
+      "whole_selected_premise": "The actual return erases episodic memory while a physical keychain survives.",
+      "primary_L": "L2",
+      "L_rationale": "Vague pleasant residue is distinguished from retained factual history.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Aqua's French-food guess is wrong; K's future quest request gets assent, not completed work.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H024",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U016",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "native_member_sha256": "1274d2757dd9afeeedd21bf6615d2b985cbbca1ebb470d9bc01cb4f31ebeda59",
+        "start_P": 7,
+        "end_P": 39
+      },
+      "whole_selected_premise": "Ordinary potato preparation causes contact injury, then Aqua's three spells and cooking takeover actually help.",
+      "primary_L": "L2",
+      "L_rationale": "K's questions and her practical redirection keep fear distinct from confirmed fatality.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "No real-world medical inference, revived biting potato or proven fatal dose.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H025",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U016",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "native_member_sha256": "1274d2757dd9afeeedd21bf6615d2b985cbbca1ebb470d9bc01cb4f31ebeda59",
+        "start_P": 43,
+        "end_P": 77
+      },
+      "whole_selected_premise": "K mocks the apparently theatrical weed fight, then is twice injured by its actual resistance.",
+      "primary_L": "L2",
+      "L_rationale": "M's rebuke exposes his mistaken spectator frame; D's appetite differs from his refusal.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Ecology and remote-control cause are character reports/inferences at this point.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H026",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U016",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "native_member_sha256": "1274d2757dd9afeeedd21bf6615d2b985cbbca1ebb470d9bc01cb4f31ebeda59",
+        "start_P": 85,
+        "end_P": 115
+      },
+      "whole_selected_premise": "Grand adventuring resolve collapses after sleep, correctly predicted by the equally pajama-clad Aqua.",
+      "primary_L": "L2",
+      "L_rationale": "Her forecast precedes the cancellation and is acknowledged from familiarity.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Actual prepared M/D and wasted effort remain; no universal inability to keep commitments.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H027",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U016",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "native_member_sha256": "1274d2757dd9afeeedd21bf6615d2b985cbbca1ebb470d9bc01cb4f31ebeda59",
+        "start_P": 117,
+        "end_P": 144
+      },
+      "whole_selected_premise": "A picnic preference becomes specialist zeal after D/M describe a ghost beyond ordinary priests.",
+      "primary_L": "L2",
+      "L_rationale": "The pitch and Aqua's role identity change actual participation.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "K's instinct explanation is not a unique causal demonstration; collar-holding does not confer free consent.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H028",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U016",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "native_member_sha256": "1274d2757dd9afeeedd21bf6615d2b985cbbca1ebb470d9bc01cb4f31ebeda59",
+        "start_P": 153,
+        "end_P": 175
+      },
+      "whole_selected_premise": "Aqua openly wants both to feed the guild and receive praise after her stone disrupts concealment.",
+      "primary_L": "L2",
+      "L_rationale": "Explicit mixed motives defeat both pure-care and pure-selfish shorthand.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Actual Decoy and sniping follow; success is not total safe control.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H029",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U016",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "native_member_sha256": "1274d2757dd9afeeedd21bf6615d2b985cbbca1ebb470d9bc01cb4f31ebeda59",
+        "start_P": 177,
+        "end_P": 218
+      },
+      "whole_selected_premise": "K repeats the tree danger he remembers, and the supposed rescuer insults him through Aqua's translation.",
+      "primary_L": "L2",
+      "L_rationale": "Unknown language, apparent friendliness and translated meaning give distinct access.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Dryad voice drives deer away; D's complaint is not the rescue; ordinary-deer correction arrives later.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H030",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U016",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "native_member_sha256": "1274d2757dd9afeeedd21bf6615d2b985cbbca1ebb470d9bc01cb4f31ebeda59",
+        "start_P": 223,
+        "end_P": 257
+      },
+      "whole_selected_premise": "The ghost job becomes incompatible plant-protection demands and a water-fame problem for Aqua.",
+      "primary_L": "L2",
+      "L_rationale": "Different species' subsistence accounts and Aqua's pride oppose K's remedy demand.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "K infers garden causality; future compensation not an actual assessed bill.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H031",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U016",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "native_member_sha256": "1274d2757dd9afeeedd21bf6615d2b985cbbca1ebb470d9bc01cb4f31ebeda59",
+        "start_P": 261,
+        "end_P": 295
+      },
+      "whole_selected_premise": "D's broad fertilizer offer becomes a specifically refused bodily humiliation.",
+      "primary_L": "L2",
+      "L_rationale": "Aqua marks herself as messenger, and D's actual boundary narrows the offer.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "No performed humiliating act; comic treatment does not supply blanket permission.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H032",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U016",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "native_member_sha256": "1274d2757dd9afeeedd21bf6615d2b985cbbca1ebb470d9bc01cb4f31ebeda59",
+        "start_P": 296,
+        "end_P": 315
+      },
+      "whole_selected_premise": "Retaliatory spirit-slaying plans are interrupted by an actual rival deer herd beyond the dryad's control.",
+      "primary_L": "L2",
+      "L_rationale": "Boast and received explanation fail to provide safety.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "M's proposed dryad attack is not yet a cast; no significant bonded-person target.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H033",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U016",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "native_member_sha256": "1274d2757dd9afeeedd21bf6615d2b985cbbca1ebb470d9bc01cb4f31ebeda59",
+        "start_P": 319,
+        "end_P": 338
+      },
+      "whole_selected_premise": "D's wanted defense becomes an explicitly unwanted armor-removal condition.",
+      "primary_L": "L2",
+      "L_rationale": "She corrects K's claim to understand her preference despite having no bodily damage.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Later satisfaction does not erase the actual no or make the changed condition wanted.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H034",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U016",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "native_member_sha256": "1274d2757dd9afeeedd21bf6615d2b985cbbca1ebb470d9bc01cb4f31ebeda59",
+        "start_P": 339,
+        "end_P": 364
+      },
+      "whole_selected_premise": "Sound imitation attracts deer without supplying language knowledge, forcing a jump and airborne cast.",
+      "primary_L": "L2",
+      "L_rationale": "Aqua's practical question exposes the gap between mimicry and comprehension.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Actual blast; full prior friendly geometry/control/recovery not supplied by later survival.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H035",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U016",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "native_member_sha256": "1274d2757dd9afeeedd21bf6615d2b985cbbca1ebb470d9bc01cb4f31ebeda59",
+        "start_P": 366,
+        "end_P": 390
+      },
+      "whole_selected_premise": "Paid quest success leaves Aqua an ongoing service burden while M invites a future K privately rejects.",
+      "primary_L": "L2",
+      "L_rationale": "The actual negotiated exchange and mismatched appraisals differ from extermination.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Periodic water delivery and next adventure not performed; actual D carries depleted M.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H036",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U018",
+        "native_member": "item/xhtml/p-009.xhtml",
+        "native_member_sha256": "58b31875b6874b2f36e8b86f5f50e055c24ae77656cca417d9efa4ea127fb987",
+        "start_P": 5,
+        "end_P": 20
+      },
+      "whole_selected_premise": "M asks for the same tiger to be called ホワイトタイガー rather than 白虎 to reduce its boss aura.",
+      "primary_L": "L3",
+      "L_rationale": "The semantic referent stays fixed while Japanese ortholexical forms carry the contrast; translate with distinct names and an explanatory choice.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Not every foreign word or named monster is form-specific; turtle confirmation does not confirm an entire four-beast cosmology.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H037",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U018",
+        "native_member": "item/xhtml/p-009.xhtml",
+        "native_member_sha256": "58b31875b6874b2f36e8b86f5f50e055c24ae77656cca417d9efa4ea127fb987",
+        "start_P": 23,
+        "end_P": 51
+      },
+      "whole_selected_premise": "Humane principles, leisure and debt stakes compete before Aqua is dragged along despite refusal.",
+      "primary_L": "L2",
+      "L_rationale": "M's snow-spirit counterexample and later retreat assurances change different phases.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Later following after protection assurances is not retroactive assent to dragging.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H038",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U018",
+        "native_member": "item/xhtml/p-009.xhtml",
+        "native_member_sha256": "58b31875b6874b2f36e8b86f5f50e055c24ae77656cca417d9efa4ea127fb987",
+        "start_P": 56,
+        "end_P": 93
+      },
+      "whole_selected_premise": "An agreed five-count escape becomes synchronized defection at three, leaving trusting D.",
+      "primary_L": "L2",
+      "L_rationale": "The joke requires the received coordination contract and self-exculpatory denials.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Actual regroup; no pursuit by the supposedly immediate predator.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H039",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U018",
+        "native_member": "item/xhtml/p-009.xhtml",
+        "native_member_sha256": "58b31875b6874b2f36e8b86f5f50e055c24ae77656cca417d9efa4ea127fb987",
+        "start_P": 101,
+        "end_P": 145
+      },
+      "whole_selected_premise": "D's confidence in the beautiful tiger meets a paw swipe, then M's crater is mistaken for victory.",
+      "primary_L": "L2",
+      "L_rationale": "Actual evasion and target survival disconfirm both impressions.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Fur is required; collapse and blast effects do not prove a kill or full arrangement.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H040",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U018",
+        "native_member": "item/xhtml/p-009.xhtml",
+        "native_member_sha256": "58b31875b6874b2f36e8b86f5f50e055c24ae77656cca417d9efa4ea127fb987",
+        "start_P": 149,
+        "end_P": 168
+      },
+      "whole_selected_premise": "The apparent boss hands Aqua a dying cub, producing real care and a contested maternal explanation.",
+      "primary_L": "L2",
+      "L_rationale": "Aqua corrects M's blast-guilt inference and asserts a divine-energy need.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Mother abandonment is Aqua's claim, not demonstrated neglect; healing and recovery are actual.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H041",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U018",
+        "native_member": "item/xhtml/p-009.xhtml",
+        "native_member_sha256": "58b31875b6874b2f36e8b86f5f50e055c24ae77656cca417d9efa4ea127fb987",
+        "start_P": 172,
+        "end_P": 209
+      },
+      "whole_selected_premise": "K's ten-million sale determination is followed by actual litter and blanket preparations.",
+      "primary_L": "L2",
+      "L_rationale": "His principle reversals and emotional defeat are independently voiced and performed.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "No sale occurs; subsequent utility rationalization does not uniquely explain the change.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H042",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U018",
+        "native_member": "item/xhtml/p-009.xhtml",
+        "native_member_sha256": "58b31875b6874b2f36e8b86f5f50e055c24ae77656cca417d9efa4ea127fb987",
+        "start_P": 212,
+        "end_P": 240
+      },
+      "whole_selected_premise": "The stern anti-monster household becomes a group of caretakers discussing names and milk.",
+      "primary_L": "L2",
+      "L_rationale": "Actual litter changing and nurturing contradict public aloofness.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Ghost speech remains Aqua-mediated; Wolfgang name does not identify the earlier vampire.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H043",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U018",
+        "native_member": "item/xhtml/p-009.xhtml",
+        "native_member_sha256": "58b31875b6874b2f36e8b86f5f50e055c24ae77656cca417d9efa4ea127fb987",
+        "start_P": 241,
+        "end_P": 273
+      },
+      "whole_selected_premise": "Military training ambition repeatedly becomes baby care and failed garment recovery.",
+      "primary_L": "L2",
+      "L_rationale": "Aqua's commands do not receive the intended response, while D avoids waking the cats.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Her offered substitute blanket is for the cub, not a received equivalent replacement offered to Aqua.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H044",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U018",
+        "native_member": "item/xhtml/p-009.xhtml",
+        "native_member_sha256": "58b31875b6874b2f36e8b86f5f50e055c24ae77656cca417d9efa4ea127fb987",
+        "start_P": 275,
+        "end_P": 315
+      },
+      "whole_selected_premise": "Harsh farewell rhetoric gives way to actual embrace while returning the cub to its waiting mother.",
+      "primary_L": "L2",
+      "L_rationale": "Action and speech support attachment without requiring a perfectly candid account.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Loneliness/bedwetting theory is hearsay; garment refusal remains explicit.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H045",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U018",
+        "native_member": "item/xhtml/p-009.xhtml",
+        "native_member_sha256": "58b31875b6874b2f36e8b86f5f50e055c24ae77656cca417d9efa4ea127fb987",
+        "start_P": 318,
+        "end_P": 331
+      },
+      "whole_selected_premise": "The mother takes the caretaker along, and Aqua returns exhausted three days later.",
+      "primary_L": "L0",
+      "L_rationale": "Physical action and elapsed return are portable reversal facts.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Unwanted transport; return mechanism and three-day events elided, no new dragon adoption.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H046",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "b0546d7f184f34f80377d3bf14e4a53cfbd952dd867e4c4bd06a89e1b5769212",
+        "start_P": 6,
+        "end_P": 18
+      },
+      "whole_selected_premise": "K's prestigious whole-party commission pose is corrected to a request for M.",
+      "primary_L": "L2",
+      "L_rationale": "The actual addressee changes the social meaning of guild recognition.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "No inability or automatic envy from mere surprise.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H047",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "b0546d7f184f34f80377d3bf14e4a53cfbd952dd867e4c4bd06a89e1b5769212",
+        "start_P": 20,
+        "end_P": 43
+      },
+      "whole_selected_premise": "K's confident Earth weather lesson is privately corrected by Aqua's local spirit knowledge.",
+      "primary_L": "L2",
+      "L_rationale": "The transfer error depends on knowledge asymmetry and received correction.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Local fantastic weather does not refute Earth science or justify every later Aqua plan.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H048",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "b0546d7f184f34f80377d3bf14e4a53cfbd952dd867e4c4bd06a89e1b5769212",
+        "start_P": 45,
+        "end_P": 74
+      },
+      "whole_selected_premise": "The wanted specialist bargains over prior disrespect, responds to praise, then objects to a new nickname.",
+      "primary_L": "L2",
+      "L_rationale": "Reputation and art demand are actual received pressures.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Threatened destruction of a house is not a performed blast; exact cost guard not invented.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H049",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "b0546d7f184f34f80377d3bf14e4a53cfbd952dd867e4c4bd06a89e1b5769212",
+        "start_P": 78,
+        "end_P": 102
+      },
+      "whole_selected_premise": "Actual Yunyun/Wiz alternatives turn M's leverage into an apology and request to join.",
+      "primary_L": "L2",
+      "L_rationale": "Replacement is explicit, not inferred only from competitive behavior.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Ordinary companion cost before choice still needs independent proof; no full M01 from rank alone.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H050",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "b0546d7f184f34f80377d3bf14e4a53cfbd952dd867e4c4bd06a89e1b5769212",
+        "start_P": 115,
+        "end_P": 137
+      },
+      "whole_selected_premise": "Swimsuits and buoys look like leisure but have an explicit practical battle rationale.",
+      "primary_L": "L2",
+      "L_rationale": "K's outsider interpretation is corrected while Wiz's discomfort is ignored by him.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Non-graphic privacy account; D's own mixed response cannot authorize others' exposure.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H051",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "b0546d7f184f34f80377d3bf14e4a53cfbd952dd867e4c4bd06a89e1b5769212",
+        "start_P": 141,
+        "end_P": 203
+      },
+      "whole_selected_premise": "Private voyeuristic hopes explain public enthusiasm for a dangerous return gust.",
+      "primary_L": "L2",
+      "L_rationale": "Hidden incentive and women's actual covering response contradict presumed shared consent.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "No erotic reconstruction; practical town defense remains an actual concurrent task.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H052",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "b0546d7f184f34f80377d3bf14e4a53cfbd952dd867e4c4bd06a89e1b5769212",
+        "start_P": 208,
+        "end_P": 227
+      },
+      "whole_selected_premise": "A solemn divine command ends in actual rejection and Aqua's angry return.",
+      "primary_L": "L2",
+      "L_rationale": "The fitted attempt is adopted and fails within its own phase.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Her knowledge remains real; no ontology rescue or assumed lack of readiness from failure.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H053",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "b0546d7f184f34f80377d3bf14e4a53cfbd952dd867e4c4bd06a89e1b5769212",
+        "start_P": 240,
+        "end_P": 265
+      },
+      "whole_selected_premise": "K interrupts his lure mission to tow struggling D to shore, then finds Aqua blocking the center.",
+      "primary_L": "L2",
+      "L_rationale": "Actual inconvenient help coexists with his hidden motive and poor coordination.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "D's lack of swim experience is local; no universal incompetence or unique pure motive.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H054",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "b0546d7f184f34f80377d3bf14e4a53cfbd952dd867e4c4bd06a89e1b5769212",
+        "start_P": 284,
+        "end_P": 308
+      },
+      "whole_selected_premise": "Aqua's translation and swimming accomplish the lure her earlier authority command failed to achieve.",
+      "primary_L": "L2",
+      "L_rationale": "Task revision uses actually available means and a received plan.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "K still does not understand raw spirit language; instrumental success not whole-operation safety.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H055",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "b0546d7f184f34f80377d3bf14e4a53cfbd952dd867e4c4bd06a89e1b5769212",
+        "start_P": 309,
+        "end_P": 348
+      },
+      "whole_selected_premise": "M's sensible staged-fire proposal is overridden by coordinated honor pressure and misleading protection claims.",
+      "primary_L": "L2",
+      "L_rationale": "Pre-choice caution, received taunt and actual three-caster sequence must all be retained.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Unfinished stop to D333 is not a received command; target output not full M03 prior preparation.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H056",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "b0546d7f184f34f80377d3bf14e4a53cfbd952dd867e4c4bd06a89e1b5769212",
+        "start_P": 349,
+        "end_P": 393
+      },
+      "whole_selected_premise": "A real successful pacification disappoints hidden hopes when Aqua cancels the dangerous thank-you gust.",
+      "primary_L": "L2",
+      "L_rationale": "Recipients hold different task goals; actual defense is not a failure because men dislike it.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Spirit survives, town storm calms; no cast kill, exposure or performed next-year event.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H057",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U022",
+        "native_member": "item/xhtml/p-013.xhtml",
+        "native_member_sha256": "cbc9bdd201b7819a246886f3b0198a6818af7be6c9bed79fc4c8a5f44ac4b6e9",
+        "start_P": 20,
+        "end_P": 48
+      },
+      "whole_selected_premise": "D's sincere relief about Chris's friendship is answered by binding and face writing.",
+      "primary_L": "L2",
+      "L_rationale": "The gentle explanation differs from K's insulting account; paint-scope request remains real.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Proposed Steal stripping not performed; restraint and actual name/paint objections retained non-graphically.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H058",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U022",
+        "native_member": "item/xhtml/p-013.xhtml",
+        "native_member_sha256": "cbc9bdd201b7819a246886f3b0198a6818af7be6c9bed79fc4c8a5f44ac4b6e9",
+        "start_P": 58,
+        "end_P": 83
+      },
+      "whole_selected_premise": "Frog-slick M becomes テラみん and ヌルみん in K's narration before spreading slime to D.",
+      "primary_L": "L3",
+      "L_rationale": "Japanese mimetic words テラテラ/ヌルヌル replace the name prefix; preserve or reconstruct the morphology.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Actual no and favorite clothes matter; no erotic body description or blanket consent.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H059",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U022",
+        "native_member": "item/xhtml/p-013.xhtml",
+        "native_member_sha256": "cbc9bdd201b7819a246886f3b0198a6818af7be6c9bed79fc4c8a5f44ac4b6e9",
+        "start_P": 94,
+        "end_P": 128
+      },
+      "whole_selected_premise": "Matching claims of formal attire meet the venue's real booking limits and a lunch-ticket exit offer.",
+      "primary_L": "L2",
+      "L_rationale": "K/Aqua resist procedure using rank and divinity, then D actually mediates.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "No explicit divine-identity denial by staff; polite grammar alone is not K08 support.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H060",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U022",
+        "native_member": "item/xhtml/p-013.xhtml",
+        "native_member_sha256": "cbc9bdd201b7819a246886f3b0198a6818af7be6c9bed79fc4c8a5f44ac4b6e9",
+        "start_P": 130,
+        "end_P": 163
+      },
+      "whole_selected_premise": "D's covert enforcement is initially read as hoarding delicacies and aristocratic indulgence.",
+      "primary_L": "L2",
+      "L_rationale": "Actual disclosure repairs a premise difference before later cooperation.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Host's invitation is real, but D's credit use and other imagined transactions aren't authorized by it.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H061",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U022",
+        "native_member": "item/xhtml/p-013.xhtml",
+        "native_member_sha256": "cbc9bdd201b7819a246886f3b0198a6818af7be6c9bed79fc4c8a5f44ac4b6e9",
+        "start_P": 171,
+        "end_P": 201
+      },
+      "whole_selected_premise": "Chris accepts crime help before learning the concealed lover role and objects to the extension.",
+      "primary_L": "L2",
+      "L_rationale": "Trust and finite task assent have an actual disclosure boundary.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "No retroactive approval; actual requested distraction is corrected to quiet eating.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H062",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U022",
+        "native_member": "item/xhtml/p-013.xhtml",
+        "native_member_sha256": "cbc9bdd201b7819a246886f3b0198a6818af7be6c9bed79fc4c8a5f44ac4b6e9",
+        "start_P": 203,
+        "end_P": 218
+      },
+      "whole_selected_premise": "Familiar-sounding food names become dangerous magical ingredients and valued delicacies.",
+      "primary_L": "L3",
+      "L_rationale": "威勢エビ and ちょうちん暗光 rewrite familiar Japanese food-name sounds into aggression/dark-light properties; annotation/reconstruction is needed for that effect.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "K's civil praise is actual; dangerous local foods are not real recipes or a universal class judgment.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H063",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U022",
+        "native_member": "item/xhtml/p-013.xhtml",
+        "native_member_sha256": "cbc9bdd201b7819a246886f3b0198a6818af7be6c9bed79fc4c8a5f44ac4b6e9",
+        "start_P": 220,
+        "end_P": 250
+      },
+      "whole_selected_premise": "D's expected suitors prefer other guests, and M's take-home family request earns approval.",
+      "primary_L": "L2",
+      "L_rationale": "Host delight overturns expected etiquette disgust; Chris's actual distress still matters.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "K's later strategy inference doesn't prove all eating was preplanned; family delivery unshown.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H064",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U022",
+        "native_member": "item/xhtml/p-013.xhtml",
+        "native_member_sha256": "cbc9bdd201b7819a246886f3b0198a6818af7be6c9bed79fc4c8a5f44ac4b6e9",
+        "start_P": 251,
+        "end_P": 280
+      },
+      "whole_selected_premise": "Aqua's party art supplies distraction while K uses an embarrassing exit pretext and practical Stealth.",
+      "primary_L": "L2",
+      "L_rationale": "Distinct providers and means, with D's actual protest at the pretext.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "The dangerous candy is local reconstruction; original Earth inventor identity unproved.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H065",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U022",
+        "native_member": "item/xhtml/p-013.xhtml",
+        "native_member_sha256": "cbc9bdd201b7819a246886f3b0198a6818af7be6c9bed79fc4c8a5f44ac4b6e9",
+        "start_P": 288,
+        "end_P": 325
+      },
+      "whole_selected_premise": "An apparent rescue makes D confess unauthorized taking while Chris protects her and M proposes intimidation.",
+      "primary_L": "L2",
+      "L_rationale": "Moral appraisals differ from the unestablished ingredient law.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Aqua's subsequent divinity-denial protest is distinct from her earlier assertion; no threatening cast performed.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H066",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U022",
+        "native_member": "item/xhtml/p-013.xhtml",
+        "native_member_sha256": "cbc9bdd201b7819a246886f3b0198a6818af7be6c9bed79fc4c8a5f44ac4b6e9",
+        "start_P": 328,
+        "end_P": 366
+      },
+      "whole_selected_premise": "K's attempted cage release stops at the fairy's warning, then the alleged ingredient is identified as cook.",
+      "primary_L": "L2",
+      "L_rationale": "Actual recipient signal changes K's action and cat restraint makes later opening safe.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Whisper contents remain mediated/guessed; earlier rescue motive isn't a final legal verdict.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H067",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U022",
+        "native_member": "item/xhtml/p-013.xhtml",
+        "native_member_sha256": "cbc9bdd201b7819a246886f3b0198a6818af7be6c9bed79fc4c8a5f44ac4b6e9",
+        "start_P": 369,
+        "end_P": 388
+      },
+      "whole_selected_premise": "The cook explanation gives way to a new exploitation issue when working conditions are asked about.",
+      "primary_L": "L2",
+      "L_rationale": "Different disclosures correct different suspicions; host's flight follows actual rights question.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Critical non-graphic child-equivalent welfare account; no invented intimate scene or completed arrest.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H068",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U022",
+        "native_member": "item/xhtml/p-013.xhtml",
+        "native_member_sha256": "cbc9bdd201b7819a246886f3b0198a6818af7be6c9bed79fc4c8a5f44ac4b6e9",
+        "start_P": 394,
+        "end_P": 423
+      },
+      "whole_selected_premise": "Chris's genre-scripted joining event repeatedly becomes arrest for actual wallet theft.",
+      "primary_L": "L2",
+      "L_rationale": "D's attributed memory contrasts intended game-like script with received unauthorized taking.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "D's reform interpretation and K's joining inference remain accounts; final new capture plan unperformed.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H069",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U024",
+        "native_member": "item/xhtml/p-015.xhtml",
+        "native_member_sha256": "8b5eeb955f8e23c0a7cbbc84db7ba8784793d9fe57eccc2b394aabf1789a201f",
+        "start_P": 21,
+        "end_P": 70
+      },
+      "whole_selected_premise": "Social caution, a wager and ice-cream theft are recast as advice, protection and closeness.",
+      "primary_L": "L2",
+      "L_rationale": "Yun owns payment, M warns against exploitation yet claims exclusive privilege, K's accusation is corrected.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "K's physical theft isn't a spell; no all-purpose romantic permission from shared food.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H070",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U024",
+        "native_member": "item/xhtml/p-015.xhtml",
+        "native_member_sha256": "8b5eeb955f8e23c0a7cbbc84db7ba8784793d9fe57eccc2b394aabf1789a201f",
+        "start_P": 76,
+        "end_P": 120
+      },
+      "whole_selected_premise": "A serious lesson starts with unscheduled waiting and K's honest limits, then casual names deflate hoped intimacy.",
+      "primary_L": "L2",
+      "L_rationale": "Actual invitation inside and apology coexist with stereotype-based name explanation.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Yun denies overnight waiting; default politeness self-report isn't a K08 controlled test.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H071",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U024",
+        "native_member": "item/xhtml/p-015.xhtml",
+        "native_member_sha256": "8b5eeb955f8e23c0a7cbbc84db7ba8784793d9fe57eccc2b394aabf1789a201f",
+        "start_P": 123,
+        "end_P": 169
+      },
+      "whole_selected_premise": "A blind ambush hits protective M, and raffle restitution shifts blame toward absent Aqua.",
+      "primary_L": "L2",
+      "L_rationale": "Received threat cue lacked identity; M's new information follows actual damage.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "No prior identified target, no shown return of K's valuable prize, no whole teaching competence.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H072",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U024",
+        "native_member": "item/xhtml/p-015.xhtml",
+        "native_member_sha256": "8b5eeb955f8e23c0a7cbbc84db7ba8784793d9fe57eccc2b394aabf1789a201f",
+        "start_P": 185,
+        "end_P": 217
+      },
+      "whole_selected_premise": "Teachers' coercive encounter demonstrations become their own contest while Yun asks for her lesson.",
+      "primary_L": "L2",
+      "L_rationale": "Actual return/apology after privacy violation and cafe daughter's commercial motive qualify the supposed success.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Non-graphic critical conduct only; no theft/collision recipe endorsed or completed future tea date.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H073",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U024",
+        "native_member": "item/xhtml/p-015.xhtml",
+        "native_member_sha256": "8b5eeb955f8e23c0a7cbbc84db7ba8784793d9fe57eccc2b394aabf1789a201f",
+        "start_P": 219,
+        "end_P": 275
+      },
+      "whole_selected_premise": "K's confident harmless-stranger theory fails, and both teachers actually call for police.",
+      "primary_L": "L2",
+      "L_rationale": "His inference is contradicted by the men's stated predatory age preference.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "No diagnosis, endorsement, erotic description or completed arrest; Yun's age is explicit269.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H074",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U024",
+        "native_member": "item/xhtml/p-015.xhtml",
+        "native_member_sha256": "8b5eeb955f8e23c0a7cbbc84db7ba8784793d9fe57eccc2b394aabf1789a201f",
+        "start_P": 283,
+        "end_P": 321
+      },
+      "whole_selected_premise": "A real rescue receives false claims of self-sufficiency and bounty appropriation, followed by M's apparent retreat.",
+      "primary_L": "L2",
+      "L_rationale": "Prior cries and actual Yun kill independently contradict the novices' account.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Yun's later charitable interpretation325 is not yet verified; no automatic E02 for every disputed reward.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H075",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U024",
+        "native_member": "item/xhtml/p-015.xhtml",
+        "native_member_sha256": "8b5eeb955f8e23c0a7cbbc84db7ba8784793d9fe57eccc2b394aabf1789a201f",
+        "start_P": 325,
+        "end_P": 348
+      },
+      "whole_selected_premise": "Apparent restraint becomes retaliatory blast, new frog danger and collective work by everyone except M.",
+      "primary_L": "L2",
+      "L_rationale": "The cast disproves Yun's kindness inference and leaves actual resource dependency.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Unknown men aren't significantly bonded M04 targets; no prior whole friendly arrangement.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H076",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U024",
+        "native_member": "item/xhtml/p-015.xhtml",
+        "native_member_sha256": "8b5eeb955f8e23c0a7cbbc84db7ba8784793d9fe57eccc2b394aabf1789a201f",
+        "start_P": 350,
+        "end_P": 367
+      },
+      "whole_selected_premise": "Failed social coaching ends with ordinary bath/laundry help and an unsolicited pajama-party invitation.",
+      "primary_L": "L2",
+      "L_rationale": "Aqua/D infer trouble from familiarity; actual care and M's new forced slime contact coexist.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "No accurate responsibility percentages from guesses, completed party or permanent friendship cure.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H077",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U026",
+        "native_member": "item/xhtml/p-017.xhtml",
+        "native_member_sha256": "5a07d6deca57eb52c99bfb753dc03c4bebdccb528f88bb11770888a3be7b4d45",
+        "start_P": 6,
+        "end_P": 19
+      },
+      "whole_selected_premise": "Aqua's targeted commission meets exaggerated institutional doubt and her threatened petty weather revenge.",
+      "primary_L": "L2",
+      "L_rationale": "Task uncertainty is voiced, not an actual explicit denial of divine identity.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "No punishments actually performed or universal incompetence proved.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H078",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U026",
+        "native_member": "item/xhtml/p-017.xhtml",
+        "native_member_sha256": "5a07d6deca57eb52c99bfb753dc03c4bebdccb528f88bb11770888a3be7b4d45",
+        "start_P": 25,
+        "end_P": 40
+      },
+      "whole_selected_premise": "Correct water scarcity explanation is followed by admitted ignorance about earth and suspicious wine allocation.",
+      "primary_L": "L2",
+      "L_rationale": "Domain knowledge and grasping incentive coexist in explicit answers.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Father's wine permission unshown; CreateEarth guess isn't a world rule.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H079",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U026",
+        "native_member": "item/xhtml/p-017.xhtml",
+        "native_member_sha256": "5a07d6deca57eb52c99bfb753dc03c4bebdccb528f88bb11770888a3be7b4d45",
+        "start_P": 45,
+        "end_P": 66
+      },
+      "whole_selected_premise": "Spirits ruin Aqua's staged offering plan while actually producing the requested rain.",
+      "primary_L": "L2",
+      "L_rationale": "Audible plan exposes appropriation, but the service works and is later praised.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Later inverted charm rain/conversion is narrated fact66, not only a future possibility.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H080",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U027",
+        "native_member": "item/xhtml/p-018.xhtml",
+        "native_member_sha256": "29b271f2e94e7a5494794b40e15cee4b96ce712168409f44e319c870510bc7a9",
+        "start_P": 3,
+        "end_P": 20
+      },
+      "whole_selected_premise": "Grand lethal rhetoric about a lone kobold turns into carry logistics and embarrassment under scoring.",
+      "primary_L": "L2",
+      "L_rationale": "M's style appetite and K's imitation are exposed by their mundane target.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Actual cast/snipe, not all prior killer claims or universal skill.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H081",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U027",
+        "native_member": "item/xhtml/p-018.xhtml",
+        "native_member_sha256": "29b271f2e94e7a5494794b40e15cee4b96ce712168409f44e319c870510bc7a9",
+        "start_P": 23,
+        "end_P": 37
+      },
+      "whole_selected_premise": "A threat of abandonment causes clinging, lost attack opportunity and a mana transfer that enables separate escape plans.",
+      "primary_L": "L2",
+      "L_rationale": "M names the received cause of distrust; K's retraction doesn't erase initial threat.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Actual transfer and eventual return, exact combat resolution elided; no accepted decoy role for K.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H082",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U027",
+        "native_member": "item/xhtml/p-018.xhtml",
+        "native_member_sha256": "29b271f2e94e7a5494794b40e15cee4b96ce712168409f44e319c870510bc7a9",
+        "start_P": 45,
+        "end_P": 62
+      },
+      "whole_selected_premise": "Yun's received gratitude draws competitive boasting and an argument over private kill records.",
+      "primary_L": "L2",
+      "L_rationale": "Audience and prestige change M's account while Yun challenges verifiability.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Prior rescue is others' report; no actual card seizure or all past boasts verified.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H083",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U028",
+        "native_member": "item/xhtml/p-019.xhtml",
+        "native_member_sha256": "8fbfe5da64f05b627311e515fb61f9bd73636b3ddc89eb8cb39728ddf3e6630b",
+        "start_P": 4,
+        "end_P": 20
+      },
+      "whole_selected_premise": "An accidental waking mishap is repeatedly given an intimacy interpretation that D explicitly rejects.",
+      "primary_L": "L2",
+      "L_rationale": "Explanation corrects K/Aqua's account while actual urgent friend concern emerges.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "No erotic reenactment or intimate act credited.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H084",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U028",
+        "native_member": "item/xhtml/p-019.xhtml",
+        "native_member_sha256": "8fbfe5da64f05b627311e515fb61f9bd73636b3ddc89eb8cb39728ddf3e6630b",
+        "start_P": 23,
+        "end_P": 51
+      },
+      "whole_selected_premise": "Two criminal-looking encounters are ordinary ingredient purchases, and the tailers are themselves detected.",
+      "primary_L": "L2",
+      "L_rationale": "Aqua supplies concrete acquaintance-based corrections, not just appearance guesses.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "D acknowledges prejudice; no drug trade, murder or unbreakable Stealth.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H085",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U028",
+        "native_member": "item/xhtml/p-019.xhtml",
+        "native_member_sha256": "8fbfe5da64f05b627311e515fb61f9bd73636b3ddc89eb8cb39728ddf3e6630b",
+        "start_P": 53,
+        "end_P": 64
+      },
+      "whole_selected_premise": "Chris values D's concern and reassures her, then Aqua's new forgiveness doubt makes D withdraw.",
+      "primary_L": "L2",
+      "L_rationale": "First acknowledgment and later ridicule are separate phases with Chris's explicit stop.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "D has no clear dignity-restoring protest; withdrawal can be read as a boundary, so retain qualified and adverse interpretations without misattributing Chris's stop.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI02-WHOLE-H086",
+      "source_id": "YORI-02",
+      "boundary": {
+        "component_id": "YORI-02-U028",
+        "native_member": "item/xhtml/p-019.xhtml",
+        "native_member_sha256": "8fbfe5da64f05b627311e515fb61f9bd73636b3ddc89eb8cb39728ddf3e6630b",
+        "start_P": 65,
+        "end_P": 77
+      },
+      "whole_selected_premise": "The suspected bad company was a concealed birthday plan, met by K's practical inclusive offers.",
+      "primary_L": "L2",
+      "L_rationale": "Discovery changes K's action and keeps particular company meaningful.",
+      "primary_H": "H1",
+      "H_rationale": "The selected effect is made by literal performed acts, changing accounts and separately attributed proposals/reports; comic reversal does not erase any refusal, harm or cost.",
+      "eligibility_and_limits": "Wine, toy purchase, cooking and celebration are future instructions/resolutions, not completed gifts.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T00:53:31.463685+00:00",
+      "not_an_independent_prediction_trial": true
+    }
+  ]
+}

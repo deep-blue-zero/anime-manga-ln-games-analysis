@@ -1,0 +1,106 @@
+{
+  "schema": "KONOSUBA_CONTEXP02_ACTUAL_WHOLE_SOURCE_AND_READING_RECEIPT_V1",
+  "source_id": "CONTEXP-02",
+  "accepted_utc": "2026-10-18T20:19:00.916436+00:00",
+  "native_filename": "Konosuba - Spin-off - Continued Explosions - Volume 02.epub",
+  "native_bytes": 2412289,
+  "native_sha256": "ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267",
+  "OPF_member": "OEBPS/content.opf",
+  "OPF_sha256": "46c5a00109d38797c600144016a367faff87777ee39deb3cdd13222332cf4db5",
+  "language": [
+    "ja"
+  ],
+  "colophon": "続・この素晴らしい世界に爆焔を！2 わがままバスターズ 【電子特別版】. Electronic issue and underlying print first edition both2019-03-01; copyrightAkatsuki/Mishima2019. Author暁なつめ;illustration三嶋くろね;design百足屋ユウコ＋モンマ蚕（ムシカゴグラフィクス）;publisher三坂泰二/KADOKAWA. All actual endmatter fields separately read.",
+  "admission_sha256": "7f77c217d7a711a0966a74377ddcc1ec9852b75be97fd82a01e68cad4516ccaa",
+  "admission_utc": "2026-10-18T19:03:27.479348+00:00",
+  "preceding_full_gate_source": "b0668884aeb1e0f58db2395b214b9b3b947f0d8f",
+  "preceding_gate_sha256": "1b882195ac9871b95b3740a8b03624366f6d21b3e5a589ffcdff99f569e46128",
+  "preceding_fresh_reload_sha256": "17a5ef3b4b3876c20c476e48eb437dab8f5b3077725945c5942271a353a3e196",
+  "complete_uncoded_seal_sha256": "7d1b5e4d46a2e5d4cd248f295e2f09f2578d7f6bb122248a53709b9041ef1784",
+  "complete_uncoded_seal_utc": "2026-10-18T19:51:53.347000+00:00",
+  "actual_reading": {
+    "all_textual_components": 35,
+    "all_native_P_slots": 2703,
+    "principal_P_slots": 2573,
+    "other_P_slots": 130,
+    "separate_bonus_narrative": true,
+    "bonus_P_slots": 57,
+    "nonfiction_P_slots": 73,
+    "individually_identified_bonus_narrative_groups": [
+      {
+        "id": "CONTEXP02-BONUS-ELECTRONIC-COSTUME-MARQUIS",
+        "title": "たまには本気の着ぐるみ侯爵",
+        "native_units": [
+          "CONTEXP-02-U031"
+        ],
+        "native_member": "OEBPS/Text/part0029.xhtml",
+        "paragraph_slots": 57,
+        "title_component": "CONTEXP-02-U030",
+        "viewpoint": "Megumin first person;three-thousand bounty reference afterC1event,exactdayunknown",
+        "scope": "Complete separate electronic story actually read; fair-test proposal, actual joint surprise aggression, hoped-for outing, new volunteers and imposed shop role distinguished from unperformed hunt/zipper exposure/future repair."
+      }
+    ],
+    "individually_identified_narrative_image_groups": [],
+    "individually_identified_embedded_narrative_groups": [
+      {
+        "id": "CONTEXP02-FALSE-LIGER-KILL-COVER",
+        "native_units": [
+          "CONTEXP-02-U020"
+        ],
+        "start_P": 475,
+        "end_P": 499,
+        "scope": "Actual actors author and endorse false rare-beast/necklace destruction account, then perform empty forest Explosion; actual creature alive/escaped, notanothercompletedkill."
+      },
+      {
+        "id": "CONTEXP02-RECALLED-RED-EYED-BEGINNER-KILLER",
+        "native_units": [
+          "CONTEXP-02-U026",
+          "CONTEXP-02-U027"
+        ],
+        "scope": "Megumin’s particular recollection and creator’s later identification/summary refer to earlier store bonus; no new full reading or independent admission of that earlier text is claimed."
+      }
+    ],
+    "integral_image_only_prose_pages": 0,
+    "all_native_images_actually_viewed": 25,
+    "all_ruby_displayed_inline_and_nonparagraph_residual_received": true,
+    "all_native_local_and_archive_text_image_hash_joins_reverified": 60,
+    "fresh_native_ZIP_CRC": "PASS",
+    "image_individual_scopes_control": true
+  },
+  "source_first_sealed_pins": [
+    {
+      "file": "NATIVE_ADMISSION.json",
+      "bytes": 35330,
+      "sha256": "7f77c217d7a711a0966a74377ddcc1ec9852b75be97fd82a01e68cad4516ccaa"
+    },
+    {
+      "file": "ROOT_PRE_BODY_PREPARATION_SEAL.json",
+      "bytes": 37981,
+      "sha256": "02f7704563704abb6d90fc21ffdf3541f143996c67c2262e9910078990a9faf9"
+    },
+    {
+      "file": "ACTUAL_SOURCE_FIRST_UNCODED_NOTES.jsonl",
+      "bytes": 154714,
+      "sha256": "60809053e89f0602120fd78bf5b1e6aeadf28e9c2fcb986ebf2cede4dee76aee"
+    },
+    {
+      "file": "ACTUAL_IMAGE_VIEW_UNCODED_NOTES.jsonl",
+      "bytes": 18036,
+      "sha256": "c1abde95112c21f851a229ed0ac035052d6165209010d8bd34ef13ad70f1b70b"
+    }
+  ],
+  "formal_coverage": {
+    "full_responsibilities": 17,
+    "selected_premises_not_census": 92,
+    "native_verified_short_form_context_witnesses": 148,
+    "local_unchanged_question_assessments": 7,
+    "append_only_decisions_across_ten_ledgers": 37,
+    "current_precision_qualifications": 76
+  },
+  "same_root_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05,DUST-06,DUST-07,DUST-CONT,EXP-01,EXP-02,EXP-03,CONTEXP-01. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim.",
+  "no_independent_second_full_pass_native_human_audio_claim": true,
+  "source_first_originals_remain_exact": true,
+  "original_four_scores_and_14_future_fields_unchanged": true,
+  "publication_state": "CONTAINING_EXACT_PUBLICATION_AND_FULL_GATE_PENDING",
+  "midread_precision_context": "All 148 current short forms join their native windows: 140 original fragments within original windows, one native-exact original with a corrected earlier window, and seven originally empty anchors with explicitly new postseal selections. Originals remain unchanged. The posttrial lower bound, K/M/K/M narration, completed C1 Teleport, C4 cast at P0497, necklace-holder gap, deliberate mercy and creator-only identity are explicitly qualified."
+}
