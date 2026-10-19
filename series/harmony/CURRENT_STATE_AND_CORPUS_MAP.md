@@ -5,7 +5,7 @@ artifact_type: corpus_map
 series: Harmony / ハーモニー
 series_id: harmony
 generation: HARMONY_BOOTSTRAP_V1
-version: '0.26'
+version: '0.27'
 status: active_provisional
 scope: Current state and sole first-read entrypoint
 source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U020 interstice34 text/part0013.html and actual epilogue heading35/body36 text/part0015.html through2171rawbodycp/literal body-etml closure; ancillary37–40 classified excluded; all40spine occurrences accounted; next source NONE
@@ -64,6 +64,8 @@ This is the sole first-read entrypoint for the independent original prose-novel 
 `SEQUENTIAL_ANALYSIS_LOCK = OPEN`
 
 Historical G0 passed for **HAR-U001 only**: the reviewed method/architecture and initialized ledgers are adequate, the exact transformed Japanese digital witness and opening source/render/extraction route are verified, and the owner’s 2026-10-16 pilot instruction supplies one `single_operation`. Opening words were displayed only for source-fidelity auditing after an entering freeze, before interpretation. That historical single-operation lock supplied no authority for another unit; the later owner instruction separately authorizes the current continuous run.
+
+**Current English display names (2026-10-19):** [reviewed name maintenance](07%20Audits%20and%20Handoffs/HARMONY_ENGLISH_NAME_MAINTENANCE_2026-10-19.md) adopts Tuan Kirie, Miach Mihie, Cian and Edison Carter from English-novel publisher material. Miaha/Kian remain historical searchable aliases; Cian's full novel surname and proposed Nuada/Elijah Vashlov/Gabrielle Étaín/Uwe surnames remain unverified. Stable IDs, Japanese/ruby, frozen readings and legacy artifact paths are preserved. Future analysis follows the [current identity table](03%20Longitudinal%20Ledgers/HARMONY_ACTOR_RELATIONSHIP_AND_READINESS_LEDGER.md#current-english-display-names--2026-10-19).
 
 ## Independent progress states
 

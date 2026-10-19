@@ -5,7 +5,7 @@ artifact_type: longitudinal_ledger
 series: Harmony / ハーモニー
 series_id: harmony
 generation: HARMONY_BOOTSTRAP_V1
-version: '0.22'
+version: '0.23'
 status: active_provisional
 scope: Actor, directional relationship and reconstruction-readiness ledger
 source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U020 interstice34 text/part0013.html and actual epilogue heading35/body36 text/part0015.html through2171rawbodycp/literal body-etml closure; ancillary37–40 classified excluded; all40spine occurrences accounted; next source NONE
@@ -24,6 +24,19 @@ relationships: 63
 # Actor, relationship and readiness ledger
 
 **Current G2 retrieval:** [Actor/directional reconciliation](#g2-actor-and-directional-history-reconciliation) and [all30 current readiness/monograph dispositions](#g2-current-readiness-and-monograph-eligibility) supersede reliance on the source-bound grades below. Those G1 rows are preserved history; no model or validation is completed.
+
+### Current English display names — 2026-10-19
+
+The [reviewed English-name maintenance](../07%20Audits%20and%20Handoffs/HARMONY_ENGLISH_NAME_MAINTENANCE_2026-10-19.md) supersedes the inherited analyst spellings for current display only. Source Japanese/ruby, stable subject IDs, evidence references and historical naming states below remain unchanged. These external name witnesses are not new literary evidence.
+
+| Subject | Current preferred display / short form | Preserved former labels and limits |
+| --- | --- | --- |
+| HAR-C001 | Tuan Kirie / Tuan | 霧慧トァン, ruby きりえ; full prose-publisher name verified |
+| HAR-C002 | Miach Mihie / Miach | Miaha; 御冷ミァハ, ruby みひえ; full prose-publisher name verified |
+| HAR-C003 | Cian | Kian; 零下堂キアン, ruby れいかどう; licensed prose first name verified; Cian Reikado is full official-film spelling, novel surname unverified |
+| HAR-C019 | Edison Carter / Carter | エディスン・カーター; full prose-publisher name verified |
+
+Nuaza, Keita, Etienne, Oscar Stauffenberg, Tokume Ichirou, Reiko, Gabriel, Vashilov and Uwe retain their existing preferred labels with qualified alternatives in the maintenance record. Proposed external alternatives Nuada Kirie, Elijah Vashlov, Gabrielle Étaín and Uwe Woll/Wohl have not been verified here as licensed English-novel spellings; the record distinguishes actually verified film spellings from other search leads. The anonymous Kel Tamasheq representative remains unnamed.
 
 **Historical G1 boundary HAR-U020:** 30recognized subjects/110actor-history rows/63directional IDs/161relationship-history rows/108readiness-history rows. Two existing actor/readiness histories append; no new personal subject or directional act is fabricated from the collective framing position/historical co-naming. Four narrow DOMAIN_BOUNDED/26RECOGNITION_ONLY; models NOT_STARTED/validation NOT_PERFORMED. Complete source coverage does not expand supported eras/domains or complete G5.
 
