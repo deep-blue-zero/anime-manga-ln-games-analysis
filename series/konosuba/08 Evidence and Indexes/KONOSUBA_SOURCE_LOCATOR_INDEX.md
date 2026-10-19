@@ -1019,3 +1019,45 @@ Native5358777bytes/SHA256`a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78b
 | FD-U025 | item/navigation-documents.xhtml / 0 | OFF_SPINE_NAVIGATION_RESIDUAL |
 
 Main3645P/bonus0P/nonfiction62P/total3707P; full ruby/residual/image scopes before uncoded seal 2026-10-18T22:35:15.015450+00:00;92selected premises/177native-joined voices/31unchanged-contract local assessments/27ten-ledger appends. Supplemental15accepted/14already publishedof19; mixed5published; global percentage null. All25units3707P/15distinctimagesactuallyreceived:9principalbodies3645P,nonfiction62P, nodistinctsuppliedbonusfiction. Profileandfullcoverimage-onlyparatextreadseparatelyfromfiction. Hirukumastatesselectivegame-Part-Onecutting/expansion;thisisnotfreshwholegame/film/web/adaptationreading.
+
+
+## YORI-01 accepted whole-edition routes — 2026-10-19T00:06:22.409696+00:00
+
+Native2395940bytes/SHA256`71bf144bb0cead076949ef195e773eadab84676c2d650935bb41786794fd3594`. [Component register](../10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI01_COMPONENT_REGISTER.json), [full reading](../10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI01_DEEP_READING.md), [91selectedpremises](../10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI01_HUMOR_REGISTER.md), [126voicecontexts](../10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI01_VOICE_REGISTER.md), [31 local assessments](../10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI01_EXPLORATORY_LOCAL_ASSESSMENTS.json), [current qualifications](../10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI01_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](../10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI01_RECEIVING_AND_PROVENANCE.json) control exact joins.
+
+| Unit | Native member / P slots | Actual role |
+|---|---|---|
+| YORI-01-U001 | titlepage.xhtml / 0 | COVER_ART |
+| YORI-01-U002 | text/part0000.html / 0 | REPEATED_COLOR_COVER |
+| YORI-01-U003 | text/part0001.html / 0 | COLOR_DARKNESS_TEASER_WITH_TEXT |
+| YORI-01-U004 | text/part0002.html / 0 | COLOR_CHRIS_MEGUMIN_TEASER_WITH_TEXT |
+| YORI-01-U005 | text/part0003.html / 0 | COLOR_VANIR_AQUA_WORK_TEASER_WITH_TEXT |
+| YORI-01-U006 | text/part0004.html / 0 | VISUAL_TOC_AND_DESIGN_CREDIT |
+| YORI-01-U007 | text/part0005.html / 0 | PRINTED_TITLE_AND_IMPRINT |
+| YORI-01-U008 | text/part0006.html / 4 | ELECTRONIC_LAYOUT_NOTICES |
+| YORI-01-U009 | text/part0007.html / 12 | TEXTUAL_TABLE_OF_CONTENTS |
+| YORI-01-U010 | text/part0008.html / 0 | WRITTEN_CHARACTER_PROFILES |
+| YORI-01-U011 | text/part0009.html / 0 | STORY01_TITLE_WRAPPER |
+| YORI-01-U012 | text/part0010.html / 336 | STORY01_AXEL_ARCHPRIEST |
+| YORI-01-U013 | text/part0011.html / 0 | STORY02_TITLE_WRAPPER |
+| YORI-01-U014 | text/part0012.html / 353 | STORY02_AXEL_EXPLOSION_DETECTIVE |
+| YORI-01-U015 | text/part0013.html / 0 | STORY03_TITLE_WRAPPER |
+| YORI-01-U016 | text/part0014.html / 367 | STORY03_CRUSADER_TO_PROTECT |
+| YORI-01-U017 | text/part0015.html / 0 | STORY04_TITLE_WRAPPER |
+| YORI-01-U018 | text/part0016.html / 398 | STORY04_FORTUNATE_SILVER_GIRL |
+| YORI-01-U019 | text/part0017.html / 0 | STORY05_TITLE_WRAPPER |
+| YORI-01-U020 | text/part0018.html / 312 | STORY05_TO_BECOME_UNDEAD_KING |
+| YORI-01-U021 | text/part0019.html / 0 | STORY06_TITLE_WRAPPER |
+| YORI-01-U022 | text/part0020.html / 302 | STORY06_BUSY_DEMON_GENERAL |
+| YORI-01-U023 | text/part0021.html / 0 | STORY07_TITLE_WRAPPER |
+| YORI-01-U024 | text/part0022.html / 472 | STORY07_BEWARE_COUNTERFEITS |
+| YORI-01-U025 | text/part0023.html / 0 | STORY08_TITLE_WRAPPER |
+| YORI-01-U026 | text/part0024.html / 208 | STORY08_AXEL_PROBLEM_CHILDREN |
+| YORI-01-U027 | text/part0025.html / 0 | RASTER_AFTERWORD_CREATOR_COMMENTS_AND_INITIAL_PUBLICATION_TABLE |
+| YORI-01-U028 | text/part0026.html / 0 | EXTERNAL_QR_SS_AUDIO_PROMOTION_ONLY |
+| YORI-01-U029 | text/part0027.html / 0 | JACKET_BIOS_COVER_DESIGN_AND_SYNOPSIS |
+| YORI-01-U030 | text/part0028.html / 17 | ELECTRONIC_AND_UNDERLYING_PRINT_COLOPHON |
+| YORI-01-U031 | text/part0029.html / 3 | RIGHTS_AND_BASE_EDITION_NOTICES |
+| YORI-01-U032 | text/part0030.html / 0 | BOOKWALKER_BRANDING |
+
+Main2748P/bonus0P/nonfiction36P/total2784P; full ruby/residual/image scopes before uncoded seal 2026-10-18T23:45:55.735751+00:00;91selected premises/126native-joined voices/31unchanged-contract local assessments/26ten-ledger appends. Supplemental16accepted/15already publishedof19; mixed5published; global percentage null. All32textualunits2784P/26images actually received:8integral distinct fiction stories2748P,36Ptextual nonfiction plus separately viewed raster afterword/profiles/jacket/promotion. Seven prior packaged bonuses are now integral stories, eighth newly written; no additional supplied electronic bonus. QR-only SS/audio not admitted. Each story has its own chronology/access and stable ID. Minor bio-legibility limit declared, no missing fiction.
