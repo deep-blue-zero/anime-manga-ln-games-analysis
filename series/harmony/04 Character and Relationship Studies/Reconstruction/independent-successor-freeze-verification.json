@@ -1,0 +1,84 @@
+{
+  "original_preservation": [
+    {
+      "archive": "HARMONY_G5_ORIGINAL_V1_POLICIES.json",
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_ETIENNE_RECONSTRUCTION_MODEL.md",
+      "hash_matches_original_freeze": true,
+      "bytes_match": true
+    },
+    {
+      "archive": "HARMONY_G5_ORIGINAL_V1_POLICIES.json",
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_REIKO_RECONSTRUCTION_MODEL.md",
+      "hash_matches_original_freeze": true,
+      "bytes_match": true
+    },
+    {
+      "archive": "HARMONY_G5_ORIGINAL_V1_POLICIES.json",
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_NUAZA_RECONSTRUCTION_MODEL.md",
+      "hash_matches_original_freeze": true,
+      "bytes_match": true
+    },
+    {
+      "archive": "HARMONY_G5_ORIGINAL_V1_POLICIES.json",
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_UWE_RECONSTRUCTION_MODEL.md",
+      "hash_matches_original_freeze": true,
+      "bytes_match": true
+    },
+    {
+      "archive": "HARMONY_G5_KEITA_ORIGINAL_V1.json",
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_KEITA_RECONSTRUCTION_MODEL.md",
+      "hash_matches_original_freeze": true,
+      "bytes_match": true
+    }
+  ],
+  "successor_freezes": [
+    {
+      "freeze": "HARMONY_G5_SUCCESSOR_FREEZE_V1_1.json",
+      "sha256": "f45e8f62b675d57d5f36c69f603c7f3691f7456860c90527f4820c29f327b822",
+      "files": [
+        {
+          "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_ETIENNE_RECONSTRUCTION_MODEL.md",
+          "match": true
+        },
+        {
+          "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_REIKO_RECONSTRUCTION_MODEL.md",
+          "match": true
+        },
+        {
+          "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_NUAZA_RECONSTRUCTION_MODEL.md",
+          "match": true
+        },
+        {
+          "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_UWE_RECONSTRUCTION_MODEL.md",
+          "match": true
+        },
+        {
+          "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_G5_ORIGINAL_V1_POLICIES.json",
+          "match": true
+        },
+        {
+          "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/Interactive/scenarios_successors.json",
+          "match": true
+        }
+      ]
+    },
+    {
+      "freeze": "HARMONY_G5_KEITA_SUCCESSOR_FREEZE_V1_1.json",
+      "sha256": "27ea8b6d2c439fbdda28281fd0ce1addd870aaf8373b7798a955032c76534705",
+      "files": [
+        {
+          "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_KEITA_RECONSTRUCTION_MODEL.md",
+          "match": true
+        },
+        {
+          "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_G5_KEITA_ORIGINAL_V1.json",
+          "match": true
+        },
+        {
+          "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/Interactive/scenarios_keita_successor.json",
+          "match": true
+        }
+      ]
+    }
+  ]
+}

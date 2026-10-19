@@ -5,13 +5,13 @@ artifact_type: longitudinal_ledger
 series: Harmony / ハーモニー
 series_id: harmony
 generation: HARMONY_BOOTSTRAP_V1
-version: '0.23'
+version: '0.24'
 status: active_provisional
 scope: Actor, directional relationship and reconstruction-readiness ledger
 source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U020 interstice34 text/part0013.html and actual epilogue heading35/body36 text/part0015.html through2171rawbodycp/literal body-etml closure; ancillary37–40 classified excluded; all40spine occurrences accounted; next source NONE
 canonical_home: series/harmony/03 Longitudinal Ledgers/HARMONY_ACTOR_RELATIONSHIP_AND_READINESS_LEDGER.md
 created: '2026-10-16'
-review_status: G2_RECONCILIATION_SEMANTIC_ACCEPTED_2026_10_17
+review_status: G5_CURRENT_DISPOSITIONS_AND_NAMES_INDEPENDENTLY_REVIEWED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -23,7 +23,7 @@ relationships: 63
 
 # Actor, relationship and readiness ledger
 
-**Current G2 retrieval:** [Actor/directional reconciliation](#g2-actor-and-directional-history-reconciliation) and [all30 current readiness/monograph dispositions](#g2-current-readiness-and-monograph-eligibility) supersede reliance on the source-bound grades below. Those G1 rows are preserved history; no model or validation is completed.
+**Current retrieval:** [G5 model/coverage dispositions](#g5-current-model-and-coverage-dispositions) select the accepted operational models and tests. [G2 actor/directional reconciliation](#g2-actor-and-directional-history-reconciliation) and [all30 G2 readiness/monograph dispositions](#g2-current-readiness-and-monograph-eligibility) retain their independent evidence ceilings. G1 and G2 rows below are preserved historical states; their NOT_STARTED fields are not current G5 selectors.
 
 ### Current English display names — 2026-10-19
 
@@ -576,3 +576,13 @@ The review deliberately tested whether absent omniscience, an unvalidated future
 The closest cases are Keita, Etienne and Reiko. Their promotions are restricted to observed changes of stakes: guarded personal disclosure versus official pressure and intellectual concession; routine cooperation versus actual armed danger; ordinary hospitality/grief versus explicitly restricted information and compelled disclosure. A new formal scene is not an additional threshold invented by G2. C007's offer remains a strong positive literary case but does not test a costly adverse conflict of his own obligations; Gabriel's elaborate interview never independently establishes a changed protected-disclosure policy. These are evidence distinctions, not importance, anonymity or total-private-access distinctions. This asymmetry must be challenged again by any G5 designer; none authorizes broad extrapolation.
 
 All ten positive reconstruction candidates (one multicontext plus nine bounded) have explicit unsupported domains. No numerical confidence score substitutes for them. Monograph candidates are planning outputs, not new dedicated directories or global curation records. Existing frozen readings/evidence remain valid discovery inputs; qualifying future monographs, alias mappings or discovery changes go to the designated curator. G2 has produced no behavioral rule set, generated dialogue, simulated scene, model validation or character-registry edit.
+
+
+<a id="g5-current-model-and-coverage-dispositions"></a>
+## G5 current model and coverage dispositions
+
+All30subjects have individually reasoned [G5 dispositions](../04%20Character%20and%20Relationship%20Studies/Reconstruction/HARMONY_RECONSTRUCTION_PROTOCOL_AND_COVERAGE.md#thirty-individual-dispositions). The current [ten-model selector](../04%20Character%20and%20Relationship%20Studies/Reconstruction/HARMONY_G5_CURRENT_MODEL_SELECTION.json) binds each full selected/tested hash and semantic-body identity. G2's1MULTICONTEXT_CANDIDATE/9DOMAIN_BOUNDED/20RECOGNITION_ONLY eligibility and all historical rows above remain unchanged.
+
+Tuan receives the time-indexed multicontext model; Miach, Cian, Nuaza, Oscar and Vashilov receive bounded models; Keita, Reiko, Etienne and Uwe receive narrower domain models. The20other subjects retain their distinct no-model reasons, including Gabriel's guarded interview without a demonstrated changed-disclosure policy, the unnamed representative's positive offer without an adverse decision series, Carter's mediated single crisis, the unindividuated recorded claimant and Yuri's unheard answer. Final enunciation creates no31stperson.
+
+The [independent validation/error analysis](../04%20Character%20and%20Relationship%20Studies/Reconstruction/HARMONY_G5_VALIDATION_AND_ERROR_ANALYSIS.md) and [actual execution](../04%20Character%20and%20Relationship%20Studies/Reconstruction/Interactive/README.md) record32retrospective cases and96actualresponses across15contexts. Five source-corrected successors preserve the original files/failures and are independently rerun. Cian's original pronoun error is corrected in actual adaptive dialogue without an unwarranted model rewrite. Semantic-body identity separately binds five publication-only metadata updates. Acceptance is scope-specific source consistency, plausible sampling and abstention; it does not promote a universal simulated person or verify unseen outcomes. Current names follow the preferred identity table above; stable IDs and historical aliases remain intact.
