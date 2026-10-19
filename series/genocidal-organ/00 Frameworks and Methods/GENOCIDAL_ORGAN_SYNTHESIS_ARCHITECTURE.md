@@ -5,13 +5,13 @@ artifact_type: synthesis_architecture
 series: Genocidal Organ / 虐殺器官
 series_id: genocidal-organ
 generation: GENOCIDAL_ORGAN_BOOTSTRAP_V1
-version: '0.8'
+version: '0.9'
 status: active_provisional
 scope: Synthesis architecture and reconstruction specification
 source_boundary: Original Japanese prose novel; current bounded witness frontier owned by source map and entrypoint; historical G0 admitted zero units
 canonical_home: series/genocidal-organ/00 Frameworks and Methods/GENOCIDAL_ORGAN_SYNTHESIS_ARCHITECTURE.md
 created: '2026-10-16'
-review_status: G5_RETROSPECTIVE_ONLY_INDEPENDENTLY_ACCEPTED_EXACT_PUBLICATION_SEPARATE
+review_status: G5_ACCEPTED_AND_POST_G6_INTERACTIVE_BOUNDED_EXTENSION_INDEPENDENTLY_EVALUATED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -210,3 +210,10 @@ The existing §5 contract is now implemented by eight independently source-revie
 The sole [independent validation/error report](../04%20Character%20and%20Relationship%20Studies/Reconstruction/GENOCIDAL_ORGAN_G5_VALIDATION_AND_ERROR_ANALYSIS.md) records actual59-case manual application:40 source-known replays and19 noncanonical sensitivity/boundary probes, five separate dimensions, weakly discriminative ranges, explicit abstentions and full error history. One Alex application overextended a recipient premise; the corrected evaluation retains PARTIAL strict binding and separately supported peer register without changing the frozen model. Two prescoring fixture errors and the post-scoring correction remain attributable; no new-model rerun is claimed. Construction-time metadata stays immutable, while actual current acceptance is external and hash-bound. RETROSPECTIVE_ONLY is the validation ceiling, not a universal person-level or prospective success claim.
 
 Independent source/semantic reconciliation accepts the actual bounded models, corrected report and current owner scopes; exact branch publication/audits remain separate. INITIAL lifecycle and existing responsibilities/three owners remain adequate. G4's literary integration supplies no behavioral evidence, and these policies do not become the novel's endorsed interpretation. G6 release, its independent cross-gate checks and authorized protected-main integration remain pending the exclusive release owner after G5 publication closes. No new source operation is authorized.
+
+
+### Post-G6 interactive extension under the existing reconstruction responsibility — 2026-10-19
+
+The new owner instruction authorizes actual conversational execution of the eight accepted v1 policies after PR231's completed G6 release. The [interactive extension](../04%20Character%20and%20Relationship%20Studies/Reconstruction/Interactive/README.md) implements the existing §5 responsibility through a small executable harness,56 actual responses in eight separately instantiated/resumed sessions, complete conditions/runtime receipts and independent nonauthor evaluation. A noncanonical English utterance adapter samples only a supported function alongside the original analytical guards; it adds no narrated event, hidden mind, new biography or broader domain policy. Five initial evaluator-led turns per subject are followed by two adaptive continuations selected from actual responses. The retrospective source boundary, INITIAL architecture and existing three cumulative owners remain adequate.
+
+Source consistency, scenario plausibility and unsupported generalization are evaluated separately. The retained Lucius gloss defect, partial clarification and clarification after an explicitly supplied missing source fact do not establish a defect in the unchanged original rule. No successor model, capability promotion or new source unit is warranted by the experiment. Complete policies contain later facts, and the CLI supplies inherited host instructions; knowledge withholding, actual runtime behavior and novel-unseen predictive validity are different matters. The [actor/readiness owner](../03%20Longitudinal%20Ledgers/GENOCIDAL_ORGAN_ACTOR_RELATIONSHIP_AND_READINESS_LEDGER.md#go-post-g6-interactive-extension) and current entrypoint route this separate bounded result. No accepted G5 evaluation or historical G6 audit is rewritten or reopened; the new publication requires its own exact-head checks.
