@@ -167,3 +167,26 @@ The whole v0.41 entrypoint body is preserved byte-for-byte in the historical rec
   "decision": "ACCEPT_DELIVERY_CONTENT_PUBLICATION_STILL_REQUIRED"
 }
 ```
+
+
+---
+
+## Attributable independent correction review
+
+Review author: independent nonauthor agent harmony_final_review, 2026-10-19. The following 3,993-byte receiving report is reproduced verbatim, SHA-256 926a5dde4b50e7caf3cf175d6886e05ea63bf9127ae1a891ee334533e46a106a. Its [review data receipt](GO_PACKAGER_INDEPENDENT_CORRECTION_REVIEW.json) is preserved separately; review records remain outside the execution-artifact manifest to avoid circular bindings.
+
+# Independent GO receipt-packager correction review
+
+**ACCEPT the focused correction** in `package_receipts.py`, SHA-256 `a755093aeaa7deda71c9ac4d9a275174852ae485ce51eb50d1d3e96bfb755590`. The original projection, SHA-256 `6b9f41bf134ca8afed20e636b865fd61164f0b54385cd93ba4c1ff49fcdffe47`, could publish a five-record initial conversation whose fifth record failed. The candidate now requires exactly one matching successful manifest result with the recorded completed count, then explicitly rejects per-turn return, timeout, parse, unexpected-item, session, missing-response-list and missing-completion-list failures before either public file is written. These new guards survive optimized Python. The diff is limited to initial-record admission; output construction and schema remain unchanged.
+
+I inspected both scripts for filesystem safety before execution, copied their exact bytes into a new private sibling scratch directory and ran the fixture runner there. The scripts read retained runtime files, mutate isolated temporary copies, create exclusive new outputs and invoke only the known local packager. I verified source-copy paths and absence of symbolic links. No canonical file, retained original, Git state or remote was modified, and no character model was executed.
+
+I independently reproduced **22 software checks**: a valid retained fixture and ten fault variants, each under normal and optimized Python. All twenty faulty executions rejected before public output; both valid executions passed. Four additional negative controls reproduce the original defect: the old packager accepts both a stopped manifest with five records and a missing fifth response, under both modes. These are demonstrated regressions rather than assertions that merely mirror the patch.
+
+The corrected packager rebuilt all **56 actual responses in eight distinct sessions** into new outputs. Both files are byte-identical to the existing packet: `interactions.json` SHA-256 `e57b052e75ca87f1ab086975a267e3b539dbc737a14050c0cd3ff50d348ddd93`; `runtime_receipt.json` SHA-256 `c5be8c0dbd95c80b3691f3f38d868bdcd76bcd9c4b8372bdcb750472c6ff1449`. I also checked all56 event/message/completion identities, nonblank actual responses, successful return/timeout metadata, persistent session identities, raw stream hashes and absence of unexpected tool items. The original Lucius semantic failure remains preserved; this is a packaging correction, not a rerun or changed character judgment.
+
+The companion README candidate, SHA-256 `610c303b3a7fb0e0d184c155da71dec26d8bf28d672fd1267a328aca35285232`, changes only version metadata and one defect/test/rebuild paragraph. The artifact manifest candidate, SHA-256 `2a3d3aa54a81c9c6cd3baf5401244d65061338b048a07d817b13070696c9899d`, changes only the packager length/hash record. Its nine execution/data artifacts and eight frozen policy hashes all verify. No policy, scenario, source or actual runtime payload changes are part of this candidate.
+
+Acceptance is intentionally focused. Existing stream-hash and adaptive checks remain assertion-based and disappear under optimized Python; the twenty-two checks do not certify those pre-existing paths in that mode. This patch also does not add comprehensive malformed-input validation for omitted on-disk sessions, duplicate turn indices, cross-case repeated UUIDs or blank strings inside a nonempty response list. The actual retained packet satisfies those relevant integrity conditions independently. These unchanged limits do not block the demonstrated failed-initial-turn repair; no claim of comprehensive hostile-record validation should be added.
+
+The separate data receipt `GO_PACKAGER_INDEPENDENT_CORRECTION_REVIEW.json` has SHA-256 `a51418eef714251c913f0af1ecb8c8dd77fe777f97b9c8cd363a5206eeccb53f`. This private receiving review accepts the named candidates for the owner's normal exact-head publication process. It makes no claim about an unobserved PR merge, protected integration or resulting-main audit.

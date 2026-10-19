@@ -32,16 +32,28 @@ def main():
     streams = []
     manifests = []
     for run in a.initial:
-        manifests.append({"run": run.name, "manifest": load(run / "run_manifest.json")})
+        manifest = load(run / "run_manifest.json")
+        manifests.append({"run": run.name, "manifest": manifest})
         for path in sorted(run.glob("*/conversation.json")):
             data = load(path)
             cid = data["case"]["id"]
             if cid in conversations:
                 raise ValueError("Duplicate initial session")
-            conversations[cid] = {"case": data["case"], "initial": data["turns"], "adaptive": []}
             if len(data["turns"]) != 5:
                 raise ValueError("Incomplete initial conversation")
+            results = [r for r in manifest["results"] if r["id"] == cid]
+            if (len(results) != 1
+                    or results[0]["status"] != "EXECUTED_AWAITING_INDEPENDENT_EVALUATION"
+                    or results[0]["completed_turns"] != len(data["turns"])):
+                raise ValueError("Unsuccessful initial run: " + cid)
+            session_id = results[0]["session_id"]
+            conversations[cid] = {"case": data["case"], "initial": data["turns"], "adaptive": []}
             for turn in data["turns"]:
+                if (turn["returncode"] != 0 or turn["timed_out"]
+                        or turn["parse_error"] or turn["unexpected_items"]
+                        or not session_id or turn["session_id"] != session_id
+                        or not turn["responses"] or not turn["usage"]):
+                    raise ValueError("Unsuccessful initial turn: %s/%s" % (cid, turn["turn"]))
                 stem = path.parent / ("turn-%02d" % turn["turn"])
                 payload = stem.with_suffix(".events.jsonl").read_bytes()
                 stderr = stem.with_suffix(".stderr.txt").read_bytes()

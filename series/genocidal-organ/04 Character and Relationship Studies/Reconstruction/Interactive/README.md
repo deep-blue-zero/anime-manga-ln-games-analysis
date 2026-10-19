@@ -3,7 +3,7 @@ title: Genocidal Organ — post-G6 interactive evaluation extension
 artifact_id: GENOCIDAL_ORGAN_POST_G6_INTERACTIVE_EVALUATION
 artifact_type: reconstruction_validation_extension
 series_id: genocidal-organ
-version: '1.0'
+version: '1.1'
 status: active_provisional
 scope: Actual separately instantiated, bounded multi-turn application of the eight accepted frozen reconstruction policies
 source_boundary: GO-JP-EPUB-001; completed GO-U001–028/all44; no new narrative admission
@@ -40,6 +40,8 @@ The CLI also supplies its base instructions, platform wrappers, a skills catalog
 The initial [harness](character_harness.py) and [adaptive continuation runner](resume_followups.py) use Python's standard library. They write exact composed input bytes, raw stdout JSONL, stderr, elapsed times, return codes, session IDs and SHA-256 bindings into a **new** working-plane directory. Existing runs are never overwritten. [scenarios.json](scenarios.json) binds each supplied policy's full-file SHA-256. The experiment records the source witness checksum as a fresh identity check only: the available local 317,774-byte EPUB matches admitted `a4107c01b69c0e8819818eabb0198cc62d4174aa173eb0ebdca3a0dbf93b7df0`. No new whole-book inspection, edition authentication or publisher-master comparison follows from that match.
 
 The [complete interactions](interactions.json) and [runtime receipt](runtime_receipt.json) retain every interlocutor turn and every returned character/analytical response. Full authored initial input is reproducible by applying the recorded wrapper to the exact policy bytes, JSON conditions and first turn; later authored input is the exact supplied turn. Raw private composed inputs remain working-plane artifacts because reproducing the entire policy eight times would add no new evidence. The [receipt projection](package_receipts.py) retains complete raw stdout/stderr as lossless JSON strings, with original byte hashes. Adaptive input-container files are normalized from CRLF to LF for publication; parsed prompt strings and their actual input-byte hashes are unchanged, and original container hashes remain in the runtime manifests. [ARTIFACT_HASHES.json](ARTIFACT_HASHES.json) binds execution/data artifacts and the admitted profile hashes; prose/review and the manifest itself are excluded to avoid self-reference. Publication review excludes credentials, local absolute paths and source-media payloads.
+
+Pre-integration software review found that the original projection checked the five-turn count without requiring a successful initial manifest result: a failed fifth turn could still occupy the fifth record. The corrected projection checks the initial result and each turn's return, timeout, parse, item, session, response and completion metadata before writing public files. Ten constructed failure variants were rejected under both ordinary and optimized Python, while a valid retained fixture passed both modes. These22 software checks are not new character executions. Rebuilding the actual56 responses with the corrected projection produces byte-identical transcript and runtime-receipt files; original execution records and the retained Lucius failure are unchanged.
 
 To rerun, supply a repository checkout containing the exact policies, a new output directory outside the analytical corpus, and the recorded configuration:
 
