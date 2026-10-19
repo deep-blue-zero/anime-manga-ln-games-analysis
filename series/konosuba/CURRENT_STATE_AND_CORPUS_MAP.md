@@ -4,7 +4,7 @@ artifact_type: corpus_map
 scope: FULL_MAIN_SERIES
 generation: V1
 status: canonical
-source_boundary: MAIN04EXCLUDED analysis accepted/new24resources144P/31images; retained9principal members/newprincipalcredit0; containingpublicationpending; supplemental19/mixed5closed; other13mainexcluded programs remain; full41continues
+source_boundary: MAIN05EXCLUDED analysis accepted/new24resources58P/37images; retained12principal members/newprincipalcredit0; containingpublicationpending; supplemental19/mixed5closed; other12mainexcluded programs remain; full41continues
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,14 +17,14 @@ project_initialization:
   source_reconnaissance_complete: true
   required_ledgers_initialized: true
   sequential_analysis_lock: open
-  next_permitted_operation: EXPANDED_MAIN04EXCLUDED_PUBLICATION_GATE
+  next_permitted_operation: EXPANDED_MAIN05EXCLUDED_PUBLICATION_GATE
 sequential_execution:
   mode: continuous_sequential
   unit_type: volume
   authorized_start: V11
   terminal_boundary: V17
   committed_high_water_mark: V17
-  next_candidate_operation: EXPANDED_MAIN04EXCLUDED_PUBLICATION_GATE
+  next_candidate_operation: EXPANDED_MAIN05EXCLUDED_PUBLICATION_GATE
   confirmation_between_units: false
   run_state: active
 ---
@@ -44,7 +44,7 @@ The project is not primarily a plot-summary project and is not satisfied by trai
 ## 2. Current authority state
 
 <!-- CURRENT_OPERATION_START -->
-**Main 04 excluded-component analysis is accepted; exact publication verification is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V04_EXCLUDED_DEEP_READING.md), [register](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V04_EXCLUDED_COMPONENT_REGISTER.json), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V04_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V04_EXCLUDED_RECEIVING_AND_PROVENANCE.json) govern uptake. All24newresources144P/31images actually received;9acceptedprincipal members3135P retainedexact/newprincipalcredit0. One67Pbonus,26Pcreatorafterword and51otherwrapper/credit/navigation slots; one embedded welcome composition and one two-page imagined sequence identified. Staged frontmatter/profile/promotion separate. These slot counts are not a narrative denominator. Selected12comic premises/32written fragments,31principal+8party informed comparisons andfourtypedconstraints retain all partial/untested branches. MAIN01/MAIN02/MAIN03excluded andsupplemental19/mixed5gates are closed. MAIN05excluded admission follows this fullgate/freshreload;other13mainexcluded programs andallremaining synthesis/model/secondary/curation/releasework continue.
+**Main 05 excluded-component analysis is accepted; exact publication verification is next.** [Reading](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V05_EXCLUDED_DEEP_READING.md), [register](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V05_EXCLUDED_COMPONENT_REGISTER.json), [qualifications](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V05_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) and [receiving](10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V05_EXCLUDED_RECEIVING_AND_PROVENANCE.json) govern uptake. All24newresources58P/37images actually received;12acceptedprincipal members3417P retainedexact/newprincipalcredit0. No separate prose bonus is supplied:14Pcreatorafterword plus44otherwrapper/credit/navigation slots. New raster documents, tourism article/map, contextual illustrations and embedded quoted/hypothetical sequences retain distinct planes. These resource/slot/image counts are not a narrative denominator. Selected17comic premises/16written fragments,31principal+8party explicit new-enactment non-tests andfourtypedconstraints retain all partial/untested branches. MAIN01-MAIN04excluded andsupplemental19/mixed5gates are closed. MAIN06excluded admission follows this fullgate/freshreload;other12mainexcluded programs andallremaining synthesis/model/secondary/curation/releasework continue.
 <!-- CURRENT_OPERATION_END -->
 
 The main17 principal readings/checkpoints, main-only specialists, MAIN_ONLY_R1 reconstruction/diagnostic suite, main-principal evidence indexes and four designated holdout-principal assessments are accepted. Their historical derivation, original forecasts, adverse findings and frozen bytes remain separately authoritative at their original boundaries. They are not a substitute for outstanding edition components, expanded synthesis or revised models.
@@ -72,14 +72,14 @@ This execution uses the owner-designated local primary-source EPUB collection; i
 
 | Source group | Fixed objects | Current analytical scope and remaining work |
 |---|---:|---|
-| Main series | 17 | Accepted principal narratives/checkpoints retained; MAIN01/MAIN02/MAIN03 excluded full gates closed; MAIN04 analysis accepted/publication pending; other13 programs require separate admission and dispositions |
+| Main series | 17 | Accepted principal narratives/checkpoints retained; MAIN01-MAIN04 excluded full gates closed; MAIN05 analysis accepted/publication pending; other12 programs require separate admission and dispositions |
 | Dust | 8 | All seven numbered volumes and the separately titled unnumbered continuation have closed whole-supplied-edition gates; original principal holdout histories remain separate |
 | Explosions / Continued Explosions | 5 | All three plus two whole-supplied-edition gates closed; chronology, viewpoint and individual component limits retained |
 | Masked Devil / Fantastic Days | 2 | Both whole-supplied-edition gates closed; Mask's original principal holdout and Fantastic Days' selective game-adaptation scope remain distinct |
 | Yorimichi | 4 | All four collections have closed whole-supplied-edition gates at their declared component scopes; collection01's original principal holdout remains separately preserved |
 | Cheers / Blessing / Memorial Fanbook / TRPG Core / Advanced | 5 | All five programs have closed gates at declared supplied-component/page scopes, with dense-page and unequal-source-plane limits retained |
 
-Nineteen of19 supplemental supplied editions have closed full publication gates; all five mixed/reference gates are closed. 3of17main excluded-component programs have closed full gates; MAIN04analysis is accepted with its publication gate pending; other13remain. Original accepted principal bodies retain exact history withzero newprincipal readingcredit. This book accounting is not a narrative-component percentage. The overall component denominator remains unresolved and percentage is null. Original metadata audits retain historical20/21/36-object scopes; none alone certifies the full41 corpus or semantic completion. Expanded synthesis, revised models, secondary-character work and final audit remain active.
+Nineteen of19 supplemental supplied editions have closed full publication gates; all five mixed/reference gates are closed. 4of17main excluded-component programs have closed full gates; MAIN05analysis is accepted with its publication gate pending; other12remain. Original accepted principal bodies retain exact history withzero newprincipal readingcredit. This book accounting is not a narrative-component percentage. The overall component denominator remains unresolved and percentage is null. Original metadata audits retain historical20/21/36-object scopes; none alone certifies the full41 corpus or semantic completion. Expanded synthesis, revised models, secondary-character work and final audit remain active.
 
 Before another source is admitted, its predecessor's exact publication/readback, source audit, housekeeping, final actual-source audit/status and fresh published-authority reload must be satisfied under the governing workflow. Admission then verifies exact local identity/CRC/OPF/structure, records current informed exposure/questions and seals zero-new-body preparation. Full actual text/ruby/residual/image reading and an uncoded seal precede formal outcomes. Extraction, prior principal validation, captions and marketing do not substitute for that work.
 

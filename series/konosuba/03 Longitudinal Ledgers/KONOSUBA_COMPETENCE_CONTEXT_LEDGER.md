@@ -1211,3 +1211,12 @@ New24resources144P/31images actually read/viewed; accepted9principal members3135
 | ID | Subjects / native route | Observation | Implication | Limit |
 |---|---|---|---|---|
 | M04EX-LD07 | Kazuma/Aqua/Wiz/other hired workers; staged or imagined actors separately typed; U029P18-26/43-62;retainedU016P101-105/341-343 | Aqua performs convincing makeup; correct-looking disguise leads workers to a wrong ontology. Creature and object image joins correct first visual impressions. | Manual skill, diagnosis, safe sacred targeting and complete event success are separate. No spell release/efficacy shown. | New bonus and declared paratext; retained-principal joins are audits of existing events, not new independent tests. Original ledger prefixes, controls and scores stay exact. |
+
+
+## Main 05 excluded-component received observations — 2026-10-19T09:24:40.182556+00:00
+
+New24resources58P/37images actually read/viewed; accepted12principal members3417P retained withzero newprincipal reading credit. Containing publication/full gate pending. [Reading](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V05_EXCLUDED_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V05_EXCLUDED_LEDGER_APPEND_DECISIONS.json), [comparisons](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V05_EXCLUDED_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [qualifications](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V05_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) control uptake. Same informed root; selected17premises/16fragments are not a census, independent experiment or new blind scores. Frozen66/72/fourscores/14originalDustblanks exact.
+
+| ID | Subjects / native route | Observation | Implication | Limit |
+|---|---|---|---|---|
+| M05EX-LD07 | Kazuma/Aqua/Megumin/Darkness/Yunyun/Arue/chief/family/other stated actors; creator and hypothetical roles separately typed; U014P321-368;U020P172-185;U023P42-53;U027P455-488 | Plant-monster injury is mimicry, the cat-ear deity is a figurine, Aqua's cup mechanism stays unknown and Yunyun's lightning display accompanies coordinated waiting/dodging. | Recognized ability, display, actor knowledge, object identity and implementation success require distinct evidence. | New image/document/paratext reception; known principal event audit only, zero new principal pass credit or independent trial. Exact old ledger prefix, forecasts and scores retained. |

@@ -1668,3 +1668,12 @@ New24resources144P/31images actually read/viewed; accepted9principal members3135
 | ID | Subjects / native route | Observation | Implication | Limit |
 |---|---|---|---|---|
 | M04EX-LD04 | Kazuma/Aqua/Wiz/other hired workers; staged or imagined actors separately typed; V01-V32 | Wiz's preference correction, scoped acceptance, interrupted clarifications and group requests have distinct speakers and information. | Task/register/function require context; all selected whole effects portableL1, no automatic L3 from ruby/hesitation or acoustic claim. | New bonus and declared paratext; retained-principal joins are audits of existing events, not new independent tests. Original ledger prefixes, controls and scores stay exact. |
+
+
+## Main 05 excluded-component received observations — 2026-10-19T09:24:40.182556+00:00
+
+New24resources58P/37images actually read/viewed; accepted12principal members3417P retained withzero newprincipal reading credit. Containing publication/full gate pending. [Reading](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V05_EXCLUDED_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V05_EXCLUDED_LEDGER_APPEND_DECISIONS.json), [comparisons](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V05_EXCLUDED_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [qualifications](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V05_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) control uptake. Same informed root; selected17premises/16fragments are not a census, independent experiment or new blind scores. Frozen66/72/fourscores/14originalDustblanks exact.
+
+| ID | Subjects / native route | Observation | Implication | Limit |
+|---|---|---|---|---|
+| M05EX-LD04 | Kazuma/Aqua/Megumin/Darkness/Yunyun/Arue/chief/family/other stated actors; creator and hypothetical roles separately typed; CURRENT_SELECTED_VOICE_REGISTER | 16short written fragments preserve the actual speaker/document/imagined-role/creator/promotional plane; whole selections areL1with native forms retained. | No forced Japanese-only dependence from ruby, names, titles, honorifics or repeated formulas; no acoustic/native-human claim. | New image/document/paratext reception; known principal event audit only, zero new principal pass credit or independent trial. Exact old ledger prefix, forecasts and scores retained. |
