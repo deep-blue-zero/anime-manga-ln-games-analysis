@@ -1269,3 +1269,7 @@ All15 new textual resources71P/ruby/residuals and25 unique native images actuall
 
 ## VN-C01 — Vanir does not become an omniscient narrator
 MAIN07C5P221attributes unnecessary document inspection to Kazuma's inference; P227is Vanir's bounded selfclaim, P269–300his history account andP304–308Kazuma's reconstruction. P488reports the sale separately from the earlier presumptive packing. The completeI1–162is Alderp firstperson, not Vanir access to all causes. His declared intervention and future asset forecast are attributed. Other observers' gratitude, fear or belief does not certify the provider's pure motive or all offstage outcomes.
+
+
+## WZ-C01 — direct act, admission and retrospective account
+MAIN04C5P252/P273 leaves Wiz's disclosure intent uncertain; P409/P413 is Hans's admission, not a watched killing. P554/P563 near-instinct interpretation is Kazuma's hypothesis. After his loss of consciousnessP618, freezing every remnantP634 and full purificationP656–658 are retrospective accounts. Actual fading and vitality transferP641–648 have their own observed phase. Contextual gratitude does not make every private motive available.

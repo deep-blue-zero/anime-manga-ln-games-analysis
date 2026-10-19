@@ -1803,3 +1803,7 @@ All15 new textual resources71P/ruby/residuals and25 unique native images actuall
 
 ## VN-C01 — advantage, pressure and underestimated cost
 Vanir can select an entertaining reversal beyond instrumental necessity (MAIN07I93–104), presume a deal before assent (C5P220–222), or underweight a recipient's leverage (MASKU017). His own right to refuse U019P431–452 does not guarantee reciprocal consent; U021possession includes actual resistance. The12hypotheticalfirstresponses preserve one presumptive host-use continuation and a separate underidentified restraint choice. No moral-optimality, global updating failure or new source accuracy is inferred.
+
+
+## WZ-C01 — usefulness, information and operating fit
+Wiz's technical enthusiasm can omit actual buyer budgets, alternatives and working capital (MASK U011/U013/U015), while a local correction need not cure every later purchase. An initially mistaken menu interpretation has a helpful outcome before extortion is explained; subsequent objection is a different information state (U019P178–216). Eight hypothetical responses/four contrasts preserve cueing and the H04B cast-effect ambiguity. No favorable internal output becomes empirical reliability.

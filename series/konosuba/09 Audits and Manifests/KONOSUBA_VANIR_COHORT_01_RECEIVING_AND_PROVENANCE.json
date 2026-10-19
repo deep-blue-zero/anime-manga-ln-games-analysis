@@ -1,7 +1,7 @@
 {
   "schema": "KONOSUBA_VANIR_COHORT03_RECEIVING_AND_PROVENANCE_V1",
   "accepted_utc": "2026-10-19T22:24:39.262109+00:00",
-  "status": "ROOT_SEMANTIC_RECEIVING_COMPLETE_CONTAINING_PUBLICATION_PENDING",
+  "status": "SCOPED_TIER3_ACCEPTED_PUBLISHED_FULL_EXACT_SOURCE_GATE_CLOSED",
   "source_boundary_commit": "49dbe1b11b22a4007c33c9d3bea16c7877006bc1",
   "preceding_gate": "09 Audits and Manifests/KONOSUBA_MAIN17EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json",
   "receiver": "Same continuing informed root; new monograph/model/index, exact native/report provenance, private drafts and all12firstoutputs/6fixedcontrasts actually received. No delegated reader, independent model/reviewer, human-native, acoustic or fresh blind source validation.",
@@ -80,11 +80,17 @@
   },
   "preservation": "66current/72historical/fouracceptedscorefiles/Dust14originalblankfields/eightenteringmodels/SIandSY28originalnullfields/80unrelatedscratchfiles unchanged; no old forecast retargeting or final-main model rewrite.",
   "not_completed": [
-    "Exact Vanir candidate publication gate",
     "Remaining individual census/joins/incidental dispositions and earned artifacts",
     "Expanded specialist/principal/party/transfer synthesis and versioned revisions",
     "Curator-owned global registry/index enrollment and integration",
     "Component/release/final-entry audits and full program completion"
   ],
-  "publication_gate": "Pending exact stage/authorpreflight/freshheads-owner-rules/normalpush/fullreadback/sourceaudit/housekeeping/finalactualsource-status/freshauthorityreload."
+  "publication_gate": {
+    "source_commit": "90fb18d5302711cb265687c140ab5d5d151ebe06",
+    "closed_utc": "2026-10-19T22:46:39.446921+00:00",
+    "receipt": "09 Audits and Manifests/KONOSUBA_VANIRCOHORT01_PUBLICATION_GATE_CLOSE.json",
+    "fresh_authority_reload_utc": "2026-10-19T22:46:57.519405+00:00"
+  },
+  "artifact_pin_scope": "The artifacts list pins the exact original accepted cohort at source90fb18d5302711cb265687c140ab5d5d151ebe06. Postgate maintained census/status records can advance under explicit receipts; those historical pins are not claims that each later working copy stays identical.",
+  "publication_gate_requirement_at_authorship": "Pending exact stage/authorpreflight/freshheads-owner-rules/normalpush/fullreadback/sourceaudit/housekeeping/finalactualsource-status/freshauthorityreload."
 }

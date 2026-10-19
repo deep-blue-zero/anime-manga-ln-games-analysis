@@ -4,7 +4,7 @@ artifact_type: execution_and_source_reconciliation_audit
 scope: V11-V17 continuation and the fixed 41-object expanded-source program
 generation: V1
 status: active_provisional
-source_boundary: VANIRCOHORT01 semantic receiving/publication pending; all17mainexcluded/19supplemental/5mixed gates closed; fullsecondary/synthesis/versionedmodels/curation/integration/release active
+source_boundary: WIZCOHORT01 semantic receiving/publication pending; earlier3secondary gates and all declared source programs closed; fullcensus/earnedartifacts/expanded synthesis/versionedmodels/curation/integration/release active
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -21,8 +21,8 @@ The owner's 2026-10-16 request executes `KONOSUBA_CONTINUATION_AND_FULL_CORPUS_C
 | Execution mode | `continuous_sequential` |
 | Main-series authorized range | V11–V17 |
 | Accepted high-water mark | V17 principal and final Gen05 checkpoint; CP06/evidence freeze published and fully audited at a1539842 |
-| Current phase | Owner-resumed full program; Vanir scopedTier3 semantic receiving/publication pending; all declared source-program gates closed; broader individual/synthesis/release work active |
-| Next canonical operation | VANIRCOHORT01_PUBLICATION_GATE then fresh authority reload and continued individual census/earned cohorts/expanded synthesis; no MAIN18 |
+| Current phase | Owner-resumed full program; Wiz scoped Tier3 semantic receiving/publication pending; earlier three secondary gates closed; remaining individual/synthesis/release work active |
+| Next canonical operation | WIZCOHORT01_PUBLICATION_GATE then fresh authority reload and continued individual census/earned cohorts/expanded synthesis; no new source admission |
 | Current prospective model | Gen05 frozen through V15, original 25 blank pairs exact; formal V16–V17 8C/6P/1F/3AMB/7NT separate from accepted locals; no Gen06 |
 | Initial published continuing-branch head at reconnaissance | `0238f356ee2ade28e39aa3a940ea0e091f8211f4` |
 | Initial main at reconciliation | `53de8ba455938174a3f14f887cd33739261a4e5f` |
@@ -1385,3 +1385,13 @@ Exact source 49dbe1b11b22a4007c33c9d3bea16c7877006bc1, tree 2d7c07ede64bed3c7133
 ## Vanir cohort03 semantic receiving — 2026-10-19T22:27:38.961104+00:00
 
 Ten new source-safe cohort/census artifacts and targeted maintained uptake are received; exact publication remains pending. Eight conditional rules,12actualsame-authoroutputs/6fixedcontrasts and explicit contrary/underidentified branches have zero independent/source validation credit and no score or confidence gain. Public150qualifiedrows retain grouped/identity gaps and globalnulls. MAIN17terminalgate/reload reconciliation carried; all17mainexcluded/19supplemental/5mixed declared scopes closed. Remaining character dispositions/earned artifacts, expanded specialists and versioned principal-party-transfer revisions, curator-owned enrollment/integration and component/release/final-entry audits remain active. Frozen66current/72historical,fourscores,Dust14blanks,eightenteringmodels andSI/SY28originalnulls remain exact. Ordinary accepted-main reconciliation and full publication gate are mandatory before further canonical uptake.
+
+
+## Vanir cohort03 exact gate/reload — 2026-10-19T22:47:32.595648+00:00
+
+Exact source90fb18d5302711cb265687c140ab5d5d151ebe06,tree9cb9d66e55fe3901742268086f84c19a99358cc1; all9143remote paths/29changedstreams match reviewedcandidate. Sourceaudit39336167193/job118346083116 and finalaudit39336731911/job118347983956 certify actualsource with352fulltests,zero5non-success and selectiondisabled. Housekeeping39336682866/job118347812475 completedNO_OP/exactfinaldispatch. Finalstatus and fresh973projectpathreload2026-10-19T22:46:57.519405+00:00verified. All8enteringmodels and newVanirmodel,66current/72historical,fourscores,Dust14blanks,SI/SY28originalnulls and80scratch remain exact. Full individual census/identity-event joins/incidental dispositions and earned artifacts, expanded specialist synthesis/versioned principal-party-transfer revisions, designated curator enrollment/integration and component/release/final-entry audits remain active. All17mainexcluded/19supplemental/5mixed source gates retain their declared scopes; no MAIN18 or global completion claim. This sevenpathprogress reconciliation creates no new source reading, forecast, response or score. Ordinary reconciliation with then-current accepted main remains mandatory before another publication.
+
+
+## Wiz cohort04 semantic receiving — 2026-10-19T23:10:02.760949+00:00
+
+Nine new analytical/provenance artifacts and a maintained census update are received; exact publication remains pending. Seven rules/eight exact first hypothetical outputs/four contrasts preserve ambiguous effects and heavily cued comparisons. No score, source/independent validation or confidence increase follows. The census remains150qualified rows with9targeted updates/141prior rows exact and open identity/incidental responsibilities. MAIN01–09 and the first three checkpoints are completely received at derivative scope; later main/checkpoint and all ten ledger audits continue. Vanir gate carry is exact. Frozen66current/72historical, four scores, Dust14original blanks, nine entering models and SI/SY28original nulls remain unchanged. Remaining secondary artifacts, expanded specialists/versioned principal-party-transfer revisions, curator enrollment/integration and component/release/final-entry audits remain active.

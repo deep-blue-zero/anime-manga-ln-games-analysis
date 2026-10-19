@@ -1343,3 +1343,7 @@ All15 new textual resources71P/ruby/residuals and25 unique native images actuall
 
 ## VN-C01 — particular company and asymmetric control
 Wiz is valued company and a project partner, with real overwork, punitive behavior and a conditional exit. Kazuma receives mutually useful but advantageous terms. Aqua receives dangerous rivalry, Maxwell ducal courtesy and kin intervention, clients conditional services, and succubi protection alongside hierarchy and humiliation. Their refusals and counteractions retain agency. MAIN07C5P220–222presumptivepacking differs from P488reportedcompleted sale; MASKU019protection does not erase later deliberate humiliation. No universal loyalty, recipient assent or harmless contract follows.
+
+
+## WZ-C01 — company is valuable without universal permission
+Wiz refuses paid long exclusion from the shared shop (MASK U011P23–43), values Vanir's company and can still suffer his overwork or coercive methods. Her own forgiveness cannot authorize Brad/Rosary; his later exit is his choice. With Aqua, respectful address coexists with warning and withdrawal advice that Aqua refuses. With Kazuma, a specified mana draw and later vitality transfer have their own terms. A wanted relationship is not blanket assent.

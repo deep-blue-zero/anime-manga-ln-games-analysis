@@ -1341,3 +1341,7 @@ All15 new textual resources71P/ruby/residuals and25 unique native images actuall
 
 ## VN-C01 — foresight, inference and execution
 MAIN07C5P227explicitly disclaims seeing everything; failed affectivejokeP234–236 and Aqua interruptionP238–269 remain contrary cases. MASKU013P261–270/U015P229blocked sight differs from U021P491–492available but deliberately unused sight and U023P17reported use. Finite funds/materials/providers and subordinate complaints constrain orchestration. Bodily reconstruction is not unlimited life or ability to supply every needed material. Powerful commercial and planning skill remains compatible with chosen bad methods.
+
+
+## WZ-C01 — a strong specialist with finite means
+MAIN04C5P416–455 shows actual freezing; P502–504 selective pipe cutting; P522/P565/P588 state mana limits. P611–648 separates authorized casting supply from later vitality support, and P663 loss of expected Teleport. MASK scroll/barrier function does not validate target assumptions. MAIN02's synchronized Explosion/transport routes are currently derivative. No new whole-source pass, unobserved technical domain or unlimited healing is granted.

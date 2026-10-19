@@ -1590,3 +1590,7 @@ All15 new textual resources71P/ruby/residuals and25 unique native images actuall
 
 ## VN-C01 — independent Vanir state
 Vanir receives scopedTier3 treatment through a distinct monograph/model/index. Dungeon ambition, selected emotional appetite, chosen company and procedural self-respect coexist. Manifestation, cracked mask, near life loss and explicit decrement are separate states; II is not a second person. MASK sevencompleteBASE-TEXT members and MAIN07boundedtransaction/completeinterlude support the declared core scope, not another whole-source pass. [Evidence routes](../08%20Evidence%20and%20Indexes/KONOSUBA_VANIR_EVIDENCE_INDEX.md) retain source-time state and current uncertainty.
+
+
+## WZ-C01 — Wiz's own state and chosen work
+Wiz receives a scoped Tier3 monograph/model/index with provisional reliability. Human Archwizard and later lich owner are one subject in different phases. Caring, company, technical work, pride and a conditional civilian boundary coexist; lichhood is not a proved cause of every change. Casting mana and maintenance vitality remain separate. [Evidence routes](../08%20Evidence%20and%20Indexes/KONOSUBA_WIZ_EVIDENCE_INDEX.md) distinguish shared MASK reception, bounded MAIN04 and derivative early-main cases.

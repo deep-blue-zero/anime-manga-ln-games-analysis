@@ -1218,3 +1218,7 @@ All15 new textual resources71P/ruby/residuals and25 unique native images actuall
 
 ## VN-C01 — a shop, a project and an available exit
 Work, stock, market fit, capital, fees and rest shape Vanir's ordinary choices. MASKU011P23–43continuedcompany defeats paidexclusion; U015P456–475declinescourtjobwhile retainingfallback, thenP506–518newloss→departure to seek it. No acceptedappointment or completed dungeon is shown. Actual fees, private feeideas, offeredrewards and laterrevenue remain separate. Emotional appetite does not justify invented human domestic needs or an inexhaustible workforce.
+
+
+## WZ-C01 — stock, company and a later actual repurchase
+Wiz's shop effort is real despite recurrent loss. Useful function, market fit, sale, later stock loss and wanted shared work remain separate; ordinary money does not fully replace company. MAIN04C5P582–585 shows contested sacrifice and a replacement/help promise, while P635–636 explicitly shows Darkness holding repurchased gifts. Repurchase is actual by that later phase; the shopping scene, Kazuma's promised participation and final recipient handoff/approval remain unshown. This current precision does not rewrite frozen reports or scores.

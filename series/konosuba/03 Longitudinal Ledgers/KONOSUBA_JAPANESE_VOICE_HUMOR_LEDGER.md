@@ -1797,3 +1797,7 @@ All15 new textual resources71P/ruby/residuals and25 unique native images actuall
 
 ## VN-C01 — performed superiority and different addressees
 Written我輩, elevated declaratives, counterpart classification, anticipated questions and selected laughter establish stance without fixed catchphrase frequency. MAIN07C5P234–236failedjoke→practicaladjustment andP313service-register formulation differ from I72–80ducal bow/貴公 toward Maxwell and I93–140contemptuous completion toward Alderp. Aqua rivalry can break composure. Englishhypotheticaloutputs test written function only, not Japanese wording or audio. Katakana/laughter are not themselves L3.
+
+
+## WZ-C01 — polite form can accuse or refuse
+MAIN04C5P425 recalls a binding moral condition in question form; P431 adds quiet sadness while actual force continues. This is not a request for Hans to grant permission. Excited recognition P244–257, technical limitation P522/P565, the shared-work refusal in MASK U011 and an insult-linked threat in U019 have different purposes. Preserve written register/pragmatic functions without a fixed stutter, apology count or audio claim.

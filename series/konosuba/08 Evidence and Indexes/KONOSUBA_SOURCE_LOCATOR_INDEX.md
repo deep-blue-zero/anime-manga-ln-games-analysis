@@ -1797,3 +1797,8 @@ The [Yunyun index](KONOSUBA_YUNYUN_EVIDENCE_INDEX.md) routes18families with four
 ## Vanir cohort03 evidence routes
 
 The [Vanir index](KONOSUBA_VANIR_EVIDENCE_INDEX.md) separates core native routes, inherited/derivative boundaries and hypothetical exercises. SevencompleteMASKBASE-TEXT members2862P plus327MAIN07P/twomembers are nine declared member scopes, not independent observations or a fresh source pass. [Receiving](../09%20Audits%20and%20Manifests/KONOSUBA_VANIR_COHORT_01_RECEIVING_AND_PROVENANCE.json) binds new prose, exactdraftlineage,12actualfirstoutputs/sixfixedcontrasts and full source-safe provenance. The [incremental census](KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json) preserves150qualifiedrows with open identity/group/tier responsibilities and globalnulls. No curator-owned global registry or generated index is authored here.
+
+
+## Wiz cohort04 evidence routes
+
+The [Wiz index](KONOSUBA_WIZ_EVIDENCE_INDEX.md) separates human/lich states, core native paths, early derivative routes and hypothetical receiving. Shared MASK2,862slots/seven complete units plus current MAIN04439slots/one partial member total3,301declared slots, not independent observations or another source reading. [Receiving](../09%20Audits%20and%20Manifests/KONOSUBA_WIZ_COHORT_01_RECEIVING_AND_PROVENANCE.json) binds exact drafts, eight first outputs/four contrasts, adverse effect ambiguity and source-safe provenance. The maintained [census](KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json) keeps150qualified rows and open identity/incidental/final-tier responsibilities. Global registry/index enrollment remains curator-owned.
