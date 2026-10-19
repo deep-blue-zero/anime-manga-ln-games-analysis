@@ -5,13 +5,13 @@ artifact_type: longitudinal_ledger
 series: Genocidal Organ / 虐殺器官
 series_id: genocidal-organ
 generation: GENOCIDAL_ORGAN_BOOTSTRAP_V1
-version: '0.33'
+version: '0.34'
 status: active_provisional
 scope: Actor, directional relationship and reconstruction-readiness ledger
 source_boundary: GO-JP-EPUB-001 through complete epilogue heading and prose; GO-U028; exclusive before spine 42 text/part0040.html
 canonical_home: series/genocidal-organ/03 Longitudinal Ledgers/GENOCIDAL_ORGAN_ACTOR_RELATIONSHIP_AND_READINESS_LEDGER.md
 created: '2026-10-16'
-review_status: G5_RETROSPECTIVE_ONLY_INDEPENDENTLY_ACCEPTED_EXACT_PUBLICATION_SEPARATE
+review_status: G5_ACCEPTED_AND_POST_G6_INTERACTIVE_BOUNDED_EXTENSION_INDEPENDENTLY_EVALUATED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -23,7 +23,10 @@ readiness_rows: 207
 g2_readiness_dispositions: 51
 g5_subject_dispositions: 51
 g5_models: 8
-current_validation_state: RETROSPECTIVE_ONLY
+current_validation_state: RETROSPECTIVE_MANUAL_AND_BOUNDED_POST_G6_INTERACTIVE
+post_g6_interactive_models: 8
+post_g6_interactive_sessions: 8
+post_g6_interactive_responses: 56
 ---
 
 # Actor, relationship and readiness ledger
@@ -771,3 +774,13 @@ The exact accepted G2 rationale for every subject remains in the preserved matri
 | GO-C051 unnamed i-detachment pickup sergeant | RECOGNITION_ONLY | NO_MODEL / NOT_APPLICABLE_NO_MODEL. Rank/address, pickup closure and a relayed death report do not establish exact distant-gunman coreference, trigger action, private motive or a command document. No warranted narrow-model expansion is evidenced by the accepted record. |
 
 All51 decisions are complete within the admitted evidence. Unsupported broader domains are reasoned final abstentions, not a requirement to fabricate models. The [combined source/semantic review](../07%20Audits%20and%20Handoffs/GENOCIDAL_ORGAN_G4_G5_INDEPENDENT_SEMANTIC_REVIEW.md) accepts this reconciliation separately from repository publication. G4 supplies no behavioral evidence; models supply no new source or endorsed novel stance. Full G5 publication/audits and G6 release remain separate transaction responsibilities.
+
+
+<a id="go-post-g6-interactive-extension"></a>
+## Post-G6 interactive extension — 2026-10-19
+
+The owner's new instruction commissions actual separate conversational execution after the accepted G6 release. The [extension report](../04%20Character%20and%20Relationship%20Studies/Reconstruction/Interactive/README.md), [complete interactions](../04%20Character%20and%20Relationship%20Studies/Reconstruction/Interactive/interactions.json) and [independent nonauthor evaluation](../04%20Character%20and%20Relationship%20Studies/Reconstruction/Interactive/INDEPENDENT_REVIEW.md) record eight separately instantiated CLI sessions and56 actual responses, seven per existing v1 policy: Clavis, Williams, John Paul, Lucia, Alex, Leland, Rockwell and Lucius. Each session receives its complete hash-bound frozen policy, five initial evaluator-led turns and two adaptive continuations selected from actual preceding responses by the independent evaluator. The new adapter permits a bounded noncanonical English utterance gloss plus analytical guards, without a narrated new event or interlocutor outcome.
+
+Acceptance concerns tested source consistency and noncanonical scenario plausibility. One real Lucius referent ambiguity is retained, followed by partial clarification and a later answer after a missing admitted surveillance fact is explicitly supplied as case input. The correct original rule does not warrant a successor merely because a tool-less executor lacked that specific detail. No model revision, new-version rerun, capability promotion or verified novel-unseen outcome is claimed. The complete later facts inside each supplied policy make these knowledge tests withholding-under-cutoff tests, not blind evidence absence. All56 turns have complete runtime receipts with zero observed tool events, runtime errors or timeouts; those mechanical findings do not establish literary fit by themselves.
+
+The earlier eight full-file hashes, manual G5 evaluation and all51 individual model/no-model dispositions above retain their historical bytes and scope. G5's40 known-source replays/19 manual probes are not relabeled as these56 CLI responses. All43 no-model dispositions remain no-model; the2 MULTICONTEXT_CANDIDATE/6 DOMAIN_BOUNDED/43 RECOGNITION_ONLY eligibility distribution remains unchanged. This append adds no actor event, knowledge record, directional relationship, forecast or new source admission. PR231's G6 release and historical audit remain accepted; publication of this separate extension requires its own exact-head transaction.
