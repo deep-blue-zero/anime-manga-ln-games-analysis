@@ -1142,3 +1142,11 @@ All15 new textual resources71P/ruby/residuals and25 unique native images actuall
 | ID | Subjects / native route | Observation | Implication | Limit |
 |---|---|---|---|---|
 | M17EX-LD09 | Creator/illustrator/readers/contributors and attributed parallel Iris/Aigis/Crimson-Demon/Axis/Axel actors; known retained Kazuma/Aqua/Megumin/Darkness/Yunyun/Eris/Mitsurugi/two unnamed companions/Pain/Nos/Logia/Mammon/unnamedgatekeeper/DemonKing/daughter, and externally supplied Wiz/Vanir/Dust/Assassin/DarkStalker resources. No direct new excluded bonus choices for Iris or Yunyun.; C3P425–440;finalP702–788;EpP82–90 | Battle commitment does not synchronize safety: some actors press dangerous fire while others object or seek aid. Eris's care and strategic choices, Aqua's painful reunion and terminal private thanks retain their particular contexts. | Preserve each actor's opportunity and response; a protective intention, anticipated survival or later win does not certify safety, consent or pure motives. | New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved. |
+
+
+## VN-C01 — a chosen costly step without universal altruism
+MASKU019P418–452asserts own noninvolvement/choice; helprequestP482 and claimed protectionlinkP532–536 precede actualstepP542 and later reportedbodycostP564, with no statedlife decrement. Contractpride, attachment, standing and prospective rewards remain rivals. MAIN07kinintervention also deliberatelyharms. Seriousness can recruit formalrole performance rather than erase theatricality, and one costlyprotection does not grant assent in other phases.
+
+
+## WZ-C01 — a specific condition can change a familiar relationship
+MAIN04C5P270–284 attempts negotiation under noninterference. Hans's admitted civilian harmP408–414 precedes Wiz's actual freezing and conditionP416–432. She distinguishes noncombat humans from reciprocal adventurer/knight risk. Firm opposition is not universal pacifism or unlimited power; later insufficient mana, warning and retreat advice persist. MASK's costly companion response is separate from every hypothetical stranger request.

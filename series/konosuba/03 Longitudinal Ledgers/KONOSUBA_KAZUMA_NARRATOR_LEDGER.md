@@ -1265,3 +1265,11 @@ All15 new textual resources71P/ruby/residuals and25 unique native images actuall
 | ID | Subjects / native route | Observation | Implication | Limit |
 |---|---|---|---|---|
 | M17EX-LD06 | Creator/illustrator/readers/contributors and attributed parallel Iris/Aigis/Crimson-Demon/Axis/Axel actors; known retained Kazuma/Aqua/Megumin/Darkness/Yunyun/Eris/Mitsurugi/two unnamed companions/Pain/Nos/Logia/Mammon/unnamedgatekeeper/DemonKing/daughter, and externally supplied Wiz/Vanir/Dust/Assassin/DarkStalker resources. No direct new excluded bonus choices for Iris or Yunyun.; IMG024/C3P355/C2P575;C1P267–305/403–578 | The jacket's lone powerless hero is Eris's quoted aesthetic preference, beside Kazuma's bounty question. Actual retained Kazuma shows failed trap reasoning, false translation, imported hypotheses and self-serving framing alongside costly help. | Promotional description and character appraisal cannot become neutral omniscient summary or excuse imposed cost. Maintain knowledge/time differences and full resource credit. | New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved. |
+
+
+## VN-C01 — Vanir does not become an omniscient narrator
+MAIN07C5P221attributes unnecessary document inspection to Kazuma's inference; P227is Vanir's bounded selfclaim, P269–300his history account andP304–308Kazuma's reconstruction. P488reports the sale separately from the earlier presumptive packing. The completeI1–162is Alderp firstperson, not Vanir access to all causes. His declared intervention and future asset forecast are attributed. Other observers' gratitude, fear or belief does not certify the provider's pure motive or all offstage outcomes.
+
+
+## WZ-C01 — direct act, admission and retrospective account
+MAIN04C5P252/P273 leaves Wiz's disclosure intent uncertain; P409/P413 is Hans's admission, not a watched killing. P554/P563 near-instinct interpretation is Kazuma's hypothesis. After his loss of consciousnessP618, freezing every remnantP634 and full purificationP656–658 are retrospective accounts. Actual fading and vitality transferP641–648 have their own observed phase. Contextual gratitude does not make every private motive available.

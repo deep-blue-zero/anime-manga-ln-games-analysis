@@ -1337,3 +1337,11 @@ All15 new textual resources71P/ruby/residuals and25 unique native images actuall
 | ID | Subjects / native route | Observation | Implication | Limit |
 |---|---|---|---|---|
 | M17EX-LD08 | Creator/illustrator/readers/contributors and attributed parallel Iris/Aigis/Crimson-Demon/Axis/Axel actors; known retained Kazuma/Aqua/Megumin/Darkness/Yunyun/Eris/Mitsurugi/two unnamed companions/Pain/Nos/Logia/Mammon/unnamedgatekeeper/DemonKing/daughter, and externally supplied Wiz/Vanir/Dust/Assassin/DarkStalker resources. No direct new excluded bonus choices for Iris or Yunyun.; C1P153–195/330–331/378/480;C2P76–79;C3P324–402;finalP730–759 | Finite stones, real overload, purchased stock, lent sword, taught skills, potion, blessings and teleport capacity are distinct provider/resource edges. Correct phase attribution does not prove whole-operation safety. | Keep both actual competence and failures. Exceptionally reconstructed body is not ordinary repeatable capability; no world-changing skill or missing provider is invented. | New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved. |
+
+
+## VN-C01 — foresight, inference and execution
+MAIN07C5P227explicitly disclaims seeing everything; failed affectivejokeP234–236 and Aqua interruptionP238–269 remain contrary cases. MASKU013P261–270/U015P229blocked sight differs from U021P491–492available but deliberately unused sight and U023P17reported use. Finite funds/materials/providers and subordinate complaints constrain orchestration. Bodily reconstruction is not unlimited life or ability to supply every needed material. Powerful commercial and planning skill remains compatible with chosen bad methods.
+
+
+## WZ-C01 — a strong specialist with finite means
+MAIN04C5P416–455 shows actual freezing; P502–504 selective pipe cutting; P522/P565/P588 state mana limits. P611–648 separates authorized casting supply from later vitality support, and P663 loss of expected Teleport. MASK scroll/barrier function does not validate target assumptions. MAIN02's synchronized Explosion/transport routes are currently derivative. No new whole-source pass, unobserved technical domain or unlimited healing is granted.
