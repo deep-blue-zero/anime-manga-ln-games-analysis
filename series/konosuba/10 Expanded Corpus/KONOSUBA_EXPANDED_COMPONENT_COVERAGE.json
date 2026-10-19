@@ -1,7 +1,7 @@
 {
   "schema": "KONOSUBA_STAGE_C_COMPONENT_COVERAGE_V1",
   "status": "ACTIVE_NOT_COMPLETE",
-  "updated_utc": "2026-10-19T10:08:16.796949+00:00",
+  "updated_utc": "2026-10-19T10:23:55.629059+00:00",
   "fixed41_identity_seal": "fe59ede667ed3532f9cd0e62fdd650655d029c191fd3bd95df84ab404f2f56c5",
   "coverage_denominator_state": "FULL_ADMITTED_NARRATIVE_COMPONENT_DENOMINATOR_NOT_YET_RESOLVED",
   "expanded_narrative_completion_percentage": null,
@@ -657,9 +657,9 @@
       "source_id": "MAIN-06",
       "native_sha256": "279f8c714aefe7eb492561bc8c6a91ae293297158d6cb50734840f5482439f0a",
       "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
-      "stage_C_status": "MAIN_EXCLUDED_COMPONENT_ANALYSIS_ACCEPTED_WITH_EXACT_RETAINED_PRINCIPAL_AUTHORITY_CONTAINING_PUBLICATION_PENDING",
+      "stage_C_status": "MAIN_EXCLUDED_COMPONENT_ANALYSIS_ACCEPTED_PUBLISHED_FULL_GATE_CLOSED_WITH_EXACT_RETAINED_PRINCIPAL",
       "principal": "Accepted/frozen main-only narrative; this is not whole-EPUB component coverage",
-      "remaining": "Exact publication/all-treeandchanged-streamreadback/sourceaudit/housekeeping/finalactualsourceaudit-status/freshauthorityreload beforeMAIN07excluded admission. Incorporate then-currentmain ordinarily if needed and rerun affected author checks before nextpush. Allremaining sources/syntheses/versionedmodels/secondarycensus/earnedcohorts/curation/release continue.",
+      "remaining": "Source scopes and full gate closed; remaining excluded programs/syntheses/models/secondary/curation/release continue.",
       "excluded_component_program": {
         "status": "MAIN_EXCLUDED_COMPONENT_ANALYSIS_ACCEPTED_WITH_EXACT_RETAINED_PRINCIPAL_AUTHORITY_CONTAINING_PUBLICATION_PENDING",
         "accepted_utc": "2026-10-19T10:06:54.861629+00:00",
@@ -755,7 +755,13 @@
       },
       "reading": "10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V06_EXCLUDED_DEEP_READING.md",
       "register": "10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V06_EXCLUDED_COMPONENT_REGISTER.json",
-      "receiving": "10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V06_EXCLUDED_RECEIVING_AND_PROVENANCE.json"
+      "receiving": "10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V06_EXCLUDED_RECEIVING_AND_PROVENANCE.json",
+      "authorship_publication_state": "MAIN_EXCLUDED_COMPONENT_ANALYSIS_ACCEPTED_WITH_EXACT_RETAINED_PRINCIPAL_AUTHORITY_CONTAINING_PUBLICATION_PENDING",
+      "publication_gate": {
+        "source_commit": "57c44c52e923800515c236a312f6c204c931432c",
+        "closed_utc": "2026-10-19T10:23:46.988912+00:00",
+        "receipt": "09 Audits and Manifests/KONOSUBA_MAIN06EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json"
+      }
     },
     {
       "source_id": "MAIN-07",
@@ -1680,15 +1686,14 @@
   },
   "main_excluded_component_program_accounting_only": {
     "total_programs": 17,
-    "analytically_accepted_containing_publication_pending": [
-      "MAIN-06"
-    ],
+    "analytically_accepted_containing_publication_pending": [],
     "published_full_gate_closed": [
       "MAIN-01",
       "MAIN-02",
       "MAIN-03",
       "MAIN-04",
-      "MAIN-05"
+      "MAIN-05",
+      "MAIN-06"
     ],
     "unadmitted_remaining": [
       "MAIN-07",

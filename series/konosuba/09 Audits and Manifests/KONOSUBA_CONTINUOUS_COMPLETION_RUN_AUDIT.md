@@ -4,7 +4,7 @@ artifact_type: execution_and_source_reconciliation_audit
 scope: V11-V17 continuation and the fixed 41-object expanded-source program
 generation: V1
 status: active_provisional
-source_boundary: MAIN06EXCLUDED accepted/new19resources69P/31images; retainedprincipalcredit0; containingfullgatepending; other11mainexcluded programs remain; full41continues
+source_boundary: MAIN06EXCLUDED fullgateclosed/freshauthorityreload; mainexcluded6of17closed; nextMAIN07EXCLUDEDadmission; supplemental19/mixed5closed; full41continues
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -21,8 +21,8 @@ The owner's 2026-10-16 request executes `KONOSUBA_CONTINUATION_AND_FULL_CORPUS_C
 | Execution mode | `continuous_sequential` |
 | Main-series authorized range | V11–V17 |
 | Accepted high-water mark | V17 principal and final Gen05 checkpoint; CP06/evidence freeze published and fully audited at a1539842 |
-| Current phase | Owner-resumed Stage C; MAIN06EXCLUDED accepted at new/inherited scopes; exact publication gate pending |
-| Next canonical operation | MAIN06EXCLUDED_PUBLICATION_GATE; no MAIN07excluded admission before exact full gate/fresh published-authority reload |
+| Current phase | Owner-resumed full program; Iris initial scoped Tier3 cohort accepted, exact publication pending; MAIN06 full gate closed |
+| Next canonical operation | IRISCOHORT01_PUBLICATION_GATE then fresh authority reload before separate MAIN07 excluded admission |
 | Current prospective model | Gen05 frozen through V15, original 25 blank pairs exact; formal V16–V17 8C/6P/1F/3AMB/7NT separate from accepted locals; no Gen06 |
 | Initial published continuing-branch head at reconnaissance | `0238f356ee2ade28e39aa3a940ea0e091f8211f4` |
 | Initial main at reconciliation | `53de8ba455938174a3f14f887cd33739261a4e5f` |
@@ -1190,3 +1190,13 @@ MAIN-06 exact local supplied edition 2529639bytes/SHA256 279f8c714aefe7eb492561b
 ## Main06 excluded-component analytical acceptance — 2026-10-19T10:06:54.861629+00:00
 
 All19newresources69P/31images actually received;11acceptedprincipal members3392P retainedexact/newprincipalcredit0. No separately supplied prose bonus:22Pcreatorafterword plus47otherwrapper/credit/navigation slots. Front composites, one embedded masked-heist composition, profile, two artist contributions and future promotion retain separate planes. CR-MAIN06EX-001 corrects the old V06restraint account with original frozen bytes preserved. These counts are not a narrative denominator. Selected14premises/18voicefragments;31principal+8party explicit new-enactment non-tests/fourtypedconstraints;11appends across tenledgers/29qualifications, plus1sourced claim-ledger erratum. Supplemental19/mixed5fullgates closed;MAIN01-MAIN05excluded fullgates remain closed;MAIN06analysis accepted/publicationpending;other11mainexcluded programs remain;globalcomponentpercentage null. [Receiving](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V06_EXCLUDED_RECEIVING_AND_PROVENANCE.json) records actual new source/image reading, exact retained principals, original uncoded seal and notes, redacted public preparation view, precise source planes and same-root review. Frozen66/72/fourscores/14blanks exact. Exact publication/all-treeandchanged-streamreadback/sourceaudit/housekeeping/finalactualsourceaudit-status/freshauthorityreload beforeMAIN07excluded admission. Incorporate then-currentmain ordinarily if needed and rerun affected author checks before nextpush. Allremaining sources/syntheses/versionedmodels/secondarycensus/earnedcohorts/curation/release continue.
+
+
+## Main06 full publication gate — 2026-10-19T10:23:55.629059+00:00
+
+Exact source57c44c52e923800515c236a312f6c204c931432c/tree445d621327a286597f33695512654b0be089e966; all8901remote paths/36changedstreams match. Source39235620530/job118003845554 and final39236395834/job118006388731 certify actualsource with352fulltests/zeroallfive non-success/selectionfalse; housekeeping39236341473/job118006210579NO_OP/exact finalsource dispatch. Actualsource finalstatus and fresh736project-path authority reload2026-10-19T10:23:55.395743+00:00. All19newresources69P/31images actually received;11acceptedprincipal members3392P retainedexact/newprincipalcredit0. No separately supplied prose bonus:22Pcreatorafterword plus47otherwrapper/credit/navigation slots. Front composites, one embedded masked-heist composition, profile, two artist contributions and future promotion retain separate planes. CR-MAIN06EX-001 corrects the old V06restraint account with original frozen bytes preserved. These counts are not a narrative denominator. Supplemental19/mixed5closed;6of17mainexcluded programs fullgateclosed/11remain; componentpercentage null. Next excluded resources remain unadmitted; no new source exposure in this update. Ordinary current-main reconciliation remains mandatory before another publication.
+
+
+## Iris cohort01 semantic receiving — 2026-10-19T10:36:23.961554+00:00
+
+New substantive artifacts,35-row initial coverage audit,22actual synthetic completions with two same-root causal reviews, exact lineage and ten native backjoin records are received. The seven optional-scope commitments are fixed before still-unread MAIN07-MAIN17 excluded components; no eligible source trial is guaranteed. Current model confidence and missingness stay qualitative. Publication/readback/sourceaudit/housekeeping/finalsource status/reload remain pending for this cohort. Registry/index remain curator-owned; no existing reference is changed. All principal frozen history and prior scores remain. Othercharacters, remaining11mainexcluded programs, expanded principal/party/transfer work and final release stay open.

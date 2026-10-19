@@ -1,0 +1,145 @@
+{
+  "schema": "KONOSUBA_IRIS_COHORT01_RECEIVING_AND_PROVENANCE_V1",
+  "accepted_utc": "2026-10-19T10:33:28.943186+00:00",
+  "status": "ROOT_SEMANTIC_RECEIVING_COMPLETE_CONTAINING_PUBLICATION_PENDING",
+  "receiving": "Same continuing informed root; full newly authored prose, targeted revisions, bounded native attribution, exact forecast backjoins and two separate actual-output causal reviews. No independent/native-human/acoustic validation claimed.",
+  "source_boundary_commit": "57c44c52e923800515c236a312f6c204c931432c",
+  "preceding_gate": "09 Audits and Manifests/KONOSUBA_MAIN06EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json",
+  "tier": "3 at this scoped evidence boundary; future reliability provisional; other tiers unassigned",
+  "artifacts": [
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_IRIS_CHARACTER_MONOGRAPH.md",
+      "bytes": 17997,
+      "sha256": "0f72e0e2d446522cf3ad5c977a7e32ed95b09e58b0dd533b05a4f6cdd2eb0f64"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_IRIS_RECONSTRUCTION_MODEL.md",
+      "bytes": 20464,
+      "sha256": "75afb94b5723af3620ea5fabe1d8a7c742645bb56de938c605a3d11999a42c29"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_IRIS_EVIDENCE_INDEX.md",
+      "bytes": 10073,
+      "sha256": "49d2e33f930ab2d466ab43d4d9fd30f8a3bfa1a449ee15bdb186e26fb3deb8e7"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md",
+      "bytes": 17893,
+      "sha256": "a35bc2c122d897030fdb5d6dd2b38ad6cdef48d946524c71bad1210ea9d9a3a5"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/IRIS_EXPANDED_V1_EVIDENCE/IRIS_SYNTHETIC_SCENARIO_CONTRACTS_01.json",
+      "bytes": 9465,
+      "sha256": "13bf4426be7c92d0c07cb1e942492ffb5d22d4f667b526b36cc64edbbb7a9230"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/IRIS_EXPANDED_V1_EVIDENCE/IRIS_ACTUAL_SYNTHETIC_OUTPUTS_01.json",
+      "bytes": 11247,
+      "sha256": "b2dcc181063b84010d9e1d725ccb793b3ec6b45f8a2f48987168fb438c873084"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/IRIS_EXPANDED_V1_EVIDENCE/IRIS_SYNTHETIC_CAUSAL_RECEIVING_01.json",
+      "bytes": 6689,
+      "sha256": "d165c954cacc807f03277f2fb1fd05b4403bad390496efb9761a35ba546c0e05"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/IRIS_EXPANDED_V1_EVIDENCE/IRIS_SYNTHETIC_EXTENSION_CONTRACTS_02.json",
+      "bytes": 3144,
+      "sha256": "b51d9f7dbcc7059ec56604ad10748b8618bd7867b1c93b512c87784e2353284e"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/IRIS_EXPANDED_V1_EVIDENCE/IRIS_ACTUAL_SYNTHETIC_EXTENSION_OUTPUTS_02.json",
+      "bytes": 3290,
+      "sha256": "fcca59ab930ba4983a0bd60d446f8c68b0a1ec5572f0f7af29d10050a1cf5710"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/IRIS_EXPANDED_V1_EVIDENCE/IRIS_SYNTHETIC_CAUSAL_RECEIVING_02.json",
+      "bytes": 3801,
+      "sha256": "957ffb31086bcb9c678cc9c4c9a86521926dc915c0ea08f769a76fb9abfa8b92"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/IRIS_EXPANDED_V1_EVIDENCE/IRIS_EXACT_FORECAST_LINEAGE_ANNEX_01.json",
+      "bytes": 45132,
+      "sha256": "c86e3aece9daa05cb9e27ca25539519452b911c6f88965128f1573a88932c4ca"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/IRIS_EXPANDED_V1_EVIDENCE/IRIS_NATIVE_BACKJOIN_PROVENANCE_01.json",
+      "bytes": 60095,
+      "sha256": "b3e7a2661822f87724d9d4504af6ef8a366bf51f5a7aaf7e9dc026c67905e6ba"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/IRIS_EXPANDED_V1_EVIDENCE/IRIS_SCOPED_SOURCE_COMMITMENTS_01.json",
+      "bytes": 6437,
+      "sha256": "8f3f4e549a3a84d6dd041c7686376053f1031fcbff6be9776f3d0396cfc20691"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/IRIS_EXPANDED_V1_EVIDENCE/IRIS_EXERCISE_MODEL_DRAFTS_EXACT_01.json",
+      "bytes": 32202,
+      "sha256": "cdb1c607ad589a08ab3012bbb36b7ac49529b0366b4221da05571193edfaa9d1"
+    }
+  ],
+  "private_revision04_input_pins": [
+    {
+      "input": "KONOSUBA_IRIS_CHARACTER_MONOGRAPH_DRAFT_03.md",
+      "input_sha256": "24ca3d6bb4c419deac03a2416bb1113199e73f5157e05dcc25e59df9321c3195",
+      "output": "KONOSUBA_IRIS_CHARACTER_MONOGRAPH_DRAFT_04.md",
+      "output_sha256": "c83f446badb6bf12461dfc61f54ac1eed82cb5dfc99e0bb47dde2f3b39cd632f",
+      "exact_targeted_replacements": 7
+    },
+    {
+      "input": "KONOSUBA_IRIS_RECONSTRUCTION_MODEL_DRAFT_03.md",
+      "input_sha256": "f40eab76d50e86525df9748fedbda36ab5e58c96c3a0205c1eaba917a3c45f07",
+      "output": "KONOSUBA_IRIS_RECONSTRUCTION_MODEL_DRAFT_04.md",
+      "output_sha256": "b2b6b0aff21c669d95908f1a4c89ceed673264f5577696d58248ca0eb7b01544",
+      "exact_targeted_replacements": 10
+    }
+  ],
+  "source_review": [
+    "Iris name/cover and Rain-versus-Leen identity guards received.",
+    "Actor/body control, absent narrator intervals, direct versus reported intervention and unperformed promises retained.",
+    "Gift histories, source publication/in-world/analyst exposure order separated.",
+    "MAIN11 full wish-duty event deduplicated; later report/letter gaps retained.",
+    "All eight original MG02-MG05 blocks source bytes/hash/line start rechecked exactly; separate preYORI04 scope and historical blanks retained.",
+    "Game distraction and CONTEXP01 warning/cast adjacency explicitly constrain model; SI-D05 LOW.",
+    "Named-subject/reference check: Kazuma, Iris, Megumin, Claire, Rain and independent providers remain attributable; no shared-mind grouped candidate."
+  ],
+  "synthetic_review": {
+    "actual_outputs": 22,
+    "fixed_pairs": 11,
+    "reviews": [
+      "IRIS_SYNTHETIC_CAUSAL_RECEIVING_01.json",
+      "IRIS_SYNTHETIC_CAUSAL_RECEIVING_02.json"
+    ],
+    "substantive_limitations": [
+      "Unfamiliar-person choice underdetermined",
+      "Journal privacy weak LOW transfer",
+      "SC10 fairness interpretation unsupported as a general trait",
+      "Direct bodily response does not imply others comply",
+      "No general serious-harm override established"
+    ],
+    "source_validation_credit": 0,
+    "statistical_score": null,
+    "confidence_increase": false
+  },
+  "acceptance_basis": "Varied direct ordinary/exceptional decisions, own focalization, finite skills/resources, relationship-specific knowledge and adverse choices support a differentiated falsifiable candidate model. New model commitments remain informed and unvalidated prospectively.",
+  "not_completed": [
+    "Corpus-wide secondary census/final individual dispositions",
+    "MAIN07-MAIN17 excluded-component programs",
+    "Other secondary monographs/models and bounded profiles",
+    "Expanded principal/party/transfer syntheses and revisions",
+    "Global curator enrollment and final full-program release"
+  ],
+  "preservation": "Existing66current/72historical/fourscores/Dust14blanks and all original draft/scenario/output bytes retained; checks repeated at exact staging.",
+  "global_registry": "Curator-only enrollment may lag; no character registry or generated index change authorized by this author cohort.",
+  "publication_gate": "Pending for the new candidate; preceding MAIN06 gate already closed.",
+  "exercise_model_archive": {
+    "path": "series/konosuba/06 Character Modeling and Reconstruction/IRIS_EXPANDED_V1_EVIDENCE/IRIS_EXERCISE_MODEL_DRAFTS_EXACT_01.json",
+    "exact_original_bytes_and_scenario_hash_bindings_preserved": true,
+    "standalone_private_status_markdown_files_removed_from_new_unpublished_candidate": true
+  },
+  "author_preflight_format_repair": {
+    "prior_failure": "Two historical draft status values outside repository enum; no analytical failure reported.",
+    "failed_log_sha256": "bcfa490600043ca9ada84736ad737a0a3c95c5586a74e2cf61c52b4495d67711",
+    "resolution": "Exact text in declared noncurrent JSON container; original private inputs unchanged."
+  }
+}

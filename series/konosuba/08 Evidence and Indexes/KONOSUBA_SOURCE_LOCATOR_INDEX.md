@@ -1412,3 +1412,8 @@ Main2900P/bonus0P/nonfiction52P/total2952P; full ruby/residual/image scopes befo
 | MAIN-06-U028 | item/xhtml/p-colophon.xhtml / 17 | COLOPHON;newprincipalcredit0 |
 | MAIN-06-U029 | item/xhtml/p-bookwalker.xhtml / 0 | BOOKWALKER_LOGO;newprincipalcredit0 |
 | MAIN-06-U030 | item/navigation-documents.xhtml / 0 | NAVIGATION_RESIDUAL;newprincipalcredit0 |
+
+
+## Iris cohort01 evidence routes
+
+[Source/identity/chronology index](KONOSUBA_IRIS_EVIDENCE_INDEX.md) supplies bounded MAIN06/10/11, CONTEXP01/02, DUST03 and MASK native routes, plus later-main letter/report limits. [Native provenance](../06%20Character%20Modeling%20and%20Reconstruction/IRIS_EXPANDED_V1_EVIDENCE/IRIS_NATIVE_BACKJOIN_PROVENANCE_01.json) preserves actual intervals and source/member hashes with zero new whole-reading credit. [Exact old forecast lineage](../06%20Character%20Modeling%20and%20Reconstruction/IRIS_EXPANDED_V1_EVIDENCE/IRIS_EXACT_FORECAST_LINEAGE_ANNEX_01.json) and [current receiving](../09%20Audits%20and%20Manifests/KONOSUBA_IRIS_COHORT_01_RECEIVING_AND_PROVENANCE.json) remain distinct from new optional source evaluation. These navigational witness groups are not an event denominator.
