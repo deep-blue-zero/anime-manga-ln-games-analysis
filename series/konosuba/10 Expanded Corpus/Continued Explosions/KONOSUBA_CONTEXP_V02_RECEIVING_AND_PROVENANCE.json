@@ -1,0 +1,601 @@
+{
+  "schema": "KONOSUBA_CONTEXP02_WHOLE_SUPPLIED_EDITION_SAME_ROOT_ACCEPTANCE_V1",
+  "source_id": "CONTEXP-02",
+  "status": "ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+  "accepted_utc": "2026-10-18T20:19:00.916436+00:00",
+  "native_identity": {
+    "native_filename": "Konosuba - Spin-off - Continued Explosions - Volume 02.epub",
+    "native_bytes": 2412289,
+    "native_sha256": "ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267",
+    "OPF_member": "OEBPS/content.opf",
+    "OPF_sha256": "46c5a00109d38797c600144016a367faff87777ee39deb3cdd13222332cf4db5"
+  },
+  "actual_source_and_reading_receipt": {
+    "schema": "KONOSUBA_CONTEXP02_ACTUAL_WHOLE_SOURCE_AND_READING_RECEIPT_V1",
+    "source_id": "CONTEXP-02",
+    "accepted_utc": "2026-10-18T20:19:00.916436+00:00",
+    "native_filename": "Konosuba - Spin-off - Continued Explosions - Volume 02.epub",
+    "native_bytes": 2412289,
+    "native_sha256": "ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267",
+    "OPF_member": "OEBPS/content.opf",
+    "OPF_sha256": "46c5a00109d38797c600144016a367faff87777ee39deb3cdd13222332cf4db5",
+    "language": [
+      "ja"
+    ],
+    "colophon": "続・この素晴らしい世界に爆焔を！2 わがままバスターズ 【電子特別版】. Electronic issue and underlying print first edition both2019-03-01; copyrightAkatsuki/Mishima2019. Author暁なつめ;illustration三嶋くろね;design百足屋ユウコ＋モンマ蚕（ムシカゴグラフィクス）;publisher三坂泰二/KADOKAWA. All actual endmatter fields separately read.",
+    "admission_sha256": "7f77c217d7a711a0966a74377ddcc1ec9852b75be97fd82a01e68cad4516ccaa",
+    "admission_utc": "2026-10-18T19:03:27.479348+00:00",
+    "preceding_full_gate_source": "b0668884aeb1e0f58db2395b214b9b3b947f0d8f",
+    "preceding_gate_sha256": "1b882195ac9871b95b3740a8b03624366f6d21b3e5a589ffcdff99f569e46128",
+    "preceding_fresh_reload_sha256": "17a5ef3b4b3876c20c476e48eb437dab8f5b3077725945c5942271a353a3e196",
+    "complete_uncoded_seal_sha256": "7d1b5e4d46a2e5d4cd248f295e2f09f2578d7f6bb122248a53709b9041ef1784",
+    "complete_uncoded_seal_utc": "2026-10-18T19:51:53.347000+00:00",
+    "actual_reading": {
+      "all_textual_components": 35,
+      "all_native_P_slots": 2703,
+      "principal_P_slots": 2573,
+      "other_P_slots": 130,
+      "separate_bonus_narrative": true,
+      "bonus_P_slots": 57,
+      "nonfiction_P_slots": 73,
+      "individually_identified_bonus_narrative_groups": [
+        {
+          "id": "CONTEXP02-BONUS-ELECTRONIC-COSTUME-MARQUIS",
+          "title": "たまには本気の着ぐるみ侯爵",
+          "native_units": [
+            "CONTEXP-02-U031"
+          ],
+          "native_member": "OEBPS/Text/part0029.xhtml",
+          "paragraph_slots": 57,
+          "title_component": "CONTEXP-02-U030",
+          "viewpoint": "Megumin first person;three-thousand bounty reference afterC1event,exactdayunknown",
+          "scope": "Complete separate electronic story actually read; fair-test proposal, actual joint surprise aggression, hoped-for outing, new volunteers and imposed shop role distinguished from unperformed hunt/zipper exposure/future repair."
+        }
+      ],
+      "individually_identified_narrative_image_groups": [],
+      "individually_identified_embedded_narrative_groups": [
+        {
+          "id": "CONTEXP02-FALSE-LIGER-KILL-COVER",
+          "native_units": [
+            "CONTEXP-02-U020"
+          ],
+          "start_P": 475,
+          "end_P": 499,
+          "scope": "Actual actors author and endorse false rare-beast/necklace destruction account, then perform empty forest Explosion; actual creature alive/escaped, notanothercompletedkill."
+        },
+        {
+          "id": "CONTEXP02-RECALLED-RED-EYED-BEGINNER-KILLER",
+          "native_units": [
+            "CONTEXP-02-U026",
+            "CONTEXP-02-U027"
+          ],
+          "scope": "Megumin’s particular recollection and creator’s later identification/summary refer to earlier store bonus; no new full reading or independent admission of that earlier text is claimed."
+        }
+      ],
+      "integral_image_only_prose_pages": 0,
+      "all_native_images_actually_viewed": 25,
+      "all_ruby_displayed_inline_and_nonparagraph_residual_received": true,
+      "all_native_local_and_archive_text_image_hash_joins_reverified": 60,
+      "fresh_native_ZIP_CRC": "PASS",
+      "image_individual_scopes_control": true
+    },
+    "source_first_sealed_pins": [
+      {
+        "file": "NATIVE_ADMISSION.json",
+        "bytes": 35330,
+        "sha256": "7f77c217d7a711a0966a74377ddcc1ec9852b75be97fd82a01e68cad4516ccaa"
+      },
+      {
+        "file": "ROOT_PRE_BODY_PREPARATION_SEAL.json",
+        "bytes": 37981,
+        "sha256": "02f7704563704abb6d90fc21ffdf3541f143996c67c2262e9910078990a9faf9"
+      },
+      {
+        "file": "ACTUAL_SOURCE_FIRST_UNCODED_NOTES.jsonl",
+        "bytes": 154714,
+        "sha256": "60809053e89f0602120fd78bf5b1e6aeadf28e9c2fcb986ebf2cede4dee76aee"
+      },
+      {
+        "file": "ACTUAL_IMAGE_VIEW_UNCODED_NOTES.jsonl",
+        "bytes": 18036,
+        "sha256": "c1abde95112c21f851a229ed0ac035052d6165209010d8bd34ef13ad70f1b70b"
+      }
+    ],
+    "formal_coverage": {
+      "full_responsibilities": 17,
+      "selected_premises_not_census": 92,
+      "native_verified_short_form_context_witnesses": 148,
+      "local_unchanged_question_assessments": 7,
+      "append_only_decisions_across_ten_ledgers": 37,
+      "current_precision_qualifications": 76
+    },
+    "same_root_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05,DUST-06,DUST-07,DUST-CONT,EXP-01,EXP-02,EXP-03,CONTEXP-01. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim.",
+    "no_independent_second_full_pass_native_human_audio_claim": true,
+    "source_first_originals_remain_exact": true,
+    "original_four_scores_and_14_future_fields_unchanged": true,
+    "publication_state": "CONTAINING_EXACT_PUBLICATION_AND_FULL_GATE_PENDING",
+    "midread_precision_context": "All 148 current short forms join their native windows: 140 original fragments within original windows, one native-exact original with a corrected earlier window, and seven originally empty anchors with explicitly new postseal selections. Originals remain unchanged. The posttrial lower bound, K/M/K/M narration, completed C1 Teleport, C4 cast at P0497, necklace-holder gap, deliberate mercy and creator-only identity are explicitly qualified."
+  },
+  "current_root_check": "The same informed root received seventeen substantive responsibilities, 92 bounded effects, 148 individually argued current native voice records, seven unchanged Megumin contracts, eight informed party contexts, 35 text/25 image roles, one independently identified 57-P electronic bonus, 76 qualifications and 37 decisions across ten append-only ledgers. Named subjects include Megumin, Yunyun, Iris, Kazuma, Aqua, Darkness, Barton, Barbera, Cecily, Zesta, the Eris priest, Vanir, Wiz, Zereschilt, Claire, Rain, guards, novices, creatures and creators. Actual receipt, permissions, roles, cues, resources and unperformed outcomes are checked. Same-root author/receiver is not independent review, native-human/audio validation or a new blind trial.",
+  "current_qualifications": [
+    {
+      "id": "Q01",
+      "qualification": "The native edition is 2,412,289 bytes, SHA256 ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267. All 35 textual units, 2,703 paragraph slots and 25 native images were actually read or viewed before formal assignment.",
+      "source": "Native admission;whole uncoded seal"
+    },
+    {
+      "id": "Q02",
+      "qualification": "Seven principal bodies contain 2,573 P; the separate electronic bonus contains 57 P. Together these are 2,630 fiction P. The remaining 73 P are frontmatter, creator material, provenance, bonus title, colophon and notices. Zero-P wrappers are separately inspected.",
+      "source": "Component roles;U010/013/016/018/020/023/026/031"
+    },
+    {
+      "id": "Q03",
+      "qualification": "Electronic issue and underlying print first edition both date to 2019-03-01. Copyright is Akatsuki/Mishima 2019. Author: Akatsuki; illustrator: Mishima; design: 百足屋ユウコ＋モンマ蚕（ムシカゴグラフィクス）; publisher: Misaka Taiji/KADOKAWA.",
+      "source": "U033;IMG002/005/023"
+    },
+    {
+      "id": "Q04",
+      "qualification": "Kazuma narrates the prologue U010 and final episode U023; Megumin narrates C1–4 in U013/016/018/020, epilogue U026 and bonus U031. Portraits do not determine narrator.",
+      "source": "Native first-person bodies;individual wrappers"
+    },
+    {
+      "id": "Q05",
+      "qualification": "The recent chieftain-trial return supplies a lower bound consistent with accepted MAIN14 trial context, not an exact day or proof all later MAIN14 events occurred. The relationship stage is later than V12.",
+      "source": "U013P0028;MAIN14accepted reading§§2–3"
+    },
+    {
+      "id": "Q06",
+      "qualification": "Actual scarf destruction, removal of the glowing growth and a proposed meal differ. The species remains unknown; Kazuma’s not-mushroom inference is not a completed taxonomy.",
+      "source": "U010"
+    },
+    {
+      "id": "Q07",
+      "qualification": "Kazuma extends the post-rain promise to next year and Megumin rejects the delay. Darkness’s later daily-cast offer is willingness, not a completed outing.",
+      "source": "U010P0010/0025–0026"
+    },
+    {
+      "id": "Q08",
+      "qualification": "Real demand for Yunyun collapses after Megumin adds herself. The indoor chant attempt is stopped and the 3,000 reward received. No guild Explosion occurs; Yunyun is not universally unwanted.",
+      "source": "U013P0038–0070"
+    },
+    {
+      "id": "Q09",
+      "qualification": "Yunyun explicitly learns the princess identity at Iris’s full-name disclosure. Earlier important-family inference and subsequent staying do not backdate informed travel consent.",
+      "source": "U013P0091–0106/0166"
+    },
+    {
+      "id": "Q10",
+      "qualification": "Rain’s pay cut is a real reported cost. Claire’s emotional collapse is not death. Retainers yield before the proposed training duel occurs.",
+      "source": "U013P0125–0148"
+    },
+    {
+      "id": "Q11",
+      "qualification": "ShapeChange, body-double service and sacrifice are promises, not acquired skills or performed acts. Iris’s request for normal friendly address is specific.",
+      "source": "U013P0161–0178"
+    },
+    {
+      "id": "Q12",
+      "qualification": "Rex explicitly recalls the actual earlier recruitment and apology. Current forgotten names and teasing disbelief do not invalidate that history; royal rank and harassment create different reputation effects.",
+      "source": "U013P0215–0245;U023P0142–0162"
+    },
+    {
+      "id": "Q13",
+      "qualification": "Barton’s fundamental curiosity is genuine, but the croaking/weather theory is untested. His current goal is a conditional date, and Megumin supplies a competing charm/forecast antecedent before the intervention.",
+      "source": "U013P0281–0328"
+    },
+    {
+      "id": "Q14",
+      "qualification": "The giant King Toad exists and the later card confirms its kill. Clear weather and later dating are subsequent outcomes, not exclusive proof the frog caused rain or a disclosure of Barbera’s motives.",
+      "source": "U013P0410–0478;U016P0034–0041;U020P0068–0085/0204–0220"
+    },
+    {
+      "id": "Q15",
+      "qualification": "Barton’s alraune claims remain attributed; Yunyun actually rescues him. The beginner killer is driven off nonlethally. Proposed disguised client killing and running to strike do not establish a completed blow or murder.",
+      "source": "U013P0332–0380"
+    },
+    {
+      "id": "Q16",
+      "qualification": "Yunyun says Megumin is no longer financially troubled at U013P0395; Megumin later states a current transport-budget problem. Preserve both particulars without inventing universal insolvency or a bank balance.",
+      "source": "U013P0395;U016P0131–0141"
+    },
+    {
+      "id": "Q17",
+      "qualification": "Iris lacks the ancestral sword needed for her strongest technique in C1, but actually brings and uses it in C4. The resource state changes.",
+      "source": "U013P0410–0435;U020P0249–0270"
+    },
+    {
+      "id": "Q18",
+      "qualification": "Before the C1 cast, Teleport chanting is completed and held ready at P0462/P0469; Iris stands beside Megumin and accepts shielding, slime and Claire costs. Do not repeat the preceding book’s missing-exit qualification or add formal-permission/numeric-radius requirements. Complete all-friendly geometry remains limited.",
+      "source": "U013P0462–0469"
+    },
+    {
+      "id": "Q19",
+      "qualification": "The C1 cast occurs at P0478. Megumin’s explanation of Barbera’s selective refusal is interrupted at P0475. Doll sabotage and repair are actual; more dolls and the date remain uncompleted at that point.",
+      "source": "U013P0475–0509"
+    },
+    {
+      "id": "Q20",
+      "qualification": "Noble/maid status is roleplay, but neglected clerical work is actual. Megumin deliberately cuts off the secret-passage explanation; no missing mechanism is supplied by inference.",
+      "source": "U016P0018–0041"
+    },
+    {
+      "id": "Q21",
+      "qualification": "Holy-water health and commercial benefits are in-world claims. Cecily stops her price-gouging admission after Iris’s charity expectation. Illness is feigned and the healer offer refused; no actual toy purchase or medical validation follows.",
+      "source": "U016P0052–0091/0167–0185"
+    },
+    {
+      "id": "Q22",
+      "qualification": "The mask grab expresses attraction rather than demonstrated demon recognition. Iris’s welcomed Hachibee familiarity does not authorize Cecily’s contact. The cause of Wiz’s charred condition is unspecified.",
+      "source": "U016P0100–0141"
+    },
+    {
+      "id": "Q23",
+      "qualification": "Wiz’s Teleport is requested, but the later transit and its caster are not narrated. Arrival does not give Vanir that skill. Zereschilt concedes the alias before a duel; no life is lost.",
+      "source": "U016P0131–0158/0261–0266"
+    },
+    {
+      "id": "Q24",
+      "qualification": "Yunyun’s all-night labor and valued friendship label are real. She corrects past lunches from gifts to taking. The accepted stone order does not independently establish payment or handover.",
+      "source": "U016P0188–0221"
+    },
+    {
+      "id": "Q25",
+      "qualification": "Cecily alone receives the private face invitation. Its content reaches Megumin through her report; the others’ requests are refused.",
+      "source": "U016P0234–0250"
+    },
+    {
+      "id": "Q26",
+      "qualification": "Yunyun’s destination is omitted before arrival. Staying for friends is not retrospective informed consent. Cecily admits an evidence-destruction motive without thereby proving the creature’s precise origin.",
+      "source": "U016P0261–0299"
+    },
+    {
+      "id": "Q27",
+      "qualification": "Clerical harassment and sham collapse retain actual unwantedness. The threatened punishment is perversely welcomed; no beheading occurs and Zesta’s recognition of royal identity is not established.",
+      "source": "U016P0322–0361"
+    },
+    {
+      "id": "Q28",
+      "qualification": "Megumin’s actual investigation/supervision role acknowledges the daily cast limit. This does not automatically supply substantial self-accepted build loss, a costly alternative, or an adopted harm task from a conditional cleric-blast suggestion.",
+      "source": "U016P0374–0388"
+    },
+    {
+      "id": "Q29",
+      "qualification": "The fake public confession, pinning and forced approach follow explicit refusal. Megumin’s stop calls are ignored. The priest’s Powered self-defense precedes any completed forced kiss; the three are not equivalent aggressors.",
+      "source": "U016P0439–0467"
+    },
+    {
+      "id": "Q30",
+      "qualification": "A black creature is actually observed; a later coin donation is only promised. Megumin refuses flattering false Axis-mastermind attribution. This real near-M07 candidate receives substantive assessment.",
+      "source": "U016P0476–0485"
+    },
+    {
+      "id": "Q31",
+      "qualification": "The signed theft letter names クレイン and leaves money without owner consent. Clerics physically block Megumin’s police attempt; she then agrees to pretend ignorance. Clothes are returned by report, while the motive for tears is disputed.",
+      "source": "U018P0061–0082"
+    },
+    {
+      "id": "Q32",
+      "qualification": "The eighty-percent remark is a character estimate, not a census. Inn ruin, allergy and scout claims remain unverified, and no free-work agreement is completed.",
+      "source": "U018P0022–0044/0075–0082"
+    },
+    {
+      "id": "Q33",
+      "qualification": "The wyvern corpse is observed but its battle reported. Iris is near level sixty, whereas Yunyun is later stated above forty. Exact Megumin/Yunyun levels are not supplied.",
+      "source": "U018P0095–0119;U020P0087–0110"
+    },
+    {
+      "id": "Q34",
+      "qualification": "Bath boundaries include Iris’s actual guard and rejected bribes, plus Megumin’s conditional permission for Cecily. Yunyun’s separate verbal answer, completed spying and blanket contact permission are absent.",
+      "source": "U018P0121–0170"
+    },
+    {
+      "id": "Q35",
+      "qualification": "Cecily’s weaker-water comparison is a real prior perception that prompts Megumin’s epistemic update. Leaving Iris behind balances prey-scaring power against clerical risk. Conditional defensive attacks are not performed.",
+      "source": "U018P0171–0199"
+    },
+    {
+      "id": "Q36",
+      "qualification": "Cecily changes her creation/ownership claim when the creature talks. Sale and date intentions are not completed and origin is not proved.",
+      "source": "U018P0209–0218/0298–0311"
+    },
+    {
+      "id": "Q37",
+      "qualification": "Yunyun warns of lethal poison/contact before Megumin’s play frame. A nonharm oath is offered and refused. General rank is uttered before the proper name is interrupted; missing name does not erase received danger.",
+      "source": "U018P0235–0285"
+    },
+    {
+      "id": "Q38",
+      "qualification": "Inferno and Lightning actually hit and are resisted; the glassed ground and slain surrounding slimes are real. Wand evasion avoids lethal bodily contact. Yunyun’s explicit nonplay correction precedes the persistent setting interpretation.",
+      "source": "U018P0298–0340"
+    },
+    {
+      "id": "Q39",
+      "qualification": "Megumin has faint voice/ice recognition but avoids the past. No full Hans identity or return mechanism is completed. The creature mentions surviving Explosion at P0360 before the clan-challenge cast at P0365; the later card confirms Chappy’s kill.",
+      "source": "U018P0341–0371;U020P0068–0085"
+    },
+    {
+      "id": "Q40",
+      "qualification": "Dispel Magic defeats the first balloon-directed blade, while the later balloon and mouthpiece are actually destroyed. No completed inhaling or forced kiss is narrated.",
+      "source": "U018P0370–0409"
+    },
+    {
+      "id": "Q41",
+      "qualification": "Cecily’s Blessing is genuinely useful, but the no-clinging objection remains operative. Megumin partly acknowledges stealing the finish and justifies it; Yunyun refuses the fun-ending closure. Neither no acknowledgment nor complete repair is accurate.",
+      "source": "U018P0389–0415"
+    },
+    {
+      "id": "Q42",
+      "qualification": "Zesta’s quiet concern for Aqua and Megumin’s protection of her honor coexist with actual harassment. Protecting Aqua’s image differs from receiving a plan to protect Megumin’s image.",
+      "source": "U018P0418–0430"
+    },
+    {
+      "id": "Q43",
+      "qualification": "Aqua’s chosen showmanship loses the game and creates garbage duty; Darkness anticipates altered stakes. Cheating/ghost allegations are unverified. Megumin actually tells her account and hopes for future company.",
+      "source": "U018P0451–0470"
+    },
+    {
+      "id": "Q44",
+      "qualification": "Waking and water are the actual acts behind a suggestive retelling; no new intimate act occurs. Darkness’s real work is smeared and Aqua’s divine self-claim is not automatically Megumin’s belief.",
+      "source": "U020P0007–0043"
+    },
+    {
+      "id": "Q45",
+      "qualification": "Beat at level four and Clarice at level two offer a real wanted party. Yunyun’s joy and retention effort establish cost before Megumin interferes. Power leveling is unperformed and the later throat grab is not authorized.",
+      "source": "U020P0087–0124"
+    },
+    {
+      "id": "Q46",
+      "qualification": "The guard’s on-duty refusal differs from the captain’s after-duty volunteering. Iris refuses an extra provider to prove usefulness; no actual duel or captain defeat occurs.",
+      "source": "U020P0131–0182"
+    },
+    {
+      "id": "Q47",
+      "qualification": "Barton claims a new doctorate, not an independently shown university professorship. Dates/gifts are reported but the engagement ring refused. Iris’s cherished cheap ring is not an actual engagement.",
+      "source": "U020P0188–0239"
+    },
+    {
+      "id": "Q48",
+      "qualification": "Yunyun’s cut hits and regenerates; a hundred repeats exceed mana, rather than proving poor aim. Iris prepares the anti-leak necklace after the preceding problem; item attraction creates an additional risk.",
+      "source": "U020P0249–0281"
+    },
+    {
+      "id": "Q49",
+      "qualification": "Scat, sword contamination and the small shed gem are actual. Tail-tip-only conservation is specified before the encounter. Megumin’s magical-bait excuse is corrected as habitual thrift, not actual mind control.",
+      "source": "U020P0293–0340;IMG015"
+    },
+    {
+      "id": "Q50",
+      "qualification": "Swamp is avoided under the nonlethal constraint; Barton physically stops the proposed Explosion. Iris chooses barehand capture. Megumin’s safety argument coexists with explicit self-protection and a wish to abandon the job.",
+      "source": "U020P0341–0370"
+    },
+    {
+      "id": "Q51",
+      "qualification": "Barton receives the necklace at P0385 and is its last explicitly shown holder before the theft. Removal reveals Iris’s power and scares the creature; the costly decoy fails. No intermediate return is invented.",
+      "source": "U020P0371–0405/0433"
+    },
+    {
+      "id": "Q52",
+      "qualification": "Yunyun’s cut is actually dodged at P0412; Iris’s new attack is cut before impact at P0415. The later account establishes pity, theft and escape. There is no tail collection, kill or new bird kill from Megumin’s boast.",
+      "source": "U020P0402–0434"
+    },
+    {
+      "id": "Q53",
+      "qualification": "Compensation, apology and parent-revelation offers are not completed settlements. Yunyun refuses charging the client for adventurer equipment; Iris owns bringing the asset. The tiny shed gem remains, and Barton’s overhunting concern excludes the frog.",
+      "source": "U020P0435–0469"
+    },
+    {
+      "id": "Q54",
+      "qualification": "The C4 cover is Megumin’s authored false account of uncontrolled rare-beast killing and necklace destruction. The animal has escaped. The actual cast is P0497, with release described at P0499; loose original wording is preserved and precisely qualified.",
+      "source": "U020P0475–0499"
+    },
+    {
+      "id": "Q55",
+      "qualification": "Iris offers royal false witness and card override; Megumin accepts. Own-blame protection coexists with self-dramatizing prestige, concealment and public-safety cost. M07’s exact direction/purpose is qualified, not dismissed as having no candidate.",
+      "source": "U020P0480–0499;unchangedM07assessment"
+    },
+    {
+      "id": "Q56",
+      "qualification": "Distant ring presentation and happy faces are observed, but words are unheard. No explicit proposal acceptance, marriage or ring handover is inferred.",
+      "source": "U020P0501–0510"
+    },
+    {
+      "id": "Q57",
+      "qualification": "The officer addresses prohibited near-capital fire rather than merely the animal’s existence. Iris prompts release; no completed jail term or safety proof follows. Castle concern and reprimands are reported.",
+      "source": "U020P0511–0546"
+    },
+    {
+      "id": "Q58",
+      "qualification": "Yunyun carries Megumin home, some mana recovers, and a real leadership offer is ignored. Megumin owns coordination limits while self-exemption recurs. At C4’s end the next-day Kazuma request is still intended.",
+      "source": "U020P0530–0577"
+    },
+    {
+      "id": "Q59",
+      "qualification": "Kazuma’s preceding quiet reflects unknown activity. Bind and Drain Touch reduce mana below cast capacity at P0054; actual mana returns at P0359. Seal/master framing does not make the resource action nonliteral or H4.",
+      "source": "U023P0003–0056/0359–0366"
+    },
+    {
+      "id": "Q60",
+      "qualification": "An anything promise under coercion is not particular free intimacy consent. Kazuma explicitly disclaims a sexual request and no changed intimate step follows. Hypothetical dress/photos punishment is unperformed.",
+      "source": "U023P0035–0062"
+    },
+    {
+      "id": "Q61",
+      "qualification": "Darkness refuses family jewels. A false daughter-request claim obtains her father’s real loan while Kazuma diverts her. The old pendant is reclaimed; a Claire token is separately held. Neither creates blanket owner permission.",
+      "source": "U023P0068–0125"
+    },
+    {
+      "id": "Q62",
+      "qualification": "Barton volunteers beyond contractual liability. Kazuma detects the creature before joining the distraction, and Megumin reminds him. Barton’s assumed tracking capacity is later explicitly unavailable, with no prior accepted tracking contract.",
+      "source": "U023P0171–0223/0267–0276"
+    },
+    {
+      "id": "Q63",
+      "qualification": "Planned bait theft succeeds but pursuit speed is unprepared. カモネギ versus カモシカ needs idiom reconstruction rather than literal transformation. The family heirloom is genuinely at risk.",
+      "source": "U023P0229–0276"
+    },
+    {
+      "id": "Q64",
+      "qualification": "Plant capture is unwanted and an actual cutting/pulling rescue follows. The later beetle’s initial grab becomes welcomed by Aqua; subsequent welcome does not authorize the initial seizure.",
+      "source": "U023P0279–0310"
+    },
+    {
+      "id": "Q65",
+      "qualification": "The contempt-triggered chant cannot complete under imposed depletion. Kazuma’s friendly prediction fails and Darkness’s nonlethal charge leaves her pinned; grave injury is not invented.",
+      "source": "U023P0323–0359"
+    },
+    {
+      "id": "Q66",
+      "qualification": "Mana is really returned before chanting. Megumin’s master-role agreement is temporary, and Barton’s received species plea is initially refused. No permanent master authority follows.",
+      "source": "U023P0359–0375"
+    },
+    {
+      "id": "Q67",
+      "qualification": "Aqua’s performance fails the assigned distraction. Steal retrieves the national necklace at P0395; a jump creates some distance at P0396. Kazuma predicts harm not too bad at P0397, rather than fully safe allies.",
+      "source": "U023P0377–0398"
+    },
+    {
+      "id": "Q68",
+      "qualification": "Barton’s final plea precedes Megumin’s glance and actual cast. The trajectory hits the nest/treasure behind the animal; her explicit epilogue account establishes deliberate bond-cued mercy. Treasure destruction remains actual.",
+      "source": "U023P0400–0412;U026P0034–0040"
+    },
+    {
+      "id": "Q69",
+      "qualification": "The living creature is persuaded, returns the family jewel and departs. Characters have only an unpopular goji-evolution theory. The afterword confirms the earlier bonus creature for readers; that summary is not a new full reading of the original bonus.",
+      "source": "U026P0006–0014/0074;U027P0005–0009"
+    },
+    {
+      "id": "Q70",
+      "qualification": "The national necklace is recovered, but return to Iris remains future and disputed for credit. Aqua’s other mistake is known to exist but not disclosed. The next adventure is proposed and declined, not completed.",
+      "source": "U026P0041–0078"
+    },
+    {
+      "id": "Q71",
+      "qualification": "The separate bonus is CONTEXP02-BONUS-ELECTRONIC-COSTUME-MARQUIS, U031, 57 P, titled in U030. Its bounty reference gives a relative bound rather than an exact day; it is fiction rather than creator material.",
+      "source": "U030–031"
+    },
+    {
+      "id": "Q72",
+      "qualification": "The bonus fair-test proposal is interrupted by actual surprise/joint aggression. Zipper opening is proposed without completed exposure. Zereschilt later wants the trip but is left with the shop; hunt, cast and future repair remain unperformed.",
+      "source": "U031P0025–0057"
+    },
+    {
+      "id": "Q73",
+      "qualification": "All 25 images are actually viewed, including creator raster comments in IMG022 and full-wrap bios/blurb in IMG023, with an enlarged biography check. There is no integral image-only fiction body; profiles, banners, scene art and branding have distinct roles.",
+      "source": "Individualimageviewlog;componentregister"
+    },
+    {
+      "id": "Q74",
+      "qualification": "Of 148 original context witnesses, 140 fragments join their original windows; one native-exact fragment at U016P0116 needs the earlier window; seven empty original anchors receive explicitly new postseal selections. All 148 current forms join, with originals unchanged.",
+      "source": "VOICE_NATIVE_JOIN_AUDIT;V046/V113–119"
+    },
+    {
+      "id": "Q75",
+      "qualification": "The 92 selected effects and 148 voice contexts are not a census, frequency rate or J02 denominator. Two H2 cases retain actual cost and intensity limits. Two humor L3 cases and one voice L3 fragment have specific Japanese-form warrants; no acoustic, native-human or independent-review claim is made.",
+      "source": "CurrentH/Vregisters;sourcefirstseal"
+    },
+    {
+      "id": "Q76",
+      "qualification": "The same informed root has prior main, holdout, mixed, Dust and Explosions exposure plus possible pretraining. All 66 current/72 historical frozen pins, four scorecards and fourteen original future blanks remain exact. The full program continues beyond this book.",
+      "source": "Admission;frozencontrols;receivingdeclaration"
+    }
+  ],
+  "ten_current_prefix_controls": [
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "bytes": 255064,
+      "sha256": "0c4eede5af83710f4d00cd99920330abceecb06a2f0f434e204f0f21265748ae"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "bytes": 183133,
+      "sha256": "472266ef2ca40dc64a66d86b4b4796d6dc32ebf5e0137248879d1c70a6f5a9a0"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "bytes": 754455,
+      "sha256": "f0c55e7121bcb9bb4116f7c407e83fb1c150f96ed8188d7697cc84d9033bbf04"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "bytes": 566629,
+      "sha256": "ffb74b3ecf813a04d620c2514aab7b9e815a5aa3282d0873b37ec9db90a6883e"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "bytes": 163037,
+      "sha256": "d7e3c032f78f6d5ba35c0cc2fb52cbbe5fe14e1f1a620544f4ea3072a27be3e4"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "bytes": 156332,
+      "sha256": "d056aa1e25e8f1a66c8f287b7e2766435d971f20b7e95d5c87780666b382f6d9"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "bytes": 178453,
+      "sha256": "9cf1aa0d78c56dc11ec0c5d6ad308d5e856aad23c60f55809f492d83b4d2bff8"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "bytes": 145327,
+      "sha256": "2bc95730215a9a6f75821c7e111ede09691b60a7524004ad9dfe86a4d17b212f"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "bytes": 233438,
+      "sha256": "9d8dfe797c2f8c8d7c5d1c1ef6dd1d7122bbe07431335d2d2e23a98ddaec742b"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "bytes": 80379,
+      "sha256": "27fba34fd3ad91ba34d470689fdf86e53d16609e1e3b8a41d8e9e9be7cd8a833"
+    }
+  ],
+  "frozen_proof": {
+    "current66_verified": 66,
+    "historical72_at_3b92_verified": 72,
+    "four_score_sha256": {
+      "YORI01": "7a3cd1e0c046cd34e6f3a628e580f204d6aac6a5d16feb419761a925c930d026",
+      "MASK": "adf99e88f67285d3bdd5f17a7248818dae46d98f405909d1ec2bc0aec01aa967",
+      "DUST06": "f94bfb84f5b16e0234fb6adbcebd0c6f481debd46544021de360dea76d00f70e",
+      "DUST07": "8b44adedfd61592c639f325cca25482d46ba289670d263cb5e2ed836d90e9dab"
+    },
+    "original14blank_file_sha256": "3372733aa462b9e97a7b2bd117fb29c7eff7ab34d0a0bc3d9f4084c2234ddd0f",
+    "R1_changed": false
+  },
+  "whole_edition_accounting_only": {
+    "supplemental_total": 19,
+    "accepted_including_this_pending_publication": [
+      "DUST-01",
+      "DUST-02",
+      "DUST-03",
+      "DUST-04",
+      "DUST-05",
+      "DUST-06",
+      "DUST-07",
+      "DUST-CONT",
+      "EXP-01",
+      "EXP-02",
+      "EXP-03",
+      "CONTEXP-01",
+      "CONTEXP-02"
+    ],
+    "previously_published_full_gate_closed": [
+      "DUST-01",
+      "DUST-02",
+      "DUST-03",
+      "DUST-04",
+      "DUST-05",
+      "DUST-06",
+      "DUST-07",
+      "DUST-CONT",
+      "EXP-01",
+      "EXP-02",
+      "EXP-03",
+      "CONTEXP-01"
+    ],
+    "mixed_programs_published_at_stated_scopes": 5
+  },
+  "global_narrative_component_completion_percentage": null,
+  "remaining_boundary": "Close the exact CONTEXP02 publication, readback, source audit, owner housekeeping, final actual-source audit/status and fresh published authority reload before separate MASK whole-edition admission. Then Fantastic Days, Yorimichi01–04, all seventeen main excluded-component programs, expanded syntheses, attributable Stage D, secondary reconstruction, indexes and final release continue. The global narrative-component denominator remains unresolved and completion percentage null."
+}

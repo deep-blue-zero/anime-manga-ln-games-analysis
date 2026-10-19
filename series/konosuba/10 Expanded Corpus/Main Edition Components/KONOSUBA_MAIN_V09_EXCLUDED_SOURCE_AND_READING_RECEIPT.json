@@ -1,0 +1,94 @@
+{
+  "schema": "KONOSUBA_MAIN_EXCLUDED_ACTUAL_NEW_READING_WITH_RETAINED_PRINCIPAL_RECEIPT_V1",
+  "source_id": "MAIN-09",
+  "accepted_utc": "2026-10-19T14:18:26.827810+00:00",
+  "native_filename": "Konosuba - Main Series - Volume 09.epub",
+  "native_bytes": 3086699,
+  "native_sha256": "a81499cd61dda060503d35d68db71c2bdc9e12e782412cf3724bca25a7f28f0e",
+  "OPF_member": "OEBPS/content.opf",
+  "OPF_sha256": "500dbdb46c71431c5e351f344c702e9de63f5da9b18da858dfecf524e78486c8",
+  "language": [
+    "ja"
+  ],
+  "colophon_and_bibliographic_difference": "Electronic issue2016-07-01; print-basis first issue2016-07-01; copyright2016. These agree as edition statements but do not date every bonus or retained event.",
+  "admission_sha256": "bf5db2e5c63cebf417bfef6c9de71e792da955ff821501c6bcd5cf879c07b12c",
+  "preceding_full_gate_source": "906a29b4c986de8035b2511ed19dbf3e7c3e0676",
+  "preceding_fresh_reload_sha256": "471c72bf6bbd69600d3fe7f9a221ffc9371fe1794fde14f31e13889c01c64c5d",
+  "excluded_uncoded_seal_sha256": "04fce0343de486b2096bd1d82e753933ae89d490a1e3e6415f4173f4c5b80d37",
+  "excluded_uncoded_seal_utc": "2026-10-19T13:47:53.786272+00:00",
+  "actual_new_reading": {
+    "text_resources": 22,
+    "P_slots": 131,
+    "native_images": 33,
+    "ruby_and_nonparagraph_residual_received": true,
+    "bonus_P": 61,
+    "nonbonus_text_slots_P": 70,
+    "author_afterword_P": 21,
+    "other_wrapper_credit_slots_P": 49
+  },
+  "retained_principal_authority": {
+    "members": 8,
+    "P_slots": 3076,
+    "new_principal_reading_credit": 0,
+    "exact_native_and_prior_acceptance_control_joins": true
+  },
+  "fresh_native_CRC": "PASS",
+  "all_native_text_image_hashes_reverified": true,
+  "original_uncoded_pins": [
+    {
+      "file": "NATIVE_ADMISSION.json",
+      "bytes": 45244,
+      "sha256": "bf5db2e5c63cebf417bfef6c9de71e792da955ff821501c6bcd5cf879c07b12c"
+    },
+    {
+      "file": "ROOT_PRE_BODY_PREPARATION_SEAL.json",
+      "bytes": 185587,
+      "sha256": "f1b81a6ea9eab9bfd65c645f941eb74ee3d65ea6b6b83d1cbf3e77c6871a64b7"
+    },
+    {
+      "file": "ACTUAL_SOURCE_FIRST_UNCODED_NOTES.jsonl",
+      "bytes": 25900,
+      "sha256": "365c1efff014b9f784a6b00fc9e311bc9d2d9d873a8c933f34101162b3b07838"
+    },
+    {
+      "file": "ACTUAL_IMAGE_VIEW_UNCODED_NOTES.jsonl",
+      "bytes": 34044,
+      "sha256": "0cb1b9daffcb7dedc63f75b15ef2ce5261bd9861674d6c86bd13492da494c2c9"
+    }
+  ],
+  "public_preparation_view_is_redacted": true,
+  "formal_counts": [
+    26,
+    29,
+    31,
+    12,
+    40
+  ],
+  "party_comparisons": 8,
+  "typed_constraints_not_behavioral_scores": 4,
+  "Iris_SI_C01_no_opportunity_comparisons": 7,
+  "Yunyun_SY_C01_no_opportunity_comparisons": 7,
+  "original_SI_SY_null_fields_preserved": 28,
+  "intervening_Yunyun_cohort_gate": {
+    "cohort": "YUN-C01",
+    "actual_source_commit": "906a29b4c986de8035b2511ed19dbf3e7c3e0676",
+    "gate_sha256": "02bf090e2f30b8f01abb66a7fd4de5c4ce8a8ca219e7b4e25d703392a831af43",
+    "reload_sha256": "471c72bf6bbd69600d3fe7f9a221ffc9371fe1794fde14f31e13889c01c64c5d",
+    "schema": "KONOSUBA_YUNYUN_COHORT01_PUBLICATION_GATE_CLOSE_V1",
+    "reason": "Both the preceding component gate and the later Yunyun exact-source gate are required; neither replaces or impersonates the other."
+  },
+  "preceding_main_component_gate": {
+    "source_id": "MAIN-08",
+    "actual_source_commit": "8bde99e740ce0c23d9dee951aeb27cbb1aaa7c85",
+    "gate_sha256": "f5df3b481fdd7b903545327595d3de91f1d70cc08fa04ebfa35180e095e8ceb8",
+    "reload_sha256": "3ebc095be93dcee672a48518431daf0791b566d9e1ab314f60627a21dcb82c3f",
+    "schema": "KONOSUBA_MAIN08EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE_V1"
+  },
+  "historical_Iris_cohort_gate_preserved": {
+    "actual_source_commit": "bc9b67dc37212868b16e8b6eed1a39f07b258dd0",
+    "historical_gate_not_current_intervening_cohort": true
+  },
+  "continuing_informed_root_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05,DUST-06,DUST-07,DUST-CONT,EXP-01,EXP-02,EXP-03,CONTEXP-01,CONTEXP-02,MASK,FD,YORI-01,YORI-02,YORI-03,YORI-04. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim. Iris and Yunyun scopedTier3 cohorts published/fullgateclosed. Existing SI-C01 and SY-C01 eachfixsevenoptionalrules/14originalnulls before this excluded exposure. Complete EXP01-03reports,20nativeYunyunown-interludepages and1050boundedacceptednativeP additionallyreceived; no newwhole-source/imagepass orindependenttestcredit from those secondary joins. Separately completed main excluded-component programs: MAIN-01,MAIN-02,MAIN-03,MAIN-04,MAIN-05,MAIN-06,MAIN-07,MAIN-08. These include their actual new bonuses/paratext/images, with original principal authority retained and zero new principal-pass credit. No pristine blindness is claimed.",
+  "no_new_blind_independent_audio_or_full_principal_reread_claim": true,
+  "publication_state": "CONTAINING_EXACT_PUBLICATION_AND_FULL_GATE_PENDING"
+}
