@@ -1,6 +1,10 @@
 # Character Reconstruction Capability Specification
 
-- Status: `SPECIFICATION_ONLY_NOT_POPULATED`
+- Status: `ACTIVE_PRODUCTION_CALIBRATION`
+- Production registry: `reconstruction_capabilities.jsonl`
+- Generated index: `CHARACTER_RECONSTRUCTION_INDEX.md`
+- Publication gate: `../governance/repository-controls/reconstruction-capability-policy.json`
+- Maintenance policy: `../governance/policies/CHARACTER_RECONSTRUCTION_MAINTENANCE.md`
 - Discovery schema: `../governance/schemas/character-analysis-index.schema.json`
 - Capability schema: `../governance/schemas/character-reconstruction-capability.schema.json`
 - Canonicalization profile: `CHARACTER_INDEX_V2_C14N_1`
@@ -12,24 +16,38 @@ The character discovery registry answers:
 
 > Where is reviewed, substantial analysis of this precisely scoped subject?
 
-The future reconstruction capability registry answers:
+The reconstruction capability registry answers:
 
 > What kinds of extrapolation can this exact, commit-bound evidence set responsibly support?
 
 These are related but distinct ontologies. Discovery never implies reconstruction readiness. Migration never assigns capability grades.
 
-This hardening phase creates only this specification and the closed JSON Schema. It deliberately does not create or populate:
+## Production activation and publication contract
+
+The production surfaces are active:
 
 ```text
-characters/reconstruction_capabilities.jsonl
-characters/CHARACTER_RECONSTRUCTION_INDEX.md
+characters/reconstruction_capabilities.jsonl     canonical capability registry
+characters/CHARACTER_RECONSTRUCTION_INDEX.md     generated view; never edited by hand
 ```
 
-Creating either production file, assessing a character, or publishing an A-E grade requires a separately authorized, owner-reviewed assessment phase.
+Their sole routine writer is the reconstruction evaluator under `CHARACTER_RECONSTRUCTION_MAINTENANCE.md`; the index is produced only by `tools/generate_reconstruction_index.py`. The discovery registry, its generated index, and all analytical prose remain outside the evaluator's authority, and the reconstruction outputs remain outside the discovery agent's and housekeeping's authority.
+
+The activation bootstrap state is an empty, zero-byte registry and the corresponding generated index stating that no assessment has been published. Activation creates no `UNASSESSED` placeholder records: production never admits them, and eligible-but-unassessed state is derived from the discovery registry and the absence of a capability record. Infrastructure activation does not establish that any character is reconstruction-ready, and no assessment, tier, or grade may be inferred from the existence of the schema, specification, or registry.
+
+The production registry additionally requires:
+
+- one schema-valid record per nonblank line, LF-terminated, without blank lines, ordered by ASCII `assessment_id`;
+- publication-gate compliance: in phase `CALIBRATION`, `REVIEWED` records are rejected; `ROUTINE` requires an owner calibration acceptance record;
+- a `basis_commit` that is an ancestor of the integrated history (the merge base of the validated snapshot with current `main`), so unmerged evidence is never assessed as effective;
+- preservation of published history: records are never deleted, claim payloads are immutable, and only `assessment_status`, `stale_reason`, and `superseded_by_assessment_id` change, along `CANDIDATE -> REVIEWED | STALE | SUPERSEDED`, `REVIEWED -> STALE | SUPERSEDED`, and `STALE -> SUPERSEDED`;
+- effective currentness of every `CANDIDATE` or `REVIEWED` record that the validated change adds or transitions;
+- a delta that changes either production output changes no other path, unless the same reviewed change amends the publication gate; and
+- byte-exact agreement of the generated index with the registry.
 
 ## Record identity and discovery binding
 
-One future capability record is one assessment of one `analysis_subject_id`. It contains:
+One capability record is one assessment of one `analysis_subject_id`. It contains:
 
 ```text
 schema_version
@@ -360,6 +378,19 @@ Its deterministic SHA-256 is:
 
 Historical `STALE` and `SUPERSEDED` records reproduce their stored evidence-set hash from committed bytes and authority state at their historical `basis_commit`. Currentness is then evaluated again at the comparison commit.
 
+### Historical validity and effective currentness
+
+The recorded `assessment_status` is historical publication state. Two properties are evaluated separately:
+
+- **Historical validity**: every record's claims, exact union, discovery binding, scope, raw artifact hashes, evidence-set digest, basis authority, supersession links and basis ancestry hold at its own `basis_commit`. This never changes after publication and always blocks validation when false.
+- **Effective currentness**: whether a `CANDIDATE` or `REVIEWED` record still applies at a comparison snapshot. It is derived and never stored. The derived states are `CURRENT_REVIEWED`, `CURRENT_PROVISIONAL`, and `EFFECTIVELY_STALE`, alongside `RECORDED_STALE` and `RECORDED_SUPERSEDED` for historical records.
+
+Effective staleness is determined only from the assessed subject's discovery row and the exact referenced evidence, comparing the basis with the comparison snapshot. Its reasons are `SUBJECT_ABSENT`, `SUBJECT_SCOPE_CHANGED` (entity, series, franchise, kind, continuity, incarnation, state, or composite components), `SUBJECT_CURATION_CHANGED`, `SUBJECT_COVERAGE_CHANGED`, `EVIDENCE_MEMBERSHIP_CHANGED` (the subject's reviewed evidence identities, paths, or anchors), `EVIDENCE_UNRESOLVED`, `EVIDENCE_LOCATION_CHANGED`, `EVIDENCE_TARGET_MISSING`, `EVIDENCE_BYTES_CHANGED`, `EVIDENCE_AUTHORITY_NONCURRENT`, and `EVIDENCE_SET_DIGEST_CHANGED`, plus `BASIS_UNVERIFIED` or `COMPARISON_UNAVAILABLE` when either side cannot be established. Bytes of unreferenced evidence, discovery labels and notes, and unrelated repository files are not consulted.
+
+Repository validation blocks an effectively stale record only when the validated change adds it or changes its lifecycle fields. An untouched record made stale by later integration is reported as a notice and reconciled by the evaluator; ordinary analytical and discovery publication does not require a synchronous capability-registry change. The generated index is a static projection of recorded state, explicitly not live certification. Consumers verify present applicability with `tools/reconstruction_status.py currentness` against an exact commit; only `CURRENT_REVIEWED` means a human-reviewed assessment still applies.
+
+The schema is unchanged by this distinction: currentness is a property of a record relative to a snapshot, so storing it would itself go stale.
+
 An assessment becomes stale when, among other governed causes:
 
 - a referenced artifact's exact bytes, path, or anchor change;
@@ -392,16 +423,16 @@ Application validation remains mandatory for facts JSON Schema cannot prove:
 
 Schema validation and reference resolution perform no network retrieval. Any unavailable dependency, Unicode version, Git history, or governed evidence target fails closed rather than degrading to approximate validation.
 
-## Deliberate nonpopulation
+## Activation sequence
 
-This specification does not assess, tier, or score any character. The intended later sequence is:
+This specification assesses, tiers, and scores no character. Steps 1-3 of the sequence below are complete and the production surfaces are active in their empty bootstrap state:
 
 ```text
 1. migrate and stabilize canonical analytical artifacts
 2. create reviewed discovery records
 3. stabilize the Git corpus and authority state
 4. calibrate the reconstruction method against mature anchor projects
-5. perform a separate owner-reviewed capability assessment
+5. perform owner-reviewed capability assessment through the maintenance policy
 ```
 
-No production capability registry, generated capability index, or assessment may be inferred from the existence of this schema and specification.
+Step 4 follows the calibration protocol in `CHARACTER_RECONSTRUCTION_MAINTENANCE.md`; `REVIEWED` publication remains closed until the owner accepts calibration and sets the publication gate to `ROUTINE`.

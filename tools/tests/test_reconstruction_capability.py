@@ -19,13 +19,36 @@ TOOLS = REPOSITORY / "tools"
 sys.path.insert(0, str(TOOLS))
 
 from character_index_core import (  # noqa: E402
+    RECONSTRUCTION_INDEX_PATH,
+    RECONSTRUCTION_POLICY_PATH,
+    RECONSTRUCTION_REGISTRY_PATH,
+    RECONSTRUCTION_SCHEMA_PATH,
+    AssessmentCurrentness,
     DomainError,
     GitSnapshot,
+    ReconstructionEvaluation,
+    SnapshotEntry,
+    decode_reconstruction_registry,
+    evaluate_reconstruction_assessments,
     evidence_set_digest,
+    load_reconstruction_policy,
     parse_evidence_ref,
+    reconstruction_registry_changes,
     resolve_evidence_entries,
     schema_errors,
+    validate_evidence_path,
     validate_reconstruction_assessments,
+)
+from generate_reconstruction_index import (  # noqa: E402
+    load_and_render,
+    render as render_reconstruction_index,
+)
+from prepare_commit import active_rules, missing_required_output_paths  # noqa: E402
+from reconstruction_status import work_queue  # noqa: E402
+from validate_repository import (  # noqa: E402
+    RECONSTRUCTION_OUTPUTS,
+    validate_audit_workflow,
+    validate_reconstruction_domain,
 )
 
 
@@ -387,8 +410,9 @@ class ReconstructionSchemaTests(unittest.TestCase):
         self.assert_schema_invalid(plus_grade)
 
 
-@unittest.skipUnless(importlib.util.find_spec("jsonschema"), "jsonschema is not installed")
-class GitBoundCapabilityTests(unittest.TestCase):
+class GitRepositoryFixture(unittest.TestCase):
+    """A disposable repository with one reviewed canonical evidence artifact."""
+
     def setUp(self) -> None:
         base_value = os.environ.get("MANGA_ANIME_TEST_TMP")
         if not base_value:
@@ -471,6 +495,25 @@ class GitBoundCapabilityTests(unittest.TestCase):
             text=True,
         ).strip()
 
+    def _write_registry(self, records: list[dict[str, object]]) -> None:
+        registry = self.repository / "characters" / "registry.jsonl"
+        registry.write_text(
+            "".join(
+                json.dumps(item, ensure_ascii=False, sort_keys=True, separators=(",", ":")) + "\n"
+                for item in records
+            ),
+            encoding="utf-8",
+            newline="\n",
+        )
+
+    def _commit(self, message: str, *paths: str) -> str:
+        self._git("add", "--", *paths)
+        self._git("commit", "--quiet", "-m", message)
+        return self._git_output("rev-parse", "HEAD")
+
+
+@unittest.skipUnless(importlib.util.find_spec("jsonschema"), "jsonschema is not installed")
+class GitBoundCapabilityTests(GitRepositoryFixture):
     def test_exact_claim_union_accepts_exact_set_and_rejects_extra_or_omitted(self) -> None:
         valid = assessment(self.commit, self.digest)
         self.assertEqual(
@@ -800,14 +843,590 @@ class GitBoundCapabilityTests(unittest.TestCase):
         )
 
 
-class DeliberateNonpopulationTests(unittest.TestCase):
-    def test_production_capability_surfaces_do_not_exist(self) -> None:
-        for relative in (
-            "characters/reconstruction_capabilities.jsonl",
-            "characters/CHARACTER_RECONSTRUCTION_INDEX.md",
-        ):
-            path = REPOSITORY / relative
-            self.assertFalse(path.exists() or path.is_symlink(), relative)
+def candidate(basis_commit: str, digest: str, assessment_id: str = "alice-anime-v1") -> dict[str, object]:
+    item = assessment(basis_commit, digest)
+    item["assessment_id"] = assessment_id
+    item["assessment_status"] = "CANDIDATE"
+    return item
+
+
+def unassessed(basis_commit: str) -> dict[str, object]:
+    item = assessment(basis_commit, EMPTY_EVIDENCE_SET_SHA256)
+    item["assessment_status"] = "UNASSESSED"
+    item["overall_tier"] = "NOT_ASSESSED"
+    item["evidence_refs"] = []
+    for claim in item["dimensions"]:  # type: ignore[union-attr]
+        claim["grade"] = "NOT_ASSESSED"
+        claim["evidence_refs"] = []
+    return item
+
+
+EMPTY_EVIDENCE_SET_SHA256 = (
+    "50dc6ac299e4602ee01b3b702a11e64c69cf52fe50182911eca4a377468b30d2"
+)
+
+
+@unittest.skipUnless(importlib.util.find_spec("jsonschema"), "jsonschema is not installed")
+class EffectiveCurrentnessTests(GitRepositoryFixture):
+    """Historical validity is reproducible; currentness is derived per snapshot."""
+
+    def _evaluate(
+        self,
+        item: dict[str, object],
+        comparison_commit: str,
+        records: list[dict[str, object]] | None = None,
+    ):
+        comparison = GitSnapshot.from_commit(self.repository, comparison_commit)
+        return evaluate_reconstruction_assessments(
+            [item],
+            self.repository,
+            comparison=comparison,
+            comparison_records=[self.record] if records is None else records,
+        )
+
+    def _write_evidence(self, path: str, data: bytes) -> None:
+        target = self.repository / Path(path)
+        target.parent.mkdir(parents=True, exist_ok=True)
+        target.write_bytes(data)
+
+    def test_unrelated_commit_leaves_reviewed_assessment_current(self) -> None:
+        self._write_evidence("series/example/UNRELATED.md", authority_artifact(b"# Other\n"))
+        comparison = self._commit("unrelated analysis", "series/example/UNRELATED.md")
+        result = self._evaluate(assessment(self.commit, self.digest), comparison)
+        self.assertEqual(result.errors, [])
+        self.assertEqual(result.currentness[0].effective_state, "CURRENT_REVIEWED")
+        self.assertEqual(result.currentness[0].reasons, ())
+
+    def test_candidate_is_current_but_visibly_provisional(self) -> None:
+        result = self._evaluate(candidate(self.commit, self.digest), self.commit)
+        self.assertEqual(result.errors, [])
+        self.assertEqual(result.currentness[0].effective_state, "CURRENT_PROVISIONAL")
+        self.assertTrue(result.currentness[0].effectively_current)
+
+    def test_referenced_byte_change_is_stale_while_history_stays_valid(self) -> None:
+        self._write_evidence(EVIDENCE_PATH, authority_artifact(b"# Revised analysis\n"))
+        comparison = self._commit("revise evidence", EVIDENCE_PATH)
+        result = self._evaluate(assessment(self.commit, self.digest), comparison)
+        self.assertEqual(result.errors, [])
+        self.assertEqual(result.currentness[0].effective_state, "EFFECTIVELY_STALE")
+        self.assertIn("EVIDENCE_BYTES_CHANGED", result.currentness[0].reasons)
+
+    def test_evidence_path_and_anchor_changes_are_location_changes(self) -> None:
+        moved = copy.deepcopy(self.record)
+        moved["evidence"][0]["repository_path"] = "series/example/ALICE-MOVED.md"  # type: ignore[index]
+        anchored = copy.deepcopy(self.record)
+        anchored["evidence"][0]["anchor"] = "psychology"  # type: ignore[index]
+        for label, record in (("path", moved), ("anchor", anchored)):
+            with self.subTest(label=label):
+                result = self._evaluate(assessment(self.commit, self.digest), self.commit, [record])
+                self.assertEqual(result.errors, [])
+                self.assertIn("EVIDENCE_LOCATION_CHANGED", result.currentness[0].reasons)
+                self.assertIn("EVIDENCE_MEMBERSHIP_CHANGED", result.currentness[0].reasons)
+
+    def test_authority_edge_without_byte_change_is_stale(self) -> None:
+        successor_path = "series/example/ALICE-NEW.md"
+        self._write_evidence(
+            successor_path,
+            (
+                "---\nstatus: canonical\n"
+                f"supersedes: [{EVIDENCE_PATH}]\n"
+                "superseded_by: []\ndo_not_use_as_current_authority: false\n---\n# Successor\n"
+            ).encode("utf-8"),
+        )
+        comparison = self._commit("supersede evidence", successor_path)
+        result = self._evaluate(assessment(self.commit, self.digest), comparison)
+        self.assertEqual(result.errors, [])
+        self.assertEqual(result.currentness[0].reasons, ("EVIDENCE_AUTHORITY_NONCURRENT",))
+
+    def test_subject_scope_removal_and_membership_changes_are_stale(self) -> None:
+        rescoped = copy.deepcopy(self.record)
+        rescoped["continuity_id"] = "novel"
+        expanded = copy.deepcopy(self.record)
+        extra = copy.deepcopy(expanded["evidence"][0])  # type: ignore[index]
+        extra["evidence_id"] = "secondary"
+        expanded["evidence"].append(extra)  # type: ignore[union-attr]
+        excluded = copy.deepcopy(self.record)
+        excluded["curation_status"] = "EXCLUDED_REVIEWED"
+        cases = (
+            ("scope", [rescoped], "SUBJECT_SCOPE_CHANGED"),
+            ("removed", [], "SUBJECT_ABSENT"),
+            ("membership", [expanded], "EVIDENCE_MEMBERSHIP_CHANGED"),
+            ("curation", [excluded], "SUBJECT_CURATION_CHANGED"),
+        )
+        for label, records, reason in cases:
+            with self.subTest(label=label):
+                result = self._evaluate(assessment(self.commit, self.digest), self.commit, records)
+                self.assertEqual(result.errors, [])
+                self.assertIn(reason, result.currentness[0].reasons)
+                self.assertFalse(result.currentness[0].effectively_current)
+
+    def test_unreferenced_discovery_metadata_edit_is_not_stale(self) -> None:
+        relabeled = copy.deepcopy(self.record)
+        relabeled["evidence"][0]["label"] = "Profile, relabeled"  # type: ignore[index]
+        relabeled["notes"] = "Discovery note revised without changing evidence."
+        result = self._evaluate(assessment(self.commit, self.digest), self.commit, [relabeled])
+        self.assertEqual(result.currentness[0].effective_state, "CURRENT_REVIEWED")
+
+    def test_recorded_stale_assessment_remains_reproducible_and_historical(self) -> None:
+        self._write_evidence(EVIDENCE_PATH, authority_artifact(b"# Revised analysis\n"))
+        comparison = self._commit("revise evidence", EVIDENCE_PATH)
+        item = assessment(self.commit, self.digest)
+        item["assessment_status"] = "STALE"
+        item["stale_reason"] = "Referenced evidence changed after the basis commit."
+        result = self._evaluate(item, comparison)
+        self.assertEqual(result.errors, [])
+        self.assertEqual(result.currentness[0].effective_state, "RECORDED_STALE")
+        self.assertFalse(result.currentness[0].effectively_current)
+
+    def test_basis_must_belong_to_the_integrated_history(self) -> None:
+        self._git("switch", "--quiet", "-c", "series/example")
+        self._write_evidence(EVIDENCE_PATH, authority_artifact(b"# Unmerged analysis\n"))
+        unmerged = self._commit("unmerged evidence", EVIDENCE_PATH)
+        self._git("switch", "--quiet", "-")
+        snapshot = GitSnapshot.from_commit(self.repository, unmerged)
+        entries = resolve_evidence_entries([EVIDENCE_REF], [self.record], snapshot)
+        digest, _ = evidence_set_digest(entries)
+        result = evaluate_reconstruction_assessments(
+            [candidate(unmerged, digest)], self.repository, basis_ancestor_of=self.commit
+        )
+        self.assertTrue(any("not an ancestor" in error for error in result.errors), result.errors)
+
+
+class RegistryContractTests(unittest.TestCase):
+    def _record(self, assessment_id: str, status: str = "CANDIDATE") -> dict[str, object]:
+        item = candidate("a" * 40, GOLDEN_EVIDENCE_SET_SHA256, assessment_id)
+        item["assessment_status"] = status
+        return item
+
+    def _line(self, record: dict[str, object]) -> bytes:
+        return json.dumps(record, sort_keys=True, separators=(",", ":")).encode("utf-8") + b"\n"
+
+    def test_empty_bootstrap_registry_is_valid_and_unpopulated(self) -> None:
+        self.assertEqual(decode_reconstruction_registry(b"", "registry"), [])
+
+    def test_registry_layout_is_ordered_unique_and_lf_terminated(self) -> None:
+        first, second = self._record("a-first"), self._record("b-second")
+        self.assertEqual(
+            len(decode_reconstruction_registry(self._line(first) + self._line(second), "registry")), 2
+        )
+        invalid = {
+            "order": self._line(second) + self._line(first),
+            "duplicate": self._line(first) + self._line(first),
+            "blank": self._line(first) + b"\n" + self._line(second),
+            "terminal": self._line(first).rstrip(b"\n"),
+        }
+        for label, data in invalid.items():
+            with self.subTest(label=label), self.assertRaises(DomainError):
+                decode_reconstruction_registry(data, "registry")
+
+    def test_published_records_are_preserved_and_claims_immutable(self) -> None:
+        base = [self._record("alice-v1")]
+        touched, errors = reconstruction_registry_changes(base, base)
+        self.assertEqual((touched, errors), (set(), []))
+        _touched, errors = reconstruction_registry_changes(base, [])
+        self.assertTrue(any("was removed" in error for error in errors), errors)
+        mutated = copy.deepcopy(base[0])
+        mutated["overall_tier"] = "A"
+        touched, errors = reconstruction_registry_changes(base, [mutated])
+        self.assertEqual(touched, {"alice-v1"})
+        self.assertTrue(any("immutable" in error for error in errors), errors)
+
+    def test_lifecycle_transitions_are_bounded(self) -> None:
+        allowed = (("CANDIDATE", "REVIEWED"), ("CANDIDATE", "STALE"), ("REVIEWED", "STALE"), ("STALE", "SUPERSEDED"))
+        prohibited = (("REVIEWED", "CANDIDATE"), ("STALE", "REVIEWED"), ("SUPERSEDED", "STALE"))
+        for before, after in allowed + prohibited:
+            with self.subTest(before=before, after=after):
+                previous = self._record("alice-v1", before)
+                current = copy.deepcopy(previous)
+                current["assessment_status"] = after
+                touched, errors = reconstruction_registry_changes([previous], [current])
+                self.assertEqual(touched, {"alice-v1"})
+                self.assertEqual(bool(errors), (before, after) in prohibited, errors)
+        stale = self._record("alice-v1", "STALE")
+        stale["stale_reason"] = "First reason."
+        edited = copy.deepcopy(stale)
+        edited["stale_reason"] = "Rewritten reason."
+        _touched, errors = reconstruction_registry_changes([stale], [edited])
+        self.assertTrue(any("without a status transition" in error for error in errors), errors)
+
+    def test_publication_gate_requires_owner_calibration_record_for_routine(self) -> None:
+        def snapshot(document: object, extra: dict[str, bytes] | None = None) -> GitSnapshot:
+            entries = {
+                RECONSTRUCTION_POLICY_PATH: SnapshotEntry(
+                    RECONSTRUCTION_POLICY_PATH, "100644", json.dumps(document).encode("utf-8")
+                )
+            }
+            for path, data in (extra or {}).items():
+                entries[path] = SnapshotEntry(path, "100644", data)
+            return GitSnapshot(REPOSITORY, "IN_MEMORY", entries)
+
+        base = {
+            "schema": "anime-manga-ln-games-analysis/reconstruction-capability-policy/v1",
+            "publication_phase": "CALIBRATION",
+            "calibration_acceptance_record": None,
+        }
+        self.assertEqual(load_reconstruction_policy(snapshot(base)), ("CALIBRATION", []))
+        routine = dict(base, publication_phase="ROUTINE")
+        self.assertTrue(load_reconstruction_policy(snapshot(routine))[1])
+        record = "governance/reports/RECONSTRUCTION_CALIBRATION_ACCEPTANCE.md"
+        accepted = dict(routine, calibration_acceptance_record=record)
+        self.assertTrue(load_reconstruction_policy(snapshot(accepted))[1])
+        self.assertEqual(
+            load_reconstruction_policy(snapshot(accepted, {record: b"# Accepted\n"})),
+            ("ROUTINE", []),
+        )
+        for invalid in (dict(base, publication_phase="OPEN"), dict(base, extra=True)):
+            with self.subTest(invalid=invalid):
+                self.assertTrue(load_reconstruction_policy(snapshot(invalid))[1])
+
+    def test_index_projection_is_deterministic_provisional_and_link_safe(self) -> None:
+        first = candidate("a" * 40, GOLDEN_EVIDENCE_SET_SHA256, "alice-v1")
+        first["assessment_scope"]["source_boundary"] = "See [notes](series/missing.md) *only*"  # type: ignore[index]
+        second = copy.deepcopy(first)
+        second["assessment_id"] = "alice-v0"
+        second["assessment_status"] = "STALE"
+        second["stale_reason"] = "Evidence changed."
+        entry = golden_entry()
+        rendered = render_reconstruction_index([second, first], {0: [entry], 1: [entry]})
+        self.assertEqual(rendered, render_reconstruction_index([first, second], {0: [entry], 1: [entry]}))
+        self.assertIn("**provisional; not human-reviewed**", rendered)
+        self.assertIn("provisional `B`", rendered)
+        self.assertIn("historical `B`", rendered)
+        self.assertLess(rendered.index("alice-v1"), rendered.index("alice-v0"))
+        self.assertIn(
+            "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/"
+            + "a" * 40
+            + "/series/example/ALICE.md",
+            rendered,
+        )
+        self.assertNotIn("](series/missing.md)", rendered)
+        self.assertTrue(rendered.endswith("\n") and "\r" not in rendered)
+        empty = render_reconstruction_index([], {})
+        self.assertIn("No reconstruction capability assessments have been published", empty)
+        self.assertNotIn("Recorded totals", empty)
+
+
+class WorkDiscoveryTests(unittest.TestCase):
+    def _discovery(self, subject: str, *, status: str = "INCLUDED") -> dict[str, object]:
+        record = discovery_record(subject)
+        record["curation_status"] = status
+        return record
+
+    def _queue(self, assessments, currentness, discovery, **kwargs):
+        evaluation = ReconstructionEvaluation(
+            errors=[], basis_entries={}, basis_records={}, currentness=currentness
+        )
+        return work_queue(assessments, discovery, evaluation, **kwargs)
+
+    def test_git_derived_queue_needs_no_referrals_or_peer_checkpoint(self) -> None:
+        stale_subject, fresh_subject, old_subject = (
+            "example:alice@anime", "example:alice@novel", "example:alice@manga"
+        )
+        discovery = [self._discovery(item) for item in (stale_subject, fresh_subject, old_subject)]
+        stale = candidate("a" * 40, GOLDEN_EVIDENCE_SET_SHA256)
+        currentness = {
+            0: AssessmentCurrentness(
+                "alice-anime-v1", stale_subject, "CANDIDATE", "EFFECTIVELY_STALE",
+                ("EVIDENCE_BYTES_CHANGED",),
+            )
+        }
+        since = {
+            subject: record for subject, record in
+            ((stale_subject, discovery[0]), (old_subject, discovery[2]))
+        }
+        queue = self._queue([stale], currentness, discovery, since_records=since)
+        self.assertEqual(
+            [(item["analysis_subject_id"], item["kind"]) for item in queue["items"]],
+            [
+                (stale_subject, "EFFECTIVELY_STALE_ASSESSMENT"),
+                (fresh_subject, "NEWLY_ELIGIBLE"),
+                (old_subject, "BACKFILL_UNASSESSED"),
+            ],
+        )
+        self.assertEqual(queue["items"][0]["reasons"], ["EVIDENCE_BYTES_CHANGED"])
+        self.assertFalse(any(item["advisory_hint"] for item in queue["items"]))
+
+    def test_duplicate_hints_never_duplicate_work_or_create_it(self) -> None:
+        subject = "example:alice@anime"
+        queue = self._queue(
+            [], {}, [self._discovery(subject), self._discovery("example:bob@anime", status="CANDIDATE")],
+            hints=[subject, subject, "example:bob@anime", "example:carol@anime"],
+        )
+        self.assertEqual([item["analysis_subject_id"] for item in queue["items"]], [subject])
+        self.assertTrue(queue["items"][0]["advisory_hint"])
+        self.assertEqual(queue["unenrolled_hints"], ["example:carol@anime"])
+
+    def test_deferred_subjects_return_only_after_material_change(self) -> None:
+        subject = "example:alice@anime"
+        current = self._discovery(subject)
+        changed = copy.deepcopy(current)
+        changed["evidence"][0]["repository_path"] = "series/example/ALICE-V2.md"  # type: ignore[index]
+        unchanged_queue = self._queue([], {}, [current], since_records={subject: current}, deferred=[subject])
+        self.assertEqual(unchanged_queue["items"], [])
+        self.assertEqual(unchanged_queue["subject_state_counts"], {"DEFERRED": 1})
+        changed_queue = self._queue([], {}, [changed], since_records={subject: current}, deferred=[subject])
+        self.assertEqual(changed_queue["items"][0]["kind"], "DEFERRED_EVIDENCE_CHANGED")
+
+    def test_derived_states_distinguish_reviewed_pending_and_historical(self) -> None:
+        reviewed = assessment("a" * 40, GOLDEN_EVIDENCE_SET_SHA256)
+        pending = candidate("a" * 40, GOLDEN_EVIDENCE_SET_SHA256, "bob-v1")
+        pending["analysis_subject_id"] = "example:bob@anime"
+        historical = candidate("a" * 40, GOLDEN_EVIDENCE_SET_SHA256, "carol-v1")
+        historical["analysis_subject_id"] = "example:carol@anime"
+        historical["assessment_status"] = "SUPERSEDED"
+        currentness = {
+            0: AssessmentCurrentness("alice-anime-v1", SUBJECT, "REVIEWED", "CURRENT_REVIEWED", ()),
+            1: AssessmentCurrentness("bob-v1", "example:bob@anime", "CANDIDATE", "CURRENT_PROVISIONAL", ()),
+        }
+        discovery = [self._discovery(item) for item in (SUBJECT, "example:bob@anime", "example:carol@anime")]
+        queue = self._queue([reviewed, pending, historical], currentness, discovery)
+        self.assertEqual(
+            queue["subject_state_counts"],
+            {"HISTORICAL_ONLY": 1, "HUMAN_REVIEWED_CURRENT": 1, "PENDING_PROVISIONAL": 1},
+        )
+        self.assertEqual(
+            [(item["analysis_subject_id"], item["kind"]) for item in queue["items"]],
+            [("example:carol@anime", "REASSESSMENT_NEEDED")],
+        )
+
+
+@unittest.skipUnless(importlib.util.find_spec("jsonschema"), "jsonschema is not installed")
+class ProductionRepositoryTests(GitRepositoryFixture):
+    """The repository validator's production contract on a disposable history."""
+
+    def setUp(self) -> None:
+        super().setUp()
+        for path in (RECONSTRUCTION_SCHEMA_PATH,):
+            target = self.repository / Path(path)
+            target.parent.mkdir(parents=True, exist_ok=True)
+            target.write_bytes((REPOSITORY / path).read_bytes())
+        self._write_policy("CALIBRATION")
+        self._publish([])
+        self.main = self._commit(
+            "activate production surfaces",
+            RECONSTRUCTION_SCHEMA_PATH,
+            RECONSTRUCTION_POLICY_PATH,
+            RECONSTRUCTION_REGISTRY_PATH,
+            RECONSTRUCTION_INDEX_PATH,
+        )
+        self._advance_main()
+
+    def _advance_main(self) -> None:
+        self.main = self._git_output("rev-parse", "HEAD")
+        self._git("update-ref", "refs/remotes/origin/main", self.main)
+
+    def _write_policy(self, phase: str) -> None:
+        record = None
+        if phase == "ROUTINE":
+            record = "governance/reports/RECONSTRUCTION_CALIBRATION_ACCEPTANCE.md"
+            target = self.repository / Path(record)
+            target.parent.mkdir(parents=True, exist_ok=True)
+            target.write_bytes(b"# Owner calibration acceptance\n")
+        target = self.repository / Path(RECONSTRUCTION_POLICY_PATH)
+        target.parent.mkdir(parents=True, exist_ok=True)
+        target.write_text(
+            json.dumps(
+                {
+                    "schema": "anime-manga-ln-games-analysis/reconstruction-capability-policy/v1",
+                    "publication_phase": phase,
+                    "calibration_acceptance_record": record,
+                },
+                indent=2,
+            )
+            + "\n",
+            encoding="utf-8",
+            newline="\n",
+        )
+
+    def _publish(self, records: list[dict[str, object]], *, render: bool = True) -> None:
+        registry = self.repository / Path(RECONSTRUCTION_REGISTRY_PATH)
+        registry.parent.mkdir(parents=True, exist_ok=True)
+        registry.write_bytes(
+            b"".join(
+                json.dumps(item, ensure_ascii=False, sort_keys=True, separators=(",", ":")).encode("utf-8")
+                + b"\n"
+                for item in records
+            )
+        )
+        if render:
+            evaluation = evaluate_reconstruction_assessments(records, self.repository)
+            self.assertEqual(evaluation.errors, [])
+            (self.repository / Path(RECONSTRUCTION_INDEX_PATH)).write_bytes(
+                render_reconstruction_index(records, evaluation.basis_entries).encode("utf-8")
+            )
+
+    def _commit_outputs(self, message: str) -> str:
+        return self._commit(message, RECONSTRUCTION_REGISTRY_PATH, RECONSTRUCTION_INDEX_PATH)
+
+    def _validate(self) -> tuple[list[str], list[str]]:
+        head = self._git_output("rev-parse", "HEAD")
+        snapshot = GitSnapshot.from_commit(self.repository, head)
+        return validate_reconstruction_domain(self.repository, snapshot, "commit", head, None)
+
+    def _revise_evidence_on_main(self) -> None:
+        (self.repository / Path(EVIDENCE_PATH)).write_bytes(authority_artifact(b"# Revised analysis\n"))
+        self._commit("series analysis revises referenced evidence", EVIDENCE_PATH)
+        self._advance_main()
+
+    def test_empty_bootstrap_state_validates(self) -> None:
+        self.assertEqual(self._validate(), ([], []))
+
+    def test_production_surfaces_are_required_and_index_drift_fails(self) -> None:
+        self._git("rm", "--quiet", "--", RECONSTRUCTION_INDEX_PATH)
+        self._git("commit", "--quiet", "-m", "remove index")
+        errors, _ = self._validate()
+        self.assertTrue(any("index is missing" in error for error in errors), errors)
+        self._git("revert", "--no-edit", "HEAD")
+        self._git("switch", "--quiet", "-c", "character-reconstruction")
+        self._publish([candidate(self.commit, self.digest)], render=False)
+        self._commit_outputs("registry without regenerated index")
+        errors, _ = self._validate()
+        self.assertTrue(any("is out of date" in error for error in errors), errors)
+
+    def test_evaluator_candidate_publication_is_two_file_confined(self) -> None:
+        self._git("switch", "--quiet", "-c", "character-reconstruction")
+        self._publish([candidate(self.commit, self.digest)])
+        self._commit_outputs("publish candidate")
+        self.assertEqual(self._validate(), ([], []))
+        edited = copy.deepcopy(self.record)
+        edited["notes"] = "An evaluator must not edit discovery records."
+        self._write_registry([edited])
+        self._commit("evaluator also edits discovery", "characters/registry.jsonl")
+        errors, _ = self._validate()
+        self.assertTrue(any("must change alone" in error for error in errors), errors)
+
+    def test_calibration_phase_rejects_reviewed_and_placeholders(self) -> None:
+        self._git("switch", "--quiet", "-c", "character-reconstruction")
+        self._publish([assessment(self.commit, self.digest)])
+        self._commit_outputs("premature reviewed grade")
+        errors, _ = self._validate()
+        self.assertTrue(any("requires the ROUTINE phase" in error for error in errors), errors)
+        self._publish([unassessed(self.commit)])
+        self._commit_outputs("placeholder")
+        errors, _ = self._validate()
+        self.assertTrue(any("UNASSESSED" in error for error in errors), errors)
+
+    def test_delayed_evaluator_maintenance_does_not_block_series_publication(self) -> None:
+        self._publish([candidate(self.commit, self.digest)])
+        self._commit_outputs("integrated candidate")
+        self._advance_main()
+        self._git("switch", "--quiet", "-c", "series/example")
+        (self.repository / Path(EVIDENCE_PATH)).write_bytes(authority_artifact(b"# Revised analysis\n"))
+        self._commit("series analysis revises referenced evidence", EVIDENCE_PATH)
+        errors, notices = self._validate()
+        self.assertEqual(errors, [])
+        self.assertTrue(any("effectively stale" in notice for notice in notices), notices)
+
+    def test_new_or_promoted_claims_must_be_current_and_stale_reconciles(self) -> None:
+        self._write_policy("ROUTINE")
+        self._commit(
+            "owner accepts calibration",
+            RECONSTRUCTION_POLICY_PATH,
+            "governance/reports/RECONSTRUCTION_CALIBRATION_ACCEPTANCE.md",
+        )
+        published = candidate(self.commit, self.digest)
+        self._publish([published])
+        self._commit_outputs("integrated candidate")
+        self._advance_main()
+        self._revise_evidence_on_main()
+        self._git("switch", "--quiet", "-c", "character-reconstruction")
+        promoted = copy.deepcopy(published)
+        promoted["assessment_status"] = "REVIEWED"
+        self._publish([promoted])
+        self._commit_outputs("promote a stale candidate")
+        errors, _ = self._validate()
+        self.assertTrue(any("not effectively current" in error for error in errors), errors)
+        stale = copy.deepcopy(published)
+        stale["assessment_status"] = "STALE"
+        stale["stale_reason"] = "Referenced evidence changed after the basis commit."
+        self._publish([stale])
+        self._commit_outputs("record staleness")
+        self.assertEqual(self._validate(), ([], []))
+
+    def test_published_history_cannot_be_deleted(self) -> None:
+        self._publish([candidate(self.commit, self.digest)])
+        self._commit_outputs("integrated candidate")
+        self._advance_main()
+        self._git("switch", "--quiet", "-c", "character-reconstruction")
+        self._publish([])
+        self._commit_outputs("delete history")
+        errors, _ = self._validate()
+        self.assertTrue(any("was removed" in error for error in errors), errors)
+
+    def test_reconstruction_generation_never_writes_discovery_outputs(self) -> None:
+        discovery = (self.repository / "characters/registry.jsonl").read_bytes()
+        self._publish([candidate(self.commit, self.digest)], render=False)
+        self._git("add", "--", RECONSTRUCTION_REGISTRY_PATH)
+        subprocess.run(
+            [
+                sys.executable,
+                str(TOOLS / "generate_reconstruction_index.py"),
+                "--repo",
+                str(self.repository),
+                "--snapshot",
+                "index",
+            ],
+            check=True,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
+        )
+        self.assertEqual((self.repository / "characters/registry.jsonl").read_bytes(), discovery)
+        self.assertFalse((self.repository / "CHARACTER_ANALYSIS_INDEX.md").exists())
+        self.assertIn(b"alice-anime-v1", (self.repository / Path(RECONSTRUCTION_INDEX_PATH)).read_bytes())
+
+
+class IntegrationControlTests(unittest.TestCase):
+    def test_registry_change_requires_its_generated_index(self) -> None:
+        obligations = json.loads(
+            (REPOSITORY / "governance/repository-controls/change-obligations.json").read_text(encoding="utf-8")
+        )
+        rules = active_rules(obligations, {RECONSTRUCTION_REGISTRY_PATH}, set(), set())
+        self.assertEqual([rule["id"] for rule in rules], ["character-reconstruction"])
+        self.assertEqual(
+            missing_required_output_paths(rules, {RECONSTRUCTION_REGISTRY_PATH}),
+            [RECONSTRUCTION_INDEX_PATH],
+        )
+        discovery_rules = active_rules(obligations, {"characters/registry.jsonl"}, set(), set())
+        self.assertEqual([rule["id"] for rule in discovery_rules], ["character-discovery"])
+
+    def test_audit_recognizes_reconstruction_branch_without_housekeeping_pending(self) -> None:
+        path = ".github/workflows/repository-audit.yml"
+        source = (REPOSITORY / path).read_bytes()
+        line = b"      - character-reconstruction\n"
+        self.assertIn(line, source)
+        self.assertIn(
+            b"startsWith(github.ref_name, 'series/') || startsWith(github.ref_name, 'studies/')",
+            source,
+        )
+        changed = source.replace(line, b"", 1)
+        snapshot = GitSnapshot(REPOSITORY, "IN_MEMORY", {path: SnapshotEntry(path, "100644", changed)})
+        failures = validate_audit_workflow(snapshot, {"allowed_workflows": [path]})
+        self.assertIn(
+            "repository-audit workflow missing required contract:       - character-reconstruction",
+            failures,
+        )
+
+    def test_reconstruction_outputs_stay_outside_discovery_and_housekeeping(self) -> None:
+        self.assertTrue(RECONSTRUCTION_OUTPUTS.isdisjoint({"characters/registry.jsonl", "CHARACTER_ANALYSIS_INDEX.md"}))
+        housekeeping = (REPOSITORY / ".github/workflows/global-index-housekeeping.yml").read_text(encoding="utf-8")
+        for path in RECONSTRUCTION_OUTPUTS:
+            self.assertNotIn(path, housekeeping)
+            with self.assertRaises(DomainError):
+                validate_evidence_path(path)
+
+    def test_live_production_registry_and_index_follow_the_activation_contract(self) -> None:
+        snapshot = GitSnapshot.from_index(REPOSITORY)
+        phase, policy_errors = load_reconstruction_policy(snapshot)
+        self.assertEqual(policy_errors, [])
+        rendered = load_and_render(snapshot, REPOSITORY)
+        self.assertEqual(snapshot.get(RECONSTRUCTION_INDEX_PATH).data, rendered.encode("utf-8"))  # type: ignore[union-attr]
+        registry = decode_reconstruction_registry(
+            snapshot.get(RECONSTRUCTION_REGISTRY_PATH).data, RECONSTRUCTION_REGISTRY_PATH  # type: ignore[union-attr]
+        )
+        statuses = {record["assessment_status"] for _line, record in registry}
+        self.assertNotIn("UNASSESSED", statuses)
+        if phase != "ROUTINE":
+            self.assertNotIn("REVIEWED", statuses)
 
 
 if __name__ == "__main__":

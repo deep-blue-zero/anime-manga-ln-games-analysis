@@ -15,12 +15,20 @@ from typing import Any, Mapping
 from urllib.parse import unquote_to_bytes
 
 from character_index_core import (
+    RECONSTRUCTION_INDEX_PATH,
+    RECONSTRUCTION_POLICY_PATH,
+    RECONSTRUCTION_REGISTRY_PATH,
+    RECONSTRUCTION_SCHEMA_PATH,
     AuthorityGraph,
     DomainError,
     _restricted_yaml_load,
     GitSnapshot,
     decode_json,
     decode_jsonl_with_lines,
+    decode_reconstruction_registry,
+    evaluate_reconstruction_assessments,
+    load_reconstruction_policy,
+    reconstruction_registry_changes,
     render_schema_diagnostics,
     run_git,
     schema_diagnostics,
@@ -29,6 +37,7 @@ from character_index_core import (
     validate_schema_document,
 )
 from generate_character_index import render as render_character_index
+from generate_reconstruction_index import render as render_reconstruction_index
 from audit_timing import AuditTimer, report_path, write_report
 from update_repository_indexes import ROUTING_OUTPUTS, expected_outputs
 
@@ -82,10 +91,9 @@ PROTECTED_HASHES = {
     G3_MANIFEST: "75c6fe48adc719090828a2da02f3dc69e2334b8b20ee5f1c89e0f4c33ee6d191",
     "governance/repository-controls/bootstrap-bindings.json": "7ebb26e4cff22acbabe72905847f6efbbb6885c4a6be0b9e5297db22d654ae17",
 }
-RESERVED_ABSENT = {
-    "characters/reconstruction_capabilities.jsonl",
-    "characters/CHARACTER_RECONSTRUCTION_INDEX.md",
-}
+# The evaluator's ordinary production delta. Any other path changed beside
+# these requires a reviewed amendment that also changes the publication gate.
+RECONSTRUCTION_OUTPUTS = frozenset({RECONSTRUCTION_REGISTRY_PATH, RECONSTRUCTION_INDEX_PATH})
 NATIVE_SHEET_SCHEMA = "governance/schemas/native-sheet-structure.schema.json"
 NATIVE_SHEET_SCHEMA_ID = "manga-anime-git-migration/native-sheet-structure/v1"
 NATIVE_SHEET_TRANSFORMATION = (
@@ -275,6 +283,7 @@ def validate_audit_workflow(
         "  push:",
         "      - main",
         "      - character-registry",
+        "      - character-reconstruction",
         '      - "codex/**"',
         '      - "chatgpt/**"',
         '      - "claude/**"',
@@ -1186,9 +1195,6 @@ def validate_protected(snapshot: GitSnapshot) -> list[str]:
         actual = hashlib.sha256(entry.data).hexdigest() if entry is not None else "MISSING"
         if actual != expected:
             errors.append(f"protected path drift: {path}; expected={expected}, actual={actual}")
-    for path in RESERVED_ABSENT:
-        if snapshot.get(path) is not None:
-            errors.append(f"reserved reconstruction production path must remain absent: {path}")
     return errors
 
 
@@ -4124,6 +4130,183 @@ def validate_current_domain(
     return errors
 
 
+def _reconstruction_target_commit(root: Path, kind: str, commit: str | None) -> str | None:
+    if kind == "commit":
+        return commit
+    try:
+        return run_git(root, "rev-parse", "--verify", "-q", "HEAD^{commit}").decode("ascii").strip()
+    except DomainError:
+        return None
+
+
+def _reconstruction_integration_base(root: Path, target: str | None) -> str | None:
+    """Return the merge base with current main, the snapshot's integrated history."""
+
+    main_commit = _run_closure_base_commit(root)
+    if main_commit is None or target is None:
+        return None
+    return run_git(root, "merge-base", target, main_commit).decode("ascii").strip()
+
+
+def _reconstruction_delta_paths(root: Path, kind: str, base: str, commit: str | None) -> set[str]:
+    if kind == "commit":
+        args = ["diff", "--name-only", "--no-renames", "-z", base, str(commit), "--"]
+    elif kind == "index":
+        args = ["diff", "--cached", "--name-only", "--no-renames", "-z", base, "--"]
+    else:
+        args = ["diff", "--name-only", "--no-renames", "-z", base, "--"]
+    paths = set(_git_paths(root, *args))
+    if kind == "worktree":
+        paths.update(_git_paths(root, "ls-files", "--others", "--exclude-standard", "-z"))
+    return paths
+
+
+def validate_reconstruction_domain(
+    root: Path,
+    snapshot: GitSnapshot,
+    kind: str,
+    commit: str | None,
+    authority: AuthorityGraph | None = None,
+) -> tuple[list[str], list[str]]:
+    """Validate the production capability registry; return errors and notices.
+
+    Historical validity is always blocking. Effective currentness blocks only
+    records this change adds or transitions; an untouched assessment made stale
+    by later integrated evidence is reported for evaluator reconciliation and
+    never obstructs unrelated analytical or discovery publication.
+    """
+
+    errors: list[str] = []
+    notices: list[str] = []
+    phase, policy_errors = load_reconstruction_policy(snapshot)
+    errors.extend(policy_errors)
+    registry = snapshot.get(RECONSTRUCTION_REGISTRY_PATH)
+    output = snapshot.get(RECONSTRUCTION_INDEX_PATH)
+    schema_entry = snapshot.get(RECONSTRUCTION_SCHEMA_PATH)
+    if registry is None or not registry.qualifies_as_evidence:
+        errors.append(f"production capability registry is missing: {RECONSTRUCTION_REGISTRY_PATH}")
+    if output is None or not output.qualifies_as_evidence:
+        errors.append(f"generated reconstruction index is missing: {RECONSTRUCTION_INDEX_PATH}")
+    if schema_entry is None or not schema_entry.qualifies_as_evidence:
+        errors.append(f"reconstruction capability schema is missing: {RECONSTRUCTION_SCHEMA_PATH}")
+    if registry is None or schema_entry is None or not registry.qualifies_as_evidence:
+        return errors, notices
+    try:
+        records_with_lines = decode_reconstruction_registry(
+            registry.data, f"{snapshot.identity}:{RECONSTRUCTION_REGISTRY_PATH}"
+        )
+        schema = decode_json(schema_entry.data, RECONSTRUCTION_SCHEMA_PATH)
+        if not isinstance(schema, dict):
+            raise DomainError("reconstruction capability schema is not a JSON object")
+        validate_schema_document(schema, "reconstruction capability schema")
+    except DomainError as exc:
+        return errors + [str(exc)], notices
+    diagnostics = []
+    for line_number, record in records_with_lines:
+        diagnostics.extend(
+            schema_diagnostics(record, schema, RECONSTRUCTION_REGISTRY_PATH, line_number=line_number)
+        )
+    schema_failures = render_schema_diagnostics(diagnostics)
+    if schema_failures:
+        return errors + schema_failures, notices
+    assessments = [record for _line_number, record in records_with_lines]
+    for record in assessments:
+        status = record["assessment_status"]
+        if status == "UNASSESSED":
+            errors.append(
+                f"{record['assessment_id']}: the production registry does not admit UNASSESSED "
+                "placeholders; eligible-but-unassessed state is derived from discovery"
+            )
+        if status == "REVIEWED" and phase != "ROUTINE":
+            errors.append(
+                f"{record['assessment_id']}: REVIEWED publication requires the ROUTINE phase "
+                "after owner-accepted calibration"
+            )
+    target = _reconstruction_target_commit(root, kind, commit)
+    try:
+        base = _reconstruction_integration_base(root, target)
+    except DomainError as exc:
+        return errors + [f"unable to determine the reconstruction integration base: {exc}"], notices
+    if base is None and assessments:
+        errors.append(
+            "reconstruction validation needs refs/remotes/origin/main to bind basis commits "
+            "and published history; fetch main first"
+        )
+    current_records: list[dict[str, Any]] = []
+    discovery_entry = snapshot.get("characters/registry.jsonl")
+    if discovery_entry is not None:
+        try:
+            current_records = [
+                record
+                for _line_number, record in decode_jsonl_with_lines(
+                    discovery_entry.data, f"{snapshot.identity}:characters/registry.jsonl"
+                )
+            ]
+        except DomainError as exc:
+            errors.append(str(exc))
+    evaluation = evaluate_reconstruction_assessments(
+        assessments,
+        root,
+        comparison=snapshot,
+        comparison_records=current_records,
+        comparison_authority=authority,
+        basis_ancestor_of=base,
+    )
+    errors.extend(evaluation.errors)
+    base_records: list[dict[str, Any]] = []
+    if base is not None:
+        try:
+            base_snapshot = GitSnapshot.from_commit(root, base, paths={RECONSTRUCTION_REGISTRY_PATH})
+            base_entry = base_snapshot.get(RECONSTRUCTION_REGISTRY_PATH)
+            if base_entry is not None:
+                base_records = [
+                    record
+                    for _line_number, record in decode_reconstruction_registry(
+                        base_entry.data, f"{base}:{RECONSTRUCTION_REGISTRY_PATH}"
+                    )
+                ]
+        except DomainError as exc:
+            errors.append(f"unable to read the published capability registry at {base}: {exc}")
+    touched, change_errors = reconstruction_registry_changes(base_records, assessments)
+    errors.extend(change_errors)
+    for index in sorted(evaluation.currentness):
+        item = evaluation.currentness[index]
+        if item.effectively_current or item.recorded_status not in {"CANDIDATE", "REVIEWED"}:
+            continue
+        detail = f"{item.assessment_id} ({item.recorded_status}): {', '.join(item.reasons)}"
+        if item.assessment_id in touched:
+            errors.append(
+                f"newly published or transitioned assessment is not effectively current: {detail}"
+            )
+        else:
+            notices.append(
+                f"recorded assessment is effectively stale pending evaluator reconciliation: {detail}"
+            )
+    if base is not None:
+        try:
+            changed = _reconstruction_delta_paths(root, kind, base, commit)
+        except DomainError as exc:
+            errors.append(f"unable to determine the reconstruction delta: {exc}")
+            changed = set()
+        if (
+            changed & RECONSTRUCTION_OUTPUTS
+            and changed - RECONSTRUCTION_OUTPUTS
+            and RECONSTRUCTION_POLICY_PATH not in changed
+        ):
+            errors.append(
+                "reconstruction production outputs must change alone; other changed paths: "
+                + str(sorted(changed - RECONSTRUCTION_OUTPUTS, key=lambda item: item.encode("utf-8")))
+            )
+    if output is not None and not evaluation.errors:
+        try:
+            rendered = render_reconstruction_index(assessments, evaluation.basis_entries)
+            if output.data != rendered.encode("utf-8"):
+                errors.append(f"{RECONSTRUCTION_INDEX_PATH} is out of date")
+        except (DomainError, KeyError, ValueError) as exc:
+            errors.append(f"unable to render the reconstruction index: {exc}")
+    return errors, notices
+
+
 def choose_snapshot(root: Path, kind: str, commit: str | None) -> tuple[GitSnapshot, list[str]]:
     if kind == "commit":
         if commit is None:
@@ -4170,6 +4353,7 @@ def main() -> int:
             raise DomainError("routing preflight requires a current Git index or exact commit")
         snapshot, paths = timer.call("snapshot", choose_snapshot, root, kind, commit)
         deferred_routing: list[str] = []
+        reconstruction_notices: list[str] = []
         policy = _policy_from_snapshot(snapshot)
         errors: list[str] = []
         if args.manifest:
@@ -4235,6 +4419,10 @@ def main() -> int:
             errors.extend(timer.call("character_domain", validate_current_domain, root, snapshot, True, authority))
             generator_snapshot = "commit" if kind == "commit" else kind
             errors.extend(timer.call("character_render", validate_generated_index, snapshot, generator_snapshot, authority))
+            reconstruction_errors, reconstruction_notices = timer.call(
+                "reconstruction", validate_reconstruction_domain, root, snapshot, kind, commit, authority
+            )
+            errors.extend(reconstruction_errors)
             if not deferred_routing:
                 errors.extend(
                     timer.call("catalog_render", validate_generated_repository_indexes, snapshot)
@@ -4249,10 +4437,13 @@ def main() -> int:
                     "audited_commit": commit,
                     "integration_state": "pending" if deferred_routing else "success",
                     "deferred_routing_paths": deferred_routing,
+                    "reconstruction_currentness_notices": reconstruction_notices,
                 }) + "\n",
                 encoding="utf-8",
             )
         outcome = "pending" if deferred_routing else "success"
+        for notice in reconstruction_notices:
+            print(f"NOTICE: {notice}")
         if deferred_routing:
             print(
                 f"AWAITING_SYNCHRONIZATION: source={snapshot.identity} paths={deferred_routing}; "

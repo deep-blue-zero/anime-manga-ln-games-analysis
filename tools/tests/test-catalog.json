@@ -2384,7 +2384,7 @@
       "purpose": "current repository examples remain compatible"
     },
     "test_reconstruction_capability.EvidenceSetContractTests.test_normative_golden_digest_and_exact_bytes": {
-      "group": "dormant_reconstruction",
+      "group": "reconstruction_capability",
       "smoke": false,
       "inputs": [
         "tools/tests/test_reconstruction_capability.py",
@@ -2395,7 +2395,7 @@
       "purpose": "normative golden digest and exact bytes"
     },
     "test_reconstruction_capability.EvidenceSetContractTests.test_one_byte_crlf_path_and_anchor_changes_change_digest": {
-      "group": "dormant_reconstruction",
+      "group": "reconstruction_capability",
       "smoke": false,
       "inputs": [
         "tools/tests/test_reconstruction_capability.py",
@@ -2406,7 +2406,7 @@
       "purpose": "one byte crlf path and anchor changes change digest"
     },
     "test_reconstruction_capability.EvidenceSetContractTests.test_evidence_reference_grammar_is_exact": {
-      "group": "dormant_reconstruction",
+      "group": "reconstruction_capability",
       "smoke": false,
       "inputs": [
         "tools/tests/test_reconstruction_capability.py",
@@ -2417,7 +2417,7 @@
       "purpose": "evidence reference grammar is exact"
     },
     "test_reconstruction_capability.ReconstructionSchemaTests.test_basis_commit_requires_a_full_lowercase_object_id_shape": {
-      "group": "dormant_reconstruction",
+      "group": "reconstruction_capability",
       "smoke": false,
       "inputs": [
         "tools/tests/test_reconstruction_capability.py",
@@ -2428,7 +2428,7 @@
       "purpose": "basis commit requires a full lowercase object id shape"
     },
     "test_reconstruction_capability.ReconstructionSchemaTests.test_every_full_string_pattern_uses_absolute_end_guard": {
-      "group": "dormant_reconstruction",
+      "group": "reconstruction_capability",
       "smoke": false,
       "inputs": [
         "tools/tests/test_reconstruction_capability.py",
@@ -2439,7 +2439,7 @@
       "purpose": "every full string pattern uses absolute end guard"
     },
     "test_reconstruction_capability.ReconstructionSchemaTests.test_terminal_controls_fail_reconstruction_text_and_ids": {
-      "group": "dormant_reconstruction",
+      "group": "reconstruction_capability",
       "smoke": false,
       "inputs": [
         "tools/tests/test_reconstruction_capability.py",
@@ -2450,7 +2450,7 @@
       "purpose": "terminal controls fail reconstruction text and ids"
     },
     "test_reconstruction_capability.ReconstructionSchemaTests.test_terminal_lf_fails_every_reconstruction_string_grammar": {
-      "group": "dormant_reconstruction",
+      "group": "reconstruction_capability",
       "smoke": false,
       "inputs": [
         "tools/tests/test_reconstruction_capability.py",
@@ -2461,7 +2461,7 @@
       "purpose": "terminal lf fails every reconstruction string grammar"
     },
     "test_reconstruction_capability.ReconstructionSchemaTests.test_dimension_claim_conditionals_fail_closed": {
-      "group": "dormant_reconstruction",
+      "group": "reconstruction_capability",
       "smoke": false,
       "inputs": [
         "tools/tests/test_reconstruction_capability.py",
@@ -2472,7 +2472,7 @@
       "purpose": "dimension claim conditionals fail closed"
     },
     "test_reconstruction_capability.ReconstructionSchemaTests.test_scenario_conditionals_fail_closed": {
-      "group": "dormant_reconstruction",
+      "group": "reconstruction_capability",
       "smoke": false,
       "inputs": [
         "tools/tests/test_reconstruction_capability.py",
@@ -2483,7 +2483,7 @@
       "purpose": "scenario conditionals fail closed"
     },
     "test_reconstruction_capability.ReconstructionSchemaTests.test_known_limit_reference_conditionals_fail_closed": {
-      "group": "dormant_reconstruction",
+      "group": "reconstruction_capability",
       "smoke": false,
       "inputs": [
         "tools/tests/test_reconstruction_capability.py",
@@ -2494,7 +2494,7 @@
       "purpose": "known limit reference conditionals fail closed"
     },
     "test_reconstruction_capability.ReconstructionSchemaTests.test_assessment_status_invariants_fail_closed": {
-      "group": "dormant_reconstruction",
+      "group": "reconstruction_capability",
       "smoke": false,
       "inputs": [
         "tools/tests/test_reconstruction_capability.py",
@@ -2505,7 +2505,7 @@
       "purpose": "assessment status invariants fail closed"
     },
     "test_reconstruction_capability.GitBoundCapabilityTests.test_exact_claim_union_accepts_exact_set_and_rejects_extra_or_omitted": {
-      "group": "dormant_reconstruction",
+      "group": "reconstruction_capability",
       "smoke": false,
       "inputs": [
         "tools/tests/test_reconstruction_capability.py",
@@ -2516,7 +2516,7 @@
       "purpose": "exact claim union accepts exact set and rejects extra or omitted"
     },
     "test_reconstruction_capability.GitBoundCapabilityTests.test_controlled_claim_coverage_and_limit_ids_are_unique": {
-      "group": "dormant_reconstruction",
+      "group": "reconstruction_capability",
       "smoke": false,
       "inputs": [
         "tools/tests/test_reconstruction_capability.py",
@@ -2527,7 +2527,7 @@
       "purpose": "controlled claim coverage and limit ids are unique"
     },
     "test_reconstruction_capability.GitBoundCapabilityTests.test_abbreviated_basis_commit_fails_before_resolution": {
-      "group": "dormant_reconstruction",
+      "group": "reconstruction_capability",
       "smoke": false,
       "inputs": [
         "tools/tests/test_reconstruction_capability.py",
@@ -2538,7 +2538,7 @@
       "purpose": "abbreviated basis commit fails before resolution"
     },
     "test_reconstruction_capability.GitBoundCapabilityTests.test_full_blob_object_id_is_not_a_basis_commit": {
-      "group": "dormant_reconstruction",
+      "group": "reconstruction_capability",
       "smoke": false,
       "inputs": [
         "tools/tests/test_reconstruction_capability.py",
@@ -2549,7 +2549,7 @@
       "purpose": "full blob object id is not a basis commit"
     },
     "test_reconstruction_capability.GitBoundCapabilityTests.test_composite_cannot_borrow_leaf_evidence": {
-      "group": "dormant_reconstruction",
+      "group": "reconstruction_capability",
       "smoke": false,
       "inputs": [
         "tools/tests/test_reconstruction_capability.py",
@@ -2560,7 +2560,7 @@
       "purpose": "composite cannot borrow leaf evidence"
     },
     "test_reconstruction_capability.GitBoundCapabilityTests.test_duplicate_subject_or_evidence_in_basis_registry_fails_closed": {
-      "group": "dormant_reconstruction",
+      "group": "reconstruction_capability",
       "smoke": false,
       "inputs": [
         "tools/tests/test_reconstruction_capability.py",
@@ -2571,7 +2571,7 @@
       "purpose": "duplicate subject or evidence in basis registry fails closed"
     },
     "test_reconstruction_capability.GitBoundCapabilityTests.test_duplicate_evidence_id_in_basis_registry_fails_closed": {
-      "group": "dormant_reconstruction",
+      "group": "reconstruction_capability",
       "smoke": false,
       "inputs": [
         "tools/tests/test_reconstruction_capability.py",
@@ -2582,7 +2582,7 @@
       "purpose": "duplicate evidence id in basis registry fails closed"
     },
     "test_reconstruction_capability.GitBoundCapabilityTests.test_historical_stale_assessment_reproduces_after_subject_removal": {
-      "group": "dormant_reconstruction",
+      "group": "reconstruction_capability",
       "smoke": false,
       "inputs": [
         "tools/tests/test_reconstruction_capability.py",
@@ -2593,7 +2593,7 @@
       "purpose": "historical stale assessment reproduces after subject removal"
     },
     "test_reconstruction_capability.GitBoundCapabilityTests.test_historical_superseded_assessment_reproduces_after_subject_removal": {
-      "group": "dormant_reconstruction",
+      "group": "reconstruction_capability",
       "smoke": false,
       "inputs": [
         "tools/tests/test_reconstruction_capability.py",
@@ -2604,7 +2604,7 @@
       "purpose": "historical superseded assessment reproduces after subject removal"
     },
     "test_reconstruction_capability.GitBoundCapabilityTests.test_authority_graph_only_change_requires_reviewed_assessment_to_be_stale": {
-      "group": "dormant_reconstruction",
+      "group": "reconstruction_capability",
       "smoke": false,
       "inputs": [
         "tools/tests/test_reconstruction_capability.py",
@@ -2615,7 +2615,7 @@
       "purpose": "authority graph only change requires reviewed assessment to be stale"
     },
     "test_reconstruction_capability.GitBoundCapabilityTests.test_provisional_to_canonical_committed_byte_change_changes_digest": {
-      "group": "dormant_reconstruction",
+      "group": "reconstruction_capability",
       "smoke": false,
       "inputs": [
         "tools/tests/test_reconstruction_capability.py",
@@ -2626,7 +2626,7 @@
       "purpose": "provisional to canonical committed byte change changes digest"
     },
     "test_reconstruction_capability.GitBoundCapabilityTests.test_reciprocal_supersession_rejects_incompatible_subject_scope": {
-      "group": "dormant_reconstruction",
+      "group": "reconstruction_capability",
       "smoke": false,
       "inputs": [
         "tools/tests/test_reconstruction_capability.py",
@@ -2637,7 +2637,7 @@
       "purpose": "reciprocal supersession rejects incompatible subject scope"
     },
     "test_reconstruction_capability.GitBoundCapabilityTests.test_assessment_supersession_cycle_fails": {
-      "group": "dormant_reconstruction",
+      "group": "reconstruction_capability",
       "smoke": false,
       "inputs": [
         "tools/tests/test_reconstruction_capability.py",
@@ -2648,7 +2648,7 @@
       "purpose": "assessment supersession cycle fails"
     },
     "test_reconstruction_capability.GitBoundCapabilityTests.test_unresolved_and_one_sided_assessment_links_fail_closed": {
-      "group": "dormant_reconstruction",
+      "group": "reconstruction_capability",
       "smoke": false,
       "inputs": [
         "tools/tests/test_reconstruction_capability.py",
@@ -2659,7 +2659,7 @@
       "purpose": "unresolved and one sided assessment links fail closed"
     },
     "test_reconstruction_capability.GitBoundCapabilityTests.test_supersession_allows_revision_of_source_and_temporal_boundaries": {
-      "group": "dormant_reconstruction",
+      "group": "reconstruction_capability",
       "smoke": false,
       "inputs": [
         "tools/tests/test_reconstruction_capability.py",
@@ -2668,16 +2668,6 @@
         "governance/repository-controls/*"
       ],
       "purpose": "supersession allows revision of source and temporal boundaries"
-    },
-    "test_reconstruction_capability.DeliberateNonpopulationTests.test_production_capability_surfaces_do_not_exist": {
-      "group": "live_corpus",
-      "smoke": false,
-      "inputs": [
-        "candidate corpus",
-        "tools/tests/test_reconstruction_capability.py",
-        "tools/*.py"
-      ],
-      "purpose": "production capability surfaces do not exist"
     },
     "test_repository_indexes.RepositoryIndexTests.test_generated_repository_indexes_match_index": {
       "group": "live_corpus",
@@ -3679,6 +3669,348 @@
         "governance/repository-controls/nightly-integration-policy.json"
       ],
       "purpose": "Unreadable or missing pinned ruleset stops apply without fallback, push or remote mutation."
+    },
+    "test_reconstruction_capability.EffectiveCurrentnessTests.test_unrelated_commit_leaves_reviewed_assessment_current": {
+      "group": "reconstruction_capability",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Keep a reviewed assessment effectively current across an unrelated commit with unchanged evidence and authority."
+    },
+    "test_reconstruction_capability.EffectiveCurrentnessTests.test_candidate_is_current_but_visibly_provisional": {
+      "group": "reconstruction_capability",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Derive CURRENT_PROVISIONAL, never reviewed readiness, for a current candidate assessment."
+    },
+    "test_reconstruction_capability.EffectiveCurrentnessTests.test_referenced_byte_change_is_stale_while_history_stays_valid": {
+      "group": "reconstruction_capability",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Report referenced-byte changes as effective staleness while the basis-commit assessment remains historically valid."
+    },
+    "test_reconstruction_capability.EffectiveCurrentnessTests.test_evidence_path_and_anchor_changes_are_location_changes": {
+      "group": "reconstruction_capability",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Treat discovery evidence path and anchor changes as location and membership staleness."
+    },
+    "test_reconstruction_capability.EffectiveCurrentnessTests.test_authority_edge_without_byte_change_is_stale": {
+      "group": "reconstruction_capability",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Detect an incoming supersession edge as noncurrent authority although referenced bytes and the digest are unchanged."
+    },
+    "test_reconstruction_capability.EffectiveCurrentnessTests.test_subject_scope_removal_and_membership_changes_are_stale": {
+      "group": "reconstruction_capability",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Detect subject scope, removal, curation and reviewed-evidence membership changes as staleness."
+    },
+    "test_reconstruction_capability.EffectiveCurrentnessTests.test_unreferenced_discovery_metadata_edit_is_not_stale": {
+      "group": "reconstruction_capability",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Ignore discovery label and note edits that change no scope, membership, location or referenced bytes."
+    },
+    "test_reconstruction_capability.EffectiveCurrentnessTests.test_recorded_stale_assessment_remains_reproducible_and_historical": {
+      "group": "reconstruction_capability",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Reproduce a recorded STALE assessment at its basis and never derive current readiness from it."
+    },
+    "test_reconstruction_capability.EffectiveCurrentnessTests.test_basis_must_belong_to_the_integrated_history": {
+      "group": "reconstruction_capability",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Reject a basis commit that is not an ancestor of the integrated history."
+    },
+    "test_reconstruction_capability.RegistryContractTests.test_empty_bootstrap_registry_is_valid_and_unpopulated": {
+      "group": "reconstruction_capability",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Accept the empty bootstrap registry without synthetic records."
+    },
+    "test_reconstruction_capability.RegistryContractTests.test_registry_layout_is_ordered_unique_and_lf_terminated": {
+      "group": "reconstruction_capability",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Require ordered, unique, LF-terminated registry lines without blanks."
+    },
+    "test_reconstruction_capability.RegistryContractTests.test_published_records_are_preserved_and_claims_immutable": {
+      "group": "reconstruction_capability",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Reject deletion of published assessments and mutation of their claim payloads."
+    },
+    "test_reconstruction_capability.RegistryContractTests.test_lifecycle_transitions_are_bounded": {
+      "group": "reconstruction_capability",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Permit only reviewed lifecycle transitions and reject lifecycle edits without a status transition."
+    },
+    "test_reconstruction_capability.RegistryContractTests.test_publication_gate_requires_owner_calibration_record_for_routine": {
+      "group": "reconstruction_capability",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Bind the publication gate to its exact fields and require a tracked owner calibration record for ROUTINE."
+    },
+    "test_reconstruction_capability.RegistryContractTests.test_index_projection_is_deterministic_provisional_and_link_safe": {
+      "group": "reconstruction_capability",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Render a deterministic, input-order-independent index with provisional/historical labels, basis permalinks and escaped text."
+    },
+    "test_reconstruction_capability.WorkDiscoveryTests.test_git_derived_queue_needs_no_referrals_or_peer_checkpoint": {
+      "group": "reconstruction_capability",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Derive prioritized stale, newly eligible and backfill work from Git state without referrals or a peer checkpoint."
+    },
+    "test_reconstruction_capability.WorkDiscoveryTests.test_duplicate_hints_never_duplicate_work_or_create_it": {
+      "group": "reconstruction_capability",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Deduplicate advisory hints by subject; hints annotate existing work and never create it."
+    },
+    "test_reconstruction_capability.WorkDiscoveryTests.test_deferred_subjects_return_only_after_material_change": {
+      "group": "reconstruction_capability",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Requeue a deferred subject only after a material discovery change since the checkpoint."
+    },
+    "test_reconstruction_capability.WorkDiscoveryTests.test_derived_states_distinguish_reviewed_pending_and_historical": {
+      "group": "reconstruction_capability",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Distinguish human-reviewed, provisional and historical-only subjects and queue reassessment for the latter."
+    },
+    "test_reconstruction_capability.ProductionRepositoryTests.test_empty_bootstrap_state_validates": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Validate the empty production bootstrap state in a disposable repository."
+    },
+    "test_reconstruction_capability.ProductionRepositoryTests.test_production_surfaces_are_required_and_index_drift_fails": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Require both production surfaces and reject a registry change without its regenerated index."
+    },
+    "test_reconstruction_capability.ProductionRepositoryTests.test_evaluator_candidate_publication_is_two_file_confined": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Accept a current two-file candidate publication and reject an evaluator delta that also edits discovery."
+    },
+    "test_reconstruction_capability.ProductionRepositoryTests.test_calibration_phase_rejects_reviewed_and_placeholders": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Reject REVIEWED grades before owner-accepted calibration and UNASSESSED placeholder records."
+    },
+    "test_reconstruction_capability.ProductionRepositoryTests.test_delayed_evaluator_maintenance_does_not_block_series_publication": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Report, without blocking, an untouched assessment made stale by series publication."
+    },
+    "test_reconstruction_capability.ProductionRepositoryTests.test_new_or_promoted_claims_must_be_current_and_stale_reconciles": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Block promotion of an effectively stale candidate and accept reconciliation to STALE."
+    },
+    "test_reconstruction_capability.ProductionRepositoryTests.test_published_history_cannot_be_deleted": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Reject an evaluator delta that deletes a published assessment."
+    },
+    "test_reconstruction_capability.ProductionRepositoryTests.test_reconstruction_generation_never_writes_discovery_outputs": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Generate the reconstruction index from the staged index without writing either discovery output."
+    },
+    "test_reconstruction_capability.IntegrationControlTests.test_registry_change_requires_its_generated_index": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        ".github/workflows/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Bind a capability registry change to its generated index while discovery keeps its own obligation."
+    },
+    "test_reconstruction_capability.IntegrationControlTests.test_audit_recognizes_reconstruction_branch_without_housekeeping_pending": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        ".github/workflows/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Require the reconstruction branch audit trigger while pending housekeeping stays limited to series/study branches."
+    },
+    "test_reconstruction_capability.IntegrationControlTests.test_reconstruction_outputs_stay_outside_discovery_and_housekeeping": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        ".github/workflows/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Keep reconstruction outputs outside discovery outputs, housekeeping and admissible evidence paths."
+    },
+    "test_reconstruction_capability.IntegrationControlTests.test_live_production_registry_and_index_follow_the_activation_contract": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "characters/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Validate the live production registry, generated index and publication gate in the candidate snapshot."
     }
   }
 }
