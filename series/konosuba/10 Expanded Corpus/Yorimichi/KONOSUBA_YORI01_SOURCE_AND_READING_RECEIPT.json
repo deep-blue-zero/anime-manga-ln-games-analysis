@@ -1,0 +1,174 @@
+{
+  "schema": "KONOSUBA_YORI01_ACTUAL_WHOLE_SOURCE_AND_READING_RECEIPT_V1",
+  "source_id": "YORI-01",
+  "accepted_utc": "2026-10-19T00:06:22.409696+00:00",
+  "native_filename": "Konosuba - Short Stories - Yorimichi.epub",
+  "native_bytes": 2395940,
+  "native_sha256": "71bf144bb0cead076949ef195e773eadab84676c2d650935bb41786794fd3594",
+  "OPF_member": "content.opf",
+  "OPF_sha256": "bd03e0d8867c7acaa7bec3a4a490d6287042c21f8c98ad5251537afbde2dd2de",
+  "language": [
+    "ja"
+  ],
+  "colophon": "この素晴らしい世界に祝福を！ よりみち！. Author暁なつめ;illustration三嶋くろね;design百足屋ユウコ＋モンマ蚕（ムシカゴグラフィクス）;角川スニーカー文庫/KADOKAWA;publisher三坂泰二. Electronic and underlying print first edition2020-01-01/ver.002;copyrightNatsumeAkatsuki/KuroneMishima2020.",
+  "admission_sha256": "219d56c9c9998243985f891852933e87b2a32ee94037dc4b8c2143c086988513",
+  "admission_utc": "2026-10-18T23:10:20.533665+00:00",
+  "preceding_full_gate_source": "8cb0beaf1a17447785ebbb7d4402d0557035ff48",
+  "preceding_gate_sha256": "3faec5efac00e88f1513fed5e7ca78df0a915539b32f759e8b5185ba2b5589fd",
+  "preceding_fresh_reload_sha256": "2f8a088dadf6352cec2cf5bc7fe71c41fe7d6c7530b6be8532565dab9180327c",
+  "complete_uncoded_seal_sha256": "d028b7d6214345fc384b1be6845490844ce0217027e5cb0ef1f6078ce2eb695b",
+  "complete_uncoded_seal_utc": "2026-10-18T23:45:55.735751+00:00",
+  "actual_reading": {
+    "all_textual_components": 32,
+    "all_native_P_slots": 2784,
+    "principal_P_slots": 2748,
+    "other_P_slots": 36,
+    "separate_bonus_narrative": false,
+    "bonus_P_slots": 0,
+    "nonfiction_P_slots": 36,
+    "individually_identified_bonus_narrative_groups": [],
+    "individually_identified_narrative_image_groups": [],
+    "individually_identified_embedded_narrative_groups": [
+      {
+        "id": "YORI01-STORY01",
+        "native_units": [
+          "YORI-01-U012"
+        ],
+        "start_P": 1,
+        "end_P": 336,
+        "scope": "Distinct integral anthology fiction body, Kazuma first-person, actually read in full; not a separately duplicated bonus body."
+      },
+      {
+        "id": "YORI01-STORY02",
+        "native_units": [
+          "YORI-01-U014"
+        ],
+        "start_P": 1,
+        "end_P": 353,
+        "scope": "Distinct integral anthology fiction body, Kazuma first-person, actually read in full; not a separately duplicated bonus body."
+      },
+      {
+        "id": "YORI01-STORY03",
+        "native_units": [
+          "YORI-01-U016"
+        ],
+        "start_P": 1,
+        "end_P": 367,
+        "scope": "Distinct integral anthology fiction body, Kazuma first-person, actually read in full; not a separately duplicated bonus body."
+      },
+      {
+        "id": "YORI01-STORY04",
+        "native_units": [
+          "YORI-01-U018"
+        ],
+        "start_P": 1,
+        "end_P": 398,
+        "scope": "Distinct integral anthology fiction body, Kazuma first-person, actually read in full; not a separately duplicated bonus body."
+      },
+      {
+        "id": "YORI01-STORY05",
+        "native_units": [
+          "YORI-01-U020"
+        ],
+        "start_P": 1,
+        "end_P": 312,
+        "scope": "Distinct integral anthology fiction body, Kazuma first-person, actually read in full; not a separately duplicated bonus body."
+      },
+      {
+        "id": "YORI01-STORY06",
+        "native_units": [
+          "YORI-01-U022"
+        ],
+        "start_P": 1,
+        "end_P": 302,
+        "scope": "Distinct integral anthology fiction body, Kazuma first-person, actually read in full; not a separately duplicated bonus body."
+      },
+      {
+        "id": "YORI01-STORY07",
+        "native_units": [
+          "YORI-01-U024"
+        ],
+        "start_P": 1,
+        "end_P": 472,
+        "scope": "Distinct integral anthology fiction body, Kazuma first-person, actually read in full; not a separately duplicated bonus body."
+      },
+      {
+        "id": "YORI01-STORY08",
+        "native_units": [
+          "YORI-01-U026"
+        ],
+        "start_P": 1,
+        "end_P": 208,
+        "scope": "Distinct integral anthology fiction body, Kazuma first-person, actually read in full; not a separately duplicated bonus body."
+      }
+    ],
+    "individually_identified_image_only_nonfiction_prose_groups": [
+      {
+        "id": "YORI01-PROFILES",
+        "component_id": "YORI-01-U010",
+        "image_id": "YORI-01-IMG008",
+        "scope": "Complete actual profile reading, role framing not new performed events."
+      },
+      {
+        "id": "YORI01-RASTER-AFTERWORD",
+        "component_id": "YORI-01-U027",
+        "image_id": "YORI-01-IMG023",
+        "scope": "Full actual author/illustrator comments and initial-publication table read, edition provenance not fictional consent."
+      },
+      {
+        "id": "YORI01-QR-PROMOTION",
+        "component_id": "YORI-01-U028",
+        "image_id": "YORI-01-IMG024",
+        "scope": "Full visible external SS/audio offer inspected; no linked content admitted."
+      },
+      {
+        "id": "YORI01-JACKET-BIOS",
+        "component_id": "YORI-01-U029",
+        "image_id": "YORI-01-IMG025",
+        "scope": "Whole jacket and magnified bios actually viewed; tiny nonmaterial illustrator phrase explicitly uncertain."
+      }
+    ],
+    "integral_image_only_prose_pages": 0,
+    "all_native_images_actually_viewed": 26,
+    "all_ruby_displayed_inline_and_nonparagraph_residual_received": true,
+    "all_native_local_and_archive_text_image_hash_joins_reverified": 58,
+    "fresh_native_ZIP_CRC": "PASS",
+    "image_individual_scopes_control": true
+  },
+  "source_first_sealed_pins": [
+    {
+      "file": "NATIVE_ADMISSION.json",
+      "bytes": 32730,
+      "sha256": "219d56c9c9998243985f891852933e87b2a32ee94037dc4b8c2143c086988513"
+    },
+    {
+      "file": "ROOT_PRE_BODY_PREPARATION_SEAL.json",
+      "bytes": 147859,
+      "sha256": "9c913a187d588b08fa4465dab1a7e84780cc6c2d479af7bddefd750fa819aaa5"
+    },
+    {
+      "file": "ACTUAL_SOURCE_FIRST_UNCODED_NOTES.jsonl",
+      "bytes": 154620,
+      "sha256": "d9830c048c44bef41c86cc2b3938bc34a1988e4aa0ef72988ff7275569765490"
+    },
+    {
+      "file": "ACTUAL_IMAGE_VIEW_UNCODED_NOTES.jsonl",
+      "bytes": 21434,
+      "sha256": "de5efd77187a033dea83d4ee996eb1d5e19f28a68d1bf2f3c369105eae67e008"
+    }
+  ],
+  "formal_coverage": {
+    "full_responsibilities": 17,
+    "selected_premises_not_census": 91,
+    "native_verified_short_form_context_witnesses": 126,
+    "local_unchanged_question_assessments": 31,
+    "append_only_decisions_across_ten_ledgers": 26,
+    "current_precision_qualifications": 64
+  },
+  "same_root_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05,DUST-06,DUST-07,DUST-CONT,EXP-01,EXP-02,EXP-03,CONTEXP-01,CONTEXP-02,MASK,FD. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim.",
+  "no_independent_second_full_pass_native_human_audio_claim": true,
+  "source_first_originals_remain_exact": true,
+  "original_four_scores_and_14_future_fields_unchanged": true,
+  "publication_state": "CONTAINING_EXACT_PUBLICATION_AND_FULL_GATE_PENDING",
+  "midread_precision_context": "All126current voice fragments native-join. One original mistaken quote corrected attributably, three initially blank fragments selected later; originals exact. Carrot-body reading resolves earlier image uncertainty. Early-bond and full-preparation uncertainty, actual no, sincere causal ignorance, reports and unperformed ends preserved."
+}

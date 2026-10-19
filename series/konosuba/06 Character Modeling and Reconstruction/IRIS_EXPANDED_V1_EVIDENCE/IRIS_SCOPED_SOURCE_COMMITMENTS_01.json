@@ -1,0 +1,63 @@
+{
+  "schema": "KONOSUBA_IRIS_SEPARATE_INFORMED_SOURCE_SCOPE_V1",
+  "id": "SI-C01",
+  "fixed_utc": "2026-10-19T10:33:28.943186+00:00",
+  "status": "FIXED_BEFORE_MAIN07_MAIN17_EXCLUDED_EXPOSURE",
+  "model_path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_IRIS_RECONSTRUCTION_MODEL.md",
+  "model_sha256": "75afb94b5723af3620ea5fabe1d8a7c742645bb56de938c605a3d11999a42c29",
+  "exposure": "All main17 principal bodies and completed supplemental/mixed programs already known. This is an informed optional component scope, not a pristine whole-book holdout or independent source test.",
+  "eligible_scope": "Only an individually admitted previously unread MAIN07-MAIN17 excluded separate narrative component containing a new actual Iris opportunity with the rule full predicates independently present. No such component or eligible case is asserted to exist.",
+  "exclusions": [
+    "Retained previously accepted principal scenes or images merely illustrating them",
+    "Profiles, navigation, afterword/creator wishes, promotion and hypothetical staging",
+    "Retelling or memory of an already known event",
+    "Another actor controlling Iris body",
+    "Letter/report without the rule required directly observable choice and actor knowledge"
+  ],
+  "adjudication": "Receive each complete opportunity source-first; bind predicates without outcome hindsight; preserve supporting/contrary/partial/ambiguous/missing cases. Record new outcomes separately, leaving these original fields null. A specific adverse case is not erased by later success. No accuracy percentage without defensible cases and denominator.",
+  "commitments": [
+    {
+      "id": "SI-D01",
+      "exact_operational_rule": "MODERATE: when an independently trusted counterpart offers a safe unfamiliar ordinary activity with genuine participation, Iris initially seeks active involvement or information rather than insisting on ceremonial treatment. Contrary: a fully matched opportunity is rejected specifically because ordinary participation is beneath her, without a supplied competing goal. MAIN06 games and MAIN10 cooking support derivation; danger or a provider's unwillingness is bound before response.",
+      "future_outcome": null,
+      "adjudication": null
+    },
+    {
+      "id": "SI-D02",
+      "exact_operational_rule": "MODERATE: when she explicitly recognizes a conflicting legitimate public obligation while wanting continued familiar company, she tends toward a reduced request that preserves some contact and the underlying wish. Contrary: she knowingly abandons that recognized obligation for the full wish without expressed conflict. This resembles a historical mechanism but has a separate draft identity; the original I02 scopes/outcomes remain authoritative, and CONTEXP02 limits any unrestricted compliance paraphrase.",
+      "future_outcome": null,
+      "adjudication": null
+    },
+    {
+      "id": "SI-D03",
+      "exact_operational_rule": "LOW-MODERATE: when personal achievement before reunion is independently salient and an easy reunion is offered without it, her initial substantive choice is to defer the easy reunion and attempt a concrete achievement before taking that access. Predicted action for an eligible scenario is an achievement-directed attempt, not merely a statement of pride. A matched choice of unqualified access with no such attempt is contrary. MASK supplies the main discriminating scene; transfer remains thin.",
+      "future_outcome": null,
+      "adjudication": null
+    },
+    {
+      "id": "SI-D04",
+      "exact_operational_rule": "LOW: in a scenario explicitly supplying a valued ally's dishonest workaround, a shared attractive goal and Iris's belief that her influence can absorb consequences, initial reassurance or participation is predicted over spontaneous cost disclosure. An immediate informed refusal or candid disclosure is contrary. CONTEXP02 false witness is the limited derivation; never infer the rank-belief predicate merely from later misconduct or protect it with invented exceptions.",
+      "future_outcome": null,
+      "adjudication": null
+    },
+    {
+      "id": "SI-D05",
+      "exact_operational_rule": "LOW: after she receives credible actor-specific danger advice, an initial pause or adjustment is predicted; a newly offered compatible provider may reopen action. An eligible immediate disregard with no changed information is contrary to the first branch. MASK U015P315-322/361-391 gives both ordered phases. CONTEXP01 U013P186-192 is adverse adjacent evidence: Megumin warns, Iris is already raising her hand, and the cast follows without a displayed pause. Exact warning uptake and a clean initial response opportunity are not shown. Retain this limitation rather than adding a protective exception after the fact. This is neither universal obedience nor a claim every royal command is safe.",
+      "future_outcome": null,
+      "adjudication": null
+    },
+    {
+      "id": "SI-D06",
+      "exact_operational_rule": "MODERATE: when independently established relational meaning conflicts with a counterpart's price-only account of a possession, she expresses or acts on the personal meaning rather than treating price as exhaustive. A matched immediate price-only valuation without residual concern is contrary. MAIN10 gift and CONTEXP02 memory are linked history, not multiple independent validation cases.",
+      "future_outcome": null,
+      "adjudication": null
+    },
+    {
+      "id": "SI-D07",
+      "exact_operational_rule": "MODERATE within understood unwanted bodily use: when a familiar trusted counterpart begins a specific use of her body that Iris understands and does not want, and she has a feasible immediate response without a supplied conflicting commitment, an explicit verbal boundary or withdrawal attempt is predicted. Comfortable acceptance of that same understood unwanted act with an available response is contrary; inferred observer discomfort alone does not supply the trigger. MAIN06 C4P309-312/349 and MAIN10 C2P469 are distinct derivation contexts, not future validation. A nonbodily privacy extension, such as a journal, is LOW-confidence transfer rather than equally demonstrated evidence. Affection and previous favors do not remove a specific boundary; actual permissions must still be supplied.",
+      "future_outcome": null,
+      "adjudication": null
+    }
+  ],
+  "original_MG02_MG05_and_SEC01_untouched": true
+}

@@ -1,0 +1,166 @@
+{
+  "schema": "KONOSUBA_MAIN08_EXCLUDED_TEN_LEDGER_APPEND_DECISIONS_V1",
+  "source_id": "MAIN-08",
+  "ten_current_prefix_controls": [
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "bytes": 294165,
+      "sha256": "44192033c820f9db7f1f820f3ae0264839fdd6f9777a5396bb0ad43a41f7b137"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "bytes": 214184,
+      "sha256": "ab8f65e86036563a1a5c72830ea9ef4bdceca84bc9a4c53b21507013bd05bfa2"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "bytes": 783932,
+      "sha256": "e83c0ea6b8786831515e37b9346143cba2b9b1c0f705e479ed6d33a599d35863"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "bytes": 593979,
+      "sha256": "2a32029bf44e1a8e7984649b4c1078dee628bca6caa5c0a91cb7423ca962d159"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "bytes": 192665,
+      "sha256": "7ba0099eb762199addfaf0fee7f6ad083341197bad95c695f55e428e22f15749"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "bytes": 185533,
+      "sha256": "1f719293db1038cca5b1a98977f83ca3ebf2781dfcad6471f004b49df9242fa1"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "bytes": 207940,
+      "sha256": "453f4f16bb546236a0874fd97eff3b4345fa5b98d2bed06c0888315af2f98a93"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "bytes": 173498,
+      "sha256": "046b76a137c9e21dce8ddc17caa89a196c3224bf405d5507d22eb7564dfe5ad2"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "bytes": 263428,
+      "sha256": "353407177896c06727f9e6829a9f86f23468916ba6b03e8104f93d78b09f37c1"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "bytes": 125871,
+      "sha256": "a294e38322ef84f0e51de9313f8d38953ee7a6d21a44411781c866a4f82d8bfb"
+    }
+  ],
+  "rows": [
+    {
+      "id": "M08EX-LD01",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Wiz/Chris-Eris/Megumin/Darkness/Yunyun/Cecily/Vanir/Aigis/Zel; projected doll, reported counterpart, creator and promotion separately typed",
+      "native_routes": "MAIN-08-U023P3-60;IMG007;U017P26-30",
+      "observation": "New bonus shows Wiz making and defending a product, accepting a valued commission and asking relief from painful contact. ProfileWiz20/Chris15?/Kazuma16 remain documentary, while the retained birthday dialogue advances Kazuma's stated age gap.",
+      "implication": "No fixed later relationship day, static age across the whole book, universal helplessness or new principal pass.",
+      "authority_and_adverse_limit": "New bonus and separately typed edition images/paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M08EX-LD02",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Wiz/Chris-Eris/Megumin/Darkness/Yunyun/Cecily/Vanir/Aigis/Zel; projected doll, reported counterpart, creator and promotion separately typed",
+      "native_routes": "MAIN-08-U023P4-28/54-58",
+      "observation": "Aqua clings despite a work objection, destroys Wiz's product and later causes painful heat; Kazuma promises compensation and tries to wake her. These are different stages of one familiar interaction.",
+      "implication": "Familiarity is not bodily/property permission; construction completion makes exact boundary continuity a qualified comparison. No performed payment, release or cure.",
+      "authority_and_adverse_limit": "New bonus and separately typed edition images/paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M08EX-LD03",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Wiz/Chris-Eris/Megumin/Darkness/Yunyun/Cecily/Vanir/Aigis/Zel; projected doll, reported counterpart, creator and promotion separately typed",
+      "native_routes": "MAIN-08-U023P3-58;M08EX-H01-H08",
+      "observation": "New bonus turns cooling comfort into impurity commentary, advertised universal healing into silent destruction, servant-reply limitation into stronger demand and figurative excitement into real heat.",
+      "implication": "Literal acts and pain remain H1; imagined stock replies stay a projected role. No uncertainty-as-H3 or harmless-comedy exemption.",
+      "authority_and_adverse_limit": "New bonus and separately typed edition images/paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M08EX-LD04",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Wiz/Chris-Eris/Megumin/Darkness/Yunyun/Cecily/Vanir/Aigis/Zel; projected doll, reported counterpart, creator and promotion separately typed",
+      "native_routes": "IMG029/006/011/004;U023P60;M08EX-Q03-Q20",
+      "observation": "The chick/Vanir scene, Aigis's refusal, useful kitchen and party inset contrast appearance with actual roles; the coda makes running cost defeat the beautiful-doll valuation.",
+      "implication": "Current native corrections control original image ambiguities; no duplicated scene/trial. Technical construction and practical success remain distinct.",
+      "authority_and_adverse_limit": "New bonus and separately typed edition images/paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M08EX-LD05",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Wiz/Chris-Eris/Megumin/Darkness/Yunyun/Cecily/Vanir/Aigis/Zel; projected doll, reported counterpart, creator and promotion separately typed",
+      "native_routes": "24exactshortwrittenfragments;MAIN-08-U023/U019",
+      "observation": "Wiz's様/polite objections coexist with real refusal of harm, Aqua's familiar entitlement contrasts with claimed self-control, Kazuma's emphatic directives differ by addressee, and projected doll敬語 is not Wiz's own submission.",
+      "implication": "L0structure,L1phrasing,L2stance distinguished; ordinary burning/killer-phrase/heart idioms and names do not automatically earn L3. No audio or voice census.",
+      "authority_and_adverse_limit": "New bonus and separately typed edition images/paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M08EX-LD06",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Wiz/Chris-Eris/Megumin/Darkness/Yunyun/Cecily/Vanir/Aigis/Zel; projected doll, reported counterpart, creator and promotion separately typed",
+      "native_routes": "MAIN-08-U023P23/38-58/60",
+      "observation": "Kazuma witnesses damage/glow, attributes Aqua's motive, projects Japanese consumer demand and retrospectively dismisses the doll for mana cost. His imagined meaning of Wiz's help request is corrected by her actual pain.",
+      "implication": "Access, inference and retrospective product report remain separate; no source-verified market, deliberate later purification or unshown completed protection.",
+      "authority_and_adverse_limit": "New bonus and separately typed edition images/paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M08EX-LD07",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Wiz/Chris-Eris/Megumin/Darkness/Yunyun/Cecily/Vanir/Aigis/Zel; projected doll, reported counterpart, creator and promotion separately typed",
+      "native_routes": "MAIN-08-U023P3-60",
+      "observation": "Hot-afternoon cooling, uninterrupted work, monthly solvency, beautiful humanoid domestic assistance and operating cost reveal competing everyday valuations.",
+      "implication": "Aqua's proposed summer stay, hired maid/golem alternative and purchase promise are not completed arrangements. Wiz's conditional relief is not audited profit.",
+      "authority_and_adverse_limit": "New bonus and separately typed edition images/paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M08EX-LD08",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Wiz/Chris-Eris/Megumin/Darkness/Yunyun/Cecily/Vanir/Aigis/Zel; projected doll, reported counterpart, creator and promotion separately typed",
+      "native_routes": "MAIN-08-U023P15-60;U014P514-554",
+      "observation": "Wiz constructs a healing device that is destroyed before demonstration, states rare crafting limits and later produces a high-mana doll at retrospective report level. Kazuma's inherited Cooking skill explains the useful festival kitchen.",
+      "implication": "Preserve actual capacity versus claimed specification, affordability and whole operation. No engineering expertise or magical energy imported into a nonmagical transfer.",
+      "authority_and_adverse_limit": "New bonus and separately typed edition images/paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M08EX-LD09",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Wiz/Chris-Eris/Megumin/Darkness/Yunyun/Cecily/Vanir/Aigis/Zel; projected doll, reported counterpart, creator and promotion separately typed",
+      "native_routes": "MAIN-08-U023P4-28/54-58;U015P1-53/135-216",
+      "observation": "Property destruction, work interference and painful continued contact remain actual harms beside friendly familiarity and comic phrasing. Retained passages distinguish an unwanted clothing-change attempt, later choice, gratitude and a particular cheek kiss.",
+      "implication": "No later care or benefit retroactively supplies consent; no completed intimate act inferred. Recipient response and actor stopping are different mechanisms.",
+      "authority_and_adverse_limit": "New bonus and separately typed edition images/paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M08EX-LD10",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Wiz/Chris-Eris/Megumin/Darkness/Yunyun/Cecily/Vanir/Aigis/Zel; projected doll, reported counterpart, creator and promotion separately typed",
+      "native_routes": "MAIN-08-U023P11-13/29-60",
+      "observation": "Kazuma's confident demand projection discounts price and later running cost; Wiz's technical making ability does not guarantee a useful product. Aqua's claimed suppression fails to sustain safe contact when the scene turns to actual heat/pain.",
+      "implication": "Neither total craft incompetence, intentional later harm nor an isolated unique cause is established; narrator market assumptions stay attributed.",
+      "authority_and_adverse_limit": "New bonus and separately typed edition images/paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M08EX-LD11",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "subjects": "Kazuma/Aqua/Wiz/Chris-Eris/Megumin/Darkness/Yunyun/Cecily/Vanir/Aigis/Zel; projected doll, reported counterpart, creator and promotion separately typed",
+      "native_routes": "KONOSUBA_MAIN_V08_EXCLUDED_EXPLORATORY_LOCAL_ASSESSMENTS.json;U023P1-60",
+      "observation": "All31principal/8party contracts compared. K04restraint and K08directpressure retain eligibility ambiguity; E03has a matched dependency-directed request branch without completed recovery; E06boundary continuity and E07reported production retain missing branches. Other34fulltrigger conjunctions absent/unestablished.",
+      "implication": "No full heldout C/F or global accuracy update; possible contrary choices survive. Four typed diagnostics remain nonscores; frozen historical outcomes exact.",
+      "authority_and_adverse_limit": "New bonus and separately typed edition images/paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M08EX-LD12",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "subjects": "Kazuma/Aqua/Wiz/Chris-Eris/Megumin/Darkness/Yunyun/Cecily/Vanir/Aigis/Zel; projected doll, reported counterpart, creator and promotion separately typed",
+      "native_routes": "MAIN-08-U023P1-60;U012P404-452;U015P1-53;U016P351-393;SI-C01",
+      "observation": "Seven SI-C01 Iris rules have separate no-opportunity dispositions. Retained Yunyun festival participation and Chris/Eris past-load/privacy evidence are calibration, not reopened Y01/CE01 scopes.",
+      "implication": "All14SI-C01nulls,Dust14blanks,fourscores and MG/SEC01history preserved. Aigis/Zel and newWizdetail feed the unfinished census without automatic tier promotion.",
+      "authority_and_adverse_limit": "New bonus and separately typed edition images/paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    }
+  ]
+}

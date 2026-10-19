@@ -4,7 +4,7 @@ artifact_type: execution_and_source_reconciliation_audit
 scope: V11-V17 continuation and the fixed 41-object expanded-source program
 generation: V1
 status: active_provisional
-source_boundary: Explosions01whole edition accepted at54text/51imagescopes/fullgatepending; following source unadmitted; fullfixed41continues
+source_boundary: MAIN08EXCLUDED fullgateclosed/freshauthorityreload; mainexcluded8of17closed; nextMAIN09EXCLUDEDadmission; supplemental19/mixed5closed; full41continues
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -21,8 +21,8 @@ The owner's 2026-10-16 request executes `KONOSUBA_CONTINUATION_AND_FULL_CORPUS_C
 | Execution mode | `continuous_sequential` |
 | Main-series authorized range | V11–V17 |
 | Accepted high-water mark | V17 principal and final Gen05 checkpoint; CP06/evidence freeze published and fully audited at a1539842 |
-| Current phase | Owner-resumed Stage C; Explosions01accepted54text/51image scopes/full publication gate pending; fullremainingprogramcontinues |
-| Next canonical operation | EXP01_PUBLICATION_GATE; no Explosions02whole admission before exact fullgate/freshpublishedauthorityreload |
+| Current phase | Owner-resumed fullprogram; Yunyun scopedTier3 cohort accepted/publicationpending; MAIN08 fullgateclosed; broaderworkcontinues |
+| Next canonical operation | YUNYUNCOHORT01_PUBLICATION_GATE then exactreload before separate MAIN09 excluded admission with both Iris/Yunyun optional scopes preserved |
 | Current prospective model | Gen05 frozen through V15, original 25 blank pairs exact; formal V16–V17 8C/6P/1F/3AMB/7NT separate from accepted locals; no Gen06 |
 | Initial published continuing-branch head at reconnaissance | `0238f356ee2ade28e39aa3a940ea0e091f8211f4` |
 | Initial main at reconciliation | `53de8ba455938174a3f14f887cd33739261a4e5f` |
@@ -950,3 +950,293 @@ ExactsourceEXP-01/19168549bytes/SHA256`ce67dad2bc3a47506f8bcaf699f11b767e353f43b
 ## Explosions01 whole-edition analytical acceptance — 2026-10-18T14:03:27.763693+00:00
 
 Principal3187P/other45P/total3232P; full ruby/residual/image scopes before uncoded seal 2026-10-18T13:26:33.940923+00:00;76selected premises/108native-joined voices/7unchanged-contract local assessments/34ten-ledger appends. Supplemental9accepted/8already publishedof19; mixed5published; global percentage null. [Receiving](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V01_RECEIVING_AND_PROVENANCE.json) records same informed root, seventeen responsibilities/named subjects, exact native/context joins, unchanged original questions and qualified agency/transaction/access/protection/competence claims. All66current/72historical/four scores/14blanks exact. Current map uses present-operation markers; dated transition preserved in root changelog, without importing publication identifiers into current-entrypoint prose. Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Explosions02 whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.
+
+
+## Explosions01 fullgate closed and fresh authority reloaded — 2026-10-18T14:17:49.522166+00:00
+
+Sourceca8fa360d1b8e75a06b1f36e30c6189514e96090/tree141e8ab215ba5581e59d9c41e1cfd1461e3e3523,8480remote paths/35changedstreams exact. Source39134506247/job117696171650 and final39134874474/job117697240045 each352fulltests/zeroallfive non-success/selectionfalse; housekeeping39134841789/job117697140236NO_OP/exact finalsource dispatch; exact integrationstatus succeeds on actualsource. Fresh445project/66current/fourscores/original14blankreload2026-10-18T14:17:46.999724+00:00 precedes next-source admission. [Gate receipt](KONOSUBA_EXP01_EXPANDED_PUBLICATION_GATE_CLOSE.json) closes pendinghistory. Explosions02whole unopened; supplemental9of19/mixed5of5published/globalpercentage null;72historicalexact. Fullremainingprogramcontinues.
+
+
+## Explosions02 separate native admission and pre-body seal — 2026-10-18T14:18:41.230609+00:00
+
+ExactsourceEXP-02/13672536bytes/SHA256`ecf3e635c97be3d23366b7d15a153c546ba04a597caba190bb8ae44e71a1f1ff`,freshCRC/JapaneseOPF/58text/50image metadata admitted after precedingfullgate/freshreload. Zeroactualnewbody/imagecreditsatadmission; complete uncodedpass before formal outcomes;17responsibilities/ten-ledger/component receiving/publication still required. Original14futurefields/fourscores/frozenauthority unchanged. Same informedroot/knownlaterholdouts, no pristineblindness. Fullprogramcontinues.
+
+
+## Explosions02 whole-edition analytical acceptance — 2026-10-18T15:42:20.857727+00:00
+
+Principal3140P/other49P/total3189P; full ruby/residual/image scopes before uncoded seal 2026-10-18T15:16:14.227298+00:00;80selected premises/93native-joined voices/7unchanged-contract local assessments/34ten-ledger appends. Supplemental10accepted/9already publishedof19; mixed5published; global percentage null. [Receiving](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V02_RECEIVING_AND_PROVENANCE.json) records same informed root, seventeen responsibilities/named subjects, exact native/context joins, unchanged original questions and qualified agency/transaction/access/protection/competence claims. All66current/72historical/four scores/14blanks exact. Current map uses present-operation markers; dated transition preserved in root changelog, without importing publication identifiers into current-entrypoint prose. Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Explosions03 whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.
+
+
+## Explosions02 fullgate closed and fresh authority reloaded — 2026-10-18T15:56:55.466061+00:00
+
+Sourcef8198f2c6b7915c7340fb36e1a99f3f94fb431b3/tree09fc64172798e7a011c0d213be3e5255fa70874f,8498remote paths/35changedstreams exact. Source39141929634/job117717944358 and final39142342429/job117719139920 each352fulltests/zeroallfive non-success/selectionfalse; housekeeping39142311912/job117719051505NO_OP/exact finalsource dispatch; exact integrationstatus succeeds on actualsource. Fresh463project/66current/fourscores/original14blankreload2026-10-18T15:56:55.277722+00:00 precedes next-source admission. [Gate receipt](KONOSUBA_EXP02_EXPANDED_PUBLICATION_GATE_CLOSE.json) closes pendinghistory. Explosions03whole unopened; supplemental10of19/mixed5of5published/globalpercentage null;72historicalexact. Fullremainingprogramcontinues.
+
+
+## Explosions03 separate native admission and pre-body seal — 2026-10-18T15:57:28.441987+00:00
+
+ExactsourceEXP-03/15716486bytes/SHA256`22ee64b90d10075eec3769137e07bd59ee1815e22eb14f552326e9f4a06ffd87`,freshCRC/JapaneseOPF/52text/48image metadata admitted after precedingfullgate/freshreload. Zeroactualnewbody/imagecreditsatadmission; complete uncodedpass before formal outcomes;17responsibilities/ten-ledger/component receiving/publication still required. Original14futurefields/fourscores/frozenauthority unchanged. Same informedroot/knownlaterholdouts, no pristineblindness. Fullprogramcontinues.
+
+
+## Explosions03 whole-edition analytical acceptance — 2026-10-18T17:10:59.994625+00:00
+
+Principal2614P/other48P/total2662P; full ruby/residual/image scopes before uncoded seal 2026-10-18T16:44:48.214319+00:00;87selected premises/114native-joined voices/7unchanged-contract local assessments/31ten-ledger appends. Supplemental11accepted/10already publishedof19; mixed5published; global percentage null. [Receiving](../10%20Expanded%20Corpus/Explosions/KONOSUBA_EXP_V03_RECEIVING_AND_PROVENANCE.json) records same informed root, seventeen responsibilities/named subjects, exact native/context joins, unchanged original questions and qualified agency/transaction/access/protection/competence claims. All66current/72historical/four scores/14blanks exact. Current map uses present-operation markers; dated transition preserved in root changelog, without importing publication identifiers into current-entrypoint prose. Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate ContinuedExplosions01 whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.
+
+
+## Explosions03 fullgate closed and fresh authority reloaded — 2026-10-18T17:25:08.934403+00:00
+
+Sourced2debefa1191927594547b89320923ebfb8fffd3/tree76cfb6c15a7d9dad84b0cbab8af4479094a60acf,8516remote paths/35changedstreams exact. Source39148638857/job117737568810 and final39149121697/job117738960936 each352fulltests/zeroallfive non-success/selectionfalse; housekeeping39149083363/job117738856154NO_OP/exact finalsource dispatch; exact integrationstatus succeeds on actualsource. Fresh481project/66current/fourscores/original14blankreload2026-10-18T17:25:05.163789+00:00 precedes next-source admission. [Gate receipt](KONOSUBA_EXP03_EXPANDED_PUBLICATION_GATE_CLOSE.json) closes pendinghistory. ContinuedExplosions01whole unopened; supplemental11of19/mixed5of5published/globalpercentage null;72historicalexact. Fullremainingprogramcontinues.
+
+
+## ContinuedExplosions01 separate native admission and pre-body seal — 2026-10-18T17:25:29.519925+00:00
+
+ExactsourceCONTEXP-01/18609246bytes/SHA256`60962eb6d9d10c2c640846c22749ebad305180beb6af1a41c9b05ef76b4fa51f`,freshCRC/JapaneseOPF/31text/28image metadata admitted after precedingfullgate/freshreload. Zeroactualnewbody/imagecreditsatadmission; complete uncodedpass before formal outcomes;17responsibilities/ten-ledger/component receiving/publication still required. Original14futurefields/fourscores/frozenauthority unchanged. Same informedroot/knownlaterholdouts, no pristineblindness. Fullprogramcontinues.
+
+
+## ContinuedExplosions01 whole-edition analytical acceptance — 2026-10-18T18:32:42.189891+00:00
+
+Main2646P/bonus50P/nonfiction77P/total2773P; full ruby/residual/image scopes before uncoded seal 2026-10-18T18:05:27.347969+00:00;72selected premises/117native-joined voices/7unchanged-contract local assessments/33ten-ledger appends. Supplemental12accepted/11already publishedof19; mixed5published; global percentage null. [Receiving](../10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V01_RECEIVING_AND_PROVENANCE.json) records same informed root, seventeen responsibilities/named subjects, exact native/context joins, unchanged original questions and qualified agency/transaction/access/protection/competence claims. All66current/72historical/four scores/14blanks exact. Current map uses present-operation markers; dated transition preserved in root changelog, without importing publication identifiers into current-entrypoint prose. Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate ContinuedExplosions02 whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.
+
+
+## ContinuedExplosions01 fullgate closed and fresh authority reloaded — 2026-10-18T19:03:05.464510+00:00
+
+Sourceb0668884aeb1e0f58db2395b214b9b3b947f0d8f/treebfe536383447bb0981352516766727c62f85520d,8536remote paths/55changedstreams exact. Source39156117969/job117759579842 and final39156575085/job117760926921 each352fulltests/zeroallfive non-success/selectionfalse; housekeeping39156544696/job117760836958NO_OP/exact finalsource dispatch; exact integrationstatus succeeds on actualsource. Fresh499project/66current/fourscores/original14blankreload2026-10-18T19:02:04.737344+00:00 precedes next-source admission. [Gate receipt](KONOSUBA_CONTEXP01_EXPANDED_PUBLICATION_GATE_CLOSE.json) closes pendinghistory. ContinuedExplosions02whole unopened; supplemental12of19/mixed5of5published/globalpercentage null;72historicalexact. Fullremainingprogramcontinues.
+
+
+## ContinuedExplosions02 separate native admission and pre-body seal — 2026-10-18T19:03:46.948332+00:00
+
+ExactsourceCONTEXP-02/2412289bytes/SHA256`ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267`,freshCRC/JapaneseOPF/35text/25image metadata admitted after precedingfullgate/freshreload. Zeroactualnewbody/imagecreditsatadmission; complete uncodedpass before formal outcomes;17responsibilities/ten-ledger/component receiving/publication still required. Original14futurefields/fourscores/frozenauthority unchanged. Same informedroot/knownlaterholdouts, no pristineblindness. Fullprogramcontinues.
+
+
+## ContinuedExplosions02 whole-edition analytical acceptance — 2026-10-18T20:19:00.916436+00:00
+
+Main2573P/bonus57P/nonfiction73P/total2703P; full ruby/residual/image scopes before uncoded seal 2026-10-18T19:51:53.347000+00:00;92selected premises/148native-joined voices/7unchanged-contract local assessments/37ten-ledger appends. Supplemental13accepted/12already publishedof19; mixed5published; global percentage null. [Receiving](../10%20Expanded%20Corpus/Continued%20Explosions/KONOSUBA_CONTEXP_V02_RECEIVING_AND_PROVENANCE.json) records same informed root, seventeen responsibilities/named subjects, exact native/context joins, unchanged original questions and qualified agency/transaction/access/protection/competence claims. All66current/72historical/four scores/14blanks exact. Current map uses present-operation markers; dated transition preserved in root changelog, without importing publication identifiers into current-entrypoint prose. Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Consulting the Masked Devil whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.
+
+
+## ContinuedExplosions02 fullgate closed and fresh authority reloaded — 2026-10-18T20:34:26.701384+00:00
+
+Sourceb274b31dfcc96932643feba27e53e1deb2dc7813/tree319712d7d52ad22010724a434aa8c2d27aae2a66,8554remote paths/35changedstreams exact. Source39163046457/job117780187546 and final39163450779/job117781405592 each352fulltests/zeroallfive non-success/selectionfalse; housekeeping39163415212/job117781302032NO_OP/exact finalsource dispatch; exact integrationstatus succeeds on actualsource. Fresh517project/66current/fourscores/original14blankreload2026-10-18T20:34:04.884288+00:00 precedes next-source admission. [Gate receipt](KONOSUBA_CONTEXP02_EXPANDED_PUBLICATION_GATE_CLOSE.json) closes pendinghistory. Consulting the Masked Devilwhole unopened; supplemental13of19/mixed5of5published/globalpercentage null;72historicalexact. Fullremainingprogramcontinues.
+
+
+## Consulting the Masked Devil separate native admission and pre-body seal — 2026-10-18T20:34:48.699588+00:00
+
+ExactsourceMASK/2895671bytes/SHA256`fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127`,freshCRC/JapaneseOPF/29text/26image metadata admitted after precedingfullgate/freshreload. Zeroactualnewbody/imagecreditsatadmission; complete uncodedpass before formal outcomes;17responsibilities/ten-ledger/component receiving/publication still required. Original14futurefields/fourscores/frozenauthority unchanged. Same informedroot/knownlaterholdouts, no pristineblindness. Fullprogramcontinues.
+
+
+## Consulting the Masked Devil whole-edition analytical acceptance — 2026-10-18T21:29:15.090786+00:00
+
+Main2862P/bonus57P/nonfiction51P/total2970P; full ruby/residual/image scopes before uncoded seal 2026-10-18T21:05:47.312234+00:00;88selected premises/130native-joined voices/31unchanged-contract local assessments/27ten-ledger appends. Supplemental14accepted/13already publishedof19; mixed5published; global percentage null. [Receiving](../10%20Expanded%20Corpus/Masked%20Devil/KONOSUBA_MASK_RECEIVING_AND_PROVENANCE.json) records same informed root, seventeen responsibilities/named subjects, exact native/context joins, unchanged original questions and qualified agency/transaction/access/protection/competence claims. All66current/72historical/four scores/14blanks exact. Current map uses present-operation markers; dated transition preserved in root changelog, without importing publication identifiers into current-entrypoint prose. Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Fantastic Days whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.
+
+
+## Consulting the Masked Devil fullgate closed and fresh authority reloaded — 2026-10-18T21:55:37.813935+00:00
+
+Sourcee3289990f823c0fe9027d7c940b1456590361094/treeb8e8f870aebbc22c0168f1820ffe33f6c404e542,8593remote paths/70changedstreams exact. Source39169061209/job117798115170 and final39169505085/job117799434773 each352fulltests/zeroallfive non-success/selectionfalse; housekeeping39169475314/job117799343788NO_OP/exact finalsource dispatch; exact integrationstatus succeeds on actualsource. Fresh535project/66current/fourscores/original14blankreload2026-10-18T21:55:03.518280+00:00 precedes next-source admission. [Gate receipt](KONOSUBA_MASK_EXPANDED_PUBLICATION_GATE_CLOSE.json) closes pendinghistory. Fantastic Dayswhole unopened; supplemental14of19/mixed5of5published/globalpercentage null;72historicalexact. Fullremainingprogramcontinues.
+
+
+## Fantastic Days separate native admission and pre-body seal — 2026-10-18T21:56:20.119441+00:00
+
+ExactsourceFD/5358777bytes/SHA256`a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde`,freshCRC/JapaneseOPF/25text/15image metadata admitted after precedingfullgate/freshreload. Zeroactualnewbody/imagecreditsatadmission; complete uncodedpass before formal outcomes;17responsibilities/ten-ledger/component receiving/publication still required. Original14futurefields/fourscores/frozenauthority unchanged. Same informedroot/knownlaterholdouts, no pristineblindness. Fullprogramcontinues.
+
+
+## Fantastic Days whole-edition analytical acceptance — 2026-10-18T22:53:49.333509+00:00
+
+Main3645P/bonus0P/nonfiction62P/total3707P; full ruby/residual/image scopes before uncoded seal 2026-10-18T22:35:15.015450+00:00;92selected premises/177native-joined voices/31unchanged-contract local assessments/27ten-ledger appends. Supplemental15accepted/14already publishedof19; mixed5published; global percentage null. [Receiving](../10%20Expanded%20Corpus/Fantastic%20Days/KONOSUBA_FD_RECEIVING_AND_PROVENANCE.json) records same informed root, seventeen responsibilities/named subjects, exact native/context joins, unchanged original questions and qualified agency/transaction/access/protection/competence claims. All66current/72historical/four scores/14blanks exact. Current map uses present-operation markers; dated transition preserved in root changelog, without importing publication identifiers into current-entrypoint prose. Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Yorimichi 01 whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.
+
+
+## Fantastic Days fullgate closed and fresh authority reloaded — 2026-10-18T23:10:16.997377+00:00
+
+Source8cb0beaf1a17447785ebbb7d4402d0557035ff48/tree645e01e0c50d85336743f54b5c17be965baf4a5a,8612remote paths/36changedstreams exact. Source39174456428/job117814148261 and final39174902036/job117815453006 each352fulltests/zeroallfive non-success/selectionfalse; housekeeping39174868389/job117815355320NO_OP/exact finalsource dispatch; exact integrationstatus succeeds on actualsource. Fresh554project/66current/fourscores/original14blankreload2026-10-18T23:10:01.017871+00:00 precedes next-source admission. [Gate receipt](KONOSUBA_FD_EXPANDED_PUBLICATION_GATE_CLOSE.json) closes pendinghistory. Yorimichi 01whole unopened; supplemental15of19/mixed5of5published/globalpercentage null;72historicalexact. Fullremainingprogramcontinues.
+
+
+## Yorimichi 01 separate native admission and pre-body seal — 2026-10-18T23:10:26.898392+00:00
+
+ExactsourceYORI-01/2395940bytes/SHA256`71bf144bb0cead076949ef195e773eadab84676c2d650935bb41786794fd3594`,freshCRC/JapaneseOPF/32text/26image metadata admitted after precedingfullgate/freshreload. Zeroactualnewbody/imagecreditsatadmission; complete uncodedpass before formal outcomes;17responsibilities/ten-ledger/component receiving/publication still required. Original14futurefields/fourscores/frozenauthority unchanged. Same informedroot/knownlaterholdouts, no pristineblindness. Fullprogramcontinues.
+
+
+## Yorimichi 01 whole-edition analytical acceptance — 2026-10-19T00:06:22.409696+00:00
+
+Main2748P/bonus0P/nonfiction36P/total2784P; full ruby/residual/image scopes before uncoded seal 2026-10-18T23:45:55.735751+00:00;91selected premises/126native-joined voices/31unchanged-contract local assessments/26ten-ledger appends. Supplemental16accepted/15already publishedof19; mixed5published; global percentage null. [Receiving](../10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI01_RECEIVING_AND_PROVENANCE.json) records same informed root, seventeen responsibilities/named subjects, exact native/context joins, unchanged original questions and qualified agency/transaction/access/protection/competence claims. All66current/72historical/four scores/14blanks exact. Current map uses present-operation markers; dated transition preserved in root changelog, without importing publication identifiers into current-entrypoint prose. Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Yorimichi 02 whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.
+
+
+## Yorimichi 01 fullgate closed and fresh authority reloaded — 2026-10-19T00:22:24.577033+00:00
+
+Source8d83c69b16cdd4b6272518fdccc1282504cc0714/tree8f80e0f341211f60f66cb0c492a82f5f75827a1b,8630remote paths/35changedstreams exact. Source39179568640/job117829226492 and final39179964202/job117830416021 each352fulltests/zeroallfive non-success/selectionfalse; housekeeping39179927450/job117830309863NO_OP/exact finalsource dispatch; exact integrationstatus succeeds on actualsource. Fresh572project/66current/fourscores/original14blankreload2026-10-19T00:22:05.391148+00:00 precedes next-source admission. [Gate receipt](KONOSUBA_YORI01_EXPANDED_PUBLICATION_GATE_CLOSE.json) closes pendinghistory. Yorimichi 02whole unopened; supplemental16of19/mixed5of5published/globalpercentage null;72historicalexact. Fullremainingprogramcontinues.
+
+
+## Yorimichi 02 separate native admission and pre-body seal — 2026-10-19T00:22:52.109841+00:00
+
+ExactsourceYORI-02/9172954bytes/SHA256`f7b9051a4f2bea3033eea528477d4cc80cfdebe214d51d0764a3cf1eef352baf`,freshCRC/JapaneseOPF/35text/28image metadata admitted after precedingfullgate/freshreload. Zeroactualnewbody/imagecreditsatadmission; complete uncodedpass before formal outcomes;17responsibilities/ten-ledger/component receiving/publication still required. Original14futurefields/fourscores/frozenauthority unchanged. Same informedroot/knownlaterholdouts, no pristineblindness. Fullprogramcontinues.
+
+
+## Yorimichi 02 whole-edition analytical acceptance — 2026-10-19T01:00:35.578390+00:00
+
+Main2675P/bonus0P/nonfiction71P/total2746P; full ruby/residual/image scopes before uncoded seal 2026-10-19T00:45:32.454836+00:00;86selected premises/83native-joined voices/31unchanged-contract local assessments/23ten-ledger appends. Supplemental17accepted/16already publishedof19; mixed5published; global percentage null. [Receiving](../10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI02_RECEIVING_AND_PROVENANCE.json) records same informed root, seventeen responsibilities/named subjects, exact native/context joins, unchanged original questions and qualified agency/transaction/access/protection/competence claims. All66current/72historical/four scores/14blanks exact. Current map uses present-operation markers; dated transition preserved in root changelog, without importing publication identifiers into current-entrypoint prose. Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Yorimichi 03 whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.
+
+
+## Yorimichi 02 fullgate closed and fresh authority reloaded — 2026-10-19T01:33:25.635115+00:00
+
+Sourcedb1454ef9027993713c8bcce58e8b993e6e8a0cd/treece3d7ce78e4c6e4a80a48b3b271c3559d6020dc5,8667remote paths/60changedstreams exact. Source39185092387/job117845731354 and final39185385499/job117846619902 each352fulltests/zeroallfive non-success/selectionfalse; housekeeping39185353219/job117846521670NO_OP/exact finalsource dispatch; exact integrationstatus succeeds on actualsource. Fresh590project/66current/fourscores/original14blankreload2026-10-19T01:32:58.409620+00:00 precedes next-source admission. [Gate receipt](KONOSUBA_YORI02_EXPANDED_PUBLICATION_GATE_CLOSE.json) closes pendinghistory. Yorimichi 03whole unopened; supplemental17of19/mixed5of5published/globalpercentage null;72historicalexact. Fullremainingprogramcontinues.
+
+
+## Yorimichi 03 separate native admission and pre-body seal — 2026-10-19T01:33:27.097231+00:00
+
+ExactsourceYORI-03/8547808bytes/SHA256`f60479bfe10ed8c7c0d36f0ad618dc3d1e17e65a167fa11b9519c34bf5042c0d`,freshCRC/JapaneseOPF/26text/26image metadata admitted after precedingfullgate/freshreload. Zeroactualnewbody/imagecreditsatadmission; complete uncodedpass before formal outcomes;17responsibilities/ten-ledger/component receiving/publication still required. Original14futurefields/fourscores/frozenauthority unchanged. Same informedroot/knownlaterholdouts, no pristineblindness. Fullprogramcontinues.
+
+
+## Yorimichi 03 whole-edition analytical acceptance — 2026-10-19T02:33:28.359773+00:00
+
+Main3006P/bonus0P/nonfiction54P/total3060P; full ruby/residual/image scopes before uncoded seal 2026-10-19T02:05:31.362330+00:00;98selected premises/146native-joined voices/31unchanged-contract local assessments/24ten-ledger appends. Supplemental18accepted/17already publishedof19; mixed5published; global percentage null. [Receiving](../10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI03_RECEIVING_AND_PROVENANCE.json) records same informed root, seventeen responsibilities/named subjects, exact native/context joins, unchanged original questions and qualified agency/transaction/access/protection/competence claims. All66current/72historical/four scores/14blanks exact. Current map uses present-operation markers; dated transition preserved in root changelog, without importing publication identifiers into current-entrypoint prose. Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Yorimichi 04 whole-edition admission; full StageC/StageD/secondary/index/finalrelease continues.
+
+
+## Yorimichi 03 fullgate closed and fresh authority reloaded — 2026-10-19T02:52:05.935087+00:00
+
+Sourcef98205cf33575040fa9aa2706c4da99b86ad7d9d/tree76864a34cbf1cf841978dff07a879a08bf0e8030,8687remote paths/39changedstreams exact. Source39191032703/job117863674966 and final39191462923/job117864978003 each352fulltests/zeroallfive non-success/selectionfalse; housekeeping39191428467/job117864880947NO_OP/exact finalsource dispatch; exact integrationstatus succeeds on actualsource. Fresh610project/66current/fourscores/original14blankreload2026-10-19T02:51:53.647882+00:00 precedes next-source admission. [Gate receipt](KONOSUBA_YORI03_EXPANDED_PUBLICATION_GATE_CLOSE.json) closes pendinghistory. Yorimichi 04whole unopened; supplemental18of19/mixed5of5published/globalpercentage null;72historicalexact. Fullremainingprogramcontinues.
+
+
+## Yorimichi 04 separate native admission and pre-body seal — 2026-10-19T02:53:27.604969+00:00
+
+ExactsourceYORI-04/10437818bytes/SHA256`22564990f051e81d7ac1e0e5a33b8a042c48292caad2624b5e8d8d3a3fca5a3f`,freshCRC/JapaneseOPF/26text/26image metadata admitted after precedingfullgate/freshreload. Zeroactualnewbody/imagecreditsatadmission; complete uncodedpass before formal outcomes;17responsibilities/ten-ledger/component receiving/publication still required. Original14futurefields/fourscores/frozenauthority unchanged. Same informedroot/knownlaterholdouts, no pristineblindness. Fullprogramcontinues.
+
+
+## Yorimichi 04 whole-edition analytical acceptance — 2026-10-19T03:57:28.974898+00:00
+
+Main2900P/bonus0P/nonfiction52P/total2952P; full ruby/residual/image scopes before uncoded seal 2026-10-19T03:35:10.750313+00:00;82selected premises/76native-joined voices/31unchanged-contract local assessments/26ten-ledger appends. Supplemental19accepted/18already publishedof19; mixed5published; global percentage null. [Receiving](../10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI04_RECEIVING_AND_PROVENANCE.json) records same informed root, seventeen responsibilities/named subjects, exact native/context joins, unchanged original questions and qualified agency/transaction/access/protection/competence claims. All66current/72historical/four scores/14blanks exact. Current map uses present-operation markers; dated transition preserved in root changelog, without importing publication identifiers into current-entrypoint prose. Exact publication/readback/sourceaudit/housekeeping/final actual-source audit/status/freshreload before separate Main 01 previously excluded components with accepted principal bodies retained admission; full StageC/StageD/secondary/index/finalrelease continues.
+
+
+## Yorimichi 04 fullgate closed and fresh authority reloaded — 2026-10-19T05:35:30.389335+00:00
+
+Source06d75f592a6e88278b59067d88c4cc2f76884467/tree209a90f208a8918418b3383989e87e4347c51e74,8714remote paths/56changedstreams exact. Source39203377666/job117900895182 and final39203922224/job117902532053 each352fulltests/zeroallfive non-success/selectionfalse; housekeeping39203883244/job117902412178NO_OP/exact finalsource dispatch; exact integrationstatus succeeds on actualsource. Fresh628project/66current/fourscores/original14blankreload2026-10-19T05:35:30.124997+00:00 precedes next-source admission. [Gate receipt](KONOSUBA_YORI04_EXPANDED_PUBLICATION_GATE_CLOSE.json) closes pendinghistory. Main 01 previously excluded components with accepted principal bodies retained remain separately unadmitted; accepted principals retained; supplemental19of19/mixed5of5published/globalpercentage null;72historicalexact. Fullremainingprogramcontinues.
+
+
+## MAIN01EXCLUDED excluded-component admission and pre-body seal — 2026-10-19T05:36:04.924881+00:00
+
+MAIN-01 exact local supplied edition 7058492bytes/SHA256 7a80b4f6c6761176927539a6274892f187f1171e773a3295225a8ab5389747c6, admitted after preceding full gate/fresh reload. Retain 6 accepted principal members by native hash/paragraph joins with zero new principal reading credit. 21 excluded text resources and 29 images require actual inspection. New reading/viewing credit is zero at this admission snapshot. Bespoke uncoded seal precedes formal outcomes; supplemental19/mixed5 gates stay closed and full41/secondary work continues.
+
+
+## Main01 excluded-component analytical acceptance — 2026-10-19T05:57:58.543749+00:00
+
+New21textual resources152P/29individually viewed images; one56Pbonus,96Pnonfiction/wrappers; six accepted principal members2878P retained exact/newprincipal credit0. Selected17premises/22voicefragments,31principal+8party informed comparisons/fourtypedconstraints,11appends across tenledgers,22qualifications. Supplemental19/mixed5fullgates closed. Main01excluded analysis accepted/publicationpending; other16mainexcluded programs remain unadmitted; globalcomponentpercentage null. [Receiving](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V01_EXCLUDED_RECEIVING_AND_PROVENANCE.json) records actual new source/image reading, exact retained principals, original uncoded seal and notes, redacted public preparation view, precise source planes and same-root review. Frozen66/72/fourscores/14blanks exact. Exact publication/readback/source/HK/finalsource audit/status/freshreload before Main02excluded admission. Before nextpush ordinarily merge then-current main and rerun affected checks. Full17mainexcluded/syntheses/versionedmodels/secondaryaudit/curation/release continue.
+
+
+## Main01 excluded-component full gate closed — 2026-10-19T06:37:02.995940+00:00
+
+Exact source56857658929112f685397277cf8be187a9683ab8/tree36d9b9bec731c0715de4e96f575ff5376a8eaf42; all8809remote paths/17changedstreams equal reviewed candidate. Source39209629312/job117919908813 and final39210236998/job117921763663 each352fulltests/zeroallfive non-success/selectionfalse; housekeeping39210190180/job117921618468NO_OP/exact finalsource dispatch. Final status targets the actualsource. Fresh646project/66current/fourscores/14blankreload2026-10-19T06:36:44.682036+00:00. New21textresources152P/29images actually read/viewed; six accepted principal members2878P retained exact/newprincipal reading credit0. Supplemental19/mixed5 gates closed;1of17mainexcluded programs fullgateclosed/16remain; narrativecomponent percentage null. Main02excluded is separately unadmitted; no second principal pass or new blind score. Main drift after publication is separately documented by the gate and must be merged before another push. All remaining program stages continue.
+
+
+## MAIN02EXCLUDED excluded-component admission and pre-body seal — 2026-10-19T06:37:10.821581+00:00
+
+MAIN-02 exact local supplied edition 6872479bytes/SHA256 44246be88b99d34f4f9835796274d8fada2ce24cb1e8df735a55d7185a3f8b15, admitted after preceding full gate/fresh reload. Retain 7 accepted principal members by native hash/paragraph joins with zero new principal reading credit. 21 excluded text resources and 30 images require actual inspection. New reading/viewing credit is zero at this admission snapshot. Bespoke uncoded seal precedes formal outcomes; supplemental19/mixed5 gates stay closed and full41/secondary work continues.
+
+
+## Main02 excluded-component analytical acceptance — 2026-10-19T06:58:55.601202+00:00
+
+New21textual resources171P/30individually viewed images; one63Pbonus,108Pafterword/wrapper slots; seven accepted principal members2915P retained exact/newprincipal credit0. Selected11premises/24voicefragments,31principal+8party informed comparisons/fourtypedconstraints,11appends across tenledgers,25qualifications. Supplemental19/mixed5fullgates closed. Main01excluded full gate remains closed; Main02excluded analysis accepted/publicationpending; other15mainexcluded programs remain unadmitted; globalcomponentpercentage null. [Receiving](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V02_EXCLUDED_RECEIVING_AND_PROVENANCE.json) records actual new source/image reading, exact retained principals, original uncoded seal and notes, redacted public preparation view, precise source planes and same-root review. Frozen66/72/fourscores/14blanks exact. Exact publication/readback/source/HK/finalsource audit/status/freshreload before Main03excluded admission. Before nextpush ordinarily merge then-current main and rerun affected checks. Fullremaining mainexcluded/syntheses/versionedmodels/secondaryaudit/curation/release continue.
+
+
+## Main02 full publication gate — 2026-10-19T07:19:39.479821+00:00
+
+Exact source2c5b72d31da9c8d015768aa9babe9c2bbec2c7d6/tree8d83ef0eb2f518ba62b9b73ada9fada173079d03; all8829remote paths/45changedstreams match. Source39213613214/job117932305134 and final39214184765/job117934111893 certify actualsource with352fulltests/zeroallfive non-success/selectionfalse; housekeeping39214139195/job117933965607NO_OP/exact finalsource dispatch. Actualsource finalstatus and fresh664project-path authority reload2026-10-19T07:19:32.281756+00:00. All21new textual resources171P/30images actually read/viewed;7accepted principal members2915P retained exact withzero newprincipal credit. One complete63Pbonus;108othertextslots include45Pcreator afterword and63Pwrappers/credits/navigation, with raster profile/preview/coda planes separate. No equivalent narrative-component denominator. Supplemental19/mixed5closed;2of17mainexcluded programs fullgateclosed/15remain; componentpercentage null. Next excluded resources remain unadmitted; no new source exposure in this update. Ordinary current-main reconciliation remains mandatory before another publication.
+
+
+## MAIN03EXCLUDED excluded-component admission and pre-body seal — 2026-10-19T07:20:02.971669+00:00
+
+MAIN-03 exact local supplied edition 3497582bytes/SHA256 c269c3478fbd247428128a7407015a4d84c5e3c64b709056a1e0c393c60d5bcc, admitted after preceding full gate/fresh reload. Retain 8 accepted principal members by native hash/paragraph joins with zero new principal reading credit. 24 excluded text resources and 30 images require actual inspection. New reading/viewing credit is zero at this admission snapshot. Bespoke uncoded seal precedes formal outcomes; supplemental19/mixed5 gates stay closed and full41/secondary work continues.
+
+
+## Main03 excluded-component analytical acceptance — 2026-10-19T07:51:28.048149+00:00
+
+All24newresources180P/30images actually received;8accepted principal members3001P retained exact/newprincipalcredit0. One62Pbonus,53Pcreatorafterword and65otherwrapper/credit/navigation slots; two-page embedded imagined sequence and Aqua rhetorical callout have separate image-only roles. Profiles/preview/coda are separate planes. These slot counts are not a narrative denominator. Selected12premises/30voicefragments,31principal+8party informedcomparisons/fourtypedconstraints,11appends across tenledgers/28qualifications. Supplemental19/mixed5fullgates closed;MAIN01/MAIN02excludedfullgates remain closed;MAIN03analysis accepted/publicationpending;other14mainexcluded programs remain;globalcomponentpercentage null. [Receiving](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V03_EXCLUDED_RECEIVING_AND_PROVENANCE.json) records actual new source/image reading, exact retained principals, original uncoded seal and notes, redacted public preparation view, precise source planes and same-root review. Frozen66/72/fourscores/14blanks exact. Exact sourcepublication/all-treeandchanged-streamreadback/sourceaudit/housekeeping/finalactualsourceaudit-status/freshauthorityreload beforeMAIN04excluded admission. Ordinary then-currentmain merge and affected author checks before nextpush. Fullremaining sources/syntheses/versionedmodels/secondarycensus/earnedartifacts/curation/release continue.
+
+
+## Main03 full publication gate — 2026-10-19T08:15:31.618694+00:00
+
+Exact source910badd95227b2a105ec9ba89ca74129434ebaf0/tree2190eae6748b1a4e276370b304949445aeaa7fa8; all8847remote paths/38changedstreams match. Source39219927315/job117952581402 and final39220678540/job117954982809 certify actualsource with352fulltests/zeroallfive non-success/selectionfalse; housekeeping39220620651/job117954797165NO_OP/exact finalsource dispatch. Actualsource finalstatus and fresh682project-path authority reload2026-10-19T08:14:59.063095+00:00. All24newresources180P/30images actually received;8accepted principal members3001P retained exact/newprincipalcredit0. One62Pbonus,53Pcreatorafterword and65otherwrapper/credit/navigation slots; two-page embedded imagined sequence and Aqua rhetorical callout have separate image-only roles. Profiles/preview/coda are separate planes. These slot counts are not a narrative denominator. Supplemental19/mixed5closed;3of17mainexcluded programs fullgateclosed/14remain; componentpercentage null. Next excluded resources remain unadmitted; no new source exposure in this update. Ordinary current-main reconciliation remains mandatory before another publication.
+
+
+## MAIN04EXCLUDED excluded-component admission and pre-body seal — 2026-10-19T08:15:49.353348+00:00
+
+MAIN-04 exact local supplied edition 3907671bytes/SHA256 1ae1f38228b10cd46e1aa8124dfb369bb2f7507e4cccc709cfa35b3b302c7fa6, admitted after preceding full gate/fresh reload. Retain 9 accepted principal members by native hash/paragraph joins with zero new principal reading credit. 24 excluded text resources and 31 images require actual inspection. New reading/viewing credit is zero at this admission snapshot. Bespoke uncoded seal precedes formal outcomes; supplemental19/mixed5 gates stay closed and full41/secondary work continues.
+
+
+## Main04 excluded-component analytical acceptance — 2026-10-19T08:38:07.954302+00:00
+
+All24newresources144P/31images actually received;9acceptedprincipal members3135P retainedexact/newprincipalcredit0. One67Pbonus,26Pcreatorafterword and51otherwrapper/credit/navigation slots; one embedded welcome composition and one two-page imagined sequence identified. Staged frontmatter/profile/promotion separate. These slot counts are not a narrative denominator. Selected12premises/32voicefragments,31principal+8party informedcomparisons/fourtypedconstraints,11appends across tenledgers/28qualifications. Supplemental19/mixed5fullgates closed;MAIN01/MAIN02/MAIN03excludedfullgates remain closed;MAIN04analysis accepted/publicationpending;other13mainexcluded programs remain;globalcomponentpercentage null. [Receiving](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V04_EXCLUDED_RECEIVING_AND_PROVENANCE.json) records actual new source/image reading, exact retained principals, original uncoded seal and notes, redacted public preparation view, precise source planes and same-root review. Frozen66/72/fourscores/14blanks exact. Exact sourcepublication/all-treeandchanged-streamreadback/sourceaudit/housekeeping/finalactualsourceaudit-status/freshauthorityreload beforeMAIN05excluded admission. Incorporate then-currentmain ordinarily if needed and run affected author checks before nextpush. Fullremaining sources/syntheses/versionedmodels/secondarycensus/earnedartifacts/curation/release continue.
+
+
+## Main04 full publication gate — 2026-10-19T08:57:36.627320+00:00
+
+Exact source1cb2c60dc554334252d3994c72e45db3e28aaadc/tree246790a5505779d5d7b45e2916bd874c1138b50c; all8865remote paths/35changedstreams match. Source39225067834/job117969227559 and final39225757083/job117971519446 certify actualsource with352fulltests/zeroallfive non-success/selectionfalse; housekeeping39225701641/job117971329718NO_OP/exact finalsource dispatch. Actualsource finalstatus and fresh700project-path authority reload2026-10-19T08:57:23.759774+00:00. All24newresources144P/31images actually received;9acceptedprincipal members3135P retainedexact/newprincipalcredit0. One67Pbonus,26Pcreatorafterword and51otherwrapper/credit/navigation slots; one embedded welcome composition and one two-page imagined sequence identified. Staged frontmatter/profile/promotion separate. These slot counts are not a narrative denominator. Supplemental19/mixed5closed;4of17mainexcluded programs fullgateclosed/13remain; componentpercentage null. Next excluded resources remain unadmitted; no new source exposure in this update. Ordinary current-main reconciliation remains mandatory before another publication.
+
+
+## MAIN05EXCLUDED excluded-component admission and pre-body seal — 2026-10-19T08:58:01.394917+00:00
+
+MAIN-05 exact local supplied edition 14376279bytes/SHA256 57d8b5f8703bc026c5ad12a7ff1408d7715906d3a6c6471c160fc342ac15e717, admitted after preceding full gate/fresh reload. Retain 12 accepted principal members by native hash/paragraph joins with zero new principal reading credit. 24 excluded text resources and 37 images require actual inspection. New reading/viewing credit is zero at this admission snapshot. Bespoke uncoded seal precedes formal outcomes; supplemental19/mixed5 gates stay closed and full41/secondary work continues.
+
+
+## Main05 excluded-component analytical acceptance — 2026-10-19T09:24:40.182556+00:00
+
+All24newresources58P/37images actually received;12acceptedprincipal members3417P retainedexact/newprincipalcredit0. No separate prose bonus is supplied:14Pcreatorafterword plus44otherwrapper/credit/navigation slots. New raster documents, tourism article/map, contextual illustrations and embedded quoted/hypothetical sequences retain distinct planes. These resource/slot/image counts are not a narrative denominator. Selected17premises/16voicefragments;31principal+8party explicit new-enactment non-tests andfourtypedconstraints;11appends across tenledgers/26qualifications. Supplemental19/mixed5fullgates closed;MAIN01-MAIN04excluded fullgates remain closed;MAIN05analysis accepted/publicationpending;other12mainexcluded programs remain;globalcomponentpercentage null. [Receiving](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V05_EXCLUDED_RECEIVING_AND_PROVENANCE.json) records actual new source/image reading, exact retained principals, original uncoded seal and notes, redacted public preparation view, precise source planes and same-root review. Frozen66/72/fourscores/14blanks exact. Exact sourcepublication/all-treeandchanged-streamreadback/sourceaudit/housekeeping/finalactualsourceaudit-status/freshauthorityreload beforeMAIN06excluded admission. Incorporate then-currentmain ordinarily if needed and run affected author checks before nextpush. Fullremaining sources/syntheses/versionedmodels/secondarycensus/earnedartifacts/curation/release continue.
+
+
+## Main05 full publication gate — 2026-10-19T09:42:31.440575+00:00
+
+Exact source0b301c0024b91e24de7dc4817fa32ac594856075/tree3adc01ecddb1e831927bcb850754a0f00014ab7b; all8883remote paths/35changedstreams match. Source39230452141/job117986868413 and final39231262646/job117989508129 certify actualsource with352fulltests/zeroallfive non-success/selectionfalse; housekeeping39231203692/job117989314962NO_OP/exact finalsource dispatch. Actualsource finalstatus and fresh718project-path authority reload2026-10-19T09:42:06.521297+00:00. All24newresources58P/37images actually received;12acceptedprincipal members3417P retainedexact/newprincipalcredit0. No separate prose bonus is supplied:14Pcreatorafterword plus44otherwrapper/credit/navigation slots. New raster documents, tourism article/map, contextual illustrations and embedded quoted/hypothetical sequences retain distinct planes. These resource/slot/image counts are not a narrative denominator. Supplemental19/mixed5closed;5of17mainexcluded programs fullgateclosed/12remain; componentpercentage null. Next excluded resources remain unadmitted; no new source exposure in this update. Ordinary current-main reconciliation remains mandatory before another publication.
+
+
+## MAIN06EXCLUDED excluded-component admission and pre-body seal — 2026-10-19T09:42:55.123268+00:00
+
+MAIN-06 exact local supplied edition 2529639bytes/SHA256 279f8c714aefe7eb492561bc8c6a91ae293297158d6cb50734840f5482439f0a, admitted after preceding full gate/fresh reload. Retain 11 accepted principal members by native hash/paragraph joins with zero new principal reading credit. 19 excluded text resources and 31 images require actual inspection. New reading/viewing credit is zero at this admission snapshot. Bespoke uncoded seal precedes formal outcomes; supplemental19/mixed5 gates stay closed and full41/secondary work continues.
+
+
+## Main06 excluded-component analytical acceptance — 2026-10-19T10:06:54.861629+00:00
+
+All19newresources69P/31images actually received;11acceptedprincipal members3392P retainedexact/newprincipalcredit0. No separately supplied prose bonus:22Pcreatorafterword plus47otherwrapper/credit/navigation slots. Front composites, one embedded masked-heist composition, profile, two artist contributions and future promotion retain separate planes. CR-MAIN06EX-001 corrects the old V06restraint account with original frozen bytes preserved. These counts are not a narrative denominator. Selected14premises/18voicefragments;31principal+8party explicit new-enactment non-tests/fourtypedconstraints;11appends across tenledgers/29qualifications, plus1sourced claim-ledger erratum. Supplemental19/mixed5fullgates closed;MAIN01-MAIN05excluded fullgates remain closed;MAIN06analysis accepted/publicationpending;other11mainexcluded programs remain;globalcomponentpercentage null. [Receiving](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V06_EXCLUDED_RECEIVING_AND_PROVENANCE.json) records actual new source/image reading, exact retained principals, original uncoded seal and notes, redacted public preparation view, precise source planes and same-root review. Frozen66/72/fourscores/14blanks exact. Exact publication/all-treeandchanged-streamreadback/sourceaudit/housekeeping/finalactualsourceaudit-status/freshauthorityreload beforeMAIN07excluded admission. Incorporate then-currentmain ordinarily if needed and rerun affected author checks before nextpush. Allremaining sources/syntheses/versionedmodels/secondarycensus/earnedcohorts/curation/release continue.
+
+
+## Main06 full publication gate — 2026-10-19T10:23:55.629059+00:00
+
+Exact source57c44c52e923800515c236a312f6c204c931432c/tree445d621327a286597f33695512654b0be089e966; all8901remote paths/36changedstreams match. Source39235620530/job118003845554 and final39236395834/job118006388731 certify actualsource with352fulltests/zeroallfive non-success/selectionfalse; housekeeping39236341473/job118006210579NO_OP/exact finalsource dispatch. Actualsource finalstatus and fresh736project-path authority reload2026-10-19T10:23:55.395743+00:00. All19newresources69P/31images actually received;11acceptedprincipal members3392P retainedexact/newprincipalcredit0. No separately supplied prose bonus:22Pcreatorafterword plus47otherwrapper/credit/navigation slots. Front composites, one embedded masked-heist composition, profile, two artist contributions and future promotion retain separate planes. CR-MAIN06EX-001 corrects the old V06restraint account with original frozen bytes preserved. These counts are not a narrative denominator. Supplemental19/mixed5closed;6of17mainexcluded programs fullgateclosed/11remain; componentpercentage null. Next excluded resources remain unadmitted; no new source exposure in this update. Ordinary current-main reconciliation remains mandatory before another publication.
+
+
+## Iris cohort01 semantic receiving — 2026-10-19T10:36:23.961554+00:00
+
+New substantive artifacts,35-row initial coverage audit,22actual synthetic completions with two same-root causal reviews, exact lineage and ten native backjoin records are received. The seven optional-scope commitments are fixed before still-unread MAIN07-MAIN17 excluded components; no eligible source trial is guaranteed. Current model confidence and missingness stay qualitative. Publication/readback/sourceaudit/housekeeping/finalsource status/reload remain pending for this cohort. Registry/index remain curator-owned; no existing reference is changed. All principal frozen history and prior scores remain. Othercharacters, remaining11mainexcluded programs, expanded principal/party/transfer work and final release stay open.
+
+
+## Iris cohort01 exact gate/reload — 2026-10-19T10:54:46.081453+00:00
+
+Exact sourcebc9b67dc37212868b16e8b6eed1a39f07b258dd0/tree9f35e61dfcc12aa79bb71b5d173c7d67f76bcc83; all8917remote paths/25changedstreams match. Source audit39239266627/job118015835543, housekeeping39239969560/job118018126187NO_OP/exact dispatch, final audit39240031135/job118018336065; both352fulltests/zeroall5non-success/selectionfalse; actual-source finalstatus and fresh752project authority reload2026-10-19T10:54:45.929292+00:00. Next excluded resources remain unadmitted. New model reliability remains provisional; no synthetic source-validation score or complete census is asserted. Current-main reconciliation remains mandatory before each later push.
+
+
+## MAIN07EXCLUDED excluded-component admission and pre-body seal — 2026-10-19T10:55:18.249369+00:00
+
+MAIN-07 exact local supplied edition 11201415bytes/SHA256 38c1fa428ba096cdc4c8b7a5df393dd5763b438e780ef2cef138860c608143c5, admitted after preceding full gate/fresh reload. Retain 9 accepted principal members by native hash/paragraph joins with zero new principal reading credit. 19 excluded text resources and 32 images require actual inspection. New reading/viewing credit is zero at this admission snapshot. Bespoke uncoded seal precedes formal outcomes; supplemental19/mixed5 gates stay closed and full41/secondary work continues.
+
+
+## Main07 excluded-component analytical acceptance — 2026-10-19T11:40:53.818751+00:00
+
+All19new textual resources131P and32native images actually received;9accepted principal members3288P retained exact with zero new principal reading credit. New52P electronic bonus『たまにはお礼を言いたくて』,34P author afterword and45other wrapper/credit/navigation slots are distinct. Front composites, printed profile, paired bedside images, illustrator/guest production contributions and Volume8 promotional script retain their own planes. These counts are component accounting, not a narrative denominator. Selected25premises/24writtenfragments;31principal+8party comparisons distinguish35absent fulltriggers from4adjacent/ambiguous findings;fourtypedconstraints andsevenIrisno-opportunityrows preserve originaloutcomes. Twelveappends across tenledgers/32qualifications. Supplemental19/mixed5 andMAIN01-MAIN06fullgates plusIriscohort remainclosed; MAIN07analysis accepted/publicationpending; other10mainexcluded programs remain. Globalcomponentpercentage null. [Receiving](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V07_EXCLUDED_RECEIVING_AND_PROVENANCE.json) records actual new reading, retained principal scope, immutable uncoded observations, current corrections, redacted preparation and same-root receiving. Frozen66/72/fourscores/Dust14blanks/SI-C01original14nulls exact. Exact publication/all-tree and changed-stream readback/source audit/housekeeping/final actual-source audit and status/fresh published-authority reload before MAIN08 excluded admission. Incorporate then-current main ordinarily if needed and repeat affected checks before the next push. Remaining main components, secondary census and earned cohorts, synthesis, versioned principal/party/transfer models, curation and release continue.
+
+
+## Main07 full publication gate — 2026-10-19T11:58:11.917217+00:00
+
+Exact source854da7b49c6d9f428de41becfb74b9e3ed511b73/treedbd8c5b24bf6ac0ba8f2ae783c4ec44aca38fa2d; all8935remote paths/36changedstreams match. Source39246910233/job118040932852 and final39247662441/job118043443022 certify actualsource with352fulltests/zeroallfive non-success/selectionfalse; housekeeping39247614375/job118043285332NO_OP/exact finalsource dispatch. Actualsource finalstatus and fresh770project-path authority reload2026-10-19T11:57:09.012856+00:00. All19new textual resources131P and32native images actually received;9accepted principal members3288P retained exact with zero new principal reading credit. New52P electronic bonus『たまにはお礼を言いたくて』,34P author afterword and45other wrapper/credit/navigation slots are distinct. Front composites, printed profile, paired bedside images, illustrator/guest production contributions and Volume8 promotional script retain their own planes. These counts are component accounting, not a narrative denominator. Supplemental19/mixed5closed;7of17mainexcluded programs fullgateclosed/10remain; componentpercentage null. Next excluded resources remain unadmitted; no new source exposure in this update. Ordinary current-main reconciliation remains mandatory before another publication.
+
+
+## MAIN08EXCLUDED excluded-component admission and pre-body seal — 2026-10-19T11:59:29.514320+00:00
+
+MAIN-08 exact local supplied edition 2964798bytes/SHA256 ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e, admitted after preceding full gate/fresh reload. Retain 8 accepted principal members by native hash/paragraph joins with zero new principal reading credit. 18 excluded text resources and 30 images require actual inspection. New reading/viewing credit is zero at this admission snapshot. Bespoke uncoded seal precedes formal outcomes; supplemental19/mixed5 gates stay closed and full41/secondary work continues.
+
+
+## Main08 excluded-component analytical acceptance — 2026-10-19T12:38:36.616728+00:00
+
+All18new text resources128P/30native images actually received;8accepted principal members2927P retained exact/newprincipalcredit0. New60P electronic bonus『漢のロマンを叶えるために』,22Pauthorafterword and46other wrapper/credit/contents slots are distinct. Covers/fronts/profile/eight chapter banners/body illustrations/illustrator and guest codas/future promotion retain separate planes.650bounded retainedP support image attribution and current corrections; no extra events or full principal pass. Counts are not a narrative denominator. Selected25premises/24writtenfragments;31principal+8party individualcomparisons/fourtypeddiagnostics/sevenIrisno-opportunityrows. 39explicit comparisons:34full conjunctions absent/unestablished; K04restraint/K08directpressure eligibility ambiguous; E03dependency-directed request locally supported without completed recovery; E06boundary continuity and E07reported production retain missing branches. No full heldoutC/F or accuracy update;4typeddiagnostics/7IrisNT preserve original fields. Retained events are not fresh trials. 12appends across tenledgers/30qualifications. Supplemental19/mixed5 andMAIN01-MAIN07fullgates plusIriscohort remainclosed; MAIN-08analysis accepted/publicationpending;other9mainexcluded programs remain;globalcomponentpercentage null. [Receiving](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V08_EXCLUDED_RECEIVING_AND_PROVENANCE.json) records actual new reading, retained principal scope, immutable uncoded observations, current corrections, redacted preparation and same-root receiving. Frozen66/72/fourscores/Dust14blanks/SI-C01original14nulls exact. Exact publication/all-tree and changed-stream readback/source audit/housekeeping/final actual-source audit-status/fresh published-authority reload before MAIN09 excluded admission. Reconcile then-current main ordinarily before any later push. Remaining main components, full secondary census/earned artifacts, expanded synthesis/versioned principal-party-transfer revisions, curator integration and release continue.
+
+
+## Main08 full publication gate — 2026-10-19T13:00:55.451823+00:00
+
+Exact source8bde99e740ce0c23d9dee951aeb27cbb1aaa7c85/tree72e0c78e47af82b1188ff347d47106026babe7b6; all8953remote paths/35changedstreams match. Source39255069863/job118068182192 and final39255588642/job118069938990 certify actualsource with352fulltests/zeroallfive non-success/selectionfalse; housekeeping39255533521/job118069752928NO_OP/exact finalsource dispatch. Actualsource finalstatus and fresh788project-path authority reload2026-10-19T13:00:42.326423+00:00. All18new text resources128P/30native images actually received;8accepted principal members2927P retained exact/newprincipalcredit0. New60P electronic bonus『漢のロマンを叶えるために』,22Pauthorafterword and46other wrapper/credit/contents slots are distinct. Covers/fronts/profile/eight chapter banners/body illustrations/illustrator and guest codas/future promotion retain separate planes.650bounded retainedP support image attribution and current corrections; no extra events or full principal pass. Counts are not a narrative denominator. Supplemental19/mixed5closed;8of17mainexcluded programs fullgateclosed/9remain; componentpercentage null. Next excluded resources remain unadmitted; no new source exposure in this update. Ordinary current-main reconciliation remains mandatory before another publication.
+
+
+## Yunyun cohort01 semantic receiving — 2026-10-19T13:21:08.660638+00:00
+
+New monograph/model/index, exacthistoricalY01 lineage, actualboundednative/image/report receiving and16response/eightpair causal exercise are received. Fifty-one audit rows retain open identities and finaltier gaps; no globalcensus closure. SY-C01has7informedrules/14originalnulls fixedbeforeMAIN09-17excluded exposure. PriorSI-C01/SEC01,66current/72historical,fourscores andDust14blanks remain unchanged. MAIN08 fullgateclosed with exactsource/final352tests andfreshreload; the new cohort still requires exactstage/preflight/normalpublication/readback/sourceaudit/HK/finalactualsource/status/reload. Registry/index remain curator-owned; all remaining source/synthesis/versionedmodels/secondary/curation/integration/release workcontinues.

@@ -1,0 +1,692 @@
+{
+  "schema": "KONOSUBA_CONTEXP02_TEN_LEDGER_RECEIVING_DECISIONS_V1",
+  "created_utc": "2026-10-18T20:12:01.103507+00:00",
+  "baseline_commit": "b0668884aeb1e0f58db2395b214b9b3b947f0d8f",
+  "ten_current_prefix_controls": [
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "bytes": 255064,
+      "sha256": "0c4eede5af83710f4d00cd99920330abceecb06a2f0f434e204f0f21265748ae"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "bytes": 183133,
+      "sha256": "472266ef2ca40dc64a66d86b4b4796d6dc32ebf5e0137248879d1c70a6f5a9a0"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "bytes": 754455,
+      "sha256": "f0c55e7121bcb9bb4116f7c407e83fb1c150f96ed8188d7697cc84d9033bbf04"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "bytes": 566629,
+      "sha256": "ffb74b3ecf813a04d620c2514aab7b9e815a5aa3282d0873b37ec9db90a6883e"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "bytes": 163037,
+      "sha256": "d7e3c032f78f6d5ba35c0cc2fb52cbbe5fe14e1f1a620544f4ea3072a27be3e4"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "bytes": 156332,
+      "sha256": "d056aa1e25e8f1a66c8f287b7e2766435d971f20b7e95d5c87780666b382f6d9"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "bytes": 178453,
+      "sha256": "9cf1aa0d78c56dc11ec0c5d6ad308d5e856aad23c60f55809f492d83b4d2bff8"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "bytes": 145327,
+      "sha256": "2bc95730215a9a6f75821c7e111ede09691b60a7524004ad9dfe86a4d17b212f"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "bytes": 233438,
+      "sha256": "9d8dfe797c2f8c8d7c5d1c1ef6dd1d7122bbe07431335d2d2e23a98ddaec742b"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "bytes": 80379,
+      "sha256": "27fba34fd3ad91ba34d470689fdf86e53d16609e1e3b8a41d8e9e9be7cd8a833"
+    }
+  ],
+  "rows": [
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "CONTEXP02-WHOLE-CS01",
+        "ledger": "CS",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+        "subjects": "Megumin: owned management burden, pride, and specific mercy",
+        "native_routes": "U013;U020P0542–0577;U023P0400–0412;U026P0034–0053",
+        "observation": "She values art/company/status, admits coordination limits and knowingly overrides some companions, yet actually chooses animal mercy after a bond cue and accepts false own blame to protect client/conservation.",
+        "implication": "Add competing priorities at received-cue states instead of fixed care-first or art-first invariants.",
+        "authority_and_adverse_limit": "Mercy is deliberate, not miss; actual animal bond differs from M04person target. Self-dramatization/honesty/public risk remain.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T20:12:01.103507+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "CONTEXP02-WHOLE-CS02",
+        "ledger": "CS",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+        "subjects": "Yunyun: wanted specific membership and owned alternatives",
+        "native_routes": "U013P0028–0070;U020P0087–0124/0547–0550;U031",
+        "observation": "Actual positive recruitment exists, two wanted party openings are lost after Megumin intervention, and she offers leadership practice rather than only following.",
+        "implication": "Preserve owned company, agency, technical competence and actual coercive reactions together.",
+        "authority_and_adverse_limit": "No universal no-opportunities victim account; throat grabbing/joint devil attack are not excused by loneliness.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T20:12:01.103507+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "CONTEXP02-WHOLE-CS03",
+        "ledger": "CS",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+        "subjects": "Iris: resource adaptation and particular valuation",
+        "native_routes": "U020P0225–0281/0371–0434",
+        "observation": "She treasures the cheap personal gift, brings the previously absent ancestral sword and anti-leak necklace, then pity and resource removal change the encounter.",
+        "implication": "Model acquired practical knowledge alongside independent will, power and exploitable empathy.",
+        "authority_and_adverse_limit": "No royal engagement, exact current level60, or unchanged no-preparation state.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T20:12:01.103507+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "CONTEXP02-WHOLE-CS04",
+        "ledger": "CS",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+        "subjects": "Barton: real curiosity, selective conservation and voluntary responsibility",
+        "native_routes": "U013;U020P0357–0469;U023;U026",
+        "observation": "Basic inquiry and actual field clues coexist with bad instruction, arbitrary species preference, self-risk, responsibility and successful later persuasion.",
+        "implication": "Separate expertise domains and honest limits from social pose; record useful outsider contribution.",
+        "authority_and_adverse_limit": "No all-purpose tracking skill, proven weather mechanism, direct Barbera motive or fully general conservation ethic.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T20:12:01.103507+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "CONTEXP02-WHOLE-CS05",
+        "ledger": "CS",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+        "subjects": "Aqua/Darkness/Kazuma: specific work, choice and fallibility",
+        "native_routes": "U010;U018P0451–0465;U020P0030–0043;U023;U026",
+        "observation": "Civic paperwork/knitting, chosen showmanship risk, actual detection/theft/rescue and failed animal prediction differ by agent and phase.",
+        "implication": "Avoid whole-person ranking from one task; retain labor and actual costs.",
+        "authority_and_adverse_limit": "Aqua’s final art impresses Darkness but fails creature distraction; later praise does not certify task fulfillment.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T20:12:01.103507+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "CONTEXP02-WHOLE-RS01",
+        "ledger": "RS",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+        "subjects": "Megumin–Yunyun: company wanted, provider need and cost",
+        "native_routes": "U013P0038–0070/0462–0469;U020P0087–0124/0530–0550",
+        "observation": "Real ready escape/carrying and ordinary desired company coexist with withheld destination, lost membership and ignored leadership offer.",
+        "implication": "Treat bonds as owned wants and negotiated work, not unlimited resource access.",
+        "authority_and_adverse_limit": "No later friendship authorizes imposed cost; Yunyun’s own aggression retained.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T20:12:01.103507+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "CONTEXP02-WHOLE-RS02",
+        "ledger": "RS",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+        "subjects": "Megumin–Iris–retainers: friendship and authority",
+        "native_routes": "U013P0091–0178;U020P0475–0546;U023P0108–0125",
+        "observation": "Full royal disclosure changes Yun knowledge, ordinary friendship is explicitly requested, retainer costs persist and royal witness/entry privilege enable cover and exceptions.",
+        "implication": "Track who knows status, who gives permission and who incurs work or honesty cost.",
+        "authority_and_adverse_limit": "No unperformed training victory, permanent free-access permission or automatic informed assent.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T20:12:01.103507+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "CONTEXP02-WHOLE-RS03",
+        "ledger": "RS",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+        "subjects": "Megumin–Kazuma: specific company and partial insight",
+        "native_routes": "U020P0542–0577;U023P0015–0056;U026P0045–0078",
+        "observation": "She genuinely wants this person’s company and recognizes leadership burden; he actually binds/drains her and supplies help under pressure.",
+        "implication": "Retain later affection and actual coercion without manufacturing a new intimate act.",
+        "authority_and_adverse_limit": "Anything is not specific free consent; gratitude and later carry do not authorize prior imposed acts.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T20:12:01.103507+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "CONTEXP02-WHOLE-RS04",
+        "ledger": "RS",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+        "subjects": "Creature bond and reader-only identity",
+        "native_routes": "U023P0400–0412;U026P0034–0040;U027P0005–0009",
+        "observation": "Received goji cue revives meaningful prior bond and changes actual aim; creator confirms evolved identity only later for readers.",
+        "implication": "Add bond-cued mercy with correct recognition confidence.",
+        "authority_and_adverse_limit": "Animal not M04actual-person target; no new full reading of the earlier store bonus from afterword summary.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T20:12:01.103507+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "CONTEXP02-WHOLE-RS05",
+        "ledger": "RS",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+        "subjects": "Zereschilt’s requested outing and imposed shop role",
+        "native_routes": "CONTEXP02-BONUS-ELECTRONIC-COSTUME-MARQUIS/U031",
+        "observation": "A personally wanted adventure is accepted then displaced by new volunteers who leave him shop work.",
+        "implication": "Provider coverage can solve staffing while frustrating a particular person’s goal.",
+        "authority_and_adverse_limit": "No completed free work negotiation, actual hunt or future reinvitation repair.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T20:12:01.103507+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "CONTEXP02-WHOLE-HM01",
+        "ledger": "HM",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+        "subjects": "Comic schema1: membership advertising changes the accepted package",
+        "native_routes": "U013P0038–0070;U020P0087–0124",
+        "observation": "A willing crowd wantsYun untilMeg is bundled; a willing novice party wants her until overqualification disclosure changes fit.",
+        "implication": "Literal concrete opportunity/cost, H1 with bounded H2indoorreaction; pragmaticL2.",
+        "authority_and_adverse_limit": "Not generic rejection of the clan or proof no opportunities; selected cases not census.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T20:12:01.103507+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "CONTEXP02-WHOLE-HM02",
+        "ledger": "HM",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+        "subjects": "Comic schema2: supplied expert and task mismatch",
+        "native_routes": "U013P0281–0396;U023P0190–0276",
+        "observation": "Real discoveries/curiosity and scientist pose coexist with untested theory, missing requested tracking skill and successful scat lure.",
+        "implication": "Evaluate function by task and actual receipt, not title-only competence.",
+        "authority_and_adverse_limit": "Bad advice is not all-domain incompetence; actual expertise not proof every claim.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T20:12:01.103507+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "CONTEXP02-WHOLE-HM03",
+        "ledger": "HM",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+        "subjects": "Comic schema3: roleplay, metaphor and actual constraint",
+        "native_routes": "U016P0018–0032;U020P0494;U023P0029–0056/0359–0366",
+        "observation": "Noble play admits real work neglect; false compulsion cover describes an unperformed kill; seal language labels real mana removal/return.",
+        "implication": "Keep represented fiction versus performed act separate; no automaticH3/H4.",
+        "authority_and_adverse_limit": "False sentence content is not a disposition observation; actual coercion remains literal.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T20:12:01.103507+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "CONTEXP02-WHOLE-HM04",
+        "ledger": "HM",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+        "subjects": "Comic schema4: adequate metric changes with recipient and task",
+        "native_routes": "U020P0225–0239;U023P0377–0398;U026P0022–0024",
+        "observation": "Gift value is particular, and an impressive performance can fail assigned distraction by reaching the wrong observer.",
+        "implication": "L2recipient/goal dependence, literal acts.",
+        "authority_and_adverse_limit": "No accepted marriage from distant affect; no all-or-nothing usefulness rating.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T20:12:01.103507+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "CONTEXP02-WHOLE-HM05",
+        "ledger": "HM",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+        "subjects": "Comic schema5: recurring self-exemption and interrupted closing",
+        "native_routes": "U020P0542–0577;U026P0045–0078;U031P0050–0057",
+        "observation": "Meg diagnoses others’ difficulty but misses her own role; everyone claims indispensable support; a new trip leaves the original recruit behind.",
+        "implication": "Partial insight and unresolved cost survive the punchline.",
+        "authority_and_adverse_limit": "Not permanent reform or no self-awareness; future promises not completed repairs.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T20:12:01.103507+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "CONTEXP02-WHOLE-JV01",
+        "ledger": "JV",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+        "subjects": "Japanese-form dependence: name share and legs idiom",
+        "native_routes": "U023P0249–0250;U026P0003–0005",
+        "observation": "カモネギ/カモシカ andめぐ/みん segmentation require reconstruction; most selected effects instead depend on recipient pragmatics.",
+        "implication": "Two selected H-L3cases and one selectedV-L3fragment with explicit shared-form warrants.",
+        "authority_and_adverse_limit": "No statistical rate, native-human validation, audio or centrality from standard ruby alone.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T20:12:01.103507+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "CONTEXP02-WHOLE-JV02",
+        "ledger": "JV",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+        "subjects": "Recipient-specific familiar politeness and coercive uptake",
+        "native_routes": "U013P0091–0178;U016P0115–0130/0439–0485;U018P0151–0170",
+        "observation": "Polite grammar can request ordinary friendship, refuse contact, impose an intrusive interpretation or set conditional entry.",
+        "implication": "Keep stance/function/recipient and actual permission separate from morphology.",
+        "authority_and_adverse_limit": "Same register is not same motive, truth or consent; no performed kiss or blanket bath agreement.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T20:12:01.103507+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "CONTEXP02-WHOLE-JV03",
+        "ledger": "JV",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+        "subjects": "148source-context witnesses with attributable pointer/anchor handling",
+        "native_routes": "CurrentVOICE_REGISTER;VOICE_NATIVE_JOIN_AUDIT",
+        "observation": "140originalfragmentsmatchoriginalwindows,oneexactfragmentneeds earlierwindow,sevenoriginalemptyanchorsreceiveexplicitpostsealcurrentselections;all148currentjoin.",
+        "implication": "Preserve original notes and disclose current accuracy without false all-original exactness.",
+        "authority_and_adverse_limit": "No rewritingoriginalselectionchronology or new independent J01trial; printed timing only.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T20:12:01.103507+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "CONTEXP02-WHOLE-KN01",
+        "ledger": "KN",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+        "subjects": "Narrator changes and interrupted identity accounts",
+        "native_routes": "U010;U013–020;U023;U026;U027",
+        "observation": "K/M/K/M viewpoints differ; rank/danger cues are received while full proper name/return mechanism stay interrupted; creator identifies evolved creature only for readers.",
+        "implication": "Store known, missed, consciously avoided and reader-only facts separately.",
+        "authority_and_adverse_limit": "No ignorance excuse where danger was spoken, and no reader knowledge installed in characters.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T20:12:01.103507+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "CONTEXP02-WHOLE-KN02",
+        "ledger": "KN",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+        "subjects": "Causal weather and gift hypotheses",
+        "native_routes": "U013P0305–0328/0487–0509;U016P0034–0041;U020P0204–0239/0501–0510",
+        "observation": "Weather/date later occur, but charm is known competing antecedent; meaningful-ring theory is not independent woman’s voiced reason.",
+        "implication": "Update outcomes without turning sequence or visible faces into exclusive cause/explicit acceptance.",
+        "authority_and_adverse_limit": "No performed accepted marriage or theorem from field discovery.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T20:12:01.103507+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "CONTEXP02-WHOLE-KN03",
+        "ledger": "KN",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+        "subjects": "False attribution and consciously accepted cover",
+        "native_routes": "U016P0481–0485;U018P0061–0082;U020P0475–0499",
+        "observation": "Megumin refuses false Axis credit, accepts concealment of a named property theft, and authors a false kill account endorsed by royal testimony.",
+        "implication": "Truth orientation is selective; actual authorship, receipt and audience are recorded.",
+        "authority_and_adverse_limit": "No permanent honesty rule or true uncontrollable urge is inferred from an explicit lie.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T20:12:01.103507+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "CONTEXP02-WHOLE-OP01",
+        "ledger": "OP",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+        "subjects": "C1specific prior exit and shield",
+        "native_routes": "U013P0436–0478;U020P0068–0085",
+        "observation": "Retreat is chosen, Teleport chanting completed and held ready, Iris accepts shielding/slime costs beside Megumin, and the terminal cast is later confirmed by the kill card.",
+        "implication": "An actual prior provider arrangement improves preparation and narrow-capacity evidence.",
+        "authority_and_adverse_limit": "All-friendly separation is not fully mapped, but the real exit cannot be denied by repeating an earlier qualification or adding a formal-permission/numeric floor.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T20:12:01.103507+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "CONTEXP02-WHOLE-OP02",
+        "ledger": "OP",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+        "subjects": "Resource-state update and nonlethal task constraint",
+        "native_routes": "U020P0249–0434",
+        "observation": "The ancestral sword is now present; the anti-leak necklace is prepared then removed. Regeneration after a hit, avoided Swamp, a dodged cut and pity-based hesitation differ.",
+        "implication": "Bind action to the actual item, control and goal rather than generic power.",
+        "authority_and_adverse_limit": "No kill or tail-harvest success; no invented intermediate necklace return before the theft.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T20:12:01.103507+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "CONTEXP02-WHOLE-OP03",
+        "ledger": "OP",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+        "subjects": "Final real handoffs and deliberately changed aim",
+        "native_routes": "U023P0359–0412;U026P0034–0040",
+        "observation": "Mana is actually returned, Steal recovers the necklace and a partial gap opens; Megumin then chooses the nest rather than the animal after a bond cue.",
+        "implication": "Goal, technique and safety differ; deliberate mercy is not an aim miss.",
+        "authority_and_adverse_limit": "Kazuma’s not-too-bad harm prediction is not complete safety; C1’s Teleport is not imported into the final scene.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T20:12:01.103507+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "CONTEXP02-WHOLE-CC01",
+        "ledger": "CC",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+        "subjects": "Later relationship eligibility and particular permissions",
+        "native_routes": "U013P0028;U018P0151–0170;U020P0007–0029;U023P0035–0056",
+        "observation": "Posttrial chronology requires the later relationship context. Waking retelling, master roleplay and an anything promise perform no new intimate act.",
+        "implication": "Typed relationship stage and behavior are assessed separately; specific bath/contact rules remain.",
+        "authority_and_adverse_limit": "No early-Axel exclusion and no particular free consent inferred from an anything promise under pressure.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T20:12:01.103507+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "CONTEXP02-WHOLE-CC02",
+        "ledger": "CC",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+        "subjects": "Humiliation, self-defense and selective image protection",
+        "native_routes": "U016P0439–0485;U018P0418–0430;U020P0475–0546",
+        "observation": "The priest’s refusal and self-defense precede completion of the attempted assault. Megumin refuses false flattery, protects Aqua’s honor, and accepts Iris’s royal lie in an own-blame cover.",
+        "implication": "Retain favorable care, adverse dishonesty and exact directional limits for M07.",
+        "authority_and_adverse_limit": "No equal-aggression account, pure altruism or shorthand that no near candidate exists.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T20:12:01.103507+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "CONTEXP02-WHOLE-SO01",
+        "ledger": "SO",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+        "subjects": "Whole edition and independent electronic bonus",
+        "native_routes": "U001–035;CONTEXP02-BONUS-ELECTRONIC-COSTUME-MARQUIS/U031",
+        "observation": "All 35 text units, 2,703 P and 25 images are actually read: 2,573 principal P, 57 bonus P and 73 nonfiction P. The bonus includes aggression and shop assignment, with no onstage hunt.",
+        "implication": "Keep stable titles, members and locators, separating fiction, creator and marketing authority.",
+        "authority_and_adverse_limit": "No native images or full transcription in Git; book counts do not fix the narrative-component denominator.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T20:12:01.103507+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "CONTEXP02-WHOLE-SO02",
+        "ledger": "SO",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+        "subjects": "Raster contributor/cover prose and creator backstory access",
+        "native_routes": "IMG022/023;U027",
+        "observation": "Illustrator reaction, biographies and blurb are actually read, including an enlarged biography check. The author identifies the prior bonus creature and acknowledges the access gap.",
+        "implication": "Keep creator/source-context claims separate from fictional witnesses and a new full reading of the earlier bonus.",
+        "authority_and_adverse_limit": "No adaptation or external-source admission, omniscient character identity, or promised peaceful future treated as performed event.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T20:12:01.103507+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "CONTEXP02-WHOLE-DE01",
+        "ledger": "DE",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+        "subjects": "Responsibility and incomplete settlement",
+        "native_routes": "U020P0435–0577;U023P0068–0104;U026P0041–0078",
+        "observation": "Compensation is offered but not paid, reprimands are reported, resources are restored at different stages, and the family loan bypasses its owner. Aqua’s other problem remains unspecified.",
+        "implication": "Record actual outcomes separately from next-step obligations.",
+        "authority_and_adverse_limit": "No completed return to Iris, forgiveness, marriage or future adventure from anticipated words.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T20:12:01.103507+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "CONTEXP02-WHOLE-DE02",
+        "ledger": "DE",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+        "subjects": "Program boundary and unchanged historical authority",
+        "native_routes": "Wholeeditionreceipt;prebodycontext;fourfrozenholdouts",
+        "observation": "This is the thirteenth whole supplemental candidate after twelve closed editions; the nineteen-book total is not a narrative percentage. Six more prose books, main excluded-component programs and Stage D/syntheses remain.",
+        "implication": "Publish a coherent increment with every required actual-source gate before MASK admission.",
+        "authority_and_adverse_limit": "No revised R1, score or future blank, and no whole-program completion claim; selected samples are not censuses.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T20:12:01.103507+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "CONTEXP02-WHOLE-PV01",
+        "ledger": "PV",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+        "subjects": "Megumin R1-M01 informed CONTEXP02 comparison",
+        "native_routes": "KONOSUBA_CONTEXP_V02_EXPLORATORY_LOCAL_ASSESSMENTS.json; U013P0056–0070 initiates indoor chant after insults despite guild risk. U018P0360–0366 responds to a perceived clan challenge during the enemy explanation. U020P0087–0124 knowingly disrupts Yunyun’s wanted novice membership. U023P0029–0056 reacts with real fear to daily art deprivation; P0330–0338 chants at the liger’s alleged contempt. U026P0003–0005 answers the art-only-person taunt.",
+        "observation": "REAL_PRIDE_AND_ART_DEPRIVATION_REACTION_WITHOUT_FULL_COMPETITIVE_ART_CHALLENGE_ORDINARY_COST_CONJUNCTION. Retain descriptive identity activation and actual ordinary-cost disregard, while distinguishing chosen-art legitimacy from rank or generic contempt.",
+        "implication": "No new prospective C/P/F score. Identity sensitivity and costly pride remain; conditional art-priority transfer is still not fully isolated. Actual specific care and deliberate restraint constrain an invariant always-art-first account.",
+        "authority_and_adverse_limit": "The enemy explicitly mentions surviving Explosion atU018P0360, but does not denigrate, replace or imitate it as her chosen art; Megumin herself appraises a clan challenge. Liger contempt is a third-party appraisal, not an explicit art challenge. Kazuma’s suppression threatens access, with no independently available competitive display under the resulting depletion. Aqua’s reduction attacks her total worth, while she is depleted. Those differences are semantic trigger limits, not a demand for a formal challenge phrase. No formal warning, physical injury, specific rival, monetary floor or pure motive is imposed. Real pre-known company costs and attempts remain substantive even where the exact specialty challenge is absent. Final deliberate mercy is not a cost-only compromise to an independently received art-denigration challenge.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T20:12:01.103507+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "CONTEXP02-WHOLE-PV02",
+        "ledger": "PV",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+        "subjects": "Megumin R1-M02 informed CONTEXP02 comparison",
+        "native_routes": "KONOSUBA_CONTEXP_V02_EXPLORATORY_LOCAL_ASSESSMENTS.json; U016P0374–0385 acknowledges one-cast limitation and adopts investigation plus cleric supervision. U020P0542–0566 acknowledges directing is burdensome, combat specialization cannot recover the necklace, and Kazuma’s skills are needed. U023P0027 explicitly acknowledges his burden; U026P0045–0053 locates her belonging in this particular party.",
+        "observation": "OWNED_COORDINATION_LIMIT_AND_ALTERNATE_WORK_WITHOUT_NEW_SELF_ACCEPTED_COSTLY_BUILD_ALTERNATIVE_CONJUNCTION. Add specific role adoption and owned need for tracking/direction; preserve the earlier real alternative/grief history unchanged.",
+        "implication": "Qualified descriptive support for role flexibility and belonging concern; not a new full no-conflict contrary or permanent rebuild. The actual leader-replacement offer by Yunyun is ignored, not falsely recorded as a performed role handoff.",
+        "authority_and_adverse_limit": "These are actual acknowledgments and useful roles, not mere outside criticism. The investigation role is feasible but not shown to require sacrificing the cherished art; the recovery problem is a particular missing skill bundle and she recruits a provider. Kazuma’s imposed DrainTouch reduces contribution but is not her independent acceptance of a costly alternative build. The conjunction of substantial self-accepted build-caused loss and a feasible art-costly alternative is not independently fixed anew. No unused-point, immediate skill purchase, permanent rebuild or pure-motive floor. EXP03’s real future-leveling offer, instant refusal, belonging grief and role search remain meaningful evidence and are not erased by later pleasant accommodation. Do not infer acceptance solely from later grief or force every useful task change into a build dilemma.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T20:12:01.103507+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "CONTEXP02-WHOLE-PV03",
+        "ledger": "PV",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+        "subjects": "Megumin R1-M03 informed CONTEXP02 comparison",
+        "native_routes": "KONOSUBA_CONTEXP_V02_EXPLORATORY_LOCAL_ASSESSMENTS.json; BeforeC1fire U013P0462/0469 Yunyun has COMPLETED Teleport chanting and remains ready; Iris is beside Megumin and explicitly accepts shield/slime/Claire costP0465. Actual castP0478, later cardU020P0068–0085 confirms KingToad kill. U018P0348–0366 has actual ice imprisonment before the finishing cast. U023P0359–0366 restores actual mana; P0393–0398 retrieves necklace and creates some distance. Final trajectoryP0412 hits nest, andU026P0034–0040 explicitly identifies deliberate mercy.",
+        "observation": "READY_TELEPORT_AND_ACCEPTED_SHIELD_IMPROVE_PRIOR_PREPARATION_FINAL_APPARENT_MISS_IS_CHOSEN_MERCY. Increase evidence for concrete provider preparation without treating an unknown all-friendly geometry as known or the later deliberate target change as technique failure.",
+        "implication": "Prepared components are substantially clearer and narrow destructive capacity remains supported. Whole-operation safety remains specifically qualified; no fully prepared own-technique failure or new safety-confirmation score is manufactured.",
+        "authority_and_adverse_limit": "C1must not inherit CONTEXP01’s qualified-exit reason: real prior exit and shield are supplied, without need for new formal permission or numeric-radius floor. Complete independent separation/control for every friendly including client is not mapped in that short setup; the friendly shield is positive evidence, not ignored. C3fatigue and unannounced cast, C4near-capital warning before cover fire, and final predicted not-too-bad harm lack a complete safe-operation guard. Final spared animal is intended, not an ordinary aim miss. Assess adopted goal as well as capacity: nonlethal tail-tip job is not a job that Explosion can satisfy by killing. Yunyun’s hit-and-regeneration/resistance and actual dodged cut are different events. Actual mana restoration/recovery providers belong to their actors. No final success backdating or invented hidden bond rescues an execution failure; the deliberate change has her own explicit source evidence.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T20:12:01.103507+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "CONTEXP02-WHOLE-PV04",
+        "ledger": "PV",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+        "subjects": "Megumin R1-M04 informed CONTEXP02 comparison",
+        "native_routes": "KONOSUBA_CONTEXP_V02_EXPLORATORY_LOCAL_ASSESSMENTS.json; U020P0357–0370 argues Iris safety; U018P0418–0430 protects Aqua dignity. Most strongly, Barton’s goji preference cueU023P0402 is heard before the actual off-target fireP0406–0412; Megumin’s ownU026P0034–0040 says she deliberately spared the animal because she recalled a prior bonded herbivorous beginner killer she helped escape.",
+        "observation": "REAL_BOND_CUE_INHIBITS_ANIMAL_KILL_BUT_NO_ADOPTED_RECOGNIZED_BONDED_ACTUAL_PERSON_TARGET. Keep the strong descriptive mercy finding and its cue timing while preserving the actual-person predicate and separate aftermath branch.",
+        "implication": "Strong expanded constraint on universal mercilessness and on Kazuma’s local prediction. No new M04 full-branch score, invented human-target equivalence or completed negative aftermath.",
+        "authority_and_adverse_limit": "At the decisive moment she recalls a meaningful animal bond; she only thinks the present animal resembles that companion, not that she has fully recognized the same target. The creator later confirms identity atU027P0005–0009 for readers. This is valuable bond-sensitive restraint, but neither an actual person nor known same-person opponent. Conditional threats against clerics and friends as collateral are distinct. No known bonded actual person is adopted as a decisive-harm target here; aftermath of completed bonded-person harm is therefore also not tested. Do not hide the mercy merely because the narrower model does not score it, or install afterword identity in her pre-action state.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T20:12:01.103507+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "CONTEXP02-WHOLE-PV05",
+        "ledger": "PV",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+        "subjects": "Megumin R1-M05 informed CONTEXP02 comparison",
+        "native_routes": "KONOSUBA_CONTEXP_V02_EXPLORATORY_LOCAL_ASSESSMENTS.json; Rain clears byU016P0034–0041 after the C1instrumental cast. Later actual casts are U018P0365, U020P0497 andU023P0406; available later days are genuine opportunities, not excluded by a same-day condition. C4P0475 explicitly says today’s cast is unused. Final national necklace is recoveredP0395 before fireP0406, so the literal initial retrieval goal has weakened. U026P0021 describes pleasant depletion after shared adventure andP0060 requests another outing.",
+        "observation": "RECURRING_DESIRE_AND_POST_RECOVERY_FIRE_WITH_INDEPENDENT_GOALS_AND_IMPOSED_RESTRAINT_CAUSALLY_QUALIFIED. Retain real next opportunities across days and actual continuation after necklace recovery, while exposing reward causation and new purpose separately.",
+        "implication": "Descriptive continuation opportunities and one actual post-retrieval cast remain visible; reward-only drift and complete safety are unresolved. No new accuracy score or universal compulsion; apparent stopping under imposed depletion does not falsify desire.",
+        "authority_and_adverse_limit": "C3has an independently supplied hostile dangerous creature and a clan appraisal, C4has a new explicitly authored conservation/client cover purpose before casting, and final has an armed hostile animal, unrecovered family heirloom and then an explicitly received mercy cue; these are not goals invented merely because fire continues. Continuing desired shared adventure is not by itself desired extra Explosion. Earlier no-casts under physical capture/DrainTouch or empty mana are external limitation, not voluntary willing-stop cases. No mission-only, same-day or permanent-repeat floor. All real resources, prior gratification, goal changes, choices and rival purposes remain. Do not treat the C4lie about uncontrollable Explosion urge as truthful evidence of compulsion. There is no clean second same-day use because supplied replenishment only restores the earlier imposed reduction.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T20:12:01.103507+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "CONTEXP02-WHOLE-PV06",
+        "ledger": "PV",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+        "subjects": "Megumin R1-M06 informed CONTEXP02 comparison",
+        "native_routes": "KONOSUBA_CONTEXP_V02_EXPLORATORY_LOCAL_ASSESSMENTS.json; C1U013P0028 supplies recent chieftain-trial return; the retained accepted MAIN14context places this after the V12negotiated stage. U020P0007–0029 actually shows waking/water and a misleading later retelling. U023P0035–0056 uses affection and anything rhetoric, actual Bind/DrainTouch and explicit no-sexual-request; U026P0057–0062 has a carry, gratitude, declined future outing and reminder of an unspecified promise.",
+        "observation": "KNOWN_LATER_RELATIONSHIP_STAGE_NO_PERFORMED_CHANGED_INTIMATE_STEP_TO_SCORE. Replace inherited early or uncertain chronology with the actual posttrial lower bound; distinguish local agency facts from the unchanged intimacy forecast.",
+        "implication": "No new behavioral C/P/F score. Actual later affection/companion reliance, imposed restraint and particular privacy limits are retained without either inventing intimacy or certifying boundary-respecting conduct in an unperformed changed step.",
+        "authority_and_adverse_limit": "There is no newly performed kiss/sex or other particular changed intimate step supplied here. The anything promise under coercive resource pressure is not freely informed agreement to a specific sexual act; no such act follows it. Bath entry conditions and clerical contact objections are real recipient boundaries but involve different counterparts/actions from the negotiated Kazuma intimacy contract. Do not reuse EXP03early-Axel or CONTEXP01date uncertainty as the NT reason. Later chronology is checked, not a behavior confirmation. Unknown exact persistence of every prior boundary is not proof none existed; current roleplay agreement is limited to the stated occasion and cannot authorize a later act.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T20:12:01.103507+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "CONTEXP02-WHOLE-PV07",
+        "ledger": "PV",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+        "subjects": "Megumin R1-M07 informed CONTEXP02 comparison",
+        "native_routes": "KONOSUBA_CONTEXP_V02_EXPLORATORY_LOCAL_ASSESSMENTS.json; U016P0481–0485 offers flattering false Axis-mastermind attribution and Megumin refuses, insisting on her actual black-creature observation. U018P0426 explicitly protects Aqua’s honor by withholding crying. U020P0475–0499 authors a false self-incriminating rare-beast kill account; Iris offers royal witnessP0480 and overrides card objectionP0484–0486; Megumin hears and accepts before actual cover cast. Police/castle costs followP0511–0546.",
+        "observation": "DECLINED_FALSE_FLATTERY_AND_REAL_OWN_BLAME_WITH_ACCEPTED_ROYAL_LIE_OVERLAP_QUALIFIED. Add strong selective other-protection and own-face-cost behavior, while preserving both accepted dishonesty and exact directional trigger limits.",
+        "implication": "Favorable descriptive refusal and costly protection plus adverse dishonesty/other-face harms are accepted together. Full unchanged M-image-offer comparability remains qualified rather than assigned an improved score or silently excluded. StageDmust retain this structural-overlap case.",
+        "authority_and_adverse_limit": "C2is a real offered flattering false version involving an abused kind priest, and refusal is favorable social behavior. It is not clearly an offer specifically to protect threatened Megumin image rather than the clerics retrospectively recruiting her into their own clever-sect story; Zesta’s valued-relation status is also not established, though Cecily corroborates. C4overlaps the contrary mechanism: valued Iris offers an honesty-costly false account, Megumin understands and accepts despite an honest failure-admission alternative. Yet the plan actively ascribes irresponsible rare-species killing to Megumin and protects client/conservation while concealing a lost national asset; it also grants grand Explosion prestige, a real self-dramatizing rival. It is not unambiguously an offered preservation of her impressive image at another’s transparent humiliation. No particular relative, audience or formal-phrase floor. Do not say no near candidate exists, ignore the accepted royal lie, assume pure altruism, or let favorable own-blame erase public friend embarrassment and coercion. Distinguish who authors/offers, whose image is protected, whose honesty is spent and what alternative is feasible.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T20:12:01.103507+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    }
+  ],
+  "full17responsibility_report": "KONOSUBA_CONTEXP_V02_DEEP_READING.md",
+  "frozen_models_scores_and_original14blanks_changed": false,
+  "prediction_storage_continuation": "Existing linked Continuation01 receives PV appends; original PV ledger remains exact.",
+  "source_plane_precision": "Main2573P/electronic bonus57P/nonfiction73P; posttrial chronology, K/M/K/M narration, actual prepared exit, received danger/mercy cues and creator-only evolved identity."
+}

@@ -1,0 +1,275 @@
+{
+  "schema": "KONOSUBA_WHOLE_LOCAL_TEXT_EPUB_ACTUAL_UNCODED_READING_SEAL_V1",
+  "source_id": "YORI-03",
+  "sealed_utc": "2026-10-19T02:05:31.362330+00:00",
+  "native_filename": "Konosuba - Short Stories - Yorimichi 3.epub",
+  "native_bytes": 8547808,
+  "native_sha256": "f60479bfe10ed8c7c0d36f0ad618dc3d1e17e65a167fa11b9519c34bf5042c0d",
+  "fresh_native_ZIP_CRC": "PASS",
+  "actual_complete_textual_units": 26,
+  "actual_paragraph_slots": 3060,
+  "actual_unique_native_images_viewed": 26,
+  "unit_interval_verification": [
+    {
+      "component_id": "YORI-03-U001",
+      "native_member": "item/xhtml/p-cover.xhtml",
+      "sha256": "ed945f7e29bacb95329c106d5f38554901aa5ce6a2e709aeb3929229f10c6713",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-03-U002",
+      "native_member": "item/xhtml/p-fmatter-001.xhtml",
+      "sha256": "351d19f11dfbc2879f92079c8c83fa5979a759f2f2133294c20f8b7fca57eddd",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-03-U003",
+      "native_member": "item/xhtml/p-fmatter-002.xhtml",
+      "sha256": "4dac7a363fb8e90cfa1d9d04bb4bfd82230d2f72c525ab69395762620ef99a11",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-03-U004",
+      "native_member": "item/xhtml/p-fmatter-003.xhtml",
+      "sha256": "7688ba968fae9251d3686df7821aee22553d36a73bf98927619aee78026673cb",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-03-U005",
+      "native_member": "item/xhtml/p-fmatter-004.xhtml",
+      "sha256": "bc66e42f7a60a598f934258a3464fb898fba9cc275cdb9f99eb933a800d19721",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-03-U006",
+      "native_member": "item/xhtml/p-fmatter-005.xhtml",
+      "sha256": "3c749b25ddbf443cb1640ca8c771a5f5ab7830ba2d78596e9dca1a72e433cb10",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-03-U007",
+      "native_member": "item/xhtml/p-titlepage.xhtml",
+      "sha256": "8484ec9e9418fb538809421fd68a0aa3b367875140bcbb8a292f8ef4b8b3309e",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-03-U008",
+      "native_member": "item/xhtml/p-caution.xhtml",
+      "sha256": "49c6724be5fe694366b3fb9b9f34b5b4d575a047ee916c7093e807669a02ec67",
+      "paragraph_slots_actually_received": 4,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-03-U009",
+      "native_member": "item/xhtml/p-toc-001.xhtml",
+      "sha256": "27208dbf58cb1e644d1836a80f244bb8a33b1a44584fc4eb3e76576ecb57248e",
+      "paragraph_slots_actually_received": 9,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-03-U010",
+      "native_member": "item/xhtml/p-001.xhtml",
+      "sha256": "b5d3d65038f1b5ff7d095f8c55443b116e7142b97457da30f57ee9a829201a3c",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-03-U011",
+      "native_member": "item/xhtml/p-002.xhtml",
+      "sha256": "e0ff0925cb1692714448f0477d0b739381d9884ec96f4fd8c6501b6b6974f1c2",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-03-U012",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "sha256": "b6a5782ef40e34559ce8e97554e1d18e40ebc53317db6ea7007a6625f4e52e67",
+      "paragraph_slots_actually_received": 517,
+      "intervals": 4,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-03-U013",
+      "native_member": "item/xhtml/p-004.xhtml",
+      "sha256": "e4e08d9a639367428e300f3db14b83ba4371f22cbf8fc18b4bbf2bd25bcedff1",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-03-U014",
+      "native_member": "item/xhtml/p-005.xhtml",
+      "sha256": "1c9b56c0b569fc58ca8fb6b3e39a6be975f2e6f4efa15c0c9b596e7309eaf50a",
+      "paragraph_slots_actually_received": 629,
+      "intervals": 5,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-03-U015",
+      "native_member": "item/xhtml/p-006.xhtml",
+      "sha256": "d2361f0e9ebfecf905843a694b9ab77e84137cefce685d131677914cbe23f3a1",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-03-U016",
+      "native_member": "item/xhtml/p-007.xhtml",
+      "sha256": "3eed560af29844fcb7e28b0183e2c516e2b3753f48291b5b73d38d5f294c207e",
+      "paragraph_slots_actually_received": 517,
+      "intervals": 4,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-03-U017",
+      "native_member": "item/xhtml/p-008.xhtml",
+      "sha256": "2b509b0dae5ace881b8156af5be2f97715eb61e3ab73304cc3ff482d8118e68b",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-03-U018",
+      "native_member": "item/xhtml/p-009.xhtml",
+      "sha256": "7ae6e46c92de1c52d9e71ecdffbcb40db8aa126fbb612b479bec218fd54dea0e",
+      "paragraph_slots_actually_received": 461,
+      "intervals": 4,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-03-U019",
+      "native_member": "item/xhtml/p-010.xhtml",
+      "sha256": "ab269dfb8bbb906a00780550c8c0cf96527698893adbf53a3f08ea3a9910b57a",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-03-U020",
+      "native_member": "item/xhtml/p-011.xhtml",
+      "sha256": "68468fc26f8799e2c66a9d428659f75e82c5fbbea1018d520c29585c88105685",
+      "paragraph_slots_actually_received": 882,
+      "intervals": 7,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-03-U021",
+      "native_member": "item/xhtml/p-012.xhtml",
+      "sha256": "e00792962e7dd0e9e57ed08a61468ac4638983cad38a560028ea62182acb8ce7",
+      "paragraph_slots_actually_received": 21,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-03-U022",
+      "native_member": "item/xhtml/p-allcover-001.xhtml",
+      "sha256": "df30ca1ad7e59ade6c287e68b9ac15b8952d80f3d2c4c6356424f5aded5c99e2",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-03-U023",
+      "native_member": "item/xhtml/p-colophon.xhtml",
+      "sha256": "f74015eeb44f409d1ecb768a09f1044bb6c77c9eb8c9ac4ed27a588e2788c261",
+      "paragraph_slots_actually_received": 17,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-03-U024",
+      "native_member": "item/xhtml/p-colophon2.xhtml",
+      "sha256": "3ea86ab29bb886983dd78520a96af5177feb66c5cb5fc9d84bbf7bf678add614",
+      "paragraph_slots_actually_received": 3,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-03-U025",
+      "native_member": "item/xhtml/p-bookwalker.xhtml",
+      "sha256": "65719179002ebb0468c3ba14986dda2049ad4c6a087daba3350b8c2189eeb97d",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-03-U026",
+      "native_member": "item/navigation-documents.xhtml",
+      "sha256": "1ca3942d3cf80c4d9dfd388a08c7ea4495552c4af929efe94098f2253026ed43",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    }
+  ],
+  "immutable_uncoded_pins": [
+    {
+      "file": "NATIVE_ADMISSION.json",
+      "bytes": 29298,
+      "sha256": "f68b6fdbf751bffe1463ab4e47722519395e6c01e0a363598e71f49f5242cf30"
+    },
+    {
+      "file": "ROOT_PRE_BODY_PREPARATION_SEAL.json",
+      "bytes": 149181,
+      "sha256": "8b7027dd42107ab824e288b6fc9ffaec2808d40490d4c9c49837c8a55f3a3cf7"
+    },
+    {
+      "file": "ACTUAL_SOURCE_FIRST_UNCODED_NOTES.jsonl",
+      "bytes": 162415,
+      "sha256": "ab5a5282999e63ee69994aa185c7ad2e3a19f3bae90df21fc23e9186d31435c9"
+    },
+    {
+      "file": "ACTUAL_IMAGE_VIEW_UNCODED_NOTES.jsonl",
+      "bytes": 22308,
+      "sha256": "3ddee3aecacd2c01a3f5bd254ebf36fddfdf9b59f12b62ecb21871e6cd53eb08"
+    },
+    {
+      "file": "UNCODED_IMAGE_SCOPE_CORRECTIONS.jsonl",
+      "bytes": 1725,
+      "sha256": "8af2cdcd0878b975cc38b39ba480f5e5b4bba0e2f088ca291337e1d39a17ad45"
+    }
+  ],
+  "all_source_first_formal_outcomes_still_unassigned": true,
+  "reader": "Continuing informed root AI; same author and receiver, no independent review, pristine blindness, native-human or audio claim.",
+  "scope": "All supplied textual bodies, ruby readings displayed inline, native nonparagraph residuals, front/end/navigation, electronic bonus, author and contributor paratext, and every image received actual separate reading/view records. Exact layout inspection of textual XHTML is not a separate print-page facsimile claim. Structural extraction alone received no reading credit.",
+  "corrections_to_resolve_in_separate_current_derivatives": [
+    "Actual original-resolution IMG009 re-view and IMG004 full wrap confirm design credit モンマ蚕＋松浦リョウスケ（ムシカゴグラフィクス）. Earlier 佐浦 transcription in original uncoded note is corrected to 松浦 in current derivatives, original note preserved.",
+    "All five long fiction bodies (3006 paragraph slots) plus 54 front/afterword/colophon/rights paragraph slots =3060 actually read; 26 textual units/26 distinct images actually viewed. IMG016 is handwritten diary illustration with date/signature, no completed assault inferred; IMG021 includes illustrated afterword thought/label/snore lettering and is a separately examined narrative/commentary image plane. No separate electronic bonus story, external QR material, adaptation, audio or pristine/independent/native-human exposure is present or credited. Generic seal electronic-bonus phrase means scope check found none, not an admitted extra story. Author afterword explicitly says all-new stories with fuzzy post-MAIN07 chronology. Earlier first-front image design appearance is resolved by later story1 physical horns, preserving both interval-time knowledge records."
+  ],
+  "remaining": "Formal L/H and voice coding, natural-order question assessment, seventeen-responsibility report, component dispositions, ledger decisions, acceptance, and full publication gate; no whole-program completion claim.",
+  "pre_seal_actual_image_scope_corrections_preserving_originals": [
+    {
+      "schema": "KONOSUBA_UNCODED_ACTUAL_SCOPE_QUALIFICATION_PRESERVING_ORIGINALS_V1",
+      "source_id": "YORI-03",
+      "image_id": "YORI-03-IMG009 / IMG004",
+      "recorded_after_actual_model_view_utc": "2026-10-19T02:05:26.111909+00:00",
+      "formal_outcomes_assigned": false,
+      "current_scope": "Actual original-resolution IMG009 re-view and IMG004 full wrap confirm design credit モンマ蚕＋松浦リョウスケ（ムシカゴグラフィクス）. Earlier 佐浦 transcription in original uncoded note is corrected to 松浦 in current derivatives, original note preserved."
+    },
+    {
+      "schema": "KONOSUBA_UNCODED_ACTUAL_SCOPE_QUALIFICATION_PRESERVING_ORIGINALS_V1",
+      "source_id": "YORI-03",
+      "image_id": "YORI-03-IMG021 / IMG016 / all-native-scope",
+      "recorded_after_actual_model_view_utc": "2026-10-19T02:05:26.111909+00:00",
+      "formal_outcomes_assigned": false,
+      "current_scope": "All five long fiction bodies (3006 paragraph slots) plus 54 front/afterword/colophon/rights paragraph slots =3060 actually read; 26 textual units/26 distinct images actually viewed. IMG016 is handwritten diary illustration with date/signature, no completed assault inferred; IMG021 includes illustrated afterword thought/label/snore lettering and is a separately examined narrative/commentary image plane. No separate electronic bonus story, external QR material, adaptation, audio or pristine/independent/native-human exposure is present or credited. Generic seal electronic-bonus phrase means scope check found none, not an admitted extra story. Author afterword explicitly says all-new stories with fuzzy post-MAIN07 chronology. Earlier first-front image design appearance is resolved by later story1 physical horns, preserving both interval-time knowledge records."
+    }
+  ]
+}
