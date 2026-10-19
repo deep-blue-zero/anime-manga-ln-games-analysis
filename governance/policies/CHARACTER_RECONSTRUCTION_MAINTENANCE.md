@@ -33,7 +33,7 @@ The schema vocabulary is unchanged: `UNASSESSED`, `CANDIDATE`, `REVIEWED`, `STAL
 - `STALE` records that the evaluator has reconciled an assessment that no longer applies; it keeps its historical basis, claims, and digest and states the reason.
 - `SUPERSEDED` links a predecessor to a successor that replaces it.
 
-A published record is never deleted and its claim payload never changes. Only `assessment_status`, `stale_reason`, and `superseded_by_assessment_id` may change, and only along `CANDIDATE -> REVIEWED | STALE | SUPERSEDED`, `REVIEWED -> STALE | SUPERSEDED`, and `STALE -> SUPERSEDED`. Any change to scope, evidence, grades, limits, method, or tier is a new assessment ID whose `supersedes_assessment_id` names its predecessor. Registry lines are ordered by ASCII `assessment_id`.
+A record first enters the registry as `CANDIDATE`, and only for an `INCLUDED` discovery subject; historical statuses arise only from validated transitions. A published record is never deleted and its claim payload never changes. Only `assessment_status`, `stale_reason`, and `superseded_by_assessment_id` may change, and only along `CANDIDATE -> REVIEWED | STALE | SUPERSEDED`, `REVIEWED -> STALE | SUPERSEDED`, and `STALE -> SUPERSEDED`. Any change to scope, evidence, grades, limits, method, or tier is a new assessment ID whose `supersedes_assessment_id` names its predecessor. Registry lines are ordered by ASCII `assessment_id`.
 
 Overall A-E tiers are evidence-grounded human judgments of the whole evidence set. They are never computed from, averaged over, or capped by dimension grades, and no tier is assigned to make a record schema-valid.
 

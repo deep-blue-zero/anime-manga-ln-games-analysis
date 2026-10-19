@@ -113,6 +113,7 @@ def discovery_record(
     continuity_id: str | None = "anime",
     subject_kind: str = "SINGLE_CONTINUITY",
     evidence_path: str | None = EVIDENCE_PATH,
+    curation_status: str = "CANDIDATE",
 ) -> dict[str, object]:
     evidence: list[dict[str, object]] = []
     if evidence_path is not None:
@@ -145,8 +146,8 @@ def discovery_record(
         "evidence": evidence,
         "analytical_coverage": [],
         "materialization_status": "PRESENT_REVIEWED" if evidence else "NOT_PRESENT",
-        "curation_status": "CANDIDATE",
-        "inclusion_basis": None,
+        "curation_status": curation_status,
+        "inclusion_basis": "DEDICATED" if curation_status == "INCLUDED" else None,
         "notes": None,
     }
 
@@ -433,7 +434,7 @@ class GitRepositoryFixture(unittest.TestCase):
         artifact = self.repository / Path(EVIDENCE_PATH)
         artifact.parent.mkdir(parents=True)
         artifact.write_bytes(authority_artifact())
-        self.record = discovery_record()
+        self.record = discovery_record(curation_status="INCLUDED")
         registry = self.repository / "characters" / "registry.jsonl"
         registry.parent.mkdir(parents=True)
         registry.write_text(
@@ -952,6 +953,7 @@ class EffectiveCurrentnessTests(GitRepositoryFixture):
             ("removed", [], "SUBJECT_ABSENT"),
             ("membership", [expanded], "EVIDENCE_MEMBERSHIP_CHANGED"),
             ("curation", [excluded], "SUBJECT_CURATION_CHANGED"),
+            ("not-included", [excluded], "SUBJECT_NOT_INCLUDED"),
         )
         for label, records, reason in cases:
             with self.subTest(label=label):
@@ -959,6 +961,25 @@ class EffectiveCurrentnessTests(GitRepositoryFixture):
                 self.assertEqual(result.errors, [])
                 self.assertIn(reason, result.currentness[0].reasons)
                 self.assertFalse(result.currentness[0].effectively_current)
+
+    def test_current_claims_require_an_included_basis_subject(self) -> None:
+        candidate_subject = discovery_record()
+        self._write_registry([candidate_subject])
+        basis = self._commit("subject is only a discovery candidate", "characters/registry.jsonl")
+        snapshot = GitSnapshot.from_commit(self.repository, basis)
+        entries = resolve_evidence_entries([EVIDENCE_REF], [candidate_subject], snapshot)
+        digest, _ = evidence_set_digest(entries)
+        for item in (candidate(basis, digest), assessment(basis, digest)):
+            with self.subTest(status=item["assessment_status"]):
+                result = evaluate_reconstruction_assessments([item], self.repository)
+                self.assertTrue(
+                    any("requires an INCLUDED basis discovery subject" in error for error in result.errors),
+                    result.errors,
+                )
+        historical = assessment(basis, digest)
+        historical["assessment_status"] = "STALE"
+        historical["stale_reason"] = "The subject was never enrolled."
+        self.assertEqual(evaluate_reconstruction_assessments([historical], self.repository).errors, [])
 
     def test_unreferenced_discovery_metadata_edit_is_not_stale(self) -> None:
         relabeled = copy.deepcopy(self.record)
@@ -1048,6 +1069,20 @@ class RegistryContractTests(unittest.TestCase):
         edited["stale_reason"] = "Rewritten reason."
         _touched, errors = reconstruction_registry_changes([stale], [edited])
         self.assertTrue(any("without a status transition" in error for error in errors), errors)
+
+    def test_new_records_enter_only_as_candidates(self) -> None:
+        touched, errors = reconstruction_registry_changes([], [self._record("alice-v1")])
+        self.assertEqual((touched, errors), ({"alice-v1"}, []))
+        for status in ("REVIEWED", "STALE", "SUPERSEDED"):
+            with self.subTest(status=status):
+                _touched, errors = reconstruction_registry_changes([], [self._record("alice-v1", status)])
+                self.assertTrue(any("must enter as CANDIDATE" in error for error in errors), errors)
+        old = self._record("alice-v0", "SUPERSEDED")
+        old["superseded_by_assessment_id"] = "alice-v1"
+        new = self._record("alice-v1")
+        new["supersedes_assessment_id"] = "alice-v0"
+        _touched, errors = reconstruction_registry_changes([], [old, new])
+        self.assertTrue(any("must enter as CANDIDATE, not SUPERSEDED: alice-v0" in error for error in errors), errors)
 
     def test_publication_gate_requires_owner_calibration_record_for_routine(self) -> None:
         def snapshot(document: object, extra: dict[str, bytes] | None = None) -> GitSnapshot:
@@ -1342,6 +1377,19 @@ class ProductionRepositoryTests(GitRepositoryFixture):
         self._publish([stale])
         self._commit_outputs("record staleness")
         self.assertEqual(self._validate(), ([], []))
+
+    def test_main_integration_audit_compares_with_the_pre_push_parent(self) -> None:
+        self._revise_evidence_on_main()
+        self._publish([candidate(self.commit, self.digest)])
+        self._commit_outputs("integrated stale candidate")
+        self._advance_main()
+        errors, _ = self._validate()
+        self.assertTrue(any("not effectively current" in error for error in errors), errors)
+        self._publish([])
+        self._commit_outputs("integrated deletion")
+        self._advance_main()
+        errors, _ = self._validate()
+        self.assertTrue(any("was removed" in error for error in errors), errors)
 
     def test_published_history_cannot_be_deleted(self) -> None:
         self._publish([candidate(self.commit, self.digest)])

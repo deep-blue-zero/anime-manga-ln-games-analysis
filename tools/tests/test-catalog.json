@@ -4011,6 +4011,39 @@
         "governance/repository-controls/*"
       ],
       "purpose": "Validate the live production registry, generated index and publication gate in the candidate snapshot."
+    },
+    "test_reconstruction_capability.EffectiveCurrentnessTests.test_current_claims_require_an_included_basis_subject": {
+      "group": "reconstruction_capability",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Reject CANDIDATE and REVIEWED claims whose basis discovery subject is not INCLUDED while historical records stay valid."
+    },
+    "test_reconstruction_capability.RegistryContractTests.test_new_records_enter_only_as_candidates": {
+      "group": "reconstruction_capability",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Require every newly published assessment, including a supersession pair, to enter as CANDIDATE."
+    },
+    "test_reconstruction_capability.ProductionRepositoryTests.test_main_integration_audit_compares_with_the_pre_push_parent": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Check an exact main integration commit against its pre-push parent so stale additions and deletions are detected."
     }
   }
 }

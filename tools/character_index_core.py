@@ -1390,6 +1390,8 @@ def assessment_currentness_reasons(
         reasons.add("SUBJECT_SCOPE_CHANGED")
     if comparison_record.get("curation_status") != basis_record.get("curation_status"):
         reasons.add("SUBJECT_CURATION_CHANGED")
+    if comparison_record.get("curation_status") != "INCLUDED":
+        reasons.add("SUBJECT_NOT_INCLUDED")
     if coverage_projection(comparison_record) != coverage_projection(basis_record):
         reasons.add("SUBJECT_COVERAGE_CHANGED")
     if reviewed_evidence_membership(comparison_record) != reviewed_evidence_membership(
@@ -1625,6 +1627,8 @@ def evaluate_reconstruction_assessments(
                 )
             if assessment.get("character_entity_id") != basis_record.get("character_entity_id"):
                 errors.append(f"{label}: character_entity_id differs from basis discovery record")
+            if status in CURRENT_CLAIM_STATUSES and basis_record.get("curation_status") != "INCLUDED":
+                errors.append(f"{label}: {status} requires an INCLUDED basis discovery subject")
             for field in ("continuity_id", "incarnation_id", "state_id"):
                 if scope.get(field) != basis_record.get(field):
                     errors.append(
@@ -1853,8 +1857,10 @@ def reconstruction_registry_changes(
 ) -> tuple[set[str], list[str]]:
     """Return touched assessment IDs and historical-preservation failures.
 
-    A published record is never deleted and its claim payload never changes.
-    Only the lifecycle fields may move along ``ASSESSMENT_TRANSITIONS``.
+    A record first enters as CANDIDATE, so historical statuses arise only from
+    validated transitions. A published record is never deleted and its claim
+    payload never changes. Only the lifecycle fields may move along
+    ``ASSESSMENT_TRANSITIONS``.
     """
 
     errors: list[str] = []
@@ -1875,6 +1881,11 @@ def reconstruction_registry_changes(
         previous = base.get(assessment_id)
         if previous is None:
             touched.add(assessment_id)
+            if record.get("assessment_status") != "CANDIDATE":
+                errors.append(
+                    f"a newly published assessment must enter as CANDIDATE, not "
+                    f"{record.get('assessment_status')}: {assessment_id}"
+                )
             continue
         if _frozen_claim_payload(previous) == _frozen_claim_payload(record) and all(
             previous.get(field) == record.get(field) for field in ASSESSMENT_LIFECYCLE_FIELDS

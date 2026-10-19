@@ -4139,13 +4139,27 @@ def _reconstruction_target_commit(root: Path, kind: str, commit: str | None) -> 
         return None
 
 
-def _reconstruction_integration_base(root: Path, target: str | None) -> str | None:
-    """Return the merge base with current main, the snapshot's integrated history."""
+def _reconstruction_integration_base(root: Path, target: str | None, kind: str) -> str | None:
+    """Return the published history the validated change is compared against.
+
+    For a branch this is the merge base with current main. An exact commit that
+    main already contains (the push audit of an integration, where the audit
+    fetches the updated main) is compared with its first parent, the pre-push
+    main of a linear history, so the integrated delta is still checked.
+    """
 
     main_commit = _run_closure_base_commit(root)
     if main_commit is None or target is None:
         return None
-    return run_git(root, "merge-base", target, main_commit).decode("ascii").strip()
+    base = run_git(root, "merge-base", target, main_commit).decode("ascii").strip()
+    if kind == "commit" and base == target:
+        try:
+            return run_git(root, "rev-parse", "--verify", "-q", f"{target}^1^{{commit}}").decode(
+                "ascii"
+            ).strip()
+        except DomainError:
+            return None
+    return base
 
 
 def _reconstruction_delta_paths(root: Path, kind: str, base: str, commit: str | None) -> set[str]:
@@ -4224,7 +4238,7 @@ def validate_reconstruction_domain(
             )
     target = _reconstruction_target_commit(root, kind, commit)
     try:
-        base = _reconstruction_integration_base(root, target)
+        base = _reconstruction_integration_base(root, target, kind)
     except DomainError as exc:
         return errors + [f"unable to determine the reconstruction integration base: {exc}"], notices
     if base is None and assessments:
