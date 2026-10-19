@@ -1463,3 +1463,12 @@ New24resources58P/37images actually read/viewed; accepted12principal members3417
 | ID | Subjects / native route | Observation | Implication | Limit |
 |---|---|---|---|---|
 | M05EX-LD01 | Kazuma/Aqua/Megumin/Darkness/Yunyun/Arue/chief/family/other stated actors; creator and hypothetical roles separately typed; U014P70-140;IMG012/013/017/023-024 | Keep document-induced urgency, disclosed fiction, ordinary company and proposed role behavior distinct from performed actions. | No global gullibility, prophecy fulfillment or compliant-service trait is inferred. | New image/document/paratext reception; known principal event audit only, zero new principal pass credit or independent trial. Exact old ledger prefix, forecasts and scores retained. |
+
+
+## Main 06 excluded-component received observations — 2026-10-19T10:06:54.861629+00:00
+
+New19resources69P/31images actually read/viewed; accepted11principal members3392P retained withzero newprincipal reading credit. Containing publication/full gate pending. [Reading](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V06_EXCLUDED_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V06_EXCLUDED_LEDGER_APPEND_DECISIONS.json), [comparisons](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V06_EXCLUDED_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [qualifications](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V06_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) control uptake. Same informed root; selected14premises/18fragments are not a census, independent experiment or new blind scores. Frozen66/72/fourscores/14originalDustblanks exact.
+
+| ID | Subjects / native route | Observation | Implication | Limit |
+|---|---|---|---|---|
+| M06EX-LD01 | Kazuma/Aqua/Megumin/Darkness/Iris/Chris-Eris/Claire/Rain; controlling mind, attributed mediation, staged and creator roles separately typed; IMG006/009/016/018;U012P423-426;U015P285-374/398-493;U019P143-194 | Iris's age-specific profile, ordinary company, explicit boundaries and farewell competition remain distinct from mediated rank speech and Kazuma controlling her body. | No generic compliant princess, adult settlement or ownership from affection; narrator/controlling mind must be bound. | New image/document/paratext reception; known principal event audit only, zero new principal pass credit or independent trial. Exact old ledger prefix, forecasts and scores retained. |

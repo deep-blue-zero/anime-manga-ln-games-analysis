@@ -1677,3 +1677,12 @@ New24resources58P/37images actually read/viewed; accepted12principal members3417
 | ID | Subjects / native route | Observation | Implication | Limit |
 |---|---|---|---|---|
 | M05EX-LD04 | Kazuma/Aqua/Megumin/Darkness/Yunyun/Arue/chief/family/other stated actors; creator and hypothetical roles separately typed; CURRENT_SELECTED_VOICE_REGISTER | 16short written fragments preserve the actual speaker/document/imagined-role/creator/promotional plane; whole selections areL1with native forms retained. | No forced Japanese-only dependence from ruby, names, titles, honorifics or repeated formulas; no acoustic/native-human claim. | New image/document/paratext reception; known principal event audit only, zero new principal pass credit or independent trial. Exact old ledger prefix, forecasts and scores retained. |
+
+
+## Main 06 excluded-component received observations — 2026-10-19T10:06:54.861629+00:00
+
+New19resources69P/31images actually read/viewed; accepted11principal members3392P retained withzero newprincipal reading credit. Containing publication/full gate pending. [Reading](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V06_EXCLUDED_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V06_EXCLUDED_LEDGER_APPEND_DECISIONS.json), [comparisons](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V06_EXCLUDED_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [qualifications](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V06_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) control uptake. Same informed root; selected14premises/18fragments are not a census, independent experiment or new blind scores. Frozen66/72/fourscores/14originalDustblanks exact.
+
+| ID | Subjects / native route | Observation | Implication | Limit |
+|---|---|---|---|---|
+| M06EX-LD04 | Kazuma/Aqua/Megumin/Darkness/Iris/Chris-Eris/Claire/Rain; controlling mind, attributed mediation, staged and creator roles separately typed; CURRENT_SELECTED_VOICE_REGISTER;U012P423-426 | 18short fragments preserve fourteen raster/fourcreator-text routes; Claire's mediated speech is not assigned directly to Iris. | Allwhole selectionsL1; no automatic Japanese-only dependence from honorific/title/repeated phrase and no acoustic/native-human claim. | New image/document/paratext reception; known principal event audit only, zero new principal pass credit or independent trial. Exact old ledger prefix, forecasts and scores retained. |

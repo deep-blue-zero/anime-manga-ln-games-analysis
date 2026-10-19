@@ -1034,3 +1034,12 @@ New24resources58P/37images actually read/viewed; accepted12principal members3417
 | ID | Subjects / native route | Observation | Implication | Limit |
 |---|---|---|---|---|
 | M05EX-LD08 | Kazuma/Aqua/Megumin/Darkness/Yunyun/Arue/chief/family/other stated actors; creator and hypothetical roles separately typed; U014P378-442;U017P175-199;U019P1-25;IMG018 | The orc sequence includes coercive danger and explicit resistance; the plant-monster decision retains moral conflict despite comic framing. | Comic tone supplies neither consent nor safety; attributed monster ecology and possible later casualties are not newly observed outcomes. | New image/document/paratext reception; known principal event audit only, zero new principal pass credit or independent trial. Exact old ledger prefix, forecasts and scores retained. |
+
+
+## Main 06 excluded-component received observations — 2026-10-19T10:06:54.861629+00:00
+
+New19resources69P/31images actually read/viewed; accepted11principal members3392P retained withzero newprincipal reading credit. Containing publication/full gate pending. [Reading](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V06_EXCLUDED_DEEP_READING.md), [all decisions](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V06_EXCLUDED_LEDGER_APPEND_DECISIONS.json), [comparisons](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V06_EXCLUDED_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [qualifications](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V06_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) control uptake. Same informed root; selected14premises/18fragments are not a census, independent experiment or new blind scores. Frozen66/72/fourscores/14originalDustblanks exact.
+
+| ID | Subjects / native route | Observation | Implication | Limit |
+|---|---|---|---|---|
+| M06EX-LD08 | Kazuma/Aqua/Megumin/Darkness/Iris/Chris-Eris/Claire/Rain; controlling mind, attributed mediation, staged and creator roles separately typed; U014P550-558;U015P309-312/349/398-493 | Chris's direct stop/objection and Iris's body boundaries remain operative despite familiar affection, comedy and subsequent cooperation. | No inferred consent or completed sexual/bathing act from a picture; same-root sensitive-content analysis stays non-graphic and age-appropriate. | New image/document/paratext reception; known principal event audit only, zero new principal pass credit or independent trial. Exact old ledger prefix, forecasts and scores retained. |
