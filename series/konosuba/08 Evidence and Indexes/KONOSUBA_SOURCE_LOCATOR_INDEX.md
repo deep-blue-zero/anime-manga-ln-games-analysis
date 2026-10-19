@@ -1628,3 +1628,35 @@ The [Yunyun index](KONOSUBA_YUNYUN_EVIDENCE_INDEX.md) routes18families with four
 | MAIN-12-U023 | text/part0021.html / 5 | ILLUSTRATION_AND_DESIGN_CREDITS;newprincipalcredit0 |
 | MAIN-12-U024 | text/part0022.html / 16 | COLOPHON_AND_IMPRINT;newprincipalcredit0 |
 | MAIN-12-U025 | text/part0023.html / 0 | BOOKWALKER_RETAILER_WRAPPER;newprincipalcredit0 |
+
+
+## MAIN-13 excluded-component accepted routes — 2026-10-19T18:16:36.685091+00:00
+
+[Register](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V13_EXCLUDED_COMPONENT_REGISTER.json), [reading](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V13_EXCLUDED_DEEP_READING.md), [voice](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V13_EXCLUDED_VOICE_REGISTER.md), [comparisons](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V13_EXCLUDED_EXPLORATORY_LOCAL_ASSESSMENTS.json) and [qualifications](../10%20Expanded%20Corpus/Main%20Edition%20Components/KONOSUBA_MAIN_V13_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) govern new/inherited boundaries. All17new textual resources129P and28unique native images actually received and uncoded-sealed. Seven accepted principal members2456P remain exact with zero new principal-pass credit. New60P electronic bonus『本物のマジックアイテム！』,22P creator afterword and47other wrapper/contents/credit slots. Cover/profile/montage/banners, illustrator staged comic and NEXT14 keep separate planes. Current2008retained base-textP across7units provide source-specific image/identity/transaction/agency/chronology precision; no fresh whole retained novel/ruby/residual/independent validation credit. Five retained units complete at current base-text scope, C2/C4 bounded. Counts are not a global narrative denominator. Selected16premises/43writtenfragments;31principal+8party individualcomparisons/fourtypeddiagnostics/seven Iris NT and seven Yunyun full-predicate NT rows. 39explicit informed comparisons:4narrowK01-K07-D02-E07supports/5partialK02-K03-K05-M01-E05/1E03ambiguous possible-adverse physical recovery omission/1E06boundary adjacency/28NT;4typeddiagnostics;7IrisNT/7YunyunNT preserve original fields. Neither actor chooses in the new bonus; retained context is not a fresh trial; no blind score, accuracy or confidence update. 12appends across tenledgers/46qualifications. Supplemental19/mixed5 andMAIN01-MAIN12fullgates plusIris/Yunyuncohorts remainclosed; MAIN-13analysis accepted/publicationpending;other4mainexcluded programs remain;globalcomponentpercentage null.
+
+| Unit | Native member / slots | Disposition |
+|---|---|---|
+| MAIN-13-U001 | titlepage.xhtml / 0 | COVER_WRAPPER_WIZ_AQUA_KAZUMA;newprincipalcredit0 |
+| MAIN-13-U002 | text/part0000.html / 0 | CROPPED_WIZ_COVER_FRONTMATTER;newprincipalcredit0 |
+| MAIN-13-U003 | text/part0001.html / 0 | COLOR_AQUA_MEGUMIN_FIGURE_MONTAGE_RETAINED_QUOTES;newprincipalcredit0 |
+| MAIN-13-U004 | text/part0002.html / 0 | COLOR_MINING_AND_DEBT_MONTAGE_RETAINED_QUOTES;newprincipalcredit0 |
+| MAIN-13-U005 | text/part0003.html / 0 | COLOR_MYSTERIOUS_DUKE_AND_WIZ_MISINTERPRETATION_RETAINED_QUOTES;newprincipalcredit0 |
+| MAIN-13-U006 | text/part0004.html / 0 | RASTER_CONTENTS_PRINT_LOCATORS;newprincipalcredit0 |
+| MAIN-13-U007 | text/part0005.html / 6 | TITLE_IMPRINT;newprincipalcredit0 |
+| MAIN-13-U008 | text/part0006.html / 7 | RIGHTS_AND_ELECTRONIC_NOTICE;newprincipalcredit0 |
+| MAIN-13-U009 | text/part0007.html / 13 | TEXTUAL_CONTENTS_WITH_ELECTRONIC_BONUS;newprincipalcredit0 |
+| MAIN-13-U010 | text/part0008.html / 0 | RASTER_EDITION_CHARACTER_PROFILE;newprincipalcredit0 |
+| MAIN-13-U011 | text/part0009.html / 22 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-13-U012 | text/part0010.html / 473 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-13-U013 | text/part0011.html / 518 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-13-U014 | text/part0012.html / 498 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-13-U015 | text/part0013.html / 411 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-13-U016 | text/part0014.html / 470 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-13-U017 | text/part0015.html / 64 | RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING;newprincipalcredit0 |
+| MAIN-13-U018 | text/part0016.html / 22 | CREATOR_AFTERWORD_NOT_NEW_FICTION;newprincipalcredit0 |
+| MAIN-13-U019 | text/part0017.html / 0 | ILLUSTRATOR_AQUA_WIZ_AND_OBSERVER_STAGED_COMIC;newprincipalcredit0 |
+| MAIN-13-U020 | text/part0018.html / 0 | FUTURE_VOLUME14_PROMOTIONAL_STAGED_SCRIPT;newprincipalcredit0 |
+| MAIN-13-U021 | text/part0019.html / 60 | SEPARATE_ELECTRONIC_BONUS_FICTION;newprincipalcredit0 |
+| MAIN-13-U022 | text/part0020.html / 5 | ILLUSTRATION_AND_DESIGN_CREDITS;newprincipalcredit0 |
+| MAIN-13-U023 | text/part0021.html / 16 | COLOPHON_AND_IMPRINT;newprincipalcredit0 |
+| MAIN-13-U024 | text/part0022.html / 0 | BOOKWALKER_RETAILER_WRAPPER;newprincipalcredit0 |
