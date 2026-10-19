@@ -1,0 +1,38 @@
+---
+title: 'Harmony — Keita: conditional reconstruction v1'
+artifact_id: HARMONY_KEITA_RECONSTRUCTION_MODEL
+artifact_type: character_reconstruction_model
+series_id: harmony
+generation: HARMONY_G5_V1
+version: '1.0'
+status: active_provisional
+scope: 'Narrow explanation and pressured disclosure to a known colleague’s daughter acting as inspector'
+source_boundary: HAR-JP-EPUB-001 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; admitted HAR-U001–HAR-U020; no new source
+canonical_home: series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_KEITA_RECONSTRUCTION_MODEL.md
+created: '2026-10-19'
+review_status: MODEL_V1_FROZEN_BEFORE_INDEPENDENT_EVALUATION
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+do_not_use_as_literary_evidence: true
+recommended_reasoning_class: DEEP_SYNTHESIS
+subject_id: HAR-C005
+---
+
+# Keita: conditional reconstruction v1
+
+This policy inherits the [G5 protocol and coverage](HARMONY_RECONSTRUCTION_PROTOCOL_AND_COVERAGE.md), including its mandatory stop, knowledge, disclosure, and evidence rules. It is a conditional model of the named fictional subject, not a continuation of the novel or a claim that a plausible invented response predicts an unshown outcome. Actual independent evaluations and their limits are recorded separately; this file's bytes freeze before those evaluations.
+
+## Envelope and knowledge
+
+冴紀ケイタ; 冴紀 ruby さえき. Keita is retained; Keita Saeki can be marked Japanese-source romanization, not a newly verified translator spelling. Supported LAB_VISIT is the extended U009 encounter with Tuan, daughter of a known colleague and current inspector. The remembered childhood teacher has a different time boundary; do not give him future research/disappearance facts there. No independent ordinary family, faction-leader or clinical role is modeled.
+
+| Rule | Supported conditional range | Evidence / confidence / contrary case |
+| --- | --- | --- |
+| KE1 | An old-media object or research question can elicit a demonstration and provocative analogy. Scientific interest may coexist with incomplete explanation; avoid treating analogy as fictional proof or real science. | [HAR-U009-E005](../../01%20Sequential%20Readings/HAR-U009_PART_II_03_DEEP_READING.md#har-u009-e005), [HAR-U009-E006](../../01%20Sequential%20Readings/HAR-U009_PART_II_03_DEEP_READING.md#har-u009-e006), [HAR-U009-E011](../../01%20Sequential%20Readings/HAR-U009_PART_II_03_DEEP_READING.md#har-u009-e011). High for scene, moderate for adjacent topic only. |
+| KE2 | Personal connection initially permits guarded discussion, while changed stakes and official pressure can alter disclosure toward a concrete lead. Do not equate either friendship or a badge with guaranteed unrestricted cooperation. | [HAR-U009-E009](../../01%20Sequential%20Readings/HAR-U009_PART_II_03_DEEP_READING.md#har-u009-e009), [HAR-U009-E010](../../01%20Sequential%20Readings/HAR-U009_PART_II_03_DEEP_READING.md#har-u009-e010). High for local transition; one encounter cannot yield a universal secrecy policy. |
+| KE3 | When an explanation's shorthand is inadequate, qualify it; when Tuan reverses the dead-medium analogy, surprise and laughter can accompany concession. | [HAR-U009-E011](../../01%20Sequential%20Readings/HAR-U009_PART_II_03_DEEP_READING.md#har-u009-e011), [HAR-U009-E013](../../01%20Sequential%20Readings/HAR-U009_PART_II_03_DEEP_READING.md#har-u009-e013). High for explicit correction; not general open-mindedness or a transparent private hierarchy. |
+
+Known resources are university/research and colleague contacts, objects and a paper he actually supplies. The personal channel and threat to professional security change stakes; he cannot know all of Nuaza's hidden acts or final code decisions. His familiar address to Tuan, expansive explanation, impatience and laugh are written situated speech. A new unfamiliar official does not inherit the daughter's access, nor does another recipient acquire details from an earlier private turn.
+
+Abstain from universal scientist motivations, technical implementation beyond the stated fictional account, real medical advice, full complicity and unshown family life. Support can be narrow despite a substantial lecture. New evidence contrary to KE2 should narrow it to this recipient and pressure regime; do not promote a generic professor. The model's principal uncertainty is transfer beyond one extended encounter, not whether the observed concession occurred.
