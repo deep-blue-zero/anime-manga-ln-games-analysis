@@ -4,7 +4,7 @@ artifact_id: SW_QP1_QUALIFICATION_REVIEW
 artifact_type: qualification_review
 series_id: silent-witch
 generation: SW-QP1
-version: "1.0"
+version: "1.1"
 status: canonical
 scope: "Bounded qualification of actual reading-to-cumulative-routing behavior; original finding, separate correction and independent recheck"
 source_boundary: "SW-LNJP-V01 complete textual prologue and Chapter 1 only; prose pilot, no whole-volume closure"
@@ -16,18 +16,18 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 qualification_result: QUALIFIED_AS_CORRECTED
-full_second_pass_authorized: false
+full_second_pass_authorized_at_qualification_review: false
 ---
 
 # Silent Witch bounded qualification review
 
 **Result: QUALIFIED AS CORRECTED.** An independent source-grounded review tested the complete textual prologue and Chapter 1 pilot, including eleven independently selected forward sample groups and all seven backward claim traces. It found one **Moderate** chronology/causal-compression defect, no Major or Critical finding, and withheld initial qualification. The pilot author supplied a separate erratum; the independent reviewer checked the original source and affected dependencies and accepted the corrected composite. No unresolved finding remains within this performed review. This bounded result does not certify exhaustive retention or a full generation.
 
-**The accepted object is the frozen [reading](SW_QUALIFICATION_PILOT_READING.md), [cumulative records](SW_QUALIFICATION_PILOT_CUMULATIVE.md) and [claims](SW_QUALIFICATION_PILOT_CLAIMS.md), together with the mandatory [SW-QP1-ERR-001 correction](SW_QUALIFICATION_PILOT_ERRATUM.md).** The original cumulative CE002 sentence alone remains erroneous. Its correction and C003's supporting-sequence clarification must accompany any use of that pilot route. All four analytical artifacts remain noncurrent qualification evidence.
+**The accepted object is retrieved only through the [accepted-package manifest](SW_QUALIFICATION_ACCEPTED_PACKAGE_MANIFEST.json).** It requires the exact frozen [reading](SW_QUALIFICATION_PILOT_READING.md), [cumulative records](SW_QUALIFICATION_PILOT_CUMULATIVE.md), [claims](SW_QUALIFICATION_PILOT_CLAIMS.md) **and mandatory [SW-QP1-ERR-001 correction](SW_QUALIFICATION_PILOT_ERRATUM.md)** together, with every listed hash verified. Links to initial files identify constituents or historical evidence; none carries standalone corrected acceptance. The original three-file candidate remains NOT QUALIFIED. All four analytical artifacts remain noncurrent qualification evidence.
 
 The defect made Louis's execution warning help cause Monica's earlier reflexive nod. Source order instead places the claimed authority and physical pressure before the nod, with the execution warning and perceived entrapment afterward. The source-bearing reading already retained the correct distinction; the correction repairs its cumulative compression without changing the central, bounded coercion interpretation. Historical severity remains Moderate rather than being erased by a passing recheck.
 
-This audit is the canonical record of the qualification decision, not new literary authority. The steward accepts the independent review's bounded result and has verified the identities and preserved bytes described below. **The full second analytical pass is not authorized or started.** V1 remains the current analytical baseline. Separate owner authorization and generation-specific initiation are still required under [architecture section 11](../00%20Frameworks%20and%20Methods/SW_SYNTHESIS_ARCHITECTURE.md#11-prospective-independent-generation-protocol). The applicable semantic gate is [method section 7.1](../00%20Frameworks%20and%20Methods/SW_ANALYTICAL_METHOD.md#71-semantic-retention-acceptance-gate).
+This audit is the canonical record of the qualification decision, not new literary authority. The steward accepted the independent review's bounded result and verified the identities and preserved bytes described below. At that qualification review, the full second pass was not authorized or started. The owner has since authorized the bounded SW-G2 Phases A–C task, conditional on qualification acceptance/integration and the generation-specific initiation, source and access-isolation gates. Narrative reading remains held. The [single current entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md) routes that current administrative state; V1 remains the current analytical baseline. The applicable semantic gate is [method section 7.1](../00%20Frameworks%20and%20Methods/SW_ANALYTICAL_METHOD.md#71-semantic-retention-acceptance-gate), with [architecture section 11](../00%20Frameworks%20and%20Methods/SW_SYNTHESIS_ARCHITECTURE.md#11-prospective-independent-generation-protocol) governing the independent generation.
 
 ## Review record preservation
 
@@ -35,11 +35,39 @@ The final recheck and the issued initial review are reproduced below in that ord
 
 | Receipt | SHA256 |
 |---|---|
-| Source-first sample memo, fixed before candidate access | `2900a88a83cb7b2485f4ef69ab4cf18214ab70f41442592fd680e8b2a3ecfb5d` |
+| [Original source-first sample memo](SOURCE_FIRST_REVIEW.md), fixed before candidate access | `2900a88a83cb7b2485f4ef69ab4cf18214ab70f41442592fd680e8b2a3ecfb5d` |
 | Issued initial independent review | `6a645d2d2ecc073a7c2b4d05507620a59978493f72dac1c535a6548db4d6062a` |
 | Separate final independent recheck | `df165f835c25894e3029fc00c03685256d2fecbfeb1e22bc0b04335e08bfc8ad` |
 
 Repository checks are distinct from these semantic decisions. Initial author preflight passed for 8,506 paths, and the pilot's 232 canonical links and the erratum's 12 links passed their respective checks. Final staged validation, publication, housekeeping and exact-head audit results belong to the containing Git/CI transaction; no unperformed remote or main audit is certified by this document. The qualification package is for owner review and must remain held from nightly integration unless separately released. No main merge is performed by this review task.
+
+## Administrative archive and accepted-package retrieval — 2026-10-18
+
+The [accepted-package manifest](SW_QUALIFICATION_ACCEPTED_PACKAGE_MANIFEST.json), `SW-QP1-ACCEPTED-PACKAGE-001`, owns the mandatory retrieval association. A consumer may present QUALIFIED_AS_CORRECTED only after retrieving and verifying all four required pilot/erratum members and the original source-first memo against their exact byte lengths and SHA256 values. Missing, omitted or mismatched members invalidate the corrected package. In particular, retrieving the original three files alone yields historical NOT QUALIFIED evidence; omission of SW-QP1-ERR-001 never carries corrected acceptance. Any accepted-package presentation must preserve this association. Historical inspection of those original bytes remains available.
+
+The original preregistered [SOURCE_FIRST_REVIEW.md](SOURCE_FIRST_REVIEW.md) is now durably retained in this audit home, exactly 11,193 bytes with SHA256 `2900a88a83cb7b2485f4ef69ab4cf18214ab70f41442592fd680e8b2a3ecfb5d`. It was recovered from the original reviewer receipt and verified against the previously recorded digest, not reconstructed from this combined report. Its absent front matter, missing final newline and original trailing fence remain unchanged; it is historical provenance and must not be treated as current literary authority. The manifest records its role and original fixed-before-candidate timestamp. The initial candidate, initial NOT QUALIFIED decision, erratum and independent recheck remain preserved; the recheck and issued initial-review sections below are unchanged.
+
+The pre-administration version 1.0 of this report remains recoverable at source commit `f642081bbd8c5648e694900cb9d9680c4437f98c`, report SHA256 `f1d4b40f16f4469a7306c6e3b8094ad4d3ddd62698bcc876b7c692e482bef199`. This version 1.1 adds archival retrieval, mandatory package binding and present authorization routing only. No frozen pilot member or historical prospective state is edited.
+
+Historical framework-integration note, moved verbatim from the entrypoint during this administrative update:
+
+The owner approved the amendment, which was merged through PR #228 at `566ee1628412ca5b82721e8b693531493aa57aa2`; its explicit [main audit](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39165067082) passed. The subsequent qualification is separately commissioned and remains noncurrent analytical evidence. Its publication and exact-head audits are recorded by Git/CI; main integration of the qualification package is a separate decision.
+
+### Qualification integration prerequisite
+
+At the preproduction verification, [PR #230](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/230) remained an open draft, unmerged, at source `f642081bbd8c5648e694900cb9d9680c4437f98c`. Live main was `25150d631638264c0bf383fe88bf7d6c2385b8d7`. Direct inspection of that exact main tree found none of the qualification report, three pilot files or erratum, and its entrypoint still recorded qualification as not authorized or started. This content check establishes that the qualification is not integrated through another route; draft status alone is not the proof.
+
+The owner-controlled next integration action is acceptance of the explicitly corrected composite, publication of these qualification-only archival/binding corrections to the existing draft through a separately authorized route, then protected integration of the corrected qualification package and a successful post-integration main audit. Refresh both remote heads, reconcile current main and any intervening source/housekeeping work, require the successful Repository integration audit on the exact final corrected source head, verify the integrated files/hashes and resulting main, and recover that verified integration into the local production ancestry. The existing earlier source audit cannot certify a later correction commit. No merge, remote publication or workflow dispatch is performed by this local preparatory correction.
+
+The owner's production publication mode is LOCAL_ONLY_UNTIL_G2_FREEZE. It authorizes local preparatory work and later reviewed local G2 transactions subject to gates; it supplies no authority to push, modify remote branch tips, mark a draft ready, merge, open a G2 PR or dispatch remote workflows. The required qualification-only publication/integration is an owner-controlled prerequisite to Phase A, not an already completed step. Local validation must remain distinct from remote CI and integration.
+
+### Current SW-G2 preproduction hold
+
+The owner authorizes independent SW-G2 Phases A–C over the twelve numbered Japanese LN volumes and four named companions, in the specified prospective order, through independent retrospective synthesis and a recoverable immutable local freeze. G2 remains a noncurrent working generation. Its high-water mark is PRE_V01; no narrative source has been released or read, no G2 initiation is claimed complete, and no G2 analytical homes or empty cumulative ledgers have been instantiated by this correction.
+
+Phase A is held until the corrected qualification has been accepted and integrated, the screened methodology/source packet and actual analytical access isolation are verified, and generation-specific identities, homes, empty required cumulative infrastructure, source-admission state and the new run/lock decision satisfy the initiation gate. Actual analytical access isolation remains UNVERIFIED. Technical-only private source reconnaissance may proceed under the narrower screened custodian allowlist; it cannot admit narrative or open Phase A. Exact private execution/recovery evidence is maintained outside Git. Existing V1 structured run, lock and high-water fields remain unchanged.
+
+The following independent review/recheck and historical qualification-delivery sections retain their original review-time scope, decisions and authorization statements. Their historical statements that no full second pass was authorized do not negate the later conditional owner instruction recorded above.
 
 ## SW-QP1 independent erratum recheck
 
@@ -250,7 +278,7 @@ The source evidence and QR01 severity were stable before issuance. An unissued d
 
 ---
 
-## Stewardship, authorization and technical receipt
+## Historical qualification stewardship, authorization and technical receipt
 
 The owner separately commissioned the qualification review, explicitly included a bounded pilot and independent source review, and required actual reading-to-cumulative-routing evidence. The owner also required stopping before the full second analytical pass. This review is conducted under method 1.6, section 7.1, and architecture 1.27, sections 5.1 and 11, merged by PR #228 at `566ee1628412ca5b82721e8b693531493aa57aa2`. The working base is `25150d631638264c0bf383fe88bf7d6c2385b8d7`; the governing framework bytes are identical at these two commits.
 
@@ -298,4 +326,4 @@ These are actual analytical products: a connected synopsis and sustained reading
 
 This record and its linked pilot constitute bounded qualification evidence. V1 remains the current analytical baseline. No V1 literary finding, historical freeze, readiness judgment, source lock, admitted corpus, source high-water mark or structured execution/lock field is changed. A narrowly targeted current-entrypoint update routes the qualification result. No full second pass, new generation tree, character reconstruction, retrospective synthesis or cross-generation adjudication has begun.
 
-A satisfactory bounded result can support a later owner decision. The full generation still requires separate owner authorization naming its source/admission order, exact paths and responsible integrator, followed by the architecture's generation-specific initiation and lock procedure. This task ends after recording and reporting the qualification result.
+At this historical qualification delivery, a satisfactory bounded result could support a later owner decision; the full generation still required separate owner authorization naming its source/admission order, exact paths and responsible integrator, followed by generation-specific initiation and lock verification. That qualification task ended after recording and reporting its bounded result. The later conditional SW-G2 owner authorization and current preproduction hold are recorded in the administrative section above and routed by the single current entrypoint.
