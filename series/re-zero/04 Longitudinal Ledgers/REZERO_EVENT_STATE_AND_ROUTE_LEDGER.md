@@ -1,11 +1,11 @@
 ---
 series: RE_ZERO
 artifact_type: specialist_longitudinal_ledger
-scope: MAIN_LN_EVENT_STATES_DURABILITY_AND_CARRY_FORWARD_THROUGH_V08
-generation: V1.2
+scope: MAIN_LN_EVENT_STATES_DURABILITY_AND_CARRY_FORWARD_THROUGH_V09
+generation: V1.3
 status: canonical
 release_state: mutable_active
-current_source_horizon: V08
+current_source_horizon: V09
 recommended_reasoning_class: SUBSTANTIVE_ANALYSIS
 supersedes: []
 superseded_by: []
@@ -19,15 +19,15 @@ do_not_use_as_current_authority: false
 
 This is the sole maintained cumulative event-state/durability home from the V06 transaction onward. It migrates the necessary V01–V05 chronology from master §4 and the frozen readings, explicitly retrospectively; it did not govern those earlier readings prospectively. Frozen source-facing arguments remain unchanged. Master §4 now routes here rather than maintaining a competing full chronology.
 
-Promotion is earned by interacting kinds of change, not a numerical loop count: V06 erases memories/material traces inside a still-living state, later restores to a checkpoint, carries some earlier events but not later contracts, and aliases local labels across volumes. The ledger owns when an event occurs, what ends or changes, and what survives. The knowledge ledger owns proposition holders/false beliefs; the V07-promoted mechanics ledger owns causal models; the master owns personal relationships/readiness; the institution ledger owns rules/resources.
+Promotion is earned by interacting kinds of change, not a numerical loop count: V06 erases memories/material traces inside a still-living state, later restores to a checkpoint, carries some earlier events but not later contracts, and aliases local labels across volumes. The ledger owns when an event occurs, what ends or changes, and what survives. Knowledge owns proposition holders/false beliefs, mechanics causal models, institution rules/resources and the V09-promoted relationship ledger state-selected personal continuity; master owns person/readiness and routing.
 
-Only Japanese MAIN_LN V01–V08 is consumed. All non-spine routes remain unadmitted/unopened; an imagined future in V06 is not an alternate-route branch. V09 remains unopened. Retrieval is corpus map → master router → row below → frozen VNN section/claim → that volume's hashed EPUB and locator convention.
+Only Japanese MAIN_LN V01–V09 is consumed. All non-spine witnesses remain unadmitted/unopened. V06's imagined future and V09's internally depicted eight-year escape-family premise do not admit a separately acquired IF/WN or add a Subaru-return segment. V10 remains unopened. Retrieval is corpus map → master router → row below → frozen VNN section/claim → that volume's hashed EPUB and locator convention.
 
 ## 1. State identity and counting rules
 
 `VNN-EN` labels belong to frozen volume analyses. The `RZ-E-NNN` identifiers below are assigned at this V06 migration to connect continuing world-state segments without renaming those historical labels. A volume boundary, blackout, implied day change, liminal scene or teleport is not itself a new restoration. These identifiers count analytical world-state segments, not a proved ontology of destroyed/parallel universes.
 
-Eleven Subaru deaths are counted through V08, the first V02 terminal death inferred from its death/restoration sequence with exact dying unseen. Eleven analytical state segments are represented: the last ends in V08 death, while its successor arrival/checkpoint is not shown. V01-E4/V02-E1, V03-E1/V04-E1/V05-E1, V05-E3/V06-E1 and V06-E2/V07-E1/V08-E1 are continuing-state aliases, not additional lives. V02 ends after its cliff death; V03 shows that successor restoration. V07 adds no death; V08 explicitly narrates death/world flow without a new arrival. Do not instantiate an observed RZ-E-012 from expectation alone.
+Twelve Subaru deaths and thirteen analytical state segments are represented through V09. The first V02 terminal death remains inferred from its death/restoration sequence with exact dying unseen. V08 froze death eleven without a successor arrival; V09 now actually shows RZ-E-012 at the post-Whale council and later discloses completed death twelve followed by RZ-E-013 at Rem's post-ambush bed. A subsequent attempt is aborted, not death thirteen. V01-E4/V02-E1, V03-E1/V04-E1/V05-E1, V05-E3/V06-E1 and V06-E2/V07-E1/V08-E1 remain continuing-state aliases, not additional lives. V07 added no death. Earlier horizon statements remain historical, not retroactively informed by V09.
 
 | ledger ID / local aliases | entry trigger and major span | terminal / outcome | current durability | frozen route / linked claims |
 |---|---|---|---|---|
@@ -41,9 +41,11 @@ Eleven Subaru deaths are counted through V08, the first V02 terminal death infer
 | `RZ-E-008` / `V03-E1 → V04-E1 → V05-E1` | mansion restoration; regulated inquiry, village exposure/rescue/extermination; surviving fifth morning; date, capital selection, duel/rupture, host care; later warning/detour and massacres | underground freeze/shatter; death 8 | V03 rescue and V04 date/rupture precede new capital checkpoint and remain active shared past; later V05-E1 acts discarded | V03 §§3–6; V04 §§3–8; V05 §3/C001–004 |
 | `RZ-E-009` / `V05-E2` | new post-rupture stall restoration; collapse, earlier direct road/care, ambush/cave, Rem's final rescue, changed village aftermath, giant frost beast | frost death 9; dark feminine interval | superseded; Subaru retains incomplete experience; Rem's private viewpoint belongs to reader, not automatically him | V05 §§3–5, 8 and C001/C003–007/C019–028/C044 |
 | `RZ-E-010` / `V05-E3 → V06-E1` | same stall restoration; living Rem, private revenge; army requests, referral/rental, evacuation convoy, Whale/erasure, early village arrival, penalty death of Emilia, Beatrice expulsion, cult/Puck | Puck's freezing/torture kills Subaru; death 10 | superseded after checkpoint; local negotiations/erasure/Emilia death/cult deaths not active E2 history | V05 exit; V06 §§3–8 and C001–020/C031–056 |
-| `RZ-E-011` / `V06-E2 → V07-E1 → V08-E1` | same stall restoration; support/delegation, alliance/Whale hunt, partition/qualified repair; V08 planned Cult operation, casualties, Ram/Arlam, destroyed wagons, Emilia defense, host occupation | Subaru death 11 after Ferris's requested lethal heating and Julius's neck-blade placement; world flow narrated, successor destination/checkpoint not shown | terminal failed attempt; earlier acts remain observed-state/reader evidence, not automatic successor mutual history; no observed RZ-E-012 yet | V06 §§3–7; V07 §3; V08 §3/C001–002/C040–049/C064–065 |
+| `RZ-E-011` / `V06-E2 → V07-E1 → V08-E1` | same stall restoration; support/delegation, alliance/Whale hunt, partition/qualified repair; V08 planned Cult operation, casualties, Ram/Arlam, destroyed wagons, Emilia defense, host occupation | Subaru death11 after Ferris's requested lethal heating and Julius's neck-blade placement; V08 itself froze an unlocated successor, now observed in V09 | superseded terminal operation; hunt/council precede the newly observed point, but later terminal entrustment/losses are not automatic mutual successor history | V06 §§3–7; V07 §3; V08 §3/C001–002/C040–049/C064–065; V09 §3/C001/C005 |
+| `RZ-E-012` / `V09-E1` | actual post-Whale council arrival, changed preparation/host neutralization, evacuation, shared-sense battle, final Petelgeuse extinction, cargo diversion, received Emilia repair and capital aftermath | actual retrospective throat-stabbing is Subaru death12; the next point cannot reach the departing patient convoy | superseded after the new bedside point; earlier achievement and retained experience are distinct from every participant's tested memory. Exact timing of every narrated final-chapter conversation against the retrospective return is unmarked | V09 §3/C001–005/C022/C048–053/C076–089; `p-002#B0003–0040`; `p-026#B0049–0060` |
+| `RZ-E-013` / `V09-E2` | actual return with unwaking Rem before Subaru at the post-ambush bed; subsequent self-harm attempt interrupted; Emilia offers shared care and Subaru renews recovery vow | active reached endpoint; no further Subaru death or return represented | current Rem alive/unresponsive and others' lost recognition are not repaired; Subaru retains her. No ally is granted receipt of the self-killing, complete RBD or the private dream | V09 §3/§10.5/C002–003/C053/C083/C100; `p-026#B0049–0132` |
 
-These summaries do not make every former death or knowledge claim current-world biography. The full frozen argument controls ambiguous attribution.
+These summaries do not make every former death or knowledge claim current-world biography. The full frozen argument controls ambiguous attribution. Precheckpoint chronological placement is not immunity from later within-state memory loss: the new erasure of Rem's recognition can disrupt remembered relationships without showing the Whale battle or every earlier material event physically undone.
 
 ## 2. Focalization, retained experience and relationship durability
 
@@ -57,6 +59,9 @@ These summaries do not make every former death or knowledge claim current-world 
 | V06-E2 | active Rem speaks her ordinary memories and preferences; no return disclosure completed | the pair shares the current support agreement and known mission, not ten deaths | declared goals now align; this does not confer exclusive romance, independent worth or Emilia's consent |
 | V07-E1 continuing V06-E2 | Crusch perspective, Whale narrator account and Wilhelm–Theresia historical inset extend reader access; private dream/self-comparison are not heard by Subaru | current participants share their new actions and actual conversations, not automatic access to Subaru's discarded history or every historical inset detail | known-lie trust, genuine affection, pressure, accepted rest and qualified peer repair are current; Emilia's active repair remains unperformed |
 | V08-E1 continuing V07-E1 until death | source adds Wilhelm's Kety fight beyond Subaru's sight, actual possession, final private love voice; collective-office model is rejected | terminal attempt is fully observed; next arrival and any retained/shared information are not yet tested | costly entrustment, failed further apology and requested killing matter as conditional evidence; no ally is granted RBD or successor recollection |
+| V09-E1 / RZ-E-012 | Subaru's retained failure informs changed action; Emilia/Kety/Rem and the invader's private viewpoints add reader information | present warnings, new Julius trust and Emilia repair are enacted rather than inherited from terminal V08; Sub does not automatically receive every private line | earned positive changes coexist with restriction; enemy and civilian outcomes depend on changed deployment and capacity |
+| V09-E2 / RZ-E-013 | retrospective actual self-killing/return and current bedside support; Rem's own response unavailable | only Subaru/reader are given the return account; Emilia is newly willing to help forgotten Rem without old remembered intimacy | sole remembering is not sole caring; no new Rem consent or memory recovery is fabricated |
+| V09 internal escape-family fragment | locally represented eight-year domestic future after both fled | no current-route character receives that future as remembered biography; no main return count added | spouse/children/exclusive vows and proposed pre-divergence hobby bridge stay premise-bound, not active terms |
 
 For exact holders, detection, false beliefs and disclosure constraints use `REZERO_KNOWLEDGE_AND_INFORMATION_ASYMMETRY_LEDGER.md`. This table owns durability classes only, not a duplicate full knowledge register.
 
@@ -129,7 +134,7 @@ All rows below occur inside `RZ-E-010 / V06-E1` until its actual terminal death.
 | aftermath / separation | Rem reveals teasing, words genuine, patients stabilized, parties divide | no dying Rem, performed fatal restart, actual kiss or universally complete healing | V07 C023/C031/C033–035/C060 |
 | reinforcement / repair / briefing | Julius arrives, alias/sanction clarified, reciprocal qualified apologies, threat shared | continued dislike/unknown RBD; operation itself not executed | V07 C050–052/C066–070; `p-020#B0280–0589` |
 
-### V08 terminal attempt — current boundary, successor unobserved
+### Historical V08 terminal attempt — successor unobserved at that freeze
 
 | phase / item | observed transition or endpoint | durability / next-state prohibition | frozen route |
 |---|---|---|---|
@@ -158,6 +163,38 @@ All rows below occur inside `RZ-E-010 / V06-E1` until its actual terminal death.
 | Subaru's experience | death/world flow narrated, promise to remember expressed | actual successor recall, not a guarantee every detail/observer memory survives |
 | Petelgeuse / captured Gospel | one entity occupies Subaru; book had been recovered; final spirit destruction intended | actual fate/host rules, book location and transfer limits after new arrival |
 
+### V09 observed arrivals, changed operation and current aftermath
+
+Presentation order includes explicit within-attempt backtracking, a separate-premise family fragment, a morning convoy interlude and a retrospectively disclosed self-killing. Do not treat a viewpoint change as a new world or assign every final-chapter conversation a clock position the text does not establish.
+
+| phase / item | observation and outcome | excluded inference / current limit | frozen route |
+|---|---|---|---|
+| prologue / council arrival | private dark experience precedes actual recognition of the post-Whale council | no old stall arrival inferred from expectation; no extra death assigned to the prologue itself | V09 C001/C003; `p-001`; `p-002#B0003–0040` |
+| preparation backtracking | handwriting avoids Ram ambush; new capture and examination neutralize living Kety; evacuation is arranged | flashback/door transfer not additional returns; all usable Fingers eliminated is not all biological bodies killed | V09 C003/C008–010/C029–039 |
+| borrowed-view combat | Nect senses shared; Julius closes eyes; current actual occupation follows deliberate release | no all-memory or learned-skill transfer; no extra Subaru death from pain/overlap | V09 C012–018; `p-010`–`p-011` |
+| private expulsion | invader receives selective rejection, Subaru returns to the same cliff and explains endurance | different focalizers hold different causes; no completed disclosure to allies, new checkpoint or then-final extinction | V09 C019–021 |
+| apparent cliff ending → remnant | soul damage and crushed flesh precede the corpse's pursuit | old damage is not erased, and no universal corpse-resurrection law is established | V09 C021; `p-013#B0213–0226` |
+| final pursuit ending | oil/spirit spark, Gospel bait, learned evasion, punch and wheel destruction end the spirit itself | explicit final extinction does not imply Subaru's new office/Authority or complete Cult annihilation | V09 C016/C022–025/C073 |
+| cargo detection / diversion | location proved in Emilia's wagon; feasible Puck containment rejected as first option; sack placed in frozen Whale corpse, shelter reached, both rider/dragon burned | no unexplained universal bomb trigger/countdown; political harm avoidance is not absence of alternatives; casualty report scoped | V09 C040/C068–072 |
+| collapse / dream / waking | unconscious sleep, private contact and waking on Emilia's lap; two–three hours elapsed | no Subaru death/return; private waking-forgotten promise not allied receipt | V09 C003/C075; `p-015#B0459–0537` |
+| received repair / resumed travel | confession/apology/welcome actual; new wagon/ordinary embarrassment, then Emilia's genuine Rem nonrecognition | gratitude not instant reciprocal romance; no source EOF at chapter5's tender ending | V09 C048–052/C083; `p-015`–`p-018` |
+| internal eight-year family | escape-premise future with work/children/affection/anxiety | separate local premise, not main-route jump, new return or external IF admission | internal label `RZ-CF-V09-001`; V09 C090–092 |
+| morning patient convoy attack | Rem/Crusch ambushed by two named bishops; her last attack/wish shown | earlier morning is disclosed later to reader; no automatic Subaru receipt of names/abilities, no witnessed Rem bodily death from “last moment” | V09 C077–085/C089; `p-021`–`p-023` |
+| capital / distinct memory conditions | arrival after attack; wounded treated, Rem unwaking/lost from others' memory, Crusch loses her own past; alliance discussion and scar lead | clinical analogy not proved cure/cause; exact every-conversation timing against the later-disclosed return remains unmarked | V09 C076–088; `p-024`–`p-026` |
+| actual death12 / bedside arrival | explicit recalled throat-stabbing and RBD place Rem's bed before Subaru | autosave analogy not a revealed algorithm; failed access to earlier events is not proof a future remedy impossible | V09 C002; `p-026#B0049–0054` |
+| aborted next attempt / final care | another attempt stops, dagger dropped; Emilia offers care, Subaru cries and vows recovery | no death13 or RZ-E-014; no accomplished Rem remedy, RBD disclosure or instant stable cure of self-disposability | V09 C002/C053/C100; `p-026#B0055–0132` |
+
+| carry-forward responsibility | latest supported V09 selection | remaining test |
+|---|---|---|
+| pre-Whale and current rescue achievements | actual council arrival preserves hunt context; later bedside point is post-ambush, after the achieved Petelgeuse end/Emilia repair in the narrated span | no universal all-material or every-holder restoration rule; exact remapped histories under erasure not fully tested |
+| Rem | body alive/warm/breathing, externally treated and unwaking; Subaru remembers, tested others do not | own memory unavailable; Ram/room traces untested; diagnosis/remedy unresolved |
+| Crusch | reattached arm, lost past, others' recognition and present choices are distinct | no all-faculty recovery, complete new-risk knowledge or exact cause/activation test |
+| Julius / Ferris / Wilhelm / Patrasche | new current cooperation and costs precede the bedside outcome; prior terminal V08 relation is not mutual memory | no independently shown post-bedside encounter for every actor or ally receipt of Subaru's actual self-killing |
+| evacuation / convoy | capitalward travel and actual capital arrival shown; separate patient group half dead or wounded, Iron Fang escapes/brings aid | full village population/casualty roster, every Sanctuary arrival, head custody and compensation remain bounded |
+| Gospel / other objects | last shown current book retrieval/bait/inscription differs from old discarded custody | no independent final bedside inventory test, complete predictive content or automatic item transfer inferred |
+| alliance / debts | last shown meeting renews alliance and adds temporary secrecy; oil/audience/repair and other settlement work remain | do not invent a second replayed meeting, completed payment, full Roswaal authorization or actual Anastasia betrayal |
+| internal family | local future only, no cross-route mutual terms | no current spouse/children or autobiographical bridge without independent evidence |
+
 ## 5. Timing, falsifiers and maintenance
 
 Subaru reconstructs a roughly four-and-a-half-day/fifth-morning horizon, with about two usable days after travel costs (V06 `p-002#B0016–0021`; `p-024#B0078–0080`). This is planning testimony based on imperfect retained experience, not an exact universal trial clock. V06's last room is the same checkpoint-day evening; preparation is a flashback, not a second day or reset. V05's prologue similarly belongs to E2's cave scene rather than a separate state.
@@ -172,3 +209,4 @@ Reopen a row when the source changes checkpoint, demonstrates another retainer o
 | V06 current state — historical boundary | RZ-E-011 active, ten deaths, unanswered final offer | at that freeze V07 was unconsumed; no alternate witness or capital endpoint admitted |
 | V07 continuation | V07-E1 aliases V06-E2/RZ-E-011, ten deaths/eleven segments; accepted alliance, battle effects, kill, separation and qualified peer repair | earlier chronology/frozen bytes preserved; core defeat not victim restoration or Emilia repair; V08 still unopened |
 | V08 terminal continuation | V08-E1 closes RZ-E-011 with death eleven; operation, body deaths, hallucination, explosions, Emilia intervention and possession distinguished | V07 snapshot/history preserved; no invented successor segment, checkpoint, complete casualty census, explicit beheading or mutual post-return memory |
+| V09 observed successors and new loss | RZ-E-012 council arrival, actual death12/RZ-E-013 bedside arrival, aborted next attempt; real rescue/repair and new memory conditions are distinguished from nonfatal dream and internal escape-family premise | all prior freezes/aliases and historical carry matrices preserved; twelve deaths/thirteen segments, no invented second replay, RZ-E-014, current family or resolved Rem cure |

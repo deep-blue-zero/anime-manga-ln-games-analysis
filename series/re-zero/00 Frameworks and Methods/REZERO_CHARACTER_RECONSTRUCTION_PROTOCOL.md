@@ -2,10 +2,10 @@
 series: RE_ZERO
 artifact_type: character_reconstruction_protocol
 scope: SOURCE_GROUNDED_CONDITIONAL_CHARACTER_RECONSTRUCTION
-generation: V1.5
+generation: V1.6
 status: canonical
 release_state: mutable_active
-current_analytical_horizon: V08
+current_analytical_horizon: V09
 recommended_reasoning_class: DEEP_SYNTHESIS
 reasoning_policy: MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md
 supersedes: []
@@ -19,7 +19,7 @@ do_not_use_as_current_authority: false
 
 This protocol is the canonical responsibility contract for future Re:Zero character reconstruction. It governs what an evidence-ready character monograph or model must be able to represent, how state is selected, how source limits remain visible, and how fidelity is tested.
 
-It is subordinate to `REZERO_ANALYTICAL_METHOD.md`, `REZERO_SYNTHESIS_ARCHITECTURE.md`, `REZERO_ROUTE_AND_WITNESS_PROTOCOL.md`, and the live source lock. It does not admit sources, revise frozen readings, or turn a candidate into a monograph. Through V08, no character is `MONOGRAPH_READY`; master owns person/readiness state, routed to event, knowledge, institution and mechanics for conditioning evidence. V08 adds cooperation under loss, requested lethal care, Emilia's protective agency and a failed terminal attempt, not complete recovery, free consent or full person-history. Existing Subaru/Emilia V01–V04, Subaru/Rem V01–V07 and V07 Wilhelm/Theresia narrated cases retain their narrow scopes. Subaru/Julius is now CHECKPOINT_READY only for V04–V08 qualified repair/residual aversion/entrustment/uncompleted conversation, default reached RZ-E-011 attempt with earlier phases selectable. No later friendship, full marriage, present Emilia forgiveness or mutual successor memory is inferred. No mature-model promotion is made, so its prerequisite first fidelity audit is not instantiated.
+It is subordinate to `REZERO_ANALYTICAL_METHOD.md`, `REZERO_SYNTHESIS_ARCHITECTURE.md`, `REZERO_ROUTE_AND_WITNESS_PROTOCOL.md`, and the live source lock. It does not admit sources, revise frozen readings, or turn a candidate into a monograph. Through V09 no character is `MONOGRAPH_READY`; master owns person/readiness, routed to five specialist ledgers for conditioning evidence. Subaru is CHECKPOINT_READY only for the V04–V09 help/self-worth phase. Named Subaru/Emilia and Subaru/Julius cases extend through actually received V09 repair, qualified by post-bedside receipt limits; Subaru/Rem extends through current living unresponsiveness/nonrecognition, not an available speaking counterpart. V07 Wilhelm/Theresia narrated courtship→declaration retains its separate scope, not a completed marriage/grief history. No current internal-family biography, complete consent, universal cured helping pattern or perfect mutual continuity is inferred. No mature model is promoted, so the prerequisite first fidelity audit is not instantiated. The earned V04–V09 arc checkpoint is pending a separate transaction after the V09 publication gate.
 
 The protocol standardizes **responsibilities, not file count or headings**. A compact monograph may satisfy it when evidence is narrow. A richer packet may divide the responsibilities among current-state, relationship, ordinary-life, voice, evidence, and fidelity artifacts only after each independent retrieval burden is demonstrated.
 
@@ -301,7 +301,9 @@ Every mature model states:
 
 The default is a routing convenience, not the character's single authentic self.
 
-V08 terminal-state application: V08-E1 continues V07-E1/V06-E2/RZ-E-011 until death eleven. The source narrates world flow but does not show the next arrival/checkpoint. Select the reached terminal attempt or an explicit earlier phase; a post-return default is `ENDPOINT_NOT_YET_READ`. Julius/Ferris/Wilhelm/Patrasche witnessing death does not grant RBD or successor remembrance. Subaru's promise to remember is not itself a completed recall test. The same rule protects actual earlier changes from being erased merely because the attempt fails.
+V08 historical terminal-state application: V08-E1 continues V07-E1/V06-E2/RZ-E-011 until death eleven; that freeze does not show arrival/checkpoint. Its post-return query remains `ENDPOINT_NOT_YET_READ` at that horizon. Witnessing death does not grant RBD/successor remembrance; the old promise was not yet recall proof. Actual earlier changes remain evidence under their conditions.
+
+V09 current application: default `RZ-E-013` is Rem's post-ambush bedside after actual death twelve; select E012 or the terminal E011 explicitly for those scenes. New Julius and Emilia conversations are genuinely enacted in V09, not imported V08 mutual history, but the exact timing/repetition of every final-chapter conversation across the retrospectively disclosed bedside return is unshown. Emilia's final care is directly shown without her remembering Rem; Rem's own memory cannot be tested while unresponsive, and Ram's memory remains untested. Crusch's own-memory loss is different and does not remove her present ethical choice. The relationship ledger owns R001–032/RT001–012 state-selected personal terms; event/knowledge own boundary/receipt. The internal escape-family fragment is a separate local premise, not E014 or eight years of current biography. Earlier-phase overrides remain mandatory; no later remedy may be projected into this endpoint.
 
 ## 18. Readiness and promotion
 

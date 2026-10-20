@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: source_lock
 scope: SOURCE_ADMISSION_CONTRACT_AND_CURRENT_INVENTORY_STATE
-generation: V0.9
+generation: V0.10
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -321,7 +321,27 @@ At the historical V07 boundary V08 and every non-spine narrative witness remaine
 - prospective record: exact45 inherited questions/ten forecasts fixed before archive opening, record SHA-256 `bc11d128b96492cdcbceea79622a891ce09582df90ab45985f198cc94f001c62`;
 - structural limit: V08-E1 continues V07-E1/V06-E2/RZ-E-011 until Subaru death eleven; world flow narrated without successor arrival/checkpoint, no capital-section closure.
 
-V09 and all non-spine narrative remain unopened. In-volume artist/promotional pages are paratext, not current Rem/Beatrice appearances or admission of advertised WN/anime/manga. Source identity/image-byte/prospective/prior-freeze guards passed; consumption rests on ordered full reading and visual inspection, not structural parsing alone. All seven earlier volume freezes and estate checkpoint remain unchanged. The complete V08 publication gate must close before V09 opens; admitted range and historical bibliographic-gap check do not advance.
+At the historical V08 boundary V09 and all non-spine narrative remained unopened. In-volume artist/promotional pages are paratext, not current Rem/Beatrice appearances or admission of advertised WN/anime/manga. Source identity/image-byte/prospective/prior-freeze guards passed; consumption rests on ordered full reading and visual inspection, not structural parsing alone. All seven earlier volume freezes and estate checkpoint remained unchanged. V09 below opened only after the complete V08 publication gate closed; admitted range and historical bibliographic-gap check do not advance.
+
+## Volume 09 consumption record
+
+`RZ-MAIN-LN-JA-V09` has been consumed through `p-bookwalker`: all44 OPF spine members and3,830 body-order blocks (3,806 text +24 image references), including frontmatter, narrative, internal escape-family fragment, afterword, artist/promotional pages, biographies, credits and colophon. All22 distinct image resources were visually inspected. One reading-order exception is disclosed below rather than described as flawless spine order.
+
+- locator / title: `Re Zero - Volume 09.epub`; `Ｒｅ：ゼロから始める異世界生活 9`;
+- language / creators / publisher: `ja`; `長月達平` / `大塚真一郎`; KADOKAWA / Media Factory;
+- UUID: `9d0da354-8c4c-48df-a2f6-40e5fb94fd28`;
+- size / SHA-256: `16,078,989` bytes; `5dc5fb10375bdcde0772e14ecf388f49c7a96e1772fd16307868e12d46d8e951`;
+- package / integrity: `item/standard.opf`;82 ZIP entries,44 spine members,22 distinct images; full CRC pass; nonfatal compressed-first-`mimetype` warning;
+- manifest relation: exact anchored size/hash match; manifest SHA-256 `3daa190cefda6ab894f5d62ff547a93856c8133f2d4fc1cbc552b99d73c73314` unchanged;
+- edition basis: electronic issue `2016-09-23`; stated underlying first edition/first printing `2016-09-30`; afterword August2016;
+- provenance: existing governed folder/manifest range; individual V09 Drive ID not separately resolved or invented;
+- analytical product: `02 Sequential Readings/REZERO_LN_V09_DEEP_READING.md`, exact per-member coverage/block convention §1;
+- prospective record: all50 inherited questions/ten forecasts fixed before archive opening, immutable record SHA-256 `072791ac49fbb1a2b2ac338b79f2f81387111002262bf9eae0a9b1c06a9e68a8`;
+- structural boundary: council arrival RZ-E-012, actual death twelve/bedside arrival RZ-E-013; internal family not another return or current biography; explicit third-arc V04–V09 closure in afterword, not completed Rem restoration.
+
+Reading-order exception: after the main-route nonrecognition line at `p-018#B0001`, `p275.jpg` was extracted/viewed before `p-019` prose. The exposure was immediately disclosed and interpretation quarantined; all209 `p-019` blocks were then read in order and the image reinspected at its actual `p-020` reference. No claim or prospective horizon was revised from the premature image; later argument rests on independently consumed prose. This is not an undisclosed perfect-order claim or an exposure to a later volume/non-spine source. The remaining ordered-consumption record accounts for all members/blocks/images, with no unresolved source gap.
+
+Post-EOF exact source, manifest, image bytes, immutable prospect and all eight earlier freezes/estate-checkpoint guards passed. A structural guard does not prove reading; actual full text acquisition and visual inspection do. The internal married family is part of this MAIN_LN container under incompatible local premises, not admission of external IF/WN. Artist/promotional Rem/Emilia dialogue does not awaken current Rem or admit advertised anime/games/bonus witnesses. V10 and all separately acquired non-spine narrative remain unopened. Required next operation is the separately pending source-verified V04–V09 arc checkpoint, created only after V09's complete publication gate and itself closed before V10.
 
 ## Current source-state summary
 
@@ -333,7 +353,7 @@ V09 and all non-spine narrative remain unopened. In-volume artist/promotional pa
 - **Admitted IF/alternate route:** none.
 - **Admitted web novel:** none.
 - **Admitted anime/audiovisual:** none.
-- **Consumed into frozen prospective main-LN analysis:** V01-V08.
+- **Consumed into frozen prospective main-LN analysis:** V01-V09, effective after the V09 publication gate.
 - **Next source acquisition priority:** Japanese V44 and V45 before the sequential read reaches that boundary.
-- **Next analytical operation:** Japanese V09 from frozen V08, only after the complete V08 publication gate.
-- **Current execution state:** active continuous run; terminal V43 unchanged; V08 closeout advances consumption, not the admitted range.
+- **Next analytical operation:** `ARC_03_CHECKPOINT` over frozen V04–V09, only after V09's complete publication gate; Japanese V10 only after checkpoint closeout.
+- **Current execution state:** active continuous run; terminal V43 unchanged; V09 closeout advances consumption, not the admitted range.
