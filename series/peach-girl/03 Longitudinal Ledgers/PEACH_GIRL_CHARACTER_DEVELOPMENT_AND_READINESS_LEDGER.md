@@ -5,7 +5,7 @@ artifact_type: character_development_readiness_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.15"
+version: "0.16"
 status: active_provisional
 scope: "Character Development and Readiness; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -554,3 +554,44 @@ Readiness UNASSESSED_NO_OPERATIONAL_MODEL_TESTED; no new RD.
 | PG-CS-0240@1 / CHAR0001 / CS0238 | KNOWLEDGE/AFFECT: sees K157/calls back159/sees tear160/HEARS lingering apology161/shocked162 | EV0026–0027; has not explicitly told K resumed T romance |
 
 Next CHAR0030,CS0241,RD0001. Revision0.15 — V16 successors; prior bodies retained.
+
+## V17 successor transaction — PG-FR-V17
+
+[V17 reading](../02%20Sequential%20Readings/PEACH_GIRL_V17_DEEP_READING.md);2026-10-20 owner date.173 directly inspected/158 mainline. EV=PG-EV-V17. Historical rows unchanged.
+
+Readiness UNASSESSED_NO_OPERATIONAL_MODEL_TESTED; no new RD.
+
+| Local subject | Verified admission | Limit |
+| --- | --- | --- |
+| PG-CHAR-0030 | Unnamed cap-wearing hired assault leader97/112–124; receives R commission/cancellation, strikes S123 | No invented personal name/payment amount |
+| PG-CHAR-0031 | Two other unnamed male assailants recurring with capman98/111–124 | Collective role, not invented separate names; one clubs R113 |
+| PG-CHAR-0032 | Unnamed hospital doctor137/143/150; private clinical conversation/flashback explanation | Fictional clinical authority; medical mechanism not externally validated |
+
+| State / subject / prior | Actual transition/frontier | Basis / limit |
+| --- | --- | --- |
+| PG-CS-0241@1 / CHAR0001 / CS0240 | AFFECT/KNOWLEDGE: wonders K saw kiss18/cares S/real T happiness and lingering K tear25 | EV0002; private question not received cause |
+| PG-CS-0242@1 / CHAR0020 / CS0231 | CHOICE: refuses S relationship/fatherhood10–12/drug-money13/asks breakup16 | EV0001; fictional medical/social claims not facts; no ingestion |
+| PG-CS-0243@1 / CHAR0003 / CS0232 | CHOICE/AFFECT: slap13/cling16/refusal suffered; nods pregnancy21/thanks M22/withholds actual R decision23 | EV0001–0002; gratitude actual, current belief not clinical truth |
+| PG-CS-0244@1 / CHAR0003 / CS0243 | CHOICE: actual hammer assault stopped45–46/threats47/birth insistence49/receives Mis never-date promise51–52 | EV0006–0007; pot authorship still unproven |
+| PG-CS-0245@1 / CHAR0005 / CS0233 | CHOICE: near-missed pot26/no actor seen27/hug29; hammer target46/pours water50/never-date promise S51 | EV0003/0006–0007; reciprocal wrongdoing not ethical equivalence |
+| PG-CS-0246@1 / CHAR0004 / CS0239 | CHOICE/KNOWLEDGE: suspects pot actor27/protects Mis46/LIES M tear cause32 | EV0003–0004/0006; actual protector and deceptive explanation coexist |
+| PG-CS-0247@1 / CHAR0001 / CS0241 | AFFECT/CHOICE: accepts Mis cause33–34/traffic near miss35/real park joy/initiates T embrace40 | EV0004–0005; no intentional self-harm/sex/settled K feeling absent |
+| PG-CS-0248@1 / CHAR0002 / CS0237 | CHOICE: traffic intervention35/quiet park/new happy memory pledge39/receives M embrace40 | EV0004–0005; actual restorative care, no future guarantee |
+| PG-CS-0249@1 / CHAR0005 / CS0245 | KNOWLEDGE/CHOICE: escorts S52/return taxi53/hears true K M-visit motive54–57 | EV0007; M not recipient of true account |
+| PG-CS-0250@1 / CHAR0003 / CS0244 | CHOICE: accepts R renewed contact73/meet74, happiness after rejection | EV0010; R motive instrumental not secure commitment |
+| PG-CS-0251@1 / CHAR0004 / CS0246 | DISCLOSURE: actual M-confession intent/kiss witness/tears TO Mis54–57/intends withdraw | EV0007/0025; intention contradicted later pursuit, not M receipt |
+| PG-CS-0252@1 / CHAR0005 / CS0249 | CHOICE: confronts R/moral glasses metaphor63/explicit rejects65/walks66 | EV0008; selective caring later not erase present rejection |
+| PG-CS-0253@1 / CHAR0001 / CS0247 | CHOICE/KNOWLEDGE: handbook returned70/asks own portrait76/rejects stirred feelings78/release80/hears K love82/comparison92 | EV0009/0011–0012; no consensual K resumption |
+| PG-CS-0254@1 / CHAR0004 / CS0251 | CHOICE: book finder learned71/repeats lie77/hugs after stop81/confesses82/refuses release88–94/comparison92/final release95 | EV0009/0011–0012; sincere love not bodily permission |
+| PG-CS-0255@1 / CHAR0002 / CS0248 | CHOICE: witnesses83/release demands88–94/M not dog90/pulls M95/asks choose102/now115 | EV0011–0015; restores decision and imposes time pressure |
+| PG-CS-0256@1 / CHAR0020 / CS0242 | CHOICE/ACCOUNT: hires assault97/K envy-love105–106/affected family110/cancels112/attacked113/urges S escape114 | EV0013–0015; cancellation actual, original harm not performed as hired |
+| PG-CS-0257@1 / CHAR0003 / CS0250 | CHOICE/ACCOUNT: family promise109/escapes115/help call118/hears hiring120/shields R122/struck123 | EV0014–0017; actual attachment/risk, no actual pregnancy required |
+| PG-CS-0258@1 / CHAR0021 / CS0116 | CHOICE/REPORT: returns99/hiring disclosure to S120/holds her/retaliation context; answers R phone130/hangs up131 | EV0013/0016–0017/0027; visual identity bounded V10; abdomen report vs back panel |
+| PG-CS-0259@1 / CHAR0020 / CS0256 | CHOICE: asks prioritize S132/my fault136/self-identifies child father137/reports nonpregnancy149–150/leaves151 | EV0018–0020; not full hiring confession/paternity verification/lasting reform |
+| PG-CS-0260@1 / CHAR0003 / CS0257 | KNOWLEDGE/AFFECT: interprets partial clinical speech as miscarriage146–148/learns no pregnancy149/acknowledges M-K-T152/grief/asks alone153 | EV0019–0021; mistaken belief not established deliberate fabrication |
+| PG-CS-0261@1 / CHAR0001 / CS0253 | AFFECT/KNOWLEDGE: emergency relay119/arrives134/relieved interrupted choice138/uncertain feelings140/hears correction152 | EV0016–0021; no hiring report received/relief not injury pleasure |
+| PG-CS-0262@1 / CHAR0004 / CS0254 | CHOICE/KNOWLEDGE: hospital route133/hears correction152/contacts Mis156/owns contact158/private terrified161 | EV0017–0023; actual fear not renewed Mis-romance preference |
+| PG-CS-0263@1 / CHAR0002 / CS0255 | CHOICE: respect S solitude154/decision again155/later no guilt/changeable hearts/own feeling161–162 | EV0021–0023; relaxation of indebtedness does not erase earlier now-demand |
+| PG-CS-0264@1 / CHAR0001 / CS0261 | CHOICE: actually takes T hand/sorry Okayasu164 | EV0024; present T decision, not eternal endgame/absence all K feeling |
+
+Next CHAR0033,CS0265,RD0001. Revision0.16 — V17 successors; prior bodies retained.

@@ -5,7 +5,7 @@ artifact_type: information_reputation_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.15"
+version: "0.16"
 status: active_provisional
 scope: "Information Circulation and Reputation; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -1138,3 +1138,92 @@ Next IP0202, KN0212, TX0251, RP0067. Revision0.14 — V15 successors2026-10-20; 
 | PG-RP-0069 / NONE | Public R/S dispute/pregnancy and paternity slur124–125/Mis defense127/crowd applause | EV0019–0021; small crowd reaction not universal ethical vindication |
 
 Next IP0222,KN0229,TX0269,RP0070. Revision0.15 — V16 successors; prior bodies retained.
+
+## V17 successor transaction — PG-FR-V17
+
+[V17 reading](../02%20Sequential%20Readings/PEACH_GIRL_V17_DEEP_READING.md);2026-10-20 owner date.173 directly inspected/158 mainline. EV=PG-EV-V17. Historical rows unchanged.
+
+| Proposition / prior | Content/class | Evidence / limit |
+| --- | --- | --- |
+| PG-IP-0222@1 / IP0220 | K tear cause told M Mis/R32/repeated77 contradicted actual M intent told Mis54–57 | EV0004/0007/0025; DEMONSTRATED_FALSE_CAUSE_DISTINCT_RECIPIENTS |
+| PG-IP-0223@1 / NONE | R drug/money/reproductive claims11–13/Mis objection48/59–65 | EV0001/0006/0008; FICTIONAL_MEDICAL_ASSERTIONS_NOT_VERIFIED_GUIDANCE |
+| PG-IP-0224@1 / IP0207 | S reaffirms pregnancy21/49, thanks M22/withholds R refusal23 | EV0002/0006; BELIEF_REASSERTED_NOT_CLINICAL_PROOF |
+| PG-IP-0225@1 / NONE | Pot actor unknown26–27 despite K suspicion/S actual hammer45–46 | EV0003/0006; DIFFERENT_EVENT_AUTHORSHIP_NOT_TRANSFERRED |
+| PG-IP-0226@1 / NONE | Mis never-date-R to S51–52 and directly R65 | EV0007–0008; ACTUAL_RECEIVED_REJECTION_TO_BOTH |
+| PG-IP-0227@1 / IP0212 | K picks handbook70/M finder learned71/PE underdesk explanation75 | EV0009; ACTUAL_RETURN_NOT_PRIOR_INTENTION |
+| PG-IP-0228@1 / NONE | R renewed S contact after Mis rejection72/instrumental reason | EV0010; EXPLICIT_REASON_NOT_SECURE_ENDURING_COMMITMENT |
+| PG-IP-0229@1 / NONE | M no stirring78/release80/K after-refusal tightens81/love82 | EV0011; TRUE_ATTACHMENT_NOT_BODILY_PERMISSION |
+| PG-IP-0230@1 / IP0221 | K explicitly distinguishes Mis first recognition from present M love92 | EV0012; NEW_DISCLOSURE_NOT_RETROACTIVE_OLD_WINDOW_SUCCESS |
+| PG-IP-0231@1 / NONE | R hires assault/unconsciousness/hospital intervention97/cancels112 | EV0013/0015; COMMISSION_ACTUAL_ORIGINAL_COMPLETION_ABSENT |
+| PG-IP-0232@1 / NONE | R K envy-love105–106/S M envy-loneliness107–108 | EV0014; ATTRIBUTED_SELF_ACCOUNTS_NOT_GENETIC_OR_SOCIAL_FACT |
+| PG-IP-0233@1 / NONE | S family pledge109/R affected110 | EV0014; REAL_LOCAL_AFFECT_NOT_ERASURE_HIRING |
+| PG-IP-0234@1 / NONE | Morika tells S R hiring120; M phone118 only emergency | EV0016/0027; SPLIT_KNOWLEDGE_CHANNELS |
+| PG-IP-0235@1 / NONE | S body shields R122/club back123 vs Morika abdomen report130 | EV0017; ACTUAL_ASSAULT_AND_REPORT_LOCUS_DISTINCT |
+| PG-IP-0236@1 / NONE | Trio still classroom127/hospital after R route133–134 | EV0017; NOT_PARK_RESCUERS |
+| PG-IP-0237@1 / NONE | R my fault136/child father137 heard trio then doctor private | EV0018; RESPONSIBILITY_MOMENT_NOT_FULL_HIRING_CONFESSION |
+| PG-IP-0238@1 / NONE | M relief interrupted choice138/uncertain why T insufficient140 | EV0018; MIXED_AFFECT_NOT_PLEASURE_AT_HARM |
+| PG-IP-0239@1 / NONE | S partial ultrasound hearing146 concludes baby dead147–148 | EV0019; MISTAKEN_MISCARRIAGE_INTERPRETATION |
+| PG-IP-0240@1 / IP0207 | No pregnancy149/想像妊娠; S reports positive test150/doctor fictional mechanism | EV0020; NARRATIVE_CORRECTION_NOT_INTENTIONAL_FRAUD_PROOF_OR_REAL_MEDICAL_VALIDATION |
+| PG-IP-0241@1 / IP0240 | S explicit 想像妊娠だって152 to M/K/T | EV0021/0026; ACKNOWLEDGED_FALSE_PREGNANCY_BELIEF_PR21_SUPPORTED |
+| PG-IP-0242@1 / NONE | S never needed family152 defensive against actual109/tears153 | EV0014/0021; SELF_ACCOUNT_NOT_ALL_PAST_DESIRE_FALSE |
+| PG-IP-0243@1 / NONE | Mis hospital care156–158 assumes pregnancy/no correction receipt | EV0022; NO_AUTOMATIC_OMNISCIENCE_OR_ROMANTIC_REVERSAL |
+| PG-IP-0244@1 / NONE | T immediate decision115 then no guilt/own feeling162 | EV0015/0023; ORDERED_CHANGE_PRESSURE_AND_RELEASE |
+| PG-IP-0245@1 / NONE | M takes T hand/sorry K164 | EV0024; ACTUAL_PRESENT_CHOICE_NOT_ETERNAL_ENDGAME |
+
+| Knowledge / holder | Receipt at frontier | Limit |
+| --- | --- | --- |
+| PG-KN-0229 / Momo | K tear/Mis cause32 accepted33; true54–57 not heard | EV0004/0007; reader knows lie without M knowledge |
+| PG-KN-0230 / Sae | R actual refusal10–16/M care21–23/Mis promise51–52 | EV0001–0002/0007; withholds R refusal from M |
+| PG-KN-0231 / Misao | Pot actor not seen27/K empathic hug29/hammer stopped46 | EV0003/0006; no verified pot culprit |
+| PG-KN-0232 / Misao | K true M home intent/kiss witness/tears54–57 | EV0007; no demonstrated whole-account relay M |
+| PG-KN-0233 / Ryo | Mis actual moral objection/never-date65/leave66 | EV0008; not merely misunderstood hint |
+| PG-KN-0234 / Kairi | Book finder M71/PE explanation75/M wants stop stirring78 | EV0009/0011; acknowledged boundary then overrides |
+| PG-KN-0235 / Momo | Actual K confession82/present Mis-important versus M-love92 | EV0011–0012; not full V15 late cause |
+| PG-KN-0236 / Tōji | Actual hug witness83/K love and comparison92/M stop/release requests | EV0011–0012; not K full private history |
+| PG-KN-0237 / Ryo; hired capman | Commission97/cancellation112; reader observes | EV0013/0015; M/T/K absent |
+| PG-KN-0238 / Sae | R sibling-envy account105–106/own family pledge109 | EV0014; no transferred M/K receipt |
+| PG-KN-0239 / Momo, Tōji, Kairi | S phone emergency118/relay119; unknown which park129 | EV0016–0017; no hiring detail receipt |
+| PG-KN-0240 / Sae | Morika hiring account120 then shields R122 | EV0016–0017; does not learn every private R intention |
+| PG-KN-0241 / Momo, Kairi, Tōji | Morika phone report130/no name131/R route133/hospital134 | EV0017; report abdomen differs panel back |
+| PG-KN-0242 / Ryo | Private doctor143/full nonpregnancy result disclosed149–150 | EV0019–0020; not every cast member hears private clinical words |
+| PG-KN-0243 / Sae | Partial ultrasound talk146/miscarriage inference147/correction149–150 | EV0019–0020; prior claim can be mistaken belief |
+| PG-KN-0244 / Momo, Kairi, Tōji | S herself acknowledges 想像妊娠152/asks alone153 | EV0021; explicit named recipients satisfy PR21 |
+| PG-KN-0245 / Misao | K request brings her156/still assumes early pregnancy; R strained smile157 | EV0022; no shown correction receipt V17 |
+| PG-KN-0246 / Momo, Tōji | K explicitly called/emailed Mis158; actual care tableau | EV0022; not evidence renewed K Mis priority |
+| PG-KN-0247 / Momo | T no guilt/changeable hearts/choose own feeling161–162 then takes T hand164 | EV0023–0024; present choice not all inner conflict solved |
+| PG-KN-0248 / Reader | K lies vs true recipient; hiring/cancel; S genuine grief/no pregnancy; M actual choice | EV0001–0028; crosscut private knowledge not automatic character knowledge |
+
+| Transfer / channel | Content/disposition | Evidence / limit |
+| --- | --- | --- |
+| PG-TX-0269 / Ryo → Sae | Refusal/drug-money/breakup10–16 | EV0001; medical assertions attributed, no performed procedure |
+| PG-TX-0270 / Momo ↔ Sae | Pregnancy question/nod21/thanks22/listen offer23; R refusal withheld | EV0002; actual care/partial disclosure |
+| PG-TX-0271 / Kairi/Misao → each other | Pot suspicion/no actor seen27/feeling dilemma28/hug29 | EV0003; not culprit confirmation |
+| PG-TX-0272 / Kairi → Momo | False Mis/R cause32/accepted33 | EV0004; misleading causal speech |
+| PG-TX-0273 / Tōji ↔ Momo | New park memory pledge39/initiated embrace40 | EV0005; actual affection/future plan |
+| PG-TX-0274 / Misao → Sae | Never date R51/reconfirmed52 | EV0007; received renunciation |
+| PG-TX-0275 / Kairi → Misao | True M confession intent/kiss witness/tears54–57 | EV0007; M not full recipient |
+| PG-TX-0276 / Misao → Ryo | Pressure objection/glasses metaphor63/never date65/leave66 | EV0008; received refusal |
+| PG-TX-0277 / Handbook/Momo → Kairi | Actual return70/finder71/PE explanation75 | EV0009; material plus spoken channel |
+| PG-TX-0278 / Ryo ↔ Sae | Renew contact72/S happy73/meet74 | EV0010; instrumental basis not solved relationship |
+| PG-TX-0279 / Momo → Kairi | Why portrait76/no stirring78/stop-release80/88 | EV0011–0012; actual boundary not heeded |
+| PG-TX-0280 / Kairi → Momo/Tōji | Love82/Mis first recognition present M love92 | EV0011–0012; new comparison no old forecast rescue |
+| PG-TX-0281 / Tōji/Kairi → each other | Give back89/not dog90/release demands88–94 | EV0012; objectification challenged not choice completed |
+| PG-TX-0282 / Ryo → capman | Assault commission97/cancellation112 | EV0013/0015; actual cancellation before original completed plan |
+| PG-TX-0283 / Ryo ↔ Sae | K envy-love105–106/shared loneliness107–108/family pledge109 | EV0014; no transfer to trio |
+| PG-TX-0284 / Tōji → Momo | You decide102/NOW choice115–116/interrupted117 | EV0013/0015; immediate constraint |
+| PG-TX-0285 / Sae → Momo → trio | R beating/escaped/help118/relay119 | EV0016; no hiring details |
+| PG-TX-0286 / Morika → Sae | R hired attackers120/forget him121 | EV0016; attributed new hiring account |
+| PG-TX-0287 / Morika → trio by R phone | Ambulance/shielding/abdomen report130/hangup131/no identity | EV0017; back panel discrepancy preserved |
+| PG-TX-0288 / Ryo → Kairi/trio/doctor | Hospital route133/my fault136/child father137 | EV0017–0018; not full hiring confession |
+| PG-TX-0289 / Doctor/Ryo → Sae | Partial ultrasound146/R no baby149–150 | EV0019–0020; fictional medical account not verified advice |
+| PG-TX-0290 / Sae → Momo/Kairi/Tōji | 想像妊娠だって152/asks alone153 | EV0021/0026; explicit acknowledgment PR21 supported as mistake |
+| PG-TX-0291 / Kairi → Misao; Kairi → M/T | Call/email brings Mis156/explicit account158 | EV0022; Mis pregnancy correction not shown |
+| PG-TX-0292 / Tōji → Momo; Momo → both | No guilt/own feeling161–162/M takes T hand/sorry K164 | EV0023–0024; actual present choice |
+
+| Reputation / prior | Event/interpretation | Evidence / limit |
+| --- | --- | --- |
+| PG-RP-0070 / RP0069 | Public prior pregnancy claim corrected to M/K/T152, not demonstrated schoolwide correction | EV0021; no invented all-peers receipt or deliberate-fraud confession |
+| PG-RP-0071 / NONE | R self-devaluation bad genes104/K envy106 versus S generalization M always understood108 | EV0014; attributed self/social accounts not analyst worth ranking |
+| PG-RP-0072 / NONE | Morika return/hiring disclosure120/phone concealment131 leaves distinct local audiences | EV0016–0017/0027; no public comprehensive scandal resolution |
+
+Next IP0246,KN0249,TX0293,RP0073. Revision0.16 — V17 successors; prior bodies retained.

@@ -5,7 +5,7 @@ artifact_type: corpus_map
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.15"
+version: "0.16"
 status: active_provisional
 scope: "Single current entrypoint, source/readiness boundaries and next permitted operation"
 source_boundary: "Original Japanese manga; 新装版 V01–V18 byte- and package-verified; owner-authorized continuous run V01–V18 active"
@@ -36,22 +36,22 @@ project_initialization:
   substantive_sequential_findings_at_bootstrap: false
   owner_review: EXECUTION_AUTHORIZED_RESULT_ACCEPTANCE_PENDING
   sequential_analysis_lock: OPEN
-  next_permitted_operation: V17
+  next_permitted_operation: V18
 sequential_execution:
   mode: continuous_sequential
   unit_type: volume
   authorized_start: V01
   terminal_boundary: V18
-  committed_high_water_mark: V16
-  next_candidate_operation: V17
+  committed_high_water_mark: V17
+  next_candidate_operation: V18
   confirmation_between_units: false
   run_state: active
 analytical_execution:
   authorization: OWNER_AUTHORIZED_FULL_SERIES_RUN_LOCAL_ONLY
   authorization_record: "07 Audits and Handoffs/PEACH_GIRL_EXECUTION_AUTHORIZATION_AND_INITIATION_RECORD.md"
-  sequential_units_admitted: 16
-  sequential_units_completed: 16
-  committed_narrative_high_water_mark: V16
+  sequential_units_admitted: 17
+  sequential_units_completed: 17
+  committed_narrative_high_water_mark: V17
   character_reconstruction_readiness: UNASSESSED_MODELS_NOT_PROPOSED_NARRATIVE_EVIDENCE_PRESENT
   publication: PROHIBITED_FOR_THIS_RUN_LOCAL_COMMITS_ONLY
 repository_state:
@@ -68,9 +68,9 @@ This is the single current first-read surface for Miwa Ueda's ピーチガール
 
 `SEQUENTIAL_ANALYSIS_LOCK = OPEN`
 
-`NEXT_PERMITTED_OPERATION = V17`
+`NEXT_PERMITTED_OPERATION = V18`
 
-**New owner-authorized Route B continuation; pre-V05 source audit closed with corrections.** Work's substantive analytical corpus was not recovered. The [recovery receipt](07%20Audits%20and%20Handoffs/PEACH_GIRL_CODEX_RECOVERY_RECEIPT_20261019.md) preserves the earlier stop and input provenance; the [Codex source audit](07%20Audits%20and%20Handoffs/PEACH_GIRL_CODEX_V01_V04_SOURCE_AUDIT_20261019.md) records 177 directly checked V01–V04 images, findings, alternatives and successor ledger versions at PG-AUDIT-20261019. Historical PG-FR-V01…V04 remain unchanged. The audit was committed at `364ffc6f8cb4a01a56ad219761d867abaf7874b2` and independently restored from its verified outside-checkout backup before V05. New Codex V05 was committed at `15163c502663711b6a93b3c75a8bf1ab9d8721af` and its outside-checkout backup independently restored before V06. V06 was committed at `4f0f8b27650bb7a5757d9d61544846074baf5727`, with the openly dated own V05 perfume-selection correction, and independently restored before V07 admission. V07 was committed at `33e2adb495b6064f13f6a1f8c96c76f40ff3a841` and independently restored before V08 admission. V08 was committed at `c169ba0fac6c0ab688487359d46d327debcec1f9` and independently restored before V09 admission. V09 was committed at `cefe98342814d999180d5e2ff6a6641afc8cd00d` and independently restored before V10 admission. V10 was committed at `fac04c2dcd5570ce56340b9d533b9af74a945ed2` and independently restored before V11 admission. V12 was committed at `b5e88031b837249a718914c8efcd623f9983bfd5` and independently restored before V13 admission. V15 committed0115bf4493de58952ad755ca626dcde29f1983a8 and independently restored before V16 admission. V16 closes171 inspected/157 mainline: K conceals explanation/current attachment, M portrait hope and actual T affection/refusal; T stops/apologizes/waits. Mis/R actual reciprocity plus S slap/R hit, then Mis withdraws/defends S/leaves. S public pregnancy claim/test object not clinical truth; R denials/slurs attributed. K actual private M love/counterfactual regret/witnessed M-T kiss/final lingering apology heard M. No direct M T-resumption words: PR0020 disconfirmed. V17 next only after coherent V16 commit and independently restored outside backup. Source samples do not certify an independent full four-volume re-read.
+**New owner-authorized Route B continuation; pre-V05 source audit closed with corrections.** Work's substantive analytical corpus was not recovered. The [recovery receipt](07%20Audits%20and%20Handoffs/PEACH_GIRL_CODEX_RECOVERY_RECEIPT_20261019.md) preserves the earlier stop and input provenance; the [Codex source audit](07%20Audits%20and%20Handoffs/PEACH_GIRL_CODEX_V01_V04_SOURCE_AUDIT_20261019.md) records 177 directly checked V01–V04 images, findings, alternatives and successor ledger versions at PG-AUDIT-20261019. Historical PG-FR-V01…V04 remain unchanged. The audit was committed at `364ffc6f8cb4a01a56ad219761d867abaf7874b2` and independently restored from its verified outside-checkout backup before V05. New Codex V05 was committed at `15163c502663711b6a93b3c75a8bf1ab9d8721af` and its outside-checkout backup independently restored before V06. V06 was committed at `4f0f8b27650bb7a5757d9d61544846074baf5727`, with the openly dated own V05 perfume-selection correction, and independently restored before V07 admission. V07 was committed at `33e2adb495b6064f13f6a1f8c96c76f40ff3a841` and independently restored before V08 admission. V08 was committed at `c169ba0fac6c0ab688487359d46d327debcec1f9` and independently restored before V09 admission. V09 was committed at `cefe98342814d999180d5e2ff6a6641afc8cd00d` and independently restored before V10 admission. V10 was committed at `fac04c2dcd5570ce56340b9d533b9af74a945ed2` and independently restored before V11 admission. V12 was committed at `b5e88031b837249a718914c8efcd623f9983bfd5` and independently restored before V13 admission. V16 committed038f6602da2df29b1a0513f4d31948bb21d5c8a3 and independently restored before V17 admission. V17 closes173 inspected/158 mainline: K false tear cause to M/true cause to Mis; actual confession/comparison plus unwanted hold. T restorative care/immediate pressure/later no-guilt words; M present T hand-choice164. S gratitude/hammer/family pledge/shielding/actual injury, then acknowledged nonpregnancy152 heard M-K-T: mistaken belief not deliberate fabrication. R coercive hiring/actual cancellation/emergency care distinct. PR0021 supported exact retraction test. V18 next only after coherent V17 commit and independently restored outside backup. Source samples do not certify an independent full four-volume re-read.
 
 The owner's 2026-10-16 instruction authorizes a `continuous_sequential` run over V01–V18 (one complete volume per unit, no confirmation between units) and the post-sequential program the architecture defines, as a local-only execution: no push, remote ref, pull request or Drive write. The [execution authorization and initiation record](07%20Audits%20and%20Handoffs/PEACH_GIRL_EXECUTION_AUTHORIZATION_AND_INITIATION_RECORD.md) holds the exact scope, the gate verification and the capability profile. Each volume closes as one atomic transaction before the next is opened. The high-water mark above advances only when that transaction's reading, ledgers, freeze and this entrypoint are committed together.
 
@@ -113,6 +113,7 @@ Each row is a closed atomic transaction. Its freeze is recorded in the reading i
 | [V14](02%20Sequential%20Readings/PEACH_GIRL_V14_DEEP_READING.md) | PG-FR-V14 | Actual confession/rejection, communicated waiting deadline, Sae mixed repair/setup, new negative admission/Momo exact receipt/Tōji own-fault apology; influenza unknown to Momo, conditional renewed proposal unanswered. PR0018 supported |
 | [V15](02%20Sequential%20Readings/PEACH_GIRL_V15_DEEP_READING.md) | PG-FR-V15 | K M-first actual but heard Misao; mixed emergency/choice and missed deadline, M finite extended wait/partial knowledge, responsive T intimacy/return with private doubts, failed K road/inn transmission. PR0019 disconfirmed |
 | [V16](02%20Sequential%20Readings/PEACH_GIRL_V16_DEEP_READING.md) | PG-FR-V16 | Concealed K attachment/object evidence, M actual T affection/stop respected, selective R tenderness and violence/Mis withdrawal, unconfirmed pregnancy claim, K witnessed kiss/final lingering apology; PR0020 disconfirmed |
+| [V17](02%20Sequential%20Readings/PEACH_GIRL_V17_DEEP_READING.md) | PG-FR-V17 | Confession plus boundary violation; split explanation recipients; imagined family/assault/nonpregnancy acknowledgment; M present T choice; PR0021 supported as mistake |
 <!-- sequential-readings-end -->
 
 ## Read order and canonical responsibilities
@@ -163,3 +164,5 @@ Revision history0.13 — V14 new Route B,175 inspected/159 mainline,31 evidence 
 Revision history0.14 — V15 new Route B,175 inspected/161 mainline,29 evidence observations,twelve revised claims/four-ledger successors/PG-FR-V15. V01–V14 reading bytes/all historical rows retained. V16 next after atomic commit/independent outside restore; G1–G6 pending,2026-10-20 owner date.
 
 Revision history0.15 — V16 new Route B;171 inspected/157 mainline/28 EV/four-ledger successors/PG-FR-V16. V01–V15 bytes/historical rows preserved; V17 only after atomic commit and independent outside restore. G1–G6 pending,2026-10-20 owner date.
+
+Revision history0.16 — V17 new Route B;173 inspected/158 mainline/28 EV/four-ledger successors/PG-FR-V17. V01–V16 bytes/history retained; V18 only after commit/independent restore. G1–G6 pending,2026-10-20 owner date.

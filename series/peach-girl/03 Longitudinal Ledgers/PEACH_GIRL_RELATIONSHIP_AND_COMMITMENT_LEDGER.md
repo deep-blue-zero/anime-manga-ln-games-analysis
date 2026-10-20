@@ -5,7 +5,7 @@ artifact_type: relationship_commitment_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.15"
+version: "0.16"
 status: active_provisional
 scope: "Directional Relationships and Commitments; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -703,3 +703,62 @@ Next RL0236, CM0149. Revision0.14 — V15 successors2026-10-20; all prior direct
 | PG-CM-0161 / CM0151 | Final M questions159/161/K lingering apology161; M no explicit T-resumption words | EV0026–0027; PR20_DISCONFIRMED_EXACT_DIRECT_DISCLOSURE_TARGET |
 
 Next RL0257,CM0162. Revision0.15 — V16 successors; prior bodies retained.
+
+## V17 successor transaction — PG-FR-V17
+
+[V17 reading](../02%20Sequential%20Readings/PEACH_GIRL_V17_DEEP_READING.md);2026-10-20 owner date.173 directly inspected/158 mainline. EV=PG-EV-V17. Historical rows unchanged.
+
+| Direction / prior | Actual transition | Evidence / limit |
+| --- | --- | --- |
+| PG-RL-0257 / RL0245 | Ryo → Sae / kindness then romance/fatherhood refusal/drug-money11–13/breakup request16 | EV0001; coercive options framing not medical truth |
+| PG-RL-0258 / RL0250 | Sae → Ryo / actual slap13/cling16/pregnancy attachment | EV0001; violence and rejection suffering coexist |
+| PG-RL-0259 / RL0209 | Momo → Sae / warnings not harm Mis19/care21/offer listen23 | EV0002; care not all claims certified |
+| PG-RL-0260 / RL0208 | Sae → Momo / actual thanks22/withholds R refusal23 | EV0002; mixed gratitude/concealment |
+| PG-RL-0261 / RL0240 | Kairi → Misao / hugs shared confusion29/stops hammer46 | EV0003/0006; protector not proof current Mis romantic priority |
+| PG-RL-0262 / RL0241 | Misao → Kairi / cannot simply turn feelings off28/hears actual M-purpose54–57 | EV0003/0007; sibling-only boundary not revoked |
+| PG-RL-0263 / RL0256 | Kairi → Momo / lies tears due Mis32/despite true cause told Mis54–57 | EV0004/0007/0025; care/concealment not same |
+| PG-RL-0264 / RL0255 | Momo → Kairi / hopes then accepts false Mis cause33–34 | EV0002/0004; current interpretation mistaken not global irrationality |
+| PG-RL-0265 / RL0248 | Tōji → Momo / traffic safety35/quiet park/overwrite breakup memory39 | EV0004–0005; specific care not entitlement |
+| PG-RL-0266 / RL0247 | Momo → Tōji / actual happiness25/initiates park embrace40 | EV0002/0005; not counterfeit because K feeling persists |
+| PG-RL-0267 / RL0244 | Sae → Misao / hammer assault stopped45–46/threat47/accepts never-date promise52 | EV0006–0007; pot actor still unknown |
+| PG-RL-0268 / RL0251 | Misao → Sae / water50/explicit renunciation51–52/escort | EV0006–0007; force/care/own choice distinct |
+| PG-RL-0269 / RL0249 | Misao → Ryo / confronts abortion pressure59–61/glasses metaphor63/never date65/leaves66 | EV0008; explicit current rejection not eternal outcome proof |
+| PG-RL-0270 / RL0252 | Ryo → Misao / only-choice and deliberately-cruel excuse rejected59–65 | EV0008; shock not reform |
+| PG-RL-0271 / RL0263 | Kairi → Momo / repeats false cause77/embraces after stop81/confesses82/grabs/refuses88–94/comparison92 | EV0011–0012; genuine attachment/current boundary violation |
+| PG-RL-0272 / RL0264 | Momo → Kairi / photo question76/don’t stir78/release80/88/hears love82/comparison92 | EV0011–0012; no permission or renewed relationship |
+| PG-RL-0273 / RL0254 | Tōji → Kairi / release demands88–94/M not dog90/pulls M95 | EV0012; neither man owns her choice |
+| PG-RL-0274 / RL0086 | Kairi → Tōji / give M back89/true love plea91/comparison92/refuses release94 | EV0012; objectifying transfer speech not erased |
+| PG-RL-0275 / RL0265 | Tōji → Momo / asks decide102/choose between men NOW115–116 | EV0013/0015; agency restored with time-pressure constraint |
+| PG-RL-0276 / RL0257 | Ryo → Sae / hires assault97/affected family110/cancels112/urges escape114 | EV0013–0015; feeling and actual cancellation coexist with original coercion |
+| PG-RL-0277 / RL0258 | Sae → Ryo / recognizes shared loneliness107–108/family promise109/shields body122 | EV0014/0017; costly attachment not universal harmlessness |
+| PG-RL-0278 / NONE | Morika → Ryo / returning revenge context99/hiring disclosure120/men attack113–124 | EV0013/0015–0017/0027; no all command wording invented |
+| PG-RL-0279 / NONE | Ryo → Morika / prior connection revealed by return99/assault context120 | EV0013/0016/0027; no new reconciliation/account to M |
+| PG-RL-0280 / RL0276 | Ryo → Sae / prioritizes care132/my fault136/father self-ID137/corrects pregnancy149–150/leaves151 | EV0018–0020; new responsibility moment not completed restitution |
+| PG-RL-0281 / RL0260 | Sae → Momo / help call118/actual pregnancy correction152/asks alone153 | EV0016/0021; only report content actually received |
+| PG-RL-0282 / RL0275 | Tōji → Momo / no guilt/no debt/hearts change/choose own feeling161–162 | EV0023; later releases pressure, no guarantee painless result |
+| PG-RL-0283 / RL0266 | Momo → Tōji / takes his hand164 after received no-guilt speech | EV0023–0024; present chosen attachment |
+| PG-RL-0284 / RL0272 | Momo → Kairi / addressed sorry Okayasu while taking T hand164 | EV0024; rejection of present reunion not proof never loved |
+| PG-RL-0285 / RL0271 | Kairi → Momo / fear159–161/returns163/stunned by T hand choice164 | EV0023–0024; no entitlement to changed answer |
+| PG-RL-0286 / RL0261 | Kairi → Misao / calls/emails to hospital156/explicitly tells M-T158 | EV0022; contact not automatic renewed romantic priority |
+| PG-RL-0287 / RL0269 | Misao → Ryo / arrives156/visible care158 while still assumes pregnancy | EV0022; actual concern not explicit never-date reversal |
+
+| Commitment / prior | Terms and actual disposition | Evidence / limit |
+| --- | --- | --- |
+| PG-CM-0162 / NONE | R refuses S romance/fatherhood10–12/asks breakup16; S cannot secure return | EV0001; ROMANCE_REFUSAL_ACTUAL_REPRODUCTIVE_PRESSURE_DISTINCT |
+| PG-CM-0163 / NONE | M offers S ongoing listening23/S thanks22 but withholds R refusal | EV0002; CARE_OFFER_RECEIVED_INFORMATION_INCOMPLETE |
+| PG-CM-0164 / NONE | T wants replace breakup memory39/M actual initiates embrace40 | EV0005; MUTUAL_PRESENT_AFFECTION_FUTURE_PLEDGE |
+| PG-CM-0165 / NONE | Mis promises S never date R51–52 and S hears/asks confirms | EV0007; EXPLICIT_RECEIVED_RENUNCIATION |
+| PG-CM-0166 / CM0161 | K tells Mis actual M confession intent54–57 while M hears false cause32/77 | EV0004/0007/0025; TRUE_DISCLOSURE_TO_DIFFERENT_RECIPIENT |
+| PG-CM-0167 / CM0160 | Mis explicit never-date R65/walks66; R excuse rejected | EV0008; ACTUAL_RECEIVED_REFUSAL_NOT_ETERNAL_PROOF |
+| PG-CM-0168 / CM0156 | M handbook actual returned/K learns finder70–75 | EV0009; PERFORMED_V17_NOT_RETRO_V16 |
+| PG-CM-0169 / NONE | M asks don’t stir78/stop-release80/K tightens81/confesses82/refuses again88–94 | EV0011–0012; CURRENT_REFUSAL_NOT_HEEDED_UNTIL_RELEASE95 |
+| PG-CM-0170 / NONE | K present love M/important Mis distinction92 heard M/T | EV0012; NEW_PRESENT_COMPARISON_NO_OLD_FORECAST_RESCUE |
+| PG-CM-0171 / NONE | R commissions forced assault/medical disposal97/cancels112/men attack him113 | EV0013/0015; HIRED_PLAN_CANCELLED_RETALIATION_ACTUAL |
+| PG-CM-0172 / NONE | S promises lifelong family109/R affected110 | EV0014; ACTUAL_PROMISE_UNDER_MISTAKEN_PREGNANCY_BELIEF |
+| PG-CM-0173 / NONE | T asks M decide102/NOW115–116/both not resent pledge/interrupted117 | EV0013/0015–0016; ANSWER_INTERRUPTED_NOT_CHOSEN_YET |
+| PG-CM-0174 / CM0159 | R public father self-identification137/nonpregnancy disclosure149–150/S acknowledgment152 | EV0018–0021; CLINICAL_CORRECTION_NO_ACTUAL_PATERNITY |
+| PG-CM-0175 / NONE | S requests alone153/T urges respect154/trio leaves | EV0021; BOUNDARY_REQUEST_RESPECTED |
+| PG-CM-0176 / NONE | T no guilt/no debt/choose own feeling161–162 received M | EV0023; ACTUAL_RELEASE_FROM_INDEBTEDNESS_AFTER_EARLIER_PRESSURE |
+| PG-CM-0177 / NONE | M takes T hand/apologizes to K164 | EV0024; ACTUAL_PRESENT_T_CHOICE_NOT_FINAL_SERIES_OUTCOME |
+
+Next RL0288,CM0178. Revision0.16 — V17 successors; prior bodies retained.
