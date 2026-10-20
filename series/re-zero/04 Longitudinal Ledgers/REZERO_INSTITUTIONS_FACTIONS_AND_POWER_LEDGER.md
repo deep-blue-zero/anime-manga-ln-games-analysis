@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: specialist_longitudinal_ledger
 scope: MAIN_LN_INSTITUTIONS_FACTIONS_STATUS_AND_PRACTICAL_POWER_THROUGH_V09
-generation: V1.5
+generation: V1.6
 status: canonical
 release_state: mutable_active
 current_source_horizon: V09
@@ -241,7 +241,7 @@ These are conditional current models, not permanent judgments of entire institut
 
 ## 7. Next maintenance and revision history
 
-Earlier horizons remain frozen and individually adjudicated. V09 §14 adjudicates the inherited questions and §16 owns the fifty-question V10 prospect, mirrored in master §12. Before V10 opens, the separately pending V04–V09 arc checkpoint must close its own publication gate. Priorities retain actual recipient/return bounds, unresolved letter cause, pending money/formalities, civilian refusal, memoryless principal's choice and distinct Cult claims/causes. The letter's comparison with erased writing is an explicit reader hypothesis, not a proved culprit or mechanism. V10 remains unopened; no source opens merely to fill a row.
+Earlier horizons remain frozen and individually adjudicated. V09 §14 adjudicates inherited questions and §16 owns the unchanged fifty-question V10 prospect, mirrored in master §12. The V04–V09 arc checkpoint is now instantiated after V09's verified gate; its own publication gate must close before V10 opens. It compares these institutional findings without adding a new source or altering I001–100. Priorities retain actual recipient/return bounds, unresolved letter cause, pending money/formalities, civilian refusal, memoryless principal's choice and distinct Cult claims/causes. The letter's comparison with erased writing is an explicit reader hypothesis, not a proved culprit or mechanism. V10 remains unopened; no source opens merely to fill a row.
 
 | horizon / operation | material change | prior-state preservation |
 |---|---|---|
@@ -252,5 +252,6 @@ Earlier horizons remain frozen and individually adjudicated. V09 §14 adjudicate
 | V07 maintenance / mechanics split | accepted limited coalition, independent preparation, finite resources, triage before loan, losses/public proof, recognition/refusal, role/discipline, road protection, partition, historical knighthood and bounded future terms added as RZ-I-041–061 | I037–038 remain historically unanswered at V06, answered now by I041; causal models route to the new mechanics owner; no estate arrival, blanket camp union, proved Cult control or mature political synthesis |
 | V08 maintenance | I062–078 add mediated trust, actual insurance, concealed danger, finite escort, letter custom, lordly coercion, racial refusal, Emilia action, contractual refusal and destroyed infrastructure | old V07 unknowns remain historical; no successor agreement/memory inferred, no new mature political specialist or completed capital boundary |
 | V09 maintenance | I079–100 add revised deployment, living neutralization, unapproved spending, constrained participation, expertise/bargain tension, inspection failure, political blast choice, scoped losses, new bishop claims and renewed alliance | terminal histories and older rules preserved; no completed payment, full consent, all-recipient continuity, enacted Anastasia betrayal or mature political model; capital checkpoint pending separately |
+| post-V09 third-arc checkpoint | bounded institutional/resource/civilian comparison instantiated after the complete V09 publication gate; current next-maintenance routing updated | all100 institutional rows and frozen evidence unchanged; no mature political synthesis, new source or completed pending obligation; checkpoint's own gate precedes V10 |
 
 No character monograph, mature political specialist or full-series synthesis is promoted by this ledger. It supplies recoverable current facts and conflicts for those later responsibilities if their own thresholds are met.

@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: character_reconstruction_protocol
 scope: SOURCE_GROUNDED_CONDITIONAL_CHARACTER_RECONSTRUCTION
-generation: V1.6
+generation: V1.7
 status: canonical
 release_state: mutable_active
 current_analytical_horizon: V09
@@ -19,7 +19,7 @@ do_not_use_as_current_authority: false
 
 This protocol is the canonical responsibility contract for future Re:Zero character reconstruction. It governs what an evidence-ready character monograph or model must be able to represent, how state is selected, how source limits remain visible, and how fidelity is tested.
 
-It is subordinate to `REZERO_ANALYTICAL_METHOD.md`, `REZERO_SYNTHESIS_ARCHITECTURE.md`, `REZERO_ROUTE_AND_WITNESS_PROTOCOL.md`, and the live source lock. It does not admit sources, revise frozen readings, or turn a candidate into a monograph. Through V09 no character is `MONOGRAPH_READY`; master owns person/readiness, routed to five specialist ledgers for conditioning evidence. Subaru is CHECKPOINT_READY only for the V04–V09 help/self-worth phase. Named Subaru/Emilia and Subaru/Julius cases extend through actually received V09 repair, qualified by post-bedside receipt limits; Subaru/Rem extends through current living unresponsiveness/nonrecognition, not an available speaking counterpart. V07 Wilhelm/Theresia narrated courtship→declaration retains its separate scope, not a completed marriage/grief history. No current internal-family biography, complete consent, universal cured helping pattern or perfect mutual continuity is inferred. No mature model is promoted, so the prerequisite first fidelity audit is not instantiated. The earned V04–V09 arc checkpoint is pending a separate transaction after the V09 publication gate.
+It is subordinate to `REZERO_ANALYTICAL_METHOD.md`, `REZERO_SYNTHESIS_ARCHITECTURE.md`, `REZERO_ROUTE_AND_WITNESS_PROTOCOL.md`, and the live source lock. It does not admit sources, revise frozen readings, or turn a candidate into a monograph. Through V09 no character is `MONOGRAPH_READY`; master owns person/readiness, routed to five specialist ledgers for conditioning evidence. Subaru is CHECKPOINT_READY only for the V04–V09 help/self-worth phase. Named Subaru/Emilia and Subaru/Julius cases extend through actually received V09 repair, qualified by post-bedside receipt limits; Subaru/Rem extends through current living unresponsiveness/nonrecognition, not an available speaking counterpart. V07 Wilhelm/Theresia narrated courtship→declaration retains its separate scope, not a completed marriage/grief history. No current internal-family biography, complete consent, universal cured helping pattern or perfect mutual continuity is inferred. No mature model is promoted, so the prerequisite first fidelity audit is not instantiated. The earned V04–V09 arc checkpoint is now instantiated after the verified V09 gate, subject to its own complete publication gate before V10.
 
 The protocol standardizes **responsibilities, not file count or headings**. A compact monograph may satisfy it when evidence is narrow. A richer packet may divide the responsibilities among current-state, relationship, ordinary-life, voice, evidence, and fidelity artifacts only after each independent retrieval burden is demonstrated.
 
@@ -315,6 +315,8 @@ Readiness remains in `REZERO_MASTER_LONGITUDINAL_LEDGER.md` until independent bu
 - `MONOGRAPH_READY` — a character has enough cross-state, ordinary, relational, voice, failure, and abstention evidence for a maintained canonical model.
 
 Prominence, popularity, cast centrality, or file symmetry never establishes readiness. Promotion must name the source horizon, evidence routes, remaining gaps, default state, and maintenance owner. Creating a local monograph does not authorize a global character-registry edit.
+
+The post-V09 `REZERO_ARC_03_CHECKPOINT.md` exercises the bounded help/self-worth phase and named relationship comparisons without creating a monograph. Its conditional rules are source-based interim synthesis, not generated probes admitted as evidence or audited whole-person capability. Current E013, historical Wilhelm/Theresia, earlier mutual scenes and internal-family premise require their declared separate selection; Rem's unresponsive body remains an abstention boundary. Source high-water remains V09.
 
 ## 19. First mature-character fidelity audit
 

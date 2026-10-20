@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: source_lock
 scope: SOURCE_ADMISSION_CONTRACT_AND_CURRENT_INVENTORY_STATE
-generation: V0.10
+generation: V0.11
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -341,7 +341,13 @@ At the historical V08 boundary V09 and all non-spine narrative remained unopened
 
 Reading-order exception: after the main-route nonrecognition line at `p-018#B0001`, `p275.jpg` was extracted/viewed before `p-019` prose. The exposure was immediately disclosed and interpretation quarantined; all209 `p-019` blocks were then read in order and the image reinspected at its actual `p-020` reference. No claim or prospective horizon was revised from the premature image; later argument rests on independently consumed prose. This is not an undisclosed perfect-order claim or an exposure to a later volume/non-spine source. The remaining ordered-consumption record accounts for all members/blocks/images, with no unresolved source gap.
 
-Post-EOF exact source, manifest, image bytes, immutable prospect and all eight earlier freezes/estate-checkpoint guards passed. A structural guard does not prove reading; actual full text acquisition and visual inspection do. The internal married family is part of this MAIN_LN container under incompatible local premises, not admission of external IF/WN. Artist/promotional Rem/Emilia dialogue does not awaken current Rem or admit advertised anime/games/bonus witnesses. V10 and all separately acquired non-spine narrative remain unopened. Required next operation is the separately pending source-verified V04–V09 arc checkpoint, created only after V09's complete publication gate and itself closed before V10.
+Post-EOF exact source, manifest, image bytes, immutable prospect and all eight earlier freezes/estate-checkpoint guards passed. A structural guard does not prove reading; actual full text acquisition and visual inspection do. The internal married family is part of this MAIN_LN container under incompatible local premises, not admission of external IF/WN. Artist/promotional Rem/Emilia dialogue does not awaken current Rem or admit advertised anime/games/bonus witnesses. V10 and all separately acquired non-spine narrative remain unopened. At the V09 freeze the required next operation was the separately pending V04–V09 arc checkpoint, to be created only after V09's complete publication gate and closed before V10; its later completion record follows.
+
+## Post-V09 third-arc checkpoint source boundary
+
+`02 Sequential Readings/REZERO_ARC_03_CHECKPOINT.md` is a bounded synthesis of frozen V04–V09, created after V09 commit `ac38cbe884bdcd82919d34cfaea7fd3cacc4a46b` completed its exact-source publication gate. V09 `p-028#B0002–0004` verifies the third arc's V04 beginning and V09 closure; B0022 names the next arc. All six contributing EPUB SHA-256 identities were reverified read-only. The checkpoint uses their existing complete consumption/frozen evidence, not a new full reading or any additional witness. V09's image-order exception remains disclosed, not erased by synthesis.
+
+No source is newly acquired/admitted/consumed, high-water remains V09, and all nine volume freezes/estate checkpoint remain unchanged. V09 §16's exact50-question/ten-forecast V10 prospect is retained, not hindsight-adjusted. The checkpoint's own approved commit/full-content remote readback, source audit, completed housekeeping and final actual exact-source full audit/status must pass before Japanese V10 opens. This record does not itself certify those future checks.
 
 ## Current source-state summary
 
@@ -355,5 +361,5 @@ Post-EOF exact source, manifest, image bytes, immutable prospect and all eight e
 - **Admitted anime/audiovisual:** none.
 - **Consumed into frozen prospective main-LN analysis:** V01-V09, effective after the V09 publication gate.
 - **Next source acquisition priority:** Japanese V44 and V45 before the sequential read reaches that boundary.
-- **Next analytical operation:** `ARC_03_CHECKPOINT` over frozen V04–V09, only after V09's complete publication gate; Japanese V10 only after checkpoint closeout.
-- **Current execution state:** active continuous run; terminal V43 unchanged; V09 closeout advances consumption, not the admitted range.
+- **Next analytical operation:** Japanese V10 from unchanged V09 prospect, only after the separately instantiated V04–V09 arc checkpoint's complete publication gate.
+- **Current execution state:** active continuous run; terminal V43 unchanged; checkpoint adds bounded convergence, not source consumption or admitted range.

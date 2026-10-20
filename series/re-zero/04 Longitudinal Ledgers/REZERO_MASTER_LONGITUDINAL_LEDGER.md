@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: master_longitudinal_ledger
 scope: CUMULATIVE_MAIN_LIGHT_NOVEL_STATE_THROUGH_V09
-generation: V1.8
+generation: V1.9
 status: canonical
 release_state: mutable_active
 current_source_horizon: V09
@@ -38,7 +38,7 @@ For every new volume, update this file only after the source-facing reading has 
 | field | current state |
 |---|---|
 | committed analytical high-water mark | `V09` in the complete V09 transaction; advancement is effective only after its required publication verification |
-| next candidate | `ARC_03_CHECKPOINT`, only after the complete V09 gate; V10 remains unopened until the bounded checkpoint closes; continuous terminal remains V43 |
+| next candidate | `V10`, only after the separate V04–V09 arc checkpoint's complete publication gate; V10 remains unopened and continuous terminal V43 unchanged |
 | current claim generation | `RZ-V09-C001`–`RZ-V09-C100`; all82 V08 claims adjudicated in V09 §12; prior claim tables preserved below |
 | reached event-state boundary | V09-E1/RZ-E-012 arrives at the post-Whale council; actual death twelve reaches V09-E2/RZ-E-013 at Rem's post-ambush bed. A subsequent attempt is aborted; twelve deaths/thirteen represented segments, not thirteen deaths |
 | admitted numbered source range | Japanese `MAIN_LN` V01-V43 under the current source lock |
@@ -46,7 +46,7 @@ For every new volume, update this file only after the source-facing reading has 
 | admitted non-spine witnesses | none |
 | dedicated ledgers promoted | institution/power, event/durability, proposition-holder/disclosure, mechanics/world-model and relationship continuity each have one sole registered ledger; §§4–6/8–9 route |
 | character monographs | none; Subaru's V04–V09 help/self-worth phase is interim checkpoint-ready, not a mature whole-person model; other person evidence remains accumulating |
-| relationship/specialist syntheses | estate checkpoint frozen; four bounded relationship cases retained/extended under selected phases. V09 explicitly closes third arc 再来の王都編 (V04–V09), earning pending `REZERO_ARC_03_CHECKPOINT.md` after the V09 gate; no mature specialist or full-series convergence |
+| relationship/specialist syntheses | estate checkpoint frozen; source-verified V04–V09 `REZERO_ARC_03_CHECKPOINT.md` now instantiated after the verified V09 gate, subject to its own gate; four bounded relationship cases/one Subaru phase retain selected scopes, no mature specialist/full-series convergence |
 | architecture lifecycle | `EVOLVING` |
 
 ## 2. Predecessor claim revision ancestry
@@ -686,9 +686,9 @@ No character is monograph-ready through V09. Subaru earns only the named interim
 
 | canonical current home | scope and migration | use |
 |---|---|---|
-| `REZERO_INSTITUTIONS_FACTIONS_AND_POWER_LEDGER.md` V1.5 | sole home through V09; I001–100, latest unapproved spending, constrained participation, merchant expertise/bargain tension, scoped losses and renewed qualified alliance | use current rows and frozen V09 routes; no duplicate political table, completed pending payments or all-recipient agreement |
+| `REZERO_INSTITUTIONS_FACTIONS_AND_POWER_LEDGER.md` V1.6 | sole home through V09; I001–100 unchanged by post-V09 checkpoint, next-maintenance gate updated; unapproved spending, constrained participation, expertise/bargain tension, scoped losses and renewed alliance remain | use current rows and frozen V09 routes; no duplicate political table, completed pending payments or all-recipient agreement |
 
-V04 meets the registered independent-retrieval trigger. A maintained institutional model is not a final specialist synthesis. Master retains claims/revisions; personal terms now route through §6, knowledge through §5. V09's explicit source arc closure earns a separately pending checkpoint, not completion by this institution router.
+V04 meets the registered independent-retrieval trigger. A maintained institutional model is not a final specialist synthesis. Master retains claims/revisions; personal terms route through §6, knowledge through §5. The separate V04–V09 checkpoint now owns bounded arc convergence, not a final political model or completion by this router.
 
 ## 9. Mechanics and world-model state
 
@@ -1055,6 +1055,8 @@ No forecast assigns a named betrayer, a surviving final host, a checkpoint, a ro
 
 ### Current bounded V10 horizon
 
+The following exact V09 §16 wording is preserved, including its historically pending-checkpoint reference. The checkpoint is now instantiated after V09's verified gate and routes this prospect unchanged; its own gate still precedes V10. No question or forecast has been fitted to unread answers.
+
 V10 and all later narrative witnesses remain unopened. These questions derive only from the V09 endpoint and unresolved earlier claims. The pending arc checkpoint may route this fixed horizon without fitting it to later source answers.
 
 | ID | outbound question / discriminator |
@@ -1164,9 +1166,9 @@ No forecast identifies a named betrayer, promises a cure, supplies an unseen liv
 | institutions/power specialist | maintained-ledger threshold met; mature synthesis `ACCUMULATING` | dedicated current ledger promoted for five camps/rules/enforcement/patronage, not final political judgment |
 | Japanese register specialist | `ACCUMULATING` | recurring terms/address shifts become too dense for the master terminology table |
 | source-verified V02–V03 checkpoint | `FROZEN_COMPLETE` | fulfilled by `REZERO_ARC_ESTATE_STORY_CHECKPOINT.md`; formal arc ID remains unassigned |
-| source-verified V04–V09 third-arc checkpoint | `CHECKPOINT_READY`, pending complete V09 publication gate | create `REZERO_ARC_03_CHECKPOINT.md` only after all contributing volumes are frozen/verified; DEEP_SYNTHESIS, no V10 or external witness opening, then its own atomic closeout |
+| source-verified V04–V09 third-arc checkpoint | `FROZEN_COMPLETE` subject to this separate checkpoint transaction's publication gate | `REZERO_ARC_03_CHECKPOINT.md` instantiated only after verified V09 gate; DEEP_SYNTHESIS, bounded phase/relationship/resource/causal comparison, unchanged V10 prospect; no new source, mature model or external witness |
 
-Nothing is `MONOGRAPH_READY` or mature `SPECIALIST_READY` through V09. Four bounded relationship cases and one named Subaru phase are checkpoint-ready, with explicit defaults/overrides and remaining gaps. Five dedicated ledgers plus this master own noncompeting current responsibilities. Third-arc closure earns a pending bounded checkpoint, not an already completed file or final convergence. No mature reusable model, first fidelity audit, separately admitted IF/WN or adaptation judgment is instantiated.
+Nothing is `MONOGRAPH_READY` or mature `SPECIALIST_READY` through V09. Four bounded relationship cases and one named Subaru phase are checkpoint-ready, with explicit defaults/overrides and remaining gaps; the arc checkpoint now instantiates their bounded comparison, not whole-person maturity. Five ledgers plus this master retain sole responsibilities. No mature reusable model, first fidelity audit, separately admitted IF/WN, adaptation judgment or full-series convergence is instantiated. V10 opening depends on the checkpoint's own complete gate, not this status alone.
 
 ### Post-V03 architecture-promotion review
 
@@ -1224,6 +1226,12 @@ The registered relationship trigger now earns a sole owner: newly enacted Julius
 
 Subaru's V04–V09 help/self-worth phase is CHECKPOINT_READY, not a mature whole-person model. Four named relationship cases retain/extend selected scopes with present-remedy and post-return receipt gaps; V07 Wilhelm/Theresia is not silently enlarged into a full marriage/grief model. No monograph/fidelity audit, final political/metaphysical specialist or separately admitted IF is earned. All100 current claims,82 predecessor dispositions,50 inherited-question/ten forecast adjudications and50 V10 questions/ten forecasts route to V09. The afterword explicitly closes third arc 再来の王都編 begun V04, earning `REZERO_ARC_03_CHECKPOINT.md` as the next separately pending operation **after** V09 publication, not an instantiated checkpoint here. No V10 is opened before its gate; eight prior freezes/estate checkpoint remain unchanged.
 
+### Post-V09 third-arc checkpoint review
+
+V09's exact-source source audit, completed housekeeping and final full audit/status closed before the new `REZERO_ARC_03_CHECKPOINT.md` was created. The checkpoint now supplies source-verified V04–V09 convergence: five additional counted deaths without fabricated returns, changing help/self-worth and mutual receipt, refusal/protective power, ordinary/material dependencies, internal-family transfer controls and causal revision. Its source-local consolidation labels do not replace the100 current V09 claims. All old claim tables, predecessor dispositions and the exact50-question/ten-forecast V10 prospect remain unchanged.
+
+The named Subaru phase and relationship scopes are exercised, not promoted into mature reusable persons. No first fidelity audit, sixth ledger, index or final domain/full-series specialist is earned. Both operational next fields become V10 subject to the checkpoint's own publication gate, MAIN_LN high-water remains V09 and the continuous terminal remains V43. Earlier V09 pending judgments above remain history; all nine volume freezes/estate checkpoint are byte-preserved.
+
 ## 14. Append-only architecture and ledger history
 
 | event | horizon | change | historical qualification |
@@ -1240,5 +1248,6 @@ Subaru's V04–V09 help/self-worth phase is CHECKPOINT_READY, not a mature whole
 | V07 freeze / mechanics responsibility split | V07 | all 60 V06 claims, 40 questions and ten forecasts adjudicated; 72 claims, 45 V08 questions; no new return, alliance/hunt completed, erased victims remain absent, qualified peer repair and wife history added | necessary mechanics history migrates to registered sole home; three bounded relationship cases only; estate operation/capital endpoint/mature models unclosed; V01–V06/checkpoint bytes unchanged |
 | V08 freeze / terminal attempt and bounded peer case | V08 | all72 V07 claims/45 questions/ten forecasts adjudicated; 82 claims/50 V09 questions/ten forecasts; death11, one-entity correction, costly cooperation, civilian constraints and Emilia defense | no new specialist ledger, observed successor, capital checkpoint or mature person; Subaru/Julius narrow case ready, old bounded scopes preserved; V01–V07/checkpoint bytes unchanged |
 | V09 freeze / relationship split / earned pending arc boundary | V09 | all82 V08 claims/50 questions/ten forecasts adjudicated;100 claims/50 V10 questions/ten forecasts; council/bedside arrivals, death12, actual repair, final entity extinction and differentiated memory conditions | necessary25 dyads migrate with ancestry to R001–032/RT001–012; bounded phase/cases only; explicit V04–V09 closure earns separately pending checkpoint after full V09 gate; V01–V08/estate-checkpoint bytes unchanged |
+| post-V09 source-verified third-arc checkpoint | V09 unchanged | separate `REZERO_ARC_03_CHECKPOINT.md` instantiates bounded V04–V09 convergence only after complete verified V09 publication; no new source or VNN claim generation | current100 claims/five ledgers/fixed V10 prospect preserved; no mature model/fidelity audit/final specialist; nine volume freezes/estate checkpoint unchanged; checkpoint's own gate precedes V10 |
 
 Future volume transactions append one history row and update the relevant current-state tables while preserving material ancestry.

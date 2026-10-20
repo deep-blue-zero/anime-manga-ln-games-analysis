@@ -2,11 +2,11 @@
 series: RE_ZERO
 artifact_type: synthesis_architecture
 scope: JAPANESE_LIGHT_NOVEL_PROSPECTIVE_LONGITUDINAL_AND_SYNTHESIS_ARCHITECTURE
-generation: V1.7
+generation: V1.8
 status: canonical
 release_state: mutable_active
 architecture_lifecycle: EVOLVING
-source_boundary: "Japanese main light novel V01-V43 admitted; prospective analysis frozen through V09; V04-V09 arc checkpoint pending; V44-V45 known acquisition gaps; non-spine witnesses excluded until separately admitted"
+source_boundary: "Japanese main light novel V01-V43 admitted; prospective analysis frozen through V09; V04-V09 third-arc checkpoint instantiated subject to its publication gate; V44-V45 known acquisition gaps; non-spine witnesses excluded until separately admitted"
 recommended_reasoning_class: PREMIUM_QUALITY_FIRST
 reasoning_policy: MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md
 pro_justification: "Propagation-sensitive architecture repair: this routing governs every later Re:Zero volume transaction and synthesis layer."
@@ -347,7 +347,7 @@ Claim/evidence stabilization precedes any synthesis that depends on the disputed
 | Japanese wording/register | wording-sensitive terms, address, titles, pragmatic shifts, exact locus | master ledger terminology table plus VNN evidence loci | language/register specialist; character and translation analysis | dedicated home deferred with trigger |
 | Prospective questions | bounded falsifiers/predictions before next volume | master ledger open-question register and prior VNN freeze | next VNN adjudication; checkpoints | all50 V09 questions/ten entering forecasts adjudicated; 50 V10 questions/ten forecasts frozen before V10; arc checkpoint intervenes without hindsight rewrite |
 | Source identity/locators | source ID, hash, locus convention | source lock plus VNN reading; ledger routes only | evidence/index layer if retrieval burden earns it | not currently warranted |
-| Character/relationship/specialist readiness | cited accumulation and threshold judgment | master ledger readiness tables | promoted canonical artifacts | four named relationship scopes qualified/extended, Subaru phase bounded-ready; separately pending V04–V09 arc checkpoint, not yet instantiated; no mature specialist |
+| Character/relationship/specialist readiness | cited accumulation and threshold judgment | master ledger readiness tables | promoted canonical artifacts | four named relationship scopes/one Subaru phase bounded-ready; V04–V09 arc checkpoint now instantiated subject to its gate, no mature person/fidelity audit or final specialist |
 | Supplemental/IF/WN | catalog awareness only; no opening until admission and safe horizon | supplemental catalog + source lock + witness protocol; later witness-specific reading | bounded cross-witness specialist | no separately admitted witness; V09 internal escape-family fragment remains MAIN_LN-container/local-premise evidence |
 | Anime/adaptation | no observation until source admission | adaptation source lock/readings when created | adaptation specialists and bounded comparison | `NO_WITNESS_ADMITTED` |
 
@@ -428,6 +428,12 @@ V09 crosses the registered relationship trigger qualitatively. A new actual Juli
 Subaru becomes CHECKPOINT_READY only for the named V04–V09 help/self-worth phase, not a reusable whole-person model. Existing Subaru/Emilia and Subaru/Julius scopes can extend through newly enacted V09 repair with post-bedside receipt limits; Subaru/Rem extends through current unresponsiveness/nonrecognition, not a speaking-partner assumption; V07 Wilhelm/Theresia narrated case remains bounded, with the new wound investigation separate. No `MONOGRAPH_READY`, fidelity audit, mature relationship/political/metaphysical synthesis or evidence index is earned. Ordinary/Japanese/readiness remain safe in master; no sixth ledger is required.
 
 The afterword explicitly closes third arc 再来の王都編 begun V04 (`V09 p-028#B0002–0004`) and names V10's fourth-arc start (B0022). A bounded `02 Sequential Readings/REZERO_ARC_03_CHECKPOINT.md` is therefore earned but **pending, not instantiated in the V09 transaction**. Required order: complete V09 freeze and its exact publication gate → separate `DEEP_SYNTHESIS` checkpoint over frozen V04–V09 → checkpoint publication gate → V10. Both operational map fields must say `ARC_03_CHECKPOINT` while pending. This does not amend source bounds or promote a final full-series artifact. All eight earlier freezes/estate checkpoint remain byte-unchanged.
+
+### Post-V09 third-arc checkpoint closeout
+
+After V09's complete exact-source publication gate passed, `02 Sequential Readings/REZERO_ARC_03_CHECKPOINT.md` instantiates the earned V04–V09 convergence. The preceding V09 review's pending status is historical. The checkpoint compares help/self-worth, received versus imposed care, asymmetric remembered history, finite political/clinical/ordinary resources and causal revision, with source-local synthesis labels and an unchanged V09→V10 horizon. It does not replace a volume freeze or create another current VNN claim generation.
+
+Five ledgers retain their sole responsibilities; no new ordinary/voice/readiness/evidence home or mature person/fidelity audit is earned. The bounded Subaru phase and named relationship cases are exercised within their existing defaults/overrides, not promoted to whole-person predictors. All nine volume freezes and estate checkpoint remain byte-unchanged. Both operational map fields become V10 only subject to this checkpoint's own approved commit, exact full-content remote verification, source audit, completed housekeeping and final actual exact-source full audit/status. MAIN_LN high-water stays V09; source bounds and continuous V43 terminal remain unchanged.
 
 ## 15. Completion gates
 

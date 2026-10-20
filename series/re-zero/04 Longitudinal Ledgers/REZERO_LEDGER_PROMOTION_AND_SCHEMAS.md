@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: ledger_architecture
 scope: LONGITUDINAL_LEDGER_PROMOTION_AND_SCHEMA_CONTRACT
-generation: V0.9
+generation: V0.10
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -56,6 +56,8 @@ V07 review: physical annihilation, identity/memory rewrite and mental pollution 
 V08 review: terminal death without an observed successor, mistaken collective-Sloths theory corrected to one parasitic mental entity, clinical self-recovery exception, actual recipient/nonreceipt, civilian coercion and destroyed logistics fit the four existing specialist owners. Latest event state closes RZ-E-011 at death eleven; K078–111, M051–075 and I062–078 extend their sole responsibilities. Master preserves eighty-two current claims/all72 predecessor dispositions, fifty V09 questions, personal/Japanese/ordinary state and readiness. Subaru/Julius earns only the V04–V08 qualified-repair/entrustment/uncompleted-talk case; no fifth ledger, mature person, final specialist, fidelity audit, evidence index or capital checkpoint. Previous bounded scopes and all seven volume freezes/checkpoint remain unchanged. Reserved schemas and promotion triggers are unchanged.
 
 V09 review: newly enacted repair versus terminal entrustment, living-but-unresponsive Rem/nonrecognition, memoryless Crusch's present choice and incompatible internal-family terms require independently maintained asymmetric personal histories and rupture/repair transitions. The registered relationship trigger is now met. All25 necessary former master §6 responsibilities migrate explicitly retrospectively with their evidence ancestry into R001–025; R026–032 and RT001–012 add V09 networks/transitions. Master §6 becomes the sole router; no full current dyad table is maintained there. Event owns WHEN/durability, knowledge WHO/receipt, relationship personal terms, institution rules/resources and mechanics causes. Master keeps100 current claims/all82 predecessor dispositions, fifty V10 questions, persons/ordinary/Japanese/readiness. Existing ledgers extend to E013/twelve deaths, K157, I100 and M106. Subaru's named phase and four bounded relationship cases do not create a mature person/fidelity audit or mature specialist. Explicit source arc closure earns a separately pending V04–V09 checkpoint, to be instantiated only after V09's publication gate. No evidence index, ordinary/Japanese/readiness ledger or separately admitted IF is promoted. Field contracts and source admission remain unchanged.
+
+Post-V09 checkpoint review: following V09's complete publication gate, the earned V04–V09 third-arc checkpoint is instantiated as bounded frozen convergence, effective after its own full gate. It exercises the already named Subaru phase/relationship scopes, not a mature model, and adds no new source or current VNN claim generation. Five specialist homes and unsplit master responsibilities remain sufficient; no sixth ledger/index, fidelity audit or separately admitted witness is promoted. All nine volume freezes/estate checkpoint and V09's exact50-question/ten-forecast V10 prospect remain unchanged. Current source high-water stays V09; both next-operation fields route V10 subject to checkpoint publication. The preceding V09 pending judgment is preserved historically, not an unfulfilled current role gap.
 
 ## Promotion threshold
 
