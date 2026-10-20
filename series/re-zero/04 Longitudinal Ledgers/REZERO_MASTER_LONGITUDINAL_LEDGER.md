@@ -1,11 +1,11 @@
 ---
 series: RE_ZERO
 artifact_type: master_longitudinal_ledger
-scope: CUMULATIVE_MAIN_LIGHT_NOVEL_STATE_THROUGH_V06
-generation: V1.5
+scope: CUMULATIVE_MAIN_LIGHT_NOVEL_STATE_THROUGH_V07
+generation: V1.6
 status: canonical
 release_state: mutable_active
-current_source_horizon: V06
+current_source_horizon: V07
 backfill_basis:
   - REZERO_LN_V01_DEEP_READING.md
   - REZERO_LN_V02_DEEP_READING.md
@@ -13,6 +13,7 @@ backfill_basis:
   - REZERO_LN_V04_DEEP_READING.md
   - REZERO_LN_V05_DEEP_READING.md
   - REZERO_LN_V06_DEEP_READING.md
+  - REZERO_LN_V07_DEEP_READING.md
 recommended_reasoning_class: SUBSTANTIVE_ANALYSIS
 reasoning_policy: MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md
 supersedes: []
@@ -34,16 +35,16 @@ For every new volume, update this file only after the source-facing reading has 
 
 | field | current state |
 |---|---|
-| committed analytical high-water mark | `V06` in the complete V06 transaction; advancement is effective only after its required publication verification |
-| next candidate | `V07`, unopened; continuous run resumed by user on 2026-10-19, terminal V43 unchanged |
-| current claim generation | `RZ-V06-C001`–`RZ-V06-C060`; complete 48-row V05 revision ancestry in V06 §11; prior claims preserved below |
-| active event-state boundary | V06-E2 / RZ-E-011; same post-rupture capital checkpoint; ten deaths counted; living Rem and requested shared support; final Whale place/time offer unanswered |
+| committed analytical high-water mark | `V07` in the complete V07 transaction; advancement is effective only after its required publication verification |
+| next candidate | `V08`, unopened; continuous run resumed by user on 2026-10-19, terminal V43 unchanged |
+| current claim generation | `RZ-V07-C001`–`RZ-V07-C072`; complete 60-row V06 revision ancestry in V07 §11; prior claims preserved below |
+| active event-state boundary | V07-E1 = V06-E2 / RZ-E-011; no new return, ten deaths; Whale core killed/copies dispersed, erased victims absent; separated parties depart, estate/Cult operation still prospective |
 | admitted numbered source range | Japanese `MAIN_LN` V01-V43 under the current source lock |
 | unadmitted published gaps | V44-V45 |
 | admitted non-spine witnesses | none |
-| dedicated ledgers promoted | institution/faction/power, event-state/durability and proposition-holder/disclosure each have their sole registered ledger; §§4–5/8 route |
+| dedicated ledgers promoted | institution/faction/power, event-state/durability, proposition-holder/disclosure and mechanics/world-model each have their sole registered ledger; §§4–5/8–9 route |
 | character monographs | none; character evidence remains `ACCUMULATING`, with bounded relationship checkpoint readiness below |
-| relationship/specialist syntheses | estate checkpoint frozen; bounded Subaru/Emilia rupture and Subaru/Rem V01–V06 study checkpoint-ready only; no capital endpoint or mature specialist |
+| relationship/specialist syntheses | estate checkpoint frozen; bounded Subaru/Emilia V01–V04 rupture, Subaru/Rem V01–V07 and V07 Wilhelm–Theresia case checkpoint-ready only; no capital endpoint or mature specialist |
 | architecture lifecycle | `EVOLVING` |
 
 ## 2. Predecessor claim revision ancestry
@@ -128,7 +129,90 @@ V05 §11 adjudicates all 40 V04 claims without rewriting the predecessor. Two de
 
 V06 §11 adjudicates all 48 V05 claims, and §13 all 32 entering questions, without changing their earlier evidence. Puck's giant identity is confirmed; unseen old E1 freeze remains inferred. One further death restores the same stall: ten counted, V06-E2 active. Within-state erasure, recipient-directed disclosure death, newly visible arms and mistaken expert/cult explanations require holder/durability distinctions, not a completed unified Witch model. Rem's mission and specific envoy transfer become known; medical price and admission purpose remain separate. A shared restart and prepared bargain replace the concealed revenge endpoint without completing self-worth, Emilia repair, alliance or rescue. The two registered ledger splits migrate necessary history and leave routers below.
 
-## 3. Current claim state through V06
+### V06-to-V07 transition
+
+V07 §11 adjudicates all sixty V06 claims, §13 all forty inherited questions, and §2 all ten entering forecasts without editing the earlier freeze. The same active state continues with no new Subaru death. The alliance and Whale hunt succeed; erased victims do not return. Chosen trust, pressured risks, conditional self-killing, differentiated care and qualified Julius repair replace any universal recovery or betrayal model. Wilhelm–Theresia history adds a bounded case, not a complete person. Seventy-two V07 claims and forty-five V08 questions are frozen; mechanics earns its registered sole current home, while person/relationship/readiness remain here. Unreplaced earlier propositions retain their bounded authority through the complete disposition routes and historical snapshots.
+
+## 3. Current claim state through V07
+
+| current claim | bounded formulation | ancestry / operation | evidence class / route |
+|---|---|---|---|
+| `RZ-V07-C001` | No new Subaru death/return occurs; V07-E1 continues V06-E2/RZ-E-011, leaving ten deaths and eleven world segments. | V06 C001; STRENGTHEN | DIRECT SEQUENCE / HIGH; V07 §12/C001, full loci there |
+| `RZ-V07-C002` | Repeated viewpoints, historical narration, shock, falls and taboo altered-awareness intervals do not establish new checkpoints or restored bodies. | V06 C001/C003; PRESERVE / EXTEND | DIRECT SEQUENCE + SCOPE LIMIT / HIGH; V07 §12/C002, full loci there |
+| `RZ-V07-C003` | Two deliberate taboo uses yield private love utterances and increased odor; expected pain is absent from the first account, while the second explicitly includes a heart grip. No listener death or provider identity is demonstrated. | V06 C006–007; REVISE | DIRECT SUBJECTIVE EFFECT / HIGH; CAUSE OPEN; V07 §12/C003, full loci there |
+| `RZ-V07-C004` | Scent repeatedly enables distraction, but the core first resists leaving its advantage; enhanced scent drives pursuit through hatred, not proved obedient control. | V06 C015; STRENGTHEN | DIRECT + NARRATIVE CAUSAL ACCOUNT / HIGH; V07 §12/C004, full loci there |
+| `RZ-V07-C005` | The text distinguishes diffusion fog's concealment/expanded field from annihilation fog's destructive removal. | V06 C004/C013; REVISE | DIRECT NARRATIVE DISTINCTION / HIGH; V07 §12/C005, full loci there |
+| `RZ-V07-C006` | Annihilation erases tested identities while numerical gaps persist; two deputies are remembered as original officers, a within-state historical rewrite noticed by Subaru. | V06 C004–005; STRENGTHEN | DIRECT + COMPARATIVE / HIGH; V07 §12/C006, full loci there |
+| `RZ-V07-C007` | Subaru retains erased-person information and reports no mental-pollution effect; neither a shared cause nor bodily immunity to annihilation fog is established. | V06 C005; STRENGTHEN / OPEN | DIRECT + EPISTEMIC LIMIT / HIGH; V07 §12/C007, full loci there |
+| `RZ-V07-C008` | A cry transmitted through diffusion fog incapacitates some people; Rem has milder symptoms, and the gate/od pollution account is expert interpretation rather than a universal clinical rule. | NEW; observed pollution | DIRECT EFFECT + EXPERT ACCOUNT / HIGH; V07 §12/C008, full loci there |
+| `RZ-V07-C009` | Finite anti-magic stones partly neutralize mana-derived fog and can dissolve an allied ice spell; counter strength risks impairing friendly magic. | NEW; counter/cost | DIRECT + EXPERT MECHANICS / HIGH; V07 §12/C009, full loci there |
+| `RZ-V07-C010` | Shared eye injury and lighter attacks support splitting, and the core's death demonstrably ends the mana supply maintaining the two copied bodies. | V06 C013; REVISE | CORROBORATED INFERENCE + DIRECT NARRATION / HIGH; V07 §12/C010, full loci there |
+| `RZ-V07-C011` | The core is actually killed, its corpse persists, copies disperse, and Crusch states that erased victims do not return. | V06 C013/C020; REVISE outcome / STRENGTHEN persistence | DIRECT + ATTRIBUTED AFTERMATH / HIGH; V07 §12/C011, full loci there |
+| `RZ-V07-C012` | Ricardo survives severe injury and Wilhelm escapes ingestion alive; Ricardo's mount is a witnessed corpse, while swallowed-dragon and old unwitnessed human fates are not thereby certified. | V06 C014/C033; STRENGTHEN limits | DIRECT SEQUENCE + FATE LIMIT / HIGH; V07 §12/C012, full loci there |
+| `RZ-V07-C013` | The phone's remembered relative time and set alarm give a successful warning, not a functioning Whale sensor or verified local 15:13 clock. | V06 C016/C051; REVISE | DIRECT + EXPLICIT DECEPTION / HIGH; V07 §12/C013, full loci there |
+| `RZ-V07-C014` | Crusch's named wind-reading gift detects lying intent/emotional disturbance; sincere false belief and literal truths can support a wrong theory. | V06 C035; STRENGTHEN | DIRECT ATTRIBUTION + TESTED LIMIT / HIGH; V07 §12/C014, full loci there |
+| `RZ-V07-C015` | Rem explicitly knows the false explanation and chooses to trust the warning without knowing RBD; the exact point at which she recognized the lie is unshown. | V06 C026/C029; STRENGTHEN / REVISE | DIRECT SPEECH + TEMPORAL LIMIT / HIGH; V07 §12/C015, full loci there |
+| `RZ-V07-C016` | Crusch accepts the alliance, Anastasia is the late invitee, and Russell's phone consideration is victory-conditioned; the cooperation is not one identical unconditional three-camp compact. | V06 C036/C048/C051; REVISE | DIRECT TRANSACTION + SCOPE LIMIT / HIGH; V07 §12/C016, full loci there |
+| `RZ-V07-C017` | Crusch's preparations and Wilhelm's fourteen-year research predate Subaru's offer; merchants materially complete a coalition rather than Subaru creating everyone's capacity. | V06 C043/C052; REVISE / STRENGTHEN | DIRECT / REPORTED + CORROBORATED SYNTHESIS / HIGH; V07 §12/C017, full loci there |
+| `RZ-V07-C018` | Ore artillery and aggregated light stones produce local, resource- and duration-limited effects; artificial daylight is not an actual sunrise. | V06 C049; STRENGTHEN | DIRECT + EXPLANATORY ACCOUNT / HIGH; V07 §12/C018, full loci there |
+| `RZ-V07-C019` | Ground-dragon wind protection is interrupted by stopping and does not establish a permanent personal shield against unrelated danger. | V06 C016; STRENGTHEN | DIRECT + RETAINED PRIOR LIMIT / HIGH; V07 §12/C019, full loci there |
+| `RZ-V07-C020` | Crusch describes a smith-engraved mana-sustained protection in armor; its `加護` wording is not reconciled into a newly invented taxonomy of birth-given and manufactured gifts. | NEW; attributed protection | DIRECT EXPERT ATTRIBUTION / HIGH; TAXONOMY OPEN; V07 §12/C020, full loci there |
+| `RZ-V07-C021` | Crusch's invisible cuts have long reach, but she explicitly limits their power at the core's high altitude; reported range-ignoring is not infinite equal force. | NEW; range/power distinction | DIRECT + COMPARED ATTRIBUTIONS / HIGH; V07 §12/C021, full loci there |
+| `RZ-V07-C022` | Rem's strong casting requires preparation, manageable distance and mana; expenditure culminates in real depletion rather than unlimited power through devotion. | V06 C013/C031; STRENGTHEN | DIRECT + EXPERT ACCOUNT / HIGH; V07 §12/C022, full loci there |
+| `RZ-V07-C023` | Simple healing, emergency stabilization, restored fighting and complete health are different results; Wilhelm returns still critical, while Ferris later reports current patients out of immediate danger. | V06 C034; STRENGTHEN care scope | DIRECT + MEDICAL ACCOUNT / HIGH; V07 §12/C023, full loci there |
+| `RZ-V07-C024` | No completed Subaru gate cure, safe new Shamac cast, or old curse-formula removal/activation is shown; the suggested Shamac use is rejected rather than performed. | V06 C017; PRESERVE | BOUNDED ABSENCE / HIGH; V07 §12/C024, full loci there |
+| `RZ-V07-C025` | The force has differentiated command and skills: fifteen platoons of fifteen, narrated roughly 220, thirty Iron Fang at the hunt, separate support and conditional mercenary coordination. | V06 C043; REVISE structure | DIRECT / REPORTED STRUCTURE / HIGH; V07 §12/C025, full loci there |
+| `RZ-V07-C026` | Subaru contributes planning and real old grip training while remaining a novice rider and weak fighter who needs others' rescues; accomplishment does not certify global mastery. | V06 C025/C032/C057; STRENGTHEN | DIRECT + COMPETENCE SYNTHESIS / HIGH; V07 §12/C026, full loci there |
+| `RZ-V07-C027` | Specific requests, specialist valuation and delegation are enacted; Subaru can value Ferris's nonattacking role even while discounting his own contribution. | V06 C030/C032; STRENGTHEN | DIRECT + RECIPIENT CONTRAST / HIGH; V07 §12/C027, full loci there |
+| `RZ-V07-C028` | Fear, Rem-facing hero performance and shame-driven morale coexist with renewed action; the text does not present resolve as a complete cure or physical omnipotence. | V06 C028; STRENGTHEN / COMPLICATE | DIRECT FOCALIZATION + COUNTEREVIDENCE / HIGH; V07 §12/C028, full loci there |
+| `RZ-V07-C029` | Rem's refusal is real, but Subaru also preempts objections and uses repeated trust declarations to press a dangerous plan; eventual cooperation is not blanket pressure-free consent. | V06 C030–031; STRENGTHEN / COMPLICATE | DIRECT + AGENCY SYNTHESIS / HIGH; V07 §12/C029, full loci there |
+| `RZ-V07-C030` | Protecting the estate and village becomes Subaru's primary stated goal rather than killing alone; violent anger still resurfaces and requires others' interruption. | V06 C020/C022; REVISE present priority | DIRECT SELF-RECOGNITION + CONDUCT / HIGH; V07 §12/C030, full loci there |
+| `RZ-V07-C031` | Subaru would have tried to restart if Rem died even without guaranteed another chance; the conditional intention is explicit, but no such attempt occurs. | NEW; V06 C024/C028 risk extended | DIRECT NARRATED COUNTERFACTUAL / HIGH; V07 §12/C031, full loci there |
+| `RZ-V07-C032` | Rem wants entrusted burden and to be the first helper; her own requests and initiative coexist with service-centered dependent worth, not a completed independent self-model. | V06 C026/C028–029; STRENGTHEN / OPEN | DIRECT SPEECH + BOUNDED SYNTHESIS / HIGH; V07 §12/C032, full loci there |
+| `RZ-V07-C033` | Rem-directed affection and first/second-place language are real, while second-wife talk is conditional on Emilia; no exclusive or fully negotiated arrangement is enacted. | V06 C029; REVISE | DIRECT + ROMANTIC SCOPE LIMIT / HIGH; V07 §12/C033, full loci there |
+| `RZ-V07-C034` | Rem's staged dying elicits sincere affection and possessive commitment under panic; relief does not erase the pressure, and the interrupted approach is not a kiss. | V06 C026/C029/C031; REVISE / COMPLICATE | DIRECT + RELATIONAL SYNTHESIS / HIGH; V07 §12/C034, full loci there |
+| `RZ-V07-C035` | Real depletion prevents Rem continuing; Subaru's assurance that she already helps even absent enables accepted rest while preserving their hero language. | V06 C028/C030–031; REVISE | DIRECT SEQUENCE + BOUNDED DEVELOPMENT / HIGH; V07 §12/C035, full loci there |
+| `RZ-V07-C036` | Wilhelm identifies Trias as his earlier family and Astrea as his actual surname; his wife is former Sword Saint Theresia van Astrea, not an indefinitely unnamed woman. | V06 C052; REVISE | DIRECT IDENTIFICATION + NARRATOR CORROBORATION / HIGH; V07 §12/C036, full loci there |
+| `RZ-V07-C037` | Wilhelm's real training produces exceptional early strength and brutal killing, not the conventional novice defeat; a recovered protective origin does not erase those acts. | V06 C052; REVISE history | DIRECT HISTORICAL NARRATION / HIGH; V07 §12/C037, full loci there |
+| `RZ-V07-C038` | Theresia's cultivated flowers and repeated ordinary encounters widen Wilhelm's attention; his changed reasons are followed by a shift toward protecting allies. | V06 C052/C057; STRENGTHEN / REVISE | DIRECT + DEVELOPMENTAL SYNTHESIS / HIGH; V07 §12/C038, full loci there |
+| `RZ-V07-C039` | Wilhelm goes home without orders, discovers dependence on comrades and does not want the death he had idealized; his rescue is not a revival after actual death. | V06 C052; REVISE history | DIRECT HISTORICAL NARRATION / HIGH; V07 §12/C039, full loci there |
+| `RZ-V07-C040` | Theresia is both burdened by the sword role and a powerful choosing protector who finds a reason to wield it; neither passive-only victim nor uncomplicated battle-lover fits. | NEW; Theresia agency | DIRECT + AGENCY SYNTHESIS / HIGH; V07 §12/C040, full loci there |
+| `RZ-V07-C041` | Wilhelm wins the public duel despite his broken blade; victory does not demonstrate theft or transfer of the Sword Saint blessing or a deliberately thrown fight. | V06 C052; REVISE history | DIRECT + MECHANICAL SCOPE LIMIT / HIGH; V07 §12/C041, full loci there |
+| `RZ-V07-C042` | The historical kiss does not supply Theresia's requested love words; Wilhelm never said them during her life and finally speaks them after killing the Whale. | V06 C052; REVISE history | DIRECT HISTORICAL / PRESENT COMPARISON / HIGH; V07 §12/C042, full loci there |
+| `RZ-V07-C043` | Wilhelm's revenge ends while severe injury and further obligations persist; his offered continued service is not proof of complete health or finished mourning. | V06 C052; REVISE current service | DIRECT + BOUNDED DEVELOPMENT / HIGH; V07 §12/C043, full loci there |
+| `RZ-V07-C044` | Wilhelm admits he could not forgive Reinhard although he knew no fault or bad intent in the relevant matter; its exact history, familial relation and enacted repair remain unshown to Subaru. | NEW; Reinhard-history limit | DIRECT ATTRIBUTION + KNOWLEDGE LIMIT / HIGH; V07 §12/C044, full loci there |
+| `RZ-V07-C045` | Crusch recognizes duty to soldiers relying on her judgment, expects casualties and trusts Ferris; leadership, mourning and material aftermath extend beyond victory rhetoric. | V06 C034–035/C050; STRENGTHEN | DIRECT FOCALIZATION + CONDUCT / HIGH; V07 §12/C045, full loci there |
+| `RZ-V07-C046` | Ferris names deceased fourth prince Fourier Lugunica and describes a meaningful triad with Crusch; metaphorical proportions and remembered influence are not a complete political or romantic map. | NEW; Fourier account; old unnamed motives not equated | DIRECT TESTIMONY / HIGH AS ATTRIBUTION; V07 §12/C046, full loci there |
+| `RZ-V07-C047` | Ferris follows Crusch's trust rather than declaring unqualified direct trust in Subaru; his quiet self-dislike comparison and Crusch's quiet dream clause are not heard by Subaru. | V06 C034; REVISE holder/trust | DIRECT SPEECH / NONRECEIPT / HIGH; V07 §12/C047, full loci there |
+| `RZ-V07-C048` | Ferris's competent care coexists with unauthorized private-history disclosure, teasing and a lethal anti-Cult proposal; benevolence does not establish universal consent or nonviolence. | V06 C034; STRENGTHEN / COMPLICATE | DIRECT CONDUCT + COUNTEREVIDENCE / HIGH; V07 §12/C048, full loci there |
+| `RZ-V07-C049` | Crusch sincerely recognizes Subaru's contribution, admits a changed assessment and respects his refusal to join her house; she pledges friendliness even under later rivalry. | V06 C035/C050; REVISE recognition | DIRECT SPEECH + NARRATION / HIGH; V07 §12/C049, full loci there |
+| `RZ-V07-C050` | Julius arrives after suspension expires and adopts an obvious Yuri alias for institutional role constraints; assistance is not a distinct person's appearance or defiance of an ongoing sanction. | V06 C053; REVISE | DIRECT IDENTITY / ROLE ACCOUNT / HIGH; V07 §12/C050, full loci there |
+| `RZ-V07-C051` | Actual reciprocal apologies and recognition permit Subaru–Julius cooperation while dislike persists; Julius does not retract all prior acts and Subaru receives no complete new rationale exposition. | V06 C053; REVISE repair | DIRECT + RELATIONAL SCOPE LIMIT / HIGH; V07 §12/C051, full loci there |
+| `RZ-V07-C052` | Subaru recognizes his desire for Julius to remain an irredeemably bad opponent; admitting that projection changes a particular response without proving universal self-knowledge. | V06 C025/C053; STRENGTHEN self-revision | DIRECT FOCALIZATION / HIGH; V07 §12/C052, full loci there |
+| `RZ-V07-C053` | Anastasia's real assistance and commercial leverage coexist; retainer claims about friendship, favors and future profit are bounded accounts, not a complete greed-only personality. | V06 C040; REVISE current conduct | DIRECT CONDUCT + ATTRIBUTION / HIGH; V07 §12/C053, full loci there |
+| `RZ-V07-C054` | Iron Fang's undeployed half closes the opposite road to protect bystanders; preserving capacity is not evidence that those fighters were idle or secretly opposed the hunt. | V06 C041/C043; STRENGTHEN stewardship | DIRECT REPORT + ROLE LIMIT / HIGH; V07 §12/C054, full loci there |
+| `RZ-V07-C055` | Ricardo's joking leadership, costly protection and readiness for paid further work coexist; his recovered participation is not an earlier death undone. | NEW; Ricardo conduct | DIRECT + EXPERT RECIPIENT ACCOUNT / HIGH; V07 §12/C055, full loci there |
+| `RZ-V07-C056` | Mimi does not retain the discarded-state meeting; her current deputy role, barriers, healing and attacks are real, not proof of a universal combat ranking or complete information complicity. | V06 C041; STRENGTHEN / STATE-SPECIFY | DIRECT + EPISTEMIC LIMIT / HIGH; V07 §12/C056, full loci there |
+| `RZ-V07-C057` | Hetaro's coordination, bounded mana and refusal to waste lives express competence and care; not matching Mimi's endurance is not demonstrated cowardice or lesser worth. | NEW; Hetaro judgment | DIRECT + CONTRARY-EVIDENCE SYNTHESIS / HIGH; V07 §12/C057, full loci there |
+| `RZ-V07-C058` | Tibby is named as Mimi's younger brother and the other force's leader, with reported accounting/negotiation skill; the lookalike's identification is probable, and exact ages/birth configuration remain unverified. | NEW; Tibby testimony | DIRECT TESTIMONY + FOCALIZED IDENTIFICATION / HIGH / MEDIUM; V07 §12/C058, full loci there |
+| `RZ-V07-C059` | Subaru names the selected black dragon Patrasche during battle and later learns she is female; her autonomous support helps a novice, not a demonstrated shared return memory or mind-reading bond. | NEW; named mount | DIRECT + INTERPRETIVE LIMIT / HIGH; V07 §12/C059, full loci there |
+| `RZ-V07-C060` | The parties actually divide: patients/Rem/Crusch head capitalward with the Whale head; twenty-four expedition members and differentiated mercenary reinforcements continue toward the estate, not yet safely arrived. | V06 C036/C043/C048; REVISE deployment | DIRECT SEQUENCE + ENDPOINT LIMIT / HIGH; V07 §12/C060, full loci there |
+| `RZ-V07-C061` | Subaru's Cult–Whale argument draws on remembered statements and independent distribution correlations; negotiated acceptance does not prove a specific control chain. | V06 C012/C045; STRENGTHEN inference / OPEN control | CORROBORATED INFERENCE / MEDIUM; CONTROL OPEN; V07 §12/C061, full loci there |
+| `RZ-V07-C062` | Six lost sin-Witches and six bishop slots excluding Envy are reported as received history/institutional knowledge, not a newly witnessed roster of named officeholders. | V06 C046; REVISE attributed framework | DIRECT ATTRIBUTION / HIGH; ONTOLOGY OPEN; V07 §12/C062, full loci there |
+| `RZ-V07-C063` | Subaru's Whale=Gluttony-bishop counting remains unverified; the Whale's narrator-described instinctive fog mission does not establish that office or reconcile all creator claims. | V06 C012/C046; REVISE / OPEN identity | DIRECT FOCALIZATION + NARRATOR ACCOUNT / HIGH; IDENTITY OPEN; V07 §12/C063, full loci there |
+| `RZ-V07-C064` | Black Serpent and Great Rabbit are named as exceptional mabeast cases in Julius's account; no new appearance, anatomy, capacity or killing is observed. | NEW; attributed beast names | DIRECT EXPERT ATTRIBUTION + SOURCE LIMIT / HIGH; V07 §12/C064, full loci there |
+| `RZ-V07-C065` | Ferris's imitation-of-the-worshipped explanation is explicitly conjectural; prejudice toward Emilia's resemblance does not establish her guilt, identity or a witnessed Cult theological rule. | V06 C044/C050; REVISE attributed doctrine | DIRECT ATTRIBUTION + COUNTEREVIDENCE / HIGH; V07 §12/C065, full loci there |
+| `RZ-V07-C066` | Subaru now briefs the coalition on an injurious past Cult encounter and the estate/village threat without revealing RBD; new trust does not grant others his discarded-state memories. | V06 C024/C030/C032; REVISE disclosure | DIRECT DISCLOSURE + HOLDER LIMIT / HIGH; V07 §12/C066, full loci there |
+| `RZ-V07-C067` | Emilia's present wishes and forgiveness are not heard; choosing her goal and defeating the Whale neither repairs the prior rupture nor completes the estate rescue. | V06 C023/C055; PRESERVE limits | DIRECT ENDPOINT + BOUNDED ABSENCE / HIGH; V07 §12/C067, full loci there |
+| `RZ-V07-C068` | Rest, cargo work, cultivated flowers, rituals, banter, animal handling and practical preparation constrain crisis-only person models without proving lifelong stable routines. | V06 C057; STRENGTHEN | DIRECT + CONDITIONAL SYNTHESIS / HIGH; V07 §12/C068, full loci there |
+| `RZ-V07-C069` | Love words, private/public self-reference, shame, captured commitment, aliases and game labels require recipient/context; wording alone creates no new office, power or reset. | V06 C058; STRENGTHEN | TEXTUAL / PRAGMATIC / HIGH; V07 §12/C069, full loci there |
+| `RZ-V07-C070` | The hunt and revenge conclude, but the capital section is not explicitly closed; dawn begins before the estate/Cult operation, with the actual plan and post-hunt business still withheld. | V06 C051/C059; REVISE operation / PRESERVE boundary | DIRECT STRUCTURE + SCOPE LIMIT / HIGH; V07 §12/C070, full loci there |
+| `RZ-V07-C071` | Afterword, design annotations, rejected designs and promotional dialogue are bounded paratext; no advertised or deleted external episode becomes main-LN history. | V06 C059; PRESERVE / EXTEND | VERIFIED PARATEXT + ADMISSION LIMIT / HIGH; V07 §12/C071, full loci there |
+| `RZ-V07-C072` | Dense competing causal tests earn the registered mechanics current-state home, not mature metaphysical synthesis; person/relationship/readiness and other ledger responsibilities remain separately owned. | V06 C060; REVISE one current home | ARCHITECTURAL JUDGMENT / V07-BOUNDED; V07 §12/C072, full loci there |
+
+V07 §§11–12 own complete predecessor adjudication, confidence and exact source loci. Current claim routing is not a second full maintained mechanism, event, holder or institutional model. Historical tables below preserve their earlier horizons; no unperformed test or absent person's biography is invented.
+
+### Historical V06 current-state snapshot — advanced by V07
 
 | current claim | bounded formulation | ancestry / operation | evidence class / route |
 |---|---|---|---|
@@ -335,7 +419,7 @@ Through V03, V01 C011/C012/C014/C015/C017/C018/C020/C021 and V02 C009/C013/C022/
 
 | sole current home | migrated scope and current boundary | retrieval |
 |---|---|---|
-| `REZERO_EVENT_STATE_AND_ROUTE_LEDGER.md` V1.0 | necessary V01–V05 history plus V06; eleven aliased world-state segments, ten deaths; V06-E2/RZ-E-011 active | chronology, focalizer/reader limits, within-state transitions and carry-forward matrix; frozen V06 §3 owns exact new evidence |
+| `REZERO_EVENT_STATE_AND_ROUTE_LEDGER.md` V1.1 | necessary V01–V05 history plus V06/V07; eleven aliased world-state segments, ten deaths; V07-E1 continues V06-E2/RZ-E-011 | chronology, non-return losses/rescues, within-state transitions and carry-forward; frozen V07 §3 owns the new evidence |
 
 V06 promotes this registered responsibility because within-state memory/material erasure, later return durability and continuing-state aliases require independent chronology. The former full master table migrates there; this is not a second maintained chronology or a retroactively preexisting ledger. Fainting, neck-chop, waking and Beatrice's transfer are not extra returns.
 
@@ -343,30 +427,38 @@ V06 promotes this registered responsibility because within-state memory/material
 
 | sole current home | migrated scope and current burden | retrieval |
 |---|---|---|
-| `REZERO_KNOWLEDGE_AND_INFORMATION_ASYMMETRY_LEDGER.md` V1.0 | necessary V01–V05 propositions plus V06 holder/forgetting/perception/disclosure/delegation deltas | RZ-K-001–039; confidence, false belief, material nonholder, constraint, consequence and revision route |
+| `REZERO_KNOWLEDGE_AND_INFORMATION_ASYMMETRY_LEDGER.md` V1.1 | necessary V01–V05 propositions plus V06/V07 holder, forgetting, perception, private speech, warning/bluff, alias and disclosure deltas | preserved RZ-K-001–039 plus V07 K040–077; confidence, false belief, material nonholder, constraint, consequence and revision route |
 
-V06 promotes this registered responsibility because erased persons, reader-only private speech, sincerity versus false explanations, asymmetric hand sight and specific envoy transfer are unsafe as one compact current table. Mechanics truth remains §9, personal relationship state §6, institutional rules/resources in their dedicated home. No cumulative memory is silently made mutual knowledge or consent.
+V06 promotes this registered responsibility because erased persons, reader-only private speech, sincerity versus false explanations, asymmetric hand sight and specific envoy transfer are unsafe as one compact current table. V07 adds known-lie trust, false sensor beliefs, changed officers, private utterances, unheard personal speech and qualified repair. Causal-model truth routes through §9 to its V07 dedicated home; personal relationship state remains §6 and institutional rules/resources their own ledger. No cumulative memory is silently made mutual knowledge or consent.
 
 ## 6. Relationship current state
 
-| dyad/network | remembered-history distribution | current V06-safe state | unresolved condition |
+| dyad/network | remembered-history distribution | current V07-safe state | unresolved condition |
 |---|---|---|---|
-| Subaru ↔ Emilia | precheckpoint date/rupture shared; E1 coercion/penalty death retained by Subaru only after return | E2 Subaru admits love is not a right to total understanding, but still wants beside her; no active reunion, consent or forgiveness | rescue is not repair; her own present wishes remain necessary; V06 §§4.3–4.4/C022–023/C055 |
-| Subaru ↔ Rem | Subaru retains ten deaths and discarded care; E2 Rem retains surviving V03/sister history and the current conversation, not the failed journeys | costly active escape refusal, ordinary love, declared Emilia goal and chosen help/correction now align immediate intentions; no exclusive romance | hero/trust chain, service-worth, explicit use of affection and withheld return history remain; V06 §5/C024–031 |
-| Subaru ↔ Ram | precheckpoint household rescue shared by default; Subaru alone retains E1 Ram denying ever having a sister | E1 gentle bedside care and changed memory add conditional evidence, not proof she knowingly lied; no E2 full-memory retest | older probable terminal role stays historical inference; direct Roswaal loyalty/bodily support persist; V06 §§3, 6/C054 |
-| Ram ↔ Rem | surviving V03 sister history; E1 Ram memory/material room differs after Whale encounter; E2 Rem recalls sister context | erasure is not voluntary renegotiation; V05 bounded synesthesia model unchanged | no E2 Ram-wide retest, new role settlement or independent mana alternative; V06 §§3, 5/C004–005 |
-| Subaru ↔ Beatrice | surviving prior aid remains; E1 grief/refusal/expulsion is discarded interaction retained by Subaru, maternal last lines reader-only | refusal to kill and Roswaal contrast challenge cruelty-only model; contract/own emotional stakes not reduced to service | mother/future burden, return-knowledge and spatial limits OPEN; V06 §6/C018–019/C056 |
-| Subaru ↔ Roswaal | older private Dragon aim still undisclosed; E2 Rem reveals ore/alliance mission and transfers specific authority | Subaru now acts as recognized envoy in this bargain; anticipated cult risk/planned Garfiel visit only reported | admission purpose, actual whereabouts/countermeasure and informed Emilia agency OPEN; no knight or blanket-consent grant; V06 §7.5/C036/C047–048 |
-| Subaru ↔ Felt/Rom/Reinhard | Subaru alone retains V01 failed states; V04 reunion mutually remembered before the checkpoint | Felt qualified; Rom saved after Subaru's message/capture; Reinhard aids/reports and objects to duel | Subaru's guilt is not fully known by Reinhard; reader-only Rom performance not automatically shared; V04 §§7.6, 9 |
-| Emilia ↔ Puck/Beatrice | preexisting relations survive; reader/Subaru learn different E1 reactions after her penalty death | Puck protects corpse then punishes/destroys by claimed contract; Beatrice grieves/refuses killing and retrieves token | conditional E1 evidence does not prove active Emilia consent or complete contract/mother history; V06 §§6, 8 |
-| estate ↔ Arlam village | earlier V03 reciprocity shared; V05 massacres and V06 early arrival are discarded local states | living children at E1 arrival demonstrate a prevention opportunity, not completed evacuation or E2 safety | no actual current rescue/attack yet shown; threats and killers retain agency; V06 §§3–4/C003/C032 |
+| Subaru ↔ Emilia | precheckpoint date/rupture shared; V06-E1 coercion/penalty retained by Subaru only; no V07 present reunion | V07-E1 Subaru declares his chosen Emilia goal and defeats the Whale, but estate rescue and her own informed response remain prospective | success is not forgiveness, personal consent or repaired rupture; V07 C067/§4.4 |
+| Subaru ↔ Rem | Subaru retains discarded deaths/care; active Rem shares surviving household history, current confession, negotiation/hunt and aftermath, not RBD | she knows the false phone explanation, chooses trust, objects, asks for affection, stages dying and accepts depleted rest; genuine new affection/first–second language, no complete arrangement | hero/service worth, pressured risk, conditional self-killing and absent Emilia consent remain; V07 §5/C015/C029–035 |
+| Subaru ↔ Ram | precheckpoint household rescue shared by default; Subaru alone retains V06-E1 Ram denying ever having a sister | V06-E1 gentle bedside care and changed memory add conditional evidence, not proof she knowingly lied; no V06-E2 full-memory retest | older probable terminal role stays historical inference; direct Roswaal loyalty/bodily support persist; V06 §§3, 6/C054 |
+| Ram ↔ Rem | surviving V03 sister history; V06-E1 Ram memory/material room differs after Whale encounter; V06-E2 Rem recalls sister context | erasure is not voluntary renegotiation; V05 bounded synesthesia model unchanged | no V06-E2 Ram-wide retest, new role settlement or independent mana alternative; V06 §§3, 5/C004–005 |
+| Subaru ↔ Beatrice | surviving prior aid remains; V06-E1 grief/refusal/expulsion is discarded interaction retained by Subaru, maternal last lines reader-only | refusal to kill and Roswaal contrast challenge cruelty-only model; contract/own emotional stakes not reduced to service | mother/future burden, return-knowledge and spatial limits OPEN; V06 §6/C018–019/C056 |
+| Subaru ↔ Roswaal | older Dragon aim remains private; Rem's specific ore/alliance delegation is shared active information | accepted bargain and new allied assistance enact an envoy role, not a new knight appointment or Roswaal's observed countermeasure | actual whereabouts, admission purpose, implementation and informed Emilia agency OPEN; V07 C016/C060; Q017–020/Q023 |
+| Subaru ↔ Felt/Rom/Reinhard | Subaru alone retains failed V01 states; V04 reunion/commands shared before the checkpoint; no new V07 direct encounter | earlier rescue and role variation remain; Subaru hears a hint of Reinhard's regret through Julius, not the full history | Subaru's old guilt and reader-only Rom performance are not automatically shared; V04 §§7.6, 9; V07 C044 |
+| Emilia ↔ Puck/Beatrice | preexisting relations survive; reader/Subaru learn different V06-E1 reactions after her penalty death | Puck protects corpse then punishes/destroys by claimed contract; Beatrice grieves/refuses killing and retrieves token | conditional V06-E1 evidence does not prove active Emilia consent or complete contract/mother history; V06 §§6, 8 |
+| estate ↔ Arlam village | earlier V03 reciprocity shared; V05 massacres and V06 early arrival are discarded local states | living children at V06-E1 arrival demonstrate a prevention opportunity, not completed evacuation or V06-E2 safety | no actual current rescue/attack yet shown; threats and killers retain agency; V06 §§3–4/C003/C032 |
 | Felt ↔ Rom ↔ Reinhard | preexisting found family plus current confinement/acceptance episode | Rom counterfeits debt/plea to protect freedom; Felt sees through him, asserts family and accepts role; Reinhard receives first enacted command | acceptance under family leverage is not unconstrained consent; ancestry and Reinhard personal constraint OPEN; V04 §7.6 |
-| Subaru ↔ Julius / Reinhard | duel history shared; Subaru learns sanction through Reinhard but not protection rationale | V05 mediation refusal remains historical; V06 self-excludes Julius and does not repair the knight conflict | Julius remorse unverified, no retrospective consent/exoneration; V05 §6.4; V06 §§4.1, 6 |
-| Emilia ↔ Puck | active familiar relation predates checkpoint; Subaru/reader retain E1 identity/contract speech | giant Puck identity confirmed; he claims world destruction irrespective of her wishes and acknowledges Sword Saint limit | full clauses/parties/compulsion and her agency OPEN; earlier unseen freeze inferred, no completed global destruction; V06 §8/C010–012 |
+| Subaru ↔ Julius | duel/rupture shared; V07 arrival, argument and apologies mutually enacted; Subaru alone carries discarded refusals and future-death knowledge | qualified reciprocal apology, acknowledged contribution and continued dislike allow actual cooperation; transparent Yuri role alias, suspension ended | not automatic friendship, equal combat strength or complete retraction/exoneration; full protective rationale not freshly recited; V07 §7.5/C050–052 |
+| Emilia ↔ Puck | active familiar relation predates checkpoint; Subaru/reader retain V06-E1 identity/contract speech | giant Puck identity confirmed; he claims world destruction irrespective of her wishes and acknowledges Sword Saint limit | full clauses/parties/compulsion and her agency OPEN; earlier unseen freeze inferred, no completed global destruction; V06 §8/C010–012 |
 | Julius ↔ Ferris | shared guard friendship, separate camp commitments | cooperate on harm/treatment; warmly part with explicit rival throne claims | friendship does not equal alliance; V04 epilogue |
-| Rem ↔ Emilia | V05-E2 inner aversion/warmth remains reader-only; active Rem chooses the declared rescue goal | devotion/refusal/support now coexist with named competing love; no current Emilia response | rescue cooperation is not proof old prejudice or jealousy cured; V06 §5.4/C029–030 |
-| Subaru ↔ Crusch / Ferris / Wilhelm | precheckpoint care/training shared; E1 new army refusal is discarded; E2 delegation/proposal active | hosts are differentiated; Crusch merit respect and benefit threshold, official sword/healer roles, and support under fear replace a simple betrayal model | final offer unanswered; Ferris still lacks actual return trauma; wife/operation/medical price open; V06 §§6–7 |
-| Subaru ↔ Otto | former paid empathy retained by Subaru; E1 oil/convoy/driving/erasure/ejection is another discarded acquaintance | competence and extreme-risk betrayal coexist conditionally; active E2 contact/knowledge not shown | bloody abandoned carriage not witnessed corpse; final invitee not silently identified as Otto; V06 §§6–7/C033/C051 |
+| Rem ↔ Emilia | V05-E2 jealousy/warmth remains its reader-only state; active Rem supports Emilia-directed rescue while stating her own desired place | no current Emilia response; second-wife proposal expressly requires her acceptance, not a completed agreement | no automatic old-prejudice cure, marriage/romance settlement or personal-consent transfer; V07 §5.3/C033/C067 |
+| Subaru ↔ Crusch | prior care/training shared; V06-E1 rejection retained by Subaru, active V07 acceptance/hunt/thanks shared | ally/hero recognition, declined house invitation and promised respect even as future rivals; she corrects an earlier estimate | gift is not omniscience, political benefit persists, camp alliance is not personal consent; V07 §7.1/C014/C049 |
+| Subaru ↔ Ferris | earlier conduct is state-specific; current healer receives Cult encounter/threat information, not RBD; quiet self-comparison reader-only | real triage, teasing, expert limits and mediated trust in Crusch coexist; direct unqualified trust not professed | actual return trauma remains inaccessible; care/consent not uniformly resolved; V07 §7.2/C023/C047–048/C066 |
+| Subaru ↔ Wilhelm | earlier practice shared; current wife identity/thanks/hunt/rescue/service shared; historical inset exceeds Subaru's receipt | acknowledges each other's real contribution; Subaru delegates treatment, Wilhelm volunteers with Crusch permission and remains injured | gratitude is not a healthy body or unrestricted duty to waste life; full Reinhard/family history unshared; V07 §6/C036–044 |
+| Subaru ↔ Otto | old paid empathy and V06-E1 convoy/forgetting/ejection are retained by Subaru, not a new shared V07 meeting | no active appearance or body-fate confirmation; withheld insurance arrangement is not silently identified as Otto | competence and conditional betrayal retain earlier scope; V06 C033; V07 §11/C033, Q031 |
+| Wilhelm ↔ Theresia | narrator supplies selected mutual historical encounters; present Wilhelm remembers his deceased wife; Subaru does not receive the whole inset | flowers, protective reasons, reciprocal historical kiss and her request for words; present revenge and belated declaration, not restored recipient | intervening marriage/family/grief and full current legacy incomplete; bounded V07 case only; V07 §6/C036–043 |
+| Wilhelm ↔ Reinhard | relevant history held by others, not fully told to Subaru; Reinhard absent in current scene | Wilhelm admits inability to forgive despite knowing no fault/bad intent in the matter; Julius expects some relief | exact relationship/cause and actual acknowledgment/repair OPEN; V07 C044 |
+| Crusch ↔ Ferris ↔ Fourier | Ferris narrates past relation with deceased fourth prince; Crusch's quiet dream clause not heard by Subaru | personal influence and affectionate loyalty coexist with present political/medical duties | metaphor not percentage psychology; no automatic identity for every unnamed old reference or complete romantic map; V07 C046–048 |
+| Subaru ↔ Anastasia / Russell / Iron Fang | Subaru alone carries discarded extraction/referral; current bargaining, procurement and conditional help are shared | supplier/credit interests, bodily risks, test/face-saving and bystander duty differ across actors | no unconditional three-camp pact, free permanent service or uniform complicity; V07 §§7.3–7.4 |
+| Mimi ↔ Hetaro ↔ Tibby | current sibling roles: narrator calls Mimi/Hetaro twins; Mimi names Tibby her younger brother, capacities reported | Hetaro protects sister/coordinates/caps mana, Mimi attacks/helps, Tibby reported money/negotiation leader; different endurance/duties | exact ages/birth configuration and complete shared histories not invented; V07 C056–058 |
+| Subaru ↔ Patrasche | current choice/naming/training/battle survival shared; prior-state recognition is not retained dragon-memory proof | intelligent autonomous assistance, naming and later female identification; novice rider relies on her | anthropomorphic interpretation not telepathy or full animal preference model; V07 C059 |
 
 No row authorizes describing one party's cumulative memory as mutual intimacy, consent, obligation, or betrayal.
 
@@ -374,73 +466,51 @@ No row authorizes describing one party's cumulative memory as mutual intimacy, c
 
 | character | current bounded model | conditioning/counterevidence | readiness |
 |---|---|---|---|
-| Subaru | E2 asks help/correction, uses mission authority/adviser and prepares a benefit-based offer after failed hate/flight | actual skills and rescue remain despite total self-condemnation; self-hatred/hero-performance/control risks unresolved; no diagnosis/cure; V06 §4 | `ACCUMULATING` |
-| Emilia | surviving fairness/care/boundary model; E1 healing, questions, duties and penalty death add conditional evidence | no active E2 repair, current consent or full contract history; not mere rescue prize; V06 §§4.3, 6 | `ACCUMULATING` |
-| Rem | active costly escape refusal, ordinary love, humility about pain, chosen support and relief at mission inquiry | neck-chop/self-spending and service/hero-chain worth persist; domestic future conditional, return secret undisclosed; V06 §5 | `ACCUMULATING` |
-| Ram | prior care/surveillance/loyalty model gains gentle bedside conduct and E1 erased-sister account | changed memory not proven knowing concealment; dependence/history/role renegotiation remain; V06 §§3, 6 | `ACCUMULATING_POST_CHECKPOINT` |
+| Subaru | V07-E1 enacts accepted bargaining, bounded contribution, requests/delegation, protective priority and qualified peer apology | fear, hero/shame performance, trust-pressure, self-discounting and conditional fatal restart remain; no diagnosis or complete cure; V07 §4/C026–031/C052 | `ACCUMULATING` |
+| Emilia | earlier fairness/care/boundary and political aspiration remain; no new present V07 appearance | her own wishes, contract agency and informed rupture repair cannot be replaced by another's victory or chosen goal; V07 C067; prior V06 C055 | `ACCUMULATING` |
+| Rem | knows the false explanation without knowing RBD, chooses trust/refuses, acts competently, asks for affection and accepts necessary rest | staged dying/possessive pressure, service-centered worth, first-helper desire and hero dependence persist; genuine affection is not complete negotiated terms; V07 §5/C015/C029/C032–035 | `ACCUMULATING` |
+| Ram | prior care/surveillance/loyalty model gains gentle bedside conduct and V06-E1 erased-sister account | changed memory not proven knowing concealment; dependence/history/role renegotiation remain; V06 §§3, 6 | `ACCUMULATING_POST_CHECKPOINT` |
 | Beatrice | grieving refusal, Roswaal-method contrast, token expertise and spatial expulsion expand own-stake model | private mother/future/contract and return-knowledge OPEN; no unlimited teleport law; V06 §6 | `ACCUMULATING_POST_CHECKPOINT` |
-| Roswaal | reported cult anticipation/planned Garfiel absence and delegated ore/alliance mission add strategy | actual location/countermeasures, Dragon reason/target and hidden admission purpose unresolved; no total foresight; V06 §7.5 | `ACCUMULATING` |
+| Roswaal | delegated mission now receives accepted alliance/assistance; prior Cult anticipation/planned Garfiel absence remains reported | no actual location/countermeasure, Dragon purpose or informed Emilia agency newly verified; remote-cast capacity is Rem's assessment; V07 §8/Q017–020 | `ACCUMULATING` |
 | Felt | refuses imposed noble persona, detects Rom's protective deception, accepts family obligation and disruptive program | role chosen under constraint; lineage explicitly unconfirmed; sustained command not yet tested; V04 §7.6 | `ACCUMULATING` |
 | Rom | found-family care includes concealment, self-abasement performance and attempted self-sacrifice | false begging is not true ingratitude; attempts to protect freedom can remove Felt's say; V04 §7.6 | `ACCUMULATING` |
 | Reinhard | rescue/strength and public courtesy coexist with coercive confinement and national duty; service enacted after Felt accepts | not omniscient or complete political control; admires Julius's qualities; personal constraints OPEN; V04 §§7–8 | `ACCUMULATING` |
 | Elsa | hired killer with abdominal-attack fixation and high adaptive combat capacity | employer/objective remain open; behavior is not a diagnosis | `ACCUMULATING_DORMANT` |
-| Julius | skilled guard/advocate; hereditary doctrine, preemptive protection, irritation, excess and accepted sanction coexist | protective rationale reader-only relative to Subaru; not pure villain or universally vindicated; V04 §§5.3, 8 | `ACCUMULATING` |
-| Ferris | actual gate specialist, weak swordsman, teasing/loyalty, therapeutic influence and severe will-to-live criterion | clinical expertise not true trauma knowledge or universal mental cure; unnamed friend motive not assigned; Crusch order absent; benevolence/manipulation coexist; V05 §6.2 | `ACCUMULATING` |
-| Crusch | separates care/alliance, sincerity/credibility and merit/reputation pretext; needs concrete political benefit | wrong revenge-origin hypothesis limits epistemic authority; operation/independence policy not completed; V06 §7 | `ACCUMULATING` |
-| Anastasia / Priscilla | prior programs/growth reputation and corroborated Priscilla territorial prosperity retained; V06 adds Anastasia aid/extraction/care and Priscilla routine/insight/humiliation | no universal providence or sustained national stewardship proof; first lunch not a military-refusal scene; V06 §7 | `ACCUMULATING` |
+| Julius | actual reinforcement, transparent role alias, expired sanction, qualified apology and contribution recognition add recipient contrasts | remains capable of barbs; not all prior acts retracted, friendship not required; Subaru's reflective understanding is not full newly heard rationale; V07 §7.5/C050–052 | `ACCUMULATING` |
+| Ferris | real triage/expertise, loyalty-mediated trust, Fourier recollection, forceful rest order and quiet self-comparison | private speech not heard by Subaru; medical skill not RBD-trauma knowledge, universal consent or nonviolence; old unnamed-reference identity not globally assumed; V07 §7.2/C023/C046–048 | `ACCUMULATING` |
+| Crusch | operational initiative, bounded wind reading, responsibility to trusting troops, shared credit and costly allied assistance are enacted | sincere interpretation remains fallible; gratitude and future friendliness coexist with rival program, no complete national policy; V07 §7.1/C014/C045/C049 | `ACCUMULATING` |
+| Anastasia | current procurement, commercial favors, conditional force and prudent road closure develop aid/extraction model | retainer friendship labels not accepted universal biography; future profit and actual care coexist, not unconditional permanent service; V07 §7.3/C053–054 | `ACCUMULATING` |
+| Priscilla | prior disruptive program and corroborated territorial prosperity, ordinary routine and humiliating test remain bounded evidence | no V07 appearance, threat execution or universal providence proof; prior V06 §7.2 | `ACCUMULATING` |
 | Al | named Aldebaran, limited deescalation/duty, ordinary injuries/limits and Ram/Rem shock | terminal meaning/sniff cue/arrival mechanism OPEN; no return or cult identity inferred; V06 §6 | `ACCUMULATING` |
-| Wilhelm | hatred sympathy, Trias/wife-name unworthiness and official/private role contrast extend practiced-skill model | no full wife/service history, return knowledge or instant mastery; V06 §6 | `ACCUMULATING` |
-| Otto | competent trader/coordinator/driver under fear, phased Rem forgetting and conditional ejection | earlier empathy not erased; actual death unobserved, current E2 acquaintance absent; V06 §6 | `ACCUMULATING` |
+| Wilhelm | full narrated selection of practice/courtship/protective reasons, actual revenge/declaration and renewed voluntary service | current severe injury, marriage/grief intervals and exact Reinhard history remain gaps; no complete person or finished mourning; V07 §6/C036–044 | `ACCUMULATING` |
+| Theresia | narrator supplies flower cultivation, immense force, own protective reason, chosen duel/response and need for spoken love | selected historical/deceased person, not a current living recipient; full marriage/family/private history insufficient; V07 §6/C038–042 | `ACCUMULATING` |
+| Ricardo / Mimi / Hetaro / Tibby | differentiated leadership, protection, combat/support, mana, sibling care and attributed negotiation roles | no universal combat rank, cowardice label, exact ages/birth configuration or uniform profit/knowledge; Tibby identification/capacities partly reported; V07 §7.4/C055–058 | `ACCUMULATING` |
+| Patrasche | chosen black female dragon, named during battle; autonomous support enables inexperienced rider | not shared return memory, literal mind-reading or complete preference history; V07 C059 | `ACCUMULATING` |
+| Otto | competent trader/coordinator/driver under fear, phased Rem forgetting and conditional ejection | earlier empathy not erased; actual death unobserved, current V06-E2 acquaintance absent; V06 §6 | `ACCUMULATING` |
 | Kadomon | real concern/generosity/family affection coexists with racial fear/prejudice | apology for overstatement not renunciation; merchant testimony not whole historical truth; V05 §7.1 | `ACCUMULATING` |
 | Petelgeuse | false trial interpretation, immediate willingness to kill, fresh retaliation and physical vulnerability | local death not global cult eradication/possession proof; doctrine does not certify causality; V06 §8 | `ACCUMULATING` |
 
-No character is monograph-ready at V06. Subaru's shared restart is not durable recovery; Rem's ordinary love and costly refusal do not complete independent worth. New figures Mimi, Schult and Russell have bounded role/conduct evidence (V06 §§6–7), not mature person models or exact ages beyond source testimony. Current default is V06-E2 where observed; E1 conduct remains conditional reconstruction evidence rather than its automatically shared biography. No mature reusable model/fidelity audit is promoted.
+No character is monograph-ready at V07. Current default is V07-E1 = V06-E2/RZ-E-011 where observed; older failed-state and narrator-only historical conduct require explicit selection rather than automatic shared biography. Subaru's achievement is not complete recovery; Rem's affection/refusal does not complete independent worth. Wilhelm–Theresia supports a bounded historical relationship case, not a complete current person. No exact ages/birth histories or mature reusable model/first fidelity audit are invented.
 
 ## 8. Institutions, factions, status, and practical agency
 
 | canonical current home | scope and migration | use |
 |---|---|---|
-| `REZERO_INSTITUTIONS_FACTIONS_AND_POWER_LEDGER.md` V1.2 | sole cumulative home through V06; V01–V03 migration and V04/V05 history preserved; negotiation authority, mission/ore, markets, escort and cult limits added | use its current rows and frozen V06 routes; this master maintains no competing full political table |
+| `REZERO_INSTITUTIONS_FACTIONS_AND_POWER_LEDGER.md` V1.3 | sole cumulative home through V07; prior migration/history preserved; accepted alliance, conditional command, procurement, triage, public proof, credit, alias and post-hunt assistance added | use its current rows and frozen V07 routes; this master maintains no competing full political table |
 
 V04 meets the registered independent-retrieval trigger. A maintained institutional model is not a final specialist synthesis or an arc-completion claim. Claims/revisions and personal relationship effects remain master responsibilities; personal knowledge now routes to its dedicated ledger.
 
 ## 9. Mechanics and world-model state
 
-| proposition/mechanism | observed or claimed state | confidence and unresolved burden |
+| sole current home | migrated scope and current burden | retrieval |
 |---|---|---|
-| death-triggered restoration | V06 adds death 10 and same post-rupture stall restoration; E2 active | provider/checkpoint selection/parallel-world ontology OPEN; blackout/teleport not resets; V06 C001–003 |
-| disclosure suppression | V06 attempted explanation produces two-handed stasis and Emilia death; narration attributes crushed heart to left hand | self-pain not a safe selectable universal price; punisher/semantic targeting OPEN; V06 C006–007 |
-| black liminal/dream figure | prior clipped speech preserved; V05 dark interval has feminine figure, longing/touch/euphoria and full `愛しているわ` | full new utterance does not identify/retro-complete prior speaker or prove controller; V05 C005 |
-| Witch odor | V05 Rem detects E2 intensification just before collapse and stronger E3 scent; explicitly not detectable by Ram | restoration association, prior disclosure effects and tactical Ulgarm use distinguished; no universal detection/decay/control; V05 C007 |
-| curse implantation | an Ulgarm bite plants an operator-specific formula at the contact wound | expert detection plus repeated contact correlation |
-| curse activation and termination | a hungry Ulgarm activates its formula to drain a target's mana as food; killing that feeder stops its connection | expert explanation corroborated by the children and Subaru; broader curse-class generalization remains bounded |
-| overlapping curse formulas | numerous structures tangle beyond timely removal and remain inert after their operators die | direct expert assessment and outcome; long-term bodily effect or removability remains open |
-| mabeast command | breaking an Ulgarm's horn makes it obey the breaker; inspected corpses were hornless | direct Roswaal/Ram investigation; handler identity and broader species scope remain open |
-| oni horn | draws ambient mana, amplifies an oni, and functions like a stronger gate | narrator explanation plus Rem's observed transformations |
-| Ram's horn loss and support | insufficient mana intake/output would degrade Ram's exceptional body; Roswaal transfers balanced mana through the scar | narrator-certified local mechanism; dependency history, alternatives, and long-term limits remain open |
-| `ゲート`, mana, and attributes | a gate cycles internal mana; ordinary magic uses six attributes including `陰/陽`; Subaru has strong Yin affinity but little talent or control | expert explanation with observed applications; wider system and exceptions incomplete |
-| spirit arts and `オド` | spirit arts draw ambient mana through contract; `オド` is a finite internal life-associated reserve; Emilia spends it in healing | expert Puck explanation plus observed consequence; deeper ontology and contract rules remain open |
-| `シャマク` and Subaru's gate | prior damage/failed V04 use persists into actual water-mana treatment with nausea/fatigue; course interrupted, no new Subaru casting | forced depleted-mana doping cause reiterated; no quantified permanent destruction or completed cure; V05 C009 |
-| named users | prior users retained; Rem ice/flail/chain rescue with neck-chop rather than new mana sleep; Emilia bodily healing; Beatrice spatial transfer; Puck cold/mana drain/punitive freezing | no completed Subaru gate cure, Rem resurrection, infinite teleport or all-care ethical equivalence; V06 C013/C017–019/C031 |
-| Felt speed / `風の加護` | speed observed; Elsa names a wind blessing | observed phenomenon, uncorroborated explanatory theory |
-| Reinhard/ambient mana | Emilia reports her access changes when Reinhard seriously prepares to attack | operational correlation supported; scope/mechanism open |
-| blessings / ground-dragon wind protection | Emilia describes birth-given gifts and holder awareness; protection extends to carriage, has delayed reactivation and finite range; Subaru falls outside it; V05 adds a stop-related jolt | range failure directly observed; broader taxonomy expert-bound; restoration not identified as blessing; V04 C005; V05 §8 |
-| Puck mental communication / status | prior private channel retained; V06 named small-to-giant transformation confirms identity; corpse protection and stated world-destruction/Sword Saint limit | not unrestricted mind access, Emilia consent or fully verified contract/compulsion; V06 C010–012 |
-| Ferris healing / influence | water gate treatment and admitted increased receptivity; V05-E2 no detected mana/curse cause or ability to cure collapse | influence not trauma therapy/permanent rewrite; diagnoses lack actual return history; no Crusch order shown; V05 C009–012/C038 |
-| Al arrival / limb wording | shared idioms plus reported eighteen-year otherworld arrival; left arm absent; one local sentence says left-hand gesture | no summoning cause/shared restoration; isolated hand wording inconsistency unresolved, no invented regrowth; V04 C035–036, §9 |
-| twin synesthesia | strong emotions leak, deliberate Rem sending more range/energy-limited and requires both awake | no uninterrupted full tactical messages; Ram clairvoyance separate; V05 §5.3 |
-| Sloth's Unseen Hand | Subaru now sees seven black arms, dodges some; Puck cannot see and escapes by transformation/force | no maximum/range/cost/visibility cause/shared punitive-hand identity proved; body moves unlike stasis; V06 C008–009 |
-| cult chant / inner voice | clipped murmur accompanies visceral pain/black stirring; distinct sweet female voice perceived | full chant/voice/ontology integration unresolved; not automatically the liminal figure; V05 C043 |
-| giant gray frost beast | confirmed Puck by named transformation; earlier V05-E2 beast matched; unseen first freeze converges | prior Emilia fates not newly corpse-witnessed; contract claims/scale limits separate; V06 C010–012 |
-| White Whale / fog | actual body/fog encounter, disappearing people, changed Otto/Ram/Emilia memories and Rem-room traces; scent attraction corroborated inference | precise trigger/history/soul/name rule and Subaru exception OPEN; Whale leaves him alive, not a universal carrier-kill law; V06 C004–005/C013–015 |
-| minerals / cave concealment | impact activates light; apparent rock traversed from inside | hologram analogy Subaru conjecture, not spell taxonomy; V05 §8 |
-| ore / Flugel tradition | Russell/Crusch explain mana/land affinity, craft skill, irreversible processing, trade/control; Rem reports planting/sage tradition and actual landmark | no unlimited resource, all-crystal equivalence or verified Japanese sage identity; V06 C049/C057 |
+| `REZERO_MECHANICS_METAPHYSICS_AND_WORLD_MODEL_LEDGER.md` V1.0 | necessary twenty-seven former master responsibilities plus V07 independent effect/cost/counter/theory tests; retrospective V01–V06 migration, prospective V07 increment | RZ-M-001–050; original frozen VNN routes, explicit attribution, competing model, costs, exceptions and material revisions |
 
-Character theory, expert explanation, observed regularity, and narrator-certified fact remain separate even when they currently align.
+V07 earns this registered split because physical erasure, memory rewriting, mental pollution/resistance, copied bodies/core mana, anti-magic interactions, variable suppression and gift/range claims cannot safely share broad current rows without flattening evidence. Master claims remain routing summaries, not a second complete causal table. Event sequence is owned in §4's ledger, holders in §5's, institutional resources in §8's and personal consequences here. No final metaphysical specialist or unified provider is declared.
 
 ## 10. Ordinary life and preferences
 
-| character/group | diagnostic baseline through V06 | analytical use |
+| character/group | diagnostic baseline through V07 | analytical use |
 |---|---|---|
 | Subaru | prior sewing/work/study plus V04 potato attendance stamps, mayo recreation, wage-funded repayment, rapid calculation, gambling, evasive study, note of thanks and completed date | distinguish domain competence from status-pressure failure; desire for heroic recognition does not erase ordinary value; V04 §4 |
 | Emilia | prior regulation/care plus daily spirit communion, village contact, completed date, practical safety belt, supervision, medical negotiation and angry refusal | care includes boundaries and public aspiration, not only comfort; handholding not automatic romance; V04 §§4–5 |
@@ -452,9 +522,10 @@ Character theory, expert explanation, observed regularity, and narrator-certifie
 | new capital cast | Priscilla fruit ignorance/gambling/comfort and chosen finery; Al self-deprecation/mediation; Crusch public error repair/chosen clothing; Anastasia modest presentation/ambition; Wilhelm tea/discretion/wife admiration | retain low-stakes counterexamples to public-role caricature; insufficient for full mundane person models; V04 §§4, 6–7 |
 | Subaru / Rem at host house and road | training/falls, continued study, accessible letter, head-patting, sleep and bodily caregiving, quiet response to a name | distinguish learning from desired status; care can enable avoidance or preserve life while overriding agency; V05 §§4–5 |
 | Rem across recipients | work satisfaction, less fear beside Ram, more ease with Roswaal/Beatrice, new shared interests with Emilia; jealousy and warmth both admitted | V05-E2 self-account supports real ordinary change, not complete independent worth or every V05-E3 choice already made; V05 §5.3 |
-| Crusch / Ferris / Wilhelm | water rather than alcohol for guest, night conversation and teasing, actual healing work for many, sword weakness/other contribution, wife-centered practice | public role/private process contrasts test competence and value; no current wife biography or gender-life history invented; V05 §6 |
+| Crusch / Ferris / Wilhelm — V05 base | water rather than alcohol for guest, night conversation and teasing, actual healing work for many, sword weakness/other contribution, wife-centered practice | public/private role contrast remains; V07 now supplies selected wife history, not complete contemporary mundane or gender-life biography; V05 §6; V07 §6 |
 | Otto / Kadomon | merchant supplies, route/cargo planning, risk refusal, failed speculation; generosity and concern alongside prejudice | monetary resource not expertise, goodwill not universal tolerance, empathy not promised allegiance; V05 §7 |
 | V06 ordinary contrasts | finite phone/maps and dry-food dislike; Ram reading/gentle head-pat; Priscilla reading/morning routine; Al injured-lip whistle limit; Anastasia feeding/wiping Mimi; Rem's recipient-specific affection and imagined budget/work/study | domains of ordinary value and preference, not accomplished domestic future or a cure; V06 §§4–6, 9/C026–027/C038/C057 |
+| V07 ordinary contrasts | coin/palm rituals, actual sleep and meal rotation, cargo-trained mounts, banter calming troops, Rem's graffiti refusal/animal caution, Patrasche's autonomous aid, cultivated flowers and recurring conversation | preparation and low-stakes attention are causal; old practice matters without sword mastery; ritual usefulness is not literal magic, and present support is not complete independent worth; V07 §9.2/C026/C038/C055/C059/C068 |
 
 Do not accumulate trivia that does not change a character, relationship, institution, or specialist model.
 
@@ -468,7 +539,7 @@ Do not accumulate trivia that does not change a character, relationship, institu
 | `楽` / `楽しい` | Subaru distinguishes ease from enjoyment under purposeful mastery | V02 §§5.1, 10 |
 | `お客様` | post-restoration return to “guest” marks erased estate relationship history | V02 §§5.1, 10 |
 | `魔女の臭い` | detected signature/odor; physical ontology and source remain open | V02 §§5.3–5.4, 10 |
-| `魔女教` | prior settlement attack category now gains present bishop/finger/report/cleanup conduct; exact earlier-to-current units and hidden sponsorship still open | V02/V03 history; V05 §§5.3, 7.3 |
+| `魔女教` | prior attack/bishop/finger conduct now gains limited Whale correlation, reported offices and an actual shared threat briefing; no verified control or global eradication | V02/V03 history; V05 §§5.3, 7.3; V07 C061–066 |
 | `使い方は、俺が決める` | self-authorship framing of deliberate death under rescue purpose | V02 §§5.4, 10 |
 | `まだ、会えない` | exact terminal line with unidentified speaker/ontology | V02 §§5.4, 10, 14/17 |
 | `泣いた赤鬼` | Ram's responsibility/sacrifice interpretation; autobiography not assumed | V02 §§5.3, 10 |
@@ -478,7 +549,7 @@ Do not accumulate trivia that does not change a character, relationship, institu
 | `姉様` / `お姉ちゃん` | Rem's move from hierarchical reverence to childhood intimacy interrupts Ram's sacrificial retreat | V03 §§5.5, 11 |
 | `ツノナシ` | literal hornless condition and oni status insult; Ram is matter-of-fact while Rem organizes guilt around it | V03 §§5.4, 11 |
 | `駒` | Roswaal's unsoftened term for indispensable pieces; Ram desires this instrumental recognition | V03 §§6, 8, 11 |
-| `──いしてる` / `愛しているわ` | V03 fragment remains its exact old evidence; V05 full utterance recurs, identity/continuity/provider still unverified | V03 §§5.1, 9, 11; V05 §8 |
+| `──いしてる` / `愛しているわ` / `愛してる` | V03 fragment, V05 fuller wording and V07 private short form preserve their own scenes; resemblance neither completes older speech nor identifies provider | V03 §§5.1, 9, 11; V05 §8; V07 §8/C003 |
 | `龍を殺す` | Roswaal's private statement of purpose; exact Dragon, reasons, and knowledge distribution remain open | V03 §§6, 8, 11 |
 | address/register profiles | Subaru's meta/game register; Emilia's careful framing; Ram/Rem hierarchy and childhood register; Beatrice's abrasive disclaimers | provisional; requires later recurrence under new roles before specialist promotion |
 | `どうして` / `一の騎士` | why a choice was made differs from how arrival occurred; self-designation lacks appointment | V04 §§3, 5.3, 10 |
@@ -493,8 +564,18 @@ Do not accumulate trivia that does not change a character, relationship, institu
 | `──ラ` / `──マ` / terminal speech | cult fragment differs from Rem's clipped cast; final request to live explicit, broken affection not expanded into invented speech | V05 §§5.5, 9 |
 | `ナツキさん` | Otto's surname address noticed as uncommon, not automatic intimate alliance | V05 §9 |
 | V06 interrupted `諦める` clause | full answer admits ignorance of Subaru's pain; fragment alone reverses stance | V06 §9; `p-022#B0356`, `B0398–0401` |
-| `レムの英雄` / `呪い` / `ゼロ` | private value, binding faith and present restart; not royal office, literal formula or new checkpoint | V06 §§5, 9; `p-022#B0525–0588` |
-| envoy / knight courtesy | accepted delegation establishes this bargain's authority, not personal romantic consent or appointment | V06 §7.5; `p-024#B0146–0201` |
+| `レムの英雄` / `呪い` / `ゼロ` | V06 private value/restart; V07 performance pressure and rest-enabling reassurance; not royal office, literal formula, cure or new checkpoint | V06 §§5, 9; V07 §§4.3, 5.4/C028/C035 |
+| envoy / knight courtesy | accepted delegation and actual alliance establish bounded negotiating/assistance roles, not Emilia's personal romantic consent or a knight appointment | V06 §7.5; V07 C016/C049–051/C067 |
+| `せい` / `おかげ` | enabling an opportunity differs from owning every subsequent task, cost or guilt | V07 §9.1; `p-004#B0072` |
+| `風見の加護` | named lie/emotion account with sincerity-versus-truth limits, not generic omniscience | V07 C014; `p-001#B0138–0144`; mechanics M048 |
+| `恥` | explicit name for Crusch's morale appeal, not merely insult or simple praise | V07 C028; `p-010#B0109–0127` |
+| `命を捨てる義理がない` | Hetaro distinguishes risking from throwing away life under professional duty | V07 C057; `p-010#B0290–0298` |
+| `第二夫人` / `好き` / `愛しています` | particular requests/declarations and conditional desired place, not a completed legal or exclusive arrangement | V07 C033–034; §9.1 |
+| `言質` / `予約済み` / `撤回` | staged-dying reversal uses captured-commitment language; initiative and pressure coexist, not literal irrevocable ownership | V07 C034; `p-018#B0095–0107` |
+| Wilhelm's `私` → `俺` | public voice gives way to intimate historically recognizable self-reference in belated declaration | V07 C042/C069; `p-016#B0025–0030` |
+| `同族嫌悪` | Ferris's quiet attributed self-comparison is not heard by Subaru; exact cause not invented | V07 C047; `p-020#B0184–0187` |
+| `ユーリ` / `ユリウス` | transparent role alias versus known identity; formal constraint persists without genuine unrecognition | V07 C050; `p-020#B0293–0298` |
+| threatened `BADEND11` / returning awareness | game label and subjective reawakening are not an eleventh death or checkpoint return | V07 C001–003/C069; `p-010#B0418–0424` |
 
 ## 12. Prospective question horizon
 
@@ -572,7 +653,7 @@ The 26 entering V05 questions remain frozen in V04 §16 and are all adjudicated 
 
 Historical V06 forecasts and their immutable pre-opening record are adjudicated in V06 §2. Their prior body/affect, revenge, cooperation, care/agency and OPEN mechanics/architecture expectations are not rewritten after the findings.
 
-### Current bounded V07 horizon
+### Historical entering V07 horizon — adjudicated by V07
 
 All 32 V06 questions are adjudicated in V06 §13; all 48 predecessor claims in §11. The following 40 questions and ten next forecasts in V06 §15 were fixed before V07 opening. The full frozen formulations control the compact register.
 
@@ -621,38 +702,95 @@ All 32 V06 questions are adjudicated in V06 §13; all 48 predecessor claims in �
 
 Current forecast limits: final offer requires an answer/test; cooperation needs authority/interests; restart is not cure; Rem refusal/self-worth and Emilia repair remain separate; mechanics/holder/ordinary-value and promotion predictions remain bounded. No particular alliance, invitee, hunt, victory, death or endpoint is forecast as fact.
 
+### Current bounded V08 horizon
+
+V07 §13 adjudicates all forty inherited V07 questions, §11 all sixty V06 claims, and §2 all ten entering forecasts. These forty-five questions and the ten forecasts in frozen V07 §15 were fixed before V08 opening; those complete formulations control this register.
+
+| ID | question / discriminator |
+|---|---|
+| `RZ-Q-V08-001` | Does a new death/return occur; what checkpoint and carry-forward are actually tested, rather than inferred from the hunt's success? |
+| `RZ-Q-V08-002` | Which earlier restoration-related memories or material traces are actually retested, including Ram's and the Rem-room evidence? |
+| `RZ-Q-V08-003` | What further erasure conditions or history/name/soul consequences are directly established, without confusing disappearance, ingestion and bodily death? |
+| `RZ-Q-V08-004` | What explains Subaru's memory exception and mental resistance, and can another tested holder share either without assuming one universal immunity? |
+| `RZ-Q-V08-005` | What are scent detection, intensity, decay and tracking limits; does any new evidence explain the older Whale departure or support transfer to another mabeast? |
+| `RZ-Q-V08-006` | Which intent, content, recipient or hearing conditions explain variable taboo responses and target selection, without assuming ear-covering guarantees safety? |
+| `RZ-Q-V08-007` | Is any provider identity directly linked across love utterance, heart grip, return, dark figure, chant, odor, favor or Authorities? |
+| `RZ-Q-V08-008` | What explains changed Unseen Hand perception, and which actual observers can or cannot see it? |
+| `RZ-Q-V08-009` | What arm number, range, cost, targeting or counter is demonstrated beyond the earlier seven and partial evasion? |
+| `RZ-Q-V08-010` | Are Gospel predictions, trials and Subaru's proposed Pride status actually tested rather than inherited from Cult interpretation? |
+| `RZ-Q-V08-011` | What is the actual relation among Cult units/fingers, sponsors, targets and the Whale blockade; is control or possession independently shown? |
+| `RZ-Q-V08-012` | What do Echidna, Satella and Gluttony identify, and is the Whale/bishop equivalence confirmed, narrowed or contradicted? |
+| `RZ-Q-V08-013` | What are Puck's actual contract parties, clauses, trigger and limits, including Emilia's informed agency? |
+| `RZ-Q-V08-014` | Do Emilia's older fates or the unseen first freeze gain independent evidence rather than another recollection of the same inference? |
+| `RZ-Q-V08-015` | What explains Beatrice's mother, future burden, wishes and actual contract/spatial limits? |
+| `RZ-Q-V08-016` | Do Subaru's gate, safe casting or old inert curse formulas receive actual treatment/completion, symptoms, removal or activation evidence? |
+| `RZ-Q-V08-017` | Where is Roswaal actually, what countermeasures exist, and are Garfiel/handler/Elsa/sponsor links directly attributed? |
+| `RZ-Q-V08-018` | Which Dragon does Roswaal target, why, and what does Emilia know or independently choose about his program? |
+| `RZ-Q-V08-019` | What was the medical information price and castle-admission purpose, separately from the accepted mining-rights alliance? |
+| `RZ-Q-V08-020` | How are alliance/mining terms, camp authority, debts and promised reward implemented after the hunt rather than merely accepted in principle? |
+| `RZ-Q-V08-021` | Are head transport, patient care, memorial work and public proof actually completed; what costs and gaps remain after victory? |
+| `RZ-Q-V08-022` | Is the phone transferred or its false explanation exposed; who knows the bluff, when did Rem recognize it, and what happens to trust? |
+| `RZ-Q-V08-023` | What legitimate authority does Subaru exercise next, and how do official service, envoy work, hero recognition and Emilia's personal consent remain distinct? |
+| `RZ-Q-V08-024` | Can cooperation and risk-sharing persist without preemptive pledges, trust-pressure or indispensable-hero demands under a new result? |
+| `RZ-Q-V08-025` | Does Subaru actually hear Emilia's present wishes and address prior breaches without treating rescue as forgiveness? |
+| `RZ-Q-V08-026` | Can Rem retain refusal, rest, independent purposes and affection without first-helper service being her only worth; what relational terms are actually negotiated? |
+| `RZ-Q-V08-027` | Do Ram and Rem negotiate sister roles, and are Ram's mana dependence, patronage or alternatives explained independently? |
+| `RZ-Q-V08-028` | How do Beatrice's own wishes and wider relationships recur beyond Subaru's retained grief/refusal scene? |
+| `RZ-Q-V08-029` | How does Wilhelm act after revenge, with injury, gratitude and continued service; does new conduct support or qualify the apparent release? |
+| `RZ-Q-V08-030` | How does Ferris judge care, consent, risk and trauma with the information he actually receives, rather than the reader's knowledge? |
+| `RZ-Q-V08-031` | Does Otto appear in the active state, and are older merchant fates or the withheld “insurance” arrangement actually identified? |
+| `RZ-Q-V08-032` | What explains Al's sister reaction and Rem's old cue without inventing a return power or Cult affiliation? |
+| `RZ-Q-V08-033` | What further costs, contract limits, capacities and divergent interests distinguish Anastasia, Ricardo, Mimi, Hetaro and Tibby? |
+| `RZ-Q-V08-034` | Do Priscilla, Al or Schult enact the earlier threat or substantiate stewardship/providence beyond the prior test? |
+| `RZ-Q-V08-035` | Do Felt, Rom and Reinhard gain new consent, education, lineage, duty or ordinary-life evidence beyond the existing bounded scenes? |
+| `RZ-Q-V08-036` | How do collective legitimacy, public information, marriage custom, enforcement and faction procedure operate beyond rhetoric and joking proposals? |
+| `RZ-Q-V08-037` | Does noncentral contribution or ordinary recovery sustain value without a crisis audience, an immediate rescue or self-punishing responsibility? |
+| `RZ-Q-V08-038` | Which address, self-reference, title, register and metaphor shifts recur under matched recipient/state conditions? |
+| `RZ-Q-V08-039` | Does the source explicitly close the named capital section or establish a new structural boundary? |
+| `RZ-Q-V08-040` | What actually happens in the planned estate/Cult operation, with what informed choices, civilian protection and limits to inherited foreknowledge? |
+| `RZ-Q-V08-041` | What is Wilhelm and Reinhard's exact relationship/history, and does any actual acknowledgment or repair occur? |
+| `RZ-Q-V08-042` | Does the admitted main LN fill Wilhelm–Theresia's intervening marriage, family or grief history, rather than requiring an unopened side book? |
+| `RZ-Q-V08-043` | Can Subaru and Julius sustain the qualified repair while disagreeing; what does Yuri's formal role permit, and is friendship actually enacted? |
+| `RZ-Q-V08-044` | What do Fourier's memory, Crusch's quiet dream and Ferris's self-comparison explain, and who actually receives those facts? |
+| `RZ-Q-V08-045` | Do the four dedicated ledgers and the master remain nonduplicative; do any new contradiction, relationship or readiness burdens earn another independently scoped home? |
+
+Current forecast limits: the estate operation is unperformed; changed allies/disclosures need comparison; cooperation retains capacity/authority costs; recognition is not cure; Rem's terms and Emilia's agreement remain separate; apology is not compulsory friendship; losses are not automatically undone; mechanisms and promotion remain evidence-triggered. No particular death, officeholder, return point, betrayal, romance settlement or endpoint is forecast as fact.
+
 ## 13. Promotion readiness
 
 ### Character readiness
 
 | candidate | state | evidence still required |
 |---|---|---|
-| Subaru | `ACCUMULATING` | V06 adds shame/history account, actual help/correction requests and prepared authorized bargain; continued self-hatred, performance/control risks and untested durable recovery prevent mature promotion |
-| Emilia | `ACCUMULATING` | E1 healing/questions/duties and penalty death add conditional evidence; own history, political follow-through, contract agency and enacted repair remain incomplete |
+| Subaru | `ACCUMULATING` | V07 enacts alliance, collective victory, correction, role-sensitive care and qualified apology; fear/hero/shame/conditional self-killing and untested noncentral worth still block maturity |
+| Emilia | `ACCUMULATING` | V06-E1 care/questions/death remain conditional evidence; no V07 present wishes or repair; own history, political follow-through and contract agency remain incomplete |
 | Ram | `ACCUMULATING_POST_CHECKPOINT` | gentle bedside conduct and erased-sister state add contrast; dependence/loyalty origin, alternatives and voluntary role renegotiation remain open |
-| Rem | `ACCUMULATING` | active costly refusal, ordinary love, epistemic humility and chosen support deepen model; service/self-spending/hero chain and independent worth still unresolved |
+| Rem | `ACCUMULATING` | V07 knows the lie, refuses/acts/asks/pressures and accepts exhausted rest; sincere affection coexists with service/hero dependence and unresolved negotiated terms |
 | Beatrice | `ACCUMULATING_POST_CHECKPOINT` | grief/refusal, own future burden, maternal speech and spatial act expand evidence; contract/history/limits and wider ordinary recurrence still needed |
-| Roswaal | `ACCUMULATING` | mission/ore delegation and reported cult anticipation/absence add strategy; actual countermeasures, Dragon purpose and informed Emilia agency remain open |
-| Felt / Rom / Reinhard | `ACCUMULATING` | V04 reactivates family/coercion/consent and role variation; later sustained command, history and ordinary contrasts still needed |
+| Roswaal | `ACCUMULATING` | delegated bargain now accepted, but no observed countermeasure/location, identified Dragon purpose or informed Emilia agency; V07 keeps those questions distinct |
+| Felt / Rom / Reinhard | `ACCUMULATING` | V04 family/coercion/consent contrasts remain; V07 adds only a regret/history hint for Reinhard, not exact explanation or enacted repair |
 | Elsa | `ACCUMULATING_DORMANT` | employer/objective still not reactivated by direct attribution |
-| Julius / Ferris / Crusch / Priscilla / Anastasia / Al / Wilhelm | `ACCUMULATING` | V06 adds negotiated interests, wrong explanations, costly humiliation/information conduct, sister anomaly and wife-name hint; complete histories, repair and sustained role contrasts remain insufficient |
+| Julius / Ferris / Crusch / Priscilla / Anastasia / Al | `ACCUMULATING` | V07 adds qualified peer repair, differentiated care, loyalty, resources and leadership for present actors; Priscilla/Al not newly tested; complete histories and sustained ordinary/role contrasts remain insufficient |
+| Wilhelm / Theresia | `ACCUMULATING` | selected narrated historical phases and present revenge/declaration support a bounded dyadic case, not full people; marriage/family/grief intervals and Reinhard history remain gaps |
+| Ricardo / Mimi / Hetaro / Tibby / Patrasche | `ACCUMULATING` | differentiated competence/care/limits and reported roles; no universal rank, exact ages/birth configuration or complete ordinary-life person model |
 | Otto / Kadomon / Petelgeuse | `ACCUMULATING` | Otto competence/fear/ejection and bishop false causal model/local defeat condition earlier models; Kadomon prior goodwill/prejudice retained; no mature cross-state person model |
 
 ### Relationship and specialist readiness
 
 | candidate responsibility | state | promotion test |
 |---|---|---|
-| Subaru↔Emilia non-mutual continuity | `CHECKPOINT_READY` only for V01–V04 rupture scope | bounded rupture study remains valid; V06 adds conditional failed reunion/penalty and new insight, not active repair; trajectory beyond V06 remains unread; no separate synthesis required |
+| Subaru↔Emilia non-mutual continuity | `CHECKPOINT_READY` only for V01–V04 rupture scope | bounded rupture study remains valid; V06 adds conditional failed reunion/penalty and new insight, V07 an enacted goal but no current reunion/repair; trajectory beyond V07 remains unread; no separate synthesis required |
 | Subaru↔Ram asymmetric household history | `ACCUMULATING_POST_CHECKPOINT` | later trust/disclosure/power transitions must test whether the surviving state generalizes |
-| Subaru↔Rem non-mutual rescue/care | `CHECKPOINT_READY` only for bounded V01–V06 study | non-mutual deaths, active costly refusal, ordinary love, honest asymmetry and chosen support support bounded comparison; no standalone artifact required, mature worth/agency/recovery remain OPEN |
+| Subaru↔Rem non-mutual rescue/care | `CHECKPOINT_READY` only for bounded V01–V07 study | known-lie trust, actual refusals, pressure, genuine words, conditional fatal restart and accepted rest extend the case; default V07-E1; no standalone artifact or mature worth/agency/recovery certification |
+| Wilhelm↔Theresia historical case | `CHECKPOINT_READY` only for V07 narrated courtship/protective-vow/belated-declaration scope | default current aftermath V07-E1 with historical phases explicitly selected; master owns readiness, V07 §6 owns evidence; full marriage/family/grief and later legacy excluded |
 | Ram↔Rem sister relationship | `ACCUMULATING_POST_CHECKPOINT` | later role negotiation must test hierarchy, guilt, dependency, and mutual protection outside the crisis |
 | memory/identity/continuity specialist | mature synthesis `ACCUMULATING`; state/holder ledgers promoted | V06 interacting erasure/return durability and disclosure/holder transitions earn maintained homes, not final interpretation |
-| mechanics/metaphysics specialist | `ACCUMULATING` | restoration, suppression, odor, curse, and magic claims develop enough independent contradiction density |
+| mechanics/metaphysics specialist | maintained-ledger threshold met; mature synthesis `ACCUMULATING` | registered V07 home owns costs, counters, competing theories, effects and exceptions; no unified provider or final metaphysical synthesis |
 | institutions/power specialist | maintained-ledger threshold met; mature synthesis `ACCUMULATING` | dedicated current ledger promoted for five camps/rules/enforcement/patronage, not final political judgment |
 | Japanese register specialist | `ACCUMULATING` | recurring terms/address shifts become too dense for the master terminology table |
 | source-verified V02–V03 checkpoint | `FROZEN_COMPLETE` | fulfilled by `REZERO_ARC_ESTATE_STORY_CHECKPOINT.md`; formal arc ID remains unassigned |
 
-Nothing is `MONOGRAPH_READY` or mature `SPECIALIST_READY` through V06. Two bounded relationships remain checkpoint-ready; Subaru/Rem scope extends through V06 without requiring a separate synthesis. Three promoted ledgers own their separate current responsibilities. No mature reusable model or first fidelity audit is instantiated.
+Nothing is `MONOGRAPH_READY` or mature `SPECIALIST_READY` through V07. Three bounded relationship scopes are checkpoint-ready; Subaru/Rem extends through V07 and Wilhelm–Theresia is a deliberately narrow historical case, not a complete marriage or person. Four dedicated ledgers plus this master own separate current responsibilities. No mature reusable model or first fidelity audit is instantiated.
 
 ### Post-V03 architecture-promotion review
 
@@ -692,6 +830,12 @@ The post-V05 review remains a historical judgment. V06 now earns two registered 
 
 Relationship, mechanics and readiness remain safely maintained here once chronology/holders are separated. Ordinary-life/Japanese candidates stay deferred with triggers; separate evidence/index files remain unwarranted because claim→freeze→exact-locus retrieval remains reliable. Subaru/Rem's bounded study extends to V06, but self-hatred, dependent worth, untested sustained conduct and absent Emilia repair defeat a mature-model claim. Author-marked restart is not named capital-section closure. Architecture/schema/map/source/character horizon and existing institution state advance in the same atomic transaction; all earlier freezes/checkpoint remain unchanged.
 
+### Post-V07 mechanics promotion and bounded readiness review
+
+V07 adds competing causal burdens rather than another loop count: distinct fog effects, erased identity versus surviving count, mental versus memory resistance without bodily immunity, copied bodies/core mana, finite counters affecting allies, variable taboo/voice/pain/scent and power-versus-range/gift distinctions. Necessary former §9 state migrates explicitly retrospectively into the registered mechanics ledger, RZ-M-001–050; this master now routes. Event/holder/institution responsibilities remain in their existing sole homes.
+
+Relationship current state is still manageable here with explicit V06/V07 labels and frozen argument routes; a dyad count alone earns no new ledger. Ordinary-life/Japanese and readiness tables remain adequate; no independent evidence/index failure is demonstrated. Bounded Subaru/Rem extends to V07, Wilhelm–Theresia gains only its named narrated case, and persons remain accumulating. No capital endpoint, first mature fidelity audit, final specialist or non-spine admission is earned. All affected owners/source/map/protocol/schema/architecture advance atomically while six earlier volume freezes and the estate checkpoint remain unchanged.
+
 ## 14. Append-only architecture and ledger history
 
 | event | horizon | change | historical qualification |
@@ -705,5 +849,6 @@ Relationship, mechanics and readiness remain safely maintained here once chronol
 | V04 freeze / first dedicated-ledger promotion | V04 | all 35 V03 claims/24 questions and ten entering forecasts adjudicated; 40 V04 claims and 26 V05 questions; institution responsibility migrated, other dimensions retained | no new restoration; named capital section beginning only; V01–V03/checkpoint bytes unchanged; inconsistent mutable review counts corrected explicitly |
 | V05 freeze / bounded maintenance | V05 | all 40 V04 claims, 26 questions and ten forecasts adjudicated; 48 claims, 32 V06 questions; two deaths/new checkpoint, Rem/host/cult models and institution ledger updated | active E3 distinguished from discarded evidence; no new split or capital endpoint; bounded Subaru/Rem study checkpoint-ready only; V01–V04/checkpoint bytes unchanged |
 | V06 freeze / two responsibility splits | V06 | all 48 V05 claims, 32 questions and ten forecasts adjudicated; 60 claims, 40 V07 questions; death 10/same checkpoint, within-state erasure, Puck confirmation, mission/delegation and shared restart | event/knowledge history migrates to registered sole homes; final Whale offer unanswered; no capital endpoint/mature model; V01–V05/checkpoint bytes unchanged |
+| V07 freeze / mechanics responsibility split | V07 | all 60 V06 claims, 40 questions and ten forecasts adjudicated; 72 claims, 45 V08 questions; no new return, alliance/hunt completed, erased victims remain absent, qualified peer repair and wife history added | necessary mechanics history migrates to registered sole home; three bounded relationship cases only; estate operation/capital endpoint/mature models unclosed; V01–V06/checkpoint bytes unchanged |
 
 Future volume transactions append one history row and update the relevant current-state tables while preserving material ancestry.

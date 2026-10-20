@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: source_lock
 scope: SOURCE_ADMISSION_CONTRACT_AND_CURRENT_INVENTORY_STATE
-generation: V0.7
+generation: V0.8
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -286,7 +286,24 @@ At that historical V05 boundary no V06 source, supplement, IF, web-novel or audi
 - analytical product: `02 Sequential Readings/REZERO_LN_V06_DEEP_READING.md`, with reproducible block locators/full source-plane coverage;
 - structural limit: author marks an achievement/restart and continuing counterattack, not closure of the named capital section.
 
-V07 and every non-spine narrative witness remain unopened. Rem's domestic future is conditional speech within this admitted main-LN witness, not an IF source. Promotional manga/collection/goods/next-volume columns admit no later plot or extra edition. V07 opening requires the complete V06 atomic publication/audit gate. Earlier freezes and source records retain their historical horizons.
+At the historical V06 boundary V07 and every non-spine narrative witness remained unopened. Rem's domestic future is conditional speech within this admitted main-LN witness, not an IF source. Promotional manga/collection/goods/next-volume columns admit no later plot or extra edition. V07 consumption below began only after the complete V06 atomic publication/audit gate succeeded. Earlier freezes and source records retain their historical horizons.
+
+## Volume 07 consumption record
+
+`RZ-MAIN-LN-JA-V07` was consumed in exact OPF spine order through `p-bookwalker`: all37 members and3,493 body-order blocks (3,472 text +21 image-reference blocks), including frontmatter, narrative, afterword, design/image/promotional columns, biographies and colophon. All20 distinct source image resources were visually inspected, including lettering not captured as text.
+
+- locator / title: `Re Zero - Volume 07.epub`; `Ｒｅ：ゼロから始める異世界生活 7`;
+- language / creators / publisher: `ja`; `長月達平` / `大塚真一郎`; KADOKAWA;
+- UUID: `412eb340-5e6f-474a-a860-03cad7f107d2`;
+- size / SHA-256: `16,596,507` bytes; `d12ccb3b4ceb23a99166b940fdf85b250effd43151a4496794a634b41ecb89f1`;
+- package / integrity: `item/standard.opf`;72 ZIP entries,37 spine members,20 images; full CRC pass; nonfatal compressed-first-`mimetype` warning;
+- manifest relation: exact size/hash match to the anchored inventory;
+- edition basis: electronic publication and stated first-edition/first-printing basis `2015-09-30`; afterword August2015;
+- provenance: existing governed folder/manifest range admission; individual V07 Drive ID not separately resolved or invented;
+- analytical product: `02 Sequential Readings/REZERO_LN_V07_DEEP_READING.md`; exact per-member coverage/block locators in §1;
+- structural limit: one continuing V07-E1=V06-E2 state, no new Subaru death/return; Whale hunt ends, estate/Cult operation and private insurance/plan remain pending/withheld at dawn.
+
+V08 and every non-spine narrative witness remain unopened. The design-page `モフっ子` note and `剣鬼恋歌` promotion are witnessed paratext only, not admission of WN/deleted episodes or a sidebook. The full V07 atomic publication/audit gate must close before V08 opens; the range admission and historical bibliographic-gap check are unchanged.
 
 ## Current source-state summary
 
@@ -298,7 +315,7 @@ V07 and every non-spine narrative witness remain unopened. Rem's domestic future
 - **Admitted IF/alternate route:** none.
 - **Admitted web novel:** none.
 - **Admitted anime/audiovisual:** none.
-- **Consumed into frozen prospective main-LN analysis:** V01-V06.
+- **Consumed into frozen prospective main-LN analysis:** V01-V07.
 - **Next source acquisition priority:** Japanese V44 and V45 before the sequential read reaches that boundary.
-- **Next analytical operation:** Japanese V07 from the frozen V06 horizon, only after V06 publication verification.
-- **Current execution state:** active continuous run resumed by user; terminal V43 unchanged; V06 closeout advances consumption, not the admitted range.
+- **Next analytical operation:** Japanese V08 from the frozen V07 horizon, only after V07 publication verification.
+- **Current execution state:** active continuous run resumed by user; terminal V43 unchanged; V07 closeout advances consumption, not the admitted range.

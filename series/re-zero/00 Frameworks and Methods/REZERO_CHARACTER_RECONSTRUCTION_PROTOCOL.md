@@ -2,10 +2,10 @@
 series: RE_ZERO
 artifact_type: character_reconstruction_protocol
 scope: SOURCE_GROUNDED_CONDITIONAL_CHARACTER_RECONSTRUCTION
-generation: V1.3
+generation: V1.4
 status: canonical
 release_state: mutable_active
-current_analytical_horizon: V06
+current_analytical_horizon: V07
 recommended_reasoning_class: DEEP_SYNTHESIS
 reasoning_policy: MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md
 supersedes: []
@@ -19,7 +19,7 @@ do_not_use_as_current_authority: false
 
 This protocol is the canonical responsibility contract for future Re:Zero character reconstruction. It governs what an evidence-ready character monograph or model must be able to represent, how state is selected, how source limits remain visible, and how fidelity is tested.
 
-It is subordinate to `REZERO_ANALYTICAL_METHOD.md`, `REZERO_SYNTHESIS_ARCHITECTURE.md`, `REZERO_ROUTE_AND_WITNESS_PROTOCOL.md`, and the live source lock. It does not admit sources, revise frozen readings, or turn a candidate into a monograph. Through V06, no character is `MONOGRAPH_READY`; person-state/readiness remains in the master longitudinal ledger, routed to the newly promoted event/knowledge ledgers for its conditioning evidence. V06 extends the evidence boundary without changing this protocol's reconstruction or fidelity requirements. Subaru's restart still contains self-hatred and untested conduct; Rem's ordinary love, costly refusal and bounded V01–V06 relationship readiness do not complete independent worth or promote a mature reusable character. No mature-model promotion is made, so its prerequisite first fidelity audit is not instantiated.
+It is subordinate to `REZERO_ANALYTICAL_METHOD.md`, `REZERO_SYNTHESIS_ARCHITECTURE.md`, `REZERO_ROUTE_AND_WITNESS_PROTOCOL.md`, and the live source lock. It does not admit sources, revise frozen readings, or turn a candidate into a monograph. Through V07, no character is `MONOGRAPH_READY`; person-state/readiness remains in the master longitudinal ledger, routed to the four dedicated event, knowledge, institution and mechanics owners for conditioning evidence. V07 extends evidence without changing this protocol's reconstruction/fidelity requirements. Subaru's effective cooperation and accepted help coexist with shame/fear and conditional self-killing; Rem's love/refusal/accepted rest do not complete independent worth. Subaru/Rem's bounded study extends through V07; Subaru/Emilia's V01–V04 rupture study is not current repair. A narrowly bounded V07 Wilhelm/Theresia narrated courtship→belated-declaration case is CHECKPOINT_READY, default V07-E1 aftermath with historical phases explicitly selected, not their complete marriage, grief or Reinhard history. No mature-model promotion is made, so its prerequisite first fidelity audit is not instantiated.
 
 The protocol standardizes **responsibilities, not file count or headings**. A compact monograph may satisfy it when evidence is narrow. A richer packet may divide the responsibilities among current-state, relationship, ordinary-life, voice, evidence, and fidelity artifacts only after each independent retrieval burden is demonstrated.
 
