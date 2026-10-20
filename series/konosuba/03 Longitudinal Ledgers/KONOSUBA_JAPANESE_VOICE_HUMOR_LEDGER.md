@@ -1855,3 +1855,10 @@ Claire's public enforcement, technical question, private alliance, gratitude, ap
 DUST03 U013P793–807/868–869 explicitly monitors Dust's imitation of Rain. The performed clauses and intrusive aims stay with that controller. The café joint-role sentence U014P59–60 is retained at consultation scope, without forcing a uniquely tagged Rain turn. Ordinary register/function contrasts do not automatically supply L3. Seven English first bodies demonstrate no Japanese timing, representative voice rate or independent language validity.
 
 Known admitted-source consolidation; prior ledger bytes remain the exact prefix. No new whole-source/ruby/image/admission/independent trial or changed frozen forecast, score, first body or blank/null field.
+
+
+## Luna cohort12 — own work, relief, pressure and boundaries — 2026-10-20T08:58:31.797980+00:00
+
+Luna printed public voice combines polite acknowledgment, specific explanation and instruction (MASKU017P10-16/P93). MAIN11U014P438-444 announces a collective outcome then presses confirmation; polite syntax does not make adult assent freely supplied. U015P119-125 moves through conditional incentive, rumor inquiry and stopping departure while retaining Satou-san address.
+
+MASKU017P316-330 uses accumulated grievances/direct wants;P511-519 names a crossed line;P541 retracts an unwanted forecast request. YORI04U014P504/P507 repeats the youth reassurance as contextual pressure rather than certifying ages. Unquoted narrator-side turns and Assassin's mediated correction remain distinct from Luna quoted turns. BASE text supports printed pragmatics only: no new ruby, acoustic or native-human adequacy credit. Tidy English internal bodies underrepresent these ambiguities.

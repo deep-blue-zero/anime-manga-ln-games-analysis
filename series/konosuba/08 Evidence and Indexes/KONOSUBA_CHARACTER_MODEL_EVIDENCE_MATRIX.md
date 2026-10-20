@@ -1026,3 +1026,15 @@ All15current model bodies/nineTier3subject boundaries are exact; Nos monograph d
 | RAIN-R03/R04/R05 | Cost owner/belief, ranked pressure and ordinary aspirations; available safe means versus warning/compliance; actual controller and printed stance. No fixed bid threshold or universal ethical veto. |
 
 Two provisional source-informed model candidates add distinct mechanisms without altering the fifteen entering models. Seven actual first bodies retain the unsupplied council defect, generic/near-canonical rivals, designed/primed contrasts and lack of independent/Japanese adequacy. The [indexes](KONOSUBA_CLAIRE_EVIDENCE_INDEX.md) retain exact returns and qualifications. Stage D still requires six separately versioned principal/party/transfer successors; no retrospective fit repairs frozen results.
+
+
+## Luna cohort12 — own work, relief, pressure and boundaries — 2026-10-20T08:58:31.797980+00:00
+
+| Luna candidate mechanism | Positive/supporting returns | Contrary or limit | Status |
+|---|---|---|---|
+| R01 task-sensitive means and pressure | MASKU017P10/163-178/316; MAIN11U014P431-444/U015P60-131; DUST07U013P114-126 | Dust distance honored; generic official; connected child-audience episode | Provisional, no isolated weights |
+| R02 classify role/value, sometimes evade reckoning | MASKP81-102/450; MAIN11U015P131/515-530 | Own explicit protestMASKP511; one strong evasion exchange | Provisional; unisolated by new battery |
+| R03 context-dependent boundaries | MASKP16/81-102/511-519; DUST07U011P920-922 against MAIN11U015P124-125 | Task/familiarity/comedy covary; no universal consent rule | Local contrary cases secure; causal switch open |
+| R04 relief/company and hopeful appraisal | MASKP316-330/441-541 | Rejects gift/forecast; hidden intent inaccessible; generic social rivals | Moderate connected episode; broad transfer open |
+
+The model has four rules and three actual same-author internal bodies, with no independent/source accuracy gain. Seventeen entering models stay exact. Tier3 means a scoped reconstruction candidate, not a capability grade.

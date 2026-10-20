@@ -1862,3 +1862,10 @@ Claire's rank/class inference, own conditional alliance and missing armor condit
 Rain can correct an ordinary fact and retain a norm objection; she can state a real risk and then comply. The MAIN10 lip-read sedation plan is unperformed by Rain in that episode; MAIN11 has actual warning, participation, Claire administration and later gaps. Exact erased set/duration/side effect remain unproved. Debt assumption is offered, not paid; the larger counterbid is interrupted. No ethical veto, highest-bid threshold or permanent learning cure is inferred. MAIN11 C1P558–633/C2P6–31/79–118; MASK U015P234–247/338–349.
 
 Known admitted-source consolidation; prior ledger bytes remain the exact prefix. No new whole-source/ruby/image/admission/independent trial or changed frozen forecast, score, first body or blank/null field.
+
+
+## Luna cohort12 — own work, relief, pressure and boundaries — 2026-10-20T08:58:31.797980+00:00
+
+Luna selects usable means under limited authority and can overextend a successful incentive. MAIN11U014P431-444/U015P60-101 connects child admiration to adult commitments and harder follow-up tasks despite actual objections. Komekko hearing/sympathy does not authorize anyone else's labor. U015P519-525 pays but leaves Kazuma's heartless-selection question unanswered; his suspicion is not her confessed motive, and rootsP519 remain.
+
+MASKU017P305-308 knows Vanir is a demon; that is not knowledge of his specific planP485-487. Her hopeful responseP457-482 follows real aid and misleading public signals; later revelation cannot become an earlier ignored cue. She rejects the forecastP541. DUST07U011P920-922 shows stopping without knowing a private reason. The four causal hypotheses retain generic-role rivals and unknown weights. New hypothetical outputs supply no fresh native/prospective confirmation.

@@ -264,3 +264,11 @@ All previous ledger bytes, original annotations, frozen reports/models/forecasts
 | CR-SECONDARY-ROYAL-INTERNAL-001 | PRESERVE_INTERNAL_PACKET_PRECISION_DEFECT | CL-H01B invents a council absent from its packet. The first body stays exact with explicit defect; no repaired success, new canonical person or independent accuracy claim. |
 
 Current source-known consolidation does not revise frozen forecasts, prior outcomes, scorecards, original annotation or first-output bytes. Unknown weights, thresholds and causal disagreements remain unresolved.
+
+
+## Luna cohort12 — own work, relief, pressure and boundaries — 2026-10-20T08:58:31.797980+00:00
+
+- **CR-SECONDARY-LUNA-001:** Luna earns a scoped first Tier3 monograph/model/index candidate through task/means appraisal, role classification, pressure versus actual withdrawal and own relief/company goals. Generic-role rivals, causal weights, unfamiliar transfer and Japanese generation remain open; publication pending.
+- **CR-SECONDARY-LUNA-002:** MAIN11U015P515 original investigation, additional killing, actual reward and unansweredP523question remain separate. Root-removal requestP519 is not completed eradication; guild face does not prove a private confession of heartlessness. Existing frozen source report stays exact.
+- **CR-SECONDARY-LUNA-003:** DUST07U013P118-126 guild-vault ten-million commitment is actual and intervention starts; U014P122 received-money statement is Dust report. Dust distance requestU011P920-922 is honored. YORI04U014P492-557 preserves retirement and two distinct assents; no completed patrol.
+- **CR-SECONDARY-LUNA-004:** Three exact hypothetical first bodies follow the frozen source-known contract. Designed audience leverage, continued private asking and tentative company acceptance retain generic/near-canonical rivals and tidy English; hidden inaccessible intent is not an ignored knowable cue. No independent accuracy, capability grade or confidence gain; no repair of first bodies.

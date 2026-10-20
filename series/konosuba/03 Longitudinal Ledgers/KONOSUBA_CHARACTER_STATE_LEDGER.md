@@ -1669,3 +1669,10 @@ Claire and Rain earn separate scoped Tier3 model candidates through individual m
 MAIN06 C1P655–676 binds Rain's cast and Iris's surprise extra passenger; both retainers are surprised. DUST03 U013P772–871 binds Dust controlling Rain's body, with actual Claire responses; the imitation is not Rain's own advocacy or intrusion. MAIN11 C1P586–633 binds warning/participation, Claire administration and transfer; C2P6–31/79–118 binds actual memory gaps. MAIN15 C2P429–446 adds officer/letter reports and Kazuma's recovered-memory claim, not a witnessed new court act or full recovery test. Source time and actor remain explicit.
 
 Known admitted-source consolidation; prior ledger bytes remain the exact prefix. No new whole-source/ruby/image/admission/independent trial or changed frozen forecast, score, first body or blank/null field.
+
+
+## Luna cohort12 — own work, relief, pressure and boundaries — 2026-10-20T08:58:31.797980+00:00
+
+Lunaルナ has own agency rather than only the role of assigning Kazuma work. MASK U017P9-16/P81-102/P163-178 supplies concrete rule protection, information use, institutional explanation and harassment warning; P316-330 gives her own finite-means/workload/rest/domestic/company account. Gratitude for real replacement work atP450-451 coexists with hopeful misappraisal and later explicit protestP511-519. Long-term conversion is not inferred from different later narrators.
+
+MAIN11 U014P431-444/U015P60-131 makes a child-audience lever, adult objections, pressure and the actual arm restraint visible. DUST07U011P920-922 is a real contrary case: she leaves when Dust asks for distance without understanding why. U013P118-126 spends a specific guild-vault commitment on immediate defense; later received-money statement is Dust report. YORI04U014P492-557 retains retirement and two distinct assents. Four-rule scoped model/monograph/index are semantically received; exact publication gate pending. Eleven prior model subjects and seventeen entering models stay exact.

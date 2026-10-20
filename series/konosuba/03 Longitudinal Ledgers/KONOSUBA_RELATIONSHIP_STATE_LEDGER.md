@@ -1399,3 +1399,10 @@ Claire's admitted past coldness is retained beside current attachment; mediated 
 Rain can redirect Claire, physically permit Iris's departure, apologize and obtain cooperation. Claire can heed her, threaten patron relations, offer debt relief and take over a risky act. Both recognize Iris's happiness before imposing a restriction on Kazuma. His actual harmful threats do not erase their chosen coercion. No common guardian mind, universal obedience or established romance is inferred. MAIN10 C2P158–166; MAIN11 C1P431–443/558–633; CONTEXP02 U013P109–148.
 
 Known admitted-source consolidation; prior ledger bytes remain the exact prefix. No new whole-source/ruby/image/admission/independent trial or changed frozen forecast, score, first body or blank/null field.
+
+
+## Luna cohort12 — own work, relief, pressure and boundaries — 2026-10-20T08:58:31.797980+00:00
+
+Luna differentiates recipients. Kazuma receives capability-specific recruitment, an incentive and actual interference with departure (MAIN11U015P119-131); the later payment leaves his question unansweredP524. Komekko has her own appetite/admiration; Luna appropriates its effect without the child authorizing adults. Vanir's performed help receives thanks while his planned humiliation draws protest and new demands (MASKU017P450-541); repair is not established by continued contact.
+
+Dust receives a harassment warningMASKP16 and, in a different source-context, actual withdrawal after his distance requestDUST07U011P920-922. Different behavior does not require forgetting either observation. YORI04U014P492-557 recognizes retired specialists but one cannot supply the other's assent; future patrol remains future. Role, gratitude, paid work, affection, consent and repair remain separate. Generic official and ordinary-company rivals remain live.

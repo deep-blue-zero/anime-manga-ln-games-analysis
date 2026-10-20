@@ -1888,3 +1888,10 @@ Rank mistakes, sentimental reversals and the supposedly reasonable outsider supp
 The model exercises add no formal humor census, selected-sample denominator or J02 outcome. CL-H01B's unsupplied council remains a packet-precision defect. It is hypothetical author output, not another source character, a native translation or a repaired successful test.
 
 Known admitted-source consolidation; prior ledger bytes remain the exact prefix. No new whole-source/ruby/image/admission/independent trial or changed frozen forecast, score, first body or blank/null field.
+
+
+## Luna cohort12 — own work, relief, pressure and boundaries — 2026-10-20T08:58:31.797980+00:00
+
+Different comic mechanisms coexist. MASKU017P81-102 literal professional corpse procurement is misread as a personal hobby. P457-504 apparent courtship prepares deliberate humiliation; P511-541 her demands and reported retaliation disturb Vanir's hoped-for easy consumption. MAIN11U014P431-444/U015P60-101 overlays polite service form on coercive audience stakes; the adults' actual objections remain.
+
+The banquet's remaining-day limit and resurrection exclusion inYORI04U014P453-460 qualify generous/zero-death surfaces. Comic exaggeration is not an automatic H4/nonliteral assignment, source uncertainty is a different classification, and laughter cannot erase an unwanted act. These are own analytical additions, not a new whole-source joke census or independent recurrence count.

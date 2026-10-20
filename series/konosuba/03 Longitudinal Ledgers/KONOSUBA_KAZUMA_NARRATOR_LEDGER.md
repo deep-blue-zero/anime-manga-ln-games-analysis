@@ -1325,3 +1325,10 @@ Kazuma's class-facing self-presentation, Dust's labels of easy manipulation and 
 MAIN15 C2P429–446 provides an officer's account of handwritten assurance, tearful delivery, papers and departure plus Kazuma's reported letter contents. Fear and romance readings are interpretations. A later recovered-memory claim does not certify every remembered detail; it also prevents treating MAIN11 gaps as a demonstrated permanent condition. No new directly watched Claire/Rain court trial is created.
 
 Known admitted-source consolidation; prior ledger bytes remain the exact prefix. No new whole-source/ruby/image/admission/independent trial or changed frozen forecast, score, first body or blank/null field.
+
+
+## Luna cohort12 — own work, relief, pressure and boundaries — 2026-10-20T08:58:31.797980+00:00
+
+MAIN11's retrospective motive account is Kazuma's, though Luna's repeated staging strongly supports the audience-lever inference. His question whether she thinks him heartless is not an admission from her. Her ownP515 distinguishes original investigation, extra killing and institutional face; hisP519 says roots remain. Gratitude is not complete ecological eradication or every recipient cost vindicated.
+
+MASK gives Vanir first-person intention and retrospective bounty report; Luna's direct statements keep their different force. DUST07 gives Dust's observed vault commitment and later payment account; no independently watched transfer is added. YORI04 DarkStalker favorably narrates the request but Assassin'sP529 nonassent still matters. Another narrator is another perspective, not automatically another independent behavioral trial or Luna's knowledge.

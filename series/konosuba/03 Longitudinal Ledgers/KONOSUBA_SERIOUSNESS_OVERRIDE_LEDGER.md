@@ -1202,3 +1202,10 @@ The same retainer can do useful protective work, warn accurately and participate
 MASK protective waiting is assessed at the retainers' information and assigned charge, without borrowing Vanir's later demonstrated extraordinary power. DUST03's available rescue and deliberately blocked aid retain the distinct actors and opposite choices. No later successful ending, apology or restored company repairs a prior failed veto by definition.
 
 Known admitted-source consolidation; prior ledger bytes remain the exact prefix. No new whole-source/ruby/image/admission/independent trial or changed frozen forecast, score, first body or blank/null field.
+
+
+## Luna cohort12 — own work, relief, pressure and boundaries — 2026-10-20T08:58:31.797980+00:00
+
+Seriousness changes the task and available means, not automatically every value. DUST07U013P114-126 commits actual finite guild funds for defense; accepted intervention starts. It is neither a private gift nor a universal crisis budget. YORI04U014P488-557 identifies night danger and specialist fit, acknowledges retirement and preserves eventual distinct assent. No patrol has yet been completed.
+
+Ordinary settings also contain real stakes: unwanted public humiliation, fatigue, physical departure interference and constrained refusal remain consequential. DUST07U011P920-922 supplies an actual stop outside the allocation scene; there is no stable universal consent floor or automatic refusal failure. Severity, readiness, access, deployment, desired goal and permission must remain different. No new canonical opportunity has been independently tested by the internal battery.

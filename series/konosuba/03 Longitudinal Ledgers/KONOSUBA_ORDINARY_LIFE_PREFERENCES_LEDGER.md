@@ -1274,3 +1274,10 @@ Claire values Iris-related talk, shared company and indulgence, with observed lo
 Rain's fee accountability, family means, salary penalty, reward interest and actual product purchase differ. MASK anticipated finance criticism and DUST03 recognized memory projection return to one episode. The dream-party expenditure costs Dust and is reported under Rain's unreal-cost belief; it is not an equal gift from her own purse or proved knowing appropriation. Seller safety/dependency claims are not independently verified product efficacy. MASK U015P118–137; DUST03 U013P367–377/501–513/667–739/898–913/U014P12–34; CONTEXP02 U013P141.
 
 Known admitted-source consolidation; prior ledger bytes remain the exact prefix. No new whole-source/ruby/image/admission/independent trial or changed frozen forecast, score, first body or blank/null field.
+
+
+## Luna cohort12 — own work, relief, pressure and boundaries — 2026-10-20T08:58:31.797980+00:00
+
+MASKU017P316-330 supplies Luna's own unpaid-overtime/no-leave account, sleep and household backlog, wish for time off and respectful adult company. Her exact duration is self-report. Her job buying remains is not a private hobby. Late drinking is a state, not proof of an invariant consumption pattern, favorite drink, private wealth or complete biography.
+
+P450-451 actual gratitude for cover work, P519 stated future paid cover, P523-541 company, embarrassment, curiosity and forecast opt-out retain different action stages. Continued company neither erases grievance nor proves consent to humiliation. YORI04U014P516 proposes post-work conversation without showing it completed. Guild-vault money remains institutional; a finite banquet does not become limitless hospitality. The monograph preserves these ordinary wants alongside public competence and coercion.

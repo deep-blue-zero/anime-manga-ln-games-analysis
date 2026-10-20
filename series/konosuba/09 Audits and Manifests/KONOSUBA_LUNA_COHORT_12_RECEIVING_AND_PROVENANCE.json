@@ -1,0 +1,277 @@
+{
+  "schema": "KONOSUBA_LUNA_COHORT12_RECEIVING_AND_PROVENANCE_V1",
+  "recorded_utc": "2026-10-20T09:00:50.328496+00:00",
+  "source_boundary": "56dd3653c85d475ab85cdf891202d8e97531d729",
+  "status": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_CONTAINING_PUBLICATION_GATE_PENDING",
+  "subject_tiers": {
+    "Luna": 3
+  },
+  "new_distinct_model_bodies": 1,
+  "seventeen_entering_models_exact": [
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_AQUA_RECONSTRUCTION_MODEL.md",
+      "bytes": 64491,
+      "sha256": "2f63ef1000c74a2bf105c3cfbbd4258f39e8abe9cf1544fac25768673f17c430"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CHRIS_ERIS_RECONSTRUCTION_MODEL.md",
+      "bytes": 24777,
+      "sha256": "213de30d6bfab2fb3a9d2c47c2158b6425a598814b92caa855913f08bd997083"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CLAIRE_RECONSTRUCTION_MODEL.md",
+      "bytes": 18435,
+      "sha256": "386b2e7c5df610e83bbf9fec58a8c9485132d6f28b8abb65a3658142de6b08d1"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+      "bytes": 51278,
+      "sha256": "3bec39a1014c50c6704e920b076076ecd2d82ffab0f987fd379844cc68783ee1"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_DARKNESS_RECONSTRUCTION_MODEL.md",
+      "bytes": 62581,
+      "sha256": "e54f45b3aaa74197e76ec917888416b08683ef2b7194586ba060b93979e78bc9"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_DUST_RECONSTRUCTION_MODEL.md",
+      "bytes": 20922,
+      "sha256": "3ef260ea7a64f350c8c09448020a96e18ed0eed75af5acd417193805bff8655f"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_HOOST_RECONSTRUCTION_MODEL.md",
+      "bytes": 25873,
+      "sha256": "e973e7f325238ab71fa0e10e3588d32c8fc3bf03dd827bb32e9120789c4742c7"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_IRIS_RECONSTRUCTION_MODEL.md",
+      "bytes": 20464,
+      "sha256": "75afb94b5723af3620ea5fabe1d8a7c742645bb56de938c605a3d11999a42c29"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+      "bytes": 61516,
+      "sha256": "6fe7b325666e339ed86edba70f8d1f9491705f66a6ecdc31eeb44a5bed7a89e4"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_KOMEKKO_RECONSTRUCTION_MODEL.md",
+      "bytes": 21826,
+      "sha256": "0be5bfa9097547a3d705b5a8216dd395f714382b65f6fa4cad499504641065c0"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_LEVI_RECONSTRUCTION_MODEL.md",
+      "bytes": 23809,
+      "sha256": "dd3b48dba631c87e7c0fe604f0cb5a94dd618e5e77b9d2c781491b6c7b7b3c46"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_MEGUMIN_RECONSTRUCTION_MODEL.md",
+      "bytes": 60891,
+      "sha256": "cbff1ec4266e8d6908b3d58af9870aa7f981fe40f3a573ed29da345e1f1d801f"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_PARTY_INTERACTION_MODEL.md",
+      "bytes": 67885,
+      "sha256": "cf2082e63718e1c51c171fb9225b0be5da603c1e85900f397c36e233af6d3f8e"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_RAIN_RECONSTRUCTION_MODEL.md",
+      "bytes": 19139,
+      "sha256": "3d62cb9fc0958b86cc9edef8479036483f4cb0d752f63c599beab3719d689637"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_VANIR_RECONSTRUCTION_MODEL.md",
+      "bytes": 25561,
+      "sha256": "081b6bef4df5584837d2a6fb565f746aa3d9c00a3c925c592596d2d3bb3186df"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_WIZ_RECONSTRUCTION_MODEL.md",
+      "bytes": 24361,
+      "sha256": "b8248785ff01251738798121a3ac1eea06b576913c1ea436e97fc22720146b89"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_YUNYUN_RECONSTRUCTION_MODEL.md",
+      "bytes": 25474,
+      "sha256": "4565a9089c9bac6c6f694469f27920d26f9ab1b44275c62c7160692575c765eb"
+    }
+  ],
+  "proposed_current_model_bodies": 18,
+  "prior_closed_model_subjects": 11,
+  "new_scoped_model_candidates": 1,
+  "prior_Nos_monograph_only_and_nine_bounded_profiles_preserved": true,
+  "artifacts": [
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_LUNA_CHARACTER_MONOGRAPH.md",
+      "bytes": 20186,
+      "sha256": "deae368418765e00a2e3643c54520db1c84269997874739aef06af617ae859e2"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_LUNA_RECONSTRUCTION_MODEL.md",
+      "bytes": 23199,
+      "sha256": "7d071db906bd88e6e14b305705825a11c253f99eb66e6ee26644c4523bded2c9"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_LUNA_EVIDENCE_INDEX.md",
+      "bytes": 12459,
+      "sha256": "0c85c4a4d2e202e3982f4307f23c290f87ce33696b445d36b5b478c3b265cdb9"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/LUNA_EXPANDED_V1_EVIDENCE/LUNA_RULE_INVENTORY_01.json",
+      "bytes": 2351,
+      "sha256": "bffee04ebefdac5222b459276b6ec589fdf543d8f3c80f8ee5b5ec706c345982"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/LUNA_EXPANDED_V1_EVIDENCE/LUNA_SCENARIO_INPUTS_01.json",
+      "bytes": 5650,
+      "sha256": "829e24f5fa3485360a99c54241a8e8d0f208fb13c2c62c8a8cd102864de67bea"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/LUNA_EXPANDED_V1_EVIDENCE/LUNA_FIRST_OUTPUTS_01.json",
+      "bytes": 2016,
+      "sha256": "eae3c1648edf4b92bb098b780b6a68c8cd97296a2fcb01e58d9a3aa1230f0954"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/LUNA_EXPANDED_V1_EVIDENCE/LUNA_INTERNAL_ASSESSMENT_01.json",
+      "bytes": 4004,
+      "sha256": "1bec9296a9301d3abf75572e5338350dcab2a364749a451e16310e1091353c99"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_LUNA_INTERNAL_CHECK_PRE_BODY_CONTRACT_01.json",
+      "bytes": 2035,
+      "sha256": "421c6138bab033d5dced7d5d97bccff8153ad0183b8bb583b4ad508bfe187da8"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_LUNA_NATIVE_AND_DERIVATIVE_PROVENANCE_01.json",
+      "bytes": 8143,
+      "sha256": "b6a68fa48f02253a2483fa6d3b1cdba453859b66347d157b4a5441e3e9cb36b5"
+    }
+  ],
+  "semantic_receiving": {
+    "schema": "KONOSUBA_LUNA_SEMANTIC_NAME_REFERENCE_RECEIVING_V1",
+    "recorded_utc": "2026-10-20T08:55:34.313442+00:00",
+    "source_boundary": "56dd3653c85d475ab85cdf891202d8e97531d729",
+    "status": "PRIVATE_SUBSTANTIVE_RECEIVING_COMPLETE_CANONICAL_ADOPTION_PUBLICATION_PENDING",
+    "actual_native_receiving02_sha256": "45dfa178e67a93df4e17b4e244c8f9c4116ab67f8624e4a0919e67983353f4bb",
+    "current_drafts_and_evidence": [
+      {
+        "file": "LUNA_CHARACTER_MONOGRAPH_DRAFT_01.md",
+        "bytes": 20186,
+        "sha256": "deae368418765e00a2e3643c54520db1c84269997874739aef06af617ae859e2"
+      },
+      {
+        "file": "LUNA_RECONSTRUCTION_MODEL_DRAFT_01.md",
+        "bytes": 23199,
+        "sha256": "7d071db906bd88e6e14b305705825a11c253f99eb66e6ee26644c4523bded2c9"
+      },
+      {
+        "file": "LUNA_EVIDENCE_INDEX_DRAFT_01.md",
+        "bytes": 12459,
+        "sha256": "0c85c4a4d2e202e3982f4307f23c290f87ce33696b445d36b5b478c3b265cdb9"
+      },
+      {
+        "file": "LUNA_RULE_INVENTORY_01.json",
+        "bytes": 2351,
+        "sha256": "bffee04ebefdac5222b459276b6ec589fdf543d8f3c80f8ee5b5ec706c345982"
+      },
+      {
+        "file": "LUNA_SCENARIO_INPUTS_01.json",
+        "bytes": 5650,
+        "sha256": "829e24f5fa3485360a99c54241a8e8d0f208fb13c2c62c8a8cd102864de67bea"
+      },
+      {
+        "file": "LUNA_FIRST_OUTPUTS_01.json",
+        "bytes": 2016,
+        "sha256": "eae3c1648edf4b92bb098b780b6a68c8cd97296a2fcb01e58d9a3aa1230f0954"
+      },
+      {
+        "file": "LUNA_INTERNAL_ASSESSMENT_01.json",
+        "bytes": 4004,
+        "sha256": "1bec9296a9301d3abf75572e5338350dcab2a364749a451e16310e1091353c99"
+      },
+      {
+        "file": "KONOSUBA_LUNA_INTERNAL_CHECK_PRE_BODY_CONTRACT_01.json",
+        "bytes": 2035,
+        "sha256": "421c6138bab033d5dced7d5d97bccff8153ad0183b8bb583b4ad508bfe187da8"
+      },
+      {
+        "file": "KONOSUBA_LUNA_NATIVE_AND_DERIVATIVE_PROVENANCE_01.json",
+        "bytes": 8143,
+        "sha256": "b6a68fa48f02253a2483fa6d3b1cdba453859b66347d157b4a5441e3e9cb36b5"
+      }
+    ],
+    "actual_receiving": "Full three prose bodies authored and semantically checked by the same informed root against the listed actual native windows and previously received source/report/ten-ledger history. All actual first bodies and full assessment received; not independent review.",
+    "name_reference_findings": [
+      {
+        "classification": "JUSTIFIED_NAME_AND_ROLE_JOIN",
+        "finding": "Lunaルナ explicitly named in continuous MASK/MAIN11/DUST07 contexts. No unnamed police/tax/guild staff or unlabelled illustration automatically assigned; MAIN13IMG010Aqua exclusion remains."
+      },
+      {
+        "classification": "SOURCE_AND_KNOWLEDGE_BOUNDARIES_REQUIRED",
+        "finding": "Vanir firsthand intention, Luna own statements, complaint reports, retrospective bounty, reported money, DarkStalker narration and mediated Assassin objection remain distinct. No inaccessible intention becomes Luna knowledge."
+      },
+      {
+        "classification": "ACTION_STAGE_REQUIRED",
+        "finding": "Guild-vault commitment is actual and attack begins; later payment is Dust report. Replacement-wage offer, drink meeting, future patrol, forecast opt-out and institutional instructions remain at their shown stages."
+      },
+      {
+        "classification": "RECIPIENT_AGENCY_REQUIRED",
+        "finding": "Komekko listening/sympathy cannot authorize adults; actual adult objections and physical departure interference remain. DarkStalker cannot supply Assassin assent. Dust distance request produces actual withdrawal."
+      },
+      {
+        "classification": "QUALIFIED_RHETORICAL_FRAME",
+        "finding": "H01A statement about trainees learning is generated Luna pressure, not an observed curriculum or completed learning effect."
+      },
+      {
+        "classification": "HYPOTHETICAL_ACTORS_NOT_CENSUS_ENTITIES",
+        "finding": "Maro and Iven are explicitly hypothetical adult packet actors, not new canon characters/aliases or source observations."
+      }
+    ],
+    "tier_decision": {
+      "subject": "Luna",
+      "tier": 3,
+      "scope": "First scoped provisional four-rule reconstruction candidate with monograph/index, semantic receiving complete; publication pending.",
+      "earned_basis": "Multiple task classes, own resources and ordinary goals, direct classification and errors, recipient-specific pressure/withdrawal, harmful social leverage, gratitude/protest and printed register variation support differentiated conditional generation with disconfirmers.",
+      "limits": "Generic official/ordinary company/designed deception rivals, connected episodes, uncertain weights and prevalence, tidy English and unisolated mechanisms leave future reliability unproved. Not every monograph earns a model and these exercises supply no new tier evidence."
+    },
+    "actual_hypothetical_first_bodies": 3,
+    "same_author_known_source_only": true,
+    "independent_or_source_accuracy_credit": 0,
+    "confidence_gain_claimed": false,
+    "seventeen_entering_models_and_frozen_histories_preserved": true,
+    "new_source_admission": false,
+    "designated_curation_or_grade_authored": false,
+    "new_models_proposed": 1,
+    "full_program_complete": false
+  },
+  "canonical_census_change_controls": {
+    "targeted_prior_row_indices": [
+      11
+    ],
+    "untouched_prior_rows_exact": 167,
+    "new_rows": 0,
+    "current_rows_not_final_population": 168,
+    "seventeen_entering_models_unchanged": true,
+    "new_distinct_reconstruction_models": 1,
+    "proposed_current_models_after_adoption": 18,
+    "new_source_admission": false,
+    "global_census_closed": false,
+    "final_tiers_assigned": false,
+    "global_completion_percentage": null
+  },
+  "full_current_ten_ledger_receiving_retained": true,
+  "source_known_BASE_context_slots_within_receipt": 1033,
+  "new_global_unique_primary_full_ruby_image_admission_or_independent_credit": 0,
+  "actual_hypothetical_first_bodies": 3,
+  "known_limits": "Designed audience contrast and unmatched hopeful plan retain same-author priming,generic official/company rivals,tidy English,unknown thresholds and unisolated mechanisms. No source/independent accuracy,Japanese adequacy,capability grade or confidence gain.",
+  "protected_histories": {
+    "immutable66": true,
+    "historical72_at_frozen_revision": true,
+    "four_scores_Dust14blanks_SISY28nulls": true,
+    "seventeen_entering_models": true,
+    "original_reports_annotations_errata_gates_first_bodies": true,
+    "unrelated_scratch80": true
+  },
+  "publication": "Exact candidate review/preflight/nonforced publication/whole tree and changedblob readback/source-HK-final actual-source audit/status/fresh reload required. Prior royal gate certifies56dd3653,not this candidate.",
+  "designated_ownership": "No discovery/capability registry/index or housekeeping global output authored. Designated maintenance and permitted lag retain their own controls.",
+  "remaining": "Full all-individual/event/alias/incidental dispositions, further earned artifacts, seven expanded specialists and extended/full-series syntheses, six separate StageD principal-party-transfer revisions, designated curation/evaluation/integration and component/release/final-entry audits.",
+  "full_program_complete": false
+}

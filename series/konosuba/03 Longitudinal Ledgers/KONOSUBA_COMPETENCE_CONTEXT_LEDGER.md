@@ -1404,3 +1404,10 @@ Retrospective known-source consolidation; exact previous ledger bytes remain the
 | R11-CC03 | MASK U015P288–360; MAIN11 C1P535–544/603–620; DUST03 U014P270–339 | Protective waiting, actual encirclement/transfer preparation and direction correction are useful work. Disguise success depends on cues, means and distraction; no omniscient or uniformly incompetent retainer. |
 
 Known admitted-source consolidation; prior ledger bytes remain the exact prefix. No new whole-source/ruby/image/admission/independent trial or changed frozen forecast, score, first body or blank/null field.
+
+
+## Luna cohort12 — own work, relief, pressure and boundaries — 2026-10-20T08:58:31.797980+00:00
+
+Luna's skill is discriminating and finite. MASK U017P10 requests actionable location information, P13 prevents a false penalty, P93 separates institutional remains disposal from a personal preference, and P172/P178 delegates concrete remedies. Instructions are not observed completion. P316 describes force and suspension limits without proving every alternative exhausted.
+
+MAIN11U015P131 explicitly recognizes Kazuma frontal weakness while insisting on particular suitability. P515 says the original assignment was investigation, not every later killing. DUST07U013P114-126 actual guild-vault ten-million commitment obtains assent and attack; no unlimited private budget follows. YORI04U014P488-516 task-specific night capacity and retirement acknowledgment differ from a universal obligation to serve. Local accurate selection can coexist with imposing costs; helpfulness is not ethical reliability or a generative capability grade.

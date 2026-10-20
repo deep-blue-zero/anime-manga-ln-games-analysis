@@ -1,8 +1,8 @@
 {
   "schema": "KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS_V1",
   "status": "INCREMENTAL_168_QUALIFIED_ROWS_NOT_FINAL_INDIVIDUAL_DENOMINATOR",
-  "updated_utc": "2026-10-20T08:16:00.363533+00:00",
-  "scope": "Royal cohort11 Claire/Rain scoped Tier3 candidates semantically received; publication pending. Nine prior model gates, Nos Tier2 and nine profiles remain closed at their scopes. Fifteen entering models exact, two new bodies proposed.168 records remain nonfinal; full program active.",
+  "updated_utc": "2026-10-20T09:00:50.328496+00:00",
+  "scope": "Luna cohort12 scopedTier3 four-rule candidate semantically received; publication pending. Eleven prior model-subject gates, Nos Tier2 monograph and nine profiles retain their closed scopes. Seventeen entering models exact, one new body proposed.168 records remain nonfinal; full program active.",
   "row_semantics": "Distinct qualified working subjects plus explicitly unresolved grouped/identity leads. A row is not automatically one final individual or an earned artifact. Old scope phrases remain their recorded history; the root current scope governs present admission status.",
   "artifact_architecture": "Use existing05 Specialist Synthesis for earned monographs and06 Character Modeling and Reconstruction for distinct mechanism models. Existing ledgers carry bounded profiles unless a separate responsibility is justified. Single current corpus map; curator-only global registry/index enrollment.",
   "rows": [
@@ -233,12 +233,12 @@
     {
       "character": "Claire",
       "identity": "クレア",
-      "likely_tier": "3, provisional scoped cohort11 model semantic receiving complete; containing publication pending",
-      "priority": "Substantive model/monograph/index received; containing publication gate pending",
+      "likely_tier": "3, scoped cohort11 full publication gate closed; predictive reliability provisional",
+      "priority": "Scoped model/monograph/index gate closed; designated curation and wider program active",
       "evidence_distribution": "MAIN06/10/11; CONTEXP01/02 native; DUST03/04; MASK native. WholeMASKU015518Pactualroyalwork/risks/fees/ordinaryknowledge/individualcorrections. CompleteCONTEXP01report281L. CURRENT WORKING22: MAIN15C2current accepted-native guarantor/letters precision; inherited completeDust03/otherroyalcourt evidence. CURRENT WORKING29: Complete MAIN10/11 reports add material aid, unwanted engagement opposition, declared separation difficulty, force and risky memory-potion plan. Acknowledging Iris's happiness coexists with coercive control. CURRENT WORKING31: Current complete MAIN13-MAIN16 accepted report review, receipts49-52; derivative claims retain original access planes. Targeted native confirmations are separately pinned, with no new whole-source/independent-test credit. CURRENT WORKING45: Shared actual 3285 source-known BASE context slots/eleven members/eight admitted objects, counted once for both subjects; full listed native scopes and existing complete Dust03 report reinspection receipted. No new global unique-primary/full-source/ruby/image/admission/independent credit.",
       "substantive_responsibility": "Skilled guard, uneven field knowledge, attachment, actual restraints and paternalism, paid consequences and temptation. ReportIrisunwantedholdandreleasedboundaryU013; devotedsupervisioninterfereswithparticularordinarycompany. No broadroyalguardianconsentfromattachment. CURRENT WORKING22: Official reports of delivered guarantees and holiday expectations retain their report plane. A letter/request attributed to her is not a newly witnessed act, and Dust's misdirection inprioracceptedchapters doesnotestablishglobalincompetence. CURRENT WORKING31: MAIN15C2P427-463 native confirms officer account of her handwritten guarantee plus Kazuma reported letter contents, own letter-induced fear remains inferred. No direct new Claire scene in that window. CURRENT WORKING45: Own past coldness acknowledgment, conditional rank restraint and alliance, emotional susceptibility with real refusals, performed levitation/office work, field proxy errors, gratitude with knowing imposed cognitive risk and recipient-sensitive stance earn a distinct five-rule provisional model. Four first bodies retain a council invented beyond the packet; no repair or positive accuracy claim.",
-      "gaps": "Containing exact publication/readback/source-HK-final gate and fresh reload remain. Broad unfamiliar-context reliability, precise weights/thresholds and Japanese generation remain unproved; generic-role/near-canonical rivals and actual first-body limitations remain. No independent score/confidence gain. Designated curation/evaluation and full program continue.",
-      "disposition_status": "SCOPED_TIER3_COHORT11_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+      "gaps": "Current scoped publication gate and fresh authority reload closed. Broad unfamiliar-context reliability, precise weights/thresholds and Japanese generation remain unproved. Preserved first-body defects, generic-role/near-canonical rivals, prompt priming and unknown thresholds remain. No independent accuracy, capability grade or confidence gain. Designated curation/evaluation and full program continue.",
+      "disposition_status": "SCOPED_TIER3_COHORT11_PUBLISHED_FULL_GATE_CLOSED",
       "independent_observation_count": null,
       "prior_gap_history_working21": "Dedup castle episodes; retain Iris expressed stop requests, surveillance and dangerous control proposals; full model not automatic. Preserveownagency/wordsanddistinctknowledge,notsharedcommonsensepersona;fullall-sourcenativededup/modelidentifiabilitystilldue.",
       "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded.",
@@ -264,17 +264,45 @@
         "evidence_index": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CLAIRE_EVIDENCE_INDEX.md"
       },
       "cohort11_actual_receiving03_sha256": "c3f66f54428441ff35d993d9dca80b7d93427f287bb6f2ab2d2565649e69ef8c",
-      "cohort11_semantic_receiving_sha256": "c5a450f637f6bbdb1a3801b074680a2acd23e6e276f6472165d9c7e4a93eb03b"
+      "cohort11_semantic_receiving_sha256": "c5a450f637f6bbdb1a3801b074680a2acd23e6e276f6472165d9c7e4a93eb03b",
+      "cohort11_publication_pending_at_authorship_history": {
+        "likely_tier": "3, provisional scoped cohort11 model semantic receiving complete; containing publication pending",
+        "priority": "Substantive model/monograph/index received; containing publication gate pending",
+        "disposition_status": "SCOPED_TIER3_COHORT11_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+        "gaps": "Containing exact publication/readback/source-HK-final gate and fresh reload remain. Broad unfamiliar-context reliability, precise weights/thresholds and Japanese generation remain unproved; generic-role/near-canonical rivals and actual first-body limitations remain. No independent score/confidence gain. Designated curation/evaluation and full program continue."
+      },
+      "cohort11_publication_resolution": {
+        "status": "SCOPED_CLAIRE_RAIN_TIER3_FULL_EXACT_SOURCE_GATE_CLOSED",
+        "source": "56dd3653c85d475ab85cdf891202d8e97531d729",
+        "tree": "23c73348bd59d7a231ffc85e0644884050732ae5",
+        "closed_utc": "2026-10-20T08:48:05.652388+00:00",
+        "gate_path": "09 Audits and Manifests/KONOSUBA_ROYAL_COHORT11_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "63b217b8f00fbe0752dff06ef48f039f30fd652b1e9f82ed88ac40b24154c086",
+        "source_run": 39394115696,
+        "housekeeping_run": 39394836833,
+        "final_run": 39394885667,
+        "all_remote_paths": 9239,
+        "all_changed_streams": 37,
+        "full_tests_source_and_final": 385,
+        "fresh_project_reload_paths": 1063,
+        "current_model_bodies": 17,
+        "new_model_bodies": 2,
+        "scoped_secondary_model_subjects": 11,
+        "bounded_profiles": 9,
+        "monograph_only_subjects": 1,
+        "independent_accuracy_or_confidence_gain": false,
+        "full_program_complete": false
+      }
     },
     {
       "character": "Rain / Rein",
       "identity": "レイン; distinct from リーン",
-      "likely_tier": "3, provisional scoped cohort11 model semantic receiving complete; containing publication pending",
-      "priority": "Substantive model/monograph/index received; containing publication gate pending",
+      "likely_tier": "3, scoped cohort11 full publication gate closed; predictive reliability provisional",
+      "priority": "Scoped model/monograph/index gate closed; designated curation and wider program active",
       "evidence_distribution": "MAIN06 native introduction; CONTEXP02 native; DUST03/04; MASK native. WholeMASKU015518Pactualroyalwork/risks/fees/ordinaryknowledge/individualcorrections. Complete CONTEXP02 report received; current native recheck evidence applies only to named actual windows, not every reported scene. CURRENT WORKING22: MAIN15C2current accepted-native guarantor/teleport report precision; inheritedDust03/royalcourt evidence. CURRENT WORKING29: Complete MAIN10/11 reports distinguish greeting, private drugging-plan participation, practical farewell intervention, financial/obligation bargaining and memory-potion procedure. CURRENT WORKING31: Current complete MAIN13-MAIN16 accepted report review, receipts49-52; derivative claims retain original access planes. Targeted native confirmations are separately pinned, with no new whole-source/independent-test credit. CURRENT WORKING45: Shared actual 3285 source-known BASE context slots/eleven members/eight admitted objects, counted once for both subjects; full listed native scopes and existing complete Dust03 report reinspection receipted. No new global unique-primary/full-source/ruby/image/admission/independent credit.",
       "substantive_responsibility": "Mediation and practical correction coexist with pressure, mistaken assumptions and institutional pay constraints. CURRENT WORKING22: A police official's account of teleport delivery and avoiding vacation interruption is attributed evidence, not direct present-scene agency or unlimited transport. Earlier court chase/misdirection retains actual timing and role fit. CURRENT WORKING31: MAIN15 officer reports her rushed tearful visit with Claire letter, current office burden and Teleport help; Kazuma relays his letters. The same remote episode supplies no fully watched independent Rain/Claire meeting. CURRENT WORKING45: Own social repair, small-house/pay/accountability pressures, knowledge/protest and actual mistakes, safe-aim constraints, informed compromised compliance, ordinary aspirations and actor/controller boundaries earn a distinct five-rule provisional model. Three first bodies retain generic official/subordinate rivals, a designed cost contrast and one unmatched primed compliance case.",
-      "gaps": "Containing exact publication/readback/source-HK-final gate and fresh reload remain. Broad unfamiliar-context reliability, precise weights/thresholds and Japanese generation remain unproved; generic-role/near-canonical rivals and actual first-body limitations remain. No independent score/confidence gain. Designated curation/evaluation and full program continue.",
-      "disposition_status": "SCOPED_TIER3_COHORT11_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+      "gaps": "Current scoped publication gate and fresh authority reload closed. Broad unfamiliar-context reliability, precise weights/thresholds and Japanese generation remain unproved. Preserved first-body defects, generic-role/near-canonical rivals, prompt priming and unknown thresholds remain. No independent accuracy, capability grade or confidence gain. Designated curation/evaluation and full program continue.",
+      "disposition_status": "SCOPED_TIER3_COHORT11_PUBLISHED_FULL_GATE_CLOSED",
       "independent_observation_count": null,
       "prior_gap_history_working21": "Normalize English retrieval variants with preferred Rain; retain source spellings and scope; no complete generic guardian model. Preserveownagency/wordsanddistinctknowledge,notsharedcommonsensepersona;fullall-sourcenativededup/modelidentifiabilitystilldue.",
       "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded.",
@@ -300,7 +328,35 @@
         "evidence_index": "series/konosuba/08 Evidence and Indexes/KONOSUBA_RAIN_EVIDENCE_INDEX.md"
       },
       "cohort11_actual_receiving03_sha256": "c3f66f54428441ff35d993d9dca80b7d93427f287bb6f2ab2d2565649e69ef8c",
-      "cohort11_semantic_receiving_sha256": "c5a450f637f6bbdb1a3801b074680a2acd23e6e276f6472165d9c7e4a93eb03b"
+      "cohort11_semantic_receiving_sha256": "c5a450f637f6bbdb1a3801b074680a2acd23e6e276f6472165d9c7e4a93eb03b",
+      "cohort11_publication_pending_at_authorship_history": {
+        "likely_tier": "3, provisional scoped cohort11 model semantic receiving complete; containing publication pending",
+        "priority": "Substantive model/monograph/index received; containing publication gate pending",
+        "disposition_status": "SCOPED_TIER3_COHORT11_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+        "gaps": "Containing exact publication/readback/source-HK-final gate and fresh reload remain. Broad unfamiliar-context reliability, precise weights/thresholds and Japanese generation remain unproved; generic-role/near-canonical rivals and actual first-body limitations remain. No independent score/confidence gain. Designated curation/evaluation and full program continue."
+      },
+      "cohort11_publication_resolution": {
+        "status": "SCOPED_CLAIRE_RAIN_TIER3_FULL_EXACT_SOURCE_GATE_CLOSED",
+        "source": "56dd3653c85d475ab85cdf891202d8e97531d729",
+        "tree": "23c73348bd59d7a231ffc85e0644884050732ae5",
+        "closed_utc": "2026-10-20T08:48:05.652388+00:00",
+        "gate_path": "09 Audits and Manifests/KONOSUBA_ROYAL_COHORT11_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "63b217b8f00fbe0752dff06ef48f039f30fd652b1e9f82ed88ac40b24154c086",
+        "source_run": 39394115696,
+        "housekeeping_run": 39394836833,
+        "final_run": 39394885667,
+        "all_remote_paths": 9239,
+        "all_changed_streams": 37,
+        "full_tests_source_and_final": 385,
+        "fresh_project_reload_paths": 1063,
+        "current_model_bodies": 17,
+        "new_model_bodies": 2,
+        "scoped_secondary_model_subjects": 11,
+        "bounded_profiles": 9,
+        "monograph_only_subjects": 1,
+        "independent_accuracy_or_confidence_gain": false,
+        "full_program_complete": false
+      }
     },
     {
       "character": "Prince Levi / Revi",
@@ -377,12 +433,12 @@
     {
       "character": "Luna",
       "identity": "ルナ",
-      "likely_tier": "2–3 concentrated-source candidate; identifiability review pending",
-      "priority": "Next cohort",
-      "evidence_distribution": "MASK worker chapter; DUST03/04 service refusals and institutional leads. CompleteMASKreport209Lreceived;pollrest/marriagewish isstagedonly. Whole587PnativeMASKU017actuallyreceived. MAIN11C3P427-450 andfinalguildcontext. Complete FD221L report received; direct native applies only to current735P joins, with separate game-novelization source plane. MAIN12 retained tax confrontation native backjoin and explicit identity exclusion. Complete Dust05 report210L and actual721nativeP across3 accepted units now received; direct native support is restricted to the recorded windows, not every report scene. Complete Dust06 accepted report157L received; actual current216nativeP are only U010596-640/U012427-597 Leen-viewpoint joins, not every report scene. MAIN13 current bounded retained native2008P across7units and17-section analysis reviewed; only the actual recorded windows confer direct native receipt. Complete Dust07 report192L now received; current native1179P across4units supports only its actual recorded windows, epilogue alone complete at base-text scope. MAIN14 all29native images and full2691retained base text. CURRENT WORKING22: FullYORI04review31 plus existing DUST07 native/corpus evidence. CURRENT WORKING29: Complete MAIN11 report shows deliberate use of admired-child audience, accurate selection of scarce capacities, date/food incentives, repeated work recruitment, investigation assignment and evasion of heartless-selection question.",
-      "substantive_responsibility": "Actualadministration/rulecorrection/investigation/harassmentboundary;limitedauthorityandstaffturnover;ownrest/domesticlabor/respectfuladultcompanywishes. Unwantedcorpsegiftanddeliberateromantichumiliationproduceexplicitlimits;actualthanksforworkisdistinctfrominformedapprovalofcoercion;paidshift/listeningdemand,retrospectivebounty andoptoutfutureforecast. No humiliation-determinedpersona. ExplicitlycalledLuna441, actualfiniteicecream/listeningoffer431-433/childsympathy435, thenquestcommitment438/442overadultalarm439. Usefulwork/statusleveragecoexist; childdoesnotauthorizeothersrisk, no unlimitedinstitutionalpower. Civil servant staff at C2P265 are unnamed; do not assign to Luna because of institutional function. MAIN13 IMG010 is Aqua in ordinary town-girl disguise, verified against C4P348-379; withdraw the tentative counterwoman/Luna attribution preserved in original uncoded notes. No Luna choice is earned by that image. Dust07 native U013118-127: own institutional ten-million guild-vault commitment purchases urgent defense; Vanir accepts and starts attack. Epilogue Dust states received payment122, no independently watched bank transfer. In training aftermath she respects Dust request to keep distance920-922. MAIN13 IMG010 is Aqua, not Luna. Work, institutional choice and MASK mistreatment coexist. CURRENT WORKING21: IMG024 guild employee restraining Aqua is unnamed; neither job nor appearance proves Luna. Other unnamed reception staff remain source-bound. CURRENT WORKING22: Finite banquet/public role and reported zero-counted-death year differ from actual absence of death. She respects retirement, requests night help and receives DarkStalker's own volunteering, Assassin's correction and eventual separate assent after a peaceful-morning proposal. Patrol remains future; prior own guild money stays her contribution.",
-      "gaps": "Effective allocation is not free assent or disinterest. Keep actual workload/own goals/recipient differences; Komekko need not be the system's calculating author. No generic all-official model.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "likely_tier": "3, provisional scoped cohort12 model semantic receiving complete; containing publication pending",
+      "priority": "Substantive model/monograph/index received; containing publication gate pending",
+      "evidence_distribution": "MASK worker chapter; DUST03/04 service refusals and institutional leads. CompleteMASKreport209Lreceived;pollrest/marriagewish isstagedonly. Whole587PnativeMASKU017actuallyreceived. MAIN11C3P427-450 andfinalguildcontext. Complete FD221L report received; direct native applies only to current735P joins, with separate game-novelization source plane. MAIN12 retained tax confrontation native backjoin and explicit identity exclusion. Complete Dust05 report210L and actual721nativeP across3 accepted units now received; direct native support is restricted to the recorded windows, not every report scene. Complete Dust06 accepted report157L received; actual current216nativeP are only U010596-640/U012427-597 Leen-viewpoint joins, not every report scene. MAIN13 current bounded retained native2008P across7units and17-section analysis reviewed; only the actual recorded windows confer direct native receipt. Complete Dust07 report192L now received; current native1179P across4units supports only its actual recorded windows, epilogue alone complete at base-text scope. MAIN14 all29native images and full2691retained base text. CURRENT WORKING22: FullYORI04review31 plus existing DUST07 native/corpus evidence. CURRENT WORKING29: Complete MAIN11 report shows deliberate use of admired-child audience, accurate selection of scarce capacities, date/food incentives, repeated work recruitment, investigation assignment and evasion of heartless-selection question. CURRENT WORKING49: 1033actual known BASEcontextslots/eight members/four admitted objects, once within receipt. Own MASK,MAIN11,DUST07,YORI04 contexts retain exact source planes; three actual same-author hypothetical first bodies. No new global unique-primary/full-source/ruby/image/admission/independent credit.",
+      "substantive_responsibility": "Actualadministration/rulecorrection/investigation/harassmentboundary;limitedauthorityandstaffturnover;ownrest/domesticlabor/respectfuladultcompanywishes. Unwantedcorpsegiftanddeliberateromantichumiliationproduceexplicitlimits;actualthanksforworkisdistinctfrominformedapprovalofcoercion;paidshift/listeningdemand,retrospectivebounty andoptoutfutureforecast. No humiliation-determinedpersona. ExplicitlycalledLuna441, actualfiniteicecream/listeningoffer431-433/childsympathy435, thenquestcommitment438/442overadultalarm439. Usefulwork/statusleveragecoexist; childdoesnotauthorizeothersrisk, no unlimitedinstitutionalpower. Civil servant staff at C2P265 are unnamed; do not assign to Luna because of institutional function. MAIN13 IMG010 is Aqua in ordinary town-girl disguise, verified against C4P348-379; withdraw the tentative counterwoman/Luna attribution preserved in original uncoded notes. No Luna choice is earned by that image. Dust07 native U013118-127: own institutional ten-million guild-vault commitment purchases urgent defense; Vanir accepts and starts attack. Epilogue Dust states received payment122, no independently watched bank transfer. In training aftermath she respects Dust request to keep distance920-922. MAIN13 IMG010 is Aqua, not Luna. Work, institutional choice and MASK mistreatment coexist. CURRENT WORKING21: IMG024 guild employee restraining Aqua is unnamed; neither job nor appearance proves Luna. Other unnamed reception staff remain source-bound. CURRENT WORKING22: Finite banquet/public role and reported zero-counted-death year differ from actual absence of death. She respects retirement, requests night help and receives DarkStalker's own volunteering, Assassin's correction and eventual separate assent after a peaceful-morning proposal. Patrol remains future; prior own guild money stays her contribution. CURRENT WORKING49: Own task classification and resource choice, social leverage despite refusal, actual withdrawal without full explanation, useful commitment, unmet rest/company wishes and hopeful misappraisal support a four-rule scoped provisional model with contrary cases and disconfirmers. Guild money is not private wealth; productive work is not full consent or personal repair.",
+      "gaps": "Containing exact publication/readback/source-HK-final gate and fresh reload remain. Generic administrator/ordinary company rivals, covarying motives, unknown thresholds/prevalence and tidy English remain; no broad unfamiliar-context or Japanese generative reliability, capability grade or confidence gain. R02 and withdrawal-versus-pressure not isolated by the small internal battery. Full program and designated curation/evaluation remain.",
+      "disposition_status": "SCOPED_TIER3_COHORT12_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
       "independent_observation_count": null,
       "prior_gap_history_working20": "Fullall-sourceidentity/decisiondedupinclDust/main;assessdistinctfalsifiablework/relationshipmechanisms,rivals/confidencelimitsandshortvoice. Concentrated587Pcanearnartifactifidentifiable,nofrequencyquota. No prospectiveLunatests;rankpollnotagency. No new Luna choice or new institutional power claim from MAIN12 tax scene. MAIN13 new bonus/129P excluded/28images are read and analyzed; containing exact publication gate pending in this version. MAIN14-17 excluded components remain unadmitted. Retained windows confer no new whole-source or independent-test credit. No new whole-EPUB/ruby/residual/image/independent-test credit; final cross-source disposition/rivals and any earned model remain open.",
       "current_scope_asof_working21": "MAIN01-13 full gates closed;MAIN14 published4e66641f andall9078remote paths/43changedstreams verified;actualsourceaudit running;MAIN15-17 excluded unadmitted.",
@@ -390,7 +446,22 @@
       "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded.",
       "prior_gap_history_working28": "Evaluate own institutional goals, finite resources and differing recipients; no universal officer assignment or actual patrol from accepted request. Resolve unnamed guild/police staff without flattening into Luna.",
       "current_scope_asof_working29": "Current derivative review MAIN01–12 plus MAIN17 and first four checkpoints complete; MAIN13–16 and remaining checkpoints/ledger consolidation remain active. All declared source gates and Iris/Yunyun/Vanir/Wiz scoped publication gates closed.",
-      "cohort05_current_evidence_qualification": "Complete MAIN11 report shows deliberate use of admired-child audience, accurate selection of scarce capacities, date/food incentives, repeated work recruitment, investigation assignment and evasion of heartless-selection question."
+      "cohort05_current_evidence_qualification": "Complete MAIN11 report shows deliberate use of admired-child audience, accurate selection of scarce capacities, date/food incentives, repeated work recruitment, investigation assignment and evasion of heartless-selection question.",
+      "prior_targeted_fields_before_cohort12": {
+        "likely_tier": "2–3 concentrated-source candidate; identifiability review pending",
+        "priority": "Next cohort",
+        "gaps": "Effective allocation is not free assent or disinterest. Keep actual workload/own goals/recipient differences; Komekko need not be the system's calculating author. No generic all-official model.",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+        "evidence_distribution": "MASK worker chapter; DUST03/04 service refusals and institutional leads. CompleteMASKreport209Lreceived;pollrest/marriagewish isstagedonly. Whole587PnativeMASKU017actuallyreceived. MAIN11C3P427-450 andfinalguildcontext. Complete FD221L report received; direct native applies only to current735P joins, with separate game-novelization source plane. MAIN12 retained tax confrontation native backjoin and explicit identity exclusion. Complete Dust05 report210L and actual721nativeP across3 accepted units now received; direct native support is restricted to the recorded windows, not every report scene. Complete Dust06 accepted report157L received; actual current216nativeP are only U010596-640/U012427-597 Leen-viewpoint joins, not every report scene. MAIN13 current bounded retained native2008P across7units and17-section analysis reviewed; only the actual recorded windows confer direct native receipt. Complete Dust07 report192L now received; current native1179P across4units supports only its actual recorded windows, epilogue alone complete at base-text scope. MAIN14 all29native images and full2691retained base text. CURRENT WORKING22: FullYORI04review31 plus existing DUST07 native/corpus evidence. CURRENT WORKING29: Complete MAIN11 report shows deliberate use of admired-child audience, accurate selection of scarce capacities, date/food incentives, repeated work recruitment, investigation assignment and evasion of heartless-selection question.",
+        "substantive_responsibility": "Actualadministration/rulecorrection/investigation/harassmentboundary;limitedauthorityandstaffturnover;ownrest/domesticlabor/respectfuladultcompanywishes. Unwantedcorpsegiftanddeliberateromantichumiliationproduceexplicitlimits;actualthanksforworkisdistinctfrominformedapprovalofcoercion;paidshift/listeningdemand,retrospectivebounty andoptoutfutureforecast. No humiliation-determinedpersona. ExplicitlycalledLuna441, actualfiniteicecream/listeningoffer431-433/childsympathy435, thenquestcommitment438/442overadultalarm439. Usefulwork/statusleveragecoexist; childdoesnotauthorizeothersrisk, no unlimitedinstitutionalpower. Civil servant staff at C2P265 are unnamed; do not assign to Luna because of institutional function. MAIN13 IMG010 is Aqua in ordinary town-girl disguise, verified against C4P348-379; withdraw the tentative counterwoman/Luna attribution preserved in original uncoded notes. No Luna choice is earned by that image. Dust07 native U013118-127: own institutional ten-million guild-vault commitment purchases urgent defense; Vanir accepts and starts attack. Epilogue Dust states received payment122, no independently watched bank transfer. In training aftermath she respects Dust request to keep distance920-922. MAIN13 IMG010 is Aqua, not Luna. Work, institutional choice and MASK mistreatment coexist. CURRENT WORKING21: IMG024 guild employee restraining Aqua is unnamed; neither job nor appearance proves Luna. Other unnamed reception staff remain source-bound. CURRENT WORKING22: Finite banquet/public role and reported zero-counted-death year differ from actual absence of death. She respects retirement, requests night help and receives DarkStalker's own volunteering, Assassin's correction and eventual separate assent after a peaceful-morning proposal. Patrol remains future; prior own guild money stays her contribution."
+      },
+      "cohort12_current_artifacts": {
+        "monograph": "series/konosuba/05 Specialist Synthesis/KONOSUBA_LUNA_CHARACTER_MONOGRAPH.md",
+        "model": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_LUNA_RECONSTRUCTION_MODEL.md",
+        "evidence_index": "series/konosuba/08 Evidence and Indexes/KONOSUBA_LUNA_EVIDENCE_INDEX.md"
+      },
+      "cohort12_actual_receiving02_sha256": "45dfa178e67a93df4e17b4e244c8f9c4116ab67f8624e4a0919e67983353f4bb",
+      "cohort12_semantic_receiving_sha256": "b3aa0a4e07ea1ce0e8b5cc986a0b0bc46a54572b54ff24f18e9700bd08a336c7"
     },
     {
       "character": "Zesta",
@@ -2930,10 +3001,11 @@
     "Hoost overallcohort08 full publication gate closed",
     "Levi overallcohort09 full publication gate closed",
     "Nos cohort10 Tier2 monograph full publication gate closed; no distinct model",
-    "Claire cohort11 scopedTier3 semantic receiving complete; publication pending",
-    "Rain cohort11 scopedTier3 semantic receiving complete; publication pending"
+    "Claire cohort11 scopedTier3 full publication gate closed",
+    "Rain cohort11 scopedTier3 full publication gate closed",
+    "Luna cohort12 scopedTier3 semantic receiving complete; publication pending"
   ],
-  "current_actual_individual_audit_scope": "Complete current ten rolling responsibilities received in eleven physical files at disclosed literal/exact prior-reuse scopes, with later own cohort appendices. Shared royal recheck covers3285known-source BASEcontextslots/eleven members/eight admitted objects once; no global unique-primary/full/ruby/image/admission/independent increment. Two target rows only;166 others exact. Historical group/episode/open-bucket records are not extra final people. Full event/alias/incidental dispositions and earned artifact/synthesis/versioned-model/curation/integration/release work remain.",
+  "current_actual_individual_audit_scope": "Complete current ten rolling responsibilities received at disclosed literal/exact prior-reuse scopes, with later own cohort appends. Luna1033known BASEcontextslots/eight members/four objects are one within-receipt union, no global unique-primary/full/ruby/image/admission/independent increment. One target row,167others exact,no new row. Historical groups/episode/openbucket remain nonfinal; all-individual/event/alias/incidental reconciliation and earned artifacts/synthesis/versioned models/curation/integration/release continue.",
   "historical_integrity": "MG02-I01/I02 through MG05, original blank fields, CP outcomes, letters-as-NT and preYORI04SEC01 scope remain unchanged. New source-known comparisons are retrospective; hypotheticals are not source validation.",
   "current_receipt_pins": [
     {
@@ -3028,15 +3100,14 @@
   },
   "change_controls": {
     "targeted_prior_row_indices": [
-      7,
-      8
+      11
     ],
-    "untouched_prior_rows_exact": 166,
+    "untouched_prior_rows_exact": 167,
     "new_rows": 0,
     "current_rows_not_final_population": 168,
-    "fifteen_entering_models_unchanged": true,
-    "new_distinct_reconstruction_models": 2,
-    "proposed_current_models_after_adoption": 17,
+    "seventeen_entering_models_unchanged": true,
+    "new_distinct_reconstruction_models": 1,
+    "proposed_current_models_after_adoption": 18,
     "new_source_admission": false,
     "global_census_closed": false,
     "final_tiers_assigned": false,
@@ -3812,12 +3883,112 @@
     "pending": "Full all-individual/event/alias/incidental dispositions, further earned artifacts, seven expanded specialists and extended/full-series syntheses, six separate StageD principal-party-transfer revisions, designated curation/evaluation/integration and component/release/final-entry audits."
   },
   "cohort11_current_receiving": {
-    "status": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+    "status": "SCOPED_SEMANTIC_AND_FULL_EXACT_SOURCE_GATE_CLOSED",
     "subject_dispositions": "Two separate scopedTier3 model candidates with monographs/indexes; seven actual same-author hypothetical first bodies and disclosed defects.",
     "actual_native_receiving03_sha256": "c3f66f54428441ff35d993d9dca80b7d93427f287bb6f2ab2d2565649e69ef8c",
     "semantic_receiving_sha256": "c5a450f637f6bbdb1a3801b074680a2acd23e6e276f6472165d9c7e4a93eb03b",
     "entering_models_exact": 15,
     "new_models": 2,
+    "no_independent_or_accuracy_gain": true
+  },
+  "historical_scope_at_cohort11_semantic_adoption": {
+    "scope": "Royal cohort11 Claire/Rain scoped Tier3 candidates semantically received; publication pending. Nine prior model gates, Nos Tier2 and nine profiles remain closed at their scopes. Fifteen entering models exact, two new bodies proposed.168 records remain nonfinal; full program active.",
+    "scoped_tiers_assigned": [
+      "Iris cohort01 full publication gate closed",
+      "Yunyun cohort02 full publication gate closed",
+      "Vanir overallcohort03 full publication gate closed",
+      "Wiz overallcohort04 full publication gate closed",
+      "Chris/Eris overallcohort05 full publication gate closed",
+      "Dust overallcohort06 full publication gate closed",
+      "Komekko overallcohort07 full publication gate closed",
+      "Hoost overallcohort08 full publication gate closed",
+      "Levi overallcohort09 full publication gate closed",
+      "Nos cohort10 Tier2 monograph full publication gate closed; no distinct model",
+      "Claire cohort11 scopedTier3 semantic receiving complete; publication pending",
+      "Rain cohort11 scopedTier3 semantic receiving complete; publication pending"
+    ],
+    "cohort11_current_receiving": {
+      "status": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+      "subject_dispositions": "Two separate scopedTier3 model candidates with monographs/indexes; seven actual same-author hypothetical first bodies and disclosed defects.",
+      "actual_native_receiving03_sha256": "c3f66f54428441ff35d993d9dca80b7d93427f287bb6f2ab2d2565649e69ef8c",
+      "semantic_receiving_sha256": "c5a450f637f6bbdb1a3801b074680a2acd23e6e276f6472165d9c7e4a93eb03b",
+      "entering_models_exact": 15,
+      "new_models": 2,
+      "no_independent_or_accuracy_gain": true
+    }
+  },
+  "cohort11_publication_resolution": {
+    "status": "SCOPED_CLAIRE_RAIN_TIER3_FULL_EXACT_SOURCE_GATE_CLOSED",
+    "source": "56dd3653c85d475ab85cdf891202d8e97531d729",
+    "tree": "23c73348bd59d7a231ffc85e0644884050732ae5",
+    "closed_utc": "2026-10-20T08:48:05.652388+00:00",
+    "gate_path": "09 Audits and Manifests/KONOSUBA_ROYAL_COHORT11_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "63b217b8f00fbe0752dff06ef48f039f30fd652b1e9f82ed88ac40b24154c086",
+    "source_run": 39394115696,
+    "housekeeping_run": 39394836833,
+    "final_run": 39394885667,
+    "all_remote_paths": 9239,
+    "all_changed_streams": 37,
+    "full_tests_source_and_final": 385,
+    "fresh_project_reload_paths": 1063,
+    "current_model_bodies": 17,
+    "new_model_bodies": 2,
+    "scoped_secondary_model_subjects": 11,
+    "bounded_profiles": 9,
+    "monograph_only_subjects": 1,
+    "independent_accuracy_or_confidence_gain": false,
+    "full_program_complete": false
+  },
+  "cohort11_post_gate_controls": {
+    "two_targeted_status_rows_only_updated": true,
+    "other166_rows_exact": true,
+    "all_seventeen_models_exact": true,
+    "global_census_closed": false,
+    "final_tiers_assigned": false,
+    "percentage": null
+  },
+  "prior_current_metadata_before_cohort12": {
+    "scope": "Cohorts01-11: eleven scoped Tier3 model subjects, nine bounded profiles, one Nos Tier2 monograph-only subject and an incidental index have closed exact publication gates at their scopes. Seventeen model bodies.168 working records include historical groups/episode alias/open bucket; final census/tiers and full program remain open.",
+    "scoped_tiers_assigned": [
+      "Iris cohort01 full publication gate closed",
+      "Yunyun cohort02 full publication gate closed",
+      "Vanir overallcohort03 full publication gate closed",
+      "Wiz overallcohort04 full publication gate closed",
+      "Chris/Eris overallcohort05 full publication gate closed",
+      "Dust overallcohort06 full publication gate closed",
+      "Komekko overallcohort07 full publication gate closed",
+      "Hoost overallcohort08 full publication gate closed",
+      "Levi overallcohort09 full publication gate closed",
+      "Nos cohort10 Tier2 monograph full publication gate closed; no distinct model",
+      "Claire cohort11 scopedTier3 full publication gate closed",
+      "Rain cohort11 scopedTier3 full publication gate closed"
+    ],
+    "current_actual_individual_audit_scope": "Complete current ten rolling responsibilities received in eleven physical files at disclosed literal/exact prior-reuse scopes, with later own cohort appendices. Shared royal recheck covers3285known-source BASEcontextslots/eleven members/eight admitted objects once; no global unique-primary/full/ruby/image/admission/independent increment. Two target rows only;166 others exact. Historical group/episode/open-bucket records are not extra final people. Full event/alias/incidental dispositions and earned artifact/synthesis/versioned-model/curation/integration/release work remain.",
+    "change_controls": {
+      "targeted_prior_row_indices": [
+        7,
+        8
+      ],
+      "untouched_prior_rows_exact": 166,
+      "new_rows": 0,
+      "current_rows_not_final_population": 168,
+      "fifteen_entering_models_unchanged": true,
+      "new_distinct_reconstruction_models": 2,
+      "proposed_current_models_after_adoption": 17,
+      "new_source_admission": false,
+      "global_census_closed": false,
+      "final_tiers_assigned": false,
+      "global_completion_percentage": null
+    },
+    "pending": "Full all-individual/event/alias/incidental dispositions, further earned artifacts, seven expanded specialists and extended/full-series syntheses, six separate StageD principal-party-transfer revisions, designated curation/evaluation/integration and component/release/final-entry audits."
+  },
+  "cohort12_current_receiving": {
+    "status": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+    "subject_disposition": "One Luna scopedTier3 model candidate with monograph/index; three actual same-author hypothetical first bodies and explicit limits.",
+    "actual_native_receiving02_sha256": "45dfa178e67a93df4e17b4e244c8f9c4116ab67f8624e4a0919e67983353f4bb",
+    "semantic_receiving_sha256": "b3aa0a4e07ea1ce0e8b5cc986a0b0bc46a54572b54ff24f18e9700bd08a336c7",
+    "entering_models_exact": 17,
+    "new_models": 1,
     "no_independent_or_accuracy_gain": true
   }
 }
