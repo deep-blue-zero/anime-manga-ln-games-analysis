@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: corpus_map
 scope: SERIES_BOOTSTRAP_AND_ANALYTICAL_ROUTING
-generation: V0.20
+generation: V0.21
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -29,7 +29,7 @@ project_initialization:
   required_day_one_infrastructure:
     - 04 Longitudinal Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md
   sequential_analysis_lock: OPEN
-  next_permitted_operation: OTTO_V01_V13_MODEL_AND_FIDELITY_REVIEW
+  next_permitted_operation: V14
 ```
 
 ```yaml
@@ -39,7 +39,7 @@ sequential_execution:
   authorized_start: V03
   terminal_boundary: V43
   committed_high_water_mark: V13
-  next_candidate_operation: OTTO_V01_V13_MODEL_AND_FIDELITY_REVIEW
+  next_candidate_operation: V14
   confirmation_between_units: false
   run_state: active
 ```
@@ -53,13 +53,13 @@ sequential_execution:
 
 ## Current analytical state
 
-Japanese main-LN analysis extends through V13: 216 current claims, seventeen represented deaths and eighteen actually arrived segments. E018 continues alive outside the tomb while Emilia begins her renewed first trial; Garfiel has passed his first. No physical tea-self-bite death, death18/E019, second/third pass, repaired gate, fulfilled wager, barrier/mansion/Beatrice rescue or fourth-arc ending is established. V13 individually adjudicates all 156 predecessor claims, sixty incoming questions and ten forecasts. The next prospect is sixty V14 questions/ten forecasts, sealed after V13 EOF and unchanged before any V14 source.
+Japanese main-LN source analysis extends through V13: 216 current claim formulations, seventeen represented deaths and eighteen actually arrived segments. E018 continues alive while Emilia begins her renewed first trial; Garfiel has passed his first. No death18/E019, second/third pass, repaired gate, fulfilled wager, barrier/mansion/Beatrice rescue or fourth-arc ending is established. The exact sixty-question/ten-forecast V14 prospect remains sealed and V14 is unopened.
 
-Five sole specialist owners and master retain their registered responsibilities; `SEQUENTIAL_ANALYSIS_LOCK = OPEN`. Both next-operation fields name `OTTO_V01_V13_MODEL_AND_FIDELITY_REVIEW`, after V13's complete publication gate. Otto's earned construction and separately reported scoped fidelity review must complete their own gate before V14 opens. The run remains active to V43 without confirmation between ordinary units. Exact publication receipts belong to Git history/live audit surfaces, not this entrypoint.
+Two source-bounded person models now exist with distinct defaults and local reviews: [Subaru V01–V10](05%20Character%20Analysis/REZERO_NATSUKI_SUBARU_V01_V10_CHARACTER_MODEL.md)/[first audit](08%20Audits%20and%20Manifests/REZERO_CHARACTER_RECONSTRUCTION_FIDELITY_AUDIT.md) remains historical/default terminal E013; [Otto V01–V13](05%20Character%20Analysis/REZERO_OTTO_SUWEN_V01_V13_CHARACTER_MODEL.md)/[separate scoped review](08%20Audits%20and%20Manifests/REZERO_OTTO_SUWEN_V01_V13_FIDELITY_REVIEW.md) now supplies living E018 outer-tomb selection. Both local results are PASS_WITH_BOUND, nonblind document-level use bounds, not independent benchmarks, global grades or healed people. Otto's own rescue debt, Subaru-only E015 history and fresh E018 friendship remain separate; neither model silently gains later source coverage.
 
-[The Subaru model](05%20Character%20Analysis/REZERO_NATSUKI_SUBARU_V01_V10_CHARACTER_MODEL.md) and [first fidelity audit](08%20Audits%20and%20Manifests/REZERO_CHARACTER_RECONSTRUCTION_FIDELITY_AUDIT.md) remain unchanged historical V01–V10 baseline/default terminal E013. Current V13 use requires explicit state, holder, recipient, representation, ordinary/voice and counterevidence reconciliation; that audit does not automatically certify E018. Otto is MONOGRAPH_READY for bounded V01–V13 construction, not already modeled or fidelity-certified. Emilia and Garfiel have named V10–V13 interim CHECKPOINT_READY scopes in master, not whole-person monographs. Newly enacted current friendship and conditional following do not supply erased-loop shared memories, complete secret-plan knowledge or settled apology/kiss terms.
+The five specialist owners/master retain their sole responsibilities and `SEQUENTIAL_ANALYSIS_LOCK = OPEN`. Both next-operation fields name `V14` only after the Otto model/review operation's own complete publication gate. Its construction adds no source or narrative claim generation; all fifteen VNN/checkpoint freezes, historical Subaru pair, five owner files, 216 V13 claims and the exact V14 prospect remain unchanged here. The active run continues to V43 without ordinary between-unit confirmation.
 
-The source lock owns the exact 43-object Japanese spine identity, V41 replacement and dated V44/V45 acquisition gaps. Non-spine and adaptation witnesses remain separately governed and unopened. The frozen sequential corpus is V01–V13 plus estate/third-arc checkpoints; current claims and sealed V14 horizon route through master/V13. V14 is unopened and its seal survives the Otto operation unchanged. No sixth ledger, final specialist or external witness is promoted. Superseded entrypoint passages remain verbatim in the [project changelog](REZERO_PROJECT_CHANGELOG.md).
+Emilia/Garfiel retain named V10–V13 interim CHECKPOINT_READY scopes, not whole-person monographs or arc-end freezes. No sixth ledger, final specialist or external witness is promoted. The source lock owns the admitted 43-object spine, V41 exception and dated V44/V45 acquisition gaps; nonspine/adaptation witnesses remain separately governed and unopened. Superseded entrypoint blocks remain verbatim in the [project changelog](REZERO_PROJECT_CHANGELOG.md); exact publication receipts belong to Git history/live audit surfaces.
 
 ## Governing method and retrieval route
 
@@ -96,15 +96,15 @@ A discarded or superseded event-state can remain highly probative character evid
 
 | Layer | Analytical responsibility | Current state |
 |---|---|---|
-| `00 Frameworks and Methods` | Governing evidence, prospective-freeze, route-state, witness-separation, character reconstruction/fidelity, focalization, Japanese-language, safe-horizon, revision, longitudinal-routing, specialist, and completion rules | analytical method V0.1; witness protocol V0.2; architecture V1.13 `EVOLVING`; character protocol V1.12 |
-| `01 Source Lock and Inventory` | Exact witness set, integrity/provenance, edition identity, publication ordering, source-family classification and non-spine awareness | source lock V0.16; V01–V43 admitted/V41 override; dated V44/V45 acquisition gaps; analysis through V13; catalog V0.1/no separate non-spine admission |
-| `02 Sequential Readings` | Main-LN prospective deep readings and source-verified checkpoints | V01–V13/two checkpoints frozen; V14 unopened, exact sixty-question/ten-forecast prospect sealed through the pending Otto operation |
+| `00 Frameworks and Methods` | Governing evidence, prospective-freeze, route-state, witness-separation, character reconstruction/fidelity, focalization, Japanese-language, safe-horizon, revision, longitudinal-routing, specialist, and completion rules | analytical method V0.1; witness protocol V0.2; architecture V1.14 `EVOLVING`; character protocol V1.13 |
+| `01 Source Lock and Inventory` | Exact witness set, integrity/provenance, edition identity, publication ordering, source-family classification and non-spine awareness | source lock V0.17; V01–V43 admitted/V41 override; dated V44/V45 acquisition gaps; source analysis through V13; Otto compilation adds no witness; catalog V0.1/no nonspine admission |
+| `02 Sequential Readings` | Main-LN prospective deep readings and source-verified checkpoints | V01–V13/two checkpoints frozen and unchanged; V14 unopened, exact sixty-question/ten-forecast prospect retained through Otto model/review and its own gate |
 | `03 Supplemental and Alternate Witnesses` | Analytical readings of admitted mainline side stories, collections, EX/supplemental material, IF/alternate routes, web-novel witnesses, and other non-spine material | routing contract V0.2 populated; cataloging remains in layer 01; no witness admitted or read yet |
-| `04 Longitudinal Ledgers` | Current claims/revisions, chronology/durability, proposition holders, relationships, characters, institutions, mechanics, ordinary life, Japanese, questions and readiness | master V1.14 through V13; institution V1.10/I199; event V1.7/E018 continues alive; knowledge V1.7/K379; mechanics V1.6/M245; relationship V1.4/R063/RT102; schema V0.15; sole home per responsibility |
-| `05 Character Analysis` | Protocol-governed character reconstruction only after sufficient longitudinal evidence exists | routing contract V0.4; unchanged historical Subaru V01–V10 model/first audit, local PASS_WITH_BOUND/default E013; explicit V13 reconciliation required. Otto V01–V13 construction/review is earned and pending, not certified |
+| `04 Longitudinal Ledgers` | Current claims/revisions, chronology/durability, proposition holders, relationships, characters, institutions, mechanics, ordinary life, Japanese, questions and readiness | master V1.15 through V13; institution V1.10/I199; event V1.7/E018; knowledge V1.7/K379; mechanics V1.6/M245; relationship V1.4/R063/RT102; schema V0.16; five owners unchanged during model compilation |
+| `05 Character Analysis` | Protocol-governed character reconstruction only after sufficient longitudinal evidence exists | routing contract V0.5; Subaru V01–V10 baseline/default terminal E013 unchanged; Otto V01–V13 integrated model/default living E018 and separate scoped review now local PASS_WITH_BOUND, own publication gate required; no implied later coverage/global grade |
 | `06 Adaptation Analysis` | Anime and later audiovisual comparison as separately labeled witnesses | routing contract populated; no adaptation findings yet |
 | `07 Specialist Synthesis` | Dense questions with independent retrieval responsibility, instantiated only when earned | not instantiated |
-| `08 Audits and Manifests` | Bootstrap and later analytical/source-integrity manifests | bootstrap/architecture manifests and Subaru first nineteen-dimension fidelity audit populated; Otto's separately scoped review reserved but not created; detailed primary-source audit remains Drive-authoritative |
+| `08 Audits and Manifests` | Bootstrap and later analytical/source-integrity manifests | bootstrap/architecture records, historical Subaru first nineteen-dimension audit and Otto separate scoped nineteen-dimension documentary review; source-integrity evidence remains source-lock governed |
 | future `09 Evidence and Indexes` | Claim-evidence, source-locator, character-evidence-coverage, or witness-dependency navigation only after demonstrated retrieval burden | not instantiated; exact candidates and triggers reserved in the synthesis architecture |
 | future `10 Full-Series Synthesis` | Canonical full-series convergence after complete-series or expressly bounded readiness | not instantiated; reserved canonical file `REZERO_FULL_SERIES_SYNTHESIS.md` |
 | `90 Legacy and Superseded` | Materially distinct superseded analysis | not instantiated; no legacy analytical corpus is being imported |
@@ -173,16 +173,16 @@ The sequential pass should test rather than assume questions including:
 
 ## Current work order
 
-1. Preserve all thirteen VNN freezes and both bounded checkpoints after this transaction; fourteen predecessor freezes and the historical V01–V10 Subaru model/audit remain byte-unchanged here. Correct later knowledge through current claims/errata, not revised prospective history.
-2. Use 216 V13 claims and the sealed sixty-question/ten-forecast V14 horizon. Current E018 continues alive, seventeen deaths/eighteen segments. Garfiel's first pass is actual; Emilia's renewed first begins, not passes. Preserve partial receipt, actual promise breach, unsettled kiss discussion, collapsed gate and unfulfilled wager/rescue limits.
-3. Maintain master V1.14, institution V1.10, event V1.7, knowledge V1.7, mechanics V1.6 and relationship V1.4 under architecture V1.13/schema V0.15/protocol V1.12. Historical Subaru model/audit is not an automatically current response model.
-4. Complete V13's approved commit, exact full remote readback, source audit, completed housekeeping and final actual exact-source full audit/status. Local counts and locators do not alone establish semantic acceptance or publication.
-5. Execute `OTTO_V01_V13_MODEL_AND_FIDELITY_REVIEW`: inspect mature design references, reconcile exact V01–V13 evidence, construct a bounded state-selectable model and separately report scoped nonblind nineteen-dimension fidelity. Close that operation's own full publication gate before opening V14. Preserve the sealed V14 prospect unchanged throughout; no review outcome or global grade is pre-awarded.
-6. Then continue prospectively through V14 and the admitted main-LN spine to active V43 without confirmation between ordinary units; source exhaustion is not published-series completion.
-7. Acquire and integrity-audit Japanese V44/V45 before the read reaches that boundary. Bibliographic awareness does not admit a witness or extend the authorized terminal.
-8. Maintain non-spine catalog awareness without opening narrative. Before analytical use, establish source class and `H_pub`/`H_diegetic`/`H_route`/`H_final`; keep supplements, IF, WN and adaptations separately governed.
-9. Update master in every volume transaction. Split a responsibility only for demonstrated independent retrieval/revision burden, leaving a router rather than a competing full copy. Earned person/interim readiness is not a count-driven sixth ledger, final specialist or arc-end checkpoint.
-10. Maintain protocol-defined state, relational, ordinary-life, Japanese, failure and abstention responsibilities in reconstruction; earlier source scopes, evidence and audit results keep their declared bounds.
+1. Preserve the thirteen VNN freezes/two checkpoints and historical Subaru model/first audit; five specialist-owner bytes, 216 V13 claim formulations and exact V14 prospect remain unchanged during the Otto operation. Correct later source knowledge through its legitimate current-owner/freeze route, not rewritten prospective history.
+2. Use the newly implemented Otto V01–V13 model and separate scoped review within their stated bounds: living E018, actual cost/partial knowledge, earlier phases, recipient differences and operational abstentions. Keep Subaru's historical V01–V10 default terminal E013 distinct; no automatic later audit coverage.
+3. Finish the Otto operation's approved commit, complete immutable changed-file readback, actual-source audit, completed source-bound housekeeping and final actual-source full audit/reporter/exact success status. Local PASS_WITH_BOUND is not publication completion.
+4. Only then open `RZ-MAIN-LN-JA-V14` using the unchanged sixty-question/ten-forecast prospect. Continuing E018/17 deaths/18 segments, Garfiel's first pass and Emilia's renewed first start are the reached state, not completed rescue/wager/Arc4.
+5. Continue prospectively through V14 and the admitted spine to active V43 without confirmation between ordinary units; source exhaustion is not published-series completion.
+6. Maintain master V1.15, architecture V1.14, protocol V1.13, schema V0.16 and the five sole owners. New narrative belongs in its next freeze/current owners before any later model reconciliation; model rules/probes are not new evidence.
+7. Acquire and integrity-audit V44/V45 before the read reaches that boundary. Their dated bibliographic awareness does not admit a witness or extend the authorized terminal.
+8. Keep supplemental/IF/WN/adaptation catalog awareness separate from narrative opening; establish source class and safe `H_pub`/`H_diegetic`/`H_route`/`H_final` before analytical use.
+9. Revisit a ledger/index/voice/ordinary/readiness split only for demonstrated independent burden, not artifact symmetry. Emilia/Garfiel interim readiness and existing relationship cases do not create whole-person models, final specialists or an arc-end checkpoint.
+10. Preserve exact source/holder/recipient/reference clarity, contrary instances and unsupported coordinates in all reconstruction; global discovery/capability surfaces remain their separately governed writers' responsibility.
 
 ## Bootstrap abstentions
 

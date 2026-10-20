@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: source_lock
 scope: SOURCE_ADMISSION_CONTRACT_AND_CURRENT_INVENTORY_STATE
-generation: V0.16
+generation: V0.17
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -447,6 +447,16 @@ V12's complete source-bound publication gate at `28c541b6c0f2c3c73a9f98f315424a5
 
 V14 and all separate non-spine narrative remain unopened. V13 §16's sixty V14 questions/ten forecasts were sealed after actual V13 EOF/before V14 and copied exactly into master; private seal SHA-256 `c851e05497b964d74e76480b50d0c4c2d150873c4b17e351b595a122cd069eb6`. Otto's earned V01–V13 model and separate fidelity review follow V13's complete publication gate and must complete their own full gate before V14 source; the prospect remains unchanged throughout. V13 becomes current authority only with its complete publication gate. Admission range, manifest/V41 exception and dated V44/V45 acquisition-gap assessment do not advance.
 
+## Post-V13 Otto model and scoped fidelity-review source boundary
+
+V13's complete source-bound publication gate closed before this earned separate construction. The integrated `05 Character Analysis/REZERO_OTTO_SUWEN_V01_V13_CHARACTER_MODEL.md` and `08 Audits and Manifests/REZERO_OTTO_SUWEN_V01_V13_FIDELITY_REVIEW.md` now compile admitted V01–V13 evidence. They add analytical use/review artifacts, not a primary witness, new volume consumption or narrative claim generation.
+
+Targeted original-Japanese reconciliation checks the earlier V05/V06 fear/commercial/receipt counterexamples, V09 ordinary inventory and bargaining tension, V10 care/role/ordinary limits, V11 actual E015 friendship/terminal harm, V12 offered hearing and V13 newly enacted partial friendship. V13's complete EPUB/image consumption belongs to the prior reading; this operation does not claim another full V01–V13 reread. Every selected witness retains its admitted manifest hash; no ISBN, individual Drive ID or new edition is invented.
+
+The model compiles 32 retrieval bundles/26 conditional rules/nine noncanonical probes. Its separately reported same-analyst, scoped nonblind nineteen-dimension documentary review is PASS_WITH_BOUND, not a blind benchmark, inherited Subaru grade or global capability assessment. Default is living E018 outside the tomb while Emilia begins the renewed first trial. Own cult-rescue debt, Subaru-only E015 history and current E018 reciprocity remain separate; undisclosed agreement contents, private preferences, infinite resources and unread outcomes remain bounded.
+
+All thirteen VNN freezes/two checkpoints, historical Subaru model/first audit, five specialist owners and 216 current V13 claim formulations remain unchanged. Source high-water stays V13. Both next-operation fields route V14 only after this operation's own full publication gate. The exact sixty-question/ten-forecast V14 prospect remains unchanged; V14 and all separate nonspine narrative stay unopened. Admission range, manifest/V41 exception, dated V44/V45 acquisition-gap assessment and active terminal V43 do not advance.
+
 ## Current source-state summary
 
 - **Acquired/admitted Japanese main LN:** V01-V43 continuous.
@@ -457,7 +467,7 @@ V14 and all separate non-spine narrative remain unopened. V13 §16's sixty V14 q
 - **Admitted IF/alternate route:** none.
 - **Admitted web novel:** none.
 - **Admitted anime/audiovisual:** none.
-- **Consumed into prospective main-LN analysis:** V01-V13; V13 becomes committed frozen authority with this transaction's complete exact-source publication gate; the complete V12 gate closed before V13 opening.
+- **Consumed into prospective main-LN analysis:** V01-V13; V13's complete publication gate closed before the separately scoped Otto model/review. Construction adds no source or narrative high-water.
 - **Next source acquisition priority:** Japanese V44 and V45 before the sequential read reaches that boundary.
-- **Next analytical operation:** `OTTO_V01_V13_MODEL_AND_FIDELITY_REVIEW` only after the complete V13 gate; its own complete gate precedes V14 source. The sixty-question/ten-forecast V14 prospect is already sealed and remains unchanged; V14 is unopened.
-- **Current execution state:** active continuous run/terminal V43 unchanged. Historical V01–V10 Subaru model/audit stays unchanged/default E013, not current E018 coverage; Otto construction is pending, not certified. E018 alive/seventeen deaths/eighteen segments; Garfiel's first passes and Emilia's renewed first begins. No death18/E019, repaired gate, complete secret-plan receipt, fulfilled wager, accepted formal Echidna bargain, second/third pass, barrier/mansion/Beatrice rescue, real-parent message, active IF-family, arc/series ending or adaptation finding is implied.
+- **Next analytical operation:** `V14` only after the Otto model/review operation's own complete publication gate. Its sixty-question/ten-forecast prospect remains exactly sealed; V14 is unopened.
+- **Current execution state:** active continuous run/terminal V43 unchanged. Historical V01–V10 Subaru model/audit stays unchanged/default E013, not current E018 coverage; Otto's bounded V01–V13 model/separate scoped review now exist with local PASS_WITH_BOUND, subject to their own full publication gate, not a global grade. E018 alive/seventeen deaths/eighteen segments; Garfiel's first passes and Emilia's renewed first begins. No death18/E019, repaired gate, complete secret-plan receipt, fulfilled wager, accepted formal Echidna bargain, second/third pass, barrier/mansion/Beatrice rescue, real-parent message, active IF-family, arc/series ending or adaptation finding is implied.

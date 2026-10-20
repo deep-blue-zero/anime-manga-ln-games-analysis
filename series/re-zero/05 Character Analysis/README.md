@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: character_analysis_contract
 scope: SOURCE_GROUNDED_CHARACTER_RECONSTRUCTION
-generation: V0.4
+generation: V0.5
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -21,18 +21,21 @@ Historical boundary: no character monograph was present through V03. V10's added
 | Person / horizon | First read and fidelity route | Binding scope |
 |---|---|---|
 | Natsuki Subaru, Japanese main LN V01–V10 | [Integrated model](REZERO_NATSUKI_SUBARU_V01_V10_CHARACTER_MODEL.md), then [separate first fidelity audit](../08%20Audits%20and%20Manifests/REZERO_CHARACTER_RECONSTRUCTION_FIDELITY_AUDIT.md) | MONOGRAPH_READY; local nineteen-dimension nonblind document audit PASS_WITH_BOUND. Bounded reuse subject to this operation's full publication gate, not an independent benchmark/global capability grade or cured person |
+| Otto Suwen, Japanese main LN V01–V13 | [Integrated model](REZERO_OTTO_SUWEN_V01_V13_CHARACTER_MODEL.md), then [separate scoped fidelity review](../08%20Audits%20and%20Manifests/REZERO_OTTO_SUWEN_V01_V13_FIDELITY_REVIEW.md) | MONOGRAPH_READY; local nineteen-dimension same-analyst nonblind document review PASS_WITH_BOUND, subject to this separate operation's full publication gate; no inherited/global grade or complete-series claim |
 
-Default is latest reached **terminal E013/death13**. A living action/dialogue task must explicitly select a supported preterminal phase and its knowledge, remembered history, recipient, role and resources. Current Rem cannot answer; generated Kenichi/Naoko are not real parents' present receipt; no E014 arrival, unobserved remedy, active IF-family biography or anime performance is supplied. The model compiles24 derived rules/28 evidence bundles/eight noncanonical probes; it adds no narrative source or canonical generated scene. Master §13 remains readiness owner and five specialist ledgers remain state authorities. Otto's newly earned construction is pending in the separate next operation below; no second reusable model exists yet.
+For the Subaru model, default is latest reached **terminal E013/death13**. A living action/dialogue task must explicitly select a supported preterminal phase and its knowledge, remembered history, recipient, role and resources. Current Rem cannot answer; generated Kenichi/Naoko are not real parents' present receipt; no E014 arrival, unobserved remedy, active IF-family biography or anime performance is supplied. The model compiles24 derived rules/28 evidence bundles/eight noncanonical probes; it adds no narrative source or canonical generated scene. Master §13 remains readiness owner and five specialist ledgers remain state authorities. Otto's different V01–V13 scope/default and separate publication gate are described below; neither model silently inherits the other's coverage.
 
 `../00 Frameworks and Methods/REZERO_CHARACTER_RECONSTRUCTION_PROTOCOL.md` is the controlling detailed protocol. It defines the seven-axis state selector, ordinary-life and relationship responsibilities, Japanese-register discipline, failure and negative controls, abstentions, unfamiliar probes, and the first mature-character fidelity audit. This README is the directory router and does not duplicate that contract.
 
-## Pending earned construction
+## Otto's bounded reconstruction and review
 
-Otto is now MONOGRAPH_READY for **V01–V13 construction**, not already modeled or fidelity-certified. V13 adds childhood language accommodation and family recipients, merchant competence and failure, Fulfhu attachment, mixed rescue/debt/friendship motives, costly current voluntary help and Japanese register changes to the older counterexamples. Master §13 owns that readiness judgment; unsupported private preferences, absent family, exact gift limits and later outcomes become abstentions.
+V13's qualitative threshold is now fulfilled by the integrated V01–V13 model and separate scoped review linked above. They select developmental language accommodation, family/merchant/Fulfhu relations, mixed motives, older fear/competence counterexamples and current partial friendship. The 32 bundles/26 conditional rules/nine noncanonical probes are a derived use surface, not new source or a second state ledger.
 
-After V13's complete publication gate, `OTTO_V01_V13_MODEL_AND_FIDELITY_REVIEW` reserves `REZERO_OTTO_SUWEN_V01_V13_CHARACTER_MODEL.md` here and `../08 Audits and Manifests/REZERO_OTTO_SUWEN_V01_V13_FIDELITY_REVIEW.md`. Neither file is created by the V13 tranche. Construct the latest living E018 outer-tomb default while Emilia begins the first trial, preserving Otto's partial knowledge rather than granting RBD/tea, his bodily costs, earlier phase overrides and recipient distinctions. A separately reported scoped nonblind nineteen-dimension review and its own full publication gate precede V14 source or reusable fidelity claims. The sealed V14 prospect stays unchanged throughout.
+Otto's default is **living E018 outside the tomb while Emilia begins her renewed first trial**, with actual bodily cost, partial crisis knowledge excluding RBD/tea and confidential allied terms. Earlier-phase overrides and the distinction between his own rescue debt, Subaru-only E015 friendship/death and fresh E018 reciprocity are mandatory. Unknown preferences, absent-family lives, secret agreement contents, exact gift limits and later outcomes remain abstentions.
 
-Emilia and Garfiel have named V10–V13 CHECKPOINT_READY interim scopes in master, not whole-person models or completed fourth-arc reconstructions. The existing Subaru model/audit remain historical and byte-unchanged; current V13 use requires explicit reconciliation with master and the five state owners. No new global capability grade, character-registry edit or additional evidence owner is implied.
+The separately reported nineteen-dimension review is PASS_WITH_BOUND at same-analyst/document level, without held-out source, independent runtime or global evaluator authority. Full exact-source publication remains separately required before V14. Source high-water remains V13 and its exact V14 prospect is unchanged; no future grade or source admission follows from artifact existence.
+
+Emilia/Garfiel keep their named V10–V13 interim CHECKPOINT_READY scopes, not whole-person models or a fourth-arc endpoint. The historical Subaru model/audit stays byte-unchanged with its own V01–V10 scope/default E013; that completed earlier operation is not pending again because Otto now has a separate gate. Current readiness stays in master §13 and five specialist owners retain state authority.
 
 ## Promotion threshold
 
