@@ -1,7 +1,7 @@
 {
   "schema": "konosuba.cohort20.receiving-and-provenance.v1",
   "recorded_utc": "2026-10-20T19:11:37.518747+00:00",
-  "status": "SEMANTIC_RECEIVING_COMPLETE_EXACT_CONTAINING_PUBLICATION_PENDING",
+  "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
   "scope": "Two distinct twelve-dimension Tier2 monographs,one revisable Tier1 Nerimaki profile,42-row individual/typed index and bounded native provenance. No model/test symmetry or full-program completion.",
   "prior_published_authority": {
     "source": "fdd72d658e75bf527f9b564118a39edaf5809caa",
@@ -269,5 +269,32 @@
   "historical_integrity_requirement": "Preserve66immutable/72historical,four scores,Dust14blanks/SI-SY28nulls,previous annotations/indices/models/first bodies and80unrelatedscratch. Adoption/preflight separately rechecks. No six StageDsuccessors authored.",
   "publication_gate_required": "Complete candidate delta review,exact-index author preflight,normal push/whole remote tree and changed bytes,source audit,housekeeping,final actual-source terminal reports/reporter/status and fresh published authority reload.",
   "designated_ownership": "No protected merge,executor activation,new source admission or designated global curator/evaluator output authorship.",
-  "full_program_complete": false
+  "full_program_complete": false,
+  "publication_pending_at_authorship_history": "SEMANTIC_RECEIVING_COMPLETE_EXACT_CONTAINING_PUBLICATION_PENDING",
+  "publication_gate_close": {
+    "source": "9449d4288becc31754e064ea8436a5c09145738a",
+    "tree": "a196360b13fe2709ce9aa2dd50c73d22f6ca2a3a",
+    "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_VILLAGE_PEERS_COHORT20_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "de75502f2c79eca24a3d821f6afa20a970384ff1ad94d18973ea5eda18c4a34e",
+    "source_run": 39482808547,
+    "housekeeping_run": 39483693612,
+    "final_run": 39483754414,
+    "full_tests_each": 385,
+    "published_project_paths": 1185,
+    "current_models": 28,
+    "no_independent_accuracy_or_confidence_gain": true
+  },
+  "published_authority_reload_sha256": "ad46c66745896868ab93dc558f9a207021adb975b98d7be1ad5d662da6723d1d",
+  "current_analytical_clarifications": [
+    {
+      "claim_id": "C20-CR04",
+      "status": "SEMANTIC_CLARIFICATION_RECEIVED_CONTAINING_PUBLICATION_PENDING",
+      "current_reading": "Farewell exchange reports apparent good effect of Megumin-made potion. No Dodonko production, ingredient labor, patient treatment or medical occupation established.",
+      "speaker_limit": "P433 assignment to Dodonko is contextual within Funifura/Dodonko exchange, not an explicit narrator name-tag.",
+      "observed_preparation_roles": "EXP01U037P93-98/P113-122 assigns actual ingredient assistance to Arue with Megumin.",
+      "patient_limit": "No independently observed diagnosis/cure from participant report.",
+      "erratum_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_VILLAGE_PEERS_MEDICINE_ATTRIBUTION_ERRATUM_01.md",
+      "new_model_test_or_confidence_credit": 0
+    }
+  ]
 }

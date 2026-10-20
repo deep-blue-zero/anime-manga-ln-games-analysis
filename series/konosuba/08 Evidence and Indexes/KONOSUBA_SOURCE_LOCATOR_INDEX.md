@@ -1903,3 +1903,8 @@ The [crew index](KONOSUBA_REX_SOPHIE_TERRY_EVIDENCE_INDEX.md) has 22 Rex,nine So
 Cohort20 retrieval is owned by the [village-peer individual index](KONOSUBA_VILLAGE_PEERS_EVIDENCE_INDEX.md), with 42 overlapping retrieval rows and [native provenance](KONOSUBA_VILLAGE_PEERS_NATIVE_PROVENANCE_01.json). Direct/report/imagined/conditional stages remain typed. Fifteen members/eight objects/2,535 unique known BASE slots plus one actual image are shared context, not a new full-source pass or independent-event denominator.
 
 [Funifura](../05%20Specialist%20Synthesis/KONOSUBA_FUNIFURA_CHARACTER_MONOGRAPH.md) and [Dodonko](../05%20Specialist%20Synthesis/KONOSUBA_DODONKO_CHARACTER_MONOGRAPH.md) have separate monographs; [Nerimaki](../05%20Specialist%20Synthesis/KONOSUBA_COHORT20_NERIMAKI_BOUNDED_PROFILE.md) has a bounded profile. MAIN14 C3 P166–192 is Arue writer evidence; C1 P358/370 and IMG026 are Nerimaki service/imagination evidence. Three Tier0 family/operator occurrence records retain exact report/identity limits.
+
+
+## C20-CR04 — apparent potion effect and actor attribution
+
+Current retrieval for cohort20 F08/D08 and repeated medicine wording includes the [external erratum](KONOSUBA_VILLAGE_PEERS_MEDICINE_ATTRIBUTION_ERRATUM_01.md). EXP02 U023 P433: apparent effect of Megumin-made potion; contextual peer speaker assignment, no direct narrator tag. EXP01 U037 P93–98/P113–122: Arue/Megumin actual preparation roles. Reuse of already received P90–125/P431–490 windows is 96 shared known BASE context slots/two members/two objects, not an additional event or new pass. All five sealed cohort20 cores retain their hashes.

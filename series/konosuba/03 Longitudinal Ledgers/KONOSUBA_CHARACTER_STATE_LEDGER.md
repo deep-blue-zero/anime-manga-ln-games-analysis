@@ -1726,3 +1726,8 @@ Known EXP03/CONTEXP02 BASE returns only:1,556 distinct context slots/six members
 Funifura and Dodonko each earn a separate revisable Tier2 monograph: attributable invitations, defenses, refusal, gift/medicine testimony and later social/tactical exchanges support distinct descriptive histories. No separate generative model is adopted. Nerimaki earns a Tier1 service/imagination/boundary profile; the named occupational writer is Arue, MAIN14 C3 P166–192, not Nerimaki. See [village-peer index](../08%20Evidence%20and%20Indexes/KONOSUBA_VILLAGE_PEERS_EVIDENCE_INDEX.md).
 
 F01–F15/D01–D13 retain pressure and repair, fear and persistence, skill claims and actual work as different states. Three new Tier0 records retain a reported brother, reported father/craftsman and unnamed MAIN14 operator; they are not final unique-person or independent-event increments. Existing state histories remain intact; current containing publication is pending.
+
+
+## C20-CR04 — apparent potion effect and actor attribution
+
+The compressed medicine wording records a farewell report about apparent effect of Megumin-made potion. It does not establish Dodonko making medicine or treating a patient. Her reported concern, defense and social choices retain their own evidence; Funifura and her brother remain separate. P433 attribution to Dodonko is contextual within the pair exchange, not an explicit narrator name-tag. The [medicine-attribution erratum](../08%20Evidence%20and%20Indexes/KONOSUBA_VILLAGE_PEERS_MEDICINE_ATTRIBUTION_ERRATUM_01.md) qualifies the sealed monographs/index without changing bytes or tiers. No new model/test or independent cure verification.

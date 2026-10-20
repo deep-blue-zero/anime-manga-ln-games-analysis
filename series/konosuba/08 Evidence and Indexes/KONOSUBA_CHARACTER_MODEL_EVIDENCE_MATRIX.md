@@ -1098,3 +1098,8 @@ Rex earns a provisional Tier3 [model](../06%20Character%20Modeling%20and%20Recon
 Cohort20 adds no model. Funifura and Dodonko each receive a revisable Tier2 monograph, with distinct histories and strong generic/collective-attribution rivals. Nerimaki receives a Tier1 bounded profile; occupational writer evidence belongs to Arue. Candidate total remains 28 model bodies/twenty-two scoped secondary model subjects; eighteen profiles and six monograph-only subjects (Nos, Rionor, Feit, Chomusuke, Funifura, Dodonko) retain different responsibilities.
 
 The [individual index](KONOSUBA_VILLAGE_PEERS_EVIDENCE_INDEX.md) and [provenance](KONOSUBA_VILLAGE_PEERS_NATIVE_PROVENANCE_01.json) own source access. No new test inputs, first bodies, independent accuracy, Japanese adequacy, grade or confidence gain is claimed. Containing publication pending; whole individual census, expanded specialists and six separate StageD successors remain open.
+
+
+## C20-CR04 — apparent potion effect and actor attribution
+
+The [external medicine erratum](KONOSUBA_VILLAGE_PEERS_MEDICINE_ATTRIBUTION_ERRATUM_01.md) removes any reading of medicine work as Dodonko medical production/career and qualifies P433 speaker-tag strength. Her Tier2 monograph remains supported by separate social choices, defense, refusal and reported outcomes; no model, rule, test input or first body is added. Current 28 models, twenty-two scoped secondary model subjects, eighteen profiles, six monograph-only subjects and 190 nonfinal records remain unchanged in count. No independent accuracy, grade or confidence gain.

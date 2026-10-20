@@ -1,8 +1,8 @@
 {
   "schema": "KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS_V1",
   "status": "INCREMENTAL_190_QUALIFIED_RECORDS_NOT_FINAL_INDIVIDUAL_DENOMINATOR",
-  "updated_utc": "2026-10-20T19:11:37.518747+00:00",
-  "scope": "Cohorts01-19 closed exact-source gates; cohort20 separate Funifura/Dodonko Tier2 monographs and Nerimaki Tier1 profile semantically received, containing publication pending. Candidate 28 model bodies/twenty-two scoped secondary model subjects, eighteen bounded profiles and six monograph-only subjects (Nos, Rionor, Feit, Chomusuke, Funifura, Dodonko). The 190 qualified records include groups, aliases and occurrences, not final unique people; final tiers/census/program open.",
+  "updated_utc": "2026-10-20T20:03:49.238645+00:00",
+  "scope": "Cohorts01-20 full exact-source gates remain closed at declared scopes. Focused C20-CR04 medicine-attribution clarification semantically received; containing publication pending. Counts remain190 nonfinal records,28 models/twenty-two scoped secondary model subjects,eighteen profiles and six monograph-only subjects; final census/tiers/program open.",
   "row_semantics": "Distinct qualified working subjects plus explicitly unresolved grouped/identity leads. A row is not automatically one final individual or an earned artifact. Old scope phrases remain their recorded history; the root current scope governs present admission status.",
   "artifact_architecture": "Use existing05 Specialist Synthesis for earned monographs and06 Character Modeling and Reconstruction for distinct mechanism models. Existing ledgers carry bounded profiles unless a separate responsibility is justified. Single current corpus map; curator-only global registry/index enrollment.",
   "rows": [
@@ -1513,12 +1513,12 @@
     {
       "character": "Funifura",
       "identity": "ふにふら; explicit own name corrections and individual turns; separate from Dodonko, Sakiberry and Nerimaki",
-      "likely_tier": "2 scoped monograph; future reconstruction remains open",
-      "priority": "Individual monograph received; exact publication pending",
+      "likely_tier": "2 scoped monograph; full gate closed; future model open",
+      "priority": "Scoped artifacts published; broader evidence review remains open",
       "evidence_distribution": "EXP01 friendship/money context and EXP02 farewell testimony received in full reports. MAIN11C3P65-105actualnative andIMG020view. MAIN14 C1P173-174/C4P41-49/79-85 full base-text context. CURRENT WORKING29: Complete MAIN11 report distinguishes bringing Komekko, village/war reports, assessment of Megumin's tactical fit and inquiry about Yunyun's male friends. Cohort20 shared native union: 2,535 known BASE context slots in fifteen members/eight objects plus one actual image; own index rows F01-F15. Known direct/report/imagined/collateral access retained; not new whole-source or independent credit.",
       "substantive_responsibility": "Sincerely accepted friendship offer, relation-valued hair tie and later statement that illness/medicine were real. Ownnamecorrections79-80andobjectiontopaired/disparagingtreatment84-85; distinctspecificfeatures94/96, broughtchild69underreportedescortpurpose95. No presumedYunyun/Cecilyidentityfromimage. CURRENT WORKING21: Correctly identified classmate distinct from Megumin's wrong names; actual recruitment/boundary intrusion has her own agency. Separate twelve-dimension monograph retains offer/gift discussion, physical pressure, specific apology, potion uncertainty, gift handover, task-fit/social appraisal and contrary evidence.",
       "gaps": "Collective dialogue, report-limited capacities and private costly tradeoffs remain open. Generic peer/status/family/narrator rivals strong; no automatic model or fixed secondary ceiling.",
-      "disposition_status": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_COHORT20_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER2_MONOGRAPH_COHORT20_PUBLISHED_FULL_GATE_CLOSED",
       "independent_observation_count": null,
       "prior_gap_history_working20": "New participant testimony changes later knowledge, not EXP01 earlier uncertainty. Individual financial/pressure acts need native attribution.",
       "current_scope_asof_working21": "MAIN01-13 full gates closed;MAIN14 published4e66641f andall9078remote paths/43changedstreams verified;actualsourceaudit running;MAIN15-17 excluded unadmitted.",
@@ -1536,17 +1536,45 @@
         "series/konosuba/05 Specialist Synthesis/KONOSUBA_FUNIFURA_CHARACTER_MONOGRAPH.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_VILLAGE_PEERS_EVIDENCE_INDEX.md"
       ],
-      "cohort20_semantic_receiving_sha256": "521928eaddb191173ca2ceda58db986ea0e7ca97027c65518d6c0f08a7e18730"
+      "cohort20_semantic_receiving_sha256": "521928eaddb191173ca2ceda58db986ea0e7ca97027c65518d6c0f08a7e18730",
+      "cohort20_publication_pending_at_authorship_history": {
+        "likely_tier": "2 scoped monograph; future reconstruction remains open",
+        "priority": "Individual monograph received; exact publication pending",
+        "disposition_status": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_COHORT20_PUBLICATION_PENDING"
+      },
+      "cohort20_publication_gate_close": {
+        "source": "9449d4288becc31754e064ea8436a5c09145738a",
+        "tree": "a196360b13fe2709ce9aa2dd50c73d22f6ca2a3a",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_VILLAGE_PEERS_COHORT20_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "de75502f2c79eca24a3d821f6afa20a970384ff1ad94d18973ea5eda18c4a34e",
+        "source_run": 39482808547,
+        "housekeeping_run": 39483693612,
+        "final_run": 39483754414,
+        "full_tests_each": 385,
+        "published_project_paths": 1185,
+        "current_models": 28,
+        "no_independent_accuracy_or_confidence_gain": true
+      },
+      "cohort20_medicine_current_qualification": {
+        "claim_id": "C20-CR04",
+        "status": "SEMANTIC_CLARIFICATION_RECEIVED_CONTAINING_PUBLICATION_PENDING",
+        "current_reading": "Farewell exchange reports apparent good effect of Megumin-made potion. No Dodonko production, ingredient labor, patient treatment or medical occupation established.",
+        "speaker_limit": "P433 assignment to Dodonko is contextual within Funifura/Dodonko exchange, not an explicit narrator name-tag.",
+        "observed_preparation_roles": "EXP01U037P93-98/P113-122 assigns actual ingredient assistance to Arue with Megumin.",
+        "patient_limit": "No independently observed diagnosis/cure from participant report.",
+        "erratum_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_VILLAGE_PEERS_MEDICINE_ATTRIBUTION_ERRATUM_01.md",
+        "new_model_test_or_confidence_credit": 0
+      }
     },
     {
       "character": "Dodonko",
       "identity": "どどんこ; explicit own name and tagged turns; separate from Funifura and Nerimaki",
-      "likely_tier": "2 scoped monograph; future reconstruction remains open",
-      "priority": "Individual monograph received; exact publication pending",
+      "likely_tier": "2 scoped monograph; full gate closed; future model open",
+      "priority": "Scoped artifacts published; broader evidence review remains open",
       "evidence_distribution": "EXP01 peer/rabbit episode and EXP02 farewell in complete reports. MAIN11C3P65-105actualnative andIMG020view. MAIN14 C1P173-174/C4P41-49/79-85 full base-text context. CURRENT WORKING29: Complete MAIN11 report distinguishes joint child escort, reported conflict and reciprocal social rivalry; individual speech attribution still needs precise native consolidation. Cohort20 shared native union: 2,535 known BASE context slots in fifteen members/eight objects plus one actual image; own index rows D01-D13. Known direct/report/imagined/collateral access retained; not new whole-source or independent credit.",
       "substantive_responsibility": "Peer pressure and her own specific stop requests/forced burden warrant a bounded profile. Ownnamecorrections79-80andobjectiontopaired/disparagingtreatment84-85; distinctspecificfeatures94/96, broughtchild69underreportedescortpurpose95. No presumedYunyun/Cecilyidentityfromimage. CURRENT WORKING21: Corrected classmate identity, actual recruitment and reactions; retained individual actor boundaries. Separate twelve-dimension monograph retains partner question, reported aspiration, defended illness, refusal under forced knife, medicine testimony and later qualification/relationship challenge.",
       "gaps": "Collective dialogue, report-limited capacities and private costly tradeoffs remain open. Generic peer/status/family/narrator rivals strong; no automatic model or fixed secondary ceiling.",
-      "disposition_status": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_COHORT20_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER2_MONOGRAPH_COHORT20_PUBLISHED_FULL_GATE_CLOSED",
       "independent_observation_count": null,
       "prior_gap_history_working20": "Do not transfer Funifura brother/medicine testimony or every peer act to her. Direct actor-specific source/voice evidence due.",
       "current_scope_asof_working21": "MAIN01-13 full gates closed;MAIN14 published4e66641f andall9078remote paths/43changedstreams verified;actualsourceaudit running;MAIN15-17 excluded unadmitted.",
@@ -1564,7 +1592,35 @@
         "series/konosuba/05 Specialist Synthesis/KONOSUBA_DODONKO_CHARACTER_MONOGRAPH.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_VILLAGE_PEERS_EVIDENCE_INDEX.md"
       ],
-      "cohort20_semantic_receiving_sha256": "521928eaddb191173ca2ceda58db986ea0e7ca97027c65518d6c0f08a7e18730"
+      "cohort20_semantic_receiving_sha256": "521928eaddb191173ca2ceda58db986ea0e7ca97027c65518d6c0f08a7e18730",
+      "cohort20_publication_pending_at_authorship_history": {
+        "likely_tier": "2 scoped monograph; future reconstruction remains open",
+        "priority": "Individual monograph received; exact publication pending",
+        "disposition_status": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_COHORT20_PUBLICATION_PENDING"
+      },
+      "cohort20_publication_gate_close": {
+        "source": "9449d4288becc31754e064ea8436a5c09145738a",
+        "tree": "a196360b13fe2709ce9aa2dd50c73d22f6ca2a3a",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_VILLAGE_PEERS_COHORT20_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "de75502f2c79eca24a3d821f6afa20a970384ff1ad94d18973ea5eda18c4a34e",
+        "source_run": 39482808547,
+        "housekeeping_run": 39483693612,
+        "final_run": 39483754414,
+        "full_tests_each": 385,
+        "published_project_paths": 1185,
+        "current_models": 28,
+        "no_independent_accuracy_or_confidence_gain": true
+      },
+      "cohort20_medicine_current_qualification": {
+        "claim_id": "C20-CR04",
+        "status": "SEMANTIC_CLARIFICATION_RECEIVED_CONTAINING_PUBLICATION_PENDING",
+        "current_reading": "Farewell exchange reports apparent good effect of Megumin-made potion. No Dodonko production, ingredient labor, patient treatment or medical occupation established.",
+        "speaker_limit": "P433 assignment to Dodonko is contextual within Funifura/Dodonko exchange, not an explicit narrator name-tag.",
+        "observed_preparation_roles": "EXP01U037P93-98/P113-122 assigns actual ingredient assistance to Arue with Megumin.",
+        "patient_limit": "No independently observed diagnosis/cure from participant report.",
+        "erratum_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_VILLAGE_PEERS_MEDICINE_ATTRIBUTION_ERRATUM_01.md",
+        "new_model_test_or_confidence_credit": 0
+      }
     },
     {
       "character": "Arnes",
@@ -2185,12 +2241,12 @@
     {
       "character": "Nerimaki / ねりまき",
       "identity": "ねりまき; selfnamed liquor-store owner daughter/future proprietor and tavern worker; distinct from Funifura/Dodonko and named writer Arue",
-      "likely_tier": "1 scoped bounded profile; deeper artifacts remain open",
-      "priority": "Individual profile and attributed writer correction received; exact publication pending",
+      "likely_tier": "1 scoped bounded profile; full gate closed; deeper artifacts open",
+      "priority": "Scoped artifacts published; broader evidence review remains open",
       "evidence_distribution": "MAIN14 complete principal2691base-textP; C1P358-414, corrected IMG011 and contributor IMG026. CURRENT WORKING31: Current complete MAIN13-MAIN16 accepted report review, receipts49-52; derivative claims retain original access planes. Targeted native confirmations are separately pinned, with no new whole-source/independent-test credit. C20 indexN01-N08 separates MAIN14C1service/imagination/harassment/scraping, actualIMG026 and named Arue writer context; YORI02P88 corroborates attribution only as participant report. Shared bounded union is not personal event count.",
       "substantive_responsibility": "Own news-for-service barter, actual food/milk provision, future business aspiration, social imagination, explicit harassment complaint, local invited action and continued material scraping through stop requests. Current correction: novelist/publication/pay/professional-defense material belongs to Arue (MAIN14C3P166-192), not Nerimaki; exact earlier wording preserved as history.",
       "gaps": "Concentrated context leaves wider work/private choices open. Image depicts her imagination, not performed intimacy/assent or her external authorship. Unnamed operator not explicitly biological father; no hidden service, complete consent, price or account settlement inferred.",
-      "disposition_status": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_COHORT20_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER1_PROFILE_COHORT20_PUBLISHED_FULL_GATE_CLOSED",
       "independent_observation_count": null,
       "prior_gap_history_working30": "Contributor imagination is not enacted intimacy or other's assent. No hidden episode or unshown services inferred. Bounded profile/monograph decision follows distinct needs, motives and limits, without an arbitrary event quota.",
       "current_scope_asof_working31": "All17 main excluded,19 supplemental and5mixed declared source programs remain closed. Current complete main analytical-derivative review is MAIN01-17 (MAIN17 received earlier out of order); receipts49-52 finishMAIN13-16. Later checkpoints/earlier prospective reconciliation/current ledger and separate supporting-register consolidation, final census/artifacts/expanded models/curation/release remain active. No new source/whole-native/ruby/image/independent-test credit from derivative receiving. Current157qualified audit rows are not final individual population; global percentage null.",
@@ -2207,7 +2263,25 @@
         "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT20_NERIMAKI_BOUNDED_PROFILE.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_VILLAGE_PEERS_EVIDENCE_INDEX.md"
       ],
-      "cohort20_semantic_receiving_sha256": "521928eaddb191173ca2ceda58db986ea0e7ca97027c65518d6c0f08a7e18730"
+      "cohort20_semantic_receiving_sha256": "521928eaddb191173ca2ceda58db986ea0e7ca97027c65518d6c0f08a7e18730",
+      "cohort20_publication_pending_at_authorship_history": {
+        "likely_tier": "1 scoped bounded profile; deeper artifacts remain open",
+        "priority": "Individual profile and attributed writer correction received; exact publication pending",
+        "disposition_status": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_COHORT20_PUBLICATION_PENDING"
+      },
+      "cohort20_publication_gate_close": {
+        "source": "9449d4288becc31754e064ea8436a5c09145738a",
+        "tree": "a196360b13fe2709ce9aa2dd50c73d22f6ca2a3a",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_VILLAGE_PEERS_COHORT20_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "de75502f2c79eca24a3d821f6afa20a970384ff1ad94d18973ea5eda18c4a34e",
+        "source_run": 39482808547,
+        "housekeeping_run": 39483693612,
+        "final_run": 39483754414,
+        "full_tests_each": 385,
+        "published_project_paths": 1185,
+        "current_models": 28,
+        "no_independent_accuracy_or_confidence_gain": true
+      }
     },
     {
       "character": "Moguninnin / 爆殺魔人もぐにんにん",
@@ -4116,7 +4190,7 @@
       "character": "Funifura younger brother (reported patient)",
       "identity": "Unseen family member identified through Funifura relationship, no personal name invented.",
       "likely_tier": "0 indexed incidental/family occurrence; future evidence review open",
-      "priority": "Source-bound incidental indexing",
+      "priority": "Indexed at published scoped boundary; identity/evidence gaps remain open",
       "evidence_distribution": "EXP01U034P102-107/U037P150-158;EXP02U023P433-440;indexI01.",
       "substantive_responsibility": "Reported illness defended and later fabrication denied; no new patient performance.",
       "gaps": "No direct patient choice, diagnosis, treatment outcome or cross-source name join.",
@@ -4125,14 +4199,43 @@
       "cohort20_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_VILLAGE_PEERS_EVIDENCE_INDEX.md"
       ],
-      "cohort20_publication_status": "SEMANTIC_RECEIVING_COMPLETE_CONTAINING_PUBLICATION_PENDING",
-      "cohort20_semantic_receiving_sha256": "521928eaddb191173ca2ceda58db986ea0e7ca97027c65518d6c0f08a7e18730"
+      "cohort20_publication_status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+      "cohort20_semantic_receiving_sha256": "521928eaddb191173ca2ceda58db986ea0e7ca97027c65518d6c0f08a7e18730",
+      "cohort20_publication_pending_at_authorship_history": {
+        "likely_tier": "0 indexed incidental/family occurrence; future evidence review open",
+        "priority": "Source-bound incidental indexing",
+        "disposition_status": "QUALIFIED_SOURCE_BOUND_INDIVIDUAL_OR_OCCURRENCE_NOT_FINAL_IDENTITY_POPULATION",
+        "cohort20_publication_status": "SEMANTIC_RECEIVING_COMPLETE_CONTAINING_PUBLICATION_PENDING"
+      },
+      "cohort20_publication_gate_close": {
+        "source": "9449d4288becc31754e064ea8436a5c09145738a",
+        "tree": "a196360b13fe2709ce9aa2dd50c73d22f6ca2a3a",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_VILLAGE_PEERS_COHORT20_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "de75502f2c79eca24a3d821f6afa20a970384ff1ad94d18973ea5eda18c4a34e",
+        "source_run": 39482808547,
+        "housekeeping_run": 39483693612,
+        "final_run": 39483754414,
+        "full_tests_each": 385,
+        "published_project_paths": 1185,
+        "current_models": 28,
+        "no_independent_accuracy_or_confidence_gain": true
+      },
+      "cohort20_medicine_current_qualification": {
+        "claim_id": "C20-CR04",
+        "status": "SEMANTIC_CLARIFICATION_RECEIVED_CONTAINING_PUBLICATION_PENDING",
+        "current_reading": "Farewell exchange reports apparent good effect of Megumin-made potion. No Dodonko production, ingredient labor, patient treatment or medical occupation established.",
+        "speaker_limit": "P433 assignment to Dodonko is contextual within Funifura/Dodonko exchange, not an explicit narrator name-tag.",
+        "observed_preparation_roles": "EXP01U037P93-98/P113-122 assigns actual ingredient assistance to Arue with Megumin.",
+        "patient_limit": "No independently observed diagnosis/cure from participant report.",
+        "erratum_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_VILLAGE_PEERS_MEDICINE_ATTRIBUTION_ERRATUM_01.md",
+        "new_model_test_or_confidence_credit": 0
+      }
     },
     {
       "character": "Funifura father (reported staff craftsman)",
       "identity": "Arue-reported father of Funifura; distinct from Hyoizaburoo and other craftsmen unless later proved.",
       "likely_tier": "0 indexed incidental/family occurrence; future evidence review open",
-      "priority": "Source-bound incidental indexing",
+      "priority": "Indexed at published scoped boundary; identity/evidence gaps remain open",
       "evidence_distribution": "EXP02U023P414-423;indexI02.",
       "substantive_responsibility": "Reported staff manufacture separate from Funifura actual handover and other contributors.",
       "gaps": "No watched workshop, individual voice, full occupation or independent decision.",
@@ -4141,14 +4244,33 @@
       "cohort20_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_VILLAGE_PEERS_EVIDENCE_INDEX.md"
       ],
-      "cohort20_publication_status": "SEMANTIC_RECEIVING_COMPLETE_CONTAINING_PUBLICATION_PENDING",
-      "cohort20_semantic_receiving_sha256": "521928eaddb191173ca2ceda58db986ea0e7ca97027c65518d6c0f08a7e18730"
+      "cohort20_publication_status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+      "cohort20_semantic_receiving_sha256": "521928eaddb191173ca2ceda58db986ea0e7ca97027c65518d6c0f08a7e18730",
+      "cohort20_publication_pending_at_authorship_history": {
+        "likely_tier": "0 indexed incidental/family occurrence; future evidence review open",
+        "priority": "Source-bound incidental indexing",
+        "disposition_status": "QUALIFIED_SOURCE_BOUND_INDIVIDUAL_OR_OCCURRENCE_NOT_FINAL_IDENTITY_POPULATION",
+        "cohort20_publication_status": "SEMANTIC_RECEIVING_COMPLETE_CONTAINING_PUBLICATION_PENDING"
+      },
+      "cohort20_publication_gate_close": {
+        "source": "9449d4288becc31754e064ea8436a5c09145738a",
+        "tree": "a196360b13fe2709ce9aa2dd50c73d22f6ca2a3a",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_VILLAGE_PEERS_COHORT20_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "de75502f2c79eca24a3d821f6afa20a970384ff1ad94d18973ea5eda18c4a34e",
+        "source_run": 39482808547,
+        "housekeeping_run": 39483693612,
+        "final_run": 39483754414,
+        "full_tests_each": 385,
+        "published_project_paths": 1185,
+        "current_models": 28,
+        "no_independent_accuracy_or_confidence_gain": true
+      }
     },
     {
       "character": "Unnamed MAIN14 tavern/lodging operator (identity unjoined)",
       "identity": "Source-bound welcome/explanation speaker; not explicitly Nerimaki biological father or another edition innkeeper.",
       "likely_tier": "0 indexed incidental/family occurrence; future evidence review open",
-      "priority": "Source-bound incidental indexing",
+      "priority": "Indexed at published scoped boundary; identity/evidence gaps remain open",
       "evidence_distribution": "MAIN14C1startP330-357, especially346/351/354;indexI03.",
       "substantive_responsibility": "Actual welcome/counter-seat offer and business-name explanation; designer story reported.",
       "gaps": "Name/family/other inn or restaurant joins open. Too concentrated for meaningful individual behavioral profile.",
@@ -4157,8 +4279,27 @@
       "cohort20_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_VILLAGE_PEERS_EVIDENCE_INDEX.md"
       ],
-      "cohort20_publication_status": "SEMANTIC_RECEIVING_COMPLETE_CONTAINING_PUBLICATION_PENDING",
-      "cohort20_semantic_receiving_sha256": "521928eaddb191173ca2ceda58db986ea0e7ca97027c65518d6c0f08a7e18730"
+      "cohort20_publication_status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+      "cohort20_semantic_receiving_sha256": "521928eaddb191173ca2ceda58db986ea0e7ca97027c65518d6c0f08a7e18730",
+      "cohort20_publication_pending_at_authorship_history": {
+        "likely_tier": "0 indexed incidental/family occurrence; future evidence review open",
+        "priority": "Source-bound incidental indexing",
+        "disposition_status": "QUALIFIED_SOURCE_BOUND_INDIVIDUAL_OR_OCCURRENCE_NOT_FINAL_IDENTITY_POPULATION",
+        "cohort20_publication_status": "SEMANTIC_RECEIVING_COMPLETE_CONTAINING_PUBLICATION_PENDING"
+      },
+      "cohort20_publication_gate_close": {
+        "source": "9449d4288becc31754e064ea8436a5c09145738a",
+        "tree": "a196360b13fe2709ce9aa2dd50c73d22f6ca2a3a",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_VILLAGE_PEERS_COHORT20_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "de75502f2c79eca24a3d821f6afa20a970384ff1ad94d18973ea5eda18c4a34e",
+        "source_run": 39482808547,
+        "housekeeping_run": 39483693612,
+        "final_run": 39483754414,
+        "full_tests_each": 385,
+        "published_project_paths": 1185,
+        "current_models": 28,
+        "no_independent_accuracy_or_confidence_gain": true
+      }
     }
   ],
   "working_row_count_not_population_denominator": 190,
@@ -4187,9 +4328,9 @@
     "Wolbach scoped conditional Tier3 and Chomusuke scoped Tier2 monograph cohort17 full publication gate closed; future modeling open and reliability provisional",
     "Sena/Arnes scoped conditional Tier3separate monographs/models cohort18 full publication gate closed; three/four rules,reliability provisional",
     "Rex scoped conditional Tier3 three-rule model/monograph and Sophie/Terry separate revisable Tier1 profiles cohort19 full publication gate closed; reliability provisional",
-    "Funifura/Dodonko cohort20 revisable Tier2 monographs, Nerimaki Tier1 bounded profile and three Tier0 report/occurrence records semantically received; exact containing publication pending; no new reconstruction."
+    "Funifura/Dodonko separate revisable Tier2 monographs, Nerimaki Tier1 profile with Arue attribution correction and three Tier0 occurrences cohort20 full publication gate closed; no new reconstruction."
   ],
-  "current_actual_individual_audit_scope": "Earlier 41 admitted source/report programs and literal/qualified ten-responsibility receiving retain their scopes. C20 union: 2,535 unique known BASE context slots in fifteen members/eight objects plus one actual afterword image, including other actors, blanks, reports and hypotheses. No new full-source/ruby/residual/image-set/admission or independent decision credit. Two Tier2 monographs/one Tier1 profile; zero new model/rule/input/first-body/test. Writer attribution corrected from Nerimaki to Arue with old field preserved. Three target existing rows/three new occurrence records; 184 others exact relative current. Carried C19 closure rows 51/52/53 make six existing rows differ from parent fdd72d65, 181 others exact. No independent accuracy, Japanese adequacy, grade or confidence gain; other private history stays separate.",
+  "current_actual_individual_audit_scope": "C20-CR04 qualifies medicine work as participant report of apparent effect of Megumin-made potion, not Dodonko production/treatment/occupation. P433 speaker assignment contextual, not directly narrator-tagged. Qualified reuse of96 already received known BASE slots/two members/two objects;zero new primary pass/admission/independent cure test. Rows48/49/187 qualified,187 others exact relative current; carried C20closure makes six rows differ from parent9449d428,184 others exact. All five sealed C20cores and28models unchanged; full census and program unfinished.",
   "historical_integrity": "MG02-I01/I02 through MG05, original blank fields, CP outcomes, letters-as-NT and preYORI04SEC01 scope remain unchanged. New source-known comparisons are retrospective; hypotheticals are not source validation.",
   "current_receipt_pins": [
     {
@@ -6065,7 +6206,7 @@
     "updated_utc": "2026-10-20T17:44:03.663249+00:00",
     "scope": "Cohorts01-18 have closed exact-source gates at declared scopes: twenty-one scoped secondary conditional-model subjects/27model bodies,fifteen bounded profiles and four Tier2monograph-only Nos,Rionor,Feit,Chomusuke.187qualifiedrecords include groups,aliases and occurrence slots,not final unique people. Reliability remains provisional; full census/final tiers/program open."
   },
-  "canonical_status": "Cohort20 five new cores semantically received; exact containing publication pending. Existing rows 48/49/85 and three new Tier0 occurrence records adopted; 184 other existing rows exact relative current. Full census/final tiers/program open.",
+  "canonical_status": "Cohort20 published boundary closed; focused external medicine wording/speaker attribution clarification received, exact containing publication pending. No frozen core edit or tier/model/test change.",
   "cohort19_current_receiving": {
     "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
     "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_REX_SOPHIE_TERRY_COHORT_19_RECEIVING_AND_PROVENANCE.json",
@@ -6187,7 +6328,7 @@
     "working_row_count_not_population_denominator": 187
   },
   "cohort20_current_receiving": {
-    "status": "SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+    "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
     "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_VILLAGE_PEERS_COHORT_20_RECEIVING_AND_PROVENANCE.json",
     "semantic_receiving_sha256": "521928eaddb191173ca2ceda58db986ea0e7ca97027c65518d6c0f08a7e18730",
     "candidate_models": 28,
@@ -6221,6 +6362,117 @@
       53,
       85
     ],
-    "untouched_existing_rows_relative_parent": 181
+    "untouched_existing_rows_relative_parent": 181,
+    "publication_gate_close": {
+      "source": "9449d4288becc31754e064ea8436a5c09145738a",
+      "tree": "a196360b13fe2709ce9aa2dd50c73d22f6ca2a3a",
+      "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_VILLAGE_PEERS_COHORT20_PUBLICATION_GATE_CLOSE.json",
+      "gate_sha256": "de75502f2c79eca24a3d821f6afa20a970384ff1ad94d18973ea5eda18c4a34e",
+      "source_run": 39482808547,
+      "housekeeping_run": 39483693612,
+      "final_run": 39483754414,
+      "full_tests_each": 385,
+      "published_project_paths": 1185,
+      "current_models": 28,
+      "no_independent_accuracy_or_confidence_gain": true
+    }
+  },
+  "cohort20_pending_at_authorship_current_metadata": {
+    "scope": "Cohorts01-19 closed exact-source gates; cohort20 separate Funifura/Dodonko Tier2 monographs and Nerimaki Tier1 profile semantically received, containing publication pending. Candidate 28 model bodies/twenty-two scoped secondary model subjects, eighteen bounded profiles and six monograph-only subjects (Nos, Rionor, Feit, Chomusuke, Funifura, Dodonko). The 190 qualified records include groups, aliases and occurrences, not final unique people; final tiers/census/program open.",
+    "canonical_status": "Cohort20 five new cores semantically received; exact containing publication pending. Existing rows 48/49/85 and three new Tier0 occurrence records adopted; 184 other existing rows exact relative current. Full census/final tiers/program open.",
+    "current_actual_individual_audit_scope": "Earlier 41 admitted source/report programs and literal/qualified ten-responsibility receiving retain their scopes. C20 union: 2,535 unique known BASE context slots in fifteen members/eight objects plus one actual afterword image, including other actors, blanks, reports and hypotheses. No new full-source/ruby/residual/image-set/admission or independent decision credit. Two Tier2 monographs/one Tier1 profile; zero new model/rule/input/first-body/test. Writer attribution corrected from Nerimaki to Arue with old field preserved. Three target existing rows/three new occurrence records; 184 others exact relative current. Carried C19 closure rows 51/52/53 make six existing rows differ from parent fdd72d65, 181 others exact. No independent accuracy, Japanese adequacy, grade or confidence gain; other private history stays separate.",
+    "scoped_tiers_assigned": [
+      "Iris cohort01 full publication gate closed",
+      "Yunyun cohort02 full publication gate closed",
+      "Vanir overallcohort03 full publication gate closed",
+      "Wiz overallcohort04 full publication gate closed",
+      "Chris/Eris overallcohort05 full publication gate closed",
+      "Dust overallcohort06 full publication gate closed",
+      "Komekko overallcohort07 full publication gate closed",
+      "Hoost overallcohort08 full publication gate closed",
+      "Levi overallcohort09 full publication gate closed",
+      "Nos cohort10 Tier2 monograph full publication gate closed; no distinct model",
+      "Claire cohort11 scopedTier3 full publication gate closed",
+      "Rain cohort11 scopedTier3 full publication gate closed",
+      "Luna cohort12 scopedTier3 full publication gate closed",
+      "Cecily/Zesta scopedTier3 and Tristan/reporting-priest Tier1 cohort13 full publication gate closed",
+      "Four clergy/merchant scopedTier1 profiles cohort14 full publication gate closed",
+      "Leen/Keith/Taylor cohort15 scoped conditional Tier3 full publication gate closed; reliability provisional",
+      "Lolisa scoped conditional Tier3 and Rionor/Feit scoped Tier2 monographs cohort16 full publication gate closed; future modeling open and reliability provisional",
+      "Wolbach scoped conditional Tier3 and Chomusuke scoped Tier2 monograph cohort17 full publication gate closed; future modeling open and reliability provisional",
+      "Sena/Arnes scoped conditional Tier3separate monographs/models cohort18 full publication gate closed; three/four rules,reliability provisional",
+      "Rex scoped conditional Tier3 three-rule model/monograph and Sophie/Terry separate revisable Tier1 profiles cohort19 full publication gate closed; reliability provisional",
+      "Funifura/Dodonko cohort20 revisable Tier2 monographs, Nerimaki Tier1 bounded profile and three Tier0 report/occurrence records semantically received; exact containing publication pending; no new reconstruction."
+    ],
+    "cohort20_current_receiving": {
+      "status": "SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_VILLAGE_PEERS_COHORT_20_RECEIVING_AND_PROVENANCE.json",
+      "semantic_receiving_sha256": "521928eaddb191173ca2ceda58db986ea0e7ca97027c65518d6c0f08a7e18730",
+      "candidate_models": 28,
+      "candidate_scoped_secondary_model_subjects": 22,
+      "bounded_profiles": 18,
+      "monograph_only_subjects": [
+        "Nos",
+        "Rionor",
+        "Feit",
+        "Chomusuke",
+        "Funifura",
+        "Dodonko"
+      ],
+      "records_not_final_people": 190,
+      "changed_rows": [
+        48,
+        49,
+        85
+      ],
+      "untouched_existing_rows_relative_current": 184,
+      "new_rows": [
+        187,
+        188,
+        189
+      ],
+      "parent_changed_existing_rows": [
+        48,
+        49,
+        51,
+        52,
+        53,
+        85
+      ],
+      "untouched_existing_rows_relative_parent": 181
+    },
+    "updated_utc": "2026-10-20T19:11:37.518747+00:00"
+  },
+  "cohort20_publication_resolution": {
+    "source": "9449d4288becc31754e064ea8436a5c09145738a",
+    "tree": "a196360b13fe2709ce9aa2dd50c73d22f6ca2a3a",
+    "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_VILLAGE_PEERS_COHORT20_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "de75502f2c79eca24a3d821f6afa20a970384ff1ad94d18973ea5eda18c4a34e",
+    "source_run": 39482808547,
+    "housekeeping_run": 39483693612,
+    "final_run": 39483754414,
+    "full_tests_each": 385,
+    "published_project_paths": 1185,
+    "current_models": 28,
+    "no_independent_accuracy_or_confidence_gain": true
+  },
+  "prior_current_metadata_before_C20_CR04": {
+    "scope": "Cohorts01-20 closed exact-source gates at declared scopes: twenty-two scoped secondary conditional-model subjects / 28 model bodies, eighteen bounded profiles and six Tier2 monograph-only subjects (Nos, Rionor, Feit, Chomusuke, Funifura, Dodonko). The 190 qualified records include groups, aliases and occurrences, not final unique people. Reliability remains provisional; full census/final tiers/program remain open.",
+    "canonical_status": "Cohort20 full exact-source gate and fresh authority reload closed; separate Funifura/Dodonko monographs, Nerimaki profile/attributed Arue correction and three Tier0 records published. All wider program responsibilities active.",
+    "current_actual_individual_audit_scope": "Cohort20 full gate/fresh reload closed. The 2,535 known BASE context slots/fifteen members/eight objects plus one actual image retain bounded access, not new whole-source/ruby/residual/image-set/admission/independent credit. Six local gate-status rows 48/49/85/187/188/189 change relative published 9449d428, 184 other records exact. No new model/rule/input/first-body/test. Group speech, report-limited capacity, private-reasoning gaps and generic peer/family/status rivals retained. Writer role attributed to Arue with exact earlier field preserved. No independent accuracy,Japanese adequacy,grade or confidence gain.",
+    "updated_utc": "2026-10-20T19:40:05.958093+00:00"
+  },
+  "cohort20_medicine_clarification_current": {
+    "status": "SEMANTIC_CLARIFICATION_COMPLETE_CONTAINING_PUBLICATION_PENDING",
+    "erratum_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_VILLAGE_PEERS_MEDICINE_ATTRIBUTION_ERRATUM_01.md",
+    "receiving_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_VILLAGE_PEERS_MEDICINE_CLARIFICATION_01_RECEIVING_AND_PROVENANCE.json",
+    "semantic_receiving_sha256": "b5a58d19da008c1faf946cbb88b04bda2e7bc6553efa548fbf76f0b745697ce6",
+    "target_rows": [
+      48,
+      49,
+      187
+    ],
+    "untouched_current_rows": 187,
+    "no_frozen_edits_new_models_or_tests": true
   }
 }

@@ -1331,3 +1331,8 @@ Known EXP03/CONTEXP02 BASE returns only:1,556 distinct context slots/six members
 Funifura's reported hair-tie gift, current replacement offer, lunch/walk invitations and actual staff handover distinguish offered, valued and completed stages. Dodonko's conversational initiative, reported sword-hero aspiration and medicine work supply different ordinary concerns. Untagged restaurant orders do not fix either girl's enduring food preference; birthday promise is not a completed later gathering.
 
 Nerimaki's actual service/news bargain and future-proprietor claim support work and aspiration, not current ownership or novel authorship. Aigis requests milk and labels a fragment payment; Nerimaki returns with milk, and Kazuma eventually receives it. Provider/requester/payer/recipient and claimed price/account settlement remain distinct. No complete household budget or hidden service is inferred. [village-peer index](../08%20Evidence%20and%20Indexes/KONOSUBA_VILLAGE_PEERS_EVIDENCE_INDEX.md)
+
+
+## C20-CR04 — apparent potion effect and actor attribution
+
+The earlier medicine work phrase must not be read as Dodonko household/occupational medical labor. The farewell exchange reports apparent efficacy of Megumin-made potion, with a contextual speaker assignment; it does not show Dodonko making it. Arue/Megumin ingredient work, Funifura family concern, the patient report and later gifts remain different activities. The [medicine-attribution erratum](../08%20Evidence%20and%20Indexes/KONOSUBA_VILLAGE_PEERS_MEDICINE_ATTRIBUTION_ERRATUM_01.md) supplies the current qualification. No career or unshown treatment is added.
