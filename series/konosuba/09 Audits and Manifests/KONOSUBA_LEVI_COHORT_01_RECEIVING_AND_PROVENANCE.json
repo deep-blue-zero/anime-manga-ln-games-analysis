@@ -2,7 +2,7 @@
   "schema": "KONOSUBA_LEVI_COHORT09_RECEIVING_AND_PROVENANCE_V1",
   "recorded_utc": "2026-10-20T06:13:07.283554+00:00",
   "source_boundary": "de46f030039b8420d18756dc3d88e59aa1adf5f8",
-  "status": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_CONTAINING_PUBLICATION_GATE_PENDING",
+  "status": "SCOPED_SEMANTIC_AND_FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
   "subject": "Levi / Revi / レヴィ",
   "tier": "Scoped3, provisional predictive reliability",
   "current_model_bodies": 15,
@@ -188,5 +188,24 @@
   "publication": "Exact candidate review/preflight/nonforced push/remote entire tree+changed blobs/source audit/HK/final actual-source audit/status/fresh reload remain required. Prior de46 audit does not certify this candidate.",
   "designated_ownership": "No curator/evaluator or five global housekeeping outputs authored. New eligible discovery may lag; no existing evidence reference invalidated.",
   "remaining": "Full all-individual/event/alias/incidental dispositions, further earned artifacts, seven expanded specialists and extended/full-series syntheses, six separate StageD principal-party-transfer revisions, designated curation/evaluation/integration and component/release/final-entry audits.",
-  "full_program_complete": false
+  "full_program_complete": false,
+  "publication_pending_status_at_authorship": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_CONTAINING_PUBLICATION_GATE_PENDING",
+  "publication_resolution": {
+    "status": "SCOPED_TIER3_FULL_EXACT_SOURCE_GATE_CLOSED",
+    "source": "02a355704ac14db3455f1f738c92a6c576e78746",
+    "tree": "6b6e5af77b4c7f1bbe54b567f5d72a4e5c3da046",
+    "closed_utc": "2026-10-20T06:31:03.624178+00:00",
+    "gate_path": "09 Audits and Manifests/KONOSUBA_LEVICOHORT01_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "dc8ca3f71a3c6c9ecf565da32c2ac18f605ef6aedf3e3de32bdbff28a34d6f07",
+    "source_run": 39379825295,
+    "housekeeping_run": 39380153236,
+    "final_run": 39380197761,
+    "all_remote_paths": 9215,
+    "all_changed_streams": 29,
+    "full_tests_source_and_final": 385,
+    "fresh_project_reload_paths": 1039,
+    "nine_scoped_model_subjects_six_bounded_profiles_fifteen_models": true,
+    "full_program_complete": false
+  },
+  "published_authority_reload_sha256": "d3f1e85cb7c3f7a768698da1c07f20ec1fefc1c47dbc44bf62048f9e4fe2b8a4"
 }

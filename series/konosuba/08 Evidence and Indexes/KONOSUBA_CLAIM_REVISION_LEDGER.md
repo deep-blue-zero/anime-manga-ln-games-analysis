@@ -241,3 +241,14 @@ Read this current qualification with the preserved index; the unknown-voice excl
 | CR-SECONDARY-TRPG-REPLAY-PC-001 | SPLIT_WORKING_SOURCE_PLANE_IDENTITIES | Core/Advanced explicitly continue Gilbert, Suzuki Chiho/Chio, Otohime, Temiren and separately add21. The old grouped row remains historical; players/GM/PC/narration/optional/main counterparts are distinct. Substantial2–3 candidacy stays open, with no appearance quota or Tier1 ceiling. |
 
 These are current attributed working/analytical revisions. Earlier source reports, full original annotations, all frozen historical bodies, previous claim-ledger prefix and exact first responses stay preserved. No unresolved causal disagreement is silently adjudicated.
+
+
+## Cohort10 — Nos identity and source-plane corrections — 2026-10-20T06:58:02.053067+00:00
+
+| Stable revision | Transition | Current qualification and preservation |
+|---|---|---|
+| CR-SECONDARY-NOS-001 | JOIN_HIGH_CONFIDENCE_EPISODES_AND_EXPAND_TIER2 | MAIN17U011P452/560–586 andDUST07U013P205–239 share specific name/role, displacement, armor, police destination and castle complaint cues. One qualified subject, with an episode alias route/history retained. Tier2 monograph earned; no automatic model or final population count. |
+| CR-SECONDARY-MAIN03-PERFORMER-001 | REVISE_SOURCE_PLANE_AND_DOWNGRADE_COMPLETED_OUTCOME_CERTAINTY | [External qualification](../09%20Audits%20and%20Manifests/KONOSUBA_MAIN03_PERFORMER_OUTCOME_AND_SOURCE_PLANE_QUALIFICATION_01.json) preserves report163/167/382/hash. NativeU017P566/630–633 gives reports, visible props and inference; performed departure/completed farm work/permanent career collapse are not established. Reported distress and serious externality remain. |
+| CR-SECONDARY-MAIN16-INCIDENTAL-001 | CONSOLIDATE_BOUNDED_AND_INDEXED_ACTORS | MAIN16U023P1–60 gives Pierre and mother narrow profiles, helperTier0index. Reported child benefit/Teleport do not become an independent clinical test/witnessed spell. Shared occupation does not establish MAIN03performer/Pierre alias or distinct-person certainty. |
+
+All previous ledger bytes, original annotations, frozen reports/models/forecasts/outcomes/scorecards and blank/null fields remain exact. Source-known reinterpretation is current attributable work, not a new prospective generation or evidence of model accuracy.

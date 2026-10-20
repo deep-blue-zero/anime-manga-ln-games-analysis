@@ -1382,3 +1382,14 @@ Source-known admitted EXP01/03: prior eighteen actually read integral image-pros
 | L09-CC02 | EXP03U013P148–265/362–498 | Raizu shields, Raina throws knives/warns, Ain adjusts geography, Rod fights/revises, Tomas heals/detects scale, Jack supplies ranged kills. | One underlying trial sequence is not six tests of a shared persona; refusal can concern practical fit after real recognized talent. |
 
 Known admitted-source retrospective consolidation; no new source admission, whole-source/ruby/image/independent-test credit. Exact earlier ledger bytes remain the prefix. Frozen forecasts, failures, scores and blank/null fields remain unchanged.
+
+
+## Cohort10 — skill, information and exported danger — 2026-10-20T06:58:02.053067+00:00
+
+| ID | Source | Supported capability and limit |
+|---|---|---|
+| N10-CC01 | MAIN17U011P403–591;DUST07U013P205–260 | Nos's strong guard/attack and actual trap inference coexist with voice deception and failed expected resistance. Missing armor changes defense; exact enchantment mechanism remains Aqua hypothesis. Lightning briefly affects him without deciding combat. |
+| N10-CC02 | MAIN17U011P560–586 → DUST07U013P205–254 | Kazuma removes the immediate opponent and states a police destination; later actual injured police require Dust intervention. Institutional title is no proof of safe adequate handoff; later jailing remains unshown. |
+| N10-CC03 | MAIN03U017P566/630–633;MAIN16U023P14–50 | Reported impressive Aqua performance affects livelihood/crowd expectations; Pierre actual act and attempted correction have local costs. No independent career ranking, permanent career collapse or verified helper destination. |
+
+Retrospective known-source consolidation; exact previous ledger bytes remain the prefix. No new whole-source/ruby/image/admission/independent-test credit or changed historical forecast, score or blank/null field.

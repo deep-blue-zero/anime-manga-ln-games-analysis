@@ -1,0 +1,248 @@
+{
+  "schema": "KONOSUBA_NOS_AND_INCIDENTAL_COHORT10_RECEIVING_AND_PROVENANCE_V1",
+  "recorded_utc": "2026-10-20T07:02:46.042359+00:00",
+  "source_boundary": "02a355704ac14db3455f1f738c92a6c576e78746",
+  "status": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_CONTAINING_PUBLICATION_GATE_PENDING",
+  "Nos_tier": 2,
+  "new_model_bodies": 0,
+  "fifteen_current_models_exact": [
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_AQUA_RECONSTRUCTION_MODEL.md",
+      "bytes": 64491,
+      "sha256": "2f63ef1000c74a2bf105c3cfbbd4258f39e8abe9cf1544fac25768673f17c430"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CHRIS_ERIS_RECONSTRUCTION_MODEL.md",
+      "bytes": 24777,
+      "sha256": "213de30d6bfab2fb3a9d2c47c2158b6425a598814b92caa855913f08bd997083"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+      "bytes": 51278,
+      "sha256": "3bec39a1014c50c6704e920b076076ecd2d82ffab0f987fd379844cc68783ee1"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_DARKNESS_RECONSTRUCTION_MODEL.md",
+      "bytes": 62581,
+      "sha256": "e54f45b3aaa74197e76ec917888416b08683ef2b7194586ba060b93979e78bc9"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_DUST_RECONSTRUCTION_MODEL.md",
+      "bytes": 20922,
+      "sha256": "3ef260ea7a64f350c8c09448020a96e18ed0eed75af5acd417193805bff8655f"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_HOOST_RECONSTRUCTION_MODEL.md",
+      "bytes": 25873,
+      "sha256": "e973e7f325238ab71fa0e10e3588d32c8fc3bf03dd827bb32e9120789c4742c7"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_IRIS_RECONSTRUCTION_MODEL.md",
+      "bytes": 20464,
+      "sha256": "75afb94b5723af3620ea5fabe1d8a7c742645bb56de938c605a3d11999a42c29"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+      "bytes": 61516,
+      "sha256": "6fe7b325666e339ed86edba70f8d1f9491705f66a6ecdc31eeb44a5bed7a89e4"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_KOMEKKO_RECONSTRUCTION_MODEL.md",
+      "bytes": 21826,
+      "sha256": "0be5bfa9097547a3d705b5a8216dd395f714382b65f6fa4cad499504641065c0"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_LEVI_RECONSTRUCTION_MODEL.md",
+      "bytes": 23809,
+      "sha256": "dd3b48dba631c87e7c0fe604f0cb5a94dd618e5e77b9d2c781491b6c7b7b3c46"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_MEGUMIN_RECONSTRUCTION_MODEL.md",
+      "bytes": 60891,
+      "sha256": "cbff1ec4266e8d6908b3d58af9870aa7f981fe40f3a573ed29da345e1f1d801f"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_PARTY_INTERACTION_MODEL.md",
+      "bytes": 67885,
+      "sha256": "cf2082e63718e1c51c171fb9225b0be5da603c1e85900f397c36e233af6d3f8e"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_VANIR_RECONSTRUCTION_MODEL.md",
+      "bytes": 25561,
+      "sha256": "081b6bef4df5584837d2a6fb565f746aa3d9c00a3c925c592596d2d3bb3186df"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_WIZ_RECONSTRUCTION_MODEL.md",
+      "bytes": 24361,
+      "sha256": "b8248785ff01251738798121a3ac1eea06b576913c1ea436e97fc22720146b89"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_YUNYUN_RECONSTRUCTION_MODEL.md",
+      "bytes": 25474,
+      "sha256": "4565a9089c9bac6c6f694469f27920d26f9ab1b44275c62c7160692575c765eb"
+    }
+  ],
+  "scoped_Tier3_subjects_unchanged": 9,
+  "new_bounded_profiles": 3,
+  "new_Tier0_scene_index": 1,
+  "existing_episode_alias_not_an_extra_person": true,
+  "artifacts": [
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_NOS_CHARACTER_MONOGRAPH.md",
+      "bytes": 14985,
+      "sha256": "ad1c946cfc8090b5f8b064819e9e72c0f9d59f6a5d9f61743771e5cb06efd7e4"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_NOS_EVIDENCE_INDEX.md",
+      "bytes": 8640,
+      "sha256": "b6cbf367d6e63f73756ac7046aa242d4179a9a6dbd219a11b37fde298953d284"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_NOS_NATIVE_AND_DERIVATIVE_PROVENANCE_01.json",
+      "bytes": 3439,
+      "sha256": "bbf763b0fe27a9686ba954271261c49a9f8e2ce43030d47e8ba7649e627f69bd"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN03_PERFORMER_OUTCOME_AND_SOURCE_PLANE_QUALIFICATION_01.json",
+      "bytes": 5323,
+      "sha256": "9834227f9304862715f10f205a898865cb8e61d0053eb01ea87bd5da86caedc8"
+    }
+  ],
+  "semantic_receiving": {
+    "schema": "KONOSUBA_COHORT10_SEMANTIC_NAME_REFERENCE_RECEIVING_V1",
+    "recorded_utc": "2026-10-20T06:54:31.668336+00:00",
+    "source_boundary": "02a355704ac14db3455f1f738c92a6c576e78746",
+    "status": "PRIVATE_SUBSTANTIVE_RECEIVING_CANONICAL_ADOPTION_AND_PUBLICATION_PENDING",
+    "actual_native_receiving_sha256": "93f7ab7ba104b66f1c83ed6f26df0e30e111797210f47b550e99b207236b0cbe",
+    "actual_scope": "Known admitted sources,526BASEcontextslots across five members;375Nos context slots and151performer/mother/helper context slots, overlappingMAIN17P71-72 counted once. Not a new global unique-reading total, whole principal/ruby/image/admission or independent test.",
+    "current_drafts": [
+      {
+        "file": "NOS_CHARACTER_MONOGRAPH_DRAFT_01.md",
+        "bytes": 14973,
+        "sha256": "0708c7085e149771cc591896491acb9238c230b742b550293bd52de3ad371d3b"
+      },
+      {
+        "file": "NOS_CHARACTER_MONOGRAPH_DRAFT_02.md",
+        "bytes": 14985,
+        "sha256": "ad1c946cfc8090b5f8b064819e9e72c0f9d59f6a5d9f61743771e5cb06efd7e4"
+      },
+      {
+        "file": "NOS_EVIDENCE_INDEX_DRAFT_01.md",
+        "bytes": 8640,
+        "sha256": "b6cbf367d6e63f73756ac7046aa242d4179a9a6dbd219a11b37fde298953d284"
+      },
+      {
+        "file": "COHORT10_BOUNDED_PROFILES_DRAFT_01.md",
+        "bytes": 2845,
+        "sha256": "89c0f362d6a199d8c0cb1ed70f67ea7ca3d250c7d98c9c267dc6542366ee07aa"
+      },
+      {
+        "file": "KONOSUBA_MAIN03_PERFORMER_OUTCOME_AND_SOURCE_PLANE_QUALIFICATION_01.json",
+        "bytes": 5323,
+        "sha256": "9834227f9304862715f10f205a898865cb8e61d0053eb01ea87bd5da86caedc8"
+      },
+      {
+        "file": "NOS_NATIVE_AND_DERIVATIVE_PROVENANCE_01.json",
+        "bytes": 3439,
+        "sha256": "bbf763b0fe27a9686ba954271261c49a9f8e2ce43030d47e8ba7649e627f69bd"
+      }
+    ],
+    "semantic_scope": "Full authored Nos monograph02/index01 and all bounded profiles, introduction/substantial middle/conclusion/every major relationship; actor/source planes, rule outcomes, limits and returns compared with actual listed native views.",
+    "material_name_reference_findings": [
+      {
+        "classification": "JUSTIFIED_ROLE_REFERENCE",
+        "finding": "Nos/ノス is source-named. Joined identity is a high-confidence multi-cue cross-source inference; exact species remains uncertain and two episode rows do not imply two people."
+      },
+      {
+        "classification": "KNOWLEDGE_BOUNDARY_REQUIRED",
+        "finding": "Real Nos U011 speech/actions remain separate from Kazuma false Pain voice and later Nos disguise. Mammon role-coaching comment is attributed prior history, not a real Nos turn."
+      },
+      {
+        "classification": "KNOWLEDGE_BOUNDARY_REQUIRED",
+        "finding": "Castle transfer/stated destination, Dust police-front aftermath and his expected cell differ; no watched jailing or armor-law proof. Aqua580 remains a hypothesis."
+      },
+      {
+        "classification": "SOURCE_REQUIRED_ANONYMITY",
+        "finding": "MAIN03 performer, MAIN16mother/helper remain unnamed. Pierre self-names; shared occupation supplies no alias to the earlier performer, and missing proof does not establish distinct-person certainty."
+      },
+      {
+        "classification": "KNOWLEDGE_BOUNDARY_REQUIRED",
+        "finding": "Megumin firsthand report, Aqua gift/intention account, visible props and Kazuma livelihood inference stay distinct. Original report departure/permanent-collapse shorthand is qualified externally, not overwritten."
+      },
+      {
+        "classification": "JUSTIFIED_ROLE_REFERENCE",
+        "finding": "Draft01 trained changed to technically skilled in preserved02; native establishes performance, not a witnessed training biography."
+      }
+    ],
+    "tier_decisions": [
+      {
+        "subject": "Nos",
+        "tier": 2,
+        "basis": "Concentrated own self-concept/regulation, coalition trust/distress, actual contrary inference, technical strength, context/resource failures, harmful conduct and printed style justify an independent account.",
+        "model": "No distinct generative model yet earned; generic combat incentives/exceptional mimicry and little ordinary-life/long-term evidence restrict identifiability. No appearance quota."
+      },
+      {
+        "subject": "Pierre",
+        "tier": 1,
+        "basis": "A phased occupational scene supports a compact direct-behavior profile; broader motivations/relations and stable cross-context mechanisms unestablished."
+      },
+      {
+        "subject": "Unnamed MAIN03performer",
+        "tier": 1,
+        "basis": "Narrow mediated livelihood reaction/gift/intention profile, not a directly watched completed life transition."
+      },
+      {
+        "subject": "Unnamed MAIN16mother",
+        "tier": 1,
+        "basis": "Own practical request/goal/reaction with explicitly reported benefit; limited broader evidence."
+      },
+      {
+        "subject": "Unnamed Pierre assistant",
+        "tier": 0,
+        "basis": "Indexed stage act and attributed skill without own decision/speech/reasons sufficient for a meaningful profile."
+      }
+    ],
+    "source_precision_transition": "CR-SECONDARY-MAIN03-PERFORMER-001 revises plane/outcome certainty without denying reports or erasing externality. Original frozen report/annotations/forecasts/models/scores/nulls remain exact.",
+    "no_new_model_or_hypothetical_test_battery": true,
+    "fifteen_current_models_and_nine_scoped_Tier3_subjects_unchanged": true,
+    "designated_curation_or_capability_grade_authored": false,
+    "next": "Complete maintained-document inputs/census targeted reconciliation, protect prior seven postgate paths and all histories, review exact candidate/preflight and governed publication. Full all-individual/specialist/six-separate-StageD/curation-integration/component-release program remains active.",
+    "full_program_complete": false
+  },
+  "canonical_census_change_controls": {
+    "targeted_prior_row_indices": [
+      78,
+      123,
+      124,
+      125,
+      137,
+      143
+    ],
+    "untouched_prior_rows_exact": 162,
+    "new_rows": 0,
+    "current_rows_not_final_population": 168,
+    "one_existing_episode_label_revised_with_history": true,
+    "three_historical_group_rows_and_one_episode_alias_not_extra_people": true,
+    "fifteen_current_models_unchanged": true,
+    "new_reconstruction_models": 0,
+    "global_census_closed": false,
+    "final_tiers_assigned": false,
+    "global_completion_percentage": null
+  },
+  "original_MAIN03_report_unchanged": true,
+  "full_current_ten_ledger_receiving_retained": true,
+  "native_recheck_context_slots_within_receipt": 526,
+  "new_global_unique_primary_full_source_ruby_image_or_independent_credit": 0,
+  "protected_histories": {
+    "immutable66": true,
+    "historical72_at_frozen_revision": true,
+    "four_scores_Dust14blanks_SI_SY28nulls": true,
+    "all15models": true,
+    "prior_original_source_reports_annotations_errata_gates_and_first_outputs": true,
+    "unrelated_scratch80": true
+  },
+  "publication": "Exact diff/preflight/nonforced push/whole remote tree+changed blob readback/source-HK-final audit/status/fresh reload remain required. Prior Levi gate certifies02a35570, not this candidate.",
+  "designated_ownership": "No discovery/capability registries/indexes or housekeeping global outputs authored; new eligible discovery may lag under policy.",
+  "remaining": "Full all-individual/event/alias/incidental dispositions, further earned artifacts, seven expanded specialists and extended/full-series syntheses, six separate StageD principal-party-transfer revisions, designated curation/evaluation/integration and component/release/final-entry audits.",
+  "full_program_complete": false
+}

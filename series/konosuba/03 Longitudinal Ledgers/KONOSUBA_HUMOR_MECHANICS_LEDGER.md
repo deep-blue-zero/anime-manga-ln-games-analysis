@@ -1870,3 +1870,12 @@ Source-known admitted EXP01/03: prior eighteen actually read integral image-pros
 Levi's status collapses, games and relationship embarrassment amplify disposition (H2 interpretation), while actual concessions, refusal, apologies, detention and knowingly threatening Small remain usable literal conduct at their own plane (H1 interpretation). Fantasy does not make the thirteen/one rule H4 or uncertainty H3. The particular card exception and known supernatural forecast restrict transfer; a proposed ban is not an enacted law. Dust/Small's private fabricated accusation is an actually performed deception, not an actual history of the acts alleged. No new selected-sample denominator, J02 census or prospective outcome is created. MAIN10C4P25–98/247–284/C5P715–758;DUST04U014P183–244/339–441.
 
 Known admitted-source retrospective consolidation; no new source admission, whole-source/ruby/image/independent-test credit. Exact earlier ledger bytes remain the prefix. Frozen forecasts, failures, scores and blank/null fields remain unchanged.
+
+
+## Cohort10 — comic displacement and occupational cost — 2026-10-20T06:58:02.053067+00:00
+
+Voice impersonation, knightly indignity and a second trick support comic amplification without erasing Nos's actual friendly strike, threats, police injuries or Dust rescue. H1 usable conduct and H2 amplification can coexist; fantasy armor/Teleport does not automatically supplyH4, and source uncertainty supplies noH3. The carried-resource opening is a local scripted mechanism, not a universal combat rule. MAIN17U011P446–591/U012P114–127;DUST07U013P205–254.
+
+MAIN03 reported career distress and MAIN16 public-performance panic retain real actor/cost distinctions. Pierre's no-trick formula meets a crowd familiar with real supernatural disappearance, then receives a Teleport explanation. This is local semantic/pragmatic incongruity, without automaticL3 or a fresh selected-sample/J02 denominator. No completed prosecution, helper injury or permanent livelihood ruin is supplied.
+
+Retrospective known-source consolidation; exact previous ledger bytes remain the prefix. No new whole-source/ruby/image/admission/independent-test credit or changed historical forecast, score or blank/null field.

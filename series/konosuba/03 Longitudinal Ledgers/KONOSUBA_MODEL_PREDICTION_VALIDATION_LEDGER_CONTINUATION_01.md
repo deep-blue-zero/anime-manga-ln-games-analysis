@@ -414,3 +414,12 @@ LEVI_EXPANDED_V1 introduces five provisional rules after known MAIN10/DUST04 evi
 Two same-author hypothetical pairs/four first bodies are preserved. LV-H01A conditionally considers terms rather than concluding a game;B refuses newly understood exposure. A generic prudent official and near-canonical design remain rivals. LV-H02 has identical character information and exactly identical first bodies despite changed reader-only truth; this respects ignorance without behavioral discrimination. Both pairs are restrained administrative English and do not demonstrate mistake generation, coercive conflict, comic timing or Japanese adequacy. No separate runtime/judge, new source trial, independent test, capability grade, accuracy percentage or confidence gain is claimed. See the model evidence directory's scenarios, first outputs and internal assessment.
 
 Known admitted-source retrospective consolidation; no new source admission, whole-source/ruby/image/independent-test credit. Exact earlier ledger bytes remain the prefix. Frozen forecasts, failures, scores and blank/null fields remain unchanged.
+
+
+## Cohort10 — monograph and precision are not new validation — 2026-10-20T06:58:02.053067+00:00
+
+Nos earns a scopedTier2 monograph, not an automatic reconstruction, scenario battery or future forecast generation. Joined castle/police phases are one connected consequence across narrators; no source-known retrospective fit becomes an independent prospective trial. Current15model bodies/nineTier3subjects stay exact.
+
+StageD feed: specific skill can coexist with information error and real contrary inference; a successful removal can export danger to an inadequate provider; late reported intention is not performed outcome; copied voice is not actor identity. MAIN03 external plane/outcome qualification preserves the original report and all historical judgments/scorecards/nulls. It narrows source certainty without repairing any failed Gen03/04/05 or held-out R1 outcome. No new model accuracy or confidence gain is claimed.
+
+Retrospective known-source consolidation; exact previous ledger bytes remain the prefix. No new whole-source/ruby/image/admission/independent-test credit or changed historical forecast, score or blank/null field.

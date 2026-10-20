@@ -1844,3 +1844,12 @@ Source-known admitted EXP01/03: prior eighteen actually read integral image-pros
 | L09-DE02 | DUST04U014P60–118/144–170/339–430 | Known danger and accepted likely nonaffiliation coexist with coercion for personal information; debt is acknowledged. Disclosed highest-card exception still defeats anticipated control. Later intended-release claim was unavailable to others before play. |
 
 Known admitted-source retrospective consolidation; no new source admission, whole-source/ruby/image/independent-test credit. Exact earlier ledger bytes remain the prefix. Frozen forecasts, failures, scores and blank/null fields remain unchanged.
+
+
+## Cohort10 — distinguish corrected action from corrected worldview — 2026-10-20T06:58:02.053067+00:00
+
+Nos accepts Pain's real pause instruction after striking Logia under a false voice, yet another impersonated turn still reaches him. Anger does not erase his guard; he accurately diagnoses the transfer trap. His expectation about Teleport fails, and later resource circumstances differ. These are separate information, appraisal and equipment objects, not a global intelligence verdict. Kazuma's copied Nos speech is his own performance. MAIN17U011P446–474/505–586;U012P114–127;DUST07U013P205–254.
+
+The MAIN03 performer outcome requires an attributable plane correction: reported distress/intention and visible Aqua-held props do not establish directly witnessed departure, completed farm work or permanent ruin. Retain local externality and Kazuma inference rather than substituting either certainty or exoneration. Original report163/167/382 remains exact with an external qualification.
+
+Retrospective known-source consolidation; exact previous ledger bytes remain the prefix. No new whole-source/ruby/image/admission/independent-test credit or changed historical forecast, score or blank/null field.

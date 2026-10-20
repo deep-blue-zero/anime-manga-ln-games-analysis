@@ -1837,3 +1837,12 @@ Source-known admitted EXP01/03: prior eighteen actually read integral image-pros
 MAIN10C3P529–578/C4P251–281/C5P185–211/715–758 and DUST04U014P89–105/418–430 distinguish Levi's directives/challenges, explanations/apologies and personal pleading. Printed 俺, 貴様 and カズマ殿 are locally bound forms; respectful naming can carry grievance and an intrusive request. A bow is action, not proof every following clause is honorific grammar. Ordinary translated equivalents can preserve these pragmatic differences and the coin location distinction; Japanese pronouns or rank alone supply no L3 warrant. No acoustic/native-human adequacy or representative rate follows. Four same-author hypothetical English first bodies are conspicuously cautious/administrative and do not demonstrate Japanese voice, mistakes or comic timing; that limitation remains uncorrected in the preserved outputs.
 
 Known admitted-source retrospective consolidation; no new source admission, whole-source/ruby/image/independent-test credit. Exact earlier ledger bytes remain the prefix. Frozen forecasts, failures, scores and blank/null fields remain unchanged.
+
+
+## Cohort10 — whose voice is actually speaking — 2026-10-20T06:58:02.053067+00:00
+
+Actual Nos's imperious challenge, distress at the apparent comrade judgment and knightly self-instruction belong to MAIN17U011P465–473/528–549 andDUST07U013P207/233–245. MAIN17U012P119 is Kazuma in Nos's voice/armor; Mammon123 describes a prior style expectation to the impersonator. Vocal likeness, performed register and actor identity must stay separate. Source contains printed forms and functional shifts, not measured acoustics or demonstrated full Japanese generation.
+
+MAIN03 performer's apparent quotation is embedded in Aqua's report630; it is no new directly witnessed performer turn. Pierre's showman address, objections and attempted repair are his actual dialogue inMAIN16U023P14–49. The mother's request/benefit statementP2–10 are her own turns; the helper has no own speech here. Ordinary semantic/register contrasts supply no automaticL3 or new representative voice rate.
+
+Retrospective known-source consolidation; exact previous ledger bytes remain the prefix. No new whole-source/ruby/image/admission/independent-test credit or changed historical forecast, score or blank/null field.

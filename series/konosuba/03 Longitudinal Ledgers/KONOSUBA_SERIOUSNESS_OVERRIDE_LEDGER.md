@@ -1184,3 +1184,12 @@ Source-known admitted EXP01/03: prior eighteen actually read integral image-pros
 Levi's fear for Iris before the dragon expedition and protest at inadequate reward are direct contrary evidence to an indifferent-villain account (MAIN10C5P15–30/185–211). They neither prevent the expedition nor produce the full political commitment by themselves. Later national gratitude and acknowledgment of Small's likely nonaffiliation coexist with known dangerous pressure (DUST04U014P60–118). Serious concern, practical inhibition and ethical refusal are different objects; no single seriousness switch deletes pride, grievance or coercion. No source-local contrary example is retired by the ending.
 
 Known admitted-source retrospective consolidation; no new source admission, whole-source/ruby/image/independent-test credit. Exact earlier ledger bytes remain the prefix. Frozen forecasts, failures, scores and blank/null fields remain unchanged.
+
+
+## Cohort10 — self-command and care have limited effects — 2026-10-20T06:58:02.053067+00:00
+
+Nos tells himself to calm down and behave knightly while disoriented, yet dangerous sword conduct has injured police. Actual concern/distress for comrades earlier does not become a universal restraint toward outsiders. Dust's help evacuating the injured and actual intervention are practical care despite his demand for future arrest leniency and deceptive fair-blow declaration. MAIN17U011P403–474/505–539;DUST07U013P205–254.
+
+A source can present harmful livelihood effects through reports and inference without proving permanent ruin. External qualification of MAIN03 departure certainty neither cancels cost nor restores Aqua to innocence by wording. The mother's particular child-care request remains her agency and reported benefit, without generalized medical claims or a universal care mechanism.
+
+Retrospective known-source consolidation; exact previous ledger bytes remain the prefix. No new whole-source/ruby/image/admission/independent-test credit or changed historical forecast, score or blank/null field.

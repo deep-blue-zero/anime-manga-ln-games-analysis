@@ -1002,3 +1002,15 @@ StageD feed retains task-specific competence, child/protagonist/reader knowledge
 | L09-MC05 → LEVI-R05 | MAIN10C3P529–578/C4P251–281/C5P185–211/715–758;DUST04U014P89–105/418–430 | Recipient/act-sensitive printed stance; sparse unequal evidence, no acoustic or demonstrated Japanese generation. |
 
 The new monograph/model/index have distinct responsibilities. Four first bodies leave generic prudence, near-canonical prompting, exact hidden-truth invariance and overly coherent English unresolved; no score/confidence gain. All fourteen entering models remain byte-exact, with one new scoped secondary model (fifteen bodies total). Frozen MAIN_ONLY_R1 and its four holdout histories remain separate. StageD feed: task-specific inhibition, nonidentified causal weights, other agents' independent choice, gratitude/coercion coexistence and knowledge/phase boundaries; six separately versioned successors remain uncreated.
+
+
+## Cohort10 — expanded constraints without another model — 2026-10-20T06:58:02.053067+00:00
+
+| Constraint | Source return | Current use and limit |
+|---|---|---|
+| N10-MC01 | MAIN17U011P403–591/U012P114–127;DUST07U013P205–254 | NosTier2 own self-script, coalition affect, real inference/skill and errors; no forced generative model, role ceiling or source-count quota. Disguise turns belong to Kazuma. |
+| N10-MC02 | MAIN17U011P560–586 → DUST07U013P205–254 | Immediate removal and downstream police injury coexist; provider adequacy/safe handoff not proved. One connected sequence, not new independent validation. |
+| N10-MC03 | MAIN03U017P566/630–633 and frozen report163/167/382 | Current external plane/outcome qualification retains reported harm while removing certainty about performed farm transition/permanent ruin. Original report and all historical scores stay exact. |
+| N10-MC04 | MAIN16U023P1–60 | Direct request/performance and reported benefit/helper explanation differentiated; three narrow profiles and oneTier0index, no unearned reconstruction. |
+
+All15current model bodies/nineTier3subject boundaries are exact; Nos monograph does not add a model. Source-known consolidation supplies no independent trial or improvement of frozen source scores. Broader principal/party/transfer revisions remain six distinct StageD successor responsibilities.

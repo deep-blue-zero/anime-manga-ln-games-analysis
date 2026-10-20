@@ -1381,3 +1381,12 @@ Source-known admitted EXP01/03: prior eighteen actually read integral image-pros
 Iris/Levi engagement dissolution, later national gratitude and her friendship-only decision are distinct states (MAIN10C3P675–698/C5P715–758). His retrospective account of deliberate dislike and DUST04 avowal of loss do not establish all earlier feelings or a renewed engagement. Debt to Kazuma coexists with a coercive demand for Kazuma/Iris information (DUST04U014P89–118). Small, Leen, Taylor and Keith have separate constraints and actions; Leen authors her added stake318, while private allegations187–208 are fabricated. Release permission430 and the accepted epilogue's compensation do not establish complete repair or retroactive free assent.
 
 Known admitted-source retrospective consolidation; no new source admission, whole-source/ruby/image/independent-test credit. Exact earlier ledger bytes remain the prefix. Frozen forecasts, failures, scores and blank/null fields remain unchanged.
+
+
+## Cohort10 — social trust and episode identity — 2026-10-20T06:58:02.053067+00:00
+
+Nos's offer to Pain, distress at the friendly strike, response to real correction and shock at the false insult are differentiated social acts (MAIN17U011P403–474). Pain's supposed contempt comes from Kazuma; a functional coalition is not proof of universal loyalty. Mammon's style coaching is attributed history said to a disguised actor (U012P123), compatible with Nos's later self-command (DUST07U013P207).
+
+The MAIN17/DUST07 identity join is strongly supported by multiple specific cues, with the episode row retained as an alias return. MAIN03's unnamed reported performer and MAIN16self-namedPierre have no demonstrated personal continuity; separate episode keys neither force alias nor prove distinct people. Pierre/helper professional participation supplies no observed private relationship or universal consent. No final individual denominator follows.
+
+Retrospective known-source consolidation; exact previous ledger bytes remain the prefix. No new whole-source/ruby/image/admission/independent-test credit or changed historical forecast, score or blank/null field.

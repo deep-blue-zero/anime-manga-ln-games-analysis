@@ -1307,3 +1307,12 @@ Source-known admitted EXP01/03: prior eighteen actually read integral image-pros
 MAIN10 Kazuma calls Levi stupid while direct behavior shows a stopping rule, acknowledgment of error and political agency. His universal boy/dragon-hero explanation is inference, not experimentally known motive. DUST04 Dust's exact cheating-device account is inference; Levi's broad admission418 confirms cheating without validating every detail. Dust/Small explicitly author false private accusations187–208, so genuine reactions to them cannot authenticate their content. Levi's late claim430 of intended release is attributed retrospective self-account, not the companions' earlier information. The two narrators add access differences, not independent root readers or repeated original engagement events. MAIN10C4P247–284/C5P185–211/376–477/715–758;DUST04U014P183–244/248–264/418–430.
 
 Known admitted-source retrospective consolidation; no new source admission, whole-source/ruby/image/independent-test credit. Exact earlier ledger bytes remain the prefix. Frozen forecasts, failures, scores and blank/null fields remain unchanged.
+
+
+## Cohort10 — connected sources retain unequal access — 2026-10-20T06:58:02.053067+00:00
+
+MAIN17 Kazuma labels Nos foolish while Nos actually infers the protagonists' trap error. His voice deception causes the friendly strike; copied Pain insults are not Pain's true evaluation. His later Nos disguise is not Nos behavior. Aqua's armor explanation is tentative, and the police destination is Kazuma's stated choice. DUST07 Dust observes the harmful aftermath and knockout, not the transfer casting or subsequent cell. Expanded consequences do not backdate into main-only knowledge.
+
+MAIN03U017P566 is Megumin firsthand report to Kazuma;630 is Aqua gift/intention account;631 directly shows props;632–633 is Kazuma livelihood interpretation. The current [external qualification](../09%20Audits%20and%20Manifests/KONOSUBA_MAIN03_PERFORMER_OUTCOME_AND_SOURCE_PLANE_QUALIFICATION_01.json) narrows original report163/167/382 outcome certainty without denying reported distress or erasing the externality concern. MAIN16U023 mother's benefit and Pierre's helper-Teleport explanations also retain their report plane.
+
+Retrospective known-source consolidation; exact previous ledger bytes remain the prefix. No new whole-source/ruby/image/admission/independent-test credit or changed historical forecast, score or blank/null field.

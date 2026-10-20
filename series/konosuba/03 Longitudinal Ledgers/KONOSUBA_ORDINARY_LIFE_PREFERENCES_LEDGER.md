@@ -1256,3 +1256,12 @@ Source-known admitted EXP01/03: prior eighteen actually read integral image-pros
 Levi directly values entertainment/games and uses them to frame requests and commitment. Enjoyment, pride, national policy and particular attachment can coexist; neither pure statecraft nor unstoppable gambling compulsion accounts for refusal of new offensive exposure. His food, domestic work, private friendships and broader routine remain poorly observed. EXP03 siblings' seasonal-food/meat-income/crop concerns are source-local work preferences, not universal diets; Rod's actual juice gift differs from an enduring gift habit. MAIN10C4P25–98/139–197/247–284/C5P454–476;DUST04U014P119–131/223–264;EXP03U013P169–225/258–265/477–498.
 
 Known admitted-source retrospective consolidation; no new source admission, whole-source/ruby/image/independent-test credit. Exact earlier ledger bytes remain the prefix. Frozen forecasts, failures, scores and blank/null fields remain unchanged.
+
+
+## Cohort10 — work, family care and unsupported biography — 2026-10-20T06:58:02.053067+00:00
+
+Pierre's advertised paid act, finite sweets, prestige claim and attempted explanation provide a bounded occupational profile (MAIN16U023P14–50). The mother's specific resource request, stated child-care purpose and response to an absent seller give a narrow ordinary-life choice (P1–11); reported benefit is not an independently verified clinical mechanism. MAIN03 performer's farm succession is a relayed intention, not a completed job transition (U017P630–633). No favorite food, lasting gift habit, wealth or domestic mastery is invented.
+
+Nos's combat self-regulatory script does not supply a broader household routine or complete ordinary preference set. That asymmetry limits the Tier2 account and any future model; it does not erase the dense evidence in his observed encounter.
+
+Retrospective known-source consolidation; exact previous ledger bytes remain the prefix. No new whole-source/ruby/image/admission/independent-test credit or changed historical forecast, score or blank/null field.
