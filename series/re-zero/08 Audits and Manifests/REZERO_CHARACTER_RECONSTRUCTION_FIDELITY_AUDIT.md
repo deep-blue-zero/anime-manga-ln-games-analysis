@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: character_reconstruction_fidelity_audit
 scope: FIRST_SUBARU_MODEL_JAPANESE_MAIN_LN_V01_V10
-generation: V1.0
+generation: V1.1
 status: canonical
 release_state: mutable_active
 validation_design: nonblind_author_document_level_self_audit
@@ -221,7 +221,7 @@ R numbers and B numbers below refer to the [model][model]. Each test states the 
 
 ## 3. Draft corrections and disposition
 
-These corrections were made to an unpublished draft during complete saved-model review, before authority promotion. They do not amend a frozen reading or pretend to be earlier prospective findings.
+QA001–QA004 were made to the unpublished candidate during saved-content review, before authority promotion. QA005 records the subsequent diagnosed forward correction after the initial publication; it preserves the published history and requires a new exact-head gate. None amends a frozen reading or pretends to be an earlier prospective finding.
 
 | Finding | Draft defect | Applied repair / consequence |
 |---|---|---|
@@ -229,6 +229,7 @@ These corrections were made to an unpublished draft during complete saved-model 
 | RZ-SUB10-QA002 | Beatrice relationship cell routed the V09 forced-interpretation boundary through B15, the bedside bundle | Corrected to B14, which includes V09 C074; V10 tool refusal still B22. No source conclusion changed |
 | RZ-SUB10-QA003 | Crusch recipient row's subject could be read as her rather than Subaru giving later information | Explicitly names Subaru as advice recipient and later information giver. Her V10 endorsement remains her own choice |
 | RZ-SUB10-QA004 | Current map work-order items1–5 still described the V09/checkpoint→V10 stage despite its V10 opening summary | Targeted synchronization advances those operational instructions to verified V10/high-water and locally audited model→V11, with publication still gated. No frozen source claim or prospective question changed |
+| RZ-SUB10-QA005 | Postpublication policy cross-check identified receipt-bearing entrypoint prose, accumulated repair/consumption history, and older corpus-layer versions/model-absent routing | Diagnosed forward correction moves six exact historical chunks verbatim to [the project changelog](../REZERO_PROJECT_CHANGELOG.md), removes receipt/status claims from current prose, and synchronizes the corpus-layer table. Current seven-axis/default/prospect/source scope is unchanged; the new head requires fresh preflight, readback and complete publication checks |
 
 No material source dispute remains in need of targeted primary review for the declared model scope. Unsupported actual Earth state, hidden trial wish, current Rem interiority, future remedy, exact ordinary tastes and unadmitted modalities remain **unknown**, not newly resolved. The audit's pass depends on their operational exclusion.
 
@@ -244,7 +245,7 @@ The exact operation base is **ff4a7abec35fcb32c4b51be22c0033c1e172527c**, after 
 
 Required same-change project updates route the model/audit, change their existence/reuse state, retain V10 high-water, preserve historical readiness judgments, and make **V11 the next candidate only subject to this operation's full publication gate**. Source inventory gains two analytical artifacts, not a new primary witness. Model/readiness rules remain subordinate to the existing current owners. No other character or final specialist is promoted.
 
-Before publication, the actual final nine-path diff, saved contents, relative links, claim/rule IDs, source routes, unchanged-source guards and author index preflight must be reviewed. Commit/push follow fresh live governance/branch/rules checks and approved identity, exact remote commit/tree/full-content verification, source audit, completed housekeeping and final actual exact-source full integration audit/status. **This document records analytical acceptance, not future CI completion.** Exact publication receipts belong to the operation's private closeout and live repository evidence; no self-referential claim of an as-yet-unpublished SHA is made here.
+The initial nine-path candidate received complete saved-content/diff review, source-protection/link/ID checks, passing author index preflight and full remote file verification. A subsequent diagnosed three-path forward correction (map, verbatim project changelog and this audit finding) repairs entrypoint history/current-layer routing under project-initiation policy §3.5. Its exact new head requires the same fresh preflight, approved identity, live governance/rules/heads, complete remote readback, source audit, completed housekeeping and final actual exact-source full integration audit/status. **This document records analytical acceptance, not future CI completion.** Exact publication receipts belong to the private closeout, preserved history and live repository evidence; no self-referential claim of an as-yet-unpublished SHA is made here.
 
 ## 6. Final bounded disposition
 
