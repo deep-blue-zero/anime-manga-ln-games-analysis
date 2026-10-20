@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: master_longitudinal_ledger
 scope: CUMULATIVE_MAIN_LIGHT_NOVEL_STATE_THROUGH_V10
-generation: V1.10
+generation: V1.11
 status: canonical
 release_state: mutable_active
 current_source_horizon: V10
@@ -38,15 +38,15 @@ For every new volume, update this file only after the source-facing reading has 
 
 | field | current state |
 |---|---|
-| committed analytical high-water mark | `V10`, effective only after the complete synchronized V10 publication gate |
-| next candidate | `SUBARU_V01_V10_MODEL_AND_FIDELITY_AUDIT` after V10 gate; V11 stays unopened with exact55-question/ten-forecast prospect fixed; terminal V43/run active unchanged |
+| committed analytical high-water mark | `V10`, complete exact-source publication gate verified at ff4a7abec35fcb32c4b51be22c0033c1e172527c; model operation consumes no new source |
+| next candidate | `V11` only after the separately instantiated Subaru model/first audit's own complete publication gate; exact55-question/ten-forecast prospect unchanged; terminal V43/run active unchanged |
 | current claim generation | `RZ-V10-C001`–`RZ-V10-C110`; all100 V09 predecessors individually adjudicated in V10 §13, all50 inherited questions/ten forecasts; historical tables preserved |
 | reached event-state boundary | V10-E1 continues V09-E2/RZ-E-013 until Elsa fatal attack/death13; restart declared without arrival.13 deaths/13 arrived segments, no E014/checkpoint invented; default terminal E013 |
 | admitted numbered source range | Japanese `MAIN_LN` V01-V43 under the current source lock |
 | unadmitted published gaps | V44-V45 |
 | admitted non-spine witnesses | none |
 | dedicated ledgers promoted | institution/power, event/durability, proposition-holder/disclosure, mechanics/world-model and relationship continuity each have one sole registered ledger; §§4–6/8–9 route |
-| character monographs | none yet; Subaru now MONOGRAPH_READY for V01–V10 construction, reusable status blocked pending maintained model and separate first fidelity audit; other persons accumulating |
+| character monographs | Subaru V01–V10 integrated model plus separate first19-dimension audit now locally PASS_WITH_BOUND; bounded reuse subject to full publication gate, not a global capability grade or cure; other persons accumulating |
 | relationship/specialist syntheses | estate and V04–V09 checkpoints frozen/verified; four old bounded relationship cases retain historical scopes; no new arc-end checkpoint or final specialist/full-series convergence |
 | architecture lifecycle | `EVOLVING` |
 
@@ -777,7 +777,7 @@ Subaru's retained history never becomes another person's mutual intimacy, consen
 
 | character | current bounded model | conditioning/counterevidence | readiness |
 |---|---|---|---|
-| Subaru | V10 remembered development/family trial lets him accept affection/filial identity; recipient-conditioned repair and help coexist with refusal failures, patron secrecy, source lie and conscious solitary risk | default terminal E013 after death13, living response requires selected preterminal phase; generated parent conversation not Earth receipt, no successor state or universal cure; V10 §§6–9/C065–080/C086–107 | `MONOGRAPH_READY` for V01–V10 construction; no reusable model until separate first fidelity audit |
+| Subaru | V10 remembered development/family trial lets him accept affection/filial identity; recipient-conditioned repair and help coexist with refusal failures, patron secrecy, source lie and conscious solitary risk | default terminal E013 after death13, living response requires selected preterminal phase; generated parent conversation not Earth receipt, no successor state or universal cure; V10 §§6–9/C065–080/C086–107 | `MONOGRAPH_READY`; maintained V01–V10 model/separate first audit locally PASS_WITH_BOUND, publication separately gated; §13 owns readiness |
 | Emilia | asks shared Rem concern/company, offers protection, requires disclosure/apology, gives own village answer and refuses pausing trials | private electoral motive and trial past unresolved, patron/source facts withheld, requests not universal romance/consent; V10 C012–014/C017/C031/C038/C052/C061/C081/C088–089 | `ACCUMULATING` |
 | Rem | pre-ambush care/attendant identity/attack precede last observed warm breathing unresponsive body; V10 adds no feeding/sweat/excretion and direct Ram nonrecognition while Subaru remembers | own memory unavailable; terminal mansion fate unobserved, no generated speech/spouse terms/internal-family transfer. Earlier refusal/pressure/rest separately selected; V09 C051–053/C083/C089–092; V10 C019–023/C085/C099 | `ACCUMULATING` |
 | Ram | actual Sanctuary reunion, practical care, Ryuzu inquiry suppression, patron attendance and direct Rem-name nonrecognition | old sister history remains reader evidence, not currently remembered sister sacrificed; mana alternatives/independent purposes and concealment motive unknown; V10 C055/C057/C085 | `ACCUMULATING_POST_CHECKPOINT` |
@@ -810,7 +810,7 @@ Subaru's retained history never becomes another person's mutual intimacy, consen
 | レグルス・コルニアス (Greed) | directly self-named attacker with apparently ordinary appearance, unusual defense/directional violence and rights/peace rhetoric contradicted by harm | no decoded ability, complete earlier Greed history or Subaru receipt of the whole attack/name; not identical to Petelgeuse; V09 §10.1/C078–080 | `NOT_READY` for independent reconstruction |
 | ライ・バテンカイトス (Gluttony) | directly self-named attacker with appetitive pronoun/rhetorical shifts, hunter interest and Whale-pet claim; overwhelms convoy fighters | no universal ingestion trigger, full life/history or beast–bishop identity, and not every detail is Subaru knowledge; V09 §10.1/C077–078/C081/C085/C089 | `NOT_READY` for independent reconstruction |
 
-The prior no-person-ready judgment through V09 is historical. Subaru now earns V01–V10 model construction through added developmental/ordinary/recipient/voice evidence, not prominence or achieved health. The first maintained model and separate fidelity audit are next and reusable status is blocked until passed. Other persons remain accumulating/not ready. Default terminal E013 requires explicit earlier phase for living response; no new arrival, real-parent receipt, current Rem speech, living Theresia or active internal-family biography is supplied. V10 §15 owns the qualitative threshold review.
+The prior no-person-ready judgment through V09 is historical. V10 earned Subaru's V01–V10 model construction through developmental/ordinary/recipient/voice evidence, not prominence or achieved health. The separate post-V10 operation now instantiates that model and first19-dimension audit with local PASS_WITH_BOUND, subject to its own full publication gate. Other persons remain accumulating/not ready. Default terminal E013 requires explicit earlier phase for living response; no new arrival, real-parent receipt, current Rem speech, living Theresia or active internal-family biography is supplied. V10 §15 owns the qualitative construction threshold; §13 below owns current readiness and the new audit's bounded scope.
 
 ## 8. Institutions, factions, status, and practical agency
 
@@ -1371,7 +1371,7 @@ No forecast identifies a named betrayer, promises a cure, supplies an unseen liv
 
 | candidate | state | evidence still required |
 |---|---|---|
-| Subaru | `MONOGRAPH_READY` for V01–V10 construction; reusable status BLOCKED pending model/separate first audit | V10 supplies prior-life ordinary/developmental history, two family recipients, explicit TPO voice failure, noncombat grief and accepted care against Beatrice refusal/patron secrecy/final risk. Unknown stability is modeled, not demanded as achieved health. Default terminal E013; living dialogue requires selected earlier scene. V10 §15/C065–107; next `SUBARU_V01_V10_MODEL_AND_FIDELITY_AUDIT` |
+| Subaru | `MONOGRAPH_READY`; V01–V10 model/first19-dimension audit locally `PASS_WITH_BOUND`, bounded reusable scope subject to this operation's full publication gate | [Model](../05%20Character%20Analysis/REZERO_NATSUKI_SUBARU_V01_V10_CHARACTER_MODEL.md) compiles24 conditional rules/28 evidence bundles/eight noncanonical probes; [audit](../08%20Audits%20and%20Manifests/REZERO_CHARACTER_RECONSTRUCTION_FIDELITY_AUDIT.md) tests all19 dimensions and records corrections. Default terminal E013; living dialogue requires selected preterminal scene. No independent benchmark/global grade, cured behavior, current Rem reply, actual parent receipt, future arrival/remedy or unbridged IF/adaptation; later comparable evidence revises the bounded baseline |
 | Emilia | `ACCUMULATING` | received apology/love and actual final support revise uncompleted-repair models, while restricted information, full own history/politics/contract, older tear cause and negotiated reciprocal romance remain incomplete; V09 C033–039/C047–053 |
 | Ram | `ACCUMULATING_POST_CHECKPOINT` | current Rem forgetting directly tested and room cleared; patron silence/Ryuzu inquiry suppression enacted. Dependence alternatives, independent ordinary history and role renegotiation remain gaps; V10 C021/C055/C057/C085 |
 | Rem | `ACCUMULATING` | actual protective last stand precedes living unresponsive current state; select V07 refusal/pressure/rest or V09 pre-ambush speech explicitly. No invented bedside response, own-memory diagnosis, accepted spouse terms or internal-family transfer; V09 C051–053/C083/C089–092 |
@@ -1408,7 +1408,7 @@ No forecast identifies a named betrayer, promises a cure, supplies an unseen liv
 | source-verified V02–V03 checkpoint | `FROZEN_COMPLETE` | fulfilled by `REZERO_ARC_ESTATE_STORY_CHECKPOINT.md`; formal arc ID remains unassigned |
 | source-verified V04–V09 third-arc checkpoint | `FROZEN_COMPLETE` and full publication gate VERIFIED before V10 | `REZERO_ARC_03_CHECKPOINT.md` at ebd99a3cc5fe1806b094fbeddae5b6b2b37c0a06; bounded phase/relationship/resource/causal comparison, unchanged entering V10 prospect; no new source or mature model from that historical operation |
 
-Through V09 no person was ready. V10 now earns Subaru's bounded person construction, with reuse explicitly blocked pending model and separate first fidelity audit. Four old relationship cases retain historical scope; five ledgers/master still own cumulative state. No other person, mature specialist, external IF/WN, adaptation judgment or full-series convergence is promoted. V11 remains unopened until V10's complete gate and the earned intermediate operation close; its exact55-question/ten-forecast prospect is fixed above.
+Through V09 no person was ready. V10 earned Subaru's bounded person construction; the separate post-V10 model and first fidelity audit now satisfy the local reuse gate with PASS_WITH_BOUND, not a global capability assessment. Four old relationship cases retain historical scope; five ledgers/master still own cumulative state. No other person, mature specialist, external IF/WN, adaptation judgment or full-series convergence is promoted. V11 remains unopened until the model/audit's own complete publication gate closes; V10's predecessor gate is verified and its exact55-question/ten-forecast prospect remains unchanged above.
 
 ### Post-V03 architecture-promotion review
 
@@ -1478,6 +1478,12 @@ The V09 phase-only judgment was correct at its horizon. V10's remembered childho
 
 The next separately published operation is SUBARU_V01_V10_MODEL_AND_FIDELITY_AUDIT after V10's complete gate, before V11; its frozen55-question/ten-forecast horizon cannot be rewritten. Other persons remain accumulating/not ready for their named gaps, not simply because the series continues. Existing relationship owner absorbs eight new trial/patron/beneficiary networks and nine transitions; knowledge27, mechanics18 and institution20 new rows resolve independent dimensions without creating a sixth ledger. Master ordinary/Japanese/readiness and exact VNN routing remain reliable; no evidence index or scheduler demonstrated necessary. Fourth-arc beginning is not ending; all eleven earlier freezes unchanged.
 
+### Post-V10 first model and fidelity-audit review
+
+After V10's complete gate at ff4a7abec35fcb32c4b51be22c0033c1e172527c, the preceding construction trigger is fulfilled by the maintained V01–V10 Subaru model and separate first audit. Required mature design references were inspected for responsibilities only. Full saved-model review, twenty-four conditional rules, ordinary/recipient/voice/knowledge/failure controls and eight labeled probes support a nineteen-dimension nonblind document audit: PASS_WITH_BOUND after targeted draft attribution/route/label repairs. Unknown future stability is modeled through alternatives and abstention, not asserted as healing or used as a reason to wait for a complete series.
+
+This derived use model does not replace the current110 claims, any sole-owner state, twelve frozen artifacts or exact V11 prospect. Its default remains terminal E013/death13; earlier living phase, knowledge, remembered history, recipient and resources must be selected. The local reuse gate is now satisfied; full exact-source publication remains separate and precedes V11. No source was newly read and no other character/final specialist or independent ledger/index is promoted. Global character discovery and reconstruction capability remain their respective separately governed responsibilities.
+
 ## 14. Append-only architecture and ledger history
 
 | event | horizon | change | historical qualification |
@@ -1496,5 +1502,6 @@ The next separately published operation is SUBARU_V01_V10_MODEL_AND_FIDELITY_AUD
 | V09 freeze / relationship split / earned pending arc boundary | V09 | all82 V08 claims/50 questions/ten forecasts adjudicated;100 claims/50 V10 questions/ten forecasts; council/bedside arrivals, death12, actual repair, final entity extinction and differentiated memory conditions | necessary25 dyads migrate with ancestry to R001–032/RT001–012; bounded phase/cases only; explicit V04–V09 closure earns separately pending checkpoint after full V09 gate; V01–V08/estate-checkpoint bytes unchanged |
 | post-V09 source-verified third-arc checkpoint | V09 unchanged | separate `REZERO_ARC_03_CHECKPOINT.md` instantiates bounded V04–V09 convergence only after complete verified V09 publication; no new source or VNN claim generation | current100 claims/five ledgers/fixed V10 prospect preserved; no mature model/fidelity audit/final specialist; nine volume freezes/estate checkpoint unchanged; checkpoint's own gate precedes V10 |
 | V10 freeze / first-person construction trigger | V10 | all100 V09 predecessors/50 questions/ten forecasts adjudicated;110 current claims/55 V11 questions/ten forecasts; terminal E013 death13/no arrived successor, actual writer/Ram tests, constructed family/developmental/recipient/ordinary evidence, real release and continuing concealment/risk | five owners updated without new ledger; Subaru V01–V10 MONOGRAPH_READY for construction, reuse blocked pending separate model/first fidelity audit after V10 gate before V11; other persons/specialists not mature, no arc-end checkpoint; eleven prior freezes unchanged |
+| post-V10 Subaru model / first fidelity audit | V10 unchanged | separate integrated V01–V10 model and19-dimension nonblind document audit instantiated after verified V10 gate;24 derived rules/28 bundles/eight noncanonical probes; local PASS_WITH_BOUND | no new source/VNN claim generation or global capability grade; five sole owners/twelve freezes/current110 claims/fixed55-question ten-forecast V11 prospect unchanged; V11 follows own complete publication gate, active V43 terminal retained |
 
 Future volume transactions append one history row and update the relevant current-state tables while preserving material ancestry.

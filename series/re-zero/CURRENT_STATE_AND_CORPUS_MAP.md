@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: corpus_map
 scope: SERIES_BOOTSTRAP_AND_ANALYTICAL_ROUTING
-generation: V0.15
+generation: V0.16
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -29,7 +29,7 @@ project_initialization:
   required_day_one_infrastructure:
     - 04 Longitudinal Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md
   sequential_analysis_lock: OPEN
-  next_permitted_operation: SUBARU_V01_V10_MODEL_AND_FIDELITY_AUDIT
+  next_permitted_operation: V11
 ```
 
 ```yaml
@@ -39,7 +39,7 @@ sequential_execution:
   authorized_start: V03
   terminal_boundary: V43
   committed_high_water_mark: V10
-  next_candidate_operation: SUBARU_V01_V10_MODEL_AND_FIDELITY_AUDIT
+  next_candidate_operation: V11
   confirmation_between_units: false
   run_state: active
 ```
@@ -53,9 +53,9 @@ sequential_execution:
 
 ## Current analytical state
 
-**Japanese main-LN V10 is fully consumed and its deep reading/current owners are synchronized, effective as committed high-water only after V10's complete publication gate. V01–V09 and both checkpoints remain frozen/verified/unchanged. V10 closes E013 at death13:13 arrived segments, restart declared without E014/checkpoint or companion fate census. Explicit writer-erasure/current Ram tests, generated parent trial, selective source-memory loss, real50-person family reunion, patron secrecy and continuing rescue risk remain distinct. New ordinary/developmental/recipient/voice coverage earns Subaru MONOGRAPH_READY for bounded V01–V10 construction, not reusable status or a healed person. Next is the separately gated model/first fidelity audit before V11;55 V11 questions/ten forecasts are fixed now. Five ledgers/master remain sole owners, no new arc-end/final specialist/external witness. Active continuous terminal V43 unchanged.**
+**Japanese main-LN V10 is committed at ff4a7abec35fcb32c4b51be22c0033c1e172527c with its complete exact-source publication gate verified. All ten VNN freezes and both checkpoints remain unchanged. The earned Subaru V01–V10 model and separate first19-dimension fidelity audit now exist; the nonblind document-level result is PASS_WITH_BOUND, not a global capability grade, independent benchmark or healed person. Default remains terminal E013/death13,13 arrived segments/no E014 or companion fate census; living reconstruction requires a supported preterminal override. Generated parents, real-parent nonreceipt, unresponsive Rem, source amnesia versus chosen lie, shared care and continuing harmful risk remain operational distinctions. Next candidate is V11 only after this model/audit operation's complete publication gate. Its exact55 questions/ten forecasts remain fixed; source high-water V10 and active continuous terminal V43 are unchanged.**
 
-The project-initiation architecture gate remains satisfied. Five sole specialist owners and unsplit master responsibilities retain their scopes; earlier migrations remain retrospective. `SEQUENTIAL_ANALYSIS_LOCK = OPEN`; both next-operation fields name `SUBARU_V01_V10_MODEL_AND_FIDELITY_AUDIT`, **subject to** V10's approved commit, exact complete remote readback, source audit, completed housekeeping and final actual exact-source full audit/status. Reserved pending model: `05 Character Analysis/REZERO_NATSUKI_SUBARU_V01_V10_CHARACTER_MODEL.md`; required separate audit: `08 Audits and Manifests/REZERO_CHARACTER_RECONSTRUCTION_FIDELITY_AUDIT.md`. Neither exists yet. Inspect required mature design references before construction; reuse blocked until the19-dimension audit passes. Then complete that operation's publication gate before V11. The frozen prospect cannot change during it; this prose alone closes no gate.
+The project-initiation architecture gate remains satisfied. Five sole specialist owners and unsplit master responsibilities retain their scopes; earlier migrations remain retrospective. `SEQUENTIAL_ANALYSIS_LOCK = OPEN`; both next-operation fields name `V11`, **subject to** this model/audit operation's approved commit, exact complete remote readback, source audit, completed housekeeping and final actual exact-source full audit/status. Start person reconstruction at [the bounded Subaru model](05%20Character%20Analysis/REZERO_NATSUKI_SUBARU_V01_V10_CHARACTER_MODEL.md), with [the first fidelity audit](08%20Audits%20and%20Manifests/REZERO_CHARACTER_RECONSTRUCTION_FIDELITY_AUDIT.md) for tested scope, reference-design receipt, corrections and exclusions. Required mature designs were inspected for responsibilities only. Local reuse acceptance is complete; repository publication is not certified by this prose. No other person/final specialist, new ledger or external witness is promoted.
 
 The resumption's local hash scan reproduces the 43 Japanese numbered sources under the lock: 42 manifest identities and the approved V41 replacement. The optional English V21 and archived V31 duplicate are present/hash-matched but remain unopened. No additional numbered source or V44/V45 was found locally. The 2026-09-04 official check established those two published gaps; it is not represented as exhaustive October publication coverage. The admitted run is not blocked, and source exhaustion must not be called published-series completion.
 
@@ -202,11 +202,11 @@ The sequential pass should test rather than assume questions including:
 
 ## Current work order
 
-1. Preserve V01–V09 freezes and both bounded checkpoints as historical authority; corrections use current claims/errata, not changed freeze bytes.
-2. Use unchanged V09's100 claims/all82 predecessor dispositions and50-question/ten-forecast V10 horizon, routed through the arc checkpoint; default RZ-E-013, twelve deaths/thirteen segments, unresponsive Rem and unfulfilled remedy.
-3. Maintain master V1.9, institution V1.6, event V1.3, knowledge V1.3, mechanics V1.2 and relationship V1.0 under architecture V1.8/schema V0.10; preserve ancestry/sole-home boundaries.
-4. Close the separate V04–V09 `REZERO_ARC_03_CHECKPOINT.md` transaction's exact publication/readback, source audit, completed housekeeping and final actual exact-source full audit/status before opening `RZ-MAIN-LN-JA-V10`. V09's predecessor gate is already complete; advertising does not admit another witness.
-5. Continue prospectively through the admitted main-LN spine; checkpoint convergence preserves V09's fixed prospect and does not change continuous source bounds V03–V43.
+1. Preserve all ten VNN freezes and both bounded checkpoints byte-for-byte; corrections use current claims/errata, not changed prospective history.
+2. Use the unchanged110 V10 claims and sealed55-question/ten-forecast V11 horizon; default terminal RZ-E-013/death13,13 arrived segments, unresponsive Rem and no observed successor/remedy.
+3. Maintain master V1.11, institution V1.7, event V1.4, knowledge V1.4, mechanics V1.3 and relationship V1.1 under architecture V1.10/schema V0.12/protocol V1.9. The new derived Subaru model/audit does not replace these owners or add narrative claims.
+4. Close this separate Subaru V01–V10 model/first-fidelity-audit transaction's exact publication/readback, source audit, completed housekeeping and final actual exact-source full audit/status before opening `RZ-MAIN-LN-JA-V11`. V10's predecessor gate is complete; local analytical PASS_WITH_BOUND alone does not close publication.
+5. Continue prospectively through V11 and the admitted main-LN spine to the unchanged active V43 terminal; preserve the fixed V11 prospect and do not request confirmation between units or equate source exhaustion with published completion.
 6. Acquire and integrity-audit Japanese V44 and V45 before the sequential reading reaches that boundary; admission is not implied by their bibliographic existence.
 7. Maintain bibliographic awareness in the supplemental catalog without opening narrative material. When a witness is acquired, assign its source class and `H_pub`/`H_diegetic`/`H_route`/`H_final` state before reading it analytically.
 8. Update the master longitudinal ledger in every volume transaction; promote a dedicated ledger only when one responsibility develops an independent retrieval/revision burden, then leave routing rather than a competing full copy in the master.

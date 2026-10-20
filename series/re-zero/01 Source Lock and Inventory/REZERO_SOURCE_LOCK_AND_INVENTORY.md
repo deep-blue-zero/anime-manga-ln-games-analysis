@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: source_lock
 scope: SOURCE_ADMISSION_CONTRACT_AND_CURRENT_INVENTORY_STATE
-generation: V0.12
+generation: V0.13
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -371,6 +371,14 @@ The separate third-arc checkpoint completed its exact-source publication gate at
 
 V11 and all separate non-spine narrative remain unopened. V10 §16 fixes55 V11 questions/ten forecasts now, before the earned Subaru V01–V10 model/separate first fidelity audit. That operation follows V10's complete publication gate and must close before V11, without altering the prospect or admitting another witness. The source high-water becomes V10 only after the gate; admission range and historical gap check do not advance.
 
+## Post-V10 Subaru model and first fidelity-audit source boundary
+
+V10's complete exact-source publication gate is verified at `ff4a7abec35fcb32c4b51be22c0033c1e172527c`, before this separate synthesis operation. Full remote content/identity readback, source and final full385-test audits, completed NOOP housekeeping and final success status targeted that exact source commit; dispatch metadata alone was not used as proof. The preceding V10 record preserves its then-future gate, now closed.
+
+This operation creates two **derived analytical artifacts**, not newly acquired witnesses: `05 Character Analysis/REZERO_NATSUKI_SUBARU_V01_V10_CHARACTER_MODEL.md` and `08 Audits and Manifests/REZERO_CHARACTER_RECONSTRUCTION_FIDELITY_AUDIT.md`. It reuses the completed V01–V10 corpus/current owners with targeted analytical retrieval and required mature design references; no primary volume was newly reread, no V11/later source or non-spine narrative opened, and no raw media copied into Git. The separate19-dimension document-level author audit returns PASS_WITH_BOUND, not an independent benchmark or global capability grade. Exact source locators and hashed-witness routes remain in frozen readings/source lock; generated probes are not evidence.
+
+All ten VNN freezes/two checkpoints, five specialist owners,110 current claims and exact55-question/ten-forecast V11 prospect remain unchanged. Source high-water stays V10. V11 is next only after this model/audit operation's own approved commit/full remote readback, source audit, completed housekeeping and final actual exact-source full audit/status. Local analytical acceptance does not certify those future publication checks. Default terminal E013/death13 and all real-parent/Rem/successor/IF/adaptation exclusions remain binding.
+
 ## Current source-state summary
 
 - **Acquired/admitted Japanese main LN:** V01-V43 continuous.
@@ -381,7 +389,7 @@ V11 and all separate non-spine narrative remain unopened. V10 §16 fixes55 V11 q
 - **Admitted IF/alternate route:** none.
 - **Admitted web novel:** none.
 - **Admitted anime/audiovisual:** none.
-- **Consumed into frozen prospective main-LN analysis:** V01-V10, effective after the complete V10 publication gate.
+- **Consumed into frozen prospective main-LN analysis:** V01-V10; complete V10 exact-source publication gate verified at ff4a7abec35fcb32c4b51be22c0033c1e172527c.
 - **Next source acquisition priority:** Japanese V44 and V45 before the sequential read reaches that boundary.
-- **Next analytical operation:** `SUBARU_V01_V10_MODEL_AND_FIDELITY_AUDIT` after V10's full gate; V11 remains unopened with55-question/ten-forecast horizon fixed, and opens only after that separate operation's complete gate.
-- **Current execution state:** active continuous run; terminal V43 unchanged; model construction adds no new source or admission. No real-parent message, current IF-family biography, adaptation judgment or full-series completion is implied.
+- **Next analytical operation:** `V11` only after the separately instantiated Subaru model/first audit's complete publication gate; its55-question/ten-forecast horizon remains fixed and V11 is unopened.
+- **Current execution state:** active continuous run; terminal V43 unchanged; model/audit locally PASS_WITH_BOUND adds no source or admission. No real-parent message, current Rem reply/IF-family biography, arrived successor, adaptation judgment or full-series completion is implied.

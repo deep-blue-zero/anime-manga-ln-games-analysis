@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: ledger_architecture
 scope: LONGITUDINAL_LEDGER_PROMOTION_AND_SCHEMA_CONTRACT
-generation: V0.11
+generation: V0.12
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -24,7 +24,7 @@ At the project-initiation architecture-repair boundary after the V02 freeze, the
 
 `REZERO_MASTER_LONGITUDINAL_LEDGER.md`
 
-The master was backfilled from frozen V01/V02 and advanced prospectively through V10; it did not govern the first two prospectively or alter their bytes. It owns claims, persons/stress, diagnostic ordinary life, Japanese, prospects and readiness. Institution migrated V04; event/knowledge V06; mechanics V07; relationship V09. Master §§4–6/8–9 route rather than maintain competing full models. V10 adds no sixth ledger or field-contract change; Subaru's first source-bounded model/separate audit is an earned construction operation, not a new general current-state owner.
+The master was backfilled from frozen V01/V02 and advanced prospectively through V10; it did not govern the first two prospectively or alter their bytes. It owns claims, persons/stress, diagnostic ordinary life, Japanese, prospects and readiness. Institution migrated V04; event/knowledge V06; mechanics V07; relationship V09. Master §§4–6/8–9 route rather than maintain competing full models. The post-V10 Subaru source-bounded model/separate first fidelity audit now exists with local PASS_WITH_BOUND; it adds no sixth ledger, field-contract change or competing general current-state owner.
 
 The following candidate sections now define responsibilities that may later split out of the master ledger when independent retrieval/revision burden warrants specialization. They are not unpromoted gaps and do not authorize parallel competing homes.
 
@@ -60,6 +60,8 @@ V09 review: newly enacted repair versus terminal entrustment, living-but-unrespo
 Post-V09 checkpoint review: following V09's complete publication gate, the earned V04–V09 third-arc checkpoint is instantiated as bounded frozen convergence, effective after its own full gate. It exercises the already named Subaru phase/relationship scopes, not a mature model, and adds no new source or current VNN claim generation. Five specialist homes and unsplit master responsibilities remain sufficient; no sixth ledger/index, fidelity audit or separately admitted witness is promoted. All nine volume freezes/estate checkpoint and V09's exact50-question/ten-forecast V10 prospect remain unchanged. Current source high-water stays V09; both next-operation fields route V10 subject to checkpoint publication. The preceding V09 pending judgment is preserved historically, not an unfulfilled current role gap.
 
 V10 review: after the Arc03 checkpoint's complete verified gate, all43 spine members/3835 blocks/22 images are consumed before drafting.110 current claims/all100 V09 dispositions,50 inherited-question/ten forecast adjudications and55 V11 questions/ten forecasts preserve the prospective contract. E013 ends at death13 without successor arrival; K158–184, M107–124, I101–120 and R033–040/RT013–021 extend existing owners. Actual writer-erasure/Ram tests revise older OPENs; generated parent receipt, selective amnesia, political/magical confinement and patron secrecy retain distinct conditions. New ordinary/developmental/recipient/voice breadth earns Subaru MONOGRAPH_READY for V01–V10 construction, reuse blocked pending model and separate first19-dimension audit after V10 publication before V11. Other persons/specialists not mature, no arc-end checkpoint. Master ordinary/Japanese/readiness and existing exact evidence routes remain sufficient; no independent evidence/index/scheduler or general sixth-ledger burden demonstrated. All eleven earlier freezes and exact V11 prospect remain protected; reserved ledger contracts unchanged.
+
+Post-V10 model/audit review: after V10's complete gate, the earned `05 Character Analysis/REZERO_NATSUKI_SUBARU_V01_V10_CHARACTER_MODEL.md` compiles28 evidence bundles/24 derived rules/eight noncanonical probes, and the separate `08 Audits and Manifests/REZERO_CHARACTER_RECONSTRUCTION_FIDELITY_AUDIT.md` applies all19 dimensions with PASS_WITH_BOUND. These are person-reconstruction/use and local fidelity responsibilities, not a new claim generation, independent benchmark, global capability grade or specialist-data migration. Five sole specialist owners remain byte-unchanged; master readiness/ordinary/Japanese/current110 claims remain canonical. No independent ordinary/voice/readiness/evidence packet is warranted by file symmetry. Twelve freezes and the exact55-question/ten-forecast V11 prospect remain unchanged; V11 is next only after this operation's own full publication gate. Default terminal E013/death13 still requires an earlier living override. Source range/active V43 terminal and all reserved field contracts remain unchanged.
 
 ## Promotion threshold
 

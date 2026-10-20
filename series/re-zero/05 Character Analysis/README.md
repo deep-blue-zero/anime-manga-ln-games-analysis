@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: character_analysis_contract
 scope: SOURCE_GROUNDED_CHARACTER_RECONSTRUCTION
-generation: V0.2
+generation: V0.3
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -14,7 +14,15 @@ do_not_use_as_current_authority: false
 
 This directory is the canonical home for Re:Zero character syntheses **after** evidence warrants them.
 
-No character monograph is present through V03.
+Historical boundary: no character monograph was present through V03. V10's added developmental/ordinary/recipient/voice evidence now earns the first maintained source-bounded person model; existence does not itself prove fidelity or full-series readiness.
+
+## Current bounded reconstruction
+
+| Person / horizon | First read and fidelity route | Binding scope |
+|---|---|---|
+| Natsuki Subaru, Japanese main LN V01–V10 | [Integrated model](REZERO_NATSUKI_SUBARU_V01_V10_CHARACTER_MODEL.md), then [separate first fidelity audit](../08%20Audits%20and%20Manifests/REZERO_CHARACTER_RECONSTRUCTION_FIDELITY_AUDIT.md) | MONOGRAPH_READY; local nineteen-dimension nonblind document audit PASS_WITH_BOUND. Bounded reuse subject to this operation's full publication gate, not an independent benchmark/global capability grade or cured person |
+
+Default is latest reached **terminal E013/death13**. A living action/dialogue task must explicitly select a supported preterminal phase and its knowledge, remembered history, recipient, role and resources. Current Rem cannot answer; generated Kenichi/Naoko are not real parents' present receipt; no E014 arrival, unobserved remedy, active IF-family biography or anime performance is supplied. The model compiles24 derived rules/28 evidence bundles/eight noncanonical probes; it adds no narrative source or canonical generated scene. Master §13 remains readiness owner and five specialist ledgers remain state authorities. No other person is promoted.
 
 `../00 Frameworks and Methods/REZERO_CHARACTER_RECONSTRUCTION_PROTOCOL.md` is the controlling detailed protocol. It defines the seven-axis state selector, ordinary-life and relationship responsibilities, Japanese-register discipline, failure and negative controls, abstentions, unfamiliar probes, and the first mature-character fidelity audit. This README is the directory router and does not duplicate that contract.
 
