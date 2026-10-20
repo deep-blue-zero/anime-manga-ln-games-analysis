@@ -279,3 +279,15 @@ Current source-known consolidation does not revise frozen forecasts, prior outco
 **CR-SECONDARY-CECILY-ZESTA-001 — STRENGTHEN scoped descriptive/generative differentiation; OPEN wider transfer.** Source-known receiving supports separate monographs, indices and four-rule models without revising older frozen artifacts. Cecily correct water perception and useful work prevent universal-uselessness claims; deliberate public falsehood does not make every appraisal knowingly false. Zesta useful magic does not validate prior knowledge, readiness, good aims or recipient permission. His accidental Ragcraft discovery/private admission constrain the later boast. No self-assessed capability grade or accuracy gain.
 
 **CR-SECONDARY-CLERGY-IDENTITY-001 — PRESERVE/OPEN individual agency and joins.** Tristan explicitly names finance role EXP02U038102; DUST04U01343 asks Cecily-or-Tristan but does not identify searcher. Named noteクレイン CONTEXP02U01864 is not joined to earlier unnamed campaigner. MAIN04 reporter142 owns trade/refund proposals and is distinct from named Zesta. Returning guide named join/earlier exact return pending; Axel/Arcanretia Eris priests and two bread occurrence slots retain own agency/unknown attribution. Existing Aloerina91 already owns self-name.19new source-bound records bring working count187, not final distinct population or a census closure.
+
+
+## Cohort14 bounded return revisions — 2026-10-20T11:12:02.861945+00:00
+
+| Claim | Transition | Source-grounded correction and limit |
+|---|---|---|
+| CR-SECONDARY-COHORT14-001 | STRENGTHEN / REVISE | MAIN16U016P87 explicitly links guide to MAIN04U019P278–310. Current actual kick/hitP93–94 is preserved; earlier personal throwing at AquaP105–107 remains unproved. Prior broad no-stone-proof wording retained in row history and narrowed in current row; no named join or duplicate guide. |
+| CR-SECONDARY-COHORT14-002 | PRESERVE / STRENGTHEN | Keep two source-bound Eris priests separate: CONTEXP02U016P476 first meeting with Megumin against earlier Axel exchange. Arcanretia denial/grievance remain actual statements; Powered/throw/punchP466–467 performed, threatened forced contact not completed. Axel threat unperformed and gender/name unestablished. |
+| CR-SECONDARY-COHORT14-003 | STRENGTHEN | Earlier chair window ended MAIN08U013P230. P231–239 now shows actual agreement and adviser role acceptance; U016P503–509 supplies reported reward delivery and visible bag, not exact amount/Kazuma acceptance. Police/caster limits and unassigned board voices remain. Historical earlier boundary unchanged. |
+| CR-SECONDARY-COHORT14-004 | REVISE current status wording | Current coverage sentence still called Claire/Rain/Luna pending proportional review. Their scoped gates actually closed in cohorts11/12. Correct the present sentence; preserve prior cohort chronology and bytes of historical gate reports. No new source or capability upgrade. |
+
+[Four-profile event index](KONOSUBA_CLERGY_AND_MERCHANT_EVIDENCE_INDEX.md) retains locators, attribution, serious rivals and open scope. Four Tier1 profiles are revisable; no new model or artificial test is earned automatically.

@@ -4,7 +4,7 @@ artifact_type: corpus_map
 scope: FULL_MAIN_SERIES
 generation: V1
 status: canonical
-source_boundary: Cecily/Zesta cohort13 two scoped model candidates semantically received; publication pending; eighteen entering models exact; fourteen proposed secondary model subjects/20models/Nos Tier2/eleven profiles; full program active; percentage null
+source_boundary: Four clergy/merchant cohort14 bounded profiles semantically received; publication pending; twenty models/fourteen secondary model subjects/Nos Tier2 exact; fifteen proposed profiles/187nonfinal records; full program active; percentage null
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -44,13 +44,13 @@ The project is not primarily a plot-summary project and is not satisfied by trai
 ## 2. Current authority state
 
 <!-- CURRENT_OPERATION_START -->
-**Cecily and Zesta cohort13 receive separate scoped models; their containing publication gate is pending.** Each has a monograph, four-rule model and event index. [Shared provenance](08%20Evidence%20and%20Indexes/KONOSUBA_CECILY_ZESTA_NATIVE_AND_DERIVATIVE_PROVENANCE_01.json) preserves3702knownBASEcontextslots/fifteenmembers/sevenobjects plus20known image-prose pages once. Useful work, power and particular care coexist with false appraisal, deception, coercion and unreliable protection; actor/access/action stages stay separate.
+**Four clergy and merchant profiles are semantically received; the containing cohort14 publication gate is pending.** The returning Axis guide, separate Axel/Arcanretia Eris priests and merchant chair receive [bounded profiles](05%20Specialist%20Synthesis/KONOSUBA_COHORT14_CLERGY_AND_MERCHANT_BOUNDED_PROFILES.md) with an [event index](08%20Evidence%20and%20Indexes/KONOSUBA_CLERGY_AND_MERCHANT_EVIDENCE_INDEX.md). The exact earlier guide co-reference, actual kick versus unproved mob participation, recipient denials, performed defensive spell and agreement/reward stages stay explicit.
 
-Eight actual same-author hypothetical first bodies follow frozen contracts and retain generic rivals, weak discrimination, invariant Zesta departure, stage/style defects and continued pressure. No source/independent/Japanese/capability/confidence gain. [Two bounded clergy profiles](05%20Specialist%20Synthesis/KONOSUBA_COHORT13_BOUNDED_PROFILES.md) receive Tristan and existing reporting priest142; [nineteen source-bound returns](08%20Evidence%20and%20Indexes/KONOSUBA_CECILY_ZESTA_COHORT13_CENSUS_RETURN_INDEX.md) bring working records to187, not a final population.
+Two later packets have534knownBASEcontextslots/ninemembers/fiveobjects, including repetitions and adjacent actors. No new admission, globalunique/full/ruby/image/independent credit, model, scenario output, accuracy/confidence/capability grade or fixed tier ceiling. Twenty model bodies/fourteen scoped secondary model subjects and Nos Tier2 remain exact. Eleven earlier bounded profiles plus four candidates would make fifteen after adoption. Four existing census rows change;183others remain exact, and the working count stays187nonfinal records.
 
-The [Luna gate](09%20Audits%20and%20Manifests/KONOSUBA_LUNA_COHORT12_PUBLICATION_GATE_CLOSE.json) certifies432b8fd1/1074publishedprojectpaths/18models, not this later candidate. Eighteen entering bodies protected; two additions would make20models/fourteen scoped secondary model subjects. Nos Tier2 monograph and nine earlier profiles retain scopes; two more would make eleven. Three existing rows change;165others and all historical protections stay exact.
+The [Cecily/Zesta cohort13 gate](09%20Audits%20and%20Manifests/KONOSUBA_CECILY_ZESTA_COHORT13_PUBLICATION_GATE_CLOSE.json) certifies9904a30d/1095projectpaths/20models, not this later candidate. Full candidate review, preflight, normal publication, remote readback, source audit, housekeeping, final actual-source audit and fresh reload are still required for cohort14.
 
-Continue the full individual/event/alias/incidental census, further earned artifacts, seven expanded specialists, extended/full-series synthesis, six separate StageD successors and designated curation/evaluation/integration/component-release/final-entry work. All41declared source programs retain their closed exact scopes. No new admission, protected merge, executor activation or full-program completion; percentage null.
+Continue the full individual/event/alias/incidental reconciliation and earned artifacts, seven expanded specialists, extended/full-series synthesis, six separate StageD successors and designated curation/evaluation/integration/component-release/final-entry work. All41declared source programs retain exact closed scopes; full program active and percentage null.
 <!-- CURRENT_OPERATION_END -->
 
 The main17 principal readings/checkpoints, main-only specialists, MAIN_ONLY_R1 reconstruction/diagnostic suite, main-principal evidence indexes and four designated holdout-principal assessments are accepted. Their historical derivation, original forecasts, adverse findings and frozen bytes remain separately authoritative at their original boundaries. They are not a substitute for outstanding edition components, expanded synthesis or revised models.

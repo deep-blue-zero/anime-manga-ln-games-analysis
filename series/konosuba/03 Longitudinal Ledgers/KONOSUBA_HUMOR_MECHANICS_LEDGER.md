@@ -1900,3 +1900,8 @@ The banquet's remaining-day limit and resurrection exclusion inYORI04U014P453-46
 ## Cecily and Zesta cohort13 — scoped receiving; containing publication pending
 
 EXP02 image narration can reveal an actual deceptive presentation rather than make all represented claims true. Cecily cooking trail, altered slime, repeated public excuses and bath enlargement have distinct actual/claimed stages. Zesta incongruous polite threats and casual donmai under death threat remain adverse actions; comic framing does not remove confinement, injury, fear or refusal. H1/H2/H3/H4 and literal/inferred/source-uncertain planes remain separate; fantasy is not automatic nonliteral status. No new humor population or agreement statistic is claimed. Generic comic-clergy and plot-convenience rivals remain live.
+
+
+## Cohort14 clergy and merchant bounded returns — 2026-10-20T11:12:02.861945+00:00
+
+Guide's pseudo-apology after sweeping rubbish(MAIN04U019P305–307), sect scapegoating despite admitted misconduct(MAIN16U016P81–107), invented confession/ambush(CONTEXP02U016P439–467) and festival board escalation(MAIN08U014P282–307) use reversals of public framing and immediate conduct. Comic brawl labels and Darkness's response do not equalize initiation, grant consent or make direct physical action unreal. Keep children throwing, guide kicking, mace threat, actual restraint, spell/escape, Kazuma grabbing and unidentified board retaliation at their own actors and stages. See [event index](../08%20Evidence%20and%20Indexes/KONOSUBA_CLERGY_AND_MERCHANT_EVIDENCE_INDEX.md).

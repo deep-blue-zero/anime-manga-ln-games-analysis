@@ -1,8 +1,8 @@
 {
   "schema": "KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS_V1",
   "status": "INCREMENTAL_187_QUALIFIED_RECORDS_NOT_FINAL_INDIVIDUAL_DENOMINATOR",
-  "updated_utc": "2026-10-20T10:24:46.733311+00:00",
-  "scope": "Cecily and Zesta cohort13 scopedTier3 candidates and Tristan/reporting-priest Tier1 profiles semantically received; publication pending.187source-bound records are not final people; full program active.",
+  "updated_utc": "2026-10-20T11:15:25.845559+00:00",
+  "scope": "Four clergy/merchant cohort14 bounded Tier1 profiles semantically received; publication pending.187source-bound records not final people; full program active.",
   "row_semantics": "Distinct qualified working subjects plus explicitly unresolved grouped/identity leads. A row is not automatically one final individual or an earned artifact. Old scope phrases remain their recorded history; the root current scope governs present admission status.",
   "artifact_architecture": "Use existing05 Specialist Synthesis for earned monographs and06 Character Modeling and Reconstruction for distinct mechanism models. Existing ledgers carry bounded profiles unless a separate responsibility is justified. Single current corpus map; curator-only global registry/index enrollment.",
   "rows": [
@@ -494,12 +494,12 @@
     {
       "character": "Zesta",
       "identity": "ゼスタ",
-      "likely_tier": "3, provisional scoped cohort13 model semantic receiving complete; containing publication pending",
-      "priority": "Substantive model/monograph/index received; containing publication gate pending",
+      "likely_tier": "3, scoped cohort13 full publication gate closed; wider reliability/scope provisional",
+      "priority": "Scoped model/monograph/index gate closed; designated curation and wider program active",
       "evidence_distribution": "Complete EXP02/03 reports, CONTEXP02, DUST04 prison/escape and MAIN16/17 leads. Complete CONTEXP02 report received; current native recheck evidence applies only to named actual windows, not every reported scene. CURRENT WORKING23: MAIN16: complete 18 newly admitted resources/121 P with ruby and residuals and 28 images, sealed before coding; current 1,395 unique accepted-principal BASE-TEXT P across ten members, six complete at base-text scope. No new principal pass, retained-ruby or independent-validation credit. C4 P380–492 and complete Final 515 P. CURRENT WORKING24: Complete accepted MAIN01–04 reports and original V01–V03 checkpoint actually reviewed at derivative scope (receipts32–36); bounded MAIN02 Keele116 P / MAIN04 epilogue94 P native receipt separately recorded. MAIN17 complete new15resources71 P/25images and1,517 retained BASE-TEXT P acrossfiveunits are actual at their stated scopes, not new whole-principal/ruby/independent passes. CURRENT WORKING31: Current complete MAIN13-MAIN16 accepted report review, receipts49-52; derivative claims retain original access planes. Targeted native confirmations are separately pinned, with no new whole-source/independent-test credit. CURRENT COHORT13: shared receiving11 3702knownBASEcontexts/fifteen members/seven objects+20known imageprose pages, with subject-specific events indexed separately; complete direct DUST04U013480 and CONTEXP02U016485/U018470 among current windows. No new global coverage/independent credit.",
       "substantive_responsibility": "Finite exceptional sacred competence, task failure through cruel amusement, harassment and self-flattery coexist with particular gifts/blessing and distributed routine clerical providers. CURRENT WORKING23: Useful driving/control and frightening a manticore coexist with active harassment and threats. Serena's fear and conversion under pressure remain real; no unreceived completed assault or promised future punishment is invented. Actual party capacity is finite: Kazuma counts available teleport slots and Zesta declines an extra burden, then blesses and departs. Missing underwear is a later account, not a witnessed theft. CURRENT WORKING24: Current MAIN04 full epilogue explicitly addresses the high-priest focalizer as ゼスタ P32. He recognizes reports, orders discreet follower notification and restraint, receives a messenger's refund/profit proposal and accepts it. This closes the earlier report-only identity gap, while MAIN16 finite help/coercion remain. CURRENT WORKING31: MAIN16 actual horse control and buffs/finite Teleport party-size exclusion are useful contributions. Captors serious loyalty to Aqua, actual binding/suspension/rope pulling and forced-conversion terms coexist with harassment and threats. MAIN04 reporting priest is a separate actor. CURRENT COHORT13: four-rule differentiated model/monograph/index preserve particular Aqua concern, actual relevant magic/healing/driving, limits and unsafe assurance, playful false attribution, coercion and abandonment. Four actual paired-internal first bodies retain action invariance, generic priest rivals, stage/style defects and discounted refusal without source/independent/Japanese/confidence gain.",
-      "gaps": "Containing exact candidate/publication/readback/source-HK-final gate and fresh reload remain. Generic role/incentive rivals, unknown weights/prevalence, source-known same-author priming and first-body stage/style defects remain. Earlier dispersed source routes retain their own receiving scopes and future return needs. No broad Japanese/unfamiliar-context reliability, capability grade or confidence gain. Full program active.",
-      "disposition_status": "SCOPED_TIER3_COHORT13_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+      "gaps": "Current scoped publication gate and fresh authority reload closed. Generic role/incentive rivals, unknown weights/prevalence, source-known same-author priming, weak discrimination/invariant actions and first-body stage/style defects remain. Earlier dispersed source routes retain their original scopes and further returns. No broad unfamiliar-context/Japanese generative reliability, capability grade or confidence gain. Full program and designated curation/evaluation remain.",
+      "disposition_status": "SCOPED_TIER3_COHORT13_PUBLISHED_FULL_GATE_CLOSED",
       "independent_observation_count": null,
       "prior_gap_history_working22": "Full dispersed native/voice/chronology audit before Tier2 versus3. Specific treason exoneration not universal innocence; reported message and unshown loan/cleaning retained.",
       "current_scope_asof_working23": "MAIN01–15 excluded full gates closed. MAIN16 published 870756ef7cfeb3d14f395deac59be65e909ba9a3; all 9,114 remote paths/35 changed streams verified and exact-index author preflight passed. Source/housekeeping/final audit gate remains pending verification in this version. MAIN17 excluded not admitted. Full individual census, earned artifacts, expanded synthesis/versioned models, curation/integration/release continue.",
@@ -522,17 +522,45 @@
         "evidence_index": "series/konosuba/08 Evidence and Indexes/KONOSUBA_ZESTA_EVIDENCE_INDEX.md"
       },
       "cohort13_actual_receiving11_sha256": "287cf3e60b4d6c786501c8a2ef573df9ed1ee1364f98e9816beadcdaedc04f33",
-      "cohort13_semantic_receiving_sha256": "f28a47ca24b6caf7e2e5bd3dd173aebb081c85d4d5625c5750e71417a8e53192"
+      "cohort13_semantic_receiving_sha256": "f28a47ca24b6caf7e2e5bd3dd173aebb081c85d4d5625c5750e71417a8e53192",
+      "cohort13_publication_pending_at_authorship_history": {
+        "likely_tier": "3, provisional scoped cohort13 model semantic receiving complete; containing publication pending",
+        "priority": "Substantive model/monograph/index received; containing publication gate pending",
+        "disposition_status": "SCOPED_TIER3_COHORT13_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+        "gaps": "Containing exact candidate/publication/readback/source-HK-final gate and fresh reload remain. Generic role/incentive rivals, unknown weights/prevalence, source-known same-author priming and first-body stage/style defects remain. Earlier dispersed source routes retain their own receiving scopes and future return needs. No broad Japanese/unfamiliar-context reliability, capability grade or confidence gain. Full program active."
+      },
+      "cohort13_publication_resolution": {
+        "status": "SCOPED_CECILY_ZESTA_TIER3_AND_TWO_TIER1_PROFILES_FULL_EXACT_SOURCE_GATE_CLOSED",
+        "source": "9904a30d88aadc00d8d5748a28e1bc1be3d43eef",
+        "tree": "4bcb52bf2402477741b47e8e1fa4a889217a095f",
+        "closed_utc": "2026-10-20T10:51:13.909418+00:00",
+        "gate_path": "09 Audits and Manifests/KONOSUBA_CECILY_ZESTA_COHORT13_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "7d4100036443b1f869887f74a4e89a05502a405512ed4837f0f9db26649d8e8b",
+        "source_run": 39409185153,
+        "housekeeping_run": 39409888446,
+        "final_run": 39409943168,
+        "all_remote_paths": 9271,
+        "all_changed_streams": 40,
+        "full_tests_source_and_final": 385,
+        "fresh_project_reload_paths": 1095,
+        "current_model_bodies": 20,
+        "new_model_bodies": 2,
+        "scoped_secondary_model_subjects": 14,
+        "bounded_profiles": 11,
+        "monograph_only_subjects": 1,
+        "independent_accuracy_or_confidence_gain": false,
+        "full_program_complete": false
+      }
     },
     {
       "character": "Cecily",
       "identity": "セシリー",
-      "likely_tier": "3, provisional scoped cohort13 model semantic receiving complete; containing publication pending",
-      "priority": "Substantive model/monograph/index received; containing publication gate pending",
+      "likely_tier": "3, scoped cohort13 full publication gate closed; wider reliability/scope provisional",
+      "priority": "Scoped model/monograph/index gate closed; designated curation and wider program active",
       "evidence_distribution": "Complete EXP02/03 reports with five own EXP02 focalizer interludes, plus CONTEXP01/02 and later-main reported contexts. CompleteCONTEXP01report andfull50Pbonusnative. Complete CONTEXP02 report received; current native recheck evidence applies only to named actual windows, not every reported scene. Complete FD221L report received; direct native applies only to current735P joins, with separate game-novelization source plane. Complete Dust05 report210L and actual721nativeP across3 accepted units now received; direct native support is restricted to the recorded windows, not every report scene. Complete unnumbered Dust continuation report220L received; current387nativeP across4units includes complete34P private epilogue and75P Leen viewpoint, other windows bounded. CURRENT WORKING23: MAIN16: complete 18 newly admitted resources/121 P with ruby and residuals and 28 images, sealed before coding; current 1,395 unique accepted-principal BASE-TEXT P across ten members, six complete at base-text scope. No new principal pass, retained-ruby or independent-validation credit. Complete I2 47 P, I3 46 P and I4 41 P. CURRENT WORKING31: Current complete MAIN13-MAIN16 accepted report review, receipts49-52; derivative claims retain original access planes. Targeted native confirmations are separately pinned, with no new whole-source/independent-test credit. CURRENT COHORT13: five own EXP02 image interludes actually read20pages; shared receiving11 known3702BASEcontexts/fifteen members/seven objects includes MAIN08/16, EXP02C4 and CONTEXP01/02. Count includes other actors/blanks, not independent decisions. Older dispersed receipts/reports retain exact scopes.",
       "substantive_responsibility": "Food/company/pleasure/status/institutional image and doctrinal framing; actual useful work and care alongside coercive contact, theft, victim framing and frightening prank; divergent private candor and false blame. Actuallunchrecruitment11/boundedMassent12, assigningstage20, knowingfalsepublicsectaccusation30 andunperformedmiracle/conversionplan37; Mexplicitrefusal38. Chrisreportssectguiltpressure14/actuallyrecommits17; Mfalseidentitypremise16notsharedsecret. Reportbroaderusefulwork/salesandIrisearning-triggeredguilt retainedwithprimaryconsolidationdue. Dust05 native: owned veto even toward V, explicit respect by Y, actual Cecily restraint/ignored distress, Dust release and later independent Dust forced recruitment under V permission remain separate; chosen skills/work and manager approval do not grant unlimited assent. DUST-CONT full report: child/provider inappropriate approach and false form/powder tactics retained only non-graphically; actual Dust boundary interventions coexist with later conditional recruitment whose qualifiers she does not fully hear. Returns for lost powder, captured and separately isolated, false-priest intervention unplanned. No completed immunity, medicine purchase, harmlessness, or fully informed broad agreement inferred; no current387P Cecily-specific native scene. CURRENT WORKING23: Own drinking account, reported bar ban and Aqua's interpretation differ. She offers to join, recommends a driver and blocks identity disclosure. She chooses detours and admits delay, expresses limited level and actually blesses Aqua. False Fire is Aqua's completed act before the interrupted warning; the crab/ogre consequence is real. The crab party is actually held, beyond an earlier proposal. CURRENT WORKING31: MAIN16 independent advice to use drivers, actual late confession of deliberate delay, finite level-based escort limit and performed Blessing are own contributions. Aqua devotional interpretations, missed-coach chronology and later forgiveness remain distinct. CURRENT COHORT13: separate four-rule model/monograph/index preserve wanted company, ordinaryfood/leisure, useful invention/work/real Blessing/correct water observation with false blame, knowing public deception and ignored refusal. Four actual internal first bodies retain selective credit framing, pressure, true limited contribution and generic rivals; no repair or new accuracy/Japanese/confidence credit.",
-      "gaps": "Containing exact candidate/publication/readback/source-HK-final gate and fresh reload remain. Generic role/incentive rivals, unknown weights/prevalence, source-known same-author priming and first-body stage/style defects remain. Earlier dispersed source routes retain their own receiving scopes and future return needs. No broad Japanese/unfamiliar-context reliability, capability grade or confidence gain. Full program active.",
-      "disposition_status": "SCOPED_TIER3_COHORT13_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+      "gaps": "Current scoped publication gate and fresh authority reload closed. Generic role/incentive rivals, unknown weights/prevalence, source-known same-author priming, weak discrimination/invariant actions and first-body stage/style defects remain. Earlier dispersed source routes retain their original scopes and further returns. No broad unfamiliar-context/Japanese generative reliability, capability grade or confidence gain. Full program and designated curation/evaluation remain.",
+      "disposition_status": "SCOPED_TIER3_COHORT13_PUBLISHED_FULL_GATE_CLOSED",
       "independent_observation_count": null,
       "prior_gap_history_working22": "Exact native/image source/voice backjoins across contexts, individual actor attribution and later disclosure timing. Unnamed Axis recruiter is not automatically Cecily; powder pour/complete healing not invented. MAIN11IMG021puddingproviderisAquaC3P233-235,notCecily;nofalsehouseholdgiftwitnessadded. Source planes and direct/report boundaries remain; no new whole-source/ruby/image/independent validation or original-score revision.",
       "current_scope_asof_working23": "MAIN01–15 excluded full gates closed. MAIN16 published 870756ef7cfeb3d14f395deac59be65e909ba9a3; all 9,114 remote paths/35 changed streams verified and exact-index author preflight passed. Source/housekeeping/final audit gate remains pending verification in this version. MAIN17 excluded not admitted. Full individual census, earned artifacts, expanded synthesis/versioned models, curation/integration/release continue.",
@@ -553,7 +581,35 @@
         "evidence_index": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CECILY_EVIDENCE_INDEX.md"
       },
       "cohort13_actual_receiving11_sha256": "287cf3e60b4d6c786501c8a2ef573df9ed1ee1364f98e9816beadcdaedc04f33",
-      "cohort13_semantic_receiving_sha256": "f28a47ca24b6caf7e2e5bd3dd173aebb081c85d4d5625c5750e71417a8e53192"
+      "cohort13_semantic_receiving_sha256": "f28a47ca24b6caf7e2e5bd3dd173aebb081c85d4d5625c5750e71417a8e53192",
+      "cohort13_publication_pending_at_authorship_history": {
+        "likely_tier": "3, provisional scoped cohort13 model semantic receiving complete; containing publication pending",
+        "priority": "Substantive model/monograph/index received; containing publication gate pending",
+        "disposition_status": "SCOPED_TIER3_COHORT13_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+        "gaps": "Containing exact candidate/publication/readback/source-HK-final gate and fresh reload remain. Generic role/incentive rivals, unknown weights/prevalence, source-known same-author priming and first-body stage/style defects remain. Earlier dispersed source routes retain their own receiving scopes and future return needs. No broad Japanese/unfamiliar-context reliability, capability grade or confidence gain. Full program active."
+      },
+      "cohort13_publication_resolution": {
+        "status": "SCOPED_CECILY_ZESTA_TIER3_AND_TWO_TIER1_PROFILES_FULL_EXACT_SOURCE_GATE_CLOSED",
+        "source": "9904a30d88aadc00d8d5748a28e1bc1be3d43eef",
+        "tree": "4bcb52bf2402477741b47e8e1fa4a889217a095f",
+        "closed_utc": "2026-10-20T10:51:13.909418+00:00",
+        "gate_path": "09 Audits and Manifests/KONOSUBA_CECILY_ZESTA_COHORT13_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "7d4100036443b1f869887f74a4e89a05502a405512ed4837f0f9db26649d8e8b",
+        "source_run": 39409185153,
+        "housekeeping_run": 39409888446,
+        "final_run": 39409943168,
+        "all_remote_paths": 9271,
+        "all_changed_streams": 40,
+        "full_tests_source_and_final": 385,
+        "fresh_project_reload_paths": 1095,
+        "current_model_bodies": 20,
+        "new_model_bodies": 2,
+        "scoped_secondary_model_subjects": 14,
+        "bounded_profiles": 11,
+        "monograph_only_subjects": 1,
+        "independent_accuracy_or_confidence_gain": false,
+        "full_program_complete": false
+      }
     },
     {
       "character": "Leen / Lean",
@@ -2474,12 +2530,12 @@
     {
       "character": "Unnamed reporting priest to Zesta (MAIN04 epilogue)",
       "identity": "Distinct messenger from explicitly named Zesta focalizer.",
-      "likely_tier": "1, bounded cohort13 reporting-priest profile received; publication pending",
-      "priority": "Substantive bounded profile received; containing publication gate pending",
+      "likely_tier": "1, scoped cohort13 full publication gate closed; wider reliability/scope provisional",
+      "priority": "Scoped bounded-profile gate closed; broader individual review and wider program active",
       "evidence_distribution": "Actual MAIN04 epilogueP1–94, especiallyP6–36 native receipt. CURRENT COHORT13: MAIN04U025P1-94 knownBASE context confirmed, particularly6-36; distinct messenger and Zesta focalizer named32.",
       "substantive_responsibility": "Delivers report, asks about notification, supplies holy-water trade possibility, raises compensation and proposes covert reimbursement; Zesta receives and accepts. Own contribution is concrete. CURRENT COHORT13: compact Tier1 profile receives own report, notification question, commercial proposal22 and covert reimbursement proposal28/acknowledged departure32-34. No actual refund/sale/profit or named continuity; gender unknown at this scope.",
-      "gaps": "Name, office, gender and cross-appearance identity remain unknown; no actual refund, arrival, completed trade/profit or general psychological rule from this meeting. Future evidence can earn expansion. Containing full publication gate remains.",
-      "disposition_status": "SCOPED_TIER1_COHORT13_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+      "gaps": "Name, office, gender and cross-appearance identity remain unknown; no actual refund, arrival, completed trade/profit or general psychological rule from this meeting. Future evidence can earn expansion. Current scoped full publication gate closed; broader review remains. Cohort13 exact publication gate and fresh authority reload closed; no general reconstruction capability claimed.",
+      "disposition_status": "SCOPED_TIER1_COHORT13_PUBLISHED_FULL_GATE_CLOSED",
       "independent_observation_count": null,
       "current_scope_asof_working24": "All seventeen main excluded-component source programs, nineteen supplemental editions and five mixed/reference programs have closed exact publication gates at their declared scopes. MAIN17 source49dbe1b11b22a4007c33c9d3bea16c7877006bc1; all9,132remote paths/35changedstreams exact; full source/HK/final actual-source audit/status and fresh962authority reload verified. Main source-program closure is not full census/synthesis/model/curation/release closure. No MAIN18 admission; final individual denominator and global percentage remain unresolved.",
       "prior_targeted_fields_before_cohort13": {
@@ -2494,7 +2550,35 @@
         "bounded_profile": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT13_BOUNDED_PROFILES.md"
       },
       "cohort13_actual_receiving11_sha256": "287cf3e60b4d6c786501c8a2ef573df9ed1ee1364f98e9816beadcdaedc04f33",
-      "cohort13_semantic_receiving_sha256": "f28a47ca24b6caf7e2e5bd3dd173aebb081c85d4d5625c5750e71417a8e53192"
+      "cohort13_semantic_receiving_sha256": "f28a47ca24b6caf7e2e5bd3dd173aebb081c85d4d5625c5750e71417a8e53192",
+      "cohort13_publication_pending_at_authorship_history": {
+        "likely_tier": "1, bounded cohort13 reporting-priest profile received; publication pending",
+        "priority": "Substantive bounded profile received; containing publication gate pending",
+        "disposition_status": "SCOPED_TIER1_COHORT13_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+        "gaps": "Name, office, gender and cross-appearance identity remain unknown; no actual refund, arrival, completed trade/profit or general psychological rule from this meeting. Future evidence can earn expansion. Containing full publication gate remains."
+      },
+      "cohort13_publication_resolution": {
+        "status": "SCOPED_CECILY_ZESTA_TIER3_AND_TWO_TIER1_PROFILES_FULL_EXACT_SOURCE_GATE_CLOSED",
+        "source": "9904a30d88aadc00d8d5748a28e1bc1be3d43eef",
+        "tree": "4bcb52bf2402477741b47e8e1fa4a889217a095f",
+        "closed_utc": "2026-10-20T10:51:13.909418+00:00",
+        "gate_path": "09 Audits and Manifests/KONOSUBA_CECILY_ZESTA_COHORT13_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "7d4100036443b1f869887f74a4e89a05502a405512ed4837f0f9db26649d8e8b",
+        "source_run": 39409185153,
+        "housekeeping_run": 39409888446,
+        "final_run": 39409943168,
+        "all_remote_paths": 9271,
+        "all_changed_streams": 40,
+        "full_tests_source_and_final": 385,
+        "fresh_project_reload_paths": 1095,
+        "current_model_bodies": 20,
+        "new_model_bodies": 2,
+        "scoped_secondary_model_subjects": 14,
+        "bounded_profiles": 11,
+        "monograph_only_subjects": 1,
+        "independent_accuracy_or_confidence_gain": false,
+        "full_program_complete": false
+      }
     },
     {
       "character": "Unnamed street performer (MAIN03; Pierre join open)",
@@ -3058,13 +3142,41 @@
     {
       "character": "Tristan / トリスタン",
       "identity": "Named Axis finance officer; Megumin recognizes secretary-like place beside Zesta. Not Zereschilt.",
-      "likely_tier": "1 scoped bounded profile; publication pending",
-      "priority": "Source-bound individual index/profile review; global census open",
+      "likely_tier": "1, scoped cohort13 full publication gate closed; wider reliability/scope provisional",
+      "priority": "Scoped bounded-profile gate closed; broader individual review and wider program active",
       "evidence_distribution": "EXP02 U038 P102–117; DUST04 U013 P43 report; receiving11 shared scope, no new native/admission/independent credit.",
       "substantive_responsibility": "Actual public succession campaign, harmful policy proposals, protest at interruption and offered bet. A later Zesta question supplies a name relation only.",
-      "gaps": "No bookkeeping competence, enacted law, paid bet, won election or identified searcher. Further material may earn expansion.",
-      "disposition_status": "SCOPED_BOUNDED_PROFILE_PUBLICATION_PENDING",
-      "independent_observation_count": null
+      "gaps": "No bookkeeping competence, enacted law, paid bet, won election or identified searcher. Further material may earn expansion. Cohort13 exact publication gate and fresh authority reload closed; no general reconstruction capability claimed.",
+      "disposition_status": "SCOPED_TIER1_COHORT13_PUBLISHED_FULL_GATE_CLOSED",
+      "independent_observation_count": null,
+      "cohort13_publication_pending_at_authorship_history": {
+        "likely_tier": "1 scoped bounded profile; publication pending",
+        "priority": "Source-bound individual index/profile review; global census open",
+        "disposition_status": "SCOPED_BOUNDED_PROFILE_PUBLICATION_PENDING",
+        "gaps": "No bookkeeping competence, enacted law, paid bet, won election or identified searcher. Further material may earn expansion."
+      },
+      "cohort13_publication_resolution": {
+        "status": "SCOPED_CECILY_ZESTA_TIER3_AND_TWO_TIER1_PROFILES_FULL_EXACT_SOURCE_GATE_CLOSED",
+        "source": "9904a30d88aadc00d8d5748a28e1bc1be3d43eef",
+        "tree": "4bcb52bf2402477741b47e8e1fa4a889217a095f",
+        "closed_utc": "2026-10-20T10:51:13.909418+00:00",
+        "gate_path": "09 Audits and Manifests/KONOSUBA_CECILY_ZESTA_COHORT13_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "7d4100036443b1f869887f74a4e89a05502a405512ed4837f0f9db26649d8e8b",
+        "source_run": 39409185153,
+        "housekeeping_run": 39409888446,
+        "final_run": 39409943168,
+        "all_remote_paths": 9271,
+        "all_changed_streams": 40,
+        "full_tests_source_and_final": 385,
+        "fresh_project_reload_paths": 1095,
+        "current_model_bodies": 20,
+        "new_model_bodies": 2,
+        "scoped_secondary_model_subjects": 14,
+        "bounded_profiles": 11,
+        "monograph_only_subjects": 1,
+        "independent_accuracy_or_confidence_gain": false,
+        "full_program_complete": false
+      }
     },
     {
       "character": "クレイン (Crane retrieval only)",
@@ -3079,36 +3191,91 @@
     },
     {
       "character": "Unnamed returning Axis church guide (MAIN16)",
-      "identity": "Kazuma explicitly remembers a first-visit guide at MAIN16U016P87; exact earlier MAIN04 member return still required. Not joined to Cecily or Tristan.",
-      "likely_tier": "0–1 bounded candidate; identity/source return pending",
-      "priority": "Source-bound individual index/profile review; global census open",
-      "evidence_distribution": "MAIN16 U016 P76–122, especiallyP87/92/103/106/114/119–122; receiving11 shared scope, no new native/admission/independent credit.",
-      "substantive_responsibility": "Own stay-behind/duty account, reported road-clearing assignment, hostile sect response, market-loss account and actual horse rental.",
-      "gaps": "A remembered guide can be the same earlier actor without a new independent trial. No global named join, personal stone-throwing proof, completed weapon assault or admitted full horse-trap mechanism. Retain source-bound record with unresolved aliases.",
-      "disposition_status": "QUALIFIED_SOURCE_BOUND_INDIVIDUAL_OR_OCCURRENCE_NOT_FINAL_IDENTITY_POPULATION",
-      "independent_observation_count": null
+      "identity": "Unnamed female Axis guide explicitly linked from MAIN16U016P87 to first church visit MAIN04U019P278–310; no personal name, priest qualification or Cecily/Tristan join.",
+      "likely_tier": "1, scoped cohort14 bounded profile semantic receiving complete; containing publication pending",
+      "priority": "Bounded individual profile received; exact containing publication gate pending; broader program continues",
+      "evidence_distribution": "MAIN16 U016 P76–122, especiallyP87/92/103/106/114/119–122; receiving11 shared scope, no new native/admission/independent credit. CURRENT COHORT14: MAIN04U019P278–310 explicitly earlier guide through MAIN16U016P87; actual rubbish sweepP305 and later stone kick/hitP93–94 stay distinct from earlier unproved Aqua-mob participation. Two later packets total534knownBASEcontextslots with repetitions/other actors/blanks, zero new admission/globalunique/independent credit.",
+      "substantive_responsibility": "Own stay-behind/duty account, reported road-clearing assignment, hostile sect response, market-loss account and actual horse rental. CURRENT COHORT14: separate bounded Tier1 profile receives actual agency, work/affect/relations/ordinary constraints and serious situational/generic rivals; no new model, test or permanent tier ceiling.",
+      "gaps": "Personal name/rank/clerical qualification, learning time of goddess recognition, precise kick intent, exact cash transfer/terms and full horse-trap mechanism unknown. Mace assault unperformed; no proved individual earlier Aqua-mob throwing. No Cecily/Tristan join or permanent tier ceiling.",
+      "disposition_status": "SCOPED_TIER1_COHORT14_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "prior_targeted_fields_before_cohort14": {
+        "likely_tier": "0–1 bounded candidate; identity/source return pending",
+        "priority": "Source-bound individual index/profile review; global census open",
+        "gaps": "A remembered guide can be the same earlier actor without a new independent trial. No global named join, personal stone-throwing proof, completed weapon assault or admitted full horse-trap mechanism. Retain source-bound record with unresolved aliases.",
+        "disposition_status": "QUALIFIED_SOURCE_BOUND_INDIVIDUAL_OR_OCCURRENCE_NOT_FINAL_IDENTITY_POPULATION",
+        "identity": "Kazuma explicitly remembers a first-visit guide at MAIN16U016P87; exact earlier MAIN04 member return still required. Not joined to Cecily or Tristan.",
+        "evidence_distribution": "MAIN16 U016 P76–122, especiallyP87/92/103/106/114/119–122; receiving11 shared scope, no new native/admission/independent credit.",
+        "substantive_responsibility": "Own stay-behind/duty account, reported road-clearing assignment, hostile sect response, market-loss account and actual horse rental."
+      },
+      "cohort14_current_artifacts": {
+        "bounded_profile": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT14_CLERGY_AND_MERCHANT_BOUNDED_PROFILES.md",
+        "evidence_index": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CLERGY_AND_MERCHANT_EVIDENCE_INDEX.md",
+        "provenance": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CLERGY_AND_MERCHANT_NATIVE_PROVENANCE_01.json"
+      },
+      "cohort14_semantic_receiving_sha256": "8e7cf31ceaadfbd4379890c0b56d8f3a808155c07a87b7441c97ae39365a526d",
+      "cohort14_actual_receiving_sha256": [
+        "544f3231b439aaacac37081c74c6b07f67e2affc7f998b5dd3c7535cf553874a",
+        "e191bd608cacec7df26320f74c17a6476fdf765b92f6b76451e5013cebc52e11"
+      ]
     },
     {
       "character": "Unnamed Axel Eris priest (CONTEXP01)",
       "identity": "Individual at the Axel Eris church, addressed separately from Cecily; gender/name and other appearances not established here.",
-      "likely_tier": "0–1 bounded candidate; profile review open",
-      "priority": "Source-bound individual index/profile review; global census open",
-      "evidence_distribution": "CONTEXP01 U015 P318–352; receiving11 shared scope, no new native/admission/independent credit.",
-      "substantive_responsibility": "Rejects repeated visits, explains healing/food work, reacts to provocation, expresses embarrassment and threatens consequences; Cecily apology is forced by Megumin.",
-      "gaps": "Do not merge with Arcanretia Eris priest, Zesta reporter, two bread men or Tomas by religion/role. No proved food theft, performed threatened attack or universal doctrine from the exchange.",
-      "disposition_status": "QUALIFIED_SOURCE_BOUND_INDIVIDUAL_OR_OCCURRENCE_NOT_FINAL_IDENTITY_POPULATION",
-      "independent_observation_count": null
+      "likely_tier": "1, scoped cohort14 bounded profile semantic receiving complete; containing publication pending",
+      "priority": "Bounded individual profile received; exact containing publication gate pending; broader program continues",
+      "evidence_distribution": "CONTEXP01 U015 P318–352; receiving11 shared scope, no new native/admission/independent credit. CURRENT COHORT14: CONTEXP01U015P327–352 supplies service account, repeated no-visit boundary, discomfort/anger, acknowledged embarrassment and unperformed mace threat; forced Cecily apology is not recipient forgiveness. Two later packets total534knownBASEcontextslots with repetitions/other actors/blanks, zero new admission/globalunique/independent credit.",
+      "substantive_responsibility": "Rejects repeated visits, explains healing/food work, reacts to provocation, expresses embarrassment and threatens consequences; Cecily apology is forced by Megumin. CURRENT COHORT14: separate bounded Tier1 profile receives actual agency, work/affect/relations/ordinary constraints and serious situational/generic rivals; no new model, test or permanent tier ceiling.",
+      "gaps": "Personal name/gender/rank and wider conduct unknown. No watched healing/audited food, proven theft, performed threatened attack or repaired relation. Distinct from Arcanretia priest; generic harassed cleric rival remains.",
+      "disposition_status": "SCOPED_TIER1_COHORT14_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "prior_targeted_fields_before_cohort14": {
+        "likely_tier": "0–1 bounded candidate; profile review open",
+        "priority": "Source-bound individual index/profile review; global census open",
+        "gaps": "Do not merge with Arcanretia Eris priest, Zesta reporter, two bread men or Tomas by religion/role. No proved food theft, performed threatened attack or universal doctrine from the exchange.",
+        "disposition_status": "QUALIFIED_SOURCE_BOUND_INDIVIDUAL_OR_OCCURRENCE_NOT_FINAL_IDENTITY_POPULATION",
+        "evidence_distribution": "CONTEXP01 U015 P318–352; receiving11 shared scope, no new native/admission/independent credit.",
+        "substantive_responsibility": "Rejects repeated visits, explains healing/food work, reacts to provocation, expresses embarrassment and threatens consequences; Cecily apology is forced by Megumin."
+      },
+      "cohort14_current_artifacts": {
+        "bounded_profile": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT14_CLERGY_AND_MERCHANT_BOUNDED_PROFILES.md",
+        "evidence_index": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CLERGY_AND_MERCHANT_EVIDENCE_INDEX.md",
+        "provenance": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CLERGY_AND_MERCHANT_NATIVE_PROVENANCE_01.json"
+      },
+      "cohort14_semantic_receiving_sha256": "8e7cf31ceaadfbd4379890c0b56d8f3a808155c07a87b7441c97ae39365a526d",
+      "cohort14_actual_receiving_sha256": [
+        "544f3231b439aaacac37081c74c6b07f67e2affc7f998b5dd3c7535cf553874a",
+        "e191bd608cacec7df26320f74c17a6476fdf765b92f6b76451e5013cebc52e11"
+      ]
     },
     {
       "character": "Unnamed Arcanretia Eris priest (CONTEXP02)",
       "identity": "Female priest at Arcanretia Eris church; explicitly treats Megumin as a first meetingP476.",
-      "likely_tier": "0–1 bounded candidate; profile review open",
-      "priority": "Source-bound individual index/profile review; global census open",
-      "evidence_distribution": "CONTEXP02 U016 P439–485; U018 P10 qualification; receiving11 shared scope, no new native/admission/independent credit.",
-      "substantive_responsibility": "Denies invented confession, names actual harassment grievance, casts Powered and throws/punches attackers to escape; describes sole-church staffing and poverty.",
-      "gaps": "No romantic assent from protest, no completed unshown contact, no independently audited finances. Keep distinct from Axel priest unless explicit continuity later supports a join.",
-      "disposition_status": "QUALIFIED_SOURCE_BOUND_INDIVIDUAL_OR_OCCURRENCE_NOT_FINAL_IDENTITY_POPULATION",
-      "independent_observation_count": null
+      "likely_tier": "1, scoped cohort14 bounded profile semantic receiving complete; containing publication pending",
+      "priority": "Bounded individual profile received; exact containing publication gate pending; broader program continues",
+      "evidence_distribution": "CONTEXP02 U016 P439–485; U018 P10 qualification; receiving11 shared scope, no new native/admission/independent credit. CURRENT COHORT14: CONTEXP02U016P434–485 supplies actual restraint, denial/nuisance grievance, Powered/throw/punch, first-meeting statementP476 and poverty/occupancy account; U018P10 later probably-innocent qualification. Two later packets total534knownBASEcontextslots with repetitions/other actors/blanks, zero new admission/globalunique/independent credit.",
+      "substantive_responsibility": "Denies invented confession, names actual harassment grievance, casts Powered and throws/punches attackers to escape; describes sole-church staffing and poverty. CURRENT COHORT14: separate bounded Tier1 profile receives actual agency, work/affect/relations/ordinary constraints and serious situational/generic rivals; no new model, test or permanent tier ceiling.",
+      "gaps": "No romantic assent, completed forced contact, audited finances, actual later donation, apology or universal availability/moral rule. Keep separate from Axel priest; situational caretaker-under-harassment rival remains.",
+      "disposition_status": "SCOPED_TIER1_COHORT14_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "prior_targeted_fields_before_cohort14": {
+        "likely_tier": "0–1 bounded candidate; profile review open",
+        "priority": "Source-bound individual index/profile review; global census open",
+        "gaps": "No romantic assent from protest, no completed unshown contact, no independently audited finances. Keep distinct from Axel priest unless explicit continuity later supports a join.",
+        "disposition_status": "QUALIFIED_SOURCE_BOUND_INDIVIDUAL_OR_OCCURRENCE_NOT_FINAL_IDENTITY_POPULATION",
+        "evidence_distribution": "CONTEXP02 U016 P439–485; U018 P10 qualification; receiving11 shared scope, no new native/admission/independent credit.",
+        "substantive_responsibility": "Denies invented confession, names actual harassment grievance, casts Powered and throws/punches attackers to escape; describes sole-church staffing and poverty."
+      },
+      "cohort14_current_artifacts": {
+        "bounded_profile": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT14_CLERGY_AND_MERCHANT_BOUNDED_PROFILES.md",
+        "evidence_index": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CLERGY_AND_MERCHANT_EVIDENCE_INDEX.md",
+        "provenance": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CLERGY_AND_MERCHANT_NATIVE_PROVENANCE_01.json"
+      },
+      "cohort14_semantic_receiving_sha256": "8e7cf31ceaadfbd4379890c0b56d8f3a808155c07a87b7441c97ae39365a526d",
+      "cohort14_actual_receiving_sha256": [
+        "544f3231b439aaacac37081c74c6b07f67e2affc7f998b5dd3c7535cf553874a",
+        "e191bd608cacec7df26320f74c17a6476fdf765b92f6b76451e5013cebc52e11"
+      ]
     },
     {
       "character": "Unnamed inn woman reporting stolen snack (CONTEXP02)",
@@ -3157,13 +3324,31 @@
     {
       "character": "Unnamed merchant association chair (MAIN08)",
       "identity": "Chair negotiates festival involvement; no name or join to other civic officials established.",
-      "likely_tier": "0–1 bounded candidate; further context review open",
-      "priority": "Source-bound individual index/profile review; global census open",
-      "evidence_distribution": "MAIN08 U013 P183–230; receiving11 shared scope, no new native/admission/independent credit.",
-      "substantive_responsibility": "Initially refuses, is physically attacked by Cecily, hears Kazuma out and becomes interested in commercial reasoning.",
-      "gaps": "Current return ends mid-negotiation; no final agreement/payment credited from this window. Do not equate taking a proposal seriously with accepting it or excuse assault with later profit.",
-      "disposition_status": "QUALIFIED_SOURCE_BOUND_INDIVIDUAL_OR_OCCURRENCE_NOT_FINAL_IDENTITY_POPULATION",
-      "independent_observation_count": null
+      "likely_tier": "1, scoped cohort14 bounded profile semantic receiving complete; containing publication pending",
+      "priority": "Bounded individual profile received; exact containing publication gate pending; broader program continues",
+      "evidence_distribution": "MAIN08 U013 P183–230; receiving11 shared scope, no new native/admission/independent credit. CURRENT COHORT14: MAIN08U013P231–239 now completes actual agreement/adviser role acceptance; U014P247–307/P645–673 supplies practical objections/conflict/hosting; U016P500–509 reports delivered reward and shows money bag. Two later packets total534knownBASEcontextslots with repetitions/other actors/blanks, zero new admission/globalunique/independent credit.",
+      "substantive_responsibility": "Initially refuses, is physically attacked by Cecily, hears Kazuma out and becomes interested in commercial reasoning. CURRENT COHORT14: separate bounded Tier1 profile receives actual agency, work/affect/relations/ordinary constraints and serious situational/generic rivals; no new model, test or permanent tier ceiling.",
+      "gaps": "Offstage delivery report plus visible bag does not show exact amount, Kazuma acceptance or all costs settled. The source does not assign each board voice/blow to the chair or show that he knew Kazuma unspoken resignation intention. No other-official join; generic civic organizer rival remains.",
+      "disposition_status": "SCOPED_TIER1_COHORT14_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "prior_targeted_fields_before_cohort14": {
+        "likely_tier": "0–1 bounded candidate; further context review open",
+        "priority": "Source-bound individual index/profile review; global census open",
+        "gaps": "Current return ends mid-negotiation; no final agreement/payment credited from this window. Do not equate taking a proposal seriously with accepting it or excuse assault with later profit.",
+        "disposition_status": "QUALIFIED_SOURCE_BOUND_INDIVIDUAL_OR_OCCURRENCE_NOT_FINAL_IDENTITY_POPULATION",
+        "evidence_distribution": "MAIN08 U013 P183–230; receiving11 shared scope, no new native/admission/independent credit.",
+        "substantive_responsibility": "Initially refuses, is physically attacked by Cecily, hears Kazuma out and becomes interested in commercial reasoning."
+      },
+      "cohort14_current_artifacts": {
+        "bounded_profile": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT14_CLERGY_AND_MERCHANT_BOUNDED_PROFILES.md",
+        "evidence_index": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CLERGY_AND_MERCHANT_EVIDENCE_INDEX.md",
+        "provenance": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CLERGY_AND_MERCHANT_NATIVE_PROVENANCE_01.json"
+      },
+      "cohort14_semantic_receiving_sha256": "8e7cf31ceaadfbd4379890c0b56d8f3a808155c07a87b7441c97ae39365a526d",
+      "cohort14_actual_receiving_sha256": [
+        "544f3231b439aaacac37081c74c6b07f67e2affc7f998b5dd3c7535cf553874a",
+        "e191bd608cacec7df26320f74c17a6476fdf765b92f6b76451e5013cebc52e11"
+      ]
     },
     {
       "character": "Unnamed tadpole-stall police officer (MAIN08)",
@@ -3284,9 +3469,10 @@
     "Claire cohort11 scopedTier3 full publication gate closed",
     "Rain cohort11 scopedTier3 full publication gate closed",
     "Luna cohort12 scopedTier3 full publication gate closed",
-    "Cecily/Zesta scopedTier3 and Tristan/reporting-priest Tier1 cohort13 semantic receiving complete; publication pending"
+    "Cecily/Zesta scopedTier3 and Tristan/reporting-priest Tier1 cohort13 full publication gate closed",
+    "Four clergy/merchant scopedTier1 profiles cohort14 semantic receiving complete; publication pending"
   ],
-  "current_actual_individual_audit_scope": "Full current ten responsibilities and earlier41source/report programs retain exact scopes. Shared3702knownBASEcontexts/fifteenmembers/sevenobjects+20knownimageprose pages are not new global/native/full/ruby/image/admission/independent credit. Three old rows targeted,165others exact,19newqualifiedentity/occurrence records,187workingrecords not a final identity/tier denominator. Full census/artifacts/specialists/full-series/sixStageD/curation/evaluation/integration/release continue.",
+  "current_actual_individual_audit_scope": "Earlier41source/report programs and full ten responsibilities retain exact qualified scopes. Two later bounded packets contain534knownBASEcontextslots/ninemembers/fiveobjects with repetitions/other actors/blanks; no new global/full/ruby/image/admission/independent credit. Four existing rows170/171/172/177 targeted;183others exact; no new rows,187nonfinalrecords. Full census/artifacts/seven specialists/full-series/six StageD/designated ownership/release continues.",
   "historical_integrity": "MG02-I01/I02 through MG05, original blank fields, CP outcomes, letters-as-NT and preYORI04SEC01 scope remain unchanged. New source-known comparisons are retrospective; hypotheticals are not source validation.",
   "current_receipt_pins": [
     {
@@ -3381,18 +3567,22 @@
   },
   "change_controls": {
     "targeted_prior_row_indices": [
-      12,
-      13,
-      142
+      170,
+      171,
+      172,
+      177
     ],
-    "untouched_prior_rows_exact": 165,
-    "new_qualified_rows": 19,
+    "untouched_prior_rows_exact": 183,
+    "new_qualified_rows": 0,
     "current_rows_not_final_population": 187,
-    "eighteen_entering_models_unchanged": true,
-    "new_distinct_reconstruction_models": 2,
-    "proposed_current_models_after_adoption": 20,
-    "new_bounded_profiles": 2,
-    "proposed_bounded_profiles": 11,
+    "twenty_entering_models_unchanged": true,
+    "new_distinct_models": 0,
+    "current_models_after_adoption": 20,
+    "current_scoped_secondary_model_subjects": 14,
+    "Nos_monograph_only_preserved": true,
+    "prior_bounded_profiles": 11,
+    "new_bounded_profiles": 4,
+    "proposed_bounded_profiles": 15,
     "new_source_admission": false,
     "global_census_closed": false,
     "final_tiers_assigned": false,
@@ -4371,7 +4561,7 @@
     "working_row_count_not_population_denominator": 168
   },
   "cohort13_current_receiving": {
-    "status": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+    "status": "SCOPED_SEMANTIC_AND_FULL_EXACT_SOURCE_GATE_CLOSED",
     "subjects": "Cecily/Zesta Tier3 scoped candidates; Tristan/existing reporter142 Tier1 profiles;19qualifiedindividual/occurrence records.",
     "actual_native_receiving11_sha256": "287cf3e60b4d6c786501c8a2ef573df9ed1ee1364f98e9816beadcdaedc04f33",
     "semantic_receiving_sha256": "f28a47ca24b6caf7e2e5bd3dd173aebb081c85d4d5625c5750e71417a8e53192",
@@ -4379,5 +4569,129 @@
     "new_models": 2,
     "actual_first_bodies": 8,
     "no_independent_accuracy_grade_or_confidence_gain": true
+  },
+  "historical_scope_at_cohort13_semantic_adoption": {
+    "scope": "Cecily and Zesta cohort13 scopedTier3 candidates and Tristan/reporting-priest Tier1 profiles semantically received; publication pending.187source-bound records are not final people; full program active.",
+    "scoped_tiers_assigned": [
+      "Iris cohort01 full publication gate closed",
+      "Yunyun cohort02 full publication gate closed",
+      "Vanir overallcohort03 full publication gate closed",
+      "Wiz overallcohort04 full publication gate closed",
+      "Chris/Eris overallcohort05 full publication gate closed",
+      "Dust overallcohort06 full publication gate closed",
+      "Komekko overallcohort07 full publication gate closed",
+      "Hoost overallcohort08 full publication gate closed",
+      "Levi overallcohort09 full publication gate closed",
+      "Nos cohort10 Tier2 monograph full publication gate closed; no distinct model",
+      "Claire cohort11 scopedTier3 full publication gate closed",
+      "Rain cohort11 scopedTier3 full publication gate closed",
+      "Luna cohort12 scopedTier3 full publication gate closed",
+      "Cecily/Zesta scopedTier3 and Tristan/reporting-priest Tier1 cohort13 semantic receiving complete; publication pending"
+    ],
+    "cohort13_current_receiving": {
+      "status": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+      "subjects": "Cecily/Zesta Tier3 scoped candidates; Tristan/existing reporter142 Tier1 profiles;19qualifiedindividual/occurrence records.",
+      "actual_native_receiving11_sha256": "287cf3e60b4d6c786501c8a2ef573df9ed1ee1364f98e9816beadcdaedc04f33",
+      "semantic_receiving_sha256": "f28a47ca24b6caf7e2e5bd3dd173aebb081c85d4d5625c5750e71417a8e53192",
+      "entering_models_exact": 18,
+      "new_models": 2,
+      "actual_first_bodies": 8,
+      "no_independent_accuracy_grade_or_confidence_gain": true
+    }
+  },
+  "cohort13_publication_resolution": {
+    "status": "SCOPED_CECILY_ZESTA_TIER3_AND_TWO_TIER1_PROFILES_FULL_EXACT_SOURCE_GATE_CLOSED",
+    "source": "9904a30d88aadc00d8d5748a28e1bc1be3d43eef",
+    "tree": "4bcb52bf2402477741b47e8e1fa4a889217a095f",
+    "closed_utc": "2026-10-20T10:51:13.909418+00:00",
+    "gate_path": "09 Audits and Manifests/KONOSUBA_CECILY_ZESTA_COHORT13_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "7d4100036443b1f869887f74a4e89a05502a405512ed4837f0f9db26649d8e8b",
+    "source_run": 39409185153,
+    "housekeeping_run": 39409888446,
+    "final_run": 39409943168,
+    "all_remote_paths": 9271,
+    "all_changed_streams": 40,
+    "full_tests_source_and_final": 385,
+    "fresh_project_reload_paths": 1095,
+    "current_model_bodies": 20,
+    "new_model_bodies": 2,
+    "scoped_secondary_model_subjects": 14,
+    "bounded_profiles": 11,
+    "monograph_only_subjects": 1,
+    "independent_accuracy_or_confidence_gain": false,
+    "full_program_complete": false
+  },
+  "cohort13_post_gate_controls": {
+    "targeted_status_rows": [
+      12,
+      13,
+      142,
+      168
+    ],
+    "other183_rows_exact": true,
+    "all_twenty_models_exact": true,
+    "global_census_closed": false,
+    "final_tiers_assigned": false,
+    "percentage": null
+  },
+  "prior_current_metadata_before_cohort14": {
+    "scope": "Cohorts01-13: fourteen scoped Tier3 secondary model subjects, eleven bounded profiles and one Nos Tier2 monograph-only subject have closed exact publication gates at their declared scopes. Twenty model bodies;187qualifiedsource-bound records include unresolved groups/aliases/occurrence slots and are not final unique people. Full census, final tiers and program remain open.",
+    "scoped_tiers_assigned": [
+      "Iris cohort01 full publication gate closed",
+      "Yunyun cohort02 full publication gate closed",
+      "Vanir overallcohort03 full publication gate closed",
+      "Wiz overallcohort04 full publication gate closed",
+      "Chris/Eris overallcohort05 full publication gate closed",
+      "Dust overallcohort06 full publication gate closed",
+      "Komekko overallcohort07 full publication gate closed",
+      "Hoost overallcohort08 full publication gate closed",
+      "Levi overallcohort09 full publication gate closed",
+      "Nos cohort10 Tier2 monograph full publication gate closed; no distinct model",
+      "Claire cohort11 scopedTier3 full publication gate closed",
+      "Rain cohort11 scopedTier3 full publication gate closed",
+      "Luna cohort12 scopedTier3 full publication gate closed",
+      "Cecily/Zesta scopedTier3 and Tristan/reporting-priest Tier1 cohort13 full publication gate closed"
+    ],
+    "current_actual_individual_audit_scope": "Full current ten responsibilities and earlier41source/report programs retain exact scopes. Shared3702knownBASEcontexts/fifteenmembers/sevenobjects+20knownimageprose pages are not new global/native/full/ruby/image/admission/independent credit. Three old rows targeted,165others exact,19newqualifiedentity/occurrence records,187workingrecords not a final identity/tier denominator. Full census/artifacts/specialists/full-series/sixStageD/curation/evaluation/integration/release continue.",
+    "change_controls": {
+      "targeted_prior_row_indices": [
+        12,
+        13,
+        142
+      ],
+      "untouched_prior_rows_exact": 165,
+      "new_qualified_rows": 19,
+      "current_rows_not_final_population": 187,
+      "eighteen_entering_models_unchanged": true,
+      "new_distinct_reconstruction_models": 2,
+      "proposed_current_models_after_adoption": 20,
+      "new_bounded_profiles": 2,
+      "proposed_bounded_profiles": 11,
+      "new_source_admission": false,
+      "global_census_closed": false,
+      "final_tiers_assigned": false,
+      "global_completion_percentage": null
+    },
+    "pending": "Full all-individual/event/alias/incidental dispositions, further earned artifacts, seven expanded specialists and extended/full-series syntheses, six separate StageD principal-party-transfer revisions, designated curation/evaluation/integration and component/release/final-entry audits."
+  },
+  "cohort14_current_receiving": {
+    "status": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+    "subject_record_indices": [
+      170,
+      171,
+      172,
+      177
+    ],
+    "semantic_receiving_sha256": "8e7cf31ceaadfbd4379890c0b56d8f3a808155c07a87b7441c97ae39365a526d",
+    "actual_native_receiving_sha256": [
+      "544f3231b439aaacac37081c74c6b07f67e2affc7f998b5dd3c7535cf553874a",
+      "e191bd608cacec7df26320f74c17a6476fdf765b92f6b76451e5013cebc52e11"
+    ],
+    "known_BASE_context_slots": 534,
+    "current_models_exact": 20,
+    "new_models": 0,
+    "new_first_bodies": 0,
+    "no_independent_accuracy_grade_or_confidence_gain": true,
+    "history_home": "canonical"
   }
 }

@@ -2,7 +2,7 @@
   "schema": "KONOSUBA_CECILY_ZESTA_COHORT13_RECEIVING_AND_PROVENANCE_V1",
   "recorded_utc": "2026-10-20T10:24:46.733311+00:00",
   "source_boundary": "432b8fd18d0d4ad0047defc8d8a614ecfb2770f4",
-  "status": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_CONTAINING_PUBLICATION_GATE_PENDING",
+  "status": "SCOPED_SEMANTIC_AND_FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
   "subject_tiers": {
     "Cecily": 3,
     "Zesta": 3,
@@ -520,5 +520,29 @@
     ],
     "core_models_inputs_first_bodies_and_all19_new_core_artifacts_unchanged": true,
     "remaining_required": "Read the complete correction diff, then exact adoption/stage/preflight and containing publication gate."
-  }
+  },
+  "publication_pending_status_at_authorship": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_CONTAINING_PUBLICATION_GATE_PENDING",
+  "publication_resolution": {
+    "status": "SCOPED_CECILY_ZESTA_TIER3_AND_TWO_TIER1_PROFILES_FULL_EXACT_SOURCE_GATE_CLOSED",
+    "source": "9904a30d88aadc00d8d5748a28e1bc1be3d43eef",
+    "tree": "4bcb52bf2402477741b47e8e1fa4a889217a095f",
+    "closed_utc": "2026-10-20T10:51:13.909418+00:00",
+    "gate_path": "09 Audits and Manifests/KONOSUBA_CECILY_ZESTA_COHORT13_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "7d4100036443b1f869887f74a4e89a05502a405512ed4837f0f9db26649d8e8b",
+    "source_run": 39409185153,
+    "housekeeping_run": 39409888446,
+    "final_run": 39409943168,
+    "all_remote_paths": 9271,
+    "all_changed_streams": 40,
+    "full_tests_source_and_final": 385,
+    "fresh_project_reload_paths": 1095,
+    "current_model_bodies": 20,
+    "new_model_bodies": 2,
+    "scoped_secondary_model_subjects": 14,
+    "bounded_profiles": 11,
+    "monograph_only_subjects": 1,
+    "independent_accuracy_or_confidence_gain": false,
+    "full_program_complete": false
+  },
+  "published_authority_reload_sha256": "5c729d569caa9bd42e7e25f86f0094c3914af4b65f9afcc461ced8c2216dc5a7"
 }

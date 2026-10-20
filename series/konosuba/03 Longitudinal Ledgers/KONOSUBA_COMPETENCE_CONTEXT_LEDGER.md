@@ -1416,3 +1416,8 @@ MAIN11U015P131 explicitly recognizes Kazuma frontal weakness while insisting on 
 ## Cecily and Zesta cohort13 — scoped receiving; containing publication pending
 
 Zesta actual Reflect EXP02U038323-326, Dispel CONTEXP02U018381-382, sacred/undead clearing DUST04U013336-378, Heal417-418 and useful spear supply430-434 coexist with cell-suppressed antidote assurance217-248, dangerous throw432 and failed goal control during harassment375. Dust owns the vault/head-letter defeat439-441. MAIN16 first manticore flees without new cast; another is Mitsurugi/Aqua kill; horse and Teleport limits remain finite. Cecily actual stock sold CONTEXP01U015253, correct holy-water change CONTEXP02U018171-176 and actual Blessing393-394 do not certify product safety, reliable threat appraisal or broad consent. K cooking/negotiation, Yunyun combat and clerical reporter initiative are independent contributions.
+
+
+## Cohort14 clergy and merchant bounded returns — 2026-10-20T11:12:02.861945+00:00
+
+Arcanretia Eris priest actually casts Powered and throws Cecily/punches Zesta to escape restraint(CONTEXP02U016P464–467). This is usable local capacity, not universal readiness or proof she could anticipate the ambush. Axel priest's healing/food work is an own report, not fresh performed healing(CONTEXP01U015P331). Chair's unavailable fireworks caster is a reported practical constraint(MAIN08U014P282–299); Darkness grants later permits. Guide gives useful directions/horse information while road-clearing kills remain absent actors' reported work. Capability, access, actor and deployment stay separate; twenty models exact. See [event index](../08%20Evidence%20and%20Indexes/KONOSUBA_CLERGY_AND_MERCHANT_EVIDENCE_INDEX.md).

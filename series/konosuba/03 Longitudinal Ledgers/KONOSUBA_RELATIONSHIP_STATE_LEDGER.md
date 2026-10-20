@@ -1411,3 +1411,8 @@ Dust receives a harassment warningMASKP16 and, in a different source-context, ac
 ## Cecily and Zesta cohort13 — scoped receiving; containing publication pending
 
 Cecily/Megumin qualified enjoyment does not erase repeated unwanted contact. Iris trust can produce both embarrassment and recruitment. Cecily/Zesta deference, succession competition, cooperative harm and selective protective interruption are different states. Zesta actual support for Dust is followed by abandonment to arrest DUST04U013477-480; no permanent trust inferred. Small owns her rescue/access/refusal. Eris priest objections cannot be rewritten as attraction by Zesta framing. Membership, gift, gratitude, affection, refusal, protection and repair retain separate owners and scopes. Bread participants and other incidental roles are indexed individually without invented speech assignment.
+
+
+## Cohort14 clergy and merchant bounded returns — 2026-10-20T11:12:02.861945+00:00
+
+Keep guide distinct from Cecily/Tristan, and Axel Eris priest distinct from Arcanretia priest who explicitly first meets Megumin(CONTEXP02U016P476). Prior sect contact, repeated no-visit requests and specific nuisance grievance do not establish romance or consent; denial remains denial despite Zesta's invented frame. Cecily apology is forced by Megumin, not demonstrated recipient forgiveness(CONTEXP01U015P347). Chair/adviser transaction and hospitality are actual bounded relations, not a private friendship, a known resignation trap or permission for every later act. No named join from occupation or insult. See [event index](../08%20Evidence%20and%20Indexes/KONOSUBA_CLERGY_AND_MERCHANT_EVIDENCE_INDEX.md).

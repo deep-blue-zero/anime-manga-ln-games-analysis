@@ -1337,3 +1337,8 @@ MASK gives Vanir first-person intention and retrospective bounty report; Luna's 
 ## Cecily and Zesta cohort13 — scoped receiving; containing publication pending
 
 Kazuma inference that the Axis clergy recognize Aqua MAIN08U013160-162 is distinct from Cecily direct evasive words157. His MAIN16 remembrance of the unnamed guideU01687 supplies a return lead, not automatic named identity. Cecily and Zesta imagined/claimed meanings are not his omniscient facts. DUST04 Dust, EXP02/CONTEXP Megumin, Aqua interludes and MAIN04 Zesta focalization retain their own access; repeated scenes remain single underlying events. Reader-only Cecily cleaning backfill does not show Zesta pouring powder. Zesta knowledge of Small species is expressly unknown DUST04U013458.
+
+
+## Cohort14 clergy and merchant bounded returns — 2026-10-20T11:12:02.861945+00:00
+
+Kazuma explicitly remembers the guide(MAIN16U016P87) but cannot thereby supply her earlier goddess knowledge. In MAIN08U014P642–667 his private resignation intention is not shown reaching the chair before hospitality. Closing U016P500–509 combines Darkness's report that chair brought a reward, Kazuma's retrospective explanation of disclosure and a directly shown money bag; exact chair handover/amount/Kazuma acceptance remain unshown. Board voices and later injuries do not identify each striking hand. CONTEXP Megumin's tentative embarrassment inference and comic brawl frame likewise do not replace directly attributed action or denial. See [event index](../08%20Evidence%20and%20Indexes/KONOSUBA_CLERGY_AND_MERCHANT_EVIDENCE_INDEX.md).

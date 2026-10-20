@@ -1867,3 +1867,8 @@ MASKU017P316-330 uses accumulated grievances/direct wants;P511-519 names a cross
 ## Cecily and Zesta cohort13 — scoped receiving; containing publication pending
 
 Cecily older-sister bids (お姉さん/セシリーお姉ちゃん), Aqua address and formal branch introduction at CONTEXP01U015392 have different recipient effects; invented kinship is rejected MAIN08U013146. Zesta courteous introduction DUST04U013266, deferral-as-assent306, casual どんまい150 and quiet Aqua-welfare question CONTEXP02U018423 require content and relation to establish pragmatic force. Polite morphology supplies no truth/consent guarantee. Current BASE excludes rt/rp; image prose is read at printed scope. No new full ruby, L3, acoustic, native-human or English-to-Japanese adequacy credit. First English bodies retain tidy rhetoric/metatext defects.
+
+
+## Cohort14 clergy and merchant bounded returns — 2026-10-20T11:12:02.861945+00:00
+
+Known BASE returns differentiate guide's courteous reception, joke/retraction, sect pseudo-apology, devotional excitement and transactional warmth; Axel priest's formal refusal, justification, embarrassment and conditional threat; Arcanretia priest's denial, invocation and subdued poverty account; chair's advisory honorifics, caution and convivial toast. Recipient and event determine pragmatic force. Zesta's romantic interpretation is his attributed frame against a direct denial. No full ruby, acoustic timing, Japanese generation certificate or new L3 outcome follows from these printed passages. See [event index](../08%20Evidence%20and%20Indexes/KONOSUBA_CLERGY_AND_MERCHANT_EVIDENCE_INDEX.md).

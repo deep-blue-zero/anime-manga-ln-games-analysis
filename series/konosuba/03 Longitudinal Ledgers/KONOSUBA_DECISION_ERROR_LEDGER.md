@@ -1874,3 +1874,8 @@ MASKU017P305-308 knows Vanir is a demon; that is not knowledge of his specific p
 ## Cecily and Zesta cohort13 — scoped receiving; containing publication pending
 
 Cecily self-serving error differs from knowing deception: EXP02 imageIII private vandalism/public victim story; U038252-266 rewritten loyalty; CONTEXP02U016299 admitted concealment. Correct water observation coexists with ignoring Yunyun danger/help request inU018. Zesta Ragcraft accusation was revenge/playing along DUST04U013124 before confession137 and boast140; Dust inference and Ragcraft forgotten listener are separate. Unsafe antidote promise lacks verified readiness; knowing impossibility is not proved because learning time unknown. Both can perform useful acts and still misread, coerce or divert effort; no optimized-consistency repair.
+
+
+## Cohort14 clergy and merchant bounded returns — 2026-10-20T11:12:02.861945+00:00
+
+The guide first blames Eris for reputation, then admits retaliation for habitual Axis misconduct(MAIN16U016P81–85); this preserves contradictory framing without inventing one consistent private belief. Merchant chair accepts the funding proposal(MAIN08U013P231–239) but objects to police and caster constraints(U014P251–307): commercial motive is real and qualified by practical costs. Zesta's invented confession does not become the priest's desire; Arcanretia priest gives the actual nuisance grievance(CONTEXP02U016P452–467). No generic profit/sect trope is a new identified psychological model. See [event index](../08%20Evidence%20and%20Indexes/KONOSUBA_CLERGY_AND_MERCHANT_EVIDENCE_INDEX.md).

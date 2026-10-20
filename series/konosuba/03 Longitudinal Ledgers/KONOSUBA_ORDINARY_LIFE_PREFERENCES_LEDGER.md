@@ -1286,3 +1286,8 @@ P450-451 actual gratitude for cover work, P519 stated future paid cover, P523-54
 ## Cecily and Zesta cohort13 — scoped receiving; containing publication pending
 
 Cecily own food purchases/salary/hunger and longing for missed company appear in EXP02 image interludes; shared work, leisure play and product improvement matter independently of combat. She can acknowledge moral/image cost for one contemplated scheme and still take others bread. Zesta actual desire for casino play, food, entertainment, wanted company and escape coexist with particular devotional concern; dessert excuse DUST04U013224 obtains no food. No single choice fixes universal taste, private wealth, kinship or global goal weights. Profitable stock, offered commission, actual coach-fare bag, alleged refund and paid settlement remain different stages.
+
+
+## Cohort14 clergy and merchant bounded returns — 2026-10-20T11:12:02.861945+00:00
+
+Guide's guard duty, unwanted stay-behind outcome, own market-loss account and warmer response to a cash offer(MAIN16U016P92/113–122) give ordinary costs alongside devotional pleasure. Axel priest reports healing/meals; Arcanretia priest reports sole occupancy and strained subsistence(CONTEXP01U015P331;CONTEXP02U016P479). Chair negotiates funding, hosts workers/adviser and reportedly delivers the reward(MAIN08U013P231–239,U014P645–673,U016P503–509). Offers, reported delivery, visible money and acceptance stay distinct. No stable universal taste or ethical repair follows from one payment/meal/social occasion. See [event index](../08%20Evidence%20and%20Indexes/KONOSUBA_CLERGY_AND_MERCHANT_EVIDENCE_INDEX.md).

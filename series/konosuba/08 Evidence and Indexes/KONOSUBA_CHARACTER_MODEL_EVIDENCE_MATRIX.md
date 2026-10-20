@@ -1048,3 +1048,15 @@ The model has four rules and three actual same-author internal bodies, with no i
 | Zesta | Particular Aqua concern; strong applicable means but unreliable assurance; competing amusement/resentment; favorable epistemic presentation | Real healing, target limits, useful support and quiet concern coexist with bluff, suppressed means, coercion and abandonment | Four-rule model plus monograph/index, four same-author hypothetical first bodies; action invariance/generic priest rivals and defects retained; publication pending |
 
 Eighteen entering model bodies remain exact; two additions would make20. Fourteen scoped secondary model subjects would then be represented, with Nos Tier2 monograph-only and eleven bounded profiles after the two current profiles. No principal StageD successor is supplied by these additions.
+
+
+## Cohort14 bounded profiles; no new model — 2026-10-20T11:12:02.861945+00:00
+
+| Subject/record | Earned artifact and return | Model status and limit |
+|---|---|---|
+| Returning Axis guide170 | Tier1 profile; exact MAIN04-to-MAIN16 co-reference, directions/duty/actual harm/belief/money pressure | No new model; generic partisan caretaker rival; kick distinct from earlier mob allegation |
+| Axel Eris priest171 | Tier1 profile; service account, no-visit boundary, embarrassment, unperformed threat | No new model; generic harassed cleric rival; name/gender unestablished |
+| Arcanretia Eris priest172 | Tier1 profile; denial, nuisance grievance, actual Powered/defensive escape, poverty account | No new model; first meets Megumin, not automatically Axel priest; strong situational rival |
+| Merchant chair177 | Tier1 profile; actual agreement/role offer, police/caster limits, hospitality, reported reward delivery plus visible bag | No new model; generic civic organizer rival; exact amount/acceptance unshown |
+
+See [profiles](../05%20Specialist%20Synthesis/KONOSUBA_COHORT14_CLERGY_AND_MERCHANT_BOUNDED_PROFILES.md) and [event index](KONOSUBA_CLERGY_AND_MERCHANT_EVIDENCE_INDEX.md). Twenty current model bodies/fourteen scoped secondary model subjects remain exact; eleven prior bounded profiles plus four candidates would make fifteen after adoption. No new test/grade/independent/source-confidence gain or permanent tier ceiling.
