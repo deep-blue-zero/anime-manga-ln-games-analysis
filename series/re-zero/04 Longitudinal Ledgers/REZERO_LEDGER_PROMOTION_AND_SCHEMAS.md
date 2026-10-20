@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: ledger_architecture
 scope: LONGITUDINAL_LEDGER_PROMOTION_AND_SCHEMA_CONTRACT
-generation: V0.13
+generation: V0.14
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -24,7 +24,7 @@ At the project-initiation architecture-repair boundary after the V02 freeze, the
 
 `REZERO_MASTER_LONGITUDINAL_LEDGER.md`
 
-The master was backfilled from frozen V01/V02 and advanced prospectively through V11; it did not govern the first two prospectively or alter their bytes. It owns claims, persons/stress, diagnostic ordinary life, Japanese, prospects and readiness. Institution migrated V04; event/knowledge V06; mechanics V07; relationship V09. Master §§4–6/8–9 route rather than maintain competing full models. The completed post-V10 Subaru model/first audit remains an unchanged V01–V10 historical baseline with local PASS_WITH_BOUND, not silently audited V11 coverage. No sixth ledger, field-contract change or competing general current-state owner is added.
+The master was backfilled from frozen V01/V02 and advanced prospectively through V12; it did not govern the first two prospectively or alter their bytes. It owns claims, persons/stress, diagnostic ordinary life, Japanese, prospects and readiness. Institution migrated V04; event/knowledge V06; mechanics V07; relationship V09. Master §§4–6/8–9 route rather than maintain competing full models. The completed post-V10 model/first audit stays an unchanged V01–V10 baseline/local PASS_WITH_BOUND, not silently audited V12/current E018 coverage. Five specialist owners retain their existing horizon-field conventions. No sixth ledger, field-contract change or competing current-state home is added.
 
 The following candidate sections now define responsibilities that may later split out of the master ledger when independent retrieval/revision burden warrants specialization. They are not unpromoted gaps and do not authorize parallel competing homes.
 
@@ -64,6 +64,8 @@ V10 review: after the Arc03 checkpoint's complete verified gate, all43 spine mem
 Post-V10 model/audit review: after V10's complete gate, the earned `05 Character Analysis/REZERO_NATSUKI_SUBARU_V01_V10_CHARACTER_MODEL.md` compiles28 evidence bundles/24 derived rules/eight noncanonical probes, and the separate `08 Audits and Manifests/REZERO_CHARACTER_RECONSTRUCTION_FIDELITY_AUDIT.md` applies all19 dimensions with PASS_WITH_BOUND. These are person-reconstruction/use and local fidelity responsibilities, not a new claim generation, independent benchmark, global capability grade or specialist-data migration. Five sole specialist owners remain byte-unchanged; master readiness/ordinary/Japanese/current110 claims remain canonical. No independent ordinary/voice/readiness/evidence packet is warranted by file symmetry. Twelve freezes and the exact55-question/ten-forecast V11 prospect remain unchanged; V11 is next only after this operation's own full publication gate. Default terminal E013/death13 still requires an earlier living override. Source range/active V43 terminal and all reserved field contracts remain unchanged.
 
 V11 review: complete43-member/4096-block/25-positioned-image-reference consumption precedes drafting;130 current claims, all110 predecessor/all55 inherited-question/ten forecast adjudications and60 sealed V12 questions/ten forecasts retain prospective accountability. E014–016 are actual arrivals,15 deaths/16 arrived segments with no death16/E017. K185–233, M125–152, I121–140, R041–045/RT022–033 and eighteen affected stable relationship rows extend existing owners. Local RBD disclosure, conditional quota, failed blindness/refuge assumptions, soul injury/repair, book/contract distinction, cloth terms and unreceived ending fit existing fields. Ordinary-life/voice/readiness stay in master, exact evidence in the freeze; no independent retrieval failure earns an evidence index, scheduler or sixth ledger. The V01–V10 model/audit remains byte-unchanged/default E013 against current E016; V11 reconstruction requires explicit reconciliation, not a duplicate packet or new grade. Other persons, final specialists and a fourth-arc-end checkpoint remain unearned. All twelve predecessor freezes/source admission/reserved field contracts are preserved; V12 opens only after the complete V11 publication gate.
+
+V12 review: complete43-member/3939-block/23-positioned-reference reading precedes156 claims,130 predecessor/60 incoming-question/ten forecast dispositions and60 V13 questions/ten forecasts. Event E018 (17 deaths/18 segments),65 new K234–298,42 new M153–194,25 new I141–165, seven new R046–052 and24 new RT034–057 fit existing fields.25 affected stable relationship rows retain prior ancestry; old transition rows remain unchanged. Created-body individuality/compulsion, actual versus represented grief, partial knowledge, omitted cost and rejected formal terms do not create independent generic retrieval duties. Master preserves prior V11 register/incoming V12 prospect verbatim and owns13 ordinary/14 Japanese increments/person/readiness. Thirteen older freezes/model/audit stay unchanged; no other mature person, final specialist, new index/ledger or arc-end checkpoint. Source admission/reserved contracts below remain unchanged; V13 requires full V12 publication gate.
 
 ## Promotion threshold
 

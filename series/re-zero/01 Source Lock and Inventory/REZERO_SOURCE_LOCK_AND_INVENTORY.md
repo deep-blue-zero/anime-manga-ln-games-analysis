@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: source_lock
 scope: SOURCE_ADMISSION_CONTRACT_AND_CURRENT_INVENTORY_STATE
-generation: V0.14
+generation: V0.15
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -401,6 +401,29 @@ The corrected Subaru V01–V10 model/first-audit operation completed its own exa
 
 V12 and all separately acquired non-spine narrative remain unopened. V11 §16's60 V12 questions/ten forecasts were copied exactly into the private pre-reading seal after actual V11 EOF and before V12; SHA-256 `c0f8feb6ef89cb5c67dd68f881542a7ff8ca7da78e52df623142b79c54a975e0`. This transaction becomes current V11 authority only after its complete publication gate. Source admission and the dated V44/V45 acquisition-gap assessment do not advance.
 
+## Volume 12 consumption record
+
+V11's complete source-bound publication gate at `890ff364c8c8159fd74c5021fad6b316d0bcaa91` closed before first V12 archive access. Immutable full-file/identity readback, actual source full385-test audit, completed source-bound NOOP housekeeping, final actual-source full385-test audit and exact success reporting controlled opening; the final dispatch's displayed main commit was not mistaken for its audited source. The preceding V11 record retains its then-future conditions as historical, not still-pending work. The V01–V10 model/audit and thirteen prior freezes are unchanged.
+
+`RZ-MAIN-LN-JA-V12` was consumed in OPF spine order through `p-bookwalker`: all43 members/3,939 body-order blocks (3,916 TEXT +23 positioned IMAGE references), with all22 distinct resources actually visually inspected. The publisher logo was inspected at both references. Actual contiguous deliveries, reacquisition of lost `p-009#B0281` output, full2,890-character single-block `p-023` speech, image views and EOF establish consumption, not ZIP enumeration. Invalid shortened end-member selectors returned no content and were replaced by successful exact OPF member reads; no unresolved text/image gap remains. The paired character-art/promotional dialogue pages are paratext, not newly admitted future narrative.
+
+- locator / embedded title: `Re Zero - Volume 12.epub`; `Ｒｅ：ゼロから始める異世界生活 12`;
+- language / embedded creators / publisher: `ja`; `長月　達平` / `大塚　真一郎`; KADOKAWA / メディアファクトリー;
+- UUID: `3c0b1c5a-df07-4cac-a1f8-506534e1a0b7`;
+- size / SHA-256:9,937,280 bytes; `c889d9bdd7af41cb4df227d5db29514113c56b78ac7617441bb239cf980783af`;
+- package / integrity: `item/standard.opf`;81 ZIP entries/full CRC pass; known nonfatal first-but-compressed `mimetype` warning;
+- manifest: unchanged23,584 bytes/SHA-256 `3daa190cefda6ab894f5d62ff547a93856c8133f2d4fc1cbc552b99d73c73314`, exact anchored V12 size/hash match;
+- edition: electronic issue2017-03-25, based on MF first edition/first printing2017-03-25; afterword February2017;
+- provenance: governed local read-only EPUB/existing range admission; individual V12 Drive object ID/ISBN not invented;
+- analytical product: `02 Sequential Readings/REZERO_LN_V12_DEEP_READING.md`; complete member/block/image coverage and locator convention §1;
+- entering prospect:60 questions/ten forecasts sealed after V11 EOF/before V12, unchanged SHA-256 `c0f8feb6ef89cb5c67dd68f881542a7ff8ca7da78e52df623142b79c54a975e0`; all individually adjudicated;
+- ending: E016 closes at self-stabbing16, actual E017 then Rabbit-wound death17/actual E018;17 deaths/18 segments, E018 alive at seventh-Witch arrival; no death18/E019 or post-tea bodily waking;
+- representation: second-trial depictions are constructed, not extra deaths/current shared encounters or verified underlying RBD ontology; only first trial passed;
+- structure: fourth arc continues; rejected formal offer/Beatrice rescue intention are not accepted contract/completed rescue or an arc ending;
+- preservation: all thirteen predecessor freezes and V01–V10 model/audit byte-unchanged; no source media, extraction or private records committed.
+
+V13 and all separate non-spine narrative remain unopened. V12 §16's60 V13 questions/ten forecasts were sealed after actual V12 EOF/before V13 and copied exactly into master; private seal SHA-256 `d940868792d5513313831eed4b0b105c500dcd25925e50e7a1a2298b8087d1bd`. V12 becomes current authority only with its complete publication gate. Admission range, manifest/V41 exception and dated V44/V45 gap assessment are unchanged.
+
 ## Current source-state summary
 
 - **Acquired/admitted Japanese main LN:** V01-V43 continuous.
@@ -411,7 +434,7 @@ V12 and all separately acquired non-spine narrative remain unopened. V11 §16's6
 - **Admitted IF/alternate route:** none.
 - **Admitted web novel:** none.
 - **Admitted anime/audiovisual:** none.
-- **Consumed into prospective main-LN analysis:** V01-V11; V11 becomes committed frozen authority with this transaction's complete exact-source publication gate; corrected V01–V10 model/audit gate closed before V11 opening.
+- **Consumed into prospective main-LN analysis:** V01-V12; V12 becomes committed frozen authority with this transaction's complete exact-source publication gate; complete V11 gate closed before V12 opening.
 - **Next source acquisition priority:** Japanese V44 and V45 before the sequential read reaches that boundary.
-- **Next analytical operation:** `V12` only after the complete V11 publication gate;60 questions/ten forecasts sealed before opening and V12 remains unread.
-- **Current execution state:** active continuous run; terminal V43 unchanged. Historical V01–V10 model/audit stays unchanged/default E013; current V11 endpoint E016 is not implicitly audited model coverage. No real-parent message, current Rem reply/IF-family biography, death16/E017, complete shadow identity, adaptation finding or full-series completion is implied.
+- **Next analytical operation:** `V13` only after complete V12 publication gate;60 questions/ten forecasts sealed after V12 EOF/before any V13 source, which remains unopened.
+- **Current execution state:** active continuous run/terminal V43 unchanged. Historical V01–V10 model/audit stays unchanged/default E013, not current E018 coverage. E018 alive/17 deaths18 segments; no death18/E019, literal trial-broadcast ontology, actual Rem reply, completed Beatrice rescue, formal Echidna bargain, second/third pass, real-parent message, active IF-family, arc/series ending or adaptation finding implied.
