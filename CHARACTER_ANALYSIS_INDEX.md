@@ -4468,6 +4468,27 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`reviewed-mmj-event-0011` — Minori analysis in MMJ EVENT_0011](series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0011_DEEP_READING.md)
   - [`reviewed-shared-synthesis` — Minori analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MAIN_STORY_SYNTHESIS.md)
 
+### Mio Komatsu
+
+- Entity ID: `shuukura:mio-komatsu`
+- Entity aliases:
+  - 小松澪 (ja, ORIGINAL_SCRIPT)
+  - Komatsu Mio (ja-latn, TRANSLITERATION) — Japanese name order.
+
+#### Subject: Original Japanese light-novel continuity and author supplements
+
+- Analysis subject ID: `shuukura:mio-komatsu@original-light-novel`
+- Series: `shuukura`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `kss12`: LIGHT_NOVEL OTHER: Author-released supplemental story KSS-12, 小松澪と謎多き女: Mio’s university lecture-end conversation with Sendai Hazuki, from refused invitations through deferred inquiry and a proposed next mixer. The approaching-summer frame establishes no exact day, year or college year. LN05 referral and LN09 roommate-call comparisons provide separately timed context, not continuous novel coverage or Mio’s current knowledge.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`kss12-company-and-curiosity` — KSS-12: companionship, self-questioning curiosity and maintained refusals](series/shuukura/03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_12_DEEP_READING.md) — **active provisional authority**
+
 ### Misaki Nagisa
 
 - Entity ID: `chiramune:misaki-nagisa`
