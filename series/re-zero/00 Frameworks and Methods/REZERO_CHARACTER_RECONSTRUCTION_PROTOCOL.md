@@ -2,10 +2,10 @@
 series: RE_ZERO
 artifact_type: character_reconstruction_protocol
 scope: SOURCE_GROUNDED_CONDITIONAL_CHARACTER_RECONSTRUCTION
-generation: V1.4
+generation: V1.5
 status: canonical
 release_state: mutable_active
-current_analytical_horizon: V07
+current_analytical_horizon: V08
 recommended_reasoning_class: DEEP_SYNTHESIS
 reasoning_policy: MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md
 supersedes: []
@@ -19,7 +19,7 @@ do_not_use_as_current_authority: false
 
 This protocol is the canonical responsibility contract for future Re:Zero character reconstruction. It governs what an evidence-ready character monograph or model must be able to represent, how state is selected, how source limits remain visible, and how fidelity is tested.
 
-It is subordinate to `REZERO_ANALYTICAL_METHOD.md`, `REZERO_SYNTHESIS_ARCHITECTURE.md`, `REZERO_ROUTE_AND_WITNESS_PROTOCOL.md`, and the live source lock. It does not admit sources, revise frozen readings, or turn a candidate into a monograph. Through V07, no character is `MONOGRAPH_READY`; person-state/readiness remains in the master longitudinal ledger, routed to the four dedicated event, knowledge, institution and mechanics owners for conditioning evidence. V07 extends evidence without changing this protocol's reconstruction/fidelity requirements. Subaru's effective cooperation and accepted help coexist with shame/fear and conditional self-killing; Rem's love/refusal/accepted rest do not complete independent worth. Subaru/Rem's bounded study extends through V07; Subaru/Emilia's V01–V04 rupture study is not current repair. A narrowly bounded V07 Wilhelm/Theresia narrated courtship→belated-declaration case is CHECKPOINT_READY, default V07-E1 aftermath with historical phases explicitly selected, not their complete marriage, grief or Reinhard history. No mature-model promotion is made, so its prerequisite first fidelity audit is not instantiated.
+It is subordinate to `REZERO_ANALYTICAL_METHOD.md`, `REZERO_SYNTHESIS_ARCHITECTURE.md`, `REZERO_ROUTE_AND_WITNESS_PROTOCOL.md`, and the live source lock. It does not admit sources, revise frozen readings, or turn a candidate into a monograph. Through V08, no character is `MONOGRAPH_READY`; master owns person/readiness state, routed to event, knowledge, institution and mechanics for conditioning evidence. V08 adds cooperation under loss, requested lethal care, Emilia's protective agency and a failed terminal attempt, not complete recovery, free consent or full person-history. Existing Subaru/Emilia V01–V04, Subaru/Rem V01–V07 and V07 Wilhelm/Theresia narrated cases retain their narrow scopes. Subaru/Julius is now CHECKPOINT_READY only for V04–V08 qualified repair/residual aversion/entrustment/uncompleted conversation, default reached RZ-E-011 attempt with earlier phases selectable. No later friendship, full marriage, present Emilia forgiveness or mutual successor memory is inferred. No mature-model promotion is made, so its prerequisite first fidelity audit is not instantiated.
 
 The protocol standardizes **responsibilities, not file count or headings**. A compact monograph may satisfy it when evidence is narrow. A richer packet may divide the responsibilities among current-state, relationship, ordinary-life, voice, evidence, and fidelity artifacts only after each independent retrieval burden is demonstrated.
 
@@ -300,6 +300,8 @@ Every mature model states:
 - **terminal rule:** never project beyond the declared source horizon as canon, never import a later state into an earlier request, and abstain when the requested coordinates cannot be supported.
 
 The default is a routing convenience, not the character's single authentic self.
+
+V08 terminal-state application: V08-E1 continues V07-E1/V06-E2/RZ-E-011 until death eleven. The source narrates world flow but does not show the next arrival/checkpoint. Select the reached terminal attempt or an explicit earlier phase; a post-return default is `ENDPOINT_NOT_YET_READ`. Julius/Ferris/Wilhelm/Patrasche witnessing death does not grant RBD or successor remembrance. Subaru's promise to remember is not itself a completed recall test. The same rule protects actual earlier changes from being erased merely because the attempt fails.
 
 ## 18. Readiness and promotion
 

@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: source_lock
 scope: SOURCE_ADMISSION_CONTRACT_AND_CURRENT_INVENTORY_STATE
-generation: V0.8
+generation: V0.9
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -303,7 +303,25 @@ At the historical V06 boundary V07 and every non-spine narrative witness remaine
 - analytical product: `02 Sequential Readings/REZERO_LN_V07_DEEP_READING.md`; exact per-member coverage/block locators in §1;
 - structural limit: one continuing V07-E1=V06-E2 state, no new Subaru death/return; Whale hunt ends, estate/Cult operation and private insurance/plan remain pending/withheld at dawn.
 
-V08 and every non-spine narrative witness remain unopened. The design-page `モフっ子` note and `剣鬼恋歌` promotion are witnessed paratext only, not admission of WN/deleted episodes or a sidebook. The full V07 atomic publication/audit gate must close before V08 opens; the range admission and historical bibliographic-gap check are unchanged.
+At the historical V07 boundary V08 and every non-spine narrative witness remained unopened. The design-page `モフっ子` note and `剣鬼恋歌` promotion remain bounded paratext. V08 below opened only after V07's complete source-audit, housekeeping and final actual exact-source full audit/status gate succeeded; earlier source records retain their horizons.
+
+## Volume 08 consumption record
+
+`RZ-MAIN-LN-JA-V08` was consumed in exact OPF spine order through `p-bookwalker`: all40 members and3,342 body-order blocks (3,320 text +22 image references), including all frontmatter, narrative, afterword, artist/promotional images, biographies, credits and colophon. All21 distinct image resources were visually inspected; repeated MFJ logo reference is not another distinct file.
+
+- locator / title: `Re Zero - Volume 08.epub`; `Ｒｅ：ゼロから始める異世界生活 8`;
+- language / creators / publisher: `ja`; `長月達平` / `大塚真一郎`; KADOKAWA / Media Factory;
+- UUID: `dce9259f-d159-4958-af30-f0b2b657189f`;
+- size / SHA-256: `20,623,478` bytes; `cd8c390f910aef162e4015398c66ece29fc074ad3f4c2ad33469831641e70321`;
+- package / integrity: `item/standard.opf`;77 ZIP entries,40 spine members,21 images; full CRC pass; nonfatal compressed-first-`mimetype` warning;
+- manifest relation: exact anchored size/hash match; manifest reverified unchanged;
+- edition basis: electronic issue `2016-03-25`; stated underlying first edition/first printing `2016-03-31`; afterword February2016;
+- provenance: existing governed folder/manifest range; individual V08 Drive ID not separately resolved or invented;
+- analytical product: `02 Sequential Readings/REZERO_LN_V08_DEEP_READING.md`, exact per-member coverage/block convention §1;
+- prospective record: exact45 inherited questions/ten forecasts fixed before archive opening, record SHA-256 `bc11d128b96492cdcbceea79622a891ce09582df90ab45985f198cc94f001c62`;
+- structural limit: V08-E1 continues V07-E1/V06-E2/RZ-E-011 until Subaru death eleven; world flow narrated without successor arrival/checkpoint, no capital-section closure.
+
+V09 and all non-spine narrative remain unopened. In-volume artist/promotional pages are paratext, not current Rem/Beatrice appearances or admission of advertised WN/anime/manga. Source identity/image-byte/prospective/prior-freeze guards passed; consumption rests on ordered full reading and visual inspection, not structural parsing alone. All seven earlier volume freezes and estate checkpoint remain unchanged. The complete V08 publication gate must close before V09 opens; admitted range and historical bibliographic-gap check do not advance.
 
 ## Current source-state summary
 
@@ -315,7 +333,7 @@ V08 and every non-spine narrative witness remain unopened. The design-page `モ�
 - **Admitted IF/alternate route:** none.
 - **Admitted web novel:** none.
 - **Admitted anime/audiovisual:** none.
-- **Consumed into frozen prospective main-LN analysis:** V01-V07.
+- **Consumed into frozen prospective main-LN analysis:** V01-V08.
 - **Next source acquisition priority:** Japanese V44 and V45 before the sequential read reaches that boundary.
-- **Next analytical operation:** Japanese V08 from the frozen V07 horizon, only after V07 publication verification.
-- **Current execution state:** active continuous run resumed by user; terminal V43 unchanged; V07 closeout advances consumption, not the admitted range.
+- **Next analytical operation:** Japanese V09 from frozen V08, only after the complete V08 publication gate.
+- **Current execution state:** active continuous run; terminal V43 unchanged; V08 closeout advances consumption, not the admitted range.

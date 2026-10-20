@@ -1,11 +1,11 @@
 ---
 series: RE_ZERO
 artifact_type: specialist_longitudinal_ledger
-scope: MAIN_LN_INSTITUTIONS_FACTIONS_STATUS_AND_PRACTICAL_POWER_THROUGH_V07
-generation: V1.3
+scope: MAIN_LN_INSTITUTIONS_FACTIONS_STATUS_AND_PRACTICAL_POWER_THROUGH_V08
+generation: V1.4
 status: canonical
 release_state: mutable_active
-current_source_horizon: V07
+current_source_horizon: V08
 recommended_reasoning_class: SUBSTANTIVE_ANALYSIS
 supersedes: []
 superseded_by: []
@@ -16,11 +16,11 @@ do_not_use_as_current_authority: false
 
 ## 0. Authority and promotion
 
-This is the sole cumulative institution/faction/power home from the V04 transaction onward. Five royal-selection camps, distinct qualification/consent rules, enforcement, patronage, information payments and institutional divergence earned its promotion. The master retains a router; frozen V01–V07 readings retain historical analytical authority/exact evidence. V07 adds an accepted limited coalition, costly deployment, casualties, triage, recognition and a further expedition, not a final political synthesis.
+This is the sole cumulative institution/faction/power home from the V04 transaction onward. Five royal-selection camps, distinct qualification/consent rules, enforcement, patronage, information payments and institutional divergence earned its promotion. The master retains a router; frozen V01–V08 readings retain historical analytical authority/exact evidence. V08 adds merchant recruitment/false briefing, limited guard allocation, blank-letter custom, local coercion/prejudice, destroyed transport and costly protective commitments, not a final political synthesis.
 
 This is a maintained ledger, not a final political synthesis. The V01–V03 rows below are an explicitly retrospective migration of the former master institution table, not a claim that this artifact governed those readings. No later volume, external history or non-spine witness is admitted. Evidence classes distinguish witnessed conduct, participant explanation, political program, inference and OPEN attribution.
 
-Primary retrieval: corpus map → master routing → current row → frozen VNN section/claim → exact hashed Japanese EPUB. Each freeze §1 owns its block locators. V05-E1/E2 and V06-E1 later events are discarded; V07-E1 continues V06-E2/RZ-E-011 without another death/return. Observed capacity/stated plan may inform a conditional model without making a discarded agreement or atrocity current history. Event/knowledge ledgers own durability/holders, the V07-promoted mechanics ledger owns causal systems, and master owns personal reconstruction. Interpretive updates remain `SUBSTANTIVE_ANALYSIS` and broad architecture review follows its higher class.
+Primary retrieval: corpus map → master routing → current row → frozen VNN section/claim → exact hashed Japanese EPUB. Each freeze §1 owns its block locators. V08-E1 continues V07-E1/V06-E2/RZ-E-011 until death eleven; successor arrival/checkpoint and retained agreements are unshown. Observed capacity/stated plan may inform a conditional model without making a terminal-attempt bargain or atrocity successor history. Event/knowledge ledgers own durability/holders, mechanics owns causal systems, and master owns personal reconstruction. Interpretive updates remain `SUBSTANTIVE_ANALYSIS` and broad architecture review follows its higher class.
 
 ## 1. Operative selection rules and legitimacy
 
@@ -149,6 +149,30 @@ V06-E1 refers below to the discarded continuation of V05-E3; V06-E2 is the same-
 | `RZ-I-060` | Julius invokes contract scope/price, then accepts continuing aid as passing grade/already compensated | real limits coexist with a face-saving test; no newly witnessed enormous invoice, no counterfactual guarantee had Subaru failed | V07 C051–054; `p-020#B0372–0448`; K069 |
 | `RZ-I-061` | post-hunt business is privately proposed to Anastasia/Russell; additional insurance/briefing is announced | detailed terms, insurance identity and complete operational plan withheld from reader at EOF; no named future ally/achieved rescue invented | V07 C070; `p-004#B0364–0372`; `p-020#B0578–0589`; K075 |
 
+### V08 operation, civilian authority and failed protective infrastructure
+
+These rows advance the historically bounded V07 state without rewriting I041–061. All new acts belong to the terminal RZ-E-011 attempt; no post-return contract, payment, memory or event is assumed.
+
+| ID | current proposition | evidence plane and limits | route |
+|---|---|---|---|
+| `RZ-I-062` | coalition accepts Subaru's intent through results, Crusch and Mimi's mediated trust; Tibby/Julius still legitimately ask grounds | not all allies witnessed Whale effect or received RBD; acceptance of an operation not agreement to every causal claim | V08 C050–052; `p-001#B0072–0146` |
+| `RZ-I-063` | guard records make Sloth the most frequent suspected bishop; Garkla/Greed/Kurgan history gives reported cross-border scale | more than half involvement is suspicion, not proved all-attack responsibility; no full office roster, Greed personal name or new Kurgan encounter | V08 C015–017; `p-001#B0253–0299` |
+| `RZ-I-064` | Anastasia/Russell notice recruits own-wagon merchants, naming Roswaal employer and self-priced cargo purchase | insurance disclosed/implemented in part; screening absent, exact unlimited spending authority and final payment unproved; answers part of old I061 | V08 C036/C040; `p-001#B0197–0215`; `p-017#B0001–0006` |
+| `RZ-I-065` | Subaru withholds Cult danger behind current mabeast pretext; Julius pragmatically assents to case-specific secrecy | guard/pay promises and presumed eventual happiness not informed consent; infiltrator representative does not make all merchant grievances false | V08 C038/C040; `p-007#B0301–0334`; `p-014#B0054–0065` |
+| `RZ-I-066` | twenty knights protect fifteen wagons while forest force shrinks; enemy organization/rough totals remain provisional | exact twenty not invented twenty-five from rounded half; protecting civilians materially constrains battle, no fixed all-Cult census | V08 C039; `p-007#B0356–0366`; `p-017#B0040–0044` |
+| `RZ-I-067` | Tibby asserts spoils rights; Wilhelm has ambush qualms; group rebukes Mimi's corpse destruction | individual conventions/judgments not one exhaustive national law or uniform warrior ethic | V08 C068–070; `p-005#B0150–0178`; `p-007#B0064–0092` |
+| `RZ-I-068` | live capture is attempted where own lives not sacrificed; Ferris tries enemy rescue but individually prepared suicide formulas defeat it | no simple unconditional kill-all policy or proof every Cultist received identical preparation; causal specifics mechanics-owned | V08 C018/C053; `p-007#B0118–0128`, B0213–0222 |
+| `RZ-I-069` | blank sealed Karsten letter convention signifies hostile refusal of dialogue; Ram combines it with forest silence/armed arrival | Wilhelm confirms local custom, not Earth/nationwide exhaustive law; actual alteration/culprit still open | V08 C030–031; `p-012#B0028–0059` |
+| `RZ-I-070` | Ram holds messenger for exchange, follows Emilia's present orders while Roswaal reportedly at Sanctuary, attacks on own judgment | no Emilia order of hostility or proven exact rescue intention; Garf/Roswaal role only reported, not full visit | V08 C032–035; `p-012#B0087–0105` |
+| `RZ-I-071` | Ram invokes lordly evacuation authority and compensation; Subaru backs immediate compliance and promises negotiation | villagers explicitly unpersuaded/reluctant; local claimed authority not full legal code, payment/authorization not completed | V08 C043–044; `p-012#B0205–0234` |
+| `RZ-I-072` | villagers already know feared Cult risk and blame Emilia; her multiple protective approaches rejected | real danger not justification for scapegoating; prior gratitude to Subaru not universal acceptance of Emilia or free consent | V08 C042/C045; `p-012#B0147–0177`, B0244–0264 |
+| `RZ-I-073` | Emilia offers refuge, repairs barrier and fights after Ferris/Ram call; her body/competence not merely cargo for a representative's rescue | actual voice/agency supported; no personal forgiveness, complete political program or exclusive Subaru power over her action | V08 C045–049; `p-021#B0053–0138` |
+| `RZ-I-074` | Julius's spirit-knight obligations include six partners and protective promise; he refuses abandonment and initial requested killing | Subaru's narrowing of contract to saving Emilia is admitted unfair, not magic forcing murder or settled moral absolution | V08 C027/C060–062; `p-023#B0012–0013`, `B0044–0056` |
+| `RZ-I-075` | destroyed wagons remove evacuation option, killed dragons and damaged homes add costs; mansion defense becomes fallback | not a completed civilian departure, exact full casualty count or cost-free victory; causes/sequence event-owned | V08 C041/C044; `p-015#B0016–0046`; `p-017#B0001–0037` |
+| `RZ-I-076` | Ferris rejects deserving-life selection, attempts hostile-patient care, admits biological leverage and reluctantly lethally acts at request | no RBD-informed agreement; clinical capacity, consent, coercion and political loyalty distinct; promise-to-prince identity not globally resolved | V08 C018–023/C062; `p-005#B0133–0141`; `p-023#B0061–0088` |
+| `RZ-I-077` | youth corps rollcall, minimal baggage and approximate wagon capacity are actual civilian protective labor | activity after constrained compliance does not retroactively supply free persuasion; no exact 105-person completed evacuation | V08 C043–044; `p-012#B0231–0234` |
+| `RZ-I-078` | Radian's team death, subsequent critical rescue, relic collection and continued triage impose actual allied costs | one saved critical life not universal revival; grief/practical perimeter work not lack of care; terminal witnesses no automatic successor recollection | V08 C022/C054/C065/C070; `p-007#B0496–0530`; `p-021#B0163–0165` |
+
 ## 5. Migrated pre-V04 institutional state
 
 | object | preserved V01–V03 evidence | V04 revision / remaining limit |
@@ -188,7 +212,7 @@ These are conditional current models, not permanent judgments of entire institut
 
 ## 7. Next maintenance and revision history
 
-The earlier entering-V07 horizon remains frozen in V06 §15; V07 adjudicates it without rewriting the old questions. The next, V08 horizon is owned by V07 §15 and the master's forty-five-question register. Priorities: actual coalition follow-through and estate operation; transport/patient outcomes; sustained negotiated consent and material costs; still-secret medical/admission/business contents; actual Cult organization versus reported framework; office/blessing distinctions; meaningful political conduct after local victory. V08 remains unopened, and no later source opens merely to fill a row.
+Earlier horizons remain frozen and individually adjudicated. The next, V09 horizon is owned by V08 §16 and the master's fifty-question register. Priorities: actual successor state and surviving agreements; informed civilian participation; letter authenticity and spending authority; capital transport/patient outcomes; secrecy/payment/office limits; distinct Cult organization versus causal host models; political conduct and material losses. V09 remains unopened; no later source opens merely to fill a row.
 
 | horizon / operation | material change | prior-state preservation |
 |---|---|---|
@@ -197,5 +221,6 @@ The earlier entering-V07 horizon remains frozen in V06 §15; V07 adjudicates it 
 | V05 maintenance | host closure/generosity/influence, resource gathering, marriage/publicity, trade/risk and cult organization added; 13 new institution IDs | E1/E2 evidence not active E3 agreement/atrocity; V04 rule/history remains recoverable; payment/mission/target/authority claims remain bounded |
 | V06 maintenance / two adjacent splits | army/care distinction, pressure versus law, humiliation, commercial escort/referral, merchant consent, ore mission/delegation/constraints, pretext/merit and unfinished card added as RZ-I-027–040 | event/knowledge histories migrate to their own homes; institution ownership unchanged; no accepted alliance, global cult eradication or mature political synthesis |
 | V07 maintenance / mechanics split | accepted limited coalition, independent preparation, finite resources, triage before loan, losses/public proof, recognition/refusal, role/discipline, road protection, partition, historical knighthood and bounded future terms added as RZ-I-041–061 | I037–038 remain historically unanswered at V06, answered now by I041; causal models route to the new mechanics owner; no estate arrival, blanket camp union, proved Cult control or mature political synthesis |
+| V08 maintenance | I062–078 add mediated trust, actual insurance, concealed danger, finite escort, letter custom, lordly coercion, racial refusal, Emilia action, contractual refusal and destroyed infrastructure | old V07 unknowns remain historical; no successor agreement/memory inferred, no new mature political specialist or completed capital boundary |
 
 No character monograph, mature political specialist or full-series synthesis is promoted by this ledger. It supplies recoverable current facts and conflicts for those later responsibilities if their own thresholds are met.

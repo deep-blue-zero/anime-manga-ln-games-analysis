@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: ledger_architecture
 scope: LONGITUDINAL_LEDGER_PROMOTION_AND_SCHEMA_CONTRACT
-generation: V0.7
+generation: V0.8
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -24,7 +24,7 @@ At the project-initiation architecture-repair boundary after the V02 freeze, the
 
 `REZERO_MASTER_LONGITUDINAL_LEDGER.md`
 
-The master ledger was backfilled from the frozen V01/V02 canonical readings and advanced prospectively through V07. It did not exist prospectively for the first two readings, and no earlier freeze was changed. It owns claim revision, relationship, character-state/stress, diagnostic ordinary-life, Japanese terminology/register, prospective-question and promotion-readiness state. Institution/power migrated at V04 to `REZERO_INSTITUTIONS_FACTIONS_AND_POWER_LEDGER.md`; event-state/durability and proposition-holder/disclosure migrated at V06 to their registered homes below; mechanics/world-model migrates at V07 to `REZERO_MECHANICS_METAPHYSICS_AND_WORLD_MODEL_LEDGER.md`. Master §§4–5/8–9 route rather than maintaining competing full tables.
+The master ledger was backfilled from the frozen V01/V02 canonical readings and advanced prospectively through V08. It did not exist prospectively for the first two readings, and no earlier freeze was changed. It owns claim revision, relationship, character-state/stress, diagnostic ordinary-life, Japanese terminology/register, prospective-question and promotion-readiness state. Institution/power migrated at V04 to `REZERO_INSTITUTIONS_FACTIONS_AND_POWER_LEDGER.md`; event-state/durability and proposition-holder/disclosure migrated at V06 to their registered homes below; mechanics/world-model migrated at V07 to `REZERO_MECHANICS_METAPHYSICS_AND_WORLD_MODEL_LEDGER.md`. Master §§4–5/8–9 route rather than maintaining competing full tables.
 
 The following candidate sections now define responsibilities that may later split out of the master ledger when independent retrieval/revision burden warrants specialization. They are not unpromoted gaps and do not authorize parallel competing homes.
 
@@ -52,6 +52,8 @@ V05 review: the institution ledger adds care contracts, marriage restraint, unev
 V06 review: within-state erasure changes memories/material traces before a later death/return discards different events; local labels alias continuing states, and artifact/experience/precheckpoint durability differ. This earns the event ledger's independent chronology/carry-forward trigger. Sequential forgetting, untested versus tested holders, private maternal speech, wrong expert/cult explanations, asymmetric hand sight and specific envoy delegation earn the knowledge ledger's holder/disclosure trigger. Necessary V01–V05 history migrates explicitly retrospectively and V06 deltas are added; former full master §§4–5 become routers. Causal mechanics, personal relationships, readiness, ordinary life and Japanese remain in the master. No mature character/fidelity audit, final specialist, evidence index or named capital endpoint is earned. This review changes current ownership, not the reserved field contracts or source-admission rules.
 
 V07 review: physical annihilation, identity/memory rewrite and mental pollution have distinct effects/resistance; copied bodies/core mana, finite anti-magic counters, allied-spell interference, variable taboo effects and protection/range/engraving distinctions need independent conditions, costs, countermodels and material revision ancestry. This earns the registered mechanics trigger. M001–027 migrate all27 necessary former master §9 responsibilities explicitly retrospectively with V01–V06 source routes; M028–050 add/refine V07 tests. Master §9 is router only. Event owns WHEN/durability, knowledge WHO/receipt, institution rules/resources and master personal/relationship/readiness state; no full maintained causal duplicate remains. Bounded Wilhelm/Theresia courtship→belated-declaration readiness and Subaru/Rem's extension through V07 do not earn a relationship ledger or mature person. No evidence index, final specialist, first fidelity audit or capital/arc-end checkpoint is promoted. Reserved contracts and source-admission rules remain unchanged.
+
+V08 review: terminal death without an observed successor, mistaken collective-Sloths theory corrected to one parasitic mental entity, clinical self-recovery exception, actual recipient/nonreceipt, civilian coercion and destroyed logistics fit the four existing specialist owners. Latest event state closes RZ-E-011 at death eleven; K078–111, M051–075 and I062–078 extend their sole responsibilities. Master preserves eighty-two current claims/all72 predecessor dispositions, fifty V09 questions, personal/Japanese/ordinary state and readiness. Subaru/Julius earns only the V04–V08 qualified-repair/entrustment/uncompleted-talk case; no fifth ledger, mature person, final specialist, fidelity audit, evidence index or capital checkpoint. Previous bounded scopes and all seven volume freezes/checkpoint remain unchanged. Reserved schemas and promotion triggers are unchanged.
 
 ## Promotion threshold
 
