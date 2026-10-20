@@ -4,7 +4,7 @@ artifact_type: corpus_map
 scope: FULL_MAIN_SERIES
 generation: V1
 status: canonical
-source_boundary: DUSTCOHORT01 scoped Tier3 semantic receiving/publication pending; five earlier secondary gates and all declared source programs closed; fullcensus/specialists/versionedmodels/curation/integration/release active; percentage null
+source_boundary: KOMEKKOCOHORT01 scoped semantic receiving complete/publication pending; six earlier scoped gates and declared source programs closed; full individual/synthesis/versioned-model/curation/integration/release active; percentage null
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,14 +17,14 @@ project_initialization:
   source_reconnaissance_complete: true
   required_ledgers_initialized: true
   sequential_analysis_lock: open
-  next_permitted_operation: EXPANDED_DUSTCOHORT01_PUBLICATION_GATE
+  next_permitted_operation: EXPANDED_SECONDARY_CENSUS_AND_EXPANDED_SYNTHESIS
 sequential_execution:
   mode: continuous_sequential
   unit_type: volume
   authorized_start: V11
   terminal_boundary: V17
   committed_high_water_mark: V17
-  next_candidate_operation: EXPANDED_DUSTCOHORT01_PUBLICATION_GATE
+  next_candidate_operation: EXPANDED_SECONDARY_CENSUS_AND_EXPANDED_SYNTHESIS
   confirmation_between_units: false
   run_state: active
 ---
@@ -44,7 +44,11 @@ The project is not primarily a plot-summary project and is not satisfied by trai
 ## 2. Current authority state
 
 <!-- CURRENT_OPERATION_START -->
-**Dust cohort06 is semantically received at a scoped Tier3 boundary; its exact publication gate is next.** The [monograph](05%20Specialist%20Synthesis/KONOSUBA_DUST_CHARACTER_MONOGRAPH.md), [model](06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_DUST_RECONSTRUCTION_MODEL.md), [index](08%20Evidence%20and%20Indexes/KONOSUBA_DUST_EVIDENCE_INDEX.md) and [receiving](09%20Audits%20and%20Manifests/KONOSUBA_DUST_COHORT_01_RECEIVING_AND_PROVENANCE.json) govern uptake. Six informed rules and six exact same-author first responses/three contrasts preserve skill, privacy, mixed motives, real care and direct contrary choices; no independent score or confidence gain follows, and the third pair does not discriminate behavior. [Coverage](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md) and the [structured census](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json) contain157qualified working rows, not a final population. Earlier Iris/Yunyun/Vanir/Wiz/Chris-Eris scoped gates and eleven entering model bodies remain exact; the [Chris/Eris gate](09%20Audits%20and%20Manifests/KONOSUBA_CECOHORT01_PUBLICATION_GATE_CLOSE.json) is closed at5a4bc7d7. Complete MAIN01–17 reports, all six checkpoints and the earlier92 documentary appendix are currently received at their declared derivative scopes. Dust targeted receiving spans all ten ledger responsibilities; broader ledger/identity/event/census and proportional artifacts remain active. Expanded specialists/versioned principal-party-transfer models, designated curation/integration and component/release/final-entry audits continue. All17mainexcluded/19supplemental/5mixed source programs retain closed declared scopes. The separate [MAIN15 PV29 actor erratum](09%20Audits%20and%20Manifests/KONOSUBA_MAIN15_PV29_ACTOR_ATTRIBUTION_ERRATUM_01.json) preserves historical cells and outcomes. Global percentage stays null; no new main volume is admitted.
+**Komekko cohort07 has completed scoped semantic receiving; its exact publication gate is pending.** The [monograph](05%20Specialist%20Synthesis/KONOSUBA_KOMEKKO_CHARACTER_MONOGRAPH.md), [model](06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_KOMEKKO_RECONSTRUCTION_MODEL.md), [index](08%20Evidence%20and%20Indexes/KONOSUBA_KOMEKKO_EVIDENCE_INDEX.md) and [receiving](09%20Audits%20and%20Manifests/KONOSUBA_KOMEKKO_COHORT_01_RECEIVING_AND_PROVENANCE.json) own uptake. Five EXP01 first-person groups/eighteen actual pages and1,602known-source BASE member slots support play/state, selective giving/guarding, concrete bargaining, attachment, mistakes/knowledge and learned voice. Seventy-nine selected ledger entries span ten responsibilities without closing whole bodies. Four same-author pairs/eight first answer bodies retain one location error, strong generic/bundled-input rivals and identical hidden-knowledge answers; no independent score, voice adequacy or confidence gain follows. The new model joins twelve entering model bodies preserved exact.
+
+The [coverage](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md) and [census](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json) retain157qualified working rows, no final population or percentage. Only Komekko and native ホースト alias resolution change;155other rows and six prior scopedTier3 states remain exact. Iris, Yunyun, Vanir, Wiz, Chris/Eris and [Dust](09%20Audits%20and%20Manifests/KONOSUBA_DUSTCOHORT01_PUBLICATION_GATE_CLOSE.json) have closed their full scoped publication gates. Komekko's new provisional scope remains distinct from publication and mature readiness. Complete MAIN01–17 reports, all six checkpoints and earlier92 documentary appendix retain declared derivative receiving; bounded native checks and original source traversal remain separate. All17main excluded/19supplemental/5mixed-reference source gates retain their stated closed scopes. The external [MAIN15 PV29 actor erratum](09%20Audits%20and%20Manifests/KONOSUBA_MAIN15_PV29_ACTOR_ATTRIBUTION_ERRATUM_01.json), all frozen forecasts/outcomes and scores remain exact.
+
+Continue the full individual/event/alias census, further evidence-proportional monographs/models/profiles, expanded specialists and separately versioned principal-party-transfer models, designated curation/evaluation/integration and component/release/final-entry audits. No new main volume, protected-merge executor activation or global completion is claimed.
 <!-- CURRENT_OPERATION_END -->
 
 The main17 principal readings/checkpoints, main-only specialists, MAIN_ONLY_R1 reconstruction/diagnostic suite, main-principal evidence indexes and four designated holdout-principal assessments are accepted. Their historical derivation, original forecasts, adverse findings and frozen bytes remain separately authoritative at their original boundaries. They are not a substitute for outstanding edition components, expanded synthesis or revised models.

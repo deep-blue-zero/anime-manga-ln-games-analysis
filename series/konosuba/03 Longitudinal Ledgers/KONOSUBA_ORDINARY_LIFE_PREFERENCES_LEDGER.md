@@ -1231,3 +1231,12 @@ MAIN12 FinalP10's charity/drinking is her account; P13/P16–23 joins ordinary c
 ## DUST-COHORT06-C01 — wanted home, pleasures and exact resource directions
 
 Dust values ordinary Axel company, leisure and situated quiet without needing one constant noise preference. Particular care costs time, money, privacy and risk; mixed benefit remains. DUST07 U011P1092–1093 performs the sword loan and return request; U014P119 explicitly cancels defense debt while the separate guild payment is reported later. No sword/book return, final romance or universal debt settlement is shown. Merchant gift, entrusted allowance, provider fees, food for Faitifore and Leen-directed labor are distinct owner/payer/recipient states; gifts to others cannot be relabeled a clean Leen-specific transfer.
+
+
+## Komekko cohort07 source-informed consolidation — 2026-10-20T03:13:02.170207+00:00
+
+Source-known admitted EXP01/02 and MAIN05/11/14; eighteen actual image-prose pages and1,602bounded BASE member slots, not new whole-source/ruby/independent credit. The [Komekko index](../08%20Evidence%20and%20Indexes/KONOSUBA_KOMEKKO_EVIDENCE_INDEX.md) owns exact ranges/event joins; older entries remain historical at their original scopes.
+
+| Record | Acting subject and exact route | Current uptake | Limits |
+|---|---|---|---|
+| K07-OL01 | Komekko play/resources/care; EXP01IMG026-043/U018P435-439;EXP02U013/U023P565-620;MAIN05U020P230-241;MAIN14C1P272-284/C4P90-94 | Novel puzzles/riding, boredom, food scarcity anticipation, two distinct food offers, lunch/book giving, bedtime affection, tea service and rejected carrying task make ordinary life substantive. | Current plenty need not erase anticipation, fullness can reduce effort and particular generosity does not guarantee obedience. Reference song/appetite description is not a new dated hug, meal or trip. |

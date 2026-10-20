@@ -1159,3 +1159,12 @@ MAIN12 FinalP277–287 moves from recognition to an actual thrust; Kazuma's P296
 ## DUST-COHORT06-C01 — reject unconditional protection while retaining actual care
 
 Direct adverse cases remain: DUST02 C03P149/P156–176/P420–424 induced attraction after refusal; DUST03 U013P218–247 rescue obstruction; DUST04 U012P661–686 refused companion wager; DUST06 actual delay/teasing; DUST07 U012P295–304 Keith nonhelp. Later protection, success, humor, authority, alleged deservedness, lack of completed injury or motive purity do not erase them. Positive costs and intervention remain real. DUST-CONT's captive-princess tolerance and delayed recovery retain adverse weight without inventing a complete new leisure/feasible-means conjunction in every omission. The old N01 unconditional override is not repaired by the new source-informed model.
+
+
+## Komekko cohort07 source-informed consolidation — 2026-10-20T03:13:02.170207+00:00
+
+Source-known admitted EXP01/02 and MAIN05/11/14; eighteen actual image-prose pages and1,602bounded BASE member slots, not new whole-source/ruby/independent credit. The [Komekko index](../08%20Evidence%20and%20Indexes/KONOSUBA_KOMEKKO_EVIDENCE_INDEX.md) owns exact ranges/event joins; older entries remain historical at their original scopes.
+
+| Record | Acting subject and exact route | Current uptake | Limits |
+|---|---|---|---|
+| K07-SO01 | Komekko specific concern and adverse limits; EXP01U043P239-278/364-366/428-429/472-493;EXP02U023P565-620;MAIN14C4P90-94 | Costly food/property giving, concern for sister and concrete helping attempts support particular care. Evacuation refusal, poorly executed help and rejected cumbersome care remain. Yunyun supplies physical shielding. | No universal protective/compliance override, inferred safe danger appraisal or unseen bear rescue/victory. Nonsexual age-appropriate child scope; threatened harm is not erased by comic framing or absence of completed injury. |

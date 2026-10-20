@@ -1,7 +1,7 @@
 {
   "schema": "KONOSUBA_DUST_COHORT06_RECEIVING_AND_PROVENANCE_V1",
   "accepted_utc": "2026-10-20T01:37:10.780416+00:00",
-  "status": "ROOT_SCOPED_SEMANTIC_RECEIVING_COMPLETE_CONTAINING_PUBLICATION_PENDING",
+  "status": "ROOT_SCOPED_SEMANTIC_RECEIVING_AND_FULL_PUBLICATION_GATE_CLOSED",
   "source_boundary_commit": "d0ca81788a2cc80bb44c384dd5a81ef43df6e42e",
   "previous_published_source": "5a4bc7d7386452c9afc5aa5e12bc8e9af44d8c23",
   "incorporated_audited_main": "c5646c50f8e7cc0b7ea6ac79204cd3e2558bb5a5",
@@ -347,9 +347,22 @@
   "main15_external_erratum": "09 Audits and Manifests/KONOSUBA_MAIN15_PV29_ACTOR_ATTRIBUTION_ERRATUM_01.json",
   "preservation": "66 immutable current files/72 historical pins/four scores/seven original Dust questions/fourteen blanks/eleven entering models/SI-SY28 original nulls/80 scratch and seven Chris-Eris post-gate paths preserved. No direct global discovery/reconstruction/routing output authorship.",
   "not_completed": [
-    "Exact canonical adoption/publication/full readback/source audit/housekeeping/final actual-source audit/status/fresh authority reload",
     "Full individual/event census, proportional additional artifacts, expanded specialists and versioned six principal/party/transfer models",
     "Designated curation, currently governed integration and component/release/final-entry audits"
   ],
-  "integration_boundary": "Current main governance makes EC2 stewardship primary but requires independently enforced shared exclusion before apply. This series-author candidate does not activate or invoke a protected-merge executor or change provider settings."
+  "integration_boundary": "Current main governance makes EC2 stewardship primary but requires independently enforced shared exclusion before apply. This series-author candidate does not activate or invoke a protected-merge executor or change provider settings.",
+  "full_publication_gate": {
+    "path": "09 Audits and Manifests/KONOSUBA_DUSTCOHORT01_PUBLICATION_GATE_CLOSE.json",
+    "sha256": "4028d588c7424d416cc20abe44d77c103db8edf3c670980b87621c5759f3ba3f",
+    "actual_source": "59a60ed821e8bf295a37e0770b52023f60f7ae9c",
+    "tree": "6694640879ec16afb1f3868cb4b26ffe9895eb2c",
+    "source_run": 39356025994,
+    "housekeeping_run": 39356388057,
+    "final_run": 39356428059,
+    "full_tests_each": 385,
+    "all5_non_success_zero": true,
+    "all9181_remote_paths_and39streams_exact": true,
+    "fresh1005_project_authority_reload": true
+  },
+  "post_gate_current_operation": "Full individual census and joins, further proportional artifacts including Komekko, expanded specialists and separately versioned six models, designated curation/integration and component/release/final-entry audit continue. No full-program completion or protected merge."
 }

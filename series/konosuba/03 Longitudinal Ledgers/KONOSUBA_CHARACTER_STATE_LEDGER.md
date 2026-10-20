@@ -1603,3 +1603,12 @@ Chris/Eris receives a scoped Tier3 monograph/model/index with provisional predic
 ## DUST-COHORT06-C01 — one present person with a usable past
 
 Dust receives a scoped source-informed Tier3 monograph/model/index. DUST05 U012P591's knight appraisal and P599/P602's current self-name precede restored-Dust protection of Leen; DUST07 U011P419–440 deliberately discloses the past. The old name ライン・シェイカー is not the attendant レイン. Chosen ordinary life, old attachment, skill and present misconduct all remain. No two-person/clinical account, perfect reform or global census completion follows. [Evidence](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_EVIDENCE_INDEX.md).
+
+
+## Komekko cohort07 source-informed consolidation — 2026-10-20T03:13:02.170207+00:00
+
+Source-known admitted EXP01/02 and MAIN05/11/14; eighteen actual image-prose pages and1,602bounded BASE member slots, not new whole-source/ruby/independent credit. The [Komekko index](../08%20Evidence%20and%20Indexes/KONOSUBA_KOMEKKO_EVIDENCE_INDEX.md) owns exact ranges/event joins; older entries remain historical at their original scopes.
+
+| Record | Acting subject and exact route | Current uptake | Limits |
+|---|---|---|---|
+| K07-CS01 | Komekko own changing state and goals; EXP01 IMG026-043/U018P407/435-439/U043P239-278;EXP02U023P565-620;MAIN11C3P221-241 | Interest, boredom, hunger/fullness/sleep, selective giving, concrete attachment and resistance coexist. Six KM-K informed rules support a scoped provisionalTier3 model; her EXP01 agefive does not fix later age. | Earlier limited-profile assessments stay exact; no appetite-only law, universal charity, diagnosis or mature predictive reliability. |

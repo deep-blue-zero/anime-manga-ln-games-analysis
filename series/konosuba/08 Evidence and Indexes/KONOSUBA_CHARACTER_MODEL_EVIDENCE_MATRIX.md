@@ -957,3 +957,19 @@ These are newexpanded constraints, not revisedscores or frozen R1replacement. [F
 | EC-FAN-MC04 | Kazuma/Luna/party audiencescripts | S100–107 usefulhelpwithdateincentive/partyobjection/Lunaexit; explicitfans/film/pollplane | EXPAND source-specificinteraction, noordinaryMAINexternalmediaknowledge |
 | EC-FAN-MC05 | Voice and evidence-class scope | FM-H07referencecapacityHN/A; FM-V15L2/L1afteroriginalL3; FM-V05reportedselfproverb/L3defensible; 水商売L3explicit | QUALIFYwarrants, preserveoriginals, no pooledstatistics ornew modelscore |
 | EC-FAN-MC06 | Productionintent/referencecorroboration | S090–094 creatorconstraints; allreferenceplanes markeddependent/hypothetical/report asappropriate | CONTEXTUALsupport only, cannot erase performedcounterevidence or immutablefailure |
+
+
+## Komekko cohort07 attributable expanded model constraints — 2026-10-20T03:13:02.170207+00:00
+
+This maintained expanded matrix receives new source-informed constraints; the distinct frozen MAIN_ONLY_R1 response-receiving matrix and every entering model remain exact. [Komekko model](../06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_KOMEKKO_RECONSTRUCTION_MODEL.md) and [index](KONOSUBA_KOMEKKO_EVIDENCE_INDEX.md) own rule details and exact source routes.
+
+| Constraint | Variable / route | Current mechanism and contrary limit | Transition |
+|---|---|---|---|
+| K07-MC01 | Engagement; EXP01 IMG026–035;EXP02U013 | Specific puzzle ability coexists with boredom, hunger, fullness/sleep and partial play; food does not mechanically buy work | EXPAND scopedKM-K-01, moderate causal confidence |
+| K07-MC02 | Valuation/giving;EXP01U018P435-439;MAIN05U020P230-241;EXP02U023P611-620 | Real guarding and costly food/book offers require state/recipient distinctions; exact motives and weights unresolved | EXPAND KM-K-02/04, no universal kindness/hoarding |
+| K07-MC03 | Practical leverage/error;EXP01IMG030-037;MAIN11C4P538-577 | Several tactics fail; literal offering misimplementation and food-room resistance coexist | EXPAND KM-K-03, no perfect strategist |
+| K07-MC04 | Particular care/limits;EXP01U043P239-278/364-366;EXP02U023P565-620;MAIN14C4P90-94 | Affection, concrete help/gift and poor execution/refusal coexist; no safety/compliance override | EXPAND KM-K-04, serious transfer open |
+| K07-MC05 | Knowledge/capacity;MAIN05U027P677-697;MAIN11C3P204-213/Ep93-99 | Salient noticing/trigger/quote can exceed causal understanding; other actors supply expertise | EXPAND KM-K-05, no adult/divine capacity imported |
+| K07-MC06 | Written voice;EXP01IMG026-031/043;EXP02U023P550-588;MAIN14C1P272-284 | Exact teacher/report/guess and act/recipient matter; ordinary courtesy and quiet affection join theatrical script | EXPAND KM-K-06, no acoustic/native-human adequacy |
+
+StageD principal/party/transfer feed: preserve Megumin's care alongside child nonassent and reader-only knowledge; credit Aqua/Yunyun/Kazuma their actual distinct acts; do not treat Komekko's listening as others' combat consent. Four same-author pairs/eight first bodies retain H02A location error, strong generic/bundled-input rivals and no H04 behavioral discrimination. No original forecast, outcome or four-score repair follows.

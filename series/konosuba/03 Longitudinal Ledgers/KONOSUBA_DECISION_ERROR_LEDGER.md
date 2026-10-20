@@ -1816,3 +1816,12 @@ MAIN12 FinalP275's cute-creature refusal changes after ingredient/demon recognit
 ## DUST-COHORT06-C01 — desire-compatible inference and deliberate representation differ
 
 DUST07 U014P101–125 supplies an accessible right/left cue missed under a desired invitation, while other scenes show actual inquiry, rival consideration and updating. Knowingly false cover, the DUST05 altered knight appraisal and a reasonable uninformed guess are different processes. Actual gift/price/future-term checks coexist with early access errors and deliberate entrusted-money appropriation. The six-rule model preserves uncertainty over causal weights. Six same-author hypothetical outputs do not uniquely predict appropriation, isolate privacy, or demonstrate third-pair behavioral discrimination; no new accuracy score follows.
+
+
+## Komekko cohort07 source-informed consolidation — 2026-10-20T03:13:02.170207+00:00
+
+Source-known admitted EXP01/02 and MAIN05/11/14; eighteen actual image-prose pages and1,602bounded BASE member slots, not new whole-source/ruby/independent credit. The [Komekko index](../08%20Evidence%20and%20Indexes/KONOSUBA_KOMEKKO_EVIDENCE_INDEX.md) owns exact ranges/event joins; older entries remain historical at their original scopes.
+
+| Record | Acting subject and exact route | Current uptake | Limits |
+|---|---|---|---|
+| K07-DE01 | Komekko ordinary refusal/error; EXP01IMG030-037;EXP02U023P541-560;MAIN11C4P538-577;MAIN14C4P90-94 | Hoost resists flattery/hardship/threat, a food offering is misimplemented, futile pleading is refused and a food-rich room weakens a dinner threat. Hidden chocolate changes leverage only when found. | No always-successful trick, initial omniscient chocolate plan, final pantry exhaustion or completed father retrieval. H02A hypothetical location error belongs to authoring, not this child source history. |

@@ -1356,3 +1356,12 @@ MAIN12 FinalP16–23 separates payment, accepted lodging and wanting company; P4
 ## DUST-COHORT06-C01 — particular bonds and different actors' choices
 
 Leen, Rionor, Faitifore, Lolisa, Taylor and Keith retain separate knowledge, preferences and contributions. DUST06 U012P427–597 distinguishes capture/refused withdrawal/later usable exit/renewed choice; DUST-CONT U012P436–510 gives Leen's own reasons. DUST07 U011P735–944 harmful training and U012P295–304 Keith nonhelp coexist with affection, actual help and private recognition. Apology, money, skill or later survival cannot retroauthorize force. Child-presenting interactions remain nonsexual and age appropriate; no final formal pairing or universal provider obedience is established.
+
+
+## Komekko cohort07 source-informed consolidation — 2026-10-20T03:13:02.170207+00:00
+
+Source-known admitted EXP01/02 and MAIN05/11/14; eighteen actual image-prose pages and1,602bounded BASE member slots, not new whole-source/ruby/independent credit. The [Komekko index](../08%20Evidence%20and%20Indexes/KONOSUBA_KOMEKKO_EVIDENCE_INDEX.md) owns exact ranges/event joins; older entries remain historical at their original scopes.
+
+| Record | Acting subject and exact route | Current uptake | Limits |
+|---|---|---|---|
+| K07-RS01 | Komekko with named counterparts; EXP01IMG026-043;EXP02U023P541-641;MAIN11C3P376-444/C4P538-577;MAIN14C1P261-269 | Hoost becomes particular friend with actual refusals and finite provision. Megumin receives care, gifts, objection and disappointment; Kazuma gives/receives food and mediates; Aqua supplies play/care; Yunyun receives flawed help. Luna designs the food/admiration work pressure. | Child assent to listen does not consent for other people or make her institution designer. Parents prior neighbor arrangement is reported by actual agreeing provider. Future Hoost familiar contract is conditional/unperformed. |

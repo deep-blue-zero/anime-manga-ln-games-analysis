@@ -4,7 +4,7 @@ artifact_type: execution_and_source_reconciliation_audit
 scope: V11-V17 continuation and the fixed 41-object expanded-source program
 generation: V1
 status: active_provisional
-source_boundary: DUSTCOHORT01 semantic receiving/publication pending; five earlier secondary gates and all declared source programs closed; fullcensus/earnedartifacts/expanded specialists/versionedmodels/curation/integration/release active
+source_boundary: DUSTCOHORT01 full exact-source gate and fresh authority reload closed; six scoped secondary gates/all declared source programs closed; fullcensus/earnedartifacts/specialists/versionedmodels/curation/integration/release active
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -21,8 +21,8 @@ The owner's 2026-10-16 request executes `KONOSUBA_CONTINUATION_AND_FULL_CORPUS_C
 | Execution mode | `continuous_sequential` |
 | Main-series authorized range | V11–V17 |
 | Accepted high-water mark | V17 principal and final Gen05 checkpoint; CP06/evidence freeze published and fully audited at a1539842 |
-| Current phase | Owner-resumed full program; Dust scoped Tier3 semantic receiving/publication pending; five earlier scoped secondary gates closed; remaining individual/specialist/model/release work active |
-| Next canonical operation | DUSTCOHORT01_PUBLICATION_GATE then fresh authority reload and continued individual census/earned artifacts/expanded synthesis; no new source admission |
+| Current phase | Owner-resumed full program; Dust sixth scoped secondary full gate closed; remaining census/proportional artifacts/expanded specialists/versioned six models/curation/release active |
+| Next canonical operation | Continue individual census and Komekko evidence/proportional artifacts with expanded synthesis/versioned-model work; carry seven-path Dust gate progress into next publication; no new source admission |
 | Current prospective model | Gen05 frozen through V15, original 25 blank pairs exact; formal V16–V17 8C/6P/1F/3AMB/7NT separate from accepted locals; no Gen06 |
 | Initial published continuing-branch head at reconnaissance | `0238f356ee2ade28e39aa3a940ea0e091f8211f4` |
 | Initial main at reconciliation | `53de8ba455938174a3f14f887cd33739261a4e5f` |
@@ -1415,3 +1415,15 @@ Exact source 5a4bc7d7386452c9afc5aa5e12bc8e9af44d8c23, tree 084095a488065b076dce
 ## Dust cohort06 semantic receiving — 2026-10-20T01:41:46.866225+00:00
 
 Eleven new artifacts and a maintained157row census are received; exact containing publication remains pending. Six source-known rules/six actual first outputs/three contrasts retain real adverse choices and choice underidentification; third pair does not discriminate behavior. No source/independent score or confidence gain. Current DUST07 explicit native1218member slots retain prior1179 plus8identity and31loan slots; no whole-source/ruby/image or independent-event increment. Current full derivative receiving is MAIN01–17/all six checkpoints/earlier92 documentary appendix at declared scopes; broader ledger/census remains open despite scoped ten-responsibility Dust checks. Twenty-nine prior rows/six new narrow subjects/122unchanged; earlier five tiers and eleven models exact. Chris/Eris7postgatepaths carried. MAIN15 PV29 external actor erratum preserves original cell and all judgments. Frozen66current/72historical/fourscores/Dust14blanks/SI-SY28nulls/80scratch retained. Expanded specialists/versioned six models, further proportional character artifacts, designated curation/integration and component/release/final-entry audits continue. Current approved main integration-policy changes are imported; no executor activation, provider setting or protected merge is claimed.
+
+
+## Dust cohort06 full gate and published authority reload — 2026-10-20T02:11:57.390771+00:00
+
+[Gate](KONOSUBA_DUSTCOHORT01_PUBLICATION_GATE_CLOSE.json) closes source59a60ed821e8bf295a37e0770b52023f60f7ae9c/tree6694640879ec16afb1f3868cb4b26ffe9895eb2c; all9181remote paths/39changedstreams exact. Source39356025994,HK39356388057NO_OP,final39356428059; both385fulltests/zero5non-success/selectionfalse and exact-source status verified despite displayed main workflow metadata. Fresh1005project paths/authority epoch1/protected activation/verified project route and12model identities reloaded. Census157qualifiedrows and all source-known exercise/independence limits remain. Sourceprogram closure is not global census/specialist/versioned-model/curation/integration/release closure. Komekko evidence review and remaining proportional work continue; seven local progress paths will publish with the next governed cohort.
+
+
+## Komekko cohort07 scoped receiving/candidate boundary — 2026-10-20T03:13:02.170207+00:00
+
+[Receiving](KONOSUBA_KOMEKKO_COHORT_01_RECEIVING_AND_PROVENANCE.json) binds ten new original-analysis artifacts, actual18image/1602known-source BASE/79selected-ledger receiving, six rules, four pairs/eight first bodies and preserved adverse location error. The two-row census update retains155other rows; Hoost's native name join earns no new tier. Komekko's broad predictive reliability, native-human voice and independent test remain unestablished. Twelve entering models,66current immutable files,72historical pins,fourscores,Dust14blanks,SI-SY28nullsand80scratch remain protected; staging rechecks exact historical bytes. All source-program closures keep their existing scope. Dust post-gate7 is carried into this candidate.
+
+Exact staged review/author preflight, fresh dual-head/owner/rules check, normal non-force publication, complete remote changed-blob readback, source audit, housekeeping, final actual-source audit/status and fresh published-authority reload remain required. This entry does not claim those future gates. PR254 is the existing review route, with no protected merge or executor deployment performed. Full individual/event census, proportional remaining artifacts/profiles, expanded specialists, separately versioned six models, designated curation/integration and final component/release/entrypoint audits continue. Global percentage is null; goal remains active.

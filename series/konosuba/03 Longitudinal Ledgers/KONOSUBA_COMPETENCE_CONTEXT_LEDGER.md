@@ -1354,3 +1354,12 @@ MAIN12 FinalP131/P136–141 shows a strength failure and accepted physical help;
 ## DUST-COHORT06-C01 — real skill requires actual means and other providers
 
 Dust can change geometry, materials, information and provider arrangement; DUST02 Final's stop depends on distinct rope/shield/cut/spear/Lightning contributions. DUST07 and DUST-CONT preserve real partner roles, class/body/equipment limits, failed recovery and chance. The DUST-CONT shared-sense mechanism first disclosed at U013P294 is not an earlier accessible ignored cue. A physical penetration, successful deception or chosen attack does not itself prove completed rescue/recovery. Technical capacity does not certify permission or ethical treatment. No modern expertise or solo remote-victory knowledge is imported.
+
+
+## Komekko cohort07 source-informed consolidation — 2026-10-20T03:13:02.170207+00:00
+
+Source-known admitted EXP01/02 and MAIN05/11/14; eighteen actual image-prose pages and1,602bounded BASE member slots, not new whole-source/ruby/independent credit. The [Komekko index](../08%20Evidence%20and%20Indexes/KONOSUBA_KOMEKKO_EVIDENCE_INDEX.md) owns exact ranges/event joins; older entries remain historical at their original scopes.
+
+| Record | Acting subject and exact route | Current uptake | Limits |
+|---|---|---|---|
+| K07-CC01 | Komekko with Hoost/Megumin/Kazuma/Yunyun; EXP01IMG026-039/U043P364-366;MAIN05U027P677-697;MAIN11F55/Ep96 | Specific puzzle skill, vocabulary/reading questions, harmful attempted carrying help and poor causal explanation coexist. Kazuma understands/aims, Megumin charges and Komekko notices/pulls the trigger. | No measuredIQ, sole weapon authorship, universal strategist or demonstrated controlled devil summoning. Adult future talent appraisal remains testimony. |

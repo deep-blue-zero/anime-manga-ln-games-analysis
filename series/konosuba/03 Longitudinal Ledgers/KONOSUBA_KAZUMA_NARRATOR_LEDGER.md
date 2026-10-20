@@ -1282,3 +1282,12 @@ MAIN12 FinalP37–40 prayer linkage and P380 identity detection are Kazuma's inf
 ## DUST-COHORT06-C01 — own viewpoint and cross-viewpoint event identity
 
 Dust is the first-person focalizer of most Dust material; Leen and the private Doreck/Gaibil epilogue have different access. This rolling responsibility keeps its established filename rather than creating a competing narrator ledger. DUST07 U011P1085–1115 supplies the sword's narrated defense, prior-role connection, performed public profit/anger cover, private protect-friend wish and genuine conditional profit. MAIN16 observes the same initial exchange with less private access; MAIN17 use is later. Do not grant either narrator the other's whole mind, infer global unreliability, or turn retellings into new initial loans. A claimed all-spell defense is not a fresh experiment.
+
+
+## Komekko cohort07 source-informed consolidation — 2026-10-20T03:13:02.170207+00:00
+
+Source-known admitted EXP01/02 and MAIN05/11/14; eighteen actual image-prose pages and1,602bounded BASE member slots, not new whole-source/ruby/independent credit. The [Komekko index](../08%20Evidence%20and%20Indexes/KONOSUBA_KOMEKKO_EVIDENCE_INDEX.md) owns exact ranges/event joins; older entries remain historical at their original scopes.
+
+| Record | Acting subject and exact route | Current uptake | Limits |
+|---|---|---|---|
+| K07-KN01 | Komekko/Megumin/Hoost/Yuiyui access; EXP01IMG040-043/U043P538-572;MAIN11C3P204-213/EpP93-99 | Reader-only child interludes, Megumin later report, village false divine account, actual writing, mother-read memo, confused achievement and accurate overheard phrase retain separate knowledge routes. | Neither Kazuma nor Megumin knows every child/Hoost scene. No fresh witnessed battle from a retelling, adult comprehension from quotation or demon control from YORI04/other aptitude reports. |

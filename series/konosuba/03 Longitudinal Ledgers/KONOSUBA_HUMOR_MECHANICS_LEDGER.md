@@ -1845,3 +1845,12 @@ A useful thief's face-saving failures, divine dignity versus wanted friendship, 
 ## DUST-COHORT06-C01 — comic reversals retain actual costs and capacities
 
 Glory defeats an understood assignment in DUST02, borrowed prestige changes access in DUST03, and profitable/heroic cover diverges from private aims in later scenes. Comic defeat does not erase useful weapon/provider skill. Actual coercion, refusal, restraint, fear, payment and chosen help remain literal fictional events; fantasy is not automatically H4. H2 amplification and H3 gag-dependent weak transfer require their own warrants, and source uncertainty does not supply either. Existing codes/denominators remain unchanged. [Current Dust index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_EVIDENCE_INDEX.md).
+
+
+## Komekko cohort07 source-informed consolidation — 2026-10-20T03:13:02.170207+00:00
+
+Source-known admitted EXP01/02 and MAIN05/11/14; eighteen actual image-prose pages and1,602bounded BASE member slots, not new whole-source/ruby/independent credit. The [Komekko index](../08%20Evidence%20and%20Indexes/KONOSUBA_KOMEKKO_EVIDENCE_INDEX.md) owns exact ranges/event joins; older entries remain historical at their original scopes.
+
+| Record | Acting subject and exact route | Current uptake | Limits |
+|---|---|---|---|
+| K07-HM01 | Komekko and adult expectations; EXP01IMG036-043/U043P512;EXP02U023P541-620;MAIN14bonusP51-57 | A concrete food interpretation defeats a ritual plan; refusal frustrates an expected farewell performance while actual affection follows; a child food appraisal elicits a seedling fear response. | Literal acts, failed tactics and unshown eating/bear outcome remain. No automatic H3 from fantasy, universal child-cruelty law, replacement code or pooled humor denominator. |

@@ -1,8 +1,8 @@
 {
   "schema": "KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS_V1",
   "status": "INCREMENTAL_157_QUALIFIED_ROWS_NOT_FINAL_INDIVIDUAL_DENOMINATOR",
-  "updated_utc": "2026-10-20T01:37:10.780416+00:00",
-  "scope": "Incremental secondary census/cohorts01-06; all declared source-program gates closed. Iris/Yunyun/Vanir/Wiz/Chris-Eris five scoped gates closed; Dust scoped semantic receiving complete/publication pending. Full individual/specialist/expanded-model/curation/release program remains active.",
+  "updated_utc": "2026-10-20T03:05:50.739454+00:00",
+  "scope": "Incremental secondary census/cohorts01-07: six scoped gates closed; Komekko scopedTier3 semantic receiving complete/publication pending. All declared source-program gates retain their stated scopes. Full individual, earned-artifact, specialist, expanded-six-model, curation/integration and release program remains active.",
   "row_semantics": "Distinct qualified working subjects plus explicitly unresolved grouped/identity leads. A row is not automatically one final individual or an earned artifact. Old scope phrases remain their recorded history; the root current scope governs present admission status.",
   "artifact_architecture": "Use existing05 Specialist Synthesis for earned monographs and06 Character Modeling and Reconstruction for distinct mechanism models. Existing ledgers carry bounded profiles unless a separate responsibility is justified. Single current corpus map; curator-only global registry/index enrollment.",
   "rows": [
@@ -169,12 +169,12 @@
     {
       "character": "Dust",
       "identity": "ダスト / Dust; ライン・シェイカー is the old-name identity, joined at the explicit admitted-source role/disclosure boundary. Distinct from attendant レイン / Rain/Rein; Leen / リーン and Rionor / リオノール remain different people.",
-      "likely_tier": "3, scoped cohort06 semantically received; predictive reliability provisional",
+      "likely_tier": "3, scoped cohort06 full gate closed; predictive reliability provisional",
       "priority": "High",
       "evidence_distribution": "MAIN02 native party-swap; CONTEXP01; DUST01-07/CONT completed programs; DUST03/04 fresh report review. CompleteCONTEXP01report281L. Complete FD221L report received; direct native applies only to current735P joins, with separate game-novelization source plane. Complete Dust05 report210L and actual721nativeP across3 accepted units now received; direct native support is restricted to the recorded windows, not every report scene. Complete Dust06 accepted report157L received; actual current216nativeP are only U010596-640/U012427-597 Leen-viewpoint joins, not every report scene. MAIN13 current bounded retained native2008P across7units and17-section analysis reviewed; only the actual recorded windows confer direct native receipt. Complete Dust07 report192L now received; current native1179P across4units supports only its actual recorded windows, epilogue alone complete at base-text scope. Complete unnumbered Dust continuation report220L received; current387nativeP across4units includes complete34P private epilogue and75P Leen viewpoint, other windows bounded. MAIN14 Final service episode complete base text plus existing full Dust05 report/native evidence. CURRENT WORKING22: Full DUST01–04 report reviews24–27 and current accepted-native52PDust01I01/107PDust03U014; fullYORI04review31. CURRENT WORKING24: Complete accepted MAIN01–04 reports and original V01–V03 checkpoint actually reviewed at derivative scope (receipts32–36); bounded MAIN02 Keele116 P / MAIN04 epilogue94 P native receipt separately recorded. MAIN17 complete new15resources71 P/25images and1,517 retained BASE-TEXT P acrossfiveunits are actual at their stated scopes, not new whole-principal/ruby/independent passes. CURRENT WORKING25: MAIN07 complete derivative adds his own plausible substitute-frontline contribution and later public wedding intervention. Same events in later Dust retellings must deduplicate. Existing rich own-viewpoint evidence supports a distinct model candidate; no new blind test or pure-loyalty inference. CURRENT WORKING31: Current complete MAIN13-MAIN16 accepted report review, receipts49-52; derivative claims retain original access planes. Targeted native confirmations are separately pinned, with no new whole-source/independent-test credit. CURRENT WORKING32: All six later/earlier checkpoints and earlier92 documentary appendix received at their declared scopes (53-55). Targeted66-entry selection and six additional body ranges span eleven physical current-ledger files/ten responsibilities; not whole-body closure of every ledger or392 unique retrieval lines. Current DUST07 explicit native receipt union1218 BASE-TEXT member slots adds8 identity-context and31 sword-handover slots to prior1179; zero new whole-source/ruby/image/independent-test credit.",
       "substantive_responsibility": "First-person self-description, trained skill, ordinary life, selective care, harassment, rescue obstruction and chosen current life. ExpresslyinventednoblegirlsromanceU01793-109notbiography. Reportactualfootwork/spacingandlaterspearexpertise468-495 distinctfrompresentharassment/scams and Midealizedexclusion; moralbadactsdo notdisproveexistingtechnicalskill. MAIN13 C3 bar intimidation episode and DUST05 C1 are the same event from different viewpoints. Preserve viewpoint differences and count one event, not two independent confirmations. Current native joins clarify the named Duke and mistaken romantic intent. Dust07 native1179P: informed merchant disposal check, present-person protective vow, graded party disclosure and privacy protection coexist with counterfeit inducement and coercive recruitment. Deliberate Keith nonhelp remains adverse despite later actual positive protection; originalN01blanks unchanged. Useful coerced training causes real fear and unwanted contact; money/apology and reduced anger do not erase harm. Epilogue accessible right/left cue permits actual appetite error; defense debt explicitly cleared, no mouth contact, final ordinary-life/private-recognition choice actual. DUST-CONT complete report/current387nativeP: real direct contract/term questions and patient care coexist with tolerated royal coercion/report nonhelp. New shared-sense mechanism only learned U013294 before capture; not an accessible earlier ignored cue. Actual particular bride-protection349 differs from fullmatched newN01trial. No private epilogue knowledge granted to Dust; public hero role and present ordinary self remain audience-bound. CURRENT WORKING21: Actual initial Serena preferenceP126 and later reversalP252; monetary motiveP255 is Kazuma's inference. Same service event across Dust05/Main14 is one underlying event. CURRENT WORKING22: YORI04 staged friendly encounter is explicitly translated and does not neutralize actual harassment elsewhere. Unnamed admirer has separate POV/object valuation; Dust's own misunderstanding/false reports/finite borrowed equipment remain. DUST02 forced attraction, DUST03 delayed rescue and DUST07 Keith removal are genuine adverse protection evidence. CURRENT WORKING24: MAIN02 party swap and MAIN03 deliberate jail strategy supply own aims/costs; later Dust viewpoints retell the same swap. MAIN17 C1/C2 explicitly uses his lent magic sword. Actual use is visible; initial lending is attributed history rather than a newly witnessed loan. CURRENT WORKING31: MAIN13 extortion/newcomer test, threat assessment and public family naming for pay; MAIN14 declared loyalty for Aqua previous aid then materially rewarded defection; MAIN16 recruits Yunyun for useful magic while insulting Megumin, lends useful sword with resale plan. MAIN17 sword use is later continuation. CURRENT WORKING32: Actual DUST07 U0111085-1115 sword loan has narrator-known one-use defense, old-role connection, performed profit/anger cover, protect-friend wish and genuine conditional profit possibility. MAIN16 current perspective is the same initial loan, MAIN17 actual use a later state, and return unshown. DUST04 U012661-686 refused companion wager is a direct contrary. New six-rule source-known model keeps protective and economic choice underidentification; six actual first hypothetical outputs/three pairs have no independent reliability gain and the third has no behavioral discrimination.",
-      "gaps": "Exact containing publication/full gate, fresh authority reload and designated curation/integration remain. Full broader census/ledger consolidation and exact MAIN07 retelling joins remain open. Known-source same-author exercises do not establish independent predictive or native-human voice reliability; keep original N01 contraries, fourteen blanks and unresolved choice weights.",
-      "disposition_status": "SCOPED_TIER3_COHORT06_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+      "gaps": "Full broader individual/event/ledger consolidation, exact MAIN07 retelling joins and designated curator enrollment remain. Independent predictive and native-human voice reliability are unestablished; six source-known same-author outputs retain underidentified choice weights and no third-pair behavioral discrimination. Preserve all original N01 contraries and fourteen blanks.",
+      "disposition_status": "SCOPED_TIER3_COHORT06_PUBLISHED_FULL_GATE_CLOSED",
       "independent_observation_count": null,
       "prior_gap_history_working20": "Review all Dust event/chronology layers and original seven hypotheses; preserve14blank fields and all prior scores; no new retrospective blindness. MAIN13 new bonus/129P excluded/28images are read and analyzed; containing exact publication gate pending in this version. MAIN14-17 excluded components remain unadmitted. Retained windows confer no new whole-source or independent-test credit. No new whole-EPUB/ruby/residual/image/independent-test credit; final cross-source disposition/rivals and any earned model remain open. Source planes and direct/report boundaries remain; no new whole-source/ruby/image/independent validation or original-score revision.",
       "current_scope_asof_working21": "MAIN01-13 full gates closed;MAIN14 published4e66641f andall9078remote paths/43changedstreams verified;actualsourceaudit running;MAIN15-17 excluded unadmitted.",
@@ -189,17 +189,18 @@
       "prior_identity_history_working31": "ダスト; former identities require native joins",
       "prior_gap_history_working31": "Deduplicate cross-POV swap and preserve actual adverse choices/source scopes. Join equipment origin without inventing fresh consent or completed repayment. Full individual/event consolidation remains. Current working25 qualification: MAIN07 complete derivative adds his own plausible substitute-frontline contribution and later public wedding intervention. Same events in later Dust retellings must deduplicate. Existing rich own-viewpoint evidence supports a distinct model candidate; no new blind test or pure-loyalty inference. CURRENT WORKING31 QUALIFICATION: Full own-viewpoint/main/retelling individual-event consolidation remains. Preserve material-incentive adverse choice beside skill/help; origin loan/use/payback are distinct. No pure loyalty or many independent trials from retold swap/loan.",
       "current_scope_asof_working32": "All17 main excluded/19 supplemental/5mixed declared source gates remain closed. Complete MAIN01-17 reports/all six checkpoints and earlier92 appendix received at their declared derivative scopes. Broader ledger/census and expanded synthesis/versioned-model/curation/release program continues. Five prior scoped secondary gates closed; Dust private cohort not yet canonically adopted or published.",
-      "cohort06_current_evidence_qualification": "Current complete MAIN13-16 analytical receiving and source-specific bounded native joins; preserve earlier history, adverse cases, access planes and original outcomes. Dust additionally receives the scoped independent-subject monograph/model/index with six source-known rules and qualified same-author internal exercises."
+      "cohort06_current_evidence_qualification": "Current complete MAIN13-16 analytical receiving and source-specific bounded native joins; preserve earlier history, adverse cases, access planes and original outcomes. Dust additionally receives the scoped independent-subject monograph/model/index with six source-known rules and qualified same-author internal exercises.",
+      "historical_cohort06_gap_at_semantic_adoption": "Exact containing publication/full gate, fresh authority reload and designated curation/integration remain. Full broader census/ledger consolidation and exact MAIN07 retelling joins remain open. Known-source same-author exercises do not establish independent predictive or native-human voice reliability; keep original N01 contraries, fourteen blanks and unresolved choice weights."
     },
     {
       "character": "Komekko",
       "identity": "こめっこ",
-      "likely_tier": "2 candidate; generative promotion unearned",
+      "likely_tier": "3, scoped cohort07 semantically received; predictive reliability provisional",
       "priority": "High census priority",
-      "evidence_distribution": "Complete EXP01/02/03 reports; five own first-person EXP01 image interludes, practical family life and later farewell/book history; MAIN05 accepted native/report scope. MAIN11C3P65-105/185-275/280-365/427-579,F1-125/325-358,Ep1-143 andnewfront-rasterchecks. Complete FD221L report received; direct native applies only to current735P joins, with separate game-novelization source plane. MAIN14 new bonusP51-57; retained C1P261-277/C4P91. CURRENT WORKING25: MAIN05 complete derivative gives sharing under scarcity and actual weapon-trigger contribution, distinct from appetite jokes and adults' motives. No fresh native paragraph or full child viewpoint pass is claimed here. Independent age-appropriate, nonsexual profile/tier assessment remains active. CURRENT WORKING27: MAIN09lie-detectorsequence isaretellingofearlierunsealingroles,not a freshwitnessedchildchoice ornew independenttrial. Exacttestedutterancesdonotcertifyallunspokenmotive/cosmology. ExistingEXP/mainownactsremain;currentprofile/tierworkmustbeageappropriateandnonsexual. CURRENT WORKING29: Complete MAIN11 report adds scarcity anticipation, kitchen barricade/chocolate bargaining, independent exploring, food quest preference and sincere admiration. Lucy/final-battle reports are mediated; private relationship quotation is explicitly overheard. CURRENT WORKING31: Current complete MAIN13-MAIN16 accepted report review, receipts49-52; derivative claims retain original access planes. Targeted native confirmations are separately pinned, with no new whole-source/independent-test credit.",
-      "substantive_responsibility": "Dense own viewpoint, exceptional puzzle skill, contingent bargaining, boredom and evacuation refusals, rash initiative, ordinary care/resource constraints and particular attachment beyond hunger. Ownpet/foodliteralinterpretation199/268, learnedphrase/source209/motherinstruction213asreports, realgratitude240-241, incompletelyunderstoodachievementdiaryEp94/96andreportedlistening98, ownnegativeMappraisalF97/103/jobrequest109/115/118, actualpostquestpraise355andfarewellfoodwishEp106. AdulttalentinferenceF55notverifiedcontrol. AgreetolistenC3P432doesnotconsentforadultscombat. CURRENT WORKING21: Own question and food appraisal elicit actual seedling fear; earlier gift/tea/food preferences and wish for father pickup are separate actions. No eating shown. CURRENT WORKING31: MAIN14 gift-conditioned recognition, host behavior, blunt complaints, food interests and practical response to sleeping parents preserve child initiative. Adults predictions of eating a dangerous planted seedling are not her performed act. MAIN13 Chomu/chick references do not automatically become her choice.",
-      "gaps": "Age-appropriate nonsexual monograph/profile decision remains active. Preserve direct child agency, report provenance, uncertain demon-tamer account and adults' exploitative audience uses; appetite alone is not her whole personality. CURRENT WORKING31 QUALIFICATION: Age-appropriate nonsexual treatment. No appetite-only caricature, adult sexual inference, all-system authorship or unshown dangerous eating. Concentrated evidence can support an earned substantial profile; final monograph/model disposition still open.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "evidence_distribution": "Complete EXP01/02/03 reports; five own first-person EXP01 image interludes, practical family life and later farewell/book history; MAIN05 accepted native/report scope. MAIN11C3P65-105/185-275/280-365/427-579,F1-125/325-358,Ep1-143 andnewfront-rasterchecks. Complete FD221L report received; direct native applies only to current735P joins, with separate game-novelization source plane. MAIN14 new bonusP51-57; retained C1P261-277/C4P91. CURRENT WORKING25: MAIN05 complete derivative gives sharing under scarcity and actual weapon-trigger contribution, distinct from appetite jokes and adults' motives. No fresh native paragraph or full child viewpoint pass is claimed here. Independent age-appropriate, nonsexual profile/tier assessment remains active. CURRENT WORKING27: MAIN09lie-detectorsequence isaretellingofearlierunsealingroles,not a freshwitnessedchildchoice ornew independenttrial. Exacttestedutterancesdonotcertifyallunspokenmotive/cosmology. ExistingEXP/mainownactsremain;currentprofile/tierworkmustbeageappropriateandnonsexual. CURRENT WORKING29: Complete MAIN11 report adds scarcity anticipation, kitchen barricade/chocolate bargaining, independent exploring, food quest preference and sincere admiration. Lucy/final-battle reports are mediated; private relationship quotation is explicitly overheard. CURRENT WORKING31: Current complete MAIN13-MAIN16 accepted report review, receipts49-52; derivative claims retain original access planes. Targeted native confirmations are separately pinned, with no new whole-source/independent-test credit. CURRENT COHORT07: Five EXP01 own first-person groups/eighteen image-prose pages actually viewed;1,602 source-known BASE-TEXT member slots across15units/five sources actually received, plus79targeted ledger entries/11physical files/10responsibilities. Exact native member/array bindings and earlier exposure remain separate; no new whole-volume/ruby/independent credit.",
+      "substantive_responsibility": "Dense own viewpoint, exceptional puzzle skill, contingent bargaining, boredom and evacuation refusals, rash initiative, ordinary care/resource constraints and particular attachment beyond hunger. Ownpet/foodliteralinterpretation199/268, learnedphrase/source209/motherinstruction213asreports, realgratitude240-241, incompletelyunderstoodachievementdiaryEp94/96andreportedlistening98, ownnegativeMappraisalF97/103/jobrequest109/115/118, actualpostquestpraise355andfarewellfoodwishEp106. AdulttalentinferenceF55notverifiedcontrol. AgreetolistenC3P432doesnotconsentforadultscombat. CURRENT WORKING21: Own question and food appraisal elicit actual seedling fear; earlier gift/tea/food preferences and wish for father pickup are separate actions. No eating shown. CURRENT WORKING31: MAIN14 gift-conditioned recognition, host behavior, blunt complaints, food interests and practical response to sleeping parents preserve child initiative. Adults predictions of eating a dangerous planted seedling are not her performed act. MAIN13 Chomu/chick references do not automatically become her choice. CURRENT COHORT07: Separate monograph, six-rule operational model and evidence index give play/body-state engagement, selective sharing/guarding, concrete refusal/leverage, particular attachment with flawed help, differentiated knowledge and learned voice. Source-state agefive at EXP01U018P407 is not frozen across later chronology. Actual lunch/book giving and two food-offer contexts complicate appetite; mistakes and failed tactics remain.",
+      "gaps": "Containing publication/full source-HK-final audit gate, fresh authority reload and designated curator/evaluator/integration remain. Same-root four-pair/eight-first-answer exercise retains one adverse location error, strong generic/bundled-input rivals and no hidden-knowledge behavioral discrimination. No broad predictive, native-human language or developmental reliability. Wider census/ledger bodies, additional earned artifacts, expanded specialists/versioned six models and release remain open.",
+      "disposition_status": "SCOPED_TIER3_COHORT07_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
       "independent_observation_count": null,
       "prior_gap_history_working20": "Fresh bounded native image/ordinary-life joins and age/state chronology before monograph receiving. No unshown bear victory, completed future familiar contract, adult motives or cross-context reliability. Fullchildmodelmustkeepagencydevelopmental,notsexualizeadultsetting,assumeadultknowledgeor treatcharmcaptionasproof;lettersanddiaryarelimitedreports. No uniqueprosebookeventboundforIMG007;creatorcodaandpromoareparatext.",
       "current_scope_asof_working21": "MAIN01-13 full gates closed;MAIN14 published4e66641f andall9078remote paths/43changedstreams verified;actualsourceaudit running;MAIN15-17 excluded unadmitted.",
@@ -212,7 +213,21 @@
       "cohort05_current_evidence_qualification": "Complete MAIN11 report adds scarcity anticipation, kitchen barricade/chocolate bargaining, independent exploring, food quest preference and sincere admiration. Lucy/final-battle reports are mediated; private relationship quotation is explicitly overheard.",
       "prior_gap_history_working30": "Age-appropriate nonsexual monograph/profile decision remains active. Preserve direct child agency, report provenance, uncertain demon-tamer account and adults' exploitative audience uses; appetite alone is not her whole personality.",
       "current_scope_asof_working31": "All17 main excluded,19 supplemental and5mixed declared source programs remain closed. Current complete main analytical-derivative review is MAIN01-17 (MAIN17 received earlier out of order); receipts49-52 finishMAIN13-16. Later checkpoints/earlier prospective reconciliation/current ledger and separate supporting-register consolidation, final census/artifacts/expanded models/curation/release remain active. No new source/whole-native/ruby/image/independent-test credit from derivative receiving. Current157qualified audit rows are not final individual population; global percentage null.",
-      "cohort06_current_evidence_qualification": "Current complete MAIN13-16 analytical receiving with exact separate native scope where receipted; historical forecasts and earlier published scoped models/gates remain unchanged. Full independent-event/census closure remains open."
+      "cohort06_current_evidence_qualification": "Current complete MAIN13-16 analytical receiving with exact separate native scope where receipted; historical forecasts and earlier published scoped models/gates remain unchanged. Full independent-event/census closure remains open.",
+      "prior_targeted_fields_before_cohort07": {
+        "identity": "こめっこ",
+        "likely_tier": "2 candidate; generative promotion unearned",
+        "evidence_distribution": "Complete EXP01/02/03 reports; five own first-person EXP01 image interludes, practical family life and later farewell/book history; MAIN05 accepted native/report scope. MAIN11C3P65-105/185-275/280-365/427-579,F1-125/325-358,Ep1-143 andnewfront-rasterchecks. Complete FD221L report received; direct native applies only to current735P joins, with separate game-novelization source plane. MAIN14 new bonusP51-57; retained C1P261-277/C4P91. CURRENT WORKING25: MAIN05 complete derivative gives sharing under scarcity and actual weapon-trigger contribution, distinct from appetite jokes and adults' motives. No fresh native paragraph or full child viewpoint pass is claimed here. Independent age-appropriate, nonsexual profile/tier assessment remains active. CURRENT WORKING27: MAIN09lie-detectorsequence isaretellingofearlierunsealingroles,not a freshwitnessedchildchoice ornew independenttrial. Exacttestedutterancesdonotcertifyallunspokenmotive/cosmology. ExistingEXP/mainownactsremain;currentprofile/tierworkmustbeageappropriateandnonsexual. CURRENT WORKING29: Complete MAIN11 report adds scarcity anticipation, kitchen barricade/chocolate bargaining, independent exploring, food quest preference and sincere admiration. Lucy/final-battle reports are mediated; private relationship quotation is explicitly overheard. CURRENT WORKING31: Current complete MAIN13-MAIN16 accepted report review, receipts49-52; derivative claims retain original access planes. Targeted native confirmations are separately pinned, with no new whole-source/independent-test credit.",
+        "substantive_responsibility": "Dense own viewpoint, exceptional puzzle skill, contingent bargaining, boredom and evacuation refusals, rash initiative, ordinary care/resource constraints and particular attachment beyond hunger. Ownpet/foodliteralinterpretation199/268, learnedphrase/source209/motherinstruction213asreports, realgratitude240-241, incompletelyunderstoodachievementdiaryEp94/96andreportedlistening98, ownnegativeMappraisalF97/103/jobrequest109/115/118, actualpostquestpraise355andfarewellfoodwishEp106. AdulttalentinferenceF55notverifiedcontrol. AgreetolistenC3P432doesnotconsentforadultscombat. CURRENT WORKING21: Own question and food appraisal elicit actual seedling fear; earlier gift/tea/food preferences and wish for father pickup are separate actions. No eating shown. CURRENT WORKING31: MAIN14 gift-conditioned recognition, host behavior, blunt complaints, food interests and practical response to sleeping parents preserve child initiative. Adults predictions of eating a dangerous planted seedling are not her performed act. MAIN13 Chomu/chick references do not automatically become her choice.",
+        "gaps": "Age-appropriate nonsexual monograph/profile decision remains active. Preserve direct child agency, report provenance, uncertain demon-tamer account and adults' exploitative audience uses; appetite alone is not her whole personality. CURRENT WORKING31 QUALIFICATION: Age-appropriate nonsexual treatment. No appetite-only caricature, adult sexual inference, all-system authorship or unshown dangerous eating. Concentrated evidence can support an earned substantial profile; final monograph/model disposition still open.",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort07_current_evidence_qualification": "Bounded native and visual receiving plus actual selected-ledger reconciliation; own source-grounded child agency and contrary choices earn provisional scoped Tier3. No adult motive/capacity, universal charity, demonstrated demon control, unknown bear victory or unperformed eating.",
+      "cohort07_current_artifacts": {
+        "monograph": "series/konosuba/05 Specialist Synthesis/KONOSUBA_KOMEKKO_CHARACTER_MONOGRAPH.md",
+        "model": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_KOMEKKO_RECONSTRUCTION_MODEL.md",
+        "evidence_index": "series/konosuba/08 Evidence and Indexes/KONOSUBA_KOMEKKO_EVIDENCE_INDEX.md"
+      }
     },
     {
       "character": "Claire",
@@ -731,14 +746,23 @@
     },
     {
       "character": "Horst / Hoost retrieval variant",
-      "identity": "Accepted reports use Horst; ホースト in reported interlude title; direct native spelling normalization pending",
+      "identity": "ホースト; Horst / Hoost are existing English retrieval variants for this named source actor, confirmed directly in EXP01 IMG027/029",
       "likely_tier": "2 candidate",
       "priority": "Discovery / consolidation",
-      "evidence_distribution": "Complete EXP01 five interludes and EXP03 encounters/battle report; inherited image/source reading, no fresh pixel pass in this census review.",
-      "substantive_responsibility": "Device dependence, intimidation/bargaining/deference, actual provision and friendship, master recovery/city threat, mistaken reception and finite resources.",
-      "gaps": "Direct native identity/voice/image joins; one dyad does not define every context. Offscreen attack, rebirth/contract/life claims remain reports.",
+      "evidence_distribution": "Complete EXP01 five interludes and EXP03 encounters/battle report; inherited image/source reading, no fresh pixel pass in this census review. CURRENT COHORT07: All18 EXP01 interlude image-prose pages actually viewed/read at source-known scope; direct native spelling, actual food provision, failed/changed negotiation, refusal and first-friend farewell now received. EXP03 report remains its earlier analytical-derivative access, not a new native pass.",
+      "substantive_responsibility": "Device dependence, intimidation/bargaining/deference, actual provision and friendship, master recovery/city threat, mistaken reception and finite resources. CURRENT COHORT07: Particular provider/master-recovery goals coexist with device dependence, resisted child tactics, failed offering interpretation, declined creature inspection, conditional future promise and affectionate farewell. No unilateral control or verified cosmic inference.",
+      "gaps": "Direct EXP01 native name/voice/image join now closed at bounded scope. Own cross-source monograph/tier review remains open; the child dyad does not exhaust EXP03 conflict, recovery aims or known-source rivals. Offscreen attack, rebirth/contract/life claims remain attributed reports, and future child summoning is unperformed.",
       "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
-      "independent_observation_count": null
+      "independent_observation_count": null,
+      "prior_targeted_fields_before_cohort07": {
+        "identity": "Accepted reports use Horst; ホースト in reported interlude title; direct native spelling normalization pending",
+        "likely_tier": "2 candidate",
+        "evidence_distribution": "Complete EXP01 five interludes and EXP03 encounters/battle report; inherited image/source reading, no fresh pixel pass in this census review.",
+        "substantive_responsibility": "Device dependence, intimidation/bargaining/deference, actual provision and friendship, master recovery/city threat, mistaken reception and finite resources.",
+        "gaps": "Direct native identity/voice/image joins; one dyad does not define every context. Offscreen attack, rebirth/contract/life claims remain reports.",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort07_current_evidence_qualification": "Native ホースト name join and EXP01 relationship/ordinary-provider acts received; existingTier2candidate unchanged, no new earned model or whole-source/independent credit."
     },
     {
       "character": "Pucchin",
@@ -2175,9 +2199,10 @@
     "Vanir overallcohort03 full publication gate closed",
     "Wiz overallcohort04 full publication gate closed",
     "Chris/Eris overallcohort05 full publication gate closed",
-    "Dust overallcohort06 scoped Tier3 semantic receiving complete; full publication gate pending"
+    "Dust overallcohort06 full publication gate closed",
+    "Komekko overallcohort07 semantic receiving complete; full publication gate pending"
   ],
-  "current_actual_individual_audit_scope": "Complete current MAIN01-17 analytical reports, all six checkpoints and earlier92 documentary appendix received at declared scopes. All supplemental report routes retained. Dust targeted66-entry/extra-body inspection spans eleven physical ledgers/ten responsibilities; not full392-line/whole-ledger/global individual closure. Bounded native and historical original source traversals remain separate.",
+  "current_actual_individual_audit_scope": "Complete current MAIN01-17 analytical reports, all six checkpoints and earlier92 documentary appendix received at declared scopes. All supplemental report routes retained. Dust targeted66-entry/extra-body inspection spans eleven physical ledgers/ten responsibilities; not full392-line/whole-ledger/global individual closure. Bounded native and historical original source traversals remain separate. Komekko cohort07 adds18actual visual pages/1602known-source base member slots/79selected ledger entries; full ledger-body and global individual closure remains open.",
   "historical_integrity": "MG02-I01/I02 through MG05, original blank fields, CP outcomes, letters-as-NT and preYORI04SEC01 scope remain unchanged. New source-known comparisons are retrospective; hypotheticals are not source validation.",
   "current_receipt_pins": [
     {
@@ -2219,6 +2244,11 @@
       "scope": "Cohort06 current primary/derivative receiving plus five prior scoped gates",
       "path": "09 Audits and Manifests/KONOSUBA_DUST_COHORT_01_RECEIVING_AND_PROVENANCE.json",
       "new_whole_source_or_independent_test_credit": 0
+    },
+    {
+      "path": "09 Audits and Manifests/KONOSUBA_DUSTCOHORT01_PUBLICATION_GATE_CLOSE.json",
+      "sha256": "4028d588c7424d416cc20abe44d77c103db8edf3c670980b87621c5759f3ba3f",
+      "scope": "Exact published Dust source gate; separate full-program duties remain."
     }
   ],
   "pending": "Remaining individual census/joins/incidental dispositions and earned artifacts; expanded specialists/versioned principal-party-transfer revisions; designated curator enrollment/integration; component/release/final-entry audits.",
@@ -2256,47 +2286,22 @@
     "canonical_global_registry_or_index_authored_here": false
   },
   "change_controls": {
-    "input_rows": 151,
-    "targeted_existing_rows": [
-      "Iris Belzerg",
-      "Yunyun",
-      "Chris / Eris",
-      "Wiz",
-      "Vanir",
-      "Dust",
+    "prior_rows": 157,
+    "targeted_rows": [
       "Komekko",
-      "Claire",
-      "Rain / Rein",
-      "Mitsurugi",
-      "Zesta",
-      "Cecily",
-      "Zereschilt",
-      "Sylphina",
-      "Yuiyui",
-      "Soketto / Socket",
-      "Bukkorori",
-      "Aigis (sentient sacred armor)",
-      "Lucy / ルーシー",
-      "Regina / レジーナ",
-      "Serena",
-      "Duke (デューク)",
-      "Nerimaki / ねりまき",
-      "Aloerina / アロエリーナ",
-      "Anna Filante Esteroid / mansion ghost",
-      "Unnamed dungeon vampire owner (MAIN16 training trip)",
-      "Zel / Emperor Zel",
-      "Chomusuke",
-      "Yunyun's father / current Crimson chief (MAIN14)"
+      "Horst / Hoost retrieval variant"
     ],
-    "untouched_prior_rows_exact": 122,
-    "new_subject_rows": 6,
-    "row_count_not_individual_population": 157,
-    "only_Dust_new_scopedTier3": true,
-    "five_prior_scoped_tier_states_and_artifact_authority_unchanged": true,
-    "entering_eleven_model_bytes_unchanged": true,
-    "original_forecasts_scores_outcomes_or_null_fields_changed": false,
-    "global_registry_or_generated_index_authored": false,
-    "global_census_and_final_tiers_open": true
+    "untouched_prior_rows_exact": 155,
+    "new_subject_rows": 0,
+    "only_Komekko_new_scopedTier3": true,
+    "six_prior_scoped_tier_states_unchanged": true,
+    "twelve_entering_models_unchanged": true,
+    "global_census_closed": false,
+    "final_tiers_assigned": false,
+    "global_completion_percentage": null,
+    "working34_sha256": "6b30e7917af89175730a209e8cd477253a5ca07cde3bafaf11e7b10e88d00e36",
+    "canonical_input_sha256": "4e76df055be46f1968d002e5dccce31e1a0cdb7bfe0d2dd7deef84267764dcd2",
+    "canonical_only_and_private_only_fields_preserved_at_own_homes": true
   },
   "cohort04_separate_identity_or_incidental_leads": [
     {
@@ -2515,5 +2520,83 @@
     "contrasts": 3,
     "independent_validation_credit": 0,
     "whole_global_census_complete": false
+  },
+  "Dust_publication_resolution": {
+    "status": "SCOPED_TIER3_FULL_EXACT_SOURCE_GATE_CLOSED",
+    "source": "59a60ed821e8bf295a37e0770b52023f60f7ae9c",
+    "tree": "6694640879ec16afb1f3868cb4b26ffe9895eb2c",
+    "gate_path": "09 Audits and Manifests/KONOSUBA_DUSTCOHORT01_PUBLICATION_GATE_CLOSE.json",
+    "source_run": 39356025994,
+    "housekeeping_run": 39356388057,
+    "final_run": 39356428059,
+    "all_remote_paths": 9181,
+    "all_changed_streams": 39,
+    "full_tests_source_and_final": 385,
+    "fresh_project_reload_paths": 1005,
+    "predictive_reliability": "Provisional, no source-known internal exercise confidence gain.",
+    "full_program_complete": false
+  },
+  "post_gate_change_controls": {
+    "only_Dust_row_changed": true,
+    "other156_rows_exact": true,
+    "six_scoped_tier_states_preserved_except_Dust_gate_progress": true,
+    "model_bytes_changed": false,
+    "source_original_score_or_null_fields_changed": false
+  },
+  "prior_current_metadata_before_cohort07": {
+    "status": "INCREMENTAL_157_QUALIFIED_ROWS_NOT_FINAL_INDIVIDUAL_DENOMINATOR",
+    "scope": "Incremental secondary census/cohorts01-06; all declared source-program gates and six scoped secondary gates closed at their declared evidence boundaries. Full individual/earned-artifact/specialist/expanded-six-model/curation/integration/release program remains active.",
+    "current_actual_individual_audit_scope": "Complete current MAIN01-17 analytical reports, all six checkpoints and earlier92 documentary appendix received at declared scopes. All supplemental report routes retained. Dust targeted66-entry/extra-body inspection spans eleven physical ledgers/ten responsibilities; not full392-line/whole-ledger/global individual closure. Bounded native and historical original source traversals remain separate.",
+    "change_controls": {
+      "input_rows": 151,
+      "targeted_existing_rows": [
+        "Iris Belzerg",
+        "Yunyun",
+        "Chris / Eris",
+        "Wiz",
+        "Vanir",
+        "Dust",
+        "Komekko",
+        "Claire",
+        "Rain / Rein",
+        "Mitsurugi",
+        "Zesta",
+        "Cecily",
+        "Zereschilt",
+        "Sylphina",
+        "Yuiyui",
+        "Soketto / Socket",
+        "Bukkorori",
+        "Aigis (sentient sacred armor)",
+        "Lucy / ルーシー",
+        "Regina / レジーナ",
+        "Serena",
+        "Duke (デューク)",
+        "Nerimaki / ねりまき",
+        "Aloerina / アロエリーナ",
+        "Anna Filante Esteroid / mansion ghost",
+        "Unnamed dungeon vampire owner (MAIN16 training trip)",
+        "Zel / Emperor Zel",
+        "Chomusuke",
+        "Yunyun's father / current Crimson chief (MAIN14)"
+      ],
+      "untouched_prior_rows_exact": 122,
+      "new_subject_rows": 6,
+      "row_count_not_individual_population": 157,
+      "only_Dust_new_scopedTier3": true,
+      "five_prior_scoped_tier_states_and_artifact_authority_unchanged": true,
+      "entering_eleven_model_bytes_unchanged": true,
+      "original_forecasts_scores_outcomes_or_null_fields_changed": false,
+      "global_registry_or_generated_index_authored": false,
+      "global_census_and_final_tiers_open": true
+    },
+    "scoped_tiers_assigned": [
+      "Iris cohort01 full publication gate closed",
+      "Yunyun cohort02 full publication gate closed",
+      "Vanir overallcohort03 full publication gate closed",
+      "Wiz overallcohort04 full publication gate closed",
+      "Chris/Eris overallcohort05 full publication gate closed",
+      "Dust overallcohort06 full publication gate closed"
+    ]
   }
 }
