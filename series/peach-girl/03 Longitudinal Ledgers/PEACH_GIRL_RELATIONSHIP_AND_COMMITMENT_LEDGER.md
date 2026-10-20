@@ -5,7 +5,7 @@ artifact_type: relationship_commitment_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.13"
+version: "0.14"
 status: active_provisional
 scope: "Directional Relationships and Commitments; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -607,3 +607,53 @@ Next RL0194, CM0121. Revision0.12 — V13 successors2026-10-20; full prior body/
 | PG-CM-0132 / NONE | T if K absent agreed day seriously restart with me166/M startled | EV0030; CONDITIONAL_PROPOSAL_UNANSWERED, no actual deadline failure/current reunion |
 
 Next RL0214, CM0133. Revision0.13 — V14 successors2026-10-20; all old rows/terms retained.
+
+## V15 successor transaction — PG-FR-V15
+
+[V15 reading](../02%20Sequential%20Readings/PEACH_GIRL_V15_DEEP_READING.md); EV=PG-EV-V15. Actual recipient, directional feeling, boundary and present intimacy are distinguished.
+
+| Direction / prior | Actual transition | Evidence / limit |
+| --- | --- | --- |
+| PG-RL-0214 / RL0194 | Momo → Kairi / sees missed call7/callback, privately loves37 after generic email, exact deadline maintained39 | EV0001/0005–0006; no hospitalization/above-Misao knowledge |
+| PG-RL-0215 / RL0195 | Kairi → Momo / actual attempted call newly confirmed7, generic soba/trip/want-see email33–34 | EV0001/0005; first choice realized25 not communicated M, illness omitted |
+| PG-RL-0216 / RL0213 | Tōji → Momo / ordinary call/work concern, volunteers shift29/supports happiness40 | EV0001–0006; no acceptance/fireworks retrospective reunion |
+| PG-RL-0217 / RL0212 | Momo → Tōji / pretends nonhearing13/actual current pull22/tries shift avoidance28/retracts30/full terms39 | EV0001–0006; attraction predates missed meeting, no initial joint trip invitation |
+| PG-RL-0218 / NONE | Kairi → Owner/Sanae / thanks25/blank500-piece puzzle46/plans own M masterpiece48 | EV0003/0007; gratitude/creative agency not achieved union or M received vow |
+| PG-RL-0219 / RL0203 | Owner → Kairi / emergency carrying8/charger24/puzzle counsel27/wages generosity45 | EV0001/0003/0007; useful care does not cancel earlier aggression |
+| PG-RL-0220 / RL0204 | Sanae → Kairi / emergency help8/departure wages44–47/joint puzzle agreement | EV0001/0007; no new literal identity/past-history guarantee |
+| PG-RL-0221 / RL0198 | Kairi → Misao / directly names M first53–54/admires praise55 but wishes R rejection for her safety58 | EV0008; self-account not permanent exhaustive feeling audit, no M receipt |
+| PG-RL-0222 / RL0211 | Misao → Kairi / praises change55/hears M-first, after shock urges keep M promise75–77 | EV0008/0012–0013; no romantic refusal reversal/demand K abandon M |
+| PG-RL-0223 / RL0210 | Misao → Ryo / actual appointment/intends confession56/flowers/interposes64/shaken concern70 | EV0008/0010–0012; no securely completed confession or R reciprocal acceptance |
+| PG-RL-0224 / RL0202 | Ryo → Kairi / hospital insurance/help account confirmed59/demands repayment60 | EV0009; bounded care compatible continuing selfishness, not full reform |
+| PG-RL-0225 / NONE | Aggrieved man → Ryo / profit/bankruptcy accusation61–62/actual sword swing63 | EV0010; financial allegations not legal findings/violence justified |
+| PG-RL-0226 / RL0215 | Kairi → Momo / vague urgent call71–72/chooses stay with shaken Mis75 under questioning constraint/late empty plaza88 | EV0012–0014; own assumption future time explicit, no unlimited extension accepted |
+| PG-RL-0227 / RL0214 | Momo → Kairi / incomplete taxi witness/private second-place interpretation79/manual off80/waits through1:55_84/leaves/private goodbye99 | EV0011–0015; real boundary beyond5minutes, wrong preference inference from actual opacity |
+| PG-RL-0228 / RL0216 | Tōji → Momo / follows102/apologizes/intervenes101/offers wait104/sits at distance105–106 | EV0016–0017; concern, uninvited following and later stake all retained |
+| PG-RL-0229 / RL0217 | Momo → Tōji / tells wanted solitude103/thanks/accepts waiting presence, storm lodging115 | EV0016–0019; shared room not permission to intimacy |
+| PG-RL-0230 / NONE | Sae → Kairi / deadline criticism107–108/travel/help inference, reacts R injury109–110/home wish114 | EV0018–0019; not proven new plot, M-alone inference wrong |
+| PG-RL-0231 / RL0185 | Sae → Ryo / panics on learning injury109–110/wants hospital/home114 | EV0018–0019; no actual arrival or R response/reform |
+| PG-RL-0232 / NONE | Beach stranger → Momo / unwanted persistent invitation/grip after refusal99–101/leaves102 | EV0016; no mutual date/consent |
+| PG-RL-0233 / RL0228 | Tōji → Momo / initial hug120/renewal121/actual kisses129/138, phone refusal133/earring recognition137/shared night/morning/sign163 | EV0020–0022/0025–0028; initial affirmative permission unshown, unknown caller cannot prove all duty refusal correct |
+| PG-RL-0234 / RL0229 | Momo → Tōji / responsive neck embrace130/earring joy137/turns toward155/handhold157/private doubts158–159/returns embrace166 | EV0021–0022/0025–0028; present romantic renewal with ambivalence, no forever-exclusive feeling claim |
+| PG-RL-0235 / RL0226 | Kairi → Momo / rose/wages/road/owns arrogance140/inn call147 fails/M not reached/alone165 | EV0021/0023–0024/0027–0028; effort not M obligation or first-choice words delivered |
+
+| Commitment / prior | Terms and actual disposition | Evidence / limit |
+| --- | --- | --- |
+| PG-CM-0133 / CM0132 | M pretends not hear T conditional offer13, later attraction22 not yet acceptance | EV0001–0002; EVASION_CONFIRMED_NOT_LITERAL_NONRECEIPT |
+| PG-CM-0134 / NONE | M asks shift avoidance28/T volunteers29/M retracts30 | EV0004; REQUEST_WITHDRAWN_BEFORE_NEW_SCHEDULE_ASSURED, attraction unresolved |
+| PG-CM-0135 / CM0125 | T newly receives full noon/five terms39; K late2:15_88/M waited at least1:55_84 | EV0006/0013–0014; ACTUAL_DEADLINE_FAILURE_NOT_M_LEAVING_AT12_05 |
+| PG-CM-0136 / CM0128 | Actual one-month100000 wages44–45/parting gift, K blank puzzle46/joint creation47 | EV0007; PAY_RECEIVED_AND_GIFT_GIVEN, no exact taxi fare asserted |
+| PG-CM-0137 / CM0124 | K explicitly M first53–54 TO MISAO | EV0008; THIRD_PARTY_RECIPIENT_NOT_M_FIRST_CHOICE_PLEDGE_RECEIVED |
+| PG-CM-0138 / CM0135 | K urgent delay/will call71/M asks cannot wait72/later then, reasons omitted | EV0012; VAGUE_DELAY_RECEIVED_NO_UNLIMITED_EXTENSION |
+| PG-CM-0139 / NONE | K also police questioning75/Mis offers speak for him/go; he initially stays/not abandon frightened her | EV0012; ACTUAL_CONSTRAINT_PLUS_AVAILABLE_ALTERNATIVE_AND_CHOICE, legal clearance not established |
+| PG-CM-0140 / NONE | M manually switches phone off80/actual contact failures77/88 | EV0013–0014; CONTACT_BOUNDARY_ACTUAL_INTERCUT_SECONDS_UNKNOWN |
+| PG-CM-0141 / NONE | T follows102/apologizes/M wanted alone103/T wait-return104/actually sits apart105 | EV0016–0017; UNINVITED_FOLLOWING_LATER_BOUNDED_COMPANIONSHIP |
+| PG-CM-0142 / NONE | Stranger persists/grabs after M refusal100–101/T intervention102 | EV0016; ACTUAL_REFUSAL_NOT_HEEDED_THEN_RELEASE, no sex implication |
+| PG-CM-0143 / NONE | Storm cancels return111/full rooms112/M/T use old M/K booking115 | EV0019; LODGING_CONTEXT_NOT_SEXUAL_PERMISSION |
+| PG-CM-0144 / NONE | T initial hug120 prior affirmative permission unshown; actual M responsive kissing/neck embrace129–130 | EV0020–0021; LATER_SPECIFIC_RESPONSE_NOT_RETROACTIVE_BLANKET_CONSENT |
+| PG-CM-0145 / NONE | T ignores ringing own phone132–133/unknown caller, regrets old interruption134 | EV0022; CHOSEN_CURRENT_ATTENTION_NOT_PROOF_ALL_COMPETING_DUTIES_INVALID |
+| PG-CM-0146 / CM0133 | T restart-from-that-day138/actual reciprocal affection/shared undressed night/morning150–156 | EV0022/0025; ROMANTIC_RESUMPTION_SEXUAL_ENCOUNTER_STRONGLY_IMPLIED, no specific act depicted/forever guarantee |
+| PG-CM-0147 / NONE | K Uedaya call147/staff companion report148/battery dies before identity/M transfer | EV0024; ATTEMPTED_TRANSFER_FAILED_NOT_M_RECEIVED_CONFESSION |
+| PG-CM-0148 / CM0146 | T old L love sign163/M recalls164/runs back165/embraces166/private happiness wish | EV0027–0028; ACTUAL_RENEWED_T_CHOICE_K_NOT_INFORMED, M private K ambiguity161 retained |
+
+Next RL0236, CM0149. Revision0.14 — V15 successors2026-10-20; all prior directional rows/terms retained.

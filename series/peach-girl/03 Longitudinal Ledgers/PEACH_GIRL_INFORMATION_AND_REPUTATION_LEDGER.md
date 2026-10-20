@@ -5,7 +5,7 @@ artifact_type: information_reputation_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.13"
+version: "0.14"
 status: active_provisional
 scope: "Information Circulation and Reputation; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -977,3 +977,88 @@ IP0051@4 is a dated later disclosure, not silent repair of old freezes. Prior wh
 | PG-RP-0064 / NONE | M media-exposure fear / M private counterfactual144/thanks157 | EV0023/0026; potential/imagined outcome not actual broad publication/inevitable lasting ruin |
 
 Next IP0180, KN0193, TX0227, RP0065. Revision0.13 — V14 successors2026-10-20; IP0069@2 new later evidence, historical freeze/rows unchanged.
+
+## V15 successor transaction — PG-FR-V15
+
+[V15 reading](../02%20Sequential%20Readings/PEACH_GIRL_V15_DEEP_READING.md); EV=PG-EV-V15. Private certainty, third-party receipt and actual Momo receipt stay distinct.
+
+| Proposition / prior | Content/class | Evidence / limit |
+| --- | --- | --- |
+| PG-IP-0180@1 / IP0177 | Missed K call7/new hospital9/developing pneumonia / NEW_LATER_CONFIRMATION_AND_PROGRESSION | EV0001; V14 contact screen/risk not rewritten, M callback unconnected/no diagnosis receipt |
+| PG-IP-0181@1 / IP0179 | M pretended nonhearing13/current T attraction22 / ESTABLISHED_PRIVATE_EVASION_AND_FEELING | EV0001–0002; no initial T proposal acceptance/absence of romantic pull |
+| PG-IP-0182@1 / NONE | K companion insight25/owner puzzle27/K blank puzzle46/future plan48 / PRIVATE_OR_THIRD_PARTY_NOT_M_RECEIPT | EV0003/0007; joint effort metaphor not destined fit or achieved union |
+| PG-IP-0183@1 / IP0169 | M actually reads soba/trip/want-see email33–34/rejoices35 | EV0005; GENERIC_ASSURANCE_RECEIVED_NO_FIRST_CHOICE_OR_ILLNESS_WORDS |
+| PG-IP-0184@1 / IP0169 | M newly gives T full noon/five-minute/give-up terms39 | EV0006; NEW_RECIPIENT_FULL_TERMS_NOT_BACKDATED_TO_V14 |
+| PG-IP-0185@1 / NONE | K directly tells Mis M most loved53–54/old attachment nearer admiration | EV0008; ACTUAL_NAMED_RECIPIENT_MISAO_NOT_MOMO, retrospective self-account not eternal proof |
+| PG-IP-0186@1 / NONE | R hospital insurance/help and advanced bill account59–60 confirmed by K thanks | EV0009; BOUNDED_HELP_NOT_FULL_MORAL_REFORM_OR_BANK_AUDIT |
+| PG-IP-0187@1 / NONE | Man alleges guaranteed profit/bankruptcy61–62/R business-risk defense/sword swing63/Mis interposes64 | EV0010; ALLEGATIONS_AND_ACTUAL_VIOLENCE_DISTINCT, weapon imitation later74/109 |
+| PG-IP-0188@1 / NONE | M sees taxi/Mis/K66–67/bystander sword/one hurt68, not full attack | EV0011; TRUE_PARTIAL_WITNESS_NOT_R_INJURY_OR_POLICE_KNOWLEDGE |
+| PG-IP-0189@1 / NONE | K vague delay71–72/R contusions/imitation74/questioning75/Mis offers cover/urges promise76 | EV0012; ACTUAL_M_OMISSION_AND_DISTINCT_CONSTRAINT, not unlimited wait agreement |
+| PG-IP-0190@1 / IP0169 | K12:30_77/M12:50_78/log8/30 11:50_79/off80/M1:55_84/K2:15_88/home2:55_91 | EV0013–0014; ACTUAL_LATE_APPOINTMENT_NOT_M_LEAVE12_05, intercut seconds not fixed |
+| PG-IP-0191@1 / NONE | M private second-place inference79/goodbye99; K private/third-party actual first choice | EV0008/0013–0015; READER_KNOWLEDGE_EXCESS_NOT_M_OMNISCIENCE_OR_RECEIVED_BREAKUP |
+| PG-IP-0192@1 / NONE | T followed M102/M wanted alone103; actual sand grief97/old rescue95/foam98 | EV0015–0017; NO_PRESENT_DROWNING_OR_ESTABLISHED_SELF_HARM_INTENT, question not plan |
+| PG-IP-0193@1 / NONE | K tells S R injury109/S panics110; train suspension landslide111 | EV0018–0019; NEW_S_RECEIPT_NOT_S_MECHANICAL_STOP_CAUSE, she wrongly assumes M alone |
+| PG-IP-0194@1 / NONE | M/T stranded/existing Adachi-Okayasu booking115/actual companion T | EV0019; MISREGISTRATION_NOT_IDENTITY_OR_CONSENT, no initial planned joint night |
+| PG-IP-0195@1 / NONE | T hug120/actual kiss129/M neck embrace130/unknown caller T phone132/earring137 | EV0020–0022; ACTUAL_RESPONSIVENESS_OBJECT_AND_CHANNEL, not K cross/M phone/blanket consent |
+| PG-IP-0196@1 / NONE | K owns assumed endless waiting arrogance140/20km143/pays/climbs/falls144–145 | EV0023; ACTUAL_ACCOUNTABILITY_AND_EFFORT_NOT_M_OBLIGATION_OR_EXACT_FARE |
+| PG-IP-0197@1 / NONE | K inn call147/staff says M+companion under Okayasu name148/battery dies before identity/M receipt | EV0024; TRUE_COMPANION_WITH_MISREGISTERED_NAME, K not securely knows T identity |
+| PG-IP-0198@1 / NONE | Shared undressed night/morning150–156/M response155/happiness thought156 | EV0025; SEXUAL_ENCOUNTER_STRONGLY_IMPLIED_NOT_SPECIFIC_ACT_PROOF_OR_MERE_ROOM_SHARING |
+| PG-IP-0199@1 / NONE | M handhold157/escape-flow questions158–159/private K hope161 | EV0026–0027; ACTUAL_MIXED_AFFECT_NOT_T_FULL_RECEIPT_OR_MOTIVE_VERDICT |
+| PG-IP-0200@1 / NONE | K Shiranami160/M-T return train161, later L sign163/M returns embrace166 | EV0027–0028; ACTUAL_M_T_RESUMPTION_NOT_M_K_MEETING_OR_K_WITNESS |
+| PG-IP-0201@1 / NONE | All161 V15 mainline lacks direct K-to-M first-choice-over-Misao words/receipt | EV0001–0028; PR0019_DISCONFIRMED_WHOLE_WINDOW, first-choice Mis53/private plans not substitutes |
+
+| Knowledge / holder | Receipt at frontier | Limit |
+| --- | --- | --- |
+| PG-KN-0193 / Momo | Missed call7/callback unconnected; private evasion13/current T pull22 | EV0001–0002; no hospital/first-choice receipt |
+| PG-KN-0194 / Kairi, owner, Sanae | Illness/hospital9/charger24/clarity25/puzzle counsel27 | EV0001/0003; M absent |
+| PG-KN-0195 / Momo; Tōji separately | M actual email33–34/T sees relief35; T gets full terms39 | EV0005–0006; no automatically all K history shared |
+| PG-KN-0196 / Shop couple | K cleared indecision47/M future masterpiece48 | EV0007; third-party vow not M receipt |
+| PG-KN-0197 / Misao | K explicitly M first53–54; praise/own R intent56 | EV0008; no M receipt or K romance acceptance |
+| PG-KN-0198 / Kairi, Misao, Ryo | Financial accusation/sword swing61–64/R injury74/police75 | EV0010–0012; complete business truth/precise impact not established |
+| PG-KN-0199 / Momo | Partial K-Mis taxi66–67/bystander68/vague urgent call71 | EV0011–0012; lacks R injury/imitation/police/first-choice declaration |
+| PG-KN-0200 / Kairi | Exact noon/five terms remembered77, empty plaza88/home mother91 | EV0013–0014; M saw taxi/interpretation not told in call |
+| PG-KN-0201 / Tōji | M tells saw taxi/Mis84/cannot wait85; follows102 | EV0013–0016; not full attack/cause or K illness knowledge |
+| PG-KN-0202 / Momo, Tōji separately | M says wanted solitude103/T apologizes following102/offer wait104 | EV0016–0017; concern not proof self-harm plan |
+| PG-KN-0203 / Sae | K R injury explanation109/imitation; panics110 | EV0018; new receipt, M-alone guess wrong |
+| PG-KN-0204 / Momo, Tōji; Kairi, Sae separately | Storm suspension111/room constraint112/taxi queue114 | EV0019; different places/channels, S arrival R unshown |
+| PG-KN-0205 / Inn staff | Adachi/Okayasu booking115/actual M-T occupancy | EV0019/0024; presumed name does not prove staff knows T true identity |
+| PG-KN-0206 / Momo, Tōji | Actual kissing129/earring exchange137/restart138/shared night/morning | EV0021–0022/0025; exact sexual act not depicted/private motives not automatically shared |
+| PG-KN-0207 / Driver; Kairi separately | K admits arrogance140/road blocked/20km143/pays/leaves car | EV0023; M does not witness journey |
+| PG-KN-0208 / Kairi | Inn staff M accompanied148/connection dies before identity/M relay | EV0024; T identity not secure; no evidence M received K call |
+| PG-KN-0209 / Momo | Private flow/escape doubts158–159/K lingering hope161; T love gesture163–164 | EV0026–0028; no learned hospital/attack or above-Mis words |
+| PG-KN-0210 / Tōji | M responsive night/morning/handhold/final returning embrace166 | EV0025–0028; complete private doubts not received |
+| PG-KN-0211 / Reader | Parallel K realization/attack/accountability/journey and M partial knowledge/T intimacy | EV0001–0028; no transfer solely through adjacent panels; whole-window forecast fails |
+
+| Transfer / prior | Actual channel | Boundary |
+| --- | --- | --- |
+| PG-TX-0227 / NONE | T proposal reprise5/M says unheard/private evasion13 | EV0001; actual private receipt not acceptance |
+| PG-TX-0228 / NONE | K missed M call newly confirmed7/M callback7–10/phone left shop8 | EV0001; actual call attempt not connected speech |
+| PG-TX-0229 / NONE | Owner charger24/K insight25/puzzle counsel27 | EV0003; third party not M |
+| PG-TX-0230 / NONE | M manager shift28/T volunteer29/M retract30 | EV0004; request withdrawn |
+| PG-TX-0231 / NONE | K → M actual soba/trip/want-see email33–34 | EV0005; no hospital/first-choice content |
+| PG-TX-0232 / TX0217 | M → T exact noon/five/give-up39 | EV0006; full terms newly received |
+| PG-TX-0233 / NONE | Couple → K wages44–45/K → couple blank puzzle46/future plan48 | EV0007; actual material gift not M pledge receipt |
+| PG-TX-0234 / NONE | K → Misao explicitly M first53–54/Mis → K praise/R intent55–57 | EV0008; recipient crucial |
+| PG-TX-0235 / TX0218 | R ↔ K insurance/hospital help/advanced money59–60 | EV0009; new bounded help confirmation |
+| PG-TX-0236 / NONE | Man → R accusation61–62/R business-risk reply/sword attack63 | EV0010; no adjudication |
+| PG-TX-0237 / NONE | M sees taxi66–67/calls K name/no secure receipt/bystander68 | EV0011; partial witness/hearsay |
+| PG-TX-0238 / NONE | M → K call71/K urgent delay72/no R/Mis/police explanation | EV0012; actual incomplete exchange |
+| PG-TX-0239 / NONE | K/Mis hospital74/Mis offers police/go75/urges singular-date76 | EV0012; K also questioning pending |
+| PG-TX-0240 / NONE | K → M failed call77/M manual off80/failed later88 | EV0013–0014; intercut timing unresolved |
+| PG-TX-0241 / NONE | M → T partial taxi/Mis account84/cannot wait85 | EV0013; no full cause |
+| PG-TX-0242 / NONE | K → M home phone/mother91/asks relay if M calls | EV0014; not direct M receipt |
+| PG-TX-0243 / NONE | T → M following apology102/M solitude103/T wait104 | EV0016–0017; no original joint travel agreement |
+| PG-TX-0244 / NONE | K ↔ S deadline107–108/R injury109/S distress110 | EV0018; S new receipt/M-alone inference |
+| PG-TX-0245 / NONE | Service announcements111/rooms full112/inn booking115 | EV0019; staff name assumption persists |
+| PG-TX-0246 / NONE | K reads M want-see reply114/private going plan115 | EV0020; new arrival versus reread unknown/not K outgoing first-choice message |
+| PG-TX-0247 / NONE | T → M renewal121/actual kiss129/M response130/earring137/restart138 | EV0020–0022; later response not blanket consent |
+| PG-TX-0248 / NONE | Unknown caller → T phone132/T ignores133 | EV0022; caller not secured K/M phone |
+| PG-TX-0249 / NONE | K → Uedaya staff147/companion answer148/battery dies before K identity/M call | EV0024; attempted direct transfer fails |
+| PG-TX-0250 / NONE | T → M L love sign163/M recalls164/runs back/embraces166 | EV0028; actual nonverbal renewed affection/K not informed |
+
+| Reputation / prior | Target / actual audience | Boundary |
+| --- | --- | --- |
+| PG-RP-0065 / NONE | Ryo business credibility / man publicly alleges guaranteed-profit bankruptcy61–62 with K/Mis nearby | EV0010–0011; attack actual/allegation not independently adjudicated, M only later vague bystander report |
+| PG-RP-0066 / NONE | M-K priority / M partial taxi sighting79/S criticism107–108/T partial account84, versus Mis receives M-first53 | EV0008/0011–0014/0018; different bounded audiences, no broad public scandal/exhaustive shared truth |
+
+Next IP0202, KN0212, TX0251, RP0067. Revision0.14 — V15 successors2026-10-20; original propositions/frontiers/forecasts retained.

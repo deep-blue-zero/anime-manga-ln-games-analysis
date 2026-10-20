@@ -5,7 +5,7 @@ artifact_type: corpus_map
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.13"
+version: "0.14"
 status: active_provisional
 scope: "Single current entrypoint, source/readiness boundaries and next permitted operation"
 source_boundary: "Original Japanese manga; 新装版 V01–V18 byte- and package-verified; owner-authorized continuous run V01–V18 active"
@@ -36,22 +36,22 @@ project_initialization:
   substantive_sequential_findings_at_bootstrap: false
   owner_review: EXECUTION_AUTHORIZED_RESULT_ACCEPTANCE_PENDING
   sequential_analysis_lock: OPEN
-  next_permitted_operation: V15
+  next_permitted_operation: V16
 sequential_execution:
   mode: continuous_sequential
   unit_type: volume
   authorized_start: V01
   terminal_boundary: V18
-  committed_high_water_mark: V14
-  next_candidate_operation: V15
+  committed_high_water_mark: V15
+  next_candidate_operation: V16
   confirmation_between_units: false
   run_state: active
 analytical_execution:
   authorization: OWNER_AUTHORIZED_FULL_SERIES_RUN_LOCAL_ONLY
   authorization_record: "07 Audits and Handoffs/PEACH_GIRL_EXECUTION_AUTHORIZATION_AND_INITIATION_RECORD.md"
-  sequential_units_admitted: 14
-  sequential_units_completed: 14
-  committed_narrative_high_water_mark: V14
+  sequential_units_admitted: 15
+  sequential_units_completed: 15
+  committed_narrative_high_water_mark: V15
   character_reconstruction_readiness: UNASSESSED_MODELS_NOT_PROPOSED_NARRATIVE_EVIDENCE_PRESENT
   publication: PROHIBITED_FOR_THIS_RUN_LOCAL_COMMITS_ONLY
 repository_state:
@@ -68,9 +68,9 @@ This is the single current first-read surface for Miwa Ueda's ピーチガール
 
 `SEQUENTIAL_ANALYSIS_LOCK = OPEN`
 
-`NEXT_PERMITTED_OPERATION = V15`
+`NEXT_PERMITTED_OPERATION = V16`
 
-**New owner-authorized Route B continuation; pre-V05 source audit closed with corrections.** Work's substantive analytical corpus was not recovered. The [recovery receipt](07%20Audits%20and%20Handoffs/PEACH_GIRL_CODEX_RECOVERY_RECEIPT_20261019.md) preserves the earlier stop and input provenance; the [Codex source audit](07%20Audits%20and%20Handoffs/PEACH_GIRL_CODEX_V01_V04_SOURCE_AUDIT_20261019.md) records 177 directly checked V01–V04 images, findings, alternatives and successor ledger versions at PG-AUDIT-20261019. Historical PG-FR-V01…V04 remain unchanged. The audit was committed at `364ffc6f8cb4a01a56ad219761d867abaf7874b2` and independently restored from its verified outside-checkout backup before V05. New Codex V05 was committed at `15163c502663711b6a93b3c75a8bf1ab9d8721af` and its outside-checkout backup independently restored before V06. V06 was committed at `4f0f8b27650bb7a5757d9d61544846074baf5727`, with the openly dated own V05 perfume-selection correction, and independently restored before V07 admission. V07 was committed at `33e2adb495b6064f13f6a1f8c96c76f40ff3a841` and independently restored before V08 admission. V08 was committed at `c169ba0fac6c0ab688487359d46d327debcec1f9` and independently restored before V09 admission. V09 was committed at `cefe98342814d999180d5e2ff6a6641afc8cd00d` and independently restored before V10 admission. V10 was committed at `fac04c2dcd5570ce56340b9d533b9af74a945ed2` and independently restored before V11 admission. V12 was committed at `b5e88031b837249a718914c8efcd623f9983bfd5` and independently restored before V13 admission. V13 was committed at d2fb448ec9a354f7e77dc35b4031d86b160b4a2f and independently restored before V14 admission. V14 closes after175 inspected/159 mainline: direct sleeping-approach exchange supports PR0018; Kairi actually confesses/Misao rejects, Momo receives result and communicates last-summer-day noon/five-minute trip deadline. Sae support/new job setup and late real-negative/bluff admission coexist; Momo receives exact old media threat and Tōji apologizes hurtful method. Shop couple role analogy113 not literal identity claim. Kairi influenza unknown to Momo parallels fireworks and unanswered Tōji conditional proposal166; no actual missed meeting/current reunion/direct first-choice pledge. V15 next only after coherent V14 commit and independently restored outside backup. Source samples do not certify an independent full four-volume re-read.
+**New owner-authorized Route B continuation; pre-V05 source audit closed with corrections.** Work's substantive analytical corpus was not recovered. The [recovery receipt](07%20Audits%20and%20Handoffs/PEACH_GIRL_CODEX_RECOVERY_RECEIPT_20261019.md) preserves the earlier stop and input provenance; the [Codex source audit](07%20Audits%20and%20Handoffs/PEACH_GIRL_CODEX_V01_V04_SOURCE_AUDIT_20261019.md) records 177 directly checked V01–V04 images, findings, alternatives and successor ledger versions at PG-AUDIT-20261019. Historical PG-FR-V01…V04 remain unchanged. The audit was committed at `364ffc6f8cb4a01a56ad219761d867abaf7874b2` and independently restored from its verified outside-checkout backup before V05. New Codex V05 was committed at `15163c502663711b6a93b3c75a8bf1ab9d8721af` and its outside-checkout backup independently restored before V06. V06 was committed at `4f0f8b27650bb7a5757d9d61544846074baf5727`, with the openly dated own V05 perfume-selection correction, and independently restored before V07 admission. V07 was committed at `33e2adb495b6064f13f6a1f8c96c76f40ff3a841` and independently restored before V08 admission. V08 was committed at `c169ba0fac6c0ab688487359d46d327debcec1f9` and independently restored before V09 admission. V09 was committed at `cefe98342814d999180d5e2ff6a6641afc8cd00d` and independently restored before V10 admission. V10 was committed at `fac04c2dcd5570ce56340b9d533b9af74a945ed2` and independently restored before V11 admission. V12 was committed at `b5e88031b837249a718914c8efcd623f9983bfd5` and independently restored before V13 admission. V14 was committed at55bf23051133b8409f0262f2dca61569712d2bba and independently restored before V15 admission. V15 closes after175 inspected/161 mainline: Kairi M-first words reach Misao but not Momo; PR0019 disconfirmed. Real Ryo imitation-sword injury/police constraint plus Kairi stay/future-time assumption and vague delay yield missed deadline; Momo waits beyond five minutes then leaves. Tōji followed/apologized/kept beach distance; storm lodging, responsive renewed intimacy and final returning embrace coexist with Momo private relief/flow doubts. Kairi owns arrogance/travels/inn battery failure, no meeting or M first-choice receipt. V16 next only after coherent V15 commit and independently restored outside backup. Source samples do not certify an independent full four-volume re-read.
 
 The owner's 2026-10-16 instruction authorizes a `continuous_sequential` run over V01–V18 (one complete volume per unit, no confirmation between units) and the post-sequential program the architecture defines, as a local-only execution: no push, remote ref, pull request or Drive write. The [execution authorization and initiation record](07%20Audits%20and%20Handoffs/PEACH_GIRL_EXECUTION_AUTHORIZATION_AND_INITIATION_RECORD.md) holds the exact scope, the gate verification and the capability profile. Each volume closes as one atomic transaction before the next is opened. The high-water mark above advances only when that transaction's reading, ledgers, freeze and this entrypoint are committed together.
 
@@ -111,6 +111,7 @@ Each row is a closed atomic transaction. Its freeze is recorded in the reading i
 | [V12](02%20Sequential%20Readings/PEACH_GIRL_V12_DEEP_READING.md) | PG-FR-V12 | Rescue/nested history and explicit comparative Misao preference; informed continuation refused/enacted breakup, Tōji care/violence/stake and refused proposal, accepted ending/new pressure/later second-for-now reconnection; Sae publication and unnamed adult contact bounded. PR0016 disconfirmed; precise old stopping cause/reciprocity/production circumstances unresolved |
 | [V13](02%20Sequential%20Readings/PEACH_GIRL_V13_DEEP_READING.md) | PG-FR-V13 | Exploitation/explicit filming refusal/actual harm and group rescue; Sae persistent attachment, specific apology and Jigoro delayed no-act account; Momo relief versus witnessed sleeping-Misao approach. PR0017 supported; old cause/actual contact/future choice unresolved |
 | [V14](02%20Sequential%20Readings/PEACH_GIRL_V14_DEEP_READING.md) | PG-FR-V14 | Actual confession/rejection, communicated waiting deadline, Sae mixed repair/setup, new negative admission/Momo exact receipt/Tōji own-fault apology; influenza unknown to Momo, conditional renewed proposal unanswered. PR0018 supported |
+| [V15](02%20Sequential%20Readings/PEACH_GIRL_V15_DEEP_READING.md) | PG-FR-V15 | K M-first actual but heard Misao; mixed emergency/choice and missed deadline, M finite extended wait/partial knowledge, responsive T intimacy/return with private doubts, failed K road/inn transmission. PR0019 disconfirmed |
 <!-- sequential-readings-end -->
 
 ## Read order and canonical responsibilities
@@ -157,3 +158,5 @@ Revision history0.11 — V12 new Route B,177 inspected/162 mainline,35 evidence 
 Revision history0.12 — V13 new Route B,171 inspected/157 mainline,29 evidence observations,twelve revised claims/four-ledger successors/PG-FR-V13. V01–V12 full reading bytes/all historical rows retained. V14 next after atomic commit/independent outside restore; G1–G6 pending,2026-10-20 owner date.
 
 Revision history0.13 — V14 new Route B,175 inspected/159 mainline,31 evidence observations,thirteen revised claims/four-ledger successors/PG-FR-V14. V01–V13 full reading bytes/all historical rows retained. V15 next after atomic commit/independent outside restore; G1–G6 pending,2026-10-20 owner date.
+
+Revision history0.14 — V15 new Route B,175 inspected/161 mainline,29 evidence observations,twelve revised claims/four-ledger successors/PG-FR-V15. V01–V14 reading bytes/all historical rows retained. V16 next after atomic commit/independent outside restore; G1–G6 pending,2026-10-20 owner date.

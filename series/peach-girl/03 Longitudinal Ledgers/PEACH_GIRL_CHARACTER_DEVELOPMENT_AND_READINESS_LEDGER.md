@@ -5,7 +5,7 @@ artifact_type: character_development_readiness_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.13"
+version: "0.14"
 status: active_provisional
 scope: "Character Development and Readiness; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -478,3 +478,39 @@ Pre-canonical identity check: Ryo-call woman99–100 remains UNNAMED; no Misao s
 | PG-CS-0194@1 / CHAR0001 / CS0190 | CHOICE/AFFECT: thanks T155–157/watch159/past-memory/current-feelings question160, would probably give up if K absent165/receives conditional proposal166 | EV0026–0030; CL0013@10. No answer before exit; no shown K-illness knowledge, completed call, deadline failure or current T choice |
 
 Pre-canonical Japanese recheck113 corrected private literal-name misparse: wife uses role analogy, actual Sanae153 consistent. No canonical identity-lie claim admitted. Next CHAR0026, CS0195, RD0001. Revision0.13 — V14 successors2026-10-20; prior bodies/rows preserved.
+
+## V15 successor transaction — PG-FR-V15
+
+[V15 reading](../02%20Sequential%20Readings/PEACH_GIRL_V15_DEEP_READING.md);175 inspected/161 mainline. EV=PG-EV-V15; CHAR=PG-CHAR. Readiness UNASSESSED_NO_OPERATIONAL_MODEL_TESTED; no new RD.
+
+| Local subject | Verified identity/admission | Limit |
+| --- | --- | --- |
+| PG-CHAR-0026 | Unnamed aggrieved man at florist61–66, alleges Ryo-related bankruptcy, swings sword, escorted by police | Weapon imitation74/109; financial allegation not adjudicated truth, no global identity |
+| PG-CHAR-0027 | Unnamed persistent beach young man99–102, refuses to leave/grabs M wrist, departs after T intervention | Not Jigoro/Ryo; no consensual date or actual T strike; no global identity |
+
+| State / subject / prior | Actual transition/frontier | Basis / limit |
+| --- | --- | --- |
+| PG-CS-0195@1 / CHAR0001 / CS0194 | KNOWLEDGE/CHOICE: missed K call7/callback, privately admits pretended nonhearing13, shared T history/current attraction22, K outage/waiting distress23 | EV0001–0002; CL0013@11/0020@10. No illness receipt or answer accepting T yet |
+| PG-CS-0196@1 / CHAR0004 / CS0192 | CONTEXT/AFFECT: hospital9/developing pneumonia, charger24, death fear/current companion insight25/puzzle counsel27 | EV0001/0003; CL0006@15/0028@5. New diagnosis progression not V14 rewrite; private resolve not M receipt |
+| PG-CS-0197@1 / CHAR0024 / CS0187 | CHOICE: carries ill K8/hospital support/charger24/puzzle27, wages/parting generosity45/receives blank puzzle46–48 | EV0001/0003/0007; CL0006@15. Prior sandal aggression retained, useful counsel not universal law |
+| PG-CS-0198@1 / CHAR0025 / CS0188 | CHOICE: assists emergency8, hospital context9, departure/wages44–47/joint puzzle acceptance47 | EV0001/0007. Sanae known; no new husband name/past-history audit |
+| PG-CS-0199@1 / CHAR0001 / CS0195 | CHOICE/AFFECT: tries avoid T shifts28/retracts30, receives generic K email33–34/relief35/private K love37, full deadline to T39 | EV0004–0006; CL0013@11. No above-Misao pledge or hospital knowledge |
+| PG-CS-0200@1 / CHAR0002 / CS0193 | CHOICE/KNOWLEDGE: volunteers shift29, sees M relief, learns full deadline39/support40, still next-day work42 | EV0004–0006; CL0015@10. Not K attendance guarantee or M relationship acceptance |
+| PG-CS-0201@1 / CHAR0004 / CS0196 | CHOICE/STATEMENT: thanks couple/gift46/plans M masterpiece48/early station50, directly tells Mis M first53–54/buys rose58 | EV0007–0008; CL0006@15/0028@5. Actual resolve/counsel heard Mis, not M |
+| PG-CS-0202@1 / CHAR0005 / CS0191 | KNOWLEDGE/CHOICE: hears M-first53–54/praises K55/plans R confession56/flowers57 | EV0008; CL0026@6. No reciprocal K romance or actual completed R confession/answer |
+| PG-CS-0203@1 / CHAR0020 / CS0186 | STATEMENT/CONTEXT: actual hospital-help account59/repayment demand60, accused61–62/business-risk defense, attacked/R contusions74/questioning75 | EV0009–0012; CL0025@7. Bounded care not full reform; business self-defense not forensic verdict |
+| PG-CS-0204@1 / CHAR0026 / NONE | CHOICE/STATEMENT: bankruptcy/guaranteed-profit allegation61–62, sword swing63/Mis interposes64/police escort66 | EV0010–0011; weapon imitation later74, grievance not permission for violence/complete financial proof |
+| PG-CS-0205@1 / CHAR0005 / CS0202 | CHOICE/AFFECT: interposes64/shaken/taxi67, calmer74/offers speak police75/urges K keep singular promise76/call77 | EV0010–0013; CL0026@6. Not securely physically injured; continuing R attachment no K-priority demand |
+| PG-CS-0206@1 / CHAR0004 / CS0201 | CHOICE/KNOWLEDGE: helps Mis/urgent vague M call71–72/stays/police obligation75, recognizes has not told M76/failed call77/empty plaza2:15_88 | EV0011–0014; CL0006@15. Real obligation plus available alternative and own assumption, not solely unavoidable misfortune |
+| PG-CS-0207@1 / CHAR0001 / CS0199 | KNOWLEDGE/CHOICE: partial taxi/Mis witness67/bystander68, vague call71/manual off80/waits beyond deadline84/leaves/private goodbye99 | EV0011–0015; CL0013@11. Cannot infer she knows R injury/police/first-choice preference |
+| PG-CS-0208@1 / CHAR0002 / CS0200 | CHOICE/KNOWLEDGE: arrives81/hears partial witness84/suggests circumstances85/follows M train90/admits102 | EV0013–0016; CL0015@10. No prior M trip invitation or full K reason known |
+| PG-CS-0209@1 / CHAR0003 / CS0189 | CHOICE/AFFECT: criticizes broken promise107–108/travels K, learns R injury109/panics110/plans home114 | EV0018–0019; CL0002@14/0003@13. M-alone inference wrong; no new proven scheme/actual arrival R/train-stop mechanism |
+| PG-CS-0210@1 / CHAR0027 / NONE | CHOICE: persists after refusal99–100/grabs wrist101, leaves102 when T challenges | EV0016; unwanted contact not mutual flirting/sex implication |
+| PG-CS-0211@1 / CHAR0001 / CS0207 | CHOICE/STATEMENT: refuses stranger100/thanks T, says wanted solitude103/reflects with T at distance105–106, storm prevents planned return111 | EV0016–0019; CL0013@11/0017@12. No actual present self-harm plan; concern not T travel invitation |
+| PG-CS-0212@1 / CHAR0002 / CS0208 | CHOICE: intervenes101/apologizes following102/offers wait104/sits apart105, accepts stranded inn115/initiates hug120/renewal question121/actual kiss129 | EV0016–0021; CL0015@10. Care/intrusion/stake distinct; initial prior affirmative permission unshown |
+| PG-CS-0213@1 / CHAR0004 / CS0206 | CHOICE/ACCOUNTABILITY: tells S family injury109/spends/road125–146, owns arrogance140/pays/climbs/falls/inn call147/battery dies148/seaside alone165 | EV0018–0024/0027–0028; CL0006@15/0028@5. No M words receipt/meeting or secure T identity from inn registration |
+| PG-CS-0214@1 / CHAR0001 / CS0211 | CHOICE/AFFECT: responds kiss/neck embrace130/pleased earring137/shared intimate night150–156/turns toward T155, handhold157/questions relief/flow158–159 | EV0021–0022/0025–0026; CL0013@11. Sexual encounter strongly implied, specific act not depicted; uncertainty not absence of attraction |
+| PG-CS-0215@1 / CHAR0002 / CS0212 | CHOICE: ignores unknown caller133/birthday regret134/recognizes earring137/restart138/affection morning/handhold157/L love sign163 | EV0022/0025–0028; CL0005@10/0015@10. No known K caller or complete M private uncertainty receipt; wish not forever guarantee |
+| PG-CS-0216@1 / CHAR0001 / CS0214 | CHOICE/AFFECT: return train161 still K hope/no clear breakup, sees T old sign163–164/runs back165/embraces166/wishes happiness | EV0027–0028; CL0013@11. Actual romantic return T, no direct K breakup message or permanent K feeling eradication |
+
+Pre-canonical weapon recheck62/74 corrects private bat label to sword/imitation; actual later R contusions not Misao injury. Final partition recomputed161 mainline, all175 viewed. Next CHAR0028, CS0217, RD0001. Revision0.14 — V15 successors2026-10-20; all prior bodies/rows retained.
