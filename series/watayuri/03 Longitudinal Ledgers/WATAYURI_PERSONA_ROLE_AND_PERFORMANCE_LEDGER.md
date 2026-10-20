@@ -4,14 +4,14 @@ artifact_id: WATAYURI_PERSONA_ROLE_AND_PERFORMANCE_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.11"
+version: "0.12"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V10 mainline through V10 Shift 51/i154, also latest depicted present; packaged shorts separately bounded; V09 one-shot separate continuity; V10-B and V11–V14 inventory only"
+source_boundary: "Japanese V01–V11 mainline through V11 Shift 56/i156, also latest depicted present; packaged shorts separately bounded; V09 one-shot separate continuity; V10-B and V12–V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_PERSONA_ROLE_AND_PERFORMANCE_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_PERSONA_ROLE_AN
 
 **Update and revision rule.** Update on a script change, explicit audience shift, recurring role/private leakage or consequential role-mediated change in relationship. Keep role adoption and private effect separately time-indexed. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V10 mainline through V10 Shift 51/i154, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1, 36.2, 41.5, 46.5 and 51.5 remain separately bounded; V04 EX is promotional. V09’s one-shot is a separate work, not Watayuri continuity. V01–V09 sections retain their historical states; dated V10 additions and the attributable claim-lineage erratum carry the current account. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V11 mainline through V11 Shift 56/i156, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1, 36.2, 41.5, 46.5, 51.5 and 56.5 remain separately bounded; V04 EX is promotional. V09’s one-shot is a separate work, not Watayuri continuity. All V01–V10 bodies retain their historical states; dated V11 additions carry the current source-branch account under the preserved V10 claim-lineage erratum. Main acceptance and run completion remain separately governed. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -290,3 +290,36 @@ The role is neither a disposable lie nor a reliable boundary around feeling. It 
 The most useful performance distinction in V10 is not frontstage falsehood versus backstage truth. Some of the truest help occurs through a playable role; some of the most consequential omissions occur in private. Yoko’s private assurance of seriousness also has to be interpreted by its object and context. Kanoko’s private dating proposal is not fully explained to its recipient merely because patrons are absent. [O06/O15–O17/O27–O29.]
 
 The new evidence also shows performance learning operating in both directions. Sumika once supplies the confidence Nene lacks. Hime now supplies an area of skill Mitsuki openly lacks. Neither example makes all practical reliance romantic, nor does either justify monopolizing the person one helps. Keep those examples as distinct interactions with a shared analytic question, not a universal rule that one person always instructs the other. [O06/O20.]
+
+
+<a id="v11"></a>
+## V11 — Current additions and transitions — 2026-10-20
+
+**V11 evidence key:** source-map key `V11`, Japanese witness `1C1Mnc2-Jgr3djCrylVn1e2KsTIPcKRzZ`, SHA-256 `12426ca4770f0efbfe3aab0c76a961e3225351754bb9270e92d6f6e74139f86e`. The [frozen V11 reading](../02%20Sequential%20Readings/WATAYURI_V11_DEEP_READING.md#performance) supplies complete observations, interpretation and image/spine conventions. Unprefixed iNNN and O/REL/PER/INF/AG/T/JP/VIS/C references below mean V11 except inside reproduced original forecast formulations, whose internal references retain their creation-volume scope. Section numbers refer to the complete reading. All original claim identities and dated states remain governed by the [preserved current claim-lineage erratum](WATAYURI_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md#v10-claim-lineage-erratum). Mainline and latest depicted present end at Shift 56/i156. Shift 56.5/i158–161 contains earlier kitchen history and the pre-tea opportunity; edition matter and bonus do not supply a post-hotel outcome. V10-B and V12+ remain excluded.
+
+**Receiving disposition:** the full responsibility section below is accepted with version 1.1’s bounded corrections and current predecessor reconciliation. Its “proposed” labels and production-stage caveats retain their provenance; they do not mean the accepted source-branch increment lacks a receiving decision. The V10 source-branch transaction is already green at `dc89204170a0fb4078ddc4e8f5ca194bba2b58b5`; main acceptance of V10/V11 remains pending and distinct from this analytical state. No earlier section is overwritten, no forecast criterion is rewritten, and no local character gate is automatically promoted to global discovery or capability authority. See the [V11 receiving review](../07%20Audits%20and%20Handoffs/WATAYURI_V11_INTEGRATION_REVIEW.md).
+
+## 7. Persona, role, audience, and performance — proposed V11 increment
+
+**Destination:** `WATAYURI_PERSONA_ROLE_AND_PERFORMANCE_LEDGER.md`. Conscious invention is marked where the page establishes it. Elsewhere, a useful role effect is not proof of a fully conscious strategy. Physical staging belongs to §12 and resulting pair states to §6.
+
+| Record | Setting / performed frame | Actor | Intended or actual audience | Mechanism, limits, and private consequence | Evidence |
+| --- | --- | --- | --- | --- | --- |
+| **WY11-PER01** | Private morning → café greeting | Sumika | No required role audience in the morning; Kanoko/Hime later hear the greeting. | Photo, appearance preparation and singled-out praise carry current personal delight; widening the greeting lets the scene remain socially ordinary. | O01; 52/i001, i005; VIS01/JP01 |
+| **WY11-PER02** | Salon sisterhood | Sumika and Kanoko | Guests hear an invented sleepover account; the reader has the secrecy conversation. | Fictional backstory and real embarrassment/pleasure coexist. Public credibility neither verifies an overnight nor supplies private consent. | O02; 52/i006–009; INF01/INF02 |
+| **WY11-PER03** | Private home practice | Sumika and Kanoko | Each hears the other’s different description of the visit. | A real rehearsal is also Sumika’s girlfriend occasion. Shared task does not eliminate the competing private frames. | O05; 52/i017–020 |
+| **WY11-PER04** | Former-insider work participation | Yoko | Hime gives work guidance; Kanoko recognizes ordinary-name familiarity. | Apron and assistance establish an actual task role. The date/re-employment terms and advisory authority are not established merely by that costume. | O03; 52/i011–012; INF03 |
+| **WY11-PER05** | Girlfriend expectation tested | Sumika | Kanoko receives request, withdrawal and apology. | The label makes a kiss thinkable but does not make it owed; Sumika corrects her minimizing script and does not take the later offer. | O06–O07; 52/i021–026; AG04–AG05 |
+| **WY11-PER06** | Earlier instruction as displayed intimacy | Yoko and Nene | Sumika observes selected closeness; she lacks the plan’s complete purpose. | Instruction and couple behavior double as an audience-directed jealousy test. Do not declare every work question fabricated. | O09–O11; 53/i037–051 |
+| **WY11-PER07** | Earlier lover-versus-sister taxonomy | Yoko | Nene hears a binary that casts physical desire as more real than sister play. | This is a persuasive classification by a participant. Later shared-work/tea evidence limits it. | O12; 53/i052–058; C07 |
+| **WY11-PER08** | Couple script sought from an adviser | Kanoko | Nene initially imagines the wrong partner. | Manga-like normal activities become a hoped-for recipe; unchanged feeling and fear of selfishness complicate the script. | O15–O17; 54/i069–083 |
+| **WY11-PER09** | Closed salon, workers as guests | Nene and Sumika | Only each other in the depicted tea conversation. | The familiar stage no longer demands a guest-facing romantic performance; remembered work supports unscripted disclosure. | O18–O19; 54/i088; 55/i091–104 |
+| **WY11-PER10** | Former sister address after discontinuation | Nene and Sumika | Both know the old pact ended; Kanoko is now Sumika’s partner. | Old forms can hold memory and humor without restoring formal sisterhood or assigning romance. | O19/O25–O26; 55/i103–124 |
+| **WY11-PER11** | Particular love instead of categorical identity | Sumika | Nene asks about orientation and receives a person-specific answer. | Self-reference resists the demand for a stable label. Analyst categories must not replace the actual scope. | O21–O23; 55/i105–113; JP09 |
+| **WY11-PER12** | Self-appointed matchmaker/knower | Yoko | Kanoko seeks understanding; Sumika is absent. | Accurate jealousy recognition supplies credibility for unverified remedies. Beneficiary language makes compliance sound like care. | O27/O29–O30; 56/i133–148 |
+| **WY11-PER13** | Secrecy and remote audience | Yoko and Kanoko, asymmetrically | Kanoko plans nondisclosure; Yoko addresses her selected image/messages to an unseen contact. | Yoko creates a visual report whose implied emergency is not equivalent to the full scene. Recipient/reaction remain unknown. | O32–O33; 56/i151–156; INF21–INF22 |
+| **WY11-PER14** | Edition operational voice | Manual framing | Reader-facing institutional explanation, not an enacted staff briefing. | Fiction, commerce and protection justify a guest-contact boundary; a former-cast gap is explicitly recognized. | O35; paratext/i165; C27 |
+
+**Performance is neither uniformly deceptive nor uniformly liberating.** The invented sleepover is fiction; the happiness it accommodates can be real. The old sister role helped Nene and Sumika build a valuable work relation; it could also be made into a test whose purpose Sumika did not know. Sumika’s current girlfriend role permits an explicit declaration yet does not replace Kanoko’s actual preference. Yoko’s adviser role derives persuasive strength from saying something accurate before extending it beyond the evidence. These are different mechanisms that should not be compressed into a single “mask” explanation. [PER02/PER05–PER07/PER12.]
+
+**The most consequential change of audience occurs at the endpoint.** Kanoko treats the room as a place to continue a private solution to Sumika’s problem. Yoko makes a selected image of that room into information for another person, explicitly naming Sumika as an intended downstream audience. The image is factual in the bounded sense that it shows Kanoko there; the transmitted alarm is a sender’s framing, not a complete, mutually authorized account. [PER13; O33.]

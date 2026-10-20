@@ -4,14 +4,14 @@ artifact_id: WATAYURI_INFORMATION_DISCLOSURE_AND_MISREADING_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.11"
+version: "0.12"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V10 mainline through V10 Shift 51/i154, also latest depicted present; packaged shorts separately bounded; V09 one-shot separate continuity; V10-B and V11–V14 inventory only"
+source_boundary: "Japanese V01–V11 mainline through V11 Shift 56/i156, also latest depicted present; packaged shorts separately bounded; V09 one-shot separate continuity; V10-B and V12–V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_INFORMATION_DISCLOSURE_AND_MISREADING_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_INFORMATION_DIS
 
 **Update and revision rule.** Update when disclosure, false belief, correction or materially altered higher-order belief affects behavior. Append a new dated epistemic state; preserve what each party and reader could know at the earlier VNN. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V10 mainline through V10 Shift 51/i154, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1, 36.2, 41.5, 46.5 and 51.5 remain separately bounded; V04 EX is promotional. V09’s one-shot is a separate work, not Watayuri continuity. V01–V09 sections retain their historical states; dated V10 additions and the attributable claim-lineage erratum carry the current account. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V11 mainline through V11 Shift 56/i156, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1, 36.2, 41.5, 46.5, 51.5 and 56.5 remain separately bounded; V04 EX is promotional. V09’s one-shot is a separate work, not Watayuri continuity. All V01–V10 bodies retain their historical states; dated V11 additions carry the current source-branch account under the preserved V10 claim-lineage erratum. Main acceptance and run completion remain separately governed. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -498,3 +498,71 @@ All other inherited information states remain at their latest accepted scope unl
 The closing call is more than a vague atmosphere of possible deception. Kanoko actually says the outcome followed what she was told and explicitly agrees not to tell Sumika. An undisclosed advisory element is therefore source-supported. It remains possible that the advice addressed only a narrow step, that Kanoko interpreted it expansively, or that her report compresses several events. The source does not print the instructions. A downstream synthesis should preserve the unknown scope rather than treating Kanoko as a fully controlled instrument with no authorship of her own acts. [INF19–20.]
 
 Likewise, the chapter’s juxtaposition invites the reader to associate the new arrangement with Yoko’s earlier jealousy strategy. Association is a reason to investigate, not a completed identification. The callee should remain unnamed in current knowledge-state rows until a separately admitted source establishes the identity. This limit is source-required concealment, not unnecessary genericization.
+
+
+<a id="v11"></a>
+## V11 — Current additions and transitions — 2026-10-20
+
+**V11 evidence key:** source-map key `V11`, Japanese witness `1C1Mnc2-Jgr3djCrylVn1e2KsTIPcKRzZ`, SHA-256 `12426ca4770f0efbfe3aab0c76a961e3225351754bb9270e92d6f6e74139f86e`. The [frozen V11 reading](../02%20Sequential%20Readings/WATAYURI_V11_DEEP_READING.md#information) supplies complete observations, interpretation and image/spine conventions. Unprefixed iNNN and O/REL/PER/INF/AG/T/JP/VIS/C references below mean V11 except inside reproduced original forecast formulations, whose internal references retain their creation-volume scope. Section numbers refer to the complete reading. All original claim identities and dated states remain governed by the [preserved current claim-lineage erratum](WATAYURI_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md#v10-claim-lineage-erratum). Mainline and latest depicted present end at Shift 56/i156. Shift 56.5/i158–161 contains earlier kitchen history and the pre-tea opportunity; edition matter and bonus do not supply a post-hotel outcome. V10-B and V12+ remain excluded.
+
+**Receiving disposition:** the full responsibility section below is accepted with version 1.1’s bounded corrections and current predecessor reconciliation. Its “proposed” labels and production-stage caveats retain their provenance; they do not mean the accepted source-branch increment lacks a receiving decision. The V10 source-branch transaction is already green at `dc89204170a0fb4078ddc4e8f5ca194bba2b58b5`; main acceptance of V10/V11 remains pending and distinct from this analytical state. No earlier section is overwritten, no forecast criterion is rewritten, and no local character gate is automatically promoted to global discovery or capability authority. See the [V11 receiving review](../07%20Audits%20and%20Handoffs/WATAYURI_V11_INTEGRATION_REVIEW.md).
+
+## 8. Information, disclosure, and misreading — proposed V11 increment
+
+**Destination:** `WATAYURI_INFORMATION_DISCLOSURE_AND_MISREADING_LEDGER.md`. The following continuations use the predecessor’s exact proposition identities. New records capture distinct V11 distributions rather than duplicating complete dyadic histories. “Knows” is reserved for represented access; confidence in a belief’s presence is not confidence in its truth.
+
+### 8.1 Inherited proposition continuations
+
+| Inherited proposition | Original responsibility | V11 transition | New distribution and limit |
+| --- | --- | --- | --- |
+| WY10-INF03 | Nene’s former love for Sumika | REVISE holder state, preserve historical origin. | Sumika now hears Nene’s direct disclosure at i107. Earlier reader/Yoko knowledge is not backdated into Sumika. |
+| WY10-INF05 | The original jealousy strategy | STRENGTHEN depicted detail; REVISE holder state. | Shift53 expands the scheme; i107–109 gives it to Sumika. Yoko’s confidence still does not establish Sumika’s past romance. |
+| WY10-INF10 | Nene’s no-further-meetings decision | PRESERVE actual V10 exit; add a reported continuation. | Yoko tells Kanoko Nene refused further meetings at i150. No new Nene–Yoko meeting is depicted here. |
+| WY10-INF11 | Kanoko’s earlier claim of completed practice | PRESERVE the V10 claim’s truth status; add later actual work. | Practice really occurs at i017–018. It does not make the earlier unsupported claim true at the earlier time. |
+| WY10-INF14 | Kanoko knows the old kiss | PRESERVE newly acquired V10 knowledge. | Hime’s i013 apology refers back to that discussion; it is not another kiss, and Hime does not receive the reverse romantic disclosures. |
+| WY10-INF15 / INF18 | Sumika knows and states her love | PRESERVE; STRENGTHEN consequences. | Current delight and recipient-facing conduct make love consequential. Nene’s knowledge develops in stages; no equivalent Kanoko declaration follows. |
+| WY10-INF17 | Kanoko’s stated attitude-changing purpose | PRESERVE what Sumika actually heard; qualify what remained hidden. | The proposal’s stated aim was not wholly secret from Sumika. The specific Yoko diagnosis, plan and later consultations remain a separate concealed layer. |
+| WY10-INF19 | Call reporting success to an unidentified adviser | REVISE current identification through V11 retrospection. | i132–137 directly supplies Yoko and the earlier conversation. V10’s unidentified state remains frozen. |
+| WY10-INF20 | Goeidō adviser hypothesis | STRENGTHEN to established identity at V11. | The shown earlier call/meeting resolves the hypothesis without naming V11’s still-unshown final message recipient. |
+| WY10-INF21 | Sumika’s first-year appraisal in bonus | PRESERVE separate paratextual scope. | V11’s new confession does not prove Sumika had known Nene’s love in that earlier illustration. |
+
+### 8.2 New material information records
+
+| Record | Proposition | Holders, disclosure or representation | Truth/knowledge limit | Evidence |
+| --- | --- | --- | --- | --- |
+| **WY11-INF01** | Invented salon overnight | Guests receive sister-role fiction. The reader has no corresponding actual sleepover in the opening. | In-role speech, not a lie claim about ordinary biography. | O02; 52/i008–009 |
+| **WY11-INF02** | Dating secrecy | Sumika and Kanoko agree on nondisclosure, particularly to Hime; Nene later learns the pair. | Hime’s knowledge of friendship and role closeness is not knowledge of dating. | O02/O17/O21; 52/i006–007; 54/i078–082; 55/i094–100 |
+| **WY11-INF03** | Yoko’s work participation | Hime supplies practical guidance while Yoko helps in an apron. | Actual task observed; formal continuing employment terms not shown. | O03; 52/i011–012 |
+| **WY11-INF04** | Nene’s imagined Hime partner | Nene initially thinks Kanoko dates Hime; Kanoko later names Sumika. | False inference corrected at i078–079, not a deliberate lie established for Kanoko. | O15/O17; 54/i069–079 |
+| **WY11-INF05** | Kanoko’s unchanged feeling | Kanoko tells Nene her own feeling has not changed and asks how to make her partner happy. | Direct self-report, not a narrator diagnosis of permanent incapacity or complete absence of attachment. | O16; 54/i072–078 |
+| **WY11-INF06** | Sumika’s known asymmetry | Sumika explicitly knows Kanoko still loves Hime and tells Nene. | Her happiness does not establish false belief in reciprocation; hidden plan and unequal feeling are distinct. | O21; 55/i099–101 |
+| **WY11-INF07** | Cancellation’s limited disclosure | Kanoko reports an urgent matter but withholds its content; Sumika accepts postponement. | The Hime-related explanation belongs to Sumika’s conjecture, not Kanoko’s stated reason. | O20; 55/i097–098 |
+| **WY11-INF08** | Actual reason for same-day meeting | Yoko’s reported absence creates urgency; Kanoko arranges to meet her and does so. | V11 later fills the cancellation’s hidden context. The repeated call is not a second cancellation. | O29–O30; 56/i138–143 |
+| **WY11-INF09** | Nene’s self-allocation of harm | Nene calls herself the person who hurt Sumika and the friendship. | Attributed interpretation; does not establish that she suffered no injury or Yoko had no agency. | O14; 53/i060–066 |
+| **WY11-INF10** | Past Sumika answer remains unknown | Sumika says she would have valued disclosure but does not know how she would have answered then. | Corrects both confident past-reciprocity and confident past-rejection claims. | O23; 55/i112–113 |
+| **WY11-INF11** | Present Sumika romantic answer | Nene receives thanks and an explicit inability to reciprocate because Sumika loves another. | New shared present answer, not merely reader inference or a completed original-era rejection. | O25; 55/i120–123 |
+| **WY11-INF12** | Sumika’s self-label boundary | Sumika asserts loving Kanoko without accepting the demand to decide a general identity label. | A particular same-sex attachment is established; an analyst-applied orientation is not. | O21; 55/i105–106 |
+| **WY11-INF13** | Nene’s reason for staying | Nene tells Sumika she chose Liebe, with Sumika included. | Qualifies Sumika’s competitive interpretation without denying her importance. | O26; 55/i124 |
+| **WY11-INF14** | Earlier Yoko diagnosis/remedy | Kanoko hears that Sumika is jealous and dating her will restore kindness. | Diagnosis partly supported by other evidence; proposed remedy remains adviser interpretation. | O27; 56/i132–134 |
+| **WY11-INF15** | Kanoko’s earlier denial of romantic liking | Kanoko tells Yoko she does not like Sumika in that sense. | Historical self-report; current unchanged-feeling report reinforces but does not decide every later possible feeling. | O27/O16; 56/i134; 54/i072–078 |
+| **WY11-INF16** | Yoko’s account of restraint | Yoko tells Kanoko that Sumika conceals ordinary lovers’ desires and fears abandonment. | Sumika is absent. Her own actual withdrawal and refusal to take the offered kiss remain counterevidence to treating this as instruction. | O30/O06–O07; 56/i143–148; 52/i021–026 |
+| **WY11-INF17** | Yoko’s travel availability | Yoko reports leaving soon and returning next month. | The claim shapes urgency; no actual travel or independent verification of the plan appears. | O29; 56/i140–141 |
+| **WY11-INF18** | Choker history and delegation | Yoko says Nene left the choker during their earlier hotel visit and will not meet again; asks Kanoko to return it. | Reported provenance plus visible object. No Nene authorization, receipt or disposal shown. | O31; 56/i149–150 |
+| **WY11-INF19** | Sumika’s imagined reaction at hotel | Kanoko thinks Sumika would be angry about the secret meeting; Yoko calls that jealousy. | Neither has a depicted actual Sumika response to this encounter. Hypothetical possessiveness is not received consent or a real confrontation. | O32; 56/i152–155 |
+| **WY11-INF20** | Photo notification | A phone displays a notification that Yoko sent a photograph at the end of the tea chapter. | The owner is not explicitly identified by that panel, and the picture is not previewed. Scene association supports an inference, not certain receipt by Nene. | O26; 55/i124 |
+| **WY11-INF21** | Displayed outgoing hotel photograph | Yoko’s chat at i156 contains a photograph of Kanoko standing in the hotel room plus messages requesting an alert to Sumika. | No permission to transmit this image is depicted. Continuity with i124 is strongly suggested; message recipient remains unnamed. | O33; 56/i156 |
+| **WY11-INF22** | Secrecy and actual downstream knowledge | Kanoko plans not to tell Sumika, while Yoko sends an alarm through another contact. | Sending establishes a route, not a seen reader, belief, intervention or outcome. Keep the next knowledge state OPEN. | O33; 56/i156 |
+| **WY11-INF23** | Mai’s house-sitting intention | The short explicitly supplies Mai’s hope that time together will help the old pair move forward. | This is a before-tea frame. Mai is not thereby a witness to its disclosures or the hotel events. | O34; S56.5/i158–161 |
+| **WY11-INF24** | Institutional contact restriction | The edition manual states the guest-contact rule and former-cast gap. | Reader/edition knowledge is not a freshly depicted staff briefing or evidence that every earlier actor knew every risk. | O35; paratext/i165 |
+
+### 8.3 Endpoint knowledge is not collective knowledge
+
+**Sumika** knows that Kanoko still loves Hime, that the date was postponed for an unspecified errand, and now that Nene formerly loved her and deliberately used Yoko dating to provoke her. She has not been shown learning the current Yoko consultation, hotel destination, transmitted photograph, or earlier dating-as-remedy plan. Naming Sumika in an outgoing message does not give her the message. [INF06–INF08/INF10–INF11/INF14/INF21–INF22.]
+
+**Kanoko** knows Sumika’s declaration, her own unresolved feeling, Yoko’s earlier and current advice, the hotel destination, and Yoko’s account of Nene’s choker and refusal. She does not witness Nene and Sumika’s tea confession or receive their new account. She is not shown reading the photograph-and-alarm transmission. Her self-reassurance that nothing is wrong is an interior judgment, not an objective safety result. [INF05/INF14–INF19/INF21–INF22.]
+
+**Nene** learns the dating identity and, from Sumika, the continued Hime attachment. She supplies her old history and receives a present refusal. The closing phone notification is associated with her scene but does not by itself establish that she has read the hotel image, understood a risk, or acted. Her potential knowledge must not be written as an accomplished rescue stage. [INF02/INF04/INF06/INF11/INF20–INF22.]
+
+**Yoko** receives Kanoko’s accounts and deliberately manages a second communication route. Nothing shows that she possesses the full tea conversation or Sumika’s newly articulated reply to Nene. Her confidence about others’ feelings exceeds the evidence of her access, even when an individual inference happens to be plausible. [INF14–INF22.]
+
+**Hime, Mitsuki, and Mai** retain their distinct work and relational knowledge. Hime’s apology is not awareness of Kanoko’s love or dating; Mitsuki’s participation is not access to the advice; Mai’s planned absence is not knowledge of either private conversation’s complete outcome. No common-room or coworker inference should silently erase these differences. [O03–O05/O18/O34.]
