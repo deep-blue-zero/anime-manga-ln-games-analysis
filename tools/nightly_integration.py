@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import argparse
 import base64
+import errno
 import json
 import os
 import re
@@ -13,11 +14,14 @@ import time
 import urllib.error
 import urllib.parse
 import urllib.request
+from contextlib import contextmanager
 from pathlib import Path
 
 REPOSITORY = "deep-blue-zero/anime-manga-ln-games-analysis"
 OWNER = "deep-blue-zero"
 AUDIT = "Repository integration audit"
+AUDIT_INTEGRATION_ID = 15368
+MAIN_RULESET_ID = 25199066
 AUDIT_WORKFLOW = ".github/workflows/repository-audit.yml"
 BRANCH = re.compile(r"^(series|studies)/[a-z0-9][a-z0-9-]*$")
 SHA = re.compile(r"^[0-9a-f]{40}$")
@@ -70,18 +74,33 @@ def scoped_paths(branch: str, paths: set[str]) -> bool:
     )
 
 
-def protection_method(protection: dict, repository: dict) -> str:
-    checks = protection.get("required_status_checks") or {}
-    contexts = set(checks.get("contexts", [])) | {item.get("context") for item in checks.get("checks", [])}
-    if AUDIT not in contexts or checks.get("strict") is not True:
-        raise Halt("main must require the integration audit and up-to-date branches")
-    if protection.get("enforce_admins", {}).get("enabled") is not True:
-        raise Halt("main protection must also apply to the owner/admin credential")
-    method = "squash" if protection.get("required_linear_history", {}).get("enabled", False) else "merge"
-    setting = "allow_merge_commit" if method == "merge" else "allow_squash_merge"
-    if not repository.get(setting, False):
-        raise Halt(f"The protection-compatible {method} method is not enabled")
-    return method
+def protection_method(ruleset: dict, repository: dict) -> str:
+    if (not isinstance(ruleset, dict) or ruleset.get("id") != MAIN_RULESET_ID
+            or ruleset.get("target") != "branch" or ruleset.get("enforcement") != "active"
+            or ruleset.get("conditions") != {"ref_name": {"include": ["refs/heads/main"], "exclude": []}}
+            or ruleset.get("bypass_actors") != [] or ruleset.get("current_user_can_bypass") != "never"):
+        raise Halt("The main ruleset must be active, target only main, and permit no owner/admin bypass")
+    entries = ruleset.get("rules")
+    if (not isinstance(entries, list) or any(not isinstance(rule, dict)
+            or not isinstance(rule.get("type"), str) for rule in entries)):
+        raise Halt("The main ruleset rules are unreadable")
+    rules = {rule["type"]: rule for rule in entries}
+    if len(rules) != len(entries) or not {
+        "deletion", "non_fast_forward", "required_linear_history", "required_status_checks"
+    } <= set(rules):
+        raise Halt("The main ruleset must preserve deletion, non-fast-forward, linear-history and audit gates")
+    parameters = rules["required_status_checks"].get("parameters")
+    if not isinstance(parameters, dict) or parameters.get("strict_required_status_checks_policy") is not True:
+        raise Halt("The main ruleset must require up-to-date branches")
+    checks = parameters.get("required_status_checks")
+    if not isinstance(checks, list) or not any(
+        isinstance(check, dict) and check.get("context") == AUDIT
+        and check.get("integration_id") == AUDIT_INTEGRATION_ID for check in checks
+    ):
+        raise Halt("The main ruleset must require the trusted integration audit")
+    if not isinstance(repository, dict) or repository.get("allow_squash_merge") is not True:
+        raise Halt("The ruleset-compatible squash method is not enabled")
+    return "squash"
 
 
 class GitHub:
@@ -143,6 +162,21 @@ class GitHub:
             return None
         return run
 
+    def source_audit(self, branch: str, sha: str) -> dict | None:
+        # The reporter publishes a commit status only at the end of the audit.
+        # Discover the latest push run without filtering out terminal failures.
+        query = urllib.parse.urlencode({"branch": branch, "head_sha": exact_sha(sha),
+                                       "event": "push", "per_page": 1})
+        runs = self.request("GET", "actions/workflows/repository-audit.yml/runs?" + query)["workflow_runs"]
+        run = next(iter(runs), None)
+        if (not run or run.get("path", "").split("@", 1)[0] != AUDIT_WORKFLOW
+                or run.get("head_sha") != sha or run.get("head_branch") != branch
+                or run.get("event") != "push" or run.get("actor", {}).get("login") != OWNER
+                or run.get("triggering_actor", {}).get("login") != OWNER
+                or run.get("head_repository", {}).get("full_name") != REPOSITORY):
+            return None
+        return run
+
 
 class Graph:
     def __init__(self, directory: Path):
@@ -150,6 +184,9 @@ class Graph:
         self.git("init", "--bare", ".")
         self.git("remote", "add", "origin", f"https://github.com/{REPOSITORY}.git")
         self.git("config", "core.hooksPath", str(directory / "disabled-hooks"))
+        # This object store is disposable; no background writer should outlive it.
+        self.git("config", "--local", "maintenance.auto", "false")
+        self.git("config", "--local", "gc.auto", "0")
 
     def git(self, *args: str, input_text: str | None = None, extra_env: dict | None = None) -> str:
         environment = {key: value for key, value in os.environ.items() if key not in {"OWNER_TOKEN", "READ_TOKEN", "GH_TOKEN", "GITHUB_TOKEN"}}
@@ -210,7 +247,8 @@ class Integrator:
         self.deadline = time.monotonic() + budget
         self.wait_seconds = wait_seconds
         self.rows: list[dict] = []
-        self.method = "merge"
+        self.method = "squash"
+        self.access = "NOT_CHECKED"
 
     def check_time(self) -> None:
         if time.monotonic() >= self.deadline:
@@ -254,8 +292,57 @@ class Integrator:
         changed = self.graph.paths(source, observed)
         return bool(changed) and changed <= GENERATED
 
-    def wait_final(self, branch: str, source: str, base: str) -> str:
-        end = min(self.deadline, time.monotonic() + self.wait_seconds)
+    def prior_integration(self, branch: str, source: str, base: str) -> dict | None:
+        # A squash leaves the source outside main's ancestry. Only a merged PR
+        # for this exact tip plus whole-tree equality proves it was preserved.
+        query = urllib.parse.urlencode({"state": "closed", "base": "main", "head": OWNER + ":" + branch})
+        for pr in self.api.pages("pulls?" + query):
+            self.check_time()
+            head, target = pr.get("head") or {}, pr.get("base") or {}
+            if (pr.get("state") != "closed" or not pr.get("merged_at")
+                    or (pr.get("user") or {}).get("login") != OWNER
+                    or head.get("ref") != branch or head.get("sha") != source
+                    or (head.get("repo") or {}).get("full_name") != REPOSITORY
+                    or target.get("ref") != "main"
+                    or (target.get("repo") or {}).get("full_name") != REPOSITORY):
+                continue
+            merged = exact_sha(pr.get("merge_commit_sha"))
+            self.graph.fetch(merged)
+            if self.graph.ancestor(merged, base) and self.graph.tree(merged) == self.graph.tree(source):
+                return pr
+        return None
+
+    def wait_source(self, branch: str, source: str, base: str, end: float) -> None:
+        waiting = False
+        while time.monotonic() < end:
+            self.same_heads(branch, source, base)
+            status = self.api.status(source)
+            if status and status["state"] in {"failure", "error"}:
+                raise Blocked("Source repository audit failed")
+            if (status and status["state"] in {"success", "pending"}
+                    and self.api.audit_run(source, status)):
+                return
+            if self.preview:
+                raise Blocked("Source has no successful authored-content or full audit run")
+            run = self.api.source_audit(branch, source)
+            if not run:
+                raise Blocked("Source has no successful audit or trusted push audit to await")
+            if run.get("status") not in {"queued", "in_progress", "waiting", "pending", "requested"} or run.get("conclusion") is not None:
+                # The reporter may finish between the status and run requests.
+                if run.get("status") == "completed" and run.get("conclusion") == "success":
+                    status = self.api.status(source)
+                    if (status and status["state"] in {"success", "pending"}
+                            and self.api.audit_run(source, status)):
+                        return
+                raise Blocked("Source push audit ended without a successful trusted audit status")
+            if not waiting:
+                print(f"Waiting for source audit {run['id']} on {branch} at {source}", flush=True)
+                waiting = True
+            time.sleep(max(0, min(15, end - time.monotonic())))
+        raise Blocked("Timed out awaiting the source audit; no integration was attempted")
+
+    def wait_final(self, branch: str, source: str, base: str, *, end: float | None = None) -> str:
+        end = min(self.deadline, time.monotonic() + self.wait_seconds) if end is None else min(self.deadline, end)
         final = source
         while time.monotonic() < end:
             if self.api.head("main") != base:
@@ -274,7 +361,7 @@ class Integrator:
                     and run.get("event") == "repository_dispatch"
                     and run.get("actor", {}).get("login") == "github-actions[bot]"):
                 return final
-            time.sleep(15)
+            time.sleep(max(0, min(15, end - time.monotonic())))
         raise Blocked("Timed out awaiting housekeeping and its exact-commit full audit")
 
     def wait_post_merge(self, sha: str, previous_status_id: int) -> None:
@@ -307,6 +394,33 @@ class Integrator:
             time.sleep(15)
         raise Halt("Already integrated, but explicit post-merge audit did not finish; further merges stopped")
 
+    def access_check(self) -> str:
+        """Confirm owner-only write access before any write.
+
+        No other collaborator, no pending invitation and no write-enabled
+        deploy key. Apply halts when access is wider or unreadable. Preview
+        never mutates, so it records what it could read and continues.
+        """
+        try:
+            collaborators = self.api.pages("collaborators?affiliation=all")
+            invitations = self.api.pages("invitations")
+            keys = self.api.pages("keys")
+        except ApiError as exc:
+            if self.preview:
+                return f"UNVERIFIED: HTTP {exc.status}"
+            raise Halt("Collaborators, invitations or deploy keys are unreadable; owner-only access is unverified") from None
+        others = sum(1 for row in collaborators if not isinstance(row, dict) or row.get("login") != OWNER)
+        writable_keys = sum(1 for row in keys if not isinstance(row, dict) or row.get("read_only") is not True)
+        if others or invitations or writable_keys:
+            detail = (
+                f"{others} other collaborator(s), {len(invitations)} pending invitation(s) "
+                f"and {writable_keys} write-enabled deploy key(s)"
+            )
+            if self.preview:
+                return "NOT_OWNER_ONLY: " + detail
+            raise Halt("Repository access is not owner-only: " + detail)
+        return "VERIFIED_OWNER_ONLY"
+
     def preflight(self) -> str:
         base = self.api.head("main")
         self.graph.fetch(base)
@@ -317,7 +431,9 @@ class Integrator:
         if not self.preview:
             if self.api.request("GET", "/user").get("login") != OWNER:
                 raise Halt("NIGHTLY_INTEGRATION_TOKEN must authenticate the repository owner")
-            self.method = protection_method(self.api.request("GET", "branches/main/protection"), self.api.request("GET", ""))
+        self.access = self.access_check()
+        if not self.preview:
+            self.method = protection_method(self.api.request("GET", f"rulesets/{MAIN_RULESET_ID}"), self.api.request("GET", ""))
             status = self.api.status(base)
             if not status or status["state"] != "success" or not self.api.audit_run(base, status):
                 raise Halt("The starting main commit does not have a successful independent audit")
@@ -333,10 +449,20 @@ class Integrator:
         if not scoped_paths(branch, self.graph.paths(base, source, triple=True)):
             raise Blocked("Branch delta exceeds its analytical root and seven allowed shared files")
         self.candidate_pr(branch)
-        status = self.api.status(source)
-        if not status or status["state"] not in {"success", "pending"} or not self.api.audit_run(source, status):
-            raise Blocked("Source has no successful authored-content or full audit run")
-        tree = self.graph.merge_tree(source, base)
+        # Initial audit and final housekeeping share the existing source budget.
+        source_deadline = min(self.deadline, time.monotonic() + self.wait_seconds)
+        self.wait_source(branch, source, base, source_deadline)
+        try:
+            tree = self.graph.merge_tree(source, base)
+        except Blocked:
+            preserved = self.prior_integration(branch, source, base)
+            if preserved is None:
+                raise
+            self.same_heads(branch, source, base)
+            row.update(outcome="already_integrated", pr=preserved["number"],
+                       integration_sha=preserved["merge_commit_sha"],
+                       detail="Exact source tree verified in a prior merged PR on main; no conflict resolution or write needed")
+            return base
         if tree == self.graph.tree(base):
             row["outcome"] = "no_content_change"
             return base
@@ -356,7 +482,7 @@ class Integrator:
                     raise
             row["reconciled_sha"] = reconciled
             source = reconciled
-        final = self.wait_final(branch, source, base)
+        final = self.wait_final(branch, source, base, end=source_deadline)
         self.graph.fetch(final)
         if not self.graph.ancestor(base, final) or not scoped_paths(branch, self.graph.paths(base, final)):
             raise Blocked("Final branch no longer incorporates main within the allowed path boundary")
@@ -373,8 +499,8 @@ class Integrator:
         if pr["head"]["sha"] != final:
             raise Blocked("PR head changed before merge")
         self.same_heads(branch, final, base)
-        # Strict admin-enforced protection closes the base race the REST SHA cannot.
-        method = protection_method(self.api.request("GET", "branches/main/protection"), self.api.request("GET", ""))
+        # The strict no-bypass main ruleset closes the base race the REST SHA cannot.
+        method = protection_method(self.api.request("GET", f"rulesets/{MAIN_RULESET_ID}"), self.api.request("GET", ""))
         if method != self.method:
             raise Halt("Merge configuration changed during integration")
         latest = self.api.status(final)
@@ -413,7 +539,7 @@ class Integrator:
         return merged
 
     def save(self) -> None:
-        report = json.dumps({"preview": self.preview, "branches": self.rows}, indent=2) + "\n"
+        report = json.dumps({"preview": self.preview, "access_check": self.access, "branches": self.rows}, indent=2) + "\n"
         Path("nightly-integration-report.json").write_text(report, encoding="utf-8")
         summary = os.environ.get("GITHUB_STEP_SUMMARY")
         if summary:
@@ -449,6 +575,35 @@ class Integrator:
                 self.save()
 
 
+def cleanup_directory(temporary: tempfile.TemporaryDirectory) -> None:
+    # Retry disposal only: replaying integration could repeat remote mutations.
+    for attempt in range(3):
+        try:
+            temporary.cleanup()
+            return
+        except OSError as exc:
+            if exc.errno != errno.ENOTEMPTY or attempt == 2:
+                raise
+            time.sleep(1)
+
+
+@contextmanager
+def temporary_graph_directory():
+    temporary = tempfile.TemporaryDirectory(prefix="nightly-integration-")
+    try:
+        yield temporary.name
+    except BaseException as original:
+        try:
+            cleanup_directory(temporary)
+        except OSError as cleanup_error:
+            # Keep both failures, including the original traceback and cause.
+            raise BaseExceptionGroup("Integration and temporary Git cleanup failed",
+                                     [original, cleanup_error]) from None
+        raise
+    else:
+        cleanup_directory(temporary)
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--mode", choices=("preview", "apply"), default="preview")
@@ -464,7 +619,7 @@ def main() -> int:
         parser.error("Configure NIGHTLY_INTEGRATION_TOKEN before enabling integration")
     controller_sha = os.environ.get("GITHUB_SHA") or subprocess.check_output(["git", "rev-parse", "HEAD"], text=True).strip()
     result = 0
-    with tempfile.TemporaryDirectory(prefix="nightly-integration-") as temporary:
+    with temporary_graph_directory() as temporary:
         worker = Integrator(GitHub(token, preview=preview), Graph(Path(temporary)), preview=preview, controller_sha=controller_sha)
         try:
             worker.run(args.branch)

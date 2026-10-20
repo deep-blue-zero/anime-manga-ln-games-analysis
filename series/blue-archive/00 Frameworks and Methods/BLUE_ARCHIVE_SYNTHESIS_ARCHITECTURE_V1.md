@@ -3,13 +3,14 @@ series: BLUE_ARCHIVE
 artifact_type: synthesis_architecture
 scope: Analytical corpus architecture for Japanese-primary Blue Archive interpretation
 generation: V1
+version: "1.12"
 status: canonical
-source_boundary: Designed for the Blue Archive extraction corpus pinned to electricgoat/ba-data@jp cbe3fd623c2aab9e781ba0ce0483bc77c68bff86 and its future promoted generations
+source_boundary: "Designed at the historical V1 witness cbe3fd623c2aab9e781ba0ce0483bc77c68bff86; current production boundary is all 480 canonical main units in electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8, generation BA_REFRESH_20260928T032248159554Z; 3940 supplemental objects admitted with limits in Phase2 cycles001–008; contextual content CONTENT_COMPLETE / PASS_WITH_LIMITS; Phase2 PHASE2_COMPLETE_WITH_LIMITS with verified publication receipts governed centrally by Cycle008"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-08-15
+updated: 2026-10-09
 ---
 
 # BLUE ARCHIVE SYNTHESIS ARCHITECTURE V1
@@ -26,14 +27,32 @@ The project uses one canonical analytical root and one canonical source/ingestio
 
 The two roots have different responsibilities:
 
-- **source root** — raw upstream snapshots, 2,716 promoted canonical story/data objects, structured data, character/relationship/institution/Sensei projections, LLM ingest, audits;
+- **source root** — raw upstream snapshots, promoted canonical story/data objects, structured data, character/relationship/institution/Sensei projections, LLM ingest, audits;
 - **analytical root** — methods, sequential readings, cumulative ledgers, specialist interpretation, full/current-era synthesis, evidence indexes, manifests, and legacy analytical generations.
 
 Do not duplicate the full transcript corpus into the analytical root. Analytical artifacts should link back to it through stable IDs and Drive routes.
 
+### Authority direction, derived use, and feedback control
+
+The complete analytical and reconstruction stack is:
+
+```text
+canonical Japanese source
+  -> sequential deep reading
+  -> longitudinal ledgers
+  -> checkpoint and literary specialist synthesis
+  -> character reconstruction model
+  -> model validation record
+  -> optional hypothetical application
+```
+
+Each step downward is more derived. A reconstruction model may compile accepted literary and ledger authority into conditional rules, but it does not replace the monograph, checkpoint, or source-facing reading. A hypothetical scene, generated line, crossover, or other model output can never become upstream evidence.
+
+If hypothetical use exposes a weakness, reopen the canonical evidence and revise the artifact that owns the affected responsibility. Do not cite the generated output as proof. Literary interpretation and operational reconstruction can challenge one another, but corrections flow through evidence rather than circular inference.
+
 ## Source-projection versus analytical-artifact boundary
 
-The promoted source corpus now contains a mature derived layer. Preserve the following semantic separation:
+The promoted source corpus contains a derived layer. The quantitative examples below describe the historical V1 build; current inventory and admission state are routed through the [coverage index](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md) and [source reconciliation](../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_RECONCILIATION_20260928.md). Preserve the following semantic separation:
 
 | Source/ingestion artifact | What it does | Analytical counterpart |
 |---|---|---|
@@ -90,6 +109,10 @@ It must answer:
 
 Update this file in place whenever project state materially changes.
 
+Keep this entrypoint focused on current authority, source boundary, accepted progress, unresolved duties and the next valid operation. Its compact readiness section is a manually maintained routing projection of the main coverage index plus the contextual companion's overrides; those indexes retain detailed coverage authority, and the bootstrap audit retains pilot assessment. Update the projection with accepted changes to its owners; resolve disagreements at those owners, never by promoting a summary row.
+
+The complete pre-refactor map through cycle 005 is retained in [the historical current-state archive](../90%20Legacy%20and%20Superseded/BLUE_ARCHIVE_CURRENT_STATE_HISTORY_THROUGH_CYCLE_005.md). That artifact is `historical_legacy` and cannot issue present instructions. Its creation supplies actual historical content for the existing legacy-home rule. Keep future detailed unit/cycle history in the established readings, checkpoints and ledgers, with concise current links here; do not accumulate another sequential rollup in the entrypoint. The [routing responsibility audit](../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_ROUTING_RESPONSIBILITY_AUDIT_20261001.md) records this bounded separation without changing analytical methods or phases.
+
 ---
 
 # 3. `00 Frameworks and Methods`
@@ -99,7 +122,10 @@ Canonical files:
 ```text
 BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md
 BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md
+BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md
 ```
+
+The analytical method governs source interpretation and sequential capture. The synthesis architecture governs artifact ownership and dependency order. The reconstruction specification governs the narrower derived-use model, readiness, scenario, and validation contracts. None substitutes for the others.
 
 Possible future additions only when needed:
 
@@ -157,7 +183,7 @@ Recommended hierarchy:
       BLUE_ARCHIVE_<EVENT_SCOPE>_DEEP_READING.md
 ```
 
-Do not automatically deep-read all 492 recoverable event script groups as separate canonical analytical files. Events should first be triaged for continuity importance.
+Do not automatically turn an extraction inventory into one analytical file per event script group. The 492 recoverable groups were a historical V1 inventory, not a current analytical worklist. Events should first be triaged for continuity importance.
 
 ## 5.1 Main-story scope notation
 
@@ -192,16 +218,13 @@ Maintain an event-priority index before creating many event analyses:
 BLUE_ARCHIVE_EVENT_ANALYTICAL_PRIORITY_INDEX.md
 ```
 
-Classify each event:
+Use the [event analytical priority index](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_EVENT_ANALYTICAL_PRIORITY_INDEX.md) for every event object's inventory route and for package-level review intake. Keep three dimensions separate:
 
-- CORE
-- HIGH
-- SUPPORTING
-- LOW-STAKES / VOICE
-- DEFER
-- UNRESOLVED
+- **Analytical priority after complete reading:** `CORE`, `HIGH`, `SUPPORTING`, or `UNASSESSED`. `CORE` means omission materially weakens a character, relationship, institution, continuity account **or the ordinary repertoire needed to interpret it**. `UNASSESSED` is not a low score.
+- **Evidence function:** continuity/state, peer or Sensei relationship, institution/work, ordinary pleasure/routine/play, written voice/humor, contrary case, or chronology/identity. The former `LOW-STAKES / VOICE` label belongs here; it never means low analytical value.
+- **Workflow:** inventory, intake candidate, reviewed, admitted, or deferred with a claim-specific reason and revisit trigger. `UNRESOLVED` marks an identity, chronology, provenance or source-class question, not a value rank.
 
-A CORE event deserves a sequential reading because omitting it would materially weaken understanding of a major character, relationship, institution, or continuity state.
+Decide priority by literary characterization, underrepresented social contexts, recurrence or difference, interpretive consequences, and continuity needs. A quiet group, food, leisure or comic story may be `CORE` even with no plot-state change. Never defer a story solely for low stakes, seasonality, comedy or weak connection to the main plot. Keep every event story ID visible until inspected, including episodes inside a selected package. Metadata and person IDs can prompt intake but cannot establish story content, priority, chronology or admission. Read selected complete source sequences and preserve ordinary life, pleasure, humor, play, minor disputes and contrary evidence alongside crisis material. The [source-class crosswalk](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_SOURCE_CLASS_CROSSWALK.md) governs provenance and chronology; the [gap-impact register](../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md) records the claims affected by what remains unread or unprinted.
 
 ---
 
@@ -318,6 +341,8 @@ Required sections:
 - competing readings;
 - evidence route.
 
+A mature monograph owns the literary and psychological argument: development, causality, self-report versus action, narrative function, relationships, language, contradictions, and interpretive disputes. It may explain an accepted reconstruction mechanism and link rule IDs, but it must not maintain a competing operational rule set.
+
 ## 7.2 Relationship syntheses
 
 Examples:
@@ -376,6 +401,32 @@ Likely long-term responsibilities include:
 - Sensei as adult counter-institution.
 
 Do not pre-create one file for each hypothesis. Let recurring evidence earn its own topical home.
+
+## 7.7 Character reconstruction models
+
+Reconstruction models are derived-use specialist artifacts with a distinct responsibility from literary monographs. Their canonical home is:
+
+```text
+04 Specialist Synthesis/Character Reconstruction/
+  BLUE_ARCHIVE_<STABLE_CHARACTER_KEY>_RECONSTRUCTION_MODEL.md
+```
+
+Do not create the directory or a model to complete a roster. A model is warranted only when the coverage index and a bootstrap/promotion audit show enough time-bounded evidence for conditional behavioral rules.
+
+Every model must declare:
+
+- character/continuity identity and exact source state;
+- literary, checkpoint, ledger, locator, and audit dependencies;
+- temporal states and change causes;
+- attention, appraisal, motives, inhibition/escalation, choice, action, and aftermath;
+- directed relationship and institutional conditioning;
+- ordinary-life and crisis contrast;
+- Japanese written-speech constraints, separate from any performed-voice layer;
+- counterevidence, negative constraints, gaps, and abstention conditions;
+- project-local readiness and validation status;
+- a counterfactual scenario envelope.
+
+The detailed contract is `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md`. A model is operational authority only inside its declared state/domain envelope. It is never primary literary authority.
 
 ---
 
@@ -439,6 +490,8 @@ The character coverage index should answer:
 - known source gaps?;
 - current authority.
 
+`BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md` additionally owns project-local behavioral/reconstruction coverage and readiness. It must distinguish source availability from analyzed evidence, model artifact existence from distributed partial mechanisms, and domain readiness from whole-character claims. It does not create global character or capability records.
+
 ---
 
 # 10. `08 Audits and Manifests`
@@ -452,6 +505,16 @@ BLUE_ARCHIVE_LOCATOR_INTEGRITY_AUDIT.md
 BLUE_ARCHIVE_DUPLICATION_AND_RESPONSIBILITY_AUDIT.md
 BLUE_ARCHIVE_RELEASE_MANIFEST.md
 ```
+
+Character reconstruction audits and future prediction/adjudication records also live here, for example:
+
+```text
+BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md
+BLUE_ARCHIVE_CHARACTER_MODEL_PROSPECTIVE_REGISTER_<BOUNDARY>.md
+BLUE_ARCHIVE_CHARACTER_MODEL_ADJUDICATION_<BOUNDARY>.md
+```
+
+The bootstrap audit evaluates architecture and evidence readiness. A prospective register freezes exact rules before later source exposure. An adjudication record preserves the frozen wording and scores only fair diagnostic opportunities. These responsibilities must not be collapsed into a model's current prose.
 
 Do not duplicate technical parser audits already authoritative in the extraction corpus. Link to them and add only the interpretive impact.
 
@@ -481,7 +544,7 @@ Exit condition:
 
 > bulk canonical corpus has passed parser/choice/provenance review and has been promoted beyond inspection samples.
 
-**Status: COMPLETE.** The V1 canonical build reports `PASS` with 2,716 canonical story/data objects, 2,047 scenes, 102,665 utterances, 8,774 preserved choice groups, 12,821 MomoTalk messages, and 7,089 character contextual lines. The derived build also reports `PASS` and provides the retrieval projections required for Phase 1 and later contextualization.
+**Historical V1 promotion status: COMPLETE.** The V1 canonical build reports `PASS` with 2,716 canonical story/data objects, 2,047 scenes, 102,665 utterances, 8,774 preserved choice groups, 12,821 MomoTalk messages, and 7,089 character contextual lines. The derived build also reports `PASS` and provides the retrieval projections required for Phase 1 and later contextualization.
 
 ## Phase 1 — Main story pass
 
@@ -495,6 +558,8 @@ Outputs:
 
 Supplemental layers are consulted only when required to resolve source identity or when the governing reading plan explicitly backfills them after an arc.
 
+**Current snapshot status: COMPLETE, 480 / 480 main units.** The last completed backfill checkpoint is `MAIN_V001_C003` through `BA:main:001:003:043`; the latest forward checkpoint is `MAIN_S2_V003_C001` through `BA:main:series2:003:001:014`. No main unit remains unopened in the audited snapshot. This completes the main-story pass at that boundary, while contextualization and reconstruction readiness remain separate gates.
+
 ## Phase 2 — Arc contextualization
 
 After each major main-story arc:
@@ -507,7 +572,11 @@ After each major main-story arc:
 
 This phase turns a plot reading into a social-world reading.
 
+**Current status: contextual content PASS_WITH_LIMITS; whole Phase2 publication closure PHASE2_COMPLETE_WITH_LIMITS.** [Cycle008](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_008_CHECKPOINT.md) establishes3940 admitted selected supplemental objects with limits:65 GROUP/1010 EVENT/1161 BOND/1161 whole MomoTalk/511 written character_data/32 MINI. Scope extension002 owns148 typed responsibilities/152 literal keys and all3940 current required objects. All12 sustained MAIN contextual accounts answer the five duties; actual7-ledger/coverage/gap/readiness/admission reconciliation is applied. The acceptance audit owns R01–R09; R01–R08 pass with limits and R09 final source/housekeeping/exact-head certification is complete. Priority orders review; ordinary pleasure has intrinsic value. All14 stronger claim gaps remainOPEN; no model/monograph/prediction register is created.
+
 ## Phase 3 — Character / relationship / institution packages
+
+**Current operation: ACTIVE, full eligible-cast package census and initial monographs.** The owner authorized this phase on 2026-10-09 and clarified that completion covers the full eligible cast. The [execution and four-merge plan](../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_EXECUTION_AND_MILESTONE_PLAN.md) and [scope/readiness audit](../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_FULL_CAST_SCOPE_AND_READINESS_AUDIT.md) own candidate dispositions, the eventual fixed package denominator and 25%/50%/75%/100% integration. No quarter is inferred from source counts or scaffolding; literary package acceptance and operational model readiness remain separate.
 
 Generate monographs only after enough material exists.
 
@@ -541,20 +610,35 @@ Once a release is declared frozen:
 
 # 12. Current production sequence
 
-The source-promotion milestone has passed. Proceed in this order:
+The [source reconciliation](../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_RECONCILIATION_20260928.md) fixes the current production boundary at `electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8`: **480 / 480** main units read, including `MAIN_V001_C003` E001–E043 backfill, with the latest forward unit `BA:main:series2:003:001:014`. No main unit remains unopened within that snapshot. The current sequence is:
 
-1. `BLUE_ARCHIVE_SOURCE_LOCK_V1.md`
-2. main-story corpus-map crosswalk on the analytical side;
-3. first canonical main-story deep reading;
-4. character-state ledger;
-5. institution ledger;
-6. Sensei-role ledger;
-7. continue sequentially to the first natural arc checkpoint;
-8. perform event/group/bond/MomoTalk contextual backfill for characters central to that arc;
-9. write first checkpoint;
-10. only then decide which first specialist monograph is justified.
+1. retain the source-facing readings, chapter checkpoints, and seven cumulative ledgers with their local information boundaries; choose the checkpoint appropriate to the subject and story state rather than treating the last backfill as a universal chronological endpoint;
+2. use the [coverage index](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md) and [bootstrap audit](../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md) and its linked contextual companion for current evidence readiness and any bounded pilot recommendation;
+3. use the materialized event-priority index, source-class crosswalk, and source-gap impact register to select complete supplemental story sequences by character, relationship, institution and ordinary-life questions; verify source class, chronology, relevance, and claim-specific gap effects before admitting selected group, event, bond/MomoTalk, or character-data sources;
+4. preserve earlier checkpoint `DEFER` decisions and cycles001–007's266 admissions as dated history; Cycle008 governs3940 current admitted supplemental objects with limits. Sources outside that selected union require their own reasoned decision naming exact sources, questions and limits;
+5. complete the authorized Phase3 character, relationship and institutional packages across the full eligible cast under the scope/readiness audit and four-merge plan. Each literary package passes its own source/identity/responsibility gate; any separately authorized standalone reconstruction pilot also requires its distinct state/domain and validation gates. Full main-story coverage alone does not certify either responsibility;
+6. freeze any intended prospective test before genuinely unexposed diagnostic source material is opened; comparisons against the completed main corpus are retrospective and must retain known prior exposure;
+7. continue method §10.5 for later chapter checkpoints and update affected coverage/readiness rows, preserving previous bases, counterevidence, failed tests, and promotion or demotion reasons;
+8. recheck released-source provenance and the canonical inventory before extending the main-story boundary.
 
-This prevents the project from becoming a character-encyclopedia exercise before the main narrative establishes its world and causal architecture.
+No character model, prediction register, or empty model directory is required merely for symmetry.
+
+## Historical C002 production sequence — 2026-09-25
+
+The source-promotion milestone, Prologue checkpoint, and Volume 1 Chapters 1–2 checkpoints had passed. At that design boundary, `MAIN_V001_C002` represented **42 / 310** main units. The following instructions preserve the earlier production gate and its exposure discipline; they no longer describe the live reading frontier:
+
+1. retain all three historical checkpoints and the recovered twenty C002 readings; use the C002 checkpoint as the current Volume 1 synthesis authority;
+2. maintain the seven cumulative ledgers through `BA:main:001:002:020` without overwriting unit-local uncertainty;
+3. use the canonical reconstruction specification, coverage index, and bootstrap audit as the operational architecture;
+4. preserve the Chapter 2 contextual-backfill decision `DEFER`;
+5. stop before `BA:main:002:001:001`; this architecture task does not authorize opening it;
+6. on a later authorized sequential run, freeze any intended prospective tests before diagnostic source exposure, then perform literary reading and concise diagnostic behavioral deltas;
+7. at every chapter checkpoint, apply method §10.5: new contexts, state changes, strengthened/narrowed/contradicted rules, directed conditions, ordinary-life and negative evidence, frozen-test outcomes, and readiness increases **and decreases**;
+8. update material coverage/readiness changes in the index, preserving the previous basis and rationale;
+9. admit side sources only through a reasoned source/chronology gate, never to fill a table;
+10. create a monograph or standalone model only when its distinct evidence and responsibility gate passes.
+
+The then-forthcoming Chapters 3–8 capture contract changed what the run recorded, not its canonical reading order. Chapter numbers in that planning phrase do not replace the crosswalk's volume/chapter IDs. No character model, prediction register, or empty model directory is required merely for symmetry.
 
 ---
 
@@ -587,8 +671,8 @@ scope: MAIN_V01_C01_E01
 generation: V1
 status: canonical
 source_boundary: "..."
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ```
 
@@ -639,7 +723,7 @@ There may be more bond/event text than main-story text for some characters. Quan
 
 ## 15.4 Preserve remaining source ambiguity in analytical authority
 
-Bulk promotion is complete, but the full build still records non-blocking limitations:
+The historical V1 full-build audit recorded these non-blocking limitations; retain them as provenance cautions and check the current source reconciliation before treating a count or gap as current:
 
 - seven nonempty timing/control records remain typed as `unknown` with provenance;
 - overarching Japanese event titles are unavailable for some records, so raw event IDs remain authoritative;
@@ -660,11 +744,11 @@ No major synthesis should silently repair these limitations from memory or anoth
 - longitudinal transformation;
 - whether co-presence is mostly ensemble structure.
 
-The 40 selected source bundles should therefore seed relationship review, not determine the analytical relationship canon.
+The 40 source bundles selected in V1 were retrieval seeds, not an analytical relationship canon. Apply the same distinction to later source-bundle selections.
 
 ## 15.6 Treat main-arc maps and LLM chunks as navigation
 
-The source corpus now exposes seven main-arc maps and reversible LLM chunks. Use them to retrieve efficiently, then return to the complete canonical story for close reading. Chunk boundaries must not become literary scene boundaries unless they coincide with the source scene structure.
+The historical V1 source corpus exposed seven main-arc maps and reversible LLM chunks; later generations retain their own inventory. Use them to retrieve efficiently, then return to the complete canonical story for close reading. Chunk boundaries must not become literary scene boundaries unless they coincide with the source scene structure.
 
 ---
 
@@ -676,7 +760,10 @@ A mature Blue Archive analytical corpus should eventually allow the following re
 `current map → main deep reading → canonical story → utterance/choice ID → raw record`
 
 **Character question**\
-`current map → character monograph → state ledger → contextual source bundle → canonical story/MomoTalk/bond → raw record`
+`current map → character monograph → state / relationship / voice ledgers → canonical story/MomoTalk/bond → raw record`
+
+Before a monograph exists:\
+`current map → character analytical coverage index → checkpoint → applicable ledgers → source-facing reading → canonical source`
 
 **Relationship question**\
 `current map → relationship synthesis → relationship ledger → contextual scenes → source`
@@ -690,4 +777,75 @@ A mature Blue Archive analytical corpus should eventually allow the following re
 **How did our interpretation change?**\
 `current map → claim-revision ledger → prior artifact → current authority → evidence route`
 
+**What would this bounded version of a character plausibly do?**\
+`current map → reconstruction model (selected state/domain) → monograph + relevant ledgers → canonical evidence`
+
+The coverage index first checks whether that model/domain exists; the specification governs its use. Validation records attach to the exact model/rule snapshot, and hypothetical applications remain downstream. Source bundles may accelerate retrieval but never replace complete canonical evidence for consequential inference.
+
+If no current model or eligible domain exists, stop at the coverage index and answer from literary evidence without presenting the result as reconstruction capability.
+
 This is the desired end state: **one analytical responsibility per artifact, one current authority path, and no loss of reversibility back to the Japanese source.**
+
+## Phase2 cycle003 production boundary — 2026-10-01
+
+[31 group objects](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_003_CHECKPOINT.md) bring scoped supplemental admission to100 while every whole-arc row remains incomplete. Ordinary enjoyment, personal wishes, fallible care, recipient objections and routine work enter the seven ledgers with exact evidence modes. Readiness remains23 partial/394 unmodeled/417, standalone NONE. The next major architectural phase is **Phase3 — Character / relationship / institution packages**, after Phase2 obligations are fulfilled; this tranche does not certify that transition.
+
+## Phase2 cycle004 production boundary — 2026-10-01
+
+[The remaining22 group objects](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_004_CHECKPOINT.md) close complete group-content intake at65/65 and bring supplemental admission to122. All seven ledgers and coverage/control effects retain ordinary value, actual recipients, source modes and contrary cases. [Fourteen group-grounded families](../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE2_PRINCIPAL_SCOPE_EXTENSION_001.md) add227 required private objects and three mini relevance leads; current wholePhase2 scope is3631 mandatory/3682 tracked, with3560 still unaccepted. Readiness remains23 partial/432 unmodeled/455, standalone NONE. All12 arc rows and9 wholePhase2 requirements remain incomplete. Phase3 — Character / relationship / institution packages follows sufficient contextualization and its distinct evidence/readiness gates; no package/model is manufactured by this tranche.
+
+## Phase2 cycle005 production boundary — 2026-10-01
+
+[The58-object acceptance](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_005_CHECKPOINT.md) brings admitted contextual evidence to180:65 group/43 event/30 bond/30 MomoTalk/12 written-data. Reijo and Ayane complete their available required pools; baseballRei completes ten secure own objects, while four full Tsukuyo/Junko inquiry objects are accepted in their actual contexts without false appearance credit. EVENT807/814 are complete, with ordinary wishes, play, rest, giving and counterevidence retained. All seven ledgers and the five current coverage tables reconcile the accepted effects. Existing readiness stays fixed:23 partial/482 unmodeled/505 analytical subjects, every standaloneNONE.
+
+The full scope remains3631 mandatory/3682 tracked, with3451 mandatory/3502 tracked objects unaccepted. Required private remainders1031B/1031M/422D;57 event packages/967 objects remain. All12 arc rows remain incomplete. Phase3 — Character / relationship / institution packages follows the architecture evidence gates; full-pool intake is distinct from broad transfer or a finished model. Chronology, actual recipients, raw actors, consent conditions and unprinted outcomes retain their limits. No stakes threshold excludes quiet character evidence.
+
+The [complete65-group/12-arc relevance audit](../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE2_GROUP_ARC_RELEVANCE_AUDIT.md) is parent-accepted as P2-R01 PASS_WITH_LIMITS with no additional source admission. Direct person/community core, bounded comparisons and inspected absence are grounded in the full accepted arguments. P2-R02–R09 and all12 full-arc rows remain incomplete; each source retains intrinsic ordinary value and its original knowledge/identity/chronology limits.
+
+## Phase2 cycle006 production boundary — 2026-10-02
+
+[The33-object acceptance](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_006_CHECKPOINT.md) admits Serina’s complete17-source private/written pool and all16 independent EVENT80001 encounters. Cumulative admission is213:65 group/59 event/37 bond/37 full MomoTalk/15 written-data. Ordinary preferences, receiving care, making, gifts, desired time, work and disappointment retain intrinsic literary value. Fake adult summons, refusal pressure, painful care, failed reception and explicit objections remain contrary evidence; a pleasant ending does not authorize an earlier objection. Exact source modes and mutually exclusive alternatives survive integration.
+
+All seven ledgers and five current coverage tables reconcile those accepted effects. The companion has262 rows:98 main-row overrides and164 added analytical subjects;254 main-only rows inherit unchanged. Combined readiness is23 PARTIAL_MODEL /493 UNMODELED /516 subjects, all standaloneNONE. The eleven new routes comprise eight joined named people, one unresolved event-local Kei actor and two local animal/voice buckets, not eleven certified human biographies. Existing baseball Rei receives the E126 addition; diving Rei, Nozomi/Nonomi and the unresolved main-Key/event-Kei identity boundaries remain separate.
+
+Full Phase2 scope remains3631 mandatory/3682 tracked. There are3418 mandatory/3469 tracked objects unaccepted:951 events in56 packages,1024 bond/1024 full MomoTalk/419 written-data. P2-R01 remains PASS_WITH_LIMITS; P2-R02–R09 and all12 arc rows remain incomplete. EVENT801 is the next independent rotation candidate, without an unread literary priority judgment. Later Phase3 — Character / relationship / institution packages and any reconstruction pilot retain their separate source/state/domain gates. Written Japanese does not admit performed voice or unprinted clinical, technical, legal, financial or institutional outcomes.
+
+## Phase2 cycle007 production boundary — 2026-10-07
+
+[The53-object acceptance](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_007_CHECKPOINT.md) admits Hanae’s complete21-source and Mine’s complete19-source private/written pools and all13 EVENT801 objects. Cumulative admission is266:65 group/72 event/54 bond/54 full MomoTalk/21 written-data. Gardening, exercise, holiday rest, knitting, giving, collecting, tea, clothing, food, wanted company, festival work, dreams and shared beauty retain intrinsic value. Explicit refusal, failed search, pressure, property costs and unfinished protection retain their contrary force. Source-scoped reports, inward forms, actor commands and alternatives remain distinct from actions and shared knowledge.
+
+The seven ledgers and five current companion tables reconcile these accepted effects. The companion has287 rows:99 main-row overrides and188 added analytical subjects;253 main-only subjects inherit unchanged. Combined readiness is540 subjects:23 PARTIAL_MODEL/517 UNMODELED, allstandaloneNONE. Twenty-four additional source-local routes comprise two Hanae retail opponents, nine Mine people/voice or role buckets and thirteen EVENT801 routes; they are not twenty-four certified named biographies. EVENT801’s chairman/employer alias bridge is explicit, while recurring staff labels do not certify one staff person and separate passer encounters are not automatically joined. Mine and Hanae remain UNMODELED.
+
+Full Phase2 scope remains3631 mandatory/3682 tracked, with3365 mandatory/3416 tracked objects unaccepted:938 events in55 packages,1007 principal bond/1007 full MomoTalk/413 written-data. P2-R01 remains PASS_WITH_LIMITS; P2-R02–R09 and all12 arc rows remain incomplete. Receiving review and shared reconciliation of existing complete unadmitted event packets remain the rotation lane. Existing complete-declared EVENT812 all15 saved arguments now have COMPLETE_PROVISIONAL_RECEIVING_ADOPTION_WITH_MANDATORY_QUALIFICATIONS through ROOT's completed provisional receiving decision. All eight required qualifications below govern affected downstream use; original contributor, prior distinct independent-review allocation and publication rights remain UNKNOWN. EVENT812 remains UNADMITTED and outside cycle007 full53; this disposition supplies no FIRST, SECOND, certified distinct original-author independence, new global source completion or original-body refinement. Resolve EVENT861 all13 owner/private-allocation state before any FIRST assignment; allocation is UNKNOWN and FIRST is false. Preserve EVENT806 as the closed/delivered Yuuka/C&C inquiry awaiting its actual receiving disposition, and EVENT802 as existing completed unadmitted work. These responsibilities are separate from literary priority and retain every required quiet episode. Priority orders complete review and never discards quiet evidence. Later Phase3 — Character / relationship / institution packages and any reconstruction pilot retain their separate gates. Written Japanese admits no performed voice or unprinted clinical, technical, legal, financial or institutional result.
+
+
+### Current cycle007 authority qualification — 2026-10-07
+
+The earlier dated acceptance and conditional appendices retain their exact input boundaries, including213 admitted objects/516 subjects where recorded. The current cycle007 checkpoint and current boundary above govern266 admitted objects/540 subjects after this coherent transaction; those historical numbers are not competing live censuses. Later mini/G01,20-family,G06/G26,D02 and CF08/CF10 observations retain their existing conditional admission, actor/mode/locale, ordinary-value and contrary-case limits. All twelve full-arc rows and all five architectural duties as a complete Phase2 responsibility remain incomplete; P2-R01 is PASS_WITH_LIMITS only for its group-relevance scope, and P2-R02–R09 remain IN_PROGRESS. No standalone/operational/validated model, monograph, forecast or performed-voice admission is created.
+
+
+### Receiving review and allocation queue — 2026-10-07
+
+Receiving review and shared reconciliation of existing complete unadmitted event packets remain the rotation lane. Existing complete-declared EVENT812 all15 saved arguments now have COMPLETE_PROVISIONAL_RECEIVING_ADOPTION_WITH_MANDATORY_QUALIFICATIONS through ROOT's completed provisional receiving decision. All eight required qualifications below govern affected downstream use; original contributor, prior distinct independent-review allocation and publication rights remain UNKNOWN. EVENT812 remains UNADMITTED and outside cycle007 full53; this disposition supplies no FIRST, SECOND, certified distinct original-author independence, new global source completion or original-body refinement. Resolve EVENT861 all13 owner/private-allocation state before any FIRST assignment; allocation is UNKNOWN and FIRST is false. Preserve EVENT806 as the closed/delivered Yuuka/C&C inquiry awaiting its actual receiving disposition, and EVENT802 as existing completed unadmitted work. These responsibilities are separate from literary priority and retain every required quiet episode.
+
+
+### Event812 completed provisional receiving — successor qualification,2026-10-07
+
+Current receiving state: **COMPLETE_PROVISIONAL_RECEIVING_ADOPTION_WITH_MANDATORY_QUALIFICATIONS**. ROOT completed its qualified receiving judgment for all15 saved Event812 arguments and their union checkpoint. The complete14,734-byte ROOT judgment is bound by SHA256 `03fafb6c72984ff3dc03848522ae6e62192ba34db23ad79dabbb0b69a149e2e0`; its2,583-byte decision is bound by SHA256 `122379c75b1597f1412681e8cca2238b78ff0a24e5a4c83d4562e408c23df7a4`. This control qualification carries that decision; it applies no original-body precision operation or analytical admission.
+
+The following eight requirements govern any affected downstream claim:
+
+1. **001 inward alternative:** the relic-like adult thought belongs to designed `[ns3]/[ns4]` alternatives, not a securely observed single selected inward line. ROOT001 Q01 remains an unapplied exact guard.
+2. **001 causal condition:** possible prior fragility remains unresolved at001. Gentle-handling testimony, sincere preparation and actual failure establish no cause, blame or innocence proof. ROOT001 Q02 remains unapplied.
+3. **014 collective attribution:** retain the Kazusa-and-Natsu collective reply as one named collective unit, not Kazusa-exclusive agency. Exclusive individual subtotal868 plus one collective; Kazusa-exclusive routing21 total/4 in014; eleven named people and1019 total units unchanged; actor-bearing partition868+1+107+17=993. Do not count two units or silently call869 an exclusive subtotal.
+4. **Preference revision:**003's cake demand and008's gratitude retain value beside011's mischief and015's actual taste. Neither cake nor lemon smoothie is Ui's established favorite; iced Americano is self-chosen. Future coffee delivery remains unobserved.
+5. **007 offer and recipient situation:** no wages, possible shelter/food and conditional later recommendation remain distinct; Japanese supplies no fixed one-month term. Constrained recipients' cinema/café/arcade desires are their ends. Offer and B's acceptance establish no universal trust, unpressured consent, adequate provision or fulfilled paid job.
+6. **Accomplished local benefits:** retain009's narrated medicine discovery/bright return,012's expressed enjoyable fatigue,013's completion report/handoff and014's strong immediate replacement inference/resumed ceremony. Broader treatment, authority, technical equivalence, consent, costs and covert steps stay open without erasing achieved local benefits.
+7. **Documentary boundaries:** preserve actual actors, `#na`, silence, inward/narration/system modes, Japanese wording, guards, encountered alternatives/order, generic local contexts and internal chronology. The collective is not a74th dialogue seam. Closing text does not repair null event-title metadata; performed voice, animation and runtime remain uninspected.
+8. **Provisional origins and rights:** original contributor, prior distinct independent-review allocation and publication rights remain UNKNOWN. This completed receiving work certifies no distinct origins, retroactive source-work authorization or publication entitlement. Event812 all15 remain UNADMITTED outside cycle007 full53; no FIRST, SECOND or new global source-completion credit is created.
+
+**Retained planning history:** the original sealed current58 proposal recorded the following earlier state accurately before this completed ROOT decision:
+
+> Existing complete-declared EVENT812 all15 saved arguments now have provisional receiving review IN_PROGRESS; original contributor and prior distinct independent-review allocation remain UNKNOWN. This current receiving allocation certifies neither distinct original-author independence nor publication rights, and EVENT812 remains outside the cycle007 full53 admission.
+
+The current completed qualified receiving decision qualifies the earlier queue state as dated planning history. It preserves the sealed snapshot, the53-source admission union, all earlier source/owner/closure/model limits and other receiving duties. Formal intake/admission states do not assert that no historical COMPLETE declaration or qualified provisional receiving assessment exists. All12 whole arcs and all five Phase2 duties remain incomplete; merge approval remains RESERVED.

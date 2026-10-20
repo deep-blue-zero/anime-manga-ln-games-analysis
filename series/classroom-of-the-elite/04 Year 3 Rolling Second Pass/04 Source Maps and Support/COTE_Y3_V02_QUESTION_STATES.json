@@ -1,0 +1,548 @@
+{
+  "source_boundary": "Y3V02",
+  "predecessor": "COTE_Y3_V01_QUESTION_STATES.json",
+  "year1": [
+    {
+      "id": "Y1H-001",
+      "label": "Can Ayanokōji cultivate without manufacturing crisis?",
+      "entering_status": "PARTIALLY_ANSWERED",
+      "current_status": "PARTIALLY_ANSWERED",
+      "evidence": "E034–035, E049",
+      "adjudication": "Yamamura originates a developmental wish and illness is handled without blame; the task object and other informational crises remain authored by Kiyotaka.",
+      "predecessor_adjudication": "Timed injury remains an active method; peer care provides a positive alternative without proving he generally relinquishes crisis manufacture.",
+      "predecessor_evidence": "Y3V01: E013, E025, E045–047"
+    },
+    {
+      "id": "Y1H-002",
+      "label": "Can he accept growth that leads away from him?",
+      "entering_status": "ANSWERED_BY_DEVELOPMENT",
+      "current_status": "ANSWERED_BY_DEVELOPMENT",
+      "evidence": "E038, E043–048",
+      "adjudication": "Haruka reopens contact and Hiyori maintains other friendships; acceptance of growth away remains historically established, not a universal release of jurisdiction.",
+      "predecessor_adjudication": "The transfer and continued cross-class friendship extend earlier development; acceptance of growth away is not universal release of jurisdiction.",
+      "predecessor_evidence": "Y3V01: E013, E015, E041"
+    },
+    {
+      "id": "Y1H-003",
+      "label": "Can he value a strategically useless person?",
+      "entering_status": "PARTIALLY_ANSWERED",
+      "current_status": "PARTIALLY_ANSWERED",
+      "evidence": "E043–048",
+      "adjudication": "Unchosen happiness, tentative liking and emerging indispensability provide stronger person-specific valuation. Experiment language and untested costly non-substitution keep the stronger question partial.",
+      "predecessor_adjudication": "Interest in former peers is new, but Yamamura’s tool framing and the decision not to meet leave useless-person valuation only partially tested.",
+      "predecessor_evidence": "Y3V01: E025, E048, E051"
+    },
+    {
+      "id": "Y1H-004",
+      "label": "Can he disclose enough for genuinely informed relational choice?",
+      "entering_status": "STILL_OPEN",
+      "current_status": "STILL_OPEN",
+      "evidence": "E043–048, E058",
+      "adjudication": "An apology and accepted gift do not include sufficient timely history or experimental intent for fully informed relational choice; Kei confirms limited access despite prior dating.",
+      "predecessor_adjudication": "Ichinose bluffs with an overheard term; Kei, not Ayanokōji, chooses the later disclosure. No sufficient timely voluntary disclosure by him is shown.",
+      "predecessor_evidence": "Y3V01: E006, E020, E047"
+    },
+    {
+      "id": "Y1H-005",
+      "label": "Can he accept an inefficient or painful answer?",
+      "entering_status": "PARTIALLY_ANSWERED",
+      "current_status": "PARTIALLY_ANSWERED",
+      "evidence": "E043–049",
+      "adjudication": "He accepts an unpredictable feeling and a bounded illness-related score loss without demanding immediate optimization. This develops acceptance of a difficult answer while experiment language retains limits.",
+      "predecessor_adjudication": "He accepts a loss that serves his purpose and local resistance. This does not prove acceptance of a costly answer that changes his end.",
+      "predecessor_evidence": "Y3V01: E026, E041, E053"
+    },
+    {
+      "id": "Y1H-006",
+      "label": "What legacy will he leave, and who values it?",
+      "entering_status": "PARTIALLY_ANSWERED",
+      "current_status": "PARTIALLY_ANSWERED",
+      "evidence": "E025–027, E034–035, E049",
+      "adjudication": "Horikita’s independently functioning coalition and Hashimoto’s initiative add effects beyond a central command. Who can revise inherited ends remains distinct from who benefits from his influence.",
+      "predecessor_adjudication": "Class work and peer recovery show an initial legacy after departure; its ownership and durability remain incomplete.",
+      "predecessor_evidence": "Y3V01: E023, E032, E045–047"
+    },
+    {
+      "id": "Y1H-007",
+      "label": "Is his future purpose self-chosen or another controlled curriculum?",
+      "entering_status": "REFRAMED",
+      "current_status": "REFRAMED",
+      "evidence": "E001–003, E055–057",
+      "adjudication": "More specific recruitment/observation history shows permeability; neither total institutional capture nor freedom from external claims is established.",
+      "predecessor_adjudication": "New curiosity and continued surveillance preserve the reframing of self-chosen purpose inside an authored environment.",
+      "predecessor_evidence": "Y3V01: E048, E051, E057"
+    },
+    {
+      "id": "Y1H-008",
+      "label": "Does romance reduce or deepen Kei dependency?",
+      "entering_status": "ANSWERED_BY_DEVELOPMENT",
+      "current_status": "ANSWERED_BY_DEVELOPMENT",
+      "evidence": "E021, E058–059",
+      "adjudication": "Kei negotiates disclosure and address and limits investigative participation; the ended romance is not retrospectively made informed.",
+      "predecessor_adjudication": "Continued grief and peer initiative extend the historical answer: romance and horizontal autonomy can move differently.",
+      "predecessor_evidence": "Y3V01: E030, E033–035, E047"
+    },
+    {
+      "id": "Y1H-009",
+      "label": "Does Kei receive enough information for reciprocal choice?",
+      "entering_status": "ANSWERED_BY_DEVELOPMENT",
+      "current_status": "ANSWERED_BY_DEVELOPMENT",
+      "evidence": "E021, E058",
+      "adjudication": "Kei explicitly reports limited knowledge of his past despite dating and retains a disclosure boundary of her own. New post-romance agency does not retroactively supply the missing information for reciprocal choice.",
+      "predecessor_adjudication": "The inherited negative answer remains: no new adequate disclosure repairs the ended romance’s information structure.",
+      "predecessor_evidence": "Y3V01: E006, E020, E033–035"
+    },
+    {
+      "id": "Y1H-010",
+      "label": "Can Kei’s broader social identity remain independently organized?",
+      "entering_status": "ANSWERED_BY_DEVELOPMENT",
+      "current_status": "ANSWERED_BY_DEVELOPMENT",
+      "evidence": "E021, E058–059",
+      "adjudication": "Kei supplies analysis and maintains boundaries in a peer relation; no universal reversal of earlier dependence is inferred.",
+      "predecessor_adjudication": "Kei initiates a consequential peer relation while still distressed, strengthening the existing affirmative answer.",
+      "predecessor_evidence": "Y3V01: E045–047"
+    },
+    {
+      "id": "Y1H-011",
+      "label": "Does Kei become irreplaceable to Ayanokōji?",
+      "entering_status": "ANSWERED_BY_REVELATION",
+      "current_status": "ANSWERED_BY_REVELATION",
+      "evidence": "E009, E047–048",
+      "adjudication": "Kiyotaka reports the sought feeling absent during dating Kei and now tentatively names it toward Hiyori; this does not erase Kei-directed historical judgments or make her a failed experimental object by analytical fiat.",
+      "predecessor_adjudication": "No new evidence reverses the earlier negative finding about her irreplaceability in his romance-learning model; her attachment is a different direction.",
+      "predecessor_evidence": "Y3V01: E030, E033–035"
+    },
+    {
+      "id": "Y1H-012",
+      "label": "Can Horikita’s visible leadership survive without hidden Ayanokōji security?",
+      "entering_status": "PARTIALLY_ANSWERED",
+      "current_status": "PARTIALLY_ANSWERED",
+      "evidence": "E025–027, E052, E065",
+      "adjudication": "Independent conduct inference and implemented preparation add functioning after transfer; fatigue and unequal Kōenji terms remain, with long-term durability open.",
+      "predecessor_adjudication": "The first actual post-transfer system test yields loss, delegation and initial recovery; repeated independent performance remains open.",
+      "predecessor_evidence": "Y3V01: E023, E037–038, E045–047, E056"
+    },
+    {
+      "id": "Y1H-013",
+      "label": "Can Horikita consequentially disagree with him and sustain it?",
+      "entering_status": "ANSWERED_BY_DEVELOPMENT",
+      "current_status": "ANSWERED_BY_DEVELOPMENT",
+      "evidence": "E016, E025–027",
+      "adjudication": "Horikita sustains an oppositional class purpose and her own inference; successful disagreement does not require pretending she has no inherited influence.",
+      "predecessor_adjudication": "A renewed oppositional Class A purpose continues her established capacity to disagree; no new winning confrontation is claimed.",
+      "predecessor_evidence": "Y3V01: E047"
+    },
+    {
+      "id": "Y1H-014",
+      "label": "Can she preserve Kushida without imposing unchosen danger?",
+      "entering_status": "PARTIALLY_ANSWERED",
+      "current_status": "PARTIALLY_ANSWERED",
+      "evidence": "E023–024, E029",
+      "adjudication": "Kushida voluntarily helps and clarifies a limited history; the unknown A channel does not prove spy acceptance or remove preservation costs.",
+      "predecessor_adjudication": "Kushida’s cooperation faces a fresh threat with possible collective harm; no completed betrayal or full solution of preservation’s costs is shown.",
+      "predecessor_evidence": "Y3V01: E028, E049–050"
+    },
+    {
+      "id": "Y1H-015",
+      "label": "Can Horikita use student-council power without predecessor blind spots?",
+      "entering_status": "PARTIALLY_ANSWERED",
+      "current_status": "PARTIALLY_ANSWERED",
+      "evidence": "E018–020, E060–062",
+      "adjudication": "Equal hearing, rank-privilege rejection and a retained report duty supply procedural evidence; independent correction and allocation remain incomplete.",
+      "predecessor_adjudication": "Office work and restraint about another cohort are visible; contestable allocation and protection against blind spots are not fully tested.",
+      "predecessor_evidence": "Y3V01: E056–057"
+    },
+    {
+      "id": "Y1H-016",
+      "label": "What would it mean for Horikita to witness Ayanokōji fail?",
+      "entering_status": "STILL_OPEN",
+      "current_status": "STILL_OPEN",
+      "evidence": "E049, E052, E063",
+      "adjudication": "C loses from illness despite correct inference; no genuine personal collapse witnessed by Horikita. Retrospective prolepsis is not a completed later failure scene.",
+      "predecessor_adjudication": "The official loss is deliberately selected; Kitō’s persistence is not a loss of the fight and Horikita is absent. The strict witnessed-failure test remains unmet.",
+      "predecessor_evidence": "Y3V01: E041, E047, E053"
+    },
+    {
+      "id": "Y1H-017",
+      "label": "Can Kushida’s public/private selves coexist?",
+      "entering_status": "ANSWERED_BY_DEVELOPMENT",
+      "current_status": "ANSWERED_BY_DEVELOPMENT",
+      "evidence": "E023–024",
+      "adjudication": "Kushida describes kindness as practiced habit and offers help while hostility can persist; coexistence receives additional development.",
+      "predecessor_adjudication": "Audience-sensitive performance persists after exposure; the existing development answer survives the new threat.",
+      "predecessor_evidence": "Y3V01: E028, E049–050"
+    },
+    {
+      "id": "Y1H-018",
+      "label": "Can hatred coexist with legitimate cooperation?",
+      "entering_status": "ANSWERED_BY_DEVELOPMENT",
+      "current_status": "ANSWERED_BY_DEVELOPMENT",
+      "evidence": "E024, E031",
+      "adjudication": "Self-owned help despite dislike remains possible; Kiyotaka also deliberately uses another class’s hatred, a different and less informed cooperation mechanism.",
+      "predecessor_adjudication": "Hostility and self-interested cooperation remain compatible; the new offer is not yet acceptance or a reversal of earlier legitimate cooperation.",
+      "predecessor_evidence": "Y3V01: E028, E049–050"
+    },
+    {
+      "id": "Y1H-019",
+      "label": "Can Horikita’s Kushida project become Kushida-authored?",
+      "entering_status": "ANSWERED_BY_DEVELOPMENT",
+      "current_status": "ANSWERED_BY_DEVELOPMENT",
+      "evidence": "E023–024",
+      "adjudication": "Kushida supplies her own confession and assistance; new agency does not backdate consent to the original preservation decision.",
+      "predecessor_adjudication": "Kushida retains her own assessment and requests time. The new test does not backdate consent to her original preservation.",
+      "predecessor_evidence": "Y3V01: E028, E049–050"
+    },
+    {
+      "id": "Y1H-020",
+      "label": "Can Ichinose solidarity gain adversarial competence without losing itself?",
+      "entering_status": "ANSWERED_BY_DEVELOPMENT",
+      "current_status": "ANSWERED_BY_DEVELOPMENT",
+      "evidence": "E052–054",
+      "adjudication": "Conduct victory and independent reform reading extend competent solidarity; alliance asymmetry remains a separate ethical issue.",
+      "predecessor_adjudication": "Adversarial and social competence now convert into an exam win, while selective care adds an ethical qualification to the established answer.",
+      "predecessor_evidence": "Y3V01: E019–020, E038, E042, E050"
+    },
+    {
+      "id": "Y1H-021",
+      "label": "Can Kanzaki become loyal opposition?",
+      "entering_status": "ANSWERED_BY_DEVELOPMENT",
+      "current_status": "ANSWERED_BY_DEVELOPMENT",
+      "evidence": "E050, E053",
+      "adjudication": "Proposed gym contact could reintegrate reformers, but no new decisive enacted Kanzaki opposition is shown; inherited answer retained.",
+      "predecessor_adjudication": "Kanzaki contributes a winning result; no new decisive internal-opposition scene warrants changing the historically established answer.",
+      "predecessor_evidence": "Y3V01: E038"
+    },
+    {
+      "id": "Y1H-022",
+      "label": "Can Ichinose personal trust survive direct class conflict?",
+      "entering_status": "ANSWERED_BY_DEVELOPMENT",
+      "current_status": "ANSWERED_BY_DEVELOPMENT",
+      "evidence": "E050, E053–054",
+      "adjudication": "Continued political cooperation and a restricted friendship label coexist; future direct class conflict remains untested.",
+      "predecessor_adjudication": "Trust supports reciprocal strategic work under continued class competition; future direct C–D conflict remains untested.",
+      "predecessor_evidence": "Y3V01: E011–012, E039, E042, E050"
+    },
+    {
+      "id": "Y1H-023",
+      "label": "What authority should the one-year promise grant Ayanokōji?",
+      "entering_status": "REFRAMED",
+      "current_status": "REFRAMED",
+      "evidence": "E053–054",
+      "adjudication": "The third-answer/alliance successor relation continues; an older promise is not newly revived as unrestricted authority.",
+      "predecessor_adjudication": "The old one-year-promise frame remains superseded by the third-answer/alliance relation, which still lacks complete disclosure.",
+      "predecessor_evidence": "Y3V01: E011–012, E020"
+    },
+    {
+      "id": "Y1H-024",
+      "label": "What will `介錯` mean if Ichinose’s class collapses?",
+      "entering_status": "REFRAMED",
+      "current_status": "REFRAMED",
+      "evidence": "E052–054",
+      "adjudication": "D succeeds and reform contact is proposed; no class collapse or terminal intervention occurs.",
+      "predecessor_adjudication": "The third answer continues into agency and strategy; no new collapse reactivates a terminal interpretation of the earlier promise.",
+      "predecessor_evidence": "Y3V01: E019–020, E033–035, E050"
+    },
+    {
+      "id": "Y1H-025",
+      "label": "Can voluntary loyalty constrain Ryūen?",
+      "entering_status": "PARTIALLY_ANSWERED",
+      "current_status": "PARTIALLY_ANSWERED",
+      "evidence": "E039–040",
+      "adjudication": "Katsuragi states a rule-violation constraint in wider consultation; no exercised protected veto changes Ryūen’s end.",
+      "predecessor_adjudication": "Advisers affect deliberation, but no protected capacity to change Ryūen’s ends is established.",
+      "predecessor_evidence": "Y3V01: E029, E036, E043"
+    },
+    {
+      "id": "Y1H-026",
+      "label": "Can Hiyori morally redirect Ryūen?",
+      "entering_status": "STILL_OPEN",
+      "current_status": "STILL_OPEN",
+      "evidence": "E040",
+      "adjudication": "Ryūen considers exploiting Hiyori; her own hurt is shown, but she does not morally redirect his choice.",
+      "predecessor_adjudication": "Hiyori’s upset is reported by Ishizaki; she does not change Ryūen’s own moral decision in the source.",
+      "predecessor_evidence": "Y3V01: E027, E043"
+    },
+    {
+      "id": "Y1H-027",
+      "label": "Better leader or merely more sophisticated predator?",
+      "entering_status": "REFRAMED",
+      "current_status": "REFRAMED",
+      "evidence": "E039–040",
+      "adjudication": "Broader deliberation and considered emotional exploitation preserve the leadership/predation reframing.",
+      "predecessor_adjudication": "Strategic braking and coercive mobilization coexist, preserving the better-leadership/predation reframing.",
+      "predecessor_evidence": "Y3V01: E029, E036, E043"
+    },
+    {
+      "id": "Y1H-028",
+      "label": "Can Sakayanagi keep fiduciary duty above Ayanokōji priority?",
+      "entering_status": "ANSWERED_BY_REVELATION",
+      "current_status": "ANSWERED_BY_REVELATION",
+      "evidence": "E028, E056",
+      "adjudication": "Class memory and Shiraishi’s obstacle account add effects of Arisu’s absence, not new fiduciary conduct by Arisu.",
+      "predecessor_adjudication": "The abandoned class’s costs and Kitō’s testimony reinforce the earlier negative fiduciary finding; no new off-campus action reverses it.",
+      "predecessor_evidence": "Y3V01: E032, E052"
+    },
+    {
+      "id": "Y1H-029",
+      "label": "Can aristocratic optimization survive sovereign private priority?",
+      "entering_status": "ANSWERED_BY_DEVELOPMENT",
+      "current_status": "ANSWERED_BY_DEVELOPMENT",
+      "evidence": "E014, E028, E049",
+      "adjudication": "Inherited culture and subordinate initiative continue under imported leadership; organic reproduction of exceptional strategy remains unproved.",
+      "predecessor_adjudication": "The class adapts through inherited culture and imported competence, strengthening the earlier development answer without proving organic succession.",
+      "predecessor_evidence": "Y3V01: E024, E032, E041–042, E052"
+    },
+    {
+      "id": "Y1H-030",
+      "label": "Can Nagumo create individual mobility without patronage?",
+      "entering_status": "ANSWERED_BY_REVELATION",
+      "current_status": "ANSWERED_BY_REVELATION",
+      "evidence": "E018–020",
+      "adjudication": "Horikita’s procedural behavior is new council evidence, not a new Nagumo mobility policy; historical revelation retained.",
+      "predecessor_adjudication": "No new Nagumo action or mobility mechanism changes the earlier revelation about patronage.",
+      "predecessor_evidence": "Y3V01: E056"
+    },
+    {
+      "id": "Y1H-031",
+      "label": "Does mobility liberate talent or license abandonment?",
+      "entering_status": "REFRAMED",
+      "current_status": "REFRAMED",
+      "evidence": "E025–027, E038, E049",
+      "adjudication": "Post-transfer coordination and repaired relations develop despite the imposed separation; later benefit does not dissolve abandonment costs.",
+      "predecessor_adjudication": "The transfer enables one person’s project and imposes interpretive costs on others; later peer agency does not dissolve the mobility/abandonment reframing.",
+      "predecessor_evidence": "Y3V01: E002, E009–013, E047"
+    },
+    {
+      "id": "Y1H-032",
+      "label": "What does membership legitimately require from Kōenji?",
+      "entering_status": "ANSWERED_BY_DEVELOPMENT",
+      "current_status": "ANSWERED_BY_DEVELOPMENT",
+      "evidence": "E017, E026–027",
+      "adjudication": "Compliance is purchased under a contract at500,000 private points; fair membership remains contested beyond bilateral agreement.",
+      "predecessor_adjudication": "Kōenji’s ordinary exam participation and cited protection preserve a bounded membership question; paternal terms remain separately untested.",
+      "predecessor_evidence": "Y3V01: E037–038, E052"
+    },
+    {
+      "id": "Y1H-033",
+      "label": "Can the Ayanokōji Group survive the concealed person?",
+      "entering_status": "ANSWERED_BY_DEVELOPMENT",
+      "current_status": "ANSWERED_BY_DEVELOPMENT",
+      "evidence": "E038",
+      "adjudication": "Haruka opens a possible repaired successor relation and shares Airi’s outside progress; the original group is not restored.",
+      "predecessor_adjudication": "Miyake’s continued friendship is compatible with the successor group, without reinstalling the former organizing center.",
+      "predecessor_evidence": "Y3V01: E015"
+    },
+    {
+      "id": "Y1H-034",
+      "label": "Can Hirata choose particular attachment without universal-betrayal anxiety?",
+      "entering_status": "PARTIALLY_ANSWERED",
+      "current_status": "PARTIALLY_ANSWERED",
+      "evidence": "E016",
+      "adjudication": "Hirata participates in managing class reaction; no decisive new particular-attachment test changes the partial judgment.",
+      "predecessor_adjudication": "Hirata combines attachment-sensitive gratitude, distrust and bounded leadership; a decisive new particular-preference test is absent.",
+      "predecessor_evidence": "Y3V01: E014, E037"
+    },
+    {
+      "id": "Y1H-035",
+      "label": "Can Ayanokōji reveal weakness rather than controlled information/strength?",
+      "entering_status": "STILL_OPEN",
+      "current_status": "STILL_OPEN",
+      "evidence": "E009, E047–048",
+      "adjudication": "Kiyotaka voluntarily admits a lack and receives help naming a feeling; no consequential protective/corrective authority over helplessness is granted.",
+      "predecessor_adjudication": "Ordinary gaps, assistance and an intended score loss do not grant another person consequential protective or corrective authority over a helpless Ayanokōji.",
+      "predecessor_evidence": "Y3V01: E007, E016, E032, E041, E053"
+    },
+    {
+      "id": "Y1H-036",
+      "label": "How much of Tsukishiro’s White Room account is true?",
+      "entering_status": "PARTIALLY_ANSWERED",
+      "current_status": "PARTIALLY_ANSWERED",
+      "evidence": "E001–003, E055–057",
+      "adjudication": "Hospital memory and recruitment revise literal death/persona readings; present medical state, full sponsor chain and training origins remain unresolved.",
+      "predecessor_adjudication": "Operational evidence grows through Nanase’s own statement, while full mission, sponsor, training origin and Matsuo-account completeness remain unresolved.",
+      "predecessor_evidence": "Y3V01: E020, E051, E057"
+    },
+    {
+      "id": "Y1H-037",
+      "label": "How resilient are adult institutional counterweights?",
+      "entering_status": "PARTIALLY_ANSWERED",
+      "current_status": "PARTIALLY_ANSWERED",
+      "evidence": "E018–020, E042, E052, E055–057",
+      "adjudication": "Procedure and scoring impose local limits while covert channels persist; resilience is partial.",
+      "predecessor_adjudication": "Teacher restraint and procedure coexist with nonintervention and hidden channels; institutional resilience remains partial.",
+      "predecessor_evidence": "Y3V01: E003, E018, E036, E057"
+    },
+    {
+      "id": "Y1H-038",
+      "label": "Can rank, scarcity, and expulsion coexist with genuine freedom?",
+      "entering_status": "PARTIALLY_ANSWERED",
+      "current_status": "PARTIALLY_ANSWERED",
+      "evidence": "E026–027, E035, E043–048",
+      "adjudication": "Price, surveillance opportunity and incomplete relational information condition choices; local consent cannot stand for general freedom.",
+      "predecessor_adjudication": "Consent under points, sunk cost and exposure pressure supplies further mixed evidence; no general freedom theorem follows.",
+      "predecessor_evidence": "Y3V01: E009–013, E022, E049–050"
+    },
+    {
+      "id": "Y1H-039",
+      "label": "Is ANHS plurality enough to prevent cultivation becoming ownership?",
+      "entering_status": "PARTIALLY_ANSWERED",
+      "current_status": "PARTIALLY_ANSWERED",
+      "evidence": "E005, E025, E034–035, E045–048",
+      "adjudication": "Plural purposes generate real development while tasks and relationships remain open to strategic capture.",
+      "predecessor_adjudication": "Peer-created care and independent observation demonstrate plurality, while environmental authorship and surveillance retain its limits.",
+      "predecessor_evidence": "Y3V01: E023, E045–047, E054, E057"
+    },
+    {
+      "id": "Y1H-040",
+      "label": "Can institutional records/rules become independently auditable?",
+      "entering_status": "REFRAMED",
+      "current_status": "REFRAMED",
+      "evidence": "E019–020, E052, E055–057",
+      "adjudication": "A hearing hypothesis, official result and concealed channels have different verification properties; public visibility is not independent accountability.",
+      "predecessor_adjudication": "Records verify some facts and hide other operations; independent accountability still requires more than data visibility.",
+      "predecessor_evidence": "Y3V01: E002, E022, E042, E057"
+    },
+    {
+      "id": "Y1H-041",
+      "label": "Can ordinary life remain counter-curriculum under White Room pressure?",
+      "entering_status": "ANSWERED_BY_DEVELOPMENT",
+      "current_status": "ANSWERED_BY_DEVELOPMENT",
+      "evidence": "E005, E009, E043–048",
+      "adjudication": "Unplanned pleasure and particular happiness strengthen the counter-curriculum development while experimental recapture remains possible.",
+      "predecessor_adjudication": "Ordinary friendship, learning and care continue to generate purposes, with strategic capture still possible.",
+      "predecessor_evidence": "Y3V01: E015, E030–032, E045–048, E051"
+    },
+    {
+      "id": "Y1H-042",
+      "label": "What would prove ANHS a genuine White Room alternative?",
+      "entering_status": "REFRAMED",
+      "current_status": "REFRAMED",
+      "evidence": "E001–003, E034–035, E045–048, E055–057",
+      "adjudication": "Ordinary growth and observation coexist; the institution still has to show informed refusal and accountable control of purposes.",
+      "predecessor_adjudication": "Plural development coexists with proprietary and surveillant structures, preserving the demand for refusal and accountable purpose.",
+      "predecessor_evidence": "Y3V01: E045–048, E051, E057"
+    }
+  ],
+  "year2": [
+    {
+      "id": "Y2H-001",
+      "label": "Imported sovereignty",
+      "entering_status": "PARTIALLY_ANSWERED",
+      "current_status": "PARTIALLY_ANSWERED",
+      "evidence": "E012–015, E049",
+      "adjudication": "C retains dissent and anticipatory subordinate initiative; acceptance of illness protects members. No binding jurisdictional limit against the sovereign’s end is demonstrated.",
+      "predecessor_adjudication": "C debates criteria, sees a revised recognition standard and retains dissent; sunk-cost pressure and no binding jurisdictional limit remain.",
+      "predecessor_evidence": "Y3V01: E009–013, E024, E041–042, E052–054"
+    },
+    {
+      "id": "Y2H-002",
+      "label": "Horikita after transfer",
+      "entering_status": "PARTIALLY_ANSWERED",
+      "current_status": "PARTIALLY_ANSWERED",
+      "evidence": "E025–027, E052, E065",
+      "adjudication": "Independent inference, conduct execution and renewed support add a further observation after V1; unequal obligations and durability remain open.",
+      "predecessor_adjudication": "Delegated preparation loses, peer care restores initial functioning and office work resumes; sustained results remain unobserved.",
+      "predecessor_evidence": "Y3V01: E023, E037–038, E045–047, E056"
+    },
+    {
+      "id": "Y2H-003",
+      "label": "Kei’s subsequent purposes",
+      "entering_status": "PARTIALLY_ANSWERED",
+      "current_status": "PARTIALLY_ANSWERED",
+      "evidence": "E021, E058–059",
+      "adjudication": "Kei negotiates disclosure, address and investigative participation after romance loss; sustained life-course recovery remains unproved.",
+      "predecessor_adjudication": "She challenges an account of reciprocity, offers care and chooses a confidante; long-term recovery is not proved.",
+      "predecessor_evidence": "Y3V01: E033–035, E045–047"
+    },
+    {
+      "id": "Y2H-004",
+      "label": "Ichinose’s third-answer durability",
+      "entering_status": "PARTIALLY_ANSWERED",
+      "current_status": "PARTIALLY_ANSWERED",
+      "evidence": "E052–054",
+      "adjudication": "D wins and Ichinose independently interprets reform opportunities; a costly exercised alliance refusal remains absent.",
+      "predecessor_adjudication": "Independent intelligence and political output are real; selective cruelty, limited disclosure and untested refusal prevent closure.",
+      "predecessor_evidence": "Y3V01: E019–020, E033–035, E042, E050"
+    },
+    {
+      "id": "Y2H-005",
+      "label": "Ryūen’s followers",
+      "entering_status": "PARTIALLY_ANSWERED",
+      "current_status": "PARTIALLY_ANSWERED",
+      "evidence": "E039–040",
+      "adjudication": "Wider consultation and Katsuragi’s promised constraint are observed; the promise is not an exercised moral veto.",
+      "predecessor_adjudication": "Strategic discussion includes disagreement; final purpose and coercion remain concentrated. No protected moral veto.",
+      "predecessor_evidence": "Y3V01: E029, E036, E043"
+    },
+    {
+      "id": "Y2H-006",
+      "label": "Sakayanagi’s new future",
+      "entering_status": "UNANSWERED",
+      "current_status": "UNANSWERED",
+      "evidence": "E028, E056",
+      "adjudication": "No new off-campus Sakayanagi purpose is narrated. Class memory and another actor’s obstacle account cannot substitute.",
+      "predecessor_adjudication": "No later off-campus purpose or obligation is observed. Class effects do not substitute for her own new conduct.",
+      "predecessor_evidence": "Y3V01: E032, E052 are class/retrospective evidence only"
+    },
+    {
+      "id": "Y2H-007",
+      "label": "Kōenji’s paternal conditions",
+      "entering_status": "UNANSWERED",
+      "current_status": "UNANSWERED",
+      "evidence": "E017, E026",
+      "adjudication": "The membership contract and compliance price develop, but no response to the specific paternal conditions is shown.",
+      "predecessor_adjudication": "His score and ordinary participation do not show a response to the specific inherited terms.",
+      "predecessor_evidence": "Y3V01: E037–038"
+    },
+    {
+      "id": "Y2H-008",
+      "label": "Council contestability",
+      "entering_status": "UNANSWERED",
+      "current_status": "PARTIALLY_ANSWERED",
+      "evidence": "E018–020, E060–062",
+      "adjudication": "Equal hearing, refusal of A privilege and retained serious-report duty supply partial evidence of reasons and procedural constraint. Resource allocation, exit and independent correction remain incomplete.",
+      "predecessor_adjudication": "Effective work is shown, but no new contestable resource allocation, exit procedure or independent correction tests this criterion.",
+      "predecessor_evidence": "Y3V01: E056–057"
+    },
+    {
+      "id": "Y2H-009",
+      "label": "External observation and jurisdiction",
+      "entering_status": "PARTIALLY_ANSWERED",
+      "current_status": "PARTIALLY_ANSWERED",
+      "evidence": "E001–003, E055–057",
+      "adjudication": "Recruitment and observer roles become more specific; complete command chain, legal jurisdiction and political accountability remain unresolved.",
+      "predecessor_adjudication": "Nanase’s operational statement and two phones show a hidden channel, while lawful transfer procedure provides a contrasting local limit. No complete accountability or political-capture verdict.",
+      "predecessor_evidence": "Y3V01: E003, E057"
+    },
+    {
+      "id": "Y2H-010",
+      "label": "Ayanokōji’s answerability",
+      "entering_status": "UNANSWERED",
+      "current_status": "UNANSWERED",
+      "evidence": "E009, E043–048, E053",
+      "adjudication": "Emotional and tactical influence are real; no sufficiently informed other is shown changing his governing end at substantial accepted cost.",
+      "predecessor_adjudication": "Many local corrections and contributions occur; no informed refusal is shown changing his ends at substantial cost or relinquishing consequential jurisdiction.",
+      "predecessor_evidence": "Y3V01: E016, E025, E032, E049–053"
+    },
+    {
+      "id": "Y2H-011",
+      "label": "Successor ordinary relations",
+      "entering_status": "PARTIALLY_ANSWERED",
+      "current_status": "PARTIALLY_ANSWERED",
+      "evidence": "E021, E038, E043, E058",
+      "adjudication": "Peer consultation, Haruka’s possible repair and Hiyori’s cross-class repair add successor purposes; original roles need not return.",
+      "predecessor_adjudication": "Miyake’s cross-class friendship and the new peer-care relation provide actual role-surviving purposes; durable continuation remains open.",
+      "predecessor_evidence": "Y3V01: E015, E045–047"
+    },
+    {
+      "id": "Y2H-012",
+      "label": "Identity and assignment separation",
+      "entering_status": "PARTIALLY_ANSWERED",
+      "current_status": "PARTIALLY_ANSWERED",
+      "evidence": "E001–003, E055–057, E060–062",
+      "adjudication": "Identity, assigned observation, personal preventive aim, intermediary affiliation and reported motive are separately tracked; full origins remain unknown.",
+      "predecessor_adjudication": "Nanase declares an arrangement; sponsor, full instruction, training origin and other actors’ purposes remain separate unresolved columns.",
+      "predecessor_evidence": "Y3V01: E020, E051, E057"
+    }
+  ]
+}

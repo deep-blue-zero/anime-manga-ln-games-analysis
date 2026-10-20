@@ -981,7 +981,7 @@
       "complete_source_bytes": 17372,
       "complete_source_sha256": "8de2cc1a110dab4f9acb3a1af11c72631fea0ccc19e954bca16cd480daed31bd",
       "size_verification": "matches_native_text_plain_export_size",
-      "repository_path": "series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0055_DEEP_READING.md",
+      "repository_path": "series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0055_DEEP_READING.md",
       "repository_bytes": 16978,
       "repository_sha256": "72a882911dfb23bc58b4de8d49d6d07c230a4c4dbaee6fe13415de61bd016793",
       "transformations": [
@@ -1007,7 +1007,7 @@
       "complete_source_bytes": 13278,
       "complete_source_sha256": "aff57abbce84ceba52bd2227c3f57d91072f522fc8896311a2474709affcc632",
       "size_verification": "matches_native_text_plain_export_size",
-      "repository_path": "series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0056_DEEP_READING.md",
+      "repository_path": "series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0056_DEEP_READING.md",
       "repository_bytes": 13042,
       "repository_sha256": "d85b2015014e2c0e44730ff885a6df6809d1139aa9b541f408726a126322dd8a",
       "transformations": [
@@ -1033,7 +1033,7 @@
       "complete_source_bytes": 16176,
       "complete_source_sha256": "2479175cd202c14d62683e76a51fba3fb5608949b6a9cb099bacf4f4e7596757",
       "size_verification": "matches_native_text_plain_export_size",
-      "repository_path": "series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0057_DEEP_READING.md",
+      "repository_path": "series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0057_DEEP_READING.md",
       "repository_bytes": 15876,
       "repository_sha256": "1866b53ac056b7a250cf8c176057fed0b219fcddf09dda10c8c767e9e22706c6",
       "transformations": [
@@ -1085,7 +1085,7 @@
       "complete_source_bytes": 17057,
       "complete_source_sha256": "6e074a5331b65d218821cfda7aeaae308b1d7b9640bf559721810a7e2a283cf5",
       "size_verification": "matches_native_text_plain_export_size",
-      "repository_path": "series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0059_DEEP_READING.md",
+      "repository_path": "series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0059_DEEP_READING.md",
       "repository_bytes": 16612,
       "repository_sha256": "c28e73dd074b49ca0e3d518bdf1b1aaca64355da78c8f9e2d3a83c4675b3f712",
       "transformations": [
@@ -1111,7 +1111,7 @@
       "complete_source_bytes": 24553,
       "complete_source_sha256": "710bc3d41af3818cb41c10feac9857320c1b9d3b8dc8d2abf3e8cfa9e565b72d",
       "size_verification": "matches_native_text_plain_export_size",
-      "repository_path": "series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0060_DEEP_READING.md",
+      "repository_path": "series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0060_DEEP_READING.md",
       "repository_bytes": 23942,
       "repository_sha256": "7c60d4348cab2573d1c61a25e518e75effeec0499902e64c3db2d6f03dfec84c",
       "transformations": [
@@ -1163,7 +1163,7 @@
       "complete_source_bytes": 11583,
       "complete_source_sha256": "db82bfc0332abf5aaea72be9bf13b09d02d1d604bbae520760f606a2d6d408ff",
       "size_verification": "matches_native_text_plain_export_size",
-      "repository_path": "series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0062_DEEP_READING.md",
+      "repository_path": "series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0062_DEEP_READING.md",
       "repository_bytes": 11356,
       "repository_sha256": "fed9ecda5215205eb0d5df23ae24a0e1036ce3f8ce82a8bd7af32b001f84f974",
       "transformations": [
@@ -1215,7 +1215,7 @@
       "complete_source_bytes": 16005,
       "complete_source_sha256": "580ce550c21333e2065d350e614194a2656760cfa562dd5e3c8199004a8eae98",
       "size_verification": "matches_native_text_plain_export_size",
-      "repository_path": "series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0064_DEEP_READING.md",
+      "repository_path": "series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0064_DEEP_READING.md",
       "repository_bytes": 15633,
       "repository_sha256": "a146fd5e4f1455c35a8280822fcce56cc13c176215381d3955c95454c4c990c5",
       "transformations": [
@@ -1241,7 +1241,7 @@
       "complete_source_bytes": 22998,
       "complete_source_sha256": "923805414e65aac538f3b52a307f6a6a85ca27870599b99f522280edaeb65a0e",
       "size_verification": "matches_native_text_plain_export_size",
-      "repository_path": "series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0065_DEEP_READING.md",
+      "repository_path": "series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0065_DEEP_READING.md",
       "repository_bytes": 22349,
       "repository_sha256": "5e11411e737366999e1007b3aaf9f290557ca18fafc8055c201d2bcc85fea109",
       "transformations": [
@@ -1267,7 +1267,7 @@
       "complete_source_bytes": 23444,
       "complete_source_sha256": "42e877ec7df8578c0b184550fa06d144e8fe3c0406ec74ad9218d0feaaf0a2bb",
       "size_verification": "matches_native_text_plain_export_size",
-      "repository_path": "series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0066_DEEP_READING.md",
+      "repository_path": "series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0066_DEEP_READING.md",
       "repository_bytes": 22856,
       "repository_sha256": "5df2bc0096c60627539b45d2a5ae014139cc90eee812c2b765564c5fd6c29692",
       "transformations": [
@@ -1293,7 +1293,7 @@
       "complete_source_bytes": 14577,
       "complete_source_sha256": "09b4d9f22d68c2cac9a1c581c768e764b9bc05774cbc40d8cfb8adff063c1ff9",
       "size_verification": "matches_native_text_plain_export_size",
-      "repository_path": "series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0067_DEEP_READING.md",
+      "repository_path": "series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0067_DEEP_READING.md",
       "repository_bytes": 14303,
       "repository_sha256": "1fa5afcef376298a7be75292cb504b7ee3d5c14651aecea7229035d7d70a8b34",
       "transformations": [
@@ -1345,7 +1345,7 @@
       "complete_source_bytes": 21224,
       "complete_source_sha256": "3020157bb01b6dd309a4c57b9593c4ef1af187210d361f1243ad72a92275fbb3",
       "size_verification": "matches_native_text_plain_export_size",
-      "repository_path": "series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0069_DEEP_READING.md",
+      "repository_path": "series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0069_DEEP_READING.md",
       "repository_bytes": 20745,
       "repository_sha256": "964692340079f322dfcc29c704f8ded4d057bdda3f52ce9ab46df8b55727e356",
       "transformations": [
@@ -1397,7 +1397,7 @@
       "complete_source_bytes": 11027,
       "complete_source_sha256": "938273a3fdc37498b8d147e9a964ff7571ae6f3f229758808b6a6ad4475fefa1",
       "size_verification": "matches_native_text_plain_export_size",
-      "repository_path": "series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0071_DEEP_READING.md",
+      "repository_path": "series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0071_DEEP_READING.md",
       "repository_bytes": 10766,
       "repository_sha256": "4309951f067192b30e8b790cf47f98e2102716bbf201bcc9c77d925dd8a3eaec",
       "transformations": [

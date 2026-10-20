@@ -9,10 +9,12 @@ and never treats prose as authority.
 from __future__ import annotations
 
 import hashlib
+import io
 import json
 import os
 import re
 import subprocess
+import time
 import unicodedata
 from collections import Counter, defaultdict, deque
 from dataclasses import dataclass
@@ -337,16 +339,68 @@ def evidence_ref_sort_key(value: str) -> tuple[Any, ...]:
     return (sort_key(subject), sort_key(evidence_id), value.encode("ascii"))
 
 
+GIT_METRICS: Counter[str] = Counter()
+
+
 def run_git(root: Path, *args: str, input_bytes: bytes | None = None) -> bytes:
+    started = time.perf_counter()
+    GIT_METRICS["processes"] += 1
     try:
         return subprocess.check_output(
-            ["git", "-C", str(root), *args],
+            # Evidence must be local and bound to the requested object IDs.
+            # Unsupported Git versions fail closed on these explicit options.
+            ["git", "--no-lazy-fetch", "--no-replace-objects", "-C", str(root), *args],
             input=input_bytes,
             stderr=subprocess.PIPE,
         )
     except subprocess.CalledProcessError as exc:
         detail = exc.stderr.decode("utf-8", "replace").strip()
         raise DomainError(f"git {' '.join(args)} failed: {detail}") from exc
+    finally:
+        GIT_METRICS["seconds"] += time.perf_counter() - started
+
+
+def read_blob_objects(root: Path, object_ids: Iterable[str]) -> dict[str, bytes]:
+    """Read raw blobs in one Git process, preserving exact byte boundaries.
+
+    Communicate through subprocess.check_output so input, output and stderr are
+    drained without a pipe deadlock. Only object IDs enter the batch protocol;
+    paths, filters and symlink traversal are never interpreted by cat-file.
+    Deduplication is confined to this acquisition, including mutable indexes.
+    """
+    requested = list(object_ids)
+    if any(not isinstance(oid, str) or not FULL_COMMIT_RE.fullmatch(oid) for oid in requested):
+        raise DomainError("blob request requires full lower-case object IDs")
+    unique = list(dict.fromkeys(requested))
+    if not unique:
+        return {}
+    GIT_METRICS["blob_requests"] += len(requested)
+    GIT_METRICS["unique_blob_reads"] += len(unique)
+    GIT_METRICS["duplicate_blob_reads_avoided"] += len(requested) - len(unique)
+    raw = run_git(root, "cat-file", "--batch", input_bytes=("\n".join(unique) + "\n").encode("ascii"))
+    stream = io.BytesIO(raw)
+    blobs: dict[str, bytes] = {}
+    for oid in unique:
+        header = stream.readline()
+        match = re.fullmatch(rb"([0-9a-f]{40}|[0-9a-f]{64}) blob (0|[1-9][0-9]*)\n", header)
+        if match is None or match[1].decode("ascii") != oid:
+            raise DomainError("missing, nonblob or mismatched Git batch object")
+        size = int(match[2])
+        if size > len(raw):
+            raise DomainError("truncated Git batch blob response")
+        data = stream.read(size)
+        if len(data) != size or stream.read(1) != b"\n":
+            raise DomainError("truncated Git batch blob response")
+        digest = hashlib.new("sha1" if len(oid) == 40 else "sha256")
+        digest.update(b"blob " + str(size).encode("ascii") + b"\0")
+        digest.update(data)
+        if digest.hexdigest() != oid:
+            raise DomainError("Git batch blob bytes do not match the requested object ID")
+        blobs[oid] = data
+        GIT_METRICS["blob_bytes"] += size
+    if stream.read(1):
+        raise DomainError("unexpected trailing Git batch output")
+    return blobs
 
 
 @dataclass(frozen=True)
@@ -374,7 +428,9 @@ class GitSnapshot:
         self.entries = dict(entries)
 
     @classmethod
-    def from_commit(cls, root: Path, commit: str) -> "GitSnapshot":
+    def from_commit(
+        cls, root: Path, commit: str, *, paths: Iterable[str] | None = None
+    ) -> "GitSnapshot":
         if not FULL_COMMIT_RE.fullmatch(commit):
             raise DomainError("basis commit must be a full lower-case 40- or 64-hex object ID")
         object_format = run_git(root, "rev-parse", "--show-object-format").decode().strip()
@@ -383,35 +439,57 @@ class GitSnapshot:
             raise DomainError(f"basis commit length does not match repository object format {object_format}")
         if run_git(root, "cat-file", "-t", commit).decode().strip() != "commit":
             raise DomainError("basis object is not a commit")
-        raw = run_git(root, "ls-tree", "-r", "-z", "--full-tree", commit)
-        entries: dict[str, SnapshotEntry] = {}
+        # A seal needs exact named historical blobs, not the whole corpus.
+        # Literal pathspecs and the exact membership filter also handle names
+        # containing Git pathspec syntax without selecting siblings/children.
+        selected = None if paths is None else set(paths)
+        if selected is not None:
+            for path in selected:
+                validate_repository_path(path)
+        raw = (
+            b"" if selected == set() else run_git(
+                root, "--literal-pathspecs", "ls-tree", "-r", "-z", "--full-tree", commit,
+                *([] if selected is None else ["--", *sorted(selected)]),
+            )
+        )
+        rows = []
         for item in raw.split(b"\0"):
             if not item:
                 continue
             metadata, raw_path = item.split(b"\t", 1)
-            mode, kind, _oid = metadata.decode("ascii").split(" ")
+            mode, kind, oid = metadata.decode("ascii").split(" ")
             path = raw_path.decode("utf-8", "strict")
-            if kind == "blob":
-                data = run_git(root, "show", f"{commit}:{path}")
-                entries[path] = SnapshotEntry(path, mode, data)
-            else:
-                entries[path] = SnapshotEntry(path, mode, b"")
+            if selected is not None and path not in selected:
+                continue
+            rows.append((path, mode, kind, oid))
+        blobs = read_blob_objects(root, (oid for _, _, kind, oid in rows if kind == "blob"))
+        entries = {
+            path: SnapshotEntry(path, mode, blobs[oid] if kind == "blob" else b"")
+            for path, mode, kind, oid in rows
+        }
         return cls(root, commit, entries)
 
     @classmethod
     def from_index(cls, root: Path) -> "GitSnapshot":
         raw = run_git(root, "ls-files", "--stage", "-z")
-        entries: dict[str, SnapshotEntry] = {}
+        rows = []
         for item in raw.split(b"\0"):
             if not item:
                 continue
             metadata, raw_path = item.split(b"\t", 1)
-            mode, _oid, stage = metadata.decode("ascii").split(" ")
+            mode, oid, stage = metadata.decode("ascii").split(" ")
             path = raw_path.decode("utf-8", "strict")
             if stage != "0":
                 raise DomainError(f"unmerged index entry: {path}")
-            data = run_git(root, "show", f":{path}") if mode in {"100644", "100755", "120000"} else b""
-            entries[path] = SnapshotEntry(path, mode, data)
+            rows.append((path, mode, oid))
+        blob_modes = {"100644", "100755", "120000"}
+        blobs = read_blob_objects(root, (oid for _, mode, oid in rows if mode in blob_modes))
+        if run_git(root, "ls-files", "--stage", "-z") != raw:
+            raise DomainError("Git index changed during snapshot acquisition")
+        entries = {
+            path: SnapshotEntry(path, mode, blobs[oid] if mode in blob_modes else b"")
+            for path, mode, oid in rows
+        }
         return cls(root, "INDEX", entries)
 
     @classmethod
@@ -1124,99 +1202,329 @@ def resolve_evidence_entries(
     return entries
 
 
-def validate_reconstruction_assessments(
+RECONSTRUCTION_REGISTRY_PATH = "characters/reconstruction_capabilities.jsonl"
+RECONSTRUCTION_INDEX_PATH = "characters/CHARACTER_RECONSTRUCTION_INDEX.md"
+RECONSTRUCTION_SCHEMA_PATH = (
+    "governance/schemas/character-reconstruction-capability.schema.json"
+)
+RECONSTRUCTION_POLICY_PATH = (
+    "governance/repository-controls/reconstruction-capability-policy.json"
+)
+RECONSTRUCTION_POLICY_SCHEMA = (
+    "anime-manga-ln-games-analysis/reconstruction-capability-policy/v1"
+)
+RECONSTRUCTION_PUBLICATION_PHASES = frozenset({"CALIBRATION", "ROUTINE"})
+DISCOVERY_INPUT_PATHS = {
+    "registry": "characters/registry.jsonl",
+    "schema": "governance/schemas/character-analysis-index.schema.json",
+    "series": "series/registry.json",
+}
+HISTORICAL_ASSESSMENT_STATUSES = frozenset({"STALE", "SUPERSEDED"})
+CURRENT_CLAIM_STATUSES = frozenset({"CANDIDATE", "REVIEWED"})
+# Published claims are immutable. Only the lifecycle fields below may change,
+# and only along these edges; any other revision is a new superseding record.
+ASSESSMENT_TRANSITIONS = {
+    "UNASSESSED": frozenset(),
+    "CANDIDATE": frozenset({"REVIEWED", "STALE", "SUPERSEDED"}),
+    "REVIEWED": frozenset({"STALE", "SUPERSEDED"}),
+    "STALE": frozenset({"SUPERSEDED"}),
+    "SUPERSEDED": frozenset(),
+}
+ASSESSMENT_LIFECYCLE_FIELDS = frozenset(
+    {"assessment_status", "stale_reason", "superseded_by_assessment_id"}
+)
+# Derived, never stored: the present applicability of a recorded assessment.
+EFFECTIVE_CURRENT_STATES = frozenset({"CURRENT_REVIEWED", "CURRENT_PROVISIONAL"})
+
+
+def load_discovery_snapshot_records(selected: GitSnapshot) -> list[dict[str, Any]]:
+    """Return the fully validated discovery registry of one exact snapshot."""
+
+    entries = {name: selected.get(path) for name, path in DISCOVERY_INPUT_PATHS.items()}
+    invalid = [
+        path
+        for name, path in DISCOVERY_INPUT_PATHS.items()
+        if entries[name] is None
+        or entries[name].mode != "100644"
+        or not entries[name].tracked
+    ]
+    if invalid:
+        raise DomainError(
+            f"{selected.identity}: basis discovery inputs are unavailable as regular tracked blobs: {invalid}"
+        )
+    records_with_lines = decode_jsonl_with_lines(
+        entries["registry"].data,  # type: ignore[union-attr]
+        f"{selected.identity}:characters/registry.jsonl",
+    )
+    records_at_snapshot = [record for _line_number, record in records_with_lines]
+    schema = decode_json(
+        entries["schema"].data,  # type: ignore[union-attr]
+        f"{selected.identity}:character-analysis-index.schema.json",
+    )
+    series_registry = decode_json(
+        entries["series"].data,  # type: ignore[union-attr]
+        f"{selected.identity}:series/registry.json",
+    )
+    if not isinstance(schema, dict) or not isinstance(series_registry, dict):
+        raise DomainError(f"{selected.identity}: invalid basis discovery schema/series registry")
+    validate_schema_document(schema, f"{selected.identity}: discovery schema")
+    diagnostics: list[SchemaDiagnostic] = []
+    for line_number, record_at_snapshot in records_with_lines:
+        diagnostics.extend(
+            schema_diagnostics(
+                record_at_snapshot,
+                schema,
+                "characters/registry.jsonl",
+                line_number=line_number,
+            )
+        )
+    failures = render_schema_diagnostics(diagnostics)
+    if failures:
+        raise DomainError(
+            f"{selected.identity}: invalid basis discovery registry schema: "
+            + " | ".join(failures)
+        )
+    basis_authority = AuthorityGraph(selected)
+    failures.extend(basis_authority.errors)
+    failures.extend(
+        validate_discovery_records(
+            records_at_snapshot,
+            series_registry,
+            snapshot=selected,
+            authority=basis_authority,
+        )
+    )
+    if failures:
+        raise DomainError(
+            f"{selected.identity}: invalid basis discovery registry: "
+            + " | ".join(sorted(set(failures), key=lambda item: item.encode("utf-8")))
+        )
+    return records_at_snapshot
+
+
+@dataclass(frozen=True)
+class AssessmentCurrentness:
+    """Derived present applicability of one recorded assessment.
+
+    The recorded ``assessment_status`` is historical publication state. This
+    object is computed against a comparison snapshot and is never stored.
+    """
+
+    assessment_id: str
+    analysis_subject_id: str
+    recorded_status: str
+    effective_state: str
+    reasons: tuple[str, ...]
+
+    @property
+    def effectively_current(self) -> bool:
+        return self.effective_state in EFFECTIVE_CURRENT_STATES
+
+    def as_json(self) -> dict[str, Any]:
+        return {
+            "analysis_subject_id": self.analysis_subject_id,
+            "assessment_id": self.assessment_id,
+            "effective_state": self.effective_state,
+            "reasons": list(self.reasons),
+            "recorded_status": self.recorded_status,
+        }
+
+
+@dataclass
+class ReconstructionEvaluation:
+    errors: list[str]
+    # Indexed by registry position; populated only for records whose basis resolved.
+    basis_entries: dict[int, tuple[dict[str, Any], ...]]
+    basis_records: dict[int, Mapping[str, Any]]
+    # Indexed by registry position; populated only when a comparison is supplied.
+    currentness: dict[int, AssessmentCurrentness]
+
+
+def subject_scope_projection(record: Mapping[str, Any]) -> tuple[Any, ...]:
+    components = record.get("component_subject_ids") or []
+    return (
+        record.get("character_entity_id"),
+        record.get("series_id"),
+        record.get("franchise_id"),
+        record.get("subject_kind"),
+        record.get("continuity_id"),
+        record.get("incarnation_id"),
+        record.get("state_id"),
+        tuple(sorted(str(item) for item in components)),
+    )
+
+
+def reviewed_evidence_membership(record: Mapping[str, Any]) -> frozenset[tuple[Any, ...]]:
+    return frozenset(
+        (item.get("evidence_id"), item.get("repository_path"), item.get("anchor"))
+        for item in record.get("evidence", [])
+        if isinstance(item, Mapping) and item.get("review_state") == "REVIEWED"
+    )
+
+
+def coverage_projection(record: Mapping[str, Any]) -> bytes:
+    coverage = [item for item in record.get("analytical_coverage", []) if isinstance(item, Mapping)]
+    coverage.sort(key=lambda item: str(item.get("coverage_id", "")).encode("utf-8"))
+    return json.dumps(coverage, ensure_ascii=False, sort_keys=True, separators=(",", ":")).encode(
+        "utf-8"
+    )
+
+
+def assessment_currentness_reasons(
+    basis_record: Mapping[str, Any],
+    basis_entries: Sequence[Mapping[str, Any]],
+    comparison: GitSnapshot,
+    comparison_record: Mapping[str, Any] | None,
+    comparison_authority: AuthorityGraph,
+) -> tuple[str, ...]:
+    """Material differences between an assessment basis and a comparison snapshot.
+
+    Only the assessed subject's discovery row and the exact referenced evidence
+    are consulted, so unrelated repository changes never cause staleness.
+    """
+
+    if comparison_record is None:
+        return ("SUBJECT_ABSENT",)
+    reasons: set[str] = set()
+    if subject_scope_projection(comparison_record) != subject_scope_projection(basis_record):
+        reasons.add("SUBJECT_SCOPE_CHANGED")
+    if comparison_record.get("curation_status") != basis_record.get("curation_status"):
+        reasons.add("SUBJECT_CURATION_CHANGED")
+    if comparison_record.get("curation_status") != "INCLUDED":
+        reasons.add("SUBJECT_NOT_INCLUDED")
+    if coverage_projection(comparison_record) != coverage_projection(basis_record):
+        reasons.add("SUBJECT_COVERAGE_CHANGED")
+    if reviewed_evidence_membership(comparison_record) != reviewed_evidence_membership(
+        basis_record
+    ):
+        reasons.add("EVIDENCE_MEMBERSHIP_CHANGED")
+    current_evidence = {
+        item.get("evidence_id"): item
+        for item in comparison_record.get("evidence", [])
+        if isinstance(item, Mapping)
+    }
+    comparison_entries: list[dict[str, Any]] = []
+    for entry in basis_entries:
+        item = current_evidence.get(entry["evidence_id"])
+        if item is None or item.get("review_state") != "REVIEWED":
+            reasons.add("EVIDENCE_UNRESOLVED")
+            continue
+        path = item.get("repository_path")
+        anchor = item.get("anchor")
+        if path != entry["repository_path"] or anchor != entry["anchor"]:
+            reasons.add("EVIDENCE_LOCATION_CHANGED")
+            continue
+        target = comparison.get(path)
+        if target is None or not target.qualifies_as_evidence:
+            reasons.add("EVIDENCE_TARGET_MISSING")
+            continue
+        artifact_hash = hashlib.sha256(target.data).hexdigest()
+        if artifact_hash != entry["artifact_sha256"]:
+            reasons.add("EVIDENCE_BYTES_CHANGED")
+        if not comparison_authority.current_eligible(path):
+            reasons.add("EVIDENCE_AUTHORITY_NONCURRENT")
+        comparison_entries.append({**entry, "artifact_sha256": artifact_hash})
+    if not reasons:
+        # Defense in depth: the frozen digest must also agree at the comparison.
+        try:
+            if evidence_set_digest(comparison_entries)[0] != evidence_set_digest(basis_entries)[0]:
+                reasons.add("EVIDENCE_SET_DIGEST_CHANGED")
+        except DomainError:
+            reasons.add("EVIDENCE_SET_DIGEST_CHANGED")
+    return tuple(sorted(reasons))
+
+
+def _effective_state(recorded_status: Any, reasons: Sequence[str]) -> str:
+    if recorded_status == "STALE":
+        return "RECORDED_STALE"
+    if recorded_status == "SUPERSEDED":
+        return "RECORDED_SUPERSEDED"
+    if recorded_status == "UNASSESSED":
+        return "RECORDED_UNASSESSED"
+    if reasons:
+        return "EFFECTIVELY_STALE"
+    return "CURRENT_REVIEWED" if recorded_status == "REVIEWED" else "CURRENT_PROVISIONAL"
+
+
+def is_ancestor_commit(repository: Path, ancestor: str, descendant: str) -> bool:
+    if not FULL_COMMIT_RE.fullmatch(ancestor) or not FULL_COMMIT_RE.fullmatch(descendant):
+        raise DomainError("ancestry checks require full lower-case commit object IDs")
+    completed = subprocess.run(
+        ["git", "--no-lazy-fetch", "--no-replace-objects", "-C", str(repository), "merge-base", "--is-ancestor", ancestor, descendant],
+        stdout=subprocess.PIPE,
+        stderr=subprocess.PIPE,
+    )
+    if completed.returncode == 0:
+        return True
+    if completed.returncode == 1:
+        return False
+    detail = completed.stderr.decode("utf-8", "replace").strip()
+    raise DomainError(f"unable to verify basis commit ancestry: {detail}")
+
+
+def evaluate_reconstruction_assessments(
     assessments: Sequence[Mapping[str, Any]],
-    records: Sequence[Mapping[str, Any]],
     repository: Path,
     *,
-    comparison_commit: str | None = None,
-) -> list[str]:
-    """Validate cross-file reconstruction semantics not expressible in JSON Schema."""
+    comparison: GitSnapshot | None = None,
+    comparison_records: Sequence[Mapping[str, Any]] | None = None,
+    comparison_authority: AuthorityGraph | None = None,
+    basis_ancestor_of: str | None = None,
+) -> ReconstructionEvaluation:
+    """Separate historical validity from derived effective currentness.
+
+    ``errors`` covers facts that must hold at each assessment's own basis
+    commit: record-local claim structure, exact claim unions, basis discovery
+    binding and scope, raw artifact hashes, the evidence-set digest, basis
+    authority, reciprocal supersession and, when requested, basis ancestry.
+    Those facts never change after publication, so a historically valid
+    assessment remains reproducible.
+
+    When ``comparison`` is supplied, ``currentness`` records whether each
+    CANDIDATE or REVIEWED assessment still applies to that snapshot. A stale
+    result is not an error here: callers decide whether it blocks a change.
+    """
 
     errors: list[str] = []
-    by_subject: dict[str, Mapping[str, Any]] = {}
-    for record_index, record in enumerate(records):
-        subject_id = record.get("analysis_subject_id")
-        if not isinstance(subject_id, str):
-            errors.append(f"comparison discovery record[{record_index}] has no valid analysis_subject_id")
-            continue
-        if subject_id in by_subject:
-            errors.append(f"duplicate comparison discovery analysis_subject_id: {subject_id}")
-        by_subject[subject_id] = record
+    basis_entries: dict[int, tuple[dict[str, Any], ...]] = {}
+    basis_records: dict[int, Mapping[str, Any]] = {}
+    currentness: dict[int, AssessmentCurrentness] = {}
     by_assessment: dict[str, Mapping[str, Any]] = {}
     snapshot_cache: dict[str, GitSnapshot] = {}
+    basis_record_cache: dict[str, list[dict[str, Any]]] = {}
+    basis_authority_cache: dict[str, AuthorityGraph] = {}
+    ancestry_cache: dict[str, bool] = {}
 
     def snapshot(commit: str) -> GitSnapshot:
         if commit not in snapshot_cache:
             snapshot_cache[commit] = GitSnapshot.from_commit(repository, commit)
         return snapshot_cache[commit]
 
-    def snapshot_records(selected: GitSnapshot) -> list[dict[str, Any]]:
-        required = {
-            "registry": "characters/registry.jsonl",
-            "schema": "governance/schemas/character-analysis-index.schema.json",
-            "series": "series/registry.json",
-        }
-        entries = {name: selected.get(path) for name, path in required.items()}
-        invalid = [
-            path
-            for name, path in required.items()
-            if entries[name] is None
-            or entries[name].mode != "100644"
-            or not entries[name].tracked
-        ]
-        if invalid:
-            raise DomainError(
-                f"{selected.identity}: basis discovery inputs are unavailable as regular tracked blobs: {invalid}"
-            )
-        records_with_lines = decode_jsonl_with_lines(
-            entries["registry"].data,  # type: ignore[union-attr]
-            f"{selected.identity}:characters/registry.jsonl",
-        )
-        records_at_snapshot = [record for _line_number, record in records_with_lines]
-        schema = decode_json(
-            entries["schema"].data,  # type: ignore[union-attr]
-            f"{selected.identity}:character-analysis-index.schema.json",
-        )
-        series_registry = decode_json(
-            entries["series"].data,  # type: ignore[union-attr]
-            f"{selected.identity}:series/registry.json",
-        )
-        if not isinstance(schema, dict) or not isinstance(series_registry, dict):
-            raise DomainError(f"{selected.identity}: invalid basis discovery schema/series registry")
-        validate_schema_document(schema, f"{selected.identity}: discovery schema")
-        diagnostics: list[SchemaDiagnostic] = []
-        for line_number, record_at_snapshot in records_with_lines:
-            diagnostics.extend(
-                schema_diagnostics(
-                    record_at_snapshot,
-                    schema,
-                    "characters/registry.jsonl",
-                    line_number=line_number,
-                )
-            )
-        failures = render_schema_diagnostics(diagnostics)
-        if failures:
-            raise DomainError(
-                f"{selected.identity}: invalid basis discovery registry schema: "
-                + " | ".join(failures)
-            )
-        basis_authority = AuthorityGraph(selected)
-        failures.extend(basis_authority.errors)
-        failures.extend(
-            validate_discovery_records(
-                records_at_snapshot,
-                series_registry,
-                snapshot=selected,
-                authority=basis_authority,
-            )
-        )
-        if failures:
-            raise DomainError(
-                f"{selected.identity}: invalid basis discovery registry: "
-                + " | ".join(sorted(set(failures), key=lambda item: item.encode("utf-8")))
-            )
-        return records_at_snapshot
+    def records_at(commit: str) -> list[dict[str, Any]]:
+        if commit not in basis_record_cache:
+            basis_record_cache[commit] = load_discovery_snapshot_records(snapshot(commit))
+        return basis_record_cache[commit]
+
+    def authority_at(commit: str) -> AuthorityGraph:
+        if commit not in basis_authority_cache:
+            basis_authority_cache[commit] = AuthorityGraph(snapshot(commit))
+        return basis_authority_cache[commit]
+
+    comparison_by_subject: dict[str, Mapping[str, Any]] | None = None
+    comparison_failure: str | None = None
+    if comparison is not None and assessments:
+        try:
+            if comparison_records is None:
+                comparison_records = load_discovery_snapshot_records(comparison)
+            comparison_by_subject = {}
+            for record in comparison_records:
+                subject = record.get("analysis_subject_id")
+                if isinstance(subject, str):
+                    comparison_by_subject[subject] = record
+            if comparison_authority is None:
+                comparison_authority = AuthorityGraph(comparison)
+        except DomainError as exc:
+            comparison_failure = str(exc)
 
     for index, assessment in enumerate(assessments):
         label = f"assessment[{index}]"
@@ -1227,31 +1535,10 @@ def validate_reconstruction_assessments(
             by_assessment[assessment_id] = assessment
         subject_id = assessment.get("analysis_subject_id")
         status = assessment.get("assessment_status")
-        record = by_subject.get(subject_id) if isinstance(subject_id, str) else None
-        if status not in {"STALE", "SUPERSEDED"}:
-            if record is None:
-                errors.append(f"{label}: unresolved current analysis_subject_id {subject_id!r}")
-                continue
-            if assessment.get("character_entity_id") != record.get("character_entity_id"):
-                errors.append(f"{label}: character_entity_id differs from discovery record")
         scope = assessment.get("assessment_scope", {})
         if not isinstance(scope, dict):
             errors.append(f"{label}: assessment_scope is not an object")
             continue
-        if status not in {"STALE", "SUPERSEDED"}:
-            for field in ("continuity_id", "incarnation_id", "state_id"):
-                if scope.get(field) != record.get(field):
-                    errors.append(f"{label}: assessment_scope.{field} differs from discovery record")
-            if record.get("subject_kind") == "COMPOSITE_MODEL":
-                if sorted(scope.get("component_subject_ids", [])) != sorted(
-                    record.get("component_subject_ids", [])
-                ):
-                    errors.append(
-                        f"{label}: composite assessment component_subject_ids must exactly equal "
-                        "the canonical component set"
-                    )
-            elif "component_subject_ids" in scope:
-                errors.append(f"{label}: non-composite assessment stores component_subject_ids")
 
         claimed: set[str] = set()
         dimensions = assessment.get("dimensions", [])
@@ -1310,7 +1597,7 @@ def validate_reconstruction_assessments(
         except DomainError as exc:
             errors.append(f"{label}: {exc}")
             continue
-        if status in {"CANDIDATE", "REVIEWED"} and not top_refs:
+        if status in CURRENT_CLAIM_STATUSES and not top_refs:
             errors.append(f"{label}: {status} requires a nonempty evidence union")
         if status == "UNASSESSED" and top_refs:
             errors.append(f"{label}: UNASSESSED requires an empty evidence union")
@@ -1320,9 +1607,18 @@ def validate_reconstruction_assessments(
             continue
         try:
             basis = snapshot(basis_commit)
-            basis_records = snapshot_records(basis)
+            if basis_ancestor_of is not None:
+                if basis_commit not in ancestry_cache:
+                    ancestry_cache[basis_commit] = is_ancestor_commit(
+                        repository, basis_commit, basis_ancestor_of
+                    )
+                if not ancestry_cache[basis_commit]:
+                    raise DomainError(
+                        f"basis_commit {basis_commit} is not an ancestor of the integrated "
+                        f"history {basis_ancestor_of}"
+                    )
             basis_by_subject = {
-                item["analysis_subject_id"]: item for item in basis_records
+                item["analysis_subject_id"]: item for item in records_at(basis_commit)
             }
             basis_record = basis_by_subject.get(subject_id)
             if basis_record is None:
@@ -1331,6 +1627,8 @@ def validate_reconstruction_assessments(
                 )
             if assessment.get("character_entity_id") != basis_record.get("character_entity_id"):
                 errors.append(f"{label}: character_entity_id differs from basis discovery record")
+            if status in CURRENT_CLAIM_STATUSES and basis_record.get("curation_status") != "INCLUDED":
+                errors.append(f"{label}: {status} requires an INCLUDED basis discovery subject")
             for field in ("continuity_id", "incarnation_id", "state_id"):
                 if scope.get(field) != basis_record.get(field):
                     errors.append(
@@ -1347,7 +1645,7 @@ def validate_reconstruction_assessments(
                 errors.append(
                     f"{label}: non-composite basis subject cannot have component_subject_ids"
                 )
-            entries = resolve_evidence_entries(top_refs, basis_records, basis)
+            entries = resolve_evidence_entries(top_refs, records_at(basis_commit), basis)
             digest, _serialized = evidence_set_digest(entries)
             if scope.get("evidence_set_algorithm") != EVIDENCE_SET_ALGORITHM:
                 errors.append(f"{label}: invalid evidence_set_algorithm")
@@ -1356,7 +1654,7 @@ def validate_reconstruction_assessments(
                     f"{label}: evidence_set_sha256 mismatch; declared="
                     f"{scope.get('evidence_set_sha256')}, derived={digest}"
                 )
-            basis_authority = AuthorityGraph(basis)
+            basis_authority = authority_at(basis_commit)
             errors.extend(f"{label}: basis authority: {item}" for item in basis_authority.errors)
             if status == "REVIEWED":
                 for reference, entry in zip(top_refs, entries):
@@ -1364,42 +1662,34 @@ def validate_reconstruction_assessments(
                         errors.append(
                             f"{label}: REVIEWED basis evidence is not current eligible: {reference}"
                         )
-            if comparison_commit is not None:
-                comparison = snapshot(comparison_commit)
-                current_authority = AuthorityGraph(comparison)
-                comparison_stale = any(
-                    not current_authority.current_eligible(entry["repository_path"])
-                    for entry in entries
-                )
-                try:
-                    comparison_records = snapshot_records(comparison)
-                    comparison_entries = resolve_evidence_entries(
-                        top_refs, comparison_records, comparison
-                    )
-                    comparison_digest, _ = evidence_set_digest(comparison_entries)
-                    comparison_stale = comparison_stale or comparison_digest != digest
-                    comparison_record = {
-                        item["analysis_subject_id"]: item for item in comparison_records
-                    }.get(subject_id)
-                    if comparison_record is None:
-                        comparison_stale = True
-                    else:
-                        comparison_stale = comparison_stale or any(
-                            scope.get(field) != comparison_record.get(field)
-                            for field in ("continuity_id", "incarnation_id", "state_id")
-                        )
-                        if comparison_record.get("subject_kind") == "COMPOSITE_MODEL":
-                            comparison_stale = comparison_stale or sorted(
-                                scope.get("component_subject_ids", [])
-                            ) != sorted(comparison_record.get("component_subject_ids", []))
-                except DomainError:
-                    comparison_stale = True
-                if comparison_stale and status == "REVIEWED":
-                    errors.append(
-                        f"{label}: assessment is REVIEWED but current comparison requires STALE"
-                    )
+            basis_entries[index] = tuple(entries)
+            basis_records[index] = basis_record
         except DomainError as exc:
             errors.append(f"{label}: {exc}")
+
+        if comparison is not None and isinstance(assessment_id, str) and isinstance(subject_id, str):
+            if status in CURRENT_CLAIM_STATUSES:
+                if comparison_failure is not None:
+                    reasons: tuple[str, ...] = ("COMPARISON_UNAVAILABLE",)
+                elif index not in basis_entries:
+                    reasons = ("BASIS_UNVERIFIED",)
+                else:
+                    reasons = assessment_currentness_reasons(
+                        basis_records[index],
+                        basis_entries[index],
+                        comparison,
+                        comparison_by_subject.get(subject_id),  # type: ignore[union-attr]
+                        comparison_authority,  # type: ignore[arg-type]
+                    )
+            else:
+                reasons = ()
+            currentness[index] = AssessmentCurrentness(
+                assessment_id=assessment_id,
+                analysis_subject_id=subject_id,
+                recorded_status=str(status),
+                effective_state=_effective_state(status, reasons),
+                reasons=reasons,
+            )
 
     outgoing: dict[str, str] = {}
 
@@ -1452,7 +1742,213 @@ def validate_reconstruction_assessments(
                 break
             seen.add(node)
             node = outgoing[node]
+    return ReconstructionEvaluation(
+        errors=sorted(set(errors), key=lambda item: item.encode("utf-8")),
+        basis_entries=basis_entries,
+        basis_records=basis_records,
+        currentness=currentness,
+    )
+
+
+def validate_reconstruction_assessments(
+    assessments: Sequence[Mapping[str, Any]],
+    records: Sequence[Mapping[str, Any]],
+    repository: Path,
+    *,
+    comparison_commit: str | None = None,
+) -> list[str]:
+    """Strict certification: historical validity plus present currentness.
+
+    ``records`` is the comparison discovery registry. Every CANDIDATE or
+    REVIEWED record must agree with it, and when ``comparison_commit`` is
+    supplied a REVIEWED record that is no longer effectively current fails.
+    This is the gate for newly published or promoted claims; repository-wide
+    validation of untouched historical records uses
+    ``evaluate_reconstruction_assessments`` so delayed evaluator maintenance
+    never blocks unrelated publication.
+    """
+
+    errors: list[str] = []
+    by_subject: dict[str, Mapping[str, Any]] = {}
+    for record_index, record in enumerate(records):
+        subject_id = record.get("analysis_subject_id")
+        if not isinstance(subject_id, str):
+            errors.append(f"comparison discovery record[{record_index}] has no valid analysis_subject_id")
+            continue
+        if subject_id in by_subject:
+            errors.append(f"duplicate comparison discovery analysis_subject_id: {subject_id}")
+        by_subject[subject_id] = record
+    for index, assessment in enumerate(assessments):
+        label = f"assessment[{index}]"
+        status = assessment.get("assessment_status")
+        if status in HISTORICAL_ASSESSMENT_STATUSES:
+            continue
+        subject_id = assessment.get("analysis_subject_id")
+        record = by_subject.get(subject_id) if isinstance(subject_id, str) else None
+        if record is None:
+            errors.append(f"{label}: unresolved current analysis_subject_id {subject_id!r}")
+            continue
+        if assessment.get("character_entity_id") != record.get("character_entity_id"):
+            errors.append(f"{label}: character_entity_id differs from discovery record")
+        scope = assessment.get("assessment_scope", {})
+        if not isinstance(scope, dict):
+            continue
+        for field in ("continuity_id", "incarnation_id", "state_id"):
+            if scope.get(field) != record.get(field):
+                errors.append(f"{label}: assessment_scope.{field} differs from discovery record")
+        if record.get("subject_kind") == "COMPOSITE_MODEL":
+            if sorted(scope.get("component_subject_ids", [])) != sorted(
+                record.get("component_subject_ids", [])
+            ):
+                errors.append(
+                    f"{label}: composite assessment component_subject_ids must exactly equal "
+                    "the canonical component set"
+                )
+        elif "component_subject_ids" in scope:
+            errors.append(f"{label}: non-composite assessment stores component_subject_ids")
+    comparison: GitSnapshot | None = None
+    if comparison_commit is not None:
+        try:
+            comparison = GitSnapshot.from_commit(repository, comparison_commit)
+        except DomainError as exc:
+            errors.append(f"comparison commit: {exc}")
+    evaluation = evaluate_reconstruction_assessments(
+        assessments, repository, comparison=comparison
+    )
+    errors.extend(evaluation.errors)
+    for index, item in evaluation.currentness.items():
+        if item.recorded_status == "REVIEWED" and not item.effectively_current:
+            errors.append(
+                f"assessment[{index}]: assessment is REVIEWED but current comparison requires STALE"
+            )
     return sorted(set(errors), key=lambda item: item.encode("utf-8"))
+
+
+def decode_reconstruction_registry(data: bytes, label: str) -> list[tuple[int, dict[str, Any]]]:
+    """Decode the production registry with its deterministic layout contract."""
+
+    records = decode_jsonl_with_lines(data, label)
+    if data and not data.endswith(b"\n"):
+        raise DomainError(f"{label}: a nonempty registry must end with LF")
+    if any(not line.strip() for line in data.split(b"\n")[:-1]):
+        raise DomainError(f"{label}: blank lines are prohibited")
+    identifiers = [record.get("assessment_id") for _line, record in records]
+    if any(not isinstance(item, str) for item in identifiers):
+        return records
+    if len(identifiers) != len(set(identifiers)):
+        raise DomainError(f"{label}: assessment_id values must be unique")
+    if identifiers != sorted(identifiers, key=lambda item: item.encode("ascii")):  # type: ignore[union-attr]
+        raise DomainError(f"{label}: records must be ordered by ASCII assessment_id")
+    return records
+
+
+def _frozen_claim_payload(record: Mapping[str, Any]) -> bytes:
+    return json.dumps(
+        {key: value for key, value in record.items() if key not in ASSESSMENT_LIFECYCLE_FIELDS},
+        ensure_ascii=False,
+        sort_keys=True,
+        separators=(",", ":"),
+    ).encode("utf-8")
+
+
+def reconstruction_registry_changes(
+    base_records: Sequence[Mapping[str, Any]],
+    candidate_records: Sequence[Mapping[str, Any]],
+) -> tuple[set[str], list[str]]:
+    """Return touched assessment IDs and historical-preservation failures.
+
+    A record first enters as CANDIDATE, so historical statuses arise only from
+    validated transitions. A published record is never deleted and its claim
+    payload never changes. Only the lifecycle fields may move along
+    ``ASSESSMENT_TRANSITIONS``.
+    """
+
+    errors: list[str] = []
+    base = {
+        record["assessment_id"]: record
+        for record in base_records
+        if isinstance(record.get("assessment_id"), str)
+    }
+    candidate = {
+        record["assessment_id"]: record
+        for record in candidate_records
+        if isinstance(record.get("assessment_id"), str)
+    }
+    touched: set[str] = set()
+    for assessment_id in sorted(set(base) - set(candidate)):
+        errors.append(f"published assessment was removed: {assessment_id}")
+    for assessment_id, record in candidate.items():
+        previous = base.get(assessment_id)
+        if previous is None:
+            touched.add(assessment_id)
+            if record.get("assessment_status") != "CANDIDATE":
+                errors.append(
+                    f"a newly published assessment must enter as CANDIDATE, not "
+                    f"{record.get('assessment_status')}: {assessment_id}"
+                )
+            continue
+        if _frozen_claim_payload(previous) == _frozen_claim_payload(record) and all(
+            previous.get(field) == record.get(field) for field in ASSESSMENT_LIFECYCLE_FIELDS
+        ):
+            continue
+        touched.add(assessment_id)
+        if _frozen_claim_payload(previous) != _frozen_claim_payload(record):
+            errors.append(
+                f"published assessment claims are immutable; supersede instead: {assessment_id}"
+            )
+        before = previous.get("assessment_status")
+        after = record.get("assessment_status")
+        if after != before and after not in ASSESSMENT_TRANSITIONS.get(str(before), frozenset()):
+            errors.append(
+                f"prohibited assessment lifecycle transition {before} -> {after}: {assessment_id}"
+            )
+        if after == before:
+            errors.append(
+                f"lifecycle fields changed without a status transition: {assessment_id}"
+            )
+    return touched, errors
+
+
+def load_reconstruction_policy(snapshot: GitSnapshot) -> tuple[str | None, list[str]]:
+    """Validate the machine-readable publication gate and return its phase."""
+
+    entry = snapshot.get(RECONSTRUCTION_POLICY_PATH)
+    if entry is None or not entry.qualifies_as_evidence:
+        return None, [f"missing tracked regular reconstruction policy: {RECONSTRUCTION_POLICY_PATH}"]
+    try:
+        document = decode_json(entry.data, RECONSTRUCTION_POLICY_PATH)
+    except DomainError as exc:
+        return None, [str(exc)]
+    errors: list[str] = []
+    expected_fields = {"schema", "publication_phase", "calibration_acceptance_record"}
+    if not isinstance(document, dict) or set(document) != expected_fields:
+        return None, [f"{RECONSTRUCTION_POLICY_PATH} fields must be exactly {sorted(expected_fields)}"]
+    if document["schema"] != RECONSTRUCTION_POLICY_SCHEMA:
+        errors.append(f"{RECONSTRUCTION_POLICY_PATH}.schema is not recognized")
+    phase = document["publication_phase"]
+    if phase not in RECONSTRUCTION_PUBLICATION_PHASES:
+        errors.append(f"{RECONSTRUCTION_POLICY_PATH}.publication_phase is not recognized")
+        phase = None
+    record = document["calibration_acceptance_record"]
+    if phase == "CALIBRATION" and record is not None:
+        errors.append(
+            f"{RECONSTRUCTION_POLICY_PATH}: the calibration phase has no acceptance record"
+        )
+    if phase == "ROUTINE":
+        if not isinstance(record, str):
+            errors.append(
+                f"{RECONSTRUCTION_POLICY_PATH}: ROUTINE publication requires an owner "
+                "calibration acceptance record"
+            )
+        else:
+            try:
+                validate_repository_path(record, ("governance/reports/",))
+                target = snapshot.get(record)
+                if target is None or not target.qualifies_as_evidence:
+                    raise DomainError(f"calibration acceptance record is not tracked: {record}")
+            except DomainError as exc:
+                errors.append(f"{RECONSTRUCTION_POLICY_PATH}: {exc}")
+    return (phase if not errors else None), errors
 
 
 def _schema_validator_class(schema: Mapping[str, Any], label: str) -> Any:

@@ -4,7 +4,7 @@ artifact_type: ledger
 scope: RECOGNITION_FAILED_RESCUE
 generation: V2
 status: canonical
-source_boundary: Japanese manga V2 reread; currently through Volume 40
+source_boundary: Japanese manga V2 reread; currently through Volume 42
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -3146,3 +3146,68 @@ The endpoint is perceptual evidence about Midoriya, not proof that Shigaraki con
 
 - Yoichi continues to imagine possible kindness in AFO and articulates the benevolent counterfactual for giving/taking.
 - The recognition is morally meaningful without being causally sufficient to reform AFO. V40 therefore blocks any theorem that “seeing the wounded/possible person” guarantees rescue success.
+
+# Volume 41 recognition / failed-rescue updates
+
+## Personhood recognition is necessary but does not generate certainty
+
+- `V41:p019`: Midoriya's `人だよ` refuses to let catastrophic threat erase personhood.
+- The line does **not** prove rescue success, hidden innocence or willingness to be saved. Recognition determines who the moral problem concerns; it does not solve the problem.
+
+## Child recognition must not erase adult recognition
+
+- `V41:p104-112`: Midoriya/Nana encounter the wounded family line; Nana physically interrupts the memory-strike at p110.
+- `V41:p113-123`: adult Shigaraki then insists `僕が…選んだんだ` and defines his League relation through `敵の…ヒーロー`.
+
+**Revision:** a complete rescue model must recognize both Tenko's victimization and Tomura's later chosen relationships/accountability. “Find the child inside” becomes inadequate if it annexes the adult into the rescuer's preferred narrative.
+
+## Rescue still encounters refusal
+
+- No.415 explicitly centers `拒絶`.
+- V41 therefore preserves the ethical friction already present in `余計なお世話`: intervention can be justified without becoming consensual merely because the intervener wants to help.
+
+## AFO — extremely accurate recognition without respect
+
+- AFO knows the Shimura wound, OFA psychology, hatred mechanics and Tenko's developmental vulnerabilities with extraordinary precision (`V41:p129-136`).
+- He uses that recognition to design/manipulate/possess.
+
+**Strong revision:** recognition quality alone is morally insufficient. The recognizer's theory of what knowledge authorizes — care, restraint, intervention, ownership — is decisive.
+
+## Aizawa — recognition under identity uncertainty
+
+- `V41:p147-151`: Aizawa refuses both “Kurogiri is only the constructed villain” and “pure Shirakumo has simply returned.”
+- He recognizes enough continuity to attempt relation while preserving uncertainty about the resulting person.
+
+## The rescuer becomes legibly rescueable
+
+- `V41:p140-176`: Midoriya loses both arms and becomes dependent on classmates, Aizawa, Kurogiri and Eri.
+- `V41:p175`: reciprocal need is stated directly.
+- `V41:p187-188`: Midoriya's visible weakness/need helps other people identify a place for their own agency.
+
+### Current synthesis through V41
+
+> **Recognition reaches maturity when it can see both vulnerability and agency, both origin and later self, and both another person's need and their refusal. V41's strongest failed-recognition figure is AFO, who sees an enormous amount but mistakes being able to explain a person for having the right to own the person.**
+
+
+# Volume 42 cumulative closure
+
+## Tomura: rescue must be scored on separate dimensions
+
+| Dimension | V42 evidence | Final adjudication |
+|---|---|---|
+| Personhood / adult identity | Tomura speaks separately and requests memory under his chosen name (`p018-020`). | Reached without erasure. |
+| Possession | Final AFO trajectory collapses; Tomura describes his recovered body (`p013-020`). | Defeated at the terminal endpoint. |
+| Physical survival | Midoriya says `転弧の命を救ける事は できませんでした` (`p030`). | Life not saved. |
+| Heart / affect | Hatred broken, adult League identity retained; All Might interprets a possibly saved heart (`p030-031`). | Substantial contact; speaker-attributed interpretation, not survival. |
+| Accountability / forgiveness | `やった事を許せはしない だから戦った` (`p019`). | Opposition remains; no absolution. |
+| Rehabilitation | Death closes observed future. | No behavioral evidence of a rehabilitated Tomura. |
+
+The `命`/`心` distinction is source-critical. It is a correction control for misleading summaries, not evidence that the maintained V1 V42 reading literally made the mistranslation.
+
+## Recognition needs limits as well as perception
+
+AFO knows needs and still refuses Yoichi's separateness (`V42:p014-015`); the old woman knows little but enough to approach a distressed child (`p119-123`). High-information recognition can be coercive; limited information can support morally adequate first aid. Neither establishes omniscience or a guarantee of rescue outcome.
+
+## The rescuer can need rescue
+
+`V42:p098-117`: the camera misses Ochako/Toga's ending; private grief persists while society celebrates. Midoriya offers a hand and shared burden. Toya's late sibling apology (`p062-064`) and Chisaki's boss-bound apology (`p082-083`) require separate outcome assessments, not one generic redemption label. Earlier intervention is repeatedly desired, while its counterfactual success remains unprovable.

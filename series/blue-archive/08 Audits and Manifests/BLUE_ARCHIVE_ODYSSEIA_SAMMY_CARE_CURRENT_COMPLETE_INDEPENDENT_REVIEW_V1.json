@@ -1,0 +1,3721 @@
+{
+  "schema": "CARE_CURRENT_COMPLETE_INDEPENDENT_REVIEW_WITH_FROZEN_HISTORY_AND_ROOT_ADOPTION_20261013_V1",
+  "target": "P3-REL-ODYSSEIA-SAMMY-CARE",
+  "composition_author": "receive_last16",
+  "review_authorship_and_scope": "receive_last16: C-only composition/preservation and explicit qualification. Authored none of CARE body, new105 purpose judgments or original independent reviews; no new independent literary/whole-source/whole105 receiving is asserted.",
+  "complete_review_snapshots": {
+    "dated_complete_V2": {
+      "original_review_artifact_id": "INDEPENDENT_CARE_V2_COMPLETE_LITERARY_COMPONENT_AND_AFFECTED_FIELDSET_QA_V1.json",
+      "original_exact_private_beforeimage_tuple": {
+        "bytes": 59852,
+        "sha256": "386c0c6c41bad95edc86d6826ad61021793cd91ec6a94d5f10bb16f879e49541",
+        "git_blob_oid_of_actual_bytes": "b9a9e98d34e9321f7a0a20e502620aa101e00421"
+      },
+      "snapshot_role": "Exact dated review/qualification history; retain decisions and apply current successor explicitly.",
+      "complete_review": {
+        "schema": "INDEPENDENT_CARE_V2_FULL117_ALL41_20_REPORTS_105_TARGET_PURPOSE_AND_EXACT5_RECEIVING_QA_V1",
+        "UTC": "2026-10-13T04:52:11.049249+00:00",
+        "reviewer_role": "Different author from CARE writer receive_middle_remaining; no CARE component edits",
+        "exact_manifest": {
+          "C_path": "private-custody-evidence:CARE_FROZEN_E4898F67B967520C",
+          "bytes": 4657,
+          "sha256": "d59ecca8afd3bb64d6a30aa80d23e7abe5826b877fbc278f0372d66854c63883"
+        },
+        "exact5_components": [
+          {
+            "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_ODYSSEIA_SAMMY_DIRECTED_CARE_RELATIONSHIP_SYNTHESIS.md",
+            "candidate_relative_path": "repository-reference:series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_ODYSSEIA_SAMMY_DIRECTED_CARE_RELATIONSHIP_SYNTHESIS.md",
+            "bytes": 26634,
+            "sha256": "e230593ccb4760cc6d534c23e4206b9db29f4a937dd1aba151be3a920fd312c0",
+            "git_blob_oid_of_actual_bytes": "f93af1234190f98f7f008826d3bb31af264ea43a",
+            "mode": "100644",
+            "stage": "PROPOSED_FUTURE_NEW_ABSENT_ARTIFACT_NOT_INSTALLED"
+          },
+          {
+            "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_COMPLETE_CLAIM_SOURCE_RIVAL_END_AND_BODY_REGISTER_V1.json",
+            "candidate_relative_path": "repository-reference:series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_COMPLETE_CLAIM_SOURCE_RIVAL_END_AND_BODY_REGISTER_V1.json",
+            "bytes": 227019,
+            "sha256": "3681207139977840c9ae319acd2b8b7701baf69fa926b28433a445e37c0e65ec",
+            "git_blob_oid_of_actual_bytes": "9908e3979ab05186c12a00989bcd29e9114bd71a",
+            "mode": "100644",
+            "stage": "PROPOSED_FUTURE_NEW_ABSENT_ARTIFACT_NOT_INSTALLED"
+          },
+          {
+            "repository_path": "series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_OWN20_CONNECTED_NORMALS_AND_SOURCE_SPECIFIC_MEANING_RECEIVING_V1.json",
+            "candidate_relative_path": "repository-reference:series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_OWN20_CONNECTED_NORMALS_AND_SOURCE_SPECIFIC_MEANING_RECEIVING_V1.json",
+            "bytes": 29430,
+            "sha256": "04721ad2d5242eb38470297b82f39c937de8f8b4848cc98ee2bfa7f0f3318513",
+            "git_blob_oid_of_actual_bytes": "3f35653b1bfa99566aed5a69615fb0cc6f246d5f",
+            "mode": "100644",
+            "stage": "PROPOSED_FUTURE_NEW_ABSENT_ARTIFACT_NOT_INSTALLED"
+          },
+          {
+            "repository_path": "series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_ALL105_SOURCE_SPECIFIC_TARGET_QUESTIONS_MEANINGS_AND_LIMITS_V1.json",
+            "candidate_relative_path": "repository-reference:series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_ALL105_SOURCE_SPECIFIC_TARGET_QUESTIONS_MEANINGS_AND_LIMITS_V1.json",
+            "bytes": 524683,
+            "sha256": "0599d6137bd88271d5870d3d63217799b6d7f78594125d7fc9db398cbca27160",
+            "git_blob_oid_of_actual_bytes": "30337d48098794dfd90ba7123cee920f5307cf18",
+            "mode": "100644",
+            "stage": "PROPOSED_FUTURE_NEW_ABSENT_ARTIFACT_NOT_INSTALLED"
+          },
+          {
+            "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_SAVED_BODY_AND_TRANSPORT_RECEIPT_V1.json",
+            "candidate_relative_path": "repository-reference:series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_SAVED_BODY_AND_TRANSPORT_RECEIPT_V1.json",
+            "bytes": 2771,
+            "sha256": "f51701e0858cacb830377d6ebd3e8c4096e0d6b845d1b4ed9d1d38ad2e8d6576",
+            "git_blob_oid_of_actual_bytes": "468ddb09d58fa06a81c7dea854aefe9597fb5ecc",
+            "mode": "100644",
+            "stage": "PROPOSED_FUTURE_NEW_ABSENT_ARTIFACT_NOT_INSTALLED"
+          }
+        ],
+        "actual_personal_receiving": {
+          "whole117_body": "5ea5ce untruncated full117",
+          "source20_complete_target_questions_positive_counter_results_and_grades_report": "d04aa3; source author's whole20 normal grade remains attributed, not transferred",
+          "all105_current_new_relationship_questions_and_source_specific_results": {
+            "O000_O014": "c435ea",
+            "O015_O034": "1b09b0",
+            "O035_O054": "20898a",
+            "O055_O074": "b670f4",
+            "O075_O104": "43b606"
+          },
+          "common_controls_report_grade": "c435ea all unique grade/recipient/mode/chronology/finite/trigger/exclusion declarations personally received; new125 purposes not underlying primary",
+          "consequential_extra_prior_fields": "O034 full selected prior at20898a; O036 new detailed declined massage/drink support atb670f4; O083 operative fine-party qualification atcb119b",
+          "full41_body_argument_and_bindings": "Full actual117 body plus41 source-binding arrays received cb119b; source mode/grade invariance checked and body line/paragraph bytes reconstructed",
+          "eight_rivals16_ends11_dimensions": "4eac80 visible before clipping; reconstruction duplicate and gaps07–14 clipping not counted; gaps07–14 repaired completely cb119b",
+          "necessary_extra_source_normal": {
+            "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_860/BLUE_ARCHIVE_EVENT_860_CONTEXTUALIZATION_CHECKPOINT.md",
+            "bytes": 51286,
+            "sha256": "ab1737179cd375e8edcee8f372c92c155ca5b8f9bfb077d73af06f5ec4de6320",
+            "selected_lines": [
+              [
+                48,
+                56
+              ],
+              [
+                161,
+                190
+              ],
+              [
+                254,
+                273
+              ]
+            ],
+            "actual_tool": "8b7a0b",
+            "grade": "OWN_SELECTED_CONNECTED_MAINTAINED_ADMITTED_ANALYTICAL_NORMAL_ARGUMENT_AND_CURRENT_ADOPTION_TAIL;NOT_WHOLE273;NO_PRIMARY_NATIVE_RAW_AV"
+          }
+        },
+        "adequate_own_prior_receiving": {
+          "core19": "Own18 complete normals +MN18 selected1–421/573–582 with repaired185–207, from Sammy character author work; not author whole20 or fresh20 replay",
+          "common105": "Own source-specific report meanings for Sammy O000–104 already adequate; used for new CARE source-specific adjudication, not source primary/whole105 replay"
+        },
+        "independence_and_prior_authorship_disclosure": "Reviewer authored earlier sanitized Minato all105 five derivatives/preservation proof and Sammy character components. This is different-author receiving of CARE's new directed-care argument and target judgments, not independent QA of my Minato five/Sammy seven. ROOT/contributor source grades retained attributed; no personal105 underlying normals or155 whole objects asserted.",
+        "manual_full_literary_decision": {
+          "positive_argument": "SUPPORTED_WITH_LIMITS_AFTER_THREE_NARROW_CURRENT_FIELD_REPAIRS;currentV2 not final canonical acceptance",
+          "11_dimensions": "Origin/familiarity, asymmetry, recurring care, conflicts, care language, trust/knowledge, hierarchy, rupture, cancellation/farewell repair, survivor ordinary afterstate, written/adult mediation all substantively present",
+          "actor_and_event_order": "Minato authors cancellation; claimant agrees; Ami warnings/ladder and food attention; Sumika MAIN shaking and later objections distinct; EVENT860008 attack precedes011 excuse and015 wished hobby/wrong recipient; EVENT861 office/debt/rescue distinct MAIN grief",
+          "positive_animal_grade": "MAIN13 narrator perspective/contentment retained beyond human guess, without informed medical consent",
+          "clinical_grade": "Relayed symptoms, direct physician risk, reported vitals/hypotheses and rejected single-cause guilt distinct; no shore counterfactual or clinical optimum",
+          "ordinary_intrinsic_value": "Toy/curry/tastes/quiet company/cushion/hobby/continued work and refusals retained without stakes filter",
+          "rivals": "All8 serious alternative arguments adjudicated; no latent operational-model promotion",
+          "finite_ends": "All16 retrospective endpoints qualify actual act/proposal/report/clinical/narrator/afterstate distinctions; retrieval process nouns not blanket repair targets",
+          "gaps": "All14 original OPEN and claim-specific, models0; no prior source/admission/private join/named/355 milestone/remote/main completion credit"
+        },
+        "mechanical_saved_byte_and_binding_checks": [
+          {
+            "check": "exact five component tuple/Git framing/UTF8LF/nonreparse series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_ODYSSEIA_SAMMY_DIRECTED_CARE_RELATIONSHIP_SYNTHESIS.md",
+            "pass": true
+          },
+          {
+            "check": "public local path hygiene series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_ODYSSEIA_SAMMY_DIRECTED_CARE_RELATIONSHIP_SYNTHESIS.md",
+            "pass": true
+          },
+          {
+            "check": "exact five component tuple/Git framing/UTF8LF/nonreparse series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_COMPLETE_CLAIM_SOURCE_RIVAL_END_AND_BODY_REGISTER_V1.json",
+            "pass": true
+          },
+          {
+            "check": "public local path hygiene series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_COMPLETE_CLAIM_SOURCE_RIVAL_END_AND_BODY_REGISTER_V1.json",
+            "pass": true
+          },
+          {
+            "check": "exact five component tuple/Git framing/UTF8LF/nonreparse series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_OWN20_CONNECTED_NORMALS_AND_SOURCE_SPECIFIC_MEANING_RECEIVING_V1.json",
+            "pass": true
+          },
+          {
+            "check": "public local path hygiene series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_OWN20_CONNECTED_NORMALS_AND_SOURCE_SPECIFIC_MEANING_RECEIVING_V1.json",
+            "pass": true
+          },
+          {
+            "check": "exact five component tuple/Git framing/UTF8LF/nonreparse series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_ALL105_SOURCE_SPECIFIC_TARGET_QUESTIONS_MEANINGS_AND_LIMITS_V1.json",
+            "pass": true
+          },
+          {
+            "check": "public local path hygiene series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_ALL105_SOURCE_SPECIFIC_TARGET_QUESTIONS_MEANINGS_AND_LIMITS_V1.json",
+            "pass": true
+          },
+          {
+            "check": "exact five component tuple/Git framing/UTF8LF/nonreparse series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_SAVED_BODY_AND_TRANSPORT_RECEIPT_V1.json",
+            "pass": true
+          },
+          {
+            "check": "public local path hygiene series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_SAVED_BODY_AND_TRANSPORT_RECEIPT_V1.json",
+            "pass": true
+          },
+          {
+            "check": "whole saved body117 and41 unique exact bound claim paragraphs",
+            "pass": true
+          },
+          {
+            "check": "all117 reconstruction lines exact actual saved bytes",
+            "pass": true
+          },
+          {
+            "check": "body tuple matches register/recovery/current receipt",
+            "pass": true
+          },
+          {
+            "check": "normal20 unique with own fresh-primary0",
+            "pass": true
+          },
+          {
+            "check": "complete saved claim paragraph CARE001",
+            "pass": true
+          },
+          {
+            "check": "local paragraph IDs, not claim registry CARE001",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE001/MN05",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE001/MN05",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE001/MN07",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE001/MN07",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE001/MN08",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE001/MN08",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE001/MN09",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE001/MN09",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE001/MN10",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE001/MN10",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE001/MN11",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE001/MN11",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE001/MN12",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE001/MN12",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE001/MN13",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE001/MN13",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE001/MN14",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE001/MN14",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE001/MN15",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE001/MN15",
+            "pass": true
+          },
+          {
+            "check": "complete saved claim paragraph CARE002",
+            "pass": true
+          },
+          {
+            "check": "local paragraph IDs, not claim registry CARE002",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE002/MN03",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE002/MN03",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE002/MN05",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE002/MN05",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE002/MN06",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE002/MN06",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE002/MN07",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE002/MN07",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE002/MN10",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE002/MN10",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE002/MN12",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE002/MN12",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE002/MN13",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE002/MN13",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE002/MN14",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE002/MN14",
+            "pass": true
+          },
+          {
+            "check": "complete saved claim paragraph CARE003",
+            "pass": true
+          },
+          {
+            "check": "local paragraph IDs, not claim registry CARE003",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE003/MN15",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE003/MN15",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE003/MN16",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE003/MN16",
+            "pass": true
+          },
+          {
+            "check": "complete saved claim paragraph CARE004",
+            "pass": true
+          },
+          {
+            "check": "local paragraph IDs, not claim registry CARE004",
+            "pass": true
+          },
+          {
+            "check": "complete saved claim paragraph CARE005",
+            "pass": true
+          },
+          {
+            "check": "local paragraph IDs, not claim registry CARE005",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE005/MN03",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE005/MN03",
+            "pass": true
+          },
+          {
+            "check": "complete saved claim paragraph CARE006",
+            "pass": true
+          },
+          {
+            "check": "local paragraph IDs, not claim registry CARE006",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE006/MN04",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE006/MN04",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE006/MN05",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE006/MN05",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE006/MN08",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE006/MN08",
+            "pass": true
+          },
+          {
+            "check": "complete saved claim paragraph CARE007",
+            "pass": true
+          },
+          {
+            "check": "local paragraph IDs, not claim registry CARE007",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE007/MN03",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE007/MN03",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE007/MN04",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE007/MN04",
+            "pass": true
+          },
+          {
+            "check": "complete saved claim paragraph CARE008",
+            "pass": true
+          },
+          {
+            "check": "local paragraph IDs, not claim registry CARE008",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE008/MN05",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE008/MN05",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE008/MN06",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE008/MN06",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE008/MN07",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE008/MN07",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE008/MN10",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE008/MN10",
+            "pass": true
+          },
+          {
+            "check": "complete saved claim paragraph CARE009",
+            "pass": true
+          },
+          {
+            "check": "local paragraph IDs, not claim registry CARE009",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE009/MN05",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE009/MN05",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE009/MN08",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE009/MN08",
+            "pass": true
+          },
+          {
+            "check": "complete saved claim paragraph CARE010",
+            "pass": true
+          },
+          {
+            "check": "local paragraph IDs, not claim registry CARE010",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE010/MN03",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE010/MN03",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE010/MN05",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE010/MN05",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE010/MN08",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE010/MN08",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE010/MN10",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE010/MN10",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE010/MN12",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE010/MN12",
+            "pass": true
+          },
+          {
+            "check": "complete saved claim paragraph CARE011",
+            "pass": true
+          },
+          {
+            "check": "local paragraph IDs, not claim registry CARE011",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE011/MN06",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE011/MN06",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE011/MN07",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE011/MN07",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE011/MN12",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE011/MN12",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE011/MN13",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE011/MN13",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE011/MN14",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE011/MN14",
+            "pass": true
+          },
+          {
+            "check": "complete saved claim paragraph CARE012",
+            "pass": true
+          },
+          {
+            "check": "local paragraph IDs, not claim registry CARE012",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE012/MN05",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE012/MN05",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE012/MN07",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE012/MN07",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE012/MN12",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE012/MN12",
+            "pass": true
+          },
+          {
+            "check": "complete saved claim paragraph CARE013",
+            "pass": true
+          },
+          {
+            "check": "local paragraph IDs, not claim registry CARE013",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE013/MN05",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE013/MN05",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE013/MN06",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE013/MN06",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE013/MN07",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE013/MN07",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE013/MN08",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE013/MN08",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE013/MN10",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE013/MN10",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE013/MN11",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE013/MN11",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE013/MN12",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE013/MN12",
+            "pass": true
+          },
+          {
+            "check": "complete saved claim paragraph CARE014",
+            "pass": true
+          },
+          {
+            "check": "local paragraph IDs, not claim registry CARE014",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE014/MN08",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE014/MN08",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE014/MN09",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE014/MN09",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE014/MN10",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE014/MN10",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE014/MN11",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE014/MN11",
+            "pass": true
+          },
+          {
+            "check": "complete saved claim paragraph CARE015",
+            "pass": true
+          },
+          {
+            "check": "local paragraph IDs, not claim registry CARE015",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE015/MN05",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE015/MN05",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE015/MN09",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE015/MN09",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE015/MN10",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE015/MN10",
+            "pass": true
+          },
+          {
+            "check": "complete saved claim paragraph CARE016",
+            "pass": true
+          },
+          {
+            "check": "local paragraph IDs, not claim registry CARE016",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE016/MN06",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE016/MN06",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE016/MN07",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE016/MN07",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE016/MN10",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE016/MN10",
+            "pass": true
+          },
+          {
+            "check": "complete saved claim paragraph CARE017",
+            "pass": true
+          },
+          {
+            "check": "local paragraph IDs, not claim registry CARE017",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE017/MN13",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE017/MN13",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE017/MN14",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE017/MN14",
+            "pass": true
+          },
+          {
+            "check": "complete saved claim paragraph CARE018",
+            "pass": true
+          },
+          {
+            "check": "local paragraph IDs, not claim registry CARE018",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE018/MN05",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE018/MN05",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE018/MN06",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE018/MN06",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE018/MN07",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE018/MN07",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE018/MN12",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE018/MN12",
+            "pass": true
+          },
+          {
+            "check": "complete saved claim paragraph CARE019",
+            "pass": true
+          },
+          {
+            "check": "local paragraph IDs, not claim registry CARE019",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE019/MN05",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE019/MN05",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE019/MN07",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE019/MN07",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE019/MN08",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE019/MN08",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE019/MN12",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE019/MN12",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE019/MN13",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE019/MN13",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE019/MN14",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE019/MN14",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE019/MN15",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE019/MN15",
+            "pass": true
+          },
+          {
+            "check": "complete saved claim paragraph CARE020",
+            "pass": true
+          },
+          {
+            "check": "local paragraph IDs, not claim registry CARE020",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE020/MN04",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE020/MN04",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE020/MN06",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE020/MN06",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE020/MN08",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE020/MN08",
+            "pass": true
+          },
+          {
+            "check": "complete saved claim paragraph CARE021",
+            "pass": true
+          },
+          {
+            "check": "local paragraph IDs, not claim registry CARE021",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE021/MN08",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE021/MN08",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE021/MN09",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE021/MN09",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE021/MN10",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE021/MN10",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE021/MN11",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE021/MN11",
+            "pass": true
+          },
+          {
+            "check": "complete saved claim paragraph CARE022",
+            "pass": true
+          },
+          {
+            "check": "local paragraph IDs, not claim registry CARE022",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE022/MN10",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE022/MN10",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE022/MN11",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE022/MN11",
+            "pass": true
+          },
+          {
+            "check": "complete saved claim paragraph CARE023",
+            "pass": true
+          },
+          {
+            "check": "local paragraph IDs, not claim registry CARE023",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE023/MN11",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE023/MN11",
+            "pass": true
+          },
+          {
+            "check": "complete saved claim paragraph CARE024",
+            "pass": true
+          },
+          {
+            "check": "local paragraph IDs, not claim registry CARE024",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE024/MN11",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE024/MN11",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE024/MN12",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE024/MN12",
+            "pass": true
+          },
+          {
+            "check": "complete saved claim paragraph CARE025",
+            "pass": true
+          },
+          {
+            "check": "local paragraph IDs, not claim registry CARE025",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE025/MN12",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE025/MN12",
+            "pass": true
+          },
+          {
+            "check": "complete saved claim paragraph CARE026",
+            "pass": true
+          },
+          {
+            "check": "local paragraph IDs, not claim registry CARE026",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE026/MN12",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE026/MN12",
+            "pass": true
+          },
+          {
+            "check": "complete saved claim paragraph CARE027",
+            "pass": true
+          },
+          {
+            "check": "local paragraph IDs, not claim registry CARE027",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE027/MN13",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE027/MN13",
+            "pass": true
+          },
+          {
+            "check": "complete saved claim paragraph CARE028",
+            "pass": true
+          },
+          {
+            "check": "local paragraph IDs, not claim registry CARE028",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE028/MN13",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE028/MN13",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE028/MN14",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE028/MN14",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE028/MN15",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE028/MN15",
+            "pass": true
+          },
+          {
+            "check": "complete saved claim paragraph CARE029",
+            "pass": true
+          },
+          {
+            "check": "local paragraph IDs, not claim registry CARE029",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE029/MN14",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE029/MN14",
+            "pass": true
+          },
+          {
+            "check": "complete saved claim paragraph CARE030",
+            "pass": true
+          },
+          {
+            "check": "local paragraph IDs, not claim registry CARE030",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE030/MN14",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE030/MN14",
+            "pass": true
+          },
+          {
+            "check": "complete saved claim paragraph CARE031",
+            "pass": true
+          },
+          {
+            "check": "local paragraph IDs, not claim registry CARE031",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE031/MN14",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE031/MN14",
+            "pass": true
+          },
+          {
+            "check": "complete saved claim paragraph CARE032",
+            "pass": true
+          },
+          {
+            "check": "local paragraph IDs, not claim registry CARE032",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE032/MN17",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE032/MN17",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE032/MN17",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE032/MN17",
+            "pass": true
+          },
+          {
+            "check": "complete saved claim paragraph CARE033",
+            "pass": true
+          },
+          {
+            "check": "local paragraph IDs, not claim registry CARE033",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE033/MN18",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE033/MN18",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE033/MN19",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE033/MN19",
+            "pass": true
+          },
+          {
+            "check": "complete saved claim paragraph CARE034",
+            "pass": true
+          },
+          {
+            "check": "local paragraph IDs, not claim registry CARE034",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE034/CARE20_EVENT860",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE034/CARE20_EVENT860",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE034/CARE20_EVENT860",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE034/CARE20_EVENT860",
+            "pass": true
+          },
+          {
+            "check": "complete saved claim paragraph CARE035",
+            "pass": true
+          },
+          {
+            "check": "local paragraph IDs, not claim registry CARE035",
+            "pass": true
+          },
+          {
+            "check": "complete saved claim paragraph CARE036",
+            "pass": true
+          },
+          {
+            "check": "local paragraph IDs, not claim registry CARE036",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE036/MN04",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE036/MN04",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE036/MN05",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE036/MN05",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE036/MN06",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE036/MN06",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE036/MN07",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE036/MN07",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE036/MN10",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE036/MN10",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE036/MN12",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE036/MN12",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE036/MN13",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE036/MN13",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE036/MN14",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE036/MN14",
+            "pass": true
+          },
+          {
+            "check": "complete saved claim paragraph CARE037",
+            "pass": true
+          },
+          {
+            "check": "local paragraph IDs, not claim registry CARE037",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE037/MN07",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE037/MN07",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE037/MN10",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE037/MN10",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE037/MN11",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE037/MN11",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE037/MN12",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE037/MN12",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE037/MN13",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE037/MN13",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE037/MN14",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE037/MN14",
+            "pass": true
+          },
+          {
+            "check": "complete saved claim paragraph CARE038",
+            "pass": true
+          },
+          {
+            "check": "local paragraph IDs, not claim registry CARE038",
+            "pass": true
+          },
+          {
+            "check": "exact source join CARE038/MN15",
+            "pass": true
+          },
+          {
+            "check": "source join no new primary CARE038/MN15",
+            "pass": true
+          },
+          {
+            "check": "complete saved claim paragraph CARE039",
+            "pass": true
+          },
+          {
+            "check": "local paragraph IDs, not claim registry CARE039",
+            "pass": true
+          },
+          {
+            "check": "complete saved claim paragraph CARE040",
+            "pass": true
+          },
+          {
+            "check": "local paragraph IDs, not claim registry CARE040",
+            "pass": true
+          },
+          {
+            "check": "complete saved claim paragraph CARE041",
+            "pass": true
+          },
+          {
+            "check": "local paragraph IDs, not claim registry CARE041",
+            "pass": true
+          },
+          {
+            "check": "105 exact finite owner union",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O000",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O001",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O002",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O003",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O004",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O005",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O006",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O007",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O008",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O009",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O010",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O011",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O012",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O013",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O014",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O015",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O016",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O017",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O018",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O019",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O020",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O021",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O022",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O023",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O024",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O025",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O026",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O027",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O028",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O029",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O030",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O031",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O032",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O033",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O034",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O035",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O036",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O037",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O038",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O039",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O040",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O041",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O042",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O043",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O044",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O045",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O046",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O047",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O048",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O049",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O050",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O051",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O052",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O053",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O054",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O055",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O056",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O057",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O058",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O059",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O060",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O061",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O062",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O063",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O064",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O065",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O066",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O067",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O068",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O069",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O070",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O071",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O072",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O073",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O074",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O075",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O076",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O077",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O078",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O079",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O080",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O081",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O082",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O083",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O084",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O085",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O086",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O087",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O088",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O089",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O090",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O091",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O092",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O093",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O094",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O095",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O096",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O097",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O098",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O099",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O100",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O101",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O102",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O103",
+            "pass": true
+          },
+          {
+            "check": "new complete target question/result with no exclusion or promotion O104",
+            "pass": true
+          },
+          {
+            "check": "11 dimensions,8 serious rivals,16 finite checks,14 OPEN",
+            "pass": true
+          },
+          {
+            "check": "fixed355/29/25/384/788 unchanged",
+            "pass": true
+          },
+          {
+            "check": "all five declared new-credit/model zero",
+            "pass": true
+          },
+          {
+            "check": "exact current full CARE002 inverse afterimage",
+            "pass": true
+          },
+          {
+            "check": "executed V2→V1 full body bytes tuple",
+            "pass": true
+          },
+          {
+            "check": "actual preserved whole V1 body matches inverse",
+            "pass": true
+          },
+          {
+            "check": "full preserved V1→V2 unchanged input/purpose series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_OWN20_CONNECTED_NORMALS_AND_SOURCE_SPECIFIC_MEANING_RECEIVING_V1.json",
+            "pass": true
+          },
+          {
+            "check": "full preserved V1→V2 unchanged input/purpose series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_ALL105_SOURCE_SPECIFIC_TARGET_QUESTIONS_MEANINGS_AND_LIMITS_V1.json",
+            "pass": true
+          }
+        ],
+        "checks_passed": 444,
+        "findings": [
+          {
+            "id": "CARE-V2-F01",
+            "severity": "P2",
+            "status": "ROOT_ACCEPTED_SUPPORTED_PRECISION_REPAIR_PENDING_CURRENT_SUCCESSOR",
+            "meaning": "CARE002's verb retrieves asserts an endpoint not provided by MN03's going to fetch; the corresponding body29 correctly retains process.",
+            "evidence": {
+              "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E003_DEEP_READING.md",
+              "normal_lines": [
+                22,
+                26
+              ],
+              "canonical_locator": "E003 scene001u0019–0038,u0070–0073",
+              "own_adequate_normal_receiving": "Sammy first16 b66ce7; no new primary"
+            },
+            "literal_before": "Ami attends with food limits, retrieves, reports, warns and arranges.",
+            "proposed_literal_after": "Ami attends with food limits, goes to retrieve Sammy, reports, warns and arranges.",
+            "affected_current_fields": [
+              {
+                "component": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_ODYSSEIA_SAMMY_DIRECTED_CARE_RELATIONSHIP_SYNTHESIS.md",
+                "physical_line": 21
+              },
+              {
+                "component": "repository-reference:series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_COMPLETE_CLAIM_SOURCE_RIVAL_END_AND_BODY_REGISTER_V1.json",
+                "pointer": "/all_complete_saved_paragraph_claims/1/complete_literal_claim_paragraph"
+              },
+              {
+                "component": "repository-reference:series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_COMPLETE_CLAIM_SOURCE_RIVAL_END_AND_BODY_REGISTER_V1.json",
+                "pointer": "/body_complete_reconstruction/lines/20"
+              }
+            ],
+            "unaffected_process_nouns": "retrieval in the recurring grammar/T02/T08 names the process; do not broaden repair to those nouns or frozen V1/V2 historical beforeimages"
+          },
+          {
+            "id": "CARE-V2-F02",
+            "severity": "P2",
+            "status": "SUPPORTED_NARROW_CAUSAL_PRECISION_REPAIR_PENDING",
+            "meaning": "No demonstrated weather causation cannot become demonstrated noncausation.",
+            "evidence": {
+              "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E006_DEEP_READING.md",
+              "normal_line": 20,
+              "canonical_locator": "E006 scene001u0008–0026",
+              "own_adequate_normal_receiving": "Sammy first16 f5c260; bounded drafting locator recheck b90844"
+            },
+            "literal_before": "Sammy's cough coincides with a squall without causing it.",
+            "proposed_literal_after": "Sammy's cough coincides with a squall, without demonstrated causation.",
+            "affected_current_fields": [
+              {
+                "component": "repository-reference:series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_OWN20_CONNECTED_NORMALS_AND_SOURCE_SPECIFIC_MEANING_RECEIVING_V1.json",
+                "pointer": "/records/5/connected_positive_and_contrary_result"
+              }
+            ],
+            "correct_body_qualifier_preserved": "CARE020 body65 already says timings/mishaps do not prove cause; original ordinary normal/source unchanged"
+          },
+          {
+            "id": "CARE-V2-F03",
+            "severity": "P2",
+            "status": "SUPPORTED_DISTINCT_ACTOR_AND_UNEXECUTED_RESCUE_PRECISION_REPAIR_PENDING",
+            "meaning": "The inherited report distinguishes captive pleas/refusal, Koyuki's refusal of pursuit and the adult's unexecuted rescue proposal; refused captive rescue conflates them.",
+            "evidence": {
+              "owner": "O034",
+              "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_806/BLUE_ARCHIVE_EVENT_806_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+              "selected_prior_report_pointer": "/records/34/selected_prior_meaning_and_source_scope_attributed/actual_connected_meaning",
+              "actual_selected_current_report_receiving": "20898a; earlier adequate Sammy O031–035 at3935c0; no new underlying normal/primary"
+            },
+            "literal_before": "C&C ship hospitality and refused captive rescue have specific uncompleted endpoints; neither generic ship roles nor smiles license Odysseia identity joins or consent.",
+            "proposed_full_field_after": "C&C ship hospitality, captive pleas/refusal, Koyuki's refusal of pursuit and the adult's unexecuted rescue proposal retain distinct endpoints; neither generic ship roles nor smiles license Odysseia identity joins or consent.",
+            "affected_current_fields": [
+              {
+                "component": "repository-reference:series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_ALL105_SOURCE_SPECIFIC_TARGET_QUESTIONS_MEANINGS_AND_LIMITS_V1.json",
+                "pointer": "/records/34/new_target_specific_positive_and_contrary_result"
+              }
+            ],
+            "no_inherited_fields_rewrite": "Only new CARE target result; existing original source meaning/limits remain exact"
+          }
+        ],
+        "nonblocking_precision_recommendation": {
+          "id": "CARE-V2-C01",
+          "type": "NONBLOCKING_FINE_ATTRIBUTION_CLARITY_RECOMMENDATION",
+          "meaning": "O083 shorthand should name the deferred fine defeated-party attribution so it cannot suggest numerical defeat/broad defense were removed.",
+          "evidence": "Exact retained /records/83/selected_prior_meaning_and_source_scope_attributed/counterevidence_and_rival_limits received cb119b; earlier adequate Sammy O078–085 actual22da15",
+          "literal_before": "Kisaki's guesthood is not every Genryumon answer, fine defeat stays deferred; Minato's captain speech and appraisal do not resolve every crew/guest/clinical claim.",
+          "proposed_full_field_after": "Kisaki's guesthood is not every Genryumon answer; initial numerical defeat and later broad defense remain, while fine defeated-party attribution stays deferred. Minato's captain speech and appraisal do not resolve every crew/guest/clinical claim.",
+          "affected_current_field": {
+            "component": "repository-reference:series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_ALL105_SOURCE_SPECIFIC_TARGET_QUESTIONS_MEANINGS_AND_LIMITS_V1.json",
+            "pointer": "/records/83/new_target_specific_positive_and_contrary_result"
+          },
+          "current_inherited_qualification": "Correct original counterfield retained already; no outcome reversal or actor assignment proposed"
+        },
+        "exact_affected_binding_dependencies": "After proposed changes recompute body/register/input/purpose/transport component pins, register body tuple/reconstruction tuple and full CARE002 literal paragraph, saved transport body/register/input/purpose tuples and exact5 current manifest. Preserve all V1/V2 originals with executed full inverses; no new source grade or body count/claim IDs/rivals/ends/gaps/scope changes.",
+        "full_V2_to_V1_inverse": {
+          "private_inverse_bytes": 2403,
+          "private_inverse_sha256": "acf2720e32b1b346bfbb6c680566e3c4fd03bc07ab0644064d505ed2a9f7279a",
+          "reconstructed_V1_body_bytes": 26627,
+          "reconstructed_V1_body_sha256": "7969a7afb9322285b341c0fb3497a24adc15eca6530f7a904399827dba06b209",
+          "reconstructed_V1_body_Git_blob": "98231bfd927464855cf7400bc46f51f0e48ba7be",
+          "actual_preserved_V1_body_equal": true,
+          "V1_source20_and_all105_full_bytes_unchanged": true
+        },
+        "current_parent_reported_state": "ROOT reports source135 published3495/full SOURCE HK FINAL301 pass; localc600/maincb99 reconciliation unpublished; reviewer performed no R/Git/provider verification or operation.",
+        "new_credits": 0,
+        "all14_OPEN": true,
+        "models": 0,
+        "canonical_acceptance_installation_publication_main_merge": "PENDING/ROOT_ONLY;merge approval RESERVED",
+        "writes": "ONLY this fresh private C QA receipt/script; no CARE body/metadata/original/R/Git/provider edit"
+      }
+    },
+    "dated_complete_V3": {
+      "original_review_artifact_id": "INDEPENDENT_CARE_V3_EXACT5_FOUR_CORRECTIONS_FULL_INVERSE_AND_CURRENT_BINDINGS_QA_20261013_V1.json",
+      "original_exact_private_beforeimage_tuple": {
+        "bytes": 23218,
+        "sha256": "638a4af8d8373960ee1dc2b369b9651afd66e56af16dda3fbcb4af59acc24b6f",
+        "git_blob_oid_of_actual_bytes": "c17de1d4648a491173fca21a0ed88e2a884a7a92"
+      },
+      "snapshot_role": "Exact dated review/qualification history; retain decisions and apply current successor explicitly.",
+      "complete_review": {
+        "schema": "INDEPENDENT_CARE_V3_FOUR_CURRENT_CORRECTIONS_ALL5_COMPLETE_PRESERVATION_AND_OPERATIVE_BINDINGS_QA_V1",
+        "UTC": "2026-10-13T05:06:17.028012+00:00",
+        "exact_manifest": {
+          "C_path": "private-custody-evidence:CARE_FROZEN_7F14CAF043639CFC",
+          "bytes": 4851,
+          "sha256": "e8261e7ff499913d5be3ad9a76560b57f50a2004a77122e47777370118da7eeb"
+        },
+        "exact_five_current_components": [
+          {
+            "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_ODYSSEIA_SAMMY_DIRECTED_CARE_RELATIONSHIP_SYNTHESIS.md",
+            "candidate_relative_path": "repository-reference:series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_ODYSSEIA_SAMMY_DIRECTED_CARE_RELATIONSHIP_SYNTHESIS.md",
+            "bytes": 26647,
+            "sha256": "19a7b0aab2f1096ad798d4a5b237035203190bf9cb1d2b8494a234bcaa062aca",
+            "git_blob_oid_of_actual_bytes": "618974b1a809b5a561be48dee4e76b59af561321",
+            "mode": "100644",
+            "stage": "PROPOSED_FUTURE_NEW_ABSENT_ARTIFACT_NOT_INSTALLED"
+          },
+          {
+            "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_COMPLETE_CLAIM_SOURCE_RIVAL_END_AND_BODY_REGISTER_V1.json",
+            "candidate_relative_path": "repository-reference:series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_COMPLETE_CLAIM_SOURCE_RIVAL_END_AND_BODY_REGISTER_V1.json",
+            "bytes": 228749,
+            "sha256": "40d0d56b4a720ca3246cb39a333e55afaac9cf0478a44d263645b9e8ff263527",
+            "git_blob_oid_of_actual_bytes": "4240348e6bafb8a3ed9735d4cac8a1a47c0be2ac",
+            "mode": "100644",
+            "stage": "PROPOSED_FUTURE_NEW_ABSENT_ARTIFACT_NOT_INSTALLED"
+          },
+          {
+            "repository_path": "series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_OWN20_CONNECTED_NORMALS_AND_SOURCE_SPECIFIC_MEANING_RECEIVING_V1.json",
+            "candidate_relative_path": "repository-reference:series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_OWN20_CONNECTED_NORMALS_AND_SOURCE_SPECIFIC_MEANING_RECEIVING_V1.json",
+            "bytes": 30556,
+            "sha256": "ade6904c486588f4802e026d779a89e8376d3945f05071cd27c09dde20f6a21a",
+            "git_blob_oid_of_actual_bytes": "d482019a6215e303906123d5d0e98c6793d4a0b9",
+            "mode": "100644",
+            "stage": "PROPOSED_FUTURE_NEW_ABSENT_ARTIFACT_NOT_INSTALLED"
+          },
+          {
+            "repository_path": "series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_ALL105_SOURCE_SPECIFIC_TARGET_QUESTIONS_MEANINGS_AND_LIMITS_V1.json",
+            "candidate_relative_path": "repository-reference:series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_ALL105_SOURCE_SPECIFIC_TARGET_QUESTIONS_MEANINGS_AND_LIMITS_V1.json",
+            "bytes": 525937,
+            "sha256": "93a4cf62b86269c7c1ded46ab8d8308564343252d22de7c7dc2ab3bc8cc90429",
+            "git_blob_oid_of_actual_bytes": "3c8472b5bf49c33f439fec8ea65b041551a08d13",
+            "mode": "100644",
+            "stage": "PROPOSED_FUTURE_NEW_ABSENT_ARTIFACT_NOT_INSTALLED"
+          },
+          {
+            "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_SAVED_BODY_AND_TRANSPORT_RECEIPT_V1.json",
+            "candidate_relative_path": "repository-reference:series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_SAVED_BODY_AND_TRANSPORT_RECEIPT_V1.json",
+            "bytes": 3868,
+            "sha256": "fa324966e9c992e9b3d7626cb4667feea02df734d790d00cd7648b999a6a38f5",
+            "git_blob_oid_of_actual_bytes": "465589b70447a203e31577559864cff642133b04",
+            "mode": "100644",
+            "stage": "PROPOSED_FUTURE_NEW_ABSENT_ARTIFACT_NOT_INSTALLED"
+          }
+        ],
+        "actual_current_semantic_receiving": "4e199f all actual differential full CARE002/current field replacements/introduced qualifiers/tuple bindings untruncated; ba3436 all operation shapes; adequate full V2 whole117/41/body/20/105/rivals/ends/gaps receiving reused only after proven unchanged remainder.",
+        "earlier_complete_V2_QA": {
+          "evidence_id": "repository-reference:series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_CURRENT_COMPLETE_INDEPENDENT_REVIEW_V1.json#/complete_review_snapshots/dated_complete_V2/complete_review",
+          "bytes": 59852,
+          "sha256": "386c0c6c41bad95edc86d6826ad61021793cd91ec6a94d5f10bb16f879e49541",
+          "preserved": true
+        },
+        "manual_four_corrected_fields_decision": {
+          "CARE002": "Ami's actual initiated fetch replaces unsupported completed retrieval; food attention retained;116otherlines unchanged",
+          "MN06": "No demonstrated causation replaces unsupported proved noncausation, without denying cough/squall or practical hazards",
+          "O034": "Captive pleas/refusal, Koyuki pursuit refusal and adult unexecuted rescue proposal now separate; no source identity/event rescue transfer",
+          "O083": "Initial numerical defeat and later broad defense explicitly retained; only fine defeated-party attribution deferred; no outcome reversal",
+          "operative_qualifiers": "Current five bindings exact, historical V1/V2 statements preserved by role; pending ROOT final adoption/source publication/main remains explicit;20/105 and contributor26/79 grades unchanged"
+        },
+        "current_complete_literary_recommendation": "SUPPORTED_WITH_LIMITS_READY_FOR_ROOT_SEPARATE_CONSEQUENTIAL_FINAL_RECEIVING;not canonical install/publication/main acceptance",
+        "mechanical_checks": [
+          {
+            "check": "manifest/proof component exact allowed path",
+            "pass": true
+          },
+          {
+            "check": "full exact V2 beforeimage preserved series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_ODYSSEIA_SAMMY_DIRECTED_CARE_RELATIONSHIP_SYNTHESIS.md",
+            "pass": true
+          },
+          {
+            "check": "actual Git framing current/before series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_ODYSSEIA_SAMMY_DIRECTED_CARE_RELATIONSHIP_SYNTHESIS.md",
+            "pass": true
+          },
+          {
+            "check": "no current public local absolute path series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_ODYSSEIA_SAMMY_DIRECTED_CARE_RELATIONSHIP_SYNTHESIS.md",
+            "pass": true
+          },
+          {
+            "check": "full line before/after/inverse exact",
+            "pass": true
+          },
+          {
+            "check": "only CARE002 line21 changed; remaining116 lines unchanged",
+            "pass": true
+          },
+          {
+            "check": "independently executed full exact inverse series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_ODYSSEIA_SAMMY_DIRECTED_CARE_RELATIONSHIP_SYNTHESIS.md",
+            "pass": true
+          },
+          {
+            "check": "manifest/proof component exact allowed path",
+            "pass": true
+          },
+          {
+            "check": "full exact V2 beforeimage preserved series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_COMPLETE_CLAIM_SOURCE_RIVAL_END_AND_BODY_REGISTER_V1.json",
+            "pass": true
+          },
+          {
+            "check": "actual Git framing current/before series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_COMPLETE_CLAIM_SOURCE_RIVAL_END_AND_BODY_REGISTER_V1.json",
+            "pass": true
+          },
+          {
+            "check": "no current public local absolute path series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_COMPLETE_CLAIM_SOURCE_RIVAL_END_AND_BODY_REGISTER_V1.json",
+            "pass": true
+          },
+          {
+            "check": "actual complete operation aftervalue /operative_V3_author_precision_qualification",
+            "pass": true
+          },
+          {
+            "check": "actual complete operation aftervalue /body_complete_reconstruction/restored_body_tuple/git_blob_oid_of_actual_bytes",
+            "pass": true
+          },
+          {
+            "check": "actual complete operation aftervalue /body_complete_reconstruction/restored_body_tuple/sha256",
+            "pass": true
+          },
+          {
+            "check": "actual complete operation aftervalue /body_complete_reconstruction/restored_body_tuple/bytes",
+            "pass": true
+          },
+          {
+            "check": "actual complete operation aftervalue /body_complete_reconstruction/lines/20",
+            "pass": true
+          },
+          {
+            "check": "actual complete operation aftervalue /all_complete_saved_paragraph_claims/1/complete_literal_claim_paragraph",
+            "pass": true
+          },
+          {
+            "check": "actual complete operation aftervalue /body/git_blob_oid_of_actual_bytes",
+            "pass": true
+          },
+          {
+            "check": "actual complete operation aftervalue /body/sha256",
+            "pass": true
+          },
+          {
+            "check": "actual complete operation aftervalue /body/bytes",
+            "pass": true
+          },
+          {
+            "check": "actual complete operation aftervalue /schema",
+            "pass": true
+          },
+          {
+            "check": "independently executed full exact inverse series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_COMPLETE_CLAIM_SOURCE_RIVAL_END_AND_BODY_REGISTER_V1.json",
+            "pass": true
+          },
+          {
+            "check": "manifest/proof component exact allowed path",
+            "pass": true
+          },
+          {
+            "check": "full exact V2 beforeimage preserved series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_OWN20_CONNECTED_NORMALS_AND_SOURCE_SPECIFIC_MEANING_RECEIVING_V1.json",
+            "pass": true
+          },
+          {
+            "check": "actual Git framing current/before series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_OWN20_CONNECTED_NORMALS_AND_SOURCE_SPECIFIC_MEANING_RECEIVING_V1.json",
+            "pass": true
+          },
+          {
+            "check": "no current public local absolute path series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_OWN20_CONNECTED_NORMALS_AND_SOURCE_SPECIFIC_MEANING_RECEIVING_V1.json",
+            "pass": true
+          },
+          {
+            "check": "actual complete operation aftervalue /operative_V3_author_precision_qualification",
+            "pass": true
+          },
+          {
+            "check": "actual complete operation aftervalue /records/5/connected_positive_and_contrary_result",
+            "pass": true
+          },
+          {
+            "check": "independently executed full exact inverse series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_OWN20_CONNECTED_NORMALS_AND_SOURCE_SPECIFIC_MEANING_RECEIVING_V1.json",
+            "pass": true
+          },
+          {
+            "check": "manifest/proof component exact allowed path",
+            "pass": true
+          },
+          {
+            "check": "full exact V2 beforeimage preserved series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_ALL105_SOURCE_SPECIFIC_TARGET_QUESTIONS_MEANINGS_AND_LIMITS_V1.json",
+            "pass": true
+          },
+          {
+            "check": "actual Git framing current/before series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_ALL105_SOURCE_SPECIFIC_TARGET_QUESTIONS_MEANINGS_AND_LIMITS_V1.json",
+            "pass": true
+          },
+          {
+            "check": "no current public local absolute path series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_ALL105_SOURCE_SPECIFIC_TARGET_QUESTIONS_MEANINGS_AND_LIMITS_V1.json",
+            "pass": true
+          },
+          {
+            "check": "actual complete operation aftervalue /operative_V3_author_precision_qualification",
+            "pass": true
+          },
+          {
+            "check": "actual complete operation aftervalue /records/83/new_target_specific_positive_and_contrary_result",
+            "pass": true
+          },
+          {
+            "check": "actual complete operation aftervalue /records/34/new_target_specific_positive_and_contrary_result",
+            "pass": true
+          },
+          {
+            "check": "independently executed full exact inverse series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_ALL105_SOURCE_SPECIFIC_TARGET_QUESTIONS_MEANINGS_AND_LIMITS_V1.json",
+            "pass": true
+          },
+          {
+            "check": "manifest/proof component exact allowed path",
+            "pass": true
+          },
+          {
+            "check": "full exact V2 beforeimage preserved series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_SAVED_BODY_AND_TRANSPORT_RECEIPT_V1.json",
+            "pass": true
+          },
+          {
+            "check": "actual Git framing current/before series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_SAVED_BODY_AND_TRANSPORT_RECEIPT_V1.json",
+            "pass": true
+          },
+          {
+            "check": "no current public local absolute path series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_SAVED_BODY_AND_TRANSPORT_RECEIPT_V1.json",
+            "pass": true
+          },
+          {
+            "check": "actual complete operation aftervalue /operative_V3_author_precision_qualification",
+            "pass": true
+          },
+          {
+            "check": "actual complete operation aftervalue /body_reverse_recovery",
+            "pass": true
+          },
+          {
+            "check": "actual complete operation aftervalue /all105_purpose_report/git_blob_oid_of_actual_bytes",
+            "pass": true
+          },
+          {
+            "check": "actual complete operation aftervalue /all105_purpose_report/sha256",
+            "pass": true
+          },
+          {
+            "check": "actual complete operation aftervalue /all105_purpose_report/bytes",
+            "pass": true
+          },
+          {
+            "check": "actual complete operation aftervalue /input_receipt/git_blob_oid_of_actual_bytes",
+            "pass": true
+          },
+          {
+            "check": "actual complete operation aftervalue /input_receipt/sha256",
+            "pass": true
+          },
+          {
+            "check": "actual complete operation aftervalue /input_receipt/bytes",
+            "pass": true
+          },
+          {
+            "check": "actual complete operation aftervalue /complete_register/git_blob_oid_of_actual_bytes",
+            "pass": true
+          },
+          {
+            "check": "actual complete operation aftervalue /complete_register/sha256",
+            "pass": true
+          },
+          {
+            "check": "actual complete operation aftervalue /complete_register/bytes",
+            "pass": true
+          },
+          {
+            "check": "actual complete operation aftervalue /body/git_blob_oid_of_actual_bytes",
+            "pass": true
+          },
+          {
+            "check": "actual complete operation aftervalue /body/sha256",
+            "pass": true
+          },
+          {
+            "check": "actual complete operation aftervalue /body/bytes",
+            "pass": true
+          },
+          {
+            "check": "independently executed full exact inverse series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_SAVED_BODY_AND_TRANSPORT_RECEIPT_V1.json",
+            "pass": true
+          },
+          {
+            "check": "V2 full manifest private beforeimage exact",
+            "pass": true
+          },
+          {
+            "check": "original V1 component still exact series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_ODYSSEIA_SAMMY_DIRECTED_CARE_RELATIONSHIP_SYNTHESIS.md",
+            "pass": true
+          },
+          {
+            "check": "original V1 component still exact series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_COMPLETE_CLAIM_SOURCE_RIVAL_END_AND_BODY_REGISTER_V1.json",
+            "pass": true
+          },
+          {
+            "check": "original V1 component still exact series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_OWN20_CONNECTED_NORMALS_AND_SOURCE_SPECIFIC_MEANING_RECEIVING_V1.json",
+            "pass": true
+          },
+          {
+            "check": "original V1 component still exact series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_ALL105_SOURCE_SPECIFIC_TARGET_QUESTIONS_MEANINGS_AND_LIMITS_V1.json",
+            "pass": true
+          },
+          {
+            "check": "original V1 component still exact series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_SAVED_BODY_AND_TRANSPORT_RECEIPT_V1.json",
+            "pass": true
+          },
+          {
+            "check": "current literal complete117 reconstruction",
+            "pass": true
+          },
+          {
+            "check": "current41 literal paragraph binding CARE001",
+            "pass": true
+          },
+          {
+            "check": "current41 literal paragraph binding CARE002",
+            "pass": true
+          },
+          {
+            "check": "current41 literal paragraph binding CARE003",
+            "pass": true
+          },
+          {
+            "check": "current41 literal paragraph binding CARE004",
+            "pass": true
+          },
+          {
+            "check": "current41 literal paragraph binding CARE005",
+            "pass": true
+          },
+          {
+            "check": "current41 literal paragraph binding CARE006",
+            "pass": true
+          },
+          {
+            "check": "current41 literal paragraph binding CARE007",
+            "pass": true
+          },
+          {
+            "check": "current41 literal paragraph binding CARE008",
+            "pass": true
+          },
+          {
+            "check": "current41 literal paragraph binding CARE009",
+            "pass": true
+          },
+          {
+            "check": "current41 literal paragraph binding CARE010",
+            "pass": true
+          },
+          {
+            "check": "current41 literal paragraph binding CARE011",
+            "pass": true
+          },
+          {
+            "check": "current41 literal paragraph binding CARE012",
+            "pass": true
+          },
+          {
+            "check": "current41 literal paragraph binding CARE013",
+            "pass": true
+          },
+          {
+            "check": "current41 literal paragraph binding CARE014",
+            "pass": true
+          },
+          {
+            "check": "current41 literal paragraph binding CARE015",
+            "pass": true
+          },
+          {
+            "check": "current41 literal paragraph binding CARE016",
+            "pass": true
+          },
+          {
+            "check": "current41 literal paragraph binding CARE017",
+            "pass": true
+          },
+          {
+            "check": "current41 literal paragraph binding CARE018",
+            "pass": true
+          },
+          {
+            "check": "current41 literal paragraph binding CARE019",
+            "pass": true
+          },
+          {
+            "check": "current41 literal paragraph binding CARE020",
+            "pass": true
+          },
+          {
+            "check": "current41 literal paragraph binding CARE021",
+            "pass": true
+          },
+          {
+            "check": "current41 literal paragraph binding CARE022",
+            "pass": true
+          },
+          {
+            "check": "current41 literal paragraph binding CARE023",
+            "pass": true
+          },
+          {
+            "check": "current41 literal paragraph binding CARE024",
+            "pass": true
+          },
+          {
+            "check": "current41 literal paragraph binding CARE025",
+            "pass": true
+          },
+          {
+            "check": "current41 literal paragraph binding CARE026",
+            "pass": true
+          },
+          {
+            "check": "current41 literal paragraph binding CARE027",
+            "pass": true
+          },
+          {
+            "check": "current41 literal paragraph binding CARE028",
+            "pass": true
+          },
+          {
+            "check": "current41 literal paragraph binding CARE029",
+            "pass": true
+          },
+          {
+            "check": "current41 literal paragraph binding CARE030",
+            "pass": true
+          },
+          {
+            "check": "current41 literal paragraph binding CARE031",
+            "pass": true
+          },
+          {
+            "check": "current41 literal paragraph binding CARE032",
+            "pass": true
+          },
+          {
+            "check": "current41 literal paragraph binding CARE033",
+            "pass": true
+          },
+          {
+            "check": "current41 literal paragraph binding CARE034",
+            "pass": true
+          },
+          {
+            "check": "current41 literal paragraph binding CARE035",
+            "pass": true
+          },
+          {
+            "check": "current41 literal paragraph binding CARE036",
+            "pass": true
+          },
+          {
+            "check": "current41 literal paragraph binding CARE037",
+            "pass": true
+          },
+          {
+            "check": "current41 literal paragraph binding CARE038",
+            "pass": true
+          },
+          {
+            "check": "current41 literal paragraph binding CARE039",
+            "pass": true
+          },
+          {
+            "check": "current41 literal paragraph binding CARE040",
+            "pass": true
+          },
+          {
+            "check": "current41 literal paragraph binding CARE041",
+            "pass": true
+          },
+          {
+            "check": "20/105 exact union retained",
+            "pass": true
+          },
+          {
+            "check": "11 dimensions8rivals16ends14OPEN unchanged",
+            "pass": true
+          },
+          {
+            "check": "operative transport tuple body",
+            "pass": true
+          },
+          {
+            "check": "operative transport tuple complete_register",
+            "pass": true
+          },
+          {
+            "check": "operative transport tuple input_receipt",
+            "pass": true
+          },
+          {
+            "check": "operative transport tuple all105_purpose_report",
+            "pass": true
+          },
+          {
+            "check": "operative register tuple source_input_current_tuple",
+            "pass": true
+          },
+          {
+            "check": "operative register tuple all105_current_purpose_report_tuple",
+            "pass": true
+          },
+          {
+            "check": "BODY/register/reconstruction exact current tuple",
+            "pass": true
+          },
+          {
+            "check": "operative qualifier preserves attribution/pending/no new credit",
+            "pass": true
+          },
+          {
+            "check": "operative qualifier preserves attribution/pending/no new credit",
+            "pass": true
+          },
+          {
+            "check": "operative qualifier preserves attribution/pending/no new credit",
+            "pass": true
+          },
+          {
+            "check": "operative qualifier preserves attribution/pending/no new credit",
+            "pass": true
+          }
+        ],
+        "checks_passed": 117,
+        "independently_executed_all5_full_V3_to_actual_V2_inverses": [
+          {
+            "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_ODYSSEIA_SAMMY_DIRECTED_CARE_RELATIONSHIP_SYNTHESIS.md",
+            "full_inverse_bytes": 26634,
+            "full_inverse_sha256": "e230593ccb4760cc6d534c23e4206b9db29f4a937dd1aba151be3a920fd312c0",
+            "operations": 1,
+            "exact_actual_V2_beforeimage_equal": true
+          },
+          {
+            "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_COMPLETE_CLAIM_SOURCE_RIVAL_END_AND_BODY_REGISTER_V1.json",
+            "full_inverse_bytes": 227019,
+            "full_inverse_sha256": "3681207139977840c9ae319acd2b8b7701baf69fa926b28433a445e37c0e65ec",
+            "operations": 10,
+            "exact_actual_V2_beforeimage_equal": true
+          },
+          {
+            "repository_path": "series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_OWN20_CONNECTED_NORMALS_AND_SOURCE_SPECIFIC_MEANING_RECEIVING_V1.json",
+            "full_inverse_bytes": 29430,
+            "full_inverse_sha256": "04721ad2d5242eb38470297b82f39c937de8f8b4848cc98ee2bfa7f0f3318513",
+            "operations": 2,
+            "exact_actual_V2_beforeimage_equal": true
+          },
+          {
+            "repository_path": "series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_ALL105_SOURCE_SPECIFIC_TARGET_QUESTIONS_MEANINGS_AND_LIMITS_V1.json",
+            "full_inverse_bytes": 524683,
+            "full_inverse_sha256": "0599d6137bd88271d5870d3d63217799b6d7f78594125d7fc9db398cbca27160",
+            "operations": 3,
+            "exact_actual_V2_beforeimage_equal": true
+          },
+          {
+            "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_SAVED_BODY_AND_TRANSPORT_RECEIPT_V1.json",
+            "full_inverse_bytes": 2771,
+            "full_inverse_sha256": "f51701e0858cacb830377d6ebd3e8c4096e0d6b845d1b4ed9d1d38ad2e8d6576",
+            "operations": 14,
+            "exact_actual_V2_beforeimage_equal": true
+          }
+        ],
+        "V1_and_V2_originals_exact": true,
+        "findings": [],
+        "all_previous_three_findings_and_fine_attribution_recommendation_addressed": true,
+        "independence_disclosure": "Reviewer different from CARE author; previously authored Minato all105 derivative/proof and Sammy seven. Does not independently certify own artifacts or transfer author20/155whole/ROOT-primary/contributor-whole105 credits. No fresh primary/native/raw/AV, model, identity or package credit.",
+        "source_receiving_grade": "Adequate own core19 analytic meanings (18whole+1selected), all105 prior report meanings; source-author20 normal receiving attributed; prior necessary selectedEVENT860 received8b7a0b; no repeated whole-source replay",
+        "all14_OPEN": true,
+        "models": 0,
+        "new_credits": 0,
+        "no_R_Git_provider_or_CARE_body_edits": true
+      }
+    },
+    "late_V3_source_local_qualification": {
+      "original_review_artifact_id": "INDEPENDENT_CARE_V3_O069_O087_SOURCE_LOCAL_MISMATCH_AND_CURRENT_QUALIFICATION_20261013_V1.json",
+      "original_exact_private_beforeimage_tuple": {
+        "bytes": 8267,
+        "sha256": "f000e3dd2a4994081c64952c8df15eb528a95e4895a97c18dc70daf8bcb3b266",
+        "git_blob_oid_of_actual_bytes": "991ab8a8748bb6cdd831c161471013c13d95e21d"
+      },
+      "snapshot_role": "Exact dated review/qualification history; retain decisions and apply current successor explicitly.",
+      "complete_review": {
+        "schema": "INDEPENDENT_CARE_V3_O069_O087_SOURCE_LOCAL_REFUSAL_MISMATCH_CURRENT_SUCCESSOR_V1",
+        "UTC": "2026-10-13T05:15:15.327843+00:00",
+        "target": "P3-REL-ODYSSEIA-SAMMY-CARE",
+        "current_purpose_tuple": {
+          "bytes": 525937,
+          "sha256": "93a4cf62b86269c7c1ded46ab8d8308564343252d22de7c7dc2ab3bc8cc90429"
+        },
+        "actual_report_receiving": "a2e256 untruncated complete existing selected O069/O087 source meaning/counter/endpoint/actor-mode/chronology/binding and both current target results",
+        "adequate_grade": "Selected maintained report meanings, no new physical normal/primary or all-E825 absence",
+        "late_finding": {
+          "id": "CARE-V3-F05",
+          "severity": "P2",
+          "meaning": "O069 imports a use-then-exclusion refusal supplied explicitly by O087 EVENT843 into the EVENT825 control.",
+          "affected_pointer": "/records/69/new_target_specific_positive_and_contrary_result",
+          "current_literal_before": "Toki welcomes affiliation and Neru refuses use-then-exclusion; Minato's agency and peers' participation do not dissolve their right to information and response.",
+          "supported_proposed_successor": "Toki's welcomed affiliation, reported command rights and Neru's praise/apology preserve particular agency and standing; Minato's agency and peers' participation do not dissolve their right to information and response.",
+          "positive069": "Standby/command-right testimony, welcomed request, invitation/thanks/friendship/shared responsibility and Neru praise/apology",
+          "positive087": "Seia/Rio self-proof, C&C accompaniment, Karin information and Neru direct use-then-exclusion refusal",
+          "scope_limit": "Particular reported-source attribution check, no claim of complete E825 dialogue or appearance absence."
+        },
+        "exact_retained_prior_fields": {
+          "O069": {
+            "grade": "OWN_SELECTED_COMPLETE_CONNECTED_ANALYTICAL_ACCOUNT_AND_TAIL_PLUS_NECESSARY_LINK",
+            "meaning": "Toki's standby denials, command-right testimony and welcomed request give way to actual invitation/thanks, chosen friendship, shared responsibility and Neru's praise/apology. Game members' clothing, play, puzzle skill and enjoyable evening are ordinary ends. Akira's rescue and self-name coexist with exclusive art control, broken alliance and continued theft; listening preserves a student's standing without granting innocence.",
+            "counter": "Borrowed outfit is no guaranteed agent expertise or disclosed-stakes agreement. Guests' post-hoc enjoyment does not provide prior informed permission. Recovered crown, reported suspect capture and local affiliation do not complete Valkyrie transfer/payment, future game, all institutional exclusion or Akira reform. Printed-heading seams remain qualified.",
+            "endpoint": "Crown securely held, particular rescue/companionship, praise/apology and narrated late play are positive. Reward amount/payment, legal title/transfer, universal art access, completed next creative project and lasting organizational repair remain unprinted at the complete account tail.",
+            "recipient_mode": "Toki's reported Odysseia-record interpretation is a positive institutional reference, distinct from Minato speech/attendance/knowledge. Akira's disclosure, reported command rights, future bounty and inward teacher guidance retain source modes; no Toki/Akira/C&C-person identity merger follows.",
+            "chronology": "Internal day-two/night progression and Toki's reference to a prior record are source-local relations. Documentary release does not establish order against Sammy orEVENT861, or authenticate a universal itinerary.",
+            "source_binding": {
+              "original_owner_pointer": "/owners/69",
+              "dispatch_owner_ref": 69,
+              "source_class": "EVENT",
+              "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_825/BLUE_ARCHIVE_EVENT_825_CONTEXTUALIZATION_CHECKPOINT.md",
+              "bound_C_copy": "repository-reference:series/blue-archive/02 Sequential Readings/EVENTS/EVENT_825/BLUE_ARCHIVE_EVENT_825_CONTEXTUALIZATION_CHECKPOINT.md",
+              "bytes": 37786,
+              "sha256": "0a04a3d7913d5ff800cf97c6d3581b38999b16f05f569978eecae8b391b1c9f9",
+              "git_blob_oid_of_actual_bytes": "d42104a33d911bddec431a94c5c030e2834f2e7d",
+              "physical_lines": 169,
+              "working_equals_exact_commit": true,
+              "historical_receiving_declarations": "ATTRIBUTED_ONLY_NOT_UPGRADED"
+            }
+          },
+          "O087": {
+            "source_normal_binding": {
+              "original_owner_pointer": "/owners/87",
+              "dispatch_owner_ref": 87,
+              "source_class": "EVENT",
+              "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_843/BLUE_ARCHIVE_EVENT_843_CONTEXTUALIZATION_CHECKPOINT.md",
+              "bound_C_copy": "repository-reference:series/blue-archive/02 Sequential Readings/EVENTS/EVENT_843/BLUE_ARCHIVE_EVENT_843_CONTEXTUALIZATION_CHECKPOINT.md",
+              "bytes": 26925,
+              "sha256": "0c66b3db028ac9330ceee3cfd730b3969f5879f19bb459dce6ce73cd9077ec6d",
+              "git_blob_oid_of_actual_bytes": "9f210324ba71ed86e21f112b0956f2c371c5f43a",
+              "physical_lines": 160,
+              "working_equals_exact_commit": true,
+              "historical_receiving_declarations": "ATTRIBUTED_ONLY_NOT_UPGRADED"
+            },
+            "actual_connected_meaning": "Seia explicitly knows her peers do not regard her as worthless without prophecy; her self-proof wish remains her judgment. Rio recognizes the same impossible self-proof pattern. C&C accompanies Seia, Karin requires information, Neru voices direct limits and refuses unilateral use-then-exclusion. Rio actually agrees to stay one week after a no-force clause, wanting company through an additional work pretext.",
+            "counterevidence_and_rival_limits": "Rio earlier cooperation conditions wound Seia; outward agreement is not absence of inner harm. Big Sister destruction is proposed while Valkyrie handover/local EXPO success are reported; sponsor purpose and technical/legal closure remain unresolved. Felt persuasion, initial refusal and the one-week limit survive actual willingness.",
+            "finite_result": "POSITIVE_COMPARATIVE_ASSISTED_AGENCY_AND_BOUNDED_COMPANY: help need not disqualify an agent, and responsibility does not erase colleagues rights.",
+            "claim_and_source_limit": "Minato asks the adult to let Odysseia choose, with practical help distributed among adult, crew and clinician. This is a comparison of participation and self-qualification, not Seia/Rio personality fusion, a cure or a completed guest mandate.",
+            "own_actual_C_receiving": {
+              "grade": "SELECTED_CONNECTED_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_ARGUMENT_AND_TAIL",
+              "line_ranges": [
+                [
+                  30,
+                  38
+                ],
+                [
+                  55,
+                  160
+                ]
+              ],
+              "tool_output_refs": [
+                "74ce62"
+              ],
+              "complete_selected_scope_meaning": "BA:event:843:001–009 full connected written analytical meaning; Seia/Rio self-proof, C&C accompaniment, Neru refusal, Karin information and one-week agreement kept distinct.",
+              "underlying_source_consumption": "Original producer/source-owner and earlier ROOT/source-auditor declarations remain attributed, not transferred to receive_last16.",
+              "primary_native_raw_AV_or_whole_physical_normal_file_consumption_claim": false,
+              "explicit_actions_statements": "usable at maintained analytical-carrier grade with literal actor/mode qualifications",
+              "thematic_transfer": "bounded interpretation, not direct Minato attendance/chronology/clinical/institutional proof"
+            }
+          }
+        },
+        "previous_V3_QA_role": "Preserved23218/638a4af8d8373960ee1dc2b369b9651afd66e56af16dda3fbcb4af59acc24b6f verifies earlier four repairs and full inverses but zero-findings recommendation is now qualified by this newly identified mismatch; not operative publication permission for unchangedV3.",
+        "recommendation": "Prepare immutable CARE_V4 current one-field correction and dependency qualifiers/full inverses; independently receive actual V4; ROOT final acceptance separate.",
+        "no_original_QA_candidate_or_source_overwrite": true,
+        "sourcegrade_identity_model_package_publication_newcredits": 0,
+        "all14_OPEN": true,
+        "models": 0,
+        "no_R_Git_provider_or_body_edits": true
+      }
+    },
+    "operative_complete_V4": {
+      "original_review_artifact_id": "INDEPENDENT_CARE_V4_ONE_SOURCE_LOCAL_FIELD_EXACT5_AND_FULL_MANIFEST_INVERSE_QA_20261013_V1.json",
+      "original_exact_private_beforeimage_tuple": {
+        "bytes": 29569,
+        "sha256": "e01d6c7f7c46654ee59a39d8861522426375c0f4b7b23bc2733d314be816e813",
+        "git_blob_oid_of_actual_bytes": "162bba7248336c64e29c5d1b0a0ead3647554411"
+      },
+      "snapshot_role": "Operative current V4 review after documented current corrections.",
+      "complete_review": {
+        "schema": "INDEPENDENT_CARE_V4_O069_SOURCE_LOCAL_CURRENT5_COMPLETE_INVERSES_AND_FULL_MANIFEST_RECOVERY_QA_V1",
+        "UTC": "2026-10-13T05:22:04.478799+00:00",
+        "exact_current_manifest": {
+          "filename": "private-custody-evidence:CARE_FROZEN_1C27989AF32A2AE5",
+          "bytes": 7387,
+          "sha256": "ecdd3e2d481c00c8e7f460b687ad1f465158c4fb9ed413d48c847cf943a58afc",
+          "Git_blob": "2a6dac1ef378badd1709b7114af711956e8c271b"
+        },
+        "current5": [
+          {
+            "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_ODYSSEIA_SAMMY_DIRECTED_CARE_RELATIONSHIP_SYNTHESIS.md",
+            "candidate_relative_path": "repository-reference:series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_ODYSSEIA_SAMMY_DIRECTED_CARE_RELATIONSHIP_SYNTHESIS.md",
+            "bytes": 26647,
+            "sha256": "19a7b0aab2f1096ad798d4a5b237035203190bf9cb1d2b8494a234bcaa062aca",
+            "git_blob_oid_of_actual_bytes": "618974b1a809b5a561be48dee4e76b59af561321",
+            "mode": "100644",
+            "stage": "PROPOSED_FUTURE_NEW_ABSENT_ARTIFACT_NOT_INSTALLED"
+          },
+          {
+            "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_COMPLETE_CLAIM_SOURCE_RIVAL_END_AND_BODY_REGISTER_V1.json",
+            "candidate_relative_path": "repository-reference:series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_COMPLETE_CLAIM_SOURCE_RIVAL_END_AND_BODY_REGISTER_V1.json",
+            "bytes": 231191,
+            "sha256": "90e8696639330b8c6bf01f7dcadc5550c175133be2299da290fb2222a1f992d4",
+            "git_blob_oid_of_actual_bytes": "ade0cfb5653cc4d9f75f2c0c2240256311c660f6",
+            "mode": "100644",
+            "stage": "PROPOSED_FUTURE_NEW_ABSENT_ARTIFACT_NOT_INSTALLED"
+          },
+          {
+            "repository_path": "series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_OWN20_CONNECTED_NORMALS_AND_SOURCE_SPECIFIC_MEANING_RECEIVING_V1.json",
+            "candidate_relative_path": "repository-reference:series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_OWN20_CONNECTED_NORMALS_AND_SOURCE_SPECIFIC_MEANING_RECEIVING_V1.json",
+            "bytes": 30556,
+            "sha256": "ade6904c486588f4802e026d779a89e8376d3945f05071cd27c09dde20f6a21a",
+            "git_blob_oid_of_actual_bytes": "d482019a6215e303906123d5d0e98c6793d4a0b9",
+            "mode": "100644",
+            "stage": "PROPOSED_FUTURE_NEW_ABSENT_ARTIFACT_NOT_INSTALLED"
+          },
+          {
+            "repository_path": "series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_ALL105_SOURCE_SPECIFIC_TARGET_QUESTIONS_MEANINGS_AND_LIMITS_V1.json",
+            "candidate_relative_path": "repository-reference:series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_ALL105_SOURCE_SPECIFIC_TARGET_QUESTIONS_MEANINGS_AND_LIMITS_V1.json",
+            "bytes": 528023,
+            "sha256": "18c37e0659b70d81a38786d60abe96cac301a4147c31fbd3561a0c36cc742325",
+            "git_blob_oid_of_actual_bytes": "9e596410e928e8b13bb1e644c202cdf0ec711afb",
+            "mode": "100644",
+            "stage": "PROPOSED_FUTURE_NEW_ABSENT_ARTIFACT_NOT_INSTALLED"
+          },
+          {
+            "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_SAVED_BODY_AND_TRANSPORT_RECEIPT_V1.json",
+            "candidate_relative_path": "repository-reference:series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_SAVED_BODY_AND_TRANSPORT_RECEIPT_V1.json",
+            "bytes": 6811,
+            "sha256": "3d54e43b2b2d47d6f61aad39fbe09cd68b9a54ef6bb9fd9d3e6601c551771cc6",
+            "git_blob_oid_of_actual_bytes": "4a452e2256de2e83cac5a61d15ab23db54ccf8da",
+            "mode": "100644",
+            "stage": "PROPOSED_FUTURE_NEW_ABSENT_ARTIFACT_NOT_INSTALLED"
+          }
+        ],
+        "actual_current_semantic_and_qualifier_receiving": "9546ca complete7387 manifest,cb9433 fullactual one O069 field and operative source-local qualifiers/after tuples,4aa666 separatemanifest inverse schema; adequateunchanged whole117/41/20/105 current meaning reused from earlier complete receiving after exact inverse/difference proof",
+        "manual_one_source_specific_result": "Supported corrected O069/E825 particular affiliation, reported command-right standing and Neru praise/apology; precise O087/E843 use-then-exclusion refusal kept separate and unchanged. No all-E825 absence or fresh primary/whole-normal claim.",
+        "manual_current_qualification": "V1/V2/V3 preserved dated history, priorzero-findingsV3 recommendation qualified by actual late O069 mismatch; effective current purpose/register transport tuples now bindV4; ROOT current5 final receiving remains separate.",
+        "current_full_literary_component_recommendation": "SUPPORTED_WITH_LIMITS_READY_FOR_ROOT_SEPARATE_FINAL_CURRENT_RECEIVING;not canonical/publication/main acceptance",
+        "all_earlier_findings_and_late_O069_source_local_finding_addressed": true,
+        "mechanical_checks": [
+          {
+            "check": "exact component order/path",
+            "pass": true
+          },
+          {
+            "check": "exact current and frozen framing series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_ODYSSEIA_SAMMY_DIRECTED_CARE_RELATIONSHIP_SYNTHESIS.md",
+            "pass": true
+          },
+          {
+            "check": "public UTF8LF/local path hygiene series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_ODYSSEIA_SAMMY_DIRECTED_CARE_RELATIONSHIP_SYNTHESIS.md",
+            "pass": true
+          },
+          {
+            "check": "body complete byte no-op",
+            "pass": true
+          },
+          {
+            "check": "independently executed all5 full inverse series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_ODYSSEIA_SAMMY_DIRECTED_CARE_RELATIONSHIP_SYNTHESIS.md",
+            "pass": true
+          },
+          {
+            "check": "exact component order/path",
+            "pass": true
+          },
+          {
+            "check": "exact current and frozen framing series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_COMPLETE_CLAIM_SOURCE_RIVAL_END_AND_BODY_REGISTER_V1.json",
+            "pass": true
+          },
+          {
+            "check": "public UTF8LF/local path hygiene series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_COMPLETE_CLAIM_SOURCE_RIVAL_END_AND_BODY_REGISTER_V1.json",
+            "pass": true
+          },
+          {
+            "check": "actual after field /operative_V4_source_local_purpose_qualification",
+            "pass": true
+          },
+          {
+            "check": "independently executed all5 full inverse series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_COMPLETE_CLAIM_SOURCE_RIVAL_END_AND_BODY_REGISTER_V1.json",
+            "pass": true
+          },
+          {
+            "check": "exact component order/path",
+            "pass": true
+          },
+          {
+            "check": "exact current and frozen framing series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_OWN20_CONNECTED_NORMALS_AND_SOURCE_SPECIFIC_MEANING_RECEIVING_V1.json",
+            "pass": true
+          },
+          {
+            "check": "public UTF8LF/local path hygiene series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_OWN20_CONNECTED_NORMALS_AND_SOURCE_SPECIFIC_MEANING_RECEIVING_V1.json",
+            "pass": true
+          },
+          {
+            "check": "independently executed all5 full inverse series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_OWN20_CONNECTED_NORMALS_AND_SOURCE_SPECIFIC_MEANING_RECEIVING_V1.json",
+            "pass": true
+          },
+          {
+            "check": "exact component order/path",
+            "pass": true
+          },
+          {
+            "check": "exact current and frozen framing series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_ALL105_SOURCE_SPECIFIC_TARGET_QUESTIONS_MEANINGS_AND_LIMITS_V1.json",
+            "pass": true
+          },
+          {
+            "check": "public UTF8LF/local path hygiene series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_ALL105_SOURCE_SPECIFIC_TARGET_QUESTIONS_MEANINGS_AND_LIMITS_V1.json",
+            "pass": true
+          },
+          {
+            "check": "actual after field /operative_V4_source_local_purpose_qualification",
+            "pass": true
+          },
+          {
+            "check": "actual after field /records/69/new_target_specific_positive_and_contrary_result",
+            "pass": true
+          },
+          {
+            "check": "independently executed all5 full inverse series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_ALL105_SOURCE_SPECIFIC_TARGET_QUESTIONS_MEANINGS_AND_LIMITS_V1.json",
+            "pass": true
+          },
+          {
+            "check": "exact component order/path",
+            "pass": true
+          },
+          {
+            "check": "exact current and frozen framing series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_SAVED_BODY_AND_TRANSPORT_RECEIPT_V1.json",
+            "pass": true
+          },
+          {
+            "check": "public UTF8LF/local path hygiene series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_SAVED_BODY_AND_TRANSPORT_RECEIPT_V1.json",
+            "pass": true
+          },
+          {
+            "check": "actual after field /complete_register/sha256",
+            "pass": true
+          },
+          {
+            "check": "actual after field /complete_register/git_blob_oid_of_actual_bytes",
+            "pass": true
+          },
+          {
+            "check": "actual after field /complete_register/bytes",
+            "pass": true
+          },
+          {
+            "check": "actual after field /all105_purpose_report/sha256",
+            "pass": true
+          },
+          {
+            "check": "actual after field /all105_purpose_report/git_blob_oid_of_actual_bytes",
+            "pass": true
+          },
+          {
+            "check": "actual after field /all105_purpose_report/bytes",
+            "pass": true
+          },
+          {
+            "check": "actual after field /operative_V4_source_local_purpose_qualification",
+            "pass": true
+          },
+          {
+            "check": "independently executed all5 full inverse series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_SAVED_BODY_AND_TRANSPORT_RECEIPT_V1.json",
+            "pass": true
+          },
+          {
+            "check": "actual after field /UTC",
+            "pass": true
+          },
+          {
+            "check": "actual after field /semantic_successor",
+            "pass": true
+          },
+          {
+            "check": "actual after field /operative_V4_qualification",
+            "pass": true
+          },
+          {
+            "check": "actual after field /schema",
+            "pass": true
+          },
+          {
+            "check": "actual after field /V4_distinct_receiving_and_ROOT_final_adoption",
+            "pass": true
+          },
+          {
+            "check": "actual after field /prior_V3_complete_manifest",
+            "pass": true
+          },
+          {
+            "check": "actual after field /components/4/sha256",
+            "pass": true
+          },
+          {
+            "check": "actual after field /components/4/git_blob_oid_of_actual_bytes",
+            "pass": true
+          },
+          {
+            "check": "actual after field /components/4/bytes",
+            "pass": true
+          },
+          {
+            "check": "actual after field /components/3/sha256",
+            "pass": true
+          },
+          {
+            "check": "actual after field /components/3/git_blob_oid_of_actual_bytes",
+            "pass": true
+          },
+          {
+            "check": "actual after field /components/3/bytes",
+            "pass": true
+          },
+          {
+            "check": "actual after field /components/1/sha256",
+            "pass": true
+          },
+          {
+            "check": "actual after field /components/1/git_blob_oid_of_actual_bytes",
+            "pass": true
+          },
+          {
+            "check": "actual after field /components/1/bytes",
+            "pass": true
+          },
+          {
+            "check": "actual after field /complete_five_component_field_and_full_inverse_proof/path_relative_to_this_component_directory",
+            "pass": true
+          },
+          {
+            "check": "actual after field /complete_five_component_field_and_full_inverse_proof/git_blob_oid_of_actual_bytes",
+            "pass": true
+          },
+          {
+            "check": "actual after field /complete_five_component_field_and_full_inverse_proof/sha256",
+            "pass": true
+          },
+          {
+            "check": "actual after field /complete_five_component_field_and_full_inverse_proof/bytes",
+            "pass": true
+          },
+          {
+            "check": "separate full19-operation manifest inverse equals actual originalV3",
+            "pass": true
+          },
+          {
+            "check": "exact one O069 semantic result equals supported actual after",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O000",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O001",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O002",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O003",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O004",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O005",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O006",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O007",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O008",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O009",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O010",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O011",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O012",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O013",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O014",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O015",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O016",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O017",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O018",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O019",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O020",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O021",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O022",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O023",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O024",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O025",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O026",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O027",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O028",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O029",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O030",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O031",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O032",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O033",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O034",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O035",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O036",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O037",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O038",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O039",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O040",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O041",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O042",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O043",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O044",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O045",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O046",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O047",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O048",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O049",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O050",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O051",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O052",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O053",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O054",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O055",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O056",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O057",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O058",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O059",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O060",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O061",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O062",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O063",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O064",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O065",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O066",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O067",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O068",
+            "pass": true
+          },
+          {
+            "check": "O069 all other original fields exact",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O070",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O071",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O072",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O073",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O074",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O075",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O076",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O077",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O078",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O079",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O080",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O081",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O082",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O083",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O084",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O085",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O086",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O087",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O088",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O089",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O090",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O091",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O092",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O093",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O094",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O095",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O096",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O097",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O098",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O099",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O100",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O101",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O102",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O103",
+            "pass": true
+          },
+          {
+            "check": "other104 complete purpose records unchanged O104",
+            "pass": true
+          },
+          {
+            "check": "O087 refusal source complete inherited untouched",
+            "pass": true
+          },
+          {
+            "check": "register all literal body/source fields unchanged except additiveV4",
+            "pass": true
+          },
+          {
+            "check": "source20 complete original unchanged",
+            "pass": true
+          },
+          {
+            "check": "full117 reconstruction still exact",
+            "pass": true
+          },
+          {
+            "check": "actual complete41 body paragraph CARE001",
+            "pass": true
+          },
+          {
+            "check": "actual complete41 body paragraph CARE002",
+            "pass": true
+          },
+          {
+            "check": "actual complete41 body paragraph CARE003",
+            "pass": true
+          },
+          {
+            "check": "actual complete41 body paragraph CARE004",
+            "pass": true
+          },
+          {
+            "check": "actual complete41 body paragraph CARE005",
+            "pass": true
+          },
+          {
+            "check": "actual complete41 body paragraph CARE006",
+            "pass": true
+          },
+          {
+            "check": "actual complete41 body paragraph CARE007",
+            "pass": true
+          },
+          {
+            "check": "actual complete41 body paragraph CARE008",
+            "pass": true
+          },
+          {
+            "check": "actual complete41 body paragraph CARE009",
+            "pass": true
+          },
+          {
+            "check": "actual complete41 body paragraph CARE010",
+            "pass": true
+          },
+          {
+            "check": "actual complete41 body paragraph CARE011",
+            "pass": true
+          },
+          {
+            "check": "actual complete41 body paragraph CARE012",
+            "pass": true
+          },
+          {
+            "check": "actual complete41 body paragraph CARE013",
+            "pass": true
+          },
+          {
+            "check": "actual complete41 body paragraph CARE014",
+            "pass": true
+          },
+          {
+            "check": "actual complete41 body paragraph CARE015",
+            "pass": true
+          },
+          {
+            "check": "actual complete41 body paragraph CARE016",
+            "pass": true
+          },
+          {
+            "check": "actual complete41 body paragraph CARE017",
+            "pass": true
+          },
+          {
+            "check": "actual complete41 body paragraph CARE018",
+            "pass": true
+          },
+          {
+            "check": "actual complete41 body paragraph CARE019",
+            "pass": true
+          },
+          {
+            "check": "actual complete41 body paragraph CARE020",
+            "pass": true
+          },
+          {
+            "check": "actual complete41 body paragraph CARE021",
+            "pass": true
+          },
+          {
+            "check": "actual complete41 body paragraph CARE022",
+            "pass": true
+          },
+          {
+            "check": "actual complete41 body paragraph CARE023",
+            "pass": true
+          },
+          {
+            "check": "actual complete41 body paragraph CARE024",
+            "pass": true
+          },
+          {
+            "check": "actual complete41 body paragraph CARE025",
+            "pass": true
+          },
+          {
+            "check": "actual complete41 body paragraph CARE026",
+            "pass": true
+          },
+          {
+            "check": "actual complete41 body paragraph CARE027",
+            "pass": true
+          },
+          {
+            "check": "actual complete41 body paragraph CARE028",
+            "pass": true
+          },
+          {
+            "check": "actual complete41 body paragraph CARE029",
+            "pass": true
+          },
+          {
+            "check": "actual complete41 body paragraph CARE030",
+            "pass": true
+          },
+          {
+            "check": "actual complete41 body paragraph CARE031",
+            "pass": true
+          },
+          {
+            "check": "actual complete41 body paragraph CARE032",
+            "pass": true
+          },
+          {
+            "check": "actual complete41 body paragraph CARE033",
+            "pass": true
+          },
+          {
+            "check": "actual complete41 body paragraph CARE034",
+            "pass": true
+          },
+          {
+            "check": "actual complete41 body paragraph CARE035",
+            "pass": true
+          },
+          {
+            "check": "actual complete41 body paragraph CARE036",
+            "pass": true
+          },
+          {
+            "check": "actual complete41 body paragraph CARE037",
+            "pass": true
+          },
+          {
+            "check": "actual complete41 body paragraph CARE038",
+            "pass": true
+          },
+          {
+            "check": "actual complete41 body paragraph CARE039",
+            "pass": true
+          },
+          {
+            "check": "actual complete41 body paragraph CARE040",
+            "pass": true
+          },
+          {
+            "check": "actual complete41 body paragraph CARE041",
+            "pass": true
+          },
+          {
+            "check": "current transport tuple complete_register",
+            "pass": true
+          },
+          {
+            "check": "current transport tuple all105_purpose_report",
+            "pass": true
+          },
+          {
+            "check": "new operative register current purpose binding",
+            "pass": true
+          },
+          {
+            "check": "all14OPEN andmodels0 preserved",
+            "pass": true
+          }
+        ],
+        "checks_passed": 206,
+        "independently_executed_all5_V4_to_actual_V3_full_inverses": [
+          {
+            "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_ODYSSEIA_SAMMY_DIRECTED_CARE_RELATIONSHIP_SYNTHESIS.md",
+            "restored_bytes": 26647,
+            "restored_sha256": "19a7b0aab2f1096ad798d4a5b237035203190bf9cb1d2b8494a234bcaa062aca",
+            "full_actual_V3_beforeimage_equal": true,
+            "operations": 0
+          },
+          {
+            "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_COMPLETE_CLAIM_SOURCE_RIVAL_END_AND_BODY_REGISTER_V1.json",
+            "restored_bytes": 228749,
+            "restored_sha256": "40d0d56b4a720ca3246cb39a333e55afaac9cf0478a44d263645b9e8ff263527",
+            "full_actual_V3_beforeimage_equal": true,
+            "operations": 1
+          },
+          {
+            "repository_path": "series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_OWN20_CONNECTED_NORMALS_AND_SOURCE_SPECIFIC_MEANING_RECEIVING_V1.json",
+            "restored_bytes": 30556,
+            "restored_sha256": "ade6904c486588f4802e026d779a89e8376d3945f05071cd27c09dde20f6a21a",
+            "full_actual_V3_beforeimage_equal": true,
+            "operations": 0
+          },
+          {
+            "repository_path": "series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_ALL105_SOURCE_SPECIFIC_TARGET_QUESTIONS_MEANINGS_AND_LIMITS_V1.json",
+            "restored_bytes": 525937,
+            "restored_sha256": "93a4cf62b86269c7c1ded46ab8d8308564343252d22de7c7dc2ab3bc8cc90429",
+            "full_actual_V3_beforeimage_equal": true,
+            "operations": 2
+          },
+          {
+            "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_SAVED_BODY_AND_TRANSPORT_RECEIPT_V1.json",
+            "restored_bytes": 3868,
+            "restored_sha256": "fa324966e9c992e9b3d7626cb4667feea02df734d790d00cd7648b999a6a38f5",
+            "full_actual_V3_beforeimage_equal": true,
+            "operations": 7
+          }
+        ],
+        "separate_fullmanifest_inverse": {
+          "filename": "private-custody-evidence:CARE_FROZEN_0CA24D9872F78763",
+          "bytes": 8266,
+          "sha256": "30912c1d8356bc7d4f716010f87b86d01c2fa1f81dad9126ebc32ac82ac7e156",
+          "actual19_full_operations_restore_actualV3_4851bytes": true,
+          "restored_sha256": "e8261e7ff499913d5be3ad9a76560b57f50a2004a77122e47777370118da7eeb",
+          "external_reference_role": "Created after currentmanifest to avoid self-binding; inspected/executed here, not automatically certified from componentmanifest."
+        },
+        "preserved_body20source41claims11dimensions8rivals16ends14OPEN_and_other104records": true,
+        "findings": [],
+        "new_credits": 0,
+        "models": 0,
+        "reviewer_independence": "Different author fromCAREwriter; own priorMinato5/Sammy7 authorship disclosed; no source author20/contributor26whole79selected/155whole/ROOT-primary credit transfer.",
+        "no_R_Git_provider_or_CARE_original_body_edits": true
+      }
+    }
+  },
+  "operative_current_qualification": {
+    "operative_current_semantic_status": "ROOT_ADOPTED_COMPLETE_CURRENT_V4_WITH_LIMITS_AT_DISCLOSED_ANALYTICAL_AND_REPORT_RECEIVING_GRADES",
+    "review_history": "Complete V2 three findings and O083 recommendation remain dated; V3 confirms four corrections, then its zero-finding recommendation is qualified by late CARE-V3-F05 O069/E825 versus O087/E843 mismatch; current V4 confirms the source-local correction and preservation, with zero current findings. No old decision is overwritten.",
+    "current_five_exact_candidates": [
+      {
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_ODYSSEIA_SAMMY_DIRECTED_CARE_RELATIONSHIP_SYNTHESIS.md",
+        "bytes": 26647,
+        "sha256": "19a7b0aab2f1096ad798d4a5b237035203190bf9cb1d2b8494a234bcaa062aca",
+        "git_blob_oid_of_actual_bytes": "618974b1a809b5a561be48dee4e76b59af561321",
+        "mode": "100644",
+        "role": "Existing exact V4 candidate preserved byte-identically; installation not certified."
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_COMPLETE_CLAIM_SOURCE_RIVAL_END_AND_BODY_REGISTER_V1.json",
+        "bytes": 231191,
+        "sha256": "90e8696639330b8c6bf01f7dcadc5550c175133be2299da290fb2222a1f992d4",
+        "git_blob_oid_of_actual_bytes": "ade0cfb5653cc4d9f75f2c0c2240256311c660f6",
+        "mode": "100644",
+        "role": "Existing exact V4 candidate preserved byte-identically; installation not certified."
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_OWN20_CONNECTED_NORMALS_AND_SOURCE_SPECIFIC_MEANING_RECEIVING_V1.json",
+        "bytes": 30556,
+        "sha256": "ade6904c486588f4802e026d779a89e8376d3945f05071cd27c09dde20f6a21a",
+        "git_blob_oid_of_actual_bytes": "d482019a6215e303906123d5d0e98c6793d4a0b9",
+        "mode": "100644",
+        "role": "Existing exact V4 candidate preserved byte-identically; installation not certified."
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_ALL105_SOURCE_SPECIFIC_TARGET_QUESTIONS_MEANINGS_AND_LIMITS_V1.json",
+        "bytes": 528023,
+        "sha256": "18c37e0659b70d81a38786d60abe96cac301a4147c31fbd3561a0c36cc742325",
+        "git_blob_oid_of_actual_bytes": "9e596410e928e8b13bb1e644c202cdf0ec711afb",
+        "mode": "100644",
+        "role": "Existing exact V4 candidate preserved byte-identically; installation not certified."
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_SAVED_BODY_AND_TRANSPORT_RECEIPT_V1.json",
+        "bytes": 6811,
+        "sha256": "3d54e43b2b2d47d6f61aad39fbe09cd68b9a54ef6bb9fd9d3e6601c551771cc6",
+        "git_blob_oid_of_actual_bytes": "4a452e2256de2e83cac5a61d15ab23db54ccf8da",
+        "mode": "100644",
+        "role": "Existing exact V4 candidate preserved byte-identically; installation not certified."
+      }
+    ],
+    "historical_tuple_role": "Tuples and renamed public routes inside original V2/V3 review payloads describe those frozen review snapshots; they do not assert that current V4 bytes equal old tuples. The current_five_exact_candidates array governs current bytes.",
+    "current_independent_reviewer": "/root/minato_105_derivative; different author from CARE writer receive_middle_remaining, with prior Minato/Sammy authorship disclosed in complete original reviews.",
+    "source_grade": "CARE author20 admitted written analytical normal meanings remain attributed. Reviewer adequate prior18whole+1selected and necessary selectedEVENT860 analytical scope are preserved; common105 report meaning grade and contributor26whole79selected remain attributed. ROOT own report/body receiving is separately attributed. No fresh physical105, primary/native/raw/AV or source-admission credit.",
+    "composer_role": "receive_last16: C-only composition/preservation and explicit qualification. Authored none of CARE body, new105 purpose judgments or original independent reviews; no new independent literary/whole-source/whole105 receiving is asserted.",
+    "ROOT_receipt_original_tuple": {
+      "bytes": 6328,
+      "sha256": "c98ac87cb00d4c575481a1872e4c180e175b478697f13d06306d5976bb7140da",
+      "git_blob_oid_of_actual_bytes": "ed9b87e7d7036dda05e5cb4d15ad4ccab8f285c7"
+    },
+    "ROOT_public_acceptance_route": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+    "original_payload_exact_restoration": "Private scalar-path maps and full UTF8 literals restore every original byte from the saved public review snapshots and ROOT derivative; opaque custody witness strings expose no private filesystem location.",
+    "private_witness_role": "An opaque private-custody-evidence ID binds original preparation evidence only; it is not a public missing-file route or new source.",
+    "current_root_final_composition_receiving": "PENDING",
+    "canonical_installation_metadata_source_publication_SOURCE_HK_FINAL_main": "PENDING_ROOT_ONLY",
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "fixed355_29_25_384_788": "UNCHANGED",
+    "new_credit": 0
+  }
+}

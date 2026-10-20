@@ -1,0 +1,860 @@
+[
+  {
+    "file": "4K HDR「Campus mode!!」(紫雲清夏 フェスSSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "60/1",
+        "avg_frame_rate": "60/1",
+        "side_data_list": [
+          {}
+        ]
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0"
+      },
+      {
+        "index": 2,
+        "codec_name": "png",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "90000/1",
+        "avg_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "161.192925",
+      "size": "106349259",
+      "bit_rate": "5278110"
+    }
+  },
+  {
+    "file": "4K HDR「Howling over the World」 (紫雲清夏 ソロ SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "60/1",
+        "avg_frame_rate": "60/1",
+        "side_data_list": [
+          {}
+        ]
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0"
+      },
+      {
+        "index": 2,
+        "codec_name": "png",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "90000/1",
+        "avg_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "110.062585",
+      "size": "63421314",
+      "bit_rate": "4609836"
+    }
+  },
+  {
+    "file": "4K HDR「Love & Joy」 (紫雲清夏 ソロ3 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "60/1",
+        "avg_frame_rate": "60/1",
+        "side_data_list": [
+          {}
+        ]
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0"
+      },
+      {
+        "index": 2,
+        "codec_name": "png",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "90000/1",
+        "avg_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "176.587755",
+      "size": "75497472",
+      "bit_rate": "3420281"
+    }
+  },
+  {
+    "file": "4K HDR「Tame-Lie-One-Step」(歌：紫雲清夏)【学マス⧸学園アイドルマスタ⧸Gakumas MV】-(1080p60).mp4",
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "60/1",
+        "avg_frame_rate": "60/1",
+        "side_data_list": [
+          {}
+        ]
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0"
+      },
+      {
+        "index": 2,
+        "codec_name": "png",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "90000/1",
+        "avg_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "158.174331",
+      "size": "104918438",
+      "bit_rate": "5306471"
+    }
+  },
+  {
+    "file": "4K HDR「がむしゃらに行こう！」 (紫雲清夏 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "60/1",
+        "avg_frame_rate": "60/1"
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0"
+      },
+      {
+        "index": 2,
+        "codec_name": "png",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "90000/1",
+        "avg_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "109.621406",
+      "size": "60815024",
+      "bit_rate": "4438186"
+    }
+  },
+  {
+    "file": "4K HDR「ときめきエモーション」(葛城リーリヤ・紫雲清夏 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "60/1",
+        "avg_frame_rate": "60/1"
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0"
+      },
+      {
+        "index": 2,
+        "codec_name": "png",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "90000/1",
+        "avg_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "160.403447",
+      "size": "95196375",
+      "bit_rate": "4747846"
+    }
+  },
+  {
+    "file": "4K HDR「カクシタワタシ」 (紫雲清夏 ソロ2 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "60/1",
+        "avg_frame_rate": "60/1",
+        "side_data_list": [
+          {}
+        ]
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0"
+      },
+      {
+        "index": 2,
+        "codec_name": "png",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "90000/1",
+        "avg_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "200.597188",
+      "size": "94565449",
+      "bit_rate": "3771356"
+    }
+  },
+  {
+    "file": "4K HDR「ミラクルナナウ(ﾟ∀ﾟ)！」 (紫雲清夏 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "60/1",
+        "avg_frame_rate": "60/1",
+        "side_data_list": [
+          {}
+        ]
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0"
+      },
+      {
+        "index": 2,
+        "codec_name": "png",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "90000/1",
+        "avg_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "116.657052",
+      "size": "71027956",
+      "bit_rate": "4870889"
+    }
+  },
+  {
+    "file": "【Campus mode!!】紫雲清夏 楽曲コミュまとめ【学マス】-(720p30).mp4",
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1"
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0"
+      },
+      {
+        "index": 2,
+        "codec_name": "png",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "90000/1",
+        "avg_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "554.422857",
+      "size": "56507852",
+      "bit_rate": "815375"
+    }
+  },
+  {
+    "file": "【ときめきエモーション】紫雲清夏  楽曲コミュまとめ【学マス】-(720p30).mp4",
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1"
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0"
+      },
+      {
+        "index": 2,
+        "codec_name": "png",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "90000/1",
+        "avg_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "530.877823",
+      "size": "37910289",
+      "bit_rate": "571284"
+    }
+  },
+  {
+    "file": "【学マス】紫雲清夏　親愛度１１～２０話【アイドルコミュ】-(720p30).mp4",
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1"
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0"
+      },
+      {
+        "index": 2,
+        "codec_name": "png",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "90000/1",
+        "avg_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "2569.636281",
+      "size": "38940672",
+      "bit_rate": "121080"
+    }
+  },
+  {
+    "file": "【学マス】紫雲清夏　親愛度１～１０話【アイドルコミュ】-(720p30).mp4",
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1"
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0"
+      },
+      {
+        "index": 2,
+        "codec_name": "png",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "90000/1",
+        "avg_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "3321.521633",
+      "size": "192719628",
+      "bit_rate": "464171"
+    }
+  },
+  {
+    "file": "【楽曲コミュ】Love & Joy【紫雲清夏】【学マス】-(720p30).mp4",
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1"
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0"
+      },
+      {
+        "index": 2,
+        "codec_name": "png",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "90000/1",
+        "avg_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "493.238277",
+      "size": "64000239",
+      "bit_rate": "1038041"
+    }
+  },
+  {
+    "file": "【楽曲コミュ】Tame-Lie-One-Step【紫雲清夏】【学マス】-(720p30).mp4",
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1"
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0"
+      },
+      {
+        "index": 2,
+        "codec_name": "png",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "90000/1",
+        "avg_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "429.662041",
+      "size": "27262976",
+      "bit_rate": "507617"
+    }
+  },
+  {
+    "file": "カクシタワタシ-(1080p25).mp4",
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1080,
+        "height": 1080,
+        "r_frame_rate": "25/1",
+        "avg_frame_rate": "25/1"
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0"
+      },
+      {
+        "index": 2,
+        "codec_name": "png",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "90000/1",
+        "avg_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "199.887007",
+      "size": "9841221",
+      "bit_rate": "393871"
+    }
+  },
+  {
+    "file": "初星学園 「Kira Kira」Official Music Video (HATSUBOSHI GAKUEN - Kira Kira)-(1080p24).mp4",
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24/1",
+        "avg_frame_rate": "24/1"
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0"
+      },
+      {
+        "index": 2,
+        "codec_name": "png",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "90000/1",
+        "avg_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "180.047528",
+      "size": "100979318",
+      "bit_rate": "4486784"
+    }
+  },
+  {
+    "file": "初星学園 「Love & Joy」Official Music Video (HATSUBOSHI GAKUEN - Love & Joy)-(1280p24).mp4",
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 720,
+        "height": 1280,
+        "r_frame_rate": "24000/1001",
+        "avg_frame_rate": "24000/1001"
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0"
+      },
+      {
+        "index": 2,
+        "codec_name": "png",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "90000/1",
+        "avg_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "232.245986",
+      "size": "29284582",
+      "bit_rate": "1008743"
+    }
+  },
+  {
+    "file": "初星学園 「Tame-Lie-One-Step」Official Music Video (HATSUBOSHI GAKUEN - Tame-Lie-One-Step)-(1080p30).mp4",
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "30000/1001",
+        "avg_frame_rate": "30000/1001"
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0"
+      },
+      {
+        "index": 2,
+        "codec_name": "png",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "90000/1",
+        "avg_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "240.303311",
+      "size": "110254632",
+      "bit_rate": "3670515"
+    }
+  },
+  {
+    "file": "初星学園 「ときめきエモーション」Official Music Video (HATSUBOSHI GAKUEN -  Tokimeki Emotion)-(1080p24).mp4",
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24/1",
+        "avg_frame_rate": "24/1"
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0"
+      },
+      {
+        "index": 2,
+        "codec_name": "png",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "90000/1",
+        "avg_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "209.049252",
+      "size": "49081793",
+      "bit_rate": "1878286"
+    }
+  },
+  {
+    "file": "紫雲清夏 親愛度コミュ21～27話まとめ【学マス】-(720p30).mp4",
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1"
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0"
+      },
+      {
+        "index": 2,
+        "codec_name": "png",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "90000/1",
+        "avg_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "1983.309206",
+      "size": "51372032",
+      "bit_rate": "207151"
+    }
+  },
+  {
+    "file": "紫雲清夏【カクシタワタシ】楽曲コミュまとめ【学マス】-(720p30).mp4",
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1"
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0"
+      },
+      {
+        "index": 2,
+        "codec_name": "png",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "90000/1",
+        "avg_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "556.303673",
+      "size": "61011901",
+      "bit_rate": "877389"
+    }
+  }
+]

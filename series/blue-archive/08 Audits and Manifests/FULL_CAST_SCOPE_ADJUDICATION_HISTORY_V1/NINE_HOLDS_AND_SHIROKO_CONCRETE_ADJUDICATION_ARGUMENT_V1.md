@@ -1,0 +1,209 @@
+---
+series: BLUE_ARCHIVE
+artifact_type: phase3_scope_evidence_preservation_receipt
+status: canonical
+generation: V1
+version: "1.0"
+scope: "Complete frozen source-bound argument or receiving record preserved at attributed scope; historical recommendations below do not replace ROOT V3 allocation"
+source_boundary: "Admitted written Japanese a038020f1f5ac02dcfe76962426d38f86414cdd8 / BA_REFRESH_20260928T032248159554Z; source-specific receiving limits retained"
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+created: 2026-10-10
+updated: 2026-10-10
+canonical_home: series/blue-archive/08 Audits and Manifests/FULL_CAST_SCOPE_ADJUDICATION_HISTORY_V1/NINE_HOLDS_AND_SHIROKO_CONCRETE_ADJUDICATION_ARGUMENT_V1.md
+current_required_scope: series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json
+credit_rule: "Preservation and public reference translation add zero narrative, performed, model or literary completion credit"
+---
+
+> **Historical frozen argument, preserved at its declared receiving scope.** Current required allocation is [ROOT V3](../../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json). Original proposal/count/pending words below retain their dated witness meaning. Machine references are translated; frozen original tuple 35581 bytes / SHA256 `1676db3fed4fce27dea8dc345393262673847893c429a4a4a4297a5e773a7fbc` / content blob `ae359711b965332185d5a388bc020c22a654b255`. Translation adds no narrative, semantic or literary completion credit.
+
+---
+series: BLUE_ARCHIVE
+artifact_type: phase3_semantic_home_adjudication_supplement
+status: C_ONLY_PROPOSAL_ROOT_ADJUDICATION_PENDING
+source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8
+source_generation: BA_REFRESH_20260928T032248159554Z
+architecture_version: "1.12"
+new_complete_primary_narrative_credit: 0
+new_literary_package_completions: 0
+denominator: UNFROZEN
+supersedes_frozen_original: false
+---
+
+# Ten concrete home decisions: the nine holds and the Shiroko comparison
+
+## 1. Decision boundary
+
+This is a separate proposed adjudication of the nine visible holds in the frozen full-cast partition, plus ROOT's consequential Shiroko question. The original nineteen-section proposal and all cohort deliveries remain immutable. ROOT makes the actual package partition and denominator decision. These dispositions finish the assessment questions; they do not claim that any required literary package has been written, accepted or counted as completed.
+
+A standalone home needs a distinct sustained literary question and enough located meaning to be independently retrieved. Eleven headings are a substantive development requirement, not a demand to invent private episodes, a crisis, a diagnosis or a complete life. A named section is appropriate when represented agency is inseparable from a particular shared mechanism and a second independent document would repeat that mechanism with unsupported biography. Such a section retains a thesis, the whole admitted scope, contrary evidence, other recipients and explicit limits. It is not an omission, a minor-person appendix or a requirement that low-stakes evidence earn its place through a later crisis.
+
+Two distinct acting people may be served by one explicitly comparative home if both receive independently substantial treatment and the common question has its own causal and interpretive structure. Identical names, keys, titles or filename counts establish neither a person merge nor a package split. The comparison must be recoverable by every responsibility it serves. Global identity uncertainty limits assertions; it does not veto representation.
+
+I personally received the complete current Himari/Eimi maintained private arguments, MAIN V002/V005/S2V001 contextual accounts and EVENT836/843/851/856 accounts through their endings for this supplement. MINI32, EVENT849/862, the eighteen previously missing public owners, ROOT Red Winter10 and the MAIN/special question view retain their exact prior receiving scopes. Necessary MINI10010/10020 role contexts and complete E856015 were additionally inspected to discriminate actor/role claims. The whole frozen Shiroko monograph was received in three contiguous ranges through EOF. Argument receiving is not original primary reading. Targeted canonical checks retain their bounded extents; neither MINI source is a new whole narrative claim.
+
+Cycle008 current qualifications govern admitted analytical meaning. Producer-era UNADMITTED, draft, Phase3-unestablished and earlier censuses embedded in those arguments remain attributed history. No unbound large artifact, registry, Git/index, provider, cloud or repository write occurred.
+
+## 2. Compact proposed dispositions
+
+| Original hold/conflict | Concrete receiving home | Recommendation | Delta from frozen350 proposal |
+|---|---|---|---|
+| Kai/Riku local examiner | P3-CHAR-KAI-RIKU-LOCAL-VISITOR-EXAMINER | Independent source-bounded character monograph; both labels, no global join | +1 |
+| Tsumugi Trinity/roommate | P3-CHAR-TSUMUGI-ARTISTIC-MENTOR-PERFORMER-COMPARISON | Comparative character home serving existing Wild Hunt plus Trinity/roommate duties | Replace existing Wild Hunt home; +0 |
+| Mirai E851 | P3-CHAR-MIRAI-COMMERCE-FORMER-CHIEF-COMPARISON | Comparative character home serving E843/851 plus existing E856 duty | Replace existing E856 home; +0 |
+| Red Winter school | P3-INST-RED-WINTER-CROSS-FACTION-RECOGNITION-RESOURCES | Independent cross-faction authority/resource synthesis | +1 |
+| Millennium school | P3-INST-MILLENNIUM-DISTRIBUTED-AUTHORITY | Independent synthesis of technical power and affected persons' authority | +1 |
+| Himari–Eimi | P3-REL-HIMARI-EIMI-DIFFERENT-DEPENDENCIES | Independent directed relationship, both directions and source limits | +1 |
+| Ayumu | P3-SECTION-AYUMU-PRACTICAL-CARE-DISSENT-RECOGNITION in GSC differentiated-work relationship; civic request also in GSC institution | Complete substantial named character section | +0 |
+| Misuzu | P3-SECTION-MISUZU-CORRECTIONAL-GUEST-WORK-RECOGNITION in Valkyrie duty/rest/recipients | Complete named section with literal dialogue partition | +0 |
+| Computation Science leader | P3-SECTION-COMPUTATION-LEADER-DEMONSTRATION-CURIOSITY-CAUTION in Millennium distributed authority | Complete named section including enjoyment and changed intention | +0 |
+| Two Shirokos | P3-CHAR-SHIROKO-TWO-LIVES-COMPARATIVE plus P3-REL-SHIROKO-LOCAL-COUNTERPART-REFUSAL-MEMORY-COMPANY | One comparative character package plus new independent dyad | −1 character +1 relation =0 |
+
+The mechanical delta is +4 standalone responsibilities: this particular frozen350 proposal would become proposed354 if ROOT accepts exactly these operations. This is not ROOT's current count, frozenN or completion percentage. The comparisons do not erase source-local people. The nine holds receive concrete dispositions; identity and stronger-claim limits remain specific rather than silent assessment holds.
+
+## 3. Kai/Riku: reciprocal hospitality does not validate every diagnosis
+
+**Require one independent source-bounded character monograph.** Alias the disposition-only key to P3-CHAR-KAI-RIKU-LOCAL-VISITOR-EXAMINER. The Kai-labeled visitor introducing the name Riku is a sustained acting subject in V005C002E004 despite unresolved wider identity. Do not join this visitor to Shanhaijing Kai, Kaiser-prefixed people, clinical credentials or a universal restoration agent.
+
+The local arc has arrival into hospitality, plant interest, reciprocal relief, a declared specialty limit, explanation contested by recipients, an undelivered exercise-video promise and departure. Hospitality after Yukari's departure from the miko role has particular hosts and recipients. Renge's visibly present arm defeats the visitor's missing-arm diagnosis in that case. Nagusa's twilight admission gives a different degree of support for a local observation; it does not validate all plant analogy, psychology or prognosis. Willingness to help and recipients' skepticism belong together.
+
+The distinct personal thesis is reciprocal helpfulness coexisting with overextended analogical authority. Plant interest and hospitality are intrinsic ends, not admitted only because an injured senior gives them stakes. A failed diagnosis does not make all generosity fraudulent. Uncertain global identity must not remove the local person from analytical responsibility.
+
+**Serious alternative:** a full named section in Hyakka's care/authority institution could own the exchange because it tests its recipients and bodily uncertainty. I recommend standalone because the visitor's own reciprocity, specialty, overreach and response form an independently retrievable personal question beyond Yukari's membership or Nagusa's succession. The scene remains institutional evidence without another character completion credit.
+
+**Eleven dimensions:** thesis; offer/contestation/departure arc; courteous offer versus epistemic performance; local visiting role; plant interest/hospitality; bodily uncertainty and actual choices; Sensei as witness, not an invented intimate patron; differentiated Yukari/Renge/Nagusa recipients; Kai/Riku labels and specialty language; generosity/fraud/overconfidence rivals; exact E004 evidence. Public/private division is limited to the exchange, with no fabricated BOND pool or hidden interior. Wider biography needs named evidence for stronger claims, not eligibility clearance.
+
+**Evidence/writing duty:** complete MAIN/special M015 fields, whole current V005 account§5, BA:main:005:002:004:s1:u0024–0081. Before amplifying detail, the writer receives the complete accepted E004 argument and makes both labels discoverable. Native repair is needed only for a consequential new attribution/identity claim. No general identity resolution is required for this recommendation.
+
+## 4. Tsumugi: a comparative artist home retaining inconvenient recipients
+
+**One comparative character home.** Replace P3-CHAR-TSUMUGI-WILDHUNT-SOURCE-SCOPED with P3-CHAR-TSUMUGI-ARTISTIC-MENTOR-PERFORMER-COMPARISON; route the Trinity/roommate hold into it. Keep E836/E849/E856 source-local; shared labels do not authenticate one biography or release-based chronology.
+
+E836 gives a distinct artistic position. Tsumugi refuses to choose Airi's motive, cautions against fearful music, offers help, questions whether adult reassurance postpones insecurity, gives harder composed music and asks the heroine for lyrics. Increasing difficulty is no demonstrated cure; confidence remains a forecast. Stage death lyrics and cheering are represented persona/reception, not actual deaths or a universal welfare doctrine. Friends respect preparation time rather than impose a visit. (E836004u0050–0118;008u0111–0130;011u0010–0029.)
+
+The complete E849 account supports artistic agency, actual performance/café reunion and collaborative lights alongside unequal rooms, compulsory practices, detention, uncertainties and opposed peer thresholds. E856013 adds contrary reception: Rena reports a bounded result, senior roommates read travel as occult membership and she rejects that interpretation. The Tsumugi/Eri/Eri label seam remains. Artistic framing can press another person's interpretation even when company is wanted.
+
+The common question is how imagination, expertise and persona make company possible while addressed people keep their own reasons and boundaries. Mentor, performer and roommate directions have different endpoints. Ordinary café/performance and peer-work scenes remain necessary, without earning admission through Airi's crisis.
+
+**Serious alternative:** two source-local standalone packages could be warranted if ROOT finds the common question too weak or identity evidence requires distinct contexts; E856 still needs a visible section. I recommend one because artistic-position/recipient-response is positively present in complete accepted meanings and can hold unfavorable roommate reception without declaring sameness. This is an analytical home, not person registration.
+
+**Eleven dimensions/duty:** each direction needs a sustained thesis and local sequence; counsel/performance versus persona; actual artistic/roommate roles; music/café/craft/play; anxiety and institutional conflict without compulsory combat; exact adult contact; Airi/Rena/Eri/Kanoe recipients independently; artist/stage/roommate modes and seams; demanding mentor versus generous helper and communion versus pressure; exact routes. Current whole E836/E856 and prior own whole E849 receiving suffice for allocation. The actual writer must receive all three complete meanings and endings, retaining independent directions in every substantive dimension. Global identity remains a comparative limit, not another implicit eligibility hold.
+
+## 5. Mirai: commerce, care, embarrassment and divergent audiences
+
+**One comparative character home.** Replace P3-CHAR-MIRAI-E856-SOURCE-SCOPED with P3-CHAR-MIRAI-COMMERCE-FORMER-CHIEF-COMPARISON, absorbing E851 and newly positive E843009. Shared label, title, teacher recognition and recurring goods are positive bridges, not repairs to empty person fields or a common-world calendar.
+
+E851 retains an unreformed commercial agent after heroic success. False-health advertising, conditional undelivered refund, resistance and immediate eye cries are specific. In the afterstory shallow water defeats an escape expectation; savings loss is claimed, and a broken bracelet becomes proof of protection and next month's chosen product. She directs a new sales story rather than disappearing with protagonists. (E851012–013;015u0001–0016.)
+
+E843009 adds concealed sponsorship and apparent abandonment. Helmets appreciate her not abandoning them; she interprets failed mission/business and her sponsor's absence differently. Professor claims rescue from correctional transfer and says she did enough while concealing purpose. The opened door is actual; safety, acquittal and harmless sponsorship are unverified. Loyalty, fear and dependence complicate a solitary fraud essence.
+
+E856 adds ordinary life. Former-chief dignity, reported concern for Tsubasa, denied unprofitable revenge and occasional future contact coexist with actual meat happiness and feigned indifference. Public permission for proximity contrasts with private eating inconvenience. Konoka's secret nonarrest is care plus official exception, not acquittal. Food, embarrassment and wanted contact have equal literary weight. Probable grass presence does not explain the explicitly denied second-floor placement.
+
+The common question is how Mirai manages customers, crew, sponsor and former junior while wanting profit, standing, taste and company differently. A broken object becomes advertising; enjoyed meat becomes performed boredom. That structural comparison does not prove every feeling fraudulent. Concern and loyal action can coexist with deceptive commerce.
+
+**Serious alternatives:** retain separate commerce/former-chief monographs until formal identity bridging, or place the seller entirely inside a pseudoscience institution. The latter loses her resistant afterstate and food/inconvenience; the former multiplies packages despite a bounded complete comparison preserving both scopes. I recommend the common home without registry merge. Later evidence of distinct people can split it without losing either direction.
+
+**Eleven dimensions/duty:** own audience-management thesis; each event's local choices/endings; sales speech versus inward embarrassment; claimed/actual club and sponsor roles; meat/profit/contact; flight/capture at scope; teacher recognition without invented intimacy; crew/sponsor/Tsubasa recipients; fake-health vocabulary, conditional offers, inner turns/seams; loyal/fraud-only/reformed rivals; E843009/E851012–015/E856010–013 exact routes. All three current whole meanings are personally received. The writer retains full endings and independently locatable scopes, with no refund, prison arrival, restoration, durable reform or certified medical result.
+
+## 6. Red Winter: the school mechanism crosses factions
+
+**Independent institutional synthesis** P3-INST-RED-WINTER-CROSS-FACTION-RECOGNITION-RESOURCES, with old pending key as alias. The distinct question is how personal recognition and performed authority become demands on other factions' labor, materials, records and representation, and how factions redirect/refuse them. The school name itself adds no package.
+
+Secretariat/security owns governing correctness, purge threats and subordinate fabrication. Class227 owns imposed deprivation versus home and failed appeal. Knowledge Liberation owns principles against collecting/property/craft. Publishing owns access, prestige and reader reception. Works owns wages/safety/labor appropriation. The convergence home explains interfaces rather than copying internal club arguments.
+
+MINI10010/10020 directly tests those interfaces. Millennium's demonstration challenges Cherino's prestige; her boast creates next-Monday obligation. Marina promises others' work without permission, then apologizes and offers responsibility. Minori supplies mathematics, Mel refuses free drawing, Yakumo seeks leverage, Takane objects to its timing and Momiji occupies constrained working space. Human makers act as automatic authority and redirect its advice toward their own ends. Acceptance has no shown implementation. Cherino wants adult visits/play while a furnace threat and revolution retain unequal power. Different wishes become one public fiction and a contest over it.
+
+Personally whole ROOT Red Winter10 retains ten people's private tastes, refusals, author/reader conflicts and local endpoints. Whole current E802/E808 and own whole E862 add festival/craft/resource contexts at exact prior scopes. Propulsion and garage/statue damage, lost records and qualification as the only entrant do not certify a safely won race or restored archive. Devices/medals must not erase recipients. Comedy does not suspend consequences.
+
+**Serious alternative:** cross-faction sections in Secretariat/security and the promoted-race ensemble could preserve all meaning economically. I recommend standalone because the inference is bidirectional: Secretariat mobilizes labor, while artistic/editorial/labor factions alter representation and use access for their purposes. This is independently retrievable allocation/recognition across complete owners, rather than enlarged Cherino biography. Race ensemble remains a different outing-specific coordinated-craft question.
+
+**Receiving duty:** complete ROOT Red Winter10, current MINI32, E802/E808/E862 current owners and exact source-local role scopes. This supplement has adequate complete analytical custody for the mechanism, original primary credit attributed. The actual synthesis must integrate recipients and end limits. Proposed recognition is not installed democracy, wages, policy, overthrow or restored enrollment. Ordinary pleasure and unwanted work are both necessary.
+
+## 7. Millennium: expertise does not authorize the uses of expertise
+
+**Independent institutional synthesis** P3-INST-MILLENNIUM-DISTRIBUTED-AUTHORITY. Specialized expertise makes an intervention possible, but control of access, bodies, visibility, budget and membership must be justified to affected people. Adding club names or reducing students to engineering rescuers establishes no mechanism.
+
+Whole current V002 supplies positive cross-unit structure. Making, audience response, prize and conditional membership differ. C&C security, Veritas access, Engineering modification, Seminar resources, GDD participation and training preferences have specific ends/costs. Distributed C002 hypotheses/intervention work while imposed destructive function and unilateral control are contested. Rio's stated individuality revision does not cancel continuing hacking/proximity commands. Alice's valued badly made first game, Yuzu's hurt criticism and prevented deletion, Noa's poetry/privacy and Rio's feared impractical hobby show why people's ends constrain technical policy. None needs crisis utility.
+
+E843 directly tests school accountability. Rio condemns a system and proposes sole responsibility; Seia/Neru refuse recruitment followed by exclusion. C&C information complaint survives reported successful handover. Future compensation and a one-week stay do not restore office or complete technical/legal reparation. Diplomacy, trust, access logs and unofficial operation interact across structures beyond Seminar finances or C&C delegation.
+
+The computation leader contributes pride, curiosity, admission of incomplete knowledge and changed intention after apparent revolutionary consequences. Reception can alter preferred system performance without implemented redesign. MINI machine speech and E854 chosen-person arguments do not prove one ontology. Rescue, inquiry, world mechanisms and legal authority remain separate claims.
+
+**Serious alternative:** linked sections among the scoped institutions could avoid an umbrella if one existing home fully owned cross-unit authorization. At present each owns a narrower mechanism. Independent convergence explains distributed intervention versus unilateral control, efficacy versus recipient authority, across them without copying all monographs. Another umbrella for the same mechanism is unjustified.
+
+**Receiving duty:** whole current V002 and necessary accepted chapter arguments, complete Millennium private/public-peer meanings and opposite recipient cases, E843/MINI and consequential Final/E854 meanings at actual scope. This supplement personally received V002/E843 whole and previously complete Millennium question projections. It did not freshly replay every chapter primary or577 private objects. Final/E854 original full-source custody remains attributed. Actual synthesis owes necessary complete analytical endings before expanding transfer/office/rescue claims. That is a writing duty, not unresolved present eligibility.
+
+## 8. Himari–Eimi: different dependencies, different directions
+
+**Independent directed relationship** P3-REL-HIMARI-EIMI-DIFFERENT-DEPENDENCIES. Practical cooperation/company, body/equipment needs and inquiry coexist with unequal methods and each person's independence. Both directions need development; paired titles or co-presence alone are insufficient.
+
+Whole Himari20 specifically reports Eimi's room-return help beside teacher-rest. That prevents an exclusive adult dyad or helpless-genius account. Himari wants music/company, comfort, making and limited curiosity while unsolicited service, confident framing and detours retain contrary force. Mobility and care are real without diagnosis. Eimi34 preserves taste, cold/warmth, loneliness, music, flawed making, gifts, bounded company and reluctance to expand obligations. Cooperation cannot replace her ends. Named Himari/Toki references are local reports/leads rather than magically complete dyads; the two Eimi raw keys remain printed.
+
+Whole E856014 supplies an encounter. Manners, work in darkness and flower-image banter has ordinary relational value. Eimi questions stale investigation interests; Himari distinguishes unproved from nonexistent and admits the bus/statue/payphone remain unknown. Opposite responses and knowledge limits are present. Most literal labels say Himari; explicit Eimi address enables narrow context attribution, not a registry repair or universal reassignment.
+
+The home tests whether witty indirection, efficiency and practical care allow dissent. Himari receives another student's help and questioning; Eimi cooperates with different tastes/boundaries. It is distinct from each teacher relation and Millennium's authorization institution.
+
+**Serious alternative:** complete dyad sections in SPTF or both character monographs avoid thin standalone material. This is a reasonable interim organization. Independent synthesis is recommended because private reports plus actual inquiry encounter give opposite directions, different purposes and contrary reception. Reports stay reports; whole private pools are not automatic peer-contact evidence. The home is required to finish comparisons, not declared finished here.
+
+**Receiving duty:** complete Himari20/Eimi34 and E856 are personally received. The dyad writer must additionally receive consequential complete joint-work/end arguments before expanding Pavane, Final or E854 detail. Preserve reported room-return help, Eimi's ordinary affect, literal drifting labels and absent permissions. No mother/child, servant/master, clinical dependence, endless obedience, technical optimum or exclusive-romance model follows.
+
+## 9. Ayumu: full named practical care and political dissent
+
+**Full named character section** P3-SECTION-AYUMU-PRACTICAL-CARE-DISSENT-RECOGNITION in P3-REL-GSC-DIFFERENTIATED-WORK-RECOGNITION. Keep E824's civic request in P3-INST-GSC-SCHALE, linked as evidence without another character count. Resolve independent reconsideration to these homes.
+
+Main-only work and absent conventional private family do not erase her. Complete M005 fields give mail/photo delivery, objections to Rin accusations, finite rest coverage and a fatigue explanation. Whole S2V001 differentiates Aoi's deadline mediation from Ayumu/Momoka's specific coverage. Council recognition is a different judgment from defending Rin; fatigue speculation does not disprove Rin's memory. Whole E824's civic request occurs before complete restoration, with reported aid and prospective Rin participation. Initiative belongs to Ayumu rather than only the office-holder receiving help.
+
+Her personal question is practical support versus independent judgment. Care is real at specific tasks while recognition is contested. Neither a fixed loyal-subordinate law nor hidden teacher romance follows. The unjoined9009004 self-doubt comparator remains mode-bound rather than her confirmed confession.
+
+**Serious alternative:** source-bounded standalone could organize these public positions. Small counts, quiet stakes and no crisis cannot reject it. Current meanings develop actions through GSC work division/recognition, without an independently sustained wants/choices/recipient trajectory beyond that mechanism. A separate eleven-heading document risks repetition and invented interior. A substantial indexed named section explicitly owns every represented claim. Later positive independent preferences/conflict can reopen allocation without being presumed present mandatory debt.
+
+**Eleven dimensions/duty:** own thesis; task/defence/recognition/request encounters, no universal calendar; actions versus unjoined comparator; finite GSC role; represented wants and unprinted further leisure; political choices; actual teacher requests; Rin/Aoi/Momoka/claimant recipients; empty key/address/report modes; loyal-subordinate/helper/independent-judge rivals; exact MAIN004/100/series2/E824 routes. Complete M005 fields, whole S2V001 and prior whole E824 suffice for allocation. The actual section writer receives necessary complete MAIN arguments before amplifying wording/choices. Section completion is not credited.
+
+## 10. Misuzu: institutional encounter with actor limits
+
+**Full named section** P3-SECTION-MISUZU-CORRECTIONAL-GUEST-WORK-RECOGNITION in P3-INST-VALKYRIE-DUTY-REST-RECIPIENTS, indexed by ミスズ and source-local correctional guest. Distinguish Kanna, Public Security students, unknown voice and guest; do not join Misuzu to Kanna or assign every label to one speaker.
+
+Whole current E856 and complete small015 witness constrain ownership. Kanna opens; Public Security A labels continue to temporary detention/offence-check/processing order. No completed sentence or free rehabilitation is shown: an offender says they simply do not want to fight the monster-like deputy again. Guest u0015 says ミスズ;016–017 unknown praise;018–024 say ミスズ across both sides. u0021 addresses correctional chief and0022 responds to Public Security chief. Literal labels cannot warrant a clean one-speaker paraphrase.
+
+Meaning survives: guest recognition, teased diligence, workload comparison and possible correctional arrivals anticipate institutional recipients rather than complete treatment. Iron Maiden and laughter are written markers, not performed delivery, actual torture, diagnosis or harmlessness certificate. The role-bearing person remains represented despite bounded attribution.
+
+**Serious alternative:** source-bounded monograph could foreground a new official's anticipated work and unsettling response if complete evidence located independent wants, changed choices, contrary recipients or further encounters. Present evidence supports a distinct institutional interlocutor without secure ownership of both speech directions. Standalone risks repeating the process mechanism or overclaiming the actor being assessed. This is attribution/density, not anonymity, low stakes or moral discomfort exclusion.
+
+**Eleven dimensions/duty:** bounded workload/recognition thesis; order→guest anticipation sequence; representation versus uncertain actor; addressed office; diligence/busyness and unprinted leisure; authority recipients rather than invented crisis; absent intimate teacher relation; police/guest/offender directions; exact ミスズ/？？？/公安局の生徒A; cooperation/coercion rivals with unshown outcome; whole015/current856 routes. The writer preserves literal partition or equivalent table. Native repair is required only for stronger individual assertions; complete named-role argument remains mandatory now.
+
+## 11. Computation Science leader: enjoyable expertise and changed intention
+
+**Full named role-character section** P3-SECTION-COMPUTATION-LEADER-DEMONSTRATION-CURIOSITY-CAUTION in Millennium distributed authority. Index 演算科学研究部長, without guessed named student or nonhuman club identity.
+
+Targeted source contexts recover more than the short projection. The leader frames a demonstration, presents SEN9000 as Millennium's work, notes it answered before her explanation, marks an example correct and invites Cherino's question. Dialogue-model/learning claims are maker/presenter reports; spectators certify no general reliability/consciousness. Statistical forecast is not observed destruction.
+
+Visitor response reveals curiosity beyond propaganda. She apologizes for incomplete knowledge of a supposedly better Red Winter machine, names a research-society context, chooses Monday because of nearby business and anticipates seeing the technology as an honor. Arrival is actual. Excitement meets revolution/betrayal slogans; she intends to lower her own “child's” performance. No redesign is shown. Pride, enjoyment, surprise and caution are intrinsically personal, without requiring a true machine threat.
+
+**Serious alternative:** a tightly bounded standalone could explain the changed stance. The complete named section is preferred because this change is inseparable from demonstration, perceived reception and technical authority, without independent recipient history or wider personal conflict. Standalone would repeat mechanism and could turn a last-line joke into unsupported developmental psychology. Anonymity, cheerfulness and scarcity do not decide the allocation.
+
+**Eleven dimensions/duty:** delighted-expertise/reception thesis; presentation→invitation→arrival→intention; polish versus surprise; actual maker/presenter/research context; wanted learning/excitement, no invented hobbies; perceived consequence without proved crisis; absent teacher contact; Cherino/audience/system/protesters separately; apology, model words and うちの子; expert/publicity/frightened-maker rivals; MINI10010s1u0002–0060 and10020s2u0121–0130. Prior whole MINI32 plus actual targeted role contexts suffice. Those source contexts are partial narrative receiving, not new full MINI credit. No named identity, personhood or completed redesign follows.
+
+## 12. Shiroko: one complete comparison, two acting people, separate dyad
+
+**One comparative character package** P3-CHAR-SHIROKO-TWO-LIVES-COMPARATIVE serves F135/M035. Alias original local/counterpart homes into it. Add independent P3-REL-SHIROKO-LOCAL-COUNTERPART-REFUSAL-MEMORY-COMPANY. This dyad is absent from frozen counted partition/catalog/alias table. Shiroko–Ayane has different actors/mechanism. Monograph narration does not complete a separate relationship synthesis.
+
+Whole frozen Shiroko has substantial independent treatment of both people in all eleven sections. Local10010/10024/20027 wants running, gear, collecting/food and company; methods can exceed endurance/permission. Slow pushed-bicycle return is actual adjustment/arrival while coerced exercise, criminal fantasy and unnoticed adult fatigue remain. Counterpart10100/M035 has distinct history, failed lottery memory, current-room shopping/work, wanted riding, discomfort at adult closeness and reported race defeat with future rematch. Ordinary life is not just a warning to the local student; abduction/determinism remain her own contrary acts.
+
+The common question is positively defined: particular ordinary activities make chosen company possible for people with different histories/uncertainties. Two substantial directions are preserved, not one variant chronology. Other-axis identification strengthens counterpart presence without local inevitability. Fear/relief do not certify recovered sameness. Shared register/key cannot establish continuity. Each retains memory, recipient, refusal and endpoint.
+
+**Serious alternative:** two standalone monographs are possible and facilitate retrieval. There is no one-file rule. One is recommended because the actual complete candidate fulfills an independently sustained common question without sacrificing either eleven-dimension development. Every F135/M035 entry must reach that named comparison, with directly locatable trajectories. Count once if ROOT adopts this full common question. Two people do not automatically mean two packages; one package does not mean one person.
+
+The dyad is distinct: abduction/claimed fate/local refusal; particular unnamed gift with distinct memories/proposed coexistence; council-name request whose decision stays with the counterpart; ordinary challenge and reported race without finished rematch/appointment. Both directions are mandatory. Local Shiroko keeps her scarf while recognizing the other; counterpart company need not mean replacement/administrative assimilation. Gifts and rivalry do not absolve abduction, certify coexistence or authorize all future contact.
+
+**Evidence/duty:** whole frozen candidate48,619bytes SHA4aed715309bdb3bb7581bd3ab77dbbfa6d853dbca10d0232bb46bfab659ced20, especially§§1–3,5–8,10–11. Source receiving is attributed, with maintained38scope and accepted MAIN/Final/E822/E823. Anchors MAIN100C004E001u0031–0033/0067–0107;E008u0020–0060;BOND10100E005;wholeMM101000260. Actual dyad writer receives full linked arguments/endings, preserves reports/inner/choices/locales, secret message, different vault memories, race report and future rematch/attendance. No relationship completion follows from this monograph review.
+
+## 13. Exact receiving, limits and ROOT action
+
+Structured companion records operations, alternatives, evidence, substantive dimension duties and no-credit boundaries. Receipt distinguishes personally whole current arguments, prior whole accepted arguments, attributed original source custody, whole derivative and targeted partial canonical contexts. Copying/hashing is not meaning receiving. First combined E843 output clipped; recovered tail is listed. Overcombined Red Winter refresh also clipped and is not new whole receiving: retained earlier complete reading plus fresh whole§3 are the authority.
+
+All14 gaps stay OPEN. G01/G06 gain ordinary/directed comparison without cast closure; G02/G03/G04/G05/G11 keep separate duties; G07/G08 exclude global calendar/repeated-event biography; G09 preserves actors/choices/reports; G10 stays unperformed; G12 retains raw identity seams; G13 excludes clinical/legal/technical/safety certification; G14 separates MAIN/event/profile/message/mediated modes. Bounds never discard known evidence. Necessary actual writer receiving remains explicit.
+
+ROOT adjudicates against its current partition; frozen350 is only this mathematical baseline. Canonical transforms and aliases remain ROOT-owned. Add the new dyad once and preserve navigation for absorbed holds/homes. Schools retain distinct mechanisms; another same-mechanism umbrella needs independent justification. Two existing Hyakka institution labels also look potentially overlapping: ROOT should assess Onmyou versus chosen-service/succession during deduplication. This supplement does not silently delete either or invent a count reduction outside its ten operations.
+
+The ten assessments are concretely resolved as recommendations. Zero completed monographs, new completed primary narratives, installed controls, frozenN or milestones are claimed. Hina and remaining Prefect monographs are separate active writing duties.

@@ -1,0 +1,229 @@
+{
+  "created_utc": "2026-10-17T14:58:59.575341+00:00",
+  "state": "PROPOSED_CURRENT_METADATA_DERIVATIVES_BEFORE_FINAL_ACCEPTANCE",
+  "effective_authority_rule": "Root actual suite acceptance/freeze and canonical publication determine adoption. This record alone is not acceptance or source release.",
+  "models": [
+    {
+      "model_key": "K",
+      "public_model_relative_path": "../KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+      "tested_core": {
+        "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+        "bytes": 60135,
+        "sha256": "81566cbad8825d288595502af20897fd80dfb0d3583a524c77947615a5bf31ec"
+      },
+      "proposed_public_bytes": 61516,
+      "proposed_public_sha256": "6fe7b325666e339ed86edba70f8d1f9491705f66a6ecdc31eeb44a5bed7a89e4",
+      "operations": [
+        {
+          "before_exact": "status: draft_noncurrent",
+          "after_exact": "status: active_provisional",
+          "reason": "Declared metadata adoption; no mechanism or forecast changed. Effective current authority only with root acceptance/canonical publication."
+        },
+        {
+          "before_exact": "source_boundary: Accepted Japanese main-principal evidence and specialist authority at39b498f1852225424830b7daf6de59abedbb8c02; all later narrative planes excluded",
+          "after_exact": "source_boundary: Japanese MAIN01-MAIN17 principal137 members; accepted main-only specialists and CR-MAIN001-007 current qualifications; holdout and expanded evidence excluded",
+          "reason": "Current metadata separates qualified source authority from preserved initial-stage counts."
+        },
+        {
+          "before_exact": "do_not_use_as_current_authority: true",
+          "after_exact": "do_not_use_as_current_authority: false",
+          "reason": "Declared candidate-to-current-eligible authority metadata with subordinate main-only confidence."
+        },
+        {
+          "before_exact": "# Kazuma reconstruction model — choices among ease, leverage and particular people\n\n",
+          "after_exact": "# Kazuma reconstruction model — choices among ease, leverage and particular people\n\n**Main-only R1 adoption context.** This current-eligible derivative is generation V1, model version MAIN_ONLY_R1, subordinate to admitted Japanese evidence and the [suite audit](KONOSUBA_RECONSTRUCTION_SUITE_AUDIT.md). It supplies a bounded baseline for unchanged-model holdout assessment; it is not a fully externally validated or archival final model. The exact tested core is 81566cbad8825d288595502af20897fd80dfb0d3583a524c77947615a5bf31ec (60135 bytes). [Declared adoption operations](MAIN_ONLY_R1_EVIDENCE/PUBLIC_MODEL_ADOPTION_OPERATIONS_AND_CORE_RECOVERY.json) invert this metadata/wrapper change to that complete core without changing a causal rule or forecast.\n\nInitial/private/pre-case/no-simulation/no-freeze statements below retain their authored-stage meaning. The audit and [separate main-only suite freeze](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_MAIN_ONLY_RECONSTRUCTION_SUITE_FREEZE.json) govern actual later acceptance, findings, dates and exposure. Old six-revision references describe their original stage; [CR-MAIN-007](../08%20Evidence%20and%20Indexes/KONOSUBA_CLAIM_REVISION_LEDGER.md) also qualifies the current age wording. All66 original main-evidence pins remain historically retrievable, while four current mutable ledgers append the qualifier. The prior main-evidence freeze is distinct from this reconstruction freeze.\n\n",
+          "reason": "Attributable dated-stage and current-authority wrapper; preserve original argument and all predictions literally."
+        }
+      ],
+      "full_inverse_to_tested_core": true,
+      "causal_argument_and_forecast_text_changed": false
+    },
+    {
+      "model_key": "T",
+      "public_model_relative_path": "../KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+      "tested_core": {
+        "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+        "bytes": 49900,
+        "sha256": "8ed8d78a9c9b538a88c4331214b74920715a32883408742bdf690534a000859e"
+      },
+      "proposed_public_bytes": 51278,
+      "proposed_public_sha256": "3bec39a1014c50c6704e920b076076ecd2d82ffab0f987fd379844cc68783ee1",
+      "operations": [
+        {
+          "before_exact": "status: draft_noncurrent",
+          "after_exact": "status: active_provisional",
+          "reason": "Declared metadata adoption; no mechanism or forecast changed. Effective current authority only with root acceptance/canonical publication."
+        },
+        {
+          "before_exact": "source_boundary: Accepted Japanese17main-principal narratives and seven specialists at39b498f1852225424830b7daf6de59abedbb8c02; holdout and expanded evidence excluded",
+          "after_exact": "source_boundary: Japanese MAIN01-MAIN17 principal137 members; accepted main-only specialists and CR-MAIN001-007 current qualifications; holdout and expanded evidence excluded",
+          "reason": "Current metadata separates qualified source authority from preserved initial-stage counts."
+        },
+        {
+          "before_exact": "do_not_use_as_current_authority: true",
+          "after_exact": "do_not_use_as_current_authority: false",
+          "reason": "Declared candidate-to-current-eligible authority metadata with subordinate main-only confidence."
+        },
+        {
+          "before_exact": "# Cross-context transfer — preserve the person, specify the changed world\n\n",
+          "after_exact": "# Cross-context transfer — preserve the person, specify the changed world\n\n**Main-only R1 adoption context.** This current-eligible derivative is generation V1, model version MAIN_ONLY_R1, subordinate to admitted Japanese evidence and the [suite audit](KONOSUBA_RECONSTRUCTION_SUITE_AUDIT.md). It supplies a bounded baseline for unchanged-model holdout assessment; it is not a fully externally validated or archival final model. The exact tested core is 8ed8d78a9c9b538a88c4331214b74920715a32883408742bdf690534a000859e (49900 bytes). [Declared adoption operations](MAIN_ONLY_R1_EVIDENCE/PUBLIC_MODEL_ADOPTION_OPERATIONS_AND_CORE_RECOVERY.json) invert this metadata/wrapper change to that complete core without changing a causal rule or forecast.\n\nInitial/private/pre-case/no-simulation/no-freeze statements below retain their authored-stage meaning. The audit and [separate main-only suite freeze](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_MAIN_ONLY_RECONSTRUCTION_SUITE_FREEZE.json) govern actual later acceptance, findings, dates and exposure. Old six-revision references describe their original stage; [CR-MAIN-007](../08%20Evidence%20and%20Indexes/KONOSUBA_CLAIM_REVISION_LEDGER.md) also qualifies the current age wording. All66 original main-evidence pins remain historically retrievable, while four current mutable ledgers append the qualifier. The prior main-evidence freeze is distinct from this reconstruction freeze.\n\n",
+          "reason": "Attributable dated-stage and current-authority wrapper; preserve original argument and all predictions literally."
+        }
+      ],
+      "full_inverse_to_tested_core": true,
+      "causal_argument_and_forecast_text_changed": false
+    },
+    {
+      "model_key": "A",
+      "public_model_relative_path": "../KONOSUBA_AQUA_RECONSTRUCTION_MODEL.md",
+      "tested_core": {
+        "path": "/workspace/scratch/konosuba/v17-producer/reconstruction-models-main-only-r1-receiving-v3/KONOSUBA_AQUA_RECONSTRUCTION_MODEL.md",
+        "bytes": 63022,
+        "sha256": "f85d902572a6d1f5094a3892c693d7d456dde5b90b688d706840693a63499187"
+      },
+      "proposed_public_bytes": 64491,
+      "proposed_public_sha256": "2f63ef1000c74a2bf105c3cfbbd4258f39e8abe9cf1544fac25768673f17c430",
+      "operations": [
+        {
+          "before_exact": "status: initial_private_candidate_before_simulation_and_peer_receiving",
+          "after_exact": "status: active_provisional",
+          "reason": "Declared metadata adoption; no mechanism or forecast changed. Effective current authority only with root acceptance/canonical publication."
+        },
+        {
+          "before_exact": "source_boundary: MAIN01-MAIN17 admitted principal137 members; accepted main-only specialists and six attributable corrections",
+          "after_exact": "source_boundary: Japanese MAIN01-MAIN17 principal137 members; accepted main-only specialists and CR-MAIN001-007 current qualifications; holdout and expanded evidence excluded",
+          "reason": "Current metadata separates qualified source authority from preserved initial-stage counts."
+        },
+        {
+          "before_exact": "artifact_type: character_reconstruction_model",
+          "after_exact": "artifact_type: character_reconstruction_model\nscope: MAIN_ONLY_V01-V17",
+          "reason": "Supply explicit main-only current scope for previously incomplete draft metadata."
+        },
+        {
+          "before_exact": "holdout and expanded evidence excluded\n---",
+          "after_exact": "holdout and expanded evidence excluded\nsupersedes: []\nsuperseded_by: []\ndo_not_use_as_current_authority: false\n---",
+          "reason": "Complete authority metadata; no supersession of prior prospective generations."
+        },
+        {
+          "before_exact": "# Aqua reconstruction model — MAIN_ONLY_R1\n\n",
+          "after_exact": "# Aqua reconstruction model — MAIN_ONLY_R1\n\n**Main-only R1 adoption context.** This current-eligible derivative is generation V1, model version MAIN_ONLY_R1, subordinate to admitted Japanese evidence and the [suite audit](KONOSUBA_RECONSTRUCTION_SUITE_AUDIT.md). It supplies a bounded baseline for unchanged-model holdout assessment; it is not a fully externally validated or archival final model. The exact tested core is f85d902572a6d1f5094a3892c693d7d456dde5b90b688d706840693a63499187 (63022 bytes). [Declared adoption operations](MAIN_ONLY_R1_EVIDENCE/PUBLIC_MODEL_ADOPTION_OPERATIONS_AND_CORE_RECOVERY.json) invert this metadata/wrapper change to that complete core without changing a causal rule or forecast.\n\nInitial/private/pre-case/no-simulation/no-freeze statements below retain their authored-stage meaning. The audit and [separate main-only suite freeze](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_MAIN_ONLY_RECONSTRUCTION_SUITE_FREEZE.json) govern actual later acceptance, findings, dates and exposure. Old six-revision references describe their original stage; [CR-MAIN-007](../08%20Evidence%20and%20Indexes/KONOSUBA_CLAIM_REVISION_LEDGER.md) also qualifies the current age wording. All66 original main-evidence pins remain historically retrievable, while four current mutable ledgers append the qualifier. The prior main-evidence freeze is distinct from this reconstruction freeze.\n\n",
+          "reason": "Attributable dated-stage and current-authority wrapper; preserve original argument and all predictions literally."
+        }
+      ],
+      "full_inverse_to_tested_core": true,
+      "causal_argument_and_forecast_text_changed": false
+    },
+    {
+      "model_key": "M",
+      "public_model_relative_path": "../KONOSUBA_MEGUMIN_RECONSTRUCTION_MODEL.md",
+      "tested_core": {
+        "path": "/workspace/scratch/konosuba/v17-producer/reconstruction-models-main-only-r1-receiving-v3/KONOSUBA_MEGUMIN_RECONSTRUCTION_MODEL.md",
+        "bytes": 59422,
+        "sha256": "618a867bfadb361305de4a4b8587a86f348eae1985042bbef11389fd9ab67080"
+      },
+      "proposed_public_bytes": 60891,
+      "proposed_public_sha256": "cbff1ec4266e8d6908b3d58af9870aa7f981fe40f3a573ed29da345e1f1d801f",
+      "operations": [
+        {
+          "before_exact": "status: initial_private_candidate_before_simulation_and_peer_receiving",
+          "after_exact": "status: active_provisional",
+          "reason": "Declared metadata adoption; no mechanism or forecast changed. Effective current authority only with root acceptance/canonical publication."
+        },
+        {
+          "before_exact": "source_boundary: MAIN01-MAIN17 admitted principal137 members; accepted main-only specialists and six attributable corrections",
+          "after_exact": "source_boundary: Japanese MAIN01-MAIN17 principal137 members; accepted main-only specialists and CR-MAIN001-007 current qualifications; holdout and expanded evidence excluded",
+          "reason": "Current metadata separates qualified source authority from preserved initial-stage counts."
+        },
+        {
+          "before_exact": "artifact_type: character_reconstruction_model",
+          "after_exact": "artifact_type: character_reconstruction_model\nscope: MAIN_ONLY_V01-V17",
+          "reason": "Supply explicit main-only current scope for previously incomplete draft metadata."
+        },
+        {
+          "before_exact": "holdout and expanded evidence excluded\n---",
+          "after_exact": "holdout and expanded evidence excluded\nsupersedes: []\nsuperseded_by: []\ndo_not_use_as_current_authority: false\n---",
+          "reason": "Complete authority metadata; no supersession of prior prospective generations."
+        },
+        {
+          "before_exact": "# Megumin reconstruction model — MAIN_ONLY_R1\n\n",
+          "after_exact": "# Megumin reconstruction model — MAIN_ONLY_R1\n\n**Main-only R1 adoption context.** This current-eligible derivative is generation V1, model version MAIN_ONLY_R1, subordinate to admitted Japanese evidence and the [suite audit](KONOSUBA_RECONSTRUCTION_SUITE_AUDIT.md). It supplies a bounded baseline for unchanged-model holdout assessment; it is not a fully externally validated or archival final model. The exact tested core is 618a867bfadb361305de4a4b8587a86f348eae1985042bbef11389fd9ab67080 (59422 bytes). [Declared adoption operations](MAIN_ONLY_R1_EVIDENCE/PUBLIC_MODEL_ADOPTION_OPERATIONS_AND_CORE_RECOVERY.json) invert this metadata/wrapper change to that complete core without changing a causal rule or forecast.\n\nInitial/private/pre-case/no-simulation/no-freeze statements below retain their authored-stage meaning. The audit and [separate main-only suite freeze](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_MAIN_ONLY_RECONSTRUCTION_SUITE_FREEZE.json) govern actual later acceptance, findings, dates and exposure. Old six-revision references describe their original stage; [CR-MAIN-007](../08%20Evidence%20and%20Indexes/KONOSUBA_CLAIM_REVISION_LEDGER.md) also qualifies the current age wording. All66 original main-evidence pins remain historically retrievable, while four current mutable ledgers append the qualifier. The prior main-evidence freeze is distinct from this reconstruction freeze.\n\n",
+          "reason": "Attributable dated-stage and current-authority wrapper; preserve original argument and all predictions literally."
+        }
+      ],
+      "full_inverse_to_tested_core": true,
+      "causal_argument_and_forecast_text_changed": false
+    },
+    {
+      "model_key": "D",
+      "public_model_relative_path": "../KONOSUBA_DARKNESS_RECONSTRUCTION_MODEL.md",
+      "tested_core": {
+        "path": "/workspace/scratch/konosuba/v17-independent/main-only-reconstruction-source-precision-proposal-v4/KONOSUBA_DARKNESS_RECONSTRUCTION_MODEL.md",
+        "bytes": 61217,
+        "sha256": "dc70739ab5613e70b6387421f324330735a0b79d1944100a3fd613f1cd2a310f"
+      },
+      "proposed_public_bytes": 62581,
+      "proposed_public_sha256": "e54f45b3aaa74197e76ec917888416b08683ef2b7194586ba060b93979e78bc9",
+      "operations": [
+        {
+          "before_exact": "status: precase_receiving_successor_candidate",
+          "after_exact": "status: active_provisional",
+          "reason": "Declared metadata adoption; no mechanism or forecast changed. Effective current authority only with root acceptance/canonical publication."
+        },
+        {
+          "before_exact": "source_boundary: 137 admitted main-principal members; accepted specialists and six attributable main-only revisions; all holdouts and expanded narrative closed",
+          "after_exact": "source_boundary: Japanese MAIN01-MAIN17 principal137 members; accepted main-only specialists and CR-MAIN001-007 current qualifications; holdout and expanded evidence excluded",
+          "reason": "Current metadata separates qualified source authority from preserved initial-stage counts."
+        },
+        {
+          "before_exact": "do_not_use_as_current_authority: true",
+          "after_exact": "do_not_use_as_current_authority: false",
+          "reason": "Declared candidate-to-current-eligible authority metadata with subordinate main-only confidence."
+        },
+        {
+          "before_exact": "# Darkness reconstruction: a protector whose desired role can misdirect protection\n\n",
+          "after_exact": "# Darkness reconstruction: a protector whose desired role can misdirect protection\n\n**Main-only R1 adoption context.** This current-eligible derivative is generation V1, model version MAIN_ONLY_R1, subordinate to admitted Japanese evidence and the [suite audit](KONOSUBA_RECONSTRUCTION_SUITE_AUDIT.md). It supplies a bounded baseline for unchanged-model holdout assessment; it is not a fully externally validated or archival final model. The exact tested core is dc70739ab5613e70b6387421f324330735a0b79d1944100a3fd613f1cd2a310f (61217 bytes). [Declared adoption operations](MAIN_ONLY_R1_EVIDENCE/PUBLIC_MODEL_ADOPTION_OPERATIONS_AND_CORE_RECOVERY.json) invert this metadata/wrapper change to that complete core without changing a causal rule or forecast.\n\nInitial/private/pre-case/no-simulation/no-freeze statements below retain their authored-stage meaning. The audit and [separate main-only suite freeze](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_MAIN_ONLY_RECONSTRUCTION_SUITE_FREEZE.json) govern actual later acceptance, findings, dates and exposure. Old six-revision references describe their original stage; [CR-MAIN-007](../08%20Evidence%20and%20Indexes/KONOSUBA_CLAIM_REVISION_LEDGER.md) also qualifies the current age wording. All66 original main-evidence pins remain historically retrievable, while four current mutable ledgers append the qualifier. The prior main-evidence freeze is distinct from this reconstruction freeze.\n\n",
+          "reason": "Attributable dated-stage and current-authority wrapper; preserve original argument and all predictions literally."
+        }
+      ],
+      "full_inverse_to_tested_core": true,
+      "causal_argument_and_forecast_text_changed": false
+    },
+    {
+      "model_key": "E",
+      "public_model_relative_path": "../KONOSUBA_PARTY_INTERACTION_MODEL.md",
+      "tested_core": {
+        "path": "/workspace/scratch/konosuba/v17-independent/main-only-reconstruction-receiving-v2/KONOSUBA_PARTY_INTERACTION_MODEL.md",
+        "bytes": 66517,
+        "sha256": "13c288a0278f87af60ee0b1c01d04ed6336977e9f34d36e9f163a9e6399b0271"
+      },
+      "proposed_public_bytes": 67885,
+      "proposed_public_sha256": "cf2082e63718e1c51c171fb9225b0be5da603c1e85900f397c36e233af6d3f8e",
+      "operations": [
+        {
+          "before_exact": "status: precase_receiving_successor_candidate",
+          "after_exact": "status: active_provisional",
+          "reason": "Declared metadata adoption; no mechanism or forecast changed. Effective current authority only with root acceptance/canonical publication."
+        },
+        {
+          "before_exact": "source_boundary: 137 admitted main-principal members; accepted specialists and six attributable main-only revisions; holdouts and expanded narrative closed",
+          "after_exact": "source_boundary: Japanese MAIN01-MAIN17 principal137 members; accepted main-only specialists and CR-MAIN001-007 current qualifications; holdout and expanded evidence excluded",
+          "reason": "Current metadata separates qualified source authority from preserved initial-stage counts."
+        },
+        {
+          "before_exact": "do_not_use_as_current_authority: true",
+          "after_exact": "do_not_use_as_current_authority: false",
+          "reason": "Declared candidate-to-current-eligible authority metadata with subordinate main-only confidence."
+        },
+        {
+          "before_exact": "# Party interaction reconstruction: unequal capacities, shared consequences, particular company\n\n",
+          "after_exact": "# Party interaction reconstruction: unequal capacities, shared consequences, particular company\n\n**Main-only R1 adoption context.** This current-eligible derivative is generation V1, model version MAIN_ONLY_R1, subordinate to admitted Japanese evidence and the [suite audit](KONOSUBA_RECONSTRUCTION_SUITE_AUDIT.md). It supplies a bounded baseline for unchanged-model holdout assessment; it is not a fully externally validated or archival final model. The exact tested core is 13c288a0278f87af60ee0b1c01d04ed6336977e9f34d36e9f163a9e6399b0271 (66517 bytes). [Declared adoption operations](MAIN_ONLY_R1_EVIDENCE/PUBLIC_MODEL_ADOPTION_OPERATIONS_AND_CORE_RECOVERY.json) invert this metadata/wrapper change to that complete core without changing a causal rule or forecast.\n\nInitial/private/pre-case/no-simulation/no-freeze statements below retain their authored-stage meaning. The audit and [separate main-only suite freeze](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_MAIN_ONLY_RECONSTRUCTION_SUITE_FREEZE.json) govern actual later acceptance, findings, dates and exposure. Old six-revision references describe their original stage; [CR-MAIN-007](../08%20Evidence%20and%20Indexes/KONOSUBA_CLAIM_REVISION_LEDGER.md) also qualifies the current age wording. All66 original main-evidence pins remain historically retrievable, while four current mutable ledgers append the qualifier. The prior main-evidence freeze is distinct from this reconstruction freeze.\n\n",
+          "reason": "Attributable dated-stage and current-authority wrapper; preserve original argument and all predictions literally."
+        }
+      ],
+      "full_inverse_to_tested_core": true,
+      "causal_argument_and_forecast_text_changed": false
+    }
+  ],
+  "recovery": "For each public body apply the listed after_exact -> before_exact replacements in reverse operation order, each exactly once; UTF8encode and require tested_core bytes/SHA256. No historical workspace path is needed.",
+  "old_prospective_generations_unchanged": true
+}

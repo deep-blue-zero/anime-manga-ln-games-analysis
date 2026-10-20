@@ -1,0 +1,52 @@
+{
+  "state": "EXACT_CURRENT_CANDIDATE_V3_LEDGER_V3_RECONCILIATION_V3_BOUNDED_RECEIVING_CLOSED",
+  "created_utc": "2026-10-17T21:15:30.523350+00:00",
+  "actual_read": "Complete three-operation alias/metadata proof, including the entire new governing qualifier, actually read untruncated. Previous full39 new cross-source diagnoses/metadata and exact accepted score joins reused from sealed receiving-03; no fresh full58KB pass or primary reading claimed.",
+  "new_qualifier_assessment": "Sound: the unchanged per-row V2 aliases are explicitly historical identical-disposition drafting basis; fourth_concrete_candidate pins root V3 current proposal wording. Later actual accepted-register route/UTC must be separately appended after the true event. This removes the current-versus-historical ambiguity without changing old aliases or outcomes.",
+  "three_operations_full_forward_inverse_serialized_bytes_equal": true,
+  "all39_complete_rows_scores_diagnoses_exact_to_previously_received_v2": true,
+  "no_remaining_material_scope_source_guard_outcome_or_reference_blocker_at_reviewed_exact_versions": true,
+  "reviewed_exact_current_objects": {
+    "root_all39_candidate_v3": {
+      "path": "/workspace/scratch/konosuba/withheld-source-validation/DUST-07/root-adjudication-candidate-v3/DUST07_COMPLETE_ALL39_ROOT_ADJUDICATION_CANDIDATE.json",
+      "bytes": 273881,
+      "sha256": "a6114bf1036973925d0c3f7ab1ef34689ad1a1bd2a0a8d78cf6223378f1e3ac0"
+    },
+    "ten_ledgers_v3_manifest": {
+      "path": "/workspace/scratch/konosuba/withheld-source-validation/DUST-07/ten-ledger-payloads-v3/TEN_LEDGER_DUST07_VALIDATION_APPEND_MANIFEST.json",
+      "bytes": 7653,
+      "sha256": "a2009b7da850cfa5ac9f5baf7e4181ac75b8da68a906765d4b2940f7c213b0db"
+    },
+    "four_book_reconciliation_v3": {
+      "path": "/workspace/scratch/konosuba/withheld-source-validation/DUST-07/four-book-reconciliation-candidate-v3/FOUR_BOOK_UNCHANGED_R1_RECONCILIATION_CANDIDATE.json",
+      "bytes": 59762,
+      "sha256": "7271c4867486f1ac7faee4602657a01e69ae972159d88577699fbefac87489d2"
+    },
+    "alias_delta": {
+      "path": "/workspace/scratch/konosuba/withheld-source-validation/DUST-07/four-book-reconciliation-candidate-v3/EXACT_V2_TO_V3_CURRENT_ALIAS_QUALIFICATION_AND_FULL_INVERSE.json",
+      "bytes": 1671,
+      "sha256": "d5526823e1a51bbaf11155e2fe1c3424c0482b5478a1c4af04e1c60d96313ce2"
+    }
+  },
+  "prior_complete_receiving_seals": [
+    {
+      "path": "/workspace/scratch/konosuba/dust07-semantic/receiving-02/RECEIVING_SEAL.json",
+      "bytes": 678,
+      "sha256": "b2017137c77676ebb43ae3ac7327919aba535589bf730bdd2a566f619fb272b1"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/dust07-semantic/receiving-02-ledger-v3-closure/SEAL.json",
+      "bytes": 354,
+      "sha256": "7f902e3e41213f143a9327daf9a8cfc9eaddc6a68640bd953716c5cea38fb740"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/dust07-semantic/receiving-03/SEAL.json",
+      "bytes": 829,
+      "sha256": "98e863615e6eca539d48db2559d4041c55bcb4f09f875722f0abb85e5fb77266"
+    }
+  ],
+  "actual_UTC_and_future_state_boundaries": "No root acceptance, canonical assembly, source-set publication gate closure or Stage C admission is asserted here. The reviewed literal PENDING_ACTUAL_ROOT_ACCEPTANCE can only be stamped once per header after a real root acceptance event; any other assembly/current-state metadata must be exact and separately received.",
+  "preservation": "All initial/code/model/literal/source scores and own sealed reports remain unchanged. The externally corrected own four displayed hashes/E04 route are separately attributed, not concealed.",
+  "no_Git_index_canonical_P_contact_or_new_source_access": true,
+  "independence_limits": "Coordinated source/semantic receiving by the continuing prior-informed AI lineage. No additional independent original coding, full-book pass, native-human/acoustic or statistical claim."
+}

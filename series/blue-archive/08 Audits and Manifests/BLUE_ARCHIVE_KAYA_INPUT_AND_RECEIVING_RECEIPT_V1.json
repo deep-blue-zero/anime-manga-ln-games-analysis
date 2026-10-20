@@ -1,0 +1,1433 @@
+{
+  "schema": "BLUE_ARCHIVE_KAYA_INPUT_PUBLIC_CANONICAL_PROPOSAL_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_COMPLETE_CANONICAL_INSTALLATION_PENDING",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+  "current_scope": "355required/29non-denominator duties/25distinctparents/384homes unchanged",
+  "dated_source_beforeimage": "ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+  "dated_source_tree": "c43f5d62b651da352854278d8bf83d43389e46df",
+  "accepted_first_milestone_main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+  "fixed_preparation_snapshot": {
+    "fixed_package_sequences": [
+      129,
+      130,
+      131,
+      132,
+      133
+    ],
+    "new_packages": 5,
+    "after_complete_ROOT_install": 133,
+    "characters": 100,
+    "directed_relationships": 16,
+    "ensembles": 5,
+    "institutions": 12,
+    "named_duties": 13,
+    "new_named_completions": 0,
+    "published_before_successor": 128,
+    "merged_main": 128,
+    "next_milestone": 178,
+    "later134plus": "EXCLUDED",
+    "mechanical_transport_credit": 0
+  },
+  "current_source128_complete_chain": {
+    "original_exact_tuple": {
+      "bytes": 6234,
+      "sha256": "4141484d052286d43dad22177df06749c8ef094f6e158f965e27eb7d5f281eee",
+      "git_blob_oid_of_actual_bytes": "a2f9d228e9112d1bbcdac2257cc779c776bea20d"
+    },
+    "complete_ROOTaccepted_payload": {
+      "schema": "blue-archive/root-ea923128-complete-publication-chain-acceptance/v1",
+      "decision": "ACCEPT_EXACT_SOURCE_HOUSEKEEPING_FINAL_COMPLETE_AUTOMATIC_CHAIN",
+      "checked_UTC": "2026-10-11T03:09:55.396940+00:00",
+      "source": "ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+      "main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "source_tree": "c43f5d62b651da352854278d8bf83d43389e46df",
+      "source_parent": [
+        "5933ee5e3859049509357c06e739ef91e0e7c98c"
+      ],
+      "original_capture": {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_EA923_SOURCE128_COMPLETE_AUTOMATIC_CHAIN_V1/EXACT_COMPLETE_CHAIN_CAPTURE_AND_EXECUTED_WITNESSES_V1.json",
+        "bytes": 34415,
+        "sha256": "080ab21eb0c5eef9e27def112e0647712af9a82711e060a235806a883ee46f5b",
+        "git_blob_sha1": "594a4670a5e62753f4b29e1c42559a75c4f4db65"
+      },
+      "runs_and_actual_execution": [
+        {
+          "role": "SOURCE",
+          "run": {
+            "id": 38106064392,
+            "name": "Repository audit",
+            "event": "push",
+            "head_sha": "ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+            "status": "completed",
+            "conclusion": "success",
+            "html_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38106064392",
+            "created_at": "2026-10-11T02:43:24Z",
+            "updated_at": "2026-10-11T02:58:26Z"
+          },
+          "complete_log": {
+            "path": "SOURCE_COMPLETE_EXECUTED_LOG_V1.log",
+            "bytes": 362639,
+            "lines": 2288,
+            "sha256": "e7d4884ff5354e7cf039c68402dd7302334f1c43b23e45d649ef7fc0d6da04c2",
+            "git_blob_oid_of_actual_bytes": "ebd6a45e99640917927d427215b23879fb72a3ab"
+          },
+          "actual_archive_outcome": "success",
+          "actual_archive_SHA": "ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+          "actual_execution": {
+            "commit": "ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+            "outcome": "success",
+            "requested_profile": "shadow",
+            "executed_profile": "full",
+            "selection_enabled": false,
+            "discovered_tests": 292,
+            "tests_run": 292,
+            "errors": 0,
+            "failures": 0,
+            "expected_failures": 0,
+            "unexpected_successes": 0,
+            "skipped": 0
+          }
+        },
+        {
+          "role": "HOUSEKEEPING",
+          "run": {
+            "id": 38106873063,
+            "name": "Global index housekeeping",
+            "event": "workflow_run",
+            "head_sha": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+            "status": "completed",
+            "conclusion": "success",
+            "html_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38106873063",
+            "created_at": "2026-10-11T02:58:28Z",
+            "updated_at": "2026-10-11T02:58:48Z"
+          },
+          "complete_log": {
+            "path": "HOUSEKEEPING_COMPLETE_EXECUTED_LOG_V1.log",
+            "bytes": 44343,
+            "lines": 267,
+            "sha256": "4d71d211cc830fde0e1954e3fe308b1d565b38a531a06ec18adb3a2f0d8a2e74",
+            "git_blob_oid_of_actual_bytes": "299db419e9c58692bf9696be6dcd29388c7738c3"
+          },
+          "actual_noop_and_dispatch_witnesses": [
+            {
+              "line": 265,
+              "literal": "Synchronize allowlisted global surfaces\tGenerate, validate, and publish allowlisted outputs\t2026-10-11T02:58:45.8526266Z PASS: dispatched the full audit for ea92302c7e9044dc1633b76c498a0a3bb3bae246"
+            },
+            {
+              "line": 266,
+              "literal": "Synchronize allowlisted global surfaces\tGenerate, validate, and publish allowlisted outputs\t2026-10-11T02:58:45.8526914Z PASS: unchanged routing and branch boundaries verified; final audit dispatched"
+            }
+          ]
+        },
+        {
+          "role": "FINAL_FULL_AUDIT",
+          "run": {
+            "id": 38106890357,
+            "name": "Repository audit",
+            "event": "repository_dispatch",
+            "head_sha": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+            "status": "completed",
+            "conclusion": "success",
+            "html_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38106890357",
+            "created_at": "2026-10-11T02:58:47Z",
+            "updated_at": "2026-10-11T03:07:00Z"
+          },
+          "complete_log": {
+            "path": "FINAL_FULL_AUDIT_COMPLETE_EXECUTED_LOG_V1.log",
+            "bytes": 362079,
+            "lines": 2283,
+            "sha256": "50e89ce9b20ec0d72bb55b4c80a346bae0c1a50858129df56512afae3d420558",
+            "git_blob_oid_of_actual_bytes": "eb7676087d83cf2e9be3c4f91d8f0e34054b2022"
+          },
+          "actual_archive_outcome": "success",
+          "actual_archive_SHA": "ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+          "actual_execution": {
+            "commit": "ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+            "outcome": "success",
+            "requested_profile": "shadow",
+            "executed_profile": "full",
+            "selection_enabled": false,
+            "discovered_tests": 292,
+            "tests_run": 292,
+            "errors": 0,
+            "failures": 0,
+            "expected_failures": 0,
+            "unexpected_successes": 0,
+            "skipped": 0
+          }
+        }
+      ],
+      "exact_final_status": {
+        "url": "https://api.github.com/repos/deep-blue-zero/anime-manga-ln-games-analysis/statuses/ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+        "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "id": 56072519998,
+        "node_id": "SC_kwDOUJ9ads8AAAANDi7BPg",
+        "state": "success",
+        "description": "Exact commit passed the repository audit",
+        "target_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38106890357",
+        "context": "Repository integration audit",
+        "created_at": "2026-10-11T03:06:56Z",
+        "updated_at": "2026-10-11T03:06:56Z"
+      },
+      "ROOT_actual_execution_summary_receiving": "26c699 actual SOURCE/full292 zero errors failures skips, HOUSE two no-op/dispatch witnesses, FINAL actual ea923/full292 zero errors failures skips; exact status56072519998",
+      "whole_log_human_reading_claim": false,
+      "progress": "Published128/merged89; ROOTaccepted129 remains separate. Nextmerge178/full355cast target unchanged; zero new literary acceptance or milestone.",
+      "source_or_repository_mutations": 0,
+      "all14_original_gaps": "OPEN_UNCHANGED",
+      "UNBOUND9_and_unpublished39": "UNREAD_UNHASHED_UNCHANGED"
+    }
+  },
+  "original_exact_tuple": {
+    "path": "KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/KAYA_OPERATIVE_SOURCE_SCOPE_AND_CUSTODY_RECEIPT_V1.json",
+    "bytes": 50758,
+    "sha256": "e4a3467dbaefbf08972819a18d9cd68b51091f9bca58f8c53bc02129aa95010b",
+    "git_blob_oid_of_actual_bytes": "fa16d67ac343800207fd823a1eec571f75e5eb03",
+    "immutable_transport_path": "immutable_originals/KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/KAYA_OPERATIVE_SOURCE_SCOPE_AND_CUSTODY_RECEIPT_V1.json"
+  },
+  "historical_author_or_ROOT_payload": {
+    "schema": "KAYA_OPERATIVE_SOURCE_SCOPE_AND_CUSTODY_RECEIPT_V1",
+    "status": "AUTHOR_MEANINGS_ACTUALLY_RECEIVED_FINITE_EXACT_CHECK_PENDING",
+    "allocation": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_KAYA_EXISTING_CHARACTER_POSITIVE_NARRATIVE_ALLOCATION_V1.json",
+      "bytes": 24495,
+      "sha256": "9a362f71221658e84a52ccecb139d81939989037969e82ba62783d2f2e5f38ca",
+      "git_blob_oid_of_actual_bytes": "4526384e0b950c1b8048d8457890dea6a5638058",
+      "physical_lines": 328
+    },
+    "original_exact_copy_availability": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/KAYA_EXACT_BOUND_NORMAL_INPUT_CUSTODY_WORKING_V1.json",
+      "bytes": 25011,
+      "sha256": "04d4596ad9f561710b2431abc38b06cce3587f1cc200240d5e654ff101fb9da5",
+      "git_blob_oid_of_actual_bytes": "7445c8af6127ed8490f0a465bc119df9c9b13e8d",
+      "physical_lines": 338
+    },
+    "operative_amendment": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_KAYA_OPERATIVE_LOCATOR_SOURCE_ROLE_AND_CHRONOLOGY_QUALIFICATION_V1/ROOT_KAYA_OPERATIVE_LOCATOR_SOURCE_ROLE_AND_CHRONOLOGY_QUALIFICATION_V1.json",
+      "bytes": 14726,
+      "sha256": "7a5fceab15d50d90b7d39036349da92593d33cce63779f36806471363846341f",
+      "git_blob_oid_of_actual_bytes": "a7f621807c315079c69d6e2532e683d69586c002",
+      "physical_lines": 172
+    },
+    "own_amendment_whole_receiving": "d0e997 whole through EOF",
+    "own_three_Final_custody_and_complete_arguments": "9490df whole receipt and54/53/49",
+    "sources": [
+      {
+        "alias": "KA01",
+        "historical_plan_or_custody_verbatim": {
+          "alias": "KA01",
+          "purpose": "Full local V004 argument: governance, collusion, civilian terror plan, harm recipients and finite aftermath; broad account does not replace precise actors/endings.",
+          "custody_receipt_binding": {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_RIN_EXACT_SIX_CURRENT5933_ADMITTED_NORMAL_CUSTODY_V1/ROOT_RIN_EXACT_SIX_CURRENT5933_ADMITTED_NORMAL_CUSTODY_RECEIPT_V1.json",
+            "bytes": 5286,
+            "sha256": "04607ca91dd7caa6af7b58deb7e7841741ade2c30b4c296e23469f9a0cc583d7",
+            "git_blob_sha1": "f879a1ddea7ff1a952078b0957b4f514103b0b02"
+          },
+          "normal_metadata_verbatim": {
+            "index": 2,
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_RIN_EXACT_SIX_CURRENT5933_ADMITTED_NORMAL_CUSTODY_V1/RIN02__BLUE_ARCHIVE_MAIN_V004_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+            "bytes": 34839,
+            "sha256": "9f953c2ae13515a38af2f469485eb260f32e69849033136a494843acd97024ae",
+            "git_blob_oid_of_actual_bytes": "4f8301a69d012fe2b15c9b81c38da510ad359e68",
+            "lines": 414,
+            "working_equals_exact_source5933": true
+          },
+          "normal_body_opened_or_hashed_in_this_plan": false,
+          "required_receiving": "Reuse genuinely personally received adequate earlier whole argument at declared scope; personally receive consequential connected actor/recipient/knowledge/demand/ending meanings before stronger claims."
+        },
+        "exact_bound_normal": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/KA01__BLUE_ARCHIVE_MAIN_V004_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+          "bytes": 34839,
+          "sha256": "9f953c2ae13515a38af2f469485eb260f32e69849033136a494843acd97024ae",
+          "git_blob_oid_of_actual_bytes": "4f8301a69d012fe2b15c9b81c38da510ad359e68",
+          "physical_lines": 414
+        },
+        "new_actual_personal_receiving": "PENDING_TRUTHFUL_SOURCE_SCOPES",
+        "locator_purpose_status": "Historical KA07/09/10 purpose fields preserved; ROOT operative exact-source amendment required before drafting.",
+        "actual_adequate_own_receiving": {
+          "declaration": "Prior own complete414-line adequate census normal; fresh connected306–414 in Heine856f84/14a5ea and Kaya306–351 at3fcba4; no new414-body reading claim.",
+          "adequate_argument_line_ranges": [
+            [
+              306,
+              414
+            ]
+          ],
+          "grade": "ALREADY_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+          "new_primary_native_raw_QA_AV_performance_credit": 0,
+          "copy_hash_is_not_human_receiving": true
+        },
+        "operative_source_role_qualification_reference": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_KAYA_OPERATIVE_LOCATOR_SOURCE_ROLE_AND_CHRONOLOGY_QUALIFICATION_V1/ROOT_KAYA_OPERATIVE_LOCATOR_SOURCE_ROLE_AND_CHRONOLOGY_QUALIFICATION_V1.json"
+      },
+      {
+        "alias": "KA02",
+        "historical_plan_or_custody_verbatim": {
+          "alias": "KA02",
+          "purpose": "Final renewed bargain and institutional/crisis comparison; prior act/report/collective assent remain distinct.",
+          "custody_receipt_binding": {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_RIN_EXACT_SIX_CURRENT5933_ADMITTED_NORMAL_CUSTODY_V1/ROOT_RIN_EXACT_SIX_CURRENT5933_ADMITTED_NORMAL_CUSTODY_RECEIPT_V1.json",
+            "bytes": 5286,
+            "sha256": "04607ca91dd7caa6af7b58deb7e7841741ade2c30b4c296e23469f9a0cc583d7",
+            "git_blob_sha1": "f879a1ddea7ff1a952078b0957b4f514103b0b02"
+          },
+          "normal_metadata_verbatim": {
+            "index": 3,
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_RIN_EXACT_SIX_CURRENT5933_ADMITTED_NORMAL_CUSTODY_V1/RIN03__BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+            "bytes": 49292,
+            "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+            "git_blob_oid_of_actual_bytes": "4712932e1058e7babcc693932caedcfd1a076622",
+            "lines": 452,
+            "working_equals_exact_source5933": true
+          },
+          "normal_body_opened_or_hashed_in_this_plan": false,
+          "required_receiving": "Reuse genuinely personally received adequate earlier whole argument at declared scope; personally receive consequential connected actor/recipient/knowledge/demand/ending meanings before stronger claims."
+        },
+        "exact_bound_normal": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/KA02__BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+          "bytes": 49292,
+          "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+          "git_blob_oid_of_actual_bytes": "4712932e1058e7babcc693932caedcfd1a076622",
+          "physical_lines": 452
+        },
+        "new_actual_personal_receiving": "PENDING_TRUTHFUL_SOURCE_SCOPES",
+        "locator_purpose_status": "Historical KA07/09/10 purpose fields preserved; ROOT operative exact-source amendment required before drafting.",
+        "actual_adequate_own_receiving": {
+          "declaration": "Prior own complete452-line adequate census normal; fresh Heine101–177/203–241 dce1a8 and Kaya107–141 at3fcba4. Final-specific claims also use complete KA13–15.",
+          "adequate_argument_line_ranges": [
+            [
+              101,
+              177
+            ],
+            [
+              203,
+              241
+            ]
+          ],
+          "grade": "ALREADY_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+          "new_primary_native_raw_QA_AV_performance_credit": 0,
+          "copy_hash_is_not_human_receiving": true
+        },
+        "operative_source_role_qualification_reference": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_KAYA_OPERATIVE_LOCATOR_SOURCE_ROLE_AND_CHRONOLOGY_QUALIFICATION_V1/ROOT_KAYA_OPERATIVE_LOCATOR_SOURCE_ROLE_AND_CHRONOLOGY_QUALIFICATION_V1.json"
+      },
+      {
+        "alias": "KA03",
+        "historical_plan_or_custody_verbatim": {
+          "alias": "KA03",
+          "purpose": "Later food/chess/old-friend company and unrepentant stance; no release-order moral calendar or completed reform.",
+          "custody_receipt_binding": {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_RIN_EXACT_SIX_CURRENT5933_ADMITTED_NORMAL_CUSTODY_V1/ROOT_RIN_EXACT_SIX_CURRENT5933_ADMITTED_NORMAL_CUSTODY_RECEIPT_V1.json",
+            "bytes": 5286,
+            "sha256": "04607ca91dd7caa6af7b58deb7e7841741ade2c30b4c296e23469f9a0cc583d7",
+            "git_blob_sha1": "f879a1ddea7ff1a952078b0957b4f514103b0b02"
+          },
+          "normal_metadata_verbatim": {
+            "index": 5,
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_001/BLUE_ARCHIVE_MAIN_S2_V001_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_RIN_EXACT_SIX_CURRENT5933_ADMITTED_NORMAL_CUSTODY_V1/RIN05__BLUE_ARCHIVE_MAIN_S2_V001_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+            "bytes": 13393,
+            "sha256": "48a62cb5a2dc894176822923df4580be05f87287e792c0f6ad83d638a0940ecb",
+            "git_blob_oid_of_actual_bytes": "cc58366c949eb4844063ed7d1aecd889dec1308d",
+            "lines": 94,
+            "working_equals_exact_source5933": true
+          },
+          "normal_body_opened_or_hashed_in_this_plan": false,
+          "required_receiving": "Reuse genuinely personally received adequate earlier whole argument at declared scope; personally receive consequential connected actor/recipient/knowledge/demand/ending meanings before stronger claims."
+        },
+        "exact_bound_normal": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/KA03__BLUE_ARCHIVE_MAIN_S2_V001_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+          "bytes": 13393,
+          "sha256": "48a62cb5a2dc894176822923df4580be05f87287e792c0f6ad83d638a0940ecb",
+          "git_blob_oid_of_actual_bytes": "cc58366c949eb4844063ed7d1aecd889dec1308d",
+          "physical_lines": 94
+        },
+        "new_actual_personal_receiving": "PENDING_TRUTHFUL_SOURCE_SCOPES",
+        "locator_purpose_status": "Historical KA07/09/10 purpose fields preserved; ROOT operative exact-source amendment required before drafting.",
+        "actual_adequate_own_receiving": {
+          "declaration": "Prior own complete94-line normal plus actual Heine fresh whole14a5ea. Reused adequate analytical meaning; no new primary.",
+          "adequate_argument_line_ranges": [
+            [
+              1,
+              94
+            ]
+          ],
+          "grade": "ALREADY_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+          "new_primary_native_raw_QA_AV_performance_credit": 0,
+          "copy_hash_is_not_human_receiving": true
+        },
+        "operative_source_role_qualification_reference": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_KAYA_OPERATIVE_LOCATOR_SOURCE_ROLE_AND_CHRONOLOGY_QUALIFICATION_V1/ROOT_KAYA_OPERATIVE_LOCATOR_SOURCE_ROLE_AND_CHRONOLOGY_QUALIFICATION_V1.json"
+      },
+      {
+        "alias": "KA04",
+        "historical_plan_or_custody_verbatim": {
+          "alias": "KA04",
+          "purpose": "Meeting food, proposed Rin sanction, objection, and unexecuted vote distinctions.",
+          "custody_receipt_binding": {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_AOI_EXACT_V004_C002_E007_ADMITTED_NORMAL_CUSTODY_5933125_V1/ROOT_AOI_EXACT_V004_C002_E007_NORMAL_CUSTODY_RECEIPT_V1.json",
+            "bytes": 1583,
+            "sha256": "a1e1d335dd050c4cf90b555d567e3eb880f56705e7dd3b98ca9eff7f19dc526f",
+            "git_blob_sha1": "97ad422e23d1a875fe2fae2eeffaea93d980ca6e"
+          },
+          "normal_metadata_verbatim": {
+            "schema": "ROOT_AOI_EXACT_POSITIVE_V004_C002_E007_ADMITTED_NORMAL_CUSTODY_V1",
+            "checked_UTC": "2026-10-11T01:41:19.942957+00:00",
+            "source": "5933ee5e3859049509357c06e739ef91e0e7c98c",
+            "source_tree": "e6b570d622c4a56f6b98c29c9eb78e2e90025618",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C002_E007_DEEP_READING.md",
+            "bound_C_copy": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_AOI_EXACT_V004_C002_E007_ADMITTED_NORMAL_CUSTODY_5933125_V1/BLUE_ARCHIVE_MAIN_V004_C002_E007_DEEP_READING.md",
+            "bytes": 8810,
+            "sha256": "73197daf01a438a84006c00dbf36fc362d102fb659b2506c3ca58d218bc889e6",
+            "git_blob_oid_of_actual_bytes": "1f82a46b0a41ac3932ffb6098040074c011cb84f",
+            "physical_lines": 52,
+            "working_equals_exact_commit": true,
+            "allocation": "ROOT_AOI_EXISTING_CHARACTER_POSITIVE_NARRATIVE_ALLOCATION_V1.json",
+            "positive_existing_route": "Original M001 duty BA:main:004:002:007:u0019–0041; exact admitted Phase2 analytical episode, not new primary replay.",
+            "ROOT_copy_reading_credit": "NONE; author must personally receive complete consequential normal argument and finite ending.",
+            "allowed_work": "Allocated Aoi character analysis may read this exact small admitted analytical copy with its source-local attribution and ending; no expansion of source admission/person identity/denominator.",
+            "protected39_UNBOUND9_private_H_phase2_content_hash_access": false,
+            "R_Git_provider_mutations": false
+          },
+          "normal_body_opened_or_hashed_in_this_plan": false,
+          "required_receiving": "Complete small admitted argument and full ending; report/addressed-label seams remain visible."
+        },
+        "exact_bound_normal": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/KA04__BLUE_ARCHIVE_MAIN_V004_C002_E007_DEEP_READING.md",
+          "bytes": 8810,
+          "sha256": "73197daf01a438a84006c00dbf36fc362d102fb659b2506c3ca58d218bc889e6",
+          "git_blob_oid_of_actual_bytes": "1f82a46b0a41ac3932ffb6098040074c011cb84f",
+          "physical_lines": 52
+        },
+        "new_actual_personal_receiving": "PENDING_TRUTHFUL_SOURCE_SCOPES",
+        "locator_purpose_status": "Historical KA07/09/10 purpose fields preserved; ROOT operative exact-source amendment required before drafting.",
+        "actual_adequate_own_receiving": {
+          "declaration": "Own prior Aoi/Heine complete52, refreshed complete52 atfc8609 for Kaya-specific actor/end warrants.",
+          "adequate_argument_line_ranges": [
+            [
+              1,
+              52
+            ]
+          ],
+          "grade": "ALREADY_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+          "new_primary_native_raw_QA_AV_performance_credit": 0,
+          "copy_hash_is_not_human_receiving": true
+        },
+        "operative_source_role_qualification_reference": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_KAYA_OPERATIVE_LOCATOR_SOURCE_ROLE_AND_CHRONOLOGY_QUALIFICATION_V1/ROOT_KAYA_OPERATIVE_LOCATOR_SOURCE_ROLE_AND_CHRONOLOGY_QUALIFICATION_V1.json"
+      },
+      {
+        "alias": "KA05",
+        "historical_plan_or_custody_verbatim": {
+          "alias": "KA05",
+          "purpose": "Precise fear/paid-service/warhead/civilian-risk/scapegoat proposal.",
+          "custody_receipt_binding": {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_HEINE_EXACT_FOUR_POSITIVE_EPISODE_NORMAL_CUSTODY_EA923128_V1/ROOT_HEINE_EXACT_FOUR_POSITIVE_EPISODE_NORMAL_CUSTODY_AND_WHITELIST_AMENDMENT_V1.json",
+            "bytes": 4833,
+            "sha256": "8dba316d2ba30e6b69c487fbbc8f39ebf27fb194f06c41cb5a407e11161e0aa8",
+            "git_blob_sha1": "9918f517a90c754c1b63e87e88cea77a1d0f7390"
+          },
+          "normal_metadata_verbatim": {
+            "alias": "HE_PLUS01",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C002_E013_DEEP_READING.md",
+            "bound_C_copy": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_HEINE_EXACT_FOUR_POSITIVE_EPISODE_NORMAL_CUSTODY_EA923128_V1/HE_PLUS01__BLUE_ARCHIVE_MAIN_V004_C002_E013_DEEP_READING.md",
+            "bytes": 8303,
+            "sha256": "372de94cc2b9f227e05c266fbb9cde41ae35e5818ee821971ad8b44ed703de37",
+            "git_blob_oid_of_actual_bytes": "5156895bc5121b2760f8f440b0219652454c1129",
+            "physical_lines": 47,
+            "working_equals_exact_current_and_prior_commits": true
+          },
+          "normal_body_opened_or_hashed_in_this_plan": false,
+          "ROOT_prior_adequate_normal_receiving": "62f685 whole47 each, at admitted written analytical grade; no primary replay.",
+          "required_receiving": "Author must personally receive complete adequate small argument and full finite ending at actual scope."
+        },
+        "exact_bound_normal": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/KA05__BLUE_ARCHIVE_MAIN_V004_C002_E013_DEEP_READING.md",
+          "bytes": 8303,
+          "sha256": "372de94cc2b9f227e05c266fbb9cde41ae35e5818ee821971ad8b44ed703de37",
+          "git_blob_oid_of_actual_bytes": "5156895bc5121b2760f8f440b0219652454c1129",
+          "physical_lines": 47
+        },
+        "new_actual_personal_receiving": "PENDING_TRUTHFUL_SOURCE_SCOPES",
+        "locator_purpose_status": "Historical KA07/09/10 purpose fields preserved; ROOT operative exact-source amendment required before drafting.",
+        "actual_adequate_own_receiving": {
+          "declaration": "Own Heine complete47 f2b439, refreshed complete47 fc8609 for Kaya-specific fear, finance, civilian and cover-story arguments.",
+          "adequate_argument_line_ranges": [
+            [
+              1,
+              47
+            ]
+          ],
+          "grade": "ALREADY_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+          "new_primary_native_raw_QA_AV_performance_credit": 0,
+          "copy_hash_is_not_human_receiving": true
+        },
+        "operative_source_role_qualification_reference": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_KAYA_OPERATIVE_LOCATOR_SOURCE_ROLE_AND_CHRONOLOGY_QUALIFICATION_V1/ROOT_KAYA_OPERATIVE_LOCATOR_SOURCE_ROLE_AND_CHRONOLOGY_QUALIFICATION_V1.json"
+      },
+      {
+        "alias": "KA06",
+        "historical_plan_or_custody_verbatim": {
+          "alias": "KA06",
+          "purpose": "Detention, transactional bargain/apology and earlier FOX assault playback; injury and sport cost, no executed impeachment.",
+          "custody_receipt_binding": {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_HEINE_EXACT_FOUR_POSITIVE_EPISODE_NORMAL_CUSTODY_EA923128_V1/ROOT_HEINE_EXACT_FOUR_POSITIVE_EPISODE_NORMAL_CUSTODY_AND_WHITELIST_AMENDMENT_V1.json",
+            "bytes": 4833,
+            "sha256": "8dba316d2ba30e6b69c487fbbc8f39ebf27fb194f06c41cb5a407e11161e0aa8",
+            "git_blob_sha1": "9918f517a90c754c1b63e87e88cea77a1d0f7390"
+          },
+          "normal_metadata_verbatim": {
+            "alias": "HE_PLUS02",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C002_E023_DEEP_READING.md",
+            "bound_C_copy": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_HEINE_EXACT_FOUR_POSITIVE_EPISODE_NORMAL_CUSTODY_EA923128_V1/HE_PLUS02__BLUE_ARCHIVE_MAIN_V004_C002_E023_DEEP_READING.md",
+            "bytes": 7487,
+            "sha256": "7be66ec3d2fee98320cca720198bb7b46ebb64ecd07ce4f74c9b76c9061e7e13",
+            "git_blob_oid_of_actual_bytes": "651b424ccfb5048cfcc9d2c5a6656dce3ccd1cd1",
+            "physical_lines": 47,
+            "working_equals_exact_current_and_prior_commits": true
+          },
+          "normal_body_opened_or_hashed_in_this_plan": false,
+          "ROOT_prior_adequate_normal_receiving": "62f685 whole47 each, at admitted written analytical grade; no primary replay.",
+          "required_receiving": "Author must personally receive complete adequate small argument and full finite ending at actual scope."
+        },
+        "exact_bound_normal": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/KA06__BLUE_ARCHIVE_MAIN_V004_C002_E023_DEEP_READING.md",
+          "bytes": 7487,
+          "sha256": "7be66ec3d2fee98320cca720198bb7b46ebb64ecd07ce4f74c9b76c9061e7e13",
+          "git_blob_oid_of_actual_bytes": "651b424ccfb5048cfcc9d2c5a6656dce3ccd1cd1",
+          "physical_lines": 47
+        },
+        "new_actual_personal_receiving": "PENDING_TRUTHFUL_SOURCE_SCOPES",
+        "locator_purpose_status": "Historical KA07/09/10 purpose fields preserved; ROOT operative exact-source amendment required before drafting.",
+        "actual_adequate_own_receiving": {
+          "declaration": "Own Heine complete47 f2b439, refreshed complete47 fc8609 for Kaya-specific detention, older playback and recipient endings.",
+          "adequate_argument_line_ranges": [
+            [
+              1,
+              47
+            ]
+          ],
+          "grade": "ALREADY_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+          "new_primary_native_raw_QA_AV_performance_credit": 0,
+          "copy_hash_is_not_human_receiving": true
+        },
+        "operative_source_role_qualification_reference": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_KAYA_OPERATIVE_LOCATOR_SOURCE_ROLE_AND_CHRONOLOGY_QUALIFICATION_V1/ROOT_KAYA_OPERATIVE_LOCATOR_SOURCE_ROLE_AND_CHRONOLOGY_QUALIFICATION_V1.json"
+      },
+      {
+        "alias": "KA07",
+        "historical_plan_or_custody_verbatim": {
+          "alias": "KA07",
+          "purpose": "Schale invitation and bargain refusal; office authorization/proposal and actual teacher agency.",
+          "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C001_E008_DEEP_READING.md",
+          "bound_C_copy": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_KAYA_EXACT_FIVE_POSITIVE_EPISODE_NORMAL_CUSTODY_EA923128_V1/KA07__BLUE_ARCHIVE_MAIN_V004_C001_E008_DEEP_READING.md",
+          "bytes": 7320,
+          "sha256": "5b8d53f29ecf954ad9e20b16b07bee8cfd5fae4c5a9d2e1981aaf25fc5451182",
+          "git_blob_oid_of_actual_bytes": "dd6526a576bf755d6c9c100ab70cf54b45ef3c0a",
+          "physical_lines": 53,
+          "working_equals_exact_ea923_and_5933": true
+        },
+        "exact_bound_normal": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/KA07__BLUE_ARCHIVE_MAIN_V004_C001_E008_DEEP_READING.md",
+          "bytes": 7320,
+          "sha256": "5b8d53f29ecf954ad9e20b16b07bee8cfd5fae4c5a9d2e1981aaf25fc5451182",
+          "git_blob_oid_of_actual_bytes": "dd6526a576bf755d6c9c100ab70cf54b45ef3c0a",
+          "physical_lines": 53
+        },
+        "new_actual_personal_receiving": "PENDING_TRUTHFUL_SOURCE_SCOPES",
+        "locator_purpose_status": "Historical KA07/09/10 purpose fields preserved; ROOT operative exact-source amendment required before drafting.",
+        "actual_adequate_own_receiving": {
+          "declaration": "Fresh own complete53 analytical normal d9a70d. RABBIT comparison; historical Kaya-offer purpose expressly corrected, no global absence claim.",
+          "adequate_argument_line_ranges": [
+            [
+              1,
+              53
+            ]
+          ],
+          "grade": "ALREADY_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+          "new_primary_native_raw_QA_AV_performance_credit": 0,
+          "copy_hash_is_not_human_receiving": true
+        },
+        "operative_source_role_qualification_reference": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_KAYA_OPERATIVE_LOCATOR_SOURCE_ROLE_AND_CHRONOLOGY_QUALIFICATION_V1/ROOT_KAYA_OPERATIVE_LOCATOR_SOURCE_ROLE_AND_CHRONOLOGY_QUALIFICATION_V1.json"
+      },
+      {
+        "alias": "KA08",
+        "historical_plan_or_custody_verbatim": {
+          "alias": "KA08",
+          "purpose": "Concealed collusion and represented relation to SRT/FOX; exact recipient, knowledge and promise scope.",
+          "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C001_E020_DEEP_READING.md",
+          "bound_C_copy": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_KAYA_EXACT_FIVE_POSITIVE_EPISODE_NORMAL_CUSTODY_EA923128_V1/KA08__BLUE_ARCHIVE_MAIN_V004_C001_E020_DEEP_READING.md",
+          "bytes": 5989,
+          "sha256": "49989e7573cb3377af0292112999715bb9a213ac9b9e1289e2b39090e8c4e5d5",
+          "git_blob_oid_of_actual_bytes": "130a8cffe688d4e2ec5f551df4e47dac9de9adb2",
+          "physical_lines": 46,
+          "working_equals_exact_ea923_and_5933": true
+        },
+        "exact_bound_normal": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/KA08__BLUE_ARCHIVE_MAIN_V004_C001_E020_DEEP_READING.md",
+          "bytes": 5989,
+          "sha256": "49989e7573cb3377af0292112999715bb9a213ac9b9e1289e2b39090e8c4e5d5",
+          "git_blob_oid_of_actual_bytes": "130a8cffe688d4e2ec5f551df4e47dac9de9adb2",
+          "physical_lines": 46
+        },
+        "new_actual_personal_receiving": "PENDING_TRUTHFUL_SOURCE_SCOPES",
+        "locator_purpose_status": "Historical KA07/09/10 purpose fields preserved; ROOT operative exact-source amendment required before drafting.",
+        "actual_adequate_own_receiving": {
+          "declaration": "Fresh own complete46 analytical normal d9a70d; concealed Kaiser/our-side link and projected coup, not RABBIT consent.",
+          "adequate_argument_line_ranges": [
+            [
+              1,
+              46
+            ]
+          ],
+          "grade": "ALREADY_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+          "new_primary_native_raw_QA_AV_performance_credit": 0,
+          "copy_hash_is_not_human_receiving": true
+        },
+        "operative_source_role_qualification_reference": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_KAYA_OPERATIVE_LOCATOR_SOURCE_ROLE_AND_CHRONOLOGY_QUALIFICATION_V1/ROOT_KAYA_OPERATIVE_LOCATOR_SOURCE_ROLE_AND_CHRONOLOGY_QUALIFICATION_V1.json"
+      },
+      {
+        "alias": "KA09",
+        "historical_plan_or_custody_verbatim": {
+          "alias": "KA09",
+          "purpose": "Final office/council bargain and actual reply; claimed incapacity does not certify authentic presidential authority.",
+          "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C001_E015_DEEP_READING.md",
+          "bound_C_copy": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_KAYA_EXACT_FIVE_POSITIVE_EPISODE_NORMAL_CUSTODY_EA923128_V1/KA09__BLUE_ARCHIVE_MAIN_V100_C001_E015_DEEP_READING.md",
+          "bytes": 9029,
+          "sha256": "86309485bf05375ceb85b6fb4cb230d0e831c56f6ab9f89cadc0251817a6f199",
+          "git_blob_oid_of_actual_bytes": "0daf945417204c573bc0d59bbe7a7305f78287e6",
+          "physical_lines": 57,
+          "working_equals_exact_ea923_and_5933": true
+        },
+        "exact_bound_normal": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/KA09__BLUE_ARCHIVE_MAIN_V100_C001_E015_DEEP_READING.md",
+          "bytes": 9029,
+          "sha256": "86309485bf05375ceb85b6fb4cb230d0e831c56f6ab9f89cadc0251817a6f199",
+          "git_blob_oid_of_actual_bytes": "0daf945417204c573bc0d59bbe7a7305f78287e6",
+          "physical_lines": 57
+        },
+        "new_actual_personal_receiving": "PENDING_TRUTHFUL_SOURCE_SCOPES",
+        "locator_purpose_status": "Historical KA07/09/10 purpose fields preserved; ROOT operative exact-source amendment required before drafting.",
+        "actual_adequate_own_receiving": {
+          "declaration": "Fresh own complete57 analytical normal d9a70d; FOX-reported extraction and unidentified item, not renewed Final bargain.",
+          "adequate_argument_line_ranges": [
+            [
+              1,
+              57
+            ]
+          ],
+          "grade": "ALREADY_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+          "new_primary_native_raw_QA_AV_performance_credit": 0,
+          "copy_hash_is_not_human_receiving": true
+        },
+        "operative_source_role_qualification_reference": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_KAYA_OPERATIVE_LOCATOR_SOURCE_ROLE_AND_CHRONOLOGY_QUALIFICATION_V1/ROOT_KAYA_OPERATIVE_LOCATOR_SOURCE_ROLE_AND_CHRONOLOGY_QUALIFICATION_V1.json"
+      },
+      {
+        "alias": "KA10",
+        "historical_plan_or_custody_verbatim": {
+          "alias": "KA10",
+          "purpose": "Final aftermath and watch custody/provenance; no guessed private family or permanent legal disposition.",
+          "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_E010_DEEP_READING.md",
+          "bound_C_copy": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_KAYA_EXACT_FIVE_POSITIVE_EPISODE_NORMAL_CUSTODY_EA923128_V1/KA10__BLUE_ARCHIVE_MAIN_V100_C004_E010_DEEP_READING.md",
+          "bytes": 6946,
+          "sha256": "bbbb0e2ee859613d39a21558304ce8f544a87742f851b2e6dd4312b82735f94a",
+          "git_blob_oid_of_actual_bytes": "2a81415c06b75b1b323c7f45e69b571685e81692",
+          "physical_lines": 44,
+          "working_equals_exact_ea923_and_5933": true
+        },
+        "exact_bound_normal": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/KA10__BLUE_ARCHIVE_MAIN_V100_C004_E010_DEEP_READING.md",
+          "bytes": 6946,
+          "sha256": "bbbb0e2ee859613d39a21558304ce8f544a87742f851b2e6dd4312b82735f94a",
+          "git_blob_oid_of_actual_bytes": "2a81415c06b75b1b323c7f45e69b571685e81692",
+          "physical_lines": 44
+        },
+        "new_actual_personal_receiving": "PENDING_TRUTHFUL_SOURCE_SCOPES",
+        "locator_purpose_status": "Historical KA07/09/10 purpose fields preserved; ROOT operative exact-source amendment required before drafting.",
+        "actual_adequate_own_receiving": {
+          "declaration": "Fresh own complete44 analytical normal da021c; Rin aftermath and unverified letters, not Kaya watch custody.",
+          "adequate_argument_line_ranges": [
+            [
+              1,
+              44
+            ]
+          ],
+          "grade": "ALREADY_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+          "new_primary_native_raw_QA_AV_performance_credit": 0,
+          "copy_hash_is_not_human_receiving": true
+        },
+        "operative_source_role_qualification_reference": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_KAYA_OPERATIVE_LOCATOR_SOURCE_ROLE_AND_CHRONOLOGY_QUALIFICATION_V1/ROOT_KAYA_OPERATIVE_LOCATOR_SOURCE_ROLE_AND_CHRONOLOGY_QUALIFICATION_V1.json"
+      },
+      {
+        "alias": "KA11",
+        "historical_plan_or_custody_verbatim": {
+          "alias": "KA11",
+          "purpose": "Food/chess companionship and first versus unknown second-game outcome; no friendship absolution or total moral reform.",
+          "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_001/BLUE_ARCHIVE_MAIN_S2_V001_C001_E003_DEEP_READING.md",
+          "bound_C_copy": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_KAYA_EXACT_FIVE_POSITIVE_EPISODE_NORMAL_CUSTODY_EA923128_V1/KA11__BLUE_ARCHIVE_MAIN_S2_V001_C001_E003_DEEP_READING.md",
+          "bytes": 6865,
+          "sha256": "da7a824c1618fc11e84a6544a2e3fbc233d3f3e19d06eb8c85fcd00204c2495d",
+          "git_blob_oid_of_actual_bytes": "0d1f53684d34e4847040039a2823b035738e5db9",
+          "physical_lines": 38,
+          "working_equals_exact_ea923_and_5933": true
+        },
+        "exact_bound_normal": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/KA11__BLUE_ARCHIVE_MAIN_S2_V001_C001_E003_DEEP_READING.md",
+          "bytes": 6865,
+          "sha256": "da7a824c1618fc11e84a6544a2e3fbc233d3f3e19d06eb8c85fcd00204c2495d",
+          "git_blob_oid_of_actual_bytes": "0d1f53684d34e4847040039a2823b035738e5db9",
+          "physical_lines": 38
+        },
+        "new_actual_personal_receiving": "PENDING_TRUTHFUL_SOURCE_SCOPES",
+        "locator_purpose_status": "Historical KA07/09/10 purpose fields preserved; ROOT operative exact-source amendment required before drafting.",
+        "actual_adequate_own_receiving": {
+          "declaration": "Fresh own complete38 da021c, refreshed complete38 fc8609; first game, company, conditional watch testimony and unprinted second result.",
+          "adequate_argument_line_ranges": [
+            [
+              1,
+              38
+            ]
+          ],
+          "grade": "ALREADY_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+          "new_primary_native_raw_QA_AV_performance_credit": 0,
+          "copy_hash_is_not_human_receiving": true
+        },
+        "operative_source_role_qualification_reference": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_KAYA_OPERATIVE_LOCATOR_SOURCE_ROLE_AND_CHRONOLOGY_QUALIFICATION_V1/ROOT_KAYA_OPERATIVE_LOCATOR_SOURCE_ROLE_AND_CHRONOLOGY_QUALIFICATION_V1.json"
+      },
+      {
+        "alias": "KA12",
+        "historical_plan_or_custody_verbatim": {
+          "alias": "KA12",
+          "normal": {
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C002_E008_DEEP_READING.md",
+            "bound_C_copy": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_KAYA_POSITIVE_C002_E008_LOCATOR_ADJUDICATION_V1/BLUE_ARCHIVE_MAIN_V004_C002_E008_DEEP_READING.md",
+            "bytes": 7820,
+            "sha256": "2e9496a74da60bdd43e1dcc10d9a68147d91fe6709f6eacc7725d6c1e51b010e",
+            "git_blob_oid_of_actual_bytes": "82fc8e94750c13e7830e189b0a6d4f7b72cafc34",
+            "physical_lines": 46
+          },
+          "purpose": "Actual V004 C002 E008 Schale-control proposal and teacher refusal; admissions about basement entry/removal and Kaiser reliance, unprinted reform document/all council-name activity and liability, no actual signature or delivered reform.",
+          "ROOT_meaning_receiving": "dc0cde whole46",
+          "custody": {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_KAYA_POSITIVE_C002_E008_LOCATOR_ADJUDICATION_V1/ROOT_KAYA_EXACT_C002_E008_NORMAL_CUSTODY_RECEIPT_V1.json",
+            "bytes": 1904,
+            "sha256": "62bcb3270fadb821ba7f7b076ba54c06709efe90eb280afc22cfa91b12b78e33"
+          }
+        },
+        "exact_bound_normal": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/KA12__BLUE_ARCHIVE_MAIN_V004_C002_E008_DEEP_READING.md",
+          "bytes": 7820,
+          "sha256": "2e9496a74da60bdd43e1dcc10d9a68147d91fe6709f6eacc7725d6c1e51b010e",
+          "git_blob_oid_of_actual_bytes": "82fc8e94750c13e7830e189b0a6d4f7b72cafc34",
+          "physical_lines": 46
+        },
+        "actual_adequate_own_receiving": {
+          "declaration": "Fresh own complete46 e07d80 after complete custody e4340f and positive allocation e07d80; correct Schale offer/refusal locator.",
+          "adequate_argument_line_ranges": [
+            [
+              1,
+              46
+            ]
+          ],
+          "grade": "ALREADY_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+          "new_primary_native_raw_QA_AV_performance_credit": 0,
+          "copy_hash_is_not_human_receiving": true
+        },
+        "operative_source_role_qualification_reference": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_KAYA_OPERATIVE_LOCATOR_SOURCE_ROLE_AND_CHRONOLOGY_QUALIFICATION_V1/ROOT_KAYA_OPERATIVE_LOCATOR_SOURCE_ROLE_AND_CHRONOLOGY_QUALIFICATION_V1.json"
+      },
+      {
+        "alias": "KA13",
+        "historical_plan_or_custody_verbatim": {
+          "alias": "KA13",
+          "normal": {
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C001_E006_DEEP_READING.md",
+            "bound_C_copy": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_KAYA_POSITIVE_THREE_FINAL_NORMAL_QUALIFIER_INPUTS_V1/BLUE_ARCHIVE_MAIN_V100_C001_E006_DEEP_READING.md",
+            "bytes": 8278,
+            "sha256": "01573c6439c3a52d870b3f8035ecf794fdafbd8fda9fa617e8670a814de86686",
+            "git_blob_oid_of_actual_bytes": "b130462ca0904f939e18bdd02b931f70c7087f13",
+            "physical_lines": 54
+          },
+          "purpose": "Final C001 E006: Kaya publicly supports Rin mandate and undertakes Schale contact/escort, then makes opaque call. Undertaking is not delivered escort or identified counterpart; reported sensors are not inspected mechanisms.",
+          "ROOT_meaning_receiving": "ce668b whole54/53/49 respectively",
+          "custody": {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_KAYA_POSITIVE_THREE_FINAL_NORMAL_QUALIFIER_INPUTS_V1/ROOT_KAYA_POSITIVE_THREE_FINAL_NORMAL_CUSTODY_RECEIPT_V1.json",
+            "bytes": 3514,
+            "sha256": "a6f0791197c25d1a614d59803dfde42b5207b39ef19b17f0d89270bbd4bc295b"
+          }
+        },
+        "exact_bound_normal": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/KA13__BLUE_ARCHIVE_MAIN_V100_C001_E006_DEEP_READING.md",
+          "bytes": 8278,
+          "sha256": "01573c6439c3a52d870b3f8035ecf794fdafbd8fda9fa617e8670a814de86686",
+          "git_blob_oid_of_actual_bytes": "b130462ca0904f939e18bdd02b931f70c7087f13",
+          "physical_lines": 54
+        },
+        "actual_adequate_own_receiving": {
+          "declaration": "Fresh own complete54 9490df after complete three-copy custody; adequate Final escort undertaking and opaque call.",
+          "adequate_argument_line_ranges": [
+            [
+              1,
+              54
+            ]
+          ],
+          "grade": "ALREADY_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+          "new_primary_native_raw_QA_AV_performance_credit": 0,
+          "copy_hash_is_not_human_receiving": true
+        },
+        "operative_source_role_qualification_reference": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_KAYA_OPERATIVE_LOCATOR_SOURCE_ROLE_AND_CHRONOLOGY_QUALIFICATION_V1/ROOT_KAYA_OPERATIVE_LOCATOR_SOURCE_ROLE_AND_CHRONOLOGY_QUALIFICATION_V1.json"
+      },
+      {
+        "alias": "KA14",
+        "historical_plan_or_custody_verbatim": {
+          "alias": "KA14",
+          "normal": {
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C001_E007_DEEP_READING.md",
+            "bound_C_copy": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_KAYA_POSITIVE_THREE_FINAL_NORMAL_QUALIFIER_INPUTS_V1/BLUE_ARCHIVE_MAIN_V100_C001_E007_DEEP_READING.md",
+            "bytes": 8513,
+            "sha256": "31869dd677d9e4acddec19931495c67d0dbfdcf2f778ab13eddd0a14e1051842",
+            "git_blob_oid_of_actual_bytes": "7b7f9af8b7786487dde73a82d5fa21d1b688bd96",
+            "physical_lines": 53
+          },
+          "purpose": "Final C001 E007: invitations delivered, false escort actually captures Sensei, Kaya cooperates with General for her Schale dissolution objective; General explicitly substitutes Kaiser takeover and orders Kaya custody. No printed final shot, verified all committee collapse or renewed Schale bargain.",
+          "ROOT_meaning_receiving": "ce668b whole54/53/49 respectively",
+          "custody": {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_KAYA_POSITIVE_THREE_FINAL_NORMAL_QUALIFIER_INPUTS_V1/ROOT_KAYA_POSITIVE_THREE_FINAL_NORMAL_CUSTODY_RECEIPT_V1.json",
+            "bytes": 3514,
+            "sha256": "a6f0791197c25d1a614d59803dfde42b5207b39ef19b17f0d89270bbd4bc295b"
+          }
+        },
+        "exact_bound_normal": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/KA14__BLUE_ARCHIVE_MAIN_V100_C001_E007_DEEP_READING.md",
+          "bytes": 8513,
+          "sha256": "31869dd677d9e4acddec19931495c67d0dbfdcf2f778ab13eddd0a14e1051842",
+          "git_blob_oid_of_actual_bytes": "7b7f9af8b7786487dde73a82d5fa21d1b688bd96",
+          "physical_lines": 53
+        },
+        "actual_adequate_own_receiving": {
+          "declaration": "Fresh own complete53 9490df; delivered false escort, cooperation and General goal split, bounded orders.",
+          "adequate_argument_line_ranges": [
+            [
+              1,
+              53
+            ]
+          ],
+          "grade": "ALREADY_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+          "new_primary_native_raw_QA_AV_performance_credit": 0,
+          "copy_hash_is_not_human_receiving": true
+        },
+        "operative_source_role_qualification_reference": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_KAYA_OPERATIVE_LOCATOR_SOURCE_ROLE_AND_CHRONOLOGY_QUALIFICATION_V1/ROOT_KAYA_OPERATIVE_LOCATOR_SOURCE_ROLE_AND_CHRONOLOGY_QUALIFICATION_V1.json"
+      },
+      {
+        "alias": "KA15",
+        "historical_plan_or_custody_verbatim": {
+          "alias": "KA15",
+          "normal": {
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C001_E010_DEEP_READING.md",
+            "bound_C_copy": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_KAYA_POSITIVE_THREE_FINAL_NORMAL_QUALIFIER_INPUTS_V1/BLUE_ARCHIVE_MAIN_V100_C001_E010_DEEP_READING.md",
+            "bytes": 7314,
+            "sha256": "4b802422d047eac1f4388e43953a85c41bb2d26ee58dfd5ed0653325e5a897bd",
+            "git_blob_oid_of_actual_bytes": "6ea834df072588b4da7e9f780b1e1a9e69bf7288",
+            "physical_lines": 49
+          },
+          "purpose": "Final C001 E010: corporate tower-control report and slower full authority acquisition, martial-law directives, no independent all-city transfer audit; Kanna returns devices and Arona reconnects. Not a Kaya reform bargain or watch route.",
+          "ROOT_meaning_receiving": "ce668b whole54/53/49 respectively",
+          "custody": {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_KAYA_POSITIVE_THREE_FINAL_NORMAL_QUALIFIER_INPUTS_V1/ROOT_KAYA_POSITIVE_THREE_FINAL_NORMAL_CUSTODY_RECEIPT_V1.json",
+            "bytes": 3514,
+            "sha256": "a6f0791197c25d1a614d59803dfde42b5207b39ef19b17f0d89270bbd4bc295b"
+          }
+        },
+        "exact_bound_normal": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/KA15__BLUE_ARCHIVE_MAIN_V100_C001_E010_DEEP_READING.md",
+          "bytes": 7314,
+          "sha256": "4b802422d047eac1f4388e43953a85c41bb2d26ee58dfd5ed0653325e5a897bd",
+          "git_blob_oid_of_actual_bytes": "6ea834df072588b4da7e9f780b1e1a9e69bf7288",
+          "physical_lines": 49
+        },
+        "actual_adequate_own_receiving": {
+          "declaration": "Fresh own complete49 9490df; tower-control report qualified by slower full acquisition, devices returned and reconnecting Arona.",
+          "adequate_argument_line_ranges": [
+            [
+              1,
+              49
+            ]
+          ],
+          "grade": "ALREADY_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+          "new_primary_native_raw_QA_AV_performance_credit": 0,
+          "copy_hash_is_not_human_receiving": true
+        },
+        "operative_source_role_qualification_reference": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_KAYA_OPERATIVE_LOCATOR_SOURCE_ROLE_AND_CHRONOLOGY_QUALIFICATION_V1/ROOT_KAYA_OPERATIVE_LOCATOR_SOURCE_ROLE_AND_CHRONOLOGY_QUALIFICATION_V1.json"
+      },
+      {
+        "alias": "KA16",
+        "historical_plan_or_custody_verbatim": {
+          "alias": "KA16",
+          "normal": {
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C002_CHECKPOINT.md",
+            "bound_C_copy": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_KAYA_POSITIVE_V004_C002_COMPLETE_CHECKPOINT_CUSTODY_V1/BLUE_ARCHIVE_MAIN_V004_C002_CHECKPOINT.md",
+            "bytes": 18304,
+            "sha256": "cb9fb6f5e6a697f3286aadfe8c1c2f51719804652a94c9358916d11d18fc2e19",
+            "git_blob_oid_of_actual_bytes": "9f4b61cb3a308ad554076d77bd2eaf2889a53cab",
+            "physical_lines": 97
+          },
+          "purpose": "Complete V004 C002 chapter governance/material/civilian-recipient argument through finite E024 public/legal/park ending. Material dependency, Finance rejected defective claims, hospital delay, station refusal and distributed intervention remain substantial. No primary/court/ledger audit credit.",
+          "ROOT_meaning_receiving": "4381a3 whole97",
+          "custody": {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_KAYA_POSITIVE_V004_C002_COMPLETE_CHECKPOINT_CUSTODY_V1/ROOT_KAYA_CURRENT128_COMPLETE_V004_C002_ANALYTICAL_CHECKPOINT_CUSTODY_V1.json",
+            "bytes": 2021,
+            "sha256": "a6b6338e095c5d1c9531c1f8cb97892a3d55ae6a6f6f6f2a6962e84e3ae6ba51"
+          }
+        },
+        "exact_bound_normal": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/KA16__BLUE_ARCHIVE_MAIN_V004_C002_CHECKPOINT.md",
+          "bytes": 18304,
+          "sha256": "cb9fb6f5e6a697f3286aadfe8c1c2f51719804652a94c9358916d11d18fc2e19",
+          "git_blob_oid_of_actual_bytes": "9f4b61cb3a308ad554076d77bd2eaf2889a53cab",
+          "physical_lines": 97
+        },
+        "actual_adequate_own_receiving": {
+          "declaration": "Prior own complete97 checkpoint at census scope; fresh exact current complete97 a7d144 after custody receipt. Current128==125 metadata adds no reading credit.",
+          "adequate_argument_line_ranges": [
+            [
+              1,
+              97
+            ]
+          ],
+          "grade": "ALREADY_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+          "new_primary_native_raw_QA_AV_performance_credit": 0,
+          "copy_hash_is_not_human_receiving": true
+        },
+        "operative_source_role_qualification_reference": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_KAYA_OPERATIVE_LOCATOR_SOURCE_ROLE_AND_CHRONOLOGY_QUALIFICATION_V1/ROOT_KAYA_OPERATIVE_LOCATOR_SOURCE_ROLE_AND_CHRONOLOGY_QUALIFICATION_V1.json"
+      }
+    ],
+    "scope_boundary": "16 finite admitted analytical-normal arguments, including truthful prior complete/scoped reuse; no16 original-primary credit. 105 applicability is a separately joined source-scoped argument duty.",
+    "source_source_head": "ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+    "prior_source_head": "5933ee5e3859049509357c06e739ef91e0e7c98c",
+    "merged_main_boundary": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+    "snapshot_currentness": "Actual bound source tuples, not an assertion of present ROOT count/provider status. Historical wrappers/counters do not govern current355 scope.",
+    "new_primary_native_raw_QA_AV_identity_admission_model_denominator_completion_credit": 0,
+    "protected_H_private_original_UNBOUND9_unpublished39_followed": false,
+    "R_Git_provider_writes": false
+  },
+  "historical_payload_qualification": "All creation-time pending, source/custody/count and navigation fields remain history. Current actual ROOT acceptance and mandatory additive qualifications govern. Documentary old tuple fields are preserved as literal data, not blindly reopened as current bindings. Complete original bytes and reference/body inverses remain; no new literary/source/primary/model/identity credit. Original hashes bind originals, not public derivatives.",
+  "all14_original_gaps": "OPEN_UNCHANGED",
+  "R_Git_provider_writes": false,
+  "proposal_installs_or_publishes_nothing": true,
+  "complete_author_attachment_parts": [
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KAYA_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+      "bytes": 581434,
+      "sha256": "08a4695065f05088fd2bf7706ac43948c36a0fc916294c6140dbaa88274e15e0",
+      "git_blob_oid_of_actual_bytes": "21e2d1c457f3a85bfa4b55967f2f4292ed2662fa",
+      "attachment_names": [
+        "KAYA_OPERATIVE_LITERAL_SOURCE_PRECISION_AND_INVERSE_RECEIPT_V1.json",
+        "KAYA_CLAIM_RIVAL_END_GAP_AND_SAVED_JOIN_RECEIPT_V1.json"
+      ]
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KAYA_AUTHOR_ATTACHMENTS_PART_02_V1.json",
+      "bytes": 413587,
+      "sha256": "e1db2e393ffa4f06bb44321a1dbccdc1f9b76d6d418e5732cd647376b545fb37",
+      "git_blob_oid_of_actual_bytes": "fd9babdefdbd013825076f0f274f02ef3dbf2f84",
+      "attachment_names": [
+        "KAYA105_SUBSTANTIVE_SOURCE_SCOPED_ROLE_REVIEW_V1.json",
+        "KAYA_FINITE_CONTROL_AND_PRIOR_FROZEN_C_INPUT_RECEIPT_V1.json",
+        "KAYA_UNSEALED_FIRST_SAVED_BODY_EXACT_BEFOREIMAGE.md",
+        "KAYA_UNSEALED_FIRST_BODY_ONE_CLAUSE_PRECISION_INVERSE_V1.json",
+        "KAYA_EXACT_SOURCE_SAVED_AND_SCOPE_INVERSE_VERIFICATION_V1.json",
+        "KAYA_ROOT_COMPLETE_RECEIVING_GUIDE_V1.md",
+        "KAYA_LATER_SAVED_SEAL_RECEIVING",
+        "KAYA_ROOT_COMPLETE_OPERATIVE_LOCATOR_SOURCE_ROLE_CHRONOLOGY_QUALIFICATION",
+        "COMPLETE_AUTHOR_MANIFEST_OR_FREEZE"
+      ]
+    }
+  ],
+  "complete_frozen_manifest": {
+    "schema": "KAYA_COMPLETE_AUTHOR_RECEIVING_AND_EXACT_DELIVERY_FREEZE_V1",
+    "status": "AUTHOR_COMPLETE_BOUNDED_LITERARY_DELIVERY_ROOT_INDEPENDENT_RECEIVING_PENDING",
+    "existing_home": "P3-CHAR-M017",
+    "source_responsibility": "P3-M017",
+    "kind": "CHARACTER",
+    "required_count": 1,
+    "mandatory_named_duties": [],
+    "frozen_outputs": [
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/BLUE_ARCHIVE_KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "bytes": 43380,
+        "sha256": "1bdc5b75cb3ba5ef181aefc423f50a9c17d3be062ce089627ee2ab8b48ef93c5",
+        "git_blob_oid_of_actual_bytes": "a036f6d4ce360590372bcf24bc164ee9a5671e0a",
+        "physical_lines": 170
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/KAYA_OPERATIVE_SOURCE_SCOPE_AND_CUSTODY_RECEIPT_V1.json",
+        "bytes": 50758,
+        "sha256": "e4a3467dbaefbf08972819a18d9cd68b51091f9bca58f8c53bc02129aa95010b",
+        "git_blob_oid_of_actual_bytes": "fa16d67ac343800207fd823a1eec571f75e5eb03",
+        "physical_lines": 719
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/KAYA_OPERATIVE_LITERAL_SOURCE_PRECISION_AND_INVERSE_RECEIPT_V1.json",
+        "bytes": 8077,
+        "sha256": "6be58094f8eac50a56ede6d6989c5c4064519b2e97280a8b065b117c84824339",
+        "git_blob_oid_of_actual_bytes": "3a256bf2a575af0b286dd245bab48c5ae17f776b",
+        "physical_lines": 92
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/KAYA_CLAIM_RIVAL_END_GAP_AND_SAVED_JOIN_RECEIPT_V1.json",
+        "bytes": 540679,
+        "sha256": "214042ac1444c50693021f93045b94f5a77995b4683ade667cc4189c89be2f69",
+        "git_blob_oid_of_actual_bytes": "815de01266513ff1794694bc52bf767f1cbbf3b3",
+        "physical_lines": 6277
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/KAYA105_SUBSTANTIVE_SOURCE_SCOPED_ROLE_REVIEW_V1.json",
+        "bytes": 279755,
+        "sha256": "78d4a9927a942c0ca318485ead8748dfc00ecc7aabb60311e48cbdaea85c27b9",
+        "git_blob_oid_of_actual_bytes": "9af0f76ca3d80564ef315d0dff55d678c78e4da7",
+        "physical_lines": 5152
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/KAYA_FINITE_CONTROL_AND_PRIOR_FROZEN_C_INPUT_RECEIPT_V1.json",
+        "bytes": 15186,
+        "sha256": "293c5b6dac1075c5f77aa5cb601a130628026c30046c7b1705bbbee16fa5692c",
+        "git_blob_oid_of_actual_bytes": "86608e0f8172b2d77fcce00ee4c5dc83d3942f13",
+        "physical_lines": 200
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/KAYA_UNSEALED_FIRST_SAVED_BODY_EXACT_BEFOREIMAGE.md",
+        "bytes": 43336,
+        "sha256": "4d1e69a439c61f229f9a2a1d705271e43dffd6b2ca916d6137f792a858589051",
+        "git_blob_oid_of_actual_bytes": "55bea5eefacb5180eaf92b00414e30131c0322ea",
+        "physical_lines": 170
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/KAYA_UNSEALED_FIRST_BODY_ONE_CLAUSE_PRECISION_INVERSE_V1.json",
+        "bytes": 1590,
+        "sha256": "fa13649015102ee62c831bfb80af7ab95376cc9053c88a3be7705a04ab4ae7af",
+        "git_blob_oid_of_actual_bytes": "1a870ae70afd6cd7e4b71abccd31461fdddfa668",
+        "physical_lines": 21
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/kaya_receiving_readonly.py",
+        "bytes": 10628,
+        "sha256": "9a0db02403c0f13326b0dfceff17fbe515c608e6e131bcfe919b92ef12296af7",
+        "git_blob_oid_of_actual_bytes": "b8cb529d5d7612930676b94dffb6976ce5799ccc",
+        "physical_lines": 87
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/KAYA_EXACT_SOURCE_SAVED_AND_SCOPE_INVERSE_VERIFICATION_V1.json",
+        "bytes": 1817,
+        "sha256": "f4aa3826f18bafcc04ada2689b1d9f89ecabf76ede705aaff77cd30b231e6b08",
+        "git_blob_oid_of_actual_bytes": "603b5027bee98e6700a3454f30c982cb21ec4b09",
+        "physical_lines": 34
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/KAYA_ROOT_COMPLETE_RECEIVING_GUIDE_V1.md",
+        "bytes": 4761,
+        "sha256": "d957023aa3eb872137f02f86f5bd479a48f23e5a47515a161f1404399e6ee60e",
+        "git_blob_oid_of_actual_bytes": "1fd9d76d4176c0cc3dcc7777b76bab5812832f48",
+        "physical_lines": 16
+      }
+    ],
+    "exact_admitted_normal_attachments": [
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/KA01__BLUE_ARCHIVE_MAIN_V004_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "bytes": 34839,
+        "sha256": "9f953c2ae13515a38af2f469485eb260f32e69849033136a494843acd97024ae",
+        "git_blob_oid_of_actual_bytes": "4f8301a69d012fe2b15c9b81c38da510ad359e68",
+        "physical_lines": 414
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/KA02__BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "bytes": 49292,
+        "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+        "git_blob_oid_of_actual_bytes": "4712932e1058e7babcc693932caedcfd1a076622",
+        "physical_lines": 452
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/KA03__BLUE_ARCHIVE_MAIN_S2_V001_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "bytes": 13393,
+        "sha256": "48a62cb5a2dc894176822923df4580be05f87287e792c0f6ad83d638a0940ecb",
+        "git_blob_oid_of_actual_bytes": "cc58366c949eb4844063ed7d1aecd889dec1308d",
+        "physical_lines": 94
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/KA04__BLUE_ARCHIVE_MAIN_V004_C002_E007_DEEP_READING.md",
+        "bytes": 8810,
+        "sha256": "73197daf01a438a84006c00dbf36fc362d102fb659b2506c3ca58d218bc889e6",
+        "git_blob_oid_of_actual_bytes": "1f82a46b0a41ac3932ffb6098040074c011cb84f",
+        "physical_lines": 52
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/KA05__BLUE_ARCHIVE_MAIN_V004_C002_E013_DEEP_READING.md",
+        "bytes": 8303,
+        "sha256": "372de94cc2b9f227e05c266fbb9cde41ae35e5818ee821971ad8b44ed703de37",
+        "git_blob_oid_of_actual_bytes": "5156895bc5121b2760f8f440b0219652454c1129",
+        "physical_lines": 47
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/KA06__BLUE_ARCHIVE_MAIN_V004_C002_E023_DEEP_READING.md",
+        "bytes": 7487,
+        "sha256": "7be66ec3d2fee98320cca720198bb7b46ebb64ecd07ce4f74c9b76c9061e7e13",
+        "git_blob_oid_of_actual_bytes": "651b424ccfb5048cfcc9d2c5a6656dce3ccd1cd1",
+        "physical_lines": 47
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/KA07__BLUE_ARCHIVE_MAIN_V004_C001_E008_DEEP_READING.md",
+        "bytes": 7320,
+        "sha256": "5b8d53f29ecf954ad9e20b16b07bee8cfd5fae4c5a9d2e1981aaf25fc5451182",
+        "git_blob_oid_of_actual_bytes": "dd6526a576bf755d6c9c100ab70cf54b45ef3c0a",
+        "physical_lines": 53
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/KA08__BLUE_ARCHIVE_MAIN_V004_C001_E020_DEEP_READING.md",
+        "bytes": 5989,
+        "sha256": "49989e7573cb3377af0292112999715bb9a213ac9b9e1289e2b39090e8c4e5d5",
+        "git_blob_oid_of_actual_bytes": "130a8cffe688d4e2ec5f551df4e47dac9de9adb2",
+        "physical_lines": 46
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/KA09__BLUE_ARCHIVE_MAIN_V100_C001_E015_DEEP_READING.md",
+        "bytes": 9029,
+        "sha256": "86309485bf05375ceb85b6fb4cb230d0e831c56f6ab9f89cadc0251817a6f199",
+        "git_blob_oid_of_actual_bytes": "0daf945417204c573bc0d59bbe7a7305f78287e6",
+        "physical_lines": 57
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/KA10__BLUE_ARCHIVE_MAIN_V100_C004_E010_DEEP_READING.md",
+        "bytes": 6946,
+        "sha256": "bbbb0e2ee859613d39a21558304ce8f544a87742f851b2e6dd4312b82735f94a",
+        "git_blob_oid_of_actual_bytes": "2a81415c06b75b1b323c7f45e69b571685e81692",
+        "physical_lines": 44
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/KA11__BLUE_ARCHIVE_MAIN_S2_V001_C001_E003_DEEP_READING.md",
+        "bytes": 6865,
+        "sha256": "da7a824c1618fc11e84a6544a2e3fbc233d3f3e19d06eb8c85fcd00204c2495d",
+        "git_blob_oid_of_actual_bytes": "0d1f53684d34e4847040039a2823b035738e5db9",
+        "physical_lines": 38
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/KA12__BLUE_ARCHIVE_MAIN_V004_C002_E008_DEEP_READING.md",
+        "bytes": 7820,
+        "sha256": "2e9496a74da60bdd43e1dcc10d9a68147d91fe6709f6eacc7725d6c1e51b010e",
+        "git_blob_oid_of_actual_bytes": "82fc8e94750c13e7830e189b0a6d4f7b72cafc34",
+        "physical_lines": 46
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/KA13__BLUE_ARCHIVE_MAIN_V100_C001_E006_DEEP_READING.md",
+        "bytes": 8278,
+        "sha256": "01573c6439c3a52d870b3f8035ecf794fdafbd8fda9fa617e8670a814de86686",
+        "git_blob_oid_of_actual_bytes": "b130462ca0904f939e18bdd02b931f70c7087f13",
+        "physical_lines": 54
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/KA14__BLUE_ARCHIVE_MAIN_V100_C001_E007_DEEP_READING.md",
+        "bytes": 8513,
+        "sha256": "31869dd677d9e4acddec19931495c67d0dbfdcf2f778ab13eddd0a14e1051842",
+        "git_blob_oid_of_actual_bytes": "7b7f9af8b7786487dde73a82d5fa21d1b688bd96",
+        "physical_lines": 53
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/KA15__BLUE_ARCHIVE_MAIN_V100_C001_E010_DEEP_READING.md",
+        "bytes": 7314,
+        "sha256": "4b802422d047eac1f4388e43953a85c41bb2d26ee58dfd5ed0653325e5a897bd",
+        "git_blob_oid_of_actual_bytes": "6ea834df072588b4da7e9f780b1e1a9e69bf7288",
+        "physical_lines": 49
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/KA16__BLUE_ARCHIVE_MAIN_V004_C002_CHECKPOINT.md",
+        "bytes": 18304,
+        "sha256": "cb9fb6f5e6a697f3286aadfe8c1c2f51719804652a94c9358916d11d18fc2e19",
+        "git_blob_oid_of_actual_bytes": "9f4b61cb3a308ad554076d77bd2eaf2889a53cab",
+        "physical_lines": 97
+      }
+    ],
+    "preserved_prior_Heine_frozen_files": [
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/HEINE_SOURCE_SCOPED_CHARACTER_MONOGRAPH/BLUE_ARCHIVE_HEINE_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "bytes": 37146,
+        "sha256": "79129be14481621ceaea78fee573f5be4e159cf8d18f9116e9be2dab3271a0de",
+        "git_blob_oid_of_actual_bytes": "04976a4ec6cb6c2fbf0eba6eea96ef7b8da8706a",
+        "physical_lines": 170
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/HEINE_SOURCE_SCOPED_CHARACTER_MONOGRAPH/HEINE_SOURCE_AND_ACTUAL_RECEIVING_SCOPE_RECEIPT_V1.json",
+        "bytes": 52909,
+        "sha256": "42c434c82d94832719060c7439c1d07ef76d135d577116ccb4ff07cb4c7ac751",
+        "git_blob_oid_of_actual_bytes": "887892fe95293a20bc474244b27f28de108caf19",
+        "physical_lines": 856
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/HEINE_SOURCE_SCOPED_CHARACTER_MONOGRAPH/HEINE_CLAIM_RIVAL_END_GAP_AND_SAVED_JOIN_RECEIPT_V1.json",
+        "bytes": 301079,
+        "sha256": "88c15ec11d5aa16e1a604358112dfabea3f6505363304eeafd06f81bcb065eaa",
+        "git_blob_oid_of_actual_bytes": "b0a39de7e7cf94eae5532b34c0041b9199cf9b70",
+        "physical_lines": 3320
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/HEINE_SOURCE_SCOPED_CHARACTER_MONOGRAPH/HEINE105_ACTUAL_SOURCE_SCOPED_ARGUMENT_ROLE_REVIEW_V1.json",
+        "bytes": 299883,
+        "sha256": "005526e498dbaaac14df57da188fc9d035a790a6158d9b7f1e072e8370c5a948",
+        "git_blob_oid_of_actual_bytes": "c2f6f1a02739fc178d6b77b22e582b2c0818cbcf",
+        "physical_lines": 5148
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/HEINE_SOURCE_SCOPED_CHARACTER_MONOGRAPH/HEINE_E005_E008_AND_AGENCY_PRECISION_QUALIFICATION_V1.json",
+        "bytes": 10108,
+        "sha256": "6c8b3cce1e02d90c45610e4ed3a6ed756ac0943008e8bf5ef8024b2215983bc2",
+        "git_blob_oid_of_actual_bytes": "4eed34b4354db02833d1cd507caf8fe9e4555039",
+        "physical_lines": 81
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/HEINE_SOURCE_SCOPED_CHARACTER_MONOGRAPH/HEINE_EXACT_SOURCE_SAVED_AND_SCOPE_INVERSE_VERIFICATION_V1.json",
+        "bytes": 1327,
+        "sha256": "c1c9ba45b315c9f6c56f2e83f852b8e13f1af89c8777efa2fe4c28b1883317cc",
+        "git_blob_oid_of_actual_bytes": "03bbad2698fca8105ff9af1fabab59f6f396f5f2",
+        "physical_lines": 30
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/HEINE_SOURCE_SCOPED_CHARACTER_MONOGRAPH/HEINE_ROOT_COMPLETE_RECEIVING_GUIDE_V1.md",
+        "bytes": 5236,
+        "sha256": "5b2677ded9dd0c37203dcaec84476d241175789abaf3a06d9e8f6b7383426675",
+        "git_blob_oid_of_actual_bytes": "87198603fd761c2ab6b2b117ec615f78650f964b",
+        "physical_lines": 25
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/HEINE_SOURCE_SCOPED_CHARACTER_MONOGRAPH/heine_receiving_readonly.py",
+        "bytes": 6379,
+        "sha256": "92ec04b7b85c4833945dbfe60ef564d354f58adf0ebda470d0d79fb88423c855",
+        "git_blob_oid_of_actual_bytes": "daf87e89c5cafb16f87e6756e59408c91371227c",
+        "physical_lines": 79
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/HEINE_SOURCE_SCOPED_CHARACTER_MONOGRAPH/HEINE_COMPLETE_AUTHOR_RECEIVING_AND_EXACT_DELIVERY_FREEZE_V1.json",
+        "bytes": 31566,
+        "sha256": "c3e47a9945ea4f961fdc3aeb04cb930360c15ee314d866a8da40d42d9d7f4517",
+        "git_blob_oid_of_actual_bytes": "0a9b00c588f2a7caf6db0ec7b5d034098ed99309",
+        "physical_lines": 513
+      }
+    ],
+    "other_original_frozen_plan_and_allocation_preservation": "Exact originals in precision/control companion tuples were actually checked by161-pair finite proof. Old source-copy availability/producer working declarations remain unchanged and dated; this final receipt gives the completed author state.",
+    "actual_author_complete_body_receiving": {
+      "final_body_SHA": "1bdc5b75cb3ba5ef181aefc423f50a9c17d3be062ce089627ee2ab8b48ef93c5",
+      "physical_lines": 170,
+      "whole_tools": [
+        "3e94ff L1–85",
+        "2bf927 L86–170 and revised L52"
+      ],
+      "first_saved_beforeimage": "Exact43,336-byte first saved draft preserved, one L52 clause literal inverse;169 other lines unchanged."
+    },
+    "actual_author_complete_meaningful_receiving": {
+      "allocation_original_plan_gap_seal": "05d19a;2bc81c/a5d731;8d420b;cde930",
+      "operative_SOURCE_amendment": "d0e997 whole14726-byte ROOT qualifier",
+      "normal_receiving": "Complete/scoped16 own declarations in exact operative source receipt, with whole consequential small actors/tails; earlier adequate account custody reused truthfully.",
+      "all16_saved_source_scope_meanings": [
+        "bbc379 KA01–04",
+        "6e0e4f KA05–08",
+        "32925b KA09–12",
+        "f4630e KA13–16"
+      ],
+      "full_new35_claim_and_common_warrant_meanings": "d06397 untruncated compact projection; earlier24470a/batched output truncated and not claimed complete. Full body and normal literal inverses checked separately.",
+      "all9rivals12ends14OPEN": "6a6bdd whole exact row meanings, plus body full170",
+      "105_new_Kaya_judgments": [
+        "501c44 owners0–34",
+        "58aee0 owners35–69",
+        "3ba728 owners70–104"
+      ],
+      "current_prior_scope_copy_metadata": "Finite prior scope/context/pool inverses PASS, no metadata-as-human-reading credit or global absence.",
+      "controls_precision": "8f9e79 complete control;f3aecd complete additive precision",
+      "whole_helper_and_first_body_inverse": "2772e0 complete final helper and exact before/after reason",
+      "guide_proof_and_final_seal": "PENDING_ACTUAL_READBACK_AFTER_WRITER; do not infer from saving."
+    },
+    "attributed_ROOT_body_receiving": "ROOT679986 L1–85/a22125 L86–170 whole exact43,380-byte body; independent acceptance remains pending.",
+    "finite_read_only_result": {
+      "status": "PASS_READ_ONLY_FINITE_C_VERIFICATION_NOT_ROOT_ACCEPTANCE",
+      "unique_C_path_sha_pairs": 161,
+      "tuple_occurrences": 268,
+      "normal_sources": 16,
+      "original_decision16_inverse": true,
+      "six_exact_purpose_qualifications_and_original_route_inverse": true,
+      "current355_788_29_navigation_exact": true,
+      "105_Kaya_role_judgments": 105,
+      "prior_scope_pool_context_inverses": true,
+      "owner104_receipt21825_normal93829_distinct": true,
+      "saved_nonempty_joins": 115,
+      "claims": 35,
+      "normal_warrant_spans": 92,
+      "rivals": 9,
+      "ends": 12,
+      "original_OPEN_gaps": 14,
+      "one_unsealed_body_clause_inverse_169_other_lines_equal": true,
+      "protected_paths_followed": false,
+      "new_source_identity_admission_model_denominator_completion_credit": 0
+    },
+    "counts_universes": "161unique/268occurrences are recursive five-companion dictionary tuples, not delivery or preservation union;11payloads+16attachments+9preservedHeinefiles are a separate explicit finite inventory.",
+    "all14_original_stable_gaps": "OPEN; complete full names and claim-specific warrant limits in body/claims",
+    "new_primary_native_raw_QA_AV_performance_identity_source_admission_model_denominator_completion_credit": 0,
+    "writer_boundary": "New small C working directory only; no R/Git/provider writes, protected H/private/raw/original/9UNBOUND/39 content/hash or resets. ROOT sole integrator.",
+    "saved_encoding": "New eleven payloads UTF8 LF noBOM; historical normal attachments and older frozen files exact original bytes including their original line endings.",
+    "guide_proof_final_seal_receiving_not_inferred": true
+  },
+  "original_frozen_manifest_exact_tuple": {
+    "path": "KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/KAYA_COMPLETE_AUTHOR_RECEIVING_AND_EXACT_DELIVERY_FREEZE_V1.json",
+    "bytes": 21220,
+    "sha256": "015be6724ad572025e2da4ddd97e087589e9925fd6e86c2b6152f2718f9e7c97",
+    "git_blob_oid_of_actual_bytes": "787e608b2e745036e5d5ed3d3e3f47ad3322af29",
+    "immutable_transport_path": "immutable_originals/KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/KAYA_COMPLETE_AUTHOR_RECEIVING_AND_EXACT_DELIVERY_FREEZE_V1.json"
+  },
+  "original_body_exact_tuple": {
+    "path": "KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/BLUE_ARCHIVE_KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+    "bytes": 43380,
+    "sha256": "1bdc5b75cb3ba5ef181aefc423f50a9c17d3be062ce089627ee2ab8b48ef93c5",
+    "git_blob_oid_of_actual_bytes": "a036f6d4ce360590372bcf24bc164ee9a5671e0a",
+    "immutable_transport_path": "immutable_originals/KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/BLUE_ARCHIVE_KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md"
+  },
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+    "bytes": 47142,
+    "sha256": "114817fe48a42bbf55b23eed78ad8840a828a43c8ea702affa1cb4dd040526f7",
+    "git_blob_oid_of_actual_bytes": "71ecdd1fbaccc5a0b71751af8e861a84464a912e"
+  },
+  "mandatory_operative_qualification": "The operative Schale offer/refusal is V004C002E008; old C001E008 purpose/route fields remain literal historical inverses and C001E008’s RABBIT comparison remains separate. The whole first body and its single L52 correction are preserved. Final committee, false escort, General divergence, unknown objects and Rin aftermath retain different endpoints; old-friend company and a first chess loss neither acquit coercion nor prove a second result. Heine E005, owner104 and Aoi unsaved-draft qualifications remain visible.",
+  "exact_target_route_qualification": {
+    "literal_ROOT_proposed_target": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+    "operative_target": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+    "changed": false
+  },
+  "documentary_source_tuple_boundary": "No recursive reopening of protected paths, wrong historical pairs or documentary references; only explicit exact ROOT-bound inventories/controls are transport reads.",
+  "reconciled_fixed133_current_boundary": {
+    "schema": "BLUE_ARCHIVE_RECONCILED_FIXED133_CURRENT_BOUNDARY_V1",
+    "status": "ROOT_ACCEPTED_LITERAL_RECONCILIATION_C_PROPOSAL_FULL_INSTALLATION_PENDING",
+    "local_source_before_install": "16b038cc400805d15cfeb799d048e1d20ba9290d",
+    "local_source_tree_before_install": "2e64442a6b80cea9d67143d690378bd01932cc88",
+    "current_main": "87aeee05a161d716fe840a0dd5d5517d9c646df9",
+    "observed_main_integrated_packages": 128,
+    "current_remote_source_before_publication": "ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+    "dated_source128_complete_automatic_chain_ROOT_control_sha256": "4141484d052286d43dad22177df06749c8ef094f6e158f965e27eb7d5f281eee",
+    "PR148": {
+      "verified_source_head": "ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+      "verified_integration_commit": "150a85e49a2b6d5fbd0c402d06c3070ea945d0cd",
+      "complete_source_and_integration_tree": "c43f5d62b651da352854278d8bf83d43389e46df",
+      "whole_tree_identity": true
+    },
+    "PR152": {
+      "merge_commit": "87aeee05a161d716fe840a0dd5d5517d9c646df9",
+      "correction_register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEVEN_SOURCE_CONSISTENCY_CORRECTIONS_20261011_V1.json",
+      "seven_corrected_current_interpretations_govern": true,
+      "earlier_frozen_payloads": "UNCHANGED_HISTORICAL_VALUES_QUALIFIED_BY_REGISTER"
+    },
+    "first25_milestone": {
+      "packages": 89,
+      "main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "status": "PREVIOUSLY_ACCEPTED_COMPLETE_FIRST_MILESTONE_HISTORY"
+    },
+    "after_complete_ROOT_install": {
+      "packages": 133,
+      "CHAR": 100,
+      "REL": 16,
+      "ENS": 5,
+      "INST": 12,
+      "named_completed": 13
+    },
+    "currently_published_packages_before_successor": 128,
+    "next_milestone": 178,
+    "scope355_named29_parents25_homes384": "UNCHANGED",
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "unreviewed_postmerge_audit_PASS_claimed": false,
+    "new_literary_primary_native_raw_QA_AV_admission_identity_scope_count_model_credit_from_transport": 0
+  }
+,
+  "composed_current_analytical_body_binding_successor_20261012_v1": {
+  "register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_CONSISTENCY_AUDIT_20261012_V1.json",
+  "current_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json",
+  "exact_named_preceding_body_binding_locations": [
+    {
+      "preserved_original_pointer": "/canonical_body_exact_tuple/sha256",
+      "preserved_literal_sha256_value": "114817fe48a42bbf55b23eed78ad8840a828a43c8ea702affa1cb4dd040526f7",
+      "analytical_body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+      "preceding_body_exact_tuple": {
+        "bytes": 47142,
+        "sha256": "114817fe48a42bbf55b23eed78ad8840a828a43c8ea702affa1cb4dd040526f7"
+      },
+      "current_composed_body_exact_tuple": {
+        "bytes": 48102,
+        "sha256": "397ee45de5476ce53073fdc8e24e12bf0ee19bb78c2ad4748f2704264eeaf4ab"
+      },
+      "interpretation": "ORIGINAL_FROZEN_OR_PRECEDING_ANALYTICAL_WITNESS_RETAINS_ITS_BINDING;CURRENT_MUTABLE_BODY_RESOLVES_TO_SEPARATE_COMPOSED_SUCCESSOR;NO_SOURCE_HASH_REBIND_OR_NEW_RECEPTION"
+    }
+  ],
+  "original_fields_hashes_decisions_inverses": "IMMUTABLE",
+  "new_source_package_identity_model_milestone_credit": 0
+},
+  "current_source_consistency_qualification_FIRST15_20261012_V1": {
+  "schema": "EXACT_CURRENT_FROZEN_MEANING_QUALIFICATIONS_V1",
+  "source": "629d39d2e3873e8e07a4d54db0c26dff06ed0775",
+  "status": "ROOT_CURRENT_SEMANTIC_QUALIFICATION_ACCEPTED_WITH_LIMITS",
+  "original_all_literals_hashes_decisions_inverses": "PRESERVED",
+  "new_credit": 0,
+  "judgments": [
+    {
+      "id": "KAYA-CHESS-SCALAR-9",
+      "owner_ref": null,
+      "current_qualification": "The first chess loss is Rin’s loss to Kaya. Existing current84/165 and ROOT substantive acceptance already retain Kaya’s win; no second result, political acquittal or invented meal consumption follows.",
+      "exact_retained_fields": [
+        {
+          "file": "BLUE_ARCHIVE_KAYA_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+          "json_pointer": "/mandatory_operative_qualification",
+          "exact_value": true,
+          "literal_occurrences": 1,
+          "frozen_value_sha256": "327dd79ae0d4cc2a1a2de4bcfece990360941bb29c90bfa60e5ec4481682d04d",
+          "before_literal": "The operative Schale offer/refusal is V004C002E008; old C001E008 purpose/route fields remain literal historical inverses and C001E008’s RABBIT comparison remains separate. The whole first body and its single L52 correction are preserved. Final committee, false escort, General divergence, unknown objects and Rin aftermath retain different endpoints; old-friend company and a first chess loss neither acquit coercion nor prove a second result. Heine E005, owner104 and Aoi unsaved-draft qualifications remain visible.",
+          "qualification_only_do_not_replace_literal": true
+        }
+      ]
+    }
+  ],
+  "public_register_reference": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_CONSISTENCY_AUDIT_20261012_V1.json",
+    "json_pointer": "/first15_independent_receiving_fragment/canonical_additive_control_actions/6",
+    "record_id": "FIRST15-CONTROL-07"
+  },
+  "reviewed_proposed_current_body": {
+    "bytes": 48102,
+    "sha256": "397ee45de5476ce53073fdc8e24e12bf0ee19bb78c2ad4748f2704264eeaf4ab",
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md"
+  },
+  "prepared_status_preserved": "C_ONLY_ROOT_MANUAL_ADOPTION_REQUIRED"
+},
+  "prior30_source_consistency_current_qualification_20261012_v5": {
+  "register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_CURRENT_QUALIFICATIONS_20261012_V5.json",
+  "scope": "DATED_ADDITIVE_CURRENT_USE_ONLY_FROZEN_FIELDS_IMMUTABLE",
+  "exact_qualified_original_pointers": [
+    {
+      "json_pointer": "/canonical_body_exact_tuple",
+      "retained_value_utf8_sha256": "3d374fd418c932b14dd2d7b613ac99d1fc968d09452abf9e33ff892fd992bec2",
+      "finding_ids": [
+        "P30-BODYBIND-P3-CHAR-M017"
+      ]
+    }
+  ],
+  "effective_current_canonical_body_bindings": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+      "bytes": 48102,
+      "sha256": "397ee45de5476ce53073fdc8e24e12bf0ee19bb78c2ad4748f2704264eeaf4ab",
+      "lines": 184,
+      "conditional_precomposition_tuple_preserved": {
+        "bytes": 47294,
+        "sha256": "7b0dafe1d5053b1f79e5323a9a92b28fe78fc4fd2c46dfb7385b027621ec5ec8"
+      },
+      "effective_composed_body_tuple": {
+        "bytes": 48102,
+        "sha256": "397ee45de5476ce53073fdc8e24e12bf0ee19bb78c2ad4748f2704264eeaf4ab"
+      },
+      "composed_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json"
+    }
+  ],
+  "new_body_inverse_module": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json",
+  "effective_bindings_and_inverse_recovery_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_CURRENT_BINDINGS_AND_WRAPPER_RECOVERY_20261012_V1.json",
+  "retained_original_to_canonical_inverse": "UNCHANGED;APPLY_NEW_DIFFERENTIAL_INVERSE_FIRST",
+  "earlier_PR152_layer": "PRESERVED_UNCHANGED",
+  "all14_original_gaps": "OPEN",
+  "new_source_package_identity_model_credit": 0,
+  "ROOT_installation_and_publication": "ROOT_SEMANTICALLY_APPROVED_CURRENT_COMPOSITION;REQUIRED_FULL_VALIDATION_AND_EXACT_SOURCE_HOUSEKEEPING_FINAL_RUNTIME_PUBLICATION_GATES",
+  "conditional_precomposition_new_body_inverse_module": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_BODY_DIFFERENTIAL_INVERSES_20261012_V2.json",
+  "conditional_precomposition_effective_bindings_and_inverse_recovery_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_EFFECTIVE_BINDINGS_AND_INVERSE_RECOVERY_20261012_V1.json"
+}
+}

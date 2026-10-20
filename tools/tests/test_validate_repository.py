@@ -4,6 +4,7 @@ import hashlib
 import importlib.util
 import json
 import os
+import random
 import shutil
 import stat
 import subprocess
@@ -18,6 +19,7 @@ ROOT = TOOLS.parent
 sys.path.insert(0, str(TOOLS))
 
 from character_index_core import (  # noqa: E402
+    AuthorityGraph,
     DomainError,
     GitSnapshot,
     SnapshotEntry,
@@ -27,8 +29,13 @@ from validate_repository import (  # noqa: E402
     G3_BOUND_COMMIT,
     G3_BOUND_TREE,
     G3_MANIFEST,
+    HAZARD_PREFILTERS,
     PROTECTED_HASHES,
+    PUBLICATION_PATTERNS,
+    SECRET_PATTERNS,
     active_migration_baseline_commit,
+    commit_identity_policy,
+    hazard_matches,
     identity_revision_for_snapshot,
     read_manifest_from_snapshot,
     require_g3_selection,
@@ -40,17 +47,27 @@ from validate_repository import (  # noqa: E402
     validate_global_index_automation,
     validate_bytes,
     validate_exact_set,
+    validate_generated_index,
     validate_markdown_links,
+    validate_missing_entrypoint_allowlist,
     validate_native_sheets,
     validate_named_whitespace_exceptions,
     validate_protected,
     validate_series_registry,
+    validate_study_registry,
     worktree_paths,
     worktree_snapshot,
 )
 
 
 class PhaseValidationTests(unittest.TestCase):
+    _registry_base: tuple[GitSnapshot, AuthorityGraph] | None = None
+
+    @classmethod
+    def tearDownClass(cls) -> None:
+        cls._registry_base = None  # release the cached corpus snapshot
+        super().tearDownClass()
+
     @staticmethod
     def p03_snapshot() -> GitSnapshot:
         snapshot = worktree_snapshot(ROOT, worktree_paths(ROOT))
@@ -117,6 +134,27 @@ class PhaseValidationTests(unittest.TestCase):
         )
         return PhaseValidationTests.replace_entry(snapshot, path, data)
 
+    @classmethod
+    def registry_base(cls) -> tuple[GitSnapshot, AuthorityGraph]:
+        """One worktree snapshot and authority graph, built once for registry tests.
+
+        The graph reads only series/studies Markdown, so it is exact for any
+        snapshot that differs from this base only in series/registry.json.
+        """
+        if cls._registry_base is None:
+            snapshot = cls.p03_snapshot()
+            cls._registry_base = (snapshot, AuthorityGraph(snapshot))
+        return cls._registry_base
+
+    def registry_failures(self, snapshot: GitSnapshot) -> list[str]:
+        base, graph = self.registry_base()
+        changed = {
+            path for path in snapshot.entries.keys() | base.entries.keys()
+            if snapshot.get(path) != base.get(path)
+        }
+        self.assertLessEqual(changed, {"series/registry.json"})
+        return validate_series_registry(snapshot, graph)
+
     @staticmethod
     def replace_series_registry(snapshot: GitSnapshot, mutate) -> GitSnapshot:
         path = "series/registry.json"
@@ -128,20 +166,23 @@ class PhaseValidationTests(unittest.TestCase):
         return PhaseValidationTests.replace_entry(snapshot, path, data)
 
     def test_series_registry_entrypoint_routes_are_valid(self) -> None:
-        snapshot = self.p03_snapshot()
-        self.assertEqual(validate_series_registry(snapshot), [])
+        snapshot = self.registry_base()[0]
+        self.assertEqual(self.registry_failures(snapshot), [])
         registry = json.loads(
             snapshot.entries["series/registry.json"].data.decode("utf-8")
         )
         shuukura = next(
             row for row in registry["series"] if row["series_id"] == "shuukura"
         )
-        self.assertEqual(shuukura["canonical_entrypoint_status"], "MISSING")
-        self.assertIsNone(shuukura["canonical_entrypoint"])
+        self.assertEqual(shuukura["canonical_entrypoint_status"], "PRESENT_VERIFIED")
+        self.assertEqual(
+            shuukura["canonical_entrypoint"],
+            "series/shuukura/CURRENT_STATE_AND_CORPUS_MAP.md",
+        )
 
     def test_series_registry_rejects_an_untracked_verified_entrypoint(self) -> None:
         snapshot = self.replace_series_registry(
-            self.p03_snapshot(),
+            self.registry_base()[0],
             lambda registry: registry["series"][0].update(
                 {
                     "canonical_entrypoint": (
@@ -150,7 +191,7 @@ class PhaseValidationTests(unittest.TestCase):
                 }
             ),
         )
-        failures = validate_series_registry(snapshot)
+        failures = self.registry_failures(snapshot)
         self.assertTrue(
             any("is not a tracked regular Git blob" in failure for failure in failures),
             failures,
@@ -160,20 +201,20 @@ class PhaseValidationTests(unittest.TestCase):
         def remove_status(registry: dict) -> None:
             registry["series"][0].pop("canonical_entrypoint_status")
 
-        snapshot = self.replace_series_registry(self.p03_snapshot(), remove_status)
-        failures = validate_series_registry(snapshot)
+        snapshot = self.replace_series_registry(self.registry_base()[0], remove_status)
+        failures = self.registry_failures(snapshot)
         self.assertTrue(
             any("missing required fields" in failure for failure in failures), failures
         )
 
     def test_series_registry_rejects_a_non_string_entrypoint_status(self) -> None:
         snapshot = self.replace_series_registry(
-            self.p03_snapshot(),
+            self.registry_base()[0],
             lambda registry: registry["series"][0].update(
                 {"canonical_entrypoint_status": ["PRESENT_VERIFIED"]}
             ),
         )
-        failures = validate_series_registry(snapshot)
+        failures = self.registry_failures(snapshot)
         self.assertTrue(
             any("canonical_entrypoint_status must be one of" in failure for failure in failures),
             failures,
@@ -195,9 +236,9 @@ class PhaseValidationTests(unittest.TestCase):
             )
 
         snapshot = self.replace_series_registry(
-            self.p03_snapshot(), promote_historical_path
+            self.registry_base()[0], promote_historical_path
         )
-        failures = validate_series_registry(snapshot)
+        failures = self.registry_failures(snapshot)
         self.assertTrue(
             any(
                 "is not current-eligible" in failure
@@ -212,13 +253,14 @@ class PhaseValidationTests(unittest.TestCase):
             shuukura = next(
                 row for row in registry["series"] if row["series_id"] == "shuukura"
             )
+            shuukura["canonical_entrypoint_status"] = "MISSING"
             shuukura["canonical_entrypoint"] = (
                 "series/shuukura/90 Legacy and Superseded/V1 Historical Analysis/"
                 "00_README_AND_CORPUS_MAP.md"
             )
 
-        snapshot = self.replace_series_registry(self.p03_snapshot(), add_path)
-        failures = validate_series_registry(snapshot)
+        snapshot = self.replace_series_registry(self.registry_base()[0], add_path)
+        failures = self.registry_failures(snapshot)
         self.assertTrue(
             any("must be null when status is MISSING" in failure for failure in failures),
             failures,
@@ -270,7 +312,22 @@ class PhaseValidationTests(unittest.TestCase):
             "crosswalk/materialization-results.jsonl",
             "crosswalk/path-plan.jsonl",
         }
-        self.assertEqual(set(by_path), {*crosswalk_paths, idoly_path})
+        blue_archive_path = (
+            "series/blue-archive/06 Evidence and Indexes/"
+            "BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md"
+        )
+        blue_archive_csv_path = (
+            "series/blue-archive/06 Evidence and Indexes/"
+            "BLUE_ARCHIVE_SUPPLEMENTAL_SOURCE_TO_ANALYSIS_CROSSWALK.csv"
+        )
+        self.assertEqual(
+            set(by_path),
+            {*crosswalk_paths, idoly_path, blue_archive_path, blue_archive_csv_path},
+        )
+        self.assertEqual(len(exceptions), 6)
+        self.assertEqual(policy["review_threshold_bytes"], 1048576)
+        self.assertEqual(policy["generated_structured_default_external_bytes"], 10485760)
+        self.assertEqual(policy["hard_exception_threshold_bytes"], 26214400)
         for path, row in by_path.items():
             with self.subTest(path=path):
                 data = (ROOT / path).read_bytes()
@@ -290,6 +347,42 @@ class PhaseValidationTests(unittest.TestCase):
                     by_path[path]["review_decision"],
                     "OWNER_AUTHORIZED_G7_AGGREGATE_PROVENANCE_CLOSURE",
                 )
+        blue_archive_row = by_path[blue_archive_path]
+        self.assertEqual(blue_archive_row["bytes"], 1135497)
+        self.assertEqual(
+            blue_archive_row["sha256"],
+            "396168a919bab2e2f7dfc865c29d10a107ea0e5ac045230ec16f3943ca915059",
+        )
+        self.assertEqual(
+            blue_archive_row["exception_id"],
+            "BLUE_ARCHIVE_CYCLE007_MAIN_COVERAGE_396168A9",
+        )
+        self.assertFalse(blue_archive_row["allow_utf8_bom"])
+        self.assertFalse(blue_archive_row["allow_carriage_returns"])
+        blue_archive_csv_row = by_path[blue_archive_csv_path]
+        self.assertEqual(blue_archive_csv_row["bytes"], 1076962)
+        self.assertEqual(
+            blue_archive_csv_row["sha256"],
+            "0b4c0034e9c9b0bb1f7c3298c54df3735841b614cf1871b755c9633fd2ab6bcf",
+        )
+        self.assertEqual(
+            blue_archive_csv_row["exception_id"],
+            "BLUE_ARCHIVE_CYCLE007_SUPPLEMENTAL_CROSSWALK_0B4C0034",
+        )
+        self.assertFalse(blue_archive_csv_row["allow_utf8_bom"])
+        self.assertFalse(blue_archive_csv_row["allow_carriage_returns"])
+        for row in (blue_archive_row, blue_archive_csv_row):
+            with self.subTest(blue_archive=row["path"]):
+                self.assertEqual(
+                    row["review_decision"],
+                    "ROOT_CYCLE007_EXACT_MAIN_CSV_REVIEW_20261007_V1",
+                )
+                external_reason = row["external_reference_insufficient"]
+                self.assertIsInstance(external_reason, str)
+                self.assertTrue(external_reason.strip())
+                self.assertEqual(external_reason, external_reason.strip())
+                self.assertNotIn("\n", external_reason)
+                self.assertNotIn("\r", external_reason)
 
     def test_production_furina_commonmark_exception_is_exactly_bound(self) -> None:
         policy = json.loads(
@@ -888,6 +981,20 @@ class PhaseValidationTests(unittest.TestCase):
         failures = validate_audit_workflow(snapshot, {"allowed_workflows": [path, ".github/workflows/global-index-housekeeping.yml"]})
         self.assertIn("repository-audit workflow missing required contract:       - character-registry", failures)
 
+    def test_repository_audit_requires_every_agent_branch_trigger(self) -> None:
+        path = ".github/workflows/repository-audit.yml"
+        source = (ROOT / path).read_bytes()
+        for line in (b'      - "codex/**"\n', b'      - "chatgpt/**"\n', b'      - "claude/**"\n'):
+            with self.subTest(line=line):
+                self.assertIn(line, source)
+                changed = source.replace(line, b"", 1)
+                snapshot = GitSnapshot(ROOT, "IN_MEMORY", {path: SnapshotEntry(path, "100644", changed)})
+                failures = validate_audit_workflow(snapshot, {"allowed_workflows": [path]})
+                self.assertIn(
+                    "repository-audit workflow missing required contract: " + line.decode().rstrip("\n"),
+                    failures,
+                )
+
     def test_repository_audit_workflow_rejects_mutation_capability(self) -> None:
         path = ".github/workflows/repository-audit.yml"
         baseline = (ROOT / path).read_bytes()
@@ -1074,19 +1181,37 @@ class PhaseValidationTests(unittest.TestCase):
             git("add", "--", "fixture.txt")
             git("commit", "--quiet", "-m", "owner")
             owner_commit = git("rev-parse", "HEAD")
+            (temporary / "fixture.txt").write_text("server\n", encoding="utf-8", newline="\n")
+            git("add", "--", "fixture.txt")
+            git("commit", "--quiet", "--author", "GitHub <noreply@github.com>", "-m", "server-authored")
+            server_authored = git("rev-parse", "HEAD")
             git("config", "user.name", "Other")
             git("config", "user.email", "other@example.invalid")
             (temporary / "fixture.txt").write_text("other\n", encoding="utf-8", newline="\n")
             git("add", "--", "fixture.txt")
             git("commit", "--quiet", "-m", "other")
+            owner = {"name": "Owner", "email": "owner@example.invalid"}
+            server = {"name": "GitHub", "email": "noreply@github.com"}
             policy = {
-                "allowed_commit_identities": [
-                    {"name": "Owner", "email": "owner@example.invalid"}
-                ]
+                "allowed_author_identities": [owner],
+                "allowed_committer_identities": [owner, server],
+                "allowed_commit_identities": [owner, server],
             }
             selected = identity_revision_for_snapshot("commit", owner_commit)
             self.assertEqual(selected, owner_commit)
             self.assertEqual(validate_commit_identities(temporary, policy, selected), [])
+            self.assertEqual(
+                validate_commit_identities(temporary, policy, server_authored),
+                ["disallowed Git author identity: GitHub <noreply@github.com>"],
+            )
+            # The historical G3 policy lists only the compatibility set.
+            self.assertEqual(
+                validate_commit_identities(
+                    temporary, {"allowed_commit_identities": [owner, server]}, server_authored,
+                    role_split=False,
+                ),
+                [],
+            )
             self.assertTrue(
                 validate_commit_identities(
                     temporary,
@@ -1100,6 +1225,143 @@ class PhaseValidationTests(unittest.TestCase):
                 function(path)
 
             shutil.rmtree(temporary, onexc=clear_readonly)
+
+    def test_commit_identity_policy_separates_author_and_committer_roles(self) -> None:
+        owner = {"name": "Owner", "email": "owner@example.invalid"}
+        server = {"name": "GitHub", "email": "noreply@github.com"}
+        good = {
+            "allowed_author_identities": [owner],
+            "allowed_committer_identities": [owner, server],
+            "allowed_commit_identities": [owner, server],
+        }
+        authors, committers, errors = commit_identity_policy(good)
+        self.assertEqual(errors, [])
+        self.assertEqual(authors, {("Owner", "owner@example.invalid")})
+        self.assertEqual(committers, {("Owner", "owner@example.invalid"), ("GitHub", "noreply@github.com")})
+        variants = (
+            ({"allowed_author_identities": [owner, server], "allowed_commit_identities": [owner, server]},
+             "GitHub server identity must never be an allowed author"),
+            ({"allowed_committer_identities": [owner], "allowed_commit_identities": [owner]},
+             "GitHub server identity must be an allowed committer"),
+            ({"allowed_commit_identities": [owner]},
+             "allowed_commit_identities must equal the compatibility union of "
+             "allowed_author_identities and allowed_committer_identities"),
+            ({"allowed_author_identities": []}, "allowed_author_identities must be a nonempty list"),
+            ({"allowed_author_identities": [owner, owner]}, "duplicate identity in allowed_author_identities"),
+            ({"allowed_author_identities": [{"name": "Owner"}]},
+             "malformed allowed_author_identities entry: {'name': 'Owner'}"),
+        )
+        for change, expected in variants:
+            with self.subTest(expected=expected):
+                self.assertIn(expected, commit_identity_policy({**good, **change})[2])
+        live = json.loads((ROOT / "governance/repository-controls/tracked-file-policy.json").read_text(encoding="utf-8"))
+        self.assertEqual(commit_identity_policy(live)[2], [])
+
+    def test_missing_entrypoints_must_equal_the_reviewed_allowlist(self) -> None:
+        def registry(rows: list) -> GitSnapshot:
+            data = json.dumps({"series": rows}).encode("utf-8") + b"\n"
+            path = "series/registry.json"
+            return GitSnapshot(ROOT, "IN_MEMORY", {path: SnapshotEntry(path, "100644", data)})
+
+        missing = {"series_id": "alpha", "canonical_entrypoint_status": "MISSING"}
+        present = {"series_id": "beta", "canonical_entrypoint_status": "PRESENT_VERIFIED"}
+        policy = {"allowed_missing_canonical_entrypoints": ["alpha"]}
+        self.assertEqual(validate_missing_entrypoint_allowlist(registry([missing, present]), policy), [])
+        self.assertEqual(
+            validate_missing_entrypoint_allowlist(registry([present]), policy),
+            ["canonical-entrypoint MISSING set differs from reviewed allowlist; allowed=['alpha'], actual=[]"],
+        )
+        self.assertEqual(
+            validate_missing_entrypoint_allowlist(
+                registry([missing, {**present, "canonical_entrypoint_status": "MISSING"}]), policy
+            ),
+            ["canonical-entrypoint MISSING set differs from reviewed allowlist; "
+             "allowed=['alpha'], actual=['alpha', 'beta']"],
+        )
+        self.assertEqual(
+            validate_missing_entrypoint_allowlist(
+                registry([{"canonical_entrypoint_status": "MISSING"}]),
+                {"allowed_missing_canonical_entrypoints": []},
+            ),
+            ["MISSING series route without series_id"],
+        )
+        for bad in (None, "alpha", ["alpha", "alpha"], [""], [1]):
+            with self.subTest(allowlist=bad):
+                self.assertEqual(
+                    validate_missing_entrypoint_allowlist(
+                        registry([missing]), {"allowed_missing_canonical_entrypoints": bad}
+                    ),
+                    ["allowed_missing_canonical_entrypoints must be a unique string list"],
+                )
+
+    def test_hazard_prefilters_never_skip_a_match(self) -> None:
+        patterns = {**SECRET_PATTERNS, **PUBLICATION_PATTERNS}
+        self.assertLessEqual(set(HAZARD_PREFILTERS), set(patterns))
+        # Positive samples are assembled at run time so this file never matches them.
+        samples = {
+            "GitHub token": [b"gh" + b"s_" + b"A1" * 12, b"x gh" + b"r_" + b"z" * 20 + b" y"],
+            "AWS access key": [b"AK" + b"IA" + b"ABCDEFGHIJ012345"],
+            "Google API key": [b"AI" + b"za" + b"A" * 35],
+            "Google Drive URL": [b"HTTPS://" + b"DRIVE.Google" + b".com/x", b"https://" + b"docs.google" + b".com"],
+            "local absolute path": [b"see C" + b":\\Users", b"d" + b":/tmp", b"FILE" + b"://host/x"],
+            "personal email address": [
+                b"Someone" + b"@Gmail" + b".COM", b"a.b" + b"@googlemail" + b".co", b"x" + b"@yahoo" + b".fr",
+            ],
+        }
+        self.assertEqual(set(samples), set(HAZARD_PREFILTERS))
+        rng = random.Random(20261015)
+        noise = [b" ", b"\n", b"a", b"Z", b"0", b"_", b"-", b".", b":", b"/", b"\\", b"@", b"gh", b"google"]
+        for label, values in samples.items():
+            noisy_hits = 0
+            for value in values:
+                with self.subTest(label=label, value=value):
+                    self.assertIn(label, hazard_matches(value, patterns))
+                for _ in range(50):
+                    # Noise may legitimately break a match (a word character
+                    # defeats a trailing \b); the filtered and unfiltered scans
+                    # must still agree either way.
+                    data = (
+                        b"".join(rng.choice(noise) for _ in range(rng.randint(0, 6)))
+                        + value
+                        + b"".join(rng.choice(noise) for _ in range(rng.randint(0, 6)))
+                    )
+                    expected = [name for name, pattern in patterns.items() if pattern.search(data)]
+                    noisy_hits += label in expected
+                    with self.subTest(label=label, data=data):
+                        self.assertEqual(hazard_matches(data, patterns), expected)
+            self.assertGreater(noisy_hits, 0, label)
+        fragments = noise + [
+            b"p_", b"s_", b"AK", b"IA", b"AI", b"za", b"https://", b"drive.", b"docs.", b".com",
+            b"gmail", b"outlook", b"hotmail", b"yahoo", b"file", b"C", b"A" * 20, b"ABCDEFGHIJ012345",
+            b"DRIVE", b"GMAIL", b"FILE", b"HTTPS",
+        ]
+        for _ in range(5000):
+            data = b"".join(rng.choice(fragments) for _ in range(rng.randint(1, 40)))
+            expected = [name for name, pattern in patterns.items() if pattern.search(data)]
+            self.assertEqual(hazard_matches(data, patterns), expected, data)
+
+    def test_one_authority_graph_serves_each_consumer(self) -> None:
+        snapshot, graph = self.registry_base()
+        with mock.patch("validate_repository.AuthorityGraph", side_effect=AssertionError("graph rebuilt")):
+            self.assertEqual(validate_series_registry(snapshot, graph), [])
+            self.assertEqual(validate_study_registry(snapshot, graph), [])
+            self.assertEqual(validate_generated_index(snapshot, "commit", graph), [])
+
+    def test_routing_output_set_has_one_definition(self) -> None:
+        import analytical_preflight
+        import nightly_integration
+        import update_repository_indexes
+        import validate_repository
+
+        expected = frozenset({
+            "governance/MANGA_ANIME_CORPUS_INDEX.md", "series/README.md", "series/registry.json",
+            "studies/README.md", "studies/registry.json",
+        })
+        self.assertEqual(update_repository_indexes.ROUTING_OUTPUTS, expected)
+        self.assertIs(analytical_preflight.ROUTING_OUTPUTS, update_repository_indexes.ROUTING_OUTPUTS)
+        self.assertEqual(validate_repository.GLOBAL_AUTOMATION_WRITE_PATHS, set(expected))
+        # The nightly controller is standalone and hash-bound, so it keeps a bound copy.
+        self.assertEqual(nightly_integration.GENERATED, expected)
 
     def test_percent_encoded_markdown_paths_decode_before_resolution(self) -> None:
         target = "series/example/A file (1)%.md"
@@ -1422,23 +1684,14 @@ class PhaseValidationTests(unittest.TestCase):
 
             shutil.rmtree(temporary, onexc=clear_readonly)
 
-    def test_current_worktree_cli_fails_closed_until_evidence_is_staged(self) -> None:
-        result = subprocess.run(
-            [
-                sys.executable,
-                str(TOOLS / "validate_repository.py"),
-                "--phase",
-                "current",
-                "--snapshot",
-                "worktree",
-                "--repo",
-                str(ROOT),
-            ],
-            text=True,
-            capture_output=True,
+    def test_current_worktree_snapshot_fails_closed_until_evidence_is_staged(self) -> None:
+        # The CLI passes --snapshot worktree straight to this check; calling it
+        # directly avoids a full validator run for one expected failure.
+        snapshot = worktree_snapshot(ROOT, worktree_paths(ROOT))
+        self.assertIn(
+            "worktree bytes cannot establish materialization; use an exact Git index or commit snapshot",
+            validate_generated_index(snapshot, "worktree"),
         )
-        self.assertNotEqual(result.returncode, 0, result.stdout + result.stderr)
-        self.assertIn("worktree bytes cannot establish materialization", result.stdout)
 
 
 if __name__ == "__main__":

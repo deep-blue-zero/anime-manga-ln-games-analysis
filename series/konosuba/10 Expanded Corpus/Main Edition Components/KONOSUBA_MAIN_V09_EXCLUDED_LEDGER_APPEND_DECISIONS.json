@@ -1,0 +1,166 @@
+{
+  "schema": "KONOSUBA_MAIN09_EXCLUDED_TEN_LEDGER_APPEND_DECISIONS_V1",
+  "source_id": "MAIN-09",
+  "ten_current_prefix_controls": [
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "bytes": 297296,
+      "sha256": "6eaffd2277ce3cf9f476bba773bf5acb636a7f7dcb84245cc6d5844aaa8ddc7e"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "bytes": 217245,
+      "sha256": "f99b8f8c33d468e18f5e83ac6d11fe9b9bf9bca7955e6485b628408715721b95"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "bytes": 786952,
+      "sha256": "78462dd4fff35ace4da64e16f7acec86832af8bd51c4aa7e145d662b35588f03"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "bytes": 597060,
+      "sha256": "e80d53e4d948ce24727d5853254762aff5f004eaeae0f07760559a99f0b4224b"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "bytes": 194956,
+      "sha256": "554609ff82043c1e1ea3ae6f39383dee6c1e5383c302df7edb84337730cf505b"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "bytes": 187755,
+      "sha256": "ae41207b69bf6586d8ba6a778b929e62c9765baa434e07004e37e3e111c5dbe0"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "bytes": 211195,
+      "sha256": "78a13143374a0c55fa5951970320a5fe2b8bf304ec8a23fd2ab6bc2cbc36d3dc"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "bytes": 175843,
+      "sha256": "3f5d9159606ebfc81f0fb15a4c33f4968b81c8ac02b604817a4a49b626fafaa8"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "bytes": 266501,
+      "sha256": "e6112b6bc3b89b98e88dd05125e33cba4a8d65ba321fda5eca9e09d5979e1a6c"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "bytes": 130373,
+      "sha256": "84333e6b3993e1388b839f2781fafcd4f5a788d88876738166753bb18cde68b3"
+    }
+  ],
+  "rows": [
+    {
+      "id": "M09EX-LD01",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Darkness/Megumin/Zel; reported father, retained Yunyun/Wolbach/Iris and staged poll/creator voices separately typed",
+      "native_routes": "MAIN09U021P3-61",
+      "observation": "New bonus: M's narrator-reported earlier mana exhaustion coexists with actual social performance; Aq handles Zel; K shifts from game focus to curiosity; D seeks a win.",
+      "implication": "No later negotiated relationship state, actual magic cast or generalized incapacity inferred.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/poll/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M09EX-LD02",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Darkness/Megumin/Zel; reported father, retained Yunyun/Wolbach/Iris and staged poll/creator voices separately typed",
+      "native_routes": "MAIN09U021P12-60",
+      "observation": "Familiar household can collaborate against one peer for a chore wager; observed highfive/reward reveal a particular coalition.",
+      "implication": "Attachment and shared life do not guarantee equal information, harmlessness or blanket assent. No permanent faction or ruined friendship inferred.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/poll/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M09EX-LD03",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Darkness/Megumin/Zel; reported father, retained Yunyun/Wolbach/Iris and staged poll/creator voices separately typed",
+      "native_routes": "MAIN09U021P3-61/H01-H14",
+      "observation": "Optional attention becomes artificial scarcity and exclusion pressure, inducing actual concession before a mundane sleep payoff.",
+      "implication": "Distinguish actual deception from its false claims; narrated reward fixes coordination without inventing prior planning dialogue.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/poll/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M09EX-LD04",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Darkness/Megumin/Zel; reported father, retained Yunyun/Wolbach/Iris and staged poll/creator voices separately typed",
+      "native_routes": "MAIN09IMG027-032/H20-H25",
+      "observation": "Poll scripts/creator art are staged responses to an edition ballot, distinct from retained art and newly enacted bonus fiction.",
+      "implication": "H4presentation does not make documentary date/valid-vote claims imaginary, nor ballot entries new actors/events.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/poll/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M09EX-LD05",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Darkness/Megumin/Zel; reported father, retained Yunyun/Wolbach/Iris and staged poll/creator voices separately typed",
+      "native_routes": "MAIN09U021P55-57/H12/V20-V21",
+      "observation": "Aqua's sleep/wake proverb substitution and Kazuma's coarse conventional correction create a central form-dependent gag.",
+      "implication": "L3for the full selected proverb effect; portable attention trap remains separately L0/L1/L2. No audio or frequency claim.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/poll/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M09EX-LD06",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Darkness/Megumin/Zel; reported father, retained Yunyun/Wolbach/Iris and staged poll/creator voices separately typed",
+      "native_routes": "MAIN09V01-V29/IMG031",
+      "observation": "Polite Megumin performance, D's family/military/game register and K's time-out/protest each depend on role; creator prayer/craft language has a different speaker plane.",
+      "implication": "Neither polite morphology nor question form proves sincerity/deference/pressure; Mithsurugi name-play is a separate raster L3selection.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/poll/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M09EX-LD07",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Darkness/Megumin/Zel; reported father, retained Yunyun/Wolbach/Iris and staged poll/creator voices separately typed",
+      "native_routes": "MAIN09U021P7/23-30/48/54-60",
+      "observation": "He recognizes Aq's art, then narrows her worth to healing/art, misreads the spectacle until highfive/reward, and calls sleeping ordinary chick behavior.",
+      "implication": "First-person causal/trait claims differ from directly narrated acts. Retained wall work prevents global incompetence uptake.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/poll/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M09EX-LD08",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Darkness/Megumin/Zel; reported father, retained Yunyun/Wolbach/Iris and staged poll/creator voices separately typed",
+      "native_routes": "MAIN09U021P4-18/41-60",
+      "observation": "Late meal, leisure game and next-week dishwashing make mundane time/labor worth competing over.",
+      "implication": "Chore allocation is stake, not completed labor. Specific attachment to shared life does not require uninterrupted benevolence.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/poll/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M09EX-LD09",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Darkness/Megumin/Zel; reported father, retained Yunyun/Wolbach/Iris and staged poll/creator voices separately typed",
+      "native_routes": "MAIN09U021P15/19-60; retained F43-110",
+      "observation": "Aq/M/D enact a successful attention trap and Kconcedes; actual sleep is modest pet handling. Father's strategy and prior terms are reported.",
+      "implication": "Do not inflate into D's board superiority, father's universal genius, dragon proof or Aq's trained paw act; retained wall competence remains a separate actual domain.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/poll/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M09EX-LD10",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Darkness/Megumin/Zel; reported father, retained Yunyun/Wolbach/Iris and staged poll/creator voices separately typed",
+      "native_routes": "MAIN09U021P1-61; retained C1P177-485/F589-818",
+      "observation": "New bonus has ordinary stakes. Retained Dselected-restraint/changed practical need and K/Mgrief-contact phases show different choices across time.",
+      "implication": "Door opening is not unbinding. Later care does not erase earlier imposition, nor does one tear establish an unconditional stop/seriousness law.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/poll/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M09EX-LD11",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Darkness/Megumin/Zel; reported father, retained Yunyun/Wolbach/Iris and staged poll/creator voices separately typed",
+      "native_routes": "MAIN09U021P7/19-47/58-61",
+      "observation": "K changes from dismissing a chick act to paying the game cost because staged excitement/scarcity dominate his attention; later disclosure changes his interpretation.",
+      "implication": "Real choice under deceptive information; no supernatural compulsion, final remedy or moral exoneration inferred.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/poll/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M09EX-LD12",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "subjects": "Kazuma/Aqua/Darkness/Megumin/Zel; reported father, retained Yunyun/Wolbach/Iris and staged poll/creator voices separately typed",
+      "native_routes": "MAIN09AS/R1-K01-K08/A01-A08/D01-D08/M01-M07/E01-E08/T01-T04; SI-D01-D07/SY-D01-D07",
+      "observation": "39explicit unchanged comparisons: K02narrow local response supported; K01adjacent; E01/E07partial;35full conjunctions unestablished, with K01adjacent classified separately.4typed constraints and14separate SI/SYNT rows; no original fields changed.",
+      "implication": "Same informed root; no new heldout score, independent validation or model-confidence update. Both original14null sets and all eight entering model pins remain exact.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/poll/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "schema": "KONOSUBA_YUNYUN_COHORT01_RECEIVING_AND_PROVENANCE_V1",
+  "accepted_utc": "2026-10-19T13:17:14.046407+00:00",
+  "status": "ROOT_SEMANTIC_RECEIVING_COMPLETE_CONTAINING_PUBLICATION_PENDING",
+  "source_boundary_commit": "8bde99e740ce0c23d9dee951aeb27cbb1aaa7c85",
+  "preceding_gate": "09 Audits and Manifests/KONOSUBA_MAIN08EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json",
+  "receiver": "Same continuing informed root. All new prose, exact old blocks, native interval/image notes, actual16outputs/8pairs and causal revisions actually received. No delegated/independent reader, native-human, acoustic or new source validation.",
+  "tier": "3 at this declared evidence scope, predictive reliability provisional; Iris earlier scopedTier3 remains, all other working tiers unassigned.",
+  "artifacts": [
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_YUNYUN_CHARACTER_MONOGRAPH.md",
+      "bytes": 19577,
+      "sha256": "34ae345665aa1b537169c203b3ee90db29323e4ae630a0912a182fecb7b94626"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_YUNYUN_RECONSTRUCTION_MODEL.md",
+      "bytes": 25474,
+      "sha256": "4565a9089c9bac6c6f694469f27920d26f9ab1b44275c62c7160692575c765eb"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_YUNYUN_EVIDENCE_INDEX.md",
+      "bytes": 11071,
+      "sha256": "0fd42342ac70a1457bf42888e2cce6167b159965bea4c1f58d0363db7ed6fac1"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/YUNYUN_EXPANDED_V1_EVIDENCE/YUNYUN_SYNTHETIC_SCENARIO_CONTRACTS_01.json",
+      "bytes": 8339,
+      "sha256": "4a840af5c8dd78f0f14428f3656f76aa7ed521ea1d34369b288bc2955d5d5c3f"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/YUNYUN_EXPANDED_V1_EVIDENCE/YUNYUN_ACTUAL_SYNTHETIC_OUTPUTS_01.json",
+      "bytes": 6772,
+      "sha256": "2d7ff9f7941b99ab54ee13edf8293ca3b41f627343e99f9dd713102145b70729"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/YUNYUN_EXPANDED_V1_EVIDENCE/YUNYUN_SYNTHETIC_CAUSAL_RECEIVING_01.json",
+      "bytes": 7561,
+      "sha256": "7b138a300eb4786a1c93c7215c5afffd2348b868376ae64e0332f70e3f110b36"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/YUNYUN_EXPANDED_V1_EVIDENCE/YUNYUN_EXERCISE_DRAFTS_EXACT_01.json",
+      "bytes": 90453,
+      "sha256": "ec40f18e8b94df47044ed678c0ff4cc32f8a82cfcc8c08b5eea19a73871d35aa"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/YUNYUN_EXPANDED_V1_EVIDENCE/YUNYUN_EXACT_FORECAST_LINEAGE_ANNEX_01.json",
+      "bytes": 25228,
+      "sha256": "596f2f68e0feac57ecba15d741db33df32325685d68941b30d1cd46dc0c0ebd5"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/YUNYUN_EXPANDED_V1_EVIDENCE/YUNYUN_NATIVE_AND_DERIVATIVE_PROVENANCE_01.json",
+      "bytes": 47734,
+      "sha256": "06dbe62ffd72b8632d9d8a898e860b60c53cf4bccbedd76d4f84ec254ad39e42"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/YUNYUN_EXPANDED_V1_EVIDENCE/YUNYUN_SCOPED_SOURCE_COMMITMENTS_01.json",
+      "bytes": 6008,
+      "sha256": "27626b8e17a462273fb2b23e488ada364f70e960ad01767af3045a5d8ddd9607"
+    }
+  ],
+  "semantic_acceptance_basis": [
+    "Own focalization and ordinary/exceptional choices support differentiated mechanisms, relationship and information dependence, skill versus judgment, goals and adverse outcomes.",
+    "Explicit walk/permanent recruitment/destination refusals constrain global compliance. Independent protection and dangerous/consent-violating actions constrain universal moral kindness.",
+    "Exact skill and actor phases: Invisibility actual; Silent requested-not-shown; ice Kazuma; Aigis blocks magic until revised alternation; mana/capacity and provider roles retained.",
+    "Same-author exercises preserve protective-method and praise/achievement uncertainty, invented counterpart continuation and easy arithmetic. D04/D06 remain LOW; no confidence increases.",
+    "Model and monograph have different responsibilities; index/event-family routes deduplicate without inventing an independent-event count."
+  ],
+  "synthetic_exercise": {
+    "outputs": 16,
+    "pairs": 8,
+    "source_or_independent_validation_credit": 0,
+    "score": null,
+    "confidence_increase": false
+  },
+  "optional_scope": "SY-C01 freezes7rules/14nulls beforeMAIN09-17excluded; no opportunity is assumed; previousSI-C01/SEC01/oldMGscopes unchanged.",
+  "source_credit": {
+    "new_whole_source_passes": 0,
+    "native_bounded_P": 1050,
+    "accepted_native_units": 12,
+    "native_image_pages_actually_rechecked": 20,
+    "linked_own_image_interludes": 4,
+    "independent_observation_denominator": null
+  },
+  "census": "Working51rows includes mandatory18 and additional distinct/discovery queues. Only Iris/Yunyun earn scopedTier3 now; broad systematic census not closed. No arbitrary appearance/word threshold used.",
+  "not_completed": [
+    "MAIN09-MAIN17 excluded programs",
+    "Remaining secondary census/individual final dispositions and earned artifacts",
+    "Expanded specialist/principal/party/transfer synthesis and versioned revisions",
+    "Curator-owned global discovery and final integration/release"
+  ],
+  "preservation": "66current/72historical/fourscores/Dust14blanks and prior model/scope bytes must remain exact through staging/publication. No direct main write, forced history or raw source egress.",
+  "publication_gate": "Pending exact candidate, author validation, fresh heads/owner/rules, normal push, exact readback/sourceaudit/HK/finalactualsource/status/reload.",
+  "current_publication_gate": {
+    "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+    "source": "906a29b4c986de8035b2511ed19dbf3e7c3e0676",
+    "closed_utc": "2026-10-19T13:37:18.624105+00:00",
+    "receipt": "09 Audits and Manifests/KONOSUBA_YUNYUN_COHORT01_PUBLICATION_GATE_CLOSE.json",
+    "reload_utc": "2026-10-19T13:37:28.714961+00:00",
+    "original_pending_at_authorship_fields_retained": true,
+    "containing_postgate_metadata_publication": "Carried with next tranche; records already closed exact preceding source gate."
+  }
+}

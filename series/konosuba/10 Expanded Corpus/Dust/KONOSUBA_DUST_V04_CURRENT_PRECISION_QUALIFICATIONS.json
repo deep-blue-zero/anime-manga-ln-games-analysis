@@ -1,0 +1,123 @@
+{
+  "schema": "KONOSUBA_DUST04_CURRENT_ATTRIBUTABLE_PRECISION_V1",
+  "created_utc": "2026-10-18T07:18:46.226355+00:00",
+  "original_uncoded_history_unchanged": true,
+  "findings": [
+    {
+      "id": "Q01",
+      "qualification": "Opening U010 and U014:P0341–0404 re-present the same one-round game; thirteen total cards, twelve remaining after Revi chooses. No independent second trial.",
+      "source": "U010;U014:P0341–0404;IMG020"
+    },
+    {
+      "id": "Q02",
+      "qualification": "All21text units/24images were actually read/viewed. Principal U010–015 contributes2648P, other units61P, total2709P. No separately supplied bonus story appears in the actual manifest/navigation.",
+      "source": "U001–021;native admission and full seal"
+    },
+    {
+      "id": "Q03",
+      "qualification": "The chapter1 title is not proof Taylor dates. Taylor expressly denies ever dating and reports an actual cash gift for the woman's unverified illness story. Retaliation does not prevent that loss.",
+      "source": "U011:P0553–0568;IMG009"
+    },
+    {
+      "id": "Q04",
+      "qualification": "One prior win is explicitly reported by the gambling venue guard. Always-losing cover language is not a numerical census; later low luck and repeated losses are actual narration.",
+      "source": "U011:P0288–0298;U012:P0645–0653"
+    },
+    {
+      "id": "Q05",
+      "qualification": "IMG010 depicts Dust and Vanir, not the food trick; IMG014 depicts the priestess holding scavenged food, not the adjacent sword grab; IMG020 shows Dust's ace and Small, not a whole-party celebration. Placement differs from depicted action.",
+      "source": "IMG010/014/020"
+    },
+    {
+      "id": "Q06",
+      "qualification": "The advance is explicitly received, later Dust says no money, then he explicitly spends the advance. No unprovided personal/party-account or timeline repair resolves this tension.",
+      "source": "U012:P0148/0207/0610"
+    },
+    {
+      "id": "Q07",
+      "qualification": "Small's own business purpose, refused recipient, unilateral wager, later land-motivated choice and next-day benign report remain distinct. Professional fantasy provision is not blanket personal assent.",
+      "source": "U012:P0216–0227/0594–0611/0617–0710/0805–0813"
+    },
+    {
+      "id": "Q08",
+      "qualification": "Keith's comforting dream is requested with offered payment and accepted only as an uncertain attempt. Delivery, payment and Keith's assent are not shown; later low spirits do not prove a particular dream occurred.",
+      "source": "U012:P0390–0394/0430–0440"
+    },
+    {
+      "id": "Q09",
+      "qualification": "The strange card game is not identified with an external franchise. Dust's earlier cheating accusations lack proof; Revi's later admission confirms his cheating, while exact markings remain Dust's inference.",
+      "source": "U012:P0550–0557/0649/0701–0714;U014:P0258–0264/0418"
+    },
+    {
+      "id": "Q10",
+      "qualification": "The return from the girls' outing contains only limited observation/report and an unexplained missing third man. No death, exact unseen episode or main-book backfill is invented.",
+      "source": "U012:P0563–0585"
+    },
+    {
+      "id": "Q11",
+      "qualification": "At the farm Dust initially withholds assistance, then audible context reveals previous destruction, reported compensation and a new funded arrangement. These do not establish prior permission or an unmotivated attack.",
+      "source": "U012:P0911–0945"
+    },
+    {
+      "id": "Q12",
+      "qualification": "The truth bell partly reacts to Dust's name without a completed clear ring. This does not identify an exact prior name or prove all surrounding claims false.",
+      "source": "U013:P0064–0091"
+    },
+    {
+      "id": "Q13",
+      "qualification": "Ragcraft's confession is real, but his theory of Zesta's discovery is false: Dust hears Zesta admit retaliation and playing along. Ragcraft does not hear it.",
+      "source": "U013:P0120–0158"
+    },
+    {
+      "id": "Q14",
+      "qualification": "Cell suppression and later corridor casting have different locations. Zesta's earlier antidote promise is still inadequate because it was made within the suppressed cell. No actual poisoning occurs.",
+      "source": "U013:P0215–0248/0332–0343"
+    },
+    {
+      "id": "Q15",
+      "qualification": "Actual protection causes a serious wound healed by Zesta. The strengthened golem defeats the sword method; the supplied spear, head weakness, protection context and concealment appraisal jointly explain victory.",
+      "source": "U013:P0403–0443"
+    },
+    {
+      "id": "Q16",
+      "qualification": "Dust's party searched repeatedly and was confined; his earlier fearful question about abandonment is not a settled fact. Regular-authority capture follows the actual flight of Zesta and Small.",
+      "source": "U013:P0465–0480;U014:P0147–0155"
+    },
+    {
+      "id": "Q17",
+      "qualification": "The royal threat to Small is actual. Later fictional embellishments by Dust and Small about Revi's conduct and losing stakes are lies, separately interrupted/queried by him. Leen's costly wager follows those lies.",
+      "source": "U014:P0060–0091/0187–0223/0318–0320"
+    },
+    {
+      "id": "Q18",
+      "qualification": "The important sword is retained during leisure loss, then actually risked for Small's freedom. Its value is knowingly checked; the exact giver remains unnamed. This is distinct from the spear restraint.",
+      "source": "U012:P0658/0765–0770;U013:P0320–0326;U014:P0123–0134"
+    },
+    {
+      "id": "Q19",
+      "qualification": "Revi accepts the exact reversal rule before play and later admits cheating. His release-regardless claim is only disclosed after Dust wins, so it cannot be backdated into the choice or erase credible danger.",
+      "source": "U014:P0339–0347/0395–0404/0418–0430"
+    },
+    {
+      "id": "Q20",
+      "qualification": "The party receives compensation for the explicitly failed surveillance commission. Dust's proposed multiplied repayment and upgraded lodging are not independently completed transactions; keep all ownership/accounting stages distinct.",
+      "source": "U012:P1075–1079;U015:P0007–0014"
+    },
+    {
+      "id": "Q21",
+      "qualification": "The epilogue's moon line and unfinished question do not certify an external literary allusion or completed romantic confession. Sickness, practical tending and gentle carrying are actual.",
+      "source": "U015:P0025–0042;IMG021"
+    },
+    {
+      "id": "Q22",
+      "qualification": "The actual afterword and contributor comments discuss dramatized voices; no audio was listened to. The writer's affection and forgiveness of Dust do not excuse conduct in the analysis.",
+      "source": "U016:P0004–0019;IMG022–023"
+    },
+    {
+      "id": "Q23",
+      "qualification": "The slime material derives from Yunyun's earlier Axis gift; current use of it in the trick does not establish her agreement to that later scheme. Actual provider agreements remain separately attributed.",
+      "source": "U011:P0380–0409"
+    }
+  ],
+  "same_root_precision_review_utc": "2026-10-18T07:27:41.429167+00:00"
+}

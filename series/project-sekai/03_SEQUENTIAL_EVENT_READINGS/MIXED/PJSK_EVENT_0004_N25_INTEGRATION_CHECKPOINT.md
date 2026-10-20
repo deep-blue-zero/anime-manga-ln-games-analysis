@@ -4,7 +4,7 @@ artifact_type: checkpoint
 scope: EVENT_0004_N25
 generation: V1
 status: canonical
-source_boundary: "EVENT_0004 走れ！体育祭！～実行委員は大忙し～ complete review envelope screened; N25-focused analysis uses core 0004:04-07, card 0127:01-02, supplementary Emu card 0124, and event-linked area 007-008; no later material integrated"
+source_boundary: "EVENT_0004 走れ！体育祭！～実行委員は大忙し～ original 26-story pass retained plus omitted linked area009 supplement; locked 27-story envelope complete by reuse and targeted addition; N25-focused analysis uses core 0004:04-07, card 0127:01-02, supplementary Emu card 0124, and linked area007-009; no later material integrated"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -15,6 +15,8 @@ release_impact: "I2 — Interpretive refinement"
 ---
 
 # Project SEKAI — EVENT_0004 N25 Integration Checkpoint
+
+**Current scope correction:** the existing 26-story pass plus the targeted area009 addition in §15 completes the locked 27-story envelope. Original N25 I2 remains unchanged; §15 qualifies earlier completeness language and contributes limited I1 evidence. This checkpoint remains historically scoped to EVENT_0004; later states retain their own authority.
 
 ## 1. Purpose and triage decision
 
@@ -33,7 +35,7 @@ The governing answer to “what is different after this event?” is therefore:
 
 That is an interpretive refinement, not a durable state transition.
 
-## 2. Complete review-envelope screening
+## 2. Original 26-story screening — scope corrected in §15
 
 The source pipeline routes EVENT_0004 as `event core → associated cards → linked/unlock-dependent area`.
 
@@ -60,9 +62,9 @@ Episodes 1–3 and most of 8 establish the Haruka/Emu/Saki event spine and are n
 
 `0127` is the decisive N25-associated card. `0124` provides supplementary Emu-side recollection of racing with Mafuyu. `0125`, `0126`, and `0128` do not materially alter the N25 model and are not mined for unrelated claims.
 
-### 2.3 Linked / unlock-dependent area — all review-group entries screened
+### 2.3 Original linked-area pass — eight entries; omitted ninth added in §15
 
-The EVENT_0004 review group contains:
+The original checkpoint treated the following eight areas as its review group:
 
 - `PJSK:area:areatalk_ev_shuffle_01_001:01`
 - `PJSK:area:areatalk_ev_shuffle_01_002:01`
@@ -75,7 +77,7 @@ The EVENT_0004 review group contains:
 
 Entries `_001–006` concern Haruka/Saki/Emu and provide no direct N25 state evidence. `_007–008` are Mafuyu–Emu conversations and are integrated below.
 
-`areatalk_ev_shuffle_01_009` exists elsewhere in the corpus and also contains Mafuyu–Emu material, but it is **not part of the EVENT_0004 review envelope**. It is therefore excluded from this checkpoint rather than being imported simply because it is topically convenient.
+**Superseded scope decision:** the original checkpoint excluded `areatalk_ev_shuffle_01_009` on the premise that it was outside this event envelope. Verification against the established source lock contradicts that premise: the locked review group and release/unlock metadata include it. Section15 corrects the omission and adds its bounded evidence; the original eight-area analysis remains preserved.
 
 ## 3. N25-relevant core: the public mask meets an unusual observer
 
@@ -382,3 +384,37 @@ The next release envelope with direct N25 relevance is:
 Next operation:
 
 > screen EVENT_0007 core + associated cards + linked area → determine which N25 characters/relationships are materially affected → assign Tier A–E and I0–I3 → select full deep reading versus focused checkpoint → update only affected ledgers → advance the N25 analysis-current boundary if fully integrated.
+
+
+## 15. Locked-envelope correction — area009 ordinary conversation
+
+### 15.1 Provenance, reading responsibility and chronology
+
+The retained original pass comprises eight core chapters, ten card halves0124–0128, and eight linked areas: 26 stories / 52 scenes / 1,423 records. The frozen review group additionally includes `PJSK:area:areatalk_ev_shuffle_01_009:01`. Its verified canonical SHA256 is `f4b0fa46f36f18ed809cf719dc6261116ac69b70086b15c96d22f54c590df681`. The group SHA256 `eef5d80de58ce7034ddd462e4fa461ad804fc6b25a6f2c96dc7db8dd759facde` matches the locked checksum authority. Release metadata links the area by condition100308 / target1000032 / event4; publication timestamp and release bucket are null. Association does not establish a total depicted order against the cards.
+
+All ten ordered records in the omitted scene have now been read. Together with the reusable prior pass, coverage is **27 stories / 53 scenes / 1,433 records**. All 27 canonical hashes were reverified; this is a targeted supplement, not a claimed second full-envelope reading. The [routing ledger](../../01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md) preserves the complete hash inventory and remaining unit responsibilities.
+
+### 15.2 Reported work, private intention and uncertain efficacy
+
+Mafuyu already knows the generic amusement-park cast role, as her opening question shows. Emu confirms and supplies **WonderStage**, the given names **Tsukasa, Nene and Rui**, mascots as further companions, and their stated purpose of making everyone smile. This is limited reported workplace information, not a first acquaintance with those absent people, their full identities/biographies, a formal troupe-name disclosure, or SEKAI knowledge (`PJSK:area:areatalk_ev_shuffle_01_009:01:001:0002–0003`).
+
+Emu privately recalls Mafuyu's sometimes incongruent smile and resolves to make her smile properly today. Her playful greeting produces a request for explanation; she privately fears immediate failure, then hesitantly explains it is a greeting. Mafuyu laughs and calls it cute; Emu answers with an awkward laugh. The remedial plan and failure appraisal stay private. Mafuyu hears the greeting and explanation, not Emu's assessment of her affect (`PJSK:area:areatalk_ev_shuffle_01_009:01:001:0004–0010`).
+
+The response supplies ordinary conversational behavior, but this source does not establish that the laugh is spontaneous affect rather than socially effective response. Nor does Emu certify success. Initial confusion does not prove the whole exchange failed; the later positive response does not prove recovery. Sensitivity, intention, communicative efficacy and knowledge of another person's feelings remain distinct. This local uncertainty preserves the original stronger post-race findings while preventing a universal claim that Emu can reliably make Mafuyu genuinely smile.
+
+### 15.3 Selective integration and preserved historical states
+
+**Overall N25 impact remains I2; the omitted area's incremental contribution is I1.** Preserve `MF-E0002-01` as the EVENT_0004 human default, and preserve all later defaults at their respective cutoffs. No new Kanade/Ena/Mizuki state evidence appears. Emu's founded EVENT_0004 comparison belongs to the ordered WxS lane after its EVENT_0003 interpretation closes; this supplement does not anticipate that judgment.
+
+The existing `REL-CROSS-MAFUYU-EMU-E0004` receives ordinary contact and uneven intention/knowledge evidence, without a duplicate dyad or new attachment center. Existing `EPI-N25-MF-E0004` receives the exact limited work report; `EPI-CROSS-EMU-MF-E0004` preserves private purpose, uncertain efficacy and received response. `EPI-N25-G-E0004` is unchanged: no report of this conversation to Nightcord or the absent named performers is shown. EVENT_0004 claim records in §7.2 and motif `MO-N25-004` retain their bounded authority; no new claim/theme ID is required.
+
+The preceding sections remain the historical 26-story analysis, now explicitly scope-corrected. No later event supplies evidence for this addition. Other-unit interpretation remains pending where material; this N25 supplement does not complete the mixed event's founded unit analysis or mature reconstruction work.
+
+
+## 16. Founded cross-unit reconciliation and spoken appraisal precision
+
+The original analytical sections and area009 correction remain intact. The companion [MMJ reading](../MMJ/PJSK_EVENT_0004_MMJ_INTEGRATION_CHECKPOINT.md), [WxS reading](../WXS/PJSK_EVENT_0004_WXS_INTEGRATION_CHECKPOINT.md) and [Leo/need–VBS reading](PJSK_EVENT_0004_LN_VBS_INTEGRATION_CHECKPOINT.md) now complete the other founded unit comparisons. They retain N25's original overall I2 and area009's bounded I1.
+
+At `PJSK:card:0127:01:001:0041–0046`, Emu's real-looking-smile appraisal is spoken, Mafuyu asks what it means, and Emu retreats. At `PJSK:card:0127:01:001:0055–0066`, Emu directly voices a smile judgment and enjoyment of their race while admitting she does not know the expression's cause. Mafuyu receives these judgments, not certified affect recovery. Her earlier receipt of classmates' committee-proposal report is separately explicit (`PJSK:card:0127:01:001:0005–0014`).
+
+The Nightcord account describes the unusual junior and novelty of her reactions; Mafuyu's good-girl hypothesis remains private, and the spoken smile judgments are not relayed (`PJSK:card:0127:02:001:0037–0059`). Area007's inward sincerity appraisal and area009's remedial plan/failure fear remain private at their own locations. Existing `EPI-N25-MF-E0004`, `EPI-CROSS-EMU-MF-E0004` and `REL-CROSS-MAFUYU-EMU-E0004` carry the reconciled precision, without new human successors or competing dyads. Honami's separate private admiration inference does not give her this knowledge.

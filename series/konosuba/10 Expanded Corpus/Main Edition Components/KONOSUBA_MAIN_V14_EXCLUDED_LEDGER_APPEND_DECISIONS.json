@@ -1,0 +1,166 @@
+{
+  "schema": "KONOSUBA_MAIN14_EXCLUDED_TEN_LEDGER_APPEND_DECISIONS_V1",
+  "source_id": "MAIN-14",
+  "ten_current_prefix_controls": [
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "bytes": 311437,
+      "sha256": "61b6070052074ff06fd2b2476b26d2aebd51ea1236de49849f2ed5e3fdd41d11"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "bytes": 229457,
+      "sha256": "3744156caad193cd915e1af24f9946a2b68edac536acd49cdb48023553c7279e"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "bytes": 800005,
+      "sha256": "d603dc637dae81e5d551cf785c869fa7575e28af37bb924fa205704ab19764b5"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "bytes": 611690,
+      "sha256": "2724750e5e6699099e40996e871b0774e2727537a86945e11e666221071dd360"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "bytes": 207316,
+      "sha256": "65ba38275de07289963290d25a658af0ba281e39727f5b9f498c398074683149"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "bytes": 199920,
+      "sha256": "82e31ec1bf3ca96e264c16c53f29b327855184bb039385b2d6560cd2f0303019"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "bytes": 225319,
+      "sha256": "165ae90bca4c9867d6c0ddc63f61122d5d0d20bba5725600527bd5a28f72bb00"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "bytes": 188227,
+      "sha256": "94820d930d305e1da23cfca1997761c7d20bc70bec328a27d4e5720da439f893"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "bytes": 278902,
+      "sha256": "13a02a1e231db7f79b60821d3d0c11cf4563d14df0bed7ae16e3f9cb69c039dc"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "bytes": 145029,
+      "sha256": "ec4567f31cfa643e19484e7e55f914d6ccfeb06349fd46ee394fa6040fe403fa"
+    }
+  ],
+  "rows": [
+    {
+      "id": "M14EX-LD01",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Megumin/Darkness/Yunyun/Komekko and the named humanoid seedling in new bonus; retained Nerimaki/Aigis/Mitsurugi/Serena-Celesdina/Wiz/Vanir/Dust/Bukkorori/Soketto/Funifura/Dodonko/Yuiyui/unnamed current chief and guild staff retain separate access/agency; Luna not identified by unlabelled art; creator/promotion separate",
+      "native_routes": "MAIN14U023P1-57",
+      "observation": "Yunyun makes real environmental/care/adoption/succession declarations; Megumin requests fertilizer help, Aqua supplies water, Darkness protects, Kazuma threatens disposal, and the child voices food interest.",
+      "implication": "Keep actor-specific choices and actual versus future completion; no no-Y-choice shorthand or permanent trait from this one scene.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M14EX-LD02",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Megumin/Darkness/Yunyun/Komekko and the named humanoid seedling in new bonus; retained Nerimaki/Aigis/Mitsurugi/Serena-Celesdina/Wiz/Vanir/Dust/Bukkorori/Soketto/Funifura/Dodonko/Yuiyui/unnamed current chief and guild staff retain separate access/agency; Luna not identified by unlabelled art; creator/promotion separate",
+      "native_routes": "MAIN14U023P10-25/55-57;C1P149",
+      "observation": "The seedling actually grips, speaks coarsely, giggles, tongue-clicks and reacts in fear; private motives and universal innate evil remain inferred.",
+      "implication": "Treat a bounded nonhuman dependent as an agent with observable responses, not a blank prop or a settled species model.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M14EX-LD03",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Megumin/Darkness/Yunyun/Komekko and the named humanoid seedling in new bonus; retained Nerimaki/Aigis/Mitsurugi/Serena-Celesdina/Wiz/Vanir/Dust/Bukkorori/Soketto/Funifura/Dodonko/Yuiyui/unnamed current chief and guild staff retain separate access/agency; Luna not identified by unlabelled art; creator/promotion separate",
+      "native_routes": "MAIN14U023P15-49",
+      "observation": "Darkness interrupts burning before Kazuma explains private speech; Aqua's sympathy and group concern do not make his true hearing false.",
+      "implication": "Separate practical attachment, information routes, intervention, mistaken disbelief and a narrator's reputational grievance.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M14EX-LD04",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Megumin/Darkness/Yunyun/Komekko and the named humanoid seedling in new bonus; retained Nerimaki/Aigis/Mitsurugi/Serena-Celesdina/Wiz/Vanir/Dust/Bukkorori/Soketto/Funifura/Dodonko/Yuiyui/unnamed current chief and guild staff retain separate access/agency; Luna not identified by unlabelled art; creator/promotion separate",
+      "native_routes": "M14EX-H01-H17",
+      "observation": "Seventeen purposeful whole-effect selections retain14H1 literal effects,1H2 amplified narrator coda and2H4 contributor/promotion stagings.",
+      "implication": "No claim of a humor census; fantasy rudeness/harm remains literal, while explicitly imagined/staged scenes do not establish canonical actions.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M14EX-LD05",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Megumin/Darkness/Yunyun/Komekko and the named humanoid seedling in new bonus; retained Nerimaki/Aigis/Mitsurugi/Serena-Celesdina/Wiz/Vanir/Dust/Bukkorori/Soketto/Funifura/Dodonko/Yuiyui/unnamed current chief and guild staff retain separate access/agency; Luna not identified by unlabelled art; creator/promotion separate",
+      "native_routes": "MAIN14U023P1-57",
+      "observation": "Repeated innocence displays and the child's food appraisal reverse who controls the exchange; no fixed boke/tsukkomi role follows.",
+      "implication": "The local information/expectation reversal can be explained without treating all acts as consequence-free comic license.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M14EX-LD06",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Megumin/Darkness/Yunyun/Komekko and the named humanoid seedling in new bonus; retained Nerimaki/Aigis/Mitsurugi/Serena-Celesdina/Wiz/Vanir/Dust/Bukkorori/Soketto/Funifura/Dodonko/Yuiyui/unnamed current chief and guild staff retain separate access/agency; Luna not identified by unlabelled art; creator/promotion separate",
+      "native_routes": "M14EX-V01-V41",
+      "observation": "Forty-one exact short written fragments31bonus/10afterword track distinct addressees and functions; P35/P39 remain untagged.",
+      "implication": "Katakana rudeness, questions, formal endings and shyness do not independently prove L3, pressure purpose or speaker identity; no acoustic/frequency claim.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M14EX-LD07",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Megumin/Darkness/Yunyun/Komekko and the named humanoid seedling in new bonus; retained Nerimaki/Aigis/Mitsurugi/Serena-Celesdina/Wiz/Vanir/Dust/Bukkorori/Soketto/Funifura/Dodonko/Yuiyui/unnamed current chief and guild staff retain separate access/agency; Luna not identified by unlabelled art; creator/promotion separate",
+      "native_routes": "MAIN14U023P19-33/43-57",
+      "observation": "Kazuma truly hears the plant privately, admits his own harmful disposal attempt and overextends from rudeness to innate evil and child cruelty.",
+      "implication": "Retain his accurate access and biased generalization together; no universal-unreliable-narrator or automatic K07 match.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M14EX-LD08",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Megumin/Darkness/Yunyun/Komekko and the named humanoid seedling in new bonus; retained Nerimaki/Aigis/Mitsurugi/Serena-Celesdina/Wiz/Vanir/Dust/Bukkorori/Soketto/Funifura/Dodonko/Yuiyui/unnamed current chief and guild staff retain separate access/agency; Luna not identified by unlabelled art; creator/promotion separate",
+      "native_routes": "MAIN14U023P6/13-18/27/36/42/55;C4P624-631",
+      "observation": "Watering, leftover fertilizer, safe-site inquiry and child food interest organize the bonus; the later garden planting is an attributed principal report.",
+      "implication": "Everyday care is substantive behavior; proposed adoption/name/office, safe habitat and eating remain uncompleted/unverified.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M14EX-LD09",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Megumin/Darkness/Yunyun/Komekko and the named humanoid seedling in new bonus; retained Nerimaki/Aigis/Mitsurugi/Serena-Celesdina/Wiz/Vanir/Dust/Bukkorori/Soketto/Funifura/Dodonko/Yuiyui/unnamed current chief and guild staff retain separate access/agency; Luna not identified by unlabelled art; creator/promotion separate",
+      "native_routes": "MAIN14U023P6-9/14/19/25/27-33/42",
+      "observation": "Aqua actually provides a fitted care input; Darkness reports a practical inquiry. Their competence coexists with mistaken goodness/biology claims; Kazuma's hearing is independently true.",
+      "implication": "Credit actual local provision and identify epistemic errors without granting healing, omniscience, survival guarantees or a full transplant.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M14EX-LD10",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Megumin/Darkness/Yunyun/Komekko and the named humanoid seedling in new bonus; retained Nerimaki/Aigis/Mitsurugi/Serena-Celesdina/Wiz/Vanir/Dust/Bukkorori/Soketto/Funifura/Dodonko/Yuiyui/unnamed current chief and guild staff retain separate access/agency; Luna not identified by unlabelled art; creator/promotion separate",
+      "native_routes": "MAIN14U023P27-30/51-57;authorP10-12",
+      "observation": "Kazuma's explicit burn threat is stopped; the adult/child monster gags retain real threatened harm and protection.",
+      "implication": "Author light-tone framing and later survival do not erase the threat; no completed injury/eating or clinical diagnosis is invented.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M14EX-LD11",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Megumin/Darkness/Yunyun/Komekko and the named humanoid seedling in new bonus; retained Nerimaki/Aigis/Mitsurugi/Serena-Celesdina/Wiz/Vanir/Dust/Bukkorori/Soketto/Funifura/Dodonko/Yuiyui/unnamed current chief and guild staff retain separate access/agency; Luna not identified by unlabelled art; creator/promotion separate",
+      "native_routes": "MAIN14U023P19-49",
+      "observation": "Different actual accounts underlie the disagreement: Kazuma's real private observation, Darkness's young-seedling analogy, Aqua's fatigue interpretation and the group's untagged concern.",
+      "implication": "An understandable inference can be wrong; avoid sharing private information by default or accepting the narrator's global moral conclusion as fact.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M14EX-LD12",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "subjects": "Kazuma/Aqua/Megumin/Darkness/Yunyun/Komekko and the named humanoid seedling in new bonus; retained Nerimaki/Aigis/Mitsurugi/Serena-Celesdina/Wiz/Vanir/Dust/Bukkorori/Soketto/Funifura/Dodonko/Yuiyui/unnamed current chief and guild staff retain separate access/agency; Luna not identified by unlabelled art; creator/promotion separate",
+      "native_routes": "M14EX-AS-R1-K01–R1-E08;SI-D01–07;SY-D01–07",
+      "observation": "Five narrow informed compatibilities,2partials and32NT compare all39fixed main/party predicates;4typed diagnostics and14secondary unscored rows preserve old outcomes/nulls.",
+      "implication": "No blind validation, score or confidence update. Real new Yunyun choices coexist with unresolved full SY guards; use current source as derivation/limit evidence and keep future cases distinct.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    }
+  ]
+}

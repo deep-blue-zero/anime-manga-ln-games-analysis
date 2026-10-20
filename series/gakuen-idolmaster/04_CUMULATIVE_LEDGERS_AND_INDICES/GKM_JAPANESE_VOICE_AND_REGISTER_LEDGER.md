@@ -5,7 +5,7 @@ document_type: "persistent ledger"
 version: "2.5"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-08-22 — Rinami R2 register refinement promoted; 13/13 character baselines complete"
+last_updated: "2026-09-11 — RINHA-AV-20260911 bounded evidence integrated; perceptual review open"
 status: "active; cumulative through complete Phase-3 character audiovisual integration (13/13)"
 ---
 
@@ -590,6 +590,13 @@ Prosody remains AV-gated per the verification queue.
 - **Sumika:** casual teasing can carry pedagogy even upward to Tsubame; permission/interest often arrives through relaxed colloquial framing rather than solemn validation.
 - **Mao:** senior/prince poise remains permeable to embarrassment around childish taste or appearance play; the switch is repertoire, not exposure of a fake self.
 - **Rinami:** same-year intimacy with Mao uses soft interpretation and direct emotional agreement; unit-analysis speech is practical enough to separate interpersonal liking from functional communication.
-- **Kaya Rinha (Phase-6 routing):** direct H.I.F. material combines playful provocation, clipped competitive banter with Temari/Misuzu, and softer private seriousness when asking Ume's song to dispel lingering worry. Exact performance calibration remains P0 AV material.
+- **Kaya Rinha (Phase-6 routing):** direct H.I.F. material combines playful provocation, clipped competitive banter with Temari/Misuzu, and a direct private request for Ume's song to dispel lingering worry. Softness is a performance hypothesis; exact audible calibration remains P0 AV material.
 
 Phase 5 is textually complete; performance-sensitive strength remains separately governed by the AV queue.
+
+<!-- RINHA_AV_20260911 -->
+## Kaya Rinha — exact-speaker and performance boundary revision
+
+The [RINHA-AV-20260911 audit](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_SOURCE_MANIFEST_AND_AUDIT.md) verifies 620 logical Rinha messages in 43 direct objects. `私` 91, `あたし` 0, `あなた` 68, `じゃない` 48, `でしょ` 40, `なさい` 22, `くれる？` 14 and `お姉ちゃん` 33 are unchanged. Full-width `～` is 49; the earlier 63 included fourteen marks from `燐羽様ファン`.
+
+Support0097 part03 has a direct unresolved-worry request and ends with Ume’s acceptance, without a later Rinha deflection. Saki026 sustains disclosure and ends supportively; Saki034 follows a friendship admission with play. These are alternative textual ending patterns. “Softer” describes no newly heard delivery in this pass. The 18 scenes have actor-attributed still records and selected-mix metrics, with zero direct listening and zero continuous-motion review. C073’s performed-register gate stays open.

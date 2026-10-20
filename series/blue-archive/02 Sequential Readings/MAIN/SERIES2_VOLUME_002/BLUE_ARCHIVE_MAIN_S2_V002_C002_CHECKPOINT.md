@@ -1,0 +1,62 @@
+---
+series: BLUE_ARCHIVE
+artifact_type: checkpoint
+scope: MAIN_S2_V002_C002
+generation: V1
+status: canonical
+source_boundary: Canonical Japanese main story BA:main:series2:002:002:001 through BA:main:series2:002:002:021 at electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; 43 newly inserted V001 C003 units pending separate backfill; side-source classes not admitted
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+created: 2026-09-28
+updated: 2026-09-28
+---
+
+# BLUE ARCHIVE — PART 2 / S2 V002 C002 CHECKPOINT
+## Coercive unity, a risky reversal, accountable freedom, and a surviving Emperor legacy
+
+## 0. Authority and chapter result
+
+This checkpoint reconciles all **twenty-one sequential readings** `BA:main:series2:002:002:001`–`021` at audited `electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8`. It inherits the [S2 V002 C001 checkpoint](BLUE_ARCHIVE_MAIN_S2_V002_C001_CHECKPOINT.md) and [source reconciliation](../../../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_RECONCILIATION_20260928.md). Completed coverage is **423 / 480** canonical main units. The 43 newly inserted V001 C003 units still await separate earlier-order backfill, so this is not a contiguous 480-unit prefix. Group, event, bond, MomoTalk, profile, performed voice, adaptation and wiki sources remain outside the admitted boundary. The next forward row is `BA:main:series2:003:001:001` / `MAIN_S2_V003_C001_E001`. The internal S2 volume index is not an official display number.
+
+The chapter confirms Shoko's **organizer-level admission** of a mind-control campaign for Thunder Emperor restoration. The coalition actually begins a counterbroadcast, local students and leaders suffer acute pain, and then several speakers visibly recover and reject the war. Narration calls the NK Ultra incident ended. This supports a local outcome, not a fully characterized technical cure, campus-wide health audit or proof that Shoko's claimed death trigger operated. Makoto withdraws the battle plan and promises restitution, but the chapter does not show all ammunition returned, disciplinary decisions, disarmament or a completed injury review. Shoko later directly names **Arashi** as the organization that found, educated and assigned her; the group has no independently inspected structure here. Makoto's qualified thought about Ibuki as a surviving legacy has no explained mechanism. The chapter explicitly continues in Chapter 3.
+
+## 1. Ordered synthesis
+
+### E001-E005: theory, harm and internal dissent
+
+Satsuki gives retrospective testimony about original NK Ultra research under the Thunder Emperor and a possible frequency-based explanation, without recovering old files or testing a present signal. Chinatsu and Sena face a split between medical care and Sena's altered rhetoric of attack as treatment. The Gehenna Restoration Committee also splits: Mayumi/Karen question conquest, whereas Shoko presses the ideology; a previously encountered Pandemonium third-year shows changed alignment without proving a general grade rule. The war declaration acquires a concrete coercive cost when a student surrenders ammunition under threat and points are used as exchange, even though an external attack is not shown. Iroha tells Makoto she is quitting Pandemonium; a formal personnel record is absent. [E001](BLUE_ARCHIVE_MAIN_S2_V002_C002_E001_DEEP_READING.md), [E002](BLUE_ARCHIVE_MAIN_S2_V002_C002_E002_DEEP_READING.md), [E003](BLUE_ARCHIVE_MAIN_S2_V002_C002_E003_DEEP_READING.md), [E004](BLUE_ARCHIVE_MAIN_S2_V002_C002_E004_DEEP_READING.md), [E005](BLUE_ARCHIVE_MAIN_S2_V002_C002_E005_DEEP_READING.md).
+
+### E006-E010: competing freedom and an untested resistance plan
+
+The war apparatus redirects Hot Spring Club toward warehouses; Kasumi recognizes familiar control efforts while Meg's Gehenna-service wish is hard to separate from coercion. Mayumi/Karen tell Sensei their earlier `great Gehenna` ideal has become something they do not understand or endorse. Chiaki's questioning of Makoto exposes a unity program unable to describe an end state beyond order. Satsuki supplies archive-custody testimony and an external-actor theory, but her proposed experiment is not performed. Sensei, Iori, Chinatsu, Iroha, Mayumi, Karen, Chiaki and Satsuki assemble a coalition. Satsuki offers a conditional interference-frequency hypothesis and Chiaki points to broadcast-room equipment as a possible trace; no frequency or device is yet measured. [E006](BLUE_ARCHIVE_MAIN_S2_V002_C002_E006_DEEP_READING.md), [E007](BLUE_ARCHIVE_MAIN_S2_V002_C002_E007_DEEP_READING.md), [E008](BLUE_ARCHIVE_MAIN_S2_V002_C002_E008_DEEP_READING.md), [E009](BLUE_ARCHIVE_MAIN_S2_V002_C002_E009_DEEP_READING.md), [E010](BLUE_ARCHIVE_MAIN_S2_V002_C002_E010_DEEP_READING.md).
+
+### E011-E015: personal lines, Sensei's confinement and an urgent threat
+
+Ibuki chooses to stay beside an increasingly lonely Makoto while Iroha conditions her return on his recovery. An unidentified log-like memory passage accompanies Makoto's pain, not an audited Emperor-era record. A guarded broadcast building prompts an evidence inference but no inspection. Hina asks Sensei to support war and proposes protective custody; the next episode shows him actually isolated in a cell, with Shoko admitting she recommended it. The coalition divides work across rescue, Prefect diversion, transmitter, broadcast and logistics. Fuuka refuses an impossible three-day whole-school ration demand and plans to slow supply. Makoto reacts by proposing a remembered Emperor chemical strategic weapon; no shell, production line or test appears. Satsuki reports a remote control path that complicates the broadcast-room plan, Erika proposes an untested bypass, and the group moves early because of the weapon report. [E011](BLUE_ARCHIVE_MAIN_S2_V002_C002_E011_DEEP_READING.md), [E012](BLUE_ARCHIVE_MAIN_S2_V002_C002_E012_DEEP_READING.md), [E013](BLUE_ARCHIVE_MAIN_S2_V002_C002_E013_DEEP_READING.md), [E014](BLUE_ARCHIVE_MAIN_S2_V002_C002_E014_DEEP_READING.md), [E015](BLUE_ARCHIVE_MAIN_S2_V002_C002_E015_DEEP_READING.md).
+
+### E016-E018: rescue, confession and local recovery
+
+Hot Spring Club actually tunnels into Sensei's cell; junior Prefects divert opposing guards while Iroha's plan assigns technical, protective and escort roles. Iroha expressly names frequency mismatch, failed transmission and faulty theory as independent failure modes. Sensei reaches a direct Hina confrontation. Iori/Chinatsu recall the protective boundary Hina taught them; Ako sees outside war as relief for Hina's burden. Shoko reveals her Thunder Emperor allegiance and, when challenged, says **yes** to Mayumi's accusation that she masterminded the mind control. Her admission establishes organizer responsibility and motive, not physical installation, code authorship or every collaborator. Satsuki's group starts counterbroadcasting; third-year speakers and leaders suffer. Shoko claims forced reversal will destroy affected minds, but later Makoto, Hina and other local students visibly reconsider and reject war. Iroha's personal appeal and Makoto's own anti-puppet speech occur alongside the signal; the episode cannot isolate which factor caused each recovery. Shoko admits gradual steering of Mayumi/Karen as a distinct interpersonal act. Narration closes the NK Ultra incident while leaving other work. [E016](BLUE_ARCHIVE_MAIN_S2_V002_C002_E016_DEEP_READING.md), [E017](BLUE_ARCHIVE_MAIN_S2_V002_C002_E017_DEEP_READING.md), [E018](BLUE_ARCHIVE_MAIN_S2_V002_C002_E018_DEEP_READING.md).
+
+### E019-E021: apologies, repair and the next unresolved legacy
+
+Students remember a former war compulsion now gone but ask about unreturned ammunition and show sound anxiety. Hina publicly apologizes without using brainwashing as an excuse and tries to surrender authority; Makoto accepts chair responsibility, refuses her departure, withdraws the battle plan and promises property return. Mayumi/Karen redefine restoration as continuing future repair. Hina and the Prefect juniors acknowledge their rupture, and Ako names reconstruction, discipline and missing equipment as tasks. Makoto frames freedom as shared ongoing choice, while his felt supporting presence and Satsuki's explanation of two years' freedom are untested mechanism interpretations. Haruna/Akari apologize for coerced food control; Fuuka/Izumi voice boundaries. Sena rejects war-as-medicine and proposes a joint inspection, not yet conducted. Kasumi asks Meg to choose her club life rather than obey the leader automatically, then privately suspects Bodensatz without evidence linking that name to the coercion. Hina privately tells Sensei she felt some pleasure justifying violence and resolves to keep working toward the ethical line. Confined Shoko refuses to recant but discloses Arashi as her recruiter/educator/tasker; Hina/Makoto recognize an Emperor legacy group. Hina says internal artifacts have been removed without listing them, and Makoto privately names Ibuki as a possible true legacy without explaining why. [E019](BLUE_ARCHIVE_MAIN_S2_V002_C002_E019_DEEP_READING.md), [E020](BLUE_ARCHIVE_MAIN_S2_V002_C002_E020_DEEP_READING.md), [E021](BLUE_ARCHIVE_MAIN_S2_V002_C002_E021_DEEP_READING.md).
+
+## 2. Reconciled claims and boundaries
+
+| Thread | Supported state | Unresolved boundary |
+|---|---|---|
+| War measures | An ammunition seizure under threat, supply demands, Sensei's confinement and armed resistance occur; Makoto publicly withdraws the plan. | Full command order, actual demobilization, confiscated-goods return, disciplinary allocation, injuries and cross-school effects. |
+| Strategic weapon | Makoto says he recalls an Emperor chemical design and Satsuki says she saw old materials with him. | Current design, manufacture, testing, deployment or an itemized disarmament record. |
+| NK Ultra organizer | Shoko accepts mastermind accusation and gives Emperor-revenge rationale; she later names Arashi as her recruiter, educator and tasker. | Independent organization file, personnel, command chain, equipment installation, exposure paths, signal origin and precise orders. |
+| Counterbroadcast and recovery | A counter-signal begins, pain is shown, and multiple local students/leaders afterward disavow war; narration closes the incident. | Frequency trace, isolated mechanism, complete affected population, aftereffects, mental-health assessment and Shoko's claimed failsafe design. |
+| Restitution and care | Leaders and clubs apologize; Makoto promises property return; Ako lists repair/discipline; Sena proposes joint review. | Actual returns, repair completion, inspection, sentence or victim consultation. |
+| Further legacy | Kasumi suspects Bodensatz; Shoko directly names Arashi; Hina/Makoto discuss Emperor preservation; Makoto considers Ibuki a possible legacy. | Any proved Bodensatz-Arashi identity, independent Arashi record, surviving artifact inventory, Ibuki mechanism or agency. |
+
+## 3. Attribution and readiness controls
+
+- Generic student, Prefect, Pandemonium and Hot Spring labels are episode-local unless the source links them. E003's unnamed third-year is linked to the prior chapter by explicit recognition; E019 student A is **not** automatically E018 student A or E004's ammunition owner. E020 Hot Spring A/B are not automatically V100 or E016 speakers.
+- `先生（心の声）` is answered in several scenes; do not impose an inaudible channel. Sensei choice alternatives are mutually exclusive. The log-like E011/E018 passages are not dated, independently verified memory records. Speaker tags drift in several episodes, including E018's technical explanatory line and E019/E020's self-addressing lines; fine voice claims use coherent local evidence.
+- Shoko's death-trigger and Makoto's strategic-weapon scale claims, Satsuki's technical theory, Kasumi's Bodensatz inference and Hina/Makoto's Arashi interpretation retain their different provenance. Shoko's confession, the observed counterbroadcast and observed local recovery are stronger direct evidence. E021's Arashi origin/tasking is Shoko's testimony, not an audited file.
+- The [character analytical coverage index](../../../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md) tracks **21 PARTIAL_MODEL / 241 UNMODELED across 262**. No standalone model, durable new claim ID, frozen analytical prediction, held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`) or side-source admission was warranted. V001 C003 backfill remains **DEFER** pending its ordered pass.

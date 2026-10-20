@@ -1,0 +1,101 @@
+[
+  {
+    "source_id": "M01_FLUORITE_OFFICIAL_MV",
+    "file_name": "初星学園 「Fluorite」Official Music Video (HATSUBOSHI GAKUEN - Fluorite)-(1080p24).mp4",
+    "source_form": "authored_official_mv",
+    "duration_seconds": 251.216689,
+    "integrated_lufs": -8.1,
+    "loudness_range_lu": 6.7,
+    "true_peak_dbfs": 0.9
+  },
+  {
+    "source_id": "M02_FLUORITE_3DMV",
+    "file_name": "4K HDR「Fluorite」 (有村麻央 ソロ SSR)【学マス⧸学園アイドルマスタ⧸Gakuen Idolm@ster MV】-(1080p60).mp4",
+    "source_form": "rendered_3dmv",
+    "duration_seconds": 164.490159,
+    "integrated_lufs": -14.4,
+    "loudness_range_lu": 10.4,
+    "true_peak_dbfs": -0.3
+  },
+  {
+    "source_id": "M03_FEEL_JEWEL_DREAM_FULL_MIX",
+    "file_name": "Feel Jewel Dream-(1080p25).mp4",
+    "source_form": "static_full_mix",
+    "duration_seconds": 202.767007,
+    "integrated_lufs": -10.3,
+    "loudness_range_lu": 6.9,
+    "true_peak_dbfs": -2.1
+  },
+  {
+    "source_id": "M04_FEEL_JEWEL_DREAM_3DMV",
+    "file_name": "4K HDR「Feel Jewel Dream」(歌：有村麻央 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+    "source_form": "rendered_3dmv",
+    "duration_seconds": 195.326259,
+    "integrated_lufs": -13.3,
+    "loudness_range_lu": 11.1,
+    "true_peak_dbfs": -0.2
+  },
+  {
+    "source_id": "M05_CAMPUS_MODE_3DMV",
+    "file_name": "4K HDR「Campus mode!!」(有村麻央 フェスSSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+    "source_form": "rendered_3dmv",
+    "duration_seconds": 160.101587,
+    "integrated_lufs": -12.4,
+    "loudness_range_lu": 3.1,
+    "true_peak_dbfs": -0.1
+  },
+  {
+    "source_id": "M06_CAMPUS_MODE_STATIC_FULL_MIX",
+    "file_name": "[学マス] 『Campus mode!!』 有村 麻央ver [親愛度10]-(1080p30).mp4",
+    "source_form": "static_full_mix",
+    "duration_seconds": 162.795102,
+    "integrated_lufs": -8.3,
+    "loudness_range_lu": 3.6,
+    "true_peak_dbfs": 0.9
+  },
+  {
+    "source_id": "M07_SUGAR_FLAVOR_OFFICIAL_MV",
+    "file_name": "初星学園 「SUGAR FLAVOR」Official Music Video (HATSUBOSHI GAKUEN - SUGAR FLAVOR)-(1080p24).mp4",
+    "source_form": "authored_official_mv",
+    "duration_seconds": 188.104853,
+    "integrated_lufs": -10.3,
+    "loudness_range_lu": 4.1,
+    "true_peak_dbfs": 0.1
+  },
+  {
+    "source_id": "M08_SUGAR_FLAVOR_3DMV",
+    "file_name": "4K HDR「SUGAR FLAVOR」(姫崎莉波・有村麻央 SSR)【学マス⧸学園アイドルマスタ⧸学園偶像大師⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+    "source_form": "rendered_3dmv",
+    "duration_seconds": 138.646349,
+    "integrated_lufs": -12.7,
+    "loudness_range_lu": 5.6,
+    "true_peak_dbfs": -0.1
+  },
+  {
+    "source_id": "M09_GARAKUTA_ROAD_3DMV",
+    "file_name": "4K HDR (有村麻央 SSR2) 「ガラクタロード」Aエンディング【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+    "source_form": "rendered_3dmv",
+    "duration_seconds": 88.421587,
+    "integrated_lufs": -12.5,
+    "loudness_range_lu": 3.8,
+    "true_peak_dbfs": -0.1
+  },
+  {
+    "source_id": "M10_MITE_OFFICIAL_MV",
+    "file_name": "初星学園 「見て」Official Music Video (HATSUBOSHI GAKUEN - Face Me )-(816p24).mp4",
+    "source_form": "authored_official_mv",
+    "duration_seconds": 305.435283,
+    "integrated_lufs": -18.2,
+    "loudness_range_lu": 5.1,
+    "true_peak_dbfs": -3.6
+  },
+  {
+    "source_id": "M11_MITE_3DMV",
+    "file_name": "4K HDR「見て」(有村麻央 STEP3 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+    "source_form": "rendered_3dmv",
+    "duration_seconds": 170.922086,
+    "integrated_lufs": -11.4,
+    "loudness_range_lu": 3.9,
+    "true_peak_dbfs": -0.1
+  }
+]

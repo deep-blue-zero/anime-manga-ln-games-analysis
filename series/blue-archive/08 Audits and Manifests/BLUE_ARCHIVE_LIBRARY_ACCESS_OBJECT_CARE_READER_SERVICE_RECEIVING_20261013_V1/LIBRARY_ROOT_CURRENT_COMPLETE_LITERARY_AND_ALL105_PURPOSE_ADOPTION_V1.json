@@ -1,0 +1,1100 @@
+{
+  "schema": "ROOT_LIBRARY_CURRENT221_LITERAL52_NEW105_SOURCE11_WRITTEN_INSTITUTION_AND_SUBSTANTIAL_DIRECTED_SECTION_SEMANTIC_ADOPTION_V1",
+  "saved_actual_UTC": "2026-10-13T23:39:31.605573+00:00",
+  "ROOT_decision": "ADOPT_COMPLETE_WRITTEN_INSTITUTION_AND_EXISTING_UI_SHIMIKO_SUBSTANTIAL_DIRECTED_NAMED_ARGUMENT_WITH_LIMITS;CURRENT_PUBLIC_COMPOSITION_ACTUAL_INSTALLATION_PUBLICATION_AND_MAIN_INTEGRATION_SEPARATE",
+  "existing_required_home": "P3-INST-LIBRARY-ACCESS-OBJECT-CARE-READER-SERVICE",
+  "existing_named_duty": "P3-REL-UI-SHIMIKO-READING-CRAFT-REST",
+  "no_additional_required_relationship_package": true,
+  "reviewed_current14_manifest": {
+    "path": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-000",
+    "bytes": 20911,
+    "sha256": "7ca980b1cc8ff890482c40f233e01c54d3375233eff47b507d6d2bb62568e329",
+    "git_blob_oid_of_actual_bytes": "1d2f9fe51dcf54a0b712b517c1d85ada12d4e303"
+  },
+  "reviewed_current14_components": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_AND_READER_SERVICE_INSTITUTIONAL_SYNTHESIS.md",
+      "before": {
+        "bytes": 42014,
+        "sha256": "48587c4ce60f0c215f47d6a9753c2252bff0c52ffc9e89f6d37e71da21d1b9c7",
+        "git_blob_oid_of_actual_bytes": "bc5ad7d907391fec1da2b2452f3b269caae56373"
+      },
+      "current": {
+        "bytes": 42014,
+        "sha256": "48587c4ce60f0c215f47d6a9753c2252bff0c52ffc9e89f6d37e71da21d1b9c7",
+        "git_blob_oid_of_actual_bytes": "bc5ad7d907391fec1da2b2452f3b269caae56373"
+      },
+      "C_candidate_relative": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-001",
+      "private_beforeimage_relative_C_path": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-002",
+      "raw_unchanged": true,
+      "executed_complete_raw_inverse_equal_original": true
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP000_LP035_V1.json",
+      "before": {
+        "bytes": 404842,
+        "sha256": "5d91ab885752d130f83c46077b5cd0ea1bcfdfed1e71bf317ad525d8fe86e980",
+        "git_blob_oid_of_actual_bytes": "60333997872e210070c981862f47227a6dc0cfdd"
+      },
+      "current": {
+        "bytes": 404842,
+        "sha256": "5d91ab885752d130f83c46077b5cd0ea1bcfdfed1e71bf317ad525d8fe86e980",
+        "git_blob_oid_of_actual_bytes": "60333997872e210070c981862f47227a6dc0cfdd"
+      },
+      "C_candidate_relative": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-003",
+      "private_beforeimage_relative_C_path": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-004",
+      "raw_unchanged": true,
+      "executed_complete_raw_inverse_equal_original": true
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP036_LP070_V1.json",
+      "before": {
+        "bytes": 539685,
+        "sha256": "727f5ef277f15798f7348f3bff1ab17ec5c13880fe5dd54ad1f3a4f2b1c90528",
+        "git_blob_oid_of_actual_bytes": "1ec2acf83c536efcf395f7d8c0ab6a63c5824e6d"
+      },
+      "current": {
+        "bytes": 539685,
+        "sha256": "727f5ef277f15798f7348f3bff1ab17ec5c13880fe5dd54ad1f3a4f2b1c90528",
+        "git_blob_oid_of_actual_bytes": "1ec2acf83c536efcf395f7d8c0ab6a63c5824e6d"
+      },
+      "C_candidate_relative": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-005",
+      "private_beforeimage_relative_C_path": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-006",
+      "raw_unchanged": true,
+      "executed_complete_raw_inverse_equal_original": true
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP071_LP104_V1.json",
+      "before": {
+        "bytes": 693757,
+        "sha256": "483674fea7f98f017f7dcfd690662a248a5b5f5249e5ae116bd8c390b4ccc5bf",
+        "git_blob_oid_of_actual_bytes": "02a5868474ef9ea84740becd5eaefe4232880f30"
+      },
+      "current": {
+        "bytes": 693828,
+        "sha256": "574ceb0876c49038fdbedcb427c4e24c5e19d18e1195c35031f38cb2e2c5ede9",
+        "git_blob_oid_of_actual_bytes": "fbdd4bf7f8965d8cdac308a3122e5d95ee74f477"
+      },
+      "C_candidate_relative": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-007",
+      "private_beforeimage_relative_C_path": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-008",
+      "raw_unchanged": false,
+      "executed_complete_raw_inverse_equal_original": true
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_TARGET_PURPOSE_INDEX_V1.json",
+      "before": {
+        "bytes": 76805,
+        "sha256": "06c340e96a51e193588f0cb78e3f49cd6fb511976ccfa7a93404c887f9650445",
+        "git_blob_oid_of_actual_bytes": "67d9808f31f3c33efe364d7d7548f048b65d38ab"
+      },
+      "current": {
+        "bytes": 76805,
+        "sha256": "db7cc74f8086a497f4386c82b5a08f7ea39f9e977c39864f13c626f02308d65c",
+        "git_blob_oid_of_actual_bytes": "457cbaf42d52f89f3cb01da296fcede1f341a90b"
+      },
+      "C_candidate_relative": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-009",
+      "private_beforeimage_relative_C_path": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-010",
+      "raw_unchanged": false,
+      "executed_complete_raw_inverse_equal_original": true
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_INPUT_SOURCE_GRADE_AND_CURRENT_QUALIFIER_RECEIVING_V1.json",
+      "before": {
+        "bytes": 340825,
+        "sha256": "a1a21e54b133bc426652c1fca68e2559ac55277092fe3b222ac066bf14ac109f",
+        "git_blob_oid_of_actual_bytes": "a2f5160f76dd745ccc080378abcfa3935ce35cff"
+      },
+      "current": {
+        "bytes": 340825,
+        "sha256": "a1a21e54b133bc426652c1fca68e2559ac55277092fe3b222ac066bf14ac109f",
+        "git_blob_oid_of_actual_bytes": "a2f5160f76dd745ccc080378abcfa3935ce35cff"
+      },
+      "C_candidate_relative": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-011",
+      "private_beforeimage_relative_C_path": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-012",
+      "raw_unchanged": true,
+      "executed_complete_raw_inverse_equal_original": true
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_LITERAL52_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+      "before": {
+        "bytes": 813723,
+        "sha256": "942a7b8b0b75a380451517e8077deeb159660a970e7ebca9f562395aa2bef5c9",
+        "git_blob_oid_of_actual_bytes": "9babf07e53ca7c164ab1a04af6544c86fdd890b4"
+      },
+      "current": {
+        "bytes": 813723,
+        "sha256": "b7d74ef5b4c378be6e3dc7e6eaf486b83a3590288962ceada85ddbe6bc5ba6f8",
+        "git_blob_oid_of_actual_bytes": "8360ae2e47fc8f94db51501485b2ee17206dc201"
+      },
+      "C_candidate_relative": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-013",
+      "private_beforeimage_relative_C_path": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-014",
+      "raw_unchanged": false,
+      "executed_complete_raw_inverse_equal_original": true
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_SAVED_BODY_AND_EXACT8_TRANSPORT_RECEIPT_V1.json",
+      "before": {
+        "bytes": 5275,
+        "sha256": "0859570b7b173fb28071f95ed88e41e115461348a87db081e918b420fb61271c",
+        "git_blob_oid_of_actual_bytes": "b794eb337c3dd89d2810d43871c582a79451bd3a"
+      },
+      "current": {
+        "bytes": 5275,
+        "sha256": "69e500732eab37561994f11d4caf261e31c7a578c98203d967a54a64d823a9e2",
+        "git_blob_oid_of_actual_bytes": "e0cd76bfc5b8cfb123dfce760bdce9c981f3add3"
+      },
+      "C_candidate_relative": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-015",
+      "private_beforeimage_relative_C_path": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-016",
+      "raw_unchanged": false,
+      "executed_complete_raw_inverse_equal_original": true
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_INDEPENDENT_COMPLETE221_BODY_ONLY_LITERARY_REVIEW_V1.json",
+      "before": {
+        "bytes": 151465,
+        "sha256": "29ea4efb4e780056ddf05bea8dffaaf0a74cc77b6a521650b53edd402404574b",
+        "git_blob_oid_of_actual_bytes": "e7b2c4eac728746f252b6c2a1682581ec31f66c5"
+      },
+      "current": {
+        "bytes": 151465,
+        "sha256": "29ea4efb4e780056ddf05bea8dffaaf0a74cc77b6a521650b53edd402404574b",
+        "git_blob_oid_of_actual_bytes": "e7b2c4eac728746f252b6c2a1682581ec31f66c5"
+      },
+      "C_candidate_relative": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-017",
+      "private_beforeimage_relative_C_path": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-018",
+      "raw_unchanged": true,
+      "executed_complete_raw_inverse_equal_original": true
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_INDEPENDENT_CURRENT221_NEW105_LITERAL52_COMPLETE_COMPONENT_REVIEW_V1.json",
+      "before": {
+        "bytes": 69857,
+        "sha256": "7517e7b08b6554cecdb259d7a42f70a5c2715a31a067dc1ff288f6d1ac02161c",
+        "git_blob_oid_of_actual_bytes": "2041fdcbf1090d9ddc3ef18c39c82058193e73d3"
+      },
+      "current": {
+        "bytes": 69857,
+        "sha256": "7517e7b08b6554cecdb259d7a42f70a5c2715a31a067dc1ff288f6d1ac02161c",
+        "git_blob_oid_of_actual_bytes": "2041fdcbf1090d9ddc3ef18c39c82058193e73d3"
+      },
+      "C_candidate_relative": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-019",
+      "private_beforeimage_relative_C_path": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-020",
+      "raw_unchanged": true,
+      "executed_complete_raw_inverse_equal_original": true
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_INDEPENDENT_CURRENT_EXACT8_COMPLETE_EXECUTED_MECHANICAL_RECOVERY_REVIEW_V1.json",
+      "before": {
+        "bytes": 934366,
+        "sha256": "ac97a8f333f8bd45ee1766db74391661f68776e234bd5a59a12a222c6df86240",
+        "git_blob_oid_of_actual_bytes": "9180625e33fc6f1aea0c2816a81b1d3ed884e51a"
+      },
+      "current": {
+        "bytes": 934366,
+        "sha256": "ac97a8f333f8bd45ee1766db74391661f68776e234bd5a59a12a222c6df86240",
+        "git_blob_oid_of_actual_bytes": "9180625e33fc6f1aea0c2816a81b1d3ed884e51a"
+      },
+      "C_candidate_relative": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-021",
+      "private_beforeimage_relative_C_path": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-022",
+      "raw_unchanged": true,
+      "executed_complete_raw_inverse_equal_original": true
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_BODY_V1_V2_ORIGINAL_AUTHOR_RAW_FULL_INVERSE_V1.json",
+      "before": {
+        "bytes": 97005,
+        "sha256": "f8d108d13053e26213b8a5a26c5ee377c3e050cf4ee08857e65fb2b4ba95f45b",
+        "git_blob_oid_of_actual_bytes": "b942df83033b753ac07cf230b29994cd0eb43d2e"
+      },
+      "current": {
+        "bytes": 97005,
+        "sha256": "f8d108d13053e26213b8a5a26c5ee377c3e050cf4ee08857e65fb2b4ba95f45b",
+        "git_blob_oid_of_actual_bytes": "b942df83033b753ac07cf230b29994cd0eb43d2e"
+      },
+      "C_candidate_relative": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-023",
+      "private_beforeimage_relative_C_path": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-024",
+      "raw_unchanged": true,
+      "executed_complete_raw_inverse_equal_original": true
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_ROOT_RECEIVING_BODY_SCOPE_AND_REMAINING_ACCEPTANCE_GATES_V1.json",
+      "before": {
+        "bytes": 6042,
+        "sha256": "5f6ddee03dac0a34039094eae41da6cad2d2d32812a49f62b09899df6cc9b281",
+        "git_blob_oid_of_actual_bytes": "b5747adf00e8a518822b8fa50e24a046db1ce7b8"
+      },
+      "current": {
+        "bytes": 6042,
+        "sha256": "5f6ddee03dac0a34039094eae41da6cad2d2d32812a49f62b09899df6cc9b281",
+        "git_blob_oid_of_actual_bytes": "b5747adf00e8a518822b8fa50e24a046db1ce7b8"
+      },
+      "C_candidate_relative": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-025",
+      "private_beforeimage_relative_C_path": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-026",
+      "raw_unchanged": true,
+      "executed_complete_raw_inverse_equal_original": true
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT_PUBLIC_REVIEW_COMPOSITION_AND_CONDITIONAL_TRANSPORT_CONTROL_V1.json",
+      "before": {
+        "bytes": 11066,
+        "sha256": "1917a051284a1d7d531a8771e0b4ab5275ddabe50f0af8dfa24845e666bbbece",
+        "git_blob_oid_of_actual_bytes": "39ea34af0448b1ee7dc07717e0d3e6db6903efbb"
+      },
+      "current": {
+        "bytes": 19014,
+        "sha256": "bafa0bba6814d68753e067e02ae53da398431f815121cd16c492bbff07437711",
+        "git_blob_oid_of_actual_bytes": "66f15e5f28aacaf25e4dc52a5dc23e8fcd0961ab"
+      },
+      "C_candidate_relative": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-027",
+      "private_beforeimage_relative_C_path": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-028",
+      "raw_unchanged": false,
+      "executed_complete_raw_inverse_equal_original": true
+    }
+  ],
+  "ROOT_personal_body": {
+    "whole221_actual": [
+      "871279 L1–85",
+      "b7b374 L86–160",
+      "e492d3 L161–221"
+    ],
+    "body": {
+      "bytes": 42014,
+      "sha256": "48587c4ce60f0c215f47d6a9753c2252bff0c52ffc9e89f6d37e71da21d1b9c7",
+      "git_blob_oid_of_actual_bytes": "bc5ad7d907391fec1da2b2452f3b269caae56373"
+    },
+    "complete_literal52_current_objects_unchanged_by_LP094_successor": true
+  },
+  "ROOT_complete52_personal_receiving": {
+    "progress_path": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-029",
+    "bytes": 22220,
+    "sha256": "6e18af5d67a305f65c71b1f4f8a2488d9fc51c00c685f12e588bbd4bb94de283",
+    "git_blob_oid_of_actual_bytes": "0b46a7a4dfbed197725542a0f211fb2c3cd338f1",
+    "actual_batches": [
+      {
+        "range": [
+          1,
+          8
+        ],
+        "actual_output": "7867d6",
+        "reader": "V1",
+        "received": "full literal/manual reason/all source and purpose joins",
+        "adoption": false
+      },
+      {
+        "range": [
+          9,
+          16
+        ],
+        "actual_output": "682a75",
+        "reader": "V2",
+        "received": "full literal/manual reason/all source and purpose joins",
+        "adoption": false
+      },
+      {
+        "range": [
+          17,
+          24
+        ],
+        "actual_output": "2da0d4",
+        "reader": "V2",
+        "received": "full literal/manual reason/all source and purpose joins",
+        "adoption": false
+      },
+      {
+        "range": [
+          25,
+          31
+        ],
+        "actual_output": "1fac5b",
+        "reader": "V2",
+        "received": "full literal/manual reason/all source and purpose joins",
+        "adoption": false
+      },
+      {
+        "range": [
+          32,
+          38
+        ],
+        "actual_output": "b11060",
+        "reader": "V2",
+        "received": "full literal/manual reason/all source and purpose joins",
+        "adoption": false
+      },
+      {
+        "range": [
+          39,
+          45
+        ],
+        "actual_output": "6b3562",
+        "reader": "V2",
+        "received": "full literal/manual reason/all source and purpose joins",
+        "adoption": false
+      },
+      {
+        "range": [
+          46,
+          52
+        ],
+        "actual_output": "c5ceb3",
+        "reader": "V2",
+        "received": "full literal/manual reason/all source and purpose joins",
+        "adoption": false
+      }
+    ],
+    "personal_claim_judgments": [
+      {
+        "claim_id": "LIB001",
+        "ROOT_manual_reason": "An institution is supported through differentiated access, preservation and reader practices; the shared affiliation supplies no universal charter.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB002",
+        "ROOT_manual_reason": "Found books, good rest and chosen company are achieved ordinary ends; failed treasure and Ui's rest cost remain distinct.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB003",
+        "ROOT_manual_reason": "Ui's represented role and reported property disagreement are meaningful authority evidence, with title, ownership and supernatural power kept separate.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB004",
+        "ROOT_manual_reason": "Nagisa's appointment and secret commission occur in represented dialogue; local approval and the prospective exchange have different reaches.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB005",
+        "ROOT_manual_reason": "Classification, wanted-book finding and actual lending remain task-specific successes beside the failed rare-volume search.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB006",
+        "ROOT_manual_reason": "Shimiko's constructive referral and Ui's later restoration remain separate contributions at the accepted argument's inherited grade.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB007",
+        "ROOT_manual_reason": "Visitor misconduct explains a conflict but does not authenticate proportionality, safe punishment or learning; actor seams preserve finer uncertainty.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB008",
+        "ROOT_manual_reason": "Different readers like, share, shelter, criticize and withdraw; their agency does not become unanimous policy endorsement.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB009",
+        "ROOT_manual_reason": "The returned sole key, functioning notebook and lent cushion are concrete adaptations; custody transfer and universal technical guarantees do not follow.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB010",
+        "ROOT_manual_reason": "Ui's reported lost sleep and observed making are concurrent but unequal ends; inward throughput estimates and material permission remain limited.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB011",
+        "ROOT_manual_reason": "Secure surrounding narration supports adverse enforcement with an affected visitor; the exact turn map, diagnosis and standing arsenal remain unproved.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB012",
+        "ROOT_manual_reason": "The impending public clash is stopped; prior hospitalization references do not establish a new battle or a precise injury census.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB013",
+        "ROOT_manual_reason": "Ui's specialty and private space differ from Shimiko's reader service; actual complaints and costs give no invented permanent faction.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB014",
+        "ROOT_manual_reason": "Ui's and Shimiko's adjustment positions remain different through reliable collective approval; quotation stays bounded by actor seams.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB015",
+        "ROOT_manual_reason": "Quiet, sealed drinks and deadlines organize situated use; popularity/coating reports and particular invitations do not become universal policy.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB016",
+        "ROOT_manual_reason": "The shared chocolate, work, sleep and blanket are actual quiet outcomes; the birthday alternative remains wanted and the backlog uncompleted.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB017",
+        "ROOT_manual_reason": "Committee roles and different sites support belonging without a manufactured recruitment census or Library GROUP packet.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB018",
+        "ROOT_manual_reason": "Ui's invitations and shelter retain guest, distance and duration conditions; useful help does not erase them.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB019",
+        "ROOT_manual_reason": "Returned access, adapted notebook, recovered book and referral each resolve a particular burden; future friction is not globally cured.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB020",
+        "ROOT_manual_reason": "Local approval has practical new reading after hearing/apologies; proposal-stage exchange, unfinished story and continuing criticism remain separate.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB021",
+        "ROOT_manual_reason": "Sensei's recipient-sensitive care is useful alongside persistence after solitude refusal and praise after coercive enforcement.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB022",
+        "ROOT_manual_reason": "The adult's restraint and bounded oversight do not absorb Koharu's choice, Ui's approval or readers' own wishes.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB023",
+        "ROOT_manual_reason": "Tea Party, JTF and Library requests and judgments are directed differently; Nagisa's encouragement is misheard by Mashiro.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB024",
+        "ROOT_manual_reason": "Circulation has genuine creativity and actual settlement alongside material leverage; the rejected proposed9:1 ratio is not an executed final contract term.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB025",
+        "ROOT_manual_reason": "Shimiko and Ui dissent in real but fallible ways; critical objections coexist with concealment, punitive proposals and threatened force.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB026",
+        "ROOT_manual_reason": "Small refusals, rest and unfinished preferences are substantive and constrain a giver's or maker's projection.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB027",
+        "ROOT_manual_reason": "Old words, repaired objects and book metaphors have different memory functions; no sentient objects or universal medium hierarchy follows.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB028",
+        "ROOT_manual_reason": "Private discretion differs from the public reporting duty; Shimiko is not joined to Ui's capsule or secret-copy knowledge.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB029",
+        "ROOT_manual_reason": "Shimiko's purposeful genre research, role practice and audience help are useful and enjoyable without evil identity or heard performance.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB030",
+        "ROOT_manual_reason": "Positive event finishes retain cost-bearing observers, partial audience knowledge and commercial pressure.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB031",
+        "ROOT_manual_reason": "Performed reader service remains affirmative beside coercive control; no permanent gentle or violent institutional essence is needed.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB032",
+        "ROOT_manual_reason": "Negotiated local readership and chosen making matter with future proposals and unrestored costs still open.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB033",
+        "ROOT_manual_reason": "Reported disagreement and professional referral establish a relation; neither first-co-occurrence nor an unnamed cleaner supplies its origin.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB034",
+        "ROOT_manual_reason": "Task-specific asymmetry preserves each woman's achieved work and keeps restoration, lending, rest and craft attribution distinct.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB035",
+        "ROOT_manual_reason": "Quiet, referral and access criticism form a contextual relational grammar; co-presence alone does not supply a shared invitation.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB036",
+        "ROOT_manual_reason": "Wanted craft and Ui's reported sleeplessness form a directed conflict; mutual delight, malicious attack and enacted knocking-out are unsupported.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB037",
+        "ROOT_manual_reason": "Each woman's quiet, craft and object interests have intrinsic value; one person's chosen end does not remove the other's.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB038",
+        "ROOT_manual_reason": "Referral shows particular trust; unshared knowledge, the unnamed cleaner and strategic public denial are not invented private disclosure scenes.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB039",
+        "ROOT_manual_reason": "Office and reported disagreement raise a hierarchy question without continuous rivalry or ownership of another's time.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB040",
+        "ROOT_manual_reason": "The local betrayal accusation, crying and rebuke follow actual restraint; no fresh battle or permanent break is manufactured.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB041",
+        "ROOT_manual_reason": "Differentiated approval enables cooperation while adjustment disagreement and an unprinted pairwise apology remain.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB042",
+        "ROOT_manual_reason": "Later practice and separate quiet gift ends stay positive; Ui is not made the chocolate recipient or retrospectively restored.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB043",
+        "ROOT_manual_reason": "Written expert, role and conflict markers retain source mode and actor seams, with no performed tone or address-change claim.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB044",
+        "ROOT_manual_reason": "Actual mediation leaves Ui's decision and reader responses intact; separate adult care does not prove a repaired Ui–Shimiko pair.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB045",
+        "ROOT_manual_reason": "The sanctuary rival captures real goods but fails if recipient costs, force and unknown stock permission disappear.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB046",
+        "ROOT_manual_reason": "The gatekeeper rival captures real adversity but fails if achieved service, referral, comfort and access disappear.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB047",
+        "ROOT_manual_reason": "The flawless-expert rival overgeneralizes profiles and successful tasks; failed treasure, referral limits and inward estimates remain.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB048",
+        "ROOT_manual_reason": "The single-mind rival cannot explain explicit site, preference, adjustment and recipient differences.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB049",
+        "ROOT_manual_reason": "The productivity-only rival loses personally wanted reading, company, making, birthday difference and local rest.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB050",
+        "ROOT_manual_reason": "The harmless-fiction rival loses costs and obscured participation; the evil-maker rival confuses researched role with intent.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB051",
+        "ROOT_manual_reason": "Local approval and new readership do not enact universal liberalization, a delivered continuation or unlimited guarantorship.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      },
+      {
+        "claim_id": "LIB052",
+        "ROOT_manual_reason": "Conditional cooperation and disagreement support the relation without either a permanent cure or a failure-only judgment.",
+        "disposition": "SUPPORTED_WITH_LIMITS_AT_ACTUAL_MAINTAINED_ANALYTICAL_ARGUMENT_GRADE"
+      }
+    ],
+    "timestamp_precision": "The progressV1 saved_UTC was a nominal preparation label, not a read clock witness. This adoption saved_actual_UTC is generated from the actual execution clock; prior bytes remain unchanged."
+  },
+  "ROOT_all105_new_target_meaning_receiving": {
+    "complete_prior_progress_path": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-030",
+    "actual_untruncated": [
+      "79a942 LP000–011",
+      "c57000 LP012–023",
+      "c200bd LP024–035",
+      "90e563 LP036–053",
+      "5472b8 LP054–070",
+      "36d864 LP071–088",
+      "c40d46 LP089–104"
+    ],
+    "current_LP094_successor_actual": "dc9add entire current control and actual complete current target fields; original prior094 reading is qualified by this aftermeaning",
+    "all_other104_new_purpose_objects_preserved": true,
+    "grade": "New comparative questions/positive-counter meanings/finite use/trigger plus attributed original report grades; no whole105-normal/primary replay"
+  },
+  "ROOT_actual_source_receiving": {
+    "all11_complete_declared_roles": "cc99a3; author grades and original receiving remain attributed",
+    "new_personal_scopes": [
+      {
+        "alias": "U",
+        "ranges": [
+          [
+            1,
+            150
+          ]
+        ],
+        "actual_output": "a6343a",
+        "grade": "COMPLETE_CURRENT_MAINTAINED_CHARACTER_ARGUMENT_ONLY",
+        "primary_native_AV": false
+      },
+      {
+        "alias": "S",
+        "ranges": [
+          [
+            1,
+            100
+          ]
+        ],
+        "actual_output": "bec338",
+        "grade": "SELECTED_MAINTAINED_CHARACTER_ARGUMENT",
+        "primary_native_AV": false
+      },
+      {
+        "alias": "S",
+        "ranges": [
+          [
+            101,
+            189
+          ]
+        ],
+        "actual_output": "1c217e",
+        "grade": "COMPLETE_CURRENT_MAINTAINED_CHARACTER_ARGUMENT_REMAINDER",
+        "primary_native_AV": false
+      },
+      {
+        "alias": "P",
+        "ranges": [
+          [
+            239,
+            280
+          ],
+          [
+            373,
+            414
+          ]
+        ],
+        "actual_output": "227954",
+        "grade": "SELECTED_CONNECTED_MAINTAINED_CONTEXTUAL_ACCOUNT",
+        "primary_native_AV": false
+      },
+      {
+        "alias": "P",
+        "ranges": [
+          [
+            415,
+            471
+          ]
+        ],
+        "actual_output": "c963f6",
+        "grade": "SELECTED_CONNECTED_MAINTAINED_CONTEXTUAL_ACCOUNT",
+        "primary_native_AV": false
+      },
+      {
+        "alias": "P",
+        "ranges": [
+          [
+            472,
+            562
+          ]
+        ],
+        "actual_output": "a222e5",
+        "grade": "SELECTED_CONNECTED_MAINTAINED_CONTEXTUAL_ACCOUNT_CLOSING",
+        "primary_native_AV": false
+      },
+      {
+        "alias": "V",
+        "ranges": [
+          [
+            38,
+            45
+          ],
+          [
+            111,
+            195
+          ]
+        ],
+        "actual_output": "cf2800",
+        "grade": "SELECTED_CURRENT_MAINTAINED_EVENT851_ALL17_CONSEQUENTIAL_ARGUMENT_MEANINGS_AND_CLOSING",
+        "primary_native_AV": false
+      },
+      {
+        "alias": "W",
+        "ranges": [
+          [
+            1,
+            37
+          ],
+          [
+            98,
+            151
+          ]
+        ],
+        "actual_output": "551e79",
+        "grade": "SELECTED_CURRENT_MAINTAINED_EVENT852_AUTHORITY_AND_CONNECTED_ARGUMENT",
+        "primary_native_AV": false
+      },
+      {
+        "alias": "W",
+        "ranges": [
+          [
+            88,
+            97
+          ],
+          [
+            152,
+            205
+          ]
+        ],
+        "actual_output": "d20181",
+        "grade": "SELECTED_CURRENT_MAINTAINED_EVENT852_COMPLETE10_CONSEQUENTIAL_MEANINGS_AND_CLOSING",
+        "primary_native_AV": false
+      },
+      {
+        "alias": "X862",
+        "ranges": [
+          [
+            31,
+            44
+          ],
+          [
+            143,
+            150
+          ]
+        ],
+        "actual_output": "ffe395",
+        "grade": "ADEQUATE_SELECTED_MAINTAINED_ACTOR_CONTEXT",
+        "primary_native_AV": false
+      },
+      {
+        "alias": "ARCH",
+        "ranges": [
+          [
+            213,
+            255
+          ]
+        ],
+        "actual_output": "ffe395",
+        "grade": "SELECTED_CURRENT_ARCHITECTURE_CONTROL",
+        "primary_native_AV": false
+      },
+      {
+        "alias": "ARCH",
+        "ranges": [
+          [
+            312,
+            394
+          ]
+        ],
+        "actual_output": "386371",
+        "grade": "SELECTED_SPECIALIST_RESPONSIBILITY_AND_CHARACTER11_INSTITUTION_GOVERNANCE_DISTINCTION_CONTROL_NOT_ENUMERATED15",
+        "primary_native_AV": false
+      },
+      {
+        "alias": "ARCH",
+        "ranges": [
+          [
+            688,
+            749
+          ]
+        ],
+        "actual_output": "eb29aa",
+        "grade": "SELECTED_CURRENT_RESPONSIBILITY_AND_SCOPE_CONTROL",
+        "primary_native_AV": false
+      },
+      {
+        "alias": "METHOD",
+        "ranges": [
+          [
+            366,
+            460
+          ],
+          [
+            606,
+            640
+          ]
+        ],
+        "actual_output": "eb29aa",
+        "grade": "SELECTED_INSTITUTIONAL15_DIMENSIONS_ORDINARY_RELATIONAL_AND_LOCATOR_COUNTEREVIDENCE_METHOD_CONTROL",
+        "primary_native_AV": false
+      },
+      {
+        "alias": "V",
+        "ranges": [
+          [
+            103,
+            110
+          ]
+        ],
+        "actual_output": "53c8a8",
+        "grade": "selected maintained opening/thesis context; no whole195/17primary transfer"
+      },
+      {
+        "alias": "E850_LP094_precision",
+        "ranges": [
+          [
+            81,
+            100
+          ],
+          [
+            101,
+            139
+          ]
+        ],
+        "actual_output": [
+          "cfe900",
+          "4d1824",
+          "1b39a1"
+        ],
+        "grade": "selected maintained actor/reading-access/deceptive-ending/positive and financial ending context; no whole139/12primary transfer"
+      }
+    ],
+    "earlier_actual_scopes": [
+      {
+        "alias": "L56",
+        "scope": "whole maintained71",
+        "actual": "ec772b"
+      },
+      {
+        "alias": "C810",
+        "scope": "selected maintained123–138/276/294–316",
+        "actual": "ec772b"
+      },
+      {
+        "alias": "QUAL",
+        "scope": "six complete operative questions/counters/limits/trigger grades, not original source replay",
+        "actual": [
+          "f20d42",
+          "33532e"
+        ]
+      }
+    ],
+    "V_own_grade": "selected current maintained38–45 and103–195; all17 consequential literary episode meanings and closing, not whole physical195",
+    "W_own_grade": "selected current maintained1–37/88–205; complete10 consequential meanings and closing, not whole physical205",
+    "underlying_count_separation": "11 maintained source/control aliases and17 owned carrier segments are not17 plus10 new primary sources",
+    "ARCH_precision": "386371 shows eleven character sections and the specialist/institution governance distinction; the institutional15 dimensions are explicitly in METHOD430–446, personally read eb29aa. The earlier retrieval-output caption is not an extra architecture requirement."
+  },
+  "ROOT_dimensions_rivals_ends_gaps": {
+    "literal52": "7867d6/682a75/2da0d4/1fac5b/b11060/6b3562/c5ceb3 complete paragraphs/manual reasons/source-purpose joins",
+    "institution15": "LIB003–032 as30 substantial paragraphs; independently compared to METHOD430–446",
+    "existing_directed_named12": "LIB033–044 fully substantial, including legitimate unknown first meeting and unfinished pairwise repair",
+    "eight_serious_rivals": "LIB045–052 complete, with both actual favorable evidence and precise insufficiency of total rival forms",
+    "sixteen_finite_ends_and_fourteen_OPEN_gaps": "6f29bf complete rows and complete dimension assignments; all14 original stable gap names preserved",
+    "models": 0
+  },
+  "ROOT_current_QA_and_history_role_receiving": {
+    "all5_prior_public_review_ROOT_control_roles": "6a243e complete5737 retrieval-role object",
+    "entire_prior6042_ROOT_record_and_all11_declared_input_roles": "cc99a3",
+    "current_actor_manifest20911": "3d0e6d whole",
+    "current_actor_control19014": "dc9add whole",
+    "prior_complete_component_QA": "517d6b complete actual role/receiving/manual conclusions/mechanical execution and stage scopes;105 individual old QA rows are not ROOT new literary receiving",
+    "actual_current_distinct_author_delta_QA": "6a8260 full semantic operation, all14 raw inverse/forward receipts and complete manual decision/preservation/role scopes;341 checks and99 typed views are automated results, not personal whole-check-text reading",
+    "current_correction_QA": {
+      "path": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-031",
+      "bytes": 152840,
+      "sha256": "254ab62dfce3421d795fddf9df75e96f9efe36e7c32349e04af0fdc20f5a5f6f",
+      "git_blob_oid_of_actual_bytes": "e5cf2cf14ed98e310724c4fb97d346c300acaf39"
+    },
+    "role_disclosure": "Current actor correction author /root/m008_composition_review. Reviewer authored original Library public14 sanitation/composition and the mechanical lossless retrieval aid, plus earlier body-only literary QA; did not author Library literary body,new105,literal register or this LP094 correction. Distinct-author current-delta QA, not independent reauthoring/self-QA of old composition or new full105 primary review.",
+    "frozen_originals": "All original105 objects/grades/decisions, original O094,body221/literal52,3 priorQA/preliminaryROOT6042/body97005inverse and original author8/public14 snapshots remain exact and dated; current LP094 aftermeaning controls new use."
+  },
+  "ROOT_current_LP094_manual_acceptance": {
+    "question": "Does an unwanted title erase a person's decisions or make public success profitable?",
+    "accepted_aftermeaning": "Wild Hunt's Miyo occupies an unwanted trading head role yet revises plans and refuses deception; Ritsu's favorite-author/sculpture/material interests, Miyo's wanted romance novels and refusal to let Teacher read one, and actual sweets/public comparison remain meaningful. Earnings are zero/job loss, while injuries/coercion/compromised trust and unprinted purchases/exit persist. Library title is no total preference or flawless authenticity audit.",
+    "finite_use": "Actual artistic/ethical local success distinct from reward, privacy consent and role exit.",
+    "reason": "MaintainedE85081/87/90 distinguish Ritsu sculpture/material wants and favorite-author affection;98 places wanted romance novels and refused Teacher reading access with Miyo;109 supports Miyo refusing the proposed deceptive ending;118 supplies actual sweets, zero earnings/loss, unpurchased typewriter/marble and continuing club. Library comparison transfers no attendance or ownership. Historical shorthand is preserved, not projected into a refusal-to-write claim."
+  },
+  "ROOT_literary_reason": "The institution is enacted through particular object care, finding/lending, chosen reading and making, access conditions, referral and local procedures. Ui and Shimiko retain separate purposes, sites, competence and recipients. Actual returned access, used notebook, recovered book, lending, comfortable work, restored local rest, shared gift food, stopped clash and differentiated approval remain affirmative. Coercive enforcement, intrusive pursuit, pressure, concealed public knowledge, unproved stock permission and unrestored Ui rest remain contrary mechanisms. This gives a substantive institutional argument and a complete directed section without a single library mind, a universal charter, an ethical immunity certificate, a forced romance or a permanent reconciliation. Ordinary wants and pleasure count intrinsically alongside crisis conduct.",
+  "current_operational_basis_at_adoption": {
+    "local_and_published_source": "70db21c24b2a2e1e68b227b5ef278cfaeca32d3e",
+    "source_tree": "c2e075588bfa7bd9e5eedf5b3913b7e60ded6d13",
+    "main": "813cc91553f99e2de7c357794897bb8c59b2f548",
+    "persisted_source_packages": 141,
+    "persisted_source_named": 15,
+    "main_packages": 133,
+    "main_named": 13,
+    "GSC141_source_audit": "38482931817 SUCCESS; independent watcher attribution, final complete verifier still required",
+    "GSC141_housekeeping": "38484570750 SUCCESS/no-op70db; actual execution witnessed",
+    "GSC141_final_audit": "38484600616 pending at this semantic-adoption preparation; no future runtime-green transfer to Library"
+  },
+  "fixed_scope": {
+    "required": 355,
+    "named": 29,
+    "parents": 25,
+    "homes": 384,
+    "navigation": 788,
+    "milestones": [
+      89,
+      178,
+      267,
+      355
+    ],
+    "178": "UNREACHED",
+    "all14_original_gaps": "OPEN",
+    "models": 0
+  },
+  "credit_now": {
+    "new_canonical_packages": 0,
+    "new_persisted_named": 0,
+    "new_primary_native_raw_AV_source_admission_identity_or_model": 0
+  },
+  "conditional_after_complete_Library_only_actual_ROOT_install": {
+    "source_required_packages": 142,
+    "named": 16,
+    "institution_packages": 15,
+    "other_counts_unchanged": true
+  },
+  "remaining_publication_gates": [
+    "compose exact current public acceptance with preserved old scopes/bytes and qualified current tuples",
+    "bounded different-author final composition review",
+    "ROOT guarded exact allowlist installation with protected39stat-only preservation",
+    "fresh main/source reconciliation and mandatory current staged author preflight/checklist/identities/live provider checks",
+    "close fresh GSC14170db SOURCE/HK/FINAL before next publication",
+    "ordinary push and exact remote raw readback/fresh newhead SOURCE/HK/FINAL",
+    "separate protected main integration only at authorized milestone"
+  ],
+  "protected39_or9UNBOUND_body_or_hash_reads": 0,
+  "merge_approval": "RESERVED",
+  "public_path_only_transport_derivative_and_dated_runtime_qualification_V1": {
+    "schema": "LIBRARY_ROOT_PUBLIC_EXACT_PATH_ONLY_TRANSPORT_DERIVATIVE_AND_HISTORICAL_RUNTIME_BOUNDARY_V1",
+    "composer": "/root/minato_105_derivative",
+    "original_private_ROOT_actual_record": {
+      "bytes": 49881,
+      "sha256": "f7216b72e6fa805a0b6f69242daf3d14b29414a825a6c1880e99a85264a355dd",
+      "git_blob_oid_of_actual_bytes": "401cab830da64d3d913fe7ca9b544bd7ce12b63c"
+    },
+    "normalization": "Only32 exact C candidate/beforeimage/evidence-location scalars become opaque private-witness IDs. All original semantic, source-grade, actor, purpose, literal52 reason, history and ROOT decision fields are unchanged. Full original UTF8 and exact scalar-token inverse remain privately preserved.",
+    "locator_mapping": [
+      {
+        "JSON_pointer": "/reviewed_current14_manifest/path",
+        "opaque_private_witness_id": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-000"
+      },
+      {
+        "JSON_pointer": "/reviewed_current14_components/0/C_candidate_relative",
+        "opaque_private_witness_id": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-001"
+      },
+      {
+        "JSON_pointer": "/reviewed_current14_components/0/private_beforeimage_relative_C_path",
+        "opaque_private_witness_id": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-002"
+      },
+      {
+        "JSON_pointer": "/reviewed_current14_components/1/C_candidate_relative",
+        "opaque_private_witness_id": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-003"
+      },
+      {
+        "JSON_pointer": "/reviewed_current14_components/1/private_beforeimage_relative_C_path",
+        "opaque_private_witness_id": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-004"
+      },
+      {
+        "JSON_pointer": "/reviewed_current14_components/2/C_candidate_relative",
+        "opaque_private_witness_id": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-005"
+      },
+      {
+        "JSON_pointer": "/reviewed_current14_components/2/private_beforeimage_relative_C_path",
+        "opaque_private_witness_id": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-006"
+      },
+      {
+        "JSON_pointer": "/reviewed_current14_components/3/C_candidate_relative",
+        "opaque_private_witness_id": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-007"
+      },
+      {
+        "JSON_pointer": "/reviewed_current14_components/3/private_beforeimage_relative_C_path",
+        "opaque_private_witness_id": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-008"
+      },
+      {
+        "JSON_pointer": "/reviewed_current14_components/4/C_candidate_relative",
+        "opaque_private_witness_id": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-009"
+      },
+      {
+        "JSON_pointer": "/reviewed_current14_components/4/private_beforeimage_relative_C_path",
+        "opaque_private_witness_id": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-010"
+      },
+      {
+        "JSON_pointer": "/reviewed_current14_components/5/C_candidate_relative",
+        "opaque_private_witness_id": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-011"
+      },
+      {
+        "JSON_pointer": "/reviewed_current14_components/5/private_beforeimage_relative_C_path",
+        "opaque_private_witness_id": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-012"
+      },
+      {
+        "JSON_pointer": "/reviewed_current14_components/6/C_candidate_relative",
+        "opaque_private_witness_id": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-013"
+      },
+      {
+        "JSON_pointer": "/reviewed_current14_components/6/private_beforeimage_relative_C_path",
+        "opaque_private_witness_id": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-014"
+      },
+      {
+        "JSON_pointer": "/reviewed_current14_components/7/C_candidate_relative",
+        "opaque_private_witness_id": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-015"
+      },
+      {
+        "JSON_pointer": "/reviewed_current14_components/7/private_beforeimage_relative_C_path",
+        "opaque_private_witness_id": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-016"
+      },
+      {
+        "JSON_pointer": "/reviewed_current14_components/8/C_candidate_relative",
+        "opaque_private_witness_id": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-017"
+      },
+      {
+        "JSON_pointer": "/reviewed_current14_components/8/private_beforeimage_relative_C_path",
+        "opaque_private_witness_id": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-018"
+      },
+      {
+        "JSON_pointer": "/reviewed_current14_components/9/C_candidate_relative",
+        "opaque_private_witness_id": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-019"
+      },
+      {
+        "JSON_pointer": "/reviewed_current14_components/9/private_beforeimage_relative_C_path",
+        "opaque_private_witness_id": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-020"
+      },
+      {
+        "JSON_pointer": "/reviewed_current14_components/10/C_candidate_relative",
+        "opaque_private_witness_id": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-021"
+      },
+      {
+        "JSON_pointer": "/reviewed_current14_components/10/private_beforeimage_relative_C_path",
+        "opaque_private_witness_id": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-022"
+      },
+      {
+        "JSON_pointer": "/reviewed_current14_components/11/C_candidate_relative",
+        "opaque_private_witness_id": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-023"
+      },
+      {
+        "JSON_pointer": "/reviewed_current14_components/11/private_beforeimage_relative_C_path",
+        "opaque_private_witness_id": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-024"
+      },
+      {
+        "JSON_pointer": "/reviewed_current14_components/12/C_candidate_relative",
+        "opaque_private_witness_id": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-025"
+      },
+      {
+        "JSON_pointer": "/reviewed_current14_components/12/private_beforeimage_relative_C_path",
+        "opaque_private_witness_id": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-026"
+      },
+      {
+        "JSON_pointer": "/reviewed_current14_components/13/C_candidate_relative",
+        "opaque_private_witness_id": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-027"
+      },
+      {
+        "JSON_pointer": "/reviewed_current14_components/13/private_beforeimage_relative_C_path",
+        "opaque_private_witness_id": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-028"
+      },
+      {
+        "JSON_pointer": "/ROOT_complete52_personal_receiving/progress_path",
+        "opaque_private_witness_id": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-029"
+      },
+      {
+        "JSON_pointer": "/ROOT_all105_new_target_meaning_receiving/complete_prior_progress_path",
+        "opaque_private_witness_id": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-030"
+      },
+      {
+        "JSON_pointer": "/ROOT_current_QA_and_history_role_receiving/current_correction_QA/path",
+        "opaque_private_witness_id": "private-witness:LIBRARY-ROOT-ACTUAL-ACCEPTANCE-LOCATOR-031"
+      }
+    ],
+    "no_original_private_payload_encoding_in_public": true,
+    "stage_boundary": "Actual ROOT literary WITH_LIMITS acceptance is preserved. All pending runtime and publication-gate strings in the original object remain the dated adoption-stage snapshot; the current15 transport control qualifies the later completed70db chain. No installation, newhead CI or main integration credit is inferred.",
+    "review_attribution": "This composer authored Library argument/new105 and this transport composition. This is author preservation verification, not a new independent literary/source QA or ROOT adoption.",
+    "new_source_primary_native_raw_AV_identity_model_or_package_credit": 0,
+    "merge_approval": "RESERVED"
+  }
+}

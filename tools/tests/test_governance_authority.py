@@ -6,6 +6,7 @@ import subprocess
 import sys
 import unittest
 from pathlib import Path
+from unittest import mock
 
 
 REPOSITORY_ROOT = Path(__file__).resolve().parents[2]
@@ -38,6 +39,22 @@ ACTIVATION_EVIDENCE = [
         "ab5f23601f284bb60f9a0f4c7fec607130f6e99d19536f06557a4700f9d06c1e",
     ),
 ]
+
+# Reviewed checkpoint for the literal character fixtures below, including the
+# post-migration Cinderella enrollment. This is historical evidence, not the
+# allowed contents of the evolving discovery registry. Never use a moving ref.
+HISTORICAL_CHARACTER_COMMIT = "79e842adc4d8f31ee2f7f812c48b24d2f68d7cac"
+HISTORICAL_CHARACTER_SHA256 = "ff620e65cd987b3a15d527e00db28556a326a9d6a2d75888020031c7021acd53"
+
+
+def historical_character_rows() -> list[dict[str, object]]:
+    data = subprocess.check_output(
+        ["git", "-C", str(REPOSITORY_ROOT), "show",
+         f"{HISTORICAL_CHARACTER_COMMIT}:characters/registry.jsonl"]
+    )
+    if hashlib.sha256(data).hexdigest() != HISTORICAL_CHARACTER_SHA256:
+        raise DomainError("Historical character registry SHA-256 mismatch")
+    return [json.loads(line) for line in data.decode("utf-8").splitlines() if line]
 
 
 def authority_document(
@@ -662,16 +679,17 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         self.assertEqual(self.scope["activation"]["candidate_commit"], expected["activation_commit"])
         self.assertEqual(self.scope["activation"]["activation_tag"], expected["activation_tag"])
         activation = self.state["analytical_authority_activation"]
-        self.assertEqual(activation["status"], "GIT_ACTIVE_STABILIZING")
+        self.assertEqual(activation["status"], "GIT_ACTIVE_ACCEPTED")
         for key, value in expected.items():
             self.assertEqual(activation[key], value)
-        self.assertEqual(self.state["migration"]["completed_gate"], "G8")
-        self.assertEqual(self.state["migration"]["current_gate"], "G9_STABILIZATION")
-        self.assertEqual(
-            self.state["migration"]["current_subphase"],
-            "DAILY_STABILIZATION_MONITORING",
-        )
-        self.assertEqual(self.state["stabilization"]["state"], "ACTIVE_DAILY")
+        self.assertEqual(self.state["state"], "GIT_ACTIVE_ACCEPTED")
+        self.assertEqual(self.state["migration"]["completed_gate"], "G9")
+        self.assertEqual(self.state["migration"]["current_gate"], "NONE_MIGRATION_COMPLETE")
+        self.assertEqual(self.state["stabilization"]["state"], "ACCEPTED")
+        self.assertEqual(self.state["stabilization"]["owner_acceptance"], "ACCEPTED")
+        self.assertEqual(self.state["stabilization"]["owner_acceptance_date"], "2026-10-15")
+        # The frozen activation scope keeps its activation-time state and bytes.
+        self.assertEqual(self.scope["stabilization"]["state"], "ACTIVE_DAY_0")
         self.assertEqual(self.state["stabilization"]["day_0_audit"], "PASS")
         self.assertEqual(
             self.state["stabilization"]["day_0_audit_commit"],
@@ -703,7 +721,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         prose = {
             "README.md": ("epoch-1 primary analytical authority", "14-day stabilization"),
             "governance/CHATGPT_AUTHORITY_AND_ROUTING.md": (
-                "Git authority is active and stabilizing",
+                "Git authority is active and accepted",
                 "g8-authority-epoch-1-20260902T134713Z",
             ),
             "governance/MANGA_ANIME_CORPUS_INDEX.md": (
@@ -727,11 +745,27 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         routing = (
             REPOSITORY_ROOT / "governance/CHATGPT_AUTHORITY_AND_ROUTING.md"
         ).read_text(encoding="utf-8")
-        self.assertIn("GitHub API or connector mode (ChatGPT)", routing)
-        self.assertIn("Local clone mode (Codex)", routing)
+        record = (
+            REPOSITORY_ROOT / "governance/cutovers/AUTHORITY_EPOCH_1_ACTIVATION_RECORD.md"
+        ).read_text(encoding="utf-8")
+        for phrase in (
+            "All activation conditions passed for epoch 1.",
+            "- Cutover ID: `g8-authority-epoch-1-20260902T134713Z`",
+            "Daily stabilization ended and is accepted, migration is complete",
+        ):
+            with self.subTest(record_phrase=phrase):
+                self.assertIn(phrase, record)
+        # The execution profiles are procedure and live in the checklist;
+        # the routing document points to them.
+        checklist = (
+            REPOSITORY_ROOT / "governance/policies/CHANGE_INTEGRATION_CHECKLIST.md"
+        ).read_text(encoding="utf-8")
+        self.assertIn("### GitHub API or connector mode\n", checklist)
+        self.assertIn("### Local clone mode\n", checklist)
+        self.assertIn("CHANGE_INTEGRATION_CHECKLIST.md#execution-profiles", routing)
         self.assertIn("primary/source-domain material in Drive", routing)
         self.assertIn("approved primary-source material on local disk", routing)
-        self.assertIn("git add -- <path>...", routing)
+        self.assertIn("git add -- <path>...", checklist)
 
     def test_public_activation_evidence_tuple_is_exact(self) -> None:
         publication = self.binding["repository_publication_activation"]
@@ -778,6 +812,11 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
 
     def test_local_and_github_connector_author_and_committer_identities_are_exact(self) -> None:
         owner_identities = [
+            # The owner's former GitHub username remains an exact approved pair.
+            {
+                "name": "peipw",
+                "email": "50891441+peipw@users.noreply.github.com",
+            },
             {
                 "name": "deep-blue-zero",
                 "email": "50891441+peipw@users.noreply.github.com",
@@ -814,7 +853,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             series_registry["schema"],
             "anime-manga-ln-games-analysis/series-registry/v2",
         )
-        self.assertEqual(series_registry["status"], "GIT_PRIMARY_AUTHORITY_EPOCH_1_STABILIZING")
+        self.assertEqual(series_registry["status"], self.state["state"])
         series_ids = [row["series_id"] for row in series_registry["series"]]
         self.assertEqual(len(series_ids), len(set(series_ids)))
         self.assertTrue(
@@ -968,13 +1007,17 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                     )
                 else:
                     self.assertIsNone(row["canonical_entrypoint"])
-        character_rows = [
-            json.loads(line)
-            for line in (REPOSITORY_ROOT / "characters/registry.jsonl")
-            .read_text(encoding="utf-8")
-            .splitlines()
-            if line
-        ]
+
+    def test_historical_character_fixture_rejects_changed_or_missing_git_blob(self) -> None:
+        with mock.patch.object(subprocess, "check_output", return_value=b"{}\n"):
+            with self.assertRaisesRegex(DomainError, "SHA-256 mismatch"):
+                historical_character_rows()
+        with mock.patch.object(subprocess, "check_output", side_effect=subprocess.CalledProcessError(128, "git show")):
+            with self.assertRaises(subprocess.CalledProcessError):
+                historical_character_rows()
+
+    def test_historical_character_registry_matches_reviewed_snapshot(self) -> None:
+        character_rows = historical_character_rows()
         self.assertEqual(
             len(character_rows),
             len({row["analysis_subject_id"] for row in character_rows}),
@@ -1079,6 +1122,22 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         ]
         self.assertEqual(blue_archive_rows, expected_blue_archive_rows)
 
+        self.assertFalse(any(row["series_id"] == "youjo-senki" for row in character_rows))
+
+        logh_subject_ids = {
+            row["analysis_subject_id"]
+            for row in character_rows
+            if row["series_id"] == "legend-of-the-galactic-heroes"
+        }
+        self.assertEqual(
+            logh_subject_ids,
+            {
+                "legend-of-the-galactic-heroes:reinhard-von-lohengramm@original-novels",
+                "legend-of-the-galactic-heroes:yang-wen-li@original-novels",
+            },
+        )
+
+    def test_frozen_series_migration_crosswalks_are_unchanged(self) -> None:
         def rows(relative: str) -> list[dict[str, object]]:
             return [
                 json.loads(line)
@@ -1234,7 +1293,6 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             "crosswalk/materialization-results.jsonl",
         ):
             self.assertFalse(any(row["drive_id"] in t06_reference_ids for row in rows(relative)))
-        self.assertFalse(any(row["series_id"] == "youjo-senki" for row in character_rows))
 
         logh_mappings = [
             row for row in rows("crosswalk/drive-to-git.jsonl")
@@ -1268,18 +1326,6 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             "crosswalk/materialization-results.jsonl",
         ):
             self.assertFalse(any(row["drive_id"] in t07_reference_ids for row in rows(relative)))
-        logh_subject_ids = {
-            row["analysis_subject_id"]
-            for row in character_rows
-            if row["series_id"] == "legend-of-the-galactic-heroes"
-        }
-        self.assertEqual(
-            logh_subject_ids,
-            {
-                "legend-of-the-galactic-heroes:reinhard-von-lohengramm@original-novels",
-                "legend-of-the-galactic-heroes:yang-wen-li@original-novels",
-            },
-        )
 
     def test_g5_t01_maebashi_tuple_is_exact(self) -> None:
         drive_ids = {
@@ -1332,7 +1378,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         self.assertEqual(manifest["destination_bytes"], 2706)
         self.assertEqual(manifest["destination_sha256"], "94c23fbbb6e040a64f8de1bfae8831912902661cdebba79393781bdf69f36101")
 
-        character_rows = rows("characters/registry.jsonl")
+        character_rows = historical_character_rows()
         maebashi = [row for row in character_rows if row["series_id"] == "maebashi-witches"]
         self.assertEqual(len(maebashi), 7)
         self.assertTrue(all(row["materialization_status"] == "PRESENT_REVIEWED" for row in maebashi))
@@ -1390,7 +1436,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
 
         mass_effect = [
             row
-            for row in rows("characters/registry.jsonl")
+            for row in historical_character_rows()
             if row["series_id"] == "mass-effect"
         ]
         self.assertEqual(len(mass_effect), 2)
@@ -1400,6 +1446,9 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         self.assertFalse(any("SPEECH" in row["analytical_dimensions"] for row in mass_effect))
 
     def test_g6_source_provenance_closure_is_exact(self) -> None:
+        # G6 hashes bind the frozen migration, not later revisions of live policies.
+        migration_commit = self.scope["activation"]["candidate_commit"]
+        self.assertEqual(migration_commit, "01561d0c9398917c1329501b798733041ab17e98")
         expected_source_ids = {
             "11tzDCqbg6Twy6KlYyrnavpwSqkwRpnWD",
             "15aeSFNRTkpq7NJcFelnb_4dt4Gsb-92P",
@@ -1469,7 +1518,12 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 self.assertEqual(mapping["source_drive_ids"], plan["source_drive_ids"])
                 self.assertEqual(mapping["source_tuples"], result["source_tuples"])
                 self.assertEqual(mapping["source_tuples"], plan["source_tuples"])
-                data = (REPOSITORY_ROOT / mapping["git_path"]).read_bytes()
+                data = subprocess.check_output(
+                    [
+                        "git", "-C", str(REPOSITORY_ROOT), "show",
+                        f"{migration_commit}:{mapping['git_path']}",
+                    ]
+                )
                 self.assertEqual(len(data), mapping["git_bytes"])
                 self.assertEqual(hashlib.sha256(data).hexdigest(), mapping["git_sha256"])
 

@@ -4,7 +4,7 @@ artifact_type: analytical_method
 scope: CHARACTER_MODELING
 generation: V2
 status: canonical
-source_boundary: Japanese manga evidence accumulated through the MHA_SP2 sequential reread
+source_boundary: Japanese main manga V01–V42 plus the source-labeled Ultra Archive, Ultra Analysis and Ultra Age material admitted under analytical method section 18
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -328,3 +328,10 @@ The model should be capable of answering not merely:
 but:
 
 > What would this version of the character notice, believe, want, fear, decide, say, and do in this situation, toward these people, given what they know—and how confident are we?
+
+
+## 13. Admitted supplemental sources and current use
+
+The [official-supplement amendment](MHA_SP2_ANALYTICAL_METHOD_V2_1.md#18-official-supplemental-material-reconciliation-amendment--2026-09-10) governs the admitted Ultra Archive, Ultra Analysis and Ultra Age material. Its source classes describe who supplies a proposition and what kind of text it is; the legacy atom's explicit/inferred/plausible/unresolved field describes certainty. Keep these axes separate. A profile or author-specified fact may constrain a current reconstruction without becoming an enacted behavioral atom. A repeated manga panel remains the same observation. Newly enacted bonus fiction is evidence at its own chronology, never an earlier freeze input.
+
+Current source-reconciliation examples in the [aggregate validation report](../04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_AGGREGATE_RECONSTRUCTION_VALIDATION.md) are explicitly nonblind and unscored. They do not add formal probe outcomes. Existing frozen inputs, predictions, comparisons, provenance and contamination notices remain unchanged.

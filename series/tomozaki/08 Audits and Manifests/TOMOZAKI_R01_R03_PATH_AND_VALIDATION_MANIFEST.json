@@ -1,0 +1,250 @@
+{
+  "series": "TOMOZAKI",
+  "artifact_type": "r01_r03_path_and_validation_manifest",
+  "generation": "V1.0",
+  "status": "canonical",
+  "release_state": "mutable_active",
+  "baseline_commit": "c20fa4359e34d549da3514a6106cda1756c1a962",
+  "scope": "R01_R02_R03_ONLY",
+  "source_boundary": "Locked Japanese V01-V11 plus story-local V06.5/V08.5; no new source admission",
+  "authored_path_allowlist": [
+    "series/tomozaki/00 Frameworks and Methods/TOMOZAKI_SYNTHESIS_ARCHITECTURE.md",
+    "series/tomozaki/03 Longitudinal Ledgers/README.md",
+    "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_CHARACTER_STATE_LEDGER.md",
+    "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_CLAIM_REVISION_AND_EVIDENCE_INDEX.md",
+    "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md",
+    "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_JAPANESE_VOICE_REGISTER_AND_KEY_TERMS_LEDGER.md",
+    "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_RELATIONSHIP_STATE_LEDGER.md",
+    "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_SOCIAL_ATMOSPHERE_AND_GROUP_SYSTEMS_LEDGER.md",
+    "series/tomozaki/08 Audits and Manifests/TOMOZAKI_LONGITUDINAL_RECONCILIATION_AUDIT.md",
+    "series/tomozaki/08 Audits and Manifests/TOMOZAKI_R01_R03_PATH_AND_VALIDATION_MANIFEST.json",
+    "series/tomozaki/08 Audits and Manifests/TOMOZAKI_REMEDIATION_EXECUTION_INVENTORY.md",
+    "series/tomozaki/08 Audits and Manifests/TOMOZAKI_TARGETED_SOURCE_LOCATOR_AUDIT.md",
+    "series/tomozaki/CURRENT_STATE_AND_CORPUS_MAP.md"
+  ],
+  "artifact_hash_scope": "All authored Markdown below; this manifest excludes its own hash to avoid self-reference. Git identifies the exact published manifest.",
+  "authored_artifacts": [
+    {
+      "path": "series/tomozaki/00 Frameworks and Methods/TOMOZAKI_SYNTHESIS_ARCHITECTURE.md",
+      "sha256": "9ce6a3f96023f3f1a8be448a1480709d5cc7636bdb141377bc95f7e3f8d8cf91",
+      "bytes": 46363
+    },
+    {
+      "path": "series/tomozaki/03 Longitudinal Ledgers/README.md",
+      "sha256": "77375d3591e4a0a67c8ff9ed0f005343a0cb32830fc29bd64f3cfbf9895289be",
+      "bytes": 5157
+    },
+    {
+      "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_CHARACTER_STATE_LEDGER.md",
+      "sha256": "c7f7a8ed99f59cca40cac9e4f0ccc0b249ce4f08b81c941dfc66a47f94a74b14",
+      "bytes": 97802
+    },
+    {
+      "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_CLAIM_REVISION_AND_EVIDENCE_INDEX.md",
+      "sha256": "71b09b2e795ce0e3eaa017018d7205e7c01f035451eb10b7cc3ee4b10496b59a",
+      "bytes": 92249
+    },
+    {
+      "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md",
+      "sha256": "16f8d142e3350e0aa15014b5bd0920edf1b0a4c46036ad9a9e40b7cf489d2fd4",
+      "bytes": 167444
+    },
+    {
+      "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_JAPANESE_VOICE_REGISTER_AND_KEY_TERMS_LEDGER.md",
+      "sha256": "39788ef7d614a1bd1486c9ee5b5f0d48f95afd1086481a69b397bdba59c44bc7",
+      "bytes": 29989
+    },
+    {
+      "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_RELATIONSHIP_STATE_LEDGER.md",
+      "sha256": "6bf582f5fd4392bb4d1cd4ef2ecaa7ec048481f742cecbc2bfdfc3636c5c495c",
+      "bytes": 122044
+    },
+    {
+      "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_SOCIAL_ATMOSPHERE_AND_GROUP_SYSTEMS_LEDGER.md",
+      "sha256": "f233244d94d088f8c1a4fc5c2825f6bbb04549a8015c198fb418aeaf70d41e7b",
+      "bytes": 94835
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_LONGITUDINAL_RECONCILIATION_AUDIT.md",
+      "sha256": "2dd3bc309e8403132b28b8302eb5762dfa36d282c3f5a0dc9b08a8dce3beb376",
+      "bytes": 27134
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_REMEDIATION_EXECUTION_INVENTORY.md",
+      "sha256": "9c970baaed8d6e270f10a525e6468344f0144097b9e13faa44249538cf071fc6",
+      "bytes": 25902
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_TARGETED_SOURCE_LOCATOR_AUDIT.md",
+      "sha256": "4616495b21e374547c58e63ade5ce99e1cfb6116ceb84621df92be99f94850e1",
+      "bytes": 35306
+    },
+    {
+      "path": "series/tomozaki/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "sha256": "d40f23865c5bc2d70fb36f816e335cebcc476f20101e4b27f54cfca069b61043",
+      "bytes": 47486
+    }
+  ],
+  "preservation_scope": "Every baseline-tracked file in series/tomozaki outside the authored allowlist; includes all thirteen readings, all seven character candidates, full-series candidate, source lock, historical audits and other title controls.",
+  "preserved_baseline_artifacts": [
+    {
+      "path": "series/tomozaki/.repository/series-registry.json",
+      "sha256": "58499a5c519a4dd50c3c72d1a2b9773e153e7cfd5e12ee44bffbba964598f762",
+      "bytes": 614
+    },
+    {
+      "path": "series/tomozaki/00 Frameworks and Methods/TOMOZAKI_ANALYTICAL_METHOD.md",
+      "sha256": "82680dbaa55a938961349ed3cc5d0a1d52c5ba1bf2565c96dc5161d45b8f070b",
+      "bytes": 15889
+    },
+    {
+      "path": "series/tomozaki/01 Source Lock and Inventory/TOMOZAKI_SOURCE_LOCK_AND_INVENTORY.md",
+      "sha256": "037cc5fbd7df69ea77963bc3443f73e976d66f80d38afec802a2be05177ab748",
+      "bytes": 7798
+    },
+    {
+      "path": "series/tomozaki/02 Sequential Readings/README.md",
+      "sha256": "b2fe3d3bdceff3266b6ce293fc77d9a451f0aff1031c7615c628fae249b60188",
+      "bytes": 6602
+    },
+    {
+      "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V01_DEEP_READING.md",
+      "sha256": "aee76ef0969c775e97d934e4982e2d5fca18fa0121338e48de37708727d7c76e",
+      "bytes": 48947
+    },
+    {
+      "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V02_DEEP_READING.md",
+      "sha256": "6971cb4786046332f4bc90ef78574f8aae1231b0104f5ecc3da618d19429967f",
+      "bytes": 48429
+    },
+    {
+      "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V03_DEEP_READING.md",
+      "sha256": "cb7b25438d6e3851bbbc5de08b85260d72c3cfc24ad823dfc6f6778d5a8e5467",
+      "bytes": 54677
+    },
+    {
+      "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V04_DEEP_READING.md",
+      "sha256": "aded13bbdfe3beecb5aaf049e8588ee05e4e5801c4a029c5aae29825997a6494",
+      "bytes": 55108
+    },
+    {
+      "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V05_DEEP_READING.md",
+      "sha256": "87aeb98948855b232d3f9ddd97cde252c0488f31c4c8a6583621a44504f9f247",
+      "bytes": 62512
+    },
+    {
+      "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V06_5_SUPPLEMENTAL_READING.md",
+      "sha256": "06728c4a1bdaf77316851272c4796dc64139909fba154357d9bfb5449f83df9a",
+      "bytes": 34031
+    },
+    {
+      "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V06_DEEP_READING.md",
+      "sha256": "7d978cfc38a585cb3fa1eaee341cf8fdffe1ad5502dc69bebe1e95612f9612bc",
+      "bytes": 57844
+    },
+    {
+      "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V07_DEEP_READING.md",
+      "sha256": "ce618c9a0752eac3f6487200a31885c9cf6d7bddf0c720218f22c6646296c7f3",
+      "bytes": 67696
+    },
+    {
+      "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V08_5_SUPPLEMENTAL_READING.md",
+      "sha256": "361aa4fdff9017509b8f17adf5f0d643beca8fd3d205f92427de900df96ad000",
+      "bytes": 39200
+    },
+    {
+      "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V08_DEEP_READING.md",
+      "sha256": "e50cfcade097c9a1494d69bfcfa56cfbdbcca0dff4b3721f5f3d1b20abb30f50",
+      "bytes": 50690
+    },
+    {
+      "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V09_DEEP_READING.md",
+      "sha256": "de0f6cb344479360d1dffdc8b4de0b3ba9d0a3bc4f78d1868553820bb1f6d6cb",
+      "bytes": 60208
+    },
+    {
+      "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V10_DEEP_READING.md",
+      "sha256": "e0f5bc615620cbab8910706ec32bf68789adf77a987bdd6c6f5fd38c59d8477d",
+      "bytes": 57797
+    },
+    {
+      "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V11_DEEP_READING.md",
+      "sha256": "c83ad4add9cb4f294fa66cb6cb9d43f876eb1c4fb869cfc30e68f8e7b6b701c8",
+      "bytes": 75055
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Hinami Aoi/HINAMI_AOI_CHARACTER_MONOGRAPH.md",
+      "sha256": "c2f282be418067a87d8deef1078f5451c15d4b9bfc8bd80bc55d4288abeeefee",
+      "bytes": 19791
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Izumi Yuzu/IZUMI_YUZU_CHARACTER_MONOGRAPH.md",
+      "sha256": "c9f12088cdfd6601e0fd2ff8218b5062c721213abc05850af9e8ab1ba3e0675f",
+      "bytes": 14055
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Kikuchi Fuka/KIKUCHI_FUKA_CHARACTER_MONOGRAPH.md",
+      "sha256": "a1a872aec10f3a139cce8148de9239fd1e15a53ed75b4c0b130d39827b0c5579",
+      "bytes": 17608
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Mizusawa Takahiro/MIZUSAWA_TAKAHIRO_CHARACTER_MONOGRAPH.md",
+      "sha256": "b6630829c63eb45d25a2b07548108f1ad099e43503d3ef986be146f9adbbd4f9",
+      "bytes": 14379
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Nanami Minami/NANAMI_MINAMI_CHARACTER_MONOGRAPH.md",
+      "sha256": "5a54c6e9e12541e43a915361bd43bc4d28e19d58326df1113742054c2fc447dd",
+      "bytes": 15652
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Natsubayashi Hanabi/NATSUBAYASHI_HANABI_CHARACTER_MONOGRAPH.md",
+      "sha256": "54cdb45a75011a45348c2c873f19c8fc485e1525cc04e4572acbdb0d87d926cc",
+      "bytes": 13671
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/README.md",
+      "sha256": "0184f8bc0cd40c327385b7718583bf1ce307ee285e62d11d3f85e554e5d6a031",
+      "bytes": 4630
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Tomozaki Fumiya/TOMOZAKI_FUMIYA_CHARACTER_MONOGRAPH.md",
+      "sha256": "2304412bd1ebf61ff71e834eb06fed777281f0088510d5bc28df52e99ccd5e3e",
+      "bytes": 20975
+    },
+    {
+      "path": "series/tomozaki/05 Full-Series Synthesis/TOMOZAKI_FULL_SERIES_SYNTHESIS.md",
+      "sha256": "6e51ba07492b46cf824909ab420704d988d6f48352ea4cdda3c536fc324ca27f",
+      "bytes": 53526
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ARCHITECTURE_AND_SYNTHESIS_ROLE_GAP_AUDIT.md",
+      "sha256": "db46bb7025f6d0118ee82d1f5dffb18d9bf548c555dfdcc417c76f5ed594636e",
+      "bytes": 75367
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_BOOTSTRAP_PATH_MANIFEST.json",
+      "sha256": "631e63ab19094c41f45816a91e3c99afafbcf625b744abe937f329a6f2717615",
+      "bytes": 3037
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_FULL_SERIES_SYNTHESIS_VALIDATION_AUDIT.md",
+      "sha256": "baf738301c4b882d6116e64910be9e0176a4eace442dbba1a1abed301f9b4e37",
+      "bytes": 9786
+    }
+  ],
+  "validation_receipts": {
+    "independent_semantic_review": "PASS; longitudinal and source-locator audits own review scope and limits",
+    "scope_identity_preservation_links_tables": "PASS",
+    "source_checks": {
+      "locked_epub_hash_byte_crc_count": 13,
+      "paragraph_specific_diagnostics": 92,
+      "reviewed_escalation_queues": 12,
+      "voice_rows": 24,
+      "locator_records": 49
+    },
+    "local_repository_validator": "REQUIRED_BEFORE_COMMIT; result is recorded in the published commit message and source-audit run",
+    "publication": "REQUIRES successful source audit, completed housekeeping, successful exact-final-head Repository integration audit; this pre-publication manifest does not predict CI results",
+    "literary_release": "NOT_PASSED; R04-R12 literary work remains deferred"
+  }
+}

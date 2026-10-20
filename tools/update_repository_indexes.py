@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import argparse
+import json
 import re
 from pathlib import Path
 from typing import Any, Mapping
@@ -13,17 +14,26 @@ from character_index_core import (
     GitSnapshot,
     SnapshotEntry,
     atomic_write_text,
+    _restricted_yaml_load,
     decode_json,
+    read_blob_objects,
     run_git,
 )
 
 
+AUTHORITY_STATE = "governance/AUTHORITY_STATE.yaml"
 SERIES_REGISTRY = "series/registry.json"
 STUDY_REGISTRY = "studies/registry.json"
 CHANGE_OBLIGATIONS = "governance/repository-controls/change-obligations.json"
 SERIES_README = "series/README.md"
 STUDIES_README = "studies/README.md"
 CORPUS_INDEX = "governance/MANGA_ANIME_CORPUS_INDEX.md"
+# Housekeeping's complete write set: the two registries and the three catalogs
+# rendered from them. Tools import this constant; the standalone nightly
+# controller keeps a copy that a regression test binds to it.
+ROUTING_OUTPUTS = frozenset(
+    {SERIES_REGISTRY, STUDY_REGISTRY, SERIES_README, STUDIES_README, CORPUS_INDEX}
+)
 SERIES_SCHEMA = "anime-manga-ln-games-analysis/series-registry/v2"
 STUDY_SCHEMA = "anime-manga-ln-games-analysis/study-registry/v1"
 
@@ -44,6 +54,7 @@ CORPUS_STUDY_MARKERS = (
     "<!-- END GENERATED CORPUS STUDY CATALOG -->",
 )
 CONTENT_PATHS = {
+    AUTHORITY_STATE,
     SERIES_REGISTRY,
     STUDY_REGISTRY,
     SERIES_README,
@@ -73,22 +84,33 @@ def _registry_entrypoints(entries: Mapping[str, SnapshotEntry]) -> set[str]:
 
 def _entries_from_index(root: Path) -> dict[str, SnapshotEntry]:
     entries: dict[str, SnapshotEntry] = {}
+    objects: dict[str, str] = {}
     raw = run_git(root, "ls-files", "--stage", "-z")
     for item in raw.split(b"\0"):
         if not item:
             continue
         metadata, raw_path = item.split(b"\t", 1)
-        mode, _oid, stage = metadata.decode("ascii").split(" ")
+        mode, oid, stage = metadata.decode("ascii").split(" ")
         path = raw_path.decode("utf-8", "strict")
         if stage != "0":
             raise DomainError(f"unmerged index entry: {path}")
-        data = run_git(root, "show", f":{path}") if path in CONTENT_PATHS else b""
-        entries[path] = SnapshotEntry(path, mode, data)
-    for path in _registry_entrypoints(entries):
-        if path in entries:
-            entry = entries[path]
-            entries[path] = SnapshotEntry(path, entry.mode, run_git(root, "show", f":{path}"))
+        objects[path] = oid
+        entries[path] = SnapshotEntry(path, mode, b"")
+    _load_selected_blobs(root, entries, objects, CONTENT_PATHS)
+    _load_selected_blobs(root, entries, objects, _registry_entrypoints(entries) - CONTENT_PATHS)
+    if run_git(root, "ls-files", "--stage", "-z") != raw:
+        raise DomainError("Git index changed during catalog snapshot acquisition")
     return entries
+
+
+def _load_selected_blobs(
+    root: Path, entries: dict[str, SnapshotEntry], objects: Mapping[str, str], paths: set[str]
+) -> None:
+    selected = sorted(paths & entries.keys())
+    blobs = read_blob_objects(root, (objects[path] for path in selected))
+    for path in selected:
+        entry = entries[path]
+        entries[path] = SnapshotEntry(path, entry.mode, blobs[objects[path]], entry.tracked)
 
 
 def _entries_from_commit(root: Path, commit: str) -> dict[str, SnapshotEntry]:
@@ -99,24 +121,18 @@ def _entries_from_commit(root: Path, commit: str) -> dict[str, SnapshotEntry]:
     if run_git(root, "cat-file", "-t", commit).decode().strip() != "commit":
         raise DomainError("basis object is not a commit")
     entries: dict[str, SnapshotEntry] = {}
+    objects: dict[str, str] = {}
     raw = run_git(root, "ls-tree", "-r", "-z", "--full-tree", commit)
     for item in raw.split(b"\0"):
         if not item:
             continue
         metadata, raw_path = item.split(b"\t", 1)
-        mode, kind, _oid = metadata.decode("ascii").split(" ")
+        mode, kind, oid = metadata.decode("ascii").split(" ")
         path = raw_path.decode("utf-8", "strict")
-        data = run_git(root, "show", f"{commit}:{path}") if path in CONTENT_PATHS else b""
-        entries[path] = SnapshotEntry(path, mode, data, tracked=kind == "blob")
-    for path in _registry_entrypoints(entries):
-        if path in entries:
-            entry = entries[path]
-            entries[path] = SnapshotEntry(
-                path,
-                entry.mode,
-                run_git(root, "show", f"{commit}:{path}"),
-                tracked=entry.tracked,
-            )
+        objects[path] = oid
+        entries[path] = SnapshotEntry(path, mode, b"", tracked=kind == "blob")
+    _load_selected_blobs(root, entries, objects, CONTENT_PATHS)
+    _load_selected_blobs(root, entries, objects, _registry_entrypoints(entries) - CONTENT_PATHS)
     return entries
 
 
@@ -304,12 +320,20 @@ def _replace_generated_block(
 
 
 def expected_outputs(snapshot: GitSnapshot) -> dict[str, bytes]:
+    authority = snapshot.get(AUTHORITY_STATE)
+    if authority is None or not authority.qualifies_as_evidence:
+        raise DomainError("catalog generation requires the selected live authority state")
+    state = _restricted_yaml_load(authority.data.decode("utf-8", "strict"), AUTHORITY_STATE)
+    if not isinstance(state, Mapping) or not isinstance(state.get("state"), str) or not state["state"].strip():
+        raise DomainError("catalog generation requires a nonempty authority state")
     series_rows = _root_rows(
         _registry_rows(snapshot, SERIES_REGISTRY, "series", SERIES_SCHEMA), "series/"
     )
     study_rows = _root_rows(
         _registry_rows(snapshot, STUDY_REGISTRY, "studies", STUDY_SCHEMA), "studies/"
     )
+    registry = decode_json(snapshot.entries[SERIES_REGISTRY].data, SERIES_REGISTRY)
+    registry["status"] = state["state"]
     required_documents = (SERIES_README, STUDIES_README, CORPUS_INDEX)
     missing = [path for path in required_documents if snapshot.get(path) is None]
     if missing:
@@ -340,6 +364,7 @@ def expected_outputs(snapshot: GitSnapshot) -> dict[str, bytes]:
         render_corpus_studies(study_rows),
     )
     return {
+        SERIES_REGISTRY: (json.dumps(registry, ensure_ascii=False, indent=2) + "\n").encode("utf-8"),
         SERIES_README: series_readme,
         STUDIES_README: studies_readme,
         CORPUS_INDEX: corpus_index,

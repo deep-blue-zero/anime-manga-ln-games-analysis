@@ -1,0 +1,1501 @@
+{
+  "schema": "VERITAS_CURRENT105_EXACT_TARGET_PURPOSE_PARTS_AND_LITERAL_BODY_BINDINGS_V1",
+  "author": "/root/m008_composition_review",
+  "created_actual_UTC": "2026-10-14T00:16:37.712715+00:00",
+  "existing_required_home": "P3-INST-VERITAS-TECHNICAL-CARE-RECIPIENT-PRIVACY",
+  "mandatory_embedded_responsibility": "P3-XMI-E001",
+  "additional_required_or_named_denominator": 0,
+  "fixed_scope": {
+    "required": 355,
+    "named": 29,
+    "parents": 25,
+    "homes": 384,
+    "navigation": 788,
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "next178": "UNREACHED",
+    "merge_approval": "RESERVED"
+  },
+  "independent_component_QA_ROOT_receiving_adoption_installation_publication": "PENDING_SEPARATE",
+  "new_source_primary_native_raw_AV_identity_model_or_canonical_package_credit": 0,
+  "body": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_INSTITUTIONAL_SYNTHESIS.md",
+    "bytes": 49854,
+    "sha256": "d0999a4f2fca5a7de0c4db54c408fa1d70bd1c1860d494dc195493ffd9979016",
+    "git_blob_oid_of_actual_bytes": "17403be665e8ca6e5c755d23dccec7dd0966df5b",
+    "physical_lines": 205,
+    "paragraph_ids": [
+      "VCLAIM001",
+      "VCLAIM002",
+      "VCLAIM003",
+      "VCLAIM004",
+      "VCLAIM005",
+      "VCLAIM006",
+      "VCLAIM007",
+      "VCLAIM008",
+      "VCLAIM009",
+      "VCLAIM010",
+      "VCLAIM011",
+      "VCLAIM012",
+      "VCLAIM013",
+      "VCLAIM014",
+      "VCLAIM015",
+      "VCLAIM016",
+      "VCLAIM017",
+      "VCLAIM018",
+      "VCLAIM019",
+      "VCLAIM020",
+      "VCLAIM021",
+      "VCLAIM022",
+      "VCLAIM023",
+      "VCLAIM024",
+      "VCLAIM025",
+      "VCLAIM026",
+      "VCLAIM027",
+      "VCLAIM028",
+      "VCLAIM029",
+      "VCLAIM030",
+      "VCLAIM031",
+      "VCLAIM032",
+      "VCLAIM033",
+      "VCLAIM034",
+      "VCLAIM035",
+      "VCLAIM036",
+      "VCLAIM037",
+      "VCLAIM038",
+      "VCLAIM039",
+      "VCLAIM040",
+      "VCLAIM041",
+      "VCLAIM042",
+      "VCLAIM043",
+      "VCLAIM044",
+      "VCLAIM045",
+      "VCLAIM046",
+      "VCLAIM047",
+      "VCLAIM048",
+      "VCLAIM049",
+      "VCLAIM050",
+      "VCLAIM051",
+      "VCLAIM052"
+    ],
+    "creation_frontmatter_history": "Original V1 frontmatter/prose retained exactly. Current V2 removes only terminal emptyline201, preserves first200 lines, and does not rewrite dated review/preparation status."
+  },
+  "source_receiving": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_INPUT_SOURCE7_GRADE_AND_CURRENT105_QUALIFIER_RECEIVING_V1.json",
+    "bytes": 96330,
+    "sha256": "010dfd2652711bb69cb8b3af08285437ae15789460b3e86f0c8b38fab358ac6b",
+    "git_blob_oid_of_actual_bytes": "ff28b196c388a2f2cf924973c1de38fc8c10dc95"
+  },
+  "parts": [
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json",
+      "bytes": 279058,
+      "sha256": "ac4d5aa0fe867e53914df9f1505996180edfa72004b665b40432200f4f7e1c2d",
+      "git_blob_oid_of_actual_bytes": "32f6032b9d3ba7736c3b477f8bc59b962d91e5b1",
+      "owners": [
+        "O000",
+        "O001",
+        "O002",
+        "O003",
+        "O004",
+        "O005",
+        "O006",
+        "O007",
+        "O008",
+        "O009",
+        "O010",
+        "O011",
+        "O012",
+        "O013",
+        "O014",
+        "O015",
+        "O016",
+        "O017",
+        "O018",
+        "O019",
+        "O020",
+        "O021",
+        "O022",
+        "O023",
+        "O024",
+        "O025",
+        "O026",
+        "O027",
+        "O028",
+        "O029",
+        "O030",
+        "O031",
+        "O032",
+        "O033",
+        "O034",
+        "O035"
+      ],
+      "purposes": [
+        "VP000",
+        "VP001",
+        "VP002",
+        "VP003",
+        "VP004",
+        "VP005",
+        "VP006",
+        "VP007",
+        "VP008",
+        "VP009",
+        "VP010",
+        "VP011",
+        "VP012",
+        "VP013",
+        "VP014",
+        "VP015",
+        "VP016",
+        "VP017",
+        "VP018",
+        "VP019",
+        "VP020",
+        "VP021",
+        "VP022",
+        "VP023",
+        "VP024",
+        "VP025",
+        "VP026",
+        "VP027",
+        "VP028",
+        "VP029",
+        "VP030",
+        "VP031",
+        "VP032",
+        "VP033",
+        "VP034",
+        "VP035"
+      ]
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json",
+      "bytes": 416682,
+      "sha256": "519ecde5c1df08b8aa4a1493aff46dec2490dfe45956faa6475d78ed5d11589a",
+      "git_blob_oid_of_actual_bytes": "fb6fa9fe1bb6baea392828a593b411a805b1bb20",
+      "owners": [
+        "O036",
+        "O037",
+        "O038",
+        "O039",
+        "O040",
+        "O041",
+        "O042",
+        "O043",
+        "O044",
+        "O045",
+        "O046",
+        "O047",
+        "O048",
+        "O049",
+        "O050",
+        "O051",
+        "O052",
+        "O053",
+        "O054",
+        "O055",
+        "O056",
+        "O057",
+        "O058",
+        "O059",
+        "O060",
+        "O061",
+        "O062",
+        "O063",
+        "O064",
+        "O065",
+        "O066",
+        "O067",
+        "O068",
+        "O069",
+        "O070"
+      ],
+      "purposes": [
+        "VP036",
+        "VP037",
+        "VP038",
+        "VP039",
+        "VP040",
+        "VP041",
+        "VP042",
+        "VP043",
+        "VP044",
+        "VP045",
+        "VP046",
+        "VP047",
+        "VP048",
+        "VP049",
+        "VP050",
+        "VP051",
+        "VP052",
+        "VP053",
+        "VP054",
+        "VP055",
+        "VP056",
+        "VP057",
+        "VP058",
+        "VP059",
+        "VP060",
+        "VP061",
+        "VP062",
+        "VP063",
+        "VP064",
+        "VP065",
+        "VP066",
+        "VP067",
+        "VP068",
+        "VP069",
+        "VP070"
+      ]
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json",
+      "bytes": 580583,
+      "sha256": "251c0724f9398a56331581ff74ec113f064b04a32fb40d668aa3a217b29ff459",
+      "git_blob_oid_of_actual_bytes": "1f72783264c17afa13754aa64ed75cb5df750f69",
+      "owners": [
+        "O071",
+        "O072",
+        "O073",
+        "O074",
+        "O075",
+        "O076",
+        "O077",
+        "O078",
+        "O079",
+        "O080",
+        "O081",
+        "O082",
+        "O083",
+        "O084",
+        "O085",
+        "O086",
+        "O087",
+        "O088",
+        "O089",
+        "O090",
+        "O091",
+        "O092",
+        "O093",
+        "O094",
+        "O095",
+        "O096",
+        "O097",
+        "O098",
+        "O099",
+        "O100",
+        "O101",
+        "O102",
+        "O103",
+        "O104"
+      ],
+      "purposes": [
+        "VP071",
+        "VP072",
+        "VP073",
+        "VP074",
+        "VP075",
+        "VP076",
+        "VP077",
+        "VP078",
+        "VP079",
+        "VP080",
+        "VP081",
+        "VP082",
+        "VP083",
+        "VP084",
+        "VP085",
+        "VP086",
+        "VP087",
+        "VP088",
+        "VP089",
+        "VP090",
+        "VP091",
+        "VP092",
+        "VP093",
+        "VP094",
+        "VP095",
+        "VP096",
+        "VP097",
+        "VP098",
+        "VP099",
+        "VP100",
+        "VP101",
+        "VP102",
+        "VP103",
+        "VP104"
+      ]
+    }
+  ],
+  "records": [
+    {
+      "owner_id": "O000",
+      "veritas_purpose_id": "VP000",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json#/records/0",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json#/records/0",
+      "body_claims": [
+        "VCLAIM010",
+        "VCLAIM036",
+        "VCLAIM041"
+      ]
+    },
+    {
+      "owner_id": "O001",
+      "veritas_purpose_id": "VP001",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json#/records/1",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json#/records/1",
+      "body_claims": [
+        "VCLAIM003",
+        "VCLAIM017",
+        "VCLAIM042"
+      ]
+    },
+    {
+      "owner_id": "O002",
+      "veritas_purpose_id": "VP002",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json#/records/2",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json#/records/2",
+      "body_claims": [
+        "VCLAIM017",
+        "VCLAIM033",
+        "VCLAIM048"
+      ]
+    },
+    {
+      "owner_id": "O003",
+      "veritas_purpose_id": "VP003",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json#/records/3",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json#/records/3",
+      "body_claims": [
+        "VCLAIM009",
+        "VCLAIM012",
+        "VCLAIM047"
+      ]
+    },
+    {
+      "owner_id": "O004",
+      "veritas_purpose_id": "VP004",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json#/records/4",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json#/records/4",
+      "body_claims": [
+        "VCLAIM005",
+        "VCLAIM007",
+        "VCLAIM019",
+        "VCLAIM029"
+      ]
+    },
+    {
+      "owner_id": "O005",
+      "veritas_purpose_id": "VP005",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json#/records/5",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json#/records/5",
+      "body_claims": [
+        "VCLAIM006",
+        "VCLAIM012",
+        "VCLAIM036",
+        "VCLAIM047"
+      ]
+    },
+    {
+      "owner_id": "O006",
+      "veritas_purpose_id": "VP006",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json#/records/6",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json#/records/6",
+      "body_claims": [
+        "VCLAIM012",
+        "VCLAIM019",
+        "VCLAIM022"
+      ]
+    },
+    {
+      "owner_id": "O007",
+      "veritas_purpose_id": "VP007",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json#/records/7",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json#/records/7",
+      "body_claims": [
+        "VCLAIM014",
+        "VCLAIM025",
+        "VCLAIM041"
+      ]
+    },
+    {
+      "owner_id": "O008",
+      "veritas_purpose_id": "VP008",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json#/records/8",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json#/records/8",
+      "body_claims": [
+        "VCLAIM009",
+        "VCLAIM010",
+        "VCLAIM004"
+      ]
+    },
+    {
+      "owner_id": "O009",
+      "veritas_purpose_id": "VP009",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json#/records/9",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json#/records/9",
+      "body_claims": [
+        "VCLAIM018",
+        "VCLAIM025",
+        "VCLAIM042"
+      ]
+    },
+    {
+      "owner_id": "O010",
+      "veritas_purpose_id": "VP010",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json#/records/10",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json#/records/10",
+      "body_claims": [
+        "VCLAIM021",
+        "VCLAIM029",
+        "VCLAIM034"
+      ]
+    },
+    {
+      "owner_id": "O011",
+      "veritas_purpose_id": "VP011",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json#/records/11",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json#/records/11",
+      "body_claims": [
+        "VCLAIM008",
+        "VCLAIM031",
+        "VCLAIM051"
+      ]
+    },
+    {
+      "owner_id": "O012",
+      "veritas_purpose_id": "VP012",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json#/records/12",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json#/records/12",
+      "body_claims": [
+        "VCLAIM016",
+        "VCLAIM035",
+        "VCLAIM041"
+      ]
+    },
+    {
+      "owner_id": "O013",
+      "veritas_purpose_id": "VP013",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json#/records/13",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json#/records/13",
+      "body_claims": [
+        "VCLAIM012",
+        "VCLAIM037",
+        "VCLAIM043"
+      ]
+    },
+    {
+      "owner_id": "O014",
+      "veritas_purpose_id": "VP014",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json#/records/14",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json#/records/14",
+      "body_claims": [
+        "VCLAIM014",
+        "VCLAIM018",
+        "VCLAIM026"
+      ]
+    },
+    {
+      "owner_id": "O015",
+      "veritas_purpose_id": "VP015",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json#/records/15",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json#/records/15",
+      "body_claims": [
+        "VCLAIM013",
+        "VCLAIM017",
+        "VCLAIM027"
+      ]
+    },
+    {
+      "owner_id": "O016",
+      "veritas_purpose_id": "VP016",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json#/records/16",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json#/records/16",
+      "body_claims": [
+        "VCLAIM019",
+        "VCLAIM021",
+        "VCLAIM027"
+      ]
+    },
+    {
+      "owner_id": "O017",
+      "veritas_purpose_id": "VP017",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json#/records/17",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json#/records/17",
+      "body_claims": [
+        "VCLAIM011",
+        "VCLAIM029",
+        "VCLAIM047"
+      ]
+    },
+    {
+      "owner_id": "O018",
+      "veritas_purpose_id": "VP018",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json#/records/18",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json#/records/18",
+      "body_claims": [
+        "VCLAIM023",
+        "VCLAIM027",
+        "VCLAIM043"
+      ]
+    },
+    {
+      "owner_id": "O019",
+      "veritas_purpose_id": "VP019",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json#/records/19",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json#/records/19",
+      "body_claims": [
+        "VCLAIM014",
+        "VCLAIM022",
+        "VCLAIM052"
+      ]
+    },
+    {
+      "owner_id": "O020",
+      "veritas_purpose_id": "VP020",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json#/records/20",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json#/records/20",
+      "body_claims": [
+        "VCLAIM010",
+        "VCLAIM029",
+        "VCLAIM040"
+      ]
+    },
+    {
+      "owner_id": "O021",
+      "veritas_purpose_id": "VP021",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json#/records/21",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json#/records/21",
+      "body_claims": [
+        "VCLAIM006",
+        "VCLAIM027",
+        "VCLAIM047"
+      ]
+    },
+    {
+      "owner_id": "O022",
+      "veritas_purpose_id": "VP022",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json#/records/22",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json#/records/22",
+      "body_claims": [
+        "VCLAIM013",
+        "VCLAIM027",
+        "VCLAIM037"
+      ]
+    },
+    {
+      "owner_id": "O023",
+      "veritas_purpose_id": "VP023",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json#/records/23",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json#/records/23",
+      "body_claims": [
+        "VCLAIM012",
+        "VCLAIM025",
+        "VCLAIM039"
+      ]
+    },
+    {
+      "owner_id": "O024",
+      "veritas_purpose_id": "VP024",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json#/records/24",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json#/records/24",
+      "body_claims": [
+        "VCLAIM003",
+        "VCLAIM025",
+        "VCLAIM035"
+      ]
+    },
+    {
+      "owner_id": "O025",
+      "veritas_purpose_id": "VP025",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json#/records/25",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json#/records/25",
+      "body_claims": [
+        "VCLAIM004",
+        "VCLAIM014",
+        "VCLAIM048"
+      ]
+    },
+    {
+      "owner_id": "O026",
+      "veritas_purpose_id": "VP026",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json#/records/26",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json#/records/26",
+      "body_claims": [
+        "VCLAIM014",
+        "VCLAIM041",
+        "VCLAIM044"
+      ]
+    },
+    {
+      "owner_id": "O027",
+      "veritas_purpose_id": "VP027",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json#/records/27",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json#/records/27",
+      "body_claims": [
+        "VCLAIM014",
+        "VCLAIM021",
+        "VCLAIM026"
+      ]
+    },
+    {
+      "owner_id": "O028",
+      "veritas_purpose_id": "VP028",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json#/records/28",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json#/records/28",
+      "body_claims": [
+        "VCLAIM009",
+        "VCLAIM026",
+        "VCLAIM051"
+      ]
+    },
+    {
+      "owner_id": "O029",
+      "veritas_purpose_id": "VP029",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json#/records/29",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json#/records/29",
+      "body_claims": [
+        "VCLAIM017",
+        "VCLAIM018",
+        "VCLAIM021"
+      ]
+    },
+    {
+      "owner_id": "O030",
+      "veritas_purpose_id": "VP030",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json#/records/30",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json#/records/30",
+      "body_claims": [
+        "VCLAIM003",
+        "VCLAIM019",
+        "VCLAIM051"
+      ]
+    },
+    {
+      "owner_id": "O031",
+      "veritas_purpose_id": "VP031",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json#/records/31",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json#/records/31",
+      "body_claims": [
+        "VCLAIM010",
+        "VCLAIM024",
+        "VCLAIM041"
+      ]
+    },
+    {
+      "owner_id": "O032",
+      "veritas_purpose_id": "VP032",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json#/records/32",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json#/records/32",
+      "body_claims": [
+        "VCLAIM025",
+        "VCLAIM028",
+        "VCLAIM044"
+      ]
+    },
+    {
+      "owner_id": "O033",
+      "veritas_purpose_id": "VP033",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json#/records/33",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json#/records/33",
+      "body_claims": [
+        "VCLAIM012",
+        "VCLAIM020",
+        "VCLAIM051"
+      ]
+    },
+    {
+      "owner_id": "O034",
+      "veritas_purpose_id": "VP034",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json#/records/34",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json#/records/34",
+      "body_claims": [
+        "VCLAIM012",
+        "VCLAIM019",
+        "VCLAIM047"
+      ]
+    },
+    {
+      "owner_id": "O035",
+      "veritas_purpose_id": "VP035",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json#/records/35",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json#/records/35",
+      "body_claims": [
+        "VCLAIM013",
+        "VCLAIM021",
+        "VCLAIM037"
+      ]
+    },
+    {
+      "owner_id": "O036",
+      "veritas_purpose_id": "VP036",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json#/records/0",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json#/records/0",
+      "body_claims": [
+        "VCLAIM009",
+        "VCLAIM010",
+        "VCLAIM023",
+        "VCLAIM043"
+      ]
+    },
+    {
+      "owner_id": "O037",
+      "veritas_purpose_id": "VP037",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json#/records/1",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json#/records/1",
+      "body_claims": [
+        "VCLAIM016",
+        "VCLAIM028",
+        "VCLAIM041",
+        "VCLAIM051"
+      ]
+    },
+    {
+      "owner_id": "O038",
+      "veritas_purpose_id": "VP038",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json#/records/2",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json#/records/2",
+      "body_claims": [
+        "VCLAIM009",
+        "VCLAIM014",
+        "VCLAIM036"
+      ]
+    },
+    {
+      "owner_id": "O039",
+      "veritas_purpose_id": "VP039",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json#/records/3",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json#/records/3",
+      "body_claims": [
+        "VCLAIM006",
+        "VCLAIM011",
+        "VCLAIM021"
+      ]
+    },
+    {
+      "owner_id": "O040",
+      "veritas_purpose_id": "VP040",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json#/records/4",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json#/records/4",
+      "body_claims": [
+        "VCLAIM006",
+        "VCLAIM020",
+        "VCLAIM026"
+      ]
+    },
+    {
+      "owner_id": "O041",
+      "veritas_purpose_id": "VP041",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json#/records/5",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json#/records/5",
+      "body_claims": [
+        "VCLAIM011",
+        "VCLAIM024",
+        "VCLAIM030"
+      ]
+    },
+    {
+      "owner_id": "O042",
+      "veritas_purpose_id": "VP042",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json#/records/6",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json#/records/6",
+      "body_claims": [
+        "VCLAIM024",
+        "VCLAIM041",
+        "VCLAIM043"
+      ]
+    },
+    {
+      "owner_id": "O043",
+      "veritas_purpose_id": "VP043",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json#/records/7",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json#/records/7",
+      "body_claims": [
+        "VCLAIM010",
+        "VCLAIM023",
+        "VCLAIM041"
+      ]
+    },
+    {
+      "owner_id": "O044",
+      "veritas_purpose_id": "VP044",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json#/records/8",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json#/records/8",
+      "body_claims": [
+        "VCLAIM014",
+        "VCLAIM021",
+        "VCLAIM022"
+      ]
+    },
+    {
+      "owner_id": "O045",
+      "veritas_purpose_id": "VP045",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json#/records/9",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json#/records/9",
+      "body_claims": [
+        "VCLAIM019",
+        "VCLAIM021",
+        "VCLAIM025"
+      ]
+    },
+    {
+      "owner_id": "O046",
+      "veritas_purpose_id": "VP046",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json#/records/10",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json#/records/10",
+      "body_claims": [
+        "VCLAIM013",
+        "VCLAIM027",
+        "VCLAIM031"
+      ]
+    },
+    {
+      "owner_id": "O047",
+      "veritas_purpose_id": "VP047",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json#/records/11",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json#/records/11",
+      "body_claims": [
+        "VCLAIM003",
+        "VCLAIM014",
+        "VCLAIM021"
+      ]
+    },
+    {
+      "owner_id": "O048",
+      "veritas_purpose_id": "VP048",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json#/records/12",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json#/records/12",
+      "body_claims": [
+        "VCLAIM008",
+        "VCLAIM019",
+        "VCLAIM031"
+      ]
+    },
+    {
+      "owner_id": "O049",
+      "veritas_purpose_id": "VP049",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json#/records/13",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json#/records/13",
+      "body_claims": [
+        "VCLAIM017",
+        "VCLAIM019",
+        "VCLAIM027"
+      ]
+    },
+    {
+      "owner_id": "O050",
+      "veritas_purpose_id": "VP050",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json#/records/14",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json#/records/14",
+      "body_claims": [
+        "VCLAIM008",
+        "VCLAIM021",
+        "VCLAIM026"
+      ]
+    },
+    {
+      "owner_id": "O051",
+      "veritas_purpose_id": "VP051",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json#/records/15",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json#/records/15",
+      "body_claims": [
+        "VCLAIM013",
+        "VCLAIM017",
+        "VCLAIM027"
+      ]
+    },
+    {
+      "owner_id": "O052",
+      "veritas_purpose_id": "VP052",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json#/records/16",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json#/records/16",
+      "body_claims": [
+        "VCLAIM022",
+        "VCLAIM025",
+        "VCLAIM026"
+      ]
+    },
+    {
+      "owner_id": "O053",
+      "veritas_purpose_id": "VP053",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json#/records/17",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json#/records/17",
+      "body_claims": [
+        "VCLAIM008",
+        "VCLAIM028",
+        "VCLAIM051"
+      ]
+    },
+    {
+      "owner_id": "O054",
+      "veritas_purpose_id": "VP054",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json#/records/18",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json#/records/18",
+      "body_claims": [
+        "VCLAIM008",
+        "VCLAIM019",
+        "VCLAIM021"
+      ]
+    },
+    {
+      "owner_id": "O055",
+      "veritas_purpose_id": "VP055",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json#/records/19",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json#/records/19",
+      "body_claims": [
+        "VCLAIM014",
+        "VCLAIM025",
+        "VCLAIM026"
+      ]
+    },
+    {
+      "owner_id": "O056",
+      "veritas_purpose_id": "VP056",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json#/records/20",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json#/records/20",
+      "body_claims": [
+        "VCLAIM011",
+        "VCLAIM013",
+        "VCLAIM030"
+      ]
+    },
+    {
+      "owner_id": "O057",
+      "veritas_purpose_id": "VP057",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json#/records/21",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json#/records/21",
+      "body_claims": [
+        "VCLAIM012",
+        "VCLAIM022",
+        "VCLAIM047"
+      ]
+    },
+    {
+      "owner_id": "O058",
+      "veritas_purpose_id": "VP058",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json#/records/22",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json#/records/22",
+      "body_claims": [
+        "VCLAIM012",
+        "VCLAIM036",
+        "VCLAIM041"
+      ]
+    },
+    {
+      "owner_id": "O059",
+      "veritas_purpose_id": "VP059",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json#/records/23",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json#/records/23",
+      "body_claims": [
+        "VCLAIM014",
+        "VCLAIM035",
+        "VCLAIM052"
+      ]
+    },
+    {
+      "owner_id": "O060",
+      "veritas_purpose_id": "VP060",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json#/records/24",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json#/records/24",
+      "body_claims": [
+        "VCLAIM019",
+        "VCLAIM028",
+        "VCLAIM051"
+      ]
+    },
+    {
+      "owner_id": "O061",
+      "veritas_purpose_id": "VP061",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json#/records/25",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json#/records/25",
+      "body_claims": [
+        "VCLAIM009",
+        "VCLAIM012",
+        "VCLAIM040"
+      ]
+    },
+    {
+      "owner_id": "O062",
+      "veritas_purpose_id": "VP062",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json#/records/26",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json#/records/26",
+      "body_claims": [
+        "VCLAIM014",
+        "VCLAIM025",
+        "VCLAIM041"
+      ]
+    },
+    {
+      "owner_id": "O063",
+      "veritas_purpose_id": "VP063",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json#/records/27",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json#/records/27",
+      "body_claims": [
+        "VCLAIM008",
+        "VCLAIM019",
+        "VCLAIM047"
+      ]
+    },
+    {
+      "owner_id": "O064",
+      "veritas_purpose_id": "VP064",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json#/records/28",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json#/records/28",
+      "body_claims": [
+        "VCLAIM010",
+        "VCLAIM040",
+        "VCLAIM041"
+      ]
+    },
+    {
+      "owner_id": "O065",
+      "veritas_purpose_id": "VP065",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json#/records/29",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json#/records/29",
+      "body_claims": [
+        "VCLAIM011",
+        "VCLAIM030",
+        "VCLAIM052"
+      ]
+    },
+    {
+      "owner_id": "O066",
+      "veritas_purpose_id": "VP066",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json#/records/30",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json#/records/30",
+      "body_claims": [
+        "VCLAIM005",
+        "VCLAIM011",
+        "VCLAIM027"
+      ]
+    },
+    {
+      "owner_id": "O067",
+      "veritas_purpose_id": "VP067",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json#/records/31",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json#/records/31",
+      "body_claims": [
+        "VCLAIM017",
+        "VCLAIM027",
+        "VCLAIM031"
+      ]
+    },
+    {
+      "owner_id": "O068",
+      "veritas_purpose_id": "VP068",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json#/records/32",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json#/records/32",
+      "body_claims": [
+        "VCLAIM004",
+        "VCLAIM006",
+        "VCLAIM023"
+      ]
+    },
+    {
+      "owner_id": "O069",
+      "veritas_purpose_id": "VP069",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json#/records/33",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json#/records/33",
+      "body_claims": [
+        "VCLAIM013",
+        "VCLAIM017",
+        "VCLAIM021"
+      ]
+    },
+    {
+      "owner_id": "O070",
+      "veritas_purpose_id": "VP070",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json#/records/34",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json#/records/34",
+      "body_claims": [
+        "VCLAIM010",
+        "VCLAIM023",
+        "VCLAIM040",
+        "VCLAIM041"
+      ]
+    },
+    {
+      "owner_id": "O071",
+      "veritas_purpose_id": "VP071",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json#/records/0",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json#/records/0",
+      "body_claims": [
+        "VCLAIM006",
+        "VCLAIM023",
+        "VCLAIM047"
+      ]
+    },
+    {
+      "owner_id": "O072",
+      "veritas_purpose_id": "VP072",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json#/records/1",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json#/records/1",
+      "body_claims": [
+        "VCLAIM014",
+        "VCLAIM027",
+        "VCLAIM028"
+      ]
+    },
+    {
+      "owner_id": "O073",
+      "veritas_purpose_id": "VP073",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json#/records/2",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json#/records/2",
+      "body_claims": [
+        "VCLAIM009",
+        "VCLAIM037",
+        "VCLAIM043"
+      ]
+    },
+    {
+      "owner_id": "O074",
+      "veritas_purpose_id": "VP074",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json#/records/3",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json#/records/3",
+      "body_claims": [
+        "VCLAIM006",
+        "VCLAIM021",
+        "VCLAIM026"
+      ]
+    },
+    {
+      "owner_id": "O075",
+      "veritas_purpose_id": "VP075",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json#/records/4",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json#/records/4",
+      "body_claims": [
+        "VCLAIM009",
+        "VCLAIM027",
+        "VCLAIM047"
+      ]
+    },
+    {
+      "owner_id": "O076",
+      "veritas_purpose_id": "VP076",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json#/records/5",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json#/records/5",
+      "body_claims": [
+        "VCLAIM033",
+        "VCLAIM041",
+        "VCLAIM042",
+        "VCLAIM044"
+      ]
+    },
+    {
+      "owner_id": "O077",
+      "veritas_purpose_id": "VP077",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json#/records/6",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json#/records/6",
+      "body_claims": [
+        "VCLAIM011",
+        "VCLAIM030",
+        "VCLAIM037"
+      ]
+    },
+    {
+      "owner_id": "O078",
+      "veritas_purpose_id": "VP078",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json#/records/7",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json#/records/7",
+      "body_claims": [
+        "VCLAIM009",
+        "VCLAIM014",
+        "VCLAIM027"
+      ]
+    },
+    {
+      "owner_id": "O079",
+      "veritas_purpose_id": "VP079",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json#/records/8",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json#/records/8",
+      "body_claims": [
+        "VCLAIM010",
+        "VCLAIM034",
+        "VCLAIM041"
+      ]
+    },
+    {
+      "owner_id": "O080",
+      "veritas_purpose_id": "VP080",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json#/records/9",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json#/records/9",
+      "body_claims": [
+        "VCLAIM017",
+        "VCLAIM031",
+        "VCLAIM052"
+      ]
+    },
+    {
+      "owner_id": "O081",
+      "veritas_purpose_id": "VP081",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json#/records/10",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json#/records/10",
+      "body_claims": [
+        "VCLAIM006",
+        "VCLAIM022",
+        "VCLAIM047"
+      ]
+    },
+    {
+      "owner_id": "O082",
+      "veritas_purpose_id": "VP082",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json#/records/11",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json#/records/11",
+      "body_claims": [
+        "VCLAIM014",
+        "VCLAIM025",
+        "VCLAIM041"
+      ]
+    },
+    {
+      "owner_id": "O083",
+      "veritas_purpose_id": "VP083",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json#/records/12",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json#/records/12",
+      "body_claims": [
+        "VCLAIM003",
+        "VCLAIM004",
+        "VCLAIM025"
+      ]
+    },
+    {
+      "owner_id": "O084",
+      "veritas_purpose_id": "VP084",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json#/records/13",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json#/records/13",
+      "body_claims": [
+        "VCLAIM003",
+        "VCLAIM008",
+        "VCLAIM048"
+      ]
+    },
+    {
+      "owner_id": "O085",
+      "veritas_purpose_id": "VP085",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json#/records/14",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json#/records/14",
+      "body_claims": [
+        "VCLAIM026",
+        "VCLAIM027",
+        "VCLAIM042"
+      ]
+    },
+    {
+      "owner_id": "O086",
+      "veritas_purpose_id": "VP086",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json#/records/15",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json#/records/15",
+      "body_claims": [
+        "VCLAIM021",
+        "VCLAIM026",
+        "VCLAIM031"
+      ]
+    },
+    {
+      "owner_id": "O087",
+      "veritas_purpose_id": "VP087",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json#/records/16",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json#/records/16",
+      "body_claims": [
+        "VCLAIM013",
+        "VCLAIM017",
+        "VCLAIM030"
+      ]
+    },
+    {
+      "owner_id": "O088",
+      "veritas_purpose_id": "VP088",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json#/records/17",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json#/records/17",
+      "body_claims": [
+        "VCLAIM010",
+        "VCLAIM040",
+        "VCLAIM044"
+      ]
+    },
+    {
+      "owner_id": "O089",
+      "veritas_purpose_id": "VP089",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json#/records/18",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json#/records/18",
+      "body_claims": [
+        "VCLAIM018",
+        "VCLAIM047",
+        "VCLAIM050"
+      ]
+    },
+    {
+      "owner_id": "O090",
+      "veritas_purpose_id": "VP090",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json#/records/19",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json#/records/19",
+      "body_claims": [
+        "VCLAIM006",
+        "VCLAIM009",
+        "VCLAIM047"
+      ]
+    },
+    {
+      "owner_id": "O091",
+      "veritas_purpose_id": "VP091",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json#/records/20",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json#/records/20",
+      "body_claims": [
+        "VCLAIM018",
+        "VCLAIM025",
+        "VCLAIM042"
+      ]
+    },
+    {
+      "owner_id": "O092",
+      "veritas_purpose_id": "VP092",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json#/records/21",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json#/records/21",
+      "body_claims": [
+        "VCLAIM014",
+        "VCLAIM021",
+        "VCLAIM044"
+      ]
+    },
+    {
+      "owner_id": "O093",
+      "veritas_purpose_id": "VP093",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json#/records/22",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json#/records/22",
+      "body_claims": [
+        "VCLAIM009",
+        "VCLAIM037",
+        "VCLAIM043"
+      ]
+    },
+    {
+      "owner_id": "O094",
+      "veritas_purpose_id": "VP094",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json#/records/23",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json#/records/23",
+      "body_claims": [
+        "VCLAIM009",
+        "VCLAIM026",
+        "VCLAIM037",
+        "VCLAIM047"
+      ]
+    },
+    {
+      "owner_id": "O095",
+      "veritas_purpose_id": "VP095",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json#/records/24",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json#/records/24",
+      "body_claims": [
+        "VCLAIM003",
+        "VCLAIM017",
+        "VCLAIM022"
+      ]
+    },
+    {
+      "owner_id": "O096",
+      "veritas_purpose_id": "VP096",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json#/records/25",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json#/records/25",
+      "body_claims": [
+        "VCLAIM006",
+        "VCLAIM007",
+        "VCLAIM027"
+      ]
+    },
+    {
+      "owner_id": "O097",
+      "veritas_purpose_id": "VP097",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json#/records/26",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json#/records/26",
+      "body_claims": [
+        "VCLAIM013",
+        "VCLAIM017",
+        "VCLAIM027"
+      ]
+    },
+    {
+      "owner_id": "O098",
+      "veritas_purpose_id": "VP098",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json#/records/27",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json#/records/27",
+      "body_claims": [
+        "VCLAIM011",
+        "VCLAIM017",
+        "VCLAIM030",
+        "VCLAIM052"
+      ]
+    },
+    {
+      "owner_id": "O099",
+      "veritas_purpose_id": "VP099",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json#/records/28",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json#/records/28",
+      "body_claims": [
+        "VCLAIM005",
+        "VCLAIM019",
+        "VCLAIM027",
+        "VCLAIM047"
+      ]
+    },
+    {
+      "owner_id": "O100",
+      "veritas_purpose_id": "VP100",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json#/records/29",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json#/records/29",
+      "body_claims": [
+        "VCLAIM010",
+        "VCLAIM035",
+        "VCLAIM044"
+      ]
+    },
+    {
+      "owner_id": "O101",
+      "veritas_purpose_id": "VP101",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json#/records/30",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json#/records/30",
+      "body_claims": [
+        "VCLAIM004",
+        "VCLAIM009",
+        "VCLAIM027"
+      ]
+    },
+    {
+      "owner_id": "O102",
+      "veritas_purpose_id": "VP102",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json#/records/31",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json#/records/31",
+      "body_claims": [
+        "VCLAIM006",
+        "VCLAIM021",
+        "VCLAIM026"
+      ]
+    },
+    {
+      "owner_id": "O103",
+      "veritas_purpose_id": "VP103",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json#/records/32",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json#/records/32",
+      "body_claims": [
+        "VCLAIM013",
+        "VCLAIM025",
+        "VCLAIM031",
+        "VCLAIM037"
+      ]
+    },
+    {
+      "owner_id": "O104",
+      "veritas_purpose_id": "VP104",
+      "exact_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json#/records/33",
+      "original_prior_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json#/records/33",
+      "body_claims": [
+        "VCLAIM014",
+        "VCLAIM022",
+        "VCLAIM026",
+        "VCLAIM052"
+      ]
+    }
+  ],
+  "all105_exact_union": true,
+  "scope": "105 source-specific target questions are owned Veritas comparisons/uses, not new source admission,105 normal replay, author-executed primary purposes or count proof of adequacy."
+}

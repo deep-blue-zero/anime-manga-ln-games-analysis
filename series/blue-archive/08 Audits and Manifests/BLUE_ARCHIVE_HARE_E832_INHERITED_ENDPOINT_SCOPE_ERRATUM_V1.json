@@ -1,0 +1,27 @@
+{
+  "schema": "BLUE_ARCHIVE_HARE_E832_INHERITED_ENDPOINT_SCOPE_ERRATUM_V1",
+  "decision": "CORRECT_RECEIPT_DESCRIPTION_PRESERVE_IMMUTABLE_ORIGINALS",
+  "frozen_author_receipt": {
+    "relative_path": "MILLENNIUM_KOYUKI_VERITAS_MONOGRAPHS/HARE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+    "byte_count": 53753,
+    "sha256": "e94bb8d9e456915f71e59da599c43ad7f5c0f37d916c8258625e94a24c838e77"
+  },
+  "source": {
+    "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_832/BLUE_ARCHIVE_EVENT_832_CONTEXTUALIZATION_CHECKPOINT.md",
+    "byte_count": 23709,
+    "line_count": 115,
+    "sha256": "aa8ea335644d12f74f0a268aa3cb03e8dcd1b51838cafa4bec8f66714a451e20",
+    "actual_byte_blob_oid": "c86f892caa1c88cfb9efacd14007408df834945b"
+  },
+  "incorrect_frozen_description": "Inherited E32 inspected_scope says Whole current owner L1–114 EOF3846f2",
+  "corrected_description": "Historical received1–114 is not physicalEOF; actual current115 is a substantive Remaining duties paragraph. Current author personally received73–115 throughEOF362401 after Hare freeze.",
+  "actual_current_L115": "All ten episodes are CORE for this account's sustained pleasure/authority/afterstate comparison; mandatory workflow independently retains every selected object. D2 advances complete selected832 receiving. D5 proposes the seven exact ledger clauses without applying them. D1 uses prior accepted group meaning at the necessary contextual scope, D3 adds no bond/MM credit, D4 records event-language/mode observations without replacing written profile/costume coverage. G01/G06 gain ordinary repertoire, G09/G14 retain actor/mode seams, G13 gains limits on safety and actual outcomes. G07/G08 chronology/naming and G10 performance remain bounded; Yuuka's caricature does not settle G02, and no G03–05/G11/G12 completion is invented. All14 remain OPEN. Current ca965, architecture1.11/method1.10,480MAIN/266admitted/540subjects, models and Phase3unestablished remain unchanged. This scope is not admitted by this account; all proposals UNAPPLIED. MAIN_V002's whole-arc contextual and five-duty convergence remains incomplete. Sole fresh C substantive output; no shared/transport/QA/proof/hash writes. End of whole account.",
+  "author_receiving_qualification": "Hare reuses complete accepted literary meanings at qualified analytical scope, not original physical current1–115 certification. This separate later115 receiving repairs the exact endpoint-description seam without retroactive primary or original whole-source credit.",
+  "current_source_snapshot_qualification": "Worktree source remains at declared E32 tuple; ROOT latest publicationdbabbf95 and author historical1bb kept separate.",
+  "body_change": "NONE; no literary claim correction identified by this bounded check",
+  "required_canonical_derivative_action": "Qualify original custody line and append this exact later endpoint receiving; ROOT adjudication pending",
+  "frozen_originals_mutated": false,
+  "new_primary_native_performed_model_credit": 0,
+  "R_Git_global_writes": 0,
+  "scope_quarter_credit": 0
+}

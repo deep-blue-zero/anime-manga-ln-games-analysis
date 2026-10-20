@@ -4,16 +4,22 @@ artifact_type: source_audit
 scope: Japanese tankobon V01-V34
 generation: V2
 status: canonical
-source_boundary: Current Drive tankobon corpus V01-V34; official web folder excluded
+source_boundary: Historical Drive V01-V34 build audit dated 2026-08-24; official web excluded; later holdings in current inventory
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
+updated: 2026-09-12
+workspace_state: local_staged_unintegrated
 ---
 
 # One Punch Man — V01-V34 Source Audit
 
-## Result
+## Current routing note — 2026-09-12
+
+This audit's findings and gap statements below describe its 2026-08-24 scope. The local physical holding is now V01-V37, with V35-V36 supplied and the V37 object unchanged. See [current source inventory](OPM_SOURCE_INVENTORY.md) and [bootstrap audit](../08%20Audits%20and%20Manifests/OPM_V28_BOOTSTRAP_AUDIT.md). This note does not expand the old audit's coverage or assert new semantic validation.
+
+## Historical result — 2026-08-24
 
 **PASS for archive-level Phase 0 readiness.** The Drive tankobon directory contains a contiguous V01-V34 Japanese-labeled CBZ set and `build_manifest.json`. The manifest reports `ok: true` and gives a unique SHA-256, byte count, and page count for each volume.
 

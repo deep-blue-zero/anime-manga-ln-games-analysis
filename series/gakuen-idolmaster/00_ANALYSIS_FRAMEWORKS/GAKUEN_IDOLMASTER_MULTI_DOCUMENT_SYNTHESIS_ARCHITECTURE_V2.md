@@ -100,6 +100,8 @@ Key audiovisual rule:
 
 # 2. Proposed Google Drive / archive directory tree
 
+**Git routing note — 2026-09-09:** the tree below preserves the earlier proposed Drive/archive layout. Current Git placement is governed by the [corpus map](../CURRENT_STATE_AND_CORPUS_MAP.md). The [AV home](../05_AUDIOVISUAL_ANALYSIS/README.md) now uses one numbered folder per character, with voice and music indexes providing subject routes. This navigation change does not alter phase dependencies or analytical responsibilities.
+
 Recommended durable structure:
 
 ```text

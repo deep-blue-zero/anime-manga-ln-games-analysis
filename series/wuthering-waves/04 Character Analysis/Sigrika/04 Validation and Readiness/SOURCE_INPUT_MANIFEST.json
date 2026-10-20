@@ -1,0 +1,173 @@
+[
+  {
+    "file": "ACOUSTIC_RETRIEVAL_FEATURES.jsonl",
+    "bytes": 3349663,
+    "sha256": "f68c0e7b21259d76b85295bad8f75ac81712769b6e605a3d2807db9e761680a6",
+    "release_sha256_match": true,
+    "release_relative_path": "04 Voice Evidence/Character Views/Sigrika/v0_1/ACOUSTIC_RETRIEVAL_FEATURES.jsonl",
+    "drive_id": "1fDvYeHHBCUpQDXWrBYu4MtGqYLF-vZlm",
+    "input_class": "canonical_drive_text_or_derived_metadata"
+  },
+  {
+    "file": "AV_Evidence_Toolkit_1.1.0-rc2-retiming.1.zip",
+    "bytes": 173657,
+    "sha256": "169d986c428eb123015f0a7d8a387f49c7c4870ed5e3e3a151fdd43fdb420e3d",
+    "release_sha256_match": null,
+    "release_relative_path": null,
+    "drive_id": null,
+    "input_class": "user_supplied_toolkit"
+  },
+  {
+    "file": "COLLECTION_AUDIT.json",
+    "bytes": 2057,
+    "sha256": "12f82e602c72cefb3a1dca0e3b5a49caaf3c2b2fc5a101d094ade825dc9a938d",
+    "release_sha256_match": true,
+    "release_relative_path": "03 Analysis Bridge Corpora/Characters/Sigrika/COLLECTION_AUDIT.json",
+    "drive_id": "1DoQqBMxjfDXtOzFtzD5s0Uj7itiHAmx8",
+    "input_class": "canonical_drive_text_or_derived_metadata"
+  },
+  {
+    "file": "COMPLETE_VOICE_LINE_ANALYSIS.jsonl",
+    "bytes": 9143103,
+    "sha256": "822c2cf36e06d1ec3c8759b08370d4cec698ff15664823f479b142800e63acc7",
+    "release_sha256_match": true,
+    "release_relative_path": "04 Voice Evidence/Character Views/Sigrika/v0_1/COMPLETE_VOICE_LINE_ANALYSIS.jsonl",
+    "drive_id": "1GroeMrhr6KNRuEmdEsDgeMbbU6OZLItF",
+    "input_class": "canonical_drive_text_or_derived_metadata"
+  },
+  {
+    "file": "COMPLETE_VOICE_RENDER_ANALYSIS.jsonl",
+    "bytes": 7592368,
+    "sha256": "8500ce5bb9d3050b1f83ab808acfc1f754fe4968a9216cc7c8efce94dadfcad2",
+    "release_sha256_match": true,
+    "release_relative_path": "04 Voice Evidence/Character Views/Sigrika/v0_1/COMPLETE_VOICE_RENDER_ANALYSIS.jsonl",
+    "drive_id": "1vqieZn9onxLSATmKYWzyh86trxO_5_Xn",
+    "input_class": "canonical_drive_text_or_derived_metadata"
+  },
+  {
+    "file": "CONTEXT_TEXT_WITNESSES.jsonl",
+    "bytes": 4535324,
+    "sha256": "935ca052f62dbe37ce458ceb5782eedf76be6cf1e9ab8b0e97557612a4e19000",
+    "release_sha256_match": true,
+    "release_relative_path": "03 Analysis Bridge Corpora/Characters/Sigrika/CONTEXT_TEXT_WITNESSES.jsonl",
+    "drive_id": "1sBhvUewk5FMFdKgH8oXgu18HXYQTcYGG",
+    "input_class": "canonical_drive_text_or_derived_metadata"
+  },
+  {
+    "file": "DRIVE_AUDIO_OBJECT_CROSSWALK.jsonl",
+    "bytes": 4000639,
+    "sha256": "5bf9fe657778cf5450042431fa4c20523c6694b75263cd29b5db5dcf12676a96",
+    "release_sha256_match": true,
+    "release_relative_path": "04 Voice Evidence/Character Views/Sigrika/v0_1/DRIVE_AUDIO_OBJECT_CROSSWALK.jsonl",
+    "drive_id": "1Y0H3QMRNJYu7uZBsW4UnlJbJOwveK1un",
+    "input_class": "canonical_drive_text_or_derived_metadata"
+  },
+  {
+    "file": "FORM_IDENTITY.json",
+    "bytes": 2508,
+    "sha256": "8a674b76d14600e0dd2df7508cbca87c0117858ef22037ae88108520960cd309",
+    "release_sha256_match": true,
+    "release_relative_path": "03 Analysis Bridge Corpora/Characters/Sigrika/ASSOCIATED_FORMS/dark_side_counterpart/FORM_IDENTITY.json",
+    "drive_id": "1bLQmntSbc1o0yclQkIfx4IsmPrzRHkVS",
+    "input_class": "canonical_drive_text_or_derived_metadata"
+  },
+  {
+    "file": "QUEST_CONTEXT_REFERENCES.jsonl",
+    "bytes": 334194,
+    "sha256": "2973043268554427a80fdca5285021b286df5832930d8cf8076dff08099892d5",
+    "release_sha256_match": true,
+    "release_relative_path": "03 Analysis Bridge Corpora/Characters/Sigrika/QUEST_CONTEXT_REFERENCES.jsonl",
+    "drive_id": "1DuFGrJRHg_qgQoGcIUwr0z9XyV5bb-m4",
+    "input_class": "canonical_drive_text_or_derived_metadata"
+  },
+  {
+    "file": "RAW_RELEVANT_FLOW_STATES.jsonl",
+    "bytes": 1457555,
+    "sha256": "9c66758a5f461e12d1d19a0be73290ca0323b64aa162680cf835144d60c67ed9",
+    "release_sha256_match": true,
+    "release_relative_path": "03 Analysis Bridge Corpora/Characters/Sigrika/RAW_RELEVANT_FLOW_STATES.jsonl",
+    "drive_id": "1nUZ0NWlC-prLvopNAxwPJoO_mQYgmqyB",
+    "input_class": "canonical_drive_text_or_derived_metadata"
+  },
+  {
+    "file": "SCENE_AND_EVIDENCE_LEDGER.jsonl",
+    "bytes": 14131464,
+    "sha256": "70f64f66d7ecf2536c8de511e2c2018b666d9bd2441ba990c4795cef9700e050",
+    "release_sha256_match": true,
+    "release_relative_path": "03 Analysis Bridge Corpora/Characters/Sigrika/SCENE_AND_EVIDENCE_LEDGER.jsonl",
+    "drive_id": "1LwfMzHzxE8svjS9CG4mwGdkQBzxy4sul",
+    "input_class": "canonical_drive_text_or_derived_metadata"
+  },
+  {
+    "file": "SIGRIKA_RELEASE_MANIFEST.json",
+    "bytes": 47397,
+    "sha256": "aeb30ef56da7bf01181a1c5b8e78a2426fb80e43e9dbbd82ef139c7f9eae9cc1",
+    "release_sha256_match": null,
+    "release_relative_path": null,
+    "drive_id": "1iJ95b9sEIetggqKQ-GDmtWvbb7agUEwF",
+    "input_class": "canonical_drive_text_or_derived_metadata"
+  },
+  {
+    "file": "SOURCE_LOCK.json",
+    "bytes": 2455,
+    "sha256": "3d2873271b9b8b4b25eefd815526be0a27010de950089dde1f8a1bf3dc08b492",
+    "release_sha256_match": true,
+    "release_relative_path": "03 Analysis Bridge Corpora/Characters/Sigrika/SOURCE_LOCK.json",
+    "drive_id": "1fMQlMXpF1URONoiWI4em1AldeIfr04Ff",
+    "input_class": "canonical_drive_text_or_derived_metadata"
+  },
+  {
+    "file": "STATE_AND_FORM_MEMBERSHIP.jsonl",
+    "bytes": 300513,
+    "sha256": "edb2fdd02df54ab9b6aad1d313e39439a766fc56d49e8c9c11fa270af0737167",
+    "release_sha256_match": true,
+    "release_relative_path": "03 Analysis Bridge Corpora/Characters/Sigrika/STATE_AND_FORM_MEMBERSHIP.jsonl",
+    "drive_id": "14DZhANkwdjMgQ6FNZw7vsiXhIMQvythG",
+    "input_class": "canonical_drive_text_or_derived_metadata"
+  },
+  {
+    "file": "WAVESLINE_MESSAGES.jsonl",
+    "bytes": 21822,
+    "sha256": "f2d37e3b9500f239d45b55d26d2cdd67456c7e0e3ab87ecd2af6e8ed438929a3",
+    "release_sha256_match": true,
+    "release_relative_path": "03 Analysis Bridge Corpora/Characters/Sigrika/WAVESLINE_MESSAGES.jsonl",
+    "drive_id": "1eMz92ZJpLK_wIeUD1lNAJdM2sqnAqRTo",
+    "input_class": "canonical_drive_text_or_derived_metadata"
+  },
+  {
+    "file": "av_evidence_toolkit-1.1.0rc2+retiming.1-py3-none-any.whl",
+    "bytes": 75622,
+    "sha256": "27a844ac0c8876824617fb83a7ea3f5ab1c01392b607c436e21f86cd0809d784",
+    "release_sha256_match": null,
+    "release_relative_path": null,
+    "drive_id": null,
+    "input_class": "user_supplied_toolkit"
+  },
+  {
+    "file": "character_source_package.json",
+    "bytes": 1133086,
+    "sha256": "36b31175eb37e33eb0baa0ce98c188c85da843d139e6df4bddc978787c7a5b28",
+    "release_sha256_match": true,
+    "release_relative_path": "03 Analysis Bridge Corpora/Characters/Sigrika/character_source_package.json",
+    "drive_id": "1yXLvvpBYute8uO5fScV6WjqVc6H7uCya",
+    "input_class": "canonical_drive_text_or_derived_metadata"
+  },
+  {
+    "file": "occurrence_identity_crosswalk.jsonl",
+    "bytes": 1029886,
+    "sha256": "d464269426dd6751d56b27f0f472d105d446b5d75c43e747c562d21dd7f290da",
+    "release_sha256_match": true,
+    "release_relative_path": "03 Analysis Bridge Corpora/Characters/Sigrika/occurrence_identity_crosswalk.jsonl",
+    "drive_id": "1UZnZ6h49wscMuNTLiZFqj2s75-Wr5sr3",
+    "input_class": "canonical_drive_text_or_derived_metadata"
+  },
+  {
+    "file": "source_mentions.jsonl",
+    "bytes": 1127652,
+    "sha256": "8b803602e2c69e91c2ff9a4532fb5f50ec46768487bf2175ceedbcee89faa560",
+    "release_sha256_match": true,
+    "release_relative_path": "03 Analysis Bridge Corpora/Characters/Sigrika/source_mentions.jsonl",
+    "drive_id": "1E4tXy2aNkn-Fhx7ibptMO731NeN46-jC",
+    "input_class": "canonical_drive_text_or_derived_metadata"
+  }
+]

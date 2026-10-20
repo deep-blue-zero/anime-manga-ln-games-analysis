@@ -1,0 +1,69 @@
+{
+  "schema": "KONOSUBA_DUST05_ACTUAL_WHOLE_SOURCE_AND_READING_RECEIPT_V1",
+  "source_id": "DUST-05",
+  "accepted_utc": "2026-10-18T09:04:10.135762+00:00",
+  "native_filename": "Konosuba Extra - Dust - Volume 05.epub",
+  "native_bytes": 6713820,
+  "native_sha256": "bdd0f7af1fe772cf0c760ebf2e1b9c7e2bd1fc7ed7d84ad9c4ec1d887e422ffc",
+  "OPF_member": "item/standard.opf",
+  "OPF_sha256": "0cac809dc983b3f483d24c802f96e208cd9c4795effc492847443a48e08db04d",
+  "language": [
+    "ja"
+  ],
+  "colophon": "2019-08-01/ver.002, based on same-date first print; original work Akatsuki Natsume, prose Hirukuma, distinct illustration/concept credits.",
+  "admission_sha256": "3dd630547b100a42948fdef7a05589c6158d4d50777098c7cd76ce9b991cf32b",
+  "admission_utc": "2026-10-18T07:48:01.687936+00:00",
+  "preceding_full_gate_source": "a3451baadc55920d79d82c702e9cfc6d6eb817c0",
+  "preceding_gate_sha256": "f7b88391e12fee6b3fcbae85c04a1233414c19c448d49c8acf5ab5f630628504",
+  "preceding_fresh_reload_sha256": "9576916ebc28bec20a3b24959c11d325eb48521b7fe3129043699b2aff430a27",
+  "complete_uncoded_seal_sha256": "5892ec99421690e4845062aae9f51eb69064a26522630a9c0162cfcc9e32e4e7",
+  "complete_uncoded_seal_utc": "2026-10-18T08:23:51.136981+00:00",
+  "actual_reading": {
+    "all_textual_components": 19,
+    "all_native_P_slots": 2793,
+    "principal_P_slots": 2733,
+    "other_P_slots": 60,
+    "separate_bonus_narrative": false,
+    "all_native_images_actually_viewed": 21,
+    "all_ruby_displayed_inline_and_nonparagraph_residual_received": true,
+    "all_native_local_and_archive_text_image_hash_joins_reverified": 40,
+    "fresh_native_ZIP_CRC": "PASS",
+    "image_individual_scopes_control": true
+  },
+  "source_first_sealed_pins": [
+    {
+      "file": "NATIVE_ADMISSION.json",
+      "bytes": 22661,
+      "sha256": "3dd630547b100a42948fdef7a05589c6158d4d50777098c7cd76ce9b991cf32b"
+    },
+    {
+      "file": "ROOT_PRE_BODY_PREPARATION_SEAL.json",
+      "bytes": 7181,
+      "sha256": "50b19e64f6b9c5d7610b1da894173aa3c9df111d96cbce40812ee971b07fee61"
+    },
+    {
+      "file": "ACTUAL_SOURCE_FIRST_UNCODED_NOTES.jsonl",
+      "bytes": 130224,
+      "sha256": "57022869314d9bd9cd50d504be09163aa1efdf71ccfa4fe73684c16aac550134"
+    },
+    {
+      "file": "ACTUAL_IMAGE_VIEW_UNCODED_NOTES.jsonl",
+      "bytes": 19744,
+      "sha256": "89f7abf7b3bb153982db970a79f5e8585c16766e4af74f51eda434a16b535c3c"
+    }
+  ],
+  "formal_coverage": {
+    "full_responsibilities": 17,
+    "selected_premises_not_census": 68,
+    "native_verified_short_form_context_witnesses": 98,
+    "local_unchanged_question_assessments": 7,
+    "append_only_decisions_across_ten_ledgers": 34,
+    "current_precision_qualifications": 29
+  },
+  "same_root_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim.",
+  "no_independent_second_full_pass_native_human_audio_claim": true,
+  "source_first_originals_remain_exact": true,
+  "original_four_scores_and_14_future_fields_unchanged": true,
+  "publication_state": "CONTAINING_EXACT_PUBLICATION_AND_FULL_GATE_PENDING",
+  "midread_precision_context": "Dust04 additive N01 coercive-scope correction authored during Dust05 after uncoded U011P1344, before U012; uses only prior Dust04 plus unchanged question. Original prebody/uncoded/Dust04 publication retained; no blind Dust05 claim."
+}

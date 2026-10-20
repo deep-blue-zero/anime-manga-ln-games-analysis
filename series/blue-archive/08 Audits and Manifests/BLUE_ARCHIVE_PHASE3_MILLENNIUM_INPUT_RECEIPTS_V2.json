@@ -1,0 +1,416 @@
+{
+  "schema": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_INPUT_RECEIPTS_V2",
+  "repository_head_at_binding": "84d64c927a536f19c43f05f5d418e4e8c7713610",
+  "analytical_comparand": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+  "source_pin": "a038020f1f5ac02dcfe76962426d38f86414cdd8",
+  "source_generation": "BA_REFRESH_20260928T032248159554Z",
+  "inputs": [
+    {
+      "path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_AKANE_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "bytes": 38329,
+      "sha256": "af7b37302d664a2acd1286e594fe48e711dce1618269a70c130be67481aaf3d6",
+      "blob_oid": "7770d1ce3fca3d5f1923117027810b79626b03e5",
+      "matches_main_2e2018d0": true,
+      "human_receiving_scope": {
+        "from_line": 197,
+        "through_line": 349,
+        "meaning": "COMPLETE_CURRENT_QUALIFICATION_AND_ATTRIBUTED_ARGUMENT_THROUGH_EOF; preceding binding arrays metadata-only",
+        "actual_tool_receipts": [
+          "54ef4a"
+        ]
+      },
+      "primary_reading_credit_added": 0,
+      "author_declared_blob_oid": "7770d1ce3fca3d5f1923117027810b79626b03e5",
+      "actual_blob_oid_at_root_adoption_base": "7770d1ce3fca3d5f1923117027810b79626b03e5",
+      "declared_blob_matches_actual": true
+    },
+    {
+      "path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_NERU_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "bytes": 27704,
+      "sha256": "f8de600c9349986e51101217f1c04d4370a32b5aeb8811636d093c310a86e762",
+      "blob_oid": "f9ea931be3eb9f753a6c81cd094d95ef5b83fc1d",
+      "matches_main_2e2018d0": true,
+      "human_receiving_scope": {
+        "from_line": 182,
+        "through_line": 311,
+        "meaning": "COMPLETE_CURRENT_QUALIFICATION_AND_ATTRIBUTED_ARGUMENT_THROUGH_EOF; preceding binding arrays metadata-only",
+        "actual_tool_receipts": [
+          "f28608"
+        ]
+      },
+      "primary_reading_credit_added": 0,
+      "author_declared_blob_oid": "f9ea931be3eb9f753a6c81cd094d95ef5b83fc1d",
+      "actual_blob_oid_at_root_adoption_base": "f9ea931be3eb9f753a6c81cd094d95ef5b83fc1d",
+      "declared_blob_matches_actual": true
+    },
+    {
+      "path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "bytes": 36275,
+      "sha256": "7360c47f1a8784d6db1e4724edb416ae12236da1c56a7bb6c18f4c546830e87b",
+      "blob_oid": "c77e1bb0831acb2082af351d5939484522015063",
+      "matches_main_2e2018d0": true,
+      "human_receiving_scope": {
+        "from_line": 162,
+        "through_line": 309,
+        "meaning": "COMPLETE_CURRENT_QUALIFICATION_AND_ATTRIBUTED_ARGUMENT_THROUGH_EOF; preceding binding arrays metadata-only",
+        "actual_tool_receipts": [
+          "602eda"
+        ]
+      },
+      "primary_reading_credit_added": 0,
+      "author_declared_blob_oid": "c77e1bb0831acb2082af351d5939484522015063",
+      "actual_blob_oid_at_root_adoption_base": "c77e1bb0831acb2082af351d5939484522015063",
+      "declared_blob_matches_actual": true
+    },
+    {
+      "path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "bytes": 33663,
+      "sha256": "05bda347f51433185363f236a52e2ed7745c4bda95ec0bb43fa3249c3d070350",
+      "blob_oid": "5a93291ebfd59c9a698d3626b2c9f6d935fbd72d",
+      "matches_main_2e2018d0": true,
+      "human_receiving_scope": {
+        "from_line": 142,
+        "through_line": 505,
+        "meaning": "COMPLETE_CURRENT_QUALIFICATION_AND_ATTRIBUTED_ARGUMENT_THROUGH_EOF; preceding binding arrays metadata-only",
+        "actual_tool_receipts": [
+          "3d1168"
+        ]
+      },
+      "primary_reading_credit_added": 0,
+      "author_declared_blob_oid": "5a93291ebfd59c9a698d3626b2c9f6d935fbd72d",
+      "actual_blob_oid_at_root_adoption_base": "5a93291ebfd59c9a698d3626b2c9f6d935fbd72d",
+      "declared_blob_matches_actual": true
+    },
+    {
+      "path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_UTAHA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "bytes": 27115,
+      "sha256": "299f87770ef861a392ee5ce59955ba1c04500b41f273ccc45bf173519744cc48",
+      "blob_oid": "eac3d7ade7e36216f40b5206b5da94e7f97773a7",
+      "matches_main_2e2018d0": true,
+      "human_receiving_scope": {
+        "from_line": 152,
+        "through_line": 286,
+        "meaning": "COMPLETE_CURRENT_QUALIFICATION_AND_ATTRIBUTED_ARGUMENT_THROUGH_EOF; preceding binding arrays metadata-only",
+        "actual_tool_receipts": [
+          "fcfca3"
+        ]
+      },
+      "primary_reading_credit_added": 0,
+      "author_declared_blob_oid": "eac3d7ade7e36216f40b5206b5da94e7f97773a7",
+      "actual_blob_oid_at_root_adoption_base": "eac3d7ade7e36216f40b5206b5da94e7f97773a7",
+      "declared_blob_matches_actual": true
+    },
+    {
+      "path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_NOA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "bytes": 51299,
+      "sha256": "790bb58c59b7821a56b6ac5963135d04539f0f2c77bdd5189dfdd40ddcb4e480",
+      "blob_oid": "81f05eb5e25d3df1ca1650812b93442f56eee921",
+      "matches_main_2e2018d0": true,
+      "human_receiving_scope": {
+        "from_line": 137,
+        "through_line": 1088,
+        "meaning": "COMPLETE_CURRENT_QUALIFICATION_AND_ATTRIBUTED_ARGUMENT_THROUGH_EOF; preceding binding arrays metadata-only",
+        "actual_tool_receipts": [
+          "471a28",
+          "b5c044:484-638_CLIPPED_SPAN_RECOVERED"
+        ]
+      },
+      "primary_reading_credit_added": 0,
+      "author_declared_blob_oid": "81f05eb5e25d3df1ca1650812b93442f56eee921",
+      "actual_blob_oid_at_root_adoption_base": "81f05eb5e25d3df1ca1650812b93442f56eee921",
+      "declared_blob_matches_actual": true
+    },
+    {
+      "path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_RIO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "bytes": 45388,
+      "sha256": "06cce038c6716555d2372b99d1f6cb4335be7642b6922dd1abebbb919724726d",
+      "blob_oid": "65097173c5d3a3ad6b6f10896fcc904f200b9cd2",
+      "matches_main_2e2018d0": true,
+      "human_receiving_scope": {
+        "from_line": 137,
+        "through_line": 1210,
+        "meaning": "COMPLETE_CURRENT_QUALIFICATION_AND_ATTRIBUTED_ARGUMENT_THROUGH_EOF; preceding binding arrays metadata-only",
+        "actual_tool_receipts": [
+          "ee0eb4",
+          "292259:740-851_CLIPPED_SPAN_RECOVERED"
+        ]
+      },
+      "primary_reading_credit_added": 0,
+      "author_declared_blob_oid": "65097173c5d3a3ad6b6f10896fcc904f200b9cd2",
+      "actual_blob_oid_at_root_adoption_base": "65097173c5d3a3ad6b6f10896fcc904f200b9cd2",
+      "declared_blob_matches_actual": true
+    },
+    {
+      "path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOYUKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "bytes": 38759,
+      "sha256": "729d9f274c48739ae5f342626193291975aeaf455c54b7713c2903e4b4582b2c",
+      "blob_oid": "e133a54dd5c2e210363fbee9a929467561f50575",
+      "matches_main_2e2018d0": true,
+      "human_receiving_scope": {
+        "from_line": 152,
+        "through_line": 320,
+        "meaning": "COMPLETE_CURRENT_QUALIFICATION_AND_ATTRIBUTED_ARGUMENT_THROUGH_EOF; preceding binding arrays metadata-only",
+        "actual_tool_receipts": [
+          "75a4bf"
+        ]
+      },
+      "primary_reading_credit_added": 0,
+      "author_declared_blob_oid": "e133a54dd5c2e210363fbee9a929467561f50575",
+      "actual_blob_oid_at_root_adoption_base": "e133a54dd5c2e210363fbee9a929467561f50575",
+      "declared_blob_matches_actual": true
+    },
+    {
+      "path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_ALICE_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "bytes": 77214,
+      "sha256": "1727d6def95a381338e04fe7bb00e622b6c0c49aaf6a7c1754e5ed0af355806c",
+      "blob_oid": "e6809bed384b08f1147beee6dbf177f948e24b07",
+      "matches_main_2e2018d0": true,
+      "human_receiving_scope": {
+        "from_line": 222,
+        "through_line": 556,
+        "meaning": "COMPLETE_CURRENT_QUALIFICATION_AND_ATTRIBUTED_ARGUMENT_THROUGH_EOF; preceding binding arrays metadata-only",
+        "actual_tool_receipts": [
+          "8dbcfa:222-375",
+          "bc7ae9:376-556"
+        ]
+      },
+      "primary_reading_credit_added": 0,
+      "author_declared_blob_oid": "e6809bed384b08f1147beee6dbf177f948e24b07",
+      "actual_blob_oid_at_root_adoption_base": "e6809bed384b08f1147beee6dbf177f948e24b07",
+      "declared_blob_matches_actual": true
+    },
+    {
+      "path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_MIDORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "bytes": 65310,
+      "sha256": "d354cd779b3c760ece1936fac296a028875c204224f950c4dd19d1937e9fc4b3",
+      "blob_oid": "0366e64e9dc3bac3bebfa13bee7115481d3bb63d",
+      "matches_main_2e2018d0": true,
+      "human_receiving_scope": {
+        "from_line": 132,
+        "through_line": 436,
+        "meaning": "COMPLETE_CURRENT_QUALIFICATION_AND_ATTRIBUTED_ARGUMENT_THROUGH_EOF; preceding binding arrays metadata-only",
+        "actual_tool_receipts": [
+          "cb1fb9:132-295",
+          "210a14:296-436"
+        ]
+      },
+      "primary_reading_credit_added": 0,
+      "author_declared_blob_oid": "0366e64e9dc3bac3bebfa13bee7115481d3bb63d",
+      "actual_blob_oid_at_root_adoption_base": "0366e64e9dc3bac3bebfa13bee7115481d3bb63d",
+      "declared_blob_matches_actual": true
+    },
+    {
+      "path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_MOMOI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "bytes": 60173,
+      "sha256": "fd49c3d8388eca08160c4f607052cee3d861c35109435435d6f6b7a3ed490be5",
+      "blob_oid": "9eaa01b0b006e73fc858eafe6f6d1fd00b6e016a",
+      "matches_main_2e2018d0": true,
+      "human_receiving_scope": {
+        "from_line": 132,
+        "through_line": 402,
+        "meaning": "COMPLETE_CURRENT_QUALIFICATION_AND_ATTRIBUTED_ARGUMENT_THROUGH_EOF; preceding binding arrays metadata-only",
+        "actual_tool_receipts": [
+          "d1c8ec:132-281",
+          "b11cd1:282-402"
+        ]
+      },
+      "primary_reading_credit_added": 0,
+      "author_declared_blob_oid": "9eaa01b0b006e73fc858eafe6f6d1fd00b6e016a",
+      "actual_blob_oid_at_root_adoption_base": "9eaa01b0b006e73fc858eafe6f6d1fd00b6e016a",
+      "declared_blob_matches_actual": true
+    },
+    {
+      "path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_YUZU_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "bytes": 72079,
+      "sha256": "697772f50a004ff08aa5cf82377c5a1510c708c578be474c5654c3b8e37bc95c",
+      "blob_oid": "2fc327eae6db608e07ab1103bcc7b29afedf7845",
+      "matches_main_2e2018d0": true,
+      "human_receiving_scope": {
+        "from_line": 213,
+        "through_line": 524,
+        "meaning": "COMPLETE_CURRENT_QUALIFICATION_AND_ATTRIBUTED_ARGUMENT_THROUGH_EOF; preceding binding arrays metadata-only",
+        "actual_tool_receipts": [
+          "be8bef:213-373",
+          "d3a1db:374-524"
+        ]
+      },
+      "primary_reading_credit_added": 0,
+      "author_declared_blob_oid": "2fc327eae6db608e07ab1103bcc7b29afedf7845",
+      "actual_blob_oid_at_root_adoption_base": "2fc327eae6db608e07ab1103bcc7b29afedf7845",
+      "declared_blob_matches_actual": true
+    },
+    {
+      "path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KEI_PHASE2_PRIVATE_AND_SPECIAL_IDENTITY_CONTEXTUAL_ACCOUNT_20261008.md",
+      "bytes": 46263,
+      "sha256": "d439da5a74130e30135b017c4416e588da73178047d62e1d408083866d65ade8",
+      "blob_oid": "f7024908cca8716f4c26903d8ef0111148dea55e",
+      "matches_main_2e2018d0": true,
+      "human_receiving_scope": {
+        "from_line": 40,
+        "through_line": 272,
+        "meaning": "COMPLETE_CURRENT_QUALIFICATION_AND_ATTRIBUTED_ARGUMENT_THROUGH_EOF; preceding binding arrays metadata-only",
+        "actual_tool_receipts": [
+          "aeff7d:40-169",
+          "d02a75:170-272"
+        ]
+      },
+      "primary_reading_credit_added": 0,
+      "author_declared_blob_oid": "f7024908cca8716f4c26903d8ef0111148dea55e",
+      "actual_blob_oid_at_root_adoption_base": "f7024908cca8716f4c26903d8ef0111148dea55e",
+      "declared_blob_matches_actual": true
+    },
+    {
+      "path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1201_1203_DEEP_READING.md",
+      "bytes": 28415,
+      "sha256": "7878d5a7517dfad383ffd92f175d48f4ce5052afc332956122f396dc6209b32a",
+      "blob_oid": "8d0422d805814d9148746b4c2f2ad9ab606b7038",
+      "matches_main_2e2018d0": true,
+      "human_receiving_scope": {
+        "from_line": 1,
+        "through_line": 172,
+        "meaning": "COMPLETE_ACCEPTED_ARGUMENT; V002 unchanged qualified V1 reuse",
+        "actual_tool_receipts": [
+          "07a6d0"
+        ]
+      },
+      "primary_reading_credit_added": 0,
+      "author_declared_blob_oid": "8d0422d805814d9148746b4c2f2ad9ab606b7038",
+      "actual_blob_oid_at_root_adoption_base": "8d0422d805814d9148746b4c2f2ad9ab606b7038",
+      "declared_blob_matches_actual": true
+    },
+    {
+      "path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md",
+      "bytes": 24487,
+      "sha256": "2f196a0f37e8bb018bf29b953b20f233be8bcbd829936448dcc51728d45a84b2",
+      "blob_oid": "5af18f683c454059385397183a8822af7c9f7058",
+      "matches_main_2e2018d0": true,
+      "human_receiving_scope": {
+        "from_line": 1,
+        "through_line": 153,
+        "meaning": "COMPLETE_ACCEPTED_ARGUMENT; V002 unchanged qualified V1 reuse",
+        "actual_tool_receipts": [
+          "3c3ab2"
+        ]
+      },
+      "primary_reading_credit_added": 0,
+      "author_declared_blob_oid": "5af18f683c454059385397183a8822af7c9f7058",
+      "actual_blob_oid_at_root_adoption_base": "5af18f683c454059385397183a8822af7c9f7058",
+      "declared_blob_matches_actual": true
+    },
+    {
+      "path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2501_2502_DEEP_READING.md",
+      "bytes": 22203,
+      "sha256": "11d758d98de1a967cd93e86a789a778e9dc04bfab520be0d558d127da6b7ad37",
+      "blob_oid": "94c2927af342ed823a661f79999c6f6268edb95a",
+      "matches_main_2e2018d0": true,
+      "human_receiving_scope": {
+        "from_line": 1,
+        "through_line": 144,
+        "meaning": "COMPLETE_ACCEPTED_ARGUMENT; V002 unchanged qualified V1 reuse",
+        "actual_tool_receipts": [
+          "826b9d"
+        ]
+      },
+      "primary_reading_credit_added": 0,
+      "author_declared_blob_oid": "94c2927af342ed823a661f79999c6f6268edb95a",
+      "actual_blob_oid_at_root_adoption_base": "94c2927af342ed823a661f79999c6f6268edb95a",
+      "declared_blob_matches_actual": true
+    },
+    {
+      "path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3101_3103_DEEP_READING.md",
+      "bytes": 40956,
+      "sha256": "a9b013389a588c27970482c74e95eb16b57511dedb134e41aa4c850081d5aaf6",
+      "blob_oid": "5bcbef776c36b70da61c168eebbc861ddda01cb6",
+      "matches_main_2e2018d0": true,
+      "human_receiving_scope": {
+        "from_line": 1,
+        "through_line": 226,
+        "meaning": "COMPLETE_ACCEPTED_ARGUMENT; V002 unchanged qualified V1 reuse",
+        "actual_tool_receipts": [
+          "824779",
+          "7a34ac:116-135_CLIPPED_SPAN_RECOVERED"
+        ]
+      },
+      "primary_reading_credit_added": 0,
+      "author_declared_blob_oid": "5bcbef776c36b70da61c168eebbc861ddda01cb6",
+      "actual_blob_oid_at_root_adoption_base": "5bcbef776c36b70da61c168eebbc861ddda01cb6",
+      "declared_blob_matches_actual": true
+    },
+    {
+      "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_825/BLUE_ARCHIVE_EVENT_825_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 37786,
+      "sha256": "0a04a3d7913d5ff800cf97c6d3581b38999b16f05f569978eecae8b391b1c9f9",
+      "blob_oid": "d42104a33d911bddec431a94c5c030e2834f2e7d",
+      "matches_main_2e2018d0": true,
+      "human_receiving_scope": {
+        "from_line": 1,
+        "through_line": 169,
+        "meaning": "COMPLETE_ACCEPTED_ARGUMENT; V002 unchanged qualified V1 reuse",
+        "actual_tool_receipts": [
+          "f498f2"
+        ]
+      },
+      "primary_reading_credit_added": 0,
+      "author_declared_blob_oid": "d42104a33d911bddec431a94c5c030e2834f2e7d",
+      "actual_blob_oid_at_root_adoption_base": "d42104a33d911bddec431a94c5c030e2834f2e7d",
+      "declared_blob_matches_actual": true
+    },
+    {
+      "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+      "bytes": 33564,
+      "sha256": "0e9bd813014d36111466060e928647b2ff77eb32a0906ad5d20a3c8a3423c45d",
+      "blob_oid": "a0063821e5cbdd67c326b0e32dcd1e2f5428b683",
+      "matches_main_2e2018d0": true,
+      "human_receiving_scope": {
+        "from_line": 1,
+        "through_line": 257,
+        "meaning": "COMPLETE_ACCEPTED_ARGUMENT; V002 unchanged qualified V1 reuse",
+        "actual_tool_receipts": [
+          "V1_complete_receiving_with_declared_clipping_recovery"
+        ]
+      },
+      "primary_reading_credit_added": 0,
+      "author_declared_blob_oid": "a0063821e5cbdd67c326b0e32dcd1e2f5428b683",
+      "actual_blob_oid_at_root_adoption_base": "a0063821e5cbdd67c326b0e32dcd1e2f5428b683",
+      "declared_blob_matches_actual": true
+    },
+    {
+      "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+      "bytes": 75339,
+      "sha256": "ba15bbfb3e7f25be67494fcf505d3e98e73a5b74eabceacf9dde3f6314da023c",
+      "blob_oid": "88ddcb150f2afa22655552e859d0443349bd7f9f",
+      "human_receiving_scope": "METADATA_ONLY; canonical candidate/dispatch statuses not edited",
+      "author_declared_blob_oid": "88ddcb150f2afa22655552e859d0443349bd7f9f",
+      "actual_blob_oid_at_root_adoption_base": "88ddcb150f2afa22655552e859d0443349bd7f9f",
+      "declared_blob_matches_actual": true
+    },
+    {
+      "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_RESPONSIBILITIES.csv",
+      "bytes": 443241,
+      "sha256": "e9de04192b2add837ae0130aa6e0d33b8e94843d4baca5580ff0612eb203ecf4",
+      "blob_oid": "d111ed0652a05bfa2419e20d3902401bdf10392e",
+      "human_receiving_scope": "METADATA_ONLY; canonical candidate/dispatch statuses not edited",
+      "author_declared_blob_oid": "84ed033b5b03425362600ee73e88e22bae9a5abe",
+      "actual_blob_oid_at_root_adoption_base": "d111ed0652a05bfa2419e20d3902401bdf10392e",
+      "declared_blob_matches_actual": false,
+      "historical_blob_limit": "Frozen author declared historical84d64c92 HEAD blob; exact current input bytes/hash and actual34685c9a blob separately verified. No witness rewrite."
+    },
+    {
+      "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_OWNER_CENSUS_DISPATCH.csv",
+      "bytes": 44558,
+      "sha256": "ce89da337f0a76e0c5e5966ad95cf59989a9c2997402c3d2ee89da0484eb4c03",
+      "blob_oid": "3a92abedcdec770c2e5dbeb6d0ccab562affbc31",
+      "human_receiving_scope": "METADATA_ONLY; canonical candidate/dispatch statuses not edited",
+      "author_declared_blob_oid": "8cf17eba4066f1827baff54058795b5881cdea34",
+      "actual_blob_oid_at_root_adoption_base": "3a92abedcdec770c2e5dbeb6d0ccab562affbc31",
+      "declared_blob_matches_actual": false,
+      "historical_blob_limit": "Frozen author declared historical84d64c92 HEAD blob; exact current input bytes/hash and actual34685c9a blob separately verified. No witness rewrite."
+    }
+  ],
+  "all_analytical_inputs_match_comparand": true,
+  "unbound_large_files_read": 0,
+  "new_primary_reading_credit": 0,
+  "root_adoption_base": "34685c9aa894101d176e46c26d1434e44bfd9fa4",
+  "frozen_author_receipt_sha256": "b398cdb22f88a1980711d384238b213c190f1df94f401a9a4cbaaf259a56058b",
+  "root_complete_receiving": "429 review lines through EOF, entire decision register,22 input tuples and saved-output receipt; exact verification PASS"
+}

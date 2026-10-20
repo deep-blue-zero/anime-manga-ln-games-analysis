@@ -1,0 +1,529 @@
+{
+  "schema": "KONOSUBA_EXP02_WHOLE_SUPPLIED_EDITION_SAME_ROOT_ACCEPTANCE_V1",
+  "source_id": "EXP-02",
+  "status": "ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+  "accepted_utc": "2026-10-18T15:42:20.857727+00:00",
+  "native_identity": {
+    "native_filename": "Konosuba - Spin-off - Explosions - Volume 02.epub",
+    "native_bytes": 13672536,
+    "native_sha256": "ecf3e635c97be3d23366b7d15a153c546ba04a597caba190bb8ae44e71a1f1ff",
+    "OPF_member": "item/standard.opf",
+    "OPF_sha256": "8b9c2234be2b37e1cae09b1b272f3326274fc3352268634677b2b9b341e6ae32"
+  },
+  "actual_source_and_reading_receipt": {
+    "schema": "KONOSUBA_EXP02_ACTUAL_WHOLE_SOURCE_AND_READING_RECEIPT_V1",
+    "source_id": "EXP-02",
+    "accepted_utc": "2026-10-18T15:42:20.857727+00:00",
+    "native_filename": "Konosuba - Spin-off - Explosions - Volume 02.epub",
+    "native_bytes": 13672536,
+    "native_sha256": "ecf3e635c97be3d23366b7d15a153c546ba04a597caba190bb8ae44e71a1f1ff",
+    "OPF_member": "item/standard.opf",
+    "OPF_sha256": "8b9c2234be2b37e1cae09b1b272f3326274fc3352268634677b2b9b341e6ae32",
+    "language": [
+      "ja"
+    ],
+    "colophon": "この素晴らしい世界に爆焔を！２ ゆんゆんのターン. Electronic issue2014-12-01; underlying print first edition2014-12-01. No explicit version number. Akatsuki Natsume author/Mishima Kurone illustration; full design and publisher credits separately read.",
+    "admission_sha256": "8e980e97636b77f7eec790ff9f38830f586b2a91a780fc9c07f5fab94f5440e3",
+    "admission_utc": "2026-10-18T14:18:19.361476+00:00",
+    "preceding_full_gate_source": "ca8fa360d1b8e75a06b1f36e30c6189514e96090",
+    "preceding_gate_sha256": "054b162820782cc07b5e86df3b766f4a72827b647cf4575cd9e5f024c4588533",
+    "preceding_fresh_reload_sha256": "0bdb793727c17319450049a1b40e05a0d5cb7fd417f68bb5690893ab7b33a737",
+    "complete_uncoded_seal_sha256": "0be80027e7ad5458d8b1e1ededf4b9ecd5a1e598fd203c5e15dd54fa7db68dbc",
+    "complete_uncoded_seal_utc": "2026-10-18T15:16:14.227298+00:00",
+    "actual_reading": {
+      "all_textual_components": 58,
+      "all_native_P_slots": 3189,
+      "principal_P_slots": 3140,
+      "other_P_slots": 49,
+      "separate_bonus_narrative": false,
+      "individually_identified_narrative_image_groups": [
+        {
+          "id": "EXP02-INTERLUDE-I",
+          "title": "序幕 アクア様、逃がしません！",
+          "native_units": [
+            "EXP-02-U018",
+            "EXP-02-U019",
+            "EXP-02-U020",
+            "EXP-02-U021"
+          ],
+          "native_images": [
+            "EXP-02-IMG023",
+            "EXP-02-IMG024",
+            "EXP-02-IMG025",
+            "EXP-02-IMG026"
+          ],
+          "viewpoint": "Cecily first person; reader access differs from Megumin",
+          "scope": "All four supplied full image-prose pages actually read; distinct component and continuous interpretation in report, not merely an empty-wrapper tick."
+        },
+        {
+          "id": "EXP02-INTERLUDE-II",
+          "title": "弐幕 アクア様、挫けません！",
+          "native_units": [
+            "EXP-02-U024",
+            "EXP-02-U025",
+            "EXP-02-U026",
+            "EXP-02-U027"
+          ],
+          "native_images": [
+            "EXP-02-IMG027",
+            "EXP-02-IMG028",
+            "EXP-02-IMG029",
+            "EXP-02-IMG030"
+          ],
+          "viewpoint": "Cecily first person; reader access differs from Megumin",
+          "scope": "All four supplied full image-prose pages actually read; distinct component and continuous interpretation in report, not merely an empty-wrapper tick."
+        },
+        {
+          "id": "EXP02-INTERLUDE-III",
+          "title": "参幕 アクア様、負けません！",
+          "native_units": [
+            "EXP-02-U033",
+            "EXP-02-U034",
+            "EXP-02-U035",
+            "EXP-02-U036"
+          ],
+          "native_images": [
+            "EXP-02-IMG031",
+            "EXP-02-IMG032",
+            "EXP-02-IMG033",
+            "EXP-02-IMG034"
+          ],
+          "viewpoint": "Cecily first person; reader access differs from Megumin",
+          "scope": "All four supplied full image-prose pages actually read; distinct component and continuous interpretation in report, not merely an empty-wrapper tick."
+        },
+        {
+          "id": "EXP02-INTERLUDE-IV",
+          "title": "肆幕 アクア様、幸せです！",
+          "native_units": [
+            "EXP-02-U039",
+            "EXP-02-U040",
+            "EXP-02-U041",
+            "EXP-02-U042"
+          ],
+          "native_images": [
+            "EXP-02-IMG035",
+            "EXP-02-IMG036",
+            "EXP-02-IMG037",
+            "EXP-02-IMG038"
+          ],
+          "viewpoint": "Cecily first person; reader access differs from Megumin",
+          "scope": "All four supplied full image-prose pages actually read; distinct component and continuous interpretation in report, not merely an empty-wrapper tick."
+        },
+        {
+          "id": "EXP02-INTERLUDE-FINAL",
+          "title": "終幕 アクア様、感謝します！",
+          "native_units": [
+            "EXP-02-U045",
+            "EXP-02-U046",
+            "EXP-02-U047",
+            "EXP-02-U048"
+          ],
+          "native_images": [
+            "EXP-02-IMG039",
+            "EXP-02-IMG040",
+            "EXP-02-IMG041",
+            "EXP-02-IMG042"
+          ],
+          "viewpoint": "Cecily first person; reader access differs from Megumin",
+          "scope": "All four supplied full image-prose pages actually read; distinct component and continuous interpretation in report, not merely an empty-wrapper tick."
+        },
+        {
+          "id": "EXP02-COMIC-PRESENT-REUNION",
+          "native_units": [
+            "EXP-02-U030",
+            "EXP-02-U031"
+          ],
+          "native_images": [
+            "EXP-02-IMG015",
+            "EXP-02-IMG016"
+          ],
+          "shared_prose_event": "U029P0344–0373",
+          "scope": "Actually read contemporary depiction of the same fall/reunion, not an additional event and not EXP01’s denied allegation."
+        }
+      ],
+      "individually_identified_embedded_narrative_groups": [
+        {
+          "id": "EXP02-EMBEDDED-SOLITARY-HERO-FABLE",
+          "native_units": [
+            "EXP-02-U013",
+            "EXP-02-U050"
+          ],
+          "scope": "One fictional picture-book story repeated and completed through prologue/epilogue; narrator/hero/villain/followers distinguished from actual current-world people."
+        }
+      ],
+      "integral_image_only_prose_pages": 20,
+      "all_native_images_actually_viewed": 50,
+      "all_ruby_displayed_inline_and_nonparagraph_residual_received": true,
+      "all_native_local_and_archive_text_image_hash_joins_reverified": 108,
+      "fresh_native_ZIP_CRC": "PASS",
+      "image_individual_scopes_control": true
+    },
+    "source_first_sealed_pins": [
+      {
+        "file": "NATIVE_ADMISSION.json",
+        "bytes": 59288,
+        "sha256": "8e980e97636b77f7eec790ff9f38830f586b2a91a780fc9c07f5fab94f5440e3"
+      },
+      {
+        "file": "ROOT_PRE_BODY_PREPARATION_SEAL.json",
+        "bytes": 16249,
+        "sha256": "6a6fddd4ef6199575e840adf1cdc7d89d7101c2bb191234b9455a85bc332d634"
+      },
+      {
+        "file": "ACTUAL_SOURCE_FIRST_UNCODED_NOTES.jsonl",
+        "bytes": 165810,
+        "sha256": "588e7970ef92b10075cce49e720d9953b80f8af177d8a56357e2bd28d7f28823"
+      },
+      {
+        "file": "ACTUAL_IMAGE_VIEW_UNCODED_NOTES.jsonl",
+        "bytes": 45752,
+        "sha256": "468093c1c0050340eda78a0ce2fec39c9f1da6246dde9c30729aa15b5161500d"
+      },
+      {
+        "file": "UNCODED_IMAGE_SCOPE_CORRECTIONS.jsonl",
+        "bytes": 2767,
+        "sha256": "2d314ff44bcadb76a2b56ac8c5bfece25547e5587ab9bd0e730935b07f207a4e"
+      }
+    ],
+    "formal_coverage": {
+      "full_responsibilities": 17,
+      "selected_premises_not_census": 80,
+      "native_verified_short_form_context_witnesses": 93,
+      "local_unchanged_question_assessments": 7,
+      "append_only_decisions_across_ten_ledgers": 34,
+      "current_precision_qualifications": 46
+    },
+    "same_root_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05,DUST-06,DUST-07,DUST-CONT,EXP-01. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim.",
+    "no_independent_second_full_pass_native_human_audio_claim": true,
+    "source_first_originals_remain_exact": true,
+    "original_four_scores_and_14_future_fields_unchanged": true,
+    "publication_state": "CONTAINING_EXACT_PUBLICATION_AND_FULL_GATE_PENDING",
+    "midread_precision_context": "Entire uncoded pass sealed before all formal findings. Two append-only pre-seal image-scope corrections preserve original premature IMG012 description and loose IMG037 handoff shorthand, with actual later-view precision controlling current analysis. IMG021 hair-down Yunyun caption resolved by actual enlarged inspection before acknowledgment."
+  },
+  "current_root_check": "Same continuing informed root reviewed17substantive responsibilities,80whole-effect H/L arguments,93exact original prose-fragment/window joins,7unchanged Megumin-contract comparisons,58text/50image scopes, five full Cecily interludes, the repeated embedded fable, 46current qualifications and34append-only decisions across ten ledgers. Named-subject and referential review includes Megumin/Yunyun/Cecily/Zesta/Arnes/Komekko/cat, different knowledge times and actual providers. Qualified same-root receiving, no independent review or new blind score.",
+  "current_qualifications": [
+    {
+      "id": "Q01",
+      "qualification": "Native title is numbered2, ゆんゆんのターン. Electronic issue and print-base first edition are both2014-12-01; no explicit version number.",
+      "source": "U006/U056"
+    },
+    {
+      "id": "Q02",
+      "qualification": "Current Megumin and Yunyun are13; the narration is before the Axel main party and after the first spell acquisition. Publication, in-world and informed reader encounter order stay distinct.",
+      "source": "U015P0258–0270;U044P0642–0671"
+    },
+    {
+      "id": "Q03",
+      "qualification": "All58textual units,3189Pslots and50native images were actually read/viewed. Of these3140P are nine principal prose bodies;49otherP do not account for20integral image-only narrative pages.",
+      "source": "Whole uncoded seal/component register"
+    },
+    {
+      "id": "Q04",
+      "qualification": "Five Cecily interludes each have four actually read full image-prose pages and distinct IDs. They are integral narration, not a blank-wrapper completion tick.",
+      "source": "IMG023–042"
+    },
+    {
+      "id": "Q05",
+      "qualification": "The prologue and epilogue share one embedded picture-book story; the repeat is not another real-world hero trial. The boy’s eventual demon-king label has no explicitly shown transition or final battle result.",
+      "source": "U013;U050"
+    },
+    {
+      "id": "Q06",
+      "qualification": "Megumin does not know the identities of the roadside future party pair. Closing cast names and informed reader recognition do not supply her current bond.",
+      "source": "U044P0642–0671;IMG021"
+    },
+    {
+      "id": "Q07",
+      "qualification": "300000fare versus4000savings constrains travel; valuable potion prices are learned only after graduation, not evidence she knowingly ignored that earlier cash option.",
+      "source": "U015P0035–0068"
+    },
+    {
+      "id": "Q08",
+      "qualification": "Output magnitude and input regulation differ. Actual dangerous infusion is contained by the employer, and she admits lacking the relevant control practice.",
+      "source": "U015P0072–0125"
+    },
+    {
+      "id": "Q09",
+      "qualification": "Drug testing is considered/offered, not actually performed. Corrected bodily-work misunderstanding does not establish sex work or arson.",
+      "source": "U015P0127–0159/0241–0296"
+    },
+    {
+      "id": "Q10",
+      "qualification": "Night casts cause actual sleep/patrol burden and painful makeshift recovery. Claimed lethal need for daily casting is bargaining, not established physiology.",
+      "source": "U015P0163–0233;U017P0111–0135"
+    },
+    {
+      "id": "Q11",
+      "qualification": "Friendship does not guarantee forgiveness. Yunyun explicitly rejects that proposed rule and imposes a temporary limit while still wanting company.",
+      "source": "U015P0192–0233;U017P0114–0135"
+    },
+    {
+      "id": "Q12",
+      "qualification": "Customers physically stop the restaurant chant; there is no completed indoor Explosion. Actual hot-food coercion and firing still occur.",
+      "source": "U015P0344–0395"
+    },
+    {
+      "id": "Q13",
+      "qualification": "Farm work includes actual manual preservation/harvesting, pay and level gain alongside professional large-scale magic; seasonal availability is not permanent fare security.",
+      "source": "U015P0401–0466"
+    },
+    {
+      "id": "Q14",
+      "qualification": "The excursion reveals conditional skill against one versus several drakes. Hair-pulling worsens recovery and the only decent uniform is scorched.",
+      "source": "U017P0001–0076"
+    },
+    {
+      "id": "Q15",
+      "qualification": "The earlier female-devil night-terror account is knowingly false. Later real Arnes threat does not validate it; Bukkorori’s actual beam also damages the household wall.",
+      "source": "U017P0077–0110;U023P0280–0327"
+    },
+    {
+      "id": "Q16",
+      "qualification": "Arnes initially defers to the cat’s will but later invokes lost memory and rejects a refund while demanding the cat. Her actual preference claims are not one stable consent policy.",
+      "source": "U023P0039–0079/0181–0279;U044P0361–0405"
+    },
+    {
+      "id": "Q17",
+      "qualification": "Megumin’s family-not-for-sale stance reverses at the exact fare; affectionate meals/farewell are real without erasing paid attempted transfer against resistance.",
+      "source": "U023P0039–0145"
+    },
+    {
+      "id": "Q18",
+      "qualification": "Yunyun keeps a work appointment the narrator forgot. Neither party’s subsequent physical aggression is excused by misunderstanding or friendship.",
+      "source": "U023P0146–0180"
+    },
+    {
+      "id": "Q19",
+      "qualification": "The medicine episode gains actual later participant testimony that illness/treatment were real; this updates current belief without rewriting EXP01’s earlier warranted uncertainty.",
+      "source": "U023P0411–0439"
+    },
+    {
+      "id": "Q20",
+      "qualification": "Staff/robe/hat are actual material gifts by named providers. Early illustration composition does not independently date use of each later gift. Arue explicitly retracts the old patch’s magical-effect claim.",
+      "source": "U016/IMG011;U023P0411–0485"
+    },
+    {
+      "id": "Q21",
+      "qualification": "Sibling care has concrete breakfast, bedtime, hand-holding, return request and lunch/book gifts. An invitation to perform distress is not proof Komekko lacks attachment when she declines.",
+      "source": "U015;U023P0541–0631"
+    },
+    {
+      "id": "Q22",
+      "qualification": "Bukkorori’s father accepts actual childcare and reacts to a misleading delicacy formula. A specific later punishment is not shown.",
+      "source": "U023P0638–0652"
+    },
+    {
+      "id": "Q23",
+      "qualification": "Guild eligibility is an actual institutional constraint, not disproved by confidence. Ten job failures are aggregate narration, not ten separately displayed cases.",
+      "source": "U029P0001–0089"
+    },
+    {
+      "id": "Q24",
+      "qualification": "Cecily’s harassment, vandalism, bread theft, false victim account and unwanted contact remain actual attributed conduct, analyzed non-graphically. Self-description, lowered resistance or food provision is not assent.",
+      "source": "IMG023–034;U029;U038P0430–0448"
+    },
+    {
+      "id": "Q25",
+      "qualification": "Megumin is not merely manipulated: she voluntarily proposes deceptive recruitment for real food/shelter debt, is corrected by an officer and remains for food and a lead.",
+      "source": "U029P0163–0318"
+    },
+    {
+      "id": "Q26",
+      "qualification": "Unknown Explosion-using shop woman is a received unverified lead, not locally confirmed identity of the childhood rescuer.",
+      "source": "U029P0290–0318"
+    },
+    {
+      "id": "Q27",
+      "qualification": "Refusal to cast in the city and in dark crowded combat is genuine current restraint for area/geometry reasons. Other actual unsafe attempts remain separately adverse.",
+      "source": "U029P0331–0342;U044P0280–0294"
+    },
+    {
+      "id": "Q28",
+      "qualification": "IMG015–016 depict the same contemporary staged fall/reunion as U029P0344–0373; the scrape is real. Do not copy EXP01’s immediately denied-allegation disposition onto these different pages.",
+      "source": "U030–031/IMG015–016"
+    },
+    {
+      "id": "Q29",
+      "qualification": "外患誘致→外姦誘恥 is a central kanji/homophone misunderstanding and an L3 candidate. Ordinary idioms, theatrical names, standard ruby and every cultural joke are not automatically L3.",
+      "source": "U032P0075–0099"
+    },
+    {
+      "id": "Q30",
+      "qualification": "Couriers are not charge authors. Yunyun’s letter errand and Socket’s reported prophecy do not independently establish police interpretation, prophecy fulfillment or Zesta’s guilt.",
+      "source": "U032P0075–0130"
+    },
+    {
+      "id": "Q31",
+      "qualification": "Daily functions have actual other staff providers. Zesta’s apparent dispensability and later exceptional reflection/exorcism skill concern different tasks.",
+      "source": "U032P0100–0116;U038P0288–0373"
+    },
+    {
+      "id": "Q32",
+      "qualification": "Police release/apology after a reported truth test clears the particular treason charge. Exact test questions are unshown and prior misconduct is not thereby absolved.",
+      "source": "U038P0181–0245"
+    },
+    {
+      "id": "Q33",
+      "qualification": "Unknown food-like water is not confirmed safe; companions stop Cecily tasting it. Her initially claimed powder knowledge and later accusation have unequal causal warrant.",
+      "source": "U038P0130–0180;IMG035–042"
+    },
+    {
+      "id": "Q34",
+      "qualification": "Cecily’s proposed powder bribe, substituted cleaner and bicarbonate question strongly imply an accidental mix-up; physical handover, pour and completed cleaning are not explicitly depicted. Current pre-seal correction controls original handoff shorthand.",
+      "source": "IMG037–038;preserved scope correction"
+    },
+    {
+      "id": "Q35",
+      "qualification": "Zesta’s near-miss amusement permits Arnes to escape despite actual superior power. Technical competence is not completed task success or prior safe consent.",
+      "source": "U038P0336–0408"
+    },
+    {
+      "id": "Q36",
+      "qualification": "Travel money is given before the bath cast. The bath has candid pleasure motive, specific permission and actual local clearance, but complete independently prepared recovery is not established.",
+      "source": "U038P0380–0481"
+    },
+    {
+      "id": "Q37",
+      "qualification": "Genuine blessing, refused blessing, spite and misleading recruitment-form gift coexist. No measured spell effect, actual conversion or cash gift is inferred.",
+      "source": "U038P0485–0534"
+    },
+    {
+      "id": "Q38",
+      "qualification": "Yunyun and guards actually repel repeated attacks; she initiates the same-party request more than once. M’s jealousy/inattention precedes her later sleepy explanation and must not be replaced by it.",
+      "source": "U044P0077–0358/0602–0639"
+    },
+    {
+      "id": "Q39",
+      "qualification": "Arnes explicitly says she drove monsters toward the caravan. Earlier flags are character beliefs; surveillance cues and disclosure have distinct times. Horse killing, wounded guards and constrained escape remain serious.",
+      "source": "U044P0077–0119/0361–0480"
+    },
+    {
+      "id": "Q40",
+      "qualification": "Megumin accepts prospective cat death after Yunyun’s explicit warning, invokes familiar duty and a future grave, and begins before the later immediate counterspell urgency. No actual familiar contract, pet assent or resurrection insurance is supplied.",
+      "source": "U044P0483–0535"
+    },
+    {
+      "id": "Q41",
+      "qualification": "Unplanned aura plus Yunyun’s actual catch changes geometry before completed firing. Outside rescue, final success and pet survival do not erase prior intent; guards’ wounds, dead horse, crater and depleted caster remain.",
+      "source": "U044P0541–0639"
+    },
+    {
+      "id": "Q42",
+      "qualification": "Arnes’s defeated body and backup-soul lore do not establish guaranteed permanent extinction. Later reported goddess loan request does not prove a paid loan, Cecily’s arrival or the causal effect of Yunyun’s prayer.",
+      "source": "U044P0583–0601;IMG039–042"
+    },
+    {
+      "id": "Q43",
+      "qualification": "Native doorway IMG012 shows visitor hand at chest with visible face; prose supplies kneeling and hidden-face narration. An original premature same-execution image note is preserved and controlled by the actual later-view correction.",
+      "source": "IMG012;U017P0142–0158;preserved scope correction"
+    },
+    {
+      "id": "Q44",
+      "qualification": "Closing apple portrait is hair-down Yunyun: 髪下ろしたゆんゆん。 resolved by actual enlarged inspection before acknowledgment. Staff creator comments and special thanks are not a separate fictional coda or romantic/biographical proof.",
+      "source": "IMG021–022"
+    },
+    {
+      "id": "Q45",
+      "qualification": "All93 original selected voice fragments match their independently bounded native windows;80purposeful whole-effect records are not a humor census, frequency denominator or new accuracy test.",
+      "source": "Voice exact-join check;formal registers"
+    },
+    {
+      "id": "Q46",
+      "qualification": "Frozen main-only66, historical72, four score files and14blank Dust future fields remain exact. Seven informed comparisons and four new working inquiries neither alter R1 nor close remaining supplemental/main-excluded/StageD/release work.",
+      "source": "Pre-body pins;frozen controls;local assessment register"
+    }
+  ],
+  "ten_current_prefix_controls": [
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "bytes": 244429,
+      "sha256": "065cb591c70bff9ba9e21f704486fff04392a4f5361ee332f32d8cc59d810a5d"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "bytes": 174643,
+      "sha256": "25e5490b305e9bfbaf6f683bec801684332a8dff33d6ebd1a2e8bde557570e70"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "bytes": 169973,
+      "sha256": "4079b5f6a76591ed7a92e1dabd6e02dd883edbe56a397243a3fb89700a404fb2"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "bytes": 224927,
+      "sha256": "3ccc76b16d94da7bae8afe23c7d8716a9205bd4536a18d6392747274d7950cfa"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "bytes": 747048,
+      "sha256": "255b1a09a593aca6bf30a34daa3a46695698824436c1ddf3e81baf45732a757a"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "bytes": 559174,
+      "sha256": "4612a5b9da4ec457e91c23bb40297ec541f3ef325cc69dfe6b75f89433d5c306"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "bytes": 154968,
+      "sha256": "2025f90e5ab0e7d774373abaed28c778ab679b25e8f2d377a51ed2a2ec906447"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "bytes": 149545,
+      "sha256": "43a450711ea9b8a970ac2b7766ff1c3ab46aff4c78c5ebac45f82918c77dcb0a"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "bytes": 138264,
+      "sha256": "e74656c80f7b5a27e8ed11331f340229c8c4fa4b6daac816a390c4359eb1d0f8"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "bytes": 40608,
+      "sha256": "409fa2c6e0757c96923048735103bebc658d60906e96ab5c8076a83329ef6c50"
+    }
+  ],
+  "frozen_proof": {
+    "current66_verified": 66,
+    "historical72_at_3b92_verified": 72,
+    "four_score_sha256": {
+      "YORI01": "7a3cd1e0c046cd34e6f3a628e580f204d6aac6a5d16feb419761a925c930d026",
+      "MASK": "adf99e88f67285d3bdd5f17a7248818dae46d98f405909d1ec2bc0aec01aa967",
+      "DUST06": "f94bfb84f5b16e0234fb6adbcebd0c6f481debd46544021de360dea76d00f70e",
+      "DUST07": "8b44adedfd61592c639f325cca25482d46ba289670d263cb5e2ed836d90e9dab"
+    },
+    "original14blank_file_sha256": "3372733aa462b9e97a7b2bd117fb29c7eff7ab34d0a0bc3d9f4084c2234ddd0f",
+    "R1_changed": false
+  },
+  "whole_edition_accounting_only": {
+    "supplemental_total": 19,
+    "accepted_including_this_pending_publication": [
+      "DUST-01",
+      "DUST-02",
+      "DUST-03",
+      "DUST-04",
+      "DUST-05",
+      "DUST-06",
+      "DUST-07",
+      "DUST-CONT",
+      "EXP-01",
+      "EXP-02"
+    ],
+    "previously_published_full_gate_closed": [
+      "DUST-01",
+      "DUST-02",
+      "DUST-03",
+      "DUST-04",
+      "DUST-05",
+      "DUST-06",
+      "DUST-07",
+      "DUST-CONT",
+      "EXP-01"
+    ],
+    "mixed_programs_published_at_stated_scopes": 5
+  },
+  "global_narrative_component_completion_percentage": null,
+  "remaining_boundary": "Exact containing publication/readback/source audit/housekeeping/final actual-source audit/status and fresh authority reload before separate EXP-03 admission. Full remaining supplemental/main-excluded/expanded synthesis/StageD/secondary/index/final-release work continues."
+}

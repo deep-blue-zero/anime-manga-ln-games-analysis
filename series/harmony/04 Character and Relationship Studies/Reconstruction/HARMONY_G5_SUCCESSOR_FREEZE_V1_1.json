@@ -1,0 +1,46 @@
+{
+  "schema": "harmony-g5-successor-freeze/v1",
+  "frozen_utc": "2026-10-19T04:34:18.537020+00:00",
+  "original_freeze_commit": "6286a941b34736ec76ade2062928e6070405f1e9",
+  "source_sha256": "d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae",
+  "changes": {
+    "ETIENNE": "ET1",
+    "REIKO": "RE2",
+    "NUAZA": "NU4",
+    "UWE": "UW2"
+  },
+  "files": [
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_ETIENNE_RECONSTRUCTION_MODEL.md",
+      "sha256": "217a33172486912e831850fa7ffc453e7da16dc23bb3ecf9f7b16d93daf433dd",
+      "bytes": 4947
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_REIKO_RECONSTRUCTION_MODEL.md",
+      "sha256": "4c90167084e39754ec22e8efd6e5d26be813e335c807e8b704bb3d3c194c40b0",
+      "bytes": 5180
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_NUAZA_RECONSTRUCTION_MODEL.md",
+      "sha256": "1b7af88f6d073770e40f2bc35f35d8152d5da96e9e046a49ab412a0d9915dae2",
+      "bytes": 6369
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_UWE_RECONSTRUCTION_MODEL.md",
+      "sha256": "8d3c55e6fe775aa3d4f5cf0321501e1853d232290e67fa324bc083a6be4b95f5",
+      "bytes": 5341
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_G5_ORIGINAL_V1_POLICIES.json",
+      "sha256": "d161f25d5a0c0417fc18933f43dbaab4de12f66272254d069fcd4be5acbd6be2",
+      "bytes": 20556
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/Interactive/scenarios_successors.json",
+      "sha256": "7fca35d1bed60cc5859b44e4705a1cb17fbc87c4bd352d61f86f1b450ea5ff8a",
+      "bytes": 10334
+    }
+  ],
+  "unchanged_original_suite_sha256": "0da633068a28c274934b620c511e497b739fd6b2c75f12dfc15c97b22cfb28e9",
+  "evaluation_at_freeze": "AFFECTED_SUCCESSOR_RERUNS_NOT_PERFORMED"
+}

@@ -1,0 +1,161 @@
+{
+  "artifact_type": "character_visual_design_profile",
+  "character": "Shorekeeper",
+  "counterreadings": [
+    "A single costume feature may support several readings; the profile records plausible visual functions rather than claiming unique authorial intent.",
+    "UI key art can exaggerate color, pose, scale, transparency, and fabric motion relative to the runtime model."
+  ],
+  "form_state_distinctions": [
+    {
+      "claim_id": "wuwa:visual-claim:9b3e8f4d138639c4169ae107",
+      "confidence": "open",
+      "dimension": "form_skin_state",
+      "evidence_basis": "open",
+      "evidence_visual_ids": [
+        "wuwa:visual:cc2f381030a0ef0375fe8586",
+        "wuwa:visual:4734ae6fcf5b96e00ca7f50d",
+        "wuwa:visual:3b71bbcd4ae2fa5efbb2e137"
+      ],
+      "semantic_source_locators": [
+        "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/role/roleinfo.json#/58"
+      ],
+      "statement": "The three decoded images are treated as the role record's default playable presentation. Alternate skins, transformation states, damage states, and rear views were not established in this generation.",
+      "uncertainty": "A role-linked default UI representation is not proof that no alternate form or skin exists."
+    }
+  ],
+  "generation": "character_visual_v0_2",
+  "observations": [
+    {
+      "claim_id": "wuwa:visual-claim:cb82e08dc373947921d208ec",
+      "confidence": "high",
+      "dimension": "silhouette",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:4734ae6fcf5b96e00ca7f50d",
+        "wuwa:visual:3b71bbcd4ae2fa5efbb2e137"
+      ],
+      "semantic_source_locators": [],
+      "statement": "A very wide asymmetrical hat, fluttering butterfly crest, short fitted dress, layered petal overskirt, long starry train, and ribbon-like tails create a light hourglass silhouette that expands dramatically above and behind her.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:bf8a6719cc5a3c8b8e662468",
+      "confidence": "high",
+      "dimension": "palette",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:4734ae6fcf5b96e00ca7f50d",
+        "wuwa:visual:3b71bbcd4ae2fa5efbb2e137"
+      ],
+      "semantic_source_locators": [],
+      "statement": "White and ice blue dominate the body, deepening through cobalt to near-black star fields in the hat and trailing panels; cyan, violet, and warm yellow appear as butterfly-light accents.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:bc83b37ddd092fdd207b0c25",
+      "confidence": "high",
+      "dimension": "hair_and_face",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:cc2f381030a0ef0375fe8586",
+        "wuwa:visual:4734ae6fcf5b96e00ca7f50d",
+        "wuwa:visual:3b71bbcd4ae2fa5efbb2e137"
+      ],
+      "semantic_source_locators": [],
+      "statement": "Soft pale-blue hair curls around the jaw and shoulders beneath the hat; pink-blue eyes, fine lashes, and a distant relaxed expression give the face a quiet, otherworldly softness.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:2d020afc0c9f9ef34c9a43b6",
+      "confidence": "high",
+      "dimension": "costume_construction",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:4734ae6fcf5b96e00ca7f50d",
+        "wuwa:visual:3b71bbcd4ae2fa5efbb2e137"
+      ],
+      "semantic_source_locators": [],
+      "statement": "A fitted sleeveless white mini-dress with translucent blue bust and skirt layers is split into petal-like panels, then extended by a large brimmed hat, floral attachments, arm jewelry, ribbon streamers, and white heeled sandals.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:97cd9100c839e75e42dab462",
+      "confidence": "medium",
+      "dimension": "materials",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:4734ae6fcf5b96e00ca7f50d",
+        "wuwa:visual:3b71bbcd4ae2fa5efbb2e137"
+      ],
+      "semantic_source_locators": [],
+      "statement": "Opaque white cloth is layered with glassy or organza-like pale-blue panels, silver fittings, petal ornaments, and deep-blue surfaces rendered with scattered star points and luminous gradients.",
+      "uncertainty": "Material words describe rendered cues, not a physical-material measurement."
+    },
+    {
+      "claim_id": "wuwa:visual-claim:18f6b61f722492acbd6ece20",
+      "confidence": "high",
+      "dimension": "motifs",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:4734ae6fcf5b96e00ca7f50d",
+        "wuwa:visual:3b71bbcd4ae2fa5efbb2e137"
+      ],
+      "semantic_source_locators": [],
+      "statement": "Butterflies or moths, flowers, petals, wings, stars, shorelike blue gradients, and paired flowing tails repeat from the hat crest and fingertip companion through the dress and train.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:6f3675d2cff63ad413a2e7fc",
+      "confidence": "medium",
+      "dimension": "weapon_and_role_signaling",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:4734ae6fcf5b96e00ca7f50d",
+        "wuwa:visual:3b71bbcd4ae2fa5efbb2e137"
+      ],
+      "semantic_source_locators": [],
+      "statement": "No held weapon is visible in the bounded UI set; the orbiting butterfly, open hands, and expansive starry train signal a guide, guardian, or supernatural support presence rather than conventional armed force.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:5938b2b7032659ecaefa96cf",
+      "confidence": "high",
+      "dimension": "pose_and_body_language",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:4734ae6fcf5b96e00ca7f50d",
+        "wuwa:visual:3b71bbcd4ae2fa5efbb2e137"
+      ],
+      "semantic_source_locators": [],
+      "statement": "One hand welcomes a luminous butterfly while the other opens outward; crossed legs and lifted heel create a hovering, weightless poise, while her gaze remains calm and slightly removed.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:aaf148aa250b1a1e98a952f2",
+      "confidence": "medium",
+      "dimension": "design_narrative_relationship",
+      "evidence_basis": "direct_visual_and_semantic",
+      "evidence_visual_ids": [
+        "wuwa:visual:4734ae6fcf5b96e00ca7f50d",
+        "wuwa:visual:3b71bbcd4ae2fa5efbb2e137"
+      ],
+      "semantic_source_locators": [
+        "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/Textmaps/en/multi_text/MultiText.json#/271915"
+      ],
+      "statement": "The threshold-like blend of human dress, butterfly transformation, and cosmic fabric supports the semantic profile of a Black Shores guardian learning desire and emotional bonds after meeting Rover, but it does not by itself establish a unique authorial meaning for the butterfly.",
+      "uncertainty": "The relationship between visible design and narrative meaning is analytical interpretation unless the cited text explicitly names the feature."
+    }
+  ],
+  "open_questions": [
+    "How does the silhouette and garment construction read from the back and in neutral runtime lighting?",
+    "Which pose, gesture, idle, facial-expression, and movement habits persist across authored scenes and gameplay?",
+    "Which alternate skins, forms, combat states, or story states materially change this design grammar?",
+    "Do official promotional sheets or model turnarounds contradict details inferred from these three UI rasters?"
+  ],
+  "role_id": 1505,
+  "schema_version": "wuwa.character-visual-design-profile.v0.2",
+  "source_generation_frozen": false,
+  "status": "active_provisional",
+  "summary": "The Shorekeeper is a luminous, liminal figure built from white petals, pale-blue hair, translucent layers, star-filled midnight ribbons, and butterfly imagery. The design joins a delicate human dress silhouette to something cosmic and migratory, making guardianship feel less like armor than a threshold between shore, sky, and deep space.",
+  "visual_manifest": "CHARACTER_VISUAL_REFERENCE_MANIFEST.json"
+}

@@ -1,0 +1,107 @@
+{
+  "schema": "character-interactive-artifact-hashes/v1",
+  "scope": "Execution/data artifacts only; excludes this file, README prose and independent review to avoid circular bindings.",
+  "artifacts": [
+    {
+      "file": "character_harness.py",
+      "bytes": 8459,
+      "sha256": "8424d153ba218aa4ea9ded6ee4188359d76a45379e38407429fed4529c9b54af"
+    },
+    {
+      "file": "resume_followups.py",
+      "bytes": 4214,
+      "sha256": "971d1b044f5c96c787e3a4aa71476809229e9856520db90d7680992f30d9c4d8"
+    },
+    {
+      "file": "package_receipts.py",
+      "bytes": 5162,
+      "sha256": "a755093aeaa7deda71c9ac4d9a275174852ae485ce51eb50d1d3e96bfb755590"
+    },
+    {
+      "file": "scenarios.json",
+      "bytes": 17763,
+      "sha256": "25f33edd47a98d2fc66b18f22c3ef2e640bc687247d5dd5c4e09a6a1e67e7805"
+    },
+    {
+      "file": "adaptive_wave1.json",
+      "bytes": 6857,
+      "sha256": "788379deb3ef3acd17ea508476d9846c8e924ea2ca4bda92df686b8e25ea7423"
+    },
+    {
+      "file": "adaptive_wave2.json",
+      "bytes": 7729,
+      "sha256": "6c8c672970cb9997f76fa3f9c7e61f45a4b31abe5f0ff12c7a49b2b4ddedd825"
+    },
+    {
+      "file": "interactions.json",
+      "bytes": 169442,
+      "sha256": "e57b052e75ca87f1ab086975a267e3b539dbc737a14050c0cd3ff50d348ddd93"
+    },
+    {
+      "file": "runtime_receipt.json",
+      "bytes": 148326,
+      "sha256": "c5be8c0dbd95c80b3691f3f38d868bdcd76bcd9c4b8372bdcb750472c6ff1449"
+    },
+    {
+      "file": "runtime_context.json",
+      "bytes": 23958,
+      "sha256": "27c61e44fe3ee33c9694c3f59cd76e9a603f05a00d798da092fefb8c7461182c"
+    }
+  ],
+  "frozen_policies": [
+    {
+      "id": "clavis",
+      "path": "series/genocidal-organ/04 Character and Relationship Studies/Reconstruction/GENOCIDAL_ORGAN_CLAVIS_RECONSTRUCTION_MODEL.md",
+      "sha256": "4d3d12da7cbfc7f5371544138ed5cc26114268c1567f8e5249f63739b21a754b"
+    },
+    {
+      "id": "williams",
+      "path": "series/genocidal-organ/04 Character and Relationship Studies/Reconstruction/GENOCIDAL_ORGAN_WILLIAMS_RECONSTRUCTION_MODEL.md",
+      "sha256": "72e6514f1ea732590888753cfed615043e7f070dce15cf7155eccf729027bbaf"
+    },
+    {
+      "id": "john_paul",
+      "path": "series/genocidal-organ/04 Character and Relationship Studies/Reconstruction/GENOCIDAL_ORGAN_JOHN_PAUL_RECONSTRUCTION_MODEL.md",
+      "sha256": "788244799f77bb332d8f0e7b2cd6a89f6edc4f402f9475c9ee7dfe6dad8417c2"
+    },
+    {
+      "id": "lucia",
+      "path": "series/genocidal-organ/04 Character and Relationship Studies/Reconstruction/GENOCIDAL_ORGAN_LUCIA_RECONSTRUCTION_MODEL.md",
+      "sha256": "38143215e4bdb911acf11c0b25f1e097242b6e99cc9fd6f126a6ba901d57ca6c"
+    },
+    {
+      "id": "alex",
+      "path": "series/genocidal-organ/04 Character and Relationship Studies/Reconstruction/GENOCIDAL_ORGAN_ALEX_RECONSTRUCTION_MODEL.md",
+      "sha256": "6efcc302f07a459dc61c076071e209ccf39f73a574693d52f4e06e28344d08b1"
+    },
+    {
+      "id": "leland",
+      "path": "series/genocidal-organ/04 Character and Relationship Studies/Reconstruction/GENOCIDAL_ORGAN_LELAND_RECONSTRUCTION_MODEL.md",
+      "sha256": "c3ca194a2625f83bfce577d3096d61330652b28bacedd01c304a762a6e7ff09e"
+    },
+    {
+      "id": "rockwell",
+      "path": "series/genocidal-organ/04 Character and Relationship Studies/Reconstruction/GENOCIDAL_ORGAN_ROCKWELL_RECONSTRUCTION_MODEL.md",
+      "sha256": "f2bd2fc83686f4b62f1821ec8fa8d699abf36ca7e2980687210f6537d2c33c66"
+    },
+    {
+      "id": "lucius",
+      "path": "series/genocidal-organ/04 Character and Relationship Studies/Reconstruction/GENOCIDAL_ORGAN_LUCIUS_RECONSTRUCTION_MODEL.md",
+      "sha256": "ada69e0a8df20f468f6a62864a552210e62f2c16393c0b8d77d60bdc12da9603"
+    }
+  ],
+  "input_container_transformations": [
+    {
+      "file": "adaptive_wave1.json",
+      "original_container_sha256": "b2c0a3bbc1d0409dab7b0843588a16a8c3ead4e52158a6bf63868d29bd01895b",
+      "public_lf_sha256": "788379deb3ef3acd17ea508476d9846c8e924ea2ca4bda92df686b8e25ea7423",
+      "transformation": "CRLF_TO_LF_ONLY; parsed prompts unchanged"
+    },
+    {
+      "file": "adaptive_wave2.json",
+      "original_container_sha256": "b9380b746d686128c80426e82a164ab0a6ab2c17dd2e8c612147d3a631e80150",
+      "public_lf_sha256": "6c8c672970cb9997f76fa3f9c7e61f45a4b31abe5f0ff12c7a49b2b4ddedd825",
+      "transformation": "CRLF_TO_LF_ONLY; parsed prompts unchanged"
+    }
+  ]
+}
