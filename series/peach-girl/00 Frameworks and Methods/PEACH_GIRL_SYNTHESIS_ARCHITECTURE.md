@@ -5,7 +5,7 @@ artifact_type: synthesis_architecture
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.2"
+version: "0.3"
 status: active_provisional
 scope: "Cumulative responsibilities, specialist dependencies, reconstruction and completion gates"
 source_boundary: "Verified original Japanese manga V01–V18; inherited four audited/new fourteen direct;G1/G2 reconciled"
@@ -136,3 +136,10 @@ Evidence warrants separate Momo/Kairi/Tōji/Sae monographs, a scoped Misao/Ryo/s
 The present owner recovery brief expressly authorizes G4 assessment and actual testing. It supersedes the bootstrap's no-construction authorization statement for this new run; all evidentiary constraints remain. No genuinely held-out original source remains after full exposure. Freeze any rule set before testing; disclose retrospective design, alternatives, failure and abstention. Operational portability cannot be declared validated from retrospective fit. G4 may remain BLOCKED_NO_HELD_OUT_VALIDATION while a truthful literary scope proceeds.
 
 One source-capable operator continues; no independent blind reviewers or agents are commissioned. Mature synthesis begins only after this audit commit. Full-series convergence follows G3/G4 dispositions; repeat role-gap audit at G6. No adaptation/sequel/source promotion/global registry write is admitted.
+
+
+## Amendment0.3 — converged literary scope and model debt,2026-10-20
+
+The [G5 decision](../07%20Audits%20and%20Handoffs/PEACH_GIRL_G5_CONVERGENCE_AND_ROLE_GAP_DECISION.md) repeats the role-gap review after9 G3 studies and actual G4 testing. No new ledger/specialist is mandatory for the original literary scope. [Full-series synthesis](../05%20Synthesis/PEACH_GIRL_FULL_ORIGINAL_SERIES_SYNTHESIS.md) integrates causal, social, romantic, reputational, structural and visualarguments while keeping competingendingreadings.
+
+G1/G2 CLOSED/compositeprovenance;G3 CLOSED_scopedliterary;G4 assessment/testsperformed but operationalacceptanceBLOCKED_NO_HELD_OUT_VALIDATION/no fullmodelprogramcompletion;G5 CLOSED_scopedliterary;G6 localchecks/packagepending/externalintegrationandownerreleaseunperformed. Lifecycle remains EVOLVING untilfinalvalidation; no automaticreleaseFROZEN or acceptance.

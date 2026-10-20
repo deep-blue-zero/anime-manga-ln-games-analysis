@@ -5,10 +5,10 @@ artifact_type: corpus_map
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.20"
+version: "0.21"
 status: active_provisional
 scope: "Single current entrypoint, source/readiness boundaries and next permitted operation"
-source_boundary: "Original Japanese manga; 新装版 V01–V18 byte- and package-verified; owner-authorized V01–V18 narrative run completed;G1–G3 closed;G4 operational acceptance blocked after tests;G5/G6 pending"
+source_boundary: "Original Japanese manga; 新装版 V01–V18 byte- and package-verified; owner-authorized V01–V18 narrative run completed;G1–G3/G5 literary scope closed;G4 operational blocked;G6 pending"
 canonical_home: series/peach-girl/CURRENT_STATE_AND_CORPUS_MAP.md
 created: "2026-10-16"
 review_status: OWNER_EXECUTION_AUTHORIZED_LOCAL_RESULT_UNREVIEWED
@@ -64,7 +64,7 @@ repository_state:
 
 # Peach Girl — current state and corpus map
 
-This is the single current first-read surface for Miwa Ueda's ピーチガール at `series/peach-girl/`, on continuing branch `series/peach-girl`. Generation `PEACH_GIRL_BOOTSTRAP_V1` is the INITIAL foundation with provisional authority; the owner has authorized execution against it, while acceptance of results remains pending. Git is the analytical plane under live authority epoch 1; Drive collection ID `1kxx4orHjiHg_CEI1fZyifjt8_e9WNmMp` is the canonical primary/derived evidence route, resolved through the source map. No prior Peach Girl analytical root was discovered; existing source-ingestion infrastructure is preserved.
+This is the single current first-read surface for Miwa Ueda's ピーチガール at `series/peach-girl/`, on continuing branch `series/peach-girl`. Generation `PEACH_GIRL_BOOTSTRAP_V1` preserves the original provisional lineage. Architecture0.3 has evolved through actual source completion, reconciliation, specialist work and model assessment; owner acceptance remains pending. Git is the analytical plane under live authority epoch 1; Drive collection ID `1kxx4orHjiHg_CEI1fZyifjt8_e9WNmMp` is the canonical primary/derived evidence route, resolved through the source map. No prior Peach Girl analytical root was discovered; existing source-ingestion infrastructure is preserved.
 
 `SEQUENTIAL_ANALYSIS_LOCK = OPEN`
 
@@ -84,8 +84,8 @@ The owner's 2026-10-16 instruction authorizes a `continuous_sequential` run over
 | Unresolved source structure | Chapter boundaries, printed-page mapping and internal components/extras: navigation offers only 表紙/本編, so these are established by inspection at each volume's admission |
 | Narrative admission / inspection | Volumes are admitted and closed one at a time; the committed high-water mark in the front matter and the table of closed readings below are authoritative |
 | Longitudinal state | Four instruments carry source-derived rows through the committed high-water mark; each volume transaction appends to all four or records no material change |
-| Character reconstruction | Contract specified in the architecture; subjects/models unassessed; no operational model or capability grade |
-| Synthesis/release | G1/G2 closed by linked reconciliation; G3–G6 pending; no upstream integration or owner acceptance |
+| Character reconstruction | Six readiness dispositions; four frozen categorical prototypes actually tested retrospectively; operational acceptance BLOCKED_NO_HELD_OUT_VALIDATION; no global capability grade |
+| Synthesis/release | G1–G3/G5 closed for scoped literary work; G4 operational acceptance blocked after tests; G6 local validation/package next; no upstream integration or owner acceptance |
 
 The [source and scope map](00%20Frameworks%20and%20Methods/PEACH_GIRL_SOURCE_AND_SCOPE_MAP.md) owns exact keys/Drive IDs, manifest hashes, reported source hashes and limitations. Its inventory is not a source lock for an authorized narrative run. V01 structural verification does not establish chapter completeness, narrative admission or story understanding. Published volume counts are not used as proof of Drive availability.
 
@@ -122,7 +122,7 @@ Each row is a closed atomic transaction. Its freeze is recorded in the reading i
 1. This entrypoint, then the [source map](00%20Frameworks%20and%20Methods/PEACH_GIRL_SOURCE_AND_SCOPE_MAP.md).
 2. [Analytical method](00%20Frameworks%20and%20Methods/PEACH_GIRL_ANALYTICAL_METHOD.md): source inspection, evidence/interpretation distinctions, locators, prospective sequential transaction and visual/written-language discipline.
 3. [Synthesis architecture](00%20Frameworks%20and%20Methods/PEACH_GIRL_SYNTHESIS_ARCHITECTURE.md): responsibility matrix, dependencies, specialist promotion, reconstruction contract and separate completion gates.
-4. The four day-one instruments: [character development/readiness](03%20Longitudinal%20Ledgers/PEACH_GIRL_CHARACTER_DEVELOPMENT_AND_READINESS_LEDGER.md), [relationships/commitments](03%20Longitudinal%20Ledgers/PEACH_GIRL_RELATIONSHIP_AND_COMMITMENT_LEDGER.md), [information/reputation](03%20Longitudinal%20Ledgers/PEACH_GIRL_INFORMATION_AND_REPUTATION_LEDGER.md), [claims/predictions/revisions](03%20Longitudinal%20Ledgers/PEACH_GIRL_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md). These are current-eligible provisional schemas, not completed analysis.
+4. The four day-one instruments: [character development/readiness](03%20Longitudinal%20Ledgers/PEACH_GIRL_CHARACTER_DEVELOPMENT_AND_READINESS_LEDGER.md), [relationships/commitments](03%20Longitudinal%20Ledgers/PEACH_GIRL_RELATIONSHIP_AND_COMMITMENT_LEDGER.md), [information/reputation](03%20Longitudinal%20Ledgers/PEACH_GIRL_INFORMATION_AND_REPUTATION_LEDGER.md), [claims/predictions/revisions](03%20Longitudinal%20Ledgers/PEACH_GIRL_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md). These instruments contain the complete versioned longitudinal history and terminal retrieval projections; their authority remains provisional pending owner acceptance.
 5. [Bootstrap receipt](07%20Audits%20and%20Handoffs/PEACH_GIRL_BOOTSTRAP_RECEIPT.md): exact authored manifest, reconnaissance, validation/publication evidence and owner-review questions, preserved as the historical provisional state.
 6. [Execution authorization and initiation record](07%20Audits%20and%20Handoffs/PEACH_GIRL_EXECUTION_AUTHORIZATION_AND_INITIATION_RECORD.md): owner execution scope, gate verification, full source acquisition/verification, capability profile and publication limits for the current run.
 
@@ -195,3 +195,7 @@ Revision0.18 —2026-10-20;G1/G2 audit before mature synthesis; historicalreadin
 ## G4 executed assessment and blocked operational acceptance
 
 [Reconstruction assessment/tests](04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_RECONSTRUCTION_ASSESSMENT_AND_TESTS.md), [cases](04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_RECONSTRUCTION_CASES_V1.json), [results](04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_RECONSTRUCTION_RESULTS_V1.json) and [execution receipt](07%20Audits%20and%20Handoffs/PEACH_GIRL_G4_EXECUTION_RECEIPT.json) retain actual12probes afterfrozenrulescommit073af8008bab1226b854772019cf5e8d76b3613e. K2/T2/S1counterexamples preserved/no posttestfit; knowledgeguardsnotbehavioralsuccess. Fullsourceexposure/noheldout means operationalacceptanceBLOCKED, not complete modelprogram. Characterledger0.19/RD0001–0006 separate literary/operationalaxes. G5 can proceed with explicit G4 dispositions; G6 externalreleasepending. Revision0.20 —2026-10-20.
+
+## G5 integrated original-series argument
+
+[Full original-series synthesis](05%20Synthesis/PEACH_GIRL_FULL_ORIGINAL_SERIES_SYNTHESIS.md) and [convergence/role-gap decision](07%20Audits%20and%20Handoffs/PEACH_GIRL_G5_CONVERGENCE_AND_ROLE_GAP_DECISION.md) close G5 for literaryscope, keeping finalpair/ethicalrepair tension. G4 actualassessment/blocker retained; no operationalprogramcompletion. Next G6 exactcorpus/source/reference/omission/portablepackagechecks. Revision0.21 —2026-10-20;no narrativeorhistoricalfreezechanges.
