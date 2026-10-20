@@ -5,7 +5,7 @@ artifact_type: relationship_commitment_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.11"
+version: "0.12"
 status: active_provisional
 scope: "Directional Relationships and Commitments; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -520,3 +520,46 @@ No actual Momo/Kairi breakup by165, no Tōji/Sae agreed nonexclusivity, no Misao
 | PG-CM-0108 / NONE | Momo inward someday first159, seeks peer shortcut160–161 | EV0031–0032; OWN_FUTURE_PROJECT_NOT_MUTUAL_PROMISE, preferred result unachieved |
 
 No present Misao confession/rejection/reciprocal pact; no Tōji/Momo reunion or mutually agreed Tōji/Sae breakup. New Momo/Kairi closeness does not rewrite the enacted ending. Next RL0175, CM0109. Revision0.11 — V12 successors2026-10-20, full old body/rows preserved.
+
+## V13 successor transaction — PG-FR-V13
+
+[V13 reading](../02%20Sequential%20Readings/PEACH_GIRL_V13_DEEP_READING.md); EV=PG-EV-V13. No, assent to a limited job, continued attachment, bodily harm, rescue and forgiveness are different states.
+
+| Direction / prior | Actual transition | Evidence / limit |
+| --- | --- | --- |
+| PG-RL-0175 / RL0173 | Momo → Kairi / no home50 despite earlier bravado, trip yes53/relief55; jealous Misao64–67/second insufficient; accepts job69 | EV0008/0010; actual changing limits/wishes, no current sex permission |
+| PG-RL-0176 / RL0174 | Kairi → Momo / good as is20, asks home50, trip52/wait until feelings align54/head kiss55, joint work68–70 | EV0003/0008/0010; meaningful care/restraint, no first-place pledge/old-cause explanation |
+| PG-RL-0177 / RL0161 | Kairi → Misao / summer wish daily meeting64, catches collapse144/comforts body insecurity155 | EV0010/0025/0027; continued attachment, not established reciprocal romance |
+| PG-RL-0178 / RL0162 | Misao → Kairi / concern about Sae/Ryo143, collapses into catch144, diet insecurity154/thanks reassurance155/sleeps156 | EV0025/0027; no informed romance consent or Misao knowledge of Ryo-call scene99 |
+| PG-RL-0179 / RL0142 | Ryo → Sae / accepts money/knows earnings35–38/high-pay introduction71, conditional never-see-me101 after apparent cancellation option100 | EV0006/0011/0016; actual economic/emotional pressure, legal-right/advance claims not analyst findings |
+| PG-RL-0180 / RL0143 | Sae → Ryo / cash/protects from Momo slap39/loves44/choice45, trusts job74/dismisses warning88; asks betrayal100/then seeks Momo105 | EV0006–0007/0011/0014–0017; affection real and belief changes, not all informed agreement or fake feeling |
+| PG-RL-0181 / RL0159 | Tōji → Sae / hears current breakup/apology45–46/goes after47, reports cannot persuade59, receives summons107/punches114/carries her116 | EV0007/0009/0017/0019; help despite ending, no reciprocal reunion or right to require continuation |
+| PG-RL-0182 / RL0144 | Sae → Tōji / explicit current ending45/already asked/sorry46 | EV0007; earlier refusal V12 not mutual assent, current withdrawal valid |
+| PG-RL-0183 / RL0083 | Momo → Sae / confronts/worries, actual unintended-recipient slap39, warns86, refuses abandon91, receives help call105/rescues/covers115/first aid120 | EV0002–0007/0014/0017/0019–0020; protective care and own harmful misjudgment retained, no obligation forgive |
+| PG-RL-0184 / RL0125 | Sae → Momo / denial/push11/sales pitch16/warning dismissed88, distressed concession/call105, defensive118 then tremor/thanks122 | EV0002–0003/0014/0017/0020; real progression not pure gratitude from outset or pure manipulation throughout |
+| PG-RL-0185 / RL0180 | Sae → Ryo / direct asks deception127–128, knows risk but loves132/chases/takes arm133, admits hope change145 | EV0022–0023/0025; knowing some danger not all-informed safe consent, not irrationality as complete motive |
+| PG-RL-0186 / RL0179 | Ryo → Sae / apology/claimed shock-therapy129/goodbye130, then arm around returned Sae133 | EV0022–0023; responsive gesture not reform proof, lesson claim conflicts communication excuse100 |
+| PG-RL-0187 / RL0184 | Sae → Momo / buys/gifts ice cream139/acknowledges past hurt140, private sorry146/arranges Jigoro account150–153 | EV0024–0026; concrete repair beyond words; old harms not erased or future loyalty guaranteed |
+| PG-RL-0188 / RL0183 | Momo → Sae / wants stop pursuit131, recognizes own parallel134–135, accepts gift/apology141, initially fears trap149 then receives account/relief153–156 | EV0023–0027; empathy not exploitation endorsed, momentary suspicion revised by new evidence |
+| PG-RL-0189 / RL0068 | Jigoro → Momo / direct apology150/152/no old sexual act152 | EV0026; delayed truth/repair not no prior wrongdoing; participant report not independent replay |
+| PG-RL-0190 / RL0177 | Kairi → Misao / pokes sleeping cheek158/watches/touches159/leans close160 | EV0028; intimate approach, no secure completed kiss or sleeping assent; Momo witness161 |
+| PG-RL-0191 / RL0176 | Kairi → Momo / joins rescue after initial punitive stance91, DVD disclosure135/claims nothing hidden136; caught leaning/startles161/says name162 | EV0014/0019/0023/0028; disclosure claim not exhaustive, no explanatory response or first-choice commitment |
+| PG-RL-0192 / RL0175 | Momo → Kairi / understands Sae persistence via own love134–135, continuing second-place anxiety137, old virginity hypothesis157 then sees approach161–162 | EV0023–0024/0027–0028; relief about past not security now; no next response/current breakup shown |
+| PG-RL-0193 / RL0170 | Tōji → Momo / school exchange57–62/supplies business concern, responds to urgent call107/joins shared rescue114 | EV0009/0017/0019; practical cooperation, not renewed dating or canceled V12 romantic stake |
+
+| Commitment / prior | Terms and actual disposition | Evidence / limit |
+| --- | --- | --- |
+| PG-CM-0109 / CM0107 | Momo no home50/no is no; Kairi invokes earlier casual offer/period guess | EV0008; CURRENT_REFUSAL_VALID, no sex shown or reason required |
+| PG-CM-0110 / NONE | Kairi proposes sea trip52/Momo yes53, joint wages68–70 | EV0008/0010; SHARED_PLAN_NO_BOOKING_OR_COMPLETION_SHOWN |
+| PG-CM-0111 / CM0106 | Kairi wants treasure/wait until feelings properly face54 | EV0008; CURRENT_WAIT_PROMISE, no exclusive preference/old stopping-cause proof |
+| PG-CM-0112 / NONE | Sae states ending Tōji45–46 after earlier request/refusal | EV0007; CURRENT_WITHDRAWAL_ENACTED, no mutual earlier agreement or later rescue-as-reunion |
+| PG-CM-0113 / NONE | Sae agrees staged collision77–79, objects actual hotel93/leaving94 | EV0012/0015; LIMITED_WORK_ASSENT_THEN_EXPLICIT_WITHDRAWAL, no sexual permission |
+| PG-CM-0114 / CM0113 | Crew claims advance/rights/cancel fee94–95; forces bathroom/restraint111/clothing filming112 despite no | EV0015/0018; ACTUAL_NONCONSENSUAL_HARM, no valid rights/contract finding or completed intercourse established |
+| PG-CM-0115 / NONE | Ryo if no quit/I pay100 BUT never see again101 | EV0016; CONDITIONAL_ABANDONMENT, cancellation payment/rescue unperformed |
+| PG-CM-0116 / NONE | Sae distress105/location106/Momo coming; Tōji/friends urgent summons107/group actually enters114 | EV0017/0019; HELP_REQUEST_AND_ACTUAL_RESCUE_AFTER_HARM, no full detail receipt by all |
+| PG-CM-0117 / NONE | Momo asks friends keep secret118/group agrees | EV0020; BOUNDED_CONFIDENTIALITY_PROMISE, no verified universal suppression/footage erasure |
+| PG-CM-0118 / NONE | Sae knows warning132/chooses follow Ryo133/hopes change145 | EV0023/0025; ATTACHMENT_PERSISTENCE, not irrevocable contract or consent to later exploitation |
+| PG-CM-0119 / NONE | Sae admits hurt140/thanks/apology146 and arranges Jigoro meeting150 | EV0024–0026; SPECIFIC_REPARATIVE_ACT, not global forgiveness or guaranteed future reform |
+| PG-CM-0120 / NONE | Kairi intimate approach to sleeping Misao158–160/interrupted witness161 | EV0028; NO_AFFIRMATIVE_PERMISSION_ESTABLISHED_NO_SECURE_COMPLETED_KISS, no actual Misao reciprocal commitment |
+
+Next RL0194, CM0121. Revision0.12 — V13 successors2026-10-20; full prior body/rows retained.

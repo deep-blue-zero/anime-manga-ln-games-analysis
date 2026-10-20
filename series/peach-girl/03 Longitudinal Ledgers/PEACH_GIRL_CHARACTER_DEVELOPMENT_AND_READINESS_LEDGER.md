@@ -5,7 +5,7 @@ artifact_type: character_development_readiness_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.11"
+version: "0.12"
 status: active_provisional
 scope: "Character Development and Readiness; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -413,3 +413,34 @@ CHAR0005 Misao identity verified against existing cast before closure. No new ac
 | PG-CS-0156@1 / CHAR0020 / CS0129 | REVEALED_NOT_NEW through Kairi account: intrusive contact Misao64/minimizes, rescuer attribution74/later search report75; current rarely-home report166 | EV0012/0015–0016/0034; CL0025@4/0026@3. Past reports not new present assault; naming Aki surname65 not proof dead-woman identity/history |
 
 Misao remains CHAR0005, now full name 安芸操 Aki Misao52. CHAR0022 reported アキ remains unmerged/unverified. Anonymous peers/photographer/phone recipient/adult companion are not given invented named identities; adult is not Ryo and not securely Honda CHAR0014. Next CHAR0023, CS0157, RD0001. Revision0.11 — V12 successors2026-10-20; complete prior body/rows retained.
+
+## V13 successor transaction — PG-FR-V13
+
+[V13 reading](../02%20Sequential%20Readings/PEACH_GIRL_V13_DEEP_READING.md);171 inspected/157 mainline. EV=PG-EV-V13; CHAR=PG-CHAR. Acts/speech HIGH, self-serving explanations and inner motive qualified. Readiness UNASSESSED_NO_OPERATIONAL_MODEL_TESTED; no new RD.
+
+| Local subject | Verified identity/admission | Limit |
+| --- | --- | --- |
+| PG-CHAR-0023 | ポッキー鈴木 / Pocky Suzuki; Kairi recognizes/names adult-video actor80, visible filming costar77–82 and hotel actor | EV0012/0015/0018; actual recognition claim, not independent credits audit. Not Jigoro CHAR0015/Honda CHAR0014/opening adult. Global ID null |
+
+| State / subject / prior | Actual transition/frontier | Basis / limit |
+| --- | --- | --- |
+| PG-CS-0157@1 / CHAR0003 / CS0154 | CHOICE/CONTEXT: adult hotel/denies Momo6, pushes11/dismisses12, whitening pitch16–18; school denial24/accepts teacher composite25; pays Ryo cash34–35 | EV0002–0006; CL0002@12/0003@11. No verified image forgery/sex/efficacy or exact cash total |
+| PG-CS-0158@1 / CHAR0001 / CS0155 | CHOICE: challenges adult/Sae, rejects sales pitch, seeks Tōji/Ryo, takes envelope35/swings at Ryo39 but hits interposed Sae | EV0002–0007; CL0013@9. Protective purpose does not erase actual physical blow/misjudgment |
+| PG-CS-0159@1 / CHAR0003 / CS0157 | CHOICE/STATEMENT: protects Ryo39/love44/own choice45, current Tōji ending/sorry46; claims modeling/game job74, dismisses actual warning86–88 | EV0006–0007/0011–0014; CL0002@12. Stated volition not all-informed sexual consent or safe reciprocity |
+| PG-CS-0160@1 / CHAR0002 / CS0151 | KNOWLEDGE/CHOICE: sees ending/conflict47; reports missed exams/makeups58/internet business60–62; actually joins rescue/punch114/carries Sae116 | EV0005/0007/0009/0019; CL0015@8. No Momo reunion, own romantic stake erased or full Sae details from summons alone |
+| PG-CS-0161@1 / CHAR0004 / CS0153 | CHOICE/STATEMENT: appearance affirmation20/affection50, asks home after refusal, sea trip52/wait for aligned feelings54, summer Misao wish64, joint job68–70 | EV0003/0008/0010; CL0006@13/0028@3. Current restraint/liking actual, not exclusivity or old stopping-cause disclosure |
+| PG-CS-0162@1 / CHAR0001 / CS0158 | CHOICE/REFLECTION: no50, fears casual claim51/accepts trip53/relieved55, jealousy/second-place lie67, works69–70; refuses abandon endangered Sae91 | EV0008/0010/0014; CL0013@9/0017@10. Mixed desire/limits and ordinary effort, not passive ignorance or permanent consent |
+| PG-CS-0163@1 / CHAR0020 / CS0156 | CHOICE/STATEMENT: accepts/counts Sae cash35/knows earnings37; offers high pay71, answers Sae99/excuse100/conditional abandonment101 | EV0006/0011/0016; CL0027@3. Actual knowledge and conduct stronger than earlier speculation; no independently verified contract validity/payment or Misao call receipt |
+| PG-CS-0164@1 / CHAR0003 / CS0159 | CHOICE/HARM: protests filming93/leaving94, resists96–97/hides; receives abandonment101, calls Momo104/acknowledges right105/location106; forced restraint/filming111–112 | EV0015–0018; CL0002@12/0017@10. Own escape/help-seeking real; actual assault before rescue, no completed intercourse established |
+| PG-CS-0165@1 / CHAR0001 / CS0162 | CHOICE: warns86–88, seeks location106/summons Tōji107, enters rescue114/covers Sae115/secrecy118/first aid120, accepts thanks122 | EV0014/0017/0019–0020; CL0013@9. Moral agency without duty to forgive, rescue not erasure or no harm |
+| PG-CS-0166@1 / CHAR0004 / CS0161 | KNOWLEDGE/CHOICE: recognizes Pocky80, initially leave-Sae stance91 then calls Ryo92/friends107/joins rescue114; took Morika DVD135 | EV0012/0014/0017/0019/0023; CL0006@13. Genuine assistance plus early punitive judgment; DVD not all Sae footage secured |
+| PG-CS-0167@1 / CHAR0003 / CS0164 | AFFECT/CHOICE: trembles119/thanks cries122, directly questions Ryo127–128, knows yet chases132/embraced133; specific Momo apology/gift139–140 | EV0020/0022–0024; CL0002@12/0003@11. Not all gratitude acting or complete lasting reform, return not safe reciprocity |
+| PG-CS-0168@1 / CHAR0020 / CS0163 | CHOICE/STATEMENT: boasts police link126; sorry/MLM-like/AV shock-treatment rationale129/leaves130, accepts Sae arm/walks133 | EV0022–0023; CL0027@3. Claim of concern not established justification, conflicting excuse retained; no actual police report/corruption verification |
+| PG-CS-0169@1 / CHAR0005 / CS0146 | CHOICE/CONTEXT: sees Momo/Sae leaving143, concern/Ryo pairing not good, collapses144/caught by Kairi; diet/slenderness discussion154–155/rests/sleeps156 | EV0025/0027–0028; CL0026@4. Diet attribution not clinical diagnosis, no full love confession or consent from sleep |
+| PG-CS-0170@1 / CHAR0003 / CS0167 | CHOICE/REVEALED_REPAIR: admits suspects fooled/first true love/hope change Ryo145; understands earlier Momo hurt/apologizes146; arranges Jigoro meeting147–150/studio visit reported150–151 | EV0025–0026; CL0002@12/0003@11. Concrete reparative act, not permanent reform/verified ability change him |
+| PG-CS-0171@1 / CHAR0015 / CS0063 | REVEALED_NOT_NEW/REPAIR: apologizes150–152, says no sexual act with Momo on old day152/should have said earlier | EV0026; CL0018@4. Strong participant account accepted Momo, not omniscient replay or absolution for drugged removal/control |
+| PG-CS-0172@1 / CHAR0001 / CS0165 | KNOWLEDGE/AFFECT: first fears trap149, receives Jigoro account152/Sae confirmation153, relief154/156; admits hidden lasting wound and old virginity explanation hypothesis157 | EV0026–0027; CL0013@9/0018@4. Later evidence revises suspicion, sexual history not analyst worth metric or verified Kairi motive |
+| PG-CS-0173@1 / CHAR0004 / CS0166 | CHOICE: catches Misao144, reassuring care/diet counsel155, pokes sleeping cheek158/watches/touches brow159/leans close160/startles161–162 | EV0025/0027–0028; CL0006@13/0026@4/0028@3. Intimate approach exceeds neutral-care-only reading; completed lip contact/consent/explanation unresolved |
+| PG-CS-0174@1 / CHAR0001 / CS0172 | KNOWLEDGE/AFFECT: returns joyful157, opens door161/sees Kairi over sleeping Misao, shocked162 | EV0027–0028; CL0013@9/0020@8. Sees configuration, not automatically prior diet/cheek sequence, no next response yet |
+
+Pre-canonical identity check: Ryo-call woman99–100 remains UNNAMED; no Misao state/receipt inferred there. Jigoro CHAR0015 and Pocky CHAR0023 distinct. Next CHAR0024, CS0175, RD0001. Revision0.12 — V13 successors2026-10-20; all prior rows/body retained.

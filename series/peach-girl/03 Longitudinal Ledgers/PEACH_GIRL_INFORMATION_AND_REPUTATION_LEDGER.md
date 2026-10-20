@@ -5,7 +5,7 @@ artifact_type: information_reputation_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.11"
+version: "0.12"
 status: active_provisional
 scope: "Information Circulation and Reputation; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -835,3 +835,72 @@ IP0051@3 missing earlier hotel act, older authorship/media/CPR and other unresol
 | PG-RP-0057 / NONE | Sae / fictional magazine163, boys162/other-class issue164/Momo-Kairi witnesses adult168 | EV0032–0034; bounded circulation/rumor, not nationwide certainty or known sexual contract, Tōji receipt unshown |
 
 IP0051@3 earlier missing act remains unresolved; no later source act invented. New rescuer attribution IP0142 is not mouth-to-mouth proof; Aki surname not automatic identity merge. Next IP0151, KN0163, TX0189, RP0058. Revision0.11 — V12 successors2026-10-20, full prior body/rows preserved.
+
+## V13 successor transaction — PG-FR-V13
+
+[V13 reading](../02%20Sequential%20Readings/PEACH_GIRL_V13_DEEP_READING.md); EV=PG-EV-V13. An attributed account can materially resolve character uncertainty while remaining distinct from independent replay. All original rows retained.
+
+| Proposition / prior | Content/class | Evidence / limit |
+| --- | --- | --- |
+| PG-IP-0151@1 / IP0150 | Actual hotel DEEN/adult/money and direct question/Sae reply12 / ESTABLISHED_CONTACT_AND_REPLY | EV0002; past sex/exact total/adult name not established; no actual police call |
+| PG-IP-0152@1 / IP0149 | Sae says not her24/face hers25, teacher supplies composite/Sae nods; peers no punishment27 / CLAIMED_COMPOSITE_REPORTED_OUTCOME | EV0003–0004; not verified digital forgery/official innocence or universal audience |
+| PG-IP-0153@1 / NONE | Ryo accepts cash35/knows earnings37/Sae says no hardship38; Tōji business site/fees account60–62 / DEPICTED_TRANSFER_PLUS_ATTRIBUTED_MECHANISM | EV0006/0009; amount/final envelope disposition unknown, no legal/financial audit |
+| PG-IP-0154@1 / IP0137 | Sae current breakup statement45/already asked/sorry46; Tōji goes after47 / ESTABLISHED_WITHDRAWAL | EV0007; earlier unilateral refusal not mutual prior assent, help not reunion |
+| PG-IP-0155@1 / IP0148 | Momo no50/earlier casual words feared51; Kairi current waiting promise54, later Misao summer wish64 / ESTABLISHED_DISTINCT_CURRENT_CHOICES | EV0008/0010; not old V11 cause or exclusivity, Momo private hypothesis157 not his explanation |
+| PG-IP-0156@1 / NONE | Sae thinks game74/crew collision79; Kairi recognizes Pocky80/Momo warns86–88/Sae dismisses / ESTABLISHED_WARNING_RECEIVED | EV0011–0014; rejection not consent; exact Ryo original job pitch unshown |
+| PG-IP-0157@1 / NONE | Receipt500000 yen/Sae AV fee/Ryo signature94; crew rights/cancel fee/many girls and Morika DVD95 / ACTUAL_PAPER_OBJECT_AND_INTERESTED_CLAIMS | EV0015; no independent transfer/valid rights/all-girls chronology; DVD strongly supports Morika production appearance |
+| PG-IP-0158@1 / NONE | Ryo thought agreed/communication error100/if no quit-I pay then never see me101 / ESTABLISHED_CONDITIONAL_ABANDONMENT | EV0016; prior disclosure/payment unverified; woman99 unnamed, not securely Misao |
+| PG-IP-0159@1 / NONE | Sae no/leaving94/resists/hides97, forced restraint/filming111–112, group enters114 after harm / ESTABLISHED_ASSAULT_AND_LATER_RESCUE | EV0015/0018–0019; no completed intercourse/all footage erased; earlier work assent not permission |
+| PG-IP-0160@1 / NONE | Sae tremor119/thanks122, Ryo shock-treatment excuse129, knowingly follows132–133, later apology140/146 / ESTABLISHED_ACTS_MIXED_ATTRIBUTED_MOTIVES | EV0020/0022–0025; concern rationale not fact, return not healthy reciprocity, remorse not global reform |
+| PG-IP-0161@1 / NONE | Kairi takes Morika DVD135/Momo confiscates, claims no hidden things136 / ESTABLISHED_OBJECT_DISCLOSURE_NOT_EXHAUSTIVE_TRUTH | EV0023; not Sae footage/no destruction proven |
+| PG-IP-0162@1 / NONE | Misao named143/collapse144, diet explanation154–155, sleeps156 / ESTABLISHED_CONTEXT_WITH_ATTRIBUTED_CAUSE | EV0025/0027; no clinical/full motive diagnosis or Misao Ryo-call knowledge |
+| PG-IP-0163@1 / NONE | Jigoro apology150/no sexual act152, Sae confirmation153; Momo hidden wound156/old Kairi-virginity theory157 / NEW_PARTICIPANT_ACCOUNT_ACCEPTED_BY_MOMO | EV0026–0027; strong correction, not independent replay/purity worth/actual Kairi stated cause |
+| PG-IP-0164@1 / NONE | Kairi leaning to sleeping Misao160/Momo opens161/startles162 / ESTABLISHED_INTIMATE_APPROACH_AND_WITNESS | EV0028; no secure completed kiss, sleeping consent, full explanation or next outcome |
+| PG-IP-0051@4 / IP0051@3 | Old missing hotel interval sexual act / STRONGLY_DISCREDITED_BY_NEW_PARTICIPANT_ACCOUNT | EV0026: Jigoro directly says nothing happened152, remembered shampoo fabrication addresses condom, Sae yes153/Momo accepts. Earlier mainline uncertainty/editorial assertion preserved historically, not rewritten. No independent replay/full biography; drugging/removal/control/harm retained |
+
+| Knowledge / holder | Receipt at frontier | Limit |
+| --- | --- | --- |
+| PG-KN-0163 / Momo, Kairi | Direct hotel contact/reply12/magazine answer13–15, sales pitch/affirmation20 | EV0002–0003; no full sex/production history |
+| PG-KN-0164 / Momo, Kairi, Tōji | Witness cash/blow/love declaration/ending34–47 | EV0005–0007; each viewpoint bounded, no knowledge final envelope disposition |
+| PG-KN-0165 / Momo | Tōji website/fees account60–62; plans Kairi relay then diverted63 | EV0009–0010; intent not receipt |
+| PG-KN-0166 / Kairi | Actually says Ryo MLM executive76; recognizes Pocky80 | EV0011–0012; exact off-panel business relay unshown |
+| PG-KN-0167 / Sae | Receives warning86–88/rejects, actual hotel mismatch93/receipt94/DVD95 | EV0014–0015; belief changes, no consent inferred from earlier dismissal |
+| PG-KN-0168 / Ryo; unnamed woman separately | Ryo receives Sae call99–101; woman witnesses/hears his side100 | EV0016; not securely Misao; no automatic woman receipt entire Sae side |
+| PG-KN-0169 / Momo, Kairi | Sae concession105/location room301106, adjacent exchange | EV0017; precise prior location previously unknown, no call to police |
+| PG-KN-0170 / Tōji and friends separately | Actual urgent summons107/then see room114, peers118 not sure full events | EV0017/0019–0020; not automatically full history |
+| PG-KN-0171 / Sae, Momo, Kairi, Tōji | Hear Ryo police boast/excuse126–129; see Sae follows133 | EV0022–0023; hear claim not verified motive/corruption |
+| PG-KN-0172 / Momo | Kairi shows DVD135; Sae specific thanks/apology140/146; Jigoro account152/confirmation153 | EV0023–0026; strongest new old-incident receipt, not Kairi/Tōji automatically informed |
+| PG-KN-0173 / Misao | Sees Momo/Sae leaving143/hears Kairi says reformed/dating Ryo; says not good | EV0025; no proven full AV/Ryo-call/assault history from this exchange |
+| PG-KN-0174 / Kairi | Actual Misao collapse144/diet insecurity154–155/sleep and own approach160 | EV0025/0027–0028; no Momo Jigoro-relief receipt yet |
+| PG-KN-0175 / Momo | Doorway161/close configuration/Kairi startled162 | EV0028; not every prior gesture/diet talk or actual completed kiss known |
+| PG-KN-0176 / Reader | Full ordered cash/warnings/calls/harm/rescue/return/repair/parallel couch ending | EV0002–0028; attributed history and motive not omniscient fact, unnamed99 woman remains unassigned |
+
+| Transfer / prior | Actual channel | Boundary |
+| --- | --- | --- |
+| PG-TX-0189 / NONE | Momo → Sae hotel/adult12/magazine13; Sae → Momo dismissal/sales15–18 | EV0002–0003; original PR0017 qualifies |
+| PG-TX-0190 / NONE | Sae ↔ school staff22–26; peers → peers/Momo no punishment27 | EV0004; supplied composite theory not independent truth |
+| PG-TX-0191 / NONE | Sae → Ryo cash34–35; Ryo → Momo knows/free37; Sae → witnesses love/ending44–46 | EV0006–0007; exact sum/final disposition unshown |
+| PG-TX-0192 / NONE | Momo ↔ Kairi no50/trip52–53/wait54; Kairi → Momo Misao wish64 | EV0008/0010; present promise/ongoing asymmetry |
+| PG-TX-0193 / NONE | Tōji → Momo business60–62; Kairi demonstrates knowledge76 | EV0009/0011; no invented exact Momo relay62 |
+| PG-TX-0194 / NONE | Ryo → Sae short-job offer71; Sae → Momo game understanding74; Kairi → Momo Pocky recognition80 | EV0011–0012; no sexual agreement |
+| PG-TX-0195 / NONE | Momo → Sae actual phone warning86–88/Sae reply/hangup | EV0014; receipt/rejection secure |
+| PG-TX-0196 / NONE | Crew → Sae receipt/rights/Morika95; Sae → Ryo actual call99–101/conditional response | EV0015–0016; interested claim not valid entitlement |
+| PG-TX-0197 / NONE | Sae → Momo actual105–106 location/help; Momo → Tōji107; Kairi → glasses friend/others107 | EV0017; distinct information depth |
+| PG-TX-0198 / NONE | Momo → friends secrecy118/group assent; Sae → Momo defensive118/thanks122 | EV0020; no erasure proven |
+| PG-TX-0199 / NONE | Sae → Ryo questions127–128; Ryo → group shock rationale129 | EV0022; explanation not verified motive |
+| PG-TX-0200 / NONE | Sae → Momo/Kairi knows but love132; actual Ryo response133 | EV0023; no stable reform |
+| PG-TX-0201 / NONE | Kairi → Momo Morika DVD135/no hidden things136 | EV0023; one object and statement, not exhaustive truth |
+| PG-TX-0202 / NONE | Sae → Momo/Kairi gift139/apology140; Sae → Momo private acknowledgment145–146 | EV0024–0025; concrete content |
+| PG-TX-0203 / NONE | Misao ↔ Kairi concern143/diet154–155 | EV0025/0027; not Momo receipt before return |
+| PG-TX-0204 / NONE | Jigoro → Momo no old act152; Sae → Momo confirmation153 | EV0026; not automatic Kairi/Tōji receipt |
+| PG-TX-0205 / NONE | Manager → Momo Kairi on break157; Momo actual visual doorway161 | EV0027–0028; seen arrangement not secure kiss |
+| PG-TX-0206 / NONE | Kairi → Momo name162 | EV0028; no substantive explanation before cutoff |
+
+| Reputation / prior | Target / actual audience | Boundary |
+| --- | --- | --- |
+| PG-RP-0058 / RP0057 | Sae / school staff22–26/questioned identity, peer account27 | EV0004; no verified national consensus/composite finding |
+| PG-RP-0059 / NONE | Ryo / Momo-Kairi-Tōji hear allegations/excuses/cash and witness consequences | EV0006/0022; police-linked boast not public verified corruption |
+| PG-RP-0060 / NONE | Sae / rescuing friends know bounded emergency and agree secrecy118 | EV0020; no secure universal dissemination/suppression |
+| PG-RP-0061 / NONE | Momo sexual-history self-understanding / Momo hears Jigoro/Sae152–153 | EV0026–0027; private relief not public correction or moral worth |
+
+IP0051@4 is a dated later disclosure, not silent repair of old freezes. Prior whole-row history retained. Next IP0165, KN0177, TX0207, RP0062. Revision0.12 — V13 successors2026-10-20.
