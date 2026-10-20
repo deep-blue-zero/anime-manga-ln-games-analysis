@@ -1339,3 +1339,11 @@ All15 new textual resources71P/ruby/residuals and25 unique native images actuall
 | ID | Subjects / native route | Observation | Implication | Limit |
 |---|---|---|---|---|
 | M17EX-LD03 | Creator/illustrator/readers/contributors and attributed parallel Iris/Aigis/Crimson-Demon/Axis/Axel actors; known retained Kazuma/Aqua/Megumin/Darkness/Yunyun/Eris/Mitsurugi/two unnamed companions/Pain/Nos/Logia/Mammon/unnamedgatekeeper/DemonKing/daughter, and externally supplied Wiz/Vanir/Dust/Assassin/DarkStalker resources. No direct new excluded bonus choices for Iris or Yunyun.; C1P211–224;C2P486–526;finalP702–788;EpP47–63 | Aqua's thanks, Yunyun's objections, Eris's privacy/visit boundary, Darkness's objection and the companions' urgent aid requests coexist with help and continuing bonds. | Specific agreement and actual knowledge govern each act. Later affection, protection or teasing does not erase pain, objection or an imposed start. | New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved. |
+
+
+## VN-C01 — particular company and asymmetric control
+Wiz is valued company and a project partner, with real overwork, punitive behavior and a conditional exit. Kazuma receives mutually useful but advantageous terms. Aqua receives dangerous rivalry, Maxwell ducal courtesy and kin intervention, clients conditional services, and succubi protection alongside hierarchy and humiliation. Their refusals and counteractions retain agency. MAIN07C5P220–222presumptivepacking differs from P488reportedcompleted sale; MASKU019protection does not erase later deliberate humiliation. No universal loyalty, recipient assent or harmless contract follows.
+
+
+## WZ-C01 — company is valuable without universal permission
+Wiz refuses paid long exclusion from the shared shop (MASK U011P23–43), values Vanir's company and can still suffer his overwork or coercive methods. Her own forgiveness cannot authorize Brad/Rosary; his later exit is his choice. With Aqua, respectful address coexists with warning and withdrawal advice that Aqua refuses. With Kazuma, a specified mana draw and later vitality transfer have their own terms. A wanted relationship is not blanket assent.

@@ -1,0 +1,94 @@
+{
+  "schema": "KONOSUBA_WIZ_COHORT04_RECEIVING_AND_PROVENANCE_V1",
+  "accepted_utc": "2026-10-19T23:06:59.289140+00:00",
+  "status": "ROOT_SEMANTIC_RECEIVING_COMPLETE_CONTAINING_PUBLICATION_PENDING",
+  "source_boundary_commit": "90fb18d5302711cb265687c140ab5d5d151ebe06",
+  "preceding_gate": "09 Audits and Manifests/KONOSUBA_VANIRCOHORT01_PUBLICATION_GATE_CLOSE.json",
+  "receiver": "Same continuing informed root. New monograph/model/index, exactsharednative+boundedMAIN04+derivativereceipts,all5drafts and8firstoutputs/4contrasts actually received;no independent model/reviewer or source holdout.",
+  "tier": "3 at this declared evidence boundary,predictive reliability provisional; Iris/Yunyun/Vanir earlier scoped gates/models remain exact,other tiers/fullcensus open.",
+  "artifacts": [
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_WIZ_CHARACTER_MONOGRAPH.md",
+      "bytes": 20365,
+      "sha256": "050d4b29429c60be63507f9130912776bd51aa10e2e619250b326ed8b0ced0f5"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_WIZ_RECONSTRUCTION_MODEL.md",
+      "bytes": 24361,
+      "sha256": "b8248785ff01251738798121a3ac1eea06b576913c1ea436e97fc22720146b89"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_WIZ_EVIDENCE_INDEX.md",
+      "bytes": 8988,
+      "sha256": "ead3d29ad310d49f18edb36bf030349b6de7d5dab39b94c7b9cc1994662393fb"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/WIZ_EXPANDED_V1_EVIDENCE/WIZ_HYPOTHETICAL_SCENARIO_CONTRACTS_01.json",
+      "bytes": 6160,
+      "sha256": "236055f54ce4c4330c8dfab0783c722f07a36b1534506f48bec20a034698c32b"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/WIZ_EXPANDED_V1_EVIDENCE/WIZ_ACTUAL_HYPOTHETICAL_OUTPUTS_01.json",
+      "bytes": 5290,
+      "sha256": "4e6dae41b094403e2cddc6c6fd9eb7549ecc312ba6d3b949d302d317acf5ba13"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/WIZ_EXPANDED_V1_EVIDENCE/WIZ_HYPOTHETICAL_CAUSAL_RECEIVING_01.json",
+      "bytes": 3269,
+      "sha256": "f9805c432d50b3ea16788e3c25b4280486189fc9f7d5f8b4b224dec5661a7258"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/WIZ_EXPANDED_V1_EVIDENCE/WIZ_NATIVE_AND_DERIVATIVE_PROVENANCE_01.json",
+      "bytes": 21776,
+      "sha256": "40f92bdabb6b50e8342e853ca3c2f154ffc7087393f8509a6801821a35b75f03"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/WIZ_EXPANDED_V1_EVIDENCE/WIZ_EXACT_DRAFT_LINEAGE_01.json",
+      "bytes": 116790,
+      "sha256": "32ac46f215371c8f4a65b0603a2aafe714055298af198780a54021239039c218"
+    }
+  ],
+  "maintained_census_candidate_at_authorship": {
+    "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json",
+    "before_sha256": "059d833d32f5d2b971e9a6204818d8452ddde1c9bf480eb59e30011aaead1564",
+    "bytes": 331490,
+    "after_sha256": "65b7f509fda2f3ebfb611a1a191e90459e3c9c6d045da2bd18c8c96e92d42f6d",
+    "responsibility": "Maintained qualified census snapshot, not an immutable model artifact or final population."
+  },
+  "additional_entering_Vanir_model_pin": {
+    "path": "06 Character Modeling and Reconstruction/KONOSUBA_VANIR_RECONSTRUCTION_MODEL.md",
+    "bytes": 25561,
+    "sha256": "081b6bef4df5584837d2a6fb565f746aa3d9c00a3c925c592596d2d3bb3186df"
+  },
+  "semantic_acceptance_basis": [
+    "Distinct monograph and operational model represent own agency,goals/states/rewards,information,technicalcapacity/resources,marketfiterrors,affect,differentiatedrelations,ordinarylife,voice/canonicalandtransfermodes.",
+    "Seven WZ-D rules have evidence,rivals,predicates/exclusions,confidence and falsifiable expectations. No universal pacifism,financialuselessness,passivesubordination or unlimitedhelp.",
+    "MAIN04admittedcivilianharm precedes ownforce; existingnoninterference is conditional and her owncombatantdistinction remains. Actualmana/vitalitylimits,ignoredwarnings,withdrawalproposal,pipeaction andstabilizationhave separate phases.",
+    "2862MASKBASE-TEXT slots/sevencompleteunits are reused actual reception,not anotherpass. Current439MAIN04P is bounded with explicit holes.3301describes8member scopes,not independentobservations.",
+    "Eight exactsame-authorfirstoutputs/fourfixedcontrasts retainH04Bcast/effectambiguity andstronginputcueing. Model02clarifiesaccounting; latestmonograph02/model03addexplicitalreadyexposedearlymainservice/Explosioncapacitywithderivativeprovenance. No new source fact,testscoreorconfidenceincrease.",
+    "Maintained150qualifiedrows have9targetedupdates/0newrows/141priorrowsexact,6separateincidentaloridentityleads and onlyWiznewTier3. Fullindividualdenominator,finaltiers andglobalpercentage remainopen/null."
+  ],
+  "hypothetical_exercise": {
+    "outputs": 8,
+    "pairs": 4,
+    "source_or_independent_validation_credit": 0,
+    "score": null,
+    "confidence_increase": false,
+    "adverse_receiving": "H04B casts but physical effect not separatelyverified;firstambiguouswording retained."
+  },
+  "source_credit": {
+    "new_whole_source_passes": 0,
+    "MASK_reused_actual_BASE_TEXT_P": 2862,
+    "MAIN04_current_bounded_BASE_TEXT_P": 439,
+    "eight_member_scope_sum_not_observations": 3301,
+    "independent_observation_denominator": null
+  },
+  "preservation": "66current/72historical/fourscorefiles/Dust14originalblankfields/nineenteringmodels/SIandSY28originalnullfields/80unrelatedscratchfiles unchanged. No oldforecastretargeting,principalversionrewrite,globalcuratoroutputornewsourceadmission.",
+  "not_completed": [
+    "Exact Wiz publication gate",
+    "Remaining individual census/joins/incidental dispositions and earned artifacts",
+    "Expanded specialists/versioned principal-party-transfer synthesis",
+    "Curator-owned enrollment/integration and component/release/final-entry audits"
+  ],
+  "publication_gate": "Pending exactcandidate/authorpreflight/freshheads-owner-rules/normalpush/fullreadback/sourceaudit/housekeeping/finalactualsource-status/freshauthorityreload."
+}
