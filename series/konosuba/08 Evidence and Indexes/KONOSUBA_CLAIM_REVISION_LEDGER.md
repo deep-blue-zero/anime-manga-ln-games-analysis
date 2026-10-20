@@ -291,3 +291,15 @@ Current source-known consolidation does not revise frozen forecasts, prior outco
 | CR-SECONDARY-COHORT14-004 | REVISE current status wording | Current coverage sentence still called Claire/Rain/Luna pending proportional review. Their scoped gates actually closed in cohorts11/12. Correct the present sentence; preserve prior cohort chronology and bytes of historical gate reports. No new source or capability upgrade. |
 
 [Four-profile event index](KONOSUBA_CLERGY_AND_MERCHANT_EVIDENCE_INDEX.md) retains locators, attribution, serious rivals and open scope. Four Tier1 profiles are revisable; no new model or artificial test is earned automatically.
+
+
+## Cohort15 source and model qualifications — 2026-10-20T13:11:28.160162+00:00
+
+| Claim | Transition | Exact qualification |
+|---|---|---|
+| CR-SECONDARY-COHORT15-001 | STRENGTHEN / REVISE | Leen/リーン is distinct from Rain/Raina/Rionor. DUST05U012P643–650 new Feit knowledge is not earlier knowledge; P654–686 is a separate knight-era recollection. DUST06U012P554–555 refused withdrawal precedes later exit offerP594 and chosen continuationP595. MASKU013P399–424 and DUST07U014P111–125 willing Leen are Vanir, not her repaired friendship or second assent. Preserve original reports; no retroactive source prediction. |
+| CR-SECONDARY-COHORT15-002 | STRENGTHEN | MAIN02C1P645–646 Keith sees threat first, without printed Farsight cast. DUST07U012P786–788 four arrows all blocked; direct contribution differs from success. CONTU014P440 staff borrowed-or-taken remains unknown. His insult/earlier coercion does not erase later protested recipient statusU012P299–305. |
+| CR-SECONDARY-COHORT15-003 | STRENGTHEN / OPEN | Taylor duty/owned shield/report procedure and evacuation are actual, with idealized motive errors and direct shoulder restraint/nonhelp retained. DUST07U013P489 is shield handover, not certified permanent gift. CONTU012P118 waits for accounts; U014P304–321 urgency changes response. No universal ethical floor or calibrated threshold. |
+| CR-SECONDARY-COHORT15-004 | OPEN | Three new frozen candidates and twelve actual source-known same-author bodies are internal exercises only. Leen practice-permission ambiguity, generic rivals, unprobed rules and overcoherence remain. Model/inputs/first bodies are not repaired after outcomes; no independent accuracy/confidence/capability promotion. |
+
+[Source-safe provenance](KONOSUBA_LEEN_PARTY_NATIVE_PROVENANCE_01.json) and three event indices retain individual agency, direct/report/private/disguise access and offered/performed/paid/repaired stages. Earlier current claims are qualified here; frozen originals keep bytes.

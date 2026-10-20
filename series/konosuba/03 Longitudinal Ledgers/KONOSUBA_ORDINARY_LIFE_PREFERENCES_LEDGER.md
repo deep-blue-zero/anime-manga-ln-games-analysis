@@ -1291,3 +1291,10 @@ Cecily own food purchases/salary/hunger and longing for missed company appear in
 ## Cohort14 clergy and merchant bounded returns — 2026-10-20T11:12:02.861945+00:00
 
 Guide's guard duty, unwanted stay-behind outcome, own market-loss account and warmer response to a cash offer(MAIN16U016P92/113–122) give ordinary costs alongside devotional pleasure. Axel priest reports healing/meals; Arcanretia priest reports sole occupancy and strained subsistence(CONTEXP01U015P331;CONTEXP02U016P479). Chair negotiates funding, hosts workers/adviser and reportedly delivers the reward(MAIN08U013P231–239,U014P645–673,U016P503–509). Offers, reported delivery, visible money and acceptance stay distinct. No stable universal taste or ethical repair follows from one payment/meal/social occasion. See [event index](../08%20Evidence%20and%20Indexes/KONOSUBA_CLERGY_AND_MERCHANT_EVIDENCE_INDEX.md).
+
+
+## Cohort15 Leen, Keith and Taylor — 2026-10-20T13:11:28.160162+00:00
+
+Leen one continuing vegetable-stick snack is not a universal diet; MASK loan refusal/old debt is supported without exact repayment. DUST06P430–432 personal damage cost inhibits a throw. YORI04U014P371–385/P461–474 actual theater outing has Dust-treat condition and later fright/missed-benefit complaints, not a printed ticket bill or stable genre preference. Keith offers future drinks without an observed settlement; Taylor and Keith share worry about friend distance. CONTU012P1–16/U014P193 gives luxury/ceremony discomfort, not exact wealth or a diagnosis. Ordinary company, money, embarrassment and useful work matter without an invented complete taste hierarchy.
+
+[Leen event index](../08%20Evidence%20and%20Indexes/KONOSUBA_LEEN_EVIDENCE_INDEX.md), [Keith event index](../08%20Evidence%20and%20Indexes/KONOSUBA_KEITH_EVIDENCE_INDEX.md), [Taylor event index](../08%20Evidence%20and%20Indexes/KONOSUBA_TAYLOR_EVIDENCE_INDEX.md). These are actor-specific retrievals of shared known episodes, not new independent observations or a completed global census.

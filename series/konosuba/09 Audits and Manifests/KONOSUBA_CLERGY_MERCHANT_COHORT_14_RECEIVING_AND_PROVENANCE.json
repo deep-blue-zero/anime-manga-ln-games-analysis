@@ -2,7 +2,7 @@
   "schema": "KONOSUBA_CLERGY_MERCHANT_COHORT14_RECEIVING_AND_PROVENANCE_V1",
   "recorded_utc": "2026-10-20T11:15:25.845559+00:00",
   "source_boundary": "9904a30d88aadc00d8d5748a28e1bc1be3d43eef",
-  "status": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_CONTAINING_PUBLICATION_GATE_PENDING",
+  "status": "SCOPED_SEMANTIC_AND_FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
   "subject_tiers": {
     "returning_Axis_guide170": 1,
     "Axel_Eris_priest171": 1,
@@ -250,5 +250,29 @@
     "Unassigned board acts and unspoken resignation establish limits on attribution/knowledge, not proven absence of chair action/knowledge.",
     "Only183unaffectedrows remain exact; working count stays187but four rows change.",
     "Evidence index receives one phrase clarification; original profile/index/receipts retained. No new source, model, input, first body, grade or confidence gain."
-  ]
+  ],
+  "publication_pending_status_at_authorship": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_CONTAINING_PUBLICATION_GATE_PENDING",
+  "publication_resolution": {
+    "status": "SCOPED_FOUR_TIER1_PROFILES_FULL_EXACT_SOURCE_GATE_CLOSED",
+    "source": "587fb9d0eea923c730c4e7e532dfc4929862e344",
+    "tree": "b673527a6ef11dd7f24dda060dcd8eb9f6ee7245",
+    "closed_utc": "2026-10-20T11:38:32.011100+00:00",
+    "gate_path": "09 Audits and Manifests/KONOSUBA_CLERGY_MERCHANT_COHORT14_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "6beb314b4e4dc5b38c823ed10c3c5fc93c5697229f2fc04a2a2df2e48f48dc68",
+    "source_run": 39414733032,
+    "housekeeping_run": 39415444499,
+    "final_run": 39415509323,
+    "all_remote_paths": 9276,
+    "all_changed_streams": 24,
+    "full_tests_source_and_final": 385,
+    "fresh_project_reload_paths": 1100,
+    "current_model_bodies": 20,
+    "new_model_bodies": 0,
+    "scoped_secondary_model_subjects": 14,
+    "bounded_profiles": 15,
+    "monograph_only_subjects": 1,
+    "independent_accuracy_or_confidence_gain": false,
+    "full_program_complete": false
+  },
+  "published_authority_reload_sha256": "6e80e0f37701bf1c07348a15ec67c280f4eaf805244fb018b31afcdb590d5b03"
 }

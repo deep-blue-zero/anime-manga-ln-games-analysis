@@ -1871,3 +1871,8 @@ Shared receiving11 hash287cf3e60b4d6c786501c8a2ef573df9ed1ee1364f98e9816beadcdae
 ## Cohort14 clergy and merchant return routes — 2026-10-20T11:12:02.861945+00:00
 
 [Event index](KONOSUBA_CLERGY_AND_MERCHANT_EVIDENCE_INDEX.md) and [native provenance](KONOSUBA_CLERGY_AND_MERCHANT_NATIVE_PROVENANCE_01.json) pin MAIN04U016P570–635/U019P1–65,P265–330; MAIN16U016P76–122; MAIN08U013P231–265/U014P245–310,P640–673/U016P485–515; CONTEXP01U015P320–355; CONTEXP02U016P430–485/U018P1–32. Earlier qualified MAIN08U013P183–230/later MAIN16 horse context are reused at unchanged scopes.534laterknownBASEcontextslots/ninemembers/fiveobjects include other actors/blanks/repetitions; zero new full/ruby/image/admission/globalunique/independent credit. Four existing records170/171/172/177 receive bounded profiles; unnamed caravan/lodging/child/workers remain adjacent return responsibilities, not hidden joins or extra profiles.
+
+
+## Cohort15 individual event access — 2026-10-20T13:11:28.160162+00:00
+
+The [Leen](KONOSUBA_LEEN_EVIDENCE_INDEX.md), [Keith](KONOSUBA_KEITH_EVIDENCE_INDEX.md) and [Taylor](KONOSUBA_TAYLOR_EVIDENCE_INDEX.md) indices join shared LP episode keys while preserving each actor. MAIN02C1 means accepted item/xhtml/p-004.xhtml; Dust05–07/continuation U identifiers, MASK and YORI04 keep their own registers and source planes. The [source-safe provenance](KONOSUBA_LEEN_PARTY_NATIVE_PROVENANCE_01.json) binds seven later receipts/2394knownBASEcontextslots/13members/7objects, including repetitions and other actors, not new unique/full/ruby/image/admission/independent coverage. Earlier DUST05 search passages use earlier qualified receiving. No final observation denominator or percentage.

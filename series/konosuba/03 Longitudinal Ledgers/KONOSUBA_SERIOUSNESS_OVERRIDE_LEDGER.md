@@ -1219,3 +1219,10 @@ Actual assault on merchant chair MAIN08U013189, false victim accusation, bread t
 ## Cohort14 clergy and merchant bounded returns — 2026-10-20T11:12:02.861945+00:00
 
 MAIN04U019P305–307 guide actually sweeps rubbish toward Darkness; MAIN16U016P93–97 actual kicked stone hits Darkness, precise intent unknown. Unproved personal participation in an earlier Aqua mob does not erase this kick. Children throwing and unperformed mace threat remain separate. Arcanretia priest's Powered/throw/punch follows Cecily restraint and Zesta harassment(CONTEXP02U016P434–467); no completed forced kiss or equal initiation from brawl framing. Cecily assault on chair and Kazuma later grabbing him remain real despite agreement/profit/hosting. Useful service and warm endings are not proof of repair. See [event index](../08%20Evidence%20and%20Indexes/KONOSUBA_CLERGY_AND_MERCHANT_EVIDENCE_INDEX.md).
+
+
+## Cohort15 Leen, Keith and Taylor — 2026-10-20T13:11:28.160162+00:00
+
+Town defense and a court crisis do not suspend individual agency or costs. DUST07U011P875–947 improved spear work, actual unwanted contact and persistent fear coexist; further act narrowly avoided, no graphic elaboration. DUST07U012P299–305 later removal gives sounds/absence without a specific caster or injury. CONTU014P304–321 Taylor correctly changes to evacuation before theory is complete; this local competent action does not erase prior coercion or prove universal reliability. Chosen risk/recipient objection, actual danger and a pleasant ending retain different claims. Group survival and successful contribution do not certify a safe method or fully repaired relationship.
+
+[Leen event index](../08%20Evidence%20and%20Indexes/KONOSUBA_LEEN_EVIDENCE_INDEX.md), [Keith event index](../08%20Evidence%20and%20Indexes/KONOSUBA_KEITH_EVIDENCE_INDEX.md), [Taylor event index](../08%20Evidence%20and%20Indexes/KONOSUBA_TAYLOR_EVIDENCE_INDEX.md). These are actor-specific retrievals of shared known episodes, not new independent observations or a completed global census.

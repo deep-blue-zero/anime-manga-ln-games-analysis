@@ -1686,3 +1686,10 @@ Cecily independently wants company, play, food and a place in valued lives. Her 
 ## Cohort14 clergy and merchant bounded returns — 2026-10-20T11:12:02.861945+00:00
 
 The returning unnamed Axis guide is explicitly linked by Kazuma's MAIN16U016P87 memory to MAIN04U019P278–310. She provides directions and guards a post she says she would rather have left; actual rubbish sweep and later stone kick/hit remain harmful acts. Current divinity recognition cannot be moved backward. The two Eris priests remain distinct source-bound people: Arcanretia priest explicitly first meets MeguminP476. Merchant chair changes from refusal to agreement and later practical objections/hosting/reported reward delivery without acquiring an inferred private friendship. See the four profiles and event index; no new model or global tier closure. See [event index](../08%20Evidence%20and%20Indexes/KONOSUBA_CLERGY_AND_MERCHANT_EVIDENCE_INDEX.md).
+
+
+## Cohort15 Leen, Keith and Taylor — 2026-10-20T13:11:28.160162+00:00
+
+Leen/リーン has her own DUST06 and continuation viewpoint, a preference for present flawed Dust, practical learning and selective care/coercion. Keith/キース has useful perception and chosen help alongside glory competition, secret-plan initiative and poor boundary uptake. Taylor/テイラー has concrete duty, report procedure and recipient perspective alongside idealized motive readings, coercive conformity and deliberate nonhelp. Their distinct monographs/models do not turn roles into complete biography or every trait into a general law. MAIN02C1P443–746, DUST05U012P570–712, DUST06U012P427–597, DUST07U011–14 and CONTU012/U014 retain actual source windows; shared episodes are not three independent votes.
+
+[Leen event index](../08%20Evidence%20and%20Indexes/KONOSUBA_LEEN_EVIDENCE_INDEX.md), [Keith event index](../08%20Evidence%20and%20Indexes/KONOSUBA_KEITH_EVIDENCE_INDEX.md), [Taylor event index](../08%20Evidence%20and%20Indexes/KONOSUBA_TAYLOR_EVIDENCE_INDEX.md). These are actor-specific retrievals of shared known episodes, not new independent observations or a completed global census.

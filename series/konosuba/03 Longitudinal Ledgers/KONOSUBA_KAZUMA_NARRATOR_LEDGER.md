@@ -1342,3 +1342,10 @@ Kazuma inference that the Axis clergy recognize Aqua MAIN08U013160-162 is distin
 ## Cohort14 clergy and merchant bounded returns — 2026-10-20T11:12:02.861945+00:00
 
 Kazuma explicitly remembers the guide(MAIN16U016P87) but cannot thereby supply her earlier goddess knowledge. In MAIN08U014P642–667 his private resignation intention is not shown reaching the chair before hospitality. Closing U016P500–509 combines Darkness's report that chair brought a reward, Kazuma's retrospective explanation of disclosure and a directly shown money bag; exact chair handover/amount/Kazuma acceptance remain unshown. Board voices and later injuries do not identify each striking hand. CONTEXP Megumin's tentative embarrassment inference and comic brawl frame likewise do not replace directly attributed action or denial. See [event index](../08%20Evidence%20and%20Indexes/KONOSUBA_CLERGY_AND_MERCHANT_EVIDENCE_INDEX.md).
+
+
+## Cohort15 Leen, Keith and Taylor — 2026-10-20T13:11:28.160162+00:00
+
+MAIN02 Kazuma observes the party learning to depend on his skills, but exact age, universal luck causation and final payment remain unknown. Later Dust focalization has different access: real Leen private reasons are not his knowledge; the knight-era recollection in DUST05U012P654–686 is not current relapse or Leen observation. In DUST07U014 he does not hear Keith whisperP109 and mistakes left-side Vanir for Leen until the reveal. CONTU014 bride Rionor labels are corrected to LeenP331–334 and do not establish Taylor/Keith private belief. MASK narrator Vanir and YORI04 retired observer retain their own selective reporting; no narrator is replaced by an omniscient analyst.
+
+[Leen event index](../08%20Evidence%20and%20Indexes/KONOSUBA_LEEN_EVIDENCE_INDEX.md), [Keith event index](../08%20Evidence%20and%20Indexes/KONOSUBA_KEITH_EVIDENCE_INDEX.md), [Taylor event index](../08%20Evidence%20and%20Indexes/KONOSUBA_TAYLOR_EVIDENCE_INDEX.md). These are actor-specific retrievals of shared known episodes, not new independent observations or a completed global census.

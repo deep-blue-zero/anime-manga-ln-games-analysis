@@ -1879,3 +1879,10 @@ Cecily self-serving error differs from knowing deception: EXP02 imageIII private
 ## Cohort14 clergy and merchant bounded returns — 2026-10-20T11:12:02.861945+00:00
 
 The guide first blames Eris for reputation, then admits retaliation for habitual Axis misconduct(MAIN16U016P81–85); this preserves contradictory framing without inventing one consistent private belief. Merchant chair accepts the funding proposal(MAIN08U013P231–239) but objects to police and caster constraints(U014P251–307): commercial motive is real and qualified by practical costs. Zesta's invented confession does not become the priest's desire; Arcanretia priest gives the actual nuisance grievance(CONTEXP02U016P452–467). No generic profit/sect trope is a new identified psychological model. See [event index](../08%20Evidence%20and%20Indexes/KONOSUBA_CLERGY_AND_MERCHANT_EVIDENCE_INDEX.md).
+
+
+## Cohort15 Leen, Keith and Taylor — 2026-10-20T13:11:28.160162+00:00
+
+MAIN02C1P548–573 Keith rushes to avoid yielding glory, Taylor follows and Leen warning is ignored. CONTU012P118–138 Taylor useful wait-for-all procedure does not erase his honorable-motive errors at P28–38 or DUST07U012P390–395. Keith missing-investigator lead is distinct from Taylor no-bad-rumor report; Dust unsupported prison dismissal is not a known fate. MASKU013P359–382 Leen status/distrust/guild-rumor reasoning injures Yunyun and may mix sincere mistake with face-saving. Private confidence, public presentation and known false cover are different. DUST07 hidden training/withdrawal override remains adverse despite skill improvement; no model may force optimal or uniformly ethical behavior.
+
+[Leen event index](../08%20Evidence%20and%20Indexes/KONOSUBA_LEEN_EVIDENCE_INDEX.md), [Keith event index](../08%20Evidence%20and%20Indexes/KONOSUBA_KEITH_EVIDENCE_INDEX.md), [Taylor event index](../08%20Evidence%20and%20Indexes/KONOSUBA_TAYLOR_EVIDENCE_INDEX.md). These are actor-specific retrievals of shared known episodes, not new independent observations or a completed global census.

@@ -1060,3 +1060,14 @@ Eighteen entering model bodies remain exact; two additions would make20. Fourtee
 | Merchant chair177 | Tier1 profile; actual agreement/role offer, police/caster limits, hospitality, reported reward delivery plus visible bag | No new model; generic civic organizer rival; exact amount/acceptance unshown |
 
 See [profiles](../05%20Specialist%20Synthesis/KONOSUBA_COHORT14_CLERGY_AND_MERCHANT_BOUNDED_PROFILES.md) and [event index](KONOSUBA_CLERGY_AND_MERCHANT_EVIDENCE_INDEX.md). Twenty current model bodies/fourteen scoped secondary model subjects remain exact; eleven prior bounded profiles plus four candidates would make fifteen after adoption. No new test/grade/independent/source-confidence gain or permanent tier ceiling.
+
+
+## Cohort15 differentiated secondary candidates — 2026-10-20T13:11:28.160162+00:00
+
+| Subject | Earned scope | Main contrary/rival and test limits |
+|---|---|---|
+| Leen/リーン | Own viewpoint, particular shared present, practical learning/cost, selective knowledge and peer enforcement; four conditional rules plus monograph. | Generic attachment/mage/motivated reasoning remains. Four source-known English bodies: personal appeal/caution and confounded cost/permission contrast; R03 not directly tested and practice permission ambiguous. |
+| Keith/キース | Competition triggers, finite useful perception/work and selective coalition pressure; three conditional rules plus monograph. | Generic competitive friendship/role/conformity remains. Four English bodies retain pressure after refusal; toolbox posture not actual sabotage. No competence/ownership/repair/Japanese finding. |
+| Taylor/テイラー | Practical duty, evidence/recipient perspective with idealization, selective intervention/partial repair; three conditional rules plus monograph. | Generic conscientious leader/in-group bias remains. Four English bodies give obvious danger response and clean coalition switch, not calibrated thresholds; solitary reply overcoherence retained. |
+
+The [Leen](KONOSUBA_LEEN_EVIDENCE_INDEX.md), [Keith](KONOSUBA_KEITH_EVIDENCE_INDEX.md) and [Taylor](KONOSUBA_TAYLOR_EVIDENCE_INDEX.md) indices own exact event access. Candidate23model bodies would include seventeen scoped secondary subjects after adoption; fourteen previously published subjects/twenty earlier model bodies remain exact. Fifteen bounded profiles/Nos Tier2 unchanged. No capability grade, independent accuracy or confidence gain; six StageD principal/party/transfer successors remain separate.

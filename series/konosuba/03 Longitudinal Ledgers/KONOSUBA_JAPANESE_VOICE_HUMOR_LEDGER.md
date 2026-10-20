@@ -1872,3 +1872,10 @@ Cecily older-sister bids (お姉さん/セシリーお姉ちゃん), Aqua addres
 ## Cohort14 clergy and merchant bounded returns — 2026-10-20T11:12:02.861945+00:00
 
 Known BASE returns differentiate guide's courteous reception, joke/retraction, sect pseudo-apology, devotional excitement and transactional warmth; Axel priest's formal refusal, justification, embarrassment and conditional threat; Arcanretia priest's denial, invocation and subdued poverty account; chair's advisory honorifics, caution and convivial toast. Recipient and event determine pragmatic force. Zesta's romantic interpretation is his attributed frame against a direct denial. No full ruby, acoustic timing, Japanese generation certificate or new L3 outcome follows from these printed passages. See [event index](../08%20Evidence%20and%20Indexes/KONOSUBA_CLERGY_AND_MERCHANT_EVIDENCE_INDEX.md).
+
+
+## Cohort15 Leen, Keith and Taylor — 2026-10-20T13:11:28.160162+00:00
+
+Known BASE passages contrast Leen direct casual criticism, hesitation, private denial, softer encouragement and performed Rionor persona; Keith rough contractions, provocative questions, complaints and accurate task reports; Taylor measured organized plain speech, corrective questions and urgent instructions. Content, recipient and pragmatics matter as well as endings. Taylor can use俺 and measured duty vocabulary without every utterance being grammatical polite register. DUSTCONTU012P118/P170 and U014P304–317 support this bounded distinction; a role-based formal/plain binary is unwarranted. Vanir impersonation has a different speaker. Twelve English hypothetical bodies supply no Japanese-generation, ruby, acoustic or native-human adequacy finding.
+
+[Leen event index](../08%20Evidence%20and%20Indexes/KONOSUBA_LEEN_EVIDENCE_INDEX.md), [Keith event index](../08%20Evidence%20and%20Indexes/KONOSUBA_KEITH_EVIDENCE_INDEX.md), [Taylor event index](../08%20Evidence%20and%20Indexes/KONOSUBA_TAYLOR_EVIDENCE_INDEX.md). These are actor-specific retrievals of shared known episodes, not new independent observations or a completed global census.

@@ -1421,3 +1421,10 @@ Zesta actual Reflect EXP02U038323-326, Dispel CONTEXP02U018381-382, sacred/undea
 ## Cohort14 clergy and merchant bounded returns — 2026-10-20T11:12:02.861945+00:00
 
 Arcanretia Eris priest actually casts Powered and throws Cecily/punches Zesta to escape restraint(CONTEXP02U016P464–467). This is usable local capacity, not universal readiness or proof she could anticipate the ambush. Axel priest's healing/food work is an own report, not fresh performed healing(CONTEXP01U015P331). Chair's unavailable fireworks caster is a reported practical constraint(MAIN08U014P282–299); Darkness grants later permits. Guide gives useful directions/horse information while road-clearing kills remain absent actors' reported work. Capability, access, actor and deployment stay separate; twenty models exact. See [event index](../08%20Evidence%20and%20Indexes/KONOSUBA_CLERGY_AND_MERCHANT_EVIDENCE_INDEX.md).
+
+
+## Cohort15 Leen, Keith and Taylor — 2026-10-20T13:11:28.160162+00:00
+
+MAIN02 Leen Wind Curtain is performed, while Kazuma owns water/freezing and final escape; her scouting advice is ignored. Keith sees the returning threat before Enemy Sense, without a printed Farsight cast there. Taylor sword/cover is real and finite. DUST07U012P771–790 gives a damaged shield, four blocked arrows and a performed Fireball that hits without finishing. Feit/Dust own saving flame and apparent decapitation; Leen later public saving-cast claim is a cover, not another cast. Freeze GustU013P609–616 actually slows a different red-dragon target, with surprising effect; Dust weakening hypothesis is not Leen prior plan. CONTU014P438–440 gives spear/staff delivery, with staff procurement unknown. Capacity, access, attempt, effect and readiness stay separate.
+
+[Leen event index](../08%20Evidence%20and%20Indexes/KONOSUBA_LEEN_EVIDENCE_INDEX.md), [Keith event index](../08%20Evidence%20and%20Indexes/KONOSUBA_KEITH_EVIDENCE_INDEX.md), [Taylor event index](../08%20Evidence%20and%20Indexes/KONOSUBA_TAYLOR_EVIDENCE_INDEX.md). These are actor-specific retrievals of shared known episodes, not new independent observations or a completed global census.

@@ -1416,3 +1416,10 @@ Cecily/Megumin qualified enjoyment does not erase repeated unwanted contact. Iri
 ## Cohort14 clergy and merchant bounded returns — 2026-10-20T11:12:02.861945+00:00
 
 Keep guide distinct from Cecily/Tristan, and Axel Eris priest distinct from Arcanretia priest who explicitly first meets Megumin(CONTEXP02U016P476). Prior sect contact, repeated no-visit requests and specific nuisance grievance do not establish romance or consent; denial remains denial despite Zesta's invented frame. Cecily apology is forced by Megumin, not demonstrated recipient forgiveness(CONTEXP01U015P347). Chair/adviser transaction and hospitality are actual bounded relations, not a private friendship, a known resignation trap or permission for every later act. No named join from occupation or insult. See [event index](../08%20Evidence%20and%20Indexes/KONOSUBA_CLERGY_AND_MERCHANT_EVIDENCE_INDEX.md).
+
+
+## Cohort15 Leen, Keith and Taylor — 2026-10-20T13:11:28.160162+00:00
+
+Leen familiar-present preference, limited secret protection, actual cheek kiss/hand/boarding and own continuation reasons do not create standing consent or formal romance. DUST06U012P554–555 actual withdrawal/refusal is distinct from later exit offerP594 and chosen continuationP595. DUST07U011 secret training, denied withdrawal, adverse aftermath and incomplete repair remain; later money/care or affection cannot authorize them. Keith perpetrates pressure and later protests his own forced removal. Taylor material aid/apology and deliberate nonhelp coexist. The continuation first protested liftU014P323–327 differs from later Leen chosen boardingP436. Owner/payer/recipient/offered/received/paid/settled and participant assent remain separate.
+
+[Leen event index](../08%20Evidence%20and%20Indexes/KONOSUBA_LEEN_EVIDENCE_INDEX.md), [Keith event index](../08%20Evidence%20and%20Indexes/KONOSUBA_KEITH_EVIDENCE_INDEX.md), [Taylor event index](../08%20Evidence%20and%20Indexes/KONOSUBA_TAYLOR_EVIDENCE_INDEX.md). These are actor-specific retrievals of shared known episodes, not new independent observations or a completed global census.
