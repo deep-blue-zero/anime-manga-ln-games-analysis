@@ -5,7 +5,7 @@ artifact_type: character_development_readiness_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.17"
+version: "0.18"
 status: active_provisional
 scope: "Character Development and Readiness; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -640,3 +640,19 @@ Dated self-correction2026-10-20: V18_116–117 explicitly supplies M settleKfirs
 | PG-CS-0214@2 / CS0214@1 | ResponsiveV15morningaffection155–156 actual; V18flashnothinguntilmorning117 supersedes strongsexnightinference | EV0012/0026; no completed act shown night or morning; oldbytes retained |
 
 Next CHAR0036,CS0288,RD0001. Revision0.17 — V18 successors/self-correction; prior bodies retained.
+
+## G2 terminal retrieval projection — 2026-10-20
+
+This projection follows the complete event history through PG-FR-V18. Earlier current tables retain historical boundary meanings. No event row, freeze, full claim or test is rewritten. G1/G2 reconciliation owns the audit; model readiness remains unassessed until G4.
+
+| Subject | Current state event | Reconstruction disposition |
+| --- | --- | --- |
+| Momo | CS0287; explicitKchoice143/rescue166–170/finalcouple178; actualTpastretained | UNASSESSED; G4 assessment required |
+| Kairi | CS0285; currentMlove/forcedtaxi/withdrawalmetaphor/caseretrievalaccident/finalreciprocity | UNASSESSED; no savior-onlymodel |
+| Tōji | CS0280; actualcare/firststop/laterpin/secondstop/release/receivedKchoice | UNASSESSED; stopvariancedebt |
+| Sae | CS0286; realhelp/grief/forgedemail/continuedtie | UNASSESSED; no completedredemption |
+| Misao | CS0270; disclosureagent/ownheartcounsel/explicitRgoodbye | UNASSESSED; thinnerordinaryandstrangercontexts |
+| Ryo | CS0271; parentingwishnotchild/restitution/reform | UNASSESSED; selectivefocalaccess |
+| V15nightcorrection | CS0214@2 replacesstrongsexinference; V18_116–117 | Morningaffectionactual/laterunshownactUNKNOWN |
+
+Revision0.18 — post-sequential retrieval projection; all0.17 historical bodies retained apart from version. No new narrative events/IDs.

@@ -5,7 +5,7 @@ artifact_type: relationship_commitment_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.17"
+version: "0.18"
 status: active_provisional
 scope: "Directional Relationships and Commitments; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -818,3 +818,20 @@ Dated self-correction2026-10-20: V18_116–117 explicitly supplies M settleKfirs
 | PG-CM-0146@2 / CM0146@1 implicit | Romanticresumption actual; V18 noactuntilmorning117 rejectsstrongsexnightinference | EV0012/0026; morningresponseactual/laterunshownactUNKNOWN |
 
 Next RL0312,CM0193. Revision0.17 — V18 successors/self-correction; prior bodies retained.
+
+## G2 terminal retrieval projection — 2026-10-20
+
+This projection follows the complete event history through PG-FR-V18. Earlier current tables retain historical boundary meanings. No event row, freeze, full claim or test is rewritten. G1/G2 reconciliation owns the audit; model readiness remains unassessed until G4.
+
+| Direction | Terminal projection | Limit |
+| --- | --- | --- |
+| Momo → Kairi | RL0308/CM0191; actualfinalchoice/love/kiss/hand | Earlierrefusal/forcedremovalremainactual |
+| Kairi → Momo | RL0309/CM0191; reciprocalromance | Notforgedthreatauthor; repairnotguaranteed |
+| Momo → Tōji | RL0306/CM0189; explicitKlove/apology/actualdeparture | EarlierTaffectionnotcounterfeit |
+| Tōji → Momo | RL0307; actualrelease144/turn145 | Releaseafterconstraintnotforceerased |
+| Sae ↔ finalpair | RL0310/0311; forgerrevealed/couplephoto/socialtie | Nottriad/completepardon |
+| Misao → Ryo | RL0298; stillcannotdate68 | Hospitalcaredoesnotreverserefusal |
+| Sae → Ryo / Ryo → Sae | RL0299/0300; Sfinishedaccount/Rparentingwish | No finalromanticreunionoractualpregnancy |
+| V15inn | CM0146@2; noactuntilmorning117 | Actualmorningaffection/no unshowncompletionclaim |
+
+Revision0.18 — post-sequential retrieval projection; all0.17 historical bodies retained apart from version. No new narrative events/IDs.

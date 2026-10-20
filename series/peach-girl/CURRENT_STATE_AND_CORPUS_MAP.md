@@ -5,10 +5,10 @@ artifact_type: corpus_map
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.17"
+version: "0.18"
 status: active_provisional
 scope: "Single current entrypoint, source/readiness boundaries and next permitted operation"
-source_boundary: "Original Japanese manga; 新装版 V01–V18 byte- and package-verified; owner-authorized V01–V18 narrative run completed;G1–G6 pending"
+source_boundary: "Original Japanese manga; 新装版 V01–V18 byte- and package-verified; owner-authorized V01–V18 narrative run completed;G1/G2 reconciled;G3–G6 pending"
 canonical_home: series/peach-girl/CURRENT_STATE_AND_CORPUS_MAP.md
 created: "2026-10-16"
 review_status: OWNER_EXECUTION_AUTHORIZED_LOCAL_RESULT_UNREVIEWED
@@ -18,7 +18,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 project_initialization:
   status: active_provisional
-  architecture_lifecycle: INITIAL
+  architecture_lifecycle: EVOLVING
   bootstrap_generation: PEACH_GIRL_BOOTSTRAP_V1
   governing_method: "00 Frameworks and Methods/PEACH_GIRL_ANALYTICAL_METHOD.md"
   synthesis_architecture: "00 Frameworks and Methods/PEACH_GIRL_SYNTHESIS_ARCHITECTURE.md"
@@ -85,7 +85,7 @@ The owner's 2026-10-16 instruction authorizes a `continuous_sequential` run over
 | Narrative admission / inspection | Volumes are admitted and closed one at a time; the committed high-water mark in the front matter and the table of closed readings below are authoritative |
 | Longitudinal state | Four instruments carry source-derived rows through the committed high-water mark; each volume transaction appends to all four or records no material change |
 | Character reconstruction | Contract specified in the architecture; subjects/models unassessed; no operational model or capability grade |
-| Synthesis/release | All six completion gates NOT_STARTED; no specialist or full-series findings |
+| Synthesis/release | G1/G2 closed by linked reconciliation; G3–G6 pending; no upstream integration or owner acceptance |
 
 The [source and scope map](00%20Frameworks%20and%20Methods/PEACH_GIRL_SOURCE_AND_SCOPE_MAP.md) owns exact keys/Drive IDs, manifest hashes, reported source hashes and limitations. Its inventory is not a source lock for an authorized narrative run. V01 structural verification does not establish chapter completeness, narrative admission or story understanding. Published volume counts are not used as proof of Drive availability.
 
@@ -169,3 +169,9 @@ Revision history0.15 — V16 new Route B;171 inspected/157 mainline/28 EV/four-l
 Revision history0.16 — V17 new Route B;173 inspected/158 mainline/28 EV/four-ledger successors/PG-FR-V17. V01–V16 bytes/history retained; V18 only after commit/independent restore. G1–G6 pending,2026-10-20 owner date.
 
 Revision history0.17 — V18 terminal narrative run completed;187 inspected/172main/30EV/four-ledger successors/datedV15self-correction/PG-FR-V18. All prior reading/freeze bytes/history retained. No next narrative candidate; OPENlock follows completedrun option, not formal integrated closure. G1/G2 required before mature synthesis;2026-10-20.
+
+## Post-sequential audit checkpoint — G1/G2
+
+[G1/G2 reconciliation](07%20Audits%20and%20Handoffs/PEACH_GIRL_G1_G2_LONGITUDINAL_RECONCILIATION.md) and [machine inventory](07%20Audits%20and%20Handoffs/PEACH_GIRL_G1_G2_VERIFICATION.json) prove18 readings/freezes/atomicclosures;705EV;3198 verifiedspineimages;2474 directlyviewedV05–V18 plus177V01–V04auditsamples. Inheritedfourfullreadings remain composite provenance. Fourledgers0.18 hold terminalretrievalprojections; architecture0.2EVOLVING records actualrolegaps. Next authorized work G3 then G4/G5/G6; no next narrativeunit. G4 operationalreadiness unassessed, no prospective validation claim.
+
+Revision0.18 —2026-10-20;G1/G2 audit before mature synthesis; historicalreadings/freezes unchanged; release/acceptance pending.

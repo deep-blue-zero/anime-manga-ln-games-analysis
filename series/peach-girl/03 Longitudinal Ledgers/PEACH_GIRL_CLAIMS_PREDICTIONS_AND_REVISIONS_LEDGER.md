@@ -5,7 +5,7 @@ artifact_type: claims_predictions_revisions_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.17"
+version: "0.18"
 status: active_provisional
 scope: "Claims, Predictions and Revisions; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -785,3 +785,36 @@ Dated self-correction2026-10-20: V18_116–117 explicitly supplies M settleKfirs
 | Newforecast NONE | Original-series terminalboundary178; no nextsourceadmitted | No invented V19 or newsourceforecast; G1/G2 audit next aftercommit/independentbackup |
 
 No new full versions CL0001/0004/0007–0012/0014/0016/0018–0019/0021–0024: V18 emailauthor resolution is a different message, not old PR0001 authorship; no old V08push/rescueinventory/AVinventory resolution. No new claim/RD. Next CL0029,PR0023,RV0158. Revision0.17 —12 successorclaims/terminalPR22failure/V15self-correction; all prior full rows/terms/freezes retained.
+
+## G2 terminal retrieval projection — 2026-10-20
+
+This projection follows the complete event history through PG-FR-V18. Earlier current tables retain historical boundary meanings. No event row, freeze, full claim or test is rewritten. G1/G2 reconciliation owns the audit; model readiness remains unassessed until G4.
+
+| Forecast | Final tested disposition | Reason/window |
+| --- | --- | --- |
+| PG-PR-0001 | NOT_TESTED | V02 conditional attribution absent; old noteauthorship unresolved |
+| PG-PR-0002 | DISCONFIRMED | V02 direct apology/reconciliation19–24 |
+| PG-PR-0003 | SUPPORTED_FOR_TESTED_SCOPE | V02 further explicit advances |
+| PG-PR-0004 | DISCONFIRMED | V03 Momo seals breakup/refusesrestart |
+| PG-PR-0005 | SUPPORTED_FOR_TESTED_SCOPE | V03 overtT pursuit/statusclaim |
+| PG-PR-0006 | MIXED | V04 correcttopic but disclosedtoKairi notTōji |
+| PG-PR-0007 | DISCONFIRMED | V04 no sea trip or explicit discussion |
+| PG-PR-0008 | SUPPORTED_FOR_TESTED_SCOPE | V05 Jigoro hostileact underfalsebelief |
+| PG-PR-0009 | MIXED | V05 rejectsJigoro yet usesconnection; overlapping originalconditions |
+| PG-PR-0010 | SUPPORTED_FOR_TESTED_SCOPE | V06 actualTōji reachesM41–42 |
+| PG-PR-0011 | SUPPORTED_FOR_TESTED_SCOPE | V07 actualdirectedSsearch28–30 |
+| PG-PR-0012 | SUPPORTED_FOR_TESTED_SCOPE | V08 Kairi concrete support/confrontation35–36 |
+| PG-PR-0013 | SUPPORTED_FOR_TESTED_SCOPE | V09 Momo explicitownlove/comfortreflection |
+| PG-PR-0014 | SUPPORTED_FOR_TESTED_SCOPE | V10 K directcase/mediationexplanationtoM12/38 |
+| PG-PR-0015 | DISCONFIRMED | V11 Mselfescape20;Klate21/84notdirectinterruption |
+| PG-PR-0016 | DISCONFIRMED | V12 noexplicitreasonlinkedto specifiedV11stop/avoidance |
+| PG-PR-0017 | SUPPORTED_FOR_TESTED_SCOPE | V13 directSresponse12–15 |
+| PG-PR-0018 | SUPPORTED_FOR_TESTED_SCOPE | V14 M asksapproach13/Kresponds |
+| PG-PR-0019 | DISCONFIRMED | V15 firstchoiceheardMis53–54 notM |
+| PG-PR-0020 | DISCONFIRMED | V16 K witnesseskiss151–152 but no directMwords |
+| PG-PR-0021 | SUPPORTED_FOR_TESTED_SCOPE | V17 Sacknowledgesnonpregnancy152, not proof deliberatefraud |
+| PG-PR-0022 | DISCONFIRMED | V18 RinjuryreachesM61/policecauseneverdoes; BOTHunmet |
+
+No new forecast or claim version at G2. The28-row current index equals PG-FR-V18; full versions and failed tests retained. PR0001 originalwindowNOT_TESTED, underlying oldauthorship stillOPEN. Other bounded unresolvedquestions are not newforecasts.
+
+Revision0.18 — post-sequential retrieval projection; all0.17 historical bodies retained apart from version. No new narrative events/IDs.

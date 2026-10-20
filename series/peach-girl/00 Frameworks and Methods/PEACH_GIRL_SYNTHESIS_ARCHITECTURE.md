@@ -5,13 +5,13 @@ artifact_type: synthesis_architecture
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.1"
+version: "0.2"
 status: active_provisional
 scope: "Cumulative responsibilities, specialist dependencies, reconstruction and completion gates"
-source_boundary: "Original Japanese manga; 新装版 V01–V18 candidate witnesses; zero narrative coverage"
+source_boundary: "Verified original Japanese manga V01–V18; inherited four audited/new fourteen direct;G1/G2 reconciled"
 canonical_home: series/peach-girl/00 Frameworks and Methods/PEACH_GIRL_SYNTHESIS_ARCHITECTURE.md
 created: "2026-10-16"
-architecture_lifecycle: INITIAL
+architecture_lifecycle: EVOLVING
 review_status: OWNER_EXECUTION_AUTHORIZED_LOCAL_RESULT_UNREVIEWED
 supersedes: []
 superseded_by: []
@@ -125,3 +125,14 @@ Review architecture after the first meaningful closed tranche, recurring unrepre
 Mutable homes are the entrypoint, source-admission map, method/architecture and cumulative ledgers, maintained by targeted edits. Prospective freezes, accepted checkpoints and release manifests preserve their exact historical state. Later errata or successor versions remain discoverable. Start retrieval at the entrypoint, then source map and governing pair, then relevant ledger/last freeze, reading and primary witness. Do not reconstruct permission or authority from an old chat.
 
 Revision history: 0.1 — INITIAL owner-audit candidate, 2026-10-16 UTC; four justified instruments and reconstruction contract specified; no findings. Review status updated 2026-10-16 UTC after owner execution authorization; content unchanged. The run's single-operator CLOUD_ONLY arrangement is recorded in the initiation record.
+
+
+## Amendment0.2 — post-sequential responsibility audit,2026-10-20
+
+The original INITIAL specification above is historical bootstrap language. Current lifecycle EVOLVING follows the actual [G1/G2 review](../07%20Audits%20and%20Handoffs/PEACH_GIRL_G1_G2_LONGITUDINAL_RECONCILIATION.md), not elapsed time. G1 closes for inherited audited V01–V04 plus new full V05–V18; G2 closes for four histories/current projections. G3–G6 remain pending here.
+
+Evidence warrants separate Momo/Kairi/Tōji/Sae monographs, a scoped Misao/Ryo/supporting-cast study, directional dyadic/ensemble work, and distinct information/reputation, agency/repair and manga/Japanese-form specialists. No new ledger: existing event/knowledge/readings already cover chronology, agency, speech and form. Uneven evidence limits supporting subjects rather than forcing identical coverage.
+
+The present owner recovery brief expressly authorizes G4 assessment and actual testing. It supersedes the bootstrap's no-construction authorization statement for this new run; all evidentiary constraints remain. No genuinely held-out original source remains after full exposure. Freeze any rule set before testing; disclose retrospective design, alternatives, failure and abstention. Operational portability cannot be declared validated from retrospective fit. G4 may remain BLOCKED_NO_HELD_OUT_VALIDATION while a truthful literary scope proceeds.
+
+One source-capable operator continues; no independent blind reviewers or agents are commissioned. Mature synthesis begins only after this audit commit. Full-series convergence follows G3/G4 dispositions; repeat role-gap audit at G6. No adaptation/sequel/source promotion/global registry write is admitted.

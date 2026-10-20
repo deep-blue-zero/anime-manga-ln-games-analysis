@@ -5,7 +5,7 @@ artifact_type: information_reputation_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.17"
+version: "0.18"
 status: active_provisional
 scope: "Information Circulation and Reputation; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -1315,3 +1315,19 @@ Dated self-correction2026-10-20: V18_116–117 explicitly supplies M settleKfirs
 | PG-IP-0198@2 / IP0198@1 | STRONG_SEXUAL_NIGHT_INFERENCE_WITHDRAWN_LATER_DISCLOSURE; T agrees nothinguntilmorning117/MsettleKfirst116 | EV0012/0026; morningaffection155–156 preserved; any unshown actUNKNOWN; KN0206/0210 narrowedaccordingly |
 
 Next IP0268,KN0267,TX0315,RP0076. Revision0.17 — V18 successors/self-correction; prior bodies retained.
+
+## G2 terminal retrieval projection — 2026-10-20
+
+This projection follows the complete event history through PG-FR-V18. Earlier current tables retain historical boundary meanings. No event row, freeze, full claim or test is rewritten. G1/G2 reconciliation owns the audit; model readiness remains unassessed until G4.
+
+| Holder | Terminal receipt/belief projection | Missing information |
+| --- | --- | --- |
+| Momo | KN0266; Sjourney/MisRinjury+firstchoice/currentKlove/Semailauthor | Policecause; comprehensivehiringinventory; unshownfuture |
+| Kairi | KN0264; Mlove/Sauthor176 | NotallprivateM-Misconversation |
+| Tōji | KN0261; MexplicitloveK143/leaves | Sauthor176receiptunshown |
+| Sae | KN0259; phonecustody/ownforgery/Mfearreport | NotallprivateM-Tintimacy |
+| Misao | KN0252; Mdilemma/ownRgoodbye | Sclinicalcorrection/finalcouplereceiptunshown |
+| Reader | KN0265; inncorrection/forgery/accidentalretrievaldanger | Readeraccessnotcastomniscience |
+| V15inference | IP0198@2; strongsexualnightinferencewithdrawn | No completedactdepicted or laterunshownactknown |
+
+Revision0.18 — post-sequential retrieval projection; all0.17 historical bodies retained apart from version. No new narrative events/IDs.
