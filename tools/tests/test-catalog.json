@@ -1,6 +1,72 @@
 {
   "schema": "repository-test-catalog/v1",
   "tests": {
+    "test_project_initiation_gate.RunAdmissionTests.test_completed_batch_and_squash_audit_without_source_objects": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/completed_run_publication.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md"
+      ],
+      "purpose": "Admit exact completed local runs and independently audit a fresh squash clone without the source commit objects."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_completion_proof_rejects_missing_or_corrupt_historical_objects": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/completed_run_publication.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md"
+      ],
+      "purpose": "Fail closed on missing historical commit, tree or blob evidence, hash drift, malformed shape and mismatched project routes."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_completion_proof_rejects_added_changed_dropped_and_retyped_readings": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/completed_run_publication.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md"
+      ],
+      "purpose": "Reject post-completion reading additions, edits, deletions, retyping and nonregular blobs even after proof regeneration."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_completion_proof_requires_valid_active_parent_and_unchanged_bounds": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/completed_run_publication.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md"
+      ],
+      "purpose": "Require consistent active first-parent state, OPEN locks, unchanged run bounds and a terminal high-water mark."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_completion_proof_cannot_override_current_or_main_active_bounds": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/completed_run_publication.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md"
+      ],
+      "purpose": "Prevent proof substitution from changing current operational state or overriding a run already active on main."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_completion_proof_preserves_nonreading_corrections_and_existing_gate": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/completed_run_publication.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md"
+      ],
+      "purpose": "Permit attributable nonreading changes while preserving historical classification and the ordinary architecture gate."
+    },
     "test_nightly_integration.CleanupTests.test_transient_cleanup_preserves_success_and_never_replays_remote_mutations": {
       "group": "regression",
       "smoke": false,

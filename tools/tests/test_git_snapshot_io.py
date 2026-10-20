@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import hashlib
+import stat
 import subprocess
 import sys
 import tempfile
@@ -162,7 +163,12 @@ class SnapshotIOTests(unittest.TestCase):
         self.git("remote", "add", "origin", str(source))
         self.git("config", "remote.origin.promisor", "true")
         self.git("config", "remote.origin.partialclonefilter", "blob:none")
-        (self.root / ".git" / "objects" / blob[:2] / blob[2:]).unlink()
+        object_path = self.root / ".git" / "objects" / blob[:2] / blob[2:]
+        # Git makes loose objects read-only on Windows. Remove that attribute
+        # in this disposable fixture so the test actually removes its object.
+        object_path.chmod(object_path.stat().st_mode | stat.S_IWUSR)
+        object_path.unlink()
+        self.assertFalse(object_path.exists())
         with self.assertRaises(core.DomainError):
             core.GitSnapshot.from_commit(self.root, commit, paths=["file"])
         self.assertEqual(self.git("-C", str(source), "cat-file", "-p", blob), b"original")
