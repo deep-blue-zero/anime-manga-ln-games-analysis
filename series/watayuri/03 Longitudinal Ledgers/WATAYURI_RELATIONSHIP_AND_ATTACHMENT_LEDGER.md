@@ -4,14 +4,14 @@ artifact_id: WATAYURI_RELATIONSHIP_AND_ATTACHMENT_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.10"
+version: "0.11"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V09 mainline through V09 Shift 46/i134, also latest depicted present; packaged shorts separately bounded; V09 one-shot separate continuity; V10–V14 inventory only"
+source_boundary: "Japanese V01–V10 mainline through V10 Shift 51/i154, also latest depicted present; packaged shorts separately bounded; V09 one-shot separate continuity; V10-B and V11–V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_RELATIONSHIP_AND_ATTACHMENT_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_RELATIONSHIP_AN
 
 **Update and revision rule.** Update when a volume changes a directional belief, boundary, desire, attachment pattern or pair presentation. Maintain separate rows or fields for asymmetric knowledge and revise a prior state with a dated transition, retaining its VNN freeze. Link consequential proposition and claim IDs. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V09 mainline through V09 Shift 46/i134, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1, 36.2, 41.5 and 46.5 remain separately bounded; V04 EX is promotional. V09’s one-shot is a separate work, not Watayuri continuity. V01–V08 sections retain their earlier states; dated V09 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V10 mainline through V10 Shift 51/i154, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1, 36.2, 41.5, 46.5 and 51.5 remain separately bounded; V04 EX is promotional. V09’s one-shot is a separate work, not Watayuri continuity. V01–V09 sections retain their historical states; dated V10 additions and the attributable claim-lineage erratum carry the current account. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -427,3 +427,44 @@ The largest new asymmetry is that the principal listener is no longer safely des
 Hime’s nonexclusive affection remains a positive fact rather than a disguised rejection of Kanoko. Kanoko’s dissatisfaction is also real. Their coexistence prevents a false choice between “Hime is insensitive because she gives nothing” and “Kanoko should be satisfied because she has received reassurance.” The desired kind of importance, not just its amount, is the issue. [O07/O09/O17.]
 
 The returning former couple adds a second limit to the observer’s authority. Sumika can remember harm and still lack the current wishes of its participants; Kanoko can see charm and still lack the history that made the warning necessary. Nene’s private initiative is not absorbed into either model. [O19–O27.]
+
+
+<a id="v10"></a>
+## V10 — Current additions and transitions — 2026-10-19
+
+**V10 evidence key:** source-map key `V10`, Japanese witness `1_op3JMqIOzXvfHSWN3znBlJPXjxAOtxI`, SHA-256 `3749dd05cca33587f32656dab6ca91d675c529fc23d30aaa2c33e9503bfb899b`. The [frozen V10 reading](../02%20Sequential%20Readings/WATAYURI_V10_DEEP_READING.md#relationships) supplies full observations, context and image/spine conventions. Unprefixed iNNN and O/REL/PER/INF/AG/T/JP/VIS/C references below mean V10; section numbers refer to the complete reading. WY1–WY9 identities retain their original propositions and dated states, subject to the [attributable current claim-lineage erratum](WATAYURI_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md#v10-claim-lineage-erratum). Mainline and latest depicted present end at Shift 51/i154. Shift 51.5/i156–160 is historical prototype fitting; first-year bonus i168 and edition matter do not advance the endpoint. V10-B and V11+ remain excluded. All prior source corrections and freezes remain intact.
+
+## 6. Directional relationship and attachment additions
+
+**Destination:** `03 Longitudinal Ledgers/WATAYURI_RELATIONSHIP_AND_ATTACHMENT_LEDGER.md`. Retain prior pair and subject IDs. The `WY10-REL` records below are new dated observations of those identities; they do not rename the established pairs. Historical Nene–Sumika and Nene–Yoko states must remain separate from their present states. All are at the V10 source boundary, with source time specified individually.
+
+| Record / direction | Belief, desire and observed behavior | Other side / boundary / present disposition | Evidence and confidence |
+| --- | --- | --- | --- |
+| **WY10-REL01 — historical Nene→Sumika** | Nene grows to love the particular sister who helps her feel capable and included; she hopes ordinary closeness might make romance possible. | Sumika has not been shown receiving the confession. Shared work and sisterhood are reciprocal; romantic hope is not. | O05–O10; high historical love, reciprocal status absent. |
+| **WY10-REL02 — historical Sumika→Nene** | Sumika values their sister bond, reassures Nene and resents altered access; she says sexuality should not separate their friendship. | Care and territorial behavior coexist. Her earlier nonromantic framing is not overwritten by present love for Kanoko. | O06/O07/O09/O10; high actions, mixed motive. |
+| **WY10-REL03 — historical Nene→Yoko** | Shared identity and permission to discuss love make Yoko a confidant. Nene initially accepts a jealousy strategy, then develops love for Yoko. | The shift in object is Nene’s explicit retrospective account; it does not erase her initial knowledge or promise Sumika’s response. | O11/O16/O17; high shift, exact moment unspecified. |
+| **WY10-REL04 — historical/present Yoko→Nene** | Yoko offers pleasure, recognition and companionship and says she likes Nene. Her proposed restart retains the old project involving Sumika. | Liking is not equivalent to Nene’s desired commitment. Whether every deferral is deliberately calculated remains less certain than the pattern itself. | O13–O17; high conduct, motive bounded. |
+| **WY10-REL05 — present Nene→Yoko, before meeting** | Nene seeks an intelligible end and an answer about seriousness; she chooses contact and the meeting. | Closure-seeking can coexist with renewed desire. Sumika’s prohibition does not define Nene’s actual intention. | O12/O13; high stated purpose. |
+| **WY10-REL06 — present Nene→Yoko, after meeting** | Nene rejects the offered arrangement, announces no further meetings and actually leaves. | An enacted local ending is not permanent immunity from attraction or a verified lifelong no-contact state. | O17/O18; high local action. |
+| **WY10-REL07 — present Nene↔Sumika** | Sumika worries, questions and later apologizes; Nene resists interference, cries and apologizes. | A limited relational opening exists, but no full disclosure, restored old pact, or renewed romance is shown. | O01/O18/O19; high acts, apology scope open. |
+| **WY10-REL08 — Hime→Mitsuki** | Hime assists a particular performance difficulty, embraces her and speaks to Kanoko in defense of the confession’s sincerity. | Positive attachment does not reverse the nonromantic answer or imply a new permission covering other contact. | O20/O22/O23; high. |
+| **WY10-REL09 — Mitsuki→Hime** | Mitsuki admits dependence on Hime’s skill and wants mutual respect and specialness, explicitly qualified against the romantic sense. | Desire remains; she tries to inhabit a workable nonromantic relation. The scene is not proof of extinguished love. | O20; high speech and action. |
+| **WY10-REL10 — Hime→Kanoko** | Hime offers practice, privacy, health-related rest, reassurance and an honest account of Mitsuki. | Hime does not have Kanoko’s romantic or old control-project account. Honoring a misleadingly calm request can leave hidden distress unmet. | O19/O21–O24; high. |
+| **WY10-REL11 — Kanoko→Hime** | Kanoko wants special attachment to remain unchanged; she tries to minimize Mitsuki’s relevance, conceals distress and seeks relief elsewhere. | Hime’s actual care is counterevidence to abandonment, not an undertaking to prevent every other meaningful bond. | O20–O24; high need, desired permanence not agreed. |
+| **WY10-REL12 — Kanoko→Mitsuki** | Kanoko is distressed by competent, valued closeness and learns about the old kiss. Her spoken minimizing differs from her private reaction. | No new confrontation with Mitsuki about the kiss or requested rupture is depicted here. | O20/O22/O23; high response, next action open. |
+| **WY10-REL13 — Kanoko→Sumika, failed support** | Kanoko expects the earlier help promise to remain available and seeks urgent consultation; the response feels frightening and rejecting. | Her immediate request names Hime/Mitsuki but not a concrete control action. Withdrawal is real; total ending of all attachment is not. | O21/O24; high interaction. |
+| **WY10-REL14 — Sumika→Kanoko, conflict** | Sumika wants to help and be valued, resents being ignored, identifies jealousy and checks a hurtful fantasy. | Real cost of listening does not justify every accusation. Self-recognition is partial before the explicit confession. | O24/O25; high thought, inference bounded. |
+| **WY10-REL15 — Sumika→Kanoko, public approach** | Asked-for contact delights Sumika; she responds through the role and then discounts a special personal reading. | The audience’s sister interpretation is not private romance. Kanoko’s mention of Hime supplies a live rival explanation. | O26; high desire/defensive sequence. |
+| **WY10-REL16 — Kanoko→Sumika, proposal** | Kanoko identifies Sumika’s love, requests dating and explicitly wants to end Sumika’s anti-romance stance. | She has not made an equivalent unambiguous romantic-love declaration. Recognition and persuasion include pressure; exact preparatory advice is concealed. | O27–O29; high proposal, love category open. |
+| **WY10-REL17 — Sumika→Kanoko, accepted new status** | Sumika declares love, embraces Kanoko and later thinks of herself as girlfriend. | Acceptance is depicted; understanding of Kanoko’s advised purpose is not. No subsequent relationship trial occurs before i154. | O28/O29; high love/status, informed reciprocity absent. |
+| **WY10-REL18 — Kanoko→unidentified adviser** | Kanoko reports success, thanks the recipient and agrees to secrecy from Sumika. | An advisory relation is represented by Kanoko’s words. Goeidō is a strong hypothesis, not a directly established identity or a complete known plan. | O29; high communication, identity OPEN. |
+
+### 6.1 The new relation is not merely an imaginary or fake relation
+
+The ending provides enough evidence to say that Kanoko and Sumika have entered a dating arrangement: the proposal is made, Sumika gives a personal answer, and both later describe the new status from their separate locations. It would be misleading to say nothing happened merely because the motives are unequal. It would be equally misleading to say mutual romantic love has been established merely because both acknowledge dating. The new relation is real as an arrangement and uncertain as a shared emotional project. [O28/O29.]
+
+Likewise, Nene’s earlier strategic entry into dating Yoko does not make her later love unreal. The volume explicitly differentiates the original project from her changing attachment. Relationships can begin under one explanation, develop other meanings and be ended when those meanings no longer match. Preserving that chronology is more informative than sorting all bonds into sincere or fake from the outset. [O11/O16/O17.]
+
+### 6.2 Third-person effects and nonreciprocal care
+
+Sumika’s position in the old Nene–Yoko arrangement and Hime’s position in Kanoko’s present distress are not interchangeable. Yoko explicitly proposed making Sumika jealous. The current Kanoko–Sumika dating proposal explicitly seeks to change Sumika’s attitude, while Hime remains the major source of Kanoko’s insecurity. The final advisory context invites comparison, but the V10 source does not reveal a complete plan for manipulating Hime or a direct identity for the adviser. Cross-link the new uncertainty rather than using the old scheme as a substitute for missing evidence. [O16/O24/O28/O29.]

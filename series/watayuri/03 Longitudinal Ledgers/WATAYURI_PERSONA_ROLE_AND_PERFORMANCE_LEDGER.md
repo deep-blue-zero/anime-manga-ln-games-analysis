@@ -4,14 +4,14 @@ artifact_id: WATAYURI_PERSONA_ROLE_AND_PERFORMANCE_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.10"
+version: "0.11"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V09 mainline through V09 Shift 46/i134, also latest depicted present; packaged shorts separately bounded; V09 one-shot separate continuity; V10–V14 inventory only"
+source_boundary: "Japanese V01–V10 mainline through V10 Shift 51/i154, also latest depicted present; packaged shorts separately bounded; V09 one-shot separate continuity; V10-B and V11–V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_PERSONA_ROLE_AND_PERFORMANCE_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_PERSONA_ROLE_AN
 
 **Update and revision rule.** Update on a script change, explicit audience shift, recurring role/private leakage or consequential role-mediated change in relationship. Keep role adoption and private effect separately time-indexed. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V09 mainline through V09 Shift 46/i134, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1, 36.2, 41.5 and 46.5 remain separately bounded; V04 EX is promotional. V09’s one-shot is a separate work, not Watayuri continuity. V01–V08 sections retain their earlier states; dated V09 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V10 mainline through V10 Shift 51/i154, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1, 36.2, 41.5, 46.5 and 51.5 remain separately bounded; V04 EX is promotional. V09’s one-shot is a separate work, not Watayuri continuity. V01–V09 sections retain their historical states; dated V10 additions and the attributable claim-lineage erratum carry the current account. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -259,3 +259,34 @@ Performance records own scripts and audiences; psychological category and pair s
 | **WY9-PER14** | All sisters / Haruko; supplement | Competing personal definitions coexist under one institutional label. S46.5/i136–143. | No singular authoritative psychological definition; mainline chronology not advanced. |
 
 The role is neither a disposable lie nor a reliable boundary around feeling. It gives Sumika a legitimate place from which to act helpfully and a respectable language for desires she cannot accept as romantic. It also gives Kanoko a way to accept help while limiting when ceremonial closeness should occur. The tension is internal to the role’s usefulness: the same structure that makes a relationship possible can obscure what its participants now need from it. [PER03/PER07/PER09/PER14.]
+
+
+<a id="v10"></a>
+## V10 — Current additions and transitions — 2026-10-19
+
+**V10 evidence key:** source-map key `V10`, Japanese witness `1_op3JMqIOzXvfHSWN3znBlJPXjxAOtxI`, SHA-256 `3749dd05cca33587f32656dab6ca91d675c529fc23d30aaa2c33e9503bfb899b`. The [frozen V10 reading](../02%20Sequential%20Readings/WATAYURI_V10_DEEP_READING.md#performance) supplies full observations, context and image/spine conventions. Unprefixed iNNN and O/REL/PER/INF/AG/T/JP/VIS/C references below mean V10; section numbers refer to the complete reading. WY1–WY9 identities retain their original propositions and dated states, subject to the [attributable current claim-lineage erratum](WATAYURI_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md#v10-claim-lineage-erratum). Mainline and latest depicted present end at Shift 51/i154. Shift 51.5/i156–160 is historical prototype fitting; first-year bonus i168 and edition matter do not advance the endpoint. V10-B and V11+ remain excluded. All prior source corrections and freezes remain intact.
+
+## 7. Persona, role and performance additions
+
+**Destination:** `03 Longitudinal Ledgers/WATAYURI_PERSONA_ROLE_AND_PERFORMANCE_LEDGER.md`.
+
+| ID | Actor / audience / script | What the performance does, and what it does not establish | Source |
+| --- | --- | --- | --- |
+| **WY10-PER01** | Mai→Nene, recruitment | School-uniform appearance and an explained café fiction attract a prospective worker. Appearance initially produces a mistaken business assumption that Mai corrects. | O04. |
+| **WY10-PER02** | Nene/Sumika/Mai, training | Direct love wording, cross handling and shared fiction are corrected before public use. The role is constructed through work rather than simply revealing an innate persona. | O05. |
+| **WY10-PER03** | Sumika→Nene, opening threshold | Improvisational competence turns sister reassurance into real support. Its success does not certify a romantic intention. | O06. |
+| **WY10-PER04** | Mai/team, staffing and audience novelty | A new worker is both labor capacity and a source of a fresh character arc. Nene’s full-time role and Sumika’s school availability matter materially. | O07/O08. |
+| **WY10-PER05** | Yoko→team, role design | Familiarity with the fictional reference permits a deliberately seductive persona. The agreed fictional design must be distinguished from later real influence. | O09. |
+| **WY10-PER06** | Sumika/Nene, salon sisters | Public possessive language can affect Nene’s private hope without constituting actual romantic acknowledgment by Sumika. | O07/O09/O10. |
+| **WY10-PER07** | Yoko/Nene→public venue | Requesting a couple benefit obtains recognition before the pair settles the meaning of renewed couplehood. Yoko’s pleasure in surprise and Nene’s reception differ. | O14. |
+| **WY10-PER08** | Hime/Mitsuki/Kanoko, rehearsal | Scripts, corrections and audience responses preserve a visible boundary between fictional sisters and workers learning roles. No completed festival is depicted. | O19/O20. |
+| **WY10-PER09** | Kanoko→Hime/coworkers | Illness reassurance, practice claims and denial of avoidance preserve an appearance that private thought contradicts. No general diagnosis of all her speech follows. | O19/O21–O24. |
+| **WY10-PER10** | Sumika→herself, private rehearsal | The elder-sister script organizes self-reproach and the problem of letting a sister leave. Rehearsing it is not dissolving her actual pact. | O25. |
+| **WY10-PER11** | Kanoko/Sumika→salon audience | A requested hand touch becomes an audience-readable affectionate scene and a privately destabilizing experience for Sumika. Those readings coexist. | O26. |
+| **WY10-PER12** | Sumika→Kanoko, private role explanation | Sisterly/friendship terms initially deflect a romantic reading, then give way to an explicit personal declaration. An actual self-account changes; not all earlier role care was false. | O27/O28. |
+| **WY10-PER13** | Kanoko→Sumika and adviser, distinct audiences | Dating language is presented as a personal proposal, then privately reported as successful advised action. Exact planning is unshown, but the audience split is material. | O28/O29. |
+| **WY10-PER14** | Founding group and first-year guests, separate components | Uniform fitting and the bonus show early assumptions and publicly interpreted closeness, not the current couple’s later behavior. | O30/O33. |
+
+The most useful performance distinction in V10 is not frontstage falsehood versus backstage truth. Some of the truest help occurs through a playable role; some of the most consequential omissions occur in private. Yoko’s private assurance of seriousness also has to be interpreted by its object and context. Kanoko’s private dating proposal is not fully explained to its recipient merely because patrons are absent. [O06/O15–O17/O27–O29.]
+
+The new evidence also shows performance learning operating in both directions. Sumika once supplies the confidence Nene lacks. Hime now supplies an area of skill Mitsuki openly lacks. Neither example makes all practical reliance romantic, nor does either justify monopolizing the person one helps. Keep those examples as distinct interactions with a shared analytic question, not a universal rule that one person always instructs the other. [O06/O20.]

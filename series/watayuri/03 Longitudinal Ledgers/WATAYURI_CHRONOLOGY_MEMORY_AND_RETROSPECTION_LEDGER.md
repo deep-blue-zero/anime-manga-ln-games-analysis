@@ -4,14 +4,14 @@ artifact_id: WATAYURI_CHRONOLOGY_MEMORY_AND_RETROSPECTION_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.10"
+version: "0.11"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V09 mainline through V09 Shift 46/i134, also latest depicted present; packaged shorts separately bounded; V09 one-shot separate continuity; V10–V14 inventory only"
+source_boundary: "Japanese V01–V10 mainline through V10 Shift 51/i154, also latest depicted present; packaged shorts separately bounded; V09 one-shot separate continuity; V10-B and V11–V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_CHRONOLOGY_MEMORY_AND_RETROSPECTION_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_CHRONOLOGY_MEMO
 
 **Update and revision rule.** Append retrospective records that link to earlier event IDs; revise the mature ordering if warranted while preserving original VNN presentation and uncertainty. Mark apparent contradiction OPEN when order or witness cannot be settled. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V09 mainline through V09 Shift 46/i134, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1, 36.2, 41.5 and 46.5 remain separately bounded; V04 EX is promotional. V09’s one-shot is a separate work, not Watayuri continuity. V01–V08 sections retain their earlier states; dated V09 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V10 mainline through V10 Shift 51/i154, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1, 36.2, 41.5, 46.5 and 51.5 remain separately bounded; V04 EX is promotional. V09’s one-shot is a separate work, not Watayuri continuity. V01–V09 sections retain their historical states; dated V10 additions and the attributable claim-lineage erratum carry the current account. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -259,3 +259,38 @@ Temporal ordering and causal interpretation receive different confidence judgmen
 The repeated photograph and the dream require opposite forms of caution. The photograph-production scene supplies a missing earlier context for an existing object. The dream supplies a subjective event that never happened between the real pair. Treating both as ordinary current scenes would create false chronology; treating both as meaningless fantasy would discard real production history and important private evidence. [T02/T05.]
 
 Nene’s statement and later message also require a temporal model rather than forced harmonization. The reliable record is: a stated present wish not to reopen; visible distress; an actual request to meet. Whether the later act expresses a changed wish, an earlier concealed wish, or a distinct purpose remains open. This is a causal question, not uncertainty about whether the message is shown. [T08; INF14–15.]
+
+
+<a id="v10"></a>
+## V10 — Current additions and transitions — 2026-10-19
+
+**V10 evidence key:** source-map key `V10`, Japanese witness `1_op3JMqIOzXvfHSWN3znBlJPXjxAOtxI`, SHA-256 `3749dd05cca33587f32656dab6ca91d675c529fc23d30aaa2c33e9503bfb899b`. The [frozen V10 reading](../02%20Sequential%20Readings/WATAYURI_V10_DEEP_READING.md#chronology) supplies full observations, context and image/spine conventions. Unprefixed iNNN and O/REL/PER/INF/AG/T/JP/VIS/C references below mean V10; section numbers refer to the complete reading. WY1–WY9 identities retain their original propositions and dated states, subject to the [attributable current claim-lineage erratum](WATAYURI_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md#v10-claim-lineage-erratum). Mainline and latest depicted present end at Shift 51/i154. Shift 51.5/i156–160 is historical prototype fitting; first-year bonus i168 and edition matter do not advance the endpoint. V10-B and V11+ remain excluded. All prior source corrections and freezes remain intact.
+
+## 10. Chronology, memory and retrospection additions
+
+**Destination:** `03 Longitudinal Ledgers/WATAYURI_CHRONOLOGY_MEMORY_AND_RETROSPECTION_LEDGER.md`.
+
+| ID | Narrative presentation | Event time and event class | Certainty and exclusion |
+| --- | --- | --- | --- |
+| **WY10-T01** | i001 | Present Nene–Sumika inquiry before the displayed incoming reply. | High relative order. Earlier outgoing message does not prove earlier incoming contact. |
+| **WY10-T02** | i005–011 | Explicit two-years-earlier eighteen-year-old Nene frame containing still earlier school memories and bar experience. | High stated frame; individual remembered episodes are not all assigned one exact date. |
+| **WY10-T03** | i012–024 | Recruitment, preopening preparation, training and opening sequence. | High relative order; do not convert role grade or recruitment speech into independently verified legal/age chronology. |
+| **WY10-T04** | i025–028 | Café development, following-year staffing strain, Nene’s recognition of love, spring arrival of Yoko. | High supplied order; exact dates of emotional change are not given. |
+| **WY10-T05** | i029–053/i055 | Yoko’s arrival, learning, altered access, quarrel and the initial consultation/offer. | Historical. Full proposal is withheld and later supplemented at i084; it is not made a second time in the past. |
+| **WY10-T06** | i054/i057–072 | Present reply, arrangement and actual outing. | High actuality. A visible 14:01 message is not sufficient to invent an exact prearranged meeting time. |
+| **WY10-T07** | i073–088, including i084 retrospective insertion | Hotel waking, conversation, implied intimate night, next-morning explanation and Nene’s departure; embedded earlier jealousy proposal. | High broad sequence; transport/decision details partly reported, not continuously depicted. |
+| **WY10-T08** | i089–093 | Later workplace aftermath; Sumika refers to yesterday’s absence; Kanoko overhears later limited remarks. | High local sequence, no need to force an absolute calendar. Kanoko does not witness the hotel history. |
+| **WY10-T09** | i095–124 | Work/rehearsal, Kanoko’s departure/home script, next school exchange and subsequent café appeal. | High episode order. Kiss at i118 is reported prior event, not new contact. |
+| **WY10-T10** | i125–140 | Continued work estrangement, Sumika’s private jealousy recognition and rehearsal, later salon initiative. | High order of shown transitions; thoughts of hurting/rejection are not enacted scenes. |
+| **WY10-T11** | i141–154 | After-work stairway inquiry/proposal followed by separate-home reaction/call. | High. Both mainline and latest present end i154; no subsequent date, disclosure or repair. |
+| **WY10-T12** | S51.5/i156–160; extra/i168 | Founding-team prototype fitting and an explicitly first-year sister vignette. | Historical separate witnesses. Exact fitting day and position within first year remain open; neither follows i154. |
+
+### 10.1 The volume returns to an offer, not merely to a memory image
+
+The i055/i084 relation is especially consequential. The earlier displayed offer initially foregrounds companionship and the possibility of casual enjoyment. The later insertion supplies a missing term involving Sumika’s jealousy. This changes the reader’s understanding of what Nene knew at entry. It must not be rendered as Yoko inventing that term for the first time in the present, nor as Nene having known from the outset that her own feelings would later change. Different information becomes available at different narrative times about one earlier agreement. [T05/T07.]
+
+### 10.2 Current endpoints and completed actions
+
+V09 left a message and contact slip without depicting the proposed reunion; V10 supplies the reunion and a departure. V09 did not complete rehearsal; V10 shows real rehearsal but not the festival. V10 supplies dating status but not the future conduct of that relationship. These are not merely cautious verbal qualifications: each distinction selects which actual events may enter the next volume’s entering state. [T06–T11.]
+
+The final phone conversation confirms that advice preceded at least some reported outcome, but does not fix the advice’s exact place in the episode sequence. A receiving analyst must not invent a call between specified panels to fill that gap. Its temporal incompleteness belongs beside the unresolved identity and scope in INF19–20.

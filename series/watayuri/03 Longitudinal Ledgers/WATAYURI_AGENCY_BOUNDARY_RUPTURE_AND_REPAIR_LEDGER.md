@@ -4,14 +4,14 @@ artifact_id: WATAYURI_AGENCY_BOUNDARY_RUPTURE_AND_REPAIR_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.10"
+version: "0.11"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V09 mainline through V09 Shift 46/i134, also latest depicted present; packaged shorts separately bounded; V09 one-shot separate continuity; V10–V14 inventory only"
+source_boundary: "Japanese V01–V10 mainline through V10 Shift 51/i154, also latest depicted present; packaged shorts separately bounded; V09 one-shot separate continuity; V10-B and V11–V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_AGENCY_BOUNDARY_RUPTURE_AND_REPAIR_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_AGENCY_BOUNDARY
 
 **Update and revision rule.** Update when choices or boundary/repair trajectory materially change. Do not close a rupture merely because an apology occurred. Link later behavior as a dated continuation and retain the earlier prospective assessment. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V09 mainline through V09 Shift 46/i134, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1, 36.2, 41.5 and 46.5 remain separately bounded; V04 EX is promotional. V09’s one-shot is a separate work, not Watayuri continuity. V01–V08 sections retain their earlier states; dated V09 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V10 mainline through V10 Shift 51/i154, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1, 36.2, 41.5, 46.5 and 51.5 remain separately bounded; V04 EX is promotional. V09’s one-shot is a separate work, not Watayuri continuity. V01–V09 sections retain their historical states; dated V10 additions and the attributable claim-lineage erratum carry the current account. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -363,3 +363,48 @@ This does not make disclosure of romantic feeling a mandatory remedy. Such discl
 Sumika wants to protect the salon, Kanoko and the people harmed by the earlier rupture. These aims overlap but are not identical. Banning a visitor, requiring a meeting, obtaining another person’s contact details, stopping a romance consultation and preserving current team functioning each affect different choices. Mai’s interventions separate some of these decisions; they do not establish a final policy for every possible future encounter. [AG13–20.]
 
 Nene’s private initiative is especially important because it prevents protection from becoming a story told entirely by third parties. A future analysis must preserve both the evidence of hurt and her capacity to decide. Choosing contact does not cancel earlier injury; earlier injury does not automatically transfer authorship of her choices to Sumika. [i112–113, i125–126; inherited V04 agency account.]
+
+
+<a id="v10"></a>
+## V10 — Current additions and transitions — 2026-10-19
+
+**V10 evidence key:** source-map key `V10`, Japanese witness `1_op3JMqIOzXvfHSWN3znBlJPXjxAOtxI`, SHA-256 `3749dd05cca33587f32656dab6ca91d675c529fc23d30aaa2c33e9503bfb899b`. The [frozen V10 reading](../02%20Sequential%20Readings/WATAYURI_V10_DEEP_READING.md#agency) supplies full observations, context and image/spine conventions. Unprefixed iNNN and O/REL/PER/INF/AG/T/JP/VIS/C references below mean V10; section numbers refer to the complete reading. WY1–WY9 identities retain their original propositions and dated states, subject to the [attributable current claim-lineage erratum](WATAYURI_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md#v10-claim-lineage-erratum). Mainline and latest depicted present end at Shift 51/i154. Shift 51.5/i156–160 is historical prototype fitting; first-year bonus i168 and edition matter do not advance the endpoint. V10-B and V11+ remain excluded. All prior source corrections and freezes remain intact.
+
+## 9. Agency, boundaries, rupture and repair additions
+
+**Destination:** `03 Longitudinal Ledgers/WATAYURI_AGENCY_BOUNDARY_RUPTURE_AND_REPAIR_LEDGER.md`. Available options must be supported, not invented to assign blame. A chosen action can occur under emotional pressure; emotional pressure does not automatically eliminate authorship. An apology and a later change of procedure are separate observations.
+
+| ID | Concrete act and available choice | Boundary, cost, uptake and limit | Evidence |
+| --- | --- | --- | --- |
+| **WY10-AG01** | Sumika asks to be informed and tells Nene not to meet Yoko. | Concern is real; Nene’s authority over her own meeting is not transferred by the warning. | O01. |
+| **WY10-AG02** | Nene chooses café recruitment after a clarified work offer. | Dissatisfaction and imaginative appeal condition the choice; no proof of fabricated employment or a promised romance. | O02–O04. |
+| **WY10-AG03** | Yoko objects to Sumika’s indiscriminate disclosure of Nene’s sexuality. | A locally useful privacy intervention remains useful even though later conduct raises other concerns. | O08. |
+| **WY10-AG04** | Sumika pulls Nene away despite protest. | Actual bodily redirection must not be replaced by a harmless role description. Broader motive is mixed. | O09. |
+| **WY10-AG05** | Nene asks permission for romantic consultation; Yoko stays and listens. | Consent to conversation does not authorize deciding every subsequent relational step. | O11. |
+| **WY10-AG06** | Nene initially accepts a dating offer with a jealousy purpose, then later states changed love. | Initial strategic participation and later legitimate revision coexist. Earlier assent does not freeze future wishes. | O11/O16/O17. |
+| **WY10-AG07** | Nene arranges and attends the reunion despite Sumika’s warning. | She has a source-stated question and motive. An unsatisfactory result does not retrospectively erase that agency. | O12/O13. |
+| **WY10-AG08** | Yoko repeatedly redirects the requested conversation toward enjoyable activities. | Nene protests and also enjoys them. Pleasure and control over timing are distinct effects. | O13/O14. |
+| **WY10-AG09** | Nene’s unsteady state, hotel arrival and renewed intimacy occur through a partly unshown transition. | Record uncertainty about the transition and act-level permission; do not infer sleep-time sex, a complete free-choice history, or a legal finding. | O14/O15. |
+| **WY10-AG10** | Nene declines a shared shower, questions the restart and finally announces departure. | Yoko does not force the shower or obstruct the shown exit. Local limits do not settle broader honesty or safety. | O16/O17. |
+| **WY10-AG11** | Nene dresses and leaves; Sumika later apologizes and receives tears/apology. | The first is an enacted boundary; the second is a partial interpersonal exchange, not a complete account of harm or renewed pact. | O17/O18. |
+| **WY10-AG12** | Hime offers rehearsal help; Mitsuki admits need and receives support. | This is current evidence for reciprocal participation. It is not a controlled practical-service test or new permission for unrelated touch. | O19/O20. |
+| **WY10-AG13** | Kanoko asks Hime not to enter the changing space and to leave with Mitsuki. | Hime complies. Concealed distress limits what the compliant action can achieve, but does not make it neglect. | O21. |
+| **WY10-AG14** | Hime chooses an honest school discussion and discloses the kiss. | Kanoko requests avoidance/minimizes and then ends the discussion. The exchange supplies information, not reciprocal confession or consent retroactively. | O22/O23. |
+| **WY10-AG15** | Hime/Mai offer rest; Kanoko seeks Sumika’s urgent help instead. | A practical alternative exists, but rest does not necessarily answer her relational need. No formal leave/resignation is established. | O24. |
+| **WY10-AG16** | Sumika refuses further Hime consultation with an angry accusation. | A listener may limit availability; this actual delivery mixes private jealousy, Nene-related frustration and blame. No completed repair follows immediately. | O24. |
+| **WY10-AG17** | Sumika imagines Hime becoming angry, then rejects the thought as harmful to Kanoko. | This is self-correction before action, not enacted sabotage or a complete cure of jealousy. | O25. |
+| **WY10-AG18** | Kanoko closes Sumika’s book and requests hand contact in the salon; Sumika accepts and enlarges the role scene. | Specific request, response and public performance are observable. Private intention remains incompletely explained. | O26. |
+| **WY10-AG19** | Kanoko challenges Sumika privately and increases hand pressure until a pain utterance. | The grip’s cost is not erased by subsequent affectionate contact. No additional force or injury is invented. | O27. |
+| **WY10-AG20** | Kanoko proposes dating and appeals to Sumika’s care as a reason to accept/hear it. | She supplies a purpose—ending anti-romance—but withholds the advisory context. Sumika’s assent is not proof of full information or equal feeling. | O28/O29. |
+| **WY10-AG21** | Sumika declares love; Kanoko later agrees to keep the advice secret. | Acceptance creates a new relation while the separate secrecy agreement limits shared understanding of its formation. | O28/O29. |
+| **WY10-AG22** | Historical Nene asks for changing privacy; Sumika turns the misunderstanding into teasing. | Nene objects to insensitivity. Her attraction and mixed pleasure do not create blanket permission. | O30, separate supplement. |
+
+### 9.1 Protection is neither meaningless nor self-authorizing
+
+The source does not require rejecting all protection because Sumika sometimes oversteps. Her concern about Yoko is informed by actual history, and Nene’s later experience gives some of that concern substantial support. The error would be to move directly from being worried for good reasons to possessing authority over the other person’s decision. Nene’s refusal of interference and later decision to leave Yoko are distinct acts by the same person; neither requires the analyst to decide that Sumika must always be wrong or always be obeyed. [AG01/AG07/AG10/AG11.]
+
+The same distinction applies to Kanoko. Hime’s rest suggestion and Sumika’s inability to absorb another consultation do not make Kanoko’s need unreal. But having a real need does not automatically justify painful pressure or converting another person’s romantic feeling into a device for changing that person. The volume supplies enough agency on all sides that explanation cannot be used as a blanket exemption from examining conduct. [AG15–AG21.]
+
+### 9.2 The current support model needs revision even when a forecast remains open
+
+By i124 the old promise that Kanoko will not have to bear her pain alone is not functioning reliably in the form Kanoko expected. That is a substantive state change. It need not wait for a particular forecast to receive a clean confirming or contrary trial. WY4-PR01 has a narrower trigger involving help to control another person’s attachment; the immediate request does not specify such an action. Section 14 preserves the forecast while the relationship and agency records acknowledge the actual failure. Procedural caution must not become a way to pretend no injury occurred. [AG16; O24.]
