@@ -5,7 +5,7 @@ artifact_type: character_development_readiness_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.12"
+version: "0.13"
 status: active_provisional
 scope: "Character Development and Readiness; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -444,3 +444,37 @@ Misao remains CHAR0005, now full name 安芸操 Aki Misao52. CHAR0022 reported �
 | PG-CS-0174@1 / CHAR0001 / CS0172 | KNOWLEDGE/AFFECT: returns joyful157, opens door161/sees Kairi over sleeping Misao, shocked162 | EV0027–0028; CL0013@9/0020@8. Sees configuration, not automatically prior diet/cheek sequence, no next response yet |
 
 Pre-canonical identity check: Ryo-call woman99–100 remains UNNAMED; no Misao state/receipt inferred there. Jigoro CHAR0015 and Pocky CHAR0023 distinct. Next CHAR0024, CS0175, RD0001. Revision0.12 — V13 successors2026-10-20; all prior rows/body retained.
+
+## V14 successor transaction — PG-FR-V14
+
+[V14 reading](../02%20Sequential%20Readings/PEACH_GIRL_V14_DEEP_READING.md);175 inspected/159 mainline. EV=PG-EV-V14; CHAR=PG-CHAR. Readiness UNASSESSED_NO_OPERATIONAL_MODEL_TESTED; no new RD.
+
+| Local subject | Verified identity/admission | Limit |
+| --- | --- | --- |
+| PG-CHAR-0024 | Unnamed soba-shop owner; actual105/108–113/145–153, married to CHAR0025 | Name unknown. Wife113 maps husband onto Kairi's ROLE, not literal Okayasu identity. Aggression/help/counsel all retained; global ID null |
+| PG-CHAR-0025 | 早苗 / Sanae, shopkeeper's wife, addressed153; actual108–113/132/151–153 |113 maps herself onto Momo's ROLE, not her actual name. Attributed comparable youth not independently replayed; global ID null |
+
+| State / subject / prior | Actual transition/frontier | Basis / limit |
+| --- | --- | --- |
+| PG-CS-0175@1 / CHAR0001 / CS0174 | CHOICE/AFFECT: leaves doorway6, silent work11, names sleeping approach13, second-place no-right thought14/private should-end15 | EV0002–0003; CL0013@10/0017@11. Self-suppression not analyst duty or communicated breakup |
+| PG-CS-0176@1 / CHAR0004 / CS0173 | CHOICE/KNOWLEDGE: encounter response13, hurting M28/stuck agrees30; receives actual Jigoro outcome33–35/relieved hug/anger undressing37 | EV0002/0004–0005; CL0006@14/0028@4. No secure completed kiss, no-act not no harm |
+| PG-CS-0177@1 / CHAR0003 / CS0170 | CHOICE: intercepts call as SELF18–19, unequal relation known20/identity withheld21, counsels M23–25/confronts K28–30 | EV0003–0004; CL0002@13/0003@12. Heard-all boast not complete knowledge, useful insight not permanent reform |
+| PG-CS-0178@1 / CHAR0001 / CS0175 | CHOICE/AFFECT: actual intoxicated why-not-love41/how-long42, sleeps43; later asks weird words48/receives denial | EV0006/0008; CL0013@10. Speech actually heard K, intoxication not consent/clinical diagnosis |
+| PG-CS-0179@1 / CHAR0004 / CS0176 | CHOICE: carries46/omits actual M questions48, reflects49–51, visits Misao/confesses57/59/receives rejection62/thanks63 | EV0008–0009; CL0006@14/0026@5. Care plus omission, rejection not instant feeling erased |
+| PG-CS-0180@1 / CHAR0005 / CS0169 | CHOICE/STATEMENT: domestic visit52–56/initial joke58/never imagined60/only younger brother/future too62 | EV0009; CL0026@5. Actual romantic rejection, no sleep-consent inference or blanket lack of care |
+| PG-CS-0181@1 / CHAR0004 / CS0179 | CHOICE/STATEMENT: actually tells M rejection65/cannot immediate redirect67/distance68/wait69; quits74/receives exact noon/five-minute terms76/walks | EV0010–0011; CL0006@14/0028@4. Current qualified attachment, not settled first-choice pledge |
+| PG-CS-0182@1 / CHAR0001 / CS0178 | KNOWLEDGE/CHOICE: receives result65, private wait70, books trip/actual terms76, K only79/no-contact81–82 | EV0010–0012; CL0013@10. Boundary communicated, future attendance not yet; no unlimited waiting commitment |
+| PG-CS-0183@1 / CHAR0003 / CS0177 | CHOICE: reports rejection71, arranges T job88/false self-quitting, manager reconciliation story140; answers M90 | EV0011–0012/0023; CL0002@13/0003@12. New meddling real, not retrospective proof V13 repair fake |
+| PG-CS-0184@1 / CHAR0002 / CS0160 | CONTEXT/KNOWLEDGE: takes S job lead/unaware M87, accepts work, receives partial K-distance/ticket account98–99/phone counsel107 | EV0012–0013/0015; CL0015@9. Full deadline terms not recited to him; brief brush not established strategy |
+| PG-CS-0185@1 / CHAR0004 / CS0181 | CONTEXT/CHOICE: hot walking95/wallet loss100/skater inference101, Ryo call interrupted102/runs unpaid104/hit sandal105/dishwork108–109 | EV0013–0016; CL0006@14. Theft unshown/no actual Ryo help; flight and owner aggression both actual |
+| PG-CS-0186@1 / CHAR0020 / CS0168 | STATEMENT/CONTEXT: phones K102/parents worry/note in hand; call dies before full trouble-location account | EV0014; CL0025@6. Bounded concern, not reform or actual financial aid |
+| PG-CS-0187@1 / CHAR0024 / NONE | CHOICE: sandal throw105, meal/work109/lodging context113; puzzle quarrel139, award priming/expired soba146–149/idealization counsel150–151/notices fever153 | EV0014/0016/0022/0024–0025. Useful counsel not infallibility, no explicit this-dish-won lie |
+| PG-CS-0188@1 / CHAR0025 / NONE | CHOICE/STATEMENT: empathy108/similar past112/role analogy/lodging113, towels132, puzzle completion account139/couples sharing151 | EV0016/0021–0022/0025. Sanae153; care can misattune, not literal Momo identity/independent full past history |
+| PG-CS-0189@1 / CHAR0003 / CS0183 | CHOICE/REPAIR: photo to T116/real-negative/bluff admission117–118/apology119; confirms media threat to M128–129/leaves when asked130 | EV0017–0020; CL0003@12/0023@3. Concrete delayed truth after new meddling, not all copies destroyed/full reform |
+| PG-CS-0190@1 / CHAR0001 / CS0182 | KNOWLEDGE/AFFECT: overhears118–124/demands exact128/gets129/asks S leave, new sympathy/self-blame130–143/scandal counterfactual144 | EV0017–0020/0023; CL0013@10/0023@3. Old correct suspicion not full prior receipt; self-blame countered by T156 |
+| PG-CS-0191@1 / CHAR0005 / CS0180 | CHOICE/STATEMENT: phones K134/never actually told Ryo136/chocolate withheld on discovering beloved; K confession restored confidence/try Ryo137 | EV0021; CL0026@5. Not revocation of sibling-only rejection; woman136 not securely dead Aki |
+| PG-CS-0192@1 / CHAR0004 / CS0185 | KNOWLEDGE/CONTEXT: hears Misao136–137/weak139, soba counsel149–151/M memory152/unfinished I153, actual influenza diagnosis158/helpless water/help162–163 | EV0021–0022/0024–0025/0027/0029; CL0006@14. Risk not pneumonia/death; contact screen not completed call or spoken first-choice pledge |
+| PG-CS-0193@1 / CHAR0002 / CS0184 | KNOWLEDGE/CHOICE: learns M overheard155/actual own-fault apology156, returns phone154/fireworks invite158/watch159/conditional restart166 | EV0026–0030; CL0005@9/0015@9/0023@3. Protective intention plus harmful method, no M acceptance/current reunion |
+| PG-CS-0194@1 / CHAR0001 / CS0190 | CHOICE/AFFECT: thanks T155–157/watch159/past-memory/current-feelings question160, would probably give up if K absent165/receives conditional proposal166 | EV0026–0030; CL0013@10. No answer before exit; no shown K-illness knowledge, completed call, deadline failure or current T choice |
+
+Pre-canonical Japanese recheck113 corrected private literal-name misparse: wife uses role analogy, actual Sanae153 consistent. No canonical identity-lie claim admitted. Next CHAR0026, CS0195, RD0001. Revision0.13 — V14 successors2026-10-20; prior bodies/rows preserved.

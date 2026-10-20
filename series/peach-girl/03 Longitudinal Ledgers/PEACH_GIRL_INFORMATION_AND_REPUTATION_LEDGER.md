@@ -5,7 +5,7 @@ artifact_type: information_reputation_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.12"
+version: "0.13"
 status: active_provisional
 scope: "Information Circulation and Reputation; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -904,3 +904,76 @@ IP0051@3 earlier missing act remains unresolved; no later source act invented. N
 | PG-RP-0061 / NONE | Momo sexual-history self-understanding / Momo hears Jigoro/Sae152–153 | EV0026–0027; private relief not public correction or moral worth |
 
 IP0051@4 is a dated later disclosure, not silent repair of old freezes. Prior whole-row history retained. Next IP0165, KN0177, TX0207, RP0062. Revision0.12 — V13 successors2026-10-20.
+
+## V14 successor transaction — PG-FR-V14
+
+[V14 reading](../02%20Sequential%20Readings/PEACH_GIRL_V14_DEEP_READING.md); EV=PG-EV-V14. Actual hearing, private thoughts, conditional offers and later participant corrections are separated. All original rows retained.
+
+| Proposition / prior | Content/class | Evidence / limit |
+| --- | --- | --- |
+| PG-IP-0165@1 / IP0164 | M directly names sleeping approach13/K if awake hit response / ESTABLISHED_DIRECT_EXCHANGE | EV0002; no secure completed kiss/permission or Misao awareness |
+| PG-IP-0166@1 / IP0163 | M actually tells K Jigoro outcome33–35/remaining undressing harm37 / ESTABLISHED_NEW_RECIPIENT | EV0005; prior correction not automatically earlier K knowledge/no harm |
+| PG-IP-0167@1 / NONE | M actually asks why/how long41–42/K later says no strange words48 / ESTABLISHED_RECEIPT_AND_OMISSION | EV0006/0008; M later no recall not cancellation of K hearing |
+| PG-IP-0168@1 / NONE | K confession57/59/Misao only younger brother now/future62 / ESTABLISHED_ACTUAL_REJECTION | EV0009; not an unmade confession, later happy137 not reversal |
+| PG-IP-0169@1 / IP0155 | K tells M result65/distance67–69/M actual ticket/noon/five-minute deadline76/K understands / ESTABLISHED_BOUNDED_TERMS | EV0010–0011; private wait70 not all received, future attendance not yet |
+| PG-IP-0170@1 / NONE | S falsely tells T she quits88/manager quarrel-reconcile story140; T unaware M87 / ESTABLISHED_SETUP_WITH_DIFFERENT_KNOWLEDGE | EV0012/0023; T not proven schemer, prior V13 repair not refuted |
+| PG-IP-0171@1 / NONE | Wallet gone100/K infers skaters101/Ryo family call102/battery fails early / LOSS_ESTABLISHED_THEFT_INFERRED | EV0014; no depicted theft/full location-money receipt/help |
+| PG-IP-0172@1 / NONE | Wife similar youth112/maps self M/husband Okayasu113; actual Sanae153 / ATTRIBUTED_ROLE_ANALOGY | EV0016/0025; NOT literal names/identity deception, owner real name unknown |
+| PG-IP-0173@1 / IP0069@1 | S admits T burned real negative/bluff117/only one118/photo116 / NEW_PARTICIPANT_RETRACTION | EV0017; strongly discredits old retained-real claim, not independent all-copy destruction |
+| PG-IP-0174@1 / IP0070 | M hears117–124/demands exact128/receives mass-media threat129 / ESTABLISHED_LATER_DETAILED_RECEIPT | EV0017–0020; V07 accurate partial suspicion not equivalent earlier full knowledge |
+| PG-IP-0175@1 / NONE | Misao never actually told Ryo/chocolate not given upon first beloved136/new try intent137 / LATER_SELF_ACCOUNT_QUALIFIES_REPORTED_REJECTION | EV0021; illustrated woman not securely dead Aki, no actual new approach/reciprocity |
+| PG-IP-0176@1 / NONE | Annual award146/expired supermarket148/owner never said this best149 / EXPECTATION_PRIMING_AND_ATTRIBUTED_ANALOGY | EV0024; no securely explicit this-dish-won claim, no universal romance rule |
+| PG-IP-0177@1 / NONE | K influenza diagnosis158/pneumonia risk/helpless water162/contact display163 / ESTABLISHED_ILLNESS_NOT_COMMUNICATED_TO_MOMO | EV0027/0029; no actual pneumonia/death/completed M call; phone worked133 after102 failure |
+| PG-IP-0178@1 / NONE | T learns M heard155/apologizes hurtful method156/M grateful157 / ESTABLISHED_MUTUAL_RECOGNITION | EV0026; gratitude not M sole-fault verdict or resumed couple |
+| PG-IP-0179@1 / NONE | M probable give-up if K absent165/T conditional serious restart166 / ESTABLISHED_CONDITIONAL_PROPOSAL_UNANSWERED | EV0030; no actual deadline failure/M answer or new dating |
+| PG-IP-0069@2 / IP0069@1 | Burned objects genuine versus later retained-original claim / STRONGLY_REVISED_BY_V14_PARTICIPANT_ADMISSION | EV0017; bounded V07_139–142/145–146 recheck confirms burn and earlier claim. S now says real burned/bluff117–118. Old REFUTED-as-warranted-conclusion row preserved historically; genuine-negative reading now strongly supported with attribution, exhaustive photo inventory still UNKNOWN |
+
+| Knowledge / holder | Receipt at frontier | Limit |
+| --- | --- | --- |
+| PG-KN-0177 / Momo, Kairi separately | Direct sleeping-approach exchange13 | EV0002; not secure completed contact/Misao permission |
+| PG-KN-0178 / Sae | Unequal relationship disclosed20/identity refused21, K first unaware29/stuck30 | EV0003–0004; no secure Misao name merely from adjacent M memory31 |
+| PG-KN-0179 / Kairi | Actual Jigoro no-act report33–35/M undressed37, actual love-pain questions41–42 | EV0005–0006; later48 omission not lack of hearing |
+| PG-KN-0180 / Misao | Actual K serious love59/credits M61, gives romantic refusal62 | EV0009; no automatic knowledge sleeping approach |
+| PG-KN-0181 / Momo | K phone confession/rejection65/distance67–69; her actual communicated deadline76 | EV0010–0011; no current exclusive choice or illness knowledge |
+| PG-KN-0182 / Kairi | Misao rejection62/M exact noon/five-minute terms76 | EV0009/0011; M private unlimited willingness70 not all heard |
+| PG-KN-0183 / Sae; Tōji separately | S hears rejection outcome71/overhears deadline78; T job lead88/unaware M87 then distance/trip98–99 | EV0011–0013; different recipients/depth, full deadline not spoken T here |
+| PG-KN-0184 / Ryo | K says not return awhile102/note actual; phone fails mid trouble | EV0014; no full shop location/money request or actual help |
+| PG-KN-0185 / Owner, Sanae separately | K love account/counterfactual111, owner later call-side eavesdropping question145/counsel150 | EV0016/0024; not automatically complete phone content or all M history |
+| PG-KN-0186 / Tōji | S real-negative/bluff admission117–118/apology119 | EV0017; M listening not yet known until155 |
+| PG-KN-0187 / Momo | Overhears118–124/gets exact mass-media threat129; hears manager S story140/scandal model144 | EV0017–0020/0023; actual later information, private self-blame not T receipt |
+| PG-KN-0188 / Kairi | Actual Misao call134/never told Ryo136/new confidence137; phone functions133 | EV0021; no rejection reversal/no automatic M knowledge |
+| PG-KN-0189 / Kairi, owner, Sanae | Owner fever153/doctor influenza158/medicine/pneumonia risk | EV0025/0027; M not shown informed, risk not actual pneumonia |
+| PG-KN-0190 / Tōji | M confirms overheard155; hears thanks156–157/probable give-up165 | EV0026/0030; current K illness unknown to him in shown source |
+| PG-KN-0191 / Momo | T actual apology156/current fireworks159/conditional proposal166 | EV0026/0028/0030; no M answer, contact screen163 not completed call |
+| PG-KN-0192 / Reader | Parallel waiting/work/blackmail correction/Misao call/illness/fireworks | EV0002–0030; reader excess does not grant characters omniscience; analogies/counterfactuals remain attributed |
+
+| Transfer / prior | Actual channel | Boundary |
+| --- | --- | --- |
+| PG-TX-0207 / TX0206 | Momo ↔ Kairi direct encounter13 | EV0002; PR0018 qualifies response not full truth |
+| PG-TX-0208 / NONE | Kairi → M phone17/S answers18–19 identifies self/M hangs | EV0003; interception not M impersonation, no full info transfer |
+| PG-TX-0209 / NONE | M → S unequal relation20/identity refusal21; S → M encouragement23–25 | EV0003; bounded disclosure |
+| PG-TX-0210 / NONE | S ↔ K outside27–30/hurting M/stuck admission | EV0004; no Misao name secure S receipt |
+| PG-TX-0211 / TX0204 | M → K actual Jigoro report33–35 | EV0005; K newly receives |
+| PG-TX-0212 / NONE | M → K why/how-long41–42; K → M nothing-strange48 | EV0006/0008; actual receipt followed omission |
+| PG-TX-0213 / NONE | K → Misao serious confession57/59; Misao → K sibling-only62 | EV0009; actual refusal |
+| PG-TX-0214 / NONE | K → M phone65/rejection/distance67–69 | EV0010; qualified request not current first pledge |
+| PG-TX-0215 / NONE | M → K ticket/noon/five terms76/K understands/S overhears78 | EV0011; deadline actually communicated |
+| PG-TX-0216 / NONE | S → T yesterday job call reported88; M → S actual why call90 | EV0012; no M impersonation |
+| PG-TX-0217 / NONE | M → T distance/ticket98–99/T → M call-if-worried107 | EV0013/0015; not whole deadline terms |
+| PG-TX-0218 / NONE | Ryo ↔ K call102/early battery death | EV0014; full trouble/location not received |
+| PG-TX-0219 / NONE | K ↔ shop couple love111/role analogy112–113/lodging | EV0016; no literal name match |
+| PG-TX-0220 / NONE | S → T photo116/retraction117–118/apology119; M overhears118 | EV0017; initially T unaware witness |
+| PG-TX-0221 / NONE | M ↔ S direct exact-threat demand128/answer129/leave130 | EV0020; later confirmed mechanism |
+| PG-TX-0222 / NONE | Misao → K actual phone134–137/never told Ryo136 | EV0021; no new K romance acceptance |
+| PG-TX-0223 / NONE | Manager → M S quarrel-story140/scandal talk143–144 | EV0023; report/gossip not actual sexual history |
+| PG-TX-0224 / NONE | Owner/Sanae → K soba/couple counsel149–151/fever153/doctor diagnosis158 | EV0024–0025/0027; attributed counsel, M absent |
+| PG-TX-0225 / NONE | M ↔ T overheard acknowledgment155/actual apology156/thanks157 | EV0026; finally shared receipt |
+| PG-TX-0226 / NONE | T → M conditional restart166/NO answer before exit | EV0030; contact display163 not added as actual K→M call |
+
+| Reputation / prior | Target / actual audience | Boundary |
+| --- | --- | --- |
+| PG-RP-0062 / NONE | M/T relationship / manager hears S quarrel-and-reconciliation narrative140 | EV0023; manager calls S kind, misleading account not neutral history |
+| PG-RP-0063 / NONE | Fictional idol Fujisaki Anri / shop customers/manager143–144 | EV0023; actual attributed scandal/slur, not verified sexual biography or external real-person claim |
+| PG-RP-0064 / NONE | M media-exposure fear / M private counterfactual144/thanks157 | EV0023/0026; potential/imagined outcome not actual broad publication/inevitable lasting ruin |
+
+Next IP0180, KN0193, TX0227, RP0065. Revision0.13 — V14 successors2026-10-20; IP0069@2 new later evidence, historical freeze/rows unchanged.

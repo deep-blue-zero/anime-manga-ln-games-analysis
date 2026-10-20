@@ -5,7 +5,7 @@ artifact_type: relationship_commitment_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.12"
+version: "0.13"
 status: active_provisional
 scope: "Directional Relationships and Commitments; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -563,3 +563,47 @@ No present Misao confession/rejection/reciprocal pact; no Tōji/Momo reunion or 
 | PG-CM-0120 / NONE | Kairi intimate approach to sleeping Misao158–160/interrupted witness161 | EV0028; NO_AFFIRMATIVE_PERMISSION_ESTABLISHED_NO_SECURE_COMPLETED_KISS, no actual Misao reciprocal commitment |
 
 Next RL0194, CM0121. Revision0.12 — V13 successors2026-10-20; full prior body/rows retained.
+
+## V14 successor transaction — PG-FR-V14
+
+[V14 reading](../02%20Sequential%20Readings/PEACH_GIRL_V14_DEEP_READING.md); EV=PG-EV-V14. Private resolve, actual receipt, romantic rejection and later conditional offer remain distinct.
+
+| Direction / prior | Actual transition | Evidence / limit |
+| --- | --- | --- |
+| PG-RL-0194 / RL0192 | Momo → Kairi / raises sleeping approach13/self-suppresses14, tells Jigoro35, love-pain questions41–42, receives result65/waits/private70/actual noon-five terms76 | EV0002/0005–0006/0010–0011; new boundary real, no unlimited terms or illness knowledge |
+| PG-RL-0195 / RL0191 | Kairi → Momo / answer13/hurting28/receives Jigoro35/comfort37–43/carries46 but omits words48, rejection report65/distance67–69/understands76 | EV0002/0004–0006/0008/0010–0011; care and concealment coexist, no completed first-place choice |
+| PG-RL-0196 / RL0187 | Sae → Momo / counsels23–25 then engineers T work88/manager false reconciliation140 | EV0003/0012/0023; real insight and new manipulation, not all old repair fraudulent |
+| PG-RL-0197 / RL0188 | Momo → Sae / discloses unequal relation but refuses identity21/uses encouragement26, directly challenges job setup90 | EV0003–0004/0012; bounded trust, no whole-history disclosure |
+| PG-RL-0198 / RL0190 | Kairi → Misao / actual apartment confession57/59/asks future possibility61/receives only-brother62/thanks63 | EV0009; rejection heard, not feelings instantly erased or retroactive sleeping permission |
+| PG-RL-0199 / RL0178 | Misao → Kairi / initially joke58/never imagined60/only younger brother now/future62 | EV0009; explicit romantic refusal compatible affectionate care |
+| PG-RL-0200 / RL0169 | Momo → Tōji / accepts coworker92, touch memory93/T past-K first94, tells distance98/ticket99 | EV0012–0013; no deliberate new romantic choice or full deadline terms relay |
+| PG-RL-0201 / RL0193 | Tōji → Momo / job unaware M87/practical work/phone concern106–107 | EV0012–0015; care not proof coordinated setup knowledge or canceled romantic stake |
+| PG-RL-0202 / NONE | Ryo → Kairi / family-worry call102/actual note | EV0014; no completed money/location request/help or moral rehabilitation |
+| PG-RL-0203 / NONE | Owner → Kairi / sandal105/work/food109/lodging113, soba analogy149–151/fever153 | EV0014/0016/0024–0025; aggression and mentorship coexist, exact husband name unknown |
+| PG-RL-0204 / NONE | Sanae → Kairi / empathy108/comparable youth112/role analogy113/stay offer/towels132/couple counsel151 | EV0016/0021/0025; analogy not literal shared names or universal recipe |
+| PG-RL-0205 / NONE | Owner → Sanae / upset that she finished his nearly completed puzzle while he slept139/fight; later shared couple reflections151 | EV0022/0025; attributed quarrel and actual context, not complete marriage model |
+| PG-RL-0206 / RL0182 | Sae → Tōji / photograph116/real-negative bluff admission117–118/sorry119/protection question120/lingering-love question121 | EV0017; no current dating restart; smile not explicit verbal love |
+| PG-RL-0207 / RL0181 | Tōji → Sae / hears correction117–119, asks Ryo/current changed S good122 | EV0017; judging S changed not Ryo reform proof or renewed relation |
+| PG-RL-0208 / RL0196 | Sae → Momo / confirms heard127/exact threat129/leaves on request130 | EV0020; real late repair despite meddling, no duty M forgive immediately |
+| PG-RL-0209 / RL0197 | Momo → Sae / demands exact128/asks leave129–130/recognizes manager setup140–141 | EV0020/0023; information accepted while company refused |
+| PG-RL-0210 / RL0151 | Misao → Ryo / says never actual confession/chocolate not given136/new confidence try137 | EV0021; desire/intent not actual renewed approach/reciprocal choice; alleged first beloved unidentified |
+| PG-RL-0211 / RL0199 | Misao → Kairi / phones134/confession made happy/self-faith137 | EV0021; no revocation of explicit sibling-only refusal or new romance |
+| PG-RL-0212 / RL0200 | Momo → Tōji / thanks/bows155–157/actual fireworks159/wonders160/would probably give up K if absent165/proposal received166 | EV0026/0028/0030; gratitude/memory/conditional thought not answer or current dating |
+| PG-RL-0213 / RL0201 | Tōji → Momo / learns overheard155/apologizes own hurt156/watch invite158/conditional serious restart166 | EV0026–0030; intention to protect retained alongside own-fault admission, acceptance unshown |
+
+| Commitment / prior | Terms and actual disposition | Evidence / limit |
+| --- | --- | --- |
+| PG-CM-0121 / CM0120 | M names covert sleeping approach13/K if awake hit response | EV0002; DIRECT_EXCHANGE_NO_SECURE_COMPLETED_KISS_OR_PERMISSION |
+| PG-CM-0122 / NONE | M private should-end15/second-place no-right14 versus ongoing engagement | EV0002–0003; PRIVATE_THOUGHT_NOT_COMMUNICATED_BREAKUP |
+| PG-CM-0123 / NONE | K actual confession57/59/Misao only younger brother/future62 | EV0009; ROMANTIC_REQUEST_ACTUALLY_REFUSED, later happiness137 not reversal |
+| PG-CM-0124 / CM0111 | K distance67–69/asks wait/permits other choice, M private willingness70 | EV0010; QUALIFIED_WAIT_REQUEST_NOT_EXCLUSIVE_PLEDGE, no unlimited M terms received |
+| PG-CM-0125 / CM0110 | M booked1night2days trip76/last summer day12noon station plaza/wait5minutes then stop/K understands | EV0011; ACTUAL_RECEIVED_DEADLINE_FUTURE_PERFORMANCE_UNRESOLVED |
+| PG-CM-0126 / NONE | S tells T she quits/vacancy88; real K quit74/manager romance-fight story140 | EV0011–0012/0023; EMPLOYMENT_SETUP_THROUGH_MISLEADING_ACCOUNT, T not proven co-conspirator |
+| PG-CM-0127 / NONE | K unpaid500yen100/runs104/pay later; owner sandal105/work108–109 | EV0014/0016; FLIGHT_THEN_LABOR/MEAL, no valid entitlement to physical punishment inferred |
+| PG-CM-0128 / NONE | Sanae stay/work for travel money113/K bath/futon132–133 | EV0016/0021; LODGING_ACTUALLY_TAKEN, no exact wage/tenure/travel payment shown |
+| PG-CM-0129 / CM0047 | S retraction117–118/only negative/bluff, gives photograph116/apologizes119 | EV0017; NEW_RELEASE_ACCOUNT, old retained-real threat strongly discredited not all-copy deletion |
+| PG-CM-0130 / CM0051 | M finally hears exact media threat129/T learns receipt155/apologizes hurt156 | EV0020/0026; DELAYED_TRUTH_AND_ACKNOWLEDGED_WRONG, gratitude not cancellation of harm |
+| PG-CM-0131 / NONE | T invites fireworks158/actually watch159 | EV0027–0028; SHARED_CURRENT_ACTIVITY_NO_DATING_AGREEMENT |
+| PG-CM-0132 / NONE | T if K absent agreed day seriously restart with me166/M startled | EV0030; CONDITIONAL_PROPOSAL_UNANSWERED, no actual deadline failure/current reunion |
+
+Next RL0214, CM0133. Revision0.13 — V14 successors2026-10-20; all old rows/terms retained.
