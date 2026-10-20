@@ -5,7 +5,7 @@ artifact_type: relationship_commitment_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.5"
+version: "0.6"
 status: active_provisional
 scope: "Directional Relationships and Commitments; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -283,3 +283,34 @@ Next new IDs RL0060 and CM0036. Earlier boundary projections and all initial req
 | PG-CM-0043 / — | Momo → Kairi ensure no actual assault / ASSURANCE_RECEIVED, relied on intended actor claim; implementation fails confirmation | EV0045/0050; desire to limit harm and punitive participation coexist, result not guaranteed |
 
 Current relationship at exit is Momo/Tōji continuing, RL0060/0061 and CM0037; supposed rupture was a script. Sae has no informed new Tōji partnership. No reciprocity assumed from direction alone. CM0031@2 remains earlier agreement between schemers, never Momo consent; no V06 completion proof. Next RL0075, CM0044. Revision history0.5 — V06 directions/commitments and dated gift-selection correction, owner date2026-10-19.
+
+## V07 successor transaction — PG-FR-V07
+
+[V07 reading](../02%20Sequential%20Readings/PEACH_GIRL_V07_DEEP_READING.md) owns EV=PG-EV-V07 observations. All rows learned V07 at stated scene frontiers; HIGH conduct/statement support, inferred motive MODERATE unless causal pressure directly established. Directions distinct; public label, affection and permission are separate.
+
+| Direction / prior | From → to, observed state and temporal transition | Evidence / interpretation and knowledge limit |
+| --- | --- | --- |
+| PG-RL-0075 / RL0065 | Momo → Sae / after error chooses rescue despite unforgiven hurt, takes protective lead; declares end to engagement46–48, feels relief | EV0005–0010/0013; CL0022@1, CM0045. Empathic action revises revenge, not universal friendship/forgiveness |
+| PG-RL-0076 / RL0064 | Sae → Momo / resents trio setup, condemns/slaps Momo; then destructive intent/photograph leverage/disparages rescue motive, displays claimed replacement | EV0009/0014/0016–0018/0024/0028/0044; CL0002@7/0003@7. Critique has valid coercion referent, motive accusations not narrator truth |
+| PG-RL-0077 / RL0062 | Kairi → Momo / initially resists her aid choice, later asks Sae blame him and credits her rescue; locates her at bench, informs coupling, forces clarification encounter | EV0005–0006/0012/0045/0049; CL0006@7. Concrete support but selective protection not complete innocence; no new romantic declaration |
+| PG-RL-0078 / NONE_ESTABLISHED | Kairi → Sae /11 dismisses danger deserved, then joins rescue and offers relational explanation/admits careless error53–54 | EV0003/0006–0007/0011–0012; CL0021@2. Initial withholding and later responsibility both, explanation not proof received/reform |
+| PG-RL-0079 / RL0060 | Momo → Tōji / wants redo date, shares hand/embrace/company need, explicitly invites joint solution rather than secrecy | EV0015/0020/0022/0025–0027/0031/0033; CL0015@5/0017@4. Contextual need not limitless consent or entire character dependency |
+| PG-RL-0080 / RL0061 | Tōji → Momo / comforting support and renewed promise prevent spread, pursues/calls Sae but withholds reason | EV0013/0015/0019–0022/0024–0029; CL0005@7/0023@1. Real care plus chosen information asymmetry; shared solution offered but not tried |
+| PG-RL-0081 / RL0079 | Momo → Tōji / actual breakup132 resisted as inexplicable; repeated calls/bench/classroom search, correctly suspects blackmail169, begs truthful reason, final shock at kiss | EV0036/0038/0042/0045–0046/0050–0054; CL0015@5/0023@1. Correct inference not full bargain knowledge; public denial not proof no declaration occurred |
+| PG-RL-0082 / RL0080 | Tōji → Momo / deliberately declares breakup with false changed-feeling account, hides despite receiving voicemail, repeats denial and performs preference kiss | EV0033–0040/0047–0054; CL0005@7/0015@5/0023@1. Actual withdrawal/deception injures; threat cause and Sae refusal counter freely changed love |
+| PG-RL-0083 / RL0075 | Momo → Sae / after boundary Sae intrudes again; Momo tells stay out and accuses blackmail169 | EV0051–0052; CM0045. Situational confrontation does not make farewell forgiveness or freely renewed attachment |
+| PG-RL-0084 / RL0066 | Sae → Tōji / break/date ultimatum, deadline control, rejects plea, hears actual breakup, fake-original leverage and public partnership claim | EV0017–0018/0028/0034–0035/0041/0044/0051; CL0002@7/0003@7. Possession claim not gained reciprocal affection; explicit refusal EV0040 |
+| PG-RL-0085 / RL0067 | Tōji → Sae / refuses romance69/74/142–143, threatening grabs, attempts material recovery, coerced public coupling then initiates instrumental lip kiss | EV0017–0019/0039–0041/0044/0054; CL0005@7/0023@1. No sincere love established from contact; sudden instance explicit permission unshown |
+| PG-RL-0086 / RL0072 | Kairi → Tōji / rescue cooperation, later physically catches/holds and insists face Momo rather than avoid | EV0006–0007/0048–0050; CL0006@7. Pressure for explanation not omniscient knowledge or successful truth exchange |
+
+| Commitment/boundary / prior | Direction, terms and actual answer/consequence | Evidence / scoped state |
+| --- | --- | --- |
+| PG-CM-0044 / CM0041@2,CM0043 | Trio/Momo → endangered Sae / intended no-assault limit failed delivery; Momo reverses abandonment, trio actual visit and immediate rescue | EV0002–0008; RESCUE_PERFORMED, not retroactively safe consensual arrangement. Full unshown act history unproved |
+| PG-CM-0045 / NONE | Momo → Sae / no engagement/talk/response anymore, explicit cannot forgive, goodbye46–48 | EV0010/0013; DECLARED/WITHDRAWN engagement, relief; Sae not respectful acceptance, later intrudes.169 confrontation does not undo meaning |
+| PG-CM-0046 / CM0037,CM0040 | Tōji → Momo / actual breakup132, stated everything unwanted137; Momo asks why, later refuses authentic interpretation | EV0036/0038/0042/0046/0050–0054; UNILATERAL_WITHDRAWAL_DECLARED, reciprocal acceptance absent. Distinct from V06 jointly known STAGED_DECLARATION; continuing affection/cause separate |
+| PG-CM-0047 / CM0039 | Sae → Tōji / break with Momo/date her for nondistribution; he refuses69/74, later performs breakup to her hearing but refuses date142–143; fake originals prolong coercion | EV0017–0019/0028/0033–0041/0044; INITIALLY_DECLINED then COERCIVE_CONDITIONAL_COMPLIANCE/PUBLIC_LABEL, no freely mutual romantic acceptance. Actual image destruction promise not fulfilled as represented |
+| PG-CM-0048 / CM0037 | Tōji → Momo / promises protect and prevent spread despite threat; real local support/print burning, covert breakup and failed genuine-negative recovery | EV0019/0025–0029/0039–0041; PROTECTIVE_PROMISE_STRATEGY_COMPROMISED, actual mass dissemination not shown; not claimed simple fulfilled/breached solely by threat |
+| PG-CM-0049 / NONE | Momo → Tōji / asks speak/solve together85, later actual voicemail meetup and direct request real reason; he conceals/hides/denies and supplies kiss display | EV0022/0042/0047–0054; REQUEST_UNMET_BY_CONDUCT, actual receipt confirmed161. No evidence Momo agreed to secrecy or sacrificial breakup |
+| PG-CM-0050 / NONE | Tōji → Sae / suddenly pulls/initiates lip kiss172–174 as proof before Momo | EV0054; CONTACT_DEPICTED, EXPLICIT_PRIOR_PERMISSION_UNSHOWN for this instance; prior Sae desire/claimed relationship not automatic permission, no sincere affection entailed |
+
+Exit: Momo/Tōji has actual unilateral breakup declaration and continuing disputed affection, RL0081/0082, not V06's mutually bounded script. Sae publicly claims Tōji while he explicitly rejected genuine dating and acts under leverage, RL0084/0085. Kairi advocacy does not establish reciprocity or full knowledge. Next RL0087, CM0051. Revision history0.6 — V07 directions/commitments, prior rows untouched, closure owner date2026-10-20.

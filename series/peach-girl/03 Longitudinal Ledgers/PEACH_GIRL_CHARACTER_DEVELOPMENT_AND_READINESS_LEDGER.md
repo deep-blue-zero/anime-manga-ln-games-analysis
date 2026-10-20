@@ -5,7 +5,7 @@ artifact_type: character_development_readiness_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.5"
+version: "0.6"
 status: active_provisional
 scope: "Character Development and Readiness; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -234,3 +234,33 @@ New [V06 reading](../02%20Sequential%20Readings/PEACH_GIRL_V06_DEEP_READING.md),
 | CHAR0018 | EV0045/0049; actual threatening receiver distinct from waiting intended contact | Stable bounded identity only; no model or invented name |
 
 Readiness remains UNASSESSED: no operational proposal, assessment or actual predictive model test. Narrative diversity is not automatic reconstruction readiness. Next IDs CHAR0019, CS0065, RD0001. Revision history0.5 — V06 successor transaction and dated CS0044 correction; historical V01–V05 preserved.
+
+## V07 successor transaction — PG-FR-V07
+
+New [V07 reading](../02%20Sequential%20Readings/PEACH_GIRL_V07_DEEP_READING.md); all183 images inspected. EV means PG-EV-V07; CHAR means PG-CHAR. Every event learned V07 at stated range, scene time after V06 revenge night through later Sunday/next school morning; exact calendar UNKNOWN. HIGH action/self-report evidence, motive qualifications separately linked. No new subject identity required. CHAR0018 actual receiver remains distinct from intended contact.
+
+| State / subject / previous | Event kind, actual choice/constraint and time | Evidence / claim / counterreading and scope |
+| --- | --- | --- |
+| PG-CS-0065@1 / CHAR0001 / CS0061/0064 | DISPOSITION_CHANGE in response / learns error, briefly tries deserved-punishment explanation, rejects cruelty; decides help23–25 knowing pain and contrasting her support with Sae isolation | EV0003/0005–0006; CL0021@2/0022@1. Explicit still cannot forgive, does not erase willing V06 revenge |
+| PG-CS-0066@1 / CHAR0003 / CS0062 | CONTEXT_CHANGE / restrained/threatened, strategically flatters then attacks/escapes/caught; suspects Tōji carrier, rescued trembles/cries then condemns trio/slaps Momo | EV0004/0007–0009; IP0062@2. Tactical agency under coercion, not permission/remorse; completed act history not established |
+| PG-CS-0067@1 / CHAR0001 / CS0065 | CONTEXT_CHANGE + boundary / personally breaks door, sprays/kicks/strikes threatening man, relieves immediate danger; refuses forgiveness and abandons changing Sae, ends engagement46–48; cries relief | EV0007–0010/0013; CL0022@1, CM0045. Rescuer is Momo, not boys alone; protective violence severity unknown; lasting boundary performance not guaranteed |
+| PG-CS-0068@1 / CHAR0004 / CS0060/0064 | CONTEXT_CHANGE + responsibility / initially excuses danger, joins rescue with tool; explains joint-made happiness, admits careless room error/did not intend extent, asks resentment directed to himself not Momo | EV0003/0006–0007/0011–0013; CL0006@7. Accountability/care coexist with prior callousness/complicity; no proved pure motive |
+| PG-CS-0069@1 / CHAR0002 / CS0059/0064 | CONTEXT_CHANGE / immediately follows Momo to hotel, aids entry and advances lesson claim, comforts relief, offers birthday redo; later refuses Sae's first dating demand | EV0006–0007/0009/0013/0015/0017–0019; CL0005@7. Help and teaching rationale do not erase own drugging/violence or prove reform |
+| PG-CS-0070@1 / CHAR0001 / CS0067 | CONTEXT_CHANGE continuing hurt / model cue freezes body/withdraws; desired ordinary date threatened by image spill, remembers hotel, fears possible rumors and solitude; wants Tōji company/affection | EV0015–0016/0023/0025–0027/0031; CL0017@4. Represented distress, no diagnosis or unseen act confirmation, no total dependency essence |
+| PG-CS-0071@1 / CHAR0002 / CS0069 | KNOWLEDGE_CHANGE + protective choice / learns photograph ultimatum, grabs/threatens Sae, explicitly refuses, pursues/phones to stop her, conceals condition from Momo despite her invitation solve together | EV0017–0022/0024/0027–0029; CL0005@7/0023@1. Love/support real, solitary protection chosen not proven only option; no free new Sae preference |
+| PG-CS-0072@1 / CHAR0003 / CS0066 | DISPOSITION_CHANGE escalation / after rescue/counsel resolves destroy if cannot obtain, observes Momo cue, threatens exposure with copies/deadline, claims basket present, disparages rescue motive | EV0014/0016–0018/0024/0028; CL0002@7/0003@7/0021@2. Strong no-reform evidence now, not invariant personality diagnosis; actual publication unshown |
+| PG-CS-0073@1 / CHAR0001 / CS0070 | CONTEXT_CHANGE / asks Tōji speak/share problem, holds hand/asks final wheel rather than home alone, then receives abrupt breakup without condition knowledge | EV0022/0026/0031/0033/0035–0038; CL0015@5/0023@1. Active needs/alternative articulation, not passive plot object; wanted affection not unlimited permission |
+| PG-CS-0074@1 / CHAR0002 / CS0071 | CONTEXT_CHANGE + rupture / secretly calls so Sae hears breakup, tells Momo everything unwanted; attempts retrieve/burn originals, expressly refuses Sae date, learns fake negatives, grabs/releases her | EV0033–0041; CL0005@7/0015@5/0023@1. Coercive cause established by context, false motive harms Momo; actual burning not successful eradication |
+| PG-CS-0075@1 / CHAR0003 / CS0072 | KNOWLEDGE_CHANGE + leverage / hears wheel breakup, anticipated reunion and supplies alleged fake originals, retains threat until satisfied; displays new couple publicly and claims preferred girl | EV0034–0035/0041/0044/0051; CL0002@7/0003@7. Public label not sincere reciprocal love; genuine material inventory independent confirmation absent |
+| PG-CS-0076@1 / CHAR0001 and CHAR0004 separately / CS0073 and CS0068 | KNOWLEDGE_CHANGE + action / Momo repeatedly calls/waits, denies authentic rupture, seeks truth, accurately infers blackmail169. Kairi first learns/sees public coupling, locates/informs her, catches Tōji and forces encounter, hears allegation | EV0042–0046/0049–0052; CL0020@2/0023@1. Distinct frontiers KN0079–0082, not shared omniscience; no new declared romance |
+| PG-CS-0077@1 / CHAR0002 / CS0074 | CONTEXT_CHANGE / hears voicemail, waits then hides, caught by Kairi, answers Momo with self-denigration/denial despite accurate inference, suddenly pulls/kisses Sae as claimed proof of real reason | EV0047–0054; CL0005@7/0023@1. Actual contact/agency, not established sincere preference; Sae explicit prior permission unshown; Momo final shock, next outcome unknown |
+
+| Current subject @ PG-FR-V07 | Active material state | Gaps |
+| --- | --- | --- |
+| CHAR0001 | CS0065/0067/0070/0073/0076; rescue and firm nonforgiveness, continuing fear/affection, wants shared action, correctly identifies coercion, final kiss hurts | Missing interval unresolved with separately asserted recap; next response unknown; no new Kairi romance category conclusion |
+| CHAR0002 | CS0069/0071/0074/0077; help/resistance/affection, concealment and actual breakup under threat, unsuccessful originals recovery, avoidance and staged preference | Protective motive does not cure harm, free Sae love contradicted; future choice/control unknown |
+| CHAR0003 | CS0066/0072/0075; tactical defense/distress, no accepted reform, renewed destructive leverage and public couple claim | Actual inventory/publication unknown; no all-context immutable diagnosis |
+| CHAR0004 | CS0068/0076; initial dismissal then accountability/help, joint-happiness explanation, later clarification intervention | Not pure selfless model; only hears blackmail allegation at169, exact bargain not independently known |
+| CHAR0005 / CHAR0015 / CHAR0018 | Misao no material new scene; Jigoro press account contextualized not new core development; receiver threatened then collapsed after intervention | No filler state change; no medical outcome/death asserted for receiver |
+
+Readiness remains UNASSESSED; no proposed operational model, assessment or held-out model test. No RD row warranted. Next CHAR0019, CS0078, RD0001. Revision history0.6 — V07 successors with original states retained, closure owner date2026-10-20.
