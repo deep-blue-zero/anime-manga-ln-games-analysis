@@ -5,10 +5,10 @@ artifact_type: corpus_map
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.19"
+version: "0.20"
 status: active_provisional
 scope: "Single current entrypoint, source/readiness boundaries and next permitted operation"
-source_boundary: "Original Japanese manga; 新装版 V01–V18 byte- and package-verified; owner-authorized V01–V18 narrative run completed;G1–G3 literary responsibilities closed;G4–G6 pending"
+source_boundary: "Original Japanese manga; 新装版 V01–V18 byte- and package-verified; owner-authorized V01–V18 narrative run completed;G1–G3 closed;G4 operational acceptance blocked after tests;G5/G6 pending"
 canonical_home: series/peach-girl/CURRENT_STATE_AND_CORPUS_MAP.md
 created: "2026-10-16"
 review_status: OWNER_EXECUTION_AUTHORIZED_LOCAL_RESULT_UNREVIEWED
@@ -52,7 +52,7 @@ analytical_execution:
   sequential_units_admitted: 18
   sequential_units_completed: 18
   committed_narrative_high_water_mark: V18
-  character_reconstruction_readiness: UNASSESSED_MODELS_NOT_PROPOSED_NARRATIVE_EVIDENCE_PRESENT
+  character_reconstruction_readiness: LITERARY_READY_SCOPED_OPERATIONAL_BLOCKED_NO_HELD_OUT_VALIDATION
   publication: PROHIBITED_FOR_THIS_RUN_LOCAL_COMMITS_ONLY
 repository_state:
   stable_branch: series/peach-girl
@@ -191,3 +191,7 @@ Revision0.18 —2026-10-20;G1/G2 audit before mature synthesis; historicalreadin
 | Manga form and Japanese expression | [Manga form and Japanese expression](05%20Synthesis/PEACH_GIRL_MANGA_FORM_AND_JAPANESE_EXPRESSION.md) |
 
 [G3 dependency audit](07%20Audits%20and%20Handoffs/PEACH_GIRL_G3_DEPENDENCY_AND_COUNTERREADING_AUDIT.md) closes the9 justified literary responsibilities. [G4 rules1.0](04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_RECONSTRUCTION_RULES_V1.json) and [runner](04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_RECONSTRUCTION_RUNNER.py) freeze four narrow categorical hypotheses before test execution; full-source exposure disclosed; no held-out/operational acceptance. G4 actualtesting/G5 convergence/G6 remain pending. Revision0.19 —2026-10-20;historicalreadings/freezes and fourledgers unchanged.
+
+## G4 executed assessment and blocked operational acceptance
+
+[Reconstruction assessment/tests](04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_RECONSTRUCTION_ASSESSMENT_AND_TESTS.md), [cases](04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_RECONSTRUCTION_CASES_V1.json), [results](04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_RECONSTRUCTION_RESULTS_V1.json) and [execution receipt](07%20Audits%20and%20Handoffs/PEACH_GIRL_G4_EXECUTION_RECEIPT.json) retain actual12probes afterfrozenrulescommit073af8008bab1226b854772019cf5e8d76b3613e. K2/T2/S1counterexamples preserved/no posttestfit; knowledgeguardsnotbehavioralsuccess. Fullsourceexposure/noheldout means operationalacceptanceBLOCKED, not complete modelprogram. Characterledger0.19/RD0001–0006 separate literary/operationalaxes. G5 can proceed with explicit G4 dispositions; G6 externalreleasepending. Revision0.20 —2026-10-20.

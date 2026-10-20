@@ -5,7 +5,7 @@ artifact_type: character_development_readiness_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.18"
+version: "0.19"
 status: active_provisional
 scope: "Character Development and Readiness; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -656,3 +656,18 @@ This projection follows the complete event history through PG-FR-V18. Earlier cu
 | V15nightcorrection | CS0214@2 replacesstrongsexinference; V18_116–117 | Morningaffectionactual/laterunshownactUNKNOWN |
 
 Revision0.18 — post-sequential retrieval projection; all0.17 historical bodies retained apart from version. No new narrative events/IDs.
+
+## G4 readiness assessment — 2026-10-20
+
+[Actual assessment/tests](../04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_RECONSTRUCTION_ASSESSMENT_AND_TESTS.md);rules1.0 frozen at 073af8008bab1226b854772019cf5e8d76b3613e before execution; allsourcealreadyexposed/RETROSPECTIVE_NOT_HELD_OUT. No new CS/narrativeclaim. Literary readiness differs from operational acceptance.
+
+| Readiness / subject / prior | Domain/cutoff/evidence | Disposition/debt |
+| --- | --- | --- |
+| PG-RD-0001 / CHAR0001 / NONE | Unwantedcontactresponses/PG-FR-V14; M1/M2; CL0013@14/0017@15 | Organization/literary READY_SCOPED; categoricalretrospectivefitsonly; operationalBLOCKED/noheldout/fullstate-speech/portabilityuntested |
+| PG-RD-0002 / CHAR0004 / NONE | Rivalry/disclosure/PG-FR-V16; K1match/K2fails; CL0006@18/0028@8 | Organization/literary READY_SCOPED; weakoutcomeawarerule/counterexample; operationalBLOCKED/noheldout |
+| PG-RD-0003 / CHAR0002 / NONE | Mboundaryresponse/PG-FR-V16; T1match/T2fails sameencounter; CL0005@13/0015@13 | Organization/literary READY_SCOPED; highstakesvariance/physicalconstraint; operationalBLOCKED/noheldout |
+| PG-RD-0004 / CHAR0003 / NONE | Romanticintervention/PG-FR-V17; S1fails/S2broadmatch; CL0002@17/0003@16 | Organization/literary READY_SCOPED; truthfulhelp/controlspecificitydebt; operationalBLOCKED/noheldout |
+| PG-RD-0005 / CHAR0005 / NONE | ScopedMisaoensemble/fullV18; CL0026@9 | Literary READY_SCOPED; operationalNOT_PROPOSED/thinnerordinary-strangercontexts/unequalfocalaccess |
+| PG-RD-0006 / CHAR0020 / NONE | ScopedRyoensemble/fullV18; CL0027@7 | Literary READY_SCOPED; operationalNOT_PROPOSED/selectiveaccess/no validateddecisionpolicy |
+
+All assessors same Codex operator; owneracceptancepending. GuardprobesP1–P4 testexplicitwhitelistrejection only, notcompleteknowledgegraph or behavioralprediction. No probability/globalcapabilitygrade. Rulesnotrevisedafterfailure; nextRD0007. Revision0.19 — actual G4 assessment/retrospectivetest debts, sixsubjectdispositions; priorbody retained.
