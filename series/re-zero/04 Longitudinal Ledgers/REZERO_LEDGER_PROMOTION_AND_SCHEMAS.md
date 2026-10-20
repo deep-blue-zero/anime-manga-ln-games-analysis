@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: ledger_architecture
 scope: LONGITUDINAL_LEDGER_PROMOTION_AND_SCHEMA_CONTRACT
-generation: V0.4
+generation: V0.5
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -24,7 +24,7 @@ At the project-initiation architecture-repair boundary after the V02 freeze, the
 
 `REZERO_MASTER_LONGITUDINAL_LEDGER.md`
 
-The master ledger was backfilled from the frozen V01/V02 canonical readings and advanced prospectively through V04. It did not exist prospectively for the first two readings, and no frozen reading was changed. It owns claim revision, route/event-state, knowledge, relationship, character-state/stress, mechanics/world-model, diagnostic ordinary-life, Japanese terminology/register, prospective-question and promotion-readiness state. Institution/power state migrated at V04 to `REZERO_INSTITUTIONS_FACTIONS_AND_POWER_LEDGER.md`; master §8 now routes rather than maintaining a competing table.
+The master ledger was backfilled from the frozen V01/V02 canonical readings and advanced prospectively through V05. It did not exist prospectively for the first two readings, and no frozen reading was changed. It owns claim revision, route/event-state, knowledge, relationship, character-state/stress, mechanics/world-model, diagnostic ordinary-life, Japanese terminology/register, prospective-question and promotion-readiness state. Institution/power state migrated at V04 to `REZERO_INSTITUTIONS_FACTIONS_AND_POWER_LEDGER.md`; master §8 now routes rather than maintaining a competing table.
 
 The following candidate sections now define responsibilities that may later split out of the master ledger when independent retrieval/revision burden warrants specialization. They are not unpromoted gaps and do not authorize parallel competing homes.
 
@@ -46,6 +46,8 @@ The V03 column preserves the prior review. All listed homes except the instituti
 If promoted, every filename above lives in `series/re-zero/04 Longitudinal Ledgers/`. The synthesis architecture and master ledger record the V03 review rationale and exact later triggers.
 
 V04 promotion rationale: five selection camps, distinct consent/qualification/office standards, real versus formal enforcement, information payment and internal guard/Council divergence create an independent maintained-comparison burden. The institution ledger carries required historical backfill and V04 rows; all other dimensions remain safely compact in the master. This is not mature specialist readiness or a new arc checkpoint.
+
+V05 review: the institution ledger adds care contracts, marriage restraint, uneven publicity, markets/transport and cult organization. Three local V05 episodes, new holder limits, Rem's refusal/possession contrasts and new ability claims remain safe in the master's compact tables with frozen V05 routes. No additional candidate is promoted by a state count alone. Bounded Subaru/Rem checkpoint readiness does not create a relationship ledger, monograph, mature specialist or evidence index. Registered thresholds below remain unchanged; the master and architecture record the review.
 
 ## Promotion threshold
 

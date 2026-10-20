@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: source_lock
 scope: SOURCE_ADMISSION_CONTRACT_AND_CURRENT_INVENTORY_STATE
-generation: V0.5
+generation: V0.6
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -253,7 +253,23 @@ The preceding paragraph records the historical V03 transaction, not the present 
 - analytical product: `02 Sequential Readings/REZERO_LN_V04_DEEP_READING.md`, with internal block-locator convention and full coverage;
 - source framing: author names `再来の王都編` as beginning here; no numeric LN arc or endpoint established.
 
-V04's own V05 advertisement remains promotional paratext, not a V04 narrative gate prognosis or V05 source opening. The mentioned non-spine story remains unadmitted/unread. The V05 EPUB and all later narrative witnesses remain unopened until the V04 atomic publication/audit gate closes.
+V04's own V05 advertisement remains promotional paratext, not a V04 narrative gate prognosis or V05 source opening. The mentioned non-spine story remains unadmitted/unread. At that historical transaction, V05 and later narrative remained unopened until V04's complete publication gate; V05 consumption below occurred only after that gate closed.
+
+## Volume 05 consumption record
+
+`RZ-MAIN-LN-JA-V05` was consumed in exact OPF spine order through `p-bookwalker`, including all frontmatter, narrative, afterword, image columns, biographies and colophon. All 19 image resources were visually inspected.
+
+- locator / title: `Re Zero - Volume 05.epub`; `Ｒｅ：ゼロから始める異世界生活5`;
+- language / creator / publisher: `ja`; `長月達平`; KADOKAWA / メディアファクトリー;
+- UUID: `198647d7-20df-47b5-9183-aec14335bd71`;
+- size / SHA-256: `10,175,861` bytes; `d6c15d91fb0e67f25c9a9e02e225067f1aeb43c29b8db8ea121aadfeddf9c4a4`;
+- package / integrity: `item/standard.opf`; 74 ZIP entries; 19 images; CRC test passed; nonfatal compressed-`mimetype` warning;
+- manifest relation: exact size/hash agreement with the anchored manifest;
+- edition basis: Japanese MF Bunko J; 2014-10-31 ver.1.0, first printing same date; afterword dated August 2014 separately;
+- provenance: existing governed folder/manifest range admission; individual V05 Drive ID not separately resolved, not invented;
+- analytical product: `02 Sequential Readings/REZERO_LN_V05_DEEP_READING.md`, with stable block locators, full coverage and bounded evidence planes.
+
+No V06 source, supplement, IF, web-novel or audiovisual witness was opened. V05's next-volume emphasis and promotional columns are paratext, not later narrative evidence or a verified capital-section endpoint. V06 remains closed until the entire V05 atomic publication/audit gate succeeds. This record advances consumption, not admission or the historical publication-gap check.
 
 ## Current source-state summary
 
@@ -265,7 +281,7 @@ V04's own V05 advertisement remains promotional paratext, not a V04 narrative ga
 - **Admitted IF/alternate route:** none.
 - **Admitted web novel:** none.
 - **Admitted anime/audiovisual:** none.
-- **Consumed into frozen prospective main-LN analysis:** V01-V04.
+- **Consumed into frozen prospective main-LN analysis:** V01-V05.
 - **Next source acquisition priority:** Japanese V44 and V45 before the sequential read reaches that boundary.
-- **Next analytical operation:** Japanese V05 from the frozen V04 horizon, only after V04 publication verification.
-- **Current execution state:** active continuous run resumed by user; terminal V43 unchanged; V04 closeout transaction advances the source boundary, not the admitted range.
+- **Next analytical operation:** Japanese V06 from the frozen V05 horizon, only after V05 publication verification.
+- **Current execution state:** active continuous run resumed by user; terminal V43 unchanged; V05 closeout advances consumption, not the admitted range.
