@@ -1,8 +1,8 @@
 {
   "schema": "KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS_V1",
   "status": "INCREMENTAL_157_QUALIFIED_ROWS_NOT_FINAL_INDIVIDUAL_DENOMINATOR",
-  "updated_utc": "2026-10-20T04:03:21.999204+00:00",
-  "scope": "Incremental secondary cohorts01-08: seven scoped gates closed; Hoost scopedTier3 semantic receiving complete/publication pending. Declared source-program closures remain exact; full individual/specialist/versioned-six-model/curation/integration/release program active.",
+  "updated_utc": "2026-10-20T04:28:03.811756+00:00",
+  "scope": "Incremental secondary cohorts01-08; all declared source-program gates and eight scoped secondary publication gates closed at their stated evidence boundaries. Full individual/earned-artifact/specialist/versioned-six-model/curation/evaluation/integration/release program active.",
   "row_semantics": "Distinct qualified working subjects plus explicitly unresolved grouped/identity leads. A row is not automatically one final individual or an earned artifact. Old scope phrases remain their recorded history; the root current scope governs present admission status.",
   "artifact_architecture": "Use existing05 Specialist Synthesis for earned monographs and06 Character Modeling and Reconstruction for distinct mechanism models. Existing ledgers carry bounded profiles unless a separate responsibility is justified. Single current corpus map; curator-only global registry/index enrollment.",
   "rows": [
@@ -748,12 +748,12 @@
     {
       "character": "Horst / Hoost retrieval variant",
       "identity": "ホースト; Horst / Hoost are existing English retrieval variants for this named source actor, confirmed directly in EXP01 IMG027/029",
-      "likely_tier": "3, scoped cohort08 semantically received; predictive reliability provisional",
-      "priority": "Earned cross-context monograph/model; containing publication gate pending",
+      "likely_tier": "3, scoped cohort08 full gate closed; predictive reliability provisional",
+      "priority": "Earned cross-context monograph/model; full gate closed, designated curation and wider program active",
       "evidence_distribution": "Complete EXP01 five interludes and EXP03 encounters/battle report; inherited image/source reading, no fresh pixel pass in this census review. CURRENT COHORT07: All18 EXP01 interlude image-prose pages actually viewed/read at source-known scope; direct native spelling, actual food provision, failed/changed negotiation, refusal and first-friend farewell now received. EXP03 report remains its earlier analytical-derivative access, not a new native pass. CURRENT COHORT08: Reuses prior18actual EXP01 integral image-prose pages/five groups;1,172unique EXP03 BASE slots/five members actually received, thirteen selected ledger rows/seven actual files, eleven physical current ledger files queried for ten responsibilities. Five prepared EXP03 members/2000slots are identity/concordance preparation, not that much reading; no new whole-source/ruby/image/independent credit.",
       "substantive_responsibility": "Device dependence, intimidation/bargaining/deference, actual provision and friendship, master recovery/city threat, mistaken reception and finite resources. CURRENT COHORT07: Particular provider/master-recovery goals coexist with device dependence, resisted child tactics, failed offering interpretation, declined creature inspection, conditional future promise and affectionate farewell. No unilateral control or verified cosmic inference. CURRENT COHORT08: Separate monograph, six-rule provisional model and evidence index cover scarce-skill dependence, particular friendship/finite provision, loyal but fallible search, actual misidentification and update, coercion, resource-sensitive combat/bargaining and act-sensitive voice. Real attacks, rejected inspection, failed modified-spell defense and attributed retaliation/contract/life claims remain.",
-      "gaps": "Containing publication/source-HK-final exact-source gate/fresh reload and designated curator/evaluator/integration remain. Same-root three-pair/six-first-body exercise retains underidentified address, generic/near-canonical rivals, same broad bargain with changed affect and identical hidden-truth outputs; no independent discrimination, future-source validity or accuracy/confidence gain. New ordinary institutions/relationships, severe loyalty-attachment tradeoff, universal enforcement, actual rebirth/release/summoning and wider program remain open.",
-      "disposition_status": "SCOPED_TIER3_COHORT08_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+      "gaps": "Full wider individual/event/ledger consolidation and designated curator/evaluator enrollment/integration remain. Three same-root pairs/six first bodies retain underidentified address, generic/near-canonical rivals, same broad bargain with changed affect and identical hidden-truth outputs. No independent discrimination, future-source validity, native-human voice or accuracy/confidence gain. New ordinary institutions/relationships, severe loyalty-attachment tradeoff, universal enforcement and actual post-defeat rebirth/release/summoning remain unestablished.",
+      "disposition_status": "SCOPED_TIER3_COHORT08_PUBLISHED_FULL_GATE_CLOSED",
       "independent_observation_count": null,
       "prior_targeted_fields_before_cohort07": {
         "identity": "Accepted reports use Horst; ホースト in reported interlude title; direct native spelling normalization pending",
@@ -778,7 +778,17 @@
         "model": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_HOOST_RECONSTRUCTION_MODEL.md",
         "evidence_index": "series/konosuba/08 Evidence and Indexes/KONOSUBA_HOOST_EVIDENCE_INDEX.md"
       },
-      "cohort08_current_evidence_qualification": "Earned scoped Tier3 by varied own action/knowledge/relationship/resource/voice mechanisms across concentrated EXP01/03 evidence, not by name frequency or full principal-battery symmetry. Existing EXP03 report161 is supported by both initial misrecognition and correction; no retrospective source erratum."
+      "cohort08_current_evidence_qualification": "Earned scoped Tier3 by varied own action/knowledge/relationship/resource/voice mechanisms across concentrated EXP01/03 evidence, not by name frequency or full principal-battery symmetry. Existing EXP03 report161 is supported by both initial misrecognition and correction; no retrospective source erratum.",
+      "historical_cohort08_gap_at_semantic_adoption": "Containing publication/source-HK-final exact-source gate/fresh reload and designated curator/evaluator/integration remain. Same-root three-pair/six-first-body exercise retains underidentified address, generic/near-canonical rivals, same broad bargain with changed affect and identical hidden-truth outputs; no independent discrimination, future-source validity or accuracy/confidence gain. New ordinary institutions/relationships, severe loyalty-attachment tradeoff, universal enforcement, actual rebirth/release/summoning and wider program remain open.",
+      "current_first_forest_voice_qualification": {
+        "stable_revision": "CR-SECONDARY-HOOST-003",
+        "erratum_path": "09 Audits and Manifests/KONOSUBA_HOOST_FIRST_FOREST_VOICE_ATTRIBUTION_ERRATUM_01.json",
+        "erratum_sha256": "b3b7272542a975ad6299572c791d39f6c9f1777dcb5853ee8594250924c07ff3",
+        "qualification": "The initially unidentified voice in the EXP03 first forest encounter is subsequently revealed as Hoost. The earlier unknown identity is Megumin’s knowledge state, not another actor. Hoost remains distinct from Arnes, Wolbach, Vanir and the ordinary beginner-killer.",
+        "protection_limit": "EXP03 U020 P488 is Megumin’s unconfirmed inference; no performed protection is established.",
+        "original_index_sha256_unchanged": "3f48020328633867eb0a90c285ad66d3b4f3464e9cbdb0cc1d5d69f9d0c88fe2",
+        "no_model_rule_tier_score_or_unique_reading_change": true
+      }
     },
     {
       "character": "Pucchin",
@@ -2217,7 +2227,7 @@
     "Chris/Eris overallcohort05 full publication gate closed",
     "Dust overallcohort06 full publication gate closed",
     "Komekko overallcohort07 full publication gate closed",
-    "Hoost overallcohort08 semantic receiving complete; full publication gate pending"
+    "Hoost overallcohort08 full publication gate closed"
   ],
   "current_actual_individual_audit_scope": "Complete current MAIN01-17 analytical reports, all six checkpoints and earlier92 documentary appendix received at declared scopes. All supplemental report routes retained. Dust targeted66-entry/extra-body inspection spans eleven physical ledgers/ten responsibilities; not full392-line/whole-ledger/global individual closure. Bounded native and historical original source traversals remain separate. Komekko cohort07 adds18actual visual pages/1602known-source base member slots/79selected ledger entries; full ledger-body and global individual closure remains open. Hoost cohort08 adds1172known-source EXP03 BASE slots/five members, reuses18actual EXP01 image pages and receives13selected ledger rows/seven files; full ledger bodies/global individual census remain open.",
   "historical_integrity": "MG02-I01/I02 through MG05, original blank fields, CP outcomes, letters-as-NT and preYORI04SEC01 scope remain unchanged. New source-known comparisons are retrospective; hypotheticals are not source validation.",
@@ -2271,6 +2281,11 @@
       "path": "09 Audits and Manifests/KONOSUBA_KOMEKKOCOHORT01_PUBLICATION_GATE_CLOSE.json",
       "sha256": "7d2f158af2020d8b810ee2cb7e0f13b2845c171db03050c146bbfa125cb0b212",
       "scope": "Exact published Komekko cohort07 gate; full-program duties remain."
+    },
+    {
+      "path": "09 Audits and Manifests/KONOSUBA_HOOSTCOHORT01_PUBLICATION_GATE_CLOSE.json",
+      "sha256": "7c9fa4a6d73c51c21daf50cd0007b6f45a1020986e20ad4d4108a02e0f9d3726",
+      "scope": "Exact published Hoost cohort08 gate; full-program duties remain."
     }
   ],
   "pending": "Remaining individual census/joins/incidental dispositions and earned artifacts; expanded specialists/versioned principal-party-transfer revisions; designated curator enrollment/integration; component/release/final-entry audits.",
@@ -2556,10 +2571,10 @@
     "full_program_complete": false
   },
   "post_gate_change_controls": {
-    "only_Komekko_row_changed": true,
+    "only_Hoost_row_changed": true,
     "other156_rows_exact": true,
-    "six_prior_scoped_tier_states_exact": true,
-    "thirteen_current_model_bytes_changed": false,
+    "seven_prior_scoped_tier_states_exact": true,
+    "fourteen_current_model_bytes_changed": false,
     "source_original_scores_forecasts_or_null_fields_changed": false
   },
   "prior_current_metadata_before_cohort07": {
@@ -2671,5 +2686,37 @@
       "canonical_input_sha256": "4e76df055be46f1968d002e5dccce31e1a0cdb7bfe0d2dd7deef84267764dcd2",
       "canonical_only_and_private_only_fields_preserved_at_own_homes": true
     }
+  },
+  "historical_scope_at_Hoost_semantic_adoption": "Incremental secondary cohorts01-08: seven scoped gates closed; Hoost scopedTier3 semantic receiving complete/publication pending. Declared source-program closures remain exact; full individual/specialist/versioned-six-model/curation/integration/release program active.",
+  "Hoost_publication_resolution": {
+    "status": "SCOPED_TIER3_FULL_EXACT_SOURCE_GATE_CLOSED",
+    "source": "263916a894815bdbd3b0101d31af9682004a6cdb",
+    "tree": "6fdc95cb44a49c7e7e6fd24f55bdc65ef404c327",
+    "gate_path": "09 Audits and Manifests/KONOSUBA_HOOSTCOHORT01_PUBLICATION_GATE_CLOSE.json",
+    "source_run": 39368478263,
+    "housekeeping_run": 39369020617,
+    "final_run": 39369062043,
+    "all_remote_paths": 9203,
+    "all_changed_streams": 30,
+    "full_tests_source_and_final": 385,
+    "fresh_project_reload_paths": 1027,
+    "predictive_reliability": "Provisional; no source-known internal exercise confidence gain.",
+    "full_program_complete": false
+  },
+  "prior_post_gate_change_controls_before_cohort08_gate": {
+    "only_Komekko_row_changed": true,
+    "other156_rows_exact": true,
+    "six_prior_scoped_tier_states_exact": true,
+    "thirteen_current_model_bytes_changed": false,
+    "source_original_scores_forecasts_or_null_fields_changed": false
+  },
+  "Hoost_first_forest_voice_erratum": {
+    "stable_revision": "CR-SECONDARY-HOOST-003",
+    "erratum_path": "09 Audits and Manifests/KONOSUBA_HOOST_FIRST_FOREST_VOICE_ATTRIBUTION_ERRATUM_01.json",
+    "erratum_sha256": "b3b7272542a975ad6299572c791d39f6c9f1777dcb5853ee8594250924c07ff3",
+    "qualification": "The initially unidentified voice in the EXP03 first forest encounter is subsequently revealed as Hoost. The earlier unknown identity is Megumin’s knowledge state, not another actor. Hoost remains distinct from Arnes, Wolbach, Vanir and the ordinary beginner-killer.",
+    "protection_limit": "EXP03 U020 P488 is Megumin’s unconfirmed inference; no performed protection is established.",
+    "original_index_sha256_unchanged": "3f48020328633867eb0a90c285ad66d3b4f3464e9cbdb0cc1d5d69f9d0c88fe2",
+    "no_model_rule_tier_score_or_unique_reading_change": true
   }
 }

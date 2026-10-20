@@ -221,3 +221,12 @@ The [Komekko index](KONOSUBA_KOMEKKO_EVIDENCE_INDEX.md) and [cohort receiving](.
 | CR-SECONDARY-HOOST-INTERNAL-001 | RECORD_SOURCE_KNOWN_INTERNAL_LIMITS_PRESERVE_FIRST_BODIES | Initial model/spec precede six first bodies. HHC01 address is underidentified; HHC02 same broad bargain changes affect; HHC03 identical outputs supply no behavioral discrimination. Later model appendix records actual limits without changing HH-R01-06 | Same informed root only, no separate runtime/judge/future-source trial or confidence gain. Monograph03 clarifies entering/current count; no hidden source repair or replacement first answer. |
 
 Native EXP03U026P533/546/555/563 supports both Hoost's initial beginner-killer misrecognition and correction. The original EXP03 deep reading line161 is therefore preserved; emphasizing the correction elsewhere does not make the initial mistake an attribution error. The [index](KONOSUBA_HOOST_EVIDENCE_INDEX.md) and [receiving](../09%20Audits%20and%20Manifests/KONOSUBA_HOOST_COHORT_01_RECEIVING_AND_PROVENANCE.json) retain exact source returns and current scope. All previous claim-ledger bytes remain the exact prefix.
+
+
+## Hoost first-forest voice identity correction — 2026-10-20T04:47:13.604510+00:00
+
+| Stable revision | Transition and original | Current source-backed qualification | Consequence and limits |
+|---|---|---|---|
+| CR-SECONDARY-HOOST-003 | REVISE_FACTUAL_VOICE_IDENTITY_JOIN; original Hoost index section1 distinguishes Hoost from the previously unknown voice. [External erratum](../09%20Audits%20and%20Manifests/KONOSUBA_HOOST_FIRST_FOREST_VOICE_ATTRIBUTION_ERRATUM_01.json) preserves the exact sentence and original SHA. | EXP03 U020 P476–487 hears the voice;493 turns to the same owner;500/509 explicitly name Hoost. Earlier unknown identity is Megumin’s knowledge state, not another actor. | P488 protection is her unconfirmed guess. Original index/drafts/gate/model/monograph/first bodies stay exact; no HH-rule, score, tier, independent-test or new unique-reading credit. The earlier bounded name/reference check missed the conjunction. |
+
+Read this current qualification with the preserved index; the unknown-voice exclusion has no current authority. All earlier claim-ledger bytes remain the exact prefix.

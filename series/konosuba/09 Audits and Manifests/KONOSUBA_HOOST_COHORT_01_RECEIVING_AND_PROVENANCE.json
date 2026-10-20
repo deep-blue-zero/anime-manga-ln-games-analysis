@@ -1,7 +1,7 @@
 {
   "schema": "KONOSUBA_HOOST_COHORT08_RECEIVING_AND_PROVENANCE_V1",
   "accepted_utc": "2026-10-20T04:04:34.775515+00:00",
-  "status": "ROOT_SCOPED_SEMANTIC_RECEIVING_COMPLETE_CONTAINING_PUBLICATION_PENDING",
+  "status": "ROOT_SCOPED_SEMANTIC_RECEIVING_AND_FULL_PUBLICATION_GATE_CLOSED",
   "baseline_published_source": "673227da7aebc30b698cdef2ac065f643a862f57",
   "preceding_gate": "09 Audits and Manifests/KONOSUBA_KOMEKKOCOHORT01_PUBLICATION_GATE_CLOSE.json",
   "artifacts": [
@@ -172,16 +172,45 @@
   "publication_record": {
     "existing_review_PR": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/254",
     "head_at_authoring": "673227da7aebc30b698cdef2ac065f643a862f57",
-    "new_candidate_published": false,
-    "protected_merge_performed": false
+    "new_candidate_published": true,
+    "protected_merge_performed": false,
+    "published_source": "263916a894815bdbd3b0101d31af9682004a6cdb",
+    "published_tree": "6fdc95cb44a49c7e7e6fd24f55bdc65ef404c327",
+    "full_gate_closed": true
   },
   "remaining_program": [
-    "Exact candidate adoption/publication/source-HK-final audit and fresh authority reload",
     "Full individual/event/alias/incidental census and whole ledger bodies; additional earned artifacts/profiles",
     "Expanded specialists and separately versioned six principal/party/transfer models",
     "Designated discovery/evaluation curation, independently enforced governed integration and component/release/final-entry audits"
   ],
   "integration_boundary": "Series-author publication only. EC2 stewardship grant does not deploy/activate deterministic execution/shared exclusion. No protected merge, service activation, character-curator/evaluator output or global housekeeping-output authorship.",
   "global_census_closed": false,
-  "global_completion_percentage": null
+  "global_completion_percentage": null,
+  "full_publication_gate": {
+    "path": "09 Audits and Manifests/KONOSUBA_HOOSTCOHORT01_PUBLICATION_GATE_CLOSE.json",
+    "sha256": "7c9fa4a6d73c51c21daf50cd0007b6f45a1020986e20ad4d4108a02e0f9d3726",
+    "actual_source": "263916a894815bdbd3b0101d31af9682004a6cdb",
+    "tree": "6fdc95cb44a49c7e7e6fd24f55bdc65ef404c327",
+    "source_run": 39368478263,
+    "housekeeping_run": 39369020617,
+    "final_run": 39369062043,
+    "full_tests_each": 385,
+    "all5_non_success_zero": true,
+    "selection_enabled": false,
+    "all9203_remote_paths_and30changed_streams_exact": true,
+    "fresh1027_project_authority_reload": true
+  },
+  "earlier_acceptance_status_scope": "Nine artifact pins and earlier payload pending wording retain exact semantic-adoption/published-source scope. Current gate/cohort/entrypoint govern subsequent status; no original source, first body or model rule is repaired retroactively.",
+  "post_gate_current_operation": "Resume full current ledger receiving/individual-event-alias-incidental census, other earned proportional artifacts/profiles, expanded specialists, separately versioned six models, designated curation/evaluation/integration and component/release/final-entry audits. No new source admission or full-program completion.",
+  "current_external_factual_errata": [
+    {
+      "stable_revision": "CR-SECONDARY-HOOST-003",
+      "erratum_path": "09 Audits and Manifests/KONOSUBA_HOOST_FIRST_FOREST_VOICE_ATTRIBUTION_ERRATUM_01.json",
+      "erratum_sha256": "b3b7272542a975ad6299572c791d39f6c9f1777dcb5853ee8594250924c07ff3",
+      "qualification": "The initially unidentified voice in the EXP03 first forest encounter is subsequently revealed as Hoost. The earlier unknown identity is Megumin’s knowledge state, not another actor. Hoost remains distinct from Arnes, Wolbach, Vanir and the ordinary beginner-killer.",
+      "protection_limit": "EXP03 U020 P488 is Megumin’s unconfirmed inference; no performed protection is established.",
+      "original_index_sha256_unchanged": "3f48020328633867eb0a90c285ad66d3b4f3464e9cbdb0cc1d5d69f9d0c88fe2",
+      "no_model_rule_tier_score_or_unique_reading_change": true
+    }
+  ]
 }
