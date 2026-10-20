@@ -422,4 +422,35 @@
     "root_acceptance_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOHARU_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
     "source_reference_translation": "Repository-relative analytical paths, external selected corpus refs and immutable local witness refs preserve exact original tuples/scopes without publishing machine paths or claiming public availability. Historical author statuses are not current acceptance."
   }
+,
+  "prior30_source_consistency_current_qualification_20261012_v5": {
+  "register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_CURRENT_QUALIFICATIONS_20261012_V5.json",
+  "scope": "DATED_ADDITIVE_CURRENT_USE_ONLY_FROZEN_FIELDS_IMMUTABLE",
+  "exact_qualified_original_pointers": [
+    {
+      "json_pointer": "/canonical_derivative_custody/frozen_author_bytes",
+      "retained_value_utf8_sha256": "df0dd71b0eebd310122d6090e0556f1217a9b0f8988940e53f4c2a4e51e075e1",
+      "finding_ids": [
+        "P30-P3-CHAR-KOHARU-KOHARU_CURRENT_PROVENANCE_ARTIFACT_KIND_QUALIFICATION_V1"
+      ]
+    },
+    {
+      "json_pointer": "/canonical_derivative_custody/frozen_author_sha256",
+      "retained_value_utf8_sha256": "87e86afef739853bcb484962119a89abdee192c1f4b74320a8f92d6cbf422964",
+      "finding_ids": [
+        "P30-P3-CHAR-KOHARU-KOHARU_CURRENT_PROVENANCE_ARTIFACT_KIND_QUALIFICATION_V1"
+      ]
+    }
+  ],
+  "effective_current_canonical_body_bindings": [],
+  "new_body_inverse_module": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json",
+  "effective_bindings_and_inverse_recovery_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_CURRENT_BINDINGS_AND_WRAPPER_RECOVERY_20261012_V1.json",
+  "retained_original_to_canonical_inverse": "UNCHANGED;APPLY_NEW_DIFFERENTIAL_INVERSE_FIRST",
+  "earlier_PR152_layer": "PRESERVED_UNCHANGED",
+  "all14_original_gaps": "OPEN",
+  "new_source_package_identity_model_credit": 0,
+  "ROOT_installation_and_publication": "ROOT_SEMANTICALLY_APPROVED_CURRENT_COMPOSITION;REQUIRED_FULL_VALIDATION_AND_EXACT_SOURCE_HOUSEKEEPING_FINAL_RUNTIME_PUBLICATION_GATES",
+  "conditional_precomposition_new_body_inverse_module": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_BODY_DIFFERENTIAL_INVERSES_20261012_V2.json",
+  "conditional_precomposition_effective_bindings_and_inverse_recovery_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_EFFECTIVE_BINDINGS_AND_INVERSE_RECOVERY_20261012_V1.json"
+}
 }

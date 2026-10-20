@@ -345,6 +345,29 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`gkm-core-13-amaya-tsubame` — GKM CORE 13 AMAYA TSUBAME](series/gakuen-idolmaster/03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/13_AMAYA_TSUBAME/GKM_CORE_13_AMAYA_TSUBAME.md)
 
+### Ami Shirakawa
+
+- Entity ID: `shuukura:ami-shirakawa`
+- Entity aliases:
+  - 白川亜美 (ja, ORIGINAL_SCRIPT)
+  - Shirakawa Ami (ja-latn, TRANSLITERATION) — Japanese name order.
+
+#### Subject: Original Japanese light-novel continuity and author supplements
+
+- Analysis subject ID: `shuukura:ami-shirakawa@original-light-novel`
+- Series: `shuukura`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `kss07`: LIGHT_NOVEL OTHER: Author-released supplemental story KSS-07, 不平と不満と白川亜美: native author parts 07–08 form one late-April first-university-year phone call with Maika. Coverage is limited to this story and its analyzed historical information boundary; original-novel correspondence is contextual support, not continuous novel coverage. Later roommate disclosures and supplements are outside this April coverage item.; continuity `original-light-novel`
+  - `kss08`: LIGHT_NOVEL OTHER: Author-released supplemental story KSS-08, 宇都宮舞香の夏休み: Ami’s hometown mall reunion with Maika, including performed welcome, perceptions of change and questions after receiving Shiori’s explicit roommate identification. First-university-summer placement is an analytical inference; exact day and year are unestablished. Receipt of information does not establish settled belief. April knowledge remains separate, and Maika’s full answer and the novel’s later video call are outside this coverage.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`kss07-call` — KSS-07: old company, performed complaint, curiosity and local restraint](series/shuukura/03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_07_DEEP_READING.md) — **active provisional authority**
+  - [`kss08-homecoming` — KSS-08: familiar welcome, changed information and uncertain assent](series/shuukura/03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_08_DEEP_READING.md) — **active provisional authority**
+
 ### An
 
 - Entity ID: `project-sekai:an`
@@ -377,7 +400,7 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Series: `86-eighty-six`
 - Continuity: `86-eighty-six-original-light-novels`
 - Inclusion basis: `DEDICATED`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
@@ -1090,6 +1113,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `mass-effect-trilogy-archetype`: GAME OTHER: Interpretive player-archetype model synthesized across the Mass Effect trilogy; this describes the corpus boundary and does not claim exhaustive mission, dialogue, or route coverage.; continuity `mass-effect-trilogy-games`
 - Reviewed current evidence:
   - [`renegade-shepard-monograph` — Renegade Shepard character monograph](studies/comparative-media/Mass%20Effect/01%20Character%20Monographs/MASS_EFFECT_RENEGADE_SHEPARD_CHARACTER_MONOGRAPH.md)
+
+### Crocodile tissue cover
+
+- Entity ID: `shuukura:crocodile-tissue-cover`
+- Entity aliases:
+  - _None._
+
+#### Subject: Original Japanese light-novel continuity and author supplements
+
+- Analysis subject ID: `shuukura:crocodile-tissue-cover@original-light-novel`
+- Series: `shuukura`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `kss10`: LIGHT_NOVEL OTHER: Author-released supplemental story KSS-10, ワニの衝撃: the nameless crocodile tissue cover recalls Miyagi’s celebration of Sendai’s birthday, then narrates a later room scene ending in a prayer for Sendai’s return. The birthday is described as last week; exact present day and year remain unknown. Original-novel correspondence supplies context, not continuous novel coverage. Earlier packing scenes and other supplements are outside this coverage.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`kss10-object-perspective` — KSS-10: territorial rivalry, care and reluctant accommodation](series/shuukura/03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_10_DEEP_READING.md) — **active provisional authority**
 
 ### Dabi
 
@@ -2748,6 +2791,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`shinepost-momiji-yukine-character-deep-dive` — SHINEPOST MOMIJI YUKINE CHARACTER DEEP DIVE](series/shine-post/V1%20Analysis/04%20Character%20Deep%20Dives/SHINEPOST_MOMIJI_YUKINE_CHARACTER_DEEP_DIVE.md)
 
+### Itsuki Hashima
+
+- Entity ID: `a-sisters-all-you-need:itsuki-hashima`
+- Entity aliases:
+  - 羽島伊月 (ja, ORIGINAL_SCRIPT)
+
+#### Subject: A Sister's All You Need original light novels through Volume 14
+
+- Analysis subject ID: `a-sisters-all-you-need:itsuki-hashima@original-light-novels`
+- Series: `a-sisters-all-you-need`
+- Continuity: `a-sisters-all-you-need-original-light-novels`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `RELATIONSHIPS`, `IDEOLOGY`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `itsuki-mainline-v01-v14`: LIGHT_NOVEL VOLUME: Substantial dedicated longitudinal analysis across the fourteen original Japanese numbered light novels, V01-V14, within the frozen IMOSAE-JP-LN-RAW-1.0 boundary. This describes the monograph's analytical horizon, not continuous scene coverage. Era-specific knowledge, backstory, authored works and actual end-state remain distinct. V11 functional recovery is real; V14's embedded adolescent future remains Itsuki's draft rather than authenticated biography. E023 does not establish an explicit household-care agreement. External supplements, adaptations, acoustic performance and unshown futures are outside this enrolled scope.; continuity `a-sisters-all-you-need-original-light-novels`
+- Reviewed current evidence:
+  - [`imosae-itsuki-hashima-monograph-v01-v14` — Itsuki Hashima: becoming a protagonist among other authors](series/a-sisters-all-you-need/04%20Specialist%20Synthesis/character_monographs/IMOSAE_CHAR_ITSUKI_HASHIMA_MONOGRAPH_V01-V14.md)
+
 ### Izumi Yuzu
 
 - Entity ID: `tomozaki:izumi-yuzu`
@@ -3326,8 +3389,10 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - _None._
 - Analytical coverage:
   - `bounded-ledger-scope`: MANGA VOLUME: V001-V020 longitudinal analysis of appraisal, concealment, bounded repair, consent, employment, film production and grief support. Interrupted declarations and unresolved relationships remain incomplete; project competence does not establish general maturity.; continuity `rent-a-girlfriend-manga`
+  - `v021-v040-bounded-extension`: MANGA VOLUME: V021-V040 character-specific longitudinal analysis of explicit withdrawal from the Ruka trial, contested boundaries, selective disclosure and the residual dating lie, misread rejection and recontact, Chizuru's unresolved inquiry, separate-room housing and care, nursery competence, direct declarations and revised unpaid-date planning. The endpoint is V040 image 0188: May 17 Joypolis arrival. A begun date and partial truth repair establish no date outcome, Chizuru final answer, mutual partnership, informed separation from Ruka, broad intimacy consent or executed May 18 move. This describes substantial analysis, not appearances in every scene; excludes V041+, adaptations and spin-offs.; continuity `rent-a-girlfriend-manga`
 - Reviewed current evidence:
   - [`reviewed-character-ledger` — Kazuya Kinoshita longitudinal evidence ledger through V020](series/rent-a-girlfriend/04%20Character%20Analysis/Kazuya%20Kinoshita/RAG_KAZUYA_EVIDENCE_LEDGER.md)
+  - [`reviewed-v021-v040-ledger` — Kazuya Kinoshita longitudinal evidence ledger: bounded V021-V040 extension](series/rent-a-girlfriend/04%20Character%20Analysis/Kazuya%20Kinoshita/RAG_KAZUYA_EVIDENCE_LEDGER.md#evidence-trace)
 
 ### Kenjiro Toki
 
@@ -3368,6 +3433,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `maebashi-anime-series`: ANIME EPISODE: Completed-series specialist analysis drawing on Maebashi Witches Episodes 1-12; this describes the source boundary and does not assert continuous per-episode coverage.; continuity `maebashi-witches-anime`
 - Reviewed current evidence:
   - [`keroppe-naoki-comparison` — Keroppe × Naoki — SHINE POST](series/maebashi-witches/V1%20Analysis/05%20Comparative%20Analysis/MAEBASHI_CROSS_SERIES_INTERACTION_REFERENCE.md)
+
+### Kian
+
+- Entity ID: `harmony:kian`
+- Entity aliases:
+  - _None._
+
+#### Subject: Original Japanese novel continuity
+
+- Analysis subject ID: `harmony:kian@original-novel`
+- Series: `harmony`
+- Continuity: `original-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `g3-study-scope`: OTHER OTHER: School affiliation, ethical objection and hesitant participation; the adult reunion, retrospective rescue/balancer disclosure, mourning and the recorded fatal appeal. This is the monograph’s bounded original-novel scope, not continuous chapter coverage or a complete account of Kian’s professional and private life.; continuity `original-novel`
+- Reviewed current evidence:
+  - [`g3-character-study` — Kian: G3 literary character study](series/harmony/04%20Character%20and%20Relationship%20Studies/HARMONY_KIAN_MONOGRAPH.md) — **active provisional authority**
 
 ### Kibe
 
@@ -4063,6 +4148,29 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`mai-misuzu-comparison` — Mai × Misuzu Hataya — Gakuen Idolmaster](series/maebashi-witches/V1%20Analysis/05%20Comparative%20Analysis/MAEBASHI_CROSS_SERIES_INTERACTION_REFERENCE.md)
 
+### Maika Utsunomiya
+
+- Entity ID: `shuukura:maika-utsunomiya`
+- Entity aliases:
+  - 宇都宮舞香 (ja, ORIGINAL_SCRIPT)
+  - Utsunomiya Maika (ja-latn, TRANSLITERATION) — Japanese name order.
+
+#### Subject: Original Japanese light-novel continuity and author supplements
+
+- Analysis subject ID: `shuukura:maika-utsunomiya@original-light-novel`
+- Series: `shuukura`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `kss08`: LIGHT_NOVEL OTHER: Author-released supplemental story KSS-08, 宇都宮舞香の夏休み: Maika’s predeparture mother call, sent text and phone conversation with Shiori, followed by her actual hometown reunion with Ami. First-university-summer placement is an analytical inference; exact day and year are unestablished. Departure chores, parental meeting, full stay duration and detailed household retelling remain unshown. Linked novel scenes are context, not continuous novel coverage.; continuity `original-light-novel`
+  - `kss11`: LIGHT_NOVEL OTHER: Author-released supplemental story KSS-11, 宇都宮舞香と面白ガール: one year-end phone call with Miyagi Shiori and Maika’s preceding holiday wishes and channel deliberation. Exact day and year are unestablished. Coverage is limited to this story; novel and earlier-supplement comparisons provide context, not continuous coverage. The conflicting parental-home accounts remain unresolved.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`kss08-homecoming` — KSS-08: family, autonomy, advocacy and homecoming revaluation](series/shuukura/03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_08_DEEP_READING.md) — **active provisional authority**
+  - [`kss11-call` — KSS-11: holiday autonomy, chosen concern and reciprocal teasing](series/shuukura/03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_11_DEEP_READING.md) — **active provisional authority**
+
 ### Makino Kouhei
 
 - Entity ID: `idoly-pride:makino-kouhei`
@@ -4359,6 +4467,27 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`reviewed-mmj-event-0005` — Minori analysis in MMJ EVENT_0005](series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0005_DEEP_READING.md)
   - [`reviewed-mmj-event-0011` — Minori analysis in MMJ EVENT_0011](series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0011_DEEP_READING.md)
   - [`reviewed-shared-synthesis` — Minori analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MAIN_STORY_SYNTHESIS.md)
+
+### Mio Komatsu
+
+- Entity ID: `shuukura:mio-komatsu`
+- Entity aliases:
+  - 小松澪 (ja, ORIGINAL_SCRIPT)
+  - Komatsu Mio (ja-latn, TRANSLITERATION) — Japanese name order.
+
+#### Subject: Original Japanese light-novel continuity and author supplements
+
+- Analysis subject ID: `shuukura:mio-komatsu@original-light-novel`
+- Series: `shuukura`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `kss12`: LIGHT_NOVEL OTHER: Author-released supplemental story KSS-12, 小松澪と謎多き女: Mio’s university lecture-end conversation with Sendai Hazuki, from refused invitations through deferred inquiry and a proposed next mixer. The approaching-summer frame establishes no exact day, year or college year. LN05 referral and LN09 roommate-call comparisons provide separately timed context, not continuous novel coverage or Mio’s current knowledge.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`kss12-company-and-curiosity` — KSS-12: companionship, self-questioning curiosity and maintained refusals](series/shuukura/03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_12_DEEP_READING.md) — **active provisional authority**
 
 ### Misaki Nagisa
 
@@ -5082,6 +5211,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`06-lin-ling-nice-moon-and-the-replacement-hero` — 06 LIN LING NICE MOON AND THE REPLACEMENT HERO](series/to-be-hero-x/03%20V2%20Specialist%20Syntheses/01%20Characters%20and%20Relationships/06_LIN_LING_NICE_MOON_AND_THE_REPLACEMENT_HERO.md)
 
+### Oscar Stauffenberg
+
+- Entity ID: `harmony:oscar-stauffenberg`
+- Entity aliases:
+  - _None._
+
+#### Subject: Original Japanese novel continuity
+
+- Analysis subject ID: `harmony:oscar-stauffenberg@original-novel`
+- Series: `harmony`
+- Continuity: `original-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `g3-study-scope`: OTHER OTHER: Professional encounters with Tuan: wine and reputation discipline, investigative exclusion and limited concession, emergency information demands, private working-group membership disclosure and assistance through Uwe. Childhood wine recollection remains self-report; later membership disclosure does not retroactively supply omniscience.; continuity `original-novel`
+- Reviewed current evidence:
+  - [`g3-character-study` — Oscar Stauffenberg: G3 literary character study](series/harmony/04%20Character%20and%20Relationship%20Studies/HARMONY_OSCAR_STUDY.md) — **active provisional authority**
+
 ### Otto
 
 - Entity ID: `ascendance-of-a-bookworm:otto`
@@ -5123,6 +5272,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `reviewed-scope`: LIGHT_NOVEL VOLUME: Japanese light-novel V01 and V05 parenting, separation, search and reunion; V06 retrospective history; V10 letter and escort deliberation; V12 expedition, protection and terminal represented state.; continuity `light-novel`
 - Reviewed current evidence:
   - [`character-model` — Bounded character analysis through V12](series/mushoku-tensei/04%20Character%20Analysis/paul/RECONSTRUCTION_MODEL.md)
+
+### Platypus tissue cover
+
+- Entity ID: `shuukura:platypus-tissue-cover`
+- Entity aliases:
+  - _None._
+
+#### Subject: Original Japanese light-novel continuity and author supplements
+
+- Analysis subject ID: `shuukura:platypus-tissue-cover@original-light-novel`
+- Series: `shuukura`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `kss09`: LIGHT_NOVEL OTHER: Author-released supplemental story KSS-09, カモノハシの苦悩: the nameless platypus tissue cover narrates rivalry with three cat-shaped chopstick rests, receives Sendai’s care, carries the cats and exchanges greetings. The household frame follows the cat gift, but the exact evening and year are unestablished. Novel purchase, transfer and gift comparisons are context, not continuous novel coverage. Other supplements are outside this coverage.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`kss09-object-perspective` — KSS-09: affection claims, recognition, material limits and qualified coexistence](series/shuukura/03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_09_DEEP_READING.md) — **active provisional authority**
 
 ### Queen
 
@@ -7039,6 +7208,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`claim-evidence-ledger` — Bounded chapter character interpretations and counterevidence](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
   - [`entity-state-ledger` — Individual character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
   - [`episode-1-0-arc-reading` — EPISODE 1.0 arc reading: individual motives, choices and relationships](series/tokyo-7th-sisters/07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_1_0_ARC_DEEP_READING.md)
+
+### Vashilov
+
+- Entity ID: `harmony:vashilov`
+- Entity aliases:
+  - _None._
+
+#### Subject: Original Japanese novel continuity
+
+- Analysis subject ID: `harmony:vashilov@original-novel`
+- Series: `harmony`
+- Continuity: `original-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `g3-study-scope`: OTHER OTHER: Credential performance and bounded cooperation during the car encounter, the Baghdad information call, armed factional pursuit of Nuaza, wounded bargaining and Tuan’s later reports and false attribution. Disclosure order is retained; this scope does not establish ordinary private life or a complete chain of orders.; continuity `original-novel`
+- Reviewed current evidence:
+  - [`g3-character-study` — Vashilov: G3 literary character study](series/harmony/04%20Character%20and%20Relationship%20Studies/HARMONY_VASHILOV_STUDY.md) — **active provisional authority**
 
 ### Viktor Idinarohk
 

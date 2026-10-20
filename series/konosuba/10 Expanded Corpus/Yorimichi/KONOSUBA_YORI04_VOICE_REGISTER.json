@@ -1,0 +1,3959 @@
+{
+  "schema": "KONOSUBA_YORI04_WRITTEN_VOICE_REGISTER_V1",
+  "created_utc": "2026-10-19T03:44:00.647760+00:00",
+  "source_id": "YORI-04",
+  "selected_record_count": 76,
+  "unique_event_guard": "Purposeful exact native fragments, each joined to a specific P and its actually read/sealed parent interval. Current fragment selection occurred after the seal, as explicitly recorded; raw prior witness string is retained if present. Multiple turns in one event are not independent trials.",
+  "selection": "Written Japanese form with literal gloss, independent role/context, pragmatic argument and source-plane limit. No acoustic/native-human, full-population or independent-before-after claim.",
+  "counts_describe_selected_records_only": {
+    "L2": 74,
+    "L3": 1,
+    "L1": 1
+  },
+  "records": [
+    {
+      "id": "YORI04-WHOLE-V001",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U012",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "native_member_sha256": "e00241008cc84721d7a0543bf485a16955b36a8a1fd41b7d731d2d6b8169c363",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U012:P0009",
+        "speaker_addressee": "Hagen to household",
+        "context": "Noble visitor receives purified tea and tries a polite compliment.",
+        "short_exact_anchor_if_recorded": "白湯ですな",
+        "basic_gloss": "It is hot water.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P9 Hagen: 大変結構な……。その、結構な……白湯ですな; polite aborted praise preserves visitor tact.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 9,
+            "end_P": 9
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 1,
+          "end_P": 70
+        },
+        "exact_anchor_matches_within_windows": [
+          9
+        ],
+        "base_text_matches": [
+          9
+        ],
+        "reading_display_with_ruby_matches": [],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "Noble visitor receives purified tea and tries a polite compliment.",
+      "current_short_form": "白湯ですな",
+      "basic_gloss": "It is hot water.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Aborted praise plus final ですな performs tact despite accurate disappointing description.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V002",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U012",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "native_member_sha256": "e00241008cc84721d7a0543bf485a16955b36a8a1fd41b7d731d2d6b8169c363",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U012:P0063",
+        "speaker_addressee": "Darkness to K",
+        "context": "K proposes humiliating request wording.",
+        "short_exact_anchor_if_recorded": "そんな頭の悪い頼み方は死んでも嫌だ",
+        "basic_gloss": "I absolutely refuse that foolish way of asking.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P63 D: そんな頭の悪い頼み方は死んでも嫌だ; literal rejection of suggested wording, not a death intention.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 63,
+            "end_P": 63
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 1,
+          "end_P": 70
+        },
+        "exact_anchor_matches_within_windows": [
+          63
+        ],
+        "base_text_matches": [
+          63
+        ],
+        "reading_display_with_ruby_matches": [
+          63
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "K proposes humiliating request wording.",
+      "current_short_form": "そんな頭の悪い頼み方は死んでも嫌だ",
+      "basic_gloss": "I absolutely refuse that foolish way of asking.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Death idiom intensifies refusal; no literal suicidal plan or later actual Vanir performance at this point.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V003",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U012",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "native_member_sha256": "e00241008cc84721d7a0543bf485a16955b36a8a1fd41b7d731d2d6b8169c363",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U012:P0071",
+        "speaker_addressee": "K to Darkness",
+        "context": "K explicitly sees her overwork and offers help.",
+        "short_exact_anchor_if_recorded": "報酬なんてどうでもいいさ",
+        "basic_gloss": "I do not care about payment.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P71 K: 俺達の仲だろ、報酬なんてどうでもいいさ; explicit relationship reason before skill display.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 71,
+            "end_P": 71
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 71,
+          "end_P": 160
+        },
+        "exact_anchor_matches_within_windows": [
+          71
+        ],
+        "base_text_matches": [
+          71
+        ],
+        "reading_display_with_ruby_matches": [
+          71
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "K explicitly sees her overwork and offers help.",
+      "current_short_form": "報酬なんてどうでもいいさ",
+      "basic_gloss": "I do not care about payment.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Familiar solidarity supplies an expressed motive before later self-benefit pressure; not every utterance is deceptive.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V004",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U012",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "native_member_sha256": "e00241008cc84721d7a0543bf485a16955b36a8a1fd41b7d731d2d6b8169c363",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U012:P0082",
+        "speaker_addressee": "Darkness to Hagen",
+        "context": "Servant reveals embarrassing work-stimulant effect.",
+        "short_exact_anchor_if_recorded": "それ以上は言うな",
+        "basic_gloss": "Say no more.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P82 D: それ以上は言うな; direct embarrassment boundary stops disclosure.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 82,
+            "end_P": 82
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 71,
+          "end_P": 160
+        },
+        "exact_anchor_matches_within_windows": [
+          82
+        ],
+        "base_text_matches": [
+          82
+        ],
+        "reading_display_with_ruby_matches": [
+          82
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "Servant reveals embarrassing work-stimulant effect.",
+      "current_short_form": "それ以上は言うな",
+      "basic_gloss": "Say no more.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Direct imperative establishes a disclosure boundary independently of later ridicule.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V005",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U012",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "native_member_sha256": "e00241008cc84721d7a0543bf485a16955b36a8a1fd41b7d731d2d6b8169c363",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U012:P0099",
+        "speaker_addressee": "Aqua to office group",
+        "context": "She accepts document squaring/bundling.",
+        "short_exact_anchor_if_recorded": "寸分のズレもなく",
+        "basic_gloss": "Without the slightest misalignment.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P99 Aq: 寸分のズレもなく、綺麗にトントンしてそろえてあげるわ; accepted precise task.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 99,
+            "end_P": 99
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 71,
+          "end_P": 160
+        },
+        "exact_anchor_matches_within_windows": [
+          99
+        ],
+        "base_text_matches": [
+          99
+        ],
+        "reading_display_with_ruby_matches": [
+          99
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "She accepts document squaring/bundling.",
+      "current_short_form": "寸分のズレもなく",
+      "basic_gloss": "Without the slightest misalignment.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Precise craft standard fits a narrow manual task; no compulsory service-to-directive J01shift.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V006",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U012",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "native_member_sha256": "e00241008cc84721d7a0543bf485a16955b36a8a1fd41b7d731d2d6b8169c363",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U012:P0123",
+        "speaker_addressee": "K to Darkness",
+        "context": "After food argument wastes a day, he apologizes.",
+        "short_exact_anchor_if_recorded": "仕事の邪魔にしかならなかった",
+        "basic_gloss": "We only got in the way of work.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P123 K: 仕事の邪魔にしかならなかった; candid own-fault apology.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 123,
+            "end_P": 123
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 71,
+          "end_P": 160
+        },
+        "exact_anchor_matches_within_windows": [
+          123
+        ],
+        "base_text_matches": [
+          123
+        ],
+        "reading_display_with_ruby_matches": [
+          123
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "After food argument wastes a day, he apologizes.",
+      "current_short_form": "仕事の邪魔にしかならなかった",
+      "basic_gloss": "We only got in the way of work.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Unqualified acknowledgment of own contribution is contrary to a universal self-excusing portrait.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V007",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U012",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "native_member_sha256": "e00241008cc84721d7a0543bf485a16955b36a8a1fd41b7d731d2d6b8169c363",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U012:P0147",
+        "speaker_addressee": "Darkness to K",
+        "context": "His imported crop plan assumes immobile crops.",
+        "short_exact_anchor_if_recorded": "勝手に肥えた土地へ移動するだろう",
+        "basic_gloss": "They move to fertile land on their own.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P147 D: 栄養が不足したら勝手に肥えた土地へ移動するだろう？; local factual correction to imported assumptions.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 147,
+            "end_P": 147
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 71,
+          "end_P": 160
+        },
+        "exact_anchor_matches_within_windows": [
+          147
+        ],
+        "base_text_matches": [
+          147
+        ],
+        "reading_display_with_ruby_matches": [
+          147
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "His imported crop plan assumes immobile crops.",
+      "current_short_form": "勝手に肥えた土地へ移動するだろう",
+      "basic_gloss": "They move to fertile land on their own.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Matter-of-fact question-final explanation corrects world facts rather than displaying general ignorance.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V008",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U012",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "native_member_sha256": "e00241008cc84721d7a0543bf485a16955b36a8a1fd41b7d731d2d6b8169c363",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U012:P0178",
+        "speaker_addressee": "K to Darkness",
+        "context": "D tries to transfer complaint handling and he declines with a class frame.",
+        "short_exact_anchor_if_recorded": "平民の俺には荷が重いです",
+        "basic_gloss": "It is too much for a commoner like me.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P178 K: 平民の俺には荷が重いです; status-modest joke used to decline her attempted transfer, not generic politeness under pressure.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 178,
+            "end_P": 178
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 161,
+          "end_P": 250
+        },
+        "exact_anchor_matches_within_windows": [
+          178
+        ],
+        "base_text_matches": [
+          178
+        ],
+        "reading_display_with_ruby_matches": [
+          178
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "D tries to transfer complaint handling and he declines with a class frame.",
+      "current_short_form": "平民の俺には荷が重いです",
+      "basic_gloss": "It is too much for a commoner like me.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Status-modest polite ending can be strategic refusal; own legitimate grievance/pressure is not established by grammar alone.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V009",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U012",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "native_member_sha256": "e00241008cc84721d7a0543bf485a16955b36a8a1fd41b7d731d2d6b8169c363",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U012:P0183",
+        "speaker_addressee": "Darkness to K",
+        "context": "K invokes old Alderp-related designation.",
+        "short_exact_anchor_if_recorded": "その呼び名だけは止めてください",
+        "basic_gloss": "Please stop using that name.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P183 D: その呼び名だけは止めてください; unambiguous specific boundary and apology.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 183,
+            "end_P": 183
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 161,
+          "end_P": 250
+        },
+        "exact_anchor_matches_within_windows": [
+          183
+        ],
+        "base_text_matches": [
+          183
+        ],
+        "reading_display_with_ruby_matches": [
+          183
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "K invokes old Alderp-related designation.",
+      "current_short_form": "その呼び名だけは止めてください",
+      "basic_gloss": "Please stop using that name.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Specific だけは and polite request protect a real identity boundary, not welcome all humiliation.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V010",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U012",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "native_member_sha256": "e00241008cc84721d7a0543bf485a16955b36a8a1fd41b7d731d2d6b8169c363",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U012:P0240",
+        "speaker_addressee": "Darkness to K",
+        "context": "Pool proposal includes compulsory revealing suits.",
+        "short_exact_anchor_if_recorded": "公序良俗を乱しそうだから却下だ",
+        "basic_gloss": "Rejected because it appears indecent.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P240 D: 公序良俗を乱しそうだから却下だ、ばかもの！; actual veto of specific terms.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 240,
+            "end_P": 240
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 161,
+          "end_P": 250
+        },
+        "exact_anchor_matches_within_windows": [
+          240
+        ],
+        "base_text_matches": [
+          240
+        ],
+        "reading_display_with_ruby_matches": [
+          240
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "Pool proposal includes compulsory revealing suits.",
+      "current_short_form": "公序良俗を乱しそうだから却下だ",
+      "basic_gloss": "Rejected because it appears indecent.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Official procedural veto addresses specific terms; not universal rejection of leisure.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V011",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U012",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "native_member_sha256": "e00241008cc84721d7a0543bf485a16955b36a8a1fd41b7d731d2d6b8169c363",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U012:P0269",
+        "speaker_addressee": "K to Darkness",
+        "context": "K demands personal voyeur benefit and approval.",
+        "short_exact_anchor_if_recorded": "俺は無報酬で手伝ってるんだ",
+        "basic_gloss": "I am helping without pay.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P269 K: 俺は無報酬で手伝ってるんだ; actual own-contribution entitlement during pressure, not another actor pressuring K.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 269,
+            "end_P": 269
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 251,
+          "end_P": 340
+        },
+        "exact_anchor_matches_within_windows": [
+          269
+        ],
+        "base_text_matches": [
+          269
+        ],
+        "reading_display_with_ruby_matches": [
+          269
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "K demands personal voyeur benefit and approval.",
+      "current_short_form": "俺は無報酬で手伝ってるんだ",
+      "basic_gloss": "I am helping without pay.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "True contribution supplies entitlement framing, but surrounding desires/direct demand prevent automatic civil-contrast confirmation.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V012",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U012",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "native_member_sha256": "e00241008cc84721d7a0543bf485a16955b36a8a1fd41b7d731d2d6b8169c363",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U012:P0276",
+        "speaker_addressee": "K to Darkness",
+        "context": "After her refusal he seizes paperwork then her hand.",
+        "short_exact_anchor_if_recorded": "いいからとっととハンコ押せ",
+        "basic_gloss": "Just hurry up and stamp it.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P276 K: いいからとっととハンコ押せ！; direct coercive demand during plan approval effort.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 276,
+            "end_P": 276
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 251,
+          "end_P": 340
+        },
+        "exact_anchor_matches_within_windows": [
+          276
+        ],
+        "base_text_matches": [
+          276
+        ],
+        "reading_display_with_ruby_matches": [
+          276
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "After her refusal he seizes paperwork then her hand.",
+      "current_short_form": "いいからとっととハンコ押せ",
+      "basic_gloss": "Just hurry up and stamp it.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Unmitigated imperative is actual pressure; an explained profit claim does not itself make it civil.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V013",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U012",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "native_member_sha256": "e00241008cc84721d7a0543bf485a16955b36a8a1fd41b7d731d2d6b8169c363",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U012:P0296",
+        "speaker_addressee": "Megumin to officials",
+        "context": "Carried entrant offers useful educated assistance.",
+        "short_exact_anchor_if_recorded": "施政者に知恵を貸すのは魔法使いの仕事",
+        "basic_gloss": "Advising rulers is a wizard’s work.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P296 M: 施政者に知恵を貸すのは魔法使いの仕事ですからね; identity/role rationale for actual useful work.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 296,
+            "end_P": 296
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 251,
+          "end_P": 340
+        },
+        "exact_anchor_matches_within_windows": [
+          296
+        ],
+        "base_text_matches": [
+          296
+        ],
+        "reading_display_with_ruby_matches": [
+          296
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "Carried entrant offers useful educated assistance.",
+      "current_short_form": "施政者に知恵を貸すのは魔法使いの仕事",
+      "basic_gloss": "Advising rulers is a wizard’s work.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Polite identity performance accompanies actual noncombat knowledge; no generic capability from theatricality alone.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V014",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U012",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "native_member_sha256": "e00241008cc84721d7a0543bf485a16955b36a8a1fd41b7d731d2d6b8169c363",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U012:P0347",
+        "speaker_addressee": "K to Darkness",
+        "context": "Party-name quarrel wastes a second day.",
+        "short_exact_anchor_if_recorded": "仕事をぶち壊して悪かったな",
+        "basic_gloss": "Sorry we wrecked the work.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P347 K: 仕事をぶち壊して悪かったな; renewed candid apology after actual interruption.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 347,
+            "end_P": 347
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 341,
+          "end_P": 430
+        },
+        "exact_anchor_matches_within_windows": [
+          347
+        ],
+        "base_text_matches": [
+          347
+        ],
+        "reading_display_with_ruby_matches": [
+          347
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "Party-name quarrel wastes a second day.",
+      "current_short_form": "仕事をぶち壊して悪かったな",
+      "basic_gloss": "Sorry we wrecked the work.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Blunt familiar wording can deliver candid responsibility, not necessarily minimized agency.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V015",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U012",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "native_member_sha256": "e00241008cc84721d7a0543bf485a16955b36a8a1fd41b7d731d2d6b8169c363",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U012:P0379",
+        "speaker_addressee": "Complaint quoting Megumin",
+        "context": "K reads reported self-identification after generic features were inconclusive.",
+        "short_exact_anchor_if_recorded": "我こそはアクセル一の喧嘩屋めぐみん",
+        "basic_gloss": "I am Megumin, Axel’s foremost brawler.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P379 complaint quoted M: 我こそはアクセル一の喧嘩屋めぐみん！; mediated reported triumphant signature.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 379,
+            "end_P": 379
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 341,
+          "end_P": 430
+        },
+        "exact_anchor_matches_within_windows": [
+          379
+        ],
+        "base_text_matches": [
+          379
+        ],
+        "reading_display_with_ruby_matches": [
+          379
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "K reads reported self-identification after generic features were inconclusive.",
+      "current_short_form": "我こそはアクセル一の喧嘩屋めぐみん",
+      "basic_gloss": "I am Megumin, Axel’s foremost brawler.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Grand self-naming undermines a defense of insufficient identification; mediated quotation stays mediated.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V016",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U012",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "native_member_sha256": "e00241008cc84721d7a0543bf485a16955b36a8a1fd41b7d731d2d6b8169c363",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U012:P0415",
+        "speaker_addressee": "Megumin to K",
+        "context": "She prefers his carrying to borrowed maid service.",
+        "short_exact_anchor_if_recorded": "運び方に愛が無いんです",
+        "basic_gloss": "Their way of carrying lacks love.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P415 M: 運び方に愛が無いんです; transport preference/complaint, not a marriage or consent claim.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 415,
+            "end_P": 415
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 341,
+          "end_P": 430
+        },
+        "exact_anchor_matches_within_windows": [
+          415
+        ],
+        "base_text_matches": [
+          415
+        ],
+        "reading_display_with_ruby_matches": [
+          415
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "She prefers his carrying to borrowed maid service.",
+      "current_short_form": "運び方に愛が無いんです",
+      "basic_gloss": "Their way of carrying lacks love.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Formal explanation expresses particular relational preference without a marriage or blanket labor agreement.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V017",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U012",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "native_member_sha256": "e00241008cc84721d7a0543bf485a16955b36a8a1fd41b7d731d2d6b8169c363",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U012:P0470",
+        "speaker_addressee": "Megumin to K",
+        "context": "K says revival makes death no-count.",
+        "short_exact_anchor_if_recorded": "リザレクションが必要な時点で護衛任務は失敗",
+        "basic_gloss": "If Resurrection is needed, the escort mission has failed.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P470 M: リザレクションが必要な時点で護衛任務は失敗ですよ！; explicit consequence criterion.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 470,
+            "end_P": 470
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 431,
+          "end_P": 546
+        },
+        "exact_anchor_matches_within_windows": [
+          470
+        ],
+        "base_text_matches": [
+          470
+        ],
+        "reading_display_with_ruby_matches": [
+          470
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "K says revival makes death no-count.",
+      "current_short_form": "リザレクションが必要な時点で護衛任務は失敗",
+      "basic_gloss": "If Resurrection is needed, the escort mission has failed.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "A criterion objection preserves actual mission harm despite available magical recovery.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V018",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U012",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "native_member_sha256": "e00241008cc84721d7a0543bf485a16955b36a8a1fd41b7d731d2d6b8169c363",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U012:P0531",
+        "speaker_addressee": "Aqua to Darkness",
+        "context": "She offers temporary relief from overwhelming future burdens.",
+        "short_exact_anchor_if_recorded": "確かな今を楽に行きなさい",
+        "basic_gloss": "Go easily through the certain present.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P531 Aq: 確かな今を楽に行きなさい; preserve exact native 行き spelling, no silent quote normalization to生き.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 531,
+            "end_P": 531
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 431,
+          "end_P": 546
+        },
+        "exact_anchor_matches_within_windows": [
+          531
+        ],
+        "base_text_matches": [
+          531
+        ],
+        "reading_display_with_ruby_matches": [
+          531
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "She offers temporary relief from overwhelming future burdens.",
+      "current_short_form": "確かな今を楽に行きなさい",
+      "basic_gloss": "Go easily through the certain present.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Pastoral imperative serves care and conversion appeal together; preserve native 行き exactly, not silent生き correction.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V019",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U014",
+      "native_member": "item/xhtml/p-005.xhtml",
+      "native_member_sha256": "df319fb5ea8e7b4230ef4464dcd31f5862d4e24d6d51a6b7beb2c85de23ec6c7",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U014:P0056",
+        "speaker_addressee": "Megumin to K",
+        "context": "They negotiate a theater outing; narrator and clerk impose romantic labels.",
+        "short_exact_anchor_if_recorded": "仲間以上恋人未満",
+        "basic_gloss": "More than companions, short of lovers.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P56 M: 仲間以上恋人未満; explicit intermediate relationship term, not fully declared lovers.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 56,
+            "end_P": 56
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 1,
+          "end_P": 90
+        },
+        "exact_anchor_matches_within_windows": [
+          56
+        ],
+        "base_text_matches": [
+          56
+        ],
+        "reading_display_with_ruby_matches": [
+          56
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "They negotiate a theater outing; narrator and clerk impose romantic labels.",
+      "current_short_form": "仲間以上恋人未満",
+      "basic_gloss": "More than companions, short of lovers.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Concise relational self-definition constrains outside classification; local loose chronology cannot settle every main-volume stage.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V020",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U014",
+      "native_member": "item/xhtml/p-005.xhtml",
+      "native_member_sha256": "df319fb5ea8e7b4230ef4464dcd31f5862d4e24d6d51a6b7beb2c85de23ec6c7",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U014:P0082",
+        "speaker_addressee": "DarkStalker to Assassin",
+        "context": "She retells a class-crossed romance.",
+        "short_exact_anchor_if_recorded": "真・デレラ",
+        "basic_gloss": "True/Cin-derella.",
+        "limit": "Retold embedded fiction, not independent observation of a new canonical couple."
+      },
+      "original_interval_witness_record_exact": "P82 narrator embedded title: 真・デレラ; printed segmentation/form itself may matter, formal language code deferred.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 82,
+            "end_P": 82
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 1,
+          "end_P": 90
+        },
+        "exact_anchor_matches_within_windows": [
+          82
+        ],
+        "base_text_matches": [
+          82
+        ],
+        "reading_display_with_ruby_matches": [
+          82
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "She retells a class-crossed romance.",
+      "current_short_form": "真・デレラ",
+      "basic_gloss": "True/Cin-derella.",
+      "current_L_class": "L3",
+      "form_and_function_warrant": "Title recomposes シンデレラ through 真 read shin; marked orthography/sound needs explicit reconstruction, not mere translated plot.",
+      "source_plane_and_adequacy_limit": "Retold embedded fiction, not independent observation of a new canonical couple.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V021",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U014",
+      "native_member": "item/xhtml/p-005.xhtml",
+      "native_member_sha256": "df319fb5ea8e7b4230ef4464dcd31f5862d4e24d6d51a6b7beb2c85de23ec6c7",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U014:P0156",
+        "speaker_addressee": "DarkStalker narration",
+        "context": "Masked partner’s gender is newly disclosed.",
+        "short_exact_anchor_if_recorded": "仕事上お互い名前も明かしてない",
+        "basic_gloss": "We do not exchange real names.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P156 narrator: 仕事上お互い名前も明かしてない; deliberate source anonymity and shared history.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 156,
+            "end_P": 156
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 91,
+          "end_P": 180
+        },
+        "exact_anchor_matches_within_windows": [
+          156
+        ],
+        "base_text_matches": [
+          156
+        ],
+        "reading_display_with_ruby_matches": [
+          156
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "Masked partner’s gender is newly disclosed.",
+      "current_short_form": "仕事上お互い名前も明かしてない",
+      "basic_gloss": "We do not exchange real names.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Professional concealment explains why class labels remain the actual identification; no guessed personal name.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V022",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U014",
+      "native_member": "item/xhtml/p-005.xhtml",
+      "native_member_sha256": "df319fb5ea8e7b4230ef4464dcd31f5862d4e24d6d51a6b7beb2c85de23ec6c7",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U014:P0311",
+        "speaker_addressee": "Vanir to DarkStalker",
+        "context": "His privacy/name exposure and her resistance to reading surprise him.",
+        "short_exact_anchor_if_recorded": "我が力を用いても見通し難い強者",
+        "basic_gloss": "A powerful spy.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P311 Vanir: 我が力を用いても見通し難い強者よ; explicit information limit and respect.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 311,
+            "end_P": 311
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 271,
+          "end_P": 360
+        },
+        "exact_anchor_matches_within_windows": [
+          311
+        ],
+        "base_text_matches": [
+          311
+        ],
+        "reading_display_with_ruby_matches": [],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "His privacy/name exposure and her resistance to reading surprise him.",
+      "current_short_form": "我が力を用いても見通し難い強者",
+      "basic_gloss": "A powerful spy.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Expert limitation is admitted by the ostensibly prescient party; do not fill her hidden mind with omniscience.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V023",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U014",
+      "native_member": "item/xhtml/p-005.xhtml",
+      "native_member_sha256": "df319fb5ea8e7b4230ef4464dcd31f5862d4e24d6d51a6b7beb2c85de23ec6c7",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U014:P0332",
+        "speaker_addressee": "DarkStalker narration",
+        "context": "She recalls being injured and abandoned after the first challenge.",
+        "short_exact_anchor_if_recorded": null,
+        "basic_gloss": "The broken arm and ribs.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": null,
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 332,
+            "end_P": 332
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 271,
+          "end_P": 360
+        },
+        "exact_anchor_matches_within_windows": [
+          332
+        ],
+        "base_text_matches": [
+          332
+        ],
+        "reading_display_with_ruby_matches": [
+          332
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": false
+      },
+      "independent_context_role_facts": "She recalls being injured and abandoned after the first challenge.",
+      "current_short_form": "折られた腕とあばら",
+      "basic_gloss": "The broken arm and ribs.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Outcome word is participant self-presentation revised by explicit bodily-cost context; not a second fight.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V024",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U014",
+      "native_member": "item/xhtml/p-005.xhtml",
+      "native_member_sha256": "df319fb5ea8e7b4230ef4464dcd31f5862d4e24d6d51a6b7beb2c85de23ec6c7",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U014:P0478",
+        "speaker_addressee": "K to Aqua",
+        "context": "She misreads rejection of a goblin act as performative encouragement.",
+        "short_exact_anchor_if_recorded": "本当にやるなって言ってんだよ",
+        "basic_gloss": "No; my no today means…",
+        "limit": "Exact remainder verified in native paragraph; no implied acquiescence from Aqua’s interpretation."
+      },
+      "original_interval_witness_record_exact": "P478 K: 本当にやるなって言ってんだよ！; explicit correction of unwanted pragmatic reinterpretation.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 478,
+            "end_P": 478
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 461,
+          "end_P": 558
+        },
+        "exact_anchor_matches_within_windows": [
+          478
+        ],
+        "base_text_matches": [
+          478
+        ],
+        "reading_display_with_ruby_matches": [
+          478
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "She misreads rejection of a goblin act as performative encouragement.",
+      "current_short_form": "本当にやるなって言ってんだよ",
+      "basic_gloss": "No; my no today means…",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Explicit correction distinguishes actual refusal from a presumed familiar comic script.",
+      "source_plane_and_adequacy_limit": "Exact remainder verified in native paragraph; no implied acquiescence from Aqua’s interpretation.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V025",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U014",
+      "native_member": "item/xhtml/p-005.xhtml",
+      "native_member_sha256": "df319fb5ea8e7b4230ef4464dcd31f5862d4e24d6d51a6b7beb2c85de23ec6c7",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U014:P0495",
+        "speaker_addressee": "DarkStalker to Luna",
+        "context": "Luna asks retired spies for bounded night help.",
+        "short_exact_anchor_if_recorded": "報酬の方も気にしなくていい",
+        "basic_gloss": "I do not need payment.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P495 narrator: 報酬の方も気にしなくていいですよ; public polite owned waiver, not authority to waive peer.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 495,
+            "end_P": 495
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 461,
+          "end_P": 558
+        },
+        "exact_anchor_matches_within_windows": [
+          495
+        ],
+        "base_text_matches": [
+          495
+        ],
+        "reading_display_with_ruby_matches": [
+          495
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "Luna asks retired spies for bounded night help.",
+      "current_short_form": "報酬の方も気にしなくていい",
+      "basic_gloss": "I do not need payment.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Voluntary own contribution has public and particular-party motives; cannot volunteer Assassin for her.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V026",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U014",
+      "native_member": "item/xhtml/p-005.xhtml",
+      "native_member_sha256": "df319fb5ea8e7b4230ef4464dcd31f5862d4e24d6d51a6b7beb2c85de23ec6c7",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U014:P0529",
+        "speaker_addressee": "DarkStalker repeating Assassin’s correction",
+        "context": "Partner tells Luna they will help before agreement.",
+        "short_exact_anchor_if_recorded": "まだ私は引き受けるって言ってない",
+        "basic_gloss": "I have not yet said I will accept.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P529 peer reported: まだ私は引き受けるって言ってない; explicit nonacceptance controls earlier narrator we-claims.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 529,
+            "end_P": 529
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 461,
+          "end_P": 558
+        },
+        "exact_anchor_matches_within_windows": [
+          529
+        ],
+        "base_text_matches": [
+          529
+        ],
+        "reading_display_with_ruby_matches": [
+          529
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "Partner tells Luna they will help before agreement.",
+      "current_short_form": "まだ私は引き受けるって言ってない",
+      "basic_gloss": "I have not yet said I will accept.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Narrator repeats the partner’s objection rather than supplying an unmediated quoted turn; separate agency stays real and later assent553 does not backdate consent.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V027",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U014",
+      "native_member": "item/xhtml/p-005.xhtml",
+      "native_member_sha256": "df319fb5ea8e7b4230ef4464dcd31f5862d4e24d6d51a6b7beb2c85de23ec6c7",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U014:P0555",
+        "speaker_addressee": "Luna to the two veterans",
+        "context": "After distinct agreement she addresses them by roles.",
+        "short_exact_anchor_if_recorded": "ダークストーカーさん",
+        "basic_gloss": "DarkStalker.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P555 Luna: ダークストーカーさん、アサシンさん; role-based address is only personal-identity naming supplied.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 555,
+            "end_P": 555
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 461,
+          "end_P": 558
+        },
+        "exact_anchor_matches_within_windows": [
+          555
+        ],
+        "base_text_matches": [
+          555
+        ],
+        "reading_display_with_ruby_matches": [
+          555
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "After distinct agreement she addresses them by roles.",
+      "current_short_form": "ダークストーカーさん",
+      "basic_gloss": "DarkStalker.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Respectful class-name address matches the no-personal-name rule and bounded commission, not hidden identities.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V028",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U016",
+      "native_member": "item/xhtml/p-007.xhtml",
+      "native_member_sha256": "4d9d80c216cb6de662573315cf14d2aa20f9e8dcc6c2ba75e266959f82c24779",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U016:P0038",
+        "speaker_addressee": "Megumin to household",
+        "context": "She claims sole right to bully Yunyun.",
+        "short_exact_anchor_if_recorded": "私だけの特権",
+        "basic_gloss": "My special privilege.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P38 M: 私だけの特権です; possessive teasing claim not consent.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 38,
+            "end_P": 38
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 1,
+          "end_P": 100
+        },
+        "exact_anchor_matches_within_windows": [
+          38
+        ],
+        "base_text_matches": [
+          38
+        ],
+        "reading_display_with_ruby_matches": [
+          38
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "She claims sole right to bully Yunyun.",
+      "current_short_form": "私だけの特権",
+      "basic_gloss": "My special privilege.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Possessive joking has real asymmetry challenged by K/D; framing does not supply Yun’s permission.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V029",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U016",
+      "native_member": "item/xhtml/p-007.xhtml",
+      "native_member_sha256": "4d9d80c216cb6de662573315cf14d2aa20f9e8dcc6c2ba75e266959f82c24779",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U016:P0082",
+        "speaker_addressee": "Vanir’s prewritten letter read by Yunyun",
+        "context": "A predicted secret second letter is a deliberate decoy.",
+        "short_exact_anchor_if_recorded": "ハズレ",
+        "basic_gloss": "Wrong one.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P82 second written letter: ハズレ; actual bait, no missing-source outcome.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 82,
+            "end_P": 82
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 1,
+          "end_P": 100
+        },
+        "exact_anchor_matches_within_windows": [
+          82
+        ],
+        "base_text_matches": [
+          82
+        ],
+        "reading_display_with_ruby_matches": [
+          82
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "A predicted secret second letter is a deliberate decoy.",
+      "current_short_form": "ハズレ",
+      "basic_gloss": "Wrong one.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Tiny written response manipulates anticipation; Yunyun is reader rather than originator of Vanir’s taunt.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V030",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U016",
+      "native_member": "item/xhtml/p-007.xhtml",
+      "native_member_sha256": "4d9d80c216cb6de662573315cf14d2aa20f9e8dcc6c2ba75e266959f82c24779",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U016:P0127",
+        "speaker_addressee": "Vanir to K",
+        "context": "K assumes death resets every summons.",
+        "short_exact_anchor_if_recorded": null,
+        "basic_gloss": "Until one remaining life is lost.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": null,
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 127,
+            "end_P": 127
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 101,
+          "end_P": 200
+        },
+        "exact_anchor_matches_within_windows": [
+          127
+        ],
+        "base_text_matches": [
+          127
+        ],
+        "reading_display_with_ruby_matches": [
+          127
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": false
+      },
+      "independent_context_role_facts": "K assumes death resets every summons.",
+      "current_short_form": "残機を一機失うまで幹部を務める",
+      "basic_gloss": "Until one remaining life is lost.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Specific contract termination corrects his unlimited escape premise; cannot import a costless reset.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V031",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U016",
+      "native_member": "item/xhtml/p-007.xhtml",
+      "native_member_sha256": "4d9d80c216cb6de662573315cf14d2aa20f9e8dcc6c2ba75e266959f82c24779",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U016:P0182",
+        "speaker_addressee": "Wiz to K",
+        "context": "He guesses insulting occupations rather than actual business identity.",
+        "short_exact_anchor_if_recorded": "商人",
+        "basic_gloss": "A merchant.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P182 Wiz: 私の本業は商人です; self-conception contradicts outside trait caricatures.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 182,
+            "end_P": 182
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 101,
+          "end_P": 200
+        },
+        "exact_anchor_matches_within_windows": [
+          182
+        ],
+        "base_text_matches": [
+          182
+        ],
+        "reading_display_with_ruby_matches": [
+          182
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "He guesses insulting occupations rather than actual business identity.",
+      "current_short_form": "商人",
+      "basic_gloss": "A merchant.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Firm identity correction coexists with real product research, privacy exploitation and later laughter.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V032",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U016",
+      "native_member": "item/xhtml/p-007.xhtml",
+      "native_member_sha256": "4d9d80c216cb6de662573315cf14d2aa20f9e8dcc6c2ba75e266959f82c24779",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U016:P0203",
+        "speaker_addressee": "Vanir to K/Wiz",
+        "context": "Wiz researches demonic contracts while already bound to Vanir.",
+        "short_exact_anchor_if_recorded": null,
+        "basic_gloss": "That is indeed so, but…",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": null,
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 203,
+            "end_P": 203
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 201,
+          "end_P": 300
+        },
+        "exact_anchor_matches_within_windows": [
+          203
+        ],
+        "base_text_matches": [
+          203
+        ],
+        "reading_display_with_ruby_matches": [
+          203
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": false
+      },
+      "independent_context_role_facts": "Wiz researches demonic contracts while already bound to Vanir.",
+      "current_short_form": "それはまあその通りなのだが",
+      "basic_gloss": "That is indeed so, but…",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Emphatic present relation makes her workaround risky now, not an invented second contract.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V033",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U016",
+      "native_member": "item/xhtml/p-007.xhtml",
+      "native_member_sha256": "4d9d80c216cb6de662573315cf14d2aa20f9e8dcc6c2ba75e266959f82c24779",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U016:P0249",
+        "speaker_addressee": "Darkness to Chris",
+        "context": "Chris asks for official force against Satanists.",
+        "short_exact_anchor_if_recorded": null,
+        "basic_gloss": "Against people who have done nothing.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": null,
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 249,
+            "end_P": 249
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 201,
+          "end_P": 300
+        },
+        "exact_anchor_matches_within_windows": [
+          249
+        ],
+        "base_text_matches": [
+          249
+        ],
+        "reading_display_with_ruby_matches": [
+          249
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": false
+      },
+      "independent_context_role_facts": "Chris asks for official force against Satanists.",
+      "current_short_form": "まだ何もしていない者を襲撃するのは悪い事",
+      "basic_gloss": "Against people who have done nothing.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Ethical/legal distinction resists cherished goddess framing and presumed conversion; actual refusal is real.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V034",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U016",
+      "native_member": "item/xhtml/p-007.xhtml",
+      "native_member_sha256": "4d9d80c216cb6de662573315cf14d2aa20f9e8dcc6c2ba75e266959f82c24779",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U016:P0262",
+        "speaker_addressee": "Chris to Darkness",
+        "context": "Seeing D’s exhaustion, Chris withdraws coercive official-force request.",
+        "short_exact_anchor_if_recorded": "強権発動は諦める",
+        "basic_gloss": "I give up invoking coercive authority.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P262 Chris: 強権発動は諦める; actual self-set boundary/adaptation, not cumulative-public-burden overcompliance confirmation.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 262,
+            "end_P": 262
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 201,
+          "end_P": 300
+        },
+        "exact_anchor_matches_within_windows": [
+          262
+        ],
+        "base_text_matches": [
+          262
+        ],
+        "reading_display_with_ruby_matches": [
+          262
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "Seeing D’s exhaustion, Chris withdraws coercive official-force request.",
+      "current_short_form": "強権発動は諦める",
+      "basic_gloss": "I give up invoking coercive authority.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Own correction is a real self-set limit to her request, not public over-compliance confirmation; CE01trigger missing.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V035",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U016",
+      "native_member": "item/xhtml/p-007.xhtml",
+      "native_member_sha256": "4d9d80c216cb6de662573315cf14d2aa20f9e8dcc6c2ba75e266959f82c24779",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U016:P0274",
+        "speaker_addressee": "Chris to Darkness",
+        "context": "Misunderstood conversion alarm becomes familiar accusation.",
+        "short_exact_anchor_if_recorded": "裏切り筋肉",
+        "basic_gloss": "Traitor muscles.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P274 Chris: 裏切り筋肉; angry friend/noble body-label insult, D expressly objects275.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 274,
+            "end_P": 274
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 201,
+          "end_P": 300
+        },
+        "exact_anchor_matches_within_windows": [
+          274
+        ],
+        "base_text_matches": [
+          274
+        ],
+        "reading_display_with_ruby_matches": [
+          274
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "Misunderstood conversion alarm becomes familiar accusation.",
+      "current_short_form": "裏切り筋肉",
+      "basic_gloss": "Traitor muscles.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Familiar creative epithet differs from public goddess service; D’s request to stop retains force.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V036",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U016",
+      "native_member": "item/xhtml/p-007.xhtml",
+      "native_member_sha256": "4d9d80c216cb6de662573315cf14d2aa20f9e8dcc6c2ba75e266959f82c24779",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U016:P0303",
+        "speaker_addressee": "Unnamed succubus to K",
+        "context": "K assumes people following her are stalkers, she explains recruitment.",
+        "short_exact_anchor_if_recorded": "まだストーカーと決まったわけでは",
+        "basic_gloss": "It is not yet established they are stalkers.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P303 succubus: まだストーカーと決まったわけでは; direct corrective uncertainty.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 303,
+            "end_P": 303
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 301,
+          "end_P": 400
+        },
+        "exact_anchor_matches_within_windows": [
+          303
+        ],
+        "base_text_matches": [
+          303
+        ],
+        "reading_display_with_ruby_matches": [
+          303
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "K assumes people following her are stalkers, she explains recruitment.",
+      "current_short_form": "まだストーカーと決まったわけでは",
+      "basic_gloss": "It is not yet established they are stalkers.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Hesitant qualified correction limits K’s seemingly helpful certainty; no automatic perfect narrator knowledge.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V037",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U016",
+      "native_member": "item/xhtml/p-007.xhtml",
+      "native_member_sha256": "4d9d80c216cb6de662573315cf14d2aa20f9e8dcc6c2ba75e266959f82c24779",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U016:P0350",
+        "speaker_addressee": "K narration",
+        "context": "He uses promised devil-house inquiry for a service visit.",
+        "short_exact_anchor_if_recorded": "俺は何一つ嘘は言っていない",
+        "basic_gloss": "I did not lie.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P350 K narration: 俺は何一つ嘘は言っていない; literal truth defense tied to independently observed erotic detour, not pure service diligence.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 350,
+            "end_P": 350
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 301,
+          "end_P": 400
+        },
+        "exact_anchor_matches_within_windows": [
+          350
+        ],
+        "base_text_matches": [
+          350
+        ],
+        "reading_display_with_ruby_matches": [],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "He uses promised devil-house inquiry for a service visit.",
+      "current_short_form": "俺は何一つ嘘は言っていない",
+      "basic_gloss": "I did not lie.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Technically true category narrows agency account; semantic truth does not establish innocuous intent.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V038",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U016",
+      "native_member": "item/xhtml/p-007.xhtml",
+      "native_member_sha256": "4d9d80c216cb6de662573315cf14d2aa20f9e8dcc6c2ba75e266959f82c24779",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U016:P0409",
+        "speaker_addressee": "K to succubus",
+        "context": "He stays awake after accidental discovery and reports the danger.",
+        "short_exact_anchor_if_recorded": "エッチな夢見てる場合じゃなくなりまして",
+        "basic_gloss": "It is no longer time to be having erotic dreams.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P409 K: エッチな夢見てる場合じゃなくなりまして; explicit relinquished desired immediate service.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 409,
+            "end_P": 409
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 401,
+          "end_P": 500
+        },
+        "exact_anchor_matches_within_windows": [
+          409
+        ],
+        "base_text_matches": [
+          409
+        ],
+        "reading_display_with_ruby_matches": [
+          409
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "He stays awake after accidental discovery and reports the danger.",
+      "current_short_form": "エッチな夢見てる場合じゃなくなりまして",
+      "basic_gloss": "It is no longer time to be having erotic dreams.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Practical information is shared before VIP offer; reward arrival cannot be backdated as cause of this disclosure.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V039",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U016",
+      "native_member": "item/xhtml/p-007.xhtml",
+      "native_member_sha256": "4d9d80c216cb6de662573315cf14d2aa20f9e8dcc6c2ba75e266959f82c24779",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U016:P0550",
+        "speaker_addressee": "Aqua to K/Wiz",
+        "context": "She laughs at Vanir’s reversal despite future concerns.",
+        "short_exact_anchor_if_recorded": null,
+        "basic_gloss": "Think about laughing happily now.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": null,
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 550,
+            "end_P": 550
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 501,
+          "end_P": 573
+        },
+        "exact_anchor_matches_within_windows": [
+          550
+        ],
+        "base_text_matches": [
+          550
+        ],
+        "reading_display_with_ruby_matches": [
+          550
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": false
+      },
+      "independent_context_role_facts": "She laughs at Vanir’s reversal despite future concerns.",
+      "current_short_form": "今を楽しく笑う事を考えなさい",
+      "basic_gloss": "Think about laughing happily now.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Present-focused maxim has a risk-bearing use distinct from pastoral reliefU012531; one slogan is not universal cause.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V040",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U016",
+      "native_member": "item/xhtml/p-007.xhtml",
+      "native_member_sha256": "4d9d80c216cb6de662573315cf14d2aa20f9e8dcc6c2ba75e266959f82c24779",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U016:P0559",
+        "speaker_addressee": "Unnamed petitioner to Vanir",
+        "context": "Mundane crowd requests misname the demon.",
+        "short_exact_anchor_if_recorded": "ハニル",
+        "basic_gloss": "Haniru.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P559 visitor: ハニルさん; printed misname, not true-name variant to silently register asalias.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 559,
+            "end_P": 559
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 501,
+          "end_P": 573
+        },
+        "exact_anchor_matches_within_windows": [
+          559
+        ],
+        "base_text_matches": [
+          559
+        ],
+        "reading_display_with_ruby_matches": [
+          559
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "Mundane crowd requests misname the demon.",
+      "current_short_form": "ハニル",
+      "basic_gloss": "Haniru.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Error wounds status; it does not create a real alias or a Japanese untranslatability requirement.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V041",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U018",
+      "native_member": "item/xhtml/p-009.xhtml",
+      "native_member_sha256": "d5abc4170957b86faba706015d5e798b225cae93183f046d9669617aff08bd97",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U018:P0024",
+        "speaker_addressee": "K narration",
+        "context": "He voluntarily scatters the cards after exclusion for luck.",
+        "short_exact_anchor_if_recorded": "実力行使するしかない",
+        "basic_gloss": "There was no choice but force.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P24 K: 実力行使するしかない; self-justifying actual coercive response, alternatives not proved absent.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 24,
+            "end_P": 24
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 1,
+          "end_P": 100
+        },
+        "exact_anchor_matches_within_windows": [
+          24
+        ],
+        "base_text_matches": [
+          24
+        ],
+        "reading_display_with_ruby_matches": [
+          24
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "He voluntarily scatters the cards after exclusion for luck.",
+      "current_short_form": "実力行使するしかない",
+      "basic_gloss": "There was no choice but force.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Necessity account is contradicted by voluntary act; no independent external compulsion known.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V042",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U018",
+      "native_member": "item/xhtml/p-009.xhtml",
+      "native_member_sha256": "d5abc4170957b86faba706015d5e798b225cae93183f046d9669617aff08bd97",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U018:P0170",
+        "speaker_addressee": "K to Angie",
+        "context": "She misread a staged Dust encounter.",
+        "short_exact_anchor_if_recorded": null,
+        "basic_gloss": "You tried to help.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": null,
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 170,
+            "end_P": 170
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 101,
+          "end_P": 200
+        },
+        "exact_anchor_matches_within_windows": [
+          170
+        ],
+        "base_text_matches": [
+          170
+        ],
+        "reading_display_with_ruby_matches": [
+          170
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": false
+      },
+      "independent_context_role_facts": "She misread a staged Dust encounter.",
+      "current_short_form": "助けようとしてくれた",
+      "basic_gloss": "You tried to help.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "K acknowledges good intent while correcting mistaken intervention; benefit and accuracy remain separable.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V043",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U018",
+      "native_member": "item/xhtml/p-009.xhtml",
+      "native_member_sha256": "d5abc4170957b86faba706015d5e798b225cae93183f046d9669617aff08bd97",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U018:P0197",
+        "speaker_addressee": "Angie to K",
+        "context": "She identifies actual advanced class and red-sword role.",
+        "short_exact_anchor_if_recorded": "ルーンナイト",
+        "basic_gloss": "Rune Knight.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P197 Angie: ルーンナイトアンジー; source actual personal/role identity first disclosure.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 197,
+            "end_P": 197
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 101,
+          "end_P": 200
+        },
+        "exact_anchor_matches_within_windows": [
+          197
+        ],
+        "base_text_matches": [
+          197
+        ],
+        "reading_display_with_ruby_matches": [
+          197
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "She identifies actual advanced class and red-sword role.",
+      "current_short_form": "ルーンナイト",
+      "basic_gloss": "Rune Knight.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Source role is not invented modern profession; later Sharpness/ore use supplies bounded competence witnesses.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V044",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U018",
+      "native_member": "item/xhtml/p-009.xhtml",
+      "native_member_sha256": "d5abc4170957b86faba706015d5e798b225cae93183f046d9669617aff08bd97",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U018:P0241",
+        "speaker_addressee": "Angie to K",
+        "context": "She corrects an assumption about adulthood.",
+        "short_exact_anchor_if_recorded": "十七",
+        "basic_gloss": "Seventeen.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P241 Angie: 私、十七なんだけど！; actual age statement controls new scene only.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 241,
+            "end_P": 241
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 201,
+          "end_P": 300
+        },
+        "exact_anchor_matches_within_windows": [
+          241
+        ],
+        "base_text_matches": [
+          241
+        ],
+        "reading_display_with_ruby_matches": [
+          241
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "She corrects an assumption about adulthood.",
+      "current_short_form": "十七",
+      "basic_gloss": "Seventeen.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Age admission fixes local equality later242, not every main-stage age or authority.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V045",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U018",
+      "native_member": "item/xhtml/p-009.xhtml",
+      "native_member_sha256": "d5abc4170957b86faba706015d5e798b225cae93183f046d9669617aff08bd97",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U018:P0328",
+        "speaker_addressee": "Vanir to K/Angie",
+        "context": "Drinks appear ahead of what K expects.",
+        "short_exact_anchor_if_recorded": "ただいまお持ちいたしました",
+        "basic_gloss": "I have just brought it.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P328 Vanir: ただいまお持ちいたしました; actual completed/past service before fully stated order, explicit contrast330.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 328,
+            "end_P": 328
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 301,
+          "end_P": 400
+        },
+        "exact_anchor_matches_within_windows": [
+          328
+        ],
+        "base_text_matches": [
+          328
+        ],
+        "reading_display_with_ruby_matches": [
+          328
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "Drinks appear ahead of what K expects.",
+      "current_short_form": "ただいまお持ちいたしました",
+      "basic_gloss": "I have just brought it.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Completed いたしました contrasted with future/requested いたします330 marks anticipatory service; translatable tense/pragmatics L2, not automaticL3.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V046",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U018",
+      "native_member": "item/xhtml/p-009.xhtml",
+      "native_member_sha256": "d5abc4170957b86faba706015d5e798b225cae93183f046d9669617aff08bd97",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U018:P0441",
+        "speaker_addressee": "Angie to K",
+        "context": "K dismisses humorous mineral names.",
+        "short_exact_anchor_if_recorded": "石の特徴を指定してるだけ",
+        "basic_gloss": "It only specifies the stones’ properties.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P441 Angie: 石の特徴を指定してるだけ; corrects K semantic/name contempt.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 441,
+            "end_P": 441
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 401,
+          "end_P": 500
+        },
+        "exact_anchor_matches_within_windows": [
+          441
+        ],
+        "base_text_matches": [
+          441
+        ],
+        "reading_display_with_ruby_matches": [
+          441
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "K dismisses humorous mineral names.",
+      "current_short_form": "石の特徴を指定してるだけ",
+      "basic_gloss": "It only specifies the stones’ properties.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "She gives actual semantic/technical correction, not expert status alone as proof of every claim.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V047",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U018",
+      "native_member": "item/xhtml/p-009.xhtml",
+      "native_member_sha256": "d5abc4170957b86faba706015d5e798b225cae93183f046d9669617aff08bd97",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U018:P0467",
+        "speaker_addressee": "Angie to K",
+        "context": "He moves behind her under slug attack.",
+        "short_exact_anchor_if_recorded": "盾にしないで",
+        "basic_gloss": "Do not use me as a shield.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P467 Angie: 盾にしないで！; explicit role/autonomy boundary in real protection.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 467,
+            "end_P": 467
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 401,
+          "end_P": 500
+        },
+        "exact_anchor_matches_within_windows": [
+          467
+        ],
+        "base_text_matches": [
+          467
+        ],
+        "reading_display_with_ruby_matches": [
+          467
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "He moves behind her under slug attack.",
+      "current_short_form": "盾にしないで",
+      "basic_gloss": "Do not use me as a shield.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Accepted protecting role does not authorize every physical use; explicit boundary persists alongside real defense.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V048",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U018",
+      "native_member": "item/xhtml/p-009.xhtml",
+      "native_member_sha256": "d5abc4170957b86faba706015d5e798b225cae93183f046d9669617aff08bd97",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U018:P0478",
+        "speaker_addressee": "Angie to K",
+        "context": "K invents a giant deadly slug name.",
+        "short_exact_anchor_if_recorded": "ナメギンチャク",
+        "basic_gloss": "Nameginchaku.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P478 Angie: ナメギンチャクよ; actual native monster identity correction.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 478,
+            "end_P": 478
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 401,
+          "end_P": 500
+        },
+        "exact_anchor_matches_within_windows": [
+          478
+        ],
+        "base_text_matches": [
+          478
+        ],
+        "reading_display_with_ruby_matches": [
+          478
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "K invents a giant deadly slug name.",
+      "current_short_form": "ナメギンチャク",
+      "basic_gloss": "Nameginchaku.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Plain native identity correction prevents importing his dramatized taxonomy as fact.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V049",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U018",
+      "native_member": "item/xhtml/p-009.xhtml",
+      "native_member_sha256": "d5abc4170957b86faba706015d5e798b225cae93183f046d9669617aff08bd97",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U018:P0500",
+        "speaker_addressee": "K to Angie",
+        "context": "He admits prior enemy detection without warning her.",
+        "short_exact_anchor_if_recorded": "言わなかっただけ",
+        "basic_gloss": "I simply did not say it.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P500 K: 気付いてましたけど／言わなかっただけ; actual knowledge/communication distinction, not lack of sensing ability.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 500,
+            "end_P": 500
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 401,
+          "end_P": 500
+        },
+        "exact_anchor_matches_within_windows": [
+          500
+        ],
+        "base_text_matches": [
+          500
+        ],
+        "reading_display_with_ruby_matches": [
+          500
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "He admits prior enemy detection without warning her.",
+      "current_short_form": "言わなかっただけ",
+      "basic_gloss": "I simply did not say it.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Agency/information withholding differs from lacking detection; usefulness does not equal shared knowledge.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V050",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U018",
+      "native_member": "item/xhtml/p-009.xhtml",
+      "native_member_sha256": "d5abc4170957b86faba706015d5e798b225cae93183f046d9669617aff08bd97",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U018:P0524",
+        "speaker_addressee": "Angie to K",
+        "context": "His stealth protects only himself.",
+        "short_exact_anchor_if_recorded": "私を置いて",
+        "basic_gloss": "Leaving me behind.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P524 Angie: 私を置いて、一人で潜伏使ったの!?; actual cooperative-boundary objection.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 524,
+            "end_P": 524
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 501,
+          "end_P": 600
+        },
+        "exact_anchor_matches_within_windows": [
+          524
+        ],
+        "base_text_matches": [
+          524
+        ],
+        "reading_display_with_ruby_matches": [
+          524
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "His stealth protects only himself.",
+      "current_short_form": "私を置いて",
+      "basic_gloss": "Leaving me behind.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "The partner’s objection exposes an uncoordinated implementation despite a successful local skill.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V051",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U018",
+      "native_member": "item/xhtml/p-009.xhtml",
+      "native_member_sha256": "d5abc4170957b86faba706015d5e798b225cae93183f046d9669617aff08bd97",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U018:P0577",
+        "speaker_addressee": "Angie to K",
+        "context": "His demonstrated skill changes a prior judgment.",
+        "short_exact_anchor_if_recorded": "雑魚扱いした事は謝るわ",
+        "basic_gloss": "I apologize for treating you as weak.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P577 Angie: 雑魚扱いした事は謝るわ; actual revised partner competence judgment.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 577,
+            "end_P": 577
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 501,
+          "end_P": 600
+        },
+        "exact_anchor_matches_within_windows": [
+          577
+        ],
+        "base_text_matches": [
+          577
+        ],
+        "reading_display_with_ruby_matches": [
+          577
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "His demonstrated skill changes a prior judgment.",
+      "current_short_form": "雑魚扱いした事は謝るわ",
+      "basic_gloss": "I apologize for treating you as weak.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Direct apology is genuine updating even though her later broader Axel model still resists evidence.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V052",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U018",
+      "native_member": "item/xhtml/p-009.xhtml",
+      "native_member_sha256": "d5abc4170957b86faba706015d5e798b225cae93183f046d9669617aff08bd97",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U018:P0582",
+        "speaker_addressee": "K to Angie",
+        "context": "Wanted flower displaced eye aim.",
+        "short_exact_anchor_if_recorded": "本音を言うと",
+        "basic_gloss": "To tell the truth.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P582 K: 本音を言うと、あの花ずっと欲しかった; explicit competing desire/aim mechanism, not skill inaccuracy alone.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 582,
+            "end_P": 582
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 501,
+          "end_P": 600
+        },
+        "exact_anchor_matches_within_windows": [
+          582
+        ],
+        "base_text_matches": [
+          582
+        ],
+        "reading_display_with_ruby_matches": [
+          582
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "Wanted flower displaced eye aim.",
+      "current_short_form": "本音を言うと",
+      "basic_gloss": "To tell the truth.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Admission fixes a competing desire; later money-driven recurrence is not wholly random bad aim.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V053",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U018",
+      "native_member": "item/xhtml/p-009.xhtml",
+      "native_member_sha256": "d5abc4170957b86faba706015d5e798b225cae93183f046d9669617aff08bd97",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U018:P0604",
+        "speaker_addressee": "Angie to K",
+        "context": "She intends costly stand instead of drawing danger to town.",
+        "short_exact_anchor_if_recorded": "後輩冒険者を守るのは",
+        "basic_gloss": "Protecting junior adventurers is…",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P604 Angie: 後輩冒険者を守るのは、先輩の仕事; genuinely costly role obligation, contrary to pure status-exploitation model.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 604,
+            "end_P": 604
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 601,
+          "end_P": 682
+        },
+        "exact_anchor_matches_within_windows": [
+          604
+        ],
+        "base_text_matches": [
+          604
+        ],
+        "reading_display_with_ruby_matches": [
+          604
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "She intends costly stand instead of drawing danger to town.",
+      "current_short_form": "後輩冒険者を守るのは",
+      "basic_gloss": "Protecting junior adventurers is…",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Role duty motivates real exposure, countering an exclusively status-seeking portrait.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V054",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U018",
+      "native_member": "item/xhtml/p-009.xhtml",
+      "native_member_sha256": "d5abc4170957b86faba706015d5e798b225cae93183f046d9669617aff08bd97",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U018:P0623",
+        "speaker_addressee": "K to Aqua",
+        "context": "He asks for actual ear injury care after blast.",
+        "short_exact_anchor_if_recorded": "ヒールください",
+        "basic_gloss": "Heal, please.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P623 K: ヒールください; explicit adopted fitted-care request followed actual624.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 623,
+            "end_P": 623
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 601,
+          "end_P": 682
+        },
+        "exact_anchor_matches_within_windows": [
+          623
+        ],
+        "base_text_matches": [
+          623
+        ],
+        "reading_display_with_ruby_matches": [
+          623
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "He asks for actual ear injury care after blast.",
+      "current_short_form": "ヒールください",
+      "basic_gloss": "Heal, please.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Simple direct request followed by624 actual Heal is an adopted fitted step, not generic spell availability.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V055",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U018",
+      "native_member": "item/xhtml/p-009.xhtml",
+      "native_member_sha256": "d5abc4170957b86faba706015d5e798b225cae93183f046d9669617aff08bd97",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U018:P0629",
+        "speaker_addressee": "Megumin to K",
+        "context": "She says she adjusted a blast without identifying the two people.",
+        "short_exact_anchor_if_recorded": "最小限のダメージ",
+        "basic_gloss": "The least damage.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P629 M: 最小限のダメージですむように調整しました; own stated control/ordinary cost acceptance, neither zero damage nor verified optimality.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 629,
+            "end_P": 629
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 601,
+          "end_P": 682
+        },
+        "exact_anchor_matches_within_windows": [
+          629
+        ],
+        "base_text_matches": [
+          629
+        ],
+        "reading_display_with_ruby_matches": [
+          629
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "She says she adjusted a blast without identifying the two people.",
+      "current_short_form": "最小限のダメージ",
+      "basic_gloss": "The least damage.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Her technical claim is bounded: actual injuries remain and no independently proven optimality/safe separation follows.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V056",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U018",
+      "native_member": "item/xhtml/p-009.xhtml",
+      "native_member_sha256": "d5abc4170957b86faba706015d5e798b225cae93183f046d9669617aff08bd97",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U018:P0650",
+        "speaker_addressee": "K to household",
+        "context": "He brings trophy and wants admiration.",
+        "short_exact_anchor_if_recorded": "チヤホヤしてくれ",
+        "basic_gloss": "Fuss over me.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P650 K: みんなでチヤホヤしてくれ; direct requested admiration, no universal covert selfeffacement.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 650,
+            "end_P": 650
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 601,
+          "end_P": 682
+        },
+        "exact_anchor_matches_within_windows": [
+          650
+        ],
+        "base_text_matches": [
+          650
+        ],
+        "reading_display_with_ruby_matches": [
+          650
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "He brings trophy and wants admiration.",
+      "current_short_form": "チヤホヤしてくれ",
+      "basic_gloss": "Fuss over me.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Open desire for praise is not hidden altruism or blanket deception; local voice can be straightforward.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V057",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U020",
+      "native_member": "item/xhtml/p-011.xhtml",
+      "native_member_sha256": "7dfeef069788d78369163887f61e61af87b38d1806c2c4e3ba0bde3c68c40712",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U020:P0028",
+        "speaker_addressee": "Darkness to Ignis",
+        "context": "She gives an honest administration failure account.",
+        "short_exact_anchor_if_recorded": "代わりを果たす事が出来ませんでした",
+        "basic_gloss": "I could not fulfill your role.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P28 D: 代わりを果たす事が出来ませんでした; genuine own failure acknowledgment.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 28,
+            "end_P": 28
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 1,
+          "end_P": 100
+        },
+        "exact_anchor_matches_within_windows": [
+          28
+        ],
+        "base_text_matches": [
+          28
+        ],
+        "reading_display_with_ruby_matches": [
+          28
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "She gives an honest administration failure account.",
+      "current_short_form": "代わりを果たす事が出来ませんでした",
+      "basic_gloss": "I could not fulfill your role.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Formal filial acknowledgment permits specific mentorship, not permanent helplessness.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V058",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U020",
+      "native_member": "item/xhtml/p-011.xhtml",
+      "native_member_sha256": "7dfeef069788d78369163887f61e61af87b38d1806c2c4e3ba0bde3c68c40712",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U020:P0031",
+        "speaker_addressee": "Ignis to Darkness",
+        "context": "He says training should have preceded assigning her.",
+        "short_exact_anchor_if_recorded": "私の責任だ",
+        "basic_gloss": "It is my responsibility.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P31 Ignis: 私の責任だ; own imposed training/role responsibility rather than scapegoating daughter.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 31,
+            "end_P": 31
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 1,
+          "end_P": 100
+        },
+        "exact_anchor_matches_within_windows": [
+          31
+        ],
+        "base_text_matches": [
+          31
+        ],
+        "reading_display_with_ruby_matches": [
+          31
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "He says training should have preceded assigning her.",
+      "current_short_form": "私の責任だ",
+      "basic_gloss": "It is my responsibility.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Public authority accepts an own duty; later menace/coercion still remain separately real.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V059",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U020",
+      "native_member": "item/xhtml/p-011.xhtml",
+      "native_member_sha256": "7dfeef069788d78369163887f61e61af87b38d1806c2c4e3ba0bde3c68c40712",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U020:P0068",
+        "speaker_addressee": "K to Ignis",
+        "context": "He is pressured into aiding a frightening ruler.",
+        "short_exact_anchor_if_recorded": "やるます",
+        "basic_gloss": "A malformed polite “I will.”",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P68 K: やるます; deformed polite compliance under another actor pressure, not own-leverage K08.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 68,
+            "end_P": 68
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 1,
+          "end_P": 100
+        },
+        "exact_anchor_matches_within_windows": [
+          68
+        ],
+        "base_text_matches": [
+          68
+        ],
+        "reading_display_with_ruby_matches": [
+          68
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "He is pressured into aiding a frightening ruler.",
+      "current_short_form": "やるます",
+      "basic_gloss": "A malformed polite “I will.”",
+      "current_L_class": "L1",
+      "form_and_function_warrant": "Morphological stumble makes fear/compliance visible; this is another actor’s leverage, not R1-K08own-pressure evidence.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V060",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U020",
+      "native_member": "item/xhtml/p-011.xhtml",
+      "native_member_sha256": "7dfeef069788d78369163887f61e61af87b38d1806c2c4e3ba0bde3c68c40712",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U020:P0103",
+        "speaker_addressee": "Cecily to Ignis",
+        "context": "Clergy is ordered out under official threat.",
+        "short_exact_anchor_if_recorded": "アンデッドぶっ殺してきます",
+        "basic_gloss": "I will go kill the undead.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P103 Cecily: アンデッドぶっ殺してきます; blunt compliance under official gaze, actual readiness not success.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 103,
+            "end_P": 103
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 101,
+          "end_P": 200
+        },
+        "exact_anchor_matches_within_windows": [
+          103
+        ],
+        "base_text_matches": [
+          103
+        ],
+        "reading_display_with_ruby_matches": [
+          103
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "Clergy is ordered out under official threat.",
+      "current_short_form": "アンデッドぶっ殺してきます",
+      "basic_gloss": "I will go kill the undead.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Coarse verb in polite future response reveals pressured bravado; departure161/return433 are distinct from this promise.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V061",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U020",
+      "native_member": "item/xhtml/p-011.xhtml",
+      "native_member_sha256": "7dfeef069788d78369163887f61e61af87b38d1806c2c4e3ba0bde3c68c40712",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U020:P0131",
+        "speaker_addressee": "Yunyun to Ignis",
+        "context": "He asks about Weather after she was wrongly grouped with offenders.",
+        "short_exact_anchor_if_recorded": "雨はイナゴの群れに効果的",
+        "basic_gloss": "Rain works against locust swarms.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P131 Yun: 雨はイナゴの群れに効果的; genuine domain inference beyond mere shy participation.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 131,
+            "end_P": 131
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 101,
+          "end_P": 200
+        },
+        "exact_anchor_matches_within_windows": [
+          131
+        ],
+        "base_text_matches": [
+          131
+        ],
+        "reading_display_with_ruby_matches": [
+          131
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "He asks about Weather after she was wrongly grouped with offenders.",
+      "current_short_form": "雨はイナゴの群れに効果的",
+      "basic_gloss": "Rain works against locust swarms.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Technical inference supports agency and useful role, but pardon/coercion guards bar automatic freely invited Y01confirmation.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V062",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U020",
+      "native_member": "item/xhtml/p-011.xhtml",
+      "native_member_sha256": "7dfeef069788d78369163887f61e61af87b38d1806c2c4e3ba0bde3c68c40712",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U020:P0139",
+        "speaker_addressee": "Yunyun to Angie",
+        "context": "Angie attributes Megumin’s assaults to the wrong Crimson Demon.",
+        "short_exact_anchor_if_recorded": "それ絶対私じゃない",
+        "basic_gloss": "That definitely was not me.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P139 Yun: それ絶対私じゃない！; actual innocence statement of different M assault history.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 139,
+            "end_P": 139
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 101,
+          "end_P": 200
+        },
+        "exact_anchor_matches_within_windows": [
+          139
+        ],
+        "base_text_matches": [
+          139
+        ],
+        "reading_display_with_ruby_matches": [
+          139
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "Angie attributes Megumin’s assaults to the wrong Crimson Demon.",
+      "current_short_form": "それ絶対私じゃない",
+      "basic_gloss": "That definitely was not me.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Direct self-defense contradicts global compliant-shyness; M’s concealed knowledge is separate.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V063",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U020",
+      "native_member": "item/xhtml/p-011.xhtml",
+      "native_member_sha256": "7dfeef069788d78369163887f61e61af87b38d1806c2c4e3ba0bde3c68c40712",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U020:P0215",
+        "speaker_addressee": "K to adventurers",
+        "context": "Officially addressed as aide205, he pressures familiar critics.",
+        "short_exact_anchor_if_recorded": "次に喋ったヤツはスティールすんぞ",
+        "basic_gloss": "I will Steal from whoever speaks next.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P215 K: 次に喋ったヤツはスティールすんぞ！; direct imposed sanction and insult under own current advisor leverage.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 215,
+            "end_P": 215
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 201,
+          "end_P": 300
+        },
+        "exact_anchor_matches_within_windows": [
+          215
+        ],
+        "base_text_matches": [
+          215
+        ],
+        "reading_display_with_ruby_matches": [],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "Officially addressed as aide205, he pressures familiar critics.",
+      "current_short_form": "次に喋ったヤツはスティールすんぞ",
+      "basic_gloss": "I will Steal from whoever speaks next.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Direct threat plus insults lacks predicted defensible civil contrast; explanatory clause is not itself mitigation.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V064",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U020",
+      "native_member": "item/xhtml/p-011.xhtml",
+      "native_member_sha256": "7dfeef069788d78369163887f61e61af87b38d1806c2c4e3ba0bde3c68c40712",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U020:P0238",
+        "speaker_addressee": "Aqua to K",
+        "context": "She adopts requested strength/luck support237.",
+        "short_exact_anchor_if_recorded": "任されたわ",
+        "basic_gloss": "Leave it to me.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P237 Aqrequest/P238 assent: 任されたわ！; adopted fitted assistance, actualexecution267–269 follows.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 238,
+            "end_P": 238
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 201,
+          "end_P": 300
+        },
+        "exact_anchor_matches_within_windows": [
+          238
+        ],
+        "base_text_matches": [
+          238
+        ],
+        "reading_display_with_ruby_matches": [
+          238
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "She adopts requested strength/luck support237.",
+      "current_short_form": "任されたわ",
+      "basic_gloss": "Leave it to me.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Confident acceptance precedes actual mass casts267/269; no outcome-only compatibility inference.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V065",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U020",
+      "native_member": "item/xhtml/p-011.xhtml",
+      "native_member_sha256": "7dfeef069788d78369163887f61e61af87b38d1806c2c4e3ba0bde3c68c40712",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U020:P0242",
+        "speaker_addressee": "Vanir to K",
+        "context": "He admits Wiz worked nonstop while he sold Flash products.",
+        "short_exact_anchor_if_recorded": "とうとう動かなく",
+        "basic_gloss": "She finally stopped moving.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P242 Vanir: 無休で働かせていたら、とうとう動かなく; direct serious adverse self-report of overwork beyond prior K rumor.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 242,
+            "end_P": 242
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 201,
+          "end_P": 300
+        },
+        "exact_anchor_matches_within_windows": [
+          242
+        ],
+        "base_text_matches": [
+          242
+        ],
+        "reading_display_with_ruby_matches": [
+          242
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "He admits Wiz worked nonstop while he sold Flash products.",
+      "current_short_form": "とうとう動かなく",
+      "basic_gloss": "She finally stopped moving.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Apparent business explanation preserves severe overwork as adverse agency, not harmless colleague banter.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V066",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U020",
+      "native_member": "item/xhtml/p-011.xhtml",
+      "native_member_sha256": "7dfeef069788d78369163887f61e61af87b38d1806c2c4e3ba0bde3c68c40712",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U020:P0278",
+        "speaker_addressee": "K narration",
+        "context": "He repeats wanted-flower mis-aim after previous admission582.",
+        "short_exact_anchor_if_recorded": "金になるのが悪い",
+        "basic_gloss": "It is the fault of being worth money.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "P278 K: 金になるのが悪い; explicit known reward distortion after repeat mis-aim, no pure chance excuse.",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 278,
+            "end_P": 278
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 201,
+          "end_P": 300
+        },
+        "exact_anchor_matches_within_windows": [
+          278
+        ],
+        "base_text_matches": [
+          278
+        ],
+        "reading_display_with_ruby_matches": [
+          278
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "He repeats wanted-flower mis-aim after previous admission582.",
+      "current_short_form": "金になるのが悪い",
+      "basic_gloss": "It is the fault of being worth money.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Reward externalization names own competing desire while trying to move blame to the object.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V067",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U020",
+      "native_member": "item/xhtml/p-011.xhtml",
+      "native_member_sha256": "7dfeef069788d78369163887f61e61af87b38d1806c2c4e3ba0bde3c68c40712",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U020:P0302",
+        "speaker_addressee": "Megumin to Darkness",
+        "context": "D offers hydra endurance/high-level reassurance301.",
+        "short_exact_anchor_if_recorded": "問題しかありませんよ",
+        "basic_gloss": "There is nothing but problems.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "Darkness301 大丈夫だ、問題ない！ / Megumin302 問題しかありませんよ",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 302,
+            "end_P": 302
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 301,
+          "end_P": 400
+        },
+        "exact_anchor_matches_within_windows": [
+          302
+        ],
+        "base_text_matches": [
+          302
+        ],
+        "reading_display_with_ruby_matches": [
+          302
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "D offers hydra endurance/high-level reassurance301.",
+      "current_short_form": "問題しかありませんよ",
+      "basic_gloss": "There is nothing but problems.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Direct inversion of 大丈夫だ、問題ない produces both comic rhythm and actual pre-danger dissent; L2context decisive.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V068",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U020",
+      "native_member": "item/xhtml/p-011.xhtml",
+      "native_member_sha256": "7dfeef069788d78369163887f61e61af87b38d1806c2c4e3ba0bde3c68c40712",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U020:P0377",
+        "speaker_addressee": "Vanir to Darkness",
+        "context": "She unilaterally extends their one-wing contract.",
+        "short_exact_anchor_if_recorded": "安過ぎる",
+        "basic_gloss": "Far too cheap.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "Darkness377 五千エリス上乗せ / Vanir 安過ぎる！",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 377,
+            "end_P": 377
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 301,
+          "end_P": 400
+        },
+        "exact_anchor_matches_within_windows": [
+          377
+        ],
+        "base_text_matches": [
+          377
+        ],
+        "reading_display_with_ruby_matches": [
+          377
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "She unilaterally extends their one-wing contract.",
+      "current_short_form": "安過ぎる",
+      "basic_gloss": "Far too cheap.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Parenthetical refusal competes for bodily speech/control; payment offer is not assent to extension.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V069",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U020",
+      "native_member": "item/xhtml/p-011.xhtml",
+      "native_member_sha256": "7dfeef069788d78369163887f61e61af87b38d1806c2c4e3ba0bde3c68c40712",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U020:P0383",
+        "speaker_addressee": "K to household",
+        "context": "D retains mask and Ignis is distressed.",
+        "short_exact_anchor_if_recorded": "早くバニルを救出するぞ",
+        "basic_gloss": "Rescue Vanir quickly.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "Kazuma383 早くバニルを救出するぞ！",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 383,
+            "end_P": 383
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 301,
+          "end_P": 400
+        },
+        "exact_anchor_matches_within_windows": [
+          383
+        ],
+        "base_text_matches": [
+          383
+        ],
+        "reading_display_with_ruby_matches": [
+          383
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "D retains mask and Ignis is distressed.",
+      "current_short_form": "早くバニルを救出するぞ",
+      "basic_gloss": "Rescue Vanir quickly.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Reversal makes the devil victim needing aid; K’s stated concern does not establish that aid actually wins group assent.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V070",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U020",
+      "native_member": "item/xhtml/p-011.xhtml",
+      "native_member_sha256": "7dfeef069788d78369163887f61e61af87b38d1806c2c4e3ba0bde3c68c40712",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U020:P0425",
+        "speaker_addressee": "Angie to K",
+        "context": "Exhausted returning protector is pushed before angry crowd426.",
+        "short_exact_anchor_if_recorded": "巻き込まれたくない",
+        "basic_gloss": "I do not want to be dragged in.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "Angie425 こんなバカな喧嘩に巻き込まれたくない！",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 425,
+            "end_P": 425
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 401,
+          "end_P": 500
+        },
+        "exact_anchor_matches_within_windows": [
+          425
+        ],
+        "base_text_matches": [
+          425
+        ],
+        "reading_display_with_ruby_matches": [
+          425
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "Exhausted returning protector is pushed before angry crowd426.",
+      "current_short_form": "巻き込まれたくない",
+      "basic_gloss": "I do not want to be dragged in.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Plain refusal remains real despite assumed mentor obligation and later group fighting.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V071",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U020",
+      "native_member": "item/xhtml/p-011.xhtml",
+      "native_member_sha256": "7dfeef069788d78369163887f61e61af87b38d1806c2c4e3ba0bde3c68c40712",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U020:P0465",
+        "speaker_addressee": "Megumin to Angie",
+        "context": "She defends K against presumed recruitment after displaying kill card.",
+        "short_exact_anchor_if_recorded": "私にとって大切な人",
+        "basic_gloss": "Someone important to me.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "Megumin465 私にとって大切な人なんです",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 465,
+            "end_P": 465
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 401,
+          "end_P": 500
+        },
+        "exact_anchor_matches_within_windows": [
+          465
+        ],
+        "base_text_matches": [
+          465
+        ],
+        "reading_display_with_ruby_matches": [
+          465
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "She defends K against presumed recruitment after displaying kill card.",
+      "current_short_form": "私にとって大切な人",
+      "basic_gloss": "Someone important to me.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Direct personal value coexists with polite structure and threat; neither performance nor casual register alone defines sincerity.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V072",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U020",
+      "native_member": "item/xhtml/p-011.xhtml",
+      "native_member_sha256": "7dfeef069788d78369163887f61e61af87b38d1806c2c4e3ba0bde3c68c40712",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U020:P0481",
+        "speaker_addressee": "Angie to K/group",
+        "context": "Revised Axel assessment follows names/cards and actual Resurrection.",
+        "short_exact_anchor_if_recorded": "駆け出し詐欺",
+        "basic_gloss": "A beginner fraud.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "Angie481 駆け出し詐欺",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 481,
+            "end_P": 481
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 401,
+          "end_P": 500
+        },
+        "exact_anchor_matches_within_windows": [
+          481
+        ],
+        "base_text_matches": [
+          481
+        ],
+        "reading_display_with_ruby_matches": [
+          481
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "Revised Axel assessment follows names/cards and actual Resurrection.",
+      "current_short_form": "駆け出し詐欺",
+      "basic_gloss": "A beginner fraud.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "She calls the town label misleading, not every resident omnipotent; subsequent collective draw is not a K solo win.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V073",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U020",
+      "native_member": "item/xhtml/p-011.xhtml",
+      "native_member_sha256": "7dfeef069788d78369163887f61e61af87b38d1806c2c4e3ba0bde3c68c40712",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U020:P0523",
+        "speaker_addressee": "K to Darkness",
+        "context": "He warns she might drive exhausted Vanir away again.",
+        "short_exact_anchor_if_recorded": "お前のセクハラが原因",
+        "basic_gloss": "Because of your sexual harassment.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "Kazuma523 お前のセクハラが原因で",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 523,
+            "end_P": 523
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 501,
+          "end_P": 541
+        },
+        "exact_anchor_matches_within_windows": [
+          523
+        ],
+        "base_text_matches": [
+          523
+        ],
+        "reading_display_with_ruby_matches": [
+          523
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "He warns she might drive exhausted Vanir away again.",
+      "current_short_form": "お前のセクハラが原因",
+      "basic_gloss": "Because of your sexual harassment.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Text itself diagnoses boundary harm, preventing a reading in which all pleasure or laughter supplies Vanir’s permission.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V074",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U020",
+      "native_member": "item/xhtml/p-011.xhtml",
+      "native_member_sha256": "7dfeef069788d78369163887f61e61af87b38d1806c2c4e3ba0bde3c68c40712",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U020:P0536",
+        "speaker_addressee": "Megumin to K",
+        "context": "She denies coyness while resenting another woman.",
+        "short_exact_anchor_if_recorded": "素直でド直球",
+        "basic_gloss": "Honest and completely direct.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "Megumin536 私はいつだって素直でド直球ですよ！",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 536,
+            "end_P": 536
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 501,
+          "end_P": 541
+        },
+        "exact_anchor_matches_within_windows": [
+          536
+        ],
+        "base_text_matches": [
+          536
+        ],
+        "reading_display_with_ruby_matches": [
+          536
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "She denies coyness while resenting another woman.",
+      "current_short_form": "素直でド直球",
+      "basic_gloss": "Honest and completely direct.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Self-description is a situated claim, checked against omitted assaults and theatrical deflections elsewhere.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V075",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U020",
+      "native_member": "item/xhtml/p-011.xhtml",
+      "native_member_sha256": "7dfeef069788d78369163887f61e61af87b38d1806c2c4e3ba0bde3c68c40712",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U020:P0532",
+        "speaker_addressee": "K to Megumin",
+        "context": "He keeps flower trophy rather than selling it.",
+        "short_exact_anchor_if_recorded": "あの先輩を忘れないように",
+        "basic_gloss": "So I do not forget that senior.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "Kazuma532 あの先輩を忘れないように",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 532,
+            "end_P": 532
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 501,
+          "end_P": 541
+        },
+        "exact_anchor_matches_within_windows": [
+          532
+        ],
+        "base_text_matches": [
+          532
+        ],
+        "reading_display_with_ruby_matches": [
+          532
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "He keeps flower trophy rather than selling it.",
+      "current_short_form": "あの先輩を忘れないように",
+      "basic_gloss": "So I do not forget that senior.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Particular memory value differs from fungible reward; sincere sentence and prior monetary temptation coexist.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "YORI04-WHOLE-V076",
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U021",
+      "native_member": "item/xhtml/p-012.xhtml",
+      "native_member_sha256": "f54ef6a37b7ac98848810fe678513b1dec17e59b96e51deae2b88f5d4964ac6d",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "YORI-04-U021:P0006",
+        "speaker_addressee": "Author to readers",
+        "context": "Afterword locates stories near latter main without exact mapping.",
+        "short_exact_anchor_if_recorded": "時系列についてはだいぶフワッと",
+        "basic_gloss": "The chronology is rather loose.",
+        "limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial."
+      },
+      "original_interval_witness_record_exact": "Author6 時系列についてはだいぶフワッとしています",
+      "original_interval_uncoded_notes_sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0",
+      "native_context_window": {
+        "intervals": [
+          {
+            "start_P": 6,
+            "end_P": 6
+          }
+        ],
+        "independently_read_parent_interval": {
+          "start_P": 1,
+          "end_P": 19
+        },
+        "exact_anchor_matches_within_windows": [
+          6
+        ],
+        "base_text_matches": [
+          6
+        ],
+        "reading_display_with_ruby_matches": [
+          6
+        ],
+        "current_fragment_selected_after_uncoded_seal": true,
+        "initial_sealed_fragment_recoverable": true
+      },
+      "independent_context_role_facts": "Afterword locates stories near latter main without exact mapping.",
+      "current_short_form": "時系列についてはだいぶフワッと",
+      "basic_gloss": "The chronology is rather loose.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Authorial source-plane disclaimer limits chronology certainty; it is not a fictional character’s behavior.",
+      "source_plane_and_adequacy_limit": "Actual written speaker/context only; a local form is not a universal voice rule, acoustic claim or independent model trial.",
+      "current_additional_qualifications": [
+        "Short current fragment was selected/verified after the whole uncoded seal. Original raw interval witness is preserved when present; no backdated formal selection or pristine blindness."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "formal_assignment_after_seal_utc": "2026-10-19T03:44:00.647760+00:00",
+      "no_audio_or_native_human_claim": true
+    }
+  ]
+}

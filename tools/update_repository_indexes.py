@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import argparse
+import json
 import re
 from pathlib import Path
 from typing import Any, Mapping
@@ -13,18 +14,26 @@ from character_index_core import (
     GitSnapshot,
     SnapshotEntry,
     atomic_write_text,
+    _restricted_yaml_load,
     decode_json,
     read_blob_objects,
     run_git,
 )
 
 
+AUTHORITY_STATE = "governance/AUTHORITY_STATE.yaml"
 SERIES_REGISTRY = "series/registry.json"
 STUDY_REGISTRY = "studies/registry.json"
 CHANGE_OBLIGATIONS = "governance/repository-controls/change-obligations.json"
 SERIES_README = "series/README.md"
 STUDIES_README = "studies/README.md"
 CORPUS_INDEX = "governance/MANGA_ANIME_CORPUS_INDEX.md"
+# Housekeeping's complete write set: the two registries and the three catalogs
+# rendered from them. Tools import this constant; the standalone nightly
+# controller keeps a copy that a regression test binds to it.
+ROUTING_OUTPUTS = frozenset(
+    {SERIES_REGISTRY, STUDY_REGISTRY, SERIES_README, STUDIES_README, CORPUS_INDEX}
+)
 SERIES_SCHEMA = "anime-manga-ln-games-analysis/series-registry/v2"
 STUDY_SCHEMA = "anime-manga-ln-games-analysis/study-registry/v1"
 
@@ -45,6 +54,7 @@ CORPUS_STUDY_MARKERS = (
     "<!-- END GENERATED CORPUS STUDY CATALOG -->",
 )
 CONTENT_PATHS = {
+    AUTHORITY_STATE,
     SERIES_REGISTRY,
     STUDY_REGISTRY,
     SERIES_README,
@@ -310,12 +320,20 @@ def _replace_generated_block(
 
 
 def expected_outputs(snapshot: GitSnapshot) -> dict[str, bytes]:
+    authority = snapshot.get(AUTHORITY_STATE)
+    if authority is None or not authority.qualifies_as_evidence:
+        raise DomainError("catalog generation requires the selected live authority state")
+    state = _restricted_yaml_load(authority.data.decode("utf-8", "strict"), AUTHORITY_STATE)
+    if not isinstance(state, Mapping) or not isinstance(state.get("state"), str) or not state["state"].strip():
+        raise DomainError("catalog generation requires a nonempty authority state")
     series_rows = _root_rows(
         _registry_rows(snapshot, SERIES_REGISTRY, "series", SERIES_SCHEMA), "series/"
     )
     study_rows = _root_rows(
         _registry_rows(snapshot, STUDY_REGISTRY, "studies", STUDY_SCHEMA), "studies/"
     )
+    registry = decode_json(snapshot.entries[SERIES_REGISTRY].data, SERIES_REGISTRY)
+    registry["status"] = state["state"]
     required_documents = (SERIES_README, STUDIES_README, CORPUS_INDEX)
     missing = [path for path in required_documents if snapshot.get(path) is None]
     if missing:
@@ -346,6 +364,7 @@ def expected_outputs(snapshot: GitSnapshot) -> dict[str, bytes]:
         render_corpus_studies(study_rows),
     )
     return {
+        SERIES_REGISTRY: (json.dumps(registry, ensure_ascii=False, indent=2) + "\n").encode("utf-8"),
         SERIES_README: series_readme,
         STUDIES_README: studies_readme,
         CORPUS_INDEX: corpus_index,

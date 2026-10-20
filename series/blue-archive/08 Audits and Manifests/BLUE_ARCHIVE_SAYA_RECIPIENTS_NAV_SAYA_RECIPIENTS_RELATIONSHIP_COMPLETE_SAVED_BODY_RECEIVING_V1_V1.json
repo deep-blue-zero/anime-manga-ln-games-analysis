@@ -194,5 +194,26 @@
   "all14_original_gaps": "OPEN_UNCHANGED",
   "R_Git_provider_writes": false,
   "proposal_installs_or_publishes_nothing": true,
-  "mandatory_operative_qualification": "All156 literary lines, six recipient question families,45 finite end cases and nine rivals retain distinct recipients, actual rest refusals, gifts, inquiry and restored Shun's own apology. Historical plan actor errors are qualified by the full operative source/precision receipts. Saya's character, Meihua and every separate directed responsibility remain distinct.27 adequate normal scopes and original mode/identity/chronology limits are preserved; copies add no original-primary credit."
+  "mandatory_operative_qualification": "All156 literary lines, six recipient question families,45 finite end cases and nine rivals retain distinct recipients, actual rest refusals, gifts, inquiry and restored Shun's own apology. Historical plan actor errors are qualified by the full operative source/precision receipts. Saya's character, Meihua and every separate directed responsibility remain distinct.27 adequate normal scopes and original mode/identity/chronology limits are preserved; copies add no original-primary credit. 2026-10-11 operative correction: The joint capture resolves the local collaborators/conduit; Kai and her larger project remain unresolved. The board-game trap punctures Saya's renewed boast before the later MomoTalk admission of loss and wish for a rematch; no rematch or future win is established. See operative_source_consistency_correction and its versioned register; historical wording is retained without current endorsement of these corrected details.",
+  "operative_source_consistency_correction": {
+    "register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEVEN_SOURCE_CONSISTENCY_CORRECTIONS_20261011_V1.json",
+    "correction_ids": [
+      "BA-SC-20261011-05",
+      "BA-SC-20261011-07"
+    ],
+    "qualification": "The joint capture resolves the local collaborators/conduit; Kai and her larger project remain unresolved. The board-game trap punctures Saya's renewed boast before the later MomoTalk admission of loss and wish for a rematch; no rematch or future win is established.",
+    "effective_canonical_body_exact_tuple": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SAYA_RECIPIENTS_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 50018,
+      "sha256": "aefc05761d2752ac238e1ad62fd96a3dc9f3f08492f0f981e7a73d852c69f50a",
+      "git_blob_oid_of_actual_bytes": "1dd2cf7e7930bd49a045588a48551914cba9a419"
+    },
+    "prior_canonical_body_exact_tuple": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SAYA_RECIPIENTS_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 49617,
+      "sha256": "c268fb7f5e8d34f865d4c7b995edc1af00505e3ff5761b062b1be44ba59c7b5e",
+      "git_blob_oid_of_actual_bytes": "3f5261d7f1cd0cc256fb6de1df9838d25e61adcf"
+    },
+    "preservation": "Original author/ROOT payloads, receipt decisions, source and paragraph hashes, attachment tuples, authority-framing snapshots and complete inverse ranges remain historical and unchanged. This dated correction governs current claim/endpoint use and the effective body binding; earlier canonical tuples and exact-unchanged-line labels describe the pre-correction snapshot. It does not claim new ROOT receiving, primary/media inspection, source admission, character identity, package, model, milestone or integration credit."
+  }
 }

@@ -6,7 +6,7 @@ The first execution-refinement release retains the complete repository audit and
 
 `tools/validate_repository.py` continues to validate the complete selected snapshot. Its optional `--timings-json` output records stage durations and shared-reader Git operations in a file outside the repository. Generated repository catalogs are checked against that same snapshot; standalone generator CLIs retain their own checks and regression coverage.
 
-`tools/audit_execution.py` discovers and runs the entire unittest suite. `--profile full` executes it with timings. `--profile shadow` additionally describes a possible future content selection, but executes the identical full suite. Scheduled audits use full; manual audits default to full; pushes and generated-commit dispatches use shadow. `prepare_commit.py --check --full` uses the same complete runner and executes the repository-index tests once rather than twice.
+`tools/audit_execution.py` discovers and runs the entire unittest suite. `--profile full` executes it with timings. `--profile shadow` additionally describes a possible future content selection, but executes the identical full suite. Scheduled audits use full; manual audits default to full; pushes and generated-commit dispatches use shadow. `prepare_commit.py --check --full` uses the same complete runner and executes the repository-index tests once rather than twice. When the caller has not set `MANGA_ANIME_TEST_TMP`, it supplies a disposable scratch directory, so the tests that build temporary Git repositories run locally instead of skipping.
 
 The three approved workflows, their privileges, the isolated status reporter, source-preflight pending state, five-file housekeeping boundary, final source certification, and mandatory fresh owner-dispatched post-merge audit remain unchanged. Housekeeping still requires its existing full staged gate. This release does not change merge eligibility.
 
@@ -14,7 +14,7 @@ The three approved workflows, their privileges, the isolated status reporter, so
 
 `../repository-controls/test-execution-policy.json` requires `selection_enabled: false`. The runner also enforces that condition in code. There is no content execution command or environment bypass in this release; changing the flag alone fails validation.
 
-`../../tools/tests/test-catalog.json` assigns every existing test an explicit responsibility, input description, and smoke designation. Tests inspecting real corpus state remain in the always-required group; mixed classes are conservatively retained there. The reconstruction production-absence assertion is a live-corpus guard, separate from its dormant synthetic assessment scenarios. The remaining assertion-level separation and dependency review are not claimed complete.
+`../../tools/tests/test-catalog.json` assigns every existing test an explicit responsibility, input description, and smoke designation. Tests inspecting real corpus state remain in the always-required group; mixed classes are conservatively retained there. The live reconstruction production-contract assertion is a live-corpus guard, separate from the `reconstruction_capability` group's synthetic assessment scenarios. The remaining assertion-level separation and dependency review are not claimed complete.
 
 The shadow classifier compares complete Git deltas with rename detection disabled. Unknown paths, changed controls, missing/unusable baselines, unregistered roots, incompatible runtimes, or uncatalogued tests propose full execution. Ordinary registered data and routing changes may propose content execution. Every proposed exclusion is reported, and actual execution remains full.
 
@@ -31,6 +31,8 @@ Snapshot acquisition uses one `git cat-file --batch` process after metadata enum
 A local Windows comparison at main commit `72014aaf9446b3260acbd4dfc1a6c927ced57a35` covered 3,440 paths and found identical path order, modes, tracked flags, and SHA-256 content digests between old and new readers. One old-reader measurement took 224.327 seconds; one batched-reader measurement took 2.062 seconds and four Git processes. These are snapshot-only observations on one machine, not CI latency estimates or statistical performance guarantees.
 
 ## Remaining rollout gates
+
+**Status (2026-10-15): paused.** No gate below has advanced since this release on 2026-09-09. Reduced execution stays disabled and every audit runs every test. The catalog stays required, because the runner validates it and its groups define the mandatory set; a resumed rollout starts from these gates.
 
 Before reduced execution is implemented and activated, complete the assertion/dependency review, authenticated successful-baseline handling, curated failure-mutation comparisons, at least seven days and twenty representative shadow audits, and all required stabilization full audits. Coordinate any changes to reporter outputs, nightly baseline dispatch fields, and workflow contracts as reviewed changes. Source/final/post-merge roles must retain their independent certification requirements.
 

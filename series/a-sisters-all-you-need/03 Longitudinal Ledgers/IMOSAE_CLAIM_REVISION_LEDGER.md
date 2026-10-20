@@ -1,18 +1,18 @@
 ---
 series: IMOSAE
 artifact_type: claim_revision_ledger
-scope: V01-V13
+scope: V01-V14
 generation: V1
-status: active_provisional
-source_boundary: Japanese numbered light novels read through V13
-current_reading_boundary: V13
-checkpoint_freeze: IMOSAE_V10-V12_CHECKPOINT.md
+status: canonical
+source_boundary: Japanese numbered light novels read through V14; nested fiction and paratext separately classed
+current_reading_boundary: V14
+checkpoint_freeze: IMOSAE_V13-V14_END_STATE_CHECKPOINT.md
 checkpoint_state: frozen
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-version: '1.16'
-date: '2026-08-20'
+version: '1.17'
+date: '2026-10-12'
 ---
 
 # IMOSAE Claim Revision Ledger
@@ -714,3 +714,62 @@ V13 tests frozen self-authorship claims under **institutionalization and circula
 ## Next update gate
 
 V14 is the only next semantic source. After V14, adjudicate the V13-V14 block before full-series synthesis.
+
+
+## V14 transitions — canonical / frozen final-block layer
+
+Authority is the V13–V14 end-state checkpoint. Earlier V13 active-provisional rows and older freezes remain historical; this section owns the current41 dispositions. Semantic horizon is the complete14 numbered Japanese novels, with no externally admitted supplements or authenticated projected futures.
+
+| Claim | V14 transition | Current bounded formulation | Evidence | Contrary limit |
+|---|---|---|---|---|
+| `IM-C001` | **STRENGTHEN** | Creative life includes maintaining family and several careers after success; a masterpiece creates fresh work and comparison rather than ending the system. | IM-V14-E003, IM-V14-E015, IM-V14-E024 | No general career-survival guarantee. |
+| `IM-C002` | **STRENGTHEN** | Talent and prestige remain real, while the winner judges a rival book greater and professional/editor fit stays domain-specific. | IM-V14-E008, IM-V14-E025 | Award cannot certify superior worth or total competence. |
+| `IM-C003` | **REVISE** | Legible, contestable authority remains necessary; autonomy and cultivation have different costs that no late institution fully resolves. | IM-V14-E012, IM-V14-E013 | Principle supported; no uniformly ethical institution achieved. |
+| `IM-C004` | **STRENGTHEN** | Meals, travel, alcohol, holidays and conventions mediate work and relationships; rituals can also support concealment or boundary evasion. | IM-V14-E004, IM-V14-E007, IM-V14-E010, IM-V14-E017 | Ritual is not automatic fairness. |
+| `IM-C005` | **STRENGTHEN** | Chihiro's sibling identity is ordinary care and critical intimacy while her independent technical/astronaut goal remains hers to disclose. | IM-V14-E004, IM-V14-E045, IM-V14-E047 | Achieved astronaut career is draft-only. |
+| `IM-C006` | **REVISE** | Fictional modeling can enable recognition and also wound identifiable people; imagined future interiors cannot become those people's biographies. | IM-V14-E042, IM-V14-E043, IM-V14-E044 | Itsuki's own dream defense is contested. |
+| `IM-C007` | **REVISE** | Vulgar comedy can disclose feeling and mark refusal but retains objectification, young-character eroticization and evasion not redeemed by later critique. | IM-V14-E004, IM-V14-E011, IM-V14-E017, IM-V14-E044 | Use critical non-graphic analysis. |
+| `IM-C008` | **REVISE** | Professional parity remains unnecessary for love; Miyako now owns a finite publication gate irrespective of comparative artistic success, fulfilled by dating. | IM-V14-E008, IM-V14-E009, IM-V14-E024 | Haruto's false report is not her actual condition. |
+| `IM-C009` | **STRENGTHEN** | Multiple situated readers and peers keep correcting each other; Chihiro's final reading specifically challenges the award winner's self-authority. | IM-V14-E014, IM-V14-E025, IM-V14-E045 | No single focalizer supplies everyone's truth. |
+| `IM-C010` | **STRENGTHEN** | Sales, awards, aesthetic judgment, domestic contentment, self-worth, ethics and romance remain separate dimensions after actual success. | IM-V14-E003, IM-V14-E015, IM-V14-E025, IM-V14-E046 | One result does not repair all dimensions. |
+| `IM-C011` | **STRENGTHEN** | Adulthood develops unevenly across work, household, romance, disclosure and ethics; accomplished creators still have childish or manipulative responses. | IM-V14-E008, IM-V14-E024, IM-V14-E046 | No terminal whole-person maturity proof. |
+| `IM-C012` | **PRESERVE** | Calculated craft and integrated personal address remain legitimate different creator grammars; the targeted finale is a specific project solution. | IM-V14-E015, IM-V14-E020, IM-V14-E022 | V14 does not separately test every legacy-series craft decision. |
+| `IM-C013` | **STRENGTHEN** | New art and recognition depend on author, editor, illustrator, readers and domestic support without erasing authored choices. | IM-V14-E021, IM-V14-E023, IM-V14-E024 | Exceptional favors and unequal resources are part of the causality. |
+| `IM-C014` | **REVISE** | Nonexclusive protagonist agency remains productive, but its public injunction can impose costs and shame; the draft offers a privileged child's hostile counterreading. | IM-V14-E025, IM-V14-E033, IM-V14-E035, IM-V14-E049 | Draft critique is represented fiction, not a real child's future belief. |
+| `IM-C015` | **REVISE** | Enacted family/kinship practice survives category corrections; authenticity does not authorize assigning relatives' imagined futures or treating all family gags as safe. | IM-V14-E004, IM-V14-E043, IM-V14-E048 | Correct family identity and ethical treatment remain distinct. |
+| `IM-C016` | **STRENGTHEN** | One-reader value remains a history of address: public works can target one particular reader and invite new authored answers; novice listening pleasure has different quality stakes. | IM-V14-E011, IM-V14-E020, IM-V14-E023, IM-V14-E024 | Audience size alone does not equate works or require publication. |
+| `IM-C017` | **REVISE** | Transformation can preserve an artistic priority while changing audience/form; the final manuscript shows that such transformation also needs representational care and research. | IM-V14-E020, IM-V14-E024, IM-V14-E045 | Not every adapted real-life model is ethically authorized. |
+| `IM-C018` | **STRENGTHEN** | Task-specific craft/passion integration enters another publicly completed work and illustrator partnership; later slump does not nullify earlier functional recovery. | IM-V14-E003, IM-V14-E021, IM-V14-E022 | Repertoire gained, permanent mastery unproved. |
+| `IM-C019` | **REVISE** | Support remains finite infrastructure; sole-agent dependence and year-long reserved illustrator capacity expose exceptional cost inside successful relationships. | IM-V14-E003, IM-V14-E021, IM-V14-E013 | Effectiveness is not demonstrated replaceability or sustainability. |
+| `IM-C020` | **STRENGTHEN** | Editing, mediation and illustration have real creative effects while authors/readers retain distinct choices and interpretive roles. | IM-V14-E014, IM-V14-E020, IM-V14-E021, IM-V14-E023 | Different editorial contributions cannot be universally ranked. |
+| `IM-C021` | **STRENGTHEN** | Career recoverability gains post-jump continuation and new terrain: Izumi's output and Kaizu's general-fiction success coexist with disappearing cohorts. | IM-V14-E002, IM-V14-E012, IM-V14-E015, IM-V14-E003 | Neither example guarantees later stability. |
+| `IM-C022` | **STRENGTHEN** | Reception changes production and value judgments: a masterpiece burdens later books, mixed response precedes an award, and an answering derivative work loses institutionally despite Itsuki's esteem. | IM-V14-E003, IM-V14-E022, IM-V14-E025 | Represented reception is not an external survey. |
+| `IM-C023` | **OPEN** | Role-sensitive intervention remains an ethical problem: genuine choices coexist with arranged travel, misreporting, concentrated labor and unauthorized portraits. | IM-V14-E006, IM-V14-E009, IM-V14-E043, IM-V14-E045 | Specific gains do not settle universal intervention legitimacy. |
+| `IM-C024` | **STRENGTHEN** | Bonds continue by changing their terms: marriage/parenthood, professional rivalry, actual dating, rejected love and sibling criticism retain relationships without total agreement. | IM-V14-E015, IM-V14-E014, IM-V14-E024, IM-V14-E047 | Cohabitation and emotional extinction unshown. |
+| `IM-C025` | **OPEN** | Nayuta owns renewed creative desire, a new sequel and a domestic-support request; these add agency without proving the entire earlier effort/lovability/dependence mechanism resolved. | IM-V14-E019, IM-V14-E023, IM-V14-E024 | Retirement had value; influence remains ethically pressured. |
+| `IM-C026` | **STRENGTHEN** | Creator tastes and sufficient goods remain plural: Kaizu's family-first craft, Itsuki's rivalry and different editor-fit judgments cannot form a universal tribunal. | IM-V14-E015, IM-V14-E008, IM-V14-E025 | Preference is not total authority. |
+| `IM-C027` | **STRENGTHEN** | Publication form actively controls authority: image completes speech, two afterwords misdirect/reclassify, and a returned present nests the future manuscript. | IM-V14-E073, IM-V14-E027, IM-V14-E042, IM-V14-E050 | Package MAIN_NARRATIVE does not erase embedded levels. |
+| `IM-C028` | **REVISE** | Miyako's editorial vocation is demonstrably mature and specialized, with recognized failure ranges and concentrated management burden. | IM-V14-E012, IM-V14-E008, IM-V14-E020 | No universal editor mastery or assured sustainability. |
+| `IM-C029` | **STRENGTHEN** | Public circulation continues through fame, criticism, mixed audiences and award; identifiable private people also become contested manuscript subjects. | IM-V14-E003, IM-V14-E022, IM-V14-E043 | Exposure does not create ownership or adequate consent. |
+| `IM-C030` | **STRENGTHEN** | Several sufficient lives remain legitimate: domestic contentment, art as means, renewed rivalry and an undisclosed technical goal coexist. | IM-V14-E015, IM-V14-E019, IM-V14-E047, IM-V14-E049 | No single final vocation prescribed. |
+| `IM-C031` | **STRENGTHEN** | Diversified identity supports continued agency: Chihiro has care, research, criticism and a separate goal; Miyako recognizes competence before the romance gate. | IM-V14-E004, IM-V14-E005, IM-V14-E008, IM-V14-E047 | Buffering pain is not eliminating it. |
+| `IM-C032` | **REVISE** | Repeatable communication and distributed maintenance remain valid criteria, while deceit and exceptional sole-person labor show they are unevenly achieved. | IM-V14-E003, IM-V14-E009, IM-V14-E021, IM-V14-E043 | Normative criterion must not be reported as universal late fact. |
+| `IM-C033` | **REVISE** | Communication's precision and channel matter: true promise differs from LINE lie, labor request names an enabling condition, reader criticism demands accountable revision. | IM-V14-E008, IM-V14-E009, IM-V14-E023, IM-V14-E045 | Late intimacy does not guarantee truthful reporting. |
+| `IM-C034` | **STRENGTHEN** | Accountable discretion requires legibility and contestability; institutional debate and Chihiro's challenge extend the earlier creator/editor case without dissolving role differences. | IM-V14-E013, IM-V14-E043, IM-V14-E045 | Benevolent motive or correct expertise is insufficient. |
+| `IM-C035` | **STRENGTHEN** | Vocation ownership stays dynamic and personal: Miyako's style has limits, Kaizu changes terrain, Nayuta makes new art, Chihiro chooses her own undisclosed direction. | IM-V14-E012, IM-V14-E015, IM-V14-E023, IM-V14-E047 | Future job achievement must remain unknown. |
+| `IM-C036` | **OPEN** | Games retain relational/formal importance; the draft's collaborative GM-to-stage story tests privileged identity formation but supplies no actual adolescent forecast. | IM-V14-E032, IM-V14-E033, IM-V14-E037, IM-V14-E042 | Earlier real cases preserved; new nested evidence cannot close broad real-life mechanism. |
+| `IM-C037` | **STRENGTHEN** | Itsuki's reauthored creative identity can make new public art and continued rival address; a fresh slump and childish frame response expose continuing revision. | IM-V14-E003, IM-V14-E020, IM-V14-E022, IM-V14-E046 | Reauthorship is not restoration of untouched old self. |
+| `IM-C038` | **STRENGTHEN** | Functional craft, identity integration, relational work and self-worth stay distinct and project-dependent through late achievement and renewed insecurity. | IM-V14-E003, IM-V14-E008, IM-V14-E023, IM-V14-E025 | V11 functional recovery remains real, not retrospectively erased. |
+| `IM-C039` | **OPEN** | Influence creates stakes without ownership: Nayuta answers as author, yet aggressive recruitment and unauthorized future portraits complicate how refusal is preserved. | IM-V14-E022, IM-V14-E023, IM-V14-E043, IM-V14-E044 | No universal ethical absolution through a successful response. |
+| `IM-C040` | **STRENGTHEN** | Chosen shared risk recurs in actual marriage/parenthood and creative/romantic negotiation, with grief and new obstacles preserved. | IM-V14-E015, IM-V14-E023, IM-V14-E024 | Bounded recurrence; no guaranteed painless or permanent family outcome. |
+| `IM-C041` | **OPEN** | Distributed maintenance is repeatedly justified as a criterion but remains uneven: family support broadens care while sole-agent dependence, favors and deceit concentrate cost. | IM-V14-E003, IM-V14-E004, IM-V14-E021, IM-V14-E009 | No empirical claim of universally sustainable late communities. |
+
+### Final-block routing synthesis
+
+C008 revises indefinite readiness into finite publication regardless of comparative victory. C016 strengthens address-as-history through a public particular-reader work and answer; C006/C017 carry the living-person modeling qualification. C014 retains productive nonexclusive agency while qualifying universal motivational use. C023/025/036/039/041 remain OPEN at their stated mechanism/ethical ceilings. C040 gains actual parenthood/shared-risk recurrence without permanent painless outcome claims.
+
+The manuscript frame is TF about represented fiction, not TF of future occurrence. LF still means linguistic fact. Names and G005 corrections are routed through the primary errata, not new raw releases. All prior claim IDs and historical formulations remain intact.
+
+### Next update gate
+
+Mature specialists may use this frozen layer after full ledger synchronization. New primary sources or factual corrections need an explicit scope/delta, not a rewritten old freeze.

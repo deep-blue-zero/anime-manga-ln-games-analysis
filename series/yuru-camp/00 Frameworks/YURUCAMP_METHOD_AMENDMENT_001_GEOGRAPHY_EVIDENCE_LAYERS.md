@@ -3,7 +3,12 @@ title: "Yuru Camp Method Amendment 001 — Geography Evidence Layers"
 series: "ゆるキャン△ / Yuru Camp△"
 document_type: "method_amendment"
 applies_to: "YURUCAMP_ANALYTICAL_METHOD_V1.md"
-status: "active"
+artifact_type: method_amendment
+status: canonical
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+authority_metadata_reconciled: "2026-10-17"
 adopted: "2026-08-14"
 ---
 

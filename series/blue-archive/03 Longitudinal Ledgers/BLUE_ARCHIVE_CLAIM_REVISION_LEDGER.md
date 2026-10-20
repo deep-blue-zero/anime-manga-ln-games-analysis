@@ -11,7 +11,7 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-10-09
+updated: 2026-10-16
 ---
 
 # BLUE ARCHIVE CLAIM REVISION LEDGER
@@ -4021,3 +4021,30 @@ Love's actual applicable public comparison is accepted Event851 and MINI70008020
 PRESERVE rejection of generic adult omnipotence and source-mode identity collapse. REVISE any stronger synopsis of harmless weakened powers, total incapacity, gratitude-as-consent or only-future outcomes against Mikoto10079E006 completed repair/refund, Misaki10080E005 qualified intervention, Ruiko26011E006 actual improvement and Miku20007E006 completed performance. OPEN exact technical/medical/contractual aftermath, guest continuity and chronology. REJECT sparse Shuerin writing as worthless or secret fields as known age. This is bounded literary adjudication, with no model/readiness/global-chronology promotion.
 
 Exact source/scene/message and written-condition recovery is in the current collaboration39 and Shuerin1 normal accounts, together with the Love10/Aoba10 and Anna/Erina20 accounts. No performed audio, universal calendar, authenticated secret identity, clinical/legal/technical certification or model promotion follows. All14 original gaps remainOPEN.
+
+### 2026-10-11: seven bounded Phase 3 source-consistency corrections
+
+The [operative correction register](../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SEVEN_SOURCE_CONSISTENCY_CORRECTIONS_20261011_V1.json) binds the prior and corrected bodies, accepted derived-source locations, and retained claim/endpoint repetitions. These are owner-authorized retrospective corrections; frozen author submissions and receipts retain their original wording. No new primary/media, source-admission, identity, package, model, milestone or integration credit follows.
+
+| Correction / claim | Transition | Current formulation | Accepted evidence |
+|---|---|---|---|
+| BA-SC-20261011-01 / HA016 | REVISE | Hina mistakes Ako's invitation for Ako's disguised leave request and apologizes that Ako should not have to lie for time off. | MINI32 in the correction register |
+| BA-SC-20261011-02 / Prefect force paragraph at base line 120 | REVISE | Chinatsu requests no resistance; the request does not establish whether resistance occurred. | GROUP1101-1104 in the correction register |
+| BA-SC-20261011-03 / GPE007 | REVISE | Reported receptor categories differ from mint preferences: Haruna dislikes mint, Junko tolerates it, and Izumi enjoys it. The fictional explanation and informal results do not validate biology. | GROUP1101-1104 in the correction register |
+| BA-SC-20261011-04 / GPE023, GPE-END-037 | REVISE | Akari pressures Sensei in their private cafeteria practice before a future public chocolate contest; Sensei's objections and unfinished portion remain. | EVENT810009 in the correction register |
+| BA-SC-20261011-05 / SR008 | REVISE | The joint capture resolves the local collaborators/conduit; Kai and her larger project remain unresolved. | EVENT826 in the correction register |
+| BA-SC-20261011-06 / HA021 | REVISE | Ako's imagined report is twenty-thousand characters, not words; it remains an internal demand. | AKO in the correction register |
+| BA-SC-20261011-07 / SR020, E08 | REVISE | The board-game trap punctures Saya's renewed boast before the later MomoTalk admission of loss and wish for a rematch; no rematch or future win is established. | N06 in the correction register |
+
+## Kei source-fidelity corrections — 2026-10-16
+
+The [correction record](../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_SOURCE_FIDELITY_CORRECTIONS_20261016.json) binds the complete Japanese three-scene recheck, exact old/new clauses, affected retained review copies, and current byte/locator routing. The prior source account and reviewer decisions retain their dated scopes; repository validation is separate from source-fidelity adjudication.
+
+| Claim / dependency | Transition | Current formulation | Evidence |
+|---|---|---|---|
+| KEI-P015 and literal copy | REVISE | Kei's current body had apparently been destined for disposal; neither completed disposal nor an earlier body's disposal is reported. The pickup wording is a simile. | private002 u0025/u0031; pinned raw GroupId1013502, DataList234169/234175 |
+| KEI-P023 / KEP042 and retained copies | REVISE | Not bad evaluates school. The later arcade invitation, acknowledged prior enjoyment and unshown future visit remain distinct. | private005 u0053–0054/u0073–0080; GroupId1013505 |
+| KEP051 / KEP073 / KEP090 / KEP094 and dependent reasons | REVISE | Kei recognizes the danger that her criticism will impose her wishes on the makers. This supports respect for others' creative agency, not a reversal into others imposing those game preferences on her. | private006 choice011/u0056–0063; GroupId1013506, DataList234534/234537/234540–234548 |
+| KEI-P026/P027/P053/P057/P061/P067, KE06 and source-account line115 | REVISE | Agreement with the caution and feeling understood are shown. Acceptance of a new feedback proposal, changed subsequent practice and completed design are not established. | Same private006 exchange; exact dependent replacements and historical qualifications in the correction record |
+
+These corrections retain the existing package, named-section, source-admission, identity and model boundaries and leave all fourteen original gaps open.

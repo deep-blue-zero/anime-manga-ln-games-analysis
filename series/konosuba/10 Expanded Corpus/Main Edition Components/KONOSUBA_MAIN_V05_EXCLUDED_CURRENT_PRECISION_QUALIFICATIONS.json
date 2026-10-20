@@ -1,0 +1,136 @@
+{
+  "schema": "KONOSUBA_MAIN05_EXCLUDED_CURRENT_PRECISION_V1",
+  "source_id": "MAIN-05",
+  "findings": [
+    {
+      "id": "M05EX-Q01",
+      "finding": "IMG012 is Yunyun's father's letter, initially taken seriously, not proof of his death. U014P75-85 separates it from the second sheet; U020P71-84 reports his theatrical greeting and the dispute over retaining the base as an attraction.",
+      "authored_after_seal_utc": "2026-10-19T09:20:52.691407+00:00"
+    },
+    {
+      "id": "M05EX-Q02",
+      "finding": "IMG013 is Arue's fiction, not a true prophecy: U014P112-125 identifies title/author, different handwriting and shared postage. Its alleged survivor/child future never occurred in this component.",
+      "authored_after_seal_utc": "2026-10-19T09:20:52.691407+00:00"
+    },
+    {
+      "id": "M05EX-Q03",
+      "finding": "IMG014 identifies Yunyun only through the admitted chapter, not a facial-expression diagnosis; the immediate document-reliability episode is shared with IMG012/013.",
+      "authored_after_seal_utc": "2026-10-19T09:20:52.691407+00:00"
+    },
+    {
+      "id": "M05EX-Q04",
+      "finding": "IMG015 depicts the actual plant monster Anraku Shoujo/安楽少女, not a named child, elf victim or imagined slave. U014P321-368 establishes mimicked injury/clothes and the guide's account; species knowledge and alleged victim history are separate from observation.",
+      "authored_after_seal_utc": "2026-10-19T09:20:52.691407+00:00"
+    },
+    {
+      "id": "M05EX-Q05",
+      "finding": "U014P378-442 retains Kazuma's moral conflict and actual decision to spare the monster. He infers no previous victims from its speech atP440; this is not established fact. Aqua's IMG016 advice atP407-409 is actual quoted advice, not proof that all choices are equally good.",
+      "authored_after_seal_utc": "2026-10-19T09:20:52.691407+00:00"
+    },
+    {
+      "id": "M05EX-Q06",
+      "finding": "IMG017 extends the camp conversation: U015P52-64 is Megumin's concern about departure and ordinary shared life; U017P1-16 supplies actual hand-holding and Kazuma's interpretation. Reader knowledge is not mutual settled commitment.",
+      "authored_after_seal_utc": "2026-10-19T09:20:52.691407+00:00"
+    },
+    {
+      "id": "M05EX-Q07",
+      "finding": "IMG018 is an actual coercive pursuit after Kazuma's mistaken genre expectation. U017P175-199 explains whose danger is recognized; U019P1-25 shows restraint/escape struggle and a new provider's spell beginning. No completed intercourse, consent or actual divine punishment is credited.",
+      "authored_after_seal_utc": "2026-10-19T09:20:52.691407+00:00"
+    },
+    {
+      "id": "M05EX-Q08",
+      "finding": "IMG019's mustached man is Yunyun's father/chief, U020P69-86. Do not identify him as Bukkororii or Hyoizaburo.",
+      "authored_after_seal_utc": "2026-10-19T09:20:52.691407+00:00"
+    },
+    {
+      "id": "M05EX-Q09",
+      "finding": "IMG020's parents are Hyoizaburo and Yuiyui, U020P191-205; Aqua's moving-cup performanceP174-185 is actual. Darkness/Kazuma's magnet explanation is an inference undercut by Aqua's visible hand position; no invisible technique is certified.",
+      "authored_after_seal_utc": "2026-10-19T09:20:52.691407+00:00"
+    },
+    {
+      "id": "M05EX-Q10",
+      "finding": "IMG021 is Yuiyui's account of Megumin's letters: U020P249-257 introduces it; U022P2-18 resumes the parents' reported account and Kazuma's response. It is a montage of attributed allegations/recollections, not several new direct observations. Hyoizaburo's positive party account also remains attributed.",
+      "authored_after_seal_utc": "2026-10-19T09:20:52.691407+00:00"
+    },
+    {
+      "id": "M05EX-Q11",
+      "finding": "IMG022 is the shrine's cat-ear figurine, visually styled like Aqua, not Aqua in a costume. U023P42-53 explicitly identifies the object and Aqua's displeasure at equivalent worship. The inherited traveler's provenance is reported, not demonstrated divine efficacy.",
+      "authored_after_seal_utc": "2026-10-19T09:20:52.691407+00:00"
+    },
+    {
+      "id": "M05EX-Q12",
+      "finding": "IMG023-024 are one spoken hypothetical maid demand sequence during Kazuma's coercive interpersonal display, introduced by U023P630 and resumed inU026P1-2. Kazuma actually speaks/proposes; the illustrated service/compliance is not an enacted agreement.",
+      "authored_after_seal_utc": "2026-10-19T09:20:52.691407+00:00"
+    },
+    {
+      "id": "M05EX-Q13",
+      "finding": "IMG025 is Sylvia's actual integration with the weapon: U027P90-113 identifies the metallic serpentine lower body and Mage Killer. Her self-description and observer recognition are separated; it is not a second battle.",
+      "authored_after_seal_utc": "2026-10-19T09:20:52.691407+00:00"
+    },
+    {
+      "id": "M05EX-Q14",
+      "finding": "IMG026 depicts Yunyun with a wand, not a proved curved blade. U027P455-488 describes lightning presentation, then waiting and dodging as part of a coordinated plan. Kazuma's shame/future-self-harm commentaryP476-479 is his speculative framing, not Yunyun's stated intent or a future event.",
+      "authored_after_seal_utc": "2026-10-19T09:20:52.691407+00:00"
+    },
+    {
+      "id": "M05EX-Q15",
+      "finding": "IMG027 accompanies Megumin's smile at U028P229-232 after the actual card intervention. U028P169-219 keeps her requested advanced-magic selection, Kazuma's contrary Explosion allocation, her discovery and pleased response distinct. Later pleasure is not retroactive permission for his specific substitution.",
+      "authored_after_seal_utc": "2026-10-19T09:20:52.691407+00:00"
+    },
+    {
+      "id": "M05EX-Q16",
+      "finding": "Front IMG005 quotes Aqua's actual unsolicited self-introduction atU019P263-267; its combined other panels are compositional and do not establish a new chronological sequence.",
+      "authored_after_seal_utc": "2026-10-19T09:20:52.691407+00:00"
+    },
+    {
+      "id": "M05EX-Q17",
+      "finding": "Front IMG006 joins U023P368-405: explicit non-action trust, cold proximity, hand-holding and Kazuma's concealed frozen-window concern remain distinct. No sexual act, adult settled relationship or universal permission is supplied.",
+      "authored_after_seal_utc": "2026-10-19T09:20:52.691407+00:00"
+    },
+    {
+      "id": "M05EX-Q18",
+      "finding": "Front IMG007 echoes U023P187-223: Darkness actually blocks entry; Sylvia infers deliberate feints, which Kazuma calls a misunderstanding. Protection and provocative language coexist; alleged tactical precision is not confirmed.",
+      "authored_after_seal_utc": "2026-10-19T09:20:52.691407+00:00"
+    },
+    {
+      "id": "M05EX-Q19",
+      "finding": "24newresources58P comprises14afterword slots and44other wrapper/credit/navigation slots. No separately supplied prose bonus exists in this admitted edition;12acceptedprincipal members3417P are retained withzero newprincipal pass credit.",
+      "authored_after_seal_utc": "2026-10-19T09:20:52.691407+00:00"
+    },
+    {
+      "id": "M05EX-Q20",
+      "finding": "37unique images actually viewed. Reused assets, two-page continuations, front composites, chapter headers and previews do not create37new narrative events or any new independent forecast test.",
+      "authored_after_seal_utc": "2026-10-19T09:20:52.691407+00:00"
+    },
+    {
+      "id": "M05EX-Q21",
+      "finding": "IMG009 is Arue-credited tourism material; legends, business promotion and Megumin's self-presentation remain attributed. Uncertain decorative title/classmate readings are explicitly unresolved and cannot establish normalized entities.",
+      "authored_after_seal_utc": "2026-10-19T09:20:52.691407+00:00"
+    },
+    {
+      "id": "M05EX-Q22",
+      "finding": "IMG010 is a schematic map; attractive labels do not establish scale, actual visits or demonstrated powers. Local location claims require their own native joins before modeling.",
+      "authored_after_seal_utc": "2026-10-19T09:20:52.691407+00:00"
+    },
+    {
+      "id": "M05EX-Q23",
+      "finding": "IMG011 prints Megumin14/Yunyun14/Darkness18/Kazuma16/Wiz20 and other age/job limits. Preserve the earlier Yunyun13 edition profile as dated history; no automatic retrospective birthday or erased prior evidence.",
+      "authored_after_seal_utc": "2026-10-19T09:20:52.691407+00:00"
+    },
+    {
+      "id": "M05EX-Q24",
+      "finding": "U030afterword is creator nonfiction. Drama-CD decision/new writing and manga meetings are contemporaneous production reports/plans; no future completion or fictional causality follows.",
+      "authored_after_seal_utc": "2026-10-19T09:20:52.691407+00:00"
+    },
+    {
+      "id": "M05EX-Q25",
+      "finding": "IMG028 illustrator preferences andIMG029 future promotion remain separate from characters' inner states. The first-princess proposal is not a direct Iris act or a retargeting ofI01/I02.",
+      "authored_after_seal_utc": "2026-10-19T09:20:52.691407+00:00"
+    },
+    {
+      "id": "M05EX-Q26",
+      "finding": "All39R1behavioral rows are explicitly not new eligible enactment trials in this edition-component tranche. Existing events support bounded informed calibration only; four typed constraints, old secondary forecasts, four scores and14Dustfuture blanks remain exact. No full secondary tier or mature model is earned merely from these paratexts.",
+      "authored_after_seal_utc": "2026-10-19T09:20:52.691407+00:00"
+    }
+  ]
+}

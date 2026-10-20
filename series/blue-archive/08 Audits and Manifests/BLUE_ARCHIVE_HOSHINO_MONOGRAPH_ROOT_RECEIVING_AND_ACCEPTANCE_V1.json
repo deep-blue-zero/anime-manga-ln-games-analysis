@@ -65,4 +65,40 @@
   "public_input_receipt": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HOSHINO_MONOGRAPH_INPUT_RECEIPTS_V1.json",
   "public_claim_register": null,
   "historical_receiving_flags_retained": "N, publication and main state refer to the dated receiving event; current full-cast scope is separately indexed."
+,
+  "composed_current_analytical_body_binding_successor_20261012_v1": {
+  "register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_CONSISTENCY_AUDIT_20261012_V1.json",
+  "current_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json",
+  "exact_named_preceding_body_binding_locations": [
+    {
+      "preserved_original_pointer": "/canonical_derivative/sha256",
+      "preserved_literal_sha256_value": "0de0b375709495532066d3f81c6cc9c1ded68d11f445541663747b98e364fcbc",
+      "analytical_body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HOSHINO_CHARACTER_MONOGRAPH.md",
+      "preceding_body_exact_tuple": {
+        "bytes": 53010,
+        "sha256": "0de0b375709495532066d3f81c6cc9c1ded68d11f445541663747b98e364fcbc"
+      },
+      "current_composed_body_exact_tuple": {
+        "bytes": 53422,
+        "sha256": "e61edcabb396a936093b9292854df37d92f32f9e770bf164cd52a2e1f57e3c11"
+      },
+      "interpretation": "ORIGINAL_FROZEN_OR_PRECEDING_ANALYTICAL_WITNESS_RETAINS_ITS_BINDING;CURRENT_MUTABLE_BODY_RESOLVES_TO_SEPARATE_COMPOSED_SUCCESSOR;NO_SOURCE_HASH_REBIND_OR_NEW_RECEPTION"
+    }
+  ],
+  "original_fields_hashes_decisions_inverses": "IMMUTABLE",
+  "new_source_package_identity_model_milestone_credit": 0
+},
+  "current_source_consistency_qualification_GROUP2101_2102_V1": {
+  "source": "629d39d2e3873e8e07a4d54db0c26dff06ed0775",
+  "overrides_retained_frozen_field": "/semantic_grounds/1",
+  "retained_field_verbatim": "Exceptional solitary responsibility repeatedly excludes peers; threat to Nonomi, forced exercise and pursuit after refusal remain adverse conduct beside protection and apologies.",
+  "current_operative_meaning": "The GROUP2101–2102 clause in the retained original ground is superseded at current admitted analytical grade: Ayane arranges ordinary paid gym garbage cleaning and is absent ill; the four go to a wrong gym and reinterpret garbage as villains. Hoshino's message omits the combat premise, so Ayane's finish-job reply is not informed authorization for destructive combat. Wrong-gym and explosive-quantity errors, Serika apology and final exemption are actual; subsequent sanctions, compensation, completed cleaning and reconciliation are unprinted. This is not forced exercise. Threat to Nonomi, peer exclusion and pursuit after refusal retain their independently supported adverse meanings.",
+  "source_argument": {
+    "repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2101_2102_DEEP_READING.md",
+    "bytes": 36756,
+    "sha256": "ad22e97278f7e35ec5d43e27a1dbaafb14409070468c62a7d02b6d3003af3845",
+    "complete_personal_analytical_receiving": "This continuation complete199lines in1–105 and106–199; no original primary/native/raw/AV replay."
+  },
+  "preservation": "Retain original scalar/decision/candidate/source tuples and historical actual-receiving record; qualifier supplies current interpretation, no original hash rebound."
+}
 }

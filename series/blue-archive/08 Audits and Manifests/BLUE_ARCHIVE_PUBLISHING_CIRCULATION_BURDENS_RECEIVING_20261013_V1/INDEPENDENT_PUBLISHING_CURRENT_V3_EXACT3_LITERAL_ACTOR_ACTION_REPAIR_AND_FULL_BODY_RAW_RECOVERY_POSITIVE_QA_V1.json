@@ -1,0 +1,260 @@
+{
+  "schema": "INDEPENDENT_PUBLISHING_CURRENT_V3_EXACT3_BODY_LITERAL_ACTOR_ACTION_DELTA_AND_EXECUTED_FULL_ACTUAL_V2_RECOVERY_QA_V1",
+  "saved_actual_UTC": "2026-10-14T00:05:07.101704+00:00",
+  "reviewer": "/root/minato_105_derivative",
+  "author": "/root/receive_middle_remaining",
+  "decision": "PASS_WITH_LIMITS_CURRENT232_COMPLETE41_BODY_ARGUMENT_BY_RETAINED_WHOLE_BODY_FIRST_REVIEW_AND_EXACT_CURRENT3_LITERAL_RECEIVING;ALL105_COMPONENT_ROOT_ADOPTION_INSTALLATION_PUBLICATION_SEPARATE",
+  "actual_current_V3_body": {
+    "exact_C_path": "private-witness:PUBLISHING-DECD2CC352394F27A101F369",
+    "bytes": 39346,
+    "sha256": "d0d49c28cfc096d42ef22d2b2131015172d8a0d460e8beeb885b04ec7e005909",
+    "git_blob_oid_of_actual_bytes": "d9a55694b6173802fd2b4d1e4eb17f39e432a1fe",
+    "physical_lines": 232
+  },
+  "actual_original_V2_body": {
+    "bytes": 39258,
+    "sha256": "50f49f28176ab401ae92294cc35d81db8f5c70caed644ec37b4d5515bfbbf368",
+    "git_blob_oid_of_actual_bytes": "db2e134563f94774f11117150297f03db68309b2"
+  },
+  "prior_complete_body_first_manual_QA_and_original_findings_retained": {
+    "exact_C_path": "private-witness:PUBLISHING-8BF16CD8631416D28990ADA7",
+    "bytes": 185812,
+    "sha256": "44d6d46322fc1842253e4a72083bb0fb838c40624c171c1ca6fa8f67d6e73cdb",
+    "git_blob_oid_of_actual_bytes": "e0192a32e992c7b5c7d5b6d1d79bb65cc9f958e2",
+    "dated_decision": "HOLD_CURRENT232_COMPLETE41_BODY_ONLY_PENDING_TWO_SUPPORTED_FINDING_GROUPS_IN_THREE_LITERAL_LOCATIONS;NO_ALL105_COMPONENT_ROOT_ADOPTION_OR_PACKAGE_CREDIT",
+    "current_qualification": "Original HOLD remains historical. ActualV3 supported full literal repairs close both finding groups/three body locations through this distinct reviewer’s current meanings and independently executed full recovery; no old QA byte/decision rewrite."
+  },
+  "author_full_body_successor_and_actual_inverse": {
+    "exact_C_path": "private-witness:PUBLISHING-8EECA8189722D6E08EF1EE56",
+    "bytes": 46384,
+    "sha256": "eec5cc1284093922f3b7be7966de5b78d40926a50d9c1ca918516cf9bd51299a",
+    "git_blob_oid_of_actual_bytes": "525ecc65460634bf5504d55d082ad65bf6493da7",
+    "ROOT_authorization_attributed": "ROOT authorizes narrow supported C-only Publishing actor/action successors and required current bindings; package acceptance separately pending.",
+    "author_current105_scan_attributed_ONLY": {
+      "tool": "631773",
+      "exact_five_new_fields_all105": true,
+      "results": "NO corresponding wrong timetable/company/interview actor or withheld-food action wording in new105 fields; no current new-purpose edits required.",
+      "original_payloads": "Preserved literal, not searched-and-rewritten historical content."
+    }
+  },
+  "all3_actual_supported_complete_literal_operations": [
+    {
+      "finding_id": "F01",
+      "claim_or_endpoint": "PUBCLAIM019",
+      "physical_line": 98,
+      "before_complete_line": "[PUBCLAIM019] Takane values criticism but also wants hockey, inexpensive food, photography and a private evening; Yakumo enjoys planning, train rest and bento, and refuses timetable labor or endless company. Mel wants self-directed creation and sometimes assistance while choosing a solitary departure at another endpoint. These ends are not escapes from an otherwise more real institutional self. They help specify what membership cannot automatically demand. No partial institution argument completes their character lives, and neither profiles nor conditional speech create an enacted holiday, romance, paid job, permanent assistant role or a right to publish a person's body or unshared work. [PS01:289–309; PS04:70–172]",
+      "after_complete_line": "[PUBCLAIM019] Takane values criticism but also wants hockey, inexpensive food, photography and a private evening; Yakumo enjoys planning, train rest and bento and refuses timetable labor; the adult refuses her proposal for perpetual company. Mel wants self-directed creation and sometimes assistance while choosing a solitary departure at another endpoint. These ends are not escapes from an otherwise more real institutional self. They help specify what membership cannot automatically demand. No partial institution argument completes their character lives, and neither profiles nor conditional speech create an enacted holiday, romance, paid job, permanent assistant role or a right to publish a person's body or unshared work. [PS01:289–309; PS04:70–172]",
+      "exact_old_substring": "Yakumo enjoys planning, train rest and bento, and refuses timetable labor or endless company.",
+      "exact_new_substring": "Yakumo enjoys planning, train rest and bento and refuses timetable labor; the adult refuses her proposal for perpetual company."
+    },
+    {
+      "finding_id": "F01",
+      "claim_or_endpoint": "T15",
+      "physical_line": 208,
+      "before_complete_line": "| T15 | Yakumo puts extra food back and refuses timetable work, perpetual company and interview. | Enduring no-extraction essence, completed timetable, transport repair or later interview. | PS04:144–160 |",
+      "after_complete_line": "| T15 | Yakumo puts extra food back and refuses timetable work; the adult refuses her perpetual-company proposal and the later interview. | Enduring no-extraction essence, completed timetable, transport repair or later interview. | PS04:144–160 |",
+      "exact_old_substring": "Yakumo puts extra food back and refuses timetable work, perpetual company and interview.",
+      "exact_new_substring": "Yakumo puts extra food back and refuses timetable work; the adult refuses her perpetual-company proposal and the later interview."
+    },
+    {
+      "finding_id": "F02",
+      "claim_or_endpoint": "PUBCLAIM020",
+      "physical_line": 102,
+      "before_complete_line": "[PUBCLAIM020] E829 makes an actual apology exchange a condition of renewed work, not a device for declaring earlier pressure harmless. Momiji independently wants repair; Mel freely finishes the gift ending after forgiveness and Momiji agrees to help. The page/time/printing burden still provokes disagreement, and a later inward complaint says the adult being fine is not enough for Momiji. Her warmth and Mel's pleasure are positive while renewed assent is specific to the work and moment. Carrying an objector, withholding food or pressing a portrait cannot acquire retroactive permission from that afterstate, and promised reordering cannot count as restitution already received. [PS01:279–303; PS02:110–132; PS03:92–96]",
+      "after_complete_line": "[PUBCLAIM020] E829 makes an actual apology exchange a condition of renewed work, not a device for declaring earlier pressure harmless. Momiji independently wants repair; Mel freely finishes the gift ending after forgiveness and Momiji agrees to help. The page/time/printing burden still provokes disagreement, and a later inward complaint says the adult being fine is not enough for Momiji. Her warmth and Mel's pleasure are positive while renewed assent is specific to the work and moment. Carrying an objector, bargaining under foodlessness or pressing a portrait cannot acquire retroactive permission from that afterstate, and promised reordering cannot count as restitution already received. [PS01:279–303; PS02:110–132; PS03:92–96]",
+      "exact_old_substring": "Carrying an objector, withholding food or pressing a portrait",
+      "exact_new_substring": "Carrying an objector, bargaining under foodlessness or pressing a portrait"
+    }
+  ],
+  "all3_current_full_paragraph_endpoint_manual_meanings": [
+    {
+      "claim_or_endpoint": "PUBCLAIM019",
+      "physical_line": 98,
+      "actual_untruncated_current_receiving": "6dd47e",
+      "reviewer_reason": "Current full paragraph keeps Yakumo’s own planning/rail/bento wants and timetable refusal, and now assigns the rejected perpetual-company proposal to the adult. PS04L148/150 remain the adequate maintained actor context. Wanted company is not rewritten as her refusal. All surrounding Takane/Mel/private-life meanings remain exact.",
+      "current_decision": "SUPPORTED_WITH_LIMITS;F01_THIS_LOCATION_CLOSED"
+    },
+    {
+      "claim_or_endpoint": "PUBCLAIM020",
+      "physical_line": 102,
+      "actual_untruncated_current_receiving": "6dd47e",
+      "reviewer_reason": "Current “bargaining under foodlessness” matches supplied food followed by pay-now/consignment pressure in PS03L92–94. The body preserves criticism of leverage without claiming a deliberately withheld meal. E829 apology/renewed wanted making and Momiji’s independent cost remain exact; no clinical/intentional deprivation fact is added.",
+      "current_decision": "SUPPORTED_WITH_LIMITS;F02_CLOSED"
+    },
+    {
+      "claim_or_endpoint": "T15",
+      "physical_line": 208,
+      "actual_untruncated_current_receiving": "6dd47e",
+      "reviewer_reason": "Current full row separates Yakumo excessfood/timetable boundaries from the adult’s rejected perpetual-company and later interview proposals, supported by PS04L146/148/150/160. The stronger endpoint column is unchanged, so no later interview, perpetual relation or transport repair is fabricated.",
+      "current_decision": "SUPPORTED_FINITE_ENDPOINT_WITH_LIMITS;F01_THIS_LOCATION_CLOSED"
+    }
+  ],
+  "all_current_supported_body_scope": {
+    "paragraphs": 41,
+    "institution_dimensions": 15,
+    "serious_rivals": 8,
+    "finite_endpoints": 16,
+    "original_gaps": 14,
+    "OPEN": 14,
+    "new_mandatory_named_duty": 0,
+    "package_credit": 0
+  },
+  "original_source_grade_reuse_boundary": "Prior own selected complete maintained passages/context remain adequate and exact. This is actual3 current-field receiving and mechanical full raw comparison, not another whole232/source4/105/primary/native/raw/AV pass. Underlying121/15/10/20 producer scope remains attributed. Source pin readback is custody only.",
+  "independence": "Reviewer authored none of Publishing body/new105/components. Earlier Library/Seminar and common105/Odysseia/GSC review roles are disclosed in the retained whole-body receipt; no clean-room claim or primary-grade transfer.",
+  "executed_actual_checks": [
+    {
+      "check": "Full actual before line 98",
+      "PASS": true
+    },
+    {
+      "check": "Full actual current after line 98",
+      "PASS": true
+    },
+    {
+      "check": "Exact single supported literal substring 98",
+      "PASS": true
+    },
+    {
+      "check": "Unique full actual before literal 98",
+      "PASS": true
+    },
+    {
+      "check": "Unique full actual current literal 98",
+      "PASS": true
+    },
+    {
+      "check": "Full actual before line 208",
+      "PASS": true
+    },
+    {
+      "check": "Full actual current after line 208",
+      "PASS": true
+    },
+    {
+      "check": "Exact single supported literal substring 208",
+      "PASS": true
+    },
+    {
+      "check": "Unique full actual before literal 208",
+      "PASS": true
+    },
+    {
+      "check": "Unique full actual current literal 208",
+      "PASS": true
+    },
+    {
+      "check": "Full actual before line 102",
+      "PASS": true
+    },
+    {
+      "check": "Full actual current after line 102",
+      "PASS": true
+    },
+    {
+      "check": "Exact single supported literal substring 102",
+      "PASS": true
+    },
+    {
+      "check": "Unique full actual before literal 102",
+      "PASS": true
+    },
+    {
+      "check": "Unique full actual current literal 102",
+      "PASS": true
+    },
+    {
+      "check": "Independent executed complete currentV3→actualV2 raw inverse",
+      "PASS": true
+    },
+    {
+      "check": "Independent executed complete V2→actualV3 raw forward",
+      "PASS": true
+    },
+    {
+      "check": "Author complete originalV2 UTF8 matches actual original bytes",
+      "PASS": true
+    },
+    {
+      "check": "Author before/after pinned tuples equal saved actual bytes",
+      "PASS": true
+    },
+    {
+      "check": "All229 other complete physical lines unchanged",
+      "PASS": true
+    },
+    {
+      "check": "41 complete paragraph IDs retained",
+      "PASS": true
+    },
+    {
+      "check": "39 unaffected full paragraphs exact",
+      "PASS": true
+    },
+    {
+      "check": "16 endpoint IDs retained",
+      "PASS": true
+    },
+    {
+      "check": "15 other full endpoint rows exact",
+      "PASS": true
+    },
+    {
+      "check": "14 full original OPEN gap rows exact",
+      "PASS": true
+    },
+    {
+      "check": "All15 dimensional and8 rival full headings exact",
+      "PASS": true
+    },
+    {
+      "check": "Current body strict UTF8LF onefinalLF",
+      "PASS": true
+    },
+    {
+      "check": "Original maintained source custody unchanged PS01",
+      "PASS": true
+    },
+    {
+      "check": "Original maintained source custody unchanged PS02",
+      "PASS": true
+    },
+    {
+      "check": "Original maintained source custody unchanged PS03",
+      "PASS": true
+    },
+    {
+      "check": "Original maintained source custody unchanged PS04",
+      "PASS": true
+    },
+    {
+      "check": "Original whole body-first QA/finding receipt retained exact",
+      "PASS": true
+    },
+    {
+      "check": "ActualV2 original retained exact",
+      "PASS": true
+    }
+  ],
+  "actual_check_count": 33,
+  "findings": [],
+  "all2_original_finding_groups_current_closed": true,
+  "still_excluded": [
+    "All105 new Publishing purposes",
+    "Final literal/source/purpose register and exact8 graph",
+    "Formal ROOT adoption",
+    "R installation/preflight/push/newheadCI/main integration"
+  ],
+  "fixed_controls": {
+    "required": 355,
+    "mandatory_named": 29,
+    "parents": 25,
+    "homes": 384,
+    "navigation": 788,
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "next178": "UNREACHED",
+    "merge_approval": "RESERVED"
+  },
+  "R_Git_provider_shared_metadata_body_or_source_mutations": 0,
+  "protected39_or9UNBOUND_body_or_hash_reads": 0
+}

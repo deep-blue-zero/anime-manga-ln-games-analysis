@@ -21,7 +21,7 @@ from character_index_core import DomainError, FULL_COMMIT_RE, GitSnapshot, decod
 
 POLICY = "governance/repository-controls/test-execution-policy.json"
 CATALOG = "tools/tests/test-catalog.json"
-GROUPS = {"live_corpus", "regression", "synthetic_git", "dormant_reconstruction"}
+GROUPS = {"live_corpus", "regression", "synthetic_git", "reconstruction_capability"}
 
 
 def load_policy(snapshot: GitSnapshot) -> dict:

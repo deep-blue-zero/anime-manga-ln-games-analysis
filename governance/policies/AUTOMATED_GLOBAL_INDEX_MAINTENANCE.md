@@ -8,7 +8,7 @@ The trusted default-branch workflow `.github/workflows/global-index-housekeeping
 - `studies/README.md`
 - `governance/MANGA_ANIME_CORPUS_INDEX.md`
 
-Every other path is read-only to housekeeping, including `characters/registry.jsonl` and `CHARACTER_ANALYSIS_INDEX.md`. The character curation agent exclusively maintains those two files under `CHARACTER_DISCOVERY_MAINTENANCE.md`. Housekeeping must not regenerate the character index, normalize the character registry, or apply character upserts.
+Every other path is read-only to housekeeping, including `characters/registry.jsonl` and `CHARACTER_ANALYSIS_INDEX.md`. The character curation agent exclusively maintains those two files under `CHARACTER_DISCOVERY_MAINTENANCE.md`. Housekeeping must not regenerate the character index, normalize the character registry, or apply character upserts. The reconstruction outputs `characters/reconstruction_capabilities.jsonl` and `characters/CHARACTER_RECONSTRUCTION_INDEX.md` are neither writable by housekeeping nor admitted on a stable analytical branch; a source change that makes an assessment stale integrates without a capability update.
 
 The machine-readable boundary is `governance/repository-controls/global-index-automation-policy.json`, schema v2. The synchronizer produces only series/study registry outputs. The workflow stages only the five routing outputs, and the repository audit validates this boundary independently.
 
@@ -26,6 +26,8 @@ For new or changed routing, provide a complete desired row in the named analytic
 - `studies/<stable-slug>/.repository/study-registry.json`.
 
 Each input is one JSON object whose ID, `stable_slug`, and `repository_path` match the branch slug exactly. A new substantive root, or an existing project entering a material analytical restart, also declares `project_initiation_gate: REQUIRED`; baseline legacy rows need not be rewritten merely for uniformity. Only deterministic upsert or replacement is authorized; automatic deletion remains prohibited. A new root needs a tracked current-eligible entrypoint with the complete authority quartet documented in `../../characters/README.md`. That entrypoint must expose the initialization state required by `MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md`, using CLOSED as the bootstrap default and OPEN only after the gate is satisfied. A noncurrent draft cannot serve as that entrypoint.
+
+An optional `catalog_note` describes the project (its scope, medium or analytical focus), not its progress. Housekeeping copies it into the registry, both catalogs and the corpus index, so a progress line there goes stale in four places; current progress belongs in the canonical entrypoint.
 
 Character-upsert files are retired as synchronization inputs. Existing `.repository/character-registry-upserts.jsonl` files are preserved as historical proposals or optional leads for independent agent review. They are neither required nor applied, and cannot overwrite curated character metadata.
 

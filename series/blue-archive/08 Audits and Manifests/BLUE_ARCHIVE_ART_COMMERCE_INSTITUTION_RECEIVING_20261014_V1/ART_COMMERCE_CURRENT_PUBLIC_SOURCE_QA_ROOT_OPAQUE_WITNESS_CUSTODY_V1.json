@@ -1,0 +1,315 @@
+{
+  "schema": "ART_COMMERCE_CURRENT_PUBLIC_SOURCE_QA_ROOT_OPAQUE_WITNESS_CUSTODY_V1",
+  "composer": "/root/m008_composition_review",
+  "role": "Documentary private-witness custody with pins only; complete original locator values and raw inverse maps are retained privately. No opaque ID is new unbound public evidence.",
+  "complete_original_author8": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_ART_COMMERCE_AND_UNCHOSEN_HEADSHIP_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 48808,
+      "sha256": "a9ab2e1ae988746a19ec62042b551b0f9a794b513851417beda82a014dde2181",
+      "git_blob_oid_of_actual_bytes": "7879f8bbafe00219fe93e4b38844a10c9183f099"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP000_ACP035_V1.json",
+      "bytes": 391873,
+      "sha256": "7b7407d98be5b20400067ef7a6b4d51f82f9acca70925c556da292419b1fa728",
+      "git_blob_oid_of_actual_bytes": "918e98d18136c665d53a8bc4693acdfe5e7525a9"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP036_ACP070_V1.json",
+      "bytes": 527768,
+      "sha256": "6abe5fc6386a388aaa2f5b9c7ddf5c9743d0594733515076859a226d0b85b997",
+      "git_blob_oid_of_actual_bytes": "9557146271a097c59d53944d21df712531e43694"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP071_ACP104_V1.json",
+      "bytes": 688509,
+      "sha256": "8cac0e0b7ceea03a244853f10dcc16e8044daa89f985eb037da4dc1f4794e548",
+      "git_blob_oid_of_actual_bytes": "3df5f866402a22bfa8e48530b4ad3059ed17d277"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT1_SOURCE_INPUT_AND_GRADE_RECEIVING_V1.json",
+      "bytes": 43230,
+      "sha256": "4c2b113ea8420050c41f9af628690636e75ef3be96e9802330387011c21ec228",
+      "git_blob_oid_of_actual_bytes": "b1d82fec283cef036b978a3e8b6dd526d0e82d62"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_PURPOSE_INDEX_AND_AUTHOR_RECEIVING_V1.json",
+      "bytes": 196517,
+      "sha256": "ef8e1ca1f31894764532b2482ba55a780adef7b63a4c551e6389587b2a315afa",
+      "git_blob_oid_of_actual_bytes": "e81164d928e65ba3d9c1ebc663a3862371bd76db"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT_LITERAL52_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+      "bytes": 460948,
+      "sha256": "16cf9305dd3e1503c56f4210653c5d5be9ebddf4f23f5af5049c94e63e241ee0",
+      "git_blob_oid_of_actual_bytes": "f67308bb57980acab2e0ca0d59210e76223bfb9f"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT_SAVED_OUTPUT_AND_CONDITIONAL_TRANSPORT_RECEIPT_V1.json",
+      "bytes": 10643,
+      "sha256": "e877613e2594b16e539d5b0a28186848efbaf0737b0a8a45771c97e3a8d14518",
+      "git_blob_oid_of_actual_bytes": "d1a6a738a08935395fd57136b8f19625374e12ed"
+    }
+  ],
+  "complete_current_first13": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_ART_COMMERCE_AND_UNCHOSEN_HEADSHIP_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 49054,
+      "sha256": "450e4a1bcdd629269dc607652c5106ac4abf09d0fa83b97205fd40e8cfee6695",
+      "git_blob_oid_of_actual_bytes": "38436156d3fc53ddd16368016a78260bfde85f9b",
+      "component_role": "BODY"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP000_ACP035_V1.json",
+      "bytes": 391873,
+      "sha256": "7a2444c8e5e6b622cbcdd327e8656e06ec40d93662a6e71ff0ad1ade6b079565",
+      "git_blob_oid_of_actual_bytes": "84cfe728531a27bc6030cc2b66196773c861a119",
+      "component_role": "PURPOSE_000_035"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP036_ACP070_V1.json",
+      "bytes": 527768,
+      "sha256": "a38b4b41905fbc94c93522040a71649e7902e5fa2b707fd04c1d7817aafaaa9f",
+      "git_blob_oid_of_actual_bytes": "cf29bec9bd8c6abbb12c8984331ba05edf4104b3",
+      "component_role": "PURPOSE_036_070"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP071_ACP104_V1.json",
+      "bytes": 688509,
+      "sha256": "dc543adfb7dbaecc2ff411004d6abec6097ab0a30eef07b36df1fd3db1321958",
+      "git_blob_oid_of_actual_bytes": "c025e412be633ccb648ca16e8bc0d50640b9c00b",
+      "component_role": "PURPOSE_071_104"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT1_SOURCE_INPUT_AND_GRADE_RECEIVING_V1.json",
+      "bytes": 43230,
+      "sha256": "dc8b74790aec83c7d787ba83fd41f58f8feaceb11bacebb62f57cd60ec703630",
+      "git_blob_oid_of_actual_bytes": "8979e3e2aaefd58eb21cbd6b0ac1455d4c190dc3",
+      "component_role": "SOURCE1"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_PURPOSE_INDEX_AND_AUTHOR_RECEIVING_V1.json",
+      "bytes": 196517,
+      "sha256": "7cd475f544eefe2a84b410f51bc6402ef36e78721d3b4479ee9bff6b173472d3",
+      "git_blob_oid_of_actual_bytes": "bc07a479da434438f6376d9d4dc1e5ffc4609de7",
+      "component_role": "PURPOSE_INDEX"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT_LITERAL52_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+      "bytes": 496574,
+      "sha256": "f6007156409e1e0b137f51468a17fe5f77136dcd0d05bc81c2ea6aa7f758cef2",
+      "git_blob_oid_of_actual_bytes": "b4237111d34be6a1930eb8aa6783875bd3c61110",
+      "component_role": "LITERAL52_REGISTER"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT_SAVED_OUTPUT_AND_CONDITIONAL_TRANSPORT_RECEIPT_V1.json",
+      "bytes": 10643,
+      "sha256": "a5f8d15a0315ccc8c54f0ee770934fdb8ecb05d538b2a3723201cd43709f4d4d",
+      "git_blob_oid_of_actual_bytes": "f3a01b90350847eed2d5bf5ca03dcf747ef12d98",
+      "component_role": "TRANSPORT"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/INDEPENDENT_ART_COMMERCE_CURRENT224_COMPLETE52_BODY_FIRST_LITERARY_AND_FULL_V1_BODY_INVERSE_POSITIVE_QA_V1.json",
+      "bytes": 97403,
+      "sha256": "60af3afec152b740456aa2179fb3355c3034e9948aca89a637425929b244b997",
+      "git_blob_oid_of_actual_bytes": "a37619ff3faf3ebf4425c3d96a57f607a0d0205f",
+      "component_role": "QA_BODY_ONLY"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/INDEPENDENT_ART_COMMERCE_CURRENT_V4_COMPLETE224_LITERAL52_ALL105_SOURCE1_EXACT8_FULL_MANUAL_POSITIVE_COMPONENT_QA_V1.json",
+      "bytes": 673045,
+      "sha256": "1d11ad6300c853c4e0b8a561766b517f3e7cba612fcb4d41dfb713b94657516d",
+      "git_blob_oid_of_actual_bytes": "eae39b8d9e209f38f00a988691718c5076652ff1",
+      "component_role": "QA_FULL_CURRENT_V4"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/INDEPENDENT_ART_CURRENT_V4_EXACT8_FULL11_RAW3_SOURCE_CARRIERS_LITERAL52_CORE1_CURRENT_GRAPH_MECHANICAL_QA_V1.json",
+      "bytes": 13238,
+      "sha256": "54fe61bc9ccac3c549eed0fbae5c8a948014df5ec2d700e719565eed38ad2006",
+      "git_blob_oid_of_actual_bytes": "2238cbd5e5bbe91a30890af58ecc55b95d61d1df",
+      "component_role": "QA_MECHANICAL"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/INDEPENDENT_ART_CURRENT_V4_ONE_ACP042_REPORT_SCOPE_COUNTER_EXACT8_COMPLETE_RAW_INVERSE_DELTA_QA_V1.json",
+      "bytes": 645539,
+      "sha256": "23d9279e2e226acba18fa5339edad2f6192256bb56db122442561789872df0f9",
+      "git_blob_oid_of_actual_bytes": "6bc28d9243e2a6c25d61782ceb209684b9c2c86d",
+      "component_role": "QA_ACP042_DELTA"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_ACTUAL_ROOT_COMPLETE52_NEW105_WHOLE139_ONE_NAMED_SEMANTIC_ADOPTION_WITH_LIMITS_V1.json",
+      "bytes": 62531,
+      "sha256": "0085e3599450d21241e87f4ea9e2ea5b5ba7a8ac0cf1b3f3eb1df9460de2e885",
+      "git_blob_oid_of_actual_bytes": "b09f7b4ca5dbd4e611c0dfc50f76c6ce21bc000d",
+      "component_role": "ACTUAL_ROOT_SIGNED_SEMANTIC_RECEIPT_EXACT_RAW_NOOP"
+    }
+  ],
+  "approved14_opaque_locator_bindings": [
+    {
+      "opaque_witness_id": "private-witness:ART-QA-DELIVERY-A30DFFC7330F8FBBE29240DD",
+      "original_QA_evidence_id": "INDEPENDENT_ART_COMMERCE_CURRENT224_COMPLETE52_BODY_FIRST_LITERARY_AND_FULL_V1_BODY_INVERSE_POSITIVE_QA_V1.json",
+      "original_QA_pin": {
+        "bytes": 98076,
+        "sha256": "390b8b97a1d4df84f5b7b41277614212d1cc4d66f1ae6c7a0da8b16f32ef3ed7",
+        "git_blob_oid_of_actual_bytes": "24645baa4ef874e0323f76fd862f78d9a1a3aa17"
+      },
+      "original_field_JSON_pointer": "/current_body/evidence_path",
+      "role": "Opaque locator mapping preserved privately; original field tuple and review scope stay literal. Not a new public source dependency."
+    },
+    {
+      "opaque_witness_id": "private-witness:ART-QA-DELIVERY-EBF7D0D0A87141BA78A0AEC1",
+      "original_QA_evidence_id": "INDEPENDENT_ART_COMMERCE_CURRENT224_COMPLETE52_BODY_FIRST_LITERARY_AND_FULL_V1_BODY_INVERSE_POSITIVE_QA_V1.json",
+      "original_QA_pin": {
+        "bytes": 98076,
+        "sha256": "390b8b97a1d4df84f5b7b41277614212d1cc4d66f1ae6c7a0da8b16f32ef3ed7",
+        "git_blob_oid_of_actual_bytes": "24645baa4ef874e0323f76fd862f78d9a1a3aa17"
+      },
+      "original_field_JSON_pointer": "/current_author_manifest/evidence_path",
+      "role": "Opaque locator mapping preserved privately; original field tuple and review scope stay literal. Not a new public source dependency."
+    },
+    {
+      "opaque_witness_id": "private-witness:ART-QA-DELIVERY-BA6D6D3FC83B26BD78A0D45E",
+      "original_QA_evidence_id": "INDEPENDENT_ART_COMMERCE_CURRENT224_COMPLETE52_BODY_FIRST_LITERARY_AND_FULL_V1_BODY_INVERSE_POSITIVE_QA_V1.json",
+      "original_QA_pin": {
+        "bytes": 98076,
+        "sha256": "390b8b97a1d4df84f5b7b41277614212d1cc4d66f1ae6c7a0da8b16f32ef3ed7",
+        "git_blob_oid_of_actual_bytes": "24645baa4ef874e0323f76fd862f78d9a1a3aa17"
+      },
+      "original_field_JSON_pointer": "/actual_own_selected_source_scope/binding/evidence_path",
+      "role": "Opaque locator mapping preserved privately; original field tuple and review scope stay literal. Not a new public source dependency."
+    },
+    {
+      "opaque_witness_id": "private-witness:ART-QA-DELIVERY-79129F0595F6F6DFA5F45669",
+      "original_QA_evidence_id": "INDEPENDENT_ART_COMMERCE_CURRENT_V4_COMPLETE224_LITERAL52_ALL105_SOURCE1_EXACT8_FULL_MANUAL_POSITIVE_COMPONENT_QA_V1.json",
+      "original_QA_pin": {
+        "bytes": 674563,
+        "sha256": "2ef8c771b3f3f58bb1da23cf345c4939b22644113d557a55b471fa268396903a",
+        "git_blob_oid_of_actual_bytes": "f2e68ea212cc7314b98ab33519b0651ad67d53bc"
+      },
+      "original_field_JSON_pointer": "/current_manifest/relative_path",
+      "role": "Opaque locator mapping preserved privately; original field tuple and review scope stay literal. Not a new public source dependency."
+    },
+    {
+      "opaque_witness_id": "private-witness:ART-QA-DELIVERY-EE38FF1A2F2766A63C638A11",
+      "original_QA_evidence_id": "INDEPENDENT_ART_COMMERCE_CURRENT_V4_COMPLETE224_LITERAL52_ALL105_SOURCE1_EXACT8_FULL_MANUAL_POSITIVE_COMPONENT_QA_V1.json",
+      "original_QA_pin": {
+        "bytes": 674563,
+        "sha256": "2ef8c771b3f3f58bb1da23cf345c4939b22644113d557a55b471fa268396903a",
+        "git_blob_oid_of_actual_bytes": "f2e68ea212cc7314b98ab33519b0651ad67d53bc"
+      },
+      "original_field_JSON_pointer": "/current_exact8/0/candidate_relative_path",
+      "role": "Opaque locator mapping preserved privately; original field tuple and review scope stay literal. Not a new public source dependency."
+    },
+    {
+      "opaque_witness_id": "private-witness:ART-QA-DELIVERY-F4C1D503FCD8BEB6C62D2002",
+      "original_QA_evidence_id": "INDEPENDENT_ART_COMMERCE_CURRENT_V4_COMPLETE224_LITERAL52_ALL105_SOURCE1_EXACT8_FULL_MANUAL_POSITIVE_COMPONENT_QA_V1.json",
+      "original_QA_pin": {
+        "bytes": 674563,
+        "sha256": "2ef8c771b3f3f58bb1da23cf345c4939b22644113d557a55b471fa268396903a",
+        "git_blob_oid_of_actual_bytes": "f2e68ea212cc7314b98ab33519b0651ad67d53bc"
+      },
+      "original_field_JSON_pointer": "/current_exact8/1/candidate_relative_path",
+      "role": "Opaque locator mapping preserved privately; original field tuple and review scope stay literal. Not a new public source dependency."
+    },
+    {
+      "opaque_witness_id": "private-witness:ART-QA-DELIVERY-397F8325BD885FAE5542817D",
+      "original_QA_evidence_id": "INDEPENDENT_ART_COMMERCE_CURRENT_V4_COMPLETE224_LITERAL52_ALL105_SOURCE1_EXACT8_FULL_MANUAL_POSITIVE_COMPONENT_QA_V1.json",
+      "original_QA_pin": {
+        "bytes": 674563,
+        "sha256": "2ef8c771b3f3f58bb1da23cf345c4939b22644113d557a55b471fa268396903a",
+        "git_blob_oid_of_actual_bytes": "f2e68ea212cc7314b98ab33519b0651ad67d53bc"
+      },
+      "original_field_JSON_pointer": "/current_exact8/2/candidate_relative_path",
+      "role": "Opaque locator mapping preserved privately; original field tuple and review scope stay literal. Not a new public source dependency."
+    },
+    {
+      "opaque_witness_id": "private-witness:ART-QA-DELIVERY-51A329E843BD3BFF9245FFCA",
+      "original_QA_evidence_id": "INDEPENDENT_ART_COMMERCE_CURRENT_V4_COMPLETE224_LITERAL52_ALL105_SOURCE1_EXACT8_FULL_MANUAL_POSITIVE_COMPONENT_QA_V1.json",
+      "original_QA_pin": {
+        "bytes": 674563,
+        "sha256": "2ef8c771b3f3f58bb1da23cf345c4939b22644113d557a55b471fa268396903a",
+        "git_blob_oid_of_actual_bytes": "f2e68ea212cc7314b98ab33519b0651ad67d53bc"
+      },
+      "original_field_JSON_pointer": "/current_exact8/3/candidate_relative_path",
+      "role": "Opaque locator mapping preserved privately; original field tuple and review scope stay literal. Not a new public source dependency."
+    },
+    {
+      "opaque_witness_id": "private-witness:ART-QA-DELIVERY-646FE39A79FBC1DC42AB722F",
+      "original_QA_evidence_id": "INDEPENDENT_ART_COMMERCE_CURRENT_V4_COMPLETE224_LITERAL52_ALL105_SOURCE1_EXACT8_FULL_MANUAL_POSITIVE_COMPONENT_QA_V1.json",
+      "original_QA_pin": {
+        "bytes": 674563,
+        "sha256": "2ef8c771b3f3f58bb1da23cf345c4939b22644113d557a55b471fa268396903a",
+        "git_blob_oid_of_actual_bytes": "f2e68ea212cc7314b98ab33519b0651ad67d53bc"
+      },
+      "original_field_JSON_pointer": "/current_exact8/4/candidate_relative_path",
+      "role": "Opaque locator mapping preserved privately; original field tuple and review scope stay literal. Not a new public source dependency."
+    },
+    {
+      "opaque_witness_id": "private-witness:ART-QA-DELIVERY-906B2296F57B1796E1C89AA9",
+      "original_QA_evidence_id": "INDEPENDENT_ART_COMMERCE_CURRENT_V4_COMPLETE224_LITERAL52_ALL105_SOURCE1_EXACT8_FULL_MANUAL_POSITIVE_COMPONENT_QA_V1.json",
+      "original_QA_pin": {
+        "bytes": 674563,
+        "sha256": "2ef8c771b3f3f58bb1da23cf345c4939b22644113d557a55b471fa268396903a",
+        "git_blob_oid_of_actual_bytes": "f2e68ea212cc7314b98ab33519b0651ad67d53bc"
+      },
+      "original_field_JSON_pointer": "/current_exact8/5/candidate_relative_path",
+      "role": "Opaque locator mapping preserved privately; original field tuple and review scope stay literal. Not a new public source dependency."
+    },
+    {
+      "opaque_witness_id": "private-witness:ART-QA-DELIVERY-56264913B33DC938B2C7F670",
+      "original_QA_evidence_id": "INDEPENDENT_ART_COMMERCE_CURRENT_V4_COMPLETE224_LITERAL52_ALL105_SOURCE1_EXACT8_FULL_MANUAL_POSITIVE_COMPONENT_QA_V1.json",
+      "original_QA_pin": {
+        "bytes": 674563,
+        "sha256": "2ef8c771b3f3f58bb1da23cf345c4939b22644113d557a55b471fa268396903a",
+        "git_blob_oid_of_actual_bytes": "f2e68ea212cc7314b98ab33519b0651ad67d53bc"
+      },
+      "original_field_JSON_pointer": "/current_exact8/6/candidate_relative_path",
+      "role": "Opaque locator mapping preserved privately; original field tuple and review scope stay literal. Not a new public source dependency."
+    },
+    {
+      "opaque_witness_id": "private-witness:ART-QA-DELIVERY-BF5427A608472F1523C42069",
+      "original_QA_evidence_id": "INDEPENDENT_ART_COMMERCE_CURRENT_V4_COMPLETE224_LITERAL52_ALL105_SOURCE1_EXACT8_FULL_MANUAL_POSITIVE_COMPONENT_QA_V1.json",
+      "original_QA_pin": {
+        "bytes": 674563,
+        "sha256": "2ef8c771b3f3f58bb1da23cf345c4939b22644113d557a55b471fa268396903a",
+        "git_blob_oid_of_actual_bytes": "f2e68ea212cc7314b98ab33519b0651ad67d53bc"
+      },
+      "original_field_JSON_pointer": "/current_exact8/7/candidate_relative_path",
+      "role": "Opaque locator mapping preserved privately; original field tuple and review scope stay literal. Not a new public source dependency."
+    },
+    {
+      "opaque_witness_id": "private-witness:ART-QA-DELIVERY-B6DCA0F7D26C1342CD8C609C",
+      "original_QA_evidence_id": "INDEPENDENT_ART_COMMERCE_CURRENT_V4_COMPLETE224_LITERAL52_ALL105_SOURCE1_EXACT8_FULL_MANUAL_POSITIVE_COMPONENT_QA_V1.json",
+      "original_QA_pin": {
+        "bytes": 674563,
+        "sha256": "2ef8c771b3f3f58bb1da23cf345c4939b22644113d557a55b471fa268396903a",
+        "git_blob_oid_of_actual_bytes": "f2e68ea212cc7314b98ab33519b0651ad67d53bc"
+      },
+      "original_field_JSON_pointer": "/prior_body_only_review/relative_path",
+      "role": "Opaque locator mapping preserved privately; original field tuple and review scope stay literal. Not a new public source dependency."
+    },
+    {
+      "opaque_witness_id": "private-witness:ART-QA-DELIVERY-BA6D6D3FC83B26BD78A0D45E",
+      "original_QA_evidence_id": "INDEPENDENT_ART_COMMERCE_CURRENT_V4_COMPLETE224_LITERAL52_ALL105_SOURCE1_EXACT8_FULL_MANUAL_POSITIVE_COMPONENT_QA_V1.json",
+      "original_QA_pin": {
+        "bytes": 674563,
+        "sha256": "2ef8c771b3f3f58bb1da23cf345c4939b22644113d557a55b471fa268396903a",
+        "git_blob_oid_of_actual_bytes": "f2e68ea212cc7314b98ab33519b0651ad67d53bc"
+      },
+      "original_field_JSON_pointer": "/actual_own_selected_source_scope/binding/evidence_path",
+      "role": "Opaque locator mapping preserved privately; original field tuple and review scope stay literal. Not a new public source dependency."
+    }
+  ],
+  "actual_ROOT_semantic_original": {
+    "evidence_id": "ROOT_ART_COMMERCE_CURRENT224_COMPLETE_PERSONAL_SOURCE_LITERAL52_NEW105_ONE_NAMED_EXACTV4_SIGNED_SEMANTIC_ADOPTION_20261014_V1.json",
+    "bytes": 62531,
+    "sha256": "0085e3599450d21241e87f4ea9e2ea5b5ba7a8ac0cf1b3f3eb1df9460de2e885",
+    "git_blob_oid_of_actual_bytes": "b09f7b4ca5dbd4e611c0dfc50f76c6ce21bc000d",
+    "role": "Public ROOT copy is byte-identical signed62531; original meaning basis224 and8prior component pins remain dated semantic acceptance, not this composition byte signature."
+  },
+  "original11_envelopes_three_carriers_source_receipt": "Exact originals/proofs and current source bindings retained privately at fixed52input custody. Prior executedROOT10255 rawguard reused at its bounded machine scope; no oversized aggregate or checkstream replay.",
+  "all14_original_gaps": "OPEN",
+  "models": 0,
+  "composition_QA_ROOT_byte_acceptance_installation_publication_runtime": "PENDING_SEPARATE_ROOT_GATES"
+}

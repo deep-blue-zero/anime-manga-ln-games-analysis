@@ -8,12 +8,7 @@ from __future__ import annotations
 
 from character_index_core import DomainError, GitSnapshot, SnapshotEntry
 from synchronize_global_registries import synchronize_snapshot
-from update_repository_indexes import expected_outputs
-
-ROUTING_OUTPUTS = frozenset({
-    "series/registry.json", "studies/registry.json", "series/README.md",
-    "studies/README.md", "governance/MANGA_ANIME_CORPUS_INDEX.md",
-})
+from update_repository_indexes import ROUTING_OUTPUTS, expected_outputs
 
 
 def routing_preflight(snapshot: GitSnapshot, branch: str) -> tuple[GitSnapshot, list[str]]:

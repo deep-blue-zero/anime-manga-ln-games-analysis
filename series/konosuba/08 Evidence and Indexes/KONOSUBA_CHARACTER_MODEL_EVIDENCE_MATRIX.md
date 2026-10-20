@@ -1,0 +1,959 @@
+---
+series: KONOSUBA
+artifact_type: main_only_character_model_evidence_matrix
+scope: MAIN_ONLY_V01-V17
+generation: V1
+model_version: MAIN_ONLY_R1
+status: canonical
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+---
+
+# Character-model evidence matrix — main-only evidence plane
+
+The original main-only index below retains its authored source/exposure scope. The dated Phase B appendix adds separately tagged validation routes; it does not add holdouts to the main derivation corpus or certify expanded literary/component completion.
+
+This accepted main-only plane connects the six frozen R1 models to admitted principal evidence. It supplies 75 claim rows: all 39 behavioral/valuation commitments, four typed constraints and 32 additional literary, relationship, narrator, ordinary-life, ensemble, voice and transfer claims. These are curated causal claims, not a claim that 39 forecasts exhaust the mature models. The remaining validation and expanded planes must still be added before full 41-object/component acceptance.
+
+The model baseline is the published 3b92d9fac53c6065098d690aef68773588126def suite, with actual semantic acceptance 15:04:33.118647Z and freeze 15:05:30.667128Z on 2026-10-17. Root subsequently reports the full publication gate closed 15:19:27.894053Z. The immutable freeze’s PENDING-at-authorship statement is preserved as history. The producer’s candidate was subsequently accepted by root on 2026-10-17T18:02:32.019080Z at the bounded receiving scope recorded below. The producer remains shielded from holdout narratives, findings and scores. This containing canonical publication is pending at authorship.
+
+Primary routes below join the frozen 137-member contract by exact native/member identities and member-local all-body-P bounds, including blanks/image slots. No chapter-concatenated numbering is used. These 102 reused windows are not new source reads or independent trials. Some original witness-index clauses remain coarser than the selected exact subroutes; their full wording and localization limits are retained in the structured companion. No excluded prose or images were opened to fill a locator gap.
+
+## How to use the evidence
+
+E1 direct high-context action, E2 recurrence, E3 relationship-conditioned repetition, E4 a genuinely shown seriousness override, E5 ordinary life, E6 narrator-framed inference/report and E7 gag contingency are claim-dependent evidence classes, not a rank ladder. Shared-death persistence is a counterweight to a universal override, not automatically E4 support. H1 literal behavior, H2 disposition with amplification, H3 gag-contingent behavior and H4 nonliteral license remain a separate axis. Literal magic is not H4 merely because modern transfer cannot reproduce it.
+
+A source action, a speaker’s claim, narrator inference, the analyst’s mechanism and its confidence stay separate. In the support/limit columns, a limiting contrast or rival explanation is not automatically a full matched failure. The exact unchanged R1 predicate, adequacy and failure fields govern; no new cost, completed-goal, first-onset, companion-only, pure-motive or grammatical-floor condition is added here.
+
+Existing Gen01–05 histories remain exact. Gen03 K04’s sufficient noticed-tears brake stays retired; Gen04 K03 local failures/formal PARTIAL and V14 A02 failure survive. Gen05 remains 8 CONFIRMED / 6 PARTIAL / 1 FALSIFIED / 3 AMBIGUOUS / 7 NOT_TESTED: J01 service F, A02 ambiguity, shared-death M05 ambiguity and M06 partial are not rescued by new R1 IDs. Equal suffixes across generations are not identical forecasts.
+
+## Frozen models and responsibility scope
+
+Five model documents have 28 actual sections; the transfer document has 22. The structured companion preserves all 162 actual section hashes, all 61 original witness-index rows and a 28-responsibility protocol crosswalk for each model. The 168 crosswalk routes do not invent six additional transfer headings or certify every sentence as an independently localized claim. Administrative sections retain their protocol responsibility without a fictional primary witness.
+
+| Model | Frozen public body | Tested-core recovery | Claim rows |
+|---|---|---|---|
+| K | [KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md](../06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md); `6fe7b325666e339ed86edba70f8d1f9491705f66a6ecdc31eeb44a5bed7a89e4` | `81566cbad8825d288595502af20897fd80dfb0d3583a524c77947615a5bf31ec` through declared inverse | 14 |
+| T | [KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md](../06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md); `3bec39a1014c50c6704e920b076076ecd2d82ffab0f987fd379844cc68783ee1` | `8ed8d78a9c9b538a88c4331214b74920715a32883408742bdf690534a000859e` through declared inverse | 9 |
+| A | [KONOSUBA_AQUA_RECONSTRUCTION_MODEL.md](../06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_AQUA_RECONSTRUCTION_MODEL.md); `2f63ef1000c74a2bf105c3cfbbd4258f39e8abe9cf1544fac25768673f17c430` | `f85d902572a6d1f5094a3892c693d7d456dde5b90b688d706840693a63499187` through declared inverse | 13 |
+| M | [KONOSUBA_MEGUMIN_RECONSTRUCTION_MODEL.md](../06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_MEGUMIN_RECONSTRUCTION_MODEL.md); `cbff1ec4266e8d6908b3d58af9870aa7f981fe40f3a573ed29da345e1f1d801f` | `618a867bfadb361305de4a4b8587a86f348eae1985042bbef11389fd9ab67080` through declared inverse | 13 |
+| D | [KONOSUBA_DARKNESS_RECONSTRUCTION_MODEL.md](../06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_DARKNESS_RECONSTRUCTION_MODEL.md); `e54f45b3aaa74197e76ec917888416b08683ef2b7194586ba060b93979e78bc9` | `dc70739ab5613e70b6387421f324330735a0b79d1944100a3fd613f1cd2a310f` through declared inverse | 12 |
+| E | [KONOSUBA_PARTY_INTERACTION_MODEL.md](../06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_PARTY_INTERACTION_MODEL.md); `cf2082e63718e1c51c171fb9225b0be5da603c1e85900f397c36e233af6d3f8e` | `13c288a0278f87af60ee0b1c01d04ed6336977e9f34d36e9f163a9e6399b0271` through declared inverse | 14 |
+
+[Frozen suite](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_MAIN_ONLY_RECONSTRUCTION_SUITE_FREEZE.json) · [exact contract registry](../06%20Character%20Modeling%20and%20Reconstruction/MAIN_ONLY_R1_EVIDENCE/EXACT_MODEL_CONTRACT_REGISTRY.json) · [principal locator readiness](../09%20Audits%20and%20Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md) · [current claim revisions](KONOSUBA_CLAIM_REVISION_LEDGER.md).
+
+### Responsibility crosswalk
+
+The five 28-section documents use the common responsibility number as their section. Transfer uses the actual sections below; this is a crosswalk, not fabricated headings. Full per-model section hashes and claim links are in the companion.
+
+| Common responsibility | K/A/M/D/party actual section | Transfer actual sections |
+|---|---|---|
+| 1. Authority/source boundary | §1 | §§1 |
+| 2. Purpose/execution contract | §2 | §§1, 2 |
+| 3. Identity/self-conception | §3 | §§2, 13 |
+| 4. Stable dispositions | §4 | §§13 |
+| 5. State variables/time slices | §5 | §§4, 5 |
+| 6. Goal hierarchy | §6 | §§6, 13 |
+| 7. Attention | §7 | §§6 |
+| 8. Appraisal | §8 | §§6, 9 |
+| 9. Reward/aversion | §9 | §§9, 13 |
+| 10. Error generators | §10 | §§20, 22 |
+| 11. Competence | §11 | §§8, 13 |
+| 12. Affect transitions | §12 | §§6, 13 |
+| 13. Regulation/inhibition | §13 | §§9, 16 |
+| 14. Operative mechanisms | §14 | §§6, 14 |
+| 15. Social scripts | §15 | §§10, 11, 15 |
+| 16. Relationship variants | §16 | §§11, 13, 14 |
+| 17. Moral/seriousness | §17 | §§16 |
+| 18. Ordinary life | §18 | §§12, 13 |
+| 19. Japanese voice | §19 | §§15 |
+| 20. Humor envelope | §20 | §§7, 15 |
+| 21. Canonical-comic mode | §21 | §§3 |
+| 22. Transfer mode | §22 | §§3, 7, 8 |
+| 23. Prospective history | §23 | §§19, 20 |
+| 24. Withheld-source status | §24 | §§21 |
+| 25. Falsifiable commitments | §25 | §§18 |
+| 26. Open areas | §26 | §§20 |
+| 27. Evidence index | §27 | §§19 |
+| 28. Simulator failures | §28 | §§17, 22 |
+
+## R1 forecast and typed-constraint evidence
+
+The [structured companion](KONOSUBA_CHARACTER_MODEL_EVIDENCE_MATRIX.json) retains every complete original contract verbatim with its registry hash/index. The following are new evidence joins and bounded summaries, not substitute scoring contracts.
+
+### R1-K01
+
+Generate an intelligible cheaper indirect option under a costly contest; implementation and recovery remain separate.
+
+- Model/source: K §25 (typed T §18); support **W11, W60**; contrary/boundary **W12, W62**.
+- Evidence/access: E1/E2; E6 for motive. Confidence: HIGH for the option-generation tendency in observed domains, MODERATE for a novel transfer.
+- Transition candidate: PRESERVE option generation; OPEN novel transfer and full implementation.
+- Simulation: {"BEHAVIOR_COMPATIBLE_LOCAL_ATTEMPT_NOT_SOURCE_CONFIRMATION": 12, "NOT_TESTED_FULL_CONJUNCTION": 6} Some eligible local attempts are behavior-compatible in the battery, not external source confirmation; paired modes overlap and physical/NPC outcomes are unobserved.
+
+### R1-K02
+
+Material security plus an optional low-incentive burden favors retained ease or bargaining, without treating attractive work as incapacity.
+
+- Model/source: K §25 (typed T §18); support **W01, W07**; contrary/boundary **W09, W46**.
+- Evidence/access: E1/E2/E5; E6 self-explanation. Confidence: HIGH within low-stakes observed conditions, MODERATE in an unfamiliar institution.
+- Transition candidate: PRESERVE conditional reluctance; REJECT global laziness or dutylessness.
+- Simulation: {"NOT_TESTED_FULL_CONJUNCTION": 18} No initial full-conjunction test in this battery; conditional/mixed local compatibility is not the forecast full test or external source confirmation.
+
+### R1-K03
+
+Recognized serious harm to a valued person with feasible known assistance recruits a practical step; concern need not await a complete plan.
+
+- Model/source: K §25 (typed T §18); support **W29, W60, W87**; contrary/boundary **W21, W46**.
+- Evidence/access: E1/E3; E4 only genuine override. Confidence: MODERATE; repeated costly support is strong, but no universal hierarchy is claimed.
+- Transition candidate: PRESERVE costly particular help; OPEN means, consent and competing-goal priority.
+- Simulation: {"NOT_TESTED_FULL_CONJUNCTION": 16, "BEHAVIOR_COMPATIBLE_LOCAL_ATTEMPT_NOT_SOURCE_CONFIRMATION": 2} Some eligible local attempts are behavior-compatible in the battery, not external source confirmation; paired modes overlap and physical/NPC outcomes are unobserved.
+
+### R1-K04
+
+A grievance with leverage can recruit pressure or humiliation beyond correction; noticed distress is not a sufficient stopping rule.
+
+- Model/source: K §25 (typed T §18); support **W14, W46**; contrary/boundary **W64**.
+- Evidence/access: E1/E3/E6. Confidence: MODERATE, not a reverse universal tears law.
+- Transition candidate: REVISE retired tear brake; PRESERVE current bounded self-serving pressure tendency.
+- Simulation: {"NOT_TESTED_FULL_CONJUNCTION": 18} No initial full-conjunction test in this battery; conditional/mixed local compatibility is not the forecast full test or external source confirmation.
+
+### R1-K05
+
+Recognized technique failure with a usable alternative and still-active goal recruits method revision, not a universal intelligence guarantee.
+
+- Model/source: K §25 (typed T §18); support **W11, W60, W61**; contrary/boundary **W12, W62**.
+- Evidence/access: E1/E2. Confidence: HIGH for known source domains, MODERATE in novel transfer.
+- Transition candidate: PRESERVE source-domain updating; OPEN transfer and recovery.
+- Simulation: {"NOT_TESTED_FULL_CONJUNCTION": 18} No initial full-conjunction test in this battery; conditional/mixed local compatibility is not the forecast full test or external source confirmation.
+
+### R1-K06
+
+Particular history changes valuation of a role-equivalent replacement, without guaranteeing refusal of every separation.
+
+- Model/source: K §25 (typed T §18); support **W20, W21, W29, W87**; contrary/boundary **W46**.
+- Evidence/access: E1/E3/E5/E6. Confidence: HIGH for the valuation distinction; MODERATE for its observable expression in another viewpoint.
+- Transition candidate: PRESERVE person-specific valuation; DOWNGRADE invariant always-stay inference.
+- Simulation: {"NOT_TESTED_FULL_CONJUNCTION": 18} No initial full-conjunction test in this battery; conditional/mixed local compatibility is not the forecast full test or external source confirmation.
+
+### R1-K07
+
+A later no-choice account may selectively mitigate directly shown agency; the account is a separate event requiring viewpoint access.
+
+- Model/source: K §25 (typed T §18); support **W51, W52**; contrary/boundary **W102**.
+- Evidence/access: E1 versus E6 account. Confidence: MODERATE.
+- Transition candidate: PRESERVE representational risk; OPEN unobserved prior intention and honest-account alternatives.
+- Simulation: {"NOT_TESTED_FULL_CONJUNCTION": 18} No initial full-conjunction test in this battery; conditional/mixed local compatibility is not the forecast full test or external source confirmation.
+
+### R1-K08
+
+Eligible status pressure may use a defensible civil/questioning surface; register alone cannot establish the pragmatic purpose.
+
+- Model/source: K §25 (typed T §18); support **W14, W46**; contrary/boundary **W51, W86**.
+- Evidence/access: E1/E3 written context; no acoustics. Confidence: MODERATE; deliberately narrower and less general than a whole-voice stereotype.
+- Transition candidate: PRESERVE pragmatic contrast; OPEN mixed function and ordinary politeness.
+- Simulation: {"NOT_TESTED_FULL_CONJUNCTION": 16, "CONDITIONAL_LANGUAGE_EFFECT_MIXED_NOT_FULL_BEHAVIOR_TEST": 2} No initial full-conjunction test in this battery; conditional/mixed local compatibility is not the forecast full test or external source confirmation.
+
+### R1-T01
+
+Known absence of a power prevents its successful use; local alternatives require actual resources and learned competence.
+
+- Model/source: T §18 (typed constraints); support **W58, W59, W12**; contrary/boundary **W62**.
+- Evidence/access: Typed fidelity; E1 constraint and E6 report of repaired fit; not a behavioral trial. Confidence: HIGH as an internal fidelity constraint, MODERATE/LOW for the exact alternative action.
+- Transition candidate: PRESERVE capability integrity; OPEN the novel alternative action.
+- Simulation: Typed integrity views, not behavioral outcomes. Typed consistency only: four views per execution, 360 overlapping views in all; this does not establish source behavior or a novel transfer response.
+
+### R1-T02
+
+Known changed costs must enter the appraisal without erasing goals or making every choice safe or ideal.
+
+- Model/source: T §18 (typed constraints); support **W46, W84**; contrary/boundary **W66**.
+- Evidence/access: Typed appraisal integrity; E1/E3/E6. Confidence: MODERATE for expression, HIGH that the known cost must not be erased.
+- Transition candidate: PRESERVE cost representation; OPEN whether desire or inhibition wins.
+- Simulation: Typed integrity views, not behavioral outcomes. Typed consistency only: four views per execution, 360 overlapping views in all; this does not establish source behavior or a novel transfer response.
+
+### R1-T03
+
+Earlier state slices retain their own knowledge, resources and relationships; later intimacy is not backprojected.
+
+- Model/source: T §18 (typed constraints); support **W03, W48, W51**; contrary/boundary **W91**.
+- Evidence/access: Typed historical consistency, not source behavior confirmation. Confidence: HIGH as a bounded historical consistency requirement.
+- Transition candidate: PRESERVE chronological eligibility; OPEN unresolved dating.
+- Simulation: Typed integrity views, not behavioral outcomes. Typed consistency only: four views per execution, 360 overlapping views in all; this does not establish source behavior or a novel transfer response.
+
+### R1-T04
+
+Independent ownership, permission, private knowledge and phase providers constrain coordination even when a harmful unilateral attempt is character-consistent.
+
+- Model/source: T §18 (typed constraints); support **W21, W23, W26, W84**; contrary/boundary **W12, W89**.
+- Evidence/access: Typed agency/provider integrity; E1/E3/E6. Confidence: HIGH as a party/resource fidelity constraint; MODERATE for the particular negotiated outcome.
+- Transition candidate: PRESERVE actor separation; REJECT automatic consent, shared knowledge and recovery.
+- Simulation: Typed integrity views, not behavioral outcomes. Typed consistency only: four views per execution, 360 overlapping views in all; this does not establish source behavior or a novel transfer response.
+
+### R1-A01
+
+An adopted fitted helping step can use real domain competence only with actual access, readiness and resources; ordinary technique can still fail.
+
+- Model/source: A §25 (typed T §18); support **W01, W06, W35, W82**; contrary/boundary **W63**.
+- Evidence/access: E1/E2/E5; E6 for reports. Confidence: MODERATE for reliable fitted execution; HIGH for existence of specified repeatedly demonstrated capacities.
+- Transition candidate: PRESERVE demonstrated capacity; OPEN reliable whole-operation execution.
+- Simulation: {"CONDITIONAL_PHASE_LIMITED_OR_UNCREATED_NOT_INITIAL_FULL_TEST": 10, "NOT_TESTED_FULL_CONJUNCTION": 8} No initial full-conjunction test in this battery; conditional/mixed local compatibility is not the forecast full test or external source confirmation.
+
+### R1-A02
+
+Acknowledged useful work can recruit related re-engagement, with pride compatible with helping; participation does not isolate acknowledgment as the cause.
+
+- Model/source: A §25 (typed T §18); support **W35, W75, W79, W82**; contrary/boundary **W80, W88**.
+- Evidence/access: E1/E2/E3; retrospective report separated. Confidence: MODERATE; source-named support category has cross-volume recurrence but unique cause is not isolated.
+- Transition candidate: PRESERVE recurrence and CP06 A03 C; OPEN unique cause and voice function.
+- Simulation: {"NOT_TESTED_FULL_CONJUNCTION": 18} No initial full-conjunction test in this battery; conditional/mixed local compatibility is not the forecast full test or external source confirmation.
+
+### R1-A03
+
+Received divine-identity denial recruits self-legitimation more securely than displacement of another actual task.
+
+- Model/source: A §25 (typed T §18); support **W92, W35**; contrary/boundary **W64, W79**.
+- Evidence/access: E1/E2/E6. Confidence: MODERATE; strong descriptive identity sensitivity, unresolved action-priority transfer.
+- Transition candidate: REVISE broad displacement; PRESERVE identity sensitivity with CP06 A02 AMBIGUOUS.
+- Simulation: {"NOT_TESTED_FULL_CONJUNCTION": 18} No initial full-conjunction test in this battery; conditional/mixed local compatibility is not the forecast full test or external source confirmation.
+
+### R1-A04
+
+An understood art-for-repetition offer can meet resistance or renegotiation despite financial appetite.
+
+- Model/source: A §25 (typed T §18); support **W02**; contrary/boundary **W35**.
+- Evidence/access: E1/E5; narrow source basis. Confidence: LOW for broad transfer; HIGH for actual MAIN01 refusal.
+- Transition candidate: PRESERVE actual standard/refusal; OPEN generality and transfer.
+- Simulation: {"NOT_TESTED_FULL_CONJUNCTION": 18} No initial full-conjunction test in this battery; conditional/mixed local compatibility is not the forecast full test or external source confirmation.
+
+### R1-A05
+
+A trusted friend willingly accepting grave harm can create pre-action moral difficulty; the observed hesitation has mixed gaze/conscience/relationship causes.
+
+- Model/source: A §25 (typed T §18); support **W66**; contrary/boundary **W66**.
+- Evidence/access: E1/E3; E4 local override, E6 motive inference. Confidence: LOW for transfer; HIGH for the observed nonexecution and dialogue in the source.
+- Transition candidate: PRESERVE bounded conflict; OPEN extension beyond Wiz and purity of motive.
+- Simulation: {"NOT_TESTED_FULL_CONJUNCTION": 18} No initial full-conjunction test in this battery; conditional/mixed local compatibility is not the forecast full test or external source confirmation.
+
+### R1-A06
+
+Benefits of efficient substitute company need not remove residual desire for particular familiar people; no permanent group arrangement follows.
+
+- Model/source: A §25 (typed T §18); support **W67, W68, W76**; contrary/boundary **W87**.
+- Evidence/access: E1/E3/E5/E6. Confidence: MODERATE for this residual preference, LOW for any permanent arrangement choice.
+- Transition candidate: PRESERVE residual preference; OPEN permanent arrangements and viewpoint access.
+- Simulation: {"NOT_TESTED_FULL_CONJUNCTION": 18} No initial full-conjunction test in this battery; conditional/mixed local compatibility is not the forecast full test or external source confirmation.
+
+### R1-A07
+
+A losing sequence with another stake can recruit optimistic reversal or omen reasoning rather than calibrated updating.
+
+- Model/source: A §25 (typed T §18); support **W44, W45, W57**; contrary/boundary **W43**.
+- Evidence/access: E1/E5/E6. Confidence: MODERATE descriptive recurrence; LOW transfer across unfamiliar games.
+- Transition candidate: PRESERVE described recurrence; OPEN unfamiliar odds and informed entertainment rival.
+- Simulation: {"NOT_TESTED_FULL_CONJUNCTION": 18} No initial full-conjunction test in this battery; conditional/mixed local compatibility is not the forecast full test or external source confirmation.
+
+### R1-A08
+
+A particular independently valued loss need not become fungible under an equivalent-value replacement claim.
+
+- Model/source: A §25 (typed T §18); support **W49, W50**; contrary/boundary **W41**.
+- Evidence/access: E1/E5/E6. Confidence: LOW to MODERATE; strongest named-game witness is bounded, with other possession distinctions supportive but not identical.
+- Transition candidate: PRESERVE particular loss; REVISE actual Schneider locator; OPEN broad transfer.
+- Simulation: {"NOT_TESTED_FULL_CONJUNCTION": 18} No initial full-conjunction test in this battery; conditional/mixed local compatibility is not the forecast full test or external source confirmation.
+
+### R1-M01
+
+Explicit Explosion-legitimacy criticism can outweigh known ordinary companion cost; a later explicit warning is not required.
+
+- Model/source: M §25 (typed T §18); support **W03, W56**; contrary/boundary **W71, W84**.
+- Evidence/access: E1/E3; E6 attribution limits. Confidence: MODERATE for priority under the full ordinary-cost conjunction; HIGH for descriptive identity sensitivity.
+- Transition candidate: PRESERVE ordinary-cost branch; OPEN rank-only subtype and grave-risk extrapolation.
+- Simulation: {"NOT_TESTED_FULL_CONJUNCTION": 18} No initial full-conjunction test in this battery; conditional/mixed local compatibility is not the forecast full test or external source confirmation.
+
+### R1-M02
+
+Self-accepted substantial contribution loss with an available alternative recruits serious reconsideration, not necessarily a performed rebuild.
+
+- Model/source: M §25 (typed T §18); support **W20, W77**; contrary/boundary **W21**.
+- Evidence/access: E1/E3/E5. Confidence: MODERATE for serious consideration, LOW for permanent build policy.
+- Transition candidate: PRESERVE conflict and CP06 M02 C; REVISE unilateral-allocation-as-consent shorthand.
+- Simulation: {"NOT_TESTED_FULL_CONJUNCTION": 18} No initial full-conjunction test in this battery; conditional/mixed local compatibility is not the forecast full test or external source confirmation.
+
+### R1-M03
+
+Prepared narrow target execution can be competent while complete safe-operation reliability remains insufficiently tested.
+
+- Model/source: M §25 (typed T §18); support **W10, W36**; contrary/boundary **W78, W90**.
+- Evidence/access: E1/E2; readiness independent of outcome. Confidence: LOW to MODERATE for the complete prepared reliability conditional; HIGH for demonstrated destructive capacity alone.
+- Transition candidate: PRESERVE destructive capacity; OPEN full prepared safety/recovery conjunction.
+- Simulation: {"NOT_TESTED_FULL_CONJUNCTION": 18} No initial full-conjunction test in this battery; conditional/mixed local compatibility is not the forecast full test or external source confirmation.
+
+### R1-M04
+
+A prior bond to the actual target can cause pre-action friction and a distinct aftermath; neither branch rescues the other.
+
+- Model/source: M §25 (typed T §18); support **W38, W39, W40**; contrary/boundary **W84**.
+- Evidence/access: E1/E3/E4; E6 private-access limits. Confidence: LOW for general transfer; HIGH for the bounded Wolbach conflict and aftermath.
+- Transition candidate: PRESERVE Wolbach sequence; OPEN other targets and separate after-harm branch.
+- Simulation: {"NOT_TESTED_FULL_CONJUNCTION": 18} No initial full-conjunction test in this battery; conditional/mixed local compatibility is not the forecast full test or external source confirmation.
+
+### R1-M05
+
+Gratifying instrumental repetition can leave continuation desire after the original goal weakens; desire, act and safe operation differ.
+
+- Model/source: M §25 (typed T §18); support **W37, W78**; contrary/boundary **W90, W77**.
+- Evidence/access: E1/E2/E6. Confidence: MODERATE for observed desire to continue; LOW for a complete safe-operation drift law.
+- Transition candidate: PRESERVE drift tendency; OPEN new tactical need and full safe-operation transfer.
+- Simulation: {"NOT_TESTED_FULL_CONJUNCTION": 18} No initial full-conjunction test in this battery; conditional/mixed local compatibility is not the forecast full test or external source confirmation.
+
+### R1-M06
+
+A still-operative negotiated pace requires specific free agreement to change a step; deliberate unilateral advance alone does not satisfy agency-respect.
+
+- Model/source: M §25 (typed T §18); support **W48, W51**; contrary/boundary **W52, W30**.
+- Evidence/access: E1/E3/E6. Confidence: LOW to MODERATE; strong represented negotiation, weaker persistence across new pressures.
+- Transition candidate: PRESERVE negotiated state; OPEN persistence; preserve pre-case M06 precision.
+- Simulation: {"NOT_TESTED_FULL_CONJUNCTION": 18} No initial full-conjunction test in this battery; conditional/mixed local compatibility is not the forecast full test or external source confirmation.
+
+### R1-M07
+
+When rescuing her image would transparently humiliate a valued person or assert a known falsehood, she can accept her own embarrassment.
+
+- Model/source: M §25 (typed T §18); support **W47**; contrary/boundary **W56**.
+- Evidence/access: E1/E3/E5. Confidence: LOW for broad transfer; HIGH for the witnessed bounded choice.
+- Transition candidate: PRESERVE bounded choice; OPEN broad face-protection generalization at LOW confidence.
+- Simulation: {"NOT_TESTED_FULL_CONJUNCTION": 18} No initial full-conjunction test in this battery; conditional/mixed local compatibility is not the forecast full test or external source confirmation.
+
+### R1-D01
+
+Recognizable harm with a believed feasible defensive act recruits actual intervention; intention and safety are separate.
+
+- Model/source: D §25 (typed T §18); support **W22, W78**; contrary/boundary **W84**.
+- Evidence/access: E1/E2/E3; E4 only actual priority override. Confidence: HIGH
+- Transition candidate: PRESERVE concrete protection; OPEN judgment and collective safety.
+- Simulation: {"NOT_TESTED_FULL_CONJUNCTION": 14, "BEHAVIOR_COMPATIBLE_LOCAL_ATTEMPT_NOT_SOURCE_CONFIRMATION": 4} Some eligible local attempts are behavior-compatible in the battery, not external source confirmation; paired modes overlap and physical/NPC outcomes are unobserved.
+
+### R1-D02
+
+Efficiency advice that removes a desired defense experience can meet resistance while useful contribution remains valued.
+
+- Model/source: D §25 (typed T §18); support **W05, W17, W34**; contrary/boundary **W34**.
+- Evidence/access: E1/E2/E5; H2 amplification kept. Confidence: HIGH
+- Transition candidate: PRESERVE chosen allocation; REJECT every-miss-intentional or uselessness preference.
+- Simulation: {"NOT_TESTED_FULL_CONJUNCTION": 18} No initial full-conjunction test in this battery; conditional/mixed local compatibility is not the forecast full test or external source confirmation.
+
+### R1-D03
+
+Unwanted reclassification threatening an existing peer relation recruits objection/restoration; a name or public act alone is not sufficient.
+
+- Model/source: D §25 (typed T §18); support **W15, W16**; contrary/boundary **W72, W31**.
+- Evidence/access: E1/E3/E6 family report. Confidence: HIGH
+- Transition candidate: PRESERVE belonging-sensitive boundary; REVISE unsupported childhood dating.
+- Simulation: {"NOT_TESTED_FULL_CONJUNCTION": 18} No initial full-conjunction test in this battery; conditional/mixed local compatibility is not the forecast full test or external source confirmation.
+
+### R1-D04
+
+An unfair burden on companions can be absorbed through secrecy or self-removal, producing protective errors without compulsory permanent separation.
+
+- Model/source: D §25 (typed T §18); support **W29, W30**; contrary/boundary **W42**.
+- Evidence/access: E1/E3/E4; E6 financing report. Confidence: MODERATE
+- Transition candidate: PRESERVE costly burden mechanism; OPEN exact generality beyond the strong V07 case.
+- Simulation: {"NOT_TESTED_FULL_CONJUNCTION": 18} No initial full-conjunction test in this battery; conditional/mixed local compatibility is not the forecast full test or external source confirmation.
+
+### R1-D05
+
+An unwanted added condition can reverse a chosen painful/humiliating scenario even alongside arousal.
+
+- Model/source: D §25 (typed T §18); support **W74, W31**; contrary/boundary **W72**.
+- Evidence/access: E1/E3/E5; act-specific agency. Confidence: HIGH
+- Transition candidate: PRESERVE conditional reappraisal; REJECT generic pain/publicity consent.
+- Simulation: {"NOT_TESTED_FULL_CONJUNCTION": 18} No initial full-conjunction test in this battery; conditional/mixed local compatibility is not the forecast full test or external source confirmation.
+
+### R1-D06
+
+Domain-matched civic/household contribution can be real without perfect expertise or ethical methods.
+
+- Model/source: D §25 (typed T §18); support **W22, W34, W42**; contrary/boundary **W42**.
+- Evidence/access: E1/E2/E5. Confidence: MODERATE
+- Transition candidate: PRESERVE useful local contribution; OPEN expertise and means quality.
+- Simulation: {"BEHAVIOR_COMPATIBLE_LOCAL_ATTEMPT_NOT_SOURCE_CONFIRMATION": 12, "NOT_TESTED_FULL_CONJUNCTION": 4, "CONDITIONAL_PHASE_LIMITED_OR_UNCREATED_NOT_INITIAL_FULL_TEST": 2} Some eligible local attempts are behavior-compatible in the battery, not external source confirmation; paired modes overlap and physical/NPC outcomes are unobserved.
+
+### R1-D07
+
+Vulnerable acknowledgment and later ridicule form distinct phases; affection does not permanently cure subsequent hurt.
+
+- Model/source: D §25 (typed T §18); support **W30, W31, W52**; contrary/boundary **W72**.
+- Evidence/access: E1/E3/E6. Confidence: MODERATE
+- Transition candidate: PRESERVE phased response; OPEN retaliation form and later negotiated state.
+- Simulation: {"NOT_TESTED_FULL_CONJUNCTION": 18} No initial full-conjunction test in this battery; conditional/mixed local compatibility is not the forecast full test or external source confirmation.
+
+### R1-D08
+
+Personal endurance and desired protector role can be used to justify proceeding despite unverified group safety.
+
+- Model/source: D §25 (typed T §18); support **W17, W84**; contrary/boundary **W22, W74**.
+- Evidence/access: E1/E3/E6; counterevidence to universal E4 restraint. Confidence: MODERATE
+- Transition candidate: PRESERVE bounded adverse mechanism; OPEN replication; no universal death wish.
+- Simulation: {"NOT_TESTED_FULL_CONJUNCTION": 18} No initial full-conjunction test in this battery; conditional/mixed local compatibility is not the forecast full test or external source confirmation.
+
+### R1-E01
+
+Compatible accepted capacities can support a local staged handoff; full-campaign equivalence and compulsory Kazuma coordination do not follow.
+
+- Model/source: E §25 (typed T §18); support **W10, W11, W12, W19**; contrary/boundary **W18, W23**.
+- Evidence/access: E1/E2/E6; phased providers. Confidence: HIGH
+- Transition candidate: PRESERVE complementarity; REVISE universal organizer/institution assignment.
+- Simulation: {"CONDITIONAL_PHASE_LIMITED_OR_UNCREATED_NOT_INITIAL_FULL_TEST": 14, "NOT_TESTED_FULL_CONJUNCTION": 4} No initial full-conjunction test in this battery; conditional/mixed local compatibility is not the forecast full test or external source confirmation.
+
+### R1-E02
+
+A conspicuous individual metric can degrade complementary cooperation; better aligned recognition is a real rival.
+
+- Model/source: E §25 (typed T §18); support **W33**; contrary/boundary **W35, W75**.
+- Evidence/access: E1/E2/E3; motive competition. Confidence: MODERATE
+- Transition candidate: PRESERVE incentive mechanism with actual R1 local adverse; OPEN pragmatic self-credit rival.
+- Simulation: {"NOT_TESTED_FULL_CONJUNCTION": 16, "LOCAL_ADVERSE_WITH_PREBOUND_INFERENCE_AND_PRAGMATIC_RIVAL": 2} Actual F04-PARTY paired setting is locally adverse under the prebound recognition-salience inference, with self-credit/competition rival; preserve both first modes and initial/overlay history, not global retirement.
+
+### R1-E03
+
+Residual recovery needs can recruit another cue-receiving provider; absence of an automatic reset is a structural state, not behavioral support.
+
+- Model/source: E §25 (typed T §18); support **W12, W13, W53, W89**; contrary/boundary **W18**.
+- Evidence/access: E1/E2/E6; separate phases. Confidence: HIGH
+- Transition candidate: PRESERVE recovery dependency; OPEN each actual attempted intervention.
+- Simulation: {"NOT_TESTED_FULL_CONJUNCTION": 18} No initial full-conjunction test in this battery; conditional/mixed local compatibility is not the forecast full test or external source confirmation.
+
+### R1-E04
+
+Credible loss of particular company can motivate resistance/cost despite apparently workable substitutes; choices stay nonuniform.
+
+- Model/source: E §25 (typed T §18); support **W29, W30, W67, W76**; contrary/boundary **W46, W87**.
+- Evidence/access: E1/E3/E5/E6. Confidence: MODERATE
+- Transition candidate: PRESERVE particular membership; REJECT always-together or proven optimal-substitute rule.
+- Simulation: {"NOT_TESTED_FULL_CONJUNCTION": 18} No initial full-conjunction test in this battery; conditional/mixed local compatibility is not the forecast full test or external source confirmation.
+
+### R1-E05
+
+Private or differently interpreted task premises can yield divergent acts; correct bookkeeping alone is not behavioral confirmation.
+
+- Model/source: E §25 (typed T §18); support **W26, W27, W65**; contrary/boundary **W89**.
+- Evidence/access: E1/E6 information access. Confidence: MODERATE
+- Transition candidate: PRESERVE private-state separation; OPEN preidentified partner response and robust coordination rival.
+- Simulation: {"NOT_TESTED_FULL_CONJUNCTION": 18} No initial full-conjunction test in this battery; conditional/mixed local compatibility is not the forecast full test or external source confirmation.
+
+### R1-E06
+
+An able informed recipient can resist an act outside known permission even while attached; actor stop and recipient response are separate predictions.
+
+- Model/source: E §25 (typed T §18); support **W30, W52, W81**; contrary/boundary **W21, W46**.
+- Evidence/access: E1/E3; ethical scope independent of motive. Confidence: HIGH
+- Transition candidate: PRESERVE act-specific boundaries; OPEN adequate nonresponse as adverse, no posthoc incapacity.
+- Simulation: {"NOT_TESTED_FULL_CONJUNCTION": 18} No initial full-conjunction test in this battery; conditional/mixed local compatibility is not the forecast full test or external source confirmation.
+
+### R1-E07
+
+A compatible outsider/institution can enable a useful accepted phase without proving an equivalent whole replacement campaign.
+
+- Model/source: E §25 (typed T §18); support **W19, W23, W24, W89**; contrary/boundary **W25**.
+- Evidence/access: E1/E6 actual-versus-proposed providers. Confidence: HIGH
+- Transition candidate: PRESERVE outside phases; DOWNGRADE unperformed whole-campaign substitution.
+- Simulation: {"NOT_TESTED_FULL_CONJUNCTION": 14, "CONDITIONAL_PHASE_LIMITED_OR_UNCREATED_NOT_INITIAL_FULL_TEST": 4} No initial full-conjunction test in this battery; conditional/mixed local compatibility is not the forecast full test or external source confirmation.
+
+### R1-E08
+
+Serious task motivation and rewarding performance can amplify risk while partners object; regulation need not synchronize.
+
+- Model/source: E §25 (typed T §18); support **W78, W84, W90**; contrary/boundary **W66, W89**.
+- Evidence/access: E1/E3/E6; E4 override must be separately shown. Confidence: MODERATE
+- Transition candidate: PRESERVE asynchronous risk; REJECT universal seriousness brake and inevitable unsafe firing.
+- Simulation: {"NOT_TESTED_FULL_CONJUNCTION": 18} No initial full-conjunction test in this battery; conditional/mixed local compatibility is not the forecast full test or external source confirmation.
+
+## Literary claims beyond the forecast catalog
+
+These32 rows cover consequential model claims that must not disappear because no stand-alone R1 forecast names them. They are not an exhaustive sentence-by-sentence extraction. Their confidence and transitions are evidence-proportional proposals for receiving, not fresh prospective scores.
+
+### LC-K01
+
+Ease is a competing value, not an inability to work; attractive skilled labor and quiet help defeat a global lazy essence.
+
+- Model responsibilities: K §§3,5,6,9,18. Support **W01, W07**; contrary/boundary **W09**.
+- Evidence/access: E1/E2/E5; E6 account. Confidence: HIGH observed work/preferences; MODERATE policy.
+- Transition candidate: PRESERVE state-dependent effort; REJECT trait-only incapacity.
+- Validation limit: No direct claim-level validation follows from the 90-case battery; related contracts may be tested incompletely. Source support, hypothetical consistency and later holdout validation remain separate.
+
+### LC-K02
+
+He values particular companions while sometimes actually leaving; replacement efficacy and attachment are distinct variables.
+
+- Model responsibilities: K §§5,6,16,18. Support **W29, W87**; contrary/boundary **W46**.
+- Evidence/access: E1/E3/E5/E6. Confidence: HIGH episodes; MODERATE comparative valuation.
+- Transition candidate: PRESERVE attachment; DOWNGRADE universal household choice.
+- Validation limit: No direct claim-level validation follows from the 90-case battery; related contracts may be tested incompletely. Source support, hypothetical consistency and later holdout validation remain separate.
+
+### LC-K03
+
+Reward salience can persist without a newly received cue; existing goal sufficiency and later scope declarations constrain reward-stopping models.
+
+- Model responsibilities: K §§9,10,13,23,26. Support **W54, W55, W70**; contrary/boundary **W64, W91**.
+- Evidence/access: E1/E2/E6; temporal identification. Confidence: HIGH event order; MODERATE cause; formal histories unchanged.
+- Transition candidate: REVISE retrospective-feedback shorthand; OPEN competing completion/reward branches.
+- Validation limit: No direct claim-level validation follows from the 90-case battery; related contracts may be tested incompletely. Source support, hypothetical consistency and later holdout validation remain separate.
+
+### LC-K04
+
+Shown voluntary participation, a later no-choice account, an explicitly fictional passage inside an altered-state diary and a repeated prior-intention claim are distinct evidentiary events.
+
+- Model responsibilities: K §§3,8,10,19,27. Support **W51, W52**; contrary/boundary **W65, W102**.
+- Evidence/access: E1 versus E6. Confidence: HIGH observed words/acts; LOW unobserved prior motive.
+- Transition candidate: PRESERVE narrator fallibility; OPEN private causation.
+- Validation limit: No direct claim-level validation follows from the 90-case battery; related contracts may be tested incompletely. Source support, hypothetical consistency and later holdout validation remain separate.
+
+### LC-K05
+
+A local technique can be clever and effective yet omit mass, heat, finishing or extraction; action quality is multidimensional.
+
+- Model responsibilities: K §§10,11,14,21,22. Support **W11, W60, W61**; contrary/boundary **W12, W62**.
+- Evidence/access: E1/E2; literal world mechanics separate from H amplification. Confidence: HIGH capacities and limits; MODERATE novel method.
+- Transition candidate: PRESERVE leverage; OPEN full-operation reliability.
+- Validation limit: No direct claim-level validation follows from the 90-case battery; related contracts may be tested incompletely. Source support, hypothetical consistency and later holdout validation remain separate.
+
+### LC-K06
+
+Civil question grammar can perform pressure, ordinary politeness or a protective wait; function requires recipient and chronology.
+
+- Model responsibilities: K §§15,19,20. Support **W14, W46**; contrary/boundary **W51, W86**.
+- Evidence/access: E1/E3 written pragmatics. Confidence: HIGH forms/sequence; MODERATE dominant function.
+- Transition candidate: PRESERVE varied voice; REJECT register-to-motive identity.
+- Validation limit: No direct claim-level validation follows from the 90-case battery; related contracts may be tested incompletely. Source support, hypothetical consistency and later holdout validation remain separate.
+
+### LC-A01
+
+Skilled labor and an intrinsic art standard coexist with appetite and property externalities; neither useful nor foolish is the complete person.
+
+- Model responsibilities: A §§3,4,9,11,18. Support **W01, W02, W35**; contrary/boundary **W06, W41**.
+- Evidence/access: E1/E2/E5. Confidence: HIGH bounded acts; MODERATE generality.
+- Transition candidate: STRENGTHEN ordinary competence; PRESERVE costs.
+- Validation limit: No direct claim-level validation follows from the 90-case battery; related contracts may be tested incompletely. Source support, hypothetical consistency and later holdout validation remain separate.
+
+### LC-A02
+
+Sacred classification and devoted intention do not certify humane judgment; a trusted consenting friend can inhibit a declared categorical act.
+
+- Model responsibilities: A §§6,8,13,17. Support **W66**; contrary/boundary **W92, W63**.
+- Evidence/access: E1/E3; E4 local inhibition; E6 motive. Confidence: HIGH nonexecution/words; LOW general moral priority.
+- Transition candidate: PRESERVE mixed conscience/relationship/gaze; OPEN wider moral rule.
+- Validation limit: No direct claim-level validation follows from the 90-case battery; related contracts may be tested incompletely. Source support, hypothetical consistency and later holdout validation remain separate.
+
+### LC-A03
+
+Readiness, target fit and mana compatibility are separate from the existence of power; mode and provider changes can enable a fitted step.
+
+- Model responsibilities: A §§5,10,11,14,21. Support **W10, W12**; contrary/boundary **W63**.
+- Evidence/access: E1/E2/E6 reports. Confidence: HIGH capability and observed mode effects; MODERATE reliability.
+- Transition candidate: PRESERVE capacity; OPEN access, adoption and whole operation.
+- Validation limit: No direct claim-level validation follows from the 90-case battery; related contracts may be tested incompletely. Source support, hypothetical consistency and later holdout validation remain separate.
+
+### LC-A04
+
+Real continuing service can coexist with enjoyment, excuses and refusal rather than the predicted practical-language increase.
+
+- Model responsibilities: A §§15,19,23,26. Support **W79, W88**; contrary/boundary **W69, W35**.
+- Evidence/access: E1/E3; written function, fixed windows. Confidence: HIGH chronology; MODERATE functional adverse; Gen05 J01 F.
+- Transition candidate: PRESERVE formal service failure and competing mixed cases; no professional/first-onset floor.
+- Validation limit: No direct claim-level validation follows from the 90-case battery; related contracts may be tested incompletely. Source support, hypothetical consistency and later holdout validation remain separate.
+
+### LC-A05
+
+Familiar household company has residual value beyond convenience; contact and expressed preference do not establish romance or permanent cohabitation.
+
+- Model responsibilities: A §§5,6,16,18. Support **W67, W68, W76**; contrary/boundary **W87, W91**.
+- Evidence/access: E1/E3/E5/E6. Confidence: MODERATE relational policy; HIGH represented expressions.
+- Transition candidate: PRESERVE particular company; OPEN final relational settlement.
+- Validation limit: No direct claim-level validation follows from the 90-case battery; related contracts may be tested incompletely. Source support, hypothetical consistency and later holdout validation remain separate.
+
+### LC-M01
+
+A narrow build is also a valued identity; what she can do and what she loves are distinct but connected reasons.
+
+- Model responsibilities: M §§3,4,6,11,18. Support **W03, W04**; contrary/boundary **W77**.
+- Evidence/access: E1/E5. Confidence: HIGH expressed distinction; MODERATE continuing choice.
+- Transition candidate: PRESERVE chosen value; OPEN actual later build policy.
+- Validation limit: No direct claim-level validation follows from the 90-case battery; related contracts may be tested incompletely. Source support, hypothetical consistency and later holdout validation remain separate.
+
+### LC-M02
+
+A request to change skills, Kazuma’s allocation and later enjoyment are separate agency states; identity-sensitive affection can override her expressed intention.
+
+- Model responsibilities: M §§5,10,13,16. Support **W20, W21**; contrary/boundary **W77**.
+- Evidence/access: E1/E3/E6. Confidence: HIGH allocation order; MODERATE motive.
+- Transition candidate: PRESERVE CR004; REJECT retroactive joint consent.
+- Validation limit: No direct claim-level validation follows from the 90-case battery; related contracts may be tested incompletely. Source support, hypothetical consistency and later holdout validation remain separate.
+
+### LC-M03
+
+Acknowledged grave shared danger does not guarantee self-inhibition; external catches and later alternatives cannot be recast as her earlier restraint.
+
+- Model responsibilities: M §§8,10,12,13,17. Support **W78, W84, W90**; contrary/boundary **W38, W89**.
+- Evidence/access: E1/E3/E6; counterweight to universal E4. Confidence: HIGH grave appraisal/actions; MODERATE mechanism; old M05 AMB/M06 P.
+- Transition candidate: PRESERVE adverse/uncertain histories; OPEN inhibition generality.
+- Validation limit: No direct claim-level validation follows from the 90-case battery; related contracts may be tested incompletely. Source support, hypothetical consistency and later holdout validation remain separate.
+
+### LC-M04
+
+A bonded actual target changes pre-action feasibility and aftermath; personal conflict can coexist with chosen harmful resolution.
+
+- Model responsibilities: M §§6,12,16,17. Support **W38, W39, W40**; contrary/boundary **W37**.
+- Evidence/access: E1/E3/E4; E6 uncertain forgiveness. Confidence: HIGH bounded conflict; LOW cross-target transfer.
+- Transition candidate: PRESERVE split phases; REJECT later regret as a universal earlier-friction rescue.
+- Validation limit: No direct claim-level validation follows from the 90-case battery; related contracts may be tested incompletely. Source support, hypothetical consistency and later holdout validation remain separate.
+
+### LC-M05
+
+Agency, family face and ordinary needs remain active beside romance; a negotiated pace is neither chastity nor a final exclusive settlement.
+
+- Model responsibilities: M §§15,16,18. Support **W47, W48, W51**; contrary/boundary **W52, W91**.
+- Evidence/access: E1/E3/E5/E6. Confidence: HIGH bounded negotiation; LOW persistence/generalization.
+- Transition candidate: PRESERVE state slices and free agreement; OPEN ending.
+- Validation limit: No direct claim-level validation follows from the 90-case battery; related contracts may be tested incompletely. Source support, hypothetical consistency and later holdout validation remain separate.
+
+### LC-M06
+
+Polite structure, identity performance and reported quotation carry different functions; a familiar prefix alone cannot stand for the target turn.
+
+- Model responsibilities: M §§19,20. Support **W03, W32, W71**; contrary/boundary **W89**.
+- Evidence/access: E1/E3; ruby and speaker phase distinct. Confidence: HIGH reused forms/order; MODERATE pragmatics.
+- Transition candidate: PRESERVE material Japanese distinctions; no acoustic or new L assignment.
+- Validation limit: No direct claim-level validation follows from the 90-case battery; related contracts may be tested incompletely. Source support, hypothetical consistency and later holdout validation remain separate.
+
+### LC-D01
+
+Ordinary peer treatment matters; testimony from Darkness’s father, given while she sleeps, supports earlier social difficulty, not a dated childhood causal history.
+
+- Model responsibilities: D §§3,5,16,27. Support **W15, W16**; contrary/boundary **W72**.
+- Evidence/access: E1 action versus E6 family/narrator report. Confidence: HIGH passage scope; earlier age UNKNOWN.
+- Transition candidate: REVISE CR007 age restriction; PRESERVE belonging mechanism.
+- Validation limit: No direct claim-level validation follows from the 90-case battery; related contracts may be tested incompletely. Source support, hypothetical consistency and later holdout validation remain separate.
+
+### LC-D02
+
+A chosen painful experience and an unwanted actor or added condition can have different values; later pleasure never backdates permission.
+
+- Model responsibilities: D §§6,8,9,13,17. Support **W74, W31**; contrary/boundary **W72, W81**.
+- Evidence/access: E1/E3/E5. Confidence: HIGH local choices; MODERATE precise transfer.
+- Transition candidate: PRESERVE selected reappraisal; REJECT generic consent.
+- Validation limit: No direct claim-level validation follows from the 90-case battery; related contracts may be tested incompletely. Source support, hypothetical consistency and later holdout validation remain separate.
+
+### LC-D03
+
+Defense capacity and endurance coexist with missed attacks and unsafe inference from her own survival to group safety.
+
+- Model responsibilities: D §§10,11,14,17. Support **W22, W34**; contrary/boundary **W17, W84**.
+- Evidence/access: E1/E2/E6; H1 acts/H2 magnitude. Confidence: HIGH useful capacity; MODERATE risky inference.
+- Transition candidate: PRESERVE competence and adverse judgment together.
+- Validation limit: No direct claim-level validation follows from the 90-case battery; related contracts may be tested incompletely. Source support, hypothetical consistency and later holdout validation remain separate.
+
+### LC-D04
+
+Formal gratitude can seek closeness, direct objection can protect dignity, and excited fantasy is only one available voice organization.
+
+- Model responsibilities: D §§15,19,20. Support **W31, W15**; contrary/boundary **W74, W72**.
+- Evidence/access: E1/E3 written context. Confidence: HIGH forms/roles; MODERATE inferred stance.
+- Transition candidate: PRESERVE repertoire; REJECT permanent erotic/solemn register.
+- Validation limit: No direct claim-level validation follows from the 90-case battery; related contracts may be tested incompletely. Source support, hypothetical consistency and later holdout validation remain separate.
+
+### LC-E01
+
+Recognition, availability, acceptance, resources, execution, recovery and consequences are distinct phases with potentially different providers.
+
+- Model responsibilities: E §§5,10,11,13,14. Support **W10, W11, W12, W89**; contrary/boundary **W18, W23**.
+- Evidence/access: E1/E2/E6. Confidence: HIGH actual phase differences; MODERATE universal decomposition.
+- Transition candidate: PRESERVE provider graph; REVISE compulsory coordinator.
+- Validation limit: No direct claim-level validation follows from the 90-case battery; related contracts may be tested incompletely. Source support, hypothetical consistency and later holdout validation remain separate.
+
+### LC-E02
+
+Private premises do not become shared knowledge merely because people are familiar; a missing-information plan can still succeed coincidentally.
+
+- Model responsibilities: E §§5,7,8,14. Support **W26, W27**; contrary/boundary **W89**.
+- Evidence/access: E1/E6. Confidence: HIGH represented asymmetry; MODERATE predicted response.
+- Transition candidate: PRESERVE actor knowledge; OPEN robust coordination rival.
+- Validation limit: No direct claim-level validation follows from the 90-case battery; related contracts may be tested incompletely. Source support, hypothetical consistency and later holdout validation remain separate.
+
+### LC-E03
+
+Costly membership repair and concern are real, but spending, ownership language, refusal and later reciprocation remain distinct.
+
+- Model responsibilities: E §§6,9,16,18. Support **W29, W30**; contrary/boundary **W21, W46**.
+- Evidence/access: E1/E3/E5/E6. Confidence: HIGH payment/objections; MODERATE motive and permanency.
+- Transition candidate: PRESERVE costly care; REJECT possession-as-consent.
+- Validation limit: No direct claim-level validation follows from the 90-case battery; related contracts may be tested incompletely. Source support, hypothetical consistency and later holdout validation remain separate.
+
+### LC-E04
+
+The shared-death scene contains different actor appraisals and unsynchronized regulation, not a single team emotion or one tagged plea.
+
+- Model responsibilities: E §§12,13,17,19. Support **W84, W85**; contrary/boundary **W89**.
+- Evidence/access: E1/E3/E6. Confidence: HIGH order/visible objects; retaliation cause inferred.
+- Transition candidate: PRESERVE CR006 and original M05 ambiguity/M06 partial; no universal serious brake.
+- Validation limit: No direct claim-level validation follows from the 90-case battery; related contracts may be tested incompletely. Source support, hypothetical consistency and later holdout validation remain separate.
+
+### LC-E05
+
+Ordinary work, leisure, embarrassment and material consequences sustain the household; crisis specialties do not exhaust its interaction system.
+
+- Model responsibilities: E §§4,9,18,20. Support **W01, W07, W09, W67**; contrary/boundary **W33, W46**.
+- Evidence/access: E1/E2/E3/E5. Confidence: HIGH recurring domains; MODERATE causal synthesis.
+- Transition candidate: PRESERVE ordinary-life evidence; no universal favorite or shared desire.
+- Validation limit: No direct claim-level validation follows from the 90-case battery; related contracts may be tested incompletely. Source support, hypothetical consistency and later holdout validation remain separate.
+
+### LC-E06
+
+Terminal company choice and harem speech are represented, but exclusive romance, actual harem implementation and completed repair are not all shown.
+
+- Model responsibilities: E §§5,16,24,26. Support **W87, W89, W91**; contrary/boundary **W46**.
+- Evidence/access: E1 choice/declaration versus E6 expectation. Confidence: HIGH acts/words; settlement UNKNOWN.
+- Transition candidate: PRESERVE open ending and actual declaration adverse; no implementation floor.
+- Validation limit: No direct claim-level validation follows from the 90-case battery; related contracts may be tested incompletely. Source support, hypothetical consistency and later holdout validation remain separate.
+
+### LC-T01
+
+Psychological, causal-mechanical and linguistic portability are different comparisons; a portable premise may retain a material Japanese hinge.
+
+- Model responsibilities: T §§7,8,15,19. Support **W03, W32, W71**; contrary/boundary **W58**.
+- Evidence/access: E1/E2 plus source-form evidence. Confidence: HIGH distinction; effect transfer case-specific.
+- Transition candidate: PRESERVE separate tests; no majority-portable inference to universal losslessness.
+- Validation limit: No direct claim-level validation follows from the 90-case battery; related contracts may be tested incompletely. Source support, hypothetical consistency and later holdout validation remain separate.
+
+### LC-T02
+
+Removing resurrection or another power changes affordances and consequence learning, not the character goals by fiat or instant modern expertise.
+
+- Model responsibilities: T §§6,8,9,13. Support **W11, W12, W62, W84**; contrary/boundary **W66**.
+- Evidence/access: Typed world constraints derived from literal acts. Confidence: HIGH consistency; LOW/MODERATE exact new behavior.
+- Transition candidate: PRESERVE known costs and goals; OPEN changed learning.
+- Validation limit: No direct claim-level validation follows from the 90-case battery; related contracts may be tested incompletely. Source support, hypothetical consistency and later holdout validation remain separate.
+
+### LC-T03
+
+Institutions can provide targets, resources and mobilization without assigning every specialist or proving a complete replacement campaign.
+
+- Model responsibilities: T §§10,14,19. Support **W23, W24**; contrary/boundary **W25**.
+- Evidence/access: E1 instructions versus E6 reports/proposal. Confidence: HIGH actual instructions; MODERATE phase causation.
+- Transition candidate: REVISE CR002 role-assignment claim; OPEN whole substitution.
+- Validation limit: No direct claim-level validation follows from the 90-case battery; related contracts may be tested incompletely. Source support, hypothetical consistency and later holdout validation remain separate.
+
+### LC-T04
+
+Transferred language and permission follow the supplied historical state and actual actor; later intimacy and resources are not retrospective inputs.
+
+- Model responsibilities: T §§4,5,11,17. Support **W48, W51, W21**; contrary/boundary **W91**.
+- Evidence/access: Typed chronology/agency; E1/E3. Confidence: HIGH constraint; unprovided state UNKNOWN.
+- Transition candidate: PRESERVE chronological eligibility; no backprojection.
+- Validation limit: No direct claim-level validation follows from the 90-case battery; related contracts may be tested incompletely. Source support, hypothetical consistency and later holdout validation remain separate.
+
+### LC-T05
+
+A harmful unilateral act can be consistent with a failure mechanism while remaining unagreed; typed fidelity is separate from behavioral forecast success.
+
+- Model responsibilities: T §§11,14,17,18. Support **W21, W30, W84**; contrary/boundary **W89**.
+- Evidence/access: Typed integrity versus E1 behavioral choice. Confidence: HIGH distinction; actual recipient response conditional.
+- Transition candidate: PRESERVE independent actor accounting; no consistency-as-validation.
+- Validation limit: No direct claim-level validation follows from the 90-case battery; related contracts may be tested incompletely. Source support, hypothetical consistency and later holdout validation remain separate.
+
+## Current source corrections
+
+| Revision | Principal joins | Current effect; old history retained |
+|---|---|---|
+| CR-MAIN-001 | W29 | REVISE conversion to2billion; preserve public payment versus financing report and old scores. |
+| CR-MAIN-002 | W23, W24, W25 | DOWNGRADE officer-assigned roles/universal organizer; preserve free-fighting instructions, actual reports and unperformed proposal. |
+| CR-MAIN-003 | W28 | REJECT this letter as verified Iris correspondence; intended masked-thief recipient, no delivery; other correspondence OPEN. |
+| CR-MAIN-004 | W20, W21 | PRESERVE the pre-cutoff agency qualification: requested change and actual allocation contrary to intention; no retroactive consent. |
+| CR-MAIN-005 | W71 | PRESERVE person-grab319/card-demand320/protest321/reply322; no spent points, physical restraint or compliance invented. |
+| CR-MAIN-006 | W84, W85 | PRESERVE broken Darkness sword, separate large scythe and Kazuma hedged retaliation; no reaper body/death or broken second weapon. |
+| CR-MAIN-007 | W15, W16 | REVISE childhood restriction to earlier reported social difficulty with age unestablished; preserve belonging and testimony limits. |
+
+## Source-window catalog
+
+Every entry below is joined mechanically to the frozen native identity, raw member hash, spine position and paragraph capacity in the structured companion. “Window” identifies a reusable locator span, not new semantic coverage. Observed act/report/inference distinctions are substantive limits.
+
+| ID | Native principal member and member-local P | Witness and source-plane limit |
+|---|---|---|
+| W01 | MAIN-01 `item/xhtml/p-004.xhtml` P195–253 (C1) | Work, practical construction and ordinary effort: Shown labor and narrated routine support domain skill; do not infer incapacity from reluctance. |
+| W02 | MAIN-01 `item/xhtml/p-005.xhtml` P136–140 (C2) | Art repetition for pay: Aqua expresses an artistic standard/refusal; one bounded witness, not every art or money decision. |
+| W03 | MAIN-01 `item/xhtml/p-004.xhtml` P461–482 (C1) | Explosion capacity and chosen value: Megumin distinguishes what she can use from what she loves; no universal technical readiness follows. |
+| W04 | MAIN-01 `item/xhtml/p-005.xhtml` P440–480 (C2) | Single-use specialty and utility: Known utility and the value of specialization coexist; actual future alternatives remain state-dependent. |
+| W05 | MAIN-01 `item/xhtml/p-004.xhtml` P585–607 (C1) | Darkness recruitment and preferred role: Self-report of inability/preference differs from actual defense performance. |
+| W06 | MAIN-01 `item/xhtml/p-007.xhtml` P459–574 (C4) | Flood, defense, service and collateral: Performed capacities have public consequences; magnified scale does not erase literal liability. |
+| W07 | MAIN-01 `item/xhtml/p-008.xhtml` P7–77 (Ep) | Reward, bill and renewed plan: Reward/bill accounts and plans are distinct from verified payment or a stable causal law. |
+| W08 | MAIN-02 `item/xhtml/p-005.xhtml` P335–335 (C2) | Absolution, referral and Eris insult: Aqua addresses a petitioner: practical referral and personal denigration coexist. |
+| W09 | MAIN-02 `item/xhtml/p-006.xhtml` P160–530 (C3) | House and grave work, shortcut and correction: Quiet sustained help limits universal reluctance; accounts of earlier errors retain their speaker/source plane. |
+| W10 | MAIN-02 `item/xhtml/p-008.xhtml` P260–345 (C5) | Preparation and fitted destructive capacity: Targeted spell phases depend on other resources/providers; capacity is not whole-operation success. |
+| W11 | MAIN-02 `item/xhtml/p-008.xhtml` P431–450 (C5) | Indirect method and implementation limit: Local leverage can work yet create mass, heat, extraction or recovery problems. |
+| W12 | MAIN-02 `item/xhtml/p-008.xhtml` P504–659 (C5) | Finishing, expenditure and recovery: Multiple providers and residual danger remain; no independent direct view of every later core event. |
+| W13 | MAIN-02 `item/xhtml/p-009.xhtml` P1–46 (Ep) | Aftermath and causal report: Later report/compensation is not the earlier observer directly witnessing every intermediate cause. |
+| W14 | MAIN-03 `item/xhtml/p-004.xhtml` P215–268 (C1) | Question narrowing and professional challenge: Kazuma uses defensible question forms as pressure, then changes stance under fear. |
+| W15 | MAIN-03 `item/xhtml/p-008.xhtml` P116–153 (C3) | Noble identity and ordinary peer response: MAIN03 p008; peer acknowledgment is shown; Kazuma age/causal guesses remain inference. |
+| W16 | MAIN-03 `item/xhtml/p-011.xhtml` P22–66 (C3) | Father companionship report: MAIN03 p011 continuation; Darkness sleeps, father reports earlier difficulty; age unestablished. |
+| W17 | MAIN-03 `item/xhtml/p-012.xhtml` P380–438 (C4) | Possession resistance and new containment: Protection/role investment can solve one problem while producing another. |
+| W18 | MAIN-03 `item/xhtml/p-012.xhtml` P585–694 (C4) | Extraction and differing willingness: Actual extraction limits and desires block a blanket competence or harmlessness conclusion. |
+| W19 | MAIN-04 `item/xhtml/p-012.xhtml` P587–660 (C5) | Plan, protection and post-faint outcome: Kazuma plan and later account have different access; useful providers need not depend on continuing direction. |
+| W20 | MAIN-05 `item/xhtml/p-019.xhtml` P165–173 (F) | Requested build change: Megumin asks, Kazuma formulates advanced magic and receives a nod; requested direction is not the later allocation. |
+| W21 | MAIN-05 `item/xhtml/p-019.xhtml` P219–219 (F) | Against-intention allocation: Kazuma allocates Explosion contrary to her expressed intention; later response does not backdate consent. |
+| W22 | MAIN-06 `item/xhtml/p-003.xhtml` P569–642 (C1) | Guardian protection and public role: Darkness/Claire/Rain have distinct roles; Aqua supplies healing, not the guardian by inference. |
+| W23 | MAIN-06 `item/xhtml/p-006.xhtml` P39–65 (C4) | Free fighting and mobilization: P42 no special adventurer instructions; P43 guild-identity hedge; Claire mobilization65 is separate. |
+| W24 | MAIN-06 `item/xhtml/p-006.xhtml` P136–175 (C4) | Reported specialist achievements: Aqua/knight reports and visible aftermath; Kazuma Decoy explanation160 remains an inference. |
+| W25 | MAIN-06 `item/xhtml/p-006.xhtml` P558–582 (C4) | Proposed replacement configuration: Claire proposes kingdom-supported Mitsurugi participation; a proposal is not an executed equivalent campaign. |
+| W26 | MAIN-06 `item/xhtml/p-007.xhtml` P72–205 (C5_start) | Different raid premises: MAIN06 p007; private objectives can make locally competent acts incompatible. |
+| W27 | MAIN-06 `item/xhtml/p-007.xhtml` P320–431 (C5_start) | Alarm, resources and task accounts: MAIN06 p007; independent knowledge and providers, not a shared omniscient plan. |
+| W28 | MAIN-06 `item/xhtml/p-013.xhtml` P17–24 (Ep2) | Letter writing and intended recipient: Megumin writes; guesses identify Iris, her P24 intended future handoff names masked thief; no delivery. |
+| W29 | MAIN-07 `item/xhtml/p-007.xhtml` P458–494 (C5) | Public payment and financing account: Two billion at475; public production476; financing report488, not full independent financial history. |
+| W30 | MAIN-07 `item/xhtml/p-007.xhtml` P660–710 (C5) | Intimacy, opposition and belonging: Costly rescue does not create ownership/consent; later affect does not authorize an imposed start. |
+| W31 | MAIN-08 `text/part0013.html` P165–215 (C4) | Marked gratitude and fairness: Deliberate gratitude is relational language; public humiliation and desired exposure are not identical. |
+| W32 | MAIN-09 `OEBPS/Text/part0010.xhtml` P116–116 (C1) | Amulet/caretaking hinge: お守り and later caretaking relation; material ruby on 守 is already recorded in received voice evidence. |
+| W33 | MAIN-09 `OEBPS/Text/part0011.xhtml` P172–271 (C2) | Imitation, credit and misaligned metric: Individual success counts can redirect the party away from complementary work. |
+| W34 | MAIN-09 `OEBPS/Text/part0012.xhtml` P213–272 (C3) | Finite defense and resistance investment: Useful defense and improvement coexist with chosen role pleasure; neither every miss nor every hit is deliberate. |
+| W35 | MAIN-09 `OEBPS/Text/part0014.xhtml` P43–110 (F) | Repair before title and acknowledgment: Aqua performs useful work and directions before status acknowledgment; causal role of praise not isolated. |
+| W36 | MAIN-09 `OEBPS/Text/part0014.xhtml` P199–258 (F) | Prepared fire and provider conditions: Narrow spell execution depends on geometry/resources; safe whole-operation conjunction is a separate claim. |
+| W37 | MAIN-09 `OEBPS/Text/part0014.xhtml` P268–321 (F) | Rewarding repetition and goal drift: Desire/continued opportunity is distinct from safe firing and from a still-active new tactical objective. |
+| W38 | MAIN-09 `OEBPS/Text/part0014.xhtml` P365–551 (F) | Bonded Wolbach target and action: Pre-action friction, actual choice and later response require separate assessment. |
+| W39 | MAIN-09 `OEBPS/Text/part0014.xhtml` P766–815 (F) | Aftermath of bonded-target harm: Later affect cannot compensate for absent prior friction in a different case. |
+| W40 | MAIN-09 `OEBPS/Text/part0015.xhtml` P1–74 (Ep1) | Relationship aftermath and uncertainty: Bounded aftermath/report supports attachment without final exclusive settlement. |
+| W41 | MAIN-10 `text/part0011.html` P426–445 (C2) | Particular possession loss: Prized bottle is a related distinction, not a second identical named-game-loss experiment. |
+| W42 | MAIN-10 `text/part0012.html` P356–481 (C3) | Civic contribution and coercive means: Useful public concern can employ objectionable means; office does not certify ethics. |
+| W43 | MAIN-10 `text/part0013.html` P8–9 (C4) | Gaming and preference: Ordinary leisure preference supplies context, not a universal claim of compulsion. |
+| W44 | MAIN-10 `text/part0013.html` P155–239 (C4) | Casino, omens and known stakes: Distinguish reversal/omen reasoning from informed entertainment or magic-changing odds. |
+| W45 | MAIN-10 `text/part0014.html` P280–336 (C5) | Wager continuation and results: Available stakes, stopping and forced limits have different meanings. |
+| W46 | MAIN-11 `item/xhtml/p-004.xhtml` P404–451 (C2) | Tears, taunt and later relief: Tears431/444 precede taunt446; later relent cannot restore the retired sufficient-brake claim. |
+| W47 | MAIN-11 `item/xhtml/p-005.xhtml` P342–415 (C3) | Own face versus another person humiliation: Megumin accepts social cost in a bounded family/face situation; broad transfer remains LOW. |
+| W48 | MAIN-11 `item/xhtml/p-008.xhtml` P37–82 (Ep) | Negotiated relational pace: Meaningful chosen pace does not establish future automatic compliance or final exclusivity. |
+| W49 | MAIN-12 `text/part0010.html` P190–204 (C1) | Valued game-loss setup: Valued device/character-loss context; actual named Schneider complaint is the later C2 window. |
+| W50 | MAIN-12 `text/part0011.html` P6–12 (C2) | Schneider complaint and replacement account: Aqua demands Schneider6, Kazuma claims equivalent progress7, crying9; imagined other-world reassurance is a story. |
+| W51 | MAIN-12 `text/part0010.html` P335–376 (C1) | Awkward negotiated intimacy: Spoken uncertainty/negotiation is not universal permission; later knowledge must not be backprojected. |
+| W52 | MAIN-12 `text/part0012.html` P318–537 (C3) | Confession, refusal, imposition and account: Actions, later coaching and claimed helplessness remain separate; no completed intercourse inferred. |
+| W53 | MAIN-12 `text/part0015.html` P312–438 (F) | Protection, treatment and practical care: Multiple providers, restraint/release and cure are distinct phases; no automatic whole-campaign efficacy. |
+| W54 | MAIN-13 `text/part0011.html` P137–193 (C2) | Already active article reward: Article is read/boasted about before later hunt plans; later narration is not newly received feedback. |
+| W55 | MAIN-13 `text/part0011.html` P245–293 (C2) | Hunt scope and ongoing reward salience: Unchanged implementation remains contrary candidate, but strict new-feedback before/after contrast is unestablished. |
+| W56 | MAIN-13 `text/part0014.html` P221–237 (F) | Explicit Explosion challenge and known ordinary cost: Known valued spectacle221 plus criticism224 precedes chant232; later warning235 is not an eligibility floor. |
+| W57 | MAIN-13 `text/part0014.html` P16–29 (F) | Losing-streak account: Aqua reversal/loss account is narrator-mediated/expressed; no universal gambling-cause proof. |
+| W58 | MAIN-14 `OEBPS/Text/part0013.xhtml` P58–71 (I13) | Yunyun and Aigis: armor blocks casting: Yunyun wearing Aigis cannot cast at I13P61; Aigis proposes reset71. Domain skill differs from deployed access; this is not an Aqua execution. |
+| W59 | MAIN-14 `OEBPS/Text/part0014.xhtml` P8–12 (C4) | Reported completed alternating-casting adaptation: C4P8–12 reports Yunyun exposed casting/protected recovery and intermediate-magic conservation. Not direct observation of every act or proof of a whole substitute campaign. |
+| W60 | MAIN-14 `OEBPS/Text/part0014.xhtml` P98–141 (C4) | Indirect technical plan: Kazuma local leverage/known resource conditions; forecast success cannot erase later implementation failure. |
+| W61 | MAIN-14 `OEBPS/Text/part0014.xhtml` P181–306 (C4) | Implementation and provider interaction: Technical phase, overload and other providers remain distinct from goal completion. |
+| W62 | MAIN-14 `OEBPS/Text/part0014.xhtml` P380–484 (C4) | Finishing and bodily cost: Limit on cheap-technique/solo-execution claims; broader option-generation need not be false. |
+| W63 | MAIN-14 `OEBPS/Text/part0015.xhtml` P165–200 (F) | Cemetery technical failure: Aqua own-execution adverse evidence prevents infallibility; absence of a new case is not a success. |
+| W64 | MAIN-15 `OEBPS/Text/part0011.xhtml` P676–733 (C2) | Contraction, battle harm and truce chronology: Wiz scorched700 with hedged cause; concession705 before fight707, peace714, payback715, self-relief722, truce724. |
+| W65 | MAIN-15 `OEBPS/Text/part0012.xhtml` P10–49 (C3) | Altered-state diary and an explicitly invented passage: Dated claims are represented as a document; P29 erotic passage is explicitly invented, not actual contact. State changes alter narrator access. |
+| W66 | MAIN-15 `OEBPS/Text/part0014.xhtml` P119–168 (F) | Wiz willing consent and moral friction: Aqua does not execute the declared harm; gaze, conscience, trust and particular bond compete as causes. |
+| W67 | MAIN-15 `OEBPS/Text/part0014.xhtml` P212–244 (F) | Absence and residual particular company: Substitution benefits and missing familiar people can coexist; private reports/access remain tagged. |
+| W68 | MAIN-15 `OEBPS/Text/part0014.xhtml` P307–354 (F) | Return interaction and continued household value: Actual contact does not prove permanent rejection of every efficient alternative. |
+| W69 | MAIN-16 `item/xhtml/p-003.xhtml` P25–44 (I1) | Anna service and indirect practical request: Continuing service/enjoyment coexists with indirect departure request38; mixed function is not a full second service opposite. |
+| W70 | MAIN-16 `item/xhtml/p-004.xhtml` P350–417 (C2) | Leveling sufficiency, reward and scope: 374 substantial progress/sufficiency and return proposal; deeper reward399 is a separate later boundary. |
+| W71 | MAIN-16 `item/xhtml/p-006.xhtml` P312–324 (C3) | Question, advanced tuition, person-grab and card demand: 318 tuition,319 grabs Kazuma,320 demands card,321 protest,322 reply; no performed expenditure or compliance. |
+| W72 | MAIN-16 `item/xhtml/p-006.xhtml` P494–510 (C3) | Welcomed proposal of public exposure: Darkness welcomes the proposed public Steal; no performed Steal is shown in this checked window. Welcome to this proposal is not permission for every later actor/act. |
+| W73 | MAIN-16 `item/xhtml/p-008.xhtml` P23–40 (C4) | Relational conflict and gift/readiness context: Domain, role and desire can conflict; no blanket preferred-exposure or useful-office inference. |
+| W74 | MAIN-16 `item/xhtml/p-008.xhtml` P476–485 (C4) | Stranger harassment rejected: Particular unwanted conditions can reverse an otherwise selected fantasy; no generic consent. |
+| W75 | MAIN-16 `item/xhtml/p-010.xhtml` P63–65 (F) | Acknowledged earlier supported kill: Retrospective supported-kill/thanks at63/65; do not invent a newly timed post63 cast. |
+| W76 | MAIN-16 `item/xhtml/p-010.xhtml` P154–194 (F) | Easier but less satisfying travel company: Residual particular preference differs from compulsory group arrangement or literal incapacity. |
+| W77 | MAIN-16 `item/xhtml/p-010.xhtml` P399–408 (F) | Self-accepted contribution burden: Megumin seriously considers build alternatives; no performed permanent rebuild follows here. |
+| W78 | MAIN-17 `text/part0009.html` P155–194 (C1) | Explosion desire, overload and restraint: Darkness catches185/explains186; Kazuma offer191 and emergency-only yield194; not Darkness setting194. |
+| W79 | MAIN-17 `text/part0009.html` P379–405 (C1) | Actual support with contrary service language: Prior practical offer384; prep390, enjoyment391, buff397/new task398, torment399; PV017 fixed windows remain. |
+| W80 | MAIN-17 `text/part0010.html` P75–75 (C2) | Requested recast without shown completion: A request is not a third actual new buff or evidence of its abandonment. |
+| W81 | MAIN-17 `text/part0010.html` P298–321 (C2) | Restraint, exposure and objection: Actual bodily control is not permission; task motive and wrongdoing can coexist. |
+| W82 | MAIN-17 `text/part0011.html` P115–115 (C3) | Distinct actual support act: Second actual V17 buff in the source-named support category, not a per-volume reset. |
+| W83 | MAIN-17 `text/part0011.html` P338–394 (C3) | Urgent commitment and taunting: Actual commitment364 then368/371/394; clear urgent adverse route remains without forcing a uniform register. |
+| W84 | MAIN-17 `text/part0011.html` P425–446 (C3) | Shared-death risk and asynchronous regulation: Darkness claim425, Megumin grave appraisal426;427 untagged, staff437 later, pleas438, Aqua alternative446 later. |
+| W85 | MAIN-17 `text/part0011.html` P439–441 (C3) | Visible weapons and hedged retaliation: Darkness sword broken; separate large scythe at Kazuma blood pool; no reaper remains/death directly shown. |
+| W86 | MAIN-17 `text/part0012.html` P18–48 (F) | King return and protective wait: Actual return18/19 and41, protective concern35, practical wait45 coexists with taunting; not a full second urgent opposite. |
+| W87 | MAIN-17 `text/part0012.html` P553–581 (F) | Heavenly rest versus return to particular people: Actual valued choice; bodily Japan/wealth differs from heavenly rest, and prior retrieval intention remains Kazuma’s attributed account rather than independently established earlier motive. |
+| W88 | MAIN-17 `text/part0012.html` P621–635 (F) | Provider owns clothing, service and embodied refusal: Practical621/623, owned625, turn away628, Eris need630, Aqua631 excuses/refuses634;631 addresses Eris, K referent/beneficiary. |
+| W89 | MAIN-17 `text/part0012.html` P671–751 (F) | Transport, recovery and independent acts: Multiple actual provider phases;734 request before735handoff,737 declarative repayment/indirect jab, not direct question. |
+| W90 | MAIN-17 `text/part0012.html` P718–722 (F) | Overload and continued risk: Known grave costs remain; not a safe-operation confirmation or automatic self-stopping. |
+| W91 | MAIN-17 `text/part0013.html` P36–60 (Ep) | Harem declaration/exposure and unresolved ending: Actual declaration is an adverse candidate without an implemented-harem floor; relationship settlement remains unshown. |
+| W92 | MAIN-09 `OEBPS/Text/part0013.xhtml` P234–300 (C4) | Divine contest displaces a delaying assignment: Received divinity contest and excessive flood damage; motive and full task priority still distinct. |
+| W93 | MAIN-15 `OEBPS/Text/part0013.xhtml` P467–520 (C4) | Reserve, ordinary companion cost and contested spell subtype: Known ordinary companion cost476 precedes498–501; trigger subtype remains uncertain, not a missing-cost rescue. |
+| W94 | MAIN-01 `item/xhtml/p-006.xhtml` P59–71 (C3) | Ordinary specialty explanation: Capacity, utility and valued spell choice belong to the particular exchange, not automatic universal incapacity. |
+| W95 | MAIN-09 `OEBPS/Text/part0014.xhtml` P534–544 (F) | Reported remembered phrase and spell execution: Megumin quotes Wolbach earlier wording at537; incantation omitted while spell name544 is spoken. |
+| W96 | MAIN-15 `OEBPS/Text/part0012.xhtml` P343–528 (C3) | Darkness harm, office and limits: Reflected pain and received wounds are real; office and intention do not justify all means or guarantee safety. |
+| W97 | MAIN-15 `OEBPS/Text/part0011.xhtml` P64–115 (C2) | Guarantor condition and applied limit: A specific guarantor/party-resource limit is applied; not a universal helplessness or limitless credit theorem. |
+| W98 | MAIN-17 `text/part0013.html` P33–35 (Ep) | Ending relation appraisal: Bounded narrator appraisal is not final independently verified romantic settlement. |
+| W99 | MAIN-06 `item/xhtml/p-009.xhtml` P1–12 (C5) | Separate chapter continuation: MAIN06 p009 retains member-local numbering; continuation affiliation is metadata-inherited, not concatenated. |
+| W100 | MAIN-10 `text/part0014.html` P622–707 (C5) | Initiative, collision and outsider phase: Finite resources, another actor contribution and bodily costs remain; not guaranteed synchronized planning. |
+| W101 | MAIN-13 `text/part0011.html` P122–136 (C2) | Household care after caused distress: Actual practical repair does not erase earlier responsibility or turn spoken objections into absence of affection. |
+| W102 | MAIN-17 `text/part0013.html` P47–58 (Ep) | Living arrival, registration and repeated prior-intention claim: Ep54 reports pre-duel registration; living arrival corroborates access/method. Ep58 repeats planned retrieval, not independently its earlier intention. |
+
+## Voice, form and source-phase safeguards
+
+The witnesses include Kazuma’s question narrowing and professional challenge (W14), the permission-form taunt after actual tears (W46), and a practical protective wait that also taunts (W86). Aqua’s absolution/referral and Eris dig share a turn (W08); actual repair/direction precedes title recognition (W35). Her continuing service can coexist with enjoyment/excuse/refusal (W79/W88), while Anna’s indirect practical request remains mixed (W69). These are contextual functions, not register-to-personality equivalences.
+
+Megumin’s capacity/valuation distinction at W03, the お守り caretaking/amulet relation at W32, the person-grab/card-demand chronology at W71 and remembered quoted wording at W95 require their actual speaker, recipient and phase. The F537 wording is Megumin quoting an earlier Wolbach turn; it is not a newly spoken Wolbach line. Incantation omission does not mean the spell name at544 was silent. Darkness’s marked gratitude (W31) seeks relation in its scene; a public welcome (W72) does not authorize a later stranger’s act (W74).
+
+W88 P631 answers Eris’s630 reproach, with Kazuma present as beneficiary/referent, not a directly established second addressee. W84 P427 remains untagged; the staff configuration437 and Aqua alternative446 are later. W85 supplies a broken Darkness sword and a separate large scythe, not a reaper body or a second broken weapon. W89’s actual request734 precedes handoff735;737 is declarative repayment and indirect pressure, not an explicit question. No acoustic measurements, native-speaker certification or new L/census coding are claimed.
+
+## Simulation coverage and remaining uncertainty
+
+The main-only battery has 45 settings/90 first mode outputs and 720 criterion records, with 702 overlapping primary-contract views and 360 typed views. Only five distinct behavioral commitments had an initial full conjunction; 34 did not. Conditional later possibilities do not retroactively create those initial predicates. The paired modes of a setting are not independent trials. R1-E02’s paired F04-PARTY is locally adverse with a prebound recognition-salience inference and a pragmatic self-credit rival; neither model retirement nor an overall accuracy percentage follows. Eleven diagnostic field changes across 10 original IDs are post-feedback representations; initial outputs, assessments, contracts and binding histories remain separate and unchanged. T01’s alias defect in 45 TRANSFER labels and F05-M’s omitted duplicate-stakes presentation remain attributable case-bank/binding metadata errata; neither changes the fixed facts, main-source evidence or frozen rule text.
+
+Ordinary tasks test some local attempts and response fidelity; they do not exhaust art, bonded-target harm, repeated reward drift, prior privacy/relationship states or serious collective danger. R7 changed-fact discussions are not executed sensitivity experiments. Physical and NPC outcomes remain unobserved. Unknown served-model/build/sampling parameters remain UNKNOWN; informed assistant-authored responses are not unfiltered stochastic API samples. Existing outside receiving is not external source validation.
+
+## Read scope, localization gaps and receiving boundary
+
+No native EPUB, private primary paragraph/ruby projection, holdout, expanded narrative, bonus, afterword or image was opened for this matrix. All new work derives from the received main-only models, accepted specialist/witness routes, current seven revisions and exact 137-member metadata. Prior full model authoring/peer receiving is reused by exact hashes; it is not claimed as a fresh six-model or 17-volume literary read. This retrieval actually covered all six operative mechanism/index and written-voice sections, the seven revisions, E1–E7 definitions and accepted V09 narrative §§3.5–3.8 for the divine-contest locator, and targeted accepted Narrator Ledger N-V15-12/N-V17-16 for diary versus prior-intention source planes, plus the targeted V14 Competence Ledger phase contrast for Yunyun/Aigis casting access. Source acquisition, semantic source reading, accepted interpretation and later metadata joins remain distinct facts.
+
+The retained original witness-index wording sometimes also names a coarse episode without member/P detail, including older household, gifts, companion and wider campaign contexts. The companion records every original row, its selected exact subroutes and that localization limit; no missing paragraph anchor has been invented. This 75-row catalog is substantial coverage of mature mechanisms, ensemble dynamics and voice/transfer constraints, but not proof that all mature claims or all 41 source objects are complete. Later corpus-level integration must extend the matrix proportionally after authorized validation/expanded evidence, without rewriting the preserved main-only baseline.
+
+Root is the canonical/Git writer and adopter. The original producer’s nonacceptance statement described its authored handoff, and root’s subsequent bounded receiving acceptance is recorded below. No holdout result or future validation outcome is inserted into this main-only plane.
+
+
+## Main-only receiving acceptance and current scope
+
+This is the accepted main-only evidence plane of the project’s maintained index. The main-only baseline and all original model scores remain frozen; the index itself may gain separately attributed validation/expanded planes later. It does not complete the 41-object/component program. Canonical source-branch publication of this containing transaction and its exact-head audit are still pending at authorship; the single current map records the later verified publication state.
+
+Root’s actual receiving reused the earlier complete 85,926-byte v1 prose read in seven bounded displays and its independent review, then received the complete 2,922-byte v3 change projection, 2,673-byte closure and all 25 new operation values across v2/v3. Ten complete forward/inverse file replays and the mirrored structured joins passed. This is exact prior-text reuse plus actual changed-field receiving; it is not another 519,989-byte semantic read or a new primary pass. The accepted original MD SHA256 is `a0d98d3c19b4eebeecbb08bf7deb59e36f5f82cc5d2c72e4419159916b3516e2`; original structured data SHA256 is `5fee22269c31cf349713ea0f9020076557927585b8b8a6ba8d51c0b6a4c5fb30`.
+
+The public companion preserves all 75 claim rows, 102 route windows, 61 witness rows, 162 section hashes, 168 protocol routes and 43 original contracts. Its six private tested-core locations are replaced by explicit opaque recovery aliases; their tested bytes/hashes remain unchanged and are reproducibly recovered from the public model plus the frozen adoption inverse. No local evidence path is published. This source-safe transformation and the metadata wrapper do not revise model mechanisms or scoring.
+
+The 32 additional mature-claim rows are curated coverage, not a claim that every mature sentence in every model is independently localized. Coarse original witness clauses and unresolved primary specificity remain explicit. Final expanded-source coverage and a substantive complete-index audit are still required.
+
+
+## Separate Phase B frozen-model validation route plane — 2026-10-17T21:53:24.382586+00:00
+
+The original main-only model/witness/claim rows and structured companion above remain unchanged. The [four-book overlay](KONOSUBA_WITHHELD_VALIDATION_EVIDENCE_OVERLAY.json) separately indexes all 39 unchanged source commitments across the four predefined books, with 25 exact principal-member identities, original literal hashes, accepted outcome fields, native/event routes and mandatory counterevidence fields. Its full four-book diagnoses are exact accepted values, not new rescoring or new main-only support.
+
+YORI01 K08 and DUST07 E06 have accepted consequential local failures. E06 retains MODERATE occasion/history scope and its coherent-episode rival; K08 retains contrary compatible examples without a vote cancellation. DUST06 E01/E06 remain ambiguous; MASK E08 retains the narrower independent recommendation; E03 care, E05 inference and E08 timing gaps remain visible. DUST07 named-character dependent fits/new Japanese/adverse surfaces are retained despite formal new-independent-event NT scope. Fourteen contracts remain untested in all four sources; four T constraints remain source N/A. No 156 independent trials, pooled accuracy, absence confirmation or altered-world replay is added.
+
+The [claim-revision ledger](KONOSUBA_CLAIM_REVISION_LEDGER.md) records three attributable later-revision obligations. Recording failures or a new private viewpoint does not revise R1. Stage D must distinguish validation-driven change from additional expanded evidence, preserve old/new claims and contrary evidence, and keep the original models/90 responses/settings/criteria/scores independently retrievable. Complete expanded routes, post-validation models and full 41/component acceptance remain pending.
+
+
+## Stage C DUST-01 observational plane — 2026-10-17T22:53:08.846506+00:00
+
+Twenty separately tagged EC-DUST01 observations now append to the ten maintained ledgers, routed through [Dust V01](../10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V01_DEEP_READING.md). Concealed spear capacity and chosen idling coexist; actual protective action coexists with misconduct; Leen attachment is particular without a certified romance; narrator inference, dream experience and provider agency restrict generalization. The separate bonus supplies domestic Aqua/Kazuma/Vanir/Wiz observations after the main-only freeze. These are evidence for later attributable Stage D comparison, not edits to frozen R1 or a full promoted Dust reconstruction. No new independent validation score or exhaustive humor denominator.
+
+
+## Stage C artbook evidence extension — 2026-10-17T23:27:29.977226+00:00
+
+The immutable main-only structured matrix and frozen model evidence remain unchanged. Current expanded constraints route through [Cheers§6–10](../10%20Expanded%20Corpus/Artbooks/KONOSUBA_CHEERS_COMPONENT_AND_LITERARY_ANALYSIS.md) and the [complete Blessing report](../10%20Expanded%20Corpus/Artbooks/KONOSUBA_BLESSING_COMPONENT_AND_LITERARY_ANALYSIS.md), native registers and EC-ARTBOOKS observations in all ten ledgers.
+
+| Model subject | New bounded constraint / counterevidence | Primary route | Authority transition |
+|---|---|---|---|
+| Kazuma | Revises purchase after risk information; nevertheless restrains/pressures others and participates in status boasting; narrator questions not private facts | CHEERS120/B1/122final; BLESSING142/147–148 | Expanded evidence for later StageD, unchanged R1/old score |
+| Aqua | Meaningful familiarity cue/game success coexist with appetitive friction and dangerous curse hypothesis; cleaning causal responsibility remains indirect | CHEERS118/B1/121/B1; BLESSING145/148 | Preserve competence-domain/knowledge/judgment/access distinctions |
+| Megumin | Title/recognition framing can exploit others’ restraints and rule omissions; new danger information also elicits actual cast interruption | CHEERS120–122; BLESSING146–147 | Opposing cases retained; no universal impracticality or automatic inhibition |
+| Darkness | Investigative role, challenge and duty-driven work coexist with performed objection and corrective compensation demand | CHEERS118/122B3; BLESSING142/147–148 | No covert claim of welcome/consent from later belonging or bodily durability |
+| Party / Yunyun | Resources and tactical work distributed; Yunyun actual skill and solo-label objection coexist; alternate settings must recalibrate consequences | CHEERS121–122; BLESSING145–147 | Secondary promotion remains evidence-thresholded; no full model from artbook alone |
+
+All major accepted additions have named actors/recipients, exact source regions, observation/inference classes and contradictory evidence in the reports. No new four-book validation success/failure or retrospective main-only outcome is generated. Blessing H3 qualification controls use of original selected records.
+
+
+## Stage C FAN-MEM model-constraint extension — 2026-10-18T00:05:03.198219+00:00
+
+These are newexpanded constraints, not revisedscores or frozen R1replacement. [Fullreading](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_AND_LITERARY_ANALYSIS.md) and [register](../10%20Expanded%20Corpus/Reference/KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_REGISTER.json) provide exactnativejoins and current qualification.
+
+| Constraint | Modelsubject/variable | Located evidence and contrarylimit | Currenttransition |
+|---|---|---|---|
+| EC-FAN-MC01 | Kazuma incentive/competence/morallimit | S097–099 actualrewardacceptance/advice/teacherrole/escape; localtoiletrestraint/concern, no certifiedrescue | EXPAND mixedmechanisms; deferStage D, no universalvirtue/crueltyrule |
+| EC-FAN-MC02 | Party domaincomplementarity | S099 Chris/Yunyun/Wiz/Darknesstasks; originalquartetconstraints remain | EXPAND roleconditionalcompetence, not contextfreerank |
+| EC-FAN-MC03 | Aqua status/reappraisal/economics | S110–111 price/freewatercompetitor/tributeattempt; utilitynotmonopoly, nosale/payment | EXPAND recognition/resourceinteraction, not totalincapacity |
+| EC-FAN-MC04 | Kazuma/Luna/party audiencescripts | S100–107 usefulhelpwithdateincentive/partyobjection/Lunaexit; explicitfans/film/pollplane | EXPAND source-specificinteraction, noordinaryMAINexternalmediaknowledge |
+| EC-FAN-MC05 | Voice and evidence-class scope | FM-H07referencecapacityHN/A; FM-V15L2/L1afteroriginalL3; FM-V05reportedselfproverb/L3defensible; 水商売L3explicit | QUALIFYwarrants, preserveoriginals, no pooledstatistics ornew modelscore |
+| EC-FAN-MC06 | Productionintent/referencecorroboration | S090–094 creatorconstraints; allreferenceplanes markeddependent/hypothetical/report asappropriate | CONTEXTUALsupport only, cannot erase performedcounterevidence or immutablefailure |

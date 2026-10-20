@@ -2148,4 +2148,148 @@
   ],
   "exact_body_reference_translations": [],
   "retained_body_navigation_qualification": "Current normal owners are navigation; complete original individual argument and source scopes remain exact-bound and attributed. No producer physical receiving is retroactively added."
+,
+  "prior30_source_consistency_current_qualification_20261012_v5": {
+  "register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_CURRENT_QUALIFICATIONS_20261012_V5.json",
+  "scope": "DATED_ADDITIVE_CURRENT_USE_ONLY_FROZEN_FIELDS_IMMUTABLE",
+  "exact_qualified_original_pointers": [
+    {
+      "json_pointer": "/complete_author_attachments/0/complete_original_payload/saved_paragraph_joins/3/citations/0/label",
+      "retained_value_utf8_sha256": "5c687afb21f8403e0ffde927c5bbbba34aa69ad623dea63c82be52c8e1d3138b",
+      "finding_ids": [
+        "P30-P3-CHAR-SHIMIKO-SHIMIKO_PRECISE_E812_CURRENT_LOCATOR_AND_REPETITION_FULL_INVERSE_PROPOSAL_V1",
+        "P30-P3-CHAR-SHIMIKO-ROOT_SHIMIKO12_LOCATORS_37_LITERAL_FIELDS_AND_TWO_RETAINED_COUNT_QUALIFICATIONS_OWN_VERIFY_V1-159"
+      ]
+    },
+    {
+      "json_pointer": "/complete_author_attachments/0/complete_original_payload/saved_paragraph_joins/13/citations/0/label",
+      "retained_value_utf8_sha256": "00ea7202aebfa4c8e8dee63d2736cebdb3147cf05e1b68b8fe2bdae2c028fc42",
+      "finding_ids": [
+        "P30-P3-CHAR-SHIMIKO-SHIMIKO_PRECISE_E812_CURRENT_LOCATOR_AND_REPETITION_FULL_INVERSE_PROPOSAL_V1",
+        "P30-P3-CHAR-SHIMIKO-ROOT_SHIMIKO12_LOCATORS_37_LITERAL_FIELDS_AND_TWO_RETAINED_COUNT_QUALIFICATIONS_OWN_VERIFY_V1-160"
+      ]
+    },
+    {
+      "json_pointer": "/complete_author_attachments/0/complete_original_payload/saved_paragraph_joins/19/citations/0/label",
+      "retained_value_utf8_sha256": "c425038218d0c8ae72465d3ba6840933629038682f00ac8c345f6c079f0d85be",
+      "finding_ids": [
+        "P30-P3-CHAR-SHIMIKO-SHIMIKO_PRECISE_E812_CURRENT_LOCATOR_AND_REPETITION_FULL_INVERSE_PROPOSAL_V1",
+        "P30-P3-CHAR-SHIMIKO-ROOT_SHIMIKO12_LOCATORS_37_LITERAL_FIELDS_AND_TWO_RETAINED_COUNT_QUALIFICATIONS_OWN_VERIFY_V1-161"
+      ]
+    },
+    {
+      "json_pointer": "/complete_author_attachments/0/complete_original_payload/saved_paragraph_joins/20/citations/0/label",
+      "retained_value_utf8_sha256": "d15824cd91396d2e37bb06a9a61943c85d2d640fe87b0ec1586057814cfd666f",
+      "finding_ids": [
+        "P30-P3-CHAR-SHIMIKO-SHIMIKO_PRECISE_E812_CURRENT_LOCATOR_AND_REPETITION_FULL_INVERSE_PROPOSAL_V1",
+        "P30-P3-CHAR-SHIMIKO-ROOT_SHIMIKO12_LOCATORS_37_LITERAL_FIELDS_AND_TWO_RETAINED_COUNT_QUALIFICATIONS_OWN_VERIFY_V1-162"
+      ]
+    },
+    {
+      "json_pointer": "/complete_author_attachments/0/complete_original_payload/saved_paragraph_joins/32/citations/0/label",
+      "retained_value_utf8_sha256": "a0b1d602391a51a45461ca5d48595bf51c5f9fb02897fa9dcf17f79874441f5d",
+      "finding_ids": [
+        "P30-P3-CHAR-SHIMIKO-SHIMIKO_PRECISE_E812_CURRENT_LOCATOR_AND_REPETITION_FULL_INVERSE_PROPOSAL_V1",
+        "P30-P3-CHAR-SHIMIKO-ROOT_SHIMIKO12_LOCATORS_37_LITERAL_FIELDS_AND_TWO_RETAINED_COUNT_QUALIFICATIONS_OWN_VERIFY_V1-163"
+      ]
+    },
+    {
+      "json_pointer": "/complete_author_attachments/0/complete_original_payload/saved_paragraph_joins/39/citations/1/label",
+      "retained_value_utf8_sha256": "038277d06cb07876f55fa37d060ebb50202d164bc0170e356435eee18e0d9098",
+      "finding_ids": [
+        "P30-P3-CHAR-SHIMIKO-SHIMIKO_PRECISE_E812_CURRENT_LOCATOR_AND_REPETITION_FULL_INVERSE_PROPOSAL_V1",
+        "P30-P3-CHAR-SHIMIKO-ROOT_SHIMIKO12_LOCATORS_37_LITERAL_FIELDS_AND_TWO_RETAINED_COUNT_QUALIFICATIONS_OWN_VERIFY_V1-164"
+      ]
+    },
+    {
+      "json_pointer": "/complete_author_attachments/0/complete_original_payload/saved_paragraph_joins/41/citations/0/label",
+      "retained_value_utf8_sha256": "2e3c3e5db393738551cd8593bdd481936caa8f27c718201c2ec07880477e0309",
+      "finding_ids": [
+        "P30-P3-CHAR-SHIMIKO-SHIMIKO_PRECISE_E812_CURRENT_LOCATOR_AND_REPETITION_FULL_INVERSE_PROPOSAL_V1",
+        "P30-P3-CHAR-SHIMIKO-ROOT_SHIMIKO12_LOCATORS_37_LITERAL_FIELDS_AND_TWO_RETAINED_COUNT_QUALIFICATIONS_OWN_VERIFY_V1-165"
+      ]
+    },
+    {
+      "json_pointer": "/complete_author_attachments/0/complete_original_payload/saved_paragraph_joins/42/citations/0/label",
+      "retained_value_utf8_sha256": "1b31ed8a4e29bd058a8168a47584739b78dedf41c6b3d1f3eab636d9bc084a16",
+      "finding_ids": [
+        "P30-P3-CHAR-SHIMIKO-SHIMIKO_PRECISE_E812_CURRENT_LOCATOR_AND_REPETITION_FULL_INVERSE_PROPOSAL_V1",
+        "P30-P3-CHAR-SHIMIKO-ROOT_SHIMIKO12_LOCATORS_37_LITERAL_FIELDS_AND_TWO_RETAINED_COUNT_QUALIFICATIONS_OWN_VERIFY_V1-166"
+      ]
+    },
+    {
+      "json_pointer": "/complete_author_attachments/0/complete_original_payload/saved_paragraph_joins/46/citations/1/label",
+      "retained_value_utf8_sha256": "96c9d395cf1d3266d559320a1c88e09636427ac92c9d2a6dadc325fcbdd4d584",
+      "finding_ids": [
+        "P30-P3-CHAR-SHIMIKO-SHIMIKO_PRECISE_E812_CURRENT_LOCATOR_AND_REPETITION_FULL_INVERSE_PROPOSAL_V1",
+        "P30-P3-CHAR-SHIMIKO-ROOT_SHIMIKO12_LOCATORS_37_LITERAL_FIELDS_AND_TWO_RETAINED_COUNT_QUALIFICATIONS_OWN_VERIFY_V1-167"
+      ]
+    },
+    {
+      "json_pointer": "/complete_author_attachments/0/complete_original_payload/saved_paragraph_joins/47/citations/1/label",
+      "retained_value_utf8_sha256": "d2d447089ed364ce4bfd9606a3b761455e697590c89a805e22dc097d0bd81198",
+      "finding_ids": [
+        "P30-P3-CHAR-SHIMIKO-SHIMIKO_PRECISE_E812_CURRENT_LOCATOR_AND_REPETITION_FULL_INVERSE_PROPOSAL_V1",
+        "P30-P3-CHAR-SHIMIKO-ROOT_SHIMIKO12_LOCATORS_37_LITERAL_FIELDS_AND_TWO_RETAINED_COUNT_QUALIFICATIONS_OWN_VERIFY_V1-168"
+      ]
+    },
+    {
+      "json_pointer": "/complete_author_attachments/0/complete_original_payload/saved_paragraph_joins/52/citations/1/label",
+      "retained_value_utf8_sha256": "4f7d162c0b16b3e37adb4eac170fcf01fd8851d10797c8101a06b6c6f76a5996",
+      "finding_ids": [
+        "P30-P3-CHAR-SHIMIKO-SHIMIKO_PRECISE_E812_CURRENT_LOCATOR_AND_REPETITION_FULL_INVERSE_PROPOSAL_V1",
+        "P30-P3-CHAR-SHIMIKO-ROOT_SHIMIKO12_LOCATORS_37_LITERAL_FIELDS_AND_TWO_RETAINED_COUNT_QUALIFICATIONS_OWN_VERIFY_V1-169"
+      ]
+    },
+    {
+      "json_pointer": "/complete_author_attachments/0/complete_original_payload/saved_paragraph_joins/55/citations/2/label",
+      "retained_value_utf8_sha256": "8b677b42ff05b95119ff32a92353164f7beed834a22aea5896e39169f891fe4e",
+      "finding_ids": [
+        "P30-P3-CHAR-SHIMIKO-SHIMIKO_PRECISE_E812_CURRENT_LOCATOR_AND_REPETITION_FULL_INVERSE_PROPOSAL_V1",
+        "P30-P3-CHAR-SHIMIKO-ROOT_SHIMIKO12_LOCATORS_37_LITERAL_FIELDS_AND_TWO_RETAINED_COUNT_QUALIFICATIONS_OWN_VERIFY_V1-170"
+      ]
+    },
+    {
+      "json_pointer": "/complete_author_attachments/0/complete_original_payload/endpoints/7/locator",
+      "retained_value_utf8_sha256": "c04ebbb5b31468d740670a298721f21250542c9113ec3b6b410332f067a342f0",
+      "finding_ids": [
+        "P30-P3-CHAR-SHIMIKO-SHIMIKO_PRECISE_E812_CURRENT_LOCATOR_AND_REPETITION_FULL_INVERSE_PROPOSAL_V1",
+        "P30-P3-CHAR-SHIMIKO-ROOT_SHIMIKO12_LOCATORS_37_LITERAL_FIELDS_AND_TWO_RETAINED_COUNT_QUALIFICATIONS_OWN_VERIFY_V1-171"
+      ]
+    },
+    {
+      "json_pointer": "/complete_author_attachments/0/complete_original_payload/endpoints/2/achieved_versus_unfinished",
+      "retained_value_utf8_sha256": "bea9ddd1e9f8105f602529ce3b5b03c6333b8d03d6457c4c4b2880331b6ffa9e",
+      "finding_ids": [
+        "P30-P3-CHAR-SHIMIKO-ROOT_SHIMIKO12_LOCATORS_37_LITERAL_FIELDS_AND_TWO_RETAINED_COUNT_QUALIFICATIONS_OWN_VERIFY_V1-184"
+      ]
+    }
+  ],
+  "effective_current_canonical_body_bindings": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SHIMIKO_CHARACTER_MONOGRAPH.md",
+      "bytes": 60063,
+      "sha256": "7aa59a2d13594081af9e37659e01ff26ed539bd3525861446cf6709a40f4608a",
+      "lines": 189,
+      "conditional_precomposition_tuple_preserved": {
+        "bytes": 60063,
+        "sha256": "7aa59a2d13594081af9e37659e01ff26ed539bd3525861446cf6709a40f4608a"
+      },
+      "effective_composed_body_tuple": {
+        "bytes": 60063,
+        "sha256": "7aa59a2d13594081af9e37659e01ff26ed539bd3525861446cf6709a40f4608a"
+      },
+      "composed_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json"
+    }
+  ],
+  "new_body_inverse_module": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json",
+  "effective_bindings_and_inverse_recovery_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_CURRENT_BINDINGS_AND_WRAPPER_RECOVERY_20261012_V1.json",
+  "retained_original_to_canonical_inverse": "UNCHANGED;APPLY_NEW_DIFFERENTIAL_INVERSE_FIRST",
+  "earlier_PR152_layer": "PRESERVED_UNCHANGED",
+  "all14_original_gaps": "OPEN",
+  "new_source_package_identity_model_credit": 0,
+  "ROOT_installation_and_publication": "ROOT_SEMANTICALLY_APPROVED_CURRENT_COMPOSITION;REQUIRED_FULL_VALIDATION_AND_EXACT_SOURCE_HOUSEKEEPING_FINAL_RUNTIME_PUBLICATION_GATES",
+  "conditional_precomposition_new_body_inverse_module": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_BODY_DIFFERENTIAL_INVERSES_20261012_V2.json",
+  "conditional_precomposition_effective_bindings_and_inverse_recovery_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_EFFECTIVE_BINDINGS_AND_INVERSE_RECOVERY_20261012_V1.json"
+}
 }

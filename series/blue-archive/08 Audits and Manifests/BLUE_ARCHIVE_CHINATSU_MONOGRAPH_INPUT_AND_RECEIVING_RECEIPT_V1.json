@@ -10035,4 +10035,43 @@
     }
   },
   "source_credit_rule": "Author and ROOT complete/bounded source extents remain exact and attributed. Assembler transports every frozen payload in full; this supplies zero independent literary, primary, performed, model or scope credit. Current scope qualifications control original pending/required-home language without editing the frozen witnesses."
+,
+  "middle12_source_consistency_current_qualification_20261012_v1": {
+  "current_qualification_register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDDLE12_CURRENT_CONTEXT_AND_PRECISE_CORRECTIONS_20261012_V1.json",
+  "new_body_inverse_module": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json",
+  "effective_bindings_and_inverse_recovery_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_CURRENT_BINDINGS_AND_WRAPPER_RECOVERY_20261012_V1.json",
+  "qualified_existing_original_pointers": [
+    {
+      "json_pointer": "/historical_author_delivery_attachments/CHINATSU_SAVED_SECTION_AND_PARAGRAPH_RECEIVING_INDEX_V1.json/complete_saved_blocks/25/text",
+      "retained_value_utf8_sha256": "52b0a9e1773d2da03b7bb254e189da18d323b2f358ba34d77f1c9a391a32bfa8",
+      "finding_ids": [
+        "M12-P3-CHAR-CHINATSU-FROZEN-7"
+      ]
+    }
+  ],
+  "effective_current_canonical_body_bindings": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_CHINATSU_CHARACTER_MONOGRAPH.md",
+      "bytes": 72396,
+      "sha256": "78474415c76256c9d499410c0aa65dbd423714a2523b89f20a4e0b03747d81e9",
+      "lines": 323,
+      "conditional_precomposition_tuple_preserved": {
+        "bytes": 72396,
+        "sha256": "78474415c76256c9d499410c0aa65dbd423714a2523b89f20a4e0b03747d81e9"
+      },
+      "effective_composed_body_tuple": {
+        "bytes": 72396,
+        "sha256": "78474415c76256c9d499410c0aa65dbd423714a2523b89f20a4e0b03747d81e9"
+      },
+      "composed_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json"
+    }
+  ],
+  "frozen_originals_receipts_hashes_and_inverse": "UNCHANGED",
+  "all14_original_gaps": "OPEN",
+  "new_source_package_model_identity_credit": 0,
+  "prior_PR152_layer": "PRESERVED_UNCHANGED",
+  "ROOT_installation_and_publication": "ROOT_SEMANTICALLY_APPROVED_CURRENT_COMPOSITION;REQUIRED_FULL_VALIDATION_AND_EXACT_SOURCE_HOUSEKEEPING_FINAL_RUNTIME_PUBLICATION_GATES",
+  "conditional_precomposition_new_body_inverse_module": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDDLE12_FIVE_LINE_BODY_DIFFERENTIAL_INVERSES_20261012_V1.json",
+  "conditional_precomposition_effective_bindings_and_inverse_recovery_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MIDDLE12_EFFECTIVE_BINDINGS_AND_INVERSE_RECOVERY_20261012_V1.json"
+}
 }

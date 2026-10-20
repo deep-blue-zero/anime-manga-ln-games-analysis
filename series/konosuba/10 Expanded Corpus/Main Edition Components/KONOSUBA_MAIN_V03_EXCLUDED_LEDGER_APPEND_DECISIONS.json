@@ -1,0 +1,157 @@
+{
+  "schema": "KONOSUBA_MAIN03_EXCLUDED_TEN_LEDGER_APPEND_DECISIONS_V1",
+  "source_id": "MAIN-03",
+  "ten_current_prefix_controls": [
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "bytes": 284787,
+      "sha256": "51415976ee429a5a52301ab0b47e8fcca1f1d0c05375e6004e89f281eae63f29"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "bytes": 205725,
+      "sha256": "cba3dcfd169c5b0efcf2037429c9a493b05aefb9a1d6e336e3d1c727f8c4b627"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "bytes": 774683,
+      "sha256": "5c76f123c25432c182438ccfc024b9ecc2d7c2ff3d123b2311ddd5ecc0fd5118"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "bytes": 585455,
+      "sha256": "f483923e76de3224d5784ee7e9f370d82566d9096d07a0474c8ae6a54bc5fffa"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "bytes": 183661,
+      "sha256": "faeab6e6ab8dbc39df7ba392f681b3a3672cf3734971fa368614d37b66c1b06b"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "bytes": 177113,
+      "sha256": "f21abdf4020a6b0c5f3098dfa933aaee4080d57929266477a4592db152730172"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "bytes": 199287,
+      "sha256": "6aabd90f13cad056942d7e075ff62bd42b1631a6c038e2d40970bdb640e82eba"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "bytes": 165022,
+      "sha256": "6e9e4ee37495a74ad77da256b4b3db3910df6ddfccf7e85bd0d86c376ca9c660"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "bytes": 254870,
+      "sha256": "86bf42c05ceea53545340a3fb4f4cbf23c7dacf77c2d4beb5ee249b68eb6a7cd"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "bytes": 113127,
+      "sha256": "206e87ffdcc94af1f5484ac2b4b7cfbcb613a4238f5d49ccee21fbd76be29be6"
+    }
+  ],
+  "rows": [
+    {
+      "id": "M03EX-LD01",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "subjects": "Kazuma/Megumin/Darkness/Aqua/Chris, with actual actors and evidence planes individually fixed",
+      "native_routes": "U028P1-30",
+      "observation": "D's serious conditional spirit-help aim coexists with local pain preferences; K actually helps while retaining his separate event goal.",
+      "implication": "Neither all-masochism nor all-selfishness fits; actual reluctance and genuine help remain separately attributed.",
+      "authority_and_adverse_limit": "New bonus and declared paratext; retained-principal joins are audits of existing events, not new independent tests. Original ledger prefixes, controls and scores stay exact."
+    },
+    {
+      "id": "M03EX-LD02",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "subjects": "Kazuma/Megumin/Darkness/Aqua/Chris, with actual actors and evidence planes individually fixed",
+      "native_routes": "U028P1-6/40-48",
+      "observation": "Public-location objection, intensity negotiation and painful reciprocal waking have act-specific scope.",
+      "implication": "Familiarity or an initial request cannot authorize every later context. Full prior-boundary predicates are not invented.",
+      "authority_and_adverse_limit": "New bonus and declared paratext; retained-principal joins are audits of existing events, not new independent tests. Original ledger prefixes, controls and scores stay exact."
+    },
+    {
+      "id": "M03EX-LD03",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "subjects": "Kazuma/Megumin/Darkness/Aqua/Chris, with actual actors and evidence planes individually fixed",
+      "native_routes": "H01-H12;U019-U020/IMG019-020",
+      "observation": "The waking loop, self-affecting singer and missed ticket goal have actual costs; image-only imagined coercion is separately identified.",
+      "implication": "No implied literal imprisonment, multiplied encounters, full recovery or harmless-reset claim.",
+      "authority_and_adverse_limit": "New bonus and declared paratext; retained-principal joins are audits of existing events, not new independent tests. Original ledger prefixes, controls and scores stay exact."
+    },
+    {
+      "id": "M03EX-LD04",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "subjects": "Kazuma/Megumin/Darkness/Aqua/Chris, with actual actors and evidence planes individually fixed",
+      "native_routes": "V01-V30",
+      "observation": "Practical proposals, conditional mercy, alarm correction, qualified causal inference and distinct raster roles remain separate.",
+      "implication": "The local ヒキニート/カズマ reading relation is L3 at that form; the whole role-mismatch effect remains portable. Written-only post-seal selection.",
+      "authority_and_adverse_limit": "New bonus and declared paratext; retained-principal joins are audits of existing events, not new independent tests. Original ledger prefixes, controls and scores stay exact."
+    },
+    {
+      "id": "M03EX-LD05",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "subjects": "Kazuma/Megumin/Darkness/Aqua/Chris, with actual actors and evidence planes individually fixed",
+      "native_routes": "U028P7-10/61",
+      "observation": "K's embarrassed shop account/topic shift is observable, while the exact cause of every overnight stay remains unknown.",
+      "implication": "Do not manufacture a fully established false cover from an insinuating question; preserve partial evidence.",
+      "authority_and_adverse_limit": "New bonus and declared paratext; retained-principal joins are audits of existing events, not new independent tests. Original ledger prefixes, controls and scores stay exact."
+    },
+    {
+      "id": "M03EX-LD06",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "subjects": "Kazuma/Megumin/Darkness/Aqua/Chris, with actual actors and evidence planes individually fixed",
+      "native_routes": "U028P35-39/47-61",
+      "observation": "He suspects Aqua as cause/mediator, recognizes a poor loop and plans contact, but never actually calls her.",
+      "implication": "Private plan, hypothesis, provider availability and completed action differ; no summons, cure or proved Aqua blame.",
+      "authority_and_adverse_limit": "New bonus and declared paratext; retained-principal joins are audits of existing events, not new independent tests. Original ledger prefixes, controls and scores stay exact."
+    },
+    {
+      "id": "M03EX-LD07",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "subjects": "Kazuma/Megumin/Darkness/Aqua/Chris, with actual actors and evidence planes individually fixed",
+      "native_routes": "U028P7/18-30/59-61",
+      "observation": "K wants an afternoon tournament benefit; D reports morning solitary training and chooses a help expedition.",
+      "implication": "The missed wanted event is an execution cost, not automatically a planned self-sacrifice or an actual game loss.",
+      "authority_and_adverse_limit": "New bonus and declared paratext; retained-principal joins are audits of existing events, not new independent tests. Original ledger prefixes, controls and scores stay exact."
+    },
+    {
+      "id": "M03EX-LD08",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "subjects": "Kazuma/Megumin/Darkness/Aqua/Chris, with actual actors and evidence planes individually fixed",
+      "native_routes": "U028P39-58",
+      "observation": "Mutual waking works briefly and hurts; earplug removal changes the singer's response; all three later sleep.",
+      "implication": "Actual attempts and persistent dependency coexist. No immunity, free reset, completed outside handoff or universal skill from a label.",
+      "authority_and_adverse_limit": "New bonus and declared paratext; retained-principal joins are audits of existing events, not new independent tests. Original ledger prefixes, controls and scores stay exact."
+    },
+    {
+      "id": "M03EX-LD09",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "subjects": "Kazuma/Megumin/Darkness/Aqua/Chris, with actual actors and evidence planes individually fixed",
+      "native_routes": "U028P21-29",
+      "observation": "D shifts from imagined exposure to a serious conditional wish to help a possibly lost spirit rather than kill it.",
+      "implication": "The rescue intention is real without a completed assault, confirmed benignness or full grave-harm prediction trigger.",
+      "authority_and_adverse_limit": "New bonus and declared paratext; retained-principal joins are audits of existing events, not new independent tests. Original ledger prefixes, controls and scores stay exact."
+    },
+    {
+      "id": "M03EX-LD10",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "subjects": "Kazuma/Megumin/Darkness/Aqua/Chris, with actual actors and evidence planes individually fixed",
+      "native_routes": "U028P35-61",
+      "observation": "Aqua-cause/ruler/communication accounts remain hypotheses; removing earplugs produces an unintended worse outcome and missed deadline.",
+      "implication": "No omniscient culprit assignment or safely completed remedy. Late knowledge is not backdated into initial options.",
+      "authority_and_adverse_limit": "New bonus and declared paratext; retained-principal joins are audits of existing events, not new independent tests. Original ledger prefixes, controls and scores stay exact."
+    },
+    {
+      "id": "M03EX-LD11",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "subjects": "Kazuma/Megumin/Darkness/Aqua/Chris, with actual actors and evidence planes individually fixed",
+      "native_routes": "ASrecords/currentQ",
+      "observation": "Qualified sequential wake-response support is retained beside incomplete provider, revision, scope and protective-state conditions.",
+      "implication": "Thirty-nine individual qualitative comparisons and four typed constraints preserve all missingness; no new blind score or reopened old principal test.",
+      "authority_and_adverse_limit": "New bonus and declared paratext; retained-principal joins are audits of existing events, not new independent tests. Original ledger prefixes, controls and scores stay exact."
+    }
+  ]
+}

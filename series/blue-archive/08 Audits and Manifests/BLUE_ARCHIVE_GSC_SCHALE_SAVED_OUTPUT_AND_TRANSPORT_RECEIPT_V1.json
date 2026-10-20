@@ -1,0 +1,1575 @@
+{
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_INSTALLATION_PENDING",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_GSC_SCHALE_INSTITUTIONAL_SYNTHESIS.md",
+  "required_home": "P3-INST-GSC-SCHALE",
+  "named_full_duty": "P3-SECTION-GSC-CIVIC-RECOVERY-AYUMU-REQUEST",
+  "current134_boundary": {
+    "root_accepted_packages": 134,
+    "after_complete_ROOT_install": 134,
+    "kind_counts": {
+      "CHAR": 100,
+      "REL": 16,
+      "ENS": 5,
+      "INST": 13
+    },
+    "accepted_named_full_duties": 14,
+    "canonical_persisted_before_this_proposal": 133,
+    "remote_published_before_this_proposal": 133,
+    "main_integrated_before_this_proposal": 133,
+    "local_current_head": "3715f58bf1a61b7c191860eabad4382d8f0daafb",
+    "local_tree": "5d24a375ffe80e3cefaa023bc101253f008970fb",
+    "current_main": "0ed395926cca502fe1461d8c172330baab99e70e",
+    "remote_analytical_source": "e748bf863ac674b3b215a9c132dbffb8533b1b43",
+    "required_packages": 355,
+    "required_named": 29,
+    "named_parents": 25,
+    "required_homes": 384,
+    "navigation_rows": 788,
+    "next_milestone": 178,
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "source_and_main_status_promotion_from_proposal": "NONE; preceding133 actual source/main full audits completed independently; this134 preparation claims no future publication or integration result.",
+    "proposal_installs_or_publishes_nothing": true
+  },
+  "historical_payload_qualification": "Original author and prior ROOT payloads, their creation-stage source/count/approval statements, tuples and full inverses remain unchanged historical evidence. Existing sourceV2 and O102-qualified purposeV4 retain their limited roles. The current six-purpose layer, current canonical body bindings and preceding133 exact source/main audit witnesses govern current use; publication of134 remains a separate pending gate.",
+  "all14_original_gaps": "OPEN",
+  "models": 0,
+  "proposal_installs_or_publishes_nothing": true,
+  "schema": "BLUE_ARCHIVE_GSC_SCHALE_COMPLETE_REVERSIBLE_CANONICAL_TRANSPORT_V1",
+  "complete_original_to_canonical_inverse": {
+    "original_exact_tuple": {
+      "bytes": 49478,
+      "sha256": "b57079f2db77d13dfbf8984e379e0359b3021a22db927e110b2ed23c9d087572",
+      "git_blob_oid_of_actual_bytes": "07faf4f6c82a6c152d7aea9aa0dbdc39e23b5ffb"
+    },
+    "canonical_exact_tuple": {
+      "bytes": 52627,
+      "sha256": "382837a9ec0cd453bbd703212eced5f45fd1b7652f57e648e092d7753cac0d06",
+      "git_blob_oid_of_actual_bytes": "4b6fe97df72cfd98261a35eb6f335cfbd9a9f831"
+    },
+    "complete_ranges": [
+      {
+        "kind": "equal",
+        "original_lines": [
+          1,
+          2
+        ],
+        "canonical_lines": [
+          1,
+          2
+        ],
+        "exact_unchanged_lines": [
+          "---",
+          "series: BLUE_ARCHIVE"
+        ]
+      },
+      {
+        "kind": "replace",
+        "original_lines": [
+          3,
+          3
+        ],
+        "canonical_lines": [
+          3,
+          3
+        ],
+        "original_lines_complete_text": [
+          "artifact_type: institution_synthesis_candidate"
+        ],
+        "canonical_lines_complete_text": [
+          "historical_author_artifact_type: institution_synthesis_candidate"
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          4,
+          5
+        ],
+        "canonical_lines": [
+          4,
+          5
+        ],
+        "exact_unchanged_lines": [
+          "required_home: P3-INST-GSC-SCHALE",
+          "mandatory_named_duty: P3-SECTION-GSC-CIVIC-RECOVERY-AYUMU-REQUEST"
+        ]
+      },
+      {
+        "kind": "replace",
+        "original_lines": [
+          6,
+          7
+        ],
+        "canonical_lines": [
+          6,
+          7
+        ],
+        "original_lines_complete_text": [
+          "status: C_ONLY_AUTHOR_ARGUMENT_ROOT_RECEIVING_PENDING",
+          "generation: V1"
+        ],
+        "canonical_lines_complete_text": [
+          "historical_author_status: C_ONLY_AUTHOR_ARGUMENT_ROOT_RECEIVING_PENDING",
+          "historical_author_generation: V1"
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          8,
+          8
+        ],
+        "canonical_lines": [
+          8,
+          8
+        ],
+        "exact_unchanged_lines": [
+          "source_grade: \"Admitted maintained written analytical arguments at individually recorded actual own scopes\""
+        ]
+      },
+      {
+        "kind": "replace",
+        "original_lines": [
+          9,
+          9
+        ],
+        "canonical_lines": [
+          9,
+          9
+        ],
+        "original_lines_complete_text": [
+          "current_reconciliation_witness: \"ROOT-supplied local16b038cc400805d15cfeb799d048e1d20ba9290d/tree2e64442a6b80cea9d67143d690378bd01932cc88 and main87aeee05a161d716fe840a0dd5d5517d9c646df9; sourceea923 chain retained as dated custody\""
+        ],
+        "canonical_lines_complete_text": [
+          "historical_author_current_reconciliation_witness: \"ROOT-supplied local16b038cc400805d15cfeb799d048e1d20ba9290d/tree2e64442a6b80cea9d67143d690378bd01932cc88 and main87aeee05a161d716fe840a0dd5d5517d9c646df9; sourceea923 chain retained as dated custody\""
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          10,
+          13
+        ],
+        "canonical_lines": [
+          10,
+          13
+        ],
+        "exact_unchanged_lines": [
+          "source_identity_boundary: \"No GSC, president, dream, claimant, generic officer, OS or unjoined-written person consolidation\"",
+          "all14_original_gaps: OPEN",
+          "models: 0",
+          "new_primary_native_raw_AV_admission_identity_count_credit: 0"
+        ]
+      },
+      {
+        "kind": "replace",
+        "original_lines": [
+          14,
+          14
+        ],
+        "canonical_lines": [
+          14,
+          24
+        ],
+        "original_lines_complete_text": [
+          "canonical_publication: ROOT_ONLY_PENDING"
+        ],
+        "canonical_lines_complete_text": [
+          "historical_author_canonical_publication: ROOT_ONLY_PENDING",
+          "artifact_type: institutional_synthesis",
+          "status: canonical",
+          "version: \"1.0-canonical\"",
+          "do_not_use_as_current_authority: false",
+          "canonical_home: series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_GSC_SCHALE_INSTITUTIONAL_SYNTHESIS.md",
+          "ROOT_acceptance: PASS_WITH_LIMITS",
+          "ROOT_receiving_reference: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+          "canonical_adoption_boundary: ROOT_ONLY_COMPLETE_INSTALLATION_REQUIRED",
+          "dated_reconciled_source_beforeimage: ce718531f0f06505e97bd72ecdebd21974533649",
+          "current_main_witness: 238fed779661f6a5a49d6a70034a6183d17ca175"
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          15,
+          17
+        ],
+        "canonical_lines": [
+          25,
+          27
+        ],
+        "exact_unchanged_lines": [
+          "---",
+          "",
+          "# GSC and Schale — finite administration and contested legitimacy"
+        ]
+      },
+      {
+        "kind": "insert",
+        "original_lines": [
+          18,
+          17
+        ],
+        "canonical_lines": [
+          28,
+          29
+        ],
+        "original_lines_complete_text": [],
+        "canonical_lines_complete_text": [
+          "",
+          "**Current ROOT receiving and publication boundary.** ROOT accepted the complete GSC and Schale institution and its full civic Ayumu request WITH LIMITS as package134. After complete ROOT installation, the required index will contain134 packages (100 character,16 directed relationship,5 ensemble,13 institution) and14 completed substantial named duties. The current observed persistence/publication remains133 on source 629d39d2e3873e8e07a4d54db0c26dff06ed0775; current main 238fed779661f6a5a49d6a70034a6183d17ca175 contains128 integrated packages. Local ordinary reconciliation ce718531f0f06505e97bd72ecdebd21974533649/tree 2411de7d0b20d019fcad96683eabb3929e49958d incorporates PR151, whose four governance/tool/test paths leave all38 analytical bindings unchanged. The prior source133 complete SOURCE/housekeeping/actual-source final audit is accepted; no future134 publication or current-main postmerge audit is claimed. This package requires exact ROOT installation, fresh author/provider checks and its own full publication chain. Required355,29 duties across25 parents,384 homes,788 navigation rows and thresholds89/178/267/355 remain unchanged; first89 milestone history remains complete. Existing128 main-integrated and five source-branch row values remain literal unchanged. The GSC directed-parent/practical-care duty, M008 and Minato remain separate. O102 preserves event861 hospitality/navigation/debt/extraction/rescue/continuing work, while Sammy grief is its separately attributed MAIN_S2_V003 comparator. No event bereavement, merged provenance or inter-story chronology is inferred. Every original literary paragraph, complete purpose/source/claim/rival/end/role field and full beforeimage/inverse is preserved. Ordinary food, games, rest, making and company retain intrinsic value beside urgent civic work. All14 original gaps remain OPEN; models0. Transport adds no primary/native/raw/AV, source admission, identity, independence, model or new literary acceptance. ROOT alone installs, validates, publishes and integrates; Phase3 remains ACTIVE toward178. The [complete ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_GSC_SCHALE_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) and [full original transport and inverse](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_GSC_SCHALE_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) retain exact source grades and unchanged215-line original argument."
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          18,
+          215
+        ],
+        "canonical_lines": [
+          30,
+          227
+        ],
+        "exact_unchanged_lines": [
+          "",
+          "This is an independent institutional argument for the existing GSC–Schale responsibility, including the full civic Ayumu recovery request. The character portraits of Rin, Aoi, Kaya and the president claimant, and the differentiated-work relationship parent, remain separately responsible for their own complete questions. Their acceptance supplies neither this institution's completion nor an authenticated common membership. Current PR152 source corrections govern relevant interpretation; older source headers and receiving statements remain dated evidence of their creation and custody. All results below belong to the printed local sequence that supplies them. Source aliases refer to exact admitted analytical arguments and the receiving register, not to a new primary or performance pass.",
+          "",
+          "## 1. Core institutional thesis: an office must answer for a particular act",
+          "",
+          "GSC and Schale become intelligible through an unstable separation of powers, tasks and answers. Someone can open a system, pay attention to an appeal, arrange a useful outing or coordinate a successful assault without thereby proving lawful succession, informed agreement or a repaired city. Conversely, uncertain office and disputed recognition do not make a meal, an answered request or a restored communication channel imaginary. The strongest affirmative pattern is finite answerability: name the task, preserve the person who chooses or objects, and determine the result actually reached. The strongest adverse pattern is an attempt to absorb these distinctions into a single superior office, body or doctrine. [N01; N02; N03; N05; KA12; KA16]",
+          "",
+          "The Prologue makes this separation visible before any elaborate council crisis. The missing president's selection and the situation at Sanctum Tower give Sensei exceptional access and Schale an unusual practical role. Rin provides local knowledge and an administrative interlocutor; Arona provides operating assistance with her own limits. The local transfer of tower administration is an achieved control result. It is not an inspected charter showing every limit on Schale, proof of the absent president's identity, or evidence that every district's request has been satisfied. The office's openness to requests can create a useful possibility while also making discretionary power consequential. [N01]",
+          "",
+          "Kaya's V004 proposal is the clearest opposing arrangement. She offers relief from burdens, resources and room for Schale to act, while placing its acts, including misconduct, under the council's name and liability. The proposed advantage is substantial: a teacher constantly pulled into difficult student situations might welcome material help and the end of isolation. Sensei's refusal matters because the offer would separate his decisions from the responsibility he owes the affected students. An unprinted reform document and an attractive promise do not establish delivered benefits or a legitimate transfer of responsibility. This is the actual C002 E008 offer; C001 E008's RABBIT encounter and Final committee or capture scenes do not repeat it. [KA12; KA16; operative Kaya source-role qualification]",
+          "",
+          "A whole-institution reading must also resist making Rin the only moral center. Aoi challenges mandate and evidence; Momoka operates communications and chooses snacks; Ayumu prepares care, announces a request and represents future work; school leaders and field teams make their own decisions. Some of their actions oppose Rin, some support a limited task, and some seek ordinary company. Their existence does not make a uniform council mind or a flawlessly cooperative institution. It establishes a setting in which authority, knowledge, burden and pleasure are unevenly distributed. [N05; N07; N08; COUNCIL_GIFT1–3; O068]",
+          "",
+          "The thesis therefore has a demanding limit. Answerability here is a literary relationship among decisions, objections, representations and finite consequences. The sources do not print a complete constitutional, financial or forensic audit. Useful work supports a bounded institutional appraisal. Neither the term “council,” a successful technology nor a wanted friendship can bear the stronger conclusion that all office, property or recipient questions are settled.",
+          "",
+          "## 2. Institutional development without a fabricated master calendar",
+          "",
+          "The Prologue's administrative transfer, V004's resource dependence and coup, Final's emergency coalition, and the S2 encounters present different institutional tests. Their internal sequences can be traced; their corpus placement is not a universal story calendar. A later volume label cannot automatically reverse a rank, recreate a park condition, excuse a prior decision or prove that one rest scene cured the fatigue observed elsewhere. The comparison is longitudinal in the questions it develops, with chronology limited to actual local links. [N01–5; N07–8]",
+          "",
+          "V004 makes resources an ethical fact rather than scenery. RABBIT food, hygiene and the park's precarious position make offered support attractive. FOX's material intervention can be useful without making every recipient informed about the plan it accompanies. Finance rejection of defective claims, unmet cash needs, public objections and a hospital transit delay show that governing is not identical to issuing an order. Kanna's eventual exception responds to a particular urgent transit problem; it does not make every subsequent police judgment right. The proposed civilian thermobaric attack exposes the possible cost of treating order as a superior person's prescription. Objections, Miyako's refusal and a distributed coalition have distinct authors. [N02; KA16]",
+          "",
+          "The chapter's final public and legal statements are significant positive changes. The immediate threat is stopped and FOX surrenders; public reporting, Rin's return, rescinded orders, Kanna's recognition and a park permit alter the represented situation. Each has its printed grade. A reported prosecution or permit is not an inspected sentence, reopened SRT school, balanced ledger or compensation for every civilian. The institution can be locally changed without the narrative supplying a complete remedial end. [KA16]",
+          "",
+          "Final C001 is a different sequence. Rin calls a committee after reports of unexplained sensor concentrations. Aoi disputes mandate and presents a no-confidence action; the reader separately witnesses Kaya–Kaiser collusion, which does not validate Aoi's accusation that Rin caused the disappearances. Two false escorts actually capture Sensei. Kaiser's tower control, its slower claim to full authority and the later communication restoration are different stages. Momoka's intervention and Arona's returned message flood provide a real success; formal reconfidence, every control right and universal safety remain unprinted. [KA13–15; N07]",
+          "",
+          "Final C003 develops a collective operating capacity rather than proving a permanent federal command. Rin briefs a risky plan and shares risk, Sensei takes overall responsibility, and students occupy separate ship, ground, assault and food roles. Aoi's apology and Rin's lack of resentment are personal responses, not a legal reversal of the earlier vote. Alice and Kei's decision, technical collaborators' work and Ayumu's report of entry contribute to an achieved barrier breach. Damage, incomplete occupation and a hostile backdoor then interrupt the result. Fuuka's protests remain part of the roster's meaning; her placement cannot count as free agreement merely because the mission is important. [N08]",
+          "",
+          "S2 V001 returns administrative vulnerability to the scale of an ordinary day. Aoi arranges an extension, Ayumu and Momoka cover particular work, and Rin accepts an outing. Food, a film, games and chess actually occur while calls and inquiry intrude. The built tower shell differs from its still-incomplete control system. Rin's return to a lone search is contrary evidence to the suggestion that one successful break repaired staffing or her sense of indispensability. Rest has nevertheless happened and has its own value. [N05; CLAIMANT6]",
+          "",
+          "The disputed claimant further separates public effectiveness from authentication. She receives social recognition, answers apparent founding documents, obtains different bounded responses from Nagisa, Makoto and Cherino, and later accompanies an Odysseia visit. Rin and Sensei do not recognize her; other witnesses sincerely offer divergent appearances. Neither this conflict nor her effective diplomacy supplies a verified world-edit mechanism or a lawful presidency. The absent president, the S2 dream girl and the present claimant keep distinct source homes. [N04–5; CLAIMANT2–6]",
+          "",
+          "## 3. Public, inward and everyday institutional life",
+          "",
+          "The institution is represented through more than public orders. Reports, pauses, inward text, letters, devices, choices, jokes and routine meals produce different access to its life. Rin's comparison between herself and a superhuman president is a self-framing burden. It is not an audited admission that she caused all public problems. Momoka's account of readings can trigger action without her knowing their cause. An unsigned letter can preserve a personal address without authenticating its author or conferring office. [N03–5; N07]",
+          "",
+          "The gift encounters are especially useful because they do not need an institutional emergency to disclose consequential relations. Momoka protects a preferred snack and refuses help with the teacher's work. She tries a limited chocolate-chip item, dislikes it and gives away an unwanted remainder. The adult's Japanese half-eaten objection, her embarrassment interpretation and her demand for a future dozen retain separate speakers and translation limits. Her enacted taste and amused bargaining cannot be reduced to inefficiency; neither can the gift become proof that the adult ate it or accepted the return demand. [COUNCIL_GIFT1]",
+          "",
+          "Rin's gift encounter combines correction work with attention to the recipient's fatigue. A wrong report, entries and a toy-store receipt draw practical scrutiny. The narrated shared correction work is actual, while signatures and complete approval remain narrower questions. Rin offers particular chocolate in a sleep/caffeine/efficiency frame and denies the holiday interpretation. The silence can sustain a competing reading of awkward attachment; it does not establish an accepted meal, restored energy, secret romance or an inspected completed report. [COUNCIL_GIFT2]",
+          "",
+          "Ayumu fears a missed deadline, revises an address to the administrative office and wishes for two bodies. Other members' busyness is presumed. The unnamed snack eater whom a selected response deliberately ignores remains unnamed; similarity to Momoka's preferred chips is no identity proof. Ayumu prepares coffee suited to the adult, receives thanks and a taste response, and later shares available grapefruit chocolate and talk about hardship. The reminder of more work makes her sad. Care and continuing burden are simultaneous results rather than mutually exclusive readings. [COUNCIL_GIFT3]",
+          "",
+          "These accounts prevent public usefulness from swallowing the giver. The students' sweets, preferred flavors, company, embarrassment and enjoyment are intrinsic ends. The teacher is also a recipient with his own response and unfinished work, rather than a device for certifying their generosity. Selection alternatives are not several executed conversations. Raw empty person or variant keys remain empty; literal named speaking roles are not discarded, but no typed biography or private-family identity is invented from them. [COUNCIL_GIFT1–3]",
+          "",
+          "The unjoined written account is another kind of institutional evidence. Local Arona self-naming and a request addressed to Schale can be meaningful at their exact object and form. A mixed collection's scene does not join the entire object to Rin, identify a generic council employee, or prove a continuous privately verified staffing system. A claim that Schale has spare capacity is a speaker's assertion, not a workload audit. Repetition and seasonal or conditional presentation preserve possibilities rather than a performed schedule. [N06]",
+          "",
+          "## 4. Authority, work, money and technical capacity",
+          "",
+          "The council repeatedly encounters evidence that looks sufficient at first glance but has a different actual reach. An apparent founding signature alters the claimant's stated willingness to acknowledge Schale; it is not a forensic signature comparison. A 99% voiceprint response opens an ark, but its comparator is unprinted and cannot become a match to the missing president. Chest/Wand pairing and downloaded data are operating results; the overflow, emergency stop, safe mode and reported data loss qualify the promise of a truth device. No recovered core establishes who deserves office. [N05; CLAIMANT6]",
+          "",
+          "Votes and letters similarly require their own endpoints. Aoi's no-confidence action is consequential, but the underlying ledgers and a full ballot record are not inspected. Later recording, testimony or changed support can provide a basis for action without supplying a printed executed vote or final legal sentence. Institution language must preserve the difference between a majority presented, a letter read, an order rescinded and an entire procedure independently authenticated. Schale's effective access does not entitle the analyst to fill these gaps. [N02–3; N07; KA16]",
+          "",
+          "Financial help is neither irrelevant nor automatically delivered. FOX's supplies matter to hungry students; Finance's refusal of defective claims is an actual obstacle; a cash shortage changes what can be done. The teacher's own paperwork needs correction and signatures, while Rin's offer of chocolate does not replace them. In the civic request, Aoi's emergency aid approval is reported and the administrative office is said to be available for execution. No amount, instrument, payment or completed procurement is printed there. Treating “resources available” as “the work is done” would erase the tasks and recipients the institution still owes. [KA16; COUNCIL_GIFT2; O068]",
+          "",
+          "EVENT815 gives a direct federal counterpart to local ownership and leisure. Rin's GSC ownership/paperwork account, a three-day departure demand and the banquet concession place institutional speech against students' attachments to a place and their actual refusals. An asserted title or deadline is not an independently inspected property chain; a concession does not certify every loss repaired. The students' desired banquet and company remain ordinary ends alongside the official demand. The new purpose here is to test how a distant administrator's asserted right becomes a lived limit, not to complete the resort's separate home by citation. [O043, adequate own complete accepted meaning]",
+          "",
+          "Coordination also has a positive, bounded technical dimension. Momoka and Ayumu recover communication information identifying Rin's location; Arona's local signal reaches RABBIT; Miyako takes field command; later messages return. These actions give the institution routes it lacked a moment earlier. They do not share every participant's information, prove all authentication rights or finish an evacuation simply because a device can open a door. Student technical and tactical authors retain their work; the teacher's office does not absorb them into an adult-only accomplishment. [N07; N08; O065–67]",
+          "",
+          "## 5. Ordinary collective life as a substantial institutional question",
+          "",
+          "Rin's Saturday outing is not evidence only because it improves future output. The meal, film, town activity and game have their own particular appeal. The first game result and her later perfect result are different, and calls interrupt the interval. Aoi's deadline concession and colleagues' specific coverage help make it possible. That help can be appraised positively while the remaining work, Rin's lone search and the lack of a permanent handoff keep the overwork question open. [N05; CLAIMANT6]",
+          "",
+          "Chess with confined Kaya is an especially demanding ordinary scene. Kaya wins the first game and a second game is accepted without a result. Rin says food and chess with an old friend count as rest. The source does not make Kaya the eater of Rin's food, certify prison conditions or retract Kaya's desire for another coup. The encounter permits company with a person whose political prescriptions remain objectionable. Institutional appraisal cannot turn this into either political absolution or a demand that friendship cease to have value. [N05; CLAIMANT6; Kaya operative qualifier]",
+          "",
+          "The council gifts offer three incompatible routes to company: Momoka's joking redistribution and return demand, Rin's practical care with denied implication, and Ayumu's actual sharing of chocolate and hardship. Their differences matter. A worker does not have to be uniformly selfless to be an institutional participant; a colleague can express gratitude and need a break; an adult may decline or question an offered form. Empty identity fields do not remove represented pleasure, and a holiday format does not make every wished future gift executed. [COUNCIL_GIFT1–3]",
+          "",
+          "The claimant's Odysseia tour tests leisure in a public visit. She wants to proceed to official business because schedules are full; Minato insists on personal hospitality under a local tradition. Sumika is caught between superiors, while Sensei agrees to see the school and the claimant relents. The tour actually extends to sunset and receives a positive appraisal. Dinner is proposed, not eaten in that unit. The claimant's stated break from desk work and her first/second-visit self-correction provide ordinary desire and uncertainty together. No successful tour authenticates her office. [CLAIMANT3–4]",
+          "",
+          "Food supply and service on that tour have institutional weight without an emergency ranking. Aquaculture's represented capacity, scarce land desserts and a reported chocolate-to-sardine trade distinguish local material conditions from a nutrition ledger. Mitsuki's guest planning may be useful, yet her promised perfect satisfaction and proposed vessel wager are neither a surveyed outcome nor an executed contract. Crew clothing approval as reported by a superior does not inspect every worker's comfort. A claimed local tradition can organize desired hospitality while constraining another guest's schedule. [CLAIMANT4]",
+          "",
+          "The wider owner comparison preserves the same standard. Engineering making and pizza, Tea Party travel and food, GDD play, Sweets taste, Hot Springs reading and river rest, books and creator-reader exchange are substantive collective ends. They differ in agency, obligations and results; they are not a list of distractions that become worthy only after a battle. Their exact owner judgments test GSC's tendency to see people as labor, recipients, data or titles, while leaving each separate collective's complete responsibility intact. [O000–26; O061–104; purpose register]",
+          "",
+          "## 6. Crisis methods, coercion and finite consequences",
+          "",
+          "Emergency language is most dangerous when it makes an asserted cause or desired future stand in for the affected person's answer. Six sensor readings without visual confirmation warrant inquiry and preparedness; they do not by themselves identify Color, prove a single cause or authorize every later order. Rin calls a committee, Aoi questions the mandate, and Kaya undertakes an escort. The audience's later knowledge of Kaya's collaboration must not be transferred backward into every interlocutor's knowledge. [KA13; N07]",
+          "",
+          "The false escort actually seizes Sensei; the two PMC escort roles stay distinct from genuine Valkyrie students. Their boast of ample funding conflicts with Kirino's remembered shortage, giving the adult a practical reason for suspicion without proving a budget account. Kaya's Schale-dissolution purpose is explicitly not the General's corporate takeover purpose. Orders to confine or shoot and a report of tower control require their own completion checks. A common conspiracy setting does not make every goal, member or executed act uniform. [KA14–15]",
+          "",
+          "V004's proposed thermobaric attack makes civilians more than background evidence of an official's harshness. Their threatened exposure is part of what must be answered for. Yukino's objection, Miyako's refusal, police action, field aid and the teacher's choices are distinct interventions. Stopping the immediate threat is an achieved result. It is not a printed assessment of every displaced or injured person's later condition, an adjudicated legal theory or complete restitution. [KA16; N02]",
+          "",
+          "In Final, Sensei's willingness to bear a risk does not grant him authority to volunteer every student's body or task. Alice asks Kei for cooperation, and that cooperation changes the barrier result. Rin shares risk, Ayumu reports entry, technical workers develop or repair particular possibilities, and Fuuka protests her assignment. The subsequent hack and incomplete return keep capacity fallible. Celebratory language after a successful shot is participant appraisal; the checkpoint immediately qualifies world rescue. Institutional hope can be warranted without turning a partial success into a universal guarantee. [N08]",
+          "",
+          "The claimant's hygiene proposal introduces a smaller but equally serious administrative danger. She offers to issue a council declaration to remove Sammy and take blame, explaining resentment as a hoped-for lesson in questioning authority. No inspected hygiene finding or authenticating order supports the proposed ground. Exchanged papers do not complete the handover: the signature remains pending when Minato withdraws and the claimant agrees verbally. Her educational rationale is not proof that the strategy worked or that she had lawful authority to use it. [CLAIMANT2]",
+          "",
+          "The last voyage produces actual departure, joined vessels and Sammy's narrated death, followed by grief. Sanae's measurements and prognosis do not settle a single cause, an alternative treatment outcome or what the cat understood. Minato's opt-out is a concrete restraint on participants, not evidence of unanimous satisfaction. Her continuing hopes for gradual taboo change coexist with persisting practices and incomplete accident knowledge. Neither a successful decision against a taboo nor a compassionate intention certifies the institutional cure. [CLAIMANT2; CLAIMANT5]",
+          "",
+          "## 7. Schale, Sensei and independent recipients",
+          "",
+          "Schale's public promise is a capacity to hear problems that are not already answered by a school's hierarchy. The Prologue's open discretion and later calls at its office provide routes for such encounters. That openness must be tested against actual requests rather than converted into universal competence. A student may know an enforcement option and deliberately decline it. Kazusa first considers Justice, then says she does not want punishment. She offers a drink to make reliance easier and hesitates over another person's information. These are conditions on help, not obstacles an efficient adult may erase. [N01; O044–45]",
+          "",
+          "The E816 sequence supplies serious contrary evidence to an infallible Schale helper. Sensei's dropped photograph and friends' mock gang act publicize the history Kazusa wanted limited. She values their affection and still asks whether she ever requested that act. Yoshimi insists that the group listen before making excuses. Reisa's private explanation is entrusted only to the adult; it cannot be treated as knowledge Kazusa already possessed. The subsequent suggestive meeting may create pressure even where Kazusa initiates concern. A help process can contain chosen assistance and failure together. [O049–55]",
+          "",
+          "Its endings also deny a simple rule that gratitude repairs every earlier boundary. Reisa explicitly relinquishes a challenge and later holds back information under armed pressure; Kazusa helps while retaining irritation and rejecting a friendship label. A retreat follows anticipated police intervention, not an observed arrest or adjudicated jurisdiction. Shared sweets return the group to ordinary life, while the epilogue renews legend and challenge. A useful consultation and a relaxed self-revision are real. Permanent cessation, a medical guarantee and uniform consent are not. [O056–60]",
+          "",
+          "Sensei's strongest institutional act in the Kaya bargain is refusal to outsource responsibility for his own decisions. His strongest care acts elsewhere may be making time, hearing an objection, accepting a student field leader or sharing a particular task. These are compatible with imperfect jokes, limited knowledge and coercive circumstances. Student skills, choices and solidarity retain independent authorship. The GSC–Schale study therefore cannot treat a restored connection, a thankful student or a selected agreement as a charter for unlimited adult intervention. [KA12; N07–8; O044–60]",
+          "",
+          "The claimant adds another adult-care limit. She hears of the teacher's injury through student talk and asks him to accompany a visit despite limited mobility; choice-space agreement is printed, but the scene does not demonstrate cured injury or a newly authorized heavy workload. Sanae's rest forecast and Sammy-care uncertainty differ from the claimant's anticipated social problem. The same setting can contain helpful attention, a questionable practical demand and unresolved clinical knowledge. [CLAIMANT5]",
+          "",
+          "## 8. Peer institutions and the full civic Ayumu recovery duty",
+          "",
+          "### P3-SECTION-GSC-CIVIC-RECOVERY-AYUMU-REQUEST — a city that still needs work",
+          "",
+          "EVENT824 begins where an easy institutional ending would have stopped: an incident is said to be over, yet districts remain gravely damaged. Ayumu's eight turns make the consequence concrete without furnishing a new city survey. D.U. Shiratori is named as especially damaged; the incident itself is not securely named or placed against a global main calendar. “Ended” describes one event state, while “recovered” would require further material and recipient outcomes. The civic responsibility consists precisely in refusing to make those two predicates equivalent. [O068 L49–63]",
+          "",
+          "Ayumu begins by recognizing work and approaching the adult courteously. That address does not make Sensei the sole prior worker or deny the students' contributions. She names reconstruction as an urgent operational priority. This is her institutional statement about the damaged city, not a method instruction to rank all literary evidence by crisis severity. The same institution must still account for a worker's meal, tiredness, wanted game, gift or company. They do not lose intrinsic value because she has an urgent practical request. [O068; COUNCIL_GIFT1–3]",
+          "",
+          "Her description of resources has a carefully divided chain. Aoi's emergency aid approval is reported; the administrative office is said to be ready to execute work. The approval matters because it creates a represented possibility of resourcing civic tasks. It remains a report rather than an inspected instrument, amount, account balance, signed procurement, disbursement or finished works. Sensei is neither the approving financial authority nor the administrative office in this account. Treating his eventual usefulness as the source of all funds would remove Aoi's particular contribution and the staff's remaining execution responsibility. [O068]",
+          "",
+          "Rin's authority is still suspended in Ayumu's account. This is material contrary evidence to a narrative that treats available aid as automatic restoration of lawful control. Institutional capacity can survive through particular offices even when a colleague's authority remains constrained. The lone-work subject is elliptical and must not be fixed exclusively to Ayumu or Rin. An interpretation that praises one of them for silently doing everything would create an actor allocation the source does not provide. The named request therefore holds personnel, office capacity and authority status apart. [O068]",
+          "",
+          "Ayumu asks Sensei to help again. “Again” represents an earlier relationship of aid, but no newly located earlier incident, current response or present assent follows from the word. The adult has no printed reply in this source. That absence is a limit on the achieved endpoint, not a general verdict that Sensei never helps or that Ayumu's request was rejected. It also prevents a gratitude-based shortcut: prior assistance does not answer a new proposal on the recipient's behalf. The asking itself is her initiative and has significance before a solution is shown. [O068]",
+          "",
+          "She promises participation by Ayumu, Rin and Momoka. Their prospective contributions distinguish the request from an appeal for an adult to replace every student. They do not narrate completed labor, a worksite opening or a distribution of roles, hours and costs. The promises coexist with Rin's reported suspension. This tension should remain explicit rather than silently resolved as reinstatement, lawful delegation or evidence that the authority limit was meaningless. Momoka's promised work is not contradicted by her snack refusal elsewhere unless a source supplies the same obligation and time; her ordinary preference does not determine every future response. [O068; COUNCIL_GIFT1]",
+          "",
+          "The closing request is the actual end. There is no shown payment, procurement, rebuilt district, citywide return of services, reinstatement or completed shared reconstruction. The positive outcome is a civic problem articulated with named damage, a report of available help, a bounded staff promise and a request addressed to an independent adult. The negative or unfinished outcomes are equally specific. Claiming that this is “only a request” would wrongly discard the act of making damage and the proposed cooperation answerable. Claiming that it proves recovery would discard the work and recipients whose future remains open. [O068]",
+          "",
+          "Ayumu's coffee and chocolate encounter gives the request an ordinary counterpart without supplying its missing civic result. There she can prepare something suited to the adult, receive thanks and a taste response, and share chocolate and hardship talk. More work still saddens her; she wishes for more capacity. The civic scene's participation promise can be compared to that burden, but the scenes do not establish a shared date, continuous emotion or a performed work schedule. Nor does the gift convert prospective rebuilding into an already consented obligation. It reveals why being a competent contributor and wanting relief are compatible. [COUNCIL_GIFT3; O068]",
+          "",
+          "Rin's outing provides a second counterpart. Aoi's particular extension and colleagues' coverage can actually permit rest while the tower's rebuilt shell still lacks complete control. Civic work similarly requires the right kind of result: recognizing a damaged district is different from collecting funds, assigning staff, executing works or restoring services. This comparison does not accuse Ayumu of a deception, deny an unprinted later improvement or assume the same incident. It tests the analyst's obligation to keep the represented achievement finite. [N05; CLAIMANT6; O068]",
+          "",
+          "Peer institutions make the recipient question sharper. Food workers' protests in Final, resort participants' attachment in EVENT815, police labor and leisure, displaced students' material conditions, and creator-reader work illustrate different costs of collective promises. An emergency mandate cannot silently absorb them into one consenting civic body. Useful cross-school help and desired public pleasure can be meaningful before universal repair. The 105-purpose register preserves each source's own positive ends and adverse tail, without claiming all are direct Ayumu attendance or that a GSC name answers their separate complete homes. [N08; O043; O071; O081; O088; purpose register]",
+          "",
+          "This substantial named section therefore owns the complete chain from ended incident to continuing damage, reported financial possibility, still-suspended authority, requested aid and prospective participation. The differentiated-work/recognition parent separately owns its full peer directions. The Ayumu character or civic heading, a received source tuple and a count flag cannot substitute for this argument. Its stronger completion test remains evidence of specific recipient and material outcomes, and it does not invent them.",
+          "",
+          "## 9. Office names, memory, registers and represented knowledge",
+          "",
+          "Public recognition is a social event before it is an authentication procedure. Mai and a junior value the claimant's offered interview; the interview is not completed. Minato welcomes the visitors and the flagship docks; the full fleet is not audited. Aoi and other witnesses recognize the claimant with divergent appearances, while Rin and Sensei do not. An institution can operate around sincere disagreement without making all memory uniform. Administrative skill and an apparent signed founding paper fail as decisive identity tests for different reasons. [CLAIMANT3; CLAIMANT6; N05]",
+          "",
+          "The current source-locator qualification must remain explicit. The original Heine navigation tied uncertain recall to an E005 window, while the broader account places the street/market witness survey in E008. These are not merged into one event, identical dialogue or a chronology mechanism. Direct rejection and council-meeting roles likewise have their own C002 E007 source. Heine's arm, Sumomo's onigiri and their named responses are not guessed from a generic Finance label. Disagreement, food and refusal remain particular acts rather than a diagnosis of incapacity. [N05; COUNCIL_MEETING_C002E007; original/current locator qualifier]",
+          "",
+          "The claimant's first/second-visit correction, the remembered president's intimate address and Rin's perceived photographs are not interchangeable evidence. Plana's mimesis verdict and Orwell's simulacrum theory are attributed explanations; Arona's memory-loss alternative is an unproved rival. Logs demonstrate a contact and an interruption, not a truth classifier. Sensei's willingness to try an online contradiction search is not collection, validation, publication or a successful answer. The stranger's office title and the absent or dream figures keep separate identities while still being represented in the institution's argument. [N04–5; CLAIMANT3; CLAIMANT6]",
+          "",
+          "Institution language also reveals an ethical asymmetry between publicity and knowledge. A student can publicly complain, privately disclose, hear a rumor or have a photo exposed; none is equivalent to everyone knowing the same fact. Parenthesized doubts and thought labels do not automatically become communications to the recipient. Some inward-labelled lines receive replies, so absolute inaudibility is also an unsafe rule. A selected joke, a source-local actor seam, a dream or a reported letter cannot become a performed voice or a universally held belief. [N06–8; O049–60]",
+          "",
+          "Generic staff, citizens, ship workers, medical roles, PMC escorts, technical systems and creatures retain their local ontological boundaries. Two repeated generic labels do not force either one continuous person or several new people. Sammy's behavior and death give the care question material force without furnishing verbal consent. Arona, Plana and a logged response have distinct represented modes; a log does not establish personhood. The full purpose matrix preserves these roles and choices with their actual grades, rather than absorbing anonymous and nonhuman participants into a named officeholder. [N01; N06–8; CLAIMANT2–6; purpose register]",
+          "",
+          "## 10. Eight serious rival readings",
+          "",
+          "**Rival 1 — capable government is lawfully legitimate.** The positive case is substantial: officeholders negotiate, find information, arrange material help, open access and coordinate real results. Treating all capacity as illusion would miss the institution's functioning. The adverse evidence is the wrong kind of warrant for the larger conclusion: apparent signatures, unprinted ballots, voiceprint comparators, reported approval and claimed hierarchy. The warranted reading preserves useful capacity and contests the uninspected title or process separately. A verified legal or archival outcome could change the latter appraisal; it has not been supplied here. [N01; N05; KA12; O068]",
+          "",
+          "**Rival 2 — disputed legitimacy makes useful service and pleasure worthless.** Kaya's offer and the claimant's identity dispute give good reason to distrust an office's sweeping claim. That distrust does not erase actual shared correction, coffee, food, games, delivered notice or local rescue. A reader who makes political legitimacy the condition for every ordinary good would deny recipients their own partial experience. The counterlimit is that a pleasant encounter does not absolve a coercive act or create the missing charter. Both judgments can stand. [COUNCIL_GIFT1–3; N05; CLAIMANT3–4]",
+          "",
+          "**Rival 3 — collective support cures Rin's indispensability.** Aoi's extension and Ayumu/Momoka's coverage provide a real counterexample to total isolation. Rin goes out and names company as rest. The calls, unfinished control system, paperwork, lone search and renewed responsibility prevent a permanent-cure conclusion. The positive intervention is specific support at a particular time. A durable staffing or health outcome would require further evidence; withholding that stronger claim does not downgrade the actual outing. [N05; CLAIMANT6]",
+          "",
+          "**Rival 4 — a superhuman hierarchy alone secures public safety.** Kaya offers a coherent answer to fragmented authority and scarce resources, and the story does not make hunger, disorder or slow administration trivial. Her attempted consolidation nevertheless culminates in coerced responsibility, civilian danger and plans opposed by informed students. Distributed field and technical action achieves limited success through dissent and separate competence. Neither a superior's confidence nor the coalition's success supplies a universal government formula. It is the actual affected people and finite results that discriminate the methods here. [KA12; KA16; N08]",
+          "",
+          "**Rival 5 — arrest or an ended incident completes accountability and recovery.** Stopped threats, surrender, rescinded orders and public recognition are changes worth recording. The source's unprinted court, ledger, bodily and property tails limit their reach. EVENT824 directly holds “ended” beside grave damage and continued suspension; its request ends before disbursement and works. The rival is strongest as a local relief claim and weakest as an all-recipient closure claim. The named civic section retains that difference rather than deciding that either every problem is finished or no achievement counts. [KA16; O068]",
+          "",
+          "**Rival 6 — recognition authenticates a returned president and common council memory.** Many sincere responses and effective bounded negotiations make the claimant socially consequential. They are evidence against treating her as an irrelevant label or dismissing every witness. Rin/Sensei nonrecognition, divergent appearances, uninspected photo history, a device failure and alternative explanations obstruct authentication. Neither an omnipotent rewrite nor ordinary forgetfulness is proved. The institution must work under this uncertainty without turning one interpretation into everyone else's knowledge. [N04–5; CLAIMANT3; CLAIMANT6]",
+          "",
+          "**Rival 7 — Schale is an all-effective rescuer with universal assent.** Actual listening, field deference, requests and selected agreements support a strong positive account of adult help. The dropped photograph, teasing complicity, unanswered civic request, incomplete device capacity and students' independent refusals qualify it. Reisa's private complaint and Kazusa's continued boundaries show why an adult's good intention cannot speak for every recipient. The warranted alternative is particular care with answerable errors, not a replacement rule that the adult never helps. [N07–8; O044–60; O068]",
+          "",
+          "**Rival 8 — snacks, chess and gifts are lesser institutional evidence.** They do not by themselves prove a charter or repair a district, so a limited institutional-efficiency reading can reasonably ask what political result they achieve. It fails when it makes that question their only value. Wanting taste, laughter, company, a game or rest is part of the represented collective life, with particular permissions and costs. Kazusa's remembered café aspiration predates the adult consultation; Ayumu's shared hardship is actually achieved while work continues; Rin can call chess respite without absolving Kaya. The same exactness used for a coup must be used for a chocolate recipient's answer. [COUNCIL_GIFT1–3; N05; O059]",
+          "",
+          "## 11. Evidence route, sixteen finite tests and remaining warrants",
+          "",
+          "The argument's actual receiving is separated from availability. Eighteen of the allocated 23 normal arguments were newly received here through their substantive end, with CLAIMANT1's 677-line argument rendered by every nonblank line and an explicit complete empty-line inventory. N02/N03/N04/N06 and the exact C002 E007 meeting reuse my verified adequate prior Rin readings at unchanged tuples; another writer's Gehenna or M008 receipt is not my reading. EVENT824 is freshly complete. The seventeen E816 owners have fresh connected analytical core/end readings L18–EOF as well as the previously received enclosing whole sequence; their current frontmatter was not freshly physically replayed. The 105-source matrix records individual institution-purpose judgments, actual scopes and remaining stronger tests. [author receiving progress and complete receipt]",
+          "",
+          "The evidence is maintained written analytical meaning over the admitted selection. Complete files, hashes, copies and mechanically exact role projections bind custody and retrieval; they do not create a second primary read, blindness to prior knowledge, a performed voice or a model test. Current PR152 corrections govern the mint/liking division, Akari's private cafeteria practice, Hina's reading of Ako's disguised leave request, Chinatsu's request against resistance, Ako's character-count report and Saya's finite capture/board-game order. None of those corrections supplies a new result for GSC. Historical old-source formulations remain preserved with a current qualification; they are not silently quoted as new authority.",
+          "",
+          "| Test | Achieved or represented result | Stronger result withheld |",
+          "|---|---|---|",
+          "| T01 Prologue access | Contact, assistance and local administrative control transfer | Authenticated complete charter or all-office recovery |",
+          "| T02 Work relief | Particular extension, coverage and rest agreement | Permanent staffing or health repair |",
+          "| T03 Ordinary uptake | Actual outing, games, Rin's named chess/food rest, Ayumu's shared chocolate; other gifts retain their own answers | Every offer eaten, every recipient comfortable or future game won |",
+          "| T04 Dissent | Specific restraint and hearing of objections | A certified universal policy or membership rule |",
+          "| T05 Kaya offer | Actual C002 E008 closure/resources/liability offer and Sensei's refusal | Signed reform, delivered benefits or a repeated Final bargain |",
+          "| T06 Items and letters | Reported custody, apparent records, seen watch and operational pairing | Authenticated absent president, legal transfer, truth mechanism or global identity |",
+          "| T07 Support change | Recording, testimony and revised support at actual local scope | Executed unprinted vote or final sentence |",
+          "| T08 Immediate coup | Stopped threat, surrender and public/permit statements | All civilians compensated, court completed or school reopened |",
+          "| T09 Final operation | Undertaken committee/escort, actual false capture, local rescue and communications returned | Universal notice response, lawful reconfidence or all tower rights restored |",
+          "| T10 Rebuilding | Rebuilt shell by Rin's account beside reported control incompletion and water outage | Independent engineered safety or restored all services |",
+          "| T11 Negotiation | Three different school responses and one flagship's observed recall/docking | Implemented all-school reform or full fleet audit |",
+          "| T12 Tour and care | Agreed visit, worthwhile tour and clinician's injury/rest assessment | Cured injury, guest survey or authenticated office |",
+          "| T13 Sammy decision | Proposed removal, unsigned handover, Minato reconsideration, verbal withdrawal and actual last voyage | Inspected adverse hygiene finding, formal rescission, counterfactual survival or total reform |",
+          "| T14 Civic aid | Ayumu's request, reported Aoi approval and represented execution capacity | Adult assent, disbursement or completed works |",
+          "| T15 Civic authority | Reported ongoing Rin suspension and future three-student participation | Reinstatement or recovered city |",
+          "| T16 Owner purposes | All105 particular meanings evaluated with contrary/ordinary ends and exact scope | Universal name-absence, all-appearance, chronology or completion certificate |",
+          "",
+          "All fourteen original gaps remain OPEN with distinct effects on this institution:",
+          "",
+          "| Original gap | Current contribution and remaining warrant |",
+          "|---|---|",
+          "| G01 Ordinary and private breadth | Office gifts, rest, taste, work and comparative ordinary scenes materially enlarge the account; no invented typed private family or extrapolated complete lifetime follows. |",
+          "| G02 Yuuka council/club decision transfer | Resources and administrative parallels invite comparison; this institution does not validate a transferable Yuuka decision rule or complete her separate directed duties. |",
+          "| G03 Serika service, peer and reciprocity range | Requests, labor and recipient answers provide bounded comparison; they do not establish that every form of reciprocal help has the same permission. |",
+          "| G04 Hina crisis causality, accountability and ordinary contrast | Crisis and wanted music/rest remain independent questions; PR152's corrected invitation interpretation governs relevant use without finishing Hina accountability or discharging a Prefect home. |",
+          "| G05 Arius and PS68 ordinary/aftermath transfer | Independent desired food, work and company counter a crisis-only view; missing financial, pursuit and harm tails are not repaired by institutional gratitude. |",
+          "| G06 Cross-school ordinary repertoire | The105 comparisons retain different wishes and refusals; no uniform school response or common membership is inferred. |",
+          "| G07 Story-world chronology | Printed local “next day,” retrospective scene and incident language retain their reach; source order, holiday labels and reconciliation dates do not form a master calendar. |",
+          "| G08 Event naming and repeat contexts | Literal selected IDs, suffixes, titles, repetitions and the E816 closing phrase remain visible; a repeated format or phrase is not a recovered missing metadata title or one executed occasion. |",
+          "| G09 Written speaker/choice attribution | Source-local drift, reply-bearing inward text, private complaints and choice alternatives constrain individual ownership and knowledge; no silent actor repair. |",
+          "| G10 Performed voice | Written register and typography are received; timing, delivery, audio and audiovisual meaning remain unreceived. |",
+          "| G11 Hoshino's Yume record and office states | Record/authentication comparisons clarify why a paper or recollection needs a warrant; this study does not receive or close the separate historical office and grief question. |",
+          "| G12 Counterpart, system and variant identity | Missing president, dream, claimant, OS/log, generic officer and unjoined form remain distinct at actual scope; operational or social similarity is not a person join. |",
+          "| G13 Office, contract, safety and technical outcomes | Exact local outcomes are stated; unprinted ballot, charter, court, account, cure, authentication or safety verification remains open. |",
+          "| G14 Unclassified/mode continuity | Narrative, report, dream, written conditional presentation and retrospective knowledge remain separate; source copying and current metadata corrections do not upgrade the evidence mode. |",
+          "",
+          "The final positive conclusion is finite. GSC and Schale can make practical room for a colleague, resist a harmful responsibility bargain, coordinate useful capacities and articulate a damaged city's needs. They also misjudge, impose, leave work unfinished and act amid contested recognition. A full institution is represented when those tasks, pleasures, objections and limits retain their independent owners. Its literary argument is not a claim that the city, the office or every recipient has reached a final settlement."
+        ]
+      }
+    ],
+    "full_original_and_current_byte_reconstruction": "PASS",
+    "terminal_LF": "EXACT"
+  },
+  "complete_author_attachment_parts": [
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+      "bytes": 701276,
+      "sha256": "f11a25c45c20ae09fd9a49afa9098a4ec9ae03b4475ca3adf101f6c9483ff0c2",
+      "git_blob_oid_of_actual_bytes": "d288c224b9d61dc4dbdff91e3b9217be4884feb8"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_AUTHOR_ATTACHMENTS_PART_02_V1.json",
+      "bytes": 470075,
+      "sha256": "dc97527f6b5f0f92bab94187f6e81327d1e4a0e2e7843e698426c0f8a118e992",
+      "git_blob_oid_of_actual_bytes": "3467300836b2795549b55aa679dd84a6c0dba87f"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_AUTHOR_ATTACHMENTS_PART_03_V1.json",
+      "bytes": 409823,
+      "sha256": "0254e5cc98ef02c48c36039064ff9922afb846c0207ffadbb326c24725c5798c",
+      "git_blob_oid_of_actual_bytes": "5063f290d790eb917e4fe8e58b1c02857078d46d"
+    }
+  ],
+  "complete_original165_file_inventory": [
+    {
+      "path": "BLUE_ARCHIVE_GSC_SCHALE_INSTITUTIONAL_PREFREEZE_LABEL_AND_GRAMMAR_BEFOREIMAGE_V1.md",
+      "bytes": 49415,
+      "sha256": "2448cbcac1e50c5008d06cc17677dea5ec0d5fa57754f76e91ad93b023494463",
+      "git_blob_oid_of_actual_bytes": "2d056dfecc5c1aaf536ee73d949130347ec63e51"
+    },
+    {
+      "path": "BLUE_ARCHIVE_GSC_SCHALE_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 49478,
+      "sha256": "b57079f2db77d13dfbf8984e379e0359b3021a22db927e110b2ed23c9d087572",
+      "git_blob_oid_of_actual_bytes": "07faf4f6c82a6c152d7aea9aa0dbdc39e23b5ffb"
+    },
+    {
+      "path": "bound_documentary_controls/C00__ROOT_GSC_SCHALE_FULL_INSTITUTION_POSITIVE_NARRATIVE_ALLOCATION_AFTER_PR152_V1.json",
+      "bytes": 44499,
+      "sha256": "da6f5a57736d663f8989fce56d2a2373653144b932ae7f464be55e90786d4bcb",
+      "git_blob_oid_of_actual_bytes": "0bb99e0bc56e0fc5ffbf5802b6b3619ad5628e46"
+    },
+    {
+      "path": "bound_documentary_controls/C01__GSC_SCHALE_EXISTING_INSTITUTION_METADATA_SOURCE_PLAN_V1.json",
+      "bytes": 32875,
+      "sha256": "ab742abf61bbc54947529c1b8edf72cd2608c42322eae48e77927bf4e566453a",
+      "git_blob_oid_of_actual_bytes": "030a1f37c88553a57b6787fb982fc94a19cc882c"
+    },
+    {
+      "path": "bound_documentary_controls/C02__GSC_SCHALE_FULL105_PROSPECTIVE_SOURCE_DUTIES_V1.json",
+      "bytes": 300693,
+      "sha256": "efeea60569356ada9b4e51dbd4cd4addd21485a202ed05f9fd620fadb36d2116",
+      "git_blob_oid_of_actual_bytes": "f7b428aa8b1e7492f603d33b509d5365d49b500e"
+    },
+    {
+      "path": "bound_documentary_controls/C03__GSC_SCHALE_RECEIVER_ATTRIBUTION_AND_DISTINCT_OPEN_GAP_QUALIFICATION_V1.json",
+      "bytes": 16936,
+      "sha256": "38ac0b233415d05508feb38965a8a1d6713a2b6455bc6969a4c25af6227a7e8e",
+      "git_blob_oid_of_actual_bytes": "8f0a6d614b432a94b34818ef94063b4f232039e0"
+    },
+    {
+      "path": "bound_documentary_controls/C04__RIN_THREE_APPLICABILITY_REASONS_ADDITIVE_QUALIFICATION_V1.json",
+      "bytes": 16165,
+      "sha256": "ce5699a932a2c686af86d2a8bb003b0f410df314cf538afee7d991cf81889161",
+      "git_blob_oid_of_actual_bytes": "7fe3f7d1250a6636317a4e8afaec89806d382571"
+    },
+    {
+      "path": "bound_documentary_controls/C05__ROOT_KAYA_OPERATIVE_LOCATOR_SOURCE_ROLE_AND_CHRONOLOGY_QUALIFICATION_V1.json",
+      "bytes": 14726,
+      "sha256": "7a5fceab15d50d90b7d39036349da92593d33cce63779f36806471363846341f",
+      "git_blob_oid_of_actual_bytes": "a7f621807c315079c69d6e2532e683d69586c002"
+    },
+    {
+      "path": "bound_documentary_controls/C06__ROOT_PR148_PR152_COMPLETED_LOCAL_ORDINARY_RECONCILIATION_V1.json",
+      "bytes": 2120,
+      "sha256": "59b4dc7ad2e985cc2c813707f5df2550d5ac4c819f2d8615f334b7c4e3a0aa5c",
+      "git_blob_oid_of_actual_bytes": "8aa9d6b8e482b30779a29db9fcd336c47a9c00f7"
+    },
+    {
+      "path": "bound_documentary_controls/C07__BLUE_ARCHIVE_SEVEN_SOURCE_CONSISTENCY_CORRECTIONS_20261011_V1.json",
+      "bytes": 79041,
+      "sha256": "afdb687d5fab584e25115d019dd32be78fa996d34da415e44bd6950698aa2755",
+      "git_blob_oid_of_actual_bytes": "ab4b2364c9a182d2ea9680e136ea3a4806520e1a"
+    },
+    {
+      "path": "bound_documentary_controls/C08__C01_BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+      "bytes": 52261,
+      "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+      "git_blob_oid_of_actual_bytes": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45"
+    },
+    {
+      "path": "bound_documentary_controls/C09__ROOT_COMPLETE_BODY_SCOPED_RECEIVING_AND_PROSPECTIVE_ADEQUACY_WITH_LIMITS_V1.json",
+      "bytes": 6428,
+      "sha256": "f541c62cb9cf4a5e63adb606a2690a7f68caf1ba799daa02e1274b85acd797e2",
+      "git_blob_oid_of_actual_bytes": "cbd5ba4d59f21823e576add94d0cc37f49b9f4cd"
+    },
+    {
+      "path": "bound_normal_inputs/CLAIMANT1__BLUE_ARCHIVE_MAIN_S2_V003_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+      "bytes": 19594,
+      "sha256": "f6438d5cccc1582c1a86b1e68be27a9321ef3f8bdb4ce21862fffbaad4fc3df9",
+      "git_blob_oid_of_actual_bytes": "3c5bdbe922e2ecb13e74c415affe1fa6a4392cf1"
+    },
+    {
+      "path": "bound_normal_inputs/CLAIMANT2__BLUE_ARCHIVE_MAIN_S2_V003_C001_CHECKPOINT.md",
+      "bytes": 11521,
+      "sha256": "9a5b3c6916fc210deaa56d9f47f8991fb997e9d4df4b3ff115122bfac7449738",
+      "git_blob_oid_of_actual_bytes": "c02222a483d24e1275c1d0ed4b83cc326efcb49d"
+    },
+    {
+      "path": "bound_normal_inputs/CLAIMANT3__BLUE_ARCHIVE_MAIN_S2_V003_C001_E002_DEEP_READING.md",
+      "bytes": 6723,
+      "sha256": "f2e35aa937604025b840b70900014f7c47199a74f507bb4527accddd662673c3",
+      "git_blob_oid_of_actual_bytes": "8c62783a20370f043b6220a70b9645b2c164c8bc"
+    },
+    {
+      "path": "bound_normal_inputs/CLAIMANT4__BLUE_ARCHIVE_MAIN_S2_V003_C001_E003_DEEP_READING.md",
+      "bytes": 7575,
+      "sha256": "409cc63812d2a901de0d7ded891b40bc8dda1df81bfc7aa87a3b3020b01dffb2",
+      "git_blob_oid_of_actual_bytes": "ee5db2ac32a5d864614dc43c23b5620520165efb"
+    },
+    {
+      "path": "bound_normal_inputs/CLAIMANT5__BLUE_ARCHIVE_MAIN_S2_V003_C001_E007_DEEP_READING.md",
+      "bytes": 5445,
+      "sha256": "2537453c9b5bc16ab4b275813c0eaf4a6900996e92fb7e53c9ce005bb470ec2f",
+      "git_blob_oid_of_actual_bytes": "5e4a3767348c335693e33d88c06be38b81614fc5"
+    },
+    {
+      "path": "bound_normal_inputs/CLAIMANT6__BLUE_ARCHIVE_MAIN_S2_V001_C001_CHECKPOINT.md",
+      "bytes": 10927,
+      "sha256": "57f075dd136033dcd2acee66b33bcba82e81acad76d651053d669b4e4fc976a2",
+      "git_blob_oid_of_actual_bytes": "dfb581497b6204d07d39bb0cfecad2b26303a789"
+    },
+    {
+      "path": "bound_normal_inputs/COUNCIL_GIFT1__BLUE_ARCHIVE_EVENT_810_EPISODE_001_80000001_DEEP_READING.md",
+      "bytes": 10755,
+      "sha256": "e672db636ca504928f558766c019235cfb63a91459fa59183c8eee8fa4bf1f97",
+      "git_blob_oid_of_actual_bytes": "7b7ec67c27cdbe161fd6a8a2ffccaf183ea817af"
+    },
+    {
+      "path": "bound_normal_inputs/COUNCIL_GIFT2__BLUE_ARCHIVE_EVENT_810_EPISODE_003_80000003_DEEP_READING.md",
+      "bytes": 9683,
+      "sha256": "33e6407530713856cfed6be481bd63929ac6f0deaab208273c54cd25acc3721f",
+      "git_blob_oid_of_actual_bytes": "307a6ec9c979033b1e04b31c4fa935d345d2d442"
+    },
+    {
+      "path": "bound_normal_inputs/COUNCIL_GIFT3__BLUE_ARCHIVE_EVENT_810_EPISODE_093_80000093_DEEP_READING.md",
+      "bytes": 8943,
+      "sha256": "d120c527f225f0c5eaef17806ab8e9ee218711f56d294c82251e7b13fda03609",
+      "git_blob_oid_of_actual_bytes": "c9aa80d483567d270378a4d4bebdc063745fc8cd"
+    },
+    {
+      "path": "bound_normal_inputs/COUNCIL_MEETING_C002E007__BLUE_ARCHIVE_MAIN_V004_C002_E007_DEEP_READING.md",
+      "bytes": 8810,
+      "sha256": "73197daf01a438a84006c00dbf36fc362d102fb659b2506c3ca58d218bc889e6",
+      "git_blob_oid_of_actual_bytes": "1f82a46b0a41ac3932ffb6098040074c011cb84f"
+    },
+    {
+      "path": "bound_normal_inputs/KA12__BLUE_ARCHIVE_MAIN_V004_C002_E008_DEEP_READING.md",
+      "bytes": 7820,
+      "sha256": "2e9496a74da60bdd43e1dcc10d9a68147d91fe6709f6eacc7725d6c1e51b010e",
+      "git_blob_oid_of_actual_bytes": "82fc8e94750c13e7830e189b0a6d4f7b72cafc34"
+    },
+    {
+      "path": "bound_normal_inputs/KA13__BLUE_ARCHIVE_MAIN_V100_C001_E006_DEEP_READING.md",
+      "bytes": 8278,
+      "sha256": "01573c6439c3a52d870b3f8035ecf794fdafbd8fda9fa617e8670a814de86686",
+      "git_blob_oid_of_actual_bytes": "b130462ca0904f939e18bdd02b931f70c7087f13"
+    },
+    {
+      "path": "bound_normal_inputs/KA14__BLUE_ARCHIVE_MAIN_V100_C001_E007_DEEP_READING.md",
+      "bytes": 8513,
+      "sha256": "31869dd677d9e4acddec19931495c67d0dbfdcf2f778ab13eddd0a14e1051842",
+      "git_blob_oid_of_actual_bytes": "7b7f9af8b7786487dde73a82d5fa21d1b688bd96"
+    },
+    {
+      "path": "bound_normal_inputs/KA15__BLUE_ARCHIVE_MAIN_V100_C001_E010_DEEP_READING.md",
+      "bytes": 7314,
+      "sha256": "4b802422d047eac1f4388e43953a85c41bb2d26ee58dfd5ed0653325e5a897bd",
+      "git_blob_oid_of_actual_bytes": "6ea834df072588b4da7e9f780b1e1a9e69bf7288"
+    },
+    {
+      "path": "bound_normal_inputs/KA16__BLUE_ARCHIVE_MAIN_V004_C002_CHECKPOINT.md",
+      "bytes": 18304,
+      "sha256": "cb9fb6f5e6a697f3286aadfe8c1c2f51719804652a94c9358916d11d18fc2e19",
+      "git_blob_oid_of_actual_bytes": "9f4b61cb3a308ad554076d77bd2eaf2889a53cab"
+    },
+    {
+      "path": "bound_normal_inputs/N01__RIN01__BLUE_ARCHIVE_MAIN_V000_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+      "bytes": 29927,
+      "sha256": "c002d2db50d36ab9307f2de0ec4062c000108068f6fc893fc7b14011a57adf54",
+      "git_blob_oid_of_actual_bytes": "92dad8777648f85badaf47ce7e8d8741eda1cc2a"
+    },
+    {
+      "path": "bound_normal_inputs/N02__RIN02__BLUE_ARCHIVE_MAIN_V004_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+      "bytes": 34839,
+      "sha256": "9f953c2ae13515a38af2f469485eb260f32e69849033136a494843acd97024ae",
+      "git_blob_oid_of_actual_bytes": "4f8301a69d012fe2b15c9b81c38da510ad359e68"
+    },
+    {
+      "path": "bound_normal_inputs/N03__RIN03__BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+      "bytes": 49292,
+      "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+      "git_blob_oid_of_actual_bytes": "4712932e1058e7babcc693932caedcfd1a076622"
+    },
+    {
+      "path": "bound_normal_inputs/N04__RIN04__BLUE_ARCHIVE_MAIN_S2_V000_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+      "bytes": 38506,
+      "sha256": "1b345afb1f793d320784394b5d8a51cb0b6a694b89cc06fbd514e1f2ceb71f79",
+      "git_blob_oid_of_actual_bytes": "584725d932820e7847f6c3a057fdafdcedc14b0e"
+    },
+    {
+      "path": "bound_normal_inputs/N05__RIN05__BLUE_ARCHIVE_MAIN_S2_V001_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+      "bytes": 13393,
+      "sha256": "48a62cb5a2dc894176822923df4580be05f87287e792c0f6ad83d638a0940ecb",
+      "git_blob_oid_of_actual_bytes": "cc58366c949eb4844063ed7d1aecd889dec1308d"
+    },
+    {
+      "path": "bound_normal_inputs/N06__RIN06__BLUE_ARCHIVE_UNJOINED_WRITTEN_27_IDENTITY_AND_CONTEXTUAL_ACCOUNT_20261008.md",
+      "bytes": 26901,
+      "sha256": "54ca96ef458fde3a7ab87b9f310cc7c06890bb39c6d0bbcdf0d88b6cd8aa5ec2",
+      "git_blob_oid_of_actual_bytes": "1dcaa6d18d96b8c1959e40e70e22cf36919db828"
+    },
+    {
+      "path": "bound_normal_inputs/N07__A07__BLUE_ARCHIVE_MAIN_V100_C001_CHECKPOINT.md",
+      "bytes": 18013,
+      "sha256": "68c68589c96361f94053cd4485daf68c1cdb70d31d622607aded26492aa7da0e",
+      "git_blob_oid_of_actual_bytes": "269d6deb765ba5a65a3f831f3248741a24621fa3"
+    },
+    {
+      "path": "bound_normal_inputs/N08__A08__BLUE_ARCHIVE_MAIN_V100_C003_CHECKPOINT.md",
+      "bytes": 14443,
+      "sha256": "f1d911ce2d822e067d03708b0326f1b41bc032f937c5b24a00d7c256e3eb1c50",
+      "git_blob_oid_of_actual_bytes": "b385f8886700fb4470840306ecb05fdffb9275d2"
+    },
+    {
+      "path": "bound_normal_inputs/O000__000__GROUP__BLUE_ARCHIVE_GROUP_1101_1104_DEEP_READING.md",
+      "bytes": 36852,
+      "sha256": "2215aa4cb0f6b7092939f775ac72e12361e6fa58ce9d4087f7686d10d3c9a2d3",
+      "git_blob_oid_of_actual_bytes": "2f1bce821c37ec76c58b0422fdc13da135258009"
+    },
+    {
+      "path": "bound_normal_inputs/O001__001__GROUP__BLUE_ARCHIVE_GROUP_1201_1203_DEEP_READING.md",
+      "bytes": 28415,
+      "sha256": "7878d5a7517dfad383ffd92f175d48f4ce5052afc332956122f396dc6209b32a",
+      "git_blob_oid_of_actual_bytes": "8d0422d805814d9148746b4c2f2ad9ab606b7038"
+    },
+    {
+      "path": "bound_normal_inputs/O002__002__GROUP__BLUE_ARCHIVE_GROUP_1301_1303_DEEP_READING.md",
+      "bytes": 23556,
+      "sha256": "a2b69a516d530c14b075bb8625ff51d9046d27f5204c5d9ca3e72e73761e1872",
+      "git_blob_oid_of_actual_bytes": "7081b474475df1b425b2b7364470913f4a24bb05"
+    },
+    {
+      "path": "bound_normal_inputs/O003__003__GROUP__BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md",
+      "bytes": 24487,
+      "sha256": "2f196a0f37e8bb018bf29b953b20f233be8bcbd829936448dcc51728d45a84b2",
+      "git_blob_oid_of_actual_bytes": "5af18f683c454059385397183a8822af7c9f7058"
+    },
+    {
+      "path": "bound_normal_inputs/O004__004__GROUP__BLUE_ARCHIVE_GROUP_1501_1503_DEEP_READING.md",
+      "bytes": 31173,
+      "sha256": "5befccc68d9cd8c89ba1f60e37f5fe861acfe280f33d5c5ea145f89a8126b0d6",
+      "git_blob_oid_of_actual_bytes": "5f0889bb9b75d3cf973d432467152fb830ba722f"
+    },
+    {
+      "path": "bound_normal_inputs/O005__005__GROUP__BLUE_ARCHIVE_GROUP_1601_1602_DEEP_READING.md",
+      "bytes": 21527,
+      "sha256": "763959c1baaa21a24d1e9a1acaade07829a1fbb6441c9c8d40fa68ad41b35fba",
+      "git_blob_oid_of_actual_bytes": "b689219080e6999ebe1adb859d329db9cd1aaad2"
+    },
+    {
+      "path": "bound_normal_inputs/O006__006__GROUP__BLUE_ARCHIVE_GROUP_1701_1703_DEEP_READING.md",
+      "bytes": 23364,
+      "sha256": "2119cc1d151dc1a82817d07890bcbc9dd7dd8583ea614ca8d05ac5d7298b189e",
+      "git_blob_oid_of_actual_bytes": "c02e8afaacaff22d6415cae4fda710c39278c3e4"
+    },
+    {
+      "path": "bound_normal_inputs/O007__007__GROUP__BLUE_ARCHIVE_GROUP_1801_1802_DEEP_READING.md",
+      "bytes": 22699,
+      "sha256": "b9762604abf08b3c23093a1ba4b2a9d49b7822cbd8c934ab3e5619d1c4dc9e93",
+      "git_blob_oid_of_actual_bytes": "780341574297f23b2255a225fe7ad6ad20babd04"
+    },
+    {
+      "path": "bound_normal_inputs/O008__008__GROUP__BLUE_ARCHIVE_GROUP_1901_1902_DEEP_READING.md",
+      "bytes": 25362,
+      "sha256": "5272f38efcec91af3817c895c191a01d2d1c1d9c04dca5da3c304685cb593843",
+      "git_blob_oid_of_actual_bytes": "17e378db57541ef25cb16e08f9a4db4e4111bc51"
+    },
+    {
+      "path": "bound_normal_inputs/O009__009__GROUP__BLUE_ARCHIVE_GROUP_2001_2002_DEEP_READING.md",
+      "bytes": 24556,
+      "sha256": "dc298253ed825d98abd47a3c5fd8515e54a3b3fd66d2fed47c5bd0815909cff6",
+      "git_blob_oid_of_actual_bytes": "28600496162774eda305a257172adeb4ab13ee4d"
+    },
+    {
+      "path": "bound_normal_inputs/O010__010__GROUP__BLUE_ARCHIVE_GROUP_2101_2102_DEEP_READING.md",
+      "bytes": 36756,
+      "sha256": "ad22e97278f7e35ec5d43e27a1dbaafb14409070468c62a7d02b6d3003af3845",
+      "git_blob_oid_of_actual_bytes": "3a6e2ed5cb43f5eecd3fff9671a3df9df74dd42e"
+    },
+    {
+      "path": "bound_normal_inputs/O011__011__GROUP__BLUE_ARCHIVE_GROUP_2201_DEEP_READING.md",
+      "bytes": 20604,
+      "sha256": "54bfc7a4c14e258acdfe36e28b5be1b845ad3347a2748f2bf3a0f95da5d69e43",
+      "git_blob_oid_of_actual_bytes": "07fa89af78ca48473df3f8daaf72052003b93aaa"
+    },
+    {
+      "path": "bound_normal_inputs/O012__012__GROUP__BLUE_ARCHIVE_GROUP_2301_2302_DEEP_READING.md",
+      "bytes": 22102,
+      "sha256": "fc4af5298582f0722a7772748a75d1192c67f5d9f667dfce64e2d20915ef1cf1",
+      "git_blob_oid_of_actual_bytes": "f2612e56da393dadb0e5cfa2d3cade9e761839c1"
+    },
+    {
+      "path": "bound_normal_inputs/O013__013__GROUP__BLUE_ARCHIVE_GROUP_2401_2402_DEEP_READING.md",
+      "bytes": 22956,
+      "sha256": "4f108863dd78b353d9a37190bb7ea8f6a9aa880980bbe10ddcc4a42a0c1504ca",
+      "git_blob_oid_of_actual_bytes": "ce03e3bbb80f946eb32b8afce909e334487dfcdd"
+    },
+    {
+      "path": "bound_normal_inputs/O014__014__GROUP__BLUE_ARCHIVE_GROUP_2403_2404_DEEP_READING.md",
+      "bytes": 24925,
+      "sha256": "5a813026aee7afa9e3ee50a2440b927a42591525a7142241527aa4604c89c1b5",
+      "git_blob_oid_of_actual_bytes": "5244c48372ce69ed00db445d55d84d5341bdb964"
+    },
+    {
+      "path": "bound_normal_inputs/O015__015__GROUP__BLUE_ARCHIVE_GROUP_2501_2502_DEEP_READING.md",
+      "bytes": 22203,
+      "sha256": "11d758d98de1a967cd93e86a789a778e9dc04bfab520be0d558d127da6b7ad37",
+      "git_blob_oid_of_actual_bytes": "94c2927af342ed823a661f79999c6f6268edb95a"
+    },
+    {
+      "path": "bound_normal_inputs/O016__016__GROUP__BLUE_ARCHIVE_GROUP_2601_2602_DEEP_READING.md",
+      "bytes": 20799,
+      "sha256": "316a2761199732a5c0055ba67f610cc0ac2192da4d29c5b46cf1c5cd279b56fb",
+      "git_blob_oid_of_actual_bytes": "f419295b45330ccfc5022601d129bff061507fc1"
+    },
+    {
+      "path": "bound_normal_inputs/O017__017__GROUP__BLUE_ARCHIVE_GROUP_2701_2702_DEEP_READING.md",
+      "bytes": 18500,
+      "sha256": "9bf96b4be2830d7ee4f484ec129bcea0a1b2f8c22acfb60001ad622afdfcba77",
+      "git_blob_oid_of_actual_bytes": "f84f62cc9735f89bc5e0e6778eeb7377b9a7055b"
+    },
+    {
+      "path": "bound_normal_inputs/O018__018__GROUP__BLUE_ARCHIVE_GROUP_2801_2802_DEEP_READING.md",
+      "bytes": 20861,
+      "sha256": "1a3b71b858cfa84322548888ddbd510d13872446b1101c35b5b4b301d98afa11",
+      "git_blob_oid_of_actual_bytes": "2e98f2f95a5d46698f45f915a2a62d5e61dc89dc"
+    },
+    {
+      "path": "bound_normal_inputs/O019__019__GROUP__BLUE_ARCHIVE_GROUP_2901_2902_DEEP_READING.md",
+      "bytes": 23938,
+      "sha256": "0cfdc1143e078d2c5c6dc0057798a632edbfa617b82a859c940854b6d873d96e",
+      "git_blob_oid_of_actual_bytes": "b96f630eadae2479f84bbccc9e08dd94321f55c5"
+    },
+    {
+      "path": "bound_normal_inputs/O020__020__GROUP__BLUE_ARCHIVE_GROUP_3001_3003_DEEP_READING.md",
+      "bytes": 30157,
+      "sha256": "93cf68d76555403ccb473680e367996438fc2a007d6d4a1eb9d7999ab29735c7",
+      "git_blob_oid_of_actual_bytes": "c57baf336bb102c385bef8eb306a84fc7b361767"
+    },
+    {
+      "path": "bound_normal_inputs/O021__021__GROUP__BLUE_ARCHIVE_GROUP_3101_3103_DEEP_READING.md",
+      "bytes": 40956,
+      "sha256": "a9b013389a588c27970482c74e95eb16b57511dedb134e41aa4c850081d5aaf6",
+      "git_blob_oid_of_actual_bytes": "5bcbef776c36b70da61c168eebbc861ddda01cb6"
+    },
+    {
+      "path": "bound_normal_inputs/O022__022__GROUP__BLUE_ARCHIVE_GROUP_3201_3202_DEEP_READING.md",
+      "bytes": 26598,
+      "sha256": "8a8f18f9a2a4daed3269a1d6ffb304ef562c65aec7a85c37dc0e20d19c2e35ac",
+      "git_blob_oid_of_actual_bytes": "d1af06e8df6d8d1b33ebf2513474ca4df45e2287"
+    },
+    {
+      "path": "bound_normal_inputs/O023__023__GROUP__BLUE_ARCHIVE_GROUP_3301_3303_DEEP_READING.md",
+      "bytes": 28668,
+      "sha256": "4b2cc0b4808e617e18c1bf3e788da5357f4c20fcb87bceeabb9b6f73e22e4d69",
+      "git_blob_oid_of_actual_bytes": "199da3f35af1f6ab9802b7396d2d844c8638b0d3"
+    },
+    {
+      "path": "bound_normal_inputs/O024__024__GROUP__BLUE_ARCHIVE_GROUP_3401_3403_DEEP_READING.md",
+      "bytes": 31969,
+      "sha256": "ff1752082d3d7c96246c8c169967045cb4e20204c07ea4019eced928aaed906e",
+      "git_blob_oid_of_actual_bytes": "6c498e138ba8daa74bfa4cc3614a10fa2cdd6fe7"
+    },
+    {
+      "path": "bound_normal_inputs/O025__025__GROUP__BLUE_ARCHIVE_GROUP_3501_3502_DEEP_READING.md",
+      "bytes": 28377,
+      "sha256": "143280da7ea65dd6b5f32440f75f0bc1f2018cf1d6697eb0ee53af09bd6d261d",
+      "git_blob_oid_of_actual_bytes": "7be147924e3d291f9fc22dc45e75915ee7854df9"
+    },
+    {
+      "path": "bound_normal_inputs/O026__026__GROUP__BLUE_ARCHIVE_GROUP_3601_3603_DEEP_READING.md",
+      "bytes": 28169,
+      "sha256": "3834b614aebd03d7999f526737512b20a8339c4230b675f1e57185d896f8fba7",
+      "git_blob_oid_of_actual_bytes": "406996057079297647a44005ce83f17c49261ab8"
+    },
+    {
+      "path": "bound_normal_inputs/O027__027__EVENT__BLUE_ARCHIVE_EVENT_80000_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "bytes": 27172,
+      "sha256": "02c8c105de99c9c823441ca9b7b80e05f9b88b82b4fb2e92d6ee8529394fed9e",
+      "git_blob_oid_of_actual_bytes": "01281f00edf55722d5c73a5fbd72338131494dca"
+    },
+    {
+      "path": "bound_normal_inputs/O028__028__EVENT__BLUE_ARCHIVE_EVENT_80001_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "bytes": 39576,
+      "sha256": "ae90bcacfacefc2a23dabdbb29aac27a254790b42c365f3619f5d928b4dd0917",
+      "git_blob_oid_of_actual_bytes": "9485485d00ee0de3bd7573bcc298ca12a18c4dbd"
+    },
+    {
+      "path": "bound_normal_inputs/O029__029__EVENT__BLUE_ARCHIVE_EVENT_801_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "bytes": 21153,
+      "sha256": "0002178c494453db608e29fe408f17c32e1e2a472dfcbc9636c9e21cb243b610",
+      "git_blob_oid_of_actual_bytes": "5be546409325cf7bb7ae1f71756bbaff62b3356d"
+    },
+    {
+      "path": "bound_normal_inputs/O030__030__EVENT__BLUE_ARCHIVE_EVENT_802_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "bytes": 17480,
+      "sha256": "29886dccffa797386993b88f545564e32eb22527af9ed8d0aa38ea6f3983e264",
+      "git_blob_oid_of_actual_bytes": "977321ddb70d1e0e6f128316296c06ec6f48251a"
+    },
+    {
+      "path": "bound_normal_inputs/O031__031__EVENT__BLUE_ARCHIVE_EVENT_803_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "bytes": 24308,
+      "sha256": "2e39c9ad794d9b38f9a3ea4b3b0b83031f7646a55fd689f11cc1a6fbdb4341b2",
+      "git_blob_oid_of_actual_bytes": "65f353b920aebe20cf7eb7914cfd26d2ef36ae77"
+    },
+    {
+      "path": "bound_normal_inputs/O032__032__EVENT__BLUE_ARCHIVE_EVENT_804_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "bytes": 16956,
+      "sha256": "3d6fbcf33bdd9e838d973de99a7c63aa1170cf038af5ace59b2255798cdfbe4a",
+      "git_blob_oid_of_actual_bytes": "dd42a515742142cca823fa1d94231f34df0ffbf3"
+    },
+    {
+      "path": "bound_normal_inputs/O033__033__EVENT__BLUE_ARCHIVE_EVENT_805_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "bytes": 17785,
+      "sha256": "cc1bcd269132e5b744f5bdf1da94327ae9fd299045b7151bc38553c8c8baa05f",
+      "git_blob_oid_of_actual_bytes": "ce7f643a3008fd60c61fecf92e27258a975ba7b2"
+    },
+    {
+      "path": "bound_normal_inputs/O034__034__EVENT__BLUE_ARCHIVE_EVENT_806_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "bytes": 16448,
+      "sha256": "187b924e3c750ba582de81a751ba5bd45d99e7b30d78cac38e33f80cb0ab5091",
+      "git_blob_oid_of_actual_bytes": "f3884e23561ec74f020ae5d6f9cfbd8e9cd50465"
+    },
+    {
+      "path": "bound_normal_inputs/O035__035__EVENT__BLUE_ARCHIVE_EVENT_807_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "bytes": 11342,
+      "sha256": "0169b136e52a93a880b55d0d0d61f74a3eb554053ba8b77b4155773f9289165a",
+      "git_blob_oid_of_actual_bytes": "8967b324cef6c7acb651395f1251a21ed8571459"
+    },
+    {
+      "path": "bound_normal_inputs/O036__036__EVENT__BLUE_ARCHIVE_EVENT_808_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "bytes": 16468,
+      "sha256": "aa1a4e877dd00016b6f9a177339a81e2c52664e00582c52701c206f59765530c",
+      "git_blob_oid_of_actual_bytes": "36b57a18749b2661669c5aae1dc8981799e22da0"
+    },
+    {
+      "path": "bound_normal_inputs/O037__037__EVENT__BLUE_ARCHIVE_EVENT_809_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "bytes": 20216,
+      "sha256": "04a41b534c4102c215832cce876737f0d3ff3907088cd0a7194b8ffdeb523c04",
+      "git_blob_oid_of_actual_bytes": "799f5b2f5e2bba1a6af6d2a4e5547d9652da5a91"
+    },
+    {
+      "path": "bound_normal_inputs/O038__038__EVENT__BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "bytes": 46462,
+      "sha256": "b5a86050b0f78e343e39499b7b1766b474a9ec106a0215279caff72589fe9353",
+      "git_blob_oid_of_actual_bytes": "13b90d6ccfe8df728be0e963cfb8c62c0116f2c2"
+    },
+    {
+      "path": "bound_normal_inputs/O039__039__EVENT__BLUE_ARCHIVE_EVENT_811_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "bytes": 21750,
+      "sha256": "8eb34eb0d4788b0fa54f62a5de5ba6f96d358978b47c42bff0182ad41ef37745",
+      "git_blob_oid_of_actual_bytes": "6f85372add8a9402297c5911b8c5f562f486e69e"
+    },
+    {
+      "path": "bound_normal_inputs/O040__040__EVENT__BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 99877,
+      "sha256": "6a6ce9b164f151fb70498bebcad0173ce39c3cb5e71653f6de1f231a27442bd6",
+      "git_blob_oid_of_actual_bytes": "02d9d2f449e24008ff71e743502494ae004ebfa2"
+    },
+    {
+      "path": "bound_normal_inputs/O041__041__EVENT__BLUE_ARCHIVE_EVENT_813_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "bytes": 21271,
+      "sha256": "97d8cea27308325a5d5a02a82fc5f775f7adeeaee4aac064d7f8b880999d67f4",
+      "git_blob_oid_of_actual_bytes": "f03af8a55527e1606d57fe23e5ebfe3249b62821"
+    },
+    {
+      "path": "bound_normal_inputs/O042__042__EVENT__BLUE_ARCHIVE_EVENT_814_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "bytes": 21203,
+      "sha256": "d86f83f03550a6798ff327abf1cf46b020498e3f4639165144e1c8ad2b0915b0",
+      "git_blob_oid_of_actual_bytes": "cef7df3168ddd8b40ce50800953471e7c47261fb"
+    },
+    {
+      "path": "bound_normal_inputs/O043__043__EVENT__BLUE_ARCHIVE_EVENT_815_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "bytes": 20301,
+      "sha256": "c20995216bd4dc6938a49a9cdb5bcec03689f95b3154cb96231a19b4f4ce76d7",
+      "git_blob_oid_of_actual_bytes": "df077a735bfb6a079186a128871967d7364d3303"
+    },
+    {
+      "path": "bound_normal_inputs/O044__044__EVENT__BLUE_ARCHIVE_EVENT_816_EPISODE_001_DEEP_READING.md",
+      "bytes": 4586,
+      "sha256": "12bb8bb8a37413bc0372ced65615f942c30de8c6fc69317a1792c983545d740a",
+      "git_blob_oid_of_actual_bytes": "e24eecbf463e0c8b301c9f1ca53aeabae5e4e2ef"
+    },
+    {
+      "path": "bound_normal_inputs/O045__045__EVENT__BLUE_ARCHIVE_EVENT_816_EPISODE_002_DEEP_READING.md",
+      "bytes": 4169,
+      "sha256": "f4bd2128b3eac5fb2ff36040bb4dc408afec4836b281f3ef578a1f740733f4b5",
+      "git_blob_oid_of_actual_bytes": "67a0b7291e1eb953849c70eefcaabcf937c70b19"
+    },
+    {
+      "path": "bound_normal_inputs/O046__046__EVENT__BLUE_ARCHIVE_EVENT_816_EPISODE_003_DEEP_READING.md",
+      "bytes": 4246,
+      "sha256": "765306a3dd5f936542a4fb931a8258348fe1d847068d7938e43786c078a80bfe",
+      "git_blob_oid_of_actual_bytes": "1533b15fa9a625e20cc80d22f9f2b8f077a340d6"
+    },
+    {
+      "path": "bound_normal_inputs/O047__047__EVENT__BLUE_ARCHIVE_EVENT_816_EPISODE_004_DEEP_READING.md",
+      "bytes": 4351,
+      "sha256": "dd744809d42a6c599218662f7dacfaffe799b42ad73fefdb1ed66ea89f4b357a",
+      "git_blob_oid_of_actual_bytes": "fe755415cc5b262b36dd5f11122c39cdfc22c75a"
+    },
+    {
+      "path": "bound_normal_inputs/O048__048__EVENT__BLUE_ARCHIVE_EVENT_816_EPISODE_005_DEEP_READING.md",
+      "bytes": 4382,
+      "sha256": "433331d3046048d74b0dc019e0b3685a339ba88648c53aa78585c89983052435",
+      "git_blob_oid_of_actual_bytes": "44f253d881ec58075289ecf79088f2e16b89a901"
+    },
+    {
+      "path": "bound_normal_inputs/O049__049__EVENT__BLUE_ARCHIVE_EVENT_816_EPISODE_006_DEEP_READING.md",
+      "bytes": 4292,
+      "sha256": "736266c393e304e2d6eebfb02d47db3e722795baa6e4ca2d737dacce071b5c0e",
+      "git_blob_oid_of_actual_bytes": "5985dbbc0bb9cbf80b21d5917dd962f8edce3845"
+    },
+    {
+      "path": "bound_normal_inputs/O050__050__EVENT__BLUE_ARCHIVE_EVENT_816_EPISODE_007_DEEP_READING.md",
+      "bytes": 4218,
+      "sha256": "b1dae12e7a8c6d27ba93d90ef52f2b60f04599b343ddbc39bc89ea7af3f3de2d",
+      "git_blob_oid_of_actual_bytes": "2935f6c1d0c815cb2aa9af43bea41deedb2f27c5"
+    },
+    {
+      "path": "bound_normal_inputs/O051__051__EVENT__BLUE_ARCHIVE_EVENT_816_EPISODE_008_DEEP_READING.md",
+      "bytes": 4541,
+      "sha256": "a364fb91c87176fe1a375c100c3bd9c889d9835ee987679672eafb9403cbd94a",
+      "git_blob_oid_of_actual_bytes": "43d5175de2f771f4a0d80ab625b67cfb6985978a"
+    },
+    {
+      "path": "bound_normal_inputs/O052__052__EVENT__BLUE_ARCHIVE_EVENT_816_EPISODE_009_DEEP_READING.md",
+      "bytes": 4004,
+      "sha256": "53399a894cc80068f6f87d002d16d2d6e86b77c42dfe3bf57c9f26ffa499271f",
+      "git_blob_oid_of_actual_bytes": "5cd8aab27e3659135c131568aca9d838bc6ab741"
+    },
+    {
+      "path": "bound_normal_inputs/O053__053__EVENT__BLUE_ARCHIVE_EVENT_816_EPISODE_010_DEEP_READING.md",
+      "bytes": 4348,
+      "sha256": "f37f504ccfc95d6f2ad3f66e6c871011914cae9b9bfcf44b735868fc6e0a25ef",
+      "git_blob_oid_of_actual_bytes": "6c8c12d75f58632b52f64c162768c2f767a9381c"
+    },
+    {
+      "path": "bound_normal_inputs/O054__054__EVENT__BLUE_ARCHIVE_EVENT_816_EPISODE_011_DEEP_READING.md",
+      "bytes": 4273,
+      "sha256": "5cbe238544970a52ab136bbf87bd133e1eb289455801af5fcaabce1c245c5ab6",
+      "git_blob_oid_of_actual_bytes": "b49552533ef9a8eb352767d23f15092f3f3f37a2"
+    },
+    {
+      "path": "bound_normal_inputs/O055__055__EVENT__BLUE_ARCHIVE_EVENT_816_EPISODE_012_DEEP_READING.md",
+      "bytes": 4277,
+      "sha256": "8918e31f421ec01b0d52fc57c510728c9bf68f4efa82a98edeab0bc413ad4645",
+      "git_blob_oid_of_actual_bytes": "3dd21537ef44a0af6c1d39e36d17765921fc17d0"
+    },
+    {
+      "path": "bound_normal_inputs/O056__056__EVENT__BLUE_ARCHIVE_EVENT_816_EPISODE_013_DEEP_READING.md",
+      "bytes": 4290,
+      "sha256": "c722111650cc2ab8087dd39b7897dffee51c3d9e83597fc44df84d211fa2c892",
+      "git_blob_oid_of_actual_bytes": "fe5dc06245fa0830326185854941ea2f504a7245"
+    },
+    {
+      "path": "bound_normal_inputs/O057__057__EVENT__BLUE_ARCHIVE_EVENT_816_EPISODE_014_DEEP_READING.md",
+      "bytes": 4384,
+      "sha256": "238670fd41da08eb3188bc89cb7aef584d17862ff546719700382bace670b5f5",
+      "git_blob_oid_of_actual_bytes": "2ac8a3f10b0831f7b310b4b5f0850f78e8fb4845"
+    },
+    {
+      "path": "bound_normal_inputs/O058__058__EVENT__BLUE_ARCHIVE_EVENT_816_EPISODE_015_DEEP_READING.md",
+      "bytes": 4365,
+      "sha256": "2baffc879b070b1da904b04917bc77b82588866c09362bc6d051129f84899844",
+      "git_blob_oid_of_actual_bytes": "90834a32998220fcc7d8a088b4dd5a5af4f9b76a"
+    },
+    {
+      "path": "bound_normal_inputs/O059__059__EVENT__BLUE_ARCHIVE_EVENT_816_EPISODE_016_DEEP_READING.md",
+      "bytes": 5535,
+      "sha256": "db30820983b6abcb0ed69d6b75d3ea57f5dd9c255ba8604e17c236622e1e3983",
+      "git_blob_oid_of_actual_bytes": "d3e7d5ca82039bc53fc89851e251f69938b2aa0f"
+    },
+    {
+      "path": "bound_normal_inputs/O060__060__EVENT__BLUE_ARCHIVE_EVENT_816_EPISODE_017_DEEP_READING.md",
+      "bytes": 4738,
+      "sha256": "ae4b6754b47dcb6d2ceec99533cd1328435b531e5b353b5810e7ffb5ec333a37",
+      "git_blob_oid_of_actual_bytes": "be3a69fcf881fafdb5fb3a6e9c1663654093c138"
+    },
+    {
+      "path": "bound_normal_inputs/O061__061__EVENT__BLUE_ARCHIVE_EVENT_817_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "bytes": 15844,
+      "sha256": "4bbb3e21eb2959d3a06f1f0fb4b66111017a6d7e113283d7b32f7dd66aee852e",
+      "git_blob_oid_of_actual_bytes": "779b22f9d700bbcfe2e8aa38e628217ed9891858"
+    },
+    {
+      "path": "bound_normal_inputs/O062__062__EVENT__BLUE_ARCHIVE_EVENT_818_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 109502,
+      "sha256": "e5a26dbbd5a61dbe4de68d76a10edfcc518c90e76c0e902e72a2f269138f1187",
+      "git_blob_oid_of_actual_bytes": "f359d3ab6367591050eb85c4dbbfe7abec940b66"
+    },
+    {
+      "path": "bound_normal_inputs/O063__063__EVENT__BLUE_ARCHIVE_EVENT_819_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 33363,
+      "sha256": "f985eff72b00b1532d668f6e60534a05351d4cb26dbfff17d187da3e501459e2",
+      "git_blob_oid_of_actual_bytes": "491b6cab49552fdf4039f496b05c17cc91180b17"
+    },
+    {
+      "path": "bound_normal_inputs/O064__064__EVENT__BLUE_ARCHIVE_EVENT_820_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "bytes": 37003,
+      "sha256": "2de7394f221810ae3f72ae29a3e4a4648e51b48920525c6c265c2ce99cd47824",
+      "git_blob_oid_of_actual_bytes": "06e1765b84c6c48cd65fba11611ce85212a7514a"
+    },
+    {
+      "path": "bound_normal_inputs/O065__065__EVENT__BLUE_ARCHIVE_EVENT_821_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 28870,
+      "sha256": "3db44147f6a64482a606bf53d6dac4d328d15bb39fd07db439a6c853463d2b38",
+      "git_blob_oid_of_actual_bytes": "59a74816f84bbcc362ffc3684016ad713b930372"
+    },
+    {
+      "path": "bound_normal_inputs/O066__066__EVENT__BLUE_ARCHIVE_EVENT_822_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "bytes": 30453,
+      "sha256": "3fc82b92fa4b34b74f0d418a9420b9e81e430bdb2c1bb84ea68e37f0fa1a135f",
+      "git_blob_oid_of_actual_bytes": "159620c1cd8d16dbd142b969062c19a8a2b34d2d"
+    },
+    {
+      "path": "bound_normal_inputs/O067__067__EVENT__BLUE_ARCHIVE_EVENT_823_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 26188,
+      "sha256": "636d9c6f2bf50b657d2ab4414b336435ea997dc664584a9869c4d46c3de86217",
+      "git_blob_oid_of_actual_bytes": "c96006a5c99cee07b16f6ce4dc3647de86ac8a66"
+    },
+    {
+      "path": "bound_normal_inputs/O068__068__EVENT__BLUE_ARCHIVE_EVENT_824_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 10407,
+      "sha256": "36bc50a92d91a8bb77762e481ad940d8f7f88eae279d01b1cf713a3c69cda2dd",
+      "git_blob_oid_of_actual_bytes": "a9e8e0a50cbb0c5cd3c221e1af386f57d602b01c"
+    },
+    {
+      "path": "bound_normal_inputs/O069__069__EVENT__BLUE_ARCHIVE_EVENT_825_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 37786,
+      "sha256": "0a04a3d7913d5ff800cf97c6d3581b38999b16f05f569978eecae8b391b1c9f9",
+      "git_blob_oid_of_actual_bytes": "d42104a33d911bddec431a94c5c030e2834f2e7d"
+    },
+    {
+      "path": "bound_normal_inputs/O070__070__EVENT__BLUE_ARCHIVE_EVENT_826_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 32334,
+      "sha256": "287c1549225c6c17cb398c686b87f23cc7c062a8e7dabfa4c0bcd67f9ff5361b",
+      "git_blob_oid_of_actual_bytes": "59694ca045d8c38d8772d95929e9ee55f2fb0f63"
+    },
+    {
+      "path": "bound_normal_inputs/O071__071__EVENT__BLUE_ARCHIVE_EVENT_827_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 36865,
+      "sha256": "9befa909be94b8b850aeda7a026f13232fe0459b2173c016fb10b8735ac1bdaa",
+      "git_blob_oid_of_actual_bytes": "adbbd39c91ea6439a374cda2b67e25238dd20449"
+    },
+    {
+      "path": "bound_normal_inputs/O072__072__EVENT__BLUE_ARCHIVE_EVENT_828_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 37570,
+      "sha256": "789b6a465f259ac2d427c9d9722102b449388c278943b04e51c3ab19f1a2997d",
+      "git_blob_oid_of_actual_bytes": "5dd3f44ddb19c316cf7b2f8d8e298ad867056d04"
+    },
+    {
+      "path": "bound_normal_inputs/O073__073__EVENT__BLUE_ARCHIVE_EVENT_829_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 28281,
+      "sha256": "57117923544c6b734273ae6cd25ce51f124274a706c2c962acaa6fac1ef36885",
+      "git_blob_oid_of_actual_bytes": "5e68e89102efd8fa610420d572538db07cf35113"
+    },
+    {
+      "path": "bound_normal_inputs/O074__074__EVENT__BLUE_ARCHIVE_EVENT_830_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 30498,
+      "sha256": "689e38a7fabbaf78f4e35046f41d2d6484d61f801df7bf92e7dc96b3ee2f167f",
+      "git_blob_oid_of_actual_bytes": "34d640881320521168fa76aba79a2d511318fc9b"
+    },
+    {
+      "path": "bound_normal_inputs/O075__075__EVENT__BLUE_ARCHIVE_EVENT_831_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 29214,
+      "sha256": "e63b8c490a3f80c8cc04f9079b927313b120cf91995e2cdc62a9b98a18eea24a",
+      "git_blob_oid_of_actual_bytes": "6e54e9131a3d70749584a49bed379fcacf926b63"
+    },
+    {
+      "path": "bound_normal_inputs/O076__076__EVENT__BLUE_ARCHIVE_EVENT_832_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 23709,
+      "sha256": "aa8ea335644d12f74f0a268aa3cb03e8dcd1b51838cafa4bec8f66714a451e20",
+      "git_blob_oid_of_actual_bytes": "c86f892caa1c88cfb9efacd14007408df834945b"
+    },
+    {
+      "path": "bound_normal_inputs/O077__077__EVENT__BLUE_ARCHIVE_EVENT_833_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 38643,
+      "sha256": "caddd6c0c1ec580c91a7115d65c1619ebfb8f5fae399222d999043be479ed349",
+      "git_blob_oid_of_actual_bytes": "1f22aa11f3d42f4e4c18cd2009781abe3e0e818b"
+    },
+    {
+      "path": "bound_normal_inputs/O078__078__EVENT__BLUE_ARCHIVE_EVENT_834_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 53866,
+      "sha256": "ab779ae688f8ced967127a810180613f39b5fc23fd15976bcd2ee3cd0b863ab0",
+      "git_blob_oid_of_actual_bytes": "44f05d6979aa11562bb7d548664ae24aefe53a8f"
+    },
+    {
+      "path": "bound_normal_inputs/O079__079__EVENT__BLUE_ARCHIVE_EVENT_835_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 28709,
+      "sha256": "23a5cb25f1b504b5e4dee8bf920f939e5e9faa8822f1c35d6d5932f6f720651b",
+      "git_blob_oid_of_actual_bytes": "68db40033aca83ee8ecfa3b1d7e60c329fb0b1a6"
+    },
+    {
+      "path": "bound_normal_inputs/O080__080__EVENT__BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 53227,
+      "sha256": "221e1398809a988693956548309259d18da8014cdbf69bcd8aac86b49cf30550",
+      "git_blob_oid_of_actual_bytes": "d751bb3102093e6afaff1c875126b0378b41a537"
+    },
+    {
+      "path": "bound_normal_inputs/O081__081__EVENT__BLUE_ARCHIVE_EVENT_837_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 33244,
+      "sha256": "fd5b39e92a8d9c890b4d59ecbacd6f9daf21676bbc4afe89a6c2069f208f32a1",
+      "git_blob_oid_of_actual_bytes": "233cf823ae17600049b6aa2732063eac67d5feff"
+    },
+    {
+      "path": "bound_normal_inputs/O082__082__EVENT__BLUE_ARCHIVE_EVENT_838_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 33697,
+      "sha256": "71f39a5f1f6cc233bae8102a209b9894c5ad7bf25e6863cd3db5c995bcc6c84c",
+      "git_blob_oid_of_actual_bytes": "2e9cb9114146e009680431976863dfd61ce111c5"
+    },
+    {
+      "path": "bound_normal_inputs/O083__083__EVENT__BLUE_ARCHIVE_EVENT_839_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 27920,
+      "sha256": "f4966f3e986af6f41f1690f9530f0c9940cb04ffc900915d21bdd0e18c6d8da0",
+      "git_blob_oid_of_actual_bytes": "743ae69336f3ef32aaa75871876dbefdc6f6ff98"
+    },
+    {
+      "path": "bound_normal_inputs/O084__084__EVENT__BLUE_ARCHIVE_EVENT_840_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 30602,
+      "sha256": "a1fb6c0af2aa8b2e293208bbe0ecdb7638aece543487fcf838f790ffbbd8dc97",
+      "git_blob_oid_of_actual_bytes": "54bbf27e8b011bba415d4bbfb0a61499bf2ada92"
+    },
+    {
+      "path": "bound_normal_inputs/O085__085__EVENT__BLUE_ARCHIVE_EVENT_841_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 49903,
+      "sha256": "1964ab85a295573b91336b3971fa833e63458b881e4391d29891cd0b2cb17b46",
+      "git_blob_oid_of_actual_bytes": "1e179781ef2b0f3e3418aa3c63453eaff3e03a30"
+    },
+    {
+      "path": "bound_normal_inputs/O086__086__EVENT__BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 31482,
+      "sha256": "1df4ea37a6733bd3fd4d5285f7d3aedda7c864a415968f9f537188b2bd7be6ed",
+      "git_blob_oid_of_actual_bytes": "f0f9557a65b075016a229b764d9385835cde666a"
+    },
+    {
+      "path": "bound_normal_inputs/O087__087__EVENT__BLUE_ARCHIVE_EVENT_843_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 26925,
+      "sha256": "0c66b3db028ac9330ceee3cfd730b3969f5879f19bb459dce6ce73cd9077ec6d",
+      "git_blob_oid_of_actual_bytes": "9f210324ba71ed86e21f112b0956f2c371c5f43a"
+    },
+    {
+      "path": "bound_normal_inputs/O088__088__EVENT__BLUE_ARCHIVE_EVENT_844_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 23127,
+      "sha256": "726724e475449815e8143b5e4ef5006d1b83a5740d8a58bc814df05b1319c1c7",
+      "git_blob_oid_of_actual_bytes": "7cdbef68c7c18446fbf40fdc6d14c3eea48372f8"
+    },
+    {
+      "path": "bound_normal_inputs/O089__089__EVENT__BLUE_ARCHIVE_EVENT_845_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 32500,
+      "sha256": "236dfb06f0ed33f65b5f478a04350d74b5ef8a36568b22ff7f95b1aa1caa9252",
+      "git_blob_oid_of_actual_bytes": "4daee761776362b12e6ee46b9632e9062c0c2d3c"
+    },
+    {
+      "path": "bound_normal_inputs/O090__090__EVENT__BLUE_ARCHIVE_EVENT_846_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 30830,
+      "sha256": "a07b22b4c67ea06b234544a3d37df611ac007764a290eda707a2350f0a773e67",
+      "git_blob_oid_of_actual_bytes": "1bf381fd4e2b70e0bd71836859a777610b6fb637"
+    },
+    {
+      "path": "bound_normal_inputs/O091__091__EVENT__BLUE_ARCHIVE_EVENT_847_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 30087,
+      "sha256": "57fb9edecebd1b212d0600976f3260dd11c33fdb68e37ab051591c947389d282",
+      "git_blob_oid_of_actual_bytes": "b4106522eb44e45c0d964a633fe10f783d17fe03"
+    },
+    {
+      "path": "bound_normal_inputs/O092__092__EVENT__BLUE_ARCHIVE_EVENT_848_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 64033,
+      "sha256": "ced089d38e56d2247c67d861caba5401954f42b551fbcb125823f2ca0f76b19f",
+      "git_blob_oid_of_actual_bytes": "d6bf83c53f0632b2fbeabfe72ac242cb596dc1b6"
+    },
+    {
+      "path": "bound_normal_inputs/O093__093__EVENT__BLUE_ARCHIVE_EVENT_849_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 35106,
+      "sha256": "ad78e22c8dc0e0ffd471e61c7afdfac235793b48d4e447e418c6d86f4405507f",
+      "git_blob_oid_of_actual_bytes": "2b693ccaeb424591554fb714a070a384de8b1802"
+    },
+    {
+      "path": "bound_normal_inputs/O094__094__EVENT__BLUE_ARCHIVE_EVENT_850_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 28418,
+      "sha256": "a5ea335dfd318422d128e6f5f8a6e0a5a041a88331bbf3839cb9c18a217edc9c",
+      "git_blob_oid_of_actual_bytes": "e213a371a863d781a16bb0fbcebcf888a83fff83"
+    },
+    {
+      "path": "bound_normal_inputs/O095__095__EVENT__BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 38628,
+      "sha256": "61e628dab0ac127c946e0101225a89d1d7808a27b0f540d5d7a03fc76c36072c",
+      "git_blob_oid_of_actual_bytes": "38ec4671a63ffd51f0f92b9cfd4dad0517a304e5"
+    },
+    {
+      "path": "bound_normal_inputs/O096__096__EVENT__BLUE_ARCHIVE_EVENT_852_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 38411,
+      "sha256": "14559582a911ee118c9663a60fadaf06193733082b980495f486ed7729098e4f",
+      "git_blob_oid_of_actual_bytes": "98586e8ee96bb670a38425a83a59bb41a61bbac3"
+    },
+    {
+      "path": "bound_normal_inputs/O097__097__EVENT__BLUE_ARCHIVE_EVENT_853_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 37968,
+      "sha256": "c3d12e358ff22edba45f5fd3e13b52d9c4422e1ce02872534f71c929163ef54c",
+      "git_blob_oid_of_actual_bytes": "c6eea232f44a2d89896f05045089c92fe844c50a"
+    },
+    {
+      "path": "bound_normal_inputs/O098__098__EVENT__BLUE_ARCHIVE_EVENT_854_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 47958,
+      "sha256": "f8ce4ffdedac78b6e92b296515c9ace92a4277e441dee72348d815785b5283f7",
+      "git_blob_oid_of_actual_bytes": "23b45869c2d1a6f08b988ec2e00c435d271ca327"
+    },
+    {
+      "path": "bound_normal_inputs/O099__099__EVENT__BLUE_ARCHIVE_EVENT_856_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 39030,
+      "sha256": "5b6357e6048dcccbea2b1de56d19ad34b461ead8581903b4f1f12e233c62c9bf",
+      "git_blob_oid_of_actual_bytes": "6f11eb7847ab307f2001f2ce783c52db9df3e968"
+    },
+    {
+      "path": "bound_normal_inputs/O100__100__EVENT__BLUE_ARCHIVE_EVENT_859_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 38768,
+      "sha256": "05ff9e56135ff5d1535d4bb2196a93f09fef0ca99fb7503f15f9ddd3fd54fa86",
+      "git_blob_oid_of_actual_bytes": "99b6b100bbe3f523338af7c70c22b6c59b11bfb9"
+    },
+    {
+      "path": "bound_normal_inputs/O101__101__EVENT__BLUE_ARCHIVE_EVENT_860_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 51286,
+      "sha256": "ab1737179cd375e8edcee8f372c92c155ca5b8f9bfb077d73af06f5ec4de6320",
+      "git_blob_oid_of_actual_bytes": "5e81647430fe2a3a99df3b94096b18421f903a33"
+    },
+    {
+      "path": "bound_normal_inputs/O102__102__EVENT__BLUE_ARCHIVE_EVENT_861_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 50993,
+      "sha256": "6f64262858301f3100f5edbf8b65c6463e117ad15ac607e6e537d1aa467bc553",
+      "git_blob_oid_of_actual_bytes": "cdd0f12e2ac27de5538ee7dc1293368df71878a4"
+    },
+    {
+      "path": "bound_normal_inputs/O103__103__EVENT__BLUE_ARCHIVE_EVENT_862_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 41110,
+      "sha256": "77ba72b65a0b43af2150ffbc19f30bd118dc75f3fa43bd0c8a1666deb33ded20",
+      "git_blob_oid_of_actual_bytes": "acefe4bccb5e2750419ad95f50c96de75594d1dc"
+    },
+    {
+      "path": "bound_normal_inputs/O104__104__MINI__BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 93829,
+      "sha256": "03fb501e4b41f19d7560fb01085f9c5498834e11a8ae1c2c79a64d27c731717f",
+      "git_blob_oid_of_actual_bytes": "512a08b30bfa91dee27087fd743809dc8aa30b98"
+    },
+    {
+      "path": "GSC_AUTHOR_COMPANION_BUILDER_COMPLETE_CODE_INVERSE_V2.json",
+      "bytes": 48210,
+      "sha256": "fe5fe5fbe45d84a0d65b4fd7bbf54b948a0b7cde80a8d53e1f492b5d813493d9",
+      "git_blob_oid_of_actual_bytes": "e1b349c7aa344785f6fa4babc8f6ba1f8a1dfed8"
+    },
+    {
+      "path": "GSC_CIVIC_OWNER68_FRESH_SCOPE_EXACT_PRESEAL_INVERSE_V2.json",
+      "bytes": 2323,
+      "sha256": "2140c70ffdcc33448e110be63694100fb8d432c66c48f49d296599cc00251465",
+      "git_blob_oid_of_actual_bytes": "16a98d89dd8a37b93a735312c16d183cc5f905fa"
+    },
+    {
+      "path": "GSC_READONLY_HELPER_EXACT_MATRIX_V3_CODE_INVERSE.json",
+      "bytes": 6867,
+      "sha256": "48eef4ae76cfd2b8c2ae1bd894f9acc95cae3d312be3180a5dc273e1017e59a5",
+      "git_blob_oid_of_actual_bytes": "7d84133bb4cfb551d2dd5fa20556f8c37b11b3b6"
+    },
+    {
+      "path": "GSC_READONLY_HELPER_EXACT_SOURCE_V2_CODE_INVERSE.json",
+      "bytes": 6797,
+      "sha256": "2fb391d17c5da41320b5a58a208ba1198676016ce6644c0c12590c89198fdb1c",
+      "git_blob_oid_of_actual_bytes": "9fc5a5284d607e7505ff72a3afb575f44479a59d"
+    },
+    {
+      "path": "GSC_REVIEW_GUIDE_COMPLETE_LITERAL_BEFOREIMAGE_INVERSE_V2.json",
+      "bytes": 4981,
+      "sha256": "b32df08ef1b10d91aa959d3d881a909372385e588890302981beb76a5232fc7f",
+      "git_blob_oid_of_actual_bytes": "0bcd0751aa836ddc5f2001f89c80e2faaf79a1aa"
+    },
+    {
+      "path": "GSC_SCHALE105_SOURCE_SPECIFIC_PURPOSE_AND_ACTUAL_SCOPE_V1.json",
+      "bytes": 374781,
+      "sha256": "1cff59d43343dc3a21263ef634e8bf05af393cdabb0584f094895f50f114254b",
+      "git_blob_oid_of_actual_bytes": "6c9088c6c9ec27669186843c1f51a034b42c00a0"
+    },
+    {
+      "path": "GSC_SCHALE105_SOURCE_SPECIFIC_PURPOSE_AND_ACTUAL_SCOPE_V2.json",
+      "bytes": 374780,
+      "sha256": "9a0fdb8001edf66c23a1a0109efedd586bbaf1c1e45440bec046ea9fd14839d2",
+      "git_blob_oid_of_actual_bytes": "7672e2e8f6b95af0a7007a9e8ce152ee2f624e7f"
+    },
+    {
+      "path": "GSC_SCHALE105_SOURCE_SPECIFIC_PURPOSE_AND_ACTUAL_SCOPE_V3.json",
+      "bytes": 374795,
+      "sha256": "fdb43736315d7ce3cb942e488c391dbe30e3088e06100ea823edf7d0b5231139",
+      "git_blob_oid_of_actual_bytes": "422c1b01646fcc2c80b3f4090e034cde67eac082"
+    },
+    {
+      "path": "GSC_SCHALE_ACTUAL_COMPLETE_AUTHOR_COMPANION_RECEIVING_V1.json",
+      "bytes": 4320,
+      "sha256": "f99dc4853940f910d536a65dec70d92640d2459db6bf59a9ffa1c27beebc0cce",
+      "git_blob_oid_of_actual_bytes": "a5aa30acbd9fc39931e719f133578028bf3c3c38"
+    },
+    {
+      "path": "GSC_SCHALE_AUTHOR_RECEIVING_PROGRESS_V1.json",
+      "bytes": 35242,
+      "sha256": "b9c8d2cc6f789d365aea6b55b0b01e7741c519f3cc02013291a33265a1af78f1",
+      "git_blob_oid_of_actual_bytes": "a2cdc03b9051fe6533ebeee4dec68872ca5d1e11"
+    },
+    {
+      "path": "GSC_SCHALE_AUTHOR_RECEIVING_PROGRESS_V2.json",
+      "bytes": 43237,
+      "sha256": "459048b252406a6c541cc98e16cc530303b959885f1ff905387ca37fdd81f472",
+      "git_blob_oid_of_actual_bytes": "0ad0accb7d3fc6589fcbd09a5af53d689412c306"
+    },
+    {
+      "path": "GSC_SCHALE_CLAIM_ROLE_RIVAL_END_GAP_AND_SAVED_PARAGRAPH_REGISTER_V1.json",
+      "bytes": 176688,
+      "sha256": "fc62c3736ebb77fdd0e93f357285f862471a1ae19770748cec95ef4dc08219dc",
+      "git_blob_oid_of_actual_bytes": "411b81adfd489cfda4b9f74de1ab8f308447e3f2"
+    },
+    {
+      "path": "GSC_SCHALE_COMPLETE_AUTHOR_RECEIVING_AND_ROOT_REVIEW_GUIDE_V1.md",
+      "bytes": 4311,
+      "sha256": "58756662089dd3ea6e71f369ed3fdf7cf2d4c5e9d75c26c49354235504c442d4",
+      "git_blob_oid_of_actual_bytes": "9af29bb7e73c499f01e561d4080439f3fdf0551d"
+    },
+    {
+      "path": "GSC_SCHALE_COMPLETE_AUTHOR_RECEIVING_AND_ROOT_REVIEW_GUIDE_V2.md",
+      "bytes": 4366,
+      "sha256": "340f7bd58eda38a83623b1e4c4424ffd74d0a3b55fbb42055f008a32c777002f",
+      "git_blob_oid_of_actual_bytes": "13dfe577d498964949c98478122d7b6876883159"
+    },
+    {
+      "path": "GSC_SCHALE_COMPLETE_SOURCE_AND_ACTUAL_RECEIVING_RECEIPT_V1.json",
+      "bytes": 352615,
+      "sha256": "38dea5e10866f1f0b406e8e8a1e484344f2b35d8325d868642f43560d05c781a",
+      "git_blob_oid_of_actual_bytes": "8c358a58ce6ccbed637b42906e1631765b18fb9d"
+    },
+    {
+      "path": "GSC_SCHALE_COMPLETE_SOURCE_AND_ACTUAL_RECEIVING_RECEIPT_V2.json",
+      "bytes": 352614,
+      "sha256": "35b382e4371783f92ce0001284a688e072a25c43826ac10194b28dc6f66d3e11",
+      "git_blob_oid_of_actual_bytes": "491d792d16ffdf75a1419dfcaaa1a62a82ad161f"
+    },
+    {
+      "path": "GSC_SCHALE_FINAL_AUTHOR_FINITE_C_ONLY_VERIFICATION_V1.json",
+      "bytes": 1390,
+      "sha256": "d89767874069efc41557d45bc77934ad27ac4ec563aa5478fdb81279f0d4684d",
+      "git_blob_oid_of_actual_bytes": "211f405b0d2a4fc399aac788eb8b47096a5b77d5"
+    },
+    {
+      "path": "GSC_SCHALE_PREFREEZE_FULL_BODY_LABEL_AND_GRAMMAR_INVERSE_V1.json",
+      "bytes": 60613,
+      "sha256": "7354128a47e2f974168f6dea14c21d9c60566ff4afa44ef23c3ac61c5583936e",
+      "git_blob_oid_of_actual_bytes": "3a26b3a5e466eac61faa91f28a2e0a7c9c608d5b"
+    },
+    {
+      "path": "GSC_SCHALE_SAVED_BODY_FULL_BYTE_AND_PARAGRAPH_RECEIVING_INVERSE_V1.json",
+      "bytes": 52431,
+      "sha256": "2ce0b16056e2831d3801f43931fd8352154032ce316b207ef55e001e65596574",
+      "git_blob_oid_of_actual_bytes": "b8913cf045621ea40f5c92b979400d38c1f1a399"
+    },
+    {
+      "path": "GSC_SOURCE005_KNOWLEDGE_BOUNDARY_EXACT_PRESEAL_INVERSE_V3.json",
+      "bytes": 1787,
+      "sha256": "267f1a6322dbb632adf596567c37b6d152490399fed3c5b3f2b255bf9929d113",
+      "git_blob_oid_of_actual_bytes": "e51729c47949b55e1eae0380b08cf9bc53694886"
+    },
+    {
+      "path": "prepare_gsc_complete_author_receipts_v1.py",
+      "bytes": 42332,
+      "sha256": "315f6f9221ad2a6be96f0072375dd5edb99ca9351e7566c1ca4aadb51e9acde9",
+      "git_blob_oid_of_actual_bytes": "5a311792063b3e514f8a6fb5d6ca8f957a9dc95d"
+    },
+    {
+      "path": "prepare_gsc_complete_author_receipts_v2.py",
+      "bytes": 42485,
+      "sha256": "7cd02d000e41833e15e69f18552da2fcb177f8c4c29de1ca9b2ca8c9df024e40",
+      "git_blob_oid_of_actual_bytes": "e0bed4e6fb054bc1e9cdf994ab02fcf77f40216c"
+    },
+    {
+      "path": "read_gsc_complete_delivery_readonly_v1.py",
+      "bytes": 6113,
+      "sha256": "fa7b64d257352f1f77343dc454fb9bb4833cf0943dc604758b9360d0544ab451",
+      "git_blob_oid_of_actual_bytes": "b4beb528784795bc6f089f73a1da9918b77c9eae"
+    },
+    {
+      "path": "read_gsc_complete_delivery_readonly_v2.py",
+      "bytes": 6166,
+      "sha256": "5fabdf6bbe1161cdeba94883dbece7edde27b8f1b088c8843926398a06a0454b",
+      "git_blob_oid_of_actual_bytes": "f92999466663edac0ec877fd6dd4addfad541d98"
+    },
+    {
+      "path": "read_gsc_complete_delivery_readonly_v3.py",
+      "bytes": 6166,
+      "sha256": "ebe4350b25dece0d5e2bd109d8165031dd5e683e8670b5614d46f264940fc0e9",
+      "git_blob_oid_of_actual_bytes": "10063e48140cc57106e84be2287e88343323093e"
+    }
+  ],
+  "exact_ROOT_qualified_purposeV4": {
+    "bytes": 375156,
+    "sha256": "c8ed12e6e35cae20a0f07f1ef2355308bba88a12be03f014e5f1f018459b82a1",
+    "git_blob_oid_of_actual_bytes": "2a31e31e67099c2795d5b7a5eaa6dd60fb65fb3f"
+  },
+  "exact_ROOT_acceptance": {
+    "bytes": 58092,
+    "sha256": "1233720374c3fe67efbef6aef5e54e797c305f28e29f6892d856a49cec85520e",
+    "git_blob_oid_of_actual_bytes": "d4ef9df57a823e0a839f00d99e3586b31aa53550"
+  },
+  "all_original_literary_paragraphs_byte_identical": false,
+  "historical_held_mutable_outer_fields_before_20261013": {
+    "current134_boundary": {
+      "root_accepted_packages": 134,
+      "after_complete_ROOT_install": 134,
+      "kind_counts": {
+        "CHAR": 100,
+        "REL": 16,
+        "ENS": 5,
+        "INST": 13
+      },
+      "accepted_named_full_duties": 14,
+      "canonical_persisted_before_this_proposal": 133,
+      "remote_published_before_this_proposal": 133,
+      "main_integrated_before_this_proposal": 128,
+      "local_current_head": "ce718531f0f06505e97bd72ecdebd21974533649",
+      "local_tree": "2411de7d0b20d019fcad96683eabb3929e49958d",
+      "current_main": "238fed779661f6a5a49d6a70034a6183d17ca175",
+      "remote_analytical_source": "629d39d2e3873e8e07a4d54db0c26dff06ed0775",
+      "required_packages": 355,
+      "required_named": 29,
+      "named_parents": 25,
+      "required_homes": 384,
+      "navigation_rows": 788,
+      "next_milestone": 178,
+      "all14_original_gaps": "OPEN",
+      "models": 0,
+      "source_and_main_status_promotion_from_proposal": false,
+      "proposal_installs_or_publishes_nothing": true
+    },
+    "historical_payload_qualification": "Original creation-time pending/source/count and custody fields remain dated history. Exact sourceV2 and ROOT-qualified purposeV4 with full original inverses govern. Copying and public reference normalization add no personal reading, primary/raw/native/AV, admission, identity, model or count credit.",
+    "complete_author_attachment_parts": [
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+        "bytes": 700477,
+        "sha256": "b4e40243f5564ec705abf30cee7f67d0988502a94652141c52bcd4f7778c5241",
+        "git_blob_oid_of_actual_bytes": "dad5565b0b3a7acec31ac2e5a78974e7174f98c6",
+        "complete_item_names": [
+          "GSC_SCHALE_COMPLETE_SOURCE_AND_ACTUAL_RECEIVING_RECEIPT_V1.json",
+          "GSC_SCHALE_CLAIM_ROLE_RIVAL_END_GAP_AND_SAVED_PARAGRAPH_REGISTER_V1.json",
+          "GSC_SCHALE_SAVED_BODY_FULL_BYTE_AND_PARAGRAPH_RECEIVING_INVERSE_V1.json",
+          "GSC_SCHALE_PREFREEZE_FULL_BODY_LABEL_AND_GRAMMAR_INVERSE_V1.json",
+          "GSC_SCHALE_ACTUAL_COMPLETE_AUTHOR_COMPANION_RECEIVING_V1.json",
+          "GSC_SCHALE_FINAL_AUTHOR_FINITE_C_ONLY_VERIFICATION_V1.json",
+          "GSC_SCHALE_COMPLETE_AUTHOR_RECEIVING_AND_ROOT_REVIEW_GUIDE_V2.md"
+        ]
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_AUTHOR_ATTACHMENTS_PART_02_V1.json",
+        "bytes": 469257,
+        "sha256": "f1b5099fec4dc0480b41d6d9c993f853f37fa5b244057e708b5d43635ecdde10",
+        "git_blob_oid_of_actual_bytes": "b74ad3440d8994f6d1ffe96c08c009294734a759",
+        "complete_item_names": [
+          "GSC_SCHALE_COMPLETE_IMMUTABLE_AUTHOR_DELIVERY_MANIFEST_V1.json",
+          "GSC_SCHALE_IMMUTABLE_AUTHOR_DELIVERY_FREEZE_V1.json",
+          "GSC_SCHALE105_SOURCE_SPECIFIC_PURPOSE_AND_ACTUAL_SCOPE_V3.json",
+          "GSC_CIVIC_OWNER68_FRESH_SCOPE_EXACT_PRESEAL_INVERSE_V2.json",
+          "GSC_SOURCE005_KNOWLEDGE_BOUNDARY_EXACT_PRESEAL_INVERSE_V3.json"
+        ]
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_AUTHOR_ATTACHMENTS_PART_03_V1.json",
+        "bytes": 409005,
+        "sha256": "1e575f199391606a8d5d2f97934474e9ac624042bb6bc70aadb212b1662c399c",
+        "git_blob_oid_of_actual_bytes": "c25d5642cfa2d8788972f79bce6fb5b9b081bdb0",
+        "complete_item_names": [
+          "GSC_COMPLETE_PURPOSE105_ROOT_O102_ATTRIBUTION_QUALIFIED_V4.json",
+          "ROOT_O102_COMPLETE_LITERAL_ONE_FIELD_AND_BYTE_INVERSE_V1.json",
+          "ROOT_GSC134_EXISTING_SPECIALIST_ROUTE_FULL_LITERAL_INVERSE_V2.json"
+        ]
+      }
+    ],
+    "all_original_literary_paragraphs_byte_identical": true
+  },
+  "current_gsc_purpose_qualification_20261013_v1": {
+    "layer_id": "GSC134_CURRENT_PURPOSE_SUCCESSORS_20261013_V1",
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_CURRENT_PURPOSE_QUALIFICATIONS_20261013_V1.json",
+    "bytes": 61767,
+    "sha256": "390e8d78e69ffdf176b2e30db6d73916e8a18dd7e7a64606d7f8d3b67c4532d1",
+    "git_blob_oid_of_actual_bytes": "47011bbdab4c4439de1be7f3bca4b2dde6856f2f",
+    "decision": "ROOT_ADOPTED_WITH_LIMITS",
+    "ROOT_receiving_disposition": "ROOT_ADOPTED_WITH_LIMITS",
+    "effective_owners": [
+      25,
+      71,
+      73,
+      75,
+      79,
+      87
+    ],
+    "original_payloads_and_receipt_decisions": "UNCHANGED; current precise successor applies only to the12 recorded purpose pointers",
+    "new_source_or_package_credit": 0
+  },
+  "current_body_and_recovery_20261013": {
+    "canonical_body_exact_tuple": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_GSC_SCHALE_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 52929,
+      "sha256": "df5fef4e2f40b752dcd665be404baf095f84afea35f22140a3cb525c22325ebd",
+      "git_blob_oid_of_actual_bytes": "91365f2536d57a2477ad388da0b905319114c12d"
+    },
+    "recovery_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_CURRENT_BODY_BINDINGS_AND_RECOVERY_20261013_V1.json",
+    "chain": "Current canonical body -> exact held227-line body -> original215-line author body, retaining the original complete inverse and every frozen source/claim/role/rival/end record.",
+    "original69_frozen_records_unchanged": true,
+    "current_canonical_paragraphs_unchanged": 67,
+    "current_precise_paragraph_successors": 2,
+    "literal_true_original_preservation_flag_role": "Historical held-stage truth retained in the outer-field backup; the current two paragraph precisions have complete inverses.",
+    "ROOT_manual_adoption_evidence_id": "ROOT_GSC134_MANUAL_CURRENT_ARGUMENT_AND_SIX_PURPOSE_ADOPTION_V1.json",
+    "ROOT_manual_adoption_binding": {
+      "bytes": 7021,
+      "sha256": "e3623af7645a01623c2ae1a6fe803695c690324f6a30afe65a0e3a4b8d8a7328",
+      "git_blob_oid_of_actual_bytes": "199d67b3482fe222b7b9a6a65321c4601db7034b"
+    },
+    "original_owner68_and_O102_current_qualifications": "PRESERVED; original prior-grade/false scalars retain their historical role."
+  }
+}
