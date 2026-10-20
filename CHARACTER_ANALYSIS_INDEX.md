@@ -448,6 +448,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`reviewed-dedicated-analysis` — Aoyama Yuga dedicated analysis](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_AOYAMA_YUGA_CHARACTER_RECONSTRUCTION_MODEL.md)
 
+### Aqua
+
+- Entity ID: `konosuba:aqua`
+- Entity aliases:
+  - _None._
+
+#### Subject: Original light-novel continuity, main-principal analysis
+
+- Analysis subject ID: `konosuba:aqua@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `main-principal-synthesis`: LIGHT_NOVEL VOLUME: Longitudinal specialist synthesis scoped to the admitted main-novel 01–17 principal narratives: ordinary work and art, sacred intervention and practical consequences, recognition, particular care and harm, written voice, belonging and the return-home conflict. The review concerns this synthesis, not a new full source reading. Holdouts, excluded edition components, supplemental narratives and adaptations are outside this evidence item’s analytical coverage.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`main-principal-monograph` — Aqua: main-principal character monograph](series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_AQUA_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
 ### Aragaki Ayase
 
 - Entity ID: `oreimo:aragaki-ayase`
