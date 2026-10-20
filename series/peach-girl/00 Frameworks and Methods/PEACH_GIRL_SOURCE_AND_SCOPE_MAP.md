@@ -5,7 +5,7 @@ artifact_type: source_scope_map
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.2"
+version: "0.3"
 status: active_provisional
 scope: "Sanitized witness identities, preliminary provenance, structural reconnaissance and admission gaps"
 source_boundary: "Original Japanese 新装版 V01–V18; all 18 witnesses byte- and package-verified 2026-10-16; admission proceeds volume by volume under the authorized run"
@@ -110,3 +110,7 @@ Every package's navigation holds only 表紙 (twice, → `p-cover`) and 本編 (
 Deterministic locator maps (`PG-JP-NE-VNN-W01.locmap.json`, generator `locmap.py` v1) record occurrence, wrapper, `idref`, viewBox and image member with byte length and SHA-256 for every occurrence. They are **locally staged, pending authorized promotion to the Drive evidence plane**; this run is prohibited from Drive writes and does not claim publication. Map checksums are recorded in the run's source manifest. Admission states per witness advance only through each volume's sequential transaction: `BYTES_VERIFIED → PACKAGE_VERIFIED` is now true for all 18. `ADMITTED → INSPECTED → CLOSED` is recorded in each reading and in the entrypoint's high-water mark, not by editing this table at each unit.
 
 Revision history: 0.1 — metadata/provenance reconciliation plus V01 byte/container probe; zero narrative inspection, 2026-10-16 UTC. 0.2 — all 18 witnesses byte/package-verified; locator maps staged locally; zero narrative inspection, 2026-10-16 UTC.
+
+## Recipient clarification (2026-10-19; no historical receipt rewritten)
+
+Earlier bootstrap paragraphs describing all witnesses as unadmitted/uninspected are historical stage statements. Current admission/closure belongs to the entrypoint and per-volume readings, as the execution appendix above provides: recovered Claude V01–V04 have historical closed transactions; the recipient source audit directly sampled 177 images, not four whole volumes. V05–V18 narrative inspection remains unstarted in this recovery. All 18 owner-local witnesses independently reverified against exact bytes, ZIP/OPF/spine and every image checksum; see the [recovery source verification](../07%20Audits%20and%20Handoffs/PEACH_GIRL_CODEX_SOURCE_VERIFICATION_20261019.json) and [bounded source audit](../07%20Audits%20and%20Handoffs/PEACH_GIRL_CODEX_V01_V04_SOURCE_AUDIT_20261019.md). Local acquisition was read-only; no fresh Drive metadata or remote checksums are claimed. Complete maps remain local, pending separately authorized evidence-plane promotion. Structural checks do not confer narrative coverage.

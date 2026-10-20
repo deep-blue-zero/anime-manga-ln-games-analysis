@@ -5,7 +5,7 @@ artifact_type: corpus_map
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.2"
+version: "0.3"
 status: active_provisional
 scope: "Single current entrypoint, source/readiness boundaries and next permitted operation"
 source_boundary: "Original Japanese manga; 新装版 V01–V18 byte- and package-verified; owner-authorized continuous run V01–V18 active"
@@ -52,7 +52,7 @@ analytical_execution:
   sequential_units_admitted: 4
   sequential_units_completed: 4
   committed_narrative_high_water_mark: V04
-  character_reconstruction_readiness: UNASSESSED_NO_NARRATIVE_EVIDENCE
+  character_reconstruction_readiness: UNASSESSED_MODELS_NOT_PROPOSED_NARRATIVE_EVIDENCE_PRESENT
   publication: PROHIBITED_FOR_THIS_RUN_LOCAL_COMMITS_ONLY
 repository_state:
   stable_branch: series/peach-girl
@@ -70,7 +70,7 @@ This is the single current first-read surface for Miwa Ueda's ピーチガール
 
 `NEXT_PERMITTED_OPERATION = V05`
 
-**Run stopped after V04 — no operation is currently authorized.** On 2026-10-19 the executor declined to continue past V04, and the owner elected a clean close. V01–V04 are closed transactions with freezes PG-FR-V01…V04; V05–V18, G2 reconciliation and all post-sequential stages were not performed. No reading exists for V05. The structured run-state fields above still read `active` with next operation V05 because initiation policy Section 3.9.4 lets completion be recorded only after these readings are integrated into `main`; until then the repository validator rejects any other state. Under that same section a next-operation label is not permission. The owner's stop instruction controls: V05 may be admitted only under a new owner authorization, starting from PG-FR-V04. The stop and the open obligations are recorded in Section 8 of the [execution authorization and initiation record](07%20Audits%20and%20Handoffs/PEACH_GIRL_EXECUTION_AUTHORIZATION_AND_INITIATION_RECORD.md).
+**New owner-authorized Route B continuation; pre-V05 source audit closed with corrections.** Work's substantive analytical corpus was not recovered. The [recovery receipt](07%20Audits%20and%20Handoffs/PEACH_GIRL_CODEX_RECOVERY_RECEIPT_20261019.md) preserves the earlier stop and input provenance; the [Codex source audit](07%20Audits%20and%20Handoffs/PEACH_GIRL_CODEX_V01_V04_SOURCE_AUDIT_20261019.md) records 177 directly checked V01–V04 images, findings, alternatives and successor ledger versions at PG-AUDIT-20261019. Historical PG-FR-V01…V04 remain unchanged. V05 is the next narrative unit after this audit's local commit and verified backup; its entering state is historical PG-FR-V04 plus the explicitly later audit corrections, never a rewritten freeze. Source samples do not certify an independent full four-volume re-read.
 
 The owner's 2026-10-16 instruction authorizes a `continuous_sequential` run over V01–V18 (one complete volume per unit, no confirmation between units) and the post-sequential program the architecture defines, as a local-only execution: no push, remote ref, pull request or Drive write. The [execution authorization and initiation record](07%20Audits%20and%20Handoffs/PEACH_GIRL_EXECUTION_AUTHORIZATION_AND_INITIATION_RECORD.md) holds the exact scope, the gate verification and the capability profile. Each volume closes as one atomic transaction before the next is opened. The high-water mark above advances only when that transaction's reading, ledgers, freeze and this entrypoint are committed together.
 
@@ -100,7 +100,7 @@ Each row is a closed atomic transaction. Its freeze is recorded in the reading i
 | [V01](02%20Sequential%20Readings/PEACH_GIRL_V01_DEEP_READING.md) | PG-FR-V01 | Momo and Tōji dating for three days but split by Sae's engineered misinformation; Momo refuses Tōji's kiss at the pergola; Kairi pursuing |
 | [V02](02%20Sequential%20Readings/PEACH_GIRL_V02_DEEP_READING.md) | PG-FR-V02 | Sae's deceptions confirmed to the reader; Momo disbelieved by Tōji until a coerced hearing; Sae exposes the Kairi kiss and the 'practice' framing; Tōji proposes breaking up |
 | [V03](02%20Sequential%20Readings/PEACH_GIRL_V03_DEEP_READING.md) | PG-FR-V03 | Tan report exposed as a friend's lie; Sae's method overheard by Tōji and exposed by class testimony; Momo publicly vindicated but refuses Tōji's request to restart; disavowed feelings for Kairi |
-| [V04](02%20Sequential%20Readings/PEACH_GIRL_V04_DEEP_READING.md) | PG-FR-V04 | Momo names her victim complex and asks Tōji back; Kairi's hidden work revealed; the private sign; Sae servile in public, hostile in private; Jigoro misinformed about Momo and asks Sae out |
+| [V04](02%20Sequential%20Readings/PEACH_GIRL_V04_DEEP_READING.md) | PG-FR-V04 | Momo chooses reunion after self-criticism and Tōji’s acknowledgment of fault; Kairi's hidden work revealed; the private sign; Sae servile in public, hostile in private; Jigoro misinformed about Momo and asks Sae out |
 <!-- sequential-readings-end -->
 
 ## Read order and canonical responsibilities
@@ -118,10 +118,12 @@ No separate character reconstruction specification is needed at this scale: its 
 
 The governing dependencies are [AGENTS](../../AGENTS.md), [authority state](../../governance/AUTHORITY_STATE.yaml), [scope](../../governance/AUTHORITY_SCOPE.json), [initiation/architecture policy](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md), [machine initiation control](../../governance/repository-controls/project-initiation-gate.json), [continuation policy](../../governance/source-policies/MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY.md), [authority/supersession policy](../../governance/source-policies/ARCHIVE_AUTHORITY_AND_SUPERSESSION_POLICY.md), [reasoning classes](../../governance/source-policies/MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md), [capability routing](../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md), [long-series protocol](../../governance/source-policies/MANGA_ANIME_LONG_SERIES_HYBRID_EXECUTION_PROTOCOL.md), [handoff contract](../../governance/source-policies/MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md), [branch lifecycle](../../governance/policies/BRANCH_LIFECYCLE.md), [publication policy](../../governance/policies/PUBLICATION_AND_CONTRIBUTION_POLICY.md), [integration checklist](../../governance/policies/CHANGE_INTEGRATION_CHECKLIST.md), [housekeeping policy](../../governance/policies/AUTOMATED_GLOBAL_INDEX_MAINTENANCE.md) and [character curation policy](../../governance/policies/CHARACTER_DISCOVERY_MAINTENANCE.md). The live versions govern.
 
-This bootstrap used a hosted Work execution environment for Git/text authoring, metadata/provenance inspection and a V01 package probe. Image narrative inspection was not performed. Future source and synthesis stages must verify their own capabilities, record actual observed execution configuration and preserve exact source/method/freeze lineage. No model-specific analytical rule or anticipated comparison outcome is included. The current run's verified profile (hosted container, direct visual page inspection, local-only Git) is in the initiation record. One operator owns readings, ledgers and later synthesis, without a cross-session synthesis handoff.
+This bootstrap used a hosted Work execution environment for Git/text authoring, metadata/provenance inspection and a V01 package probe. Image narrative inspection was not performed. Future source and synthesis stages must verify their own capabilities, record actual observed execution configuration and preserve exact source/method/freeze lineage. No model-specific analytical rule or anticipated comparison outcome is included. The inherited run's hosted-container profile is historical in the initiation record. The current Codex receiver uses the owner's Windows desktop, directly inspected local EPUB images, a verified complete local checkout and the unchanged pinned governance; its profile and exposure are in the recovery receipt and source audit. One operator owns readings, ledgers and later synthesis, without a cross-session synthesis handoff.
 
 All authored changes stay under this series root on continuing branch `series/peach-girl`. The local routing descriptor declares `project_initiation_gate: REQUIRED`, `PRESENT_UNREVIEWED` materialization and a verified present provisional entrypoint. Housekeeping alone synchronizes global routing outputs; character curation files are untouched. Exact starting and reconciled bases are historical receipt facts; Git history and audit statuses own publication verification.
 
 Publication and exact-head CI facts are recorded in the bootstrap receipt and external immutable commit/status history; this file cannot predeclare its own eventual commit SHA. Main integration is withheld pending owner review. Under the [nightly integration policy](../../governance/policies/NIGHTLY_ANALYTICAL_INTEGRATION.md), a published bootstrap must have a draft PR or `nightly-hold` label so scheduled structural integration does not bypass that review. A green author preflight is not a final integration audit or semantic approval.
 
 Revision history: 0.1 — bootstrap foundation for owner examination, 2026-10-16 UTC; lock CLOSED, no narrative findings. 0.2 — owner execution authorization recorded; all 18 witnesses verified; lock OPEN; continuous run V01–V18 active, 2026-10-16 UTC. 0.3 — run stopped after V04 by owner election (prose stop notice; structured fields unchanged pending integration); high-water mark V04, 2026-10-19 UTC.
+
+Revision history addendum: 0.3 — newly authorized local Route B recovery and bounded source audit closed with corrective ledger versions, 2026-10-19 owner date; historical freezes preserved.

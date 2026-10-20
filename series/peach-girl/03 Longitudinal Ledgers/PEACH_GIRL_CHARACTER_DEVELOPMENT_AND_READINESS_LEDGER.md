@@ -5,7 +5,7 @@ artifact_type: character_development_readiness_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.2"
+version: "0.3"
 status: active_provisional
 scope: "Character Development and Readiness; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -142,3 +142,26 @@ The sequential closeout certifies this instrument updated or records no material
 | --- | --- | --- | --- | --- |
 
 Revision history: 0.1 — bootstrap schema, zero rows, 2026-10-16 UTC. 0.2 — V01 transaction rows appended (frontier PG-FR-V01), 2026-10-16 UTC. V02 transaction rows appended (frontier PG-FR-V02), 2026-10-16 UTC. V03 transaction rows appended (frontier PG-FR-V03), 2026-10-17 UTC. V04 transaction rows appended (frontier PG-FR-V04), 2026-10-17 UTC.
+
+## Recipient audit boundary PG-AUDIT-20261019
+
+New owner-authorized, non-blind V01–V04 correction pass; see the [source audit](../07%20Audits%20and%20Handoffs/PEACH_GIRL_CODEX_V01_V04_SOURCE_AUDIT_20261019.md). Learned after PG-FR-V04, before opening V05; narrative cutoff V04. Earlier frozen-boundary projections above are historical, not competing current authority. Submitted historical rows remain unchanged; original unsuffixed event rows have implicit version 1. The following successor versions and audit projections govern current retrieval until the next transaction. Corrections change the analyst's account, not characters' historical knowledge.
+
+| Corrective version / original | Subject / represented source time | Corrected state and limits | Evidence / claim / issue |
+| --- | --- | --- | --- |
+| PG-CS-0024@2 / CS-0024@1 | PG-CHAR-0001 / swim meet, V03 | Self-reported fluttering, reliance and desire for Kairi's attention, with self-disavowal. Romantic pull is supported; chosen love/relationship not established | PG-EV-V03-0017, -0022; i0100, i0104–0106; PG-CL-0013@3; A03 |
+| PG-CS-0029@2 / CS-0029@1 | PG-CHAR-0001 / end of first term, V04 | Names fear of renewed disbelief and adopts Kairi-prompted self-criticism; then hears Tōji's independent accountability; still names his faults while choosing to restart with the remorseful present person. Earlier injury remains real | PG-EV-V04-0003, -0006…0009; i0029–0048; PG-CL-0015@2; A05 |
+| PG-CS-0030@2 / CS-0030@1 | PG-CHAR-0001 / second term, V04 | Learns Kairi's orchestration; gratitude and grief coexist with an unfinished romantic counterfactual and wish for continuing closeness. No friendship-only category or love declaration established | PG-EV-V04-0014…0018; i0074–0085; PG-CL-0013@3; A03 |
+| PG-CS-0032@2 / CS-0032@1 | PG-CHAR-0001 / second term, V04 | Refuses approach despite desire; seeks expression/initiative. V01 i0177 is a known earlier refusal candidate, but swim-club girls' exact referent remains UNKNOWN | PG-EV-V01-0053; PG-EV-V04-0019…0021, -0024; A08 |
+| PG-CS-0035@2 / CS-0035@1 | PG-CHAR-0002 / second term, V04 | Publicly makes private sign; affectionate interrupted staging/contact at i0128. Exact contact anatomy uncertain; inherited 'forehead' over-specific. Disclosed V05 warning not yet directly inspected | PG-EV-V04-0028, -0029; i0125–0128; PG-CL-0017@1; A09 |
+| PG-CS-0038@2 / CS-0038@1 | PG-CHAR-0004 / end of first term to second term, V04 | Supports reunion, withdraws/deflects gratitude and retains desire in a sexualized joking standing offer. Care and opportunism may coexist; motive weighting UNKNOWN | PG-EV-V04-0002, -0005, -0006, -0008, -0013, -0016, -0017; PG-CL-0006@5; A04 |
+
+| Current subject / boundary | Active corrective versions | Scoped current retrieval | Unresolved |
+| --- | --- | --- | --- |
+| PG-CHAR-0001 @ PG-AUDIT-20261019 | CS0024@2, CS0029@2, CS0030@2, CS0032@2; unchanged CS0031@1/0033@1 | Chooses Tōji after real injury and new repair; romantic pull/gratitude/grief toward Kairi remain; refuses particular approaches despite desire; rejects peer retaliation against Sae | Kairi feeling's extent/category; motive/knowledge limits in audit |
+| PG-CHAR-0002 @ PG-AUDIT-20261019 | CS0034@1, CS0035@2 | Credulity has caused harm; independently acknowledges it; reticent but responsive in current relationship | Exact i0128 contact pending sequential V05 |
+| PG-CHAR-0004 @ PG-AUDIT-20261019 | CS0038@2 | Helpful ally and continuing suitor; restraint, deflection, humor and desire coexist with earlier boundary-crossing conduct | Mixed motives; deeper contexts unavailable |
+
+Readiness remains UNASSESSED: narrative evidence exists, but no operational reconstruction proposal/testing has been completed. Next new IDs remain CS0040 and RD0001; these corrections consumed versions, not new event numbers.
+
+Revision history addendum: recipient source-audit successor corrections, 2026-10-19; original frozen states preserved.

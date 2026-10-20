@@ -5,7 +5,7 @@ artifact_type: information_reputation_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.2"
+version: "0.3"
 status: active_provisional
 scope: "Information Circulation and Reputation; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -241,3 +241,27 @@ Bootstrap source-derived propositions, belief events, transmissions, reputation 
 | Information / Sae's private hostility / Momo and Tōji / PG-FR-V04 | KN-0043 | Unknown to them | — |
 
 Revision history: 0.1 — bootstrap schema, zero rows, 2026-10-16 UTC. 0.2 — V01 transaction rows appended (frontier PG-FR-V01), 2026-10-16 UTC. V02 transaction rows appended (frontier PG-FR-V02), 2026-10-16 UTC. V03 transaction rows appended (frontier PG-FR-V03), 2026-10-17 UTC. V04 transaction rows appended (frontier PG-FR-V04), 2026-10-17 UTC.
+
+## Recipient audit boundary PG-AUDIT-20261019
+
+New owner-authorized, non-blind V01–V04 correction pass; see the [source audit](../07%20Audits%20and%20Handoffs/PEACH_GIRL_CODEX_V01_V04_SOURCE_AUDIT_20261019.md). Learned after PG-FR-V04, before opening V05; narrative cutoff V04. Earlier frozen-boundary projections above are historical, not competing current authority. Submitted historical rows remain unchanged; original unsuffixed event rows have implicit version 1. The following successor versions and audit projections govern current retrieval until the next transaction. Corrections change the analyst's account, not characters' historical knowledge.
+
+| Corrective version / original | Bounded proposition / source time | Current source-truth account | Evidence / issue |
+| --- | --- | --- | --- |
+| PG-IP-0018@2 / IP0018@1 | Broad sexualized promiscuity slur / V02 | UNRESOLVED as exhaustive biographical proposition; no source basis for slur, and depicted conduct/motives contradict its framing. Specific fabrications remain refuted. First kiss does not logically certify an entire sexual history | PG-EV-V02-0014; i0058–0067; A12 |
+| PG-IP-0025@2 / IP0025@1 | Changing-room embrace / V03 | ESTABLISHED_AT_BOUNDARY: Kairi initiates after Momo's refusal; her response later softens. Rumor's 'Momo embraced him' is distorted agency, not an established initiation by her | PG-EV-V03-0021, -0022, -0028; i0086–0100; A13 |
+| PG-IP-0029@2 / IP0029@1 | Sae's compound claim that Tōji kissed/loved/led her on / V03 | DISPUTED compound: depicted refusals contradict willing initiation; claimed declaration is unsupported, not exhaustively disproved solely by nondepiction. Her romantic/blame account is strongly discredited by source context | PG-EV-V01-0043, -0044; PG-EV-V03-0034; i0160–0167; A14 |
+
+| Transmission correction / original | Sender / recipient / formulation | Corrected knowledge/truth distinction | Evidence / issue |
+| --- | --- | --- | --- |
+| PG-TX-0031@2 / TX0031 implicit @1 | Sae → class / IP0029@2 | Accusation and audience rejection established. Initiation distortion directly contradicted; exact alleged prior declaration UNKNOWN. No fabricated fact of universal refutation or new character knowledge | PG-EV-V03-0034; i0160–0167; A14 |
+
+| Current projection / boundary | Active versions | Source versus audience state | Limits |
+| --- | --- | --- | --- |
+| Information / V02 slur @ PG-AUDIT-20261019 | IP0018@2; RP0007 | Harmful unsupported audience label and hostile treatment established; not verified biography | No exhaustive private-history assertion |
+| Information / embrace @ PG-AUDIT-20261019 | IP0025@2; CM0016; TX0027 | Contact and later response differentiated from refusal/initiator and rumor grammar | Do not backdate later comfort as consent |
+| Information / Sae's public claim @ PG-AUDIT-20261019 | IP0029@2; TX0031@2 | Blame-shifting claim discredited; public rejection does not establish every unshown utterance | Exact alleged love declaration remains UNKNOWN |
+
+Historical knowledge frontiers remain unchanged. These are analyst truth-state corrections, not new messages received by the characters. Next IDs remain IP0043, KN0047, TX0043 and RP0022.
+
+Revision history addendum: recipient source-audit successor corrections, 2026-10-19; original frozen states preserved.

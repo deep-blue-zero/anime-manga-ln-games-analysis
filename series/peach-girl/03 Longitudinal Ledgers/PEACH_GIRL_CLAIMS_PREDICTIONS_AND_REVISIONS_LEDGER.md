@@ -5,7 +5,7 @@ artifact_type: claims_predictions_revisions_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.2"
+version: "0.3"
 status: active_provisional
 scope: "Claims, Predictions and Revisions; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -136,18 +136,45 @@ Bootstrap source-derived claims, forecasts, revisions and current-index rows: **
 | PG-CL-0003 | @4 / V04 | PG-RV-0018 | — |
 | PG-CL-0004 | @2 / V02 | PG-RV-0003 | Authorship disclosure |
 | PG-CL-0005 | @4 / V04 | PG-RV-0016 | — |
-| PG-CL-0006 | @4 / V04 | PG-RV-0014 | Motive: care vs stated opportunism |
+| PG-CL-0006 | @5 / V04; PG-AUDIT-20261019 | PG-RV-0021 | Motive weighting; preserve sexualized offer and restraint |
 | PG-CL-0007 | @1 / V01 | — | Flashback |
 | PG-CL-0008 | @2 / V03 | PG-RV-0006 | — |
 | PG-CL-0009 | @1 / V02 | — | Context disclosure |
 | PG-CL-0010 | @1 / V02 | — | Organizer confirmation |
 | PG-CL-0011 | @1 / V02 | — | Further disbelief cases |
 | PG-CL-0012 | @2 / V04 | PG-RV-0012 | — |
-| PG-CL-0013 | @2 / V04 | PG-RV-0013 | Category of feeling |
+| PG-CL-0013 | @3 / V04; PG-AUDIT-20261019 | PG-RV-0020 | Romantic pull supported; category/extent unresolved |
 | PG-CL-0014 | @1 / V03 | — | — |
-| PG-CL-0015 | @1 / V04 | — | — |
+| PG-CL-0015 | @2 / V04; PG-AUDIT-20261019 | PG-RV-0019 | Joint causal account; real trust injury retained |
 | PG-CL-0016 | @1 / V04 | — | Sincerity of relief |
 | PG-CL-0017 | @1 / V04 | — | — |
 | PG-CL-0018 | @1 / V04 | — | Jigoro's motive |
 
 Revision history: 0.1 — bootstrap schema, zero rows, 2026-10-16 UTC. 0.2 — V01 transaction rows appended (frontier PG-FR-V01), 2026-10-16 UTC. V02 transaction rows appended and forecast statuses adjudicated (frontier PG-FR-V02), 2026-10-16 UTC. V03 rows, revisions and adjudications appended (frontier PG-FR-V03), 2026-10-17 UTC. V04 rows, revisions and adjudications appended (frontier PG-FR-V04), 2026-10-17 UTC.
+
+## Recipient audit boundary PG-AUDIT-20261019
+
+New owner-authorized, non-blind V01–V04 correction pass; see the [source audit](../07%20Audits%20and%20Handoffs/PEACH_GIRL_CODEX_V01_V04_SOURCE_AUDIT_20261019.md). Learned after PG-FR-V04, before opening V05; narrative cutoff V04. Earlier frozen-boundary projections above are historical, not competing current authority. Submitted historical rows remain unchanged; original unsuffixed event rows have implicit version 1. The following successor versions and audit projections govern current retrieval until the next transaction. Corrections change the analyst's account, not characters' historical knowledge.
+
+| Successor claim | Formulation / class / cutoff | Evidence and strongest counterevidence | Dependencies / disposition |
+| --- | --- | --- | --- |
+| PG-CL-0015@2 | Reconciliation follows Momo's explicit self-criticism AND Tōji's independent acknowledgment of harmful credulity, before she chooses the remorseful present person. Her justified trust injury remains real / STRONGLY_SUPPORTED_INTERPRETATION / V04, learned PG-AUDIT-20261019 | PG-EV-V04-0003, -0006…0009; i0029–0048. Counter/alternative: Kairi pressures a wronged person toward renewed risk; her own endorsement of self-critique does not settle universal blame. HIGH order, MODERATE–HIGH causal weighting | CS0029@2, RL0037@2; REVISE @1; A05 |
+| PG-CL-0013@3 | Momo's Kairi feeling includes source-reported romantic fluttering/pull, gratitude, grief and romantic possibility; not reducible to friendship, while current chosen relationship is Tōji / STRONGLY_SUPPORTED_INTERPRETATION / V04, learned PG-AUDIT-20261019 | PG-EV-V03-0022; PG-EV-V04-0015…0018; V03 i0100,0105–0106; V04 i0079–0085. Counter: unfinished sentence, self-disavowal, explicit choice of Tōji; no established love/commitment to Kairi | CS0024@2/0030@2, RL0041@2; STRENGTHEN supported feeling, leave category/extent OPEN; A03 |
+| PG-CL-0006@5 | Kairi's orchestration, help and withdrawal coexist with continuing interest expressed in a sexualized joking offer. Care/opportunism weighting remains open / STRONGLY_SUPPORTED_INTERPRETATION (acts), PLAUSIBLE_COMPETING_INTERPRETATION (motive) / V04, learned PG-AUDIT-20261019 | PG-EV-V04-0013…0017; i0074–0085. Counter: assistance promotes Tōji against Kairi's immediate romantic interest; he also states opportunistic intent. No single act exhausts motive | CS0038@2, RL0040@2, CM0025@2; REVISE compressed withdrawal; A04 |
+
+| New revision / prior | Transition | Reason / source and learned frontier | Propagation |
+| --- | --- | --- | --- |
+| PG-RV-0019 / — | CL0015@1 → @2 / REVISE | A05 direct sequence restores Tōji's repair and real prior harm alongside Momo's self-criticism; narrative cutoff V04; PG-AUDIT-20261019 | CS0029@2, RL0037@2 and current views updated; future synthesis obligation explicit |
+| PG-RV-0020 / PG-RV-0013 | CL0013@2 → @3 / STRENGTHEN | A03 explicit romantic pull retained against friendship-only current summary; no completed love declaration inferred; PG-AUDIT-20261019 | CS0024@2/0030@2, RL0041@2/current views updated |
+| PG-RV-0021 / PG-RV-0014 | CL0006@4 → @5 / REVISE | A04 source offer's sexual/romantic force retained alongside restraint; motive still mixed/unknown; PG-AUDIT-20261019 | CS0038@2, RL0040@2, CM0025@2/current views updated |
+
+| Forecast audit adjudication | Original test preserved | Current disposition / limits |
+| --- | --- | --- |
+| PG-PR-0001@2 / original unsuffixed row | Exact V02-conditioned forecast remains above; no wording or freeze changed | NOT_TESTED for original V02 window per inherited V02 full reading (recipient samples do not prove absence). Pool-note authorship separately OPEN; later disclosure cannot retroactively score V02 success. A10 |
+| PR0006 preservation | Original V04 reason given to Tōji | MIXED retained: correct topic, wrong recipient. No rescoring as full success; A11 |
+| PR0007 preservation | Trip occurs or is explicitly discussed in V04 | DISCONFIRMED retained for narrative test on inherited coverage; absence of narration is not proof no off-panel trip occurred. Direct i0051–0055 check supports the ellipsis, not exhaustive nonoccurrence; A11 |
+| PR0008 and PR0009 preservation | Original V05 tests above | OPEN, due at V05. Prior promotion/handoff exposure retained; A09 warning is not a hidden successful prediction |
+
+Other active claims remain those in the current index, with audit qualifiers A02/A06/A07/A08/A12–A14 applied to affected observations and domain projections. No claim of omniscient truth follows from an audience's label or absence of depiction. Next IDs: CL0019, PR0010, RV0022. Historical readings/freezes and original terms are unchanged.
+
+Revision history addendum: recipient source-audit successor corrections, 2026-10-19; original frozen states preserved.
