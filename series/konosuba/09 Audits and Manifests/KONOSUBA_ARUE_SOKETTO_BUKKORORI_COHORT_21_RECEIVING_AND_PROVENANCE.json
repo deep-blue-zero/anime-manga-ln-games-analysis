@@ -1,7 +1,7 @@
 {
   "schema": "konosuba.cohort21.receiving-and-provenance.v1",
   "recorded_utc": "2026-10-20T21:31:49.825104+00:00",
-  "status": "SEMANTIC_RECEIVING_COMPLETE_EXACT_CONTAINING_PUBLICATION_PENDING",
+  "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
   "scope": "Three twelve-dimension monographs/two conditional models,compact existing-ledger father profile,two Tier0 occurrences,43retrieval rows,bounded native provenance/explicit bandaging erratum and eight same-root first bodies/adverse assessments.",
   "prior_published_authority": {
     "source": "0c0146c354b05649cb669cc5ec7e414d4dddac5c",
@@ -376,5 +376,20 @@
   "historical_integrity_requirement": "66immutable/72historical,four scores,Dust14blanks/SI-SY28nulls,prior28models/first bodies/reports/indices/monographs and80scratch preserved; no six StageDsuccessors authored.",
   "publication_gate_required": "Complete actual diff/link/preservation review,exact-index author preflight,normal push/exact remote tree/changed streams,source-HK-final terminal reports/reporter/status and fresh reload.",
   "designated_ownership": "No protected merge,executor activation,new source admission or designated global curator/evaluator output authorship.",
-  "full_program_complete": false
+  "full_program_complete": false,
+  "publication_pending_at_authorship_history": "SEMANTIC_RECEIVING_COMPLETE_EXACT_CONTAINING_PUBLICATION_PENDING",
+  "publication_gate_close": {
+    "source": "6cdc432fc24893957af1717db86982aa9da8b848",
+    "tree": "e1fba0a2affab5772b105995b8b7322c07c520dd",
+    "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_ARUE_SOKETTO_BUKKORORI_COHORT21_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "4a95e2864e4677f30d33b2de4d8d342e811ceaa77d84629cbe5c7b9b94b61e5f",
+    "source_run": 39504607065,
+    "housekeeping_run": 39505210888,
+    "final_run": 39505275375,
+    "full_tests_each": 385,
+    "published_project_paths": 1206,
+    "current_models": 30,
+    "no_independent_accuracy_or_confidence_gain": true
+  },
+  "published_authority_reload_sha256": "928b2fbf21d6fc60ee4d265d7cbce931d0ffe00c0fd311ec60cbf31bdaa711ad"
 }

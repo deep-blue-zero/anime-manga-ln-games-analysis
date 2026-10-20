@@ -1110,3 +1110,14 @@ The [external medicine erratum](KONOSUBA_VILLAGE_PEERS_MEDICINE_ATTRIBUTION_ERRA
 Cohort21 adds separate twelve-dimension Arue/Soketto/Bukkorori monographs, two conditional models with seven total rules, and a compact father Tier1 profile in the existing state ledger. Arue remains Tier2 with future distinct modeling open; two narrow collateral occurrences stay Tier0. Candidate totals are 30 model bodies/twenty-four scoped secondary model subjects, nineteen bounded profiles and seven monograph-only subjects (Nos, Rionor, Feit, Chomusuke, Funifura, Dodonko, Arue);193 records remain nonfinal. [Individual index](KONOSUBA_ARUE_SOKETTO_BUKKORORI_EVIDENCE_INDEX.md).
 
 Eight informed same-root first bodies retain strong cueing/generic rivals, shared practical endpoints, unprovided details and unprobed rules. [Soketto](../06%20Character%20Modeling%20and%20Reconstruction/SOKETTO_EXPANDED_V1_EVIDENCE/SOKETTO_CASE_ASSESSMENT_01.md) and [Bukkorori](../06%20Character%20Modeling%20and%20Reconstruction/BUKKORORI_EXPANDED_V1_EVIDENCE/BUKKORORI_CASE_ASSESSMENT_01.md) assessments are local diagnostics, not designated global evaluation. All 28 entering models remain exact. No independent accuracy, Japanese adequacy, grade or confidence gain; publication/full census/program remain pending.
+
+
+## Cohort22 — Mitsurugi and separately bounded companions
+
+| Subject | Current scoped artifact responsibility | Counterevidence and present readiness limit |
+| --- | --- | --- |
+| Mitsurugi Kyouya / 御剣響夜 | Separate monograph and four-rule provisional model; M01-M36/I01-I03 in [individual index](KONOSUBA_MITSURUGI_COMPANIONS_EVIDENCE_INDEX.md) | Real aid/power and local correction coexist with pressure/idealization and limited learning. Four source-known first bodies/two pairs retain strong generic cues, unsupported details, shared preparation and R02/R04 unprobed. No evaluator-owned grade or independent confidence gain. |
+| Mitsurugi spear-user companion, shared nameset role-unmapped | Existing-ledger compact Tier1 profile; S01-S04 | Own fatigue/conditional following and editorial recruitment stance; much early speech, skill distribution and name mapping unresolved. No dedicated model. |
+| Mitsurugi thief companion, shared nameset role-unmapped | Existing-ledger compact Tier1 profile; T01-T04 | Own favored-person/death-together statement, editorial praise and later pair relief/care. No permanent consent or dedicated model. |
+
+The candidate adds one model to the preserved thirty, yielding thirty-one bodies/twenty-five scoped secondary model subjects, twenty-one bounded profiles and seven monograph-only subjects. These are artifact counts, not a completed census denominator. Global discovery/evaluation outputs retain designated ownership and may lag within policy. Seven expanded specialist and six distinct StageD successor obligations remain active.
