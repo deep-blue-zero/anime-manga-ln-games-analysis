@@ -5,7 +5,7 @@ artifact_type: character_development_readiness_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.10"
+version: "0.11"
 status: active_provisional
 scope: "Character Development and Readiness; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -387,3 +387,29 @@ Misao absent as present actor; remembered praise/necklace reports do not establi
 | PG-CS-0139@1 / CHAR0004 / CS0135 | REVEALED_NOT_NEW/CHOICE: arrives Misao home156, silence then outside nod frequent visits159, affirms still loves Misao164/apologizes165 | EV0034–0036; CL0006@11/0025@3/0028@1. Present attachment admitted, onset not newly created164, no exclusivity/full conscious fraud or Misao reciprocity proved |
 
 CHAR0005 Misao identity verified against existing cast before closure. No new actor ID for unnamed club pair. Aki remains reported/unverified, no death/existence adjudication by absence; Morika only phone report, no new stable inner-state row. Next CHAR0023, CS0140, RD0001. Revision0.10 — V11 successors2026-10-20, prior full body/rows retained.
+
+## V12 successor transaction — PG-FR-V12
+
+[V12 reading](../02%20Sequential%20Readings/PEACH_GIRL_V12_DEEP_READING.md);177 inspected/162 mainline. EV=PG-EV-V12; CHAR=PG-CHAR. Direct acts/speech HIGH; nested recollection and motive limited below. Readiness UNASSESSED_NO_OPERATIONAL_MODEL_TESTED, no new RD.
+
+| State / subject / prior | Actual transition/frontier | Basis / limit |
+| --- | --- | --- |
+| PG-CS-0140@1 / CHAR0001 / CS0138 | AFFECT/CHOICE: album blow8/fists9/pulls away11, tears travel brochures14, all-care-false hurt judgment15, declines Misao counsel19/jealous self-reproach20–21, classroom/phone avoidance22–24 | EV0002–0004; CL0013@8/0017@9. Physical anger retained, objects distinct, judgment not omniscient fraud finding |
+| PG-CS-0141@1 / CHAR0005 / CS0137 | CHOICE/KNOWLEDGE: returns forgotten bag16, reports Kairi would not explain17, family/tutor reassurance18/offer counsel19 | EV0003; CL0026@3. Not shown receiving outside confession, actual Momo assault or bedroom story |
+| PG-CS-0142@1 / CHAR0002 / CS0132 | CHOICE/STATEMENT: watches hurt, returns cap29, seeks Ryo contact30; reports Sae breakup request31/refuses, cannot forgive but own-wish counsel32–33 | EV0004–0005; CL0015@7. Actual continued choice, no mutual Tōji/Sae breakup or Momo reunion |
+| PG-CS-0143@1 / CHAR0004 / CS0139 | CHOICE/CONTEXT: apologizes/messages25, pursues pool35 despite asked leave36, enters water38/actual distress/sinks40–41 | EV0004/0006. Danger real, no established harmless trick or intent diagnosis; original conduct explanation still absent |
+| PG-CS-0144@1 / CHAR0001 / CS0140 | CHOICE: swim to avoid thought26, avoids explanation35–37 then retrieves/supports Kairi42/holds head44 and listens | EV0004/0006–0007; CL0013@8/0007@2. No CPR, settled death plan or stated wish let him die |
+| PG-CS-0145@1 / CHAR0004 / CS0143 | REVEALED_NOT_NEW: direct insecurity47/competing attachment48–49, narrated recognition/tutor/camp49–68, ambivalent offshore death/guilt thoughts71, nested rescuer/search reports74–77, continuing Misao devotion78 | EV0009–0016; CL0006@12/0025@4/0028@2. Reported past not all independently verified; later disclosure not V09 foreknowledge/clinical diagnosis or precise V11 stopping link |
+| PG-CS-0146@1 / CHAR0005 / CS0141 | REVEALED_NOT_NEW via Kairi account: full name 安芸操52, individual recognition56, photo61, practical tutoring departure67, reported storm search75–77 and relief hug74 | EV0010–0016; CL0026@3. Actual source account, not new current events/romantic reciprocity. Aki surname not merged with CHAR0022 |
+| PG-CS-0147@1 / CHAR0001 / CS0144 | KNOWLEDGE/CHOICE: receives Kairi history, asks kiss79–80/receives81, gets explicit Misao-more yes83; compares own past Tōji feelings92, informed continuation offer96–97 | EV0009–0020; CL0013@8/0020@7. Empathy and chosen offer actual, not current Tōji love or Kairi agreement |
+| PG-CS-0148@1 / CHAR0004 / CS0145 | CHOICE: requested kiss81/ranks Misao more83, admits fear confessing89, declines continuation99–103/leaves105–106 | EV0017/0019–0021; CL0006@12/0028@2. Actual breakup, hypothetical sex not consummation/all previous care false; own refusal valid |
+| PG-CS-0149@1 / CHAR0002 / CS0142 | KNOWLEDGE/CHOICE: finds crying Momo108/returns wallet110; breakup disclosure later confirmed124, actual punch Kairi117/yielded claim119 | EV0022–0024; CL0015@7. Momo absent punch, possession claim not legitimate ownership or all inner motives |
+| PG-CS-0150@1 / CHAR0001 / CS0147 | CHOICE/AFFECT: hurt by enacted ending107, confides breakup off-panel124; old Tōji memories131 but pushes him away134/only Kairi136, grateful maybe-helper interpretation138 | EV0021–0027; CL0013@8/0015@7. No completed Tōji kiss or renewed dating, her helper theory not his admission |
+| PG-CS-0151@1 / CHAR0002 / CS0149 | CHOICE: unrequested hug125/waiting-limit126/date-again127, approaches kiss130 but refused134; knows Misao135, advises honest Kairi disclosure136/smiles137 | EV0025–0027; CL0015@7/0017@9. Care/romantic stake coexist, no proof whole proposal a feint |
+| PG-CS-0152@1 / CHAR0001 / CS0150 | CHOICE: accepts breakup144, thanks145, renews pursuit146–148 after distinguishing ended relation; collar grab150/accusation151–152/kiss154 after Kairi no149, sexual challenge156, later responds158/resolve first159 | EV0028–0031; CL0013@8/0017@9. Active agency and pressure both recorded, intense dependence language not enacted death plan; later response not retroactive consent |
+| PG-CS-0153@1 / CHAR0004 / CS0148 | CHOICE: accepts ending144, declines new request149, lowers face154, glad-but-cannot-stop155, laughs/initiates embrace157/second-for-now158/later kiss158–159 | EV0028–0031; CL0006@12/0017@9/0028@2. Later responsive reconnection actual, no exclusive preference, all prior refusal erased or completed sex |
+| PG-CS-0154@1 / CHAR0003 / CS0127 | CONTEXT/CHOICE: Tōji reports her breakup request31; magazine163 presents her as 安西かりん, reported absences/rumors164; actual phone165 and unnamed adult companion/waist embrace167–168 | EV0005/0033–0034; CL0002@11. Publication actual in fiction, authenticity/production consent/sexual acts/contract unknown; no secure companion identity or Ryo phone receipt |
+| PG-CS-0155@1 / CHAR0001 / CS0152 | KNOWLEDGE/CHOICE: asks peers how turn Kairi160–161, sees Sae magazine163/questions composite, hears bounded rumor164, sees adult companion168 | EV0032–0034; CL0020@7/0002@11. No complete Sae motive/production or Tōji receipt; own first-place project unachieved |
+| PG-CS-0156@1 / CHAR0020 / CS0129 | REVEALED_NOT_NEW through Kairi account: intrusive contact Misao64/minimizes, rescuer attribution74/later search report75; current rarely-home report166 | EV0012/0015–0016/0034; CL0025@4/0026@3. Past reports not new present assault; naming Aki surname65 not proof dead-woman identity/history |
+
+Misao remains CHAR0005, now full name 安芸操 Aki Misao52. CHAR0022 reported アキ remains unmerged/unverified. Anonymous peers/photographer/phone recipient/adult companion are not given invented named identities; adult is not Ryo and not securely Honda CHAR0014. Next CHAR0023, CS0157, RD0001. Revision0.11 — V12 successors2026-10-20; complete prior body/rows retained.

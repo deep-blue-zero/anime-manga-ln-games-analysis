@@ -5,7 +5,7 @@ artifact_type: relationship_commitment_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.10"
+version: "0.11"
 status: active_provisional
 scope: "Directional Relationships and Commitments; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -479,3 +479,44 @@ No actual Tōji/Sae breakup or Momo/Ryo couple agreement. No Momo/Sae forgivenes
 | PG-CM-0098 / NONE | Momo private consult request148/Misao home invitation; album request150/Misao permission | EV0032–0033; HOME_AND_ALBUM_PERMISSION_ACTUAL, no guarantee desired counseling outcome |
 
 No actual Momo/Kairi breakup by165, no Tōji/Sae agreed nonexclusivity, no Misao sexual/romantic pact. Kairi→Misao follows verified RL0108, Misao→Kairi follows RL0107; no invented reciprocity. Next RL0156, CM0099. Revision0.10 — V11 successors2026-10-20, old rows/full body preserved.
+
+## V12 successor transaction — PG-FR-V12
+
+[V12 reading](../02%20Sequential%20Readings/PEACH_GIRL_V12_DEEP_READING.md); EV=PG-EV-V12. A refusal, offered continuation, enacted ending and later reconnection have distinct frontiers. Neither romantic affection nor pain authorizes the other's participation.
+
+| Direction / prior | Actual transition | Evidence / limit |
+| --- | --- | --- |
+| PG-RL-0156 / RL0152 | Momo → Kairi / questions lies, album blow8/fists9/pulls away11/flight13, tears plans14, refuses contact22–24/36 | EV0002–0004/0006; hurt and physical protest, not all care objectively false or album destroyed |
+| PG-RL-0157 / RL0153 | Kairi → Momo / apology/catches fists/kiss10, outgoing messages25, pool pursuit35/asked leave36/enters danger38 | EV0002/0004/0006; no reason received via unopened messages, apology contact not automatic permission or rescue trick |
+| PG-RL-0158 / RL0150 | Misao → Momo / forgotten bag returned16, partial family/tutor reassurance17–18/counsel offered19 | EV0003; actual care with confession/intimacy/assault access limited |
+| PG-RL-0159 / RL0145 | Tōji → Sae / reports her asked breakup31, he refuses, cannot forgive but values/chooses continuation32–33 | EV0005; his current choice not mutual pact or happy reciprocal love proof |
+| PG-RL-0160 / RL0146 | Momo → Tōji / cap thanks29, asks how forgive32, receives own-wish counsel/applies to Kairi34 | EV0004–0005; listening not romantic return |
+| PG-RL-0161 / RL0154 | Kairi → Misao / past individual recognition56/photo61/abandonment feeling68/ambivalent death thoughts71; later learned search75–77 intensifies attachment78; says loves more83/fears confessing89 | EV0010–0019; nested account and own interpretation; actual present comparative preference, no reciprocal Misao choice |
+| PG-RL-0162 / RL0155 | Misao → Kairi / remembered recognition56, practical tutor ending67, relief hug74/reported storm search75–77 | EV0010/0013/0015–0016; meaningful care, not confirmed romantic promise or actual current rejection |
+| PG-RL-0163 / RL0156 | Momo → Kairi / actual retrieve/support42/embrace44, hears history, requests kiss79/asks Misao-more82/receives yes83 | EV0007/0009–0017; specific kiss desired, no CPR; new knowledge makes later choice informed |
+| PG-RL-0164 / RL0157 | Kairi → Momo / denies for-fun46/insecurity47/history49–78, requested kiss81/comparative ranking83, fear confession89 | EV0009–0019; genuine liking plus first Misao, exact V11 stop/avoidance link unstated |
+| PG-RL-0165 / RL0163 | Momo → Kairi / own earlier mixed feelings92, customary/makeup/future kiss94–95, offers continue even Misao96/wants beside97 | EV0019–0020; actual agency not passive ignorance, no Kairi agreement implied by98 embrace |
+| PG-RL-0166 / RL0164 | Kairi → Momo / let us break99/hypothetical hold while Misao101, refuses her okay102, still Misao103/withdraws105/leaves106 | EV0021; enacted ending, protective rationale not certified best choice; no actual sex/all care fake |
+| PG-RL-0167 / RL0073 | Tōji → Kairi / dictionary sequence114–116/actual punch117/yielded-because-you119 | EV0023; same-direction prior verifiedRL0073, possessive stake/violence not legitimate allocation of Momo; Momo absent |
+| PG-RL-0168 / RL0088 | Tōji → Momo / finds tears108/returns wallet110, later unrequested hug125/waiting limit/date-again127/near kiss130 | EV0022/0024–0026; practical care and own romantic proposal, not mutual reunion or proven pure feint |
+| PG-RL-0169 / RL0160 | Momo → Tōji / breakup disclosure confirmed124, old romance mental131 then pushes away134/cannot/only Kairi136, thanks138/possible-helper theory | EV0024–0027; no actual lip kiss/renewed relation; theory not Tōji admission |
+| PG-RL-0170 / RL0168 | Tōji → Momo / knows Misao135, tells honestly say feelings136, what-if-kissed smile137 | EV0026–0027; helpful advice despite stake, no canceled actual earlier proposal/punch |
+| PG-RL-0171 / RL0165 | Momo → Kairi / accepts ending144/thanks145, still love146/new pursuit proposal147–148 | EV0028–0029; explicitly old relation over, fresh request not already accepted |
+| PG-RL-0172 / RL0166 | Kairi → Momo / sorry/better boyfriend145, NO/cannot149/will hurt150, lowers his face after kiss154 | EV0028–0030; own boundary valid regardless her willingness; no distinct reciprocal initiation at154 established |
+| PG-RL-0173 / RL0171 | Momo → Kairi / collar grab150/accuses fear151–152, palm/kiss154 against preceding no149, sexual challenge156, later embraces158/first-place project159 | EV0029–0031; pressure not erased by agency; specific later mutual moment not prior permission or all future acts |
+| PG-RL-0174 / RL0172 | Kairi → Momo / glad155, laughs/initiates hug157, second most/FOR NOW158/initiates kiss158–159 | EV0030–0031; actual affectionate reconnection, unequal ranking explicit, no exclusive commitment/consummation |
+
+| Commitment / prior | Terms and actual disposition | Evidence / limit |
+| --- | --- | --- |
+| PG-CM-0099 / NONE | Momo asks Kairi leave pool36, dives to avoid37; he enters38/struggles, she retrieves42 | EV0006–0007; CONTACT_REFUSAL_PURSUED_THEN_RESCUE, no CPR or duty to continue dating |
+| PG-CM-0100 / NONE | Momo asks kiss79–80, Kairi actual kiss81 | EV0017; SPECIFIC_REQUEST_FULFILLED, no blanket future consent |
+| PG-CM-0101 / NONE | Momo offers continued relation96–97 despite explicit Misao-more83; Kairi embraces98 then breakup99 | EV0017/0020–0021; INFORMED_OFFER_REFUSED, embrace not acceptance |
+| PG-CM-0102 / NONE | Kairi breakup99/reason101–103/leaves105–106 despite Momo objection; she accepts144 | EV0021/0028; ENACTED_ENDING_LATER_ACCEPTED, hypothetical casual-sex okay101 not obligation on either |
+| PG-CM-0103 / NONE | Tōji actual date-again127/face approach130, Momo pushes/refuses134, he advises136 | EV0025–0027; PROPOSAL_REFUSED_NO_COMPLETED_KISS, Momo helper guess138 not proven all-feint |
+| PG-CM-0104 / CM0102 | Momo accepts breakup144, declares still love146/new request147–148, Kairi NO149 | EV0028–0029; OLD_ENDING_ACCEPTED_NEW_OFFER_REFUSED, not automatic reconciliation |
+| PG-CM-0105 / CM0104 | Momo collar grab150 and kiss154 after Kairi no149, he still/lowers gaze | EV0029–0030; NO_AFFIRMATIVE_PRIOR_PERMISSION_ESTABLISHED, later response157–159 not backdated |
+| PG-CM-0106 / NONE | Kairi laughs/initiates hug157/second-for-now158/initiates kiss, Momo closes eyes/embraces158–159 | EV0031; LATER_RESPONSIVE_RECONNECTION, no first-place promise or permanent sex consent |
+| PG-CM-0107 / NONE | Kairi warning cannot stop155/Momo casual-sex rhetorical challenge156 | EV0030; SEXUAL_BRAVADO_NO_COMPLETED_ACT, no unrestricted future consent or verified arrangement fulfillment |
+| PG-CM-0108 / NONE | Momo inward someday first159, seeks peer shortcut160–161 | EV0031–0032; OWN_FUTURE_PROJECT_NOT_MUTUAL_PROMISE, preferred result unachieved |
+
+No present Misao confession/rejection/reciprocal pact; no Tōji/Momo reunion or mutually agreed Tōji/Sae breakup. New Momo/Kairi closeness does not rewrite the enacted ending. Next RL0175, CM0109. Revision0.11 — V12 successors2026-10-20, full old body/rows preserved.
