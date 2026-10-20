@@ -1598,3 +1598,8 @@ Wiz receives a scoped Tier3 monograph/model/index with provisional reliability. 
 
 ## CE-C01 — one actor with bounded roles
 Chris/Eris receives a scoped Tier3 monograph/model/index with provisional predictive reliability. Identity continuity is explicit in CONTEXP01 U021P329; ordinary thief and divine office carry different bodies, resources, public roles and knowledge. MAIN17 EpP23 admits limited recent observation, P47–60 corrects the death premise, and P59 gives a self-set office refusal. Chosen work, company, charity/spending, error and professional face remain her own states. [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_CHRIS_ERIS_EVIDENCE_INDEX.md).
+
+
+## DUST-COHORT06-C01 — one present person with a usable past
+
+Dust receives a scoped source-informed Tier3 monograph/model/index. DUST05 U012P591's knight appraisal and P599/P602's current self-name precede restored-Dust protection of Leen; DUST07 U011P419–440 deliberately discloses the past. The old name ライン・シェイカー is not the attendant レイン. Chosen ordinary life, old attachment, skill and present misconduct all remain. No two-person/clinical account, perfect reform or global census completion follows. [Evidence](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_EVIDENCE_INDEX.md).

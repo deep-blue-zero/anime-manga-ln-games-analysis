@@ -1226,3 +1226,8 @@ Wiz's shop effort is real despite recurrent loss. Useful function, market fit, s
 
 ## CE-C01 — wanted company, charity and particular pleasures
 MAIN12 FinalP10's charity/drinking is her account; P13/P16–23 joins ordinary company, payment and lodging choices without making charity costless. Excitement about rare party work, curiosity and professional pride coexist with formal divine duties. CONTEXP01 U026 records actual leaflet pressure and a one-day recommitment, not a full hidden preference ranking. MAIN17 C3P355's desired heroic scene is her expressed taste. These preferences remain individual and context-sensitive.
+
+
+## DUST-COHORT06-C01 — wanted home, pleasures and exact resource directions
+
+Dust values ordinary Axel company, leisure and situated quiet without needing one constant noise preference. Particular care costs time, money, privacy and risk; mixed benefit remains. DUST07 U011P1092–1093 performs the sword loan and return request; U014P119 explicitly cancels defense debt while the separate guild payment is reported later. No sword/book return, final romance or universal debt settlement is shown. Merchant gift, entrusted allowance, provider fees, food for Faitifore and Leen-directed labor are distinct owner/payer/recipient states; gifts to others cannot be relabeled a clean Leen-specific transfer.

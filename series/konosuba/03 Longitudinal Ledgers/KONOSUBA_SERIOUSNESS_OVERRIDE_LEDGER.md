@@ -1154,3 +1154,8 @@ MAIN04C5P270–284 attempts negotiation under noninterference. Hans's admitted c
 
 ## CE-C01 — chosen intervention and target-sensitive zeal
 MAIN12 FinalP277–287 moves from recognition to an actual thrust; Kazuma's P296 restraint and later binding are distinct interventions, not her consent to their whole procedure. MAIN17 C3P243's first voluntary rule-breaking is her account; actual buffs and persuasion show active participation. She rejects retirement/abandonment alternatives and asks for a duel before Aqua's call changes Kazuma's decision. Chosen help can pressure others without becoming universal obedience or universal pacifism.
+
+
+## DUST-COHORT06-C01 — reject unconditional protection while retaining actual care
+
+Direct adverse cases remain: DUST02 C03P149/P156–176/P420–424 induced attraction after refusal; DUST03 U013P218–247 rescue obstruction; DUST04 U012P661–686 refused companion wager; DUST06 actual delay/teasing; DUST07 U012P295–304 Keith nonhelp. Later protection, success, humor, authority, alleged deservedness, lack of completed injury or motive purity do not erase them. Positive costs and intervention remain real. DUST-CONT's captive-princess tolerance and delayed recovery retain adverse weight without inventing a complete new leisure/feasible-means conjunction in every omission. The old N01 unconditional override is not repaired by the new source-informed model.

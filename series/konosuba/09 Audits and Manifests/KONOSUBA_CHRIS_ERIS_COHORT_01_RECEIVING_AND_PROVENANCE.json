@@ -1,7 +1,7 @@
 {
   "schema": "KONOSUBA_CHRIS_ERIS_COHORT05_RECEIVING_AND_PROVENANCE_V1",
   "accepted_utc": "2026-10-19T23:56:06.610187+00:00",
-  "status": "ROOT_SEMANTIC_RECEIVING_COMPLETE_CONTAINING_PUBLICATION_PENDING",
+  "status": "SCOPED_TIER3_ACCEPTED_PUBLISHED_FULL_EXACT_SOURCE_GATE_CLOSED",
   "source_boundary_commit": "ca5c7a4f427ab7e9ff8284fc1b37286f0951517c",
   "preceding_gate": "09 Audits and Manifests/KONOSUBA_WIZCOHORT01_PUBLICATION_GATE_CLOSE.json",
   "receiver": "Same continuing informed root; exact prose, actual native/derivative reception, six first outputs/three contrasts and underidentified cases reviewed. No independent reviewer/model or source holdout.",
@@ -132,12 +132,16 @@
   },
   "preservation": "66current/72historical/fourscores/Dust14originalblanks/tenenteringmodels/SIandSY28originalnulls/80scratch remain exact; no retargeting or central registry/capability output authorship.",
   "not_completed": [
-    "Exact Chris/Eris candidate adoption/publication gate",
     "Remaining individual census/joins/incidental dispositions and earned artifacts",
     "Expanded specialists/versioned principal-party-transfer synthesis",
     "Designated curation/integration and component/release/final-entry audits"
   ],
-  "publication_gate": "Pending exact canonical candidate/adoption, full diff review, authorpreflight, freshheads-owner-rules, normalpush, fullreadback, sourceaudit, housekeeping, finalactualsource-status and fresh authority reload.",
+  "publication_gate": {
+    "source_commit": "5a4bc7d7386452c9afc5aa5e12bc8e9af44d8c23",
+    "closed_utc": "2026-10-20T00:18:52.254242+00:00",
+    "receipt": "09 Audits and Manifests/KONOSUBA_CECOHORT01_PUBLICATION_GATE_CLOSE.json",
+    "fresh_authority_reload_utc": "2026-10-20T00:19:12.627707+00:00"
+  },
   "canonical_presentation_normalization01": {
     "performed_utc": "2026-10-20T00:05:23.339645+00:00",
     "changes": [
@@ -159,5 +163,7 @@
       }
     ],
     "reason": "One final LF per canonical Markdown; no analytical words, private prose seal, exact draft lineage, contracts, first outputs or source scopes changed."
-  }
+  },
+  "artifact_pin_scope": "The artifact list and maintained census candidate pin the exact accepted cohort at source 5a4bc7d7386452c9afc5aa5e12bc8e9af44d8c23. Later maintained status/census copies advance under explicit receipts; historical pins do not assert that every later working copy stays identical.",
+  "publication_gate_requirement_at_authorship": "Pending exact canonical candidate/adoption, full diff review, authorpreflight, freshheads-owner-rules, normalpush, fullreadback, sourceaudit, housekeeping, finalactualsource-status and fresh authority reload."
 }

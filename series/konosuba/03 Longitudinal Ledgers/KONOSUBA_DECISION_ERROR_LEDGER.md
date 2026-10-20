@@ -1811,3 +1811,8 @@ Wiz's technical enthusiasm can omit actual buyer budgets, alternatives and worki
 
 ## CE-C01 — information, pride and a changed judgment
 MAIN12 FinalP275's cute-creature refusal changes after ingredient/demon recognition P277–280; P287 is an actual dagger thrust despite the requested binding. This is not merely spoken zeal. Earlier professional-face failures remain errors. MAIN17 EpP28–44 changes sympathetic appraisal after new information; P32 selectively withholds a fact. Six hypothetical responses/three contrasts have no empirical reliability score; H02B approach/intention never demonstrates actual strike, harm or procedural breach.
+
+
+## DUST-COHORT06-C01 — desire-compatible inference and deliberate representation differ
+
+DUST07 U014P101–125 supplies an accessible right/left cue missed under a desired invitation, while other scenes show actual inquiry, rival consideration and updating. Knowingly false cover, the DUST05 altered knight appraisal and a reasonable uninformed guess are different processes. Actual gift/price/future-term checks coexist with early access errors and deliberate entrusted-money appropriation. The six-rule model preserves uncertainty over causal weights. Six same-author hypothetical outputs do not uniquely predict appropriation, isolate privacy, or demonstrate third-pair behavioral discrimination; no new accuracy score follows.

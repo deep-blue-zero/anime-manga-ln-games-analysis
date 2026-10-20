@@ -4,7 +4,7 @@ artifact_type: execution_and_source_reconciliation_audit
 scope: V11-V17 continuation and the fixed 41-object expanded-source program
 generation: V1
 status: active_provisional
-source_boundary: CECOHORT01 semantic receiving/publication pending; earlier4secondary gates and all declared source programs closed; fullcensus/earnedartifacts/expanded synthesis/versionedmodels/curation/integration/release active
+source_boundary: DUSTCOHORT01 semantic receiving/publication pending; five earlier secondary gates and all declared source programs closed; fullcensus/earnedartifacts/expanded specialists/versionedmodels/curation/integration/release active
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -21,8 +21,8 @@ The owner's 2026-10-16 request executes `KONOSUBA_CONTINUATION_AND_FULL_CORPUS_C
 | Execution mode | `continuous_sequential` |
 | Main-series authorized range | V11–V17 |
 | Accepted high-water mark | V17 principal and final Gen05 checkpoint; CP06/evidence freeze published and fully audited at a1539842 |
-| Current phase | Owner-resumed full program; Chris/Eris scoped Tier3 semantic receiving/publication pending; earlier four secondary gates closed; remaining individual/synthesis/release work active |
-| Next canonical operation | CECOHORT01_PUBLICATION_GATE then fresh authority reload and continued individual census/earned cohorts/expanded synthesis; no new source admission |
+| Current phase | Owner-resumed full program; Dust scoped Tier3 semantic receiving/publication pending; five earlier scoped secondary gates closed; remaining individual/specialist/model/release work active |
+| Next canonical operation | DUSTCOHORT01_PUBLICATION_GATE then fresh authority reload and continued individual census/earned artifacts/expanded synthesis; no new source admission |
 | Current prospective model | Gen05 frozen through V15, original 25 blank pairs exact; formal V16–V17 8C/6P/1F/3AMB/7NT separate from accepted locals; no Gen06 |
 | Initial published continuing-branch head at reconnaissance | `0238f356ee2ade28e39aa3a940ea0e091f8211f4` |
 | Initial main at reconciliation | `53de8ba455938174a3f14f887cd33739261a4e5f` |
@@ -1405,3 +1405,13 @@ Exact source ca5c7a4f427ab7e9ff8284fc1b37286f0951517c, tree 6a672cdaf2b6c0363576
 ## Chris/Eris cohort05 semantic receiving — 2026-10-20T00:03:03.648922+00:00
 
 Nine new artifacts and a maintained census update are received; exact publication remains pending. Seven informed rules/six exact first hypothetical outputs/three contrasts preserve explicit cueing, the unperformed hypothetical attack and unobserved later enforcement. No source/independent score or confidence gain follows. Native1,063slots/five members comprise734current and329inherited BASE P scopes, not independent observations. Census151qualified rows receives25targeted updates/oneHeidel/125priorrowsexact. MAIN01–12 plus MAIN17 and the first four checkpoints are currently received as derivatives; MAIN13–16, later checkpoints and all ten ledger bodies remain active. Wiz gate carry is exact. Frozen66current/72historical, four scores, Dust14original blanks, ten entering models and SI/SY28original nulls stay unchanged. Remaining earned artifacts, expanded specialists/versioned principal-party-transfer models, designated curator enrollment/integration and component/release/final-entry audits continue.
+
+
+## Chris/Eris cohort05 exact gate/reload — 2026-10-20T00:19:13.357890+00:00
+
+Exact source 5a4bc7d7386452c9afc5aa5e12bc8e9af44d8c23, tree 084095a488065b076dce95d49a96351e9576f388; all 9,169 remote paths and 27 changed streams match the reviewed candidate. Source audit 39345838991/job 118378084253 and final audit 39346255702/job 118379465666 certify the actual source with 385 full tests, zero failures/errors/skips/expected failures/unexpected successes, and selection disabled. Housekeeping 39346208025/job 118379309104 completed NO_OP and dispatched the exact final source. Final status and fresh 993-project-path reload at 2026-10-20T00:19:12.627707+00:00 are verified. All ten entering models and the new Chris/Eris model, 66 current/72 historical authorities, four scores, Dust fourteen original blanks, SI/SY twenty-eight original nulls and eighty unrelated scratch files remain exact. The full individual census, identity/event joins, incidental dispositions and remaining earned artifacts continue. Expanded specialist synthesis and versioned principal/party/transfer revisions, designated curator enrollment, integration and component/release/final-entry audits remain active. All seventeen main excluded-component, nineteen supplemental and five mixed/reference programs retain closed declared source gates; no new main volume or global completion is claimed. This seven-path status reconciliation creates no source reading, forecast, response or score. Before another publication, reconcile then-current upstream normally and recheck the exact candidate.
+
+
+## Dust cohort06 semantic receiving — 2026-10-20T01:41:46.866225+00:00
+
+Eleven new artifacts and a maintained157row census are received; exact containing publication remains pending. Six source-known rules/six actual first outputs/three contrasts retain real adverse choices and choice underidentification; third pair does not discriminate behavior. No source/independent score or confidence gain. Current DUST07 explicit native1218member slots retain prior1179 plus8identity and31loan slots; no whole-source/ruby/image or independent-event increment. Current full derivative receiving is MAIN01–17/all six checkpoints/earlier92 documentary appendix at declared scopes; broader ledger/census remains open despite scoped ten-responsibility Dust checks. Twenty-nine prior rows/six new narrow subjects/122unchanged; earlier five tiers and eleven models exact. Chris/Eris7postgatepaths carried. MAIN15 PV29 external actor erratum preserves original cell and all judgments. Frozen66current/72historical/fourscores/Dust14blanks/SI-SY28nulls/80scratch retained. Expanded specialists/versioned six models, further proportional character artifacts, designated curation/integration and component/release/final-entry audits continue. Current approved main integration-policy changes are imported; no executor activation, provider setting or protected merge is claimed.

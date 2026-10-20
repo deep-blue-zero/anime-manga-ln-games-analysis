@@ -1351,3 +1351,8 @@ Wiz refuses paid long exclusion from the shared shop (MASK U011P23–43), values
 
 ## CE-C01 — particular company and bounded access
 MAIN12 FinalP16–23 separates payment, accepted lodging and wanting company; P48–95 includes intrusive curiosity and reciprocal questioning. CONTEXP01 U021P363–369 offers ordinary friendship and respects a requested averted gaze. MAIN17 EpP54–63 rejects recurring refuge and offers later friend contact. Neither friendship nor technical access implies unlimited office entitlement. Hypothetical later enforcement remains unshown; old CE01's full conjunction is not retargeted.
+
+
+## DUST-COHORT06-C01 — particular bonds and different actors' choices
+
+Leen, Rionor, Faitifore, Lolisa, Taylor and Keith retain separate knowledge, preferences and contributions. DUST06 U012P427–597 distinguishes capture/refused withdrawal/later usable exit/renewed choice; DUST-CONT U012P436–510 gives Leen's own reasons. DUST07 U011P735–944 harmful training and U012P295–304 Keith nonhelp coexist with affection, actual help and private recognition. Apology, money, skill or later survival cannot retroauthorize force. Child-presenting interactions remain nonsexual and age appropriate; no final formal pairing or universal provider obedience is established.

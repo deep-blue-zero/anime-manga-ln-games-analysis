@@ -1840,3 +1840,8 @@ A working but ill-fitted item, a powerful caster with limited supply, and a warm
 
 ## CE-C01 — zeal, office and professional face have real costs
 A useful thief's face-saving failures, divine dignity versus wanted friendship, and demon zeal versus a companion's collection procedure provide distinct contrasts. MAIN12's actual stab/binding/restraint and capture remain literal fictional actions. H3 requires gag-dependent weak transfer; H4 requires nonliteral staging. Near tears, humiliation and comedy do not certify a harmless outcome or erase other actors' boundaries.
+
+
+## DUST-COHORT06-C01 — comic reversals retain actual costs and capacities
+
+Glory defeats an understood assignment in DUST02, borrowed prestige changes access in DUST03, and profitable/heroic cover diverges from private aims in later scenes. Comic defeat does not erase useful weapon/provider skill. Actual coercion, refusal, restraint, fear, payment and chosen help remain literal fictional events; fantasy is not automatically H4. H2 amplification and H3 gag-dependent weak transfer require their own warrants, and source uncertainty does not supply either. Existing codes/denominators remain unchanged. [Current Dust index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_EVIDENCE_INDEX.md).

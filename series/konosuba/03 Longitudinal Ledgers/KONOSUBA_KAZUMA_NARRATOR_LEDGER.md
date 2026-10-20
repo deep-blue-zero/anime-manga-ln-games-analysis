@@ -1277,3 +1277,8 @@ MAIN04C5P252/P273 leaves Wiz's disclosure intent uncertain; P409/P413 is Hans's 
 
 ## CE-C01 — testimony, inference and chosen disclosure
 MAIN12 FinalP37–40 prayer linkage and P380 identity detection are Kazuma's inferences, not certified access to her private state. P230/P255 notices inconsistency without full disclosure. MAIN17 C3P355 explicitly gives Eris's preferred cool heroic result; Kazuma's manga explanation P357 remains inference. His commitment P364 precedes the Iris report P384; P392–393 guesses her disclosure motive. MAIN17 Ep's new information corrects her own prior appraisal rather than granting prior omniscience.
+
+
+## DUST-COHORT06-C01 — own viewpoint and cross-viewpoint event identity
+
+Dust is the first-person focalizer of most Dust material; Leen and the private Doreck/Gaibil epilogue have different access. This rolling responsibility keeps its established filename rather than creating a competing narrator ledger. DUST07 U011P1085–1115 supplies the sword's narrated defense, prior-role connection, performed public profit/anger cover, private protect-friend wish and genuine conditional profit. MAIN16 observes the same initial exchange with less private access; MAIN17 use is later. Do not grant either narrator the other's whole mind, infer global unreliability, or turn retellings into new initial loans. A claimed all-spell defense is not a fresh experiment.

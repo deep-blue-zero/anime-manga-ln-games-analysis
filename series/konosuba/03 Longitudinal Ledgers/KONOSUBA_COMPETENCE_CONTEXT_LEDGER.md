@@ -1349,3 +1349,8 @@ MAIN04C5P416–455 shows actual freezing; P502–504 selective pipe cutting; P52
 
 ## CE-C01 — skill survives local failure and resource limits
 MAIN12 FinalP131/P136–141 shows a strength failure and accepted physical help; P169–182 preserves a failed door attempt and face-saving error. Actual sensing/stealth P194–200 does not avert capture P209. P334/P344 shows wing/nail work while P347–350 cannot cut mithril. MAIN17 C3P209/216/221/271 shows distinct buffs and P397–402 voice/last blessing without a newly shown body transformation. Specialization is useful without universal capacity.
+
+
+## DUST-COHORT06-C01 — real skill requires actual means and other providers
+
+Dust can change geometry, materials, information and provider arrangement; DUST02 Final's stop depends on distinct rope/shield/cut/spear/Lightning contributions. DUST07 and DUST-CONT preserve real partner roles, class/body/equipment limits, failed recovery and chance. The DUST-CONT shared-sense mechanism first disclosed at U013P294 is not an earlier accessible ignored cue. A physical penetration, successful deception or chosen attack does not itself prove completed rescue/recovery. Technical capacity does not certify permission or ethical treatment. No modern expertise or solo remote-victory knowledge is imported.

@@ -1805,3 +1805,10 @@ MAIN04C5P425 recalls a binding moral condition in question form; P431 adds quiet
 
 ## CE-C01 — chosen register and an explicit no
 CONTEXP01 U026P7–8 and MAIN17 EpP21–23 distinguish familiar address from formal office speech. MAIN17 EpP59's repeated refusal retains force despite affection; C3P397–400 shifts into ordinary Chris-like voice without a newly shown physical transformation. MAIN12's professional face, curiosity and target-specific hostility have different pragmatic aims. Preserve written forms and purpose; no audio, fixed verbal tic or politeness-as-consent claim follows.
+
+
+## DUST-COHORT06-C01 — purpose-sensitive written voice and corrected attribution
+
+Dust's rough current voice can ask careful terms, help, refuse or repair face; polite language can flatter, corner, disguise or maintain a knight role. DUST05 U012P574–603, DUST06's registration/recipient repairs and DUST-CONT's king-directed repair keep independently established actor/role context. Neither a pronoun nor politeness certifies identity, care, truth or consent. Source-known invented exercise snippets cover selected rough-register jobs only; no audio, native-human adequacy, new main J01/J02 result or independent trial is claimed.
+
+CR-SECONDARY-MAIN15-PV29-001 is a separate current external factual qualification: Aqua accuses Kazuma of flirting at MAIN15 C4P349; Darkness denies at P350. P333/P343/P345/P348 establish Aqua's continuing address. The independent PV29 original incorrectly names Kazuma as accuser. Keep the original rationale/codes/fixed bounds/mapping/disagreement exact and use the [attributable overlay](../09%20Audits%20and%20Manifests/KONOSUBA_MAIN15_PV29_ACTOR_ATTRIBUTION_ERRATUM_01.json). No actual flirting, neutral prior baseline, universal privacy rule, full D02 eligibility or new score follows.
