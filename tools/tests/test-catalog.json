@@ -4044,6 +4044,126 @@
         "governance/repository-controls/*"
       ],
       "purpose": "Check an exact main integration commit against its pre-push parent so stale additions and deletions are detected."
+    },
+    "test_reconstruction_capability.ReadinessCertificationTests.test_empty_selection_never_certifies_readiness": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Fail strict readiness verification on an empty selection while the plain report still succeeds."
+    },
+    "test_reconstruction_capability.ReadinessCertificationTests.test_only_a_current_reviewed_selection_certifies": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Certify only a nonempty CURRENT_REVIEWED selection; unknown IDs exit 2 and staleness exits 1."
+    },
+    "test_reconstruction_capability.ReadinessCertificationTests.test_deferred_work_requires_a_checkpoint": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Reject deferred subjects without the checkpoint needed to detect their changes."
+    },
+    "test_reconstruction_capability.ReadinessCertificationTests.test_deferred_subject_returns_after_evidence_bytes_change": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Requeue a deferred subject end to end when its evidence bytes change without a discovery edit."
+    },
+    "test_reconstruction_capability.DeferredEvidenceChangeTests.test_byte_change_without_discovery_edit_is_detected": {
+      "group": "reconstruction_capability",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Detect a reviewed evidence byte change for a deferred subject without any discovery metadata change."
+    },
+    "test_reconstruction_capability.DeferredEvidenceChangeTests.test_authority_change_without_byte_change_is_detected": {
+      "group": "reconstruction_capability",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Detect an authority classification change caused by another artifact's supersession edge."
+    },
+    "test_reconstruction_capability.DeferredEvidenceChangeTests.test_unrelated_change_does_not_requeue_a_deferred_subject": {
+      "group": "reconstruction_capability",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Leave a deferred subject deferred when only unrelated files change."
+    },
+    "test_reconstruction_capability.DiscoveryBranchConfinementTests.test_two_file_curation_delta_passes": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Accept a character-registry delta containing only the two discovery outputs."
+    },
+    "test_reconstruction_capability.DiscoveryBranchConfinementTests.test_any_other_path_on_the_curation_branch_fails": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Reject a character-registry delta that also changes analytical evidence."
+    },
+    "test_reconstruction_capability.DiscoveryBranchConfinementTests.test_staged_index_is_checked_before_commit": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Apply discovery branch confinement to a staged index before commit."
+    },
+    "test_reconstruction_capability.DiscoveryBranchConfinementTests.test_audit_applies_confinement_only_to_the_curation_branch": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        ".github/workflows/*"
+      ],
+      "purpose": "Bind confinement to character-registry audits only, keeping analytical-branch repairs admitted by housekeeping."
     }
   }
 }

@@ -52,7 +52,7 @@ Consumers verify present applicability with:
 python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>
 ```
 
-`--assessment <id>` restricts the report and `--require-current-reviewed` exits nonzero unless each selected assessment is `CURRENT_REVIEWED`. A recorded `REVIEWED` label alone is never present-day readiness.
+`--assessment <id>` restricts the report. `--require-current-reviewed` exits 0 only when the selection is nonempty and every selected assessment is `CURRENT_REVIEWED`, and records `current_reviewed_certified` in its output; an empty selection, including an empty registry, exits 1 and never certifies readiness. Unknown IDs and historical-validity failures exit 2. A recorded `REVIEWED` label alone is never present-day readiness.
 
 ## Inputs and Git-derived work discovery
 
@@ -70,7 +70,7 @@ The queue is keyed by exact `analysis_subject_id`; each subject appears once wit
 2. `REASSESSMENT_NEEDED`: an included subject whose assessments are all historical.
 3. `NEWLY_ELIGIBLE`: an `INCLUDED` subject enrolled since the checkpoint.
 4. `BACKFILL_UNASSESSED`: any other eligible subject without an assessment.
-5. `DEFERRED_EVIDENCE_CHANGED`: a subject the evaluator deferred whose discovery scope, coverage, curation, or reviewed-evidence membership has since changed.
+5. `DEFERRED_EVIDENCE_CHANGED`: a subject the evaluator deferred whose discovery scope, coverage, curation, or reviewed-evidence membership has since changed, or whose reviewed evidence bytes or authority classification changed without a discovery edit. `--deferred` requires `--since`; only the deferred subjects' reviewed evidence paths are compared, at the cost of one checkpoint snapshot.
 
 Currentness reasons cover subject absence, scope, curation and coverage changes, reviewed-evidence membership, evidence location and anchors, referenced bytes, and authority or supersession state. A change to an unrelated file never creates work. Discovery records are the only source of eligibility; prominence, appearance frequency, or the existence of a monograph is never treated as readiness.
 

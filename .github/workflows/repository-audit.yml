@@ -78,6 +78,9 @@ jobs:
           if [[ "${AUDIT_EVENT}" = "push" && "${AUDIT_BRANCH}" =~ ^(series|studies)/[a-z0-9][a-z0-9-]*$ ]]; then
             audit_args+=(--routing-preflight "${AUDIT_BRANCH}")
           fi
+          if [[ "${AUDIT_BRANCH}" = "character-registry" && "${AUDIT_EVENT}" != "repository_dispatch" ]]; then
+            audit_args+=(--discovery-branch-confinement)
+          fi
           python tools/validate_repository.py "${audit_args[@]}"
           mkdir -p "${MANGA_ANIME_TEST_TMP}"
           python tools/audit_execution.py --snapshot commit --commit "${AUDIT_COMMIT}" --base "${AUDIT_BASE}" --profile "${REGRESSION_PROFILE}" --report-json "${RUNNER_TEMP}/test-timings.json"

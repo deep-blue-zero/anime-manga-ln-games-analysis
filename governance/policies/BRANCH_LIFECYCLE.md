@@ -16,7 +16,7 @@ These branches may remain while their named corpus is actively receiving work. I
 
 The sole character curation agent uses the exact reusable `character-registry` branch for recurring two-file discovery updates and at most one open PR to `main`. This is an explicit continuing-branch exception to the temporary cross-cutting convention. Retain it while active; recreate it from current `main` after any verified automatic deletion. Reconcile without force-pushing or rewriting history.
 
-Follow `CHARACTER_DISCOVERY_MAINTENANCE.md` for semantic review, exact-head audits, protected automatic integration, and cloud checkpoints. Ordinary curation PRs contain only `characters/registry.jsonl` and `CHARACTER_ANALYSIS_INDEX.md`. Pre-merge evidence repairs are agent-authored on the exact source branch and integrated by the owner/source task as a combined validated change; this does not grant the daily agent authority to merge analysis.
+Follow `CHARACTER_DISCOVERY_MAINTENANCE.md` for semantic review, exact-head audits, protected automatic integration, and cloud checkpoints. Ordinary curation PRs contain only `characters/registry.jsonl` and `CHARACTER_ANALYSIS_INDEX.md`; audits of `character-registry` reject any other path changed against `main`. Pre-merge evidence repairs are agent-authored on the exact source branch and integrated by the owner/source task as a combined validated change; this does not grant the daily agent authority to merge analysis.
 
 ## Continuing reconstruction evaluation
 
