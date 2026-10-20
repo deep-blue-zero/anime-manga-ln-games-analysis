@@ -5,7 +5,7 @@ artifact_type: character_development_readiness_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.9"
+version: "0.10"
 status: active_provisional
 scope: "Character Development and Readiness; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -361,3 +361,29 @@ No material new Tōji inner-state evidence after V08: background/looking-away do
 | PG-CS-0122@1 / CHAR0001 / CS0119 | KNOWLEDGE/CHOICE: completes form164, recognizes repeated gifts/refuses necklace165, alarm/recalls warning166, pushes away167/declares leaving168, held against will169/distressed170 | EV0039–0043; CL0017@7/0020@5. New confirmed danger not her earlier knowledge; refusal and escape initiative actual, final outcome unresolved |
 
 Misao absent as present actor; remembered praise/necklace reports do not establish a new preference. Aki no independent inner access. No fan-trio/earlier model promotion. Next CHAR0023, CS0123, RD0001. Revision0.9 — V10 successors2026-10-20; prior rows and full prior body preserved.
+
+## V11 successor transaction — PG-FR-V11
+
+[V11 reading](../02%20Sequential%20Readings/PEACH_GIRL_V11_DEEP_READING.md);175 inspected/159 mainline. EV=PG-EV-V11, CHAR=PG-CHAR. Direct acts/speech HIGH, attributed history and motive limited as stated. No new securely named subject, RD or operational model. Readiness UNASSESSED_NO_OPERATIONAL_MODEL_TESTED.
+
+| State / subject / prior | Actual transition/frontier | Basis / limit |
+| --- | --- | --- |
+| PG-CS-0123@1 / CHAR0001 / CS0122 | CHOICE/CONTEXT: repeated no, failed first escape7–10, forced kiss16, writing-implement self-defense18/self-escape20, fear killed brother22 | EV0002–0004; CL0017@8. Her agency material, harm real; no knife subtype/death fact or Kairi-interrupted rescue |
+| PG-CS-0124@1 / CHAR0020 / CS0120 | CHOICE: continued forced contact/locked exit, injured18–19, alive24; falsely reverses roles to Sae25, accepts help/hospital43 | EV0002–0005/0010; CL0027@2. Minor wound not death, counterstory contradicted by depiction; not Momo/Kairi receipt |
+| PG-CS-0125@1 / CHAR0004 / CS0121 | CHOICE/KNOWLEDGE: meets Momo AFTER escape21, supports her chosen return26/empty room27, no-fault attacker-blame32, reports prior whisper35; kiss then hotel pitch42 | EV0004/0006–0009; CL0006@11/0017@8. Actual comfort not original rescue success; renewed pitch not no-fault care erased |
+| PG-CS-0126@1 / CHAR0001 / CS0123 | KNOWLEDGE/REFLECTION: repeated-assault self-blame32 countered; learns whisper35, finally relays Morika genealogy36, recognizes kinship/future-Kairi trust38; love relief41 | EV0006–0009; CL0013@7/0020@6/0025@3. Kairi competing account not all past verified; no permanent cure |
+| PG-CS-0127@1 / CHAR0003 / CS0118 | KNOWLEDGE/CHOICE: receives false reversed-assault account25/believes/helps hospital, accepts cross44, long-night/both-boyfriends claim55–58, canceled-date report99/threat100 | EV0005/0010/0013/0023; CL0002@10/0027@2. Aid actual, prior sex only attributed, Tōji agreement/breakup unshown |
+| PG-CS-0128@1 / CHAR0001 / CS0126 | CHOICE/REFLECTION: not ready visit51 refusal heeded, only Kairi58 yet concern Tōji59–62 prompts accompany; self-analogy to Tōji67 | EV0012–0015; CL0013@7. Not romantic re-choice or duty forgive ex; self-critique not objective equivalence |
+| PG-CS-0129@1 / CHAR0020 / CS0124 | CHOICE/STATEMENT: call-as-test excuse47, minimizing apology72/claimed Sae sex73, scenarios boast74, cruelty-as-affection75, true-beloved rule77/80, feigned pain/disarms82/card83 | EV0012/0016–0019; CL0027@2/0028@1. Fabrication strongly acknowledged, not every Aki detail independently false; no mental diagnosis |
+| PG-CS-0130@1 / CHAR0001 / CS0128 | CHOICE/KNOWLEDGE: spray raised/distance70–71, demands stop Sae73, calls Kairi79; hears not true beloved80/unspecified he-still81, crumples card89/generic love question91 | EV0016–0021; CL0020@6/0028@1. Spray floor beside toilet82, recovered84; precise Ryo claim not relayed to Kairi |
+| PG-CS-0131@1 / CHAR0005 / CS0096 | CHOICE/CONTEXT: Misao tea/care93–94, necklace tutoring farewell97, defends Ryo96 without receiving Momo assault; shock Sae/Ryo102, warns Tōji no overdo105 | EV0022–0023; CL0026@2. Warm care/partisan loyalty, not full informed assault denial or mutual romance proof |
+| PG-CS-0132@1 / CHAR0002 / CS0111 | KNOWLEDGE/CHOICE: enters100/asks who Ryo101, Sae evades, says not break up for this104/okay105 | EV0023; CL0015@6 unchanged. Name learned, not full sex/assault receipt or happy reciprocal love |
+| PG-CS-0133@1 / CHAR0004 / CS0125 | CHOICE/REFLECTION: love assurance91, seminar suspicion107, house invitation110, own brother-competition insecurity116/truly wanted unavailable117 | EV0021/0024–0026; CL0006@11. No identity specified117 or actual affair; invitation not sexual contract |
+| PG-CS-0134@1 / CHAR0001 / CS0130 | CHOICE/AFFECT: accepts house refuge, current specific willingness119/revises setting120/direct love121, chosen intimacy123 | EV0025–0027; CL0013@7/0017@8. No completed intercourse, no blanket permanent permission/clinical cure |
+| PG-CS-0135@1 / CHAR0004 / CS0133 | CHOICE: halts124/gets up125/cannot126/not her fault128; later repeated avoidance133–135/denial137/errand excuses138/144 | EV0028–0031; CL0006@11/0028@1. Own right to stop valid; avoidance real, stopping cause not medically diagnosed |
+| PG-CS-0136@1 / CHAR0001 / CS0134 | AFFECT/CHOICE: hurt/pillow130, hopeful alternative from torn card131, confronts avoidance136, swimming/club advice143, flowering-quince lonely love146, seeks Misao consult148 | EV0029–0032; CL0013@7/0028@1. Figurative embarrassment not death plan, unnamed seniors not Tōji/Sae, advice not clinical fact |
+| PG-CS-0137@1 / CHAR0005 / CS0131 | CHOICE/STATEMENT: invites Momo home148/tea149/album permission150, summer-trip/tutor-name account153, recurring Kairi visitor/family-like explanation155–158 | EV0032–0034; CL0026@2. Actual support/visits, no mutual romantic or sexual relationship established; outside confession not received |
+| PG-CS-0138@1 / CHAR0001 / CS0136 | KNOWLEDGE/CHOICE: album154 identifies handbook woman Misao, sees Kairi156, asks outside159–163; receives frequent-visit nod159 and still-love-Misao yes164/apology165 | EV0033–0036; CL0025@3/0028@1. New actual knowledge now; no explicit breakup or all history/precise stop cause solved |
+| PG-CS-0139@1 / CHAR0004 / CS0135 | REVEALED_NOT_NEW/CHOICE: arrives Misao home156, silence then outside nod frequent visits159, affirms still loves Misao164/apologizes165 | EV0034–0036; CL0006@11/0025@3/0028@1. Present attachment admitted, onset not newly created164, no exclusivity/full conscious fraud or Misao reciprocity proved |
+
+CHAR0005 Misao identity verified against existing cast before closure. No new actor ID for unnamed club pair. Aki remains reported/unverified, no death/existence adjudication by absence; Morika only phone report, no new stable inner-state row. Next CHAR0023, CS0140, RD0001. Revision0.10 — V11 successors2026-10-20, prior full body/rows retained.

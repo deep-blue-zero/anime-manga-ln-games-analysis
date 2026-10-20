@@ -5,7 +5,7 @@ artifact_type: claims_predictions_revisions_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.9"
+version: "0.10"
 status: active_provisional
 scope: "Claims, Predictions and Revisions; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -132,32 +132,33 @@ Bootstrap source-derived claims, forecasts, revisions and current-index rows: **
 | Claim | Active version / cutoff | Latest revision | Unresolved evidence or propagation debt |
 | --- | --- | --- | --- |
 | PG-CL-0001 | @4 / V09 | PG-RV-0054 | Skin and bodily-access rivalry recur; Momo resists but self-assurance qualified |
-| PG-CL-0002 | @9 / V10 | PG-RV-0060 | Sae professional frustration, monitoring distress and tears complicate possession motives |
+| PG-CL-0002 | @10 / V11 | PG-RV-0067 | Sae real aid under false counterstory, new boyfriend status and canceled-date anger complicate motive |
 | PG-CL-0003 | @10 / V10 | PG-RV-0061 | Renewed taunts and reversed hotel slander coexist with actual emotion |
 | PG-CL-0004 | @2 / V02 | PG-RV-0003 | Authorship disclosure |
 | PG-CL-0005 | @8 / V08 | PG-RV-0046 | Explicit private protective account, actual rejection and limited attempted care |
-| PG-CL-0006 | @10 / V10 | PG-RV-0062 | Costly gift care and correct fraud concern coexist with hotel trick, violence and control |
+| PG-CL-0006 | @11 / V11 | PG-RV-0068 | Kairi late care/valid withdrawal, actual avoidance and admitted Misao love coexist |
 | PG-CL-0007 | @1 / V01 | — | Flashback |
 | PG-CL-0008 | @2 / V03 | PG-RV-0006 | — |
 | PG-CL-0009 | @1 / V02 | — | Context disclosure |
 | PG-CL-0010 | @1 / V02 | — | Organizer confirmation |
 | PG-CL-0011 | @1 / V02 | — | Further disbelief cases |
 | PG-CL-0012 | @2 / V04 | PG-RV-0012 | — |
-| PG-CL-0013 | @6 / V10 | PG-RV-0063 | Momo attraction and compassionate hug coexist with explicit Kairi priority and bounded refusals |
+| PG-CL-0013 | @7 / V11 | PG-RV-0069 | Momo self-rescue, explicit chosen love/permission, hurt and active inquiry remain distinct |
 | PG-CL-0014 | @1 / V03 | — | — |
 | PG-CL-0015 | @6 / V08 | PG-RV-0049 | Enacted separation leaves love/grief; new support negotiated without false certainty |
 | PG-CL-0016 | @1 / V04 | — | Sincerity of relief |
-| PG-CL-0017 | @7 / V10 | PG-RV-0064 | Specific hug permission does not authorize imposed gift, assault or blocked exit |
+| PG-CL-0017 | @8 / V11 | PG-RV-0070 | Overridden exit/self-escape, specific chosen willingness and Kairi valid stop have different consent states |
 | PG-CL-0018 | @3 / V06 | PG-RV-0034 | Dissonance then truth/disillusionment; own act unresolved |
 | PG-CL-0019 | @3 / V08 | PG-RV-0051 | Broken/kept bottle carries remembered love despite steered selection history |
-| PG-CL-0020 | @5 / V10 | PG-RV-0065 | Surname, call identity, confidence and withheld whisper create differentiated knowledge frontiers |
+| PG-CL-0020 | @6 / V11 | PG-RV-0071 | Inverse counterstory, delayed whisper/genealogy relay, withheld allegation and album/affirmation frontiers |
 | PG-CL-0021 | @2 / V07 | PG-RV-0043 | Momo revises revenge and rescues; actual Sae reform contradicted |
 | PG-CL-0022 | @1 / V07 | — | Aid and disengagement coexist without forgiveness/innocence retroactively |
 | PG-CL-0023 | @2 / V08 | PG-RV-0053 | Private explanation corroborates protective reason, not exclusive strategy or canceled injury |
 | PG-CL-0024 | @1 / V08 | — | Loss combines unverified care assumptions and distinct deliberate diversions, no proved conspiracy |
-| PG-CL-0025 | @2 / V10 | PG-RV-0066 | Competing brother histories remain attributed; current identity fraud independently supports concern |
-| PG-CL-0026 | @1 / V09 | — | Misao actual care operates within confidence, personal attachment and partisan loyalties |
-| PG-CL-0027 | @1 / V10 | — | Ryo recruits credibility through recognition, attributed protective history and limited requests while actual fraud/force contradict integrity |
+| PG-CL-0025 | @3 / V11 | PG-RV-0072 | Current Kairi Misao attachment directly admitted, complete brother histories/reciprocity still limited |
+| PG-CL-0026 | @2 / V11 | PG-RV-0073 | Misao care and personal defense operate with actual assault nondisclosure and family-like account |
+| PG-CL-0027 | @2 / V11 | PG-RV-0074 | Ryo inverse victim story/test excuse/scenario boast and tailored doubt continue credibility manipulation |
+| PG-CL-0028 | @1 / V11 | — | Chosen intimacy and a valid stop leave motive open; avoidance and later Misao-love admission narrow attachment without proving a bodily rule |
 
 Revision history: 0.1 — bootstrap schema, zero rows, 2026-10-16 UTC. 0.2 — V01 transaction rows appended (frontier PG-FR-V01), 2026-10-16 UTC. V02 transaction rows appended and forecast statuses adjudicated (frontier PG-FR-V02), 2026-10-16 UTC. V03 rows, revisions and adjudications appended (frontier PG-FR-V03), 2026-10-17 UTC. V04 rows, revisions and adjudications appended (frontier PG-FR-V04), 2026-10-17 UTC.
 
@@ -429,3 +430,43 @@ These are new V10 developments and revelations, not hidden repairs to V09. Provi
 | PG-PR-0015 / PG-FR-V10 | V11 mainline depicts Kairi physically reaching the conference-room encounter and directly interrupting Ryo's forced contact or prevention of Momo departure, by action or speech at the encounter. Corridor running alone, inferred off-panel rescue or a later report without depicted intervention insufficient. DISCONFIRMED if no qualifying depicted direct intervention anywhere V11 mainline. OPEN | Basis EV0038–0039/0042–0043, active corridor/danger cutoff. Alternatives Momo escapes herself, another actor intervenes, delayed/report-only resolution. No predicted complete safety, reconciliation or exact method; future publisher collages exposed, V11 mainline unopened |
 
 No material new version CL0001 skin rhetoric (Sae modeling self-rank not sufficient new skin mechanism); CL0004 older authorship; CL0005/0023 earlier Tōji concealment; CL0007 CPR; CL0008–0012/0014 prior-event claims; CL0015 ended Tōji relation/current concern not re-choice; CL0016/0018–0019/0021–0024 older relief/missing-act/scent/failed lesson/rescue/V08 distinct causes; CL0026 Misao situated care absent new present act. No new data backdated. Next CL0028, PR0016, RV0067. Revision0.9 — V10 seven revised claims/one new claim2026-10-20.
+
+## V11 successor transaction — PG-FR-V11
+
+[V11 reading](../02%20Sequential%20Readings/PEACH_GIRL_V11_DEEP_READING.md); owner date2026-10-20, EV=PG-EV-V11. All175 inspected/159 mainline before closure. Old versions/forecast wording and all prior frozen readings retained; current-index/front version only altered in old body. New knowledge not backdated.
+
+| Claim version | Scoped formulation/class/support | Counterevidence/confidence/discriminator | Dependencies |
+| --- | --- | --- | --- |
+| PG-CL-0002@10 | Sae helps conscious injured Ryo25 under false counterstory, accepts cross44/new-status insinuation55, claims two men58 and anger at cancellation99/threat100 / STRONGLY_SUPPORTED_INTERPRETATION / EV0005/0010/0013/0023 | Aid/desire/disappointment actual, not every emotion fake; no verified sex/reciprocal boyfriend contract/Tōji assent. Earlier harmful acts not erased. HIGH acts/statements, MODERATE motive weights; informed future response/actual choice discriminates | CS0127; RL0143–0144; IP0121/0125/0130; PG-FR-V11 |
+| PG-CL-0006@11 | Kairi meets Momo AFTER self-escape21, provides explicit no-fault care32/spray49, respects visit refusal51; affirms love91, initiates then stops126, later avoids/denies133–144 and admits still loves Misao164 / STRONGLY_SUPPORTED_INTERPRETATION / EV0004/0006/0009/0012/0021/0025–0036 | Care real, late approach not direct-interruption success. Own stopping valid, avoidance harmful; current Misao love does not prove every Momo care false/exclusivity/precise cause. HIGH acts/speech, UNKNOWN complete motive; substantive explanation needed | CS0125/0133/0135/0139; RL0140/0148/0153–0154; CM0090–0096; CL0028@1; PG-FR-V11 |
+| PG-CL-0013@7 | Momo active self-defense/escape18–20, relational-kinship trust reflection38, only Kairi58, chosen willingness119/setting revision120/direct love121; hurt and active inquiry after stop through164 / STRONGLY_SUPPORTED_INTERPRETATION / EV0004/0008/0013/0026–0036 | Not mere comfort dependency/passive rescue or permanent consent; self-blame/physical anger/false hopes retained as situated acts, concern Tōji not romantic re-choice. HIGH current reflection/choices, not guaranteed lasting partner. Later informed choices discriminate | CS0123/0126/0128/0130/0134/0136/0138; RL0139/0141/0146/0149/0152; PG-FR-V11 |
+| PG-CL-0017@8 | Ryo overrides repeated no/exit/forces kiss, Momo self-defends/escapes; later her specific willing yes119–121 differs Kairi stop126, which neither she nor his earlier advances invalidate / STRONGLY_SUPPORTED_INTERPRETATION / EV0002–0004/0012/0016–0018/0026–0028 | Self-blame15/32 not responsibility for attacker; affection/relief not blanket permission. Kairi own refusal legitimate, her hurt also real; no completed intercourse/clinical cure. HIGH direct choices, no universal bodily truth rule | CS0123/0130/0134–0135; RL0138–0140/0148–0149; CM0088/0091–0096; IP0131; PG-FR-V11 |
+| PG-CL-0020@6 | Reader sees self-escape before false Sae counterstory25; Momo learns whisper35/actually relays genealogy36, withholds precise true-beloved claim91/actual assault96; album154 and direct yes164 give new attachment knowledge / STRONGLY_SUPPORTED_INTERPRETATION / EV0004–0008/0018–0023/0033–0036 | No reader omniscience over every past/inner cause. Misao defense under partial knowledge not knowingly condoning fully disclosed attack; Tōji name receipt101 not full sexual knowledge. HIGH temporal access; actual future disclosures discriminate | IP0119–0134; KN0129–0146; TX0145–0168; RP0049–0053; PG-FR-V11 |
+| PG-CL-0025@3 | Kairi report35 corroborates narrower current sexual-access threat, Momo genealogy actually received36 remains contested; album154 identifies Misao, current Kairi love for her explicitly admitted164 / ESTABLISHED statements/photo identification + STRONGLY_SUPPORTED continuing attachment / EV0007–0008/0033–0036 | Not all disputed Morika/brother histories solved; photo and confession not mutual Misao love/affair. Momo-only-substitute theory not exhaustive confirmed motive, prior care counterevidence. HIGH specific current evidence; independent past/reciprocal disclosure required | CS0126/0138–0139; RL0147/0152–0155; IP0122–0123/0133–0134; CL0028@1; PG-FR-V11 |
+| PG-CL-0026@2 | Misao offers tea/private home/album support while defending Ryo96–97 without receiving Momo actual assault; family-like Kairi explanation158 and old tutor-name habit153 contextualize access / STRONGLY_SUPPORTED_INTERPRETATION / EV0022–0023/0032–0034 | Real care counters false-caregiver account, personal stake/partial knowledge counter neutral omniscient counselor. No actual clinical diagnosis of Kairi or confirmed mutual romantic feelings. HIGH conduct/statements, MODERATE allegiance weights; informed response to full disclosure still untested | CS0131/0137; RL0150–0151/0155; IP0129; KN0137/0145; TX0157/0166–0167; PG-FR-V11 |
+| PG-CL-0027@2 | Ryo continues credibility manipulation after assault: false reversed victim story25, call-as-test excuse47, minimizing apology72, scenarios boast74, tailored true-beloved allegation80 and disarming distraction82 / STRONGLY_SUPPORTED_INTERPRETATION / EV0002–0005/0012/0016–0019 | Scenarios acknowledgment strongly undermines histories, not independent every-Aki-detail negation. He may name part of attachment accurately (Kairi164) without validating rule/excuses or exonerating force. HIGH current sequence, MODERATE comprehensive motive; exact past/business remains unresolved | CS0124/0129; RL0138/0142; IP0121/0124/0126–0128; TX0147/0151/0153–0154; RP0049–0051; PG-FR-V11 |
+| PG-CL-0028@1 | Momo chosen desire119–121 and Kairi valid stop126 leave cause unknown; repeated avoidance133–144 is depicted, album154 and his yes164 establish continuing Misao attachment but not the cannot-touch rule or exact reason he stopped / STRONGLY_SUPPORTED_INTERPRETATION / EV0026–0036 | Strong alternative unresolved Misao love contributes to stopping; competing embarrassment/performance/treasuring-Momo theories arise from characters, not diagnoses. Current care91 and real withdrawal counter all-fraud certainty; no consummation/reciprocity/breakup fact. HIGH events/attachment, UNKNOWN full mechanism; substantive Kairi explanation and observed choices needed | CS0134–0139; RL0148–0149/0152–0155; CM0095–0098; IP0127/0131–0134; KN0141–0146; PG-FR-V11 |
+
+| Revision / prior | Transition | New basis/propagation |
+| --- | --- | --- |
+| PG-RV-0067 / RV0060 | CL0002@9 → @10 / REVISE | Sae aid under inverse story/new status/canceled-date emotion, CS0127/RL0143–0144; motive plurality retained |
+| PG-RV-0068 / RV0062 | CL0006@10 → @11 / REVISE | Late care, valid stop, actual avoidance and Misao yes; CS0125/0135/0139/RL0153–0154, no all-fraud collapse |
+| PG-RV-0069 / RV0063 | CL0013@6 → @7 / STRENGTHEN | Self-rescue/current explicit love and specific willingness/hurt/inquiry; CS0123/0134/0138 |
+| PG-RV-0070 / RV0064 | CL0017@7 → @8 / STRENGTHEN | Self-defense escape versus specific chosen permission and his valid withdrawal, CM0088/0095–0096 |
+| PG-RV-0071 / RV0065 | CL0020@5 → @6 / STRENGTHEN | Inverse story/late whisper/genealogy/nondisclosures/photo/yes, KN0129–0146/TX0145–0168 |
+| PG-RV-0072 / RV0066 | CL0025@2 → @3 / REVISE | Album/own yes settle current attachment, complete past and reciprocity remain limited; IP0133–0134/RL0154 |
+| PG-RV-0073 / NONE | CL0026@1 → @2 / STRENGTHEN | Care and personal defense with actual assault withheld, family/tutor account, CS0131/0137 |
+| PG-RV-0074 / NONE | CL0027@1 → @2 / STRENGTHEN | False inverse victim account/test excuse/scenario boast/tailored doubt and distraction; CS0124/0129/IP0121/0124/0126–0128 |
+
+No retrospective change to old freezes. Source-only draft identity/predecessor guesses corrected before canonical transaction: Misao CHAR0005, Kairi→Misao priorRL0108, Misao→Kairi priorRL0107; original82 floor not toilet bowl,102 Sae/Ryo question,122 love speaker qualified. These are not hidden repairs to a committed earlier reading.
+
+| Forecast adjudication / original retained | Original test / actual whole-window check | Disposition |
+| --- | --- | --- |
+| PG-PR-0015@2 / PR0015 implicit@1 PG-FR-V10 | V11 depicted Kairi direct interruption at conference-room forced-contact/blocked-exit encounter; Momo self-escapes20, Kairi outside21/empty room27. Separate washroom arrival84 also after Ryo, not test substitution. EV0004/0006/0018; all159 mainline inspected | DISCONFIRMED PG-FR-V11. Care/attempted approach true, original test unchanged; no broadened late-comfort success |
+| Earlier tests | Prior supported/mixed/disconfirmed/NOT_TESTED windows remain exactly historical | No renewed windows or converted missing-data support |
+
+| New forecast / first freeze | Exact prospective test/status | Basis/alternatives/exposure |
+| --- | --- | --- |
+| PG-PR-0016 / PG-FR-V11 | V12 mainline depicts Kairi directly telling Momo a substantive reason for his stopping the V11 bedroom encounter OR his subsequent repeated avoidance. Merely repeating he still loves Misao/yes/sorry without linking a reason to either conduct is insufficient. Report counts as an explanation uttered, not proof truthful/complete. DISCONFIRMED if no qualifying direct explanation anywhere V12 mainline. OPEN | Basis EV0028/0030–0031/0035–0036: stopped/cannot, repeated deferral, now explicit question and attachment admission. Alternatives continued refusal/silence, third-party theory or later report without direct exchange. No predicted exclusive choice/reunion/sex or diagnostic cause. Publisher collages exposed, V12 mainline unopened |
+
+No material new versions CL0001 appearance mechanism; CL0003 older Sae schemes (new false story is Ryo, do not misattribute); CL0004 old authorship/0007 CPR; CL0005/0008–0012/0014–0016 older states/lessons; CL0018–0019/0021–0024 earlier missing-act/scent/rescue/blackmail/V08 causes. Momo self-analogy67 not silent Tōji accountability rewrite. Next CL0029, PR0017, RV0075. Revision0.10 — V11 eight revised claims/newCL0028, failedPR0015 retained,2026-10-20.

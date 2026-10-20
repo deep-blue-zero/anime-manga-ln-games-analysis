@@ -5,7 +5,7 @@ artifact_type: relationship_commitment_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.9"
+version: "0.10"
 status: active_provisional
 scope: "Directional Relationships and Commitments; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -438,3 +438,44 @@ Current dating supported in V09, not rewritten V08 pact. No automatic cancellati
 | PG-CM-0087 / CM0081 limited earlier | Momo167 pushes away/168 leaving, Ryo grabs/pins/refuses let leave169 | EV0042; EXPLICIT_EXIT_OVERRIDDEN/SEXUAL_ASSAULT, earlier permitted hug not authorization, no completed further act/result yet |
 
 No actual Tōji/Sae breakup or Momo/Ryo couple agreement. No Momo/Sae forgiveness. Next RL0138, CM0088. Revision0.9 — V10 successors2026-10-20; all prior rows retained.
+
+## V11 successor transaction — PG-FR-V11
+
+[V11 reading](../02%20Sequential%20Readings/PEACH_GIRL_V11_DEEP_READING.md); EV=PG-EV-V11. Directions remain distinct; one speaker/visit does not establish reciprocity. Historical commitments and refusals retained.
+
+| Direction / prior | From → to / actual transition | Evidence / limit |
+| --- | --- | --- |
+| PG-RL-0138 / RL0136 | Ryo → Momo / repeated refusal overridden/forced kiss16, injured self-defense18; later minimizing apology/true-beloved allegation/disarming82 | EV0002–0004/0016–0018; assault actual, no consent from former hug/form, no global truth status for speech |
+| PG-RL-0139 / RL0132 | Momo → Ryo / no/escape/self-defense/leave20; responsible injury worry26, later spray boundary/demand leave Sae73/call79 | EV0002–0004/0006/0016–0018; self-rescue actual, concern not renewed physical/romantic consent |
+| PG-RL-0140 / RL0137 | Kairi → Momo / receives outside21, accompanies chosen return/comfort/no-fault32, kiss40; pitch42, spray49, accepts visit refusal51 | EV0004/0006–0012; substantial care, original PR0015 intervention not achieved |
+| PG-RL-0141 / RL0135 | Momo → Kairi / fear/embrace21, discloses harm30/own self-blame32/cross/past36, recognizes kinship confidence38/love41 | EV0004/0006–0009; actual new shared facts, not complete past agreement |
+| PG-RL-0142 / RL0134 | Ryo → Sae / false victim story25, hospital compliment/cross44, later claims slept once73 and promised Momo stop her | EV0005/0010/0016; gift actual, sex/cancellation attributed, no mutual commitment fidelity proof |
+| PG-RL-0143 / NONE | Sae → Ryo / believes counterstory/apologizes/helps hospital25, accepts cross44, boyfriend/long-night boast55, angry canceled-date report99/threat100 | EV0005/0010/0013/0023; not informed assault vindication or entire emotion fake |
+| PG-RL-0144 / RL0124 | Sae → Tōji / fed up/return him57, date two men58, evades who-Ryo101 | EV0013/0023; no actual mutual breakup/nonexclusive consent or Tōji return to Momo |
+| PG-RL-0145 / RL0123 | Tōji → Sae / asks name101, declines breakup over this104, says okay to Misao105 | EV0023; continued decision, not full sex/assault knowledge or proven reciprocal romance |
+| PG-RL-0146 / RL0098 | Momo → Tōji / concern59–62 despite explicit only-Kairi58; consoles103/imagines independent couple-time105 | EV0013–0014/0023; care not romantic re-choice, projection fallible |
+| PG-RL-0147 / RL0128 | Kairi → Ryo / demands apology in reported call47, company search/concern, passes departing brother84, cannot find89 | EV0012/0015/0018–0021; present suspicion warranted, not exhaustive past truth |
+| PG-RL-0148 / RL0140 | Kairi → Momo / affirms love91, house refuge110, insecure self-account116, initiation/pauses for willingness119, stops126/not her fault128 | EV0021/0025–0028; current care/desire and withdrawal distinct; neither consent nor previous pursuit obligates completion |
+| PG-RL-0149 / RL0141 | Momo → Kairi / precise fear withheld91, explicit current permission119/direct love121, hurt130 yet sympathetic alternative131 | EV0021/0026–0029; no completed sex/blanket consent, competing motive theory not fact |
+| PG-RL-0150 / RL0106 | Misao → Momo / tea/listening93–97, invites private home consult148, album permission150 | EV0022/0032–0033; meaningful care, assault not disclosed96, no clinical stopping-cause diagnosis |
+| PG-RL-0151 / RL0109 | Misao → Ryo / necklace farewell account97, defends against Kairi allegations96 | EV0022; personal loyalty actual, no established sexual/romantic reciprocity or informed denial of Momo assault |
+| PG-RL-0152 / RL0149 | Momo → Kairi / confronts repeated avoidance136, seeks advice143/148, album identification154, asks frequent visits/uncorrected photo/continued love159–163 | EV0030–0035; active inquiry, no prior secure Misao knowledge or explicit breakup |
+| PG-RL-0153 / RL0148 | Kairi → Momo / repeated avoidance/denial/excuses133–144, surprised at home156, outside admits frequent visits159 and continuing Misao love164/apologizes165 | EV0030–0031/0034–0036; omission harms her, no explicit all-care-fraud admission or reason for physical stop |
+| PG-RL-0154 / RL0108 | Kairi → Misao / actual home visit156, frequent visits admitted159, direct still-love affirmation164 | EV0034–0036; strongest current attachment evidence, not newly begun164, no mutual relationship proof |
+| PG-RL-0155 / RL0107 | Misao → Kairi / tutor-name habit153, recurrent food visit155, family-like account158 | EV0033–0034; actual familiar access, no demonstrated reciprocated romantic love; outside confession not shown heard |
+
+| Commitment / prior | Actual terms and disposition | Evidence / limit |
+| --- | --- | --- |
+| PG-CM-0088 / CM0087 | Momo repeats no/tries leave, Ryo locks/recaptures/forces kiss; self-defense18/self-escape20 | EV0002–0004; EXIT_REFUSAL_OVERRIDDEN_THEN_SELF_ESCAPED, no Kairi encounter interruption |
+| PG-CM-0089 / CM0086 | Momo asks Kairi return imposed cross33 | EV0007; RETURN_REQUEST, actual handback not shown |
+| PG-CM-0090 / NONE | Kairi no-fault reassurance32/unlike brother39, hotel pitch42 rejected by punch | EV0006/0009; CARE_AND_SPECIFIC_LIMIT, no universal reform/sex agreement |
+| PG-CM-0091 / NONE | Kairi spray gift49, company visit invite50/Momo not ready51/he okay | EV0012; SPECIFIC_REFUSAL_HEEDED, she later independently changes choice60 |
+| PG-CM-0092 / NONE | Momo demands Ryo stop Sae73 under spray threat/he agrees | EV0016/0023; PROMISE_ATTRIBUTED_CANCELLATION_LATER99, not proven permanent reform |
+| PG-CM-0093 / NONE | Momo explicit call Kairi79 women washroom/with Ryo/come; Kairi coming, arrives84 after departure | EV0018–0019; ACTUAL_REQUEST_RECEIVED_LATE_ARRIVAL, no encounter interruption |
+| PG-CM-0094 / CM0075 | Proposed trip remains114–115, she says not cancel; revises earlier first-memory setting requirement120 | EV0025–0026; NO_BOOKING_OR_COMPLETED_TRIP, own changed criterion not prior blanket yes |
+| PG-CM-0095 / NONE | Momo if Kairi okay119/current chosen willingness120–121 | EV0026–0027; SPECIFIC_CURRENT_PERMISSION, no completed sex/irreversible assent |
+| PG-CM-0096 / CM0095 only relevant setting | Kairi stops124/cannot126/not her fault128 | EV0028; WITHDRAWAL_VALID, no duty continue, no medical cause established |
+| PG-CM-0097 / NONE | Momo walk-home invite137/parent errand refusal138;4pm committee144 urgent errand/later talk | EV0030–0031; REPEATED_DEFERRAL_TASK_UNVERIFIED, actual Misao visit later156 not automatic full errand history |
+| PG-CM-0098 / NONE | Momo private consult request148/Misao home invitation; album request150/Misao permission | EV0032–0033; HOME_AND_ALBUM_PERMISSION_ACTUAL, no guarantee desired counseling outcome |
+
+No actual Momo/Kairi breakup by165, no Tōji/Sae agreed nonexclusivity, no Misao sexual/romantic pact. Kairi→Misao follows verified RL0108, Misao→Kairi follows RL0107; no invented reciprocity. Next RL0156, CM0099. Revision0.10 — V11 successors2026-10-20, old rows/full body preserved.
