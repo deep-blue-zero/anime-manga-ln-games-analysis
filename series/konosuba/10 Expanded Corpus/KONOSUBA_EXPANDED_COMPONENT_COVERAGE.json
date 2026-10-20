@@ -1,7 +1,7 @@
 {
   "schema": "KONOSUBA_STAGE_C_COMPONENT_COVERAGE_V1",
   "status": "ACTIVE_NOT_COMPLETE",
-  "updated_utc": "2026-10-19T21:48:03.016912+00:00",
+  "updated_utc": "2026-10-19T22:02:58.451130+00:00",
   "fixed41_identity_seal": "fe59ede667ed3532f9cd0e62fdd650655d029c191fd3bd95df84ab404f2f56c5",
   "coverage_denominator_state": "FULL_ADMITTED_NARRATIVE_COMPONENT_DENOMINATOR_NOT_YET_RESOLVED",
   "expanded_narrative_completion_percentage": null,
@@ -1991,11 +1991,11 @@
       "source_id": "MAIN-17",
       "native_sha256": "5a7864c555955fc1536091c3ced10114b9cd521883236a2d016b074cafc1819c",
       "structural_inspection": "ALL41_NATIVE_ZIP_OPF_SPINE_NAV_XHTML_AND_IMAGE_METADATA_INSPECTED_POST_GATE; NOT_SEMANTIC_COMPLETION",
-      "stage_C_status": "MAIN_EXCLUDED_COMPONENT_ANALYSIS_ACCEPTED_WITH_EXACT_RETAINED_PRINCIPAL_AUTHORITY_CONTAINING_PUBLICATION_PENDING",
+      "stage_C_status": "MAIN_EXCLUDED_COMPONENT_ANALYSIS_ACCEPTED_PUBLISHED_FULL_GATE_CLOSED_WITH_EXACT_RETAINED_PRINCIPAL",
       "principal": "Accepted/frozen main-only narrative; this is not whole-EPUB component coverage",
-      "remaining": "Finish exact candidate review/author preflight, ordinary publication, remote all-tree/all changed-stream readback, full source audit, completed housekeeping, final actual-source audit/status and fresh published-authority reload. MAIN17 is the terminal main excluded-component program: no MAIN18 admission. Then complete full individual census/joins/incidental dispositions, earned secondary profiles/monographs/distinct models, expanded synthesis and versioned principal-party-transfer revisions, designated curation/integration and component/release/final-entry audits. Global completion remains unclaimed.",
+      "remaining": "All seventeen supplied-edition main excluded-component programs are closed at their declared scopes. Full individual secondary census, identity/event joins, incidental dispositions, earned artifacts, expanded synthesis, versioned principal-party-transfer revisions, designated curation/integration and component/release/final-entry audits remain active. No MAIN18 admission; global narrative percentage remains null.",
       "excluded_component_program": {
-        "status": "MAIN_EXCLUDED_COMPONENT_ANALYSIS_ACCEPTED_WITH_EXACT_RETAINED_PRINCIPAL_AUTHORITY_CONTAINING_PUBLICATION_PENDING",
+        "status": "MAIN_EXCLUDED_COMPONENT_ANALYSIS_ACCEPTED_PUBLISHED_FULL_GATE_CLOSED_WITH_EXACT_RETAINED_PRINCIPAL",
         "accepted_utc": "2026-10-19T21:47:19.613697+00:00",
         "new_excluded_text_resources": 15,
         "actual_new_excluded_P_slots": 71,
@@ -2047,7 +2047,13 @@
           "actual_source_commit": "bc9b67dc37212868b16e8b6eed1a39f07b258dd0",
           "historical_gate_not_current_intervening_cohort": true
         },
-        "remaining": "Finish exact candidate review/author preflight, ordinary publication, remote all-tree/all changed-stream readback, full source audit, completed housekeeping, final actual-source audit/status and fresh published-authority reload. MAIN17 is the terminal main excluded-component program: no MAIN18 admission. Then complete full individual census/joins/incidental dispositions, earned secondary profiles/monographs/distinct models, expanded synthesis and versioned principal-party-transfer revisions, designated curation/integration and component/release/final-entry audits. Global completion remains unclaimed."
+        "remaining": "All seventeen supplied-edition main excluded-component programs are closed at their declared scopes. Full individual secondary census, identity/event joins, incidental dispositions, earned artifacts, expanded synthesis, versioned principal-party-transfer revisions, designated curation/integration and component/release/final-entry audits remain active. No MAIN18 admission; global narrative percentage remains null.",
+        "authorship_publication_state": "MAIN_EXCLUDED_COMPONENT_ANALYSIS_ACCEPTED_WITH_EXACT_RETAINED_PRINCIPAL_AUTHORITY_CONTAINING_PUBLICATION_PENDING",
+        "publication_gate": {
+          "source_commit": "49dbe1b11b22a4007c33c9d3bea16c7877006bc1",
+          "closed_utc": "2026-10-19T22:02:34.140764+00:00",
+          "receipt": "09 Audits and Manifests/KONOSUBA_MAIN17EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json"
+        }
       },
       "prior_excluded_component_state": {
         "source_id": "MAIN-17",
@@ -2092,7 +2098,13 @@
       },
       "reading": "10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V17_EXCLUDED_DEEP_READING.md",
       "register": "10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V17_EXCLUDED_COMPONENT_REGISTER.json",
-      "receiving": "10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V17_EXCLUDED_RECEIVING_AND_PROVENANCE.json"
+      "receiving": "10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V17_EXCLUDED_RECEIVING_AND_PROVENANCE.json",
+      "authorship_publication_state": "MAIN_EXCLUDED_COMPONENT_ANALYSIS_ACCEPTED_WITH_EXACT_RETAINED_PRINCIPAL_AUTHORITY_CONTAINING_PUBLICATION_PENDING",
+      "publication_gate": {
+        "source_commit": "49dbe1b11b22a4007c33c9d3bea16c7877006bc1",
+        "closed_utc": "2026-10-19T22:02:34.140764+00:00",
+        "receipt": "09 Audits and Manifests/KONOSUBA_MAIN17EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json"
+      }
     },
     {
       "source_id": "DUST-01",
@@ -2929,9 +2941,7 @@
   },
   "main_excluded_component_program_accounting_only": {
     "total_programs": 17,
-    "analytically_accepted_containing_publication_pending": [
-      "MAIN-17"
-    ],
+    "analytically_accepted_containing_publication_pending": [],
     "published_full_gate_closed": [
       "MAIN-01",
       "MAIN-02",
@@ -2948,7 +2958,8 @@
       "MAIN-13",
       "MAIN-14",
       "MAIN-15",
-      "MAIN-16"
+      "MAIN-16",
+      "MAIN-17"
     ],
     "unadmitted_remaining": [],
     "accepted_principal_bodies_retained_not_reread": true,

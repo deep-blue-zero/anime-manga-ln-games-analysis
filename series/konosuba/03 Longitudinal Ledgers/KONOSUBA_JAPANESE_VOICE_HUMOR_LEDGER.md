@@ -1793,3 +1793,11 @@ All15 new textual resources71P/ruby/residuals and25 unique native images actuall
 | ID | Subjects / native route | Observation | Implication | Limit |
 |---|---|---|---|---|
 | M17EX-LD05 | Creator/illustrator/readers/contributors and attributed parallel Iris/Aigis/Crimson-Demon/Axis/Axel actors; known retained Kazuma/Aqua/Megumin/Darkness/Yunyun/Eris/Mitsurugi/two unnamed companions/Pain/Nos/Logia/Mammon/unnamedgatekeeper/DemonKing/daughter, and externally supplied Wiz/Vanir/Dust/Assassin/DarkStalker resources. No direct new excluded bonus choices for Iris or Yunyun.; U016P3–34;IMG003/004/008/024;M17EX-V01–V27 | Eighteen exact short creator fragments and nine raster fragments distinguish modal でしょう/かもしれません, reader/contributor gratitude, self-directed biography and named caption/blurb speakers. | Written source evidence only. Register/pragmatic function is not an acoustic voice, frequency census or proxy for consent; captionか correction is attributable. | New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved. |
+
+
+## VN-C01 — performed superiority and different addressees
+Written我輩, elevated declaratives, counterpart classification, anticipated questions and selected laughter establish stance without fixed catchphrase frequency. MAIN07C5P234–236failedjoke→practicaladjustment andP313service-register formulation differ from I72–80ducal bow/貴公 toward Maxwell and I93–140contemptuous completion toward Alderp. Aqua rivalry can break composure. Englishhypotheticaloutputs test written function only, not Japanese wording or audio. Katakana/laughter are not themselves L3.
+
+
+## WZ-C01 — polite form can accuse or refuse
+MAIN04C5P425 recalls a binding moral condition in question form; P431 adds quiet sadness while actual force continues. This is not a request for Hans to grant permission. Excited recognition P244–257, technical limitation P522/P565, the shared-work refusal in MASK U011 and an insult-linked threat in U019 have different purposes. Preserve written register/pragmatic functions without a fixed stutter, apology count or audio claim.

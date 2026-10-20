@@ -1,0 +1,131 @@
+{
+  "schema": "KONOSUBA_VANIR_FIXED_HYPOTHETICAL_CONTRASTS_V1",
+  "scope": "Same informed author; all supplied main and supplemental histories already exposed. Fixed before first responses to these inputs; no source holdout, independent test, accuracy denominator or confidence increase.",
+  "output_instructions": "Give one short action-and-utterance response from Vanir, then an explicit unknown/outcome boundary. Counterparts' unprovided replies stay unknown. Do not invent assets, permission, private facts or completed external results. Translated English speech is a written functional rendering, not a claim about audio or canonical wording.",
+  "pairs": [
+    {
+      "id": "VN-H01",
+      "contrast": "Only access to the relevant authorized records changes.",
+      "rules": [
+        "VN-D01",
+        "VN-D02"
+      ],
+      "cases": [
+        {
+          "id": "VN-H01A",
+          "mode": "realistic_transfer",
+          "input": "A workshop owner offers a modest fixed fee for diagnosing why three invoices were rejected. Vanir is a visiting consultant with no magic, account access, staff or private data. The owner has not supplied the invoices or rejection messages and asks for an immediate certain answer. A folder can be provided if he asks. No customer's private history is known."
+        },
+        {
+          "id": "VN-H01B",
+          "mode": "realistic_transfer",
+          "input": "The same workshop owner offers the same fixed fee and asks the same question. Authorized copies of exactly three invoices and rejection messages are now supplied: each rejection explicitly says the required purchase-order field is blank; no payment schedule or buyer approval is supplied. Vanir has no magic, other account access, staff or private data. He may diagnose this visible field problem but cannot guarantee payment or approval."
+        }
+      ]
+    },
+    {
+      "id": "VN-H02",
+      "contrast": "A new verified shop loss activates a previously explicit fallback; the outside offer itself is unchanged.",
+      "rules": [
+        "VN-D03",
+        "VN-D07"
+      ],
+      "cases": [
+        {
+          "id": "VN-H02A",
+          "mode": "canonical_comic",
+          "input": "Vanir and Wiz are working at the shop. The week has paid its stated expenses; no new debt or stock loss is reported. An outside court offers Vanir a well-paid position and permits him to decline. He values current shared work and his dungeon ambition. He previously named the court as a fallback if the shop became untenable. He must answer for this week only; Wiz's next reply is not provided."
+        },
+        {
+          "id": "VN-H02B",
+          "mode": "canonical_comic",
+          "input": "The same current shared work, outside court offer, dungeon ambition and previously named fallback apply. A fresh verified stock loss now removes the week's earnings and replacement capital, after earlier repeated losses. The court still permits refusal and has offered a conversation about work, with appointment requiring its later confirmation. Vanir must choose his next step this week; Wiz's reply and any hiring result are unknown."
+        }
+      ]
+    },
+    {
+      "id": "VN-H03",
+      "contrast": "The specific protection promise is present or absent; the unfamiliar client and cost are otherwise identical.",
+      "rules": [
+        "VN-D04",
+        "VN-D01"
+      ],
+      "cases": [
+        {
+          "id": "VN-H03A",
+          "mode": "canonical_comic",
+          "input": "An unfamiliar adult shop client asks Vanir to escort a returned parcel through a known dangerous lane. It takes an hour and carries a finite, stated risk to a replaceable manifestation; no final-life claim or divine attack is involved. Yesterday he freely and explicitly promised this particular client one escort when this parcel returned. That exact request is now made. No other reward, hidden kinship or provider is supplied."
+        },
+        {
+          "id": "VN-H03B",
+          "mode": "canonical_comic",
+          "input": "The same unfamiliar adult client, returned parcel, dangerous lane, one-hour work and finite risk apply. Vanir made no prior protection or escort promise, has no private relationship with this client, and no payment is yet offered. No final-life claim, divine attack, hidden kinship or provider is supplied. The client asks him to accept the escort now."
+        }
+      ]
+    },
+    {
+      "id": "VN-H04",
+      "contrast": "Who owns the body-use decision changes; no consent or coercive power is supplied in either case.",
+      "rules": [
+        "VN-D06"
+      ],
+      "cases": [
+        {
+          "id": "VN-H04A",
+          "mode": "canonical_comic",
+          "input": "A promoter tells Vanir that he has booked Vanir's mask and time for a week of public demonstrations, saying the proceeds would help the shop. Vanir was not asked and has not agreed. The promoter has no contract or enforcement power. No further reply or eventual proceeds are provided. Vanir must respond to the booking now."
+        },
+        {
+          "id": "VN-H04B",
+          "mode": "canonical_comic",
+          "input": "The same promoter proposes a week of public demonstrations for shop proceeds, this time using an unrelated adult volunteer as the host for Vanir's mask. The volunteer is present but has not agreed; no prior contract, emergency or enforcement power exists. The promoter asks Vanir whether he will announce that the arrangement is settled. No volunteer reply or proceeds are provided."
+        }
+      ]
+    },
+    {
+      "id": "VN-H05",
+      "contrast": "The addressee and relationship change; task and missing reply remain fixed. This is a relationship/voice contrast, not a single-variable empirical experiment.",
+      "rules": [
+        "VN-D05",
+        "VN-D08"
+      ],
+      "cases": [
+        {
+          "id": "VN-H05A",
+          "mode": "canonical_comic",
+          "input": "Aqua has interrupted a routine stock count to mock Vanir as a failed shopkeeper. The task still needs one number that only she has written on a slip; she has not supplied it. No immediate attack is underway. A colleague asks Vanir to obtain the number and finish the count. No audience cheer, apology, attack or delivery of the slip has occurred yet."
+        },
+        {
+          "id": "VN-H05B",
+          "mode": "canonical_comic",
+          "input": "Maxwell has interrupted the same routine stock count because he has forgotten Vanir's name and asks again who he is. The task still needs one number Maxwell has written on a slip; he has not supplied it. No attack or coercion is underway. A colleague asks Vanir to obtain the number and finish the count. No completed recollection or delivery of the slip has occurred yet."
+        }
+      ]
+    },
+    {
+      "id": "VN-H06",
+      "contrast": "A recipient's newly enforceable work cost changes the negotiation; the earlier prank is not excused.",
+      "rules": [
+        "VN-D07",
+        "VN-D05"
+      ],
+      "cases": [
+        {
+          "id": "VN-H06A",
+          "mode": "realistic_transfer",
+          "input": "Vanir has actually made a coworker the target of an embarrassing public prank. The coworker says it was unwelcome and asks him to stop; no prior permission exists. He is also considering an ordinary paid afternoon of help at the front desk. No contract, penalty, extra duty or private facts are supplied. His response must not claim the coworker enjoyed the prank or forgave it."
+        },
+        {
+          "id": "VN-H06B",
+          "mode": "realistic_transfer",
+          "input": "The same unwelcome public prank and objection occurred. A previously agreed written work rule is now shown: the prank creates two additional unpaid desk shifts for its author, confirmed by the authorized manager. Vanir has seen this exact obligation; no appeal outcome, release, forgiveness or alternate worker is supplied. He must respond and allocate his next step without inventing a hidden exemption."
+        }
+      ]
+    }
+  ],
+  "score": null,
+  "independent_validation_credit": 0,
+  "source_validation_credit": 0,
+  "fixed_utc": "2026-10-19T22:16:41.868271+00:00",
+  "prose_seal_sha256": "6deb95759cb888b398cdbfbe30c137939935e6fc19606487ec95a438757b9e27"
+}

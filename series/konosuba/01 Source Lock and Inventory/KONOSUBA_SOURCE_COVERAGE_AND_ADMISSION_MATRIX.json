@@ -6036,7 +6036,7 @@
       ],
       "analytical_completion": "PRINCIPAL_MAIN_NARRATIVE_ONLY_COMPLETE; OTHER_EPUB_COMPONENTS_OPEN",
       "expanded_stage_C": {
-        "status": "MAIN_EXCLUDED_COMPONENT_ANALYSIS_ACCEPTED_WITH_EXACT_RETAINED_PRINCIPAL_AUTHORITY_CONTAINING_PUBLICATION_PENDING",
+        "status": "MAIN_EXCLUDED_COMPONENT_ANALYSIS_ACCEPTED_PUBLISHED_FULL_GATE_CLOSED_WITH_EXACT_RETAINED_PRINCIPAL",
         "admission_utc": "2026-10-19T21:23:56.937947+00:00",
         "native_sha256": "5a7864c555955fc1536091c3ced10114b9cd521883236a2d016b074cafc1819c",
         "native_admission_sha256": "2038b611c918b69a4c3fdcdfc17733d816d6daaad0a40b72500614332d0085e8",
@@ -6049,7 +6049,7 @@
         "native_images_to_inspect": 25,
         "new_text_or_image_reading_credit_at_admission": 0,
         "formal_outcomes_assigned": false,
-        "remaining": "Finish exact candidate review/author preflight, ordinary publication, remote all-tree/all changed-stream readback, full source audit, completed housekeeping, final actual-source audit/status and fresh published-authority reload. MAIN17 is the terminal main excluded-component program: no MAIN18 admission. Then complete full individual census/joins/incidental dispositions, earned secondary profiles/monographs/distinct models, expanded synthesis and versioned principal-party-transfer revisions, designated curation/integration and component/release/final-entry audits. Global completion remains unclaimed.",
+        "remaining": "All seventeen supplied-edition main excluded-component programs are closed at their declared scopes. Full individual secondary census, identity/event joins, incidental dispositions, earned artifacts, expanded synthesis, versioned principal-party-transfer revisions, designated curation/integration and component/release/final-entry audits remain active. No MAIN18 admission; global narrative percentage remains null.",
         "prior_pre_admission_snapshot": {},
         "accepted_utc": "2026-10-19T21:47:19.613697+00:00",
         "actual_new_excluded_P_slots": 71,
@@ -6115,6 +6115,12 @@
           "formal_outcomes_assigned": false,
           "remaining": "Actual excluded-resource/ruby/residual/image reading, bespoke uncoded seal, individual analysis, qualified comparisons, ten-ledger dispositions, receiving and publication. Original principal acceptance retained.",
           "prior_pre_admission_snapshot": {}
+        },
+        "authorship_publication_state": "MAIN_EXCLUDED_COMPONENT_ANALYSIS_ACCEPTED_WITH_EXACT_RETAINED_PRINCIPAL_AUTHORITY_CONTAINING_PUBLICATION_PENDING",
+        "publication_gate": {
+          "source_commit": "49dbe1b11b22a4007c33c9d3bea16c7877006bc1",
+          "closed_utc": "2026-10-19T22:02:34.140764+00:00",
+          "receipt": "09 Audits and Manifests/KONOSUBA_MAIN17EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json"
         }
       }
     },
@@ -15683,7 +15689,7 @@
       "admission": "PRINCIPAL_MAIN_PROSE_ADMITTED",
       "disposition": "PRINCIPAL_MAIN_NARRATIVE_READ_COMPLETE_AND_ANALYZED; OTHER_EPUB_COMPONENTS_OPEN",
       "expanded_stage_C": {
-        "status": "MAIN_EXCLUDED_COMPONENT_ANALYSIS_ACCEPTED_WITH_EXACT_RETAINED_PRINCIPAL_AUTHORITY_CONTAINING_PUBLICATION_PENDING",
+        "status": "MAIN_EXCLUDED_COMPONENT_ANALYSIS_ACCEPTED_PUBLISHED_FULL_GATE_CLOSED_WITH_EXACT_RETAINED_PRINCIPAL",
         "admission_utc": "2026-10-19T21:23:56.937947+00:00",
         "native_sha256": "5a7864c555955fc1536091c3ced10114b9cd521883236a2d016b074cafc1819c",
         "native_admission_sha256": "2038b611c918b69a4c3fdcdfc17733d816d6daaad0a40b72500614332d0085e8",
@@ -15696,7 +15702,7 @@
         "native_images_to_inspect": 25,
         "new_text_or_image_reading_credit_at_admission": 0,
         "formal_outcomes_assigned": false,
-        "remaining": "Finish exact candidate review/author preflight, ordinary publication, remote all-tree/all changed-stream readback, full source audit, completed housekeeping, final actual-source audit/status and fresh published-authority reload. MAIN17 is the terminal main excluded-component program: no MAIN18 admission. Then complete full individual census/joins/incidental dispositions, earned secondary profiles/monographs/distinct models, expanded synthesis and versioned principal-party-transfer revisions, designated curation/integration and component/release/final-entry audits. Global completion remains unclaimed.",
+        "remaining": "All seventeen supplied-edition main excluded-component programs are closed at their declared scopes. Full individual secondary census, identity/event joins, incidental dispositions, earned artifacts, expanded synthesis, versioned principal-party-transfer revisions, designated curation/integration and component/release/final-entry audits remain active. No MAIN18 admission; global narrative percentage remains null.",
         "prior_pre_admission_snapshot": {},
         "accepted_utc": "2026-10-19T21:47:19.613697+00:00",
         "actual_new_excluded_P_slots": 71,
@@ -15762,6 +15768,12 @@
           "formal_outcomes_assigned": false,
           "remaining": "Actual excluded-resource/ruby/residual/image reading, bespoke uncoded seal, individual analysis, qualified comparisons, ten-ledger dispositions, receiving and publication. Original principal acceptance retained.",
           "prior_pre_admission_snapshot": {}
+        },
+        "authorship_publication_state": "MAIN_EXCLUDED_COMPONENT_ANALYSIS_ACCEPTED_WITH_EXACT_RETAINED_PRINCIPAL_AUTHORITY_CONTAINING_PUBLICATION_PENDING",
+        "publication_gate": {
+          "source_commit": "49dbe1b11b22a4007c33c9d3bea16c7877006bc1",
+          "closed_utc": "2026-10-19T22:02:34.140764+00:00",
+          "receipt": "09 Audits and Manifests/KONOSUBA_MAIN17EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE.json"
         }
       }
     },
