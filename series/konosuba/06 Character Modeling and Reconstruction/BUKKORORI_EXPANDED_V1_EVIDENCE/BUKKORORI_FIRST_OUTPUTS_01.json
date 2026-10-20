@@ -1,0 +1,92 @@
+{
+  "schema": "konosuba.secondary.actual-first-outputs.v1",
+  "saved_utc": "2026-10-20T21:12:43.772527+00:00",
+  "subject": "Bukkorori",
+  "author": "Continuing informed Codex root; same model/case/response/assessment author.",
+  "input_file": "BUKKORORI_SCENARIO_INPUTS_01.json",
+  "input_sha256": "b145b45a9ea1208324fd590ff0ea58264939b57e2850bfe3a97aac2ab51f44ca",
+  "exact_input_freeze_sha256": "9a8966144506fe356a53bfd316198eec1f693f6105aeb3ae3716f6102c33863f",
+  "model_body_sha256": "58eb7af904048542aa1579683000e84543c9aebbe686c9b1b4eab54ace149203",
+  "model_pre_case_freeze_sha256": "05a6562c0f2e7e7a5cf9a37add927ceb126543de5bfe036847f5e57fb8bffd6f",
+  "output_count": 4,
+  "outputs": [
+    {
+      "case_id": "BK-H01-A",
+      "input_sha256": "8358d69195a9637ff26c399bd07a56da1568646f2e5e1d56eec53fbdb9b8ae10",
+      "body": "Bukkorori straightens toward the visitors, one hand settling on the top chair. “You have arrived at an excellent moment. Fifteen empty places, fifteen people spared the indignity of standing—an unglamorous task, perhaps, until somebody actually does it.” He lifts the first chair with an unnecessarily deliberate flourish. “I am Bukkorori. Today, the meeting’s last line of defence against a very uncomfortable quarter of an hour.” Then he starts toward the marked area. “Eight minutes should do it. You needn’t help; I can manage these. But I wouldn’t object to somebody remembering who had the room ready.”\n",
+      "body_sha256": "7ce39a3cccbaeada2f9be9c411a0c3d9eea28c8c836fdbf9d6ad47ee0845bd86",
+      "word_count": 96,
+      "regenerations": 0,
+      "repairs": 0
+    },
+    {
+      "case_id": "BK-H01-B",
+      "input_sha256": "28f8e4a0301add56052250bef30370796cad901a4730f74f55ce606289018af9",
+      "body": "Bukkorori looks from the stack to the empty seating area. “Naturally. Nobody around for the heroic part.” He takes the first chair and carries it toward a mark, without an introduction or a flourish. “Still, fifteen isn’t an army. Eight minutes, then I can stop lugging these about.” He lowers his voice, though there is nobody to disturb. “They had better not decide they want a completely different arrangement after I’ve finished.” For the moment he follows the markings already there. “All right, one place at a time. A grand speech won’t carry the chairs for me.”\n",
+      "body_sha256": "1b3a54c37b31b9fb17f43dee58e2e0a761568ba065c04e0da335185b082a4a1f",
+      "word_count": 97,
+      "regenerations": 0,
+      "repairs": 0
+    },
+    {
+      "case_id": "BK-H02-A",
+      "input_sha256": "d98c590e6fe5d967f7ab56ed9e716efb29dfee4979455c301d132051db3b62c6",
+      "body": "Bukkorori’s face brightens. “One text tonight. About the swap. Yes, I can manage that.” He looks down at his phone, already considering how to make a work question sound a little less like work. “It would be rude to send something completely cold, wouldn’t it? Just a hello first. Perhaps say it was good seeing you.” He catches himself smiling. “I know, I know—one text, not an invitation to take over your evening.” He pockets the phone and turns toward the exit. “I won’t wait around. I’ll put the shift question in that one message.”\n",
+      "body_sha256": "c4fce022214492c7ec21e5a2b10ff8c70973d8b946100b2332c6db5127f2befe",
+      "word_count": 95,
+      "regenerations": 0,
+      "repairs": 0
+    },
+    {
+      "case_id": "BK-H02-B",
+      "input_sha256": "e84ad69796f0bbf201db48d40acb198234ad63ad46bf06dae8864919a8e87537",
+      "body": "“No texts. Right.” Bukkorori’s thumb stops over the phone. “Even for the swap—yes, you did say that.” He tries a small smile that does not quite settle. “There is the office email tomorrow at ten. I could use that and still get the work question answered.” The possibility clearly pleases him less. “I’m not going to pretend it’s an emergency just so I can send something tonight.” He pockets the phone. “All right, Mira. No text tonight, and I won’t wait for you. I’ll use the office channel tomorrow.” He turns toward the public exit, without sending anything.\n",
+      "body_sha256": "46deacdfb00dace295ef31805c9cbbbbc3dba58fceb6e1b7fff0066e24fd203e",
+      "word_count": 98,
+      "regenerations": 0,
+      "repairs": 0
+    }
+  ],
+  "regenerations": 0,
+  "repairs": 0,
+  "first_saved_not_zero_anticipation": true,
+  "source_known": true,
+  "independent_accuracy_or_confidence_gain": false,
+  "actual_generation": "Each first body was composed directly by the root and serialized once in its own receipt; aggregate is exact byte carry,not another generation or a separate external model call.",
+  "all_inputs_and_prior_bodies_visible": true,
+  "raw_first_serialization_receipt_pins": [
+    {
+      "case_id": "BK-H01-A",
+      "body_file": "BUKKORORI_FIRST_BODY_BK-H01-A_01.txt",
+      "body_sha256": "7ce39a3cccbaeada2f9be9c411a0c3d9eea28c8c836fdbf9d6ad47ee0845bd86",
+      "receipt_file": "BUKKORORI_FIRST_BODY_BK-H01-A_01_RECEIPT.json",
+      "receipt_sha256": "d2967428ee6f5e9513f561d07585a27590744f121cdfd988db8d7cece6a7b392",
+      "serialized_utc": "2026-10-20T21:09:57.022621+00:00"
+    },
+    {
+      "case_id": "BK-H01-B",
+      "body_file": "BUKKORORI_FIRST_BODY_BK-H01-B_01.txt",
+      "body_sha256": "1b3a54c37b31b9fb17f43dee58e2e0a761568ba065c04e0da335185b082a4a1f",
+      "receipt_file": "BUKKORORI_FIRST_BODY_BK-H01-B_01_RECEIPT.json",
+      "receipt_sha256": "088ce2f16801c6b4a31a57b46ebbf93faf79928da4aa64ef84235e68240f9f43",
+      "serialized_utc": "2026-10-20T21:10:21.272081+00:00"
+    },
+    {
+      "case_id": "BK-H02-A",
+      "body_file": "BUKKORORI_FIRST_BODY_BK-H02-A_01.txt",
+      "body_sha256": "c4fce022214492c7ec21e5a2b10ff8c70973d8b946100b2332c6db5127f2befe",
+      "receipt_file": "BUKKORORI_FIRST_BODY_BK-H02-A_01_RECEIPT.json",
+      "receipt_sha256": "73d708f38cc89775a99bc92f94b37b09ab87d3e5a866db620d1f06bcde8cd8b0",
+      "serialized_utc": "2026-10-20T21:10:56.303481+00:00"
+    },
+    {
+      "case_id": "BK-H02-B",
+      "body_file": "BUKKORORI_FIRST_BODY_BK-H02-B_01.txt",
+      "body_sha256": "46deacdfb00dace295ef31805c9cbbbbc3dba58fceb6e1b7fff0066e24fd203e",
+      "receipt_file": "BUKKORORI_FIRST_BODY_BK-H02-B_01_RECEIPT.json",
+      "receipt_sha256": "3c0d4455edb0dc2cf2c7610724c628f066aa8d418b85b04c53c0bbc484c87196",
+      "serialized_utc": "2026-10-20T21:11:24.349116+00:00"
+    }
+  ],
+  "full_program_complete": false
+}

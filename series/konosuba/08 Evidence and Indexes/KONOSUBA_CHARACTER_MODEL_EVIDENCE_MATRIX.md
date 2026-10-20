@@ -1103,3 +1103,10 @@ The [individual index](KONOSUBA_VILLAGE_PEERS_EVIDENCE_INDEX.md) and [provenance
 ## C20-CR04 — apparent potion effect and actor attribution
 
 The [external medicine erratum](KONOSUBA_VILLAGE_PEERS_MEDICINE_ATTRIBUTION_ERRATUM_01.md) removes any reading of medicine work as Dodonko medical production/career and qualifies P433 speaker-tag strength. Her Tier2 monograph remains supported by separate social choices, defense, refusal and reported outcomes; no model, rule, test input or first body is added. Current 28 models, twenty-two scoped secondary model subjects, eighteen profiles, six monograph-only subjects and 190 nonfinal records remain unchanged in count. No independent accuracy, grade or confidence gain.
+
+
+## Cohort21 — separate agency, conditional models and attributed revision
+
+Cohort21 adds separate twelve-dimension Arue/Soketto/Bukkorori monographs, two conditional models with seven total rules, and a compact father Tier1 profile in the existing state ledger. Arue remains Tier2 with future distinct modeling open; two narrow collateral occurrences stay Tier0. Candidate totals are 30 model bodies/twenty-four scoped secondary model subjects, nineteen bounded profiles and seven monograph-only subjects (Nos, Rionor, Feit, Chomusuke, Funifura, Dodonko, Arue);193 records remain nonfinal. [Individual index](KONOSUBA_ARUE_SOKETTO_BUKKORORI_EVIDENCE_INDEX.md).
+
+Eight informed same-root first bodies retain strong cueing/generic rivals, shared practical endpoints, unprovided details and unprobed rules. [Soketto](../06%20Character%20Modeling%20and%20Reconstruction/SOKETTO_EXPANDED_V1_EVIDENCE/SOKETTO_CASE_ASSESSMENT_01.md) and [Bukkorori](../06%20Character%20Modeling%20and%20Reconstruction/BUKKORORI_EXPANDED_V1_EVIDENCE/BUKKORORI_CASE_ASSESSMENT_01.md) assessments are local diagnostics, not designated global evaluation. All 28 entering models remain exact. No independent accuracy, Japanese adequacy, grade or confidence gain; publication/full census/program remain pending.

@@ -1336,3 +1336,10 @@ Nerimaki's actual service/news bargain and future-proprietor claim support work 
 ## C20-CR04 — apparent potion effect and actor attribution
 
 The earlier medicine work phrase must not be read as Dodonko household/occupational medical labor. The farewell exchange reports apparent efficacy of Megumin-made potion, with a contextual speaker assignment; it does not show Dodonko making it. Arue/Megumin ingredient work, Funifura family concern, the patient report and later gifts remain different activities. The [medicine-attribution erratum](../08%20Evidence%20and%20Indexes/KONOSUBA_VILLAGE_PEERS_MEDICINE_ATTRIBUTION_ERRATUM_01.md) supplies the current qualification. No career or unshown treatment is added.
+
+
+## Cohort21 — separate agency, conditional models and attributed revision
+
+Arue values writing, presentation and a particular gift; her reported week of work and actual distress differ from an independently audited schedule or quality judgment. Soketto's wooden-sword purchase is a particular preference, while Bukkorori's claimed routine remains surveillance testimony. His imposed cafe bill, later own lunch offer, scarce funds, no-money-help clause, sleeping and proposed ice-watching are different stages; no whole budget or performed leisure day is supplied. The [individual A/S/B/I index](../08%20Evidence%20and%20Indexes/KONOSUBA_ARUE_SOKETTO_BUKKORORI_EVIDENCE_INDEX.md) retains ordinary life alongside battle and coercion.
+
+The shoe-shop father has a bounded profile in the character-state ledger: his own welcome/work role and care promise are distinct from the sleeping son and from later unobserved care. Only one shop qualifies its foremost status. The transfer operator actually receives a silver bag and casts, while prior price explanation and full settlement remain different access. Arue's grandfather buying a childhood fashion patch is her report, not a watched magical gift. These three occurrence/profile records do not establish three final unique-person increments.

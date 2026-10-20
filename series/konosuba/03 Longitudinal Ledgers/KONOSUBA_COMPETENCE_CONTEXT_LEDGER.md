@@ -1466,3 +1466,10 @@ EXP02 U023 P414–440 separates Funifura's actual staff handover, Arue-reported 
 ## C20-CR04 — apparent potion effect and actor attribution
 
 REVISE the reading of Dodonko-reported medicine work in the cohort20 tail: EXP02 U023 P433 reports that the potion Megumin made apparently worked very well. This is a participant report of effect, not Dodonko production, ingredient labor, patient treatment or occupational competence. EXP01 U037 P93–98/P113–122 actually assigns preparation assistance to Arue with Megumin. P433 speaking identity is a contextual join in the Funifura/Dodonko exchange; the line lacks a narrator name-tag. The [medicine-attribution erratum](../08%20Evidence%20and%20Indexes/KONOSUBA_VILLAGE_PEERS_MEDICINE_ATTRIBUTION_ERRATUM_01.md) preserves the prior wording as history and qualifies current retrieval. No independently watched cure or new ability trial follows.
+
+
+## Cohort21 — separate agency, conditional models and attributed revision
+
+Arue's large sword is a light prop, not a newly demonstrated strengthening feat. Her actual strike finishes against an already immobilized lizard; the card number is not watched. Her recipe assistance, Megumin's potion production and participant testimony of apparent effect remain separate. Her later upper-magic learning is reported, not a new performed cast. A05-A09 in the [individual A/S/B/I index](../08%20Evidence%20and%20Indexes/KONOSUBA_ARUE_SOKETTO_BUKKORORI_EVIDENCE_INDEX.md) preserve the boundaries.
+
+Soketto actually supplies wind-assisted landing, Lightning Strike and water protection. Bukkorori's concealment, saber, unsafe fire, intrusive Tornado and real Teleport retain their own effects and limits; collective MAIN05 disappearance is not his solo Teleport feat. Useful kills/escape do not certify a safe operation. The [bandaging erratum](../08%20Evidence%20and%20Indexes/KONOSUBA_SOKETTO_BANDAGING_ATTRIBUTION_ERRATUM_01.md) assigns current bandaging to Yunyun and does not establish a healing spell. A father's care promise and a departure operator's claimed four-person local capacity are not the son's skill or a universal magic law.

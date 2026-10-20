@@ -1945,3 +1945,10 @@ Known EXP03/CONTEXP02 BASE returns only:1,556 distinct context slots/six members
 Wrong names are explicit mistakes corrected by the named classmates, not aliases. Romantic boasting and the peers' actual embarrassment do not verify every implied intimate event. EXP01 previous-life partner talk is a social fiction; the two short untagged judgments are not automatically assigned one to each girl. Impressive school props, teacher staging and useful rescue preserve unsafe process rather than turn every danger into nonliteral action.
 
 Nerimaki's imagined pairing is explicitly framed by prose MAIN14 C1 P370 and actual afterword IMG026; neither assent nor an unseen performed episode follows. Her puncturing of Kazuma/Aigis rhetoric has local pragmatic force, while continued scraping remains an actual boundary violation. No new H/L score or frozen classification is silently changed; [village-peer index](../08%20Evidence%20and%20Indexes/KONOSUBA_VILLAGE_PEERS_EVIDENCE_INDEX.md) distinguishes actions, reports, imagination and conditional outcomes.
+
+
+## Cohort21 — separate agency, conditional models and attributed revision
+
+Arue's contest-death rule, light prop and invented patch history are not literal lethal/magical feats. Her manuscript loss and ignored stop request nevertheless retain consequences. The Soketto/Bukkorori confession depends on incompatible premises, and later own-involvement information changes Megumin's hypothesis without proving marriage. MAIN05 dramatic pleading/escape has a rapid-reset witness, not a narrated prior private plan. The [individual A/S/B/I index](../08%20Evidence%20and%20Indexes/KONOSUBA_ARUE_SOKETTO_BUKKORORI_EVIDENCE_INDEX.md) retains these distinctions.
+
+Display can accompany real work and bad process: delayed rescue, fire including Soketto, covert observation and subsequent injury are not erased by a successful spell or amused ending. The two actually read Bukkorori speech images are his claims about Soketto; the intervening actual portrait supplies no printed dialogue or clinical diagnosis. No new formal H/L recoding, frozen threshold change, compound vote or blanket gag exemption follows.

@@ -1,7 +1,7 @@
 {
   "schema": "konosuba.village-peers.medicine-clarification.receiving.v1",
   "recorded_utc": "2026-10-20T20:03:49.238645+00:00",
-  "status": "SEMANTIC_CLARIFICATION_COMPLETE_EXACT_CONTAINING_PUBLICATION_PENDING",
+  "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
   "published_base": "9449d4288becc31754e064ea8436a5c09145738a",
   "published_tree": "a196360b13fe2709ce9aa2dd50c73d22f6ca2a3a",
   "prior_full_gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_VILLAGE_PEERS_COHORT20_PUBLICATION_GATE_CLOSE.json",
@@ -263,5 +263,20 @@
   "confidence_gain": 0,
   "publication_required": "Exact-index author preflight,normal push/exact remote tree and changed streams,source-HK-final terminal gates and fresh project/control/model reload.",
   "no_protected_merge_or_designated_global_output_authorship": true,
-  "full_program_complete": false
+  "full_program_complete": false,
+  "publication_pending_at_authorship_history": "SEMANTIC_CLARIFICATION_COMPLETE_EXACT_CONTAINING_PUBLICATION_PENDING",
+  "publication_gate_close": {
+    "source": "0c0146c354b05649cb669cc5ec7e414d4dddac5c",
+    "tree": "6286c3f5f34618f92745a0f6643298747a18d37b",
+    "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_VILLAGE_PEERS_MEDICINE_CLARIFICATION_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "5caf5105916b6ef073624e1614979df3d7bd67bc33c609df39f4b9bc531627f3",
+    "source_run": 39490429192,
+    "housekeeping_run": 39491113325,
+    "final_run": 39491183580,
+    "full_tests_each": 385,
+    "published_project_paths": 1188,
+    "current_models": 28,
+    "no_independent_accuracy_or_confidence_gain": true
+  },
+  "published_authority_reload_sha256": "db3d9c17128c730c945482024ad58d8a3fe186e3369778bcc770ce79c20939a0"
 }

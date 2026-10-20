@@ -1731,3 +1731,32 @@ F01–F15/D01–D13 retain pressure and repair, fear and persistence, skill clai
 ## C20-CR04 — apparent potion effect and actor attribution
 
 The compressed medicine wording records a farewell report about apparent effect of Megumin-made potion. It does not establish Dodonko making medicine or treating a patient. Her reported concern, defense and social choices retain their own evidence; Funifura and her brother remain separate. P433 attribution to Dodonko is contextual within the pair exchange, not an explicit narrator name-tag. The [medicine-attribution erratum](../08%20Evidence%20and%20Indexes/KONOSUBA_VILLAGE_PEERS_MEDICINE_ATTRIBUTION_ERRATUM_01.md) qualifies the sealed monographs/index without changing bytes or tiers. No new model/test or independent cure verification.
+
+
+## Cohort21 — separate agency, conditional models and attributed revision
+
+Arue earns a separate revisable Tier2 monograph, with classroom performance, actual work, gifts, creative investment, grievance and intrusive conduct kept together. Soketto and Bukkorori each earn separate monographs and conditional model candidates: three information/service rules for her, four display/access/work/appraisal rules for him. A quiet shop presentation or NEET label does not summarize either person. The [individual A/S/B/I index](../08%20Evidence%20and%20Indexes/KONOSUBA_ARUE_SOKETTO_BUKKORORI_EVIDENCE_INDEX.md) owns the locators; no fixed tier ceiling or model symmetry is imposed.
+
+Soketto's blank reading, later own-involvement statement and Megumin's marriage hypothesis are different knowledge states. Bukkorori's useful work and local retreat coexist with intrusive pursuit and wrong causal accounts; no completed reform follows a friendly ending. Yunyun performs current treatment in EXP01 U028 P427; the [bandaging erratum](../08%20Evidence%20and%20Indexes/KONOSUBA_SOKETTO_BANDAGING_ATTRIBUTION_ERRATUM_01.md) qualifies the accepted report without editing it. Arue's apparent composure yields to manuscript loss; an actual prior patch removal conflicts with later absolute recollection. The next bounded profile belongs to the father, not the son.
+
+## Cohort21 Bukkorori's father bounded profile
+
+### Identity, role and source access
+
+The unnamed village shoe-shop owner is explicitly Bukkorori's father in EXP01 U028 P39–43. EXP02 U023 P638–650 returns to the same neighborhood shop: Megumin asks for Bukkorori, and the owner calls him his son. This joins the role through source evidence; it does not identify a personal name or join him to Funifura's reported staff craftsman, Hyoizaburoo or another unnamed operator. [Index I01](../08%20Evidence%20and%20Indexes/KONOSUBA_ARUE_SOKETTO_BUKKORORI_EVIDENCE_INDEX.md) owns the bounded locators.
+
+He has a compact revisable Tier1 profile in this existing ledger. Two encounters support his own work/welcome, care promise and reactive appraisal. They do not justify a separate substantial monograph or a generative parenting model. Being the village's foremost shoe shop is qualified by there being only one; no comparative craft quality or observed shoe-making feat follows.
+
+### What he actually does and promises
+
+In EXP01 he welcomes Megumin and says his son is still asleep. Megumin supplies a misleading sexualized version of Bukkorori's request, and he immediately runs upstairs. Yunyun objects after he has gone up. Shouting and cries are heard; Bukkorori reports being rudely awakened and called a lolicon. The text does not provide a directly watched blow sequence, proof that the father heard Yunyun's correction and deliberately ignored it, or evidence that Megumin's implied allegation was true.
+
+In EXP02 he again says the son is sleeping. Asked to help if Komekko is in trouble, he explicitly accepts and says the girls' parents already asked him to watch both daughters. The current promise is directly spoken; the earlier parental request is his report, and sustained future care is unperformed here. This is the father's commitment, not sleeping Bukkorori's own promise.
+
+Megumin then says the son teaches Komekko bad words and refuses to repeat them in a way that encourages a more sexual inference. The father reacts angrily and runs upstairs calling Bukkorori's name. The source does not show the subsequent upstairs outcome. Komekko's earlier attribution of particular slang is a report, not a watched lesson or validation of every implication in Megumin's complaint.
+
+### Interpretation, voice and limits
+
+The owner supplies ordinary neighborhood work and offered help with a familiar, colloquial welcome. His use of the son relation and quick anger show practical authority and an appraisal vulnerable to a misleading complaint. Genuine willingness to help and hasty reaction can coexist. No complete household economy, full parenting history, stable violent disposition, clinical diagnosis or hidden motive is inferred.
+
+The helpful commitment does not erase the son's experience of the first complaint, while comic retaliation does not verify the complaint's substance. These are different people's actions and knowledge states. Future evidence may change this bounded profile; no appearance quota, fixed ceiling, independent accuracy or confidence gain is assigned. The two additional transfer-operator/grandfather records remain narrower Tier0 occurrences, not extra members of a common family or a final person denominator.

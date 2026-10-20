@@ -1908,3 +1908,10 @@ Cohort20 retrieval is owned by the [village-peer individual index](KONOSUBA_VILL
 ## C20-CR04 — apparent potion effect and actor attribution
 
 Current retrieval for cohort20 F08/D08 and repeated medicine wording includes the [external erratum](KONOSUBA_VILLAGE_PEERS_MEDICINE_ATTRIBUTION_ERRATUM_01.md). EXP02 U023 P433: apparent effect of Megumin-made potion; contextual peer speaker assignment, no direct narrator tag. EXP01 U037 P93–98/P113–122: Arue/Megumin actual preparation roles. Reuse of already received P90–125/P431–490 windows is 96 shared known BASE context slots/two members/two objects, not an additional event or new pass. All five sealed cohort20 cores retain their hashes.
+
+
+## Cohort21 — separate agency, conditional models and attributed revision
+
+Cohort21 retrieval is owned by the [individual A/S/B/I index](KONOSUBA_ARUE_SOKETTO_BUKKORORI_EVIDENCE_INDEX.md) and [native provenance](KONOSUBA_ARUE_SOKETTO_BUKKORORI_NATIVE_PROVENANCE_01.json). Twenty members/five local native objects bind 3,154 unique known BASE contexts plus three actual earlier images; source/register/member pins and twelve actual receipt hashes retain the access chain. The 43 overlapping retrieval rows are not independent events. MAIN17 false hit contributes no Arue person evidence; two speech images remain B testimony and IMG019 a portrait.
+
+C21-CR01 [bandaging erratum](KONOSUBA_SOKETTO_BANDAGING_ATTRIBUTION_ERRATUM_01.md): EXP01 U028 P427 explicitly Yunyun, not Soketto; shop location and fortune service are separate. A04/A09 retain patch-memory contradiction/retraction. I01-I03 separately retain father promise, actual departure service and reported grandfather gift. No new whole-source/ruby/residual/image-set/admission or independent source-validation credit.

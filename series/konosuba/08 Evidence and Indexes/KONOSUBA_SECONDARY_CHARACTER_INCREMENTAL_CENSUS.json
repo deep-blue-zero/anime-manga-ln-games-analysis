@@ -1,8 +1,8 @@
 {
   "schema": "KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS_V1",
-  "status": "INCREMENTAL_190_QUALIFIED_RECORDS_NOT_FINAL_INDIVIDUAL_DENOMINATOR",
-  "updated_utc": "2026-10-20T20:03:49.238645+00:00",
-  "scope": "Cohorts01-20 full exact-source gates remain closed at declared scopes. Focused C20-CR04 medicine-attribution clarification semantically received; containing publication pending. Counts remain190 nonfinal records,28 models/twenty-two scoped secondary model subjects,eighteen profiles and six monograph-only subjects; final census/tiers/program open.",
+  "status": "INCREMENTAL_193_QUALIFIED_RECORDS_NOT_FINAL_INDIVIDUAL_DENOMINATOR",
+  "updated_utc": "2026-10-20T21:31:49.825104+00:00",
+  "scope": "Earlier cohorts/focused clarification retain closed full gates; cohort21 scoped artifacts and internal diagnostics semantically received, containing publication pending. Candidate 30 model bodies/twenty-four scoped secondary model subjects, nineteen profiles and seven monograph-only subjects; 193 records remain nonfinal. Full census/tiers/program open.",
   "row_semantics": "Distinct qualified working subjects plus explicitly unresolved grouped/identity leads. A row is not automatically one final individual or an earned artifact. Old scope phrases remain their recorded history; the root current scope governs present admission status.",
   "artifact_architecture": "Use existing05 Specialist Synthesis for earned monographs and06 Character Modeling and Reconstruction for distinct mechanism models. Existing ledgers carry bounded profiles unless a separate responsibility is justified. Single current corpus map; curator-only global registry/index enrollment.",
   "rows": [
@@ -1465,50 +1465,168 @@
     },
     {
       "character": "Arue",
-      "identity": "あるえ retrieval guard; native exact name join pending",
-      "likely_tier": "1–2 unresolved",
-      "priority": "Discovery / consolidation",
-      "evidence_distribution": "Complete EXP01-03 reports; main05 article/creator-fiction context already qualified. Complete FD221L report received; direct native applies only to current735P joins, with separate game-novelization source plane. MAIN14 C3 fullbase text; actual exchanges around168-190. CURRENT WORKING25: MAIN05 complete derivative gives own appropriation of destruction as writing material, and Kazuma's retaliation. Her production and the narrator's guilt interpretation differ. Do not collapse theatrical cultural fluency, practical ability and another actor's consent.",
-      "substantive_responsibility": "Academic performance, actual recipe help, graduation/gift choices and fiction/article voice have different source planes. CURRENT WORKING21: Own paid-work/publication claim, greeting to Darkness, refusal of Kazuma introduction and particular literary rivalry; narrator's mocking history account has its own plane.",
-      "gaps": "Publication is a source claim, not independently checked new edition; no inferred Yunyun assent. Consolidate with full EXP/CONTEXP evidence and earned tier. Current working25 qualification: MAIN05 complete derivative gives own appropriation of destruction as writing material, and Kazuma's retaliation. Her production and the narrator's guilt interpretation differ. Do not collapse theatrical cultural fluency, practical ability and another actor's consent.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "identity": "あるえ; explicit native name/role joins; retained accepted English aliases and separate actors.",
+      "likely_tier": "2 scoped monograph; containing publication pending; future model open",
+      "priority": "Scoped monograph/source qualifications semantically received; containing publication gate pending",
+      "evidence_distribution": "Cohort21 individual native retrieval and twelve actual known-source receipts;shared 3,154 BASE contexts/twenty members/five objects plus three actual images are not person events or new full-source passes. Earlier source/derivative histories retain original scopes.",
+      "substantive_responsibility": "Own classroom/referee choices,actual ingredient work,warning/flight,writer goal and invested manuscript loss/gifts;later occupational defense and intrusive patch play.",
+      "gaps": "Distinct portable generator remains underidentified against writer/cultural/status rivals;patch-memory contradiction and reported work schedule preserved. Tier2 not a ceiling.",
+      "disposition_status": "SCOPED_TIER2_MONOGRAPH_COHORT21_PUBLICATION_PENDING",
       "independent_observation_count": null,
       "prior_gap_history_working20": "Source-specific actor and fictional author claims separated; full native decision/voice variety before monograph versus bounded profile.",
       "current_scope_asof_working21": "MAIN01-13 full gates closed;MAIN14 published4e66641f andall9078remote paths/43changedstreams verified;actualsourceaudit running;MAIN15-17 excluded unadmitted.",
       "prior_gap_history_working24": "Publication is a source claim, not independently checked new edition; no inferred Yunyun assent. Consolidate with full EXP/CONTEXP evidence and earned tier.",
-      "current_scope_asof_working25": "All seventeen main excluded-component source programs, nineteen supplemental editions and five mixed/reference programs have closed exact publication gates at their declared scopes. MAIN17 source49dbe1b11b22a4007c33c9d3bea16c7877006bc1; all9,132remote paths/35changedstreams exact; full source/HK/final actual-source audit/status and fresh962authority reload verified. Main source-program closure is not full census/synthesis/model/curation/release closure. No MAIN18 admission; final individual denominator and global percentage remain unresolved."
+      "current_scope_asof_working25": "All seventeen main excluded-component source programs, nineteen supplemental editions and five mixed/reference programs have closed exact publication gates at their declared scopes. MAIN17 source49dbe1b11b22a4007c33c9d3bea16c7877006bc1; all9,132remote paths/35changedstreams exact; full source/HK/final actual-source audit/status and fresh962authority reload verified. Main source-program closure is not full census/synthesis/model/curation/release closure. No MAIN18 admission; final individual denominator and global percentage remain unresolved.",
+      "prior_cohort21_current_fields": {
+        "identity": "あるえ retrieval guard; native exact name join pending",
+        "likely_tier": "1–2 unresolved",
+        "priority": "Discovery / consolidation",
+        "evidence_distribution": "Complete EXP01-03 reports; main05 article/creator-fiction context already qualified. Complete FD221L report received; direct native applies only to current735P joins, with separate game-novelization source plane. MAIN14 C3 fullbase text; actual exchanges around168-190. CURRENT WORKING25: MAIN05 complete derivative gives own appropriation of destruction as writing material, and Kazuma's retaliation. Her production and the narrator's guilt interpretation differ. Do not collapse theatrical cultural fluency, practical ability and another actor's consent.",
+        "substantive_responsibility": "Academic performance, actual recipe help, graduation/gift choices and fiction/article voice have different source planes. CURRENT WORKING21: Own paid-work/publication claim, greeting to Darkness, refusal of Kazuma introduction and particular literary rivalry; narrator's mocking history account has its own plane.",
+        "gaps": "Publication is a source claim, not independently checked new edition; no inferred Yunyun assent. Consolidate with full EXP/CONTEXP evidence and earned tier. Current working25 qualification: MAIN05 complete derivative gives own appropriation of destruction as writing material, and Kazuma's retaliation. Her production and the narrator's guilt interpretation differ. Do not collapse theatrical cultural fluency, practical ability and another actor's consent.",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort21_artifacts": [
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_ARUE_CHARACTER_MONOGRAPH.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_ARUE_SOKETTO_BUKKORORI_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_ARUE_SOKETTO_BUKKORORI_NATIVE_PROVENANCE_01.json"
+      ],
+      "cohort21_twelve_dimension_audit": {
+        "primary_appearances_roles": "EXP01 school/recipe and EXP02 farewell plus MAIN05 fiction/manuscript and MAIN14 occupational defense;A01-A13 exact locators.",
+        "direct_versus_reported": "Direct invitations,refereeing,ingredient help,warning/flight,gifts and manuscript reaction;time spent writing/pay/grandfather purchase retain speaker-report limits.",
+        "decisions_goals_constraints_consequences": "Writer/reader pleasure goal,style/status,work investment and practical escape;gift and reader effects not all intended.",
+        "relationships_development": "Distinct M/Y/K/Darkness exchanges;help and intrusion coexist.",
+        "tendencies_counterexamples": "Performance rewarded, practical help and creative grievance; props do not establish a strength-enhancement feat, and manuscript loss defeats invulnerability.",
+        "ordinary_life": "Cat naming,clothing/gift,recipe help,writing and reported week/pay;no complete budget or stable food taste.",
+        "competence_domains_limits": "Local academic results,actual finishing strike and ingredient work;reported magic learning/card-glance intent not performed new cast.",
+        "Japanese_register_address_pragmatics": "私,なんだい,外の人 and elevated answers/gift story;shared culture and textual-only access,no audio/native-human adequacy.",
+        "existing_predictions_hypotheses": "Writing/adventure aspirations are stated goals,not executed future forecasts;no new formal Arue prospective generation.",
+        "genuine_prospective_test_status": "No new unread-source test or Arue synthetic output;known-source retrospective interpretation.",
+        "gaps_contradictions_rivals": "Patch removal/absolute recollection conflict;magic story retracted;generic writer/cultural/status and narrator-selection rivals;private reasoning thin.",
+        "narrators_perspective_limits": "M focalization for school/farewell,K for later manuscript/work;their judgments/recollections not independent trial replications;MAIN17 rhetorical hit excluded."
+      },
+      "cohort21_current_qualifications": {
+        "claim_ids": [
+          "C21-CR02",
+          "C21-CR03",
+          "C21-CR04"
+        ],
+        "source_known": true,
+        "independent_accuracy_result": null,
+        "confidence_gain": 0
+      },
+      "cohort21_semantic_receiving_sha256": "127c7572235b827977fa814bb30d5686fa5e1b3f16d044effa9525a0d9c6ac14"
     },
     {
       "character": "Soketto / Socket",
-      "identity": "そけっと retrieval guard; accepted reports use Socket; direct spelling join pending",
-      "likely_tier": "2 candidate",
-      "priority": "Discovery / consolidation",
-      "evidence_distribution": "Complete EXP01 report direct defense/fortune-telling/own-future disclosure; EXP02 prophecy reported separately. MAIN14 C1P195-213 and complete C3, plus prior expanded sources. CURRENT WORKING31: Current complete MAIN13-MAIN16 accepted report review, receipts49-52; derivative claims retain original access planes. Targeted native confirmations are separately pinned, with no new whole-source/independent-test credit.",
-      "substantive_responsibility": "Own skill, unwanted surveillance/attack, defense, later healing and preferred-future information withholding; finite divination knowledge. CURRENT WORKING21: Own staged tourist ritual/escape excuse and reported divination for Mitsurugi are distinct from actual omniscient prediction. Aqua helps and Kazuma knowingly teases in their own turns. CURRENT WORKING31: MAIN14 knowingly stages tourism emergency, unlike Aqua initially sincere offer. Kazuma knowingly prolongs harassment after learning fiction; Yunyun independently stops it. Later privacy pressure leads to apology promise.",
-      "gaps": "Unattributed intervention not automatically Yunyun; reported oracle humiliation and universal accuracy remain unproved. Final boundaries/tier due. CURRENT WORKING31 QUALIFICATION: Native spelling join and full source/voice disposition remain. No broad consent, infallible oracle, unproved private attraction or attribution of all useful interventions to the oracle herself.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "identity": "そけっと; explicit native name/role joins; retained accepted English aliases and separate actors.",
+      "likely_tier": "3 scoped conditional candidate; containing publication pending; reliability provisional",
+      "priority": "Scoped artifacts/diagnostics semantically received; containing publication gate pending",
+      "evidence_distribution": "Cohort21 individual native retrieval and twelve actual known-source receipts;shared 3,154 BASE contexts/twenty members/five objects plus three actual images are not person events or new full-source passes. Earlier source/derivative histories retain original scopes.",
+      "substantive_responsibility": "Own finite consultation,curiosity,preferred-future withholding,conditional boundaries/service and actual wind/lightning/water work.",
+      "gaps": "No infallibility,guaranteed romance or universal privacy/recipient-protection ethic. Current bandaging is Yunyun;other healing leads need own evidence. Four known first bodies leave strong generic rivals and unprobed actual skill/danger.",
+      "disposition_status": "SCOPED_TIER3_CANDIDATE_COHORT21_PUBLICATION_PENDING",
       "independent_observation_count": null,
       "prior_gap_history_working20": "No guaranteed future marriage; current empty result differs from later own-involvement rule. Direct native exact voice/naming due.",
       "current_scope_asof_working21": "MAIN01-13 full gates closed;MAIN14 published4e66641f andall9078remote paths/43changedstreams verified;actualsourceaudit running;MAIN15-17 excluded unadmitted.",
       "prior_gap_history_working30": "Unattributed intervention not automatically Yunyun; reported oracle humiliation and universal accuracy remain unproved. Final boundaries/tier due.",
       "current_scope_asof_working31": "All17 main excluded,19 supplemental and5mixed declared source programs remain closed. Current complete main analytical-derivative review is MAIN01-17 (MAIN17 received earlier out of order); receipts49-52 finishMAIN13-16. Later checkpoints/earlier prospective reconciliation/current ledger and separate supporting-register consolidation, final census/artifacts/expanded models/curation/release remain active. No new source/whole-native/ruby/image/independent-test credit from derivative receiving. Current157qualified audit rows are not final individual population; global percentage null.",
-      "cohort06_current_evidence_qualification": "Current complete MAIN13-16 analytical receiving with exact separate native scope where receipted; historical forecasts and earlier published scoped models/gates remain unchanged. Full independent-event/census closure remains open."
+      "cohort06_current_evidence_qualification": "Current complete MAIN13-16 analytical receiving with exact separate native scope where receipted; historical forecasts and earlier published scoped models/gates remain unchanged. Full independent-event/census closure remains open.",
+      "prior_cohort21_current_fields": {
+        "identity": "そけっと retrieval guard; accepted reports use Socket; direct spelling join pending",
+        "likely_tier": "2 candidate",
+        "priority": "Discovery / consolidation",
+        "evidence_distribution": "Complete EXP01 report direct defense/fortune-telling/own-future disclosure; EXP02 prophecy reported separately. MAIN14 C1P195-213 and complete C3, plus prior expanded sources. CURRENT WORKING31: Current complete MAIN13-MAIN16 accepted report review, receipts49-52; derivative claims retain original access planes. Targeted native confirmations are separately pinned, with no new whole-source/independent-test credit.",
+        "substantive_responsibility": "Own skill, unwanted surveillance/attack, defense, later healing and preferred-future information withholding; finite divination knowledge. CURRENT WORKING21: Own staged tourist ritual/escape excuse and reported divination for Mitsurugi are distinct from actual omniscient prediction. Aqua helps and Kazuma knowingly teases in their own turns. CURRENT WORKING31: MAIN14 knowingly stages tourism emergency, unlike Aqua initially sincere offer. Kazuma knowingly prolongs harassment after learning fiction; Yunyun independently stops it. Later privacy pressure leads to apology promise.",
+        "gaps": "Unattributed intervention not automatically Yunyun; reported oracle humiliation and universal accuracy remain unproved. Final boundaries/tier due. CURRENT WORKING31 QUALIFICATION: Native spelling join and full source/voice disposition remain. No broad consent, infallible oracle, unproved private attraction or attribution of all useful interventions to the oracle herself.",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort21_artifacts": [
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_SOKETTO_CHARACTER_MONOGRAPH.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_ARUE_SOKETTO_BUKKORORI_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_ARUE_SOKETTO_BUKKORORI_NATIVE_PROVENANCE_01.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_SOKETTO_RECONSTRUCTION_MODEL.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/SOKETTO_EXPANDED_V1_EVIDENCE/SOKETTO_CASE_ASSESSMENT_01.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SOKETTO_BANDAGING_ATTRIBUTION_ERRATUM_01.md"
+      ],
+      "cohort21_twelve_dimension_audit": {
+        "primary_appearances_roles": "EXP01 forest/shop/U049 own consultation,EXP02 mediated warning,MAIN05 dramatic escape and MAIN14 tourism/reports;S01-S10.",
+        "direct_versus_reported": "Own spells,service/withholding direct;surveillance routines/reputation/letter delivery and later visits reported by distinct speakers.",
+        "decisions_goals_constraints_consequences": "Professional wish to avert misfortune,curiosity,preferred future and self-boundary can conflict with request/cost;hidden material benefit unknown.",
+        "relationships_development": "B pursuit/duel mismatch,limited service/current non-troubling presence and conditional appraisal;M client pressure,K knowing teasing,Aq sincere offer,Y own intervention.",
+        "tendencies_counterexamples": "Effective defense,selective disclosure and bounded service;advice to endure harassment qualifies universal protector account.",
+        "ordinary_life": "Shop procedure,particular wooden-sword purchase;B routine claims not neutral diary;fees discretionary/incomplete.",
+        "competence_domains_limits": "Wind-assisted landing,Lightning Strike,water protection and actual crystal;no measured divination accuracy or healing spell from bandaging.",
+        "Japanese_register_address_pragmatics": "私/direct address,one-time concession and future-changeability explanation;amusement/exasperation/uncertainty,textual Japanese only.",
+        "existing_predictions_hypotheses": "Blank/future-changeability/own-involvement statement and M marriage join keep their temporal access;no recoded source forecast.",
+        "genuine_prospective_test_status": "Four informed first English hypotheticals/two pairs,not prospective source validation;generic rivals/shared deadline and unasked details,no confidence gain.",
+        "gaps_contradictions_rivals": "Yunyun bandaging correction,finite procedure,unknown future reasons,no guaranteed marriage/privacy ethic;unfamiliar obligations/violence largely untested.",
+        "narrators_perspective_limits": "M forest/shop focalization and K main contexts;B/official accounts are attributed perspectives,not independent confirmation counts."
+      },
+      "cohort21_current_qualifications": {
+        "claim_ids": [
+          "C21-CR01"
+        ],
+        "source_known": true,
+        "independent_accuracy_result": null,
+        "confidence_gain": 0
+      },
+      "cohort21_semantic_receiving_sha256": "127c7572235b827977fa814bb30d5686fa5e1b3f16d044effa9525a0d9c6ac14"
     },
     {
       "character": "Bukkorori",
-      "identity": "ぶっころりー retrieval guard; accepted report spelling Bukkorori",
-      "likely_tier": "2 candidate",
-      "priority": "Discovery / consolidation",
-      "evidence_distribution": "Complete EXP01/02 reports; romance, work, patrol, rescue and ordinary family contexts. MAIN14 complete village principal base text. CURRENT WORKING31: Current complete MAIN13-MAIN16 accepted report review, receipts49-52; derivative claims retain original access planes. Targeted native confirmations are separately pinned, with no new whole-source/independent-test credit.",
-      "substantive_responsibility": "Strong magic, harmful delay/performance and surveillance, real control limits and costly failures coexist with actual patrol/help. CURRENT WORKING21: Actual protective work/limits, detention/release, injuries, error, requests and anger; Megumin's false story/threat and reported Soketto humiliation remain separate actor accounts. CURRENT WORKING31: MAIN14 actual custody/patrol roles and credible robot warning coexist with history-driven rejection, false-accusation pressure and ordinary ice-watching rapport. Soketto private intentions remain unobserved.",
-      "gaps": "NEET label does not exhaust competence or justify assault. Guessed slang teaching not verified; broad oracle/sexual-history claims require own evidence. CURRENT WORKING31 QUALIFICATION: Preserve actual useful information and adverse stalking/pressure separately. NEET/narrator labels do not exhaust person, justify assault or prove every patrol sexual motive; unverified slang/romance claims remain open.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "identity": "ぶっころりー; explicit native name/role joins; retained accepted English aliases and separate actors.",
+      "likely_tier": "3 scoped conditional candidate; containing publication pending; reliability provisional",
+      "priority": "Scoped artifacts/diagnostics semantically received; containing publication gate pending",
+      "evidence_distribution": "Cohort21 individual native retrieval and twelve actual known-source receipts;shared 3,154 BASE contexts/twenty members/five objects plus three actual images are not person events or new full-source passes. Earlier source/derivative histories retain original scopes.",
+      "substantive_responsibility": "Own audience-sensitive display,romantic access-seeking,genuine bounded work and fallible cue/credibility appraisal;skill and harmful means coexist.",
+      "gaps": "Firsts retain shared work/withdrawal endpoints,unsupported numerical/room framing and unasked pretext;intrusive branch largely untested,R03 weak/R04 unprobed. No complete reform or paid career.",
+      "disposition_status": "SCOPED_TIER3_CANDIDATE_COHORT21_PUBLICATION_PENDING",
       "independent_observation_count": null,
       "prior_gap_history_working20": "Native name/voice/role backjoins; romantic recipient misunderstanding and unobserved motives remain attributed. No provider omniscience.",
       "current_scope_asof_working21": "MAIN01-13 full gates closed;MAIN14 published4e66641f andall9078remote paths/43changedstreams verified;actualsourceaudit running;MAIN15-17 excluded unadmitted.",
       "prior_gap_history_working30": "NEET label does not exhaust competence or justify assault. Guessed slang teaching not verified; broad oracle/sexual-history claims require own evidence.",
       "current_scope_asof_working31": "All17 main excluded,19 supplemental and5mixed declared source programs remain closed. Current complete main analytical-derivative review is MAIN01-17 (MAIN17 received earlier out of order); receipts49-52 finishMAIN13-16. Later checkpoints/earlier prospective reconciliation/current ledger and separate supporting-register consolidation, final census/artifacts/expanded models/curation/release remain active. No new source/whole-native/ruby/image/independent-test credit from derivative receiving. Current157qualified audit rows are not final individual population; global percentage null.",
-      "cohort06_current_evidence_qualification": "Current complete MAIN13-16 analytical receiving with exact separate native scope where receipted; historical forecasts and earlier published scoped models/gates remain unchanged. Full independent-event/census closure remains open."
+      "cohort06_current_evidence_qualification": "Current complete MAIN13-16 analytical receiving with exact separate native scope where receipted; historical forecasts and earlier published scoped models/gates remain unchanged. Full independent-event/census closure remains open.",
+      "prior_cohort21_current_fields": {
+        "identity": "ぶっころりー retrieval guard; accepted report spelling Bukkorori",
+        "likely_tier": "2 candidate",
+        "priority": "Discovery / consolidation",
+        "evidence_distribution": "Complete EXP01/02 reports; romance, work, patrol, rescue and ordinary family contexts. MAIN14 complete village principal base text. CURRENT WORKING31: Current complete MAIN13-MAIN16 accepted report review, receipts49-52; derivative claims retain original access planes. Targeted native confirmations are separately pinned, with no new whole-source/independent-test credit.",
+        "substantive_responsibility": "Strong magic, harmful delay/performance and surveillance, real control limits and costly failures coexist with actual patrol/help. CURRENT WORKING21: Actual protective work/limits, detention/release, injuries, error, requests and anger; Megumin's false story/threat and reported Soketto humiliation remain separate actor accounts. CURRENT WORKING31: MAIN14 actual custody/patrol roles and credible robot warning coexist with history-driven rejection, false-accusation pressure and ordinary ice-watching rapport. Soketto private intentions remain unobserved.",
+        "gaps": "NEET label does not exhaust competence or justify assault. Guessed slang teaching not verified; broad oracle/sexual-history claims require own evidence. CURRENT WORKING31 QUALIFICATION: Preserve actual useful information and adverse stalking/pressure separately. NEET/narrator labels do not exhaust person, justify assault or prove every patrol sexual motive; unverified slang/romance claims remain open.",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort21_artifacts": [
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_BUKKORORI_CHARACTER_MONOGRAPH.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_ARUE_SOKETTO_BUKKORORI_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_ARUE_SOKETTO_BUKKORORI_NATIVE_PROVENANCE_01.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_BUKKORORI_RECONSTRUCTION_MODEL.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/BUKKORORI_EXPANDED_V1_EVIDENCE/BUKKORORI_CASE_ASSESSMENT_01.md"
+      ],
+      "cohort21_twelve_dimension_audit": {
+        "primary_appearances_roles": "EXP01 consultation/forest/patrol,EXP02 invitation/false battle/real beam,MAIN05 welcome/exit/escape and MAIN14 guard work;B01-B17.",
+        "direct_versus_reported": "Own timed spells,offers,questions/complaints direct;Sok biography,earlier acts and Camonegi care/death reported;group speech/casts not all his.",
+        "decisions_goals_constraints_consequences": "Recognition and romantic access coexist with real work,finite funds,fear/embarrassment and self-excuse;no universally coherent helper.",
+        "relationships_development": "Different Sok/M/Y/K/father/Komekko states;services/gifts not blanket consent,legal kinship or completed reform.",
+        "tendencies_counterexamples": "Useful skilled work plus display/intrusion/fallible appraisal;prompt beam,financial exclusion and easy social talk are contrary to simple labels.",
+        "ordinary_life": "Sleep,family shop context,imposed bill versus offered lunch,scarce funds,proposed idle leisure and voluntary patrol;no paid career or complete budget.",
+        "competence_domains_limits": "Actual optical concealment,saber,Tornado,Inferno,Teleport/contextual beam;unsafe process and technical/readiness/access limits distinct.",
+        "Japanese_register_address_pragmatics": "俺 across several EXP/MAIN05 returns,僕 in MAIN14;ordinary and ceremonial registers,not one fixed catchphrase;no audio/JP output test.",
+        "existing_predictions_hypotheses": "Battle-readiness/relationship desires are reported aspirations;belief in M false history and confession is not source truth or formal prospective success.",
+        "genuine_prospective_test_status": "Four informed first English bodies/two pairs,not source validation;shared chair/contact endpoints,unprovided details,weak R03 and unprobed R04 retained.",
+        "gaps_contradictions_rivals": "Generic cultural/audience/pursuit/helper/bias rivals;actual reform,other romances,unfamiliar duty and hidden budget open.",
+        "narrators_perspective_limits": "M and K focalizations plus his attributed long speech;reader lies/future facts not automatically B knowledge or independent trials."
+      },
+      "cohort21_current_qualifications": {
+        "claim_ids": [
+          "C21-CR04"
+        ],
+        "source_known": true,
+        "independent_accuracy_result": null,
+        "confidence_gain": 0
+      },
+      "cohort21_semantic_receiving_sha256": "127c7572235b827977fa814bb30d5686fa5e1b3f16d044effa9525a0d9c6ac14"
     },
     {
       "character": "Funifura",
@@ -1557,13 +1675,27 @@
       },
       "cohort20_medicine_current_qualification": {
         "claim_id": "C20-CR04",
-        "status": "SEMANTIC_CLARIFICATION_RECEIVED_CONTAINING_PUBLICATION_PENDING",
+        "status": "FULL_EXACT_SOURCE_CLARIFICATION_PUBLICATION_GATE_CLOSED",
         "current_reading": "Farewell exchange reports apparent good effect of Megumin-made potion. No Dodonko production, ingredient labor, patient treatment or medical occupation established.",
         "speaker_limit": "P433 assignment to Dodonko is contextual within Funifura/Dodonko exchange, not an explicit narrator name-tag.",
         "observed_preparation_roles": "EXP01U037P93-98/P113-122 assigns actual ingredient assistance to Arue with Megumin.",
         "patient_limit": "No independently observed diagnosis/cure from participant report.",
         "erratum_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_VILLAGE_PEERS_MEDICINE_ATTRIBUTION_ERRATUM_01.md",
-        "new_model_test_or_confidence_credit": 0
+        "new_model_test_or_confidence_credit": 0,
+        "publication_pending_at_authorship_history": "SEMANTIC_CLARIFICATION_RECEIVED_CONTAINING_PUBLICATION_PENDING",
+        "publication_gate_close": {
+          "source": "0c0146c354b05649cb669cc5ec7e414d4dddac5c",
+          "tree": "6286c3f5f34618f92745a0f6643298747a18d37b",
+          "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_VILLAGE_PEERS_MEDICINE_CLARIFICATION_PUBLICATION_GATE_CLOSE.json",
+          "gate_sha256": "5caf5105916b6ef073624e1614979df3d7bd67bc33c609df39f4b9bc531627f3",
+          "source_run": 39490429192,
+          "housekeeping_run": 39491113325,
+          "final_run": 39491183580,
+          "full_tests_each": 385,
+          "published_project_paths": 1188,
+          "current_models": 28,
+          "no_independent_accuracy_or_confidence_gain": true
+        }
       }
     },
     {
@@ -1613,13 +1745,27 @@
       },
       "cohort20_medicine_current_qualification": {
         "claim_id": "C20-CR04",
-        "status": "SEMANTIC_CLARIFICATION_RECEIVED_CONTAINING_PUBLICATION_PENDING",
+        "status": "FULL_EXACT_SOURCE_CLARIFICATION_PUBLICATION_GATE_CLOSED",
         "current_reading": "Farewell exchange reports apparent good effect of Megumin-made potion. No Dodonko production, ingredient labor, patient treatment or medical occupation established.",
         "speaker_limit": "P433 assignment to Dodonko is contextual within Funifura/Dodonko exchange, not an explicit narrator name-tag.",
         "observed_preparation_roles": "EXP01U037P93-98/P113-122 assigns actual ingredient assistance to Arue with Megumin.",
         "patient_limit": "No independently observed diagnosis/cure from participant report.",
         "erratum_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_VILLAGE_PEERS_MEDICINE_ATTRIBUTION_ERRATUM_01.md",
-        "new_model_test_or_confidence_credit": 0
+        "new_model_test_or_confidence_credit": 0,
+        "publication_pending_at_authorship_history": "SEMANTIC_CLARIFICATION_RECEIVED_CONTAINING_PUBLICATION_PENDING",
+        "publication_gate_close": {
+          "source": "0c0146c354b05649cb669cc5ec7e414d4dddac5c",
+          "tree": "6286c3f5f34618f92745a0f6643298747a18d37b",
+          "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_VILLAGE_PEERS_MEDICINE_CLARIFICATION_PUBLICATION_GATE_CLOSE.json",
+          "gate_sha256": "5caf5105916b6ef073624e1614979df3d7bd67bc33c609df39f4b9bc531627f3",
+          "source_run": 39490429192,
+          "housekeeping_run": 39491113325,
+          "final_run": 39491183580,
+          "full_tests_each": 385,
+          "published_project_paths": 1188,
+          "current_models": 28,
+          "no_independent_accuracy_or_confidence_gain": true
+        }
       }
     },
     {
@@ -4222,13 +4368,27 @@
       },
       "cohort20_medicine_current_qualification": {
         "claim_id": "C20-CR04",
-        "status": "SEMANTIC_CLARIFICATION_RECEIVED_CONTAINING_PUBLICATION_PENDING",
+        "status": "FULL_EXACT_SOURCE_CLARIFICATION_PUBLICATION_GATE_CLOSED",
         "current_reading": "Farewell exchange reports apparent good effect of Megumin-made potion. No Dodonko production, ingredient labor, patient treatment or medical occupation established.",
         "speaker_limit": "P433 assignment to Dodonko is contextual within Funifura/Dodonko exchange, not an explicit narrator name-tag.",
         "observed_preparation_roles": "EXP01U037P93-98/P113-122 assigns actual ingredient assistance to Arue with Megumin.",
         "patient_limit": "No independently observed diagnosis/cure from participant report.",
         "erratum_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_VILLAGE_PEERS_MEDICINE_ATTRIBUTION_ERRATUM_01.md",
-        "new_model_test_or_confidence_credit": 0
+        "new_model_test_or_confidence_credit": 0,
+        "publication_pending_at_authorship_history": "SEMANTIC_CLARIFICATION_RECEIVED_CONTAINING_PUBLICATION_PENDING",
+        "publication_gate_close": {
+          "source": "0c0146c354b05649cb669cc5ec7e414d4dddac5c",
+          "tree": "6286c3f5f34618f92745a0f6643298747a18d37b",
+          "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_VILLAGE_PEERS_MEDICINE_CLARIFICATION_PUBLICATION_GATE_CLOSE.json",
+          "gate_sha256": "5caf5105916b6ef073624e1614979df3d7bd67bc33c609df39f4b9bc531627f3",
+          "source_run": 39490429192,
+          "housekeeping_run": 39491113325,
+          "final_run": 39491183580,
+          "full_tests_each": 385,
+          "published_project_paths": 1188,
+          "current_models": 28,
+          "no_independent_accuracy_or_confidence_gain": true
+        }
       }
     },
     {
@@ -4300,9 +4460,108 @@
         "current_models": 28,
         "no_independent_accuracy_or_confidence_gain": true
       }
+    },
+    {
+      "character": "Bukkorori father / unnamed shoe-shop owner",
+      "identity": "Explicit father/shop role EXP01U028P41; EXP02U023P638-650. Personal name absent; identity not joined to Funifura’s reported father/staff craftsman, Hyoizaburoo or other unnamed shopkeepers.",
+      "likely_tier": "1 scoped compact profile; containing publication pending",
+      "priority": "Bounded cohort21 disposition; future evidence may revise",
+      "evidence_distribution": "I01 EXP01U028P39-51/EXP02U023P638-650",
+      "substantive_responsibility": "Own welcome/work role and direct neighbor-care promise;rapid angry response to misleading complaints. Compact bounded profile in existing CS ledger.",
+      "gaps": "No comparative shoe quality,complete parenting/finance history,witnessed upstairs blow sequence or performed long-term care;son not promise actor.",
+      "disposition_status": "SCOPED_TIER1_PROFILE_COHORT21_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort21_artifacts": [
+        "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md#cohort21-bukkororis-father-bounded-profile",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_ARUE_SOKETTO_BUKKORORI_EVIDENCE_INDEX.md"
+      ],
+      "source_access_type": "direct role/actions plus attributed prior reports",
+      "not_final_unique_person_increment": true,
+      "cohort21_twelve_dimension_audit": {
+        "primary_appearances_roles": "I01: two explicit shop/father encounters in EXP01U028/EXP02U023.",
+        "direct_versus_reported": "Welcome,upstairs rush and current care promise direct;earlier parent request/son rude awakening reported.",
+        "decisions_goals_constraints_consequences": "Accepts neighbor-care request,reacts angrily to misleading complaint;future care unperformed.",
+        "relationships_development": "Father/son and familiar M/Komekko roles; no identity join to other unnamed craftsman or parent roles.",
+        "tendencies_counterexamples": "Helpful promise and hasty inference coexist;no whole parenting pattern.",
+        "ordinary_life": "Shoe-shop role/welcome;only shop qualifies foremost claim,no full budget.",
+        "competence_domains_limits": "No watched shoe manufacturing or long-term care;business role not comparative quality feat.",
+        "Japanese_register_address_pragmatics": "Colloquial welcome/son address in actual Japanese;textual only.",
+        "existing_predictions_hypotheses": "No formal prospective forecast;future care is a promise.",
+        "genuine_prospective_test_status": "No synthetic or unread-source trial assigned to this compact profile.",
+        "gaps_contradictions_rivals": "Personal name,motives,finance and upstairs outcome unknown;no diagnosis or stable violence claim.",
+        "narrators_perspective_limits": "Both encounters M focalization;two contexts not independent replication."
+      },
+      "cohort21_publication_status": "SEMANTIC_RECEIVING_COMPLETE_CONTAINING_PUBLICATION_PENDING",
+      "cohort21_semantic_receiving_sha256": "127c7572235b827977fa814bb30d5686fa5e1b3f16d044effa9525a0d9c6ac14"
+    },
+    {
+      "character": "Unnamed EXP02 departure transfer-shop operator",
+      "identity": "Source-bound EXP02U023P681-702 departure operator;personal identity unjoined to earlier price interlocutor,transfer angel or other operators.",
+      "likely_tier": "0 source-bound occurrence; no separate artifact earned",
+      "priority": "Bounded cohort21 disposition; future evidence may revise",
+      "evidence_distribution": "I02 EXP02U023P681-702;earlier M price contextU015P40-46",
+      "substantive_responsibility": "Own local capacity/timing announcement,receipt of silver bag and actual Teleport departure service.",
+      "gaps": "No broad psychology,universal four-person magic ceiling,complete counted payment settlement or new unique-person denominator.",
+      "disposition_status": "TIER0_REPORT_OR_SERVICE_OCCURRENCE_COHORT21_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort21_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_ARUE_SOKETTO_BUKKORORI_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_ARUE_SOKETTO_BUKKORORI_NATIVE_PROVENANCE_01.json"
+      ],
+      "source_access_type": "performed service with local claims",
+      "not_final_unique_person_increment": true,
+      "cohort21_twelve_dimension_audit": {
+        "primary_appearances_roles": "I02 departure service in EXP02U023P681-702;earlier M price context kept separate.",
+        "direct_versus_reported": "Announcement,bag receipt and actual Teleport direct;earlier quoted price indirect context.",
+        "decisions_goals_constraints_consequences": "Local schedule/capacity and actual service;no psychological generator.",
+        "relationships_development": "Unnamed customer/service role;identity not joined to angel/other operator.",
+        "tendencies_counterexamples": "Single narrow service occurrence,insufficient stable tendencies.",
+        "ordinary_life": "Occupational service context only;no private habits/budget.",
+        "competence_domains_limits": "Actual cast,local capacity claim;no universal ceiling or full account audit.",
+        "Japanese_register_address_pragmatics": "Public departure/capacity instructions;no complete personal voice model.",
+        "existing_predictions_hypotheses": "No prospective forecast or separate behavioral hypothesis.",
+        "genuine_prospective_test_status": "No synthetic/unread-source trial.",
+        "gaps_contradictions_rivals": "Name/identity joins,terms/actual counted payment and broader behavior unknown.",
+        "narrators_perspective_limits": "M focalization only;reported commercial context not independent source trial."
+      },
+      "cohort21_publication_status": "SEMANTIC_RECEIVING_COMPLETE_CONTAINING_PUBLICATION_PENDING",
+      "cohort21_semantic_receiving_sha256": "127c7572235b827977fa814bb30d5686fa5e1b3f16d044effa9525a0d9c6ac14"
+    },
+    {
+      "character": "Arue reported grandfather",
+      "identity": "Arue-reported お爺ちゃん who bought childhood fashion patch EXP02U023P484;name/family branch unprovided.",
+      "likely_tier": "0 source-bound occurrence; no separate artifact earned",
+      "priority": "Bounded cohort21 disposition; future evidence may revise",
+      "evidence_distribution": "I03 EXP02U023P484",
+      "substantive_responsibility": "Report-bound family/gift occurrence;not a newly watched grandfather act.",
+      "gaps": "No direct private view,magical-gift ability or automatic join to another elder. Participant report remains qualified after magical-story retraction.",
+      "disposition_status": "TIER0_REPORT_OR_SERVICE_OCCURRENCE_COHORT21_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort21_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_ARUE_SOKETTO_BUKKORORI_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_ARUE_SOKETTO_BUKKORORI_NATIVE_PROVENANCE_01.json"
+      ],
+      "source_access_type": "participant-reported family history",
+      "not_final_unique_person_increment": true,
+      "cohort21_twelve_dimension_audit": {
+        "primary_appearances_roles": "I03 participant report EXP02U023P484.",
+        "direct_versus_reported": "Arue says grandfather bought childhood fashion patch;no direct grandfather scene.",
+        "decisions_goals_constraints_consequences": "Attributed gift/purchase only;no inferred obligation or motive.",
+        "relationships_development": "Reported grandfather relation,branch/name absent;unjoined elders.",
+        "tendencies_counterexamples": "No stable tendency established.",
+        "ordinary_life": "No habit or budget established.",
+        "competence_domains_limits": "No watched craft or magic;fashion item has explicitly retracted magical story.",
+        "Japanese_register_address_pragmatics": "No grandfather speech observed.",
+        "existing_predictions_hypotheses": "No forecast or generated hypothesis assigned.",
+        "genuine_prospective_test_status": "No prospective/synthetic test.",
+        "gaps_contradictions_rivals": "Participant report,identity branch/private reasoning unavailable.",
+        "narrators_perspective_limits": "Arue report inside M narrative;not independent view."
+      },
+      "cohort21_publication_status": "SEMANTIC_RECEIVING_COMPLETE_CONTAINING_PUBLICATION_PENDING",
+      "cohort21_semantic_receiving_sha256": "127c7572235b827977fa814bb30d5686fa5e1b3f16d044effa9525a0d9c6ac14"
     }
   ],
-  "working_row_count_not_population_denominator": 190,
+  "working_row_count_not_population_denominator": 193,
   "global_census_closed": false,
   "final_tiers_assigned": false,
   "global_completion_percentage": null,
@@ -4328,9 +4587,10 @@
     "Wolbach scoped conditional Tier3 and Chomusuke scoped Tier2 monograph cohort17 full publication gate closed; future modeling open and reliability provisional",
     "Sena/Arnes scoped conditional Tier3separate monographs/models cohort18 full publication gate closed; three/four rules,reliability provisional",
     "Rex scoped conditional Tier3 three-rule model/monograph and Sophie/Terry separate revisable Tier1 profiles cohort19 full publication gate closed; reliability provisional",
-    "Funifura/Dodonko separate revisable Tier2 monographs, Nerimaki Tier1 profile with Arue attribution correction and three Tier0 occurrences cohort20 full publication gate closed; no new reconstruction."
+    "Funifura/Dodonko separate revisable Tier2 monographs, Nerimaki Tier1 profile with Arue attribution correction and three Tier0 occurrences cohort20 full publication gate closed; no new reconstruction.",
+    "Cohort21 Arue Tier2 monograph,Soketto/Bukkorori separate conditional Tier3 candidates,father compact Tier1 and two Tier0 occurrences;semantic receiving complete,exact publication pending."
   ],
-  "current_actual_individual_audit_scope": "C20-CR04 qualifies medicine work as participant report of apparent effect of Megumin-made potion, not Dodonko production/treatment/occupation. P433 speaker assignment contextual, not directly narrator-tagged. Qualified reuse of96 already received known BASE slots/two members/two objects;zero new primary pass/admission/independent cure test. Rows48/49/187 qualified,187 others exact relative current; carried C20closure makes six rows differ from parent9449d428,184 others exact. All five sealed C20cores and28models unchanged; full census and program unfinished.",
+  "current_actual_individual_audit_scope": "Twelve actual receipts bind 3,154 known BASE contexts/twenty members/five objects plus three prior actual images. No new whole-source/ruby/residual/image-set/admission/independent pass. Three old analytical rows 45/46/47 plus 3 new records; 187 other current old rows exact. Carried closure 48/49/187 makes six old rows differ from parent 0c0146c3,184 others exact. Eight same-author first English hypothetical bodies/four pairs retain zero repair/regeneration,strong cues,generic rivals,shared endpoints,unprovided details and unprobed rules. Yunyun bandaging qualification explicit;original report exact. No independent accuracy,Japanese adequacy,grade or confidence gain.",
   "historical_integrity": "MG02-I01/I02 through MG05, original blank fields, CP outcomes, letters-as-NT and preYORI04SEC01 scope remain unchanged. New source-known comparisons are retrospective; hypotheticals are not source validation.",
   "current_receipt_pins": [
     {
@@ -6206,7 +6466,7 @@
     "updated_utc": "2026-10-20T17:44:03.663249+00:00",
     "scope": "Cohorts01-18 have closed exact-source gates at declared scopes: twenty-one scoped secondary conditional-model subjects/27model bodies,fifteen bounded profiles and four Tier2monograph-only Nos,Rionor,Feit,Chomusuke.187qualifiedrecords include groups,aliases and occurrence slots,not final unique people. Reliability remains provisional; full census/final tiers/program open."
   },
-  "canonical_status": "Cohort20 published boundary closed; focused external medicine wording/speaker attribution clarification received, exact containing publication pending. No frozen core edit or tier/model/test change.",
+  "canonical_status": "Cohort21 Arue Tier2, Soketto/Bukkorori conditional Tier3 candidates, father compact Tier1 and two Tier0 occurrences received; exact publication pending. All28 entering models/history remain exact.",
   "cohort19_current_receiving": {
     "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
     "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_REX_SOPHIE_TERRY_COHORT_19_RECEIVING_AND_PROVENANCE.json",
@@ -6463,7 +6723,7 @@
     "updated_utc": "2026-10-20T19:40:05.958093+00:00"
   },
   "cohort20_medicine_clarification_current": {
-    "status": "SEMANTIC_CLARIFICATION_COMPLETE_CONTAINING_PUBLICATION_PENDING",
+    "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
     "erratum_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_VILLAGE_PEERS_MEDICINE_ATTRIBUTION_ERRATUM_01.md",
     "receiving_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_VILLAGE_PEERS_MEDICINE_CLARIFICATION_01_RECEIVING_AND_PROVENANCE.json",
     "semantic_receiving_sha256": "b5a58d19da008c1faf946cbb88b04bda2e7bc6553efa548fbf76f0b745697ce6",
@@ -6473,6 +6733,86 @@
       187
     ],
     "untouched_current_rows": 187,
-    "no_frozen_edits_new_models_or_tests": true
+    "no_frozen_edits_new_models_or_tests": true,
+    "publication_pending_at_authorship_history": "SEMANTIC_CLARIFICATION_COMPLETE_CONTAINING_PUBLICATION_PENDING",
+    "publication_gate_close": {
+      "source": "0c0146c354b05649cb669cc5ec7e414d4dddac5c",
+      "tree": "6286c3f5f34618f92745a0f6643298747a18d37b",
+      "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_VILLAGE_PEERS_MEDICINE_CLARIFICATION_PUBLICATION_GATE_CLOSE.json",
+      "gate_sha256": "5caf5105916b6ef073624e1614979df3d7bd67bc33c609df39f4b9bc531627f3",
+      "source_run": 39490429192,
+      "housekeeping_run": 39491113325,
+      "final_run": 39491183580,
+      "full_tests_each": 385,
+      "published_project_paths": 1188,
+      "current_models": 28,
+      "no_independent_accuracy_or_confidence_gain": true
+    },
+    "published_authority_reload_sha256": "db3d9c17128c730c945482024ad58d8a3fe186e3369778bcc770ce79c20939a0"
+  },
+  "prior_current_metadata_before_C20_CR04_GATE_CLOSE": {
+    "scope": "Cohorts01-20 full exact-source gates remain closed at declared scopes. Focused C20-CR04 medicine-attribution clarification semantically received; containing publication pending. Counts remain190 nonfinal records,28 models/twenty-two scoped secondary model subjects,eighteen profiles and six monograph-only subjects; final census/tiers/program open.",
+    "canonical_status": "Cohort20 published boundary closed; focused external medicine wording/speaker attribution clarification received, exact containing publication pending. No frozen core edit or tier/model/test change.",
+    "current_actual_individual_audit_scope": "C20-CR04 qualifies medicine work as participant report of apparent effect of Megumin-made potion, not Dodonko production/treatment/occupation. P433 speaker assignment contextual, not directly narrator-tagged. Qualified reuse of96 already received known BASE slots/two members/two objects;zero new primary pass/admission/independent cure test. Rows48/49/187 qualified,187 others exact relative current; carried C20closure makes six rows differ from parent9449d428,184 others exact. All five sealed C20cores and28models unchanged; full census and program unfinished.",
+    "updated_utc": "2026-10-20T20:03:49.238645+00:00"
+  },
+  "cohort20_medicine_clarification_publication_resolution": {
+    "source": "0c0146c354b05649cb669cc5ec7e414d4dddac5c",
+    "tree": "6286c3f5f34618f92745a0f6643298747a18d37b",
+    "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_VILLAGE_PEERS_MEDICINE_CLARIFICATION_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "5caf5105916b6ef073624e1614979df3d7bd67bc33c609df39f4b9bc531627f3",
+    "source_run": 39490429192,
+    "housekeeping_run": 39491113325,
+    "final_run": 39491183580,
+    "full_tests_each": 385,
+    "published_project_paths": 1188,
+    "current_models": 28,
+    "no_independent_accuracy_or_confidence_gain": true
+  },
+  "prior_current_metadata_before_cohort21": {
+    "status": "INCREMENTAL_190_QUALIFIED_RECORDS_NOT_FINAL_INDIVIDUAL_DENOMINATOR",
+    "working_row_count_not_population_denominator": 190,
+    "scope": "Cohorts01-20 and focused C20-CR04 clarification have closed exact-source publication gates at declared scopes. Counts remain 190 nonfinal records,28 model bodies/twenty-two scoped secondary model subjects,eighteen bounded profiles and six monograph-only subjects. Reliability remains provisional; full census/final tiers/program open.",
+    "canonical_status": "Focused external medicine attribution clarification full gate/fresh published authority reload closed. Five sealed C20 cores and28 models unchanged; full KonoSuba program active.",
+    "current_actual_individual_audit_scope": "C20-CR04 published qualification separates Megumin production,Arue assistance and contextual peer apparent-result testimony. Reuses96 known BASE contexts/two members/two objects with no new primary pass or independent cure verification. Only rows48/49/187 qualification-status updates differ from source0c0146c3;187 other rows exact. No new row,tier,model,rule,input,first body or test; full census/program unfinished.",
+    "updated_utc": "2026-10-20T20:29:17.090732+00:00"
+  },
+  "cohort21_current_receiving": {
+    "status": "SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+    "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_ARUE_SOKETTO_BUKKORORI_COHORT_21_RECEIVING_AND_PROVENANCE.json",
+    "semantic_receiving_sha256": "127c7572235b827977fa814bb30d5686fa5e1b3f16d044effa9525a0d9c6ac14",
+    "candidate_models": 30,
+    "candidate_scoped_secondary_model_subjects": 24,
+    "bounded_profiles": 19,
+    "monograph_only_subjects": [
+      "Nos",
+      "Rionor",
+      "Feit",
+      "Chomusuke",
+      "Funifura",
+      "Dodonko",
+      "Arue"
+    ],
+    "records_not_final_people": 193,
+    "changed_rows": [
+      45,
+      46,
+      47
+    ],
+    "untouched_existing_rows_relative_current": 187,
+    "new_rows": [
+      190,
+      191,
+      192
+    ],
+    "parent_changed_existing_rows": [
+      45,
+      46,
+      47,
+      48,
+      49,
+      187
+    ],
+    "untouched_existing_rows_relative_parent": 184
   }
 }

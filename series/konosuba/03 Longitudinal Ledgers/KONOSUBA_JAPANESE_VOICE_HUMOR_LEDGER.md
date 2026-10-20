@@ -1912,3 +1912,10 @@ Known EXP03/CONTEXP02 BASE returns only:1,556 distinct context slots/six members
 EXP01 U023 P62/67/70 tags Funifura's informal asymmetric friendship offer, direct name correction/imperative and flustered response. P122–123 tags Dodonko's self-correction from preferred type to the previous-life script. U037 P157–158 assigns her stammered but persistent illness defense. MAIN11 P153–156/169–170 separates Funifura's task exclusion from Dodonko's qualification claim and relationship-specific challenge. Untagged paired lines remain unassigned.
 
 MAIN14 C1 P358 moves Nerimaki from a heightened self-introduction into customer service/news barter; P370/P373/390/P403 perform social expectation, paraphrase, harassment naming and counterreport. Writer/professional-defense voice at C3 P166–192 belongs to Arue. BASE rechecks plus one actual image do not renew whole ruby/audio coverage or establish Japanese simulation adequacy. [village-peer index](../08%20Evidence%20and%20Indexes/KONOSUBA_VILLAGE_PEERS_EVIDENCE_INDEX.md)
+
+
+## Cohort21 — separate agency, conditional models and attributed revision
+
+Arue's conversational 私/なんだい/外の人 and elevated classroom/gift performance have different pragmatic functions. Soketto's one-time concession and changeable-future explanation differ from her explicit refusal of details; the man's blank-crystal statement is not her own line. Bukkorori uses 俺 in several EXP/MAIN05 contexts and 僕 in MAIN14, with ordinary questions, embarrassment, complaints and ceremonial self-presentation. One invariant catchphrase/register would conceal the variation. The [individual A/S/B/I index](../08%20Evidence%20and%20Indexes/KONOSUBA_ARUE_SOKETTO_BUKKORORI_EVIDENCE_INDEX.md) supplies direct source rows and contextual joins.
+
+The first diagnostic bodies are English, written by the same informed root with all inputs visible. Formatting compliance is no Japanese-adequacy result. Shared village style and generic modern adviser/volunteer language remain strong rivals; no new audio, native-human, whole-ruby or independent voice-validation claim.

@@ -1259,3 +1259,10 @@ Known EXP03/CONTEXP02 BASE returns only:1,556 distinct context slots/six members
 Later care and laughter do not erase the peer pressure on Yunyun, Megumin's forced knife/threat/assault, her hot-food retaliation or unsafe teacher staging. The blade-entering possibility is not promoted into a completed rabbit kill. Funifura's apology and farewell contributions are real but bounded repair, not proof all earlier costs are gone.
 
 Nerimaki can correctly name harassment and still violate Aigis's material boundary after his stop request. Payment, imagined intimacy and local participation are different permissions. Collateral MAIN05 F170–219 separates Megumin's requested upper-magic operation from Kazuma's actual all-points Explosion choice; later joy/praise does not retroactively authorize the concealed change. These are explicit later-synthesis feeds, with no frozen principal-model repair or new safety floor. [village-peer index](../08%20Evidence%20and%20Indexes/KONOSUBA_VILLAGE_PEERS_EVIDENCE_INDEX.md)
+
+
+## Cohort21 — separate agency, conditional models and attributed revision
+
+Actual self-protection, finite magic, practical work and creative loss coexist with comic framing. Soketto's survival of dangerous fire does not certify safe rescue. Bukkorori's intrusive conduct does not make assaults on him harmless. Megumin's misleading complaints, father's upstairs reaction, reported rude awakening and unobserved blows are different evidence; the father's helpful promise is no retroactive repair. The [individual A/S/B/I index](../08%20Evidence%20and%20Indexes/KONOSUBA_ARUE_SOKETTO_BUKKORORI_EVIDENCE_INDEX.md) and the [bandaging erratum](../08%20Evidence%20and%20Indexes/KONOSUBA_SOKETTO_BANDAGING_ATTRIBUTION_ERRATUM_01.md) keep actor and result boundaries.
+
+Arue's destructive encounter is not dismissed as mere manuscript comedy, and her own later intrusion remains adverse. Soketto's advice that Megumin tolerate future harassment contradicts a universal recipient-protection interpretation. No seriousness switch converts all later warmth/useful outcomes into prior consent, completed repair or a vote changing frozen forecast thresholds.
