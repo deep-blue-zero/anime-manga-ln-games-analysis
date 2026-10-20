@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: corpus_map
 scope: SERIES_BOOTSTRAP_AND_ANALYTICAL_ROUTING
-generation: V0.17
+generation: V0.18
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -29,7 +29,7 @@ project_initialization:
   required_day_one_infrastructure:
     - 04 Longitudinal Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md
   sequential_analysis_lock: OPEN
-  next_permitted_operation: V11
+  next_permitted_operation: V12
 ```
 
 ```yaml
@@ -38,8 +38,8 @@ sequential_execution:
   unit_type: main_light_novel_volume
   authorized_start: V03
   terminal_boundary: V43
-  committed_high_water_mark: V10
-  next_candidate_operation: V11
+  committed_high_water_mark: V11
+  next_candidate_operation: V12
   confirmation_between_units: false
   run_state: active
 ```
@@ -53,15 +53,13 @@ sequential_execution:
 
 ## Current analytical state
 
-**Japanese main-LN analysis extends through V10. The earned Subaru V01–V10 model and separate first19-dimension fidelity audit exist with local PASS_WITH_BOUND, not a global capability grade, independent benchmark or healed person. Default remains terminal E013/death13,13 arrived segments/no E014 or companion fate census; living reconstruction requires a supported preterminal override. Generated parents, real-parent nonreceipt, unresponsive Rem, source amnesia versus chosen lie, shared care and continuing harmful risk remain operational distinctions. Next candidate is V11 under the publication procedure below. Its exact55 questions/ten forecasts remain fixed; source high-water V10 and active continuous terminal V43 are unchanged.**
+Japanese main-LN analysis extends through V11:130 current claims,15 represented deaths and16 actually arrived segments. E016 last shows Subaru alive facing the shadow; no death16, E017 or completed fourth-arc ending is established. V11 individually adjudicates all110 predecessor claims,55 inherited questions and ten forecasts. The next prospect is60 V12 questions/ten forecasts, sealed after V11 EOF and before any V12 source.
 
-The project-initiation architecture gate remains satisfied. Five sole specialist owners and unsplit master responsibilities retain their scopes; earlier migrations remain retrospective. `SEQUENTIAL_ANALYSIS_LOCK = OPEN`; both next-operation fields name `V11`, **subject to** this model/audit operation's approved commit, exact complete remote readback, source audit, completed housekeeping and final actual exact-source full audit/status. Start person reconstruction at [the bounded Subaru model](05%20Character%20Analysis/REZERO_NATSUKI_SUBARU_V01_V10_CHARACTER_MODEL.md), with [the first fidelity audit](08%20Audits%20and%20Manifests/REZERO_CHARACTER_RECONSTRUCTION_FIDELITY_AUDIT.md) for tested scope, reference-design receipt, corrections and exclusions. Required mature designs were inspected for responsibilities only. Local reuse acceptance is complete; repository publication is not certified by this prose. No other person/final specialist, new ledger or external witness is promoted.
+The project-initiation architecture gate remains satisfied: five sole specialist owners and master retain their registered responsibilities; `SEQUENTIAL_ANALYSIS_LOCK = OPEN`. Both next-operation fields name `V12`, subject to the complete volume-publication procedure. The run remains active to V43 without confirmation between ordinary units. Publication receipts belong to Git history/live audit surfaces, not this entrypoint.
 
-The source lock owns the exact43-object Japanese spine identity, V41 replacement, retained nonadmitted translation/duplicate and the dated assessment of V44/V45 acquisition gaps. Consult that inventory for provenance and bibliographic freshness rather than treating the admitted range as published-series completion. V11 and later narrative remain unopened.
+For person reconstruction, [the Subaru model](05%20Character%20Analysis/REZERO_NATSUKI_SUBARU_V01_V10_CHARACTER_MODEL.md) and [first fidelity audit](08%20Audits%20and%20Manifests/REZERO_CHARACTER_RECONSTRUCTION_FIDELITY_AUDIT.md) remain unchanged, source-bounded V01–V10 baseline/default terminal E013. The current master instead ends at E016. V11 reconstruction requires explicit reconciliation of state, holder, recipient and counterevidence; the historical audit does not automatically certify it. No other person, final specialist, sixth ledger or external witness is promoted.
 
-The architecture remains intentionally conservative because Re:Zero has multiple source families that can contaminate one another if treated as a single undifferentiated canon pool. Main light novels, mainline supplemental stories, alternate-route/IF material, web-novel material, and anime adaptation evidence must remain separately labeled witnesses until a specific analytical operation compares them. The supplemental catalog may record officially established but unacquired items and unresolved paratext leads; this is not admission. The current audited source folder admits no supplemental, IF/alternate-route, web-novel, or audiovisual witness.
-
-The frozen sequential corpus contains V01–V10 and the estate/third-arc checkpoints. Current110 claims and the exact55-question/ten-forecast V11 prospect remain in the master and V10 freeze. Source-consumption details, prior unit counts and architecture history are preserved verbatim in the [project changelog](REZERO_PROJECT_CHANGELOG.md); exact source routes remain in the inventory/readings. The internal escape family stays premise-bound evidence, not active biography or external IF admission.
+The source lock owns the exact43-object Japanese spine identity, V41 replacement and dated V44/V45 acquisition gaps. Main LN, supplemental/IF, web-novel and adaptation witnesses remain separately governed. V12 and later narrative witnesses are unopened. The frozen sequential corpus is V01–V11 plus the estate/third-arc checkpoints; current claims and the sealed V12 horizon route through master/V11. The internal escape family remains premise-bound, not active biography. Superseded entrypoint passages and source/architecture history are preserved verbatim in the [project changelog](REZERO_PROJECT_CHANGELOG.md).
 
 ## Governing method and retrieval route
 
@@ -98,12 +96,12 @@ A discarded or superseded event-state can remain highly probative character evid
 
 | Layer | Analytical responsibility | Current state |
 |---|---|---|
-| `00 Frameworks and Methods` | Governing evidence, prospective-freeze, route-state, witness-separation, character reconstruction/fidelity, focalization, Japanese-language, safe-horizon, revision, longitudinal-routing, specialist, and completion rules | analytical method V0.1; witness protocol V0.2; architecture V1.10 `EVOLVING`; character protocol V1.9 |
-| `01 Source Lock and Inventory` | Exact witness set, integrity/provenance, edition identity, publication ordering, source-family classification and non-spine awareness | source lock V0.13; V01–V43 admitted/V41 override; recorded V44/V45 acquisition gaps; analysis through V10; catalog V0.1/no separate non-spine admission |
-| `02 Sequential Readings` | Main-LN prospective deep readings and source-verified checkpoints | V01–V10/two checkpoints frozen; V11 unopened, exact entering prospect fixed |
+| `00 Frameworks and Methods` | Governing evidence, prospective-freeze, route-state, witness-separation, character reconstruction/fidelity, focalization, Japanese-language, safe-horizon, revision, longitudinal-routing, specialist, and completion rules | analytical method V0.1; witness protocol V0.2; architecture V1.11 `EVOLVING`; character protocol V1.10 |
+| `01 Source Lock and Inventory` | Exact witness set, integrity/provenance, edition identity, publication ordering, source-family classification and non-spine awareness | source lock V0.14; V01–V43 admitted/V41 override; dated V44/V45 acquisition gaps; analysis through V11; catalog V0.1/no separate non-spine admission |
+| `02 Sequential Readings` | Main-LN prospective deep readings and source-verified checkpoints | V01–V11/two checkpoints frozen; V12 unopened, exact60-question/ten-forecast entering prospect sealed |
 | `03 Supplemental and Alternate Witnesses` | Analytical readings of admitted mainline side stories, collections, EX/supplemental material, IF/alternate routes, web-novel witnesses, and other non-spine material | routing contract V0.2 populated; cataloging remains in layer 01; no witness admitted or read yet |
-| `04 Longitudinal Ledgers` | Current claims/revisions, chronology/durability, proposition holders, relationships, characters, institutions, mechanics, ordinary life, Japanese, questions and readiness | master V1.11 through V10; institution V1.7/I120; event V1.4/terminal E013; knowledge V1.4/K184; mechanics V1.3/M124; relationship V1.1/R040/RT021; schema V0.12; sole home per responsibility |
-| `05 Character Analysis` | Protocol-governed character reconstruction only after sufficient longitudinal evidence exists | routing contract V0.3; integrated Subaru V01–V10 model plus separate first audit locally PASS_WITH_BOUND; terminal E013 default, explicit earlier living override; other persons accumulating |
+| `04 Longitudinal Ledgers` | Current claims/revisions, chronology/durability, proposition holders, relationships, characters, institutions, mechanics, ordinary life, Japanese, questions and readiness | master V1.12 through V11; institution V1.8/I140; event V1.5/E016 alive-last-shown; knowledge V1.5/K233; mechanics V1.4/M152; relationship V1.2/R045/RT033; schema V0.13; sole home per responsibility |
+| `05 Character Analysis` | Protocol-governed character reconstruction only after sufficient longitudinal evidence exists | routing contract V0.3; unchanged Subaru V01–V10 model/first audit, source-bounded local PASS_WITH_BOUND/default E013; V11 current E016 requires explicit reconciliation, not implied audit coverage; other persons accumulating |
 | `06 Adaptation Analysis` | Anime and later audiovisual comparison as separately labeled witnesses | routing contract populated; no adaptation findings yet |
 | `07 Specialist Synthesis` | Dense questions with independent retrieval responsibility, instantiated only when earned | not instantiated |
 | `08 Audits and Manifests` | Bootstrap and later analytical/source-integrity manifests | bootstrap/architecture manifests and first nineteen-dimension character fidelity audit populated; detailed primary-source audit remains Drive-authoritative |
@@ -175,11 +173,11 @@ The sequential pass should test rather than assume questions including:
 
 ## Current work order
 
-1. Preserve all ten VNN freezes and both bounded checkpoints byte-for-byte; corrections use current claims/errata, not changed prospective history.
-2. Use the unchanged110 V10 claims and sealed55-question/ten-forecast V11 horizon; default terminal RZ-E-013/death13,13 arrived segments, unresponsive Rem and no observed successor/remedy.
-3. Maintain master V1.11, institution V1.7, event V1.4, knowledge V1.4, mechanics V1.3 and relationship V1.1 under architecture V1.10/schema V0.12/protocol V1.9. The new derived Subaru model/audit does not replace these owners or add narrative claims.
-4. Close this separate Subaru V01–V10 model/first-fidelity-audit transaction's exact publication/readback, source audit, completed housekeeping and final actual exact-source full audit/status before opening `RZ-MAIN-LN-JA-V11`. Local analytical PASS_WITH_BOUND alone does not close publication.
-5. Continue prospectively through V11 and the admitted main-LN spine to the unchanged active V43 terminal; preserve the fixed V11 prospect and do not request confirmation between units or equate source exhaustion with published completion.
+1. Preserve all eleven VNN freezes and both bounded checkpoints after this transaction; twelve predecessor freezes and the V01–V10 Subaru model/audit stay byte-unchanged here. Correct later knowledge through current claims/errata, not rewritten prospective history.
+2. Use130 V11 claims and the sealed60-question/ten-forecast V12 horizon. Current E016 is alive-last-shown facing shadow,15 deaths/16 arrived segments; no death16, E017, restored Ram memory, ordinary camp RBD receipt or complete missing-person census.
+3. Maintain master V1.12, institution V1.8, event V1.5, knowledge V1.5, mechanics V1.4 and relationship V1.2 under architecture V1.11/schema V0.13/protocol V1.10. The unchanged historical Subaru model/audit is not an automatically current E016 response model.
+4. Complete the V11 transaction's approved commit, exact full remote readback, source audit, completed housekeeping and final actual exact-source full audit/status before opening `RZ-MAIN-LN-JA-V12`. Local count/locator checks do not prove semantic acceptance or close publication.
+5. Continue prospectively through V12 and the admitted main-LN spine to the unchanged active V43 terminal, without confirmation between ordinary units; source exhaustion is not published-series completion.
 6. Acquire and integrity-audit Japanese V44 and V45 before the sequential reading reaches that boundary; admission is not implied by their bibliographic existence.
 7. Maintain bibliographic awareness in the supplemental catalog without opening narrative material. When a witness is acquired, assign its source class and `H_pub`/`H_diegetic`/`H_route`/`H_final` state before reading it analytically.
 8. Update the master longitudinal ledger in every volume transaction; promote a dedicated ledger only when one responsibility develops an independent retrieval/revision burden, then leave routing rather than a competing full copy in the master.

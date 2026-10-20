@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: source_lock
 scope: SOURCE_ADMISSION_CONTRACT_AND_CURRENT_INVENTORY_STATE
-generation: V0.13
+generation: V0.14
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -379,6 +379,28 @@ This operation creates two **derived analytical artifacts**, not newly acquired 
 
 All ten VNN freezes/two checkpoints, five specialist owners,110 current claims and exact55-question/ten-forecast V11 prospect remain unchanged. Source high-water stays V10. V11 is next only after this model/audit operation's own approved commit/full remote readback, source audit, completed housekeeping and final actual exact-source full audit/status. Local analytical acceptance does not certify those future publication checks. Default terminal E013/death13 and all real-parent/Rem/successor/IF/adaptation exclusions remain binding.
 
+## Volume 11 consumption record
+
+The corrected Subaru V01–V10 model/first-audit operation completed its own exact-source publication gate at `93f6656e02a61c73cb785f01f0c33c5efe27fc08` before first V11 archive access. Complete remote content/identity readback, source audit, completed NOOP housekeeping, final actual-source full385-test audit and exact-source success status—not the dispatch's displayed main-head metadata—controlled opening. The preceding model-operation record preserves its then-future checks; those checks are closed. No model/audit bytes are changed by this V11 transaction.
+
+`RZ-MAIN-LN-JA-V11` was consumed in OPF spine order through `p-bookwalker`: all43 members/4,096 body-order blocks (4,071 TEXT +25 positioned IMAGE references), with all23 distinct resources actually visually inspected at their positions. Repeated gaiji and publisher-logo references were separately inspected. Actual acquired contiguous ranges, image views, reacquisition of lost output and EOF establish reading; ZIP/count/locator guards alone do not. A lost `p-003#B0119` attempt was reacquired before continuation; no source interval remains unresolved.
+
+- locator / embedded title: `Re Zero - Volume 11.epub`; `Ｒｅ：ゼロから始める異世界生活 11`;
+- language / embedded creators / publisher: `ja`; `長月　達平` / `大塚　真一郎`; KADOKAWA / メディアファクトリー;
+- UUID: `ecf9232a-0b4c-4d55-b5da-ea8b1228bada`;
+- size / SHA-256:9,845,672 bytes; `6fbdc979332a3c51d8b85d01dc93b1b71714e8bbf875271bdef42dc46715275b`;
+- package / integrity: `item/standard.opf`;82 ZIP entries; full CRC pass; known nonfatal first-but-compressed `mimetype` warning;
+- manifest: unchanged23,584 bytes/SHA-256 `3daa190cefda6ab894f5d62ff547a93856c8133f2d4fc1cbc552b99d73c73314`, exact anchored V11 identity match;
+- edition: electronic issue2016-12-23, based on MF first edition/first printing2016-12-25; afterword November2016 distinct;
+- provenance: governed local read-only EPUB and manifest range admission; individual V11 Drive object ID unresolved, not invented;
+- analytical product: `02 Sequential Readings/REZERO_LN_V11_DEEP_READING.md`; complete member/block/image coverage and locator convention §1;
+- entering prospect:55 questions/ten forecasts copied before model construction and V11 opening, unchanged private seal SHA-256 `38f61f29c0b039d6017e9d907754c5e3c94be9e21a17d36806f3ced150b49e7b`; all individually adjudicated;
+- ending: actual E014/E015/E016, new deaths14/15,15 deaths/16 arrived segments; E016 alive-last-shown facing shadow, no death16/E017 or full missing-person census;
+- structure: fourth arc continues; afterword's adaptation/rewrite/WN-divergence discussion is not an arc-ending certificate or a merged witness;
+- preservation: all twelve predecessor freezes and V01–V10 model/audit byte-unchanged; no source binaries, extraction, images or private acquisition objects committed.
+
+V12 and all separately acquired non-spine narrative remain unopened. V11 §16's60 V12 questions/ten forecasts were copied exactly into the private pre-reading seal after actual V11 EOF and before V12; SHA-256 `c0f8feb6ef89cb5c67dd68f881542a7ff8ca7da78e52df623142b79c54a975e0`. This transaction becomes current V11 authority only after its complete publication gate. Source admission and the dated V44/V45 acquisition-gap assessment do not advance.
+
 ## Current source-state summary
 
 - **Acquired/admitted Japanese main LN:** V01-V43 continuous.
@@ -389,7 +411,7 @@ All ten VNN freezes/two checkpoints, five specialist owners,110 current claims a
 - **Admitted IF/alternate route:** none.
 - **Admitted web novel:** none.
 - **Admitted anime/audiovisual:** none.
-- **Consumed into frozen prospective main-LN analysis:** V01-V10; complete V10 exact-source publication gate verified at ff4a7abec35fcb32c4b51be22c0033c1e172527c.
+- **Consumed into prospective main-LN analysis:** V01-V11; V11 becomes committed frozen authority with this transaction's complete exact-source publication gate; corrected V01–V10 model/audit gate closed before V11 opening.
 - **Next source acquisition priority:** Japanese V44 and V45 before the sequential read reaches that boundary.
-- **Next analytical operation:** `V11` only after the separately instantiated Subaru model/first audit's complete publication gate; its55-question/ten-forecast horizon remains fixed and V11 is unopened.
-- **Current execution state:** active continuous run; terminal V43 unchanged; model/audit locally PASS_WITH_BOUND adds no source or admission. No real-parent message, current Rem reply/IF-family biography, arrived successor, adaptation judgment or full-series completion is implied.
+- **Next analytical operation:** `V12` only after the complete V11 publication gate;60 questions/ten forecasts sealed before opening and V12 remains unread.
+- **Current execution state:** active continuous run; terminal V43 unchanged. Historical V01–V10 model/audit stays unchanged/default E013; current V11 endpoint E016 is not implicitly audited model coverage. No real-parent message, current Rem reply/IF-family biography, death16/E017, complete shadow identity, adaptation finding or full-series completion is implied.
