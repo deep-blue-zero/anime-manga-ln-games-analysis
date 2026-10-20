@@ -1,7 +1,7 @@
 {
   "schema": "konosuba.cohort18.receiving-and-provenance.v1",
   "recorded_utc": "2026-10-20T17:16:34.203945+00:00",
-  "status": "SEMANTIC_RECEIVING_COMPLETE_EXACT_CONTAINING_PUBLICATION_PENDING",
+  "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
   "scope": "Two separate substantial monographs,three-rule Sena/four-rule Arnes provisional models and individual26-row indices. Known sources/same informed author; not full-program closure or capability assessment.",
   "prior_published_authority": {
     "source": "3ed7a3e59383fc701f72073619ec8a7b5d6c16f2",
@@ -298,5 +298,20 @@
   "historical_integrity_requirement": "Preserve66immutable/72historical,four scores,Dust14blanks/SI-SY28nulls,all previous annotations/indices/first bodies and80unrelatedscratch. Adoption/preflight rechecks these separately. No six StageDsuccessors authored by this cohort.",
   "publication_gate_required": "Complete candidate delta review,exact-index author preflight,normal push/whole remote tree and changed bytes,source audit,housekeeping,final actual-source terminal reports/reporter/status and fresh published authority reload.",
   "designated_ownership": "No protected merge,executor activation,new source admission or designated global curator/evaluator output authorship.",
-  "full_program_complete": false
+  "full_program_complete": false,
+  "publication_pending_at_authorship_history": "SEMANTIC_RECEIVING_COMPLETE_EXACT_CONTAINING_PUBLICATION_PENDING",
+  "publication_gate_close": {
+    "source": "5e001f0e5c97f994f9bce98707e2566026b74a33",
+    "tree": "a035ffafe045b633560c4a33b36d2f3691fbac47",
+    "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_SENA_ARNES_COHORT18_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "5231f6ccf65f42f1873e5ad97a35f6078faea42eac9483549766deae4bcc1d5c",
+    "source_run": 39465831329,
+    "housekeeping_run": 39466847043,
+    "final_run": 39466913288,
+    "full_tests_each": 385,
+    "published_project_paths": 1167,
+    "current_models": 27,
+    "no_independent_accuracy_or_confidence_gain": true
+  },
+  "published_authority_reload_sha256": "b1e96f8552ae1c2d96fc7ac2b23f9c68da5dd7fd1915c49dd905c79942a5bd9e"
 }

@@ -1905,3 +1905,10 @@ Individual [Wolbach](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_EVIDENCE_
 ## Cohort18 Sena and Arnes — 2026-10-20T17:14:33.263380+00:00
 
 Sena actually apologizes after a precise explanation MAIN03C1P234-239,yet cuts Chris’s qualifying testimony407-411 and argues from association/character toward intent440/458. A narrower acquaintance answer weakens one argument436; field chaos does not wholly displace her acting hypothesis C2P222. Arnes observes constrained non-use EXP02U044P397/435/440 and wrongly generalizes inability; her actual tactical adaptations are not omniscience. Eight first saved English bodies retain Sena’s unprovided note/furniture and time ambiguity,Arnes’s uncued influence/errand anticipation/overstated silence and an invariant two-minute behavioral endpoint.
+
+
+## Cohort19 Rex, Sophie and Terry — attributable update
+
+Rex dismisses reputation reports,overreads no-upper-magic as vindication,claims counterfactual superiority and misidentifies the black target (R01-R08). Apology and useful work coexist with those errors; Sophie/Terry challenge rather than form one mind. Four frozen internal first bodies retain an unasked future-capability challenge/blame shift,unprovided reaction/plan placement and prior-knowledge claim. No output or old model was repaired; sensible epistemic screening may itself reflect generic overcoherence rather than identified Rex behavior.
+
+Known EXP03/CONTEXP02 BASE returns only:1,556 distinct context slots/six members/two native objects,including blanks,other actors,reports and hypotheses; no fresh whole-source,ruby/image,admission,independent decision,accuracy or confidence credit. Current claims route to `CR-SECONDARY-COHORT19-001` and the shared crew index/provenance; exact containing publication remains pending.

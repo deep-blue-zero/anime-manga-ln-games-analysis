@@ -475,3 +475,10 @@ Individual [Wolbach](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_EVIDENCE_
 ## Cohort18 Sena and Arnes — 2026-10-20T17:14:33.263380+00:00
 
 Three Sena and four Arnes rules/models plus monographs/indices/provenance were sealed before eight exact all-adult modern English inputs,then eight actual first saved root-authored bodies and separate assessment. Same informed model author,case designer,output author and assessor anticipated broad directions/response ideas. Zero regeneration/repair. Sena’s contradiction/commitment cues are generic; note/furniture presuppositions and timing ambiguity remain. Arnes’s current-preference/info cues are generic; uncued influence,extra-errand anticipation and broad silence remain,while both capability cases grant two minutes/tap the schedule. Several mechanisms remain unprobed; no blind source prediction,independent accuracy,Japanese adequacy,grade or confidence gain.
+
+
+## Cohort19 Rex, Sophie and Terry — attributable update
+
+Rex adds three provisional rules and four actual first saved English bodies/two controlled modern contrast pairs. Model/rules precede exact input freeze; inputs precede body seal; assessment follows;zero regeneration/repair. H01 contrasts witnessed performance with an uncorroborated account but both permit basic work. H02 contrasts explicit refusal with interest at an already accommodated limit; A does not physically depart. Strong generic rivals,unprovided look/plan location/prior knowledge and weak RX-R02 coverage remain. Same informed author at all stages; no blind accuracy,grade,Japanese adequacy or confidence gain. Earlier predictions,scores,blanks/nulls and models remain exact.
+
+Known EXP03/CONTEXP02 BASE returns only:1,556 distinct context slots/six members/two native objects,including blanks,other actors,reports and hypotheses; no fresh whole-source,ruby/image,admission,independent decision,accuracy or confidence credit. Current claims route to `CR-SECONDARY-COHORT19-001` and the shared crew index/provenance; exact containing publication remains pending.

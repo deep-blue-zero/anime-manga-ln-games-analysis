@@ -1317,3 +1317,10 @@ Individual [Wolbach](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_EVIDENCE_
 ## Cohort18 Sena and Arnes — 2026-10-20T17:14:33.263380+00:00
 
 Sena makes/brings tea,closes a cold door MAIN04C1P96,offers a useful tool and publicly thanks others; sparse leisure/history stays unknown. Her partner-question limit MAIN03C1P255 is not a romantic invitation or exact age. Arnes’s visit,waiting,naming,finite300kactual payment EXP02U023P68-76 and later refund grievance matter alongside combat. No personal loan is printed. Megumin’s retaining the bag343 is not a fulfilled transfer,refund or Arnes’s gift. Sparse recreation outside pursuit is a gap rather than an appearance-based ceiling.
+
+
+## Cohort19 Rex, Sophie and Terry — attributable update
+
+Information gathering,cage driving,work/recruitment,planned celebration,travel preparation,familiar guild drinks and a name correction earn ordinary-life attention (R06-R10/R18-R22,T02). Half-bounty and celebration proposals are not completed transfers/membership. Megumin reports giving the eventual bounty and remaining funds; no exact counted shares. Her unasked wish for a meal does not become Rex’s refusal. Private biography,tastes,finances and all teammates’ reasons remain open.
+
+Known EXP03/CONTEXP02 BASE returns only:1,556 distinct context slots/six members/two native objects,including blanks,other actors,reports and hypotheses; no fresh whole-source,ruby/image,admission,independent decision,accuracy or confidence credit. Current claims route to `CR-SECONDARY-COHORT19-001` and the shared crew index/provenance; exact containing publication remains pending.

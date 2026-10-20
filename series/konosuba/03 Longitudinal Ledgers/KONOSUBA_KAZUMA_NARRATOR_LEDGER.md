@@ -1368,3 +1368,10 @@ Individual [Wolbach](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_EVIDENCE_
 ## Cohort18 Sena and Arnes — 2026-10-20T17:14:33.263380+00:00
 
 MAIN03interrogation and trial are Kazuma’s access; his appraisals of Sena’s true voice,purity or personal harshness remain perspectives. MAIN03EpP60-81 is Darkness’s viewpoint before Kazuma header82 and reward account84-126. MAIN04C1P161-162 reports his sense of being seen as a hero,not Sena’s complete motive. EXP02Megumin rationalizes paid handover and invents the earlier night culprit; current refusal,release and catches have separate agents. Later EXP03rank/death/prayer comparisons are mediated,not new Arnes appearances or her private beliefs.
+
+
+## Cohort19 Rex, Sophie and Terry — attributable update
+
+EXP03 focalizer Megumin initially cannot track the crew’s attack sequence and later misremembers the capital acquaintances (R11/R21). Her bounty-giving/finisher motives remain narrated accounts; later Rex apology is Rex’s report. CONTEXP02 U023 Kazuma’s shill/coercion suggestions are teasing speculation despite a real earlier invitation (R22),not proof of fraud. Sophie’s wing-cut account is reported,not direct watched combat. Distinct focalizers,knowledge and completion stages remain explicit.
+
+Known EXP03/CONTEXP02 BASE returns only:1,556 distinct context slots/six members/two native objects,including blanks,other actors,reports and hypotheses; no fresh whole-source,ruby/image,admission,independent decision,accuracy or confidence credit. Current claims route to `CR-SECONDARY-COHORT19-001` and the shared crew index/provenance; exact containing publication remains pending.

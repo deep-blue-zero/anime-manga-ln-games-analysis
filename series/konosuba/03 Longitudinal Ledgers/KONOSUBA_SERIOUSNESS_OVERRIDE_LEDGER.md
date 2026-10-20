@@ -1245,3 +1245,10 @@ Individual [Wolbach](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_EVIDENCE_
 ## Cohort18 Sena and Arnes — 2026-10-20T17:14:33.263380+00:00
 
 Sena’s accomplice warning actually silences MAIN03C1P52-53; selective testimony and detention remain real despite apology. Her resistance30,reversal32 and confusion36 after the lord’s stare in C1continuation do not settle free collusion or an exact unseen mechanism. Arnes’s horse-killing EXP02U044P364-365,guard injuries412-425/442-450 and hostage threat460 remain severe. Threatened massacre and interrupted fireball are not completed killing of passengers. False accusations and clergy’s cruel pursuit retain separate responsibility. Megumin’s cat-endangering chant is stopped by Yunyun,not voluntary restraint; late survival/awards do not erase process harms.
+
+
+## Cohort19 Rex, Sophie and Terry — attributable update
+
+Real protection and useful performance coexist with pressure,belittling,misclassification and finite injury (R03-R16). Barely-fightable healing is not full readiness,and reassurance is not proof of safety. Final Explosion/reward/parting warmth do not erase crew contribution or earlier costs. Cecily’s stone prank and later actual gold aid stay separate episodes without repairing frozen clergy artifacts. No completed consent,medical recovery or universal indispensability is invented.
+
+Known EXP03/CONTEXP02 BASE returns only:1,556 distinct context slots/six members/two native objects,including blanks,other actors,reports and hypotheses; no fresh whole-source,ruby/image,admission,independent decision,accuracy or confidence credit. Current claims route to `CR-SECONDARY-COHORT19-001` and the shared crew index/provenance; exact containing publication remains pending.

@@ -1447,3 +1447,10 @@ Individual [Wolbach](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_EVIDENCE_
 ## Cohort18 Sena and Arnes — 2026-10-20T17:14:33.263380+00:00
 
 Sena’s notes,adventurer coordination,seal supply and awards differ from personal combat. She protests civilian bait MAIN03C2P160; the seal is intended for a circle C4P100-103. Kazuma himself applies it to an occupied mask425; Sena later objects514. Arnes actually pays finite money,catches the creature,casts and disables guards,then is defeated at manifested-body scope; her right depletion inference EXP02U044P387 coexists with wrong inability inference397/435/440. MAIN03C2P50 separately supplies a directly watched Chomusuke fish-roasting flame; unlike MAIN15PrP29-30,not averted gaze/present report. This later receipt does not repair frozenC17cores or backdate its preparation.
+
+
+## Cohort19 Rex, Sophie and Terry — attributable update
+
+Rex greatsword charge/warning,Sophie spear support and Terry’s actual interception/time buying combine with Yunyun’s Sleep (R09-R10/S05/T03); none owns the whole capture. Hoost’s sudden defeat does not erase that earlier work. Limited healing/apparent fracture,left-handed sword throw,finite magical items and self-including paralysis separate capacity,access,readiness,deployment and result (R11-R16). The capital offer explicitly finds a setting for one daily shot (R19),not unlimited magic.
+
+Known EXP03/CONTEXP02 BASE returns only:1,556 distinct context slots/six members/two native objects,including blanks,other actors,reports and hypotheses; no fresh whole-source,ruby/image,admission,independent decision,accuracy or confidence credit. Current claims route to `CR-SECONDARY-COHORT19-001` and the shared crew index/provenance; exact containing publication remains pending.

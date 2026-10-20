@@ -1898,3 +1898,10 @@ Individual [Wolbach](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_EVIDENCE_
 ## Cohort18 Sena and Arnes — 2026-10-20T17:14:33.263380+00:00
 
 Sena’s 自分,accusatory貴様,politeサトウさん and formal貴殿 belong to different occasions; narrator inference of a natural polite voice is not inner fact. Arnes’s 貴方様/我が主/ウォルバク様 deference shifts toward rougherあたし/貴様 and imperatives after exposure/conflict. Name correction and local apology do not become universal catchphrases. Current native recheck is BASE excludingrt/rp; eight informed same-author English hypothetical first bodies establish no Japanese/native-human adequacy,newL3class or voice reliability.
+
+
+## Cohort19 Rex, Sophie and Terry — attributable update
+
+Rex’s 俺/お前さん/嬢ちゃん and colloquial challenges shift force across mockery,apology,warning,invitation and name correction (R01/R06/R16/R19/R21-R22). Sophie supplies correction/report-based caution/hint/finish appeal; Terry supplies hearsay uncertainty,defensive shout and reassurance. Anonymous recruitment lines are not mechanically assigned. BASE-only inspection supplies no fresh full ruby/audio/native-human adequacy or automatic L3; English first bodies are internal analogues.
+
+Known EXP03/CONTEXP02 BASE returns only:1,556 distinct context slots/six members/two native objects,including blanks,other actors,reports and hypotheses; no fresh whole-source,ruby/image,admission,independent decision,accuracy or confidence credit. Current claims route to `CR-SECONDARY-COHORT19-001` and the shared crew index/provenance; exact containing publication remains pending.

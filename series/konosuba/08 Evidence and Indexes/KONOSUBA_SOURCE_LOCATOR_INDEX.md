@@ -1891,3 +1891,8 @@ The [Leen](KONOSUBA_LEEN_EVIDENCE_INDEX.md), [Keith](KONOSUBA_KEITH_EVIDENCE_IND
 ## Cohort18 Sena and Arnes — 2026-10-20T17:14:33.263380+00:00
 
 [Sena index](KONOSUBA_SENA_EVIDENCE_INDEX.md) and [Arnes index](KONOSUBA_ARNES_EVIDENCE_INDEX.md),twenty-six attributable rows each,route exact MAIN03/04principal aliases and EXP02/03component windows. [Shared provenance](KONOSUBA_SENA_ARNES_NATIVE_PROVENANCE_01.json) verifies3,275knownBASEcontextslots/fifteen members/four native objects; includes collateral/blanks/reports,not independent decisions or a new whole-source/ruby/image/admission pass. Truncated MAIN03C1P161-240attempt has zero credit; only actual complete replacement windows count. No raw EPUBs,images or full transcripts enter Git.
+
+
+## Cohort19 individual crew locators
+
+The [crew index](KONOSUBA_REX_SOPHIE_TERRY_EVIDENCE_INDEX.md) has 22 Rex,nine Sophie and eight Terry rows. [Native provenance](KONOSUBA_REX_SOPHIE_TERRY_NATIVE_PROVENANCE_01.json) binds EXP03U026/U032/U034/U045 and partial CONTEXP02U013/U023 by exact native/member/register/admission hashes and actual receiving intervals. Direct names and recalled events anchor continuity; the later adjacent woman/axeman join remains qualified. Search-only absence in CONTEXP01 is not all-source absence. Known EXP03/CONTEXP02 BASE returns only:1,556 distinct context slots/six members/two native objects,including blanks,other actors,reports and hypotheses; no fresh whole-source,ruby/image,admission,independent decision,accuracy or confidence credit.

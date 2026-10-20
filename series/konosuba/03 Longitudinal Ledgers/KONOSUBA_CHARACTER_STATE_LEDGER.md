@@ -1712,3 +1712,10 @@ Individual [Wolbach](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_EVIDENCE_
 ## Cohort18 Sena and Arnes — 2026-10-20T17:14:33.263380+00:00
 
 Sena explicitly self-names kingdom prosecutor MAIN03C1P18; judge,lord,knights,unnamed deputies,Aloerina and Serenaセレナ remain distinct. Arnes explicitly self-names EXP02U023P15-16 and identifies the creature37,correcting Megumin’s mistaken-master fantasy. Similar red hair/yellow eyes do not join her to Wolbach. Hoost’s later shared-master relation does not transfer his current knowledge,lives or pact to Arnes. Two separate monographs/models/indices preserve each responsibility.
+
+
+## Cohort19 Rex, Sophie and Terry — attributable update
+
+Rex’s initial overreading of a limited upper-magic denial gives way to local recognition of Yunyun,not immediate recognition of Megumin (R01-R06). His later warning retains the all-talk label before observed Explosion changes the practical role offered (R16/R19). Sophie’s and Terry’s named skill,limited healing,renewed exposure,unconsciousness/reassurance and later presence remain separate states (S02-S09/T02-T08). Injury readiness and inability causes are not normalized into full recovery.
+
+Known EXP03/CONTEXP02 BASE returns only:1,556 distinct context slots/six members/two native objects,including blanks,other actors,reports and hypotheses; no fresh whole-source,ruby/image,admission,independent decision,accuracy or confidence credit. Current claims route to `CR-SECONDARY-COHORT19-001` and the shared crew index/provenance; exact containing publication remains pending.

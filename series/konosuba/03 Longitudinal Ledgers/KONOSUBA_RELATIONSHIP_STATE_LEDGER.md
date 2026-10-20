@@ -1442,3 +1442,10 @@ Individual [Wolbach](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_EVIDENCE_
 ## Cohort18 Sena and Arnes — 2026-10-20T17:14:33.263380+00:00
 
 Sena’s accusation,apology,renewed suspicion,refusal acceptance,objection to occupied-mask confinement and later esteem remain different stages. MAIN03C4P30 accepts an unrelated refusal; MAIN04C1P122/152 applies duty/reputation expectations without proving deliberate orchestration. Arnes invokes master’s will EXP02U023P40 but later explains away visible resistance219; catches/postponement/relief are actual care without complete recipient-centered consent. Yunyun’s warning,offered refund,physical interruption and catch remain her own acts. Hoost’s later pact/lives account stays his.
+
+
+## Cohort19 Rex, Sophie and Terry — attributable update
+
+Leader status does not consume Sophie’s correction or Terry’s action. Rex’s promise of retreat permission coexists with protest when taken; the later capital refusal ends with a friendly departure (R07/R20),not a universal autonomy policy. A mage’s welcome recruitment and embarrassment are not completed membership. Later naming/reminders join identities; group smiles and royal awkwardness do not prove full shared memory or prior knowledge (R21/S08-S09/T07-T08).
+
+Known EXP03/CONTEXP02 BASE returns only:1,556 distinct context slots/six members/two native objects,including blanks,other actors,reports and hypotheses; no fresh whole-source,ruby/image,admission,independent decision,accuracy or confidence credit. Current claims route to `CR-SECONDARY-COHORT19-001` and the shared crew index/provenance; exact containing publication remains pending.

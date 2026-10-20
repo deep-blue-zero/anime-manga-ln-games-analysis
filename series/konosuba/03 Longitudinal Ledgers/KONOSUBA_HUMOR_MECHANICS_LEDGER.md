@@ -1931,3 +1931,10 @@ Individual [Wolbach](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_EVIDENCE_
 ## Cohort18 Sena and Arnes — 2026-10-20T17:14:33.263380+00:00
 
 Sena’s bell,tea,bait and level scenes and Arnes’s mistaken-master entrance,naming dispute,interrupted threats and startled retreats create humor alongside real costs. MAIN03court reversal after lord’s stare has observed confusion and Aqua’s evil-force report,not a clean voluntary-corruption gag. Arnes is wrongly blamed for earlier nightly Explosions EXP02U023P295-300,then later admits actual herding U044P403. Comedy does not erase the killed horse,serious injuries or hostage threats. No frozen humor classes or annotations are rewritten.
+
+
+## Cohort19 Rex, Sophie and Terry — attributable update
+
+Boast/reversal,failed recognition,Max-to-Rex correction and friends’ paid-shill/brainwashing/threat/hostage suggestions have different factual planes (R01-R05/R21-R22). Joking suggestions are not performed coercive crew acts. Comic framing does not erase real interception,injury or pressure. No automatic H code from a fantasy setting or recruitment idiom,and no new formal gag census. H02A future-fame boast/counterfactual audience response is not a completed result.
+
+Known EXP03/CONTEXP02 BASE returns only:1,556 distinct context slots/six members/two native objects,including blanks,other actors,reports and hypotheses; no fresh whole-source,ruby/image,admission,independent decision,accuracy or confidence credit. Current claims route to `CR-SECONDARY-COHORT19-001` and the shared crew index/provenance; exact containing publication remains pending.
