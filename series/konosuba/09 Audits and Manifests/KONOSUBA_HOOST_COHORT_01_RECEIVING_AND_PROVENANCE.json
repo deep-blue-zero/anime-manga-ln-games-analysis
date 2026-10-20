@@ -212,5 +212,21 @@
       "original_index_sha256_unchanged": "3f48020328633867eb0a90c285ad66d3b4f3464e9cbdb0cc1d5d69f9d0c88fe2",
       "no_model_rule_tier_score_or_unique_reading_change": true
     }
-  ]
+  ],
+  "current_external_factual_correction_publication": {
+    "recorded_utc": "2026-10-20T05:04:09.298058+00:00",
+    "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+    "gate_path": "09 Audits and Manifests/KONOSUBA_HOOSTVOICE01_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "0edfa4044982ee8cd5d913a0ec78cb5a7179d5673f0c43b81e0b65b13858c950",
+    "actual_source": "de46f030039b8420d18756dc3d88e59aa1adf5f8",
+    "tree": "23bc40e054ffc06dcfb2e4af5916c43298becec8",
+    "source_run": 39371756703,
+    "housekeeping_run": 39372211177,
+    "final_run": 39372250364,
+    "full_tests_each": 385,
+    "all9205_remote_paths_and10changed_streams_exact": true,
+    "fresh1029_project_authority_reload": true,
+    "eight_scoped_subjects_and14models_unchanged": true,
+    "original_Hoost_index_model_monograph_lineage_and_gate_bytes_unchanged": true
+  }
 }

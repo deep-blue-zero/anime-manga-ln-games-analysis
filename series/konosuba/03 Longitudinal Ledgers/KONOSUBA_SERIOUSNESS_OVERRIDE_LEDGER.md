@@ -1177,3 +1177,10 @@ Source-known admitted EXP01/03: prior eighteen actually read integral image-pros
 | Record | Acting subject and exact route | Current uptake | Limits |
 |---|---|---|---|
 | H08-SO01 | Hoost attachment/harm limits; EXP01IMG026-043;EXP03U026P539-598/U034P387-424/485-498 | Rank can yield to task dependence and vulnerability can prompt negotiated retreat; particular concern/provision and bird intervention coexist with initial threat, actual violence and attributed retaliation. | No blanket benevolent/protective override. Unshown bear rescue, fully healed fighters and actual promise enforcement remain unknown; comedy and remaining-life speech do not guarantee harmlessness or recipient consent. |
+
+
+## Cohort09 — concern can matter without a universal veto — 2026-10-20T06:09:56.297297+00:00
+
+Levi's fear for Iris before the dragon expedition and protest at inadequate reward are direct contrary evidence to an indifferent-villain account (MAIN10C5P15–30/185–211). They neither prevent the expedition nor produce the full political commitment by themselves. Later national gratitude and acknowledgment of Small's likely nonaffiliation coexist with known dangerous pressure (DUST04U014P60–118). Serious concern, practical inhibition and ethical refusal are different objects; no single seriousness switch deletes pride, grievance or coercion. No source-local contrary example is retired by the ending.
+
+Known admitted-source retrospective consolidation; no new source admission, whole-source/ruby/image/independent-test credit. Exact earlier ledger bytes remain the prefix. Frozen forecasts, failures, scores and blank/null fields remain unchanged.

@@ -230,3 +230,14 @@ Native EXP03U026P533/546/555/563 supports both Hoost's initial beginner-killer m
 | CR-SECONDARY-HOOST-003 | REVISE_FACTUAL_VOICE_IDENTITY_JOIN; original Hoost index section1 distinguishes Hoost from the previously unknown voice. [External erratum](../09%20Audits%20and%20Manifests/KONOSUBA_HOOST_FIRST_FOREST_VOICE_ATTRIBUTION_ERRATUM_01.json) preserves the exact sentence and original SHA. | EXP03 U020 P476–487 hears the voice;493 turns to the same owner;500/509 explicitly name Hoost. Earlier unknown identity is Megumin’s knowledge state, not another actor. | P488 protection is her unconfirmed guess. Original index/drafts/gate/model/monograph/first bodies stay exact; no HH-rule, score, tier, independent-test or new unique-reading credit. The earlier bounded name/reference check missed the conjunction. |
 
 Read this current qualification with the preserved index; the unknown-voice exclusion has no current authority. All earlier claim-ledger bytes remain the exact prefix.
+
+
+## Cohort09 — individual identities and Levi mechanism expansion — 2026-10-20T06:09:56.297297+00:00
+
+| Stable revision | Transition | Current basis and preservation |
+|---|---|---|
+| CR-SECONDARY-LEVI-001 | EXPAND_SCOPED_TIER3 | MAIN10/DUST04 own agency supports a monograph/five-rule provisional model; aid precedes impostor exposure, local stopping rule coexists with later harmful pressure. Prior2-candidate row retained as history; no prior forecast or score revised. |
+| CR-SECONDARY-EXP03-TRIAL-PARTIES-001 | REVISE_WORKING_IDENTITY_AND_SPLIT | NativeEXP03U013P148/362–498 separates six actors. ライズ is the current verified native name rather than historical Rize; トマス retains Thomas retrieval without importing トーマス. Their distinct skills/decisions are not one shared group personality. The two old group rows remain historical aggregates. Six narrow profiles live in Character State; no forced monograph. |
+| CR-SECONDARY-TRPG-REPLAY-PC-001 | SPLIT_WORKING_SOURCE_PLANE_IDENTITIES | Core/Advanced explicitly continue Gilbert, Suzuki Chiho/Chio, Otohime, Temiren and separately add21. The old grouped row remains historical; players/GM/PC/narration/optional/main counterparts are distinct. Substantial2–3 candidacy stays open, with no appearance quota or Tier1 ceiling. |
+
+These are current attributed working/analytical revisions. Earlier source reports, full original annotations, all frozen historical bodies, previous claim-ledger prefix and exact first responses stay preserved. No unresolved causal disagreement is silently adjudicated.

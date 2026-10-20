@@ -989,3 +989,16 @@ The [Hoost model](../06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_H
 | H08-MC06 | EXP01IMG027-031/036/043;EXP03U020P509-516/U034P364-493 | Rank, deference, relaxed address, borrowed introduction, threat/bargain/complaint differ by act/recipient | EXPAND HH-R06, no acoustic/native-human adequacy |
 
 StageD feed retains task-specific competence, child/protagonist/reader knowledge separation, other providers' actual contributions, coercive/collateral costs and modified-effect counterevidence. Three same-author pairs/six first bodies provide bounded request sensitivity, same-bargain affect variation and hidden-truth invariance; they supply no independent reliability or new source score. Original principal conditions and outcomes are not redefined by Hoost friendship or life claims.
+
+
+## Levi cohort09 — five provisional rule constraints — 2026-10-20T06:09:56.297297+00:00
+
+| Constraint | Source return | Consequential interpretation and contrary limit |
+|---|---|---|
+| L09-MC01 → LEVI-R01 | MAIN10C4P139–197/247–284;DUST04U014P223–264/339–418 | Perceived downside/control can permit games or inhibit new exposure; real rule errors/cheating defeat global prudence or fair-learning claims. |
+| L09-MC02 → LEVI-R02 | MAIN10C3P529–578/C4P25–95/257–279/C5P185–211/715–758 | Specific evidence alters local treatment without correcting every identity, relationship or ethical error. |
+| L09-MC03 → LEVI-R03 | MAIN10C5P376–477, then715–734 | Self-authored aid precedes villain exposure; causal weights and sufficiency remain OPEN. |
+| L09-MC04 → LEVI-R04 | MAIN10C5P734–758;DUST04U014P34–118/144–170/418–430 | Known debt and likely nonaffiliation do not inhibit actual coercion; exclude fabricated allegations and late-intention retroactivity. |
+| L09-MC05 → LEVI-R05 | MAIN10C3P529–578/C4P251–281/C5P185–211/715–758;DUST04U014P89–105/418–430 | Recipient/act-sensitive printed stance; sparse unequal evidence, no acoustic or demonstrated Japanese generation. |
+
+The new monograph/model/index have distinct responsibilities. Four first bodies leave generic prudence, near-canonical prompting, exact hidden-truth invariance and overly coherent English unresolved; no score/confidence gain. All fourteen entering models remain byte-exact, with one new scoped secondary model (fifteen bodies total). Frozen MAIN_ONLY_R1 and its four holdout histories remain separate. StageD feed: task-specific inhibition, nonidentified causal weights, other agents' independent choice, gratitude/coercion coexistence and knowledge/phase boundaries; six separately versioned successors remain uncreated.

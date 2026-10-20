@@ -1834,3 +1834,13 @@ Source-known admitted EXP01/03: prior eighteen actually read integral image-pros
 | Record | Acting subject and exact route | Current uptake | Limits |
 |---|---|---|---|
 | H08-DE01 | Hoost knowledge/update; EXP01IMG041-043;EXP03U026P533-565/U034P374-388 | Declined kitten inspection loses a relevant information opportunity. Hoost initially calls captured prey Wolbach and attacks, then corrects to ordinary beginner-killer. Altered Paralysis defeats his ordinary-immunity boast. | Both mistake and correction remain; original EXP03report161 supported, not erased or retrospectively repaired. Useful scent and actual attempted potion interception prevent global stupidity/total incuriosity claims. |
+
+
+## Cohort09 — local inhibition alongside motivated error — 2026-10-20T06:09:56.297297+00:00
+
+| ID | Evidence | Decision/error distinction |
+|---|---|---|
+| L09-DE01 | MAIN10C4P247–284;C5P376–477/715–758 | Levi refuses new exposure despite a taunt, then later makes a different commitment under changed pressure/information. Accepting a previous wording failure does not correct an unrelated engagement assumption. Aid precedes villain exposure; a single compassion cause is unidentified. |
+| L09-DE02 | DUST04U014P60–118/144–170/339–430 | Known danger and accepted likely nonaffiliation coexist with coercion for personal information; debt is acknowledged. Disclosed highest-card exception still defeats anticipated control. Later intended-release claim was unavailable to others before play. |
+
+Known admitted-source retrospective consolidation; no new source admission, whole-source/ruby/image/independent-test credit. Exact earlier ledger bytes remain the prefix. Frozen forecasts, failures, scores and blank/null fields remain unchanged.

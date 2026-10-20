@@ -1833,3 +1833,12 @@ Native ホースト joins historical Horst/Hoost variants. Hoost's initial mista
 ## Hoost first-forest voice qualification — CR-SECONDARY-HOOST-003
 
 Use the [attributable erratum](../09%20Audits%20and%20Manifests/KONOSUBA_HOOST_FIRST_FOREST_VOICE_ATTRIBUTION_ERRATUM_01.json) with the [original Hoost index](KONOSUBA_HOOST_EVIDENCE_INDEX.md). EXP03 U020 `item/xhtml/p-011.xhtml` P476–487/493–500/502/509–511 joins the heard voice to Hoost’s later visible self-identification. Megumin’s earlier unknown identity is not another actor. P488 only wonders about protection before waking; that action remains unconfirmed. The36-slot recheck is wholly inside earlier actual U020P430–611 receiving and adds zero unique source/ruby/image or independent-test credit. Original index SHA256 `3f48020328633867eb0a90c285ad66d3b4f3464e9cbdb0cc1d5d69f9d0c88fe2`, model, monograph and prior gate stay exact.
+
+
+## Levi cohort09 and individual trial/replay return routes — 2026-10-20T06:09:56.297297+00:00
+
+The [Levi index](KONOSUBA_LEVI_EVIDENCE_INDEX.md) maps MAIN10C3/C4/C5 to nativeU014/U015/U016 and DUST04U014, with1,048source-known BASE recheck slots and seven organizational clusters that are not independent trials. Exact native/member hashes, actual ranges, narrator/report/inference/false-account distinctions and the recovered omitted DUST04 display are preserved. Aid459–476 precedes the assassin aftermath715–758; DUST04P430 later intention cannot backdate consent. No raw source text, native artwork or private filesystem path is published.
+
+The [Character State profiles](../03%20Longitudinal%20Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md) own six scoped EXP03U013 trial-party profiles: ライズ/ライナ and アイン/ロッド/トマス/ジャック. Current BASE140–280/342–505 binds305slots, not another whole-member pass. Warrior/thief siblings and four separate trial actors replace no historical group record. Five separate TRPG replay PC candidates preserve Core/Advanced continuity, source plane and player distinction; no new native-page pass or final tier is implied. The structured census retains168working rows, three expressly historical aggregates and an open discovery bucket; no final population denominator follows.
+
+Full current ten rolling responsibilities were received before this cohort in eleven physical files. The original prediction-history and its continuation remain distinct physical parts; exact prior-semantic reuse in that receiving is disclosed, not another literal or native reading.

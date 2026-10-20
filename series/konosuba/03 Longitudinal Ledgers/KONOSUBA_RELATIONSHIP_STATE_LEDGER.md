@@ -1374,3 +1374,10 @@ Source-known admitted EXP01/03: prior eighteen actually read integral image-pros
 | Record | Acting subject and exact route | Current uptake | Limits |
 |---|---|---|---|
 | H08-RS01 | Hoost with Komekko/Wolbach/Megumin/Yunyun/Rex/Sophie/Terry;EXP01IMG026-043;EXP03U026P533-598/U034P287-498 | Particular child friendship modifies expressed reluctance toward Crimson Demons while Wolbach mission and conditional city threat persist. Rex crew receives actual attacks; Yunyun supplies resistance/bargaining, Megumin final blast. | No universal surrogate-parent rule, completed future familiar bond, recognized sisterhood or Megumin bonded-opponent condition. First friendly encounter does not erase later coercion or reported retaliatory city attack. |
+
+
+## Cohort09 — obligation, gratitude and chosen relationship remain distinct — 2026-10-20T06:09:56.297297+00:00
+
+Iris/Levi engagement dissolution, later national gratitude and her friendship-only decision are distinct states (MAIN10C3P675–698/C5P715–758). His retrospective account of deliberate dislike and DUST04 avowal of loss do not establish all earlier feelings or a renewed engagement. Debt to Kazuma coexists with a coercive demand for Kazuma/Iris information (DUST04U014P89–118). Small, Leen, Taylor and Keith have separate constraints and actions; Leen authors her added stake318, while private allegations187–208 are fabricated. Release permission430 and the accepted epilogue's compensation do not establish complete repair or retroactive free assent.
+
+Known admitted-source retrospective consolidation; no new source admission, whole-source/ruby/image/independent-test credit. Exact earlier ledger bytes remain the prefix. Frozen forecasts, failures, scores and blank/null fields remain unchanged.

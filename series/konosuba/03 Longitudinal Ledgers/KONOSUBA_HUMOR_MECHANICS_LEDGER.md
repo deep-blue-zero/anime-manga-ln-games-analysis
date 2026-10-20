@@ -1863,3 +1863,10 @@ Source-known admitted EXP01/03: prior eighteen actually read integral image-pros
 | Record | Acting subject and exact route | Current uptake | Limits |
 |---|---|---|---|
 | H08-HM01 | Hoost/Komekko and combat reversals; EXP01IMG026-043;EXP03U020P509-516/U034P387-424 | Rank is reversed by scarce child skill; puzzle layers/boredom keep effort scarce. Oyakodon defeats offering instructions. Borrowed greeting frightens audience; shared immobility changes a bargain without removing danger. | Reuse declared source coding; no new gag census, automatic fantasyH4 or L3 for rough speech. Actual food, refusal, attacks and unshown bear outcome remain distinct. |
+
+
+## Cohort09 — comic reversal preserves agency and costs — 2026-10-20T06:09:56.297297+00:00
+
+Levi's status collapses, games and relationship embarrassment amplify disposition (H2 interpretation), while actual concessions, refusal, apologies, detention and knowingly threatening Small remain usable literal conduct at their own plane (H1 interpretation). Fantasy does not make the thirteen/one rule H4 or uncertainty H3. The particular card exception and known supernatural forecast restrict transfer; a proposed ban is not an enacted law. Dust/Small's private fabricated accusation is an actually performed deception, not an actual history of the acts alleged. No new selected-sample denominator, J02 census or prospective outcome is created. MAIN10C4P25–98/247–284/C5P715–758;DUST04U014P183–244/339–441.
+
+Known admitted-source retrospective consolidation; no new source admission, whole-source/ruby/image/independent-test credit. Exact earlier ledger bytes remain the prefix. Frozen forecasts, failures, scores and blank/null fields remain unchanged.

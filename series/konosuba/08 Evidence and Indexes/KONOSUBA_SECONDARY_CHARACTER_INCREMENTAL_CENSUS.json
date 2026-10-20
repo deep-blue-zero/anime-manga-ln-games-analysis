@@ -1,8 +1,8 @@
 {
   "schema": "KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS_V1",
-  "status": "INCREMENTAL_157_QUALIFIED_ROWS_NOT_FINAL_INDIVIDUAL_DENOMINATOR",
-  "updated_utc": "2026-10-20T04:28:03.811756+00:00",
-  "scope": "Incremental secondary cohorts01-08; all declared source-program gates and eight scoped secondary publication gates closed at their stated evidence boundaries. Full individual/earned-artifact/specialist/versioned-six-model/curation/evaluation/integration/release program active.",
+  "status": "INCREMENTAL_168_QUALIFIED_ROWS_NOT_FINAL_INDIVIDUAL_DENOMINATOR",
+  "updated_utc": "2026-10-20T06:13:07.283554+00:00",
+  "scope": "Incremental cohorts01-09: eight scopedTier3 gates closed; Levi scopedTier3 and six narrow profiles semantically adopted/publication pending. Eleven individual trial/replay rows added; full program active.",
   "row_semantics": "Distinct qualified working subjects plus explicitly unresolved grouped/identity leads. A row is not automatically one final individual or an earned artifact. Old scope phrases remain their recorded history; the root current scope governs present admission status.",
   "artifact_architecture": "Use existing05 Specialist Synthesis for earned monographs and06 Character Modeling and Reconstruction for distinct mechanism models. Existing ledgers carry bounded profiles unless a separate responsibility is justified. Single current corpus map; curator-only global registry/index enrollment.",
   "rows": [
@@ -271,16 +271,29 @@
     {
       "character": "Prince Levi / Revi",
       "identity": "レヴィ; initial レビー seed rejected",
-      "likely_tier": "2 candidate",
-      "priority": "Next cohort",
-      "evidence_distribution": "MAIN10 direct native diplomacy; DUST04 report alternate viewpoint. CURRENT WORKING29: Complete MAIN10 report gives own stopping rule, responsibility for game loss, worry/reward protest, pressured neutrality disclosure, independent aid commitment and failed assumption of renewed engagement.",
-      "substantive_responsibility": "Independent funding choice and friendship do not erase later coercion/detention of Small or imply engagement restored.",
-      "gaps": "Precise sequence and same-event DUST04 join still need final individual audit. Aid is promised before Ragcraft exposure; no shown cash transfer or consent to engagement from political friendship. Concentrated evidence can support substantial treatment.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "likely_tier": "3, scoped cohort09 semantically received; predictive reliability provisional",
+      "priority": "Earned independent monograph/model; containing publication gate pending",
+      "evidence_distribution": "MAIN10 direct native diplomacy; DUST04 report alternate viewpoint. CURRENT WORKING29: Complete MAIN10 report gives own stopping rule, responsibility for game loss, worry/reward protest, pressured neutrality disclosure, independent aid commitment and failed assumption of renewed engagement. CURRENT COHORT09:1048known-source BASE slots:MAIN10U014P519-699/U015P25-98,139-200,247-284/U016P1-35,164-239,376-477,715-758;DUST04U014P6-441. Complete current ten-ledger responsibilities received before cohort. No new whole-source/ruby/image/independent credit.",
+      "substantive_responsibility": "Independent funding choice and friendship do not erase later coercion/detention of Small or imply engagement restored. CURRENT COHORT09:Own public/personal goals, perceived contest limits, local updating, political agency before impostor exposure, concern, gratitude with coercive grievance and act-sensitive stance support a distinct monograph/five-rule provisional model/index. Real harmful custody, known threat, cheating and relationship entitlement remain.",
+      "gaps": "Containing exact-source publication/HK/final gate and fresh reload, designated curation/evaluation/integration remain. Political causal weights, broad prevalence/ordinary-life/transfer and Japanese generation are underidentified. Four same-author first bodies preserve generic prudent-official/near-canonical rivals, exact hidden-information invariance, condition-only acceptance and overly coherent English. No independent validation, score/confidence gain or complete repair. Wider census/specialist/versioned-model/release program open.",
+      "disposition_status": "SCOPED_TIER3_COHORT09_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
       "independent_observation_count": null,
       "prior_gap_history_working28": "Review same-event chronology across MAIN10/DUST04; name variant joins; avoid flattering single-arc model.",
       "current_scope_asof_working29": "Current derivative review MAIN01–12 plus MAIN17 and first four checkpoints complete; MAIN13–16 and remaining checkpoints/ledger consolidation remain active. All declared source gates and Iris/Yunyun/Vanir/Wiz scoped publication gates closed.",
-      "cohort05_current_evidence_qualification": "Complete MAIN10 report gives own stopping rule, responsibility for game loss, worry/reward protest, pressured neutrality disclosure, independent aid commitment and failed assumption of renewed engagement."
+      "cohort05_current_evidence_qualification": "Complete MAIN10 report gives own stopping rule, responsibility for game loss, worry/reward protest, pressured neutrality disclosure, independent aid commitment and failed assumption of renewed engagement.",
+      "prior_targeted_fields_before_cohort09": {
+        "likely_tier": "2 candidate",
+        "priority": "Next cohort",
+        "evidence_distribution": "MAIN10 direct native diplomacy; DUST04 report alternate viewpoint. CURRENT WORKING29: Complete MAIN10 report gives own stopping rule, responsibility for game loss, worry/reward protest, pressured neutrality disclosure, independent aid commitment and failed assumption of renewed engagement.",
+        "substantive_responsibility": "Independent funding choice and friendship do not erase later coercion/detention of Small or imply engagement restored.",
+        "gaps": "Precise sequence and same-event DUST04 join still need final individual audit. Aid is promised before Ragcraft exposure; no shown cash transfer or consent to engagement from political friendship. Concentrated evidence can support substantial treatment.",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort09_current_artifacts": {
+        "monograph": "series/konosuba/05 Specialist Synthesis/KONOSUBA_LEVI_CHARACTER_MONOGRAPH.md",
+        "model": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_LEVI_RECONSTRUCTION_MODEL.md",
+        "evidence_index": "series/konosuba/08 Evidence and Indexes/KONOSUBA_LEVI_EVIDENCE_INDEX.md"
+      }
     },
     {
       "character": "Mitsurugi",
@@ -671,7 +684,18 @@
       "substantive_responsibility": "Actual edited game decisions can support bounded profiles; powers and source form constrain transfer.",
       "gaps": "No promotion into new observed core-novel character scenes; distinguish player intention, PC action, narration and rules.",
       "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
-      "independent_observation_count": null
+      "independent_observation_count": null,
+      "working39_historical_aggregate_disposition": {
+        "status": "RETAINED_HISTORICAL_GROUP_NOT_A_CURRENT_INDIVIDUAL_COUNT",
+        "individual_children": [
+          "Gilbert (TRPG replay PC)",
+          "Suzuki Chiho / Chio (TRPG replay PC)",
+          "Otohime (TRPG replay PC)",
+          "Temiren (TRPG replay PC)",
+          "21 (TRPG Advanced replay PC)"
+        ],
+        "why": "Separate source-bound actors now have their own records; prior group descriptions preserved. Not a final population denominator."
+      }
     },
     {
       "character": "Other TRPG Core PCs / professionals / unnamed actors",
@@ -684,7 +708,18 @@
       "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
       "independent_observation_count": null,
       "prior_gap_history_working21": "Inventory source-qualified identities before artifact decisions; source silence, unindexed evidence and incomplete review stay distinct.",
-      "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded."
+      "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded.",
+      "working39_known_replay_children_routed_elsewhere": {
+        "Core_returning_PC_rows": [
+          "Gilbert (TRPG replay PC)",
+          "Suzuki Chiho / Chio (TRPG replay PC)",
+          "Otohime (TRPG replay PC)",
+          "Temiren (TRPG replay PC)"
+        ],
+        "Advanced_added_PC_row": "21 (TRPG Advanced replay PC)",
+        "status": "DISCOVERY_BUCKET_REMAINS_OPEN_NOT_AN_INDIVIDUAL",
+        "remaining": "Other source-bound professionals, staged speakers, scenario actors and unnamed agents still need individual/incidental dispositions; no presumed replacement novel identity."
+      }
     },
     {
       "character": "Yuiyui",
@@ -933,7 +968,15 @@
       "substantive_responsibility": "Task-specific food/crop economics, actual frontline work, face-preserving dismissal and accepted compensation.",
       "gaps": "Individual agency not merged; source depth/voice limited. Refusal is not automatically envy or prejudice.",
       "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
-      "independent_observation_count": null
+      "independent_observation_count": null,
+      "working39_historical_aggregate_disposition": {
+        "status": "RETAINED_HISTORICAL_GROUP_NOT_A_CURRENT_INDIVIDUAL_COUNT",
+        "individual_children": [
+          "ライズ (EXP03 warrior; historical Rize retrieval)",
+          "Raina / ライナ (EXP03 thief)"
+        ],
+        "why": "Separate source-bound actors now have their own records; prior group descriptions preserved. Not a final population denominator."
+      }
     },
     {
       "character": "Ain / Rod / Thomas / Jack",
@@ -944,7 +987,17 @@
       "substantive_responsibility": "Different weapons/healing/archery, Thomas warning, Rod apology, actual future leveling offer and task-fit limits.",
       "gaps": "Join each actor to specific action; no full group persona. Future-feasible route not narrowed to immediate purchase.",
       "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
-      "independent_observation_count": null
+      "independent_observation_count": null,
+      "working39_historical_aggregate_disposition": {
+        "status": "RETAINED_HISTORICAL_GROUP_NOT_A_CURRENT_INDIVIDUAL_COUNT",
+        "individual_children": [
+          "Ain / アイン (EXP03 trial-party leader)",
+          "Rod / ロッド (EXP03 spear user)",
+          "Tomas / トマス (historical Thomas retrieval)",
+          "Jack / ジャック (EXP03 archer)"
+        ],
+        "why": "Separate source-bound actors now have their own records; prior group descriptions preserved. Not a final population denominator."
+      }
     },
     {
       "character": "Maris",
@@ -2212,9 +2265,232 @@
       "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
       "independent_observation_count": null,
       "current_scope_asof_working31": "All17 main excluded,19 supplemental and5mixed declared source programs remain closed. Current complete main analytical-derivative review is MAIN01-17 (MAIN17 received earlier out of order); receipts49-52 finishMAIN13-16. Later checkpoints/earlier prospective reconciliation/current ledger and separate supporting-register consolidation, final census/artifacts/expanded models/curation/release remain active. No new source/whole-native/ruby/image/independent-test credit from derivative receiving. Current157qualified audit rows are not final individual population; global percentage null."
+    },
+    {
+      "character": "ライズ (EXP03 warrior; historical Rize retrieval)",
+      "identity": "ライズ, elder brother of ライナ; no added cross-source alias.",
+      "likely_tier": "1, scoped source-local bounded profile adopted; final census remains open",
+      "priority": "Source-bound individual consolidation; evidence-proportional artifact review",
+      "evidence_distribution": "EXP03U013P147-265; Megumin focalization/direct encounter.",
+      "substantive_responsibility": "Introduces both siblings, selects work, shields against rats, requests different magic for meat-income/crop costs and offers to bear loss. Refusal preserves politeness and actual work.",
+      "gaps": "Do not convert group speech into exact speaker certainty or offered compensation into his completed payment; Megumin pays P265. No broad caste prejudice or stable future-care rule.",
+      "disposition_status": "SCOPED_TIER1_PROFILE_ADOPTED_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "historical_aggregate_parent": "Rize / Raina",
+      "working39_receiving_receipt": {
+        "file": "SECONDARY_CENSUS_ACTUAL_NATIVE_IDENTITY_AND_LEVI_RECHECK_01.json",
+        "bytes": 5801,
+        "sha256": "0572cba9496a40e3c3b051b76c2c85822af683519c67b1e5b2b4f798f2792101"
+      },
+      "prior_working39_candidate_fields": {
+        "likely_tier": "1 bounded source-local candidate",
+        "disposition_status": "WORKING_DISTINCT_SUBJECT_SPLIT_NOT_FINAL_PROMOTION",
+        "gaps": "Do not convert group speech into exact speaker certainty or offered compensation into his completed payment; Megumin pays P265. No broad caste prejudice or stable future-care rule."
+      },
+      "cohort09_bounded_profile_home": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md"
+    },
+    {
+      "character": "Raina / ライナ (EXP03 thief)",
+      "identity": "ライナ, sister of ライズ; distinct actor.",
+      "likely_tier": "1, scoped source-local bounded profile adopted; final census remains open",
+      "priority": "Source-bound individual consolidation; evidence-proportional artifact review",
+      "evidence_distribution": "EXP03U013P148-265.",
+      "substantive_responsibility": "Warns brother, actually throws knives/kills rats, values food, identifies crop liability and bends to check fallen Megumin for injury. Joins face-preserving separation.",
+      "gaps": "Warnings, instrumental economics and concern coexist; no universal benevolence, envy or independent payment inferred.",
+      "disposition_status": "SCOPED_TIER1_PROFILE_ADOPTED_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "historical_aggregate_parent": "Rize / Raina",
+      "working39_receiving_receipt": {
+        "file": "SECONDARY_CENSUS_ACTUAL_NATIVE_IDENTITY_AND_LEVI_RECHECK_01.json",
+        "bytes": 5801,
+        "sha256": "0572cba9496a40e3c3b051b76c2c85822af683519c67b1e5b2b4f798f2792101"
+      },
+      "prior_working39_candidate_fields": {
+        "likely_tier": "1 bounded source-local candidate",
+        "disposition_status": "WORKING_DISTINCT_SUBJECT_SPLIT_NOT_FINAL_PROMOTION",
+        "gaps": "Warnings, instrumental economics and concern coexist; no universal benevolence, envy or independent payment inferred."
+      },
+      "cohort09_bounded_profile_home": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md"
+    },
+    {
+      "character": "Ain / アイン (EXP03 trial-party leader)",
+      "identity": "Sword-bearing leader アイン; not another generic Adventurer identity.",
+      "likely_tier": "1, scoped source-local bounded profile adopted; final census remains open",
+      "priority": "Source-bound individual consolidation; evidence-proportional artifact review",
+      "evidence_distribution": "EXP03U013P362-491.",
+      "substantive_responsibility": "Recruits an expected useful mage, fights with Rod, warns about flying-creature marking and proposes plains after learning area constraints. Tactical adjustment exists before enormous spell.",
+      "gaps": "P486 genuine future leveling offer retained at party level because speaker is not explicitly bound; anonymous lines427-442 are not individually assigned merely by order.",
+      "disposition_status": "SCOPED_TIER1_PROFILE_ADOPTED_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "historical_aggregate_parent": "Ain / Rod / Thomas / Jack",
+      "working39_receiving_receipt": {
+        "file": "SECONDARY_CENSUS_ACTUAL_NATIVE_IDENTITY_AND_LEVI_RECHECK_01.json",
+        "bytes": 5801,
+        "sha256": "0572cba9496a40e3c3b051b76c2c85822af683519c67b1e5b2b4f798f2792101"
+      },
+      "prior_working39_candidate_fields": {
+        "likely_tier": "1 bounded source-local candidate",
+        "disposition_status": "WORKING_DISTINCT_SUBJECT_SPLIT_NOT_FINAL_PROMOTION",
+        "gaps": "P486 genuine future leveling offer retained at party level because speaker is not explicitly bound; anonymous lines427-442 are not individually assigned merely by order."
+      },
+      "cohort09_bounded_profile_home": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md"
+    },
+    {
+      "character": "Rod / ロッド (EXP03 spear user)",
+      "identity": "ロッド; explicitly spear-user P381, separate from leader and healer.",
+      "likely_tier": "1, scoped source-local bounded profile adopted; final census remains open",
+      "priority": "Source-bound individual consolidation; evidence-proportional artifact review",
+      "evidence_distribution": "EXP03U013P376-498.",
+      "substantive_responsibility": "Fights slimes, asks what geometry permits magic, is described through Megumin skeptical inference, later apologizes for doubting and actually gives juice.",
+      "gaps": "Apology/gift is direct evidence; earlier exact inner motive is focalizer inference. Reconsideration does not promise acceptance of an unusable daily role.",
+      "disposition_status": "SCOPED_TIER1_PROFILE_ADOPTED_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "historical_aggregate_parent": "Ain / Rod / Thomas / Jack",
+      "working39_receiving_receipt": {
+        "file": "SECONDARY_CENSUS_ACTUAL_NATIVE_IDENTITY_AND_LEVI_RECHECK_01.json",
+        "bytes": 5801,
+        "sha256": "0572cba9496a40e3c3b051b76c2c85822af683519c67b1e5b2b4f798f2792101"
+      },
+      "prior_working39_candidate_fields": {
+        "likely_tier": "1 bounded source-local candidate",
+        "disposition_status": "WORKING_DISTINCT_SUBJECT_SPLIT_NOT_FINAL_PROMOTION",
+        "gaps": "Apology/gift is direct evidence; earlier exact inner motive is focalizer inference. Reconsideration does not promise acceptance of an unusable daily role."
+      },
+      "cohort09_bounded_profile_home": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md"
+    },
+    {
+      "character": "Tomas / トマス (historical Thomas retrieval)",
+      "identity": "トマス, Eris priest; preserve historical Thomas search variant without importing トーマス as exact source.",
+      "likely_tier": "1, scoped source-local bounded profile adopted; final census remains open",
+      "priority": "Source-bound individual consolidation; evidence-proportional artifact review",
+      "evidence_distribution": "EXP03U013P376-466.",
+      "substantive_responsibility": "Heals injured frontliners, physically restrains angry Megumin during airborne attack, recognizes dangerous magic scale and warns to increase distance.",
+      "gaps": "No general infallible magical expertise or unshown shield; warning does not prevent collateral knockdown.",
+      "disposition_status": "SCOPED_TIER1_PROFILE_ADOPTED_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "historical_aggregate_parent": "Ain / Rod / Thomas / Jack",
+      "working39_receiving_receipt": {
+        "file": "SECONDARY_CENSUS_ACTUAL_NATIVE_IDENTITY_AND_LEVI_RECHECK_01.json",
+        "bytes": 5801,
+        "sha256": "0572cba9496a40e3c3b051b76c2c85822af683519c67b1e5b2b4f798f2792101"
+      },
+      "prior_working39_candidate_fields": {
+        "likely_tier": "1 bounded source-local candidate",
+        "disposition_status": "WORKING_DISTINCT_SUBJECT_SPLIT_NOT_FINAL_PROMOTION",
+        "gaps": "No general infallible magical expertise or unshown shield; warning does not prevent collateral knockdown."
+      },
+      "cohort09_bounded_profile_home": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md"
+    },
+    {
+      "character": "Jack / ジャック (EXP03 archer)",
+      "identity": "ジャック, bow user; not an alias for Keith or another archer.",
+      "likely_tier": "1, scoped source-local bounded profile adopted; final census remains open",
+      "priority": "Source-bound individual consolidation; evidence-proportional artifact review",
+      "evidence_distribution": "EXP03U013P376-466.",
+      "substantive_responsibility": "Actually downs flying monsters when melee and Explosion cannot safely reach; prepares retreat and says giant slime must be reported to guild.",
+      "gaps": "Report is proposed, not performed on page; no independent attribution of every anonymous group statement or final leveling offer.",
+      "disposition_status": "SCOPED_TIER1_PROFILE_ADOPTED_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "historical_aggregate_parent": "Ain / Rod / Thomas / Jack",
+      "working39_receiving_receipt": {
+        "file": "SECONDARY_CENSUS_ACTUAL_NATIVE_IDENTITY_AND_LEVI_RECHECK_01.json",
+        "bytes": 5801,
+        "sha256": "0572cba9496a40e3c3b051b76c2c85822af683519c67b1e5b2b4f798f2792101"
+      },
+      "prior_working39_candidate_fields": {
+        "likely_tier": "1 bounded source-local candidate",
+        "disposition_status": "WORKING_DISTINCT_SUBJECT_SPLIT_NOT_FINAL_PROMOTION",
+        "gaps": "Report is proposed, not performed on page; no independent attribution of every anonymous group statement or final leveling offer."
+      },
+      "cohort09_bounded_profile_home": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md"
+    },
+    {
+      "character": "Gilbert (TRPG replay PC)",
+      "identity": "Akatsuki Natsume player role is distinct from his PC Gilbert.",
+      "likely_tier": "2–3 substantive concentrated replay candidate; no source-count ceiling",
+      "priority": "Source-bound individual consolidation; evidence-proportional artifact review",
+      "evidence_distribution": "TRPG-CORE edited replay plus explicit continuation TRPG-ADV printed010-106/nativeS012-108; whole current accepted reports and earlier full ledger receiving. Unequal GM/player/PC narration preserved.",
+      "substantive_responsibility": "Useful healing/support and negotiated recruitment coexist with sectarian pressure, donation conditions, status claims, reputation failures and wounded pride.",
+      "gaps": "Dedicated subject/rival/voice consolidation remains. No automatic novel continuity, natural-person biography, numerical balance certification, pristine prospective score or final tier from replay density alone.",
+      "disposition_status": "WORKING_DISTINCT_SUBJECT_SPLIT_NOT_FINAL_PROMOTION",
+      "independent_observation_count": null,
+      "historical_aggregate_parent": "Gilbert / Chio / Otohime / Temiren / 21",
+      "working39_receiving_receipt": {
+        "file": "SECONDARY_CENSUS_ACTUAL_NATIVE_IDENTITY_AND_LEVI_RECHECK_01.json",
+        "bytes": 5801,
+        "sha256": "0572cba9496a40e3c3b051b76c2c85822af683519c67b1e5b2b4f798f2792101"
+      }
+    },
+    {
+      "character": "Suzuki Chiho / Chio (TRPG replay PC)",
+      "identity": "Core report Suzuki Chiho and Advanced Chio form explicitly continuing replay PC; player 鰤／牙 remains separate.",
+      "likely_tier": "2–3 substantive concentrated replay candidate; no source-count ceiling",
+      "priority": "Source-bound individual consolidation; evidence-proportional artifact review",
+      "evidence_distribution": "TRPG-CORE edited replay plus explicit continuation TRPG-ADV printed010-106/nativeS012-108; whole current accepted reports and earlier full ledger receiving. Unequal GM/player/PC narration preserved.",
+      "substantive_responsibility": "Restored-health gratitude, real lending and offered spotlight coexist with harmful health doctrine, interpersonal hurt, authored background and continued doubt.",
+      "gaps": "Dedicated subject/rival/voice consolidation remains. No automatic novel continuity, natural-person biography, numerical balance certification, pristine prospective score or final tier from replay density alone.",
+      "disposition_status": "WORKING_DISTINCT_SUBJECT_SPLIT_NOT_FINAL_PROMOTION",
+      "independent_observation_count": null,
+      "historical_aggregate_parent": "Gilbert / Chio / Otohime / Temiren / 21",
+      "working39_receiving_receipt": {
+        "file": "SECONDARY_CENSUS_ACTUAL_NATIVE_IDENTITY_AND_LEVI_RECHECK_01.json",
+        "bytes": 5801,
+        "sha256": "0572cba9496a40e3c3b051b76c2c85822af683519c67b1e5b2b4f798f2792101"
+      }
+    },
+    {
+      "character": "Otohime (TRPG replay PC)",
+      "identity": "Otohime/Oto is Nagatsuki Tappei PC, not the player or another transported protagonist.",
+      "likely_tier": "2–3 substantive concentrated replay candidate; no source-count ceiling",
+      "priority": "Source-bound individual consolidation; evidence-proportional artifact review",
+      "evidence_distribution": "TRPG-CORE edited replay plus explicit continuation TRPG-ADV printed010-106/nativeS012-108; whole current accepted reports and earlier full ledger receiving. Unequal GM/player/PC narration preserved.",
+      "substantive_responsibility": "Death fear coexists with actual repeated protection, resource preparation/comfort, borrowing dependence, regret, costly explanation and partial mutual acknowledgment.",
+      "gaps": "Dedicated subject/rival/voice consolidation remains. No automatic novel continuity, natural-person biography, numerical balance certification, pristine prospective score or final tier from replay density alone.",
+      "disposition_status": "WORKING_DISTINCT_SUBJECT_SPLIT_NOT_FINAL_PROMOTION",
+      "independent_observation_count": null,
+      "historical_aggregate_parent": "Gilbert / Chio / Otohime / Temiren / 21",
+      "working39_receiving_receipt": {
+        "file": "SECONDARY_CENSUS_ACTUAL_NATIVE_IDENTITY_AND_LEVI_RECHECK_01.json",
+        "bytes": 5801,
+        "sha256": "0572cba9496a40e3c3b051b76c2c85822af683519c67b1e5b2b4f798f2792101"
+      }
+    },
+    {
+      "character": "Temiren (TRPG replay PC)",
+      "identity": "Mikami Teren PC; Crimson mage identity is not Megumin/Yunyun or player biography.",
+      "likely_tier": "2–3 substantive concentrated replay candidate; no source-count ceiling",
+      "priority": "Source-bound individual consolidation; evidence-proportional artifact review",
+      "evidence_distribution": "TRPG-CORE edited replay plus explicit continuation TRPG-ADV printed010-106/nativeS012-108; whole current accepted reports and earlier full ledger receiving. Unequal GM/player/PC narration preserved.",
+      "substantive_responsibility": "Romance/status interpretation and irritated affiliation coexist with actual spell/scroll support, bath expertise, religious friction and competent identification.",
+      "gaps": "Dedicated subject/rival/voice consolidation remains. No automatic novel continuity, natural-person biography, numerical balance certification, pristine prospective score or final tier from replay density alone.",
+      "disposition_status": "WORKING_DISTINCT_SUBJECT_SPLIT_NOT_FINAL_PROMOTION",
+      "independent_observation_count": null,
+      "historical_aggregate_parent": "Gilbert / Chio / Otohime / Temiren / 21",
+      "working39_receiving_receipt": {
+        "file": "SECONDARY_CENSUS_ACTUAL_NATIVE_IDENTITY_AND_LEVI_RECHECK_01.json",
+        "bytes": 5801,
+        "sha256": "0572cba9496a40e3c3b051b76c2c85822af683519c67b1e5b2b4f798f2792101"
+      }
+    },
+    {
+      "character": "21 (TRPG Advanced replay PC)",
+      "identity": "Aifujiyui numbered artificial-undead PC, introduced separately; number is not proof of twenty prior lives.",
+      "likely_tier": "2–3 substantive concentrated replay candidate; no source-count ceiling",
+      "priority": "Source-bound individual consolidation; evidence-proportional artifact review",
+      "evidence_distribution": "TRPG-ADV printed010-106/nativeS012-108; whole current accepted reports and earlier full ledger receiving. Unequal GM/player/PC narration preserved.",
+      "substantive_responsibility": "Pressured entry and lockpicking need precede actual mediation, skeptical inquiry, defensive initiative, home attachment and intended remembrance; recovery limits persist.",
+      "gaps": "Dedicated subject/rival/voice consolidation remains. No automatic novel continuity, natural-person biography, numerical balance certification, pristine prospective score or final tier from replay density alone.",
+      "disposition_status": "WORKING_DISTINCT_SUBJECT_SPLIT_NOT_FINAL_PROMOTION",
+      "independent_observation_count": null,
+      "historical_aggregate_parent": "Gilbert / Chio / Otohime / Temiren / 21",
+      "working39_receiving_receipt": {
+        "file": "SECONDARY_CENSUS_ACTUAL_NATIVE_IDENTITY_AND_LEVI_RECHECK_01.json",
+        "bytes": 5801,
+        "sha256": "0572cba9496a40e3c3b051b76c2c85822af683519c67b1e5b2b4f798f2792101"
+      }
     }
   ],
-  "working_row_count_not_population_denominator": 157,
+  "working_row_count_not_population_denominator": 168,
   "global_census_closed": false,
   "final_tiers_assigned": false,
   "global_completion_percentage": null,
@@ -2227,9 +2503,10 @@
     "Chris/Eris overallcohort05 full publication gate closed",
     "Dust overallcohort06 full publication gate closed",
     "Komekko overallcohort07 full publication gate closed",
-    "Hoost overallcohort08 full publication gate closed"
+    "Hoost overallcohort08 full publication gate closed",
+    "Levi overallcohort09 semantic receiving complete; full publication gate pending"
   ],
-  "current_actual_individual_audit_scope": "Complete current MAIN01-17 analytical reports, all six checkpoints and earlier92 documentary appendix received at declared scopes. All supplemental report routes retained. Dust targeted66-entry/extra-body inspection spans eleven physical ledgers/ten responsibilities; not full392-line/whole-ledger/global individual closure. Bounded native and historical original source traversals remain separate. Komekko cohort07 adds18actual visual pages/1602known-source base member slots/79selected ledger entries; full ledger-body and global individual closure remains open. Hoost cohort08 adds1172known-source EXP03 BASE slots/five members, reuses18actual EXP01 image pages and receives13selected ledger rows/seven files; full ledger bodies/global individual census remain open.",
+  "current_actual_individual_audit_scope": "Full ten rolling responsibilities actually received at current de46 unchanged source bodies (eleven physical files). Eleven separate trial-party/replay PC leads replace no history; three aggregate rows are explicitly non-individual, broader discovery bucket remains open. All-source event/alias/incidental reconciliation and earned artifact/synthesis/versioned-model/release work continue. Levi1048BASE/EXP03trial305BASE rechecks are retrospective and do not increment prior unique native totals without overlap union. Six profiles and one new provisional model are scoped artifact dispositions; five replay PC tiers remain open.",
   "historical_integrity": "MG02-I01/I02 through MG05, original blank fields, CP outcomes, letters-as-NT and preYORI04SEC01 scope remain unchanged. New source-known comparisons are retrospective; hypotheticals are not source validation.",
   "current_receipt_pins": [
     {
@@ -2288,7 +2565,7 @@
       "scope": "Exact published Hoost cohort08 gate; full-program duties remain."
     }
   ],
-  "pending": "Remaining individual census/joins/incidental dispositions and earned artifacts; expanded specialists/versioned principal-party-transfer revisions; designated curator enrollment/integration; component/release/final-entry audits.",
+  "pending": "Full all-individual/event/alias/incidental dispositions, further earned artifacts, seven expanded specialists and extended/full-series syntheses, six separate StageD principal-party-transfer revisions, designated curation/evaluation/integration and component/release/final-entry audits.",
   "Vanir_publication_resolution": {
     "source": "90fb18d5302711cb265687c140ab5d5d151ebe06",
     "closed_utc": "2026-10-19T22:46:39.446921+00:00",
@@ -2323,16 +2600,18 @@
     "canonical_global_registry_or_index_authored_here": false
   },
   "change_controls": {
-    "targeted_rows": [
-      "Horst / Hoost retrieval variant"
+    "targeted_prior_rows": [
+      "Prince Levi / Revi",
+      "Gilbert / Chio / Otohime / Temiren / 21",
+      "Other TRPG Core PCs / professionals / unnamed actors",
+      "Rize / Raina",
+      "Ain / Rod / Thomas / Jack"
     ],
-    "untouched_prior_rows_exact": 156,
-    "new_rows": 0,
-    "seven_prior_scoped_tiers_unchanged": true,
-    "thirteen_entering_models_unchanged": true,
-    "canonical_input_sha256": "84d61bea454bbe65b8aabb6086ce795a7e9869751cedc479c6b6c6f6311762d6",
-    "private_working35_sha256": "76fae32c702c2a946fa6c0524bf24b441714fcd72fd5729e07ef0e913bdce361",
-    "private_canonical_only_fields_preserved_at_own_homes": true,
+    "untouched_prior_rows_exact": 152,
+    "new_individual_rows": 11,
+    "historical_aggregate_rows_retained": 3,
+    "open_discovery_bucket_not_a_person": true,
+    "fourteen_entering_model_bodies_unchanged": true,
     "global_census_closed": false,
     "final_tiers_assigned": false,
     "global_completion_percentage": null
@@ -2718,5 +2997,135 @@
     "protection_limit": "EXP03 U020 P488 is Megumin’s unconfirmed inference; no performed protection is established.",
     "original_index_sha256_unchanged": "3f48020328633867eb0a90c285ad66d3b4f3464e9cbdb0cc1d5d69f9d0c88fe2",
     "no_model_rule_tier_score_or_unique_reading_change": true
+  },
+  "Hoost_first_forest_voice_publication_resolution": {
+    "recorded_utc": "2026-10-20T05:04:09.298058+00:00",
+    "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+    "gate_path": "09 Audits and Manifests/KONOSUBA_HOOSTVOICE01_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "0edfa4044982ee8cd5d913a0ec78cb5a7179d5673f0c43b81e0b65b13858c950",
+    "actual_source": "de46f030039b8420d18756dc3d88e59aa1adf5f8",
+    "tree": "23bc40e054ffc06dcfb2e4af5916c43298becec8",
+    "source_run": 39371756703,
+    "housekeeping_run": 39372211177,
+    "final_run": 39372250364,
+    "full_tests_each": 385,
+    "all9205_remote_paths_and10changed_streams_exact": true,
+    "fresh1029_project_authority_reload": true,
+    "eight_scoped_subjects_and14models_unchanged": true,
+    "original_Hoost_index_model_monograph_lineage_and_gate_bytes_unchanged": true
+  },
+  "prior_current_metadata_before_cohort09": {
+    "scope": "Incremental secondary cohorts01-08; all declared source-program gates and eight scoped secondary publication gates closed at their stated evidence boundaries. Full individual/earned-artifact/specialist/versioned-six-model/curation/evaluation/integration/release program active.",
+    "current_actual_individual_audit_scope": "Complete current MAIN01-17 analytical reports, all six checkpoints and earlier92 documentary appendix received at declared scopes. All supplemental report routes retained. Dust targeted66-entry/extra-body inspection spans eleven physical ledgers/ten responsibilities; not full392-line/whole-ledger/global individual closure. Bounded native and historical original source traversals remain separate. Komekko cohort07 adds18actual visual pages/1602known-source base member slots/79selected ledger entries; full ledger-body and global individual closure remains open. Hoost cohort08 adds1172known-source EXP03 BASE slots/five members, reuses18actual EXP01 image pages and receives13selected ledger rows/seven files; full ledger bodies/global individual census remain open.",
+    "scoped_tiers_assigned": [
+      "Iris cohort01 full publication gate closed",
+      "Yunyun cohort02 full publication gate closed",
+      "Vanir overallcohort03 full publication gate closed",
+      "Wiz overallcohort04 full publication gate closed",
+      "Chris/Eris overallcohort05 full publication gate closed",
+      "Dust overallcohort06 full publication gate closed",
+      "Komekko overallcohort07 full publication gate closed",
+      "Hoost overallcohort08 full publication gate closed"
+    ],
+    "change_controls": {
+      "targeted_rows": [
+        "Horst / Hoost retrieval variant"
+      ],
+      "untouched_prior_rows_exact": 156,
+      "new_rows": 0,
+      "seven_prior_scoped_tiers_unchanged": true,
+      "thirteen_entering_models_unchanged": true,
+      "canonical_input_sha256": "84d61bea454bbe65b8aabb6086ce795a7e9869751cedc479c6b6c6f6311762d6",
+      "private_working35_sha256": "76fae32c702c2a946fa6c0524bf24b441714fcd72fd5729e07ef0e913bdce361",
+      "private_canonical_only_fields_preserved_at_own_homes": true,
+      "global_census_closed": false,
+      "final_tiers_assigned": false,
+      "global_completion_percentage": null
+    },
+    "pending": "Remaining individual census/joins/incidental dispositions and earned artifacts; expanded specialists/versioned principal-party-transfer revisions; designated curator enrollment/integration; component/release/final-entry audits.",
+    "status": "INCREMENTAL_157_QUALIFIED_ROWS_NOT_FINAL_INDIVIDUAL_DENOMINATOR"
+  },
+  "scoped_bounded_profiles": [
+    "ライズ (EXP03 warrior; historical Rize retrieval)",
+    "Raina / ライナ (EXP03 thief)",
+    "Ain / アイン (EXP03 trial-party leader)",
+    "Rod / ロッド (EXP03 spear user)",
+    "Tomas / トマス (historical Thomas retrieval)",
+    "Jack / ジャック (EXP03 archer)"
+  ],
+  "cohort09_current_receiving": {
+    "scope": "One new scopedTier3 subject, six narrow profiles, five substantial replay PC candidates; publication pending.",
+    "native_receipt_sha256": "0572cba9496a40e3c3b051b76c2c85822af683519c67b1e5b2b4f798f2792101",
+    "all_ten_ledger_responsibilities_received": true,
+    "eleven_physical_files": [
+      {
+        "key": "CS",
+        "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+        "sha256": "a32c50c02be0b1991ded5244be23ef5bb0730a5b2cafd4f8f978e6bfebc960bd",
+        "raw_lines": 1623
+      },
+      {
+        "key": "CC",
+        "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+        "sha256": "fef93f20cf8148d30e878f07197025a30e1a584acb26b1f906928b3300bf87a2",
+        "raw_lines": 1374
+      },
+      {
+        "key": "DE",
+        "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+        "sha256": "03a2fd1975a0bd589a2a0743ce058bea429f09f39b49bf09b5f4f23e0701a47f",
+        "raw_lines": 1836
+      },
+      {
+        "key": "H",
+        "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+        "sha256": "24bff66f5f2a6763d7c3ada0a6d9d9c9b1b67ab506cf6766f69bc5ffe22bc816",
+        "raw_lines": 1865
+      },
+      {
+        "key": "JV",
+        "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+        "sha256": "0e769a719344be935a4326491a8fe060b366babac3dbb40718ff9e898f4442c9",
+        "raw_lines": 1832
+      },
+      {
+        "key": "N",
+        "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+        "sha256": "7d9443046e7ddb43c4dc57bf1b0a091e19787670e0f729651fe71d799bff40ee",
+        "raw_lines": 1302
+      },
+      {
+        "key": "OL",
+        "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+        "sha256": "67e73b230ab5016efc3ce261157223d5d52743291de32af567b9c349ca92e25b",
+        "raw_lines": 1251
+      },
+      {
+        "key": "RS",
+        "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+        "sha256": "b4a57b50e5c709e7697b6cbdabeef3569e89c897568915f1614d85b3c7ef9d10",
+        "raw_lines": 1376
+      },
+      {
+        "key": "SO",
+        "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+        "sha256": "db2cf7c2ff42de11f0683917c0eaf87cc71e345fdbaff93eae7ddbc644f56e71",
+        "raw_lines": 1179
+      },
+      {
+        "key": "P_CONT",
+        "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+        "sha256": "ede34c22b62f46739f9d3389296bf942cc78743519a68008729aeebaf7a71bbf",
+        "raw_lines": 407
+      },
+      {
+        "key": "P_HIST",
+        "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md",
+        "sha256": "6e3892edf4e3248d30b61594e750822d36d526277174baa18331909daeb52263",
+        "raw_lines": 7892
+      }
+    ],
+    "last_complete_receiving_receipt_sha256": "b6b56a939d4cd3b54063f72188f725b3ebb4c3c36b135058f4695a2ea07101ed",
+    "current_semantic_receiving_sha256": "95ad397e88e31b4cdd8f1e37aaa4fd4adbf7f2d724004473a85d1548c187202f"
   }
 }

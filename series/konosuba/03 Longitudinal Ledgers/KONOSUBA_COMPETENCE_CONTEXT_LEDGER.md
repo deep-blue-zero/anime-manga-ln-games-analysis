@@ -1372,3 +1372,13 @@ Source-known admitted EXP01/03: prior eighteen actually read integral image-pros
 | Record | Acting subject and exact route | Current uptake | Limits |
 |---|---|---|---|
 | H08-CC01 | Hoost with Komekko/Yunyun/Rex crew; EXP01IMG027-039;EXP03U026P539-598/U034P315-388 | Great physical capacity coexists with puzzle dependence and incomplete inscription. Close scent and local correction work; mana-backed fighting, cancelled Inferno and real enhanced-Paralysis defeat show condition-dependent competence. | Flash outcome and actor virtual-body explanation are local, not universal immunity. Exact initial knockdown technique unknown to Megumin; full-strength Explosion survival only a counterfactual claim. |
+
+
+## Cohort09 — task-specific competence and perceived control — 2026-10-20T06:09:56.297297+00:00
+
+| ID | Source/context | Competence actually supported | Limit |
+|---|---|---|---|
+| L09-CC01 | MAIN10C3P529–578/C4P139–197/247–284;DUST04U014P124–131/223–264/339–418 | Levi understands some reciprocal stakes, identifies a new political exposure, can refuse provocation and recognizes exceptional collateral value. | Advisers supply identity knowledge; coin scope and maximum-card exception defeat his appraisal. Cheating admission confirms no exact inferred marking method or universal honest expertise. |
+| L09-CC02 | EXP03U013P148–265/362–498 | Raizu shields, Raina throws knives/warns, Ain adjusts geography, Rod fights/revises, Tomas heals/detects scale, Jack supplies ranged kills. | One underlying trial sequence is not six tests of a shared persona; refusal can concern practical fit after real recognized talent. |
+
+Known admitted-source retrospective consolidation; no new source admission, whole-source/ruby/image/independent-test credit. Exact earlier ledger bytes remain the prefix. Frozen forecasts, failures, scores and blank/null fields remain unchanged.

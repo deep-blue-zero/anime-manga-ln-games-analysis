@@ -1,0 +1,52 @@
+{
+  "schema": "KONOSUBA_LEVI_INTERNAL_HYPOTHETICAL_SCENARIOS_V1",
+  "created_utc": "2026-10-20T06:03:36.353157+00:00",
+  "model_draft_sha256": "ab1ca12e6799fd48ce7a8e56ca80a215a83e80a5b29def04b6eafa9c5c4c1c3b",
+  "scope": "Two source-known same-author paired exercises, not forecasts or independent evaluation. All sources and scaffold purposes already known.",
+  "pairs": [
+    {
+      "pair": "LV-H01",
+      "rule_focus": [
+        "LEVI-R01"
+      ],
+      "A": {
+        "source_time": "Hypothetical after the known DUST04 ending; no actual new source event",
+        "available_information": "A foreign envoy publicly calls Levi afraid to accept a contest. The terms and national consequences are explicitly understood. No supernatural luck or hidden card guarantee is granted. Existing advisers and ordinary royal standing are available.",
+        "request": "Give a short plausible response and the immediate choice. Do not assume that the printed role grants unlimited power.",
+        "stakes": "Levi can win an end to a standing request. Losing merely maintains an already accepted and affordable support ceiling; no additional military exposure arises."
+      },
+      "B": {
+        "source_time": "Hypothetical after the known DUST04 ending; no actual new source event",
+        "available_information": "A foreign envoy publicly calls Levi afraid to accept a contest. The terms and national consequences are explicitly understood. No supernatural luck or hidden card guarantee is granted. Existing advisers and ordinary royal standing are available.",
+        "request": "Give a short plausible response and the immediate choice. Do not assume that the printed role grants unlimited power.",
+        "stakes": "Winning ends the standing request. Losing adds a materially greater military exposure that Levi himself judges unacceptable; it is distinct from the existing support ceiling."
+      },
+      "intended_difference": "Understood national downside, other character information held fixed. Near-canonical design and generic-prudence rival explicitly expected."
+    },
+    {
+      "pair": "LV-H02",
+      "rule_focus": [
+        "LEVI-R02",
+        "LEVI-R05"
+      ],
+      "A": {
+        "character_input": {
+          "source_time": "Hypothetical after the known DUST04 ending; no actual new source event",
+          "available_information": "An unfamiliar court visitor presents an apparently ordinary letter and asks to be heard privately about trade. Levi has no identifying recollection, contradictory evidence, adviser warning or supernatural identity detector. No decision about money has yet been requested.",
+          "request": "Give the same short response from Levi current information; preserve uncertainty about identity and purpose."
+        },
+        "outside_reader_only_fact": "The visitor is an honest merchant."
+      },
+      "B": {
+        "character_input": {
+          "source_time": "Hypothetical after the known DUST04 ending; no actual new source event",
+          "available_information": "An unfamiliar court visitor presents an apparently ordinary letter and asks to be heard privately about trade. Levi has no identifying recollection, contradictory evidence, adviser warning or supernatural identity detector. No decision about money has yet been requested.",
+          "request": "Give the same short response from Levi current information; preserve uncertainty about identity and purpose."
+        },
+        "outside_reader_only_fact": "The visitor privately serves a rival and has deceived the letter issuer."
+      },
+      "intended_difference": "Only outside-reader truth changes; the character inputs are exactly identical. This checks ignorance, not empirical discrimination."
+    }
+  ],
+  "new_source_or_independent_trial_credit": 0
+}

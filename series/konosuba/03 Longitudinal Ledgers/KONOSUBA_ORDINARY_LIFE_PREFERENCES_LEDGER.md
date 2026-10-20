@@ -1249,3 +1249,10 @@ Source-known admitted EXP01/03: prior eighteen actually read integral image-pros
 | Record | Acting subject and exact route | Current uptake | Limits |
 |---|---|---|---|
 | H08-OL01 | Hoost task-adjacent company/provision; EXP01IMG028-043 | Hunting, limits on shopping openly, food delivery before complete work, waiting, carried outing, irritation, company, relaxed formality and a finite farewell give ordinary interaction more than opponent function. | No invented favorite food, wealth, household schedule, romance or general employment pattern. Instrumental recruitment and particular care remain mixed; actual birds are removed, not consumed on-page. |
+
+
+## Cohort09 — entertainment has value without a full palace biography — 2026-10-20T06:09:56.297297+00:00
+
+Levi directly values entertainment/games and uses them to frame requests and commitment. Enjoyment, pride, national policy and particular attachment can coexist; neither pure statecraft nor unstoppable gambling compulsion accounts for refusal of new offensive exposure. His food, domestic work, private friendships and broader routine remain poorly observed. EXP03 siblings' seasonal-food/meat-income/crop concerns are source-local work preferences, not universal diets; Rod's actual juice gift differs from an enduring gift habit. MAIN10C4P25–98/139–197/247–284/C5P454–476;DUST04U014P119–131/223–264;EXP03U013P169–225/258–265/477–498.
+
+Known admitted-source retrospective consolidation; no new source admission, whole-source/ruby/image/independent-test credit. Exact earlier ledger bytes remain the prefix. Frozen forecasts, failures, scores and blank/null fields remain unchanged.

@@ -1300,3 +1300,10 @@ Source-known admitted EXP01/03: prior eighteen actually read integral image-pros
 | Record | Acting subject and exact route | Current uptake | Limits |
 |---|---|---|---|
 | H08-KN01 | Komekko/Megumin/Hoost access; EXP01IMG026-043;EXP03U020P476-549/U026P533-598/U034P485-498 | Child image prose, Megumin forest/battle narration, unknown-voice protection guess, Hoost false-report reception, actual recognition correction and late offscreen testimony retain distinct knowledge times. | No Kazuma/Megumin access to every interlude, known sisterhood, reader-only divine identity or witnessed rebirth/release. U045 is principal epilogue; no new Hoost episode from reward reference. Injury-severity wording tension remains. |
+
+
+## Cohort09 — two narrators do not grant Levi omniscience — 2026-10-20T06:09:56.297297+00:00
+
+MAIN10 Kazuma calls Levi stupid while direct behavior shows a stopping rule, acknowledgment of error and political agency. His universal boy/dragon-hero explanation is inference, not experimentally known motive. DUST04 Dust's exact cheating-device account is inference; Levi's broad admission418 confirms cheating without validating every detail. Dust/Small explicitly author false private accusations187–208, so genuine reactions to them cannot authenticate their content. Levi's late claim430 of intended release is attributed retrospective self-account, not the companions' earlier information. The two narrators add access differences, not independent root readers or repeated original engagement events. MAIN10C4P247–284/C5P185–211/376–477/715–758;DUST04U014P183–244/248–264/418–430.
+
+Known admitted-source retrospective consolidation; no new source admission, whole-source/ruby/image/independent-test credit. Exact earlier ledger bytes remain the prefix. Frozen forecasts, failures, scores and blank/null fields remain unchanged.

@@ -1830,3 +1830,10 @@ Source-known admitted EXP01/03: prior eighteen actually read integral image-pros
 | Record | Acting subject and exact route | Current uptake | Limits |
 |---|---|---|---|
 | H08-JV01 | Hoost particular speech acts; EXP01IMG027-031/036/043;EXP03U020P500-516/U034P364-493 | Rough rank self-presentation, Wolbach-sama, a reluctant polite child request, mutually relaxed address, borrowed grand introduction, wary taunt, impatient bargaining and remaining-life complaint differ by act/recipient. | No permanent Komekko-san after unspecified address stage, compulsory profanity/accent or acoustic/native-human adequacy. HHC01 wording remains underidentified without the arrangement; printed contrast is not a validated full voice. |
+
+
+## Cohort09 — Levi printed stance and uncertain generation — 2026-10-20T06:09:56.297297+00:00
+
+MAIN10C3P529–578/C4P251–281/C5P185–211/715–758 and DUST04U014P89–105/418–430 distinguish Levi's directives/challenges, explanations/apologies and personal pleading. Printed 俺, 貴様 and カズマ殿 are locally bound forms; respectful naming can carry grievance and an intrusive request. A bow is action, not proof every following clause is honorific grammar. Ordinary translated equivalents can preserve these pragmatic differences and the coin location distinction; Japanese pronouns or rank alone supply no L3 warrant. No acoustic/native-human adequacy or representative rate follows. Four same-author hypothetical English first bodies are conspicuously cautious/administrative and do not demonstrate Japanese voice, mistakes or comic timing; that limitation remains uncorrected in the preserved outputs.
+
+Known admitted-source retrospective consolidation; no new source admission, whole-source/ruby/image/independent-test credit. Exact earlier ledger bytes remain the prefix. Frozen forecasts, failures, scores and blank/null fields remain unchanged.
