@@ -1,11 +1,11 @@
 ---
 series: RE_ZERO
 artifact_type: specialist_longitudinal_ledger
-scope: MAIN_LN_CAUSAL_MODELS_COSTS_COUNTERS_AND_EXCEPTIONS_THROUGH_V09
-generation: V1.2
+scope: MAIN_LN_CAUSAL_MODELS_COSTS_COUNTERS_AND_EXCEPTIONS_THROUGH_V10
+generation: V1.3
 status: canonical
 release_state: mutable_active
-current_source_horizon: V09
+current_source_horizon: V10
 recommended_reasoning_class: SUBSTANTIVE_ANALYSIS
 supersedes: []
 superseded_by: []
@@ -20,7 +20,7 @@ This is the sole maintained cumulative causal/world-model home from the V07 tran
 
 The trigger is independent revision burden, not a power count. Physical fog removal, identity-memory rewriting and mental pollution must not collapse into one effect; Subaru's different exceptions do not create bodily invulnerability. Copies depend on a core's mana while ordinary wounds persist differently. Countermeasures can affect allies, and taboo responses vary across observed conditions. Speaker theories, narrator accounts, observed success and unknown identities need separately maintained conditions, costs and exceptions.
 
-This is not a final metaphysical synthesis or a source-admission surface. Only Japanese main LN V01–V09 has been consumed. V10 and later sources remain unopened. V09's internally printed escape-family fragment is local-premise evidence, not separately admitted IF or current-route biology. No web novel, anime, side book or remembered later canon fills a causal gap. Artist annotations remain paratext rather than narrator-certified mechanics.
+This is not a final metaphysical synthesis or source-admission surface. Only Japanese main LN V01–V10 is consumed; V11/later sources remain unopened. V09's escape family is premise-bound; V10's generated parents are not a real Earth encounter. No external IF, WN, anime, side book or remembered later canon fills a gap. Artist annotations remain paratext, not certified causal laws.
 
 The event ledger owns sequence, active/discarded status and durability. The knowledge ledger owns holders, false beliefs, disclosure and nonreceipt. The institution ledger owns rules, authority, resources and incentives. The relationship ledger owns personal terms/continuity; master keeps person/readiness reconstruction. Master §9 routes here, not a second full current mechanics table. Frozen VNN matrices remain source-facing historical evidence, not competing maintained current tables.
 
@@ -32,7 +32,7 @@ An observation that a theory worked operationally does not prove its stated caus
 
 Current rows specify the proposition, evidence/source state, counter/cost/limit, and route. `DIRECT` can apply to speech or subjective experience without certifying the speech's cosmology. `CORROBORATED INFERENCE` remains revisable. `OPEN` names an unresolved cause, identity or scope rather than pretending that nothing was learned.
 
-`V08-E1` continues `V07-E1/V06-E2/RZ-E-011` and ends in death eleven. V09 observes council arrival `RZ-E-012`, then retrospective death twelve and bedside arrival `RZ-E-013`; thirteen segments/twelve deaths are represented, not thirteen deaths. The next throat attempt is aborted. Historical V07/V08 rows retain their horizons; M076–106 supplies V09 revisions. Sequence and holder distribution remain separately owned.
+`V08-E1` continues E011 through death11; V09 supplies council E012 and death12/bedside E013 with another attempt aborted. V10-E1 continues E013 until death13. Its restart declaration supplies no arrival, so13 represented arrived segments remain and E014 is uninstantiated. M076–106 retains the V09 horizon; M107–124 supplies current V10 causal tests. Event/knowledge own sequence and holder distribution; no new point is inferred from dream, spatial transfer or trial waking.
 
 ## 2. Necessary prior-state migration and current base propositions
 
@@ -40,7 +40,7 @@ Rows `RZ-M-001`–`027` retain the twenty-seven responsibilities formerly in mas
 
 | ID / proposition | established or attributed state | counter, cost, exception or competing model | confidence / canonical evidence route |
 |---|---|---|---|
-| `RZ-M-001` restoration pattern | V09 receives the post-Whale council after death eleven, then a post-ambush bedside point after actual throat-stabbing death twelve. Subaru retains Rem's recognition across that arrival. | New point does not reach before the injury; no demonstrated farther-back choice. Provider, selection, limits and destroyed/parallel-world ontology OPEN. Aborted next attempt, falls, teleport, dream and taboo intervals are not returns. | DIRECT SEQUENCE / HIGH; V01 §14.1; V03 §9; V06 C001–003; V07 C001–002; V08 C001–002/M075; V09 C001–003/C083; event ledger E012–013 |
+| `RZ-M-001` restoration pattern | V09 actual council/bedside arrivals and retained Rem recognition remain; V10 E013 ends in fatal Elsa attack/death13 and declared restart without successor arrival. |13 arrived segments, no E014/checkpoint test. Provider, selection, older access and parallel/destroyed-world ontology OPEN. Trial, teleport and dream nonfatal. | DIRECT SEQUENCE / HIGH; V01 §14.1; V03 §9; V06 C001–003; V07 C001–002; V08 C001–002/M075; V09 C001–003/C083; latest V10 §3/C001–003/C101–102; event ledger E012–013; M123 |
 | `RZ-M-002` disclosure suppression | Intended causal revelation has produced subjective stasis/black limbs/self-heart pain, including reaction to revealing circumlocution; V06 instead kills Emilia, attributed to a hand crushing her heart. | No universal safely selectable self-pain price. Recipient, intent, content and target selection remain OPEN. V07 comparison is separately indexed at M028. | DIRECT / HIGH ON EFFECT; V03 §9; V06 C006–007; V07 C003 |
 | `RZ-M-003` liminal/dream figure | Feminine shadow and clipped utterance evoke longing/absorption; V05 adds fuller affectionate wording/touch/euphoria. | Do not complete earlier clipped words retroactively or identify the provider from resemblance to a later voice. Return, dream and enforcement associations remain distinct. | DIRECT SUBJECTIVE / IDENTITY OPEN; V03 §9; V05 C005; V06 C007; M028 |
 | `RZ-M-004` Witch odor / detection | Rem detects odor and intensification; Ram is explicitly not an equivalent detector. Earlier enforcement/return associations and Ulgarm bait behavior are observed or reported. | No measured universal decay, all-holder detection or complete command model. V06's Whale departure remains unexplained; V07 tactical test at M029. | DIRECT + CORROBORATED INFERENCE / BOUNDED; V03 §9; V05 C007; V06 C015 |
@@ -128,7 +128,7 @@ All V08 tests occur in RZ-E-011 until death eleven. Later reset effects are not 
 | `RZ-M-074` doctrine / blockade | Petelgeuse uses Whale fog blockade and lacks knowledge of kill; introduces Witch factor/Pride/vessel claims. | Operational link strengthened, control chain/Whale office unproved; adversary claims not Emilia guilt or new Subaru power. | CORROBORATED INFERENCE + ATTRIBUTION / BOUNDED; V08 C015–017; `p-003#B0031–0077` |
 | `RZ-M-075` death / private love | Ferris lethal heating, shared-host agony, Julius neck steel, explicit Subaru death/world flow; private love voice at threshold. | Entity extinction intended not certified; final sword stroke/next arrival/checkpoint/provider identity unshown. No new taboo-targeting test. | DIRECT + ENDPOINT LIMIT / HIGH; V08 C001/C064/C076; `p-023#B0064–0128` |
 
-### V09 causal revisions: occupied body, selective rejection and unequal memory conditions
+### Historical V09 causal revisions — advanced by M107–124
 
 Short IDs retain `RZ-M-`. These are conditioned revisions, not a complete system chart. Distinguish explanation of an observation from reader-only dialogue, local success from general immunity, and terminal V08 uncertainty from newly observed V09 outcomes.
 
@@ -166,6 +166,31 @@ Short IDs retain `RZ-M-`. These are conditioned revisions, not a complete system
 | `M105` Death-God wound | Wilhelm shows reopened wife-given wound; explains her gift as hindering healing more strongly nearby. | old wound/proximity lead motivates investigation, not observed living Theresia or complete resurrection/blessing mechanism. | DIRECT + EXPERT ACCOUNT / HIGH WITH CAUSAL LIMIT; V09 C058; `p-026#B0023–0041` |
 | `M106` seven-affect language | Prologue associates Subaru's wished-for bodily capacities, contact and response with seven sin labels. | affect enumeration is not acquisition of seven Authorities, offices or proven compatibility; lonely love address does not independently identify every provider. Horn use remains M009, internal-family biology premise-bound. | DIRECT SUBJECTIVE + RHETORICAL LIMIT / BOUNDED; V09 `p-001#B0021–0027`; §7.3; C024/C075 |
 
+### V10 causal tests: qualification, selective memory and constructed history
+
+Short IDs retain `RZ-M-`. High confidence in attribution does not independently verify every part of a Witch's, patron's or local expert's explanation. Existing costs and adverse cases are preserved; no universal mental immunity or new usable Authority follows from one successful entry.
+
+| ID / proposition | observed or attributed V10 state | counter / limit / rival model | confidence / exact evidence route |
+|---|---|---|---|
+| `M107` Gate course | toxins cleaned by Ferris, damage not repaired, two-month rest prescribed | revises old completion uncertainty, not old Ulgarm removal or safe cast | EXPERT ACCOUNT/HIGH AS SUCH; C005; `p-002#B0067–0073`; M013/M089 |
+| `M108` Rem physiology | warm breathing unwaking body reportedly needs no feeding/sweating/excretion; room and Frederica/Ram tests add erasure consequences | not death, tested own memory, measured no-aging, certain Sleeping Beauty cause or remedy | DIRECT/REPORT; C019/C021–023/C085; `p-004#B0056–0092`; `p-022#B0102–0108`; M102–104 |
+| `M109` writer erasure | Rem's authorship explains retained letter transmission/empty content; Subaru rejects swap | explicit local narrative explanation now stronger than V09 hypothesis; no controlled every-writing universal | NARRATIVE EXPLANATION/HIGH WITH SCOPE; C020; `p-004#B0067–0077`; prior M090/K122 |
+| `M110` crystal displacement | light, Emilia faints, Subaru handles stone, temporary blindness/physical displacement | space inference corroborated by new place, not universe destroyed; exact bearer/range/motive open, mental tea party separate | DIRECT/BOUNDED INFERENCE; C040; `p-009#B0203–0248` |
+| `M111` mental castle / dead host | Echidna says dead/soul-confined, speaks in mental dream domain rather than physical transfer | experienced domain change not independent bodily resurrection or old-provider identity | ATTRIBUTION/DIRECT EFFECT; C042–043; `p-011#B0007–0061` |
+| `M112` factor / tea | Echidna says defeated holder's factor chose Subaru, tea helps settling/resistance; fear decreases | not controllable Authority/office or proven common cause of older memory/mental exceptions; bodily vulnerability remains | ATTRIBUTION + OBSERVED CORRELATE; C045; `p-011#B0118–0128`; M081 old horizon |
+| `M113` granted qualification | chest touch grants trial eligibility; later Subaru green entry witnessed | normal blood qualification, factor-related first-entry exception and later grant distinct; no valid second-entry-immunity experiment | DIRECT/ATTRIBUTION; C047/C063; `p-011#B0177–0181`; `p-014#B0705–0715`; `p-024#B0243–0254` |
+| `M114` selective memory alteration | Echidna admits using memory interference instead of trusting exit nondisclosure; later trial facts remain while source/person missing | neither all memory gone nor fully restored; no proof older private dreams share this agent | ADMISSION + DIRECT CONTRAST; C048/C080; `p-020#B0024–0025/B0134`; `p-024#B0084–0090` |
+| `M115` barrier / soul hazard | mixed-blood boundary brings collapse; Ryuzu says forced body exit repels/leaves soul | forced separation not executed; political confinement of unaffected people different; exact blood threshold/soul ontology open | OBSERVED EFFECT/EXPERT REPORT; C056/C058; `p-014#B0056–0073/B0369–0384/B0441–0445` |
+| `M116` failed entry / competing theory | Roswaal wounds attributed to unqualified trial; Ram explains Subaru's exemption by weak Gate | Garfiel explicitly not wound cause; Ram lacks Echidna factor/grant account, no harmonized universal rule | EXPERT ATTRIBUTIONS/DISAGREEMENT; C059; `p-014#B0310–0312/B0453–0462/B0562–0568` |
+| `M117` trial reconstruction | memory-based fictional home/school/parents, with possible unrealized remembered information and wish-shaped responses | generated conversation not real Earth transport, actual parent's current knowledge or perfect prior-life recording | EXPLICIT EXPLANATION + ACCEPTED LIMIT; C065–077; `p-020#B0065–0106` |
+| `M118` trial pass criterion | accepting or resolutely rejecting past can pass; Subaru passes first, three trials declared | no all-trial completion or compulsory same solution for Emilia; ethical doctrine belongs Echidna | ATTRIBUTION/OBSERVED RESULT; C078–079; `p-020#B0042–0061/B0092` |
+| `M119` nightly attempts / aroma | repeated nightly Emilia attempts, once-per-night pattern; Ram's hypnotic aroma distinct from old hallucination scent | repetition not death-return; Subaru's success not her past or universal mental cure; sedation not consent | DIRECT/REPORT; C079/C081–082; `p-022#B0007–0008`; `p-024#B0177–0186` |
+| `M120` absent Puck / present arts | contract still felt after days without manifestation; Emilia works with minor spirits | no proved broken contract, exact absence/destruction trigger or loss of every magical capacity | DIRECT/ATTRIBUTION; C037–038; `p-009#B0120–0142` |
+| `M121` lookalike identity | unnamed forest girl and self-named Ryuzu have resemblance/different affect; Ram blocks inquiry | no cloned production, illusion, spirit-body or single-person mood theory verified | DIRECT/CAUSE OPEN; C041/C057; `p-009#B0252–0275`; `p-014#B0387–0433` |
+| `M122` second necklace | Garfiel hands a distinct matching blue crystal, doubts guaranteed usefulness | no tested shield, exit passport, displacement or identical material-effect rule | DIRECT/LIMIT; C096; `p-024#B0305–0313` |
+| `M123` fatal bodily countertest | Elsa's cut kills Subaru; he tries salvaging information; restart declared | factor/qualification not bodily immunity; no planned suicide, future point or collateral census supplied | DIRECT/HIGH; C001/C099–102; `p-024#B0391–0417`; M001 |
+| `M124` named Witch histories | Echidna supplies named acts of Daphne/Carmilla/Minerva/Sekhmet/Typhon/Envy and herself | speaker-bound history not full bishop roster, Regulus attack law, Whale control experiment or provider genealogy | ATTRIBUTION/HIGH AS SUCH; C044/C046; `p-011#B0083–0105/B0141–0157` |
+
 ## 5. Interaction safeguards and non-inferences
 
 | tempting conflation | required route / distinction |
@@ -188,6 +213,10 @@ Short IDs retain `RZ-M-`. These are conditioned revisions, not a complete system
 | reader heard rejection, so every participant knows why it worked | M084–086 and the knowledge ledger distinguish Nect-off timing, invading focalizer, Subaru's inference and outside receipt. |
 | memory loss is one tested ingestion rule | M102–104 distinguish Crusch, Rem, tested rememberers, unknown own memory and conjectural Sleeping Beauty; no complete trigger yet. |
 | a reopened wound proves a resurrected wife | M105 is a real trace and attributed proximity rule; investigation/identity outcome remain open. |
+| factor reception explains every mental exception and immunity | M112 is a specific account; M114 actual memory interference, M117 construction and M123 fatal wound prevent universal resistance. |
+| every captive is magically unable to leave | M115 distinguishes mixed-blood obstacle from political detention; institution owns consent/provisioning. |
+| a moving family scene reached the actual parents | M117 and knowledge K176 keep constructed receipt separate; real parents' present state unknown. |
+| a second matching stone automatically protects | M122 preserves distinct object custody and untested function, not a free shield. |
 
 ## 6. Material revision history and open tests
 
@@ -204,6 +233,7 @@ Short IDs retain `RZ-M-`. These are conditioned revisions, not a complete system
 | V08 mental/spirit model | earlier specific resistance and spirit accounts retain scope | M065–070 add overload, six bonds, Ia and hallucination; no universal immunity or all-memory access |
 | V09 return / occupation / extinction | old M075 endpoint uncertainty remains historical, old first-body death remains real | M001 and M076–089 add two actual arrivals, forced-contract condition, living neutralization, private selective rejection and stronger final extinction evidence; not unified provider or received new Authority |
 | V09 logistical and memory models | prior finite protection, corpse persistence, clinical limits and unequal erasure evidence retained | M090–106 add conditioned communication, hidden cargo, unexecuted containment, nonfatal dream, observed new attacks, distinct C/Rem conditions and proximity wound; causal gaps explicit |
+| V10 qualification / memory / trial | old bodily limits and specific mental exceptions remain; V09 letter/Ram uncertainties historical | M107–124 adds Gate prognosis, Rem physiology, writer-erasure explanation, crystal/mental distinction, attributed factor/qualification, selective amnesia, boundary/contract theories and constructed family; no unified cause or arrived successor |
 
 Open testing priorities remain source-bounded: checkpoint/provider ontology; disclosure targeting; odor decay/detection; erased-person history/soul/name scope; causes of memory and mental resistance; gate/curse completion; exact Sloth-arm parameters; Puck/Beatrice contract limits; Cult control and bishop identities; birth/engraved/gift relations; and every source-silent contemporary application. None authorizes opening another witness early.
 
@@ -213,3 +243,4 @@ Open testing priorities remain source-bounded: checkpoint/provider ontology; dis
 - V07 closeout: architecture/schema/map/source/protocol and current owners synchronize in the same transaction. Complete source, prior-freeze, prospective-record, cross-owner and semantic checks precede staging; exact-index author preflight, approved commit/remote readback and source-audit → housekeeping → final actual exact-source audit/status govern publication. No V08 opening is authorized by this mutable file alone.
 - V08 maintenance: M051–075 absorb rejected host/office theory, counters, biological access, self-recovery exception, spirit/mental effects and unlocated return. Four existing specialist owners remain proportional; V09 opening still requires the complete atomic publication gate.
 - V09 maintenance: M076–106 and revised M001 record actual arrivals, qualified occupation explanation, differentiated rejection/expulsion, real final extinction and new logistical/memory/blessing tests. Relationship continuity now has its own sole home; five maintained ledgers do not imply mature specialists. A separate V04–V09 checkpoint is pending after V09 publication; V10 remains unopened.
+- V10 maintenance: M107–124 and M001 advance the latest causal horizon after the separately verified checkpoint. Five owners remain sufficient; no final metaphysical specialist. Subaru earns bounded person-model construction and separate first audit, not an analyst's causal omniscience. V11 remains unopened through those gates; prior rows retain historical scope.

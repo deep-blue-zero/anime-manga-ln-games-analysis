@@ -2,10 +2,10 @@
 series: RE_ZERO
 artifact_type: character_reconstruction_protocol
 scope: SOURCE_GROUNDED_CONDITIONAL_CHARACTER_RECONSTRUCTION
-generation: V1.7
+generation: V1.8
 status: canonical
 release_state: mutable_active
-current_analytical_horizon: V09
+current_analytical_horizon: V10
 recommended_reasoning_class: DEEP_SYNTHESIS
 reasoning_policy: MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md
 supersedes: []
@@ -19,7 +19,9 @@ do_not_use_as_current_authority: false
 
 This protocol is the canonical responsibility contract for future Re:Zero character reconstruction. It governs what an evidence-ready character monograph or model must be able to represent, how state is selected, how source limits remain visible, and how fidelity is tested.
 
-It is subordinate to `REZERO_ANALYTICAL_METHOD.md`, `REZERO_SYNTHESIS_ARCHITECTURE.md`, `REZERO_ROUTE_AND_WITNESS_PROTOCOL.md`, and the live source lock. It does not admit sources, revise frozen readings, or turn a candidate into a monograph. Through V09 no character is `MONOGRAPH_READY`; master owns person/readiness, routed to five specialist ledgers for conditioning evidence. Subaru is CHECKPOINT_READY only for the V04–V09 help/self-worth phase. Named Subaru/Emilia and Subaru/Julius cases extend through actually received V09 repair, qualified by post-bedside receipt limits; Subaru/Rem extends through current living unresponsiveness/nonrecognition, not an available speaking counterpart. V07 Wilhelm/Theresia narrated courtship→declaration retains its separate scope, not a completed marriage/grief history. No current internal-family biography, complete consent, universal cured helping pattern or perfect mutual continuity is inferred. No mature model is promoted, so the prerequisite first fidelity audit is not instantiated. The earned V04–V09 arc checkpoint is now instantiated after the verified V09 gate, subject to its own complete publication gate before V10.
+It is subordinate to method, architecture, witness protocol and live source lock. It neither admits sources nor rewrites freezes. Master owns person/readiness, five ledgers the conditioning state. The no-person-ready V09 phase judgment remains historical. V10 now supplies Subaru's missing developmental/ordinary/parent-recipient/explicit TPO-voice coverage, earning MONOGRAPH_READY for **V01–V10 model construction**. The model and required separate first fidelity audit are next after V10's complete gate, before V11; neither is instantiated by this protocol update and reuse remains blocked pending successful audit. The reserved model home is `05 Character Analysis/REZERO_NATSUKI_SUBARU_V01_V10_CHARACTER_MODEL.md`; audit home remains §19. Four bounded historical relationship cases retain scope; other persons/final specialists remain accumulating.
+
+Latest reached default is terminal E013/death13; declared restart has no arrival/checkpoint. Living speech requires selecting a supported preterminal phase. V10 remembered baseline, generated parents and real parents' unknown present are distinct; current Rem cannot answer, old Subaru-only history cannot become mutual, source/person amnesia cannot become omniscience, and V09's escape-family biography remains unbridged. Readiness means enough evidence to model failure/oscillation/abstention, not cured care, complete romance, psychological perfection or published-series closure. V10 §15/master §13 owns the specific threshold decision; the exact55-question/ten-forecast V11 prospect cannot be fitted during intervening construction.
 
 The protocol standardizes **responsibilities, not file count or headings**. A compact monograph may satisfy it when evidence is narrow. A richer packet may divide the responsibilities among current-state, relationship, ordinary-life, voice, evidence, and fidelity artifacts only after each independent retrieval burden is demonstrated.
 
@@ -317,6 +319,8 @@ Readiness remains in `REZERO_MASTER_LONGITUDINAL_LEDGER.md` until independent bu
 Prominence, popularity, cast centrality, or file symmetry never establishes readiness. Promotion must name the source horizon, evidence routes, remaining gaps, default state, and maintenance owner. Creating a local monograph does not authorize a global character-registry edit.
 
 The post-V09 `REZERO_ARC_03_CHECKPOINT.md` exercises the bounded help/self-worth phase and named relationship comparisons without creating a monograph. Its conditional rules are source-based interim synthesis, not generated probes admitted as evidence or audited whole-person capability. Current E013, historical Wilhelm/Theresia, earlier mutual scenes and internal-family premise require their declared separate selection; Rem's unresponsive body remains an abstention boundary. Source high-water remains V09.
+
+That paragraph preserves the checkpoint's historical boundary. Through V10, added pre-arrival routine/development, parent recipients, explicit public/private imitation failure and noncombat grief join the existing conditional breadth. Subaru now earns construction, not a ready-to-use model. Next `SUBARU_V01_V10_MODEL_AND_FIDELITY_AUDIT` must inspect required mature reference designs, implement seven-axis selection/default terminal E013 and run §19's separate19-dimension audit. No achieved stability, unknown cosmology or ongoing-series endpoint is demanded as a substitute for evidence-bounded modeling. Unknown real-parent state, postrestart arrival and material recipient/voice facts must instead produce operational abstentions.
 
 ## 19. First mature-character fidelity audit
 

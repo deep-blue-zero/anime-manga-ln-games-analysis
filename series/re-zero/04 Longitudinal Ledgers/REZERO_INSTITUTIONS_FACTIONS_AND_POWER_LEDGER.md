@@ -1,11 +1,11 @@
 ---
 series: RE_ZERO
 artifact_type: specialist_longitudinal_ledger
-scope: MAIN_LN_INSTITUTIONS_FACTIONS_STATUS_AND_PRACTICAL_POWER_THROUGH_V09
-generation: V1.6
+scope: MAIN_LN_INSTITUTIONS_FACTIONS_STATUS_AND_PRACTICAL_POWER_THROUGH_V10
+generation: V1.7
 status: canonical
 release_state: mutable_active
-current_source_horizon: V09
+current_source_horizon: V10
 recommended_reasoning_class: SUBSTANTIVE_ANALYSIS
 supersedes: []
 superseded_by: []
@@ -16,7 +16,7 @@ do_not_use_as_current_authority: false
 
 ## 0. Authority and promotion
 
-This is the sole cumulative institution/faction/power home from the V04 transaction onward. Five royal-selection camps, distinct qualification/consent rules, enforcement, patronage, information payments and institutional divergence earned its promotion. The master retains a router; frozen V01–V09 readings retain historical analytical authority/exact evidence. V09 adds changed deployment, explicitly unapproved spending, limited civilian participation, ordinary transport expertise, asymmetric losses and renewed but qualified alliance. This is not a final political synthesis.
+This is the sole cumulative institution/faction/power home from V04 onward. Five camps, distinct qualification/consent rules, enforcement, patronage, information payments and internal divergence earned promotion. Master routes; frozen V01–V10 retains historical arguments/exact evidence. I101–120 adds Sanctuary's selective boundary versus political detention, divergent resident interests, household labor, staged reputation, admitted avoidance, conditional office, secrecy, actual release and unsettled paid work. This is not final political synthesis.
 
 This is a maintained ledger, not a final political synthesis. The V01–V03 rows below are an explicitly retrospective migration of the former master institution table, not a claim that this artifact governed those readings. No later volume, external history or non-spine witness is admitted. Evidence classes distinguish witnessed conduct, participant explanation, political program, inference and OPEN attribution.
 
@@ -40,10 +40,10 @@ The sequence matters: the method of choosing a ruler is explicitly still under d
 
 | camp | stated program | present resources / access | observed divergence, coercion and uncertainty |
 |---|---|---|---|
-| Crusch / Karsten | independence program retained; merit and action matter, half-elf objection called pretext | lineage, scarce care, Wilhelm/Ferris, Russell link; independent Whale-hunt preparation now deployed; allied ore/forecast bargain accepted | V06-E1 refusal/care remains discarded history; V07 tests shared risk, command, losses, gratitude and permission for healer/retainer loan, not completed independence policy |
+| Crusch / Karsten | prior independence program retained as historical position; present Crusch personally endorses Emilia, keeps friendship/rivalry and chooses learning after lost own memory | lineage/care/retainers remain; current bodily recovery differs from missing autobiographical familiarity; renewed alliance and temporary secrecy | old program not automatically completely recollected or implemented; Ferris's protection does not substitute her will; I094–095/I101 |
 | Priscilla / Barielle | favored-rule/obedience program retained | inherited estate and prior territorial prosperity corroborated by Marcos; staffing choice, Al conditional force/deescalation, young butler Schult | reading/routine and tactical critique coexist with humiliating submission test/kick; no actual lick, army gift, deployed camp threat or universal providence mechanism; widow epithet still does not prove murder |
 | Anastasia / Hoshin | ambition/retain-and-improve rhetoric plus fear/failure self-account | trading company, Julius, Ricardo/Mimi/Hetaro/Tibby and Iron Fang; joins accepted hunt bargain, guards route, supplies mercenary support | V06-E1 extraction and V07 costly help are not mutually exclusive; profit, negotiated limits and face-saving test coexist; no national stewardship conclusion |
-| Emilia / Roswaal | fairness platform and sponsorship retained; authorized ore/alliance bargain now accepted | Elior rights/Rem delegation plus Subaru's forecast enable coalition; household/Puck, reported absent patron/cult anticipation remain distinct | specific material bargain is not Emilia's personal consent/knight appointment; estate relief not yet executed; medical price, admission purpose and Dragon aim remain OPEN |
+| Emilia / Roswaal | fairness platform not whole personal electoral motive; Emilia gives own family-reunion answer and insists on trust | alliance/ore terms exist; wounded patron actually seen, Sanctuary resources/household staff and absent Puck create constraints;50 evacuees actually reunited | Roswaal's admitted avoidance and exclusive accomplice secrecy restrict information; conditional knight offer not appointment; medical price, admission purpose, Dragon goal and complete financial settlement OPEN; I103–120 |
 | Felt / Reinhard | disruptive reconstruction program retained | jewel/Astrea/Reinhard/Rom; ancestral-house education plan, actual departure reported | no new Felt-POV command, education completion or ancestry proof; absent Reinhard has not personally refused request |
 
 Evidence: V04 §§7.3–7.6, claims `C024–C031`; Crusch `p-019#B0019–0063`; Priscilla `B0081–0157`; Anastasia `B0171–0255`; Emilia `p-021#B0035–0072`; Felt `B0344–0427`. Knightly advocacy is itself political labor: Ferris promises support without replacing Crusch's speech, Al makes Priscilla's results legible, Julius frames economic need, Reinhard commits to Felt's future action. Subaru's self-appointment cannot be inserted as equivalent authorization.
@@ -173,7 +173,7 @@ These rows advance the historically bounded V07 state without rewriting I041–0
 | `RZ-I-077` | youth corps rollcall, minimal baggage and approximate wagon capacity are actual civilian protective labor | activity after constrained compliance does not retroactively supply free persuasion; no exact 105-person completed evacuation | V08 C043–044; `p-012#B0231–0234` |
 | `RZ-I-078` | Radian's team death, subsequent critical rescue, relic collection and continued triage impose actual allied costs | one saved critical life not universal revival; grief/practical perimeter work not lack of care; terminal witnesses no automatic successor recollection | V08 C022/C054/C065/C070; `p-007#B0496–0530`; `p-021#B0163–0165` |
 
-### V09 revised operation, constrained rescue and alliance after memory loss
+### Historical V09 operation, constrained rescue and alliance after memory loss — advanced by V10
 
 I062–078 preserve the terminal V08 attempt, not a second current policy table. The following rows supply the latest tests; their exact scene and receipt bounds remain operative at the final E013 bedside. Short IDs below retain the `RZ-I-` prefix.
 
@@ -201,6 +201,33 @@ I062–078 preserve the terminal V08 attempt, not a second current policy table.
 | `I098` | Ram leads the Sanctuary-bound branch; Emilia plans reunion and discussion with Roswaal | destination/intent reported, not actual Sanctuary visit, Garfiel encounter or patron's full protective plan | V09 C088; `p-015#B0181`; `p-024#B0182` |
 | `I099` | Rem's inability to answer and others' lost recognition complicate who can receive commitments; Subaru begins but cannot complete the consequential Emilia disclosure | care for a living unwaking person does not supply her consent or Emilia's acceptance of second-wife terms; internal family is a different premise | V09 C051–053/C083/C090–092; relationship ledger R001–002/R029 |
 | `I100` | arc closure leaves commercial, formal and restorative obligations open alongside real rescue and renewed cooperation | no final political synthesis, completed Roswaal payment/audience, cured stigma or accomplished Rem remedy | V09 C031/C060/C086/C100; §§8/10/15 |
+
+### V10 Sanctuary, household labor and exclusionary patronage
+
+Locators belong to V10; short IDs retain `RZ-I-`. All terms are E013 observations through its terminal attack. A future restart has not tested which arrangements remain. Actual consent, a spoken promise, imposed status and economic completion are not interchangeable.
+
+| ID | operative power / actual conduct | evidence plane and remaining limit | exact route |
+|---|---|---|---|
+| `I101` | current Crusch endorses half-elf Emilia while retaining electoral rivalry and learning from an earlier-self maxim | no recovered old familiarity or enacted whole independence program; Ferris's care not her entire judgment | C007–009; `p-002#B0059–0155` |
+| `I102` | Patrasche and cart actually gifted as reward | revises desired-not-completed transfer; no erasure of wounds/animal agency or all financial obligations | C010; `p-002#B0029/B0171` |
+| `I103` | Ram summons Frederica for missing kitchen/garden labor; staff redistribution into work/leave reportedly anticipated electoral hostility | ordinary care work materially absent after Rem erased; reported staffing history not universal employee plan knowledge | C016/C018–023; `p-004#B0031–0107` |
+| `I104` | Frederica hires twelve-year-old Petra, delegates real household work; child directs farewell/gives customary cloth | aptitude report not adult universal competence, adult romantic agreement or magical protective contract | C033–034; `p-007#B0026–0041`; `p-009#B0077–0105` |
+| `I105` | Frederica supplies route/crystal under speech restriction; private master-letter compliance conflicts with later patron blame | vow clauses/instruction object/culpability unverified; do not accept accusation as complete power account | C035–036/C054; `p-009#B0061–0076/B0115–0118/B0146–0164`; `p-014#B0245–0267` |
+| `I106` | Beatrice rejects convenient-tool status and access at Subaru's demand | need for help not entitlement; Great Spirit/confidant role not every-plan knowledge | C024–030; `p-004#B0119–0129`; `p-006#B0021–0046`; `p-009#B0006–0014` |
+| `I107` | mixed-blood magical boundary differs from residents' political force keeping unaffected outsiders | blood eligibility/claimed soul hazard not a moral racial hierarchy; not every captive magically trapped | C049/C056/C058; `p-013#B0001–0015`; `p-014#B0369–0384/B0441–0445` |
+| `I108` | residents' reported contract prevents accomplishing liberation despite normal eligibility; Emilia pressured into challenge | no exact clauses/parties or free universal consent; attempted entry and actual release must be separately observed | C059/C063/C079; `p-014#B0453–0466/B0665–0715`, especially B0684–0685 |
+| `I109` | Ryuzu/Garfiel liberation faction coexists with residents preferring isolation; elderly, fields and supplies impose real costs | not one community will or an obvious shared outside dream; Ram's confidence in Frederica not proof actual hostage plot | C057/C062/C091/C095; `p-014#B0576–0598`; `p-024#B0140–0165/B0289–0295` |
+| `I110` | wounded Roswaal's presence and Mathers-head succession/Echidna reverence are directly encountered/reported | severe bodily cost not full plan disclosure, immortality proof or Garfiel wound attribution | C053/C059; `p-014#B0186–0244/B0310–0312/B0453–0462` |
+| `I111` | patron's confinement/suffering helps stage Emilia's liberator credit | reputation strategy distinguishes camp image from residents' need; Subaru understanding not endorsement of all means | C061/C083/C093; `p-014#B0544–0561`; `p-024#B0243–0264` |
+| `I112` | Emilia answers villagers' why with family reunion; Subaru refrains from supplying borrowed rationale | actual particular acceptance, prejudice explicitly not healed; political gain not proof sole electoral motive | C013/C061; `p-014#B0496–0538` |
+| `I113` | Roswaal offers knighthood conditional on exit; Subaru's formal employee terms had not yet changed | no appointment ceremony, Emilia's blanket personal assent, royal-guard status or romance from an offered role | C084; `p-007#B0023`; `p-022#B0045–0054` |
+| `I114` | Roswaal admits deliberate avoidance of anticipated Cult danger and recruits an exclusive accomplice | exceeds mere suspected absence; result exceeded expectation, full RBD foreknowledge/hired Cult not proved | C083/C086; `p-022#B0037/B0058–0079/B0120–0156` |
+| `I115` | Ram ordered attend/not speak during patron conversation; current Rem recognition fails | actual hierarchical silencing; loyalty not a knowing choice over remembered sister at this meeting; mana alternatives not supplied | C085–086; `p-022#B0102–0111` |
+| `I116` | Subaru rejects result-excuses yet accepts secrecy from Emilia; later deliberately lies about trial source | actual complicity coexists with objection; her request for trust and accepted refusal do not confer informed assent to hidden means | C086/C088–089; `p-024#B0008–0014/B0056–0108/B0177–0186` |
+| `I117` |50 evacuees released before liberation in seven wagons with Emilia remaining as assurance; family reunion actually occurs | negotiated assurance differs from magical exclusion; patron approval conveyed via Ram after arrangement, not all earlier spending preauthorized | C090–091/C097; `p-024#B0125–0165/B0320–0323` |
+| `I118` | Otto continues costly work while oil/audience/repair/pay remain unsettled; objects to camp-retained label | commercial motive and aid coexist; Subaru naming him does not appoint/hire with consent | C032/C092/C098; `p-006#B0173–0196`; `p-024#B0131–0137/B0327–0332` |
+| `I119` | Garfiel says beneficiaries care who releases them less than camp credit; questions whether vicarious past-confrontation helps Emilia | particular faction's priority, not all residents or independently heard Emilia hidden wish; Subaru intends but has not held frank talk | C093–095; `p-024#B0243–0295` |
+| `I120` | actual backup/report plan precedes fatal lone mansion search | meaningful contingency does not remove solitary risk or certify any companion's fate/sponsor; arrangements not retested after restart | C098–102; `p-024#B0327–0417` |
 
 ## 5. Migrated pre-V04 institutional state
 
@@ -241,7 +268,7 @@ These are conditional current models, not permanent judgments of entire institut
 
 ## 7. Next maintenance and revision history
 
-Earlier horizons remain frozen and individually adjudicated. V09 §14 adjudicates inherited questions and §16 owns the unchanged fifty-question V10 prospect, mirrored in master §12. The V04–V09 arc checkpoint is now instantiated after V09's verified gate; its own publication gate must close before V10 opens. It compares these institutional findings without adding a new source or altering I001–100. Priorities retain actual recipient/return bounds, unresolved letter cause, pending money/formalities, civilian refusal, memoryless principal's choice and distinct Cult claims/causes. The letter's comparison with erased writing is an explicit reader hypothesis, not a proved culprit or mechanism. V10 remains unopened; no source opens merely to fill a row.
+Earlier horizons remain frozen and individually adjudicated. V10 §13 adjudicates all100 predecessor claims, §14 all50 incoming questions, and §16 freezes55 V11 questions/ten forecasts. The separate Arc03 checkpoint's complete gate closed before V10. I101–120 now owns current Sanctuary/patronage terms; K158/M109 routes the newly explicit letter explanation, no longer merely the old reader hypothesis. Pending money, actual consent/receipt, beneficiary divergence, separate casualties and current Crusch choice remain bounded. Next is Subaru model/first fidelity audit after V10's complete gate; V11 stays unopened. No source opens merely to fill a row.
 
 | horizon / operation | material change | prior-state preservation |
 |---|---|---|
@@ -253,5 +280,6 @@ Earlier horizons remain frozen and individually adjudicated. V09 §14 adjudicate
 | V08 maintenance | I062–078 add mediated trust, actual insurance, concealed danger, finite escort, letter custom, lordly coercion, racial refusal, Emilia action, contractual refusal and destroyed infrastructure | old V07 unknowns remain historical; no successor agreement/memory inferred, no new mature political specialist or completed capital boundary |
 | V09 maintenance | I079–100 add revised deployment, living neutralization, unapproved spending, constrained participation, expertise/bargain tension, inspection failure, political blast choice, scoped losses, new bishop claims and renewed alliance | terminal histories and older rules preserved; no completed payment, full consent, all-recipient continuity, enacted Anastasia betrayal or mature political model; capital checkpoint pending separately |
 | post-V09 third-arc checkpoint | bounded institutional/resource/civilian comparison instantiated after the complete V09 publication gate; current next-maintenance routing updated | all100 institutional rows and frozen evidence unchanged; no mature political synthesis, new source or completed pending obligation; checkpoint's own gate precedes V10 |
+| V10 maintenance | I101–120 adds actual reward/staffing/work, selective boundary/political detention, divergent factions/resources, patron avoidance/secrecy, conditional office and actual release/reunion | I001–100 and frozen history preserved; no blanket settlement, appointment, every-resident consent, proven sponsor or postrestart durability; no final political specialist |
 
 No character monograph, mature political specialist or full-series synthesis is promoted by this ledger. It supplies recoverable current facts and conflicts for those later responsibilities if their own thresholds are met.

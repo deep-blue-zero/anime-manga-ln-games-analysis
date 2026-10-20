@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: source_lock
 scope: SOURCE_ADMISSION_CONTRACT_AND_CURRENT_INVENTORY_STATE
-generation: V0.11
+generation: V0.12
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -349,6 +349,28 @@ Post-EOF exact source, manifest, image bytes, immutable prospect and all eight e
 
 No source is newly acquired/admitted/consumed, high-water remains V09, and all nine volume freezes/estate checkpoint remain unchanged. V09 §16's exact50-question/ten-forecast V10 prospect is retained, not hindsight-adjusted. The checkpoint's own approved commit/full-content remote readback, source audit, completed housekeeping and final actual exact-source full audit/status must pass before Japanese V10 opens. This record does not itself certify those future checks.
 
+## Volume 10 consumption record
+
+The separate third-arc checkpoint completed its exact-source publication gate at commit `ebd99a3cc5fe1806b094fbeddae5b6b2b37c0a06` before first V10 archive access. Its final actual full audit/status and completed housekeeping, not a dispatch's displayed branch label, controlled opening. The preceding checkpoint record preserves its then-pending future checks; they are now closed.
+
+`RZ-MAIN-LN-JA-V10` was consumed in OPF spine order through `p-bookwalker`: all43 members/3,835 body-order blocks (3,812 text +23 image references). All22 distinct image resources were visually inspected at their references, including graphic text; repeated publisher logo reinspected at colophon. Actual acquired ranges/end cursors, reacquisition of lost output and visual inspection establish consumption; structural guards alone do not. One tiny informal artist-sketch mark is not reliably deciphered and supports no proposition; no narrative text gap remains.
+
+- locator / embedded title: `Re Zero - Volume 10.epub`; `Ｒｅ：ゼロから始める異世界生活 10`;
+- language / embedded creators / publisher: `ja`; `長月　達平` / `大塚　真一郎`; KADOKAWA / メディアファクトリー;
+- UUID: `f0c1ea3f-bfae-419f-8287-3c870bbe1db5`;
+- size / SHA-256:13,069,851 bytes; `92a5bbf737e25bac82e53ebaf4486d26ba89a97976d2ed21773a83e2c8f1a1b8`;
+- package / integrity: `item/standard.opf`;81 ZIP entries; full CRC pass; nonfatal first-but-compressed `mimetype` warning;
+- manifest: exact size/hash match to anchored manifest, unchanged SHA-256 `3daa190cefda6ab894f5d62ff547a93856c8133f2d4fc1cbc552b99d73c73314`;
+- edition: electronic issue2016-10-25; stated first edition/first printing2016-10-31; afterword September2016 separately;
+- provenance: governed folder/manifest range admission; individual V10 Drive ID unresolved, not invented;
+- analytical product: `02 Sequential Readings/REZERO_LN_V10_DEEP_READING.md`, exact member/block/image coverage and locator convention §1;
+- pre-opening prospect: all50 inherited questions/ten forecasts sealed, immutable record SHA-256 `cfe4058aa3177c9aed98ab876c3e7ff498fe9c69e1005ee297eae1508b6c6276` unchanged;
+- ending: V10-E1 continues E013 until death13; restart declared without represented arrival,13 arrived segments/no E014; no collateral fate census;
+- structure: afterword verifies fourth-arc beginning, not ending; parent trial is memory-based construction, not actual Earth receipt or external IF;
+- guards: post-EOF source/manifest/image bytes/prospect and all eleven earlier frozen artifacts unchanged; no raw source/private acquisition objects committed.
+
+V11 and all separate non-spine narrative remain unopened. V10 §16 fixes55 V11 questions/ten forecasts now, before the earned Subaru V01–V10 model/separate first fidelity audit. That operation follows V10's complete publication gate and must close before V11, without altering the prospect or admitting another witness. The source high-water becomes V10 only after the gate; admission range and historical gap check do not advance.
+
 ## Current source-state summary
 
 - **Acquired/admitted Japanese main LN:** V01-V43 continuous.
@@ -359,7 +381,7 @@ No source is newly acquired/admitted/consumed, high-water remains V09, and all n
 - **Admitted IF/alternate route:** none.
 - **Admitted web novel:** none.
 - **Admitted anime/audiovisual:** none.
-- **Consumed into frozen prospective main-LN analysis:** V01-V09, effective after the V09 publication gate.
+- **Consumed into frozen prospective main-LN analysis:** V01-V10, effective after the complete V10 publication gate.
 - **Next source acquisition priority:** Japanese V44 and V45 before the sequential read reaches that boundary.
-- **Next analytical operation:** Japanese V10 from unchanged V09 prospect, only after the separately instantiated V04–V09 arc checkpoint's complete publication gate.
-- **Current execution state:** active continuous run; terminal V43 unchanged; checkpoint adds bounded convergence, not source consumption or admitted range.
+- **Next analytical operation:** `SUBARU_V01_V10_MODEL_AND_FIDELITY_AUDIT` after V10's full gate; V11 remains unopened with55-question/ten-forecast horizon fixed, and opens only after that separate operation's complete gate.
+- **Current execution state:** active continuous run; terminal V43 unchanged; model construction adds no new source or admission. No real-parent message, current IF-family biography, adaptation judgment or full-series completion is implied.
