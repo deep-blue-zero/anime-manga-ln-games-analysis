@@ -2,7 +2,7 @@
   "schema": "KONOSUBA_LUNA_COHORT12_RECEIVING_AND_PROVENANCE_V1",
   "recorded_utc": "2026-10-20T09:00:50.328496+00:00",
   "source_boundary": "56dd3653c85d475ab85cdf891202d8e97531d729",
-  "status": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_CONTAINING_PUBLICATION_GATE_PENDING",
+  "status": "SCOPED_SEMANTIC_AND_FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
   "subject_tiers": {
     "Luna": 3
   },
@@ -273,5 +273,29 @@
   "publication": "Exact candidate review/preflight/nonforced publication/whole tree and changedblob readback/source-HK-final actual-source audit/status/fresh reload required. Prior royal gate certifies56dd3653,not this candidate.",
   "designated_ownership": "No discovery/capability registry/index or housekeeping global output authored. Designated maintenance and permitted lag retain their own controls.",
   "remaining": "Full all-individual/event/alias/incidental dispositions, further earned artifacts, seven expanded specialists and extended/full-series syntheses, six separate StageD principal-party-transfer revisions, designated curation/evaluation/integration and component/release/final-entry audits.",
-  "full_program_complete": false
+  "full_program_complete": false,
+  "publication_pending_status_at_authorship": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_CONTAINING_PUBLICATION_GATE_PENDING",
+  "publication_resolution": {
+    "status": "SCOPED_LUNA_TIER3_FULL_EXACT_SOURCE_GATE_CLOSED",
+    "source": "432b8fd18d0d4ad0047defc8d8a614ecfb2770f4",
+    "tree": "779d0f1f1d581c991aac25a0507c163f39b205cc",
+    "closed_utc": "2026-10-20T09:16:45.240986+00:00",
+    "gate_path": "09 Audits and Manifests/KONOSUBA_LUNA_COHORT12_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "fa082dc40c8916507ad14841b9978158631a0c7747ff50b65d0a93bd0449cf8a",
+    "source_run": 39398221230,
+    "housekeeping_run": 39398653037,
+    "final_run": 39398706376,
+    "all_remote_paths": 9250,
+    "all_changed_streams": 30,
+    "full_tests_source_and_final": 385,
+    "fresh_project_reload_paths": 1074,
+    "current_model_bodies": 18,
+    "new_model_bodies": 1,
+    "scoped_secondary_model_subjects": 12,
+    "bounded_profiles": 9,
+    "monograph_only_subjects": 1,
+    "independent_accuracy_or_confidence_gain": false,
+    "full_program_complete": false
+  },
+  "published_authority_reload_sha256": "d5e2f1dbe7f06d57e74f518b6be447b342076c99ece7b9f4b045ce1fa1d2fdcf"
 }

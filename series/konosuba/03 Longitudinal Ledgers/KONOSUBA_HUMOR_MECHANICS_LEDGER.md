@@ -1895,3 +1895,8 @@ Known admitted-source consolidation; prior ledger bytes remain the exact prefix.
 Different comic mechanisms coexist. MASKU017P81-102 literal professional corpse procurement is misread as a personal hobby. P457-504 apparent courtship prepares deliberate humiliation; P511-541 her demands and reported retaliation disturb Vanir's hoped-for easy consumption. MAIN11U014P431-444/U015P60-101 overlays polite service form on coercive audience stakes; the adults' actual objections remain.
 
 The banquet's remaining-day limit and resurrection exclusion inYORI04U014P453-460 qualify generous/zero-death surfaces. Comic exaggeration is not an automatic H4/nonliteral assignment, source uncertainty is a different classification, and laughter cannot erase an unwanted act. These are own analytical additions, not a new whole-source joke census or independent recurrence count.
+
+
+## Cecily and Zesta cohort13 — scoped receiving; containing publication pending
+
+EXP02 image narration can reveal an actual deceptive presentation rather than make all represented claims true. Cecily cooking trail, altered slime, repeated public excuses and bath enlargement have distinct actual/claimed stages. Zesta incongruous polite threats and casual donmai under death threat remain adverse actions; comic framing does not remove confinement, injury, fear or refusal. H1/H2/H3/H4 and literal/inferred/source-uncertain planes remain separate; fantasy is not automatic nonliteral status. No new humor population or agreement statistic is claimed. Generic comic-clergy and plot-convenience rivals remain live.

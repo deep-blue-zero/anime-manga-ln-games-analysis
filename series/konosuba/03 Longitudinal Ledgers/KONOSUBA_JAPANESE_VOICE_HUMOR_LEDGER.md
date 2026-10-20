@@ -1862,3 +1862,8 @@ Known admitted-source consolidation; prior ledger bytes remain the exact prefix.
 Luna printed public voice combines polite acknowledgment, specific explanation and instruction (MASKU017P10-16/P93). MAIN11U014P438-444 announces a collective outcome then presses confirmation; polite syntax does not make adult assent freely supplied. U015P119-125 moves through conditional incentive, rumor inquiry and stopping departure while retaining Satou-san address.
 
 MASKU017P316-330 uses accumulated grievances/direct wants;P511-519 names a crossed line;P541 retracts an unwanted forecast request. YORI04U014P504/P507 repeats the youth reassurance as contextual pressure rather than certifying ages. Unquoted narrator-side turns and Assassin's mediated correction remain distinct from Luna quoted turns. BASE text supports printed pragmatics only: no new ruby, acoustic or native-human adequacy credit. Tidy English internal bodies underrepresent these ambiguities.
+
+
+## Cecily and Zesta cohort13 — scoped receiving; containing publication pending
+
+Cecily older-sister bids (お姉さん/セシリーお姉ちゃん), Aqua address and formal branch introduction at CONTEXP01U015392 have different recipient effects; invented kinship is rejected MAIN08U013146. Zesta courteous introduction DUST04U013266, deferral-as-assent306, casual どんまい150 and quiet Aqua-welfare question CONTEXP02U018423 require content and relation to establish pragmatic force. Polite morphology supplies no truth/consent guarantee. Current BASE excludes rt/rp; image prose is read at printed scope. No new full ruby, L3, acoustic, native-human or English-to-Japanese adequacy credit. First English bodies retain tidy rhetoric/metatext defects.

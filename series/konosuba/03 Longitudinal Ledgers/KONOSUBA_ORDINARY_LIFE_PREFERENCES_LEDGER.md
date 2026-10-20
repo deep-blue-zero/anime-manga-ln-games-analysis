@@ -1281,3 +1281,8 @@ Known admitted-source consolidation; prior ledger bytes remain the exact prefix.
 MASKU017P316-330 supplies Luna's own unpaid-overtime/no-leave account, sleep and household backlog, wish for time off and respectful adult company. Her exact duration is self-report. Her job buying remains is not a private hobby. Late drinking is a state, not proof of an invariant consumption pattern, favorite drink, private wealth or complete biography.
 
 P450-451 actual gratitude for cover work, P519 stated future paid cover, P523-541 company, embarrassment, curiosity and forecast opt-out retain different action stages. Continued company neither erases grievance nor proves consent to humiliation. YORI04U014P516 proposes post-work conversation without showing it completed. Guild-vault money remains institutional; a finite banquet does not become limitless hospitality. The monograph preserves these ordinary wants alongside public competence and coercion.
+
+
+## Cecily and Zesta cohort13 — scoped receiving; containing publication pending
+
+Cecily own food purchases/salary/hunger and longing for missed company appear in EXP02 image interludes; shared work, leisure play and product improvement matter independently of combat. She can acknowledge moral/image cost for one contemplated scheme and still take others bread. Zesta actual desire for casino play, food, entertainment, wanted company and escape coexist with particular devotional concern; dessert excuse DUST04U013224 obtains no food. No single choice fixes universal taste, private wealth, kinship or global goal weights. Profitable stock, offered commission, actual coach-fare bag, alleged refund and paid settlement remain different stages.

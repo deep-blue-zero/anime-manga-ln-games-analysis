@@ -1038,3 +1038,13 @@ Two provisional source-informed model candidates add distinct mechanisms without
 | R04 relief/company and hopeful appraisal | MASKP316-330/441-541 | Rejects gift/forecast; hidden intent inaccessible; generic social rivals | Moderate connected episode; broad transfer open |
 
 The model has four rules and three actual same-author internal bodies, with no independent/source accuracy gain. Seventeen entering models stay exact. Tier3 means a scoped reconstruction candidate, not a capability grade.
+
+
+## Cecily and Zesta cohort13 — scoped receiving; containing publication pending
+
+| Subject | Distinct scoped mechanism | Actual contrary/limit | Current maturity |
+|---|---|---|---|
+| Cecily | Desired participation; favorable appraisal/public framing; useful means with weak downstream control; recipient/role modes | Useful work, correct water observation, real blessings and selective protection coexist with deception, ignored refusal and false blame; motives not weighted | Four-rule model plus monograph/index, four same-author hypothetical first bodies; no independent/Japanese/confidence result; publication pending |
+| Zesta | Particular Aqua concern; strong applicable means but unreliable assurance; competing amusement/resentment; favorable epistemic presentation | Real healing, target limits, useful support and quiet concern coexist with bluff, suppressed means, coercion and abandonment | Four-rule model plus monograph/index, four same-author hypothetical first bodies; action invariance/generic priest rivals and defects retained; publication pending |
+
+Eighteen entering model bodies remain exact; two additions would make20. Fourteen scoped secondary model subjects would then be represented, with Nos Tier2 monograph-only and eleven bounded profiles after the two current profiles. No principal StageD successor is supplied by these additions.

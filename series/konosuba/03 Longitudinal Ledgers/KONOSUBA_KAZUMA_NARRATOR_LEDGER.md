@@ -1332,3 +1332,8 @@ Known admitted-source consolidation; prior ledger bytes remain the exact prefix.
 MAIN11's retrospective motive account is Kazuma's, though Luna's repeated staging strongly supports the audience-lever inference. His question whether she thinks him heartless is not an admission from her. Her ownP515 distinguishes original investigation, extra killing and institutional face; hisP519 says roots remain. Gratitude is not complete ecological eradication or every recipient cost vindicated.
 
 MASK gives Vanir first-person intention and retrospective bounty report; Luna's direct statements keep their different force. DUST07 gives Dust's observed vault commitment and later payment account; no independently watched transfer is added. YORI04 DarkStalker favorably narrates the request but Assassin'sP529 nonassent still matters. Another narrator is another perspective, not automatically another independent behavioral trial or Luna's knowledge.
+
+
+## Cecily and Zesta cohort13 — scoped receiving; containing publication pending
+
+Kazuma inference that the Axis clergy recognize Aqua MAIN08U013160-162 is distinct from Cecily direct evasive words157. His MAIN16 remembrance of the unnamed guideU01687 supplies a return lead, not automatic named identity. Cecily and Zesta imagined/claimed meanings are not his omniscient facts. DUST04 Dust, EXP02/CONTEXP Megumin, Aqua interludes and MAIN04 Zesta focalization retain their own access; repeated scenes remain single underlying events. Reader-only Cecily cleaning backfill does not show Zesta pouring powder. Zesta knowledge of Small species is expressly unknown DUST04U013458.
