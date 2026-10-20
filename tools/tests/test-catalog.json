@@ -1943,16 +1943,6 @@
       ],
       "purpose": "changed script or workflow requires reviewed binding"
     },
-    "test_nightly_integration.ContractTests.test_rebinding_does_not_allow_wider_permissions_or_different_timezone": {
-      "group": "live_corpus",
-      "smoke": false,
-      "inputs": [
-        "candidate corpus",
-        "tools/tests/test_nightly_integration.py",
-        "tools/*.py"
-      ],
-      "purpose": "rebinding does not allow wider permissions or different timezone"
-    },
     "test_project_initiation_gate.ProjectInitiationGateTests.test_first_sequential_reading_requires_synthesis_architecture_artifact": {
       "group": "live_corpus",
       "smoke": false,
@@ -4044,6 +4034,357 @@
         "governance/repository-controls/*"
       ],
       "purpose": "Check an exact main integration commit against its pre-push parent so stale additions and deletions are detected."
+    },
+    "test_nightly_integration.ContractTests.test_rebinding_does_not_allow_wider_permissions_or_scheduled_apply": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_nightly_integration.py",
+        "tools/*.py"
+      ],
+      "purpose": "Reject wider workflow permissions, scheduled fallback triggers and cancellation even after hash rebinding."
+    },
+    "test_integration_executor.SharedLockTests.test_two_first_claims_have_one_winner": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/integration_lock.py",
+        "tools/tests/test_integration_executor.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "An atomic create rejects the losing initial claimant across both routes."
+    },
+    "test_integration_executor.SharedLockTests.test_two_reclaims_of_released_state_cannot_both_win": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/integration_lock.py",
+        "tools/tests/test_integration_executor.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Competing sibling claims cannot both fast-forward a released ref."
+    },
+    "test_integration_executor.SharedLockTests.test_stalled_owner_never_expires_or_allows_takeover": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/integration_lock.py",
+        "tools/tests/test_integration_executor.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Old timestamps do not grant takeover; a paused writer retains exclusion."
+    },
+    "test_integration_executor.SharedLockTests.test_lost_ownership_stops_mutation_and_release": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/integration_lock.py",
+        "tools/tests/test_integration_executor.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "An old owner cannot proceed or release a successor's lock."
+    },
+    "test_integration_executor.SharedLockTests.test_ambiguous_claim_reads_back_without_replaying_write": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/integration_lock.py",
+        "tools/tests/test_integration_executor.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "A lost claim response is resolved only by its exact commit readback."
+    },
+    "test_integration_executor.SharedLockTests.test_unconfirmed_claim_is_not_retried": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/integration_lock.py",
+        "tools/tests/test_integration_executor.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "An unconfirmed remote claim leaves apply forbidden without a retry."
+    },
+    "test_integration_executor.SharedLockTests.test_malformed_lock_or_unapproved_identity_fails_closed": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/integration_lock.py",
+        "tools/tests/test_integration_executor.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Malformed state and unapproved metadata cannot masquerade as a free lock."
+    },
+    "test_integration_executor.SharedLockTests.test_release_is_a_nonforced_commit_not_ref_deletion": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/integration_lock.py",
+        "tools/tests/test_integration_executor.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Successful release preserves the coordination ref and its immutable history."
+    },
+    "test_integration_executor.ExecutorTests.test_lock_covers_merge_and_post_merge_audit": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/integration_lock.py",
+        "tools/tests/test_integration_executor.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "The real executor holds shared ownership through protected merge and final audit."
+    },
+    "test_integration_executor.ExecutorTests.test_post_merge_failure_retains_lock_and_integration_sha": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/integration_lock.py",
+        "tools/tests/test_integration_executor.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Post-merge failure preserves ownership and the integrated-but-unverified receipt."
+    },
+    "test_integration_executor.ExecutorTests.test_ambiguous_merge_retains_lock_without_retry": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/integration_lock.py",
+        "tools/tests/test_integration_executor.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "A timed-out merge is not treated as absent while a request could still finish."
+    },
+    "test_integration_executor.ExecutorTests.test_disable_or_mode_change_stops_next_mutation": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/integration_lock.py",
+        "tools/tests/test_integration_executor.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Owner disable and primary/fallback handoff are checked at every mutation."
+    },
+    "test_integration_executor.ExecutorTests.test_apply_without_lock_cannot_publish": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/integration_lock.py",
+        "tools/tests/test_integration_executor.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Calling the merge path without acquiring ownership cannot write."
+    },
+    "test_integration_executor.ExecutorTests.test_observed_hold_remains_binding_after_removal": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/integration_lock.py",
+        "tools/tests/test_integration_executor.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "A hold observed during a cycle cannot be cleared by a later PR reread."
+    },
+    "test_integration_executor.ExecutorTests.test_capture_observes_holds_before_candidate_processing": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/integration_lock.py",
+        "tools/tests/test_integration_executor.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Initial inventory holds bind the whole cycle even if later removed."
+    },
+    "test_integration_executor.ExecutorTests.test_reserved_paths_and_specialized_branches_are_rejected": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/integration_lock.py",
+        "tools/tests/test_integration_executor.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Reserved controls and character routes cannot use routine integration authority."
+    },
+    "test_integration_executor.ExecutorTests.test_primary_routine_scope_does_not_broaden_fallback": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/integration_lock.py",
+        "tools/tests/test_integration_executor.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Only primary admits bounded routine documentation/routing PRs."
+    },
+    "test_integration_executor.ExecutorTests.test_tag_protection_requires_exact_no_bypass_rules": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/integration_lock.py",
+        "tools/tests/test_integration_executor.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Activation-tag scope and deletion/history protections fail closed."
+    },
+    "test_integration_executor.ExecutorTests.test_fallback_rejects_schedule_and_nonowner_invocation": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/integration_lock.py",
+        "tools/tests/test_integration_executor.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "The CLI independently rejects scheduled or foreign fallback apply."
+    },
+    "test_integration_executor.ExecutorTests.test_primary_requires_durable_receipt_destination": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/integration_lock.py",
+        "tools/tests/test_integration_executor.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Primary apply cannot start without an explicit durable receipt location."
+    },
+    "test_integration_executor.ExecutorTests.test_unapproved_commit_identity_is_rejected": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/integration_lock.py",
+        "tools/tests/test_integration_executor.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Identity verification covers every source-only commit, not merely the tip."
+    },
+    "test_integration_executor.ExecutorTests.test_runtime_must_be_integrated_and_match_loaded_bytes": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/integration_lock.py",
+        "tools/tests/test_integration_executor.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Unmerged or mismatched executor code cannot borrow an audited main's authority."
+    },
+    "test_integration_executor.ExecutorTests.test_mixed_character_commit_is_not_a_curator_repair": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/integration_lock.py",
+        "tools/tests/test_integration_executor.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "A two-file curation repair cannot conceal analytical or control changes."
+    },
+    "test_integration_executor.ExecutorTests.test_receipt_survives_outside_disposable_graph": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/integration_lock.py",
+        "tools/tests/test_integration_executor.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "A durable receipt records ownership and an integration SHA before cleanup."
+    },
+    "test_integration_executor.ExecutorTests.test_primary_integrates_routine_pr_under_the_same_lock": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/integration_lock.py",
+        "tools/tests/test_integration_executor.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Primary routine PRs use the protected merge and exact-main audit sequence."
+    },
+    "test_integration_executor.ExecutorTests.test_final_routine_certification_cannot_be_replaced_by_bot_audit": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/integration_lock.py",
+        "tools/tests/test_integration_executor.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "A changed routine audit actor immediately before merge blocks publication."
+    },
+    "test_integration_executor.ExecutorTests.test_lock_covers_reconciliation_and_pr_creation": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/integration_lock.py",
+        "tools/tests/test_integration_executor.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Source synchronization and automatic stable PR creation require shared ownership."
+    },
+    "test_integration_executor.ExecutorTests.test_new_hold_before_reconciliation_prevents_source_push": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/integration_lock.py",
+        "tools/tests/test_integration_executor.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "A hold arriving after preparation is enforced before source publication."
+    },
+    "test_integration_executor.ExecutorTests.test_runtime_binding_uses_exact_bytes_without_newline_normalization": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/integration_lock.py",
+        "tools/tests/test_integration_executor.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Runtime trust compares complete Git blobs, including trailing newline bytes."
+    },
+    "test_integration_executor.ExecutorTests.test_malformed_merge_acknowledgement_never_releases_ownership": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/integration_lock.py",
+        "tools/tests/test_integration_executor.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "An invalid merge acknowledgement cannot become a harmless candidate deferral."
+    },
+    "test_integration_executor.ExecutorTests.test_foreign_fork_hold_does_not_block_owner_branch_with_same_name": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/integration_lock.py",
+        "tools/tests/test_integration_executor.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Only the owner same-repository PR can impose a hold on its source branch."
     }
   }
 }
