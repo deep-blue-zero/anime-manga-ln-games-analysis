@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: ledger_architecture
 scope: LONGITUDINAL_LEDGER_PROMOTION_AND_SCHEMA_CONTRACT
-generation: V0.3
+generation: V0.4
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -24,13 +24,13 @@ At the project-initiation architecture-repair boundary after the V02 freeze, the
 
 `REZERO_MASTER_LONGITUDINAL_LEDGER.md`
 
-The master ledger was backfilled from the frozen V01/V02 canonical readings and advanced prospectively through V03. It did not exist prospectively for the first two readings, and no frozen reading was changed. It owns claim revision, route/event-state, knowledge, relationship, character-state/stress, institution/power, mechanics/world-model, diagnostic ordinary-life, Japanese terminology/register, prospective-question, and promotion-readiness state.
+The master ledger was backfilled from the frozen V01/V02 canonical readings and advanced prospectively through V04. It did not exist prospectively for the first two readings, and no frozen reading was changed. It owns claim revision, route/event-state, knowledge, relationship, character-state/stress, mechanics/world-model, diagnostic ordinary-life, Japanese terminology/register, prospective-question and promotion-readiness state. Institution/power state migrated at V04 to `REZERO_INSTITUTIONS_FACTIONS_AND_POWER_LEDGER.md`; master §8 now routes rather than maintaining a competing table.
 
 The following candidate sections now define responsibilities that may later split out of the master ledger when independent retrieval/revision burden warrants specialization. They are not unpromoted gaps and do not authorize parallel competing homes.
 
 ### Registered exact candidate homes
 
-These paths are reservations, not instantiated artifacts:
+The V03 column preserves the prior review. All listed homes except the institution ledger remain reservations. V04 promotes only `REZERO_INSTITUTIONS_FACTIONS_AND_POWER_LEDGER.md` under its registered trigger; it is now instantiated and owns that cumulative responsibility.
 
 | Responsibility | Exact candidate filename | V03 disposition |
 |---|---|---|
@@ -44,6 +44,8 @@ These paths are reservations, not instantiated artifacts:
 | character reconstruction readiness | `REZERO_CHARACTER_RECONSTRUCTION_READINESS_LEDGER.md` | `RETAIN IN MASTER` |
 
 If promoted, every filename above lives in `series/re-zero/04 Longitudinal Ledgers/`. The synthesis architecture and master ledger record the V03 review rationale and exact later triggers.
+
+V04 promotion rationale: five selection camps, distinct consent/qualification/office standards, real versus formal enforcement, information payment and internal guard/Council divergence create an independent maintained-comparison burden. The institution ledger carries required historical backfill and V04 rows; all other dimensions remain safely compact in the master. This is not mature specialist readiness or a new arc checkpoint.
 
 ## Promotion threshold
 

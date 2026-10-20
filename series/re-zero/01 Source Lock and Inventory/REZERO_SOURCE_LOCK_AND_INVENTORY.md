@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: source_lock
 scope: SOURCE_ADMISSION_CONTRACT_AND_CURRENT_INVENTORY_STATE
-generation: V0.4
+generation: V0.5
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -233,17 +233,39 @@ Verified identity at consumption:
 
 No V04 prose or previewed non-spine story was opened as part of this transaction. V04 remains admitted but analytically unopened until the user resumes the sequential run.
 
+## Volume 04 consumption and resumed-source verification
+
+The preceding paragraph records the historical V03 transaction, not the present opening state. The user resumed sequential analysis on 2026-10-19. The local governed source directory still supplies all 43 admitted Japanese numbered EPUBs. Their metadata/hash scan reproduces 42 manifest identities plus the already-admitted V41 override. The English V21 alternate and archived V31 duplicate are also present and reproduce their recorded hashes; neither was opened narratively. No V44/V45 or additional numbered source was found locally. This is a local acquisition check, not a fresh claim to exhaustive October publication coverage.
+
+`RZ-MAIN-LN-JA-V04` was consumed in OPF spine order through the final publisher notice, with all 19 image resources visually inspected:
+
+- locator: `Re Zero - Volume 04.epub`;
+- language / embedded title: `ja`; `Ｒｅ：ゼロから始める異世界生活 4`;
+- creator / publisher: `長月達平`; KADOKAWA / メディアファクトリー;
+- UUID: `a492835f-e3b0-4837-a14a-730595c522f1`;
+- package: `item/standard.opf`, 74 ZIP entries, 19 images;
+- size: `9,686,186` bytes;
+- SHA-256: `0439aebb5675d39e6705216db345e2faf4f780c4f15a7bc1bc7d88a18a0ed2ff`;
+- manifest relation: exact size/hash agreement; manifest bytes/hash also reproduced;
+- integrity: full ZIP CRC test passed; nonfatal compressed-`mimetype` warning;
+- publication basis: Japanese MF Bunko J, 2014-06-30, ver.1.0;
+- provenance: existing range admission under the governed folder/manifest anchors above; individual V04 Drive ID not separately resolved during local consumption;
+- analytical product: `02 Sequential Readings/REZERO_LN_V04_DEEP_READING.md`, with internal block-locator convention and full coverage;
+- source framing: author names `再来の王都編` as beginning here; no numeric LN arc or endpoint established.
+
+V04's own V05 advertisement remains promotional paratext, not a V04 narrative gate prognosis or V05 source opening. The mentioned non-spine story remains unadmitted/unread. The V05 EPUB and all later narrative witnesses remain unopened until the V04 atomic publication/audit gate closes.
+
 ## Current source-state summary
 
 - **Acquired/admitted Japanese main LN:** V01-V43 continuous.
 - **Known published but not acquired/admitted main LN:** V44-V45.
 - **Admitted translations:** none.
-- **Retained non-admitted translation:** English V21.
+- **Retained non-admitted translation:** English V21, local hash reverified on resumption.
 - **Admitted supplemental/EX/short-story:** none.
 - **Admitted IF/alternate route:** none.
 - **Admitted web novel:** none.
 - **Admitted anime/audiovisual:** none.
-- **Consumed into frozen prospective main-LN analysis:** V01-V03.
+- **Consumed into frozen prospective main-LN analysis:** V01-V04.
 - **Next source acquisition priority:** Japanese V44 and V45 before the sequential read reaches that boundary.
-- **Next analytical operation when the user resumes:** Japanese V04 deep reading from the frozen V03 horizon.
-- **Current execution state:** paused by user immediately after the verified V03 publication transaction; V04 remains unopened.
+- **Next analytical operation:** Japanese V05 from the frozen V04 horizon, only after V04 publication verification.
+- **Current execution state:** active continuous run resumed by user; terminal V43 unchanged; V04 closeout transaction advances the source boundary, not the admitted range.
