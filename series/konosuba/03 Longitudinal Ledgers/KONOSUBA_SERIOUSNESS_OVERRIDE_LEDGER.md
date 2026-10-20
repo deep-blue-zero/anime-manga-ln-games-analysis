@@ -1150,3 +1150,7 @@ MASKU019P418–452asserts own noninvolvement/choice; helprequestP482 and claimed
 
 ## WZ-C01 — a specific condition can change a familiar relationship
 MAIN04C5P270–284 attempts negotiation under noninterference. Hans's admitted civilian harmP408–414 precedes Wiz's actual freezing and conditionP416–432. She distinguishes noncombat humans from reciprocal adventurer/knight risk. Firm opposition is not universal pacifism or unlimited power; later insufficient mana, warning and retreat advice persist. MASK's costly companion response is separate from every hypothetical stranger request.
+
+
+## CE-C01 — chosen intervention and target-sensitive zeal
+MAIN12 FinalP277–287 moves from recognition to an actual thrust; Kazuma's P296 restraint and later binding are distinct interventions, not her consent to their whole procedure. MAIN17 C3P243's first voluntary rule-breaking is her account; actual buffs and persuasion show active participation. She rejects retirement/abandonment alternatives and asks for a duel before Aqua's call changes Kazuma's decision. Chosen help can pressure others without becoming universal obedience or universal pacifism.

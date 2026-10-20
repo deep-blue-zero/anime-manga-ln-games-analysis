@@ -1836,3 +1836,7 @@ Expectation/reversal, advantageous brokerage, skilled shopwork defeated by fresh
 
 ## WZ-C01 — capacity and commercial failure are different axes
 A working but ill-fitted item, a powerful caster with limited supply, and a warm owner making a firm refusal generate contrasts. Literal possession, imposed labor, depletion and near disappearance remain actual within the fiction. H3 requires gag-dependent weak transfer; H4 requires nonliteral staging. Comedy or a useful final result does not erase recipient costs. Current gift-repurchase precision is separately recorded in ordinary-life uptake.
+
+
+## CE-C01 — zeal, office and professional face have real costs
+A useful thief's face-saving failures, divine dignity versus wanted friendship, and demon zeal versus a companion's collection procedure provide distinct contrasts. MAIN12's actual stab/binding/restraint and capture remain literal fictional actions. H3 requires gag-dependent weak transfer; H4 requires nonliteral staging. Near tears, humiliation and comedy do not certify a harmless outcome or erase other actors' boundaries.

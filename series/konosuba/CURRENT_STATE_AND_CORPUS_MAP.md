@@ -4,7 +4,7 @@ artifact_type: corpus_map
 scope: FULL_MAIN_SERIES
 generation: V1
 status: canonical
-source_boundary: WIZCOHORT01 scoped Tier3 semantic receiving/publication pending; Iris-Yunyun-Vanir gates closed; all17mainexcluded/19supplemental/5mixed declared source gates closed; fullcensus/synthesis/versionedmodels/curation/release active
+source_boundary: CECOHORT01 scoped Tier3 semantic receiving/publication pending; Iris-Yunyun-Vanir-Wiz gates closed; all17mainexcluded/19supplemental/5mixed source programs closed at declared scopes; fullcensus/synthesis/versionedmodels/curation/release active
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,14 +17,14 @@ project_initialization:
   source_reconnaissance_complete: true
   required_ledgers_initialized: true
   sequential_analysis_lock: open
-  next_permitted_operation: EXPANDED_WIZCOHORT01_PUBLICATION_GATE
+  next_permitted_operation: EXPANDED_CECOHORT01_PUBLICATION_GATE
 sequential_execution:
   mode: continuous_sequential
   unit_type: volume
   authorized_start: V11
   terminal_boundary: V17
   committed_high_water_mark: V17
-  next_candidate_operation: EXPANDED_WIZCOHORT01_PUBLICATION_GATE
+  next_candidate_operation: EXPANDED_CECOHORT01_PUBLICATION_GATE
   confirmation_between_units: false
   run_state: active
 ---
@@ -44,7 +44,7 @@ The project is not primarily a plot-summary project and is not satisfied by trai
 ## 2. Current authority state
 
 <!-- CURRENT_OPERATION_START -->
-**Wiz cohort04 is semantically accepted at a scoped Tier3 boundary; its exact publication gate is next.** The [monograph](05%20Specialist%20Synthesis/KONOSUBA_WIZ_CHARACTER_MONOGRAPH.md), [model](06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_WIZ_RECONSTRUCTION_MODEL.md), [index](08%20Evidence%20and%20Indexes/KONOSUBA_WIZ_EVIDENCE_INDEX.md) and [receiving](09%20Audits%20and%20Manifests/KONOSUBA_WIZ_COHORT_01_RECEIVING_AND_PROVENANCE.json) govern uptake. Seven rules and eight actual same-author first responses/four contrasts retain adverse and underidentified branches, with no source/independent score or confidence gain. [Coverage](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md) and the [structured census](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json) retain150qualified rows, not a final population. Earlier Iris/Yunyun/Vanir models and gates stay exact; the [Vanir gate](09%20Audits%20and%20Manifests/KONOSUBA_VANIRCOHORT01_PUBLICATION_GATE_CLOSE.json) is closed at90fb18d5. All17mainexcluded/19supplemental/5mixed source programs retain closed declared scopes. Full individual census/earned artifacts, expanded synthesis/versioned principal-party-transfer models, designated curator enrollment/integration and component/release/final-entry audits remain active. Global percentage stays null; no MAIN18.
+**Chris/Eris cohort05 is semantically received at a scoped Tier3 boundary; its exact publication gate is next.** The [monograph](05%20Specialist%20Synthesis/KONOSUBA_CHRIS_ERIS_CHARACTER_MONOGRAPH.md), [model](06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_CHRIS_ERIS_RECONSTRUCTION_MODEL.md), [index](08%20Evidence%20and%20Indexes/KONOSUBA_CHRIS_ERIS_EVIDENCE_INDEX.md) and [receiving](09%20Audits%20and%20Manifests/KONOSUBA_CHRIS_ERIS_COHORT_01_RECEIVING_AND_PROVENANCE.json) govern uptake. Seven informed rules and six exact same-author first hypothetical outputs/three contrasts preserve role, knowledge and resource limits and underidentified attack/enforcement outcomes; they earn no source/independent score or confidence gain. [Coverage](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md) and the [structured census](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json) contain151qualified working rows, including new Heidel, not a final population. Earlier four scoped gates/models stay exact; the [Wiz gate](09%20Audits%20and%20Manifests/KONOSUBA_WIZCOHORT01_PUBLICATION_GATE_CLOSE.json) is closed atca5c7a4f. MAIN01–12 plus MAIN17 and the first four checkpoints are currently received as derivatives; MAIN13–16, later checkpoints, all ten ledger bodies and final identity/incidental dispositions remain active. Expanded specialists/versioned principal-party-transfer revisions, designated curator enrollment/integration and component/release/final-entry audits continue. All17mainexcluded/19supplemental/5mixed source programs retain closed declared scopes. Global percentage stays null; no new main volume.
 <!-- CURRENT_OPERATION_END -->
 
 The main17 principal readings/checkpoints, main-only specialists, MAIN_ONLY_R1 reconstruction/diagnostic suite, main-principal evidence indexes and four designated holdout-principal assessments are accepted. Their historical derivation, original forecasts, adverse findings and frozen bytes remain separately authoritative at their original boundaries. They are not a substitute for outstanding edition components, expanded synthesis or revised models.

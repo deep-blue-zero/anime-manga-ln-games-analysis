@@ -1594,3 +1594,7 @@ Vanir receives scopedTier3 treatment through a distinct monograph/model/index. D
 
 ## WZ-C01 — Wiz's own state and chosen work
 Wiz receives a scoped Tier3 monograph/model/index with provisional reliability. Human Archwizard and later lich owner are one subject in different phases. Caring, company, technical work, pride and a conditional civilian boundary coexist; lichhood is not a proved cause of every change. Casting mana and maintenance vitality remain separate. [Evidence routes](../08%20Evidence%20and%20Indexes/KONOSUBA_WIZ_EVIDENCE_INDEX.md) distinguish shared MASK reception, bounded MAIN04 and derivative early-main cases.
+
+
+## CE-C01 — one actor with bounded roles
+Chris/Eris receives a scoped Tier3 monograph/model/index with provisional predictive reliability. Identity continuity is explicit in CONTEXP01 U021P329; ordinary thief and divine office carry different bodies, resources, public roles and knowledge. MAIN17 EpP23 admits limited recent observation, P47–60 corrects the death premise, and P59 gives a self-set office refusal. Chosen work, company, charity/spending, error and professional face remain her own states. [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_CHRIS_ERIS_EVIDENCE_INDEX.md).

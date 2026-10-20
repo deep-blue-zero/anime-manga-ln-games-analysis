@@ -1222,3 +1222,7 @@ Work, stock, market fit, capital, fees and rest shape Vanir's ordinary choices. 
 
 ## WZ-C01 — stock, company and a later actual repurchase
 Wiz's shop effort is real despite recurrent loss. Useful function, market fit, sale, later stock loss and wanted shared work remain separate; ordinary money does not fully replace company. MAIN04C5P582–585 shows contested sacrifice and a replacement/help promise, while P635–636 explicitly shows Darkness holding repurchased gifts. Repurchase is actual by that later phase; the shopping scene, Kazuma's promised participation and final recipient handoff/approval remain unshown. This current precision does not rewrite frozen reports or scores.
+
+
+## CE-C01 — wanted company, charity and particular pleasures
+MAIN12 FinalP10's charity/drinking is her account; P13/P16–23 joins ordinary company, payment and lodging choices without making charity costless. Excitement about rare party work, curiosity and professional pride coexist with formal divine duties. CONTEXP01 U026 records actual leaflet pressure and a one-day recommitment, not a full hidden preference ranking. MAIN17 C3P355's desired heroic scene is her expressed taste. These preferences remain individual and context-sensitive.

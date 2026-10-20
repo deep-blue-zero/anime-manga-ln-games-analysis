@@ -1807,3 +1807,7 @@ Vanir can select an entertaining reversal beyond instrumental necessity (MAIN07I
 
 ## WZ-C01 — usefulness, information and operating fit
 Wiz's technical enthusiasm can omit actual buyer budgets, alternatives and working capital (MASK U011/U013/U015), while a local correction need not cure every later purchase. An initially mistaken menu interpretation has a helpful outcome before extortion is explained; subsequent objection is a different information state (U019P178–216). Eight hypothetical responses/four contrasts preserve cueing and the H04B cast-effect ambiguity. No favorable internal output becomes empirical reliability.
+
+
+## CE-C01 — information, pride and a changed judgment
+MAIN12 FinalP275's cute-creature refusal changes after ingredient/demon recognition P277–280; P287 is an actual dagger thrust despite the requested binding. This is not merely spoken zeal. Earlier professional-face failures remain errors. MAIN17 EpP28–44 changes sympathetic appraisal after new information; P32 selectively withholds a fact. Six hypothetical responses/three contrasts have no empirical reliability score; H02B approach/intention never demonstrates actual strike, harm or procedural breach.

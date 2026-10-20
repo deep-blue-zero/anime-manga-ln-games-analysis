@@ -1345,3 +1345,7 @@ MAIN07C5P227explicitly disclaims seeing everything; failed affectivejokeP234–2
 
 ## WZ-C01 — a strong specialist with finite means
 MAIN04C5P416–455 shows actual freezing; P502–504 selective pipe cutting; P522/P565/P588 state mana limits. P611–648 separates authorized casting supply from later vitality support, and P663 loss of expected Teleport. MASK scroll/barrier function does not validate target assumptions. MAIN02's synchronized Explosion/transport routes are currently derivative. No new whole-source pass, unobserved technical domain or unlimited healing is granted.
+
+
+## CE-C01 — skill survives local failure and resource limits
+MAIN12 FinalP131/P136–141 shows a strength failure and accepted physical help; P169–182 preserves a failed door attempt and face-saving error. Actual sensing/stealth P194–200 does not avert capture P209. P334/P344 shows wing/nail work while P347–350 cannot cut mithril. MAIN17 C3P209/216/221/271 shows distinct buffs and P397–402 voice/last blessing without a newly shown body transformation. Specialization is useful without universal capacity.

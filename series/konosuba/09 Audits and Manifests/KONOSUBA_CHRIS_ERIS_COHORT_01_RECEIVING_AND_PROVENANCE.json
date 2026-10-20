@@ -1,0 +1,163 @@
+{
+  "schema": "KONOSUBA_CHRIS_ERIS_COHORT05_RECEIVING_AND_PROVENANCE_V1",
+  "accepted_utc": "2026-10-19T23:56:06.610187+00:00",
+  "status": "ROOT_SEMANTIC_RECEIVING_COMPLETE_CONTAINING_PUBLICATION_PENDING",
+  "source_boundary_commit": "ca5c7a4f427ab7e9ff8284fc1b37286f0951517c",
+  "preceding_gate": "09 Audits and Manifests/KONOSUBA_WIZCOHORT01_PUBLICATION_GATE_CLOSE.json",
+  "receiver": "Same continuing informed root; exact prose, actual native/derivative reception, six first outputs/three contrasts and underidentified cases reviewed. No independent reviewer/model or source holdout.",
+  "tier": "3 at declared source-informed boundary; predictive reliability provisional. Earlier four scoped models/gates exact; full census/final individual dispositions open.",
+  "artifacts": [
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_CHRIS_ERIS_CHARACTER_MONOGRAPH.md",
+      "bytes": 17054,
+      "sha256": "0a7d07bccc64fe40ca666d2da5b5408047ad617f2b2963e7dad2f7a95bf79e44"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CHRIS_ERIS_RECONSTRUCTION_MODEL.md",
+      "bytes": 24777,
+      "sha256": "213de30d6bfab2fb3a9d2c47c2158b6425a598814b92caa855913f08bd997083"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CHRIS_ERIS_EVIDENCE_INDEX.md",
+      "bytes": 9749,
+      "sha256": "a6c608fa61aa2853808e4cdcc9588e104f02ebab685cf0dfa294ce48696eb0ec"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/CHRIS_ERIS_EXPANDED_V1_EVIDENCE/CHRIS_ERIS_HYPOTHETICAL_SCENARIO_CONTRACTS_01.json",
+      "bytes": 4844,
+      "sha256": "8e99312c74f08de814a9d64e0c7427a85ae041da5ddde04ba9089f52c2ce3a93"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/CHRIS_ERIS_EXPANDED_V1_EVIDENCE/CHRIS_ERIS_ACTUAL_HYPOTHETICAL_OUTPUTS_01.json",
+      "bytes": 3102,
+      "sha256": "4fb6c83ea2e34fb6b7caefc3ff678cb677e5be14d6817f5104e1848f692a1f84"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/CHRIS_ERIS_EXPANDED_V1_EVIDENCE/CHRIS_ERIS_HYPOTHETICAL_CAUSAL_RECEIVING_01.json",
+      "bytes": 4008,
+      "sha256": "9162e7832d50159daf20701dd167976db2a05b8d3972a91cebd30933ed531255"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/CHRIS_ERIS_EXPANDED_V1_EVIDENCE/CHRIS_ERIS_NATIVE_AND_DERIVATIVE_PROVENANCE_01.json",
+      "bytes": 18065,
+      "sha256": "77695a6358b8fd1ba3b30b9c12015642e099feabe6d302c574e312691227f135"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/CHRIS_ERIS_EXPANDED_V1_EVIDENCE/CHRIS_ERIS_EXACT_DRAFT_LINEAGE_01.json",
+      "bytes": 68114,
+      "sha256": "fbb8cf0111efef5b9684f08a37a31b7fcb0ee18ae38aeffe770da72f58fbcf44"
+    }
+  ],
+  "maintained_census_candidate_at_authorship": {
+    "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json",
+    "before_sha256": "36e9e717de548e08097ecd08d741028967d27c2b649c5725ff7ee1f4cf770fa5",
+    "bytes": 361133,
+    "after_sha256": "8ef2890c84f288fefb1c1b4ec4f7ea5a6e01953e4eb30d8954f55a4caa747938",
+    "responsibility": "Maintained qualified census,25targeted/1new/125priorrowsexact; not final population or immutable model artifact."
+  },
+  "entering_ten_model_pins": [
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+      "bytes": 61516,
+      "sha256": "6fe7b325666e339ed86edba70f8d1f9491705f66a6ecdc31eeb44a5bed7a89e4"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_AQUA_RECONSTRUCTION_MODEL.md",
+      "bytes": 64491,
+      "sha256": "2f63ef1000c74a2bf105c3cfbbd4258f39e8abe9cf1544fac25768673f17c430"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_DARKNESS_RECONSTRUCTION_MODEL.md",
+      "bytes": 62581,
+      "sha256": "e54f45b3aaa74197e76ec917888416b08683ef2b7194586ba060b93979e78bc9"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_MEGUMIN_RECONSTRUCTION_MODEL.md",
+      "bytes": 60891,
+      "sha256": "cbff1ec4266e8d6908b3d58af9870aa7f981fe40f3a573ed29da345e1f1d801f"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_PARTY_INTERACTION_MODEL.md",
+      "bytes": 67885,
+      "sha256": "cf2082e63718e1c51c171fb9225b0be5da603c1e85900f397c36e233af6d3f8e"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+      "bytes": 51278,
+      "sha256": "3bec39a1014c50c6704e920b076076ecd2d82ffab0f987fd379844cc68783ee1"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_IRIS_RECONSTRUCTION_MODEL.md",
+      "bytes": 20464,
+      "sha256": "75afb94b5723af3620ea5fabe1d8a7c742645bb56de938c605a3d11999a42c29"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_YUNYUN_RECONSTRUCTION_MODEL.md",
+      "bytes": 25474,
+      "sha256": "4565a9089c9bac6c6f694469f27920d26f9ab1b44275c62c7160692575c765eb"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_VANIR_RECONSTRUCTION_MODEL.md",
+      "bytes": 25561,
+      "sha256": "081b6bef4df5584837d2a6fb565f746aa3d9c00a3c925c592596d2d3bb3186df"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_WIZ_RECONSTRUCTION_MODEL.md",
+      "bytes": 24361,
+      "sha256": "b8248785ff01251738798121a3ac1eea06b576913c1ea436e97fc22720146b89"
+    }
+  ],
+  "semantic_acceptance_basis": [
+    "Distinct monograph/model/index preserve own chosen duties, ordinary company, charity/spending, useful skill and limits, professional face/error, demon-sensitive zeal, knowledge updating, disclosure and a firm office no.",
+    "Seven falsifiable informed rules have rivals, predicates/exclusions and confidence; no omniscience, universal compliance, moral purity or arbitrary cross-context competence.",
+    "Current native MAIN12Final438/MAIN17C3203+Ep93 and inheritedCONTEXP01329 preserve exact known-source scopes;1063member slots are not events or another whole book.",
+    "Six exact first hypothetical outputs/three fixed contrasts have no source/independent validation, score or confidence gain. CE-H02B does not execute the predicted attack/procedural breach; boundary enforcement remains unshown.",
+    "Model02 changes only exercise/provenance; all preceding analytical rules/interpretations/confidence match model01 exactly. Monograph01 and all drafts are retained.",
+    "151qualifiedrows include25targetedupdates,1newHeidel row and125priorrowsexact; onlyChris/Eris newly scopedTier3. Full ledger/checkpoint/identity/incidental responsibilities remain."
+  ],
+  "hypothetical_exercise": {
+    "outputs": 6,
+    "contrasts": 3,
+    "score": null,
+    "confidence_increase": false,
+    "source_or_independent_validation_credit": 0,
+    "underidentification": "CE-H02B hostile appraisal/preparation without actual attack or procedural disruption; request scope bundles features and later limit enforcement is unshown."
+  },
+  "source_credit": {
+    "new_wholebook_passes": 0,
+    "current_MAIN12_MAIN17_BASE_TEXT_slots": 734,
+    "inherited_CONTEXP01_BASE_TEXT_slots": 329,
+    "five_member_scope_sum_not_observations": 1063,
+    "independent_observation_denominator": null
+  },
+  "preservation": "66current/72historical/fourscores/Dust14originalblanks/tenenteringmodels/SIandSY28originalnulls/80scratch remain exact; no retargeting or central registry/capability output authorship.",
+  "not_completed": [
+    "Exact Chris/Eris candidate adoption/publication gate",
+    "Remaining individual census/joins/incidental dispositions and earned artifacts",
+    "Expanded specialists/versioned principal-party-transfer synthesis",
+    "Designated curation/integration and component/release/final-entry audits"
+  ],
+  "publication_gate": "Pending exact canonical candidate/adoption, full diff review, authorpreflight, freshheads-owner-rules, normalpush, fullreadback, sourceaudit, housekeeping, finalactualsource-status and fresh authority reload.",
+  "canonical_presentation_normalization01": {
+    "performed_utc": "2026-10-20T00:05:23.339645+00:00",
+    "changes": [
+      {
+        "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_CHRIS_ERIS_CHARACTER_MONOGRAPH.md",
+        "before_bytes": 17055,
+        "before_sha256": "52a9ed35021c3d09e833dc0bb263d2140f6d00107baf81201de9e19b2ac6adea",
+        "after_bytes": 17054,
+        "after_sha256": "0a7d07bccc64fe40ca666d2da5b5408047ad617f2b2963e7dad2f7a95bf79e44",
+        "transformation": "Remove one superfluous terminal LF; all preceding bytes unchanged. Exact original private prose remains in lineage."
+      },
+      {
+        "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CHRIS_ERIS_EVIDENCE_INDEX.md",
+        "before_bytes": 9750,
+        "before_sha256": "386aed8a964c150916a6eaac13868ae54bc4b13aa7496735d510f3f4468b4d61",
+        "after_bytes": 9749,
+        "after_sha256": "a6c608fa61aa2853808e4cdcc9588e104f02ebab685cf0dfa294ce48696eb0ec",
+        "transformation": "Remove one superfluous terminal LF; all preceding bytes unchanged. Exact original private prose remains in lineage."
+      }
+    ],
+    "reason": "One final LF per canonical Markdown; no analytical words, private prose seal, exact draft lineage, contracts, first outputs or source scopes changed."
+  }
+}

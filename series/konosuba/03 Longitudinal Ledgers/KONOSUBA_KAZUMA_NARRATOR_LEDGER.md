@@ -1273,3 +1273,7 @@ MAIN07C5P221attributes unnecessary document inspection to Kazuma's inference; P2
 
 ## WZ-C01 — direct act, admission and retrospective account
 MAIN04C5P252/P273 leaves Wiz's disclosure intent uncertain; P409/P413 is Hans's admission, not a watched killing. P554/P563 near-instinct interpretation is Kazuma's hypothesis. After his loss of consciousnessP618, freezing every remnantP634 and full purificationP656–658 are retrospective accounts. Actual fading and vitality transferP641–648 have their own observed phase. Contextual gratitude does not make every private motive available.
+
+
+## CE-C01 — testimony, inference and chosen disclosure
+MAIN12 FinalP37–40 prayer linkage and P380 identity detection are Kazuma's inferences, not certified access to her private state. P230/P255 notices inconsistency without full disclosure. MAIN17 C3P355 explicitly gives Eris's preferred cool heroic result; Kazuma's manga explanation P357 remains inference. His commitment P364 precedes the Iris report P384; P392–393 guesses her disclosure motive. MAIN17 Ep's new information corrects her own prior appraisal rather than granting prior omniscience.

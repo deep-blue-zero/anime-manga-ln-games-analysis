@@ -1801,3 +1801,7 @@ Written我輩, elevated declaratives, counterpart classification, anticipated qu
 
 ## WZ-C01 — polite form can accuse or refuse
 MAIN04C5P425 recalls a binding moral condition in question form; P431 adds quiet sadness while actual force continues. This is not a request for Hans to grant permission. Excited recognition P244–257, technical limitation P522/P565, the shared-work refusal in MASK U011 and an insult-linked threat in U019 have different purposes. Preserve written register/pragmatic functions without a fixed stutter, apology count or audio claim.
+
+
+## CE-C01 — chosen register and an explicit no
+CONTEXP01 U026P7–8 and MAIN17 EpP21–23 distinguish familiar address from formal office speech. MAIN17 EpP59's repeated refusal retains force despite affection; C3P397–400 shifts into ordinary Chris-like voice without a newly shown physical transformation. MAIN12's professional face, curiosity and target-specific hostility have different pragmatic aims. Preserve written forms and purpose; no audio, fixed verbal tic or politeness-as-consent claim follows.

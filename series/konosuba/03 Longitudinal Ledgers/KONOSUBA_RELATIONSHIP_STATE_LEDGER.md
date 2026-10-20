@@ -1347,3 +1347,7 @@ Wiz is valued company and a project partner, with real overwork, punitive behavi
 
 ## WZ-C01 — company is valuable without universal permission
 Wiz refuses paid long exclusion from the shared shop (MASK U011P23–43), values Vanir's company and can still suffer his overwork or coercive methods. Her own forgiveness cannot authorize Brad/Rosary; his later exit is his choice. With Aqua, respectful address coexists with warning and withdrawal advice that Aqua refuses. With Kazuma, a specified mana draw and later vitality transfer have their own terms. A wanted relationship is not blanket assent.
+
+
+## CE-C01 — particular company and bounded access
+MAIN12 FinalP16–23 separates payment, accepted lodging and wanting company; P48–95 includes intrusive curiosity and reciprocal questioning. CONTEXP01 U021P363–369 offers ordinary friendship and respects a requested averted gaze. MAIN17 EpP54–63 rejects recurring refuge and offers later friend contact. Neither friendship nor technical access implies unlimited office entitlement. Hypothetical later enforcement remains unshown; old CE01's full conjunction is not retargeted.
