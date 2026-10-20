@@ -1854,3 +1854,12 @@ Source-known admitted EXP01/02 and MAIN05/11/14; eighteen actual image-prose pag
 | Record | Acting subject and exact route | Current uptake | Limits |
 |---|---|---|---|
 | K07-HM01 | Komekko and adult expectations; EXP01IMG036-043/U043P512;EXP02U023P541-620;MAIN14bonusP51-57 | A concrete food interpretation defeats a ritual plan; refusal frustrates an expected farewell performance while actual affection follows; a child food appraisal elicits a seedling fear response. | Literal acts, failed tactics and unshown eating/bear outcome remain. No automatic H3 from fantasy, universal child-cruelty law, replacement code or pooled humor denominator. |
+
+
+## Hoost cohort08 source-informed consolidation — 2026-10-20T04:07:47.235077+00:00
+
+Source-known admitted EXP01/03: prior eighteen actually read integral image-prose pages reused,1,172unique EXP03 BASE slots/five members newly received, thirteen selected ledger rows/seven files. No fresh EXP01 pixel pass, whole-source/ruby/image/independent credit. [Hoost index](../08%20Evidence%20and%20Indexes/KONOSUBA_HOOST_EVIDENCE_INDEX.md) owns event joins and exact return scopes; previous entries remain historical.
+
+| Record | Acting subject and exact route | Current uptake | Limits |
+|---|---|---|---|
+| H08-HM01 | Hoost/Komekko and combat reversals; EXP01IMG026-043;EXP03U020P509-516/U034P387-424 | Rank is reversed by scarce child skill; puzzle layers/boredom keep effort scarce. Oyakodon defeats offering instructions. Borrowed greeting frightens audience; shared immobility changes a bargain without removing danger. | Reuse declared source coding; no new gag census, automatic fantasyH4 or L3 for rough speech. Actual food, refusal, attacks and unshown bear outcome remain distinct. |

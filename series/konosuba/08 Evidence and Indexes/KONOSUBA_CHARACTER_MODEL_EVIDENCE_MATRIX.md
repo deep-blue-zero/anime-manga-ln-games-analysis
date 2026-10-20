@@ -973,3 +973,19 @@ This maintained expanded matrix receives new source-informed constraints; the di
 | K07-MC06 | Written voice;EXP01IMG026-031/043;EXP02U023P550-588;MAIN14C1P272-284 | Exact teacher/report/guess and act/recipient matter; ordinary courtesy and quiet affection join theatrical script | EXPAND KM-K-06, no acoustic/native-human adequacy |
 
 StageD principal/party/transfer feed: preserve Megumin's care alongside child nonassent and reader-only knowledge; credit Aqua/Yunyun/Kazuma their actual distinct acts; do not treat Komekko's listening as others' combat consent. Four same-author pairs/eight first bodies retain H02A location error, strong generic/bundled-input rivals and no H04 behavioral discrimination. No original forecast, outcome or four-score repair follows.
+
+
+## Hoost cohort08 attributable expanded constraints — 2026-10-20T04:07:47.235077+00:00
+
+The [Hoost model](../06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_HOOST_RECONSTRUCTION_MODEL.md) and [index](KONOSUBA_HOOST_EVIDENCE_INDEX.md) own rule details/returns. This mutable expanded matrix adds constraints; the distinct frozen R1 response-receiving matrix and thirteen entering model bodies remain exact.
+
+| Constraint | Source route | Mechanism and contrary limit | Transition |
+|---|---|---|---|
+| H08-MC01 | EXP01IMG027-037 | Scarce puzzle skill produces requests/bargaining despite rank; resisted ploys and food before completion limit pure transaction | EXPAND HH-R01, moderate local/low unfamiliar support |
+| H08-MC02 | EXP01IMG029-043;EXP03U026P588-591 | Particular provision/friendship affects stated Crimson reluctance; initial threat, departure/coercion and task need remain adverse/rivals | EXPAND HH-R02, no universal child-care override |
+| H08-MC03 | EXP01IMG041-043;EXP03U026P533-598 | Declined inspection, initial beast mistake, actual assault and local correction coexist with useful scent/name/place inquiry | EXPAND HH-R03, no identity accuracy rate or omniscience |
+| H08-MC04 | EXP03U034P294-424 | Depletion/control changes tactics, wary interception and bargaining; enhanced Paralysis actually defeats asserted ordinary resistance | EXPAND HH-R04, generic combat incentives unresolved |
+| H08-MC05 | EXP01IMG030-031/040-043;EXP03U026P591-598/U034P387-424/489 | Scoped offered terms/doctrine matter; acceptance/performance/release/rebirth not automatically shown | EXPAND HH-R05, enforcement remains unresolved |
+| H08-MC06 | EXP01IMG027-031/036/043;EXP03U020P509-516/U034P364-493 | Rank, deference, relaxed address, borrowed introduction, threat/bargain/complaint differ by act/recipient | EXPAND HH-R06, no acoustic/native-human adequacy |
+
+StageD feed retains task-specific competence, child/protagonist/reader knowledge separation, other providers' actual contributions, coercive/collateral costs and modified-effect counterevidence. Three same-author pairs/six first bodies provide bounded request sensitivity, same-bargain affect variation and hidden-truth invariance; they supply no independent reliability or new source score. Original principal conditions and outcomes are not redefined by Hoost friendship or life claims.

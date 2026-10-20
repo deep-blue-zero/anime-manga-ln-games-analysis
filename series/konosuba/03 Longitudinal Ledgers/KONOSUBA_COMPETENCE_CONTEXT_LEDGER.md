@@ -1363,3 +1363,12 @@ Source-known admitted EXP01/02 and MAIN05/11/14; eighteen actual image-prose pag
 | Record | Acting subject and exact route | Current uptake | Limits |
 |---|---|---|---|
 | K07-CC01 | Komekko with Hoost/Megumin/Kazuma/Yunyun; EXP01IMG026-039/U043P364-366;MAIN05U027P677-697;MAIN11F55/Ep96 | Specific puzzle skill, vocabulary/reading questions, harmful attempted carrying help and poor causal explanation coexist. Kazuma understands/aims, Megumin charges and Komekko notices/pulls the trigger. | No measuredIQ, sole weapon authorship, universal strategist or demonstrated controlled devil summoning. Adult future talent appraisal remains testimony. |
+
+
+## Hoost cohort08 source-informed consolidation — 2026-10-20T04:07:47.235077+00:00
+
+Source-known admitted EXP01/03: prior eighteen actually read integral image-prose pages reused,1,172unique EXP03 BASE slots/five members newly received, thirteen selected ledger rows/seven files. No fresh EXP01 pixel pass, whole-source/ruby/image/independent credit. [Hoost index](../08%20Evidence%20and%20Indexes/KONOSUBA_HOOST_EVIDENCE_INDEX.md) owns event joins and exact return scopes; previous entries remain historical.
+
+| Record | Acting subject and exact route | Current uptake | Limits |
+|---|---|---|---|
+| H08-CC01 | Hoost with Komekko/Yunyun/Rex crew; EXP01IMG027-039;EXP03U026P539-598/U034P315-388 | Great physical capacity coexists with puzzle dependence and incomplete inscription. Close scent and local correction work; mana-backed fighting, cancelled Inferno and real enhanced-Paralysis defeat show condition-dependent competence. | Flash outcome and actor virtual-body explanation are local, not universal immunity. Exact initial knockdown technique unknown to Megumin; full-strength Explosion survival only a counterfactual claim. |

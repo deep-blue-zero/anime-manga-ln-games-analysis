@@ -1821,3 +1821,12 @@ Source-known admitted EXP01/02 and MAIN05/11/14; eighteen actual image-prose pag
 | Record | Acting subject and exact route | Current uptake | Limits |
 |---|---|---|---|
 | K07-JV01 | Komekko particular pragmatic acts; EXP01IMG026-031/043;EXP02U023P550-588;MAIN11C3P204-213/240-241;MAIN14C1P272-284 | Name correction, practical formal food request, brief thanks, copied grudging phrase, grand introduction, barbs and quiet return request differ by act/recipient. Hoost explicitly acknowledges one taught phrase; specific Bukkorori lessons are child reports, another attribution is Megumin guess. | Image first-person prose differs from actual memo writing and mother-read quotation. BLESSING reader-song and promotional script keep their own planes. No acoustic/native-human adequacy, universal dialect or new L3/score claim. |
+
+
+## Hoost cohort08 source-informed consolidation — 2026-10-20T04:07:47.235077+00:00
+
+Source-known admitted EXP01/03: prior eighteen actually read integral image-prose pages reused,1,172unique EXP03 BASE slots/five members newly received, thirteen selected ledger rows/seven files. No fresh EXP01 pixel pass, whole-source/ruby/image/independent credit. [Hoost index](../08%20Evidence%20and%20Indexes/KONOSUBA_HOOST_EVIDENCE_INDEX.md) owns event joins and exact return scopes; previous entries remain historical.
+
+| Record | Acting subject and exact route | Current uptake | Limits |
+|---|---|---|---|
+| H08-JV01 | Hoost particular speech acts; EXP01IMG027-031/036/043;EXP03U020P500-516/U034P364-493 | Rough rank self-presentation, Wolbach-sama, a reluctant polite child request, mutually relaxed address, borrowed grand introduction, wary taunt, impatient bargaining and remaining-life complaint differ by act/recipient. | No permanent Komekko-san after unspecified address stage, compulsory profanity/accent or acoustic/native-human adequacy. HHC01 wording remains underidentified without the arrangement; printed contrast is not a validated full voice. |

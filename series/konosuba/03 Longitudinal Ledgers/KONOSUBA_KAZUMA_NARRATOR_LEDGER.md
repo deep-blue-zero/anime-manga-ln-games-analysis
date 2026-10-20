@@ -1291,3 +1291,12 @@ Source-known admitted EXP01/02 and MAIN05/11/14; eighteen actual image-prose pag
 | Record | Acting subject and exact route | Current uptake | Limits |
 |---|---|---|---|
 | K07-KN01 | Komekko/Megumin/Hoost/Yuiyui access; EXP01IMG040-043/U043P538-572;MAIN11C3P204-213/EpP93-99 | Reader-only child interludes, Megumin later report, village false divine account, actual writing, mother-read memo, confused achievement and accurate overheard phrase retain separate knowledge routes. | Neither Kazuma nor Megumin knows every child/Hoost scene. No fresh witnessed battle from a retelling, adult comprehension from quotation or demon control from YORI04/other aptitude reports. |
+
+
+## Hoost cohort08 source-informed consolidation — 2026-10-20T04:07:47.235077+00:00
+
+Source-known admitted EXP01/03: prior eighteen actually read integral image-prose pages reused,1,172unique EXP03 BASE slots/five members newly received, thirteen selected ledger rows/seven files. No fresh EXP01 pixel pass, whole-source/ruby/image/independent credit. [Hoost index](../08%20Evidence%20and%20Indexes/KONOSUBA_HOOST_EVIDENCE_INDEX.md) owns event joins and exact return scopes; previous entries remain historical.
+
+| Record | Acting subject and exact route | Current uptake | Limits |
+|---|---|---|---|
+| H08-KN01 | Komekko/Megumin/Hoost access; EXP01IMG026-043;EXP03U020P476-549/U026P533-598/U034P485-498 | Child image prose, Megumin forest/battle narration, unknown-voice protection guess, Hoost false-report reception, actual recognition correction and late offscreen testimony retain distinct knowledge times. | No Kazuma/Megumin access to every interlude, known sisterhood, reader-only divine identity or witnessed rebirth/release. U045 is principal epilogue; no new Hoost episode from reward reference. Injury-severity wording tension remains. |

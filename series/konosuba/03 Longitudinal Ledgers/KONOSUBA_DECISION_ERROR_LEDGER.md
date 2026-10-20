@@ -1825,3 +1825,12 @@ Source-known admitted EXP01/02 and MAIN05/11/14; eighteen actual image-prose pag
 | Record | Acting subject and exact route | Current uptake | Limits |
 |---|---|---|---|
 | K07-DE01 | Komekko ordinary refusal/error; EXP01IMG030-037;EXP02U023P541-560;MAIN11C4P538-577;MAIN14C4P90-94 | Hoost resists flattery/hardship/threat, a food offering is misimplemented, futile pleading is refused and a food-rich room weakens a dinner threat. Hidden chocolate changes leverage only when found. | No always-successful trick, initial omniscient chocolate plan, final pantry exhaustion or completed father retrieval. H02A hypothetical location error belongs to authoring, not this child source history. |
+
+
+## Hoost cohort08 source-informed consolidation — 2026-10-20T04:07:47.235077+00:00
+
+Source-known admitted EXP01/03: prior eighteen actually read integral image-prose pages reused,1,172unique EXP03 BASE slots/five members newly received, thirteen selected ledger rows/seven files. No fresh EXP01 pixel pass, whole-source/ruby/image/independent credit. [Hoost index](../08%20Evidence%20and%20Indexes/KONOSUBA_HOOST_EVIDENCE_INDEX.md) owns event joins and exact return scopes; previous entries remain historical.
+
+| Record | Acting subject and exact route | Current uptake | Limits |
+|---|---|---|---|
+| H08-DE01 | Hoost knowledge/update; EXP01IMG041-043;EXP03U026P533-565/U034P374-388 | Declined kitten inspection loses a relevant information opportunity. Hoost initially calls captured prey Wolbach and attacks, then corrects to ordinary beginner-killer. Altered Paralysis defeats his ordinary-immunity boast. | Both mistake and correction remain; original EXP03report161 supported, not erased or retrospectively repaired. Useful scent and actual attempted potion interception prevent global stupidity/total incuriosity claims. |

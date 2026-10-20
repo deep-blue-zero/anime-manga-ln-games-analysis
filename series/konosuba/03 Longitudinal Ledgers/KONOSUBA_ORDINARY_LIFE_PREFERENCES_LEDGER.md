@@ -1240,3 +1240,12 @@ Source-known admitted EXP01/02 and MAIN05/11/14; eighteen actual image-prose pag
 | Record | Acting subject and exact route | Current uptake | Limits |
 |---|---|---|---|
 | K07-OL01 | Komekko play/resources/care; EXP01IMG026-043/U018P435-439;EXP02U013/U023P565-620;MAIN05U020P230-241;MAIN14C1P272-284/C4P90-94 | Novel puzzles/riding, boredom, food scarcity anticipation, two distinct food offers, lunch/book giving, bedtime affection, tea service and rejected carrying task make ordinary life substantive. | Current plenty need not erase anticipation, fullness can reduce effort and particular generosity does not guarantee obedience. Reference song/appetite description is not a new dated hug, meal or trip. |
+
+
+## Hoost cohort08 source-informed consolidation — 2026-10-20T04:07:47.235077+00:00
+
+Source-known admitted EXP01/03: prior eighteen actually read integral image-prose pages reused,1,172unique EXP03 BASE slots/five members newly received, thirteen selected ledger rows/seven files. No fresh EXP01 pixel pass, whole-source/ruby/image/independent credit. [Hoost index](../08%20Evidence%20and%20Indexes/KONOSUBA_HOOST_EVIDENCE_INDEX.md) owns event joins and exact return scopes; previous entries remain historical.
+
+| Record | Acting subject and exact route | Current uptake | Limits |
+|---|---|---|---|
+| H08-OL01 | Hoost task-adjacent company/provision; EXP01IMG028-043 | Hunting, limits on shopping openly, food delivery before complete work, waiting, carried outing, irritation, company, relaxed formality and a finite farewell give ordinary interaction more than opponent function. | No invented favorite food, wealth, household schedule, romance or general employment pattern. Instrumental recruitment and particular care remain mixed; actual birds are removed, not consumed on-page. |

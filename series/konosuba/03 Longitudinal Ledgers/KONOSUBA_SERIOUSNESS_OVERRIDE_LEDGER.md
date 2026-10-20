@@ -1168,3 +1168,12 @@ Source-known admitted EXP01/02 and MAIN05/11/14; eighteen actual image-prose pag
 | Record | Acting subject and exact route | Current uptake | Limits |
 |---|---|---|---|
 | K07-SO01 | Komekko specific concern and adverse limits; EXP01U043P239-278/364-366/428-429/472-493;EXP02U023P565-620;MAIN14C4P90-94 | Costly food/property giving, concern for sister and concrete helping attempts support particular care. Evacuation refusal, poorly executed help and rejected cumbersome care remain. Yunyun supplies physical shielding. | No universal protective/compliance override, inferred safe danger appraisal or unseen bear rescue/victory. Nonsexual age-appropriate child scope; threatened harm is not erased by comic framing or absence of completed injury. |
+
+
+## Hoost cohort08 source-informed consolidation — 2026-10-20T04:07:47.235077+00:00
+
+Source-known admitted EXP01/03: prior eighteen actually read integral image-prose pages reused,1,172unique EXP03 BASE slots/five members newly received, thirteen selected ledger rows/seven files. No fresh EXP01 pixel pass, whole-source/ruby/image/independent credit. [Hoost index](../08%20Evidence%20and%20Indexes/KONOSUBA_HOOST_EVIDENCE_INDEX.md) owns event joins and exact return scopes; previous entries remain historical.
+
+| Record | Acting subject and exact route | Current uptake | Limits |
+|---|---|---|---|
+| H08-SO01 | Hoost attachment/harm limits; EXP01IMG026-043;EXP03U026P539-598/U034P387-424/485-498 | Rank can yield to task dependence and vulnerability can prompt negotiated retreat; particular concern/provision and bird intervention coexist with initial threat, actual violence and attributed retaliation. | No blanket benevolent/protective override. Unshown bear rescue, fully healed fighters and actual promise enforcement remain unknown; comedy and remaining-life speech do not guarantee harmlessness or recipient consent. |

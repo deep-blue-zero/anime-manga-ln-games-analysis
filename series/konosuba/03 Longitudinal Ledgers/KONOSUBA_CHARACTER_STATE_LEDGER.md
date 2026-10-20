@@ -1612,3 +1612,12 @@ Source-known admitted EXP01/02 and MAIN05/11/14; eighteen actual image-prose pag
 | Record | Acting subject and exact route | Current uptake | Limits |
 |---|---|---|---|
 | K07-CS01 | Komekko own changing state and goals; EXP01 IMG026-043/U018P407/435-439/U043P239-278;EXP02U023P565-620;MAIN11C3P221-241 | Interest, boredom, hunger/fullness/sleep, selective giving, concrete attachment and resistance coexist. Six KM-K informed rules support a scoped provisionalTier3 model; her EXP01 agefive does not fix later age. | Earlier limited-profile assessments stay exact; no appetite-only law, universal charity, diagnosis or mature predictive reliability. |
+
+
+## Hoost cohort08 source-informed consolidation — 2026-10-20T04:07:47.235077+00:00
+
+Source-known admitted EXP01/03: prior eighteen actually read integral image-prose pages reused,1,172unique EXP03 BASE slots/five members newly received, thirteen selected ledger rows/seven files. No fresh EXP01 pixel pass, whole-source/ruby/image/independent credit. [Hoost index](../08%20Evidence%20and%20Indexes/KONOSUBA_HOOST_EVIDENCE_INDEX.md) owns event joins and exact return scopes; previous entries remain historical.
+
+| Record | Acting subject and exact route | Current uptake | Limits |
+|---|---|---|---|
+| H08-CS01 | Hoost/ホースト; EXP01 IMG026-043;EXP03U020P476-516/U026P533-598/U034P287-498 | Loyal mission pursuit, rank, actual provision/particular friendship, coercion, fallible search and vulnerability produce six defeasible rules and a scoped provisionalTier3 model. Earlier role/profile judgments retain their original boundaries. | Not a mature universal simulator or an appearance-frequency promotion. Known-source internal checks do not raise reliability; other actors retain independent agency. |

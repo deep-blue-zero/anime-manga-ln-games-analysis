@@ -1365,3 +1365,12 @@ Source-known admitted EXP01/02 and MAIN05/11/14; eighteen actual image-prose pag
 | Record | Acting subject and exact route | Current uptake | Limits |
 |---|---|---|---|
 | K07-RS01 | Komekko with named counterparts; EXP01IMG026-043;EXP02U023P541-641;MAIN11C3P376-444/C4P538-577;MAIN14C1P261-269 | Hoost becomes particular friend with actual refusals and finite provision. Megumin receives care, gifts, objection and disappointment; Kazuma gives/receives food and mediates; Aqua supplies play/care; Yunyun receives flawed help. Luna designs the food/admiration work pressure. | Child assent to listen does not consent for other people or make her institution designer. Parents prior neighbor arrangement is reported by actual agreeing provider. Future Hoost familiar contract is conditional/unperformed. |
+
+
+## Hoost cohort08 source-informed consolidation — 2026-10-20T04:07:47.235077+00:00
+
+Source-known admitted EXP01/03: prior eighteen actually read integral image-prose pages reused,1,172unique EXP03 BASE slots/five members newly received, thirteen selected ledger rows/seven files. No fresh EXP01 pixel pass, whole-source/ruby/image/independent credit. [Hoost index](../08%20Evidence%20and%20Indexes/KONOSUBA_HOOST_EVIDENCE_INDEX.md) owns event joins and exact return scopes; previous entries remain historical.
+
+| Record | Acting subject and exact route | Current uptake | Limits |
+|---|---|---|---|
+| H08-RS01 | Hoost with Komekko/Wolbach/Megumin/Yunyun/Rex/Sophie/Terry;EXP01IMG026-043;EXP03U026P533-598/U034P287-498 | Particular child friendship modifies expressed reluctance toward Crimson Demons while Wolbach mission and conditional city threat persist. Rex crew receives actual attacks; Yunyun supplies resistance/bargaining, Megumin final blast. | No universal surrogate-parent rule, completed future familiar bond, recognized sisterhood or Megumin bonded-opponent condition. First friendly encounter does not erase later coercion or reported retaliatory city attack. |

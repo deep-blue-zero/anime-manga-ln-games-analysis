@@ -1,7 +1,7 @@
 {
   "schema": "KONOSUBA_KOMEKKO_COHORT07_RECEIVING_AND_PROVENANCE_V1",
   "accepted_utc": "2026-10-20T03:07:49.581550+00:00",
-  "status": "ROOT_SCOPED_SEMANTIC_RECEIVING_COMPLETE_CONTAINING_PUBLICATION_PENDING",
+  "status": "ROOT_SCOPED_SEMANTIC_RECEIVING_AND_FULL_PUBLICATION_GATE_CLOSED",
   "source_boundary_commit": "59a60ed821e8bf295a37e0770b52023f60f7ae9c",
   "preceding_gate": "09 Audits and Manifests/KONOSUBA_DUSTCOHORT01_PUBLICATION_GATE_CLOSE.json",
   "receiver": "Same informed root, actual eighteen-page/fifteen-text-unit current receiving,79selected ledger entries and source-known internal contrast review. No independent review or native-human voice assessment.",
@@ -170,16 +170,34 @@
   "publication_record": {
     "existing_review_PR": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/254",
     "head_at_authoring": "59a60ed821e8bf295a37e0770b52023f60f7ae9c",
-    "new_candidate_published": false,
-    "protected_merge_performed": false
+    "new_candidate_published": true,
+    "protected_merge_performed": false,
+    "published_source": "673227da7aebc30b698cdef2ac065f643a862f57",
+    "published_tree": "ef13558debc5c07beb78ccda6316134a2c643518",
+    "full_gate_closed": true
   },
   "remaining_program": [
-    "Exact candidate adoption, publication, source audit, housekeeping, final actual-source audit/status and fresh authority reload",
     "Full ledger bodies/global individual-event census; further proportional artifacts and profiles",
     "Expanded specialists and separately versioned six principal/party/transfer revisions",
     "Designated discovery/evaluation curation, governed integration and component/release/final-entrypoint audits"
   ],
   "integration_boundary": "Series-author publication only. Current EC2 authority grant does not activate a deterministic executor/shared exclusion; no protected merge, service deployment or global generated/curator-owned file authorship.",
   "global_census_closed": false,
-  "global_completion_percentage": null
+  "global_completion_percentage": null,
+  "full_publication_gate": {
+    "path": "09 Audits and Manifests/KONOSUBA_KOMEKKOCOHORT01_PUBLICATION_GATE_CLOSE.json",
+    "sha256": "7d2f158af2020d8b810ee2cb7e0f13b2845c171db03050c146bbfa125cb0b212",
+    "actual_source": "673227da7aebc30b698cdef2ac065f643a862f57",
+    "tree": "ef13558debc5c07beb78ccda6316134a2c643518",
+    "source_run": 39363879873,
+    "housekeeping_run": 39364335339,
+    "final_run": 39364372057,
+    "full_tests_each": 385,
+    "all5_non_success_zero": true,
+    "selection_enabled": false,
+    "all9192_remote_paths_and30changed_streams_exact": true,
+    "fresh1016_project_authority_reload": true
+  },
+  "earlier_acceptance_status_scope": "The nine artifact pins and earlier receiving/pending wording record exact semantic-adoption/publication-source bodies. This current full gate and the current entrypoint govern subsequent uptake; no original body or first output is retroactively repaired.",
+  "post_gate_current_operation": "Continue remaining individual/event/alias dispositions, further proportional artifacts and profiles, expanded specialists and separately versioned six models, designated curation/evaluation/integration and component/release/final-entry audits. Hoost own cross-source review is next; no new source admission or full-program completion."
 }
