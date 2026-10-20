@@ -1233,3 +1233,10 @@ Town defense and a court crisis do not suspend individual agency or costs. DUST0
 Lolisa’s doorway refusal DUST05U011999,Yunyun’s acceptance1002,Cecily’s restraint1005/1009,release pleas1026 and Dust’s eventual intervention1030 retain separate agents and stages. Rionor’s actual forced test CONTU01495-100 imposes pain/paralysis despite release requests; her reported tolerance101 and later protective action562-570 cannot backdate Dust’s consent. The later discharge also affects him573. Feit’s power does not make hunger,unasked bodily use or care needs irrelevant. Later warmth,reward,utility and survival are not comprehensive repair.
 
 Individual retrieval: [Lolisa](../08%20Evidence%20and%20Indexes/KONOSUBA_LOLISA_EVIDENCE_INDEX.md),[Rionor](../08%20Evidence%20and%20Indexes/KONOSUBA_RIONOR_EVIDENCE_INDEX.md),[Feit](../08%20Evidence%20and%20Indexes/KONOSUBA_FEIT_EVIDENCE_INDEX.md). Shared [native provenance](../08%20Evidence%20and%20Indexes/KONOSUBA_LOLISA_ROYAL_DRAGON_NATIVE_PROVENANCE_01.json). Exact containing publication remains pending; full program continues.
+
+
+## Cohort17 Wolbach and Chomusuke — 2026-10-20T16:06:56.617701+00:00
+
+Chomusuke’s EXP01U023 pot distress/bite,EXP02U02371-72 resistance and U044510/516 actual struggle/throw remain real despite comedy. Megumin begins Explosion with the creature in danger521-527,resumes535,and is interrupted by separate events; survival is not safe process or consensual sacrifice. Kazuma’s staring/dismissed privacy request MAIN04C3 and direct threat MAIN09C3P373 matter despite Wolbach’s power/later warmth. Wolbach’s continued siege,refused terms and stated destructive-half plan remain adverse evidence,not erased by the uncertain final smile or Megumin’s gratitude.
+
+Individual [Wolbach](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_EVIDENCE_INDEX.md) and [Chomusuke](../08%20Evidence%20and%20Indexes/KONOSUBA_CHOMUSUKE_EVIDENCE_INDEX.md) indices; [shared provenance](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_CHOMUSUKE_NATIVE_PROVENANCE_01.json). Exact containing publication pending; full program active.

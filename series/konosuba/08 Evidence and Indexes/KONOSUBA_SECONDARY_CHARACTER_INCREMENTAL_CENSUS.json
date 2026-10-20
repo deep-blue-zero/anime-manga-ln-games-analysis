@@ -1,8 +1,8 @@
 {
   "schema": "KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS_V1",
   "status": "INCREMENTAL_187_QUALIFIED_RECORDS_NOT_FINAL_INDIVIDUAL_DENOMINATOR",
-  "updated_utc": "2026-10-20T14:54:40.490143+00:00",
-  "scope": "Cohorts01-15 retain their closed exact-source gates. Cohort16 adds one conditional Lolisa model and three individual monographs with exact containing publication pending; Rionor and Feit are monograph-only Tier2 with future reconstruction open. Candidate24models/eighteen scoped secondary subjects/fifteen bounded profiles/three monograph-only subjects including Nos.187qualifiedsource-bound records are nonfinal; full census/final tiers/program remain open.",
+  "updated_utc": "2026-10-20T16:09:06.702226+00:00",
+  "scope": "Cohorts01-16 retain their closed exact-source gates. Cohort17 adds one conditional Wolbach model and two individual monographs,exact containing publication pending; Chomusuke Tier2monograph-only with future modeling open. Candidate25models/nineteen scoped secondary subjects/fifteen profiles/four monograph-only subjects Nos/Rionor/Feit/Chomusuke.187qualifiedsource-bound records are nonfinal; full census/final tiers/program open.",
   "row_semantics": "Distinct qualified working subjects plus explicitly unresolved grouped/identity leads. A row is not automatically one final individual or an earned artifact. Old scope phrases remain their recorded history; the root current scope governs present admission status.",
   "artifact_architecture": "Use existing05 Specialist Synthesis for earned monographs and06 Character Modeling and Reconstruction for distinct mechanism models. Existing ledgers carry bounded profiles unless a separate responsibility is justified. Single current corpus map; curator-only global registry/index enrollment.",
   "rows": [
@@ -786,12 +786,12 @@
     {
       "character": "Small / Lolisa",
       "identity": "小さなサキュバス; ロリーサ explicitly invented alias DUST02C02P542-545; true name undisclosed; MASK unnamed small join unresolved",
-      "likely_tier": "3 scoped conditional candidate; containing publication pending",
-      "priority": "Distinct monograph/model received; exact containing publication pending; wider individual review continues",
+      "likely_tier": "3 scoped conditional reconstruction; cohort16 full gate closed; reliability provisional",
+      "priority": "Scoped artifact gate closed; broader individual review and full program continue",
       "evidence_distribution": "DUST02 alias report; DUST03/04; MASK succubi network. FullMASKU019648Pbase-textreceived; properaliasjoinstillunresolvedforunnamedsmallfigure. Complete Dust05 report210L and actual721nativeP across3 accepted units now received; direct native support is restricted to the recorded windows, not every report scene. Complete Dust06 accepted report157L received; actual current216nativeP are only U010596-640/U012427-597 Leen-viewpoint joins, not every report scene. Complete Dust07 report192L now received; current native1179P across4units supports only its actual recorded windows, epilogue alone complete at base-text scope. Complete unnumbered Dust continuation report220L received; current387nativeP across4units includes complete34P private epilogue and75P Leen viewpoint, other windows bounded. COHORT16: Seven later shared pre-case packets2902knownBASEcontexts/18members/7objects plus separately dated post-case20Pprecision return; not individual appearances,new full/ruby/image or independent tests. Exact source/access in new individual index and shared provenance.",
       "substantive_responsibility": "Professional investigation, chosen clientele, business goals, explicit refusals and actual aid; fear has witnessed causes. NativeMASKunnamedsmallfigure ownrefusal/choice454, actualfear482 andprotectiveoffer512-513/528; no lifedecrementreported560. Leader509/530 is distinct. Godannihilationrisk529 limits ownriskclaim528. Laterrefusal to eraseV593-594 coexistswith hierarchy590; not blanketconsent/retrospectivewagerauthorization. Dust05 native: expressed reluctance to Vanir request U011971 precedes distinct doorway refusal999 explicitly respected by Yunyun1002, actual Cecily restraint/ignored distress, Dust release and later independent Dust forced recruitment under V permission remain separate; chosen skills/work and manager approval do not grant unlimited assent. Dust07 native: owns refusal563/remembered deception567; Dust knowingly supplies counterfeit inducement578. Actual task yes587, real exit offer610 and her revenge choice611 precede praise618, so no praise-only causal isolation. Actual cover/information work, objection to apparent enemy aid701 and explained agreement705 differ from later report no-veto towing/cold. Actual Keith removal coagency and privacy intrusion/final praise coexist; not a freely available obedient resource. DUST-CONT explicitロリーサ, actual map/interview enthusiasm/own learningU012478-480; usable veto to cheap praiseU013140, different object-valued agreement149-155 and actual two-guard lure193. Local anything rhetoric not universal permission; no counterfeit manufacture stated for current handkerchief. Later actual capture298, no guaranteed recovery. Refuses Dust help during actual forced shockU01483/moves safe88; performer agency and harmful choices coexist. COHORT16: Own business/customer/branch aims,particular Vanir opportunity and selective refusal coexist with actual skill,fallible classification and knowingly fabricated accusation. Three rules/four preserved first replies/zero regeneration; generic rivals,unprobed R02,compound H02input and same preparatory grip retained. MASK unknown-small events excluded from individual rule support.",
-      "gaps": "The invented alias is established; true name,exact age and the MASK unnamed-small join remain unresolved. The scoped Lolisa monograph and conditional model are semantically received with containing publication pending. Generic occupational/business/admiration rivals,mostly unprobed R02 and own-threat R03branches,unknown weights/thresholds,unfamiliar transfer,Japanese adequacy and independent prediction remain open. No new full-source/ruby/image/accuracy/grade/confidence finding or completed global census/program.",
-      "disposition_status": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+      "gaps": "The invented alias is established; true name,exact age and the MASK unnamed-small join remain unresolved. The scoped Lolisa monograph and conditional model are semantically received with containing publication pending. Generic occupational/business/admiration rivals,mostly unprobed R02 and own-threat R03branches,unknown weights/thresholds,unfamiliar transfer,Japanese adequacy and independent prediction remain open. No new full-source/ruby/image/accuracy/grade/confidence finding or completed global census/program. Cohort16 exact publication gate and fresh authority reload closed; no general readiness,independent accuracy,Japanese adequacy,grade or confidence gain.",
+      "disposition_status": "SCOPED_TIER3_COHORT16_PUBLISHED_FULL_GATE_CLOSED",
       "independent_observation_count": null,
       "prior_cohort16_current_fields": {
         "likely_tier": "2–3 unresolved",
@@ -811,17 +811,52 @@
         "series/konosuba/06 Character Modeling and Reconstruction/LOLISA_EXPANDED_V1_EVIDENCE/LOLISA_FIRST_OUTPUTS_01.json",
         "series/konosuba/06 Character Modeling and Reconstruction/LOLISA_EXPANDED_V1_EVIDENCE/LOLISA_INTERNAL_ASSESSMENT_01.json"
       ],
-      "cohort16_semantic_receiving_sha256": "35f3fed444caf7fd021e9728bd5ba918b63fccb798a26ad0c67d084a6a2ef1db"
+      "cohort16_semantic_receiving_sha256": "35f3fed444caf7fd021e9728bd5ba918b63fccb798a26ad0c67d084a6a2ef1db",
+      "cohort16_publication_pending_at_authorship_history": {
+        "likely_tier": "3 scoped conditional candidate; containing publication pending",
+        "priority": "Distinct monograph/model received; exact containing publication pending; wider individual review continues",
+        "disposition_status": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+        "gaps": "The invented alias is established; true name,exact age and the MASK unnamed-small join remain unresolved. The scoped Lolisa monograph and conditional model are semantically received with containing publication pending. Generic occupational/business/admiration rivals,mostly unprobed R02 and own-threat R03branches,unknown weights/thresholds,unfamiliar transfer,Japanese adequacy and independent prediction remain open. No new full-source/ruby/image/accuracy/grade/confidence finding or completed global census/program."
+      },
+      "cohort16_publication_resolution": {
+        "status": "SCOPED_LOLISA_MODEL_AND_THREE_MONOGRAPHS_FULL_EXACT_SOURCE_GATE_CLOSED",
+        "source": "5ec165a0b9a209ad3d8781e751a3feb4064484e7",
+        "tree": "7e0431ff118502689b4e3f2bab0d4901b8c06975",
+        "closed_utc": "2026-10-20T15:27:20.274975+00:00",
+        "gate_path": "09 Audits and Manifests/KONOSUBA_LOLISA_ROYAL_DRAGON_COHORT16_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "807862a786110d2dcfd400d1024b808b1d07cf95270e26a030a791170e88ba30",
+        "source_run": 39445400476,
+        "housekeeping_run": 39446324144,
+        "final_run": 39446399201,
+        "all_remote_paths": 9314,
+        "all_changed_streams": 33,
+        "full_tests_source_and_final": 385,
+        "fresh_project_reload_paths": 1138,
+        "current_model_bodies": 24,
+        "new_model_bodies": 1,
+        "new_monographs": 3,
+        "scoped_secondary_model_subjects": 18,
+        "bounded_profiles": 15,
+        "monograph_only_subjects": [
+          "Nos",
+          "Rionor",
+          "Feit"
+        ],
+        "actual_internal_first_bodies": 4,
+        "regenerations": 0,
+        "independent_accuracy_or_confidence_gain": false,
+        "full_program_complete": false
+      }
     },
     {
       "character": "Rionor",
       "identity": "リオノール; Leenリーン and Irisアイリス distinct; レオノール initial seed not verified identity; apparent CONT ceremony bride is Leen331-334",
-      "likely_tier": "2 scoped monograph; containing publication pending",
-      "priority": "Individual monograph received; exact containing publication pending; future model remains open",
+      "likely_tier": "2 scoped individual monograph; cohort16 full gate closed; future reconstruction open",
+      "priority": "Scoped artifact gate closed; broader individual review and full program continue",
       "evidence_distribution": "DUST06 current/prior princess report; earlier lady memories require joins. Complete Dust06 accepted report157L received; actual current216nativeP are only U010596-640/U012427-597 Leen-viewpoint joins, not every report scene. Complete unnumbered Dust continuation report220L received; current387nativeP across4units includes complete34P private epilogue and75P Leen viewpoint, other windows bounded. COHORT16: Seven later shared pre-case packets2902knownBASEcontexts/18members/7objects plus separately dated post-case20Pprecision return; not individual appearances,new full/ruby/image or independent tests. Exact source/access in new individual index and shared provenance.",
       "substantive_responsibility": "Royal freedom/duty and a knight's actual choice cannot be reconstructed solely from Iris romantic legend. Native リオノール names620/626 and maid explicit plan455 join present princess distinct from Leen. Letter offers exit498 and old-information/compensation incentives490; claims and actual recipient choices remain separate. Photographed old association505-511 does not certify all reported history. DUST-CONT complete report shows real welfare visit/apology/final risk, but actual nativeU01459-108 forces Dust through pain-band test despite repeated refusals. Her own reported tolerance does not erase his pain/paralysis. Rionor reports using magic on Leen CONTU01437; named Sleep is Dust inference38,not a watched named cast. The reported override still concerns Leen’s own choice. Willing Doreck contract omits her informed choice. Bare-name permission/actual cooling-off travel in report not complete identical exile, marriage or registered class. COHORT16: Substantial monograph retains nested old apology/reported political concession,present invasive teasing,actual forced shock and later owned protective risk with collateral harm. Apparent bride’s disclosure is Leen’s. Doreck willingness not her informed assent; travel actual,vocation proposed. No automatic model; future Tier3 open.",
-      "gaps": "Nativeリオノール and the Leen identity/disguise boundaries are established at the cited scope;レオノール remains an unverified seed. Concentrated court/relationship contexts and attributed past accounts limit distinct model identifiability; own knowledge,unfamiliar work,long-term follow-through and prospective validation remain open. Scoped Tier2monograph without automatic model; future Tier3 remains possible. No new full-source/ruby/image/accuracy/grade/confidence finding or completed global census/program.",
-      "disposition_status": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+      "gaps": "Nativeリオノール and the Leen identity/disguise boundaries are established at the cited scope;レオノール remains an unverified seed. Concentrated court/relationship contexts and attributed past accounts limit distinct model identifiability; own knowledge,unfamiliar work,long-term follow-through and prospective validation remain open. Scoped Tier2monograph without automatic model; future Tier3 remains possible. No new full-source/ruby/image/accuracy/grade/confidence finding or completed global census/program. Cohort16 exact publication gate and fresh authority reload closed; no general readiness,independent accuracy,Japanese adequacy,grade or confidence gain.",
+      "disposition_status": "SCOPED_TIER2_COHORT16_PUBLISHED_FULL_GATE_CLOSED",
       "independent_observation_count": null,
       "prior_cohort16_current_fields": {
         "likely_tier": "2 candidate",
@@ -836,17 +871,52 @@
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_RIONOR_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_LOLISA_ROYAL_DRAGON_NATIVE_PROVENANCE_01.json"
       ],
-      "cohort16_semantic_receiving_sha256": "35f3fed444caf7fd021e9728bd5ba918b63fccb798a26ad0c67d084a6a2ef1db"
+      "cohort16_semantic_receiving_sha256": "35f3fed444caf7fd021e9728bd5ba918b63fccb798a26ad0c67d084a6a2ef1db",
+      "cohort16_publication_pending_at_authorship_history": {
+        "likely_tier": "2 scoped monograph; containing publication pending",
+        "priority": "Individual monograph received; exact containing publication pending; future model remains open",
+        "disposition_status": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+        "gaps": "Nativeリオノール and the Leen identity/disguise boundaries are established at the cited scope;レオノール remains an unverified seed. Concentrated court/relationship contexts and attributed past accounts limit distinct model identifiability; own knowledge,unfamiliar work,long-term follow-through and prospective validation remain open. Scoped Tier2monograph without automatic model; future Tier3 remains possible. No new full-source/ruby/image/accuracy/grade/confidence finding or completed global census/program."
+      },
+      "cohort16_publication_resolution": {
+        "status": "SCOPED_LOLISA_MODEL_AND_THREE_MONOGRAPHS_FULL_EXACT_SOURCE_GATE_CLOSED",
+        "source": "5ec165a0b9a209ad3d8781e751a3feb4064484e7",
+        "tree": "7e0431ff118502689b4e3f2bab0d4901b8c06975",
+        "closed_utc": "2026-10-20T15:27:20.274975+00:00",
+        "gate_path": "09 Audits and Manifests/KONOSUBA_LOLISA_ROYAL_DRAGON_COHORT16_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "807862a786110d2dcfd400d1024b808b1d07cf95270e26a030a791170e88ba30",
+        "source_run": 39445400476,
+        "housekeeping_run": 39446324144,
+        "final_run": 39446399201,
+        "all_remote_paths": 9314,
+        "all_changed_streams": 33,
+        "full_tests_source_and_final": 385,
+        "fresh_project_reload_paths": 1138,
+        "current_model_bodies": 24,
+        "new_model_bodies": 1,
+        "new_monographs": 3,
+        "scoped_secondary_model_subjects": 18,
+        "bounded_profiles": 15,
+        "monograph_only_subjects": [
+          "Nos",
+          "Rionor",
+          "Feit"
+        ],
+        "actual_internal_first_bodies": 4,
+        "regenerations": 0,
+        "independent_accuracy_or_confidence_gain": false,
+        "full_program_complete": false
+      }
     },
     {
       "character": "Feit / Faitifore",
       "identity": "フェイトフォー; own child voiceふぇいとふぉー; current white-dragon/child-form identity explicit; English Feit/Faitifore are working labels; exact age unknown",
-      "likely_tier": "2 scoped monograph; containing publication pending",
-      "priority": "Individual monograph received; exact containing publication pending; future model remains open",
+      "likely_tier": "2 scoped individual monograph; cohort16 full gate closed; future reconstruction open",
+      "priority": "Scoped artifact gate closed; broader individual review and full program continue",
       "evidence_distribution": "DUST05-07 child/dragon leads; DUST06/07 report windows. Complete Dust05 report210L and actual721nativeP across3 accepted units now received; direct native support is restricted to the recorded windows, not every report scene. Complete Dust06 accepted report157L received; actual current216nativeP are only U010596-640/U012427-597 Leen-viewpoint joins, not every report scene. Complete Dust07 report192L now received; current native1179P across4units supports only its actual recorded windows, epilogue alone complete at base-text scope. Complete unnumbered Dust continuation report220L received; current387nativeP across4units includes complete34P private epilogue and75P Leen viewpoint, other windows bounded. COHORT16: Seven later shared pre-case packets2902knownBASEcontexts/18members/7objects plus separately dated post-case20Pprecision return; not individual appearances,new full/ruby/image or independent tests. Exact source/access in new individual index and shared provenance.",
       "substantive_responsibility": "Own agency, attachment, specific power/resources and chosen care; nonsexual child bond. Dust05 exact transformation622, stated unwanted loss of control625, wanted embrace640-641 and present stay708 differ from prior refused carrying/material-transfer permission gap696. Powers do not erase childlike preferences or care needs. Dust07 child-sensitive native: food incentive overrides initial help movement771; Dust later incomplete-understanding claim896 is his appraisal. Own food sharingU012289, specific load/protection yes in report, learned clothing careU013468, heat-risk acknowledgment544 and actual cooperative flight retain agency. Epilogue master/partner attachment is nonsexual; adult approach interruption and later sleeping-care adjustment have distinct responsibilities. DUST-CONT full report adds owned hair-for-snacks actual transfer, own cookie offer, wanted walk/book, current public transformation and specific yeses; these are report-supported here, not all directly rechecked in387P. Owned current material trade does not authorize earlier third-party use. Child partner attachment nonsexual and understanding of full battle plan limited. COHORT16: Substantial nonsexual child-form monograph retains own finite hair agreement/transfer,walk/book choice,sharing,particular trust,specific flight assent and skilled cooperation without full plan knowledge. Power not adult autonomy. Missed-breakfast attribution/assent remain unknown; prior material use not authorized by current exchange. No automatic model; future Tier3 open.",
-      "gaps": "Current nativeフェイトフォー/ownふぇいとふぉー and white-dragon/child-form identity are established at the cited scope; English labels remain working conventions. Exact age,complete development,market understanding,full plan knowledge and the missed-breakfast decision/assent remain unresolved. Generic caregiver attachment/appetite/practiced-cooperation rivals limit a distinct model. Scoped Tier2monograph with future Tier3open; nonsexual care. No new full-source/ruby/image/accuracy/grade/confidence finding or completed global census/program.",
-      "disposition_status": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+      "gaps": "Current nativeフェイトフォー/ownふぇいとふぉー and white-dragon/child-form identity are established at the cited scope; English labels remain working conventions. Exact age,complete development,market understanding,full plan knowledge and the missed-breakfast decision/assent remain unresolved. Generic caregiver attachment/appetite/practiced-cooperation rivals limit a distinct model. Scoped Tier2monograph with future Tier3open; nonsexual care. No new full-source/ruby/image/accuracy/grade/confidence finding or completed global census/program. Cohort16 exact publication gate and fresh authority reload closed; no general readiness,independent accuracy,Japanese adequacy,grade or confidence gain.",
+      "disposition_status": "SCOPED_TIER2_COHORT16_PUBLISHED_FULL_GATE_CLOSED",
       "independent_observation_count": null,
       "prior_cohort16_current_fields": {
         "likely_tier": "1–2 unresolved",
@@ -860,30 +930,85 @@
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_FEIT_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_LOLISA_ROYAL_DRAGON_NATIVE_PROVENANCE_01.json"
       ],
-      "cohort16_semantic_receiving_sha256": "35f3fed444caf7fd021e9728bd5ba918b63fccb798a26ad0c67d084a6a2ef1db"
+      "cohort16_semantic_receiving_sha256": "35f3fed444caf7fd021e9728bd5ba918b63fccb798a26ad0c67d084a6a2ef1db",
+      "cohort16_publication_pending_at_authorship_history": {
+        "likely_tier": "2 scoped monograph; containing publication pending",
+        "priority": "Individual monograph received; exact containing publication pending; future model remains open",
+        "disposition_status": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+        "gaps": "Current nativeフェイトフォー/ownふぇいとふぉー and white-dragon/child-form identity are established at the cited scope; English labels remain working conventions. Exact age,complete development,market understanding,full plan knowledge and the missed-breakfast decision/assent remain unresolved. Generic caregiver attachment/appetite/practiced-cooperation rivals limit a distinct model. Scoped Tier2monograph with future Tier3open; nonsexual care. No new full-source/ruby/image/accuracy/grade/confidence finding or completed global census/program."
+      },
+      "cohort16_publication_resolution": {
+        "status": "SCOPED_LOLISA_MODEL_AND_THREE_MONOGRAPHS_FULL_EXACT_SOURCE_GATE_CLOSED",
+        "source": "5ec165a0b9a209ad3d8781e751a3feb4064484e7",
+        "tree": "7e0431ff118502689b4e3f2bab0d4901b8c06975",
+        "closed_utc": "2026-10-20T15:27:20.274975+00:00",
+        "gate_path": "09 Audits and Manifests/KONOSUBA_LOLISA_ROYAL_DRAGON_COHORT16_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "807862a786110d2dcfd400d1024b808b1d07cf95270e26a030a791170e88ba30",
+        "source_run": 39445400476,
+        "housekeeping_run": 39446324144,
+        "final_run": 39446399201,
+        "all_remote_paths": 9314,
+        "all_changed_streams": 33,
+        "full_tests_source_and_final": 385,
+        "fresh_project_reload_paths": 1138,
+        "current_model_bodies": 24,
+        "new_model_bodies": 1,
+        "new_monographs": 3,
+        "scoped_secondary_model_subjects": 18,
+        "bounded_profiles": 15,
+        "monograph_only_subjects": [
+          "Nos",
+          "Rionor",
+          "Feit"
+        ],
+        "actual_internal_first_bodies": 4,
+        "regenerations": 0,
+        "independent_accuracy_or_confidence_gain": false,
+        "full_program_complete": false
+      }
     },
     {
       "character": "Wolbach",
-      "identity": "ウォルバク; relation to Chomusuke needs exact state joins",
-      "likely_tier": "2–3 unresolved",
-      "priority": "Discovery",
-      "evidence_distribution": "MAIN04 unnamed bath woman native; MAIN09 report; Explosions leads. CURRENT WORKING27: CompleteMAIN09derivative separates consideratebathconversation,rememberedinvitation,mentor/rescuerrole,enemycommand,nonaggressionrefusal andstateddivided-powercondition. Allegiancemotive unanswered;recognitioninferredbyMegumin,smilequalifiedbyKazuma andforgiveness/deathplanunproven. HistoricalV09boundedprofile isnot a permanenttierceiling; broaderacceptedEXP/main evidence canearn proportionalindependentwork.",
-      "substantive_responsibility": "Teacher/opponent/partial-self reports and valued relation need distinct actors' information.",
-      "gaps": "EXP03 final interlude native20page recheck includes8pages with an unnamed red-haired/yellow-eyed woman: real hospitality, reported lost subordinates, plan-timing hint, invitation and actual separation. Reader identity backjoin to later Wolbach authority still required; Yunyun explicitly forgets to ask her name. Do not assign her later knowledge or treat the hinted Alcanretia plan as performed. Current working27 qualification: CompleteMAIN09derivative separates consideratebathconversation,rememberedinvitation,mentor/rescuerrole,enemycommand,nonaggressionrefusal andstateddivided-powercondition. Allegiancemotive unanswered;recognitioninferredbyMegumin,smilequalifiedbyKazuma andforgiveness/deathplanunproven. HistoricalV09boundedprofile isnot a permanenttierceiling; broaderacceptedEXP/main evidence canearn proportionalindependentwork.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "identity": "ウォルバク; Hans explicitly names the bath woman in MAIN04 C3 continuation (item/xhtml/p-010.xhtml) P53; carriage/earlier-rescuer joins retain exact reader access; Chomusuke half relation does not merge current minds",
+      "likely_tier": "3 scoped conditional candidate; containing publication pending",
+      "priority": "Scoped secondary reconstruction",
+      "evidence_distribution": "COHORT17 current shared recheck3093knownBASEcontextslots/twenty text members/seven objects plus eight actual EXP03 prose-image inspections with visible ruby. Exact individual/support/access in new index and shared provenance. Earlier accepted reports retain their qualified scopes,not another fresh full-source pass.",
+      "substantive_responsibility": "Separate monograph/four-rule conditional model retains finite help and ordinary pleasure alongside committed warfare,fallible cat/Aqua/Satou classification,guarded disclosure and destructive power-recovery account. Four actual first saved English bodies preserve generic rivals and uncued H02B obligation argument; no regeneration/repair.",
+      "gaps": "Allegiance motive,each denial’s actual memory,complete half/power/recovery mechanism and broader prospective rule discrimination remain unresolved. Apparent final smile is qualified. Four source-known same-author English hypotheticals largely leave R03/R04 unprobed; no independent accuracy,Japanese adequacy,grade or confidence gain.",
+      "disposition_status": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
       "independent_observation_count": null,
       "prior_gap_history_working26": "EXP03 final interlude native20page recheck includes8pages with an unnamed red-haired/yellow-eyed woman: real hospitality, reported lost subordinates, plan-timing hint, invitation and actual separation. Reader identity backjoin to later Wolbach authority still required; Yunyun explicitly forgets to ask her name. Do not assign her later knowledge or treat the hinted Alcanretia plan as performed.",
-      "current_scope_asof_working27": "All17mainexcluded/19supplemental/5mixed declared source gates remain closed. Iris/Yunyun/Vanir scoped cohorts have closed full gates; Vanir source90fb18d5302711cb265687c140ab5d5d151ebe06. Wiz overallcohort04 is semantically received at a provisionalTier3 boundary, exact publication gate pending. Full individual census/joins/incidental dispositions/remaining earned artifacts, expanded specialist/versioned principal-party-transfer revisions, curator enrollment/integration and component/release/final-entry audits remain active. No new source admission or global completion claim."
+      "current_scope_asof_working27": "All17mainexcluded/19supplemental/5mixed declared source gates remain closed. Iris/Yunyun/Vanir scoped cohorts have closed full gates; Vanir source90fb18d5302711cb265687c140ab5d5d151ebe06. Wiz overallcohort04 is semantically received at a provisionalTier3 boundary, exact publication gate pending. Full individual census/joins/incidental dispositions/remaining earned artifacts, expanded specialist/versioned principal-party-transfer revisions, curator enrollment/integration and component/release/final-entry audits remain active. No new source admission or global completion claim.",
+      "prior_cohort17_current_fields": {
+        "likely_tier": "2–3 unresolved",
+        "priority": "Discovery",
+        "identity": "ウォルバク; relation to Chomusuke needs exact state joins",
+        "evidence_distribution": "MAIN04 unnamed bath woman native; MAIN09 report; Explosions leads. CURRENT WORKING27: CompleteMAIN09derivative separates consideratebathconversation,rememberedinvitation,mentor/rescuerrole,enemycommand,nonaggressionrefusal andstateddivided-powercondition. Allegiancemotive unanswered;recognitioninferredbyMegumin,smilequalifiedbyKazuma andforgiveness/deathplanunproven. HistoricalV09boundedprofile isnot a permanenttierceiling; broaderacceptedEXP/main evidence canearn proportionalindependentwork.",
+        "substantive_responsibility": "Teacher/opponent/partial-self reports and valued relation need distinct actors' information.",
+        "gaps": "EXP03 final interlude native20page recheck includes8pages with an unnamed red-haired/yellow-eyed woman: real hospitality, reported lost subordinates, plan-timing hint, invitation and actual separation. Reader identity backjoin to later Wolbach authority still required; Yunyun explicitly forgets to ask her name. Do not assign her later knowledge or treat the hinted Alcanretia plan as performed. Current working27 qualification: CompleteMAIN09derivative separates consideratebathconversation,rememberedinvitation,mentor/rescuerrole,enemycommand,nonaggressionrefusal andstateddivided-powercondition. Allegiancemotive unanswered;recognitioninferredbyMegumin,smilequalifiedbyKazuma andforgiveness/deathplanunproven. HistoricalV09boundedprofile isnot a permanenttierceiling; broaderacceptedEXP/main evidence canearn proportionalindependentwork.",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort17_artifacts": [
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_WOLBACH_CHARACTER_MONOGRAPH.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_WOLBACH_RECONSTRUCTION_MODEL.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_WOLBACH_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_WOLBACH_CHOMUSUKE_NATIVE_PROVENANCE_01.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/WOLBACH_EXPANDED_V1_EVIDENCE/WOLBACH_RULE_INVENTORY_01.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/WOLBACH_EXPANDED_V1_EVIDENCE/WOLBACH_SCENARIO_INPUTS_01.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/WOLBACH_EXPANDED_V1_EVIDENCE/WOLBACH_FIRST_OUTPUTS_01.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/WOLBACH_EXPANDED_V1_EVIDENCE/WOLBACH_INTERNAL_ASSESSMENT_01.json"
+      ],
+      "cohort17_semantic_receiving_sha256": "12b5988152273cdaac150817e79ddb3a5c12f5518ca80d6bc73be1a11811d2f9"
     },
     {
       "character": "Chomusuke",
-      "identity": "ちょむすけ",
-      "likely_tier": "1–2 unresolved",
-      "priority": "Discovery",
-      "evidence_distribution": "Complete EXP01-03 reports; earlier MAIN03/04 native observations and later-main leads. CURRENT WORKING22: FullYORI02report29 and current MAIN15prologue44base-textP. CURRENT WORKING23: MAIN16: complete 18 newly admitted resources/121 P with ruby and residuals and 28 images, sealed before coding; current 1,395 unique accepted-principal BASE-TEXT P across ten members, six complete at base-text scope. No new principal pass, retained-ruby or independent-validation credit. Complete I1 P1–45 and corrected IMG021. CURRENT WORKING24: Complete accepted MAIN01–04 reports and original V01–V03 checkpoint actually reviewed at derivative scope (receipts32–36); bounded MAIN02 Keele116 P / MAIN04 epilogue94 P native receipt separately recorded. MAIN17 complete new15resources71 P/25images and1,517 retained BASE-TEXT P acrossfiveunits are actual at their stated scopes, not new whole-principal/ruby/independent passes. CURRENT WORKING27: MAIN09bathpreference,apparentgrowth/name-response areKazumaobservations. Sharedmemory,restoredpersonhood,futureform andallmechanicsofdivideddivinity remainunproven; report/checkpointrepetition createsnoindependentreconstructiontest ornewindividual. CURRENT WORKING29: Complete MAIN10/12 reports preserve cryptic/growth speculation and Megumin's reported changed food/bath/laundry behavior. CURRENT WORKING31: Current complete MAIN13-MAIN16 accepted report review, receipts49-52; derivative claims retain original access planes. Targeted native confirmations are separately pinned, with no new whole-source/independent-test credit.",
-      "substantive_responsibility": "Actual resistance, attachment, learned/instrumental roles and different actors' knowledge; food/care question unanswered, neither neglect diagnosis nor automatic consent from affection. CURRENT WORKING22: Abduction vulnerability, competing possible causes of weakness, fairy-cook danger signaling that leads Kazuma to restrain Chom, and actual fish-taking/attack remain separate. Aqua's claimed fire/identity knowledge is not the narrator's direct observation or a certified complete identity mechanism. CURRENT WORKING23: Actual headbutt, refusal of belly contact and claws are meaningful creature responses. Aqua's narration and dragon judgments about Zel are separate. No nest or egg event is received from IMG021; the bird rests on a cast-off Vanir shell. CURRENT WORKING24: MAIN03 report gives named domestic recruitment/resistance/evil-aura and fire claims at unequal knowledge levels. MAIN17 creator afterword uses a hypothetical appraisal/class description; it is not a newly performed appraisal test or actual transformation. CURRENT WORKING31: MAIN15Pr stolen fish, hierarchy resistance and scratch have different routes from Aqua fire/soap report while Kazuma averts gaze. MAIN16I1 scolding/petting/bargaining preserves particular care and animal agency without human speech.",
-      "gaps": "No certified restored memory, divine form, motive or new direct act from reported preference. Earlier source-plane identity questions remain separate. CURRENT WORKING31 QUALIFICATION: Keep existing Wolbach/source relation at exact prior proof. No invented present witnessed fire/species certainty or universal human divinity challenge from nonverbal resistance; no voice/artifact person merger.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "identity": "ちょむすけ; earlierクロ/Kuro variants join same small creature; called Wolbach by Arnes and half/partner by speaking Wolbach; complete memory/power/personhood mechanism unresolved",
+      "likely_tier": "2 scoped monograph; containing publication pending",
+      "priority": "Scoped monograph; future modeling open",
+      "evidence_distribution": "COHORT17 current shared recheck3093knownBASEcontextslots/twenty text members/seven objects plus eight actual EXP03 prose-image inspections with visible ruby. Exact individual/support/access in new index and shared provenance. Earlier accepted reports retain their qualified scopes,not another fresh full-source pass.",
+      "substantive_responsibility": "Substantial individual monograph retains actual approach,feeding/contact,resistance,unwanted uses and bodily vulnerability without inventing adult interior. Generic creature/conditioning/state rivals remain; no automatic model or cases. Human caretakers’ help and harmful acts retain distinct agency.",
+      "gaps": "Comprehension,memory continuity,power access,causes/durability of bathing change,unmeasured growth and weak-episode care/diagnosis remain open. Earlier MAIN03/later MAIN10/12/17 analytical leads retain exact access and return questions. Tier2 is revisable; narrower model could be earned,not forbidden by pet status or appearance count.",
+      "disposition_status": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
       "independent_observation_count": null,
       "prior_gap_history_working21": "Exact behavior/state and divine-continuity joins. Pet collateral and recognized-person target differ; no universal identity/knowledge merge.",
       "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded.",
@@ -898,7 +1023,22 @@
       "cohort05_current_evidence_qualification": "Complete MAIN10/12 reports preserve cryptic/growth speculation and Megumin's reported changed food/bath/laundry behavior.",
       "prior_gap_history_working30": "No certified restored memory, divine form, motive or new direct act from reported preference. Earlier source-plane identity questions remain separate.",
       "current_scope_asof_working31": "All17 main excluded,19 supplemental and5mixed declared source programs remain closed. Current complete main analytical-derivative review is MAIN01-17 (MAIN17 received earlier out of order); receipts49-52 finishMAIN13-16. Later checkpoints/earlier prospective reconciliation/current ledger and separate supporting-register consolidation, final census/artifacts/expanded models/curation/release remain active. No new source/whole-native/ruby/image/independent-test credit from derivative receiving. Current157qualified audit rows are not final individual population; global percentage null.",
-      "cohort06_current_evidence_qualification": "Current complete MAIN13-16 analytical receiving with exact separate native scope where receipted; historical forecasts and earlier published scoped models/gates remain unchanged. Full independent-event/census closure remains open."
+      "cohort06_current_evidence_qualification": "Current complete MAIN13-16 analytical receiving with exact separate native scope where receipted; historical forecasts and earlier published scoped models/gates remain unchanged. Full independent-event/census closure remains open.",
+      "prior_cohort17_current_fields": {
+        "likely_tier": "1–2 unresolved",
+        "priority": "Discovery",
+        "identity": "ちょむすけ",
+        "evidence_distribution": "Complete EXP01-03 reports; earlier MAIN03/04 native observations and later-main leads. CURRENT WORKING22: FullYORI02report29 and current MAIN15prologue44base-textP. CURRENT WORKING23: MAIN16: complete 18 newly admitted resources/121 P with ruby and residuals and 28 images, sealed before coding; current 1,395 unique accepted-principal BASE-TEXT P across ten members, six complete at base-text scope. No new principal pass, retained-ruby or independent-validation credit. Complete I1 P1–45 and corrected IMG021. CURRENT WORKING24: Complete accepted MAIN01–04 reports and original V01–V03 checkpoint actually reviewed at derivative scope (receipts32–36); bounded MAIN02 Keele116 P / MAIN04 epilogue94 P native receipt separately recorded. MAIN17 complete new15resources71 P/25images and1,517 retained BASE-TEXT P acrossfiveunits are actual at their stated scopes, not new whole-principal/ruby/independent passes. CURRENT WORKING27: MAIN09bathpreference,apparentgrowth/name-response areKazumaobservations. Sharedmemory,restoredpersonhood,futureform andallmechanicsofdivideddivinity remainunproven; report/checkpointrepetition createsnoindependentreconstructiontest ornewindividual. CURRENT WORKING29: Complete MAIN10/12 reports preserve cryptic/growth speculation and Megumin's reported changed food/bath/laundry behavior. CURRENT WORKING31: Current complete MAIN13-MAIN16 accepted report review, receipts49-52; derivative claims retain original access planes. Targeted native confirmations are separately pinned, with no new whole-source/independent-test credit.",
+        "substantive_responsibility": "Actual resistance, attachment, learned/instrumental roles and different actors' knowledge; food/care question unanswered, neither neglect diagnosis nor automatic consent from affection. CURRENT WORKING22: Abduction vulnerability, competing possible causes of weakness, fairy-cook danger signaling that leads Kazuma to restrain Chom, and actual fish-taking/attack remain separate. Aqua's claimed fire/identity knowledge is not the narrator's direct observation or a certified complete identity mechanism. CURRENT WORKING23: Actual headbutt, refusal of belly contact and claws are meaningful creature responses. Aqua's narration and dragon judgments about Zel are separate. No nest or egg event is received from IMG021; the bird rests on a cast-off Vanir shell. CURRENT WORKING24: MAIN03 report gives named domestic recruitment/resistance/evil-aura and fire claims at unequal knowledge levels. MAIN17 creator afterword uses a hypothetical appraisal/class description; it is not a newly performed appraisal test or actual transformation. CURRENT WORKING31: MAIN15Pr stolen fish, hierarchy resistance and scratch have different routes from Aqua fire/soap report while Kazuma averts gaze. MAIN16I1 scolding/petting/bargaining preserves particular care and animal agency without human speech.",
+        "gaps": "No certified restored memory, divine form, motive or new direct act from reported preference. Earlier source-plane identity questions remain separate. CURRENT WORKING31 QUALIFICATION: Keep existing Wolbach/source relation at exact prior proof. No invented present witnessed fire/species certainty or universal human divinity challenge from nonverbal resistance; no voice/artifact person merger.",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort17_artifacts": [
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_CHOMUSUKE_CHARACTER_MONOGRAPH.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CHOMUSUKE_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_WOLBACH_CHOMUSUKE_NATIVE_PROVENANCE_01.json"
+      ],
+      "cohort17_semantic_receiving_sha256": "12b5988152273cdaac150817e79ddb3a5c12f5518ca80d6bc73be1a11811d2f9"
     },
     {
       "character": "Sena",
@@ -3759,9 +3899,10 @@
     "Cecily/Zesta scopedTier3 and Tristan/reporting-priest Tier1 cohort13 full publication gate closed",
     "Four clergy/merchant scopedTier1 profiles cohort14 full publication gate closed",
     "Leen/Keith/Taylor cohort15 scoped conditional Tier3 full publication gate closed; reliability provisional",
-    "Lolisa cohort16 scoped conditional Tier3 and Rionor/Feit scoped Tier2 monographs semantically received; exact containing publication pending; future models not prohibited"
+    "Lolisa scoped conditional Tier3 and Rionor/Feit scoped Tier2 monographs cohort16 full publication gate closed; future modeling open and reliability provisional",
+    "Wolbach cohort17 provisional conditional Tier3 and Chomusuke scoped Tier2 monograph semantically received; exact containing publication pending; future models not prohibited"
   ],
-  "current_actual_individual_audit_scope": "Earlier accepted41source/report programs and full ten-responsibility receiving retain exact qualified scopes. C16seven pre-case packets2902knownBASEcontextslots/18members/7objects plus separately dated post-case20Pprecision check,2922contexts/19members total,include other actors/reports/blanks/prior contexts and no new globalunique/full/ruby/image/admission/independent credit. Three rows17-19 change analytically relative to verified post-C15current census,184others exact; six rows differ from parent76851fae when closure rows14-16 included,181others exact. Four actual source-known same-author English first bodies/zero regeneration retain generic rivals,partial coverage,compound input and invariant chair action. No accuracy/grade/confidence gain.",
+  "current_actual_individual_audit_scope": "Earlier41source/report programs and full ten-responsibility receiving retain qualified scopes. C17shared union3093knownBASEcontextslots/twenty text members/seven objects plus eight actually inspected known EXP03 integral prose images with visible ruby includes collateral material,not new admission/globalcoverage/independent decisions. Only rows20-21 change analytically relative current,185others exact; five rows differ from published5ec165a0when closure17-19 carried,182others exact. Four actual informed same-author English first saved bodies/zero regeneration retain generic rivals,strong input cues,largely unprobed R03/R04 and uncued H02B favor-obligation argument. No independent accuracy/grade/Japanese adequacy/confidence gain. Private historical-only fields outside targets remain separate.",
   "historical_integrity": "MG02-I01/I02 through MG05, original blank fields, CP outcomes, letters-as-NT and preYORI04SEC01 scope remain unchanged. New source-known comparisons are retrospective; hypotheticals are not source validation.",
   "current_receipt_pins": [
     {
@@ -5248,7 +5389,7 @@
     "updated_utc": "2026-10-20T13:47:53.507682+00:00"
   },
   "cohort16_current_receiving": {
-    "status": "SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+    "status": "SCOPED_SEMANTIC_AND_FULL_EXACT_SOURCE_GATE_CLOSED",
     "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_LOLISA_ROYAL_DRAGON_COHORT_16_RECEIVING_AND_PROVENANCE.json",
     "semantic_receiving_sha256": "35f3fed444caf7fd021e9728bd5ba918b63fccb798a26ad0c67d084a6a2ef1db",
     "candidate_models": 24,
@@ -5275,5 +5416,150 @@
       19
     ],
     "untouched_rows_relative_parent": 181
+  },
+  "historical_scope_at_cohort16_semantic_adoption": {
+    "scope": "Cohorts01-15 retain their closed exact-source gates. Cohort16 adds one conditional Lolisa model and three individual monographs with exact containing publication pending; Rionor and Feit are monograph-only Tier2 with future reconstruction open. Candidate24models/eighteen scoped secondary subjects/fifteen bounded profiles/three monograph-only subjects including Nos.187qualifiedsource-bound records are nonfinal; full census/final tiers/program remain open.",
+    "scoped_tiers_assigned": [
+      "Iris cohort01 full publication gate closed",
+      "Yunyun cohort02 full publication gate closed",
+      "Vanir overallcohort03 full publication gate closed",
+      "Wiz overallcohort04 full publication gate closed",
+      "Chris/Eris overallcohort05 full publication gate closed",
+      "Dust overallcohort06 full publication gate closed",
+      "Komekko overallcohort07 full publication gate closed",
+      "Hoost overallcohort08 full publication gate closed",
+      "Levi overallcohort09 full publication gate closed",
+      "Nos cohort10 Tier2 monograph full publication gate closed; no distinct model",
+      "Claire cohort11 scopedTier3 full publication gate closed",
+      "Rain cohort11 scopedTier3 full publication gate closed",
+      "Luna cohort12 scopedTier3 full publication gate closed",
+      "Cecily/Zesta scopedTier3 and Tristan/reporting-priest Tier1 cohort13 full publication gate closed",
+      "Four clergy/merchant scopedTier1 profiles cohort14 full publication gate closed",
+      "Leen/Keith/Taylor cohort15 scoped conditional Tier3 full publication gate closed; reliability provisional",
+      "Lolisa cohort16 scoped conditional Tier3 and Rionor/Feit scoped Tier2 monographs semantically received; exact containing publication pending; future models not prohibited"
+    ],
+    "cohort16_current_receiving": {
+      "status": "SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_LOLISA_ROYAL_DRAGON_COHORT_16_RECEIVING_AND_PROVENANCE.json",
+      "semantic_receiving_sha256": "35f3fed444caf7fd021e9728bd5ba918b63fccb798a26ad0c67d084a6a2ef1db",
+      "candidate_models": 24,
+      "candidate_scoped_secondary_model_subjects": 18,
+      "bounded_profiles": 15,
+      "monograph_only_subjects": [
+        "Nos",
+        "Rionor",
+        "Feit"
+      ],
+      "records_not_final_people": 187,
+      "changed_rows": [
+        17,
+        18,
+        19
+      ],
+      "untouched_rows_relative_current": 184,
+      "parent_changed_rows": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "untouched_rows_relative_parent": 181
+    }
+  },
+  "cohort16_publication_resolution": {
+    "status": "SCOPED_LOLISA_MODEL_AND_THREE_MONOGRAPHS_FULL_EXACT_SOURCE_GATE_CLOSED",
+    "source": "5ec165a0b9a209ad3d8781e751a3feb4064484e7",
+    "tree": "7e0431ff118502689b4e3f2bab0d4901b8c06975",
+    "closed_utc": "2026-10-20T15:27:20.274975+00:00",
+    "gate_path": "09 Audits and Manifests/KONOSUBA_LOLISA_ROYAL_DRAGON_COHORT16_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "807862a786110d2dcfd400d1024b808b1d07cf95270e26a030a791170e88ba30",
+    "source_run": 39445400476,
+    "housekeeping_run": 39446324144,
+    "final_run": 39446399201,
+    "all_remote_paths": 9314,
+    "all_changed_streams": 33,
+    "full_tests_source_and_final": 385,
+    "fresh_project_reload_paths": 1138,
+    "current_model_bodies": 24,
+    "new_model_bodies": 1,
+    "new_monographs": 3,
+    "scoped_secondary_model_subjects": 18,
+    "bounded_profiles": 15,
+    "monograph_only_subjects": [
+      "Nos",
+      "Rionor",
+      "Feit"
+    ],
+    "actual_internal_first_bodies": 4,
+    "regenerations": 0,
+    "independent_accuracy_or_confidence_gain": false,
+    "full_program_complete": false
+  },
+  "cohort16_post_gate_controls": {
+    "targeted_status_rows": [
+      17,
+      18,
+      19
+    ],
+    "other184_rows_exact_versus_published5ec165a0": true,
+    "all24_models_exact": true,
+    "all_original_first_bodies_exact": true,
+    "global_census_closed": false,
+    "final_tiers_assigned": false,
+    "percentage": null
+  },
+  "prior_current_metadata_before_cohort17": {
+    "scope": "Cohorts01-16 have closed exact-source publication gates at their declared scopes: eighteen scoped secondary conditional-model subjects/24model bodies,fifteen bounded profiles and three Tier2monograph-only subjects Nos/Rionor/Feit.187qualifiedsource-bound records include unresolved groups/aliases/occurrence slots and are not final unique people. Model reliability remains provisional; full census,final tiers and program remain open.",
+    "current_actual_individual_audit_scope": "Earlier accepted41source/report programs and full ten-responsibility receiving retain exact qualified scopes. C16seven pre-case packets2902knownBASEcontextslots/18members/7objects plus separately dated post-case20Pprecision check,2922contexts/19members total,include other actors/reports/blanks/prior contexts and no new globalunique/full/ruby/image/admission/independent credit. Three rows17-19 change analytically relative to verified post-C15current census,184others exact; six rows differ from parent76851fae when closure rows14-16 included,181others exact. Four actual source-known same-author English first bodies/zero regeneration retain generic rivals,partial coverage,compound input and invariant chair action. No accuracy/grade/confidence gain.",
+    "scoped_tiers_assigned": [
+      "Iris cohort01 full publication gate closed",
+      "Yunyun cohort02 full publication gate closed",
+      "Vanir overallcohort03 full publication gate closed",
+      "Wiz overallcohort04 full publication gate closed",
+      "Chris/Eris overallcohort05 full publication gate closed",
+      "Dust overallcohort06 full publication gate closed",
+      "Komekko overallcohort07 full publication gate closed",
+      "Hoost overallcohort08 full publication gate closed",
+      "Levi overallcohort09 full publication gate closed",
+      "Nos cohort10 Tier2 monograph full publication gate closed; no distinct model",
+      "Claire cohort11 scopedTier3 full publication gate closed",
+      "Rain cohort11 scopedTier3 full publication gate closed",
+      "Luna cohort12 scopedTier3 full publication gate closed",
+      "Cecily/Zesta scopedTier3 and Tristan/reporting-priest Tier1 cohort13 full publication gate closed",
+      "Four clergy/merchant scopedTier1 profiles cohort14 full publication gate closed",
+      "Leen/Keith/Taylor cohort15 scoped conditional Tier3 full publication gate closed; reliability provisional",
+      "Lolisa scoped conditional Tier3 and Rionor/Feit scoped Tier2 monographs cohort16 full publication gate closed; future modeling open and reliability provisional"
+    ],
+    "updated_utc": "2026-10-20T15:27:39.206585+00:00"
+  },
+  "cohort17_current_receiving": {
+    "status": "SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+    "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_WOLBACH_CHOMUSUKE_COHORT_17_RECEIVING_AND_PROVENANCE.json",
+    "semantic_receiving_sha256": "12b5988152273cdaac150817e79ddb3a5c12f5518ca80d6bc73be1a11811d2f9",
+    "candidate_models": 25,
+    "candidate_scoped_secondary_model_subjects": 19,
+    "bounded_profiles": 15,
+    "monograph_only_subjects": [
+      "Nos",
+      "Rionor",
+      "Feit",
+      "Chomusuke"
+    ],
+    "records_not_final_people": 187,
+    "changed_rows": [
+      20,
+      21
+    ],
+    "untouched_rows_relative_current": 185,
+    "parent_changed_rows": [
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "untouched_rows_relative_parent": 182
   }
 }

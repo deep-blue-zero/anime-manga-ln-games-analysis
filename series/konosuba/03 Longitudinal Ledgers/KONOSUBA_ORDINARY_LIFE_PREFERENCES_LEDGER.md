@@ -1305,3 +1305,10 @@ Leen one continuing vegetable-stick snack is not a universal diet; MASK loan ref
 Lolisa seeks customers,professional learning,chosen travel and a planned Elroad branch DUST04U012227; the branch is not already opened. Rionor wants company,experience and freedom; actual travel CONTU01528 differs from proposed registration/priesthood41 and conditional marriage51. Feit chooses grooming/lap contact CONTU01072-81,ground-level walking U011461-466,a picture book actually bought496,and shares the smaller cookie435-437. These finite ordinary choices matter alongside exceptional feats. A planned career,current gift or offered payment is not a completed life outcome or settled account.
 
 Individual retrieval: [Lolisa](../08%20Evidence%20and%20Indexes/KONOSUBA_LOLISA_EVIDENCE_INDEX.md),[Rionor](../08%20Evidence%20and%20Indexes/KONOSUBA_RIONOR_EVIDENCE_INDEX.md),[Feit](../08%20Evidence%20and%20Indexes/KONOSUBA_FEIT_EVIDENCE_INDEX.md). Shared [native provenance](../08%20Evidence%20and%20Indexes/KONOSUBA_LOLISA_ROYAL_DRAGON_NATIVE_PROVENANCE_01.json). Exact containing publication remains pending; full program continues.
+
+
+## Cohort17 Wolbach and Chomusuke — 2026-10-20T16:06:56.617701+00:00
+
+Wolbach values hot-spring treatment/reward,conversation,company and finite help. EXP03IMG033-035 actual gift/eating differ from an offered permanent role; her invitation is declined at destination and actual separation follows. IMG035 subordinate separation is qualified at036 as temporary. Chomusuke’s food,rest,touch and warm-basin entry MAIN09F852-854 deserve attention alongside power lore. MAIN16I1 headbutt18 and belly refusal23 coexist. EXP03U020610-611 limp-creature report/food-water question remains unanswered and does not alone diagnose neglect,illness or magical drain.
+
+Individual [Wolbach](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_EVIDENCE_INDEX.md) and [Chomusuke](../08%20Evidence%20and%20Indexes/KONOSUBA_CHOMUSUKE_EVIDENCE_INDEX.md) indices; [shared provenance](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_CHOMUSUKE_NATIVE_PROVENANCE_01.json). Exact containing publication pending; full program active.

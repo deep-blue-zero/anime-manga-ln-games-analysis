@@ -1919,3 +1919,10 @@ The one-day party reverses class hierarchy without making every member incompete
 Dust’s expectation of an easy helper repeatedly meets Lolisa’s business aim,particular admiration,veto or superior local observation; those reversals retain her agency. Her fear after witnessed demon destruction DUST04U013339-341 is not automatically an irrational gag. Rionor’s performed crying DUST06U01135-38 is locally visible performance,not a universal rule that her distress is false. Feit’s immense power beside ordinary hunger and care creates contrast without erasing bodily cost. Humor class,uncertain interpretation and seriousness remain separate; no retroactive H-class rewriting.
 
 Individual retrieval: [Lolisa](../08%20Evidence%20and%20Indexes/KONOSUBA_LOLISA_EVIDENCE_INDEX.md),[Rionor](../08%20Evidence%20and%20Indexes/KONOSUBA_RIONOR_EVIDENCE_INDEX.md),[Feit](../08%20Evidence%20and%20Indexes/KONOSUBA_FEIT_EVIDENCE_INDEX.md). Shared [native provenance](../08%20Evidence%20and%20Indexes/KONOSUBA_LOLISA_ROYAL_DRAGON_NATIVE_PROVENANCE_01.json). Exact containing publication remains pending; full program continues.
+
+
+## Cohort17 Wolbach and Chomusuke — 2026-10-20T16:06:56.617701+00:00
+
+The rescuer’s wish correction EXP01U01637-52,divinity argument MAIN09C4,and Satou inference expose real mismatches without making all actions nonliteral. Wolbach’s bath fear follows actual staring,harassment and threat; its comedy does not erase exposure. Chomusuke’s pot trembling,actual bite/cry,paid-handover clinging and unwanted throws are bodily events,not automatically H4. Report,simile,uncertainty and gag classification remain separate. No prior humor annotations or class assignments are rewritten.
+
+Individual [Wolbach](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_EVIDENCE_INDEX.md) and [Chomusuke](../08%20Evidence%20and%20Indexes/KONOSUBA_CHOMUSUKE_EVIDENCE_INDEX.md) indices; [shared provenance](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_CHOMUSUKE_NATIVE_PROVENANCE_01.json). Exact containing publication pending; full program active.

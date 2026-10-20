@@ -1881,3 +1881,8 @@ The [Leen](KONOSUBA_LEEN_EVIDENCE_INDEX.md), [Keith](KONOSUBA_KEITH_EVIDENCE_IND
 ## Cohort16 Lolisa, Rionor and Feit — 2026-10-20T14:52:18.145824+00:00
 
 [Lolisa](KONOSUBA_LOLISA_EVIDENCE_INDEX.md),[Rionor](KONOSUBA_RIONOR_EVIDENCE_INDEX.md) and [Feit](KONOSUBA_FEIT_EVIDENCE_INDEX.md) own the bounded scene retrieval. [Shared provenance](KONOSUBA_LOLISA_ROYAL_DRAGON_NATIVE_PROVENANCE_01.json) binds seven pre-case receipts/2902knownBASEcontextslots/18members/7objects and a separately dated post-case20Pprecision check:2922totalcontexts/19members/7objects. Counts include other actors,blanks,reports and earlier qualified contexts,not independent observations or new global full/ruby/image/admission credit. The later check confirms DUST07U012289 contains Leen pouring,Lolisa offering food and Feit sharing; it changes no frozen model/input/body/monograph and is not backdated validation. Source-safe summaries only; no EPUB,image or full transcript bytes.
+
+
+## Cohort17 Wolbach and Chomusuke — 2026-10-20T16:06:56.617701+00:00
+
+[Wolbach](KONOSUBA_WOLBACH_EVIDENCE_INDEX.md) and [Chomusuke](KONOSUBA_CHOMUSUKE_EVIDENCE_INDEX.md) index the separate actors and access planes. [Shared provenance](KONOSUBA_WOLBACH_CHOMUSUKE_NATIVE_PROVENANCE_01.json) binds six actual known text receipts:3093distinctBASEcontextslots/twenty members/seven native objects,plus eight separately inspected EXP03 integral prose images with visible ruby. Images/text share the same EXP03object. Counts include other actors,blanks,reports and hypotheses; no new admission,globalunique/full-principal/ruby or independent source-test credit. No source media or complete transcript is published.

@@ -1893,3 +1893,10 @@ MAIN02C1P548–573 Keith rushes to avoid yielding glory, Taylor follows and Leen
 Lolisa rejects the pride tactic DUST05U010349 but pursues a desired Vanir-employment prospect359-365 and misclassifies Duke. In DUST04U014183-198 she knowingly supports a fabricated accusation; the alleged humiliating demand196 is fiction within the story,not a Levi act. Rionor’s repeated forced shock test CONTU01477-100 and later personal risk562-570 remain different choices. Feit’s missed breakfast/hunger link293 does not identify who decided to omit the meal or her assent to use that state. Self-correction and useful outcomes do not repair earlier harm by inference.
 
 Individual retrieval: [Lolisa](../08%20Evidence%20and%20Indexes/KONOSUBA_LOLISA_EVIDENCE_INDEX.md),[Rionor](../08%20Evidence%20and%20Indexes/KONOSUBA_RIONOR_EVIDENCE_INDEX.md),[Feit](../08%20Evidence%20and%20Indexes/KONOSUBA_FEIT_EVIDENCE_INDEX.md). Shared [native provenance](../08%20Evidence%20and%20Indexes/KONOSUBA_LOLISA_ROYAL_DRAGON_NATIVE_PROVENANCE_01.json). Exact containing publication remains pending; full program continues.
+
+
+## Cohort17 Wolbach and Chomusuke — 2026-10-20T16:06:56.617701+00:00
+
+Wolbach rejects the cat match on Kazuma’s selective report MAIN09C3P410-425,first misclassifies Aqua then updates at water preparation C4P269-295,and overweights the Satou tale/name connection F347-363. Do not repair these into strategic omniscience. Her refusal of nonaggression/destructive power-recovery account F501-509 coexist with warmth. Megumin’s EXP02U044 actual throw516 and renewed Explosion attempt535 after Yunyun’s objection remain harmful choices; later catch/survival do not convert them to voluntary restraint. H02B hypothetical Wolbach adds an unvoiced blanket-favor obligation argument; first body unchanged.
+
+Individual [Wolbach](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_EVIDENCE_INDEX.md) and [Chomusuke](../08%20Evidence%20and%20Indexes/KONOSUBA_CHOMUSUKE_EVIDENCE_INDEX.md) indices; [shared provenance](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_CHOMUSUKE_NATIVE_PROVENANCE_01.json). Exact containing publication pending; full program active.

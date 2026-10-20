@@ -1700,3 +1700,10 @@ Leen/リーン has her own DUST06 and continuation viewpoint, a preference for p
 Lolisa’sロリーサ is an explicitly invented alias,not a true-name disclosure. MASK’s unnamed small succubus remains unjoined and its leader distinct. Rionorリオノール and Leenリーン retain separate memories and choices: the continuation visitor is genuinely Rionor,but the apparent ceremony bride is Leen until U014331-334 reveals her; genuine Rionor acts at536/562-570. Feitフェイトフォー and her child-form voiceふぇいとふぉー join the current white-dragon identity without an exact human age or adult-romance inference. Three individual monographs and one Lolisa model preserve these state/access limits.
 
 Individual retrieval: [Lolisa](../08%20Evidence%20and%20Indexes/KONOSUBA_LOLISA_EVIDENCE_INDEX.md),[Rionor](../08%20Evidence%20and%20Indexes/KONOSUBA_RIONOR_EVIDENCE_INDEX.md),[Feit](../08%20Evidence%20and%20Indexes/KONOSUBA_FEIT_EVIDENCE_INDEX.md). Shared [native provenance](../08%20Evidence%20and%20Indexes/KONOSUBA_LOLISA_ROYAL_DRAGON_NATIVE_PROVENANCE_01.json). Exact containing publication remains pending; full program continues.
+
+
+## Cohort17 Wolbach and Chomusuke — 2026-10-20T16:06:56.617701+00:00
+
+Hans explicitly calls the MAIN04 bath woman Wolbach at C3 continuation item/xhtml/p-010.xhtml P53. Kazuma’s uncertain recollection at MAIN09 C4 P242 and Wolbach’s formal self-naming at C4 P245 have different access. EXP03 carriage identity joins through Wolbach/Yunyun’s specific remembered invitation MAIN09F179-182,not hair/eyes alone: Arnes also has red hair/yellow eyes and remains distinct. Early Megumin release,resealing,later Komekko opening and retellings are separate stages. Chomusuke/Kuro variants join the creature without granting speaking Wolbach’s complete current mind,memories,age or consent.
+
+Individual [Wolbach](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_EVIDENCE_INDEX.md) and [Chomusuke](../08%20Evidence%20and%20Indexes/KONOSUBA_CHOMUSUKE_EVIDENCE_INDEX.md) indices; [shared provenance](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_CHOMUSUKE_NATIVE_PROVENANCE_01.json). Exact containing publication pending; full program active.

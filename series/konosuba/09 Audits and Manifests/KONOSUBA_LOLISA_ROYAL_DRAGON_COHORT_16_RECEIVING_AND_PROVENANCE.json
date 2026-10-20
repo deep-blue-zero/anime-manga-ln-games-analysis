@@ -1,7 +1,7 @@
 {
   "schema": "KONOSUBA_LOLISA_ROYAL_DRAGON_COHORT16_RECEIVING_AND_PROVENANCE_V1",
   "recorded_utc": "2026-10-20T14:54:40.490143+00:00",
-  "status": "SEMANTIC_RECEIVING_COMPLETE_EXACT_CONTAINING_PUBLICATION_PENDING",
+  "status": "SCOPED_SEMANTIC_AND_FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
   "scope": "Three individual monographs and one Lolisa conditional reconstruction,all sources known. Rionor/Feit Tier2monograph-only,not prohibited from future modeling. Not whole-program closure or capability assessment.",
   "prior_published_authority": {
     "source": "76851fae4b84b13b182e0112b17ccc5765bcd712",
@@ -281,5 +281,36 @@
       "Competence appendix should repeat the exact CONTU014 source for Feit nod/turn/familiar technique."
     ],
     "frozen_models_rules_inputs_first_bodies_assessments_and_monographs_unchanged": true
-  }
+  },
+  "publication_pending_status_at_authorship": "SEMANTIC_RECEIVING_COMPLETE_EXACT_CONTAINING_PUBLICATION_PENDING",
+  "publication_resolution": {
+    "status": "SCOPED_LOLISA_MODEL_AND_THREE_MONOGRAPHS_FULL_EXACT_SOURCE_GATE_CLOSED",
+    "source": "5ec165a0b9a209ad3d8781e751a3feb4064484e7",
+    "tree": "7e0431ff118502689b4e3f2bab0d4901b8c06975",
+    "closed_utc": "2026-10-20T15:27:20.274975+00:00",
+    "gate_path": "09 Audits and Manifests/KONOSUBA_LOLISA_ROYAL_DRAGON_COHORT16_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "807862a786110d2dcfd400d1024b808b1d07cf95270e26a030a791170e88ba30",
+    "source_run": 39445400476,
+    "housekeeping_run": 39446324144,
+    "final_run": 39446399201,
+    "all_remote_paths": 9314,
+    "all_changed_streams": 33,
+    "full_tests_source_and_final": 385,
+    "fresh_project_reload_paths": 1138,
+    "current_model_bodies": 24,
+    "new_model_bodies": 1,
+    "new_monographs": 3,
+    "scoped_secondary_model_subjects": 18,
+    "bounded_profiles": 15,
+    "monograph_only_subjects": [
+      "Nos",
+      "Rionor",
+      "Feit"
+    ],
+    "actual_internal_first_bodies": 4,
+    "regenerations": 0,
+    "independent_accuracy_or_confidence_gain": false,
+    "full_program_complete": false
+  },
+  "published_authority_reload_sha256": "e4d0d1a004744e1687ca237c6ee89d9758da2efca4110ea97ddab58a3d9d224e"
 }
