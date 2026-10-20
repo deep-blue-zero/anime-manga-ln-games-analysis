@@ -1,8 +1,8 @@
 {
   "schema": "KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS_V1",
   "status": "INCREMENTAL_187_QUALIFIED_RECORDS_NOT_FINAL_INDIVIDUAL_DENOMINATOR",
-  "updated_utc": "2026-10-20T16:09:06.702226+00:00",
-  "scope": "Cohorts01-16 retain their closed exact-source gates. Cohort17 adds one conditional Wolbach model and two individual monographs,exact containing publication pending; Chomusuke Tier2monograph-only with future modeling open. Candidate25models/nineteen scoped secondary subjects/fifteen profiles/four monograph-only subjects Nos/Rionor/Feit/Chomusuke.187qualifiedsource-bound records are nonfinal; full census/final tiers/program open.",
+  "updated_utc": "2026-10-20T17:16:34.203945+00:00",
+  "scope": "Cohorts01-17 retain closed exact-source gates. Cohort18 adds separate substantial Sena/Arnes monographs and provisional three-rule/four-rule conditional models; exact containing publication pending. Candidate27models/twenty-one scoped secondary subjects/fifteen profiles/four monograph-only Nos,Rionor,Feit,Chomusuke.187qualifiedrecords nonfinal; full census/final tiers/program open.",
   "row_semantics": "Distinct qualified working subjects plus explicitly unresolved grouped/identity leads. A row is not automatically one final individual or an earned artifact. Old scope phrases remain their recorded history; the root current scope governs present admission status.",
   "artifact_architecture": "Use existing05 Specialist Synthesis for earned monographs and06 Character Modeling and Reconstruction for distinct mechanism models. Existing ledgers carry bounded profiles unless a separate responsibility is justified. Single current corpus map; curator-only global registry/index enrollment.",
   "rows": [
@@ -970,12 +970,12 @@
     {
       "character": "Wolbach",
       "identity": "ウォルバク; Hans explicitly names the bath woman in MAIN04 C3 continuation (item/xhtml/p-010.xhtml) P53; carriage/earlier-rescuer joins retain exact reader access; Chomusuke half relation does not merge current minds",
-      "likely_tier": "3 scoped conditional candidate; containing publication pending",
+      "likely_tier": "3 scoped conditional model; full gate closed; reliability provisional",
       "priority": "Scoped secondary reconstruction",
       "evidence_distribution": "COHORT17 current shared recheck3093knownBASEcontextslots/twenty text members/seven objects plus eight actual EXP03 prose-image inspections with visible ruby. Exact individual/support/access in new index and shared provenance. Earlier accepted reports retain their qualified scopes,not another fresh full-source pass.",
       "substantive_responsibility": "Separate monograph/four-rule conditional model retains finite help and ordinary pleasure alongside committed warfare,fallible cat/Aqua/Satou classification,guarded disclosure and destructive power-recovery account. Four actual first saved English bodies preserve generic rivals and uncued H02B obligation argument; no regeneration/repair.",
       "gaps": "Allegiance motive,each denial’s actual memory,complete half/power/recovery mechanism and broader prospective rule discrimination remain unresolved. Apparent final smile is qualified. Four source-known same-author English hypotheticals largely leave R03/R04 unprobed; no independent accuracy,Japanese adequacy,grade or confidence gain.",
-      "disposition_status": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER3_COHORT17_PUBLISHED_FULL_GATE_CLOSED",
       "independent_observation_count": null,
       "prior_gap_history_working26": "EXP03 final interlude native20page recheck includes8pages with an unnamed red-haired/yellow-eyed woman: real hospitality, reported lost subordinates, plan-timing hint, invitation and actual separation. Reader identity backjoin to later Wolbach authority still required; Yunyun explicitly forgets to ask her name. Do not assign her later knowledge or treat the hinted Alcanretia plan as performed.",
       "current_scope_asof_working27": "All17mainexcluded/19supplemental/5mixed declared source gates remain closed. Iris/Yunyun/Vanir scoped cohorts have closed full gates; Vanir source90fb18d5302711cb265687c140ab5d5d151ebe06. Wiz overallcohort04 is semantically received at a provisionalTier3 boundary, exact publication gate pending. Full individual census/joins/incidental dispositions/remaining earned artifacts, expanded specialist/versioned principal-party-transfer revisions, curator enrollment/integration and component/release/final-entry audits remain active. No new source admission or global completion claim.",
@@ -998,17 +998,34 @@
         "series/konosuba/06 Character Modeling and Reconstruction/WOLBACH_EXPANDED_V1_EVIDENCE/WOLBACH_FIRST_OUTPUTS_01.json",
         "series/konosuba/06 Character Modeling and Reconstruction/WOLBACH_EXPANDED_V1_EVIDENCE/WOLBACH_INTERNAL_ASSESSMENT_01.json"
       ],
-      "cohort17_semantic_receiving_sha256": "12b5988152273cdaac150817e79ddb3a5c12f5518ca80d6bc73be1a11811d2f9"
+      "cohort17_semantic_receiving_sha256": "12b5988152273cdaac150817e79ddb3a5c12f5518ca80d6bc73be1a11811d2f9",
+      "cohort17_publication_pending_at_authorship_history": {
+        "likely_tier": "3 scoped conditional candidate; containing publication pending",
+        "disposition_status": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING"
+      },
+      "cohort17_publication_gate_close": {
+        "source": "3ed7a3e59383fc701f72073619ec8a7b5d6c16f2",
+        "tree": "995baa89ee644239afa783e887d7cea75d1ed247",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_WOLBACH_CHOMUSUKE_COHORT17_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "e08db32bb0e31be1918366da57db213f9402e77178f1671e7d6f186ea9a654f4",
+        "source_run": 39456715375,
+        "housekeeping_run": 39457421618,
+        "final_run": 39457492287,
+        "full_tests_each": 385,
+        "published_project_paths": 1150,
+        "current_models": 25,
+        "no_independent_accuracy_or_confidence_gain": true
+      }
     },
     {
       "character": "Chomusuke",
       "identity": "ちょむすけ; earlierクロ/Kuro variants join same small creature; called Wolbach by Arnes and half/partner by speaking Wolbach; complete memory/power/personhood mechanism unresolved",
-      "likely_tier": "2 scoped monograph; containing publication pending",
+      "likely_tier": "2 scoped monograph; full gate closed; future reconstruction open",
       "priority": "Scoped monograph; future modeling open",
       "evidence_distribution": "COHORT17 current shared recheck3093knownBASEcontextslots/twenty text members/seven objects plus eight actual EXP03 prose-image inspections with visible ruby. Exact individual/support/access in new index and shared provenance. Earlier accepted reports retain their qualified scopes,not another fresh full-source pass.",
       "substantive_responsibility": "Substantial individual monograph retains actual approach,feeding/contact,resistance,unwanted uses and bodily vulnerability without inventing adult interior. Generic creature/conditioning/state rivals remain; no automatic model or cases. Human caretakers’ help and harmful acts retain distinct agency.",
       "gaps": "Comprehension,memory continuity,power access,causes/durability of bathing change,unmeasured growth and weak-episode care/diagnosis remain open. Earlier MAIN03/later MAIN10/12/17 analytical leads retain exact access and return questions. Tier2 is revisable; narrower model could be earned,not forbidden by pet status or appearance count.",
-      "disposition_status": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER2_COHORT17_PUBLISHED_FULL_GATE_CLOSED",
       "independent_observation_count": null,
       "prior_gap_history_working21": "Exact behavior/state and divine-continuity joins. Pet collateral and recognized-person target differ; no universal identity/knowledge merge.",
       "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded.",
@@ -1038,20 +1055,57 @@
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_CHOMUSUKE_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_WOLBACH_CHOMUSUKE_NATIVE_PROVENANCE_01.json"
       ],
-      "cohort17_semantic_receiving_sha256": "12b5988152273cdaac150817e79ddb3a5c12f5518ca80d6bc73be1a11811d2f9"
+      "cohort17_semantic_receiving_sha256": "12b5988152273cdaac150817e79ddb3a5c12f5518ca80d6bc73be1a11811d2f9",
+      "cohort17_publication_pending_at_authorship_history": {
+        "likely_tier": "2 scoped monograph; containing publication pending",
+        "disposition_status": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING"
+      },
+      "cohort17_publication_gate_close": {
+        "source": "3ed7a3e59383fc701f72073619ec8a7b5d6c16f2",
+        "tree": "995baa89ee644239afa783e887d7cea75d1ed247",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_WOLBACH_CHOMUSUKE_COHORT17_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "e08db32bb0e31be1918366da57db213f9402e77178f1671e7d6f186ea9a654f4",
+        "source_run": 39456715375,
+        "housekeeping_run": 39457421618,
+        "final_run": 39457492287,
+        "full_tests_each": 385,
+        "published_project_paths": 1150,
+        "current_models": 25,
+        "no_independent_accuracy_or_confidence_gain": true
+      }
     },
     {
       "character": "Sena",
-      "identity": "セナ",
-      "likely_tier": "1–2 unresolved",
-      "priority": "Discovery",
-      "evidence_distribution": "MAIN03 charge/refutation native and profile; MAIN04 profile. CURRENT WORKING24: Complete accepted MAIN01–04 reports and original V01–V03 checkpoint actually reviewed at derivative scope (receipts32–36); bounded MAIN02 Keele116 P / MAIN04 epilogue94 P native receipt separately recorded. MAIN17 complete new15resources71 P/25images and1,517 retained BASE-TEXT P acrossfiveunits are actual at their stated scopes, not new whole-principal/ruby/independent passes.",
-      "substantive_responsibility": "Institutional duty, evidence reception and change of address differ from private vendetta. CURRENT WORKING24: MAIN03 derivative supplies evidence-responsive interrogation/politeness, sincere gratitude, actual talisman and legal role; MAIN04 she applies social/status pressure about Kazuma's level. Her acts and tool provision are distinct from his misleading account.",
-      "gaps": "Duty-centered motive is an inference, not proof of private purity or a vendetta. Need native/speaker joins for every new profile claim, legal chronology and unknown individual deputies; no automatic Aloerina merge.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "identity": "セナ;explicit kingdom prosecutor MAIN03C1P18;distinct judge,lord,knights,deputies,Aloerina and Serenaセレナ",
+      "likely_tier": "3 scoped conditional candidate; containing publication pending",
+      "priority": "Scoped secondary reconstruction",
+      "evidence_distribution": "COHORT18 shared actual knownBASErecheck3,275contextslots/fifteen members/four objects in MAIN03/04 and EXP02/03. Individual26-row indices distinguish direct choice,report,inference,collateral and later recollection. No new full-source/ruby/image/admission/independent pass.",
+      "substantive_responsibility": "Separate substantial monograph/three-rule model retains actual evidence response,selective inference,task means,refusal/civilian limits,public apology and admiration-driven capability expectations. Four actual first saved same-author English bodies retain generic cues,unprovided note/furniture and timing ambiguity; no regeneration/repair.",
+      "gaps": "Court influence mechanism,private motive,ordinary leisure/biography,task-specific capability inference and generic rivals remain unresolved. Several rules scarcely probed by explicit-cue modern cases; no independent accuracy,Japanese adequacy,capability grade or confidence gain.",
+      "disposition_status": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
       "independent_observation_count": null,
       "prior_gap_history_working23": "Review actual legal sequence and ordinary contexts; do not make profiles extra trials. Distinct named セレナ now verified in Dust05; do not merge priest antagonist Serena with investigator Sena.",
-      "current_scope_asof_working24": "All seventeen main excluded-component source programs, nineteen supplemental editions and five mixed/reference programs have closed exact publication gates at their declared scopes. MAIN17 source49dbe1b11b22a4007c33c9d3bea16c7877006bc1; all9,132remote paths/35changedstreams exact; full source/HK/final actual-source audit/status and fresh962authority reload verified. Main source-program closure is not full census/synthesis/model/curation/release closure. No MAIN18 admission; final individual denominator and global percentage remain unresolved."
+      "current_scope_asof_working24": "All seventeen main excluded-component source programs, nineteen supplemental editions and five mixed/reference programs have closed exact publication gates at their declared scopes. MAIN17 source49dbe1b11b22a4007c33c9d3bea16c7877006bc1; all9,132remote paths/35changedstreams exact; full source/HK/final actual-source audit/status and fresh962authority reload verified. Main source-program closure is not full census/synthesis/model/curation/release closure. No MAIN18 admission; final individual denominator and global percentage remain unresolved.",
+      "prior_cohort18_current_fields": {
+        "likely_tier": "1–2 unresolved",
+        "priority": "Discovery",
+        "identity": "セナ",
+        "evidence_distribution": "MAIN03 charge/refutation native and profile; MAIN04 profile. CURRENT WORKING24: Complete accepted MAIN01–04 reports and original V01–V03 checkpoint actually reviewed at derivative scope (receipts32–36); bounded MAIN02 Keele116 P / MAIN04 epilogue94 P native receipt separately recorded. MAIN17 complete new15resources71 P/25images and1,517 retained BASE-TEXT P acrossfiveunits are actual at their stated scopes, not new whole-principal/ruby/independent passes.",
+        "substantive_responsibility": "Institutional duty, evidence reception and change of address differ from private vendetta. CURRENT WORKING24: MAIN03 derivative supplies evidence-responsive interrogation/politeness, sincere gratitude, actual talisman and legal role; MAIN04 she applies social/status pressure about Kazuma's level. Her acts and tool provision are distinct from his misleading account.",
+        "gaps": "Duty-centered motive is an inference, not proof of private purity or a vendetta. Need native/speaker joins for every new profile claim, legal chronology and unknown individual deputies; no automatic Aloerina merge.",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort18_artifacts": [
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_SENA_CHARACTER_MONOGRAPH.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_SENA_RECONSTRUCTION_MODEL.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SENA_EVIDENCE_INDEX.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/SENA_EXPANDED_V1_EVIDENCE/SENA_RULE_INVENTORY_01.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/SENA_EXPANDED_V1_EVIDENCE/SENA_SCENARIO_INPUTS_01.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/SENA_EXPANDED_V1_EVIDENCE/SENA_FIRST_OUTPUTS_01.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/SENA_EXPANDED_V1_EVIDENCE/SENA_INTERNAL_ASSESSMENT_01.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SENA_ARNES_NATIVE_PROVENANCE_01.json"
+      ],
+      "cohort18_semantic_receiving_sha256": "de395b106c4ff195e40b37ff1b0517f63d7c84c7d53aac22c41e546b45df7b1f"
     },
     {
       "character": "Beldia",
@@ -1473,14 +1527,34 @@
     },
     {
       "character": "Arnes",
-      "identity": "アーネス retrieval guard; direct native name join pending",
-      "likely_tier": "2 candidate",
-      "priority": "Discovery / consolidation",
-      "evidence_distribution": "Complete EXP02 antagonist arc and EXP03 mediated references.",
-      "substantive_responsibility": "Master goal, will/resistance reinterpretation, payment/refund conflict, deliberate monster herding, adapted hostage geometry, correct depletion and wrong ability inference.",
-      "gaps": "Preserve chronology, body defeat versus permanent extinction, and earlier invented night culprit versus actual current acts. Exact native/voice backjoin due.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
-      "independent_observation_count": null
+      "identity": "アーネス;explicit self-name EXP02U023P15-16 and master37;not Wolbach despite similar red hair/yellow eyes;distinct Hoost knowledge/pact/lives",
+      "likely_tier": "3 scoped conditional candidate; containing publication pending",
+      "priority": "Scoped secondary reconstruction",
+      "evidence_distribution": "COHORT18 shared actual knownBASErecheck3,275contextslots/fifteen members/four objects in MAIN03/04 and EXP02/03. Individual26-row indices distinguish direct choice,report,inference,collateral and later recollection. No new full-source/ruby/image/admission/independent pass.",
+      "substantive_responsibility": "Separate substantial monograph/four-rule model retains retrieval/protective attachment with present-refusal reinterpretation,finite payment,retaliation,adapted harmful leverage,correct depletion/wrong ability inference and late attempted withdrawal. Four first saved same-author English bodies retain uncued influence/extra errand/broad silence and invariant opportunity endpoint; no regeneration/repair.",
+      "gaps": "Master’s present wishes/comprehension versus asserted memory,precise pact/survival,ordinary life outside pursuit and generic rivals remain unresolved. Manifested defeat does not certify permanent extinction. Modern cases leave rescue,hostage/fear/retaliation mechanisms largely unprobed; no independent accuracy,Japanese adequacy,grade/confidence gain.",
+      "disposition_status": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "prior_cohort18_current_fields": {
+        "likely_tier": "2 candidate",
+        "priority": "Discovery / consolidation",
+        "identity": "アーネス retrieval guard; direct native name join pending",
+        "evidence_distribution": "Complete EXP02 antagonist arc and EXP03 mediated references.",
+        "substantive_responsibility": "Master goal, will/resistance reinterpretation, payment/refund conflict, deliberate monster herding, adapted hostage geometry, correct depletion and wrong ability inference.",
+        "gaps": "Preserve chronology, body defeat versus permanent extinction, and earlier invented night culprit versus actual current acts. Exact native/voice backjoin due.",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort18_artifacts": [
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_ARNES_CHARACTER_MONOGRAPH.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_ARNES_RECONSTRUCTION_MODEL.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_ARNES_EVIDENCE_INDEX.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/ARNES_EXPANDED_V1_EVIDENCE/ARNES_RULE_INVENTORY_01.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/ARNES_EXPANDED_V1_EVIDENCE/ARNES_SCENARIO_INPUTS_01.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/ARNES_EXPANDED_V1_EVIDENCE/ARNES_FIRST_OUTPUTS_01.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/ARNES_EXPANDED_V1_EVIDENCE/ARNES_INTERNAL_ASSESSMENT_01.json",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SENA_ARNES_NATIVE_PROVENANCE_01.json"
+      ],
+      "cohort18_semantic_receiving_sha256": "de395b106c4ff195e40b37ff1b0517f63d7c84c7d53aac22c41e546b45df7b1f"
     },
     {
       "character": "Rex",
@@ -3900,9 +3974,10 @@
     "Four clergy/merchant scopedTier1 profiles cohort14 full publication gate closed",
     "Leen/Keith/Taylor cohort15 scoped conditional Tier3 full publication gate closed; reliability provisional",
     "Lolisa scoped conditional Tier3 and Rionor/Feit scoped Tier2 monographs cohort16 full publication gate closed; future modeling open and reliability provisional",
-    "Wolbach cohort17 provisional conditional Tier3 and Chomusuke scoped Tier2 monograph semantically received; exact containing publication pending; future models not prohibited"
+    "Wolbach scoped conditional Tier3 and Chomusuke scoped Tier2 monograph cohort17 full publication gate closed; future modeling open and reliability provisional",
+    "Sena cohort18 provisional conditional Tier3three rules and Arnes Tier3four rules,separate substantial monographs semantically received; exact containing publication pending"
   ],
-  "current_actual_individual_audit_scope": "Earlier41source/report programs and full ten-responsibility receiving retain qualified scopes. C17shared union3093knownBASEcontextslots/twenty text members/seven objects plus eight actually inspected known EXP03 integral prose images with visible ruby includes collateral material,not new admission/globalcoverage/independent decisions. Only rows20-21 change analytically relative current,185others exact; five rows differ from published5ec165a0when closure17-19 carried,182others exact. Four actual informed same-author English first saved bodies/zero regeneration retain generic rivals,strong input cues,largely unprobed R03/R04 and uncued H02B favor-obligation argument. No independent accuracy/grade/Japanese adequacy/confidence gain. Private historical-only fields outside targets remain separate.",
+  "current_actual_individual_audit_scope": "Earlier41source/report programs and full ten-responsibility receiving retain qualified scopes. C18shared union3,275knownBASEcontextslots/fifteen members/four objects in MAIN03/04 and EXP02/03 includes collateral,blanks,reports and hypotheses,not new admission,ruby/image/globalcoverage or independent decisions. Only22/50 change analytically relative current,185others exact; with C17closure20/21,four differ from published3ed7a3e5and183others remain exact. Eight actual informed same-author English first saved bodies/zero regeneration or repair retain generic cues,unprovided details,time ambiguity and an invariant two-minute endpoint; several mechanisms unprobed. No independent accuracy/grade/Japanese adequacy/confidence gain. Private history-only fields outside targets remain separate.",
   "historical_integrity": "MG02-I01/I02 through MG05, original blank fields, CP outcomes, letters-as-NT and preYORI04SEC01 scope remain unchanged. New source-known comparisons are retrospective; hypotheticals are not source validation.",
   "current_receipt_pins": [
     {
@@ -5535,7 +5610,7 @@
     "updated_utc": "2026-10-20T15:27:39.206585+00:00"
   },
   "cohort17_current_receiving": {
-    "status": "SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+    "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
     "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_WOLBACH_CHOMUSUKE_COHORT_17_RECEIVING_AND_PROVENANCE.json",
     "semantic_receiving_sha256": "12b5988152273cdaac150817e79ddb3a5c12f5518ca80d6bc73be1a11811d2f9",
     "candidate_models": 25,
@@ -5560,6 +5635,137 @@
       20,
       21
     ],
-    "untouched_rows_relative_parent": 182
+    "untouched_rows_relative_parent": 182,
+    "publication_gate_close": {
+      "source": "3ed7a3e59383fc701f72073619ec8a7b5d6c16f2",
+      "tree": "995baa89ee644239afa783e887d7cea75d1ed247",
+      "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_WOLBACH_CHOMUSUKE_COHORT17_PUBLICATION_GATE_CLOSE.json",
+      "gate_sha256": "e08db32bb0e31be1918366da57db213f9402e77178f1671e7d6f186ea9a654f4",
+      "source_run": 39456715375,
+      "housekeeping_run": 39457421618,
+      "final_run": 39457492287,
+      "full_tests_each": 385,
+      "published_project_paths": 1150,
+      "current_models": 25,
+      "no_independent_accuracy_or_confidence_gain": true
+    }
+  },
+  "cohort17_pending_at_authorship_current_metadata": {
+    "scope": "Cohorts01-16 retain their closed exact-source gates. Cohort17 adds one conditional Wolbach model and two individual monographs,exact containing publication pending; Chomusuke Tier2monograph-only with future modeling open. Candidate25models/nineteen scoped secondary subjects/fifteen profiles/four monograph-only subjects Nos/Rionor/Feit/Chomusuke.187qualifiedsource-bound records are nonfinal; full census/final tiers/program open.",
+    "current_actual_individual_audit_scope": "Earlier41source/report programs and full ten-responsibility receiving retain qualified scopes. C17shared union3093knownBASEcontextslots/twenty text members/seven objects plus eight actually inspected known EXP03 integral prose images with visible ruby includes collateral material,not new admission/globalcoverage/independent decisions. Only rows20-21 change analytically relative current,185others exact; five rows differ from published5ec165a0when closure17-19 carried,182others exact. Four actual informed same-author English first saved bodies/zero regeneration retain generic rivals,strong input cues,largely unprobed R03/R04 and uncued H02B favor-obligation argument. No independent accuracy/grade/Japanese adequacy/confidence gain. Private historical-only fields outside targets remain separate.",
+    "scoped_tiers_assigned": [
+      "Iris cohort01 full publication gate closed",
+      "Yunyun cohort02 full publication gate closed",
+      "Vanir overallcohort03 full publication gate closed",
+      "Wiz overallcohort04 full publication gate closed",
+      "Chris/Eris overallcohort05 full publication gate closed",
+      "Dust overallcohort06 full publication gate closed",
+      "Komekko overallcohort07 full publication gate closed",
+      "Hoost overallcohort08 full publication gate closed",
+      "Levi overallcohort09 full publication gate closed",
+      "Nos cohort10 Tier2 monograph full publication gate closed; no distinct model",
+      "Claire cohort11 scopedTier3 full publication gate closed",
+      "Rain cohort11 scopedTier3 full publication gate closed",
+      "Luna cohort12 scopedTier3 full publication gate closed",
+      "Cecily/Zesta scopedTier3 and Tristan/reporting-priest Tier1 cohort13 full publication gate closed",
+      "Four clergy/merchant scopedTier1 profiles cohort14 full publication gate closed",
+      "Leen/Keith/Taylor cohort15 scoped conditional Tier3 full publication gate closed; reliability provisional",
+      "Lolisa scoped conditional Tier3 and Rionor/Feit scoped Tier2 monographs cohort16 full publication gate closed; future modeling open and reliability provisional",
+      "Wolbach cohort17 provisional conditional Tier3 and Chomusuke scoped Tier2 monograph semantically received; exact containing publication pending; future models not prohibited"
+    ],
+    "cohort17_current_receiving": {
+      "status": "SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_WOLBACH_CHOMUSUKE_COHORT_17_RECEIVING_AND_PROVENANCE.json",
+      "semantic_receiving_sha256": "12b5988152273cdaac150817e79ddb3a5c12f5518ca80d6bc73be1a11811d2f9",
+      "candidate_models": 25,
+      "candidate_scoped_secondary_model_subjects": 19,
+      "bounded_profiles": 15,
+      "monograph_only_subjects": [
+        "Nos",
+        "Rionor",
+        "Feit",
+        "Chomusuke"
+      ],
+      "records_not_final_people": 187,
+      "changed_rows": [
+        20,
+        21
+      ],
+      "untouched_rows_relative_current": 185,
+      "parent_changed_rows": [
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "untouched_rows_relative_parent": 182
+    },
+    "updated_utc": "2026-10-20T16:09:06.702226+00:00"
+  },
+  "cohort17_publication_resolution": {
+    "source": "3ed7a3e59383fc701f72073619ec8a7b5d6c16f2",
+    "tree": "995baa89ee644239afa783e887d7cea75d1ed247",
+    "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_WOLBACH_CHOMUSUKE_COHORT17_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "e08db32bb0e31be1918366da57db213f9402e77178f1671e7d6f186ea9a654f4",
+    "source_run": 39456715375,
+    "housekeeping_run": 39457421618,
+    "final_run": 39457492287,
+    "full_tests_each": 385,
+    "published_project_paths": 1150,
+    "current_models": 25,
+    "no_independent_accuracy_or_confidence_gain": true
+  },
+  "prior_current_metadata_before_cohort18": {
+    "scope": "Cohorts01-17 have closed exact-source publication gates at their declared scopes: nineteen scoped secondary conditional-model subjects/25model bodies,fifteen bounded profiles and four Tier2monograph-only subjects Nos/Rionor/Feit/Chomusuke.187qualifiedsource-bound records include unresolved groups/aliases/occurrence slots,not a final unique population. Reliability remains provisional; full census/final tiers/program open.",
+    "current_actual_individual_audit_scope": "Cohort17 full exact-source gate/reload closed. Known3093BASEcontextslots/twenty members/seven objects plus eight actual known EXP03 integral prose images retain their qualified scopes,not new admissions/full-principal/ruby passes/independent decisions. Two local gate-status rows20-21 change relative published3ed7a3e5,185others exact; the preceding C16closure was already carried in that source. Four source-known informed same-author English first saved bodies remain unchanged with generic/strong-cue/partial-coverage/uncued H02Bpresupposition limits and no accuracy/grade/Japanese adequacy/confidence gain.",
+    "scoped_tiers_assigned": [
+      "Iris cohort01 full publication gate closed",
+      "Yunyun cohort02 full publication gate closed",
+      "Vanir overallcohort03 full publication gate closed",
+      "Wiz overallcohort04 full publication gate closed",
+      "Chris/Eris overallcohort05 full publication gate closed",
+      "Dust overallcohort06 full publication gate closed",
+      "Komekko overallcohort07 full publication gate closed",
+      "Hoost overallcohort08 full publication gate closed",
+      "Levi overallcohort09 full publication gate closed",
+      "Nos cohort10 Tier2 monograph full publication gate closed; no distinct model",
+      "Claire cohort11 scopedTier3 full publication gate closed",
+      "Rain cohort11 scopedTier3 full publication gate closed",
+      "Luna cohort12 scopedTier3 full publication gate closed",
+      "Cecily/Zesta scopedTier3 and Tristan/reporting-priest Tier1 cohort13 full publication gate closed",
+      "Four clergy/merchant scopedTier1 profiles cohort14 full publication gate closed",
+      "Leen/Keith/Taylor cohort15 scoped conditional Tier3 full publication gate closed; reliability provisional",
+      "Lolisa scoped conditional Tier3 and Rionor/Feit scoped Tier2 monographs cohort16 full publication gate closed; future modeling open and reliability provisional",
+      "Wolbach scoped conditional Tier3 and Chomusuke scoped Tier2 monograph cohort17 full publication gate closed; future modeling open and reliability provisional"
+    ],
+    "updated_utc": "2026-10-20T16:39:44.082658+00:00"
+  },
+  "cohort18_current_receiving": {
+    "status": "SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+    "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_SENA_ARNES_COHORT_18_RECEIVING_AND_PROVENANCE.json",
+    "semantic_receiving_sha256": "de395b106c4ff195e40b37ff1b0517f63d7c84c7d53aac22c41e546b45df7b1f",
+    "candidate_models": 27,
+    "candidate_scoped_secondary_model_subjects": 21,
+    "bounded_profiles": 15,
+    "monograph_only_subjects": [
+      "Nos",
+      "Rionor",
+      "Feit",
+      "Chomusuke"
+    ],
+    "records_not_final_people": 187,
+    "changed_rows": [
+      22,
+      50
+    ],
+    "untouched_rows_relative_current": 185,
+    "parent_changed_rows": [
+      20,
+      21,
+      22,
+      50
+    ],
+    "untouched_rows_relative_parent": 183
   }
 }

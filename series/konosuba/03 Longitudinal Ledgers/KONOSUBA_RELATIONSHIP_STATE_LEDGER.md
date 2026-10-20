@@ -1437,3 +1437,8 @@ Individual retrieval: [Lolisa](../08%20Evidence%20and%20Indexes/KONOSUBA_LOLISA_
 Wolbach’s care for particular people does not erase continuing war or make her half’s power freely available. Chomusuke’s approach at MAIN09 F P152,Wolbach’s reaching at P154 and Kazuma’s conditional restraint at P155–164 are distinct actors’ choices. Megumin’s care coexists with EXP02 paid handover/ignored clinging and dangerous throws. Arnes’s valued-master address,catches,postponement and relief coexist with threats; similar appearance does not merge her with Wolbach. Yunyun’s concern,interrupted chant and actual catch retain their own agency. Affection,nonresistance,contract proposal and informed assent remain distinct.
 
 Individual [Wolbach](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_EVIDENCE_INDEX.md) and [Chomusuke](../08%20Evidence%20and%20Indexes/KONOSUBA_CHOMUSUKE_EVIDENCE_INDEX.md) indices; [shared provenance](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_CHOMUSUKE_NATIVE_PROVENANCE_01.json). Exact containing publication pending; full program active.
+
+
+## Cohort18 Sena and Arnes — 2026-10-20T17:14:33.263380+00:00
+
+Sena’s accusation,apology,renewed suspicion,refusal acceptance,objection to occupied-mask confinement and later esteem remain different stages. MAIN03C4P30 accepts an unrelated refusal; MAIN04C1P122/152 applies duty/reputation expectations without proving deliberate orchestration. Arnes invokes master’s will EXP02U023P40 but later explains away visible resistance219; catches/postponement/relief are actual care without complete recipient-centered consent. Yunyun’s warning,offered refund,physical interruption and catch remain her own acts. Hoost’s later pact/lives account stays his.

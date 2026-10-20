@@ -1240,3 +1240,8 @@ Individual retrieval: [Lolisa](../08%20Evidence%20and%20Indexes/KONOSUBA_LOLISA_
 Chomusuke’s EXP01U023 pot distress/bite,EXP02U02371-72 resistance and U044510/516 actual struggle/throw remain real despite comedy. Megumin begins Explosion with the creature in danger521-527,resumes535,and is interrupted by separate events; survival is not safe process or consensual sacrifice. Kazuma’s staring/dismissed privacy request MAIN04C3 and direct threat MAIN09C3P373 matter despite Wolbach’s power/later warmth. Wolbach’s continued siege,refused terms and stated destructive-half plan remain adverse evidence,not erased by the uncertain final smile or Megumin’s gratitude.
 
 Individual [Wolbach](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_EVIDENCE_INDEX.md) and [Chomusuke](../08%20Evidence%20and%20Indexes/KONOSUBA_CHOMUSUKE_EVIDENCE_INDEX.md) indices; [shared provenance](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_CHOMUSUKE_NATIVE_PROVENANCE_01.json). Exact containing publication pending; full program active.
+
+
+## Cohort18 Sena and Arnes — 2026-10-20T17:14:33.263380+00:00
+
+Sena’s accomplice warning actually silences MAIN03C1P52-53; selective testimony and detention remain real despite apology. Her resistance30,reversal32 and confusion36 after the lord’s stare in C1continuation do not settle free collusion or an exact unseen mechanism. Arnes’s horse-killing EXP02U044P364-365,guard injuries412-425/442-450 and hostage threat460 remain severe. Threatened massacre and interrupted fireball are not completed killing of passengers. False accusations and clergy’s cruel pursuit retain separate responsibility. Megumin’s cat-endangering chant is stopped by Yunyun,not voluntary restraint; late survival/awards do not erase process harms.

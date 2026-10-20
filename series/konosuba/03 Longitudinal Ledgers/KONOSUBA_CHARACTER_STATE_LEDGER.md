@@ -1707,3 +1707,8 @@ Individual retrieval: [Lolisa](../08%20Evidence%20and%20Indexes/KONOSUBA_LOLISA_
 Hans explicitly calls the MAIN04 bath woman Wolbach at C3 continuation item/xhtml/p-010.xhtml P53. Kazuma’s uncertain recollection at MAIN09 C4 P242 and Wolbach’s formal self-naming at C4 P245 have different access. EXP03 carriage identity joins through Wolbach/Yunyun’s specific remembered invitation MAIN09F179-182,not hair/eyes alone: Arnes also has red hair/yellow eyes and remains distinct. Early Megumin release,resealing,later Komekko opening and retellings are separate stages. Chomusuke/Kuro variants join the creature without granting speaking Wolbach’s complete current mind,memories,age or consent.
 
 Individual [Wolbach](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_EVIDENCE_INDEX.md) and [Chomusuke](../08%20Evidence%20and%20Indexes/KONOSUBA_CHOMUSUKE_EVIDENCE_INDEX.md) indices; [shared provenance](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_CHOMUSUKE_NATIVE_PROVENANCE_01.json). Exact containing publication pending; full program active.
+
+
+## Cohort18 Sena and Arnes — 2026-10-20T17:14:33.263380+00:00
+
+Sena explicitly self-names kingdom prosecutor MAIN03C1P18; judge,lord,knights,unnamed deputies,Aloerina and Serenaセレナ remain distinct. Arnes explicitly self-names EXP02U023P15-16 and identifies the creature37,correcting Megumin’s mistaken-master fantasy. Similar red hair/yellow eyes do not join her to Wolbach. Hoost’s later shared-master relation does not transfer his current knowledge,lives or pact to Arnes. Two separate monographs/models/indices preserve each responsibility.

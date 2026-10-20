@@ -1893,3 +1893,8 @@ Individual retrieval: [Lolisa](../08%20Evidence%20and%20Indexes/KONOSUBA_LOLISA_
 Wolbach’s 私/situationalお姉さん,warm questions and softened refusals coexist with direct military self-naming,embarrassment and angry status defense. Chomusuke’s vocalizations/movements are not a fluent adult private monologue. Kazuma’s qualified smile impression MAIN09F564-565 remains qualified; Megumin’s recognition inference is hers. Current text scope is known BASE; eight EXP03 prose images were separately inspected completely with visible ruby. Four same-author informed English hypothetical first bodies do not establish Japanese/native-human adequacy,new L3 classifications or voice reliability.
 
 Individual [Wolbach](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_EVIDENCE_INDEX.md) and [Chomusuke](../08%20Evidence%20and%20Indexes/KONOSUBA_CHOMUSUKE_EVIDENCE_INDEX.md) indices; [shared provenance](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_CHOMUSUKE_NATIVE_PROVENANCE_01.json). Exact containing publication pending; full program active.
+
+
+## Cohort18 Sena and Arnes — 2026-10-20T17:14:33.263380+00:00
+
+Sena’s 自分,accusatory貴様,politeサトウさん and formal貴殿 belong to different occasions; narrator inference of a natural polite voice is not inner fact. Arnes’s 貴方様/我が主/ウォルバク様 deference shifts toward rougherあたし/貴様 and imperatives after exposure/conflict. Name correction and local apology do not become universal catchphrases. Current native recheck is BASE excludingrt/rp; eight informed same-author English hypothetical first bodies establish no Japanese/native-human adequacy,newL3class or voice reliability.

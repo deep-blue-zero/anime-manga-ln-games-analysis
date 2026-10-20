@@ -1363,3 +1363,8 @@ Individual retrieval: [Lolisa](../08%20Evidence%20and%20Indexes/KONOSUBA_LOLISA_
 MAIN04 C3 continuation (item/xhtml/p-010.xhtml) P53 gives reader-facing naming stronger than Kazuma’s later uncertain memory MAIN09C4P242. His partial cat/self description produces Wolbach’s mistaken rejection C3P421-425; affinity432 is a hypothesis. Final smile F564-565 is uncertain and desired,not forgiveness/death planning. MAIN15 present fire occurs while he looks away; MAIN16I1 is Aqua’s own focalization. Megumin’s no-danger inference EXP01U043110 from docility and her village explanations are interested accounts,not Chomusuke consent or neutral mechanism certification.
 
 Individual [Wolbach](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_EVIDENCE_INDEX.md) and [Chomusuke](../08%20Evidence%20and%20Indexes/KONOSUBA_CHOMUSUKE_EVIDENCE_INDEX.md) indices; [shared provenance](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_CHOMUSUKE_NATIVE_PROVENANCE_01.json). Exact containing publication pending; full program active.
+
+
+## Cohort18 Sena and Arnes — 2026-10-20T17:14:33.263380+00:00
+
+MAIN03interrogation and trial are Kazuma’s access; his appraisals of Sena’s true voice,purity or personal harshness remain perspectives. MAIN03EpP60-81 is Darkness’s viewpoint before Kazuma header82 and reward account84-126. MAIN04C1P161-162 reports his sense of being seen as a hero,not Sena’s complete motive. EXP02Megumin rationalizes paid handover and invents the earlier night culprit; current refusal,release and catches have separate agents. Later EXP03rank/death/prayer comparisons are mediated,not new Arnes appearances or her private beliefs.

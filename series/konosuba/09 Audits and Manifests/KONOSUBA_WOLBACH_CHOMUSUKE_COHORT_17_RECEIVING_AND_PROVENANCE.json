@@ -1,7 +1,7 @@
 {
   "schema": "konosuba.cohort17.receiving-and-provenance.v1",
   "recorded_utc": "2026-10-20T16:09:06.702226+00:00",
-  "status": "SEMANTIC_RECEIVING_COMPLETE_EXACT_CONTAINING_PUBLICATION_PENDING",
+  "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
   "scope": "Two substantial individual monographs and one provisional four-rule Wolbach reconstruction. Chomusuke Tier2monograph-only with future modeling open. Known sources,same informed author,not full-program closure or capability assessment.",
   "prior_published_authority": {
     "source": "5ec165a0b9a209ad3d8781e751a3feb4064484e7",
@@ -263,5 +263,20 @@
   "historical_integrity_requirement": "Preserve66immutable/72historical,four scores,Dust14blanks/SI-SY28nulls,all earlier annotations/indices/first bodies and80unrelatedscratch. Adoption/preflight rechecks these separately. No six StageDsuccessor authored by this cohort.",
   "publication_gate_required": "Complete candidate delta review,exact-index author preflight,normal push/full remote tree and changed bytes,source audit,housekeeping,final actual-source terminal reports/reporter/status and fresh published authority reload.",
   "designated_ownership": "No protected merge,executor activation,source admission or designated global curator/evaluator output authorship.",
-  "full_program_complete": false
+  "full_program_complete": false,
+  "publication_pending_at_authorship_history": "SEMANTIC_RECEIVING_COMPLETE_EXACT_CONTAINING_PUBLICATION_PENDING",
+  "publication_gate_close": {
+    "source": "3ed7a3e59383fc701f72073619ec8a7b5d6c16f2",
+    "tree": "995baa89ee644239afa783e887d7cea75d1ed247",
+    "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_WOLBACH_CHOMUSUKE_COHORT17_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "e08db32bb0e31be1918366da57db213f9402e77178f1671e7d6f186ea9a654f4",
+    "source_run": 39456715375,
+    "housekeeping_run": 39457421618,
+    "final_run": 39457492287,
+    "full_tests_each": 385,
+    "published_project_paths": 1150,
+    "current_models": 25,
+    "no_independent_accuracy_or_confidence_gain": true
+  },
+  "published_authority_reload_sha256": "7e743b27876cde4a571bfd71004b5cb9cdb40ed29dc6c2247610f6455b76880a"
 }

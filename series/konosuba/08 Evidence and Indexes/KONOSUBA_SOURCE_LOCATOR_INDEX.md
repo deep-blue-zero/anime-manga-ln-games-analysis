@@ -1886,3 +1886,8 @@ The [Leen](KONOSUBA_LEEN_EVIDENCE_INDEX.md), [Keith](KONOSUBA_KEITH_EVIDENCE_IND
 ## Cohort17 Wolbach and Chomusuke — 2026-10-20T16:06:56.617701+00:00
 
 [Wolbach](KONOSUBA_WOLBACH_EVIDENCE_INDEX.md) and [Chomusuke](KONOSUBA_CHOMUSUKE_EVIDENCE_INDEX.md) index the separate actors and access planes. [Shared provenance](KONOSUBA_WOLBACH_CHOMUSUKE_NATIVE_PROVENANCE_01.json) binds six actual known text receipts:3093distinctBASEcontextslots/twenty members/seven native objects,plus eight separately inspected EXP03 integral prose images with visible ruby. Images/text share the same EXP03object. Counts include other actors,blanks,reports and hypotheses; no new admission,globalunique/full-principal/ruby or independent source-test credit. No source media or complete transcript is published.
+
+
+## Cohort18 Sena and Arnes — 2026-10-20T17:14:33.263380+00:00
+
+[Sena index](KONOSUBA_SENA_EVIDENCE_INDEX.md) and [Arnes index](KONOSUBA_ARNES_EVIDENCE_INDEX.md),twenty-six attributable rows each,route exact MAIN03/04principal aliases and EXP02/03component windows. [Shared provenance](KONOSUBA_SENA_ARNES_NATIVE_PROVENANCE_01.json) verifies3,275knownBASEcontextslots/fifteen members/four native objects; includes collateral/blanks/reports,not independent decisions or a new whole-source/ruby/image/admission pass. Truncated MAIN03C1P161-240attempt has zero credit; only actual complete replacement windows count. No raw EPUBs,images or full transcripts enter Git.

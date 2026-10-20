@@ -1312,3 +1312,8 @@ Individual retrieval: [Lolisa](../08%20Evidence%20and%20Indexes/KONOSUBA_LOLISA_
 Wolbach values hot-spring treatment/reward,conversation,company and finite help. EXP03IMG033-035 actual gift/eating differ from an offered permanent role; her invitation is declined at destination and actual separation follows. IMG035 subordinate separation is qualified at036 as temporary. Chomusuke’s food,rest,touch and warm-basin entry MAIN09F852-854 deserve attention alongside power lore. MAIN16I1 headbutt18 and belly refusal23 coexist. EXP03U020610-611 limp-creature report/food-water question remains unanswered and does not alone diagnose neglect,illness or magical drain.
 
 Individual [Wolbach](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_EVIDENCE_INDEX.md) and [Chomusuke](../08%20Evidence%20and%20Indexes/KONOSUBA_CHOMUSUKE_EVIDENCE_INDEX.md) indices; [shared provenance](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_CHOMUSUKE_NATIVE_PROVENANCE_01.json). Exact containing publication pending; full program active.
+
+
+## Cohort18 Sena and Arnes — 2026-10-20T17:14:33.263380+00:00
+
+Sena makes/brings tea,closes a cold door MAIN04C1P96,offers a useful tool and publicly thanks others; sparse leisure/history stays unknown. Her partner-question limit MAIN03C1P255 is not a romantic invitation or exact age. Arnes’s visit,waiting,naming,finite300kactual payment EXP02U023P68-76 and later refund grievance matter alongside combat. No personal loan is printed. Megumin’s retaining the bag343 is not a fulfilled transfer,refund or Arnes’s gift. Sparse recreation outside pursuit is a gap rather than an appearance-based ceiling.

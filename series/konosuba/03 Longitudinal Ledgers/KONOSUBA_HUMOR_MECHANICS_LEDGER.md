@@ -1926,3 +1926,8 @@ Individual retrieval: [Lolisa](../08%20Evidence%20and%20Indexes/KONOSUBA_LOLISA_
 The rescuer’s wish correction EXP01U01637-52,divinity argument MAIN09C4,and Satou inference expose real mismatches without making all actions nonliteral. Wolbach’s bath fear follows actual staring,harassment and threat; its comedy does not erase exposure. Chomusuke’s pot trembling,actual bite/cry,paid-handover clinging and unwanted throws are bodily events,not automatically H4. Report,simile,uncertainty and gag classification remain separate. No prior humor annotations or class assignments are rewritten.
 
 Individual [Wolbach](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_EVIDENCE_INDEX.md) and [Chomusuke](../08%20Evidence%20and%20Indexes/KONOSUBA_CHOMUSUKE_EVIDENCE_INDEX.md) indices; [shared provenance](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_CHOMUSUKE_NATIVE_PROVENANCE_01.json). Exact containing publication pending; full program active.
+
+
+## Cohort18 Sena and Arnes — 2026-10-20T17:14:33.263380+00:00
+
+Sena’s bell,tea,bait and level scenes and Arnes’s mistaken-master entrance,naming dispute,interrupted threats and startled retreats create humor alongside real costs. MAIN03court reversal after lord’s stare has observed confusion and Aqua’s evil-force report,not a clean voluntary-corruption gag. Arnes is wrongly blamed for earlier nightly Explosions EXP02U023P295-300,then later admits actual herding U044P403. Comedy does not erase the killed horse,serious injuries or hostage threats. No frozen humor classes or annotations are rewritten.
