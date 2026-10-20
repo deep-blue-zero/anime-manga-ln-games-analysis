@@ -5,7 +5,7 @@ artifact_type: information_reputation_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.8"
+version: "0.9"
 status: active_provisional
 scope: "Information Circulation and Reputation; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -593,3 +593,90 @@ No new IP0051 missing-act resolution, verified negative recovery or hotel-image 
 | PG-RP-0042 / NONE | Momo/Morika/Kairi / school spectators153–154 witness Kairi rejects Morika/leads Momo, Momo squeezes hand | EV0034; local public partner assertion distinct private agreement162, no universal reputation outcome |
 
 IP0051@3 missing-act history unchanged, no proved negative retrieval/media publication, older graffiti/pool authorship/CPR still unresolved. Next IP0099, KN0111, TX0120, RP0043. Revision0.8 — V09 successors2026-10-20; all prior rows retained.
+
+## V10 successor transaction — PG-FR-V10
+
+[V10 reading](../02%20Sequential%20Readings/PEACH_GIRL_V10_DEEP_READING.md); EV=PG-EV-V10. Acquisition frontiers are current V10 occurrences. Reader correction not automatically character receipt; illustrated reports distinct independent history, unshown transmissions remain unshown.
+
+| Proposition / prior | Content/class at exit | Evidence/limit |
+| --- | --- | --- |
+| PG-IP-0099@1 / IP0098 | Kairi first opens craft9, thanks/reports returning rival case12, wears/protects / ESTABLISHED opening/use; return/protection partly reported | EV0002–0003/0010; earlier secret labor not known by V09 assent |
+| PG-IP-0100@1 / NONE | Street confrontation16–17, hospital bandage/IV22, contusions/mugging report23 / ESTABLISHED injury, attributed full mechanism | EV0004/0006/0010; Momo receipt39 only, unnamed visitor not merged |
+| PG-IP-0101@1 / NONE | Hotel staff25 confirms Okayasu surname507 / ESTABLISHED statement, mistaken Kairi inference | EV0007–0008; Ryo room identity later, imaginary affair27 not actual act |
+| PG-IP-0102@1 / NONE | Morika knife attack33 blocked guidebook37 / ESTABLISHED action/obstruction | EV0008; no fake prop or penetrating abdominal wound proved |
+| PG-IP-0103@1 / IP0098 | Kairi38 says mediated Morika/brother encounter / ATTRIBUTED_PURPOSE direct to Momo | EV0009; PR0014 original test supported, not all past motive verified |
+| PG-IP-0104@1 / NONE | Published Sae graduation48/Honda busy replacing50, entertainment ambition51 / ESTABLISHED transition and speech | EV0013; no verified firing cause/objective industry rank |
+| PG-IP-0105@1 / NONE | Tōji follows to prevent acts52, Sae feels monitored/eludes/private breakup idea55 and free claim110 / ESTABLISHED behavior/statements | EV0014/0027; no actual breakup or mutual romantic love proved |
+| PG-IP-0106@1 / IP0051@3 related | Sae sex boast59/trauma taunt61, hotel-exit memory / UNSUPPORTED_BOAST + adversarial diagnosis | EV0016; not independent missing-act evidence or clinical explanation |
+| PG-IP-0107@1 / IP0095 | Ryo says Morika originally his girlfriend/played tutor Kairi, secrecy protective70–75 / ATTRIBUTED_COMPETING_HISTORY | EV0018; pictures illustrate report, neither universal truth nor automatically all false |
+| PG-IP-0108@1 / NONE | Ryo answers Kairi mobile87 while he showers/lets Momo believe outing agreed / ESTABLISHED_IDENTITY_DECEPTION | EV0020; no Kairi apology receipt/date agreement |
+| PG-IP-0109@1 / NONE | Morika tricks Kairi into passenger cabin90/drives / ESTABLISHED coercive diversion | EV0022; no locked trunk/unconsciousness/full earlier coordination proved |
+| PG-IP-0110@1 / IP0108 | Ryo93 false Kairi-authorized proxy/doesnt know number / ESTABLISHED_FALSE_FRAME | EV0023; one partly true forced-ride reassurance97 does not make all honest |
+| PG-IP-0111@1 / NONE | Paid game-research week102, Momo defers103/declines153 / ESTABLISHED_OFFER_AND_REFUSAL | EV0026/0037; not actual job accepted or verified company |
+| PG-IP-0112@1 / NONE | Aki loved/dead/letter story119–123 / ATTRIBUTED_UNCORROBORATED_HISTORY | EV0029–0030; reported identity CHAR0022 only, no independent death proof |
+| PG-IP-0113@1 / NONE | Momo explicitly permits hug126, returns127, Kairi witnesses129 without earlier talk / ESTABLISHED bounded permission/asymmetry | EV0031; not all later physical consent or full informed truth of premises |
+| PG-IP-0114@1 / NONE | Ryo private whisper135 to Kairi, contents unknown / ESTABLISHED event, UNKNOWN message | EV0033; no exact invented confession, no Momo receipt |
+| PG-IP-0115@1 / NONE | Morika157 says recruited by Ryo/executive, member/free-party/travel seminar pitch / ATTRIBUTED organizational link | EV0038; knowledge Kairi gains then, no verified full business/coordination |
+| PG-IP-0116@1 / IP0111 | Questionnaire154 limited assent,159 income/loans/business interest,164 completed / ESTABLISHED purpose shift/conduct | EV0037/0039/0041; no proved membership/financial agreement, no physical permission |
+| PG-IP-0117@1 / NONE | Refused necklace imposed165, assault/escape prevention166–169, Kairi corridor170 / ESTABLISHED harm, outcome UNKNOWN | EV0041–0043; no completed intercourse/rescue/safety by cutoff |
+| PG-IP-0118@1 / IP0107 | Momo intends disclose146–147, Ryo permission153 / ESTABLISHED decision/release, actual Kairi receipt NOT_SHOWN | EV0035/0037; not permanent concealment or now confirmed genealogy |
+
+| Knowledge / holder / prior | Actual acquisition/change | Evidence/limit |
+| --- | --- | --- |
+| PG-KN-0111 / Kairi / KN0110 | Opens gift9/learns craft, knows own injury, mediation explanation38 to Momo | EV0002–0010; not prior secret-labor knowledge, hospital visitor name not supplied |
+| PG-KN-0112 / Momo / KN0109 | Hotel surname25→Ryo identity33/38, mediation38→injury/protection39; revises toward care42 | EV0007–0010; exact order, no earlier confirmed Kairi affair |
+| PG-KN-0113 / Sae / NONE | Own career transition/monitoring, overhears trip56–57, sees Ryo ride63 | EV0013–0017; no omniscient knowledge of complete brother past/phone fraud |
+| PG-KN-0114 / Momo / KN0112 | Receives Ryo genealogy70–75/confidence; adopts protective-brother reading, relays selectively79 | EV0018–0019; truth not verified by belief |
+| PG-KN-0115 / Kairi / KN0111 | Hears Momo ride/only-care relay77–79, not full genealogy; warns/dispute | EV0019; no actual Momo call receipt85–87 |
+| PG-KN-0116 / Ryo / NONE | Answers call meant Kairi87/knows outing agreement Momo believes | EV0020; no actual Kairi authorization shown |
+| PG-KN-0117 / Momo / KN0114 | Believes call with Kairi/date, accepts false proxy93, sees car96 | EV0020–0023; recipient identity not corrected to her yet |
+| PG-KN-0118 / Kairi / KN0115 | Experiences deceptive car ride90, sees Momo/Ryo96 without knowing false date | EV0022–0023; not knowingly abandoned outing he agreed |
+| PG-KN-0119 / Momo / KN0117 | Receives research offer102, party escort/crowd, Aki report120–123, grants hug126 | EV0026–0031; independent biography not acquired, attraction possibility not new pact |
+| PG-KN-0120 / Sae / KN0113 | Learns brother identity114, hears Aki120/sees hug127, later talks Ryo148 | EV0028–0031/0036; real tears/anger, not proved phone-fraud knowledge |
+| PG-KN-0121 / Kairi and Morika separately / KN0118 and NONE | Witness hug129, Kairi hears private whisper135 contents not given reader | EV0031/0033; prior memorial permission not shown received before confrontation |
+| PG-KN-0122 / Momo / KN0119 | Explains hug140, learns Kairi denies date141 but disbelieves fraud inference, asserts autonomy | EV0034; valid intention claim not guarantee Ryo intention |
+| PG-KN-0123 / Kairi / KN0121 | Momo reveals call141, correctly infers Ryo impersonation; warns pursuit142 | EV0034; direct reader corroboration87, motive warning not exact confession |
+| PG-KN-0124 / Momo / KN0122 | Overhears Ryo defense151, permission disclose153, declines week/limited form154 | EV0036–0037; not actual Kairi receipt/verified protective past |
+| PG-KN-0125 / Kairi / KN0123 | Morika157 reveals Ryo executive/recruiter, runs158 | EV0038–0039; full organization/room outcome unknown |
+| PG-KN-0126 / Momo / KN0124 | Notices form mismatch159, receives plausible Sae account/advocacy, sees third matching cross165 | EV0039–0041; owns growing alarm, not all relationships now proved identical |
+| PG-KN-0127 / Momo / KN0126 | Experiences assault166–169, recalls Kairi warning166, tries escape/calls distressed170 | EV0042–0043; confirmed current danger not earlier omniscience, rescue unshown |
+| PG-KN-0128 / reader / NONE | Hospital22 before Momo knows; phone87 before Kairi inference141; withheld whisper135 remains unknown; danger169/corridor170 parallel | EV0006/0020/0033–0034/0042–0043; reader not given all historical truth or future rescue |
+
+| Transmission / prior | Sender → actual recipient / event | Truth/reach |
+| --- | --- | --- |
+| PG-TX-0120 / NONE | Kairi → Momo12 gift thanks/report commercial return | EV0003; direct gift circumstances, report not independent handback |
+| PG-TX-0121 / NONE | Hotel staff → Momo25 Okayasu507 | EV0007; surname only, not Kairi identity |
+| PG-TX-0122 / NONE | Kairi → Momo38 brother/mediated appointment | EV0009; substantive purpose explanation, PR0014 support |
+| PG-TX-0123 / NONE | Ryo → Momo39 mugging/injury/case protection, Kairi41 happiness | EV0010; new recipient frontier, current bodily injury independently depicted |
+| PG-TX-0124 / NONE | Tōji ↔ Sae52 monitored complaint/preventive following rationale | EV0014; no mutual love or breakup declaration |
+| PG-TX-0125 / NONE | Sae → Momo59–62 sex boast/Jigoro taunt, Momo rejects comparison | EV0016; uncorroborated boast/adversarial claim, no clinical diagnosis |
+| PG-TX-0126 / NONE | Ryo → Momo70–75 genealogy/protective secrecy/care Kairi | EV0018; historical report not independent fact |
+| PG-TX-0127 / NONE | Momo → Kairi77–79 ride/care message only, Kairi → Momo warning | EV0019; genealogy deliberately not relayed then |
+| PG-TX-0128 / NONE | Momo → RYO85–87 apology/date meant Kairi; Ryo agrees without correcting | EV0020; actual recipient Ryo, NOT Kairi |
+| PG-TX-0129 / NONE | Ryo → Momo93 false Kairi-authorized proxy/number claim | EV0023; direct fraud, not true relay |
+| PG-TX-0130 / NONE | Morika → Kairi98 request relay HER apology to Momo | EV0025; promised future relay not actual Momo receipt |
+| PG-TX-0131 / NONE | Ryo → Momo102–103 game-research offer/week; let-think reply | EV0026; offer not accepted |
+| PG-TX-0132 / NONE | Ryo → Sae/Momo111 full name; Momo → Sae114 brother identity | EV0027–0028; local participants, Sae actual tears115 |
+| PG-TX-0133 / NONE | Ryo → Momo120–123 Aki likeness/death/letter; Sae hidden listener120 | EV0029–0030; no general public corroboration |
+| PG-TX-0134 / NONE | Momo → Ryo124 Kairi support; hug request125/express assent126 | EV0030–0031; specific permission, Kairi not shown hears earlier speech |
+| PG-TX-0135 / NONE | Ryo → Kairi135 private whisper | EV0033; content UNKNOWN to reader/Momo, not invented admission |
+| PG-TX-0136 / NONE | Kairi ↔ Momo139–144 contact ban/autonomy/hug/date/impersonation dispute | EV0034; he learns call and correctly infers, she disbelieves, not shared settled truth |
+| PG-TX-0137 / NONE | Sae → Ryo148–150 reversed hotel slander, he rebuts; Momo overhears151 | EV0036; actual bounded audience, no broad diffusion/belief proved |
+| PG-TX-0138 / NONE | Momo ↔ Ryo153 permission disclose and week refusal,154 questionnaire assent | EV0037; no subsequent Kairi receipt, limited consent |
+| PG-TX-0139 / NONE | Morika → Kairi155–157 member/seminar/Ryo recruiter-executive | EV0038; new role knowledge followed run, not prior informed joining |
+| PG-TX-0140 / NONE | Ryo → Momo158–159 advertising questionnaire; visible income/loans/business fields | EV0039; changed frame not game interview, membership unproved |
+| PG-TX-0141 / NONE | Ryo → Momo160–163 Sae analysis/offer persuade | EV0039–0040; plausible counsel/actual promise, not performed reform |
+| PG-TX-0142 / NONE | Momo → Ryo165 gift refusal, he ignores; matching gift acknowledgment | EV0041; no free acceptance |
+| PG-TX-0143 / NONE | Momo → Ryo168 leaving, Ryo169 will not let leave | EV0042; explicit boundary overridden by actual force |
+| PG-TX-0144 / NONE | Momo distressed Okayasu text170 / intended Kairi orientation | EV0043; audibility/actual Kairi receipt NOT_ESTABLISHED, corridor not rescue |
+
+| Reputation / prior | Target / actual audience | Limit |
+| --- | --- | --- |
+| PG-RP-0043 / NONE | Sae / magazine48 farewell and Honda professional transition50 | EV0013; real published career transition not proof punitive firing |
+| PG-RP-0044 / NONE | Ryo / party crowd112 admires apparent success, Momo impressed | EV0027; social proof not independent game-company legitimacy |
+| PG-RP-0045 / NONE | Momo / Sae calls best friend109, she protests | EV0027; false current affiliation not restored friendship |
+| PG-RP-0046 / NONE | Ryo / Momo ideal kind brother from counsel/protective report/praise; Kairi disputes | EV0017–0019/0036; situated belief not narrator assessment |
+| PG-RP-0047 / NONE | Momo / Sae hotel slander to Ryo148–150, Ryo rejects, Momo overhears | EV0036; bounded rejected accusation, not actual new victim/perpetrator history or broad rumor |
+| PG-RP-0048 / NONE | Ryo / Momo trusts defender/advocate152/163, then refused gift/assault revise alarm165–169 | EV0036/0040–0042; no wider audience receipt of assault established |
+
+IP0051@3 and earlier unresolved authorship/CPR/media questions unchanged. Intended truth disclosure not transmitted, unknown whisper not filled, no actual organization loan or rescue proof. Next IP0119, KN0129, TX0145, RP0049. Revision0.9 — V10 successors2026-10-20; all old rows retained.

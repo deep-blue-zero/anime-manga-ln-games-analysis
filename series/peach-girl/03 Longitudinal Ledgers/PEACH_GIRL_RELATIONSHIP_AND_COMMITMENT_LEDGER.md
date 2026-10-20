@@ -5,7 +5,7 @@ artifact_type: relationship_commitment_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.8"
+version: "0.9"
 status: active_provisional
 scope: "Directional Relationships and Commitments; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -393,3 +393,48 @@ Momo/Sae no new forgiveness or freely restored friendship; Sae violating boundar
 | PG-CM-0072 / NONE | Morika presents commercial phone case163, Kairi opens/delighted164/accepts despite cost question | EV0037; GIFT_ACCEPTED, not proof completed intimacy or knowing rejection of Momo craft |
 
 Current dating supported in V09, not rewritten V08 pact. No automatic cancellation of valid refusal because she later trusts/kisses, no inferred Tōji/Sae resolution or Momo/Sae forgiveness. Next RL0120, CM0073. Revision0.8 — V09 successors2026-10-20, all older rows preserved.
+
+## V10 successor transaction — PG-FR-V10
+
+[V10 reading](../02%20Sequential%20Readings/PEACH_GIRL_V10_DEEP_READING.md); EV=PG-EV-V10. Current directions learned at actual V10 frontiers; a depicted hug or one speaker account does not establish mutual romance/complete biography.
+
+| Direction / prior | From → to / transition | Evidence and limit |
+| --- | --- | --- |
+| PG-RL-0120 / RL0119 | Momo → Kairi / punch/flight, destroyed photos, ignored calls/private deadline, surname-only hotel inference, then mediation/injury receipt and chosen hug42 | EV0002–0010; strong romantic priority, no actual announced breakup or deadline received by him |
+| PG-RL-0121 / RL0115 | Kairi → Momo / first opens gift9, thanks/wears/protects, directly mediating purpose38, warmth41 | EV0002–0010; CL0006@10. Care actual, report of returned commercial gift not independently shown handback |
+| PG-RL-0122 / RL0121 | Kairi → Momo / love-hotel trick47, trip planning/brochure effort, hurt she believes brother/exit82 | EV0012/0015/0019; desire/effort not permission or all prior concerns settled |
+| PG-RL-0123 / NO_PRIOR_ROW_VERIFIED | Tōji → Sae / daily following, says prevent bad acts/dating warrants presence52, chases | EV0014; protective-monitoring purpose stated, reciprocal love not established |
+| PG-RL-0124 / NO_PRIOR_ROW_VERIFIED | Sae → Tōji / complains monitoring/eludes, thinks breakup55, boasts daily sex59/claims free110 | EV0014/0016/0027; no actual breakup or sex corroboration, complaint real |
+| PG-RL-0125 / RL0105 | Sae → Momo / sexual-status/trauma taunt, observes brother encounter, later reverses hotel story to Ryo | EV0016/0024/0036; CL0003@10. Old victim/perpetrator roles not rewritten by accusation |
+| PG-RL-0126 / NONE | Ryo → Momo / counsel, favorable Kairi/past account, confidence request, bow/praise; adult escort/attention/Aki story | EV0017–0018/0027/0029–0030; trust recruited, exclusive sincerity and history unverified |
+| PG-RL-0127 / NONE | Momo → Ryo / gratitude/ideal brother belief, selective relay, accepts party, feels attraction possibility117, compassion | EV0017–0019/0023/0027–0030; actual affect not completed chosen new partner |
+| PG-RL-0128 / RL0110 | Kairi → Ryo / warns brother preys/like Sae79–80, later violent confrontation/pursuit inference | EV0019/0033–0034; broad past account attributed, phone evidence supports narrower current concern |
+| PG-RL-0129 / RL0120 | Momo → Kairi / keeps Ryo history secret, dismisses warning, apologizes by phone NOT received by him, believes stood up, mutual glimpse anger | EV0019–0023; actual false premises/limited knowledge not deliberate knowing acceptance of fraud |
+| PG-RL-0130 / RL0113 | Morika → Kairi / deceptive car ride, apology relay request, vague paid-party offer, seminar/member pitch/recruiter disclosure | EV0022/0025/0038; pressure actual, no informed membership or demonstrated wholly coordinated scheme |
+| PG-RL-0131 / RL0126 | Ryo → Momo / receives call as Kairi87, false proxy93, paid-game offer/party charm | EV0020/0023/0026–0030; direct identity deception not merely jealous accusation |
+| PG-RL-0132 / RL0127 | Momo → Ryo / specifically permits/returns compassionate hug126–127, says Kairi saved her124 | EV0030–0031; bounded consent, not reciprocal new romance or later permission |
+| PG-RL-0133 / RL0122 | Kairi → Momo / pulls her away138, bans brother contact/grips139, correctly infers fraud141 but cannot persuade, leaves145 | EV0033–0035; real concern/control differentiated, no explicit breakup |
+| PG-RL-0134 / NONE | Ryo → Sae / rejects slander149–150; later offers Momo to talk Sae163 | EV0036/0040; actual rebuttal not all moral integrity, promised advocacy not performed |
+| PG-RL-0135 / RL0129 | Momo → Kairi / social autonomy objection140, privately only him146, intended disclosure147, declines week because he matters153 | EV0034–0037; history not actually received by Kairi, affection survives quarrel |
+| PG-RL-0136 / RL0131 | Ryo → Momo / questionnaire substitution, refused gift imposed165, unsolicited kiss/touch, prevents escape168–169 | EV0039–0042; CL0017@7/0027@1. Sexual assault established, no completed intercourse/result by cutoff |
+| PG-RL-0137 / RL0133 | Kairi → Momo / runs after role disclosure157–158/corridor170 | EV0038–0039/0043; practical attempt evident, rescue success unshown |
+
+| Commitment / prior | Actual terms and disposition | Limit |
+| --- | --- | --- |
+| PG-CM-0073 / CM0070 and CM0072 separately | Handmade gift opened9/thanks12/wears14; reports returned commercial case12 | EV0002–0003; gift repair actual, handback reported not depicted |
+| PG-CM-0074 / CM0065 | Momo refuses love-hotel trick47 despite private conditional sexual interest | EV0012; SPECIFIC_REFUSAL, promised respect not universal reform |
+| PG-CM-0075 / NONE | Weekend trip proposal57, gathered plans76; own wish lasting memory | EV0015/0019; PROPOSED_NOT_BOOKED, not sex permission/healing guarantee |
+| PG-CM-0076 / NONE | Ryo73 asks genealogy kept secret, Momo79 withholds; later153 permits telling | EV0018–0019/0037; CONFIDENCE_ACTUAL_RELEASED_LATER, no Kairi receipt yet |
+| PG-CM-0077 / NONE | Momo85–86 outing10am station, RYO answers as Kairi87 | EV0020; APPARENT_AGREEMENT_WRONG_RECIPIENT, no actual Kairi promise/breach |
+| PG-CM-0078 / NONE | Momo97 accepts party after false proxy/anger | EV0023; PARTY_ONLY, not sex/work/organization consent |
+| PG-CM-0079 / NONE | Morika101 party earnings/details later/free choose,155–157 seminar/no cost/free trips | EV0025/0038; INCOMPLETE_TERMS, no verified Kairi membership |
+| PG-CM-0080 / NONE | Ryo102–103 paid game-research week; Momo let think | EV0026; NOT_ACCEPTED at103, refusal153 separately retained |
+| PG-CM-0081 / NONE | Ryo125 hug request/withdrawal, Momo126 specific yes/returns hug127 | EV0031; SPECIFIC_PERMISSION_ONLY, not later contact or verified premises |
+| PG-CM-0082 / NONE | Kairi139 bans Ryo contact/proximity; Momo140 rejects dating entitlement | EV0034; RESTRICTION_CONTESTED, valid concern not automatic authority |
+| PG-CM-0083 / CM0076 | Momo146–147 decides disclose, Ryo153 permits | EV0035/0037; INTENDED_DISCLOSURE_RELEASED, actual Kairi receipt NOT_SHOWN |
+| PG-CM-0084 / CM0080 | Momo153 declines week/Kairi important, Ryo accepts/apologizes | EV0037; EXPLICIT_TASK_REFUSAL, not blanket yes from earlier party |
+| PG-CM-0085 / NONE | Simple questionnaire only154 accepted, financial/business form159/returned164 | EV0037/0039/0041; BOUNDED_TASK_ASSENT_PURPOSE_SHIFT, no verified membership/loan/sex agreement |
+| PG-CM-0086 / NONE | Ryo164 cross thanks, Momo165 no/dont want; draped despite refusal | EV0041; GIFT_REFUSAL_OVERRIDDEN, identical gifts do not prove identical relationships |
+| PG-CM-0087 / CM0081 limited earlier | Momo167 pushes away/168 leaving, Ryo grabs/pins/refuses let leave169 | EV0042; EXPLICIT_EXIT_OVERRIDDEN/SEXUAL_ASSAULT, earlier permitted hug not authorization, no completed further act/result yet |
+
+No actual Tōji/Sae breakup or Momo/Ryo couple agreement. No Momo/Sae forgiveness. Next RL0138, CM0088. Revision0.9 — V10 successors2026-10-20; all prior rows retained.

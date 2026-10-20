@@ -5,7 +5,7 @@ artifact_type: character_development_readiness_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.8"
+version: "0.9"
 status: active_provisional
 scope: "Character Development and Readiness; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -330,3 +330,34 @@ Readiness UNASSESSED, no operational model or actual held-out reconstruction tes
 | PG-CS-0105@1 / CHAR0004 and CHAR0021 separately / CS0102 and CS0101 | CHOICE / Morika asks one time tomorrow507, Kairi agrees162, accepts commercial phone case163–164; sees Momo165/calls after her166 | EV0036–0038; CL0006@9/0025@1. Agreement/gift actual, no witnessed hotel/sex/explanation. Subsequent conduct needed; not erase earlier car resistance |
 
 No material new Tōji inner-state evidence after V08: background/looking-away do not support new preference model. No new Sae reform. Next CHAR0022, CS0106, RD0001. Revision0.8 — V09 successors2026-10-20; all older character/state/readiness rows preserved.
+
+## V10 successor transaction — PG-FR-V10
+
+[V10 reading](../02%20Sequential%20Readings/PEACH_GIRL_V10_DEEP_READING.md),179/179 directly inspected,163 mainline. EV=PG-EV-V10; CHAR=PG-CHAR. Learned at stated occurrence frontier, not backdated. HIGH direct conduct/speech, MODERATE motive/pattern, attributed histories not omniscient biography. Readiness UNASSESSED_NO_OPERATIONAL_MODEL_TESTED; no RD/model created.
+
+| Subject / prior | Identity update | Limit |
+| --- | --- | --- |
+| PG-CHAR-0020 / same V09 brother | 岡安涼, Okayasu Ryō/Ryo: Morika callsりょう33, Kairi identifies older brother38, full self-introduction111. Actual driver/party companion/phone impersonator; Morika157 calls recruiter/executive | Hospital visitor22 not explicitly named/merged. Work/age/past accounts attributed; name does not verify good-brother persona |
+| PG-CHAR-0022 / NONE | アキ Aki, woman Ryo names119 and claims once loved/died121 | Reported person/mental portrait only; independent existence, death, letter and chronology UNVERIFIED. No invented global identity or character model |
+
+| State / subject / prior | Actual transition/frontier | Basis / limit |
+| --- | --- | --- |
+| PG-CS-0106@1 / CHAR0001 / CS0104 | CHOICE/KNOWLEDGE: punches/leaves5–7, tears Kairi photos10, hangs up12–13, private uncommunicated deadline18–20; hotel surname inference25/imagined betrayal27 | EV0002–0007; CL0020@5. Actual anger/violence, no mutual breakup or known freely missed promise |
+| PG-CS-0107@1 / CHAR0004 / CS0105 | KNOWLEDGE/CHOICE: opens handmade gift9, thanks/reports return12/wears14; street/hospital injury, protects case by report39–40; directly explains mediator38 | EV0002–0010; CL0006@10. Genuine costly care, incomplete prior explanation not all fake; injury acquisition not Momo early knowledge |
+| PG-CS-0108@1 / CHAR0001 / CS0106 | KNOWLEDGE/DISPOSITION: hears mediation38/injury39, chosen embrace42/more important than anyone | EV0009–0010; CL0013@6. New strong current priority, not proof V09 coercion absent |
+| PG-CS-0109@1 / CHAR0004 / CS0107 | CHOICE: love-hotel amusement trick45–47, trip proposal57, extensive brochure labor76–83 | EV0012/0015/0019; CL0006@10/0017@7. Care/desire/effort coexist with manipulative setting; no booking/sex or blanket permission |
+| PG-CS-0110@1 / CHAR0003 / CS0093 | CONTEXT/CHOICE: magazine graduation/model career frustration, entertainment aim51, feels monitored52/eludes55, breakup idea not act; taunts Momo58–62 | EV0013–0016; CL0002@9/0003@10. Ambition/distress actual, sex boast unsupported, no clinical trauma proof |
+| PG-CS-0111@1 / CHAR0002 / CS0085 | CHOICE: follows Sae, states cannot leave her to harmful acts52/dating entitlement; loses chase54 | EV0013–0014; CL0027@1. Direct new behavior, not new romantic-love disclosure or global mind-reading |
+| PG-CS-0112@1 / CHAR0020 / NONE | REVEALED_NOT_NEW/CHOICE: offers ride/counsel, competing Morika genealogy70–75/protective secrecy request, credits Momo effect | EV0017–0018; CL0025@2/0027@1. Historical illustrations tied to report, counsel real not global sincerity |
+| PG-CS-0113@1 / CHAR0001 / CS0108 | KNOWLEDGE/CHOICE: believes kind Ryo, withholds genealogy79, disputes Kairi warnings; sees brochure labor83, calls apology85 | EV0017–0020; CL0020@5. Own choice under confidence, call recipient not Kairi, no source of confirmed full history |
+| PG-CS-0114@1 / CHAR0020 / CS0112 | CHOICE: answers Kairi phone87 without correcting Momo, later false proxy93; party/game offer, adult charm, Aki bereavement narrative | EV0020/0023/0026–0030; CL0027@1. Fraud direct; Aki account not automatically disproved by separate lie |
+| PG-CS-0115@1 / CHAR0001 / CS0113 | CHOICE/AFFECT: party accepts97, research let-think103, escort/awe107/117 attraction possibility, Kairi support124, expressly permits compassionate hug126 | EV0023/0026–0031; CL0013@6/0017@7. Attraction and care actual, not completed new love/sex, permission specific |
+| PG-CS-0116@1 / CHAR0021 and CHAR0004 separately / CS0101 and CS0109 | CHOICE/CONTEXT: Morika deceptive car ride89–91/job details withheld101; Kairi protests/suspicious, later garden witness129 | EV0022/0025/0031; CL0027@1. Not free romantic outing, no locked trunk/unconsciousness/full common plan |
+| PG-CS-0117@1 / CHAR0004 / CS0116 | CHOICE/KNOWLEDGE: dodged swing133/collar-grab/threat134, private unknown whisper135; contact ban139, learns Momo call141/correctly infers fraud, argument/exit145 | EV0033–0035; CL0006@10/0020@5. Concern factually supported, control not vindicated; no explicit breakup or secure punch impact |
+| PG-CS-0118@1 / CHAR0003 / CS0110 | AFFECT/CHOICE: actual tears115 after brother link, later spies hug/party and slanders Momo to Ryo148–150; embarrassed leaves151 | EV0028–0031/0036; CL0002@9/0003@10. Real distress does not cancel actual harm, motive mixture unresolved |
+| PG-CS-0119@1 / CHAR0001 / CS0115 | CHOICE/REFLECTION: asserts autonomy140, privately only Kairi146, decides disclose146–147, hears Ryo defense151, gains permission153, declines week/accepts questionnaire154 | EV0034–0037; CL0013@6/0027@1. Agency actual, no Kairi receipt of history; task assent limited |
+| PG-CS-0120@1 / CHAR0020 / CS0114 | CHOICE: defense/advocacy reassures Momo, changes game form to financial/business questions159; drapes refused gift165, unwanted kiss/touch166–167, pulls/pins her after leave168–169 | EV0036–0042; CL0017@7/0027@1. Actual sexual assault/blocked exit, no completed intercourse by cutoff; prior good counsel not erased or excuse |
+| PG-CS-0121@1 / CHAR0004 / CS0117 | KNOWLEDGE/CHOICE: learns Ryo executive/recruiter157, immediately runs158, still corridor170 | EV0038–0039/0043; CL0006@10. No actual room entry/rescue/safety verified |
+| PG-CS-0122@1 / CHAR0001 / CS0119 | KNOWLEDGE/CHOICE: completes form164, recognizes repeated gifts/refuses necklace165, alarm/recalls warning166, pushes away167/declares leaving168, held against will169/distressed170 | EV0039–0043; CL0017@7/0020@5. New confirmed danger not her earlier knowledge; refusal and escape initiative actual, final outcome unresolved |
+
+Misao absent as present actor; remembered praise/necklace reports do not establish a new preference. Aki no independent inner access. No fan-trio/earlier model promotion. Next CHAR0023, CS0123, RD0001. Revision0.9 — V10 successors2026-10-20; prior rows and full prior body preserved.
