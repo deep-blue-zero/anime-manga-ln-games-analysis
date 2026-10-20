@@ -5,7 +5,7 @@ artifact_type: claims_predictions_revisions_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.6"
+version: "0.7"
 status: active_provisional
 scope: "Claims, Predictions and Revisions; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -132,28 +132,29 @@ Bootstrap source-derived claims, forecasts, revisions and current-index rows: **
 | Claim | Active version / cutoff | Latest revision | Unresolved evidence or propagation debt |
 | --- | --- | --- | --- |
 | PG-CL-0001 | @3 / V04 | PG-RV-0015 | Recurrence of the internal pattern |
-| PG-CL-0002 | @7 / V07 | PG-RV-0036 | Unobtainable affection prompts destruction and coerced possession |
-| PG-CL-0003 | @7 / V07 | PG-RV-0037 | Photographs become exposure leverage; actual circulation bounded |
+| PG-CL-0002 | @8 / V08 | PG-RV-0044 | Property claim and displeasure at Momo joy; specific desire/competition coexist |
+| PG-CL-0003 | @8 / V08 | PG-RV-0045 | Denies actual threat and tampers sign; fan lie/push history remain distinct |
 | PG-CL-0004 | @2 / V02 | PG-RV-0003 | Authorship disclosure |
-| PG-CL-0005 | @7 / V07 | PG-RV-0038 | Protective resistance becomes concealment/coerced rupture and harmful display |
-| PG-CL-0006 | @7 / V07 | PG-RV-0039 | Dismissal then accountability, aid and clarification pressure; motives open |
+| PG-CL-0005 | @8 / V08 | PG-RV-0046 | Explicit private protective account, actual rejection and limited attempted care |
+| PG-CL-0006 | @8 / V08 | PG-RV-0047 | Material care/desire, intrusive choices/contact, accepts disclosed uncertainty |
 | PG-CL-0007 | @1 / V01 | — | Flashback |
 | PG-CL-0008 | @2 / V03 | PG-RV-0006 | — |
 | PG-CL-0009 | @1 / V02 | — | Context disclosure |
 | PG-CL-0010 | @1 / V02 | — | Organizer confirmation |
 | PG-CL-0011 | @1 / V02 | — | Further disbelief cases |
 | PG-CL-0012 | @2 / V04 | PG-RV-0012 | — |
-| PG-CL-0013 | @3 / V04; PG-AUDIT-20261019 | PG-RV-0020 | Romantic pull supported; category/extent unresolved |
+| PG-CL-0013 | @4 / V08 | PG-RV-0048 | Particular warmth, friend/dog contrasts, explicit more-than-friend uncertainty and Tōji love |
 | PG-CL-0014 | @1 / V03 | — | — |
-| PG-CL-0015 | @5 / V07 | PG-RV-0040 | Shared repair displaced by solitary protection and actual asymmetric rupture |
+| PG-CL-0015 | @6 / V08 | PG-RV-0049 | Enacted separation leaves love/grief; new support negotiated without false certainty |
 | PG-CL-0016 | @1 / V04 | — | Sincerity of relief |
-| PG-CL-0017 | @4 / V07 | PG-RV-0041 | Continuing hurt and wanted affection; contact cannot prove inner preference |
+| PG-CL-0017 | @5 / V08 | PG-RV-0050 | Kiss/comfort/refusal/uncertainty differ by instance; no blanket permission from care |
 | PG-CL-0018 | @3 / V06 | PG-RV-0034 | Dissonance then truth/disillusionment; own act unresolved |
-| PG-CL-0019 | @2 / V06 | PG-RV-0035 | Perfume first steered, then copied/weaponized; detection fallible |
-| PG-CL-0020 | @2 / V07 | PG-RV-0042 | Phone listener, fake originals and public display split causal knowledge |
+| PG-CL-0019 | @3 / V08 | PG-RV-0051 | Broken/kept bottle carries remembered love despite steered selection history |
+| PG-CL-0020 | @3 / V08 | PG-RV-0052 | Misao receives account; fan lie/sign actor and inner feeling learned at distinct frontiers |
 | PG-CL-0021 | @2 / V07 | PG-RV-0043 | Momo revises revenge and rescues; actual Sae reform contradicted |
 | PG-CL-0022 | @1 / V07 | — | Aid and disengagement coexist without forgiveness/innocence retroactively |
-| PG-CL-0023 | @1 / V07 | — | Protective motive under coercion explains rupture without erasing chosen harm |
+| PG-CL-0023 | @2 / V08 | PG-RV-0053 | Private explanation corroborates protective reason, not exclusive strategy or canceled injury |
+| PG-CL-0024 | @1 / V08 | — | Loss combines unverified care assumptions and distinct deliberate diversions, no proved conspiracy |
 
 Revision history: 0.1 — bootstrap schema, zero rows, 2026-10-16 UTC. 0.2 — V01 transaction rows appended (frontier PG-FR-V01), 2026-10-16 UTC. V02 transaction rows appended and forecast statuses adjudicated (frontier PG-FR-V02), 2026-10-16 UTC. V03 rows, revisions and adjudications appended (frontier PG-FR-V03), 2026-10-17 UTC. V04 rows, revisions and adjudications appended (frontier PG-FR-V04), 2026-10-17 UTC.
 
@@ -306,3 +307,47 @@ No prior-volume erratum newly required. Apparent original-film handover139–141
 | PG-PR-0012 / PG-FR-V07 | V08 mainline depicts Kairi concrete interpersonal support for Momo in response to V07 breakup/kiss injury: directly addresses her distress/needs, accompanies/helps her, or confronts Tōji/Sae on her behalf. Mere presence/internal concern/unrelated banter insufficient; DISCONFIRMED if no such step anywhere V08. OPEN | Withdrawal, Momo acts alone or another helper. EV0045/0049 actual locating/intervention grounds forecast, no romance/recovery guarantee. Recurring future-looking promotional collages exposed, V08 mainline unopened; prospective mainline test not blind-series prediction |
 
 Other current claims unchanged with bounds: CL0001 appearance/internalization, CL0004 authorship, CL0007 CPR, CL0008 tan report, CL0009–0014 earlier rupture/isolation/agency/repair/Kairi category/testimony, CL0016 earlier relief, CL0018 Jigoro and CL0019 perfume. V07 does not settle their outstanding historical questions or strengthen generality by nonappearance. Momo active correct inference specifically counters flattening any older risk/disbelief claim into universal gullibility. Next CL0024, PR0013, RV0044. Revision history0.6 — V07 successors, two new scoped claims, original-test forecast disposition and prospective PR0012, closure owner date2026-10-20.
+
+## V08 successor transaction — PG-FR-V08
+
+New [V08 reading](../02%20Sequential%20Readings/PEACH_GIRL_V08_DEEP_READING.md),2026-10-20 owner date; EV=PG-EV-V08. Full source inspected before this successor; prior claims/forecasts/failures/frozen versions untouched. Current index alone narrowly updated above. Facts, inferred patterns and attributed values distinguished.
+
+| Claim version | Scoped formulation / class / support | Counterevidence, alternative and discriminator | Dependencies / frontier |
+| --- | --- | --- | --- |
+| PG-CL-0002@8 | Sae maintains preferred-girl/property claim while Tōji unresponsive, and Momo joy provokes displeasure despite achieved public couple position / STRONGLY_SUPPORTED_INTERPRETATION / EV0002/0017/0026/0028/0031 | Specific attraction remains, not rivalry-only; prior actual threatened vulnerability not erased. HIGH conduct/statements, MODERATE motive weights. Future choices without competition/possession reward discriminate | CS0082/0084; RL0089/0096; RP0036; PG-FR-V08 |
+| PG-CL-0003@8 | Deliberate manipulation continues through false preference story/denial of actual threat and depicted trail-sign sabotage; bounded fan lie distinct, felt push unproved / ESTABLISHED acts + STRONGLY_SUPPORTED pattern / EV0002/0005/0016–0017/0029–0032 | Denial false against V07 direct ultimatum, not mere competing opinion; no fan coordination/push actor or new media dissemination established. HIGH local acts, future independent disclosure needed for gaps | CS0082/0084; IP0074/0077–0080; TX0085/0087/0090/0096; PG-FR-V08 |
+| PG-CL-0005@8 | Tōji explicitly explains protective photo/media reasoning to Misao while enacting cruel rejection toward Momo; private tears/attempted burn aid coexist public compliance and unresponsive Sae kiss / STRONGLY_SUPPORTED_INTERPRETATION / EV0003/0006–0014/0026–0028 | His anticipated lifelong label is attributed risk model and only path he could think, not sole feasible choice; actual note/door/gift harms oppose perfect sacrifice, explicit account opposes freely changed love. HIGH acts/self-report, MODERATE exhaustive motive. Honest Momo disclosure/later independent choices discriminate | CS0079/0085; RL0088/0102; IP0072–0074; CL0023@2; PG-FR-V08 |
+| PG-CL-0006@8 | Kairi performs concrete Momo-specific care/confrontation/rescue and explicit desire, later accepts her uncertain-more-than-friend/stillTlove position; intrusive choices/contact coexist / STRONGLY_SUPPORTED_INTERPRETATION / EV0010/0019–0022/0027/0034–0037/0040–0046 | Specific69 stop heeded/acceptance163 counter pure exploitation; purchases, committee137 and surprise166 counter fully respectful savior. Brother finance/plant assertions not independent guarantees. HIGH sequence, MODERATE exclusive motive; future response to boundaries/noncompetitive cost discriminates | CS0080/0083/0086/0089–0090; RL0090/0094/0100; CM0053–0060; PG-FR-V08 |
+| PG-CL-0013@4 | Momo's Kairi feeling moves through particular warmth80, current friend98, comforting kiss then dog/absence-of-flutter136, and explicit155 more-than-friend importance but unsure love/comfort while still loves Tōji154; later warmth/kisses intensify without stated reciprocal pact / STRONGLY_SUPPORTED situated feeling + UNRESOLVED final category / EV0022–0026/0034–0046 | Dog comparison/current friend strong counter to settled mutual romance, later more-than-friend value strong counter to generic friendship-only reduction. Older V03/V04 romantic pull remains at historical cutoff. HIGH attributed shifts, no final categorical inference. Later explicit Momo decision and conduct needed | CS0083/0085/0087–0090; RL0091/0093/0097/0099; CM0057–0060; IP0076; PG-FR-V08 |
+| PG-CL-0015@6 | Actual separation is acknowledged85 and lasts reported three months94 without removing Tōji love123/154; Momo's desired shared solution remains unmet, Kairi offers support on honestly uncertain terms rather than demanding false completion / STRONGLY_SUPPORTED_INTERPRETATION / EV0006/0023/0025/0033/0038–0044 | Real relief/laughter counter no change, private longing counters time-cured recovery; not proved Tōji reunion inevitable or Kairi permanent substitute. HIGH timing/statements, future shared disclosure/explicit choice discriminates | CS0078/0085/0088–0090; RL0087–0088/0098–0100; CM0051–0052/0057–0058; PG-FR-V08 |
+| PG-CL-0017@5 | Wanted comfort, contact, bodily response and explicit relationship/permission differ by instance:69 refusal,128/130 kiss with later uncertainty,166 surprise/rebuff,168 closing kiss after accepted proximity / STRONGLY_SUPPORTED_INTERPRETATION / EV0019/0028/0035–0036/0042/0044–0046 | Actual affection/contact counter permanent refusal, rebuff/uncertainty counter all-kisses-agreement. Sae-initiated108 differs V07 Tōji instrumental kiss. HIGH instance distinctions, no universal bodily-sign rule/clinical diagnosis. Subsequent explicit communication required for later permissions | CS0087/0090; CM0054/0057–0060; IP0076; PG-FR-V08 |
+| PG-CL-0019@3 | Scent bottle becomes rejected couple object through break29–31 and preserved/taped memory64: Momo invests gift with Tōji love despite original steered-selection history / STRONGLY_SUPPORTED object-function interpretation / EV0008/0018 | V06 correction still active, so no independent-perfect-selection claim; hand-slip his account versus deliberate-cruelty staging not explicit admission. HIGH object/self-report, MODERATE complete intent. Later object use/disclosure might revise | CS0078–0079; IP0073; prior CS0044@2/RL0053@2; PG-FR-V08 |
+| PG-CL-0020@3 | Selective access includes Tōji-to-Misao account, Sae false denial, fans false location and reader-only sign actor, plus Momo later direct uncertainty disclosure; bodily/public signs do not grant full causal knowledge / STRONGLY_SUPPORTED_INTERPRETATION / EV0012/0016–0017/0020/0030–0031/0041–0046 | Momo correctly infers coercion before full proof, Kairi explicitly reason-ignorant70 and no demonstrated sign knowledge. HIGH local frontiers, MODERATE formal generalization; actual later transmission needed to advance holders | IP0072/0074/0078–0082; KN0083–0094; TX0089–0099; PG-FR-V08 |
+| PG-CL-0023@2 | Private protective explanation41–44 corroborates coercive cause of Tōji rupture but does not cancel rejection injury or prove only response available; imagined lifelong labeling versus fading heartbreak is his risk comparison / STRONGLY_SUPPORTED_INTERPRETATION / EV0003/0006–0014/0016–0018 | Real fear/tears oppose indifferent betrayal, Momo repeated collaboration and actual harm oppose flawless sacrifice. HIGH self-report/context, MODERATE exhaustive motive/counterfactual. Honest disclosure and independent later recipient response discriminate | CS0078–0079/0081; RL0087–0088/0092; CM0051–0052; IP0072–0074; PG-FR-V08 |
+| PG-CL-0024@1 | V08 loss is assembled from different acts: friends unverified benevolent assumption112, fans malicious lie113, Momo distracted falling-behind114, Sae actual sign sabotage115; no single conspiracy or solitary-carelessness cause warranted / STRONGLY_SUPPORTED_LOCAL_CAUSAL_INTERPRETATION / EV0029–0032 | Both malicious acts real, no common plan shown; Momo agency/inattention not sole explanation. HIGH distinct events, UNKNOWN coordination. Later confession/communication could establish common plan, not current structural coincidence | CS0084/0087; RL0096/0101; IP0077–0080; KN0089–0090; PG-FR-V08 |
+
+| Revision / prior | Old → new / transition | Learned evidence and propagated scope |
+| --- | --- | --- |
+| PG-RV-0044 / RV0036 | CL0002@7 → @8 / STRENGTHEN | Property assertion62, displeasure at Momo joy100, demanded/unresponsive kiss109; RL0089/0096, motive plurality retained |
+| PG-RV-0045 / RV0037 | CL0003@7 → @8 / STRENGTHEN | False denial58 source-contradicted, sign actor115 direct; fans/push separate IP0074/0077–0080 |
+| PG-RV-0046 / RV0038 | CL0005@7 → @8 / REVISE | Explicit protective self-account41–44 added at actual new disclosure, rejection/object harm and limited attempted aid103; CS0079/0085 |
+| PG-RV-0047 / RV0039 | CL0006@7 → @8 / REVISE | Actual care/desire/acceptance plus pressure/contact, not blanket considerate withdrawal; CS0080/0083/0086/0089–0090 |
+| PG-RV-0048 / RV0020 | CL0013@3 → @4 / REVISE |80 recipient-specific feeling,98 friend,136 dog,154–155 stillTlove/more-than-friend uncertainty,168 actual kiss; RL0091/0093/0097/0099 |
+| PG-RV-0049 / RV0040 | CL0015@5 → @6 / REVISE | End acknowledged85/three months94, affection persists123/154 and honest new support terms155–163; no automatic recovered couple |
+| PG-RV-0050 / RV0041 | CL0017@4 → @5 / STRENGTHEN | Instance-specific refusals/responses versus kiss-contact proof, CM0054/0057–0060 |
+| PG-RV-0051 / RV0035 | CL0019@2 → @3 / REVISE | Gift breaks29–31/taped64, emotional use added without rewriting own V05 selection erratum |
+| PG-RV-0052 / RV0042 | CL0020@2 → @3 / STRENGTHEN | Distinct Misao/fan/reader/Momo/Kairi learned frontiers, KN0083–0094/TX0089–0099 |
+| PG-RV-0053 / NONE | CL0023@1 → @2 / STRENGTHEN |41–44 actual protective account reinforces cause but only-thought strategy/imagined risk and real harm remain qualified |
+
+No new historical erratum required: additional private reasoning is legitimate later disclosure, not proof the V07 coercion inference was wrong. Within-V08 provisional visual attribution130 was corrected to Kairi before closure; no earlier freeze falsely amended. V05 bottle-selection correction retained, V04 romantic-pull audit preserved, old failed/mixed forecasts remain.
+
+| Forecast adjudication / original retained | Actual original test and evidence | Result / scope |
+| --- | --- | --- |
+| PG-PR-0012@2 / PR0012 implicit@1 PG-FR-V07 | Concrete Kairi step for Momo breakup/kiss injury incl confrontation;35–36 directly confronts Tōji for Momo sick absence/snow, EV0010.66 actual visit and124 rescue reinforce | SUPPORTED_FOR_TESTED_SCOPE at PG-FR-V08. Mere presence excluded as before; no added success/gentleness/new romance requirement. Actual punch retained |
+| Earlier PR0011@2/0010@2 and historical tests | Existing original-window support, PR0001@2 NOT_TESTED_ORIGINAL_V02_WINDOW, PR0009@2 MIXED and prior failures retained | No repeated reinterpretation on later nonappearance; unresolved authorship not renewed as same forecast |
+
+| New forecast / first freeze | Exact prospective test / current status | Alternative / rationale / exposure |
+| --- | --- | --- |
+| PG-PR-0013 / PG-FR-V08 | V09 mainline depicts Momo explicitly revisiting whether she romantically loves Kairi or wants comfort while Tōji feelings persist, via attributed internal deliberation or direct own-feelings/relationship-category speech. Generic joy, kiss alone, others teasing or Kairi affection insufficient. DISCONFIRMED if no such explicit Momo reflection/statement anywhere V09 mainline. OPEN | Ambiguity left only in acts, settled category assumed or another conflict dominates. EV0036/0040–0042 basis, no predicted answer/partner. Recurring future publisher collages exposed, V09 mainline unopened; prospective-mainline not blind-series test |
+
+No material change: CL0001 appearance/internalization remains relevant but not reduced to analyst beauty hierarchy; CL0004/0007 authorship/CPR untested, CL0008 original false tan report retained, CL0009–0012/0014 earlier source claims not rewritten, CL0016 earlier relief still bounded, CL0018 Jigoro no independent missing-act evidence, CL0021 failed lesson current acts consistent without a filler version, CL0022 rescue/nonforgiveness not reversed. Next CL0025, PR0014, RV0054. Revision0.7 — V08, ten revisions/one new scoped claim, original test support and prospective PR0013,2026-10-20.

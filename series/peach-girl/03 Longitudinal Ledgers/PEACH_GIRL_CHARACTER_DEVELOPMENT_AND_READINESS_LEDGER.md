@@ -5,7 +5,7 @@ artifact_type: character_development_readiness_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.6"
+version: "0.7"
 status: active_provisional
 scope: "Character Development and Readiness; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -264,3 +264,39 @@ New [V07 reading](../02%20Sequential%20Readings/PEACH_GIRL_V07_DEEP_READING.md);
 | CHAR0005 / CHAR0015 / CHAR0018 | Misao no material new scene; Jigoro press account contextualized not new core development; receiver threatened then collapsed after intervention | No filler state change; no medical outcome/death asserted for receiver |
 
 Readiness remains UNASSESSED; no proposed operational model, assessment or held-out model test. No RD row warranted. Next CHAR0019, CS0078, RD0001. Revision history0.6 — V07 successors with original states retained, closure owner date2026-10-20.
+
+## V08 successor transaction — PG-FR-V08
+
+New [V08 reading](../02%20Sequential%20Readings/PEACH_GIRL_V08_DEEP_READING.md),177/177 directly inspected,159 mainline. EV=PG-EV-V08, CHAR=PG-CHAR. All events learned at stated V08 frontier, scene time snow/December and one-week absence, later explicit three months/spring class2-3, later one-week plant interval; exact dates UNKNOWN except visible board/markers. HIGH depicted conduct/attributed speech, qualifications on inferred motives retained.
+
+| Subject / first observed in this transaction | Source identity / certainty | Limit |
+| --- | --- | --- |
+| PG-CHAR-0019 | Bounded V08 trio of Kairi fans, harass Momo111 and give location lie113; EV0029–0030 | Individual names UNKNOWN, black-bob patterned-jacket member not Sae. Not automatically merged with wavy-haired V01 leader CHAR0006 or all fans historically; no proved Sae coordination |
+| PG-CHAR-0020 | Kairi's unnamed older brother, reported74 as authorizing spending after unexpected income; EV0021 | Reported relation/permission only, not independent biography, name, wealth or fraud. Global ID null; actual later identity must be verified |
+
+| State / subject / prior | Event kind, actual choice/constraint and time | Evidence / claim / qualification |
+| --- | --- | --- |
+| PG-CS-0078@1 / CHAR0001 / CS0076 | CONTEXT_CHANGE persistent belief and injury / sees departure/new couple, still believes photo coercion, defends Tōji, phones/seeks conversation, offers joint action at door24; waits snow/pleads, sick after rejection | EV0002–0009/0014–0015/0018; CL0023@2. Active causal belief/requests with actual hurt; birthdays prints not hotel evidence, no new self-harm plan/diagnosis |
+| PG-CS-0079@1 / CHAR0002 / CS0077 | REVEALED_NOT_NEW protective reasoning + CONTEXT_CHANGE / discards note, closes door, returns photos/breaks scent staging; watches pained, tells Misao media ultimatum/fear, cries; phone returned by post | EV0003/0006–0009/0011–0014; CL0005@8/0023@2. Hand-slip his claim, deliberate cruelty strong staging inference; risk model his, not sole possible loving choice |
+| PG-CS-0080@1 / CHAR0004 / CS0076 | CONTEXT_CHANGE support/pressure / confronts Sae22, explicitly confronts Tōji35 for Momo illness and punches; Tōji retaliates, Misao treats both, Kairi leaves | EV0006/0010–0011; PR0012@2, CL0006@8. Concrete support, violent method and unshown Sae conversation retained; not peaceful successful clarification |
+| PG-CS-0081@1 / CHAR0005 / CS0052 | KNOWLEDGE_CHANGE + advocacy / treats boys, receives Tōji photo/media account41–44, comforts; asks Sae negatives/considers feelings56–60, challenges fake cry; Sae later reports home visit | EV0011–0012/0016–0017; KN0084/0086. Distinct acquisition, not all teacher/class knowledge; no independently shown recovery of originals or official finding |
+| PG-CS-0082@1 / CHAR0003 / CS0075 | CONTEXT_CHANGE continued coercion / false preference account10, stalker framing21, denies known threat to Misao then proof demand, scolds Tōji and asserts property62 | EV0002/0005/0016–0017; CL0002@8/0003@8. Direct V07 contradiction makes denial false; distress/history retained, no immutable type assertion |
+| PG-CS-0083@1 / CHAR0001 and CHAR0004 separately / CS0078 and CS0080 | CONTEXT_CHANGE care/response / Kairi visits and takes Momo out awkwardly, stops actual kiss offer at her69 refusal, reports brother funds and buys/style; Momo laughs, insists repayment, registers particular warmth80; later accepts ended Tōji relationship/embrace86 | EV0019–0023; CL0006@8/0013@4. Support/cost/boundaries, not perfect care or settled romance. Kairi explicitly full-reason ignorance70 |
+| PG-CS-0084@1 / CHAR0003 and CHAR0019 separately / CS0082 and NONE | CONTEXT_CHANGE disruptive acts / Sae squeezed cup100 at Momo joy, later actual trail-sign turn115. Distinct fan trio harasses111 and lies113 to divert Kairi; his118 challenge follows contradictions | EV0026/0029–0032; CL0024@1. Both causes source-supported, coordination UNKNOWN; felt push107 not proven Sae or fans |
+| PG-CS-0085@1 / CHAR0001 and CHAR0002 separately / CS0083 and CS0079 | CONTEXT_CHANGE spring / Momo says three months/no talk94, fed up romance96/current friend label98, hurt seeing Sae kiss108 then unusually cheerful110. Tōji starts to help burn103 but Kairi first, unresponsive to Sae-initiated kiss | EV0025–0029; CL0005@8/0015@6/0017@5. Smile not total recovery, movement not complete aid, actual kiss not free new preference |
+| PG-CS-0086@1 / CHAR0004 / CS0083 | KNOWLEDGE_CHANGE + support / learns actual friends did not have Momo117–118, searches/finds124, teasing then notices injury, embraces/apologizes fear, actual kiss/affection/carries132 | EV0032/0034–0035; CL0006@8. Rescuer actually Kairi; source does not give him sign-actor/full blackmail knowledge; no formal couple agreement |
+| PG-CS-0087@1 / CHAR0001 / CS0085 | CONTEXT_CHANGE response / injured walks using staff, cries under cherry tree/still loves Tōji123, relieved heartbeat with Kairi but asks swept along132; next morning uncertain, compares unlike Tōji/dog lick136; protests unasked committee137 | EV0032–0037; CL0013@4/0017@5. Agency/comfort and strong counterevidence to settled romantic reciprocity together; no retroactive permission from later contact |
+| PG-CS-0088@1 / CHAR0001 / CS0087 | CONTEXT_CHANGE reflective attachment / finger cut accidental, notices Tōji eraser141, rests against his desk142; hides when he enters144, cannot speak and remains unseen as he leaves146; fears hurting/losing Kairi147–148 | EV0037–0040; CL0013@4/0015@6. Actual longing not new Tōji reconciliation; self-criticism not universal recovery rule |
+| PG-CS-0089@1 / CHAR0001 and CHAR0004 separately / CS0088 and CS0086 | KNOWLEDGE_CHANGE + direct negotiation / after flowerbed repair, Momo says still loves Tōji154/Kairi more important than friend but unsure love155. Kairi hears, accepts remaining close/use156, says support needed157 | EV0040–0043; CL0013@4/0006@8. Honest uncertain position, not full romantic confession or blanket future consent. Permission to rely not proof no cost for him |
+| PG-CS-0090@1 / CHAR0001 and CHAR0004 separately / CS0089 | CONTEXT_CHANGE accepted proximity/intensification / one-week flowering tree revealed quince/neighbor gift164; Momo thanks Kairi willing stay even if loves Tōji163, actual laughter, quick surprise kiss/rebuff166, flower-language declaration and closing kiss168 | EV0044–0046; CL0013@4/0017@5. Plant metaphor comic/error-staging not miraculous growth, warmth real; caption not securely Momo spoken confession, no explicit dating pact |
+
+| Subject @ PG-FR-V08 | Current projection | Gap/disposition |
+| --- | --- | --- |
+| CHAR0001 | CS0078/0083/0085/0087–0090; recognizes enacted breakup yet loves Tōji; actual relief/particular warmth and uncertain more-than-friend value toward Kairi, communicates it, later kisses | No settled reciprocal category; missing hotel act/inventory unresolved; retained refusals/repayment/shared-action requests prevent passivity compression |
+| CHAR0002 | CS0079/0085; explicit private protective reasoning to Misao, actual public rejection/avoidance and injury; starts help at burn, unresponsive to Sae kiss | No honest disclosure to Momo/verified negative recovery. Actual preference cause not Sae story |
+| CHAR0003 | CS0082/0084; denies actual threat, possessive claim, unhappy Momo joy, demands contact and tampers trail | Coordination with fan trio and burn push unproved, no achieved reform |
+| CHAR0004 | CS0080/0083/0086/0089–0090; concrete care, anger/pressure, rescue and affection, accepts declared uncertainty/Toji love | Motive weights open; permission to stay not all-contact consent, brother funding only report |
+| CHAR0005 | CS0081; receives private account, treats, challenges Sae and seeks negatives | Official proof/retrieval result absent; no diffuse institutional omniscience |
+| CHAR0019 / CHAR0020 | Bounded fans harassment/lie; reported unnamed brother finance | No inferred identity merge or invented brother conduct beyond report |
+
+Readiness UNASSESSED, no operational model or actual held-out reconstruction test, no RD row warranted. No substantive new Jigoro/receiver development; nonappearance not confirmation of unshown outcomes. Next CHAR0021, CS0091, RD0001. Revision0.7 —2026-10-20 V08 successor, historical rows preserved.

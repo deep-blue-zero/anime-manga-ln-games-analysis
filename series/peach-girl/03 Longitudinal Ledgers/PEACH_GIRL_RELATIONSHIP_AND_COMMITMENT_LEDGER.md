@@ -5,7 +5,7 @@ artifact_type: relationship_commitment_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.6"
+version: "0.7"
 status: active_provisional
 scope: "Directional Relationships and Commitments; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -314,3 +314,41 @@ Current relationship at exit is Momo/Tōji continuing, RL0060/0061 and CM0037; s
 | PG-CM-0050 / NONE | Tōji → Sae / suddenly pulls/initiates lip kiss172–174 as proof before Momo | EV0054; CONTACT_DEPICTED, EXPLICIT_PRIOR_PERMISSION_UNSHOWN for this instance; prior Sae desire/claimed relationship not automatic permission, no sincere affection entailed |
 
 Exit: Momo/Tōji has actual unilateral breakup declaration and continuing disputed affection, RL0081/0082, not V06's mutually bounded script. Sae publicly claims Tōji while he explicitly rejected genuine dating and acts under leverage, RL0084/0085. Kairi advocacy does not establish reciprocity or full knowledge. Next RL0087, CM0051. Revision history0.6 — V07 directions/commitments, prior rows untouched, closure owner date2026-10-20.
+
+## V08 successor transaction — PG-FR-V08
+
+[V08 reading](../02%20Sequential%20Readings/PEACH_GIRL_V08_DEEP_READING.md) owns EV=PG-EV-V08. Learned at stated V08 frontier; snow/December, one-week absence, explicit three-month spring jump and later one-week plant interval, no invented exact date. HIGH actions/attributed statements, motive weighting bounded. Affection, public category, access and permission remain distinct.
+
+| Direction / prior | From → to / actual transition | Evidence / scope |
+| --- | --- | --- |
+| PG-RL-0087 / RL0081 | Momo → Tōji / defends him18/believes coercion, seeks calls/read-note/joint action24, waits outside/pleads; after actual silence/phone-post, accepts enacted relationship end85 yet not affection's end | EV0003–0009/0014–0015/0018/0023; CL0023@2. Accurate core belief not full account; acts of seeking alongside injury |
+| PG-RL-0088 / RL0082 | Tōji → Momo / rejected note/door/object, pained watch/tears, private protective explanation to Misao41–44, return phone by post; later starts aid103 before Kairi reaches | EV0003/0006–0014/0027; CL0005@8. Concealment persists, harm real; only-way-he-could-think not unique available response |
+| PG-RL-0089 / RL0084 | Sae → Tōji / claims passionate preference10, resents telling Misao, asserts property62; orders towel99, demands/initiates kiss107–108 and resents wooden response109 | EV0002/0017/0026/0028; CL0002@8. Claims do not establish gained freely reciprocal love |
+| PG-RL-0090 / RL0077 | Kairi → Momo / intercepts Sae, punches Tōji for Momo illness, repeated actual visit/outward activity/praise, buys despite objection, offers kiss69 but no kiss after stop | EV0006/0010/0019–0022; CL0006@8. Concrete aid/pressure coexist; no established full Tōji motive knowledge70 |
+| PG-RL-0091 / RL0063 | Momo → Kairi / protests outing/purchase, later laughs/insists repayment, feels his words reach particularly80 and accepts comfort at realized end86 | EV0019–0023; CL0013@4. Prior romantic-pull history RL0041 and audit retained; no new settled dating label |
+| PG-RL-0092 / NONE_ESTABLISHED_FOR_THIS_DIRECTION | Misao → Tōji / treats injuries, hears account and comforts, seeks negatives from Sae | EV0011–0012/0016. Care and advocacy not unqualified endorsement of his methods; no romantic inference |
+| PG-RL-0093 / RL0091 | Momo → Kairi / relief at buffer96, tired of romance, publicly friend98; after Tōji/Sae kiss, unusually cheerful with him and worries whether leaning is cruel113 | EV0025–0030; CL0013@4. Current label/worry not complete generic-friend history or proof all enjoyment false |
+| PG-RL-0094 / RL0090 | Kairi → Momo / cools burn first104, discovers absence118, finds124, embraces/apologizes, kisses and says loves131, carries132 | EV0027/0032/0034–0035. Actual care/desire, vulnerable encounter not verbal mutual pact, rescue not blank permission |
+| PG-RL-0095 / NONE_ESTABLISHED_FOR_THIS_DIRECTION | Misao → Sae / asks negatives, confronts known threat/feelings, rejects fake cry; Sae denies then demands proof, later complains home visit | EV0016–0017. Direct source contradiction denial, institutional proof not established retrieval/action |
+| PG-RL-0096 / RL0076 | Sae → Momo / false preference/stalker framing, unhappy laughter100, later actual turned foothills sign115 causes wrong route | EV0002/0005/0026/0031. Distinct from fans' harassment/lie; burn-push actor UNKNOWN |
+| PG-RL-0097 / RL0093 | Momo → Kairi / kiss comfort/heartbeat then swept-along uncertainty, next-day dog/absence-of-flutter comparison, protests committee choice137 | EV0034–0037; CL0013@4. Counter settled romantic reciprocity, not proof all previous pull false; her will remains material |
+| PG-RL-0098 / RL0087 | Momo → Tōji / still loves123, remembers kiss134, fine eraser/desk attachment141–142, hides rather than speaks144–146, tells Kairi love persists154 | EV0033/0036/0038–0041; CL0015@6. Public ended and private love coexist, no new actual Tōji conversation/reconciliation |
+| PG-RL-0099 / RL0097 | Momo → Kairi / explicit154–155 still loves Tōji but Kairi more important than friend, fears losing/unsure love versus comfort; thanks continued presence164, warm laughter, rebuffs quick kiss166 then closing kiss168 | EV0041–0046; CL0013@4. Honest category uncertainty plus intensification, no explicit reciprocal dating pact/captive spoken confession securely assigned |
+| PG-RL-0100 / RL0094 | Kairi → Momo / asks about kiss anger152, hears uncertainty, permits reliance156/support metaphor157, wants remain even while she loves Tōji163; sudden quick kiss166 and flower-language/closing kiss168 | EV0041–0046; CL0006@8/0017@5. Acceptance of actual position strong, not pure selflessness or blanket consent; quince substitution/error retains fallibility |
+| PG-RL-0101 / NONE | V08 fan trio CHAR0019 → Momo / splash/using accusation111, lie to Kairi113 about her location; his118 contradiction challenge exposes account | EV0029–0032; CL0024@1. Social pressure affects self-doubt, not narrator verdict; Sae coordination not shown |
+| PG-RL-0102 / RL0085 | Tōji → Sae / public presence/ordered compliance, pained reaction to Momo, passive unresponsive demanded kiss; she rebukes/shoves109 | EV0017/0026–0028. Actual coupling display not affirmative reciprocal affection, no new genuine consent/romance declaration |
+
+| Commitment/boundary / prior | Actual terms and answer/consequence | Evidence / disposition |
+| --- | --- | --- |
+| PG-CM-0051 / CM0049 | Momo → Tōji / note/read request13 and shared-problem invitation24, continued causal belief; discarded note14/closed door, no full truthful answer | EV0003/0006–0009; REQUEST_UNMET. Receipt of content not proved because note not depicted read |
+| PG-CM-0052 / CM0046 | Tōji → Momo / rejects restart14–15, says leave27, returns birthday prints/breaks scent and posts phone49–50 | EV0003/0007–0009/0014; UNILATERAL_RUPTURE_ENACTED_CONTINUES, not new freely changed love or prior joint script |
+| PG-CM-0053 / NONE | Kairi → Momo / daily visits until well reportedly promised, actual visit66 plus repeatedness indicated; school reminder84 | EV0019/0023; PARTIALLY_OBSERVED_PERFORMANCE, not invented exact visit count/duration |
+| PG-CM-0054 / NONE | Momo → Kairi / says stop to kiss offer69, no actual kiss follows there | EV0019; SPECIFIC_REFUSAL_HEEDED_AT_THIS_INSTANCE. Later kisses do not rewrite it; earlier outing pressure retained |
+| PG-CM-0055 / NONE | Momo → Kairi / refuses free purchased outfit, intends repay with New Year cash78 despite his gift request | EV0021–0022; REPAYMENT_INTENT_DECLARED_NOT_PAYMENT_SHOWN. No silent gift debt/romantic obligation |
+| PG-CM-0056 / NONE | Kairi → Momo / unilaterally volunteers both for beautification137, she objects her will ignored, both actual work139/151 | EV0037/0041; CHOICE_IMPOSED_WITH_PROTEST, practical buffering rationale not prior permission |
+| PG-CM-0057 / NONE | Momo → Kairi / tells still loves Tōji154, more-than-friend importance but uncertain romantic feeling155/wants not lose | EV0041–0042; DISCLOSURE_RECEIVED, no false fully reciprocal confession/dated-couple agreement |
+| PG-CM-0058 / NONE | Kairi → Momo / may rely/use him156, need not recover alone157, wants beside even if loves Tōji163; she thanks164 | EV0042–0044; UNCERTAIN_PROXIMITY_ACCEPTED_ON_DISCLOSED_TERMS. Not guarantee future feeling or unlimited contact permission |
+| PG-CM-0059 / NONE | Kairi → Momo / sudden quick kiss166 after lip touch; surprised Momo rebukes getting carried away/strikes back comic panel | EV0045; CONTACT_ACTUAL_PRIOR_EXPLICIT_PERMISSION_UNSHOWN_REBUFF_DEPICTED. Accepted staying not permission for this instance |
+| PG-CM-0060 / NONE | Kairi/Momo / actual128/130 kiss with no depicted explicit stop at that instance, Momo later swept-along/uncertain; final168 kiss after chin contact167, eyesclosed/hand-shirt | EV0035–0036/0046; CONTACT_AND_AMBIVALENCE_DISTINCT, no invented verbal refusal128 or automatic permanent consent/reciprocal dating. Earlier69/further166 responses retained |
+
+Momo/Sae no new forgiveness or freely restored friendship; Sae violating boundary does not revoke Momo's V07 farewell. Directional histories do not collapse into triangles without individual frontiers. Next RL0103, CM0061. Revision0.7 — V08 successors2026-10-20, older rows retained.
