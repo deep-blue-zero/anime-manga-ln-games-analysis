@@ -5,7 +5,7 @@ artifact_type: relationship_commitment_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.16"
+version: "0.17"
 status: active_provisional
 scope: "Directional Relationships and Commitments; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -762,3 +762,59 @@ Next RL0257,CM0162. Revision0.15 — V16 successors; prior bodies retained.
 | PG-CM-0177 / NONE | M takes T hand/apologizes to K164 | EV0024; ACTUAL_PRESENT_T_CHOICE_NOT_FINAL_SERIES_OUTCOME |
 
 Next RL0288,CM0178. Revision0.16 — V17 successors; prior bodies retained.
+
+## V18 successor transaction — PG-FR-V18
+
+[V18 reading](../02%20Sequential%20Readings/PEACH_GIRL_V18_DEEP_READING.md);2026-10-20 owner date.187 directly inspected/172 mainline;original-series END178. EV=PG-EV-V18. Historical rows retained.
+Dated self-correction2026-10-20: V18_116–117 explicitly supplies M settleKfirst/T nothinguntilmorning at V15 inn. Bounded V15_149–156 rechecked. Reject own earlier strong sexual-NIGHT inference; actual morning affection155–156 retained, any later unshown act UNKNOWN. V15 reading/PG-FR-V15 unchanged. Dependencies CS0214/IP0198/CM0146/KN0206/0210/RL0233–0234 and CL0013@11/0015@10/0017@12; current successors below. This is later-disclosure correction, not rewrite of historical receipt.
+
+| Direction / prior | Actual transition | Evidence / limit |
+| --- | --- | --- |
+| PG-RL-0288 / Momo → Kairi / RL0284 | Explicitrejection6/abductionobjection15/distrustdespiteonlyM21–22/departs24 | EV0001–0002; not tacitacceptance |
+| PG-RL-0289 / Kairi → Momo / RL0285 | Forcedremoval9–16/onlyM21/release24 | EV0001–0002; love not permission |
+| PG-RL-0290 / Momo → Tōji / RL0283 | Yesdating7/privatewant25/embrace26/plans28–30 | EV0001–0003; realpresentchoice |
+| PG-RL-0291 / Tōji → Momo / RL0282 | Pursuesaftertrip/receiveslocation20/finds26/plans28–30 | EV0001–0003; no finalguarantee |
+| PG-RL-0292 / Sae → Momo / RL0281 | Alibi40/actualjourneyreport44–50/noobligationrestart50 | EV0005; knowledgehelpnotpurecoercion |
+| PG-RL-0293 / Momo → Sae / RL0259 | Schoolcare32/enviesresilience34/receivesnewjourney44–50 | EV0004–0005; not universalforgiveness |
+| PG-RL-0294 / Sae → Kairi / RL0230 | Batteryadvice39/knowsjourney/tellsM57/follows91/comfort96 | EV0004–0005/0009; gendergeneralizationnotconsentstandard |
+| PG-RL-0295 / Kairi → Sae / RL0246 | Requestsnospeaking38/takesphone75/refusesmeddling86–87/cry97/borrowsoutphone110 | EV0004/0008–0010; nonromanticrapport |
+| PG-RL-0296 / Misao → Momo / NONE | Rinjuryhospital61/firstchoice63/Tregret64/ownheart65 | EV0006; newly receivedpartialcauses |
+| PG-RL-0297 / Momo → Misao / NONE | Cries55/wouldwaitiftold62/receivescounsel65 | EV0006; no policecause |
+| PG-RL-0298 / Misao → Ryo / RL0287 | Explicitcannotdate/didlove/firmgoodbye68 | EV0006; no romancerestart |
+| PG-RL-0299 / Sae → Ryo / RL0277 | Saysnolongerromantic/firstdeepattachmentnoregrets33 | EV0004; selfaccountnotdurablerepairproof |
+| PG-RL-0300 / Ryo → Sae / RL0280 | Imaginedparenting69–70/regretpossibility | EV0007; no actualreunionornewpregnancy |
+| PG-RL-0301 / Momo → Kairi / RL0288 | ReceivesSjourney/Misfirstchoice61–63; seesphonecontestwrong76; guilt93 | EV0005–0008; no obligationchoosefromeffort |
+| PG-RL-0302 / Momo → Tōji / RL0290 | Late/reassurance81/actualtrip84/tellsKjourney104/wantmoretime108/WAIT114 | EV0008/0011–0012; desireandboundarycoexist |
+| PG-RL-0303 / Tōji → Momo / RL0291 | Wait81/comfort105–107/firststop115; laterblock/pull/pin123–125/intimacy130/stops133/GO135 | EV0008/0011–0014; orderedmixedconduct |
+| PG-RL-0304 / Kairi → Momo / RL0289 | Metaphoricallettinggo95/cannotdiscardcase100/search111/147/begsreturn153 | EV0009–0010/0017–0018; not selfharmthreatauthor |
+| PG-RL-0305 / Sae → Momo / RL0292 | AnswersKphone137/pressesownchoice139–140 | EV0015; mailauthorshipnotyetadmitted |
+| PG-RL-0306 / Momo → Tōji / RL0302 | Noresponsiveassentafterpin/tears132/explicitloveK143/apologyleave146 | EV0014–0016; earlierTaffectionnotfalse |
+| PG-RL-0307 / Tōji → Momo / RL0303 | Actualstop133/coverGO135/acknowledgedecision143/urgetrain144/turn145 | EV0014/0016; doesnoteraseconstraint |
+| PG-RL-0308 / Momo → Kairi / RL0301 | Choosesfacehurt149/actualwaterrescue166–170/explicitlove174/initiateskiss175 | EV0017/0019–0021; actualcurrentchoice |
+| PG-RL-0309 / Kairi → Momo / RL0304 | Case retrieval159/accident163/rescue170/mutualaffection173–175 | EV0018–0021; no promisecompleteaccountability |
+| PG-RL-0310 / Sae → Momo/Kairi / RL0305 and RL0294 | Admitsforgedemail176/takescouplephoto/continuedproximity178 | EV0022–0023; comicratificationnotfraudexcuse |
+| PG-RL-0311 / Momo/Kairi → Sae / RL0293 and RL0295 | Learnmailauthor176/chase177/walk178 | EV0022–0023; continuedtie not triad/totalpardon |
+
+| Commitment / prior | Terms and actual disposition | Evidence / limit |
+| --- | --- | --- |
+| PG-CM-0178 / CM0177 | M explicitNOtoK6/YESdatingT7 | EV0001; ACTUAL_PRESENTCHOICE_NOTENDGAME |
+| PG-CM-0179 / NONE | K forcedtaxi9–16/Mobjection/refusedreturn15 | EV0001–0002; NOASSENT_FOR_REMOVAL |
+| PG-CM-0180 / NONE | M demandsONLYMEcare18/KonlyM21/Mcannottrust22 | EV0002; DECLARATIONRECEIVED_NOTRELATIONRESUMED |
+| PG-CM-0181 / NONE | M/Tcollege-study/trip28–30 | EV0003; FUTUREPLANS_NOTGUARANTEES |
+| PG-CM-0182 / NONE | Sactualalibi40/journeyreport47–50/notmustrestart | EV0005; PERFORMEDDISCLOSURE_NOTREQUIREDPARTNERCHOICE |
+| PG-CM-0183 / NONE | Knotstalker56/refusesScall86–87 | EV0009; LOCALWITHDRAWAL_CONDUCT_notpermanentreform |
+| PG-CM-0184 / NONE | Twait81/noassumedcancel/comfort105–107 | EV0008/0011; ACTUALCARE_NOTBLANKETENTITLEMENT |
+| PG-CM-0185 / CM0146 | V18flash116–117 MsettleKfirst/Tnothinguntilmorning; V15morning155responsive | EV0012/0026; DATEDCORRECTION_PRIORSEXUALNIGHTINFERENCE_REJECTED_LATERUNSHOWN_ACTUNKNOWN |
+| PG-CM-0186 / NONE | Mwait114/Tstop115 | EV0012; REFUSALHEEDED_FIRSTEPISODE |
+| PG-CM-0187 / NONE | Mleave122/Tblocks123/pulls124/pins125/ifgo breakup128 | EV0013–0014; CHOICEULTIMATUMWITHPHYSICALCONSTRAINT |
+| PG-CM-0188 / NONE | Renewedintimacy130–132/Mtears/Tstops133/coversGO135 | EV0014; NONEWASSENT_DEPICTED_NOCOMPLETEDACT_DEPICTED |
+| PG-CM-0189 / CM0178 | MloveK143/breakwithT/apology/Trelease144 | EV0016; ACTUALREVERSALNOTEARLIERCHOICEFALSE |
+| PG-CM-0190 / NONE | Kseeksretrievecase159/accident163/Mrescue166–170 | EV0018–0020; NOTPERFORMEDSUICIDETHREAT |
+| PG-CM-0191 / CM0189 | M/Kmutuallove173–174/kiss175/handhold178 | EV0021–0023; ACTUALFINALCOUPLE_FUTUREUNSHOWN |
+| PG-CM-0192 / NONE | Sadmitsmail176/couplephoto/chase177 | EV0022–0023; IMPERSONATIONDISCLOSED_NOTETHICALLYEXONERATED |
+
+| Historical commitment correction | Successor formulation | Basis/limit |
+| --- | --- | --- |
+| PG-CM-0146@2 / CM0146@1 implicit | Romanticresumption actual; V18 noactuntilmorning117 rejectsstrongsexnightinference | EV0012/0026; morningresponseactual/laterunshownactUNKNOWN |
+
+Next RL0312,CM0193. Revision0.17 — V18 successors/self-correction; prior bodies retained.

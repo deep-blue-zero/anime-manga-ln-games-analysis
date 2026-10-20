@@ -5,7 +5,7 @@ artifact_type: claims_predictions_revisions_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.16"
+version: "0.17"
 status: active_provisional
 scope: "Claims, Predictions and Revisions; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -132,33 +132,33 @@ Bootstrap source-derived claims, forecasts, revisions and current-index rows: **
 | Claim | Active version / cutoff | Latest revision | Unresolved evidence or propagation debt |
 | --- | --- | --- | --- |
 | PG-CL-0001 | @5 / V14 | PG-RV-0097 | Scandal durability as attributed social model and Momo counterfactual |
-| PG-CL-0002 | @16 / V17 | PG-RV-0134 | Sae combines real attachment/gratitude/grief with assault and concealment: M thanks22/hammer45/family109/shield122/mistaken pregnancy acknowledgment152 |
-| PG-CL-0003 | @15 / V17 | PG-RV-0135 | Sae local repair is uneven: gratitude22 coexists with withheld refusal23/hammer attack45, then costly shielding122 and acknowledged nonpregnancy152 |
+| PG-CL-0002 | @17 / V18 | PG-RV-0146 | Sae moves from genuine loss/finishedRaccount33 through helpful journey disclosure47–50 and comfort96 to forged K farewell176; local aid and harmful control coexist |
+| PG-CL-0003 | @16 / V18 | PG-RV-0147 | Sae repair remains selective: no-obligation choice50/comfort96 coexist with alarming impersonation176 and final comedy |
 | PG-CL-0004 | @2 / V02 | PG-RV-0003 | Authorship disclosure |
-| PG-CL-0005 | @12 / V17 | PG-RV-0136 | Tōji offers concrete restorative park care39 and later no-guilt choice162, while rivalry creates immediate binary pressure115 |
-| PG-CL-0006 | @17 / V17 | PG-RV-0137 | Kairi true M confession intent reaches Mis54–57 while M twice hears false Mis cause32/77; actual love82/comparison92 accompanied by repeated refusal to release |
+| PG-CL-0005 | @13 / V18 | PG-RV-0148 | Tōji genuinely waits81/comforts105/stops115, later blocks/pins123–125/pressures128/intimacy130–132, then stops133/releases144 |
+| PG-CL-0006 | @18 / V18 | PG-RV-0149 | Kairi explicitly onlyM21 but forces taxi9–16; later refusesmeddling86/searchescase111/retrieves159/accident163/actualreunion175 |
 | PG-CL-0007 | @2 / V12 | PG-RV-0077 | Nested Ryo-to-Kairi rescuer attribution names Momo; neither old nor present rescue establishes mouth-to-mouth |
 | PG-CL-0008 | @2 / V03 | PG-RV-0006 | — |
 | PG-CL-0009 | @1 / V02 | — | Context disclosure |
 | PG-CL-0010 | @1 / V02 | — | Organizer confirmation |
 | PG-CL-0011 | @1 / V02 | — | Further disbelief cases |
 | PG-CL-0012 | @2 / V04 | PG-RV-0012 | — |
-| PG-CL-0013 | @13 / V17 | PG-RV-0138 | Momo real T happiness25/embrace40 coexist with K portrait questions/received love82/comparison92; hospital ambivalence140 then actual T hand-choice164 |
+| PG-CL-0013 | @14 / V18 | PG-RV-0150 | Momo actual Tchoice7/distrustK22 precede new journey/firstchoice knowledge47–63; care/desireT108 and refusal114 coexist; actual loveK143/rescue/reunion175 closes choice |
 | PG-CL-0014 | @1 / V03 | — | — |
-| PG-CL-0015 | @12 / V17 | PG-RV-0139 | Tōji challenges transfer-object framing90/requires release, asks immediate choice115 then explicitly releases M from guilt161–162 |
+| PG-CL-0015 | @13 / V18 | PG-RV-0151 | Tōji ordered behavior joins specific patience with possessive physicalconstraint and actual later lettinggo, heardMchoice143 |
 | PG-CL-0016 | @1 / V04 | — | Sincerity of relief |
-| PG-CL-0017 | @14 / V17 | PG-RV-0140 | Boundaries remain event-specific: stopped hammer45–46, water50, M release refusals80–94, hired coercion97/cancel112, S shielding122/strike123 and solitude153 respected |
+| PG-CL-0017 | @15 / V18 | PG-RV-0152 | V18 boundaries distinguish forcedtaxi, firststop115, blockedexit/pin125, renewedintimacywithoutnewassent130, secondstop133 and finalfreeleaving144 |
 | PG-CL-0018 | @4 / V13 | PG-RV-0091 | Jigoro apologizes and reports no sexual act; delayed participant account narrows old uncertainty without erasing coercion |
 | PG-CL-0019 | @3 / V08 | PG-RV-0051 | Broken/kept bottle carries remembered love despite steered selection history |
-| PG-CL-0020 | @12 / V17 | PG-RV-0141 | V17 separates K false cause to M32/77 from truth to Mis54–57; hiring account to S120 from emergency to M118; partial ultrasound146 from correction149 and explicit S acknowledgment152 |
+| PG-CL-0020 | @13 / V18 | PG-RV-0153 | S and Mis transmit different missing causes47–63; M misreadsphonecontest76; mailauthoropen120 thenS176; metaphoricaldeath95 distinctactualretrievalaccident163 |
 | PG-CL-0021 | @2 / V07 | PG-RV-0043 | Momo revises revenge and rescues; actual Sae reform contradicted |
 | PG-CL-0022 | @1 / V07 | — | Aid and disengagement coexist without forgiveness/innocence retroactively |
 | PG-CL-0023 | @3 / V14 | PG-RV-0106 | New genuine-negative/bluff admission and Momo exact threat receipt |
 | PG-CL-0024 | @1 / V08 | — | Loss combines unverified care assumptions and distinct deliberate diversions, no proved conspiracy |
-| PG-CL-0025 | @9 / V17 | PG-RV-0142 | Sibling/Mis history gains K present-love comparison92 and R K envy-love105–106; Mis renunciation65 followed bounded hospital care158 |
-| PG-CL-0026 | @8 / V17 | PG-RV-0143 | Misao explicitly renounces R to S51–52 and R65, interprets removed heart-glasses63, then responds to K hospital summons156/care158 |
-| PG-CL-0027 | @6 / V17 | PG-RV-0144 | Ryo selective feeling includes affected family110/actual cancellation112/emergency care132/father self-ID137, alongside actual coercive drug-money11–13/hired assault97 |
-| PG-CL-0028 | @7 / V17 | PG-RV-0145 | K M attachment becomes actual love82 and explicit distinction from important Mis92 heard M/T; false cause77/unwanted hold81–94 persist and M chooses T164 |
+| PG-CL-0025 | @10 / V18 | PG-RV-0154 | K current M love21/Mis transmittedfirstchoice63 close presentromanticcomparison, while oldAki familychronology remains incomplete; Rparentingimagery69–70 adds wish not fact |
+| PG-CL-0026 | @9 / V18 | PG-RV-0155 | Mis becomes consequential disclosure/counselagent61–66, distinguishes parentsarrangedmeeting67 from wedding and reconfirms cannotdateR68 |
+| PG-CL-0027 | @7 / V18 | PG-RV-0156 | Ryo parentingimages69–70/belated wish add selective feeling after V17 coercion/cancellation/emergencycare, not completed accountability |
+| PG-CL-0028 | @8 / V18 | PG-RV-0157 | K M-only confession21 is receivedbutdistrusted22; S/Mis laterrelay journey/firstchoice47–63; finalreunion173–178 actual after accidentalwaterrescue and before/afterforgeryreveal176 |
 
 Revision history: 0.1 — bootstrap schema, zero rows, 2026-10-16 UTC. 0.2 — V01 transaction rows appended (frontier PG-FR-V01), 2026-10-16 UTC. V02 transaction rows appended and forecast statuses adjudicated (frontier PG-FR-V02), 2026-10-16 UTC. V03 rows, revisions and adjudications appended (frontier PG-FR-V03), 2026-10-17 UTC. V04 rows, revisions and adjudications appended (frontier PG-FR-V04), 2026-10-17 UTC.
 
@@ -742,3 +742,46 @@ No full new versions CL0001/0004/0007–0012/0014/0016/0018–0019/0021–0024: 
 | PG-PR-0022 / PG-FR-V17 | In V18 mainline Momo demonstrably receives an explicit explanation that Kairi missed the V15 rendezvous because Ryo was injured and police questioning detained Kairi. BOTH causal elements must reach her from actual speech/message/report. Generic delay, hospitalization of Kairi, reader flashback, private thought or apology insufficient. DISCONFIRMED if absent throughout whole V18 mainline. OPEN | Basis full late cause still withheld despite new comparison92; alternatives omission/vague apology/continued misunderstanding. Publisher promotion exposure disclosed; V18 mainline unopened. Tests late-arrival cause, not renewed partner-choice or first-choice/couple-status transmission |
 
 No new full versions CL0001/0004/0007–0012/0014/0016/0018–0019/0021–0024: no new old authorship/rescue/no-act/negative-inventory resolution. No new claim/RD. Next CL0029,PR0023,RV0146. Revision0.16 — twelve successor claims; historical rows/terms retained.
+
+## V18 successor transaction — PG-FR-V18
+
+[V18 reading](../02%20Sequential%20Readings/PEACH_GIRL_V18_DEEP_READING.md);2026-10-20 owner date.187 directly inspected/172 mainline;original-series END178. EV=PG-EV-V18. Historical rows retained.
+Dated self-correction2026-10-20: V18_116–117 explicitly supplies M settleKfirst/T nothinguntilmorning at V15 inn. Bounded V15_149–156 rechecked. Reject own earlier strong sexual-NIGHT inference; actual morning affection155–156 retained, any later unshown act UNKNOWN. V15 reading/PG-FR-V15 unchanged. Dependencies CS0214/IP0198/CM0146/KN0206/0210/RL0233–0234 and CL0013@11/0015@10/0017@12; current successors below. This is later-disclosure correction, not rewrite of historical receipt.
+
+| Claim version | Scoped formulation/class/support | Counterevidence/confidence/discriminator | Dependencies |
+| --- | --- | --- | --- |
+| PG-CL-0002@17 | Sae moves from genuine loss/finishedRaccount33 through helpful journey disclosure47–50 and comfort96 to forged K farewell176; local aid and harmful control coexist / STRONGLY_SUPPORTED_BOUNDED_INTERPRETATION / EV0004–0006/0009–0010/0015/0022–0023 | Comic successfulcouplephoto is not complete repair or permission for impersonated deaththreat. HIGH acts/receipt, MODERATE motive | PG-RV-0146; PG-FR-V18 |
+| PG-CL-0003@16 | Sae repair remains selective: no-obligation choice50/comfort96 coexist with alarming impersonation176 and final comedy / STRONGLY_SUPPORTED_BOUNDED_INTERPRETATION / EV0005/0009/0022–0023 | Neither no-change villain nor complete redemption; no demonstrated full restitution. HIGH orderedacts, UNKNOWN durable accountability | PG-RV-0147; PG-FR-V18 |
+| PG-CL-0005@13 | Tōji genuinely waits81/comforts105/stops115, later blocks/pins123–125/pressures128/intimacy130–132, then stops133/releases144 / STRONGLY_SUPPORTED_BOUNDED_INTERPRETATION / EV0008/0011–0014/0016/0030 | Care not blanket entitlement; final release does not erase force. V18flash117 corrects V15 inferred sexualnight while preserving actual morningaffection. HIGH sequence | PG-RV-0148; PG-FR-V18 |
+| PG-CL-0006@18 | Kairi explicitly onlyM21 but forces taxi9–16; later refusesmeddling86/searchescase111/retrieves159/accident163/actualreunion175 / STRONGLY_SUPPORTED_BOUNDED_INTERPRETATION / EV0001–0002/0009–0010/0018–0022 | Sincere presentlove and chosen ending do not authorize earlier grabs or prove complete repair; not forgedmailauthor. HIGH acts, UNKNOWN future | PG-RV-0149; PG-FR-V18 |
+| PG-CL-0013@14 | Momo actual Tchoice7/distrustK22 precede new journey/firstchoice knowledge47–63; care/desireT108 and refusal114 coexist; actual loveK143/rescue/reunion175 closes choice / STRONGLY_SUPPORTED_BOUNDED_INTERPRETATION / EV0001–0006/0011–0016/0020–0023 | Neither allTlovefalse nor finalchoiceonlypassive rescueeffect; V15strongsexualnight inference corrected by V18noactuntilmorning117; laterunshownactUNKNOWN. HIGH orderedspeech/action | PG-RV-0150; PG-FR-V18 |
+| PG-CL-0015@13 | Tōji ordered behavior joins specific patience with possessive physicalconstraint and actual later lettinggo, heardMchoice143 / STRONGLY_SUPPORTED_BOUNDED_INTERPRETATION / EV0008/0011–0014/0016/0030 | Love/fear explain not excuse; V15nightnoact117 counters own earlierinference; M gratitude146 not neutralethicalacquittal. HIGH sequence | PG-RV-0151; PG-FR-V18 |
+| PG-CL-0017@15 | V18 boundaries distinguish forcedtaxi, firststop115, blockedexit/pin125, renewedintimacywithoutnewassent130, secondstop133 and finalfreeleaving144 / STRONGLY_SUPPORTED_BOUNDED_INTERPRETATION / EV0001–0002/0012–0016/0030 | No completed sexualactdepicted; V15 abstentionuntilmorning117 revises strongsexinference, not proof no laterunshownact. Futurechoice cannot retroauthorize force. HIGH actual distinctions | PG-RV-0152; PG-FR-V18 |
+| PG-CL-0020@13 | S and Mis transmit different missing causes47–63; M misreadsphonecontest76; mailauthoropen120 thenS176; metaphoricaldeath95 distinctactualretrievalaccident163 / STRONGLY_SUPPORTED_BOUNDED_INTERPRETATION / EV0005–0010/0013/0018–0022/0025/0028–0029 | No omniscience; M never receivespolicecause byEND, PR22failsbothcondition. HIGH channels/wholewindow test | PG-RV-0153; PG-FR-V18 |
+| PG-CL-0025@10 | K current M love21/Mis transmittedfirstchoice63 close presentromanticcomparison, while oldAki familychronology remains incomplete; Rparentingimagery69–70 adds wish not fact / STRONGLY_SUPPORTED_BOUNDED_INTERPRETATION / EV0002/0006–0007 | No geneticworth or fullyreconstructedfamilyhistory; Mis goodbyeR68 actual. HIGH statements, UNKNOWN unshownpast | PG-RV-0154; PG-FR-V18 |
+| PG-CL-0026@9 | Mis becomes consequential disclosure/counselagent61–66, distinguishes parentsarrangedmeeting67 from wedding and reconfirms cannotdateR68 / STRONGLY_SUPPORTED_BOUNDED_INTERPRETATION / EV0006/0028 | Her recollectedcounsel overT81–82 not Tspeech; care not reversal or allclinicalknowledge. HIGH words/receipt | PG-RV-0155; PG-FR-V18 |
+| PG-CL-0027@7 | Ryo parentingimages69–70/belated wish add selective feeling after V17 coercion/cancellation/emergencycare, not completed accountability / STRONGLY_SUPPORTED_BOUNDED_INTERPRETATION / EV0007 | No newbirth/pregnancy, comprehensiveconfession, restitution or reform shown; nearby woman unnamed. HIGH image/statement, UNKNOWN future | PG-RV-0156; PG-FR-V18 |
+| PG-CL-0028@8 | K M-only confession21 is receivedbutdistrusted22; S/Mis laterrelay journey/firstchoice47–63; finalreunion173–178 actual after accidentalwaterrescue and before/afterforgeryreveal176 / STRONGLY_SUPPORTED_BOUNDED_INTERPRETATION / EV0002/0005–0006/0018–0023 | Endingnotretroproof earlierpriority/forecastsuccess or allconductright. PR19/20failures retained; HIGH presentcouple, UNKNOWN lifetime | PG-RV-0157; PG-FR-V18 |
+
+| Revision / prior | Version change | Reason/effect |
+| --- | --- | --- |
+| PG-RV-0146 / RV0134 | CL0002@16 → @17 / REVISE | Sae moves from genuine loss/finishedRaccount33 through helpful journey disclosure47–50 and comfort96 to forged K farewell176; local aid and harmful control coexist |
+| PG-RV-0147 / RV0135 | CL0003@15 → @16 / REVISE | Sae repair remains selective: no-obligation choice50/comfort96 coexist with alarming impersonation176 and final comedy |
+| PG-RV-0148 / RV0136 | CL0005@12 → @13 / REVISE | Tōji genuinely waits81/comforts105/stops115, later blocks/pins123–125/pressures128/intimacy130–132, then stops133/releases144 |
+| PG-RV-0149 / RV0137 | CL0006@17 → @18 / REVISE | Kairi explicitly onlyM21 but forces taxi9–16; later refusesmeddling86/searchescase111/retrieves159/accident163/actualreunion175 |
+| PG-RV-0150 / RV0138 | CL0013@13 → @14 / REVISE | Momo actual Tchoice7/distrustK22 precede new journey/firstchoice knowledge47–63; care/desireT108 and refusal114 coexist; actual loveK143/rescue/reunion175 closes choice |
+| PG-RV-0151 / RV0139 | CL0015@12 → @13 / REVISE | Tōji ordered behavior joins specific patience with possessive physicalconstraint and actual later lettinggo, heardMchoice143 |
+| PG-RV-0152 / RV0140 | CL0017@14 → @15 / REVISE | V18 boundaries distinguish forcedtaxi, firststop115, blockedexit/pin125, renewedintimacywithoutnewassent130, secondstop133 and finalfreeleaving144 |
+| PG-RV-0153 / RV0141 | CL0020@12 → @13 / REVISE | S and Mis transmit different missing causes47–63; M misreadsphonecontest76; mailauthoropen120 thenS176; metaphoricaldeath95 distinctactualretrievalaccident163 |
+| PG-RV-0154 / RV0142 | CL0025@9 → @10 / REVISE | K current M love21/Mis transmittedfirstchoice63 close presentromanticcomparison, while oldAki familychronology remains incomplete; Rparentingimagery69–70 adds wish not fact |
+| PG-RV-0155 / RV0143 | CL0026@8 → @9 / REVISE | Mis becomes consequential disclosure/counselagent61–66, distinguishes parentsarrangedmeeting67 from wedding and reconfirms cannotdateR68 |
+| PG-RV-0156 / RV0144 | CL0027@6 → @7 / REVISE | Ryo parentingimages69–70/belated wish add selective feeling after V17 coercion/cancellation/emergencycare, not completed accountability |
+| PG-RV-0157 / RV0145 | CL0028@7 → @8 / REVISE | K M-only confession21 is receivedbutdistrusted22; S/Mis laterrelay journey/firstchoice47–63; finalreunion173–178 actual after accidentalwaterrescue and before/afterforgeryreveal176 |
+
+| Forecast adjudication / original retained | Exact whole-window result | Disposition |
+| --- | --- | --- |
+| PG-PR-0022@2 / PR0022 firstfreezePG-FR-V17 | Mis61 tellsM Rinjury/hospital/delay/phoneproblem, but NO explicitPOLICEQUESTIONING cause reachesM throughout172mainline; original BOTHcondition unmet | DISCONFIRMED PG-FR-V18; EV0025; partialsuccessnotredefinedpass |
+| Priorwindows | PR0019 lateMfirstchoice63/PR0020 observedcouple remain failedexactwindows | No retrospective rescue of failed forecasts; PR0001 earlierNOT_TESTED retained |
+| Newforecast NONE | Original-series terminalboundary178; no nextsourceadmitted | No invented V19 or newsourceforecast; G1/G2 audit next aftercommit/independentbackup |
+
+No new full versions CL0001/0004/0007–0012/0014/0016/0018–0019/0021–0024: V18 emailauthor resolution is a different message, not old PR0001 authorship; no old V08push/rescueinventory/AVinventory resolution. No new claim/RD. Next CL0029,PR0023,RV0158. Revision0.17 —12 successorclaims/terminalPR22failure/V15self-correction; all prior full rows/terms/freezes retained.

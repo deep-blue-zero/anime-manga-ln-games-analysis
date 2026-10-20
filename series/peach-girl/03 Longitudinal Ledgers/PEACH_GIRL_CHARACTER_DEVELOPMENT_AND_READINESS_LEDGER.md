@@ -5,7 +5,7 @@ artifact_type: character_development_readiness_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.16"
+version: "0.17"
 status: active_provisional
 scope: "Character Development and Readiness; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -595,3 +595,48 @@ Readiness UNASSESSED_NO_OPERATIONAL_MODEL_TESTED; no new RD.
 | PG-CS-0264@1 / CHAR0001 / CS0261 | CHOICE: actually takes T hand/sorry Okayasu164 | EV0024; present T decision, not eternal endgame/absence all K feeling |
 
 Next CHAR0033,CS0265,RD0001. Revision0.16 — V17 successors; prior bodies retained.
+
+## V18 successor transaction — PG-FR-V18
+
+[V18 reading](../02%20Sequential%20Readings/PEACH_GIRL_V18_DEEP_READING.md);2026-10-20 owner date.187 directly inspected/172 mainline;original-series END178. EV=PG-EV-V18. Historical rows retained.
+
+Readiness UNASSESSED_NO_OPERATIONAL_MODEL_TESTED; no new RD.
+Dated self-correction2026-10-20: V18_116–117 explicitly supplies M settleKfirst/T nothinguntilmorning at V15 inn. Bounded V15_149–156 rechecked. Reject own earlier strong sexual-NIGHT inference; actual morning affection155–156 retained, any later unshown act UNKNOWN. V15 reading/PG-FR-V15 unchanged. Dependencies CS0214/IP0198/CM0146/KN0206/0210/RL0233–0234 and CL0013@11/0015@10/0017@12; current successors below. This is later-disclosure correction, not rewrite of historical receipt.
+
+| Local subject | Verified admission | Limit |
+| --- | --- | --- |
+| PG-CHAR-0033 | Sae parents12–14 collective; motherrecognizesuniform14/parentsblameeducation | Not K parents; no invented names |
+| PG-CHAR-0034 | Three unnamed surfers151–158 collective; capmanlead/casethrow | Distinct V17 hiredgroup; no invented names |
+| PG-CHAR-0035 | Unnamed accompanyingwoman151–158 | Objectionsnotprevention; no invented name |
+
+| State / subject / prior | Actual transition/frontier | Basis / limit |
+| --- | --- | --- |
+| PG-CS-0265@1 / CHAR0001 / CS0264 | CHOICE: explicit noK6/yesT7; objects kidnapping15/demandsstop16/exclusivecare18; hears onlyM21 but distrusts22/leaves24 | EV0001–0002; later choice cannot authorize forced removal |
+| PG-CS-0266@1 / CHAR0004 / CS0262 | CHOICE: pushesT9/grabsM10/trips11/forces taxi; confessescurrentM21 then permits departure24 | EV0001–0002/0027; sincere love and boundary violation coexist |
+| PG-CS-0267@1 / CHAR0002 / CS0263 | CARE/RECEIPT: gets actualplazalocation20/finds26; school/trip plans28–30 | EV0002–0003; phonefailedafterlocation not beforeallreceipt |
+| PG-CS-0268@1 / CHAR0003 / CS0260 | ACCOUNT/CHOICE: feelslighter/noRlove33; batteryadvice39; tripalibi40/disclosesShiranami44–50 | EV0004–0005; not finalrepair or permissionignoreNO |
+| PG-CS-0269@1 / CHAR0001 / CS0265 | KNOWLEDGE/AFFECT: actualSjourneyreport47–50/cry53; MisRinjuryhospital61/firstchoice63/Tregret64; ownheartcounsel65 | EV0005–0006; police cause still absent |
+| PG-CS-0270@1 / CHAR0005 / CS0252 | CHOICE/REPORT: relayslatecause61/rose63/Tregret64/counsel65; parentsarrangedmeeting67/notwedding; stillcannotdateR68 | EV0006; care not renunciationreversal |
+| PG-CS-0271@1 / CHAR0020 / CS0259 | REFLECTION: parentingwebsite/familyimages69–70/mightwantchildraising | EV0007; not actualchild/reform; companion unnamed |
+| PG-CS-0272@1 / CHAR0004 / CS0266 | CHOICE: willnotstalk56/S disclosedjourney57; stopsScall75/86–87; Shiranamifuneralsea metaphor94–95/tears97 | EV0008–0009; not literal suicide plan |
+| PG-CS-0273@1 / CHAR0001 / CS0269 | CHOICE/INTERPRETATION: lateoutservice71/misreadsphonecontest76/acceptsTcare81/boards84; guiltK93/tellsT104 | EV0008/0011; falseK-S intimacy inference not event |
+| PG-CS-0274@1 / CHAR0002 / CS0267 | CARE: waits/acceptsdelay81; nonpunitivehappinesscounsel105–107/mutualmoretime108; firstSTOPheeded115 | EV0008/0011–0012; no blanket permission |
+| PG-CS-0275@1 / CHAR0004 / CS0272 | OBJECT/AFFECT: raisesPHONECASE100 butnotthrow; SborrowsPHONE110; searchesmissingcase111 | EV0010; case distinctphone/authorofmailnotyetknown |
+| PG-CS-0276@1 / CHAR0003 / CS0268 | CHOICE: accompany/comfortK96; borrowsphone110/answersM137; advisesownchoice139–140 | EV0009–0010/0015; fraud admittedlater176 not assumedat120 |
+| PG-CS-0277@1 / CHAR0001 / CS0273 | AFFECT/BOUNDARY: WAIT114/heeded115/lovesTbutcannot117; no securetraumadiagnosis118; believesthreat120/seeksleave122 | EV0012–0013; ownbodyinterpretation140 not universaltheory |
+| PG-CS-0278@1 / CHAR0002 / CS0274 | CHOICE: blocksdoor123/pullsbed124/pinswrists125/ultimatum128; renewsintimacy130–132/seesMtears/stops133/coversGO135 | EV0013–0014/0030; actual force/no completed act depicted |
+| PG-CS-0279@1 / CHAR0001 / CS0277 | CHOICE: receivesSphoneanswer137/tellsfear138; explicitloveK143/leavesT/train146 | EV0015–0016; earlierTlove remainsactual |
+| PG-CS-0280@1 / CHAR0002 / CS0278 | CHOICE/AFFECT: acknowledgesMdecision143/urgestrain144/turns145; receivesapology | EV0016; release not erasure of restraint |
+| PG-CS-0281@1 / CHAR0004 / CS0275 | CHOICE/HARM: searches147/recognizescase151/begs153/grabs155/beaten156/casethrown158/entersretrieve159 | EV0017–0019; walletmissing not proven theft |
+| PG-CS-0282@1 / CHAR0034 / NONE | ACTUAL: three surfers; capmanwearscase/demandsmoney/neckrestraint155/threebeating156/capmanthrowSEA158 | EV0018; distinct V17 hiredgroup/no invented names |
+| PG-CS-0283@1 / CHAR0035 / NONE | ACTUAL: accompanyingwomanpities154/objects156/urgesreturn157; no prevention | EV0018; objectionpartlypeoplewatch not fullintervention |
+| PG-CS-0284@1 / CHAR0001 / CS0279 | CHOICE/CARE: taxi160/seesK/dropsbagshoes164/swimshore166/rescuebreaths168–169/love174/kiss175 | EV0019–0021; dependencyrhetoric not normativeideal |
+| PG-CS-0285@1 / CHAR0004 / CS0281 | PHYSICAL/AFFECT: casefound162/legcramp163–165/fearsdeath/Mrescue/revives170/affection173–175 | EV0019–0021; accidentalretrievaldanger not suicideattempt |
+| PG-CS-0286@1 / CHAR0003 / CS0276 | REVEAL/CHOICE: admits sentKemail176/takescouplephoto/comicchase177/continuedtie178 | EV0022–0023; successfulmeddling not ethicalvindication |
+| PG-CS-0287@1 / CHAR0001 / CS0284 | KNOWLEDGE/EXIT: learnsSauthor176/M-Kactualcouplehandhold178/Snear; ownvow | EV0022–0023; no marriage/futureguarantee |
+
+| Historical state correction | Successor formulation | Basis/limit |
+| --- | --- | --- |
+| PG-CS-0214@2 / CS0214@1 | ResponsiveV15morningaffection155–156 actual; V18flashnothinguntilmorning117 supersedes strongsexnightinference | EV0012/0026; no completed act shown night or morning; oldbytes retained |
+
+Next CHAR0036,CS0288,RD0001. Revision0.17 — V18 successors/self-correction; prior bodies retained.

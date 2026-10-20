@@ -5,7 +5,7 @@ artifact_type: information_reputation_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.16"
+version: "0.17"
 status: active_provisional
 scope: "Information Circulation and Reputation; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -1227,3 +1227,91 @@ Next IP0222,KN0229,TX0269,RP0070. Revision0.15 — V16 successors; prior bodies 
 | PG-RP-0072 / NONE | Morika return/hiring disclosure120/phone concealment131 leaves distinct local audiences | EV0016–0017/0027; no public comprehensive scandal resolution |
 
 Next IP0246,KN0249,TX0293,RP0073. Revision0.16 — V17 successors; prior bodies retained.
+
+## V18 successor transaction — PG-FR-V18
+
+[V18 reading](../02%20Sequential%20Readings/PEACH_GIRL_V18_DEEP_READING.md);2026-10-20 owner date.187 directly inspected/172 mainline;original-series END178. EV=PG-EV-V18. Historical rows retained.
+Dated self-correction2026-10-20: V18_116–117 explicitly supplies M settleKfirst/T nothinguntilmorning at V15 inn. Bounded V15_149–156 rechecked. Reject own earlier strong sexual-NIGHT inference; actual morning affection155–156 retained, any later unshown act UNKNOWN. V15 reading/PG-FR-V15 unchanged. Dependencies CS0214/IP0198/CM0146/KN0206/0210/RL0233–0234 and CL0013@11/0015@10/0017@12; current successors below. This is later-disclosure correction, not rewrite of historical receipt.
+
+| Proposition / prior | Content/class | Evidence / limit |
+| --- | --- | --- |
+| PG-IP-0246@1 / NONE | MnoK6/yesT7 thenloveK143/finalcouple178 / ORDEREDREALCHOICES | EV0001/0016/0023; not eitherphaseillusory |
+| PG-IP-0247@1 / NONE | Kforcedtaxi9–16/onlyM21/Mdistrust22 / ACTUAL_FORCE_AND_RECEIVEDCONFESSION | EV0001–0002; no retroconsent |
+| PG-IP-0248@1 / NONE | Mcoastalplazalocation20 reachesTbeforebatteryfailure / ACTUAL_PARTIALSUCCESS | EV0002; not whollyfailedcall |
+| PG-IP-0249@1 / NONE | SnolongerRlove/lighter33 / ATTRIBUTED_SELFACCOUNT | EV0004; not permanentrepaircertificate |
+| PG-IP-0250@1 / NONE | Sjourneyreport47–50 toM / NEWRECEIPT | EV0005; reporteffortnotobligationchoose |
+| PG-IP-0251@1 / IP0183 | MisRinjuryhospitalcall61/Msayswouldwait62 / PARTIALLATECAUSERECEIVED | EV0006/0025; no policecause soPR22fails |
+| PG-IP-0252@1 / NONE | Misrelaysredrose/firstchoice63 / ACTUALRECEIPTNOW | EV0006; no failedV15windowrescue |
+| PG-IP-0253@1 / NONE | Misparentsarrangedmeeting67/notwedding/stillRgoodbye68 / ACTUALACCOUNT | EV0006; no marriageorrenunciationreversal |
+| PG-IP-0254@1 / NONE | Rparentingimages69–70 / IMAGINATION_SITE_NOTBIRTH | EV0007; unnamedcompanion/diagnosisunknown |
+| PG-IP-0255@1 / NONE | K/Sphonecontest75seenM76 / MISINTERPRETEDAPPARENTINTIMACY | EV0008; no actualromanticembrace |
+| PG-IP-0256@1 / NONE | 81–82counseloriginalMis65 / RECALLEDNOTTSPEECH | EV0028; keepvoiceattribution |
+| PG-IP-0257@1 / NONE | Kfuneral94–95 / EXPLICITMETAPHOR_NOTSETTLEDSUICIDEPLAN | EV0009/0029; no literalact |
+| PG-IP-0258@1 / NONE | Kraisescase100doesnotthrow/dropped110 / ACTUAL_OBJECT | EV0010; phoneseparate |
+| PG-IP-0259@1 / NONE | SborrowsKphone110 / ESTABLISHEDCUSTODY | EV0010/0022; permitslaterforgery |
+| PG-IP-0260@1 / NONE | Kaddressfarewell120 / AUTHOROPENTHENDISCLOSEDSAE176 | EV0013/0022; notKauthoredsuicidalthreat |
+| PG-IP-0261@1 / NONE | Tfirststop115/laterrestraint123–125/intimacy130–132/stop133 / ORDEREDACTS | EV0012–0014; no completedsexualactdepicted |
+| PG-IP-0262@1 / NONE | Mbodyhonest140 / SELF_INTERPRETATION | EV0015; not universalloveorconsenttheory |
+| PG-IP-0263@1 / NONE | Surferthrowscase158/Kretrieve159/waveslegcramp163–165 / ACTUALACCIDENTALCAUSALCHAIN | EV0018–0019; notKdiscard/suicide |
+| PG-IP-0264@1 / NONE | Mactualrescuebreaths168–169/Krevives170 / DEPICTED | EV0020; no compressions/fullclinicalprotocol |
+| PG-IP-0265@1 / NONE | Sadmitsemailsent176 heardM/K / AUTHORSHIPRESOLVED | EV0022; no genericKconfession |
+| PG-IP-0266@1 / NONE | M-Klove/kiss/handhold175–178/Snear / ACTUALENDING | EV0021–0023; no triad/marriage/lifetimeguarantee |
+| PG-IP-0267@1 / NONE | V18full172mainlineNO Mpolicecausereceipt / BOUNDEDWHOLEWINDOWABSENCE | EV0025; partialcauseNOToriginalbothcondition |
+
+| Knowledge / holder | Receipt at frontier | Limit |
+| --- | --- | --- |
+| PG-KN-0249 / Momo / KN0247 | KcurrentonlyM21/realTchoice7/owninsecurity18 | EV0001–0002; heard≠trusted |
+| PG-KN-0250 / Tōji / KN0246 | ActualMlocation20/finds26/yesdating7 | EV0001–0003; no alltaxidialoguereceipt |
+| PG-KN-0251 / Momo / KN0249 | Sjourney47–50/MisRinjuryhospital61/firstchoice63/Tregret64 | EV0005–0006; no policecausereceipt |
+| PG-KN-0252 / Misao / KN0245 | Mcry55/wouldwait62/ownRgoodbye68 | EV0006; pregnancycorrectionstillunshown |
+| PG-KN-0253 / Kairi / KN0232 | SsaystoldMjourney57/M-Tdepart84 | EV0006/0008; not everyMisconversation |
+| PG-KN-0254 / Momo / KN0251 | Seesphonecontest76/misinterpretsintimacy | EV0008; appearance not knowledgeeventtruth |
+| PG-KN-0255 / Tōji / KN0250 | ReceivesM Kjourney104/Mwait114/lovesbutcannot117 | EV0011–0012; notclinicaltraumadiagnosis |
+| PG-KN-0256 / Reader / KN0248 | Funeralexplicitmetaphor95/Sphone110/casestillwanted111 | EV0009–0010; email120authorshipopen |
+| PG-KN-0257 / Momo / KN0254 | ReceivesKaddressmail120/believesselfharmrisk121 | EV0013; doesnotknowsenderS |
+| PG-KN-0258 / Tōji / KN0255 | Shownmail121/objects122/knowsMleavingwish123 | EV0013–0014; suspicionnotauthorproof |
+| PG-KN-0259 / Sae / KN0243 | Ownborrowedphone110/hearsMbelievesmail138/ownauthorshipknownselfrevealed176 | EV0010/0015/0022; compositionunshownbutadmissionstrong |
+| PG-KN-0260 / Momo / KN0257 | Sasksownchoice139/MexplicitloveK143 | EV0015–0016; notnewexternaldiagnosis |
+| PG-KN-0261 / Tōji / KN0258 | MexplicitloveK143/leaves146 | EV0016; actualreceivedpartnerreversal |
+| PG-KN-0262 / Kairi / KN0253 | Casefoundoncapman151/ownbeating156/throw158/crampedleg163 | EV0018–0019; does not know forgedmail until176 |
+| PG-KN-0263 / Momo / KN0260 | Actualwaterdanger163/unresponsive167/rescuebreaths168–169/revival170 | EV0019–0020; beliefnotbreathingnotclinicalcertification |
+| PG-KN-0264 / Momo/Kairi | Mutuallove173–175/Sauthoradmission176 | EV0021–0022; bothreceiptactual |
+| PG-KN-0265 / Reader / KN0256 | V18flash116–117 revisesV15sexnightinference; finaleSauthor176/rescueaccident | EV0012/0026/0029; laterknowledgecannotretroeditfreezes |
+| PG-KN-0266 / Momo final / KN0263 | FinalKcouple178/knowsRinjurybutnotfullpolicecausethroughEND | EV0023/0025; all-readerknowledge not hers |
+
+| Transfer / channel | Content/disposition | Evidence / limit |
+| --- | --- | --- |
+| PG-TX-0293 / Momo → Tōji/Kairi | NoK6/yesT7 | EV0001; actualchoice |
+| PG-TX-0294 / Kairi ↔ Momo | Kidnappingobjection15/onlyM21/cannottrust22 | EV0002; receivedwordsnotagreement |
+| PG-TX-0295 / Momo → Tōji | Coastalplazalocation20 beforebatteryfails | EV0002; actuallyreceivedlocation |
+| PG-TX-0296 / Sae → Momo | OwnRfeeling/loss33 | EV0004; selfaccount |
+| PG-TX-0297 / Sae → Momo | Shiranamitaxi20km47/searchmotive48/sawM-T49/noobligation50 | EV0005; actualnewreceipt |
+| PG-TX-0298 / Misao → Momo | Rinjuryhospitaldelay61/firstchoice63/Tregret64/counsel65 | EV0006; policecauseabsent |
+| PG-TX-0299 / Kairi ↔ Sae | ToldM57/stopcall75/86/borrowphone110 | EV0006/0008–0010; notromance |
+| PG-TX-0300 / Tōji → Momo; Momo recalls Misao | Actualtrust81/Miscounselmemory81–82 | EV0008/0028; separatevoices |
+| PG-TX-0301 / Kairi ↔ Sae | Funeralmetaphor95/sinkfloat96/tears97 | EV0009; explicitnonliteral |
+| PG-TX-0302 / Momo → Tōji | Kearlierjourney104/guilt105/moretime108 | EV0011; actualreport/choice |
+| PG-TX-0303 / Momo ↔ Tōji | WAIT114/stop115/currentlovesbutcannot117/flashnothinguntilmorning117 | EV0012/0026; datedV15correction |
+| PG-TX-0304 / Sae via Kairi account → Momo | Farewellfishfoodmail120 | EV0013/0022; authorshipinitiallyopen/confirmed176 |
+| PG-TX-0305 / Momo ↔ Tōji | Showmail121/leavewish122/blocked123/pin125/ultimatum128 | EV0013–0014; physicalconstraintnotfreejointagreement |
+| PG-TX-0306 / Tōji → Momo | Stop133/coverGO135 | EV0014; releaseafterconstraint |
+| PG-TX-0307 / Momo ↔ Sae on Kphone | Threatreport138/wholove139/ownchoice140 | EV0015; callerM notK |
+| PG-TX-0308 / Momo → Tōji; Tōji → Momo | LoveK143/sorry/actualrelease/train144 | EV0016; receivedreversal |
+| PG-TX-0309 / Kairi ↔ surfers | Pleasecase153/rewarddemand154/struggle155/assault156/throw158 | EV0018; threeassailantsdistinctV17hiredmen |
+| PG-TX-0310 / Momo → Kairi physically | Swimshore166/rescuebreaths168–169/revives170 | EV0020; actualcare |
+| PG-TX-0311 / Momo ↔ Kairi | Mutuallove173–174/kiss175 | EV0021; actualromance |
+| PG-TX-0312 / Momo/Kairi/Sae | Mailquestion176/Kdenial/SI sent176/photo | EV0022; actualauthorshipdisclosuretoBOTH |
+| PG-TX-0313 / Narration/depiction → reader | Sea reunion/vow/M-Khand/Snear178/END | EV0023; not guaranteeunshownfuture |
+| PG-TX-0314 / V18flashback → reader/M-T sharedpast | Noactuntilmorning116–117 vs earlierV15inference | EV0026; explicitdatedsuccessorcorrection |
+
+| Reputation / prior | Event/interpretation | Evidence / limit |
+| --- | --- | --- |
+| PG-RP-0073 / RP0070 | Snonpregnancyaftermath33/parentsblame14; no schoolwideclinicalcorrectionorfullfamilyrepairdepicted | EV0001/0004; boundedlocalaudiences |
+| PG-RP-0074 / NONE | K/S apparentintimacy76 misreadbyM only, actualphonecontest75 | EV0008; localmisperceptionnotactualnewcouple |
+| PG-RP-0075 / NONE | Sphoto176/comicchase177 sociallyratifyM-Kcouple; forgedthreat remainsdeception | EV0022–0023; not publicethicalvindication |
+
+| Historical proposition correction | Successor formulation | Basis/limit |
+| --- | --- | --- |
+| PG-IP-0198@2 / IP0198@1 | STRONG_SEXUAL_NIGHT_INFERENCE_WITHDRAWN_LATER_DISCLOSURE; T agrees nothinguntilmorning117/MsettleKfirst116 | EV0012/0026; morningaffection155–156 preserved; any unshown actUNKNOWN; KN0206/0210 narrowedaccordingly |
+
+Next IP0268,KN0267,TX0315,RP0076. Revision0.17 — V18 successors/self-correction; prior bodies retained.
