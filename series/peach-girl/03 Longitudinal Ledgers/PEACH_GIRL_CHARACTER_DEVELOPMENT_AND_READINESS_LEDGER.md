@@ -5,7 +5,7 @@ artifact_type: character_development_readiness_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.4"
+version: "0.5"
 status: active_provisional
 scope: "Character Development and Readiness; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -195,3 +195,42 @@ New Codex Route B evidence, learned after PG-AUDIT-20261019; [V05 reading](../02
 No new subject allocation: incidental sales assistant, hotel staff/bystanders and neighbor retain source-required bounded descriptions in observations; no durable model need established. Readiness remains UNASSESSED; no model proposal, held-out test or new assessment warrants RD0001. Narrative evidence exists. Next new IDs: CHAR0018, CS0050, RD0001.
 
 Revision history: 0.4 — V05 source-derived successor transaction and dated CS0035 anatomy correction, 2026-10-19 owner date; no historical freeze rewritten.
+
+## V06 successor transaction — PG-FR-V06
+
+New [V06 reading](../02%20Sequential%20Readings/PEACH_GIRL_V06_DEEP_READING.md), owner date2026-10-19. EV below expands PG-EV-V06; all events learned V06, source times specified. Latest projection governs retrieval; earlier rows/freezes unchanged. This is new Codex Route B, not recovered Work V06.
+
+| Newly bounded subject | Actual identity / first observation | Limits |
+| --- | --- | --- |
+| PG-CHAR-0018 | Unidentified actual hotel receiver who threatens restrained Sae; unseen voice EV0045, depicted EV0049/i0162–0163 | Name/biography UNKNOWN; **not merged** with intended actor who calls from another waiting situation at EV0050. Global ID null |
+
+| Event / subject / prior | Time and kind / observed choices, constraints and consequences | Evidence / claim / counteraccount and limits |
+| --- | --- | --- |
+| PG-CS-0044@2 / CHAR0002 / CS0044@1 | REVEALED_NOT_NEW + analyst correction / V05 gift: refuses joint shopping but Sae places perfume in hand and steers scent/product choice; ordinary care/party/checking remain | V05 i0101–0106/EV0025 plus V06 EV0031; CL0005@6/0019@2. Corrects own overstatement learned V06, not new V06 shopping or edited V05 freeze |
+| PG-CS-0050@1 / CHAR0001 / CS0049@1 | CONTEXT_CHANGE / birthday night: challenges Jigoro account, seeks bodily/object certainty, refuses approach, cries and self-blames; no reliable missing-interval memory | EV0002/0006–0008/0012/0021; IP0051@2; lore/fear not proof, choice to help not consent |
+| PG-CS-0051@1 / CHAR0002 / CS0048@1 | KNOWLEDGE_CHANGE + action / rechecks hotel, recognizes Sae withholding, survives obstruction, enlists Misao and reaches Momo; repeatedly hits Jigoro until stopped | EV0003–0005/0014–0017; CL0005@6; care/verification plus violence, not ideal savior |
+| PG-CS-0052@1 / CHAR0005 / NONE ESTABLISHED | REVEALED_NOT_NEW habit + CONTEXT_CHANGE care / driving fear; uses parent pretext, stops violence/treats injuries, offers Momo choices, later actual family contact; explains secondary hurt | EV0005/0009/0014/0017/0019–0020/0022/0029; no romantic inference, diagnosis or new habit caused by episode. Role now evidenced across contexts |
+| PG-CS-0053@1 / CHAR0004 / CS0038@2 | CONTEXT_CHANGE / joins search, watches Momo, initially permits blows, warns against blame, overhears private account and jokes sexually; rivalry persists | EV0005/0009/0017–0018/0022/0030–0031; CL0006@6; assistance does not prove purely selfless motive |
+| PG-CS-0054@1 / CHAR0003 / CS0046@1 | DISPOSITION_CHANGE escalation / sprays Tōji, photographs staged room, privately blames Momo and publicly repudiates Jigoro; expects breakup; fan/drug admission and explicit envy | EV0004/0010/0013/0018–0019/0032/0035–0036; CL0002@6/0003@6; fear/public performance not remorse; photo use unknown |
+| PG-CS-0055@1 / CHAR0001 / CS0050@1 | KNOWLEDGE_CHANGE false inference + crisis / hears rejection-sounding fragment, misses self-blame explanation, flees into danger and fears impurity-based loss; Tōji reaches and brings her clear | EV0023–0026; CL0020@1; no invented earlier premeditation or actual breakup, no objective impurity finding |
+| PG-CS-0056@1 / CHAR0002 / CS0051@1 | RELATIONSHIP_CHANGE / blames own failure, denies her fault, acts to rescue, discloses identity deception and explicitly separates love from compensation guilt; gives reassurance/intimacy | EV0023/0025–0026/0028/0030/0047–0048; CL0005@6/0015@4/0017@3; shared-death pressure, prior violence and later choices retained |
+| PG-CS-0057@1 / CHAR0015 / CS0047@1 | KNOWLEDGE_CHANGE / notices mismatch with Sae account, shocked by public blame, demands promised dating, then hears admitted lies/drugging | EV0011/0019/0034–0035; CL0018@3; no backdated knowledge or full missing-interval confession |
+| PG-CS-0058@1 / CHAR0001 / CS0055@1 | KNOWLEDGE_CHANGE + action / begins reconstructing with couple/Kairi but retains charity, then overhears Sae admission; shock becomes wall strike and demand for confrontation | EV0031/0033/0035–0036/0038–0039; CL0003@6/0021@1; regained agency, not completed forgiveness or mere helplessness |
+| PG-CS-0059@1 / CHAR0002 / CS0056@1 | CONTEXT_CHANGE / participates staged breakup and love confession, tampers with cup, permits incapacitated removal as revenge; performance confirmed | EV0041–0045; CL0005@6/0021@1; prior desire by Sae supplies no permission, care for Momo does not erase active harmful agency |
+| PG-CS-0060@1 / CHAR0004 / CS0053@1 | CONTEXT_CHANGE / false studio invitation, proposes matching suffering, directs script and unconscious delivery, assumes actor safety; sexual joke/retraction and serious ambiguity remain | EV0033/0038–0039/0044–0046; CL0006@6/0021@1; motive hypothesis by Tōji not proof; safety assumption fails at EV0050 |
+| PG-CS-0061@1 / CHAR0001 / CS0058@1 | CONTEXT_CHANGE + self-report / explicitly hesitates over same-level retaliation then chooses it; staged breakup truly hurts, renewed kisses/deeper closeness, anger plus pity for Sae | EV0044–0048; CL0015@4/0021@1; not passive plan prop, moral cure or endorsed punishment |
+| PG-CS-0062@1 / CHAR0003 / CS0054@1 | KNOWLEDGE_CHANGE/context / believes breakup and Tōji confession, privately triumphs; drugged then wakes restrained to unknown threat, screams | EV0041–0043/0049–0050; CL0002@6/0021@1; real desire and loss of agency, not established repentance or completed sexual harm |
+| PG-CS-0063@1 / CHAR0015 / CS0057@1 | REVEALED_NOT_NEW self-account / says Sae changed, recalls fragile injured girl he wanted protect | EV0037; CL0018@3; retrospective idealization, not neutral earlier biography or new first meeting |
+| PG-CS-0064@1 / CHAR0001/0002/0004 separately affected / CS0061/0059/0060 | KNOWLEDGE_CHANGE / intended contact says girl never came, each visibly shocked; plan control contradicted | EV0050; CL0021@1; no rescue step/outcome yet, no presumption same motive/response for all three |
+
+| Current subject @ PG-FR-V06 | Active material state | Gaps / qualification |
+| --- | --- | --- |
+| CHAR0001 | CS0050/0055/0058/0061/0064; loves Tōji, understands no-fault position, chooses revenge after pain, then delivery error | Missing interval unresolved; Kairi feeling category remains CL0013@3; no all-context recovery model |
+| CHAR0002 | CS0044@2/0051/0056/0059/0064; verification/protective trust and affectionate repair, also repeated blows and deliberate drugging | Bounded change, not uniform improvement; new harm/outcome open |
+| CHAR0003 | CS0054/0062; explicit envy and specific desire, now harmed by mirrored incapacitation/danger | No remorse, actual man identity or subsequent outcome established |
+| CHAR0004 | CS0053/0060/0064; advocate/ally/rival and revenge director, safety claim fails | Care/desire/punitive motive weights open; no pure altruistic category |
+| CHAR0005 | CS0052; institutional care with lies/habits/limits, respects requested solitude | No later drug-admission receipt or full biography shown |
+| CHAR0015 | CS0057/0063; story questioned then truth heard, disillusioned | Own hotel act unknown, not absolved by deception |
+| CHAR0018 | EV0045/0049; actual threatening receiver distinct from waiting intended contact | Stable bounded identity only; no model or invented name |
+
+Readiness remains UNASSESSED: no operational proposal, assessment or actual predictive model test. Narrative diversity is not automatic reconstruction readiness. Next IDs CHAR0019, CS0065, RD0001. Revision history0.5 — V06 successor transaction and dated CS0044 correction; historical V01–V05 preserved.

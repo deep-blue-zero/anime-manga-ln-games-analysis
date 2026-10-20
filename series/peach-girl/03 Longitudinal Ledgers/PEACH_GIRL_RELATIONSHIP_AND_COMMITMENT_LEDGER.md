@@ -5,7 +5,7 @@ artifact_type: relationship_commitment_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.4"
+version: "0.5"
 status: active_provisional
 scope: "Directional Relationships and Commitments; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -246,3 +246,40 @@ New Route B reading owns PG-EV-V05; EV suffixes refer to that volume only. Lates
 | Momo → Kairi | RL0041@2; CL0013@3 preserved | Romantic pull/gratitude/possibility, present Tōji choice; not relabeled merely friendship |
 
 Next new IDs RL0060 and CM0036. Earlier boundary projections and all initial request/answer terms remain historical. Revision history: 0.4 — V05 successor events and anatomy/practice testimony revisions, 2026-10-19 owner date.
+
+## V06 successor transaction — PG-FR-V06
+
+[V06 reading](../02%20Sequential%20Readings/PEACH_GIRL_V06_DEEP_READING.md) owns PG-EV-V06; EV below uses that volume unless V05 specified. All learned V06, prior frozen records unchanged. Priors are same-direction states; reciprocal context is not a predecessor. Current views are the newest rows below, not historical projections.
+
+| Directional event / same-direction prior | Represented source time / feeling, conduct and mutual understanding | Evidence / claim / limits |
+| --- | --- | --- |
+| PG-RL-0053@2 / RL0053@1 | Tōji → Momo / V05 gift, corrected V06: refusal of joint shopping, but product/scent steered by Sae; real gift/party affection retained | V05 i0101–0106/EV0025; V06 EV0031; CS0044@2/CL0005@6/0019@2; no rewrite of V05 bytes |
+| PG-RL-0060@1 / RL0052@1 | Momo → Tōji / hotel to café: fears shame/rejection, mishears then receives explicit love/no-fault reassurance; chooses continuing affection and feels deeper closeness; scripted breakup still hurts | EV0021/0023–0028/0047–0048; CL0015@4/0017@3/0020@1; CM0040 performance not true end |
+| PG-RL-0061@1 / RL0053@2 | Tōji → Momo / search to reunion: reaches/rescues, regrets own failures, explicitly denies her fault/impurity rejection; honestly discloses deception, restores wanted affection | EV0003–0005/0016–0017/0023–0028/0030/0047–0048; CL0005@6; desperation/violence and later revenge retained |
+| PG-RL-0062@1 / RL0040@2 | Kairi → Momo / night through revenge: advocates, helps couple, overhears privately, retains sexualized jokes, proposes/executes punitive scheme | EV0017–0018/0022/0030–0031/0038–0039/0044–0046; CL0006@6; pure selfless motive unproven, previous boundary history remains |
+| PG-RL-0063@1 / RL0041@2 | Momo → Kairi / same span: receives advocacy, objects to private overhearing, joins plan/asks safety; no new chosen love declaration or reclassification | EV0031/0038–0039/0044–0045; CL0013@3 retained; prior supported romantic pull not erased by alliance |
+| PG-RL-0064@1 / RL0057@1 | Sae → Momo / night to shoot: photographs staged scene, false blame, admits drugs/envy and treats model as compensation; later triumph over apparent breakup | EV0010/0018–0019/0035–0036/0041–0042; CL0002@6/0003@6; no genuine protective friendship inferred |
+| PG-RL-0065@1 / RL0056@1 | Momo → Sae / morning to revenge: residual charity until direct admission, then unprecedented hatred, direct anger and conscious retaliation; anger and pity coexist later | EV0033/0035–0039/0044–0045/0048; CL0021@1; no passive-innocent-only compression or final forgiveness |
+| PG-RL-0066@1 / RL0054@1 | Sae → Tōji / night obstruction, later café: tries prevent reaching Momo, then believes false confession, privately delights at winning and wants intimacy | EV0004/0015/0041–0043; CL0002@6; specific desire real, consent to drugging absent |
+| PG-RL-0067@1 / RL0055@1 | Tōji → Sae / search to revenge: rejects delay; later performs love to lure her, drugs drink and allows punitive delivery | EV0003–0004/0015/0042–0045; CL0005@6/0021@1; scripted words not accepted genuine romance or ethical acquittal |
+| PG-RL-0068@1 / RL0058@1 | Jigoro → Momo / hotel: insists her wish/initiative, presents wrapper, begins doubting Sae account when she cries; later hears fan/drug truth | EV0002/0006–0008/0011/0034–0035; CL0018@3; no verified act confession or innocence |
+| PG-RL-0069@1 / RL0059@1 | Momo → Jigoro / hotel onward: challenges story, refuses approach, fears harmed; no chosen attraction/romantic agreement | EV0002/0006–0008/0021/0028; sexual outcome unknown, reassurance does not prove nothing occurred |
+| PG-RL-0070@1 / RL0051@1 | Jigoro → Sae / hotel to shoot: recruited through conditional dating, shocked at public rejection, learns lie/drugging and voices disillusionment from idealized fragile-girl image | EV0019/0034–0037; CL0018@3; his perception not objective past biography |
+| PG-RL-0071@1 / RL0050@1 | Sae → Jigoro / hotel/shoot: protects model face but blames/rejects him publicly and privately, repudiates implied reward; admits using false fan story | EV0017/0019/0034–0036; no equally reciprocal affection or restored dating established |
+| PG-RL-0072@1 / RL0048@1 | Kairi → Tōji / night/morning/day: helps, permits then redirects violence, urges no blame, keeps teasing rival and directs joint revenge | EV0017/0022/0030/0038–0039/0044–0046; cooperation does not end rivalry |
+| PG-RL-0073@1 / RL0049@1 | Tōji → Kairi / same span: accepts aid, distinguishes close rival from Jigoro, protests jokes, cooperates in revenge and wonders whether love persists | EV0030/0044/0046; question is not confirmation of other mind |
+| PG-RL-0074@1 / NONE ESTABLISHED | Misao → Momo/Tōji/Kairi as bounded caregiving directions / night/morning: adult help, intervention, wishes/context, responsibility, also expedient lie | EV0005/0014/0017/0019–0020/0022/0029; institutional/group context, no romantic attachment inferred |
+
+| Commitment / prior | Proposal, actual response and temporal scope | Evidence / boundary |
+| --- | --- | --- |
+| PG-CM-0036 / — | Momo → Misao no disclosure/leave alone for now / ACCEPTED_BY_CONDUCT, Misao leaves; family reassurance later not assumed full scheme disclosure | EV0020/0022; local wishes under distress, not permanent refusal or factual denial |
+| PG-CM-0037 / CM0019 | Momo ↔ Tōji continue affection despite harm / ACCEPTED_WITH_EVIDENCE through reassurance, responsive intimacy and later hand-link | EV0025–0028/0047–0048; neither unlimited sexual permission nor compensated mutual fault |
+| PG-CM-0038 / — | Kairi → Momo/Tōji revenge / ACCEPTED_BY_CONDUCT in script, cup interference and delivery; Momo explicitly hesitates then chooses | EV0038–0039/0041–0045; agreement among trio, not Sae consent |
+| PG-CM-0039 / — | Sae → Tōji private intimacy after professed love / PROPOSED with his acting agreement, informed mutual agreement not established | EV0042–0043; his script conceals intentions; her desire no permission to drug/remove |
+| PG-CM-0040 / CM0019 | Tōji → Momo breakup, her rejection/slap / STAGED_DECLARATION explicitly confirmed at146; **NOT_ACTUAL_ENDED** relationship | EV0041/0044/0047; real emotional pain despite planned false content |
+| PG-CM-0041@1 / — | Trio → intended actor punitive performance/no actual assault / ASSURANCE_REPORTED_BY_KAIRI, delivery attempted | EV0045; actual recipient not yet identified, no omniscient agreement or safety proof |
+| PG-CM-0041@2 / CM0041@1 | Intended arrangement / DELIVERY_DIVERGED, contact still waiting at165 | EV0050; actual man not confirmed actor, harm outcome UNKNOWN; no safe fulfilled status |
+| PG-CM-0042 / — | Sae drink/incapacitated removal / informed permission ABSENT, BOUNDARY_VIOLATED | EV0043–0045; explicit desire for Tōji not permission for hidden drug/third-party threat |
+| PG-CM-0043 / — | Momo → Kairi ensure no actual assault / ASSURANCE_RECEIVED, relied on intended actor claim; implementation fails confirmation | EV0045/0050; desire to limit harm and punitive participation coexist, result not guaranteed |
+
+Current relationship at exit is Momo/Tōji continuing, RL0060/0061 and CM0037; supposed rupture was a script. Sae has no informed new Tōji partnership. No reciprocity assumed from direction alone. CM0031@2 remains earlier agreement between schemers, never Momo consent; no V06 completion proof. Next RL0075, CM0044. Revision history0.5 — V06 directions/commitments and dated gift-selection correction, owner date2026-10-19.

@@ -5,7 +5,7 @@ artifact_type: information_reputation_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.4"
+version: "0.5"
 status: active_provisional
 scope: "Information Circulation and Reputation; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -336,3 +336,64 @@ New Route B observations belong to [V05](../02%20Sequential%20Readings/PEACH_GIR
 | Momo / Jigoro | RP0024 | Hostile false belief acted upon, no truth correction shown |
 
 Audit IP0018@2/0025@2/0029@2 and TX0031@2 remain active for their historical propositions, with no new exhaustive private-biography claim. Next IDs IP0053, KN0058, TX0057, RP0026. Revision history: 0.4 — V05 epistemic/transmission/reputation successor transaction, 2026-10-19 owner date.
+
+## V06 successor transaction — PG-FR-V06
+
+[V06 reading](../02%20Sequential%20Readings/PEACH_GIRL_V06_DEEP_READING.md) owns observations; EV means PG-EV-V06. Every row learned V06, with actual within-volume frontiers below. Evidence and audience belief differ. Earlier rows/freezes remain historical; private truths do not become whole-school reputation by inference.
+
+| Proposition / prior | Bounded content | Current source truth / evidence |
+| --- | --- | --- |
+| PG-IP-0050@2 / IP0050@1 | Momo drink deliberately altered | STRONGLY_CONFIRMED: Sae explicitly admits sleeping pills before Jigoro arrives, sequence previously shown; specific compound/dose UNKNOWN. EV0031/0035; no retroactive prior participant knowledge |
+| PG-IP-0051@2 / IP0051@1 | Intended sexual act occurred in missing hotel interval | Still UNRESOLVED: repeated assertions, wrapper, Momo fear and Misao explanation insufficient independent act history. EV0002/0006–0008/0028–0029/0034–0036; do not infer either completion or nonoccurrence |
+| PG-IP-0053@1 | Tōji cannot face Momo because hates her as impure | REFUTED as explanation: he blames himself, denies her fault and restores love. EV0023/0025–0028; real overheard fragment not whole intended meaning |
+| PG-IP-0054@1 | Tōji shame concerns own failure to protect/find earlier | ESTABLISHED as direct account after Momo leaves; no proof universal sole responsibility. EV0023 |
+| PG-IP-0055@1 | Sae photographed staged hotel room | ESTABLISHED action, exact image contents/use/circulation UNKNOWN. EV0010/0013 |
+| PG-IP-0056@1 | Sae knowingly invented Momo fan story | ESTABLISHED admitted lie, corroborating prior scheme. EV0035; Jigoro hears now, not in V05 |
+| PG-IP-0057@1 | Pergola breakup is actual final rupture | REFUTED: explicitly scripted, relationship continues. EV0041/0044/0047–0048; classmates/Sae belief differs |
+| PG-IP-0058@1 | Café confession establishes sincere Tōji love/choice of Sae | REFUTED as inference from these performed words; script and lure confirmed. EV0042–0044; not omniscient exhaustive measure of every feeling |
+| PG-IP-0059@1 | Trio plans simulated punishment without actual sexual assault | ESTABLISHED as stated limit/assumed arrangement, not ensured result. EV0045/0050; their actual incapacitation/control still real |
+| PG-IP-0060@1 | Intended man's being gay guarantees safety | UNSUPPORTED general inference asserted by Kairi, not analyst truth; actual identity/delivery also fails. EV0045/0050 |
+| PG-IP-0061@1 | Actual receiver is intended waiting actor | REFUTED at least as successful planned receipt: intended contact still waiting says never arrived. EV0050; exact wrong-delivery mechanism UNKNOWN |
+| PG-IP-0062@1 | Sae actual threatened hotel situation and outcome | ESTABLISHED waking restraint/threat by unidentified CHAR0018; completed sexual act/rescue/repentance UNRESOLVED at scream cutoff. EV0049–0050 |
+
+| Knowledge / prior | Actual holder / proposition and frontier | Basis / limit |
+| --- | --- | --- |
+| PG-KN-0058 / KN0055 | Momo / IP0051: increasingly BELIEVES feared act after wrapper, still lacks memory | EV0002/0006–0008; belief not confirmed event |
+| PG-KN-0059 / KN0057 | Tōji / location: KNOWS actual room/seeing Momo at41–42 after prior recheck | EV0003/0014–0016; PR0010 supported then |
+| PG-KN-0060 / — | Momo / IP0053: BELIEVES rejection from partial overhearing then flees | EV0023–0025; misses IP0054, later corrected |
+| PG-KN-0061 / — | Tōji, Kairi/Misao / IP0054: hear self-blame explanation after Momo departure | EV0023; Momo not recipient then |
+| PG-KN-0062 / KN0060 | Momo / IP0053 and identity deception: KNOWS Tōji denies blame/hatred and reports disguised Sae contact | EV0025–0028; actual heard reassurance, missing interval still unknown |
+| PG-KN-0063 / — | Misao / distress, no memory, wishes and general hurt; KNOWN from her consultation/context | EV0020/0022/0029; later drug-admission receipt not shown |
+| PG-KN-0064 / KN0049,KN0052 | Jigoro / IP0056,IP0050@2: first SUSPECTS mismatch32, then KNOWS Sae admits fan lie/drugs113–114 | EV0011/0034–0035; not retroactive ignorance of observable sleep |
+| PG-KN-0065 / — | Momo/Tōji/Kairi / IP0056,IP0050@2: OVERHEAR direct self-incriminating account113–115 | EV0035; hypothesized plan102 not equally confirmed in every part |
+| PG-KN-0066 / — | Momo/Tōji/Kairi / IP0057–0059: KNOW script/plan, explicit to reader146 | EV0039/0044–0045; reader initially less certain than performers |
+| PG-KN-0067 / — | Sae / IP0057–0058: BELIEVES breakup and confession sufficiently to rejoice/pursue intimacy | EV0041–0043; no proof she hears trio private plan |
+| PG-KN-0068 / — | Trio / IP0059–0061: ASSUMES intended actor safe delivery, Momo checks/no real assault | EV0045/0047; Kairi assurance not omniscient safety |
+| PG-KN-0069 / KN0067 | Sae / IP0062: KNOWS wakes restrained to unfamiliar man, no longer expected Tōji | EV0049; full trio responsibility/actual identity knowledge UNKNOWN |
+| PG-KN-0070 / KN0068 | Trio / IP0061: KNOWS intended contact reports still waiting, visibly shocked165 | EV0050; no completed rescue, identity or harm knowledge yet |
+
+| Transmission / prior | Sender → actual recipient / channel and content | Intent, reception and source truth / evidence |
+| --- | --- | --- |
+| PG-TX-0057 / TX0054 | Tōji → Sae / rechecked location in her assigned portion | Exposes withholding; she then spray/abandons, not shared sincere rescue. EV0003–0004 |
+| PG-TX-0058 / TX0056 | Jigoro → Momo / claims initiative/awake and wrapper proof | She challenges then fears; assertion/object not full event confirmation. EV0002/0006–0008 |
+| PG-TX-0059 / — | Misao → receptionist / false parent-contact pretext as teacher | Gains705; actual family call not yet. EV0014 |
+| PG-TX-0060 / TX0051 | Sae → Momo privately / she chose Jigoro, betrayed Tōji | False blame in bathroom, no independent voluntary choice. EV0018 |
+| PG-TX-0061 / — | Sae → Jigoro before rescue group / rejects for hurting best friend | Public self-exoneration opposite own recruitment; he protests, no full correction delivered. EV0019 |
+| PG-TX-0062 / — | Misao ↔ Momo / options, wishes, no-memory discussion | Momo requests nondisclosure/solitude, respected locally. EV0020; advice not forensic finding |
+| PG-TX-0063 / — | Misao → Momo household then Kairi/Tōji report / staying overnight | Actual notification reported at62; not full scheme disclosure proven. EV0022 |
+| PG-TX-0064 / — | Tōji → Kairi/Misao; Momo only initial fragment / cannot face then self-blame | Momo leaves before explanation, false rejection inference. EV0023; asymmetrical access not lie |
+| PG-TX-0065 / — | Tōji ↔ Momo / identity-deception disclosure/no-fault reassurance | Reciprocal comfort and continued affection, not offset guilt confession of mutual chosen betrayal. EV0028 |
+| PG-TX-0066 / — | Misao → Kairi / secondary hurt/self-blame account | General attributed explanation, no independent unshown act proof. EV0029 |
+| PG-TX-0067 / — | Kairi → trio / scheme reconstruction, later revenge rationale | i102 hypothesis precedes admission, i123–124 punitive lesson claim unproven. EV0032/0038–0039 |
+| PG-TX-0068 / — | Sae → Jigoro, overheard trio / fan lie, sleeping pills, envy | Direct admission; actual recipient/overhear time preserved. EV0035–0036 |
+| PG-TX-0069 / — | Kairi → studio staff / false Honda invitation with card | Access gained under pretext, not actual recorded invitation. EV0033 |
+| PG-TX-0070 / — | Tōji → Momo staged breakup, then Sae staged love / Sae watches first scene | Intentional false narrative to lure; Sae believes, couple truly hurt. EV0041–0044/0047 |
+| PG-TX-0071 / — | Intended contact → Kairi, trio observes / incoming call girl has not arrived | Contradicts assumed receiver, shock; later response unknown. EV0050 |
+
+| Reputation / prior | Target / actual audience / treatment | Truth and scope / evidence |
+| --- | --- | --- |
+| PG-RP-0026 / RP0024 | Momo / Sae private blame, Jigoro and rescue group | False voluntary-choice blame persists in speech; Jigoro later learns fan/drug truth, group rejects her fault. Not school rumor. EV0018–0020/0028/0035 |
+| PG-RP-0027 / RP0022 | Sae / shoot staff versus overhearing trio/Jigoro | Public angel image/gifts admired, private admissions discredit to bounded listeners; no whole-school downfall now established. EV0032/0034–0036 |
+| PG-RP-0028 / — | Momo/Tōji couple / observing classmates and Sae | Classmates suspect quarrel/no talk; Sae takes apparent breakup as real. Script privately known, no universal announcement. EV0041–0044 |
+
+Current information frontier: IP0050@2 admission strong, IP0051@2 missing act unresolved; Momo learns no-fault position then later causal truth, not one omniscient instant. Trio knows failed actor receipt, Sae knows immediate threat; neither side's whole knowledge merged. Photos acquired but no actual use/circulation known. Prior audit qualifiers and false-sexual-biography limits remain. Next IP0063, KN0071, TX0072, RP0029. Revision history0.5 — V06 state/knowledge/transmission/reputation successor transaction, owner date2026-10-19.

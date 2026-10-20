@@ -5,7 +5,7 @@ artifact_type: claims_predictions_revisions_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.4"
+version: "0.5"
 status: active_provisional
 scope: "Claims, Predictions and Revisions; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -132,11 +132,11 @@ Bootstrap source-derived claims, forecasts, revisions and current-index rows: **
 | Claim | Active version / cutoff | Latest revision | Unresolved evidence or propagation debt |
 | --- | --- | --- | --- |
 | PG-CL-0001 | @3 / V04 | PG-RV-0015 | Recurrence of the internal pattern |
-| PG-CL-0002 | @5 / V05 | PG-RV-0022 | Rivalry and specific desire coexist; motive weights open |
-| PG-CL-0003 | @5 / V05 | PG-RV-0023 | Scheme established; completed sexual outcome unresolved |
+| PG-CL-0002 | @6 / V06 | PG-RV-0028 | Explicit envy plus specific desire/triumph, motive weights open |
+| PG-CL-0003 | @6 / V06 | PG-RV-0029 | Drug means admitted; photos/false blame; missing act unresolved |
 | PG-CL-0004 | @2 / V02 | PG-RV-0003 | Authorship disclosure |
-| PG-CL-0005 | @5 / V05 | PG-RV-0024 | Bounded tested change; rescue outcome open |
-| PG-CL-0006 | @5 / V04; PG-AUDIT-20261019 | PG-RV-0021 | Motive weighting; preserve sexualized offer and restraint |
+| PG-CL-0005 | @6 / V06 | PG-RV-0030 | Rescue/no-fault care plus punitive drugging; gift-steer correction |
+| PG-CL-0006 | @6 / V06 | PG-RV-0031 | Advocacy/desire and dangerous revenge, motives unresolved |
 | PG-CL-0007 | @1 / V01 | — | Flashback |
 | PG-CL-0008 | @2 / V03 | PG-RV-0006 | — |
 | PG-CL-0009 | @1 / V02 | — | Context disclosure |
@@ -145,11 +145,13 @@ Bootstrap source-derived claims, forecasts, revisions and current-index rows: **
 | PG-CL-0012 | @2 / V04 | PG-RV-0012 | — |
 | PG-CL-0013 | @3 / V04; PG-AUDIT-20261019 | PG-RV-0020 | Romantic pull supported; category/extent unresolved |
 | PG-CL-0014 | @1 / V03 | — | — |
-| PG-CL-0015 | @3 / V05 | PG-RV-0027 | Joint repair corroborated; real injury retained |
+| PG-CL-0015 | @4 / V06 | PG-RV-0032 | Deeper care with mishearing/script cost and punitive complicity |
 | PG-CL-0016 | @1 / V04 | — | Sincerity of relief |
-| PG-CL-0017 | @2 / V05 | PG-RV-0026 | Reticence changes into identity/agency vulnerability |
-| PG-CL-0018 | @2 / V05 | PG-RV-0025 | Misinformation plus agency; final assertion unverified |
-| PG-CL-0019 | @1 / V05 | — | Copied signs and ringtone recognition; thematic reach bounded |
+| PG-CL-0017 | @3 / V06 | PG-RV-0033 | No-fault reassurance/intimacy, impurity fear separately attributed |
+| PG-CL-0018 | @3 / V06 | PG-RV-0034 | Dissonance then truth/disillusionment; own act unresolved |
+| PG-CL-0019 | @2 / V06 | PG-RV-0035 | Perfume first steered, then copied/weaponized; detection fallible |
+| PG-CL-0020 | @1 / V06 | — | Selective access changes belief without settling source truth |
+| PG-CL-0021 | @1 / V06 | — | Revenge imitates coercive means; safety/lesson not established |
 
 Revision history: 0.1 — bootstrap schema, zero rows, 2026-10-16 UTC. 0.2 — V01 transaction rows appended (frontier PG-FR-V01), 2026-10-16 UTC. V02 transaction rows appended and forecast statuses adjudicated (frontier PG-FR-V02), 2026-10-16 UTC. V03 rows, revisions and adjudications appended (frontier PG-FR-V03), 2026-10-17 UTC. V04 rows, revisions and adjudications appended (frontier PG-FR-V04), 2026-10-17 UTC.
 
@@ -219,3 +221,45 @@ New [V05 reading](../02%20Sequential%20Readings/PEACH_GIRL_V05_DEEP_READING.md),
 Other current claims retain versions in the index, including audit qualifiers A02/A06/A07/A08/A12–A14. CL0006@5 and CL0013@3 preserved despite V05's limited Kairi role; no inferred friendship-only recategorization or end of interest. Unresolved IP0051 is not a new confident claim. Next CL0020, PR0011, RV0028.
 
 Revision history: 0.4 — V05 claim revisions, fair original-test adjudications and new prospective PR0010, 2026-10-19 owner date.
+
+## V06 successor transaction — PG-FR-V06
+
+New [V06 reading](../02%20Sequential%20Readings/PEACH_GIRL_V06_DEEP_READING.md), owner date2026-10-19. EV means PG-EV-V06 unless V05 specified. Current index updated narrowly; historical formulations, original forecast terms and frozen states remain unchanged.
+
+| Claim version | Scoped formulation / class / evidence | Counterevidence, support and discriminator | Dependencies / frontier |
+| --- | --- | --- | --- |
+| PG-CL-0002@6 | Sae's explicit comparative envy coexists with specific desire and real private excitement at supposed Tōji choice / STRONGLY_SUPPORTED_INTERPRETATION / EV0036/0042 | Her admission favors rivalry, excited pursuit favors particular attraction; neither proves exclusive motive. HIGH coexistence, MODERATE weights; later choices without competitive reward would discriminate | CS0054/0062; RL0064/0066; PG-FR-V06 |
+| PG-CL-0003@6 | Sae deliberately drugs Momo by own admission, obstructs rescue, acquires selective photos and shifts blame / ESTABLISHED_SOURCE_FACT acts/admission + STRONGLY_SUPPORTED_INTERPRETATION mechanism / EV0004/0010/0018–0019/0035–0036 | Admission corroborates sequence; exact drug and missing sexual act not independently settled. HIGH deliberate scheme; photo use/outcome OPEN | CS0054; RL0064; IP0050@2/0051@2/0055/0056; PG-FR-V06 |
+| PG-CL-0005@6 | Tōji verification/rescue and explicit no-fault love test repair positively, while repeated blows, pressure and chosen revenge drugging prohibit uniform-improvement account. V05 gift choice covertly steered though care genuine / STRONGLY_SUPPORTED_INTERPRETATION / EV0003–0005/0016–0017/0023–0028/0043–0045 plus V05 recheck | Genuine care counters simple regression; harmful choices counter perfected savior. HIGH bounded acts/change, MODERATE integrated trait claim; future choices remain tests. Correct own independent-gift overstatement | CS0044@2/0051/0056/0059; RL0053@2/0061/0067; PG-FR-V06 |
+| PG-CL-0006@6 | Kairi combines concrete advocacy/help for chosen couple with private access, sexualized offers and directing harmful revenge; care/desire/punitive motive weights unresolved / STRONGLY_SUPPORTED_INTERPRETATION acts, PLAUSIBLE_COMPETING_INTERPRETATION motive / EV0017–0018/0022/0030–0033/0038–0039/0044–0046 | Helping rivals counters simple selfishness; sexual jokes and punitive agency counter pure selflessness. HIGH conduct, MODERATE motive scope; Tōji wondering is not mind access. Later unprompted choices/explicit account would discriminate | CS0053/0060; RL0062/0072/0073; PG-FR-V06 |
+| PG-CL-0015@4 | Joint repair deepens through no-fault reassurance and honest identity account; mishearing and staged-breakup pain expose fragility, punitive complicity remains separate / STRONGLY_SUPPORTED_INTERPRETATION / EV0023–0028/0044/0047–0048 | Expressed deeper closeness supports improvement; crisis/script cost preclude permanent cure, revenge prevents ethical-totality inference. HIGH local repair; no duty to forgive generalized | CS0055/0056/0061; RL0060/0061; PG-FR-V06 |
+| PG-CL-0017@3 | Intimacy returns by separating informed choice/identity from purity fears and compensation guilt; mutual affection does not resolve missing interval / STRONGLY_SUPPORTED_INTERPRETATION / EV0025–0028/0030/0047–0048 | Momo still fears loss and script injures; actual reassurances/response counter ongoing reticence-only account. HIGH explicit context; no unlimited consent or complete recovery claim | CM0037/0040; RL0060/0061; IP0051@2; PG-FR-V06 |
+| PG-CL-0018@3 | Jigoro moves from confident assertions through observed dissonance to hearing Sae lie/drug truth, and idealized-protector attachment becomes disillusioned / STRONGLY_SUPPORTED_INTERPRETATION / EV0002/0006–0008/0011/0019/0034–0037 | His recruitment/refusal and idealized memory counter one-note malice; prior sleep knowledge/active control counter absolution. HIGH knowledge progression, MODERATE motive; no full missing-act account | CS0057/0063; RL0068/0070/0071; KN0064; PG-FR-V06 |
+| PG-CL-0019@2 | Perfume cue first covertly steered then copied for identity deception and used against sight; recognition depends on accessible discriminating particulars, not infallible intuition / STRONGLY_SUPPORTED_INTERPRETATION / V05 i0101–0106/EV0025 and V06 EV0004/0031 | Gift refusal/care real; chance call and later recheck matter, cannot universalize motif. HIGH causal correction, MODERATE formal reach; future recurrence tests thematic extension | CS0044@2/RL0053@2; CL0005@6; PG-FR-V06 |
+| PG-CL-0020@1 | Manufactured/partial evidence changes beliefs while withholding causal truth; fragment heard as rejection, wrapper/photograph and scripted breakup require distinct audience frontiers / STRONGLY_SUPPORTED_INTERPRETATION / EV0008/0010/0023/0041–0044 | Some signs are genuinely informative, and explicit correction later works. HIGH local access mechanisms, MODERATE common formal argument; no claim every mistake deliberate deception | IP0051@2/0053–0058; KN0060–0067; PG-FR-V06 |
+| PG-CL-0021@1 | Chosen revenge repeats false narrative, incapacitation and third-party control; intended harmless acting does not supply permission or ensure safety, final receiver error defeats control / STRONGLY_SUPPORTED_INTERPRETATION / EV0038–0039/0041–0050 | Trio explicitly intends no actual assault, Momo morally hesitates; these limit intent claim but do not erase acts. HIGH means/error, outcome/lesson UNRESOLVED; actual later consequences discriminate, not analyst wish | CS0059–0064; CM0038–0043; IP0059–0062; PG-FR-V06 |
+
+| Revision / previous revision | Old → new / transition | Reason / learned boundary / propagated scope |
+| --- | --- | --- |
+| PG-RV-0028 / RV0022 | CL0002@5 → @6 / REVISE | Direct envy admission and genuine desired-choice triumph hold both motives; CS0054/0062, RL0064/0066 |
+| PG-RV-0029 / RV0023 | CL0003@5 → @6 / STRENGTHEN | Sleeping-pill admission confirms intended means, photos/blame/obstruction extend mechanism; IP0050@2 while IP0051@2 remains unresolved |
+| PG-RV-0030 / RV0024 | CL0005@5 → @6 / REVISE | Actual rescue/no-fault trust plus chosen drugging/violence, own gift-steer correction; CS0044@2/0051/0056/0059, RL0053@2/0061/0067 |
+| PG-RV-0031 / RV0021 | CL0006@5 → @6 / REVISE | Advocacy/rivalry and dangerous revenge rather than uniformly considerate withdrawal; CS0053/0060/RL0062, no pure motive verdict |
+| PG-RV-0032 / RV0027 | CL0015@3 → @4 / REVISE | No-fault repair, crisis based on partial hearing, script cost and complicity; RL0060/0061 and CS0061 |
+| PG-RV-0033 / RV0026 | CL0017@2 → @3 / REVISE | Intimacy restored under agency/identity distinctions without purity truth or full recovery; CM0037/0040 |
+| PG-RV-0034 / RV0025 | CL0018@2 → @3 / REVISE | First suspicion32 then direct truth113–114/disillusionment120; KN0064 and CS0057/0063, no backdating/exoneration |
+| PG-RV-0035 / — | CL0019@1 → @2 / REVISE | V05 perfume placement overlooked, V06 retrospective confirms steering; CS0044@2/RL0053@2, later sight obstruction; historical reading untouched |
+
+**Dated own V05 erratum:** V05 §4.2/4.4, EV0025 limit, CS0044@1, RL0053@1 and related CL0005@5/0019@1 compressed refusal of joint shopping into product independence. Direct V05 i0101–0106 recheck plus V06 EV0031/i0099 shows covert product/scent steering. Correct refusal AND real care retained; successor versions above own correction. Missed original staging acknowledged, not disguised entirely as new story revelation. PG-FR-V05 and all original bytes remain immutable.
+
+| Forecast adjudication / original retained | Actual test and evidence | Current disposition / limit |
+| --- | --- | --- |
+| PG-PR-0010@2 / PR0010 implicit @1 | V06 actual reach/contact during search; EV0016 i0041–0042 depicts arrival/seeing Momo | SUPPORTED_FOR_TESTED_SCOPE, PG-FR-V06. Not dependent on later safe rescue or missing hotel outcome |
+| PR0001@2 preservation | V02 original window unchanged | NOT_TESTED retained; factual authorship remains open, no indefinite renewable forecast |
+| PR0002/0004/0006/0007/0008@2/0009@2 preservation | No retrospective test rewriting | DISCONFIRMED/DISCONFIRMED/MIXED/DISCONFIRMED/SUPPORTED_FOR_TESTED_SCOPE/MIXED retained |
+
+| New forecast / first freeze | Exact prospective test | Alternative, rationale and exposure | Status |
+| --- | --- | --- | --- |
+| PG-PR-0011 / PG-FR-V06 | V07 mainline depicts at least one trio member (Momo/Tōji/Kairi) taking concrete step to locate/contact Sae or actual hotel receiver in response to delivery-error news. Support actual directed call/inquiry/search/visit; DISCONFIRMED if no such step in V07, even independent rescue. Worry/blame talk alone insufficient | Avoidance/delay, Sae self-escape or other rescuer. EV0050 and prior rescue effort motivate, no promised safety/sexual outcome/remorse. Prior promotion exposure disclosed, no V07 mainline inspected | OPEN |
+
+Other active claims remain index versions, with previous audit qualifiers preserved. No new dispositive evidence about pool-note/graffiti authorship, CPR memory, earlier rumor organizer, complete sexual biography or extent/category of Momo Kairi feeling. Absence in V06 does not strengthen a general claim. Next CL0022, PR0012, RV0036. Revision history0.5 — V06 revisions, own V05 correction, original-test PR0010 adjudication and PR0011, owner date2026-10-19.
