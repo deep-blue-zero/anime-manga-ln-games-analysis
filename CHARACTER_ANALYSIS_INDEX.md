@@ -2771,6 +2771,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`reviewed-dedicated-analysis` — Ikumi Mito dedicated analysis](series/shokugeki-no-soma/04%20Final%20Character%20Model/SHOKUGEKI_MITO_CHARACTER_MODEL.md) — **active provisional authority**
 
+### Iris
+
+- Entity ID: `konosuba:iris`
+- Entity aliases:
+  - アイリス (ja, ORIGINAL_SCRIPT) — Actual name distinguished from the deliberately supplied cover in the reviewed monograph.
+
+#### Subject: Original light-novel continuity, accepted Iris cohort 01
+
+- Analysis subject ID: `konosuba:iris@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - イリス (ja, ALTERNATIVE) — Deliberately supplied cover in Continued Explosions 01; not a separate individual or evidence of the invented merchant ancestry.
+- Analytical coverage:
+  - `accepted-cohort-01`: LIGHT_NOVEL OTHER: Bounded accepted-cohort analysis of main-novel 06 court, play, body-swap objection and private appraisal; 10 combat, cooking, diplomacy and gift; 11 wish-duty conflict; Continued Explosions 01/02 participation, leverage and false-cover offer; Dust 03 duty and temporary flight; and Mask chapter 2 performance and finite help. Later letters/reports and forecast history remain contextual, not continuous volume coverage or new independent tests.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`accepted-cohort-monograph` — Iris: accepted-cohort character monograph](series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_IRIS_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
 ### Ito Momiji
 
 - Entity ID: `shine-post:ito-momiji`
