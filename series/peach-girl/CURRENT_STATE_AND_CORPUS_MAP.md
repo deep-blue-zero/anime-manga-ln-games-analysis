@@ -5,10 +5,10 @@ artifact_type: corpus_map
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.18"
+version: "0.19"
 status: active_provisional
 scope: "Single current entrypoint, source/readiness boundaries and next permitted operation"
-source_boundary: "Original Japanese manga; 新装版 V01–V18 byte- and package-verified; owner-authorized V01–V18 narrative run completed;G1/G2 reconciled;G3–G6 pending"
+source_boundary: "Original Japanese manga; 新装版 V01–V18 byte- and package-verified; owner-authorized V01–V18 narrative run completed;G1–G3 literary responsibilities closed;G4–G6 pending"
 canonical_home: series/peach-girl/CURRENT_STATE_AND_CORPUS_MAP.md
 created: "2026-10-16"
 review_status: OWNER_EXECUTION_AUTHORIZED_LOCAL_RESULT_UNREVIEWED
@@ -175,3 +175,19 @@ Revision history0.17 — V18 terminal narrative run completed;187 inspected/172m
 [G1/G2 reconciliation](07%20Audits%20and%20Handoffs/PEACH_GIRL_G1_G2_LONGITUDINAL_RECONCILIATION.md) and [machine inventory](07%20Audits%20and%20Handoffs/PEACH_GIRL_G1_G2_VERIFICATION.json) prove18 readings/freezes/atomicclosures;705EV;3198 verifiedspineimages;2474 directlyviewedV05–V18 plus177V01–V04auditsamples. Inheritedfourfullreadings remain composite provenance. Fourledgers0.18 hold terminalretrievalprojections; architecture0.2EVOLVING records actualrolegaps. Next authorized work G3 then G4/G5/G6; no next narrativeunit. G4 operationalreadiness unassessed, no prospective validation claim.
 
 Revision0.18 —2026-10-20;G1/G2 audit before mature synthesis; historicalreadings/freezes unchanged; release/acceptance pending.
+
+## G3 literary corpus and frozen G4 hypotheses
+
+| Responsibility | Artifact |
+| --- | --- |
+| Momo Adachi — Visibility, agency and changing self-knowledge | [Momo Adachi — Visibility, agency and changing self-knowledge](04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_MOMO_MONOGRAPH.md) |
+| Kairi Okayasu — Care, concealment and changing attachment | [Kairi Okayasu — Care, concealment and changing attachment](04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_KAIRI_MONOGRAPH.md) |
+| Tōji — Patience, protective concealment and fear | [Tōji — Patience, protective concealment and fear](04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_TOJI_MONOGRAPH.md) |
+| Sae Kashiwagi — Framing, vulnerability and incomplete repair | [Sae Kashiwagi — Framing, vulnerability and incomplete repair](04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_SAE_MONOGRAPH.md) |
+| Misao, Ryo and the supporting ensemble | [Misao, Ryo and the supporting ensemble](04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_SUPPORTING_ENSEMBLE.md) |
+| Directional relationships and ensemble convergence | [Directional relationships and ensemble convergence](04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_DIRECTIONAL_RELATIONSHIPS.md) |
+| Information, authorship and reputational audiences | [Information, authorship and reputational audiences](05%20Synthesis/PEACH_GIRL_INFORMATION_AND_REPUTATION_SYNTHESIS.md) |
+| Agency, bodily boundaries and specific repair | [Agency, bodily boundaries and specific repair](05%20Synthesis/PEACH_GIRL_AGENCY_BOUNDARIES_AND_REPAIR.md) |
+| Manga form and Japanese expression | [Manga form and Japanese expression](05%20Synthesis/PEACH_GIRL_MANGA_FORM_AND_JAPANESE_EXPRESSION.md) |
+
+[G3 dependency audit](07%20Audits%20and%20Handoffs/PEACH_GIRL_G3_DEPENDENCY_AND_COUNTERREADING_AUDIT.md) closes the9 justified literary responsibilities. [G4 rules1.0](04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_RECONSTRUCTION_RULES_V1.json) and [runner](04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_RECONSTRUCTION_RUNNER.py) freeze four narrow categorical hypotheses before test execution; full-source exposure disclosed; no held-out/operational acceptance. G4 actualtesting/G5 convergence/G6 remain pending. Revision0.19 —2026-10-20;historicalreadings/freezes and fourledgers unchanged.
