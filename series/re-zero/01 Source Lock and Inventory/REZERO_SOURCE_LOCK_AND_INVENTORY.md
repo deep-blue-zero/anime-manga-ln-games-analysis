@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: source_lock
 scope: SOURCE_ADMISSION_CONTRACT_AND_CURRENT_INVENTORY_STATE
-generation: V0.15
+generation: V0.16
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -424,6 +424,29 @@ V11's complete source-bound publication gate at `890ff364c8c8159fd74c5021fad6b31
 
 V13 and all separate non-spine narrative remain unopened. V12 §16's60 V13 questions/ten forecasts were sealed after actual V12 EOF/before V13 and copied exactly into master; private seal SHA-256 `d940868792d5513313831eed4b0b105c500dcd25925e50e7a1a2298b8087d1bd`. V12 becomes current authority only with its complete publication gate. Admission range, manifest/V41 exception and dated V44/V45 gap assessment are unchanged.
 
+## Volume 13 consumption record
+
+V12's complete source-bound publication gate at `28c541b6c0f2c3c73a9f98f315424a58ce70348e` closed before first V13 archive access. Full immutable body/identity readback, actual-source full 385-test source audit, completed source-bound NOOP housekeeping, final actual-source full 385-test audit and exact success reporting controlled opening. The preceding V12 record preserves its then-future conditions historically, not still-pending work. Fourteen predecessor freezes and the V01–V10 Subaru model/audit remain unchanged.
+
+`RZ-MAIN-LN-JA-V13` was consumed in OPF spine order through exact `p-bookwalker`: all 44 members/3,993 body-order blocks (3,971 TEXT +22 positioned IMAGE references), with all 21 distinct resources actually visually inspected. The shared publisher logo has two positioned references. Contiguous text deliveries and actual image views establish reading; the structural inventory explicitly does not prove consumption. Rejected shortened terminal selectors returned no content and were replaced by successful exact `p-credit`, `p-colophon` and `p-bookwalker` reads. No unresolved text/image gap remains. Character-art/promotional dialogue is paratext, not admission of an advertised witness.
+
+- locator / embedded title: `Re Zero - Volume 13.epub`; `Re：ゼロから始める異世界生活 13`;
+- language / embedded creators / publisher: `ja`; `長月　達平` / `大塚　真一郎`; KADOKAWA / メディアファクトリー;
+- UUID: `d143d297-fb29-4d74-9cb9-250bb64f03bf`;
+- size / SHA-256: 7,580,833 bytes; `f352e6bf101a26c3b0cfc35bec32677afc886315cf4082ead6bace727acb1a41`;
+- package / integrity: `item/standard.opf`; 80 ZIP entries/full CRC pass; known nonfatal first-but-compressed `mimetype` warning;
+- manifest: unchanged 23,584 bytes/SHA-256 `3daa190cefda6ab894f5d62ff547a93856c8133f2d4fc1cbc552b99d73c73314`; exact anchored V13 size/hash match;
+- edition: electronic issue 2017-06-25, based on MF first edition/first printing 2017-06-25; afterword May 2017;
+- provenance: governed local read-only EPUB/existing range admission; no individual V13 Drive object ID or ISBN invented;
+- analytical product: `02 Sequential Readings/REZERO_LN_V13_DEEP_READING.md`; complete member/block/image coverage and locator convention §1;
+- entering prospect: sixty questions/ten forecasts sealed after V12 EOF/before V13, unchanged SHA-256 `d940868792d5513313831eed4b0b105c500dcd25925e50e7a1a2298b8087d1bd`; all individually adjudicated;
+- ending: E018 continues alive, seventeen deaths/eighteen segments; no physical tea-self-bite death, death18 or E019. Garfiel's first trial passes, Emilia's renewed first begins; no second/third pass;
+- costs / receipt: Shima supplies the current miasma observation; Otto receives partial crisis knowledge, not RBD/tea. Subaru's gate collapses at his last self-cast Shamak; later healing is not gate repair. The new invisible fist has bounded observation and cost;
+- structure: the fourth arc continues; accepted wager, promised apology, revised cooperation and rescue plans are not fulfilled wager, completed repair, barrier/mansion/Beatrice rescue or an arc ending;
+- preservation: all fourteen predecessor freezes and historical Subaru model/audit remain byte-unchanged; no source media, extraction or private receipt enters the commit.
+
+V14 and all separate non-spine narrative remain unopened. V13 §16's sixty V14 questions/ten forecasts were sealed after actual V13 EOF/before V14 and copied exactly into master; private seal SHA-256 `c851e05497b964d74e76480b50d0c4c2d150873c4b17e351b595a122cd069eb6`. Otto's earned V01–V13 model and separate fidelity review follow V13's complete publication gate and must complete their own full gate before V14 source; the prospect remains unchanged throughout. V13 becomes current authority only with its complete publication gate. Admission range, manifest/V41 exception and dated V44/V45 acquisition-gap assessment do not advance.
+
 ## Current source-state summary
 
 - **Acquired/admitted Japanese main LN:** V01-V43 continuous.
@@ -434,7 +457,7 @@ V13 and all separate non-spine narrative remain unopened. V12 §16's60 V13 quest
 - **Admitted IF/alternate route:** none.
 - **Admitted web novel:** none.
 - **Admitted anime/audiovisual:** none.
-- **Consumed into prospective main-LN analysis:** V01-V12; V12 becomes committed frozen authority with this transaction's complete exact-source publication gate; complete V11 gate closed before V12 opening.
+- **Consumed into prospective main-LN analysis:** V01-V13; V13 becomes committed frozen authority with this transaction's complete exact-source publication gate; the complete V12 gate closed before V13 opening.
 - **Next source acquisition priority:** Japanese V44 and V45 before the sequential read reaches that boundary.
-- **Next analytical operation:** `V13` only after complete V12 publication gate;60 questions/ten forecasts sealed after V12 EOF/before any V13 source, which remains unopened.
-- **Current execution state:** active continuous run/terminal V43 unchanged. Historical V01–V10 model/audit stays unchanged/default E013, not current E018 coverage. E018 alive/17 deaths18 segments; no death18/E019, literal trial-broadcast ontology, actual Rem reply, completed Beatrice rescue, formal Echidna bargain, second/third pass, real-parent message, active IF-family, arc/series ending or adaptation finding implied.
+- **Next analytical operation:** `OTTO_V01_V13_MODEL_AND_FIDELITY_REVIEW` only after the complete V13 gate; its own complete gate precedes V14 source. The sixty-question/ten-forecast V14 prospect is already sealed and remains unchanged; V14 is unopened.
+- **Current execution state:** active continuous run/terminal V43 unchanged. Historical V01–V10 Subaru model/audit stays unchanged/default E013, not current E018 coverage; Otto construction is pending, not certified. E018 alive/seventeen deaths/eighteen segments; Garfiel's first passes and Emilia's renewed first begins. No death18/E019, repaired gate, complete secret-plan receipt, fulfilled wager, accepted formal Echidna bargain, second/third pass, barrier/mansion/Beatrice rescue, real-parent message, active IF-family, arc/series ending or adaptation finding is implied.

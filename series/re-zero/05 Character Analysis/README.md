@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: character_analysis_contract
 scope: SOURCE_GROUNDED_CHARACTER_RECONSTRUCTION
-generation: V0.3
+generation: V0.4
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -22,9 +22,17 @@ Historical boundary: no character monograph was present through V03. V10's added
 |---|---|---|
 | Natsuki Subaru, Japanese main LN V01–V10 | [Integrated model](REZERO_NATSUKI_SUBARU_V01_V10_CHARACTER_MODEL.md), then [separate first fidelity audit](../08%20Audits%20and%20Manifests/REZERO_CHARACTER_RECONSTRUCTION_FIDELITY_AUDIT.md) | MONOGRAPH_READY; local nineteen-dimension nonblind document audit PASS_WITH_BOUND. Bounded reuse subject to this operation's full publication gate, not an independent benchmark/global capability grade or cured person |
 
-Default is latest reached **terminal E013/death13**. A living action/dialogue task must explicitly select a supported preterminal phase and its knowledge, remembered history, recipient, role and resources. Current Rem cannot answer; generated Kenichi/Naoko are not real parents' present receipt; no E014 arrival, unobserved remedy, active IF-family biography or anime performance is supplied. The model compiles24 derived rules/28 evidence bundles/eight noncanonical probes; it adds no narrative source or canonical generated scene. Master §13 remains readiness owner and five specialist ledgers remain state authorities. No other person is promoted.
+Default is latest reached **terminal E013/death13**. A living action/dialogue task must explicitly select a supported preterminal phase and its knowledge, remembered history, recipient, role and resources. Current Rem cannot answer; generated Kenichi/Naoko are not real parents' present receipt; no E014 arrival, unobserved remedy, active IF-family biography or anime performance is supplied. The model compiles24 derived rules/28 evidence bundles/eight noncanonical probes; it adds no narrative source or canonical generated scene. Master §13 remains readiness owner and five specialist ledgers remain state authorities. Otto's newly earned construction is pending in the separate next operation below; no second reusable model exists yet.
 
 `../00 Frameworks and Methods/REZERO_CHARACTER_RECONSTRUCTION_PROTOCOL.md` is the controlling detailed protocol. It defines the seven-axis state selector, ordinary-life and relationship responsibilities, Japanese-register discipline, failure and negative controls, abstentions, unfamiliar probes, and the first mature-character fidelity audit. This README is the directory router and does not duplicate that contract.
+
+## Pending earned construction
+
+Otto is now MONOGRAPH_READY for **V01–V13 construction**, not already modeled or fidelity-certified. V13 adds childhood language accommodation and family recipients, merchant competence and failure, Fulfhu attachment, mixed rescue/debt/friendship motives, costly current voluntary help and Japanese register changes to the older counterexamples. Master §13 owns that readiness judgment; unsupported private preferences, absent family, exact gift limits and later outcomes become abstentions.
+
+After V13's complete publication gate, `OTTO_V01_V13_MODEL_AND_FIDELITY_REVIEW` reserves `REZERO_OTTO_SUWEN_V01_V13_CHARACTER_MODEL.md` here and `../08 Audits and Manifests/REZERO_OTTO_SUWEN_V01_V13_FIDELITY_REVIEW.md`. Neither file is created by the V13 tranche. Construct the latest living E018 outer-tomb default while Emilia begins the first trial, preserving Otto's partial knowledge rather than granting RBD/tea, his bodily costs, earlier phase overrides and recipient distinctions. A separately reported scoped nonblind nineteen-dimension review and its own full publication gate precede V14 source or reusable fidelity claims. The sealed V14 prospect stays unchanged throughout.
+
+Emilia and Garfiel have named V10–V13 CHECKPOINT_READY interim scopes in master, not whole-person models or completed fourth-arc reconstructions. The existing Subaru model/audit remain historical and byte-unchanged; current V13 use requires explicit reconciliation with master and the five state owners. No new global capability grade, character-registry edit or additional evidence owner is implied.
 
 ## Promotion threshold
 
