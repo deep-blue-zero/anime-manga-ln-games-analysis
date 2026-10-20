@@ -5,7 +5,7 @@ artifact_type: corpus_map
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.3"
+version: "0.4"
 status: active_provisional
 scope: "Single current entrypoint, source/readiness boundaries and next permitted operation"
 source_boundary: "Original Japanese manga; 新装版 V01–V18 byte- and package-verified; owner-authorized continuous run V01–V18 active"
@@ -36,22 +36,22 @@ project_initialization:
   substantive_sequential_findings_at_bootstrap: false
   owner_review: EXECUTION_AUTHORIZED_RESULT_ACCEPTANCE_PENDING
   sequential_analysis_lock: OPEN
-  next_permitted_operation: V05
+  next_permitted_operation: V06
 sequential_execution:
   mode: continuous_sequential
   unit_type: volume
   authorized_start: V01
   terminal_boundary: V18
-  committed_high_water_mark: V04
-  next_candidate_operation: V05
+  committed_high_water_mark: V05
+  next_candidate_operation: V06
   confirmation_between_units: false
   run_state: active
 analytical_execution:
   authorization: OWNER_AUTHORIZED_FULL_SERIES_RUN_LOCAL_ONLY
   authorization_record: "07 Audits and Handoffs/PEACH_GIRL_EXECUTION_AUTHORIZATION_AND_INITIATION_RECORD.md"
-  sequential_units_admitted: 4
-  sequential_units_completed: 4
-  committed_narrative_high_water_mark: V04
+  sequential_units_admitted: 5
+  sequential_units_completed: 5
+  committed_narrative_high_water_mark: V05
   character_reconstruction_readiness: UNASSESSED_MODELS_NOT_PROPOSED_NARRATIVE_EVIDENCE_PRESENT
   publication: PROHIBITED_FOR_THIS_RUN_LOCAL_COMMITS_ONLY
 repository_state:
@@ -68,9 +68,9 @@ This is the single current first-read surface for Miwa Ueda's ピーチガール
 
 `SEQUENTIAL_ANALYSIS_LOCK = OPEN`
 
-`NEXT_PERMITTED_OPERATION = V05`
+`NEXT_PERMITTED_OPERATION = V06`
 
-**New owner-authorized Route B continuation; pre-V05 source audit closed with corrections.** Work's substantive analytical corpus was not recovered. The [recovery receipt](07%20Audits%20and%20Handoffs/PEACH_GIRL_CODEX_RECOVERY_RECEIPT_20261019.md) preserves the earlier stop and input provenance; the [Codex source audit](07%20Audits%20and%20Handoffs/PEACH_GIRL_CODEX_V01_V04_SOURCE_AUDIT_20261019.md) records 177 directly checked V01–V04 images, findings, alternatives and successor ledger versions at PG-AUDIT-20261019. Historical PG-FR-V01…V04 remain unchanged. V05 is the next narrative unit after this audit's local commit and verified backup; its entering state is historical PG-FR-V04 plus the explicitly later audit corrections, never a rewritten freeze. Source samples do not certify an independent full four-volume re-read.
+**New owner-authorized Route B continuation; pre-V05 source audit closed with corrections.** Work's substantive analytical corpus was not recovered. The [recovery receipt](07%20Audits%20and%20Handoffs/PEACH_GIRL_CODEX_RECOVERY_RECEIPT_20261019.md) preserves the earlier stop and input provenance; the [Codex source audit](07%20Audits%20and%20Handoffs/PEACH_GIRL_CODEX_V01_V04_SOURCE_AUDIT_20261019.md) records 177 directly checked V01–V04 images, findings, alternatives and successor ledger versions at PG-AUDIT-20261019. Historical PG-FR-V01…V04 remain unchanged. The audit was committed at `364ffc6f8cb4a01a56ad219761d867abaf7874b2` and independently restored from its verified outside-checkout backup before V05. New Codex V05 is now closed as a complete image-grounded successor transaction; its entering state was historical PG-FR-V04 plus the explicitly later audit corrections, never a rewritten freeze. V06 is the next candidate only after this V05 transaction is committed and its outside-checkout backup verified. Source samples do not certify an independent full four-volume re-read.
 
 The owner's 2026-10-16 instruction authorizes a `continuous_sequential` run over V01–V18 (one complete volume per unit, no confirmation between units) and the post-sequential program the architecture defines, as a local-only execution: no push, remote ref, pull request or Drive write. The [execution authorization and initiation record](07%20Audits%20and%20Handoffs/PEACH_GIRL_EXECUTION_AUTHORIZATION_AND_INITIATION_RECORD.md) holds the exact scope, the gate verification and the capability profile. Each volume closes as one atomic transaction before the next is opened. The high-water mark above advances only when that transaction's reading, ledgers, freeze and this entrypoint are committed together.
 
@@ -101,6 +101,7 @@ Each row is a closed atomic transaction. Its freeze is recorded in the reading i
 | [V02](02%20Sequential%20Readings/PEACH_GIRL_V02_DEEP_READING.md) | PG-FR-V02 | Sae's deceptions confirmed to the reader; Momo disbelieved by Tōji until a coerced hearing; Sae exposes the Kairi kiss and the 'practice' framing; Tōji proposes breaking up |
 | [V03](02%20Sequential%20Readings/PEACH_GIRL_V03_DEEP_READING.md) | PG-FR-V03 | Tan report exposed as a friend's lie; Sae's method overheard by Tōji and exposed by class testimony; Momo publicly vindicated but refuses Tōji's request to restart; disavowed feelings for Kairi |
 | [V04](02%20Sequential%20Readings/PEACH_GIRL_V04_DEEP_READING.md) | PG-FR-V04 | Momo chooses reunion after self-criticism and Tōji’s acknowledgment of fault; Kairi's hidden work revealed; the private sign; Sae servile in public, hostile in private; Jigoro misinformed about Momo and asks Sae out |
+| [V05](02%20Sequential%20Readings/PEACH_GIRL_V05_DEEP_READING.md) | PG-FR-V05 | Sae's status and explicit Tōji desire coexist; Momo/Tōji deepen wanted intimacy, then Sae isolates/incapacitates Momo and impersonates her. Tōji detects deception, rejects false voluntary-choice account and searches; Momo wakes uncertain in hotel, Jigoro's final wish claim unverified |
 <!-- sequential-readings-end -->
 
 ## Read order and canonical responsibilities
@@ -127,3 +128,5 @@ Publication and exact-head CI facts are recorded in the bootstrap receipt and ex
 Revision history: 0.1 — bootstrap foundation for owner examination, 2026-10-16 UTC; lock CLOSED, no narrative findings. 0.2 — owner execution authorization recorded; all 18 witnesses verified; lock OPEN; continuous run V01–V18 active, 2026-10-16 UTC. 0.3 — run stopped after V04 by owner election (prose stop notice; structured fields unchanged pending integration); high-water mark V04, 2026-10-19 UTC.
 
 Revision history addendum: 0.3 — newly authorized local Route B recovery and bounded source audit closed with corrective ledger versions, 2026-10-19 owner date; historical freezes preserved.
+
+Revision history: 0.4 — new Route B V05 direct inspection of all 181 images, 51 evidence rows, four-ledger successor transaction and PG-FR-V05; next candidate V06 after commit/verified backup, 2026-10-19 owner date. V01–V04 remain inherited full readings with 177-image recipient audit; V05 is newly read in full. G1/G2–G6 not yet performed.

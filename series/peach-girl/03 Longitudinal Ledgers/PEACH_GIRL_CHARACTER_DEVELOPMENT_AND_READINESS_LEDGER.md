@@ -5,7 +5,7 @@ artifact_type: character_development_readiness_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.3"
+version: "0.4"
 status: active_provisional
 scope: "Character Development and Readiness; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -165,3 +165,33 @@ New owner-authorized, non-blind V01–V04 correction pass; see the [source audit
 Readiness remains UNASSESSED: narrative evidence exists, but no operational reconstruction proposal/testing has been completed. Next new IDs remain CS0040 and RD0001; these corrections consumed versions, not new event numbers.
 
 Revision history addendum: recipient source-audit successor corrections, 2026-10-19; original frozen states preserved.
+
+## V05 successor transaction — PG-FR-V05
+
+New Codex Route B evidence, learned after PG-AUDIT-20261019; [V05 reading](../02%20Sequential%20Readings/PEACH_GIRL_V05_DEEP_READING.md) owns all PG-EV-V05 observations. Current views here supersede earlier boundary projections for retrieval, preserving their historical meanings. All new events are @1 unless stated; story time runs from proposal to Momo's sixteenth-birthday night. Abbreviated EV/CL/RL/CM IDs retain their PG prefixes.
+
+| Event / subject / prior | Time and kind / observed choice, self-report and consequences | Evidence / governing claim / alternatives and limits |
+| --- | --- | --- |
+| PG-CS-0035@3 / CHAR0002 / CS0035@2 | REVEALED_NOT_NEW / V04 contact: V05 i0051 explicitly calls first kiss cheek, not forehead. Analyst erratum learned V05; original versions unchanged | EV0013; CL0017@2; disclosed warning non-blind; audit uncertainty now resolved |
+| PG-CS-0040@1 / CHAR0003 / CS0037@1 | CONTEXT_CHANGE / public heroine, magazine win and goods restore prestige but not comparative satisfaction; explicitly rejects Jigoro and wants Tōji | EV0001–0011/0015; CL0002@5; specific desire plus rivalry, not a timeless inability to feel |
+| PG-CS-0041@1 / CHAR0002 / — | REVEALED_NOT_NEW / V01 practice encounter: says could seriously resist but wanted experience for Momo; new retrospective account, not new V05 action | EV0017; CM0008@3/IP0020@2; initial refusals and guilt-colored testimony retained |
+| PG-CS-0042@1 / CHAR0002 / CS0034@1 | DISPOSITION_CHANGE tested locally / refuses new Sae love/kiss requests, turns head and pushes away; no willing affair established | EV0014/0017–0018; CL0005@5; compassion/self-blame coexist with actual refusal |
+| PG-CS-0043@1 / CHAR0001 / CS0032@2 | RELATIONSHIP_CHANGE / knowingly contests garden staging, slaps Tōji, initiates kiss, uses territorial/competitive language and receives affection; chooses more intimacy | EV0019–0020; RL0052/CM0029; no idealized permanent solution or ignored initial surprise |
+| PG-CS-0044@1 / CHAR0002 / CS0035@3 | CONTEXT_CHANGE / independently selects gift, prepares party mainly with delivery, checks Momo's response during intimacy; ordinary care beyond crisis apology | EV0024–0029; CL0005@5/0017@2; limited-context assent, no completed intercourse claim |
+| PG-CS-0045@1 / CHAR0001 / CS0033@1 | Choice under false information / offers joint help, then goes alone for Sae's supposed emergency; intends return/call, drinks offered can without knowledge of scheme; loses capacity, carried away | EV0030–0032; RL0056/CM0032/IP0050; helping is not choosing Jigoro |
+| PG-CS-0046@1 / CHAR0003 / CS0040@1 | DISPOSITION_CHANGE escalation / isolates Momo, recruits Jigoro, copies clothes/wig/scent, impersonates Momo, obstructs search and urges act regardless of waking; frightened by Tōji but continues | EV0022–0023/0027/0030–0035/0040/0044–0045; CL0002@5/0003@5; fear does not establish remorse, chemical means unshown |
+| PG-CS-0047@1 / CHAR0015 / CS0039@1 | Choice/context / initial refusal and proposed direct confrontation yield to Sae appeal; later sees incapacity, removes Momo, controls access and agrees prospectively; final wish claim | EV0022–0023/0032/0036–0037/0041/0045/0048; CL0018@2; misinformation and personal responsibility coexist, outcome unknown |
+| PG-CS-0048@1 / CHAR0002 / CS0042@1 | KNOWLEDGE_CHANGE + choice / fooled by copied identity, detects tune mismatch, identifies Sae and refuses her; distressed, denies false Momo choice, calls/verifies, lies for apartment access and compels search assistance; infers hotel | EV0034–0046; CL0005@5/0019@1; no physical rescue yet, harsh/possessive conduct retained |
+| PG-CS-0049@1 / CHAR0001 / CS0045@1 | UNRESOLVED / impaired perception substitutes Tōji, loses interval, wakes afraid and bewildered by unfamiliar hotel and Jigoro assertion | EV0037/0047–0048; IP0051; fear not confirmation of feared act, no voluntary choice of Jigoro established |
+
+| Current subject / boundary | Active material events | Scoped state / remaining gaps |
+| --- | --- | --- |
+| CHAR0001 @ PG-FR-V05 | CS0029@2/0030@2/0031@1/0033@1, CS0043/0045/0049 | Chooses changed Tōji and wanted intimacy, sees first staging; later helps under deception and is incapacitated. Wakes uncertain. Kairi feeling not resolved; off-panel interval UNKNOWN |
+| CHAR0002 @ PG-FR-V05 | CS0034@1/0035@3, CS0041/0042/0044/0048 | Remorseful partner, new boundaries/care and verification evidenced; self-reported past acquiescence after initial refusal; identity victim, searching. No universal invulnerability or informed Sae choice |
+| CHAR0003 @ PG-FR-V05 | CS0040/0046 | Prestige fails to end rivalry/desire; escalates into organized deprivation of agency. Exact internal affection weighting and later response unverified |
+| CHAR0015 @ PG-FR-V05 | CS0047 | Initially states boundary; later active harmful choices under false belief, knows sleep. Final assertion unverified; no generic clinical/personality diagnosis |
+| CHAR0004 @ PG-FR-V05 | CS0038@2 preserved; EV0006 local scene | Ally/continuing suitor with mixed motives unchanged; passing celebrity comparison insufficient for developmental reclassification |
+
+No new subject allocation: incidental sales assistant, hotel staff/bystanders and neighbor retain source-required bounded descriptions in observations; no durable model need established. Readiness remains UNASSESSED; no model proposal, held-out test or new assessment warrants RD0001. Narrative evidence exists. Next new IDs: CHAR0018, CS0050, RD0001.
+
+Revision history: 0.4 — V05 source-derived successor transaction and dated CS0035 anatomy correction, 2026-10-19 owner date; no historical freeze rewritten.

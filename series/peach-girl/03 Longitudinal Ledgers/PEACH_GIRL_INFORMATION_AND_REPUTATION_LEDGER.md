@@ -5,7 +5,7 @@ artifact_type: information_reputation_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.3"
+version: "0.4"
 status: active_provisional
 scope: "Information Circulation and Reputation; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -265,3 +265,74 @@ New owner-authorized, non-blind V01–V04 correction pass; see the [source audit
 Historical knowledge frontiers remain unchanged. These are analyst truth-state corrections, not new messages received by the characters. Next IDs remain IP0043, KN0047, TX0043 and RP0022.
 
 Revision history addendum: recipient source-audit successor corrections, 2026-10-19; original frozen states preserved.
+
+## V05 successor transaction — PG-FR-V05
+
+New Route B observations belong to [V05](../02%20Sequential%20Readings/PEACH_GIRL_V05_DEEP_READING.md); EV here means PG-EV-V05. All new rows have V05 learned-after boundary and within-volume frontier of cited evidence. Latest projections govern current retrieval, retaining historical audience truth/belief. No broad school knowledge inferred from a private scheme.
+
+| Proposition / version | Bounded content / represented time | Source truth at V05 and limits | Evidence / claim |
+| --- | --- | --- | --- |
+| PG-IP-0010@2 | V01 practice kiss initiation/participation | ESTABLISHED initial Sae initiative and Tōji refusal; later acquiescence/motive now his retrospective self-report. Unshown motion not independently reconstructed | EV0017; V01 EV0043/0044; CM0008@3 |
+| PG-IP-0020@2 | V01 practice-for-Momo framing | ESTABLISHED as Sae's earlier frame AND now Tōji's later self-account of seeking experience; not evidence prior willing initiation or romantic love for Sae | EV0017; CM0008@3 |
+| PG-IP-0043@1 | L sign means love/like for Momo/Tōji | ESTABLISHED_AT_BOUNDARY; Momo tells Sae directly in V05 | EV0008 |
+| PG-IP-0044@1 | V04 first affectionate kiss was on cheek | ESTABLISHED_AT_BOUNDARY as explicit Momo recollection with inset; stronger than inherited anatomy reading | EV0013; CS0035@3/RL0043@3 |
+| PG-IP-0045@1 | Practice kiss was Sae's first | UNRESOLVED as exhaustive history, ESTABLISHED that she claims it to Tōji; not contradicted simply by later Jigoro contact | EV0014; no biography fabricated |
+| PG-IP-0046@1 | Momo is Jigoro fan who bullies/controls Sae and steals her crushes | REFUTED_AT_BOUNDARY as staged causal account of this scheme: reader sees Sae rivalry and Momo choice to help; no fan choice shown | EV0022–0023/0030–0032; CL0003@5/0018@2; not exhaustive proof of every prior interaction |
+| PG-IP-0047@1 | Sae needs help because Jigoro dumped her for Momo | REFUTED_AT_BOUNDARY; Sae previously rejected him and organized his approach, then performs emergency | EV0011/0021–0023/0030; not Momo's informed choice |
+| PG-IP-0048@1 | Entrant in Tōji room is Adachi | REFUTED_AT_BOUNDARY; disguised Sae shown before approach and exposed in light | EV0033–0035/0038–0039; CL0019@1 |
+| PG-IP-0049@1 | Momo freely chooses Jigoro over Tōji for birthday/intimacy | REFUTED_AT_BOUNDARY for alleged choice; her actual plan/help, attempted objection and incapacity contradict it; Sae's illustrated account is false | EV0030–0032/0037/0040–0041/0047–0048 |
+| PG-IP-0050@1 | Momo becomes incapacitated after offered drink | ESTABLISHED_AT_BOUNDARY sequence; deliberate alteration strongly supported by scheme/aftermath, exact agent/administration UNRESOLVED | EV0031–0032/0037/0045; no chemical named as fact |
+| PG-IP-0051@1 | Intended sexual act occurred during Momo's unconscious interval | UNRESOLVED: changed clothing, fear, plan and Jigoro assertion do not independently confirm; no inference nothing happened either | EV0041/0045/0047–0048 |
+| PG-IP-0052@1 | Sae wants a manufactured fact of Momo/Jigoro intimacy regardless of waking | ESTABLISHED_AT_BOUNDARY as explicit instruction/intent; agreement prospective, not completed outcome | EV0045; CL0003@5 |
+
+| Knowledge / prior | Subject and proposition | State / basis and scope | Evidence / time |
+| --- | --- | --- | --- |
+| PG-KN-0047 / — | Sae / IP0043 | KNOWS from Momo, copies code; no mysterious leak | EV0008–0010, before breakup |
+| PG-KN-0048 / — | Momo / garden staging | KNOWS arrangement; produces summons and confronts Sae. Receipt route not invented | EV0019–0020, before birthday |
+| PG-KN-0049 / KN0044 | Jigoro / IP0046 | BELIEVES false victim/fan account; proposes confrontation then is dissuaded; later conduct depends on account | EV0022–0023/0032, before removal |
+| PG-KN-0050 / — | Momo / IP0047 | BELIEVES Sae needs urgent private help sufficiently to go; full belief in Jigoro attraction not independently established | EV0030–0031, birthday |
+| PG-KN-0051 / — | Tōji / IP0048 | BELIEVES Adachi under disguise, then SUSPECTS mismatch, KNOWS false after light/name | EV0034–0035/0038–0039, birthday night |
+| PG-KN-0052 / — | Jigoro / IP0050, sleep | KNOWS observable incapacity/sleep; exact chemical knowledge UNKNOWN. Directly says will not wake | EV0032/0041/0045 |
+| PG-KN-0053 / — | Tōji / IP0049 | DENIES voluntary-choice account based on Momo knowledge, calls to verify, searches despite Sae insistence | EV0040–0044 |
+| PG-KN-0054 / — | Tōji / danger and IP0051 | SUSPECTS something happened, knows Jigoro answers her phone/says sleeps; missing interval outcome UNKNOWN to him | EV0041–0044/0046 |
+| PG-KN-0055 / — | Momo / IP0051 | SUSPECTS feared event on waking; asks; receives assertion only, no reliable resolution at cutoff | EV0047–0048 |
+| PG-KN-0056 / — | Sae / IP0051 and Jigoro sleep report | KNOWS he reports not yet proceeding/continued sleep; urges regardless. This report not omniscient full account | EV0045 |
+| PG-KN-0057 / — | Tōji / hotel whereabouts | BELIEVES inferred located from receptionist refusing transfer; sets out, not yet sees Momo | EV0046 |
+
+| Transmission / prior | Sender → actual audience / formulation | Channel, knowledge/intent and reception | Evidence / timing |
+| --- | --- | --- | --- |
+| PG-TX-0043 / — | Honda/in-story magazine → Sae/observed peers and readers / win/feature | Announcement/publication, fan response observed/reported, not universal school reception | EV0004–0005, after proposal |
+| PG-TX-0044 / — | Momo → Sae / IP0043 | Direct explanation knowingly given; Sae copies L | EV0008–0010 |
+| PG-TX-0045 / — | Sae → Tōji / love, IP0045, reluctant model romance | Tearful appeal; claims attributed, capture and rivalry reader-visible; Tōji apologetic but later refuses | EV0014/0017 |
+| PG-TX-0046 / — | Tōji → Sae / IP0010@2/0020@2, loves only Adachi | Retrospective self-report + new refusal; not a message to Momo or public class | EV0017 |
+| PG-TX-0047 / — | Sae → Tōji / garden summons; Momo later displays summons | Written invitation; timing planned by Sae, exact route by which Momo obtained it UNKNOWN | EV0017/0019–0020 |
+| PG-TX-0048 / — | Sae → Jigoro / IP0046 and night request | False victim/fan account; blocks proposed verification, emotional appeal; initial refusal distinct from later agreement | EV0022–0023/0030 |
+| PG-TX-0049 / — | Sae → Momo / IP0047 | Crying phone emergency; insists only Momo, isolates her; Momo chooses help, not intimate arrangement | EV0030–0031 |
+| PG-TX-0050 / — | Sae → Tōji / IP0048 implicitly | Sensory identity forgery via clothes/wig/scent/darkness, knowingly conceals self; believed until mismatch/light | EV0027/0033–0035/0038 |
+| PG-TX-0051 / — | Sae → Tōji / IP0049 | False illustrated account, repeated choice story; he explicitly denies and checks | EV0040/0042 |
+| PG-TX-0052 / — | Jigoro → Tōji / sleeps/her wish | Momo phone, denies access/hangs up then unreachable; true sleep and unsupported wish separated | EV0041–0042 |
+| PG-TX-0053 / — | Tōji → Jigoro neighbor / fellow models unable to contact three days | Deliberate false expedient to enter apartment; neighbor accepts sufficiently to admit | EV0043 |
+| PG-TX-0054 / — | Tōji/reluctant Sae → hotel staff / guest connection inquiries | Calls, scope bounded to actual search; no disclosed full scheme to all hotels. Refusal to transfer becomes location clue | EV0044/0046 |
+| PG-TX-0055 / — | Sae → Jigoro / IP0052 | Private call, urges irrespective of waking; he agrees prospectively; not Momo assent | EV0045 |
+| PG-TX-0056 / — | Jigoro → Momo / fulfilled wish | Direct final claim, she is stunned; truth/referent unresolved | EV0048 |
+
+| Reputation / prior | Target / actual bounded audience | Treatment and awareness / source-truth distinction | Evidence / claim |
+| --- | --- | --- | --- |
+| PG-RP-0022 / RP0016 | Sae / observed school admirers, magazine audience | Adulation/followers after feature and celebrity tie, she knows; prior exposed lies do not prevent new prestige | EV0004–0007; CL0002@5; reported fan-club scope not universal |
+| PG-RP-0023 / RP0014 | Kairi / girls comparing with celebrity | Verbal praise contradicted by rushing away; he notices empty room. Transient attention, not complete revised stable ranking | EV0006 |
+| PG-RP-0024 / RP0017 | Momo / Jigoro | False cruel/fan account, hostile gaze/removal; she first notices enmity without cause, then harmed under scheme | EV0007/0022–0023/0032; CL0018@2; not school-wide new rumor |
+| PG-RP-0025 / RP0019 | Jigoro / hotel bystanders | Celebrity recognition while checking in, no truth certification or Momo agreement | EV0036 |
+
+| Current information/reputation @ PG-FR-V05 | Active state | Source versus participant distinction / unresolved |
+| --- | --- | --- |
+| V01 practice account | IP0010@2/0020@2; TX0046, CM0008@3 | Original refusal plus later self-reported acquiescence; Sae receives explanation, Momo receipt not shown |
+| L and cheek | IP0043/0044, KN0047 | Sae directly knows L; cheek now verified for analyst; no backdated scene knowledge |
+| Garden staging | KN0048, TX0047 | Momo knows first scheme, not automatically later plan |
+| Momo/Jigoro choice | IP0046/0047/0049; KN0049/0050/0053 | Jigoro misled; Momo chooses help; Tōji rejects false voluntary-choice story; reader knows isolation/incapacity |
+| Identity | IP0048, KN0051, TX0050 | Reader sees disguise before Tōji; he discovers by mismatch/light; response not informed acceptance of Sae |
+| Incapacity/outcome | IP0050/0051/0052; KN0052/0054–0056 | Sleep/intent known, completed sexual act unresolved. Momo fear and Jigoro assertion not omniscient facts |
+| Search | KN0057, TX0053/0054 | Tōji infers hotel, not arrived. Sae cooperates under pressure while obstructing |
+| Sae / peers | RP0022 | Renewed prestige at observed reach, not universal moral rehabilitation |
+| Momo / Jigoro | RP0024 | Hostile false belief acted upon, no truth correction shown |
+
+Audit IP0018@2/0025@2/0029@2 and TX0031@2 remain active for their historical propositions, with no new exhaustive private-biography claim. Next IDs IP0053, KN0058, TX0057, RP0026. Revision history: 0.4 — V05 epistemic/transmission/reputation successor transaction, 2026-10-19 owner date.

@@ -5,7 +5,7 @@ artifact_type: relationship_commitment_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.3"
+version: "0.4"
 status: active_provisional
 scope: "Directional Relationships and Commitments; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -195,3 +195,54 @@ New owner-authorized, non-blind V01–V04 correction pass; see the [source audit
 EVV03-0021 descriptive erratum: the changing-room embrace was requested, refused, then performed (i0088–0089); CM0016 correctly retains that refusal. Momo's subsequent softening does not rewrite initiation. Next new IDs remain RL0050 and CM0026.
 
 Revision history addendum: recipient source-audit successor corrections, 2026-10-19; original frozen states preserved.
+
+## V05 successor transaction — PG-FR-V05
+
+New Route B reading owns PG-EV-V05; EV suffixes refer to that volume only. Latest boundary views below govern current retrieval. All new directional rows are @1, mainline continuity, learned in V05; same-direction predecessors explicit. Read [V05](../02%20Sequential%20Readings/PEACH_GIRL_V05_DEEP_READING.md) for participant knowledge, staging and counterreadings; no later consent backdated.
+
+| Directional event / prior | From → to / represented time | Statement, behavior, transition / understanding | Evidence / claim / limit |
+| --- | --- | --- | --- |
+| PG-RL-0043@3 / RL0043@2 | Tōji → Momo / V04 contact, revealed V05 | Same private-sign affection; cheek directly named by Momo in V05. Dated descriptive erratum, no new V04 action/knowledge | EV0013; CL0017@2; forehead withdrawn, not frozen bytes rewritten |
+| PG-RL-0050@1 / NONE ESTABLISHED | Sae → Jigoro / proposal through birthday | Enjoys heroine/status, goods and reassurance yet feels defeated; explicitly rejects him/wants Tōji, later deploys love/tears to recruit him conditionally. Some attraction to wounded allure shown | EV0001–0011/0015/0021–0023/0045; CL0002@5; no securely reestablished stable dating label |
+| PG-RL-0051@1 / RL0046@1 | Jigoro → Sae / same span | Protective affection/gifts and distress after breakup; seeks reconciliation, initial boundary against unwanted intimacy, later pursues her condition. Misinformed about Momo | EV0002/0010–0011/0015/0021–0023/0045; CL0018@2; no inference Sae reciprocates equally |
+| PG-RL-0052@1 / RL0042@1 | Momo → Tōji / pre-birthday/birthday | Explicitly prefers present changed partner; wants intimacy, exposes garden staging, initiates kiss/territorial claim, enjoys birthday and immediate consensual development. Later dream/misperception still addresses Tōji | EV0008–0009/0013/0016/0019–0020/0026/0028–0029/0037/0047; CL0015@3/0017@2; slap/jealous bargain retained, no voluntary Jigoro choice |
+| PG-RL-0053@1 / RL0043@3 | Tōji → Momo / same span to search | Loves only Adachi, independent gift/party care; responds to presumed Momo under identity deception; detects substitution and searches, refusing false choice story | EV0017/0025/0028–0029/0034–0046; CL0005@5/0019@1; deception/vulnerability and guilt do not prove informed betrayal |
+| PG-RL-0054@1 / RL0031@1 | Sae → Tōji / post-breakup through disguise | Repeatedly declares love, stages farewell kiss then disguises herself as Momo to obtain contact; knows her true identity is not accepted | EV0011/0014/0017–0020/0033–0035/0039–0042; CL0002@5/0003@5; specific desire not reduced to status alone |
+| PG-RL-0055@1 / RL0030@1 | Tōji → Sae / same span | Apologetic but explicit romantic/kiss refusals; briefly hopes reformed at shop; after identity reveal rejects approach and offers, angrily demands assistance finding Momo | EV0017–0018/0025/0038–0044; CL0005@5; response while thinking Adachi is not willing Sae relationship |
+| PG-RL-0056@1 / RL0044@1 | Momo → Sae / before/birthday | Counters blind-belief standard, sees garden staging; nevertheless chooses urgent help after Sae's crying claim, unaware of full plot | EV0009/0020/0030–0032; no wholesale trust reset implied; voluntary help distinct from consent |
+| PG-RL-0057@1 / RL0045@1 | Sae → Momo / same span | Rival comparison and private hostility escalate into isolation, removal via Jigoro, impersonation and intended manufactured sexual fact | EV0010–0011/0022–0023/0027/0030–0035/0040/0045; CL0003@5; sexual outcome unresolved |
+| PG-RL-0058@1 / RL0047@1 | Jigoro → Momo / same span | Hostile glare, false bully/fan belief, initially refuses intimacy, later carries incapacitated Momo and blocks calls; asserts her wish | EV0007/0022–0023/0032/0036–0037/0041/0045/0048; CL0018@2; sees incapacity, not solely unaware of all relevant facts |
+| PG-RL-0059@1 / NONE ESTABLISHED | Momo → Jigoro / birthday | No fan/romantic choice established; tries to explain she came to talk, misperceives him as Tōji while impaired, then wakes frightened/confused | EV0030–0032/0037/0047–0048; no reciprocity or commitment established |
+
+| Commitment / prior | Request, answer and status | Conduct / knowledge / consequence | Evidence / limits |
+| --- | --- | --- | --- |
+| PG-CM-0008@3 / CM0008@2 | Original practice request initially DECLINED; later acquiescence now SELF_REPORTED, not original initial permission | V01 represented time, learned V05: Tōji says he could have resisted and sought experience for Momo. Both phases retained; precise unshown conduct still limited | EV0017 plus PG-EV-V01-0043/0044; IP0010@2/0020@2 |
+| PG-CM-0024@2 / CM0024 implicit @1 | Jigoro dating proposal ACCEPTED_WITH_EVIDENCE by conduct; later ENDED by Sae CM0026 | Public couple/date/gifts, explicit breakup; later request for reconciliation separately CM0030 | EV0001–0011; stable restart not established |
+| PG-CM-0026 / CM0024@2 | Sae → Jigoro cannot date him, wants Tōji / ENDED | His subsequent depression and reconciliation plea support actual rupture, not only hypothetical comparison | EV0011/0015/0021 |
+| PG-CM-0027 / — | Sae → Tōji romantic pursuit / DECLINED | Tōji loves only Adachi, apologizes but refuses; no compassionate obligation to date | EV0014/0017 |
+| PG-CM-0028 / — | Sae → Tōji parting kiss / DECLINED repeatedly | Grabs despite refusal, head turn limits contact to cheek, push/stop; no consent imported from V01 account | EV0018 |
+| PG-CM-0029 / — | Momo → Tōji initiated kiss / no prior express assent, then ACCEPTED_WITH_EVIDENCE by response; more-kisses forgiveness bargain | Initial surprise then responding embrace/affection. Slap and territorial/competitive demand retained, not generic authorization | EV0019–0020; each phase/context separate |
+| PG-CM-0030 / CM0026 | Jigoro → Sae reconciliation/anything offer / PROPOSED conditionally, no secure final stable label | She makes condition about Momo, professes love; his wish to reconcile does not establish equal reciprocity | EV0021–0023 |
+| PG-CM-0031@1 / — | Sae → Jigoro night with Momo / DECLINED at i0095 | He refuses someone he does not like; no request/assent by Momo | EV0022–0023 |
+| PG-CM-0031@2 / CM0031@1 | Same third-party scheme / ACCEPTED_WITH_EVIDENCE prospectively at later phone exchange | Recruitment inferred at i0117 and removal shown; i0167 explicit agreement despite continued sleep. This is an agreement between schemers, NEVER Momo permission; completion UNKNOWN | EV0030/0032/0045; original refusal preserved |
+| PG-CM-0032 / — | Momo → Tōji return/call if late / ACCEPTED_WITH_EVIDENCE as plan; performance interrupted by incapacity | Leaves to help Sae, Tōji waits; failure to call has external constraint, no voluntary betrayal/breach inferred | EV0030–0034/0041 |
+| PG-CM-0033 / — | Tōji → Momo check after startling intimate advance / ACCEPTED_WITH_EVIDENCE for immediate context | Hesitant not-unwanted answer and mutual behavior; no unlimited permission or intercourse completion | EV0029 |
+| PG-CM-0034 / — | Sae → Tōji disguised intimate approach / informed acceptance of Sae ABSENT; DECLINED upon identification | Tōji believes Adachi, responds to that identity, stops on mismatch then rejects known Sae | EV0034–0035/0038–0039; relationship label alone supplies no consent |
+| PG-CM-0035 / — | Tōji → Sae accompany/assist search / ACCEPTED_WITH_EVIDENCE under pressure | She accompanies, calls reluctantly, withholds and secretly urges scheme; partial compliance, no sincere shared rescue goal established | EV0042–0046 |
+
+| Current ordered pair / PG-FR-V05 | Active RL / CM | Current state and unresolved asymmetry |
+| --- | --- | --- |
+| Momo → Tōji | RL0052; CM0029/0033 | Chosen love/desire, agency in kisses and contextual assent; subsequent incapacity not voluntary betrayal |
+| Tōji → Momo | RL0053 via RL0043@3; CM0032 | Caring/searching, rejects Sae narrative; no rescue completed yet, does not know missing interval |
+| Sae → Tōji | RL0054; CM0027/0028/0034 | Pursues through refused and disguised contact; no informed acceptance |
+| Tōji → Sae | RL0055; CM0035 | Refusal, distress/anger and compelled cooperation; not a second chosen romance |
+| Sae → Jigoro | RL0050; CM0026/0030/0031@2 | Rejected him, later love claim/conditional recruitment; attraction and instrumentality coexist, stable reunion unknown |
+| Jigoro → Sae | RL0051; CM0030/0031@2 | Wants her, cooperates after stated initial boundary; actual Momo assent absent |
+| Momo → Sae | RL0056 | First trick detected, later emergency help chosen with incomplete knowledge |
+| Sae → Momo | RL0057 | Deliberate hostile scheme, not ordinary friendship repair |
+| Jigoro → Momo | RL0058 | False account plus his harmful control/knowledge of sleep; final outcome unverified |
+| Momo → Jigoro | RL0059 | No reciprocal romantic agreement; fear/question at exit |
+| Kairi → Momo | RL0040@2; CM0025@2 preserved | Care, withdrawal and continuing interest; V05 no material change |
+| Momo → Kairi | RL0041@2; CL0013@3 preserved | Romantic pull/gratitude/possibility, present Tōji choice; not relabeled merely friendship |
+
+Next new IDs RL0060 and CM0036. Earlier boundary projections and all initial request/answer terms remain historical. Revision history: 0.4 — V05 successor events and anatomy/practice testimony revisions, 2026-10-19 owner date.
