@@ -1876,3 +1876,8 @@ Shared receiving11 hash287cf3e60b4d6c786501c8a2ef573df9ed1ee1364f98e9816beadcdae
 ## Cohort15 individual event access — 2026-10-20T13:11:28.160162+00:00
 
 The [Leen](KONOSUBA_LEEN_EVIDENCE_INDEX.md), [Keith](KONOSUBA_KEITH_EVIDENCE_INDEX.md) and [Taylor](KONOSUBA_TAYLOR_EVIDENCE_INDEX.md) indices join shared LP episode keys while preserving each actor. MAIN02C1 means accepted item/xhtml/p-004.xhtml; Dust05–07/continuation U identifiers, MASK and YORI04 keep their own registers and source planes. The [source-safe provenance](KONOSUBA_LEEN_PARTY_NATIVE_PROVENANCE_01.json) binds seven later receipts/2394knownBASEcontextslots/13members/7objects, including repetitions and other actors, not new unique/full/ruby/image/admission/independent coverage. Earlier DUST05 search passages use earlier qualified receiving. No final observation denominator or percentage.
+
+
+## Cohort16 Lolisa, Rionor and Feit — 2026-10-20T14:52:18.145824+00:00
+
+[Lolisa](KONOSUBA_LOLISA_EVIDENCE_INDEX.md),[Rionor](KONOSUBA_RIONOR_EVIDENCE_INDEX.md) and [Feit](KONOSUBA_FEIT_EVIDENCE_INDEX.md) own the bounded scene retrieval. [Shared provenance](KONOSUBA_LOLISA_ROYAL_DRAGON_NATIVE_PROVENANCE_01.json) binds seven pre-case receipts/2902knownBASEcontextslots/18members/7objects and a separately dated post-case20Pprecision check:2922totalcontexts/19members/7objects. Counts include other actors,blanks,reports and earlier qualified contexts,not independent observations or new global full/ruby/image/admission credit. The later check confirms DUST07U012289 contains Leen pouring,Lolisa offering food and Feit sharing; it changes no frozen model/input/body/monograph and is not backdated validation. Source-safe summaries only; no EPUB,image or full transcript bytes.

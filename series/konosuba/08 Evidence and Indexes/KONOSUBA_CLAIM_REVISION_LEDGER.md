@@ -303,3 +303,8 @@ Current source-known consolidation does not revise frozen forecasts, prior outco
 | CR-SECONDARY-COHORT15-004 | OPEN | Three new frozen candidates and twelve actual source-known same-author bodies are internal exercises only. Leen practice-permission ambiguity, generic rivals, unprobed rules and overcoherence remain. Model/inputs/first bodies are not repaired after outcomes; no independent accuracy/confidence/capability promotion. |
 
 [Source-safe provenance](KONOSUBA_LEEN_PARTY_NATIVE_PROVENANCE_01.json) and three event indices retain individual agency, direct/report/private/disguise access and offered/performed/paid/repaired stages. Earlier current claims are qualified here; frozen originals keep bytes.
+
+
+## Cohort16 Lolisa, Rionor and Feit — 2026-10-20T14:52:18.145824+00:00
+
+Current source precision: ロリーサ is an invented alias DUST02C02P542-545,with no immediate objection shown there; the root’s premature commentary objection claim is corrected,not converted into a source event. MASK unnamed-small join remains unresolved. DUST04U014196 alleged Levi demand is part of an explicitly fabricated story. CONTU014224-327 apparent Rionor bride is Leen331-334; genuine Rionor acts536/562-570. CONTU014293 links Feit’s missed-breakfast hunger to saliva but does not alone identify who omitted the meal or her assent; private Feit draft01’s stronger inference was corrected to draft02 before any model/case freeze,with original draft and precision record preserved. DUST07U012289 jointly contains three different food/drink actions. These attributed revisions update current uptake without altering original forecasts,annotations,indices,score files or historical first bodies.

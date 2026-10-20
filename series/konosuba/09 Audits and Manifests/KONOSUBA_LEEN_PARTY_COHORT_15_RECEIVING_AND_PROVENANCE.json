@@ -1,7 +1,7 @@
 {
   "schema": "KONOSUBA_LEEN_PARTY_COHORT15_RECEIVING_AND_PROVENANCE_V1",
   "recorded_utc": "2026-10-20T13:13:27.338436+00:00",
-  "status": "SEMANTIC_RECEIVING_COMPLETE_EXACT_CONTAINING_PUBLICATION_PENDING",
+  "status": "SCOPED_SEMANTIC_AND_FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
   "scope": "Three distinct monographs and first conditional reconstruction candidates, all sources known. Not whole-program closure or a capability assessment.",
   "prior_published_authority": {
     "source": "587fb9d0eea923c730c4e7e532dfc4929862e344",
@@ -323,5 +323,31 @@
     "New audit appendix links are relative to its own directory.",
     "Comparison baseline distinguishes three new analytical rows from four carried prior gate-status rows.",
     "No frozen model, inventory, input, first body, assessment or native provenance changed."
-  ]
+  ],
+  "publication_pending_status_at_authorship": "SEMANTIC_RECEIVING_COMPLETE_EXACT_CONTAINING_PUBLICATION_PENDING",
+  "publication_resolution": {
+    "status": "SCOPED_THREE_CONDITIONAL_MODELS_FULL_EXACT_SOURCE_GATE_CLOSED",
+    "source": "76851fae4b84b13b182e0112b17ccc5765bcd712",
+    "tree": "b4513500f6e87ce770a796e38dd19dc1d53235ab",
+    "closed_utc": "2026-10-20T13:46:41.369857+00:00",
+    "gate_path": "09 Audits and Manifests/KONOSUBA_LEEN_PARTY_COHORT15_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "f3381e805f22e5016d58da084b65850242a30d84f324a56b3ec49d9b89c5ece5",
+    "source_run": 39431008010,
+    "housekeeping_run": 39431926119,
+    "final_run": 39431995144,
+    "all_remote_paths": 9300,
+    "all_changed_streams": 43,
+    "full_tests_source_and_final": 385,
+    "fresh_project_reload_paths": 1124,
+    "current_model_bodies": 23,
+    "new_model_bodies": 3,
+    "scoped_secondary_model_subjects": 17,
+    "bounded_profiles": 15,
+    "monograph_only_subjects": 1,
+    "actual_internal_first_bodies": 12,
+    "regenerations": 0,
+    "independent_accuracy_or_confidence_gain": false,
+    "full_program_complete": false
+  },
+  "published_authority_reload_sha256": "209ca0f8bb4e1066f8141b98071481c9e372868434033236b60854b90d22e10c"
 }
