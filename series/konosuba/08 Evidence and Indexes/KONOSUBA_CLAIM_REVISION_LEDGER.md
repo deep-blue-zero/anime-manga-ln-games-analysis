@@ -252,3 +252,15 @@ These are current attributed working/analytical revisions. Earlier source report
 | CR-SECONDARY-MAIN16-INCIDENTAL-001 | CONSOLIDATE_BOUNDED_AND_INDEXED_ACTORS | MAIN16U023P1–60 gives Pierre and mother narrow profiles, helperTier0index. Reported child benefit/Teleport do not become an independent clinical test/witnessed spell. Shared occupation does not establish MAIN03performer/Pierre alias or distinct-person certainty. |
 
 All previous ledger bytes, original annotations, frozen reports/models/forecasts/outcomes/scorecards and blank/null fields remain exact. Source-known reinterpretation is current attributable work, not a new prospective generation or evidence of model accuracy.
+
+
+## Royal cohort11 current attributed revisions — 2026-10-20T08:11:12.082088+00:00
+
+| Stable revision | Transition | Current qualification |
+|---|---|---|
+| CR-SECONDARY-CLAIRE-001 | EXPAND_DISTINCT_PROVISIONAL_MODEL_WITH_CONTRARY_CASES | Conditional rank/alliance, emotional susceptibility with refusals, skill/proxy error and gratitude/coercion support scoped Tier3 candidate; broad reliability and generic rivals remain open. |
+| CR-SECONDARY-RAIN-001 | EXPAND_DISTINCT_COST_ROLE_AND_INFORMATION_MODEL | Practical repair, own cost pressures, local knowledge/protest and warning with compromised compliance support a separate scoped Tier3 candidate; no universal prudence or highest-bid mechanism. |
+| CR-SECONDARY-ROYAL-PLANE-001 | CONSOLIDATE_ACTOR_PHASE_AND_REPORT_LIMITS | MAIN06 surprise passenger, MAIN10 lip-read proposal, MAIN11 actual administration/gaps, Dust-in-Rain-body and later MAIN15 officer/letter account retain separate planes. Original reports and all historical judgments remain exact. |
+| CR-SECONDARY-ROYAL-INTERNAL-001 | PRESERVE_INTERNAL_PACKET_PRECISION_DEFECT | CL-H01B invents a council absent from its packet. The first body stays exact with explicit defect; no repaired success, new canonical person or independent accuracy claim. |
+
+Current source-known consolidation does not revise frozen forecasts, prior outcomes, scorecards, original annotation or first-output bytes. Unknown weights, thresholds and causal disagreements remain unresolved.

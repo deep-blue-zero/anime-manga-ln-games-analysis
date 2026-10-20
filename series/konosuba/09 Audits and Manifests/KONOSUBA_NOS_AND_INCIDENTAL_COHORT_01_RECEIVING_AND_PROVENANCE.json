@@ -2,7 +2,7 @@
   "schema": "KONOSUBA_NOS_AND_INCIDENTAL_COHORT10_RECEIVING_AND_PROVENANCE_V1",
   "recorded_utc": "2026-10-20T07:02:46.042359+00:00",
   "source_boundary": "02a355704ac14db3455f1f738c92a6c576e78746",
-  "status": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_CONTAINING_PUBLICATION_GATE_PENDING",
+  "status": "SCOPED_SEMANTIC_AND_FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
   "Nos_tier": 2,
   "new_model_bodies": 0,
   "fifteen_current_models_exact": [
@@ -244,5 +244,26 @@
   "publication": "Exact diff/preflight/nonforced push/whole remote tree+changed blob readback/source-HK-final audit/status/fresh reload remain required. Prior Levi gate certifies02a35570, not this candidate.",
   "designated_ownership": "No discovery/capability registries/indexes or housekeeping global outputs authored; new eligible discovery may lag under policy.",
   "remaining": "Full all-individual/event/alias/incidental dispositions, further earned artifacts, seven expanded specialists and extended/full-series syntheses, six separate StageD principal-party-transfer revisions, designated curation/evaluation/integration and component/release/final-entry audits.",
-  "full_program_complete": false
+  "full_program_complete": false,
+  "publication_pending_status_at_authorship": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_CONTAINING_PUBLICATION_GATE_PENDING",
+  "publication_resolution": {
+    "status": "SCOPED_NOS_TIER2_THREE_TIER1_ONE_TIER0_AND_ALIAS_FULL_EXACT_SOURCE_GATE_CLOSED",
+    "source": "6958c3726a1dc3f9fb505915508af32a2f7e7bae",
+    "tree": "c5099aabc11179acdd12299c018de5c75fd4cb54",
+    "closed_utc": "2026-10-20T07:30:16.505297+00:00",
+    "gate_path": "09 Audits and Manifests/KONOSUBA_NOSCOHORT01_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "d77fae35a118b459b5ca1059f66caf193dd1192b60adb7fc271347dfd0f51b2e",
+    "source_run": 39385391510,
+    "housekeeping_run": 39385943214,
+    "final_run": 39385994786,
+    "all_remote_paths": 9221,
+    "all_changed_streams": 25,
+    "full_tests_source_and_final": 385,
+    "fresh_project_reload_paths": 1045,
+    "current_model_bodies": 15,
+    "new_model_bodies": 0,
+    "nine_scoped_model_subjects_nine_bounded_profiles_one_monograph_only": true,
+    "full_program_complete": false
+  },
+  "published_authority_reload_sha256": "0baf267b08069a02266152acd3fc8649aa6ce67db2cd92ac555ad80554ba6f6a"
 }

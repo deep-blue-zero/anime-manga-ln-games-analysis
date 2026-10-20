@@ -1014,3 +1014,15 @@ The new monograph/model/index have distinct responsibilities. Four first bodies 
 | N10-MC04 | MAIN16U023P1–60 | Direct request/performance and reported benefit/helper explanation differentiated; three narrow profiles and oneTier0index, no unearned reconstruction. |
 
 All15current model bodies/nineTier3subject boundaries are exact; Nos monograph does not add a model. Source-known consolidation supplies no independent trial or improvement of frozen source scores. Broader principal/party/transfer revisions remain six distinct StageD successor responsibilities.
+
+
+## Royal cohort11 differentiated constraints — 2026-10-20T08:11:12.082088+00:00
+
+| Current model rules | Source return and material boundary |
+|---|---|
+| CLAIRE-R01/R02 | MAIN06 class/rank shifts; MAIN10 shared objective and office limit; CONTEXP01 refusal versus CONTEXP02 susceptibility; DUST03 apology with renewed veto. No automatic Iris-triggered compliance or universal class conversion. |
+| CLAIRE-R03/R04/R05 | Performed skill and proxy error; gratitude with risky control; act/recipient-sensitive stance. Real threats do not certify safe means, and respectful titles do not certify trust. |
+| RAIN-R01/R02 | Practical repair and controlled disclosure; factual correction with norm protest and real mistakes. Narrator common-sense labels supply no accuracy grade. |
+| RAIN-R03/R04/R05 | Cost owner/belief, ranked pressure and ordinary aspirations; available safe means versus warning/compliance; actual controller and printed stance. No fixed bid threshold or universal ethical veto. |
+
+Two provisional source-informed model candidates add distinct mechanisms without altering the fifteen entering models. Seven actual first bodies retain the unsupplied council defect, generic/near-canonical rivals, designed/primed contrasts and lack of independent/Japanese adequacy. The [indexes](KONOSUBA_CLAIRE_EVIDENCE_INDEX.md) retain exact returns and qualifications. Stage D still requires six separately versioned principal/party/transfer successors; no retrospective fit repairs frozen results.

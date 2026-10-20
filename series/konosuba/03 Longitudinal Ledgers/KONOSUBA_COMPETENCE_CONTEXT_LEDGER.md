@@ -1393,3 +1393,14 @@ Known admitted-source retrospective consolidation; no new source admission, whol
 | N10-CC03 | MAIN03U017P566/630–633;MAIN16U023P14–50 | Reported impressive Aqua performance affects livelihood/crowd expectations; Pierre actual act and attempted correction have local costs. No independent career ranking, permanent career collapse or verified helper destination. |
 
 Retrospective known-source consolidation; exact previous ledger bytes remain the prefix. No new whole-source/ruby/image/admission/independent-test credit or changed historical forecast, score or blank/null field.
+
+
+## Cohort11 — capacity, condition and safe execution — 2026-10-20T08:11:12.082088+00:00
+
+| ID | Source return | Supported distinction |
+|---|---|---|
+| R11-CC01 | MAIN06 C2P120–138; MAIN10 C2P116–124 | Claire rapid alarm response and actual levitation coexist with office limits. Later suppression announcement supplies no solo-victory certificate. |
+| R11-CC02 | DUST03 U013P208–248/319–348 | Claire uses a class proxy without armor; Rain hesitates to avoid hitting her and later lacks equipment. No failed Rain cast or global low competence. Yunyun actually rescues; Dust deliberately blocks earlier available aid. |
+| R11-CC03 | MASK U015P288–360; MAIN11 C1P535–544/603–620; DUST03 U014P270–339 | Protective waiting, actual encirclement/transfer preparation and direction correction are useful work. Disguise success depends on cues, means and distraction; no omniscient or uniformly incompetent retainer. |
+
+Known admitted-source consolidation; prior ledger bytes remain the exact prefix. No new whole-source/ruby/image/admission/independent trial or changed frozen forecast, score, first body or blank/null field.

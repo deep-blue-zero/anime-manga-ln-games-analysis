@@ -1477,3 +1477,15 @@ Nine scopedTier3 subjects/six narrow profiles and168working rows remain distinct
 ## Cohort10 Nos/profile/MAIN03 qualification semantic candidate — 2026-10-20T07:02:46.042359+00:00
 
 526known-source BASEcontextslots across five admitted members support Nos joined identity/Tier2 own monograph, three source-local profiles and helperTier0index.375of these are Nos contexts, with overlap counted once; no fresh global unique-primary/full/ruby/image/source-admission/independent credit. MAIN03report163/167/382 remains exact with current external plane/outcome qualification: actual visible props, reports and inference differ from completed farming/permanent ruin. Six target rows change;162others/15models/nineTier3gates/history exact. Full publication/preflight/readback/source-HK-final gate/fresh reload pending; preceding Levi gate certifies02a35570, not this candidate. Wider census/earned artifacts/expanded seven specialists/extended-fullseries/six separate StageD/curation/integration/component-release/final entry active; percentage null.
+
+
+## Cohort10 exact-source gate and fresh authority reload closed — 2026-10-20T07:30:32.042803+00:00
+
+Source `6958c3726a1dc3f9fb505915508af32a2f7e7bae` / tree `c5099aabc11179acdd12299c018de5c75fd4cb54`: all 9,221 remote paths and 25 changed streams, source 39385391510, NO_OP housekeeping 39385943214, final actual-source 39385994786, full source/final 385 tests with selection disabled/all five non-success categories zero, exact-source status and fresh 1,045 project/control paths verified. All fifteen model bodies, original MAIN03 report, prior gates/errata and historical scores/blanks/nulls remain exact. Nos Tier2 monograph, three profiles, helper index and joined episode are scoped dispositions. Full census, further artifacts, expanded specialists, six separately versioned StageD successors, designated curation/integration and component/release/final-entry work continue; percentage null.
+
+[Gate](KONOSUBA_NOSCOHORT01_PUBLICATION_GATE_CLOSE.json). These seven later local progress paths publish with the next governed cohort; the audits above certify the published source, not these subsequent metadata edits.
+
+
+## Royal cohort11 semantic candidate — 2026-10-20T08:16:00.363533+00:00
+
+Shared 3,285 known-source BASE context slots/eleven members/eight admitted objects support two differentiated monographs and provisional five-rule model candidates, with exact actor/phase/report/ownership limits. Seven first bodies remain unchanged, including CL-H01B unsupplied council and all internal limitations. No source accuracy, independent validation, Japanese adequacy, capability grade or confidence gain. Candidate exact review/preflight/readback/source-HK-final/reload pending. Prior Nos gate certifies6958c372 and1,045 published project paths, not this later candidate.168 nonfinal working records and full program remain active; percentage null.

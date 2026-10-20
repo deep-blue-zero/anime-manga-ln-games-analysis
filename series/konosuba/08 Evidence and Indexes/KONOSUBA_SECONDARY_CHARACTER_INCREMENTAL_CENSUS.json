@@ -1,8 +1,8 @@
 {
   "schema": "KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS_V1",
   "status": "INCREMENTAL_168_QUALIFIED_ROWS_NOT_FINAL_INDIVIDUAL_DENOMINATOR",
-  "updated_utc": "2026-10-20T07:02:46.042359+00:00",
-  "scope": "Cohort10 Nos Tier2 monograph and three bounded profiles/source-plane qualification semantically received/publication pending; nine priorTier3subjects/15models closed and exact.168working rows, historical groups/episode alias/open bucket not a final population; full program active.",
+  "updated_utc": "2026-10-20T08:16:00.363533+00:00",
+  "scope": "Royal cohort11 Claire/Rain scoped Tier3 candidates semantically received; publication pending. Nine prior model gates, Nos Tier2 and nine profiles remain closed at their scopes. Fifteen entering models exact, two new bodies proposed.168 records remain nonfinal; full program active.",
   "row_semantics": "Distinct qualified working subjects plus explicitly unresolved grouped/identity leads. A row is not automatically one final individual or an earned artifact. Old scope phrases remain their recorded history; the root current scope governs present admission status.",
   "artifact_architecture": "Use existing05 Specialist Synthesis for earned monographs and06 Character Modeling and Reconstruction for distinct mechanism models. Existing ledgers carry bounded profiles unless a separate responsibility is justified. Single current corpus map; curator-only global registry/index enrollment.",
   "rows": [
@@ -233,12 +233,12 @@
     {
       "character": "Claire",
       "identity": "クレア",
-      "likely_tier": "2 candidate",
-      "priority": "Next cohort",
-      "evidence_distribution": "MAIN06/10/11; CONTEXP01/02 native; DUST03/04; MASK native. WholeMASKU015518Pactualroyalwork/risks/fees/ordinaryknowledge/individualcorrections. CompleteCONTEXP01report281L. CURRENT WORKING22: MAIN15C2current accepted-native guarantor/letters precision; inherited completeDust03/otherroyalcourt evidence. CURRENT WORKING29: Complete MAIN10/11 reports add material aid, unwanted engagement opposition, declared separation difficulty, force and risky memory-potion plan. Acknowledging Iris's happiness coexists with coercive control. CURRENT WORKING31: Current complete MAIN13-MAIN16 accepted report review, receipts49-52; derivative claims retain original access planes. Targeted native confirmations are separately pinned, with no new whole-source/independent-test credit.",
-      "substantive_responsibility": "Skilled guard, uneven field knowledge, attachment, actual restraints and paternalism, paid consequences and temptation. ReportIrisunwantedholdandreleasedboundaryU013; devotedsupervisioninterfereswithparticularordinarycompany. No broadroyalguardianconsentfromattachment. CURRENT WORKING22: Official reports of delivered guarantees and holiday expectations retain their report plane. A letter/request attributed to her is not a newly witnessed act, and Dust's misdirection inprioracceptedchapters doesnotestablishglobalincompetence. CURRENT WORKING31: MAIN15C2P427-463 native confirms officer account of her handwritten guarantee plus Kazuma reported letter contents, own letter-induced fear remains inferred. No direct new Claire scene in that window.",
-      "gaps": "Consolidate own protection/status/affect/error without treating Iris as her resource. Assassination offer is not execution; care does not erase forced removal or make Iris's choices irrelevant. Tier remains a candidate. CURRENT WORKING31 QUALIFICATION: Existing direct court evidence retained; reported guarantee is not direct new speech/action trial, established romance, actual attempted assassination or unrestricted control of Iris. Preserve recipient and coercion costs.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "likely_tier": "3, provisional scoped cohort11 model semantic receiving complete; containing publication pending",
+      "priority": "Substantive model/monograph/index received; containing publication gate pending",
+      "evidence_distribution": "MAIN06/10/11; CONTEXP01/02 native; DUST03/04; MASK native. WholeMASKU015518Pactualroyalwork/risks/fees/ordinaryknowledge/individualcorrections. CompleteCONTEXP01report281L. CURRENT WORKING22: MAIN15C2current accepted-native guarantor/letters precision; inherited completeDust03/otherroyalcourt evidence. CURRENT WORKING29: Complete MAIN10/11 reports add material aid, unwanted engagement opposition, declared separation difficulty, force and risky memory-potion plan. Acknowledging Iris's happiness coexists with coercive control. CURRENT WORKING31: Current complete MAIN13-MAIN16 accepted report review, receipts49-52; derivative claims retain original access planes. Targeted native confirmations are separately pinned, with no new whole-source/independent-test credit. CURRENT WORKING45: Shared actual 3285 source-known BASE context slots/eleven members/eight admitted objects, counted once for both subjects; full listed native scopes and existing complete Dust03 report reinspection receipted. No new global unique-primary/full-source/ruby/image/admission/independent credit.",
+      "substantive_responsibility": "Skilled guard, uneven field knowledge, attachment, actual restraints and paternalism, paid consequences and temptation. ReportIrisunwantedholdandreleasedboundaryU013; devotedsupervisioninterfereswithparticularordinarycompany. No broadroyalguardianconsentfromattachment. CURRENT WORKING22: Official reports of delivered guarantees and holiday expectations retain their report plane. A letter/request attributed to her is not a newly witnessed act, and Dust's misdirection inprioracceptedchapters doesnotestablishglobalincompetence. CURRENT WORKING31: MAIN15C2P427-463 native confirms officer account of her handwritten guarantee plus Kazuma reported letter contents, own letter-induced fear remains inferred. No direct new Claire scene in that window. CURRENT WORKING45: Own past coldness acknowledgment, conditional rank restraint and alliance, emotional susceptibility with real refusals, performed levitation/office work, field proxy errors, gratitude with knowing imposed cognitive risk and recipient-sensitive stance earn a distinct five-rule provisional model. Four first bodies retain a council invented beyond the packet; no repair or positive accuracy claim.",
+      "gaps": "Containing exact publication/readback/source-HK-final gate and fresh reload remain. Broad unfamiliar-context reliability, precise weights/thresholds and Japanese generation remain unproved; generic-role/near-canonical rivals and actual first-body limitations remain. No independent score/confidence gain. Designated curation/evaluation and full program continue.",
+      "disposition_status": "SCOPED_TIER3_COHORT11_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
       "independent_observation_count": null,
       "prior_gap_history_working21": "Dedup castle episodes; retain Iris expressed stop requests, surveillance and dangerous control proposals; full model not automatic. Preserveownagency/wordsanddistinctknowledge,notsharedcommonsensepersona;fullall-sourcenativededup/modelidentifiabilitystilldue.",
       "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded.",
@@ -247,17 +247,34 @@
       "cohort05_current_evidence_qualification": "Complete MAIN10/11 reports add material aid, unwanted engagement opposition, declared separation difficulty, force and risky memory-potion plan. Acknowledging Iris's happiness coexists with coercive control.",
       "prior_gap_history_working30": "Consolidate own protection/status/affect/error without treating Iris as her resource. Assassination offer is not execution; care does not erase forced removal or make Iris's choices irrelevant. Tier remains a candidate.",
       "current_scope_asof_working31": "All17 main excluded,19 supplemental and5mixed declared source programs remain closed. Current complete main analytical-derivative review is MAIN01-17 (MAIN17 received earlier out of order); receipts49-52 finishMAIN13-16. Later checkpoints/earlier prospective reconciliation/current ledger and separate supporting-register consolidation, final census/artifacts/expanded models/curation/release remain active. No new source/whole-native/ruby/image/independent-test credit from derivative receiving. Current157qualified audit rows are not final individual population; global percentage null.",
-      "cohort06_current_evidence_qualification": "Current complete MAIN13-16 analytical receiving with exact separate native scope where receipted; historical forecasts and earlier published scoped models/gates remain unchanged. Full independent-event/census closure remains open."
+      "cohort06_current_evidence_qualification": "Current complete MAIN13-16 analytical receiving with exact separate native scope where receipted; historical forecasts and earlier published scoped models/gates remain unchanged. Full independent-event/census closure remains open.",
+      "prior_targeted_fields_before_cohort11": {
+        "character": "Claire",
+        "identity": "クレア",
+        "likely_tier": "2 candidate",
+        "priority": "Next cohort",
+        "evidence_distribution": "MAIN06/10/11; CONTEXP01/02 native; DUST03/04; MASK native. WholeMASKU015518Pactualroyalwork/risks/fees/ordinaryknowledge/individualcorrections. CompleteCONTEXP01report281L. CURRENT WORKING22: MAIN15C2current accepted-native guarantor/letters precision; inherited completeDust03/otherroyalcourt evidence. CURRENT WORKING29: Complete MAIN10/11 reports add material aid, unwanted engagement opposition, declared separation difficulty, force and risky memory-potion plan. Acknowledging Iris's happiness coexists with coercive control. CURRENT WORKING31: Current complete MAIN13-MAIN16 accepted report review, receipts49-52; derivative claims retain original access planes. Targeted native confirmations are separately pinned, with no new whole-source/independent-test credit.",
+        "substantive_responsibility": "Skilled guard, uneven field knowledge, attachment, actual restraints and paternalism, paid consequences and temptation. ReportIrisunwantedholdandreleasedboundaryU013; devotedsupervisioninterfereswithparticularordinarycompany. No broadroyalguardianconsentfromattachment. CURRENT WORKING22: Official reports of delivered guarantees and holiday expectations retain their report plane. A letter/request attributed to her is not a newly witnessed act, and Dust's misdirection inprioracceptedchapters doesnotestablishglobalincompetence. CURRENT WORKING31: MAIN15C2P427-463 native confirms officer account of her handwritten guarantee plus Kazuma reported letter contents, own letter-induced fear remains inferred. No direct new Claire scene in that window.",
+        "gaps": "Consolidate own protection/status/affect/error without treating Iris as her resource. Assassination offer is not execution; care does not erase forced removal or make Iris's choices irrelevant. Tier remains a candidate. CURRENT WORKING31 QUALIFICATION: Existing direct court evidence retained; reported guarantee is not direct new speech/action trial, established romance, actual attempted assassination or unrestricted control of Iris. Preserve recipient and coercion costs.",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort11_current_artifacts": {
+        "monograph": "series/konosuba/05 Specialist Synthesis/KONOSUBA_CLAIRE_CHARACTER_MONOGRAPH.md",
+        "model": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CLAIRE_RECONSTRUCTION_MODEL.md",
+        "evidence_index": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CLAIRE_EVIDENCE_INDEX.md"
+      },
+      "cohort11_actual_receiving03_sha256": "c3f66f54428441ff35d993d9dca80b7d93427f287bb6f2ab2d2565649e69ef8c",
+      "cohort11_semantic_receiving_sha256": "c5a450f637f6bbdb1a3801b074680a2acd23e6e276f6472165d9c7e4a93eb03b"
     },
     {
       "character": "Rain / Rein",
       "identity": "レイン; distinct from リーン",
-      "likely_tier": "2 candidate",
-      "priority": "Next cohort",
-      "evidence_distribution": "MAIN06 native introduction; CONTEXP02 native; DUST03/04; MASK native. WholeMASKU015518Pactualroyalwork/risks/fees/ordinaryknowledge/individualcorrections. Complete CONTEXP02 report received; current native recheck evidence applies only to named actual windows, not every reported scene. CURRENT WORKING22: MAIN15C2current accepted-native guarantor/teleport report precision; inheritedDust03/royalcourt evidence. CURRENT WORKING29: Complete MAIN10/11 reports distinguish greeting, private drugging-plan participation, practical farewell intervention, financial/obligation bargaining and memory-potion procedure. CURRENT WORKING31: Current complete MAIN13-MAIN16 accepted report review, receipts49-52; derivative claims retain original access planes. Targeted native confirmations are separately pinned, with no new whole-source/independent-test credit.",
-      "substantive_responsibility": "Mediation and practical correction coexist with pressure, mistaken assumptions and institutional pay constraints. CURRENT WORKING22: A police official's account of teleport delivery and avoiding vacation interruption is attributed evidence, not direct present-scene agency or unlimited transport. Earlier court chase/misdirection retains actual timing and role fit. CURRENT WORKING31: MAIN15 officer reports her rushed tearful visit with Claire letter, current office burden and Teleport help; Kazuma relays his letters. The same remote episode supplies no fully watched independent Rain/Claire meeting.",
-      "gaps": "Preserve own choices and constraints. A plan is not a completed drug administration unless source establishes it; no interchangeable court-servant psychology or global incompetence. CURRENT WORKING31 QUALIFICATION: Keep distinct from Leen and generic royal staff. Tears/visit are officer report, no omniscient motive or newly performed prior drug plan; own decision/voice consolidation remains.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "likely_tier": "3, provisional scoped cohort11 model semantic receiving complete; containing publication pending",
+      "priority": "Substantive model/monograph/index received; containing publication gate pending",
+      "evidence_distribution": "MAIN06 native introduction; CONTEXP02 native; DUST03/04; MASK native. WholeMASKU015518Pactualroyalwork/risks/fees/ordinaryknowledge/individualcorrections. Complete CONTEXP02 report received; current native recheck evidence applies only to named actual windows, not every reported scene. CURRENT WORKING22: MAIN15C2current accepted-native guarantor/teleport report precision; inheritedDust03/royalcourt evidence. CURRENT WORKING29: Complete MAIN10/11 reports distinguish greeting, private drugging-plan participation, practical farewell intervention, financial/obligation bargaining and memory-potion procedure. CURRENT WORKING31: Current complete MAIN13-MAIN16 accepted report review, receipts49-52; derivative claims retain original access planes. Targeted native confirmations are separately pinned, with no new whole-source/independent-test credit. CURRENT WORKING45: Shared actual 3285 source-known BASE context slots/eleven members/eight admitted objects, counted once for both subjects; full listed native scopes and existing complete Dust03 report reinspection receipted. No new global unique-primary/full-source/ruby/image/admission/independent credit.",
+      "substantive_responsibility": "Mediation and practical correction coexist with pressure, mistaken assumptions and institutional pay constraints. CURRENT WORKING22: A police official's account of teleport delivery and avoiding vacation interruption is attributed evidence, not direct present-scene agency or unlimited transport. Earlier court chase/misdirection retains actual timing and role fit. CURRENT WORKING31: MAIN15 officer reports her rushed tearful visit with Claire letter, current office burden and Teleport help; Kazuma relays his letters. The same remote episode supplies no fully watched independent Rain/Claire meeting. CURRENT WORKING45: Own social repair, small-house/pay/accountability pressures, knowledge/protest and actual mistakes, safe-aim constraints, informed compromised compliance, ordinary aspirations and actor/controller boundaries earn a distinct five-rule provisional model. Three first bodies retain generic official/subordinate rivals, a designed cost contrast and one unmatched primed compliance case.",
+      "gaps": "Containing exact publication/readback/source-HK-final gate and fresh reload remain. Broad unfamiliar-context reliability, precise weights/thresholds and Japanese generation remain unproved; generic-role/near-canonical rivals and actual first-body limitations remain. No independent score/confidence gain. Designated curation/evaluation and full program continue.",
+      "disposition_status": "SCOPED_TIER3_COHORT11_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
       "independent_observation_count": null,
       "prior_gap_history_working21": "Normalize English retrieval variants with preferred Rain; retain source spellings and scope; no complete generic guardian model. Preserveownagency/wordsanddistinctknowledge,notsharedcommonsensepersona;fullall-sourcenativededup/modelidentifiabilitystilldue.",
       "current_scope_asof_working22": "MAIN01–14 excluded full gates closed;MAIN15published9e0000b3/9096remote paths/35changedstreams exact, source352fulltests passed andhousekeepingNO_OP verified;finalaudit running. MAIN16–17excluded unadmitted. FullYORI01–04derivative reports actuallyreceived; boundedMAIN02/YORI04Anna join separatelyrecorded.",
@@ -266,7 +283,24 @@
       "cohort05_current_evidence_qualification": "Complete MAIN10/11 reports distinguish greeting, private drugging-plan participation, practical farewell intervention, financial/obligation bargaining and memory-potion procedure.",
       "prior_gap_history_working30": "Preserve own choices and constraints. A plan is not a completed drug administration unless source establishes it; no interchangeable court-servant psychology or global incompetence.",
       "current_scope_asof_working31": "All17 main excluded,19 supplemental and5mixed declared source programs remain closed. Current complete main analytical-derivative review is MAIN01-17 (MAIN17 received earlier out of order); receipts49-52 finishMAIN13-16. Later checkpoints/earlier prospective reconciliation/current ledger and separate supporting-register consolidation, final census/artifacts/expanded models/curation/release remain active. No new source/whole-native/ruby/image/independent-test credit from derivative receiving. Current157qualified audit rows are not final individual population; global percentage null.",
-      "cohort06_current_evidence_qualification": "Current complete MAIN13-16 analytical receiving with exact separate native scope where receipted; historical forecasts and earlier published scoped models/gates remain unchanged. Full independent-event/census closure remains open."
+      "cohort06_current_evidence_qualification": "Current complete MAIN13-16 analytical receiving with exact separate native scope where receipted; historical forecasts and earlier published scoped models/gates remain unchanged. Full independent-event/census closure remains open.",
+      "prior_targeted_fields_before_cohort11": {
+        "character": "Rain / Rein",
+        "identity": "レイン; distinct from リーン",
+        "likely_tier": "2 candidate",
+        "priority": "Next cohort",
+        "evidence_distribution": "MAIN06 native introduction; CONTEXP02 native; DUST03/04; MASK native. WholeMASKU015518Pactualroyalwork/risks/fees/ordinaryknowledge/individualcorrections. Complete CONTEXP02 report received; current native recheck evidence applies only to named actual windows, not every reported scene. CURRENT WORKING22: MAIN15C2current accepted-native guarantor/teleport report precision; inheritedDust03/royalcourt evidence. CURRENT WORKING29: Complete MAIN10/11 reports distinguish greeting, private drugging-plan participation, practical farewell intervention, financial/obligation bargaining and memory-potion procedure. CURRENT WORKING31: Current complete MAIN13-MAIN16 accepted report review, receipts49-52; derivative claims retain original access planes. Targeted native confirmations are separately pinned, with no new whole-source/independent-test credit.",
+        "substantive_responsibility": "Mediation and practical correction coexist with pressure, mistaken assumptions and institutional pay constraints. CURRENT WORKING22: A police official's account of teleport delivery and avoiding vacation interruption is attributed evidence, not direct present-scene agency or unlimited transport. Earlier court chase/misdirection retains actual timing and role fit. CURRENT WORKING31: MAIN15 officer reports her rushed tearful visit with Claire letter, current office burden and Teleport help; Kazuma relays his letters. The same remote episode supplies no fully watched independent Rain/Claire meeting.",
+        "gaps": "Preserve own choices and constraints. A plan is not a completed drug administration unless source establishes it; no interchangeable court-servant psychology or global incompetence. CURRENT WORKING31 QUALIFICATION: Keep distinct from Leen and generic royal staff. Tears/visit are officer report, no omniscient motive or newly performed prior drug plan; own decision/voice consolidation remains.",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort11_current_artifacts": {
+        "monograph": "series/konosuba/05 Specialist Synthesis/KONOSUBA_RAIN_CHARACTER_MONOGRAPH.md",
+        "model": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_RAIN_RECONSTRUCTION_MODEL.md",
+        "evidence_index": "series/konosuba/08 Evidence and Indexes/KONOSUBA_RAIN_EVIDENCE_INDEX.md"
+      },
+      "cohort11_actual_receiving03_sha256": "c3f66f54428441ff35d993d9dca80b7d93427f287bb6f2ab2d2565649e69ef8c",
+      "cohort11_semantic_receiving_sha256": "c5a450f637f6bbdb1a3801b074680a2acd23e6e276f6472165d9c7e4a93eb03b"
     },
     {
       "character": "Prince Levi / Revi",
@@ -1305,15 +1339,15 @@
       "gaps": "Single transaction can justify a bounded profile if needed, not an automatic mechanism model; no name, price amount, full business history, returned item or accepted repayment inferred."
     },
     {
-      "priority": "Earned monograph-only subject; no automatically imposed model",
-      "disposition_status": "SCOPED_TIER2_MONOGRAPH_COHORT10_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+      "priority": "Scoped monograph gate closed; designated curation and wider program active",
+      "disposition_status": "SCOPED_TIER2_MONOGRAPH_COHORT10_PUBLISHED_FULL_GATE_CLOSED",
       "independent_observation_count": null,
       "character": "Nos (ノス)",
       "identity": "Nos/ノス, high-confidence joined MAIN17 castle knight and DUST07 police-front swordsman by name, role/self-coaching, missing armor, destination and castle complaint conjunction. Exact species remains source-qualified.",
-      "likely_tier": "2, scoped monograph semantically received; containing publication pending",
+      "likely_tier": "2, scoped cohort10 monograph full gate closed; no separate model",
       "evidence_distribution": "Complete Dust07 report and nativeU013205-260. CURRENT WORKING24: Existing DUST07 native/report context remains exact; current MAIN17 completeC1/receivedC2 directly names a castle knight ノス. CURRENT WORKING42:Actual MAIN17U011P403-591/U012P1-130 plus DUST07U013P205-260 BASE views; known-source rechecks, no full/independent credit.",
       "substantive_responsibility": "Own angry disorientation, knightly appraisal/self-complaint, actual sword violence/skill and armor-loss complaint condition actual choices. Dust protects injured police and wins through a local opening. CURRENT WORKING24: The same-kana MAIN17 knight is provisionally tracked as an episode identity with its own observed choices and unknown later fate. This is a retrieval collision requiring proof, not a second final individual or an automatic cross-source merge. CURRENT WORKING42:Own knightly self-script, comrade trust/distress, response to correction, retained formidable skill, local situational inference, actual threats and post-transfer disorientation supply concentrated individual depth. Dense context can earnTier2 without appearance quota; generative reliability is not thereby earned.",
-      "gaps": "Containing publication/source-HK-final gate and fresh reload remain. Ordinary life, long-term change and novel-context generative mechanisms weakly identified; no separate model earned. Identity high-confidence inference, not explicit cross-volume narrator declaration; exact species/enchantment and later jailing unknown. Full program remains.",
+      "gaps": "Current scoped gate and fresh authority reload closed. Ordinary life, long-term change and unfamiliar-context generative mechanisms weakly identified; no separate model earned. Identity remains high-confidence inference; exact species/enchantment and later jailing unknown. Designated curation and full program remain.",
       "prior_gap_history_working23": "Exact teleport cause, wider history and watched imprisonment unshown. No universal coward/idiot label.",
       "current_scope_asof_working24": "All seventeen main excluded-component source programs, nineteen supplemental editions and five mixed/reference programs have closed exact publication gates at their declared scopes. MAIN17 source49dbe1b11b22a4007c33c9d3bea16c7877006bc1; all9,132remote paths/35changedstreams exact; full source/HK/final actual-source audit/status and fresh962authority reload verified. Main source-program closure is not full census/synthesis/model/curation/release closure. No MAIN18 admission; final individual denominator and global percentage remain unresolved.",
       "prior_targeted_fields_before_cohort10": {
@@ -1330,6 +1364,31 @@
         "monograph": "series/konosuba/05 Specialist Synthesis/KONOSUBA_NOS_CHARACTER_MONOGRAPH.md",
         "evidence_index": "series/konosuba/08 Evidence and Indexes/KONOSUBA_NOS_EVIDENCE_INDEX.md",
         "provenance": "series/konosuba/08 Evidence and Indexes/KONOSUBA_NOS_NATIVE_AND_DERIVATIVE_PROVENANCE_01.json"
+      },
+      "cohort10_publication_pending_at_authorship_history": {
+        "likely_tier": "2, scoped monograph semantically received; containing publication pending",
+        "priority": "Earned monograph-only subject; no automatically imposed model",
+        "disposition_status": "SCOPED_TIER2_MONOGRAPH_COHORT10_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+        "gaps": "Containing publication/source-HK-final gate and fresh reload remain. Ordinary life, long-term change and novel-context generative mechanisms weakly identified; no separate model earned. Identity high-confidence inference, not explicit cross-volume narrator declaration; exact species/enchantment and later jailing unknown. Full program remains."
+      },
+      "cohort10_publication_resolution": {
+        "status": "SCOPED_NOS_TIER2_THREE_TIER1_ONE_TIER0_AND_ALIAS_FULL_EXACT_SOURCE_GATE_CLOSED",
+        "source": "6958c3726a1dc3f9fb505915508af32a2f7e7bae",
+        "tree": "c5099aabc11179acdd12299c018de5c75fd4cb54",
+        "closed_utc": "2026-10-20T07:30:16.505297+00:00",
+        "gate_path": "09 Audits and Manifests/KONOSUBA_NOSCOHORT01_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "d77fae35a118b459b5ca1059f66caf193dd1192b60adb7fc271347dfd0f51b2e",
+        "source_run": 39385391510,
+        "housekeeping_run": 39385943214,
+        "final_run": 39385994786,
+        "all_remote_paths": 9221,
+        "all_changed_streams": 25,
+        "full_tests_source_and_final": 385,
+        "fresh_project_reload_paths": 1045,
+        "current_model_bodies": 15,
+        "new_model_bodies": 0,
+        "nine_scoped_model_subjects_nine_bounded_profiles_one_monograph_only": true,
+        "full_program_complete": false
       }
     },
     {
@@ -1878,12 +1937,12 @@
     {
       "character": "Pierre / ピエール (MAIN16 street performer)",
       "identity": "Self-announced ピエール; claimed leading capital performer, reputation unverified.",
-      "likely_tier": "1, scoped bounded profile semantically received; containing publication pending",
+      "likely_tier": "1, scoped bounded profile published/full exact-source gate closed",
       "priority": "Discovery",
       "evidence_distribution": "MAIN16: complete 18 newly admitted resources/121 P with ruby and residuals and 28 images, sealed before coding; current 1,395 unique accepted-principal BASE-TEXT P across ten members, six complete at base-text scope. No new principal pass, retained-ruby or independent-validation credit. New bonus U023 P13–50; narrator follow-up P51–57. CURRENT WORKING42:Whole bonusU023P1-60 actually reread at BASE scope; no new whole-edition/ruby/image/independent credit.",
       "substantive_responsibility": "Actually advertises, gathers an audience, introduces finite sweets and performs the visible disappearance. Misreads fear as approval, proceeds despite objections, then retracts the no-trick formula and explains Teleport when police state their reason. Still led away. Goals, reputation, audience assumptions, adjustment and real institutional cost are available for a bounded profile.",
       "gaps": "Bind own reputation claim, actual show, fear misreading, attempted correction and police removal. Helper Teleport is his explanation; no known destination/return, conviction/release or proven MAIN03alias. Dense context does not alone identify stable cross-context mechanisms.",
-      "disposition_status": "SCOPED_TIER1_PROFILE_COHORT10_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER1_PROFILE_COHORT10_PUBLISHED_FULL_GATE_CLOSED",
       "independent_observation_count": null,
       "current_scope_asof_working23": "MAIN01–15 excluded full gates closed. MAIN16 published 870756ef7cfeb3d14f395deac59be65e909ba9a3; all 9,114 remote paths/35 changed streams verified and exact-index author preflight passed. Source/housekeeping/final audit gate remains pending verification in this version. MAIN17 excluded not admitted. Full individual census, earned artifacts, expanded synthesis/versioned models, curation/integration/release continue.",
       "prior_targeted_fields_before_cohort10": {
@@ -1900,6 +1959,31 @@
       "cohort10_nonmerge_with_MAIN03_performer": {
         "status": "NO_DEMONSTRATED_ALIAS_JOIN_SEPARATE_EPISODE_IDENTITIES",
         "basis": "MAIN16U023 self-namesPierre/claims capital rank; no personal continuity reference to MAIN03Aqua-reported performer. Shared profession insufficient; distinct-person certainty also unearned."
+      },
+      "cohort10_publication_pending_at_authorship_history": {
+        "likely_tier": "1, scoped bounded profile semantically received; containing publication pending",
+        "priority": "Discovery",
+        "disposition_status": "SCOPED_TIER1_PROFILE_COHORT10_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+        "gaps": "Bind own reputation claim, actual show, fear misreading, attempted correction and police removal. Helper Teleport is his explanation; no known destination/return, conviction/release or proven MAIN03alias. Dense context does not alone identify stable cross-context mechanisms."
+      },
+      "cohort10_publication_resolution": {
+        "status": "SCOPED_NOS_TIER2_THREE_TIER1_ONE_TIER0_AND_ALIAS_FULL_EXACT_SOURCE_GATE_CLOSED",
+        "source": "6958c3726a1dc3f9fb505915508af32a2f7e7bae",
+        "tree": "c5099aabc11179acdd12299c018de5c75fd4cb54",
+        "closed_utc": "2026-10-20T07:30:16.505297+00:00",
+        "gate_path": "09 Audits and Manifests/KONOSUBA_NOSCOHORT01_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "d77fae35a118b459b5ca1059f66caf193dd1192b60adb7fc271347dfd0f51b2e",
+        "source_run": 39385391510,
+        "housekeeping_run": 39385943214,
+        "final_run": 39385994786,
+        "all_remote_paths": 9221,
+        "all_changed_streams": 25,
+        "full_tests_source_and_final": 385,
+        "fresh_project_reload_paths": 1045,
+        "current_model_bodies": 15,
+        "new_model_bodies": 0,
+        "nine_scoped_model_subjects_nine_bounded_profiles_one_monograph_only": true,
+        "full_program_complete": false
       }
     },
     {
@@ -1910,7 +1994,7 @@
       "evidence_distribution": "MAIN16: complete 18 newly admitted resources/121 P with ruby and residuals and 28 images, sealed before coding; current 1,395 unique accepted-principal BASE-TEXT P across ten members, six complete at base-text scope. No new principal pass, retained-ruby or independent-validation credit. Bonus U023 P28/32/37–50.",
       "substantive_responsibility": "Actual standing beside Pierre and disappearance under the cloak; later capability account is Pierre's. The source does not provide her own words, prior accepted task scope or final destination.",
       "gaps": "Keep actor/source locators; own speech, motivation, destination/return and independently shown spell remain absent. No model or dedicated monograph merely for a vanished assistant.",
-      "disposition_status": "SCOPED_TIER0_SCENE_INDEX_NO_DEDICATED_PROFILE",
+      "disposition_status": "SCOPED_TIER0_SCENE_INDEX_COHORT10_PUBLISHED_FULL_GATE_CLOSED",
       "independent_observation_count": null,
       "current_scope_asof_working23": "MAIN01–15 excluded full gates closed. MAIN16 published 870756ef7cfeb3d14f395deac59be65e909ba9a3; all 9,114 remote paths/35 changed streams verified and exact-index author preflight passed. Source/housekeeping/final audit gate remains pending verification in this version. MAIN17 excluded not admitted. Full individual census, earned artifacts, expanded synthesis/versioned models, curation/integration/release continue.",
       "prior_targeted_fields_before_cohort10": {
@@ -1923,17 +2007,42 @@
         "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
       },
       "cohort10_actual_native_receiving_sha256": "93f7ab7ba104b66f1c83ed6f26df0e30e111797210f47b550e99b207236b0cbe",
-      "cohort10_index_home": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md"
+      "cohort10_index_home": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "cohort10_publication_pending_at_authorship_history": {
+        "likely_tier": "0 indexed scene actor at currently consolidated evidence",
+        "priority": "Discovery",
+        "disposition_status": "SCOPED_TIER0_SCENE_INDEX_NO_DEDICATED_PROFILE",
+        "gaps": "Keep actor/source locators; own speech, motivation, destination/return and independently shown spell remain absent. No model or dedicated monograph merely for a vanished assistant."
+      },
+      "cohort10_publication_resolution": {
+        "status": "SCOPED_NOS_TIER2_THREE_TIER1_ONE_TIER0_AND_ALIAS_FULL_EXACT_SOURCE_GATE_CLOSED",
+        "source": "6958c3726a1dc3f9fb505915508af32a2f7e7bae",
+        "tree": "c5099aabc11179acdd12299c018de5c75fd4cb54",
+        "closed_utc": "2026-10-20T07:30:16.505297+00:00",
+        "gate_path": "09 Audits and Manifests/KONOSUBA_NOSCOHORT01_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "d77fae35a118b459b5ca1059f66caf193dd1192b60adb7fc271347dfd0f51b2e",
+        "source_run": 39385391510,
+        "housekeeping_run": 39385943214,
+        "final_run": 39385994786,
+        "all_remote_paths": 9221,
+        "all_changed_streams": 25,
+        "full_tests_source_and_final": 385,
+        "fresh_project_reload_paths": 1045,
+        "current_model_bodies": 15,
+        "new_model_bodies": 0,
+        "nine_scoped_model_subjects_nine_bounded_profiles_one_monograph_only": true,
+        "full_program_complete": false
+      }
     },
     {
       "character": "Unnamed mother seeking Aqua's water (MAIN16 bonus)",
       "identity": "Woman carrying a bottle, identifies Kazuma as Aqua's companion; child mentioned separately.",
-      "likely_tier": "1, scoped bounded profile semantically received; containing publication pending",
+      "likely_tier": "1, scoped bounded profile published/full exact-source gate closed",
       "priority": "Discovery",
       "evidence_distribution": "MAIN16: complete 18 newly admitted resources/121 P with ruby and residuals and 28 images, sealed before coding; current 1,395 unique accepted-principal BASE-TEXT P across ten members, six complete at base-text scope. No new principal pass, retained-ruby or independent-validation credit. Bonus U023 P1–12.",
       "substantive_responsibility": "Own specific request, reported child-care benefit, reaction to unavailable seller and actual departure preserve agency. Routine water sale/benefit are her report, not a newly observed Aqua sale or independently verified clinical mechanism.",
       "gaps": "No invented name, broader family history, own medical expertise or treatment advice. Keep direct request and reported benefit distinct.",
-      "disposition_status": "SCOPED_TIER1_PROFILE_COHORT10_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER1_PROFILE_COHORT10_PUBLISHED_FULL_GATE_CLOSED",
       "independent_observation_count": null,
       "current_scope_asof_working23": "MAIN01–15 excluded full gates closed. MAIN16 published 870756ef7cfeb3d14f395deac59be65e909ba9a3; all 9,114 remote paths/35 changed streams verified and exact-index author preflight passed. Source/housekeeping/final audit gate remains pending verification in this version. MAIN17 excluded not admitted. Full individual census, earned artifacts, expanded synthesis/versioned models, curation/integration/release continue.",
       "prior_targeted_fields_before_cohort10": {
@@ -1946,7 +2055,32 @@
         "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
       },
       "cohort10_actual_native_receiving_sha256": "93f7ab7ba104b66f1c83ed6f26df0e30e111797210f47b550e99b207236b0cbe",
-      "cohort10_bounded_profile_home": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md"
+      "cohort10_bounded_profile_home": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "cohort10_publication_pending_at_authorship_history": {
+        "likely_tier": "1, scoped bounded profile semantically received; containing publication pending",
+        "priority": "Discovery",
+        "disposition_status": "SCOPED_TIER1_PROFILE_COHORT10_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+        "gaps": "No invented name, broader family history, own medical expertise or treatment advice. Keep direct request and reported benefit distinct."
+      },
+      "cohort10_publication_resolution": {
+        "status": "SCOPED_NOS_TIER2_THREE_TIER1_ONE_TIER0_AND_ALIAS_FULL_EXACT_SOURCE_GATE_CLOSED",
+        "source": "6958c3726a1dc3f9fb505915508af32a2f7e7bae",
+        "tree": "c5099aabc11179acdd12299c018de5c75fd4cb54",
+        "closed_utc": "2026-10-20T07:30:16.505297+00:00",
+        "gate_path": "09 Audits and Manifests/KONOSUBA_NOSCOHORT01_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "d77fae35a118b459b5ca1059f66caf193dd1192b60adb7fc271347dfd0f51b2e",
+        "source_run": 39385391510,
+        "housekeeping_run": 39385943214,
+        "final_run": 39385994786,
+        "all_remote_paths": 9221,
+        "all_changed_streams": 25,
+        "full_tests_source_and_final": 385,
+        "fresh_project_reload_paths": 1045,
+        "current_model_bodies": 15,
+        "new_model_bodies": 0,
+        "nine_scoped_model_subjects_nine_bounded_profiles_one_monograph_only": true,
+        "full_program_complete": false
+      }
     },
     {
       "character": "Unnamed dungeon vampire owner (MAIN16 training trip)",
@@ -2124,6 +2258,31 @@
         "monograph": "series/konosuba/05 Specialist Synthesis/KONOSUBA_NOS_CHARACTER_MONOGRAPH.md",
         "evidence_index": "series/konosuba/08 Evidence and Indexes/KONOSUBA_NOS_EVIDENCE_INDEX.md",
         "provenance": "series/konosuba/08 Evidence and Indexes/KONOSUBA_NOS_NATIVE_AND_DERIVATIVE_PROVENANCE_01.json"
+      },
+      "cohort10_publication_pending_at_authorship_history": {
+        "likely_tier": "Episode/alias route; no separate individual tier",
+        "priority": "Discovery",
+        "disposition_status": "EPISODE_ALIAS_JOINED_TO_SCOPED_NOS_SUBJECT_NO_EXTRA_PERSON",
+        "gaps": "Keep episode details, exact source knowledge and historical open-join label recoverable. No second model/profile or final-person denominator from this alias row; source-local old outcome and actual later police encounter remain different knowledge planes."
+      },
+      "cohort10_publication_resolution": {
+        "status": "SCOPED_NOS_TIER2_THREE_TIER1_ONE_TIER0_AND_ALIAS_FULL_EXACT_SOURCE_GATE_CLOSED",
+        "source": "6958c3726a1dc3f9fb505915508af32a2f7e7bae",
+        "tree": "c5099aabc11179acdd12299c018de5c75fd4cb54",
+        "closed_utc": "2026-10-20T07:30:16.505297+00:00",
+        "gate_path": "09 Audits and Manifests/KONOSUBA_NOSCOHORT01_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "d77fae35a118b459b5ca1059f66caf193dd1192b60adb7fc271347dfd0f51b2e",
+        "source_run": 39385391510,
+        "housekeeping_run": 39385943214,
+        "final_run": 39385994786,
+        "all_remote_paths": 9221,
+        "all_changed_streams": 25,
+        "full_tests_source_and_final": 385,
+        "fresh_project_reload_paths": 1045,
+        "current_model_bodies": 15,
+        "new_model_bodies": 0,
+        "nine_scoped_model_subjects_nine_bounded_profiles_one_monograph_only": true,
+        "full_program_complete": false
       }
     },
     {
@@ -2198,12 +2357,12 @@
     {
       "character": "Unnamed street performer (MAIN03; Pierre join open)",
       "identity": "Unnamed MAIN03 performer reconstructed through Megumin report and Aqua reported gift/intention; no direct personal performer turn witnessed by Kazuma in this range.",
-      "likely_tier": "1, scoped bounded profile semantically received; containing publication pending",
+      "likely_tier": "1, scoped bounded profile published/full exact-source gate closed",
       "priority": "Discovery",
       "evidence_distribution": "Complete MAIN03 report34; current native join not yet received. CURRENT WORKING42:Actual native MAIN03U017P548-638:Megumin report566,Aqua report630,visible props631,Kazuma inference632-633. Frozen MAIN03report163/167/382 outcome/source-plane qualification prepared separately.",
       "substantive_responsibility": "Reported livelihood appraisal, props transfer account and intention to return to family farming matter at their mediated plane. Aqua visibly holds the props; the handover, departure and new work are not directly narrated. Her good-fortune account and Kazuma harmful-career inference remain separate.",
       "gaps": "No completed farming/terminal livelihood claim. No explicit alias join to MAIN16Pierre; retain separate episode keys while exact person identity is unresolved. External current qualification must preserve original MAIN03report bytes and historical scores.",
-      "disposition_status": "SCOPED_TIER1_PROFILE_COHORT10_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER1_PROFILE_COHORT10_PUBLISHED_FULL_GATE_CLOSED",
       "independent_observation_count": null,
       "current_scope_asof_working24": "All seventeen main excluded-component source programs, nineteen supplemental editions and five mixed/reference programs have closed exact publication gates at their declared scopes. MAIN17 source49dbe1b11b22a4007c33c9d3bea16c7877006bc1; all9,132remote paths/35changedstreams exact; full source/HK/final actual-source audit/status and fresh962authority reload verified. Main source-program closure is not full census/synthesis/model/curation/release closure. No MAIN18 admission; final individual denominator and global percentage remain unresolved.",
       "prior_targeted_fields_before_cohort10": {
@@ -2217,7 +2376,32 @@
       },
       "cohort10_actual_native_receiving_sha256": "93f7ab7ba104b66f1c83ed6f26df0e30e111797210f47b550e99b207236b0cbe",
       "cohort10_bounded_profile_home": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
-      "cohort10_current_MAIN03_qualification": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN03_PERFORMER_OUTCOME_AND_SOURCE_PLANE_QUALIFICATION_01.json"
+      "cohort10_current_MAIN03_qualification": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN03_PERFORMER_OUTCOME_AND_SOURCE_PLANE_QUALIFICATION_01.json",
+      "cohort10_publication_pending_at_authorship_history": {
+        "likely_tier": "1, scoped bounded profile semantically received; containing publication pending",
+        "priority": "Discovery",
+        "disposition_status": "SCOPED_TIER1_PROFILE_COHORT10_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+        "gaps": "No completed farming/terminal livelihood claim. No explicit alias join to MAIN16Pierre; retain separate episode keys while exact person identity is unresolved. External current qualification must preserve original MAIN03report bytes and historical scores."
+      },
+      "cohort10_publication_resolution": {
+        "status": "SCOPED_NOS_TIER2_THREE_TIER1_ONE_TIER0_AND_ALIAS_FULL_EXACT_SOURCE_GATE_CLOSED",
+        "source": "6958c3726a1dc3f9fb505915508af32a2f7e7bae",
+        "tree": "c5099aabc11179acdd12299c018de5c75fd4cb54",
+        "closed_utc": "2026-10-20T07:30:16.505297+00:00",
+        "gate_path": "09 Audits and Manifests/KONOSUBA_NOSCOHORT01_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "d77fae35a118b459b5ca1059f66caf193dd1192b60adb7fc271347dfd0f51b2e",
+        "source_run": 39385391510,
+        "housekeeping_run": 39385943214,
+        "final_run": 39385994786,
+        "all_remote_paths": 9221,
+        "all_changed_streams": 25,
+        "full_tests_source_and_final": 385,
+        "fresh_project_reload_paths": 1045,
+        "current_model_bodies": 15,
+        "new_model_bodies": 0,
+        "nine_scoped_model_subjects_nine_bounded_profiles_one_monograph_only": true,
+        "full_program_complete": false
+      }
     },
     {
       "character": "Unnamed transfer-processing angel (MAIN01)",
@@ -2745,9 +2929,11 @@
     "Komekko overallcohort07 full publication gate closed",
     "Hoost overallcohort08 full publication gate closed",
     "Levi overallcohort09 full publication gate closed",
-    "Nos cohort10 Tier2 monograph semantic receiving complete; publication pending; no distinct model"
+    "Nos cohort10 Tier2 monograph full publication gate closed; no distinct model",
+    "Claire cohort11 scopedTier3 semantic receiving complete; publication pending",
+    "Rain cohort11 scopedTier3 semantic receiving complete; publication pending"
   ],
-  "current_actual_individual_audit_scope": "Full ten rolling responsibilities actually received at current de46 unchanged source bodies (eleven physical files). Eleven separate trial-party/replay PC leads replace no history; three aggregate rows are explicitly non-individual, broader discovery bucket remains open. All-source event/alias/incidental reconciliation and earned artifact/synthesis/versioned-model/release work continue. Levi1048BASE/EXP03trial305BASE rechecks are retrospective and do not increment prior unique native totals without overlap union. Six profiles and one new provisional model are scoped artifact dispositions; five replay PC tiers remain open. Cohort10 receives526known-source BASEcontextslots,375Nos and151performer/helper/mother, with high-confidence Nos episode join and no current source credit inflation. Full ten-ledger receiving preserved; current appendices are new own analysis.",
+  "current_actual_individual_audit_scope": "Complete current ten rolling responsibilities received in eleven physical files at disclosed literal/exact prior-reuse scopes, with later own cohort appendices. Shared royal recheck covers3285known-source BASEcontextslots/eleven members/eight admitted objects once; no global unique-primary/full/ruby/image/admission/independent increment. Two target rows only;166 others exact. Historical group/episode/open-bucket records are not extra final people. Full event/alias/incidental dispositions and earned artifact/synthesis/versioned-model/curation/integration/release work remain.",
   "historical_integrity": "MG02-I01/I02 through MG05, original blank fields, CP outcomes, letters-as-NT and preYORI04SEC01 scope remain unchanged. New source-known comparisons are retrospective; hypotheticals are not source validation.",
   "current_receipt_pins": [
     {
@@ -2842,20 +3028,16 @@
   },
   "change_controls": {
     "targeted_prior_row_indices": [
-      78,
-      123,
-      124,
-      125,
-      137,
-      143
+      7,
+      8
     ],
-    "untouched_prior_rows_exact": 162,
+    "untouched_prior_rows_exact": 166,
     "new_rows": 0,
     "current_rows_not_final_population": 168,
-    "one_existing_episode_label_revised_with_history": true,
-    "three_historical_group_rows_and_one_episode_alias_not_extra_people": true,
-    "fifteen_current_models_unchanged": true,
-    "new_reconstruction_models": 0,
+    "fifteen_entering_models_unchanged": true,
+    "new_distinct_reconstruction_models": 2,
+    "proposed_current_models_after_adoption": 17,
+    "new_source_admission": false,
     "global_census_closed": false,
     "final_tiers_assigned": false,
     "global_completion_percentage": null
@@ -3537,10 +3719,105 @@
     "Unnamed performance helper (MAIN16 Pierre act)"
   ],
   "cohort10_current_receiving": {
-    "status": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+    "status": "SCOPED_SEMANTIC_AND_FULL_EXACT_SOURCE_GATE_CLOSED",
     "subject_dispositions": "OneTier2monograph/threeTier1profiles/oneTier0index/oneepisodealias; no new model.",
     "actual_native_receipt_sha256": "93f7ab7ba104b66f1c83ed6f26df0e30e111797210f47b550e99b207236b0cbe",
     "semantic_receiving_sha256": "7d25bf55d66eb98542734e7fc4fdb6459c3bbd7c7a10c4ad02624a64d4e02020",
     "original_MAIN03_report_sha256_preserved": "2f081277c91caf13ff7964ca0ef1341cab5508275e2a4ff9e1da25ec16bca5d6"
+  },
+  "historical_scope_at_cohort10_semantic_adoption": {
+    "scope": "Cohort10 Nos Tier2 monograph and three bounded profiles/source-plane qualification semantically received/publication pending; nine priorTier3subjects/15models closed and exact.168working rows, historical groups/episode alias/open bucket not a final population; full program active.",
+    "scoped_tiers_assigned": [
+      "Iris cohort01 full publication gate closed",
+      "Yunyun cohort02 full publication gate closed",
+      "Vanir overallcohort03 full publication gate closed",
+      "Wiz overallcohort04 full publication gate closed",
+      "Chris/Eris overallcohort05 full publication gate closed",
+      "Dust overallcohort06 full publication gate closed",
+      "Komekko overallcohort07 full publication gate closed",
+      "Hoost overallcohort08 full publication gate closed",
+      "Levi overallcohort09 full publication gate closed",
+      "Nos cohort10 Tier2 monograph semantic receiving complete; publication pending; no distinct model"
+    ],
+    "cohort10_current_receiving": {
+      "status": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+      "subject_dispositions": "OneTier2monograph/threeTier1profiles/oneTier0index/oneepisodealias; no new model.",
+      "actual_native_receipt_sha256": "93f7ab7ba104b66f1c83ed6f26df0e30e111797210f47b550e99b207236b0cbe",
+      "semantic_receiving_sha256": "7d25bf55d66eb98542734e7fc4fdb6459c3bbd7c7a10c4ad02624a64d4e02020",
+      "original_MAIN03_report_sha256_preserved": "2f081277c91caf13ff7964ca0ef1341cab5508275e2a4ff9e1da25ec16bca5d6"
+    }
+  },
+  "cohort10_publication_resolution": {
+    "status": "SCOPED_NOS_TIER2_THREE_TIER1_ONE_TIER0_AND_ALIAS_FULL_EXACT_SOURCE_GATE_CLOSED",
+    "source": "6958c3726a1dc3f9fb505915508af32a2f7e7bae",
+    "tree": "c5099aabc11179acdd12299c018de5c75fd4cb54",
+    "closed_utc": "2026-10-20T07:30:16.505297+00:00",
+    "gate_path": "09 Audits and Manifests/KONOSUBA_NOSCOHORT01_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "d77fae35a118b459b5ca1059f66caf193dd1192b60adb7fc271347dfd0f51b2e",
+    "source_run": 39385391510,
+    "housekeeping_run": 39385943214,
+    "final_run": 39385994786,
+    "all_remote_paths": 9221,
+    "all_changed_streams": 25,
+    "full_tests_source_and_final": 385,
+    "fresh_project_reload_paths": 1045,
+    "current_model_bodies": 15,
+    "new_model_bodies": 0,
+    "nine_scoped_model_subjects_nine_bounded_profiles_one_monograph_only": true,
+    "full_program_complete": false
+  },
+  "cohort10_post_gate_controls": {
+    "six_targeted_status_rows_only_updated": true,
+    "other162_rows_exact": true,
+    "all_fifteen_models_exact": true,
+    "global_census_closed": false,
+    "final_tiers_assigned": false,
+    "percentage": null
+  },
+  "prior_current_metadata_before_cohort11": {
+    "scope": "Cohorts01-10: nine scoped Tier3 model subjects, nine narrow profiles, one Nos Tier2 monograph-only subject and an incidental index have closed exact publication gates at their scopes.168 working records include groups/episode alias/open bucket; final census/tiers and full program remain open.",
+    "scoped_tiers_assigned": [
+      "Iris cohort01 full publication gate closed",
+      "Yunyun cohort02 full publication gate closed",
+      "Vanir overallcohort03 full publication gate closed",
+      "Wiz overallcohort04 full publication gate closed",
+      "Chris/Eris overallcohort05 full publication gate closed",
+      "Dust overallcohort06 full publication gate closed",
+      "Komekko overallcohort07 full publication gate closed",
+      "Hoost overallcohort08 full publication gate closed",
+      "Levi overallcohort09 full publication gate closed",
+      "Nos cohort10 Tier2 monograph full publication gate closed; no distinct model"
+    ],
+    "current_actual_individual_audit_scope": "Full ten rolling responsibilities actually received at current de46 unchanged source bodies (eleven physical files). Eleven separate trial-party/replay PC leads replace no history; three aggregate rows are explicitly non-individual, broader discovery bucket remains open. All-source event/alias/incidental reconciliation and earned artifact/synthesis/versioned-model/release work continue. Levi1048BASE/EXP03trial305BASE rechecks are retrospective and do not increment prior unique native totals without overlap union. Six profiles and one new provisional model are scoped artifact dispositions; five replay PC tiers remain open. Cohort10 receives526known-source BASEcontextslots,375Nos and151performer/helper/mother, with high-confidence Nos episode join and no current source credit inflation. Full ten-ledger receiving preserved; current appendices are new own analysis.",
+    "change_controls": {
+      "targeted_prior_row_indices": [
+        78,
+        123,
+        124,
+        125,
+        137,
+        143
+      ],
+      "untouched_prior_rows_exact": 162,
+      "new_rows": 0,
+      "current_rows_not_final_population": 168,
+      "one_existing_episode_label_revised_with_history": true,
+      "three_historical_group_rows_and_one_episode_alias_not_extra_people": true,
+      "fifteen_current_models_unchanged": true,
+      "new_reconstruction_models": 0,
+      "global_census_closed": false,
+      "final_tiers_assigned": false,
+      "global_completion_percentage": null
+    },
+    "pending": "Full all-individual/event/alias/incidental dispositions, further earned artifacts, seven expanded specialists and extended/full-series syntheses, six separate StageD principal-party-transfer revisions, designated curation/evaluation/integration and component/release/final-entry audits."
+  },
+  "cohort11_current_receiving": {
+    "status": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+    "subject_dispositions": "Two separate scopedTier3 model candidates with monographs/indexes; seven actual same-author hypothetical first bodies and disclosed defects.",
+    "actual_native_receiving03_sha256": "c3f66f54428441ff35d993d9dca80b7d93427f287bb6f2ab2d2565649e69ef8c",
+    "semantic_receiving_sha256": "c5a450f637f6bbdb1a3801b074680a2acd23e6e276f6472165d9c7e4a93eb03b",
+    "entering_models_exact": 15,
+    "new_models": 2,
+    "no_independent_or_accuracy_gain": true
   }
 }

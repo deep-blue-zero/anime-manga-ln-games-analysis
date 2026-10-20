@@ -423,3 +423,12 @@ Nos earns a scopedTier2 monograph, not an automatic reconstruction, scenario bat
 StageD feed: specific skill can coexist with information error and real contrary inference; a successful removal can export danger to an inadequate provider; late reported intention is not performed outcome; copied voice is not actor identity. MAIN03 external plane/outcome qualification preserves the original report and all historical judgments/scorecards/nulls. It narrows source certainty without repairing any failed Gen03/04/05 or held-out R1 outcome. No new model accuracy or confidence gain is claimed.
 
 Retrospective known-source consolidation; exact previous ledger bytes remain the prefix. No new whole-source/ruby/image/admission/independent-test credit or changed historical forecast, score or blank/null field.
+
+
+## Cohort11 — two source-informed candidates and seven first bodies — 2026-10-20T08:11:12.082088+00:00
+
+Claire and Rain each have a distinct provisional five-rule expanded model, with canonical adoption/publication pending and fifteen entering model bodies protected. These are secondary models, not any of the six outstanding Stage D principal/party/transfer successors. The shared 3,285 BASE context slots are known-source rechecks; no new prospective or independent trial follows.
+
+The persisted prebody contract binds models and packets before four Claire and three Rain first bodies. Claire's appeal pair changes a first decision but B invents an unsupplied council, retained as a defect. Her reader-only pair preserves the checked public arrangement without hidden knowledge, with different wording and no positive discrimination. Rain's bill pair changes authorization readiness, without a performed purchase. Her unmatched conflict case gives warning with attempted imposition; the prompt primes a flawed choice and supplies superior pressure. Generic/near-canonical rivals, overly coherent English and unknown thresholds remain. No separate runtime/judge, Japanese adequacy, source accuracy, capability grade or confidence gain is claimed. All historical Gen03/04/05 and R1 outcomes remain exact.
+
+Known admitted-source consolidation; prior ledger bytes remain the exact prefix. No new whole-source/ruby/image/admission/independent trial or changed frozen forecast, score, first body or blank/null field.

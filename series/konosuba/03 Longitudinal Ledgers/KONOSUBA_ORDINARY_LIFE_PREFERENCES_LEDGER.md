@@ -1265,3 +1265,12 @@ Pierre's advertised paid act, finite sweets, prestige claim and attempted explan
 Nos's combat self-regulatory script does not supply a broader household routine or complete ordinary preference set. That asymmetry limits the Tier2 account and any future model; it does not erase the dense evidence in his observed encounter.
 
 Retrospective known-source consolidation; exact previous ledger bytes remain the prefix. No new whole-source/ruby/image/admission/independent-test credit or changed historical forecast, score or blank/null field.
+
+
+## Cohort11 — particular company and perceived real cost — 2026-10-20T08:11:12.082088+00:00
+
+Claire values Iris-related talk, shared company and indulgence, with observed low alcohol tolerance in distinct settings and self-acknowledged nightly attention. Those facts do not establish a universal physiological law, romantic assent or complete routine. Rain helps make tea, makes local taste/price comments and explicitly minds being overlooked; no enduring favorite or complete domestic expertise follows. MAIN11 C1P30–44/86–92; DUST03 U013P6–40/458–467/503–504/641–645; MASK U015P443–449.
+
+Rain's fee accountability, family means, salary penalty, reward interest and actual product purchase differ. MASK anticipated finance criticism and DUST03 recognized memory projection return to one episode. The dream-party expenditure costs Dust and is reported under Rain's unreal-cost belief; it is not an equal gift from her own purse or proved knowing appropriation. Seller safety/dependency claims are not independently verified product efficacy. MASK U015P118–137; DUST03 U013P367–377/501–513/667–739/898–913/U014P12–34; CONTEXP02 U013P141.
+
+Known admitted-source consolidation; prior ledger bytes remain the exact prefix. No new whole-source/ruby/image/admission/independent trial or changed frozen forecast, score, first body or blank/null field.

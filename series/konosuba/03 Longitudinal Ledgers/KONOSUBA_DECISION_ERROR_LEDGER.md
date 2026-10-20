@@ -1853,3 +1853,12 @@ Nos accepts Pain's real pause instruction after striking Logia under a false voi
 The MAIN03 performer outcome requires an attributable plane correction: reported distress/intention and visible Aqua-held props do not establish directly witnessed departure, completed farm work or permanent ruin. Retain local externality and Kazuma inference rather than substituting either certainty or exoneration. Original report163/167/382 remains exact with an external qualification.
 
 Retrospective known-source consolidation; exact previous ledger bytes remain the prefix. No new whole-source/ruby/image/admission/independent-test credit or changed historical forecast, score or blank/null field.
+
+
+## Cohort11 — mixed appraisal and the action actually chosen — 2026-10-20T08:11:12.082088+00:00
+
+Claire's rank/class inference, own conditional alliance and missing armor condition differ from her real skill. Iris's protective-identity/affection cues can unsettle an objection, while actual meeting refusals and office limits defeat automatic assent. MAIN06 C1P466–638; MAIN10 C2P61–124; CONTEXP01 U013P381–417; CONTEXP02 U013P109–148; DUST03 U013P208–249/814–830.
+
+Rain can correct an ordinary fact and retain a norm objection; she can state a real risk and then comply. The MAIN10 lip-read sedation plan is unperformed by Rain in that episode; MAIN11 has actual warning, participation, Claire administration and later gaps. Exact erased set/duration/side effect remain unproved. Debt assumption is offered, not paid; the larger counterbid is interrupted. No ethical veto, highest-bid threshold or permanent learning cure is inferred. MAIN11 C1P558–633/C2P6–31/79–118; MASK U015P234–247/338–349.
+
+Known admitted-source consolidation; prior ledger bytes remain the exact prefix. No new whole-source/ruby/image/admission/independent trial or changed frozen forecast, score, first body or blank/null field.

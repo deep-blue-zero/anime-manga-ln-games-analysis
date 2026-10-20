@@ -1660,3 +1660,12 @@ Nos/ノス earns a concentrated Tier2 monograph and evidence index, with no auto
 **Unnamed Pierre assistant — Tier0 scene index, MAIN16U023P28/38–39/49.** Her position in the act and disappearance are narrated; Teleport ability is Pierre's explanation. Her own speech, motives, destination, return and independently witnessed spell remain unavailable. Preserve a distinct source-bound actor without inventing another profile, a completed harm or an alias for a named mage.
 
 Retrospective known-source consolidation; exact previous ledger bytes remain the prefix. No new whole-source/ruby/image/admission/independent-test credit or changed historical forecast, score or blank/null field.
+
+
+## Cohort11 — Claire and Rain as separate conditional actors — 2026-10-20T08:11:12.082088+00:00
+
+Claire and Rain earn separate scoped Tier3 model candidates through individual monographs, five-rule mechanisms and evidence indexes, with publication pending. Claire combines actual office/skill, conditional rank restraint, affection with refusals, proxy errors and imposed control. Rain combines practical repair, finite means, contextual knowledge/protest and warning with compromised participation. Generic guardian/official/subordinate and near-canonical rivals remain; no capability grade or broad reliability follows. See the [Claire monograph](../05%20Specialist%20Synthesis/KONOSUBA_CLAIRE_CHARACTER_MONOGRAPH.md) and [Rain monograph](../05%20Specialist%20Synthesis/KONOSUBA_RAIN_CHARACTER_MONOGRAPH.md).
+
+MAIN06 C1P655–676 binds Rain's cast and Iris's surprise extra passenger; both retainers are surprised. DUST03 U013P772–871 binds Dust controlling Rain's body, with actual Claire responses; the imitation is not Rain's own advocacy or intrusion. MAIN11 C1P586–633 binds warning/participation, Claire administration and transfer; C2P6–31/79–118 binds actual memory gaps. MAIN15 C2P429–446 adds officer/letter reports and Kazuma's recovered-memory claim, not a witnessed new court act or full recovery test. Source time and actor remain explicit.
+
+Known admitted-source consolidation; prior ledger bytes remain the exact prefix. No new whole-source/ruby/image/admission/independent trial or changed frozen forecast, score, first body or blank/null field.

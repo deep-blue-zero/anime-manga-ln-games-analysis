@@ -1,0 +1,42 @@
+{
+  "schema": "KONOSUBA_RAIN_EXPANDED_V1_RULE_INVENTORY",
+  "recorded_utc": "2026-10-20T07:57:17.370433+00:00",
+  "subject": "Rain",
+  "model_path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_RAIN_RECONSTRUCTION_MODEL.md",
+  "model_sha256": "3d62cb9fc0958b86cc9edef8479036483f4cb0d752f63c599beab3719d689637",
+  "responsibility": "Index of rule identity and limit; full model prose owns support, contrary cases, conditions, confidence and disconfirmers.",
+  "rules": [
+    {
+      "id": "RAIN-R01",
+      "proposition": "Repair neglected practical conditions within an unequal role; mediation can carry pressure.",
+      "material_limit": "Generic professional courtesy remains a rival; no unlimited willing service.",
+      "future_source_outcome_not_assessed": true
+    },
+    {
+      "id": "RAIN-R02",
+      "proposition": "Update a local fact while retaining a specific objection to its normality or consequences.",
+      "material_limit": "Narrator common-sense labels are not accuracy measures or universal correct judgment.",
+      "future_source_outcome_not_assessed": true
+    },
+    {
+      "id": "RAIN-R03",
+      "proposition": "Perceived real cost, ownership, duty, patrons and recognition interact in choice.",
+      "material_limit": "No fixed threshold, performed offered debt payment or highest-bid policy.",
+      "future_source_outcome_not_assessed": true
+    },
+    {
+      "id": "RAIN-R04",
+      "proposition": "Protective execution and accurate warning can coexist with compromised compliance.",
+      "material_limit": "No universal veto and no universal obedience; distinguish means, phase and actual controller.",
+      "future_source_outcome_not_assessed": true
+    },
+    {
+      "id": "RAIN-R05",
+      "proposition": "Printed stance follows recipient, purpose and affect inside her actual information.",
+      "material_limit": "Dust imitation and reader-only truths do not become Rain speech, motives or knowledge.",
+      "future_source_outcome_not_assessed": true
+    }
+  ],
+  "new_source_trial_or_score": false,
+  "designated_capability_grade": null
+}

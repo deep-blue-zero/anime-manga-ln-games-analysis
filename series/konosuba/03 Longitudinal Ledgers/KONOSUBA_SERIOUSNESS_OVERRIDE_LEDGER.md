@@ -1193,3 +1193,12 @@ Nos tells himself to calm down and behave knightly while disoriented, yet danger
 A source can present harmful livelihood effects through reports and inference without proving permanent ruin. External qualification of MAIN03 departure certainty neither cancels cost nor restores Aqua to innocence by wording. The mother's particular child-care request remains her agency and reported benefit, without generalized medical claims or a universal care mechanism.
 
 Retrospective known-source consolidation; exact previous ledger bytes remain the prefix. No new whole-source/ruby/image/admission/independent-test credit or changed historical forecast, score or blank/null field.
+
+
+## Cohort11 — real concern does not settle the means — 2026-10-20T08:11:12.082088+00:00
+
+The same retainer can do useful protective work, warn accurately and participate in harm. MAIN11 C1P431–443 recognizes benefit; P586–633 imposes a forbidden-risk procedure despite warning and Iris objection. The subsequent memory gaps are actual, while intended complete erasure and permanent side effect remain unproved. Genuine fear of Kazuma and his harmful conduct are relevant pressures, without an automatic exemption for any means chosen.
+
+MASK protective waiting is assessed at the retainers' information and assigned charge, without borrowing Vanir's later demonstrated extraordinary power. DUST03's available rescue and deliberately blocked aid retain the distinct actors and opposite choices. No later successful ending, apology or restored company repairs a prior failed veto by definition.
+
+Known admitted-source consolidation; prior ledger bytes remain the exact prefix. No new whole-source/ruby/image/admission/independent trial or changed frozen forecast, score, first body or blank/null field.

@@ -1316,3 +1316,12 @@ MAIN17 Kazuma labels Nos foolish while Nos actually infers the protagonists' tra
 MAIN03U017P566 is Megumin firsthand report to Kazuma;630 is Aqua gift/intention account;631 directly shows props;632–633 is Kazuma livelihood interpretation. The current [external qualification](../09%20Audits%20and%20Manifests/KONOSUBA_MAIN03_PERFORMER_OUTCOME_AND_SOURCE_PLANE_QUALIFICATION_01.json) narrows original report163/167/382 outcome certainty without denying reported distress or erasing the externality concern. MAIN16U023 mother's benefit and Pierre's helper-Teleport explanations also retain their report plane.
 
 Retrospective known-source consolidation; exact previous ledger bytes remain the prefix. No new whole-source/ruby/image/admission/independent-test credit or changed historical forecast, score or blank/null field.
+
+
+## Cohort11 — three narrators and a later officer — 2026-10-20T08:11:12.082088+00:00
+
+Kazuma's class-facing self-presentation, Dust's labels of easy manipulation and Vanir's common-sense judgments are interested accounts, alongside their directly narrated acts. Claire's amputation intention at MAIN06 C1P591 is Kazuma inference; the cut itself is actual. Rain's earlier surprise extra passenger differs from later hospitality framing. DUST03's projections and seller explanation retain their mediated/private planes, and the mask controller is not the body's owner.
+
+MAIN15 C2P429–446 provides an officer's account of handwritten assurance, tearful delivery, papers and departure plus Kazuma's reported letter contents. Fear and romance readings are interpretations. A later recovered-memory claim does not certify every remembered detail; it also prevents treating MAIN11 gaps as a demonstrated permanent condition. No new directly watched Claire/Rain court trial is created.
+
+Known admitted-source consolidation; prior ledger bytes remain the exact prefix. No new whole-source/ruby/image/admission/independent trial or changed frozen forecast, score, first body or blank/null field.

@@ -1846,3 +1846,12 @@ Actual Nos's imperious challenge, distress at the apparent comrade judgment and 
 MAIN03 performer's apparent quotation is embedded in Aqua's report630; it is no new directly witnessed performer turn. Pierre's showman address, objections and attempted repair are his actual dialogue inMAIN16U023P14–49. The mother's request/benefit statementP2–10 are her own turns; the helper has no own speech here. Ordinary semantic/register contrasts supply no automaticL3 or new representative voice rate.
 
 Retrospective known-source consolidation; exact previous ledger bytes remain the prefix. No new whole-source/ruby/image/admission/independent-test credit or changed historical forecast, score or blank/null field.
+
+
+## Cohort11 — speaker, controller and practical stance — 2026-10-20T08:11:12.082088+00:00
+
+Claire's public enforcement, technical question, private alliance, gratitude, apology and fear differ in purpose despite recurrent titles. Rain's reduced-deference introduction, correction, protest, apology and warning differ from a single soothing tone. Printed 私/貴様/自分 and アイリス様/カズマ殿 supply local forms, not acoustic or native-human adequacy. MAIN06 C1P425–538/623–658/C2P23–35/261–327; MAIN10 C2P64–95; MAIN11 C1P495–603; MASK U015P244–247/443–449.
+
+DUST03 U013P793–807/868–869 explicitly monitors Dust's imitation of Rain. The performed clauses and intrusive aims stay with that controller. The café joint-role sentence U014P59–60 is retained at consultation scope, without forcing a uniquely tagged Rain turn. Ordinary register/function contrasts do not automatically supply L3. Seven English first bodies demonstrate no Japanese timing, representative voice rate or independent language validity.
+
+Known admitted-source consolidation; prior ledger bytes remain the exact prefix. No new whole-source/ruby/image/admission/independent trial or changed frozen forecast, score, first body or blank/null field.

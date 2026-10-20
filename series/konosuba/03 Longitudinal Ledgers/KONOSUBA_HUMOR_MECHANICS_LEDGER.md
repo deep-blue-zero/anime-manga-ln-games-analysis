@@ -1879,3 +1879,12 @@ Voice impersonation, knightly indignity and a second trick support comic amplifi
 MAIN03 reported career distress and MAIN16 public-performance panic retain real actor/cost distinctions. Pierre's no-trick formula meets a crowd familiar with real supernatural disappearance, then receives a Teleport explanation. This is local semantic/pragmatic incongruity, without automaticL3 or a fresh selected-sample/J02 denominator. No completed prosecution, helper injury or permanent livelihood ruin is supplied.
 
 Retrospective known-source consolidation; exact previous ledger bytes remain the prefix. No new whole-source/ruby/image/admission/independent-test credit or changed historical forecast, score or blank/null field.
+
+
+## Cohort11 — comic reversals retain agency and cost — 2026-10-20T08:11:12.082088+00:00
+
+Rank mistakes, sentimental reversals and the supposedly reasonable outsider supply H2 amplification as an interpretation. Actual injury, unsolicited restriction, material aid, fearful retreat, finite pay and knowingly imposed treatment retain H1 usable conduct at their own plane. Fantasy supplies no automatic H4; uncertainty supplies no H3. MAIN06 C1P578–638; CONTEXP01 U013P381–417; CONTEXP02 U013P109–148; MAIN11 C1P586–633; MASK U015P234–247/338–349.
+
+The model exercises add no formal humor census, selected-sample denominator or J02 outcome. CL-H01B's unsupplied council remains a packet-precision defect. It is hypothetical author output, not another source character, a native translation or a repaired successful test.
+
+Known admitted-source consolidation; prior ledger bytes remain the exact prefix. No new whole-source/ruby/image/admission/independent trial or changed frozen forecast, score, first body or blank/null field.

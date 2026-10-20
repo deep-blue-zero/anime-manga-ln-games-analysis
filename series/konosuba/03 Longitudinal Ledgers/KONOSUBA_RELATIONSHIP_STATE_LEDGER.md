@@ -1390,3 +1390,12 @@ Nos's offer to Pain, distress at the friendly strike, response to real correctio
 The MAIN17/DUST07 identity join is strongly supported by multiple specific cues, with the episode row retained as an alias return. MAIN03's unnamed reported performer and MAIN16self-namedPierre have no demonstrated personal continuity; separate episode keys neither force alias nor prove distinct people. Pierre/helper professional participation supplies no observed private relationship or universal consent. No final individual denominator follows.
 
 Retrospective known-source consolidation; exact previous ledger bytes remain the prefix. No new whole-source/ruby/image/admission/independent-test credit or changed historical forecast, score or blank/null field.
+
+
+## Cohort11 — affection, permitted contact and colleague pressure — 2026-10-20T08:11:12.082088+00:00
+
+Claire's admitted past coldness is retained beside current attachment; mediated projection and present regret do not erase that earlier treatment. Actual release/privacy requests, maintained meeting vetoes and a bounded future outing promise differ. Affection, trust, practical dependence, physical power and permission are separate objects. CONTEXP01 U013P381–417; DUST03 U013P23–36/503–524/814–871.
+
+Rain can redirect Claire, physically permit Iris's departure, apologize and obtain cooperation. Claire can heed her, threaten patron relations, offer debt relief and take over a risky act. Both recognize Iris's happiness before imposing a restriction on Kazuma. His actual harmful threats do not erase their chosen coercion. No common guardian mind, universal obedience or established romance is inferred. MAIN10 C2P158–166; MAIN11 C1P431–443/558–633; CONTEXP02 U013P109–148.
+
+Known admitted-source consolidation; prior ledger bytes remain the exact prefix. No new whole-source/ruby/image/admission/independent trial or changed frozen forecast, score, first body or blank/null field.
