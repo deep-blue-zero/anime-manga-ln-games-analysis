@@ -5,10 +5,10 @@ artifact_type: source_scope_map
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.3"
+version: "0.4"
 status: active_provisional
 scope: "Sanitized witness identities, preliminary provenance, structural reconnaissance and admission gaps"
-source_boundary: "Original Japanese 新装版 V01–V18; all 18 witnesses byte- and package-verified 2026-10-16; admission proceeds volume by volume under the authorized run"
+source_boundary: "Original Japanese 新装版 V01–V18 completed;freshG6 hashes/CRC/OPF/RTL/allimagechecks PASS;composite inherited-audited/newdirect provenance"
 canonical_home: series/peach-girl/00 Frameworks and Methods/PEACH_GIRL_SOURCE_AND_SCOPE_MAP.md
 created: "2026-10-16"
 observed_at_utc: "2026-10-16"
@@ -142,3 +142,5 @@ V16 closure update,2026-10-20 owner date:171/171 Japanese spine images directly 
 V17 closure update,2026-10-20 owner date:173/173 Japanese spine images actually viewed legibly/in order;158main4–42/44–84/86–124/126–164. Excluded15:front1–3/posed43,85,125/back165–173.44 color reprise/83–84 actual/86and126 title-scenes retained. Four physical spans/no invented chapters. Publication163 Bessatsu Friend2003June–September/staff165 date2003.9.1/edition173 date2017-03-31 not story calendar. Bounded V10_33–34 Morika identity recheck/no new M name receipt. PG-FR-V17 exit164; V18 mainline unopened. No source/image/private-path/evidence-plane publication.
 
 V18 closure update2026-10-20:187/187 Japanese spine images directlyviewed/172main5–44/46–85/86–125/127–178. Front1–4/posed45,126/back179–187excluded15;43–44/46/85/125/127actual retained. Fourphysicalspans/noinventedchaptertitles. Publication176 BessatsuFriend2003Oct–Dec/2004Jan/staff179date2003.12.23/edition187date2017-03-31 notstorycalendar. Exactwitness99,357,571bytes/SHA00222d219ee6b844207ac825a194397057c51ba51b2471d762e8c87f8b0af720. PG-FR-V18 exit178explicitoriginalseriesEND. BoundedV15_149–156 andV18_116–117 recheckcorrects priorsexnightinference; historicalfreezeunchanged. Terminalruncompleted/noV19admission; G1/G2nextafterbackup. No source/image/privatepath publication.
+
+G6 source closure2026-10-20: fresh18witness/all3198imagehash checks PASS, [source verification](../07%20Audits%20and%20Handoffs/PEACH_GIRL_G6_SOURCE_VERIFICATION.json). ActualnewCodexfullV05–V18=2474images; inheritedV01–V04documentedfull724images with177distinctrecipientauditsamples. G1/G2inventorybinds18reading/freezes/commits. No sourcebyte/imagepromotion or newfranchisesource. Narrativecompleted/NONE nextcandidate; source-maprevision0.4.

@@ -5,10 +5,10 @@ artifact_type: corpus_map
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.21"
+version: "0.22"
 status: active_provisional
 scope: "Single current entrypoint, source/readiness boundaries and next permitted operation"
-source_boundary: "Original Japanese manga; 新装版 V01–V18 byte- and package-verified; owner-authorized V01–V18 narrative run completed;G1–G3/G5 literary scope closed;G4 operational blocked;G6 pending"
+source_boundary: "Original Japanese manga; 新装版 V01–V18 byte- and package-verified; owner-authorized V01–V18 narrative run completed;Localoriginal-mangaliteraryscopecomplete;G4operationalblocked;G6externalreleaseunperformed"
 canonical_home: series/peach-girl/CURRENT_STATE_AND_CORPUS_MAP.md
 created: "2026-10-16"
 review_status: OWNER_EXECUTION_AUTHORIZED_LOCAL_RESULT_UNREVIEWED
@@ -18,7 +18,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 project_initialization:
   status: active_provisional
-  architecture_lifecycle: EVOLVING
+  architecture_lifecycle: STABILIZED
   bootstrap_generation: PEACH_GIRL_BOOTSTRAP_V1
   governing_method: "00 Frameworks and Methods/PEACH_GIRL_ANALYTICAL_METHOD.md"
   synthesis_architecture: "00 Frameworks and Methods/PEACH_GIRL_SYNTHESIS_ARCHITECTURE.md"
@@ -85,7 +85,7 @@ The owner's 2026-10-16 instruction authorizes a `continuous_sequential` run over
 | Narrative admission / inspection | Volumes are admitted and closed one at a time; the committed high-water mark in the front matter and the table of closed readings below are authoritative |
 | Longitudinal state | Four instruments carry source-derived rows through the committed high-water mark; each volume transaction appends to all four or records no material change |
 | Character reconstruction | Six readiness dispositions; four frozen categorical prototypes actually tested retrospectively; operational acceptance BLOCKED_NO_HELD_OUT_VALIDATION; no global capability grade |
-| Synthesis/release | G1–G3/G5 closed for scoped literary work; G4 operational acceptance blocked after tests; G6 local validation/package next; no upstream integration or owner acceptance |
+| Synthesis/release | G1–G3/G5 scoped literary work closed; G4 operational blocked; G6 local corpus checks passed/final package proof external; upstream integration/owner acceptance unperformed |
 
 The [source and scope map](00%20Frameworks%20and%20Methods/PEACH_GIRL_SOURCE_AND_SCOPE_MAP.md) owns exact keys/Drive IDs, manifest hashes, reported source hashes and limitations. Its inventory is not a source lock for an authorized narrative run. V01 structural verification does not establish chapter completeness, narrative admission or story understanding. Published volume counts are not used as proof of Drive availability.
 
@@ -199,3 +199,7 @@ Revision0.18 —2026-10-20;G1/G2 audit before mature synthesis; historicalreadin
 ## G5 integrated original-series argument
 
 [Full original-series synthesis](05%20Synthesis/PEACH_GIRL_FULL_ORIGINAL_SERIES_SYNTHESIS.md) and [convergence/role-gap decision](07%20Audits%20and%20Handoffs/PEACH_GIRL_G5_CONVERGENCE_AND_ROLE_GAP_DECISION.md) close G5 for literaryscope, keeping finalpair/ethicalrepair tension. G4 actualassessment/blocker retained; no operationalprogramcompletion. Next G6 exactcorpus/source/reference/omission/portablepackagechecks. Revision0.21 —2026-10-20;no narrativeorhistoricalfreezechanges.
+
+## Local completion and portable handoff
+
+[G6 local verification/limits](07%20Audits%20and%20Handoffs/PEACH_GIRL_G6_LOCAL_VERIFICATION_AND_LIMITS.md), [machine corpus check](07%20Audits%20and%20Handoffs/PEACH_GIRL_G6_CORPUS_CHECK.json), [fresh source checks](07%20Audits%20and%20Handoffs/PEACH_GIRL_G6_SOURCE_VERIFICATION.json), [targeted direct check](07%20Audits%20and%20Handoffs/PEACH_GIRL_G6_DIRECT_SOURCE_CHECK.md) and [portable reader guide](07%20Audits%20and%20Handoffs/PEACH_GIRL_PORTABLE_READER_GUIDE.md) own completionevidence. G1–G3/G5literaryclosed;G4actualtests/operationalBLOCKED;G6localchecksPASS/packageproofafterfinalcommit/fullG6externalreleaseUNPERFORMED. Architecture0.4STABILIZED is organizational, notowneraccepted/FROZEN. No nextnarrativecandidate; completedrun/OPENlock doesnotauthorizeanother. Finalhead/tree/filecounts/archivehashes belongtoexternalportablemanifest, avoiding selfreference. Revision0.22 —2026-10-20;all18historicalreading/freeze bytesretained;no remote writes.

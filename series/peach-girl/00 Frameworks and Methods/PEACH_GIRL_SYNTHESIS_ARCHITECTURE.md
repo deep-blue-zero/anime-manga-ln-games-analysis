@@ -5,13 +5,13 @@ artifact_type: synthesis_architecture
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.3"
+version: "0.4"
 status: active_provisional
 scope: "Cumulative responsibilities, specialist dependencies, reconstruction and completion gates"
 source_boundary: "Verified original Japanese manga V01–V18; inherited four audited/new fourteen direct;G1/G2 reconciled"
 canonical_home: series/peach-girl/00 Frameworks and Methods/PEACH_GIRL_SYNTHESIS_ARCHITECTURE.md
 created: "2026-10-16"
-architecture_lifecycle: EVOLVING
+architecture_lifecycle: STABILIZED
 review_status: OWNER_EXECUTION_AUTHORIZED_LOCAL_RESULT_UNREVIEWED
 supersedes: []
 superseded_by: []
@@ -143,3 +143,10 @@ One source-capable operator continues; no independent blind reviewers or agents 
 The [G5 decision](../07%20Audits%20and%20Handoffs/PEACH_GIRL_G5_CONVERGENCE_AND_ROLE_GAP_DECISION.md) repeats the role-gap review after9 G3 studies and actual G4 testing. No new ledger/specialist is mandatory for the original literary scope. [Full-series synthesis](../05%20Synthesis/PEACH_GIRL_FULL_ORIGINAL_SERIES_SYNTHESIS.md) integrates causal, social, romantic, reputational, structural and visualarguments while keeping competingendingreadings.
 
 G1/G2 CLOSED/compositeprovenance;G3 CLOSED_scopedliterary;G4 assessment/testsperformed but operationalacceptanceBLOCKED_NO_HELD_OUT_VALIDATION/no fullmodelprogramcompletion;G5 CLOSED_scopedliterary;G6 localchecks/packagepending/externalintegrationandownerreleaseunperformed. Lifecycle remains EVOLVING untilfinalvalidation; no automaticreleaseFROZEN or acceptance.
+
+
+## Amendment0.4 — verified local literary architecture,2026-10-20
+
+The [G6 local audit](../07%20Audits%20and%20Handoffs/PEACH_GIRL_G6_LOCAL_VERIFICATION_AND_LIMITS.md) records actualsource/corpus/dependency/freeze checks and repeatedrole-gapreview. Lifecycle STABILIZED applies to this completedoriginal-mangaliteraryorganization:18readings/4ledgers/9G3studies/G4assessment/G5convergence. No furthermandatoryledger/specialist isidentified. This is not releaseFROZEN or owneracceptance.
+
+G4operationalacceptance remainsBLOCKED_NO_HELD_OUT_VALIDATION; modelprogramincomplete. G6localpackageproof is generatedafterfinalcommit; fullG6externalintegration/remoteaudit/evidencepromotion/ownerrelease remainUNPERFORMED. Historicalbootstrap and amendmentgate statements above retain their dates; currentdispositions arethisamendment/entrypoint/G6audit. No new narrativeadmission or historicalfreezeedit.
