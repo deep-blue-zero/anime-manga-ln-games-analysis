@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: source_lock
 scope: SOURCE_ADMISSION_CONTRACT_AND_CURRENT_INVENTORY_STATE
-generation: V0.6
+generation: V0.7
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -269,7 +269,24 @@ V04's own V05 advertisement remains promotional paratext, not a V04 narrative ga
 - provenance: existing governed folder/manifest range admission; individual V05 Drive ID not separately resolved, not invented;
 - analytical product: `02 Sequential Readings/REZERO_LN_V05_DEEP_READING.md`, with stable block locators, full coverage and bounded evidence planes.
 
-No V06 source, supplement, IF, web-novel or audiovisual witness was opened. V05's next-volume emphasis and promotional columns are paratext, not later narrative evidence or a verified capital-section endpoint. V06 remains closed until the entire V05 atomic publication/audit gate succeeds. This record advances consumption, not admission or the historical publication-gap check.
+At that historical V05 boundary no V06 source, supplement, IF, web-novel or audiovisual witness had been opened. V05's next-volume emphasis and promotional columns remain paratext, not later narrative evidence or a verified capital-section endpoint. V06 consumption below began only after the entire V05 atomic publication/audit gate succeeded. This record advances consumption, not admission or the historical publication-gap check.
+
+## Volume 06 consumption record
+
+`RZ-MAIN-LN-JA-V06` was consumed in exact OPF spine order through `p-bookwalker`: all 40 members, 3,669 nonempty text blocks in 20 prose members, all frontmatter, six chapters, afterword, image columns, biographies and colophon. All 20 source image resources were visually inspected.
+
+- locator / title: `Re Zero - Volume 06.epub`; `Ｒｅ：ゼロから始める異世界生活６`;
+- language / creator / publisher: `ja`; `長月達平`; KADOKAWA / メディアファクトリー;
+- UUID: `07e0c98e-daf5-4dd3-a025-7dace78a6393`;
+- size / SHA-256: `18,893,042` bytes; `924b0b2221b314911297a92579644bd9887c88bb7896625678150a3a88840ea5`;
+- package / integrity: `item/standard.opf`; 74 ZIP entries, 40 spine members, 20 images; full CRC pass; nonfatal compressed-`mimetype` warning;
+- manifest relation: exact size/hash match to anchored inventory;
+- edition basis: Japanese MF Bunko J, 2015-03-31 ver.1.0/first-printing basis; author afterword February 2015;
+- provenance: existing governed folder/manifest range admission; individual V06 Drive ID not separately resolved or invented;
+- analytical product: `02 Sequential Readings/REZERO_LN_V06_DEEP_READING.md`, with reproducible block locators/full source-plane coverage;
+- structural limit: author marks an achievement/restart and continuing counterattack, not closure of the named capital section.
+
+V07 and every non-spine narrative witness remain unopened. Rem's domestic future is conditional speech within this admitted main-LN witness, not an IF source. Promotional manga/collection/goods/next-volume columns admit no later plot or extra edition. V07 opening requires the complete V06 atomic publication/audit gate. Earlier freezes and source records retain their historical horizons.
 
 ## Current source-state summary
 
@@ -281,7 +298,7 @@ No V06 source, supplement, IF, web-novel or audiovisual witness was opened. V05'
 - **Admitted IF/alternate route:** none.
 - **Admitted web novel:** none.
 - **Admitted anime/audiovisual:** none.
-- **Consumed into frozen prospective main-LN analysis:** V01-V05.
+- **Consumed into frozen prospective main-LN analysis:** V01-V06.
 - **Next source acquisition priority:** Japanese V44 and V45 before the sequential read reaches that boundary.
-- **Next analytical operation:** Japanese V06 from the frozen V05 horizon, only after V05 publication verification.
-- **Current execution state:** active continuous run resumed by user; terminal V43 unchanged; V05 closeout advances consumption, not the admitted range.
+- **Next analytical operation:** Japanese V07 from the frozen V06 horizon, only after V06 publication verification.
+- **Current execution state:** active continuous run resumed by user; terminal V43 unchanged; V06 closeout advances consumption, not the admitted range.

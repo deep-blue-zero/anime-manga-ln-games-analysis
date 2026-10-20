@@ -2,11 +2,11 @@
 series: RE_ZERO
 artifact_type: synthesis_architecture
 scope: JAPANESE_LIGHT_NOVEL_PROSPECTIVE_LONGITUDINAL_AND_SYNTHESIS_ARCHITECTURE
-generation: V1.3
+generation: V1.4
 status: canonical
 release_state: mutable_active
 architecture_lifecycle: EVOLVING
-source_boundary: "Japanese main light novel V01-V43 admitted; prospective analysis frozen through V05; V44-V45 known acquisition gaps; non-spine witnesses excluded until separately admitted"
+source_boundary: "Japanese main light novel V01-V43 admitted; prospective analysis frozen through V06; V44-V45 known acquisition gaps; non-spine witnesses excluded until separately admitted"
 recommended_reasoning_class: PREMIUM_QUALITY_FIRST
 reasoning_policy: MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md
 pro_justification: "Propagation-sensitive architecture repair: this routing governs every later Re:Zero volume transaction and synthesis layer."
@@ -98,7 +98,7 @@ The retrieval chain for a mature claim is:
 
 `corpus map -> master ledger current row -> claim ancestry / relevant frozen VNN reading -> exact internal EPUB locus -> admitted hashed witness`.
 
-The master ledger owns cumulative routing and unsplit dimensions; from V04, `REZERO_INSTITUTIONS_FACTIONS_AND_POWER_LEDGER.md` alone owns cumulative institution/power state. Frozen VNN readings are the authority for what the reader knew at each historical volume boundary and for the exact source-facing argument recorded there. These roles do not displace one another.
+The master ledger owns cumulative routing and unsplit dimensions. From V04, `REZERO_INSTITUTIONS_FACTIONS_AND_POWER_LEDGER.md` alone owns institution/power; from V06, `REZERO_EVENT_STATE_AND_ROUTE_LEDGER.md` alone owns event chronology/durability and `REZERO_KNOWLEDGE_AND_INFORMATION_ASYMMETRY_LEDGER.md` alone owns proposition-holder/disclosure state. Frozen VNN readings remain authority for their historical prospective horizons and exact source-facing arguments. These roles do not displace one another.
 
 ## 4. Atomic numbered-volume completion contract
 
@@ -139,7 +139,7 @@ Before `VNN+1` may be opened, all applicable responsibilities must be complete i
 1. create and freeze `REZERO_LN_VNN_DEEP_READING.md` with `artifact_type: sequential_deep_reading`;
 2. adjudicate materially affected prior claims as `PRESERVE`, `STRENGTHEN`, `REVISE`, `DOWNGRADE`, `REJECT`, or `OPEN`;
 3. assign new IDs under the `RZ-VNN-CNNN` grammar;
-4. update the master ledger's claim state, event-state, knowledge, relationship, character, institution, mechanics, ordinary-life, terminology, and readiness responsibilities;
+4. update the master ledger's claims, relationship, character, mechanics, ordinary-life, terminology and readiness state, and its routing summaries for independently promoted responsibilities;
 5. update any separately promoted ledger without duplicating canonical ownership;
 6. freeze the bounded VNN+1 question/prediction horizon;
 7. update the corpus map and source-consumption state;
@@ -185,7 +185,7 @@ When splitting a responsibility:
 
 No ledger is created for symmetry. A dimension may remain local to one VNN reading when it does not recur or affect downstream work.
 
-`04 Longitudinal Ledgers/REZERO_LEDGER_PROMOTION_AND_SCHEMAS.md` registers the exact filenames and dimension-specific thresholds. Section 14 preserves the V03 nonpromotion review, V04 institution promotion and V05 bounded non-split review. Every other cumulative dimension remains in the master; the promoted responsibility is not maintained twice.
+`04 Longitudinal Ledgers/REZERO_LEDGER_PROMOTION_AND_SCHEMAS.md` registers exact filenames and dimension-specific thresholds. Section 14 preserves the V03 nonpromotion review, V04 institution promotion, V05 bounded non-split review and V06 event/knowledge promotion. Necessary history migrates, master routers replace full tables, and no promoted responsibility is maintained twice.
 
 ## 6. Evidence and locator routing
 
@@ -334,18 +334,18 @@ Claim/evidence stabilization precedes any synthesis that depends on the disputed
 
 ## 13. Responsibility matrix
 
-| Analytical dimension | Sequential observation | Cumulative canonical home | Mature/final destination | State through V05 |
+| Analytical dimension | Sequential observation | Cumulative canonical home | Mature/final destination | State through V06 |
 |---|---|---|---|---|
-| Claims and revisions | material claims, counterevidence, six-state adjudication | master ledger claim tables | relevant specialists and full-series synthesis | 48 V05 claims, complete 40-predecessor adjudication; index deferred |
-| Route/event-state | local state, trigger, outcome, durability, carry-forward | master ledger event-state tables | memory/continuity or mechanics specialist if earned | E1/E2 superseded, E3 active; two deaths/new checkpoint explicit; master sufficient |
-| Knowledge/asymmetry | holder, source, confidence, nonholder, consequence | master ledger knowledge table | relationship, agency, and continuity syntheses | collapse/motive/mission/cult/beast limits remain table-safe |
+| Claims and revisions | material claims, counterevidence, six-state adjudication | master ledger claim tables | relevant specialists and full-series synthesis | 60 V06 claims, complete 48-predecessor adjudication; index deferred |
+| Route/event-state | local state, trigger, outcome, durability, carry-forward | `04 Longitudinal Ledgers/REZERO_EVENT_STATE_AND_ROUTE_LEDGER.md` | memory/continuity or mechanics specialist if earned | promoted V06 for within-state erasure/return/alias/carry-forward distinctions; E2 active, ten deaths; master §4 routes |
+| Knowledge/asymmetry | holder, source, confidence, nonholder, disclosure, false belief, consequence | `04 Longitudinal Ledgers/REZERO_KNOWLEDGE_AND_INFORMATION_ASYMMETRY_LEDGER.md` | relationship, agency, and continuity syntheses | promoted V06 for sequential forgetting, perception, private speech, false explanations and delegation; master §5 routes |
 | Relationships | each party's remembered history, trust, disclosure, dependency, power | master ledger relationship table | character monographs; dyadic/ensemble synthesis if earned | master sufficient; bounded Subaru/Emilia and Subaru/Rem studies checkpoint-ready only |
-| Character state/stress | goals, self-model, conditions, behavior, recovery, counterexample | master ledger character/readiness tables | protocol-governed character monographs/models | accumulating; no mature monograph/fidelity audit through V05 |
+| Character state/stress | goals, self-model, conditions, behavior, recovery, counterexample | master ledger character/readiness tables | protocol-governed character monographs/models | accumulating; restart/self-hatred and independent-worth limits; no mature monograph/fidelity audit |
 | Institutions/factions/power | rule/doctrine, actor behavior, capacity, resources, status, coercion | `04 Longitudinal Ledgers/REZERO_INSTITUTIONS_FACTIONS_AND_POWER_LEDGER.md` | institutional/political specialist if earned | sole current home promoted at V04; master §8 routes |
-| Mechanics/world model | speaker theory, observation, cost, exception, corroboration | master ledger mechanics table | mechanics/metaphysics specialist if earned | new care/influence/Authority/frost evidence stays separate; master sufficient through V05 |
+| Mechanics/world model | speaker theory, observation, cost, exception, corroboration | master ledger mechanics table | mechanics/metaphysics specialist if earned | erasure, listener penalty, visible arms, confirmed Puck and contract claims stay epistemically separate; master sufficient after state/holder migration |
 | Ordinary life/preferences | only model-diagnostic routines, tastes, labor, comfort, low-stakes conduct | master ledger ordinary-life table | character/relationship or ordinary-life specialist if earned | dedicated home deferred with trigger |
 | Japanese wording/register | wording-sensitive terms, address, titles, pragmatic shifts, exact locus | master ledger terminology table plus VNN evidence loci | language/register specialist; character and translation analysis | dedicated home deferred with trigger |
-| Prospective questions | bounded falsifiers/predictions before next volume | master ledger open-question register and prior VNN freeze | next VNN adjudication; checkpoints | 32 V06 questions frozen; all 26 V05 questions/ten forecasts adjudicated |
+| Prospective questions | bounded falsifiers/predictions before next volume | master ledger open-question register and prior VNN freeze | next VNN adjudication; checkpoints | 40 V07 questions/ten next forecasts frozen; all 32 V06 questions/ten entering forecasts adjudicated |
 | Source identity/locators | source ID, hash, locus convention | source lock plus VNN reading; ledger routes only | evidence/index layer if retrieval burden earns it | not currently warranted |
 | Character/relationship/specialist readiness | cited accumulation and threshold judgment | master ledger readiness tables | promoted canonical artifacts | bounded relationship checkpoint-ready; no mature person/final specialist promoted |
 | Supplemental/IF/WN | catalog awareness only; no opening until admission and safe horizon | supplemental catalog + source lock + witness protocol; later witness-specific reading | bounded cross-witness specialist | catalog initialized; no witness admitted |
@@ -398,6 +398,14 @@ Two deaths and a new repeated checkpoint add event-state complexity, but V05-E1/
 The existing institution ledger absorbs host contracts/discretion, medical influence, marriage rules, uneven public information, market/transport constraints and cult operations. Knowledge, relationship and mechanics tables still distinguish testimony, focalization, effect, allegation and unverified integration; no new independent home is required. Ordinary-life and Japanese evidence remain routable through the master and exact VNN loci. Evidence/index candidates remain unwarranted.
 
 Subaru/Rem becomes checkpoint-ready for a bounded V01–V05 study, not a mature character or mandatory standalone relationship artifact. No capital endpoint, character fidelity audit, final specialist or full-series synthesis is earned. Existing triggers remain: interacting carry-forward matrices, unsafe holder-network retrieval, dense competing mechanics or multiple independently maintained dyad histories must reopen specialization. This review changes current scope/readiness only, not method or reasoning-class assignments; V01–V04/checkpoint bytes remain unchanged, and map/schema/source/ledgers advance atomically with V05.
+
+### Post-V06 event-state and knowledge promotion
+
+The V05 review remains historical. V06 supplies the registered triggers, not merely another count: erasure changes memories/material traces inside a state, later death/restoration discards a different span, and cross-volume aliases/precheckpoint events/artifacts have different durability. An independent chronology and carry-forward matrix is now necessary. Separately, Otto's sequential forgetting, Ram/Emilia's different denials, untested Beatrice memory, reader-only maternal speech, Subaru/Puck's asymmetric hand sight, fallible Crusch/cult explanations and specific Rem-to-Subaru delegation make compact holder retrieval unsafe.
+
+Promote the exact registered `REZERO_EVENT_STATE_AND_ROUTE_LEDGER.md` and `REZERO_KNOWLEDGE_AND_INFORMATION_ASYMMETRY_LEDGER.md` under `04 Longitudinal Ledgers/`. Migrate necessary V01–V05 history explicitly retrospectively, add V06 rows, and replace the master's full §§4–5 with routers. The existing institution ledger owns rules/resources; master mechanics owns causal theories and relationships own personal trust/consent, avoiding overlap.
+
+Other ledger candidates retain their triggers. Ordinary-life/Japanese evidence and current readiness remain manageable; no independent evidence/index failure is demonstrated. Subaru/Rem's bounded study extends through V06 without requiring a standalone artifact. The author-marked restart is not a capital endpoint, sustained cure, mature reusable model or final specialist boundary. Architecture/schema/map/source/character horizon and ledgers advance atomically; V01–V05/checkpoint bytes remain unchanged. Existing reasoning-class and fidelity requirements remain in force.
 
 ## 15. Completion gates
 
