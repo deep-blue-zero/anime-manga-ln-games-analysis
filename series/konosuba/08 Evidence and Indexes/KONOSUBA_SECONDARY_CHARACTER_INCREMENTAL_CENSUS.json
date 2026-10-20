@@ -1,8 +1,8 @@
 {
   "schema": "KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS_V1",
-  "status": "INCREMENTAL_187_QUALIFIED_RECORDS_NOT_FINAL_INDIVIDUAL_DENOMINATOR",
-  "updated_utc": "2026-10-20T18:04:44.598318+00:00",
-  "scope": "Cohorts01-18 closed their exact-source gates at declared scopes. Cohort19 Rex model/monograph and separate Sophie/Terry Tier1 profiles have completed semantic receiving,with exact containing publication pending: candidate28 model bodies/twenty-two scoped secondary model subjects/seventeen bounded profiles/four monograph-only Nos,Rionor,Feit,Chomusuke.187 qualified records include groups,aliases and occurrence slots rather than final unique people. Reliability remains provisional; full census/final tiers/program remain open.",
+  "status": "INCREMENTAL_190_QUALIFIED_RECORDS_NOT_FINAL_INDIVIDUAL_DENOMINATOR",
+  "updated_utc": "2026-10-20T19:11:37.518747+00:00",
+  "scope": "Cohorts01-19 closed exact-source gates; cohort20 separate Funifura/Dodonko Tier2 monographs and Nerimaki Tier1 profile semantically received, containing publication pending. Candidate 28 model bodies/twenty-two scoped secondary model subjects, eighteen bounded profiles and six monograph-only subjects (Nos, Rionor, Feit, Chomusuke, Funifura, Dodonko). The 190 qualified records include groups, aliases and occurrences, not final unique people; final tiers/census/program open.",
   "row_semantics": "Distinct qualified working subjects plus explicitly unresolved grouped/identity leads. A row is not automatically one final individual or an earned artifact. Old scope phrases remain their recorded history; the root current scope governs present admission status.",
   "artifact_architecture": "Use existing05 Specialist Synthesis for earned monographs and06 Character Modeling and Reconstruction for distinct mechanism models. Existing ledgers carry bounded profiles unless a separate responsibility is justified. Single current corpus map; curator-only global registry/index enrollment.",
   "rows": [
@@ -1512,35 +1512,59 @@
     },
     {
       "character": "Funifura",
-      "identity": "ふにふら retrieval guard; exact native name join pending",
-      "likely_tier": "1 candidate",
-      "priority": "Discovery / consolidation",
-      "evidence_distribution": "EXP01 friendship/money context and EXP02 farewell testimony received in full reports. MAIN11C3P65-105actualnative andIMG020view. MAIN14 C1P173-174/C4P41-49/79-85 full base-text context. CURRENT WORKING29: Complete MAIN11 report distinguishes bringing Komekko, village/war reports, assessment of Megumin's tactical fit and inquiry about Yunyun's male friends.",
-      "substantive_responsibility": "Sincerely accepted friendship offer, relation-valued hair tie and later statement that illness/medicine were real. Ownnamecorrections79-80andobjectiontopaired/disparagingtreatment84-85; distinctspecificfeatures94/96, broughtchild69underreportedescortpurpose95. No presumedYunyun/Cecilyidentityfromimage. CURRENT WORKING21: Correctly identified classmate distinct from Megumin's wrong names; actual recruitment/boundary intrusion has her own agency.",
-      "gaps": "Separate her acts from Dodonko and collective reports. No directly witnessed village battle or purely altruistic/jealous invariant; own profile responsibility remains.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "identity": "ふにふら; explicit own name corrections and individual turns; separate from Dodonko, Sakiberry and Nerimaki",
+      "likely_tier": "2 scoped monograph; future reconstruction remains open",
+      "priority": "Individual monograph received; exact publication pending",
+      "evidence_distribution": "EXP01 friendship/money context and EXP02 farewell testimony received in full reports. MAIN11C3P65-105actualnative andIMG020view. MAIN14 C1P173-174/C4P41-49/79-85 full base-text context. CURRENT WORKING29: Complete MAIN11 report distinguishes bringing Komekko, village/war reports, assessment of Megumin's tactical fit and inquiry about Yunyun's male friends. Cohort20 shared native union: 2,535 known BASE context slots in fifteen members/eight objects plus one actual image; own index rows F01-F15. Known direct/report/imagined/collateral access retained; not new whole-source or independent credit.",
+      "substantive_responsibility": "Sincerely accepted friendship offer, relation-valued hair tie and later statement that illness/medicine were real. Ownnamecorrections79-80andobjectiontopaired/disparagingtreatment84-85; distinctspecificfeatures94/96, broughtchild69underreportedescortpurpose95. No presumedYunyun/Cecilyidentityfromimage. CURRENT WORKING21: Correctly identified classmate distinct from Megumin's wrong names; actual recruitment/boundary intrusion has her own agency. Separate twelve-dimension monograph retains offer/gift discussion, physical pressure, specific apology, potion uncertainty, gift handover, task-fit/social appraisal and contrary evidence.",
+      "gaps": "Collective dialogue, report-limited capacities and private costly tradeoffs remain open. Generic peer/status/family/narrator rivals strong; no automatic model or fixed secondary ceiling.",
+      "disposition_status": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_COHORT20_PUBLICATION_PENDING",
       "independent_observation_count": null,
       "prior_gap_history_working20": "New participant testimony changes later knowledge, not EXP01 earlier uncertainty. Individual financial/pressure acts need native attribution.",
       "current_scope_asof_working21": "MAIN01-13 full gates closed;MAIN14 published4e66641f andall9078remote paths/43changedstreams verified;actualsourceaudit running;MAIN15-17 excluded unadmitted.",
       "prior_gap_history_working28": "No fabricated Sakiberry case from an incorrect label; no general permission for classmates' later methods or automatically shared mind with Dodonko.",
       "current_scope_asof_working29": "Current derivative review MAIN01–12 plus MAIN17 and first four checkpoints complete; MAIN13–16 and remaining checkpoints/ledger consolidation remain active. All declared source gates and Iris/Yunyun/Vanir/Wiz scoped publication gates closed.",
-      "cohort05_current_evidence_qualification": "Complete MAIN11 report distinguishes bringing Komekko, village/war reports, assessment of Megumin's tactical fit and inquiry about Yunyun's male friends."
+      "cohort05_current_evidence_qualification": "Complete MAIN11 report distinguishes bringing Komekko, village/war reports, assessment of Megumin's tactical fit and inquiry about Yunyun's male friends.",
+      "prior_cohort20_current_fields": {
+        "identity": "ふにふら retrieval guard; exact native name join pending",
+        "likely_tier": "1 candidate",
+        "priority": "Discovery / consolidation",
+        "gaps": "Separate her acts from Dodonko and collective reports. No directly witnessed village battle or purely altruistic/jealous invariant; own profile responsibility remains.",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort20_artifacts": [
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_FUNIFURA_CHARACTER_MONOGRAPH.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_VILLAGE_PEERS_EVIDENCE_INDEX.md"
+      ],
+      "cohort20_semantic_receiving_sha256": "521928eaddb191173ca2ceda58db986ea0e7ca97027c65518d6c0f08a7e18730"
     },
     {
       "character": "Dodonko",
-      "identity": "どどんこ retrieval guard; exact native name join pending",
-      "likely_tier": "1 candidate",
-      "priority": "Discovery / consolidation",
-      "evidence_distribution": "EXP01 peer/rabbit episode and EXP02 farewell in complete reports. MAIN11C3P65-105actualnative andIMG020view. MAIN14 C1P173-174/C4P41-49/79-85 full base-text context. CURRENT WORKING29: Complete MAIN11 report distinguishes joint child escort, reported conflict and reciprocal social rivalry; individual speech attribution still needs precise native consolidation.",
-      "substantive_responsibility": "Peer pressure and her own specific stop requests/forced burden warrant a bounded profile. Ownnamecorrections79-80andobjectiontopaired/disparagingtreatment84-85; distinctspecificfeatures94/96, broughtchild69underreportedescortpurpose95. No presumedYunyun/Cecilyidentityfromimage. CURRENT WORKING21: Corrected classmate identity, actual recruitment and reactions; retained individual actor boundaries.",
-      "gaps": "Do not assign all collective acts or partner lines to her. Concentrated social acts deserve proportional review without a standalone-model quota.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "identity": "どどんこ; explicit own name and tagged turns; separate from Funifura and Nerimaki",
+      "likely_tier": "2 scoped monograph; future reconstruction remains open",
+      "priority": "Individual monograph received; exact publication pending",
+      "evidence_distribution": "EXP01 peer/rabbit episode and EXP02 farewell in complete reports. MAIN11C3P65-105actualnative andIMG020view. MAIN14 C1P173-174/C4P41-49/79-85 full base-text context. CURRENT WORKING29: Complete MAIN11 report distinguishes joint child escort, reported conflict and reciprocal social rivalry; individual speech attribution still needs precise native consolidation. Cohort20 shared native union: 2,535 known BASE context slots in fifteen members/eight objects plus one actual image; own index rows D01-D13. Known direct/report/imagined/collateral access retained; not new whole-source or independent credit.",
+      "substantive_responsibility": "Peer pressure and her own specific stop requests/forced burden warrant a bounded profile. Ownnamecorrections79-80andobjectiontopaired/disparagingtreatment84-85; distinctspecificfeatures94/96, broughtchild69underreportedescortpurpose95. No presumedYunyun/Cecilyidentityfromimage. CURRENT WORKING21: Corrected classmate identity, actual recruitment and reactions; retained individual actor boundaries. Separate twelve-dimension monograph retains partner question, reported aspiration, defended illness, refusal under forced knife, medicine testimony and later qualification/relationship challenge.",
+      "gaps": "Collective dialogue, report-limited capacities and private costly tradeoffs remain open. Generic peer/status/family/narrator rivals strong; no automatic model or fixed secondary ceiling.",
+      "disposition_status": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_COHORT20_PUBLICATION_PENDING",
       "independent_observation_count": null,
       "prior_gap_history_working20": "Do not transfer Funifura brother/medicine testimony or every peer act to her. Direct actor-specific source/voice evidence due.",
       "current_scope_asof_working21": "MAIN01-13 full gates closed;MAIN14 published4e66641f andall9078remote paths/43changedstreams verified;actualsourceaudit running;MAIN15-17 excluded unadmitted.",
       "prior_gap_history_working28": "Distinct from Nerimaki and from Megumin's wrong Sakiberry label. Consolidate own choices rather than count shared chatter as independent trials.",
       "current_scope_asof_working29": "Current derivative review MAIN01–12 plus MAIN17 and first four checkpoints complete; MAIN13–16 and remaining checkpoints/ledger consolidation remain active. All declared source gates and Iris/Yunyun/Vanir/Wiz scoped publication gates closed.",
-      "cohort05_current_evidence_qualification": "Complete MAIN11 report distinguishes joint child escort, reported conflict and reciprocal social rivalry; individual speech attribution still needs precise native consolidation."
+      "cohort05_current_evidence_qualification": "Complete MAIN11 report distinguishes joint child escort, reported conflict and reciprocal social rivalry; individual speech attribution still needs precise native consolidation.",
+      "prior_cohort20_current_fields": {
+        "identity": "どどんこ retrieval guard; exact native name join pending",
+        "likely_tier": "1 candidate",
+        "priority": "Discovery / consolidation",
+        "gaps": "Do not assign all collective acts or partner lines to her. Concentrated social acts deserve proportional review without a standalone-model quota.",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort20_artifacts": [
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_DODONKO_CHARACTER_MONOGRAPH.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_VILLAGE_PEERS_EVIDENCE_INDEX.md"
+      ],
+      "cohort20_semantic_receiving_sha256": "521928eaddb191173ca2ceda58db986ea0e7ca97027c65518d6c0f08a7e18730"
     },
     {
       "character": "Arnes",
@@ -1593,12 +1617,12 @@
     {
       "character": "Rex",
       "identity": "レックス;explicit named leader of the greatsword/spear/axe party,distinct from Keith/Taylor",
-      "likely_tier": "3 scoped conditional candidate; reliability provisional",
-      "priority": "Model/monograph received; exact publication pending",
+      "likely_tier": "3 scoped conditional model; full gate closed; reliability provisional",
+      "priority": "Scoped artifacts published; broader evidence review remains open",
       "evidence_distribution": "Complete EXP03 stereotype/expedition/apology/recruitment/battle/capital-offer report; CONTEXP01/02 previously reviewed leads. Known native crew union1,556 BASE contexts/six members/two objects; indexR01-R22 joins explicit names,actual work,apology/report limits and role-fit invitation.",
       "substantive_responsibility": "Own team goals, correction after useful performance, actual invitation, guarding/injury and appropriate future role offer. Separate twelve-dimension monograph/three-rule model and four actual first saved English bodies,zero regeneration/repair; partial updating,finite practical help and situated ambition retain contrary evidence.",
       "gaps": "Private goal weights,ordinary biography,competing teammate needs,exact recovery and broader discrimination remain open; generic rivals strong. Four first bodies retain defects/unprobed mechanisms; no independent accuracy.",
-      "disposition_status": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_COHORT19_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER3_COHORT19_PUBLISHED_FULL_GATE_CLOSED",
       "independent_observation_count": null,
       "prior_cohort19_current_fields": {
         "identity": "Accepted reports name Rex; exact native spelling pending",
@@ -1612,17 +1636,35 @@
         "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_REX_RECONSTRUCTION_MODEL.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_REX_SOPHIE_TERRY_EVIDENCE_INDEX.md"
       ],
-      "cohort19_semantic_receiving_sha256": "5e3bede13cb6c6f4dceed11a2f5c260b8cc792b3de25d8e01ad3150dbbbfa070"
+      "cohort19_semantic_receiving_sha256": "5e3bede13cb6c6f4dceed11a2f5c260b8cc792b3de25d8e01ad3150dbbbfa070",
+      "cohort19_publication_pending_at_authorship_history": {
+        "likely_tier": "3 scoped conditional candidate; reliability provisional",
+        "priority": "Model/monograph received; exact publication pending",
+        "disposition_status": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_COHORT19_PUBLICATION_PENDING"
+      },
+      "cohort19_publication_gate_close": {
+        "source": "fdd72d658e75bf527f9b564118a39edaf5809caa",
+        "tree": "7902e3e007f7f74119ea99259097096b031a5ee9",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_REX_SOPHIE_TERRY_COHORT19_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "1ff27c915ef459925fd6a98aae2af543107cc52a27fdce01de4acf53b8f282bb",
+        "source_run": 39473086304,
+        "housekeeping_run": 39473978223,
+        "final_run": 39474051339,
+        "full_tests_each": 385,
+        "published_project_paths": 1178,
+        "current_models": 28,
+        "no_independent_accuracy_or_confidence_gain": true
+      }
     },
     {
       "character": "Sophie",
       "identity": "ソフィ;explicit named spear user,distinct individual within Rex party",
-      "likely_tier": "1 scoped bounded profile; future monograph/model open",
-      "priority": "Individual profile received; exact publication pending",
+      "likely_tier": "1 scoped bounded profile; full gate closed; future monograph/model open",
+      "priority": "Scoped artifacts published; broader evidence review remains open",
       "evidence_distribution": "Complete EXP03 report and CONTEXP01/02 leads. Direct names and individual rowsS01-S09 in shared known native crew union;complete EXP03BASEmembers/partial CONTEXP02returns retain source planes.",
       "substantive_responsibility": "Actual team roles, shared risk and continued participation support bounded profile responsibilities. Separate profile retains correction of Rex,report-based caution,dodge,spear work,injured return/protection and mistaken finish reassurance; readiness and assent not invented.",
       "gaps": "Most private goals,ordinary preferences and choices beyond team tasks remain open. Untagged lines/adjacent return joins qualified; no combined crew mind,automatic model or fixed ceiling.",
-      "disposition_status": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_COHORT19_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER1_PROFILE_COHORT19_PUBLISHED_FULL_GATE_CLOSED",
       "independent_observation_count": null,
       "prior_cohort19_current_fields": {
         "identity": "Accepted report name; exact native spelling pending",
@@ -1635,17 +1677,35 @@
         "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT19_SOPHIE_TERRY_BOUNDED_PROFILES.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_REX_SOPHIE_TERRY_EVIDENCE_INDEX.md"
       ],
-      "cohort19_semantic_receiving_sha256": "5e3bede13cb6c6f4dceed11a2f5c260b8cc792b3de25d8e01ad3150dbbbfa070"
+      "cohort19_semantic_receiving_sha256": "5e3bede13cb6c6f4dceed11a2f5c260b8cc792b3de25d8e01ad3150dbbbfa070",
+      "cohort19_publication_pending_at_authorship_history": {
+        "likely_tier": "1 scoped bounded profile; future monograph/model open",
+        "priority": "Individual profile received; exact publication pending",
+        "disposition_status": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_COHORT19_PUBLICATION_PENDING"
+      },
+      "cohort19_publication_gate_close": {
+        "source": "fdd72d658e75bf527f9b564118a39edaf5809caa",
+        "tree": "7902e3e007f7f74119ea99259097096b031a5ee9",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_REX_SOPHIE_TERRY_COHORT19_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "1ff27c915ef459925fd6a98aae2af543107cc52a27fdce01de4acf53b8f282bb",
+        "source_run": 39473086304,
+        "housekeeping_run": 39473978223,
+        "final_run": 39474051339,
+        "full_tests_each": 385,
+        "published_project_paths": 1178,
+        "current_models": 28,
+        "no_independent_accuracy_or_confidence_gain": true
+      }
     },
     {
       "character": "Terry",
       "identity": "テリー;explicit named cage driver/battle-axe guard,not Taylor or collective party voice",
-      "likely_tier": "1 scoped bounded profile; future monograph/model open",
-      "priority": "Individual profile received; exact publication pending",
+      "likely_tier": "1 scoped bounded profile; full gate closed; future monograph/model open",
+      "priority": "Scoped artifacts published; broader evidence review remains open",
       "evidence_distribution": "Complete EXP03 report and CONTEXP01/02 leads. Direct names and individual rowsT01-T08 in shared known native crew union;exact interception/transport/voice separated from Rex/Sophie.",
       "substantive_responsibility": "Actual ambush protection, battle/provider work and finite injury/capacity. Separate profile retains fallible heard claim,driving,actual interception/time buying,injured return and own reassurance; role,willingness,readiness and result remain different.",
       "gaps": "Private preferences,ordinary biography,other relations and repeated discriminating decisions remain open; unassigned male lines are not automatic. No fixed ceiling or forced model.",
-      "disposition_status": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_COHORT19_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_TIER1_PROFILE_COHORT19_PUBLISHED_FULL_GATE_CLOSED",
       "independent_observation_count": null,
       "prior_cohort19_current_fields": {
         "identity": "Accepted report name; exact native spelling pending",
@@ -1658,7 +1718,25 @@
         "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT19_SOPHIE_TERRY_BOUNDED_PROFILES.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_REX_SOPHIE_TERRY_EVIDENCE_INDEX.md"
       ],
-      "cohort19_semantic_receiving_sha256": "5e3bede13cb6c6f4dceed11a2f5c260b8cc792b3de25d8e01ad3150dbbbfa070"
+      "cohort19_semantic_receiving_sha256": "5e3bede13cb6c6f4dceed11a2f5c260b8cc792b3de25d8e01ad3150dbbbfa070",
+      "cohort19_publication_pending_at_authorship_history": {
+        "likely_tier": "1 scoped bounded profile; future monograph/model open",
+        "priority": "Individual profile received; exact publication pending",
+        "disposition_status": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_COHORT19_PUBLICATION_PENDING"
+      },
+      "cohort19_publication_gate_close": {
+        "source": "fdd72d658e75bf527f9b564118a39edaf5809caa",
+        "tree": "7902e3e007f7f74119ea99259097096b031a5ee9",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_REX_SOPHIE_TERRY_COHORT19_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "1ff27c915ef459925fd6a98aae2af543107cc52a27fdce01de4acf53b8f282bb",
+        "source_run": 39473086304,
+        "housekeeping_run": 39473978223,
+        "final_run": 39474051339,
+        "full_tests_each": 385,
+        "published_project_paths": 1178,
+        "current_models": 28,
+        "no_independent_accuracy_or_confidence_gain": true
+      }
     },
     {
       "character": "Rize / Raina",
@@ -2106,17 +2184,30 @@
     },
     {
       "character": "Nerimaki / ねりまき",
-      "identity": "Named Crimson village classmate/tavern worker, directly selfnames MAIN14C1P358; distinct from Funifura/Dodonko and Megumin's erroneous earlier labels.",
-      "likely_tier": "1-2 candidate, unresolved",
-      "priority": "Discovery",
-      "evidence_distribution": "MAIN14 complete principal2691base-textP; C1P358-414, corrected IMG011 and contributor IMG026. CURRENT WORKING31: Current complete MAIN13-MAIN16 accepted report review, receipts49-52; derivative claims retain original access planes. Targeted native confirmations are separately pinned, with no new whole-source/independent-test credit.",
-      "substantive_responsibility": "Own news-for-service barter, response to heard information, private imagined M/Y pairing, actual objection to Aigis and particular paid bodily material/scraping. Exact provider/role/knowledge and payment scopes are observable. CURRENT WORKING31: MAIN14 occupational novelist/tavern work, authorship and professional dignity supply own reasons in visitor interactions; imaginative fiction differs from performed intimate acts or others agreement.",
-      "gaps": "Contributor imagination is not enacted intimacy or other's assent. No hidden episode or unshown services inferred. Bounded profile/monograph decision follows distinct needs, motives and limits, without an arbitrary event quota. CURRENT WORKING31 QUALIFICATION: Name/old mistaken labels remain exact, no merger with Funifura/Dodonko. Bounded profile/monograph decision follows own needs/voice without event quotas or invented services/relationships.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "identity": "ねりまき; selfnamed liquor-store owner daughter/future proprietor and tavern worker; distinct from Funifura/Dodonko and named writer Arue",
+      "likely_tier": "1 scoped bounded profile; deeper artifacts remain open",
+      "priority": "Individual profile and attributed writer correction received; exact publication pending",
+      "evidence_distribution": "MAIN14 complete principal2691base-textP; C1P358-414, corrected IMG011 and contributor IMG026. CURRENT WORKING31: Current complete MAIN13-MAIN16 accepted report review, receipts49-52; derivative claims retain original access planes. Targeted native confirmations are separately pinned, with no new whole-source/independent-test credit. C20 indexN01-N08 separates MAIN14C1service/imagination/harassment/scraping, actualIMG026 and named Arue writer context; YORI02P88 corroborates attribution only as participant report. Shared bounded union is not personal event count.",
+      "substantive_responsibility": "Own news-for-service barter, actual food/milk provision, future business aspiration, social imagination, explicit harassment complaint, local invited action and continued material scraping through stop requests. Current correction: novelist/publication/pay/professional-defense material belongs to Arue (MAIN14C3P166-192), not Nerimaki; exact earlier wording preserved as history.",
+      "gaps": "Concentrated context leaves wider work/private choices open. Image depicts her imagination, not performed intimacy/assent or her external authorship. Unnamed operator not explicitly biological father; no hidden service, complete consent, price or account settlement inferred.",
+      "disposition_status": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_COHORT20_PUBLICATION_PENDING",
       "independent_observation_count": null,
       "prior_gap_history_working30": "Contributor imagination is not enacted intimacy or other's assent. No hidden episode or unshown services inferred. Bounded profile/monograph decision follows distinct needs, motives and limits, without an arbitrary event quota.",
       "current_scope_asof_working31": "All17 main excluded,19 supplemental and5mixed declared source programs remain closed. Current complete main analytical-derivative review is MAIN01-17 (MAIN17 received earlier out of order); receipts49-52 finishMAIN13-16. Later checkpoints/earlier prospective reconciliation/current ledger and separate supporting-register consolidation, final census/artifacts/expanded models/curation/release remain active. No new source/whole-native/ruby/image/independent-test credit from derivative receiving. Current157qualified audit rows are not final individual population; global percentage null.",
-      "cohort06_current_evidence_qualification": "Current complete MAIN13-16 analytical receiving with exact separate native scope where receipted; historical forecasts and earlier published scoped models/gates remain unchanged. Full independent-event/census closure remains open."
+      "cohort06_current_evidence_qualification": "Current complete MAIN13-16 analytical receiving with exact separate native scope where receipted; historical forecasts and earlier published scoped models/gates remain unchanged. Full independent-event/census closure remains open.",
+      "prior_cohort20_current_fields": {
+        "identity": "Named Crimson village classmate/tavern worker, directly selfnames MAIN14C1P358; distinct from Funifura/Dodonko and Megumin's erroneous earlier labels.",
+        "likely_tier": "1-2 candidate, unresolved",
+        "priority": "Discovery",
+        "substantive_responsibility": "Own news-for-service barter, response to heard information, private imagined M/Y pairing, actual objection to Aigis and particular paid bodily material/scraping. Exact provider/role/knowledge and payment scopes are observable. CURRENT WORKING31: MAIN14 occupational novelist/tavern work, authorship and professional dignity supply own reasons in visitor interactions; imaginative fiction differs from performed intimate acts or others agreement.",
+        "gaps": "Contributor imagination is not enacted intimacy or other's assent. No hidden episode or unshown services inferred. Bounded profile/monograph decision follows distinct needs, motives and limits, without an arbitrary event quota. CURRENT WORKING31 QUALIFICATION: Name/old mistaken labels remain exact, no merger with Funifura/Dodonko. Bounded profile/monograph decision follows own needs/voice without event quotas or invented services/relationships.",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort20_artifacts": [
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT20_NERIMAKI_BOUNDED_PROFILE.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_VILLAGE_PEERS_EVIDENCE_INDEX.md"
+      ],
+      "cohort20_semantic_receiving_sha256": "521928eaddb191173ca2ceda58db986ea0e7ca97027c65518d6c0f08a7e18730"
     },
     {
       "character": "Moguninnin / 爆殺魔人もぐにんにん",
@@ -4020,9 +4111,57 @@
       "gaps": "Individual speech/action attribution and later joins remain open. Do not manufacture a name, private motive or separate donation for each slot.",
       "disposition_status": "QUALIFIED_SOURCE_BOUND_INDIVIDUAL_OR_OCCURRENCE_NOT_FINAL_IDENTITY_POPULATION",
       "independent_observation_count": null
+    },
+    {
+      "character": "Funifura younger brother (reported patient)",
+      "identity": "Unseen family member identified through Funifura relationship, no personal name invented.",
+      "likely_tier": "0 indexed incidental/family occurrence; future evidence review open",
+      "priority": "Source-bound incidental indexing",
+      "evidence_distribution": "EXP01U034P102-107/U037P150-158;EXP02U023P433-440;indexI01.",
+      "substantive_responsibility": "Reported illness defended and later fabrication denied; no new patient performance.",
+      "gaps": "No direct patient choice, diagnosis, treatment outcome or cross-source name join.",
+      "disposition_status": "QUALIFIED_SOURCE_BOUND_INDIVIDUAL_OR_OCCURRENCE_NOT_FINAL_IDENTITY_POPULATION",
+      "independent_observation_count": null,
+      "cohort20_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_VILLAGE_PEERS_EVIDENCE_INDEX.md"
+      ],
+      "cohort20_publication_status": "SEMANTIC_RECEIVING_COMPLETE_CONTAINING_PUBLICATION_PENDING",
+      "cohort20_semantic_receiving_sha256": "521928eaddb191173ca2ceda58db986ea0e7ca97027c65518d6c0f08a7e18730"
+    },
+    {
+      "character": "Funifura father (reported staff craftsman)",
+      "identity": "Arue-reported father of Funifura; distinct from Hyoizaburoo and other craftsmen unless later proved.",
+      "likely_tier": "0 indexed incidental/family occurrence; future evidence review open",
+      "priority": "Source-bound incidental indexing",
+      "evidence_distribution": "EXP02U023P414-423;indexI02.",
+      "substantive_responsibility": "Reported staff manufacture separate from Funifura actual handover and other contributors.",
+      "gaps": "No watched workshop, individual voice, full occupation or independent decision.",
+      "disposition_status": "QUALIFIED_SOURCE_BOUND_INDIVIDUAL_OR_OCCURRENCE_NOT_FINAL_IDENTITY_POPULATION",
+      "independent_observation_count": null,
+      "cohort20_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_VILLAGE_PEERS_EVIDENCE_INDEX.md"
+      ],
+      "cohort20_publication_status": "SEMANTIC_RECEIVING_COMPLETE_CONTAINING_PUBLICATION_PENDING",
+      "cohort20_semantic_receiving_sha256": "521928eaddb191173ca2ceda58db986ea0e7ca97027c65518d6c0f08a7e18730"
+    },
+    {
+      "character": "Unnamed MAIN14 tavern/lodging operator (identity unjoined)",
+      "identity": "Source-bound welcome/explanation speaker; not explicitly Nerimaki biological father or another edition innkeeper.",
+      "likely_tier": "0 indexed incidental/family occurrence; future evidence review open",
+      "priority": "Source-bound incidental indexing",
+      "evidence_distribution": "MAIN14C1startP330-357, especially346/351/354;indexI03.",
+      "substantive_responsibility": "Actual welcome/counter-seat offer and business-name explanation; designer story reported.",
+      "gaps": "Name/family/other inn or restaurant joins open. Too concentrated for meaningful individual behavioral profile.",
+      "disposition_status": "QUALIFIED_SOURCE_BOUND_INDIVIDUAL_OR_OCCURRENCE_NOT_FINAL_IDENTITY_POPULATION",
+      "independent_observation_count": null,
+      "cohort20_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_VILLAGE_PEERS_EVIDENCE_INDEX.md"
+      ],
+      "cohort20_publication_status": "SEMANTIC_RECEIVING_COMPLETE_CONTAINING_PUBLICATION_PENDING",
+      "cohort20_semantic_receiving_sha256": "521928eaddb191173ca2ceda58db986ea0e7ca97027c65518d6c0f08a7e18730"
     }
   ],
-  "working_row_count_not_population_denominator": 187,
+  "working_row_count_not_population_denominator": 190,
   "global_census_closed": false,
   "final_tiers_assigned": false,
   "global_completion_percentage": null,
@@ -4047,9 +4186,10 @@
     "Lolisa scoped conditional Tier3 and Rionor/Feit scoped Tier2 monographs cohort16 full publication gate closed; future modeling open and reliability provisional",
     "Wolbach scoped conditional Tier3 and Chomusuke scoped Tier2 monograph cohort17 full publication gate closed; future modeling open and reliability provisional",
     "Sena/Arnes scoped conditional Tier3separate monographs/models cohort18 full publication gate closed; three/four rules,reliability provisional",
-    "Rex cohort19 provisional conditional Tier3 three rules/twelve-dimension monograph and Sophie/Terry separate revisable Tier1 bounded profiles semantically received; exact containing publication pending"
+    "Rex scoped conditional Tier3 three-rule model/monograph and Sophie/Terry separate revisable Tier1 profiles cohort19 full publication gate closed; reliability provisional",
+    "Funifura/Dodonko cohort20 revisable Tier2 monographs, Nerimaki Tier1 bounded profile and three Tier0 report/occurrence records semantically received; exact containing publication pending; no new reconstruction."
   ],
-  "current_actual_individual_audit_scope": "Earlier41 source/report programs and prior ten-responsibility literal/qualified receiving retain their separate scopes. C19 shared union 1,556 distinct known BASE contexts/six members/two objects includes other actors,blanks,reports and hypotheses,not fresh full ruby/image/whole-source/admission or independent decisions. Only51/52/53 change analytically relative current,184 others exact; carried C18closure22/50 makes five rows differ from parent5e001f0e,182 others exact. Four informed same-author English first saved bodies/zero regeneration/repair retain generic rivals,unprovided reaction/plan placement/prior knowledge,unasked capability challenge,shared help endpoint and largely unprobed RX-R02. No independent accuracy,grade,Japanese adequacy or confidence gain. Other private historical fields stay separate.",
+  "current_actual_individual_audit_scope": "Earlier 41 admitted source/report programs and literal/qualified ten-responsibility receiving retain their scopes. C20 union: 2,535 unique known BASE context slots in fifteen members/eight objects plus one actual afterword image, including other actors, blanks, reports and hypotheses. No new full-source/ruby/residual/image-set/admission or independent decision credit. Two Tier2 monographs/one Tier1 profile; zero new model/rule/input/first-body/test. Writer attribution corrected from Nerimaki to Arue with old field preserved. Three target existing rows/three new occurrence records; 184 others exact relative current. Carried C19 closure rows 51/52/53 make six existing rows differ from parent fdd72d65, 181 others exact. No independent accuracy, Japanese adequacy, grade or confidence gain; other private history stays separate.",
   "historical_integrity": "MG02-I01/I02 through MG05, original blank fields, CP outcomes, letters-as-NT and preYORI04SEC01 scope remain unchanged. New source-known comparisons are retrospective; hypotheticals are not source validation.",
   "current_receipt_pins": [
     {
@@ -5925,9 +6065,9 @@
     "updated_utc": "2026-10-20T17:44:03.663249+00:00",
     "scope": "Cohorts01-18 have closed exact-source gates at declared scopes: twenty-one scoped secondary conditional-model subjects/27model bodies,fifteen bounded profiles and four Tier2monograph-only Nos,Rionor,Feit,Chomusuke.187qualifiedrecords include groups,aliases and occurrence slots,not final unique people. Reliability remains provisional; full census/final tiers/program open."
   },
-  "canonical_status": "Cohort19 Rex model/monograph and two separate bounded profiles semantically received; exact containing publication pending. 187 qualified records remain nonfinal; full census/final tiers/program open.",
+  "canonical_status": "Cohort20 five new cores semantically received; exact containing publication pending. Existing rows 48/49/85 and three new Tier0 occurrence records adopted; 184 other existing rows exact relative current. Full census/final tiers/program open.",
   "cohort19_current_receiving": {
-    "status": "SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+    "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
     "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_REX_SOPHIE_TERRY_COHORT_19_RECEIVING_AND_PROVENANCE.json",
     "semantic_receiving_sha256": "5e3bede13cb6c6f4dceed11a2f5c260b8cc792b3de25d8e01ad3150dbbbfa070",
     "candidate_models": 28,
@@ -5953,6 +6093,134 @@
       52,
       53
     ],
-    "untouched_rows_relative_parent": 182
+    "untouched_rows_relative_parent": 182,
+    "publication_gate_close": {
+      "source": "fdd72d658e75bf527f9b564118a39edaf5809caa",
+      "tree": "7902e3e007f7f74119ea99259097096b031a5ee9",
+      "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_REX_SOPHIE_TERRY_COHORT19_PUBLICATION_GATE_CLOSE.json",
+      "gate_sha256": "1ff27c915ef459925fd6a98aae2af543107cc52a27fdce01de4acf53b8f282bb",
+      "source_run": 39473086304,
+      "housekeeping_run": 39473978223,
+      "final_run": 39474051339,
+      "full_tests_each": 385,
+      "published_project_paths": 1178,
+      "current_models": 28,
+      "no_independent_accuracy_or_confidence_gain": true
+    }
+  },
+  "cohort19_pending_at_authorship_current_metadata": {
+    "scope": "Cohorts01-18 closed their exact-source gates at declared scopes. Cohort19 Rex model/monograph and separate Sophie/Terry Tier1 profiles have completed semantic receiving,with exact containing publication pending: candidate28 model bodies/twenty-two scoped secondary model subjects/seventeen bounded profiles/four monograph-only Nos,Rionor,Feit,Chomusuke.187 qualified records include groups,aliases and occurrence slots rather than final unique people. Reliability remains provisional; full census/final tiers/program remain open.",
+    "canonical_status": "Cohort19 Rex model/monograph and two separate bounded profiles semantically received; exact containing publication pending. 187 qualified records remain nonfinal; full census/final tiers/program open.",
+    "current_actual_individual_audit_scope": "Earlier41 source/report programs and prior ten-responsibility literal/qualified receiving retain their separate scopes. C19 shared union 1,556 distinct known BASE contexts/six members/two objects includes other actors,blanks,reports and hypotheses,not fresh full ruby/image/whole-source/admission or independent decisions. Only51/52/53 change analytically relative current,184 others exact; carried C18closure22/50 makes five rows differ from parent5e001f0e,182 others exact. Four informed same-author English first saved bodies/zero regeneration/repair retain generic rivals,unprovided reaction/plan placement/prior knowledge,unasked capability challenge,shared help endpoint and largely unprobed RX-R02. No independent accuracy,grade,Japanese adequacy or confidence gain. Other private historical fields stay separate.",
+    "scoped_tiers_assigned": [
+      "Iris cohort01 full publication gate closed",
+      "Yunyun cohort02 full publication gate closed",
+      "Vanir overallcohort03 full publication gate closed",
+      "Wiz overallcohort04 full publication gate closed",
+      "Chris/Eris overallcohort05 full publication gate closed",
+      "Dust overallcohort06 full publication gate closed",
+      "Komekko overallcohort07 full publication gate closed",
+      "Hoost overallcohort08 full publication gate closed",
+      "Levi overallcohort09 full publication gate closed",
+      "Nos cohort10 Tier2 monograph full publication gate closed; no distinct model",
+      "Claire cohort11 scopedTier3 full publication gate closed",
+      "Rain cohort11 scopedTier3 full publication gate closed",
+      "Luna cohort12 scopedTier3 full publication gate closed",
+      "Cecily/Zesta scopedTier3 and Tristan/reporting-priest Tier1 cohort13 full publication gate closed",
+      "Four clergy/merchant scopedTier1 profiles cohort14 full publication gate closed",
+      "Leen/Keith/Taylor cohort15 scoped conditional Tier3 full publication gate closed; reliability provisional",
+      "Lolisa scoped conditional Tier3 and Rionor/Feit scoped Tier2 monographs cohort16 full publication gate closed; future modeling open and reliability provisional",
+      "Wolbach scoped conditional Tier3 and Chomusuke scoped Tier2 monograph cohort17 full publication gate closed; future modeling open and reliability provisional",
+      "Sena/Arnes scoped conditional Tier3separate monographs/models cohort18 full publication gate closed; three/four rules,reliability provisional",
+      "Rex cohort19 provisional conditional Tier3 three rules/twelve-dimension monograph and Sophie/Terry separate revisable Tier1 bounded profiles semantically received; exact containing publication pending"
+    ],
+    "cohort19_current_receiving": {
+      "status": "SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_REX_SOPHIE_TERRY_COHORT_19_RECEIVING_AND_PROVENANCE.json",
+      "semantic_receiving_sha256": "5e3bede13cb6c6f4dceed11a2f5c260b8cc792b3de25d8e01ad3150dbbbfa070",
+      "candidate_models": 28,
+      "candidate_scoped_secondary_model_subjects": 22,
+      "bounded_profiles": 17,
+      "monograph_only_subjects": [
+        "Nos",
+        "Rionor",
+        "Feit",
+        "Chomusuke"
+      ],
+      "records_not_final_people": 187,
+      "changed_rows": [
+        51,
+        52,
+        53
+      ],
+      "untouched_rows_relative_current": 184,
+      "parent_changed_rows": [
+        22,
+        50,
+        51,
+        52,
+        53
+      ],
+      "untouched_rows_relative_parent": 182
+    },
+    "updated_utc": "2026-10-20T18:04:44.598318+00:00"
+  },
+  "cohort19_publication_resolution": {
+    "source": "fdd72d658e75bf527f9b564118a39edaf5809caa",
+    "tree": "7902e3e007f7f74119ea99259097096b031a5ee9",
+    "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_REX_SOPHIE_TERRY_COHORT19_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "1ff27c915ef459925fd6a98aae2af543107cc52a27fdce01de4acf53b8f282bb",
+    "source_run": 39473086304,
+    "housekeeping_run": 39473978223,
+    "final_run": 39474051339,
+    "full_tests_each": 385,
+    "published_project_paths": 1178,
+    "current_models": 28,
+    "no_independent_accuracy_or_confidence_gain": true
+  },
+  "prior_current_metadata_before_cohort20": {
+    "scope": "Cohorts01-19 closed exact-source gates at declared scopes: twenty-two scoped secondary conditional-model subjects / 28 model bodies, seventeen bounded profiles and four Tier2 monograph-only subjects (Nos, Rionor, Feit, Chomusuke). The 187 qualified records include groups, aliases and occurrence slots rather than final unique people. Reliability remains provisional; full census/final tiers/program remain open.",
+    "canonical_status": "Cohort19 full exact-source gate and fresh authority reload closed; Rex model/monograph and separate Sophie/Terry bounded profiles published. All wider program responsibilities remain active.",
+    "current_actual_individual_audit_scope": "Cohort19 full gate/fresh reload closed. The 1,556 known BASE context slots/six members/two objects retain their qualified access,not new whole-source/ruby/image/admission/independent credit. Only three local gate-status rows51/52/53 change relative published fdd72d65,184 others exact; C18closure is already in that source. Four first saved same-informed-author English bodies retain generic rivals,unprovided details,unasked challenge,shared help endpoint and largely unprobed RX-R02. No independent accuracy,Japanese adequacy,grade or confidence gain.",
+    "updated_utc": "2026-10-20T18:29:43.118489+00:00",
+    "status": "INCREMENTAL_187_QUALIFIED_RECORDS_NOT_FINAL_INDIVIDUAL_DENOMINATOR",
+    "working_row_count_not_population_denominator": 187
+  },
+  "cohort20_current_receiving": {
+    "status": "SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+    "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_VILLAGE_PEERS_COHORT_20_RECEIVING_AND_PROVENANCE.json",
+    "semantic_receiving_sha256": "521928eaddb191173ca2ceda58db986ea0e7ca97027c65518d6c0f08a7e18730",
+    "candidate_models": 28,
+    "candidate_scoped_secondary_model_subjects": 22,
+    "bounded_profiles": 18,
+    "monograph_only_subjects": [
+      "Nos",
+      "Rionor",
+      "Feit",
+      "Chomusuke",
+      "Funifura",
+      "Dodonko"
+    ],
+    "records_not_final_people": 190,
+    "changed_rows": [
+      48,
+      49,
+      85
+    ],
+    "untouched_existing_rows_relative_current": 184,
+    "new_rows": [
+      187,
+      188,
+      189
+    ],
+    "parent_changed_existing_rows": [
+      48,
+      49,
+      51,
+      52,
+      53,
+      85
+    ],
+    "untouched_existing_rows_relative_parent": 181
   }
 }

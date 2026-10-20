@@ -1252,3 +1252,10 @@ Sena’s accomplice warning actually silences MAIN03C1P52-53; selective testimon
 Real protection and useful performance coexist with pressure,belittling,misclassification and finite injury (R03-R16). Barely-fightable healing is not full readiness,and reassurance is not proof of safety. Final Explosion/reward/parting warmth do not erase crew contribution or earlier costs. Cecily’s stone prank and later actual gold aid stay separate episodes without repairing frozen clergy artifacts. No completed consent,medical recovery or universal indispensability is invented.
 
 Known EXP03/CONTEXP02 BASE returns only:1,556 distinct context slots/six members/two native objects,including blanks,other actors,reports and hypotheses; no fresh whole-source,ruby/image,admission,independent decision,accuracy or confidence credit. Current claims route to `CR-SECONDARY-COHORT19-001` and the shared crew index/provenance; exact containing publication remains pending.
+
+
+## Cohort20 — individual village peers and attributed writer correction
+
+Later care and laughter do not erase the peer pressure on Yunyun, Megumin's forced knife/threat/assault, her hot-food retaliation or unsafe teacher staging. The blade-entering possibility is not promoted into a completed rabbit kill. Funifura's apology and farewell contributions are real but bounded repair, not proof all earlier costs are gone.
+
+Nerimaki can correctly name harassment and still violate Aigis's material boundary after his stop request. Payment, imagined intimacy and local participation are different permissions. Collateral MAIN05 F170–219 separates Megumin's requested upper-magic operation from Kazuma's actual all-points Explosion choice; later joy/praise does not retroactively authorize the concealed change. These are explicit later-synthesis feeds, with no frozen principal-model repair or new safety floor. [village-peer index](../08%20Evidence%20and%20Indexes/KONOSUBA_VILLAGE_PEERS_EVIDENCE_INDEX.md)

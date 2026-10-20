@@ -1454,3 +1454,10 @@ Sena’s notes,adventurer coordination,seal supply and awards differ from person
 Rex greatsword charge/warning,Sophie spear support and Terry’s actual interception/time buying combine with Yunyun’s Sleep (R09-R10/S05/T03); none owns the whole capture. Hoost’s sudden defeat does not erase that earlier work. Limited healing/apparent fracture,left-handed sword throw,finite magical items and self-including paralysis separate capacity,access,readiness,deployment and result (R11-R16). The capital offer explicitly finds a setting for one daily shot (R19),not unlimited magic.
 
 Known EXP03/CONTEXP02 BASE returns only:1,556 distinct context slots/six members/two native objects,including blanks,other actors,reports and hypotheses; no fresh whole-source,ruby/image,admission,independent decision,accuracy or confidence credit. Current claims route to `CR-SECONDARY-COHORT19-001` and the shared crew index/provenance; exact containing publication remains pending.
+
+
+## Cohort20 — individual village peers and attributed writer correction
+
+MAIN11 C3 P69/93–95 shows a performed child escort. P153 is Funifura's actual task-fit exclusion; P155–156 is Dodonko's report that both learned upper magic and were called. Qualification/call-up, readiness, actual casting and battle outcome stay distinct. Village practice and favorable later news do not supply new individual feats. EXP01 U023 weapons are light props, while Arue actually strikes the lizard.
+
+EXP02 U023 P414–440 separates Funifura's actual staff handover, Arue-reported father manufacture/material collection and Dodonko-reported medicine work; no fresh cure or workshop is watched. Nerimaki supplies food and milk, but publication/pay/novelist work belongs to Arue. Collateral C02 retains actual finite spells, manual harvest/wages and denied employment access without equating these states. [village-peer index](../08%20Evidence%20and%20Indexes/KONOSUBA_VILLAGE_PEERS_EVIDENCE_INDEX.md) owns the bounded locators; no frozen model is revised here.

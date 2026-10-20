@@ -1896,3 +1896,10 @@ The [Leen](KONOSUBA_LEEN_EVIDENCE_INDEX.md), [Keith](KONOSUBA_KEITH_EVIDENCE_IND
 ## Cohort19 individual crew locators
 
 The [crew index](KONOSUBA_REX_SOPHIE_TERRY_EVIDENCE_INDEX.md) has 22 Rex,nine Sophie and eight Terry rows. [Native provenance](KONOSUBA_REX_SOPHIE_TERRY_NATIVE_PROVENANCE_01.json) binds EXP03U026/U032/U034/U045 and partial CONTEXP02U013/U023 by exact native/member/register/admission hashes and actual receiving intervals. Direct names and recalled events anchor continuity; the later adjacent woman/axeman join remains qualified. Search-only absence in CONTEXP01 is not all-source absence. Known EXP03/CONTEXP02 BASE returns only:1,556 distinct context slots/six members/two native objects,including blanks,other actors,reports and hypotheses; no fresh whole-source,ruby/image,admission,independent decision,accuracy or confidence credit.
+
+
+## Cohort20 — individual village peers and attributed writer correction
+
+Cohort20 retrieval is owned by the [village-peer individual index](KONOSUBA_VILLAGE_PEERS_EVIDENCE_INDEX.md), with 42 overlapping retrieval rows and [native provenance](KONOSUBA_VILLAGE_PEERS_NATIVE_PROVENANCE_01.json). Direct/report/imagined/conditional stages remain typed. Fifteen members/eight objects/2,535 unique known BASE slots plus one actual image are shared context, not a new full-source pass or independent-event denominator.
+
+[Funifura](../05%20Specialist%20Synthesis/KONOSUBA_FUNIFURA_CHARACTER_MONOGRAPH.md) and [Dodonko](../05%20Specialist%20Synthesis/KONOSUBA_DODONKO_CHARACTER_MONOGRAPH.md) have separate monographs; [Nerimaki](../05%20Specialist%20Synthesis/KONOSUBA_COHORT20_NERIMAKI_BOUNDED_PROFILE.md) has a bounded profile. MAIN14 C3 P166–192 is Arue writer evidence; C1 P358/370 and IMG026 are Nerimaki service/imagination evidence. Three Tier0 family/operator occurrence records retain exact report/identity limits.

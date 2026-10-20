@@ -1719,3 +1719,10 @@ Sena explicitly self-names kingdom prosecutor MAIN03C1P18; judge,lord,knights,un
 Rex’s initial overreading of a limited upper-magic denial gives way to local recognition of Yunyun,not immediate recognition of Megumin (R01-R06). His later warning retains the all-talk label before observed Explosion changes the practical role offered (R16/R19). Sophie’s and Terry’s named skill,limited healing,renewed exposure,unconsciousness/reassurance and later presence remain separate states (S02-S09/T02-T08). Injury readiness and inability causes are not normalized into full recovery.
 
 Known EXP03/CONTEXP02 BASE returns only:1,556 distinct context slots/six members/two native objects,including blanks,other actors,reports and hypotheses; no fresh whole-source,ruby/image,admission,independent decision,accuracy or confidence credit. Current claims route to `CR-SECONDARY-COHORT19-001` and the shared crew index/provenance; exact containing publication remains pending.
+
+
+## Cohort20 — individual village peers and attributed writer correction
+
+Funifura and Dodonko each earn a separate revisable Tier2 monograph: attributable invitations, defenses, refusal, gift/medicine testimony and later social/tactical exchanges support distinct descriptive histories. No separate generative model is adopted. Nerimaki earns a Tier1 service/imagination/boundary profile; the named occupational writer is Arue, MAIN14 C3 P166–192, not Nerimaki. See [village-peer index](../08%20Evidence%20and%20Indexes/KONOSUBA_VILLAGE_PEERS_EVIDENCE_INDEX.md).
+
+F01–F15/D01–D13 retain pressure and repair, fear and persistence, skill claims and actual work as different states. Three new Tier0 records retain a reported brother, reported father/craftsman and unnamed MAIN14 operator; they are not final unique-person or independent-event increments. Existing state histories remain intact; current containing publication is pending.

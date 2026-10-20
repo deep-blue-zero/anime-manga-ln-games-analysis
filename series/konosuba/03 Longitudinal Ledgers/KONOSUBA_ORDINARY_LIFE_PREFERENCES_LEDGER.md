@@ -1324,3 +1324,10 @@ Sena makes/brings tea,closes a cold door MAIN04C1P96,offers a useful tool and pu
 Information gathering,cage driving,work/recruitment,planned celebration,travel preparation,familiar guild drinks and a name correction earn ordinary-life attention (R06-R10/R18-R22,T02). Half-bounty and celebration proposals are not completed transfers/membership. Megumin reports giving the eventual bounty and remaining funds; no exact counted shares. Her unasked wish for a meal does not become Rex’s refusal. Private biography,tastes,finances and all teammates’ reasons remain open.
 
 Known EXP03/CONTEXP02 BASE returns only:1,556 distinct context slots/six members/two native objects,including blanks,other actors,reports and hypotheses; no fresh whole-source,ruby/image,admission,independent decision,accuracy or confidence credit. Current claims route to `CR-SECONDARY-COHORT19-001` and the shared crew index/provenance; exact containing publication remains pending.
+
+
+## Cohort20 — individual village peers and attributed writer correction
+
+Funifura's reported hair-tie gift, current replacement offer, lunch/walk invitations and actual staff handover distinguish offered, valued and completed stages. Dodonko's conversational initiative, reported sword-hero aspiration and medicine work supply different ordinary concerns. Untagged restaurant orders do not fix either girl's enduring food preference; birthday promise is not a completed later gathering.
+
+Nerimaki's actual service/news bargain and future-proprietor claim support work and aspiration, not current ownership or novel authorship. Aigis requests milk and labels a fragment payment; Nerimaki returns with milk, and Kazuma eventually receives it. Provider/requester/payer/recipient and claimed price/account settlement remain distinct. No complete household budget or hidden service is inferred. [village-peer index](../08%20Evidence%20and%20Indexes/KONOSUBA_VILLAGE_PEERS_EVIDENCE_INDEX.md)

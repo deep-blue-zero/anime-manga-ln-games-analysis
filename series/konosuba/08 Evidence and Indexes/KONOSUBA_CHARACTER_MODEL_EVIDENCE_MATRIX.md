@@ -1091,3 +1091,10 @@ Separate [Sena model](../06%20Character%20Modeling%20and%20Reconstruction/KONOSU
 ## Cohort19 scoped artifact responsibilities
 
 Rex earns a provisional Tier3 [model](../06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_REX_RECONSTRUCTION_MODEL.md),twelve-dimension [monograph](../05%20Specialist%20Synthesis/KONOSUBA_REX_CHARACTER_MONOGRAPH.md) and 22 index rows. Three conditional rules retain selective updating,practical protection with finite means,and situated ambitious recruitment with contrary retreat pressure. Sophie and Terry earn separate revisable Tier1 [profiles](../05%20Specialist%20Synthesis/KONOSUBA_COHORT19_SOPHIE_TERRY_BOUNDED_PROFILES.md),not forced models or a shared mind. Candidate 28 current model bodies/twenty-two secondary model subjects/seventeen bounded profiles/four monograph-only Nos,Rionor,Feit,Chomusuke have distinct maturity limits. Four same-informed-author first bodies retain strong generic cues and defects; no independent accuracy/grade/confidence gain or new six StageD successors. Exact containing publication pending.
+
+
+## Cohort20 — individual village peers and attributed writer correction
+
+Cohort20 adds no model. Funifura and Dodonko each receive a revisable Tier2 monograph, with distinct histories and strong generic/collective-attribution rivals. Nerimaki receives a Tier1 bounded profile; occupational writer evidence belongs to Arue. Candidate total remains 28 model bodies/twenty-two scoped secondary model subjects; eighteen profiles and six monograph-only subjects (Nos, Rionor, Feit, Chomusuke, Funifura, Dodonko) retain different responsibilities.
+
+The [individual index](KONOSUBA_VILLAGE_PEERS_EVIDENCE_INDEX.md) and [provenance](KONOSUBA_VILLAGE_PEERS_NATIVE_PROVENANCE_01.json) own source access. No new test inputs, first bodies, independent accuracy, Japanese adequacy, grade or confidence gain is claimed. Containing publication pending; whole individual census, expanded specialists and six separate StageD successors remain open.

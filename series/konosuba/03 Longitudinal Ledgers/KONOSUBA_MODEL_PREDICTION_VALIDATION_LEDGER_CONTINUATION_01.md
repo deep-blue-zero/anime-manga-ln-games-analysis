@@ -482,3 +482,10 @@ Three Sena and four Arnes rules/models plus monographs/indices/provenance were s
 Rex adds three provisional rules and four actual first saved English bodies/two controlled modern contrast pairs. Model/rules precede exact input freeze; inputs precede body seal; assessment follows;zero regeneration/repair. H01 contrasts witnessed performance with an uncorroborated account but both permit basic work. H02 contrasts explicit refusal with interest at an already accommodated limit; A does not physically depart. Strong generic rivals,unprovided look/plan location/prior knowledge and weak RX-R02 coverage remain. Same informed author at all stages; no blind accuracy,grade,Japanese adequacy or confidence gain. Earlier predictions,scores,blanks/nulls and models remain exact.
 
 Known EXP03/CONTEXP02 BASE returns only:1,556 distinct context slots/six members/two native objects,including blanks,other actors,reports and hypotheses; no fresh whole-source,ruby/image,admission,independent decision,accuracy or confidence credit. Current claims route to `CR-SECONDARY-COHORT19-001` and the shared crew index/provenance; exact containing publication remains pending.
+
+
+## Cohort20 — individual village peers and attributed writer correction
+
+Cohort20 adds two Tier2 monographs and one Tier1 profile, zero new reconstruction models/rules, zero exact scenario inputs and zero first bodies or tests. The 28 earlier model bodies and all prior predictions/scores/frozen outputs remain exact. Known-source descriptions and local future-model research questions are not pristine prospective validation, confidence gain or an evaluator grade.
+
+Generic peer/status/family incentives, collective dialogue, report-limited practical skills and narrator selection remain strong rivals. Funifura/Dodonko could earn later models through better actor-specific costly choices and discriminating conditions; secondary status imposes no ceiling or automatic paired battery. Nerimaki's concentrated scope is additionally bounded by the Arue attribution correction. [village-peer index](../08%20Evidence%20and%20Indexes/KONOSUBA_VILLAGE_PEERS_EVIDENCE_INDEX.md)

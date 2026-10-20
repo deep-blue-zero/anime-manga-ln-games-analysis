@@ -1375,3 +1375,10 @@ MAIN03interrogation and trial are Kazuma’s access; his appraisals of Sena’s 
 EXP03 focalizer Megumin initially cannot track the crew’s attack sequence and later misremembers the capital acquaintances (R11/R21). Her bounty-giving/finisher motives remain narrated accounts; later Rex apology is Rex’s report. CONTEXP02 U023 Kazuma’s shill/coercion suggestions are teasing speculation despite a real earlier invitation (R22),not proof of fraud. Sophie’s wing-cut account is reported,not direct watched combat. Distinct focalizers,knowledge and completion stages remain explicit.
 
 Known EXP03/CONTEXP02 BASE returns only:1,556 distinct context slots/six members/two native objects,including blanks,other actors,reports and hypotheses; no fresh whole-source,ruby/image,admission,independent decision,accuracy or confidence credit. Current claims route to `CR-SECONDARY-COHORT19-001` and the shared crew index/provenance; exact containing publication remains pending.
+
+
+## Cohort20 — individual village peers and attributed writer correction
+
+Kazuma's MAIN03 appraisal follows Yunyun's report of school friendship and paid meals, not a newly watched peer transaction. MAIN05/11 contain actual peer reactions but also Megumin's strategic presentation; implied intimacy and Kazuma's interpretations retain their own access. In MAIN14 his guess that Nerimaki is accustomed to customer harassment is speculation, not proof she welcomes it. His claim to be doing Yunyun a favor also anticipates personal thanks.
+
+Megumin narrates much of EXP01/02 and supplies both protective and self-serving judgments. Later family testimony and her repeat restaurant response qualify her early fraud/peer-only explanations. Dust adds Yunyun's intended correspondence, not a witnessed Funifura/Dodonko response; Yorimichi adds a reported pattern of letters. Multiple narrators and ledger copies do not multiply independent confirmations (F11–F15/D10–D13/N02–N06). [village-peer index](../08%20Evidence%20and%20Indexes/KONOSUBA_VILLAGE_PEERS_EVIDENCE_INDEX.md)

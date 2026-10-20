@@ -1938,3 +1938,10 @@ Sena’s bell,tea,bait and level scenes and Arnes’s mistaken-master entrance,n
 Boast/reversal,failed recognition,Max-to-Rex correction and friends’ paid-shill/brainwashing/threat/hostage suggestions have different factual planes (R01-R05/R21-R22). Joking suggestions are not performed coercive crew acts. Comic framing does not erase real interception,injury or pressure. No automatic H code from a fantasy setting or recruitment idiom,and no new formal gag census. H02A future-fame boast/counterfactual audience response is not a completed result.
 
 Known EXP03/CONTEXP02 BASE returns only:1,556 distinct context slots/six members/two native objects,including blanks,other actors,reports and hypotheses; no fresh whole-source,ruby/image,admission,independent decision,accuracy or confidence credit. Current claims route to `CR-SECONDARY-COHORT19-001` and the shared crew index/provenance; exact containing publication remains pending.
+
+
+## Cohort20 — individual village peers and attributed writer correction
+
+Wrong names are explicit mistakes corrected by the named classmates, not aliases. Romantic boasting and the peers' actual embarrassment do not verify every implied intimate event. EXP01 previous-life partner talk is a social fiction; the two short untagged judgments are not automatically assigned one to each girl. Impressive school props, teacher staging and useful rescue preserve unsafe process rather than turn every danger into nonliteral action.
+
+Nerimaki's imagined pairing is explicitly framed by prose MAIN14 C1 P370 and actual afterword IMG026; neither assent nor an unseen performed episode follows. Her puncturing of Kazuma/Aigis rhetoric has local pragmatic force, while continued scraping remains an actual boundary violation. No new H/L score or frozen classification is silently changed; [village-peer index](../08%20Evidence%20and%20Indexes/KONOSUBA_VILLAGE_PEERS_EVIDENCE_INDEX.md) distinguishes actions, reports, imagination and conditional outcomes.

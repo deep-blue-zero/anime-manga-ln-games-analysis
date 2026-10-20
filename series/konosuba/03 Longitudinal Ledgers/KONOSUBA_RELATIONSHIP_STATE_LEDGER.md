@@ -1449,3 +1449,10 @@ Sena’s accusation,apology,renewed suspicion,refusal acceptance,objection to oc
 Leader status does not consume Sophie’s correction or Terry’s action. Rex’s promise of retreat permission coexists with protest when taken; the later capital refusal ends with a friendly departure (R07/R20),not a universal autonomy policy. A mage’s welcome recruitment and embarrassment are not completed membership. Later naming/reminders join identities; group smiles and royal awkwardness do not prove full shared memory or prior knowledge (R21/S08-S09/T07-T08).
 
 Known EXP03/CONTEXP02 BASE returns only:1,556 distinct context slots/six members/two native objects,including blanks,other actors,reports and hypotheses; no fresh whole-source,ruby/image,admission,independent decision,accuracy or confidence credit. Current claims route to `CR-SECONDARY-COHORT19-001` and the shared crew index/provenance; exact containing publication remains pending.
+
+
+## Cohort20 — individual village peers and attributed writer correction
+
+Funifura's actual friendship offer, specific apology and gift coexist with physical direction, guilt and status pressure. Dodonko's own question, illness defense and stop requests are separate contributions. Funifura's objection when Dodonko is constrained shows one reciprocal intervention without proving equal influence or wholly benevolent conduct. Yunyun values company, refuses the rabbit task, accepts a walk and later feels overlooked in reported letters; none means universal compliance.
+
+MAIN14 Nerimaki imagined M/Y pairing is her expectation, not either person's assent or actual romance. Her invited local finger action does not grant blanket permission to Aigis; her later scraping crosses his expressed limit. The staff's family reports, unnamed operator and three new Tier0 occurrence records remain unjoined where identity is not established. [village-peer index](../08%20Evidence%20and%20Indexes/KONOSUBA_VILLAGE_PEERS_EVIDENCE_INDEX.md)
