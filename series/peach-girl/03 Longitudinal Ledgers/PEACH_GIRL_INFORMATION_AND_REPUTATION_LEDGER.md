@@ -5,7 +5,7 @@ artifact_type: information_reputation_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.14"
+version: "0.15"
 status: active_provisional
 scope: "Information Circulation and Reputation; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -1062,3 +1062,79 @@ Next IP0180, KN0193, TX0227, RP0065. Revision0.13 — V14 successors2026-10-20; 
 | PG-RP-0066 / NONE | M-K priority / M partial taxi sighting79/S criticism107–108/T partial account84, versus Mis receives M-first53 | EV0008/0011–0014/0018; different bounded audiences, no broad public scandal/exhaustive shared truth |
 
 Next IP0202, KN0212, TX0251, RP0067. Revision0.14 — V15 successors2026-10-20; original propositions/frontiers/forecasts retained.
+
+## V16 successor transaction — PG-FR-V16
+
+[V16 reading](../02%20Sequential%20Readings/PEACH_GIRL_V16_DEEP_READING.md);2026-10-20 owner date.171 directly inspected/157 mainline. EV=PG-EV-V16. Historical rows unchanged.
+
+| Proposition / prior | Content/class | Evidence / limit |
+| --- | --- | --- |
+| PG-IP-0202@1 / NONE | Classmate K-search report8/new M receipt; Nami projection history27/apology33 | EV0001/0003/0005; ATTRIBUTED_REPORT_AND_PARTIAL_CORRECTION |
+| PG-IP-0203@1 / IP0200 | M explicitly T-resumption YES18 to short friend; protective old history relay established23–24 | EV0002; SPECIFIC_RECIPIENT_NOT_K_OR_OMITTED_FULL_TRANSCRIPT |
+| PG-IP-0204@1 / NONE | K says did not meet M/explain to Mis21/refuses relay22; bruise accident claim23 | EV0003; WITHHELD_EXPLANATION_AND_LATER_FALSE_CAUSE |
+| PG-IP-0205@1 / NONE | M partial face-exam25 infers Mis priority26; K honmei38 public blame | EV0003/0005; ATTRIBUTED_INFERENCE_CONTRADICTED_CURRENT_PRIVATE_ATTACHMENT |
+| PG-IP-0206@1 / NONE | M intended direct ending29/K back-T question39/M silent | EV0004–0005; UNDELIVERED_PRIVATE_INTENTION_NOT_RECEIPT |
+| PG-IP-0207@1 / NONE | S nausea30–31/test42/pregnancy claim121–124 | EV0004/0006/0020; MEDICAL_TRUTH_AND_PATERNITY_UNCONFIRMED |
+| PG-IP-0208@1 / NONE | K reverse-psychology breakup request56–57 intended stop S relay | EV0009; PRIVATE_ASIDE_REVERSES_LITERAL_PUBLIC_SCHEME_READING |
+| PG-IP-0209@1 / NONE | Mis hospital narrative62–75: actual confession/R reciprocity/S slap/R hit; K hears74–75 | EV0011–0012; NEW_LATER_DISCLOSURE_NOT_RETRO_V15_KNOWLEDGE |
+| PG-IP-0210@1 / NONE | R address Aki63/65/107 consistent Mis surname 安芸(V12_52) | EV0011/0017; NO_ESTABLISHED_DEAD_AKI_MISIDENTIFICATION |
+| PG-IP-0211@1 / NONE | Actual M new portrait80 inside K ID book81/old Mis picture recalled89/98 | EV0013–0015; ACTUAL_OBJECT_VS_MEMORY_COMPOSITE; capture moment unshown |
+| PG-IP-0212@1 / NONE | M tomorrow secret return96 not performed across V16 | EV0015/0026; PLAN_NOT_ACTION |
+| PG-IP-0213@1 / NONE | M stops101/T stops102/apology104/patience105/M private relief-guilt106 | EV0016; ACTUAL_BOUNDARY_COMPLIANCE_NOT_T_PHOTO_RECEIPT |
+| PG-IP-0214@1 / NONE | R denies ever datingS111/116/invalidating self-love114 | EV0017–0018; SELF_SERVING_REVISION_NOT_NEUTRAL_HISTORY |
+| PG-IP-0215@1 / NONE | S sex/promises claim118/only R and no paid-customer sex130 | EV0019/0021; PARTICIPANT_CORROBORATION_NOT_EXHAUSTIVE_INDEPENDENT_HISTORY |
+| PG-IP-0216@1 / NONE | All six hear pregnancy124; M/T arrived late/T explicitly middle133 | EV0019–0022; AUDIENCE_EXPANSION_NOT_OMNISCIENT_TRANSFER |
+| PG-IP-0217@1 / NONE | M/K pregnancy-bluff suspicion135/M learns Mis confessed134 | EV0022; SUSPICION_NOT_FALSE_PREGNANCY_ADMISSION |
+| PG-IP-0218@1 / NONE | K hypothetical explained/takenM hospital142–143 | EV0023; COUNTERFACTUAL_NOT_ACTUAL_RECEIPT_OR_GUARANTEED_RECONCILIATION |
+| PG-IP-0219@1 / NONE | K actually witnesses M/T kiss151–152; T noticing K153 strong framing inference | EV0024–0025; WITNESS_NOT_EXACT_DIRECT_WORDS_TARGET |
+| PG-IP-0220@1 / NONE | K got-lost face-saving lie158/M sees tears160/hears lingering161 | EV0026; ACTUAL_PARTIAL_EMOTIONAL_DISCLOSURE_NOT_MIS_COMPARISON |
+| PG-IP-0221@1 / NONE | No direct M→K T-resumption words across157 mainline | EV0027; PR20_DISCONFIRMED_ORIGINAL_TERMS_NOT_REWRITTEN |
+
+| Knowledge / holder | Receipt at frontier | Limit |
+| --- | --- | --- |
+| PG-KN-0212 / Momo | Learns K searched8/hears casual apology14, privately reads indifference | EV0001–0003; not complete late reason |
+| PG-KN-0213 / Short supportive friend | M confirms T18/old protective account relayed23–24/later K book identity86 | EV0002/0014; not securely Rikko |
+| PG-KN-0214 / Kairi | Girls gossip19/hears Nami/M dispute36/asks backT39/silence | EV0002/0005; inference not M direct confirmation |
+| PG-KN-0215 / Misao | Knows K did not explain21/offer rejected22/hears school sexual slur44–45 | EV0003/0007; rumor not factual biography |
+| PG-KN-0216 / Momo | Sees K examining Mis face25/infers current priority26 | EV0003; lacks cause/current K preference |
+| PG-KN-0217 / Sae; reader separately | S actual test42/private distress, later public claim121 | EV0006/0020; clinical result unconfirmed |
+| PG-KN-0218 / Kairi | S says no M relay56; hears Mis complete hospital narrative74–75 | EV0009/0011–0012; M absent |
+| PG-KN-0219 / Momo | K handbook/M portrait80–81/old Mis photo contrast98; secret return plan96 | EV0013–0015; K intent not verbally explained |
+| PG-KN-0220 / Tōji | M STOP101/unease; own rush/fear104/patience105 | EV0016; K photograph not explicitly received |
+| PG-KN-0221 / Sae, Kairi, Misao | R no-relationship/invalidation remarks111–116; S/K actual overhear112 | EV0017–0018; M/T not full early recipients |
+| PG-KN-0222 / Momo, Tōji | See group119/hear pregnancy124/Mis defense126; T says from middle133 | EV0019–0022; not full private/hospital speech |
+| PG-KN-0223 / Ryo, Misao, Sae | Private only-partner account130/R doubt/Mis rebuke131–132 | EV0021; K/M/T not shown following private conversation |
+| PG-KN-0224 / Momo; Kairi separately | M newly learns Mis confession134; both discuss possible pregnancy bluff135 | EV0022; possibility not verified fact |
+| PG-KN-0225 / Kairi | Book missing138/private counterfactual142–143/actual M/T kiss151–152 | EV0023–0024; direct M resumption words absent |
+| PG-KN-0226 / Tōji | Framing153 strongly suggests sees hidden K; no speech | EV0025; motive/full regret not transferred |
+| PG-KN-0227 / Momo | Sees K tear160/hears lingering apology161 | EV0026; no explicit above-Misao declaration |
+| PG-KN-0228 / Reader | Parallel private M photo joy106/K love142/T actual boundary compliance102/R selective tenderness and violence69/72 | EV0011–0012/0016/0023–0027; knowledge not automatically any characters |
+
+| Transfer / channel | Content/disposition | Evidence / limit |
+| --- | --- | --- |
+| PG-TX-0251 / Classmates → Momo | K search report8/train sighting9–10 | EV0001; actual received report not full emergency |
+| PG-TX-0252 / Momo → short friend | T resumption confirmed18; older protective story across ellipsis23–24 | EV0002; no invented omitted wording |
+| PG-TX-0253 / Girls → Kairi | Couple gossip19; later public waiting debate36–39 | EV0002/0005; not M direct T-confirmation |
+| PG-TX-0254 / Misao → Kairi | Offer M explanation22 rejected | EV0003; proposed relay NOT performed |
+| PG-TX-0255 / Kairi → Momo/peers | Honmei blame38/asks back T39/M silent | EV0005; protects public face/conceals actual current attachment |
+| PG-TX-0256 / School gossip → Misao | M sex-friend/bored-discard slur44–45 | EV0007; attributed rumor not fact |
+| PG-TX-0257 / Sae ↔ Kairi | No M relay56/reverse request57/threat59 | EV0009; private intent stops transmission |
+| PG-TX-0258 / Kairi → Ryo | Next-day meeting58; angry late sixpm call108 | EV0009/0017; actual R delay |
+| PG-TX-0259 / Misao → Kairi | Hospital love/violence/reassessment62–75 | EV0011–0012; new full recipient not M |
+| PG-TX-0260 / Kairi handbook → Momo/short friend | Portrait80/ID81/correction86; retained not returned96 | EV0013–0015; material evidence not spoken explanation |
+| PG-TX-0261 / Momo ↔ Tōji | STOP101/compliance102/apologies103/patience105 | EV0016; actual heard boundaries |
+| PG-TX-0262 / Misao → Ryo | Withdraw confession110 | EV0017; actual expressed request |
+| PG-TX-0263 / Ryo → S/K/Mis | Denied relationship/invalidation111–116/S/K overhear112 | EV0017–0018; M/T not early recipients |
+| PG-TX-0264 / Sae → Ryo/public | Sex-promises118/pregnancy121–124/responsibility122 | EV0019–0020; later M/T hear not whole early dispute |
+| PG-TX-0265 / Misao → Ryo/Sae | Private talk129/defends S/rebukes R131–132/leaves | EV0021; K/M/T not private audience |
+| PG-TX-0266 / Kairi → Momo/Tōji | Mis confession fact134/limited public setup133; pregnancy-bluff question135 | EV0022; not full hospital explanation or proven fabrication |
+| PG-TX-0267 / Momo/Tōji kiss → hidden Kairi | Actual witness151–152/T visual notice153 implied | EV0024–0025; no M direct words |
+| PG-TX-0268 / Kairi → Momo | Lost lie158/tear160/lingering apology161 | EV0026–0027; emotional receipt does not satisfy PR20 |
+
+| Reputation / prior | Event/interpretation | Evidence / limit |
+| --- | --- | --- |
+| PG-RP-0067 / NONE | Nami insurance accusation33–36/personal projection admitted; short friend defends32 | EV0003–0005; multiple female voices, not one identical hostile chorus |
+| PG-RP-0068 / NONE | M sex-friend/bored-discard rumor44–45/Mis hears; K protective self-blame38 does not stop sexualized compression | EV0005/0007; reputation not biography |
+| PG-RP-0069 / NONE | Public R/S dispute/pregnancy and paternity slur124–125/Mis defense127/crowd applause | EV0019–0021; small crowd reaction not universal ethical vindication |
+
+Next IP0222,KN0229,TX0269,RP0070. Revision0.15 — V16 successors; prior bodies retained.

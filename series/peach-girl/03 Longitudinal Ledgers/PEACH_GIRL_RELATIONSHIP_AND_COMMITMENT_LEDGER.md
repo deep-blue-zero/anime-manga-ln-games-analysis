@@ -5,7 +5,7 @@ artifact_type: relationship_commitment_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.14"
+version: "0.15"
 status: active_provisional
 scope: "Directional Relationships and Commitments; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -657,3 +657,49 @@ Next RL0214, CM0133. Revision0.13 — V14 successors2026-10-20; all old rows/ter
 | PG-CM-0148 / CM0146 | T old L love sign163/M recalls164/runs back165/embraces166/private happiness wish | EV0027–0028; ACTUAL_RENEWED_T_CHOICE_K_NOT_INFORMED, M private K ambiguity161 retained |
 
 Next RL0236, CM0149. Revision0.14 — V15 successors2026-10-20; all prior directional rows/terms retained.
+
+## V16 successor transaction — PG-FR-V16
+
+[V16 reading](../02%20Sequential%20Readings/PEACH_GIRL_V16_DEEP_READING.md);2026-10-20 owner date.171 directly inspected/157 mainline. EV=PG-EV-V16. Historical rows unchanged.
+
+| Direction / prior | Actual transition | Evidence / limit |
+| --- | --- | --- |
+| PG-RL-0236 / RL0227 | Momo → Kairi / apology looks indifferent/private ending intention29/silent to back-T question39/portrait hope80 | EV0001–0005/0013–0014; no actual T-disclosure |
+| PG-RL-0237 / RL0235 | Kairi → Momo / casual apology14/refuses Mis relay22/public self-blame38/withdrawal40/reverse-psychology silencing57 | EV0002–0005/0009; concealment not actual preference for Mis |
+| PG-RL-0238 / NONE | Nami → Momo / reproach11/projection apology33/insurance accusation34 | EV0001/0003/0005; personal hurt not reliable verdict |
+| PG-RL-0239 / NONE | Short supportive friend → Momo / receives T confirmation18/old account23–24/defends32/knows K book86 | EV0002–0005/0014; identity not securely Rikko |
+| PG-RL-0240 / RL0221 | Kairi → Misao / bruise concern22–23/hears hospital74/contrasts his ordinary care75 | EV0003/0011–0012; no resumed romantic priority |
+| PG-RL-0241 / RL0222 | Misao → Kairi / offers M explanation21–22/recounts own hospital love and failure comfort S74–75 | EV0003/0011–0012; no revocation sibling-only refusal |
+| PG-RL-0242 / RL0223 | Misao → Ryo / long love actual confession67/hospital tenderness received69/date invitation107 | EV0011/0017; not fantasy-only |
+| PG-RL-0243 / NONE_NEW_EXPLICIT_RECIPROCITY | Ryo → Misao / gentle reassurance65/actual happy-love self-account69/kiss approach70/cafe pleasure107 | EV0011/0017; bounded selective care not complete reform |
+| PG-RL-0244 / NONE | Sae → Misao / possessive insult61/actual hospital slap71/grabs115 | EV0010–0012/0018; hurt does not authorize assault |
+| PG-RL-0245 / RL0186 | Ryo → Sae / hits/rejects72–73/denies ever dating111/116/invalidates feelings114/paternity slur125 | EV0012/0017–0020; actual earlier involvement not erased by denial |
+| PG-RL-0246 / RL0078 | Kairi → Sae / arranges R58/tries suppress M relay57/accompanies/tries calm-restrain115 | EV0009/0018; competing care/control, not single scheming intent |
+| PG-RL-0247 / RL0234 | Momo → Tōji / actual calm48, home DVD affection; stops101/private relief-guilt106/K photo joy | EV0007/0015–0016; love and divided feeling coexist |
+| PG-RL-0248 / RL0233 | Tōji → Momo / actual support/invitation/kiss then STOPS102/owns rushing104/accepts history/waits105 | EV0007/0015–0016; rivalry not proof all care false |
+| PG-RL-0249 / RL0242 | Misao → Ryo / withdraws confession110, later slaps/rebukes126/131–132/leaves rather than take him away | EV0017/0021; no permanent future conclusion |
+| PG-RL-0250 / RL0231 | Sae → Ryo / hospital jealousy/phone pursuit/current sex-promises claim118/pregnancy claim121/only-partner account130 | EV0012/0018–0021; attachment not diagnosis or proven paternity |
+| PG-RL-0251 / RL0095 | Misao → Sae / recognizes own failure comfort75/defends dignity127/arranges private facing129–132 | EV0012/0021; no unconditional certification or duty forgive violence |
+| PG-RL-0252 / RL0243 | Ryo → Misao / shocked withdrawal110/defense demand131/actual departure132, no responsibility agreement secured | EV0017/0021; hurt does not prove lasting change |
+| PG-RL-0253 / RL0237 | Kairi → Momo / prints portrait139/private love and hospital counterfactual142–145/purposeful visit146 | EV0023–0024; still no full explanation delivered |
+| PG-RL-0254 / RL0167 | Tōji → Kairi / visually implied notice of hidden rival153, leaves without confrontation | EV0025; no spoken acknowledgment/motive certainty |
+| PG-RL-0255 / RL0236 | Momo → Kairi / encounters157/calls back159/sees tears160/asks161/hears lingering attachment/shocked162 | EV0026; no explicit T-resumption disclosure |
+| PG-RL-0256 / RL0253 | Kairi → Momo / concealment at fence149/witnessed kiss151–152/lost lie158/actual lingering apology161/run162 | EV0024–0026; vulnerability not entitlement or explicit M-over-Mis comparison |
+
+| Commitment / prior | Terms and actual disposition | Evidence / limit |
+| --- | --- | --- |
+| PG-CM-0149 / NONE | K casual apology14 does not include hospital/late cause or current romantic priority | EV0002–0003; APOLOGY_RECEIVED_EXPLANATION_WITHHELD |
+| PG-CM-0150 / NONE | Mis offers explain to M/K actively refuses22 | EV0003; RELAY_OFFER_DECLINED_NOT_COMPLETED |
+| PG-CM-0151 / NONE | M privately plans proper ending/T disclosure29; K asks39/M silent | EV0004–0005; PRIVATE_INTENTION_NOT_DELIVERED |
+| PG-CM-0152 / CM0138 | K public prioritized-honmei38/protective blame40 not actual present Mis-priority pledge | EV0005; PUBLIC_SELF_BLAME_CONCEALS_CURRENT_ATTACHMENT |
+| PG-CM-0153 / NONE | K arranges next-day R meeting58/R forgets sixpm108, actual later group encounter112 | EV0009/0017–0018; APPOINTMENT_DELAY_AND_NEW_REPETITION |
+| PG-CM-0154 / NONE | S threatens tell M typhoon effort59 if K not accompany; K earlier57 intended silence | EV0009; LEVERAGE_OVER_WITHHELD_INFORMATION |
+| PG-CM-0155 / NONE | Mis actual love67/R happy reciprocity69/kiss approach70; later requests withdraw110 | EV0011/0017; EXPRESSED_RECIPROCITY_THEN_WITHDRAWAL_REQUEST |
+| PG-CM-0156 / NONE | M finds/wants keep K handbook80–86/plans secret return tomorrow96 | EV0013–0015; POSSESSION_AND_FUTURE_PLAN_NOT_RETURN_PERFORMED |
+| PG-CM-0157 / CM0146 | M STOP101/T actually stops102/both apologize103/T owns rushing104 | EV0016; CURRENT_REFUSAL_HEEDED_NO_BLANKET_PRIOR_PERMISSION |
+| PG-CM-0158 / NONE | T will accept whole present M/history and wait until ready105 | EV0016; ACTUAL_PATIENCE_PLEDGE_NOT_FUTURE_COMPLIANCE_PROOF |
+| PG-CM-0159 / NONE | S claims pregnancy/responsibility121–124/R disputes paternity125/Mis requires face her132 | EV0020–0021; RESPONSIBILITY_DEMANDED_NOT_AGREED_CLINICAL_STATUS_UNKNOWN |
+| PG-CM-0160 / NONE | Mis takes BOTH private129/rebukes R131–132/LEAVES | EV0021; ACTUAL_WITHDRAWAL_NOT_PRIVATE_INTENTION_ONLY |
+| PG-CM-0161 / CM0151 | Final M questions159/161/K lingering apology161; M no explicit T-resumption words | EV0026–0027; PR20_DISCONFIRMED_EXACT_DIRECT_DISCLOSURE_TARGET |
+
+Next RL0257,CM0162. Revision0.15 — V16 successors; prior bodies retained.

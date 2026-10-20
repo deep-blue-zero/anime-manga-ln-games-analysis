@@ -5,7 +5,7 @@ artifact_type: character_development_readiness_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.14"
+version: "0.15"
 status: active_provisional
 scope: "Character Development and Readiness; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -514,3 +514,43 @@ Pre-canonical Japanese recheck113 corrected private literal-name misparse: wife 
 | PG-CS-0216@1 / CHAR0001 / CS0214 | CHOICE/AFFECT: return train161 still K hope/no clear breakup, sees T old sign163–164/runs back165/embraces166/wishes happiness | EV0027–0028; CL0013@11. Actual romantic return T, no direct K breakup message or permanent K feeling eradication |
 
 Pre-canonical weapon recheck62/74 corrects private bat label to sword/imitation; actual later R contusions not Misao injury. Final partition recomputed161 mainline, all175 viewed. Next CHAR0028, CS0217, RD0001. Revision0.14 — V15 successors2026-10-20; all prior bodies/rows retained.
+
+## V16 successor transaction — PG-FR-V16
+
+[V16 reading](../02%20Sequential%20Readings/PEACH_GIRL_V16_DEEP_READING.md);2026-10-20 owner date.171 directly inspected/157 mainline. EV=PG-EV-V16. Historical rows unchanged.
+
+Readiness UNASSESSED_NO_OPERATIONAL_MODEL_TESTED; no new RD.
+
+| Local subject | Verified admission | Limit |
+| --- | --- | --- |
+| PG-CHAR-0028 | Nami; braided/flower-haired classmate addressed by name, reproach11/apology33 | Not all fan groups; personal history27 attributed |
+| PG-CHAR-0029 | Unnamed short-haired supportive classmate17–28/32/85–86, hears M confirmation18 | Not securely Rikko:17 asks whether Nami/Rikko already left; no invented name/global identity |
+
+| State / subject / prior | Actual transition/frontier | Basis / limit |
+| --- | --- | --- |
+| PG-CS-0217@1 / CHAR0001 / CS0216 | KNOWLEDGE/AFFECT: classmates report K search8; hears casual apology14/reads indifference; explicitly confirms T romance to short friend18 | EV0001–0002; no full emergency reason/K current desire receipt |
+| PG-CS-0218@1 / CHAR0004 / CS0213 | CHOICE: cheerful apology14, hears gossip19, refuses Mis relay22, sees bruise/asks cause23 | EV0002–0003; public surface not private indifference |
+| PG-CS-0219@1 / CHAR0028 / NONE | CHOICE/ACCOUNT: Nami reproaches11/projects personal rejection according friend27; apologizes33 yet insurance criticism34 | EV0001/0003/0005; no complete independent boyfriend history |
+| PG-CS-0220@1 / CHAR0029 / NONE | CHOICE/KNOWLEDGE: unnamed short friend hears M T-confirmation18/old protective account23–24, challenges Nami32/supports M | EV0002–0005; not securely Rikko; support not omniscient verdict |
+| PG-CS-0221@1 / CHAR0005 / CS0205 | CHOICE/RETROSPECTIVE_DISCLOSURE: hospital confession67/R reciprocity69/S slap71/R hit72; recounts K74/questions own absent comfort75 | EV0003/0011–0012; Aki surname not dead-woman misidentification |
+| PG-CS-0222@1 / CHAR0020 / CS0203 | CHOICE/STATEMENT: hospital tenderness to Mis/claims one-sided love69, hits/rejects S72–73 | EV0011–0012; selective affection does not establish reform |
+| PG-CS-0223@1 / CHAR0003 / CS0209 | AFFECT/CHOICE: nausea/refuses Mis30–31/test42; failed R call54/uses K to arrange58/threat59; newly disclosed hospital slap71 | EV0004/0006/0009–0012; symptoms/test not confirmed pregnancy |
+| PG-CS-0224@1 / CHAR0004 / CS0218 | KNOWLEDGE/CHOICE: public self-blame38/asks M back T39/silence; camera/race metaphor53/reverse-psychology57/arranges R meeting58/hears hospital74 | EV0005/0008–0012; M not given full account; silencing not genuine breakup request |
+| PG-CS-0225@1 / CHAR0001 / CS0217 | AFFECT/CHOICE: private ending intention29, silence39/gossip44/T comfort48; finds K book/M portrait80/wants keep86 | EV0004–0007/0013–0014; still no actual K ending/T disclosure |
+| PG-CS-0226@1 / CHAR0004 / CS0224 | CHOICE/CONTEXT: photography/print requests78/handbook falls78; M finds book without his knowledge79–82 | EV0013; exact portrait capture moment not depicted |
+| PG-CS-0227@1 / CHAR0002 / CS0215 | CHOICE: actual support46–48/home DVD invitation91/parents absent94/affection100 | EV0007/0015–0016; home visit not permission or engagement |
+| PG-CS-0228@1 / CHAR0001 / CS0225 | CHOICE/AFFECT: plans tomorrow secret book return96, T happiness/K photo distraction97–99, stops intimacy101/private relief/guilt106 | EV0015–0016; return not performed, T not told photograph |
+| PG-CS-0229@1 / CHAR0002 / CS0227 | CHOICE/ACCOUNTABILITY: stops102/apologizes103–104/owns rushing, accepts K history/promises wait105 | EV0016; actual local boundary compliance not erased by rivalry or permanent guarantee |
+| PG-CS-0230@1 / CHAR0005 / CS0221 | CHOICE: actually invites R107/pulls away109/withdraws confession110 for S/R concern | EV0017; independent present withdrawal not K romance reversal |
+| PG-CS-0231@1 / CHAR0020 / CS0222 | CHOICE/STATEMENT: forgets meeting108/denies S relationship111/116/invalidating self-love accusation114/sex-history reply and paternity slur125 | EV0017–0020; denials not neutral factual history |
+| PG-CS-0232@1 / CHAR0003 / CS0223 | CHOICE/STATEMENT: overhears rejection112/pleads/grabs Mis115/claims sex-promises118/pregnancy121/124/only R130 | EV0018–0021; real distress and prior violence coexist; pregnancy/paternity unconfirmed |
+| PG-CS-0233@1 / CHAR0005 / CS0230 | CHOICE/VALUES: slaps R126/defends S127/takes both private129/rebukes evasion131–132/actually leaves | EV0020–0021; defense not independent clinical proof/violence idealization |
+| PG-CS-0234@1 / CHAR0004 / CS0226 | KNOWLEDGE/CHOICE: S pregnancy public, left behind128/meets M/T; tells Mis confession134/considers pregnancy bluff135 | EV0020–0022; suspicion not established fabrication or full M disclosure |
+| PG-CS-0235@1 / CHAR0001 / CS0228 | KNOWLEDGE/CHOICE: sees latter public dispute119/claim124/Mis defense126, newly learns Mis confession134/questions bluff135 | EV0019–0022; no full earlier private R/Mis speech or hospital relay |
+| PG-CS-0236@1 / CHAR0004 / CS0234 | AFFECT/CHOICE: home misses book138/prints M139/cries142/counterfactual hospital explanation143/runs144/M needed145 | EV0023; counterfactual not actual M hospital knowledge |
+| PG-CS-0237@1 / CHAR0002 / CS0229 | CHOICE/KNOWLEDGE: says saw dispute only middle133; actual M doorstep kiss151–152/strong visual implication notices hidden K153/leaves | EV0022/0024–0025; no complete motive knowledge or verbal acknowledgment |
+| PG-CS-0238@1 / CHAR0001 / CS0235 | CHOICE/AFFECT: leaves with T136/actual kiss151–152/home154; hears dog/comes out156 | EV0022/0024–0025; M unaware K watched then |
+| PG-CS-0239@1 / CHAR0004 / CS0236 | CHOICE/AFFECT: hides fence149/quiet dog150/witnesses kiss151–152/cries154/face-saving lost lie158/actual lingering apology161/runs162 | EV0024–0026; no right to reunion/explicit above-Misao comparison |
+| PG-CS-0240@1 / CHAR0001 / CS0238 | KNOWLEDGE/AFFECT: sees K157/calls back159/sees tear160/HEARS lingering apology161/shocked162 | EV0026–0027; has not explicitly told K resumed T romance |
+
+Next CHAR0030,CS0241,RD0001. Revision0.15 — V16 successors; prior bodies retained.
