@@ -5,7 +5,7 @@ artifact_type: relationship_commitment_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.7"
+version: "0.8"
 status: active_provisional
 scope: "Directional Relationships and Commitments; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -352,3 +352,44 @@ Exit: Momo/Tōji has actual unilateral breakup declaration and continuing disput
 | PG-CM-0060 / NONE | Kairi/Momo / actual128/130 kiss with no depicted explicit stop at that instance, Momo later swept-along/uncertain; final168 kiss after chin contact167, eyesclosed/hand-shirt | EV0035–0036/0046; CONTACT_AND_AMBIVALENCE_DISTINCT, no invented verbal refusal128 or automatic permanent consent/reciprocal dating. Earlier69/further166 responses retained |
 
 Momo/Sae no new forgiveness or freely restored friendship; Sae violating boundary does not revoke Momo's V07 farewell. Directional histories do not collapse into triangles without individual frontiers. Next RL0103, CM0061. Revision0.7 — V08 successors2026-10-20, older rows retained.
+
+## V09 successor transaction — PG-FR-V09
+
+[V09 reading](../02%20Sequential%20Readings/PEACH_GIRL_V09_DEEP_READING.md); EV=PG-EV-V09. Learned at actual V09 frontier. Momo current two-month dating account151, prior histories attributed. Direction does not imply reciprocal feeling; contact, commitment, speech and knowledge distinguished.
+
+| Direction / prior | From → to / actual transition | Evidence / limit |
+| --- | --- | --- |
+| PG-RL-0103 / RL0099 | Momo → Kairi / accepts public congratulations9 yet15–16 says happened before knew/must forget Tōji; admits Tōji-note lure21, refuses escalation7 | EV0002–0006; CL0013@5. Actual current couple, earlier uncertainty/affection preserved |
+| PG-RL-0104 / RL0100 | Kairi → Momo / asks cheek kiss then turns22, lighter rescue37–39/special declaration, shared laughter44 | EV0006/0010–0011; CL0006@9/0017@6. Aid/desire real, not blanket consent or excuse later coercion |
+| PG-RL-0105 / RL0096 and RL0101 separately | Sae/fans → Momo / present joint garden lure12–14; fans alone demand pledge/threaten hair31–37 | EV0003/0009–0010; CL0003@9. Joint garden causality established, Sae lighter instruction/earlier conspiracy unproved |
+| PG-RL-0106 / NO_PRIOR_ROW_VERIFIED | Misao → Momo / disperses girls/provides counsel, deliberately keeps Tōji confidence17, care/humor55–56, physically stops Kairi80 | EV0003–0005/0014/0018–0020; CL0026@1. Situated care and constrained access; not false caregiver or neutral fully informed solution |
+| PG-RL-0107 / NO_PRIOR_ROW_VERIFIED | Misao → Kairi / tutor history, warns seriousness/opposes couple19–20, rebukes coercion88, prompts apology91, scolds missed message103 | EV0005/0016/0018–0023; CL0026@1. Familiarity not proof reciprocal romantic/sexual relationship |
+| PG-RL-0108 / NO_PRIOR_ROW_VERIFIED | Kairi → Misao / necklace insult60, attention on return73/steps75, outside repeat-threat89 if leaves, watches waiting98–101/fails message | EV0015–0017/0020/0022–0024; CL0025@1. Attachment strongly supported, exclusive use of Momo not admitted; teacher threat instrumental hypothesis with direct leverage speech |
+| PG-RL-0109 / NO_PRIOR_ROW_VERIFIED | Misao → CHAR0020 brother / favorable university-friend/tutor-recruitment account, tender response still-like question67, waits3h/removes necklace before meeting110–111 | EV0016/0023–0024; CL0025@1/0026@1. Attributed attachment, no demonstrated reciprocal current dating |
+| PG-RL-0110 / NO_PRIOR_ROW_VERIFIED | Kairi → CHAR0020 brother / disdainful phone address71; Misao reports comparison complex65; his144 says brother took Morika/resentment persisted | EV0016–0017/0029–0030; CL0025@1. Self/report rivalry not excuse or exhaustive cause of all conduct |
+| PG-RL-0111 / RL0104 | Kairi → Momo / restraints/advance after explicit refusal76–79; Misao intervention80, threatened repetition89, prompted apology91; misleading public innuendo104 | EV0018/0020/0023; CL0006@9/0017@6. Material harmful change, no consensual completion; later warmth not retrospective permission |
+| PG-RL-0112 / RL0103 | Momo → Kairi / particular curiosity/liking and secret craft, actual pool kick40, frightened restraint response83; photo lie94 then direct truth demands114/120 and pushes kiss119 | EV0008–0013/0018–0026; CL0013@5. Her harmful act/false denial and valid refusal all retained; motive accusation not fact |
+| PG-RL-0113 / NONE | Morika CHAR0021 → Kairi / claimed old girlfriend, intrusive embrace/car detour/cheek kiss, regrets dumping3years ago135, tries closeness137 | EV0027–0029; recipient protests/avoids, no reciprocal love established |
+| PG-RL-0114 / NONE | Kairi → Morika / initial nonrecognition, car exit objections/avoids lean, leaves138; says past mild attachment/brother resentment143–144, publicly sends away153 | EV0027–0030/0034; CL0025@1. Partial present resistance real, past self-account not complete verification |
+| PG-RL-0115 / RL0111 | Kairi → Momo / photo disposed116, now-Momo reassurance117, later only-Momo143 and Morika account144, hand-leads public154 | EV0025/0030/0034; CL0006@9/0020@4. Actual words/actions, present Misao/photo question not fully answered |
+| PG-RL-0116 / RL0112 | Momo → Kairi / explicitly growing romantic love145/chooses trust146, resists adult rival, completes personal case155/goes deliver at night158 | EV0031–0035; CL0013@5. Strong current affection; partial knowledge and past coercion constrain no-harm confidence |
+| PG-RL-0117 / NONE | Momo → Morika / jealousy/reproach, counters skin/age/body-access hierarchy149–152 and publicly squeezes Kairi hand154 | EV0033–0034; CL0001@4. Self-assurance qualified probably; neither female worth nor love measured by bodily access |
+| PG-RL-0118 / RL0114 | Kairi → Morika / actual assent to proposed next-day hotel507 encounter162 and accepts case164 despite earlier refusal153 | EV0036–0037; CL0025@1. New conflict retained, neither attended encounter nor proof refusal was wholly staged |
+| PG-RL-0119 / RL0116 | Momo → Kairi / witnesses assent/gift, throws still-wrapped handmade gift165/runs166, he calls | EV0036–0038; no explicit breakup or explanation at exit, labor not previously known to him |
+
+| Commitment/boundary / prior | Actual terms and consequence | Evidence / disposition |
+| --- | --- | --- |
+| PG-CM-0061 / CM0060 | Momo refuses escalation beyond kissing7; new public couple category9 does not grant wider permission | EV0002; SPECIFIC_REFUSAL, no permanent relation-level access |
+| PG-CM-0062 / NONE | Fans demand written pledge never approach Kairi32; Momo refuses, restrained/hair singed, rescue follows | EV0009–0010; COERCIVE_REQUEST_REJECTED, no valid agreement |
+| PG-CM-0063 / NONE | Kairi requests cheek kiss as apology21 but substitutes lips22, Momo protests | EV0006; CONTACT_SUBSTITUTION_NOT_REQUESTED_TERMS |
+| PG-CM-0064 / CM0061 | Momo blocks/not here76, repeated no/too early/period/angry/scream78–79; Kairi grips/continues until teacher80 | EV0018; EXPLICIT_REFUSAL_OVERRIDDEN, actual force/fear, no consensual act inferred |
+| PG-CM-0065 / NONE | Kairi prompted bow91 promises never ignore Momo feelings again; Momo deflects, Misao asks report recurrence | EV0020; PROMISE_ACTUAL_PERFORMANCE_UNPROVED, not full forgiveness or certified reform |
+| PG-CM-0066 / NONE | Momo114 asks truth/still likes person117, Kairi calls photo past/throws, says now Momo; she stops kiss119/asks Misao/substitute120 | EV0025–0026; TRUTH_REQUEST_NOT_FULLY_RESOLVED_BY_REASSURANCE |
+| PG-CM-0067 / NONE | Kairi143 only-Momo/Morika-not-current-love account144, Momo asks really/don't lie, trusts/kisses146 | EV0030–0031; REASSURANCE_ACCEPTED_ON_PARTIAL_INFORMATION, not proof complete disclosure |
+| PG-CM-0068 / NONE | Kairi demands return school from Morika135, avoids advance137 and exits138 | EV0028–0029; CAR_DETOUR_NOT_FREE_REUNION, recipient boundary actual |
+| PG-CM-0069 / NONE | Kairi tells Morika go/never return153 and leads Momo away154 | EV0034; PRESENT_REFUSAL_OF_APPROACH, later assent requires separate record |
+| PG-CM-0070 / NONE | Momo silently undertakes case49/finishes155/wraps, plans gift; Kairi no demonstrated prior awareness | EV0013/0032/0035/0038; INTENDED_GIFT_INTERRUPTED, throws165 not completed appreciative exchange |
+| PG-CM-0071 / CM0069 | Morika asks one time/tomorrow city hotel507161; Kairi agrees162 | EV0036; FUTURE_ENCOUNTER_ASSENT_ACTUAL_ATTENDANCE_UNSHOWN, exact purpose beyond proposal unresolved |
+| PG-CM-0072 / NONE | Morika presents commercial phone case163, Kairi opens/delighted164/accepts despite cost question | EV0037; GIFT_ACCEPTED, not proof completed intimacy or knowing rejection of Momo craft |
+
+Current dating supported in V09, not rewritten V08 pact. No automatic cancellation of valid refusal because she later trusts/kisses, no inferred Tōji/Sae resolution or Momo/Sae forgiveness. Next RL0120, CM0073. Revision0.8 — V09 successors2026-10-20, all older rows preserved.

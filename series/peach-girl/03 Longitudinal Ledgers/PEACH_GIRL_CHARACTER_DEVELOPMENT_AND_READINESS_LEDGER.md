@@ -5,7 +5,7 @@ artifact_type: character_development_readiness_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.7"
+version: "0.8"
 status: active_provisional
 scope: "Character Development and Readiness; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -300,3 +300,33 @@ New [V08 reading](../02%20Sequential%20Readings/PEACH_GIRL_V08_DEEP_READING.md),
 | CHAR0019 / CHAR0020 | Bounded fans harassment/lie; reported unnamed brother finance | No inferred identity merge or invented brother conduct beyond report |
 
 Readiness UNASSESSED, no operational model or actual held-out reconstruction test, no RD row warranted. No substantive new Jigoro/receiver development; nonappearance not confirmation of unshown outcomes. Next CHAR0021, CS0091, RD0001. Revision0.7 —2026-10-20 V08 successor, historical rows preserved.
+
+## V09 successor transaction — PG-FR-V09
+
+[V09 reading](../02%20Sequential%20Readings/PEACH_GIRL_V09_DEEP_READING.md),175/175 directly inspected,160 mainline; EV=PG-EV-V09, CHAR=PG-CHAR. Learned at stated V09 frontier, current second school year with Momo151 reporting two months dating; no invented date. Past ages/dates/tutor habits remain attributed. HIGH depicted acts/speech, MODERATE inferred motives. No operational model/RD created; readiness UNASSESSED.
+
+| Subject / prior | Identity update and basis | Limit |
+| --- | --- | --- |
+| PG-CHAR-0021 / NONE | 森香, Morika; kanji128, furiganaもりか153, Kairi former girlfriend by her126/135 and his143–144 accounts; BMW arrival, about21 by his approximate142 report | Distinct Misao CHAR0005, not photo identity merely by necklace. Global ID null; current former relationship supported, exhaustive past acts/age not independently verified |
+| PG-CHAR-0020 / same V08 subject | Unnamed Kairi older brother; actual call71 and self-introduction157; Misao tutor/university history62–68, Kairi age25/games-work report74–75, necklace-giving/romantic rivalry reports137/144 | Name/visual identification UNKNOWN at V09 exit. Voice and multiple reports not all-seeing biography or confirmed benevolent character |
+| PG-CHAR-0019 / same bounded fan group | V09 fan trio coordinates garden pressure with Sae12–14, then acts without her31–39 | Individual names UNKNOWN; no automatic V01 individual merge, no proof Sae ordered later lighter threat or coordinated V08 trail acts |
+
+| State / subject / prior | Actual event/change and frontier | Evidence / uncertainty / dependencies |
+| --- | --- | --- |
+| PG-CS-0091@1 / CHAR0001 / CS0090 | CONTEXT_CHANGE publicly recognized couple9, says happened before knew15/forget Tōji for Kairi16, still lured Tōji note but admits to Kairi21; refuses further contact7 | EV0002–0006; CL0013@5/0017@6. New public category not frozen V08 dating pact; mixed feelings not no affection |
+| PG-CS-0092@1 / CHAR0005 / CS0081 | CHOICE + REVEALED_NOT_NEW / interrupts pressure14, withholds Tōji account17 under remembered confidence, questions rightness18; warns Kairi19 and privately Tōji ally20 | EV0003–0005; CL0026@1. Actual care, confidence and partisanship coexist, not neutral omniscient counsel |
+| PG-CS-0093@1 / CHAR0003 and CHAR0019 separately / CS0084 | CONTEXT_CHANGE / Sae/fans current joint garden lure; later fans alone restrain Momo/lighter singes hair/demand pledge31–37; Momo refuses and Kairi intervenes | EV0003/0009–0010; CL0003@9. Sae no confirmed lighter instruction; new coordination not old historical proof |
+| PG-CS-0094@1 / CHAR0004 / CS0090 | REVEALED_NOT_NEW + CHOICE / lip substitution22, water refusal/drowning statement then retraction27–29; actual lighter intervention37–39, pool-gasping after Momo kick41, laughter/embrace44 | EV0006–0011; CL0006@9. Rescue real, drowning intent unresolved, known fear/bodily harm not mere joke |
+| PG-CS-0095@1 / CHAR0001 / CS0091 | CHOICE + self-reflection / wants understand Kairi30/43, states liking37, kicks him pool40; secretly crafts case49, cramps/rest/embarrassed laughter/apology55; asks his history | EV0008–0016; CL0013@5. Reciprocal curiosity and own harmful act both retained; physical assertiveness not proof could freely escape later restraint |
+| PG-CS-0096@1 / CHAR0005 and CHAR0020 separately / CS0092 and NONE | REVEALED_NOT_NEW attributed history / university friends, recruited tutor of troubled middle-school Kairi, brother praise/affection62–68; actual brother message71, age/work report74–75 | EV0016–0017; CL0025@1/0026@1. Old habits not present diagnoses, favorable portrait partial, no verified mutual dating pact |
+| PG-CS-0097@1 / CHAR0004 / CS0094 | CHOICE boundary violation / hears Misao steps75 then restrains Momo despite repeated no76–79, Misao stops80; outside repeat-threat89, prompted apology91 | EV0017–0020; CL0006@9/0017@6. Explicit coercion established, teacher-audience purpose strong hypothesis not confessed; no completed intercourse shown/promise not reform |
+| PG-CS-0098@1 / CHAR0001 / CS0095 | KNOWLEDGE_CHANGE + CHOICE / frightened says could not move83, finds worn photo/infers Misao87, falsely denies inspection94, imagines then rejects tutor-intimacy scenario95, watches Kairi watch Misao98–101 | EV0018–0022; CL0020@4. Imagination not actual past event; photo concealment temporary and source-qualified |
+| PG-CS-0099@1 / CHAR0004 / CS0097 | KNOWLEDGE_CHANGE + CHOICE / did not relay8pm message, Misao3h wait103, says forgot; public misleading intimacy innuendo104; at116 realizes Momo saw photo/discards actual photo, reassures/kisses117–118 | EV0022–0025; CL0006@9/0025@1. Motive not exhaustively verified, disposal not affection erased, peer innuendo not mutual act proof |
+| PG-CS-0100@1 / CHAR0001 / CS0098 | KNOWLEDGE_CHANGE + CHOICE / hears message history108, infers prevented meeting/bed advance to keep Misao112; demands truth114, stops kiss119, asks substitution120–121; new matching-necklace woman prompts changed photo guess127 | EV0024–0027; CL0020@4/0025@1. Strong competing motive, replacement-only allegation not final author account |
+| PG-CS-0101@1 / CHAR0021 / NONE | CONTEXT_CHANGE / arrives/ex-girlfriend claim, embraces/drives Kairi away despite school-return objection, cheek kiss133; says dumped3years ago/regrets, necklace from brother implicated; later body/skin rivalry149–152 | EV0027–0029/0033; CL0001@4/0025@1. Attributed mark/burn history not independently shown, unwanted car detour not his free choice of reunion |
+| PG-CS-0102@1 / CHAR0004 / CS0099 | CHOICE + REVEALED_NOT_NEW / avoids Morika lean/exitscar138, returns school139, photo question expects Misao141 but explains Morika/brother resentment144, assures only Momo143; publicly tells Morika leave153/leads Momo154 | EV0029–0030/0034; CL0006@9/0020@4/0025@1. Partial actual explanation and actual protective public action; Misao attachment/photo identity not explicitly cleared to Momo |
+| PG-CS-0103@1 / CHAR0001 / CS0100 | DISPOSITION_CHANGE + CHOICE / accepts partial assurance, explicitly asks how came to like Kairi so much145/chooses trust146; resists Morika hierarchy, reports2months, finishes/wraps own gift155, calls brother/seeks Kairi158 | EV0031–0035; CL0013@5/0001@4. Romantic feeling now strong, not backdated; no-harm thought not objective history after actual coercion |
+| PG-CS-0104@1 / CHAR0001 / CS0103 | KNOWLEDGE_CHANGE + CHOICE / secretly witnesses hotel proposal/assent161–162 and commercial case delight164, throws own gift/runs165–166 | EV0036–0038; CL0020@4. Actual painful knowledge/response not formal breakup, full motive or attended hotel; her labor unknown to him before reveal |
+| PG-CS-0105@1 / CHAR0004 and CHAR0021 separately / CS0102 and CS0101 | CHOICE / Morika asks one time tomorrow507, Kairi agrees162, accepts commercial phone case163–164; sees Momo165/calls after her166 | EV0036–0038; CL0006@9/0025@1. Agreement/gift actual, no witnessed hotel/sex/explanation. Subsequent conduct needed; not erase earlier car resistance |
+
+No material new Tōji inner-state evidence after V08: background/looking-away do not support new preference model. No new Sae reform. Next CHAR0022, CS0106, RD0001. Revision0.8 — V09 successors2026-10-20; all older character/state/readiness rows preserved.

@@ -5,7 +5,7 @@ artifact_type: information_reputation_ledger
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.7"
+version: "0.8"
 status: active_provisional
 scope: "Information Circulation and Reputation; source-derived records through the committed high-water mark named in the entrypoint"
 source_boundary: "Original Japanese 新装版 mainline; admitted volumes through the entrypoint's committed high-water mark; prospective rows carry their own frontier"
@@ -517,3 +517,79 @@ Exit epistemic asymmetry: reader knows pressure; Tōji/Sae know bargain/call/fak
 | PG-RP-0036 / NONE | Sae/Tōji / local peer99 / Sae calls besotted, peer sees servant-like obedience | EV0026; competing public readings of actual service, no freely reciprocal affection established |
 
 No new IP0051 missing-act resolution, verified negative recovery or hotel-image media publication. No hidden observer130 or omniscient group knowledge. Next IP0083, KN0095, TX0100, RP0037. Revision0.7 — V08 successor2026-10-20, all old proposition/version/knowledge/transmission/reputation rows preserved.
+
+## V09 successor transaction — PG-FR-V09
+
+[V09 reading](../02%20Sequential%20Readings/PEACH_GIRL_V09_DEEP_READING.md), EV=PG-EV-V09. Acquisition times below are V09 occurrence frontiers; past-story reports distinct from current verification. Reader access not automatically character knowledge, image resemblance not unique identity, speech not narrator truth. No raw source dialogue archive.
+
+| Proposition / prior | Content / class / truth at exit | Evidence and limit |
+| --- | --- | --- |
+| PG-IP-0083@1 / IP0076 related | Current Momo/Kairi dating public recognition9 and Momo two-month report151 / ESTABLISHED current category, attributed duration | EV0002/0033; no retroactive V08 explicit pact or settled affection at every prior moment |
+| PG-IP-0084@1 / NONE | Garden invitation falsely signed Tōji draws Momo; Sae/fans waiting know lure12–14 / STRONGLY_SUPPORTED coordinated present deception | EV0003; actual author/inserter not shown, older note/graffiti authors not thereby solved |
+| PG-IP-0085@1 / IP0072 | Misao retains Tōji confidence under remembered do-not-tell request17 and privately sides with him20 / ESTABLISHED choice/statements | EV0004–0005; Momo still not given full protective account, no classroom/general staff receipt |
+| PG-IP-0086@1 / IP0011 | Kairi drowning/heart-stop/no-memory report24, death-intent27 then joke retraction29; CPR still disputed / ATTRIBUTED + UNRESOLVED past intent | EV0007; neither confirmed attempt nor certain fabrication; Momo water-fear label not diagnosis |
+| PG-IP-0087@1 / NONE | Fan no-approach pledge, restraint/lighter hair singe31–37 and Kairi intervention / ESTABLISHED actual acts | EV0009–0010; slur not biography, no Sae lighter instruction established |
+| PG-IP-0088@1 / NONE | Misao/brother university friends and former middle-school tutor history, comparison/rebellion report, age25/games work / ATTRIBUTED historical biography | EV0016–0017; no independent exhaustive proof or present habits/clinical model; brother actual calls separately verified |
+| PG-IP-0089@1 / NONE | Brother calls Kairi71 to relay changed8pm OB party; no relay/3h wait reported103; he claims forgot / ESTABLISHED call/omission report, disputed complete motive | EV0017/0023–0024; Momo only receives content108, no proved brother/Misao encounter outcome |
+| PG-IP-0090@1 / NONE | Kairi restrains/advances after repeated refusal, Misao stops; threat89 and apology91 / ESTABLISHED current conduct | EV0018/0020; no consent or completed intercourse; teacher-retention motive strongly supported hypothesis, not admission |
+| PG-IP-0091@1 / NONE | Old worn photo in student handbook83–87; cross suggests Misao, Kairi141 explicitly expects Misao question / ESTABLISHED photo, STRONGLY_SUPPORTED identity Misao | EV0019/0030; no prior sexual act depicted; Morika necklace not unique identity proof |
+| PG-IP-0092@1 / NONE | Momo lies did not inspect94, Kairi relieved;116 realizes did / ESTABLISHED temporary false denial | EV0021/0025; Misao not shown told photo or his guarded reaction, no permanent reader-only knowledge |
+| PG-IP-0093@1 / NONE | Kairi watches Misao wait, missed message plus personality resemblance prompts Momo substitution/advance-purpose inference112 / ESTABLISHED observations + PLAUSIBLE_COMPETING_INTERPRETATION | EV0022–0024; resemblance not looks, exclusive every-kindness-fake cause unproved |
+| PG-IP-0094@1 / NONE | Kairi disposes actual photo/calls past/reassures117; Momo rejects kiss as feelingless119–121 / ESTABLISHED gestures/speech, UNRESOLVED exhaustive feeling | EV0025–0026; material disposal not affection deletion, Momo subjective reading not perfect detector |
+| PG-IP-0095@1 / NONE | Morika former girlfriend, dumped3years ago by her report, matching brother-gift cross137; Kairi reports brother took her144 / ATTRIBUTED + corroborated former relationship | EV0027–0030; precise all-motive chronology/mark act not independently verified, shared gift weakens unique necklace identity |
+| PG-IP-0096@1 / NONE | Kairi141 expects Misao/photo, Momo means Morika; his144 account addresses latter, she trusts146 / ESTABLISHED asymmetric exchange, incomplete correction | EV0030–0031; no transmitted explicit photo correction, present Misao attachment unanswered despite Morika reassurance |
+| PG-IP-0097@1 / NONE | Morika claims navel-side gourd mark/burn cause150; Momo not seen/reports2months151, probably-valued152 / ATTRIBUTED claim and insecurity | EV0033; not direct past injury/sex proof, no clinical/color hierarchy endorsement |
+| PG-IP-0098@1 / NONE | Momo secretly completes case155; overhears actual tomorrow507 invitation/assent162 and sees commercial gift164, throws own gift/runs166 / ESTABLISHED current acts, future outcome UNKNOWN | EV0035–0038; no actual hotel attendance/sex, no prior Kairi knowledge of secret craft or completed breakup |
+
+| Knowledge state / holder / prior | Actual acquisition/change | Source and limit |
+| --- | --- | --- |
+| PG-KN-0095 / Momo / KN0090 | Reads Tōji-signed note11, sees Sae/fans12 discovers lure; owns still-response14 | EV0003–0004; not independent note authorship/old pool explanation |
+| PG-KN-0096 / Misao / KN0086 | Already knows Tōji account,17 recalls absolute confidence request/withholds,18 doubts rightness/20 sides Tōji | EV0004–0005; Momo not automatically receives because nurse knows |
+| PG-KN-0097 / Kairi / KN0093 | Hears Momo note-lure apology21, later own liking37/want know43 | EV0006/0009–0011; no omniscient complete Tōji attachment change |
+| PG-KN-0098 / Momo / KN0095 | Hears drowning-intent then retraction24–29, acknowledges little knowledge30 | EV0007–0008; original intent still unresolved/CPR not settled |
+| PG-KN-0099 / Momo / KN0098 | Learns Misao tutor/brother/gift/history62–68 and25/game report74–75 | EV0016–0017; source-attributed, not firsthand past-life model |
+| PG-KN-0100 / Kairi / NONE | Receives actual brother8pm message71 before approach/teacher steps75 | EV0017; not Momo/Misao receipt then |
+| PG-KN-0101 / Momo / KN0099 | Experiences force/fear76–83, sees actual photo83–87/infers Misao, conceals inspection94 | EV0018–0021; imagination95 not additional historical knowledge |
+| PG-KN-0102 / Misao / KN0096 | Sees coercive advance80/hears refusals, scolds outside88/hears repeat-threat89, prompts apology91 | EV0018–0020; no shown photo knowledge/Momo complete forgiveness or actual future phobia |
+| PG-KN-0103 / Kairi / KN0097 |94 falsely reassured Momo did not look;116 infers she did after question, disposes photo | EV0021/0025; temporary mistaken belief then correction, no proof every private Momo inference known |
+| PG-KN-0104 / Momo / KN0101 | Watches Kairi watching98–101, hears full missed-message history108 then infers prevented meeting/advance-purpose112 | EV0022–0024; causal inference not earlier omniscience or confessed total motive |
+| PG-KN-0105 / Momo / KN0104 | New necklace/ex claim125–127 redirects photo guess to Morika, hears partial brother/Morika account144, trusts146 | EV0027/0030–0031; her new identity belief contradicted by Kairi Misao expectation141, not securely corrected to her |
+| PG-KN-0106 / Kairi / KN0103 | Knows photo question about Misao as141 expectation, hears Momo Morika jealousy, gives Morika explanation143–144 | EV0030; reader sees mismatch, his actual exhaustive feeling still unknown |
+| PG-KN-0107 / Morika / NONE | Sees Momo jealous, asks dating138/no direct answer; hears skin/body exchange and Kairi public refusal/hand-taking153–154 | EV0028–0029/0033–0034; no proved photo/craft/Misao knowledge or accepted exclusivity |
+| PG-KN-0108 / Momo / KN0105 | Brother self-introduces157 after similar-voice mistake, says Kairi bookshop/left5min before158 | EV0035; name/face not yet known, friendly voice not full moral biography |
+| PG-KN-0109 / Momo / KN0108 | Secretly hears proposed tomorrow507/actual assent161–162, sees commercial gift pleasure164, reveals anger165 | EV0036–0038; no hidden full explanation or visited hotel knowledge |
+| PG-KN-0110 / Kairi / KN0106 | Sees Momo suddenly present165 after private conversation/gift; calls her166 | EV0038; source not establish knew she watched before, nor that he opened/identified handmade gift by exit |
+
+| Transmission / prior | Sender → actual recipient / event | Truth/reach/qualification |
+| --- | --- | --- |
+| PG-TX-0100 / NONE | False Tōji-signed note → Momo10–11; Sae/fan arrival reveals lure12 | EV0003; forged invitation strong, actual writing/insertion unshown, not older note authors |
+| PG-TX-0101 / NONE | Sae → fan trio report13 Momo still likes Tōji; gathered pressure heard by Momo/Misao interruption14 | EV0003; bounded present coordination, no later burn instruction or broad diffusion proved |
+| PG-TX-0102 / NONE | Momo → Kairi21 admits note lure/response to Tōji name | EV0006; direct honest admission, not full affection-category resolution |
+| PG-TX-0103 / NONE | Kairi → Momo24–29 drowning details/death-intent then joke retraction | EV0007; attributed inconsistent account, no independently verified past intent |
+| PG-TX-0104 / NONE | Misao → Momo62–68 tutor/brother/gift/attachment history | EV0016; favorable portrait and old habits source-attributed |
+| PG-TX-0105 / NONE | Brother → Kairi71 changed8pm message for Misao | EV0017; actual recipient Kairi, relay not made; no automatic Momo/Misao receipt |
+| PG-TX-0106 / NONE | Momo → Kairi76–79 repeated refusal/fear, Misao actual interruption80 | EV0018; refusal directly received/overridden, no permission from prior kissing |
+| PG-TX-0107 / NONE | Kairi → Misao89 threat may attack Momo again if she leaves | EV0020; Momo inside not shown hears, leverage after actual coercion despite comic tone |
+| PG-TX-0108 / NONE | Kairi → Momo91 prompted apology/promise not ignore feeling; Misao present/report recurrence request | EV0020; commitment actual, reform/complete forgiveness not verified |
+| PG-TX-0109 / NONE | Momo → Kairi94 false denial inspected handbook | EV0021; he relieved until116 inference corrects; Misao not given photo disclosure |
+| PG-TX-0110 / NONE | Misao → Momo108 missed8pm-message history,110–111 necklace removal reason | EV0024; new recipient frontier supports later inference, not early knowledge |
+| PG-TX-0111 / NONE | Kairi → local peers104 misleading firmly-joined innuendo; Momo immediately calls lie | EV0023; actual event interrupted advance, no completed intimacy/wholeclass belief proved |
+| PG-TX-0112 / NONE | Momo → Kairi114–121 truth demand/Misao-substitution accusation, kiss rejected119 | EV0025–0026; her causal allegation not independently exhaustive truth |
+| PG-TX-0113 / NONE | Kairi → Momo116–118 photo past/disposal/current-Momo reassurance/kiss | EV0025; answer insufficient to her119–121, no feeling erased by object disposal |
+| PG-TX-0114 / NONE | Morika → Kairi/Momo126 ex-girlfriend claim; further135 regret to Kairi | EV0027–0029; former relation corroborated later144, detailed past acts not separately verified |
+| PG-TX-0115 / NONE | Kairi → Momo141–144 Misao expectation then Morika/brother-resentment reassurance | EV0030; photo-question mismatch not plainly corrected; separate subjects despite Momo acceptance146 |
+| PG-TX-0116 / NONE | Morika → Momo149–152 skin/age/mark/ashtray claim; Momo2months/not seen/valued response | EV0033; adversarial attributed claims, no past injury/sexual act independently shown |
+| PG-TX-0117 / NONE | Kairi → Morika153 leave/never return, Momo and peers witness hand-taking154 | EV0034; actual public refusal, later private assent separate |
+| PG-TX-0118 / NONE | Momo → brother157 phone, he → Momo158 brother identity/Kairi bookshop location | EV0035; similar-voice initial error corrected; no name/face yet |
+| PG-TX-0119 / NONE | Morika → Kairi161 tomorrow507 one-time request; Kairi → her162 assent; gift163–164; Momo hidden actual listener until165 | EV0036–0038; proposal/assent/gift direct, future attendance/purpose beyond speech unverified, no prior listener-awareness proved |
+
+| Reputation / prior | Target / actual audience and response | Truth/reach boundary |
+| --- | --- | --- |
+| PG-RP-0037 / RP0034 | Momo/Kairi / local classmates7–9 congratulate recognized dating, Momo accepts | EV0002; current category actual social recognition, not V08 pact proof/all school knowledge |
+| PG-RP-0038 / RP0035 | Momo / Sae/fan garden gathering12–14 uses Tōji lure as proof still likes him | EV0003; current attachment has support, exclusionary entitlement not justified; no full school diffusion |
+| PG-RP-0039 / NONE | Momo / fan trio31–37 sexual slur/rebound allegation/no-approach demand, she rebuts own liking | EV0009; slur not biography/consent or neutral motive diagnosis, lighter harm actual |
+| PG-RP-0040 / NONE | Misao / observed peers50–51 admire caregiving/older-sister image; private weight self-critique54 shared accidentally with Momo | EV0014; public care image separate private disclosure, no analyst body-worth judgment or broader weight rumor |
+| PG-RP-0041 / NONE | Momo/Misao/Kairi / bounded peers104–107 intimacy innuendo denied, double punch/compare personality-atmosphere | EV0023–0024; not appearance resemblance, unproved broad adoption of completed-sex rumor |
+| PG-RP-0042 / NONE | Momo/Morika/Kairi / school spectators153–154 witness Kairi rejects Morika/leads Momo, Momo squeezes hand | EV0034; local public partner assertion distinct private agreement162, no universal reputation outcome |
+
+IP0051@3 missing-act history unchanged, no proved negative retrieval/media publication, older graffiti/pool authorship/CPR still unresolved. Next IP0099, KN0111, TX0120, RP0043. Revision0.8 — V09 successors2026-10-20; all prior rows retained.
