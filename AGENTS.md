@@ -59,7 +59,7 @@ The owner-authorized reconstruction evaluator is the sole routine writer of `cha
 
 Never add raw acquisition evidence, source media, private migration evidence, credentials, unreviewed binaries, symlinks, submodules, or hooks.
 
-The approved workflows are the content-read-only `.github/workflows/repository-audit.yml` with its isolated status-only reporter, the default-branch, exact-output-allowlisted `.github/workflows/global-index-housekeeping.yml`, and `.github/workflows/nightly-integration.yml` under `governance/policies/NIGHTLY_ANALYTICAL_INTEGRATION.md`. The EC2 steward is the primary autonomous integration coordinator; the existing nightly workflow is authorized only as a manual fallback under the shared invariants and exclusion contract in that policy. Scheduled fallback apply is no longer authorized; deactivation and executor changes remain implementation work. Every other workflow remains prohibited without a separately reviewed owner amendment.
+The approved workflows are the content-read-only `.github/workflows/repository-audit.yml` with its isolated status-only reporter, the default-branch, exact-output-allowlisted `.github/workflows/global-index-housekeeping.yml`, and `.github/workflows/nightly-integration.yml` under `governance/policies/NIGHTLY_ANALYTICAL_INTEGRATION.md`. The EC2 steward is the primary autonomous integration coordinator; the nightly workflow is a manual-only fallback using the same reviewed executor and non-expiring shared ownership ref. Scheduled fallback apply is prohibited. Runtime deployment and activation remain owner operations under that policy. Every other workflow remains prohibited without a separately reviewed owner amendment.
 
 ## License
 
