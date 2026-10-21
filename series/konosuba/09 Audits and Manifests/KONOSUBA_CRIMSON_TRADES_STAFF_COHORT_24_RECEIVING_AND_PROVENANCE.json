@@ -1,0 +1,377 @@
+{
+  "schema": "konosuba.crimson-trades-staff.cohort24.receiving.v1",
+  "authored_utc": "2026-10-21T03:05:19.428176+00:00",
+  "status": "SEMANTIC_RECEIVED_EXACT_CONTAINING_PUBLICATION_PENDING",
+  "remote_source_baseline": "d7cc099fd6b5bccaeb64ae54a28801ed98172021",
+  "reconciled_main": "0a6888617e6eae89d835e3bba736073a0a44857b",
+  "local_ordinary_merge_commit": "d1a6f9e30762057e8c47417a2202af7ac3242a02",
+  "prior_PR254_merged_main_tree_equal_remote": true,
+  "semantic_receiving_sha256": "3e2852ecf243c344a57d578172b04214cfbd5d6f4bae2fe56d208ffd1a326839",
+  "foundation_seal_sha256": "0dd2b32e81bef6b0fb4a1c2f4b2dd5ef7498eed607c5d354dea0dd2be827da1c",
+  "foundation_review_sha256": "c79fabbae5604e6ea7793ea99d923c577d9da337b41250a7a9eff933adc26c88",
+  "core_artifacts": [
+    {
+      "path": "CHEKERA_CHARACTER_MONOGRAPH_DRAFT_01.md",
+      "target_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_CHEKERA_CHARACTER_MONOGRAPH.md",
+      "bytes": 12684,
+      "sha256": "075935e786633db08f3cb709db26017562302e4f9ce18b5a68f6a83a80122cf8"
+    },
+    {
+      "path": "CRIMSON_TRADES_STAFF_EVIDENCE_INDEX_DRAFT_01.md",
+      "target_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_TRADES_STAFF_EVIDENCE_INDEX.md",
+      "bytes": 9747,
+      "sha256": "32d55e5d0157c36ec890b774d3da10b51a8561576a6d090c7ff83c717fac56af"
+    },
+    {
+      "path": "CRIMSON_TRADES_STAFF_NATIVE_PROVENANCE_DRAFT_01.json",
+      "target_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_TRADES_STAFF_NATIVE_PROVENANCE.json",
+      "bytes": 26149,
+      "sha256": "b0032c3b97d3db743f7081cbb3738ec263e72d80a9970bc69a2d8004916a0839"
+    }
+  ],
+  "compact_profile_home": {
+    "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md",
+    "fragment_sha256": "3683eb71a4117c3ffdefe06adca1ee37d56b605642b548bbd8377babbe25b799",
+    "profiles": 6,
+    "profile_ownership": "Six named compact profiles in existing canonical coverage audit, not six new shallow documents."
+  },
+  "frozen_private_foundation_pins": [
+    {
+      "path": "CHEKERA_CHARACTER_MONOGRAPH_DRAFT_01.md",
+      "bytes": 12684,
+      "sha256": "075935e786633db08f3cb709db26017562302e4f9ce18b5a68f6a83a80122cf8"
+    },
+    {
+      "path": "COHORT24_COMPACT_PROFILES_COVERAGE_APPEND_DRAFT_01.md",
+      "bytes": 11580,
+      "sha256": "3683eb71a4117c3ffdefe06adca1ee37d56b605642b548bbd8377babbe25b799"
+    },
+    {
+      "path": "CRIMSON_TRADES_STAFF_EVIDENCE_INDEX_DRAFT_01.md",
+      "bytes": 9747,
+      "sha256": "32d55e5d0157c36ec890b774d3da10b51a8561576a6d090c7ff83c717fac56af"
+    },
+    {
+      "path": "CRIMSON_TRADES_STAFF_NATIVE_PROVENANCE_DRAFT_01.json",
+      "bytes": 26149,
+      "sha256": "b0032c3b97d3db743f7081cbb3738ec263e72d80a9970bc69a2d8004916a0839"
+    },
+    {
+      "path": "CRIMSON_TRADES_STAFF_COHORT24_SCOPE_ASSESSMENT_01.json",
+      "bytes": 21080,
+      "sha256": "18f371059c1d3b19bb6bd5955764a2c52d7fdfa2214f4a4d53b99a3d80a3b2d5"
+    },
+    {
+      "path": "CRIMSON_TRADES_STAFF_COHORT24_NEW_DISCOVERY_RECORDS_01.json",
+      "bytes": 13134,
+      "sha256": "9e9c5f6cbd8d6e20adc463a738d20664b05a8a8bfedf6edfaffb144cc061bf5e"
+    },
+    {
+      "path": "CRIMSON_TRADES_STAFF_COHORT24_NAME_REFERENCE_CHECK_01.json",
+      "bytes": 4501,
+      "sha256": "7ea36faa2db0e9d4af3a98747afbfb39d433f38b48c12c04fba018213bf2af7d"
+    }
+  ],
+  "scope_assessment_sha256": "18f371059c1d3b19bb6bd5955764a2c52d7fdfa2214f4a4d53b99a3d80a3b2d5",
+  "name_and_reference_check_sha256": "7ea36faa2db0e9d4af3a98747afbfb39d433f38b48c12c04fba018213bf2af7d",
+  "new_discovery_records_sha256": "9e9c5f6cbd8d6e20adc463a738d20664b05a8a8bfedf6edfaffb144cc061bf5e",
+  "source_scope": {
+    "known_BASE_context_slots": 1149,
+    "members": 7,
+    "native_text_objects": 4,
+    "source_known": true,
+    "new_whole_source_ruby_residual_image_set_admission_or_independent_credit": 0
+  },
+  "candidate_counts": {
+    "models": 33,
+    "scoped_secondary_model_subjects": 27,
+    "bounded_profiles": 27,
+    "monograph_only_subjects": [
+      "Nos",
+      "Rionor",
+      "Feit",
+      "Chomusuke",
+      "Funifura",
+      "Dodonko",
+      "Arue",
+      "Hyoizaburoo",
+      "Chekera"
+    ],
+    "nonfinal_records": 219,
+    "new_models": 0,
+    "new_first_bodies": 0
+  },
+  "changed_current_rows": [
+    193,
+    194,
+    196,
+    197,
+    198,
+    199
+  ],
+  "untouched_existing_current_rows": 201,
+  "new_source_bound_rows": [
+    207,
+    208,
+    209,
+    210,
+    211,
+    212,
+    213,
+    214,
+    215,
+    216,
+    217,
+    218
+  ],
+  "source_or_identity_qualification": "Different role occurrences are not a proved unique-person partition. Native/member/register/delivery pins and rejected cafe/weapon/client joins live in the source index/provenance. Earlier frozen wording remains authorship history; C24 current qualifications govern these expanded claims.",
+  "prior_progress_carried": "Seven reviewed C23 post-gate paths are included; their exact existing content is preserved as baseline/history through targeted C24 extensions. No earlier frozen core, model, first body, score or prospective field is rewritten.",
+  "current_owning_controls": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 10152,
+      "sha256": "7d3733bbddcb9e2d93d137260593cb115b393f6034e1a66c3dce968295b76e74",
+      "prior_C23_sha256": "f1086c607b49f151454457b560768ba5973c5e13d973007b9c9dc6e273824680",
+      "changed_by_integrated_owner_update": true
+    },
+    {
+      "path": "governance/AUTHORITY_STATE.yaml",
+      "bytes": 4099,
+      "sha256": "3e0cd0e8a16f42ca72141f749761e02970b164c9023e88fac7465867a8668146",
+      "prior_C23_sha256": "3e0cd0e8a16f42ca72141f749761e02970b164c9023e88fac7465867a8668146",
+      "changed_by_integrated_owner_update": false
+    },
+    {
+      "path": "governance/AUTHORITY_SCOPE.json",
+      "bytes": 3696,
+      "sha256": "008b7b2adf114c1f39dd86fae064344457dab5b9e45486623fc9237fb6ed0916",
+      "prior_C23_sha256": "008b7b2adf114c1f39dd86fae064344457dab5b9e45486623fc9237fb6ed0916",
+      "changed_by_integrated_owner_update": false
+    },
+    {
+      "path": "governance/CHATGPT_AUTHORITY_AND_ROUTING.md",
+      "bytes": 35566,
+      "sha256": "bd5449fc0297bdc72582757bf5421d9fceb1e5d4eb8ecf0db09dbc99b4849322",
+      "prior_C23_sha256": "bd5449fc0297bdc72582757bf5421d9fceb1e5d4eb8ecf0db09dbc99b4849322",
+      "changed_by_integrated_owner_update": false
+    },
+    {
+      "path": "governance/policies/CHANGE_INTEGRATION_CHECKLIST.md",
+      "bytes": 33751,
+      "sha256": "45ba48dd89c19576c454c1795b143111ec7f61e9ead441eb29f0657fd670edde",
+      "prior_C23_sha256": "45ba48dd89c19576c454c1795b143111ec7f61e9ead441eb29f0657fd670edde",
+      "changed_by_integrated_owner_update": false
+    },
+    {
+      "path": "governance/policies/BRANCH_LIFECYCLE.md",
+      "bytes": 6839,
+      "sha256": "a1f8aee3ddb833a4ce17f8959c68679e6a2fae4b252cceacb25bb74095cf0e73",
+      "prior_C23_sha256": "a1f8aee3ddb833a4ce17f8959c68679e6a2fae4b252cceacb25bb74095cf0e73",
+      "changed_by_integrated_owner_update": false
+    },
+    {
+      "path": "governance/policies/PUBLICATION_AND_CONTRIBUTION_POLICY.md",
+      "bytes": 10235,
+      "sha256": "d7739ec75e10b6754b116936aa3a30699d360079d2ad52c69fdb0d721e10cb6d",
+      "prior_C23_sha256": "d7739ec75e10b6754b116936aa3a30699d360079d2ad52c69fdb0d721e10cb6d",
+      "changed_by_integrated_owner_update": false
+    },
+    {
+      "path": "governance/policies/NIGHTLY_ANALYTICAL_INTEGRATION.md",
+      "bytes": 31488,
+      "sha256": "0649539ee9a74255d864eee8bc0aef8809aae7aa52e0ab6282f34c6885e3e87a",
+      "prior_C23_sha256": "207434d0a682d004ff94313a3147b63fddaaaf23ea220bcabf6f61b3f6b3fa5e",
+      "changed_by_integrated_owner_update": true
+    },
+    {
+      "path": "governance/policies/REPOSITORY_CONTROLS.md",
+      "bytes": 12761,
+      "sha256": "cd60aa8c19edf3dc9590929ba49ef4ec24c67fd548e888a7e445dadc3286eb13",
+      "prior_C23_sha256": "ab550b67d069e0433347cb38c2958ba798448926071a1387029a021921bcdba7",
+      "changed_by_integrated_owner_update": true
+    },
+    {
+      "path": "governance/policies/AUTOMATED_GLOBAL_INDEX_MAINTENANCE.md",
+      "bytes": 7408,
+      "sha256": "2ae79abdb32a2f6e37256e961af3802e4fc8b74a64fc9b8eb5b42f299d357fe8",
+      "prior_C23_sha256": "2ae79abdb32a2f6e37256e961af3802e4fc8b74a64fc9b8eb5b42f299d357fe8",
+      "changed_by_integrated_owner_update": false
+    },
+    {
+      "path": "governance/repository-controls/change-obligations.json",
+      "bytes": 2788,
+      "sha256": "7f59db4d799825eab4d81cffc7dc36275f883281647569a3b522a588c5834722",
+      "prior_C23_sha256": "7f59db4d799825eab4d81cffc7dc36275f883281647569a3b522a588c5834722",
+      "changed_by_integrated_owner_update": false
+    },
+    {
+      "path": "series/registry.json",
+      "bytes": 36137,
+      "sha256": "93e9c9e8ef3f35745c818530d7f48f159f3897fba74bec69719ba7714d2b0da4",
+      "prior_C23_sha256": "93e9c9e8ef3f35745c818530d7f48f159f3897fba74bec69719ba7714d2b0da4",
+      "changed_by_integrated_owner_update": false
+    }
+  ],
+  "preservation_checks": {
+    "current_controls": 12,
+    "C22_8canonical_14private_4firsts": true,
+    "C21_16canonical_24private_8firsts": true,
+    "C20_five_cores": true,
+    "C23_17private_12firsts": true,
+    "immutable": 66,
+    "historical": 72,
+    "scores": 4,
+    "Dust_blank_fields": 14,
+    "SI_SY_null_fields": 28,
+    "scratch_files": 80,
+    "local_native_objects": 8,
+    "current_models": 33,
+    "C23_15canonical_17private_12firsts": true,
+    "C24_frozen_private_foundations": 7,
+    "integrated_owner_imports": 16
+  },
+  "historical31_C23_entering_models_also_checked": true,
+  "new_models": 0,
+  "new_exact_scenario_inputs": 0,
+  "new_first_bodies": 0,
+  "new_independent_trials": 0,
+  "independent_review_or_accuracy": false,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "authorship_state_qualification": "Frozen core pending-status text records original authorship. This receiving/map and later exact-source gate govern current acceptance; no independent reviewer or source validation is implied.",
+  "source_audit_housekeeping_final_reload_all_pending": true,
+  "global_curator_or_evaluator_outputs_authored": false,
+  "full_program_complete": false,
+  "prior_current_authority_at_initial_candidate": {
+    "reconciled_main": "fed8be4aa1be8213e1baa703972eb3201ce7ac1b",
+    "local_ordinary_merge_commit": "db7860b0ff2ee587a1fdfc6196ef98383da53a0a",
+    "current_owning_controls": [
+      {
+        "path": "AGENTS.md",
+        "bytes": 10152,
+        "sha256": "7d3733bbddcb9e2d93d137260593cb115b393f6034e1a66c3dce968295b76e74",
+        "prior_C23_sha256": "f1086c607b49f151454457b560768ba5973c5e13d973007b9c9dc6e273824680",
+        "changed_by_integrated_owner_update": true
+      },
+      {
+        "path": "governance/AUTHORITY_STATE.yaml",
+        "bytes": 4099,
+        "sha256": "3e0cd0e8a16f42ca72141f749761e02970b164c9023e88fac7465867a8668146",
+        "prior_C23_sha256": "3e0cd0e8a16f42ca72141f749761e02970b164c9023e88fac7465867a8668146",
+        "changed_by_integrated_owner_update": false
+      },
+      {
+        "path": "governance/AUTHORITY_SCOPE.json",
+        "bytes": 3696,
+        "sha256": "008b7b2adf114c1f39dd86fae064344457dab5b9e45486623fc9237fb6ed0916",
+        "prior_C23_sha256": "008b7b2adf114c1f39dd86fae064344457dab5b9e45486623fc9237fb6ed0916",
+        "changed_by_integrated_owner_update": false
+      },
+      {
+        "path": "governance/CHATGPT_AUTHORITY_AND_ROUTING.md",
+        "bytes": 35566,
+        "sha256": "bd5449fc0297bdc72582757bf5421d9fceb1e5d4eb8ecf0db09dbc99b4849322",
+        "prior_C23_sha256": "bd5449fc0297bdc72582757bf5421d9fceb1e5d4eb8ecf0db09dbc99b4849322",
+        "changed_by_integrated_owner_update": false
+      },
+      {
+        "path": "governance/policies/CHANGE_INTEGRATION_CHECKLIST.md",
+        "bytes": 33751,
+        "sha256": "45ba48dd89c19576c454c1795b143111ec7f61e9ead441eb29f0657fd670edde",
+        "prior_C23_sha256": "45ba48dd89c19576c454c1795b143111ec7f61e9ead441eb29f0657fd670edde",
+        "changed_by_integrated_owner_update": false
+      },
+      {
+        "path": "governance/policies/BRANCH_LIFECYCLE.md",
+        "bytes": 6839,
+        "sha256": "a1f8aee3ddb833a4ce17f8959c68679e6a2fae4b252cceacb25bb74095cf0e73",
+        "prior_C23_sha256": "a1f8aee3ddb833a4ce17f8959c68679e6a2fae4b252cceacb25bb74095cf0e73",
+        "changed_by_integrated_owner_update": false
+      },
+      {
+        "path": "governance/policies/PUBLICATION_AND_CONTRIBUTION_POLICY.md",
+        "bytes": 10235,
+        "sha256": "d7739ec75e10b6754b116936aa3a30699d360079d2ad52c69fdb0d721e10cb6d",
+        "prior_C23_sha256": "d7739ec75e10b6754b116936aa3a30699d360079d2ad52c69fdb0d721e10cb6d",
+        "changed_by_integrated_owner_update": false
+      },
+      {
+        "path": "governance/policies/NIGHTLY_ANALYTICAL_INTEGRATION.md",
+        "bytes": 31488,
+        "sha256": "0649539ee9a74255d864eee8bc0aef8809aae7aa52e0ab6282f34c6885e3e87a",
+        "prior_C23_sha256": "207434d0a682d004ff94313a3147b63fddaaaf23ea220bcabf6f61b3f6b3fa5e",
+        "changed_by_integrated_owner_update": true
+      },
+      {
+        "path": "governance/policies/REPOSITORY_CONTROLS.md",
+        "bytes": 12761,
+        "sha256": "cd60aa8c19edf3dc9590929ba49ef4ec24c67fd548e888a7e445dadc3286eb13",
+        "prior_C23_sha256": "ab550b67d069e0433347cb38c2958ba798448926071a1387029a021921bcdba7",
+        "changed_by_integrated_owner_update": true
+      },
+      {
+        "path": "governance/policies/AUTOMATED_GLOBAL_INDEX_MAINTENANCE.md",
+        "bytes": 7408,
+        "sha256": "2ae79abdb32a2f6e37256e961af3802e4fc8b74a64fc9b8eb5b42f299d357fe8",
+        "prior_C23_sha256": "2ae79abdb32a2f6e37256e961af3802e4fc8b74a64fc9b8eb5b42f299d357fe8",
+        "changed_by_integrated_owner_update": false
+      },
+      {
+        "path": "governance/repository-controls/change-obligations.json",
+        "bytes": 2788,
+        "sha256": "7f59db4d799825eab4d81cffc7dc36275f883281647569a3b522a588c5834722",
+        "prior_C23_sha256": "7f59db4d799825eab4d81cffc7dc36275f883281647569a3b522a588c5834722",
+        "changed_by_integrated_owner_update": false
+      },
+      {
+        "path": "series/registry.json",
+        "bytes": 36137,
+        "sha256": "93e9c9e8ef3f35745c818530d7f48f159f3897fba74bec69719ba7714d2b0da4",
+        "prior_C23_sha256": "93e9c9e8ef3f35745c818530d7f48f159f3897fba74bec69719ba7714d2b0da4",
+        "changed_by_integrated_owner_update": false
+      }
+    ],
+    "preservation_checks": {
+      "current_controls": 12,
+      "C22_8canonical_14private_4firsts": true,
+      "C21_16canonical_24private_8firsts": true,
+      "C20_five_cores": true,
+      "C23_17private_12firsts": true,
+      "immutable": 66,
+      "historical": 72,
+      "scores": 4,
+      "Dust_blank_fields": 14,
+      "SI_SY_null_fields": 28,
+      "scratch_files": 80,
+      "local_native_objects": 8,
+      "current_models": 33,
+      "C23_15canonical_17private_12firsts": true,
+      "C24_frozen_private_foundations": 7,
+      "integrated_owner_imports": 13
+    }
+  },
+  "prior_PR254_merged_main_sha": "fed8be4aa1be8213e1baa703972eb3201ce7ac1b",
+  "prior_PR254_equal_remote_tree_scope": "PR254 merge fed8be4aa1be8213e1baa703972eb3201ce7ac1b equals source d7cc099fd6b5bccaeb64ae54a28801ed98172021. Later main0a688861 differs by six exact integrated owner paths; the later ordinary local merge preserves them without changing the prior project tree.",
+  "post_semantic_owner_main_reconciliation": {
+    "sha256": "6d320cf78380d50dc432b4dc2551796368ae2bb658110a8ce7e74e88966bdb80",
+    "main": "0a6888617e6eae89d835e3bba736073a0a44857b",
+    "local_merge": "d1a6f9e30762057e8c47417a2202af7ac3242a02",
+    "accepted_main_import_paths_in_final_delta": [
+      "governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md",
+      "tools/completed_run_publication.py",
+      "tools/tests/test-catalog.json",
+      "tools/tests/test_git_snapshot_io.py",
+      "tools/tests/test_project_initiation_gate.py",
+      "tools/validate_repository.py"
+    ],
+    "additional_reacquired_policy": {
+      "path": "governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md",
+      "bytes": 62162,
+      "sha256": "76a00657ae970854275fc7511990839655dd9c50d478097f3fa7404b016787cc",
+      "complete_policy_diff_actual_chunk": "1b0d30",
+      "application": "Optional completed-run proof route adds no admission or closure here. This retrospective cohort preserves reading bytes and existing operational metadata."
+    },
+    "frozen_foundations_and_all_source_readings_unchanged": true,
+    "no_completed_run_proof_or_source_admission_added": true
+  }
+}
