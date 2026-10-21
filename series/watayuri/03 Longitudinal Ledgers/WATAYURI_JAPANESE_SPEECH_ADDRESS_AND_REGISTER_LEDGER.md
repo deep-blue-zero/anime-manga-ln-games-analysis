@@ -4,14 +4,14 @@ artifact_id: WATAYURI_JAPANESE_SPEECH_ADDRESS_AND_REGISTER_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.13"
+version: "0.14"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V12 mainline through V12 Shift 61/i140, also latest depicted present; packaged shorts separately bounded; V09 one-shot separate continuity; V10-B and V13–V14 inventory only"
+source_boundary: "Japanese V01–V13 mainline through V13 Shift 66/i158, also latest depicted present; packaged shorts separately bounded; V09 one-shot separate continuity; V10-B and V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_JAPANESE_SPEECH_ADDRESS_AND_REGISTER_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_JAPANESE_SPEECH
 
 **Update and revision rule.** Update when a feature recurs, switches under meaningful conditions or contradicts a working speech model. Preserve original wording/locator and distinguish observation from claim; cross-link performance when a script appears to condition register. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V12 mainline through V12 Shift 61/i140, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1, 36.2, 41.5, 46.5, 51.5, 56.5 and 61.5 remain separately bounded; V04 EX is promotional. V09’s one-shot is a separate work, not Watayuri continuity. All V01–V11 bodies retain their historical states; dated V12 additions carry the current source-branch account under the preserved V10 claim-lineage erratum. Main acceptance and run completion remain separately governed. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V13 mainline through V13 Shift 66/i158, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1, 36.2, 41.5, 46.5, 51.5, 56.5, 61.5 and 66.5 remain separately bounded; V04 EX is promotional. V09’s one-shot is a separate work, not Watayuri continuity. All V01–V12 bodies retain their historical states; dated V13 additions carry the current source-branch account under the preserved V10 claim-lineage erratum. Main acceptance and run completion remain separately governed. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -516,3 +516,44 @@ The converse also matters: a forceful phrase does not tell the analyst everythin
 Yoko speaks as though the right category would settle every participant’s feeling. Sumika’s later account of the kiss is more limited: this event matters to her. The difference is not merely softer wording. A personally owned account can leave room for Kanoko’s unequal feeling and for Hime’s unavailable interpretation. A compulsory general rule cannot do so without classifying the other person’s answer as denial. [JP03/JP06/JP14.]
 
 The closing phrase about treating a confession as if it had not happened changes the scale of the problem again. Until that point Kanoko argues about the importance of a type of act. At i140 she begins to identify a particular history. The words do not yet establish what Hime said; they establish that Kanoko now offers a source for further explanation instead of only a rule meant to prevent explanation. [JP14/JP16.]
+
+
+<a id="v13"></a>
+## V13 — Current additions and transitions — 2026-10-20
+
+**V13 evidence key:** source-map key `V13`, Japanese witness `1ZfyaG_u1-wVtFuuIFWQZGLEdmck-hY7W`, SHA-256 `602797c4450237e0eb6e391fac4099fa00ba7569f2de2a25ffb338e5085a14b1`. The [frozen V13 reading](../02%20Sequential%20Readings/WATAYURI_V13_DEEP_READING.md#speech) supplies full context and image conventions. Unprefixed iNNN and O/REL/PER/INF/AG/T/JP/VIS/C references below mean V13; original forecasts retain their creation-volume shorthand. Section numbers refer to that complete reading. Mainline/latest present ends at Shift 66/i158 before the planned reading event and further Sumika conversation. Shift 66.5/i160–162 falls after the park outing and before the breakup; edition matter and bonus do not continue the ending. V14 and V10-B remain excluded.
+
+**Receiving disposition:** the complete responsibility section below is accepted for this source-branch transaction; “proposed” labels and producer-stage statements retain their historical provenance. Main acceptance and run completion remain separately governed in the [entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md#operational-boundary) and [receiving review](../07%20Audits%20and%20Handoffs/WATAYURI_V13_INTEGRATION_REVIEW.md). All earlier bodies, original claim identities and receiving corrections remain preserved under the [expanded V10 claim-lineage erratum](WATAYURI_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md#v10-claim-lineage-erratum).
+
+## 11. Japanese speech, address, and register additions
+
+This is a written-language analysis. Balloon shape, punctuation, and depicted expression can support contrast and attribution; they do not establish vocal timbre, pitch, breathiness, or performed acoustic delivery. Short Japanese forms below are included only where the wording is consequential.
+
+| ID | Wording or written-language feature | Context, implication, and limit |
+| --- | --- | --- |
+| **WY13-JP01** | Hime’s **外づら** as described by Kanoko | i005–006 links the familiar term with strength and chosen self-presentation. The speaker’s favorable interpretation does not make every performed act benevolent. |
+| **WY13-JP02** | Surname-plus-honorific to personal-name address | i009–010 makes a proposed change in address an explicit action of friendship. The change has relational force without being a romantic declaration. |
+| **WY13-JP03** | Hime’s statement that she has not understood romantic liking | i014–016 and i021–024 distinguish present self-account from Kanoko’s hidden attraction. Do not convert the negative formulation into a permanent diagnostic identity. |
+| **WY13-JP04** | Anonymous letter versus face-to-face friend speech | i017–031 separates written romantic intention from spoken concealment and the invented writer explanation. The same Kanoko produces both; attribution must not introduce another actual author. |
+| **WY13-JP05** | **約束しよう** and later remembered promise | i031 is a proposal by Kanoko; i109–110 is Hime’s retained account of it. Grammatical invitation and later reference do not themselves provide the omitted full assent scene. |
+| **WY13-JP06** | Gratitude and repayment language | i039, i051, i057–060 repeatedly return Kanoko to a balance-of-giving account. Sumika distinguishes doing something gladly from charging for it. No equivalent-love confession follows from thanks. |
+| **WY13-JP07** | Kanoko’s qualified response about Nene | i055–057 preserves tentativeness while offering a useful distinction. Uncertainty here is compatible with care; it is not an acoustic softness claim or a claim to expert authority. |
+| **WY13-JP08** | **暴力** and **被害者** in Mai’s account | i070–071 explicitly refuses the conclusion that threatening/compelled speech is nothing. These are Mai’s stated recognition terms, not a newly documented official adjudication. |
+| **WY13-JP09** | **やめてください** and the further request not to say it | i083–084 are direct stop requests in the breakup conversation, not merely an unvoiced blush. Their object is the painful speech; do not rewrite them as an explicit hand-release request. |
+| **WY13-JP10** | **好きだから** as explanation for ending dating | i086–089 keeps love present while changing conduct. The causal claim is Sumika’s self-explanation and can coexist with the short’s personal endurance limit. |
+| **WY13-JP11** | Quoted address to **エルナ** | i090 visibly imports the fictional departure scene into actual persuasion. This is a deliberate register/source switch, not Kanoko’s ordinary name or an actual third participant. |
+| **WY13-JP12** | Kanoko’s sharp personal reproach to Sumika | i091 breaks the polished sister scene with an angry ordinary response. The wording marks refusal of Sumika’s framing, not proof that all affection is gone. |
+| **WY13-JP13** | Sumika’s abrupt **違う** before naming her own love | i111–112 redirects Hime from asking who Kanoko loves to the fact that Sumika loves Kanoko. The correction has an information-protective function without supplying the withheld target. |
+| **WY13-JP14** | Hime’s friend-language and admitted personal need | i105–110 and i146–150 move from concern for an important friend to fear of losing her attention. Neither form needs a covert romantic translation. |
+| **WY13-JP15** | Kanoko’s urgent question about what Hime heard | i138–145 marks a feared knowledge state before the actual scope is clarified. The urgency is tied to concealment, not itself a completed confession. |
+| **WY13-JP16** | The ending’s insistence on properly talking | i156–158 is an intention to continue with Sumika, not a report that the talk happened. The distinction between future act and completed outcome governs the freeze. |
+
+### 11.1 The same relationship word can carry a changed demand
+
+“Friend” initially protects Kanoko from the risk of being treated as an anonymous suitor. It later becomes Hime’s reason to ask what is wrong. “Girlfriend” initially offers Sumika a personally meaningful place beside Kanoko; it later becomes a form she says cannot continue. “Older sister” can recognize effort in a truthful public scene and then lend authority to a contested private departure. The words are not empty, but their force depends on who uses them, before which audience, and to obtain which response. [JP02/JP04/JP10/JP11/JP14.]
+
+The volume’s direct negative speech is equally differentiated. Hime’s intended romantic refusal, Kanoko’s stop request, Sumika’s withdrawal from dating, and Hime’s initial acceptance of wanting time alone do not all concern the same permission. A useful language model for these characters must retain the object of the negative, rather than treating every no as either rejection of the whole person or a superficial obstacle overcome by persistence.
+
+### 11.2 Speech limits are evidence, not inconvenient omissions
+
+Several key questions remain unanswered because the relevant speech is not present: a full historical Hime assent to the pledge; a present Hime identification of the letter’s author; the content of Mai’s additional request; a new Kanoko confession to Hime; and Sumika’s answer to the proposed further discussion. These are not gaps to fill with natural-sounding dialogue. They define the source boundary. Even a plausible paraphrase would be an invented event if presented as something the character actually said.

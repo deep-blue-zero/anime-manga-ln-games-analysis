@@ -4,14 +4,14 @@ artifact_id: WATAYURI_PERSONA_ROLE_AND_PERFORMANCE_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.13"
+version: "0.14"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V12 mainline through V12 Shift 61/i140, also latest depicted present; packaged shorts separately bounded; V09 one-shot separate continuity; V10-B and V13–V14 inventory only"
+source_boundary: "Japanese V01–V13 mainline through V13 Shift 66/i158, also latest depicted present; packaged shorts separately bounded; V09 one-shot separate continuity; V10-B and V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_PERSONA_ROLE_AND_PERFORMANCE_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_PERSONA_ROLE_AN
 
 **Update and revision rule.** Update on a script change, explicit audience shift, recurring role/private leakage or consequential role-mediated change in relationship. Keep role adoption and private effect separately time-indexed. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V12 mainline through V12 Shift 61/i140, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1, 36.2, 41.5, 46.5, 51.5, 56.5 and 61.5 remain separately bounded; V04 EX is promotional. V09’s one-shot is a separate work, not Watayuri continuity. All V01–V11 bodies retain their historical states; dated V12 additions carry the current source-branch account under the preserved V10 claim-lineage erratum. Main acceptance and run completion remain separately governed. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V13 mainline through V13 Shift 66/i158, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1, 36.2, 41.5, 46.5, 51.5, 56.5, 61.5 and 66.5 remain separately bounded; V04 EX is promotional. V09’s one-shot is a separate work, not Watayuri continuity. All V01–V12 bodies retain their historical states; dated V13 additions carry the current source-branch account under the preserved V10 claim-lineage erratum. Main acceptance and run completion remain separately governed. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -362,3 +362,40 @@ The argument also runs against a simplistic celebration of private space. The ho
 Yoko first interprets an existing play and then writes the sentence Kanoko must say. Kanoko later attempts to enact what she thinks a girlfriend must provide. Sumika rejects that demanded performance, but at the ending risks prescribing continued disclosure as the only acceptable sign of trust. These are not equally severe or equivalent motives. Their comparison identifies a recurring question: whether a role makes room for the person’s answer or supplies the answer in advance. [O02/O08/O20–O23/O28/O29.]
 
 The accepted contribution should therefore route role mechanics separately from feeling. The SK pair remains under the dating label, but that status does not settle the different purposes disclosed at i107–120. The restored elder-sister address helps reopen communication, but it does not nullify the literal words asking for release at i137. Neither the register nor the declared benevolent purpose is a shortcut around the source. [PER09–PER12.]
+
+
+<a id="v13"></a>
+## V13 — Current additions and transitions — 2026-10-20
+
+**V13 evidence key:** source-map key `V13`, Japanese witness `1ZfyaG_u1-wVtFuuIFWQZGLEdmck-hY7W`, SHA-256 `602797c4450237e0eb6e391fac4099fa00ba7569f2de2a25ffb338e5085a14b1`. The [frozen V13 reading](../02%20Sequential%20Readings/WATAYURI_V13_DEEP_READING.md#performance) supplies full context and image conventions. Unprefixed iNNN and O/REL/PER/INF/AG/T/JP/VIS/C references below mean V13; original forecasts retain their creation-volume shorthand. Section numbers refer to that complete reading. Mainline/latest present ends at Shift 66/i158 before the planned reading event and further Sumika conversation. Shift 66.5/i160–162 falls after the park outing and before the breakup; edition matter and bonus do not continue the ending. V14 and V10-B remain excluded.
+
+**Receiving disposition:** the complete responsibility section below is accepted for this source-branch transaction; “proposed” labels and producer-stage statements retain their historical provenance. Main acceptance and run completion remain separately governed in the [entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md#operational-boundary) and [receiving review](../07%20Audits%20and%20Handoffs/WATAYURI_V13_INTEGRATION_REVIEW.md). All earlier bodies, original claim identities and receiving corrections remain preserved under the [expanded V10 claim-lineage erratum](WATAYURI_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md#v10-claim-lineage-erratum).
+
+## 7. Persona, role, and performance additions
+
+| ID | Setting, audience, and performed account | Sincerity, leakage, and evidentiary limit |
+| --- | --- | --- |
+| **WY13-PER01** | Kanoko’s account of Hime’s ordinary façade before Sumika | Hime’s pleasing presentation is interpreted as a means of pursuing freedom, not mere falseness. Kanoko is the interpreter; the actual school scenes also show genuine choice and care. O01/O02. |
+| **WY13-PER02** | Public school friendship versus private naming | Hime rejects the public pity script and privately asks for closer address that can travel back into ordinary school life. Publicness does not automatically make the friendship insincere. O02. |
+| **WY13-PER03** | Kanoko performs the helpful friend during the anonymous-letter episode | She conceals being the writer while providing a false account of that writer’s motives. This is deliberate informational management, not merely in-role café fiction. O04–O06. |
+| **WY13-PER04** | A couple’s ordinary park date | Sumika’s playful date behavior and Kanoko’s participation are actual shared activity under an unequal-feeling arrangement. Performance of a date is not proof of either fake care or equal love. O08–O12. |
+| **WY13-PER05** | Sumika’s sister reassurance in the salon | The role carries accurate recognition of Kanoko’s effort. Guests see a sister scene, Kanoko receives personal care, and the pending breakup remains private. O17. |
+| **WY13-PER06** | Script practice on the walk | Demonstrated line memory is practical preparation. It does not certify the final event or private agreement with the departure represented in the script. O18. |
+| **WY13-PER07** | Sumika quotes the elder’s release of Erna during the breakup | Fiction supplies persuasive language and a structure for her decision. The real Kanoko’s angry refusal prevents the script from functioning as an uncontested description. O20/O21. |
+| **WY13-PER08** | Bright ordinary greetings after private strain | Sumika continues workable public conduct; Kanoko experiences it against the breakup’s memory. Fluency and warmth do not certify shared comfort. O14/O22/O27. |
+| **WY13-PER09** | Mai uses a work pretext to obtain privacy | Mai acknowledges the device and offers postponement. The performance’s actual purpose and accountable explanation matter more than classifying every pretext as the same kind of deception. O15. |
+| **WY13-PER10** | Sumika’s selective self-account to Hime | Her disclosure of personal love is candid in one respect and deliberately incomplete in another. Preserving Kanoko’s love target coexists with disclosing the secret dating arrangement. O23–O26. |
+| **WY13-PER11** | Hime’s playful pursuit toward the stairs | Play facilitates a private exchange but also redirects a person who had declined one. Subsequent choice is real without making the initial tactic neutral. O28–O30. |
+| **WY13-PER12** | Hime and Kanoko’s rooftop friendship language | Familiar phrases now accommodate partial disclosure and movement, rather than certifying an unchanged future. The scene is not a disguised completed romantic confession. O31–O33. |
+| **WY13-PER13** | Bonus guests versus backstage practice | Guests assign supportive competence to the older-sister role; the actual rehearsal shows Hime reassuring Mitsuki. The contradiction concerns perceived help direction, not the worthlessness of either role. O36; E/i168. |
+| **WY13-PER14** | Edition service manual’s event-dessert explanation | Emotional school fiction is supported by concrete menu, incentive, and preparation arrangements. This paratext does not depict the future event occurring. O35; E/i165. |
+
+### 7.1 A script can carry care and still be the wrong explanation of another person
+
+Sumika’s reassuring sister speech and later departure quotation are not interchangeable. The first is grounded in a particular observation: she has seen Kanoko work. The second forecasts what Kanoko’s release ought to accomplish and what Hime’s response will permit. The difference is evidentiary as well as ethical. Knowing someone’s effort is not knowing her best future. V13 lets a competent performer move from the first kind of knowledge toward the second kind of claim without erasing the gap. [PER05–PER07.]
+
+Hime’s ordinary façade and playful pursuit likewise cannot be sorted into a simple frontstage-false/backstage-true opposition. Hime’s school warmth contains genuine selection; her private concern contains strategy and a personal wish for attention. Kanoko’s apparently frank private history still contains a lifetime model of Hime that the analyst should not automatically accept. The performance ledger therefore records audience, purpose, and specific truth conditions rather than assigning sincerity by location. [PER01–PER03/PER11/PER12.]
+
+### 7.2 Capability remains task-specific
+
+Kanoko can struggle with emotional disclosure and still know the script. Hime can be the fictional younger sister and the person providing practical reassurance in rehearsal. Sumika can manage a compelling public scene and misunderstand how her private breakup account will be received. These contrasts are valuable for reconstruction because they prevent role fluency, emotional insight, and task mastery becoming a single global competence score. [O17/O18/O36.]

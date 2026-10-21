@@ -4,14 +4,14 @@ artifact_id: WATAYURI_AGENCY_BOUNDARY_RUPTURE_AND_REPAIR_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.13"
+version: "0.14"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V12 mainline through V12 Shift 61/i140, also latest depicted present; packaged shorts separately bounded; V09 one-shot separate continuity; V10-B and V13–V14 inventory only"
+source_boundary: "Japanese V01–V13 mainline through V13 Shift 66/i158, also latest depicted present; packaged shorts separately bounded; V09 one-shot separate continuity; V10-B and V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_AGENCY_BOUNDARY_RUPTURE_AND_REPAIR_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_AGENCY_BOUNDARY
 
 **Update and revision rule.** Update when choices or boundary/repair trajectory materially change. Do not close a rupture merely because an apology occurred. Link later behavior as a dated continuation and retain the earlier prospective assessment. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V12 mainline through V12 Shift 61/i140, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1, 36.2, 41.5, 46.5, 51.5, 56.5 and 61.5 remain separately bounded; V04 EX is promotional. V09’s one-shot is a separate work, not Watayuri continuity. All V01–V11 bodies retain their historical states; dated V12 additions carry the current source-branch account under the preserved V10 claim-lineage erratum. Main acceptance and run completion remain separately governed. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V13 mainline through V13 Shift 66/i158, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1, 36.2, 41.5, 46.5, 51.5, 56.5, 61.5 and 66.5 remain separately bounded; V04 EX is promotional. V09’s one-shot is a separate work, not Watayuri continuity. All V01–V12 bodies retain their historical states; dated V13 additions carry the current source-branch account under the preserved V10 claim-lineage erratum. Main acceptance and run completion remain separately governed. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -508,3 +508,52 @@ The analysis also separates advance permission from later evaluation. Sumika’s
 The immediate hotel danger ends on page, Kanoko leaves that setting with Sumika, and a confidant relationship becomes more openly discussable. Sumika rejects compensation through harm or intimacy, hears the concealed adviser account and apologizes for earlier withdrawal. Kanoko accepts comfort, offers a specific apology and begins an account she had withheld. These are real achievements, not merely decorative apologies. [AG09/AG12/AG16–20/AG23.]
 
 The volume does not show a completed report to a support service, a legal outcome, a full reckoning with Yoko, comprehensive disclosure to Hime, or the resolution of the middle-school story. It does not show equivalent romantic feeling in the new couple. The refused release also remains an unresolved feature of the method by which continued conversation is obtained. These limits qualify the repair without making it unreal. [AG10/AG14/AG21–23; INF09/INF11/INF23.]
+
+
+<a id="v13"></a>
+## V13 — Current additions and transitions — 2026-10-20
+
+**V13 evidence key:** source-map key `V13`, Japanese witness `1ZfyaG_u1-wVtFuuIFWQZGLEdmck-hY7W`, SHA-256 `602797c4450237e0eb6e391fac4099fa00ba7569f2de2a25ffb338e5085a14b1`. The [frozen V13 reading](../02%20Sequential%20Readings/WATAYURI_V13_DEEP_READING.md#agency) supplies full context and image conventions. Unprefixed iNNN and O/REL/PER/INF/AG/T/JP/VIS/C references below mean V13; original forecasts retain their creation-volume shorthand. Section numbers refer to that complete reading. Mainline/latest present ends at Shift 66/i158 before the planned reading event and further Sumika conversation. Shift 66.5/i160–162 falls after the park outing and before the breakup; edition matter and bonus do not continue the ending. V14 and V10-B remain excluded.
+
+**Receiving disposition:** the complete responsibility section below is accepted for this source-branch transaction; “proposed” labels and producer-stage statements retain their historical provenance. Main acceptance and run completion remain separately governed in the [entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md#operational-boundary) and [receiving review](../07%20Audits%20and%20Handoffs/WATAYURI_V13_INTEGRATION_REVIEW.md). All earlier bodies, original claim identities and receiving corrections remain preserved under the [expanded V10 claim-lineage erratum](WATAYURI_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md#v10-claim-lineage-erratum).
+
+## 9. Agency, boundaries, rupture, and repair additions
+
+| ID | Initiative, option, or request | Observed response and bounded consequence |
+| --- | --- | --- |
+| **WY13-AG01** | Hime rejects pity as the basis of choosing Kanoko | She privately restates chosen friendship and proposes name/address changes. i007–010. Relational initiative is actual, not an analyst’s substitute. |
+| **WY13-AG02** | Kanoko chooses anonymous disclosure with identification deferred | Letter is delivered; anonymity preserves retreat but also prevents an informed personal answer. i017–024. |
+| **WY13-AG03** | Kanoko abandons identification, destroys the letter, and supplies another account | Hime is not told the author; the old confession becomes inaccessible as Kanoko’s explicit act. i025–031. No literal erasure of Hime’s memory. |
+| **WY13-AG04** | Kanoko proposes permanent friendship without falling in love | Full Hime assent is not depicted; later remembered promise adds retention, not unlimited informed authorization. i031, i109–110. |
+| **WY13-AG05** | Kanoko chooses breakfast participation and the park outing | She exercises small practical choices inside care rather than solely receiving it. i036–046. No global recovery claim. |
+| **WY13-AG06** | Sumika offers care without repayment and asks about handholding | The expressed option differs from automatic entitlement based on distress. i047–051. No broad contact license inferred. |
+| **WY13-AG07** | Sumika asks for a speaking turn; Kanoko answers | A concrete reciprocal listener contribution is received as helpful. i052–057. Not romantic payment. |
+| **WY13-AG08** | Sumika takes down and stores the photo; restores her room | Private attempt to manage exposure and endurance, not destruction or an act communicated to Kanoko. i062; S66.5/i160–162. |
+| **WY13-AG09** | Mai creates privacy by pretext, apologizes, and offers postponement | Kanoko chooses to speak. i067–068. Management need is combined with a timing choice. |
+| **WY13-AG10** | Kanoko limits further action; Mai names harm and leaves help available | No action against her stated wish or completed official process is shown. i069–071. Recognition does not require forced reporting. |
+| **WY13-AG11** | Sumika gives truthful public reassurance about preparation | Kanoko receives encouragement while privately inferring restoration beyond what was promised. i073–076. |
+| **WY13-AG12** | Sumika withdraws from dating | Her own participation can end without Kanoko’s permission. i080–082. This does not decide every other relational status. |
+| **WY13-AG13** | Kanoko explicitly asks Sumika to stop the painful discussion | Sumika continues rather than pausing; the subsequent explanation remains pressure despite its caring purpose. i083–087. |
+| **WY13-AG14** | Sumika embraces, urges a Hime confession, and predicts survival | The directive concerns another’s disclosure and a third person’s answer. i088–090. Neither love nor the script certifies authority over those outcomes. |
+| **WY13-AG15** | Kanoko pulls away and leaves | Sumika permits actual departure. i091–092. No accepted alternative or complete repair follows. |
+| **WY13-AG16** | Hime offers an outing away from work; Kanoko chooses work | The refusal is not overridden by a forced outing. i097–101. Café/Sumika significance remains visible. |
+| **WY13-AG17** | Hime requests information; Sumika protects one confidence and discloses another | Hime learns dating/breakup, not Kanoko’s love target. i105–120. Confidentiality remains object-specific. |
+| **WY13-AG18** | Hime clarifies she is not blaming Sumika | Sumika apologizes for defensive anger and adjusts the conversation. i118–120. A real local correction, not SK repair. |
+| **WY13-AG19** | Kanoko declines lunch/outing and asks to be alone | Hime initially accepts before approaching again later. i125–129. Preserve both the uptake and the later escalation. |
+| **WY13-AG20** | Hime catches Kanoko’s wrist to seek a private talk | The contact interrupts departure without previously shown permission. i130–136. Helpful outcome does not erase the method. |
+| **WY13-AG21** | Kanoko grips Hime’s shoulders under feared disclosure | Hime’s actual knowledge is narrower; alarm does not confer entitlement to force. i137–139. |
+| **WY13-AG22** | Hime runs toward privacy and invites pursuit; Kanoko follows | Play is strategic; later participation is still an act of Kanoko’s. i140–145. Neither wholly coerced confinement nor entirely neutral invitation. |
+| **WY13-AG23** | Hime acknowledges her own need; Kanoko accepts further understanding with limits | Partial disclosure becomes possible without the romantic secret being demanded or supplied in full. i146–156. |
+| **WY13-AG24** | Kanoko chooses a further Sumika conversation | Intention is explicit, execution absent. i157–158. Seeking an answer does not authorize overriding Sumika’s withdrawal from dating. |
+
+### 9.1 The right to withdraw and the wish to direct are not the same claim
+
+A crucial restraint on the analysis is that Sumika is not required to keep dating because Kanoko finds the breakup painful. Her personal limits do not need to be justified by a successful theory of Kanoko’s future. The problem is that she gives the limit together with a prescription: disclose to Hime, trust the relationship will survive, and interpret departure through a liberating script. The first proposition concerns Sumika’s participation; the others concern Kanoko’s next act and Hime’s response. The latter remain contestable even if the former is final. [AG12–AG15.]
+
+Kanoko’s insistence at the ending has a corresponding limit. A request for a proper conversation can restore her role as an interpreter of her own experience. It cannot make Sumika owe a romantic relationship. The next volume may supply a conversation, refusal, renegotiation, or a different development; V13 establishes only the wish to ask rather than treating Sumika’s account as the last word on both people.
+
+### 9.2 A later useful conversation does not retrospectively authorize its every method
+
+Hime and Kanoko reach a constructive exchange through a sequence that contains initial respectful distance, renewed insistence, wrist contact, an alarmed shoulder grip, and a playful pursuit. The final offered hand and chosen speech should be preserved, but not used to erase those earlier acts. The appropriate analysis is sequential: request, response, pressure, clarification, and uptake occur at different moments. [AG19–AG23.]
+
+The same principle governs the earlier night, the park, and the breakup. Sumika can ask carefully about contact in one scene and continue after a spoken stop in another. This is evidence for a conditional regulatory model, not grounds for declaring every episode either equivalent to the hotel coercion or immune to criticism because it is less severe. Differences of force, stakes, available exit, and subsequent response are part of the evidence.

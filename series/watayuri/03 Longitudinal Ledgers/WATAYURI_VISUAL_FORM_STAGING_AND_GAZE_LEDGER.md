@@ -4,14 +4,14 @@ artifact_id: WATAYURI_VISUAL_FORM_STAGING_AND_GAZE_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.13"
+version: "0.14"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V12 mainline through V12 Shift 61/i140, also latest depicted present; packaged shorts separately bounded; V09 one-shot separate continuity; V10-B and V13–V14 inventory only"
+source_boundary: "Japanese V01–V13 mainline through V13 Shift 66/i158, also latest depicted present; packaged shorts separately bounded; V09 one-shot separate continuity; V10-B and V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_VISUAL_FORM_STAGING_AND_GAZE_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_VISUAL_FORM_STA
 
 **Update and revision rule.** Update for repeated visual constructions or a diagnostically consequential scene. Record the visible fact separately from inferred psychology and identify when a later composition revises an earlier inference. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V12 mainline through V12 Shift 61/i140, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1, 36.2, 41.5, 46.5, 51.5, 56.5 and 61.5 remain separately bounded; V04 EX is promotional. V09’s one-shot is a separate work, not Watayuri continuity. All V01–V11 bodies retain their historical states; dated V12 additions carry the current source-branch account under the preserved V10 claim-lineage erratum. Main acceptance and run completion remain separately governed. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V13 mainline through V13 Shift 66/i158, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1, 36.2, 41.5, 46.5, 51.5, 56.5, 61.5 and 66.5 remain separately bounded; V04 EX is promotional. V09’s one-shot is a separate work, not Watayuri continuity. All V01–V12 bodies retain their historical states; dated V13 additions carry the current source-branch account under the preserved V10 claim-lineage erratum. Main acceptance and run completion remain separately governed. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -514,3 +514,48 @@ In particular, i136–137 form a source-assigned facing pair containing the cont
 Yoko tries to expose what she calls the real feeling underneath Kanoko’s denial by controlling the situation and prescribing words. The final pages open another interior route: Kanoko begins telling a specific earlier event. Yet the second route still includes Sumika’s refusal of release. The formal contrast is therefore not an absolute division between violent disclosure and perfectly free speech. It is a developing alternative with a visible unresolved cost. [VIS06–VIS08/VIS18–VIS19.]
 
 The ending’s remembered Hime is deliberately insufficient as a complete retrospective account. One image and a report can change what the reader asks without answering it. That is the proper formal significance of the cliffhanger here: an increased need for historical explanation, not a license to supply the later explanation from familiarity with the series. [VIS19.]
+
+
+<a id="v13"></a>
+## V13 — Current additions and transitions — 2026-10-20
+
+**V13 evidence key:** source-map key `V13`, Japanese witness `1ZfyaG_u1-wVtFuuIFWQZGLEdmck-hY7W`, SHA-256 `602797c4450237e0eb6e391fac4099fa00ba7569f2de2a25ffb338e5085a14b1`. The [frozen V13 reading](../02%20Sequential%20Readings/WATAYURI_V13_DEEP_READING.md#visual-form) supplies full context and image conventions. Unprefixed iNNN and O/REL/PER/INF/AG/T/JP/VIS/C references below mean V13; original forecasts retain their creation-volume shorthand. Section numbers refer to that complete reading. Mainline/latest present ends at Shift 66/i158 before the planned reading event and further Sumika conversation. Shift 66.5/i160–162 falls after the park outing and before the breakup; edition matter and bonus do not continue the ending. V14 and V10-B remain excluded.
+
+**Receiving disposition:** the complete responsibility section below is accepted for this source-branch transaction; “proposed” labels and producer-stage statements retain their historical provenance. Main acceptance and run completion remain separately governed in the [entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md#operational-boundary) and [receiving review](../07%20Audits%20and%20Handoffs/WATAYURI_V13_INTEGRATION_REVIEW.md). All earlier bodies, original claim identities and receiving corrections remain preserved under the [expanded V10 claim-lineage erratum](WATAYURI_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md#v10-claim-lineage-erratum).
+
+## 12. Visual form, staging, gaze, and objects
+
+| ID | Observable formal construction | Bounded interpretation and alternative |
+| --- | --- | --- |
+| **WY13-VIS01** | Color opening uses a bright threshold/reaching arrangement before the full later rooftop movement. i002–003; i151–155. | The opening frames the later return as a problem of approach and possibility. It need not depict a separate additional rooftop event. |
+| **WY13-VIS02** | Classroom company and private rooftop speech redistribute the same friendship. i007–010. | Private reassurance contests a public pity account; neither setting alone determines sincerity. |
+| **WY13-VIS03** | Attention to Hime’s ordinary movements and proximity accompanies Kanoko’s growing attraction. i011–020. | Converges with the letter’s purpose; no isolated expression carries the whole romantic inference. |
+| **WY13-VIS04** | The letter moves from private composition to Hime’s locker and consultation. i017–024. | A material message can travel while its author remains concealed. Object delivery is not complete disclosure. |
+| **WY13-VIS05** | Waiting and concealed hesitation separate Hime’s expectation from Kanoko’s knowledge. i025–028. | The reader sees both positions; Hime cannot be assigned that visual access. |
+| **WY13-VIS06** | Letter tearing removes the message’s usable object while its memory survives. i029–031; i109. | Destruction is actual; forgetting is not. The later memory challenges a literal-erasure description. |
+| **WY13-VIS07** | Historical scenes return to the current bedroom listener. i032–034. | The frame identifies who receives the completed account now, without transmitting it to Hime. |
+| **WY13-VIS08** | Food selection, seating, children’s play, and the park’s open space interrupt crisis-focused staging. i042–060. | Ordinary pleasure and limited agency remain possible after distress; setting brightness does not certify complete recovery. |
+| **WY13-VIS09** | Kanoko’s hopeful day-summary is followed by Sumika alone with the photograph. i061–062. | The change of viewpoint limits a shared-progress inference without declaring the day fake. |
+| **WY13-VIS10** | The short shows the intact photo moved into a drawer. S66.5/i160. | Removal from display differs from the letter’s tearing. Concealment/storage can express a limit without proving destruction of attachment. |
+| **WY13-VIS11** | Backstage privacy is constructed before Mai’s inquiry; other workers remain elsewhere. i066–071. | Architecture and staging regulate who can hear. No universal staff briefing is inferred. |
+| **WY13-VIS12** | Sumika’s public older-sister reassurance precedes ordinary-clothes private separation. i073–092. | Role competence and private crisis can coexist; the first scene is not a post-breakup agreement. |
+| **WY13-VIS13** | Stop-request lettering and close reactions interrupt the walk’s composed rhythm. i083–087. | The request is materially represented, not a subtle reaction supplied only by interpretation. |
+| **WY13-VIS14** | Embrace, scripted release, angry withdrawal, and long street distance occur in sequence. i088–092. | Care-framed closeness and actual departure remain distinct. The final distance does not tell the reader how either will respond later. |
+| **WY13-VIS15** | Hime watches Kanoko’s withdrawal through school/work routines before obtaining any explanation. i093–104. | Observation motivates inquiry but does not give Hime exact knowledge. |
+| **WY13-VIS16** | Torn-letter recollection and earlier Mitsuki material enter Hime’s interior reasoning. i109–112. | Her memory is not a second occurrence or evidence she knew the letter’s author all along. |
+| **WY13-VIS17** | Wrist contact at the lockers and Kanoko’s shoulder grip occur at different informational moments. i131–139. | Different agents, pressures, and motives must be retained; later shared movement does not erase either act. |
+| **WY13-VIS18** | Pursuit moves through corridors to stairs, then an opened rooftop door and offered hand. i140–155. | Familiar architecture becomes a route to revised talk. Kanoko’s following and later choice are visible, not an automatic romantic answer. |
+| **WY13-VIS19** | The final page turns from what Kanoko assumed dating would do toward her demand for further speech. i156–158. | The endpoint is prospective intention. It does not contain the imagined future conversation. |
+| **WY13-VIS20** | Bonus juxtaposes guests’ ideal elder-sister reading with the reverse practical aid direction. E/i168. | Visible role hierarchy can misattribute who reassures whom; the contrast is bounded to the bonus practice scene. |
+
+### 12.1 Distinct fates of written and pictured objects
+
+The letter and photograph provide a controlled contrast. Kanoko destroys the letter to prevent an identified romantic encounter, then speaks a substitute account of its author. Sumika puts the photograph away to alter her own exposure to an attachment she still feels. One act removes an object and misleads another person; the other stores an object and is not shown being explained to Kanoko. Both can be connected with the wish to make a relationship bearable, but their material actions, audiences, and informational effects differ. [VIS04–VIS06/VIS09/VIS10.]
+
+That contrast also disciplines psychological interpretation. A torn letter does not prove that the feeling has ended, and a stored photograph does not prove hatred or permanent renunciation. The surrounding speech and behavior determine how far the inference can go. In this case both feelings persist. What changes is their permissible or bearable form of expression.
+
+### 12.2 Source spreads and page turns
+
+The source assignments establish that i090–091 are a facing pair: Sumika’s quoted release and Kanoko’s angry response belong to the same spread. The turn from i091 to i092 extends that immediate refusal into actual spatial separation. Similarly, i156–157 form a facing pair before the turn to i158 places the intention to speak with Sumika at the mainline close. These are source-defined relationships, not the accidental adjacency of a four-page inspection grid.
+
+The larger threshold pattern does not require a claim of exact duplicated drawing. The earlier rooftop naming, the later pursuit up familiar stairs, and the final offered hand repeatedly associate access to a place with access to a different account of the relation. The ending reuses familiarity while changing the verbal terms. This supports a formal reading of movement rather than restoration to an untouched past. It does not prove a single exclusive authorial intention or a guaranteed future romantic result. [VIS01/VIS02/VIS18/VIS19.]

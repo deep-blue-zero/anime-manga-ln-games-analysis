@@ -4,14 +4,14 @@ artifact_id: WATAYURI_CHRONOLOGY_MEMORY_AND_RETROSPECTION_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.13"
+version: "0.14"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V12 mainline through V12 Shift 61/i140, also latest depicted present; packaged shorts separately bounded; V09 one-shot separate continuity; V10-B and V13–V14 inventory only"
+source_boundary: "Japanese V01–V13 mainline through V13 Shift 66/i158, also latest depicted present; packaged shorts separately bounded; V09 one-shot separate continuity; V10-B and V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_CHRONOLOGY_MEMORY_AND_RETROSPECTION_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_CHRONOLOGY_MEMO
 
 **Update and revision rule.** Append retrospective records that link to earlier event IDs; revise the mature ordering if warranted while preserving original VNN presentation and uncertainty. Mark apparent contradiction OPEN when order or witness cannot be settled. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V12 mainline through V12 Shift 61/i140, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1, 36.2, 41.5, 46.5, 51.5, 56.5 and 61.5 remain separately bounded; V04 EX is promotional. V09’s one-shot is a separate work, not Watayuri continuity. All V01–V11 bodies retain their historical states; dated V12 additions carry the current source-branch account under the preserved V10 claim-lineage erratum. Main acceptance and run completion remain separately governed. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V13 mainline through V13 Shift 66/i158, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1, 36.2, 41.5, 46.5, 51.5, 56.5, 61.5 and 66.5 remain separately bounded; V04 EX is promotional. V09’s one-shot is a separate work, not Watayuri continuity. All V01–V12 bodies retain their historical states; dated V13 additions carry the current source-branch account under the preserved V10 claim-lineage erratum. Main acceptance and run completion remain separately governed. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -370,3 +370,38 @@ The old confession requires especially careful treatment. The source gives a pre
 The scene arrangement makes delay and urgency legible without providing exact duration. Nene and Sumika receive information while Yoko controls the room; Nene supplies a probable destination; Sumika runs ahead; the lobby encounter follows an unshown portion of the room sequence. These relations can be ordered without inventing how long Kanoko was restrained, the exact train schedule or the time available for a particular unshown act. [T04–T08.]
 
 The aftermath likewise does not provide an externally dated recovery timeline. Bathing, eating, preparing to sleep and returning to conversation organize the night. They are evidence of practical succession, not proof that distress should have ended by any specified hour. The frozen state is the conversation at i140, not a claim that the night or its consequences are complete. [T08–T11.]
+
+
+<a id="v13"></a>
+## V13 — Current additions and transitions — 2026-10-20
+
+**V13 evidence key:** source-map key `V13`, Japanese witness `1ZfyaG_u1-wVtFuuIFWQZGLEdmck-hY7W`, SHA-256 `602797c4450237e0eb6e391fac4099fa00ba7569f2de2a25ffb338e5085a14b1`. The [frozen V13 reading](../02%20Sequential%20Readings/WATAYURI_V13_DEEP_READING.md#chronology) supplies full context and image conventions. Unprefixed iNNN and O/REL/PER/INF/AG/T/JP/VIS/C references below mean V13; original forecasts retain their creation-volume shorthand. Section numbers refer to that complete reading. Mainline/latest present ends at Shift 66/i158 before the planned reading event and further Sumika conversation. Shift 66.5/i160–162 falls after the park outing and before the breakup; edition matter and bonus do not continue the ending. V14 and V10-B remain excluded.
+
+**Receiving disposition:** the complete responsibility section below is accepted for this source-branch transaction; “proposed” labels and producer-stage statements retain their historical provenance. Main acceptance and run completion remain separately governed in the [entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md#operational-boundary) and [receiving review](../07%20Audits%20and%20Handoffs/WATAYURI_V13_INTEGRATION_REVIEW.md). All earlier bodies, original claim identities and receiving corrections remain preserved under the [expanded V10 claim-lineage erratum](WATAYURI_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md#v10-claim-lineage-erratum).
+
+## 10. Chronology, memory, and retrospection additions
+
+| ID | Event time versus source presentation | Certainty and causal restraint |
+| --- | --- | --- |
+| **WY13-T01** | Kanoko’s account locates meeting Hime in middle-school second year; the developed friendship precedes the anonymous letter. S62/i001, i007–020. | High for stated stage/order. No exact calendar date or elapsed duration between all school scenes is supplied. |
+| **WY13-T02** | Letter delivery, Hime’s consultation, the planned meeting, and Kanoko’s withdrawal form one historical sequence. i017–031. | High. Hime’s present recollection is not another delivery or a second destruction. |
+| **WY13-T03** | The current frame continues the night’s Hime-related account begun at V12/i140 and returns to that room at i032–034. | High for continuity. Sumika learns the account now, not in the depicted middle-school past. |
+| **WY13-T04** | S63’s morning, bakery, park, and separate-home conclusion follow that conversation. i036–062. | High for local sequence. Comfort does not establish long-term recovery. |
+| **WY13-T05** | The photo-removal coda at i062 is expanded by S66.5/i160; the short then plans a breakup for tomorrow. | High. Store the short between park day and the breakup, not after the mainline endpoint. |
+| **WY13-T06** | Workplace consultation and the post-work breakup occur after the park day; Mai identifies the earlier crisis as Saturday. i064–092. | High for stated relative anchors. Exact date/year and an exhaustive intervening schedule are unnecessary and unestablished. |
+| **WY13-T07** | The public reassurance precedes the private breakup announcement. i073–080. | High. Do not describe the earlier public scene as an agreed post-breakup performance. |
+| **WY13-T08** | School/work concern in S65 leads to Hime’s private after-work conversation with Sumika. i093–120. | High. Kanoko is not present for the conversation and learns its scope later. |
+| **WY13-T09** | S66’s school day follows the Hime–Sumika conversation, referred to as yesterday; recalled breakup speech at i123 remains memory. i123–129. | High. Neither memory nor Kanoko’s imagined content creates a second actual exchange. |
+| **WY13-T10** | Lockers → pursuit → stairs → rooftop is the final continuous mainline movement. i130–158. | High. The reading event is still planned for the following day, and Sumika’s further talk is only intended. |
+| **WY13-T11** | The bonus has an actual-practice mini-scene and guest interpretation but no securely fixed insertion into the mainline calendar. E/i168. | OPEN for precise placement. It does not cross the i158 high-water mark. |
+| **WY13-T12** | Mainline reading/latest-present endpoint is S66/i158; afterword/manual/cover matter have their separate witness status. | High. Reading the package to its colophon is not the same as extending narrative present to every packaged image. |
+
+### 10.1 What has been explained retrospectively
+
+V13 supplies the mechanism missing from V12’s report: the confession was delivered anonymously and the identification was prevented by Kanoko’s own retreat. This changes the mature explanation of several earlier fears while leaving each prior prospective state correct within its limits. The early volumes did not have access to this full history. Their observations of friendship, jealousy, and secrecy do not become fraudulent simply because they lacked it; specific overgeneralizations about what Hime knew must now be avoided. [T01–T03; O04–O07.]
+
+Hime’s later recollection adds a second perspective on the old event. It shows that the promise-language remained available to her and that she uses it to interpret current silence. It does not supply the missing author identification. These are two different retrospective increments within V13 itself: Kanoko’s history first, Hime’s present remembered account later. A chronological synthesis can connect them without flattening their knowledge differences.
+
+### 10.2 The supplement explains a decision, not its eventual aftermath
+
+The photo’s storage and Sumika’s private limit occur before the breakup. They can qualify her motive when reading that later action retrospectively. They cannot establish what she does after Kanoko’s rooftop decision, whether she is waiting for a message, or whether she will agree to a new conversation. The source-order placement after the mainline does not make it later in story time. This is precisely why the short should be included in the character evidence but not treated as a second endpoint. [T05/T10/T11.]
