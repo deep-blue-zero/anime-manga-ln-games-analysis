@@ -57,6 +57,14 @@ jobs:
           test "$(git rev-parse HEAD)" = "${AUDIT_COMMIT}"
           test "$(git rev-parse --is-shallow-repository)" = "false"
           git fetch --no-tags origin refs/heads/main:refs/remotes/origin/main
+          # Branch identity comes from the live ref, never a dispatch payload. A
+          # missing curation branch (exit 2) is allowed; any other failure stops.
+          if git ls-remote --exit-code --heads origin character-registry > /dev/null; then
+            git fetch --no-tags origin refs/heads/character-registry:refs/remotes/origin/character-registry
+          else
+            status=$?
+            test "${status}" -eq 2
+          fi
           if [[ -z "${AUDIT_BASE}" ]]; then
             echo "AUDIT_BASE=$(git rev-parse refs/remotes/origin/main)" >> "${GITHUB_ENV}"
           fi

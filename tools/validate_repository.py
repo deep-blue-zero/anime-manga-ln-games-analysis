@@ -27,6 +27,7 @@ from character_index_core import (
     decode_jsonl_with_lines,
     decode_reconstruction_registry,
     evaluate_reconstruction_assessments,
+    is_ancestor_commit,
     load_reconstruction_policy,
     reconstruction_registry_changes,
     render_schema_diagnostics,
@@ -95,6 +96,7 @@ PROTECTED_HASHES = {
 # these requires a reviewed amendment that also changes the publication gate.
 RECONSTRUCTION_OUTPUTS = frozenset({RECONSTRUCTION_REGISTRY_PATH, RECONSTRUCTION_INDEX_PATH})
 # The curation agent's ordinary delta on its continuing branch.
+DISCOVERY_BRANCH_REF = "refs/remotes/origin/character-registry"
 DISCOVERY_OUTPUTS = frozenset({"characters/registry.jsonl", "CHARACTER_ANALYSIS_INDEX.md"})
 NATIVE_SHEET_SCHEMA = "governance/schemas/native-sheet-structure.schema.json"
 NATIVE_SHEET_SCHEMA_ID = "manga-anime-git-migration/native-sheet-structure/v1"
@@ -300,6 +302,9 @@ def validate_audit_workflow(
         'MANGA_ANIME_TEST_TMP: "${{ runner.temp }}/manga-anime-tests"',
         'AUDIT_COMMIT: ${{ github.event_name == \'repository_dispatch\' && github.event.client_payload.commit_sha || github.sha }}',
         'git fetch --no-tags origin "${AUDIT_COMMIT}"',
+        "if git ls-remote --exit-code --heads origin character-registry > /dev/null; then",
+        "git fetch --no-tags origin refs/heads/character-registry:refs/remotes/origin/character-registry",
+        'test "${status}" -eq 2',
         'test "$(git rev-parse --is-shallow-repository)" = "false"',
         "--require-hashes",
         "tools/validate_repository.py",
@@ -4356,6 +4361,41 @@ def validate_discovery_branch_confinement(root: Path, kind: str, commit: str | N
     return []
 
 
+def discovery_branch_candidate(root: Path, kind: str, commit: str | None) -> bool:
+    """Whether the audited commit is unmerged `character-registry` history.
+
+    Identity comes from the fetched live branch ref, so every audit of such a
+    commit is confined whichever event started it, including an exact-commit
+    repository dispatch whose run context names `main`.
+    """
+
+    target = _reconstruction_target_commit(root, kind, commit)
+    if target is None:
+        return False
+    try:
+        tip = run_git(root, "rev-parse", "--verify", "-q", DISCOVERY_BRANCH_REF + "^{commit}").decode(
+            "ascii"
+        ).strip()
+    except DomainError:
+        return False
+    if not is_ancestor_commit(root, target, tip):
+        return False
+    main_commit = _run_closure_base_commit(root)
+    return not (main_commit is not None and is_ancestor_commit(root, target, main_commit))
+
+
+def discovery_confinement_errors(
+    root: Path, kind: str, commit: str | None, *, requested: bool
+) -> list[str]:
+    """Apply confinement when requested explicitly or the commit is curation history."""
+
+    try:
+        applies = requested or discovery_branch_candidate(root, kind, commit)
+    except DomainError as exc:
+        return [f"unable to determine whether the audited commit is curation history: {exc}"]
+    return validate_discovery_branch_confinement(root, kind, commit) if applies else []
+
+
 def choose_snapshot(root: Path, kind: str, commit: str | None) -> tuple[GitSnapshot, list[str]]:
     if kind == "commit":
         if commit is None:
@@ -4481,10 +4521,15 @@ def main() -> int:
                 "reconstruction", validate_reconstruction_domain, root, snapshot, kind, commit, authority
             )
             errors.extend(reconstruction_errors)
-            if args.discovery_branch_confinement:
+            if args.phase == "current" and kind in {"index", "commit"}:
                 errors.extend(
                     timer.call(
-                        "discovery_confinement", validate_discovery_branch_confinement, root, kind, commit
+                        "discovery_confinement",
+                        discovery_confinement_errors,
+                        root,
+                        kind,
+                        commit,
+                        requested=args.discovery_branch_confinement,
                     )
                 )
             if not deferred_routing:

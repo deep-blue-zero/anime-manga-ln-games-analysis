@@ -55,6 +55,8 @@ from reconstruction_status import (  # noqa: E402
 from validate_repository import (  # noqa: E402
     DISCOVERY_OUTPUTS,
     RECONSTRUCTION_OUTPUTS,
+    discovery_branch_candidate,
+    discovery_confinement_errors,
     validate_audit_workflow,
     validate_discovery_branch_confinement,
     validate_reconstruction_domain,
@@ -1668,6 +1670,63 @@ class DiscoveryBranchConfinementTests(GitRepositoryFixture):
         self._git("add", "--", "tools/helper.py")
         failures = validate_discovery_branch_confinement(self.repository, "index", None)
         self.assertTrue(any("tools/helper.py" in item for item in failures), failures)
+
+    def _curation_commit_with_extra_path(self, body: bytes = b"# Repaired\n") -> str:
+        self._edit_discovery()
+        (self.repository / Path(EVIDENCE_PATH)).write_bytes(authority_artifact(body))
+        return self._commit(
+            "curate and edit analysis", "characters/registry.jsonl", "CHARACTER_ANALYSIS_INDEX.md", EVIDENCE_PATH
+        )
+
+    def _publish_curation_ref(self, commit: str) -> None:
+        self._git("update-ref", "refs/remotes/origin/character-registry", commit)
+
+    def test_dispatch_style_audit_confines_unmerged_curation_history(self) -> None:
+        head = self._curation_commit_with_extra_path()
+        self._publish_curation_ref(head)
+        self.assertTrue(discovery_branch_candidate(self.repository, "commit", head))
+        failures = discovery_confinement_errors(self.repository, "commit", head, requested=False)
+        self.assertTrue(any("other changed paths" in item for item in failures), failures)
+
+    def test_older_unmerged_curation_commit_is_still_confined(self) -> None:
+        older = self._curation_commit_with_extra_path()
+        (self.repository / "CHARACTER_ANALYSIS_INDEX.md").write_bytes(b"# Index\n\nLater.\n")
+        self._publish_curation_ref(self._commit("later curation", "CHARACTER_ANALYSIS_INDEX.md"))
+        failures = discovery_confinement_errors(self.repository, "commit", older, requested=False)
+        self.assertTrue(any("other changed paths" in item for item in failures), failures)
+
+    def test_curation_history_already_on_main_is_not_confined(self) -> None:
+        head = self._curation_commit_with_extra_path()
+        self._publish_curation_ref(head)
+        self._git("update-ref", "refs/remotes/origin/main", head)
+        self.assertFalse(discovery_branch_candidate(self.repository, "commit", head))
+        self.assertEqual(discovery_confinement_errors(self.repository, "commit", head, requested=False), [])
+
+    def test_other_branches_and_a_missing_curation_ref_are_not_confined(self) -> None:
+        head = self._curation_commit_with_extra_path()
+        self.assertFalse(discovery_branch_candidate(self.repository, "commit", head))
+        self.assertEqual(discovery_confinement_errors(self.repository, "commit", head, requested=False), [])
+        self._git("switch", "--quiet", "-c", "series/example", "refs/remotes/origin/main")
+        (self.repository / Path(EVIDENCE_PATH)).write_bytes(authority_artifact(b"# Series work\n"))
+        series_head = self._commit("series analysis", EVIDENCE_PATH)
+        self._publish_curation_ref(head)
+        self.assertFalse(discovery_branch_candidate(self.repository, "commit", series_head))
+        self.assertTrue(discovery_confinement_errors(self.repository, "commit", series_head, requested=True))
+
+    def test_audit_fetches_live_curation_ref_and_fails_closed(self) -> None:
+        path = ".github/workflows/repository-audit.yml"
+        source = (REPOSITORY / path).read_bytes()
+        for fragment in (
+            b"if git ls-remote --exit-code --heads origin character-registry > /dev/null; then",
+            b"git fetch --no-tags origin refs/heads/character-registry:refs/remotes/origin/character-registry",
+            b'test "${status}" -eq 2',
+        ):
+            with self.subTest(fragment=fragment):
+                self.assertIn(fragment, source)
+                changed = source.replace(fragment, b"", 1)
+                snapshot = GitSnapshot(REPOSITORY, "IN_MEMORY", {path: SnapshotEntry(path, "100644", changed)})
+                failures = validate_audit_workflow(snapshot, {"allowed_workflows": [path]})
+                self.assertIn("repository-audit workflow missing required contract: " + fragment.decode(), failures)
 
     def test_audit_applies_confinement_only_to_the_curation_branch(self) -> None:
         path = ".github/workflows/repository-audit.yml"
