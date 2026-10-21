@@ -28,6 +28,7 @@ from validate_repository import (
 SOURCE_SHA = "a" * 40
 ENTRYPOINT = "series/example/CURRENT.md"
 DESCRIPTOR = "series/example/.repository/series-registry.json"
+OUTPUT_ISOLATION_ERROR = "reconstruction production outputs must change alone"
 
 
 def entry(path: str, data: bytes) -> SnapshotEntry:
@@ -127,6 +128,41 @@ def reconstruction_base(root: Path) -> str:
     return base
 
 
+def unpublished_reconstruction_fixture() -> tuple[GitSnapshot, GitSnapshot]:
+    """Return a source carrying unpublished reconstruction outputs, and its published state."""
+
+    published = fixture(new_root=False)
+    for path in RECONSTRUCTION_OUTPUTS | {RECONSTRUCTION_POLICY_PATH}:
+        published.entries[path] = entry(path, b"published\n")
+    source = fixture()
+    source.entries[RECONSTRUCTION_POLICY_PATH] = published.entries[RECONSTRUCTION_POLICY_PATH]
+    for path in RECONSTRUCTION_OUTPUTS:
+        source.entries[path] = entry(path, b"unpublished evaluator output\n")
+    return source, published
+
+
+def published_reconstruction(root: Path) -> GitSnapshot:
+    """Read the reconstruction policy and outputs at the validator's integration base."""
+
+    return GitSnapshot.from_commit(
+        root, reconstruction_base(root), paths=RECONSTRUCTION_OUTPUTS | {RECONSTRUCTION_POLICY_PATH},
+    )
+
+
+def evaluator_candidate(source: GitSnapshot, published: GitSnapshot) -> GitSnapshot:
+    """Model the evaluator's branch on `source`: unpublished outputs under the published policy.
+
+    The evaluator never amends the policy, so the model keeps the integration
+    base's policy bytes whatever policy change the checkout under test carries.
+    """
+
+    entries = dict(source.entries)
+    entries[RECONSTRUCTION_POLICY_PATH] = published.entries[RECONSTRUCTION_POLICY_PATH]
+    for path in RECONSTRUCTION_OUTPUTS:
+        entries[path] = entry(path, b"Unpublished evaluator output.\n")
+    return GitSnapshot(source.root, source.identity, entries)
+
+
 class AnalyticalPreflightTests(unittest.TestCase):
     def test_new_root_defers_only_routing_and_preserves_all_authored_bytes(self) -> None:
         source = fixture()
@@ -197,14 +233,8 @@ class AnalyticalPreflightTests(unittest.TestCase):
             self.assertEqual(projected.entries[path], before[path], path)
         self.assertEqual(fixture_baseline(projected)[1], [])
 
-    def test_fixture_baseline_restores_published_reconstruction_outputs_unless_policy_is_amended(self) -> None:
-        published = fixture(new_root=False)
-        for path in RECONSTRUCTION_OUTPUTS | {RECONSTRUCTION_POLICY_PATH}:
-            published.entries[path] = entry(path, b"published\n")
-        source = fixture()
-        source.entries[RECONSTRUCTION_POLICY_PATH] = published.entries[RECONSTRUCTION_POLICY_PATH]
-        for path in RECONSTRUCTION_OUTPUTS:
-            source.entries[path] = entry(path, b"unpublished evaluator output\n")
+    def test_fixture_baseline_restores_published_reconstruction_outputs(self) -> None:
+        source, published = unpublished_reconstruction_fixture()
         before = dict(source.entries)
         projected, changed = fixture_baseline(source, published)
         self.assertLessEqual(RECONSTRUCTION_OUTPUTS, set(changed))
@@ -215,15 +245,20 @@ class AnalyticalPreflightTests(unittest.TestCase):
         for path in before.keys() - ROUTING_OUTPUTS - RECONSTRUCTION_OUTPUTS:
             self.assertEqual(projected.entries[path], before[path], path)
         self.assertEqual(fixture_baseline(projected, published)[1], [])
+
+    def test_fixture_baseline_keeps_outputs_when_the_candidate_amends_policy(self) -> None:
         # A reviewed policy amendment may change the outputs beside other paths.
+        source, published = unpublished_reconstruction_fixture()
         source.entries[RECONSTRUCTION_POLICY_PATH] = entry(RECONSTRUCTION_POLICY_PATH, b"amended\n")
+        before = dict(source.entries)
         amended, changed = fixture_baseline(source, published)
         self.assertFalse(set(changed) & RECONSTRUCTION_OUTPUTS)
-        for path in RECONSTRUCTION_OUTPUTS:
-            self.assertEqual(amended.entries[path], source.entries[path], path)
+        self.assertEqual(source.entries, before)
+        for path in RECONSTRUCTION_OUTPUTS | {RECONSTRUCTION_POLICY_PATH}:
+            self.assertEqual(amended.entries[path], before[path], path)
 
-    def materialize_cli_fixture(self, root: Path, environment: dict[str, str], candidate: GitSnapshot) -> None:
-        """Clone the checkout under test, stage `candidate`, then add the synthetic root."""
+    def clone_checkout(self, root: Path, environment: dict[str, str]) -> None:
+        """Clone the checkout under test and pin the clone's main to the source's."""
 
         clone = subprocess.run(
             ["git", "clone", "--config", "core.longpaths=true", "--shared", str(TOOLS.parent), str(root)],
@@ -244,6 +279,10 @@ class AnalyticalPreflightTests(unittest.TestCase):
             ["git", "-C", str(root), "update-ref", "refs/remotes/origin/main", source_main],
             env=environment, capture_output=True, check=True,
         )
+
+    def stage_cli_fixture(self, root: Path, environment: dict[str, str], candidate: GitSnapshot) -> None:
+        """Make the clone's index exactly `candidate`, normalize its baseline, then add the synthetic root."""
+
         cloned = GitSnapshot.from_index(root)
         candidate_paths = sorted(
             path for path in candidate.entries.keys() | cloned.entries.keys()
@@ -264,10 +303,7 @@ class AnalyticalPreflightTests(unittest.TestCase):
                 env=environment, capture_output=True, check=True,
             )
         self.assertEqual(GitSnapshot.from_index(root).entries, candidate.entries)
-        published = GitSnapshot.from_commit(
-            root, reconstruction_base(root), paths=RECONSTRUCTION_OUTPUTS | {RECONSTRUCTION_POLICY_PATH},
-        )
-        baseline, changed = fixture_baseline(GitSnapshot.from_index(root), published)
+        baseline, changed = fixture_baseline(GitSnapshot.from_index(root), published_reconstruction(root))
         for path in changed:
             entry = baseline.get(path)
             if entry is None:
@@ -289,6 +325,15 @@ class AnalyticalPreflightTests(unittest.TestCase):
             env=environment, capture_output=True, check=True,
         )
 
+    def assert_evaluator_outputs_isolated(self, root: Path) -> None:
+        changed = _reconstruction_delta_paths(root, "index", reconstruction_base(root), None)
+        self.assertLessEqual({ENTRYPOINT, DESCRIPTOR}, changed)
+        self.assertEqual(changed & RECONSTRUCTION_OUTPUTS, set())
+        # Only the isolation rule is this fixture's concern: the modelled
+        # published policy need not satisfy an amended gate under test.
+        errors, _notices = validate_reconstruction_domain(root, GitSnapshot.from_index(root), "index", None)
+        self.assertEqual([error for error in errors if OUTPUT_ISOLATION_ERROR in error], [])
+
     def test_cli_fixture_does_not_mix_unpublished_reconstruction_outputs(self) -> None:
         base_value = os.environ.get("MANGA_ANIME_TEST_TMP")
         if not base_value or not Path(base_value).is_dir():
@@ -296,17 +341,39 @@ class AnalyticalPreflightTests(unittest.TestCase):
         with tempfile.TemporaryDirectory(dir=base_value) as directory:
             root = Path(directory) / "repository"
             environment = dict(os.environ, PYTHONDONTWRITEBYTECODE="1")
-            # Model the evaluator's branch: a candidate carrying unpublished
-            # outputs, which the validator requires to change alone.
-            candidate = GitSnapshot.from_index(TOOLS.parent)
-            for path in RECONSTRUCTION_OUTPUTS:
-                candidate.entries[path] = entry(path, b"Unpublished evaluator output.\n")
-            self.materialize_cli_fixture(root, environment, candidate)
+            self.clone_checkout(root, environment)
+            candidate = evaluator_candidate(GitSnapshot.from_index(TOOLS.parent), published_reconstruction(root))
+            self.stage_cli_fixture(root, environment, candidate)
+            self.assert_evaluator_outputs_isolated(root)
+
+    def test_cli_fixture_from_a_policy_amending_checkout(self) -> None:
+        base_value = os.environ.get("MANGA_ANIME_TEST_TMP")
+        if not base_value or not Path(base_value).is_dir():
+            self.skipTest("MANGA_ANIME_TEST_TMP is not available")
+        with tempfile.TemporaryDirectory(dir=base_value) as directory:
+            root = Path(directory) / "repository"
+            environment = dict(os.environ, PYTHONDONTWRITEBYTECODE="1")
+            self.clone_checkout(root, environment)
+            # Model a checkout that amends the policy: the live policy with one
+            # more trailing newline, its valid outputs unchanged.
+            amended = GitSnapshot.from_index(TOOLS.parent)
+            policy = amended.entries[RECONSTRUCTION_POLICY_PATH]
+            amended.entries[RECONSTRUCTION_POLICY_PATH] = SnapshotEntry(
+                policy.path, policy.mode, policy.data + b"\n",
+            )
+            # The amendment keeps its outputs, and the validator exempts the delta.
+            self.stage_cli_fixture(root, environment, amended)
             changed = _reconstruction_delta_paths(root, "index", reconstruction_base(root), None)
-            self.assertLessEqual({ENTRYPOINT, DESCRIPTOR}, changed)
-            self.assertEqual(changed & RECONSTRUCTION_OUTPUTS, set())
-            errors, _notices = validate_reconstruction_domain(root, GitSnapshot.from_index(root), "index", None)
+            self.assertLessEqual({RECONSTRUCTION_POLICY_PATH, ENTRYPOINT, DESCRIPTOR}, changed)
+            staged = GitSnapshot.from_index(root)
+            for path in RECONSTRUCTION_OUTPUTS:
+                self.assertEqual(staged.get(path), amended.get(path), path)
+            errors, _notices = validate_reconstruction_domain(root, staged, "index", None)
             self.assertEqual(errors, [])
+            # Restaged in the same clone, the evaluator model built from this
+            # checkout still isolates its outputs.
+            self.stage_cli_fixture(root, environment, evaluator_candidate(amended, published_reconstruction(root)))
+            self.assert_evaluator_outputs_isolated(root)
 
     def test_cli_pending_then_materialized_integration(self) -> None:
         base_value = os.environ.get("MANGA_ANIME_TEST_TMP")
@@ -317,7 +384,8 @@ class AnalyticalPreflightTests(unittest.TestCase):
             environment = dict(os.environ, PYTHONDONTWRITEBYTECODE="1")
             # A local full gate runs before commit: overlay its exact staged
             # candidate so nested CLIs do not accidentally test the old HEAD.
-            self.materialize_cli_fixture(root, environment, GitSnapshot.from_index(TOOLS.parent))
+            self.clone_checkout(root, environment)
+            self.stage_cli_fixture(root, environment, GitSnapshot.from_index(TOOLS.parent))
             command = [
                 sys.executable, str(root / "tools/validate_repository.py"),
                 "--phase", "current", "--snapshot", "index", "--repo", str(root),
