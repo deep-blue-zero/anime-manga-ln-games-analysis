@@ -1,7 +1,7 @@
 {
   "schema": "konosuba.cohort22.receiving-and-provenance.v1",
   "recorded_utc": "2026-10-20T23:27:45.174708+00:00",
-  "status": "SEMANTIC_RECEIVING_COMPLETE_EXACT_CONTAINING_PUBLICATION_PENDING",
+  "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
   "scope": "One twelve-dimension monograph/four-rule provisional model, two separate compact existing-ledger role profiles,47retrieval rows, bounded native provenance and four same-root original firsts/two pairs/adverse assessment.",
   "prior_published_authority": {
     "source": "6cdc432fc24893957af1717db86982aa9da8b848",
@@ -355,5 +355,20 @@
   "historical_integrity_requirement": "66immutable/72historical, four scores, Dust14blanks/SI-SY28nulls, prior30models/firsts/reports/indices/monographs and80scratch preserved. No six StageDsuccessors authored.",
   "publication_gate_required": "Complete exact candidate/diff/link/preservation review, exact-index author preflight, normal push/exact remote tree/changed streams, source-HK-final terminal reports/reporter/status and fresh reload/PR254 refresh.",
   "designated_ownership": "No protected merge, executor activation, new source admission or designated global curator/evaluator output authorship.",
-  "full_program_complete": false
+  "full_program_complete": false,
+  "publication_pending_at_authorship_history": "SEMANTIC_RECEIVING_COMPLETE_EXACT_CONTAINING_PUBLICATION_PENDING",
+  "publication_gate_close": {
+    "source": "9b191f37ae735b24786a52a52f46d10e82609771",
+    "tree": "486141c171ff750e54d8e5a155bd4d9a6a485617",
+    "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MITSURUGI_COMPANIONS_COHORT22_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "6ce3347d769e2ef95b67d31a0f08e25b78a3a4b6edeaad51aa3a7294eb7006c2",
+    "source_run": 39516379860,
+    "housekeeping_run": 39517020268,
+    "final_run": 39517069341,
+    "full_tests_each": 385,
+    "published_project_paths": 1216,
+    "current_models": 31,
+    "no_independent_accuracy_or_confidence_gain": true
+  },
+  "published_authority_reload_sha256": "2886b34b8514290b0f121a97fd5c176a7c8afedc38ba770e7e54301549d458ad"
 }

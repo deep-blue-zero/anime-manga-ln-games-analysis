@@ -1121,3 +1121,14 @@ Eight informed same-root first bodies retain strong cueing/generic rivals, share
 | Mitsurugi thief companion, shared nameset role-unmapped | Existing-ledger compact Tier1 profile; T01-T04 | Own favored-person/death-together statement, editorial praise and later pair relief/care. No permanent consent or dedicated model. |
 
 The candidate adds one model to the preserved thirty, yielding thirty-one bodies/twenty-five scoped secondary model subjects, twenty-one bounded profiles and seven monograph-only subjects. These are artifact counts, not a completed census denominator. Global discovery/evaluation outputs retain designated ownership and may lag within policy. Seven expanded specialist and six distinct StageD successor obligations remain active.
+
+
+## Cohort23: earned parent/teacher artifacts and open rivals
+
+| Subject | Current scoped artifact | Mechanisms and limits |
+|---|---|---|
+| Yuiyui / ゆいゆい | Twelve-dimension monograph, three-rule provisional Tier3 model, six informed firsts/three pairs; YY01-YY14 | Preferred household future, visible resources and means adaptation; explicit objections, failed magic/exhaustion, concern/work and generic rivals retained. |
+| Hyoizaburoo / ひょいざぶろー | Twelve-dimension Tier2 monograph only; HY01-HY10 | Gratitude/intimidation, gifts/resources, pride/boundary and mediated craft tension; no distinct generator or matched-parent quota. |
+| Pucchin / ぷっちん | Twelve-dimension monograph, three-rule provisional Tier3 model, six informed firsts/three pairs; PC01-PC15 | Theatrical evaluation, effective but admitted delayed intervention and practical support with mockery; academic merit, real knowledge/correction and generic rivals retained. |
+
+The [individual index](KONOSUBA_CRIMSON_PARENTS_TEACHER_EVIDENCE_INDEX.md) locates each actor and access plane. Two new models yield33bodies/27scoped secondary model subjects;21bounded profiles remain and eight monograph-only subjects include Hyoizaburoo. The207nonfinal records include14new candidate/role/roster/mediated slots, not14proved people. Twelve English firsts retain adverse findings, shared endpoints and unprobed mechanisms without accuracy, Japanese adequacy, grade or confidence gain. Global curator/evaluator outputs retain designated ownership. Seven expanded specialists, extended/full-series synthesis, six distinct StageD successors and integration/release/final entry remain active.

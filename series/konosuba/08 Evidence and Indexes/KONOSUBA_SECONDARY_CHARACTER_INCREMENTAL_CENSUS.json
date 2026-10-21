@@ -1,8 +1,8 @@
 {
   "schema": "KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS_V1",
-  "status": "INCREMENTAL_193_QUALIFIED_RECORDS_NOT_FINAL_INDIVIDUAL_DENOMINATOR",
-  "updated_utc": "2026-10-20T23:27:45.174708+00:00",
-  "scope": "Prior source programs/cohorts/focused clarification retain closed declared gates. Cohort22 semantically received; exact containing publication pending. Candidate31 models/25scoped secondary subjects,21bounded profiles,seven monograph-only subjects and193nonfinal records. Full census/tiers/program open.",
+  "status": "INCREMENTAL_207_QUALIFIED_RECORDS_NOT_FINAL_INDIVIDUAL_DENOMINATOR",
+  "updated_utc": "2026-10-21T01:25:18.918639+00:00",
+  "scope": "Prior declared source programs/cohorts/focused clarifications retain closed gates. Cohort23 semantically received; exact containing publication pending. Candidate33models/27scoped secondary subjects,21profiles,eight monograph-only subjects and207nonfinal records. Full census/tiers/program open.",
   "row_semantics": "Distinct qualified working subjects plus explicitly unresolved grouped/identity leads. A row is not automatically one final individual or an earned artifact. Old scope phrases remain their recorded history; the root current scope governs present admission status.",
   "artifact_architecture": "Use existing05 Specialist Synthesis for earned monographs and06 Character Modeling and Reconstruction for distinct mechanism models. Existing ledgers carry bounded profiles unless a separate responsibility is justified. Single current corpus map; curator-only global registry/index enrollment.",
   "rows": [
@@ -410,12 +410,12 @@
     {
       "character": "Mitsurugi",
       "identity": "Mitsurugi Kyouya / 御剣響夜 / ミツルギ; full name alreadyMAIN01C3P592, later repeated. Exact age unknown; wrong Kazuma addresses are not extra people.",
-      "likely_tier": "3 conditional candidate",
+      "likely_tier": "3 scoped candidate; full gate closed; reliability provisional",
       "priority": "Scoped monograph/model and informed diagnostics; no independent readiness certification.",
       "evidence_distribution": "Main01/04/06/11/16/17 report leads and prior bounded observations. Complete FD221L report received; direct native applies only to current735P joins, with separate game-novelization source plane. MAIN14 complete C3 base text, especially49-69. CURRENT WORKING23: MAIN16: complete 18 newly admitted resources/121 P with ruby and residuals and 28 images, sealed before coding; current 1,395 unique accepted-principal BASE-TEXT P across ten members, six complete at base-text scope. No new principal pass, retained-ruby or independent-validation credit. I4 P1–41 and Aqua-focalized Final P61–236. CURRENT WORKING24: Complete accepted MAIN01–04 reports and original V01–V03 checkpoint actually reviewed at derivative scope (receipts32–36); bounded MAIN02 Keele116 P / MAIN04 epilogue94 P native receipt separately recorded. MAIN17 complete new15resources71 P/25images and1,517 retained BASE-TEXT P acrossfiveunits are actual at their stated scopes, not new whole-principal/ruby/independent passes. CURRENT WORKING29: Complete MAIN17 report distinguishes effective fighting, injuries, repeated healing requests and unshown final treatment. Current MAIN17C3 supplies Eris's predicted dungeon-suitability judgment, not an independent comparative combat test. CURRENT WORKING31: Current complete MAIN13-MAIN16 accepted report review, receipts49-52; derivative claims retain original access planes. Targeted native confirmations are separately pinned, with no new whole-source/independent-test credit. CURRENT COHORT22: MAIN01-06/09/11/14/16/17, Dust01/02/03/07, FD, Yorimichi03 redo and reference contexts are individually indexed; absent mentions are not performed choices. Direct interventions/gifts/payment/attacks/pressure/release differ from dream/prophecy, companion travel, orc aftermath, retelling, guild rumor and editorial capacity. Shared actual bounded scope5,026knownBASE/35members/19objects+5reference views, no new whole-source or independent validation credit.",
       "substantive_responsibility": "Real bravery and injury/duty coexist with status/rivalry; Aqua rejects a wager, not proof all his aid is void. CURRENT WORKING21: Actual presence/name and own quest warning; reported divine dream/allocation retains his knowledge plane. CURRENT WORKING23: Actual danger response and defeat of a manticore are distinct from Zesta's frightening another. Divine/prophetic accounts remain his reported knowledge. He urges Aqua onward after she wants to return; Yunyun intervenes. His stated heroic attachment is not fully remembered or reciprocated by Aqua. Two unnamed companions have their own observations and limited task roles. CURRENT WORKING24: Native MAIN17 C2P336 gives full name 御剣響夜. Received choices include initial disappointment, concern for lost Aqua, explicit objection to public degradation, real strong attacks, pressure to finish the campaign, private admission of affection, later willingness to return at Aqua's request and need for treatment. Two companions have separate commitments. CURRENT WORKING31: MAIN16 supplies serious retrieval proposal and actual effective alternate combat, discomfort with waiting request, rivalry plus acknowledged world danger. Yunyun rejects permanent membership/first-name familiarity and physically protects Aqua; two companions retain their own roles. CURRENT COHORT22: Protection/world task, Aqua attachment, desired recognition/rivalry, current equipment and perceived urgency can compete; not one exclusive motive. Aqua nonreciprocity/local refusals, Kazuma rejected friendship/rivalry, comrades with separate commitments, Yunyun declined membership and others independent agency. Real aid and strong fighting coexist with coercive pressure; accepts loss, specific corrections and one return decision rather than universal reform or incompetence.",
       "gaps": "Private focalization, precise priority thresholds, unfamiliar relationships/voice, daily tastes and final recovery remain open. Generic rivals and four first-body defects retained.",
-      "disposition_status": "SEMANTIC_RECEIVING_COMPLETE_CONTAINING_PUBLICATION_PENDING",
+      "disposition_status": "SCOPED_ARTIFACTS_FULL_GATE_CLOSED_RELIABILITY_PROVISIONAL",
       "independent_observation_count": null,
       "prior_gap_history_working20": "Full dispersed-scene audit and voice/relationship diversity before artifact size decision.",
       "current_scope_asof_working21": "MAIN01-13 full gates closed;MAIN14 published4e66641f andall9078remote paths/43changedstreams verified;actualsourceaudit running;MAIN15-17 excluded unadmitted.",
@@ -460,7 +460,26 @@
         "No untouched source test. Four informed original English serializations/two pairs by same root; R02/R04 have no dedicated contrast and no independent score/gain.",
         "Kazuma, Aqua focalization, hostile/self-excusing Dust, game novelization, redo branch and editorial/TRPG reference are explicitly distinct."
       ],
-      "cohort22_semantic_receiving_sha256": "ba66135f2044d0f9649d2280ba4fcb6f505dcd6db9b16f433e934211aa978936"
+      "cohort22_semantic_receiving_sha256": "ba66135f2044d0f9649d2280ba4fcb6f505dcd6db9b16f433e934211aa978936",
+      "cohort22_publication_pending_at_authorship_history": {
+        "likely_tier": "3 conditional candidate",
+        "priority": "Scoped monograph/model and informed diagnostics; no independent readiness certification.",
+        "disposition_status": "SEMANTIC_RECEIVING_COMPLETE_CONTAINING_PUBLICATION_PENDING"
+      },
+      "cohort22_publication_status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+      "cohort22_publication_gate_close": {
+        "source": "9b191f37ae735b24786a52a52f46d10e82609771",
+        "tree": "486141c171ff750e54d8e5a155bd4d9a6a485617",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MITSURUGI_COMPANIONS_COHORT22_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "6ce3347d769e2ef95b67d31a0f08e25b78a3a4b6edeaad51aa3a7294eb7006c2",
+        "source_run": 39516379860,
+        "housekeeping_run": 39517020268,
+        "final_run": 39517069341,
+        "full_tests_each": 385,
+        "published_project_paths": 1216,
+        "current_models": 31,
+        "no_independent_accuracy_or_confidence_gain": true
+      }
     },
     {
       "character": "Luna",
@@ -1382,13 +1401,13 @@
     },
     {
       "character": "Yuiyui",
-      "identity": "Distinct audit subject split from Yuiyui / Hyoizaburoo; exact native identity and actor-specific attribution controlled by cited sources.",
-      "likely_tier": "Unassigned; individual evidence review due",
-      "priority": "Discovery",
-      "evidence_distribution": "Completed Explosions and main05 source leads. MAIN11Ep77-117actualnative;splitindividualreviewstillrequired. MAIN14 complete retained base text: C1 remittance/debt account and C2 imposed Sleep sequences. CURRENT WORKING25: MAIN05 complete derivative shows her independent intervention in household proximity and status/resources. Her arrangement cannot grant Megumin's assent. Keep analysis non-graphic and child discussion nonsexual; no imported private mother motive or performed future marriage. CURRENT WORKING29: Complete MAIN11 report retains maternal questioning, wealth appraisal, pressure and the child's accurate overheard quotation versus mediated battle report. CURRENT WORKING31: Current complete MAIN13-MAIN16 accepted report review, receipts49-52; derivative claims retain original access planes. Targeted native confirmations are separately pinned, with no new whole-source/independent-test credit.",
-      "substantive_responsibility": "MAIN11Ep77-117 actual native mother arrival, diary reading92-98, childbearing pressure110 and Teleport116-117 belong to her, not Hyoizaburoo. Daughter assent is not supplied by maternal preference. CURRENT WORKING21: Own material/home concerns and coercive methods coexist. Parent instruction does not grant the recipients' bodily agreement. CURRENT WORKING31: MAIN14 own family/material matchmaking goals, contested magic, incapacitation attempts and later alcohol-mediated pressure differ from Megumin wishes and Darkness consent-protecting restraint. Final incapacitation method is unshown.",
-      "gaps": "Parental pressure is not Megumin/Kazuma consent, a completed sexual event or reliable future-family forecast. Keep individual mother's choices separate from narrator labels. CURRENT WORKING31 QUALIFICATION: Keep individual mother separate from Hyoizaburoo and Yunyun father/chief. Pressure confers no assent, completed intimate outcome or reliable future-family forecast; no unshown final method or all-parent merge.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "identity": "Yuiyui / ゆいゆい, Megumin and Komekko's mother; distinct from Hyoizaburoo, Yunyun's father and other village adults. Native name verified; Latin rendering working label.",
+      "likely_tier": "3 conditional candidate",
+      "priority": "Scoped cohort23 earned artifacts and open evidence gaps; no independent readiness certification.",
+      "evidence_distribution": "Completed Explosions and main05 source leads. MAIN11Ep77-117actualnative;splitindividualreviewstillrequired. MAIN14 complete retained base text: C1 remittance/debt account and C2 imposed Sleep sequences. CURRENT WORKING25: MAIN05 complete derivative shows her independent intervention in household proximity and status/resources. Her arrangement cannot grant Megumin's assent. Keep analysis non-graphic and child discussion nonsexual; no imported private mother motive or performed future marriage. CURRENT WORKING29: Complete MAIN11 report retains maternal questioning, wealth appraisal, pressure and the child's accurate overheard quotation versus mediated battle report. CURRENT WORKING31: Current complete MAIN13-MAIN16 accepted report review, receipts49-52; derivative claims retain original access planes. Targeted native confirmations are separately pinned, with no new whole-source/independent-test credit. CURRENT COHORT23: YY01-YY14: MAIN01 identity; MAIN05 own household choices; MAIN11 memo/arrival and report context; MAIN14 resources/work/contested control; FAN-MEM profile023 editorial. Actual own words/actions and heard spells differ from later attribution, family reports, narrator motive/permission rationalization and editorial summary. Shared actual known scope3992BASE/22text members/7text objects plus one actual FAN-MEM image in eighth object; no new whole-source/admission/independent validation credit.",
+      "substantive_responsibility": "MAIN11Ep77-117 actual native mother arrival, diary reading92-98, childbearing pressure110 and Teleport116-117 belong to her, not Hyoizaburoo. Daughter assent is not supplied by maternal preference. CURRENT WORKING21: Own material/home concerns and coercive methods coexist. Parent instruction does not grant the recipients' bodily agreement. CURRENT WORKING31: MAIN14 own family/material matchmaking goals, contested magic, incapacitation attempts and later alcohol-mediated pressure differ from Megumin wishes and Darkness consent-protecting restraint. Final incapacitation method is unshown. CURRENT COHORT23: Preferred household future, visible resources and continued remittances matter; means change with resistance, failed magic and fatigue. No complete accounts, received future wealth or irresistible control. Concern and hospitality coexist with pressure after daughter/other recipient objections. Parent preference is not Megumin/Kazuma/Darkness assent; later constrained choice or warmth does not repair prior restraint. Local apology and alarm response coexist with renewed pressure; MAIN14 Darkness resists named spells and mother later also passes out after drinking. Later neutralization method unshown.",
+      "gaps": "Private motive, precise financial thresholds, durable response to refusal/repair, unobserved final control means, unfamiliar interference and Japanese voice transfer remain underidentified.",
+      "disposition_status": "SEMANTIC_RECEIVING_COMPLETE_CONTAINING_PUBLICATION_PENDING",
       "independent_observation_count": null,
       "prior_gap_history_working20": "Inspect and attribute this individual actual choices, short native voice, knowledge and consequences before final tier. Original grouped row retained exactly in historical_split_discovery_groups.",
       "current_scope_asof_working21": "MAIN01-13 full gates closed;MAIN14 published4e66641f andall9078remote paths/43changedstreams verified;actualsourceaudit running;MAIN15-17 excluded unadmitted.",
@@ -1399,23 +1418,86 @@
       "cohort05_current_evidence_qualification": "Complete MAIN11 report retains maternal questioning, wealth appraisal, pressure and the child's accurate overheard quotation versus mediated battle report.",
       "prior_gap_history_working30": "Parental pressure is not Megumin/Kazuma consent, a completed sexual event or reliable future-family forecast. Keep individual mother's choices separate from narrator labels.",
       "current_scope_asof_working31": "All17 main excluded,19 supplemental and5mixed declared source programs remain closed. Current complete main analytical-derivative review is MAIN01-17 (MAIN17 received earlier out of order); receipts49-52 finishMAIN13-16. Later checkpoints/earlier prospective reconciliation/current ledger and separate supporting-register consolidation, final census/artifacts/expanded models/curation/release remain active. No new source/whole-native/ruby/image/independent-test credit from derivative receiving. Current157qualified audit rows are not final individual population; global percentage null.",
-      "cohort06_current_evidence_qualification": "Current complete MAIN13-16 analytical receiving with exact separate native scope where receipted; historical forecasts and earlier published scoped models/gates remain unchanged. Full independent-event/census closure remains open."
+      "cohort06_current_evidence_qualification": "Current complete MAIN13-16 analytical receiving with exact separate native scope where receipted; historical forecasts and earlier published scoped models/gates remain unchanged. Full independent-event/census closure remains open.",
+      "prior_cohort23_current_fields": {
+        "identity": "Distinct audit subject split from Yuiyui / Hyoizaburoo; exact native identity and actor-specific attribution controlled by cited sources.",
+        "likely_tier": "Unassigned; individual evidence review due",
+        "priority": "Discovery",
+        "gaps": "Parental pressure is not Megumin/Kazuma consent, a completed sexual event or reliable future-family forecast. Keep individual mother's choices separate from narrator labels. CURRENT WORKING31 QUALIFICATION: Keep individual mother separate from Hyoizaburoo and Yunyun father/chief. Pressure confers no assent, completed intimate outcome or reliable future-family forecast; no unshown final method or all-parent merge.",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort23_artifacts": [
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_YUIYUI_CHARACTER_MONOGRAPH.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_YUIYUI_RECONSTRUCTION_MODEL.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_PARENTS_TEACHER_EVIDENCE_INDEX.md"
+      ],
+      "cohort23_twelve_dimension_audit": {
+        "appearances": "YY01-YY14: MAIN01 identity; MAIN05 own household choices; MAIN11 memo/arrival and report context; MAIN14 resources/work/contested control; FAN-MEM profile023 editorial.",
+        "direct_vs_reported": "Actual own words/actions and heard spells differ from later attribution, family reports, narrator motive/permission rationalization and editorial summary.",
+        "decisions_goals_constraints": "Preferred household future, visible resources and continued remittances matter; means change with resistance, failed magic and fatigue. No complete accounts, received future wealth or irresistible control.",
+        "relationships": "Concern and hospitality coexist with pressure after daughter/other recipient objections. Parent preference is not Megumin/Kazuma/Darkness assent; later constrained choice or warmth does not repair prior restraint.",
+        "repeated_and_contrary": "Local apology and alarm response coexist with renewed pressure; MAIN14 Darkness resists named spells and mother later also passes out after drinking. Later neutralization method unshown.",
+        "ordinary_life": "Scarce table money, single available tea kind, gifts, house debt, remittances and proposed material work; no audited budget, stable favorite, performed new dungeon haul or future purchase.",
+        "competence": "Actual Sleep/AnkleSnare and heard Lock/attribution; failed Sleep/Paralyze on Darkness and unshown later means remain. Work invitation and help reports are not complete solo feats.",
+        "Japanese_voice": "Polite hospitality, local apologies, smiling minimization and financial appeals are written pragmatics; no acoustic claim, imported legal-age rule or English-to-Japanese adequacy.",
+        "existing_predictions": "Three provisional source-known rules; all earlier predictions/outcomes remain frozen and no retrospective source result is created.",
+        "prospective_tests": "Six original English bodies/three pairs, same informed author/designer/responder/assessor with all cues visible; no independent forecast/grade/gain. Shared endpoints and unprovided context/history retained.",
+        "gaps": "Private motive, precise financial thresholds, durable response to refusal/repair, unobserved final control means, unfamiliar interference and Japanese voice transfer remain underidentified.",
+        "narrators": "Kazuma self-serving narration, Megumin account, Komekko report/accurate overheard quotation, other actor reports and editorial repeat remain distinct access planes."
+      },
+      "cohort23_current_qualifications": [
+        "Six informed firsts illustrate directions without source validation; strong generic host/resource/planner rivals remain.",
+        "YY-H01 shared cards/refusal rationalization, YY-H02 shared tea and invented past-project history, YY-H03 tool fallback without permission; supper/afternoon/relative staging preserved.",
+        "Concern/work and failed spells/exhaustion constrain caricature; no parent approval grants another recipient assent."
+      ],
+      "cohort23_semantic_receiving_sha256": "46b88c379deb7f86878e435077cd06a61693097c1b8e3957ab50e7a70a48424a"
     },
     {
       "character": "Hyoizaburoo",
-      "identity": "Distinct audit subject split from Yuiyui / Hyoizaburoo; exact native identity and actor-specific attribution controlled by cited sources.",
-      "likely_tier": "Unassigned; individual evidence review due",
-      "priority": "Discovery",
-      "evidence_distribution": "Completed Explosions and main05 source leads. MAIN11Ep77-117actualnative;splitindividualreviewstillrequired. MAIN14 retained village household evidence; exact identities crosschecked. CURRENT WORKING29: Complete MAIN11 report records Megumin's reason for limiting remittances: her prediction that extra money would fund his item-making.",
-      "substantive_responsibility": "Separate parent actor in completed Explosions reports; do not assign Yuiyui MAIN11 arrival, diary reading, childbearing pressure or Teleport to him. Actual craft/family decisions need individual native joins. CURRENT WORKING21: Megumin's father remains distinct from Yunyun's unnamed father/current chief and from other similarly described village adults.",
-      "gaps": "This is Megumin's appraisal, not an independently observed new expenditure. Retain earlier admitted own invention and family evidence without multiplying events.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "identity": "Hyoizaburoo / ひょいざぶろー, Megumin and Komekko's father; distinct from Yuiyui, current Crimson chief/Yunyun father and unjoined artisans. Native name verified; Latin rendering working label.",
+      "likely_tier": "2 monograph only; distinct model not yet earned",
+      "priority": "Scoped cohort23 earned artifacts and open evidence gaps; no independent readiness certification.",
+      "evidence_distribution": "Completed Explosions and main05 source leads. MAIN11Ep77-117actualnative;splitindividualreviewstillrequired. MAIN14 retained village household evidence; exact identities crosschecked. CURRENT WORKING29: Complete MAIN11 report records Megumin's reason for limiting remittances: her prediction that extra money would fund his item-making. CURRENT COHORT23: HY01-HY10: MAIN01/05 identity and attended parent scenes; EXP01/02 craft/family reports and analogy; MAIN11/14 remittance context; FAN-MEM profile022 editorial. Direct thanks/outburst/apology/food response/boundary differ from daughter reports/conjecture, Chekera comparison, Wiz valuation, forecasts and editorial synopsis. Shared actual known scope3992BASE/22text members/7text objects plus one actual FAN-MEM image in eighth object; no new whole-source/admission/independent validation credit.",
+      "substantive_responsibility": "Separate parent actor in completed Explosions reports; do not assign Yuiyui MAIN11 arrival, diary reading, childbearing pressure or Teleport to him. Actual craft/family decisions need individual native joins. CURRENT WORKING21: Megumin's father remains distinct from Yunyun's unnamed father/current chief and from other similarly described village adults. CURRENT COHORT23: Parental pride/protection, gift welcome, material opportunity and reported crafting tensions coexist. Private control/design/budget choices are not identified well enough for a separate conditional generator. His chaperoning concern and sleeping absence are not automatic support for Yuiyui's arrangements. He thanks Kazuma and retains his own Komekko boundary after accepting food. Intimidation and apology, gift/wealth shifts and continuing boundary are contrary cases; no universal bribe/sale rule, permanent reform or complete incompetence follows.",
+      "gaps": "Craft selection/control, private motive, complete finances, own ordinary-life variation and generalization of family responses remain underidentified between generic rivals.",
+      "disposition_status": "SEMANTIC_RECEIVING_COMPLETE_CONTAINING_PUBLICATION_PENDING",
       "independent_observation_count": null,
       "prior_gap_history_working20": "Inspect and attribute this individual actual choices, short native voice, knowledge and consequences before final tier. Original grouped row retained exactly in historical_split_discovery_groups.",
       "current_scope_asof_working21": "MAIN01-13 full gates closed;MAIN14 published4e66641f andall9078remote paths/43changedstreams verified;actualsourceaudit running;MAIN15-17 excluded unadmitted.",
       "prior_gap_history_working28": "Do not assign the current chief's C4 spell/punch to him. Broader own family/work choices and artifact tier still due.",
       "current_scope_asof_working29": "Current derivative review MAIN01–12 plus MAIN17 and first four checkpoints complete; MAIN13–16 and remaining checkpoints/ledger consolidation remain active. All declared source gates and Iris/Yunyun/Vanir/Wiz scoped publication gates closed.",
-      "cohort05_current_evidence_qualification": "Complete MAIN11 report records Megumin's reason for limiting remittances: her prediction that extra money would fund his item-making."
+      "cohort05_current_evidence_qualification": "Complete MAIN11 report records Megumin's reason for limiting remittances: her prediction that extra money would fund his item-making.",
+      "prior_cohort23_current_fields": {
+        "identity": "Distinct audit subject split from Yuiyui / Hyoizaburoo; exact native identity and actor-specific attribution controlled by cited sources.",
+        "likely_tier": "Unassigned; individual evidence review due",
+        "priority": "Discovery",
+        "gaps": "This is Megumin's appraisal, not an independently observed new expenditure. Retain earlier admitted own invention and family evidence without multiplying events.",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort23_artifacts": [
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_HYOIZABUROO_CHARACTER_MONOGRAPH.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_PARENTS_TEACHER_EVIDENCE_INDEX.md"
+      ],
+      "cohort23_twelve_dimension_audit": {
+        "appearances": "HY01-HY10: MAIN01/05 identity and attended parent scenes; EXP01/02 craft/family reports and analogy; MAIN11/14 remittance context; FAN-MEM profile022 editorial.",
+        "direct_vs_reported": "Direct thanks/outburst/apology/food response/boundary differ from daughter reports/conjecture, Chekera comparison, Wiz valuation, forecasts and editorial synopsis.",
+        "decisions_goals_constraints": "Parental pride/protection, gift welcome, material opportunity and reported crafting tensions coexist. Private control/design/budget choices are not identified well enough for a separate conditional generator.",
+        "relationships": "His chaperoning concern and sleeping absence are not automatic support for Yuiyui's arrangements. He thanks Kazuma and retains his own Komekko boundary after accepting food.",
+        "repeated_and_contrary": "Intimidation and apology, gift/wealth shifts and continuing boundary are contrary cases; no universal bribe/sale rule, permanent reform or complete incompetence follows.",
+        "ordinary_life": "Only one tea kind, gift use, reported work/costs and daughter's remittance forecast; no whole workshop inventory, full accounts, stable taste or new performed expenditure.",
+        "competence": "Reported high-power/control/design mismatch and practical defects coexist with Wiz's favorable valuation; hypothetical alternate applications are not proved sales or all-purpose uselessness.",
+        "Japanese_voice": "Own thanks, repeated relationship question, shift from キミ to カズマさん and Komekko refusal remain actor-specific written pragmatics; no English diagnostic/Japanese certification.",
+        "existing_predictions": "Prior source reports and forecast history remain exact. Daughter's extra-money prediction is not a newly observed purchase.",
+        "prospective_tests": "No model or synthetic cases by parental symmetry/quota. A future model remains open if distinct mechanisms gain adequate evidence.",
+        "gaps": "Craft selection/control, private motive, complete finances, own ordinary-life variation and generalization of family responses remain underidentified between generic rivals.",
+        "narrators": "Kazuma appraisal and attended speech differ from Megumin conjecture/reports, Chekera analogy, Wiz own report and editorial apparently/no-reform appraisal."
+      },
+      "cohort23_current_qualifications": [
+        "Separate12dimension Tier2 monograph; no forced matched-parent model or test quota.",
+        "Novel renowned/Wiz report and editorial skilled wording are separate; no completed father sale/payment inferred.",
+        "Daughter forecast and debt context are not a watched new device purchase or sole-cause budget proof."
+      ],
+      "cohort23_semantic_receiving_sha256": "46b88c379deb7f86878e435077cd06a61693097c1b8e3957ab50e7a70a48424a"
     },
     {
       "character": "Beat",
@@ -1486,14 +1568,46 @@
     },
     {
       "character": "Pucchin",
-      "identity": "Accepted report teacher name; direct native name join pending",
-      "likely_tier": "1–2 unresolved",
-      "priority": "Discovery / consolidation",
-      "evidence_distribution": "Complete EXP01 report, later school/provider references in EXP02.",
-      "substantive_responsibility": "Teaching, craft/material permissions and real magic coexist with biased grading, delayed rescue, costly performance and false blame.",
-      "gaps": "Separate individually demonstrated choices from alleged protective motives and institution-wide rules; no generic teacher model.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
-      "independent_observation_count": null
+      "identity": "Pucchin / ぷっちん, self-named Crimson homeroom teacher EXP01U018P189-192; principal aspiration is not promotion. Continued Explosions pudding hit rejected. Latin rendering working label.",
+      "likely_tier": "3 conditional candidate",
+      "priority": "Scoped cohort23 earned artifacts and open evidence gaps; no independent readiness certification.",
+      "evidence_distribution": "Complete EXP01 report, later school/provider references in EXP02. CURRENT COHORT23: PC01-PC15: EXP01 school, field exercise, recipe/material support and graduation context; earlier EXP02 school/provider report remains a prior derivative lead, without a new native teacher occurrence claimed here; CONTEXP01 pudding false hit rejected. Own grades/permissions/admitted timing, actual effects and pupil speech differ from reported culls/repair, narrator motive/care appraisals and unperformed reserve boasts. Shared actual known scope3992BASE/22text members/7text objects plus one actual FAN-MEM image in eighth object; no new whole-source/admission/independent validation credit.",
+      "substantive_responsibility": "Teaching, craft/material permissions and real magic coexist with biased grading, delayed rescue, costly performance and false blame. CURRENT COHORT23: Theatrical legibility can dominate local judgment, actual intervention can wait for preferred timing, and practical need can unlock resources with mockery; private motive remains open. Teacher authority includes real teaching/support and biased discipline/appropriation. Pupil objections and choices are not his permission to control everything; confidentiality-as-care is Megumin appraisal. Attendance apology then later ignored complaint, real academic ranks plus theatrical points, noticed cat contradictions and effective delayed rescue prevent all-fool/all-care simplification.",
+      "gaps": "Precise scoring thresholds, repeated timing, literal story belief, private confidentiality/care motives, actual safety transfer, pupil outcomes and Japanese voice remain open.",
+      "disposition_status": "SEMANTIC_RECEIVING_COMPLETE_CONTAINING_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "prior_cohort23_current_fields": {
+        "identity": "Accepted report teacher name; direct native name join pending",
+        "likely_tier": "1–2 unresolved",
+        "priority": "Discovery / consolidation",
+        "gaps": "Separate individually demonstrated choices from alleged protective motives and institution-wide rules; no generic teacher model.",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION"
+      },
+      "cohort23_artifacts": [
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_PUCCHIN_CHARACTER_MONOGRAPH.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_PUCCHIN_RECONSTRUCTION_MODEL.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_PARENTS_TEACHER_EVIDENCE_INDEX.md"
+      ],
+      "cohort23_twelve_dimension_audit": {
+        "appearances": "PC01-PC15: EXP01 school, field exercise, recipe/material support and graduation context; earlier EXP02 school/provider report remains a prior derivative lead, without a new native teacher occurrence claimed here; CONTEXP01 pudding false hit rejected.",
+        "direct_vs_reported": "Own grades/permissions/admitted timing, actual effects and pupil speech differ from reported culls/repair, narrator motive/care appraisals and unperformed reserve boasts.",
+        "decisions_goals_constraints": "Theatrical legibility can dominate local judgment, actual intervention can wait for preferred timing, and practical need can unlock resources with mockery; private motive remains open.",
+        "relationships": "Teacher authority includes real teaching/support and biased discipline/appropriation. Pupil objections and choices are not his permission to control everything; confidentiality-as-care is Megumin appraisal.",
+        "repeated_and_contrary": "Attendance apology then later ignored complaint, real academic ranks plus theatrical points, noticed cat contradictions and effective delayed rescue prevent all-fool/all-care simplification.",
+        "ordinary_life": "Practical magic/economic instruction, pudding taken, potion rewards and recipe/material grant; promise differs from receipt and no patient/cure/manufacture is supplied by the grant alone.",
+        "competence": "Actual weather effect, frozen targets and CursedLightning intervention coexist with disruption, plated props and incomplete safeguards. No giant-metal strength, exact seconds, watched reserve or safety certificate.",
+        "Japanese_voice": "Formal teacher role, self-introduction, point rhetoric, dramatic titles and rebuke/support mix are written pragmatics. Katakana or formula alone does not establish L3; English outputs test no Japanese voice.",
+        "existing_predictions": "Three provisional source-known rules and prior history preserved; no fresh source forecast or precise stable grade/delay-rate estimate.",
+        "prospective_tests": "Six original English bodies/three pairs, same informed visible-contrast author. Unscaled3/100, shared press/presenting endpoints, extra audience/timing assumptions and invented prior pupil failure retained; no independent gain.",
+        "gaps": "Precise scoring thresholds, repeated timing, literal story belief, private confidentiality/care motives, actual safety transfer, pupil outcomes and Japanese voice remain open.",
+        "narrators": "Megumin narration and private inference, teacher speech/admission, other pupil statements, institutional reports and distant events remain separate. Reader knowledge of seal truth is not teacher knowledge."
+      },
+      "cohort23_current_qualifications": [
+        "Three dedicated pairs do not test every source mechanism; strong generic dramatic-teacher/performance/help rivals remain.",
+        "Actual intervention is distinct from safe process; alleged sabotage/scapegoating and privacy-as-care retain narrator qualification.",
+        "PU-H03-A invents earlier pupil failure; unprovided grade scale, physical audience layout and result latency remain in original firsts."
+      ],
+      "cohort23_semantic_receiving_sha256": "46b88c379deb7f86878e435077cd06a61693097c1b8e3957ab50e7a70a48424a"
     },
     {
       "character": "Arue",
@@ -3145,12 +3259,12 @@
     {
       "character": "Mitsurugi spear-user companion (personal name-to-role unresolved)",
       "identity": "Spear-user companion; pair namedフィオ/クレメア MAIN17C3P54, exact role mapping unresolvedP57. Fio/Clemea are working renderings. Not duplicate new people.",
-      "likely_tier": "1 bounded profile",
+      "likely_tier": "1 bounded profile; full gate closed",
       "priority": "Separate compact existing-ledger profile, individually tagged commitment and shared-scene limits.",
       "evidence_distribution": "MAIN16: complete 18 newly admitted resources/121 P with ruby and residuals and 28 images, sealed before coding; current 1,395 unique accepted-principal BASE-TEXT P across ten members, six complete at base-text scope. No new principal pass, retained-ruby or independent-validation credit. Complete Final P61–236, especially P76–79/160. CURRENT WORKING24: Complete accepted MAIN01–04 reports and original V01–V03 checkpoint actually reviewed at derivative scope (receipts32–36); bounded MAIN02 Keele116 P / MAIN04 epilogue94 P native receipt separately recorded. MAIN17 complete new15resources71 P/25images and1,517 retained BASE-TEXT P acrossfiveunits are actual at their stated scopes, not new whole-principal/ruby/independent passes. CURRENT COHORT22: MAIN16/17 role contexts; earlier main/Dust paired scenes and fanbook role description remain bounded joins. Explicit spear-user fatigue/next-move/following at MAIN17C2P503-504; recruitment exclusivity is editorial107; earlier untagged lines not assigned. Shared actual bounded scope5,026knownBASE/35members/19objects+5reference views, no new whole-source or independent validation credit.",
       "substantive_responsibility": "Own presence, reaction and a limited role in a party with a strong fighter are visible. Actual choices must be retained separately from Mitsurugi's motives and the thief companion's responses. CURRENT WORKING24: MAIN17 C2P503–504 explicitly identifies the spear-user and her own willingness to follow Kyouya; later final treatment requests are distinct urgent acts. Initial MAIN01 companion joins remain unproved by class alone. CURRENT COHORT22: Conditional following coexists with fatigue and later pair relief at return; no explicit universal hard limit invented. Own attachment/party position distinct from thief and Mitsurugi; his Aqua wishes not her assent. Late following statement plus relief/protection qualify limitless sacrifice; no same psychological mechanism inferred from pair membership.",
       "gaps": "Name mapping, early per-line joins, private goals/tastes and full independent competence remain open; own fatigue/conditional following differs from thief death-together line.",
-      "disposition_status": "SEMANTIC_RECEIVING_COMPLETE_CONTAINING_PUBLICATION_PENDING",
+      "disposition_status": "BOUNDED_PROFILE_FULL_GATE_CLOSED",
       "independent_observation_count": null,
       "current_scope_asof_working23": "MAIN01–15 excluded full gates closed. MAIN16 published 870756ef7cfeb3d14f395deac59be65e909ba9a3; all 9,114 remote paths/35 changed streams verified and exact-index author preflight passed. Source/housekeeping/final audit gate remains pending verification in this version. MAIN17 excluded not admitted. Full individual census, earned artifacts, expanded synthesis/versioned models, curation/integration/release continue.",
       "prior_gap_history_working23": "Join earlier companions by explicit continuity before canonical individual accounting. Do not infer an offstage name, consent or identical opinion from membership; preserve Aqua's narrator access.",
@@ -3185,17 +3299,36 @@
         "No independent/prospective test; Mitsurugi hypotheticals do not validate this woman.",
         "Aqua/Kazuma/Dust and editorial roles retained; no own private focalization certified."
       ],
-      "cohort22_semantic_receiving_sha256": "ba66135f2044d0f9649d2280ba4fcb6f505dcd6db9b16f433e934211aa978936"
+      "cohort22_semantic_receiving_sha256": "ba66135f2044d0f9649d2280ba4fcb6f505dcd6db9b16f433e934211aa978936",
+      "cohort22_publication_pending_at_authorship_history": {
+        "likely_tier": "1 bounded profile",
+        "priority": "Separate compact existing-ledger profile, individually tagged commitment and shared-scene limits.",
+        "disposition_status": "SEMANTIC_RECEIVING_COMPLETE_CONTAINING_PUBLICATION_PENDING"
+      },
+      "cohort22_publication_status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+      "cohort22_publication_gate_close": {
+        "source": "9b191f37ae735b24786a52a52f46d10e82609771",
+        "tree": "486141c171ff750e54d8e5a155bd4d9a6a485617",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MITSURUGI_COMPANIONS_COHORT22_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "6ce3347d769e2ef95b67d31a0f08e25b78a3a4b6edeaad51aa3a7294eb7006c2",
+        "source_run": 39516379860,
+        "housekeeping_run": 39517020268,
+        "final_run": 39517069341,
+        "full_tests_each": 385,
+        "published_project_paths": 1216,
+        "current_models": 31,
+        "no_independent_accuracy_or_confidence_gain": true
+      }
     },
     {
       "character": "Mitsurugi thief companion (personal name-to-role unresolved)",
       "identity": "Thief companion; pair namedフィオ/クレメア MAIN17C3P54, role mapping unresolvedP57. Earlier same-class people/informant not automatic joins.",
-      "likely_tier": "1 bounded profile",
+      "likely_tier": "1 bounded profile; full gate closed",
       "priority": "Separate compact existing-ledger profile, own personal commitment and later pair relief/care.",
       "evidence_distribution": "MAIN16: complete 18 newly admitted resources/121 P with ruby and residuals and 28 images, sealed before coding; current 1,395 unique accepted-principal BASE-TEXT P across ten members, six complete at base-text scope. No new principal pass, retained-ruby or independent-validation credit. Complete Final P61–236, especially P76–79/160. CURRENT WORKING24: Complete accepted MAIN01–04 reports and original V01–V03 checkpoint actually reviewed at derivative scope (receipts32–36); bounded MAIN02 Keele116 P / MAIN04 epilogue94 P native receipt separately recorded. MAIN17 complete new15resources71 P/25images and1,517 retained BASE-TEXT P acrossfiveunits are actual at their stated scopes, not new whole-principal/ruby/independent passes. CURRENT COHORT22: MAIN16/17 role contexts; earlier main/Dust paired scenes and fanbook role description remain bounded joins. Explicit thief came-for-him/death-together MAIN17C2P505-506; praise/head-pat catalog108 editorial; earlier untagged lines not assigned. Shared actual bounded scope5,026knownBASE/35members/19objects+5reference views, no new whole-source or independent validation credit.",
       "substantive_responsibility": "Own presence and reactions contribute to Aqua's encounter; party membership does not collapse her into Mitsurugi's agency or another companion's observations. CURRENT WORKING24: MAIN17 C2P505–506 separately identifies the thief and her reason for accompanying Kyouya; the pair's treatment requests and concern are received later. Hair and montage labels supply no personal name. CURRENT COHORT22: Personal participation statement can coexist with later relief and active care; not standing informed consent to death. Distinct favored-person commitment; no exact name or automatic identity with MAIN01 unnamed thief informant. Dramatic vow, later pair relief and concern remain successive local states, not one timeless self-sacrifice trait.",
       "gaps": "Name mapping, earlier voices, private goals/tastes, skill distribution and final treatment outcome remain open; no permanent death consent or separate generator.",
-      "disposition_status": "SEMANTIC_RECEIVING_COMPLETE_CONTAINING_PUBLICATION_PENDING",
+      "disposition_status": "BOUNDED_PROFILE_FULL_GATE_CLOSED",
       "independent_observation_count": null,
       "current_scope_asof_working23": "MAIN01–15 excluded full gates closed. MAIN16 published 870756ef7cfeb3d14f395deac59be65e909ba9a3; all 9,114 remote paths/35 changed streams verified and exact-index author preflight passed. Source/housekeeping/final audit gate remains pending verification in this version. MAIN17 excluded not admitted. Full individual census, earned artifacts, expanded synthesis/versioned models, curation/integration/release continue.",
       "prior_gap_history_working23": "Exact per-speaker attribution and earlier-source continuity remain to be joined before final individual count or profile size. No invented class-to-name match.",
@@ -3230,7 +3363,26 @@
         "No independent/prospective test; Mitsurugi hypotheticals do not validate this woman.",
         "Aqua/Kazuma/Dust and editorial roles retained; no own private focalization certified."
       ],
-      "cohort22_semantic_receiving_sha256": "ba66135f2044d0f9649d2280ba4fcb6f505dcd6db9b16f433e934211aa978936"
+      "cohort22_semantic_receiving_sha256": "ba66135f2044d0f9649d2280ba4fcb6f505dcd6db9b16f433e934211aa978936",
+      "cohort22_publication_pending_at_authorship_history": {
+        "likely_tier": "1 bounded profile",
+        "priority": "Separate compact existing-ledger profile, own personal commitment and later pair relief/care.",
+        "disposition_status": "SEMANTIC_RECEIVING_COMPLETE_CONTAINING_PUBLICATION_PENDING"
+      },
+      "cohort22_publication_status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+      "cohort22_publication_gate_close": {
+        "source": "9b191f37ae735b24786a52a52f46d10e82609771",
+        "tree": "486141c171ff750e54d8e5a155bd4d9a6a485617",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MITSURUGI_COMPANIONS_COHORT22_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "6ce3347d769e2ef95b67d31a0f08e25b78a3a4b6edeaad51aa3a7294eb7006c2",
+        "source_run": 39516379860,
+        "housekeeping_run": 39517020268,
+        "final_run": 39517069341,
+        "full_tests_each": 385,
+        "published_project_paths": 1216,
+        "current_models": 31,
+        "no_independent_accuracy_or_confidence_gain": true
+      }
     },
     {
       "character": "Keele / キール (MAIN02 lich)",
@@ -4767,9 +4919,457 @@
         "current_models": 30,
         "no_independent_accuracy_or_confidence_gain": true
       }
+    },
+    {
+      "character": "Chekera / ちぇけら",
+      "identity": "Named clothing/mana-fiber shop owner; two actual FreezeBind hazard interventions and conditional return invitation. Hyo is his named comparison; other workshop-role occurrences remain unjoined.",
+      "likely_tier": "1-2 candidate, separate bounded review due",
+      "priority": "Cohort23 bounded discovery; individual proportional-artifact review remains open where stated.",
+      "evidence_distribution": "IN01 EXP02 U015P72-111; Own named clothing/fiber demonstration, two FreezeBind interventions and conditional return invitation.",
+      "substantive_responsibility": "Work test changes after hazardous infusion; power is not fine control and invitation is not performed rehire.",
+      "gaps": "Named clothing/mana-fiber shop owner; two actual FreezeBind hazard interventions and conditional return invitation. Hyo is his named comparison; other workshop-role occurrences remain unjoined. 1-2 candidate, separate bounded review due.",
+      "disposition_status": "BOUNDED_COHORT23_OCCURRENCE_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "source_access_type": "Own named clothing/fiber demonstration, two FreezeBind interventions and conditional return invitation.",
+      "not_final_unique_person_increment": true,
+      "cohort23_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_PARENTS_TEACHER_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_PARENTS_TEACHER_NATIVE_PROVENANCE.json"
+      ],
+      "cohort23_twelve_dimension_audit": {
+        "appearances": "IN01 EXP02 U015P72-111",
+        "direct_vs_reported": "Own named clothing/fiber demonstration, two FreezeBind interventions and conditional return invitation.",
+        "decisions_goals_constraints": "Work test changes after hazardous infusion; power is not fine control and invitation is not performed rehire.",
+        "relationships": "Shopkeeper/pupil interaction; Hyo named comparison, other workshop roles unjoined.",
+        "repeated_and_contrary": "Bounded occurrence; no stable tendency or adequately reviewed contrary set established. Future review may revise disposition.",
+        "ordinary_life": "Clothing/mana-fiber livelihood; no settled wage, final job result or stable taste.",
+        "competence": "Actual local freezing/control and work adjustment; no complete skill inventory.",
+        "Japanese_voice": "Own named speech/instructions; broader register/pragmatics review due.",
+        "existing_predictions": "No new individual forecast assigned; prior predictions and missingness preserved.",
+        "prospective_tests": "No prospective or synthetic test assigned; no independent count/score/gain.",
+        "gaps": "Named clothing/mana-fiber shop owner; two actual FreezeBind hazard interventions and conditional return invitation. Hyo is his named comparison; other workshop-role occurrences remain unjoined. 1-2 candidate, separate bounded review due.",
+        "narrators": "Megumin perspective in Explosions; this row retains its own direct/report/inference limits."
+      },
+      "cohort23_semantic_receiving_sha256": "46b88c379deb7f86878e435077cd06a61693097c1b8e3957ab50e7a70a48424a"
+    },
+    {
+      "character": "Unnamed Crimson school measurement teacher (role occurrence)",
+      "identity": "Actual measurement/pupil correction role; personal identity and possible overlap with other school staff unproved. No automatic Pucchin join.",
+      "likely_tier": "1 candidate, compact profile review due",
+      "priority": "Cohort23 bounded discovery; individual proportional-artifact review remains open where stated.",
+      "evidence_distribution": "IN02 EXP01 U018P86-96; Actual school measurement/correction interaction; personal identity unproved.",
+      "substantive_responsibility": "Measures/corrects pupil display; no established private goal or general learning policy.",
+      "gaps": "Actual measurement/pupil correction role; personal identity and possible overlap with other school staff unproved. No automatic Pucchin join. 1 candidate, compact profile review due.",
+      "disposition_status": "BOUNDED_COHORT23_OCCURRENCE_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "source_access_type": "Actual school measurement/correction interaction; personal identity unproved.",
+      "not_final_unique_person_increment": true,
+      "cohort23_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_PARENTS_TEACHER_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_PARENTS_TEACHER_NATIVE_PROVENANCE.json"
+      ],
+      "cohort23_twelve_dimension_audit": {
+        "appearances": "IN02 EXP01 U018P86-96",
+        "direct_vs_reported": "Actual school measurement/correction interaction; personal identity unproved.",
+        "decisions_goals_constraints": "Measures/corrects pupil display; no established private goal or general learning policy.",
+        "relationships": "School staff/pupil role; possible overlap with other staff unresolved.",
+        "repeated_and_contrary": "Bounded occurrence; no stable tendency or adequately reviewed contrary set established. Future review may revise disposition.",
+        "ordinary_life": "School task only, no own daily-life preferences or pay.",
+        "competence": "Local measurement magic; no independent biological mechanism or general calibration proof.",
+        "Japanese_voice": "Role speech present, individual idiolect not established.",
+        "existing_predictions": "No new individual forecast assigned; prior predictions and missingness preserved.",
+        "prospective_tests": "No prospective or synthetic test assigned; no independent count/score/gain.",
+        "gaps": "Actual measurement/pupil correction role; personal identity and possible overlap with other school staff unproved. No automatic Pucchin join. 1 candidate, compact profile review due.",
+        "narrators": "Megumin perspective in Explosions; this row retains its own direct/report/inference limits."
+      },
+      "cohort23_semantic_receiving_sha256": "46b88c379deb7f86878e435077cd06a61693097c1b8e3957ab50e7a70a48424a"
+    },
+    {
+      "character": "Unnamed Crimson school principal (reported role)",
+      "identity": "Reported separate current principal; Pucchin aspiration is not promotion. No personal name or witnessed full repair cast.",
+      "likely_tier": "0 indexed incidental/report occurrence",
+      "priority": "Cohort23 bounded discovery; individual proportional-artifact review remains open where stated.",
+      "evidence_distribution": "IN03 EXP01 U018P261/317;U023P42; Teacher/institutional report about current principal; no own watched full scene.",
+      "substantive_responsibility": "Diagnosis, joint rain repair and cull assignment reported; no watched full cast.",
+      "gaps": "Reported separate current principal; Pucchin aspiration is not promotion. No personal name or witnessed full repair cast. 0 indexed incidental/report occurrence.",
+      "disposition_status": "BOUNDED_COHORT23_OCCURRENCE_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "source_access_type": "Teacher/institutional report about current principal; no own watched full scene.",
+      "not_final_unique_person_increment": true,
+      "cohort23_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_PARENTS_TEACHER_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_PARENTS_TEACHER_NATIVE_PROVENANCE.json"
+      ],
+      "cohort23_twelve_dimension_audit": {
+        "appearances": "IN03 EXP01 U018P261/317;U023P42",
+        "direct_vs_reported": "Teacher/institutional report about current principal; no own watched full scene.",
+        "decisions_goals_constraints": "Diagnosis, joint rain repair and cull assignment reported; no watched full cast.",
+        "relationships": "Current principal role distinct from Pucchin aspiration; personal identity unproved.",
+        "repeated_and_contrary": "Bounded occurrence; no stable tendency or adequately reviewed contrary set established. Future review may revise disposition.",
+        "ordinary_life": "No individual ordinary-life evidence in scope.",
+        "competence": "Reported institutional competence only; no own full repair performance watched.",
+        "Japanese_voice": "No principal voice established from reported role.",
+        "existing_predictions": "No new individual forecast assigned; prior predictions and missingness preserved.",
+        "prospective_tests": "No prospective or synthetic test assigned; no independent count/score/gain.",
+        "gaps": "Reported separate current principal; Pucchin aspiration is not promotion. No personal name or witnessed full repair cast. 0 indexed incidental/report occurrence.",
+        "narrators": "Megumin perspective in Explosions; this row retains its own direct/report/inference limits."
+      },
+      "cohort23_semantic_receiving_sha256": "46b88c379deb7f86878e435077cd06a61693097c1b8e3957ab50e7a70a48424a"
+    },
+    {
+      "character": "Unnamed Crimson cafe proprietor",
+      "identity": "Own welcome/menu/order role; alleged Hyo acquaintance is Megumin inference. No automatic MAIN14 tavern/operator/Nerimaki family join.",
+      "likely_tier": "1 candidate, compact profile review due",
+      "priority": "Cohort23 bounded discovery; individual proportional-artifact review remains open where stated.",
+      "evidence_distribution": "IN04 EXP01 U018P367-375; Own greeting/menu/order interaction; Hyo acquaintance inferred by Megumin.",
+      "substantive_responsibility": "Welcomes and conducts menu interaction; no final payment or private motive proved.",
+      "gaps": "Own welcome/menu/order role; alleged Hyo acquaintance is Megumin inference. No automatic MAIN14 tavern/operator/Nerimaki family join. 1 candidate, compact profile review due.",
+      "disposition_status": "BOUNDED_COHORT23_OCCURRENCE_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "source_access_type": "Own greeting/menu/order interaction; Hyo acquaintance inferred by Megumin.",
+      "not_final_unique_person_increment": true,
+      "cohort23_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_PARENTS_TEACHER_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_PARENTS_TEACHER_NATIVE_PROVENANCE.json"
+      ],
+      "cohort23_twelve_dimension_audit": {
+        "appearances": "IN04 EXP01 U018P367-375",
+        "direct_vs_reported": "Own greeting/menu/order interaction; Hyo acquaintance inferred by Megumin.",
+        "decisions_goals_constraints": "Welcomes and conducts menu interaction; no final payment or private motive proved.",
+        "relationships": "Cafe owner/pupil customer; Neri/tavern/diner/family identity joins unproved.",
+        "repeated_and_contrary": "Bounded occurrence; no stable tendency or adequately reviewed contrary set established. Future review may revise disposition.",
+        "ordinary_life": "Cafe work/menu supplied; no stable favorite or whole budget.",
+        "competence": "Service task observed, no full professional skill or magical repertoire.",
+        "Japanese_voice": "Own service speech, broader idiolect/contrast review due.",
+        "existing_predictions": "No new individual forecast assigned; prior predictions and missingness preserved.",
+        "prospective_tests": "No prospective or synthetic test assigned; no independent count/score/gain.",
+        "gaps": "Own welcome/menu/order role; alleged Hyo acquaintance is Megumin inference. No automatic MAIN14 tavern/operator/Nerimaki family join. 1 candidate, compact profile review due.",
+        "narrators": "Megumin perspective in Explosions; this row retains its own direct/report/inference limits."
+      },
+      "cohort23_semantic_receiving_sha256": "46b88c379deb7f86878e435077cd06a61693097c1b8e3957ab50e7a70a48424a"
+    },
+    {
+      "character": "Unnamed Crimson blacksmith / armor artisan",
+      "identity": "Own recommendation and reported magic-furnace/armor-client livelihood. No personal name or automatic Hyo/Funifura-father/Darkness-client join.",
+      "likely_tier": "1-2 candidate, separate evidence review due",
+      "priority": "Cohort23 bounded discovery; individual proportional-artifact review remains open where stated.",
+      "evidence_distribution": "IN05 EXP01 U018P552-568; Own trade recommendation and reported furnace/armor-client livelihood; quality appraisal mediated.",
+      "substantive_responsibility": "Recommends weapons and describes work; no independent product test or completed sale.",
+      "gaps": "Own recommendation and reported magic-furnace/armor-client livelihood. No personal name or automatic Hyo/Funifura-father/Darkness-client join. 1-2 candidate, separate evidence review due.",
+      "disposition_status": "BOUNDED_COHORT23_OCCURRENCE_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "source_access_type": "Own trade recommendation and reported furnace/armor-client livelihood; quality appraisal mediated.",
+      "not_final_unique_person_increment": true,
+      "cohort23_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_PARENTS_TEACHER_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_PARENTS_TEACHER_NATIVE_PROVENANCE.json"
+      ],
+      "cohort23_twelve_dimension_audit": {
+        "appearances": "IN05 EXP01 U018P552-568",
+        "direct_vs_reported": "Own trade recommendation and reported furnace/armor-client livelihood; quality appraisal mediated.",
+        "decisions_goals_constraints": "Recommends weapons and describes work; no independent product test or completed sale.",
+        "relationships": "Unnamed artisan and unnamed noble client; no automatic Hyo/Funifura-father/Darkness-client join.",
+        "repeated_and_contrary": "Bounded occurrence; no stable tendency or adequately reviewed contrary set established. Future review may revise disposition.",
+        "ordinary_life": "Trade livelihood described; complete income/preferences unavailable.",
+        "competence": "Reported magic-furnace/armor production, not a watched full manufacture or external quality test.",
+        "Japanese_voice": "Own trade speech; broader individual register review due.",
+        "existing_predictions": "No new individual forecast assigned; prior predictions and missingness preserved.",
+        "prospective_tests": "No prospective or synthetic test assigned; no independent count/score/gain.",
+        "gaps": "Own recommendation and reported magic-furnace/armor-client livelihood. No personal name or automatic Hyo/Funifura-father/Darkness-client join. 1-2 candidate, separate evidence review due.",
+        "narrators": "Megumin perspective in Explosions; this row retains its own direct/report/inference limits."
+      },
+      "cohort23_semantic_receiving_sha256": "46b88c379deb7f86878e435077cd06a61693097c1b8e3957ab50e7a70a48424a"
+    },
+    {
+      "character": "Unnamed Crimson potion-workshop proprietor",
+      "identity": "Own interview/conditional short hire; distinct from clothing shop, diner and teacher. Later conduct/outcomes pending.",
+      "likely_tier": "1-2 candidate, separate evidence review due",
+      "priority": "Cohort23 bounded discovery; individual proportional-artifact review remains open where stated.",
+      "evidence_distribution": "IN06 EXP02 U015P127-135; Own interview and short-work offer in the read window; later conduct not yet received for this row.",
+      "substantive_responsibility": "Discusses motive and agrees short hire despite adequate staff; final conditions/outcomes due.",
+      "gaps": "Own interview/conditional short hire; distinct from clothing shop, diner and teacher. Later conduct/outcomes pending. 1-2 candidate, separate evidence review due.",
+      "disposition_status": "BOUNDED_COHORT23_OCCURRENCE_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "source_access_type": "Own interview and short-work offer in the read window; later conduct not yet received for this row.",
+      "not_final_unique_person_increment": true,
+      "cohort23_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_PARENTS_TEACHER_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_PARENTS_TEACHER_NATIVE_PROVENANCE.json"
+      ],
+      "cohort23_twelve_dimension_audit": {
+        "appearances": "IN06 EXP02 U015P127-135",
+        "direct_vs_reported": "Own interview and short-work offer in the read window; later conduct not yet received for this row.",
+        "decisions_goals_constraints": "Discusses motive and agrees short hire despite adequate staff; final conditions/outcomes due.",
+        "relationships": "Potion proprietor/applicant role; not automatically clothing/diner/teacher identity.",
+        "repeated_and_contrary": "Bounded occurrence; no stable tendency or adequately reviewed contrary set established. Future review may revise disposition.",
+        "ordinary_life": "Potion workshop employment context; no settled wage or final employment outcome.",
+        "competence": "No watched complete production or independent potion-quality test.",
+        "Japanese_voice": "Own interview speech; later voice/choice variation review due.",
+        "existing_predictions": "No new individual forecast assigned; prior predictions and missingness preserved.",
+        "prospective_tests": "No prospective or synthetic test assigned; no independent count/score/gain.",
+        "gaps": "Own interview/conditional short hire; distinct from clothing shop, diner and teacher. Later conduct/outcomes pending. 1-2 candidate, separate evidence review due.",
+        "narrators": "Megumin perspective in Explosions; this row retains its own direct/report/inference limits."
+      },
+      "cohort23_semantic_receiving_sha256": "46b88c379deb7f86878e435077cd06a61693097c1b8e3957ab50e7a70a48424a"
+    },
+    {
+      "character": "Unnamed Crimson diner proprietor",
+      "identity": "Elderly shopkeeper; prior kindness is Yunyun report, hire and multistep work direct. No automatic cafe/MAIN14 tavern join.",
+      "likely_tier": "1-2 candidate, separate evidence review due",
+      "priority": "Cohort23 bounded discovery; individual proportional-artifact review remains open where stated.",
+      "evidence_distribution": "IN07 EXP02 U015P300-345; Prior kindness is Yunyun report; hire and multistep busy work are direct.",
+      "substantive_responsibility": "Offers lower pay, agrees hire and assigns tasks; settlement/later outcome due.",
+      "gaps": "Elderly shopkeeper; prior kindness is Yunyun report, hire and multistep work direct. No automatic cafe/MAIN14 tavern join. 1-2 candidate, separate evidence review due.",
+      "disposition_status": "BOUNDED_COHORT23_OCCURRENCE_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "source_access_type": "Prior kindness is Yunyun report; hire and multistep busy work are direct.",
+      "not_final_unique_person_increment": true,
+      "cohort23_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_PARENTS_TEACHER_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_PARENTS_TEACHER_NATIVE_PROVENANCE.json"
+      ],
+      "cohort23_twelve_dimension_audit": {
+        "appearances": "IN07 EXP02 U015P300-345",
+        "direct_vs_reported": "Prior kindness is Yunyun report; hire and multistep busy work are direct.",
+        "decisions_goals_constraints": "Offers lower pay, agrees hire and assigns tasks; settlement/later outcome due.",
+        "relationships": "Elderly diner proprietor, Megumin applicant and Yunyun tasks; cafe/tavern join unproved.",
+        "repeated_and_contrary": "Bounded occurrence; no stable tendency or adequately reviewed contrary set established. Future review may revise disposition.",
+        "ordinary_life": "Diner workload and proposed pay; no watched wage settlement or complete accounts.",
+        "competence": "Local work organization shown; no whole skill inventory or final task outcomes.",
+        "Japanese_voice": "Own hiring/orders; broader individual voice and contrary choices due.",
+        "existing_predictions": "No new individual forecast assigned; prior predictions and missingness preserved.",
+        "prospective_tests": "No prospective or synthetic test assigned; no independent count/score/gain.",
+        "gaps": "Elderly shopkeeper; prior kindness is Yunyun report, hire and multistep work direct. No automatic cafe/MAIN14 tavern join. 1-2 candidate, separate evidence review due.",
+        "narrators": "Megumin perspective in Explosions; this row retains its own direct/report/inference limits."
+      },
+      "cohort23_semantic_receiving_sha256": "46b88c379deb7f86878e435077cd06a61693097c1b8e3957ab50e7a70a48424a"
+    },
+    {
+      "character": "Kaikai / かいかい (named classroom roster)",
+      "identity": "Called in homeroom list with collective replies; no individualized decision/voice supplied.",
+      "likely_tier": "0 indexed incidental/name occurrence",
+      "priority": "Cohort23 bounded discovery; individual proportional-artifact review remains open where stated.",
+      "evidence_distribution": "IN08 EXP01 U018P5-6; Actual named roster with collective replies; no individually assigned response.",
+      "substantive_responsibility": "No own decision, stable goal or consequence established by roster.",
+      "gaps": "Called in homeroom list with collective replies; no individualized decision/voice supplied. 0 indexed incidental/name occurrence.",
+      "disposition_status": "BOUNDED_COHORT23_OCCURRENCE_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "source_access_type": "Actual named roster with collective replies; no individually assigned response.",
+      "not_final_unique_person_increment": true,
+      "cohort23_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_PARENTS_TEACHER_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_PARENTS_TEACHER_NATIVE_PROVENANCE.json"
+      ],
+      "cohort23_twelve_dimension_audit": {
+        "appearances": "IN08 EXP01 U018P5-6",
+        "direct_vs_reported": "Actual named roster with collective replies; no individually assigned response.",
+        "decisions_goals_constraints": "No own decision, stable goal or consequence established by roster.",
+        "relationships": "Classroom name occurrence; no invented family or extra act.",
+        "repeated_and_contrary": "Bounded occurrence; no stable tendency or adequately reviewed contrary set established. Future review may revise disposition.",
+        "ordinary_life": "No own ordinary-life evidence.",
+        "competence": "No individualized competence evidence from collective reply.",
+        "Japanese_voice": "Native name called; no individual speech/register established.",
+        "existing_predictions": "No new individual forecast assigned; prior predictions and missingness preserved.",
+        "prospective_tests": "No prospective or synthetic test assigned; no independent count/score/gain.",
+        "gaps": "Called in homeroom list with collective replies; no individualized decision/voice supplied. 0 indexed incidental/name occurrence.",
+        "narrators": "Megumin perspective in Explosions; this row retains its own direct/report/inference limits."
+      },
+      "cohort23_semantic_receiving_sha256": "46b88c379deb7f86878e435077cd06a61693097c1b8e3957ab50e7a70a48424a"
+    },
+    {
+      "character": "Sakiberry / さきべりー (named classroom roster)",
+      "identity": "Actual roster name distinct from Megumin wrong labeling of Dodonko; no individual acts joined by that mistake.",
+      "likely_tier": "0 indexed incidental/name occurrence",
+      "priority": "Cohort23 bounded discovery; individual proportional-artifact review remains open where stated.",
+      "evidence_distribution": "IN08 EXP01 U018P5-6; Actual named roster with collective replies; no individually assigned response.",
+      "substantive_responsibility": "No own decision, stable goal or consequence established by roster.",
+      "gaps": "Actual roster name distinct from Megumin wrong labeling of Dodonko; no individual acts joined by that mistake. 0 indexed incidental/name occurrence.",
+      "disposition_status": "BOUNDED_COHORT23_OCCURRENCE_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "source_access_type": "Actual named roster with collective replies; no individually assigned response.",
+      "not_final_unique_person_increment": true,
+      "cohort23_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_PARENTS_TEACHER_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_PARENTS_TEACHER_NATIVE_PROVENANCE.json"
+      ],
+      "cohort23_twelve_dimension_audit": {
+        "appearances": "IN08 EXP01 U018P5-6",
+        "direct_vs_reported": "Actual named roster with collective replies; no individually assigned response.",
+        "decisions_goals_constraints": "No own decision, stable goal or consequence established by roster.",
+        "relationships": "Actual Sakiberry name is distinct from Megumin misnaming Dodonko; no act joined by that mistake.",
+        "repeated_and_contrary": "Bounded occurrence; no stable tendency or adequately reviewed contrary set established. Future review may revise disposition.",
+        "ordinary_life": "No own ordinary-life evidence.",
+        "competence": "No individualized competence evidence from collective reply.",
+        "Japanese_voice": "Native name called; no individual speech/register established.",
+        "existing_predictions": "No new individual forecast assigned; prior predictions and missingness preserved.",
+        "prospective_tests": "No prospective or synthetic test assigned; no independent count/score/gain.",
+        "gaps": "Actual roster name distinct from Megumin wrong labeling of Dodonko; no individual acts joined by that mistake. 0 indexed incidental/name occurrence.",
+        "narrators": "Megumin perspective in Explosions; this row retains its own direct/report/inference limits."
+      },
+      "cohort23_semantic_receiving_sha256": "46b88c379deb7f86878e435077cd06a61693097c1b8e3957ab50e7a70a48424a"
+    },
+    {
+      "character": "Mary / メアリー (MAIN11 castle maid)",
+      "identity": "Named maid delivers Darkness summons; no identity join to Claire/Rain or other castle staff.",
+      "likely_tier": "0 indexed incidental named messenger",
+      "priority": "Cohort23 bounded discovery; individual proportional-artifact review remains open where stated.",
+      "evidence_distribution": "IN09 MAIN11 C1p003P215-217; Named maid appearance and own delivered message.",
+      "substantive_responsibility": "Delivers Darkness summons; no broader motive or future event completed.",
+      "gaps": "Named maid delivers Darkness summons; no identity join to Claire/Rain or other castle staff. 0 indexed incidental named messenger.",
+      "disposition_status": "BOUNDED_COHORT23_OCCURRENCE_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "source_access_type": "Named maid appearance and own delivered message.",
+      "not_final_unique_person_increment": true,
+      "cohort23_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_PARENTS_TEACHER_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_PARENTS_TEACHER_NATIVE_PROVENANCE.json"
+      ],
+      "cohort23_twelve_dimension_audit": {
+        "appearances": "IN09 MAIN11 C1p003P215-217",
+        "direct_vs_reported": "Named maid appearance and own delivered message.",
+        "decisions_goals_constraints": "Delivers Darkness summons; no broader motive or future event completed.",
+        "relationships": "Castle maid/message role; Claire/Rain/other staff joins unproved.",
+        "repeated_and_contrary": "Bounded occurrence; no stable tendency or adequately reviewed contrary set established. Future review may revise disposition.",
+        "ordinary_life": "Messenger task only, no stable daily-life taste.",
+        "competence": "Message delivery observed; no general skill inventory.",
+        "Japanese_voice": "Own message, no broad idiolect from incidental appearance.",
+        "existing_predictions": "No new individual forecast assigned; prior predictions and missingness preserved.",
+        "prospective_tests": "No prospective or synthetic test assigned; no independent count/score/gain.",
+        "gaps": "Named maid delivers Darkness summons; no identity join to Claire/Rain or other castle staff. 0 indexed incidental named messenger.",
+        "narrators": "Kazuma perspective in MAIN11; the named maid's delivered message is directly presented, without private access."
+      },
+      "cohort23_semantic_receiving_sha256": "46b88c379deb7f86878e435077cd06a61693097c1b8e3957ab50e7a70a48424a"
+    },
+    {
+      "character": "MAIN11 fan-letter writer A (occurrence slot)",
+      "identity": "First quoted letter, reported mother appraisal. Writer actual identity/truth/uniqueness unverified.",
+      "likely_tier": "0 indexed mediated letter occurrence",
+      "priority": "Cohort23 bounded discovery; individual proportional-artifact review remains open where stated.",
+      "evidence_distribution": "IN10 MAIN11 C1p003P230; First quoted fan letter, including reported maternal appraisal; identity/truth unverified.",
+      "substantive_responsibility": "Quoted writer message only; alleged rescue context not independently observed.",
+      "gaps": "First quoted letter, reported mother appraisal. Writer actual identity/truth/uniqueness unverified. 0 indexed mediated letter occurrence.",
+      "disposition_status": "BOUNDED_COHORT23_OCCURRENCE_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "source_access_type": "First quoted fan letter, including reported maternal appraisal; identity/truth unverified.",
+      "not_final_unique_person_increment": true,
+      "cohort23_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_PARENTS_TEACHER_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_PARENTS_TEACHER_NATIVE_PROVENANCE.json"
+      ],
+      "cohort23_twelve_dimension_audit": {
+        "appearances": "IN10 MAIN11 C1p003P230",
+        "direct_vs_reported": "First quoted fan letter, including reported maternal appraisal; identity/truth unverified.",
+        "decisions_goals_constraints": "Quoted writer message only; alleged rescue context not independently observed.",
+        "relationships": "Writer A and reported mother roles; joins/unique persons unproved.",
+        "repeated_and_contrary": "Bounded occurrence; no stable tendency or adequately reviewed contrary set established. Future review may revise disposition.",
+        "ordinary_life": "No verified independent ordinary-life evidence.",
+        "competence": "No independent writer/parent competence established.",
+        "Japanese_voice": "Quoted letter voice, no verified speaking identity or stable idiolect.",
+        "existing_predictions": "No new individual forecast assigned; prior predictions and missingness preserved.",
+        "prospective_tests": "No prospective or synthetic test assigned; no independent count/score/gain.",
+        "gaps": "First quoted letter, reported mother appraisal. Writer actual identity/truth/uniqueness unverified. 0 indexed mediated letter occurrence.",
+        "narrators": "Kazuma-framed quoted fan letter in MAIN11; writer identity and truth remain unverified, and parent appraisals remain mediated."
+      },
+      "cohort23_semantic_receiving_sha256": "46b88c379deb7f86878e435077cd06a61693097c1b8e3957ab50e7a70a48424a"
+    },
+    {
+      "character": "MAIN11 fan-letter writer B (occurrence slot)",
+      "identity": "Second quoted letter, reported father reading newspaper. Not proof of a new independently observed rescue.",
+      "likely_tier": "0 indexed mediated letter occurrence",
+      "priority": "Cohort23 bounded discovery; individual proportional-artifact review remains open where stated.",
+      "evidence_distribution": "IN10 MAIN11 C1p003P233-235; Second quoted fan letter and father/newspaper report; identity/truth unverified.",
+      "substantive_responsibility": "Quoted message and reported father reading only; no new independent rescue observation.",
+      "gaps": "Second quoted letter, reported father reading newspaper. Not proof of a new independently observed rescue. 0 indexed mediated letter occurrence.",
+      "disposition_status": "BOUNDED_COHORT23_OCCURRENCE_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "source_access_type": "Second quoted fan letter and father/newspaper report; identity/truth unverified.",
+      "not_final_unique_person_increment": true,
+      "cohort23_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_PARENTS_TEACHER_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_PARENTS_TEACHER_NATIVE_PROVENANCE.json"
+      ],
+      "cohort23_twelve_dimension_audit": {
+        "appearances": "IN10 MAIN11 C1p003P233-235",
+        "direct_vs_reported": "Second quoted fan letter and father/newspaper report; identity/truth unverified.",
+        "decisions_goals_constraints": "Quoted message and reported father reading only; no new independent rescue observation.",
+        "relationships": "Writer B and reported father roles; joins/unique persons unproved.",
+        "repeated_and_contrary": "Bounded occurrence; no stable tendency or adequately reviewed contrary set established. Future review may revise disposition.",
+        "ordinary_life": "Reported newspaper act only, no verified stable habit.",
+        "competence": "No independent writer/parent competence established.",
+        "Japanese_voice": "Quoted letter voice, no verified speaking identity or stable idiolect.",
+        "existing_predictions": "No new individual forecast assigned; prior predictions and missingness preserved.",
+        "prospective_tests": "No prospective or synthetic test assigned; no independent count/score/gain.",
+        "gaps": "Second quoted letter, reported father reading newspaper. Not proof of a new independently observed rescue. 0 indexed mediated letter occurrence.",
+        "narrators": "Kazuma-framed quoted fan letter in MAIN11; writer identity and truth remain unverified, and parent appraisals remain mediated."
+      },
+      "cohort23_semantic_receiving_sha256": "46b88c379deb7f86878e435077cd06a61693097c1b8e3957ab50e7a70a48424a"
+    },
+    {
+      "character": "MAIN11 fan-letter writer C (occurrence slot)",
+      "identity": "Third quoted letter, reported parent appraisal and rest wish. No automatic sibling/other-writer join.",
+      "likely_tier": "0 indexed mediated letter occurrence",
+      "priority": "Cohort23 bounded discovery; individual proportional-artifact review remains open where stated.",
+      "evidence_distribution": "IN10 MAIN11 C1p003P237; Third quoted fan letter and parent appraisal/rest wish; identity/truth unverified.",
+      "substantive_responsibility": "Quoted message only, no performed rest or independently observed rescue.",
+      "gaps": "Third quoted letter, reported parent appraisal and rest wish. No automatic sibling/other-writer join. 0 indexed mediated letter occurrence.",
+      "disposition_status": "BOUNDED_COHORT23_OCCURRENCE_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "source_access_type": "Third quoted fan letter and parent appraisal/rest wish; identity/truth unverified.",
+      "not_final_unique_person_increment": true,
+      "cohort23_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_PARENTS_TEACHER_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_PARENTS_TEACHER_NATIVE_PROVENANCE.json"
+      ],
+      "cohort23_twelve_dimension_audit": {
+        "appearances": "IN10 MAIN11 C1p003P237",
+        "direct_vs_reported": "Third quoted fan letter and parent appraisal/rest wish; identity/truth unverified.",
+        "decisions_goals_constraints": "Quoted message only, no performed rest or independently observed rescue.",
+        "relationships": "Writer C and reported parent roles; no automatic sibling/writer join.",
+        "repeated_and_contrary": "Bounded occurrence; no stable tendency or adequately reviewed contrary set established. Future review may revise disposition.",
+        "ordinary_life": "Rest wish is reported, not an observed settled preference.",
+        "competence": "No independent writer/parent competence established.",
+        "Japanese_voice": "Quoted letter voice, no verified speaking identity or stable idiolect.",
+        "existing_predictions": "No new individual forecast assigned; prior predictions and missingness preserved.",
+        "prospective_tests": "No prospective or synthetic test assigned; no independent count/score/gain.",
+        "gaps": "Third quoted letter, reported parent appraisal and rest wish. No automatic sibling/other-writer join. 0 indexed mediated letter occurrence.",
+        "narrators": "Kazuma-framed quoted fan letter in MAIN11; writer identity and truth remain unverified, and parent appraisals remain mediated."
+      },
+      "cohort23_semantic_receiving_sha256": "46b88c379deb7f86878e435077cd06a61693097c1b8e3957ab50e7a70a48424a"
+    },
+    {
+      "character": "Parents referenced in MAIN11 three fan letters (group/role slots)",
+      "identity": "Mother in A, father in B, parents in C are unresolved reported roles. No unique-person count or merge to Hyo/Yui.",
+      "likely_tier": "0 indexed mediated group; individual splitting pending",
+      "priority": "Cohort23 bounded discovery; individual proportional-artifact review remains open where stated.",
+      "evidence_distribution": "IN10 MAIN11 C1p003P230/233/237; Reported mother in A/father in B/parents in C; unresolved group/role slots.",
+      "substantive_responsibility": "Appraisals and one reading act reported through quoted letters, not independently watched.",
+      "gaps": "Mother in A, father in B, parents in C are unresolved reported roles. No unique-person count or merge to Hyo/Yui. 0 indexed mediated group; individual splitting pending.",
+      "disposition_status": "BOUNDED_COHORT23_OCCURRENCE_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "source_access_type": "Reported mother in A/father in B/parents in C; unresolved group/role slots.",
+      "not_final_unique_person_increment": true,
+      "cohort23_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_PARENTS_TEACHER_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_PARENTS_TEACHER_NATIVE_PROVENANCE.json"
+      ],
+      "cohort23_twelve_dimension_audit": {
+        "appearances": "IN10 MAIN11 C1p003P230/233/237",
+        "direct_vs_reported": "Reported mother in A/father in B/parents in C; unresolved group/role slots.",
+        "decisions_goals_constraints": "Appraisals and one reading act reported through quoted letters, not independently watched.",
+        "relationships": "Role group needs cautious individual splitting; no join to Yuiyui/Hyo or proved count.",
+        "repeated_and_contrary": "Bounded occurrence; no stable tendency or adequately reviewed contrary set established. Future review may revise disposition.",
+        "ordinary_life": "No independently established habits/budget; report bounds remain.",
+        "competence": "No independently established competence.",
+        "Japanese_voice": "No own direct parent voice established from these reports.",
+        "existing_predictions": "No new individual forecast assigned; prior predictions and missingness preserved.",
+        "prospective_tests": "No prospective or synthetic test assigned; no independent count/score/gain.",
+        "gaps": "Mother in A, father in B, parents in C are unresolved reported roles. No unique-person count or merge to Hyo/Yui. 0 indexed mediated group; individual splitting pending.",
+        "narrators": "Kazuma-framed fan-letter quotations in MAIN11 relay the parent-role reports; no direct parent viewpoint or verified individual count."
+      },
+      "cohort23_semantic_receiving_sha256": "46b88c379deb7f86878e435077cd06a61693097c1b8e3957ab50e7a70a48424a"
     }
   ],
-  "working_row_count_not_population_denominator": 193,
+  "working_row_count_not_population_denominator": 207,
   "global_census_closed": false,
   "final_tiers_assigned": false,
   "global_completion_percentage": null,
@@ -4797,9 +5397,10 @@
     "Rex scoped conditional Tier3 three-rule model/monograph and Sophie/Terry separate revisable Tier1 profiles cohort19 full publication gate closed; reliability provisional",
     "Funifura/Dodonko separate revisable Tier2 monographs, Nerimaki Tier1 profile with Arue attribution correction and three Tier0 occurrences cohort20 full publication gate closed; no new reconstruction.",
     "Cohort21 Arue Tier2 monograph,Soketto/Bukkorori separate conditional Tier3 candidates,father compact Tier1 and two Tier0 occurrences;semantic receiving complete,exact publication pending.",
-    "Cohort22 Mitsurugi conditional Tier3 candidate and two separate existing-ledger Tier1 role profiles; semantic receiving complete, exact publication pending."
+    "Cohort22 Mitsurugi conditional Tier3 candidate and two separate existing-ledger Tier1 role profiles; semantic receiving complete, exact publication pending.",
+    "Cohort23 Yuiyui/Pucchin conditional Tier3 candidates and Hyoizaburoo Tier2 monograph-only; fourteen bounded new discovery records retain source-plane/identity gaps and candidate profile review where due. Semantic receiving complete, exact publication pending."
   ],
-  "current_actual_individual_audit_scope": "Fifteen actual receipts bind5,026knownBASE/35text members/17text objects plus5actual reference images in2more objects:19total. No fresh whole-source/ruby/residual/image-set/admission/independent pass. Current rows10/127/128 change,190others exact; carried cohort21 closure makes9rows differ from parent6cdc432f,184others exact. Four same-root original English first bodies/two pairs retain zero regeneration/repair,strong cues/generic rivals,unsupported duration/possession/staging,shared preparation and R02/R04 unprobed. Namesetフィオ/クレメア role-unmapped, no duplicate people. No independent accuracy,Japanese adequacy,grade or confidence gain.",
+  "current_actual_individual_audit_scope": "Eleven actual known-source receipts bind3992BASE/22text members/7text objects plus one actual FAN-MEM reference image in eighth object. No new whole-source/ruby/residual/image-set/admission/independent pass. Current rows39/40/44 change,190others exact;14new candidate/role/roster/mediated records are not14proved unique people. Carried cohort22 closure makes6entering rows differ from parent9b191f37,187others exact. Twelve same-root original English firsts/six pairs retain strong cues/generic rivals,shared endpoints,unsupported context/history/spatial/timing assumptions and unprobed source mechanisms with0regeneration/feedback repair. One failed YY-H01-B executable launch retried identical text, not regenerated. No independent accuracy,Japanese adequacy,grade or confidence gain.",
   "historical_integrity": "MG02-I01/I02 through MG05, original blank fields, CP outcomes, letters-as-NT and preYORI04SEC01 scope remain unchanged. New source-known comparisons are retrospective; hypotheticals are not source validation.",
   "current_receipt_pins": [
     {
@@ -6675,7 +7276,7 @@
     "updated_utc": "2026-10-20T17:44:03.663249+00:00",
     "scope": "Cohorts01-18 have closed exact-source gates at declared scopes: twenty-one scoped secondary conditional-model subjects/27model bodies,fifteen bounded profiles and four Tier2monograph-only Nos,Rionor,Feit,Chomusuke.187qualifiedrecords include groups,aliases and occurrence slots,not final unique people. Reliability remains provisional; full census/final tiers/program open."
   },
-  "canonical_status": "Mitsurugi provisional Tier3 monograph/model and separate role-bounded Tier1 companion profiles received; exact publication pending. Thirty entering model bodies/history preserved.",
+  "canonical_status": "Yuiyui and Pucchin provisional Tier3 monographs/models and Hyoizaburoo Tier2 monograph-only received; exact publication pending. Thirty-one entering model bodies/history preserved.",
   "cohort19_current_receiving": {
     "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
     "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_REX_SOPHIE_TERRY_COHORT_19_RECEIVING_AND_PROVENANCE.json",
@@ -7067,7 +7668,7 @@
     "updated_utc": "2026-10-20T22:12:04.560586+00:00"
   },
   "cohort22_current_receiving": {
-    "status": "SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+    "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
     "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MITSURUGI_COMPANIONS_COHORT_22_RECEIVING_AND_PROVENANCE.json",
     "semantic_receiving_sha256": "ba66135f2044d0f9649d2280ba4fcb6f505dcd6db9b16f433e934211aa978936",
     "candidate_models": 31,
@@ -7101,6 +7702,98 @@
       191,
       192
     ],
-    "untouched_existing_rows_relative_parent": 184
+    "untouched_existing_rows_relative_parent": 184,
+    "publication_pending_at_authorship_history": "SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+    "publication_gate_close": {
+      "source": "9b191f37ae735b24786a52a52f46d10e82609771",
+      "tree": "486141c171ff750e54d8e5a155bd4d9a6a485617",
+      "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MITSURUGI_COMPANIONS_COHORT22_PUBLICATION_GATE_CLOSE.json",
+      "gate_sha256": "6ce3347d769e2ef95b67d31a0f08e25b78a3a4b6edeaad51aa3a7294eb7006c2",
+      "source_run": 39516379860,
+      "housekeeping_run": 39517020268,
+      "final_run": 39517069341,
+      "full_tests_each": 385,
+      "published_project_paths": 1216,
+      "current_models": 31,
+      "no_independent_accuracy_or_confidence_gain": true
+    },
+    "published_authority_reload_sha256": "2886b34b8514290b0f121a97fd5c176a7c8afedc38ba770e7e54301549d458ad"
+  },
+  "prior_current_metadata_before_cohort22_gate_close": {
+    "scope": "Prior source programs/cohorts/focused clarification retain closed declared gates. Cohort22 semantically received; exact containing publication pending. Candidate31 models/25scoped secondary subjects,21bounded profiles,seven monograph-only subjects and193nonfinal records. Full census/tiers/program open.",
+    "canonical_status": "Mitsurugi provisional Tier3 monograph/model and separate role-bounded Tier1 companion profiles received; exact publication pending. Thirty entering model bodies/history preserved.",
+    "current_actual_individual_audit_scope": "Fifteen actual receipts bind5,026knownBASE/35text members/17text objects plus5actual reference images in2more objects:19total. No fresh whole-source/ruby/residual/image-set/admission/independent pass. Current rows10/127/128 change,190others exact; carried cohort21 closure makes9rows differ from parent6cdc432f,184others exact. Four same-root original English first bodies/two pairs retain zero regeneration/repair,strong cues/generic rivals,unsupported duration/possession/staging,shared preparation and R02/R04 unprobed. Namesetフィオ/クレメア role-unmapped, no duplicate people. No independent accuracy,Japanese adequacy,grade or confidence gain.",
+    "updated_utc": "2026-10-20T23:27:45.174708+00:00"
+  },
+  "cohort22_publication_resolution": {
+    "source": "9b191f37ae735b24786a52a52f46d10e82609771",
+    "tree": "486141c171ff750e54d8e5a155bd4d9a6a485617",
+    "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MITSURUGI_COMPANIONS_COHORT22_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "6ce3347d769e2ef95b67d31a0f08e25b78a3a4b6edeaad51aa3a7294eb7006c2",
+    "source_run": 39516379860,
+    "housekeeping_run": 39517020268,
+    "final_run": 39517069341,
+    "full_tests_each": 385,
+    "published_project_paths": 1216,
+    "current_models": 31,
+    "no_independent_accuracy_or_confidence_gain": true
+  },
+  "prior_current_metadata_before_cohort23": {
+    "status": "INCREMENTAL_193_QUALIFIED_RECORDS_NOT_FINAL_INDIVIDUAL_DENOMINATOR",
+    "working_row_count_not_population_denominator": 193,
+    "scope": "Cohorts01-22 and focused source qualifications have closed exact-source gates at their declared scopes. Thirty-one models/twenty-five scoped secondary subjects, twenty-one bounded profiles, seven monograph-only subjects and193nonfinal records; full census/tiers/program open.",
+    "canonical_status": "Cohort22 full exact-source publication gate and fresh authority reload closed. Informed diagnostics retain adverse/generic/unprobed findings and original bodies, with no independent accuracy or confidence gain.",
+    "current_actual_individual_audit_scope": "Cohort22:5026knownBASE/35text members/19objects plus5actual reference views; no fresh whole-source/ruby/residual/image-set/admission or independent pass. Publication-status rows10/127/128 differ from published source,190others exact. All entering30models/history and4original firsts preserved. Full program remains active.",
+    "updated_utc": "2026-10-20T23:55:18.557669+00:00"
+  },
+  "cohort23_current_receiving": {
+    "status": "SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+    "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_CRIMSON_PARENTS_TEACHER_COHORT_23_RECEIVING_AND_PROVENANCE.json",
+    "semantic_receiving_sha256": "46b88c379deb7f86878e435077cd06a61693097c1b8e3957ab50e7a70a48424a",
+    "candidate_models": 33,
+    "candidate_scoped_secondary_model_subjects": 27,
+    "bounded_profiles": 21,
+    "monograph_only_subjects": [
+      "Nos",
+      "Rionor",
+      "Feit",
+      "Chomusuke",
+      "Funifura",
+      "Dodonko",
+      "Arue",
+      "Hyoizaburoo"
+    ],
+    "records_not_final_people": 207,
+    "changed_rows": [
+      39,
+      40,
+      44
+    ],
+    "untouched_existing_rows_relative_current": 190,
+    "new_rows": [
+      193,
+      194,
+      195,
+      196,
+      197,
+      198,
+      199,
+      200,
+      201,
+      202,
+      203,
+      204,
+      205,
+      206
+    ],
+    "parent_changed_rows": [
+      10,
+      39,
+      40,
+      44,
+      127,
+      128
+    ],
+    "untouched_existing_rows_relative_parent": 187
   }
 }
