@@ -1,0 +1,72 @@
+{
+  "schema": "konosuba.secondary.scenario-inputs.v1",
+  "created_utc": "2026-10-20T21:06:17.469097+00:00",
+  "subject": "Soketto",
+  "source_known": true,
+  "same_informed_model_author_case_designer_output_author_assessor": true,
+  "model_pre_case_freeze_sha256": "05a6562c0f2e7e7a5cf9a37add927ceb126543de5bfe036847f5e57fb8bffd6f",
+  "model_body_sha256": "95ff070b1d244446ac39b47383afc21f3bdffb9549213e1f0315889f0ff295b5",
+  "case_count": 4,
+  "contrast_pairs": 2,
+  "cases": [
+    {
+      "case_id": "SK-H01-A",
+      "pair_id": "SK-H01",
+      "condition": "strong preference for one prospective outcome",
+      "exact_prompt": "Use the frozen Soketto conditional model in this feasible modern human analogue. Everyone is an adult. There is no magic, hidden fact, unstated agreement or guaranteed later outcome. Write the next spoken response in English and, if appropriate, one immediate action of this subject, 80–130 words. Describe only the next minute. Do not supply another person’s new speech or action, invent equipment/history, or complete future events. Preserve fallible appraisal and situation-dependent voice; do not turn the subject into an ideal professional. Give only the response, without analysis or commentary.\n\nSoketto is an adviser at a community centre. It is Tuesday at 16:00. Adult client June is at the opposite side of the small table. On the table are two printed workshop availability notices that Soketto has checked herself. Cedar meets Thursday 18:00–19:00; Harbor meets Friday 18:00–19:00. Each has one available place, and either can be registered for at the front desk today. These are ordinary verified facts, not predictions or confidential information. June has made no choice. Soketto believes that hearing about Harbor could lead June to choose it instead of Cedar. She has no information that either workshop will harm June.\n\nSoketto strongly wants June to choose Cedar, because she personally thinks that group could become good companions for June. That is her preference and belief, not verified future knowledge.\n\nJune asks, “Tell me both available workshops and their times. I want the real options before I choose.” Soketto has heard the request. June has not said anything else.",
+      "input_sha256": "940a82ab1000e9532f12eb0bf55817e3d8ee0bff9301eb86a6444cd4be71d253",
+      "rules": [
+        "SK-R02"
+      ]
+    },
+    {
+      "case_id": "SK-H01-B",
+      "pair_id": "SK-H01",
+      "condition": "no preference between prospective outcomes",
+      "exact_prompt": "Use the frozen Soketto conditional model in this feasible modern human analogue. Everyone is an adult. There is no magic, hidden fact, unstated agreement or guaranteed later outcome. Write the next spoken response in English and, if appropriate, one immediate action of this subject, 80–130 words. Describe only the next minute. Do not supply another person’s new speech or action, invent equipment/history, or complete future events. Preserve fallible appraisal and situation-dependent voice; do not turn the subject into an ideal professional. Give only the response, without analysis or commentary.\n\nSoketto is an adviser at a community centre. It is Tuesday at 16:00. Adult client June is at the opposite side of the small table. On the table are two printed workshop availability notices that Soketto has checked herself. Cedar meets Thursday 18:00–19:00; Harbor meets Friday 18:00–19:00. Each has one available place, and either can be registered for at the front desk today. These are ordinary verified facts, not predictions or confidential information. June has made no choice. Soketto believes that hearing about Harbor could lead June to choose it instead of Cedar. She has no information that either workshop will harm June.\n\nSoketto has no preference between June choosing Cedar and June choosing Harbor. She thinks either group could become good companions for June, without verified future knowledge.\n\nJune asks, “Tell me both available workshops and their times. I want the real options before I choose.” Soketto has heard the request. June has not said anything else.",
+      "input_sha256": "dd6b81b7089b75fef4c41ce0cb38ba676cf4911a7ea06960426818354b2c2302",
+      "rules": [
+        "SK-R02"
+      ]
+    },
+    {
+      "case_id": "SK-H02-A",
+      "pair_id": "SK-H02",
+      "condition": "acknowledged intrusion with apology",
+      "exact_prompt": "Use the frozen Soketto conditional model in this feasible modern human analogue. Everyone is an adult. There is no magic, hidden fact, unstated agreement or guaranteed later outcome. Write the next spoken response in English and, if appropriate, one immediate action of this subject, 80–130 words. Describe only the next minute. Do not supply another person’s new speech or action, invent equipment/history, or complete future events. Preserve fallible appraisal and situation-dependent voice; do not turn the subject into an ideal professional. Give only the response, without analysis or commentary.\n\nSoketto is giving informal advice at a community centre. It is Wednesday at 16:00. Adult acquaintance Tomas is across the small table; a chair and the public registration notice are beside it. Soketto has checked the notice: the form can be handed to the front desk until 17:00 today. Yesterday she personally saw Tomas follow her after she had told him to stop. Both know that happened. She has not promised him a consultation or free service today. There is no present physical attack or emergency.\n\nTomas says, “Following you after you told me to stop was wrong. I am sorry, and I will not do that again.”\n\nTomas then asks the same narrow request, “Can I have one five-minute consultation now about this registration deadline?” Nothing else has happened. Give her immediate decision and first reply; a five-minute consultation cannot be completed inside the requested one-minute response.",
+      "input_sha256": "4e09867e0dadcc097e4e847aae7be2a9a642251d36eb89ed5b41b32e56f42abf",
+      "rules": [
+        "SK-R03",
+        "SK-R01"
+      ]
+    },
+    {
+      "case_id": "SK-H02-B",
+      "pair_id": "SK-H02",
+      "condition": "acknowledged intrusion with justification",
+      "exact_prompt": "Use the frozen Soketto conditional model in this feasible modern human analogue. Everyone is an adult. There is no magic, hidden fact, unstated agreement or guaranteed later outcome. Write the next spoken response in English and, if appropriate, one immediate action of this subject, 80–130 words. Describe only the next minute. Do not supply another person’s new speech or action, invent equipment/history, or complete future events. Preserve fallible appraisal and situation-dependent voice; do not turn the subject into an ideal professional. Give only the response, without analysis or commentary.\n\nSoketto is giving informal advice at a community centre. It is Wednesday at 16:00. Adult acquaintance Tomas is across the small table; a chair and the public registration notice are beside it. Soketto has checked the notice: the form can be handed to the front desk until 17:00 today. Yesterday she personally saw Tomas follow her after she had told him to stop. Both know that happened. She has not promised him a consultation or free service today. There is no present physical attack or emergency.\n\nTomas says, “I did follow you after you told me to stop, but I was just curious. I do not think that was wrong.”\n\nTomas then asks the same narrow request, “Can I have one five-minute consultation now about this registration deadline?” Nothing else has happened. Give her immediate decision and first reply; a five-minute consultation cannot be completed inside the requested one-minute response.",
+      "input_sha256": "300c90f76046c90b36ce4b6426c24a5665aa99c7075dcc1f1b98ea7110e374db",
+      "rules": [
+        "SK-R03",
+        "SK-R01"
+      ]
+    }
+  ],
+  "controls": {
+    "SK_H01": "Same two verified options,request,setting,time,means and belief disclosure may change choice. Preference/belief about favored outcome changes; not evidence of real clairvoyance or a material self-benefit.",
+    "SK_H02": "Same known past intrusion,available limited factual service,request,time and absence of present attack. Current acknowledgment changes apology/commitment versus justification; compound speech-act cue,not isolated remorse."
+  },
+  "limits": [
+    "H01 explicit preference and explicit full-information request make generic paternalism,honesty and self-interest strong rivals. Neutral condition also changes evaluation from Cedar-favored to either-group,so this is a preference/appraisal contrast,not a hidden clean causal estimate.",
+    "H02 tests a narrow service decision after a supplied prior act. A promise is not performed reform; an offer/start is not a completed five-minute service or full pardon.",
+    "SK-R01 is weakly engaged through supplied facts/procedure and cannot test actual divination,accuracy or source access. No magic,actual danger,Japanese or sustained relationship trial.",
+    "General directions,response possibilities and generic rivals were anticipated by the same informed root before exact inputs. All cases/contrasts visible to output author; no pristine blind or independent designer/assessor.",
+    "Only the exact serialized hypothetical inputs are new. These are not new source forecasts,source validation,StageD principal/party/transfer successors or an independent accuracy/confidence estimate."
+  ],
+  "regenerations_allowed": 0,
+  "repairs_allowed": 0,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": 0,
+  "full_program_complete": false
+}

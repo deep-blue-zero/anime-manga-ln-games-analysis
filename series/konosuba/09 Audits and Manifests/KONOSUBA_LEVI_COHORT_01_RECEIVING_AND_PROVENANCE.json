@@ -1,0 +1,211 @@
+{
+  "schema": "KONOSUBA_LEVI_COHORT09_RECEIVING_AND_PROVENANCE_V1",
+  "recorded_utc": "2026-10-20T06:13:07.283554+00:00",
+  "source_boundary": "de46f030039b8420d18756dc3d88e59aa1adf5f8",
+  "status": "SCOPED_SEMANTIC_AND_FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+  "subject": "Levi / Revi / レヴィ",
+  "tier": "Scoped3, provisional predictive reliability",
+  "current_model_bodies": 15,
+  "fourteen_entering_models_exact": [
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_AQUA_RECONSTRUCTION_MODEL.md",
+      "bytes": 64491,
+      "sha256": "2f63ef1000c74a2bf105c3cfbbd4258f39e8abe9cf1544fac25768673f17c430"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CHRIS_ERIS_RECONSTRUCTION_MODEL.md",
+      "bytes": 24777,
+      "sha256": "213de30d6bfab2fb3a9d2c47c2158b6425a598814b92caa855913f08bd997083"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+      "bytes": 51278,
+      "sha256": "3bec39a1014c50c6704e920b076076ecd2d82ffab0f987fd379844cc68783ee1"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_DARKNESS_RECONSTRUCTION_MODEL.md",
+      "bytes": 62581,
+      "sha256": "e54f45b3aaa74197e76ec917888416b08683ef2b7194586ba060b93979e78bc9"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_DUST_RECONSTRUCTION_MODEL.md",
+      "bytes": 20922,
+      "sha256": "3ef260ea7a64f350c8c09448020a96e18ed0eed75af5acd417193805bff8655f"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_HOOST_RECONSTRUCTION_MODEL.md",
+      "bytes": 25873,
+      "sha256": "e973e7f325238ab71fa0e10e3588d32c8fc3bf03dd827bb32e9120789c4742c7"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_IRIS_RECONSTRUCTION_MODEL.md",
+      "bytes": 20464,
+      "sha256": "75afb94b5723af3620ea5fabe1d8a7c742645bb56de938c605a3d11999a42c29"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+      "bytes": 61516,
+      "sha256": "6fe7b325666e339ed86edba70f8d1f9491705f66a6ecdc31eeb44a5bed7a89e4"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_KOMEKKO_RECONSTRUCTION_MODEL.md",
+      "bytes": 21826,
+      "sha256": "0be5bfa9097547a3d705b5a8216dd395f714382b65f6fa4cad499504641065c0"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_MEGUMIN_RECONSTRUCTION_MODEL.md",
+      "bytes": 60891,
+      "sha256": "cbff1ec4266e8d6908b3d58af9870aa7f981fe40f3a573ed29da345e1f1d801f"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_PARTY_INTERACTION_MODEL.md",
+      "bytes": 67885,
+      "sha256": "cf2082e63718e1c51c171fb9225b0be5da603c1e85900f397c36e233af6d3f8e"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_VANIR_RECONSTRUCTION_MODEL.md",
+      "bytes": 25561,
+      "sha256": "081b6bef4df5584837d2a6fb565f746aa3d9c00a3c925c592596d2d3bb3186df"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_WIZ_RECONSTRUCTION_MODEL.md",
+      "bytes": 24361,
+      "sha256": "b8248785ff01251738798121a3ac1eea06b576913c1ea436e97fc22720146b89"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_YUNYUN_RECONSTRUCTION_MODEL.md",
+      "bytes": 25474,
+      "sha256": "4565a9089c9bac6c6f694469f27920d26f9ab1b44275c62c7160692575c765eb"
+    }
+  ],
+  "artifacts": [
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_LEVI_CHARACTER_MONOGRAPH.md",
+      "bytes": 18979,
+      "sha256": "f61c6e6aa635f4b6cb3ad58e8b7bc5aff15832aade7b5cb66e4fc8943601a009"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_LEVI_RECONSTRUCTION_MODEL.md",
+      "bytes": 23809,
+      "sha256": "dd3b48dba631c87e7c0fe604f0cb5a94dd618e5e77b9d2c781491b6c7b7b3c46"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_LEVI_EVIDENCE_INDEX.md",
+      "bytes": 11616,
+      "sha256": "26c673904d6e9a82166e2b72fbc4306b1b44ede9e47f122a84c874068f735829"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/LEVI_EXPANDED_V1_EVIDENCE/LEVI_INTERNAL_HYPOTHETICAL_SCENARIOS_01.json",
+      "bytes": 3801,
+      "sha256": "4dfa636fabbf3c55769d97f11e976b45e5d540088e69a94381f8ccac0e956e25"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/LEVI_EXPANDED_V1_EVIDENCE/LEVI_FIRST_OUTPUTS_01.json",
+      "bytes": 2908,
+      "sha256": "d337d3c3ed4bb2a0f0db591ca6e4c13bf157ff5139e3b56d509690df08513a5e"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/LEVI_EXPANDED_V1_EVIDENCE/LEVI_INTERNAL_ASSESSMENT_01.json",
+      "bytes": 2679,
+      "sha256": "a0dd9ebc3ad332f15597de92c05dcea21a7da77ab1e40996bdaf86a261c884e2"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/LEVI_EXPANDED_V1_EVIDENCE/LEVI_NATIVE_AND_DERIVATIVE_PROVENANCE_01.json",
+      "bytes": 4671,
+      "sha256": "01d29dc077b92e60add4ed0298e3432a1d170d55643c1785e62b353d8289cdf2"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/LEVI_EXPANDED_V1_EVIDENCE/LEVI_CURRENT_EVIDENCE_RECEIVING_01.json",
+      "bytes": 4712,
+      "sha256": "95ad397e88e31b4cdd8f1e37aaa4fd4adbf7f2d724004473a85d1548c187202f"
+    }
+  ],
+  "working_census_input_sha256": "ea7247dbdac7c3b12f8e010ce408326b61ce1fff7db87ff6d6b4461146690674",
+  "canonical_census_change_controls": {
+    "targeted_prior_rows": [
+      "Prince Levi / Revi",
+      "Gilbert / Chio / Otohime / Temiren / 21",
+      "Other TRPG Core PCs / professionals / unnamed actors",
+      "Rize / Raina",
+      "Ain / Rod / Thomas / Jack"
+    ],
+    "untouched_prior_rows_exact": 152,
+    "new_individual_rows": 11,
+    "historical_aggregate_rows_retained": 3,
+    "open_discovery_bucket_not_a_person": true,
+    "fourteen_entering_model_bodies_unchanged": true,
+    "global_census_closed": false,
+    "final_tiers_assigned": false,
+    "global_completion_percentage": null
+  },
+  "bounded_profile_subjects": [
+    "ライズ (EXP03 warrior; historical Rize retrieval)",
+    "Raina / ライナ (EXP03 thief)",
+    "Ain / アイン (EXP03 trial-party leader)",
+    "Rod / ロッド (EXP03 spear user)",
+    "Tomas / トマス (historical Thomas retrieval)",
+    "Jack / ジャック (EXP03 archer)"
+  ],
+  "three_historical_group_rows_and_open_bucket_not_final_population": true,
+  "current_full_ledger_receiving": "All ten responsibilities/eleven physical files actually received before cohort, at literal and disclosed exact prior-semantic reuse scopes; appendices are retrospective analysis, no new primary pass.",
+  "actual_native_scope": {
+    "MAIN10_DUST04_BASE_slots_in_current_record": 1048,
+    "EXP03_trial_party_BASE_slots_in_current_record": 305,
+    "new_global_unique_primary_whole_book_ruby_image_or_independent_credit": 0
+  },
+  "exercises": {
+    "same_informed_author": true,
+    "pairs": 2,
+    "first_bodies": 4,
+    "generic_prudence_and_near_canonical_rivals": true,
+    "hidden_truth_bodies_exactly_identical": true,
+    "administrative_English_and_possible_over_optimization_retained": true,
+    "new_source_trials": 0,
+    "independent_tests": 0,
+    "accuracy_percentage": null,
+    "confidence_gain": false,
+    "native_human_or_acoustic_adequacy": false
+  },
+  "name_reference_receiving": "All three authored bodies, major relationships, intro/middle/conclusion and source-return/rule limits reviewed in LEVI_CURRENT_EVIDENCE_RECEIVING_01.json. Private allegations and late intention are not earlier observed conduct; Leen own stake and unresolved exact cheating technique retained.",
+  "protected_histories": {
+    "immutable66": true,
+    "historical72_at_frozen_revision": true,
+    "four_scores": true,
+    "Dust_original14blank_fields": true,
+    "SI_SY_original28nulls": [
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/IRIS_EXPANDED_V1_EVIDENCE/IRIS_SCOPED_SOURCE_COMMITMENTS_01.json",
+        "sha256": "8f3f4e549a3a84d6dd041c7686376053f1031fcbff6be9776f3d0396cfc20691"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/YUNYUN_EXPANDED_V1_EVIDENCE/YUNYUN_SCOPED_SOURCE_COMMITMENTS_01.json",
+        "sha256": "27626b8e17a462273fb2b23e488ada364f70e960ad01767af3045a5d8ddd9607"
+      }
+    ],
+    "prior_Hoost_monograph_model_index_lineage_first_outputs_erratum_gates": true,
+    "unrelated_scratch80": true
+  },
+  "publication": "Exact candidate review/preflight/nonforced push/remote entire tree+changed blobs/source audit/HK/final actual-source audit/status/fresh reload remain required. Prior de46 audit does not certify this candidate.",
+  "designated_ownership": "No curator/evaluator or five global housekeeping outputs authored. New eligible discovery may lag; no existing evidence reference invalidated.",
+  "remaining": "Full all-individual/event/alias/incidental dispositions, further earned artifacts, seven expanded specialists and extended/full-series syntheses, six separate StageD principal-party-transfer revisions, designated curation/evaluation/integration and component/release/final-entry audits.",
+  "full_program_complete": false,
+  "publication_pending_status_at_authorship": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_CONTAINING_PUBLICATION_GATE_PENDING",
+  "publication_resolution": {
+    "status": "SCOPED_TIER3_FULL_EXACT_SOURCE_GATE_CLOSED",
+    "source": "02a355704ac14db3455f1f738c92a6c576e78746",
+    "tree": "6b6e5af77b4c7f1bbe54b567f5d72a4e5c3da046",
+    "closed_utc": "2026-10-20T06:31:03.624178+00:00",
+    "gate_path": "09 Audits and Manifests/KONOSUBA_LEVICOHORT01_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "dc8ca3f71a3c6c9ecf565da32c2ac18f605ef6aedf3e3de32bdbff28a34d6f07",
+    "source_run": 39379825295,
+    "housekeeping_run": 39380153236,
+    "final_run": 39380197761,
+    "all_remote_paths": 9215,
+    "all_changed_streams": 29,
+    "full_tests_source_and_final": 385,
+    "fresh_project_reload_paths": 1039,
+    "nine_scoped_model_subjects_six_bounded_profiles_fifteen_models": true,
+    "full_program_complete": false
+  },
+  "published_authority_reload_sha256": "d3f1e85cb7c3f7a768698da1c07f20ec1fefc1c47dbc44bf62048f9e4fe2b8a4"
+}
