@@ -1,0 +1,166 @@
+{
+  "schema": "KONOSUBA_MAIN17_EXCLUDED_TEN_LEDGER_APPEND_DECISIONS_V1",
+  "source_id": "MAIN-17",
+  "ten_current_prefix_controls": [
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "bytes": 321461,
+      "sha256": "ef7409c2975b8982d5b6e357d168bb5971872bb9db67c2afaf1d18a35ad42e4e"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "bytes": 238257,
+      "sha256": "8a38ae4c5dfcc91a0e41524ad702782cdf20bce868673a4da18539e491a4b830"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "bytes": 808933,
+      "sha256": "09c5d73b6a9db4b62b54624bab7f332fef06538af7f053d8103c461b1e764e54"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "bytes": 619700,
+      "sha256": "ec72172ff93fc558be334b8a3d782a9762dcfc23168a5944326a93c2dac6e08e"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "bytes": 215358,
+      "sha256": "f1866be26dd401c9cc4257b2c7355ae461e1c5a095d2505d446e94c36c20659c"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "bytes": 207931,
+      "sha256": "77e5b5c9e455e8688ebc4364bef37037a044aac2bc62c8fcdfd66745dda624d0"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "bytes": 233488,
+      "sha256": "34d5fed517b20bb99c99694a547485a3f65a82c2a838908915b73fb4e7c5cc89"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "bytes": 196293,
+      "sha256": "c5968bab6ec22dd9be7e12ba34fa138c54e438511fe4021dc935105e51bd35d9"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "bytes": 288977,
+      "sha256": "81e0e6db55c8f7be5d6c4feb7a877b29826c8fa889ea169401586aec2ef8de95"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "bytes": 153181,
+      "sha256": "5ab9bf650c83e756524645aa1098cb29adef8e43a319d93fd4cccea509f44547"
+    }
+  ],
+  "rows": [
+    {
+      "id": "M17EX-LD01",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "subjects": "Creator/illustrator/readers/contributors and attributed parallel Iris/Aigis/Crimson-Demon/Axis/Axel actors; known retained Kazuma/Aqua/Megumin/Darkness/Yunyun/Eris/Mitsurugi/two unnamed companions/Pain/Nos/Logia/Mammon/unnamedgatekeeper/DemonKing/daughter, and externally supplied Wiz/Vanir/Dust/Assassin/DarkStalker resources. No direct new excluded bonus choices for Iris or Yunyun.",
+      "native_routes": "U016P8–18/IMG005; retained C3P380–394 separately mediated",
+      "observation": "Creator's parallel-campaign synopsis supplies attributed information about the armored princess, allied professionals and unusual Axel residents, retaining its modal force. It does not enact a fresh directly observed Iris or Yunyun choice.",
+      "implication": "Carry usable creator-synopsis evidence into synthesis at its own plane, and keep all scoped SI/SY outcomes untouched.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M17EX-LD02",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "subjects": "Creator/illustrator/readers/contributors and attributed parallel Iris/Aigis/Crimson-Demon/Axis/Axel actors; known retained Kazuma/Aqua/Megumin/Darkness/Yunyun/Eris/Mitsurugi/two unnamed companions/Pain/Nos/Logia/Mammon/unnamedgatekeeper/DemonKing/daughter, and externally supplied Wiz/Vanir/Dust/Assassin/DarkStalker resources. No direct new excluded bonus choices for Iris or Yunyun.",
+      "native_routes": "C1P60–171/373–591;C2P230–345/450–469;C3P300–440",
+      "observation": "Current retained precision establishes distinct Pain/Nos/Logia/Mammon/gatekeeper agency and confirms Eris's actual intervention. Names, fates and unknown cross-source identities remain separate.",
+      "implication": "Route each substantive new lead into the open census; no name/species/job shortcut merges individuals or supplies unseen choices.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M17EX-LD03",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "subjects": "Creator/illustrator/readers/contributors and attributed parallel Iris/Aigis/Crimson-Demon/Axis/Axel actors; known retained Kazuma/Aqua/Megumin/Darkness/Yunyun/Eris/Mitsurugi/two unnamed companions/Pain/Nos/Logia/Mammon/unnamedgatekeeper/DemonKing/daughter, and externally supplied Wiz/Vanir/Dust/Assassin/DarkStalker resources. No direct new excluded bonus choices for Iris or Yunyun.",
+      "native_routes": "C1P211–224;C2P486–526;finalP702–788;EpP47–63",
+      "observation": "Aqua's thanks, Yunyun's objections, Eris's privacy/visit boundary, Darkness's objection and the companions' urgent aid requests coexist with help and continuing bonds.",
+      "implication": "Specific agreement and actual knowledge govern each act. Later affection, protection or teasing does not erase pain, objection or an imposed start.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M17EX-LD04",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "subjects": "Creator/illustrator/readers/contributors and attributed parallel Iris/Aigis/Crimson-Demon/Axis/Axel actors; known retained Kazuma/Aqua/Megumin/Darkness/Yunyun/Eris/Mitsurugi/two unnamed companions/Pain/Nos/Logia/Mammon/unnamedgatekeeper/DemonKing/daughter, and externally supplied Wiz/Vanir/Dust/Assassin/DarkStalker resources. No direct new excluded bonus choices for Iris or Yunyun.",
+      "native_routes": "M17EX-H01–H09/U016/IMG003–004/008/024",
+      "observation": "Nine post-seal selected whole effects separate four literal attributed mechanisms from five amplified character/marketing contrasts; three L1 and six L2 premises. Fantasy and creator placement are not automatic H4.",
+      "implication": "Overlapping creator/art/retained events are purposeful selections, not a denominator or new independent trials.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M17EX-LD05",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "subjects": "Creator/illustrator/readers/contributors and attributed parallel Iris/Aigis/Crimson-Demon/Axis/Axel actors; known retained Kazuma/Aqua/Megumin/Darkness/Yunyun/Eris/Mitsurugi/two unnamed companions/Pain/Nos/Logia/Mammon/unnamedgatekeeper/DemonKing/daughter, and externally supplied Wiz/Vanir/Dust/Assassin/DarkStalker resources. No direct new excluded bonus choices for Iris or Yunyun.",
+      "native_routes": "U016P3–34;IMG003/004/008/024;M17EX-V01–V27",
+      "observation": "Eighteen exact short creator fragments and nine raster fragments distinguish modal でしょう/かもしれません, reader/contributor gratitude, self-directed biography and named caption/blurb speakers.",
+      "implication": "Written source evidence only. Register/pragmatic function is not an acoustic voice, frequency census or proxy for consent; captionか correction is attributable.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M17EX-LD06",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "subjects": "Creator/illustrator/readers/contributors and attributed parallel Iris/Aigis/Crimson-Demon/Axis/Axel actors; known retained Kazuma/Aqua/Megumin/Darkness/Yunyun/Eris/Mitsurugi/two unnamed companions/Pain/Nos/Logia/Mammon/unnamedgatekeeper/DemonKing/daughter, and externally supplied Wiz/Vanir/Dust/Assassin/DarkStalker resources. No direct new excluded bonus choices for Iris or Yunyun.",
+      "native_routes": "IMG024/C3P355/C2P575;C1P267–305/403–578",
+      "observation": "The jacket's lone powerless hero is Eris's quoted aesthetic preference, beside Kazuma's bounty question. Actual retained Kazuma shows failed trap reasoning, false translation, imported hypotheses and self-serving framing alongside costly help.",
+      "implication": "Promotional description and character appraisal cannot become neutral omniscient summary or excuse imposed cost. Maintain knowledge/time differences and full resource credit.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M17EX-LD07",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "subjects": "Creator/illustrator/readers/contributors and attributed parallel Iris/Aigis/Crimson-Demon/Axis/Axel actors; known retained Kazuma/Aqua/Megumin/Darkness/Yunyun/Eris/Mitsurugi/two unnamed companions/Pain/Nos/Logia/Mammon/unnamedgatekeeper/DemonKing/daughter, and externally supplied Wiz/Vanir/Dust/Assassin/DarkStalker resources. No direct new excluded bonus choices for Iris or Yunyun.",
+      "native_routes": "U016P23–27;EpP3–63/82–90",
+      "observation": "Creator asks for the protagonist's rest; actual epilogue instead shows Kazuma seeking a comfortable escape and Eris defending her workplace, then choosing a particular gift. Ordinary routines, ongoing trips and future ceremony remain different.",
+      "implication": "A wished-for rest is not observed permanent peace. A place's physical accessibility does not supply another person's invitation or unrestricted visiting permission.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M17EX-LD08",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "subjects": "Creator/illustrator/readers/contributors and attributed parallel Iris/Aigis/Crimson-Demon/Axis/Axel actors; known retained Kazuma/Aqua/Megumin/Darkness/Yunyun/Eris/Mitsurugi/two unnamed companions/Pain/Nos/Logia/Mammon/unnamedgatekeeper/DemonKing/daughter, and externally supplied Wiz/Vanir/Dust/Assassin/DarkStalker resources. No direct new excluded bonus choices for Iris or Yunyun.",
+      "native_routes": "C1P153–195/330–331/378/480;C2P76–79;C3P324–402;finalP730–759",
+      "observation": "Finite stones, real overload, purchased stock, lent sword, taught skills, potion, blessings and teleport capacity are distinct provider/resource edges. Correct phase attribution does not prove whole-operation safety.",
+      "implication": "Keep both actual competence and failures. Exceptionally reconstructed body is not ordinary repeatable capability; no world-changing skill or missing provider is invented.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M17EX-LD09",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "subjects": "Creator/illustrator/readers/contributors and attributed parallel Iris/Aigis/Crimson-Demon/Axis/Axel actors; known retained Kazuma/Aqua/Megumin/Darkness/Yunyun/Eris/Mitsurugi/two unnamed companions/Pain/Nos/Logia/Mammon/unnamedgatekeeper/DemonKing/daughter, and externally supplied Wiz/Vanir/Dust/Assassin/DarkStalker resources. No direct new excluded bonus choices for Iris or Yunyun.",
+      "native_routes": "C3P425–440;finalP702–788;EpP82–90",
+      "observation": "Battle commitment does not synchronize safety: some actors press dangerous fire while others object or seek aid. Eris's care and strategic choices, Aqua's painful reunion and terminal private thanks retain their particular contexts.",
+      "implication": "Preserve each actor's opportunity and response; a protective intention, anticipated survival or later win does not certify safety, consent or pure motives.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M17EX-LD10",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "subjects": "Creator/illustrator/readers/contributors and attributed parallel Iris/Aigis/Crimson-Demon/Axis/Axel actors; known retained Kazuma/Aqua/Megumin/Darkness/Yunyun/Eris/Mitsurugi/two unnamed companions/Pain/Nos/Logia/Mammon/unnamedgatekeeper/DemonKing/daughter, and externally supplied Wiz/Vanir/Dust/Assassin/DarkStalker resources. No direct new excluded bonus choices for Iris or Yunyun.",
+      "native_routes": "IMG003–005;C1P175–195;finalP718–759",
+      "observation": "A successful target effect can coexist with continued gratification, overload, an injured recipient or an unresolved return. New creator synopsis and images do not supply a fresh complete safe-operation case.",
+      "implication": "Do not promote narrow destruction into recovery. Actual restraint, ignored warnings and finite capacity remain source-bounded; no new old-score adjudication.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M17EX-LD11",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "subjects": "Creator/illustrator/readers/contributors and attributed parallel Iris/Aigis/Crimson-Demon/Axis/Axel actors; known retained Kazuma/Aqua/Megumin/Darkness/Yunyun/Eris/Mitsurugi/two unnamed companions/Pain/Nos/Logia/Mammon/unnamedgatekeeper/DemonKing/daughter, and externally supplied Wiz/Vanir/Dust/Assassin/DarkStalker resources. No direct new excluded bonus choices for Iris or Yunyun.",
+      "native_routes": "C1P579–586;finalP525–625;EpP23–60",
+      "observation": "The epilogue's focalizer initially assumes death and revises on Teleport disclosure; the protracted afterlife scene also corrects Kazuma's permanent-death inference. Armor resistance and companion motives can be hypotheses rather than facts.",
+      "implication": "A mistaken premise and its later correction are separate moments. Unknown fate, motive or permission remains unknown, not automatically a character-internal failure or success.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M17EX-LD12",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "subjects": "Creator/illustrator/readers/contributors and attributed parallel Iris/Aigis/Crimson-Demon/Axis/Axel actors; known retained Kazuma/Aqua/Megumin/Darkness/Yunyun/Eris/Mitsurugi/two unnamed companions/Pain/Nos/Logia/Mammon/unnamedgatekeeper/DemonKing/daughter, and externally supplied Wiz/Vanir/Dust/Assassin/DarkStalker resources. No direct new excluded bonus choices for Iris or Yunyun.",
+      "native_routes": "M17EX-AS-R1-K01–R1-E08;typedR1-T01–T04;SI-D01–D07/SY-D01–D07",
+      "observation": "Thirty-nine unchanged principal/party rules have no fresh full-trigger opportunity in these creator/profile/promotional/retained-illustration planes; four typed diagnostics and fourteen separate SI/SY NT rows remain distinct.",
+      "implication": "All original predictions, outcomes, four scorecards, Dust14 blanks and SI/SY28nulls stay exact. No blind score, independent validation, accuracy/confidence update or MAIN18 is created.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    }
+  ]
+}

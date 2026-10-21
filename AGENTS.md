@@ -12,7 +12,7 @@ Analytical accuracy and fidelity to source evidence are the substantive objectiv
 
 ## Every commit and push
 
-Before editing, staging, committing or pushing, acquire the applicable sections of `governance/policies/CHANGE_INTEGRATION_CHECKLIST.md` through its Before editing section. Classify the change with `governance/repository-controls/change-obligations.json`. Stable analytical branches use the checklist's author preflight and may await housekeeping for five deterministic routing outputs; this is not integration readiness. Other changes use `python tools/prepare_commit.py --base origin/main --check` against the final staged index. Integration always requires the fully synchronized final commit and its successful `Repository integration audit` status. Character discovery may lag as expressly permitted by its maintenance policy.
+Before editing, staging, committing or pushing, acquire the applicable sections of `governance/policies/CHANGE_INTEGRATION_CHECKLIST.md` through its Before editing section. Classify the change with `governance/repository-controls/change-obligations.json`. Stable analytical branches use the checklist's author preflight and may await housekeeping for five deterministic routing outputs; this is not integration readiness. Other changes use `python tools/prepare_commit.py --base origin/main --check` against the final staged index. Integration always requires the fully synchronized final commit and its successful `Repository integration audit` status. Character discovery may lag as expressly permitted by its maintenance policy, and a reconstruction assessment may become effectively stale until the evaluator reconciles it; neither blocks other publication.
 
 Stage exact paths only: do not use `git add .` or wildcard staging. Push without force and never rewrite published history.
 
@@ -43,15 +43,23 @@ Before pushing a stable analytical branch, follow the [publication sequence and 
 
 Use a narrowly named temporary branch under an audited agent prefix: `codex/<purpose>`, `chatgpt/<purpose>` or `claude/<purpose>`. Changes to validation, workflows, schemas, publication safety, or authority controls use `python tools/prepare_commit.py --base origin/main --check --full`. Temporary bootstrap, repair, migration, and one-shot automation branches must be pruned after their exact tips are verified as preserved on a green `main`; never delete an unverified or unmerged branch.
 
+### CI and PR Integration Steward
+
+The owner-operated scheduled EC2 steward has standing authority for routine PR reconciliation, CI repair, source synchronization, and eligible owner-authored integration as the primary autonomous coordinator under [the existing integration policy](governance/policies/NIGHTLY_ANALYTICAL_INTEGRATION.md#ci-and-pr-integration-steward). Read that section and its referenced publication/checklist controls before acting. It covers stable analytical branches and bounded routine temporary branches, preserves curation ownership and explicit holds, and reserves protected merges to an independently enforcing deterministic executor, with nightly integration retained only as a manual fallback under shared exclusion. This governance grant does not deploy the steward or extend the installed controller.
+
 ### Character curation
 
 The owner-authorized cloud curation agent is the sole routine writer of `characters/registry.jsonl` and generated `CHARACTER_ANALYSIS_INDEX.md`; follow `governance/policies/CHARACTER_DISCOVERY_MAINTENANCE.md`. Its recurring branch is exactly `character-registry` and may remain active. Housekeeping never writes either character file or applies character upserts.
+
+### Character reconstruction evaluation
+
+The owner-authorized reconstruction evaluator is the sole routine writer of `characters/reconstruction_capabilities.jsonl` and generated `characters/CHARACTER_RECONSTRUCTION_INDEX.md`; follow `governance/policies/CHARACTER_RECONSTRUCTION_MAINTENANCE.md`. Its recurring branch is exactly `character-reconstruction` and may remain active. It never writes discovery files or analysis, and neither the curation agent nor housekeeping writes its two files. A recorded capability status is not present readiness; verify currentness with `tools/reconstruction_status.py`.
 
 ## Never, without a separately reviewed owner amendment
 
 Never add raw acquisition evidence, source media, private migration evidence, credentials, unreviewed binaries, symlinks, submodules, or hooks.
 
-The approved workflows are the content-read-only `.github/workflows/repository-audit.yml` with its isolated status-only reporter, the default-branch, exact-output-allowlisted `.github/workflows/global-index-housekeeping.yml`, and `.github/workflows/nightly-integration.yml` under `governance/policies/NIGHTLY_ANALYTICAL_INTEGRATION.md`. The owner authorizes nightly mechanical integration of audited stable series/study branches, including clean reconciliation, protected PR merges, and explicit post-merge audits. Every other workflow remains prohibited without a separately reviewed owner amendment.
+The approved workflows are the content-read-only `.github/workflows/repository-audit.yml` with its isolated status-only reporter, the default-branch, exact-output-allowlisted `.github/workflows/global-index-housekeeping.yml`, and `.github/workflows/nightly-integration.yml` under `governance/policies/NIGHTLY_ANALYTICAL_INTEGRATION.md`. The EC2 steward is the primary autonomous integration coordinator; the existing nightly workflow is authorized only as a manual fallback under the shared invariants and exclusion contract in that policy. Scheduled fallback apply is no longer authorized; deactivation and executor changes remain implementation work. Every other workflow remains prohibited without a separately reviewed owner amendment.
 
 ## License
 

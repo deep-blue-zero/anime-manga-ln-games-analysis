@@ -9,7 +9,7 @@ This is the mandatory pre-commit contract for every change to this repository, b
 3. Preserve the owner-only authorship policy, the Git/Drive authority boundary, artifact exclusions, and frozen migration records.
 4. Declare the intended paths. Never use `git add .`, wildcard staging, force-push, or history rewriting.
 
-For a stable series/study branch, read `AUTOMATED_GLOBAL_INDEX_MAINTENANCE.md`. Author the named analytical root and required series/study routing descriptors; housekeeping owns five routing outputs. Character discovery belongs solely to the curation agent under `CHARACTER_DISCOVERY_MAINTENANCE.md`. It may supply a coordinated pre-merge repair on a source branch, but housekeeping may not write either character output.
+For a stable series/study branch, read `AUTOMATED_GLOBAL_INDEX_MAINTENANCE.md`. Author the named analytical root and required series/study routing descriptors; housekeeping owns five routing outputs. Character discovery belongs solely to the curation agent under `CHARACTER_DISCOVERY_MAINTENANCE.md`. It may supply a coordinated pre-merge repair on a source branch, but housekeeping may not write either character output. The reconstruction evaluator alone writes the two reconstruction outputs under `CHARACTER_RECONSTRUCTION_MAINTENANCE.md`; stable branches never carry them.
 
 ### Checklist acquisition by operation
 
@@ -80,7 +80,7 @@ These are authoring and verification requirements. Existing syntax and repositor
 
 ## Branch routing and cleanup
 
-Branch names, retention and pruning follow [`BRANCH_LIFECYCLE.md`](BRANCH_LIFECYCLE.md): continuing `series/<stable-slug>` and `studies/<stable-slug>` branches, the reusable `character-registry` branch, and temporary agent branches that are pruned only after their exact tips are verified on a green `main`.
+Branch names, retention and pruning follow [`BRANCH_LIFECYCLE.md`](BRANCH_LIFECYCLE.md): continuing `series/<stable-slug>` and `studies/<stable-slug>` branches, the reusable `character-registry` and `character-reconstruction` branches, and temporary agent branches that are pruned only after their exact tips are verified on a green `main`.
 
 ## Change obligations
 
@@ -93,6 +93,7 @@ The machine-readable form of this table is `governance/repository-controls/chang
 | Add, remove, or reroute a study root | On a stable study branch, provide `.repository/study-registry.json`; automation updates `studies/registry.json`, `studies/README.md`, and the corpus index. Elsewhere, update those outputs in the same reviewed change. Automatic removal is prohibited. |
 | Add new eligible character analysis | Daily curation may enroll it after merge if existing character references and generated output remain valid. Character-upsert inputs are no longer required or applied. |
 | Change the character registry or already referenced evidence | The curation agent reviews affected records and regenerates `CHARACTER_ANALYSIS_INDEX.md`; evidence changes that invalidate existing discovery require its coordinated repair before source integration. |
+| Change the reconstruction capability registry | Only the reconstruction evaluator, alone on `character-reconstruction`, regenerates `characters/CHARACTER_RECONSTRUCTION_INDEX.md`. Evidence or discovery changes that make an assessment effectively stale need no same-change capability update. |
 | Add or change a Drive-only reference | Update the Drive artifact reference index and verify every referenced anchor. Do not rewrite frozen migration crosswalks. |
 | Initiate or materially restart a substantive analytical project | Declare `project_initiation_gate: REQUIRED` in the root's routing descriptor and satisfy the state-sensitive project-initiation validator. This invariant creates no additional global-index output beyond ordinary root/routing topology obligations. |
 | Change policy, schema, validation, workflow, or authority controls | Run the affected focused tests and review the governance effect. Use the explicit full gate for executable validation, workflow, schema, publication-safety, or authority changes. Authority-scope changes require separate owner authorization. |
@@ -149,7 +150,7 @@ Use the matching `studies/<stable-slug>` argument for a study. This command vali
 
 `AWAITING_SYNCHRONIZATION` permits publishing authored content to the stable branch while routing remains pending. It does not permit integration. A real new root requires its routing descriptor and a current-eligible entrypoint with complete authority metadata. Branch creation without a named root requires neither. For a noncurrent working draft, use the `draft_noncurrent` template in `../../characters/README.md`; do not promote it to current authority merely to pass a check.
 
-Housekeeping synchronizes only its five routing outputs. Only the character curation agent may supply the two character files as a coordinated pre-merge repair; it must review against the exact proposed evidence tree. Character invariants and the generated index remain strict even during author preflight. Reconcile current `main`, require completed housekeeping and any generated child commit's full audit, and integrate only the exact final head with a successful `Repository integration audit` status. Full integration, `main`, character curation, and cross-cutting audits never defer routing.
+Housekeeping synchronizes only its five routing outputs. Only the character curation agent may supply the two character files as a coordinated pre-merge repair; it must review against the exact proposed evidence tree. Character invariants and the generated index remain strict even during author preflight. Reconcile current `main`, require completed housekeeping and any generated child commit's full audit, and integrate only the exact final head with a successful `Repository integration audit` status. Full integration, `main`, character curation, reconstruction evaluation, and cross-cutting audits never defer routing.
 
 ## Local or cross-cutting profile
 
@@ -173,8 +174,8 @@ The full gate uses the timed regression runner described in [Audit execution rol
 
 1. Inspect the exact staged path list, diff, generated changes, and file sizes.
 2. Confirm the commit uses an approved owner author identity and an approved committer identity.
-3. Reread the main ruleset `25199066`, activation-tag ruleset `21946617`, and both remote heads. Verify their live semantics under `PUBLICATION_AND_CONTRIBUTION_POLICY.md` using ruleset details. Stop if any is absent or unverifiable. Collaborators, invitations and deploy keys are checked before integration by the nightly controller, and every access surface by the owner merging by hand (`PUBLICATION_AND_CONTRIBUTION_POLICY.md`).
-4. Push normally without force. The owner-authorized nightly controller follows `NIGHTLY_ANALYTICAL_INTEGRATION.md` for clean reconciliation, protected PR integration, and explicit post-merge validation. For a stable analytical branch, require the final housekeeping result and its generated-commit audit when an automated child commit was produced. For other branches and `main`, require the full repository audit and successful `Repository integration audit` status for the exact remote commit. A passing author preflight with pending routing is not a passing integration gate.
+3. Reread the main ruleset `25199066`, activation-tag ruleset `21946617`, and both remote heads. Verify their live semantics under `PUBLICATION_AND_CONTRIBUTION_POLICY.md` using ruleset details. Stop if any is absent or unverifiable. Collaborators, invitations and deploy keys are checked before integration by the nightly controller and by automated character discovery under [its bounded API access-check contract](PUBLICATION_AND_CONTRIBUTION_POLICY.md#automated-character-discovery-access-checks); every access surface is checked by the owner merging by hand (`PUBLICATION_AND_CONTRIBUTION_POLICY.md`).
+4. Push normally without force. The primary EC2 steward and owner-invoked manual nightly fallback follow their shared invariants and exclusive execution contract in `NIGHTLY_ANALYTICAL_INTEGRATION.md`; the fallback retains clean-only reconciliation, protected PR integration and explicit post-merge validation. For a stable analytical branch, require the final housekeeping result and its generated-commit audit when an automated child commit was produced. For other branches and `main`, require the full repository audit and successful `Repository integration audit` status for the exact remote commit. A passing author preflight with pending routing is not a passing integration gate.
 5. After integration, apply the verified branch-retention or pruning rule in `BRANCH_LIFECYCLE.md`.
 
 ### Stable analytical publication sequence
@@ -190,7 +191,7 @@ Apply this sequence to every author push on a continuing series/study branch, in
 
 ### Squash-merge reconciliation
 
-The nightly controller may perform only clean merges. Its conflict deferral requires an authorized author/repair task to inspect the evidence; it does not authorize automatic conflict resolution.
+The nightly controller may perform only clean merges. Its conflict deferral requires an authorized author/repair task to inspect the evidence; it does not authorize automatic conflict resolution. The owner-operated CI and PR Integration Steward is an authorized repair task within its [standing delegation](NIGHTLY_ANALYTICAL_INTEGRATION.md#ci-and-pr-integration-steward), including publication of verified reconciliation commits on eligible source branches. It must follow the evidence procedure below, preserve specialized writer ownership, and refer substantive ambiguity to the owner. Its primary-coordinator role, independent deterministic executor, shared integration invariants and exclusion of concurrent manual-fallback merges are defined in that same policy; this checklist grants no separate controller authority.
 
 1. Identify the previous merged PR for the same repository, stable branch, and `main` target. Record its exact source-head and integration SHAs. Verify the integration commit is an ancestor of current `main` and the prior source is an ancestor of the current source. A matching title, closed PR, timestamp, or similar-looking excerpt is insufficient.
 2. Compare the complete repository trees of that prior source and integration result. If they are identical, record that content-preservation proof, then inspect every change on both sides since those snapshots. If they differ, review the complete integration patch and resolve the discrepancy before choosing any conflict resolution; do not assume the squash included every source byte.
