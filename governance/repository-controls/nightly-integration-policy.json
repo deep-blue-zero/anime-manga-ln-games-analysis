@@ -3,7 +3,7 @@
   "workflow": ".github/workflows/nightly-integration.yml",
   "controller": "tools/nightly_integration.py",
   "workflow_sha256": "8a2f6d802c25c362b37ebc3a28b3979b7ab8a59bf0f3480bdbc7a1439e9c2644",
-  "controller_sha256": "1c37031021ae113bd1f14d37a1ef48ea5ced6cc9f9ba633eba8dc24690ea0887",
+  "controller_sha256": "f27bed8c21ab562cad893685d24f19c7e514bea4582ba90b606d38693f1c52dd",
   "lock": "tools/integration_lock.py",
-  "lock_sha256": "46ccb78178bb6a0b6b7ab2d32b07539dfdca89ab2532a5b14153e30ffc398747"
+  "lock_sha256": "9e0f60f66b5a59f842b055b406c5ab6f1ef7845e20380d21cc8153a660427863"
 }

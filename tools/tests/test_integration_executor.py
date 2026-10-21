@@ -199,6 +199,34 @@ class ExecutorTests(unittest.TestCase):
         self.assertEqual(worker.rows[-1]['outcome'], 'merged_verified')
         self.assertEqual(worker.api.state()['state'], 'released')
 
+    def test_missing_selected_branch_releases_without_corpus_mutations(self):
+        """An absent selection is a blocked scan, never a stranded integration owner."""
+        for role in ('primary', 'fallback'):
+            with self.subTest(role=role):
+                worker = self.worker(role=role)
+                worker.run('series/missing')
+                self.assertEqual(worker.rows[-1]['outcome'], 'blocked')
+                self.assertEqual(worker.api.state()['state'], 'released')
+                worker.graph.push.assert_not_called()
+                self.assertTrue(all(path in ('git/commits', 'git/refs', 'git/refs/' + LOCK_REF)
+                                    for _, path, _ in worker.api.writes))
+                lock(worker.api).acquire(B)
+
+    def test_completed_receipt_preserves_acquisition_and_release(self):
+        """A completed durable receipt identifies both immutable lock transitions."""
+        with tempfile.TemporaryDirectory() as directory:
+            worker = self.worker()
+            worker.save = Integrator.save.__get__(worker)
+            worker.report_path = Path(directory) / 'receipt.json'
+            worker.run('series/a')
+            receipt = json.loads(worker.report_path.read_text(encoding='utf-8'))
+            acquired = receipt['lock']['ownership_commit']
+            self.assertIsNotNone(acquired)
+            self.assertEqual(json.loads(worker.api.commits[acquired]['message'])['state'], 'held')
+            self.assertEqual(receipt['lock']['release_commit'], worker.api.ref)
+            self.assertEqual(worker.api.commits[worker.api.ref]['parents'], [{'sha': acquired}])
+            self.assertIsNone(worker.lock.owned_sha)
+
     def test_post_merge_failure_retains_lock_and_integration_sha(self):
         """Post-merge failure preserves ownership and the integrated-but-unverified receipt."""
         worker = self.worker()
@@ -470,6 +498,68 @@ class ExecutorTests(unittest.TestCase):
             self.assertEqual(receipt['lock']['ownership_commit'], worker.lock.owned_sha)
             self.assertEqual(receipt['branches'][0]['integration_sha'], M)
             self.assertFalse(worker.report_path.with_suffix('.tmp').exists())
+
+
+class CurationMergeTests(unittest.TestCase):
+    def setUp(self):
+        directory = tempfile.TemporaryDirectory()
+        self.addCleanup(directory.cleanup)
+        self.graph = Graph(Path(directory.name))
+        self.files = {'characters/registry.jsonl': 'original registry\n',
+                      'CHARACTER_ANALYSIS_INDEX.md': 'original index\n',
+                      'series/a/analysis.md': 'original analysis\n'}
+        self.base = self.commit(self.files)
+        self.curated = dict(self.files, **{'characters/registry.jsonl': 'curated registry\n',
+                                         'CHARACTER_ANALYSIS_INDEX.md': 'curated index\n'})
+
+    def commit(self, files, *parents):
+        self.graph.git('read-tree', '--empty')
+        for path, content in files.items():
+            blob = self.graph.git('hash-object', '-w', '--stdin', input_text=content)
+            self.graph.git('update-index', '--add', '--cacheinfo', '100644', blob, path)
+        tree = self.graph.git('write-tree')
+        return self.graph.git('commit-tree', tree, *[arg for p in parents for arg in ('-p', p)],
+                              input_text='curation provenance fixture\n', extra_env={
+                                  'GIT_AUTHOR_NAME': AUTHOR['name'], 'GIT_AUTHOR_EMAIL': AUTHOR['email'],
+                                  'GIT_COMMITTER_NAME': COMMITTER['name'], 'GIT_COMMITTER_EMAIL': COMMITTER['email']})
+
+    def test_merge_cannot_author_character_outputs(self):
+        """A merge cannot hide new character bytes beside ordinary analytical changes."""
+        left_files = dict(self.files, **{'series/a/analysis.md': 'left analysis\n'})
+        left = self.commit(left_files, self.base)
+        right = self.commit(dict(self.files, **{'series/a/other.md': 'right analysis\n'}), self.base)
+        merged = self.commit(dict(self.curated, **{'series/a/analysis.md': 'left analysis\n',
+                                                 'series/a/other.md': 'right analysis\n'}), left, right)
+        with self.assertRaises(Blocked):
+            self.graph.verify_curation_commits(self.base, merged)
+
+    def test_clean_merge_preserves_separate_curation_and_main_imports(self):
+        """Clean imports retain curation-only provenance with either parent order."""
+        analytical = self.commit(dict(self.files, **{'series/a/analysis.md': 'new analysis\n'}), self.base)
+        curated = self.commit(self.curated, self.base)
+        for parents in ((analytical, curated), (curated, analytical)):
+            merged = self.commit(dict(self.curated, **{'series/a/analysis.md': 'new analysis\n'}), *parents)
+            with self.subTest(parents=parents):
+                self.graph.verify_curation_commits(self.base, merged)
+                self.graph.verify_curation_commits(curated, merged)
+
+    def test_character_conflict_resolution_requires_separate_curation(self):
+        """Choosing one conflicting parent's character bytes is still a curation decision."""
+        left = self.commit(self.curated, self.base)
+        right = self.commit(dict(self.files, **{'characters/registry.jsonl': 'other registry\n',
+                                               'CHARACTER_ANALYSIS_INDEX.md': 'other index\n'}), self.base)
+        merged = self.commit(self.curated, left, right)
+        with self.assertRaises(Blocked):
+            self.graph.verify_curation_commits(self.base, merged)
+
+    def test_unrelated_conflict_does_not_reject_preserved_curation(self):
+        """Resolving analytical prose may preserve a clean, separately authored curation import."""
+        left_files = dict(self.files, **{'series/a/analysis.md': 'left analysis\n'})
+        left = self.commit(left_files, self.base)
+        curated = self.commit(dict(self.curated, **{'series/a/analysis.md': 'left analysis\n'}), left)
+        right = self.commit(dict(self.files, **{'series/a/analysis.md': 'right analysis\n'}), self.base)
+        merged = self.commit(dict(self.curated, **{'series/a/analysis.md': 'reconciled analysis\n'}), curated, right)
+        self.graph.verify_curation_commits(self.base, merged)
 
 
 if __name__ == '__main__':

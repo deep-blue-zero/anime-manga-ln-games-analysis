@@ -4385,6 +4385,72 @@
         "governance/repository-controls/nightly-integration-policy.json"
       ],
       "purpose": "Only the owner same-repository PR can impose a hold on its source branch."
+    },
+    "test_integration_executor.ExecutorTests.test_missing_selected_branch_releases_without_corpus_mutations": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/integration_lock.py",
+        "tools/tests/test_integration_executor.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "An absent selection is a blocked scan, never a stranded integration owner."
+    },
+    "test_integration_executor.ExecutorTests.test_completed_receipt_preserves_acquisition_and_release": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/integration_lock.py",
+        "tools/tests/test_integration_executor.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "A completed durable receipt identifies both immutable lock transitions."
+    },
+    "test_integration_executor.CurationMergeTests.test_merge_cannot_author_character_outputs": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/integration_lock.py",
+        "tools/tests/test_integration_executor.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "A merge cannot hide new character bytes beside ordinary analytical changes."
+    },
+    "test_integration_executor.CurationMergeTests.test_clean_merge_preserves_separate_curation_and_main_imports": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/integration_lock.py",
+        "tools/tests/test_integration_executor.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Clean imports retain curation-only provenance with either parent order."
+    },
+    "test_integration_executor.CurationMergeTests.test_character_conflict_resolution_requires_separate_curation": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/integration_lock.py",
+        "tools/tests/test_integration_executor.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Choosing one conflicting parent's character bytes is still a curation decision."
+    },
+    "test_integration_executor.CurationMergeTests.test_unrelated_conflict_does_not_reject_preserved_curation": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/integration_lock.py",
+        "tools/tests/test_integration_executor.py",
+        "governance/repository-controls/nightly-integration-policy.json"
+      ],
+      "purpose": "Resolving analytical prose may preserve a clean, separately authored curation import."
     }
   }
 }

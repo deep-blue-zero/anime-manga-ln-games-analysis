@@ -282,7 +282,33 @@ class Graph:
                 raise Halt("Unapproved commit identity at " + sha)
 
     def verify_curation_commits(self, base: str, head: str) -> None:
-        for sha in self.git("rev-list", "--no-merges", f"{base}..{head}").splitlines():
+        for line in self.git("rev-list", "--parents", f"{base}..{head}").splitlines():
+            sha, *parents = line.split()
+            if len(parents) > 1:
+                if not any(self.paths(parent, sha) & CHARACTER for parent in parents):
+                    continue
+                if len(parents) != 2:
+                    raise Blocked("Character imports require a verifiable two-parent merge")
+                # First-parent or combined diffs alone can hide authored merge
+                # resolutions. Recompute the merge without executing candidate
+                # code, then require exact preservation of its character blobs.
+                try:
+                    output = self.git("merge-tree", "--write-tree", "--name-only", *parents)
+                except GitError as exc:
+                    first = exc.output.splitlines()[0] if exc.output else b""
+                    if exc.returncode != 1 or not re.fullmatch(rb"[0-9a-f]{40}", first):
+                        raise
+                    output = exc.output.decode("utf-8", "strict")
+                    lines = output.splitlines()
+                    if "" not in lines[1:]:
+                        raise Halt("Character merge conflict paths are unreadable") from exc
+                    conflicts = set(lines[1:lines.index("", 1)])
+                    if conflicts & CHARACTER:
+                        raise Blocked("Character merge conflicts require a separate curation repair") from exc
+                expected = exact_sha(output.splitlines()[0])
+                if self.paths(expected, sha) & CHARACTER:
+                    raise Blocked("Merge commit authors character changes outside a separate curation repair")
+                continue
             paths = set(filter(None, self.git("diff-tree", "--root", "--no-commit-id", "--name-only", "-r", "--no-renames", "-z", sha).split("\0")))
             if paths & CHARACTER and not paths <= CHARACTER:
                 raise Blocked("Curation repair must be a separately identifiable two-file commit")
@@ -738,7 +764,11 @@ class Integrator:
                           if allowed_branch(item["name"]) and (BRANCH.fullmatch(item["name"]) or item["name"] in temporary_prs)
                           and (not selected or item["name"] == selected))
         if selected and not branches:
-            raise Halt("The selected branch does not exist")
+            # Complete inventory proves absence before any candidate mutation.
+            # Record an unsuccessful scan, then release through the normal path.
+            self.rows.append({"branch": selected, "base_sha": base, "outcome": "blocked",
+                              "detail": "The selected branch does not exist or has no eligible PR"})
+            self.save()
         for branch, source in branches:
             row = {"branch": branch, "source_sha": exact_sha(source), "base_sha": base, "outcome": "pending"}
             self.rows.append(row)

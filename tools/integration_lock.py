@@ -28,6 +28,8 @@ class IntegrationLock:
         self.author, self.committer = author, committer
         self.run_id = uuid.uuid4().hex
         self.owned_sha = None
+        self.acquired_sha = None
+        self.released_sha = None
         self.tree = None
 
     def read(self):
@@ -99,6 +101,8 @@ class IntegrationLock:
         parent = current[0] if current else base
         self.tree = current[1] if current else self.api.request("GET", "git/commits/" + base)["tree"]["sha"]
         self.owned_sha = self.transition(parent, self.tree, "held", create=current is None)
+        self.acquired_sha = self.owned_sha
+        self.released_sha = None
         self.assert_owned()
 
     def assert_owned(self):
@@ -111,9 +115,10 @@ class IntegrationLock:
 
     def release(self):
         self.assert_owned()
-        self.transition(self.owned_sha, self.tree, "released")
+        self.released_sha = self.transition(self.owned_sha, self.tree, "released")
         self.owned_sha = None
 
     def receipt(self):
         return {"ref": "refs/" + LOCK_REF, "run_id": self.run_id,
-                "ownership_commit": self.owned_sha, "automatic_expiry": False}
+                "ownership_commit": self.acquired_sha, "release_commit": self.released_sha,
+                "automatic_expiry": False}
