@@ -448,6 +448,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`reviewed-dedicated-analysis` — Aoyama Yuga dedicated analysis](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_AOYAMA_YUGA_CHARACTER_RECONSTRUCTION_MODEL.md)
 
+### Aqua
+
+- Entity ID: `konosuba:aqua`
+- Entity aliases:
+  - _None._
+
+#### Subject: Original light-novel continuity, main-principal analysis
+
+- Analysis subject ID: `konosuba:aqua@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `main-principal-synthesis`: LIGHT_NOVEL VOLUME: Longitudinal specialist synthesis scoped to the admitted main-novel 01–17 principal narratives: ordinary work and art, sacred intervention and practical consequences, recognition, particular care and harm, written voice, belonging and the return-home conflict. The review concerns this synthesis, not a new full source reading. Holdouts, excluded edition components, supplemental narratives and adaptations are outside this evidence item’s analytical coverage.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`main-principal-monograph` — Aqua: main-principal character monograph](series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_AQUA_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
 ### Aragaki Ayase
 
 - Entity ID: `oreimo:aragaki-ayase`
@@ -2770,6 +2790,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed V2 dedicated analysis drawing on the original-Japanese V01–V36 corpus, including Le dessert, within the document's character-specific evidence gaps and ordered school, retrospective and endpoint states. This does not assert evidence in every volume.; continuity `shokugeki-no-soma-manga`
 - Reviewed current evidence:
   - [`reviewed-dedicated-analysis` — Ikumi Mito dedicated analysis](series/shokugeki-no-soma/04%20Final%20Character%20Model/SHOKUGEKI_MITO_CHARACTER_MODEL.md) — **active provisional authority**
+
+### Iris
+
+- Entity ID: `konosuba:iris`
+- Entity aliases:
+  - アイリス (ja, ORIGINAL_SCRIPT) — Actual name distinguished from the deliberately supplied cover in the reviewed monograph.
+
+#### Subject: Original light-novel continuity, accepted Iris cohort 01
+
+- Analysis subject ID: `konosuba:iris@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - イリス (ja, ALTERNATIVE) — Deliberately supplied cover in Continued Explosions 01; not a separate individual or evidence of the invented merchant ancestry.
+- Analytical coverage:
+  - `accepted-cohort-01`: LIGHT_NOVEL OTHER: Bounded accepted-cohort analysis of main-novel 06 court, play, body-swap objection and private appraisal; 10 combat, cooking, diplomacy and gift; 11 wish-duty conflict; Continued Explosions 01/02 participation, leverage and false-cover offer; Dust 03 duty and temporary flight; and Mask chapter 2 performance and finite help. Later letters/reports and forecast history remain contextual, not continuous volume coverage or new independent tests.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`accepted-cohort-monograph` — Iris: accepted-cohort character monograph](series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_IRIS_CHARACTER_MONOGRAPH.md) — **active provisional authority**
 
 ### Ito Momiji
 
