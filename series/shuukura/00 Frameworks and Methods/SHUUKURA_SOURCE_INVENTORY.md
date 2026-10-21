@@ -5,7 +5,7 @@ artifact_type: source_inventory
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.26"
+version: "1.27"
 status: active_provisional
 scope: "Exact acquired source identities, edition boundaries, supplemental provenance and future inventory freeze"
 source_boundary: "Frozen I1; LN01–09/fourBW/KSS01–12/OFF01–02 and KAK-JP-E0001–E0004 only through complete atomic commits; E0005+ and V1 unread; LN10 excluded"
@@ -1426,3 +1426,14 @@ The gate remains OPEN as a valid architectural foundation. The unchanged E0005 n
 Committed analytical high-water remains KAK-JP-E0004: LN9/9, accessible supplements18/18, Kakuyomu4/431, Narō correspondence0/290 and available31/458. No count or source identity advances in this administrative record. All51 mandatory source gaps,27 discovery duties, 290 Narō correspondences, modality obligations, G3 reconciliation, required Miyagi/Sendai/Maika/Ami/Mio monographs and justified role-gap review, both specialists, domain-specific reconstruction/testing/abstention, later post-freeze V1 comparison, integrated synthesis and G7 release audit remain required. M0.13/S0.14 remain draft_noncurrent/UNTESTED, with zero validated domains;18 forecasts/13 historical attempts and all failures/ties/exposure limits remain unchanged. Both OFF evidence archives remain local.
 
 This source-inventory append records publication and owner authority only; it admits no narrative, changes no source/provenance/coverage row and resolves none of the mandatory missing identities. The [pause checkpoint](../08%20Audits%20and%20Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md#owner-requested-pause-after-e0004-publication) owns current continuation authority.
+
+
+## Owner resumption and unchanged source coverage — 2026-10-20
+
+The owner’s current instruction is “Resume with advancing to E0005 and further episodes with continuous sequential analysis.” Recovery verified the completed E0004 transaction and its later administrative pause, then incorporated current main through an ordinary merge preserving the entire Shuukura subtree. The run resumes at E0005, with run_state active and authorization OWNER_RESUMED_CONTINUOUS_I1_FROM_E0005_NO_ROUTINE_CONFIRMATION. This supersedes the earlier pause for future execution only; every historical freeze, accepted reading, prior pause record and source identity remains intact.
+
+Original start LN-JP-V01, terminal SHUUKURA-V2-20261017-I1, the OPEN architecture gate and fixed I1 membership/hash remain unchanged. Coverage remains LN9/9, accessible supplements18/18, Kakuyomu4/431, available31/458 and Narō0/290. No new reading, prediction, model score or validated domain is credited here. M0.13/S0.14 remain noncurrent/UNTESTED; all18 forecasts/13 historical attempts and all51 gaps/27 discovery duties/modality/G3–G7 responsibilities remain. Both OFF archives remain local.
+
+The current entrypoint is reduced to present routing under initiation Section3.5: dated checkpoint blocks and earlier revision notes move verbatim to the adjacent SHUUKURA_PROJECT_CHANGELOG.md, with compatibility anchors retained. Only the declared current authority/coverage-routing formulations change; no accepted source analysis or ledger row is rewritten.
+
+Current main’s owner-dispatched audit ran385 tests over9159paths. Future audits must report their actual full test inventory and exact commit; the historical352-test receipts are not new-head certification. The new integration policy reserves protected merging to a verified independent executor with shared exclusion. No such activation proof was established in this recovery, and legacy nightly apply is disabled; source analysis and ordinary source publication remain authorized. Preserve the integration limitation without changing controls or falsely claiming a main merge.
