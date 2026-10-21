@@ -233,7 +233,9 @@ class ProjectInitiationGateTests(unittest.TestCase):
                    "sequential_execution:\n  mode: single_operation\n  authorized_start: V01\n"
                    "  terminal_boundary: V01\n  next_candidate_operation: V01\n  run_state: active\n```\n")
             entries[self.entrypoint] = SnapshotEntry(entry.path, entry.mode, entry.data + run.encode())
-        return GitSnapshot(ROOT, "IN_MEMORY_PROJECT_GATE", entries)
+        # Synthetic projects read their own main, not the live checkout's
+        # later publication grants for unrelated registered projects.
+        return GitSnapshot(self.history_root, "IN_MEMORY_PROJECT_GATE", entries)
 
     def failures(
         self, snapshot: GitSnapshot, baseline_paths: set[str] | None = None
@@ -1176,6 +1178,7 @@ class RunAdmissionTests(unittest.TestCase):
         run_git(self.root, "config", "user.name", "Run fixture")
         run_git(self.root, "config", "user.email", "run@example.invalid")
         self.fixture = ProjectInitiationGateTests()
+        self.fixture.history_root = self.root
         self.main = None
         self.publish(self.candidate())
 
