@@ -1098,6 +1098,27 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`expanded-cohort-monograph` — Chris / Eris: bounded expanded character monograph](series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_CHRIS_ERIS_CHARACTER_MONOGRAPH.md) — **active provisional authority**
 
+### Clavis Shepherd
+
+- Entity ID: `genocidal-organ:clavis-shepherd`
+- Entity aliases:
+  - _None._
+
+#### Subject: Original novel, bounded comparative ethics
+
+- Analysis subject ID: `genocidal-organ:clavis-shepherd@original-novel`
+- Series: `genocidal-organ`
+- Continuity: `original-novel`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `IDEOLOGY`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `late-novel-comparative-study`: OTHER OTHER: Late Part V confrontation and epilogue (GO-U027–GO-U028), with separately attributed retrospective Harmony history used to test the claimed protective outcome. Review covers the comparative analysis, not a complete novel reading or the separate monograph. Later history is not Clavis’s contemporaneous knowledge.; continuity `original-novel`
+- Reviewed current evidence:
+  - [`comparative-chronology` — Comparative chronology: attributed decisions, motives and limits](studies/project-itoh-genocidal-organ-harmony/CHRONOLOGY_AND_CAUSAL_RECONSTRUCTION.md) — **active provisional authority**
+  - [`comparative-ethics` — Comparative ethics: protection, imposed harm and responsibility](studies/project-itoh-genocidal-organ-harmony/COMPARATIVE_ETHICS_AND_FORM.md) — **active provisional authority**
+
 ### Cliff Grimoire
 
 - Entity ID: `mushoku-tensei:cliff`
@@ -1258,6 +1279,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `dragon-boy-reviewed-corpus`: ANIME EPISODE: Substantial subject-specific sections in a canonical Phase-3 character synthesis across the first-season episode boundary declared by the artifact; multi-subject documents are enrolled only for their explicitly co-primary subjects.; continuity `to-be-hero-x-animated-series`
 - Reviewed current evidence:
   - [`13-dragon-boy-smile-pain-fear-and-punitive-heroism` — 13 DRAGON BOY SMILE PAIN FEAR AND PUNITIVE HEROISM](series/to-be-hero-x/03%20V2%20Specialist%20Syntheses/01%20Characters%20and%20Relationships/13_DRAGON_BOY_SMILE_PAIN_FEAR_AND_PUNITIVE_HEROISM.md)
+
+### Dust
+
+- Entity ID: `konosuba:dust`
+- Entity aliases:
+  - _None._
+
+#### Subject: Original light-novel continuity, bounded expanded cohort
+
+- Analysis subject ID: `konosuba:dust@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `expanded-cohort-01`: LIGHT_NOVEL OTHER: Bounded synthesis of admitted DUST01–07 analytical reports and separately identified unnumbered DUST-CONT, with qualified main-series and expanded supplemental context. Shared-event retellings are not independent trials. This is monograph review, not new whole-book primary reading or a completed scene/identity census; game-novelization evidence does not automatically merge another continuity.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`expanded-cohort-monograph` — Dust: bounded expanded character monograph](series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_DUST_CHARACTER_MONOGRAPH.md) — **active provisional authority**
 
 ### Effa
 
@@ -2955,6 +2996,27 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed dedicated V2 dossier within the Japanese main-manga V01–V42 analytical corpus, including Chapter 431 where applicable. Preserve each dossier's chronology, knowledge, bodily ability and terminal-life-state restrictions; later legacy or adult evidence is not transferred to earlier or deceased states. This is not an assertion of character evidence in every volume or of supplementary-media coverage.; continuity `my-hero-academia-manga`
 - Reviewed current evidence:
   - [`reviewed-dedicated-analysis` — Jiro Kyoka dedicated analysis](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_JIRO_KYOKA_CHARACTER_RECONSTRUCTION_MODEL.md)
+
+### John Paul
+
+- Entity ID: `genocidal-organ:john-paul`
+- Entity aliases:
+  - _None._
+
+#### Subject: Original novel, bounded comparative ethics
+
+- Analysis subject ID: `genocidal-organ:john-paul@original-novel`
+- Series: `genocidal-organ`
+- Continuity: `original-novel`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `IDEOLOGY`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `late-novel-comparative-study`: OTHER OTHER: Late Part V confrontation (GO-U027) and the legacy of the withheld English grammar in GO-U028, as interpreted in the two-novel comparative study. This is bounded analysis of protective priorities, admitted tradeoffs, grief and political answerability; not a review of the separate whole-novel monograph or primary witness.; continuity `original-novel`
+- Reviewed current evidence:
+  - [`comparative-chronology` — Comparative chronology: attributed decisions, motives and limits](studies/project-itoh-genocidal-organ-harmony/CHRONOLOGY_AND_CAUSAL_RECONSTRUCTION.md) — **active provisional authority**
+  - [`comparative-ethics` — Comparative ethics: protection, imposed harm and responsibility](studies/project-itoh-genocidal-organ-harmony/COMPARATIVE_ETHICS_AND_FORM.md) — **active provisional authority**
 
 ### Jougasaki Mika
 
