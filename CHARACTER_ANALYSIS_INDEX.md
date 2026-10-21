@@ -5935,6 +5935,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`character-model` — Bounded character analysis through V13](series/mushoku-tensei/04%20Character%20Analysis/sara/RECONSTRUCTION_MODEL.md)
 
+### Satou Kazuma
+
+- Entity ID: `konosuba:satou-kazuma`
+- Entity aliases:
+  - _None._
+
+#### Subject: Original light-novel continuity, main-principal analysis
+
+- Analysis subject ID: `konosuba:satou-kazuma@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `main-principal-synthesis`: LIGHT_NOVEL VOLUME: Longitudinal specialist synthesis of the admitted main-novel 01–17 principal narratives: comfort and autonomy, local problem-solving and implementation failures, competing rewards, particular attachment, agency and harm, narrator access, ordinary life and written pragmatics. This is review of the bounded synthesis, not a new full source reading. Holdouts, supplemental narratives, excluded edition components and adaptations are outside this evidence item’s coverage; later ledger qualifications do not widen that scope.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`main-principal-monograph` — Satou Kazuma: main-principal character monograph](series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_KAZUMA_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
 ### Sayuri Ichinose
 
 - Entity ID: `rent-a-girlfriend:sayuri-ichinose`
