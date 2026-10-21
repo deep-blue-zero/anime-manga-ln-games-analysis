@@ -2591,16 +2591,25 @@ def validate_project_initiation_gate(
             # A first publication may batch an actually completed local run.
             # A self-contained proof survives squash integration and requires
             # the exact completed reading set, never merely an active ancestor.
+            # It replaces only main with no recorded run or a consistently
+            # completed one: main's active run keeps the ordinary closing route
+            # without consulting a stale proof, and its blocked, interrupted or
+            # malformed state is never bypassed.
             current_entry = snapshot.get(entrypoint)
             state, _ = _execution_state(current_entry.data, entrypoint) if current_entry else ({}, [])
             run_state = state.get("run_state")
-            if admissions and isinstance(run_state, str) and run_state in TERMINAL_RUN_STATES:
+            prior_state, prior_errors = (
+                _execution_state(previous.data, entrypoint) if previous else ({}, [])
+            )
+            prior_run = prior_state.get("run_state")
+            if (admissions and isinstance(run_state, str) and run_state in TERMINAL_RUN_STATES
+                    and not prior_errors and ("run_state" not in prior_state or (
+                        isinstance(prior_run, str) and prior_run in TERMINAL_RUN_STATES))):
                 proved_previous, proof_errors = _completed_publication_previous(
                     snapshot, project_prefix, entrypoint, classification,
                 )
                 errors.extend(proof_errors)
-                prior_state, _ = _execution_state(previous.data, entrypoint) if previous else ({}, [])
-                if proved_previous is not None and prior_state.get("run_state") != "active":
+                if proved_previous is not None:
                     previous = proved_previous
             errors.extend(_validate_run_admission(
                 snapshot, entrypoint, previous,

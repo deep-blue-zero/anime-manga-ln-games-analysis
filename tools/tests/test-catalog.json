@@ -67,6 +67,38 @@
       ],
       "purpose": "Permit attributable nonreading changes while preserving historical classification and the ordinary architecture gate."
     },
+    "test_project_initiation_gate.RunAdmissionTests.test_completion_proof_cannot_replace_blocked_interrupted_or_malformed_main": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/completed_run_publication.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md"
+      ],
+      "purpose": "Never substitute a valid proof for a blocked, interrupted, partial, malformed or contradictory run state on main."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_stale_completion_proof_does_not_block_main_active_completion": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/completed_run_publication.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md"
+      ],
+      "purpose": "Complete a later main-active run through the ordinary route and post-merge audit while an earlier proof stays tracked."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_completion_proof_reads_commit_parents_exactly_as_git": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/completed_run_publication.py",
+        "tools/tests/test_project_initiation_gate.py"
+      ],
+      "purpose": "Reject a hash-valid proof commit whose claimed parent appears only after another line break or a later header."
+    },
     "test_nightly_integration.CleanupTests.test_transient_cleanup_preserves_success_and_never_replays_remote_mutations": {
       "group": "regression",
       "smoke": false,

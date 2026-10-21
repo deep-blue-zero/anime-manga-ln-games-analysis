@@ -40,6 +40,25 @@ def _oid(value: Any, width: int | None = None) -> str:
     return value
 
 
+def commit_headers(text: str) -> tuple[str, list[str]]:
+    """Read a commit's tree and first parent lines exactly as Git does.
+
+    Git separates headers only by LF and takes parents solely from the lines
+    immediately after the tree, so no other line break or header can add one.
+    """
+    headers = text.split("\n\n", 1)[0].split("\n")
+    if not headers[0].startswith("tree ") or any(
+        line.startswith("tree ") for line in headers[1:]
+    ):
+        raise DomainError("completion proof commit has invalid tree header")
+    parents = []
+    for line in headers[1:]:
+        if not line.startswith("parent "):
+            break
+        parents.append(line[7:])
+    return headers[0][5:], parents
+
+
 class CompletionProof:
     """Verify a bounded textual object graph independently of the object DB."""
 
@@ -71,12 +90,9 @@ class CompletionProof:
             if (not isinstance(text, str) or "\0" in text
                     or object_id("commit", text.encode("utf-8"), self.width) != oid):
                 raise DomainError("completion proof commit hash mismatch")
-            headers = text.split("\n\n", 1)[0].splitlines()
-            trees = [line[5:] for line in headers if line.startswith("tree ")]
-            if len(trees) != 1 or not headers or headers[0] != "tree " + trees[0]:
-                raise DomainError("completion proof commit has invalid tree header")
-            self.commit_trees[oid] = _oid(trees[0], self.width)
-            parents[oid] = [_oid(line[7:], self.width) for line in headers if line.startswith("parent ")]
+            tree, commit_parents = commit_headers(text)
+            self.commit_trees[oid] = _oid(tree, self.width)
+            parents[oid] = [_oid(parent, self.width) for parent in commit_parents]
         if not parents[self.completion] or parents[self.completion][0] != self.active:
             raise DomainError("completion commit must directly follow its active first parent")
         self.trees: dict[str, list[tuple[str, str, str]]] = {}
@@ -168,8 +184,7 @@ def build_proof(candidate: GitSnapshot, prefix: str, entrypoint: str,
     _oid(completion)
     root = candidate.root
     raw_completion = run_git(root, "cat-file", "commit", completion).decode("utf-8")
-    parents = [line[7:] for line in raw_completion.split("\n\n", 1)[0].splitlines()
-               if line.startswith("parent ")]
+    _tree, parents = commit_headers(raw_completion)
     if not parents:
         raise DomainError("completion commit has no active first parent")
     active = parents[0]
@@ -193,7 +208,7 @@ def build_proof(candidate: GitSnapshot, prefix: str, entrypoint: str,
         return record["trees"][oid]
 
     def resolve(commit: str, path: str) -> tuple[str, str]:
-        oid = record["commits"][commit].splitlines()[0][5:]
+        oid = commit_headers(record["commits"][commit])[0]
         for part in PurePosixPath(path).parts:
             rows = [(mode, child) for mode, name, child in tree(oid) if name == part]
             if len(rows) != 1:

@@ -17,7 +17,7 @@ sys.path.insert(0, str(TOOLS))
 
 from analytical_preflight import ROUTING_OUTPUTS, routing_preflight  # noqa: E402
 from character_index_core import AuthorityGraph, GitSnapshot, SnapshotEntry, run_git  # noqa: E402
-from completed_run_publication import PROOF_NAME, build_proof  # noqa: E402
+from completed_run_publication import PROOF_NAME, build_proof, object_id  # noqa: E402
 from validate_repository import (  # noqa: E402
     PROJECT_INITIATION_GATE_PATH,
     _is_substantive_sequential_artifact,
@@ -1572,6 +1572,84 @@ class RunAdmissionTests(unittest.TestCase):
             entry.path, entry.mode, original.data.replace(b"terminal_boundary: V02", b"terminal_boundary: V03"))
         self.publish(prior)
         self.assertTrue(any("active authorized run" in error for error in self.failures(candidate)))
+
+    def test_completion_proof_cannot_replace_blocked_interrupted_or_malformed_main(self):
+        candidate, _ = self.completed_batch()
+        self.assertEqual(self.failures(candidate), [])
+        base = self.main
+        stops = (
+            (b"run_state: completed", b"run_state: blocked"),
+            (b"run_state: completed", b"run_state: interrupted_pending_recovery"),
+            (b"run_state: completed", b"run_state: {bad: value}"),
+            (b"  run_state: completed\n", b""),
+            (b"run_state: completed\n```\n",
+             b"run_state: completed\n```\n\n```yaml\nsequential_execution:\n  run_state: active\n```\n"),
+        )
+        for old, new in stops:
+            with self.subTest(main=new):
+                self.main = base
+                prior = self.candidate()
+                entry = prior.entries[self.fixture.entrypoint]
+                prior.entries[entry.path] = SnapshotEntry(entry.path, entry.mode, entry.data.replace(old, new))
+                self.publish(prior)
+                # A published stop or unreadable main state keeps the ordinary
+                # route; a valid proof is never substituted for it.
+                errors = self.failures(candidate)
+                self.assertTrue(any("active authorized run" in error for error in errors), errors)
+
+    def test_stale_completion_proof_does_not_block_main_active_completion(self):
+        candidate, _ = self.completed_batch()
+        self.publish(candidate)
+        f = self.fixture
+        proof = candidate.entries[f.prefix + PROOF_NAME]
+
+        def second_run(run, *units):
+            snapshot = self.candidate(run)
+            entry = snapshot.entries[f.entrypoint]
+            data = entry.data
+            for old, new in ((b"authorized_start: V01", b"authorized_start: V03"),
+                             (b"terminal_boundary: V02", b"terminal_boundary: V04"),
+                             (b"committed_high_water_mark: V01", b"committed_high_water_mark: V03"),
+                             (b"committed_high_water_mark: V02", b"committed_high_water_mark: V04"),
+                             (b"operation: V02", b"operation: V04")):
+                data = data.replace(old, new)
+            snapshot.entries[entry.path] = SnapshotEntry(entry.path, entry.mode, data)
+            for unit in ("02", *units):
+                path = f"{f.prefix}SOURCE_UNIT_{unit}.md"
+                snapshot.entries[path] = candidate.entries.get(path) or SnapshotEntry(
+                    path, "100644", authority_markdown("deep_reading", f"Unit {unit}"))
+            snapshot.entries[proof.path] = proof
+            return snapshot
+
+        # The earlier run's proof stays tracked while a later run is published
+        # active on main and then completed through the ordinary route.
+        active = second_run("active", "03")
+        self.assertEqual(self.failures(active), [])
+        self.publish(active)
+        completed = second_run("completed", "03", "04")
+        self.assertEqual(self.failures(completed), [])
+        head = self.publish(completed)
+        self.assertEqual(self.failures(GitSnapshot.from_commit(self.root, head)), [])
+
+    def test_completion_proof_reads_commit_parents_exactly_as_git(self):
+        candidate, _ = self.completed_batch()
+        path = self.fixture.prefix + PROOF_NAME
+        original = json.loads(candidate.entries[path].data)
+        active = original["active_commit"]
+        headers, message = original["commits"][original["completion_commit"]].split("\n\n", 1)
+        unparented = [line for line in headers.split("\n") if not line.startswith("parent ")]
+        # Git reads parents only from LF-separated lines right after the tree,
+        # so neither a later header nor another line break can supply one.
+        for forged in (f"x-note  parent {active}", f"parent {active}"):
+            with self.subTest(forged=forged):
+                record = json.loads(candidate.entries[path].data)
+                text = "\n".join(unparented + [forged]) + "\n\n" + message
+                oid = object_id("commit", text.encode("utf-8"), len(active))
+                record["commits"] = {active: original["commits"][active], oid: text}
+                record["completion_commit"] = oid
+                candidate.entries[path] = SnapshotEntry(path, "100644", json.dumps(record).encode())
+                errors = self.failures(candidate)
+                self.assertTrue(any("active first parent" in error for error in errors), errors)
 
     def test_completion_proof_preserves_nonreading_corrections_and_existing_gate(self):
         candidate, completion = self.completed_batch()
