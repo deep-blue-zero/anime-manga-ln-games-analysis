@@ -27,6 +27,7 @@ from character_index_core import (
     decode_jsonl_with_lines,
     decode_reconstruction_registry,
     evaluate_reconstruction_assessments,
+    is_ancestor_commit,
     load_reconstruction_policy,
     reconstruction_registry_changes,
     render_schema_diagnostics,
@@ -96,6 +97,9 @@ PROTECTED_HASHES = {
 # The evaluator's ordinary production delta. Any other path changed beside
 # these requires a reviewed amendment that also changes the publication gate.
 RECONSTRUCTION_OUTPUTS = frozenset({RECONSTRUCTION_REGISTRY_PATH, RECONSTRUCTION_INDEX_PATH})
+# The curation agent's ordinary delta on its continuing branch.
+DISCOVERY_BRANCH_REF = "refs/remotes/origin/character-registry"
+DISCOVERY_OUTPUTS = frozenset({"characters/registry.jsonl", "CHARACTER_ANALYSIS_INDEX.md"})
 NATIVE_SHEET_SCHEMA = "governance/schemas/native-sheet-structure.schema.json"
 NATIVE_SHEET_SCHEMA_ID = "manga-anime-git-migration/native-sheet-structure/v1"
 NATIVE_SHEET_TRANSFORMATION = (
@@ -300,10 +304,15 @@ def validate_audit_workflow(
         'MANGA_ANIME_TEST_TMP: "${{ runner.temp }}/manga-anime-tests"',
         'AUDIT_COMMIT: ${{ github.event_name == \'repository_dispatch\' && github.event.client_payload.commit_sha || github.sha }}',
         'git fetch --no-tags origin "${AUDIT_COMMIT}"',
+        "if git ls-remote --exit-code --heads origin character-registry > /dev/null; then",
+        "git fetch --no-tags origin refs/heads/character-registry:refs/remotes/origin/character-registry",
+        'test "${status}" -eq 2',
         'test "$(git rev-parse --is-shallow-repository)" = "false"',
         "--require-hashes",
         "tools/validate_repository.py",
         'audit_args+=(--routing-preflight "${AUDIT_BRANCH}")',
+        'if [[ "${AUDIT_BRANCH}" = "character-registry" && "${AUDIT_EVENT}" != "repository_dispatch" ]]; then',
+        "audit_args+=(--discovery-branch-confinement)",
         'steps.validate.outputs.integration_state',
         'mkdir -p "${MANGA_ANIME_TEST_TMP}"',
         'python tools/audit_execution.py --snapshot commit --commit "${AUDIT_COMMIT}" --base "${AUDIT_BASE}" --profile "${REGRESSION_PROFILE}" --report-json "${RUNNER_TEMP}/test-timings.json"',
@@ -4413,6 +4422,72 @@ def validate_reconstruction_domain(
     return errors, notices
 
 
+def validate_discovery_branch_confinement(root: Path, kind: str, commit: str | None) -> list[str]:
+    """Bound a `character-registry` delta to the two discovery outputs.
+
+    Applied only to the curation agent's continuing branch: coordinated
+    pre-merge repairs on analytical branches legitimately carry the same two
+    files beside their analytical root and are confined by housekeeping and the
+    integration controller instead.
+    """
+
+    target = _reconstruction_target_commit(root, kind, commit)
+    try:
+        base = _reconstruction_integration_base(root, target, kind)
+    except DomainError as exc:
+        return [f"unable to determine the discovery branch base: {exc}"]
+    if base is None:
+        return [
+            "discovery branch confinement needs refs/remotes/origin/main; fetch main first"
+        ]
+    try:
+        changed = _reconstruction_delta_paths(root, kind, base, commit)
+    except DomainError as exc:
+        return [f"unable to determine the discovery branch delta: {exc}"]
+    extra = sorted(changed - DISCOVERY_OUTPUTS, key=lambda item: item.encode("utf-8"))
+    if extra:
+        return [
+            "character-registry delta may contain only characters/registry.jsonl and "
+            f"CHARACTER_ANALYSIS_INDEX.md; other changed paths: {extra}"
+        ]
+    return []
+
+
+def discovery_branch_candidate(root: Path, kind: str, commit: str | None) -> bool:
+    """Whether the audited commit is unmerged `character-registry` history.
+
+    Identity comes from the fetched live branch ref, so every audit of such a
+    commit is confined whichever event started it, including an exact-commit
+    repository dispatch whose run context names `main`.
+    """
+
+    target = _reconstruction_target_commit(root, kind, commit)
+    if target is None:
+        return False
+    try:
+        tip = run_git(root, "rev-parse", "--verify", "-q", DISCOVERY_BRANCH_REF + "^{commit}").decode(
+            "ascii"
+        ).strip()
+    except DomainError:
+        return False
+    if not is_ancestor_commit(root, target, tip):
+        return False
+    main_commit = _run_closure_base_commit(root)
+    return not (main_commit is not None and is_ancestor_commit(root, target, main_commit))
+
+
+def discovery_confinement_errors(
+    root: Path, kind: str, commit: str | None, *, requested: bool
+) -> list[str]:
+    """Apply confinement when requested explicitly or the commit is curation history."""
+
+    try:
+        applies = requested or discovery_branch_candidate(root, kind, commit)
+    except DomainError as exc:
+        return [f"unable to determine whether the audited commit is curation history: {exc}"]
+    return validate_discovery_branch_confinement(root, kind, commit) if applies else []
+
+
 def choose_snapshot(root: Path, kind: str, commit: str | None) -> tuple[GitSnapshot, list[str]]:
     if kind == "commit":
         if commit is None:
@@ -4436,6 +4511,11 @@ def main() -> int:
     parser.add_argument("--commit")
     parser.add_argument("--manifest", type=Path)
     parser.add_argument("--routing-preflight", metavar="ANALYTICAL_BRANCH")
+    parser.add_argument(
+        "--discovery-branch-confinement",
+        action="store_true",
+        help="require the delta against main to contain only the two discovery outputs",
+    )
     parser.add_argument("--result-json", type=Path)
     parser.add_argument("--timings-json", type=Path)
     parser.add_argument("--repo", type=Path)
@@ -4457,6 +4537,10 @@ def main() -> int:
             args.phase != "current" or kind not in {"index", "commit"}
         ):
             raise DomainError("routing preflight requires a current Git index or exact commit")
+        if args.discovery_branch_confinement and (
+            args.phase != "current" or kind not in {"index", "commit"}
+        ):
+            raise DomainError("discovery branch confinement requires a current Git index or exact commit")
         snapshot, paths = timer.call("snapshot", choose_snapshot, root, kind, commit)
         deferred_routing: list[str] = []
         reconstruction_notices: list[str] = []
@@ -4529,6 +4613,17 @@ def main() -> int:
                 "reconstruction", validate_reconstruction_domain, root, snapshot, kind, commit, authority
             )
             errors.extend(reconstruction_errors)
+            if args.phase == "current" and kind in {"index", "commit"}:
+                errors.extend(
+                    timer.call(
+                        "discovery_confinement",
+                        discovery_confinement_errors,
+                        root,
+                        kind,
+                        commit,
+                        requested=args.discovery_branch_confinement,
+                    )
+                )
             if not deferred_routing:
                 errors.extend(
                     timer.call("catalog_render", validate_generated_repository_indexes, snapshot)
