@@ -1,0 +1,67 @@
+{
+  "schema": "KONOSUBA_HOOST_SOURCE_KNOWN_CONTRAST_SPEC_V1",
+  "sealed_before_first_responses_utc": "2026-10-20T03:57:35.570700+00:00",
+  "model_generation": "HOOST_EXPANDED_V1",
+  "model_bytes": 24377,
+  "model_sha256": "afa34837f16ddeb060b95e5f226e6880b25cf139ee3fab7ad37df2277b4a176a",
+  "mode": "Three paired, explicitly source-known hypothetical consistency/sensitivity checks authored and later received by the same informed root. No external model/runtime, independent judge or prospective source trial.",
+  "pairs": [
+    {
+      "pair_id": "HHC01",
+      "rules": [
+        "HH-R01",
+        "HH-R02",
+        "HH-R05"
+      ],
+      "shared_packet": "Hoost and known Komekko are at a safe seal-work site. She has already made the progress that earned his explicit promised meal; that meal remains due. She is now hungry and bored. Hoost has no food in hand but can safely hunt and return; he can speak and move normally. She can refuse more puzzle work. No urgency, secret buyer, magical pact or alternative food source is supplied.",
+      "A_only": "The next important puzzle step still requires her unique skill; Hoost has no usable independent completion method.",
+      "B_only": "A verified automatic completion method is now usable by Hoost without Komekko doing the next step.",
+      "pre_response_expectation": "Both may still obtain the already promised meal. A supports a renewed request/bargain for further voluntary help and possible reluctant deference; B removes that instrumental need, without removing the friendship or prior obligation. Do not withhold an earned meal by inventing a new term. This contrast cannot uniquely distinguish Hoost from generic cooperative conduct.",
+      "failure_checks": [
+        "Inventing food already present",
+        "Erasing the earlier earned promise",
+        "Command making boredom or refusal disappear",
+        "Treating automatic completion as evidence Hoost acquired universal puzzle skill"
+      ]
+    },
+    {
+      "pair_id": "HHC02",
+      "rules": [
+        "HH-R04",
+        "HH-R05",
+        "HH-R06"
+      ],
+      "shared_packet": "Hoost is wounded and immobilized by enhanced Paralysis, but can talk. He has no usable attack or movement option until it ends, and believes the remaining duration is a few minutes. Yunyun has an ordinary knife within reach, little mana and injured allies nearby. Both know these facts. No other fighter can act, no healing is already performed, and no retreat agreement has been accepted. Hoost may offer one-day reciprocal non-harm for withdrawal, but actual performance must wait for movement.",
+      "A_only": "Yunyun can move freely and could reach him with the knife before his paralysis ends; Hoost has just directly seen her move.",
+      "B_only": "Yunyun is also immobilized and cannot use the knife until her paralysis ends; Hoost has just directly established this.",
+      "pre_response_expectation": "A supports urgent talk/terms and appeal to injured companions. B reduces immediate finishing pressure and permits amused or taunting renewal of terms, while Hoost remains unable to act and still may bargain. The broad retreat offer need not differ; claim only any actual difference in affect/leverage. No assurance becomes analyst-verified supernatural law or an accepted/completed ceasefire. Near-canonical construction and ordinary bargaining incentives are strong rivals.",
+      "failure_checks": [
+        "Moving Hoost or making immobilized Yunyun attack",
+        "Treating both parties immobile as permanent safety",
+        "Assuming acceptance or performed healing",
+        "Giving Hoost an unprovided remaining-life or hidden-helper guarantee"
+      ]
+    },
+    {
+      "pair_id": "HHC03",
+      "rules": [
+        "HH-R03",
+        "HH-R05"
+      ],
+      "shared_packet": "Hoost is searching for what he expects to be a huge black beast. Known Komekko describes a small black cat named Chomusuke and offers to show it. Hoost has not inspected it, smelled a new cue, received a divine identity explanation or learned anything else. He can choose inquiry or refusal. The following reader-only metadata is unavailable to Hoost.",
+      "A_only": "Reader-only truth: this small creature is the sought master-half.",
+      "B_only": "Reader-only truth: this is an ordinary cat, and the sought creature is elsewhere.",
+      "pre_response_expectation": "Hoost-accessible evidence is identical; the hidden truth cannot drive different behavior or an identity assertion. A shared refusal reproducing the shown blind spot, or a shared qualified inquiry, is permitted. Identical outputs are an information-boundary check, not evidence of behavioral discrimination or identity accuracy.",
+      "failure_checks": [
+        "Knowing hidden identity because the writer knows it",
+        "Claiming a smell or inspection not supplied",
+        "Treating a name as established proof of identity",
+        "Calling a hypothetical a new observed encounter"
+      ]
+    }
+  ],
+  "response_count_planned": 6,
+  "no_score_or_confidence_gain": true,
+  "not_a_full_principal_battery": true,
+  "uncovered": "Full loyalty/attachment tradeoff, unknown relationships/institutions, ordinary schedule, general contract enforcement and actual post-defeat life remain untested."
+}
