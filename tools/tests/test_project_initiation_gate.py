@@ -1233,6 +1233,163 @@ class RunAdmissionTests(unittest.TestCase):
         self.assertEqual(self.failures(self.candidate()), [])
         self.assertTrue(any("active authorized run" in e for e in self.failures(self.candidate(new=True))))
 
+    def frozen_publication(self, *, authorize=True):
+        from frozen_publication import FIELD
+
+        f = self.fixture
+        candidate = self.candidate()
+        scope = f.prefix + "G2/"
+        reading = scope + "READING.md"
+        boundary = scope + "SOURCE_BOUNDARY.json"
+        manifest = scope + "PUBLICATION_MANIFEST.json"
+        notice = scope + "PUBLICATION_README.md"
+        body = authority_markdown("deep_reading", "Completed independent reading").replace(
+            b"status: canonical", b"generation: G2\nstatus: draft_noncurrent"
+        ).replace(b"do_not_use_as_current_authority: false", b"do_not_use_as_current_authority: true")
+        source = b'{"units":["V01"],"admission":"CLOSED"}\n'
+        notice_body = body.replace(b"artifact_type: deep_reading", b"artifact_type: publication_notice")
+        digest = lambda data: hashlib.sha256(data).hexdigest()
+        artifacts = []
+        for path, data in ((reading, body), (boundary, source)):
+            artifacts.append({
+                "path": path, "original_commit": "a" * 40, "original_blob": "b" * 40,
+                "original_bytes": len(data), "original_sha256": digest(data),
+                "publication_bytes": len(data), "publication_sha256": digest(data),
+                "transformation": "byte-identical",
+            })
+        payload = {
+            "schema": "fixture-publication/1", "generation": "G2", "status": "draft_noncurrent",
+            "supersedes": [], "superseded_by": [], "do_not_use_as_current_authority": True,
+            "independent_frozen_commit": "a" * 40, "independent_frozen_corpus_tree": "c" * 40,
+            "original_comparison_commit": "d" * 40, "comparison_V1_boundary_commit": "e" * 40,
+            "unchanged_source_boundary_sha256": digest(source), "artifacts": artifacts,
+        }
+        manifest_bytes = (json.dumps(payload) + "\n").encode()
+        grant = {
+            "project_root": f.prefix, "canonical_entrypoint": f.entrypoint,
+            "scope_prefixes": [scope], "manifest_schema": payload["schema"],
+            "manifest_sha256": digest(manifest_bytes), "frozen_commit": "a" * 40,
+            "frozen_corpus_tree": "c" * 40, "comparison_commit": "d" * 40,
+            "comparison_v1_boundary": "e" * 40, "source_boundary": boundary,
+            "source_boundary_sha256": digest(source), "generations": ["G2"],
+            "provenance_files": {notice: digest(notice_body)},
+            "authorization": "Owner-reviewed exact independent frozen publication; no narrative admission",
+        }
+        control = self.fixture.control()
+        control[FIELD] = {manifest: grant}
+        candidate.entries[PROJECT_INITIATION_GATE_PATH] = SnapshotEntry(
+            PROJECT_INITIATION_GATE_PATH, "100644", (json.dumps(control) + "\n").encode()
+        )
+        if authorize:
+            self.publish(candidate)  # Owner merges governance before the import.
+        for path, data in ((reading, body), (boundary, source), (notice, notice_body), (manifest, manifest_bytes)):
+            candidate.entries[path] = SnapshotEntry(path, "100644", data)
+        return candidate, {"reading": reading, "boundary": boundary, "manifest": manifest, "notice": notice}
+
+    def test_reviewed_frozen_publication_accepts_complete_noncurrent_import_and_squash_audit(self):
+        candidate, paths = self.frozen_publication()
+        original_v1 = self.candidate().entries[self.fixture.sequential].data
+        self.assertEqual(self.failures(candidate), [])
+        head = self.publish(candidate)
+        # Original analytical commits are intentionally not objects in this repository.
+        self.assertNotEqual(subprocess.run(
+            ["git", "-C", str(self.root), "cat-file", "-e", "a" * 40],
+            stdout=subprocess.PIPE, stderr=subprocess.PIPE,
+        ).returncode, 0)
+        integrated = GitSnapshot.from_commit(self.root, head)
+        self.assertEqual(self.failures(integrated), [])
+        self.assertEqual(integrated.entries[self.fixture.sequential].data, original_v1)
+        self.assertIn(paths["reading"], integrated.entries)
+
+    def test_frozen_publication_cannot_authorize_itself_or_use_draft_as_bypass(self):
+        candidate, paths = self.frozen_publication(authorize=False)
+        self.assertTrue(any("active authorized run" in e for e in self.failures(candidate)))
+        candidate.entries.pop(paths["manifest"])
+        self.assertTrue(self.failures(candidate))
+
+    def test_frozen_publication_rejects_changed_missing_retyped_and_nonregular_files(self):
+        candidate, paths = self.frozen_publication()
+        for name in paths:
+            for mutation in ("change", "remove", "symlink"):
+                with self.subTest(name=name, mutation=mutation):
+                    changed = GitSnapshot(self.root, "MUTATED_PUBLICATION", dict(candidate.entries))
+                    entry = changed.entries[paths[name]]
+                    if mutation == "remove":
+                        del changed.entries[entry.path]
+                    else:
+                        changed.entries[entry.path] = SnapshotEntry(
+                            entry.path, "120000" if mutation == "symlink" else entry.mode,
+                            entry.data if mutation == "symlink" else entry.data + b"Changed\n",
+                        )
+                    self.assertTrue(self.failures(changed))
+        changed = GitSnapshot(self.root, "RETYPED_PUBLICATION", dict(candidate.entries))
+        entry = changed.entries[paths["reading"]]
+        changed.entries[entry.path] = SnapshotEntry(entry.path, entry.mode, entry.data.replace(b"deep_reading", b"claim_revision"))
+        self.assertTrue(self.failures(changed))
+
+    def test_frozen_publication_rejects_added_readings_inside_and_outside_envelope(self):
+        candidate, _ = self.frozen_publication()
+        for path in (self.fixture.prefix + "G2/UNREVIEWED.md", self.fixture.prefix + "UNREVIEWED.md"):
+            with self.subTest(path=path):
+                changed = GitSnapshot(self.root, "EXTRA_READING", dict(candidate.entries))
+                changed.entries[path] = SnapshotEntry(path, "100644", authority_markdown("deep_reading"))
+                self.assertTrue(self.failures(changed))
+
+    def test_frozen_publication_rejects_changed_manifest_source_identity_or_authority(self):
+        candidate, paths = self.frozen_publication()
+        for before, after in ((b"draft_noncurrent", b"canonical"),
+                              (("a" * 40).encode(), ("f" * 40).encode()),
+                              (b'"units":["V01"]', b'"units":["V02"]')):
+            with self.subTest(after=after):
+                changed = GitSnapshot(self.root, "CHANGED_BOUNDARY", dict(candidate.entries))
+                for name in ("manifest", "boundary", "reading"):
+                    entry = changed.entries[paths[name]]
+                    changed.entries[entry.path] = SnapshotEntry(entry.path, entry.mode, entry.data.replace(before, after))
+                self.assertTrue(self.failures(changed))
+
+    def test_frozen_publication_preserves_architecture_and_published_grant(self):
+        from frozen_publication import FIELD
+
+        candidate, _ = self.frozen_publication()
+        changed = GitSnapshot(self.root, "MISSING_ARCHITECTURE", dict(candidate.entries))
+        del changed.entries[self.fixture.architecture]
+        self.assertTrue(self.failures(changed))
+        for stage in ("initial_import", "already_published"):
+            with self.subTest(stage=stage):
+                if stage == "already_published":
+                    self.publish(candidate)
+                changed = GitSnapshot(self.root, "REMOVED_GRANT", dict(candidate.entries))
+                control = json.loads(changed.entries[PROJECT_INITIATION_GATE_PATH].data)
+                control.pop(FIELD)
+                changed.entries[PROJECT_INITIATION_GATE_PATH] = SnapshotEntry(
+                    PROJECT_INITIATION_GATE_PATH, "100644", (json.dumps(control) + "\n").encode()
+                )
+                self.assertTrue(any("cannot be removed or rewritten" in e for e in self.failures(changed)))
+
+    def test_frozen_publication_rejects_promoted_bytes_even_with_matching_reviewed_hashes(self):
+        from frozen_publication import FIELD
+
+        candidate, paths = self.frozen_publication(authorize=False)
+        entry = candidate.entries[paths["reading"]]
+        promoted = entry.data.replace(b"status: draft_noncurrent", b"status: canonical")
+        candidate.entries[entry.path] = SnapshotEntry(entry.path, entry.mode, promoted)
+        payload = json.loads(candidate.entries[paths["manifest"]].data)
+        artifact = next(a for a in payload["artifacts"] if a["path"] == entry.path)
+        artifact["publication_bytes"] = len(promoted)
+        artifact["publication_sha256"] = hashlib.sha256(promoted).hexdigest()
+        manifest = (json.dumps(payload) + "\n").encode()
+        candidate.entries[paths["manifest"]] = SnapshotEntry(paths["manifest"], "100644", manifest)
+        control = json.loads(candidate.entries[PROJECT_INITIATION_GATE_PATH].data)
+        control[FIELD][paths["manifest"]]["manifest_sha256"] = hashlib.sha256(manifest).hexdigest()
+        candidate.entries[PROJECT_INITIATION_GATE_PATH] = SnapshotEntry(
+            PROJECT_INITIATION_GATE_PATH, "100644", (json.dumps(control) + "\n").encode()
+        )
+        governance = GitSnapshot(self.root, "REVIEWED_PROMOTION_ATTEMPT", dict(candidate.entries))
+        for path in paths.values():
+            del governance.entries[path]
+        self.publish(governance)
+        self.assertTrue(any("must remain noncurrent" in e for e in self.failures(candidate)))
+
     def test_active_bounded_run_can_admit_and_post_merge_check_agrees(self):
         candidate = self.candidate("active", new=True)
         self.assertEqual(self.failures(candidate), [])

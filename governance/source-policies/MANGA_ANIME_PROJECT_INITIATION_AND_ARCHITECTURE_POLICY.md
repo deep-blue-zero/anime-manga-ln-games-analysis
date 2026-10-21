@@ -292,6 +292,16 @@ These checks establish machine-readable consistency, not owner approval or seman
 
 ---
 
+### 3.9.5 Retrospective publication of an independently frozen generation
+
+Publishing an already completed, independently frozen **noncurrent** generation is distinct from admitting another primary narrative unit. A generation label or `draft_noncurrent` status alone never establishes this distinction. Where ordinary project-local run/closure mechanisms cannot represent the import without misstating another generation's execution, the owner may first merge an exact `frozen_generation_publications` binding into `governance/repository-controls/project-initiation-gate.json` through the separate reserved governance route. A binding added on the publication candidate itself has no admission effect.
+
+The binding identifies the registered project and its unchanged single canonical entrypoint, publication-only subdirectories, the exact publication-manifest SHA-256, immutable original analytical commit and corpus tree, original comparison and V1 boundary commits, the recoverable source-boundary file and digest, explicit owner authorization, generation identities, and any additional publication-provenance file digests. Before proposing the binding, recover and verify every original/publication digest mapping against the historical originals. Record technical normalization as a derivative; never represent changed publication bytes as the original freeze. Original private Git history and source payloads need not become public ancestors or artifacts.
+
+The validator uses only bindings already on fetched main. An unused binding is inert. Once any file in its reserved publication envelope is present, the complete manifest, every mapped artifact and every provenance file must be regular, present at its exact reviewed bytes, and together constitute exactly that envelope. The manifest must retain its frozen identities, source boundary, complete original-versus-publication mappings and noncurrent authority metadata. Every published Markdown artifact retains `draft_noncurrent`, `do_not_use_as_current_authority: true`, empty supersession lists and its reviewed generation identity. Missing, altered, retyped, nonregular or additional files fail; publication must retain its reviewed binding during import and after publication.
+
+Only those verified files are excluded from the **new narrative admission** delta for their own registered root. Architecture/current-method checks, existing run-stop and terminal seals, historical preservation, publication hazards and all other repository checks remain active. An extra reading outside the exact envelope still needs an ordinary authorized active run. The import does not resume or extend V1, open a source gate, certify new literary findings, authorize corrections, or promote analytical authority. Mutable operational routing may separately record truthful completed-run status and publication routes through attributable targeted edits, preserving historical readings, freezes, source boundaries and receipts. No general generation-management or source-authorization framework is created.
+
 # 4. Paired-foundation responsibility split
 
 The required pair exists because the two governing responsibilities are different.

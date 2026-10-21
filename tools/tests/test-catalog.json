@@ -3389,6 +3389,83 @@
       ],
       "purpose": "terminal independent execution fences cannot hide conflicts."
     },
+    "test_project_initiation_gate.RunAdmissionTests.test_reviewed_frozen_publication_accepts_complete_noncurrent_import_and_squash_audit": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/frozen_publication.py",
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "Accept the exact owner-bound noncurrent import and post-squash audit without publishing private original commit objects; preserve V1 bytes."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_frozen_publication_cannot_authorize_itself_or_use_draft_as_bypass": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/frozen_publication.py",
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "Reject candidate-side self-authorization and prevent draft status from bypassing ordinary run admission."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_frozen_publication_rejects_changed_missing_retyped_and_nonregular_files": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/frozen_publication.py",
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "Reject changed, missing, retyped and nonregular files in the reviewed frozen publication envelope."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_frozen_publication_rejects_added_readings_inside_and_outside_envelope": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/frozen_publication.py",
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "Reject unlisted imported readings and preserve ordinary admission checks outside the exact envelope."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_frozen_publication_rejects_changed_manifest_source_identity_or_authority": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/frozen_publication.py",
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "Reject altered manifest, immutable identity, source-boundary bytes and noncurrent authority metadata."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_frozen_publication_preserves_architecture_and_published_grant": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/frozen_publication.py",
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "Preserve mandatory architecture checks and reject grant removal during initial import and after publication."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_frozen_publication_rejects_promoted_bytes_even_with_matching_reviewed_hashes": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/frozen_publication.py",
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "Reject canonical promotion even when all publication digests are internally consistent."
+    },
     "test_project_initiation_gate.RunAdmissionTests.test_completed_open_run_preserves_readings_but_rejects_new_admission": {
       "group": "regression",
       "smoke": false,
