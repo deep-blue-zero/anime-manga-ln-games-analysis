@@ -498,6 +498,48 @@
       ],
       "purpose": "fixture baseline handles inherited pending root without changing content"
     },
+    "test_analytical_preflight.AnalyticalPreflightTests.test_fixture_baseline_restores_published_reconstruction_outputs": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_analytical_preflight.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Restore unpublished reconstruction outputs to the published bytes in the CLI fixture baseline under an unchanged policy, preserving every other authored byte."
+    },
+    "test_analytical_preflight.AnalyticalPreflightTests.test_fixture_baseline_keeps_outputs_when_the_candidate_amends_policy": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_analytical_preflight.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Keep a candidate's reconstruction outputs and policy in the CLI fixture baseline when it amends the policy, exactly as the validator exempts that delta."
+    },
+    "test_analytical_preflight.AnalyticalPreflightTests.test_cli_fixture_does_not_mix_unpublished_reconstruction_outputs": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_analytical_preflight.py",
+        "tools/*.py"
+      ],
+      "purpose": "An evaluator-branch model, with unpublished reconstruction outputs under the integration base's policy, still yields a CLI fixture whose delta against that base never mixes those outputs with the synthetic root."
+    },
+    "test_analytical_preflight.AnalyticalPreflightTests.test_cli_fixture_from_a_policy_amending_checkout": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_analytical_preflight.py",
+        "tools/*.py"
+      ],
+      "purpose": "From a checkout that amends the reconstruction policy, the CLI fixture keeps its valid outputs and validates under the exemption, and the evaluator-branch model built from it still isolates those outputs."
+    },
     "test_analytical_preflight.AnalyticalPreflightTests.test_cli_pending_then_materialized_integration": {
       "group": "live_corpus",
       "smoke": false,
