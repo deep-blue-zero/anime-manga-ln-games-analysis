@@ -1,7 +1,7 @@
 {
   "schema": "konosuba.crimson-trades-staff.cohort24.receiving.v1",
   "authored_utc": "2026-10-21T03:05:19.428176+00:00",
-  "status": "SEMANTIC_RECEIVED_EXACT_CONTAINING_PUBLICATION_PENDING",
+  "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
   "remote_source_baseline": "d7cc099fd6b5bccaeb64ae54a28801ed98172021",
   "reconciled_main": "0a6888617e6eae89d835e3bba736073a0a44857b",
   "local_ordinary_merge_commit": "d1a6f9e30762057e8c47417a2202af7ac3242a02",
@@ -373,5 +373,20 @@
     },
     "frozen_foundations_and_all_source_readings_unchanged": true,
     "no_completed_run_proof_or_source_admission_added": true
-  }
+  },
+  "publication_pending_at_authorship_history": "SEMANTIC_RECEIVED_EXACT_CONTAINING_PUBLICATION_PENDING",
+  "publication_gate_close": {
+    "source": "bb4de2bd0c6dfad9d4134f73ac9312339d02cb08",
+    "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_CRIMSON_TRADES_STAFF_COHORT24_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "49c7ac821390442474fad4c87a24bfa4799da68f5719f98ff7859702bb56df6d",
+    "tree": "7adba31479a90fd5c49f69894d99c1ee01b0a491",
+    "source_run": 39542387120,
+    "housekeeping_run": 39542745230,
+    "final_run": 39542784032,
+    "full_tests_each": 447,
+    "published_project_paths": 1238,
+    "current_models": 33,
+    "no_independent_accuracy_or_confidence_gain": true
+  },
+  "published_authority_reload_sha256": "9c8f064d0e4d6c7acb20d72b40103aacf4d27a81277b1ca383591424d52c30ed"
 }

@@ -1,8 +1,8 @@
 {
   "schema": "KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS_V1",
   "status": "INCREMENTAL_219_QUALIFIED_RECORDS_NOT_FINAL_INDIVIDUAL_DENOMINATOR",
-  "updated_utc": "2026-10-21T03:05:19.428176+00:00",
-  "scope": "Cohorts01-23 and focused qualifications retain closed gates. Cohort24 semantic foundations received; exact containing publication pending. Candidate33models/27scoped secondary model subjects,27bounded profiles,nine monograph-only subjects and219nonfinal records; full census/tiers/program open.",
+  "updated_utc": "2026-10-21T05:15:30.747701+00:00",
+  "scope": "Cohorts01-24 and focused qualifications retain closed gates. Cohort25 semantic foundations received; exact containing publication pending. Candidate33models/27scoped secondary model subjects,30bounded profiles,10monograph-only subjects and223nonfinal records; full census/tiers/program open.",
   "row_semantics": "Distinct qualified working subjects plus explicitly unresolved grouped/identity leads. A row is not automatically one final individual or an earned artifact. Old scope phrases remain their recorded history; the root current scope governs present admission status.",
   "artifact_architecture": "Use existing05 Specialist Synthesis for earned monographs and06 Character Modeling and Reconstruction for distinct mechanism models. Existing ledgers carry bounded profiles unless a separate responsibility is justified. Single current corpus map; curator-only global registry/index enrollment.",
   "rows": [
@@ -2691,28 +2691,92 @@
     },
     {
       "character": "Moguninnin / 爆殺魔人もぐにんにん",
-      "identity": "MAIN14 particular ninja robot/weapon antagonist; observed body, classifier and component damage, distinct from a generic golem.",
-      "likely_tier": "1-2 functional-agent candidate, unresolved",
-      "priority": "Discovery",
-      "evidence_distribution": "MAIN14 fullC4base text, especially322-484; later kill-card display678 and FinalP22.",
-      "substantive_responsibility": "Actual pursuit/classification, conditional block, physical attacks, damaged component, transmission claim and final destruction support bounded functional agency. K's creator/purpose speculation is not omniscient architecture.",
-      "gaps": "No universal robot personality, global attack immunity or independently watched permanent-death inspection. Determine whether bounded functional profile or richer monograph earns a distinct responsibility; no automatic human motive projection.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
-      "independent_observation_count": null
+      "identity": "Particular MAIN14 ninja-like machine,with observed target/constraint/damage/report sequence and later attributed Serena interference. No every-golem identity,universal safety or hidden human personality; creator/original-code motives unproved.",
+      "likely_tier": "1 scoped; compact profile in existing coverage audit; exact publication pending",
+      "priority": "Cohort25 source checks/semantic foundations received; exact containing publication gate pending.",
+      "evidence_distribution": "MN25-01–MN25-08 MAIN14C4P320–484,kill-cardP678,FinalP20–22; MAIN15part0012P44–49 attributed earlier interference report.",
+      "substantive_responsibility": "Observed sensing/constraint/repair/damage/transmission sequence is useful,but original program versus later interference and inner aims remain underidentified. A separate human-personality or engineering-generator artifact would duplicate a one-encounter description with unjustified hidden architecture.",
+      "gaps": "Sensing errors,original code versus interference,alternative implementations,transmission success and permanent hardware state lack independent inspection. Future evidence could support deeper functional treatment without treating nonhuman agency as automatically ineligible.",
+      "disposition_status": "COHORT25_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "prior_cohort25_current_fields": {
+        "identity": "MAIN14 particular ninja robot/weapon antagonist; observed body, classifier and component damage, distinct from a generic golem.",
+        "likely_tier": "1-2 functional-agent candidate, unresolved",
+        "priority": "Discovery",
+        "evidence_distribution": "MAIN14 fullC4base text, especially322-484; later kill-card display678 and FinalP22.",
+        "substantive_responsibility": "Actual pursuit/classification, conditional block, physical attacks, damaged component, transmission claim and final destruction support bounded functional agency. K's creator/purpose speculation is not omniscient architecture.",
+        "gaps": "No universal robot personality, global attack immunity or independently watched permanent-death inspection. Determine whether bounded functional profile or richer monograph earns a distinct responsibility; no automatic human motive projection.",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+        "source_access_type": null
+      },
+      "source_access_type": "Physical body/movement/damage/attacks and spoken classification/project report are observed in Kazuma account. Repair function,Japanese maker/protective design/resentment are inferences; Serena failed puppetry is later diary report.",
+      "cohort25_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_NATIVE_PROVENANCE.json"
+      ],
+      "cohort25_twelve_dimension_audit": {
+        "appearances": "MN25-01–MN25-08 MAIN14C4P320–484,kill-cardP678,FinalP20–22; MAIN15part0012P44–49 attributed earlier interference report.",
+        "direct_vs_reported": "Physical body/movement/damage/attacks and spoken classification/project report are observed in Kazuma account. Repair function,Japanese maker/protective design/resentment are inferences; Serena failed puppetry is later diary report.",
+        "decisions_goals_constraints": "Pursues concealed target,stops one strike before Crimson clothing,uses other attacks,waits for covered target separation,reacts to theft,then reports sensed magic/project success. No complete code or original creator priority proved.",
+        "relationships": "Selects Kazuma while respecting some Crimson restrictions; no human affection/hatred or freely chosen mission assumed. Unknown master/producer not automatically known inventor; no received headquarters response.",
+        "repeated_and_contrary": "Clothing block followed by punches contradicts universal possession shield. Component theft followed by continued mobility contradicts certain single-theft shutdown. Later interference report challenges pure factory-original account without proving its details.",
+        "ordinary_life": "No ordinary tastes,leisure,attachments or independent personal aspirations established; functional maintenance observation is not a psychological routine.",
+        "competence": "Swift attack/concealment bypass,closing cracks,continued operation with stolen component,limp and actual destructive outcome. Acid-cause and exact rib diagnosis remain guesses; no general sensor/repair limits tested.",
+        "Japanese_voice": "Mixed kana mechanical delivery and explicit classification/project language are directly useful. No general emotional register assigned.",
+        "existing_predictions": "No new forecast/rule or rewrite of earlier principal hypotheses; target declaration is source speech,not an author prediction.",
+        "prospective_tests": "No new model/firsts/pairs; institutional kill traces are same-event evidence,not repeated independent trials. No grade,accuracy or gain.",
+        "gaps": "Sensing errors,original code versus interference,alternative implementations,transmission success and permanent hardware state lack independent inspection. Future evidence could support deeper functional treatment without treating nonhuman agency as automatically ineligible.",
+        "narrators": "Kazuma observes forest encounter and later narrates diary; Megumin supplies earlier threat/capacity reports. Guild/card traces qualify same outcome rather than an independent battle narrator."
+      },
+      "cohort25_semantic_receiving_sha256": "8ca208685c8ac87be74dda2ff527a2891621c98b95a0bcc8031cee8d4b3e2e4b",
+      "cohort25_current_qualifications": "Current direct/report/state/identity limits govern this declared scope. Earlier fields and frozen cores retain authorship history. No new model,first body,independent trial,grade or confidence gain."
     },
     {
       "character": "Yunyun's father / current Crimson chief (MAIN14)",
-      "identity": "Source-bound actual father/current chief, distinct from Megumin father Hyoizaburoo; personal name not supplied by current reading.",
-      "likely_tier": "1-2 candidate, unresolved",
-      "priority": "Discovery",
-      "evidence_distribution": "MAIN14 completeC4base text, actual family/celebration/anger/spell/punch around54-76. CURRENT WORKING31: Current complete MAIN13-MAIN16 accepted report review, receipts49-52; derivative claims retain original access planes. Targeted native confirmations are separately pinned, with no new whole-source/independent-test credit.",
-      "substantive_responsibility": "Actual institutional/family reaction and punishment coexist with Yunyun's qualification and self-directed goals. His current office has not been transferred to her by qualification or her future declaration. CURRENT WORKING31: MAIN14 chief/father protective responses and role administration are distinct from Hyoizaburoo. Yunyun reports declaring her new goal/return choice to father/village; consultation/approval is not directly shown.",
-      "gaps": "Do not invent a normalized name, permanent values, retirement or abuse explanation from one scene. Cross-source father/office joins and proportional bounded profile decision due. CURRENT WORKING31 QUALIFICATION: Maintain exact father identity, own responses and reported daughter account; do not invent approval or merge all Crimson parents. Bounded individual disposition still due.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "identity": "Yunyun father/current Crimson chief is explicitly joined in MAIN05p-011P71 and MAIN14part0014P61; personal name unprovided. Own letter explanation,crisis retreat and provoked family response differ from daughter/institutional reports; other adult-role joins and office transfer unproved.",
+      "likely_tier": "1 scoped; compact profile in existing coverage audit; exact publication pending",
+      "priority": "Cohort25 source checks/semantic foundations received; exact containing publication gate pending.",
+      "evidence_distribution": "CH25-01–CH25-08: MAIN03/05/13/14/15/17,EXP01,DUST05 role/office history; direct chief material primarily MAIN05C3,MAIN05C5P132–133 and MAIN14C4P61–75.",
+      "substantive_responsibility": "Useful own choices exist,but most wide references concern daughter/institution rather than his agency. A consolidated asymmetric profile carries letter convention,crisis priority and provoked family response; a longer monograph/model would currently add unsupported routine/private mechanism.",
+      "gaps": "Routine leadership choices,unpressured private reasoning,treatment of different residents and own reaction to daughter new goal remain unknown. Qualification/title is not completed office transfer.",
+      "disposition_status": "COHORT25_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
       "independent_observation_count": null,
       "prior_gap_history_working30": "Do not invent a normalized name, permanent values, retirement or abuse explanation from one scene. Cross-source father/office joins and proportional bounded profile decision due.",
       "current_scope_asof_working31": "All17 main excluded,19 supplemental and5mixed declared source programs remain closed. Current complete main analytical-derivative review is MAIN01-17 (MAIN17 received earlier out of order); receipts49-52 finishMAIN13-16. Later checkpoints/earlier prospective reconciliation/current ledger and separate supporting-register consolidation, final census/artifacts/expanded models/curation/release remain active. No new source/whole-native/ruby/image/independent-test credit from derivative receiving. Current157qualified audit rows are not final individual population; global percentage null.",
-      "cohort06_current_evidence_qualification": "Current complete MAIN13-16 analytical receiving with exact separate native scope where receipted; historical forecasts and earlier published scoped models/gates remain unchanged. Full independent-event/census closure remains open."
+      "cohort06_current_evidence_qualification": "Current complete MAIN13-16 analytical receiving with exact separate native scope where receipted; historical forecasts and earlier published scoped models/gates remain unchanged. Full independent-event/census closure remains open.",
+      "prior_cohort25_current_fields": {
+        "identity": "Source-bound actual father/current chief, distinct from Megumin father Hyoizaburoo; personal name not supplied by current reading.",
+        "likely_tier": "1-2 candidate, unresolved",
+        "priority": "Discovery",
+        "evidence_distribution": "MAIN14 completeC4base text, actual family/celebration/anger/spell/punch around54-76. CURRENT WORKING31: Current complete MAIN13-MAIN16 accepted report review, receipts49-52; derivative claims retain original access planes. Targeted native confirmations are separately pinned, with no new whole-source/independent-test credit.",
+        "substantive_responsibility": "Actual institutional/family reaction and punishment coexist with Yunyun's qualification and self-directed goals. His current office has not been transferred to her by qualification or her future declaration. CURRENT WORKING31: MAIN14 chief/father protective responses and role administration are distinct from Hyoizaburoo. Yunyun reports declaring her new goal/return choice to father/village; consultation/approval is not directly shown.",
+        "gaps": "Do not invent a normalized name, permanent values, retirement or abuse explanation from one scene. Cross-source father/office joins and proportional bounded profile decision due. CURRENT WORKING31 QUALIFICATION: Maintain exact father identity, own responses and reported daughter account; do not invent approval or merge all Crimson parents. Bounded individual disposition still due.",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+        "source_access_type": null
+      },
+      "source_access_type": "Explicit father/current-chief joins MAIN05p-011P71 and MAIN14part0014P61. Family letter explanation,retreat statement,spell/punch direct; other invitations/mobilization/early praise are letters,daughter/peer reports or narrator appraisal.",
+      "cohort25_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_NATIVE_PROVENANCE.json"
+      ],
+      "cohort25_twelve_dimension_audit": {
+        "appearances": "CH25-01–CH25-08: MAIN03/05/13/14/15/17,EXP01,DUST05 role/office history; direct chief material primarily MAIN05C3,MAIN05C5P132–133 and MAIN14C4P61–75.",
+        "direct_vs_reported": "Explicit father/current-chief joins MAIN05p-011P71 and MAIN14part0014P61. Family letter explanation,retreat statement,spell/punch direct; other invitations/mobilization/early praise are letters,daughter/peer reports or narrator appraisal.",
+        "decisions_goals_constraints": "Defends embellished family message and explains base-tourism dispute; recognizes retreat/rebuild under burning-village crisis; reacts to deliberate Aigis provocation with spell then costly punch. No stable utility ranking inferred.",
+        "relationships": "Daughter/outsiders/village/armor differentiated by context; no personal name supplied. No unproved joins to Hyoizaburoo,Pucchin or school principal; differing roles do not alone prove a complete people partition.",
+        "repeated_and_contrary": "Sober survival priority is contrary to showmanship-only stereotype. Brief alarm at proposed punch is not actual punch; failed spell/physical escalation against one armor does not prove universal incapacity or all parenting behavior.",
+        "ordinary_life": "Letter-writing/reception are everyday-context evidence,not taste inventory or observed normal administration. Food/leisure/household economics and routine resident relationships remain missing.",
+        "competence": "Actual LightningStrike deployment,deflection and painful fist contact. Historical storage/decoding limits are attributed reports; no claim current chief made ancestral weapon choices or no one can solve them.",
+        "Japanese_voice": "Explanatory cultural convention,casual invitation,alarmed family protest,shouted spell. Sparse situational voice does not establish a full durable idiolect.",
+        "existing_predictions": "No individual prospective forecast assigned or historical prediction rewritten.",
+        "prospective_tests": "No new synthetic trial,blind reading,independent grade or gain; no false count from repeated chief-title references.",
+        "gaps": "Routine leadership choices,unpressured private reasoning,treatment of different residents and own reaction to daughter new goal remain unknown. Qualification/title is not completed office transfer.",
+        "narrators": "Kazuma direct encounters; Yunyun own interlude/letters/return account; Megumin historical/institutional reports; Dust receives daughter trial request. Different narrators mostly report daughter events,not independent chief actions."
+      },
+      "cohort25_semantic_receiving_sha256": "8ca208685c8ac87be74dda2ff527a2891621c98b95a0bcc8031cee8d4b3e2e4b",
+      "cohort25_current_qualifications": "Current direct/report/state/identity limits govern this declared scope. Earlier fields and frozen cores retain authorship history. No new model,first body,independent trial,grade or confidence gain."
     },
     {
       "character": "Unnamed helmet admirer / noble (Dust01–03)",
@@ -3798,15 +3862,47 @@
     },
     {
       "character": "Sylvia (MAIN05 general)",
-      "identity": "シルビア; individual opponent, changing fusion/capability state kept within one subject",
-      "likely_tier": "2–3 candidate, not final",
-      "priority": "High",
-      "evidence_distribution": "Complete MAIN05 derivative report,14numbered sections/809L; actual FinalP212–222mentions the comparison atP213, not a fresh native battle pass.",
-      "substantive_responsibility": "Own tactical interpretation, retreat, capture/hostage strategy, fusion and altered capabilities distinguish stages. Directness of source outcome, finite technology/energy routing and recipient opposition matter. Coercion/embodiment analysis stays non-graphic.",
-      "gaps": "Consolidate source-time own information, agency, voice, counterevidence and exact native action phases before final tier. One concentrated narrative may support a monograph or model without an arbitrary multi-volume quota.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "identity": "シルビア self-names as general/Grow Chimera; same subject across changing composite body states. MAIN05 own actions contrast with earlier MASK courier report; self-described development role/history is not a fully observed career.",
+      "likely_tier": "2 scoped; dedicated monograph only; exact publication pending",
+      "priority": "Cohort25 source checks/semantic foundations received; exact containing publication gate pending.",
+      "evidence_distribution": "SV25-01 MASK earlier reported interception; SV25-02–SV25-14 MAIN05 retreat,recapture,coercion,barrier failure,assimilation,pursuit and death. Same individual across body states.",
+      "substantive_responsibility": "One dense conflict has substantial own-agent information,leverage,embodiment,coalition and affect changes; earlier attributed defeat qualifies competence. Generic strategic/affective/instrumental rivals remain unseparated,so descriptive depth does not earn a Tier3 generator.",
+      "gaps": "Personal versus instrumental recruitment,reciprocity under real release cost,routine priorities and unfamiliar-context generalization remain underidentified. Future study needs discriminating evidence rather than more retellings.",
+      "disposition_status": "COHORT25_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
       "independent_observation_count": null,
-      "current_scope_asof_working25": "All seventeen main excluded-component source programs, nineteen supplemental editions and five mixed/reference programs have closed exact publication gates at their declared scopes. MAIN17 source49dbe1b11b22a4007c33c9d3bea16c7877006bc1; all9,132remote paths/35changedstreams exact; full source/HK/final actual-source audit/status and fresh962authority reload verified. Main source-program closure is not full census/synthesis/model/curation/release closure. No MAIN18 admission; final individual denominator and global percentage remain unresolved."
+      "current_scope_asof_working25": "All seventeen main excluded-component source programs, nineteen supplemental editions and five mixed/reference programs have closed exact publication gates at their declared scopes. MAIN17 source49dbe1b11b22a4007c33c9d3bea16c7877006bc1; all9,132remote paths/35changedstreams exact; full source/HK/final actual-source audit/status and fresh962authority reload verified. Main source-program closure is not full census/synthesis/model/curation/release closure. No MAIN18 admission; final individual denominator and global percentage remain unresolved.",
+      "prior_cohort25_current_fields": {
+        "identity": "シルビア; individual opponent, changing fusion/capability state kept within one subject",
+        "likely_tier": "2–3 candidate, not final",
+        "priority": "High",
+        "evidence_distribution": "Complete MAIN05 derivative report,14numbered sections/809L; actual FinalP212–222mentions the comparison atP213, not a fresh native battle pass.",
+        "substantive_responsibility": "Own tactical interpretation, retreat, capture/hostage strategy, fusion and altered capabilities distinguish stages. Directness of source outcome, finite technology/energy routing and recipient opposition matter. Coercion/embodiment analysis stays non-graphic.",
+        "gaps": "Consolidate source-time own information, agency, voice, counterevidence and exact native action phases before final tier. One concentrated narrative may support a monograph or model without an arbitrary multi-volume quota.",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+        "source_access_type": null
+      },
+      "source_access_type": "MAIN05 direct speech/physical action in Kazuma narration; MASK oni report received by Vanir. Own director/material/history claims,reported subordinate deaths and Kazuma explanations retain attribution.",
+      "cohort25_artifacts": [
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_SYLVIA_CHARACTER_MONOGRAPH.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_NATIVE_PROVENANCE.json"
+      ],
+      "cohort25_twelve_dimension_audit": {
+        "appearances": "SV25-01 MASK earlier reported interception; SV25-02–SV25-14 MAIN05 retreat,recapture,coercion,barrier failure,assimilation,pursuit and death. Same individual across body states.",
+        "direct_vs_reported": "MAIN05 direct speech/physical action in Kazuma narration; MASK oni report received by Vanir. Own director/material/history claims,reported subordinate deaths and Kazuma explanations retain attribution.",
+        "decisions_goals_constraints": "Obtain anti-magic weapon,protect/withdraw near troops,use captive leverage,exploit code-reading access and pursue perceived countermeasure. Revenge broadens threatened targets; changed body/tool/light/captive information constrain options.",
+        "relationships": "Troops,captive Kazuma,substitute-hostage offer,hostile villagers,Soketto/Bukkorori/Yunyun feints and Megumin genuine danger receive differentiated responses. Interest/reciprocity coexist with coercion; no broad ethical floor.",
+        "repeated_and_contrary": "Updates false identity and target method; later overlearns repeated bluffs and underestimates real spell. Brief apology versus renewed challenge,selective concern versus extermination threats,physical defense versus fatal penetration all remain.",
+        "ordinary_life": "No routine workday,leisure,domestic routine,budget or stable preference distribution reviewed. Body modification/dress/attraction during combat are not a complete ordinary-life portrait.",
+        "competence": "Weapon catch/local superiority,successful incorporation and improving movement; failed nonmagical-lock tool,limited complete-dark sight self-report,reported earlier incapacitation,holy pain and final failed shield. No universal spell immunity.",
+        "Japanese_voice": "アタシ,わ/わね,ボウヤ,teasing/invitation can accompany threat. Rougher hostile speech near p-018P668 is situational change,not bodily identity as cause. Cultural associations remain narrator perspective.",
+        "existing_predictions": "No new forecast or rule inserted. Earlier frozen predictions and model commitments are preserved; these evidence IDs are not historical SI/SY labels.",
+        "prospective_tests": "All sources already known. No new independent/source-blind test,scenario,input,first body or pair. Independent accuracy,grade and confidence gain remain null.",
+        "gaps": "Personal versus instrumental recruitment,reciprocity under real release cost,routine priorities and unfamiliar-context generalization remain underidentified. Future study needs discriminating evidence rather than more retellings.",
+        "narrators": "Kazuma direct narration dominates current encounter; Vanir perspective contains an oni report of an earlier incident. Do not multiply shared-event retellings into independent confirmations."
+      },
+      "cohort25_semantic_receiving_sha256": "8ca208685c8ac87be74dda2ff527a2891621c98b95a0bcc8031cee8d4b3e2e4b",
+      "cohort25_current_qualifications": "Current direct/report/state/identity limits govern this declared scope. Earlier fields and frozen cores retain authorship history. No new model,first body,independent trial,grade or confidence gain."
     },
     {
       "character": "Prince Jatice (MAIN06 reported artifact target)",
@@ -4980,12 +5076,12 @@
     {
       "character": "Chekera / ちぇけら",
       "identity": "Chekera is the explicitly named Crimson clothier in the two work encounters. Megumin is known applicant/customer; Hyo is named craft comparison; outsider Kazuma/Aqua receive welcome, Megumin requests Kazuma loan. No family bond, completed rehire, repayment or battle participation supplied. Direct self-introduction, demonstration, two FreezeBind interventions, changed test and later welcome/stock presentation; power/market/family-tool claims are his statements. Megumin rejection and Kazuma completed sale are narrator reports. Railgun operation belongs to others.",
-      "likely_tier": "2 scoped; dedicated monograph only; exact publication pending",
-      "priority": "Cohort24 individual source checks/semantic foundations received; exact containing publication gate pending.",
+      "likely_tier": "2 scoped; dedicated monograph only; full gate closed",
+      "priority": "Cohort24 scoped publication gate closed; further proportional review remains due where stated.",
       "evidence_distribution": "EXP02 U015P67-114; MAIN05 p-014P105-150; p-018P365,383-389,531 contextual recollection/use.",
       "substantive_responsibility": "Two meaningful work situations: applicant testing with observed demonstrations/interventions and appraisal revision, then outsider-facing sales and inherited-tool conversation. Multiple actor relationships and a contrary narrator suspicion sustain a focused monograph. Ordinary trade, ordinary risk management and shared Crimson performance remain strong generative rivals.",
       "gaps": "Only two focal work encounters. Later railgun references do not add Chekera decisions. No observed trial after training, subsequent payroll, refund, family/private life, crisis governance or broad competence test.",
-      "disposition_status": "COHORT24_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "MONOGRAPH_FULL_GATE_CLOSED_MODEL_NOT_YET_EARNED",
       "independent_observation_count": null,
       "source_access_type": "Direct self-introduction, demonstration, two FreezeBind interventions, changed test and later welcome/stock presentation; power/market/family-tool claims are his statements. Megumin rejection and Kazuma completed sale are narrator reports. Railgun operation belongs to others.",
       "not_final_unique_person_increment": true,
@@ -5057,17 +5153,28 @@
         "other_perspectives": "Megumin narration in EXP; MAIN05 Kazuma supplies a different focalizer for Chekera and reported village context, not an independent repeat of the same event. All receiving remains one continuing author."
       },
       "cohort24_semantic_receiving_sha256": "3e2852ecf243c344a57d578172b04214cfbd5d6f4bae2fe56d208ffd1a326839",
-      "cohort24_current_qualifications": "Current direct/report/identity limits supersede broader role wording only at this stated scope; prior C23 fields and frozen artifacts retain authorship history. No independent trial, grade or confidence gain."
+      "cohort24_current_qualifications": "Current direct/report/identity limits supersede broader role wording only at this stated scope; prior C23 fields and frozen artifacts retain authorship history. No independent trial, grade or confidence gain.",
+      "cohort24_publication_pending_at_authorship_history": {
+        "likely_tier": "2 scoped; dedicated monograph only; exact publication pending",
+        "priority": "Cohort24 individual source checks/semantic foundations received; exact containing publication gate pending.",
+        "disposition_status": "COHORT24_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort24_publication_status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+      "cohort24_publication_gate_close": {
+        "source": "bb4de2bd0c6dfad9d4134f73ac9312339d02cb08",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_CRIMSON_TRADES_STAFF_COHORT24_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "49c7ac821390442474fad4c87a24bfa4799da68f5719f98ff7859702bb56df6d"
+      }
     },
     {
       "character": "Unnamed Crimson school measurement teacher (role occurrence)",
       "identity": "This is the unnamed school infirmary/measurement role; continuity across the role designation is probable, personal identity unproved. Teacher-pupil role with Megumin/Yunyun; no personal name, gender, Pucchin identity or school-principal join. Direct measurement correction and stress advice; Megumin later reports receiving commercially available nutrient preparation. Sealed-power framing is pupil/homeroom performance, not verified diagnosis or seal.",
-      "likely_tier": "1 scoped; compact profile in existing coverage audit; exact publication pending",
-      "priority": "Cohort24 individual source checks/semantic foundations received; exact containing publication gate pending.",
+      "likely_tier": "1 scoped; compact profile in existing coverage audit; full gate closed",
+      "priority": "Cohort24 scoped publication gate closed; further proportional review remains due where stated.",
       "evidence_distribution": "EXP01 U018P76-105 and226-245, especially91-96,238.",
       "substantive_responsibility": "Measurement correction, restrained reassurance/admonition and a later relayed provision of a nutrient preparation support a useful bounded staff profile. Personal identity, independent clinical accuracy and general motives are not identified.",
       "gaps": "Role continuity is probable within the named infirmary designation, not proof every unnamed school staff occurrence is this individual. Megumin physiology explanations remain her conjectures.",
-      "disposition_status": "COHORT24_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COMPACT_PROFILE_FULL_GATE_CLOSED",
       "independent_observation_count": null,
       "source_access_type": "Direct measurement correction and stress advice; Megumin later reports receiving commercially available nutrient preparation. Sealed-power framing is pupil/homeroom performance, not verified diagnosis or seal.",
       "not_final_unique_person_increment": true,
@@ -5139,7 +5246,18 @@
         "other_perspectives": "Megumin narration in EXP; MAIN05 Kazuma supplies a different focalizer for Chekera and reported village context, not an independent repeat of the same event. All receiving remains one continuing author."
       },
       "cohort24_semantic_receiving_sha256": "3e2852ecf243c344a57d578172b04214cfbd5d6f4bae2fe56d208ffd1a326839",
-      "cohort24_current_qualifications": "Current direct/report/identity limits supersede broader role wording only at this stated scope; prior C23 fields and frozen artifacts retain authorship history. No independent trial, grade or confidence gain."
+      "cohort24_current_qualifications": "Current direct/report/identity limits supersede broader role wording only at this stated scope; prior C23 fields and frozen artifacts retain authorship history. No independent trial, grade or confidence gain.",
+      "cohort24_publication_pending_at_authorship_history": {
+        "likely_tier": "1 scoped; compact profile in existing coverage audit; exact publication pending",
+        "priority": "Cohort24 individual source checks/semantic foundations received; exact containing publication gate pending.",
+        "disposition_status": "COHORT24_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort24_publication_status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+      "cohort24_publication_gate_close": {
+        "source": "bb4de2bd0c6dfad9d4134f73ac9312339d02cb08",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_CRIMSON_TRADES_STAFF_COHORT24_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "49c7ac821390442474fad4c87a24bfa4799da68f5719f98ff7859702bb56df6d"
+      }
     },
     {
       "character": "Unnamed Crimson school principal (reported role)",
@@ -5195,12 +5313,12 @@
     {
       "character": "Unnamed Crimson cafe proprietor",
       "identity": "This is the unnamed proprietor role at the sole village cafe. Megumin/Yunyun/Bukkorori customers; recognizes Hyo daughter by reputation. No Nerimaki family, diner or Axel tavern proprietor join. Own welcome/menu/order response and Soketto-in-forest statement. Hyo acquaintance and understanding customers plans are narrator inferences/unresolved. Meals are later narrated eaten; no watched cash exchange.",
-      "likely_tier": "1 scoped; compact profile in existing coverage audit; exact publication pending",
-      "priority": "Cohort24 individual source checks/semantic foundations received; exact containing publication gate pending.",
+      "likely_tier": "1 scoped; compact profile in existing coverage audit; full gate closed",
+      "priority": "Cohort24 scoped publication gate closed; further proportional review remains due where stated.",
       "evidence_distribution": "EXP01 U018P367-377; U028P55-77,301-317; MAIN05 p-014P42 place report. MAIN14part0016P5 is excluded identity lead.",
       "substantive_responsibility": "Welcome, themed menu/order handling and later unsolicited local information provide a compact service/social role. Two conversations lack diverse own stakes or an identifiable mechanism for a monograph/model.",
       "gaps": "Limited direct decision diversity; later Arcanretia recruitment-cafe plans and MAIN14 hypothetical Axel cafe do not belong to this proprietor.",
-      "disposition_status": "COHORT24_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COMPACT_PROFILE_FULL_GATE_CLOSED",
       "independent_observation_count": null,
       "source_access_type": "Own welcome/menu/order response and Soketto-in-forest statement. Hyo acquaintance and understanding customers plans are narrator inferences/unresolved. Meals are later narrated eaten; no watched cash exchange.",
       "not_final_unique_person_increment": true,
@@ -5272,17 +5390,28 @@
         "other_perspectives": "Megumin narration in EXP; MAIN05 Kazuma supplies a different focalizer for Chekera and reported village context, not an independent repeat of the same event. All receiving remains one continuing author."
       },
       "cohort24_semantic_receiving_sha256": "3e2852ecf243c344a57d578172b04214cfbd5d6f4bae2fe56d208ffd1a326839",
-      "cohort24_current_qualifications": "Current direct/report/identity limits supersede broader role wording only at this stated scope; prior C23 fields and frozen artifacts retain authorship history. No independent trial, grade or confidence gain."
+      "cohort24_current_qualifications": "Current direct/report/identity limits supersede broader role wording only at this stated scope; prior C23 fields and frozen artifacts retain authorship history. No independent trial, grade or confidence gain.",
+      "cohort24_publication_pending_at_authorship_history": {
+        "likely_tier": "1 scoped; compact profile in existing coverage audit; exact publication pending",
+        "priority": "Cohort24 individual source checks/semantic foundations received; exact containing publication gate pending.",
+        "disposition_status": "COHORT24_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort24_publication_status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+      "cohort24_publication_gate_close": {
+        "source": "bb4de2bd0c6dfad9d4134f73ac9312339d02cb08",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_CRIMSON_TRADES_STAFF_COHORT24_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "49c7ac821390442474fad4c87a24bfa4799da68f5719f98ff7859702bb56df6d"
+      }
     },
     {
       "character": "Unnamed Crimson blacksmith / armor artisan",
       "identity": "This is the unnamed blacksmith/armor-artisan role in the trade conversation; cross-book role joins remain unproved. Megumin/Yunyun customers, reported unidentified noblewoman client; Darkness later reports a commission. Client identity and all unnamed artisan occurrences are not automatically joined. Hyo and Funifura father remain separate unproved joins. Own recommendations/showing stock and self-report of magic furnace, armor niche and noblewoman clientele; Yunyun/Megumin/Darkness supply separate reports. No observed production/delivery/purchase.",
-      "likely_tier": "1 scoped; compact profile in existing coverage audit; exact publication pending",
-      "priority": "Cohort24 individual source checks/semantic foundations received; exact containing publication gate pending.",
+      "likely_tier": "1 scoped; compact profile in existing coverage audit; full gate closed",
+      "priority": "Cohort24 scoped publication gate closed; further proportional review remains due where stated.",
       "evidence_distribution": "EXP01 U018P548-572; MAIN05 p-014P23,60-77,250-285.",
       "substantive_responsibility": "A dense trade conversation plus later mediated blacksmith context supports a compact profile. Unnamed cross-book role joins, untested product quality and unobserved manufacture prevent enlarging this into a single resolved career or dedicated monograph.",
       "gaps": "MAIN05 sword-extraction and wish-spring mechanisms are Megumin reports, rumor authorship Kazuma inference. Darkness commission is not delivered armor or proof she was earlier unnamed client.",
-      "disposition_status": "COHORT24_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COMPACT_PROFILE_FULL_GATE_CLOSED",
       "independent_observation_count": null,
       "source_access_type": "Own recommendations/showing stock and self-report of magic furnace, armor niche and noblewoman clientele; Yunyun/Megumin/Darkness supply separate reports. No observed production/delivery/purchase.",
       "not_final_unique_person_increment": true,
@@ -5354,17 +5483,28 @@
         "other_perspectives": "Megumin narration in EXP; MAIN05 Kazuma supplies a different focalizer for Chekera and reported village context, not an independent repeat of the same event. All receiving remains one continuing author."
       },
       "cohort24_semantic_receiving_sha256": "3e2852ecf243c344a57d578172b04214cfbd5d6f4bae2fe56d208ffd1a326839",
-      "cohort24_current_qualifications": "Current direct/report/identity limits supersede broader role wording only at this stated scope; prior C23 fields and frozen artifacts retain authorship history. No independent trial, grade or confidence gain."
+      "cohort24_current_qualifications": "Current direct/report/identity limits supersede broader role wording only at this stated scope; prior C23 fields and frozen artifacts retain authorship history. No independent trial, grade or confidence gain.",
+      "cohort24_publication_pending_at_authorship_history": {
+        "likely_tier": "1 scoped; compact profile in existing coverage audit; exact publication pending",
+        "priority": "Cohort24 individual source checks/semantic foundations received; exact containing publication gate pending.",
+        "disposition_status": "COHORT24_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort24_publication_status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+      "cohort24_publication_gate_close": {
+        "source": "bb4de2bd0c6dfad9d4134f73ac9312339d02cb08",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_CRIMSON_TRADES_STAFF_COHORT24_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "49c7ac821390442474fad4c87a24bfa4799da68f5719f98ff7859702bb56df6d"
+      }
     },
     {
       "character": "Unnamed Crimson potion-workshop proprietor",
       "identity": "This is the unnamed potion-workshop proprietor role conducting the interview. Applicant Megumin; wife and child relation are Yunyun report, exact child number unprovided. No automatic identity join to other unnamed proprietors or teachers; different role labels alone do not prove unique people. Own interview/short-work offer and bear-liver task with offered potion; Megumin relays drug-tasting alternative and prevention-purpose statement; Yunyun misreads and later resolves accusation. No gathering or trial.",
-      "likely_tier": "1 scoped; compact profile in existing coverage audit; exact publication pending",
-      "priority": "Cohort24 individual source checks/semantic foundations received; exact containing publication gate pending.",
+      "likely_tier": "1 scoped; compact profile in existing coverage audit; full gate closed",
+      "priority": "Cohort24 scoped publication gate closed; further proportional review remains due where stated.",
       "evidence_distribution": "EXP02 U015P127-159,242-279.",
       "substantive_responsibility": "Interview negotiation, task proposal and relayed alternative support a bounded work profile. They do not identify a unique helpfulness rule, clinical competence, performed exploitation or completed employment.",
       "gaps": "No watched pay, harvest of organs, tasting, medical benefit or arson. Good reputation is Megumin assertion. Wife/child roles are not independently appeared named people.",
-      "disposition_status": "COHORT24_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COMPACT_PROFILE_FULL_GATE_CLOSED",
       "independent_observation_count": null,
       "source_access_type": "Own interview/short-work offer and bear-liver task with offered potion; Megumin relays drug-tasting alternative and prevention-purpose statement; Yunyun misreads and later resolves accusation. No gathering or trial.",
       "not_final_unique_person_increment": true,
@@ -5436,17 +5576,28 @@
         "other_perspectives": "Megumin narration in EXP; MAIN05 Kazuma supplies a different focalizer for Chekera and reported village context, not an independent repeat of the same event. All receiving remains one continuing author."
       },
       "cohort24_semantic_receiving_sha256": "3e2852ecf243c344a57d578172b04214cfbd5d6f4bae2fe56d208ffd1a326839",
-      "cohort24_current_qualifications": "Current direct/report/identity limits supersede broader role wording only at this stated scope; prior C23 fields and frozen artifacts retain authorship history. No independent trial, grade or confidence gain."
+      "cohort24_current_qualifications": "Current direct/report/identity limits supersede broader role wording only at this stated scope; prior C23 fields and frozen artifacts retain authorship history. No independent trial, grade or confidence gain.",
+      "cohort24_publication_pending_at_authorship_history": {
+        "likely_tier": "1 scoped; compact profile in existing coverage audit; exact publication pending",
+        "priority": "Cohort24 individual source checks/semantic foundations received; exact containing publication gate pending.",
+        "disposition_status": "COHORT24_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort24_publication_status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+      "cohort24_publication_gate_close": {
+        "source": "bb4de2bd0c6dfad9d4134f73ac9312339d02cb08",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_CRIMSON_TRADES_STAFF_COHORT24_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "49c7ac821390442474fad4c87a24bfa4799da68f5719f98ff7859702bb56df6d"
+      }
     },
     {
       "character": "Unnamed Crimson diner proprietor",
       "identity": "This is the unnamed elderly diner proprietor role conducting hiring and work supervision. Knows Hyo daughter role; Yunyun prior beneficiary/customer helper; Funifura/Dodonko customers provoke Megumin. No cafe or Arcanretia pub-manager identity join. Own recognition/hiring/lower-pay statement and changing work orders; prior kindness Yunyun report, dismissal and retaliation Megumin narrative. No owner-spoken firing or wage settlement watched.",
-      "likely_tier": "1 scoped; compact profile in existing coverage audit; exact publication pending",
-      "priority": "Cohort24 individual source checks/semantic foundations received; exact containing publication gate pending.",
+      "likely_tier": "1 scoped; compact profile in existing coverage audit; full gate closed",
+      "priority": "Cohort24 scoped publication gate closed; further proportional review remains due where stated.",
       "evidence_distribution": "EXP02 U015P300-395; EXP02 U029P48-50 is Megumin retrospective defense.",
       "substantive_responsibility": "Hiring with pay disclosure and actual rush-hour task reprioritization support a practical work profile. Prior kindness and dismissal are reports; one shift does not establish a general ethical or management model.",
       "gaps": "Other patrons restrain attempted Explosion, not necessarily owner. No Explosion cast, no owner-authorized retaliation, no proof forced unpaid Yunyun labor or repaired customer harm.",
-      "disposition_status": "COHORT24_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "disposition_status": "COMPACT_PROFILE_FULL_GATE_CLOSED",
       "independent_observation_count": null,
       "source_access_type": "Own recognition/hiring/lower-pay statement and changing work orders; prior kindness Yunyun report, dismissal and retaliation Megumin narrative. No owner-spoken firing or wage settlement watched.",
       "not_final_unique_person_increment": true,
@@ -5518,7 +5669,18 @@
         "other_perspectives": "Megumin narration in EXP; MAIN05 Kazuma supplies a different focalizer for Chekera and reported village context, not an independent repeat of the same event. All receiving remains one continuing author."
       },
       "cohort24_semantic_receiving_sha256": "3e2852ecf243c344a57d578172b04214cfbd5d6f4bae2fe56d208ffd1a326839",
-      "cohort24_current_qualifications": "Current direct/report/identity limits supersede broader role wording only at this stated scope; prior C23 fields and frozen artifacts retain authorship history. No independent trial, grade or confidence gain."
+      "cohort24_current_qualifications": "Current direct/report/identity limits supersede broader role wording only at this stated scope; prior C23 fields and frozen artifacts retain authorship history. No independent trial, grade or confidence gain.",
+      "cohort24_publication_pending_at_authorship_history": {
+        "likely_tier": "1 scoped; compact profile in existing coverage audit; exact publication pending",
+        "priority": "Cohort24 individual source checks/semantic foundations received; exact containing publication gate pending.",
+        "disposition_status": "COHORT24_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING"
+      },
+      "cohort24_publication_status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+      "cohort24_publication_gate_close": {
+        "source": "bb4de2bd0c6dfad9d4134f73ac9312339d02cb08",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_CRIMSON_TRADES_STAFF_COHORT24_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "49c7ac821390442474fad4c87a24bfa4799da68f5719f98ff7859702bb56df6d"
+      }
     },
     {
       "character": "Kaikai / かいかい (named classroom roster)",
@@ -5880,13 +6042,13 @@
     {
       "character": "Unnamed Crimson farm earth caster / harvest supervisor",
       "identity": "Female-addressed first caster; own plowing, reported near-exhaustion, harvest coordination, product warning, appraisal and paid work invitation. No landownership or known-adult identity join.",
-      "likely_tier": "Scoped Tier1 compact profile",
+      "likely_tier": "Scoped Tier1 compact profile; scoped publication gate closed",
       "evidence_distribution": "FA01-FA03 EXP02 U015P401-467",
       "source_access_type": "EarthShaker and wage handover direct; exhaustion own statement, completed harvest/received pay narrated,4000Eris Megumin own amount.",
       "substantive_responsibility": "Six-profile coverage append; no separate reconstruction model.",
       "gaps": "Female-addressed first caster; own plowing, reported near-exhaustion, harvest coordination, product warning, appraisal and paid work invitation. No landownership or known-adult identity join. Six-profile coverage append; no separate reconstruction model.",
-      "priority": "Cohort24 coherent work/staff occurrence review; full census remains open.",
-      "disposition_status": "COHORT24_SOURCE_BOUND_OCCURRENCE_SEMANTIC_RECEIVED_PUBLICATION_PENDING",
+      "priority": "Cohort24 scoped publication gate closed; further proportional review remains due where stated.",
+      "disposition_status": "COMPACT_PROFILE_FULL_GATE_CLOSED",
       "independent_observation_count": null,
       "not_final_unique_person_increment": true,
       "cohort24_artifacts": [
@@ -5908,208 +6070,473 @@
         "predictions": "No prospective prediction or source-blind first response is claimed for this cohort. Existing other-character forecasts and scores are unchanged.",
         "prospective_tests": "None; current passages were known before interpretation. No synthetic battery is manufactured for Tier1/2 scope.",
         "other_perspectives": "Megumin narration in EXP; MAIN05 Kazuma supplies a different focalizer for Chekera and reported village context, not an independent repeat of the same event. All receiving remains one continuing author."
+      },
+      "cohort24_publication_pending_at_authorship_history": {
+        "likely_tier": "Scoped Tier1 compact profile",
+        "priority": "Cohort24 coherent work/staff occurrence review; full census remains open.",
+        "disposition_status": "COHORT24_SOURCE_BOUND_OCCURRENCE_SEMANTIC_RECEIVED_PUBLICATION_PENDING"
+      },
+      "cohort24_publication_status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+      "cohort24_publication_gate_close": {
+        "source": "bb4de2bd0c6dfad9d4134f73ac9312339d02cb08",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_CRIMSON_TRADES_STAFF_COHORT24_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "49c7ac821390442474fad4c87a24bfa4799da68f5719f98ff7859702bb56df6d"
       }
     },
     {
       "character": "Unnamed Crimson farm wind caster",
       "identity": "Explicit male caster distinct from first and third figures in scene; Tornado seed scattering and signal. Name/family unprovided.",
-      "likely_tier": "Scoped Tier0 indexed role",
+      "likely_tier": "Scoped Tier0 indexed role; scoped publication gate closed",
       "evidence_distribution": "FA01 EXP02 U015P417-422",
       "source_access_type": "Own cast/effect and nod/signal narrated; no general motives or omnipotence.",
       "substantive_responsibility": "Useful own-action locator, insufficient meaningful individual behavioral variety for profile here.",
       "gaps": "Explicit male caster distinct from first and third figures in scene; Tornado seed scattering and signal. Name/family unprovided. Useful own-action locator, insufficient meaningful individual behavioral variety for profile here.",
-      "priority": "Cohort24 coherent work/staff occurrence review; full census remains open.",
-      "disposition_status": "COHORT24_SOURCE_BOUND_OCCURRENCE_SEMANTIC_RECEIVED_PUBLICATION_PENDING",
+      "priority": "Cohort24 scoped publication gate closed; further proportional review remains due where stated.",
+      "disposition_status": "SCOPED_TIER0_OCCURRENCE_FULL_GATE_CLOSED_NONFINAL",
       "independent_observation_count": null,
       "not_final_unique_person_increment": true,
       "cohort24_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_TRADES_STAFF_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_TRADES_STAFF_NATIVE_PROVENANCE.json"
       ],
-      "cohort24_semantic_receiving_sha256": "3e2852ecf243c344a57d578172b04214cfbd5d6f4bae2fe56d208ffd1a326839"
+      "cohort24_semantic_receiving_sha256": "3e2852ecf243c344a57d578172b04214cfbd5d6f4bae2fe56d208ffd1a326839",
+      "cohort24_publication_pending_at_authorship_history": {
+        "likely_tier": "Scoped Tier0 indexed role",
+        "priority": "Cohort24 coherent work/staff occurrence review; full census remains open.",
+        "disposition_status": "COHORT24_SOURCE_BOUND_OCCURRENCE_SEMANTIC_RECEIVED_PUBLICATION_PENDING"
+      },
+      "cohort24_publication_status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+      "cohort24_publication_gate_close": {
+        "source": "bb4de2bd0c6dfad9d4134f73ac9312339d02cb08",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_CRIMSON_TRADES_STAFF_COHORT24_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "49c7ac821390442474fad4c87a24bfa4799da68f5719f98ff7859702bb56df6d"
+      }
     },
     {
       "character": "Unnamed Crimson farm weather caster",
       "identity": "Third separately positioned figure; name/gender unprovided. No Pucchin join.",
-      "likely_tier": "Scoped Tier0 indexed role",
+      "likely_tier": "Scoped Tier0 indexed role; scoped publication gate closed",
       "evidence_distribution": "FA01 EXP02 U015P402,423-424",
       "source_access_type": "Control of Weather followed by actual rain; grand universal claim is not tested universal power.",
       "substantive_responsibility": "Index own cast without a shallow individual profile.",
       "gaps": "Third separately positioned figure; name/gender unprovided. No Pucchin join. Index own cast without a shallow individual profile.",
-      "priority": "Cohort24 coherent work/staff occurrence review; full census remains open.",
-      "disposition_status": "COHORT24_SOURCE_BOUND_OCCURRENCE_SEMANTIC_RECEIVED_PUBLICATION_PENDING",
+      "priority": "Cohort24 scoped publication gate closed; further proportional review remains due where stated.",
+      "disposition_status": "SCOPED_TIER0_OCCURRENCE_FULL_GATE_CLOSED_NONFINAL",
       "independent_observation_count": null,
       "not_final_unique_person_increment": true,
       "cohort24_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_TRADES_STAFF_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_TRADES_STAFF_NATIVE_PROVENANCE.json"
       ],
-      "cohort24_semantic_receiving_sha256": "3e2852ecf243c344a57d578172b04214cfbd5d6f4bae2fe56d208ffd1a326839"
+      "cohort24_semantic_receiving_sha256": "3e2852ecf243c344a57d578172b04214cfbd5d6f4bae2fe56d208ffd1a326839",
+      "cohort24_publication_pending_at_authorship_history": {
+        "likely_tier": "Scoped Tier0 indexed role",
+        "priority": "Cohort24 coherent work/staff occurrence review; full census remains open.",
+        "disposition_status": "COHORT24_SOURCE_BOUND_OCCURRENCE_SEMANTIC_RECEIVED_PUBLICATION_PENDING"
+      },
+      "cohort24_publication_status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+      "cohort24_publication_gate_close": {
+        "source": "bb4de2bd0c6dfad9d4134f73ac9312339d02cb08",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_CRIMSON_TRADES_STAFF_COHORT24_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "49c7ac821390442474fad4c87a24bfa4799da68f5719f98ff7859702bb56df6d"
+      }
     },
     {
       "character": "Unidentified diner customers restraining attempted cast (group occurrence)",
       "identity": "Other customers restrain Megumin; exact number and overlap with next meal-customer occurrence unresolved.",
-      "likely_tier": "Scoped Tier0 indexed occurrence",
+      "likely_tier": "Scoped Tier0 indexed occurrence; scoped publication gate closed",
       "evidence_distribution": "DI03 EXP02 U015P391",
       "source_access_type": "Megumin narration of performed restraint, no Explosion.",
       "substantive_responsibility": "Group/role reference, not a proved unique-person count or proprietor action.",
       "gaps": "Other customers restrain Megumin; exact number and overlap with next meal-customer occurrence unresolved. Group/role reference, not a proved unique-person count or proprietor action.",
-      "priority": "Cohort24 coherent work/staff occurrence review; full census remains open.",
-      "disposition_status": "COHORT24_SOURCE_BOUND_OCCURRENCE_SEMANTIC_RECEIVED_PUBLICATION_PENDING",
+      "priority": "Cohort24 scoped publication gate closed; further proportional review remains due where stated.",
+      "disposition_status": "SCOPED_TIER0_OCCURRENCE_FULL_GATE_CLOSED_NONFINAL",
       "independent_observation_count": null,
       "not_final_unique_person_increment": true,
       "cohort24_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_TRADES_STAFF_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_TRADES_STAFF_NATIVE_PROVENANCE.json"
       ],
-      "cohort24_semantic_receiving_sha256": "3e2852ecf243c344a57d578172b04214cfbd5d6f4bae2fe56d208ffd1a326839"
+      "cohort24_semantic_receiving_sha256": "3e2852ecf243c344a57d578172b04214cfbd5d6f4bae2fe56d208ffd1a326839",
+      "cohort24_publication_pending_at_authorship_history": {
+        "likely_tier": "Scoped Tier0 indexed occurrence",
+        "priority": "Cohort24 coherent work/staff occurrence review; full census remains open.",
+        "disposition_status": "COHORT24_SOURCE_BOUND_OCCURRENCE_SEMANTIC_RECEIVED_PUBLICATION_PENDING"
+      },
+      "cohort24_publication_status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+      "cohort24_publication_gate_close": {
+        "source": "bb4de2bd0c6dfad9d4134f73ac9312339d02cb08",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_CRIMSON_TRADES_STAFF_COHORT24_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "49c7ac821390442474fad4c87a24bfa4799da68f5719f98ff7859702bb56df6d"
+      }
     },
     {
       "character": "Unidentified nearby diner oden-meal customer",
       "identity": "Nearby customer eating oden; Megumin appropriates it. Possible overlap with restraining customers unproved.",
-      "likely_tier": "Scoped Tier0 indexed occurrence",
+      "likely_tier": "Scoped Tier0 indexed occurrence; scoped publication gate closed",
       "evidence_distribution": "DI03 EXP02 U015P392",
       "source_access_type": "Narrator-relayed meal/appropriation; no consent, compensation or later outcome supplied.",
       "substantive_responsibility": "Keep useful individual-role locator without invented distinct name or mind.",
       "gaps": "Nearby customer eating oden; Megumin appropriates it. Possible overlap with restraining customers unproved. Keep useful individual-role locator without invented distinct name or mind.",
-      "priority": "Cohort24 coherent work/staff occurrence review; full census remains open.",
-      "disposition_status": "COHORT24_SOURCE_BOUND_OCCURRENCE_SEMANTIC_RECEIVED_PUBLICATION_PENDING",
+      "priority": "Cohort24 scoped publication gate closed; further proportional review remains due where stated.",
+      "disposition_status": "SCOPED_TIER0_OCCURRENCE_FULL_GATE_CLOSED_NONFINAL",
       "independent_observation_count": null,
       "not_final_unique_person_increment": true,
       "cohort24_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_TRADES_STAFF_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_TRADES_STAFF_NATIVE_PROVENANCE.json"
       ],
-      "cohort24_semantic_receiving_sha256": "3e2852ecf243c344a57d578172b04214cfbd5d6f4bae2fe56d208ffd1a326839"
+      "cohort24_semantic_receiving_sha256": "3e2852ecf243c344a57d578172b04214cfbd5d6f4bae2fe56d208ffd1a326839",
+      "cohort24_publication_pending_at_authorship_history": {
+        "likely_tier": "Scoped Tier0 indexed occurrence",
+        "priority": "Cohort24 coherent work/staff occurrence review; full census remains open.",
+        "disposition_status": "COHORT24_SOURCE_BOUND_OCCURRENCE_SEMANTIC_RECEIVED_PUBLICATION_PENDING"
+      },
+      "cohort24_publication_status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+      "cohort24_publication_gate_close": {
+        "source": "bb4de2bd0c6dfad9d4134f73ac9312339d02cb08",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_CRIMSON_TRADES_STAFF_COHORT24_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "49c7ac821390442474fad4c87a24bfa4799da68f5719f98ff7859702bb56df6d"
+      }
     },
     {
       "character": "Reported wife of unnamed Crimson potion proprietor",
       "identity": "Yunyun reports wife relation in mistaken-allegation conversation; no name/direct appearance.",
-      "likely_tier": "Scoped Tier0 reported relation",
+      "likely_tier": "Scoped Tier0 reported relation; scoped publication gate closed",
       "evidence_distribution": "PO02 EXP02 U015P264",
       "source_access_type": "The family statement is a report distinct from the later-resolved allegation; no independent family observation.",
       "substantive_responsibility": "No domestic profile or independently confirmed identity.",
       "gaps": "Yunyun reports wife relation in mistaken-allegation conversation; no name/direct appearance. No domestic profile or independently confirmed identity.",
-      "priority": "Cohort24 coherent work/staff occurrence review; full census remains open.",
-      "disposition_status": "COHORT24_SOURCE_BOUND_OCCURRENCE_SEMANTIC_RECEIVED_PUBLICATION_PENDING",
+      "priority": "Cohort24 scoped publication gate closed; further proportional review remains due where stated.",
+      "disposition_status": "SCOPED_TIER0_OCCURRENCE_FULL_GATE_CLOSED_NONFINAL",
       "independent_observation_count": null,
       "not_final_unique_person_increment": true,
       "cohort24_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_TRADES_STAFF_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_TRADES_STAFF_NATIVE_PROVENANCE.json"
       ],
-      "cohort24_semantic_receiving_sha256": "3e2852ecf243c344a57d578172b04214cfbd5d6f4bae2fe56d208ffd1a326839"
+      "cohort24_semantic_receiving_sha256": "3e2852ecf243c344a57d578172b04214cfbd5d6f4bae2fe56d208ffd1a326839",
+      "cohort24_publication_pending_at_authorship_history": {
+        "likely_tier": "Scoped Tier0 reported relation",
+        "priority": "Cohort24 coherent work/staff occurrence review; full census remains open.",
+        "disposition_status": "COHORT24_SOURCE_BOUND_OCCURRENCE_SEMANTIC_RECEIVED_PUBLICATION_PENDING"
+      },
+      "cohort24_publication_status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+      "cohort24_publication_gate_close": {
+        "source": "bb4de2bd0c6dfad9d4134f73ac9312339d02cb08",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_CRIMSON_TRADES_STAFF_COHORT24_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "49c7ac821390442474fad4c87a24bfa4799da68f5719f98ff7859702bb56df6d"
+      }
     },
     {
       "character": "Reported child relation of unnamed Crimson potion proprietor (number unprovided)",
       "identity": "Japanese child reference supplies no exact number, name, gender, age or direct appearance.",
-      "likely_tier": "Scoped Tier0 reported relation",
+      "likely_tier": "Scoped Tier0 reported relation; scoped publication gate closed",
       "evidence_distribution": "PO02 EXP02 U015P264",
       "source_access_type": "Yunyun report only; not automatically plural independently appeared children.",
       "substantive_responsibility": "Relation slot is not final person count or individual profile.",
       "gaps": "Japanese child reference supplies no exact number, name, gender, age or direct appearance. Relation slot is not final person count or individual profile.",
-      "priority": "Cohort24 coherent work/staff occurrence review; full census remains open.",
-      "disposition_status": "COHORT24_SOURCE_BOUND_OCCURRENCE_SEMANTIC_RECEIVED_PUBLICATION_PENDING",
+      "priority": "Cohort24 scoped publication gate closed; further proportional review remains due where stated.",
+      "disposition_status": "SCOPED_TIER0_OCCURRENCE_FULL_GATE_CLOSED_NONFINAL",
       "independent_observation_count": null,
       "not_final_unique_person_increment": true,
       "cohort24_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_TRADES_STAFF_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_TRADES_STAFF_NATIVE_PROVENANCE.json"
       ],
-      "cohort24_semantic_receiving_sha256": "3e2852ecf243c344a57d578172b04214cfbd5d6f4bae2fe56d208ffd1a326839"
+      "cohort24_semantic_receiving_sha256": "3e2852ecf243c344a57d578172b04214cfbd5d6f4bae2fe56d208ffd1a326839",
+      "cohort24_publication_pending_at_authorship_history": {
+        "likely_tier": "Scoped Tier0 reported relation",
+        "priority": "Cohort24 coherent work/staff occurrence review; full census remains open.",
+        "disposition_status": "COHORT24_SOURCE_BOUND_OCCURRENCE_SEMANTIC_RECEIVED_PUBLICATION_PENDING"
+      },
+      "cohort24_publication_status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+      "cohort24_publication_gate_close": {
+        "source": "bb4de2bd0c6dfad9d4134f73ac9312339d02cb08",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_CRIMSON_TRADES_STAFF_COHORT24_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "49c7ac821390442474fad4c87a24bfa4799da68f5719f98ff7859702bb56df6d"
+      }
     },
     {
       "character": "Active potato crop group in Crimson harvest",
       "identity": "Active crop encounter at harvest; no individual potato names, minds or group count.",
-      "likely_tier": "Scoped Tier0 fantasy-group occurrence",
+      "likely_tier": "Scoped Tier0 fantasy-group occurrence; scoped publication gate closed",
       "evidence_distribution": "FA03 EXP02 U015P441",
       "source_access_type": "Potatoes feint/knock Yunyun in narrated action; literal fantasy participation, not automatic H4.",
       "substantive_responsibility": "Index group encounter without artificial person denominator or crop psychology.",
       "gaps": "Active crop encounter at harvest; no individual potato names, minds or group count. Index group encounter without artificial person denominator or crop psychology.",
-      "priority": "Cohort24 coherent work/staff occurrence review; full census remains open.",
-      "disposition_status": "COHORT24_SOURCE_BOUND_OCCURRENCE_SEMANTIC_RECEIVED_PUBLICATION_PENDING",
+      "priority": "Cohort24 scoped publication gate closed; further proportional review remains due where stated.",
+      "disposition_status": "SCOPED_TIER0_OCCURRENCE_FULL_GATE_CLOSED_NONFINAL",
       "independent_observation_count": null,
       "not_final_unique_person_increment": true,
       "cohort24_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_TRADES_STAFF_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_TRADES_STAFF_NATIVE_PROVENANCE.json"
       ],
-      "cohort24_semantic_receiving_sha256": "3e2852ecf243c344a57d578172b04214cfbd5d6f4bae2fe56d208ffd1a326839"
+      "cohort24_semantic_receiving_sha256": "3e2852ecf243c344a57d578172b04214cfbd5d6f4bae2fe56d208ffd1a326839",
+      "cohort24_publication_pending_at_authorship_history": {
+        "likely_tier": "Scoped Tier0 fantasy-group occurrence",
+        "priority": "Cohort24 coherent work/staff occurrence review; full census remains open.",
+        "disposition_status": "COHORT24_SOURCE_BOUND_OCCURRENCE_SEMANTIC_RECEIVED_PUBLICATION_PENDING"
+      },
+      "cohort24_publication_status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+      "cohort24_publication_gate_close": {
+        "source": "bb4de2bd0c6dfad9d4134f73ac9312339d02cb08",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_CRIMSON_TRADES_STAFF_COHORT24_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "49c7ac821390442474fad4c87a24bfa4799da68f5719f98ff7859702bb56df6d"
+      }
     },
     {
       "character": "Active leek encounter in Crimson harvest",
       "identity": "A resisting leek evades/strikes Megumin; individual continuity beyond encounter unprovided.",
-      "likely_tier": "Scoped Tier0 fantasy-entity occurrence",
+      "likely_tier": "Scoped Tier0 fantasy-entity occurrence; scoped publication gate closed",
       "evidence_distribution": "FA03 EXP02 U015P443-446",
       "source_access_type": "Narrated performed action; no access to private mind or wider population.",
       "substantive_responsibility": "Preserve own encounter without synthetic personality.",
       "gaps": "A resisting leek evades/strikes Megumin; individual continuity beyond encounter unprovided. Preserve own encounter without synthetic personality.",
-      "priority": "Cohort24 coherent work/staff occurrence review; full census remains open.",
-      "disposition_status": "COHORT24_SOURCE_BOUND_OCCURRENCE_SEMANTIC_RECEIVED_PUBLICATION_PENDING",
+      "priority": "Cohort24 scoped publication gate closed; further proportional review remains due where stated.",
+      "disposition_status": "SCOPED_TIER0_OCCURRENCE_FULL_GATE_CLOSED_NONFINAL",
       "independent_observation_count": null,
       "not_final_unique_person_increment": true,
       "cohort24_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_TRADES_STAFF_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_TRADES_STAFF_NATIVE_PROVENANCE.json"
       ],
-      "cohort24_semantic_receiving_sha256": "3e2852ecf243c344a57d578172b04214cfbd5d6f4bae2fe56d208ffd1a326839"
+      "cohort24_semantic_receiving_sha256": "3e2852ecf243c344a57d578172b04214cfbd5d6f4bae2fe56d208ffd1a326839",
+      "cohort24_publication_pending_at_authorship_history": {
+        "likely_tier": "Scoped Tier0 fantasy-entity occurrence",
+        "priority": "Cohort24 coherent work/staff occurrence review; full census remains open.",
+        "disposition_status": "COHORT24_SOURCE_BOUND_OCCURRENCE_SEMANTIC_RECEIVED_PUBLICATION_PENDING"
+      },
+      "cohort24_publication_status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+      "cohort24_publication_gate_close": {
+        "source": "bb4de2bd0c6dfad9d4134f73ac9312339d02cb08",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_CRIMSON_TRADES_STAFF_COHORT24_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "49c7ac821390442474fad4c87a24bfa4799da68f5719f98ff7859702bb56df6d"
+      }
     },
     {
       "character": "Reported unnamed noblewoman armor client of Crimson artisan",
       "identity": "Artisan claims an unidentified high-noble daughter uses his armor. Darkness join unproved.",
-      "likely_tier": "Scoped Tier0 reported client",
+      "likely_tier": "Scoped Tier0 reported client; scoped publication gate closed",
       "evidence_distribution": "BS02 EXP01 U018P568",
       "source_access_type": "Artisan self-report, not direct client appearance, purchase or independent quality validation.",
       "substantive_responsibility": "Do not merge with other noblewomen or use report as observed recurring client decisions.",
       "gaps": "Artisan claims an unidentified high-noble daughter uses his armor. Darkness join unproved. Do not merge with other noblewomen or use report as observed recurring client decisions.",
-      "priority": "Cohort24 coherent work/staff occurrence review; full census remains open.",
-      "disposition_status": "COHORT24_SOURCE_BOUND_OCCURRENCE_SEMANTIC_RECEIVED_PUBLICATION_PENDING",
+      "priority": "Cohort24 scoped publication gate closed; further proportional review remains due where stated.",
+      "disposition_status": "SCOPED_TIER0_OCCURRENCE_FULL_GATE_CLOSED_NONFINAL",
       "independent_observation_count": null,
       "not_final_unique_person_increment": true,
       "cohort24_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_TRADES_STAFF_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_TRADES_STAFF_NATIVE_PROVENANCE.json"
       ],
-      "cohort24_semantic_receiving_sha256": "3e2852ecf243c344a57d578172b04214cfbd5d6f4bae2fe56d208ffd1a326839"
+      "cohort24_semantic_receiving_sha256": "3e2852ecf243c344a57d578172b04214cfbd5d6f4bae2fe56d208ffd1a326839",
+      "cohort24_publication_pending_at_authorship_history": {
+        "likely_tier": "Scoped Tier0 reported client",
+        "priority": "Cohort24 coherent work/staff occurrence review; full census remains open.",
+        "disposition_status": "COHORT24_SOURCE_BOUND_OCCURRENCE_SEMANTIC_RECEIVED_PUBLICATION_PENDING"
+      },
+      "cohort24_publication_status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+      "cohort24_publication_gate_close": {
+        "source": "bb4de2bd0c6dfad9d4134f73ac9312339d02cb08",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_CRIMSON_TRADES_STAFF_COHORT24_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "49c7ac821390442474fad4c87a24bfa4799da68f5719f98ff7859702bb56df6d"
+      }
     },
     {
       "character": "Unnamed Arcanretia pub manager in Megumin job sequence",
       "identity": "Manager in Arcanretia staff room fires, hears offered explanation and fires again; village diner identity unproved.",
-      "likely_tier": "Indexed role; proportional review deferred",
+      "likely_tier": "Indexed role; proportional review deferred; scoped publication gate closed",
       "evidence_distribution": "DI04 EXP02 U029P56-69",
       "source_access_type": "Actual short firing conversation; Megumin reports tenth job and customer conduct. Broader job sequence not reread in this cohort.",
       "substantive_responsibility": "Later bounded work-role audit due; not a final evidence-insufficient tier ceiling.",
       "gaps": "Manager in Arcanretia staff room fires, hears offered explanation and fires again; village diner identity unproved. Later bounded work-role audit due; not a final evidence-insufficient tier ceiling.",
-      "priority": "Cohort24 coherent work/staff occurrence review; full census remains open.",
-      "disposition_status": "COHORT24_SOURCE_BOUND_OCCURRENCE_SEMANTIC_RECEIVED_PUBLICATION_PENDING",
+      "priority": "Cohort24 scoped publication gate closed; further proportional review remains due where stated.",
+      "disposition_status": "PUBLICATION_GATE_CLOSED_PROPORTIONAL_ROLE_REVIEW_DEFERRED",
       "independent_observation_count": null,
       "not_final_unique_person_increment": true,
       "cohort24_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_TRADES_STAFF_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_TRADES_STAFF_NATIVE_PROVENANCE.json"
       ],
-      "cohort24_semantic_receiving_sha256": "3e2852ecf243c344a57d578172b04214cfbd5d6f4bae2fe56d208ffd1a326839"
+      "cohort24_semantic_receiving_sha256": "3e2852ecf243c344a57d578172b04214cfbd5d6f4bae2fe56d208ffd1a326839",
+      "cohort24_publication_pending_at_authorship_history": {
+        "likely_tier": "Indexed role; proportional review deferred",
+        "priority": "Cohort24 coherent work/staff occurrence review; full census remains open.",
+        "disposition_status": "COHORT24_SOURCE_BOUND_OCCURRENCE_SEMANTIC_RECEIVED_PUBLICATION_PENDING"
+      },
+      "cohort24_publication_status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+      "cohort24_publication_gate_close": {
+        "source": "bb4de2bd0c6dfad9d4134f73ac9312339d02cb08",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_CRIMSON_TRADES_STAFF_COHORT24_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "49c7ac821390442474fad4c87a24bfa4799da68f5719f98ff7859702bb56df6d"
+      }
     },
     {
       "character": "Reported other Crimson workshop rejection roles (unresolved group)",
       "identity": "Megumin refers to earlier workshop failures/rejections; no employer names or resolved individual identities.",
-      "likely_tier": "Scoped Tier0 reported group context",
+      "likely_tier": "Scoped Tier0 reported group context; scoped publication gate closed",
       "evidence_distribution": "CC04 EXP02 U015P99,112-114",
       "source_access_type": "Retrospective daughter narration; no new directly watched interviews or precise count.",
       "substantive_responsibility": "Keep group lead, not one invented distinct proprietor per implied business.",
       "gaps": "Megumin refers to earlier workshop failures/rejections; no employer names or resolved individual identities. Keep group lead, not one invented distinct proprietor per implied business.",
-      "priority": "Cohort24 coherent work/staff occurrence review; full census remains open.",
-      "disposition_status": "COHORT24_SOURCE_BOUND_OCCURRENCE_SEMANTIC_RECEIVED_PUBLICATION_PENDING",
+      "priority": "Cohort24 scoped publication gate closed; further proportional review remains due where stated.",
+      "disposition_status": "SCOPED_TIER0_OCCURRENCE_FULL_GATE_CLOSED_NONFINAL",
       "independent_observation_count": null,
       "not_final_unique_person_increment": true,
       "cohort24_artifacts": [
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_TRADES_STAFF_EVIDENCE_INDEX.md",
         "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_TRADES_STAFF_NATIVE_PROVENANCE.json"
       ],
-      "cohort24_semantic_receiving_sha256": "3e2852ecf243c344a57d578172b04214cfbd5d6f4bae2fe56d208ffd1a326839"
+      "cohort24_semantic_receiving_sha256": "3e2852ecf243c344a57d578172b04214cfbd5d6f4bae2fe56d208ffd1a326839",
+      "cohort24_publication_pending_at_authorship_history": {
+        "likely_tier": "Scoped Tier0 reported group context",
+        "priority": "Cohort24 coherent work/staff occurrence review; full census remains open.",
+        "disposition_status": "COHORT24_SOURCE_BOUND_OCCURRENCE_SEMANTIC_RECEIVED_PUBLICATION_PENDING"
+      },
+      "cohort24_publication_status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+      "cohort24_publication_gate_close": {
+        "source": "bb4de2bd0c6dfad9d4134f73ac9312339d02cb08",
+        "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_CRIMSON_TRADES_STAFF_COHORT24_PUBLICATION_GATE_CLOSE.json",
+        "gate_sha256": "49c7ac821390442474fad4c87a24bfa4799da68f5719f98ff7859702bb56df6d"
+      }
+    },
+    {
+      "character": "Unidentified Sylvia subordinate warning/retreat contingent (MAIN05 group occurrence)",
+      "identity": "Soldier voices and retreating contingent around Sylvia; speaker continuity and exact number unresolved. Not a new named commander or a proved unique set of people.",
+      "likely_tier": "0 source-bound indexed occurrence; identity/population nonfinal",
+      "priority": "Cohort25 source-bound discovery; further identity/context review remains open.",
+      "evidence_distribution": "SV25-02 MAIN05p-014P187–241;SV25-09p-018P206",
+      "substantive_responsibility": "Warn about possible trap,propose bypassing Darkness to pursue mission,then collective retreat. Sylvia steps forward as if covering them.",
+      "gaps": "No individualized biography or stable trait from group speech; later casualty assertion is Sylvia report,not a counted independently watched total.",
+      "disposition_status": "COHORT25_SOURCE_BOUND_SEMANTIC_DRAFT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "source_access_type": "Own unidentified warning/proposed withdrawal voices; Sylvia later reports all subordinates killed.",
+      "not_final_unique_person_increment": true,
+      "cohort25_twelve_dimension_audit": {
+        "appearances": "SV25-02 MAIN05p-014P187–241;SV25-09p-018P206",
+        "direct_vs_reported": "Own unidentified warning/proposed withdrawal voices; Sylvia later reports all subordinates killed.",
+        "decisions_goals_constraints": "Warn about possible trap,propose bypassing Darkness to pursue mission,then collective retreat. Sylvia steps forward as if covering them.",
+        "relationships": "Subordinates to Sylvia; no automatic identity with MASK troops or every later unnamed enemy.",
+        "repeated_and_contrary": "Bounded occurrence with unresolved identity overlap; role or repeated artifact mention is not a distinct person or independent event count.",
+        "ordinary_life": "No independent ordinary-life evidence in this scope.",
+        "competence": "Only the source-bound action/report just stated; no universal capacity inferred.",
+        "Japanese_voice": "Urgent warning and superior address in short utterances,not one identified complete idiolect.",
+        "existing_predictions": "No new frozen forecast; historical prediction strings/outcomes remain unchanged.",
+        "prospective_tests": "Known-source retrospective receiving only; no blind/independent or synthetic test,grade or confidence gain.",
+        "gaps": "No individualized biography or stable trait from group speech; later casualty assertion is Sylvia report,not a counted independently watched total.",
+        "narrators": "Kazuma for MAIN05/MAIN14 contexts; Vanir for MASK. Reports inside narration retain their own access layer."
+      },
+      "cohort25_semantic_scope": "No new whole-source,ruby,residual,image-set,admission or independent pass.",
+      "cohort25_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_NATIVE_PROVENANCE.json"
+      ],
+      "cohort25_semantic_receiving_sha256": "8ca208685c8ac87be74dda2ff527a2891621c98b95a0bcc8031cee8d4b3e2e4b"
+    },
+    {
+      "character": "Unidentified Crimson pursuit / experiment-threat voices (MAIN05 group occurrence)",
+      "identity": "Collective pursuers after retreat,including unattributed spell/experiment-threat voices. May overlap already named villagers; no distinct-person increment.",
+      "likely_tier": "0 source-bound indexed occurrence; identity/population nonfinal",
+      "priority": "Cohort25 source-bound discovery; further identity/context review remains open.",
+      "evidence_distribution": "SV25-02 MAIN05p-014P237–241",
+      "substantive_responsibility": "Pursue withdrawing enemy and call for capture/experimental use; Kazuma conditional amnesty does not bind them.",
+      "gaps": "No watched complete subsequent capture/experiment or independent ethical endorsement. Names,number,exact overlap and performed outcomes remain open.",
+      "disposition_status": "COHORT25_SOURCE_BOUND_SEMANTIC_DRAFT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "source_access_type": "Group speech and pursuit in Kazuma narration. Teacher-like honorific先生方 inP207 is not an independently established school occupation for every participant.",
+      "not_final_unique_person_increment": true,
+      "cohort25_twelve_dimension_audit": {
+        "appearances": "SV25-02 MAIN05p-014P237–241",
+        "direct_vs_reported": "Group speech and pursuit in Kazuma narration. Teacher-like honorific先生方 inP207 is not an independently established school occupation for every participant.",
+        "decisions_goals_constraints": "Pursue withdrawing enemy and call for capture/experimental use; Kazuma conditional amnesty does not bind them.",
+        "relationships": "Crimson village group; do not relabel all as Pucchin,Hyoizaburoo,chief or school faculty from collective/courtesy address.",
+        "repeated_and_contrary": "Bounded occurrence with unresolved identity overlap; role or repeated artifact mention is not a distinct person or independent event count.",
+        "ordinary_life": "No independent ordinary-life evidence in this scope.",
+        "competence": "Only the source-bound action/report just stated; no universal capacity inferred.",
+        "Japanese_voice": "Spell names and aggressive capture call; no personally assigned durable voice.",
+        "existing_predictions": "No new frozen forecast; historical prediction strings/outcomes remain unchanged.",
+        "prospective_tests": "Known-source retrospective receiving only; no blind/independent or synthetic test,grade or confidence gain.",
+        "gaps": "No watched complete subsequent capture/experiment or independent ethical endorsement. Names,number,exact overlap and performed outcomes remain open.",
+        "narrators": "Kazuma for MAIN05/MAIN14 contexts; Vanir for MASK. Reports inside narration retain their own access layer."
+      },
+      "cohort25_semantic_scope": "No new whole-source,ruby,residual,image-set,admission or independent pass.",
+      "cohort25_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_NATIVE_PROVENANCE.json"
+      ],
+      "cohort25_semantic_receiving_sha256": "8ca208685c8ac87be74dda2ff527a2891621c98b95a0bcc8031cee8d4b3e2e4b"
+    },
+    {
+      "character": "Unidentified master / producer addressed in Moguninnin final message",
+      "identity": "Machine addresses a master and Noise headquarters; narrator refers to a producer while marking destruction. Name/personhood/continuity with known inventor roles unresolved.",
+      "likely_tier": "0 source-bound indexed occurrence; identity/population nonfinal",
+      "priority": "Cohort25 source-bound discovery; further identity/context review remains open.",
+      "evidence_distribution": "MN25-06 MAIN14part0014P478–484",
+      "substantive_responsibility": "Addressed as recipient of project results; no actual receipt,approval or new maker decision observed.",
+      "gaps": "No automatic join to MAIN02 diary scientist,Dust02 inventor,other Japanese arrivals or every ancient machine maker; no proof living recipient or complete project history.",
+      "disposition_status": "COHORT25_SOURCE_BOUND_SEMANTIC_DRAFT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "source_access_type": "Machine final message plus narrator historical/metaphoric framing; no response or current own action by master.",
+      "not_final_unique_person_increment": true,
+      "cohort25_twelve_dimension_audit": {
+        "appearances": "MN25-06 MAIN14part0014P478–484",
+        "direct_vs_reported": "Machine final message plus narrator historical/metaphoric framing; no response or current own action by master.",
+        "decisions_goals_constraints": "Addressed as recipient of project results; no actual receipt,approval or new maker decision observed.",
+        "relationships": "Master/producer/project association only; headquarters is an institution,not counted as one person.",
+        "repeated_and_contrary": "Bounded occurrence with unresolved identity overlap; role or repeated artifact mention is not a distinct person or independent event count.",
+        "ordinary_life": "No independent ordinary-life evidence in this scope.",
+        "competence": "Only the source-bound action/report just stated; no universal capacity inferred.",
+        "Japanese_voice": "No master own voice supplied.",
+        "existing_predictions": "No new frozen forecast; historical prediction strings/outcomes remain unchanged.",
+        "prospective_tests": "Known-source retrospective receiving only; no blind/independent or synthetic test,grade or confidence gain.",
+        "gaps": "No automatic join to MAIN02 diary scientist,Dust02 inventor,other Japanese arrivals or every ancient machine maker; no proof living recipient or complete project history.",
+        "narrators": "Kazuma for MAIN05/MAIN14 contexts; Vanir for MASK. Reports inside narration retain their own access layer."
+      },
+      "cohort25_semantic_scope": "No new whole-source,ruby,residual,image-set,admission or independent pass.",
+      "cohort25_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_NATIVE_PROVENANCE.json"
+      ],
+      "cohort25_semantic_receiving_sha256": "8ca208685c8ac87be74dda2ff527a2891621c98b95a0bcc8031cee8d4b3e2e4b"
+    },
+    {
+      "character": "Unnamed oni courier / castle escort (MASK retrospective)",
+      "identity": "One source-bound reporting/escort role in Vanir scene; personal name and joins to other oni/ogres unproved.",
+      "likely_tier": "1 scoped compact role profile",
+      "priority": "Cohort25 source-bound discovery; further identity/context review remains open.",
+      "evidence_distribution": "ON25-01 MASKU021P505–540",
+      "substantive_responsibility": "Urgent adverse reporting,answers,warning,offers to lead and actually walks ahead; encirclement remains proposal.",
+      "gaps": "No Logia/other-castle-speaker join,full biography,ordinary routine or general courage/loyalty model; wider context could revise scope.",
+      "disposition_status": "COHORT25_SOURCE_BOUND_SEMANTIC_DRAFT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "source_access_type": "Vanir direct view of courier speech/leading; earlier combats are courier reports.",
+      "not_final_unique_person_increment": true,
+      "cohort25_twelve_dimension_audit": {
+        "appearances": "ON25-01 MASKU021P505–540,especially519/523/526–527/539. New source-bound occurrence discovered while checking Sylvia earlier interception.",
+        "direct_vs_reported": "Vanir narration observes urgent speech,question answers,warning,volunteering and walking ahead. Prior fights are courier reports; encirclement is proposed,not performed in reviewed window.",
+        "decisions_goals_constraints": "Warn superior,communicate adverse operational facts and accept immediate exposure by leading. Fear,guard duty and hierarchical expectations remain rivals; no lifetime loyalty or courage trait proved.",
+        "relationships": "Addresses Vanir respectfully while protesting dismissiveness; reports other generals. No automatic join to MAIN17 Logia or other castle speakers; name/gender/personal history not supplied.",
+        "repeated_and_contrary": "Fearful words coexist with volunteered action. This local combination is not a tested stable disposition or a general social mechanism.",
+        "ordinary_life": "No ordinary life,personal tastes,resources,unpressured company or career evidence reviewed.",
+        "competence": "Useful operational reporting/escort act; accuracy of all fight reports and own combat skill not directly established.",
+        "Japanese_voice": "Urgent respectful address and protest under threat; sparse voice at one superior interface,not a complete idiolect.",
+        "existing_predictions": "No existing individual prediction located at this new role scope; no new frozen forecast assigned.",
+        "prospective_tests": "No source-blind/synthetic trial or independent count/grade/gain. Same report appearing in several artifacts is still one underlying exchange.",
+        "gaps": "Identity overlap,wider context,report access chain and ordinary motives remain open; Tier1 can be revised with actual added evidence.",
+        "narrators": "Vanir perspective contains courier speech and his observation of leading; reported earlier intruder engagements remain another access layer."
+      },
+      "cohort25_semantic_scope": "No new whole-source,ruby,residual,image-set,admission or independent pass.",
+      "cohort25_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_NATIVE_PROVENANCE.json"
+      ],
+      "cohort25_semantic_receiving_sha256": "8ca208685c8ac87be74dda2ff527a2891621c98b95a0bcc8031cee8d4b3e2e4b"
     }
   ],
-  "working_row_count_not_population_denominator": 219,
+  "working_row_count_not_population_denominator": 223,
   "global_census_closed": false,
   "final_tiers_assigned": false,
   "global_completion_percentage": null,
@@ -6141,7 +6568,7 @@
     "Cohort23 Yuiyui/Pucchin conditional Tier3 candidates and Hyoizaburoo Tier2 monograph-only; fourteen bounded new discovery records retain source-plane/identity gaps and candidate profile review where due. Semantic receiving complete, exact publication pending.",
     "Cohort24 Chekera Tier2 monograph-only and six compact Tier1 profiles in existing coverage audit; ten new indexed incidental dispositions and one deferred Arcanretia manager review remain source-bound/nonfinal. No model or matched synthetic quota; semantic receiving complete, exact publication pending."
   ],
-  "current_actual_individual_audit_scope": "Cohort24 ten actual known-source receipts/32complete windows:1149BASE context slots/7members/4native text objects, including blanks/other actors/rejected joins. No fresh whole-source/ruby/residual/image-set/admission/independent pass. Six entering target rows change,201others exact;12new source-bound records are not12proved unique people. All33models,earlier cores/firsts,four scores and prospective missingness preserved.",
+  "current_actual_individual_audit_scope": "Cohort25:35actually received complete known-source windows,2122BASE context slots/19members/9native text objects. No fresh whole-source,ruby,residual,image-set,admission or independent pass. Three entering rows change,216others exact; four new role/group/reported occurrences are not four proved unique people. All earlier cores/firsts,scores and prospective missingness preserved.",
   "historical_integrity": "MG02-I01/I02 through MG05, original blank fields, CP outcomes, letters-as-NT and preYORI04SEC01 scope remain unchanged. New source-known comparisons are retrospective; hypotheticals are not source validation.",
   "current_receipt_pins": [
     {
@@ -8017,7 +8444,7 @@
     "updated_utc": "2026-10-20T17:44:03.663249+00:00",
     "scope": "Cohorts01-18 have closed exact-source gates at declared scopes: twenty-one scoped secondary conditional-model subjects/27model bodies,fifteen bounded profiles and four Tier2monograph-only Nos,Rionor,Feit,Chomusuke.187qualifiedrecords include groups,aliases and occurrence slots,not final unique people. Reliability remains provisional; full census/final tiers/program open."
   },
-  "canonical_status": "Chekera scopedTier2 monograph only and six compact Tier1 work/staff profiles received; no new model or first body. Exact publication pending; all33entering models and earlier histories retained.",
+  "canonical_status": "Sylvia scoped Tier2 monograph only; chief,Moguninnin and newly noticed MASK courier have three consolidated Tier1 profiles. Exact publication pending; all33models and earlier histories preserved.",
   "cohort19_current_receiving": {
     "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
     "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_REX_SOPHIE_TERRY_COHORT_19_RECEIVING_AND_PROVENANCE.json",
@@ -8580,7 +9007,7 @@
     "updated_utc": "2026-10-21T01:51:18.190475+00:00"
   },
   "cohort24_current_receiving": {
-    "status": "SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+    "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
     "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_CRIMSON_TRADES_STAFF_COHORT_24_RECEIVING_AND_PROVENANCE.json",
     "semantic_receiving_sha256": "3e2852ecf243c344a57d578172b04214cfbd5d6f4bae2fe56d208ffd1a326839",
     "candidate_models": 33,
@@ -8623,6 +9050,82 @@
     ],
     "new_Tier0_indexed_dispositions": 10,
     "deferred_role_reviews": 1,
+    "new_first_bodies": 0,
+    "publication_pending_at_authorship_history": "SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+    "publication_gate_close": {
+      "source": "bb4de2bd0c6dfad9d4134f73ac9312339d02cb08",
+      "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_CRIMSON_TRADES_STAFF_COHORT24_PUBLICATION_GATE_CLOSE.json",
+      "gate_sha256": "49c7ac821390442474fad4c87a24bfa4799da68f5719f98ff7859702bb56df6d",
+      "tree": "7adba31479a90fd5c49f69894d99c1ee01b0a491",
+      "source_run": 39542387120,
+      "housekeeping_run": 39542745230,
+      "final_run": 39542784032,
+      "full_tests_each": 447,
+      "published_project_paths": 1238,
+      "current_models": 33,
+      "no_independent_accuracy_or_confidence_gain": true
+    },
+    "published_authority_reload_sha256": "9c8f064d0e4d6c7acb20d72b40103aacf4d27a81277b1ca383591424d52c30ed"
+  },
+  "prior_current_metadata_before_cohort24_gate_close": {
+    "scope": "Cohorts01-23 and focused qualifications retain closed gates. Cohort24 semantic foundations received; exact containing publication pending. Candidate33models/27scoped secondary model subjects,27bounded profiles,nine monograph-only subjects and219nonfinal records; full census/tiers/program open.",
+    "canonical_status": "Chekera scopedTier2 monograph only and six compact Tier1 work/staff profiles received; no new model or first body. Exact publication pending; all33entering models and earlier histories retained.",
+    "current_actual_individual_audit_scope": "Cohort24 ten actual known-source receipts/32complete windows:1149BASE context slots/7members/4native text objects, including blanks/other actors/rejected joins. No fresh whole-source/ruby/residual/image-set/admission/independent pass. Six entering target rows change,201others exact;12new source-bound records are not12proved unique people. All33models,earlier cores/firsts,four scores and prospective missingness preserved.",
+    "updated_utc": "2026-10-21T03:05:19.428176+00:00"
+  },
+  "cohort24_publication_resolution": {
+    "source": "bb4de2bd0c6dfad9d4134f73ac9312339d02cb08",
+    "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_CRIMSON_TRADES_STAFF_COHORT24_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "49c7ac821390442474fad4c87a24bfa4799da68f5719f98ff7859702bb56df6d",
+    "tree": "7adba31479a90fd5c49f69894d99c1ee01b0a491",
+    "source_run": 39542387120,
+    "housekeeping_run": 39542745230,
+    "final_run": 39542784032,
+    "full_tests_each": 447,
+    "published_project_paths": 1238,
+    "current_models": 33,
+    "no_independent_accuracy_or_confidence_gain": true
+  },
+  "prior_current_metadata_before_cohort25": {
+    "scope": "Cohorts01-24 and focused qualifications have closed exact-source gates at declared scopes.33models/27scoped secondary subjects,27profiles,nine monograph-only subjects and219nonfinal records; full census/tiers/program open.",
+    "canonical_status": "Cohort24 full exact-source publication gate and fresh authority reload closed. Chekera Tier2 monograph and six consolidated Tier1 profiles; all33models unchanged,no new firsts or independent accuracy/confidence gain.",
+    "current_actual_individual_audit_scope": "Cohort24:ten actual known-source receipts/32complete windows,1149knownBASE/7text members/4objects; no new whole-source/ruby/residual/image-set/admission or independent pass. Publication status changes six entering rows and twelve new occurrence rows,201others exact. Earlier cores/firsts and four scores/prospective missingness preserved. Full program active.",
+    "updated_utc": "2026-10-21T04:26:25.289224+00:00"
+  },
+  "cohort25_current_receiving": {
+    "status": "SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+    "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_COHORT_25_RECEIVING_AND_PROVENANCE.json",
+    "semantic_receiving_sha256": "8ca208685c8ac87be74dda2ff527a2891621c98b95a0bcc8031cee8d4b3e2e4b",
+    "candidate_models": 33,
+    "candidate_scoped_secondary_model_subjects": 27,
+    "bounded_profiles": 30,
+    "monograph_only_subjects": [
+      "Nos",
+      "Rionor",
+      "Feit",
+      "Chomusuke",
+      "Funifura",
+      "Dodonko",
+      "Arue",
+      "Hyoizaburoo",
+      "Chekera",
+      "Sylvia"
+    ],
+    "records_not_final_people": 223,
+    "changed_current_rows": [
+      86,
+      87,
+      147
+    ],
+    "untouched_existing_rows_relative_current": 216,
+    "new_rows": [
+      219,
+      220,
+      221,
+      222
+    ],
+    "new_Tier0_indexed_dispositions": 3,
+    "new_compact_role_profiles": 1,
     "new_first_bodies": 0
   }
 }
