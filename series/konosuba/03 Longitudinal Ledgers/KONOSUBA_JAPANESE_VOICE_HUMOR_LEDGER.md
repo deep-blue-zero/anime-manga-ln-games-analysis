@@ -1801,3 +1801,135 @@ Written我輩, elevated declaratives, counterpart classification, anticipated qu
 
 ## WZ-C01 — polite form can accuse or refuse
 MAIN04C5P425 recalls a binding moral condition in question form; P431 adds quiet sadness while actual force continues. This is not a request for Hans to grant permission. Excited recognition P244–257, technical limitation P522/P565, the shared-work refusal in MASK U011 and an insult-linked threat in U019 have different purposes. Preserve written register/pragmatic functions without a fixed stutter, apology count or audio claim.
+
+
+## CE-C01 — chosen register and an explicit no
+CONTEXP01 U026P7–8 and MAIN17 EpP21–23 distinguish familiar address from formal office speech. MAIN17 EpP59's repeated refusal retains force despite affection; C3P397–400 shifts into ordinary Chris-like voice without a newly shown physical transformation. MAIN12's professional face, curiosity and target-specific hostility have different pragmatic aims. Preserve written forms and purpose; no audio, fixed verbal tic or politeness-as-consent claim follows.
+
+
+## DUST-COHORT06-C01 — purpose-sensitive written voice and corrected attribution
+
+Dust's rough current voice can ask careful terms, help, refuse or repair face; polite language can flatter, corner, disguise or maintain a knight role. DUST05 U012P574–603, DUST06's registration/recipient repairs and DUST-CONT's king-directed repair keep independently established actor/role context. Neither a pronoun nor politeness certifies identity, care, truth or consent. Source-known invented exercise snippets cover selected rough-register jobs only; no audio, native-human adequacy, new main J01/J02 result or independent trial is claimed.
+
+CR-SECONDARY-MAIN15-PV29-001 is a separate current external factual qualification: Aqua accuses Kazuma of flirting at MAIN15 C4P349; Darkness denies at P350. P333/P343/P345/P348 establish Aqua's continuing address. The independent PV29 original incorrectly names Kazuma as accuser. Keep the original rationale/codes/fixed bounds/mapping/disagreement exact and use the [attributable overlay](../09%20Audits%20and%20Manifests/KONOSUBA_MAIN15_PV29_ACTOR_ATTRIBUTION_ERRATUM_01.json). No actual flirting, neutral prior baseline, universal privacy rule, full D02 eligibility or new score follows.
+
+
+## Komekko cohort07 source-informed consolidation — 2026-10-20T03:13:02.170207+00:00
+
+Source-known admitted EXP01/02 and MAIN05/11/14; eighteen actual image-prose pages and1,602bounded BASE member slots, not new whole-source/ruby/independent credit. The [Komekko index](../08%20Evidence%20and%20Indexes/KONOSUBA_KOMEKKO_EVIDENCE_INDEX.md) owns exact ranges/event joins; older entries remain historical at their original scopes.
+
+| Record | Acting subject and exact route | Current uptake | Limits |
+|---|---|---|---|
+| K07-JV01 | Komekko particular pragmatic acts; EXP01IMG026-031/043;EXP02U023P550-588;MAIN11C3P204-213/240-241;MAIN14C1P272-284 | Name correction, practical formal food request, brief thanks, copied grudging phrase, grand introduction, barbs and quiet return request differ by act/recipient. Hoost explicitly acknowledges one taught phrase; specific Bukkorori lessons are child reports, another attribution is Megumin guess. | Image first-person prose differs from actual memo writing and mother-read quotation. BLESSING reader-song and promotional script keep their own planes. No acoustic/native-human adequacy, universal dialect or new L3/score claim. |
+
+
+## Hoost cohort08 source-informed consolidation — 2026-10-20T04:07:47.235077+00:00
+
+Source-known admitted EXP01/03: prior eighteen actually read integral image-prose pages reused,1,172unique EXP03 BASE slots/five members newly received, thirteen selected ledger rows/seven files. No fresh EXP01 pixel pass, whole-source/ruby/image/independent credit. [Hoost index](../08%20Evidence%20and%20Indexes/KONOSUBA_HOOST_EVIDENCE_INDEX.md) owns event joins and exact return scopes; previous entries remain historical.
+
+| Record | Acting subject and exact route | Current uptake | Limits |
+|---|---|---|---|
+| H08-JV01 | Hoost particular speech acts; EXP01IMG027-031/036/043;EXP03U020P500-516/U034P364-493 | Rough rank self-presentation, Wolbach-sama, a reluctant polite child request, mutually relaxed address, borrowed grand introduction, wary taunt, impatient bargaining and remaining-life complaint differ by act/recipient. | No permanent Komekko-san after unspecified address stage, compulsory profanity/accent or acoustic/native-human adequacy. HHC01 wording remains underidentified without the arrangement; printed contrast is not a validated full voice. |
+
+
+## Cohort09 — Levi printed stance and uncertain generation — 2026-10-20T06:09:56.297297+00:00
+
+MAIN10C3P529–578/C4P251–281/C5P185–211/715–758 and DUST04U014P89–105/418–430 distinguish Levi's directives/challenges, explanations/apologies and personal pleading. Printed 俺, 貴様 and カズマ殿 are locally bound forms; respectful naming can carry grievance and an intrusive request. A bow is action, not proof every following clause is honorific grammar. Ordinary translated equivalents can preserve these pragmatic differences and the coin location distinction; Japanese pronouns or rank alone supply no L3 warrant. No acoustic/native-human adequacy or representative rate follows. Four same-author hypothetical English first bodies are conspicuously cautious/administrative and do not demonstrate Japanese voice, mistakes or comic timing; that limitation remains uncorrected in the preserved outputs.
+
+Known admitted-source retrospective consolidation; no new source admission, whole-source/ruby/image/independent-test credit. Exact earlier ledger bytes remain the prefix. Frozen forecasts, failures, scores and blank/null fields remain unchanged.
+
+
+## Cohort10 — whose voice is actually speaking — 2026-10-20T06:58:02.053067+00:00
+
+Actual Nos's imperious challenge, distress at the apparent comrade judgment and knightly self-instruction belong to MAIN17U011P465–473/528–549 andDUST07U013P207/233–245. MAIN17U012P119 is Kazuma in Nos's voice/armor; Mammon123 describes a prior style expectation to the impersonator. Vocal likeness, performed register and actor identity must stay separate. Source contains printed forms and functional shifts, not measured acoustics or demonstrated full Japanese generation.
+
+MAIN03 performer's apparent quotation is embedded in Aqua's report630; it is no new directly witnessed performer turn. Pierre's showman address, objections and attempted repair are his actual dialogue inMAIN16U023P14–49. The mother's request/benefit statementP2–10 are her own turns; the helper has no own speech here. Ordinary semantic/register contrasts supply no automaticL3 or new representative voice rate.
+
+Retrospective known-source consolidation; exact previous ledger bytes remain the prefix. No new whole-source/ruby/image/admission/independent-test credit or changed historical forecast, score or blank/null field.
+
+
+## Cohort11 — speaker, controller and practical stance — 2026-10-20T08:11:12.082088+00:00
+
+Claire's public enforcement, technical question, private alliance, gratitude, apology and fear differ in purpose despite recurrent titles. Rain's reduced-deference introduction, correction, protest, apology and warning differ from a single soothing tone. Printed 私/貴様/自分 and アイリス様/カズマ殿 supply local forms, not acoustic or native-human adequacy. MAIN06 C1P425–538/623–658/C2P23–35/261–327; MAIN10 C2P64–95; MAIN11 C1P495–603; MASK U015P244–247/443–449.
+
+DUST03 U013P793–807/868–869 explicitly monitors Dust's imitation of Rain. The performed clauses and intrusive aims stay with that controller. The café joint-role sentence U014P59–60 is retained at consultation scope, without forcing a uniquely tagged Rain turn. Ordinary register/function contrasts do not automatically supply L3. Seven English first bodies demonstrate no Japanese timing, representative voice rate or independent language validity.
+
+Known admitted-source consolidation; prior ledger bytes remain the exact prefix. No new whole-source/ruby/image/admission/independent trial or changed frozen forecast, score, first body or blank/null field.
+
+
+## Luna cohort12 — own work, relief, pressure and boundaries — 2026-10-20T08:58:31.797980+00:00
+
+Luna printed public voice combines polite acknowledgment, specific explanation and instruction (MASKU017P10-16/P93). MAIN11U014P438-444 announces a collective outcome then presses confirmation; polite syntax does not make adult assent freely supplied. U015P119-125 moves through conditional incentive, rumor inquiry and stopping departure while retaining Satou-san address.
+
+MASKU017P316-330 uses accumulated grievances/direct wants;P511-519 names a crossed line;P541 retracts an unwanted forecast request. YORI04U014P504/P507 repeats the youth reassurance as contextual pressure rather than certifying ages. Unquoted narrator-side turns and Assassin's mediated correction remain distinct from Luna quoted turns. BASE text supports printed pragmatics only: no new ruby, acoustic or native-human adequacy credit. Tidy English internal bodies underrepresent these ambiguities.
+
+
+## Cecily and Zesta cohort13 — scoped receiving; containing publication pending
+
+Cecily older-sister bids (お姉さん/セシリーお姉ちゃん), Aqua address and formal branch introduction at CONTEXP01U015392 have different recipient effects; invented kinship is rejected MAIN08U013146. Zesta courteous introduction DUST04U013266, deferral-as-assent306, casual どんまい150 and quiet Aqua-welfare question CONTEXP02U018423 require content and relation to establish pragmatic force. Polite morphology supplies no truth/consent guarantee. Current BASE excludes rt/rp; image prose is read at printed scope. No new full ruby, L3, acoustic, native-human or English-to-Japanese adequacy credit. First English bodies retain tidy rhetoric/metatext defects.
+
+
+## Cohort14 clergy and merchant bounded returns — 2026-10-20T11:12:02.861945+00:00
+
+Known BASE returns differentiate guide's courteous reception, joke/retraction, sect pseudo-apology, devotional excitement and transactional warmth; Axel priest's formal refusal, justification, embarrassment and conditional threat; Arcanretia priest's denial, invocation and subdued poverty account; chair's advisory honorifics, caution and convivial toast. Recipient and event determine pragmatic force. Zesta's romantic interpretation is his attributed frame against a direct denial. No full ruby, acoustic timing, Japanese generation certificate or new L3 outcome follows from these printed passages. See [event index](../08%20Evidence%20and%20Indexes/KONOSUBA_CLERGY_AND_MERCHANT_EVIDENCE_INDEX.md).
+
+
+## Cohort15 Leen, Keith and Taylor — 2026-10-20T13:11:28.160162+00:00
+
+Known BASE passages contrast Leen direct casual criticism, hesitation, private denial, softer encouragement and performed Rionor persona; Keith rough contractions, provocative questions, complaints and accurate task reports; Taylor measured organized plain speech, corrective questions and urgent instructions. Content, recipient and pragmatics matter as well as endings. Taylor can use俺 and measured duty vocabulary without every utterance being grammatical polite register. DUSTCONTU012P118/P170 and U014P304–317 support this bounded distinction; a role-based formal/plain binary is unwarranted. Vanir impersonation has a different speaker. Twelve English hypothetical bodies supply no Japanese-generation, ruby, acoustic or native-human adequacy finding.
+
+[Leen event index](../08%20Evidence%20and%20Indexes/KONOSUBA_LEEN_EVIDENCE_INDEX.md), [Keith event index](../08%20Evidence%20and%20Indexes/KONOSUBA_KEITH_EVIDENCE_INDEX.md), [Taylor event index](../08%20Evidence%20and%20Indexes/KONOSUBA_TAYLOR_EVIDENCE_INDEX.md). These are actor-specific retrievals of shared known episodes, not new independent observations or a completed global census.
+
+
+## Cohort16 Lolisa, Rionor and Feit — 2026-10-20T14:52:18.145824+00:00
+
+Known BASE dialogue distinguishes inventedロリーサ,currentリオノール and fullフェイトフォー/own phoneticふぇいとふぉー. Lolisa’s polite forms can carry refusal,criticism,professional explanation or deliberate false presentation;バニル様 alone does not prove obedience. Rionor’s bare-name invitation CONTU01531 changes local address permission,not physical consent or formal office. Feit’s concrete short requests and conditional yeses have particular antecedents; do not replace them with an adult theory or a caricatured English dialect. Four source-known English hypotheticals add no Japanese/native-human adequacy finding or new L3 classification.
+
+Individual retrieval: [Lolisa](../08%20Evidence%20and%20Indexes/KONOSUBA_LOLISA_EVIDENCE_INDEX.md),[Rionor](../08%20Evidence%20and%20Indexes/KONOSUBA_RIONOR_EVIDENCE_INDEX.md),[Feit](../08%20Evidence%20and%20Indexes/KONOSUBA_FEIT_EVIDENCE_INDEX.md). Shared [native provenance](../08%20Evidence%20and%20Indexes/KONOSUBA_LOLISA_ROYAL_DRAGON_NATIVE_PROVENANCE_01.json). Exact containing publication remains pending; full program continues.
+
+
+## Cohort17 Wolbach and Chomusuke — 2026-10-20T16:06:56.617701+00:00
+
+Wolbach’s 私/situationalお姉さん,warm questions and softened refusals coexist with direct military self-naming,embarrassment and angry status defense. Chomusuke’s vocalizations/movements are not a fluent adult private monologue. Kazuma’s qualified smile impression MAIN09F564-565 remains qualified; Megumin’s recognition inference is hers. Current text scope is known BASE; eight EXP03 prose images were separately inspected completely with visible ruby. Four same-author informed English hypothetical first bodies do not establish Japanese/native-human adequacy,new L3 classifications or voice reliability.
+
+Individual [Wolbach](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_EVIDENCE_INDEX.md) and [Chomusuke](../08%20Evidence%20and%20Indexes/KONOSUBA_CHOMUSUKE_EVIDENCE_INDEX.md) indices; [shared provenance](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_CHOMUSUKE_NATIVE_PROVENANCE_01.json). Exact containing publication pending; full program active.
+
+
+## Cohort18 Sena and Arnes — 2026-10-20T17:14:33.263380+00:00
+
+Sena’s 自分,accusatory貴様,politeサトウさん and formal貴殿 belong to different occasions; narrator inference of a natural polite voice is not inner fact. Arnes’s 貴方様/我が主/ウォルバク様 deference shifts toward rougherあたし/貴様 and imperatives after exposure/conflict. Name correction and local apology do not become universal catchphrases. Current native recheck is BASE excludingrt/rp; eight informed same-author English hypothetical first bodies establish no Japanese/native-human adequacy,newL3class or voice reliability.
+
+
+## Cohort19 Rex, Sophie and Terry — attributable update
+
+Rex’s 俺/お前さん/嬢ちゃん and colloquial challenges shift force across mockery,apology,warning,invitation and name correction (R01/R06/R16/R19/R21-R22). Sophie supplies correction/report-based caution/hint/finish appeal; Terry supplies hearsay uncertainty,defensive shout and reassurance. Anonymous recruitment lines are not mechanically assigned. BASE-only inspection supplies no fresh full ruby/audio/native-human adequacy or automatic L3; English first bodies are internal analogues.
+
+Known EXP03/CONTEXP02 BASE returns only:1,556 distinct context slots/six members/two native objects,including blanks,other actors,reports and hypotheses; no fresh whole-source,ruby/image,admission,independent decision,accuracy or confidence credit. Current claims route to `CR-SECONDARY-COHORT19-001` and the shared crew index/provenance; exact containing publication remains pending.
+
+
+## Cohort20 — individual village peers and attributed writer correction
+
+EXP01 U023 P62/67/70 tags Funifura's informal asymmetric friendship offer, direct name correction/imperative and flustered response. P122–123 tags Dodonko's self-correction from preferred type to the previous-life script. U037 P157–158 assigns her stammered but persistent illness defense. MAIN11 P153–156/169–170 separates Funifura's task exclusion from Dodonko's qualification claim and relationship-specific challenge. Untagged paired lines remain unassigned.
+
+MAIN14 C1 P358 moves Nerimaki from a heightened self-introduction into customer service/news barter; P370/P373/390/P403 perform social expectation, paraphrase, harassment naming and counterreport. Writer/professional-defense voice at C3 P166–192 belongs to Arue. BASE rechecks plus one actual image do not renew whole ruby/audio coverage or establish Japanese simulation adequacy. [village-peer index](../08%20Evidence%20and%20Indexes/KONOSUBA_VILLAGE_PEERS_EVIDENCE_INDEX.md)
+
+
+## Cohort21 — separate agency, conditional models and attributed revision
+
+Arue's conversational 私/なんだい/外の人 and elevated classroom/gift performance have different pragmatic functions. Soketto's one-time concession and changeable-future explanation differ from her explicit refusal of details; the man's blank-crystal statement is not her own line. Bukkorori uses 俺 in several EXP/MAIN05 contexts and 僕 in MAIN14, with ordinary questions, embarrassment, complaints and ceremonial self-presentation. One invariant catchphrase/register would conceal the variation. The [individual A/S/B/I index](../08%20Evidence%20and%20Indexes/KONOSUBA_ARUE_SOKETTO_BUKKORORI_EVIDENCE_INDEX.md) supplies direct source rows and contextual joins.
+
+The first diagnostic bodies are English, written by the same informed root with all inputs visible. Formatting compliance is no Japanese-adequacy result. Shared village style and generic modern adviser/volunteer language remain strong rivals; no new audio, native-human, whole-ruby or independent voice-validation claim.
+
+
+## Cohort22 — Mitsurugi and separately bounded companions
+
+Mitsurugi's full name 御剣響夜 already occurs at MAIN01C3P592, with a later repeat at MAIN17C2P336. ミツルギ・キョウヤ is the advanced-rulebook reference reading. 僕/ボク are frequent and listed reference forms, but DUST01C03P222 directly gives 私 in polite explanation. A generator must preserve contextual register rather than an exceptionless pronoun spelling. Aqua-sama marks reverence/attachment; Dust's Axis-member inference from it remains his own.
+
+The [index](../08%20Evidence%20and%20Indexes/KONOSUBA_MITSURUGI_COMPANIONS_EVIDENCE_INDEX.md) locates proper-name corrections, introductions, reassurance, mission declarations, fairness complaints and emotional protest. Reference sample 魔王を倒すのはこのボクだ is a sample, not completed victory. Katakana/ruby/honorifics alone do not establish L3. MAIN17 role-tagged companion commitments have informal personal address, but untagged earlier replies do not alternate into stable individual idiolects. フィオ/クレメア remain unassigned to spear/thief; Fio/Clemea are working renderings. Four English diagnostics establish no Japanese adequacy or language-dependence grade.
+
+
+## Cohort23: named voices and source-dependent pragmatics
+
+[cohort23 individual index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_PARENTS_TEACHER_EVIDENCE_INDEX.md) verifies native ゆいゆい, ひょいざぶろー and the teacher's self-introduced ぷっちん; Latin renderings remain working retrieval labels. Yuiyui's polite hospitality, local apologies, resource appeals and smiling reassurances can coexist with objection-overriding actions. Hyoizaburoo's shift from キミ to カズマさん after gifts, repeated relationship question, gratitude and Komekko boundary belong to him. Neither parent's words automatically voice the other.
+
+Pucchin's formal teacher role, points, dramatic titles/entrances, abrupt rebuke and mixed practical support/disparagement are indexed as written pragmatics. An interesting cat story being permitted does not establish literal belief; plated props and score utterances do not establish real giant strength or a universal numerical rubric. Editorial wording and actual novel speech retain their separate planes. Katakana, ruby, titles and honorifics alone do not entail L3; L0/L1/L2/L3 remain distinct local judgments. Twelve English hypothetical bodies test neither Japanese register nor acoustic performance and supply no language-dependence grade.

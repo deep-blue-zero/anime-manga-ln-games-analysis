@@ -1,0 +1,590 @@
+{
+  "schema": "KONOSUBA_SECONDARY_DUST_EXPANDED_V1_PROVENANCE",
+  "authored_utc": "2026-10-20T01:29:49.300430+00:00",
+  "source_boundary": "Already admitted DUST01-07 and separately titled DUST-CONT; qualified MAIN01-17 and expanded analytical evidence. FD remains a distinct game-novelization plane.",
+  "complete_current_analytical_report_receiving": {
+    "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V01_DEEP_READING.md": {
+      "sha256": "b36e5640445e4fa8997c6b3121c62c3da94febeb6fd810a691a2384224e53908",
+      "bytes": 64738,
+      "current_complete_analytical_report_received": true,
+      "original_private_receipt_sha256": "db56962b7b81bdbe8cc58ad2866ec441cd21221624a2dbe26592a929832cb32f",
+      "new_whole_source_or_independent_test_credit": 0
+    },
+    "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V02_DEEP_READING.md": {
+      "sha256": "b9a51928855aa3fb20ae22d75b0a896bfe0ca0ba4607faa4347770f1feab7384",
+      "bytes": 47299,
+      "current_complete_analytical_report_received": true,
+      "original_private_receipt_sha256": "fda701a318df9086ca2e8ddd22927087aae97d82c79add0bc70d991ff9b846e4",
+      "new_whole_source_or_independent_test_credit": 0
+    },
+    "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V03_DEEP_READING.md": {
+      "sha256": "05f34f0eac8f51d195154d2b64b5a91945f524ed88eb4af8d60d6d630e6f92bd",
+      "bytes": 39612,
+      "current_complete_analytical_report_received": true,
+      "original_private_receipt_sha256": "62f2c380053b487f5d6e33ac8b7a7f5f5c93f2ca104188f244a57552b00fcd5c",
+      "new_whole_source_or_independent_test_credit": 0
+    },
+    "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V04_DEEP_READING.md": {
+      "sha256": "389c84d346bc0eab3d7e36b1ab5ad2d89ad3be594957e327ffcb21a70346811f",
+      "bytes": 50258,
+      "current_complete_analytical_report_received": true,
+      "original_private_receipt_sha256": "73acb8f1f1e81f41eca963870420adacf306b950f50ddd1b608f0380c18a1000",
+      "new_whole_source_or_independent_test_credit": 0
+    },
+    "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V05_DEEP_READING.md": {
+      "sha256": "4073efff8c31c67ccc0dcf5b2d3dfb65de2ffc7d4436121c3bfd741cd2bca4be",
+      "bytes": 47678,
+      "current_complete_analytical_report_received": true,
+      "original_private_receipt_sha256": "e9dbb8ba050e202ef16ccfe0f1571edaf8c6ab0284c72f4884dacf59b5d80e67",
+      "new_whole_source_or_independent_test_credit": 0
+    },
+    "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V06_DEEP_READING.md": {
+      "sha256": "1b65bcd3d98fe01244db5bbb8d114d8e98afa174dd2a2c43ddddee833ee599b3",
+      "bytes": 37237,
+      "current_complete_analytical_report_received": true,
+      "original_private_receipt_sha256": "0f625db596434813d7298b5673e7615316947458b3b09bf895ce011cc025986a",
+      "new_whole_source_or_independent_test_credit": 0
+    },
+    "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V07_DEEP_READING.md": {
+      "sha256": "e085d36d3a7e1e4dcd2ee0cc2a70b7096cdcc2eec240b708c20ce5928bb732f7",
+      "bytes": 51395,
+      "current_complete_analytical_report_received": true,
+      "original_private_receipt_sha256": "123a3d5f06e300d9a6c163036aed70e8db0edcb885bcd119c428cd700a79e21f",
+      "new_whole_source_or_independent_test_credit": 0
+    },
+    "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_CONT_DEEP_READING.md": {
+      "sha256": "35e7cd3c64c8f976bce05fb08150e7d397b370d65c3d405f4ddd0cac00d896ad",
+      "bytes": 57038,
+      "current_complete_analytical_report_received": true,
+      "original_private_receipt_sha256": "ddaa4f958d6faaf1e84ad0e65f77bc36ddfba683f9c17b02afa231abab6b44fe",
+      "new_whole_source_or_independent_test_credit": 0
+    }
+  },
+  "separate_native_receipt_metadata": [
+    {
+      "private_receipt_label": "SECONDARY_ACCEPTED_DUST01_ADMIRER_VIEWPOINT_NATIVE_RECHECK_01.json",
+      "private_receipt_sha256": "d0714b9e2c6a4720a8d15e2d0ca50ef1bef570f2986b91281b2315fe440f3fb0",
+      "access_scope": "Already separately received bounded native windows; the earlier original source admission remains separately authoritative. No new whole-source or independent-test credit.",
+      "recorded_native_source_id": "DUST-01",
+      "recorded_native_sha256": "b77ac48f67168395c1437f23b2360f1a833311aba5a8d7177866a93d572c3644",
+      "locator_records": [
+        {
+          "component_id": "DUST-01-S16",
+          "member": "item/xhtml/p-008.xhtml",
+          "member_sha256": "495d98fa18aaeab4b40dbb0fce0bf751d58cc527d6bc53688a71efa57397a670",
+          "paragraph_slots": 52,
+          "actual_received_base_text_ranges": [
+            [
+              1,
+              52
+            ]
+          ],
+          "current_whole_base_text_unit": true
+        }
+      ],
+      "receipt_schema_keys": [
+        "received_utc",
+        "source_id",
+        "native_bytes",
+        "native_sha256",
+        "units",
+        "actual_unique_base_text_P",
+        "new_principal_or_whole_EPUB_ruby_image_independent_credit",
+        "scope",
+        "precisions"
+      ]
+    },
+    {
+      "private_receipt_label": "SECONDARY_ACCEPTED_DUST03_HELMET_PROVIDER_AND_PARTIAL_KNOWLEDGE_NATIVE_RECHECK_01.json",
+      "private_receipt_sha256": "6915018db431d2a1338f826d4a22153e7c6f1e7687d7b9776df9031fc14e06c1",
+      "access_scope": "Already separately received bounded native windows; the earlier original source admission remains separately authoritative. No new whole-source or independent-test credit.",
+      "recorded_native_source_id": "DUST-03",
+      "recorded_native_sha256": "58b6a86f341eff89b1b4743c0a62a0c1535c8b4ecb1163fe104fda7fa26f3040",
+      "locator_records": [
+        {
+          "component_id": "DUST-03-U014",
+          "member": "item/xhtml/p-006.xhtml",
+          "member_sha256": "f1e7804375afff09f4078876bf08ff57e917884f98f721968dbf7dca2397a29a",
+          "paragraph_slots": 370,
+          "actual_received_base_text_ranges": [
+            [
+              244,
+              350
+            ]
+          ]
+        }
+      ],
+      "receipt_schema_keys": [
+        "received_utc",
+        "source_id",
+        "native_bytes",
+        "native_sha256",
+        "units",
+        "actual_unique_base_text_P",
+        "new_whole_source_ruby_image_or_independent_credit",
+        "scope",
+        "precisions"
+      ]
+    },
+    {
+      "private_receipt_label": "SECONDARY_ACCEPTED_NATIVE_IRIS_DUST03_BACKJOIN_08.json",
+      "private_receipt_sha256": "f2985dbf83c0f2cf921c570348692a2974460858a11bcfb382fd66a5112e656b",
+      "access_scope": "Already separately received bounded native windows; the earlier original source admission remains separately authoritative. No new whole-source or independent-test credit.",
+      "recorded_native_source_id": "DUST-03",
+      "recorded_native_sha256": null,
+      "locator_records": [],
+      "receipt_schema_keys": [
+        "schema",
+        "recorded_utc",
+        "source",
+        "accepted_report",
+        "new_full_pass_credit",
+        "new_forecast_trial_credit",
+        "native_members",
+        "focalizer",
+        "observations",
+        "chronology",
+        "deduplication",
+        "forecast_integrity",
+        "status"
+      ]
+    },
+    {
+      "private_receipt_label": "SECONDARY_ACCEPTED_DUST05_CHOICES_AND_IDENTITY_NATIVE_RECHECK_01.json",
+      "private_receipt_sha256": "bfe962224e1d034701e279652ce1e2c21c8f94b4f6515f9cb5059b6d461d4e9b",
+      "access_scope": "Already separately received bounded native windows; the earlier original source admission remains separately authoritative. No new whole-source or independent-test credit.",
+      "recorded_native_source_id": "DUST-05",
+      "recorded_native_sha256": "bdd0f7af1fe772cf0c760ebf2e1b9c7e2bd1fc7ed7d84ad9c4ec1d887e422ffc",
+      "locator_records": [
+        {
+          "component_id": "DUST-05-U010",
+          "member": "item/xhtml/p-002.xhtml",
+          "member_sha256": "58e011cc5bf1cfa62c029c94524c948c18b5681d293d9d9880ce14e79962b5f3",
+          "actual_received_base_text_ranges": [
+            [
+              520,
+              637
+            ]
+          ],
+          "actual_unique_P": 118
+        },
+        {
+          "component_id": "DUST-05-U011",
+          "member": "item/xhtml/p-003.xhtml",
+          "member_sha256": "2596ed757bd3504ff02786ad487d930c85f0d9b1073afb3d2dade10ae51cce78",
+          "actual_received_base_text_ranges": [
+            [
+              960,
+              1025
+            ],
+            [
+              1026,
+              1158
+            ]
+          ],
+          "actual_unique_P": 199
+        },
+        {
+          "component_id": "DUST-05-U012",
+          "member": "item/xhtml/p-004.xhtml",
+          "member_sha256": "9366a1cdb9ca63c2f901ad7c8b72316aff841ffc63715fe03f3ddb3b6d541db3",
+          "actual_received_base_text_ranges": [
+            [
+              314,
+              428
+            ],
+            [
+              429,
+              566
+            ],
+            [
+              570,
+              650
+            ],
+            [
+              654,
+              723
+            ]
+          ],
+          "actual_unique_P": 404
+        }
+      ],
+      "receipt_schema_keys": [
+        "schema",
+        "recorded_utc",
+        "source",
+        "native_sha256",
+        "scope",
+        "units",
+        "actual_unique_base_text_P",
+        "new_whole_source_ruby_image_or_independent_test_credit",
+        "findings"
+      ]
+    },
+    {
+      "private_receipt_label": "SECONDARY_ACCEPTED_DUST06_LEEN_VIEWPOINT_NATIVE_RECHECK_01.json",
+      "private_receipt_sha256": "8fbda24d8fed471c8cab7e078e7c454d92bf7e9845af682cd9a0539320fd3f46",
+      "access_scope": "Already separately received bounded native windows; the earlier original source admission remains separately authoritative. No new whole-source or independent-test credit.",
+      "recorded_native_source_id": "DUST-06",
+      "recorded_native_sha256": "d533fc314c5ecb86ff9316e372d2b4eb9747d65eb413e4d9a8b97a52b2fff4a1",
+      "locator_records": [
+        {
+          "component_id": "DUST-06-U010",
+          "member": "item/xhtml/p-002.xhtml",
+          "member_sha256": "650c8f241a553f41945bb77f0605b830d4c99e92c89121632d2f3d488edacfcb",
+          "actual_received_base_text_ranges": [
+            [
+              596,
+              640
+            ]
+          ],
+          "actual_unique_P": 45
+        },
+        {
+          "component_id": "DUST-06-U012",
+          "member": "item/xhtml/p-004.xhtml",
+          "member_sha256": "b5af4a189f729eb64a67120258f8b811d76d1d0905468d74fdb85805cd2cc719",
+          "actual_received_base_text_ranges": [
+            [
+              427,
+              597
+            ]
+          ],
+          "actual_unique_P": 171
+        }
+      ],
+      "receipt_schema_keys": [
+        "schema",
+        "recorded_utc",
+        "source",
+        "native_sha256",
+        "scope",
+        "units",
+        "actual_unique_base_text_P",
+        "new_whole_source_or_independent_test_credit",
+        "findings"
+      ]
+    },
+    {
+      "private_receipt_label": "SECONDARY_ACCEPTED_DUST07_PROVIDERS_AGENCY_AND_SETTLEMENT_NATIVE_RECHECK_01.json",
+      "private_receipt_sha256": "e4260229a4ecf672a147a83b1d2b6b4106f3d7e532dc97b09f8e7db2fffe277a",
+      "access_scope": "Already separately received bounded native windows; the earlier original source admission remains separately authoritative. No new whole-source or independent-test credit.",
+      "recorded_native_source_id": "DUST-07",
+      "recorded_native_sha256": "cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5",
+      "locator_records": [
+        {
+          "unit": "DUST-07-U011",
+          "member": "item/xhtml/p-003.xhtml",
+          "member_sha256": "c9ba71b51dab40b49a9f5d2b42952a635d1dd55a4e9c2aae16853c21d8e256e1",
+          "unit_P": 1115,
+          "actual_received_base_text_ranges": [
+            [
+              361,
+              460
+            ],
+            [
+              557,
+              635
+            ],
+            [
+              636,
+              705
+            ],
+            [
+              735,
+              835
+            ],
+            [
+              836,
+              944
+            ]
+          ],
+          "unique_received_P": 459,
+          "current_whole_base_text_unit": false
+        },
+        {
+          "unit": "DUST-07-U012",
+          "member": "item/xhtml/p-004.xhtml",
+          "member_sha256": "fffa57992203fe201aa2feb701792a5b7168bb29542cf44f34f1dffbba24b8d5",
+          "unit_P": 890,
+          "actual_received_base_text_ranges": [
+            [
+              259,
+              304
+            ],
+            [
+              352,
+              378
+            ]
+          ],
+          "unique_received_P": 73,
+          "current_whole_base_text_unit": false
+        },
+        {
+          "unit": "DUST-07-U013",
+          "member": "item/xhtml/p-005.xhtml",
+          "member_sha256": "6777b851ec9f2e450e5cb21d96956c1ab584b9f2d3438842eceafb76241bf39a",
+          "unit_P": 677,
+          "actual_received_base_text_ranges": [
+            [
+              81,
+              140
+            ],
+            [
+              205,
+              260
+            ],
+            [
+              265,
+              370
+            ],
+            [
+              371,
+              465
+            ],
+            [
+              466,
+              560
+            ],
+            [
+              561,
+              647
+            ]
+          ],
+          "unique_received_P": 499,
+          "current_whole_base_text_unit": false
+        },
+        {
+          "unit": "DUST-07-U014",
+          "member": "item/xhtml/p-006.xhtml",
+          "member_sha256": "b44ca1e68568f6e50d74461e956b1d432a296135e95cd93142f6054d85ae923d",
+          "unit_P": 148,
+          "actual_received_base_text_ranges": [
+            [
+              1,
+              80
+            ],
+            [
+              81,
+              148
+            ]
+          ],
+          "unique_received_P": 148,
+          "current_whole_base_text_unit": true
+        }
+      ],
+      "receipt_schema_keys": [
+        "source_id",
+        "received_utc",
+        "native_bytes",
+        "native_sha256",
+        "units",
+        "actual_unique_received_base_text_P",
+        "new_whole_principal_or_ruby_residual_image_or_independent_test_credit",
+        "precision"
+      ]
+    },
+    {
+      "private_receipt_label": "SECONDARY_ACCEPTED_DUST_CONT_AGENCY_CONTRACT_AND_VIEWPOINT_NATIVE_RECHECK_01.json",
+      "private_receipt_sha256": "89ee07a6bfa8d35a9f0c6573aeea5c4e51d98f65f4e02493ef8a12f640ecfbfc",
+      "access_scope": "Already separately received bounded native windows; the earlier original source admission remains separately authoritative. No new whole-source or independent-test credit.",
+      "recorded_native_source_id": "DUST-CONT",
+      "recorded_native_sha256": "c5ffcf82e82cb0c205f34fe776f99d23fb2ac8cf13841598c92a607988bfa023",
+      "locator_records": [
+        {
+          "unit": "DUST-CONT-U012",
+          "member": "item/xhtml/p-004.xhtml",
+          "member_sha256": "f3907a1788c4e2b1b5b74f1d7277e4cbb135af6de3e45fcf1f475878b938b764",
+          "unit_P": 510,
+          "actual_received_base_text_ranges": [
+            [
+              436,
+              510
+            ]
+          ],
+          "unique_received_P": 75,
+          "current_whole_base_text_unit": false
+        },
+        {
+          "unit": "DUST-CONT-U013",
+          "member": "item/xhtml/p-005.xhtml",
+          "member_sha256": "716e1c469c9bf0161907524ab941d57cee45313caea4580d725d62e66d5b9d49",
+          "unit_P": 531,
+          "actual_received_base_text_ranges": [
+            [
+              110,
+              193
+            ],
+            [
+              208,
+              280
+            ],
+            [
+              281,
+              351
+            ]
+          ],
+          "unique_received_P": 228,
+          "current_whole_base_text_unit": false
+        },
+        {
+          "unit": "DUST-CONT-U014",
+          "member": "item/xhtml/p-006.xhtml",
+          "member_sha256": "e501fd6780da8af25aa09626c43fc190422ba7cad90ff85e464e0fd0162a6be2",
+          "unit_P": 573,
+          "actual_received_base_text_ranges": [
+            [
+              59,
+              108
+            ]
+          ],
+          "unique_received_P": 50,
+          "current_whole_base_text_unit": false
+        },
+        {
+          "unit": "DUST-CONT-U016",
+          "member": "item/xhtml/p-008.xhtml",
+          "member_sha256": "887d168e69e87b05dc7e4d8ac6818717d8082fefab0867a80faaec9a70847a98",
+          "unit_P": 34,
+          "actual_received_base_text_ranges": [
+            [
+              1,
+              34
+            ]
+          ],
+          "unique_received_P": 34,
+          "current_whole_base_text_unit": true
+        }
+      ],
+      "receipt_schema_keys": [
+        "source_id",
+        "received_utc",
+        "native_bytes",
+        "native_sha256",
+        "units",
+        "actual_unique_received_base_text_P",
+        "new_whole_principal_or_ruby_residual_image_or_independent_test_credit",
+        "precision"
+      ]
+    }
+  ],
+  "current_identity_role_recheck": {
+    "schema": "KONOSUBA_SECONDARY_ACCEPTED_NATIVE_RETROSPECTIVE_RECHECK_V1",
+    "source_known": true,
+    "recorded_utc": "2026-10-20T01:09:58.588444+00:00",
+    "scope": "Only the following BASE-TEXT windows were actually displayed in the current continuation. Historical whole-edition/ruby/image traversals remain separately attributed. No new independent test.",
+    "units": [
+      {
+        "source": "DUST-05",
+        "unit": "U012",
+        "member": "item/xhtml/p-004.xhtml",
+        "native_sha256": "bdd0f7af1fe772cf0c760ebf2e1b9c7e2bd1fc7ed7d84ad9c4ec1d887e422ffc",
+        "member_sha256": "9366a1cdb9ca63c2f901ad7c8b72316aff841ffc63715fe03f3ddb3b6d541db3",
+        "actual_displayed_ranges": [
+          [
+            574,
+            603
+          ]
+        ],
+        "previously_received_all": true,
+        "new_member_P_relative_to_prior_specific_receipt": 0
+      },
+      {
+        "source": "DUST-07",
+        "unit": "U011",
+        "member": "item/xhtml/p-003.xhtml",
+        "native_sha256": "cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5",
+        "member_sha256": "c9ba71b51dab40b49a9f5d2b42952a635d1dd55a4e9c2aae16853c21d8e256e1",
+        "actual_displayed_ranges": [
+          [
+            390,
+            405
+          ],
+          [
+            442,
+            453
+          ],
+          [
+            1025,
+            1032
+          ],
+          [
+            404,
+            441
+          ]
+        ],
+        "union_ranges": [
+          [
+            390,
+            453
+          ],
+          [
+            1025,
+            1032
+          ]
+        ],
+        "union_member_slots": 72,
+        "new_member_P_relative_to_prior_specific_receipt": 8,
+        "prior_specific_scope_union_after_this_join": 1187,
+        "not_a_global_native_independent_observation_or_population_count": true
+      }
+    ],
+    "findings": [
+      "DUST05 P591 directly gives ライン・シェイカー in the altered knight appraisal; P599 current self-name and P602 chosen present self follow the headbutt. This is not a clinical diagnosis or two actors.",
+      "DUST07 P395-400 actual recalled permission includes Rionor OR another truly wanted protected person; current private naming is Leen then friends/town. Not a blanket prohibition or an arbitrary post-outcome exemption.",
+      "DUST07 P419-440 is deliberate present disclosure and distinctly separates prior noble/knight suspicion from newly confirmed Dragon Knight. P449-453 exposes false certainty about the princess switch.",
+      "リオノール and リーン are distinct people; ライン・シェイカー must not be collapsed into the attendant レイン from similar Roman letters.",
+      "DUST07 P1027-1028 identifies the sword as received from the princess, while its exceptional value is specifically attributed to her statement; P1029 is truncated intent, not a new actual loan by itself."
+    ],
+    "new_whole_source_ruby_image_or_independent_test_credit": 0
+  },
+  "current_sword_handover_recheck": {
+    "schema": "KONOSUBA_SECONDARY_ACCEPTED_NATIVE_RETROSPECTIVE_RECHECK_V1",
+    "recorded_utc": "2026-10-20T01:16:17.188035+00:00",
+    "source": "DUST-07",
+    "unit": "U011",
+    "member": "item/xhtml/p-003.xhtml",
+    "native_sha256": "cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5",
+    "member_sha256": "c9ba71b51dab40b49a9f5d2b42952a635d1dd55a4e9c2aae16853c21d8e256e1",
+    "actual_displayed_base_text_range": [
+      1085,
+      1115
+    ],
+    "actual_member_slots": 31,
+    "new_member_slots_relative_to_prior_1179_and_current_identity_join": 31,
+    "current_specific_DUST07_native_union_after_prior1179_plus8_plus31": 1218,
+    "not_independent_observations": true,
+    "new_whole_source_ruby_image_or_independent_test_credit": 0,
+    "findings": [
+      "P1085-1086 secret one-use defense is Dust narrated capability knowledge, not a newly witnessed all-spell experiment.",
+      "P1087-1090 explicitly values the princess gift as protection and binding connection to the old role.",
+      "Actual throw to Kazuma1092 and return request1093 are distinct from intended private disposal; loan is performed, completed return unshown.",
+      "Leen public profit/dead-adventurer cover1097 and Dust performed anger1099 are qualified by private matching-cover acknowledgment1103.",
+      "Private protect-friend address1105 and stated new usefulness1108 coexist with explicitly genuine conditional profit possibility1109. Do not reduce the loan to either pure loyalty or mere fraud.",
+      "MAIN16 C3P250-264 and DUST07 U011P1085-1115 are competing-viewpoint routes to the same loan event; MAIN17 use and DUST-CONT nonreturn are later states, not new initial loans.",
+      "His claimed farewell to the past1107 is a current self-appraisal; continuing Rionor attachment and later encounters must remain possible."
+    ]
+  },
+  "DUST07_current_specific_native_union": {
+    "prior_specific_receipt_member_slots": 1179,
+    "additional_identity_member_slots": 8,
+    "additional_handover_member_slots": 31,
+    "resulting_union_member_slots": 1218,
+    "scope": "Only this explicitly listed current-audit receipt lineage; not a global source/literary-event/independence denominator. Other original traversal histories remain separately attributed."
+  },
+  "semantic_source_kinds": [
+    "observed action",
+    "direct speech",
+    "narrator knowledge claim",
+    "deliberate performance",
+    "reported history",
+    "inference",
+    "dream/altered appraisal",
+    "alternate viewpoint",
+    "reader-private epilogue",
+    "public legend"
+  ],
+  "new_whole_source_ruby_image_or_independent_test_credit": 0,
+  "language_limit": "Written Japanese only; no listening, native-human adequacy or independent voice judgment.",
+  "private_to_public_transformation": "Retain member/range/hash metadata and analytical findings. Omit native local paths/filenames and primary text. Original private receipt labels and hashes identify the separately preserved support; no raw EPUB/native arrays/artwork are published."
+}
