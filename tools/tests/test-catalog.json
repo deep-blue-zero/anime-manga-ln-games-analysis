@@ -400,6 +400,27 @@
       ],
       "purpose": "fixture baseline handles inherited pending root without changing content"
     },
+    "test_analytical_preflight.AnalyticalPreflightTests.test_fixture_baseline_restores_published_reconstruction_outputs_unless_policy_is_amended": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_analytical_preflight.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Restore unpublished reconstruction outputs to the published bytes in the CLI fixture baseline, preserving every other authored byte, unless the candidate also amends the reconstruction policy."
+    },
+    "test_analytical_preflight.AnalyticalPreflightTests.test_cli_fixture_does_not_mix_unpublished_reconstruction_outputs": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_analytical_preflight.py",
+        "tools/*.py"
+      ],
+      "purpose": "A candidate carrying unpublished reconstruction outputs, as on the evaluator's branch, still yields a CLI fixture whose delta against the integration base never mixes those outputs with the synthetic root."
+    },
     "test_analytical_preflight.AnalyticalPreflightTests.test_cli_pending_then_materialized_integration": {
       "group": "live_corpus",
       "smoke": false,
