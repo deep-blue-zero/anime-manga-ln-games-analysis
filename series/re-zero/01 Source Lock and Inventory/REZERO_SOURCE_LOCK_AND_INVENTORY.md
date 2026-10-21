@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: source_lock
 scope: SOURCE_ADMISSION_CONTRACT_AND_CURRENT_INVENTORY_STATE
-generation: V0.19
+generation: V0.20
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -482,6 +482,23 @@ After V14's full gate at cfd5627ddc4cf26fe5bd05bb1fac3b7eeb23f960, the V01–V14
 
 Default is living E018 FIRST PASS/SECOND START before contents; positive private warmth, still-hidden grief, ordinary mayonnaise liking, particular requested support and incomplete Ram-petition understanding remain bounded. All20 historical artifacts/five owner bytes/256 current narrative claims and the exact V15 seal remain unchanged. Only this separate operation's own complete publication gate permits V15. Source high-water stays V14, admission V01–V43/V41exception/datedV44–45gaps and active V43 authorization stay unchanged; no separate witness is opened.
 
+## Volume 15 consumption record
+
+Source15 was first opened2026-10-21T02:36:15Z only after V14's complete gate at cfd5627ddc4cf26fe5bd05bb1fac3b7eeb23f960 and Emilia14's separate complete gate at1a421296e69e547dd9bd017a83a00b9a5d7bc1de. The exact incoming60-question/10-forecast seal f1959a017cb1e123e40a4d193d9c1b99bf098038f948946db19bc4c7dfc2498c remained unchanged.
+
+| responsibility | actual result / limit |
+|---|---|
+| admitted object | `RZ-MAIN-LN-JA-V15`; `Re Zero - Volume 15.epub`;9893538bytes;SHA256 `3d4e93eab533a513a49fe7a26f27aae8d2ae370a6d7eb5d6178698d5e3aa3d25` |
+| package | `item/standard.opf`; ja;長月達平/大塚真一郎;KADOKAWA/メディアファクトリー;80entries/CRCpass; first mimetype compression8 nonfatal; no invented ISBN/DriveID |
+| manifest |23584bytes/SHA256 `3daa190cefda6ab894f5d62ff547a93856c8133f2d4fc1cbc552b99d73c73314` unchanged; no admission expansion |
+| actual reading |45/45 OPF members,3995/3995positions=3974TEXT+21positionedIMAGEreferences/20distinct originals,52bounded text deliveries; zero gaps/duplicates; each original viewed in order including repeated logo/title/colophon/final BOOKWALKER |
+| lost-delivery handling |p-001#B0286–0339 was fully reacquired after outer delivery loss before later members; inspection/cached existence alone was not credited |
+| dates and endpoint |electronic issue/first-edition first-print basis2017-12-25, afterword composition2017-11; fourth arc explicitly concluded p-029#B0004/B0014/B0016; final source logo actually viewed by about03:21Z |
+| closeout |292claims; all256predecessors/60incomingquestions/10forecasts; actual E018alive17deaths18segments at month-later ceremony/party; five owners/master synchronized;22 prior artifacts unchanged |
+| next-source seal |60V16questions/10forecasts; UTF-8/LF SHA256 `279e4a504f39376b8b7083a95841ef28ee10416976c93bc9d69bb20b9bf1b413`; fixed through source-free derived operations |
+
+The final contributing volume must pass its full synchronized publication gate before separate `ARC04_CHECKPOINT`. Then the four earned person constructions/reviews each need their own complete gate before V16. None consumes/adopts V16, the advertised collection/manga/WN, separate IF or adaptation. Source lock retains43-object admission/V41 exception/datedV44–45gaps; no global source curation or new acquisition is performed.
+
 ## Current source-state summary
 
 - **Acquired/admitted Japanese main LN:** V01-V43 continuous.
@@ -492,7 +509,7 @@ Default is living E018 FIRST PASS/SECOND START before contents; positive private
 - **Admitted IF/alternate route:** none.
 - **Admitted web novel:** none.
 - **Admitted anime/audiovisual:** none.
-- **Consumed into prospective main-LN analysis:** V01–V14; V14 full gate verified at cfd5627ddc4cf26fe5bd05bb1fac3b7eeb23f960. Emilia's later model operation adds no narrative unit and does not extend historical Subaru10/Otto13 scopes.
+- **Consumed into prospective main-LN analysis:** V01–V15, with actual complete V15 source consumption; committed authority advances only on this synchronized transaction's full gate. Earlier Subaru10/Otto13/Emilia14 models/reviews retain exact historical scope and grade.
 - **Next source acquisition priority:** Japanese V44 and V45 before the sequential read reaches that boundary.
-- **Next analytical operation:** `V15` only after the Emilia V01–V14 model/review operation's own complete publication gate. Its actual local documentary result is PASS_WITH_BOUND, not publication closure. The exact sixty-question/ten-forecast V15 prospect remains sealed; V15 is unopened.
-- **Current execution state:** active continuous terminal V43 unchanged. Historical Subaru10/default E013 and Otto13/default V13livingE018 pairs remain unchanged. Emilia14/default FIRST PASS–SECOND START now has its own implemented model/separate local nonblind documentary PASS_WITH_BOUND, subject to its own gate, not an inherited/global grade. E018alive/17deaths18segments; Emilia FIRST PASS/SECOND START, partial rescue and begun fights only. No death18/E019, gate repair, full camp RBD/tea, restored Rem, accepted Beatrice exit, whole rescue/evacuation, barrier/wager/Arc4 or series ending/adaptation finding is implied.
+- **Next analytical operation:** `ARC04_CHECKPOINT` after complete V15 publication; then Beatrice15, Garfiel10–15, Ram15 and Roswaal15 separate model/review operations, each full gate before the next/source16. V16 remains unopened with the exact60/10 seal above.
+- **Current execution state:** active continuous terminalV43. E018alive/17deaths18segments after actual rescue, three trials, two-site local release, finite chosen contract/defense, plural settlement and accepted office; reader-only Omega coda. No death18/E019, Rabbit extinction, gate/reserve repair, Rem awakening, full camp RBD/tea, origin telling/old apology or held capital reward ceremony is implied. Sourceverified Arc04 end earns a separate checkpoint, not completed models or full-series synthesis.

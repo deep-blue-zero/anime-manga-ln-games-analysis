@@ -1,8 +1,8 @@
 ---
 series: RE_ZERO
 artifact_type: project_changelog
-scope: VERBATIM_ENTRYPOINT_HISTORY_THROUGH_POST_V14_EMILIA_MODEL_OPERATION
-generation: V1.6
+scope: VERBATIM_ENTRYPOINT_HISTORY_THROUGH_V15_CLOSEOUT
+generation: V1.7
 status: canonical
 release_state: append_only_history
 supersedes: []
@@ -503,3 +503,74 @@ The absence of an unused directory is intentional. Re:Zero should grow by analyt
 ## Emilia V01–V14 implementation record — separate from source advancement
 
 After the V14 source gate closed, the earned integrated model/separate nineteen-dimension same-analyst nonblind documentary review was implemented with local PASS_WITH_BOUND.36 bundles/28 rules/19 negative controls/12 noncanonical probes,27 bounded Japanese reconciliation deliveries and two resolved traceability repairs preserve ordinary/preferences, recipient/state/knowledge, voice, refusal, contradictions and mandatory abstentions. Default is living E018 FIRST PASS/SECOND START before contents. All20 prior artifacts/five owner bytes/256 claim formulations and the exact V15 prospect remain unchanged. No new narrative unit, independent runtime/global grade, sixth owner or Arc4 endpoint follows. This separate operation's complete publication gate still controls opening V15; historical Subaru10/Otto13 scopes/defaults/grades do not change. Active continuous V43 authorization remains unchanged.
+
+## V15 closeout — preserved post-V14 Emilia entrypoint and new bounded operation
+
+The following former operation blocks, current-state section and corpus table are preserved verbatim from map blob385ef8ad1582cc5ad5c390d78031c529ed382888 at1a421296e69e547dd9bd017a83a00b9a5d7bc1de. They are historical pre-V15 statements, including their then-pending condition; all three earlier gates have since closed. This history does not nominate today's operation.
+
+```yaml
+project_initialization:
+  status: canonical
+  architecture_lifecycle: EVOLVING
+  governing_method: 00 Frameworks and Methods/REZERO_ANALYTICAL_METHOD.md
+  synthesis_architecture: 00 Frameworks and Methods/REZERO_SYNTHESIS_ARCHITECTURE.md
+  character_reconstruction_protocol: 00 Frameworks and Methods/REZERO_CHARACTER_RECONSTRUCTION_PROTOCOL.md
+  supplemental_witness_catalog: 01 Source Lock and Inventory/REZERO_SUPPLEMENTAL_WITNESS_CATALOG.md
+  method_status: canonical
+  architecture_status: canonical
+  source_reconnaissance_complete: true
+  required_day_one_infrastructure_initialized: true
+  required_day_one_infrastructure:
+    - 04 Longitudinal Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md
+  sequential_analysis_lock: OPEN
+  next_permitted_operation: V15
+```
+
+```yaml
+sequential_execution:
+  mode: continuous_sequential
+  unit_type: main_light_novel_volume
+  authorized_start: V03
+  terminal_boundary: V43
+  committed_high_water_mark: V14
+  next_candidate_operation: V15
+  confirmation_between_units: false
+  run_state: active
+```
+
+## Current analytical state
+
+Japanese main-LN source analysis is published through V14 at cfd5627ddc4cf26fe5bd05bb1fac3b7eeb23f960 with its complete gate:256 current claims, all216 V13 predecessor/60 incoming-question/ten forecast adjudications,17 actual deaths/18 arrived segments. E018 is alive at Subaru's uninvited Beatrice-library entry; Emilia FIRST PASS/SECOND START and Ram/Puck–Roswaal plus Garfiel–Elsa fights are begun. No death18/E019, second/third result, complete rescue/evacuation, barrier release, cast snow/Rabbit outcome, fulfilled wager or Arc4 ending is supplied.
+
+Two historical person-model pairs retain distinct defaults and unchanged local reviews: [Subaru V01–V10](05%20Character%20Analysis/REZERO_NATSUKI_SUBARU_V01_V10_CHARACTER_MODEL.md)/[first audit](08%20Audits%20and%20Manifests/REZERO_CHARACTER_RECONSTRUCTION_FIDELITY_AUDIT.md), terminal E013; [Otto V01–V13](05%20Character%20Analysis/REZERO_OTTO_SUWEN_V01_V13_CHARACTER_MODEL.md)/[review](08%20Audits%20and%20Manifests/REZERO_OTTO_SUWEN_V01_V13_FIDELITY_REVIEW.md), living V13 E018 outside tomb. Both gates closed before V14. Newly revealed Ram terms do not retroactively make Otto ignorant of his own agreement or extend either model's scope/grade.
+
+The earned [Emilia V01–V14 model](05%20Character%20Analysis/REZERO_EMILIA_V01_V14_CHARACTER_MODEL.md) and [separate scoped review](08%20Audits%20and%20Manifests/REZERO_EMILIA_V01_V14_FIDELITY_REVIEW.md) are now implemented. Default is living E018 FIRST PASS/SECOND START before contents;36 bundles/28 conditional rules/19 negative controls/12 noncanonical probes,27 bounded exact-identity Japanese deliveries and two resolved traceability repairs. The actual nineteen-dimension same-analyst nonblind documentary result is PASS_WITH_BOUND, not independent runtime, held-out/global grade or cure. Its own complete publication gate—not local review alone—must close before V15.
+
+Five specialist owners/master remain sole authorities and `SEQUENTIAL_ANALYSIS_LOCK = OPEN`: E018/K449/M285/I234/R078/RT140. All20 older freezes/checkpoints/model-review artifacts and five owner bytes stay unchanged;256 current V14 formulations and older claim/horizon bodies remain historical. V14's44members/3906positions/23IMAGEreferences22resources were actually consumed, not inferred from counts. The exact60-question/ten-forecast V15 prospect remains sealed and V15 is unopened; both operation fields nominate V15 conditionally on the Emilia gate.
+
+Garfiel's V10–V14 outside-defense and Ram/Roswaal changed-wish plus represented Beatrice/Meyer farewell cases remain narrower. No sixth owner, final specialist, arc-end freeze or external witness is promoted. Source lock retains admitted43-object spine/V41exception/datedV44–45gaps; active V43 continues without ordinary unit confirmation. Superseded entrypoint blocks stay verbatim in [project history](REZERO_PROJECT_CHANGELOG.md); exact publication receipts belong to Git/live audits.
+
+| Layer | Analytical responsibility | Current state |
+|---|---|---|
+| `00 Frameworks and Methods` | Governing evidence, prospective-freeze, route-state, witness-separation, character reconstruction/fidelity, focalization, Japanese-language, safe-horizon, revision, longitudinal-routing, specialist, and completion rules | analytical method V0.1; witness protocol V0.2; architecture V1.16 EVOLVING; character protocol V1.15 |
+| `01 Source Lock and Inventory` | Exact witness set, integrity/provenance, edition identity, publication ordering, source-family classification and non-spine awareness | source lock V0.19; admitted V01–V43/V41override/datedV44–45gaps unchanged; source reading through V14; catalogV0.1/no nonspine admission |
+| `02 Sequential Readings` | Main-LN prospective deep readings and source-verified checkpoints | V01–V14/two source-verified checkpoints; twenty older freeze/checkpoint/model/review artifacts unchanged; V15 unopened with exact sixty-question/ten-forecast seal through Emilia operation's own full gate |
+| `03 Supplemental and Alternate Witnesses` | Analytical readings of admitted mainline side stories, collections, EX/supplemental material, IF/alternate routes, web-novel witnesses, and other non-spine material | routing contract V0.2 populated; cataloging remains in layer 01; no witness admitted or read yet |
+| `04 Longitudinal Ledgers` | Current claims/revisions, chronology/durability, proposition holders, relationships, characters, institutions, mechanics, ordinary life, Japanese, questions and readiness | masterV1.17 through V14; institutionV1.11/I234; eventV1.8/E018; knowledgeV1.8/K449; mechanicsV1.7/M285; relationshipV1.5/R078/RT140; schemaV0.18; five sole contracts unchanged |
+| `05 Character Analysis` | Protocol-governed character reconstruction only after sufficient longitudinal evidence exists | routing contractV0.7; historical Subaru10/defaultE013 and Otto13/defaultV13E018 pairs unchanged; Emilia14/default FIRST PASS–SECOND START model/separate scoped review implemented/local documentary PASS_WITH_BOUND, own gate before V15; no independent/global grade |
+| `06 Adaptation Analysis` | Anime and later audiovisual comparison as separately labeled witnesses | routing contract populated; no adaptation findings yet |
+| `07 Specialist Synthesis` | Dense questions with independent retrieval responsibility, instantiated only when earned | not instantiated |
+| `08 Audits and Manifests` | Bootstrap and later analytical/source-integrity manifests | bootstrap/architecture records, historical Subaru first nineteen-dimension audit and Otto separate scoped nineteen-dimension documentary review; source-integrity evidence remains source-lock governed |
+| future `09 Evidence and Indexes` | Claim-evidence, source-locator, character-evidence-coverage, or witness-dependency navigation only after demonstrated retrieval burden | not instantiated; exact candidates and triggers reserved in the synthesis architecture |
+| future `10 Full-Series Synthesis` | Canonical full-series convergence after complete-series or expressly bounded readiness | not instantiated; reserved canonical file `REZERO_FULL_SERIES_SYNTHESIS.md` |
+| `90 Legacy and Superseded` | Materially distinct superseded analysis | not instantiated; no legacy analytical corpus is being imported |
+
+### V15 source-facing transition — not a publication receipt
+
+The complete source is actually consumed:45members/3995positions/3974TEXT/21IMAGEpositions20originals/52textwindows, exactSHA2563d4e93eab533a513a49fe7a26f27aae8d2ae370a6d7eb5d6178698d5e3aa3d25/9893538bytes. The transaction contains292claims, all256 predecessor/60incoming-question/10forecast dispositions,28ordinary/28JP and an exact60/10V16 prospect279e4a504f39376b8b7083a95841ef28ee10416976c93bc9d69bb20b9bf1b413. No later/nonspine narrative is opened.
+
+E018alive/17deaths18segments reaches principal rescue, three trials, two-site release, finite chosen Beatrice bond/defense, Rabbit displacement, constrained plural settlement and accepted knighthood; reader-only Omega composite coda qualifies cast interpretations. Gate/reserve/Rem/old apology/origin telling/private disclosure and victim consent remain bounded. Five owners reachE018/K495/M317/I262/R086/RT181 with46K/32M/28I/8R/41RT new increments,33oldR updates/45unchanged/all140oldRT unchanged and every prior ancestry retained.
+
+All22 earlier artifacts and three historical model/default/review grades remain unchanged. Explicit 第四章完結 earns a separate Arc04 checkpoint only after final contributing V15 complete publication; then Beatrice15/Garfiel10–15/Ram15/Roswaal15 separate constructions/reviews are required, each full gate before the next/source16. These are qualitative readiness responsibilities, not already implemented models, global grades, registry writes, sixth owner, mature final specialist or completed V43run.
+
+The preflight/commit/readback/source-audit/housekeeping/final-audit/status/fresh-native gate is still distinct from authored analytical claims. Exact published hashes/live audits, not this prose or draft existence, close publication.

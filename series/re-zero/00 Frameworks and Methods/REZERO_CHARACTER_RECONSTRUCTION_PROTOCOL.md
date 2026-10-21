@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: character_reconstruction_protocol
 scope: SOURCE_GROUNDED_CONDITIONAL_CHARACTER_RECONSTRUCTION
-generation: V1.15
+generation: V1.16
 status: canonical
 release_state: mutable_active
 current_analytical_horizon: V14
@@ -361,6 +361,10 @@ Emilia crosses MONOGRAPH_READY for V01–V14 construction because ordinary child
 Garfiel's V10–V14 conditional outside-defense scope and Ram/Roswaal changed-wish plus represented Beatrice/Meyer farewell cases are narrower than whole-person monographs; existing source/owners exercise them without empty checkpoint files. The separate Emilia operation must keep the exact V15 seal unchanged and complete its own full publication gate before V15 source. Both prior model operation gates are already closed; do not redo them or silently alter their source bounds. Active V43 continuation remains unchanged.
 
 Post-V14 Emilia operation: V14's full gate closed at cfd5627ddc4cf26fe5bd05bb1fac3b7eeb23f960 before construction. The integrated `05 Character Analysis/REZERO_EMILIA_V01_V14_CHARACTER_MODEL.md` and separate `08 Audits and Manifests/REZERO_EMILIA_V01_V14_FIDELITY_REVIEW.md` now exist. The actually applied same-analyst nonblind nineteen-dimension documentary result is PASS_WITH_BOUND, with36 bundles/28 rules/19 negative controls/12 noncanonical probes and two resolved traceability repairs. Default is living E018 FIRST PASS/SECOND START before contents; last-waking dialogue needs an explicit override. This derived model neither adds a narrative unit nor inherits another person's grade. All20 historical artifacts, five owners,256 current V14 claim formulations and exact V15 prospect remain fixed. Only this operation's own complete publication gate permits V15; active continuous V43 is unchanged.
+
+V15 review:45members/3995positions are actually consumed,292claims/all256 predecessor/60question/tenforecast dispositions are synchronized through five owners/master, and22 prior artifacts remain unchanged. Source explicitly closes Arc04; its separately gated checkpoint follows this final volume's complete gate. Beatrice V01–V15, Garfiel V10–V15, Ram V01–V15 and Roswaal V01–V15 now earn four distinct constructions with separate reviews, not existing models or grades. Their qualitative evidence/defaults/abstentions are in master §13/V15 §15; unknown full history/preferences/technical facts are not demands for perfection.
+
+V15 complete publication → ARC04_CHECKPOINT complete publication → BEATRICE_V01_V15_MODEL_AND_FIDELITY_REVIEW → GARFIEL_V10_V15_MODEL_AND_FIDELITY_REVIEW → RAM_V01_V15_MODEL_AND_FIDELITY_REVIEW → ROSWAAL_V01_V15_MODEL_AND_FIDELITY_REVIEW → V16; each derived operation needs its own complete gate before the next. Each model must reconcile exact older Japanese/design references and implement/apply all existing selector, ordinary, recipient, failure, voice, negative-control, abstention and nineteen-dimension review responsibilities below. Same-analyst nonblind documentary results must remain labeled as such; failure triggers attributable repair or readiness revision. Historical Subaru10/Otto13/Emilia14 reviewed bytes/defaults/grades stay unchanged. No sixth owner, new field, global grade/discovery write, future source or completed V43 run is implied. Exact V16 horizon hash279e4a504f39376b8b7083a95841ef28ee10416976c93bc9d69bb20b9bf1b413 is fixed.
 
 ## 19. First mature-character fidelity audit
 

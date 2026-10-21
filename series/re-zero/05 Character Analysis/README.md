@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: character_analysis_contract
 scope: SOURCE_GROUNDED_CHARACTER_RECONSTRUCTION
-generation: V0.7
+generation: V0.8
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -36,7 +36,7 @@ Otto's default is **living E018 outside the tomb while Emilia begins her renewed
 
 The separately reported nineteen-dimension review is historical V01–V13 PASS_WITH_BOUND at same-analyst/document level, without held-out source, independent runtime or global evaluator authority. Its complete publication gate closed before V14; current source-facing analysis now reaches V14 subject to the V14 transaction gate, without extending this model's scope or grade. Earlier V14 prospect/source-bound construction history remains fixed.
 
-V14's earned Emilia construction/review is now implemented as described next; Garfiel's V10–V14 conditional outside-defense scope and Ram/Roswaal plus represented Beatrice/Meyer cases remain narrower. Historical Subaru10/Otto13 bytes/defaults/local grades stay unchanged; their completed gates are not pending again. No fourth-arc endpoint or sixth state owner is promoted.
+At the V14 construction boundary, V14's earned Emilia construction/review is now implemented as described next; Garfiel's V10–V14 conditional outside-defense scope and Ram/Roswaal plus represented Beatrice/Meyer cases remain narrower. Historical Subaru10/Otto13 bytes/defaults/local grades stay unchanged; their completed gates are not pending again. No fourth-arc endpoint or sixth state owner is promoted. That is preserved historical scope, not the current V15 readiness decision below.
 
 ## Emilia's bounded reconstruction and review
 
@@ -47,6 +47,23 @@ Default is living E018 at **FIRST PASS / SECOND START before supplied contents**
 Ordinary mayonnaise liking, phase-bound village mornings/study, child play/curiosity/deception and learned comfort coexist with real refusal, public responsibility, mistaken self-value and concealed post-pass grief. Unknown broader tastes, biological mother, original contract/power facts, forest survival/thaw and unread outcomes are operational abstentions, not erased supported evidence or reasons to await perfection.
 
 Twenty historical artifacts, all five owner files,256 current V14 claim formulations and the exact sixty-question/ten-forecast V15 prospect stay unchanged. Only this operation's own full publication gate permits V15; the active continuous V43 run has no ordinary unit pause. Master §13 remains readiness owner; five owners remain conditioning authority.
+
+## V15 construction responsibility — not implemented artifacts
+
+Current source-facing analysis reaches V15 through its synchronized complete gate; E018 remains alive at the month-later party,17deaths18segments. Source explicitly concludes Arc04. The separate `ARC04_CHECKPOINT` must follow final contributing V15 publication, then four qualitatively earned constructions/reviews in order:
+
+| person / horizon | reserved model | reserved separate review |
+|---|---|---|
+| Beatrice | `REZERO_BEATRICE_V01_V15_CHARACTER_MODEL.md` | `../08 Audits and Manifests/REZERO_BEATRICE_V01_V15_FIDELITY_REVIEW.md` |
+| Garfiel | `REZERO_GARFIEL_TINSEL_V10_V15_CHARACTER_MODEL.md` | `../08 Audits and Manifests/REZERO_GARFIEL_TINSEL_V10_V15_FIDELITY_REVIEW.md` |
+| Ram | `REZERO_RAM_V01_V15_CHARACTER_MODEL.md` | `../08 Audits and Manifests/REZERO_RAM_V01_V15_FIDELITY_REVIEW.md` |
+| Roswaal | `REZERO_ROSWAAL_L_MATHERS_V01_V15_CHARACTER_MODEL.md` | `../08 Audits and Manifests/REZERO_ROSWAAL_L_MATHERS_V01_V15_FIDELITY_REVIEW.md` |
+
+These filenames reserve responsibility, not links to already existing artifacts. Beatrice's own library/visitor/grief history and chosen finite bond, Garfiel's reading/tactical/recipient/cost breadth, Ram's ordinary maid/voice foundation plus changed motive/denial/refusal and Roswaal's public/private original-disciple/defeat/coercion contrasts now distinguish most selector axes. Master §13/V15 §15 own full defaults, source routes, rivals and abstentions; no future biography, favorite, technical soul procedure, healed person or universal fidelity is invented.
+
+Each construction must inspect mature designs as design only, reconcile exact prior Japanese, implement protocol selectors/ordinary/recipient/voice/failure/negative controls and apply a separate scoped nineteen-dimension review. Each operation requires its own full publication gate; local documentary PASS_WITH_BOUND, if actually earned, is not independent runtime or a global grade. Failure requires attributable repair/abstention/readiness revision. Three existing model/review pairs above remain unchanged in bytes, defaults and grades, and their gates are already closed. No global character-registry/curation write, sixth owner or final specialist follows.
+
+V16/nonspine narrative remains unopened. Exact60-question/10-forecast seal279e4a504f39376b8b7083a95841ef28ee10416976c93bc9d69bb20b9bf1b413 stays fixed through checkpoint and four separately gated constructions. Active continuousV43 authorization has no ordinary checkpoint/model pause.
 
 ## Promotion threshold
 

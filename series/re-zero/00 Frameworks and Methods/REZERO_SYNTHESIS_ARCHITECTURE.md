@@ -2,11 +2,11 @@
 series: RE_ZERO
 artifact_type: synthesis_architecture
 scope: JAPANESE_LIGHT_NOVEL_PROSPECTIVE_LONGITUDINAL_AND_SYNTHESIS_ARCHITECTURE
-generation: V1.16
+generation: V1.17
 status: canonical
 release_state: mutable_active
 architecture_lifecycle: EVOLVING
-source_boundary: "Japanese main light novel V01-V43 admitted; V14 full source gate closed;20 historical artifacts unchanged; Emilia V01-V14 model/separate scoped review implemented subject to own full gate before V15; dated V44-V45 acquisition gaps; no non-spine admission"
+source_boundary: "Japanese main LN V01-V43 admitted; V15 actual reading/Arc04 conclusion under complete gate;22 historical artifacts unchanged; three prior model-review scopes fixed; checkpoint then four separate constructions before V16; dated V44-V45 gaps; no nonspine admission"
 recommended_reasoning_class: PREMIUM_QUALITY_FIRST
 reasoning_policy: MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md
 pro_justification: "Propagation-sensitive architecture repair: this routing governs every later Re:Zero volume transaction and synthesis layer."
@@ -491,6 +491,29 @@ Emilia earns MONOGRAPH_READY for separate V01–V14 construction because a genui
 
 Garfiel's V10–V14 conditional outside-defense and Ram/Roswaal changed-wish plus represented Beatrice/Meyer friendship/farewell cases remain narrower than whole-person monographs. No independent evidence-index/ordinary/voice/readiness retrieval failure, sixth owner, final specialist or fourth-arc checkpoint is demonstrated. Both map fields route the earned Emilia operation after V14 gate; its own full publication gate precedes V15 and preserves the fixed horizon. Active continuous V43/admitted range remain unchanged.
 
+### Post-V15 source-verified Arc04 boundary and four earned constructions
+
+Actual45-member/3995-position consumption precedes292 current claims, every256 predecessor/60 question/ten forecast disposition and exact60-question/ten-forecast V16 seal. E018/K495/M317/I262/R086/RT181 fit the five existing owner contracts. Master adds28ordinary/28Japanese rows and qualitative person/readiness reconciliation, preserving the full V14 claim/horizon/person/readiness bodies and22 historical artifacts. R33updates retain old ancestry,45 rows/all140 old transitions remain unchanged;8newrelations/41newtransitions are semantic selection work, not a count-based promotion.
+
+V15 afterword p-029#B0004/B0014/B0016 explicitly states 第四章完結. Reserve `02 Sequential Readings/REZERO_ARC_04_CHECKPOINT.md` for V10–V15 with earlier context labeled. The governing method requires final contributing volume freeze first: the checkpoint must be a later separately gated operation, not a file prematurely bundled into V15. It should compare chosen help/refusal, person/role pressure, private knowledge, false causal models, limited resources, plural political settlement and remaining coercion; no provider/soul/full-series theory is thereby complete.
+
+Beatrice V01–V15 earns construction through own ordinary library/visitor/grief and recipient history, actual refusal/hand/finite contract, limited forgiveness and new awkward friendship. Garfiel V10–V15 earns it through added genuine reading/social motive, range bluff, willful bloodline choice, sister/antagonist contrasts, first-current-kill unease, conditional politics and low-stakes party behavior. Ram's earlier maid/voice/recipient breadth now joins independent clauses, received changed love/denial, finite bodily cost, refusal and continuing sister nonmemory. Roswaal's public patron/ceremony presentation and private original-disciple/Beatrice/Ram/Subaru contrasts now join narrated descendant continuity, actual defeat and continuing coercion. Each can distinguish most protocol axes; complete biography/preferences/cosmology or perfect moral recovery are not prerequisites. Missing coordinates are abstentions, not invented traits.
+
+Master §13 and V15 §15 own detailed defaults, counterevidence and gaps. These are four distinct construction responsibilities, not already implemented models, copied fidelity results or a symmetry-driven packet. Reserved exact artifacts:
+
+| person | model | separate scoped review |
+|---|---|---|
+| Beatrice | `05 Character Analysis/REZERO_BEATRICE_V01_V15_CHARACTER_MODEL.md` | `08 Audits and Manifests/REZERO_BEATRICE_V01_V15_FIDELITY_REVIEW.md` |
+| Garfiel | `05 Character Analysis/REZERO_GARFIEL_TINSEL_V10_V15_CHARACTER_MODEL.md` | `08 Audits and Manifests/REZERO_GARFIEL_TINSEL_V10_V15_FIDELITY_REVIEW.md` |
+| Ram | `05 Character Analysis/REZERO_RAM_V01_V15_CHARACTER_MODEL.md` | `08 Audits and Manifests/REZERO_RAM_V01_V15_FIDELITY_REVIEW.md` |
+| Roswaal | `05 Character Analysis/REZERO_ROSWAAL_L_MATHERS_V01_V15_CHARACTER_MODEL.md` | `08 Audits and Manifests/REZERO_ROSWAAL_L_MATHERS_V01_V15_FIDELITY_REVIEW.md` |
+
+V15 complete publication → ARC04_CHECKPOINT complete publication → BEATRICE_V01_V15_MODEL_AND_FIDELITY_REVIEW → GARFIEL_V10_V15_MODEL_AND_FIDELITY_REVIEW → RAM_V01_V15_MODEL_AND_FIDELITY_REVIEW → ROSWAAL_V01_V15_MODEL_AND_FIDELITY_REVIEW → V16; each derived operation needs its own complete gate before the next.
+
+Each construction must inspect mature reference designs as design only, reconcile exact already-consumed Japanese, implement seven-axis selection, ordinary/recipient/voice/failure/refusal/negative controls and apply a separate review across nineteen protocol dimensions. Same-analyst documentary work is not independent runtime, blind benchmark or global capability. Failure requires attributable repair/abstention/readiness revision. Three published historical model/review pairs retain exact bytes/defaults/grades; no global registry/curation write or evaluator activation follows.
+
+The five owners and master still retrieve the new dimensions without another field contract. No independently failing evidence index, ordinary/voice/readiness home, sixth ledger or final specialist is demonstrated. Source16/nonspine narrative remains unopened and the exact V16 seal279e4a504f39376b8b7083a95841ef28ee10416976c93bc9d69bb20b9bf1b413 remains fixed through all derived operations. Continuous V43 authorization stays active; an arc/checkpoint/model completion is not a terminal pause.
+
 ## 15. Completion gates
 
 The project distinguishes:
@@ -555,7 +578,7 @@ After interruption or ambiguous publication:
 6. resolve branch, source, or prospective-contamination ambiguity before new source reading;
 7. resume at the first unclosed volume within the authorized terminal boundary.
 
-An earned separately pending reconstruction/checkpoint operation is binding, not permission to skip a gate. At this V14 boundary, finish the complete V14 transaction/publication gate, then EMILIA_V01_V14_MODEL_AND_FIDELITY_REVIEW; only its own complete gate permits V15 with the exact sealed prospect. Historical V13/Otto13 gates are closed: do not redo completed work or treat local review as final CI. Both map fields must agree with master readiness and this order.
+An earned separately pending reconstruction/checkpoint operation is binding, not permission to skip a gate. Current order: V15 complete publication → ARC04_CHECKPOINT complete publication → BEATRICE_V01_V15_MODEL_AND_FIDELITY_REVIEW → GARFIEL_V10_V15_MODEL_AND_FIDELITY_REVIEW → RAM_V01_V15_MODEL_AND_FIDELITY_REVIEW → ROSWAAL_V01_V15_MODEL_AND_FIDELITY_REVIEW → V16; each derived operation needs its own complete gate before the next. Both map fields must agree with master readiness. V14 and Emilia14 gates are already closed; do not redo them. Local review alone is not a full publication gate. The exact V16 prospect remains unchanged through these source-free operations.
 
 Conversational memory never advances state. A drafted file, local commit, push success message, earlier green audit, or housekeeping-pending source commit is not the same as a verified completed transaction.
 

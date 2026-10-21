@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: ledger_architecture
 scope: LONGITUDINAL_LEDGER_PROMOTION_AND_SCHEMA_CONTRACT
-generation: V0.18
+generation: V0.19
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -24,7 +24,7 @@ At the project-initiation architecture-repair boundary after the V02 freeze, the
 
 `REZERO_MASTER_LONGITUDINAL_LEDGER.md`
 
-The master was backfilled from frozen V01/V02 and advances prospectively through the V14 transaction, never rewriting the first two. It owns claims, persons/stress, ordinary life, Japanese, prospects and readiness; institution migrated V04, event/knowledge V06, mechanics V07 and relationship V09. Master routes those five sole owners. Historical Subaru10/Otto13 model/review scopes/local nonblind bounds remain unchanged; Emilia V01–V14 model/separate scoped review is now implemented with same-analyst nonblind documentary PASS_WITH_BOUND, subject to its own publication gate before V15. No sixth owner, field-contract change, competing current-state home or global grade is added.
+The master was backfilled from frozen V01/V02 and advances prospectively through V15 without rewriting earlier freezes. It owns current claims/person/ordinary/Japanese/prospect/readiness. Institution V04, event/knowledge V06, mechanics V07 and relationship V09 remain five sole homes; master routes. Subaru10/Otto13/Emilia14 models/reviews all have completed gates and retain historical bytes/defaults/grades. V15 adds current source-facing reconciliation and earns separate Arc04/four construction tasks, not inherited fidelity, new fields or a competing home.
 
 The following candidate sections now define responsibilities that may later split out of the master ledger when independent retrieval/revision burden warrants specialization. They are not unpromoted gaps and do not authorize parallel competing homes.
 
@@ -33,6 +33,8 @@ V14 review: all44members/3906positions/23IMAGEreferences22resources are actually
 Master preserves old V13 claim/horizon bodies and owns22 ordinary/24 Japanese/person/readiness increments. All19 older freezes/model/review artifacts stay unchanged. Emilia alone newly earns V01–V14 construction with separate scoped documentary review after V14 gate, not an existing model/grade; Garfiel V10–V14 and Ram/Roswaal plus represented Beatrice/Meyer cases remain narrower. V15 stays sealed through that separate operation's own full gate. No independent evidence-index/ordinary/voice/readiness retrieval failure, sixth ledger, field migration, final specialist or Arc4 endpoint is demonstrated. Source admission/activeV43/all reserved schemas below remain unchanged.
 
 Post-V14 Emilia model-operation review:36 bundles/28 conditional rules/19 negative controls/12 NONCANONICAL_PROBE applications and an actually applied separate nineteen-dimension documentary review satisfy the earned reconstruction responsibilities without new state fields. Twenty historical artifacts, all five specialist owners,256 current V14 claims and the exact V15 prospect remain unchanged. The V14 construction-trigger paragraph above is historical, not a denial that this later operation is now implemented. No extra ordinary/voice/readiness/index file is justified merely by another project's topology. Local PASS_WITH_BOUND is not independent runtime/global capability or cure; this operation's own full publication gate precedes V15. All reserved contracts below remain exact.
+
+V15 field-contract review: E018/K495/M317/I262/R086/RT181 represent corrected belief, finite selected contract, sanction versus prevention, continuing displaced life, private original-soul receipt and covert composite control without changing schemas. All256predecessors/60questions/10forecasts and292claims are explicit. New46K/32M/28I/8R/41RT increments preserve ancestry;33oldR rows change/45 remain and all140 old transitions stay unchanged. Master adds28ordinary/28JP, preserves old V14 claim/horizon/person/readiness bodies and22 protected artifacts. Sourceverified Arc04 checkpoint follows complete V15 freeze; then four earned separate constructions/reviews precede V16. No sixth ledger/index, ordinary/voice/readiness home, final specialist or global grade is warranted merely by counts. All reserved exact schemas below remain unchanged.
 
 ### Registered exact candidate homes
 
