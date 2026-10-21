@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: ledger_architecture
 scope: LONGITUDINAL_LEDGER_PROMOTION_AND_SCHEMA_CONTRACT
-generation: V0.17
+generation: V0.18
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -24,13 +24,15 @@ At the project-initiation architecture-repair boundary after the V02 freeze, the
 
 `REZERO_MASTER_LONGITUDINAL_LEDGER.md`
 
-The master was backfilled from frozen V01/V02 and advances prospectively through the V14 transaction, never rewriting the first two. It owns claims, persons/stress, ordinary life, Japanese, prospects and readiness; institution migrated V04, event/knowledge V06, mechanics V07 and relationship V09. Master routes those five sole owners. Historical Subaru10/Otto13 model/review scopes/local nonblind bounds remain unchanged; Emilia V01–V14 construction/review is earned next, not implemented. No sixth owner, field-contract change, competing current-state home or global grade is added.
+The master was backfilled from frozen V01/V02 and advances prospectively through the V14 transaction, never rewriting the first two. It owns claims, persons/stress, ordinary life, Japanese, prospects and readiness; institution migrated V04, event/knowledge V06, mechanics V07 and relationship V09. Master routes those five sole owners. Historical Subaru10/Otto13 model/review scopes/local nonblind bounds remain unchanged; Emilia V01–V14 model/separate scoped review is now implemented with same-analyst nonblind documentary PASS_WITH_BOUND, subject to its own publication gate before V15. No sixth owner, field-contract change, competing current-state home or global grade is added.
 
 The following candidate sections now define responsibilities that may later split out of the master ledger when independent retrieval/revision burden warrants specialization. They are not unpromoted gaps and do not authorize parallel competing homes.
 
 V14 review: all44members/3906positions/23IMAGEreferences22resources are actually consumed before256 claims,216 predecessor/60 incoming-question/ten forecast dispositions and the60-question/ten-forecast V15 seal. E018/K449/M285/I234/R078/RT140 receive70 holder/40 causal/35 institutional/15 relationship/38 transition increments;30 affected relationship rows retain ancestry,33 stable rows/102 old transitions unchanged. Original/later memory layers, other-person history, private clauses, changed rescue-love and partial rescue fit existing field contracts.
 
 Master preserves old V13 claim/horizon bodies and owns22 ordinary/24 Japanese/person/readiness increments. All19 older freezes/model/review artifacts stay unchanged. Emilia alone newly earns V01–V14 construction with separate scoped documentary review after V14 gate, not an existing model/grade; Garfiel V10–V14 and Ram/Roswaal plus represented Beatrice/Meyer cases remain narrower. V15 stays sealed through that separate operation's own full gate. No independent evidence-index/ordinary/voice/readiness retrieval failure, sixth ledger, field migration, final specialist or Arc4 endpoint is demonstrated. Source admission/activeV43/all reserved schemas below remain unchanged.
+
+Post-V14 Emilia model-operation review:36 bundles/28 conditional rules/19 negative controls/12 NONCANONICAL_PROBE applications and an actually applied separate nineteen-dimension documentary review satisfy the earned reconstruction responsibilities without new state fields. Twenty historical artifacts, all five specialist owners,256 current V14 claims and the exact V15 prospect remain unchanged. The V14 construction-trigger paragraph above is historical, not a denial that this later operation is now implemented. No extra ordinary/voice/readiness/index file is justified merely by another project's topology. Local PASS_WITH_BOUND is not independent runtime/global capability or cure; this operation's own full publication gate precedes V15. All reserved contracts below remain exact.
 
 ### Registered exact candidate homes
 

@@ -1,8 +1,8 @@
 ---
 series: RE_ZERO
 artifact_type: project_changelog
-scope: VERBATIM_ENTRYPOINT_HISTORY_THROUGH_V14_SOURCE_BOUNDARY
-generation: V1.5
+scope: VERBATIM_ENTRYPOINT_HISTORY_THROUGH_POST_V14_EMILIA_MODEL_OPERATION
+generation: V1.6
 status: canonical
 release_state: append_only_history
 supersedes: []
@@ -419,3 +419,87 @@ The absence of an unused directory is intentional. Re:Zero should grow by analyt
 
 
 End of preserved post-V13 Otto entrypoint blocks. Current V14 routing is only in CURRENT_STATE_AND_CORPUS_MAP.md; exact publication receipts remain Git/live-audit authority.
+
+## Post-V14 Emilia model-operation entrypoint snapshot — historical, not current authority
+
+The following five blocks are preserved verbatim from map V0.22/blob68e1d6b3f4965e5d663675ef011387edc2caa3ba at the completed V14 source commit cfd5627ddc4cf26fe5bd05bb1fac3b7eeb23f960. They record the then-earned Emilia operation before its later implementation, not today's pending/closed gate. No V14 narrative claim or V15 prospect is rewritten by moving entrypoint history.
+
+### Superseded initialization block
+
+```yaml
+project_initialization:
+  status: canonical
+  architecture_lifecycle: EVOLVING
+  governing_method: 00 Frameworks and Methods/REZERO_ANALYTICAL_METHOD.md
+  synthesis_architecture: 00 Frameworks and Methods/REZERO_SYNTHESIS_ARCHITECTURE.md
+  character_reconstruction_protocol: 00 Frameworks and Methods/REZERO_CHARACTER_RECONSTRUCTION_PROTOCOL.md
+  supplemental_witness_catalog: 01 Source Lock and Inventory/REZERO_SUPPLEMENTAL_WITNESS_CATALOG.md
+  method_status: canonical
+  architecture_status: canonical
+  source_reconnaissance_complete: true
+  required_day_one_infrastructure_initialized: true
+  required_day_one_infrastructure:
+    - 04 Longitudinal Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md
+  sequential_analysis_lock: OPEN
+  next_permitted_operation: EMILIA_V01_V14_MODEL_AND_FIDELITY_REVIEW
+```
+
+### Superseded sequential execution block
+
+```yaml
+sequential_execution:
+  mode: continuous_sequential
+  unit_type: main_light_novel_volume
+  authorized_start: V03
+  terminal_boundary: V43
+  committed_high_water_mark: V14
+  next_candidate_operation: EMILIA_V01_V14_MODEL_AND_FIDELITY_REVIEW
+  confirmation_between_units: false
+  run_state: active
+```
+
+### Superseded analytical state block
+
+Japanese main-LN source analysis reaches V14 in this synchronized transaction:256 current claims, all216 V13 predecessor/60 incoming-question/ten forecast adjudications,17 actual deaths/18 arrived segments. E018 is alive at Subaru's uninvited Beatrice-library entry; Emilia FIRST PASS/SECOND START and Ram/Puck–Roswaal plus Garfiel–Elsa fights are begun. No death18/E019, second/third result, complete rescue/evacuation, barrier release, cast snow/Rabbit outcome, fulfilled wager or Arc4 ending is supplied. Draft/source completion advances committed authority only through the full publication gate.
+
+Two source-bounded historical person models keep distinct defaults and local reviews: [Subaru V01–V10](05%20Character%20Analysis/REZERO_NATSUKI_SUBARU_V01_V10_CHARACTER_MODEL.md)/[first audit](08%20Audits%20and%20Manifests/REZERO_CHARACTER_RECONSTRUCTION_FIDELITY_AUDIT.md), default terminal E013; [Otto V01–V13](05%20Character%20Analysis/REZERO_OTTO_SUWEN_V01_V13_CHARACTER_MODEL.md)/[separate review](08%20Audits%20and%20Manifests/REZERO_OTTO_SUWEN_V01_V13_FIDELITY_REVIEW.md), default living V13 E018 outside tomb. Both gates closed before V14; local PASS_WITH_BOUND is same-analyst/nonblind document-level use, not independent runtime, global grade, cure or automatic V14 coverage. Newly revealed Ram terms do not retroactively make Otto ignorant of his own agreement.
+
+Five specialist owners/master remain sole authorities and `SEQUENTIAL_ANALYSIS_LOCK = OPEN`: E018/K449/M285/I234/R078/RT140. All19 older volume/checkpoint/model/review artifacts stay byte-unchanged; old V13 claim/horizon bodies remain historical. V14's44members/3906positions/23IMAGEreferences22resources were actually consumed, not inferred from structural counts. The exact60-question/ten-forecast V15 prospect is sealed after EOF and remains unopened.
+
+Emilia now earns separate `EMILIA_V01_V14_MODEL_AND_FIDELITY_REVIEW` after V14's full gate, not an existing model or review result. Both operation fields route it; its own full gate precedes V15 and must preserve the exact prospect. Garfiel's V10–V14 outside-defense and Ram/Roswaal changed-wish plus represented Beatrice/Meyer farewell cases remain narrower. No sixth owner, final specialist, arc-end freeze or external witness is promoted. Source lock retains admitted43-object spine/V41exception/datedV44–45gaps; active V43 continues without ordinary unit confirmation. Superseded entrypoint blocks stay verbatim in [project history](REZERO_PROJECT_CHANGELOG.md); exact receipts belong to Git/live audits.
+
+### Superseded corpus architecture block
+
+| Layer | Analytical responsibility | Current state |
+|---|---|---|
+| `00 Frameworks and Methods` | Governing evidence, prospective-freeze, route-state, witness-separation, character reconstruction/fidelity, focalization, Japanese-language, safe-horizon, revision, longitudinal-routing, specialist, and completion rules | analytical method V0.1; witness protocol V0.2; architecture V1.15 EVOLVING; character protocol V1.14 |
+| `01 Source Lock and Inventory` | Exact witness set, integrity/provenance, edition identity, publication ordering, source-family classification and non-spine awareness | source lock V0.18; admitted V01–V43/V41override/datedV44–45gaps unchanged; source reading through V14; catalogV0.1/no nonspine admission |
+| `02 Sequential Readings` | Main-LN prospective deep readings and source-verified checkpoints | V01–V14/two source-verified checkpoints; nineteen older freeze/model/review artifacts unchanged; V15 unopened with exact sixty-question/ten-forecast seal through earned Emilia operation/full gate |
+| `03 Supplemental and Alternate Witnesses` | Analytical readings of admitted mainline side stories, collections, EX/supplemental material, IF/alternate routes, web-novel witnesses, and other non-spine material | routing contract V0.2 populated; cataloging remains in layer 01; no witness admitted or read yet |
+| `04 Longitudinal Ledgers` | Current claims/revisions, chronology/durability, proposition holders, relationships, characters, institutions, mechanics, ordinary life, Japanese, questions and readiness | masterV1.16 through V14; institutionV1.11/I234; eventV1.8/E018; knowledgeV1.8/K449; mechanicsV1.7/M285; relationshipV1.5/R078/RT140; schemaV0.17; five sole contracts unchanged |
+| `05 Character Analysis` | Protocol-governed character reconstruction only after sufficient longitudinal evidence exists | routing contractV0.6; historical Subaru10/defaultE013 and Otto13/defaultV13E018 model/review pairs unchanged/local nonblind PASS_WITH_BOUND; Emilia V01–V14 construction/review earned next, not implemented/global grade |
+| `06 Adaptation Analysis` | Anime and later audiovisual comparison as separately labeled witnesses | routing contract populated; no adaptation findings yet |
+| `07 Specialist Synthesis` | Dense questions with independent retrieval responsibility, instantiated only when earned | not instantiated |
+| `08 Audits and Manifests` | Bootstrap and later analytical/source-integrity manifests | bootstrap/architecture records, historical Subaru first nineteen-dimension audit and Otto separate scoped nineteen-dimension documentary review; source-integrity evidence remains source-lock governed |
+| future `09 Evidence and Indexes` | Claim-evidence, source-locator, character-evidence-coverage, or witness-dependency navigation only after demonstrated retrieval burden | not instantiated; exact candidates and triggers reserved in the synthesis architecture |
+| future `10 Full-Series Synthesis` | Canonical full-series convergence after complete-series or expressly bounded readiness | not instantiated; reserved canonical file `REZERO_FULL_SERIES_SYNTHESIS.md` |
+| `90 Legacy and Superseded` | Materially distinct superseded analysis | not instantiated; no legacy analytical corpus is being imported |
+
+The absence of an unused directory is intentional. Re:Zero should grow by analytical responsibility, not by template symmetry.
+
+### Superseded work order block
+
+1. Preserve all13 older VNN freezes/two checkpoints/both historical model-review pairs and entering V14 horizon. Keep V14's source distinctions in its new freeze/current owners; no retrospective rewriting of old reader knowledge, private terms or grades.
+2. Finish this V14 transaction's exact-path author preflight, approved commit, immutable full changed-file readback, actual-source audit, completed source-bound housekeeping and final actual-source full audit/reporter/exact success status. Local semantic acceptance/source EOF is not publication completion.
+3. Only after V14 closes, execute `EMILIA_V01_V14_MODEL_AND_FIDELITY_REVIEW`: inspect design references, reconcile exact older Japanese, implement conditional default/earlier phases, ordinary/recipient/voice/failure/refusal/leakage controls and separately report scoped nineteen-dimension documentary applications. No model or pass exists merely from readiness.
+4. Keep the exact sixty-question/ten-forecast V15 prospect sealed through that operation. Its own complete publication gate precedes `RZ-MAIN-LN-JA-V15`; do not redo already completed V13/Otto13 operations or silently extend their scope.
+5. Continue prospectively through V15 and admitted spine to active V43 without ordinary confirmation. E018/17deaths18segments, FIRST PASS/SECOND START and begun fights are the reached state, not a completed rescue/wager/Arc4; source exhaustion is not published-series completion.
+6. Maintain masterV1.16/architectureV1.15/protocolV1.14/schemaV0.17 and five sole owners E018/K449/M285/I234/R078/RT140. New narrative precedes later derived reconciliation; rules/probes are not evidence and source advancement is not a grade.
+7. Acquire and integrity-audit V44/V45 before the read reaches that boundary. Their dated bibliographic awareness does not admit a witness or extend the authorized terminal.
+8. Keep supplemental/IF/WN/adaptation awareness separate from opening; establish class and safe `H_pub`/`H_diegetic`/`H_route`/`H_final` before use. No such witness is admitted here.
+9. Revisit a ledger/index/ordinary/voice/readiness split only for independent burden, not counts or symmetry. Emilia construction and narrower Garfiel/Ram-Roswaal/Beatrice-Meyer cases do not confer a final specialist or Arc4-end checkpoint.
+10. Preserve exact source/holder/recipient/reference clarity, contrary instances and unsupported coordinates in reconstruction; global discovery/capability remain separately governed writers' responsibilities.
+
+## Emilia V01–V14 implementation record — separate from source advancement
+
+After the V14 source gate closed, the earned integrated model/separate nineteen-dimension same-analyst nonblind documentary review was implemented with local PASS_WITH_BOUND.36 bundles/28 rules/19 negative controls/12 noncanonical probes,27 bounded Japanese reconciliation deliveries and two resolved traceability repairs preserve ordinary/preferences, recipient/state/knowledge, voice, refusal, contradictions and mandatory abstentions. Default is living E018 FIRST PASS/SECOND START before contents. All20 prior artifacts/five owner bytes/256 claim formulations and the exact V15 prospect remain unchanged. No new narrative unit, independent runtime/global grade, sixth owner or Arc4 endpoint follows. This separate operation's complete publication gate still controls opening V15; historical Subaru10/Otto13 scopes/defaults/grades do not change. Active continuous V43 authorization remains unchanged.

@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: master_longitudinal_ledger
 scope: CUMULATIVE_MAIN_LIGHT_NOVEL_STATE_THROUGH_V14
-generation: V1.16
+generation: V1.17
 status: canonical
 release_state: mutable_active
 current_source_horizon: V14
@@ -50,7 +50,7 @@ For every new volume, update this file only after the source-facing reading has 
 | unadmitted published gaps | V44–V45 |
 | admitted non-spine witnesses | none |
 | dedicated ledgers promoted | five sole owners: event V1.8/E018, knowledge V1.8/K449, mechanics V1.7/M285, institution V1.11/I234, relationship V1.5/R078/RT140; §§4–6/8–9 route, not duplicate |
-| character models / local review | historical Subaru V01–V10/default E013 and Otto V01–V13/default living V13 E018 model/review pairs remain unchanged/local nonblind PASS_WITH_BOUND; no automatic V14 coverage/global grade. Emilia V01–V14 construction/review earned, not yet instantiated |
+| character models / local review | historical Subaru10/default E013 and Otto13/default V13E018 pairs remain unchanged; Emilia V01–V14 integrated model/separate nineteen-dimension same-analyst nonblind review now implemented/local PASS_WITH_BOUND, own full gate before V15; no inherited/global grade |
 | relationship/specialist syntheses | two old checkpoints frozen; Garfiel's interim V10–V14 outside-defense case expands; Ram/Roswaal changed-wish and represented Beatrice/Meyer farewell cases named. No new arc-end file, sixth ledger, final specialist or full-series convergence |
 | architecture lifecycle | `EVOLVING` |
 
@@ -1966,7 +1966,7 @@ Subaru's retained history never becomes another person's mutual intimacy, consen
 | character | current bounded model | conditioning/counterevidence | readiness |
 |---|---|---|---|
 | Subaru | E018 receives/delegates help, admits direct Elsa combat limit, reaches Petra/Beatrice and trusts Emilia, while failed peace performance, concealed sources and anticipated refusal override remain | alive at library,17 deaths/18 segments; old gate loss/unrepaired promise/ambiguous kiss persist; nobody-let-Emilia-cry theory is focal and reader-countered; V14 C001/C011/C031/C106/C128/C140/C246; prior V13 person sources preserved historically below | `MONOGRAPH_READY` historical V01–V10 model/audit unchanged; no current V14 Subaru model/grade, §13 |
-| Emilia | recovers represented ordinary foster love/catastrophe, affirms seal refusal, grieves, FIRST PASSES, helps Ram with incomplete understanding and begins SECOND | learned intensifier/promise care and failure coexist with secrecy/limited mana control; no biological-mother name, current thaw, new Puck contract, received old apology or negotiated kiss/romance; C013/C038/C047/C080/C181/C201/C215/C217–236/C249 | `MONOGRAPH_READY` V01–V14 construction/scoped review earned after full publication; not yet implemented, §13 |
+| Emilia | `MONOGRAPH_READY`; [V01–V14 model](../05%20Character%20Analysis/REZERO_EMILIA_V01_V14_CHARACTER_MODEL.md) and [separate scoped review](../08%20Audits%20and%20Manifests/REZERO_EMILIA_V01_V14_FIDELITY_REVIEW.md) implemented/local documentary PASS_WITH_BOUND | Living E018 FIRST PASS/SECOND START before contents;36 bundles/28 rules/19 negative controls/12 noncanonical probes.27 exact-identity bounded JP deliveries/two resolved traceability repairs. Own full gate before V15; no independent runtime/global grade/cure, source advance or claim rewrite |
 | Rem | actual current E018 sleeping body receives Petra care and is assigned Frederica extraction; no speech/awakening | name/twin instruction, Ram blanks and Subaru's attachment differ; no own-memory/age test, completed evacuation or internal-family transfer; C022/C085/C103/C120; prior V13 row below | `ACCUMULATING` |
 | Ram | three confidential Otto clauses, real Emilia petition, nine-year revenge oath and changed living-Roswaal rescue-love culminate in Puck-assisted confrontation | Roswaal misreads her; horn-wand/bodily maintenance leverage, costly prior injuries and missing Rem remain. No total defection/victory/clinical syndrome/full Subaru receipt; C055/C170/C187/C198/C249–252 | `ACCUMULATING_POST_CHECKPOINT` whole person; named V14 changed-wish/patron-misrecognition case ready, §13 |
 | Beatrice | represented ordinary friendship/literacy promise and rejected Meyer sacrifice join old waiting/death-release/first-priority/protection; current Subaru reaches her uninvited | actual current book/self-embrace/trembling eyes not assent; creator-family wording not biological birth or full clauses; proposed alternatives not proven impossible; C024/C029/C128/C140/C155/C237/C241–242 | `ACCUMULATING_POST_CHECKPOINT` whole person; represented Meyer friendship/farewell case ready, §13 |
@@ -3172,7 +3172,9 @@ No forecast identifies a named betrayer, promises a cure, supplies an unseen liv
 | Echidna | `ACCUMULATING` | Represented creator/teacher care, sacrifice project, Book-correction claim, current hostility and admitted biological-mother knowledge complicate person. No complete motives, mother name, impartiality, soul split from voice or exhaustive power/clinical account; C046/C077/C132/C215/C235–243 |
 | Kenichi / Naoko | `ACCUMULATING` under remembered/trial condition | substantial family/voice/ordinary contrasts feed Subaru model, not independently corroborated current Earth biographies or received present reconciliation; V10 C065–077/C104–105 |
 
-Typhon, Minerva, Daphne, Carmilla, Sekhmet and Meili remain ACCUMULATING within their prior differentiated scopes; no new actual intervention supplies absent ordinary lives. V14 Fortuna/Geuse/Meyer/Archi gain particular represented ordinary/care/loss phases, not equal whole-person readiness or current living counterparts. Pandora accumulates bounded threat/power evidence; Hector remains NOT_READY beyond named battle/tie. Fulfhu retains a particular relationship/transport scope. Trial proxies are not actual counterpart receipt. Emilia alone newly crosses construction here, while earlier Otto construction/review is fulfilled historically; these are responsibilities, not symmetric artifacts.
+Typhon, Minerva, Daphne, Carmilla, Sekhmet and Meili remain ACCUMULATING within their prior differentiated scopes; no new actual intervention supplies absent ordinary lives. V14 Fortuna/Geuse/Meyer/Archi gain particular represented ordinary/care/loss phases, not equal whole-person readiness or current living counterparts. Pandora accumulates bounded threat/power evidence; Hector remains NOT_READY beyond named battle/tie. Fulfhu retains a particular relationship/transport scope. Trial proxies are not actual counterpart receipt. The V14 source-facing construction judgment is now fulfilled by Emilia's separate model/review; earlier Otto construction/review remains historical and unchanged. These are responsibilities, not symmetric artifacts.
+
+Post-V14 Emilia operation: the model's exact reviewed blob is a8bcf150e8cd60abef5fff55ab2d0b3dd6fbc1fe; its review reports same-analyst nonblind documentary PASS_WITH_BOUND, not independent execution or a global capability grade. V14 C108/C216 and all256 current claim formulations remain the historical source-facing construction judgment, not retrospectively rewritten to describe this later artifact operation. Fourteen VNN freezes/two checkpoints/two older model-review pairs and all five owner files remain byte-unchanged. The exact sixty-question/ten-forecast V15 horizon remains fixed. Only this operation's own complete publication gate permits V15; source high-water V14 and active V43 continue unchanged.
 
 ### Relationship and specialist readiness
 

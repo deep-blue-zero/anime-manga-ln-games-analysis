@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: source_lock
 scope: SOURCE_ADMISSION_CONTRACT_AND_CURRENT_INVENTORY_STATE
-generation: V0.18
+generation: V0.19
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -476,6 +476,12 @@ V13's full source gate at `a49cac9a52002130a64939bbc9121fceeba5c76a` and Otto13'
 
 V15 and separate nonspine narrative remain unopened. V14 becomes committed authority only with the full synchronized publication gate; then the earned EMILIA_V01_V14_MODEL_AND_FIDELITY_REVIEW must complete its own full gate before V15. Its reserved derived artifacts do not consume/admit source15 or silently change Subaru10/Otto13 scope. Admission range, manifest/V41exception, datedV44/V45gaps and activeterminalV43 remain unchanged. Advertised shortstories/artbook/WN/anime are not opened.
 
+## Post-V14 Emilia reconstruction use — no new source admission
+
+After V14's full gate at cfd5627ddc4cf26fe5bd05bb1fac3b7eeb23f960, the V01–V14 Emilia model and separate scoped review were implemented. Twenty-seven bounded direct Japanese deliveries reconciled already consumed V01/V03/V04/V09/V12/V13/V14 windows against exact manifest identities; this is not another complete fourteen-volume reread. The review is actual same-analyst nonblind nineteen-dimension documentary PASS_WITH_BOUND with two resolved traceability repairs, not independent runtime, a global grade or a new narrative source.
+
+Default is living E018 FIRST PASS/SECOND START before contents; positive private warmth, still-hidden grief, ordinary mayonnaise liking, particular requested support and incomplete Ram-petition understanding remain bounded. All20 historical artifacts/five owner bytes/256 current narrative claims and the exact V15 seal remain unchanged. Only this separate operation's own complete publication gate permits V15. Source high-water stays V14, admission V01–V43/V41exception/datedV44–45gaps and active V43 authorization stay unchanged; no separate witness is opened.
+
 ## Current source-state summary
 
 - **Acquired/admitted Japanese main LN:** V01-V43 continuous.
@@ -486,7 +492,7 @@ V15 and separate nonspine narrative remain unopened. V14 becomes committed autho
 - **Admitted IF/alternate route:** none.
 - **Admitted web novel:** none.
 - **Admitted anime/audiovisual:** none.
-- **Consumed into prospective main-LN analysis:** V01–V14 actual source reading; V14 high-water advances only through this synchronized transaction's complete publication gate. Historical V13/Otto13 gates closed before V14.
+- **Consumed into prospective main-LN analysis:** V01–V14; V14 full gate verified at cfd5627ddc4cf26fe5bd05bb1fac3b7eeb23f960. Emilia's later model operation adds no narrative unit and does not extend historical Subaru10/Otto13 scopes.
 - **Next source acquisition priority:** Japanese V44 and V45 before the sequential read reaches that boundary.
-- **Next analytical operation:** `EMILIA_V01_V14_MODEL_AND_FIDELITY_REVIEW` after V14's full gate, own full gate before V15. The exact sixty-question/ten-forecast V15 prospect remains sealed; V15 is unopened.
-- **Current execution state:** active continuous terminal V43 unchanged. Historical Subaru10/default E013 and Otto13/default V13livingE018 model/review pairs remain unchanged/local nonblind PASS_WITH_BOUND, not automatic V14/global grades. E018alive/17deaths18segments; Emilia FIRST PASS/SECOND START, partial rescue and begun fights only. No death18/E019, gate repair, full camp RBD/tea, restored Rem, accepted Beatrice exit, whole rescue/evacuation, barrier/wager/Arc4 or series ending/adaptation finding is implied.
+- **Next analytical operation:** `V15` only after the Emilia V01–V14 model/review operation's own complete publication gate. Its actual local documentary result is PASS_WITH_BOUND, not publication closure. The exact sixty-question/ten-forecast V15 prospect remains sealed; V15 is unopened.
+- **Current execution state:** active continuous terminal V43 unchanged. Historical Subaru10/default E013 and Otto13/default V13livingE018 pairs remain unchanged. Emilia14/default FIRST PASS–SECOND START now has its own implemented model/separate local nonblind documentary PASS_WITH_BOUND, subject to its own gate, not an inherited/global grade. E018alive/17deaths18segments; Emilia FIRST PASS/SECOND START, partial rescue and begun fights only. No death18/E019, gate repair, full camp RBD/tea, restored Rem, accepted Beatrice exit, whole rescue/evacuation, barrier/wager/Arc4 or series ending/adaptation finding is implied.

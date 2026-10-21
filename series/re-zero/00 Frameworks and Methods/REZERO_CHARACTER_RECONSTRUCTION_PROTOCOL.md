@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: character_reconstruction_protocol
 scope: SOURCE_GROUNDED_CONDITIONAL_CHARACTER_RECONSTRUCTION
-generation: V1.14
+generation: V1.15
 status: canonical
 release_state: mutable_active
 current_analytical_horizon: V14
@@ -25,7 +25,7 @@ The latest reached endpoint is E018 alive at Subaru's uninvited Beatrice-library
 
 V13 §15/master §13 earned Otto MONOGRAPH_READY for bounded V01–V13 construction from cross-state development, language accommodation, family/merchant/Fulfhu relations, mixed motives, costs and recipient-conditioned voice. After V13's complete gate, the integrated `05 Character Analysis/REZERO_OTTO_SUWEN_V01_V13_CHARACTER_MODEL.md` and separate `08 Audits and Manifests/REZERO_OTTO_SUWEN_V01_V13_FIDELITY_REVIEW.md` now exist. The same-analyst, scoped nonblind nineteen-dimension document review is PASS_WITH_BOUND, not an independent benchmark or global grade. Its default is living E018 outside the tomb while Emilia begins her renewed first trial; the historical Subaru model/audit retains its different V01–V10 scope/default E013.
 
-V14 is now the source-facing transaction; full V13 and the separate Otto operation gates closed before it opened. V14 earns Emilia's separate V01–V14 construction/review after its own complete gate. V15's sixty-question/ten-forecast prospect is sealed and must remain exact through that operation, whose own full gate precedes V15. Older216 V13 claim formulations/156 predecessor dispositions and V14 entering horizon remain historical, not rewritten. No sixth owner, final specialist or Arc4-end freeze is promoted; active continuous V43 authorization is unchanged.
+V14's source-facing transaction completed its full gate at cfd5627ddc4cf26fe5bd05bb1fac3b7eeb23f960. The subsequently earned Emilia V01–V14 model and separate scoped fidelity review are now implemented, with local same-analyst nonblind document-level PASS_WITH_BOUND, not independent runtime/blind benchmark/global grade or cure. Her exact default is living E018 FIRST PASS/SECOND START before contents. This separate operation must preserve all20 historical artifacts/five owners/256 claim formulations and the sealed V15 sixty-question/ten-forecast prospect, and close its own full publication gate before V15. No sixth owner, final specialist or Arc4-end freeze is promoted; active continuous V43 authorization is unchanged.
 
 The protocol standardizes **responsibilities, not file count or headings**. A compact monograph may satisfy it when evidence is narrow. A richer packet may divide the responsibilities among current-state, relationship, ordinary-life, voice, evidence, and fidelity artifacts only after each independent retrieval burden is demonstrated.
 
@@ -359,6 +359,8 @@ V14 review: the five owners/master retain their contracts, updating E018/K449/M2
 Emilia crosses MONOGRAPH_READY for V01–V14 construction because ordinary child care/voice/promise/deception/comfort now joins established public/relational/failure breadth and current chosen recovery. Independent postcontract preferences, powers, mother/terms and unread results remain operational abstentions, not reasons to wait for perfection or final publication. After V14's complete gate execute EMILIA_V01_V14_MODEL_AND_FIDELITY_REVIEW, implementing living E018 FIRST-PASS/SECOND-threshold default and earlier recipient/state phases, exact older Japanese reconciliation, ordinary/voice/failure/refusal/leakage controls and a separately applied scoped documentary review including nineteen dimensions. No existing Emilia model, independent runtime/blind benchmark/global grade or healed person is claimed.
 
 Garfiel's V10–V14 conditional outside-defense scope and Ram/Roswaal changed-wish plus represented Beatrice/Meyer farewell cases are narrower than whole-person monographs; existing source/owners exercise them without empty checkpoint files. The separate Emilia operation must keep the exact V15 seal unchanged and complete its own full publication gate before V15 source. Both prior model operation gates are already closed; do not redo them or silently alter their source bounds. Active V43 continuation remains unchanged.
+
+Post-V14 Emilia operation: V14's full gate closed at cfd5627ddc4cf26fe5bd05bb1fac3b7eeb23f960 before construction. The integrated `05 Character Analysis/REZERO_EMILIA_V01_V14_CHARACTER_MODEL.md` and separate `08 Audits and Manifests/REZERO_EMILIA_V01_V14_FIDELITY_REVIEW.md` now exist. The actually applied same-analyst nonblind nineteen-dimension documentary result is PASS_WITH_BOUND, with36 bundles/28 rules/19 negative controls/12 noncanonical probes and two resolved traceability repairs. Default is living E018 FIRST PASS/SECOND START before contents; last-waking dialogue needs an explicit override. This derived model neither adds a narrative unit nor inherits another person's grade. All20 historical artifacts, five owners,256 current V14 claim formulations and exact V15 prospect remain fixed. Only this operation's own complete publication gate permits V15; active continuous V43 is unchanged.
 
 ## 19. First mature-character fidelity audit
 
