@@ -1594,3 +1594,219 @@ Vanir receives scopedTier3 treatment through a distinct monograph/model/index. D
 
 ## WZ-C01 — Wiz's own state and chosen work
 Wiz receives a scoped Tier3 monograph/model/index with provisional reliability. Human Archwizard and later lich owner are one subject in different phases. Caring, company, technical work, pride and a conditional civilian boundary coexist; lichhood is not a proved cause of every change. Casting mana and maintenance vitality remain separate. [Evidence routes](../08%20Evidence%20and%20Indexes/KONOSUBA_WIZ_EVIDENCE_INDEX.md) distinguish shared MASK reception, bounded MAIN04 and derivative early-main cases.
+
+
+## CE-C01 — one actor with bounded roles
+Chris/Eris receives a scoped Tier3 monograph/model/index with provisional predictive reliability. Identity continuity is explicit in CONTEXP01 U021P329; ordinary thief and divine office carry different bodies, resources, public roles and knowledge. MAIN17 EpP23 admits limited recent observation, P47–60 corrects the death premise, and P59 gives a self-set office refusal. Chosen work, company, charity/spending, error and professional face remain her own states. [Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_CHRIS_ERIS_EVIDENCE_INDEX.md).
+
+
+## DUST-COHORT06-C01 — one present person with a usable past
+
+Dust receives a scoped source-informed Tier3 monograph/model/index. DUST05 U012P591's knight appraisal and P599/P602's current self-name precede restored-Dust protection of Leen; DUST07 U011P419–440 deliberately discloses the past. The old name ライン・シェイカー is not the attendant レイン. Chosen ordinary life, old attachment, skill and present misconduct all remain. No two-person/clinical account, perfect reform or global census completion follows. [Evidence](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_EVIDENCE_INDEX.md).
+
+
+## Komekko cohort07 source-informed consolidation — 2026-10-20T03:13:02.170207+00:00
+
+Source-known admitted EXP01/02 and MAIN05/11/14; eighteen actual image-prose pages and1,602bounded BASE member slots, not new whole-source/ruby/independent credit. The [Komekko index](../08%20Evidence%20and%20Indexes/KONOSUBA_KOMEKKO_EVIDENCE_INDEX.md) owns exact ranges/event joins; older entries remain historical at their original scopes.
+
+| Record | Acting subject and exact route | Current uptake | Limits |
+|---|---|---|---|
+| K07-CS01 | Komekko own changing state and goals; EXP01 IMG026-043/U018P407/435-439/U043P239-278;EXP02U023P565-620;MAIN11C3P221-241 | Interest, boredom, hunger/fullness/sleep, selective giving, concrete attachment and resistance coexist. Six KM-K informed rules support a scoped provisionalTier3 model; her EXP01 agefive does not fix later age. | Earlier limited-profile assessments stay exact; no appetite-only law, universal charity, diagnosis or mature predictive reliability. |
+
+
+## Hoost cohort08 source-informed consolidation — 2026-10-20T04:07:47.235077+00:00
+
+Source-known admitted EXP01/03: prior eighteen actually read integral image-prose pages reused,1,172unique EXP03 BASE slots/five members newly received, thirteen selected ledger rows/seven files. No fresh EXP01 pixel pass, whole-source/ruby/image/independent credit. [Hoost index](../08%20Evidence%20and%20Indexes/KONOSUBA_HOOST_EVIDENCE_INDEX.md) owns event joins and exact return scopes; previous entries remain historical.
+
+| Record | Acting subject and exact route | Current uptake | Limits |
+|---|---|---|---|
+| H08-CS01 | Hoost/ホースト; EXP01 IMG026-043;EXP03U020P476-516/U026P533-598/U034P287-498 | Loyal mission pursuit, rank, actual provision/particular friendship, coercion, fallible search and vulnerability produce six defeasible rules and a scoped provisionalTier3 model. Earlier role/profile judgments retain their original boundaries. | Not a mature universal simulator or an appearance-frequency promotion. Known-source internal checks do not raise reliability; other actors retain independent agency. |
+
+
+## Cohort09 — Levi and individually bounded trial-party evidence — 2026-10-20T06:09:56.297297+00:00
+
+Levi/レヴィ (historical Revi) now has a distinct monograph, five-rule provisional reconstruction and evidence index. His local ability to stop additional political exposure, update an appraisal and choose aid coexists with relationship entitlement and later coercion despite acknowledged debt. MAIN10C3P519–699/C4P25–98/139–200/247–284/C5P1–35/164–239/376–477/715–758 and DUST04U014P6–441 are source-known BASE rechecks;1,048slots here are not new globally unique coverage. The aid choice precedes Ragcraft exposure. DUST04's fabricated private allegations do not describe his actual acts; his actual known threat, custody and information demand remain. See the [Levi index](../08%20Evidence%20and%20Indexes/KONOSUBA_LEVI_EVIDENCE_INDEX.md).
+
+### Six scoped Tier1 profiles — EXP03 U013
+
+These compact individual profiles own a narrow analytical responsibility, rather than six empty monographs. The native member is `item/xhtml/p-004.xhtml`; current actual BASE windows are P140–280/342–505 (305slots), within an already accepted source. Two earlier group rows are retained historical routes, not two extra people. Exact source speech and unnamed group turns are not assigned by proximity alone.
+
+- **ライズ, warrior (historical Rize retrieval):** introduces his sister ライナ and himself148, selects work169, shields against rats186–195 and explains the need for usable meat income219. His offer to bear the crop loss258 is separate from Megumin's actual payment265. He helps her return260 and joins a face-preserving separation249–259. Real work, practical economics and tact are supported; a global prejudice, payment already made by him or an all-context care mechanism is not.
+- **Raina/ライナ, thief:** values seasonal food170, warns her brother184/190 and actually kills with thrown knives191–195. She identifies crop liability220, bends to check the fallen mage for injury221–225 and joins separation after learning the one-spell limit. Concern and task fit coexist. No inner envy, universal kindness or performed compensation is inferred.
+- **Ain/アイン, leader:** recruits362–371, fights beside Rod375–391, warns about the flying creatures' marking404–405, and proposes changing to plains after learning the spell geometry417–418. He can update a task plan before a spectacular success. The genuine future leveling offer486 stays at party level here because no secure named speaker is supplied; not every anonymous group line is his.
+- **Rod/ロッド, spear user:** actually fights381–391, asks which situation permits the magic413–415, later apologizes for doubting and gives juice477–479/498. Megumin's account of his earlier growing mistrust416 is focalized interpretation; his apology/gift is direct. Reconsideration does not prove unlimited willingness to support a mismatched daily role.
+- **Tomas/トマス (historical Thomas retrieval), priest:** heals the wounded frontliners388, restrains angry Megumin during the airborne fight409 and recognizes unusual spell scale447–458. His warning about distance is meaningful without preventing collateral knockdown466. No unshown shield or infallible expertise is supplied. The current native form is トマス, not a silently imported トーマス.
+- **Jack/ジャック, archer:** answers the need for reach394–400 and actually downs flying attackers while other methods cannot safely reach. He prepares to withdraw and proposes reporting the giant slime444–445. Proposed reporting is not completed reporting. No automatic identity with another archer or attribution of all group statements follows.
+
+### Replay PC discovery remains proportionate and open
+
+Five separate candidate rows now identify Gilbert, Core-report Suzuki Chiho/Advanced Chio, Otohime, Temiren and Advanced's21. The Core and Advanced reports explicitly continue the first four and separately introduce21. Their actual varied work, fear/care, doctrine, borrowing, performance, coercion and mediation can earn substantial dedicated treatment; their current grouping supplies no Tier1 ceiling. Players, GM, PC, editor/narrator, optional personas and novel counterparts stay distinct. No new current primary-page pass or final Tier2/3 promotion is claimed by this split. Whole-source reports and the already received ledger histories retain their own scopes.
+
+Known admitted-source retrospective consolidation; no new source admission, whole-source/ruby/image/independent-test credit. Exact earlier ledger bytes remain the prefix. Frozen forecasts, failures, scores and blank/null fields remain unchanged.
+
+
+## Cohort10 — Nos and bounded source-plane profiles — 2026-10-20T06:58:02.053067+00:00
+
+Nos/ノス earns a concentrated Tier2 monograph and evidence index, with no automatically imposed reconstruction model. The current high-confidence MAIN17/DUST07 join uses name, knightly self-script, armor loss, police-front destination and castle/glib-man complaint together. Own coalition trust/distress, an actual pause after correction, accurate trap inference, retained combat skill, harmful public conduct and imperfect self-command give substantial individual depth. Ordinary life, long-term change and stable unfamiliar-context mechanisms remain thin. The MAIN17 episode record is an alias return, not another counted individual. See the [Nos index](../08%20Evidence%20and%20Indexes/KONOSUBA_NOS_EVIDENCE_INDEX.md).
+
+### Cohort10 bounded profiles and an incidental index
+
+**Pierre/ピエール — scoped Tier1, MAIN16U023P14–50.** He advertises a paid performance and claims leading capital status; the latter is self-presentation, not an independently verified ranking. He gathers an audience, distributes finite sweets when expectations exceed his opener, announces a disappearance and initially reads fear as approval. He proceeds despite objections, then recognizes disorder, asks why, retracts the no-trick formula and explains the helper's Teleport. He is actually led away. The sequence supports occupational goals, performed skill, a specific audience-model error and attempted correction under real institutional cost. It supplies no destination, helper return, conviction, release or stable all-context psychology. The source does not demonstrate that he is MAIN03's unnamed performer; separate episode identities do not prove they are different people.
+
+**Unnamed MAIN03 performer — scoped Tier1 with reported evidence, MAIN03U017P566/630–633.** Megumin reports having seen Aqua outperform him for free and make him cry. Aqua reports a gift of props and his intention to return to the family farm; Kazuma actually sees her holding the rings and infers the damaging livelihood consequence. This gives a narrow account of a reported response to lost comparative advantage, an attributed material gift and a prospective livelihood decision. It does not give Kazuma a witnessed performer dialogue or prove completed departure, farm succession or permanent ruin. The [external MAIN03 qualification](../09%20Audits%20and%20Manifests/KONOSUBA_MAIN03_PERFORMER_OUTCOME_AND_SOURCE_PLANE_QUALIFICATION_01.json) controls the preserved report's stronger shorthand. Reported distress and a serious externality concern remain; no model or invented deeper biography follows.
+
+**Unnamed mother requesting Aqua's water — scoped Tier1, MAIN16U023P1–11.** She approaches a known associate, requests a particular resource, explains its reported benefit for her child and leaves disappointed when told the seller is absent. Her own practical care goal, means of access and response to a constraint are observable in the exchange. The routine sale and child benefit are her account; neither a new Aqua sale nor an independently verified clinical mechanism is performed. No name, fuller family history, medical expertise or real-world treatment advice is supplied.
+
+**Unnamed Pierre assistant — Tier0 scene index, MAIN16U023P28/38–39/49.** Her position in the act and disappearance are narrated; Teleport ability is Pierre's explanation. Her own speech, motives, destination, return and independently witnessed spell remain unavailable. Preserve a distinct source-bound actor without inventing another profile, a completed harm or an alias for a named mage.
+
+Retrospective known-source consolidation; exact previous ledger bytes remain the prefix. No new whole-source/ruby/image/admission/independent-test credit or changed historical forecast, score or blank/null field.
+
+
+## Cohort11 — Claire and Rain as separate conditional actors — 2026-10-20T08:11:12.082088+00:00
+
+Claire and Rain earn separate scoped Tier3 model candidates through individual monographs, five-rule mechanisms and evidence indexes, with publication pending. Claire combines actual office/skill, conditional rank restraint, affection with refusals, proxy errors and imposed control. Rain combines practical repair, finite means, contextual knowledge/protest and warning with compromised participation. Generic guardian/official/subordinate and near-canonical rivals remain; no capability grade or broad reliability follows. See the [Claire monograph](../05%20Specialist%20Synthesis/KONOSUBA_CLAIRE_CHARACTER_MONOGRAPH.md) and [Rain monograph](../05%20Specialist%20Synthesis/KONOSUBA_RAIN_CHARACTER_MONOGRAPH.md).
+
+MAIN06 C1P655–676 binds Rain's cast and Iris's surprise extra passenger; both retainers are surprised. DUST03 U013P772–871 binds Dust controlling Rain's body, with actual Claire responses; the imitation is not Rain's own advocacy or intrusion. MAIN11 C1P586–633 binds warning/participation, Claire administration and transfer; C2P6–31/79–118 binds actual memory gaps. MAIN15 C2P429–446 adds officer/letter reports and Kazuma's recovered-memory claim, not a witnessed new court act or full recovery test. Source time and actor remain explicit.
+
+Known admitted-source consolidation; prior ledger bytes remain the exact prefix. No new whole-source/ruby/image/admission/independent trial or changed frozen forecast, score, first body or blank/null field.
+
+
+## Luna cohort12 — own work, relief, pressure and boundaries — 2026-10-20T08:58:31.797980+00:00
+
+Lunaルナ has own agency rather than only the role of assigning Kazuma work. MASK U017P9-16/P81-102/P163-178 supplies concrete rule protection, information use, institutional explanation and harassment warning; P316-330 gives her own finite-means/workload/rest/domestic/company account. Gratitude for real replacement work atP450-451 coexists with hopeful misappraisal and later explicit protestP511-519. Long-term conversion is not inferred from different later narrators.
+
+MAIN11 U014P431-444/U015P60-131 makes a child-audience lever, adult objections, pressure and the actual arm restraint visible. DUST07U011P920-922 is a real contrary case: she leaves when Dust asks for distance without understanding why. U013P118-126 spends a specific guild-vault commitment on immediate defense; later received-money statement is Dust report. YORI04U014P492-557 retains retirement and two distinct assents. Four-rule scoped model/monograph/index are semantically received; exact publication gate pending. Eleven prior model subjects and seventeen entering models stay exact.
+
+
+## Cecily and Zesta cohort13 — scoped receiving; containing publication pending
+
+Cecily independently wants company, play, food and a place in valued lives. Her EXP02 own image interludes distinguish private candor, calculated public victim framing and mistaken appraisal; MAIN08/CONTEXP01/02 and MAIN16 add actual work, real blessing, correct holy-water perception and ignored refusals. Zesta particular Aqua concern coexists with play, selective resentment and coercion. DUST04U013124/140 separates private improvisation from public detection boast;185 changes his attention, not available escape. Reporting priest142 supplies his own commercial/refund ideas; Tristan supplies her own campaign. Nineteen new source-bound records preserve incidental agency and unresolved joins, not a final187-person population. Two scoped Tier3 models and two Tier1 profiles received; gate pending.
+
+
+## Cohort14 clergy and merchant bounded returns — 2026-10-20T11:12:02.861945+00:00
+
+The returning unnamed Axis guide is explicitly linked by Kazuma's MAIN16U016P87 memory to MAIN04U019P278–310. She provides directions and guards a post she says she would rather have left; actual rubbish sweep and later stone kick/hit remain harmful acts. Current divinity recognition cannot be moved backward. The two Eris priests remain distinct source-bound people: Arcanretia priest explicitly first meets MeguminP476. Merchant chair changes from refusal to agreement and later practical objections/hosting/reported reward delivery without acquiring an inferred private friendship. See the four profiles and event index; no new model or global tier closure. See [event index](../08%20Evidence%20and%20Indexes/KONOSUBA_CLERGY_AND_MERCHANT_EVIDENCE_INDEX.md).
+
+
+## Cohort15 Leen, Keith and Taylor — 2026-10-20T13:11:28.160162+00:00
+
+Leen/リーン has her own DUST06 and continuation viewpoint, a preference for present flawed Dust, practical learning and selective care/coercion. Keith/キース has useful perception and chosen help alongside glory competition, secret-plan initiative and poor boundary uptake. Taylor/テイラー has concrete duty, report procedure and recipient perspective alongside idealized motive readings, coercive conformity and deliberate nonhelp. Their distinct monographs/models do not turn roles into complete biography or every trait into a general law. MAIN02C1P443–746, DUST05U012P570–712, DUST06U012P427–597, DUST07U011–14 and CONTU012/U014 retain actual source windows; shared episodes are not three independent votes.
+
+[Leen event index](../08%20Evidence%20and%20Indexes/KONOSUBA_LEEN_EVIDENCE_INDEX.md), [Keith event index](../08%20Evidence%20and%20Indexes/KONOSUBA_KEITH_EVIDENCE_INDEX.md), [Taylor event index](../08%20Evidence%20and%20Indexes/KONOSUBA_TAYLOR_EVIDENCE_INDEX.md). These are actor-specific retrievals of shared known episodes, not new independent observations or a completed global census.
+
+
+## Cohort16 Lolisa, Rionor and Feit — 2026-10-20T14:52:18.145824+00:00
+
+Lolisa’sロリーサ is an explicitly invented alias,not a true-name disclosure. MASK’s unnamed small succubus remains unjoined and its leader distinct. Rionorリオノール and Leenリーン retain separate memories and choices: the continuation visitor is genuinely Rionor,but the apparent ceremony bride is Leen until U014331-334 reveals her; genuine Rionor acts at536/562-570. Feitフェイトフォー and her child-form voiceふぇいとふぉー join the current white-dragon identity without an exact human age or adult-romance inference. Three individual monographs and one Lolisa model preserve these state/access limits.
+
+Individual retrieval: [Lolisa](../08%20Evidence%20and%20Indexes/KONOSUBA_LOLISA_EVIDENCE_INDEX.md),[Rionor](../08%20Evidence%20and%20Indexes/KONOSUBA_RIONOR_EVIDENCE_INDEX.md),[Feit](../08%20Evidence%20and%20Indexes/KONOSUBA_FEIT_EVIDENCE_INDEX.md). Shared [native provenance](../08%20Evidence%20and%20Indexes/KONOSUBA_LOLISA_ROYAL_DRAGON_NATIVE_PROVENANCE_01.json). Exact containing publication remains pending; full program continues.
+
+
+## Cohort17 Wolbach and Chomusuke — 2026-10-20T16:06:56.617701+00:00
+
+Hans explicitly calls the MAIN04 bath woman Wolbach at C3 continuation item/xhtml/p-010.xhtml P53. Kazuma’s uncertain recollection at MAIN09 C4 P242 and Wolbach’s formal self-naming at C4 P245 have different access. EXP03 carriage identity joins through Wolbach/Yunyun’s specific remembered invitation MAIN09F179-182,not hair/eyes alone: Arnes also has red hair/yellow eyes and remains distinct. Early Megumin release,resealing,later Komekko opening and retellings are separate stages. Chomusuke/Kuro variants join the creature without granting speaking Wolbach’s complete current mind,memories,age or consent.
+
+Individual [Wolbach](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_EVIDENCE_INDEX.md) and [Chomusuke](../08%20Evidence%20and%20Indexes/KONOSUBA_CHOMUSUKE_EVIDENCE_INDEX.md) indices; [shared provenance](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_CHOMUSUKE_NATIVE_PROVENANCE_01.json). Exact containing publication pending; full program active.
+
+
+## Cohort18 Sena and Arnes — 2026-10-20T17:14:33.263380+00:00
+
+Sena explicitly self-names kingdom prosecutor MAIN03C1P18; judge,lord,knights,unnamed deputies,Aloerina and Serenaセレナ remain distinct. Arnes explicitly self-names EXP02U023P15-16 and identifies the creature37,correcting Megumin’s mistaken-master fantasy. Similar red hair/yellow eyes do not join her to Wolbach. Hoost’s later shared-master relation does not transfer his current knowledge,lives or pact to Arnes. Two separate monographs/models/indices preserve each responsibility.
+
+
+## Cohort19 Rex, Sophie and Terry — attributable update
+
+Rex’s initial overreading of a limited upper-magic denial gives way to local recognition of Yunyun,not immediate recognition of Megumin (R01-R06). His later warning retains the all-talk label before observed Explosion changes the practical role offered (R16/R19). Sophie’s and Terry’s named skill,limited healing,renewed exposure,unconsciousness/reassurance and later presence remain separate states (S02-S09/T02-T08). Injury readiness and inability causes are not normalized into full recovery.
+
+Known EXP03/CONTEXP02 BASE returns only:1,556 distinct context slots/six members/two native objects,including blanks,other actors,reports and hypotheses; no fresh whole-source,ruby/image,admission,independent decision,accuracy or confidence credit. Current claims route to `CR-SECONDARY-COHORT19-001` and the shared crew index/provenance; exact containing publication remains pending.
+
+
+## Cohort20 — individual village peers and attributed writer correction
+
+Funifura and Dodonko each earn a separate revisable Tier2 monograph: attributable invitations, defenses, refusal, gift/medicine testimony and later social/tactical exchanges support distinct descriptive histories. No separate generative model is adopted. Nerimaki earns a Tier1 service/imagination/boundary profile; the named occupational writer is Arue, MAIN14 C3 P166–192, not Nerimaki. See [village-peer index](../08%20Evidence%20and%20Indexes/KONOSUBA_VILLAGE_PEERS_EVIDENCE_INDEX.md).
+
+F01–F15/D01–D13 retain pressure and repair, fear and persistence, skill claims and actual work as different states. Three new Tier0 records retain a reported brother, reported father/craftsman and unnamed MAIN14 operator; they are not final unique-person or independent-event increments. Existing state histories remain intact; current containing publication is pending.
+
+
+## C20-CR04 — apparent potion effect and actor attribution
+
+The compressed medicine wording records a farewell report about apparent effect of Megumin-made potion. It does not establish Dodonko making medicine or treating a patient. Her reported concern, defense and social choices retain their own evidence; Funifura and her brother remain separate. P433 attribution to Dodonko is contextual within the pair exchange, not an explicit narrator name-tag. The [medicine-attribution erratum](../08%20Evidence%20and%20Indexes/KONOSUBA_VILLAGE_PEERS_MEDICINE_ATTRIBUTION_ERRATUM_01.md) qualifies the sealed monographs/index without changing bytes or tiers. No new model/test or independent cure verification.
+
+
+## Cohort21 — separate agency, conditional models and attributed revision
+
+Arue earns a separate revisable Tier2 monograph, with classroom performance, actual work, gifts, creative investment, grievance and intrusive conduct kept together. Soketto and Bukkorori each earn separate monographs and conditional model candidates: three information/service rules for her, four display/access/work/appraisal rules for him. A quiet shop presentation or NEET label does not summarize either person. The [individual A/S/B/I index](../08%20Evidence%20and%20Indexes/KONOSUBA_ARUE_SOKETTO_BUKKORORI_EVIDENCE_INDEX.md) owns the locators; no fixed tier ceiling or model symmetry is imposed.
+
+Soketto's blank reading, later own-involvement statement and Megumin's marriage hypothesis are different knowledge states. Bukkorori's useful work and local retreat coexist with intrusive pursuit and wrong causal accounts; no completed reform follows a friendly ending. Yunyun performs current treatment in EXP01 U028 P427; the [bandaging erratum](../08%20Evidence%20and%20Indexes/KONOSUBA_SOKETTO_BANDAGING_ATTRIBUTION_ERRATUM_01.md) qualifies the accepted report without editing it. Arue's apparent composure yields to manuscript loss; an actual prior patch removal conflicts with later absolute recollection. The next bounded profile belongs to the father, not the son.
+
+## Cohort21 Bukkorori's father bounded profile
+
+### Identity, role and source access
+
+The unnamed village shoe-shop owner is explicitly Bukkorori's father in EXP01 U028 P39–43. EXP02 U023 P638–650 returns to the same neighborhood shop: Megumin asks for Bukkorori, and the owner calls him his son. This joins the role through source evidence; it does not identify a personal name or join him to Funifura's reported staff craftsman, Hyoizaburoo or another unnamed operator. [Index I01](../08%20Evidence%20and%20Indexes/KONOSUBA_ARUE_SOKETTO_BUKKORORI_EVIDENCE_INDEX.md) owns the bounded locators.
+
+He has a compact revisable Tier1 profile in this existing ledger. Two encounters support his own work/welcome, care promise and reactive appraisal. They do not justify a separate substantial monograph or a generative parenting model. Being the village's foremost shoe shop is qualified by there being only one; no comparative craft quality or observed shoe-making feat follows.
+
+### What he actually does and promises
+
+In EXP01 he welcomes Megumin and says his son is still asleep. Megumin supplies a misleading sexualized version of Bukkorori's request, and he immediately runs upstairs. Yunyun objects after he has gone up. Shouting and cries are heard; Bukkorori reports being rudely awakened and called a lolicon. The text does not provide a directly watched blow sequence, proof that the father heard Yunyun's correction and deliberately ignored it, or evidence that Megumin's implied allegation was true.
+
+In EXP02 he again says the son is sleeping. Asked to help if Komekko is in trouble, he explicitly accepts and says the girls' parents already asked him to watch both daughters. The current promise is directly spoken; the earlier parental request is his report, and sustained future care is unperformed here. This is the father's commitment, not sleeping Bukkorori's own promise.
+
+Megumin then says the son teaches Komekko bad words and refuses to repeat them in a way that encourages a more sexual inference. The father reacts angrily and runs upstairs calling Bukkorori's name. The source does not show the subsequent upstairs outcome. Komekko's earlier attribution of particular slang is a report, not a watched lesson or validation of every implication in Megumin's complaint.
+
+### Interpretation, voice and limits
+
+The owner supplies ordinary neighborhood work and offered help with a familiar, colloquial welcome. His use of the son relation and quick anger show practical authority and an appraisal vulnerable to a misleading complaint. Genuine willingness to help and hasty reaction can coexist. No complete household economy, full parenting history, stable violent disposition, clinical diagnosis or hidden motive is inferred.
+
+The helpful commitment does not erase the son's experience of the first complaint, while comic retaliation does not verify the complaint's substance. These are different people's actions and knowledge states. Future evidence may change this bounded profile; no appearance quota, fixed ceiling, independent accuracy or confidence gain is assigned. The two additional transfer-operator/grandfather records remain narrower Tier0 occurrences, not extra members of a common family or a final person denominator.
+
+
+## Cohort22 — Mitsurugi and separately bounded companions
+
+Mitsurugi now has a [separate monograph](../05%20Specialist%20Synthesis/KONOSUBA_MITSURUGI_CHARACTER_MONOGRAPH.md) and [four-rule provisional model](../06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_MITSURUGI_RECONSTRUCTION_MODEL.md). The [M/S/T/I index](../08%20Evidence%20and%20Indexes/KONOSUBA_MITSURUGI_COMPANIONS_EVIDENCE_INDEX.md) distinguishes direct aid, recognition, pressure, actual force, specific learning and contrary local corrections. This is semantic receiving for a containing-publication candidate, not a claim that its gates have closed. The prior thirty models and earlier sealed cores remain exact.
+
+The current interpretation preserves a capable protector with favored-person priorities and wanted recognition. MAIN01's initially understandable rescue inference is followed by grip/wager pressure after more information. MAIN16's onward pressure follows an audible return request and Yunyun's intervention; Aqua's P126 fear is private narration. MAIN17's actual apology/release and acceptance of return are bounded contrary cases. Neither generalized villainy nor universal reform fits. Actual earlier healing and later final need remain distinct. The names フィオ/クレメア are a shared pair, explicitly role-unmapped in MAIN17C3P57; the two profiles below do not add duplicate people.
+
+<a id="cohort22-mitsurugi-spear-companion-bounded-profile"></a>
+## Mitsurugi's spear-user companion — bounded Tier 1 profile, cohort 22
+
+This is a distinct person indexed by role, not half of a collective girlfriend model. MAIN17 C3 P54 names the pair フィオ/クレメア, and P57 explicitly leaves the mapping unknown to Kazuma. The working renderings Fio/Clemea do not establish official Latin spellings or assign this profile one name. The existing census row127 is retained without adding duplicate people. See the [individual S-series evidence rows](../08%20Evidence%20and%20Indexes/KONOSUBA_MITSURUGI_COMPANIONS_EVIDENCE_INDEX.md) and [Mitsurugi monograph](../05%20Specialist%20Synthesis/KONOSUBA_MITSURUGI_CHARACTER_MONOGRAPH.md); his motives are not hers.
+
+**Identity and evidence.** MAIN16 Final identifies a spear-user and thief in the traveling party; untagged lines around P76–79/137 do not assign every compliment, blush or thought to this role. MAIN17 C2 P503–504 explicitly marks the spear-user as she squats from fatigue, asks what comes next and says she will follow Kyouya. The memorial catalog, S045 printed43 entry107, describes a spear-bearing warrior who opposes other women joining. That editorial summary is not a transcript of every earlier refusal, a Latin-name key or proof that she acts the same way toward every potential recruit. MAIN01's warrior/thief pair, the Dust pair and the MAIN06 noble's archer/spear account retain their own continuity and role limits.
+
+**Own decision and relationship.** Her late declaration combines tiredness with a conditional commitment to follow his next move. It is not identical to the thief's separate death-together statement. Both women are visibly relieved when return is accepted at C2P560; relief is contrary evidence against treating loyalty as a wish for limitless campaigning. C3P54–57 gives his thanks and their moved reactions, with names still unassigned. Affection and membership do not create standing permission for every later risk, and Mitsurugi's desire for Aqua does not establish the companion's agreement with that romance.
+
+**Capabilities and constraints.** She carries a spear and participates in a party whose concealment and maneuvers are described, but the current passages do not isolate a full individual skill list, numerical level, solo kill or exact distribution of Stealth. The pair protect Mitsurugi at MAIN17 C3P439. He is actually healed at523 and later needs urgent treatment again; final urgent pleas and transport remain pair-level where the speaker is not tagged. No unshown complete recovery or solitary rescue is assigned to her.
+
+**Earlier shared context.** The two earlier companions protest Kazuma's sexualized theft threats and give their own grievance in court; Dust touches, threatens and corners the pair before Mitsurugi intervenes. These are harms and requests, not evidence that his companions are merely spiteful obstacles. Particular untagged replies and body references remain unassigned between the roles. Dust's later accusation of a night visit and report of adjacent noisy rooms do not establish Mitsurugi's consent or this woman's distinct habitual taste. The planned hostile dream is not delivered.
+
+**Voice, ordinary life and interpretation.** Her explicitly role-tagged MAIN17 line is informal and personally addresses Kyouya; it supports neither a complete idiolect nor an automatic Japanese-dependence class. Seating competition, praise, head pats, lodging and alarm occur in shared or editorial material, so they are useful relational context without a fixed personal preference inventory. A favored-person loyalty account fits, but ordinary fatigue, party solidarity, romantic attachment and group pressure remain alternatives. Reader narration and Kazuma/Dust/Aqua appraisals are not her private testimony.
+
+The supported compact interpretation is attachment with expressed fatigue, conditional following and an individual response to the next decision. Broader private goals, livelihood, exact age, long-term relationship terms, name mapping, early voice joins and portable behavior outside this party remain open. No original prospective prediction, independent validation, dedicated monograph or reconstruction model is claimed. Tier1 reflects present individual attribution and contextual diversity, not a permanent ceiling.
+
+<a id="cohort22-mitsurugi-thief-companion-bounded-profile"></a>
+## Mitsurugi's thief companion — bounded Tier 1 profile, cohort 22
+
+This profile preserves the thief as a separate agent from the spear-user and Mitsurugi. It does not assign her either フィオ or クレメア: MAIN17 C3P54 names the pair and P57 explicitly leaves the role mapping unresolved. Fio/Clemea are working English renderings only. Existing census row128 is retained; a newly recovered nameset does not add new people. The [T-series evidence rows](../08%20Evidence%20and%20Indexes/KONOSUBA_MITSURUGI_COMPANIONS_EVIDENCE_INDEX.md) separate her own tagged commitment from shared dialogue and editorial descriptions.
+
+**Identity and access.** MAIN16 Final's role labels establish a thief traveling with Mitsurugi and the spear-user. MAIN17 C2P505–506 explicitly identifies the thief and gives her own reason for coming: to accompany him, extending the declaration to dying together. This is an actual utterance of commitment in that moment. It is neither proof of every future informed choice nor a statement made by the spear-user. Earlier dagger/leather imagery, Kazuma's unnamed thief informant in MAIN01P749 and other same-class people are not automatic identity joins.
+
+**Attachment, limits and choices.** The memorial catalog S045 printed43 entry108 describes Mitsurugi's leather-armored, dagger-carrying thief praising his accomplishments and receiving head pats. That is editorial relationship evidence, not the precise assignment of every MAIN16 compliment or blushing reaction. The pair's relief at MAIN17 C2P560 qualifies an unlimited-sacrifice reading. C3P54–57 supplies thanks, leveling difficulty and a return-alive plan, but does not settle which named woman is this thief. Admiration, romantic feeling, practical solidarity and fear of separation can coexist; the current source does not rank those private motives or establish mutual exclusivity with every other relationship.
+
+**Competence, risk and care.** A thief role and dagger do not certify a complete skill tree or independent performance. MAIN17's group concealment account and escape do not isolate which woman performed each action. Both are visibly defensive around injured Mitsurugi at C3P439. Aqua's earlier healing at523 is actual; his later collapse and the pair's urgent treatment pleas concern a later state. Final P745–746 speakers remain unassigned, and P749–751 shows transport rather than a full observed cure. This woman is not reduced to a passive admirer, but no solitary rescue, confirmed death or final recovery is invented.
+
+**Earlier ensemble encounters.** The earlier pair have direct grievances about Kazuma's threats and Dust's touching and intimidation. Their request for help does not become blanket consent to Mitsurugi's control. Untagged insults, corrections, seating competition and alarm cannot be apportioned by alternating line order. Dust's description of a night visit is his interpretation; it does not give Mitsurugi's assent, prove this woman's own plan, or turn deep sleep into a delivered hostile dream. MAIN06 Mitsurugi calls his partners important comrades and reports separate leveling because he takes most kills; that is his account, not her own full endorsement of the arrangement.
+
+**Voice and ordinary life.** The role-tagged late declaration addresses Kyouya directly and frames her participation personally. It is more informative than a generic party mention but too narrow for a stable idiolect, universal self-sacrifice rule or Japanese performance grade. Shared praise, lodging and interpersonal competition leave most daily preferences, income and nonparty aspirations unknown. The source's humorous harem framing does not erase either the women's agency or the harms done to them.
+
+The compact current interpretation preserves an explicit favored-person commitment together with later relief and active concern. A substantial individual psychology outside that relationship is underidentified. Exact name mapping, earlier line attribution, competence distribution, private goals, ordinary tastes, relationship terms and conduct under a fresh independent refusal remain open. No prospective forecast history, independent test, dedicated monograph or reconstruction model is manufactured. Tier1 is revisable if individually attributable evidence becomes sufficiently varied.
+
+
+## Cohort23: Yuiyui, Hyoizaburoo and Pucchin as distinct subjects
+
+[cohort23 individual index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_PARENTS_TEACHER_EVIDENCE_INDEX.md) preserves YY01-YY14, HY01-HY10, PC01-PC15 and IN01-IN10. Yuiyui's twelve-dimension monograph and three-rule provisional model distinguish household-future pressure, resource-sensitive alliance appraisal and goal persistence with changing means. Local apology, earlier concern, work/material needs, actual failed spells and her own drinking exhaustion are contrary limits. Explicit recipient objections and later particular willingness remain separate; no completed intimate event or repaired consent is inferred.
+
+Hyoizaburoo earns a separate twelve-dimension Tier2 monograph, with no model or synthetic cases. Direct gratitude, intimidation, food/wealth shifts, pride and his Komekko boundary coexist with largely reported craft costs and outside valuation. Choice of design, control, private budget and motive are underidentified; no matched-parent quota supplies a generator. Pucchin earns a twelve-dimension monograph and three-rule provisional model: theatrical evaluation, effective intervention with admitted dramatic delay, and concrete support after practical need is explained. Actual academic merit, practical knowledge, local correction and finite precautions prevent an all-fool account; effectiveness does not certify the delay as safe.
+
+The separate [Yuiyui](../05%20Specialist%20Synthesis/KONOSUBA_YUIYUI_CHARACTER_MONOGRAPH.md), [Hyoizaburoo](../05%20Specialist%20Synthesis/KONOSUBA_HYOIZABUROO_CHARACTER_MONOGRAPH.md) and [Pucchin](../05%20Specialist%20Synthesis/KONOSUBA_PUCCHIN_CHARACTER_MONOGRAPH.md) monographs own their actor-specific scope. Three current census rows39/40/44 change; fourteen new source-bound candidate/role/roster/letter records are not fourteen proved unique people or newly earned profiles. All other190 entering rows retain their histories. Tier assignments are scoped and revisable, not global completion or capability grades.

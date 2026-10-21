@@ -162,7 +162,12 @@ class SnapshotIOTests(unittest.TestCase):
         self.git("remote", "add", "origin", str(source))
         self.git("config", "remote.origin.promisor", "true")
         self.git("config", "remote.origin.partialclonefilter", "blob:none")
-        (self.root / ".git" / "objects" / blob[:2] / blob[2:]).unlink()
+        missing_object = self.root / ".git" / "objects" / blob[:2] / blob[2:]
+        # Git marks loose objects read-only on Windows. Make this disposable
+        # fixture deletable before exercising the same missing-history check.
+        missing_object.chmod(0o600)
+        missing_object.unlink()
+        self.assertFalse(missing_object.exists())
         with self.assertRaises(core.DomainError):
             core.GitSnapshot.from_commit(self.root, commit, paths=["file"])
         self.assertEqual(self.git("-C", str(source), "cat-file", "-p", blob), b"original")

@@ -1,0 +1,47 @@
+{
+  "schema": "KONOSUBA_TAYLOR_ACTUAL_FIRST_OUTPUTS_V1",
+  "recorded_utc": "2026-10-20T12:58:44.169537+00:00",
+  "model_sha256": "4e7b8b70962cdd6ad8a90fa987ba3279a23e8480dd4f92660822db76bb552701",
+  "rule_inventory_sha256": "090baf49ab83cb17d27b3c21e567c99b059832315c1cebf30d26adbb7c671b20",
+  "scenario_input_sha256": "0b7d8a16eebad0fbbee69a8f0c4ea98b3b0558a03310c11ba8fad69bec3b880b",
+  "input_freeze_sha256": "00d5f1cb9e762dbd972464e4855cd7b1f5666cf6fcb2fa7095c48cbea242f9b7",
+  "generation_method": "The same informed root author composed these exact English responses after the model/inventory and input freezes; the writing tool serialized their bytes. No independent sampler, human subject, Japanese adequacy or pristine source prediction is claimed.",
+  "same_informed_root_author": true,
+  "source_known_hypothetical_only": true,
+  "outputs": [
+    {
+      "case_id": "TAYLOR-H01A",
+      "body": "\"We have two accounts and a third waiting outside. Let us hear Mira before we decide what they mean.\"\nTaylor raises a hand to pause the discussion.",
+      "body_utf8_sha256": "b2ef9ac6e2a964190dd3d69c21895cf178c67edaefcef7e14d2e844ece5da41a",
+      "body_words": 27,
+      "first_response": true,
+      "regeneration_count": 0
+    },
+    {
+      "case_id": "TAYLOR-H01B",
+      "body": "\"Outside, through the side exit, now. We can hear the report once we are clear of the hall.\"\nTaylor moves toward the open side exit.",
+      "body_utf8_sha256": "ab58ec87d459ba517ee2307aff36cc2b480d853e385f2d8eef7418700698e844",
+      "body_words": 25,
+      "first_response": true,
+      "regeneration_count": 0
+    },
+    {
+      "case_id": "TAYLOR-H02A",
+      "body": "\"You gave us your word, Ren. Stay a little longer; we can settle the details together instead of abandoning the exercise.\"\nTaylor pulls the gate toward its closed position.",
+      "body_utf8_sha256": "69aab92f5cc177cdf9b0de831e313ce5e4aa4dc655688af593785e68d15a3133",
+      "body_words": 29,
+      "first_response": true,
+      "regeneration_count": 0
+    },
+    {
+      "case_id": "TAYLOR-H02B",
+      "body": "\"Then go. I think practice would help, but agreeing to help yesterday was not agreeing to this route.\"\nTaylor steps away from the gate.",
+      "body_utf8_sha256": "2ecb40bbabd5942c700532c3fd10b23bc66da9c6e7c6442397fb9928f549c5a6",
+      "body_words": 24,
+      "first_response": true,
+      "regeneration_count": 0
+    }
+  ],
+  "total_first_bodies": 4,
+  "total_regenerations": 0
+}

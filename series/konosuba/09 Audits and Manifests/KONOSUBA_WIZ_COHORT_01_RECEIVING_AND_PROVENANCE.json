@@ -1,7 +1,7 @@
 {
   "schema": "KONOSUBA_WIZ_COHORT04_RECEIVING_AND_PROVENANCE_V1",
   "accepted_utc": "2026-10-19T23:06:59.289140+00:00",
-  "status": "ROOT_SEMANTIC_RECEIVING_COMPLETE_CONTAINING_PUBLICATION_PENDING",
+  "status": "SCOPED_TIER3_ACCEPTED_PUBLISHED_FULL_EXACT_SOURCE_GATE_CLOSED",
   "source_boundary_commit": "90fb18d5302711cb265687c140ab5d5d151ebe06",
   "preceding_gate": "09 Audits and Manifests/KONOSUBA_VANIRCOHORT01_PUBLICATION_GATE_CLOSE.json",
   "receiver": "Same continuing informed root. New monograph/model/index, exactsharednative+boundedMAIN04+derivativereceipts,all5drafts and8firstoutputs/4contrasts actually received;no independent model/reviewer or source holdout.",
@@ -85,10 +85,16 @@
   },
   "preservation": "66current/72historical/fourscorefiles/Dust14originalblankfields/nineenteringmodels/SIandSY28originalnullfields/80unrelatedscratchfiles unchanged. No oldforecastretargeting,principalversionrewrite,globalcuratoroutputornewsourceadmission.",
   "not_completed": [
-    "Exact Wiz publication gate",
     "Remaining individual census/joins/incidental dispositions and earned artifacts",
     "Expanded specialists/versioned principal-party-transfer synthesis",
     "Curator-owned enrollment/integration and component/release/final-entry audits"
   ],
-  "publication_gate": "Pending exactcandidate/authorpreflight/freshheads-owner-rules/normalpush/fullreadback/sourceaudit/housekeeping/finalactualsource-status/freshauthorityreload."
+  "publication_gate": {
+    "source_commit": "ca5c7a4f427ab7e9ff8284fc1b37286f0951517c",
+    "closed_utc": "2026-10-19T23:38:10.355021+00:00",
+    "receipt": "09 Audits and Manifests/KONOSUBA_WIZCOHORT01_PUBLICATION_GATE_CLOSE.json",
+    "fresh_authority_reload_utc": "2026-10-19T23:38:32.705357+00:00"
+  },
+  "artifact_pin_scope": "The artifacts list and maintained-census candidate pin the exact accepted cohort at source ca5c7a4f427ab7e9ff8284fc1b37286f0951517c. Later maintained census/status copies can advance under explicit receipts; historical pins do not assert that every later working copy stays identical.",
+  "publication_gate_requirement_at_authorship": "Pending exactcandidate/authorpreflight/freshheads-owner-rules/normalpush/fullreadback/sourceaudit/housekeeping/finalactualsource-status/freshauthorityreload."
 }

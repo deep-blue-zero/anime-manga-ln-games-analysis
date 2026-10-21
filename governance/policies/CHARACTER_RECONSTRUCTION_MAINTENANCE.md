@@ -52,7 +52,7 @@ Consumers verify present applicability with:
 python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>
 ```
 
-`--assessment <id>` restricts the report and `--require-current-reviewed` exits nonzero unless each selected assessment is `CURRENT_REVIEWED`. A recorded `REVIEWED` label alone is never present-day readiness.
+`--assessment <id>` restricts the report. `--require-current-reviewed` exits 0 only when the selection is nonempty and every selected assessment is `CURRENT_REVIEWED`, and records `current_reviewed_certified` in its output; an empty selection, including an empty registry, exits 1 and never certifies readiness. Unknown IDs and historical-validity failures exit 2. A recorded `REVIEWED` label alone is never present-day readiness.
 
 ## Inputs and Git-derived work discovery
 
@@ -70,11 +70,17 @@ The queue is keyed by exact `analysis_subject_id`; each subject appears once wit
 2. `REASSESSMENT_NEEDED`: an included subject whose assessments are all historical.
 3. `NEWLY_ELIGIBLE`: an `INCLUDED` subject enrolled since the checkpoint.
 4. `BACKFILL_UNASSESSED`: any other eligible subject without an assessment.
-5. `DEFERRED_EVIDENCE_CHANGED`: a subject the evaluator deferred whose discovery scope, coverage, curation, or reviewed-evidence membership has since changed.
+5. `DEFERRED_EVIDENCE_CHANGED`: a subject the evaluator deferred whose discovery scope, coverage, curation, or reviewed-evidence membership has since changed, or whose reviewed evidence bytes or authority classification changed without a discovery edit. `--deferred` requires `--since`; only the deferred subjects' reviewed evidence paths are compared, at the cost of one checkpoint snapshot.
 
 Currentness reasons cover subject absence, scope, curation and coverage changes, reviewed-evidence membership, evidence location and anchors, referenced bytes, and authority or supersession state. A change to an unrelated file never creates work. Discovery records are the only source of eligibility; prominence, appearance frequency, or the existence of a monograph is never treated as readiness.
 
 The evaluator never depends on the discovery agent's private memory, checkpoint, or undocumented communication. Advisory hints only annotate queued subjects; a missing hint never hides work and a duplicate hint never duplicates it.
+
+## Standing selection authorization
+
+The owner grants presumptive approval for all future additions to the evaluator's assessment workload from eligible `INCLUDED` discovery subjects, including additions to the calibration cohort and later backfill batches. The evaluator may select these subjects, prepare `CANDIDATE` assessments, and submit them for review without separate owner approval of each subject or batch. Selection follows the queue priorities, evidence requirements, bounded batch sizes, and path limits in this policy; it never authorizes enrollment in discovery or assessment of an ineligible subject.
+
+This standing approval is for selection and candidate preparation only. It does not accept assessment claims, establish human review, accept calibration, promote a record to `REVIEWED`, change the publication phase, or grant additional publication or merge authority. The existing validation, human-review, publication, and integration requirements continue to apply.
 
 ## Initial population and backfill
 
@@ -106,13 +112,26 @@ The evaluator may prepare a promotion commit only to transcribe such a recorded 
 
 ## Calibration protocol
 
-Calibration precedes `ROUTINE` publication. The owner selects a deliberately diverse pilot of existing subjects, for example:
+Calibration precedes `ROUTINE` publication. Under the standing selection authorization, the evaluator selects a deliberately diverse pilot of eligible existing subjects, for example:
 
 - mature bounded reconstruction models with explicit validation or evaluation artifacts;
 - subjects with substantial literary analysis but no strong operational model;
 - distributed-substantial subjects whose evidence lives in shared readings;
 - temporal-state, adaptation, player-archetype, and composite subjects; and
 - a subject with active-provisional evidence.
+
+The owner approved the following initial pilot cohort on 2026-10-20. This records selection approval, not completed assessments or accepted capability claims.
+
+| Analysis subject | Calibration purpose |
+| --- | --- |
+| `shokugeki-no-soma:ikumi-mito@manga` | Bounded operational reconstruction and recipient-conditioned behavior. |
+| `86-eighty-six:shinei-nouzen@original-light-novels` | Longitudinal psychological states, source-supported voice, and temporal limits. |
+| `blue-archive:aru@game` | Distributed substantial evidence within a narrow chapter boundary. |
+| `mass-effect:commander-shepard@paragon-player-archetype` | Player-archetype interpretation versus behavioral and dialogue sufficiency. |
+| `the-idolmaster:yonai-p@u149-anime` | Adaptation-specific professional and relationship-conditioned behavior. |
+| `shuukura:mio-komatsu@original-light-novel` | Narrow active-provisional evidence, knowledge boundaries, and ambiguity. |
+
+Verify each subject's eligibility and evidence against current `main` before assessment. The initial cohort does not exercise separately registered temporal-state or composite identities; those categories remain untested until eligible subjects and adequate evidence exist. Do not invent identities to complete a calibration category. Future cohort additions follow the standing selection authorization and the same calibration requirements.
 
 For each pilot subject, the evaluator prepares a candidate and a calibration note in the PR description giving, per assessed claim, the evidence locators relied on, the strongest counterevidence, and why a higher and a lower grade were rejected. The calibration set must collectively test whether the evaluator distinguishes:
 
@@ -160,4 +179,4 @@ Successful no-change runs remain quiet; do not create empty commits or PRs. Repo
 
 ## Activation and scheduling
 
-Merging the activation change makes this policy and the empty production registry effective but publishes no assessment. The owner separately configures the scheduled task, its credentials, and the cloud checkpoint store, selects the calibration pilot, and later accepts calibration. Until then the evaluator may prepare and publish only owner-reviewed calibration candidates.
+Merging the activation change makes this policy and the empty production registry effective but publishes no assessment. The owner separately configures the scheduled task, its credentials, and the cloud checkpoint store, and later accepts calibration. Pilot and subsequent subject selection follow the standing selection authorization above. Until calibration is accepted through the required governance change, the evaluator may prepare calibration candidates and publish them only through owner-reviewed, owner-merged PRs.

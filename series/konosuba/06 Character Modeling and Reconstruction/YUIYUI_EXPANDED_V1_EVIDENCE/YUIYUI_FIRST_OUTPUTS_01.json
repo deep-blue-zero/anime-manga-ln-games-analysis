@@ -1,0 +1,83 @@
+{
+  "schema": "konosuba.yuiyui.original-first-outputs.v1",
+  "recorded_utc": "2026-10-21T01:03:35.658089+00:00",
+  "character": "Yuiyui",
+  "actual_body_freeze_sha256": "97a00e6ff9c6b31bb4ae639d19c7b87f5fc62110c9e1625d9c4fe6a59048b641",
+  "exact_input_file_sha256": "0e7605eb98fee2c53910897c579476d18e9c9a346fd126de885360d6ef93214c",
+  "exact_input_freeze_sha256": "86b043f050c374b40d55bed0e89c90019975da0e8a63cbebe8c5812c58833ffb",
+  "foundation_seal_sha256": "c0dc3ba4105ee871ae88c9a336dd08fa4388fe37adb2bcd9882c75db4dbee89a",
+  "outputs": [
+    {
+      "case_id": "YY-H01-A",
+      "pair_id": "YY-H01",
+      "exact_prompt_sha256": "9127ffc192e83b02192f23e85edee98f3a470860cde4af9480230d32e62b939d",
+      "original_first_body": "Yuiyui folded Sana's message once and set it beside the blank cards. She wrote Sana's name, then Ren's, and placed the cards together on the table.\n\n“Seven, then. How pleasant when people make a little room for their own future.” She gave Ren a warm smile. “Only fifteen minutes, of course. Nobody is asking you to promise employment over supper. An introduction can be useful before anyone knows what to do with it.”\n\nShe rested the pen across the folded paper. “And you needn't make it sound grand. A sensible conversation is quite enough to begin with.”\n",
+      "body_sha256": "5063719b60c49690e6c2c4238f327f28f3366c45de7341653c1fe6c019c1e550",
+      "words": 97,
+      "serialized_utc": "2026-10-21T00:58:12.051758+00:00",
+      "original_serialization_receipt_sha256": "7d8979124dc5a3213637f30e17687261c17566a7521e962c381bd4801ccac934",
+      "global_serialization_number": 1
+    },
+    {
+      "case_id": "YY-H01-B",
+      "pair_id": "YY-H01",
+      "exact_prompt_sha256": "e3c46564375167becdf4eb8f06af6e0bd0c8af047804de73125555cd9e42bddb",
+      "original_first_body": "Yuiyui read the refusal again, smoothed the paper flat, and put a blank card over it. Her pen paused above the card before she wrote Sana's name.\n\n“She doesn't want a business introduction,” she told Ren pleasantly. “Very well. We needn't turn a perfectly ordinary conversation into something with such a forbidding title.”\n\nShe set Sana's card beside his. “Fifteen minutes isn't a career decision. I should think she can judge the usefulness of meeting you after meeting you.” Her smile stayed in place. “Please don't feel you have to sell anything. I'll keep the place for her.”\n",
+      "body_sha256": "a47348f4928dce14ce9417cb6f837ea98786cc3bd2100a10b419a28dc1f59097",
+      "words": 98,
+      "serialized_utc": "2026-10-21T00:58:46.549805+00:00",
+      "original_serialization_receipt_sha256": "36e1529c5a0902bf174c078e26babade7bd5ae53f850acd65888d86441105a2c",
+      "global_serialization_number": 2
+    },
+    {
+      "case_id": "YY-H02-A",
+      "pair_id": "YY-H02",
+      "exact_prompt_sha256": "515508c4ee964b8e4ec9d9c072653b3448ef3109cae5f2b6494a0b157230748d",
+      "original_first_body": "Yuiyui took up the teapot and replenished Ren's cup with careful attention.\n\n“Twelve thousand after everything? Well, you mustn't hurry away over one cup of tea.” She smiled across the table. “Ema has agreed to listen, and I should like to hear the proposal properly myself. A continuing connection can be much more useful than one fortunate afternoon.”\n\nShe kept the teapot in her hand. “Not that I'm asking you to pay for our cupboard hinges, of course. You've already been very kind. But if the conversation goes well, we ought to discuss what else we could do together.”\n",
+      "body_sha256": "82b9fe4578234e5647257eea6638058ffbf9612d974365b6f908cf5c2f4370c7",
+      "words": 99,
+      "serialized_utc": "2026-10-21T00:59:00.393247+00:00",
+      "original_serialization_receipt_sha256": "d7dfc1500a8b8e1b70c6242bff54ccd0566361bf5978942732af01cae074c351",
+      "global_serialization_number": 3
+    },
+    {
+      "case_id": "YY-H02-B",
+      "pair_id": "YY-H02",
+      "exact_prompt_sha256": "0c180f16c9156b8627c777240056550c3c29e83ada60c55ea976ce07f602ee85",
+      "original_first_body": "Yuiyui's hand rested beside the teapot for a moment. Then she lifted it and topped up Ren's cup.\n\n“One hundred and twenty. Then anything we consider must earn its keep, mustn't it?” Her smile returned. “Ema can still hear you out. A useful idea needn't arrive in an expensive coat.”\n\nShe set the pot down without moving it closer to him. “You've already done us a favor with that hinge. I won't ask you to put your remaining money into the house. But do tell us how this proposal would support itself. We can't afford another attractive project that only costs us.”\n",
+      "body_sha256": "297533e5130826a4d58182fcfdb0a7247e06b53c5f5ec4f13f3e4e1768c44f3f",
+      "words": 102,
+      "serialized_utc": "2026-10-21T00:59:14.826457+00:00",
+      "original_serialization_receipt_sha256": "a38c27f96e5f5e7e90f80ff5c74d96e4ef668f08e80e3d43f0f945adadd1c072",
+      "global_serialization_number": 4
+    },
+    {
+      "case_id": "YY-H03-A",
+      "pair_id": "YY-H03",
+      "exact_prompt_sha256": "3b2140927e99e7c8dfe43f6594f2b160596bf557190eb632d2e409a9bd783f91",
+      "original_first_body": "Yuiyui angled the tablet so the seating entry was easy to read and left the paper cards blank.\n\n“There. No need to make a production of it.” She looked from the displayed names toward the table. “Sana may dislike the idea before supper, but a place beside someone isn't a business contract. We can at least keep the opportunity open.”\n\nShe laid the pen beside the cards. “If she asks, I have heard what she said. Hearing someone doesn't mean I must agree that every useful arrangement is an imposition.” Her fingertips remained against the tablet's edge.\n",
+      "body_sha256": "95f1f90b097b802976bf413685d8862c05365712aa60622327e3bc84c11fa8e1",
+      "words": 97,
+      "serialized_utc": "2026-10-21T00:59:27.207656+00:00",
+      "original_serialization_receipt_sha256": "b90a391b010c29e2e3fea81cbad5585d06ea714b2d956d589fd112ebdd9431bc",
+      "global_serialization_number": 5
+    },
+    {
+      "case_id": "YY-H03-B",
+      "pair_id": "YY-H03",
+      "exact_prompt_sha256": "74c7b7284c55cedab6206bd1a75947f5680380edfb415cebc0244f24f533384f",
+      "original_first_body": "Yuiyui tapped the tablet once more, then withdrew her hand from the unchanged display.\n\n“How particular. Very well, we shall manage without it.” She drew two paper cards toward her and wrote Sana on one, Ren on the other.\n\n“Sana has made herself quite clear,” she said, setting the cards next to each other on the table. “And I have made a perfectly reasonable place for her. Those needn't be the same question.”\n\nShe put the pen across the remaining cards. “No passwords, no fuss. It would be a pity to let a little machine decide whether people have a useful conversation.”\n",
+      "body_sha256": "daed000a53814cb9a72a3581192927a02656b882168b49d5466ec97e8fc9eba9",
+      "words": 102,
+      "serialized_utc": "2026-10-21T00:59:39.788936+00:00",
+      "original_serialization_receipt_sha256": "f57a555802ec22a8ce40f064c52869e4f5532002feeb08610a59f03e98a9a925",
+      "global_serialization_number": 6
+    }
+  ],
+  "method": "Exact copies of six direct continuing-root first serializations after foundation/input freezes; same informed author/designer/responder/assessor, all contrasts and earlier cases visible; no external model call or independent judge.",
+  "regenerations": 0,
+  "feedback_repairs": 0,
+  "transport_incident_qualification": "YY-H01-B had one failed executable launch; identical body text then serialized once successfully. Only executable path corrected, no response rewritten.",
+  "new_source_validation_accuracy_or_confidence_gain": 0,
+  "full_program_complete": false
+}

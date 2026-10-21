@@ -1,0 +1,92 @@
+{
+  "schema": "konosuba.secondary.actual-first-outputs.v1",
+  "saved_utc": "2026-10-20T21:12:43.701244+00:00",
+  "subject": "Soketto",
+  "author": "Continuing informed Codex root; same model/case/response/assessment author.",
+  "input_file": "SOKETTO_SCENARIO_INPUTS_01.json",
+  "input_sha256": "e5408674e0b6aba8c98534d078c7a9328aada69a35cd709b689889476d33de20",
+  "exact_input_freeze_sha256": "051c691cb8a537ea9ba3dcb0104376219f6893b6e067332770229cb4162ac170",
+  "model_body_sha256": "95ff070b1d244446ac39b47383afc21f3bdffb9549213e1f0315889f0ff295b5",
+  "model_pre_case_freeze_sha256": "05a6562c0f2e7e7a5cf9a37add927ceb126543de5bfe036847f5e57fb8bffd6f",
+  "output_count": 4,
+  "outputs": [
+    {
+      "case_id": "SK-H01-A",
+      "input_sha256": "940a82ab1000e9532f12eb0bf55817e3d8ee0bff9301eb86a6444cd4be71d253",
+      "body": "Soketto rests a finger on Cedar’s notice. “Thursday, six until seven. There is a place, and I think you should take it.” Her smile becomes a little more deliberate. “Yes, I heard you ask for both. If I lay everything out, you might choose differently, and I rather like where this could lead.” She gives no second timetable. “I am not saying you have already agreed, June. But I would rather encourage this one than help you step away from it. You can be annoyed with me for that. Cedar can still be registered for at the front desk today.”\n",
+      "body_sha256": "36b94081a5c8fff2df1ca2c1fdf81b0e6edab0fabadc61743de29b1dbdc91bbd",
+      "word_count": 100,
+      "regenerations": 0,
+      "repairs": 0
+    },
+    {
+      "case_id": "SK-H01-B",
+      "input_sha256": "dd6b81b7089b75fef4c41ce0cb38ba676cf4911a7ea06960426818354b2c2302",
+      "body": "Soketto turns the two notices toward June. “Cedar, Thursday from six until seven. Harbor, Friday from six until seven. One place in each, and either can be registered for at the front desk today.” She gives a small, amused smile. “There. Two real options, without my choosing your evening for you. I have checked the places and times; I have not checked how either group will suit you. That part is still a possibility, not something I can promise. If one evening suits you better, you need not invent a grander reason to prefer it.”\n",
+      "body_sha256": "2c02f706e4cf45463f46a32959635ce4fc374e9f45ca42fb808ba6d43564be56",
+      "word_count": 95,
+      "regenerations": 0,
+      "repairs": 0
+    },
+    {
+      "case_id": "SK-H02-A",
+      "input_sha256": "4e09867e0dadcc097e4e847aae7be2a9a642251d36eb89ed5b41b32e56f42abf",
+      "body": "Soketto points to the deadline on the notice. “The form goes to the front desk by five today. So you do still have time.” She considers him for a moment. “All right. One consultation, five minutes. The apology is a better beginning than another explanation of why you were behind me.” Her voice stays conversational. “But do not turn this into permission to follow me again, or into an appointment I have promised you tomorrow. You asked about registration; we can deal with registration. If there is something on this notice you do not understand, ask me that.”\n",
+      "body_sha256": "13393deb4c2d4739e5141e11c41aa5deea1760752829f3b529598aed5195d823",
+      "word_count": 98,
+      "regenerations": 0,
+      "repairs": 0
+    },
+    {
+      "case_id": "SK-H02-B",
+      "input_sha256": "300c90f76046c90b36ce4b6426c24a5665aa99c7075dcc1f1b98ea7110e374db",
+      "body": "Soketto keeps the notice on her side of the table. “Curiosity does not make it all right after I have told you to stop.” The amusement leaves her voice. “No five-minute consultation today, Tomas. You are asking me for a favour while telling me you see nothing wrong with the thing I objected to.” She indicates the printed deadline. “The form can be handed in at the front desk until five. There is your answer about registration. What there is not is permission to follow me, or a promise that I will keep making time for you. Leave it there.”\n",
+      "body_sha256": "1d8cc57e731ab54ff69e30fcaaa8f27d5ab2dbfa42d3ee418cb60109c58097d1",
+      "word_count": 100,
+      "regenerations": 0,
+      "repairs": 0
+    }
+  ],
+  "regenerations": 0,
+  "repairs": 0,
+  "first_saved_not_zero_anticipation": true,
+  "source_known": true,
+  "independent_accuracy_or_confidence_gain": false,
+  "actual_generation": "Each first body was composed directly by the root and serialized once in its own receipt; aggregate is exact byte carry,not another generation or a separate external model call.",
+  "all_inputs_and_prior_bodies_visible": true,
+  "raw_first_serialization_receipt_pins": [
+    {
+      "case_id": "SK-H01-A",
+      "body_file": "SOKETTO_FIRST_BODY_SK-H01-A_01.txt",
+      "body_sha256": "36b94081a5c8fff2df1ca2c1fdf81b0e6edab0fabadc61743de29b1dbdc91bbd",
+      "receipt_file": "SOKETTO_FIRST_BODY_SK-H01-A_01_RECEIPT.json",
+      "receipt_sha256": "2d18f4c99d1ba1775164289d85770100e952b280bf46ebbb688b18518579f44e",
+      "serialized_utc": "2026-10-20T21:08:28.289107+00:00"
+    },
+    {
+      "case_id": "SK-H01-B",
+      "body_file": "SOKETTO_FIRST_BODY_SK-H01-B_01.txt",
+      "body_sha256": "2c02f706e4cf45463f46a32959635ce4fc374e9f45ca42fb808ba6d43564be56",
+      "receipt_file": "SOKETTO_FIRST_BODY_SK-H01-B_01_RECEIPT.json",
+      "receipt_sha256": "e3f3bcf79e05047b88c69966ea31c9a5790e39af29ce8881c7c0622061646a28",
+      "serialized_utc": "2026-10-20T21:08:49.226275+00:00"
+    },
+    {
+      "case_id": "SK-H02-A",
+      "body_file": "SOKETTO_FIRST_BODY_SK-H02-A_01.txt",
+      "body_sha256": "13393deb4c2d4739e5141e11c41aa5deea1760752829f3b529598aed5195d823",
+      "receipt_file": "SOKETTO_FIRST_BODY_SK-H02-A_01_RECEIPT.json",
+      "receipt_sha256": "ce46915bd4224bad4289997ff040943317d7b8a13f4b32dcacc8958246667b76",
+      "serialized_utc": "2026-10-20T21:09:09.348529+00:00"
+    },
+    {
+      "case_id": "SK-H02-B",
+      "body_file": "SOKETTO_FIRST_BODY_SK-H02-B_01.txt",
+      "body_sha256": "1d8cc57e731ab54ff69e30fcaaa8f27d5ab2dbfa42d3ee418cb60109c58097d1",
+      "receipt_file": "SOKETTO_FIRST_BODY_SK-H02-B_01_RECEIPT.json",
+      "receipt_sha256": "9b49b91e3470167fb65d9feb1a0109177eb53617afe232ef8e86b3776e4dc210",
+      "serialized_utc": "2026-10-20T21:09:25.539541+00:00"
+    }
+  ],
+  "full_program_complete": false
+}
