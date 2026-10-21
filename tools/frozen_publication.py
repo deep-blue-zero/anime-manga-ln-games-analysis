@@ -100,6 +100,8 @@ def frozen_publication_paths(
     The original commits need not be public ancestors: the owner first reviews
     their immutable identities and original/derivative mapping, then merges its
     exact manifest binding. No candidate-side grant can authorize itself.
+    `main_commit` is main before the candidate: a post-integration audit of
+    main itself passes its first parent, so a published grant stays bound.
     """
     accepted: dict[str, set[str]] = {}
     errors: list[str] = []
@@ -126,8 +128,8 @@ def frozen_publication_paths(
                 envelope = {p for p in snapshot.entries if any(p.startswith(s) for s in grant["scope_prefixes"])}
                 if not envelope and not published:
                     # Reviewed grant is inert until publication. Its route binds
-                    # once main publishes it or a candidate carries its envelope,
-                    # so dropping or rerouting the root never escapes it.
+                    # once prior main publishes it or a candidate carries its
+                    # envelope, so dropping or rerouting the root never escapes it.
                     continue
                 if routes.get(root) != grant["canonical_entrypoint"]:
                     raise DomainError("registered canonical route differs from reviewed grant")

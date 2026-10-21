@@ -1346,6 +1346,30 @@ class RunAdmissionTests(unittest.TestCase):
             candidate.entries[path] = SnapshotEntry(path, "100644", data)
         return candidate, {"reading": reading, "boundary": boundary, "manifest": manifest, "notice": notice}
 
+    def reroute(self, snapshot, entrypoint):
+        """Repoint the example project's registered entrypoint, or deregister it with None."""
+        registry_path = "series/registry.json"
+        registry = json.loads(snapshot.entries[registry_path].data)
+        registry["series"] = [] if entrypoint is None else [
+            {**registry["series"][0], "canonical_entrypoint": entrypoint}
+        ]
+        snapshot.entries[registry_path] = SnapshotEntry(
+            registry_path, "100644", (json.dumps(registry) + "\n").encode()
+        )
+
+    def regrant(self, snapshot, manifest, change):
+        """Apply change to the candidate's grant for manifest, or remove every grant with None."""
+        from frozen_publication import FIELD
+
+        control = json.loads(snapshot.entries[PROJECT_INITIATION_GATE_PATH].data)
+        if change is None:
+            control.pop(FIELD)
+        else:
+            change(control[FIELD][manifest])
+        snapshot.entries[PROJECT_INITIATION_GATE_PATH] = SnapshotEntry(
+            PROJECT_INITIATION_GATE_PATH, "100644", (json.dumps(control) + "\n").encode()
+        )
+
     def test_reviewed_frozen_publication_accepts_complete_noncurrent_import_and_squash_audit(self):
         candidate, paths = self.frozen_publication()
         original_v1 = self.candidate().entries[self.fixture.sequential].data
@@ -1427,38 +1451,17 @@ class RunAdmissionTests(unittest.TestCase):
                 self.assertTrue(any("cannot be removed or rewritten" in e for e in self.failures(changed)))
 
     def test_frozen_publication_binds_route_and_grant_once_enveloped_or_published(self):
-        from frozen_publication import FIELD
-
         f = self.fixture
         candidate, paths = self.frozen_publication()
-        registry_path = "series/registry.json"
-
-        def route(snapshot, entrypoint):
-            registry = json.loads(snapshot.entries[registry_path].data)
-            registry["series"] = [] if entrypoint is None else [
-                {**registry["series"][0], "canonical_entrypoint": entrypoint}
-            ]
-            snapshot.entries[registry_path] = SnapshotEntry(
-                registry_path, "100644", (json.dumps(registry) + "\n").encode()
-            )
-
-        def regrant(snapshot, change):
-            control = json.loads(snapshot.entries[PROJECT_INITIATION_GATE_PATH].data)
-            if change is None:
-                control.pop(FIELD)
-            else:
-                change(control[FIELD][paths["manifest"]])
-            snapshot.entries[PROJECT_INITIATION_GATE_PATH] = SnapshotEntry(
-                PROJECT_INITIATION_GATE_PATH, "100644", (json.dumps(control) + "\n").encode()
-            )
-
+        manifest = paths["manifest"]
         rerouting = (
-            ("rerouted", lambda s: route(s, f.prefix + "MOVED_CURRENT_STATE.md"), "registered canonical route differs"),
-            ("deregistered", lambda s: route(s, None), "registered canonical route differs"),
+            ("rerouted", lambda s: self.reroute(s, f.prefix + "MOVED_CURRENT_STATE.md"), "registered canonical route differs"),
+            ("deregistered", lambda s: self.reroute(s, None), "registered canonical route differs"),
         )
         regranting = (
-            ("rewritten", lambda s: regrant(s, lambda grant: grant.update(generations=["G3"])), "cannot be removed or rewritten"),
-            ("removed", lambda s: regrant(s, None), "cannot be removed or rewritten"),
+            ("rewritten", lambda s: self.regrant(s, manifest, lambda grant: grant.update(generations=["G3"])),
+             "cannot be removed or rewritten"),
+            ("removed", lambda s: self.regrant(s, manifest, None), "cannot be removed or rewritten"),
         )
         envelope = set(paths.values())
 
@@ -1482,6 +1485,38 @@ class RunAdmissionTests(unittest.TestCase):
                 with self.subTest(stage=stage, mutation=name):
                     errors = frozen_errors(entries, mutate)
                     self.assertTrue(any(expected in e for e in errors), errors)
+
+    def test_published_grant_binds_self_audit_of_a_commit_that_drops_its_envelope(self):
+        # The post-merge audit validates main itself, so its base is the
+        # audited commit. Publication is judged from its first parent, as the
+        # pre-merge audit judges it from the earlier main.
+        candidate, paths = self.frozen_publication()
+        manifest = paths["manifest"]
+        published = self.publish(candidate)
+        envelope = set(paths.values())
+        rewrite = lambda grant: grant.update(authorization="Rewritten after publication")
+        rerouted, regranted = "registered canonical route differs", "a publication grant cannot be removed or rewritten"
+        for name, dropped, mutate, expected in (
+            ("rerouted", True, lambda s: self.reroute(s, self.fixture.prefix + "MOVED_CURRENT_STATE.md"), rerouted),
+            ("deregistered", True, lambda s: self.reroute(s, None), rerouted),
+            ("route_kept", True, lambda s: None, "reviewed publication manifest missing"),
+            ("grant_removed", True, lambda s: self.regrant(s, manifest, None), regranted),
+            ("grant_rewritten", True, lambda s: self.regrant(s, manifest, rewrite), regranted),
+            ("grant_rewritten_in_place", False, lambda s: self.regrant(s, manifest, rewrite), regranted),
+        ):
+            changed = GitSnapshot(self.root, "CHANGED_PUBLICATION", {
+                path: entry for path, entry in candidate.entries.items() if not (dropped and path in envelope)
+            })
+            mutate(changed)
+            self.main = published
+            head = self.publish(changed)
+            for audit, main in (("self", head), ("branch", published)):
+                with self.subTest(mutation=name, audit=audit):
+                    run_git(self.root, "update-ref", "refs/remotes/origin/main", main)
+                    errors = self.failures(GitSnapshot.from_commit(self.root, head))
+                    self.assertTrue(any(
+                        f"{manifest}: frozen publication: {expected}" in e for e in errors
+                    ), errors)
 
     def test_frozen_publication_rejects_promoted_bytes_even_with_matching_reviewed_hashes(self):
         from frozen_publication import FIELD
