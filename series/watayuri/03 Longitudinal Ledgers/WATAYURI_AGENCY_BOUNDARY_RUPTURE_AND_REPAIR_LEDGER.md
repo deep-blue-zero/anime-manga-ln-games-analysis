@@ -4,14 +4,14 @@ artifact_id: WATAYURI_AGENCY_BOUNDARY_RUPTURE_AND_REPAIR_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.12"
+version: "0.13"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V11 mainline through V11 Shift 56/i156, also latest depicted present; packaged shorts separately bounded; V09 one-shot separate continuity; V10-B and V12–V14 inventory only"
+source_boundary: "Japanese V01–V12 mainline through V12 Shift 61/i140, also latest depicted present; packaged shorts separately bounded; V09 one-shot separate continuity; V10-B and V13–V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_AGENCY_BOUNDARY_RUPTURE_AND_REPAIR_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_AGENCY_BOUNDARY
 
 **Update and revision rule.** Update when choices or boundary/repair trajectory materially change. Do not close a rupture merely because an apology occurred. Link later behavior as a dated continuation and retain the earlier prospective assessment. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V11 mainline through V11 Shift 56/i156, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1, 36.2, 41.5, 46.5, 51.5 and 56.5 remain separately bounded; V04 EX is promotional. V09’s one-shot is a separate work, not Watayuri continuity. All V01–V10 bodies retain their historical states; dated V11 additions carry the current source-branch account under the preserved V10 claim-lineage erratum. Main acceptance and run completion remain separately governed. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V12 mainline through V12 Shift 61/i140, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1, 36.2, 41.5, 46.5, 51.5, 56.5 and 61.5 remain separately bounded; V04 EX is promotional. V09’s one-shot is a separate work, not Watayuri continuity. All V01–V11 bodies retain their historical states; dated V12 additions carry the current source-branch account under the preserved V10 claim-lineage erratum. Main acceptance and run completion remain separately governed. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -459,3 +459,52 @@ Kanoko’s hotel objection follows another path. It is not directly met as an ac
 Nene’s apology becomes a local repair through Sumika’s own account, an explicit present answer, accepted comfort and renewed ordinary talk. The earlier conversation with Yoko had not supplied the same convergence. Yet even this stronger repair has a time boundary: the text does not certify all future conduct. Nene’s later warning about Sumika’s teasing is useful evidence that continued friendship need not mean abolishing the possibility of correction. [AG14–AG18.]
 
 The opening Sumika–Kanoko conversation also contains a real correction, but its repair is narrower. Sumika does not kiss Kanoko, apologizes and offers closeness without that demand. Kanoko’s underlying unease nevertheless continues and becomes a reason to consult elsewhere. An honored local limit can therefore coexist with an unaddressed relational problem. The source does not require choosing between “Sumika did nothing good” and “the relationship is now safe and clear in every respect.” [AG03–AG05/AG19–AG24.]
+
+
+<a id="v12"></a>
+## V12 — Current additions and transitions — 2026-10-20
+
+**V12 evidence key:** source-map key `V12`, Japanese witness `1rfp1TTQIU1BAGmSpGu3UBoLcIqqyKkXz`, SHA-256 `cace78f56ffc5248eba9fe9d1e336730cbab70cdba834faf4be10629a5a70ab1`. The [frozen V12 reading](../02%20Sequential%20Readings/WATAYURI_V12_DEEP_READING.md#agency) supplies full context, observations and image conventions. Unprefixed iNNN and O/REL/PER/INF/AG/T/JP/VIS/C references below mean V12; reproduced original forecasts retain their creation-volume shorthand. Section numbers refer to the complete reading. Mainline and latest depicted present end at Shift 61/i140, where a historical report begins without its complete event or answer. Shift 61.5/i142–145 has finer chronology OPEN; edition matter and bonus do not continue the ending. V10-B and V13+ remain excluded.
+
+**Receiving disposition:** the complete responsibility section below is accepted for this source-branch transaction; “proposed” labels and producer-stage statements retain their historical provenance. Current main acceptance and run completion are separately governed in the [entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md#operational-boundary) and [receiving review](../07%20Audits%20and%20Handoffs/WATAYURI_V12_INTEGRATION_REVIEW.md). All earlier bodies and original claim identities remain preserved under the [expanded V10 claim-lineage erratum](WATAYURI_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md#v10-claim-lineage-erratum).
+
+## 9. Agency, boundaries, rupture, and repair — proposed V12 increment
+
+| ID | Actor, action, and available option | Response / consequence | Scope and limit |
+| --- | --- | --- | --- |
+| **WY12-AG01** | Kanoko refuses photo-jealousy use and alcohol, reiterates discussion purpose. i005–010. | Yoko continues the encounter under advice framing. | Specific choices retained; neither total passivity nor universal consent. |
+| **WY12-AG02** | Yoko handles the bag and later holds/uses Kanoko’s phone. i008–009, i026–029. | Kanoko discovers removal and objects; call controlled by Yoko. | Unauthorized custody/use evidenced by sequence; no fabricated passcode or hacking detail. |
+| **WY12-AG03** | Kanoko stands to leave and ends consultation verbally. i024, i029–030. | Yoko prevents the encounter ending on those terms. | Withdrawal is actual, not merely hindsight about an unwise visit. |
+| **WY12-AG04** | Yoko threatens and restrains Kanoko, disregarding repeated requests. i038–045. | Kanoko’s practical options narrow under pressure. | Observed coercion described without inventing unshown completed sexual acts. |
+| **WY12-AG05** | Kanoko offers apology/seriousness in her own words. i046–047. | Yoko rejects it and requires an exact formula. | Demonstrates control of answer content, not a satisfied demand for candor. |
+| **WY12-AG06** | Yoko targets Kanoko’s Hime-related belief as the release condition. i048–055. | Kanoko’s vulnerable interpretation becomes leverage. | A compelled answer would not certify freely adopted belief; full answer is not shown. |
+| **WY12-AG07** | Nene immediately shows the photo and supplies a probable location. i032–037. | Joint intervention becomes possible before complete information. | Practical help, not an attempt to reclaim a romantic position. |
+| **WY12-AG08** | Sumika runs ahead, arrives and punches Yoko. i056–064. | Facts remain uncertain; retaliation risks escalation. | Protective motive and violent conduct both retained. |
+| **WY12-AG09** | Kanoko asks Sumika to stop. i065–066. | Sumika stops and turns toward her. | One clear instance of limit uptake, not permanent reliability. |
+| **WY12-AG10** | Yoko minimizes to hotel personnel and leaves. i064–073. | Nene confronts her outside. | No legal resolution or comprehensive interview inferred. |
+| **WY12-AG11** | Nene refuses renewed dating and defends friendship. i068–071. | The offer does not become a relationship. | Choice enacted despite prior love; not guaranteed absence of future grief. |
+| **WY12-AG12** | Sumika offers shelter; Kanoko chooses it and asks for a warm shower. i074–082. | Immediate preferences obtain uptake and private space. | Assent is to accommodation, not intimacy. |
+| **WY12-AG13** | Sumika provides food/bedding; Kanoko contributes to clearing up. i087–093. | Care and limited ordinary participation coexist. | No demand that Kanoko repay through an intimate act. |
+| **WY12-AG14** | Sumika searches consultation information. i092. | Concern is observable but no service contact follows on page. | Intention/research not completed support intervention. |
+| **WY12-AG15** | Kanoko initiates an unrequested kiss and attempts further acts. i100–106. | Sumika disengages and refuses continuation. | Distress explains context without erasing Sumika’s immediate boundary. |
+| **WY12-AG16** | Kanoko discloses Yoko’s role and dating purpose. i107–109. | Sumika gains previously withheld information. | Disclosure is consequential, not proof secrecy was previously authorized. |
+| **WY12-AG17** | Kanoko offers intimacy/equal hurt as compensation. i110–113. | Sumika refuses to take harm or intimate access as payment. | Kanoko’s guilt does not authorize Yoko’s prior coercion. |
+| **WY12-AG18** | Sumika embraces and rejects hurting a loved person to satisfy desire. i114–115. | Comfort and explanation become possible. | Initial contact and subsequent uptake distinguished; no blanket consent rule. |
+| **WY12-AG19** | Both name unmet needs and apologize; listening reopens. i116–120. | A locally accepted correction of the confidant arrangement. | No automatic romantic reciprocity, complete account or permanent repair. |
+| **WY12-AG20** | Kanoko apologizes specifically for the forced kiss. i126–128. | Sumika gives her own later valuation. | Apology and happiness do not make advance permission exist. |
+| **WY12-AG21** | Kanoko discloses Hime’s kiss and its meaning to her. i129–134. | Sumika distinguishes personal value from erasure. | No Hime authorization of this retelling is depicted; no mind-reading authority follows. |
+| **WY12-AG22** | Kanoko tries to leave the discussion and asks release. i135–137. | Sumika refuses and maintains the hold. | Nonabandonment rationale does not erase a refused boundary. |
+| **WY12-AG23** | Kanoko subsequently asks to tell an old story and overlays the hand. i138–140. | Affirmative uptake and partial disclosure occur. | Later acceptance is not retroactive consent; full history unshown. |
+| **WY12-AG24** | Hime asks how to help without knowing the trouble; Mitsuki admits uncertainty. S61.5/i142–145. | Hime revises assumed understanding into acknowledged concern. | No completed intervention, reputational-threat test or later informed confrontation. |
+
+### 9.1 Consent is indexed to acts, not conferred by a relationship noun
+
+The source supplies several affirmative choices: discussion, staying at Sumika’s home, taking a shower, contributing to cleanup, continuing the final conversation. It also supplies refusals: the photograph’s use, alcohol, continued consultation, hotel acts, further intimacy, release from a handhold. A precise account identifies each rather than giving Kanoko either no agency at all or one irrevocable permission that covers everything. Dating, entering a room and loving someone do not function as such global permissions in the depicted interactions. [AG01–06/AG12–13/AG15/AG22–23.]
+
+The analysis also separates advance permission from later evaluation. Sumika’s later happiness about the kiss is not proof that its initiation was agreed. Kanoko’s eventual hand-over-hand response is not proof that her release request was never made. These distinctions are not denials of the later positive responses. They preserve the actual order by which a mixed interaction develops. [AG15/AG20/AG22–23.]
+
+### 9.2 What is repaired, and what is not
+
+The immediate hotel danger ends on page, Kanoko leaves that setting with Sumika, and a confidant relationship becomes more openly discussable. Sumika rejects compensation through harm or intimacy, hears the concealed adviser account and apologizes for earlier withdrawal. Kanoko accepts comfort, offers a specific apology and begins an account she had withheld. These are real achievements, not merely decorative apologies. [AG09/AG12/AG16–20/AG23.]
+
+The volume does not show a completed report to a support service, a legal outcome, a full reckoning with Yoko, comprehensive disclosure to Hime, or the resolution of the middle-school story. It does not show equivalent romantic feeling in the new couple. The refused release also remains an unresolved feature of the method by which continued conversation is obtained. These limits qualify the repair without making it unreal. [AG10/AG14/AG21–23; INF09/INF11/INF23.]

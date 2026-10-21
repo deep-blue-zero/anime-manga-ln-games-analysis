@@ -4,14 +4,14 @@ artifact_id: WATAYURI_PERSONA_ROLE_AND_PERFORMANCE_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.12"
+version: "0.13"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V11 mainline through V11 Shift 56/i156, also latest depicted present; packaged shorts separately bounded; V09 one-shot separate continuity; V10-B and V12–V14 inventory only"
+source_boundary: "Japanese V01–V12 mainline through V12 Shift 61/i140, also latest depicted present; packaged shorts separately bounded; V09 one-shot separate continuity; V10-B and V13–V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_PERSONA_ROLE_AND_PERFORMANCE_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_PERSONA_ROLE_AN
 
 **Update and revision rule.** Update on a script change, explicit audience shift, recurring role/private leakage or consequential role-mediated change in relationship. Keep role adoption and private effect separately time-indexed. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V11 mainline through V11 Shift 56/i156, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1, 36.2, 41.5, 46.5, 51.5 and 56.5 remain separately bounded; V04 EX is promotional. V09’s one-shot is a separate work, not Watayuri continuity. All V01–V10 bodies retain their historical states; dated V11 additions carry the current source-branch account under the preserved V10 claim-lineage erratum. Main acceptance and run completion remain separately governed. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V12 mainline through V12 Shift 61/i140, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1, 36.2, 41.5, 46.5, 51.5, 56.5 and 61.5 remain separately bounded; V04 EX is promotional. V09’s one-shot is a separate work, not Watayuri continuity. All V01–V11 bodies retain their historical states; dated V12 additions carry the current source-branch account under the preserved V10 claim-lineage erratum. Main acceptance and run completion remain separately governed. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -323,3 +323,42 @@ The new evidence also shows performance learning operating in both directions. S
 **Performance is neither uniformly deceptive nor uniformly liberating.** The invented sleepover is fiction; the happiness it accommodates can be real. The old sister role helped Nene and Sumika build a valuable work relation; it could also be made into a test whose purpose Sumika did not know. Sumika’s current girlfriend role permits an explicit declaration yet does not replace Kanoko’s actual preference. Yoko’s adviser role derives persuasive strength from saying something accurate before extending it beyond the evidence. These are different mechanisms that should not be compressed into a single “mask” explanation. [PER02/PER05–PER07/PER12.]
 
 **The most consequential change of audience occurs at the endpoint.** Kanoko treats the room as a place to continue a private solution to Sumika’s problem. Yoko makes a selected image of that room into information for another person, explicitly naming Sumika as an intended downstream audience. The image is factual in the bounded sense that it shows Kanoko there; the transmitted alarm is a sender’s framing, not a complete, mutually authorized account. [PER13; O33.]
+
+
+<a id="v12"></a>
+## V12 — Current additions and transitions — 2026-10-20
+
+**V12 evidence key:** source-map key `V12`, Japanese witness `1rfp1TTQIU1BAGmSpGu3UBoLcIqqyKkXz`, SHA-256 `cace78f56ffc5248eba9fe9d1e336730cbab70cdba834faf4be10629a5a70ab1`. The [frozen V12 reading](../02%20Sequential%20Readings/WATAYURI_V12_DEEP_READING.md#performance) supplies full context, observations and image conventions. Unprefixed iNNN and O/REL/PER/INF/AG/T/JP/VIS/C references below mean V12; reproduced original forecasts retain their creation-volume shorthand. Section numbers refer to the complete reading. Mainline and latest depicted present end at Shift 61/i140, where a historical report begins without its complete event or answer. Shift 61.5/i142–145 has finer chronology OPEN; edition matter and bonus do not continue the ending. V10-B and V13+ remain excluded.
+
+**Receiving disposition:** the complete responsibility section below is accepted for this source-branch transaction; “proposed” labels and producer-stage statements retain their historical provenance. Current main acceptance and run completion are separately governed in the [entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md#operational-boundary) and [receiving review](../07%20Audits%20and%20Handoffs/WATAYURI_V12_INTEGRATION_REVIEW.md). All earlier bodies and original claim identities remain preserved under the [expanded V10 claim-lineage erratum](WATAYURI_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md#v10-claim-lineage-erratum).
+
+## 7. Persona, role, and performance — proposed V12 increment
+
+| ID | Setting / audience | Role or presentation and its function | Evidence and limit |
+| --- | --- | --- | --- |
+| **WY12-PER01** | Hotel; Kanoko and Yoko. | Hospitality and advice frame maintain the encounter while Kanoko’s stated purpose remains limited. | O01; i005–010. Helpful appearance is not proof all prior help was fictitious or later acts authorized. |
+| **WY12-PER02** | Hotel explanation. | The fictional Olivia/Erna story is interpreted as a model for actual relationships. | O02; i011–017. Preserve embedded fiction, Kanoko’s objection and Yoko’s added causal/category claims. |
+| **WY12-PER03** | Disclosure of old history. | Yoko casts herself as the person who would have made Sumika honest and Nene available. | O03/O04; i018–025. A self-justifying role, not neutral historical authority. |
+| **WY12-PER04** | Phone speaker; remote Sumika, present Kanoko. | Yoko directs the communication event and labels concern a romantic intervention. | O05; i026–029. Control of the channel shapes audience access; it does not establish Sumika’s assent to the frame. |
+| **WY12-PER05** | Closed hotel room. | Teacher-like demands make a dictated statement appear an honest admission. | O08/O09; i038–055. Coercion changes the evidentiary value of an apparent answer; no complete answer supplied. |
+| **WY12-PER06** | Hotel lobby with witnesses. | Yoko presents the punch and declaration as successful jealousy, then describes a quarrel to surrounding adults. | O11/O12; i060–066. Distinct audiences receive different framings; no official endorsement inferred. |
+| **WY12-PER07** | Outside conversation with Nene. | Yoko ranks romance above friendship and offers the former-lover role again. | O13/O14; i067–073. Nene rejects both the offer and its account of her worth. |
+| **WY12-PER08** | Sumika’s home. | Sumika recognizes the potentially suggestive girlfriend/sleepover setting and clarifies practical care. | O15/O17; i078–093. Location and status do not supply blanket bodily permission. |
+| **WY12-PER09** | Nighttime SK exchange. | Kanoko tries to provide a girlfriend-like act to repay care and make the arrangement durable. | O19–O22; i094–115. An offered or initiated act need not express romantic reciprocity; Sumika’s refusal is material. |
+| **WY12-PER10** | Mutual explanation. | The dating role is renegotiated as a setting for listening rather than collecting equivalent acts. | O21–O23; i107–120. A local correction, not a settled universal definition of dating. |
+| **WY12-PER11** | Private hot-milk service. | Sumika deliberately uses the salon’s elder-sister voice, then jokes in ordinary speech; practical help is accepted. | O24; i123–125. Performance carries genuine care without claiming that all role language is harmless. |
+| **WY12-PER12** | Closing handhold. | “Not letting go” joins the emotional promise of nonabandonment to literal restraint. | O28/O29; i135–140. Analyze both registers; metaphor must not conceal the explicit refused release. |
+| **WY12-PER13** | Supplementary café conversation. | Familiar work presentation coexists with Hime and Mitsuki admitting limits to their understanding. | O30/O31; S61.5/i142–145. No guest-facing fiction is used to certify complete private knowledge. |
+| **WY12-PER14** | Edition manual, covers and production pages. | The café’s double window and promotional presentation explain designed appearances at separate witness levels. | O32–O34; i146–152. Setting testimony and marketing are not mainline events or a performed safe ending. |
+
+### 7.1 Authenticity is not a hierarchy of labels
+
+Yoko’s authenticity claim is categorical: romance is real, sisterly explanations are evasive. The volume’s contrary evidence is practical rather than merely terminological. Nene values the friendship that remains after refusal; Sumika supplies real care in a deliberately stylized voice; Kanoko’s need for a listener remains genuine without becoming equivalent romantic feeling. These acts do not prove that every declared sister bond is sincere. They show that the label cannot decide sincerity in advance. [PER02/PER07/PER10/PER11; O02/O13/O23/O24.]
+
+The argument also runs against a simplistic celebration of private space. The hotel room enables communication control and coercion. Sumika’s room permits quiet care and a deeper account, but also contains unrequested contact and a refused release. “Backstage” supplies different conditions of visibility, not automatic truth or safety. The evidence belongs to acts and responses within those conditions. [PER04/PER05/PER08–PER12.]
+
+### 7.2 Who controls the script?
+
+Yoko first interprets an existing play and then writes the sentence Kanoko must say. Kanoko later attempts to enact what she thinks a girlfriend must provide. Sumika rejects that demanded performance, but at the ending risks prescribing continued disclosure as the only acceptable sign of trust. These are not equally severe or equivalent motives. Their comparison identifies a recurring question: whether a role makes room for the person’s answer or supplies the answer in advance. [O02/O08/O20–O23/O28/O29.]
+
+The accepted contribution should therefore route role mechanics separately from feeling. The SK pair remains under the dating label, but that status does not settle the different purposes disclosed at i107–120. The restored elder-sister address helps reopen communication, but it does not nullify the literal words asking for release at i137. Neither the register nor the declared benevolent purpose is a shortcut around the source. [PER09–PER12.]
