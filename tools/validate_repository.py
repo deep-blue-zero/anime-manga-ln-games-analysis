@@ -41,6 +41,7 @@ from generate_character_index import render as render_character_index
 from generate_reconstruction_index import render as render_reconstruction_index
 from completed_run_publication import CompletionProof, PROOF_NAME
 from audit_timing import AuditTimer, report_path, write_report
+from frozen_publication import frozen_publication_paths, publication_grants
 from update_repository_indexes import ROUTING_OUTPUTS, expected_outputs
 
 
@@ -1423,6 +1424,7 @@ def _load_project_initiation_gate(
                 continue
             errors.extend(_closure_record_errors(label, prefix, closure))
     errors.extend(_run_closure_amendments(control)[1])
+    errors.extend(publication_grants(control)[1])
     return (None if errors else control), errors
 
 
@@ -2507,6 +2509,15 @@ def validate_project_initiation_gate(
         digest.update(entry.data)
         return digest.hexdigest() == previous[1]
 
+    publications: dict[str, set[str]] = {}
+    if base_commit is not None:
+        publications, publication_errors = frozen_publication_paths(
+            snapshot, base_commit, control,
+            {row["repository_path"]: row.get("canonical_entrypoint") for _, row in rows
+             if _valid_nonempty_string(row.get("repository_path"))},
+        )
+        errors.extend(publication_errors)
+
     for label, row in rows:
         project_prefix = row.get("repository_path")
         if not _valid_nonempty_string(
@@ -2559,7 +2570,8 @@ def validate_project_initiation_gate(
             )
             errors.extend(artifact_errors)
             if classified:
-                if not unchanged_on_main(path, candidate):
+                if (not unchanged_on_main(path, candidate)
+                        and path not in publications.get(project_prefix, set())):
                     admissions.append(path)
                 if path not in baseline_paths:
                     new_sequential.append(path)
