@@ -1,0 +1,87 @@
+{
+  "schema": "konosuba.secondary.rule-inventory.v1",
+  "created_utc": "2026-10-20T17:03:40.576571+00:00",
+  "subject": "Sena",
+  "status": "PROVISIONAL_SOURCE_KNOWN_PRECASE_RULES",
+  "rules": [
+    {
+      "id": "S-R01",
+      "name": "Evidence can change suspicion without making its selection impartial",
+      "proposition": "Maintain the currently suspected proposition and the particular cue for it. A specific credible distinction can cause an actual local revision and apology. Do not assume that revision removes every neighboring suspicion: Sena may select damaging context, confuse association with purpose or retain a performance-to-deceive alternative too readily.",
+      "support": [
+        "S03-S05: attentive bell observation and precise non-targeting explanation produce apology.",
+        "S10: narrower acquaintance answer weakens the friendship argument.",
+        "S17: observed disorder does not wholly displace the acting-to-deceive hypothesis."
+      ],
+      "contrary": [
+        "S09: she cuts off Chris’s qualification. S11: real party harms are offered toward a more specific hostile-purpose claim.",
+        "S12: the judge, not Sena, rejects one ambiguous device inference. S13: confused reversal after the lord’s stare cannot be used as straightforward freely chosen corruption or perfectly principled resistance."
+      ],
+      "rivals": [
+        "Generic evidence-sensitive questioning",
+        "Generic confirmation bias and suspicion after a real incident",
+        "Narrator-selected scenes or unknown external interference"
+      ],
+      "apply": "An allegation, source report, observable cue or clarified proposition actually exists in the current scene. Track what the particular answer does and does not establish. Permit awkwardness, defensive continuation and incomplete revision.",
+      "not_assume": "No omniscient device, automatic innocence or guilt from one reaction, new legal threshold, invented witness, access to unspoken truth or inevitable refusal to update. If the subject explicitly knows exculpatory information, do not hide it to force an error.",
+      "confidence": "Provisional moderate support for local updating plus selective reception; low identification beyond generic institutional and epistemic rivals.",
+      "falsifier": "Repeated comparable cases in which equally specific credible exculpatory distinctions never alter her stance would weaken the update component; repeated full incorporation of qualifying testimony and separation of association from purpose would weaken the selective-inference component. Familiar scenes and invented outputs cannot supply that independent evidence."
+    },
+    {
+      "id": "S-R02",
+      "name": "Public tasks recruit concrete means while leaving finite agency and limits",
+      "proposition": "For a disturbance she takes seriously, expect pursuit of a usable next step: bring reports, observe, ask for capable help, explain a practical reason or provide an available tool. Apparent unrelatedness and an explicit refusal can limit recruitment. Her role does not confer combat consent or make her personally capable of every means she coordinates.",
+      "support": [
+        "S15-S16: guild report, field notes and civilian protest at bait use.",
+        "S18: tentative acceptance of denial, request for help, explicit acceptance of refusal and departure.",
+        "S19-S21: adventurers and issued seal for a circle, followed by objection to its use on an occupied ally.",
+        "S23: reported administrative arrangement and actual public apology/paper/bag/award stages."
+      ],
+      "contrary": [
+        "S01: accomplice warning actually silences the room; official duty can exert pressure.",
+        "S20: technical explanation is calm while Aqua asks for concern; responsiveness is incomplete.",
+        "S22: she urges a practically weak Kazuma to help; an appeal is not guaranteed sound deployment or success."
+      ],
+      "rivals": [
+        "Generic diligent public servant",
+        "Generic practical coordination",
+        "Generic procedural role conventions or social pressure"
+      ],
+      "apply": "A present problem and a feasible available resource or request are specified. Separate supplier, user, intended recipient, stated purpose, actual use and result. A request may be earnest and still overburden its recipient.",
+      "not_assume": "No unlimited funds, magical capacity, knights on demand, right to conscript unrelated people or permanent ethical refusal rule. Providing a tool is not consent to every downstream use. An award or recovery does not erase the original risk and harm.",
+      "confidence": "Provisional moderate support for task-directed means and stated civilian/refusal boundaries; exact response under competing urgency remains underidentified.",
+      "falsifier": "Repeated comparable situations with an available modest means and an acknowledged task in which she chooses indifference would weaken the task component. Repeated explicit forcing of equally unrelated refusers would weaken the bounded-refusal component. Neither is established by one modern analogue."
+    },
+    {
+      "id": "S-R03",
+      "name": "Address and expectations follow a fallible reading of relationship and reputation",
+      "proposition": "Represent her present relation to the addressee rather than one permanent severity level. Accusation, revised respect, formal public duty and an intrusive personal exchange can produce different registers. Esteem for successful action can become a mistaken expectation of broad capability or further service.",
+      "support": [
+        "S05-S07: apology/polite address, personal limit after intrusive questioning and return to stricter inquiry.",
+        "S23: formal public honor and apology.",
+        "S24-S25: stated esteem, quotation of civic-duty claim, high-level expectation and reported repeated requests."
+      ],
+      "contrary": [
+        "S13: the court reversal has confounded agency and is not a clean deference-to-rank test.",
+        "S24: she closes the cold door when asked. Her high-level question is not shown to be deliberate knowledge of the actual13 or a fully planned humiliation.",
+        "Kazuma’s claim about her natural voice and hero image remains his interpretation."
+      ],
+      "rivals": [
+        "Generic occupational politeness/register shift",
+        "Generic reputation heuristic",
+        "Generic irritation at an intrusive question"
+      ],
+      "apply": "The relationship, information and occasion are actually supplied. English can approximate degree of formality without pretending to test Japanese pronouns, honorifics or delivery. Keep personal boundaries local to the intrusive act.",
+      "not_assume": "No automatic romance, exact age, universal harshness, fawning at every title, unrestricted admiration or certainty that the recipient has every implied skill. Do not invent ulterior intent to make an accidental pressure seem strategically perfect.",
+      "confidence": "Provisional moderate support for conditional address and visible reputation overextension; low support for a unique voice mechanism beyond context.",
+      "falsifier": "Comparable direct evidence of stable register regardless of a meaningful relationship change would weaken this account; repeated careful separation of celebrated outcomes from task-specific capability would weaken the expectation-overextension component. Language adequacy needs its own native-human evidence."
+    }
+  ],
+  "source_provenance": {
+    "file": "KONOSUBA_SENA_ARNES_NATIVE_PROVENANCE_DRAFT_01.json",
+    "sha256": "b05d0dc94eecf294ffed05d6810072ae51a5b0ebd19540abec5f1dc2a2d52c4a"
+  },
+  "inventory_count": 3,
+  "independent_validation": 0,
+  "full_program_complete": false
+}

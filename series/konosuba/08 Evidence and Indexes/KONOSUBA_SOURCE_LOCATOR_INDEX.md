@@ -1802,3 +1802,130 @@ The [Vanir index](KONOSUBA_VANIR_EVIDENCE_INDEX.md) separates core native routes
 ## Wiz cohort04 evidence routes
 
 The [Wiz index](KONOSUBA_WIZ_EVIDENCE_INDEX.md) separates human/lich states, core native paths, early derivative routes and hypothetical receiving. Shared MASK2,862slots/seven complete units plus current MAIN04439slots/one partial member total3,301declared slots, not independent observations or another source reading. [Receiving](../09%20Audits%20and%20Manifests/KONOSUBA_WIZ_COHORT_01_RECEIVING_AND_PROVENANCE.json) binds exact drafts, eight first outputs/four contrasts, adverse effect ambiguity and source-safe provenance. The maintained [census](KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json) keeps150qualified rows and open identity/incidental/final-tier responsibilities. Global registry/index enrollment remains curator-owned.
+
+
+## Chris/Eris cohort05 evidence routes
+
+The [Chris/Eris index](KONOSUBA_CHRIS_ERIS_EVIDENCE_INDEX.md) separates identity continuity, ordinary/divine roles, current native units, inherited reception, derivatives and hypothetical receiving. MAIN12 Final438 plus MAIN17 Ep93/C3 bounded203 gives734current BASE P; inherited CONTEXP01 U021279/U02650 adds329prior slots. The1,063-slot/five-member total is not an independent observation count or another whole-source pass. [Receiving](../09%20Audits%20and%20Manifests/KONOSUBA_CHRIS_ERIS_COHORT_01_RECEIVING_AND_PROVENANCE.json) binds exact drafts, seven rules, six first outputs/three contrasts and underidentified attack/enforcement branches. Census151qualified rows includes newHeidel and25targeted updates with125old rows exact; final individual/event/incidental dispositions remain open. Global discovery and reconstruction outputs stay with their designated writers.
+
+
+## Dust cohort06 evidence and attributable correction routes
+
+The [Dust index](KONOSUBA_DUST_EVIDENCE_INDEX.md) separates23retrieval groups/five shared-event groups from independent observations, current bounded native joins from inherited source traversals, and actual choices from reports/private viewpoints. MAIN02 swap, two distinct MAIN13 bar events, MAIN14/Dust service and MAIN16/Dust07 loan are deduplicated; MAIN17 use/nonreturn are later states. Exact MAIN07 retelling joins remain open. Six informed rules/six exact first hypothetical outputs/three contrasts provide no new reliability score; third pair does not discriminate behavior. Current census157qualifiedrows has29targeted updates/six narrow MAIN16 subjects/122prior rows exact, not a final individual denominator. [Receiving](../09%20Audits%20and%20Manifests/KONOSUBA_DUST_COHORT_01_RECEIVING_AND_PROVENANCE.json) pins scope.
+
+[CR-SECONDARY-MAIN15-PV29-001](../09%20Audits%20and%20Manifests/KONOSUBA_MAIN15_PV29_ACTOR_ATTRIBUTION_ERRATUM_01.json) externally corrects the independent original PV29 accuser to Aqua, with Darkness replying at C4P350. Exact C4P333-352 BASE-TEXT recheck and unchanged report/cell/code/window preserve the original disagreement; no new D02 trial or score. Global discovery/reconstruction outputs remain with their designated writers.
+
+
+## Komekko cohort07 evidence-return routes — 2026-10-20T03:13:02.170207+00:00
+
+The [Komekko index](KONOSUBA_KOMEKKO_EVIDENCE_INDEX.md) joins EXP01 five first-person image-prose groups/IMG026–043 with fifteen actually received text units/1,602unique BASE member slots across EXP01/02 and MAIN05/11/14. Current79selected ledger entries span eleven physical files/ten responsibilities; headings/actor-list matches add no behavioral evidence. Mechanical6EPUB/20prepared-unit identity checks do not expand the actual receiving count. The [provenance](../06%20Character%20Modeling%20and%20Reconstruction/KOMEKKO_EXPANDED_V1_EVIDENCE/KOMEKKO_NATIVE_AND_DERIVATIVE_PROVENANCE_01.json) binds native/member hashes, accepted canonical registers, exact ranges and own findings without source media/raw text.
+
+Keep one beast/capture/kitten chain, one seal-history/retelling chain and one treasured-book object. Komekko image narration, actual memo writing, mother-read quotation, embedded fable, reader-song, promotional script, reference description and game novelization retain different planes. Native ホースト at EXP01 IMG027/029 resolves the existing Horst/Hoost name lead; no new actor or broad Hoost model is created. [Cohort receiving](../09%20Audits%20and%20Manifests/KONOSUBA_KOMEKKO_COHORT_01_RECEIVING_AND_PROVENANCE.json) records two census-row changes/155unaffected exact, provisional scope and preserved H02A adverse first answer. Full individual/event census remains open.
+
+
+## Hoost cohort08 evidence-return route — 2026-10-20T04:07:47.235077+00:00
+
+The [Hoost index](KONOSUBA_HOOST_EVIDENCE_INDEX.md) joins five EXP01 interludes/IMG026–043, reused from prior actual eighteen-page visual receiving, with1,172unique source-known EXP03 BASE slots in U020P430–611/U026P400–627/U032P1–97/U034P1–561/U045P1–104. The five prepared EXP03members/2000slots do not receive that much reading credit. Thirteen selected ledger rows in seven files retain ten-responsibility routing without closing full bodies. [Provenance](../06%20Character%20Modeling%20and%20Reconstruction/HOOST_EXPANDED_V1_EVIDENCE/HOOST_NATIVE_AND_DERIVATIVE_PROVENANCE_01.json) binds exact source/member identities and own findings without source text/artwork.
+
+Native ホースト joins historical Horst/Hoost variants. Hoost's initial mistaken Wolbach recognition/attack and later ordinary-prey correction are one encounter with two stages; EXP03report161 stays exact. Komekko friendship is not Megumin knowledge or a recognized bonded-opponent target. Contract/life claims, offscreen attacks and future service remain attributed/conditional; U045 is principal epilogue, not afterword. [Cohort receiving](../09%20Audits%20and%20Manifests/KONOSUBA_HOOST_COHORT_01_RECEIVING_AND_PROVENANCE.json) records one census-row change/156unchanged, six defeasible rules and three source-known pairs with no independent score/confidence gain.
+
+
+## Hoost first-forest voice qualification — CR-SECONDARY-HOOST-003
+
+Use the [attributable erratum](../09%20Audits%20and%20Manifests/KONOSUBA_HOOST_FIRST_FOREST_VOICE_ATTRIBUTION_ERRATUM_01.json) with the [original Hoost index](KONOSUBA_HOOST_EVIDENCE_INDEX.md). EXP03 U020 `item/xhtml/p-011.xhtml` P476–487/493–500/502/509–511 joins the heard voice to Hoost’s later visible self-identification. Megumin’s earlier unknown identity is not another actor. P488 only wonders about protection before waking; that action remains unconfirmed. The36-slot recheck is wholly inside earlier actual U020P430–611 receiving and adds zero unique source/ruby/image or independent-test credit. Original index SHA256 `3f48020328633867eb0a90c285ad66d3b4f3464e9cbdb0cc1d5d69f9d0c88fe2`, model, monograph and prior gate stay exact.
+
+
+## Levi cohort09 and individual trial/replay return routes — 2026-10-20T06:09:56.297297+00:00
+
+The [Levi index](KONOSUBA_LEVI_EVIDENCE_INDEX.md) maps MAIN10C3/C4/C5 to nativeU014/U015/U016 and DUST04U014, with1,048source-known BASE recheck slots and seven organizational clusters that are not independent trials. Exact native/member hashes, actual ranges, narrator/report/inference/false-account distinctions and the recovered omitted DUST04 display are preserved. Aid459–476 precedes the assassin aftermath715–758; DUST04P430 later intention cannot backdate consent. No raw source text, native artwork or private filesystem path is published.
+
+The [Character State profiles](../03%20Longitudinal%20Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md) own six scoped EXP03U013 trial-party profiles: ライズ/ライナ and アイン/ロッド/トマス/ジャック. Current BASE140–280/342–505 binds305slots, not another whole-member pass. Warrior/thief siblings and four separate trial actors replace no historical group record. Five separate TRPG replay PC candidates preserve Core/Advanced continuity, source plane and player distinction; no new native-page pass or final tier is implied. The structured census retains168working rows, three expressly historical aggregates and an open discovery bucket; no final population denominator follows.
+
+Full current ten rolling responsibilities were received before this cohort in eleven physical files. The original prediction-history and its continuation remain distinct physical parts; exact prior-semantic reuse in that receiving is disclosed, not another literal or native reading.
+
+
+## Nos handoff and performer outcome-plane return routes — 2026-10-20T06:58:02.053067+00:00
+
+The [Nos index](KONOSUBA_NOS_EVIDENCE_INDEX.md) maps MAIN17U011/C1P403–591 andU012/C2P1–130 toDUST07U013P205–260, with375source-known BASEcontextslots, the high-confidence inferred identity join and distinct narrator/impersonation/hypothesis/outcome planes. Two episode routes are not two people or independent trials. Actual later injured police and Dust intervention qualify the harmless-provider assumption; no watched jailing is added.
+
+The [MAIN03 external qualification](../09%20Audits%20and%20Manifests/KONOSUBA_MAIN03_PERFORMER_OUTCOME_AND_SOURCE_PLANE_QUALIFICATION_01.json) binds U017`item/xhtml/p-007.xhtml`P566/630–633 and the exact preserved report163/167/382. Megumin report, Aqua gift/intention account, visible props and Kazuma inference remain separate; completed farming/permanent career collapse unshown. MAIN16U023`item/xhtml/p-015.xhtml`P1–60 supports Pierre, helper and mother dispositions; no personal alias to the earlier performer is demonstrated. New actual context ranges across five members total526slots within the current receipt only, with no new global unique-primary/full/ruby/image or independent credit.
+
+
+## Royal cohort11 return routes — 2026-10-20T08:11:12.082088+00:00
+
+The [Claire index](KONOSUBA_CLAIRE_EVIDENCE_INDEX.md) and [Rain index](KONOSUBA_RAIN_EVIDENCE_INDEX.md) bind individual agency and different model responsibilities. Shared [provenance](KONOSUBA_CLAIRE_RAIN_NATIVE_AND_DERIVATIVE_PROVENANCE_01.json) receives eleven members/eight admitted native objects and 3,285 known-source BASE context slots once. Actor/controller, direct act/report/projection, proposed/performed outcome, fee-event returns and local chronology remain typed. No global primary/full/ruby/image/admission/independent credit is added.
+
+MAIN06 C1/U012P655–676 and C2/U013P18–47; MAIN10 C2/U013P41–166; MAIN11 C1/U012P431–633 and C2/U013P6–118; MAIN15 C2/U013P429–446; MASK U015; DUST03 U013/U014; CONTEXP01/02 U013 have precise member/hash/range returns in the indexes. The source reports and original annotations remain exact. The seven hypothetical outputs are author products with disclosed defects, rather than primary-source passages or future validation.
+
+
+## Luna cohort12 — own work, relief, pressure and boundaries — 2026-10-20T08:58:31.797980+00:00
+
+[Luna monograph](../05%20Specialist%20Synthesis/KONOSUBA_LUNA_CHARACTER_MONOGRAPH.md), [four-rule model](../06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_LUNA_RECONSTRUCTION_MODEL.md), [evidence returns](KONOSUBA_LUNA_EVIDENCE_INDEX.md) and [native provenance](KONOSUBA_LUNA_NATIVE_AND_DERIVATIVE_PROVENANCE_01.json) distinguish routine service, role classification, audience leverage, limits, hoped-for company and contrary withdrawal. MASKU017P1-357/426-587; MAIN11U014P390-520,U015P60-136/495-535,U016P1-55; DUST07U011P900-930,U013P90-138,U014P110-130; YORI04U014P450-558. Shared within-receipt1033known BASEcontextslots/eight members/four objects, not independent observations or new global source credit. Bulk source text is not included.
+
+
+## Cecily and Zesta cohort13 — scoped receiving; containing publication pending
+
+Shared receiving11 hash287cf3e60b4d6c786501c8a2ef573df9ed1ee1364f98e9816beadcdaedc04f33 binds3702knownBASEcontexts/fifteen members/seven objects plus20alreadyknown EXP02 image-prose pages. Exact native/member/current-register pins are in [provenance](KONOSUBA_CECILY_ZESTA_NATIVE_AND_DERIVATIVE_PROVENANCE_01.json); current per-character events in [Cecily index](KONOSUBA_CECILY_EVIDENCE_INDEX.md) and [Zesta index](KONOSUBA_ZESTA_EVIDENCE_INDEX.md). Important returns: EXP02 U038 P1–534 and the five image interludes; MAIN04 U025 P1–94; MAIN08 U013 P130–230, U014 P370–560, U016 P1–65/P500–559, U018 P1–53; MAIN16 U013 P1–47, U015 P1–46, U016 P1–492, U017 P1–41, U018 P1–90/P290–340; CONTEXP01 U015 P96–497; CONTEXP02 U016 P1–485, U018 P1–470; DUST04 U013 P1–480. Slots include blanks/other actors, not independent trials. Further source/report routes retain earlier scopes; no new native/admission/full/ruby/image/independent credit. Individual incidental returns and unjoined roles are in the [cohort index](KONOSUBA_CECILY_ZESTA_COHORT13_CENSUS_RETURN_INDEX.md).
+
+
+## Cohort14 clergy and merchant return routes — 2026-10-20T11:12:02.861945+00:00
+
+[Event index](KONOSUBA_CLERGY_AND_MERCHANT_EVIDENCE_INDEX.md) and [native provenance](KONOSUBA_CLERGY_AND_MERCHANT_NATIVE_PROVENANCE_01.json) pin MAIN04U016P570–635/U019P1–65,P265–330; MAIN16U016P76–122; MAIN08U013P231–265/U014P245–310,P640–673/U016P485–515; CONTEXP01U015P320–355; CONTEXP02U016P430–485/U018P1–32. Earlier qualified MAIN08U013P183–230/later MAIN16 horse context are reused at unchanged scopes.534laterknownBASEcontextslots/ninemembers/fiveobjects include other actors/blanks/repetitions; zero new full/ruby/image/admission/globalunique/independent credit. Four existing records170/171/172/177 receive bounded profiles; unnamed caravan/lodging/child/workers remain adjacent return responsibilities, not hidden joins or extra profiles.
+
+
+## Cohort15 individual event access — 2026-10-20T13:11:28.160162+00:00
+
+The [Leen](KONOSUBA_LEEN_EVIDENCE_INDEX.md), [Keith](KONOSUBA_KEITH_EVIDENCE_INDEX.md) and [Taylor](KONOSUBA_TAYLOR_EVIDENCE_INDEX.md) indices join shared LP episode keys while preserving each actor. MAIN02C1 means accepted item/xhtml/p-004.xhtml; Dust05–07/continuation U identifiers, MASK and YORI04 keep their own registers and source planes. The [source-safe provenance](KONOSUBA_LEEN_PARTY_NATIVE_PROVENANCE_01.json) binds seven later receipts/2394knownBASEcontextslots/13members/7objects, including repetitions and other actors, not new unique/full/ruby/image/admission/independent coverage. Earlier DUST05 search passages use earlier qualified receiving. No final observation denominator or percentage.
+
+
+## Cohort16 Lolisa, Rionor and Feit — 2026-10-20T14:52:18.145824+00:00
+
+[Lolisa](KONOSUBA_LOLISA_EVIDENCE_INDEX.md),[Rionor](KONOSUBA_RIONOR_EVIDENCE_INDEX.md) and [Feit](KONOSUBA_FEIT_EVIDENCE_INDEX.md) own the bounded scene retrieval. [Shared provenance](KONOSUBA_LOLISA_ROYAL_DRAGON_NATIVE_PROVENANCE_01.json) binds seven pre-case receipts/2902knownBASEcontextslots/18members/7objects and a separately dated post-case20Pprecision check:2922totalcontexts/19members/7objects. Counts include other actors,blanks,reports and earlier qualified contexts,not independent observations or new global full/ruby/image/admission credit. The later check confirms DUST07U012289 contains Leen pouring,Lolisa offering food and Feit sharing; it changes no frozen model/input/body/monograph and is not backdated validation. Source-safe summaries only; no EPUB,image or full transcript bytes.
+
+
+## Cohort17 Wolbach and Chomusuke — 2026-10-20T16:06:56.617701+00:00
+
+[Wolbach](KONOSUBA_WOLBACH_EVIDENCE_INDEX.md) and [Chomusuke](KONOSUBA_CHOMUSUKE_EVIDENCE_INDEX.md) index the separate actors and access planes. [Shared provenance](KONOSUBA_WOLBACH_CHOMUSUKE_NATIVE_PROVENANCE_01.json) binds six actual known text receipts:3093distinctBASEcontextslots/twenty members/seven native objects,plus eight separately inspected EXP03 integral prose images with visible ruby. Images/text share the same EXP03object. Counts include other actors,blanks,reports and hypotheses; no new admission,globalunique/full-principal/ruby or independent source-test credit. No source media or complete transcript is published.
+
+
+## Cohort18 Sena and Arnes — 2026-10-20T17:14:33.263380+00:00
+
+[Sena index](KONOSUBA_SENA_EVIDENCE_INDEX.md) and [Arnes index](KONOSUBA_ARNES_EVIDENCE_INDEX.md),twenty-six attributable rows each,route exact MAIN03/04principal aliases and EXP02/03component windows. [Shared provenance](KONOSUBA_SENA_ARNES_NATIVE_PROVENANCE_01.json) verifies3,275knownBASEcontextslots/fifteen members/four native objects; includes collateral/blanks/reports,not independent decisions or a new whole-source/ruby/image/admission pass. Truncated MAIN03C1P161-240attempt has zero credit; only actual complete replacement windows count. No raw EPUBs,images or full transcripts enter Git.
+
+
+## Cohort19 individual crew locators
+
+The [crew index](KONOSUBA_REX_SOPHIE_TERRY_EVIDENCE_INDEX.md) has 22 Rex,nine Sophie and eight Terry rows. [Native provenance](KONOSUBA_REX_SOPHIE_TERRY_NATIVE_PROVENANCE_01.json) binds EXP03U026/U032/U034/U045 and partial CONTEXP02U013/U023 by exact native/member/register/admission hashes and actual receiving intervals. Direct names and recalled events anchor continuity; the later adjacent woman/axeman join remains qualified. Search-only absence in CONTEXP01 is not all-source absence. Known EXP03/CONTEXP02 BASE returns only:1,556 distinct context slots/six members/two native objects,including blanks,other actors,reports and hypotheses; no fresh whole-source,ruby/image,admission,independent decision,accuracy or confidence credit.
+
+
+## Cohort20 — individual village peers and attributed writer correction
+
+Cohort20 retrieval is owned by the [village-peer individual index](KONOSUBA_VILLAGE_PEERS_EVIDENCE_INDEX.md), with 42 overlapping retrieval rows and [native provenance](KONOSUBA_VILLAGE_PEERS_NATIVE_PROVENANCE_01.json). Direct/report/imagined/conditional stages remain typed. Fifteen members/eight objects/2,535 unique known BASE slots plus one actual image are shared context, not a new full-source pass or independent-event denominator.
+
+[Funifura](../05%20Specialist%20Synthesis/KONOSUBA_FUNIFURA_CHARACTER_MONOGRAPH.md) and [Dodonko](../05%20Specialist%20Synthesis/KONOSUBA_DODONKO_CHARACTER_MONOGRAPH.md) have separate monographs; [Nerimaki](../05%20Specialist%20Synthesis/KONOSUBA_COHORT20_NERIMAKI_BOUNDED_PROFILE.md) has a bounded profile. MAIN14 C3 P166–192 is Arue writer evidence; C1 P358/370 and IMG026 are Nerimaki service/imagination evidence. Three Tier0 family/operator occurrence records retain exact report/identity limits.
+
+
+## C20-CR04 — apparent potion effect and actor attribution
+
+Current retrieval for cohort20 F08/D08 and repeated medicine wording includes the [external erratum](KONOSUBA_VILLAGE_PEERS_MEDICINE_ATTRIBUTION_ERRATUM_01.md). EXP02 U023 P433: apparent effect of Megumin-made potion; contextual peer speaker assignment, no direct narrator tag. EXP01 U037 P93–98/P113–122: Arue/Megumin actual preparation roles. Reuse of already received P90–125/P431–490 windows is 96 shared known BASE context slots/two members/two objects, not an additional event or new pass. All five sealed cohort20 cores retain their hashes.
+
+
+## Cohort21 — separate agency, conditional models and attributed revision
+
+Cohort21 retrieval is owned by the [individual A/S/B/I index](KONOSUBA_ARUE_SOKETTO_BUKKORORI_EVIDENCE_INDEX.md) and [native provenance](KONOSUBA_ARUE_SOKETTO_BUKKORORI_NATIVE_PROVENANCE_01.json). Twenty members/five local native objects bind 3,154 unique known BASE contexts plus three actual earlier images; source/register/member pins and twelve actual receipt hashes retain the access chain. The 43 overlapping retrieval rows are not independent events. MAIN17 false hit contributes no Arue person evidence; two speech images remain B testimony and IMG019 a portrait.
+
+C21-CR01 [bandaging erratum](KONOSUBA_SOKETTO_BANDAGING_ATTRIBUTION_ERRATUM_01.md): EXP01 U028 P427 explicitly Yunyun, not Soketto; shop location and fortune service are separate. A04/A09 retain patch-memory contradiction/retraction. I01-I03 separately retain father promise, actual departure service and reported grandfather gift. No new whole-source/ruby/residual/image-set/admission or independent source-validation credit.
+
+
+## Cohort22 — Mitsurugi and separately bounded companions
+
+The [cohort22 individual index](KONOSUBA_MITSURUGI_COMPANIONS_EVIDENCE_INDEX.md) adds forty-seven M01-M36/S01-S04/T01-T04/I01-I03 retrieval rows. The [native provenance](KONOSUBA_MITSURUGI_COMPANIONS_NATIVE_PROVENANCE.json) records the recomputed union of 5,026 actually received known BASE slots/thirty-five text members/seventeen text objects and five actually viewed reference images in two more objects: nineteen objects total. This includes blanks/other actors and is not a new whole-source/ruby/residual/image-set/admission pass, an event denominator or independent validation.
+
+Exact member/edition routes remain distinct for MAIN01-06/09/11/14/16/17, FD, DUST01/02/03/07, YORI03 and FAN-MEM/TRPG-ADV. MAIN17C3P54 names フィオ/クレメア and P57 explicitly leaves role assignment unknown. Four fanbook images and one advanced-rulebook image do not resolve it. Literal-name retrieval over canonical objects does not exhaust images, aliases or anonymous speech. No `_duplicates`, unadmitted MAIN18, external fandom mapping or raw EPUB/image/full-text transcript is promoted into Git.
+
+
+## Cohort23: bounded Crimson parents/teacher native routes
+
+The [individual evidence index](KONOSUBA_CRIMSON_PARENTS_TEACHER_EVIDENCE_INDEX.md) and [native provenance](KONOSUBA_CRIMSON_PARENTS_TEACHER_NATIVE_PROVENANCE.json) bind49retrieval rows and70actually received windows. The actual known union is3,992 BASE context slots in22text members across MAIN01/05/11/14, EXP01/02 and CONTEXP01, plus one actual FAN-MEM S036 image in an eighth native object. The last text object is a contextual false-name hit, not new Pucchin evidence. All8native objects and current extraction-register pins were checked.
+
+MAIN14 uses OEBPS/Text/part00xx.xhtml; MAIN11 C1 fan letters are not the mother's Ep appearance or C2/C3 remittance references. EXP source-unit and native-member routes remain explicit. FAN-MEM printed34 profiles022-025 are editorial; the Wiz skilled label there differs from the novel's renowned wording, and the image is no independent trial. Truncated EXP01U023P611-675 delivery has no full-range credit; complete611-645 and646-675 replacements own that range. Corrected failed member lookup likewise has no read credit. No new whole-source/ruby/residual/image-set/admission/independent validation is claimed. No raw EPUB, image or full-text transcript enters Git; MAIN18 and duplicates remain excluded.
