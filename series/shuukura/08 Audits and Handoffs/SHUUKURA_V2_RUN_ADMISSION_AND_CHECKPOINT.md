@@ -5,13 +5,13 @@ artifact_type: execution_admission_audit
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.24"
+version: "1.25"
 status: active_provisional
 scope: "Verified foundation, bounded source admission, exposure limits and atomic recovery"
-source_boundary: "Frozen I1; LN01–09/fourBW/KSS01–12/OFF01–02 and KAK-JP-E0001–E0004 only through complete atomic commits; E0005+ and V1 unread; LN10 excluded"
+source_boundary: "Frozen I1; LN01–09/fourBW/KSS01–12/OFF01–02 and KAK-JP-E0001–E0005 through complete atomic commits; E0006+ and V1 unread; LN10 excluded"
 canonical_home: series/shuukura/08 Audits and Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md
 created: "2026-10-17"
-review_status: E0004_NATIVE_AND_BOUNDED_WITNESS_REVIEW_COMPLETED
+review_status: E0005_NATIVE_AND_BOUNDED_WITNESS_REVIEW_COMPLETED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1137,3 +1137,22 @@ Original start LN-JP-V01, terminal SHUUKURA-V2-20261017-I1, the OPEN architectur
 The current entrypoint is reduced to present routing under initiation Section3.5: dated checkpoint blocks and earlier revision notes move verbatim to the adjacent SHUUKURA_PROJECT_CHANGELOG.md, with compatibility anchors retained. Only the declared current authority/coverage-routing formulations change; no accepted source analysis or ledger row is rewritten.
 
 Current main’s owner-dispatched audit ran385 tests over9159paths. Future audits must report their actual full test inventory and exact commit; the historical352-test receipts are not new-head certification. The new integration policy reserves protected merging to a verified independent executor with shared exclusion. No such activation proof was established in this recovery, and legacy nightly apply is disabled; source analysis and ordinary source publication remain authorized. Preserve the integration limitation without changing controls or falsely claiming a main merge.
+
+
+## E0005 completion and owner stop — 2026-10-20
+
+The first home visit’s aloud task is actually performed and locally ended. The recurring per-visit5000yen offer receives after-school acceptance with holidays excluded; no new fee, repayment, loan, homework or next visit is performed. Private teacher purpose/ceiling/exit, attributed reputation, exact sex/violence wording, Miyagi-scoped school declaration, contact exchange and homeward endpoint remain actor/mode/time-specific. Historical E5 exit packets supplement later December/adult/OFF states. Fourledgers1.23 total153claimIDs/498formulations/747propositions/178rules;8CHR/10REL,2historical projections each,3readiness reviews,6new rules/1earlier rule revision,28newprops/4earlier revisions/28access/7tensions,4newclaims/4earlier revisions. All18forecasts/13historical attempts and M0.13/S0.14 noncurrent/UNTESTED remain exact; zero validated domains.
+
+Frozen I1 remains6e78ec763843f0617a178ac8a8696e799cf2654b55a28d4011595459fe47c42b: available32/458, LN9/9, accessibleSS18/18, Kakuyomu5/431 and Narō0/290. All51mandatory gaps/27discovery duties/290Narō correspondences/modality obligations/G3ledger reconciliation/required Miyagi,Sendai,Maika,Ami,Mio monographs and justified role gaps/both specialists/domain reconstruction/testing/abstention/later post-freeze V1comparison/integrated synthesis/G7release audit remain unfinished. Both OFF evidence archives remain local. LN10/E0432+ excluded; available115/458 and web108/431 quarter boundaries remain unreached.
+
+The latest owner instruction is “Finish your current analysis, push changes upstream, then pause work.” It restricts present work to completing, validating and publishing E0005; no E0006 reading, additional source discovery or synthesis is authorized. E0006 remains an unread recovery location. Actual execution pauses after this source publication and requires explicit owner resumption before another unit.
+
+The current validator compares new readings with fetched origin/main: tools/validate_repository.py RUN_CLOSURE_BASE_REF and _validate_run_admission. Because main does not yet include E5, admission must retain run_state active. This machine state covers only the already-admitted finite closeout; it does not override the owner stop. A separate interrupted_pending_recovery metadata publication becomes eligible only after genuine E5 integration makes it a no-new-admission update. Do not fabricate a main closure, repoint origin/main, weaken validation or run legacy nightly apply. The durable private pause receipt/lead records actual stopped execution after verified source publication.
+
+Protected integration requires the governed independently enforcing executor and verified shared exclusion, whose activation has not been established here. Source publication is authorized and distinct from main integration. Preserve the already green resumption source chain, then require E5’s own source audit, housekeeping and full final exact-head audit. No earlier green status certifies this new unit.
+
+Source: work1177354054894027232/episode1177354054894098046,60103bytes/SHA08fcb802d9e9ab59e177d6770787851c3aa13f817d70c768c469513ce17e0192; bodyb136340db241cea75dbe1ed6055bbdb410b2e11734bdf465d9e01fafe9599848. Full235nativep and genuine F1/F2/Q1/SOURCE_Q2;713independent native checks. Root read all finite LN01part0011p112–259, with actual revised correspondence and separately excluded comparator incidental260–280; no E6/V1. Exact original source evidence remains local. The [E5 reading](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KAK_JP_E0005_DEEP_READING.md) and [transaction audit](../08%20Audits%20and%20Handoffs/SHUUKURA_V2_KAK_JP_E0005_TRANSACTION_AUDIT.md) own recoverable locators and complete-unit evidence.
+
+Prior resumption publication is SOURCE_PUBLICATION_PASS_AWAITING_AUTHORIZED_PROTECTED_INTEGRATION, not a main closure: sourceec37b74650428be62282e2ed1185a54f171284f0/tree1b68382976544480300a3ae086036a8ca64051ed; source39524906078 → NO_OP housekeeping39525275244 → full final39525325041 actualec37,385tests/9160paths, trustedstatus56847642749. Main4825fbc310c1192ba27fab58a16484a4f518f906 was the separately verified main at entry; the later current-main reconciliation is recorded below. Private resumption SOURCE_PUBLICATION_SEQUENCE7630bytes/SHA4ce14b00977b7ddb96cb812cf55898ab6a915a7ab7e56071fadb7721e2486356 binds this completed sequence. E5 introducing commit, final source head, own audits and actual pause resolve through subsequent Git/private receipts; no future identity is self-hashed here. Earlier E4 pause/resumption entries retain their historical as-of authority.
+
+A mandatory pre-publication fetch found mainb6614b13377462f24a66a66f54d52405eeae6a29/PR258, changing only CHARACTER_ANALYSIS_INDEX.md and characters/registry.jsonl. Its owner-dispatched exact-main audit39526165244 succeeded with385tests/9159paths and trustedstatus56848183811. Ordinary local mergeb23e10c8c78d7a01c9440c86f94841eede0d9023/tree9c05a7f2957751d2485241e8ef51dfd36f6e2168 preserves the entire Shuukura subtree, all original before-images, governance/tools and all source/ledger candidate bytes. It imports the two curator-owned files exactly from new main, without rewriting source history. E5’s introducing parent is this verified recovery merge; its entry freeze still truthfully binds ec37 as the earlier actual source state. MAIN_DRIFT_RECONCILIATION and its saved full green-main log bind the later proof. This unrelated main import is not E5 integration or permission to read E6.
