@@ -17,6 +17,7 @@ sys.path.insert(0, str(TOOLS))
 
 from analytical_preflight import ROUTING_OUTPUTS, routing_preflight  # noqa: E402
 from character_index_core import AuthorityGraph, GitSnapshot, SnapshotEntry, run_git  # noqa: E402
+from completed_run_publication import PROOF_NAME, build_proof, object_id  # noqa: E402
 from validate_repository import (  # noqa: E402
     PROJECT_INITIATION_GATE_PATH,
     _is_substantive_sequential_artifact,
@@ -1445,6 +1446,232 @@ class RunAdmissionTests(unittest.TestCase):
         self.assertTrue(any("needs refs/remotes/origin/main" in e for e in self.failures(self.candidate("active", new=True))))
         with self.assertRaisesRegex(Exception, "immutable activation baseline"):
             project_initiation_baseline_paths(self.root, {"activation_baseline_commit": self.main})
+
+    def completed_batch(self, *, active=None, completed=None):
+        base = self.main
+        self.publish(active or self.candidate("active"))
+        candidate = completed or self.candidate(new=True)
+        completion = self.publish(candidate)
+        self.main = base
+        run_git(self.root, "update-ref", "refs/remotes/origin/main", base)
+        self.bind_completion(candidate, completion)
+        return candidate, completion
+
+    def bind_completion(self, candidate, completion):
+        f = self.fixture
+        proof = build_proof(candidate, f.prefix, f.entrypoint, completion)
+        path = f.prefix + PROOF_NAME
+        candidate.entries[path] = SnapshotEntry(path, "100644", (json.dumps(proof) + "\n").encode())
+
+    def test_completed_batch_and_squash_audit_without_source_objects(self):
+        candidate, completion = self.completed_batch()
+        self.assertEqual(self.failures(candidate), [])
+        squash = self.publish(candidate)
+        with tempfile.TemporaryDirectory(prefix="squashed-admission-") as directory:
+            root = Path(directory)
+            run_git(root, "init", "--quiet")
+            run_git(root, "fetch", "--quiet", "--no-tags", str(self.root),
+                    "refs/remotes/origin/main:refs/remotes/origin/main")
+            with self.assertRaises(Exception):
+                run_git(root, "cat-file", "-e", completion)
+            self.assertEqual(self.failures(GitSnapshot.from_commit(root, squash)), [])
+        self.assertEqual(self.failures(GitSnapshot.from_commit(self.root, squash)), [])
+
+    def test_completion_proof_rejects_missing_or_corrupt_historical_objects(self):
+        candidate, _ = self.completed_batch()
+        path = self.fixture.prefix + PROOF_NAME
+        original = candidate.entries[path]
+        for mutation in ("commit", "tree", "blob", "tree_hash", "blob_hash",
+                         "parent", "route", "schema", "shape"):
+            with self.subTest(mutation=mutation):
+                record = json.loads(original.data)
+                if mutation == "commit":
+                    record["commits"][record["active_commit"]] += "tampered"
+                elif mutation == "tree":
+                    record["trees"].clear()
+                elif mutation == "blob":
+                    record["blobs"].clear()
+                elif mutation == "tree_hash":
+                    rows = next(rows for rows in record["trees"].values() if rows)
+                    rows[0][2] = "0" * 40
+                elif mutation == "blob_hash":
+                    oid = next(iter(record["blobs"]))
+                    record["blobs"][oid] += "tampered"
+                elif mutation == "parent":
+                    record["commits"].pop(record["active_commit"])
+                    record["active_commit"] = self.main
+                    record["commits"][self.main] = run_git(
+                        self.root, "cat-file", "commit", self.main).decode()
+                elif mutation == "route":
+                    record["project_root"] = "series/other/"
+                elif mutation == "schema":
+                    record["schema"] = "unknown"
+                else:
+                    record["trees"] = []
+                candidate.entries[path] = SnapshotEntry(path, "100644", json.dumps(record).encode())
+                self.assertTrue(any("publication proof" in error for error in self.failures(candidate)))
+
+    def test_completion_proof_rejects_added_changed_dropped_and_retyped_readings(self):
+        for mutation in ("added", "changed", "dropped", "retyped", "nonregular"):
+            with self.subTest(mutation=mutation):
+                candidate, completion = self.completed_batch()
+                path = self.fixture.sequential
+                original = candidate.entries[path]
+                if mutation == "added":
+                    extra = self.fixture.prefix + "SOURCE_UNIT_03.md"
+                    candidate.entries[extra] = SnapshotEntry(extra, "100644", authority_markdown("deep_reading"))
+                elif mutation == "dropped":
+                    del candidate.entries[path]
+                elif mutation == "retyped":
+                    candidate.entries[path] = SnapshotEntry(path, "100644", authority_markdown("ledger"))
+                elif mutation == "nonregular":
+                    candidate.entries[path] = SnapshotEntry(path, "120000", original.data)
+                else:
+                    candidate.entries[path] = SnapshotEntry(path, "100644", original.data + b"Changed after completion.\n")
+                # Regeneration cannot launder a change: the historical blob is
+                # supplied, checked, classified, and compared with the candidate.
+                self.bind_completion(candidate, completion)
+                self.assertTrue(any("publication proof" in error for error in self.failures(candidate)))
+
+    def test_completion_proof_requires_valid_active_parent_and_unchanged_bounds(self):
+        for mutation in ("inactive", "closed", "prose_closed", "bounds", "high_water"):
+            with self.subTest(mutation=mutation):
+                active = self.candidate("active")
+                completed = self.candidate(new=True)
+                f = self.fixture
+                if mutation in {"inactive", "closed", "prose_closed"}:
+                    entry = active.entries[f.entrypoint]
+                    data = entry.data
+                    if mutation == "inactive":
+                        data = data.replace(b"run_state: active", b"run_state: blocked")
+                    elif mutation == "closed":
+                        data = data.replace(b"sequential_analysis_lock: OPEN", b"sequential_analysis_lock: CLOSED")
+                    else:
+                        data += b"\nSEQUENTIAL_ANALYSIS_LOCK = CLOSED\n"
+                    active.entries[entry.path] = SnapshotEntry(entry.path, entry.mode, data)
+                else:
+                    entry = completed.entries[f.entrypoint]
+                    old, new = ((b"terminal_boundary: V02", b"terminal_boundary: V03")
+                                if mutation == "bounds" else
+                                (b"committed_high_water_mark: V02", b"committed_high_water_mark: V01"))
+                    completed.entries[entry.path] = SnapshotEntry(entry.path, entry.mode, entry.data.replace(old, new))
+                candidate, _ = self.completed_batch(active=active, completed=completed)
+                self.assertTrue(any("active-to-completed" in error for error in self.failures(candidate)))
+
+    def test_completion_proof_cannot_override_current_or_main_active_bounds(self):
+        candidate, completion = self.completed_batch()
+        entry = candidate.entries[self.fixture.entrypoint]
+        candidate.entries[entry.path] = SnapshotEntry(
+            entry.path, entry.mode, entry.data.replace(b"terminal_boundary: V02", b"terminal_boundary: V03"))
+        self.bind_completion(candidate, completion)
+        self.assertTrue(any("operational state disagree" in error for error in self.failures(candidate)))
+        candidate.entries[entry.path] = entry
+        prior = self.candidate("active")
+        original = prior.entries[entry.path]
+        prior.entries[entry.path] = SnapshotEntry(
+            entry.path, entry.mode, original.data.replace(b"terminal_boundary: V02", b"terminal_boundary: V03"))
+        self.publish(prior)
+        self.assertTrue(any("active authorized run" in error for error in self.failures(candidate)))
+
+    def test_completion_proof_cannot_replace_blocked_interrupted_or_malformed_main(self):
+        candidate, _ = self.completed_batch()
+        self.assertEqual(self.failures(candidate), [])
+        base = self.main
+        stops = (
+            (b"run_state: completed", b"run_state: blocked"),
+            (b"run_state: completed", b"run_state: interrupted_pending_recovery"),
+            (b"run_state: completed", b"run_state: {bad: value}"),
+            (b"  run_state: completed\n", b""),
+            (b"run_state: completed\n```\n",
+             b"run_state: completed\n```\n\n```yaml\nsequential_execution:\n  run_state: active\n```\n"),
+            # A completed run that still names a next operation is inconsistent.
+            (b"next_candidate_operation: NONE_RUN_COMPLETE", b"next_candidate_operation: V03"),
+            (b"next_permitted_operation: NONE_RUN_COMPLETE", b"next_permitted_operation: V03"),
+            (b"operation: NONE_RUN_COMPLETE", b"operation: V03"),
+        )
+        for old, new in stops:
+            with self.subTest(main=new):
+                self.main = base
+                prior = self.candidate()
+                entry = prior.entries[self.fixture.entrypoint]
+                self.assertIn(old, entry.data)
+                prior.entries[entry.path] = SnapshotEntry(entry.path, entry.mode, entry.data.replace(old, new))
+                self.publish(prior)
+                # A published stop or unreadable main state keeps the ordinary
+                # route; a valid proof is never substituted for it, before or
+                # after integration.
+                errors = self.failures(candidate)
+                self.assertTrue(any("active authorized run" in error for error in errors), errors)
+                head = self.publish(candidate)
+                errors = self.failures(GitSnapshot.from_commit(self.root, head))
+                self.assertTrue(any("active authorized run" in error for error in errors), errors)
+
+    def test_stale_completion_proof_does_not_block_main_active_completion(self):
+        candidate, _ = self.completed_batch()
+        self.publish(candidate)
+        f = self.fixture
+        proof = candidate.entries[f.prefix + PROOF_NAME]
+
+        def second_run(run, *units):
+            snapshot = self.candidate(run)
+            entry = snapshot.entries[f.entrypoint]
+            data = entry.data
+            for old, new in ((b"authorized_start: V01", b"authorized_start: V03"),
+                             (b"terminal_boundary: V02", b"terminal_boundary: V04"),
+                             (b"committed_high_water_mark: V01", b"committed_high_water_mark: V03"),
+                             (b"committed_high_water_mark: V02", b"committed_high_water_mark: V04"),
+                             (b"operation: V02", b"operation: V04")):
+                data = data.replace(old, new)
+            snapshot.entries[entry.path] = SnapshotEntry(entry.path, entry.mode, data)
+            for unit in ("02", *units):
+                path = f"{f.prefix}SOURCE_UNIT_{unit}.md"
+                snapshot.entries[path] = candidate.entries.get(path) or SnapshotEntry(
+                    path, "100644", authority_markdown("deep_reading", f"Unit {unit}"))
+            snapshot.entries[proof.path] = proof
+            return snapshot
+
+        # The earlier run's proof stays tracked while a later run is published
+        # active on main and then completed through the ordinary route.
+        active = second_run("active", "03")
+        self.assertEqual(self.failures(active), [])
+        self.publish(active)
+        completed = second_run("completed", "03", "04")
+        self.assertEqual(self.failures(completed), [])
+        head = self.publish(completed)
+        self.assertEqual(self.failures(GitSnapshot.from_commit(self.root, head)), [])
+
+    def test_completion_proof_reads_commit_parents_exactly_as_git(self):
+        candidate, _ = self.completed_batch()
+        path = self.fixture.prefix + PROOF_NAME
+        original = json.loads(candidate.entries[path].data)
+        active = original["active_commit"]
+        headers, message = original["commits"][original["completion_commit"]].split("\n\n", 1)
+        unparented = [line for line in headers.split("\n") if not line.startswith("parent ")]
+        # Git reads parents only from LF-separated lines right after the tree,
+        # so neither a later header nor another line break can supply one.
+        for forged in (f"x-note  parent {active}", f"parent {active}"):
+            with self.subTest(forged=forged):
+                record = json.loads(candidate.entries[path].data)
+                text = "\n".join(unparented + [forged]) + "\n\n" + message
+                oid = object_id("commit", text.encode("utf-8"), len(active))
+                record["commits"] = {active: original["commits"][active], oid: text}
+                record["completion_commit"] = oid
+                candidate.entries[path] = SnapshotEntry(path, "100644", json.dumps(record).encode())
+                errors = self.failures(candidate)
+                self.assertTrue(any("active first parent" in error for error in errors), errors)
+
+    def test_completion_proof_preserves_nonreading_corrections_and_existing_gate(self):
+        candidate, completion = self.completed_batch()
+        path = self.fixture.infrastructure
+        original = candidate.entries[path]
+        candidate.entries[path] = SnapshotEntry(path, "100644", original.data + b"Retrospective ledger update.\n")
+        self.bind_completion(candidate, completion)
+        self.assertEqual(self.failures(candidate), [])
+        del candidate.entries[self.fixture.method]
+        self.bind_completion(candidate, completion)
+        errors = self.failures(candidate)
+        self.assertTrue(any("method" in error for error in errors), errors)
+        self.assertFalse(any("publication proof" in error for error in errors), errors)
 
 
 
