@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: character_analysis_contract
 scope: SOURCE_GROUNDED_CHARACTER_RECONSTRUCTION
-generation: V0.5
+generation: V0.6
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -21,7 +21,7 @@ Historical boundary: no character monograph was present through V03. V10's added
 | Person / horizon | First read and fidelity route | Binding scope |
 |---|---|---|
 | Natsuki Subaru, Japanese main LN V01–V10 | [Integrated model](REZERO_NATSUKI_SUBARU_V01_V10_CHARACTER_MODEL.md), then [separate first fidelity audit](../08%20Audits%20and%20Manifests/REZERO_CHARACTER_RECONSTRUCTION_FIDELITY_AUDIT.md) | MONOGRAPH_READY; local nineteen-dimension nonblind document audit PASS_WITH_BOUND. Bounded reuse subject to this operation's full publication gate, not an independent benchmark/global capability grade or cured person |
-| Otto Suwen, Japanese main LN V01–V13 | [Integrated model](REZERO_OTTO_SUWEN_V01_V13_CHARACTER_MODEL.md), then [separate scoped fidelity review](../08%20Audits%20and%20Manifests/REZERO_OTTO_SUWEN_V01_V13_FIDELITY_REVIEW.md) | MONOGRAPH_READY; local nineteen-dimension same-analyst nonblind document review PASS_WITH_BOUND, subject to this separate operation's full publication gate; no inherited/global grade or complete-series claim |
+| Otto Suwen, Japanese main LN V01–V13 | [Integrated model](REZERO_OTTO_SUWEN_V01_V13_CHARACTER_MODEL.md), then [separate scoped fidelity review](../08%20Audits%20and%20Manifests/REZERO_OTTO_SUWEN_V01_V13_FIDELITY_REVIEW.md) | MONOGRAPH_READY; local nineteen-dimension same-analyst nonblind document review PASS_WITH_BOUND, its own complete publication gate closed before V14; no inherited/global grade or complete-series claim |
 
 For the Subaru model, default is latest reached **terminal E013/death13**. A living action/dialogue task must explicitly select a supported preterminal phase and its knowledge, remembered history, recipient, role and resources. Current Rem cannot answer; generated Kenichi/Naoko are not real parents' present receipt; no E014 arrival, unobserved remedy, active IF-family biography or anime performance is supplied. The model compiles24 derived rules/28 evidence bundles/eight noncanonical probes; it adds no narrative source or canonical generated scene. Master §13 remains readiness owner and five specialist ledgers remain state authorities. Otto's different V01–V13 scope/default and separate publication gate are described below; neither model silently inherits the other's coverage.
 
@@ -31,11 +31,19 @@ For the Subaru model, default is latest reached **terminal E013/death13**. A liv
 
 V13's qualitative threshold is now fulfilled by the integrated V01–V13 model and separate scoped review linked above. They select developmental language accommodation, family/merchant/Fulfhu relations, mixed motives, older fear/competence counterexamples and current partial friendship. The 32 bundles/26 conditional rules/nine noncanonical probes are a derived use surface, not new source or a second state ledger.
 
-Otto's default is **living E018 outside the tomb while Emilia begins her renewed first trial**, with actual bodily cost, partial crisis knowledge excluding RBD/tea and confidential allied terms. Earlier-phase overrides and the distinction between his own rescue debt, Subaru-only E015 friendship/death and fresh E018 reciprocity are mandatory. Unknown preferences, absent-family lives, secret agreement contents, exact gift limits and later outcomes remain abstentions.
+Otto's default is **living E018 outside the tomb while Emilia begins her renewed first trial**, with actual bodily cost, partial crisis knowledge excluding RBD/tea and confidential allied terms. Earlier-phase overrides and the distinction between his own rescue debt, Subaru-only E015 friendship/death and fresh E018 reciprocity are mandatory. At that V13 model horizon, unknown preferences, absent-family lives, undisclosed-to-reader agreement contents, exact gift limits and later outcomes remain abstentions; V14's later reveal does not retroactively make Otto ignorant of his own terms.
 
-The separately reported nineteen-dimension review is PASS_WITH_BOUND at same-analyst/document level, without held-out source, independent runtime or global evaluator authority. Full exact-source publication remains separately required before V14. Source high-water remains V13 and its exact V14 prospect is unchanged; no future grade or source admission follows from artifact existence.
+The separately reported nineteen-dimension review is historical V01–V13 PASS_WITH_BOUND at same-analyst/document level, without held-out source, independent runtime or global evaluator authority. Its complete publication gate closed before V14; current source-facing analysis now reaches V14 subject to the V14 transaction gate, without extending this model's scope or grade. Earlier V14 prospect/source-bound construction history remains fixed.
 
-Emilia/Garfiel keep their named V10–V13 interim CHECKPOINT_READY scopes, not whole-person models or a fourth-arc endpoint. The historical Subaru model/audit stays byte-unchanged with its own V01–V10 scope/default E013; that completed earlier operation is not pending again because Otto now has a separate gate. Current readiness stays in master §13 and five specialist owners retain state authority.
+V14 newly earns Emilia construction as described next; Garfiel's named V10–V14 conditional outside-defense scope remains interim. Ram/Roswaal changed-wish and represented Beatrice/Meyer farewell cases are narrower than whole-person models. Historical Subaru10/Otto13 bytes/defaults/local grades stay unchanged; their completed gates are not pending again. No fourth-arc endpoint or sixth state owner is promoted.
+
+## Earned next operation after V14
+
+V14 now earns `EMILIA_V01_V14_MODEL_AND_FIDELITY_REVIEW` after V14's complete publication gate, not an already existing artifact. Reserve `REZERO_EMILIA_V01_V14_CHARACTER_MODEL.md` and `../08 Audits and Manifests/REZERO_EMILIA_V01_V14_FIDELITY_REVIEW.md` for that separate operation; no empty placeholders are created here.
+
+Child household/voice/promise/comfort/deception and manipulated-loss evidence joins earlier public/relational/failure breadth. Implement living E018 at FIRST-PASS/SECOND-trial threshold before supplied second contents, with older phases/recipients selectable. Emilia's privately reconstructed past is not Subaru's knowledge; she does not know all boy-side rescue events, Otto/Ram terms or Puck's Ram manifestation. Unknown adult tastes, biological mother, full contract/power facts, agreed kiss terms and unread results are abstentions, not reasons to wait for perfection.
+
+Reconcile exact older Japanese and appropriate design references, implement ordinary/relational/voice/contradiction/refusal/leakage controls and actually apply a separately reported scoped documentary review including nineteen dimensions. No independent runtime/blind benchmark/global grade or healed character is implied. The exact60-question/ten-forecast V15 horizon remains fixed; only this operation's own full gate permits V15. Master §13 remains readiness owner and existing five owners remain state authority.
 
 ## Promotion threshold
 

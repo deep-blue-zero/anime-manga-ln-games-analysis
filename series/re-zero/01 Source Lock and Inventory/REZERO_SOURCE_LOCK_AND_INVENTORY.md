@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: source_lock
 scope: SOURCE_ADMISSION_CONTRACT_AND_CURRENT_INVENTORY_STATE
-generation: V0.17
+generation: V0.18
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -447,7 +447,7 @@ V12's complete source-bound publication gate at `28c541b6c0f2c3c73a9f98f315424a5
 
 V14 and all separate non-spine narrative remain unopened. V13 §16's sixty V14 questions/ten forecasts were sealed after actual V13 EOF/before V14 and copied exactly into master; private seal SHA-256 `c851e05497b964d74e76480b50d0c4c2d150873c4b17e351b595a122cd069eb6`. Otto's earned V01–V13 model and separate fidelity review follow V13's complete publication gate and must complete their own full gate before V14 source; the prospect remains unchanged throughout. V13 becomes current authority only with its complete publication gate. Admission range, manifest/V41 exception and dated V44/V45 acquisition-gap assessment do not advance.
 
-## Post-V13 Otto model and scoped fidelity-review source boundary
+## Historical post-V13 Otto model and scoped fidelity-review source boundary
 
 V13's complete source-bound publication gate closed before this earned separate construction. The integrated `05 Character Analysis/REZERO_OTTO_SUWEN_V01_V13_CHARACTER_MODEL.md` and `08 Audits and Manifests/REZERO_OTTO_SUWEN_V01_V13_FIDELITY_REVIEW.md` now compile admitted V01–V13 evidence. They add analytical use/review artifacts, not a primary witness, new volume consumption or narrative claim generation.
 
@@ -456,6 +456,25 @@ Targeted original-Japanese reconciliation checks the earlier V05/V06 fear/commer
 The model compiles 32 retrieval bundles/26 conditional rules/nine noncanonical probes. Its separately reported same-analyst, scoped nonblind nineteen-dimension documentary review is PASS_WITH_BOUND, not a blind benchmark, inherited Subaru grade or global capability assessment. Default is living E018 outside the tomb while Emilia begins the renewed first trial. Own cult-rescue debt, Subaru-only E015 history and current E018 reciprocity remain separate; undisclosed agreement contents, private preferences, infinite resources and unread outcomes remain bounded.
 
 All thirteen VNN freezes/two checkpoints, historical Subaru model/first audit, five specialist owners and 216 current V13 claim formulations remain unchanged. Source high-water stays V13. Both next-operation fields route V14 only after this operation's own full publication gate. The exact sixty-question/ten-forecast V14 prospect remains unchanged; V14 and all separate nonspine narrative stay unopened. Admission range, manifest/V41 exception, dated V44/V45 acquisition-gap assessment and active terminal V43 do not advance.
+
+## Volume 14 consumption record
+
+V13's full source gate at `a49cac9a52002130a64939bbc9121fceeba5c76a` and Otto13's separate full gate at `636c3d1d084250c6e4efc4c8185479e5b7763541` both closed before first V14 archive access. Otto source audit39511361098, completed NOOP housekeeping39511785191, final actual-source full385-test audit39511838323 and exact-source success/status controlled opening. Displayed dispatch main metadata was not substituted for audited source. Both historical model/review pairs remain unchanged.
+
+`RZ-MAIN-LN-JA-V14` was actually consumed in ordered OPF spine through final p-bookwalker:44members/3906nonemptypositions=3883TEXT+23positionedIMAGErefs/22distinctoriginalresources. Both logo positions were viewed. Narrative3826text/front-back57;48boundedtextdeliveries/23originalimage-positionviews/zero gaps. Late p024B255–301 was only credited after a context-truncated delivery was reacquired whole. Structural ZIP/OPF counts and CRC were separate identity checks, not reading proof. Source remained read-only; private notes/images/receipts remain untracked.
+
+- file/title: `Re Zero - Volume 14.epub`; `Re：ゼロから始める異世界生活 14`;
+- size/SHA256:10,009,892bytes / `1ec6f16a115b020b3239b41bcb0ec767c9f5528559c5fe4c4a76ac49026b7358`;
+- package/language/creators/publisher: `item/standard.opf`; `ja`; 長月　達平 / 大塚　真一郎; KADOKAWA / メディアファクトリー;
+- UUID:`37db7704-8a90-40ed-8d7c-b2a48f94aa27`;81ZIPentries/CRCpass/first compressed mimetype method8 observed nonfatal;
+- manifest:unchanged23,584bytes/SHA256 `3daa190cefda6ab894f5d62ff547a93856c8133f2d4fc1cbc552b99d73c73314`, exact admitted size/hash/title match; no individual DriveID/ISBN/OPFdate invented;
+- observed edition:p-colophonB4/B8 electronic issue/basis first edition-first print2017-09-25; p027afterwordAugust2017;
+- analytical product:`02 Sequential Readings/REZERO_LN_V14_DEEP_READING.md`; §1 exact coverage/locators, §12claims, §13all216predecessors, §14all60incomingquestions, §2tenforecasts;
+- incoming prospect:exact60questions/10forecasts fixed after V13EOF/before V14, SHA256 `c851e05497b964d74e76480b50d0c4c2d150873c4b17e351b595a122cd069eb6`, preserved through prior Otto operation and now adjudicated;
+- reached state:E018alive/17deaths18segments, Emilia FIRST PASS/SECOND START, actual Petra/sibling/library contacts and both fights begun; no all-site rescue/evacuation, barrier, cast snow/Rabbit result, wager or Arc4end;
+- outgoing prospect:exact60V15questions/10forecasts sealed after actualEOF/before anyV15opening, SHA256 `f1959a017cb1e123e40a4d193d9c1b99bf098038f948946db19bc4c7dfc2498c`.
+
+V15 and separate nonspine narrative remain unopened. V14 becomes committed authority only with the full synchronized publication gate; then the earned EMILIA_V01_V14_MODEL_AND_FIDELITY_REVIEW must complete its own full gate before V15. Its reserved derived artifacts do not consume/admit source15 or silently change Subaru10/Otto13 scope. Admission range, manifest/V41exception, datedV44/V45gaps and activeterminalV43 remain unchanged. Advertised shortstories/artbook/WN/anime are not opened.
 
 ## Current source-state summary
 
@@ -467,7 +486,7 @@ All thirteen VNN freezes/two checkpoints, historical Subaru model/first audit, f
 - **Admitted IF/alternate route:** none.
 - **Admitted web novel:** none.
 - **Admitted anime/audiovisual:** none.
-- **Consumed into prospective main-LN analysis:** V01-V13; V13's complete publication gate closed before the separately scoped Otto model/review. Construction adds no source or narrative high-water.
+- **Consumed into prospective main-LN analysis:** V01–V14 actual source reading; V14 high-water advances only through this synchronized transaction's complete publication gate. Historical V13/Otto13 gates closed before V14.
 - **Next source acquisition priority:** Japanese V44 and V45 before the sequential read reaches that boundary.
-- **Next analytical operation:** `V14` only after the Otto model/review operation's own complete publication gate. Its sixty-question/ten-forecast prospect remains exactly sealed; V14 is unopened.
-- **Current execution state:** active continuous run/terminal V43 unchanged. Historical V01–V10 Subaru model/audit stays unchanged/default E013, not current E018 coverage; Otto's bounded V01–V13 model/separate scoped review now exist with local PASS_WITH_BOUND, subject to their own full publication gate, not a global grade. E018 alive/seventeen deaths/eighteen segments; Garfiel's first passes and Emilia's renewed first begins. No death18/E019, repaired gate, complete secret-plan receipt, fulfilled wager, accepted formal Echidna bargain, second/third pass, barrier/mansion/Beatrice rescue, real-parent message, active IF-family, arc/series ending or adaptation finding is implied.
+- **Next analytical operation:** `EMILIA_V01_V14_MODEL_AND_FIDELITY_REVIEW` after V14's full gate, own full gate before V15. The exact sixty-question/ten-forecast V15 prospect remains sealed; V15 is unopened.
+- **Current execution state:** active continuous terminal V43 unchanged. Historical Subaru10/default E013 and Otto13/default V13livingE018 model/review pairs remain unchanged/local nonblind PASS_WITH_BOUND, not automatic V14/global grades. E018alive/17deaths18segments; Emilia FIRST PASS/SECOND START, partial rescue and begun fights only. No death18/E019, gate repair, full camp RBD/tea, restored Rem, accepted Beatrice exit, whole rescue/evacuation, barrier/wager/Arc4 or series ending/adaptation finding is implied.

@@ -1,11 +1,11 @@
 ---
 series: RE_ZERO
 artifact_type: specialist_longitudinal_ledger
-scope: MAIN_LN_EVENT_STATES_DURABILITY_AND_CARRY_FORWARD_THROUGH_V13
-generation: V1.7
+scope: MAIN_LN_EVENT_STATES_DURABILITY_AND_CARRY_FORWARD_THROUGH_V14
+generation: V1.8
 status: canonical
 release_state: mutable_active
-current_source_horizon: V13
+current_source_horizon: V14
 recommended_reasoning_class: SUBSTANTIVE_ANALYSIS
 supersedes: []
 superseded_by: []
@@ -21,11 +21,15 @@ This is the sole maintained cumulative event-state/durability home from the V06 
 
 Promotion is earned by interacting kinds of change, not a numerical loop count: V06 erases memories/material traces inside a still-living state, later restores to a checkpoint, carries some earlier events but not later contracts, and aliases local labels across volumes. The ledger owns when an event occurs, what ends or changes, and what survives. Knowledge owns proposition holders/false beliefs, mechanics causal models, institution rules/resources and the V09-promoted relationship ledger state-selected personal continuity; master owns person/readiness and routing.
 
-Only Japanese MAIN_LN V01–V13 is consumed; all nonspine witnesses remain unadmitted/unopened. Generated parent/aftermath and V13 family-proxy trials are representations, not additional returns or actual counterpart receipt. V14 remains unopened through the complete V13 gate and the earned Otto V01–V13 construction/review operation's own gate. The unchanged Subaru model/first audit retains historical default E013; this owner's current coordinate is continuing E018,17 deaths/18 segments. Retrieval is corpus map → master router → current row → frozen VNN section/claim → exact hashed source.
+Only Japanese MAIN_LN V01–V14 is consumed; nonspine witnesses remain unadmitted/unopened. Past Meyer/Elior reconstructions and explicit parallel backfills are not new returns or actual absent-counterpart receipt. Both historical model/review pairs remain source-bounded. Current E018 is alive at Subaru's library entry,17 deaths/18 segments. V15 remains sealed through V14 publication and the earned separate Emilia V01–V14 construction/review gate. Retrieval remains corpus map → master router → row → frozen unit → exact witness.
 
 ## 1. State identity and counting rules
 
 `VNN-EN` labels belong to frozen volume analyses. The `RZ-E-NNN` identifiers below are assigned at this V06 migration to connect continuing world-state segments without renaming those historical labels. A volume boundary, blackout, implied day change, liminal scene or teleport is not itself a new restoration. These identifiers count analytical world-state segments, not a proved ontology of destroyed/parallel universes.
+
+Through V14 there are seventeen actual Subaru deaths and eighteen arrived analytical segments. E018 continues to Petra contact, actual sibling reunion and uninvited Beatrice library entry; Emilia FIRST PASSES then SECOND STARTS, both site fights only begin. No death18/E019, completed extraction/evacuation, barrier release, snow/Rabbit outcome, fulfilled wager or Arc4 ending is supplied. V14 §3/C001/C047/C064/C079/C090/C120/C166/C213 owns the latest distinction.
+
+Historical V13 counting boundary:
 
 Through V13 there are seventeen actual Subaru deaths and eighteen actually arrived analytical segments. V12's actual E017/E018 arrivals and deaths16/17 stand; E018 continues through bodily tea waking, ordinary sleep/collapse/waking, shared work and Emilia's renewed first trial confronting Echidna. No death18/E019 is shown. Garfiel resolves his first; no second/third pass, barrier/mansion/Beatrice rescue, fulfilled Roswaal wager or Arc4 ending is established. Tongue injury/repair and first-trial representations add no returns. V13 §3/C001–003/C047/C077/C156/C205/C213–215 owns the distinction; V12's E016/E017 terminal evidence is unchanged.
 
@@ -52,7 +56,7 @@ Historical V10 counting boundary, retained without fitting in later arrival evid
 | `RZ-E-015` / `V11-E2` | same tomb point after death14; private disclosure to Garfiel/Shima, capture, three days' detention, collective rescue, tiger pursuit, original-stone transfer, snowbound empty settlement | death15 by rabbit consumption; NOT Garfiel killing Subaru. Otto/five youths/Patrasche die; Ram and other missing-person fates remain bounded | superseded; restored hands/white cloth differ from retained fear. Current-state friendship is not inherited by a new Otto; original crystal transfer retains captivity injuries/dirty cloth and adds no return | V11 §3/C001/C040/C102/C113–121; `p-008#B0007–0028`; `p-013#B0063–0105`; `p-015#B0001–0015` |
 | `RZ-E-016` / `V11-E3 → V12-E1` | reconstitution after death15; second tea/local disclosure/paid remembered agreement; continuing shadow, Garfiel's rescue and actual death, engulfment and cloth-supported coherence | V12 actually ends the segment with self-stabbing/death16; Garfiel's death and copy explosions are not Subaru deaths | superseded by E017; Subaru retains tea/shadow/face/self-stabbing, not every swallowed person's independently checked fate. Roswaal's private V11 coda remains unreceived even though later repetition knowledge is received by another route | V11 §3/C111–130; V12 §§3–4/C001/C003/C034/C129; V12 `p-001`; `p-003#B0118–0196` |
 | `RZ-E-017` / `V12-E2` | actual tomb arrival after death16; Emilia comfort, withheld qualification, facility/command right, night walk, refused Otto offer, day2 solo departure and mansion evacuation; Beatrice conversation/death, injury-retaining teleport, snow/Roswaal/Rabbit | actual death17 after Rabbit wounds/bleeding; terminal kiss follows loss of conscious sensation | superseded by E018; Subaru carries observations/reports/inferences separately. No current counterparts inherit outing, secrecy order, evacuation terms, book conversation, murders or dependent declaration. No post-Subaru Emilia death directly witnessed | V12 §3/C001/C014/C031/C040/C053/C102/C136–147; `p-003#B0180–0196`; `p-013#B0131–0159`; `p-016#B0476–0509`; `p-018#B0003–0014` |
-| `RZ-E-018` / `V12-E3 → V13 continuing` | same-tomb arrival/restored eye; V12 examination/third tea/refusal continues into V13 seven-Witch encounter, bodily waking, current friendship/partial briefing, accepted wager, Puck contract loss/promise breach, parallel delay, costly collective fight and renewed first trials | latest alive: Garfiel first resolved, Emilia renewed first confronts Echidna;17 deaths/18 segments, no death18/E019, second/third pass, barrier/mansion/Beatrice rescue or Arc4 end | current shared acts differ from Subaru-retained E017; actual gate loss, wound care, unshared subplans, ambiguous kiss and outstanding apology persist; family proxy is not actual absent counterpart receipt | V12 §§3/9/C001/C047/C077/C126/C148–156 unchanged; V13 §§3–9/C001–003/C031/C047/C077/C083/C106/C115/C134–136/C156–216; exact source routes in V13 §12 |
+| `RZ-E-018` / `V12-E3 → V14 continuing` | V12 arrival/V13 tea and costly shared work continue into V14 parallel history accounts, actual first-trial pass, failed patron negotiation, cart departure and split intervention | latest alive at Beatrice library; Emilia FIRST PASS/SECOND START, Ram/Puck and Garfiel/Elsa fights begun;17 deaths/18 segments, no death18/E019 | actual Petra contact, sibling reunion and uninvited library entry are partial progress, not complete rescue/evacuation, barrier release, book destruction, wager or Arc4 end; represented history/ordinary backfill add no return | V12 §§3/9/C001/C047/C077/C126/C148–156 unchanged; V13 §§3–9/C001–003/C031/C047/C077/C083/C106/C115/C134–136/C156–216; exact source routes in V13 §12; latest V14 §3/C001/C047/C064/C079/C090/C120/C166/C213; p-020#B0182–0199; p-024#B0039–0050/B0281–0301; p-026#B0130–0147/B0273/B0340–0359 |
 
 These summaries do not make every former death or knowledge claim current-world biography. The full frozen argument controls ambiguous attribution. Precheckpoint chronological placement is not immunity from later within-state memory loss: the new erasure of Rem's recognition can disrupt remembered relationships without showing the Whale battle or every earlier material event physically undone.
 
@@ -334,6 +338,45 @@ Unqualified locators here belong to V13. The historical V12 matrix immediately a
 | absent mansion / future crisis | old encounters/reports remain distinct; Roswaal admits mansion commission/schedule | no V13 mansion census/rescue, Beatrice priority assent, all older crimes proved or Rabbit extinction |
 | next operation | V13 source high-water; earned Otto V01–V13 construction/review follows full V13 gate | V14 prospect fixed/unopened until that subsequent operation's own complete publication gate |
 
+### V14 continuing E018 — represented past, parallel backfill and partial rescue
+
+Unqualified routes here are V14. Both prior V12/V13 matrices stay verbatim. None of the represented history, explicit backfill or Emilia trial transitions adds a Subaru death/return.
+
+| transition | actual sequence / presentation | durability / nonreturn limit |
+|---|---|---|
+| Meyer history represented | Shima's arranged other-person trial fragments narrate pre-core household/emergency choice | no current time travel, shared copy autobiography, verified Roswaal death or witnessed Hector ending; p-006/p-008/p-010#B0001–0026 |
+| Elior history represented | child household→invasion→key refusal→Fortuna death→freeze/edit | past reconstruction includes unwitnessed scenes under attributed Book correction, not current rescue/frozen-person census; p-001–p-020 |
+| first result/waking | Emilia affirms choice, Echidna acknowledges FIRST, actual tomb-wall waking | no Subaru return, remaining two passes, actual forest thaw or complete grief relief; p-020#B0182–0232 |
+| parallel group account | outside listeners receive Shima story and comfort another Ryuzu; Shima sleeps | narrative slight rewind is not RBD; no all-copy knowledge/mana death; p-006#B0003/B0027–0063; p-010 |
+| Roswaal negotiation | Garfiel answers for himself; Subaru offers withdrawal/cooperation; Roswaal refuses | no surrender/forgiveness/canceled attack; earlier performance and wounds persist; p-021#B0121–0197/B0324–0341 |
+| individual exit/travel | two-dragon cart departs, Otto drives/Garfiel supports; Garfiel later at mansion | particular outside arrival does not remove barrier or move all refugees; p-021#B0356–0449; p-026#B0271 |
+| refugee choice | unnamed headwoman/people choose bounded wait/trust Emilia | no convoy, completed reunion, compensation or indefinite sacrificial assent; p-021#B0413–0429 |
+| material handoff | Subaru passes hard object to Ram, hidden in maid outfit | object unnamed until Puck manifestation; no retroactive V13 reader receipt; p-021#B0436–0441; p-024#B0293 |
+| petition/second entry | Ram asks Emilia save Roswaal; Emilia chooses speech then begins SECOND | only current Ram/Emilia/Roswaal exchange, no second contents/result or boys' first-pass receipt; p-022; p-024#B0039–0050 |
+| Otto/Ram backfill | last-night E018 agreement's three clauses finally disclosed to readers | old V13 horizon unchanged; Otto already knew own terms, Subaru still not told why; p-024#B0110–0189 |
+| oath backstory | nine-year Ram/Roswaal revenge/loyalty agreement is disclosed | not a new return or proof all earlier attackers share client; blank Rem not recovered; p-024#B0219–0244 |
+| core confrontation | book carried/stowed, snow concentration announced, uncontracted Puck manifests | one-night aid and BEGIN battle, not snow cast/book destroyed/wager victory/Emilia contract; p-024#B0257–0301 |
+| Petra danger | ordinary work→wake/escape order→Rem detour→Elsa blade blocked | Petra not cut/killed then revived; Frederica actual defense precedes final extraction; p-026#B0003–0104 |
+| Petra found | second detour seeks Beatrice; exhausted child actually meets Subaru/cloth | received current comfort/return, not outing fulfilled or spell summons; p-026#B0108–0147 |
+| sibling reunion/duel | Garfiel intercepts, real Frederica reunion, shoulder cut/counterhit; Elsa stands | partial rescue and BEGIN duel, no final combat result/verified mother fate; p-026#B0178–0271 |
+| assigned Rem evacuation | Garfiel asks Frederica carry sleeping Rem; they separate roles | task not completed on page, name/twin instruction not old shared memory; p-026#B0238–0271 |
+| cart council backfill | four rescue targets, admitted adversary dependence, ground-contact recovery | explicit slight rewind; wound healing not blood/mana/stamina replacement; p-026#B0273–0338 |
+| library/EOF | Subaru enters uninvited and promises outdoor play; Beatrice holds self/book | actual reached Beatrice, no accepted visitor/first-priority agreement/exit; p-026#B0340–0359 |
+
+| carry-forward responsibility | latest reached boundary | not yet established |
+|---|---|---|
+| body/count | Subaru alive E018 at library,17 deaths/18 segments; collapsed gate has no repair | no death18/E019 or inherited all-party memory |
+| trials | Emilia FIRST PASS/SECOND START; Subaru/Garfiel old first passes remain | no supplied second/third result or barrier release |
+| mansion | Petra found, Frederica alive/wounded, Rem asleep/evac task, Beatrice reached | no all-safe census/accepted Beatrice exit/completed Rem/village evacuation |
+| conflicts | Ram/Puck–Roswaal and Garfiel–Elsa begun; book still held | no snow cast/Rabbit solution/wager/Arc4 end |
+| next operation | V14 high-water only on full transaction closure; Emilia construction/review earned | V15 sealed/unopened through both V14 and separate model/review gates |
+
+### Preserved V13 E018 current-row wording — superseded as current above
+
+| historical state | sequence | reached state then | durability | historical route |
+|---|---|---|---|---|
+| `RZ-E-018` / `V12-E3 → V13 continuing` | same-tomb arrival/restored eye; V12 examination/third tea/refusal continues into V13 seven-Witch encounter, bodily waking, current friendship/partial briefing, accepted wager, Puck contract loss/promise breach, parallel delay, costly collective fight and renewed first trials | latest alive: Garfiel first resolved, Emilia renewed first confronts Echidna;17 deaths/18 segments, no death18/E019, second/third pass, barrier/mansion/Beatrice rescue or Arc4 end | current shared acts differ from Subaru-retained E017; actual gate loss, wound care, unshared subplans, ambiguous kiss and outstanding apology persist; family proxy is not actual absent counterpart receipt | V12 §§3/9/C001/C047/C077/C126/C148–156 unchanged; V13 §§3–9/C001–003/C031/C047/C077/C083/C106/C115/C134–136/C156–216; exact source routes in V13 §12 |
+
 ## 5. Timing, falsifiers and maintenance
 
 Subaru reconstructs a roughly four-and-a-half-day/fifth-morning horizon, with about two usable days after travel costs (V06 `p-002#B0016–0021`; `p-024#B0078–0080`). This is planning testimony based on imperfect retained experience, not an exact universal trial clock. V06's last room is the same checkpoint-day evening; preparation is a flashback, not a second day or reset. V05's prologue similarly belongs to E2's cave scene rather than a separate state.
@@ -359,3 +402,4 @@ Reopen a row when the source changes checkpoint, demonstrates another retainer o
 | V11 actual successors and distinct costs | E014/E015/E016 actually arrive; Elsa death14/rabbit death15; collective rescue, captivity, barrier transfer and local tea disclosure have different durability |16 arrived segments/15 deaths; twelve prior freezes and bounded V10 model/audit unchanged; no capture/fragmentation death, own death16, E017, all-person fate census, old lesson inherited by everyone or Subaru receipt of private Roswaal words |
 | V12 actual successors / represented aftermaths | E016 closes at self-stabbing16, actual E017 then Rabbit-wound death17/actual E018; injury-retaining teleport, commanded copy losses, trial construction, interrupted/refused bargain and Envy arrival distinguished |18 arrived segments/17 deaths, E018 alive; thirteen prior freezes/model/audit unchanged. No additional trial deaths, verified parallel ontology, mutual inherited promises, complete casualty census, current Rem awakening, completed Beatrice rescue, second/third pass or V13 access before full publication |
 | V13 continuing E018 / distinct transitions | tea completion/body waking, fresh friendship, wager/contract loss/promise breach, secret allied delay, gate collapse/invisible strike/collective victory, living reunions, Garfiel first pass and Emilia renewed first |17 deaths/18 segments, no E019;14 predecessor freezes and historical Subaru model/audit unchanged. Maternal fate/proxy knowledge, kiss assent/apology and rescue outcomes bounded; Otto construction/review next after full V13 gate, V14 sealed/unopened |
+| V14 continuing E018 / partial intervention | represented Meyer/Elior histories, explicit parallel backfills, actual first pass/second start, failed negotiation, departure, living contact and two begun fights |17 deaths/18 segments; no E019/complete rescue/wager/Arc4 end. V13 matrix and all older states unchanged; separate Emilia construction/review follows full V14 gate, V15 stays sealed |
