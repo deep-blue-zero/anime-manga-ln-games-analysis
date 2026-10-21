@@ -1,0 +1,297 @@
+{
+  "schema": "KONOSUBA_CLERGY_AND_MERCHANT_NATIVE_PROVENANCE_V1",
+  "recorded_utc": "2026-10-20T11:08:45.458953+00:00",
+  "source_boundary": "Accepted unchanged MAIN04/08/16/CONTEXP01/02 local native EPUB objects; known BASE bounded returns only.",
+  "published_source_at_preparation": "9904a30d88aadc00d8d5748a28e1bc1be3d43eef",
+  "qualified_source_member_returns": [
+    {
+      "source": "MAIN-04",
+      "unit": "U016",
+      "member": "item/xhtml/p-004.xhtml",
+      "member_sha256": "5cb48cef90dcdc1419a9bf6bcb815043d55b9ebf7fdeb01d439139f033b9322e",
+      "native_sha256": "1ae1f38228b10cd46e1aa8124dfb369bb2f7507e4cccc709cfa35b3b302c7fa6",
+      "register_sha256": "0378a7648acf9b1caa4a061cc2c9cc8bb7979d2ca2161ab5f2a6d96d1da579a3",
+      "cache_sha256": "c1bb727669220299b136cbb05d0d0e81469c4cd381b0c59ead748d67d3304e2e",
+      "actual_complete_BASE_windows": [
+        [
+          570,
+          635
+        ]
+      ],
+      "within_receipt_context_slots": 66,
+      "later_receiving_packet": 1
+    },
+    {
+      "source": "MAIN-04",
+      "unit": "U019",
+      "member": "item/xhtml/p-007.xhtml",
+      "member_sha256": "8d1119bc818f8df065a9efa77420778cb889f544e583d0bf6b2968248e145bf8",
+      "native_sha256": "1ae1f38228b10cd46e1aa8124dfb369bb2f7507e4cccc709cfa35b3b302c7fa6",
+      "register_sha256": "0378a7648acf9b1caa4a061cc2c9cc8bb7979d2ca2161ab5f2a6d96d1da579a3",
+      "cache_sha256": "f952a515df7aa1725eebe8f65d2fbc263411482e1c079c32cf87153232786b94",
+      "actual_complete_BASE_windows": [
+        [
+          1,
+          65
+        ],
+        [
+          265,
+          330
+        ]
+      ],
+      "within_receipt_context_slots": 131,
+      "later_receiving_packet": 1
+    },
+    {
+      "source": "MAIN-16",
+      "unit": "U016",
+      "member": "item/xhtml/p-008.xhtml",
+      "member_sha256": "352391e223c1fcf189eea740f0fcbecee08b961f27aa320afa79c18b4d4cbe26",
+      "native_sha256": "7d8b2f5152716e0351dc6919abaa347c8504562d49ab9a748fdf3dc8db522df1",
+      "register_sha256": "6bc806d44b6f9b4f5c8ffb0e8bcf0e22dda766a3e082a9d76ea276b97880a806",
+      "cache_sha256": "1b255bafa9ebb050b9bacc022f3f4826b4a1b8578e1dd10a6b826d07dfc30472",
+      "actual_complete_BASE_windows": [
+        [
+          76,
+          122
+        ]
+      ],
+      "within_receipt_context_slots": 47,
+      "later_receiving_packet": 1
+    },
+    {
+      "source": "MAIN-08",
+      "unit": "U013",
+      "member": "text/part0011.html",
+      "native_sha256": "ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e",
+      "member_sha256": "3bae2777b371ccbd101c49a54b0dc5bcff8c6b966e354a741e0e2221bf3f9e98",
+      "register_path": "10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V08_EXCLUDED_COMPONENT_REGISTER.json",
+      "register_sha256": "ee2a658a50019d041a54769ee53b3353f88bdc4bf1632f2203a18564fd7a5b8c",
+      "cache_sha256": "b600e251518ef6165a427e0787b460a00b9c6d27235516855d1cd97c1bd1b410",
+      "actual_complete_BASE_windows": [
+        [
+          231,
+          265
+        ]
+      ],
+      "within_receipt_context_slots": 35,
+      "later_receiving_packet": 2
+    },
+    {
+      "source": "MAIN-08",
+      "unit": "U014",
+      "member": "text/part0012.html",
+      "native_sha256": "ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e",
+      "member_sha256": "85f37b44972ef42c48be09c971b6a7534911e8f3820e33e0544a642b7312166c",
+      "register_path": "10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V08_EXCLUDED_COMPONENT_REGISTER.json",
+      "register_sha256": "ee2a658a50019d041a54769ee53b3353f88bdc4bf1632f2203a18564fd7a5b8c",
+      "cache_sha256": "59a9c459725ea7341d4a55244a07ec5d0e61697ec75eb7a1ecaccfde0c957a19",
+      "actual_complete_BASE_windows": [
+        [
+          245,
+          310
+        ],
+        [
+          640,
+          673
+        ]
+      ],
+      "within_receipt_context_slots": 100,
+      "later_receiving_packet": 2
+    },
+    {
+      "source": "MAIN-08",
+      "unit": "U016",
+      "member": "text/part0014.html",
+      "native_sha256": "ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e",
+      "member_sha256": "8e0471cea86790dfc08d99c05442c28065dee47a452c4d46e3e12cbf2dc0e0f6",
+      "register_path": "10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V08_EXCLUDED_COMPONENT_REGISTER.json",
+      "register_sha256": "ee2a658a50019d041a54769ee53b3353f88bdc4bf1632f2203a18564fd7a5b8c",
+      "cache_sha256": "9eda2a8102993cab6ef683320191cf63e775be3820865354accbd2682b430d49",
+      "actual_complete_BASE_windows": [
+        [
+          485,
+          515
+        ]
+      ],
+      "within_receipt_context_slots": 31,
+      "later_receiving_packet": 2
+    },
+    {
+      "source": "CONTEXP-01",
+      "unit": "U015",
+      "member": "item/xhtml/p-006.xhtml",
+      "native_sha256": "60962eb6d9d10c2c640846c22749ebad305180beb6af1a41c9b05ef76b4fa51f",
+      "member_sha256": "fddde7e2b79954035eb31215c302cf1e38c851ef5156117f530fc308557d7984",
+      "register_path": "10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V01_COMPONENT_REGISTER.json",
+      "register_sha256": "8c31cb78d30d549864623f781fad193e5457b9b0cad722fe5e1cb45dcf7a3120",
+      "cache_sha256": "d720044c70a5a0c21b8b6c0e2f16112939731042e1e1f8784b6e24069b097050",
+      "actual_complete_BASE_windows": [
+        [
+          320,
+          355
+        ]
+      ],
+      "within_receipt_context_slots": 36,
+      "later_receiving_packet": 2
+    },
+    {
+      "source": "CONTEXP-02",
+      "unit": "U016",
+      "member": "OEBPS/Text/part0014.xhtml",
+      "native_sha256": "ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267",
+      "member_sha256": "980106fc3a72fab31bb3cf3b5d7e849c678bd37b1f0151dac1711308f79bcc76",
+      "register_path": "10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V02_COMPONENT_REGISTER.json",
+      "register_sha256": "7d2db19645e0660d86b0eae2e9043c270fa1699426bfc2eac488bebc73f6ba8b",
+      "cache_sha256": "6ca63afef27c3ab04b1622389a20a87af83ca5e6115d6536e9590d97fac4bfe5",
+      "actual_complete_BASE_windows": [
+        [
+          430,
+          485
+        ]
+      ],
+      "within_receipt_context_slots": 56,
+      "later_receiving_packet": 2
+    },
+    {
+      "source": "CONTEXP-02",
+      "unit": "U018",
+      "member": "OEBPS/Text/part0016.xhtml",
+      "native_sha256": "ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267",
+      "member_sha256": "224a107ccf68f82ce7ed516f39058ae40ff2c353fb15f5d63e41bc9b253693ad",
+      "register_path": "10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V02_COMPONENT_REGISTER.json",
+      "register_sha256": "7d2db19645e0660d86b0eae2e9043c270fa1699426bfc2eac488bebc73f6ba8b",
+      "cache_sha256": "2db128794de6e4a8999b78cf93f74dc1b5da726c73df60a42dbf96fd8398d935",
+      "actual_complete_BASE_windows": [
+        [
+          1,
+          32
+        ]
+      ],
+      "within_receipt_context_slots": 32,
+      "later_receiving_packet": 2
+    }
+  ],
+  "later_receiving_packet_sha256": [
+    "544f3231b439aaacac37081c74c6b07f67e2affc7f998b5dd3c7535cf553874a",
+    "e191bd608cacec7df26320f74c17a6476fdf765b92f6b76451e5013cebc52e11"
+  ],
+  "known_BASE_context_slots": 534,
+  "context_count_limit": "Five native objects/nine members across these two later packets. Other actors/blanks/transitions and repeats of earlier receiving are included; not a global unique count, independent decisions, whole volume or full/ruby/image completion.",
+  "truncation_control": "Earlier attempted MAIN08 U013 P231-290/P291-350 produced a context-truncated tool result and receive zero fresh credit. This receipt credits only P231-265 from a later complete output; P266-350 remain outside its scope. Lead-number scans are retrieval only.",
+  "earlier_reused_receiving11_sha256": "287cf3e60b4d6c786501c8a2ef573df9ed1ee1364f98e9816beadcdaedc04f33",
+  "reused_source_scope": "Earlier complete qualified MAIN08 U013 P183-230 and later MAIN16 horse context retain exact hashes and original declared scope. Reuse is derivative/context continuity, not new independent credit.",
+  "profile_record_indices": [
+    170,
+    171,
+    172,
+    177
+  ],
+  "new_model_or_exercise_bodies": 0,
+  "twenty_published_models_preserved": [
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_AQUA_RECONSTRUCTION_MODEL.md",
+      "bytes": 64491,
+      "sha256": "2f63ef1000c74a2bf105c3cfbbd4258f39e8abe9cf1544fac25768673f17c430"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CECILY_RECONSTRUCTION_MODEL.md",
+      "bytes": 20405,
+      "sha256": "34843fd30838efdc83d54f686795e23bd76730920137746aa8978729891a72a5"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CHRIS_ERIS_RECONSTRUCTION_MODEL.md",
+      "bytes": 24777,
+      "sha256": "213de30d6bfab2fb3a9d2c47c2158b6425a598814b92caa855913f08bd997083"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CLAIRE_RECONSTRUCTION_MODEL.md",
+      "bytes": 18435,
+      "sha256": "386b2e7c5df610e83bbf9fec58a8c9485132d6f28b8abb65a3658142de6b08d1"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+      "bytes": 51278,
+      "sha256": "3bec39a1014c50c6704e920b076076ecd2d82ffab0f987fd379844cc68783ee1"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_DARKNESS_RECONSTRUCTION_MODEL.md",
+      "bytes": 62581,
+      "sha256": "e54f45b3aaa74197e76ec917888416b08683ef2b7194586ba060b93979e78bc9"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_DUST_RECONSTRUCTION_MODEL.md",
+      "bytes": 20922,
+      "sha256": "3ef260ea7a64f350c8c09448020a96e18ed0eed75af5acd417193805bff8655f"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_HOOST_RECONSTRUCTION_MODEL.md",
+      "bytes": 25873,
+      "sha256": "e973e7f325238ab71fa0e10e3588d32c8fc3bf03dd827bb32e9120789c4742c7"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_IRIS_RECONSTRUCTION_MODEL.md",
+      "bytes": 20464,
+      "sha256": "75afb94b5723af3620ea5fabe1d8a7c742645bb56de938c605a3d11999a42c29"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+      "bytes": 61516,
+      "sha256": "6fe7b325666e339ed86edba70f8d1f9491705f66a6ecdc31eeb44a5bed7a89e4"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_KOMEKKO_RECONSTRUCTION_MODEL.md",
+      "bytes": 21826,
+      "sha256": "0be5bfa9097547a3d705b5a8216dd395f714382b65f6fa4cad499504641065c0"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_LEVI_RECONSTRUCTION_MODEL.md",
+      "bytes": 23809,
+      "sha256": "dd3b48dba631c87e7c0fe604f0cb5a94dd618e5e77b9d2c781491b6c7b7b3c46"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_LUNA_RECONSTRUCTION_MODEL.md",
+      "bytes": 23199,
+      "sha256": "7d071db906bd88e6e14b305705825a11c253f99eb66e6ee26644c4523bded2c9"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_MEGUMIN_RECONSTRUCTION_MODEL.md",
+      "bytes": 60891,
+      "sha256": "cbff1ec4266e8d6908b3d58af9870aa7f981fe40f3a573ed29da345e1f1d801f"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_PARTY_INTERACTION_MODEL.md",
+      "bytes": 67885,
+      "sha256": "cf2082e63718e1c51c171fb9225b0be5da603c1e85900f397c36e233af6d3f8e"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_RAIN_RECONSTRUCTION_MODEL.md",
+      "bytes": 19139,
+      "sha256": "3d62cb9fc0958b86cc9edef8479036483f4cb0d752f63c599beab3719d689637"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_VANIR_RECONSTRUCTION_MODEL.md",
+      "bytes": 25561,
+      "sha256": "081b6bef4df5584837d2a6fb565f746aa3d9c00a3c925c592596d2d3bb3186df"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_WIZ_RECONSTRUCTION_MODEL.md",
+      "bytes": 24361,
+      "sha256": "b8248785ff01251738798121a3ac1eea06b576913c1ea436e97fc22720146b89"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_YUNYUN_RECONSTRUCTION_MODEL.md",
+      "bytes": 25474,
+      "sha256": "4565a9089c9bac6c6f694469f27920d26f9ab1b44275c62c7160692575c765eb"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_ZESTA_RECONSTRUCTION_MODEL.md",
+      "bytes": 20868,
+      "sha256": "f7c966bf93a3c788a697f9b2da55f01b6b221d52ca9a95d63df45401632de0a0"
+    }
+  ],
+  "first_outputs_inputs_original_indices_and_histories": "No mutation or score/confidence/capability/Japanese-performance gain.",
+  "new_global_unique_full_ruby_image_admission_or_independent_credit": 0,
+  "global_census_closed": false,
+  "full_program_complete": false
+}

@@ -1,0 +1,94 @@
+{
+  "schema": "konosuba.scoped-secondary-internal-assessment.v1",
+  "recorded_utc": "2026-10-20T14:42:40.321184+00:00",
+  "subject": "Lolisa",
+  "scope": "Same-informed-author source-known hypothetical consistency examination, not independent behavioral validation. Model/source/input author also wrote and now assesses the actual replies.",
+  "input_freeze_sha256": "10d27036466feec9450988b7cf3c36b86feee5b94f3c56e5b9316538cc4d9112",
+  "actual_first_body_freeze_sha256": "001e4469731174d0a1d6396cb04b5631412cee8b52bdb3aaecf8484c1cfcbcad",
+  "actual_first_output_file_sha256": "03d730f5c68b464272cb136bac8bfbc4b391f6a934b63eb47cf9b3bfdd61a23c",
+  "model_sha256": "e493e89c2a9d12196d80cd9ad007e8e4063d02ce04dc7b70136171896d404475",
+  "rule_inventory_sha256": "64e3ac50c4e383a6028550b28160e5129c65f707a0e152f3f0a1f85596cd4aef",
+  "body_count": 4,
+  "regenerations": 0,
+  "pairs": [
+    {
+      "pair_id": "H01",
+      "cases": [
+        "LOLISA-H01A",
+        "LOLISA-H01B"
+      ],
+      "actual_result": "With verified Vanir provenance she volunteers to help and holds out a palm for the offered cloth. With verified new-stock provenance she declines work and turns toward an exit. No actual gift handover or labeling completion is narrated.",
+      "conditional_consistency": "A visible answer/effort difference is consistent with R01 particular-valued association. Because the gift is available without helping, the first answer is a freely added favor, not payment logically required by the packet.",
+      "rivals_and_identifiability": "Generic fandom, souvenir valuation, reciprocity, a scene-specific wish and the informed author’s knowledge explain the same contrast. It does not identify motive weights, establish uniquely Lolisa behavior, isolate admiration from object provenance or demonstrate broad truth discrimination.",
+      "input_defects": [
+        "The common packet contains the formatting typo spend45minutes, interpreted as45minutes. It is identical in both inputs, retained without repair, and is not a new behavioral finding.",
+        "Both variants provide reliable verified facts, so the pair does not test resistance to an unverified claim or detection of a counterfeit.",
+        "No serious danger, refusal by another person or costly career conflict is supplied."
+      ],
+      "language_or_generation_limits": "Ordinary English, with a terse rejection in B; no canonical Japanese voice or native-human adequacy finding. The A cleaning-rag concern is a generated local elaboration, not new source evidence.",
+      "result_class": "ILLUSTRATIVE_LOCAL_CONTRAST_UNDERIDENTIFIED"
+    },
+    {
+      "pair_id": "H02",
+      "cases": [
+        "LOLISA-H02A",
+        "LOLISA-H02B"
+      ],
+      "actual_result": "With assent she tells Leen to help and grips the chair back. With refusal she dismisses Keith’s answer, asks Leen to turn him around and reaches past his hands to grip the chair back. No actual completed forced movement, Leen compliance, recording or interview is shown.",
+      "conditional_consistency": "The refusal branch preserves harmful pressure and preparation for override, compatible with R03 selective complicity. It does not turn her into an ethical gate. The physical endpoint is essentially the same grip in both conditions.",
+      "rivals_and_identifiability": "Generic peer pressure, workplace impatience, the supplied irritation/coalition or author priming can explain the result. No calibrated refusal threshold, necessary causal role for Vanir or specific inherited rule weight is established.",
+      "input_defects": [
+        "The variant changes both the spoken answer and the stated hand posture. Wording and posture are not causally isolated.",
+        "The task deliberately supplies coalition, irritation and work interest, so it cannot identify which controls the choice.",
+        "The model allows several branches; this one authored harmful response cannot estimate their rates."
+      ],
+      "language_or_generation_limits": "The B spoken stop-making-a-scene line is dismissive and supplies no valid consent. Retain it as an adverse choice. Similar physical action despite changed answer limits evidence of response sensitivity; do not score a neat opposite or invent a completed act.",
+      "result_class": "HARMFUL_FIRST_REPLY_RETAINED_NO_CLEAN_ACTION_OPPOSITION"
+    }
+  ],
+  "rule_coverage": [
+    {
+      "rule_id": "LOLISA-R01",
+      "scope": "H01 illustrates a recognized particular-object incentive under otherwise safe conditions. No broad preference hierarchy, dangerous-job threshold or change over time is tested."
+    },
+    {
+      "rule_id": "LOLISA-R02",
+      "scope": "Largely unprobed: no actual information-gathering skill, failed target classification, real deception detection or completed professional task is elicited. The target labels on input packets are not coverage proof."
+    },
+    {
+      "rule_id": "LOLISA-R03",
+      "scope": "H02 illustrates one other-person-boundary override branch. Own credible fear, request for help, respected exit and recovery are unprobed."
+    }
+  ],
+  "defect_classes_separated": {
+    "input": [
+      "H01 formatting typo retained",
+      "H02 answer/posture compound change",
+      "Provided facts and aims strongly constrain both pairs"
+    ],
+    "model": [
+      "Generic/role rivals remain",
+      "Thresholds and weights unidentified",
+      "Most R02 and own-threat R03 claims unprobed"
+    ],
+    "output": [
+      "H02 same preparatory grip under assent and refusal",
+      "H02B harmful dismissive speech; not repaired",
+      "No completed outcomes inferred"
+    ],
+    "language": [
+      "English only; no new Japanese adequacy finding"
+    ],
+    "assessment": [
+      "Same informed author and known outcomes; possible response directions anticipated while authoring inputs",
+      "No independent score, calibrated rate, human judgment or prospective source test"
+    ]
+  },
+  "all_first_body_bytes_preserved": true,
+  "model_or_inputs_repaired_after_outputs": false,
+  "source_prediction_accuracy_established": false,
+  "confidence_or_grade_gain": false,
+  "original_scores_modified": false,
+  "further_observation_needed": "Genuinely prospective or independently assessed comparable choices would be needed for validation. More illustrative cases are not automatically more independent evidence.",
+  "full_program_complete": false
+}

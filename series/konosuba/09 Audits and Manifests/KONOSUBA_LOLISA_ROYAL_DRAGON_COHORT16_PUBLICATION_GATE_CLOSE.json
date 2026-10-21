@@ -1,0 +1,250 @@
+{
+  "schema": "KONOSUBA_LOLF_ROYAL_DRAGON_COHORT16_PUBLICATION_GATE_CLOSE_V1",
+  "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+  "closed_utc": "2026-10-20T15:27:20.274975+00:00",
+  "actual_source_commit": "5ec165a0b9a209ad3d8781e751a3feb4064484e7",
+  "tree": "7e0431ff118502689b4e3f2bab0d4901b8c06975",
+  "all_remote_paths_equal": 9314,
+  "all_changed_blob_streams_equal": 33,
+  "authored_or_carried_project_paths": 33,
+  "source_audit": {
+    "run": 39445400476,
+    "job": 118705840880,
+    "actual_source": "5ec165a0b9a209ad3d8781e751a3feb4064484e7",
+    "paths": 9314,
+    "full_tests": 385,
+    "all5_non_success_zero": true,
+    "selection_enabled": false,
+    "log_sha256": "4118c399b584c5e7ec2c9e9ece163110d64b433b745dbb9906b95736a40f85e4",
+    "completion_evidence_qualification": {
+      "governing_requirement": "CHANGE_INTEGRATION_CHECKLIST stable analytical publication sequence steps1 and5; completed exact-source execution, housekeeping and final exact-source status are separately required.",
+      "verification_basis": "Completed-success exact workflow run, terminal full audit/test reports, terminal isolated status reporter and exact-source status history all verified. Job API metadata remains recorded verbatim and is not relabelled complete.",
+      "actions_job_metadata_observed": [
+        {
+          "id": 118705840880,
+          "name": "Read-only integrity and publication audit",
+          "status": "completed",
+          "conclusion": "success",
+          "started_at": "2026-10-20T15:06:46Z",
+          "completed_at": "2026-10-20T15:12:38Z"
+        },
+        {
+          "id": 118708993377,
+          "name": "Report the result on the audited commit",
+          "status": "completed",
+          "conclusion": "success",
+          "started_at": "2026-10-20T15:12:41Z",
+          "completed_at": "2026-10-20T15:12:46Z"
+        }
+      ],
+      "job_metadata_not_relabelled_completed_or_success": true,
+      "reporter_job": 118708993377,
+      "reporter_log_sha256": "a210cfb7d6aa3c89504c04a57f1bbec2f47c9942f3a67754942232c42882598a",
+      "actual_exact_source_status": {
+        "url": "https://api.github.com/repos/deep-blue-zero/anime-manga-ln-games-analysis/statuses/5ec165a0b9a209ad3d8781e751a3feb4064484e7",
+        "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "id": 56799350422,
+        "node_id": "SC_kwDOUJ9ads8AAAANOYFOlg",
+        "state": "pending",
+        "description": "Authored content passed; awaiting housekeeping and final audit",
+        "target_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39445400476",
+        "context": "Repository integration audit",
+        "created_at": "2026-10-20T15:12:42Z",
+        "updated_at": "2026-10-20T15:12:42Z",
+        "creator": {
+          "login": "github-actions[bot]",
+          "id": 41898282,
+          "node_id": "MDM6Qm90NDE4OTgyODI=",
+          "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+          "html_url": "https://github.com/apps/github-actions",
+          "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+          "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+          "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+          "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+          "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+          "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+          "type": "Bot",
+          "user_view_type": "public",
+          "site_admin": false
+        }
+      },
+      "canonical_governance_validation_or_workflows_changed": false
+    }
+  },
+  "housekeeping": {
+    "verified_utc": "2026-10-20T15:14:31.452382+00:00",
+    "actual_SOURCE_SHA": "5ec165a0b9a209ad3d8781e751a3feb4064484e7",
+    "run": 39446324144,
+    "job": 118709089358,
+    "result": "NO_OP",
+    "exact_final_source_dispatch_verified": true,
+    "log_sha256": "3b3db971d401f74091edea46b29e5ea1adff9dbfe93adf6baa70e732a2540f70",
+    "workflow_run_metadata_head": "c5646c50f8e7cc0b7ea6ac79204cd3e2558bb5a5",
+    "started_at": "2026-10-20T15:12:52Z",
+    "completed_at": "2026-10-20T15:13:19Z",
+    "selected_actual_lines": [
+      "  BRANCH_NAME: series/konosuba",
+      "  SOURCE_SHA: 5ec165a0b9a209ad3d8781e751a3feb4064484e7",
+      "  BRANCH_NAME: series/konosuba",
+      "  SOURCE_SHA: 5ec165a0b9a209ad3d8781e751a3feb4064484e7",
+      "  BRANCH_NAME: series/konosuba",
+      "  SOURCE_SHA: 5ec165a0b9a209ad3d8781e751a3feb4064484e7",
+      "PASS: dispatched the full audit for 5ec165a0b9a209ad3d8781e751a3feb4064484e7",
+      "PASS: unchanged routing and branch boundaries verified; final audit dispatched"
+    ],
+    "completed_run_terminal_evidence_and_stale_job_metadata_qualification": {
+      "completed_success_run_verified": true,
+      "terminal_cleanup_and_exact_source_NO_OP_dispatch_verified": true,
+      "observed_job_metadata": {
+        "id": 118709089358,
+        "status": "completed",
+        "conclusion": "success",
+        "started_at": "2026-10-20T15:12:52Z",
+        "completed_at": "2026-10-20T15:13:19Z"
+      },
+      "job_metadata_not_relabelled_completed_or_success": true,
+      "governance_or_workflows_changed": false
+    }
+  },
+  "final_audit": {
+    "run": 39446399201,
+    "job": 118709352059,
+    "actual_source": "5ec165a0b9a209ad3d8781e751a3feb4064484e7",
+    "paths": 9314,
+    "full_tests": 385,
+    "all5_non_success_zero": true,
+    "selection_enabled": false,
+    "log_sha256": "4e36361623b645c5627344e00461e3f4ea7429a872b9e58c4c177c439a1e3884",
+    "displayed_workflow_head_metadata": "c5646c50f8e7cc0b7ea6ac79204cd3e2558bb5a5",
+    "completion_evidence_qualification": {
+      "governing_requirement": "CHANGE_INTEGRATION_CHECKLIST stable analytical publication sequence steps1 and5; completed exact-source execution, housekeeping and final exact-source status are separately required.",
+      "verification_basis": "Completed-success exact workflow run, terminal full audit/test reports, terminal isolated status reporter and exact-source status history all verified. Job API metadata remains recorded verbatim and is not relabelled complete.",
+      "actions_job_metadata_observed": [
+        {
+          "id": 118709352059,
+          "name": "Read-only integrity and publication audit",
+          "status": "completed",
+          "conclusion": "success",
+          "started_at": "2026-10-20T15:13:22Z",
+          "completed_at": "2026-10-20T15:19:01Z"
+        },
+        {
+          "id": 118712376350,
+          "name": "Report the result on the audited commit",
+          "status": "completed",
+          "conclusion": "success",
+          "started_at": "2026-10-20T15:19:04Z",
+          "completed_at": "2026-10-20T15:19:07Z"
+        }
+      ],
+      "job_metadata_not_relabelled_completed_or_success": true,
+      "reporter_job": 118712376350,
+      "reporter_log_sha256": "19a5f840be86177a4d009aebb31274a8c34c16428dfed7450ab303bbe602a77e",
+      "actual_exact_source_status": {
+        "url": "https://api.github.com/repos/deep-blue-zero/anime-manga-ln-games-analysis/statuses/5ec165a0b9a209ad3d8781e751a3feb4064484e7",
+        "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "id": 56799993481,
+        "node_id": "SC_kwDOUJ9ads8AAAANOYseiQ",
+        "state": "success",
+        "description": "Exact commit passed the repository audit",
+        "target_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39446399201",
+        "context": "Repository integration audit",
+        "created_at": "2026-10-20T15:19:06Z",
+        "updated_at": "2026-10-20T15:19:06Z",
+        "creator": {
+          "login": "github-actions[bot]",
+          "id": 41898282,
+          "node_id": "MDM6Qm90NDE4OTgyODI=",
+          "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+          "html_url": "https://github.com/apps/github-actions",
+          "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+          "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+          "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+          "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+          "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+          "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+          "type": "Bot",
+          "user_view_type": "public",
+          "site_admin": false
+        }
+      },
+      "canonical_governance_validation_or_workflows_changed": false
+    }
+  },
+  "exact_commit_status": {
+    "url": "https://api.github.com/repos/deep-blue-zero/anime-manga-ln-games-analysis/statuses/5ec165a0b9a209ad3d8781e751a3feb4064484e7",
+    "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+    "id": 56799993481,
+    "node_id": "SC_kwDOUJ9ads8AAAANOYseiQ",
+    "state": "success",
+    "description": "Exact commit passed the repository audit",
+    "target_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39446399201",
+    "context": "Repository integration audit",
+    "created_at": "2026-10-20T15:19:06Z",
+    "updated_at": "2026-10-20T15:19:06Z"
+  },
+  "source_branch_head": "5ec165a0b9a209ad3d8781e751a3feb4064484e7",
+  "current_main": "c5646c50f8e7cc0b7ea6ac79204cd3e2558bb5a5",
+  "current_main_incorporated_in_source": true,
+  "source_main_integration_not_asserted": true,
+  "new_source_admission": false,
+  "stable_revision": "CR-SECONDARY-COHORT16-001",
+  "scoped_secondary_model_subjects": 18,
+  "scoped_bounded_profile_subjects": 15,
+  "scoped_monograph_only_subjects": 3,
+  "new_model_bodies": 1,
+  "twenty_three_entering_model_bodies_unchanged": true,
+  "current_model_bodies": 24,
+  "next": "Continue full individual/event/alias/incidental census, evidence-proportionate artifacts, expanded specialists, six versioned principal/party/transfer revisions, designated curation/integration and component/release/final-entry audits.",
+  "new_model_scope": {
+    "subjects": [
+      "Lolisa"
+    ],
+    "new_models": 1,
+    "rules": 3,
+    "source_known_conditional_candidates": true,
+    "prior_twenty_three_preserved": true,
+    "actual_first_bodies": 4,
+    "regenerations": 0,
+    "independent_accuracy_or_confidence_gain": false,
+    "generic_rivals_partial_coverage_compound_input_and_invariant_chair_action_retained": true,
+    "capability_grade": null,
+    "monograph_only_subjects": [
+      "Rionor",
+      "Feit"
+    ],
+    "future_Tier3_not_prohibited": true
+  },
+  "census_comparison": {
+    "canonical_worktree_baseline_rows": [
+      17,
+      18,
+      19
+    ],
+    "untouched_relative_worktree": 184,
+    "parent_source_rows": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "untouched_relative_parent": 181,
+    "private_working59_sha256": "463eb8c4ab2f7710f58aab61d4e6408bf63481a0de4c5afc564297722bbf4da6",
+    "new_rows": 0
+  },
+  "candidate_manifest_sha256": "6e5a92419988e514845ff9f58ddc1eb1e413d15b436e8a1c18ff7528773ed80d",
+  "semantic_receiving_sha256": "35f3fed444caf7fd021e9728bd5ba918b63fccb798a26ad0c67d084a6a2ef1db",
+  "full_program_complete": false
+}

@@ -1,0 +1,34 @@
+{
+  "schema": "KONOSUBA_ZESTA_INTERNAL_ASSESSMENT_V1",
+  "assessed_utc": "2026-10-20T10:12:11.063500+00:00",
+  "same_informed_model_author_case_designer_body_author_and_assessor": true,
+  "model_sha256": "f7c966bf93a3c788a697f9b2da55f01b6b221d52ca9a95d63df45401632de0a0",
+  "inputs_sha256": "f0d65ca170258e603580ae24b2ff8abe459fd6974c1a05c2f6a5ee4e8b3558c6",
+  "prebody_contract_sha256": "9d35522e72b1fb8857117a60cfe4e92c20fd0f2c8b4cd44a2ab565cef30f0a17",
+  "exact_first_outputs_sha256": "8ddcf6f1ee9d95e427e6cae796af89aade57504267150a53b75c0505d2500b10",
+  "actual_first_bodies": 4,
+  "actual_pairs": 2,
+  "observations": [
+    {
+      "pair": "ZESTA-H01A/B",
+      "actual_difference": "A takes the familiar witness report directly into a serious reply; B mentions passerby and uses if it is Aqua-sama, retaining uncertainty. Both leave for the exit and forgo the possible card game.",
+      "what_it_does_not_show": "Action is invariant. No actual arrival, repair, verified message or protection is performed. Because a five-minute check has little cost and there is no competing duty, this pair cannot establish a threshold for credibility or a uniquely Aqua-specific priority; no non-Aqua control exists.",
+      "packet_precision_and_defects": "A narration calls the card game planned, mildly overstating a packet where Zesta was still deciding. Preserve this stage imprecision. A question/reported concern is not independently observed Aqua distress; B explicitly remains conditional. No remote detection or new magic is supplied.",
+      "underidentified": "The explicit name and designed cases prime devotion. Ordinary religious concern, helpful investigation or generic curiosity also fit. No failed divergence is reclassified as a demonstrated strong credibility filter."
+    },
+    {
+      "pair": "ZESTA-H02A/B",
+      "actual_difference": "Both perform the explicitly available Heal and the packet-authorized local wound closure. A schedules invited religious talk; B discounts a settled refusal and suggests he will be persuasive later.",
+      "what_it_does_not_show": "No withheld emergency care, forced membership, actual later recruitment, payment or successful persuasion. The farewell resentment case cannot be extended into a universal emergency refusal law. Same healing does not establish a universal moral floor.",
+      "packet_precision_and_defects": "B no need to decide treats a stated decision as unsettled; preserve that boundary-discounting. Permission for Heal is real, and no new Oren agreement is supplied. Both action sentences say supplied local effect, a metatextual author-control phrase rather than natural scene prose; retain as style defect. The replies are tidy and less digressive than much source speech.",
+      "underidentified": "Generic pushy priest fits. Usable healing was explicitly guaranteed by the packet, so these outputs do not test spell competence, suppression awareness or real-world medical skill."
+    }
+  ],
+  "result": "LIMITED_SOURCE_KNOWN_INTERNAL_EXERCISE_WITH_RETAINED_DEFECTS_AND_LIVE_RIVALS",
+  "rules_not_independently_isolated": "Four named rules interact. Positive skill, perceived opportunity, impression management, faith, companion desire and context are not independently weighted or estimated.",
+  "first_bodies_and_frozen_models_unchanged": true,
+  "regeneration_or_model_repair_count": 0,
+  "source_accuracy_Japanese_acoustic_capability_grade_confidence_gain": null,
+  "next_evidence": "Use genuine new source evidence or separately authorized independent evaluation for stronger claims; no retrospective repair to these bodies. Further versioned successors can narrow a rule when evidence requires.",
+  "full_program_complete": false
+}
