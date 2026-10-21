@@ -167,6 +167,7 @@ class SnapshotIOTests(unittest.TestCase):
         # fixture deletable before exercising the same missing-history check.
         missing_object.chmod(0o600)
         missing_object.unlink()
+        self.assertFalse(missing_object.exists())
         with self.assertRaises(core.DomainError):
             core.GitSnapshot.from_commit(self.root, commit, paths=["file"])
         self.assertEqual(self.git("-C", str(source), "cat-file", "-p", blob), b"original")
