@@ -2602,8 +2602,15 @@ def validate_project_initiation_gate(
                 _execution_state(previous.data, entrypoint) if previous else ({}, [])
             )
             prior_run = prior_state.get("run_state")
+            # Main's completion must itself pass the ordinary consistency rules
+            # (for example, both next operations NONE) before a proof replaces it.
+            prior_inconsistent = _validate_run_admission(
+                GitSnapshot(snapshot.root, "MAIN_RUN_STATE", {entrypoint: previous}),
+                entrypoint, None, admission=False, strict=True,
+            ) if previous else []
             if (admissions and isinstance(run_state, str) and run_state in TERMINAL_RUN_STATES
-                    and not prior_errors and ("run_state" not in prior_state or (
+                    and not prior_errors and not prior_inconsistent
+                    and ("run_state" not in prior_state or (
                         isinstance(prior_run, str) and prior_run in TERMINAL_RUN_STATES))):
                 proved_previous, proof_errors = _completed_publication_previous(
                     snapshot, project_prefix, entrypoint, classification,

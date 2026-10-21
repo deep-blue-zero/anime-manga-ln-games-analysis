@@ -1584,17 +1584,26 @@ class RunAdmissionTests(unittest.TestCase):
             (b"  run_state: completed\n", b""),
             (b"run_state: completed\n```\n",
              b"run_state: completed\n```\n\n```yaml\nsequential_execution:\n  run_state: active\n```\n"),
+            # A completed run that still names a next operation is inconsistent.
+            (b"next_candidate_operation: NONE_RUN_COMPLETE", b"next_candidate_operation: V03"),
+            (b"next_permitted_operation: NONE_RUN_COMPLETE", b"next_permitted_operation: V03"),
+            (b"operation: NONE_RUN_COMPLETE", b"operation: V03"),
         )
         for old, new in stops:
             with self.subTest(main=new):
                 self.main = base
                 prior = self.candidate()
                 entry = prior.entries[self.fixture.entrypoint]
+                self.assertIn(old, entry.data)
                 prior.entries[entry.path] = SnapshotEntry(entry.path, entry.mode, entry.data.replace(old, new))
                 self.publish(prior)
                 # A published stop or unreadable main state keeps the ordinary
-                # route; a valid proof is never substituted for it.
+                # route; a valid proof is never substituted for it, before or
+                # after integration.
                 errors = self.failures(candidate)
+                self.assertTrue(any("active authorized run" in error for error in errors), errors)
+                head = self.publish(candidate)
+                errors = self.failures(GitSnapshot.from_commit(self.root, head))
                 self.assertTrue(any("active authorized run" in error for error in errors), errors)
 
     def test_stale_completion_proof_does_not_block_main_active_completion(self):

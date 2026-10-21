@@ -76,7 +76,7 @@
         "tools/tests/test_project_initiation_gate.py",
         "governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md"
       ],
-      "purpose": "Never substitute a valid proof for a blocked, interrupted, partial, malformed or contradictory run state on main."
+      "purpose": "Never substitute a valid proof for a blocked, interrupted, partial, malformed, contradictory or inconsistently completed run state on main, before or after integration."
     },
     "test_project_initiation_gate.RunAdmissionTests.test_stale_completion_proof_does_not_block_main_active_completion": {
       "group": "regression",
