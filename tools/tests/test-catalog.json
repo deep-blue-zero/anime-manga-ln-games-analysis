@@ -498,6 +498,48 @@
       ],
       "purpose": "fixture baseline handles inherited pending root without changing content"
     },
+    "test_analytical_preflight.AnalyticalPreflightTests.test_fixture_baseline_restores_published_reconstruction_outputs": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_analytical_preflight.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Restore unpublished reconstruction outputs to the published bytes in the CLI fixture baseline under an unchanged policy, preserving every other authored byte."
+    },
+    "test_analytical_preflight.AnalyticalPreflightTests.test_fixture_baseline_keeps_outputs_when_the_candidate_amends_policy": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_analytical_preflight.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Keep a candidate's reconstruction outputs and policy in the CLI fixture baseline when it amends the policy, exactly as the validator exempts that delta."
+    },
+    "test_analytical_preflight.AnalyticalPreflightTests.test_cli_fixture_does_not_mix_unpublished_reconstruction_outputs": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_analytical_preflight.py",
+        "tools/*.py"
+      ],
+      "purpose": "An evaluator-branch model, with unpublished reconstruction outputs under the integration base's policy, still yields a CLI fixture whose delta against that base never mixes those outputs with the synthetic root."
+    },
+    "test_analytical_preflight.AnalyticalPreflightTests.test_cli_fixture_from_a_policy_amending_checkout": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_analytical_preflight.py",
+        "tools/*.py"
+      ],
+      "purpose": "From a checkout that amends the reconstruction policy, the CLI fixture keeps its valid outputs and validates under the exemption, and the evaluator-branch model built from it still isolates those outputs."
+    },
     "test_analytical_preflight.AnalyticalPreflightTests.test_cli_pending_then_materialized_integration": {
       "group": "live_corpus",
       "smoke": false,
@@ -4549,6 +4591,180 @@
         "governance/repository-controls/nightly-integration-policy.json"
       ],
       "purpose": "Resolving analytical prose may preserve a clean, separately authored curation import."
+    },
+    "test_reconstruction_capability.ReadinessCertificationTests.test_empty_selection_never_certifies_readiness": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Fail strict readiness verification on an empty selection while the plain report still succeeds."
+    },
+    "test_reconstruction_capability.ReadinessCertificationTests.test_only_a_current_reviewed_selection_certifies": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Certify only a nonempty CURRENT_REVIEWED selection; unknown IDs exit 2 and staleness exits 1."
+    },
+    "test_reconstruction_capability.ReadinessCertificationTests.test_deferred_work_requires_a_checkpoint": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Reject deferred subjects without the checkpoint needed to detect their changes."
+    },
+    "test_reconstruction_capability.ReadinessCertificationTests.test_deferred_subject_returns_after_evidence_bytes_change": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Requeue a deferred subject end to end when its evidence bytes change without a discovery edit."
+    },
+    "test_reconstruction_capability.DeferredEvidenceChangeTests.test_byte_change_without_discovery_edit_is_detected": {
+      "group": "reconstruction_capability",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Detect a reviewed evidence byte change for a deferred subject without any discovery metadata change."
+    },
+    "test_reconstruction_capability.DeferredEvidenceChangeTests.test_authority_change_without_byte_change_is_detected": {
+      "group": "reconstruction_capability",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Detect an authority classification change caused by another artifact's supersession edge."
+    },
+    "test_reconstruction_capability.DeferredEvidenceChangeTests.test_unrelated_change_does_not_requeue_a_deferred_subject": {
+      "group": "reconstruction_capability",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Leave a deferred subject deferred when only unrelated files change."
+    },
+    "test_reconstruction_capability.DiscoveryBranchConfinementTests.test_two_file_curation_delta_passes": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Accept a character-registry delta containing only the two discovery outputs."
+    },
+    "test_reconstruction_capability.DiscoveryBranchConfinementTests.test_any_other_path_on_the_curation_branch_fails": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Reject a character-registry delta that also changes analytical evidence."
+    },
+    "test_reconstruction_capability.DiscoveryBranchConfinementTests.test_staged_index_is_checked_before_commit": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Apply discovery branch confinement to a staged index before commit."
+    },
+    "test_reconstruction_capability.DiscoveryBranchConfinementTests.test_audit_applies_confinement_only_to_the_curation_branch": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        ".github/workflows/*"
+      ],
+      "purpose": "Bind confinement to character-registry audits only, keeping analytical-branch repairs admitted by housekeeping."
+    },
+    "test_reconstruction_capability.DiscoveryBranchConfinementTests.test_dispatch_style_audit_confines_unmerged_curation_history": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Confine an unmerged curation commit audited without the explicit flag, as an exact-commit dispatch is."
+    },
+    "test_reconstruction_capability.DiscoveryBranchConfinementTests.test_older_unmerged_curation_commit_is_still_confined": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Confine an older unmerged curation commit after the live branch ref has advanced."
+    },
+    "test_reconstruction_capability.DiscoveryBranchConfinementTests.test_curation_history_already_on_main_is_not_confined": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Skip confinement for curation history that main already contains."
+    },
+    "test_reconstruction_capability.DiscoveryBranchConfinementTests.test_other_branches_and_a_missing_curation_ref_are_not_confined": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Leave other branches and repositories without a curation ref unconfined unless confinement is requested."
+    },
+    "test_reconstruction_capability.DiscoveryBranchConfinementTests.test_audit_fetches_live_curation_ref_and_fails_closed": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        ".github/workflows/*"
+      ],
+      "purpose": "Bind the audit to fetching the live curation ref and to failing on any error other than an absent branch."
     }
   }
 }
