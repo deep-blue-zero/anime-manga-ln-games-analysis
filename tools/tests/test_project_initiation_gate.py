@@ -76,19 +76,6 @@ class ProjectInitiationGateTests(unittest.TestCase):
         run_git(cls.history_root, "update-index", "--cacheinfo", f"120000,{cls.reading_blob},{cls.sequential}")
         run_git(cls.history_root, "commit", "--quiet", "-m", "Nonregular historical reading")
         cls.nonregular_commit = run_git(cls.history_root, "rev-parse", "HEAD").decode().strip()
-        # In-memory candidates validate against this disposable main, never the
-        # live checkout's: main's grants, run stops and registry are not fixtures.
-        cls.main_directory = tempfile.TemporaryDirectory(prefix="project-gate-main-")
-        cls.addClassCleanup(cls.main_directory.cleanup)
-        cls.main_root = Path(cls.main_directory.name)
-        run_git(cls.main_root, "init", "--quiet")
-        run_git(cls.main_root, "config", "user.name", "Gate fixture")
-        run_git(cls.main_root, "config", "user.email", "fixture@example.invalid")
-        empty_tree = run_git(cls.main_root, "write-tree").decode().strip()
-        cls.unrelated_main = run_git(
-            cls.main_root, "commit-tree", empty_tree, input_bytes=b"Main without the example project\n"
-        ).decode().strip()
-        run_git(cls.main_root, "update-ref", "refs/remotes/origin/main", cls.unrelated_main)
 
     @staticmethod
     def control() -> dict:
@@ -246,7 +233,9 @@ class ProjectInitiationGateTests(unittest.TestCase):
                    "sequential_execution:\n  mode: single_operation\n  authorized_start: V01\n"
                    "  terminal_boundary: V01\n  next_candidate_operation: V01\n  run_state: active\n```\n")
             entries[self.entrypoint] = SnapshotEntry(entry.path, entry.mode, entry.data + run.encode())
-        return GitSnapshot(self.main_root, "IN_MEMORY_PROJECT_GATE", entries)
+        # Synthetic projects read their own main, not the live checkout's
+        # later publication grants for unrelated registered projects.
+        return GitSnapshot(self.history_root, "IN_MEMORY_PROJECT_GATE", entries)
 
     def failures(
         self, snapshot: GitSnapshot, baseline_paths: set[str] | None = None
@@ -958,14 +947,8 @@ class ProjectInitiationGateTests(unittest.TestCase):
         else:
             run_git(self.history_root, "update-ref", "refs/remotes/origin/main", commit)
 
-    def main_with_run_closure(self, record: bytes, control: dict | None = None) -> str:
-        """Commit main's registry, gate control and run-closure record over the accepted reading.
-
-        HEAD and the worktree are untouched; the commit only becomes main.
-        """
-
-        registry = self.snapshot().entries["series/registry.json"].data
-        control_bytes = json.dumps(control if control is not None else self.control()).encode()
+    def main_with(self, files: dict[str, bytes], message: str) -> str:
+        """Commit files over the accepted reading; HEAD and the worktree are untouched."""
 
         with tempfile.TemporaryDirectory() as directory:
             env = dict(os.environ, GIT_INDEX_FILE=str(Path(directory) / "index"))
@@ -977,15 +960,25 @@ class ProjectInitiationGateTests(unittest.TestCase):
                 ).stdout.decode().strip()
 
             git("read-tree", self.completion_commit)
-            for target, data in (
-                (self.run_closure, record),
-                ("series/registry.json", registry),
-                (PROJECT_INITIATION_GATE_PATH, control_bytes),
-            ):
+            for target, data in files.items():
                 blob = git("hash-object", "-w", "--stdin", data=data)
                 git("update-index", "--add", "--cacheinfo", f"100644,{blob},{target}")
             tree = git("write-tree")
-            return git("commit-tree", tree, "-p", self.completion_commit, "-m", "Run stop on main")
+            return git("commit-tree", tree, "-p", self.completion_commit, "-m", message)
+
+    def main_with_run_closure(self, record: bytes, control: dict | None = None) -> str:
+        """Commit main's registry, gate control and run-closure record over the accepted reading.
+
+        HEAD and the worktree are untouched; the commit only becomes main.
+        """
+
+        registry = self.snapshot().entries["series/registry.json"].data
+        control_bytes = json.dumps(control if control is not None else self.control()).encode()
+        return self.main_with({
+            self.run_closure: record,
+            "series/registry.json": registry,
+            PROJECT_INITIATION_GATE_PATH: control_bytes,
+        }, "Run stop on main")
 
     def test_run_closure_completion_commit_must_be_on_main(self) -> None:
         snapshot = self.run_closure_snapshot()
@@ -1143,8 +1136,9 @@ class ProjectInitiationGateTests(unittest.TestCase):
     def test_in_memory_projects_read_only_the_disposable_main_and_its_grants(self) -> None:
         # #260's post-merge audit: these candidates read the live checkout's
         # main, whose reviewed grant for another project failed them on its
-        # route. They read only this main, where an unpublished grant for a
-        # project they do not register stays inert and a published one binds.
+        # route. They read only the fixture's main (#264), where an unpublished
+        # grant for a project they do not register stays inert and a published
+        # one binds.
         from frozen_publication import FIELD
 
         other = "series/other/"
@@ -1171,18 +1165,9 @@ class ProjectInitiationGateTests(unittest.TestCase):
             "series/registry.json": (json.dumps(registry) + "\n").encode(),
         }
 
-        def main_with(files: dict[str, bytes]) -> str:
-            run_git(self.main_root, "read-tree", "--empty")
-            for path, data in files.items():
-                oid = run_git(self.main_root, "hash-object", "-w", "--stdin", input_bytes=data).decode().strip()
-                run_git(self.main_root, "update-index", "--add", "--cacheinfo", f"100644,{oid},{path}")
-            tree = run_git(self.main_root, "write-tree").decode().strip()
-            return run_git(self.main_root, "commit-tree", tree, "-p", self.unrelated_main,
-                           input_bytes=b"Main with a reviewed grant\n").decode().strip()
-
-        self.assertEqual(self.snapshot().root, self.main_root)
+        self.assertEqual(self.snapshot().root, self.history_root)
         try:
-            run_git(self.main_root, "update-ref", "refs/remotes/origin/main", main_with(files))
+            self.set_main(self.main_with(files, "Main with a reviewed grant"))
             for scenario in (
                 self.test_bootstrap_only_project_may_remain_closed_and_incomplete,
                 self.test_fully_initialized_new_project_with_first_reading_passes,
@@ -1192,14 +1177,13 @@ class ProjectInitiationGateTests(unittest.TestCase):
                 with self.subTest(scenario=scenario.__name__):
                     scenario()
             # Once main publishes the grant, a candidate cannot drop its root.
-            run_git(self.main_root, "update-ref", "refs/remotes/origin/main",
-                    main_with({**files, manifest: b"{}\n"}))
+            self.set_main(self.main_with({**files, manifest: b"{}\n"}, "Main with a published grant"))
             self.assert_failure_contains(
                 self.failures(self.snapshot(include_sequential=False)),
                 f"{manifest}: frozen publication: registered canonical route differs from reviewed grant",
             )
         finally:
-            run_git(self.main_root, "update-ref", "refs/remotes/origin/main", self.unrelated_main)
+            self.set_main(self.completion_commit)
 
     def test_current_repository_examples_remain_compatible(self) -> None:
         snapshot = worktree_snapshot(ROOT, worktree_paths(ROOT))
@@ -1250,7 +1234,7 @@ class RunAdmissionTests(unittest.TestCase):
         run_git(self.root, "config", "user.name", "Run fixture")
         run_git(self.root, "config", "user.email", "run@example.invalid")
         self.fixture = ProjectInitiationGateTests()
-        self.fixture.main_root = self.root
+        self.fixture.history_root = self.root
         self.main = None
         self.publish(self.candidate())
 
