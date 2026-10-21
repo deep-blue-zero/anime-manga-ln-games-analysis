@@ -39,6 +39,7 @@ from character_index_core import (
 )
 from generate_character_index import render as render_character_index
 from generate_reconstruction_index import render as render_reconstruction_index
+from completed_run_publication import CompletionProof, PROOF_NAME
 from audit_timing import AuditTimer, report_path, write_report
 from update_repository_indexes import ROUTING_OUTPUTS, expected_outputs
 
@@ -2121,6 +2122,57 @@ def _validate_run_admission(
     return errors
 
 
+def _completed_publication_previous(
+    snapshot: GitSnapshot, prefix: str, entrypoint: str, classification: Mapping[str, Any]
+) -> tuple[Any, list[str]]:
+    """Recover an exact historical completion without trusting a mutable label."""
+    path = prefix + PROOF_NAME
+    proof_entry = snapshot.get(path)
+    if proof_entry is None:
+        return None, []
+    try:
+        if not proof_entry.qualifies_as_evidence:
+            raise DomainError("completion proof must be a regular tracked text blob")
+        proof = CompletionProof(decode_json(proof_entry.data, path), prefix, entrypoint)
+        completed, active = proof.markdown_snapshot(snapshot, prefix, entrypoint)
+        historical = completed.get(entrypoint)
+        current = snapshot.get(entrypoint)
+        if historical is None or current is None or not historical.qualifies_as_evidence:
+            raise DomainError("completion proof has no regular completed entrypoint")
+        old_state, old_errors = _execution_state(historical.data, entrypoint)
+        new_state, new_errors = _execution_state(current.data, entrypoint)
+        if (old_errors or new_errors or old_state != new_state
+                or old_state.get("run_state") not in TERMINAL_RUN_STATES):
+            raise DomainError("completion proof and current operational state disagree")
+        transition = _validate_run_admission(
+            completed, entrypoint, active, admission=True, strict=True,
+        )
+        if transition:
+            raise DomainError("completion proof has no valid active-to-completed transition: " + "; ".join(transition))
+
+        def readings(view: GitSnapshot) -> dict[str, bytes]:
+            result = {}
+            for name, entry in view.entries.items():
+                if name.startswith(prefix) and name.endswith(".md"):
+                    classified, fallback, failures = _is_substantive_sequential_artifact(
+                        name, entry, classification,
+                    )
+                    if failures or fallback:
+                        raise DomainError("completion proof cannot classify historical/current Markdown: " + name)
+                    if classified:
+                        if not entry.qualifies_as_evidence:
+                            raise DomainError("completion proof reading is not a regular blob: " + name)
+                        result[name] = entry.data
+            return result
+
+        frozen, candidate = readings(completed), readings(snapshot)
+        if not frozen or frozen != candidate:
+            raise DomainError("completion proof reading set or bytes differ from the completed snapshot")
+        return active, []
+    except (DomainError, UnicodeError, ValueError, TypeError) as exc:
+        return None, [f"{path}: invalid completed-run publication proof: {exc}"]
+
+
 def _validate_sealed_readings(
     snapshot: GitSnapshot,
     entrypoint_path: str,
@@ -2543,6 +2595,36 @@ def validate_project_initiation_gate(
                 previous = history.get(previous_path) if _valid_nonempty_string(previous_path) else None
                 if admissions and (previous is None or not previous.qualifies_as_evidence):
                     errors.append(f"{entrypoint}: admission history prior canonical entrypoint is unavailable")
+            # A first publication may batch an actually completed local run.
+            # A self-contained proof survives squash integration and requires
+            # the exact completed reading set, never merely an active ancestor.
+            # It replaces only main with no recorded run or a consistently
+            # completed one: main's active run keeps the ordinary closing route
+            # without consulting a stale proof, and its blocked, interrupted or
+            # malformed state is never bypassed.
+            current_entry = snapshot.get(entrypoint)
+            state, _ = _execution_state(current_entry.data, entrypoint) if current_entry else ({}, [])
+            run_state = state.get("run_state")
+            prior_state, prior_errors = (
+                _execution_state(previous.data, entrypoint) if previous else ({}, [])
+            )
+            prior_run = prior_state.get("run_state")
+            # Main's completion must itself pass the ordinary consistency rules
+            # (for example, both next operations NONE) before a proof replaces it.
+            prior_inconsistent = _validate_run_admission(
+                GitSnapshot(snapshot.root, "MAIN_RUN_STATE", {entrypoint: previous}),
+                entrypoint, None, admission=False, strict=True,
+            ) if previous else []
+            if (admissions and isinstance(run_state, str) and run_state in TERMINAL_RUN_STATES
+                    and not prior_errors and not prior_inconsistent
+                    and ("run_state" not in prior_state or (
+                        isinstance(prior_run, str) and prior_run in TERMINAL_RUN_STATES))):
+                proved_previous, proof_errors = _completed_publication_previous(
+                    snapshot, project_prefix, entrypoint, classification,
+                )
+                errors.extend(proof_errors)
+                if proved_previous is not None:
+                    previous = proved_previous
             errors.extend(_validate_run_admission(
                 snapshot, entrypoint, previous,
                 admission=bool(admissions), strict=strict,
