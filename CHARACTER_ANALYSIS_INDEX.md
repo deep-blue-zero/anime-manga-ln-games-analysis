@@ -1280,6 +1280,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`13-dragon-boy-smile-pain-fear-and-punitive-heroism` — 13 DRAGON BOY SMILE PAIN FEAR AND PUNITIVE HEROISM](series/to-be-hero-x/03%20V2%20Specialist%20Syntheses/01%20Characters%20and%20Relationships/13_DRAGON_BOY_SMILE_PAIN_FEAR_AND_PUNITIVE_HEROISM.md)
 
+### Dust
+
+- Entity ID: `konosuba:dust`
+- Entity aliases:
+  - _None._
+
+#### Subject: Original light-novel continuity, bounded expanded cohort
+
+- Analysis subject ID: `konosuba:dust@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `expanded-cohort-01`: LIGHT_NOVEL OTHER: Bounded synthesis of admitted DUST01–07 analytical reports and separately identified unnumbered DUST-CONT, with qualified main-series and expanded supplemental context. Shared-event retellings are not independent trials. This is monograph review, not new whole-book primary reading or a completed scene/identity census; game-novelization evidence does not automatically merge another continuity.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`expanded-cohort-monograph` — Dust: bounded expanded character monograph](series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_DUST_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
 ### Effa
 
 - Entity ID: `ascendance-of-a-bookworm:effa`
