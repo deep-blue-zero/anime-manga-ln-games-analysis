@@ -1807,3 +1807,136 @@ Vanir can select an entertaining reversal beyond instrumental necessity (MAIN07I
 
 ## WZ-C01 — usefulness, information and operating fit
 Wiz's technical enthusiasm can omit actual buyer budgets, alternatives and working capital (MASK U011/U013/U015), while a local correction need not cure every later purchase. An initially mistaken menu interpretation has a helpful outcome before extortion is explained; subsequent objection is a different information state (U019P178–216). Eight hypothetical responses/four contrasts preserve cueing and the H04B cast-effect ambiguity. No favorable internal output becomes empirical reliability.
+
+
+## CE-C01 — information, pride and a changed judgment
+MAIN12 FinalP275's cute-creature refusal changes after ingredient/demon recognition P277–280; P287 is an actual dagger thrust despite the requested binding. This is not merely spoken zeal. Earlier professional-face failures remain errors. MAIN17 EpP28–44 changes sympathetic appraisal after new information; P32 selectively withholds a fact. Six hypothetical responses/three contrasts have no empirical reliability score; H02B approach/intention never demonstrates actual strike, harm or procedural breach.
+
+
+## DUST-COHORT06-C01 — desire-compatible inference and deliberate representation differ
+
+DUST07 U014P101–125 supplies an accessible right/left cue missed under a desired invitation, while other scenes show actual inquiry, rival consideration and updating. Knowingly false cover, the DUST05 altered knight appraisal and a reasonable uninformed guess are different processes. Actual gift/price/future-term checks coexist with early access errors and deliberate entrusted-money appropriation. The six-rule model preserves uncertainty over causal weights. Six same-author hypothetical outputs do not uniquely predict appropriation, isolate privacy, or demonstrate third-pair behavioral discrimination; no new accuracy score follows.
+
+
+## Komekko cohort07 source-informed consolidation — 2026-10-20T03:13:02.170207+00:00
+
+Source-known admitted EXP01/02 and MAIN05/11/14; eighteen actual image-prose pages and1,602bounded BASE member slots, not new whole-source/ruby/independent credit. The [Komekko index](../08%20Evidence%20and%20Indexes/KONOSUBA_KOMEKKO_EVIDENCE_INDEX.md) owns exact ranges/event joins; older entries remain historical at their original scopes.
+
+| Record | Acting subject and exact route | Current uptake | Limits |
+|---|---|---|---|
+| K07-DE01 | Komekko ordinary refusal/error; EXP01IMG030-037;EXP02U023P541-560;MAIN11C4P538-577;MAIN14C4P90-94 | Hoost resists flattery/hardship/threat, a food offering is misimplemented, futile pleading is refused and a food-rich room weakens a dinner threat. Hidden chocolate changes leverage only when found. | No always-successful trick, initial omniscient chocolate plan, final pantry exhaustion or completed father retrieval. H02A hypothetical location error belongs to authoring, not this child source history. |
+
+
+## Hoost cohort08 source-informed consolidation — 2026-10-20T04:07:47.235077+00:00
+
+Source-known admitted EXP01/03: prior eighteen actually read integral image-prose pages reused,1,172unique EXP03 BASE slots/five members newly received, thirteen selected ledger rows/seven files. No fresh EXP01 pixel pass, whole-source/ruby/image/independent credit. [Hoost index](../08%20Evidence%20and%20Indexes/KONOSUBA_HOOST_EVIDENCE_INDEX.md) owns event joins and exact return scopes; previous entries remain historical.
+
+| Record | Acting subject and exact route | Current uptake | Limits |
+|---|---|---|---|
+| H08-DE01 | Hoost knowledge/update; EXP01IMG041-043;EXP03U026P533-565/U034P374-388 | Declined kitten inspection loses a relevant information opportunity. Hoost initially calls captured prey Wolbach and attacks, then corrects to ordinary beginner-killer. Altered Paralysis defeats his ordinary-immunity boast. | Both mistake and correction remain; original EXP03report161 supported, not erased or retrospectively repaired. Useful scent and actual attempted potion interception prevent global stupidity/total incuriosity claims. |
+
+
+## Cohort09 — local inhibition alongside motivated error — 2026-10-20T06:09:56.297297+00:00
+
+| ID | Evidence | Decision/error distinction |
+|---|---|---|
+| L09-DE01 | MAIN10C4P247–284;C5P376–477/715–758 | Levi refuses new exposure despite a taunt, then later makes a different commitment under changed pressure/information. Accepting a previous wording failure does not correct an unrelated engagement assumption. Aid precedes villain exposure; a single compassion cause is unidentified. |
+| L09-DE02 | DUST04U014P60–118/144–170/339–430 | Known danger and accepted likely nonaffiliation coexist with coercion for personal information; debt is acknowledged. Disclosed highest-card exception still defeats anticipated control. Later intended-release claim was unavailable to others before play. |
+
+Known admitted-source retrospective consolidation; no new source admission, whole-source/ruby/image/independent-test credit. Exact earlier ledger bytes remain the prefix. Frozen forecasts, failures, scores and blank/null fields remain unchanged.
+
+
+## Cohort10 — distinguish corrected action from corrected worldview — 2026-10-20T06:58:02.053067+00:00
+
+Nos accepts Pain's real pause instruction after striking Logia under a false voice, yet another impersonated turn still reaches him. Anger does not erase his guard; he accurately diagnoses the transfer trap. His expectation about Teleport fails, and later resource circumstances differ. These are separate information, appraisal and equipment objects, not a global intelligence verdict. Kazuma's copied Nos speech is his own performance. MAIN17U011P446–474/505–586;U012P114–127;DUST07U013P205–254.
+
+The MAIN03 performer outcome requires an attributable plane correction: reported distress/intention and visible Aqua-held props do not establish directly witnessed departure, completed farm work or permanent ruin. Retain local externality and Kazuma inference rather than substituting either certainty or exoneration. Original report163/167/382 remains exact with an external qualification.
+
+Retrospective known-source consolidation; exact previous ledger bytes remain the prefix. No new whole-source/ruby/image/admission/independent-test credit or changed historical forecast, score or blank/null field.
+
+
+## Cohort11 — mixed appraisal and the action actually chosen — 2026-10-20T08:11:12.082088+00:00
+
+Claire's rank/class inference, own conditional alliance and missing armor condition differ from her real skill. Iris's protective-identity/affection cues can unsettle an objection, while actual meeting refusals and office limits defeat automatic assent. MAIN06 C1P466–638; MAIN10 C2P61–124; CONTEXP01 U013P381–417; CONTEXP02 U013P109–148; DUST03 U013P208–249/814–830.
+
+Rain can correct an ordinary fact and retain a norm objection; she can state a real risk and then comply. The MAIN10 lip-read sedation plan is unperformed by Rain in that episode; MAIN11 has actual warning, participation, Claire administration and later gaps. Exact erased set/duration/side effect remain unproved. Debt assumption is offered, not paid; the larger counterbid is interrupted. No ethical veto, highest-bid threshold or permanent learning cure is inferred. MAIN11 C1P558–633/C2P6–31/79–118; MASK U015P234–247/338–349.
+
+Known admitted-source consolidation; prior ledger bytes remain the exact prefix. No new whole-source/ruby/image/admission/independent trial or changed frozen forecast, score, first body or blank/null field.
+
+
+## Luna cohort12 — own work, relief, pressure and boundaries — 2026-10-20T08:58:31.797980+00:00
+
+Luna selects usable means under limited authority and can overextend a successful incentive. MAIN11U014P431-444/U015P60-101 connects child admiration to adult commitments and harder follow-up tasks despite actual objections. Komekko hearing/sympathy does not authorize anyone else's labor. U015P519-525 pays but leaves Kazuma's heartless-selection question unanswered; his suspicion is not her confessed motive, and rootsP519 remain.
+
+MASKU017P305-308 knows Vanir is a demon; that is not knowledge of his specific planP485-487. Her hopeful responseP457-482 follows real aid and misleading public signals; later revelation cannot become an earlier ignored cue. She rejects the forecastP541. DUST07U011P920-922 shows stopping without knowing a private reason. The four causal hypotheses retain generic-role rivals and unknown weights. New hypothetical outputs supply no fresh native/prospective confirmation.
+
+
+## Cecily and Zesta cohort13 — scoped receiving; containing publication pending
+
+Cecily self-serving error differs from knowing deception: EXP02 imageIII private vandalism/public victim story; U038252-266 rewritten loyalty; CONTEXP02U016299 admitted concealment. Correct water observation coexists with ignoring Yunyun danger/help request inU018. Zesta Ragcraft accusation was revenge/playing along DUST04U013124 before confession137 and boast140; Dust inference and Ragcraft forgotten listener are separate. Unsafe antidote promise lacks verified readiness; knowing impossibility is not proved because learning time unknown. Both can perform useful acts and still misread, coerce or divert effort; no optimized-consistency repair.
+
+
+## Cohort14 clergy and merchant bounded returns — 2026-10-20T11:12:02.861945+00:00
+
+The guide first blames Eris for reputation, then admits retaliation for habitual Axis misconduct(MAIN16U016P81–85); this preserves contradictory framing without inventing one consistent private belief. Merchant chair accepts the funding proposal(MAIN08U013P231–239) but objects to police and caster constraints(U014P251–307): commercial motive is real and qualified by practical costs. Zesta's invented confession does not become the priest's desire; Arcanretia priest gives the actual nuisance grievance(CONTEXP02U016P452–467). No generic profit/sect trope is a new identified psychological model. See [event index](../08%20Evidence%20and%20Indexes/KONOSUBA_CLERGY_AND_MERCHANT_EVIDENCE_INDEX.md).
+
+
+## Cohort15 Leen, Keith and Taylor — 2026-10-20T13:11:28.160162+00:00
+
+MAIN02C1P548–573 Keith rushes to avoid yielding glory, Taylor follows and Leen warning is ignored. CONTU012P118–138 Taylor useful wait-for-all procedure does not erase his honorable-motive errors at P28–38 or DUST07U012P390–395. Keith missing-investigator lead is distinct from Taylor no-bad-rumor report; Dust unsupported prison dismissal is not a known fate. MASKU013P359–382 Leen status/distrust/guild-rumor reasoning injures Yunyun and may mix sincere mistake with face-saving. Private confidence, public presentation and known false cover are different. DUST07 hidden training/withdrawal override remains adverse despite skill improvement; no model may force optimal or uniformly ethical behavior.
+
+[Leen event index](../08%20Evidence%20and%20Indexes/KONOSUBA_LEEN_EVIDENCE_INDEX.md), [Keith event index](../08%20Evidence%20and%20Indexes/KONOSUBA_KEITH_EVIDENCE_INDEX.md), [Taylor event index](../08%20Evidence%20and%20Indexes/KONOSUBA_TAYLOR_EVIDENCE_INDEX.md). These are actor-specific retrievals of shared known episodes, not new independent observations or a completed global census.
+
+
+## Cohort16 Lolisa, Rionor and Feit — 2026-10-20T14:52:18.145824+00:00
+
+Lolisa rejects the pride tactic DUST05U010349 but pursues a desired Vanir-employment prospect359-365 and misclassifies Duke. In DUST04U014183-198 she knowingly supports a fabricated accusation; the alleged humiliating demand196 is fiction within the story,not a Levi act. Rionor’s repeated forced shock test CONTU01477-100 and later personal risk562-570 remain different choices. Feit’s missed breakfast/hunger link293 does not identify who decided to omit the meal or her assent to use that state. Self-correction and useful outcomes do not repair earlier harm by inference.
+
+Individual retrieval: [Lolisa](../08%20Evidence%20and%20Indexes/KONOSUBA_LOLISA_EVIDENCE_INDEX.md),[Rionor](../08%20Evidence%20and%20Indexes/KONOSUBA_RIONOR_EVIDENCE_INDEX.md),[Feit](../08%20Evidence%20and%20Indexes/KONOSUBA_FEIT_EVIDENCE_INDEX.md). Shared [native provenance](../08%20Evidence%20and%20Indexes/KONOSUBA_LOLISA_ROYAL_DRAGON_NATIVE_PROVENANCE_01.json). Exact containing publication remains pending; full program continues.
+
+
+## Cohort17 Wolbach and Chomusuke — 2026-10-20T16:06:56.617701+00:00
+
+Wolbach rejects the cat match on Kazuma’s selective report MAIN09C3P410-425,first misclassifies Aqua then updates at water preparation C4P269-295,and overweights the Satou tale/name connection F347-363. Do not repair these into strategic omniscience. Her refusal of nonaggression/destructive power-recovery account F501-509 coexist with warmth. Megumin’s EXP02U044 actual throw516 and renewed Explosion attempt535 after Yunyun’s objection remain harmful choices; later catch/survival do not convert them to voluntary restraint. H02B hypothetical Wolbach adds an unvoiced blanket-favor obligation argument; first body unchanged.
+
+Individual [Wolbach](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_EVIDENCE_INDEX.md) and [Chomusuke](../08%20Evidence%20and%20Indexes/KONOSUBA_CHOMUSUKE_EVIDENCE_INDEX.md) indices; [shared provenance](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_CHOMUSUKE_NATIVE_PROVENANCE_01.json). Exact containing publication pending; full program active.
+
+
+## Cohort18 Sena and Arnes — 2026-10-20T17:14:33.263380+00:00
+
+Sena actually apologizes after a precise explanation MAIN03C1P234-239,yet cuts Chris’s qualifying testimony407-411 and argues from association/character toward intent440/458. A narrower acquaintance answer weakens one argument436; field chaos does not wholly displace her acting hypothesis C2P222. Arnes observes constrained non-use EXP02U044P397/435/440 and wrongly generalizes inability; her actual tactical adaptations are not omniscience. Eight first saved English bodies retain Sena’s unprovided note/furniture and time ambiguity,Arnes’s uncued influence/errand anticipation/overstated silence and an invariant two-minute behavioral endpoint.
+
+
+## Cohort19 Rex, Sophie and Terry — attributable update
+
+Rex dismisses reputation reports,overreads no-upper-magic as vindication,claims counterfactual superiority and misidentifies the black target (R01-R08). Apology and useful work coexist with those errors; Sophie/Terry challenge rather than form one mind. Four frozen internal first bodies retain an unasked future-capability challenge/blame shift,unprovided reaction/plan placement and prior-knowledge claim. No output or old model was repaired; sensible epistemic screening may itself reflect generic overcoherence rather than identified Rex behavior.
+
+Known EXP03/CONTEXP02 BASE returns only:1,556 distinct context slots/six members/two native objects,including blanks,other actors,reports and hypotheses; no fresh whole-source,ruby/image,admission,independent decision,accuracy or confidence credit. Current claims route to `CR-SECONDARY-COHORT19-001` and the shared crew index/provenance; exact containing publication remains pending.
+
+
+## Cohort20 — individual village peers and attributed writer correction
+
+The early family-money dispute contains pressure and real uncertainty: Yunyun reports a contribution suggestion, Funifura questions an unverified potion, Dodonko defends illness, and the pair returns funds under Megumin's anger/threat. Later medicine/illness testimony qualifies Megumin's fraud suspicion without proving cure or erasing the earlier pressure. Exact terms and uncounted returned amount remain separate (F06–F08/D05–D08).
+
+Megumin forces Dodonko's knife role despite stop requests; conditional blade entry is not a completed kill. In EXP02 U015 P391–393 other customers restrain Megumin's attempted casting, then she forces hot food into both classmates' mouths and they leave crying. Her later report of a similar response/firing elsewhere qualifies her claim that the peers alone explain her work failure without excusing their antagonism. Nerimaki's actual scraping continues through Aigis's stop requests; his harassment and her complaint do not authorize that taking (N05–N06). [village-peer index](../08%20Evidence%20and%20Indexes/KONOSUBA_VILLAGE_PEERS_EVIDENCE_INDEX.md)
+
+
+## Cohort21 — separate agency, conditional models and attributed revision
+
+Arue's author-signed enclosure is mistaken for a future account by its readers; deliberate absent-author deception is not established. Her fictional patch protection is explicitly retracted. Bukkorori accepts Megumin's invented battle from visible signs, later identifies real Arnes with false night-blast history, discounts a true MAIN14 warning and regains certainty from a false confession. Correct force against an actual threat does not make his causal account correct. Soketto explicitly withholds details to preserve a future she values; her private benefit is not established. See [individual A/S/B/I index](../08%20Evidence%20and%20Indexes/KONOSUBA_ARUE_SOKETTO_BUKKORORI_EVIDENCE_INDEX.md).
+
+Eight same-root first English hypothetical bodies retain weak contrasts and additions. Soketto's appointment warning and possible prior-excuse presupposition, Bukkorori's unsupported fifteen-person/room framing and unasked negated emergency pretext remain frozen. Both Soketto service variants give the deadline; both Bukkorori contact variants pocket the phone/turn. No historical forecast, score or first body is repaired or regraded.
+
+
+## Cohort22 — Mitsurugi and separately bounded companions
+
+Mitsurugi's [individual audit](../08%20Evidence%20and%20Indexes/KONOSUBA_MITSURUGI_COMPANIONS_EVIDENCE_INDEX.md) separates a plausible first appraisal from persistence after contrary cues. MAIN01's cage appearance does not make the later continued grip or wager unavoidable. MAIN16's audible return request and Yunyun's intervention are available cues; Aqua's private fear is not. His stated world concern and affection/rivalry can coexist; no single exclusive motive is proved. Acceptance of Kazuma's level-one limitation precedes later training/newly displayed skills, so the MAIN17 disagreement cannot simply reuse the old premise.
+
+DUST01's supposed village girl is a production visible to the reader. Mitsurugi is initially redirected by a false Aqua link, then returns for the girl's safety and detects familiarity/name knowledge inconsistent with strangers. That is real local correction, not omniscient lie detection or permanent skepticism. His accepted companion correction and concrete decoys likewise constrain a no-learning model. Drawing Gram follows the deception/overpricing disclosure, but no blow is watched. FD's terrain failure includes a warning after the ground starts shaking, not a prior clear warning he is proved to ignore. Ria's own interposition is not his sole causal responsibility. Candidate diagnostics preserve unsupported assurance, an unprovided possession and extra staging without repairing their originals.
+
+
+## Cohort23: local acknowledgment, persistent agendas and contrary choices
+
+[cohort23 individual index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_PARENTS_TEACHER_EVIDENCE_INDEX.md) YY05-YY13 preserves Yuiyui's local misreading/apology alongside continued arrangements and later repeated restraint after Megumin's explicit objection. Her smiling accidental-sleep explanation conflicts with the heard AnkleSnare/Sleep sequence. Kazuma's own permission rationalizations are not law or the recipients' assent. Later constrained choice, kindness or shared warmth cannot rewrite the earlier objection. Hyoizaburoo's own thanks/apology, gift response and continuing Komekko boundary prevent a universal food-purchase rule; reported remittance limits do not show a new expenditure.
+
+PC02/PC05-PC14 retains Pucchin's corrected attendance omission and a later ignored complaint, actual academic merit alongside theatrical points, and noticed cat-behavior contradictions alongside permission for an interesting story. No literal-belief diagnosis is forced. Megumin's scapegoating/sabotage readings remain her inferences; a real seal problem can coexist with disputed teacher explanation. Pucchin explicitly admits waiting for cool timing after an effective rescue; a good result cannot establish good timing. Need-based support remains concrete help with mockery, not proof of a private care motive. The originals of all twelve diagnostic bodies retain unsupported history/staging and generic rivals; source-colored coherence is not automatically fidelity.

@@ -1078,6 +1078,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`choco-cyan-comparison` — Choco × Lucky Cyan — To Be Hero X](series/maebashi-witches/V1%20Analysis/05%20Comparative%20Analysis/MAEBASHI_CROSS_SERIES_INTERACTION_REFERENCE.md)
   - [`choco-kotone-comparison` — Comparative analysis](series/maebashi-witches/V1%20Analysis/05%20Comparative%20Analysis/MAEBASHI_CHOCO_KOTONE_COMPARATIVE_ANALYSIS.md)
 
+### Chris / Eris
+
+- Entity ID: `konosuba:chris-eris`
+- Entity aliases:
+  - _None._
+
+#### Subject: Original light-novel continuity, bounded expanded cohort
+
+- Analysis subject ID: `konosuba:chris-eris@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `expanded-cohort-01`: LIGHT_NOVEL OTHER: Bounded synthesis centered on MAIN12 final chapter; MAIN17 chapter 3 P200–402 and Eris-focalized epilogue; Continued Explosions 01 U021 P1–80/P119–203/P329–375/P444–510 and U026 P1–50. Accepted earlier-main and supplemental reports supply separately qualified derivative context. This is review of the monograph, not new primary reading, continuous MAIN12–17 coverage or completed scene and identity census.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`expanded-cohort-monograph` — Chris / Eris: bounded expanded character monograph](series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_CHRIS_ERIS_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
 ### Cliff Grimoire
 
 - Entity ID: `mushoku-tensei:cliff`

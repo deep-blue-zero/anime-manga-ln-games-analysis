@@ -1,0 +1,34 @@
+{
+  "schema": "KONOSUBA_CECILY_INTERNAL_ASSESSMENT_V1",
+  "assessed_utc": "2026-10-20T10:12:11.015855+00:00",
+  "same_informed_model_author_case_designer_body_author_and_assessor": true,
+  "model_sha256": "34843fd30838efdc83d54f686795e23bd76730920137746aa8978729891a72a5",
+  "inputs_sha256": "5031e8d8cb41dc95c0c344357888ae1183c732da12c552a8822e881067089f0c",
+  "prebody_contract_sha256": "2e3125edbe0471f4b79eefd6b78e67474c121342225439e8e26c700047289362",
+  "exact_first_outputs_sha256": "b45c2689182743eaead6cb3850bd3338acf86b6efd312f3b7c85182716bef738",
+  "actual_first_bodies": 4,
+  "actual_pairs": 2,
+  "observations": [
+    {
+      "pair": "CECILY-H01A/B",
+      "actual_difference": "A foregrounds finishing contribution, asks for name credit and remains physically beside decoration; B narrows contribution to paper and steps back when liability replaces reward. Both explicitly leave mechanical expertise elsewhere.",
+      "what_it_does_not_show": "No output actually claims Cecily designed the mechanism. This shows selective credit framing at most, not validation of her more serious knowing-false accusation branch. A generic opportunist fits equally well.",
+      "packet_precision_and_defects": "No honorarium, charge, acceptance or repair is completed. A proposes an unestablished male workshop fellow; this is an unsupported gender/person presupposition in her speech, not packet fact. B insinuates someone elses secret despite knowing no cause: preserve as a self-serving insinuation, not certified hidden concealment. Both analogies are controlled and rhetorically neat; English is more coherent than many impulsive source exchanges.",
+      "underidentified": "Incentive framing intentionally changes gain/liability. The author sees both variants and can transparently follow that cue. No independent or uniquely Cecily-specific causal discrimination."
+    },
+    {
+      "pair": "CECILY-H02A/B",
+      "actual_difference": "Both immediately take one box with supplied permission. A accepts a finite ten-minute invitation but adds her own tea plan and older-sister relation bid. B continues seeking a social meeting after an explicit general refusal, while still helping.",
+      "what_it_does_not_show": "No delivery or meeting is completed; no reciprocal kinship, tea assent, romantic relation, conversion or agreement follows. B does not literally make help contingent on a meeting, so this does not establish all assistance is transactional.",
+      "packet_precision_and_defects": "A tea is Cecily proposed content, not the agreed form of the ten-minute conversation. A older-sister phrase is an imposed presentation, not actual kinship. B continuing bid disregards expressed social boundary; preserve as actual authored misconduct rather than repair to ethical compliance. No Nera reply or changed mind is supplied.",
+      "underidentified": "Generic sociable persistence and source-familiar older-sister imitation remain live. The pair does not isolate sincere care from access motive or validate the independent product/detection rule."
+    }
+  ],
+  "result": "LIMITED_SOURCE_KNOWN_INTERNAL_EXERCISE_WITH_RETAINED_DEFECTS_AND_LIVE_RIVALS",
+  "rules_not_independently_isolated": "Four named rules interact. Positive skill, perceived opportunity, impression management, faith, companion desire and context are not independently weighted or estimated.",
+  "first_bodies_and_frozen_models_unchanged": true,
+  "regeneration_or_model_repair_count": 0,
+  "source_accuracy_Japanese_acoustic_capability_grade_confidence_gain": null,
+  "next_evidence": "Use genuine new source evidence or separately authorized independent evaluation for stronger claims; no retrospective repair to these bodies. Further versioned successors can narrow a rule when evidence requires.",
+  "full_program_complete": false
+}

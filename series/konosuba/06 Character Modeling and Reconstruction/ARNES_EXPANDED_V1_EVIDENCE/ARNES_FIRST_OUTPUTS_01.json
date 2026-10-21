@@ -1,0 +1,50 @@
+{
+  "schema": "konosuba.secondary.actual-first-outputs.v1",
+  "saved_utc": "2026-10-20T17:08:59.552723+00:00",
+  "subject": "Arnes",
+  "precase_freeze_sha256": "58df851fb0f8bdb76a58831643428dfbcb4e2bae36fbe8af4d241eeeea868ce0",
+  "exact_input_freeze_sha256": "f55b2113bcac200cf8d6038ba4691d2b64ebd94b494b6308e07b681bfbe5dde1",
+  "input_file": "ARNES_SCENARIO_INPUTS_01.json",
+  "input_sha256": "dd8d069a2924e7d551aaab8693f1f0d157ead460b7acf5d65538f4e661333629",
+  "outputs": [
+    {
+      "case_id": "ARNES-H01-A",
+      "input_sha256": "9319559ff39be2c00420b19f24e5f07e12c02bda779da0cd8275d157b448e747",
+      "body": "“Yesterday you were coming back with me. Is this your decision, or have you let them talk you out of it?”\n\nArnes steps inside and holds out one bus pass.",
+      "body_sha256": "efb0689a0c0efd2d52a6c8a1f028f00e684d44cccc56f8cf5340da013550f41a",
+      "regenerations": 0,
+      "repairs": 0,
+      "body_process": "Actual first saved root-authored English hypothetical body. Same informed model/case/output/assessment author; no external generation API or independent author. Preparatory response ideas were anticipated and disclosed."
+    },
+    {
+      "case_id": "ARNES-H01-B",
+      "input_sha256": "6f11797eeb5f20e1eb6ee4753a06eda5569095b4df791edaf0de0a9ff4d14824",
+      "body": "“Then let me carry those. We still have time, but I’m not losing you to another errand on the way.”\n\nArnes holds the passes between her teeth and reaches for the three books.",
+      "body_sha256": "d72ad4cd6bdb216b30f1e28c6397d76d31413557f2d317000fe87e8f1e372c37",
+      "regenerations": 0,
+      "repairs": 0,
+      "body_process": "Actual first saved root-authored English hypothetical body. Same informed model/case/output/assessment author; no external generation API or independent author. Preparatory response ideas were anticipated and disclosed."
+    },
+    {
+      "case_id": "ARNES-H02-A",
+      "input_sha256": "1cef6a626acd51347b579e3d42e1be7c351708fc988afb94c1c55add5b3d26f0",
+      "body": "“Three meetings, and not a word from you. Now Yunyun can’t speak and suddenly you’re our great presenter? Go on, then. Two minutes.”\n\nArnes taps the empty slot on the schedule with one finger.",
+      "body_sha256": "e6c8e9b90aba33ee7c0646a3cc6a892115b1657d5c827c0bfa49476fb0111c84",
+      "regenerations": 0,
+      "repairs": 0,
+      "body_process": "Actual first saved root-authored English hypothetical body. Same informed model/case/output/assessment author; no external generation API or independent author. Preparatory response ideas were anticipated and disclosed."
+    },
+    {
+      "case_id": "ARNES-H02-B",
+      "input_sha256": "7118928f059dfe6e71ab6da735bb7401854e8070cd4d92756048deb2a010c5da",
+      "body": "“So those programs never gave you a speaking part. Fine—that explains the silence; it doesn’t prove you can do it. You’ve got two minutes.”\n\nArnes taps the empty slot on the schedule with one finger.",
+      "body_sha256": "764891d67e1a12a95d636cd222e7888dcda719cc5a908cb6f1e5cc262c613f50",
+      "regenerations": 0,
+      "repairs": 0,
+      "body_process": "Actual first saved root-authored English hypothetical body. Same informed model/case/output/assessment author; no external generation API or independent author. Preparatory response ideas were anticipated and disclosed."
+    }
+  ],
+  "output_count": 4,
+  "independent_validation": 0,
+  "full_program_complete": false
+}
