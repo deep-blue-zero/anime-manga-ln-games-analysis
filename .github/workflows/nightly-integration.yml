@@ -1,9 +1,6 @@
-name: Nightly analytical integration
+name: Manual analytical integration fallback
 
 on:
-  schedule:
-    - cron: "0 7 * * *"
-      timezone: America/New_York
   workflow_dispatch:
     inputs:
       mode:
@@ -30,7 +27,7 @@ concurrency:
 
 jobs:
   integrate:
-    if: github.repository == 'deep-blue-zero/anime-manga-ln-games-analysis' && github.ref == 'refs/heads/main'
+    if: github.repository == 'deep-blue-zero/anime-manga-ln-games-analysis' && github.ref == 'refs/heads/main' && github.event_name == 'workflow_dispatch' && github.actor == 'deep-blue-zero'
     runs-on: ubuntu-24.04
     timeout-minutes: 180
     steps:
@@ -50,7 +47,7 @@ jobs:
         shell: bash
         env:
           INTEGRATION_ENABLED: ${{ vars.NIGHTLY_INTEGRATION_ENABLED }}
-          REQUESTED_MODE: ${{ github.event_name == 'workflow_dispatch' && inputs.mode || 'apply' }}
+          REQUESTED_MODE: ${{ inputs.mode }}
           SELECTED_BRANCH: ${{ inputs.branch }}
           READ_TOKEN: ${{ github.token }}
           OWNER_TOKEN: ${{ secrets.NIGHTLY_INTEGRATION_TOKEN }}
@@ -61,4 +58,4 @@ jobs:
           if [[ "${INTEGRATION_ENABLED}" != "true" ]]; then
             mode="preview"
           fi
-          python tools/nightly_integration.py --mode "${mode}" --branch "${SELECTED_BRANCH}"
+          python tools/nightly_integration.py --role fallback --mode "${mode}" --branch "${SELECTED_BRANCH}"
