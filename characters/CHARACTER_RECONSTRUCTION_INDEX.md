@@ -15,4 +15,28 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
 
 ## Recorded assessments
 
-_No reconstruction capability assessments have been published. Infrastructure activation does not establish that any character is reconstruction-ready._
+- Recorded totals: `CANDIDATE` 1
+
+### Subject `shuukura:mio-komatsu@original-light-novel`
+
+#### Assessment `shuukura-mio-komatsu-ln-kss12-20261021-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `shuukura:mio-komatsu`
+- Scope: continuity `original-light-novel`
+- Source boundary: Only the REVIEWED discovery reference kss12-company-and-curiosity: the active\_provisional V2 KSS12 reading, its preserved observations and its bounded LN05/LN09 comparisons. Native story 小松澪と謎多き女 is described at 01p1-73; comparison ranges are LN05 item/xhtml/p-006.xhtml p245-300 and item/xhtml/p-008.xhtml p1-75, LN09 item/xhtml/p-012.xhtml p64-115, as represented in that artifact. Other series artifacts inform method and scope only. No independent primary-media inspection, full-novel Mio coverage, web/V1 evidence, or cross-continuity aggregation is claimed.
+- Temporal boundary: KSS12 university lecture-end encounter facing summer break, through Mio's deferred inquiry and unaccepted next-mixer request \(MIO-KSS12-DEFERRED-INQUIRY-EXIT in the evidence, not a new registry state identity\). Exact day/year/college year and same-event novel placement are unknown. LN05 referral and LN09 later roommate-call contexts remain separate; later knowledge is not backdated.
+- Basis commit: `036ed43f1d2a974b5351429792bae2c733e577db`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `6a7fbf7a1258cd6169441f2a382f908edf33986cc43b9da322350ed31dc6dae7`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `E` — limited/local evidence suitable for bounded canon questions only
+- Scenario readiness: `DIALOGUE` NOT_ASSESSED; `CROSS_SCENARIO` NOT_ASSESSED; `MUNDANE_SOCIAL` NOT_ASSESSED; `ETHICAL_DELIBERATION` NOT_ASSESSED; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` NOT_ASSESSED
+- Dimension grades: `PSYCHOLOGICAL_MODEL` E; `LONGITUDINAL_STATE` E; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` E; `RELATIONSHIP_CONDITIONING` E; `INTERIORITY` E; `CONFLICT_BEHAVIOR` E; `ETHICAL_DELIBERATION` NOT_ASSESSED; `HUMOR_PLAY` E; `SOURCE_COMPLETENESS` E; `NEGATIVE_EVIDENCE` D; `TEMPORAL_SPECIFICITY` E
+- Known limits:
+  - `chronology-and-outcome-gaps` (evidence gap): Exact KSS12 day/year/college year and its identity with a novel event are unestablished. Grip assent, duration, release and injury, actual departure, report completion and future mixer attendance are not established in this evidence set; their absence is not proof of the opposite.
+  - `knowledge-separation` (evidence-backed limitation): Mio's boyfriend hypothesis is presented as her inference, while Sendai states a report priority. KSS12 does not name Miyagi. O005 separates LN09 roommate-name knowledge and Sendai's private explanations from the current scene; those later/private propositions cannot be supplied to current Mio as facts.
+  - `operational-and-coverage-gaps` (evidence gap): The sole curated artifact supplies one local focalized scene and bounded comparisons, not a comprehensive Mio corpus or an independently tested response model. New-interlocutor, counterfactual, ethical, romantic, professional and acoustic capability remain unestablished. This evaluator has not independently inspected the original source package.
+  - `permission-is-specific` (evidence-backed limitation): The reading affirmatively contrasts maintained refusals, an explicit arm grip and renewed demands with LN05's contact-sharing permission exchange. No global always-violates-boundaries or universally-harmless-play rule follows; permission and refusal have their own act and time scopes.
+  - `self-reflection-is-not-resolution` (evidence-backed limitation): 01p59 and p69-73 give Mio self-questioning and deferred inquiry alongside a renewed compensation request. Reflection does not establish that all pressure ended or that Sendai accepted the proposed mixer.
+- Evidence at basis commit:
+  - [`shuukura:mio-komatsu@original-light-novel#kss12-company-and-curiosity`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/036ed43f1d2a974b5351429792bae2c733e577db/series/shuukura/03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_12_DEEP_READING.md)
