@@ -2464,11 +2464,13 @@ def validate_project_initiation_gate(
     admission_tree: dict[str, tuple[str, str]] = {}
     prior_rows: dict[str, list[Mapping[str, Any]]] = {}
     history = None
+    comparison = None
     if base_commit is not None:
         try:
-            comparison = base_commit
-            if snapshot.identity == base_commit:
-                comparison = run_git(snapshot.root, "rev-parse", base_commit + "^1").decode().strip()
+            comparison = (
+                run_git(snapshot.root, "rev-parse", base_commit + "^1").decode().strip()
+                if snapshot.identity == base_commit else base_commit
+            )
             raw = run_git(snapshot.root, "ls-tree", "-r", "-z", "--full-tree", comparison)
             for item in raw.split(b"\0"):
                 if item:
@@ -2509,10 +2511,12 @@ def validate_project_initiation_gate(
         digest.update(entry.data)
         return digest.hexdigest() == previous[1]
 
+    # Publication grants bind from main before this transaction too: the
+    # self-audit judges publication by the first parent, never the commit.
     publications: dict[str, set[str]] = {}
-    if base_commit is not None:
+    if comparison is not None:
         publications, publication_errors = frozen_publication_paths(
-            snapshot, base_commit, control,
+            snapshot, comparison, control,
             {row["repository_path"]: row.get("canonical_entrypoint") for _, row in rows
              if _valid_nonempty_string(row.get("repository_path"))},
         )

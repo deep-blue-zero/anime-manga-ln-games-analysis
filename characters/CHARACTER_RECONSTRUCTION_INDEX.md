@@ -15,7 +15,31 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
 
 ## Recorded assessments
 
-- Recorded totals: `CANDIDATE` 1
+- Recorded totals: `CANDIDATE` 2
+
+### Subject `harmony:tuan-kirie@original-novel`
+
+#### Assessment `harmony-tuan-kirie-comparative-20261022-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `harmony:tuan-kirie`
+- Scope: continuity `original-novel`
+- Source boundary: Only harmony:tuan-kirie@original-novel\#comparative-ethics, the active\_provisional study COMPARATIVE\_ETHICS\_AND\_FORM.md at basis\_commit. The assessment uses its Tuan-specific discussion, especially sections 4 and 7, as reviewed repository analysis of the original Japanese novel. Other actors' evidence is not transferred to Tuan. Project methods and entrypoints inform provenance and limits only. No separate Harmony monograph, reconstruction model, validation result, primary-witness reinspection, adaptation or cross-work composite is included.
+- Temporal boundary: The bounded comparative discussion of Tuan's response to the HAR-U014 treatment/personhood problem and her final confrontation and avowal at HAR-U019. This is not continuous whole-novel coverage, a new temporal-state identity, or an assessment of the subsequent HAR-U020 epilogue; scene knowledge remains local to each moment.
+- Basis commit: `1ac5215d216de2451fd3cf0ed667d90ad9df7cde`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `7844b6494696d18edb5630a2a4a415fdb0fa12e17a96907bdd360f9d7653062e`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `E` — limited/local evidence suitable for bounded canon questions only
+- Scenario readiness: `DIALOGUE` NOT_ASSESSED; `CROSS_SCENARIO` NOT_ASSESSED; `MUNDANE_SOCIAL` NOT_ASSESSED; `ETHICAL_DELIBERATION` NOT_ASSESSED; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` NOT_ASSESSED
+- Dimension grades: `PSYCHOLOGICAL_MODEL` E; `LONGITUDINAL_STATE` NOT_ASSESSED; `VOICE_REGISTER` NOT_ASSESSED; `MUNDANE_BEHAVIOR` NOT_ASSESSED; `RELATIONSHIP_CONDITIONING` NOT_ASSESSED; `INTERIORITY` E; `CONFLICT_BEHAVIOR` E; `ETHICAL_DELIBERATION` E; `HUMOR_PLAY` NOT_ASSESSED; `SOURCE_COMPLETENESS` E; `NEGATIVE_EVIDENCE` E; `TEMPORAL_SPECIFICITY` E
+- Known limits:
+  - `agency-and-justification` (evidence-backed limitation): Section 7 distinguishes Tuan's avowal of a conscious act from moral justification of revenge. Her actually violent choice prevents an unqualified inference that asserted agency always entails benign or consent-respecting action.
+  - `comparison-is-not-identity` (evidence-backed limitation): Section 7 expressly distinguishes Tuan's personally specific violence from Clavis's nationwide act. Formal first-person parallels cannot transfer his motives, technology, knowledge or scale of action to her.
+  - `coverage-and-operational-gaps` (evidence gap): Only the subject's directly curated comparative essay qualifies here. Her separate monograph, models, validation trials and original Japanese source have not been independently assessed in this run. Ordinary behavior, source-language voice, relationship transfer, humor and novel-scenario readiness remain unestablished within this evidence boundary, irrespective of broader material elsewhere.
+  - `private-causation-and-temporal-gaps` (evidence gap): This assessment establishes no complete weighting of Tuan's private motives, freedom from earlier influence, continuous knowledge trajectory, exact calendar placement or later epilogue state. Missing support is not evidence that a motive or capacity is absent.
+  - `unsettled-treatment-boundary` (evidence-backed limitation): Section 4 attributes difficulty defending the brain-as-body/person distinction to Tuan. A rigid, fully settled rule rejecting every treatment of psychological suffering would erase that represented difficulty.
+- Evidence at basis commit:
+  - [`harmony:tuan-kirie@original-novel#comparative-ethics`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/1ac5215d216de2451fd3cf0ed667d90ad9df7cde/studies/project-itoh-genocidal-organ-harmony/COMPARATIVE_ETHICS_AND_FORM.md)
 
 ### Subject `shuukura:mio-komatsu@original-light-novel`
 
