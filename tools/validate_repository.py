@@ -587,7 +587,7 @@ def validate_nightly_integration(snapshot: GitSnapshot) -> list[str]:
         if set(workflow) != {"name", "on", "permissions", "concurrency", "jobs"}:
             errors.append("nightly integration workflow envelope is not exact")
         if set(workflow.get("on", {})) != {"workflow_dispatch"}:
-            errors.append("nightly fallback must be manual-only; scheduled apply is prohibited")
+            errors.append("bulk-merge workflow must be manual-only; scheduled apply is prohibited")
         if workflow.get("permissions") != {"contents": "read", "actions": "read", "statuses": "read", "pull-requests": "read"}:
             errors.append("nightly integration repository token must remain read-only")
         if workflow.get("concurrency") != {"group": "nightly-analytical-integration", "cancel-in-progress": False}:
@@ -4238,8 +4238,8 @@ def _reconstruction_integration_base(root: Path, target: str | None, kind: str) 
 
     For a branch this is the merge base with current main. An exact commit that
     main already contains (the push audit of an integration, where the audit
-    fetches the updated main) is compared with its first parent, the pre-push
-    main of a linear history, so the integrated delta is still checked.
+    fetches the updated main) is compared with its first parent, the pre-merge
+    main, so the integrated delta is still checked.
     """
 
     main_commit = _run_closure_base_commit(root)

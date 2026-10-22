@@ -4670,6 +4670,33 @@
         "tools/tests/test_nightly_integration.py"
       ],
       "purpose": "Preview reads only public state and never requires the owner credential, runtime binding or ruleset access."
+    },
+    "test_integration_executor.ExecutorTests.test_reconstruction_outputs_wait_for_the_owner_until_calibration_is_accepted": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/tests/test_integration_executor.py"
+      ],
+      "purpose": "Reconstruction PRs are owner-merged in any phase but ROUTINE, read from main's policy."
+    },
+    "test_integration_executor.ExecutorTests.test_reconstruction_outputs_come_only_from_the_evaluator_branch": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/tests/test_integration_executor.py"
+      ],
+      "purpose": "Only character-reconstruction may change reconstruction outputs, and it may change nothing else."
+    },
+    "test_nightly_integration.ControllerTests.test_ruleset_weakened_during_the_run_stops_the_merge": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/nightly_integration.py",
+        "tools/tests/test_nightly_integration.py"
+      ],
+      "purpose": "Recheck the main ruleset immediately before merging so protection weakened during a run halts before any write."
     }
   }
 }

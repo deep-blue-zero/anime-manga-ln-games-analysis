@@ -15,11 +15,17 @@ The owner delegates routine integration to the CI agent. Each scheduled run it:
 2. reconciles a PR that is behind `main` by merging `main` into its branch, and fixes regressions in analysis, character data or code with ordinary commits on that branch;
 3. merges only by running the gate from a fresh checkout of current `main`.
 
-Character discovery and reconstruction PRs are ordinary candidates. Their branches stay confined to their own output files, which the repository audit enforces.
+Character discovery and reconstruction PRs are ordinary candidates. The repository audit confines `character-registry` to its two files. The gate accepts reconstruction outputs only from `character-reconstruction`, which may change nothing else. Until the owner accepts reconstruction calibration (`publication_phase: ROUTINE`), the gate leaves every reconstruction PR for the owner.
 
 ### What waits for the owner
 
-The gate refuses any PR that touches a guardrail path: `.github/`, the gate itself, this document, `AGENTS.md`, `crosswalk/`, `provenance/`, `LICENSE.md` or `THIRD_PARTY_NOTICES.md`. The owner merges those personally.
+The gate refuses any PR that touches a guardrail path:
+
+- `.github/`, the gate itself, this document and `AGENTS.md`;
+- owner authorization records: `governance/repository-controls/` (publication grants, sealed-reading releases, the reconstruction phase gate, identities and tracked-file limits), `governance/AUTHORITY_SCOPE.json`, `governance/AUTHORITY_STATE.yaml` and `governance/cutovers/`;
+- `crosswalk/`, `provenance/`, `LICENSE.md` and `THIRD_PARTY_NOTICES.md`.
+
+The owner merges those personally, and that merge is what makes an authorization record count.
 
 The CI agent also leaves a PR for the owner, by adding the `nightly-hold` label with a short comment, when it:
 
@@ -43,7 +49,7 @@ For each candidate the gate:
 - merges through GitHub's protected PR endpoint with the exact audited head as a merge commit;
 - checks that the merge commit's tree equals the audited head and waits for `main`'s own audit of it.
 
-Before any write, an apply run confirms that the gate's bytes match current `main`, the token belongs to the owner, the `main` ruleset still blocks deletion and force-pushes and requires the strict audit, and `main`'s latest audit passed.
+Before any write, an apply run confirms that the gate's bytes match current `main`, the token belongs to the owner, the `main` ruleset still blocks deletion and force-pushes and requires the strict audit, and `main`'s latest audit passed. It rechecks the ruleset immediately before each merge.
 
 If `main` moves during a run, the remaining candidates wait for the next run. If `main`'s audit of a merge fails or does not finish, the change is integrated but unverified: the run stops, and every later run refuses to start until `main` is green again. Repair forward. Never revert, force-push or rewrite `main`.
 

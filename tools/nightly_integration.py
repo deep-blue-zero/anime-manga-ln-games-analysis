@@ -44,10 +44,16 @@ CHARACTER = frozenset({"CHARACTER_ANALYSIS_INDEX.md", "characters/registry.jsonl
 AUTHOR = {"name": OWNER, "email": "50891441+peipw@users.noreply.github.com"}
 COMMITTER = {"name": "GitHub", "email": "noreply@github.com"}
 # Guardrails: the owner merges changes to workflows, this gate, the CI agent's
-# own rules, frozen provenance and legal files. Everything else may integrate.
-GUARDRAIL_ROOTS = (".github/", "crosswalk/", "provenance/")
+# own rules, owner authorization records (publication grants, sealed-reading
+# releases, phase gates, authority state), frozen provenance and legal files.
+# Everything else may integrate.
+GUARDRAIL_ROOTS = (".github/", "crosswalk/", "provenance/", "governance/repository-controls/", "governance/cutovers/")
 GUARDRAIL_FILES = frozenset({"AGENTS.md", "LICENSE.md", "THIRD_PARTY_NOTICES.md", CONTROLLER,
-                             "governance/policies/NIGHTLY_ANALYTICAL_INTEGRATION.md"})
+                             "governance/policies/NIGHTLY_ANALYTICAL_INTEGRATION.md",
+                             "governance/AUTHORITY_SCOPE.json", "governance/AUTHORITY_STATE.yaml"})
+RECONSTRUCTION = frozenset({"characters/reconstruction_capabilities.jsonl", "characters/CHARACTER_RECONSTRUCTION_INDEX.md"})
+RECONSTRUCTION_BRANCH = "character-reconstruction"
+RECONSTRUCTION_POLICY = "governance/repository-controls/reconstruction-capability-policy.json"
 LOADED_SHA256 = hashlib.sha256(Path(__file__).read_bytes()).hexdigest()
 
 
@@ -93,6 +99,9 @@ def scoped_paths(branch: str, paths: set[str]) -> bool:
 def eligible_paths(branch: str, paths: set[str]) -> bool:
     if any(path in GUARDRAIL_FILES or path.startswith(GUARDRAIL_ROOTS) for path in paths):
         return False
+    # Reconstruction outputs come only from the evaluator's branch, which carries nothing else.
+    if branch == RECONSTRUCTION_BRANCH or paths & RECONSTRUCTION:
+        return branch == RECONSTRUCTION_BRANCH and paths <= RECONSTRUCTION
     # An analysis branch stays inside its own root; cross-cutting work uses another branch.
     return scoped_paths(branch, paths) if BRANCH.fullmatch(branch) else True
 
@@ -250,6 +259,9 @@ class Graph:
         content = self.git("show", f"{exact_sha(base)}:{CONTROLLER}", raw=True)
         if hashlib.sha256(content).hexdigest() != LOADED_SHA256:
             raise Halt("Run the merge script from a fresh checkout of current main")
+
+    def reconstruction_phase(self, base: str) -> str | None:
+        return json.loads(self.git("show", f"{exact_sha(base)}:{RECONSTRUCTION_POLICY}")).get("publication_phase")
 
     def verify_identities(self, base: str, head: str) -> None:
         policy = json.loads(self.git("show", f"{base}:governance/repository-controls/tracked-file-policy.json"))
@@ -496,10 +508,14 @@ class Integrator:
         if self.graph.ancestor(source, base):
             row["outcome"] = "already_integrated"
             return base
-        if not eligible_paths(branch, self.graph.paths(base, source, triple=True)):
-            raise Blocked("Branch touches guardrail paths or leaves its analytical root; the owner merges it")
+        delta = self.graph.paths(base, source, triple=True)
+        if not eligible_paths(branch, delta):
+            raise Blocked("Branch touches guardrail paths or files outside its allowed scope; the owner merges it")
+        # Until the owner accepts calibration, every reconstruction PR is owner-merged.
+        if delta & RECONSTRUCTION and self.graph.reconstruction_phase(base) != "ROUTINE":
+            raise Blocked("Reconstruction assessments are owner-merged until calibration is accepted")
         self.graph.verify_identities(base, source)
-        if self.graph.paths(base, source, triple=True) & CHARACTER:
+        if delta & CHARACTER:
             self.graph.verify_curation_commits(base, source)
         self.candidate_pr(branch)
         # Initial audit and final housekeeping share one source budget.
@@ -566,6 +582,9 @@ class Integrator:
         latest = self.api.status(final)
         if not latest or latest["state"] != "success" or not self.api.audit_run(final, latest):
             raise Blocked("Final exact-head audit is no longer successful")
+        # The strict up-to-date rule closes the base race the expected SHA cannot,
+        # so confirm it still holds after any wait.
+        protection_method(self.api.request("GET", f"rulesets/{MAIN_RULESET_ID}"), self.api.request("GET", ""))
         self.same_heads(branch, final, base)
         try:
             result = self.api.request("PUT", f"pulls/{pr['number']}/merge", {"sha": final, "merge_method": "merge"})

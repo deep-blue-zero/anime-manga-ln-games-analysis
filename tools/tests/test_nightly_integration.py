@@ -357,6 +357,18 @@ class ControllerTests(unittest.TestCase):
             with self.subTest(metadata=metadata), self.assertRaises(Halt):
                 protection_method(RULESET, metadata)
 
+    def test_ruleset_weakened_during_the_run_stops_the_merge(self):
+        worker = self.worker()
+        worker.preflight()
+        guard = worker.guard_mutation
+        def weaken(*args, **kwargs):
+            guard(*args, **kwargs)
+            worker.api.ruleset['rules'][-1]['parameters']['strict_required_status_checks_policy'] = False
+        worker.guard_mutation = weaken
+        with self.assertRaisesRegex(Halt, 'up-to-date'):
+            worker.process('series/a', S, B, {})
+        self.assertEqual(worker.api.writes, [])
+
     def test_unreadable_main_ruleset_stops_apply_without_mutation(self):
         for status in (403, 404):
             worker = self.worker()

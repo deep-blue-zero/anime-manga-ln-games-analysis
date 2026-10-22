@@ -197,18 +197,54 @@ class ExecutorTests(unittest.TestCase):
         self.assertEqual(worker.rows[-1]['outcome'], 'merged_verified')
 
     def test_guardrail_paths_are_owner_merged_on_every_branch(self):
-        """Workflows, the merge gate, the CI agent's rules, provenance and legal files stay owner-merged."""
+        """Workflows, the merge gate, the CI agent's rules, owner authorization records, provenance and legal files stay owner-merged."""
         for path in ('.github/workflows/a.yml', '.github/CODEOWNERS', 'tools/nightly_integration.py',
                      'governance/policies/NIGHTLY_ANALYTICAL_INTEGRATION.md', 'crosswalk/a.json',
-                     'provenance/a.md', 'AGENTS.md', 'LICENSE.md', 'THIRD_PARTY_NOTICES.md'):
+                     'provenance/a.md', 'AGENTS.md', 'LICENSE.md', 'THIRD_PARTY_NOTICES.md',
+                     'governance/repository-controls/project-initiation-gate.json',
+                     'governance/repository-controls/reconstruction-capability-policy.json',
+                     'governance/repository-controls/tracked-file-policy.json',
+                     'governance/AUTHORITY_SCOPE.json', 'governance/AUTHORITY_STATE.yaml',
+                     'governance/cutovers/AUTHORITY_EPOCH_1.json'):
             for branch in ('series/a', 'agent/fix', 'character-registry'):
                 with self.subTest(path=path, branch=branch):
                     self.assertFalse(eligible_paths(branch, {path}))
         for paths in ({'tools/validate_repository.py'}, {'governance/policies/BRANCH_LIFECYCLE.md'},
-                      {'README.md'}, {'characters/registry.jsonl', 'CHARACTER_ANALYSIS_INDEX.md'},
-                      {'characters/reconstruction_capabilities.jsonl'}):
+                      {'README.md'}, {'characters/registry.jsonl', 'CHARACTER_ANALYSIS_INDEX.md'}):
             with self.subTest(paths=paths):
                 self.assertTrue(eligible_paths('agent/fix', paths))
+
+    def test_reconstruction_outputs_come_only_from_the_evaluator_branch(self):
+        """Only character-reconstruction may change reconstruction outputs, and it may change nothing else."""
+        outputs = {'characters/reconstruction_capabilities.jsonl', 'characters/CHARACTER_RECONSTRUCTION_INDEX.md'}
+        self.assertTrue(eligible_paths('character-reconstruction', outputs))
+        for paths in (outputs | {'tools/validate_repository.py'}, {'series/a/analysis.md'}, {'README.md'}):
+            with self.subTest(branch='character-reconstruction', paths=paths):
+                self.assertFalse(eligible_paths('character-reconstruction', paths))
+        for branch in ('agent/fix', 'series/a', 'character-registry'):
+            with self.subTest(branch=branch):
+                self.assertFalse(eligible_paths(branch, {'characters/reconstruction_capabilities.jsonl'}))
+
+    def test_reconstruction_outputs_wait_for_the_owner_until_calibration_is_accepted(self):
+        """Reconstruction PRs are owner-merged in any phase but ROUTINE, read from main's policy."""
+        for phase, outcome in (('CALIBRATION', 'blocked'), (None, 'blocked'), ('ROUTINE', 'merged_verified')):
+            with self.subTest(phase=phase):
+                worker = self.worker()
+                worker.api.pr['head']['ref'] = 'character-reconstruction'
+                worker.graph.paths.return_value = {'characters/reconstruction_capabilities.jsonl',
+                                                   'characters/CHARACTER_RECONSTRUCTION_INDEX.md'}
+                worker.graph.reconstruction_phase.return_value = phase
+                worker.run('character-reconstruction')
+                self.assertEqual(worker.rows[-1]['outcome'], outcome)
+                worker.graph.reconstruction_phase.assert_called_with(B)
+                if outcome == 'blocked':
+                    self.assertIn('calibration', worker.rows[-1]['detail'])
+                    self.assertEqual(worker.api.writes, [])
+        graph = object.__new__(Graph)
+        graph.git = mock.Mock(return_value=json.dumps({'publication_phase': 'CALIBRATION'}))
+        self.assertEqual(graph.reconstruction_phase(B), 'CALIBRATION')
+        self.assertEqual(graph.git.call_args, mock.call(
+            'show', f'{B}:governance/repository-controls/reconstruction-capability-policy.json'))
 
     def test_analysis_branches_stay_inside_their_root(self):
         """A series or study branch may change only its own root, routing outputs and curation files."""
