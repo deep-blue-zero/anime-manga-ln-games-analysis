@@ -296,6 +296,24 @@ class ControllerTests(unittest.TestCase):
         self.assertEqual(worker.process.call_count, 1)
         self.assertEqual([row['outcome'] for row in worker.rows], ['deferred'])
 
+    def test_expected_head_holds_back_a_head_pushed_after_review(self):
+        for expected, calls in ((S, 1), (G, 0)):
+            with self.subTest(expected=expected):
+                worker = Integrator(FakeAPI(), graph_mock(), preview=False)
+                worker.save = mock.Mock()
+                worker.preflight = mock.Mock(return_value=B)
+                worker.process = mock.Mock(return_value=M)
+                worker.run('series/a', expected)
+                self.assertEqual(worker.process.call_count, calls)
+                self.assertEqual(worker.rows[-1]['outcome'], 'pending' if calls else 'blocked')
+                self.assertEqual(worker.api.writes, [])
+
+    def test_expected_head_requires_a_branch_and_a_full_sha(self):
+        for argv in (['--expect-head', S], ['--branch', 'series/a', '--expect-head', 'abc123']):
+            with self.subTest(argv=argv), mock.patch.object(sys, 'argv', ['gate', *argv]), \
+                    mock.patch('sys.stderr', new_callable=io.StringIO), self.assertRaises(SystemExit):
+                main()
+
     def test_only_five_output_housekeeping_child_is_accepted(self):
         worker = self.worker()
         worker.api.request = mock.Mock(return_value={
@@ -954,7 +972,7 @@ class CleanupTests(unittest.TestCase):
                 self.assertIs(failure, original)
                 self.assertIsNotNone(original.__traceback__)
                 self.assertEqual(attempts, 2)
-                worker.run.assert_called_once_with('series/a')
+                worker.run.assert_called_once_with('series/a', '')
                 self.assertEqual(worker.api.writes, [])
 
     def test_simultaneous_operation_and_cleanup_exceptions_are_both_preserved(self):
@@ -970,7 +988,7 @@ class CleanupTests(unittest.TestCase):
                 self.assertIsNotNone(original.__traceback__)
                 self.assertIsNotNone(cleanup_error.__traceback__)
                 self.assertEqual(attempts, 3)
-                worker.run.assert_called_once_with('series/a')
+                worker.run.assert_called_once_with('series/a', '')
                 self.assertEqual(worker.api.writes, [])
 
     def test_real_pack_directory_race_is_removed_on_retry(self):
