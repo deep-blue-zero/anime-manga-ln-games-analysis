@@ -168,7 +168,7 @@ The default check is diff-aware. It evaluates the obligation map against the exa
 
 Use `python tools/prepare_commit.py --base origin/main --check --full` when explicitly requested or when changing executable validation, workflow, schema, publication-safety, or authority controls. Routine analysis and documentation commits use the default targeted gate. Do not commit or push on any applicable failure.
 
-The full gate uses the timed regression runner described in [Audit execution rollout](AUDIT_EXECUTION.md). Every discovered test remains mandatory. Shadow selection reports are advisory and cannot enable reduced execution or certify a commit.
+The full gate runs every discovered regression test through `tools/audit_execution.py`; nothing is selected or skipped by path.
 
 ## Before and after publication
 
