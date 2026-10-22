@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: ledger_architecture
 scope: LONGITUDINAL_LEDGER_PROMOTION_AND_SCHEMA_CONTRACT
-generation: V0.24
+generation: V0.25
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -24,7 +24,7 @@ At the project-initiation architecture-repair boundary after the V02 freeze, the
 
 `REZERO_MASTER_LONGITUDINAL_LEDGER.md`
 
-The master was backfilled from frozen V01/V02 and advances prospectively through V15 without rewriting earlier freezes. It owns current claims/person/ordinary/Japanese/prospect/readiness. Institution V04, event/knowledge V06, mechanics V07 and relationship V09 remain five sole homes; master routes. Subaru10/Otto13/Emilia14 models/reviews all have completed gates and retain historical bytes/defaults/grades. V15 adds current source-facing reconciliation and earns separate Arc04/four construction tasks, not inherited fidelity, new fields or a competing home.
+The master was backfilled from frozen V01/V02 and now advances through V16 in its own synchronized transaction without rewriting earlier freezes. It owns claims/person/ordinary/Japanese/prospect/readiness; institutionV04, event/knowledgeV06, mechanicsV07 and relationshipV09 remain five soleowners. Seven historical models/reviews are full-gated/exact; four new V16 constructions/reviews are independently earned, not implemented/graded. Earlier reviews below are historical phase decisions, not current source defaults. No field contract changes.
 
 The following candidate sections now define responsibilities that may later split out of the master ledger when independent retrieval/revision burden warrants specialization. They are not unpromoted gaps and do not authorize parallel competing homes.
 
@@ -73,6 +73,16 @@ All30 predecessor artifacts/five owners/master§§2–12/formal protocol§§19�
 Ram15's complete gate atc6388791f678f24d21f33ed83553fc192666e499 is closed: actual full459-test exact-source audit, trusted success status, routing-current housekeeping no-op without a redundant child/audit and later clean native checks are verified. Roswaal15's own complete exact-commit publication gate still precedes V16. Local documentary PASS_WITH_BOUND is not publication. Both current map operation fields select V16 conditionally on that gate; high-waterV15/active terminalV43/EVOLVING and no ordinary checkpoint/model pause remain.
 
 The exact model/review homes were already registered. Source-route, naming-preference, drink-specificity and audience repairs are derived-use constraints, not new causal rows or field migrations. Master person/readiness and five conditioning owners remain sufficient; a large rule/probe count does not promote another ledger/index. Registered exact candidate homes and the complete reserved schema tail below remain byte-exact.
+
+### Post-V16 current field-contract and ownership review
+
+V16 E019/K545/M345/I294/R104/RT239 fits existing fields: common prepoint history versus Subaru-only lost continuation, narrator-versus-actor timing, graded private reports, pending transactions, finite health resources, formal jurisdiction and attempted repair. New50K/28M/32I/18R/58RT,40changedR with preimages/46stableR/181oldRT exact do not themselves justify a sixth owner. CurrentC116/M344's source-subject correction is attributable maintenance, not a new field or rewriting frozen evidence.
+
+Ordinary/cooking/letters/care and Japanese recipient/voice evidence remain master§§10–11 with focused V16 bundles. Readiness remains master§13: independently earned Julius/Wilhelm/Crusch/Ferris constructions plus separate reviews after V16, each full gate before V17. No demonstrated independent duplicate-free revision burden earns separate evidence/index/ordinary/voice/readiness artifacts; actual draft locator corrections use the unit's existing source routes. V16 opensArc5, so no endcheckpoint/finalspecialist/globalgrade. All32historical artifacts, formalprotocoltail/reserved contracts, source43/V41exception/datedgaps/activeV43 and exact V17seal53ac9eb4456e84f00e1e2c8fbeef9b2d4910dd2f873f93143652cbc3854c724e stay scoped/unchanged.
+
+Historical entering promoted-state paragraph — exact preimage:
+
+The master was backfilled from frozen V01/V02 and advances prospectively through V15 without rewriting earlier freezes. It owns current claims/person/ordinary/Japanese/prospect/readiness. Institution V04, event/knowledge V06, mechanics V07 and relationship V09 remain five sole homes; master routes. Subaru10/Otto13/Emilia14 models/reviews all have completed gates and retain historical bytes/defaults/grades. V15 adds current source-facing reconciliation and earns separate Arc04/four construction tasks, not inherited fidelity, new fields or a competing home.
 
 ### Registered exact candidate homes
 

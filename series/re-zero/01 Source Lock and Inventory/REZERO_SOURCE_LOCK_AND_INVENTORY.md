@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: source_lock
 scope: SOURCE_ADMISSION_CONTRACT_AND_CURRENT_INVENTORY_STATE
-generation: V0.25
+generation: V0.26
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -653,6 +653,25 @@ Complete entering text from c6388791f678f24d21f33ed83553fc192666e499; historical
 - **Current execution state:** active continuous terminalV43. E018alive/17deaths18segments after actual rescue, three trials, two-site local release, finite chosen contract/defense, plural settlement and accepted office; reader-only Omega coda. No death18/E019, Rabbit extinction, gate/reserve repair, Rem awakening, full camp RBD/tea, origin telling/old apology or held capital reward ceremony is implied. The separate Arc04 checkpoint is fully gated; Ram15 has local documentary PASS_WITH_BOUND and an OPEN chronology bound; Garfiel's mandatory source-subject correction remains operative, not independent/global/runtime validation, new primary consumption or completed full-series synthesis.
 ``````
 
+## Volume 16 consumption record — same admitted original, no new source admission
+
+| field | exact consumed witness and boundary |
+|---|---|
+| source | RZ-MAIN-LN-JA-V16; Japanese mainLN; Re Zero - Volume 16.epub;10591363bytes;SHA81695f7fdb01767a705daf3011f84a20c2ec7cbba658efe173dd5fb32b7756c8;CRCpass |
+| OPF/identity | item/standard.opf; ja; UUID2a614301-5660-4b20-a737-4b3866078987;77ZIPentries/23archive images; no inventedISBN/Driveobject |
+| dates | electronic/first-printbasis2018-03-25; afterword2018-03 writingdate |
+| source gate | structural inspection08:32:13Z followed Roswaal15's completed08:28:29Z fullgate; actual ordered reading/receipt proof completed12:25:12Z on2026-10-22, not a claim structure inspection was consumption |
+| actual EOF |39/39OPFmembers,77actual windows,3805positions=3773TEXT+32orderedIMAGEreferences;22distinct original spineassets;175738returnedtextcharacters; zero missing/duplicatedpositions; narrativep-020#B0215, whole-spinep-bookwalker#B0001 |
+| packaging | unreferenced23rdimage distribution advert separately inspected/excluded; no links/instructions followed or narrative admission |
+| prospective boundary | exact incoming60Q/10P seal279e4a504f39376b8b7083a95841ef28ee10416976c93bc9d69bb20b9bf1b413 unchanged; outgoingV17seal53ac9eb4456e84f00e1e2c8fbeef9b2d4910dd2f873f93143652cbc3854c724e fixed before V17 |
+| source-facing result | V16freeze/master/owners:340claims,292individualdispositions/60Q/10P; E019/18deaths19segments; new50K/28M/32I/18R/58RT; no inherited old model grade |
+| integrity/admission | historical23584-byte manifestSHA3daa190cefda6ab894f5d62ff547a93856c8133f2d4fc1cbc552b99d73c73314 still reconstructs exactly by removing only metadataappend from23822-byte currentSHAa17ec23885bd4730457ea50f93cd55be1d9d1df896b8b141595b98fc0b55642d; no new works/report opened |
+
+The V16freeze§1 owns complete member coverage/locator convention. Private receipts/images remain outside staging. Actual source consumption, source-facing semantic acceptance and complete publication gate are separate. Ram chronologyOPEN/currentC116/M344 source-subject correction remain binding;32old artifacts/seven pairs exact. No V17 opening through four subsequent earned constructions/reviews/full gates.
+
+### Exact entering source-state summary — historical preimage
+
+````````markdown
 ## Current source-state summary
 
 - **Acquired/admitted Japanese main LN:** V01-V43 continuous.
@@ -667,3 +686,14 @@ Complete entering text from c6388791f678f24d21f33ed83553fc192666e499; historical
 - **Next source acquisition priority:** Japanese V44 and V45 before the sequential read reaches that boundary.
 - **Next analytical operation:** `V16` only after Roswaal15's own complete gate; consume its admitted Japanese original in OPF order through complete text/image EOF. V16 remains unopened/exact60-question/ten-forecast seal unchanged.
 - **Current execution state:** active continuous terminalV43. E018alive/17deaths18segments after actual rescue, three trials, two-site local release, finite chosen contract/defense, plural settlement and accepted office; reader-only Omega coda. No death18/E019, Rabbit extinction, gate/reserve repair, Rem awakening, full camp RBD/tea, origin telling/old apology or held capital reward ceremony is implied. The separate Arc04 checkpoint is fully gated; Roswaal15 has local documentary PASS_WITH_BOUND after four repairs; Ram's OPEN chronology and Garfiel's mandatory source-subject correction remain operative, not independent/global/runtime validation, new primary consumption or completed full-series synthesis.
+````````
+
+## Current source-state summary
+
+- **Acquired/admitted Japanese main LN:** V01–V43 continuous; V41 bounded replacement unchanged.
+- **Known dated published but unadmitted gaps:** V44–V45; no new freshness claim.
+- **Admitted translation/supplement/EX/IF/WN/anime:** none. EnglishV21/archivedV31 remain nonadmitted/unopened.
+- **Consumed into prospective main-LN analysis:** V01–V16. V16 effective high-water requires its own complete transaction gate. Predecessor Roswaal15c3dd17c4 and earlier gates are closed; seven historical pairs keep exact bytes/defaults/local grades.
+- **Next analytical operation:** JULIUS_V01_V16_MODEL_AND_FIDELITY_REVIEW after V16's full gate, then Wilhelm16/Crusch16/Ferris16 serially with separate reviews/full gates; only then V17 against exact60Q/10P seal53ac9eb4456e84f00e1e2c8fbeef9b2d4910dd2f873f93143652cbc3854c724e. None of four is implemented/graded yet.
+- **Current execution:** active continuous terminalV43; E019 alive after square death18/19segments. Common year/travel/family history survives, later atrocity Subaru-only; narrator short-point timing not yet recognized by him. No decodedWrath, complete family repair, crystal/Puck/Rem/Gate result or full campRBD. Award/medal now retrospectively confirmed without exact enrollment/date/type.
+- **Source admission and acquisition priority:** unchanged43-original lock/V41exception; V44/V45 acquisition before authorized boundary is reached, not done here. New metadata/report does not admit unread works. V17+/nonspine/new import narratives remain unopened.
