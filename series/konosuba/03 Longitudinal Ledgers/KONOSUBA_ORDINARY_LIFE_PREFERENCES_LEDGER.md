@@ -1357,3 +1357,17 @@ MAIN06 Aqua gives elaborate napkin origami as thanks for the ring; both men visi
 [cohort23 individual index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_PARENTS_TEACHER_EVIDENCE_INDEX.md) YY03/YY04/YY10/YY13 and HY03-HY09 keep scarce table money, one available tea variety, shared gifts, debt/remittances, reported craft work and the mother's material-gathering plan distinct. A request for best tea is not a rich tea inventory or stable favorite. A future300million claim is not received cash; a mansion is not disposable funds. Megumin's prediction about extra money is not a watched purchase, and no complete family accounts establish one exclusive cause of debt.
 
 Pucchin's practical magic/economic teaching, actual potion rewards, confiscated pudding and concrete recipe/material help coexist with theatrical preference. A potion promised for an answer is not receipt in the same window; the stated patient need is not a watched patient or completed cure. Chekera's clothing work, the cafe menu, blacksmith trade, potion interview and diner work are separately indexed discovery leads with identity and later-outcome gaps. No payment, final employment result, extra family connection, stable food taste or new compact profile is inferred from the occurrence alone.
+
+
+## Cohort24 — Crimson village work and staff, source-known scope
+
+Robe stock, dyeing, mana-fiber production, inherited durable clothesline, menus, rush service and paid seasonal harvest retain practical work outside battles. The artisan taste for dramatic large weapons coexists with reported smallware/niche armor adaptation; no observed purchase or measured private wealth. Farm Megumin own 4,000 Eris differs from exact Yunyun pay, future rehire and permanent income. Commercial presentation is not proof every proprietor shares customers private taste (CC01-CC07,BS01-BS03,CA01-CA02,DI01-FA03).
+
+Exact locators and access: [cohort24 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_TRADES_STAFF_EVIDENCE_INDEX.md). The shared known-source union is 1,149 BASE slots/7 text members/4 text objects, including context, blanks, other actors and rejected joins; no fresh whole-source, ruby, residual, image-set, admission or independent validation credit. Earlier models, scores, firsts and prospective missingness remain unchanged. Canonical receiving is complete for this candidate only; exact containing publication/full program remain pending.
+
+
+## Cohort25 — chief, Sylvia, trial machine and castle courier
+
+Chief family-letter/reception evidence does not supply routine administrative choices or a taste inventory. Sylvia's dress,body modification and personal interest appear during an operation; no household budget or leisure distribution is established. Moguninnin maintenance/waiting states are not unprovided human preferences. The courier's reviewed choices remain operational. Sparse ordinary-life dimensions are recorded as gaps rather than filled by commander,scientist,parent,robot or guard stereotypes.
+
+Exact locators and access: [cohort25 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX.md). This source-known scope adds no new whole-source,ruby,residual,image-set,admission or independent validation credit. Earlier models,first bodies,scores and prospective missingness remain unchanged. Canonical receiving/publication is pending for this candidate; the full KonoSuba program continues.
