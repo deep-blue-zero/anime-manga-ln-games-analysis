@@ -4,14 +4,14 @@ artifact_id: WATAYURI_INFORMATION_DISCLOSURE_AND_MISREADING_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.14"
+version: "0.15"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V13 mainline through V13 Shift 66/i158, also latest depicted present; packaged shorts separately bounded; V09 one-shot separate continuity; V10-B and V14 inventory only"
+source_boundary: "Japanese V01–V14 mainline through V14 Shift 71/i156 including the later photograph-board coda; packaged shorts separately bounded; V09 one-shot separate continuity; V10-B inventory only; later sources not admitted"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_INFORMATION_DISCLOSURE_AND_MISREADING_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_INFORMATION_DIS
 
 **Update and revision rule.** Update when disclosure, false belief, correction or materially altered higher-order belief affects behavior. Append a new dated epistemic state; preserve what each party and reader could know at the earlier VNN. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V13 mainline through V13 Shift 66/i158, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1, 36.2, 41.5, 46.5, 51.5, 56.5, 61.5 and 66.5 remain separately bounded; V04 EX is promotional. V09’s one-shot is a separate work, not Watayuri continuity. All V01–V12 bodies retain their historical states; dated V13 additions carry the current source-branch account under the preserved V10 claim-lineage erratum. Main acceptance and run completion remain separately governed. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V14 mainline through V14 Shift 71/i156, including the later photograph-board coda, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1, 36.2, 41.5, 46.5, 51.5, 56.5, 61.5, 66.5 and 71.5 remain separately bounded; V04 EX is promotional. V09’s one-shot is a separate work, not Watayuri continuity. All V01–V13 bodies retain their historical states; dated V14 additions carry the current source-branch account under the preserved V10 claim-lineage erratum. Main acceptance and run completion remain separately governed. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -678,3 +678,64 @@ The V12 hotel correction remains effective, and Mai’s new conversation does no
 By the end of the volume the reader can connect the anonymous letter, the old pledge, the fear of becoming an ordinary rejected suitor, Mitsuki’s continued importance, and Kanoko’s terror when Hime mentions romance. Hime cannot be assigned that completed map. She knows her friend is distressed, recalls the pledge, learns the SK relation, and hears Kanoko’s anti-change fear. The missing proposition—that Hime herself is the romantic object—continues to organize the difference between their interpretations. [INF01–INF05/INF15–INF23.]
 
 Sumika’s privacy decision has two objects. She does not expose Kanoko’s love for Hime; she does reveal dating and breakup despite Kanoko’s earlier secrecy preference. A single label such as “kept the secret” would be inadequate. The receiver should preserve separate proposition rows so that future disclosure can change the correct holder state without retroactively changing all prior knowledge. The same discipline applies to Mai: new management knowledge is not proof of a general briefing to Hime, Mitsuki, Haruko, or guests.
+
+
+<a id="v14"></a>
+## V14 — Current additions and transitions — 2026-10-21
+
+**V14 evidence key:** source-map key `V14`, Japanese witness `1PBGoBpS9bAs5e7Ljyl9jt8rWmvvHGFrS`, SHA-256 `36e49e9c3e79c7d355302bca34a0cd7350350ed9e9e0103e87be9f3ce096bd00`. The [frozen V14 reading](../02%20Sequential%20Readings/WATAYURI_V14_DEEP_READING.md#information) supplies full context and image conventions. Unprefixed iNNN and O/REL/PER/INF/AG/T/JP/VIS/C references below mean V14; original forecasts retain their creation-volume shorthand. Section numbers refer to that complete reading. Mainline/latest present ends at Shift 71/i156, including the later photograph-board coda. Shift 71.5/i158–161 follows the stage kiss, but its exact placement relative to the coda is OPEN. Edition/bonus material stays separately bounded. V10-B and later sources remain excluded; inventory exhaustion does not establish series completion.
+
+**Receiving disposition:** the complete responsibility section below is accepted for this source-branch transaction; “proposed” labels and producer-stage statements retain their historical provenance. Main acceptance and run completion remain separately governed in the [entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md#operational-boundary) and [receiving review](../07%20Audits%20and%20Handoffs/WATAYURI_V14_INTEGRATION_REVIEW.md). All earlier bodies, original claim identities and receiving corrections remain preserved under the [expanded V10 claim-lineage erratum](WATAYURI_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md#v10-claim-lineage-erratum).
+
+## 8. Information, disclosure, and misreading additions
+
+**Destination:** `03 Longitudinal Ledgers/WATAYURI_INFORMATION_DISCLOSURE_AND_MISREADING_LEDGER.md`. Maintain proposition holders rather than granting every participant the reader’s access.
+
+### 8.1 Material continuations of inherited propositions
+
+| Inherited proposition | V14 holder/update | Preserved limit |
+| --- | --- | --- |
+| Kanoko loves Hime; Sumika knows | Reaffirmed in the first meeting and renewed sister agreement; Hime still receives no identified romantic confession. | Hime’s friendship pledge memory is not author recognition or knowledge of the full romantic project. |
+| SK dating ended | Sumika refuses resumption; the later agreement remains sisterhood under unequal feelings; Mai explicitly reports this to Yoko. | No new lovers’ pact or crest-exchange event is manufactured. |
+| Sumika’s jealousy affected support | Sumika now states the jealousy and its relation to her harsh refusal directly to Kanoko. | Newly shared explanation does not mean Kanoko always knew it or that it alone caused Yoko’s actions. |
+| Beautiful separation was Sumika’s proposed account | Her later explicit lie acknowledgment revises the completeness of that account. | Withdrawal from dating remains an actual decision; earlier care is not erased. |
+| Hotel harm / Kanoko’s later meaning | Mai says she has heard Kanoko’s account; Kanoko tells Sumika what she believes was preserved. | No official adjudication or complete unseen-interval reconstruction; V12 hotel attendant remains unidentified as police. |
+| Hime’s knowledge of Kanoko’s old control project | No qualifying new disclosure. | General patience with secrecy or happiness about another important person is not informed acceptance of abolition/exclusivity. |
+| Mai’s recovered-injury concealment | No new informed Hime trust complaint or explicit forgiveness. | WY5-PR01’s adverse earlier response persists; new Yoko accountability is not Hime’s old forecast result. |
+| Nene’s current Yoko boundary | Supports the response and blocks contact while retaining mixed historical valuation. | Past benefit is not a new permission for access or romance. |
+| Photograph meanings | New private images are made and later displayed beside the intact earlier portrait. | Production, addressee, ownership, and emotional meaning remain distinguishable. |
+
+### 8.2 New consequential information records
+
+| ID | Proposition / actual communication | Distribution and uncertainty |
+| --- | --- | --- |
+| **WY14-INF01** | Kanoko wants a private meeting distinct from work rehearsal. | Kanoko asks, Mai permits, Sumika receives the actual topic; the others’ knowledge of the contents is not established. i001–012. |
+| **WY14-INF02** | Dating/breakup disclosure and hidden Hime-directed love have different scopes. | Sumika and Kanoko explicitly distinguish them; Hime’s full romantic knowledge is not supplied. i006–011. |
+| **WY14-INF03** | Kanoko intends eventual confession, not an immediate completed disclosure. | Sumika hears the intention; Hime later hears a general future-secret promise, not this complete account. i009–011, i149–150. |
+| **WY14-INF04** | Renewed dating would not align the two people’s purposes. | Sumika asks about future contingencies; Kanoko begins to recognize the inadequacy of repayment. i013–017. |
+| **WY14-INF05** | Conditional willingness for intimacy is not what Sumika is seeking. | Sumika observes tension, releases the approach, and explains the refusal; this particular act remains uncompleted. i018–021. |
+| **WY14-INF06** | The beautiful-ending account omits material feelings. | First offered at i022–024; later explicitly qualified by Sumika at i084–086. Reader and Kanoko receive the revision in V14, not earlier. |
+| **WY14-INF07** | The performance’s private resonance differs from its fictional propositions. | Kanoko’s inner comparisons are reader-accessible; audience members hear the script without acquiring her full reasoning. i041–055. |
+| **WY14-INF08** | Sumika’s tears have an articulated personal cause. | Visible at i056–058; cause later explained to Nene at i072–073. Do not retroactively give guests this account. |
+| **WY14-INF09** | The stage kiss and the audience’s reception are not the same evidence set. | The reader sees initiation and surprise; customer comments after darkness do not certify full act knowledge. i059–066. |
+| **WY14-INF10** | Nene initially assumes dating continues. | Sumika corrects her at i072; later advice is informed by the correction. Earlier omniscience is not invented. |
+| **WY14-INF11** | Kanoko can value Sumika’s love without asking to be a girlfriend. | Directly explained to Sumika at i080–083, materially changing the available agreement. |
+| **WY14-INF12** | Jealousy, shame and self-blame contributed to Sumika’s withdrawal. | Sumika gives Kanoko this self-account at i084–086. The report is not a complete external causation finding. |
+| **WY14-INF13** | Kanoko believes something precious survived Yoko’s harm because of Sumika’s later care. | Spoken to Sumika at i087–089; her evaluation is not absence of injury or proof of complete recovery. |
+| **WY14-INF14** | The renewed sister bond includes unequal love rather than its elimination. | Explicit between SK at i090–098; Mai later reports its broad status to Yoko. Not every private detail becomes staff knowledge. |
+| **WY14-INF15** | Mai’s confrontation uses a reported account and images/messages. | Mai says Kanoko told her; Yoko hears the accusation. Mai is not thereby a firsthand witness to all hotel events. i103–106. |
+| **WY14-INF16** | Yoko claims her actions exposed real romantic/physical motives. | Her claim at i104–113 is contested by Mai and the prior source record; it does not establish actual interpretive success. |
+| **WY14-INF17** | Mai thinks Yoko may have wanted a different kind of bond. | An explicit hypothesis at i107–111; later reader-only memory is additional evidence, not proof Mai already knew that history. |
+| **WY14-INF18** | Present non-reporting and a future police warning are stated. | Mai attributes non-reporting to Kanoko’s wishes; Yoko hears a boundary. No completed official process is depicted. i114–117. |
+| **WY14-INF19** | Nene’s support for the response coexists with remembered benefit and blocking. | Spoken to Mai and represented in the phone sequence; no renewed agreement with Yoko. i118, i125–126. |
+| **WY14-INF20** | Yoko’s senior relationship had a book/story context and a fear-laden intimacy exchange. | Newly shown through Yoko’s memory, i119–123. Neither staff nor current Kanoko is shown learning it. Exact romantic equivalence remains open. |
+| **WY14-INF21** | The senior remains a current labeled contact; profile imagery includes a child. | Phone evidence at i124 is partial. Parentage, marriage, full recent conversation and newly sent response remain unestablished. |
+| **WY14-INF22** | Kanoko attends for Sumika, not only through Hime. | Directly told to Sumika at i135; her initial café-level interpretation underreads the personal referent. The broader group need not hear it. |
+| **WY14-INF23** | Kanoko promises future disclosure and names another special person. | Hime hears the promise and value statement; Sumika overhears the latter. The hidden love target/letter authorship is still not disclosed to Hime. i147–154. |
+| **WY14-INF24** | The final images are private memories with a later displayed afterlife. | Mai states the use at i154; Sumika’s later board appears at i156. The photo’s existence does not prove equal feeling or every viewer’s interpretation. |
+
+### 8.3 Three knowledge distinctions that the ending must retain
+
+First, Sumika learns more about **her own place** in Kanoko’s life without learning that Kanoko has changed romantic targets. Second, Hime learns that Kanoko has another special person without learning the **longstanding hidden content** Kanoko promises to disclose. Third, the reader learns something about Yoko’s **earlier senior** without a corresponding disclosure to Mai, Nene, or the girls Yoko harmed. Each change increases knowledge in one location rather than making the whole cast equally informed.
+
+The photography motif repeatedly makes this distinction concrete. A publicly available picture, a coercively selected hotel image, a private party photograph, and a later board display do not have the same permission conditions, audience, or evidentiary force. Preserving their different histories is more informative than saying simply that photographs symbolize intimacy. [INF09/INF15/INF24; VIS records below.]

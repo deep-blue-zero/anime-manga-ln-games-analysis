@@ -4,14 +4,14 @@ artifact_id: WATAYURI_RELATIONSHIP_AND_ATTACHMENT_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.14"
+version: "0.15"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V13 mainline through V13 Shift 66/i158, also latest depicted present; packaged shorts separately bounded; V09 one-shot separate continuity; V10-B and V14 inventory only"
+source_boundary: "Japanese V01–V14 mainline through V14 Shift 71/i156 including the later photograph-board coda; packaged shorts separately bounded; V09 one-shot separate continuity; V10-B inventory only; later sources not admitted"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_RELATIONSHIP_AND_ATTACHMENT_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_RELATIONSHIP_AN
 
 **Update and revision rule.** Update when a volume changes a directional belief, boundary, desire, attachment pattern or pair presentation. Maintain separate rows or fields for asymmetric knowledge and revise a prior state with a dated transition, retaining its VNN freeze. Link consequential proposition and claim IDs. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V13 mainline through V13 Shift 66/i158, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1, 36.2, 41.5, 46.5, 51.5, 56.5, 61.5 and 66.5 remain separately bounded; V04 EX is promotional. V09’s one-shot is a separate work, not Watayuri continuity. All V01–V12 bodies retain their historical states; dated V13 additions carry the current source-branch account under the preserved V10 claim-lineage erratum. Main acceptance and run completion remain separately governed. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V14 mainline through V14 Shift 71/i156, including the later photograph-board coda, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1, 36.2, 41.5, 46.5, 51.5, 56.5, 61.5, 66.5 and 71.5 remain separately bounded; V04 EX is promotional. V09’s one-shot is a separate work, not Watayuri continuity. All V01–V13 bodies retain their historical states; dated V14 additions carry the current source-branch account under the preserved V10 claim-lineage erratum. Main acceptance and run completion remain separately governed. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -614,3 +614,48 @@ The historical comparison with Mitsuki is likewise narrower than a rivalry ranki
 The clearest status change is Sumika’s explicit withdrawal from dating. The public sister relation, workplace cooperation, confidant availability, and possibility of personal friendship are not each separately renegotiated at the street scene. Calling it a complete dissolution of every bond would overstate what is shown; calling it merely a proposal without force would understate Sumika’s stated decision. The adequate exit description is: dating has been ended by Sumika, Kanoko disputes the explanation and wants to talk, and the future form of their connection is not jointly settled. [REL10/REL11/REL20.]
 
 Kanoko’s later wish to speak must not be treated as authority to override that withdrawal. She can seek understanding, name what Sumika means to her, and ask for a different arrangement. Sumika can still have limits. The unresolved issue is precisely how these separate agencies will meet. An analysis that predicts romance as the necessary reward for good care would reproduce the debt logic the park and V12 challenge.
+
+
+<a id="v14"></a>
+## V14 — Current additions and transitions — 2026-10-21
+
+**V14 evidence key:** source-map key `V14`, Japanese witness `1PBGoBpS9bAs5e7Ljyl9jt8rWmvvHGFrS`, SHA-256 `36e49e9c3e79c7d355302bca34a0cd7350350ed9e9e0103e87be9f3ce096bd00`. The [frozen V14 reading](../02%20Sequential%20Readings/WATAYURI_V14_DEEP_READING.md#relationships) supplies full context and image conventions. Unprefixed iNNN and O/REL/PER/INF/AG/T/JP/VIS/C references below mean V14; original forecasts retain their creation-volume shorthand. Section numbers refer to that complete reading. Mainline/latest present ends at Shift 71/i156, including the later photograph-board coda. Shift 71.5/i158–161 follows the stage kiss, but its exact placement relative to the coda is OPEN. Edition/bonus material stays separately bounded. V10-B and later sources remain excluded; inventory exhaustion does not establish series completion.
+
+**Receiving disposition:** the complete responsibility section below is accepted for this source-branch transaction; “proposed” labels and producer-stage statements retain their historical provenance. Main acceptance and run completion remain separately governed in the [entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md#operational-boundary) and [receiving review](../07%20Audits%20and%20Handoffs/WATAYURI_V14_INTEGRATION_REVIEW.md). All earlier bodies, original claim identities and receiving corrections remain preserved under the [expanded V10 claim-lineage erratum](WATAYURI_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md#v10-claim-lineage-erratum).
+
+## 6. Relationship and attachment additions
+
+**Destination:** `03 Longitudinal Ledgers/WATAYURI_RELATIONSHIP_AND_ATTACHMENT_LEDGER.md`. Append as a V14 increment with the witness key in §2; preserve earlier entries and their knowledge dates. These are directional and stage-specific records, not a single undifferentiated pair score.
+
+| ID / direction and stage | Material state at V14 | Evidence and retained limit |
+| --- | --- | --- |
+| **WY14-REL01 — Kanoko→Sumika, first meeting** | Wants continued personal connection but initially offers renewed dating as repayment and as a way to keep companionship. | O01–O03, i012–021. Genuine concern does not make the proposed arrangement satisfactory to Sumika or establish reciprocal romantic feeling. |
+| **WY14-REL02 — Sumika→Kanoko, first meeting** | Refuses the proposed girlfriend position, continues to love Kanoko, and withholds an intimate act when compliance appears forced. | O02–O04, i014–025. Refusal of dating is distinct from forbidding Kanoko’s Hime attachment; the testing approach remains pressured. |
+| **WY14-REL03 — Kanoko→Sumika, work attention** | Recognizes Sumika’s care for the group and her practical competence, not only the help directed at Kanoko’s private troubles. | O06–O10, i035–062. The missed cue shows an actual lapse during this recognition, not global incapacity or a perfected new outlook. |
+| **WY14-REL04 — Sumika→Kanoko, performance** | Promises support, actually covers a missed cue, and later cannot sustain the farewell without tears. | O06/O09/O10, i034, i053–058. Competence and distress coexist; role delivery is not an exhaustive private self-report. |
+| **WY14-REL05 — Kanoko→Sumika, renewed proposal** | Distinguishes cherishing Sumika’s love from becoming her girlfriend, and asks that loving Kanoko not require self-erasure. | O14–O17, i079–096. Positive personal attachment becomes explicit without replacing Hime as the romantic target. |
+| **WY14-REL06 — Sumika→Kanoko, disclosed motive** | Shares jealousy, shame, self-blame and continuing love; allows Kanoko to answer the actual person rather than only the selfless-sister presentation. | O15/O17, i084–096. Her self-indictment is not total causal responsibility for Yoko’s conduct. |
+| **WY14-REL07 — SK reciprocal current arrangement** | Dating remains ended; the sister/confidant bond is locally renewed around protecting both people’s feelings, with Sumika’s unrequited love acknowledged. | O17/O18/O31, i090–098, i155–156. This is not a new formal crest exchange, equal romance, compulsory permanent availability, or universal physical permission. |
+| **WY14-REL08 — Kanoko→Sumika, party and coda** | Chooses Sumika’s company independently of Hime’s attendance, allows candid feeling, and names a new special important person. | O27/O28/O30/O31, i133–156. The supplement gives a distinct wish for Sumika’s happiness; neither source automatically changes the romantic category. |
+| **WY14-REL09 — Sumika→Kanoko, continuing insecurity** | Receives the new value with pleasure but sometimes deflects personal meaning into generic café enjoyment; attraction and embarrassment remain. | O27/O28/O31, i135–140, i151–156. The final smile/photographs support real uptake, not a guarantee that defensive interpretation never recurs. |
+| **WY14-REL10 — Hime→Kanoko** | Allows changed plans and confidential discussion with Sumika; accepts waiting for a future secret while feeling the cost of not knowing. | O05/O12/O30, i027, i067–068, i147–150. Respectful current responses do not establish complete knowledge of the love target, anonymous letter, or old control project. |
+| **WY14-REL11 — Kanoko→Hime** | Reaffirms Hime-directed love, chooses some time for Sumika, and promises eventual disclosure rather than making it now. | O01/O12/O30, i009–011, i067–068, i149–151. A new important person is added; Hime is not replaced or made an informed party to every secret. |
+| **WY14-REL12 — Hime↔Mitsuki, party** | Existing care and familiarity continue through uncomfortable comic feeding/face contact and later practical support while Mitsuki sleeps. | O29, i141–146. Hime’s nonromantic answer is not reversed; no new explicit limit/uptake trial is cleanly supplied. |
+| **WY14-REL13 — Nene→Sumika** | Offers companionship, updates her information about the breakup, and urges disclosure of actual wants instead of a polished withdrawal. | O13, i069–076. This is useful present friendship and regret-informed advice, not renewed romantic pursuit or knowledge of every prior private act. |
+| **WY14-REL14 — Sumika→Nene** | Accepts listening, states the cause of her tears, follows the advice to speak, and later acknowledges happiness in being allowed to keep loving. | O13/O26/O29, i072–076, i144–146. The locally repaired bond has behavioral use; permanent resolution of all former feelings is not established. |
+| **WY14-REL15 — Nene→Yoko** | Supports the present response, retains an ambivalent memory of past benefit, and blocks the contact route. | O23, i118, i125. Boundary maintenance does not require declaring every past moment valueless; no renewed meetings or romance. |
+| **WY14-REL16 — Mai→Yoko / staff protection** | Confronts the current evidence, forbids further approach to the girls, and communicates a conditional future police response. | O19–O22, i101–117. Her invitation uses deception; her knowledge is reported/source-mediated; future compliance and official action remain unshown. |
+| **WY14-REL17 — Yoko→staff relations** | Minimizes harm, treats provoked reactions as interpretive confirmation, and agrees to disengage without a clear remorse account. | O20–O22, i104–116. Agreement is an observable speech act; sincerity, durable disengagement and rehabilitation are separate questions. |
+| **WY14-REL18 — Yoko→unnamed senior, historical** | Shares books, writes sister stories, expresses affection, is startled by the senior’s approach, and then supplies a reassuring same-feelings answer. | O24, i119–123. Exact original romantic self-understanding and complete relationship history remain uncertain. This is a new retrospective account, not present café knowledge. |
+| **WY14-REL19 — unnamed senior→Yoko, historical** | Initiates intimate closeness and voices fear of rejection; receives Yoko’s reassurance. | O24/O25, i121–124. No full motive hierarchy, subsequent sexual history, marriage, child-parent identity, or long-term agreement is established. |
+| **WY14-REL20 — group / workplace belonging** | The staff sustains a successful event and later celebration through practical coordination and unevenly informed care; Kanoko has a reason to belong beyond accompanying Hime. | O06/O09/O11/O26/O27/O31/O35. Collective success is real but does not imply shared access to every private relation or a conflict-free workplace. |
+
+### 6.1 The revised SK relation is neither a reset nor a concealed conventional couple
+
+The current state should not be summarized as “they become friends again” without qualification. The earlier confidant relation was organized around Kanoko’s Hime-directed love and Sumika’s protective availability; Sumika’s own romantic investment was incompletely shared. V14 adds that investment as a legitimate subject of care. Kanoko does not agree to provide romance in return, but she does choose to care about what the love costs and means to Sumika. The arrangement therefore preserves a real asymmetry while changing its information and obligations. [REL05–REL09.]
+
+The opposite compression—“Kanoko actually loves Sumika romantically now”—is also unsupported. Her mainline distinctions and the separately bounded short explicitly resist that conclusion. The affection is not thin or generic simply because it is not classified as romance. She identifies a new special person, chooses her company, wants her happiness, and becomes capable of protecting a feeling she does not share. These are positive findings rather than absences waiting to be corrected by a future label. [O14/O17/O27/O30/O33.]
+
+### 6.2 Comparative relationship limits
+
+Yoko’s senior memory and Sumika’s first proposed ending both involve fear of losing a relation when desires do not match. They are not identical stories. The senior’s plea does not establish the same conduct as Yoko’s later coercion; Sumika’s release and withheld kiss differ from an insistence that compliance proves true desire. Nene’s supportive presence likewise cannot be reduced to her former romantic hopes. Cross-pair comparison is useful only when each person’s acts, knowledge, and available choices remain attached to that person. [REL02/REL13/REL15/REL18/REL19.]
