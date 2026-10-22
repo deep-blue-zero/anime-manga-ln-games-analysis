@@ -1098,6 +1098,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`expanded-cohort-monograph` — Chris / Eris: bounded expanded character monograph](series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_CHRIS_ERIS_CHARACTER_MONOGRAPH.md) — **active provisional authority**
 
+### Cian
+
+- Entity ID: `harmony:kian`
+- Entity aliases:
+  - _None._
+
+#### Subject: Original Japanese novel continuity
+
+- Analysis subject ID: `harmony:kian@original-novel`
+- Series: `harmony`
+- Continuity: `original-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - Kian (en, TRANSLITERATION) — Historical analyst spelling retained after reviewed prose-publisher display-name correction; stable entity and subject IDs unchanged.
+- Analytical coverage:
+  - `g3-study-scope`: OTHER OTHER: School affiliation, ethical objection and hesitant participation; the adult reunion, retrospective rescue/balancer disclosure, mourning and the recorded fatal appeal. This is the monograph’s bounded original-novel scope, not continuous chapter coverage or a complete account of Kian’s professional and private life.; continuity `original-novel`
+- Reviewed current evidence:
+  - [`g3-character-study` — Kian: G3 literary character study](series/harmony/04%20Character%20and%20Relationship%20Studies/HARMONY_KIAN_MONOGRAPH.md) — **active provisional authority**
+
 ### Clavis Shepherd
 
 - Entity ID: `genocidal-organ:clavis-shepherd`
@@ -1279,6 +1299,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `dragon-boy-reviewed-corpus`: ANIME EPISODE: Substantial subject-specific sections in a canonical Phase-3 character synthesis across the first-season episode boundary declared by the artifact; multi-subject documents are enrolled only for their explicitly co-primary subjects.; continuity `to-be-hero-x-animated-series`
 - Reviewed current evidence:
   - [`13-dragon-boy-smile-pain-fear-and-punitive-heroism` — 13 DRAGON BOY SMILE PAIN FEAR AND PUNITIVE HEROISM](series/to-be-hero-x/03%20V2%20Specialist%20Syntheses/01%20Characters%20and%20Relationships/13_DRAGON_BOY_SMILE_PAIN_FEAR_AND_PUNITIVE_HEROISM.md)
+
+### Dust
+
+- Entity ID: `konosuba:dust`
+- Entity aliases:
+  - _None._
+
+#### Subject: Original light-novel continuity, bounded expanded cohort
+
+- Analysis subject ID: `konosuba:dust@original-light-novel`
+- Series: `konosuba`
+- Continuity: `original-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `expanded-cohort-01`: LIGHT_NOVEL OTHER: Bounded synthesis of admitted DUST01–07 analytical reports and separately identified unnumbered DUST-CONT, with qualified main-series and expanded supplemental context. Shared-event retellings are not independent trials. This is monograph review, not new whole-book primary reading or a completed scene/identity census; game-novelization evidence does not automatically merge another continuity.; continuity `original-light-novel`
+- Reviewed current evidence:
+  - [`expanded-cohort-monograph` — Dust: bounded expanded character monograph](series/konosuba/05%20Specialist%20Synthesis/KONOSUBA_DUST_CHARACTER_MONOGRAPH.md) — **active provisional authority**
 
 ### Effa
 
@@ -3536,26 +3576,6 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`keroppe-naoki-comparison` — Keroppe × Naoki — SHINE POST](series/maebashi-witches/V1%20Analysis/05%20Comparative%20Analysis/MAEBASHI_CROSS_SERIES_INTERACTION_REFERENCE.md)
 
-### Kian
-
-- Entity ID: `harmony:kian`
-- Entity aliases:
-  - _None._
-
-#### Subject: Original Japanese novel continuity
-
-- Analysis subject ID: `harmony:kian@original-novel`
-- Series: `harmony`
-- Continuity: `original-novel`
-- Inclusion basis: `DEDICATED`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
-- Subject aliases:
-  - _None._
-- Analytical coverage:
-  - `g3-study-scope`: OTHER OTHER: School affiliation, ethical objection and hesitant participation; the adult reunion, retrospective rescue/balancer disclosure, mourning and the recorded fatal appeal. This is the monograph’s bounded original-novel scope, not continuous chapter coverage or a complete account of Kian’s professional and private life.; continuity `original-novel`
-- Reviewed current evidence:
-  - [`g3-character-study` — Kian: G3 literary character study](series/harmony/04%20Character%20and%20Relationship%20Studies/HARMONY_KIAN_MONOGRAPH.md) — **active provisional authority**
-
 ### Kibe
 
 - Entity ID: `rent-a-girlfriend:kibe`
@@ -4384,6 +4404,27 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `bounded-literary-scope`: ANIME EPISODE: Dedicated E02-E12 literary analysis with childhood retrospection: bounded care, boxing ambition, family disclosure, loneliness, relationship naming and resistance to unilateral departure. Her reported death/revival does not establish precise choreography, a confirmed romantic pairing or a resolved future arrangement.; continuity `sayonara-lara-anime`
 - Reviewed current evidence:
   - [`reviewed-literary-monograph` — Mari Otsu provisional literary monograph](series/sayonara-lara/04_Characters/SYL_MARI_MONOGRAPH.md) — **active provisional authority**
+
+### Miach Mihie
+
+- Entity ID: `harmony:miach-mihie`
+- Entity aliases:
+  - _None._
+
+#### Subject: Original novel, bounded comparative ethics
+
+- Analysis subject ID: `harmony:miach-mihie@original-novel`
+- Series: `harmony`
+- Continuity: `original-novel`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `IDEOLOGY`, `DECISION_MAKING`
+- Subject aliases:
+  - Miaha (en, TRANSLITERATION) — Historical analyst spelling for this original-novel subject; preserved for retrieval.
+- Analytical coverage:
+  - `comparative-study-scope`: OTHER OTHER: Bounded comparative treatment of adolescent alienation from involuntary care and the later pressure strategy discussed through HAR-U019. Distinct histories, purposes and factional powers remain attributed; neither a whole-novel character study nor primary-witness or reconstruction-model review is claimed.; continuity `original-novel`
+- Reviewed current evidence:
+  - [`comparative-chronology` — Comparative chronology: attributed protective intervention](studies/project-itoh-genocidal-organ-harmony/CHRONOLOGY_AND_CAUSAL_RECONSTRUCTION.md) — **active provisional authority**
+  - [`comparative-ethics` — Comparative ethics: agency, protection and imposed costs](studies/project-itoh-genocidal-organ-harmony/COMPARATIVE_ETHICS_AND_FORM.md) — **active provisional authority**
 
 ### Midori
 
@@ -5250,6 +5291,27 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `reviewed-scope`: LIGHT_NOVEL VOLUME: Japanese light-novel V10 retrospective departure and escort; V11 school withdrawal, reflection, learning and faith; V12 loss and dissent; V13 privacy, writing and council work; V15 departure questions, marriage dissent and learning.; continuity `light-novel`
 - Reviewed current evidence:
   - [`character-model` — Bounded character analysis through V15](series/mushoku-tensei/04%20Character%20Analysis/norn/RECONSTRUCTION_MODEL.md)
+
+### Nuaza
+
+- Entity ID: `harmony:nuaza`
+- Entity aliases:
+  - _None._
+
+#### Subject: Original novel, bounded comparative ethics
+
+- Analysis subject ID: `harmony:nuaza@original-novel`
+- Series: `harmony`
+- Continuity: `original-novel`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `IDEOLOGY`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `comparative-study-scope`: OTHER OTHER: Bounded analysis of Nuaza’s catastrophe-prevention rationale and emergency volition-control proposal, centered on the study’s treatment of HAR-U014. This is a comparative ethical reading, not a complete life history, primary-source rereading or review of his separate monograph/model.; continuity `original-novel`
+- Reviewed current evidence:
+  - [`comparative-chronology` — Comparative chronology: attributed protective intervention](studies/project-itoh-genocidal-organ-harmony/CHRONOLOGY_AND_CAUSAL_RECONSTRUCTION.md) — **active provisional authority**
+  - [`comparative-ethics` — Comparative ethics: agency, protection and imposed costs](studies/project-itoh-genocidal-organ-harmony/COMPARATIVE_ETHICS_AND_FORM.md) — **active provisional authority**
 
 ### Okuyama Sumire
 
@@ -7221,6 +7283,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`claim-evidence-ledger` — Bounded chapter character interpretations and counterevidence](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
   - [`entity-state-ledger` — Individual character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
   - [`episode-1-0-arc-reading` — EPISODE 1.0 arc reading: individual motives, choices and relationships](series/tokyo-7th-sisters/07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_1_0_ARC_DEEP_READING.md)
+
+### Tuan Kirie
+
+- Entity ID: `harmony:tuan-kirie`
+- Entity aliases:
+  - _None._
+
+#### Subject: Original novel, bounded comparative ethics
+
+- Analysis subject ID: `harmony:tuan-kirie@original-novel`
+- Series: `harmony`
+- Continuity: `original-novel`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `ETHICS`, `IDEOLOGY`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `comparative-study-scope`: OTHER OTHER: Bounded comparative analysis of Tuan’s challenge to inherited protective obligations, difficulty separating brain treatment from personal authority, and final decision and violence toward Miach at HAR-U019. This does not cover the whole novel, its subsequent epilogue, her separate monograph or ordinary-life and speech behavior.; continuity `original-novel`
+- Reviewed current evidence:
+  - [`comparative-ethics` — Comparative ethics: agency, protection and imposed costs](studies/project-itoh-genocidal-organ-harmony/COMPARATIVE_ETHICS_AND_FORM.md) — **active provisional authority**
 
 ### Tuuli
 

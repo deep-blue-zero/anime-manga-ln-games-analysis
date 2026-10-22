@@ -1,0 +1,730 @@
+{
+  "schema": "SW-G2-publication-derivative/1",
+  "generation": "SW-G2",
+  "status": "draft_noncurrent",
+  "do_not_use_as_current_authority": true,
+  "supersedes": [],
+  "superseded_by": [],
+  "created_UTC": "2026-10-21T00:41:52.595828+00:00",
+  "publication_base_commit": "4825fbc310c1192ba27fab58a16484a4f518f906",
+  "independent_frozen_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+  "independent_frozen_corpus_tree": "b76280cdd3cbbfb440588eaa227a8a1e3f666fed",
+  "independent_local_tag": "sw-g2-independent-20261019-freeze",
+  "original_comparison_commit": "81c1c20f9c17efb9a4c3438b78612ed368fe5184",
+  "comparison_V1_boundary_commit": "c5646c50f8e7cc0b7ea6ac79204cd3e2558bb5a5",
+  "original_source_manifest_sha256": "4c481df2b1009404c4f2ddf539a021b8a23ba480ee1879337fd3aaed61c69071",
+  "unchanged_source_boundary_sha256": "3665725ad120e9f5d3c15d35f27b576267d7583b638519fcf0e118ccb7d5974c",
+  "scope": "70 completed artifacts; technical private-path normalization only. Original commits and tag remain unmodified local records and are not publication ancestors. Historical reviewer hashes identify original reviewed bytes, not this derivative.",
+  "aliases": {
+    "urn:sw-g2:source": "Witness-relative primary-source identity; source media excluded. Preserve unit, EPUB member and native paragraph locators.",
+    "urn:sw-g2:admission-evidence": "Private source admission and fidelity receipts; metadata identities only.",
+    "urn:sw-g2:norm": "Screened normative instructions retained privately.",
+    "urn:sw-g2:review": "Private original review packets and diff/context records.",
+    "urn:sw-g2:comparison-input": "Original G2 and V1 snapshots at the recorded immutable boundaries.",
+    "urn:sw-g2:comparison-review-archive": "Private original comparison review records.",
+    "urn:sw-g2:private-frozen-repository": "Original exact local frozen Git repository; not a filesystem location.",
+    "urn:sw-g2:work": "Historical private producer progress records; excluded from the publication corpus."
+  },
+  "artifacts": [
+    {
+      "path": "series/silent-witch/10 Codex G2/00 Method/NORMATIVE_ANALYTICAL_METHOD_DRAFT.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "29cf134e5ce6da5bc79e7749460dcfd71ce2aaa9",
+      "original_bytes": 25206,
+      "original_sha256": "a237f6b9c7a4a11e6dc2d6d2eb073b630d0748123f16301341fdec250d80ecfe",
+      "publication_bytes": 25206,
+      "publication_sha256": "a237f6b9c7a4a11e6dc2d6d2eb073b630d0748123f16301341fdec250d80ecfe",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/00 Method/NORMATIVE_RECONSTRUCTION_READINESS_DRAFT.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "0dc2dcdc4e3cd7aba9b207b02e7f86ae607a2908",
+      "original_bytes": 13806,
+      "original_sha256": "92bedeb62592f015edef95458bf3c9d3ed31cb5291225318cf049ab78970941b",
+      "publication_bytes": 13806,
+      "publication_sha256": "92bedeb62592f015edef95458bf3c9d3ed31cb5291225318cf049ab78970941b",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/00 Method/NORMATIVE_SYNTHESIS_ARCHITECTURE_DRAFT.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "b04574319107e4888bf29584da938ed6163279da",
+      "original_bytes": 17688,
+      "original_sha256": "2fc5a608909090805398452b04bb4f0010dc3446e5beebf57d9c602b3e81be04",
+      "publication_bytes": 17688,
+      "publication_sha256": "2fc5a608909090805398452b04bb4f0010dc3446e5beebf57d9c602b3e81be04",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/00 Method/NORMATIVE_VOLUME_TEMPLATE_DRAFT.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "4777991b59033c3a187b3d839764fb5c1f125d4b",
+      "original_bytes": 11805,
+      "original_sha256": "9bc6bed8b5014a59a5124fd14d5620240149663d46ff8b59f2f3c67765ad41c3",
+      "publication_bytes": 11805,
+      "publication_sha256": "9bc6bed8b5014a59a5124fd14d5620240149663d46ff8b59f2f3c67765ad41c3",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/00 Method/RUN_INSTRUCTIONS.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "7d6fd7e5080183aa680d1c95ef4cb8e8cd369f41",
+      "original_bytes": 5676,
+      "original_sha256": "680783f86381c5a62a65c0eb4b8c96f6a02dac682dc849be79b7809842bfa53c",
+      "publication_bytes": 5676,
+      "publication_sha256": "680783f86381c5a62a65c0eb4b8c96f6a02dac682dc849be79b7809842bfa53c",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/00_PROVENANCE_AND_SCOPE.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "bd84d68e5d1e064ba958c55e56b8056d0b6a5472",
+      "original_bytes": 2643,
+      "original_sha256": "be47515f8dd0b4ecc9a1c2ab06943d746133d751bccbdcac3f173e8722dc445a",
+      "publication_bytes": 2643,
+      "publication_sha256": "be47515f8dd0b4ecc9a1c2ab06943d746133d751bccbdcac3f173e8722dc445a",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/00_RUN_STATE.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "beeaf724df4afd6ab64b9611c206e8b474c5629c",
+      "original_bytes": 134622,
+      "original_sha256": "10d1df7579a62d79e6e0ac760f54b121c1df135e81339afc2e8c192f534d4ccb",
+      "publication_bytes": 134651,
+      "publication_sha256": "0e76d12c02dd0e5a9697153b52ce55bbe5e9bc756ab092d093cb57e8e0943a70",
+      "transformation": "private-path references only"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/01 Sequential Readings/SW_CG2_AFTER04_DEEP_READING.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "517e79cc3e6c750ba9017bdb20af2d536dfaac85",
+      "original_bytes": 84025,
+      "original_sha256": "b32db8a4d3038d1a3ed1b18a1e491cf83f5a2919ad1367cc4878b6f5def778c6",
+      "publication_bytes": 84025,
+      "publication_sha256": "b32db8a4d3038d1a3ed1b18a1e491cf83f5a2919ad1367cc4878b6f5def778c6",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/01 Sequential Readings/SW_CG2_ANOTHER-LOWER_DEEP_READING.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "76345c6321e72a1a42995cd3dac2a0a1ded25c61",
+      "original_bytes": 87703,
+      "original_sha256": "faaeda13fb967975cd654c4abbfcba491be004cee50b1ba467d8b607455583f8",
+      "publication_bytes": 87623,
+      "publication_sha256": "f7f3df9adf45e1e2e4f8f5f5364a89012eee2ec5ffcfd08cc27923d2595ed3aa",
+      "transformation": "private-path references only"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/01 Sequential Readings/SW_CG2_ANOTHER-UPPER_DEEP_READING.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "3d1aec4c3a47f4614902da479157e20eafe349c0",
+      "original_bytes": 92637,
+      "original_sha256": "0d198deb6f4fc28495410ecd51c27b1911afdbcd1eab9c91458bba1fcb507e51",
+      "publication_bytes": 92637,
+      "publication_sha256": "0d198deb6f4fc28495410ecd51c27b1911afdbcd1eab9c91458bba1fcb507e51",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/01 Sequential Readings/SW_CG2_EXTRA09_DEEP_READING.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "2acc72243b6a1d02fc96c78207b57f23584f3772",
+      "original_bytes": 78698,
+      "original_sha256": "ec02fd1dade9ae890d5d58d450430e452c42193bf1dde541a6cebd9c674a0a0a",
+      "publication_bytes": 78698,
+      "publication_sha256": "ec02fd1dade9ae890d5d58d450430e452c42193bf1dde541a6cebd9c674a0a0a",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/01 Sequential Readings/SW_CG2_V01_DEEP_READING.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "cdbfbe53ed9d3a4fcc9b0f4ca1e1bbfb99265546",
+      "original_bytes": 64167,
+      "original_sha256": "7ef3478fde723a70e52bc9a8d40c90f28cd088bdaf926232b6348697c258932b",
+      "publication_bytes": 64167,
+      "publication_sha256": "7ef3478fde723a70e52bc9a8d40c90f28cd088bdaf926232b6348697c258932b",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/01 Sequential Readings/SW_CG2_V02_DEEP_READING.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "7e5fbe6e0290267ff3b0b68af1856a6e093161a2",
+      "original_bytes": 89575,
+      "original_sha256": "e9d0cceca227d33cdd331d6dc8c1c944acfda756c4e0dd17375a5eaf22601917",
+      "publication_bytes": 89575,
+      "publication_sha256": "e9d0cceca227d33cdd331d6dc8c1c944acfda756c4e0dd17375a5eaf22601917",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/01 Sequential Readings/SW_CG2_V03_DEEP_READING.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "d3004c1fcfd9b469715c67c900b40b436cd6f9cb",
+      "original_bytes": 120866,
+      "original_sha256": "8dcc5952983ce8aa0693449f536ea2228f46a95a8c67c294a4764a1ca3a67601",
+      "publication_bytes": 120866,
+      "publication_sha256": "8dcc5952983ce8aa0693449f536ea2228f46a95a8c67c294a4764a1ca3a67601",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/01 Sequential Readings/SW_CG2_V04_DEEP_READING.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "3a9ded01bae49422cf383a78785665d3f8acfc62",
+      "original_bytes": 103988,
+      "original_sha256": "924de97e8db5ea885b6c66ef4fb5796ab4b3f39f260a885c703758406bee27af",
+      "publication_bytes": 103988,
+      "publication_sha256": "924de97e8db5ea885b6c66ef4fb5796ab4b3f39f260a885c703758406bee27af",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/01 Sequential Readings/SW_CG2_V05_DEEP_READING.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "3c4e95a648b4176091131b20fd85c395cd5a8241",
+      "original_bytes": 98484,
+      "original_sha256": "e5ea862f5af705d433b9fad85a7ddcc4ed3428b5b1dc053dd5c30b908b2f1d51",
+      "publication_bytes": 98484,
+      "publication_sha256": "e5ea862f5af705d433b9fad85a7ddcc4ed3428b5b1dc053dd5c30b908b2f1d51",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/01 Sequential Readings/SW_CG2_V06_DEEP_READING.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "375b45fff69ea480b720ee86d490030947f0a64b",
+      "original_bytes": 88599,
+      "original_sha256": "f7797d17a525222706b060673fb44512334585591ad64620e7d3b0e7d650a655",
+      "publication_bytes": 88599,
+      "publication_sha256": "f7797d17a525222706b060673fb44512334585591ad64620e7d3b0e7d650a655",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/01 Sequential Readings/SW_CG2_V07_DEEP_READING.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "0ce54bd9bb767347725085699e097d436d4b066e",
+      "original_bytes": 92943,
+      "original_sha256": "e7ae6c5651f430468ee5dcd5510476775610aa40953eb971795e8f4d6a3210cb",
+      "publication_bytes": 92918,
+      "publication_sha256": "457bb0edae684390b1674040af7728a4edf03ceb295da0f9e47b70bfa904d6ce",
+      "transformation": "private-path references only"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/01 Sequential Readings/SW_CG2_V08_DEEP_READING.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "cd50b250709e05c879af8cfb880aa9f305c19b11",
+      "original_bytes": 107884,
+      "original_sha256": "a0ea307091957e79d79a03991f7717fe44c4f183a03ba9c6f79389af82ca337b",
+      "publication_bytes": 107892,
+      "publication_sha256": "e3b3fce732396d885db1950c839ef07a308122c8122beb22fde2b4de2eb6560d",
+      "transformation": "private-path references only"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/01 Sequential Readings/SW_CG2_V09_DEEP_READING.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "adea09887a075ee526ef989f034c2d586ee3ad7a",
+      "original_bytes": 78310,
+      "original_sha256": "acd10518613e29f6770a056b2576f9e6f7c50f18770f88532bd54444ff1984ba",
+      "publication_bytes": 78318,
+      "publication_sha256": "3edd0c73874cc4c99db7f3ac54a06b08ad984210ec1a64f81366247b8e6a457a",
+      "transformation": "private-path references only"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/01 Sequential Readings/SW_CG2_V10_DEEP_READING.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "9c2087179eb6f199f1f776301e5523f141451560",
+      "original_bytes": 76359,
+      "original_sha256": "74c64edd0412764e659c910e2303577a5aff958f6dc41ca0464e7dae3c5c9a42",
+      "publication_bytes": 76359,
+      "publication_sha256": "74c64edd0412764e659c910e2303577a5aff958f6dc41ca0464e7dae3c5c9a42",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/01 Sequential Readings/SW_CG2_V11_DEEP_READING.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "04c4c59784394718b17944ad4544ce85862f4a28",
+      "original_bytes": 88194,
+      "original_sha256": "cb1549a802dee1cb3f227620f16176a7dc237e3e09d06e62faba5f9b238db296",
+      "publication_bytes": 88184,
+      "publication_sha256": "9ea4f40415e0ca13aee5e8c9dc396484fec8e78155107ed2c73345e3da478fc3",
+      "transformation": "private-path references only"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/01 Sequential Readings/SW_CG2_V12_DEEP_READING.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "a57a8987f688ca61e6b190cf1b5c8dd64df28c5e",
+      "original_bytes": 106369,
+      "original_sha256": "bfcba9b626e0433709b240f0387b01a446a3e82ed036663910aa37484e3d1dbd",
+      "publication_bytes": 106349,
+      "publication_sha256": "b648b298154d3ae2df949e4360c6ecf7ce296d0d23a4113823fe43f7d125a71f",
+      "transformation": "private-path references only"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/02 Cumulative/SW_CG2_CLAIMS_AND_REVISIONS.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "5d4c9c9fb9560076085eff1bd2eb241360546e89",
+      "original_bytes": 494757,
+      "original_sha256": "99a75f67ab0d46619080e6053122f1827931f22bf9ee1ae573352cfb6b4ea200",
+      "publication_bytes": 494747,
+      "publication_sha256": "8c42f2e4e927fa98e65c05231c4e0eb9425786239abd8bf640dcd29fb8a1d709",
+      "transformation": "private-path references only"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/02 Cumulative/SW_CG2_MASTER_LEDGER.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "e132d07ce9d7167a06ab14cb3de1d89fbc39e789",
+      "original_bytes": 644761,
+      "original_sha256": "a1a92a54b80b38eac76e826e5cd01e452009defb71cf6330b6681233ecb43e3f",
+      "publication_bytes": 644761,
+      "publication_sha256": "a1a92a54b80b38eac76e826e5cd01e452009defb71cf6330b6681233ecb43e3f",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/03 Characters and Relationships/SW_CG2_CYRIL.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "aae20bc4640f3dbe9d83f5b011b11db07c2c6b65",
+      "original_bytes": 16847,
+      "original_sha256": "fe043287290d6802290ff4f91450d734a18201f1c0a3fb3f0a229e33e2900123",
+      "publication_bytes": 16847,
+      "publication_sha256": "fe043287290d6802290ff4f91450d734a18201f1c0a3fb3f0a229e33e2900123",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/03 Characters and Relationships/SW_CG2_ISAAC.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "de5c6056f79ef6e50feb4974d1a6a885aa76cb37",
+      "original_bytes": 16574,
+      "original_sha256": "a2a4a5ac88800b191f945e6d7ed6bfab1f44ccff16469c0a370d41346c4829c6",
+      "publication_bytes": 16574,
+      "publication_sha256": "a2a4a5ac88800b191f945e6d7ed6bfab1f44ccff16469c0a370d41346c4829c6",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/03 Characters and Relationships/SW_CG2_LOUIS_ROSALIE.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "9f6fc90f8c2a97740bea97a8079d80577ae24029",
+      "original_bytes": 19582,
+      "original_sha256": "3fda261ed55cc9152364075c14224c4330f945862ff717b5c0e027e161d12c46",
+      "publication_bytes": 19582,
+      "publication_sha256": "3fda261ed55cc9152364075c14224c4330f945862ff717b5c0e027e161d12c46",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/03 Characters and Relationships/SW_CG2_MONICA.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "e52408ca01e15fecc0760dde04c444f1018527e0",
+      "original_bytes": 18470,
+      "original_sha256": "97e768252cb6fa7474ead9d22f7b6e497aacef9096dc76915cd57c6e1462034a",
+      "publication_bytes": 18470,
+      "publication_sha256": "97e768252cb6fa7474ead9d22f7b6e497aacef9096dc76915cd57c6e1462034a",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/03 Characters and Relationships/SW_CG2_MONICA_CYRIL.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "e10b6a51bff02bace988ac64f7077d1a2322b69d",
+      "original_bytes": 17626,
+      "original_sha256": "793b1ee54fb84049676446e1f75396072c1259f2c3c93ddbe90c45a2feeae1e3",
+      "publication_bytes": 17626,
+      "publication_sha256": "793b1ee54fb84049676446e1f75396072c1259f2c3c93ddbe90c45a2feeae1e3",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/03 Characters and Relationships/SW_CG2_MONICA_ISAAC.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "21c12ec3d32102f4c1a0960e9eb44deeb06107df",
+      "original_bytes": 18376,
+      "original_sha256": "9dea7c9c3e8372fc7b6e32f0ab94835cad3ad7407e3cedab054a143cebd6e0ea",
+      "publication_bytes": 18376,
+      "publication_sha256": "9dea7c9c3e8372fc7b6e32f0ab94835cad3ad7407e3cedab054a143cebd6e0ea",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/03 Characters and Relationships/SW_CG2_POWER_AND_DEPENDENCE.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "d1e1ba8bd023519d91fab6ad62b383125d94b7e7",
+      "original_bytes": 19691,
+      "original_sha256": "86a719da91c351aee08b18fa3ca764db2ce5c2b30da8ba5420885047d3bcaf71",
+      "publication_bytes": 19691,
+      "publication_sha256": "86a719da91c351aee08b18fa3ca764db2ce5c2b30da8ba5420885047d3bcaf71",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/03 Characters and Relationships/SW_CG2_SCHOOL_COMPANIONS.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "354777aa08eb3db840bbe2b16b6dedbe56d85601",
+      "original_bytes": 21909,
+      "original_sha256": "017ce2c063a1d4900a43339896baf185929d4ee0044cb73b7b3f19026478174b",
+      "publication_bytes": 21909,
+      "publication_sha256": "017ce2c063a1d4900a43339896baf185929d4ee0044cb73b7b3f19026478174b",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/04 Specialist Arguments/SW_CG2_EXPERTISE_INSTITUTIONS.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "2263e9c51ef0604826b1415dbb9f4253c9328d1e",
+      "original_bytes": 16948,
+      "original_sha256": "41db6b97a89ff037f4fc077210b2d4502123eaf33cb970438b4889992cc922fb",
+      "publication_bytes": 16948,
+      "publication_sha256": "41db6b97a89ff037f4fc077210b2d4502123eaf33cb970438b4889992cc922fb",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/04 Specialist Arguments/SW_CG2_NARRATION_VOICE_ETHICS.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "e1627ab80c4d38b4837486efea897cd64dc88cfe",
+      "original_bytes": 16776,
+      "original_sha256": "53516a2d49c3230ebb339781462fc595ffdbc591b33f4d0c167e904acfa9fe8b",
+      "publication_bytes": 16776,
+      "publication_sha256": "53516a2d49c3230ebb339781462fc595ffdbc591b33f4d0c167e904acfa9fe8b",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/05 Synthesis/SW_CG2_SIXTEEN_WORK_SYNTHESIS.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "2ac100c4207c64fdd2cf59567450e52d67a746fb",
+      "original_bytes": 30828,
+      "original_sha256": "9062b28c23e59e16a46313a53a0f660c620ebdf340dd9e19fdef7b46431db698",
+      "publication_bytes": 30828,
+      "publication_sha256": "9062b28c23e59e16a46313a53a0f660c620ebdf340dd9e19fdef7b46431db698",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_AFTER04_SEMANTIC_REVIEW.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "eece51dbfc26e9a0ba63f8116ed9346982c7bec4",
+      "original_bytes": 23591,
+      "original_sha256": "25e31a198f483ee8b816250f936321dd0364475ddd1e6bee9a18336ef00d8167",
+      "publication_bytes": 23402,
+      "publication_sha256": "c499eff2350afde8a63f9c7bc1a3bdd239ab39979a2423e6581ece7b7ac50f2a",
+      "transformation": "private-path references only"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_AFTER04_SOURCE_REPAIR_RECHECK.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "b83ae5f0d69b8579b266d7850c5f57bd40da2ba1",
+      "original_bytes": 15007,
+      "original_sha256": "1ec393eee1d443bda9aefc5685fd59ac54425f518a5ab349bf52cc5c24466e8f",
+      "publication_bytes": 14089,
+      "publication_sha256": "93aaddfeb6b4e33b4550c9e4e9b0dccb95cadbb21c85a301eea601ea0bb55781",
+      "transformation": "private-path references only"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_ANOTHER-LOWER_SEMANTIC_REVIEW.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "ec90921a5d38737d75db6e350485385694cf956f",
+      "original_bytes": 18692,
+      "original_sha256": "11ccec8444858ca92ecc5227861b3f6625ca93dc8460ded030a43a001ace187c",
+      "publication_bytes": 18595,
+      "publication_sha256": "e6be6abc601c1caff68cd895a67791176219a70e75f37a14c18fc16284cf914e",
+      "transformation": "private-path references only"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_ANOTHER-UPPER_SEMANTIC_REVIEW.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "c9aca05fa5d5f7d0a690d6bf816d363892b279aa",
+      "original_bytes": 20835,
+      "original_sha256": "524405301f78ce0c76e03f27d58e2fe604f70ba8e13096bc6289f0a1fc151686",
+      "publication_bytes": 20738,
+      "publication_sha256": "0672e6e313dbf9f82e828b4b70f83114df5de762a82ae0ad71ff9242a36a5e8a",
+      "transformation": "private-path references only"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_EXTRA09_SEMANTIC_REVIEW.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "2ba2c1db1f206bd9423db038b660aacd18591892",
+      "original_bytes": 19583,
+      "original_sha256": "ed321dadc871b17b0ad373ebfad91fb08cd361db0d44e029fa43a013095f9ea0",
+      "publication_bytes": 19486,
+      "publication_sha256": "31f07cf1fb64815b3fb6d3879a648952d33962df3d78d05ed63d2d30f8654f5f",
+      "transformation": "private-path references only"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_FINAL_CORPUS_SEMANTIC_REVIEW.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "5f009d1fc3734851b999fc311c66e8285fc0f2e7",
+      "original_bytes": 88404,
+      "original_sha256": "ca3be72fb5ae1d4815d7dd790d3efd5ce13d3dd291366c94a4ca786c5b5b0f37",
+      "publication_bytes": 87550,
+      "publication_sha256": "806aa7fa82f181cf2b163467d73b1f8877bce7f45c69fccce1d4af04b83afbbe",
+      "transformation": "private-path references only"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_V01_SEMANTIC_REVIEW.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "8cc2a11c452f417647c5a25df931d1c5568744ac",
+      "original_bytes": 19879,
+      "original_sha256": "692c42afa9b000abff7509e41be15a78282dec47db69c83263c34011993d826a",
+      "publication_bytes": 19879,
+      "publication_sha256": "692c42afa9b000abff7509e41be15a78282dec47db69c83263c34011993d826a",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_V02_PRECISION_RECHECK.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "715e33f2817fa69122136cb07f4e85ff05dd5d85",
+      "original_bytes": 6434,
+      "original_sha256": "ba4522b1dded7ab60540155730422b4344ede9253b0c783e59f3cece605a6c64",
+      "publication_bytes": 6434,
+      "publication_sha256": "ba4522b1dded7ab60540155730422b4344ede9253b0c783e59f3cece605a6c64",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_V02_REPAIR01_PRODUCER_RECORD.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "981563ca72efe90a31f81af9e7d0cb7e3bf6edd6",
+      "original_bytes": 5976,
+      "original_sha256": "1cf8c6255057c76d8fa458237bb8f242f68d3e211f3152f49b3dcfbdb0023ff1",
+      "publication_bytes": 5976,
+      "publication_sha256": "1cf8c6255057c76d8fa458237bb8f242f68d3e211f3152f49b3dcfbdb0023ff1",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_V02_SEMANTIC_REVIEW.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "694549021e0bf6ef907c1d5ac2e8b7cc9076ecdb",
+      "original_bytes": 19123,
+      "original_sha256": "7612373a19962f0bf613eafe35286b3cea924da8ce5e481841cc72a4072ad4f7",
+      "publication_bytes": 19123,
+      "publication_sha256": "7612373a19962f0bf613eafe35286b3cea924da8ce5e481841cc72a4072ad4f7",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_V03_REPAIR01_PRODUCER_RECORD.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "c9a815309b062c74691d4d820e84ebd23b10a03c",
+      "original_bytes": 6925,
+      "original_sha256": "85d42fb693ca90b4464f988671bc51e5ea7011b2fea4613073006477410b47dc",
+      "publication_bytes": 6925,
+      "publication_sha256": "85d42fb693ca90b4464f988671bc51e5ea7011b2fea4613073006477410b47dc",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_V03_SEMANTIC_REVIEW.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "fe37f5a33d71c4758d0d3c56d65aeb649eb3d363",
+      "original_bytes": 23197,
+      "original_sha256": "4549884b3f6835989bd88149d96c29067d1f8b486d584d7a425237f39f7831e1",
+      "publication_bytes": 23008,
+      "publication_sha256": "90d2b4399e446cef930cf0cde73376fc58b95af7c9ee58832629b644f73ab62c",
+      "transformation": "private-path references only"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_V03_SOURCE_REPAIR_RECHECK.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "f37b042c7ba6d6495bbd33fe7520a0f8d0a7d3bd",
+      "original_bytes": 10849,
+      "original_sha256": "fdbb61f21b2da198696b4cf252e9d1206516d3550efe582d69f1f3726a2a892c",
+      "publication_bytes": 10849,
+      "publication_sha256": "fdbb61f21b2da198696b4cf252e9d1206516d3550efe582d69f1f3726a2a892c",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_V04_SEMANTIC_REVIEW.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "a8e0d181a25a5362b4b2d8be5bc8779fccde0ce4",
+      "original_bytes": 22493,
+      "original_sha256": "3f8b5540db8b4b150d226cbc82ad288b3ecb82fdd544d0ed6aaacb619e86ee6a",
+      "publication_bytes": 22493,
+      "publication_sha256": "3f8b5540db8b4b150d226cbc82ad288b3ecb82fdd544d0ed6aaacb619e86ee6a",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_V05_SEMANTIC_REVIEW.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "8c136921526f8af593fdc1d3064c0c60bc9e57bc",
+      "original_bytes": 19370,
+      "original_sha256": "05ededa956ca7b5ed94cb84a89f9a458c42288aead0358949e1193bdab14087e",
+      "publication_bytes": 19370,
+      "publication_sha256": "05ededa956ca7b5ed94cb84a89f9a458c42288aead0358949e1193bdab14087e",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_V05_SOURCE_REPAIR_RECHECK.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "c9092de12074c5d33090fb67d565dc79aeb05281",
+      "original_bytes": 11427,
+      "original_sha256": "2fd4aa219f5da604bc1a55e4b1e184376ac318ab4156e97e57414c012afa95b2",
+      "publication_bytes": 9715,
+      "publication_sha256": "2fd7bf2603e7c642a528c3cbd626aa1936efcec08f7607e0fa84dc6ce2d7fcd7",
+      "transformation": "private-path references only"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_V06_SEMANTIC_REVIEW.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "d047c1cc278c62b530275b7c91c8b2b533ce14b5",
+      "original_bytes": 20916,
+      "original_sha256": "1dc45c4f3711f8e91a3d1ce6c138a18ab3cb5c139324b07893e7c722bae3f3a1",
+      "publication_bytes": 20819,
+      "publication_sha256": "c01e756256571c667b6775dbce29501015b70133dac605e02cb21b0a1bf6fd4a",
+      "transformation": "private-path references only"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_V06_SOURCE_REPAIR_RECHECK.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "1b34474d453a4d4bbb92a81ef50913f340f3ef87",
+      "original_bytes": 13712,
+      "original_sha256": "53424e2b7c48200d1daa20af5f9923f33f4f77d33adf501e9d4f1b64827ea1ba",
+      "publication_bytes": 12073,
+      "publication_sha256": "c53b503e17b52e95146dd85a754b1ed253188e4153d2d8b5945018002708d3a1",
+      "transformation": "private-path references only"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_V07_SEMANTIC_REVIEW.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "aedb21efa9de1c5ab4afd08723fc916a41be8b59",
+      "original_bytes": 20748,
+      "original_sha256": "f0360d2c4a8986a940b8874ffc76d4f2f7522667d76c5ec379a181cd5a892e55",
+      "publication_bytes": 20651,
+      "publication_sha256": "9af731e64a8adc2014b54a32a537480dfdb436b700858fea4ce1b50838d11ae2",
+      "transformation": "private-path references only"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_V07_SOURCE_REPAIR_RECHECK.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "5082084dfe79a711fc759c8ef56628d51e42a5af",
+      "original_bytes": 15073,
+      "original_sha256": "2eda1b30c310a56a5bc48498cf0b1d351c89d0eaad7d7c538591cf64ee20f194",
+      "publication_bytes": 12143,
+      "publication_sha256": "8f8fa199639af52496b959085c22bd35d22f710ccb96e339cf18b4b9f119b1ae",
+      "transformation": "private-path references only"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_V08_SEMANTIC_REVIEW.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "70f3a2f825abe2cf380ad1f36ed3f8dd3345f932",
+      "original_bytes": 21786,
+      "original_sha256": "e428a7151c010d2083cd1a7bcbd941825c285952012cb4fba826efedf6b97f75",
+      "publication_bytes": 21689,
+      "publication_sha256": "8c2125c740b5a7333be9a829ba5e31bc6ca3993b3d745cb813cf2c3eee6126f5",
+      "transformation": "private-path references only"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_V09_SEMANTIC_REVIEW.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "0b423356c1804c3bd5107c3cb53bdc866b35c466",
+      "original_bytes": 23876,
+      "original_sha256": "854c8ee048cd72b6cd5ef40fb28faa22f7cfc727a2b51e571d28159ba3db2298",
+      "publication_bytes": 23876,
+      "publication_sha256": "854c8ee048cd72b6cd5ef40fb28faa22f7cfc727a2b51e571d28159ba3db2298",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_V09_SOURCE_REPAIR_RECHECK.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "972ec1bae3e05a4aea49cf07c03384acfd45d903",
+      "original_bytes": 14142,
+      "original_sha256": "35d04e9942b815ee83716612f35c7890e7c10ccd17c42d5e964d83165f7cc91b",
+      "publication_bytes": 13349,
+      "publication_sha256": "ff62da760902c6bfaf08383c99a87465b1ea4d08e9e7ef165b5ccad62753dee6",
+      "transformation": "private-path references only"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_V10_SEMANTIC_REVIEW.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "9638d9028abcad7c8159888af95e5bba508acf23",
+      "original_bytes": 20304,
+      "original_sha256": "0b5ef6d757936e900ad002b66721b236623ee1e5596755ed38ee5c53de3c2a9c",
+      "publication_bytes": 20207,
+      "publication_sha256": "df6da1a9c7fd2090bc11a4f291cf9cf7845a570ae861fd9bb5cd6053fab614cf",
+      "transformation": "private-path references only"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_V11_SEMANTIC_REVIEW.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "0ce68a587d9208b65081091e32ad18c6ad352899",
+      "original_bytes": 19725,
+      "original_sha256": "34874426f5553df1f80e4ce4292e2b5a8b09c2f443088098fb50bf209eb08a92",
+      "publication_bytes": 19628,
+      "publication_sha256": "41befaedf5d98489bcff3f48b2a5354e698e22c363114e5a711cbf4c8219b8fa",
+      "transformation": "private-path references only"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_V11_SOURCE_REPAIR_RECHECK.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "c04ce2bf82c1c7bce27b31005cf6ac03315b1f26",
+      "original_bytes": 13839,
+      "original_sha256": "c6c31deae66a2506e9b04c1b5553a70f095aa739ae4d7a7ee3e373b7e224fb27",
+      "publication_bytes": 11503,
+      "publication_sha256": "527af02c2d0eaddf6e2d2aea0ada6175c6847cf90fe378ab0f98b927abe3a5e5",
+      "transformation": "private-path references only"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_V12_SEMANTIC_REVIEW.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "119a7400abdee7d9f31397a6fc9179ee4b855385",
+      "original_bytes": 19211,
+      "original_sha256": "9edda30bb6f01e5c9e11979637dedfee8183679f25ec3932270c8b80a4882ba9",
+      "publication_bytes": 19114,
+      "publication_sha256": "e59db9750b5d56320b6c1f18b4b9dd93b91be52cc340953f87fbc13b299b97ab",
+      "transformation": "private-path references only"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_V12_SOURCE_REPAIR_RECHECK.md",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "897b3be47119ae7129c8a72ec8006edc802b4dad",
+      "original_bytes": 13890,
+      "original_sha256": "70129cc0f0764f17fbdf5c060483f0fb5133eb549163d4e23ddf0268928356ec",
+      "publication_bytes": 12616,
+      "publication_sha256": "97dbdacbb0017a25a671ced725179a2257086a49341dc690bac116de372be7c0",
+      "transformation": "private-path references only"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/SOURCE_BOUNDARY.json",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "f4c3d63285fb3e368ec3d785dc414585cfce19f9",
+      "original_bytes": 40880,
+      "original_sha256": "3665725ad120e9f5d3c15d35f27b576267d7583b638519fcf0e118ccb7d5974c",
+      "publication_bytes": 40880,
+      "publication_sha256": "3665725ad120e9f5d3c15d35f27b576267d7583b638519fcf0e118ccb7d5974c",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "series/silent-witch/10 Codex G2/SOURCE_MANIFEST.json",
+      "original_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "original_blob": "387f66a28c2ee17cbc87dba4128821e9f68c9029",
+      "original_bytes": 412124,
+      "original_sha256": "4c481df2b1009404c4f2ddf539a021b8a23ba480ee1879337fd3aaed61c69071",
+      "publication_bytes": 407452,
+      "publication_sha256": "30985d1535508e8dc014eb0043e72f3828a4165946fc48c7610868e8754ddb14",
+      "transformation": "private-path references only"
+    },
+    {
+      "path": "series/silent-witch/11 Codex G2 Comparison/00_COMPARISON_BOUNDARY.json",
+      "original_commit": "81c1c20f9c17efb9a4c3438b78612ed368fe5184",
+      "original_blob": "718adad3877ea7ebb989af8e604c379ed869f8c5",
+      "original_bytes": 31261,
+      "original_sha256": "0ef6bea74cfeee3a000645aab71d7ce6833686a8f24d7265318c5d9b38124740",
+      "publication_bytes": 31000,
+      "publication_sha256": "1d23e32452153c397d20971b5a57a0f12b72cee194100d31634bddd649766d34",
+      "transformation": "private-path references only"
+    },
+    {
+      "path": "series/silent-witch/11 Codex G2 Comparison/Reviews/SW_CG2_V1_COMPARISON_SEMANTIC_REVIEW.md",
+      "original_commit": "81c1c20f9c17efb9a4c3438b78612ed368fe5184",
+      "original_blob": "2e57ff44960d75e63c6d5341cc8c523d3a9cf956",
+      "original_bytes": 66293,
+      "original_sha256": "acbba666b8e8580f30e85f764410137757a997522f68993b8190f4cc16965f4d",
+      "publication_bytes": 66035,
+      "publication_sha256": "8a74a5f2db6e692124426e151d400d168db7fefe7d67322348c3771c0488e692",
+      "transformation": "private-path references only"
+    },
+    {
+      "path": "series/silent-witch/11 Codex G2 Comparison/SW_CG2_V1_CLAIM_CROSSWALK_AND_SOURCE_ADJUDICATIONS.md",
+      "original_commit": "81c1c20f9c17efb9a4c3438b78612ed368fe5184",
+      "original_blob": "ee9797e8fd9ebf43af9ac8b0184648f61d89af14",
+      "original_bytes": 173093,
+      "original_sha256": "9cfe9e33eb841428c99a787ac28717731c8fc08ebb42ea8b0617c3a78562467a",
+      "publication_bytes": 172916,
+      "publication_sha256": "189b4fca8a5b4a5462f6a8c9393784681db27bc7bcf3a9ba3914912bd86fb540",
+      "transformation": "private-path references only"
+    },
+    {
+      "path": "series/silent-witch/11 Codex G2 Comparison/SW_CG2_V1_COMPARISON.md",
+      "original_commit": "81c1c20f9c17efb9a4c3438b78612ed368fe5184",
+      "original_blob": "b021ff5147569ce8e5ef64807a4001ee91eb77c1",
+      "original_bytes": 37002,
+      "original_sha256": "753ff900671d1f13feb67bd73f0f9e61513b43ece58fcb79b128327e8acb4187",
+      "publication_bytes": 37002,
+      "publication_sha256": "753ff900671d1f13feb67bd73f0f9e61513b43ece58fcb79b128327e8acb4187",
+      "transformation": "byte-identical"
+    }
+  ]
+}
