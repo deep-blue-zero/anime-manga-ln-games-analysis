@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: ledger_architecture
 scope: LONGITUDINAL_LEDGER_PROMOTION_AND_SCHEMA_CONTRACT
-generation: V0.23
+generation: V0.24
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -59,6 +59,20 @@ All28 predecessor artifacts/five owners/master§§2–12/formal protocol§§19�
 Only after this Ram pair's own complete exact-commit publication gate execute ROSWAAL_V01_V15_MODEL_AND_FIDELITY_REVIEW, with its own actual source/design reconciliation, construction, separate nineteen-dimension review and full gate before source16. Local documentary PASS_WITH_BOUND is not publication. Active continuous terminalV43/EVOLVING and no ordinary checkpoint/model pause remain.
 
 No new field, sixth conditioning ledger, independent ordinary/voice/evidence/readiness index or altered reserved trigger is earned. The exact Ram model/review homes were already registered; implemented responsibilities do not require schema promotion. The two-date source qualification and E014→E018 memory repair are derived-use controls, not causal-row edits. Registered exact candidate homes and the complete reserved schema tail remain byte-exact.
+
+### Post-Ram15 Roswaal field-contract review
+
+The [Roswaal V01–V15 model](../05%20Character%20Analysis/REZERO_ROSWAAL_L_MATHERS_V01_V15_CHARACTER_MODEL.md) and [separate fidelity review](../08%20Audits%20and%20Manifests/REZERO_ROSWAAL_L_MATHERS_V01_V15_FIDELITY_REVIEW.md) now implement34retrieval bundles/26eight-field rules, all seven selector axes,18ordinary/14recipient/25knowledge/18Japanese rows,22negativecontrols and12NONCANONICAL_PROBE applications. All nineteen dimensions were actually applied at same-analyst nonblind documentary level: PASS_WITH_BOUND after four attributable repairs. Forty-six contextual Japanese windows/150137characters revisit already-consumed originals; no fifteen fresh complete novel rereads, independent/runtime/held-out/global grade or cure is claimed.
+
+Default is living E018, V15 p-027#B0118–0120, returning from the isolated Subaru conversation to the month-later Milord party. Historical A16, injured A, successive bodies, E017 deaths, acute book-loss collapse and current L remain distinct. Tactical adaptability, genuine care and an actual group apology/oath do not erase the continued private teacher-restoration aim and destructive threat. Roswaal knows redo, not the death trigger; current soul continuity does not provide Subaru's discarded-loop memories, descendant consent or everyone else's private experience.
+
+The actual review repairs neighboring frozen section/claim routes, A16's own naming preference, unsupported wine specificity and the settlement's eleven-person audience. V15 Petra/oath locators are narrowed without rewriting frozen findings. Beatrice alone receives the private soul disclosure; Subaru receives the warded threat; no general camp/villager receipt is invented. Care/dependency is not injury consent or reciprocal romance; a visible sanction is not a proved action lock.
+
+All30 predecessor artifacts/five owners/master§§2–12/formal protocol§§19–21/reserved schema tail/exact V16seal279e4a504f39376b8b7083a95841ef28ee10416976c93bc9d69bb20b9bf1b413 remain unchanged. V15 retains292claims/E018alive/17deaths18segments and K495/M317/I262/R086/RT181. Six historical pairs retain exact bytes/defaults/local grades. Ram's nearly-seven-year/nine-year chronology remains OPEN and Garfiel's Frederica-subject correction remains mandatory. No new field, sixth owner, source-bearing extract, independent evidence/ordinary/voice/readiness home, final specialist or global evaluator/curation work is earned.
+
+Ram15's complete gate atc6388791f678f24d21f33ed83553fc192666e499 is closed: actual full459-test exact-source audit, trusted success status, routing-current housekeeping no-op without a redundant child/audit and later clean native checks are verified. Roswaal15's own complete exact-commit publication gate still precedes V16. Local documentary PASS_WITH_BOUND is not publication. Both current map operation fields select V16 conditionally on that gate; high-waterV15/active terminalV43/EVOLVING and no ordinary checkpoint/model pause remain.
+
+The exact model/review homes were already registered. Source-route, naming-preference, drink-specificity and audience repairs are derived-use constraints, not new causal rows or field migrations. Master person/readiness and five conditioning owners remain sufficient; a large rule/probe count does not promote another ledger/index. Registered exact candidate homes and the complete reserved schema tail below remain byte-exact.
 
 ### Registered exact candidate homes
 

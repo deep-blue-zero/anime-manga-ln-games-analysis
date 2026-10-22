@@ -2,11 +2,11 @@
 series: RE_ZERO
 artifact_type: synthesis_architecture
 scope: JAPANESE_LIGHT_NOVEL_PROSPECTIVE_LONGITUDINAL_AND_SYNTHESIS_ARCHITECTURE
-generation: V1.21
+generation: V1.22
 status: canonical
 release_state: mutable_active
 architecture_lifecycle: EVOLVING
-source_boundary: "Japanese main LN V01-V43 admitted; V15/Arc04/Beatrice15/Garfiel15 gates complete; Ram15 model/local review/OPEN chronology under own gate before Roswaal15/source16;28predecessors/fiveowners/V16seal exact; no nonspine admission"
+source_boundary: "Japanese main LN V01-V43 admitted; V15/Arc04/Beatrice15/Garfiel15/Ram15 gates complete; Roswaal15 model/local documentary review under own full gate before V16;30predecessors/fiveowners/V16seal exact; no nonspine admission"
 recommended_reasoning_class: PREMIUM_QUALITY_FIRST
 reasoning_policy: MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md
 pro_justification: "Propagation-sensitive architecture repair: this routing governs every later Re:Zero volume transaction and synthesis layer."
@@ -622,7 +622,7 @@ After interruption or ambiguous publication:
 6. resolve branch, source, or prospective-contamination ambiguity before new source reading;
 7. resume at the first unclosed volume within the authorized terminal boundary.
 
-An earned separately pending reconstruction/checkpoint operation is binding, not permission to skip a gate. V15/Arc04/Beatrice15 complete gates are closed. Current order: GARFIEL_V10_V15_MODEL_AND_FIDELITY_REVIEW own complete publication → RAM_V01_V15_MODEL_AND_FIDELITY_REVIEW → ROSWAAL_V01_V15_MODEL_AND_FIDELITY_REVIEW → V16, each separately reviewed/full-gated before the next. Both map fields select Ram15 conditionally on Garfiel's full gate and agree with master§13. Enforce model§0.1/review§2's Frederica/Garfiel correction without rewriting protected history/owners. Local documentary PASS_WITH_BOUND is not publication; historical defaults/grades, exact V16 prospect and activeV43 remain unchanged.
+An earned separately pending reconstruction/checkpoint is binding, not permission to skip a gate. V15/Arc04/Beatrice15/Garfiel15/Ram15 complete gates are closed; Roswaal15 now has its separately applied local documentary review, but its own full publication gate still precedes V16. Both map fields select V16 conditionally on that gate and agree with master§13. Keep Ram's OPEN chronology, Garfiel's Frederica-subject correction and Roswaal's source/recipient/agency qualifications operative without rewriting protected history/owners. Local PASS_WITH_BOUND is not publication; all30 predecessors, old defaults/grades, exact V16 prospect and activeV43 remain unchanged.
 
 Conversational memory never advances state. A drafted file, local commit, push success message, earlier green audit, or housekeeping-pending source commit is not the same as a verified completed transaction.
 
@@ -656,6 +656,36 @@ Complete entering text from c6c8054c02e34a4acaa9aeb9b11fff7ccba1669b; historical
 `````markdown
 source_boundary: "Japanese main LN V01-V43 admitted; V15/Arc04/Beatrice15 gates complete; Garfiel10-V15 model/local review and explicit subject correction under own full gate before Ram15/Roswaal15;26 predecessors/five owners/V16seal unchanged; no nonspine admission"
 `````
+
+### Post-Ram15 Roswaal construction and bounded implementation review
+
+The [Roswaal V01–V15 model](../05%20Character%20Analysis/REZERO_ROSWAAL_L_MATHERS_V01_V15_CHARACTER_MODEL.md) and [separate fidelity review](../08%20Audits%20and%20Manifests/REZERO_ROSWAAL_L_MATHERS_V01_V15_FIDELITY_REVIEW.md) now implement34retrieval bundles/26eight-field rules, all seven selector axes,18ordinary/14recipient/25knowledge/18Japanese rows,22negativecontrols and12NONCANONICAL_PROBE applications. All nineteen dimensions were actually applied at same-analyst nonblind documentary level: PASS_WITH_BOUND after four attributable repairs. Forty-six contextual Japanese windows/150137characters revisit already-consumed originals; no fifteen fresh complete novel rereads, independent/runtime/held-out/global grade or cure is claimed.
+
+Default is living E018, V15 p-027#B0118–0120, returning from the isolated Subaru conversation to the month-later Milord party. Historical A16, injured A, successive bodies, E017 deaths, acute book-loss collapse and current L remain distinct. Tactical adaptability, genuine care and an actual group apology/oath do not erase the continued private teacher-restoration aim and destructive threat. Roswaal knows redo, not the death trigger; current soul continuity does not provide Subaru's discarded-loop memories, descendant consent or everyone else's private experience.
+
+The actual review repairs neighboring frozen section/claim routes, A16's own naming preference, unsupported wine specificity and the settlement's eleven-person audience. V15 Petra/oath locators are narrowed without rewriting frozen findings. Beatrice alone receives the private soul disclosure; Subaru receives the warded threat; no general camp/villager receipt is invented. Care/dependency is not injury consent or reciprocal romance; a visible sanction is not a proved action lock.
+
+All30 predecessor artifacts/five owners/master§§2–12/formal protocol§§19–21/reserved schema tail/exact V16seal279e4a504f39376b8b7083a95841ef28ee10416976c93bc9d69bb20b9bf1b413 remain unchanged. V15 retains292claims/E018alive/17deaths18segments and K495/M317/I262/R086/RT181. Six historical pairs retain exact bytes/defaults/local grades. Ram's nearly-seven-year/nine-year chronology remains OPEN and Garfiel's Frederica-subject correction remains mandatory. No new field, sixth owner, source-bearing extract, independent evidence/ordinary/voice/readiness home, final specialist or global evaluator/curation work is earned.
+
+Ram15's complete gate atc6388791f678f24d21f33ed83553fc192666e499 is closed: actual full459-test exact-source audit, trusted success status, routing-current housekeeping no-op without a redundant child/audit and later clean native checks are verified. Roswaal15's own complete exact-commit publication gate still precedes V16. Local documentary PASS_WITH_BOUND is not publication. Both current map operation fields select V16 conditionally on that gate; high-waterV15/active terminalV43/EVOLVING and no ordinary checkpoint/model pause remain.
+
+One model plus a separate scoped review satisfies the already-reserved responsibility. No separate ordinary/voice/evidence/readiness retrieval failure or sixth owner is demonstrated. Historical earlier operation paragraphs above describe their entering dependencies; the current recovery rule is§18 and current readiness is master§13.
+
+#### Entering architecture source-boundary metadata
+
+Complete entering text from c6388791f678f24d21f33ed83553fc192666e499; historical, not current routing or a pending predecessor gate:
+
+``````markdown
+source_boundary: "Japanese main LN V01-V43 admitted; V15/Arc04/Beatrice15/Garfiel15 gates complete; Ram15 model/local review/OPEN chronology under own gate before Roswaal15/source16;28predecessors/fiveowners/V16seal exact; no nonspine admission"
+``````
+
+#### Entering recovery instruction — complete preimage
+
+Complete entering text from c6388791f678f24d21f33ed83553fc192666e499; historical, not current routing or a pending predecessor gate:
+
+``````markdown
+An earned separately pending reconstruction/checkpoint operation is binding, not permission to skip a gate. V15/Arc04/Beatrice15 complete gates are closed. Current order: GARFIEL_V10_V15_MODEL_AND_FIDELITY_REVIEW own complete publication → RAM_V01_V15_MODEL_AND_FIDELITY_REVIEW → ROSWAAL_V01_V15_MODEL_AND_FIDELITY_REVIEW → V16, each separately reviewed/full-gated before the next. Both map fields select Ram15 conditionally on Garfiel's full gate and agree with master§13. Enforce model§0.1/review§2's Frederica/Garfiel correction without rewriting protected history/owners. Local documentary PASS_WITH_BOUND is not publication; historical defaults/grades, exact V16 prospect and activeV43 remain unchanged.
+``````
 
 ## 20. Post-V03 architecture-extension decision
 

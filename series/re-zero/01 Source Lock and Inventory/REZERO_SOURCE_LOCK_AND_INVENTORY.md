@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: source_lock
 scope: SOURCE_ADMISSION_CONTRACT_AND_CURRENT_INVENTORY_STATE
-generation: V0.24
+generation: V0.25
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -618,6 +618,25 @@ Complete entering text from c6c8054c02e34a4acaa9aeb9b11fff7ccba1669b; historical
 - **Current execution state:** active continuous terminalV43. E018alive/17deaths18segments after actual rescue, three trials, two-site local release, finite chosen contract/defense, plural settlement and accepted office; reader-only Omega coda. No death18/E019, Rabbit extinction, gate/reserve repair, Rem awakening, full camp RBD/tea, origin telling/old apology or held capital reward ceremony is implied. The separate Arc04 checkpoint is fully gated; Garfiel15 has local documentary PASS_WITH_BOUND and a mandatory source-subject correction, not independent/global/runtime validation, new primary consumption or completed full-series synthesis.
 `````
 
+## Post-Ram15 Roswaal reconstruction source boundary — no new admission
+
+The [Roswaal V01–V15 model](../05%20Character%20Analysis/REZERO_ROSWAAL_L_MATHERS_V01_V15_CHARACTER_MODEL.md) and [separate fidelity review](../08%20Audits%20and%20Manifests/REZERO_ROSWAAL_L_MATHERS_V01_V15_FIDELITY_REVIEW.md) now implement34retrieval bundles/26eight-field rules, all seven selector axes,18ordinary/14recipient/25knowledge/18Japanese rows,22negativecontrols and12NONCANONICAL_PROBE applications. All nineteen dimensions were actually applied at same-analyst nonblind documentary level: PASS_WITH_BOUND after four attributable repairs. Forty-six contextual Japanese windows/150137characters revisit already-consumed originals; no fifteen fresh complete novel rereads, independent/runtime/held-out/global grade or cure is claimed.
+
+Default is living E018, V15 p-027#B0118–0120, returning from the isolated Subaru conversation to the month-later Milord party. Historical A16, injured A, successive bodies, E017 deaths, acute book-loss collapse and current L remain distinct. Tactical adaptability, genuine care and an actual group apology/oath do not erase the continued private teacher-restoration aim and destructive threat. Roswaal knows redo, not the death trigger; current soul continuity does not provide Subaru's discarded-loop memories, descendant consent or everyone else's private experience.
+
+The actual review repairs neighboring frozen section/claim routes, A16's own naming preference, unsupported wine specificity and the settlement's eleven-person audience. V15 Petra/oath locators are narrowed without rewriting frozen findings. Beatrice alone receives the private soul disclosure; Subaru receives the warded threat; no general camp/villager receipt is invented. Care/dependency is not injury consent or reciprocal romance; a visible sanction is not a proved action lock.
+
+All30 predecessor artifacts/five owners/master§§2–12/formal protocol§§19–21/reserved schema tail/exact V16seal279e4a504f39376b8b7083a95841ef28ee10416976c93bc9d69bb20b9bf1b413 remain unchanged. V15 retains292claims/E018alive/17deaths18segments and K495/M317/I262/R086/RT181. Six historical pairs retain exact bytes/defaults/local grades. Ram's nearly-seven-year/nine-year chronology remains OPEN and Garfiel's Frederica-subject correction remains mandatory. No new field, sixth owner, source-bearing extract, independent evidence/ordinary/voice/readiness home, final specialist or global evaluator/curation work is earned.
+
+Ram15's complete gate atc6388791f678f24d21f33ed83553fc192666e499 is closed: actual full459-test exact-source audit, trusted success status, routing-current housekeeping no-op without a redundant child/audit and later clean native checks are verified. Roswaal15's own complete exact-commit publication gate still precedes V16. Local documentary PASS_WITH_BOUND is not publication. Both current map operation fields select V16 conditionally on that gate; high-waterV15/active terminalV43/EVOLVING and no ordinary checkpoint/model pause remain.
+
+All15 actual locked originals were size/SHA/CRC rechecked unchanged; the46windows/150137characters are targeted rereads of consumed sources, not new complete-volume/image consumption. The metadata append remains exactly reconciled under both pinned hashes; new works/report remain unopened. Historical availability statements remain dated and no new edition/witness is admitted.
+
+### Entering source-state summary — complete preimage
+
+Complete entering text from c6388791f678f24d21f33ed83553fc192666e499; historical, not current routing or a pending predecessor gate:
+
+``````markdown
 ## Current source-state summary
 
 - **Acquired/admitted Japanese main LN:** V01-V43 continuous.
@@ -632,3 +651,19 @@ Complete entering text from c6c8054c02e34a4acaa9aeb9b11fff7ccba1669b; historical
 - **Next source acquisition priority:** Japanese V44 and V45 before the sequential read reaches that boundary.
 - **Next analytical operation:** `ROSWAAL_V01_V15_MODEL_AND_FIDELITY_REVIEW` only after the Ram15 pair's own complete gate; its separate construction/review/full gate precedes source16. V16 remains unopened/exact60-question/ten-forecast seal unchanged.
 - **Current execution state:** active continuous terminalV43. E018alive/17deaths18segments after actual rescue, three trials, two-site local release, finite chosen contract/defense, plural settlement and accepted office; reader-only Omega coda. No death18/E019, Rabbit extinction, gate/reserve repair, Rem awakening, full camp RBD/tea, origin telling/old apology or held capital reward ceremony is implied. The separate Arc04 checkpoint is fully gated; Ram15 has local documentary PASS_WITH_BOUND and an OPEN chronology bound; Garfiel's mandatory source-subject correction remains operative, not independent/global/runtime validation, new primary consumption or completed full-series synthesis.
+``````
+
+## Current source-state summary
+
+- **Acquired/admitted Japanese main LN:** V01-V43 continuous.
+- **Known published but not acquired/admitted main LN:** V44-V45.
+- **Admitted translations:** none.
+- **Retained non-admitted translation:** English V21, local hash reverified on resumption.
+- **Admitted supplemental/EX/short-story:** none.
+- **Admitted IF/alternate route:** none.
+- **Admitted web novel:** none.
+- **Admitted anime/audiovisual:** none.
+- **Consumed into prospective main-LN analysis:** V01–V15; full V15 gate98acb720 and separate source-free Arc04 gate6bce1604 complete. Beatrice15 gate6be67f9, Garfiel15 gatec6c8054c and Ram15 gatec6388791 are closed; Roswaal15 model/local scoped documentary review is implemented under its own complete publication gate, not another consumed source. All six historical pairs retain exact scope/defaults/grades.
+- **Next source acquisition priority:** Japanese V44 and V45 before the sequential read reaches that boundary.
+- **Next analytical operation:** `V16` only after Roswaal15's own complete gate; consume its admitted Japanese original in OPF order through complete text/image EOF. V16 remains unopened/exact60-question/ten-forecast seal unchanged.
+- **Current execution state:** active continuous terminalV43. E018alive/17deaths18segments after actual rescue, three trials, two-site local release, finite chosen contract/defense, plural settlement and accepted office; reader-only Omega coda. No death18/E019, Rabbit extinction, gate/reserve repair, Rem awakening, full camp RBD/tea, origin telling/old apology or held capital reward ceremony is implied. The separate Arc04 checkpoint is fully gated; Roswaal15 has local documentary PASS_WITH_BOUND after four repairs; Ram's OPEN chronology and Garfiel's mandatory source-subject correction remain operative, not independent/global/runtime validation, new primary consumption or completed full-series synthesis.

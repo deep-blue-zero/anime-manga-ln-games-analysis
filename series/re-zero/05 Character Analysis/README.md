@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: character_analysis_contract
 scope: SOURCE_GROUNDED_CHARACTER_RECONSTRUCTION
-generation: V0.11
+generation: V0.12
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -25,7 +25,8 @@ Historical boundary: no character monograph was present through V03. V10's added
 | Emilia, Japanese main LN V01–V14 | [Integrated model](REZERO_EMILIA_V01_V14_CHARACTER_MODEL.md), then [separate scoped review](../08%20Audits%20and%20Manifests/REZERO_EMILIA_V01_V14_FIDELITY_REVIEW.md) | MONOGRAPH_READY; same-analyst nonblind nineteen-dimension documentary PASS_WITH_BOUND, own complete publication gate before V15; no independent runtime/inherited/global grade |
 | Beatrice, Japanese main LN V01–V15 | [Integrated model](REZERO_BEATRICE_V01_V15_CHARACTER_MODEL.md), then [separate scoped review](../08%20Audits%20and%20Manifests/REZERO_BEATRICE_V01_V15_FIDELITY_REVIEW.md) | MONOGRAPH_READY; actually applied same-analyst nonblind nineteen-dimension documentary PASS_WITH_BOUND; full gate6be67f9 complete before Garfiel10–15, not independent/runtime/global grade |
 | Garfiel Tinsel, Japanese main LN V10–V15 | [Integrated model](REZERO_GARFIEL_TINSEL_V10_V15_CHARACTER_MODEL.md), then [separate scoped review](../08%20Audits%20and%20Manifests/REZERO_GARFIEL_TINSEL_V10_V15_FIDELITY_REVIEW.md) | MONOGRAPH_READY; actually applied same-analyst nonblind nineteen-dimension documentary PASS_WITH_BOUND; model§0.1 source-identity correction mandatory; full gatec6c8054c complete before Ram15, not independent/runtime/global grade |
-| Ram, Japanese main LN V01–V15 | [Integrated model](REZERO_RAM_V01_V15_CHARACTER_MODEL.md), then [separate scoped review](../08%20Audits%20and%20Manifests/REZERO_RAM_V01_V15_FIDELITY_REVIEW.md) | MONOGRAPH_READY; actually applied same-analyst nonblind nineteen-dimension documentary PASS_WITH_BOUND; chronology model§0.1/review§2 mandatory; own full gate before Roswaal15, not independent/runtime/global grade |
+| Ram, Japanese main LN V01–V15 | [Integrated model](REZERO_RAM_V01_V15_CHARACTER_MODEL.md), then [separate scoped review](../08%20Audits%20and%20Manifests/REZERO_RAM_V01_V15_FIDELITY_REVIEW.md) | MONOGRAPH_READY; actually applied same-analyst nonblind nineteen-dimension documentary PASS_WITH_BOUND; chronology model§0.1/review§2 mandatory; complete gatec6388791 closed before Roswaal15, not independent/runtime/global grade |
+| Roswaal L. Mathers, Japanese main LN V01–V15 | [Integrated model](REZERO_ROSWAAL_L_MATHERS_V01_V15_CHARACTER_MODEL.md), then [separate scoped review](../08%20Audits%20and%20Manifests/REZERO_ROSWAAL_L_MATHERS_V01_V15_FIDELITY_REVIEW.md) | MONOGRAPH_READY; actually applied same-analyst nonblind nineteen-dimension documentary PASS_WITH_BOUND after four repairs; own full gate before V16, not independent/runtime/global grade |
 
 For the Subaru model, default is latest reached **terminal E013/death13**. A living action/dialogue task must explicitly select a supported preterminal phase and its knowledge, remembered history, recipient, role and resources. Current Rem cannot answer; generated Kenichi/Naoko are not real parents' present receipt; no E014 arrival, unobserved remedy, active IF-family biography or anime performance is supplied. The model compiles24 derived rules/28 evidence bundles/eight noncanonical probes; it adds no narrative source or canonical generated scene. Master §13 remains readiness owner and five specialist ledgers remain state authorities. Otto's different V01–V13 scope/default and separate publication gate are described below; neither model silently inherits the other's coverage.
 
@@ -51,6 +52,27 @@ Ordinary mayonnaise liking, phase-bound village mornings/study, child play/curio
 
 Twenty historical artifacts, all five owner files,256 current V14 claim formulations and the exact sixty-question/ten-forecast V15 prospect stay unchanged. Only this operation's own full publication gate permits V15; the active continuous V43 run has no ordinary unit pause. Master §13 remains readiness owner; five owners remain conditioning authority.
 
+## Roswaal's bounded reconstruction and review
+
+The [Roswaal V01–V15 model](REZERO_ROSWAAL_L_MATHERS_V01_V15_CHARACTER_MODEL.md) and [separate fidelity review](../08%20Audits%20and%20Manifests/REZERO_ROSWAAL_L_MATHERS_V01_V15_FIDELITY_REVIEW.md) now implement34retrieval bundles/26eight-field rules, all seven selector axes,18ordinary/14recipient/25knowledge/18Japanese rows,22negativecontrols and12NONCANONICAL_PROBE applications. All nineteen dimensions were actually applied at same-analyst nonblind documentary level: PASS_WITH_BOUND after four attributable repairs. Forty-six contextual Japanese windows/150137characters revisit already-consumed originals; no fifteen fresh complete novel rereads, independent/runtime/held-out/global grade or cure is claimed.
+
+Default is living E018, V15 p-027#B0118–0120, returning from the isolated Subaru conversation to the month-later Milord party. Historical A16, injured A, successive bodies, E017 deaths, acute book-loss collapse and current L remain distinct. Tactical adaptability, genuine care and an actual group apology/oath do not erase the continued private teacher-restoration aim and destructive threat. Roswaal knows redo, not the death trigger; current soul continuity does not provide Subaru's discarded-loop memories, descendant consent or everyone else's private experience.
+
+The actual review repairs neighboring frozen section/claim routes, A16's own naming preference, unsupported wine specificity and the settlement's eleven-person audience. V15 Petra/oath locators are narrowed without rewriting frozen findings. Beatrice alone receives the private soul disclosure; Subaru receives the warded threat; no general camp/villager receipt is invented. Care/dependency is not injury consent or reciprocal romance; a visible sanction is not a proved action lock.
+
+All30 predecessor artifacts/five owners/master§§2–12/formal protocol§§19–21/reserved schema tail/exact V16seal279e4a504f39376b8b7083a95841ef28ee10416976c93bc9d69bb20b9bf1b413 remain unchanged. V15 retains292claims/E018alive/17deaths18segments and K495/M317/I262/R086/RT181. Six historical pairs retain exact bytes/defaults/local grades. Ram's nearly-seven-year/nine-year chronology remains OPEN and Garfiel's Frederica-subject correction remains mandatory. No new field, sixth owner, source-bearing extract, independent evidence/ordinary/voice/readiness home, final specialist or global evaluator/curation work is earned.
+
+Ram15's complete gate atc6388791f678f24d21f33ed83553fc192666e499 is closed: actual full459-test exact-source audit, trusted success status, routing-current housekeeping no-op without a redundant child/audit and later clean native checks are verified. Roswaal15's own complete exact-commit publication gate still precedes V16. Local documentary PASS_WITH_BOUND is not publication. Both current map operation fields select V16 conditionally on that gate; high-waterV15/active terminalV43/EVOLVING and no ordinary checkpoint/model pause remain.
+
+## Ram's completed gate and retained scope
+
+Ram15's full gatec6388791 is closed; its actual model/review bytes, living latest-party default beside sleeping Rem, local grade and OPEN chronology remain unchanged. The entering construction text below records its then-pending gate, not current instructions to repeat Ram. All six older pairs remain bounded by their reviewed horizons; Roswaal's own current selector is not their upgrade.
+
+### Historical entering Ram directory review — complete preimage
+
+Complete entering text from c6388791f678f24d21f33ed83553fc192666e499; historical, not current routing or a pending predecessor gate:
+
+``````markdown
 ## Ram's bounded reconstruction and review
 
 The [Ram V01–V15 model](REZERO_RAM_V01_V15_CHARACTER_MODEL.md) and [separate fidelity review](../08%20Audits%20and%20Manifests/REZERO_RAM_V01_V15_FIDELITY_REVIEW.md) now implement35retrieval bundles/28eight-field rules, all seven selector axes,18ordinary/14recipient/20knowledge/18Japanese rows,19negativecontrols and14NONCANONICAL_PROBE applications. All nineteen dimensions were actually applied at same-analyst nonblind documentary level: PASS_WITH_BOUND after four attributable repair groups. Thirty-nine contextual Japanese windows/128450characters revisit already-consumed originals; no fifteen new complete rereads, independent/runtime/held-out/global grade or cure is claimed.
@@ -66,6 +88,16 @@ Only after this Ram pair's own complete exact-commit publication gate execute RO
 The first Ram source guard stopped before text when acquisition metadata changed. Removing only the appended subsequent_calibre_imports note reconstructs the historical23584-byte manifest/SHA3daa190cefda6ab894f5d62ff547a93856c8133f2d4fc1cbc552b99d73c73314 exactly; current23822-byte SHAa17ec23885bd4730457ea50f93cd55be1d9d1df896b8b141595b98fc0b55642d is separately pinned. All15locked actual EPUB sizes/hashes/CRCs were rechecked unchanged. The three-new-work note/report does not admit/open those works, update dated gaps automatically or extend terminal43; new report/contents remain unopened.
 
 Historical Garfiel construction text below records its then-pending gate; that gate is now complete atc6c8054c. Its actual model/review bytes/defaults/local grade are unchanged. The five older pairs retain scope; Ram's pair supplies its own current selector, not their upgrade.
+
+``````
+
+### Entering Ram table row — complete preimage
+
+Complete entering text from c6388791f678f24d21f33ed83553fc192666e499; historical, not current routing or a pending predecessor gate:
+
+``````markdown
+| Ram, Japanese main LN V01–V15 | [Integrated model](REZERO_RAM_V01_V15_CHARACTER_MODEL.md), then [separate scoped review](../08%20Audits%20and%20Manifests/REZERO_RAM_V01_V15_FIDELITY_REVIEW.md) | MONOGRAPH_READY; actually applied same-analyst nonblind nineteen-dimension documentary PASS_WITH_BOUND; chronology model§0.1/review§2 mandatory; own full gate before Roswaal15, not independent/runtime/global grade |
+``````
 
 ## Garfiel's bounded reconstruction and review
 
