@@ -2,11 +2,11 @@
 series: RE_ZERO
 artifact_type: synthesis_architecture
 scope: JAPANESE_LIGHT_NOVEL_PROSPECTIVE_LONGITUDINAL_AND_SYNTHESIS_ARCHITECTURE
-generation: V1.17
+generation: V1.18
 status: canonical
 release_state: mutable_active
 architecture_lifecycle: EVOLVING
-source_boundary: "Japanese main LN V01-V43 admitted; V15 actual reading/Arc04 conclusion under complete gate;22 historical artifacts unchanged; three prior model-review scopes fixed; checkpoint then four separate constructions before V16; dated V44-V45 gaps; no nonspine admission"
+source_boundary: "Japanese main LN V01-V43 admitted; V15 full gate closed at98acb720; source-free V10-V15 Arc04 checkpoint under its own gate;23 prior historical artifacts/five owners unchanged; four separate constructions before V16; dated V44-V45 gaps; no nonspine admission"
 recommended_reasoning_class: PREMIUM_QUALITY_FIRST
 reasoning_policy: MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md
 pro_justification: "Propagation-sensitive architecture repair: this routing governs every later Re:Zero volume transaction and synthesis layer."
@@ -513,6 +513,14 @@ V15 complete publication → ARC04_CHECKPOINT complete publication → BEATRICE_
 Each construction must inspect mature reference designs as design only, reconcile exact already-consumed Japanese, implement seven-axis selection, ordinary/recipient/voice/failure/refusal/negative controls and apply a separate review across nineteen protocol dimensions. Same-analyst documentary work is not independent runtime, blind benchmark or global capability. Failure requires attributable repair/abstention/readiness revision. Three published historical model/review pairs retain exact bytes/defaults/grades; no global registry/curation write or evaluator activation follows.
 
 The five owners and master still retrieve the new dimensions without another field contract. No independently failing evidence index, ordinary/voice/readiness home, sixth ledger or final specialist is demonstrated. Source16/nonspine narrative remains unopened and the exact V16 seal279e4a504f39376b8b7083a95841ef28ee10416976c93bc9d69bb20b9bf1b413 remains fixed through all derived operations. Continuous V43 authorization stays active; an arc/checkpoint/model completion is not a terminal pause.
+
+### Post-Arc04 checkpoint convergence and present routing
+
+V15's complete exact-source publication gate closed at `98acb7201088307023f6007e2314b44dd8c72897` before checkpoint authorship. The separate [fourth-arc checkpoint](../02%20Sequential%20Readings/REZERO_ARC_04_CHECKPOINT.md) now supplies the earned V10–V15 comparison: twenty bounded consolidation propositions, differentiated event/representation/receipt, requested versus supplied help, finite distributed resources, created persons, changed love, plural settlement and continuing coercion. It does not add a primary narrative unit, replace292V15 claims or certify every future outcome.
+
+Its own complete publication gate remains distinct from literary acceptance. Only after that gate do both current operation fields take effect as `BEATRICE_V01_V15_MODEL_AND_FIDELITY_REVIEW`; then Garfiel10–15, Ram15 and Roswaal15 each require a separate construction/review/full gate before the next/source16. The preceding V15 review records the entering dependency order, not an instruction to redo a closed V15 gate. Master§13 remains the qualitative readiness owner. Unknown complete biographies/preferences/technical laws remain abstentions, not demands for perfection or license to invent results.
+
+Five sole owner contracts remain proportional; no narrative owner row, field, evidence/ordinary/voice/readiness index, mature final specialist or global capability/curation home changes. All23 existing historical artifacts and the exact V16 sixty-question/ten-forecast seal remain unchanged. Current mutable protocol opening/selector labels are reconciled to V15 while complete stale opening preimages are preserved visibly as history. No frozen prospective record or formal fidelity contract is edited. Architecture remains EVOLVING and active terminalV43 is unchanged; checkpoint/model completion is not a stop.
 
 ## 15. Completion gates
 

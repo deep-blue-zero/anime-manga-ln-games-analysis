@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: ledger_architecture
 scope: LONGITUDINAL_LEDGER_PROMOTION_AND_SCHEMA_CONTRACT
-generation: V0.19
+generation: V0.20
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -35,6 +35,8 @@ Master preserves old V13 claim/horizon bodies and owns22 ordinary/24 Japanese/pe
 Post-V14 Emilia model-operation review:36 bundles/28 conditional rules/19 negative controls/12 NONCANONICAL_PROBE applications and an actually applied separate nineteen-dimension documentary review satisfy the earned reconstruction responsibilities without new state fields. Twenty historical artifacts, all five specialist owners,256 current V14 claims and the exact V15 prospect remain unchanged. The V14 construction-trigger paragraph above is historical, not a denial that this later operation is now implemented. No extra ordinary/voice/readiness/index file is justified merely by another project's topology. Local PASS_WITH_BOUND is not independent runtime/global capability or cure; this operation's own full publication gate precedes V15. All reserved contracts below remain exact.
 
 V15 field-contract review: E018/K495/M317/I262/R086/RT181 represent corrected belief, finite selected contract, sanction versus prevention, continuing displaced life, private original-soul receipt and covert composite control without changing schemas. All256predecessors/60questions/10forecasts and292claims are explicit. New46K/32M/28I/8R/41RT increments preserve ancestry;33oldR rows change/45 remain and all140 old transitions stay unchanged. Master adds28ordinary/28JP, preserves old V14 claim/horizon/person/readiness bodies and22 protected artifacts. Sourceverified Arc04 checkpoint follows complete V15 freeze; then four earned separate constructions/reviews precede V16. No sixth ledger/index, ordinary/voice/readiness home, final specialist or global grade is warranted merely by counts. All reserved exact schemas below remain unchanged.
+
+Post-Arc04 checkpoint field-contract review: the source-free V10–V15 checkpoint adds twenty bounded convergence propositions, not a new VNN claim generation or a current owner. State/holder/causal/power/personal-term distinctions remain retrievable through E018/K495/M317/I262/R086/RT181 and292V15claims. All five owner files and all23 prior frozen analytical artifacts stay unchanged. Master readiness/current routing advances conditionally on the checkpoint's own complete gate to Beatrice15, then separately Garfiel10–15/Ram15/Roswaal15 with actual scoped reviews/full gates before source16. This is qualitative convergence, not inherited fidelity, a new field or an index promoted by count. The exact V16 prospect and every reserved schema below remain unchanged.
 
 ### Registered exact candidate homes
 

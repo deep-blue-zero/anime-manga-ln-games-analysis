@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: source_lock
 scope: SOURCE_ADMISSION_CONTRACT_AND_CURRENT_INVENTORY_STATE
-generation: V0.20
+generation: V0.21
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -499,6 +499,15 @@ Source15 was first opened2026-10-21T02:36:15Z only after V14's complete gate at 
 
 The final contributing volume must pass its full synchronized publication gate before separate `ARC04_CHECKPOINT`. Then the four earned person constructions/reviews each need their own complete gate before V16. None consumes/adopts V16, the advertised collection/manga/WN, separate IF or adaptation. Source lock retains43-object admission/V41 exception/datedV44–45gaps; no global source curation or new acquisition is performed.
 
+## Post-V15 fourth-arc checkpoint source boundary — no new admission
+
+The full V15 publication gate closed at `98acb7201088307023f6007e2314b44dd8c72897` before this separate source-free checkpoint began. All six original V10–V15 files were rechecked read-only against each frozen reading's sourceSHA256 and passed full ZIP CRC. The [checkpoint](../02%20Sequential%20Readings/REZERO_ARC_04_CHECKPOINT.md) records those exact identities and six frozen Git blobs; it synthesizes their already consumed evidence rather than claiming six new raw-source readings. V15p029B4/14/16 explicitly closes the arc; V10's beginning and older V09 announcement remain separately attributed.
+
+All23 earlier historical artifacts, all five owner files,292V15claim formulations and the exact V16seal279e4a504f39376b8b7083a95841ef28ee10416976c93bc9d69bb20b9bf1b413 remain unchanged. The checkpoint is a separate frozen comparison subject to its own complete gate, not source16 consumption or new model fidelity. That gate precedes Beatrice15; Garfiel10–15, Ram15 and Roswaal15 each then require their own construction/review/full gate before the next/source16. No supplement, advertisement, WN, IF, adaptation, replacement edition or new source is admitted. The43-object inventory/V41exception/datedV44–45gaps remain unchanged.
+
+The complete replaced source-summary section follows verbatim from98acb720 as history, not current instructions:
+
+```markdown
 ## Current source-state summary
 
 - **Acquired/admitted Japanese main LN:** V01-V43 continuous.
@@ -512,4 +521,20 @@ The final contributing volume must pass its full synchronized publication gate b
 - **Consumed into prospective main-LN analysis:** V01–V15, with actual complete V15 source consumption; committed authority advances only on this synchronized transaction's full gate. Earlier Subaru10/Otto13/Emilia14 models/reviews retain exact historical scope and grade.
 - **Next source acquisition priority:** Japanese V44 and V45 before the sequential read reaches that boundary.
 - **Next analytical operation:** `ARC04_CHECKPOINT` after complete V15 publication; then Beatrice15, Garfiel10–15, Ram15 and Roswaal15 separate model/review operations, each full gate before the next/source16. V16 remains unopened with the exact60/10 seal above.
+- **Current execution state:** active continuous terminalV43. E018alive/17deaths18segments after actual rescue, three trials, two-site local release, finite chosen contract/defense, plural settlement and accepted office; reader-only Omega coda. No death18/E019, Rabbit extinction, gate/reserve repair, Rem awakening, full camp RBD/tea, origin telling/old apology or held capital reward ceremony is implied. Sourceverified Arc04 end earns a separate checkpoint, not completed models or full-series synthesis.
+```
+
+## Current source-state summary
+
+- **Acquired/admitted Japanese main LN:** V01-V43 continuous.
+- **Known published but not acquired/admitted main LN:** V44-V45.
+- **Admitted translations:** none.
+- **Retained non-admitted translation:** English V21, local hash reverified on resumption.
+- **Admitted supplemental/EX/short-story:** none.
+- **Admitted IF/alternate route:** none.
+- **Admitted web novel:** none.
+- **Admitted anime/audiovisual:** none.
+- **Consumed into prospective main-LN analysis:** V01–V15; full V15 gate verified at98acb720. The separate V10–V15 Arc04 checkpoint is a source-free derived transaction under its own complete gate, not another consumed source. Historical Subaru10/Otto13/Emilia14 models/reviews retain exact scope/defaults/grades.
+- **Next source acquisition priority:** Japanese V44 and V45 before the sequential read reaches that boundary.
+- **Next analytical operation:** `BEATRICE_V01_V15_MODEL_AND_FIDELITY_REVIEW` only after the Arc04 checkpoint's own complete gate; then separate Garfiel10–15, Ram15 and Roswaal15 constructions/reviews, each full gate before the next/source16. V16 remains unopened and its exact60/10 seal unchanged.
 - **Current execution state:** active continuous terminalV43. E018alive/17deaths18segments after actual rescue, three trials, two-site local release, finite chosen contract/defense, plural settlement and accepted office; reader-only Omega coda. No death18/E019, Rabbit extinction, gate/reserve repair, Rem awakening, full camp RBD/tea, origin telling/old apology or held capital reward ceremony is implied. Sourceverified Arc04 end earns a separate checkpoint, not completed models or full-series synthesis.

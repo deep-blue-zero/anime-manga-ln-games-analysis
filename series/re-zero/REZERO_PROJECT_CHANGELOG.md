@@ -1,8 +1,8 @@
 ---
 series: RE_ZERO
 artifact_type: project_changelog
-scope: VERBATIM_ENTRYPOINT_HISTORY_THROUGH_V15_CLOSEOUT
-generation: V1.8
+scope: VERBATIM_ENTRYPOINT_HISTORY_THROUGH_V15_AND_ARC04_CHECKPOINT
+generation: V1.9
 status: canonical
 release_state: append_only_history
 supersedes: []
@@ -593,3 +593,46 @@ The former current map's work-order section at f1045873285746dd27ab91f5635ac6b14
 10. Preserve exact source/holder/recipient/reference clarity, contrary instances and unsupported coordinates in reconstruction; global discovery/capability remain separately governed writers' responsibilities.
 
 The correction changes only the mutable map's work-order/generation and this append-only history/generation. All15 VNN freezes, both older checkpoints, three reviewed model pairs,292 V15 claim formulations, five owner files, source-consumption evidence and both prospective seals remain unchanged. No new primary or supplemental witness is opened. Approved main governance and curated discovery content are imported byte-for-byte through ordinary reconciliation, not reauthored by this series task. Every resulting source head requires a fresh complete publication sequence; neither the older f104 source audit nor repaired main's audit certifies it.
+
+## Post-V15 fourth-arc checkpoint — bounded convergence and routing reconciliation
+
+V15's complete publication gate closed at `98acb7201088307023f6007e2314b44dd8c72897` before this separate checkpoint began: SOURCE39699627656/full461success, completed source-bound no-op housekeeping39700367720, FINAL39700417833 actualAUDIT_COMMIT98acb720/full461success/selectiondisabled, reporter actual success, exactcontextstatus56946525167 and fresh AFTERstatusnative verification. The earlier failed shared-main attempt remains historical; repaired approvedmain was imported unchanged. No main push, steward/executor or global curation was performed by the series task.
+
+The new `02 Sequential Readings/REZERO_ARC_04_CHECKPOINT.md` owns V10–V15 fourth-arc convergence and twenty bounded RZ-A04-S propositions. It compares received/requested help, retained versus mutual history, representation/holder limits, made persons, finite distributed labor, changed love, plural accommodation and continuing coercion. Six already-consumed original witnesses were hash/CRC reverified; this is not six new raw-source readings or source16 admission. All15 VNN freezes/two older checkpoints/three model-review pairs, five owner files,292V15claim formulations and exact V16 prospect stay unchanged. No new field/ledger/evidence/ordinary/voice/readiness home or final specialist is promoted by count.
+
+Eight project paths form the checkpoint transaction: new checkpoint plus targeted map, architecture, protocol, source-lock, schema, master readiness/history and this append-only changelog. Master§§2–12 stay exact; its entire former latest readiness review and entering snapshot survive as historical preimages. The protocol's frontmatter/two current-boundary paragraphs and selector label previously remained V14 despite its later V15 review. These current-routing defects are corrected with both whole old paragraphs retained; its formal§19–21contract is unchanged. This is not a correction to frozen literary evidence or a rewritten historical fidelity grade.
+
+The checkpoint has its own full publication gate. Only after that gate do both next-operation fields take effect as BEATRICE_V01_V15_MODEL_AND_FIDELITY_REVIEW, followed by separately gated Garfiel10–15, Ram15 and Roswaal15 constructions/reviews before source16. Readiness is not implemented fidelity; no new canonical person model/review is supplied here. Exact V16seal279e4a504f39376b8b7083a95841ef28ee10416976c93bc9d69bb20b9bf1b413,43-object admission/V41exception/datedV44–45gaps and activeV43 authorization remain unchanged. No ordinary checkpoint/model pause is inferred.
+
+The following complete replaced map sections are verbatim from98acb720/mapblob`ca4fe66e1380e0d301f5bdde36e1ce797484cf40`; their original headings are history, not current instructions:
+
+```markdown
+## Current analytical state
+
+This synchronized transaction advances Japanese main-LN analysis through V15 only after its complete publication gate. All45members/3995positions were actually consumed:3974TEXT+21IMAGEpositions/20original resources,52bounded text deliveries, zero gaps. The freeze contains292claims, all256predecessor/60incoming-question/10forecast adjudications,28ordinary/28Japanese increments and an exact60-question/10-forecast V16 seal. All22 prior freezes/checkpoints/model-review artifacts remain byte-unchanged.
+
+Living E018 reaches the accepted Emilia-knight ceremony and month-later party;17actualSubaru deaths/18arrivedsegments remain. Principal mansion rescue, three Emilia trials, two-site local liberation, Roswaal book/wager defeat and Rabbit displacement are actual outcomes. No E019/death18, Rabbit extinction, repaired gate/replenished Beatrice reserve, Rem awakening, full camp RBD/tea, performed origin telling, old overnight apology or held capital reward ceremony follows. Reader-only Omega/soul-composite/salvage evidence is not cast knowledge or a complete identity map.
+
+Five sole owners/master remain sufficient: E018/K495/M317/I262/R086/RT181. New46holder/32causal/28institution/8relationship/41transition increments fit existing field contracts. Thirty-three affected old relation rows retain every ancestry prefix and whole V14 preimages;45 stable rows/all140 old transitions remain unchanged. Master preserves the complete old V14 claim/horizon/person/readiness bodies. Source admission remains V01–V43/V41exception/datedV44–45gaps; nonspine and V16+ remain unopened.
+
+The three published historical model/review pairs remain unchanged: [Subaru V01–V10](05%20Character%20Analysis/REZERO_NATSUKI_SUBARU_V01_V10_CHARACTER_MODEL.md), [Otto V01–V13](05%20Character%20Analysis/REZERO_OTTO_SUWEN_V01_V13_CHARACTER_MODEL.md) and [Emilia V01–V14](05%20Character%20Analysis/REZERO_EMILIA_V01_V14_CHARACTER_MODEL.md). Their exact earlier defaults and same-analyst nonblind documentary PASS_WITH_BOUND reviews do not extend to currentV15, independent runtime or a global grade. All three earlier publication gates are already closed.
+
+V15 afterword explicitly states 第四章完結. Next is the separately gated `ARC04_CHECKPOINT` only AFTER this final contributing volume's complete gate, then four distinct earned constructions/reviews: Beatrice V01–V15, Garfiel V10–V15, Ram V01–V15 and Roswaal V01–V15. Their ordinary/recipient/voice/failure and counterevidence thresholds are explained in master§13/V15§15, not inferred from importance or file counts. No model exists or grade is earned merely by this promotion. Each derived operation needs its own full gate before the next and beforeV16.
+
+Both operation fields therefore nominate `ARC04_CHECKPOINT`. Exact outgoing V16 prospect SHA256 `279e4a504f39376b8b7083a95841ef28ee10416976c93bc9d69bb20b9bf1b413` stays fixed through all source-free derived work. No sixth ledger/index, mature final specialist, global curation/evaluator activity or full-series ending is promoted. Active continuous terminalV43 remains unchanged; no ordinary unit/checkpoint/model pause is authorized. Superseded entrypoint prose remains verbatim in [project history](REZERO_PROJECT_CHANGELOG.md); exact receipts belong to Git/live audits.
+```
+
+```markdown
+## Current work order
+
+1. Preserve all fifteen VNN freezes, both historical checkpoints and all three historical model/review pairs. The V15 source-facing freeze and its292 claim formulations are fixed; current corrections must remain attributable. This routing correction changes no narrative claim, source-consumption record or historical fidelity grade.
+2. Close the complete V15 publication gate for the reconciled exact source head: approved identities, exact-path/native/index author preflight, normal push, immutable whole-file readback, actual source audit, completed source-bound housekeeping, final actual-source full audit/reporter/exact success status, then fresh post-status native verification. The earlier audit of f1045873285746dd27ab91f5635ac6b1464b508f does not certify a later reconciliation commit. No local review, push or older green check substitutes for this gate.
+3. Only after that complete V15 gate, create the separately gated `ARC04_CHECKPOINT` over the frozen V10–V15 arguments, with earlier context labeled. The explicit V15 fourth-arc conclusion earns this responsibility; the checkpoint must not rewrite a contributing freeze, invent new primary reading or claim full-series completion.
+4. After the checkpoint's own complete gate, execute the separately earned constructions/reviews in order: `BEATRICE_V01_V15_MODEL_AND_FIDELITY_REVIEW`, `GARFIEL_V10_V15_MODEL_AND_FIDELITY_REVIEW`, `RAM_V01_V15_MODEL_AND_FIDELITY_REVIEW`, then `ROSWAAL_V01_V15_MODEL_AND_FIDELITY_REVIEW`. Master§13 and V15§15 own each qualitative threshold, default, counterevidence and abstention. Each operation needs its own full publication gate; construction is not an achieved fidelity result.
+5. Keep the exact sixty-question/ten-forecast V16 horizon unchanged through those source-free operations: SHA256 `279e4a504f39376b8b7083a95841ef28ee10416976c93bc9d69bb20b9bf1b413`. Only after all required gates may `RZ-MAIN-LN-JA-V16` be opened; consume its exact admitted Japanese OPF-spine text and images in order through EOF before a new narrative freeze.
+6. Continue prospectively through the admitted main-LN spine to active V43 without ordinary unit, checkpoint or model confirmation. Preserve source/holder/recipient/representation boundaries, every applicable atomic gate and genuine blocker reporting. Current E018 is living after the month-later ceremony/party; no E019/death18, restored Rem, gate/reserve repair, completed origin telling or retroactive consent/apology is implied.
+7. Maintain master and the existing five sole event/knowledge/mechanics/institution/relationship owners with their revision ancestry. Ordinary-life, Japanese, readiness and project-local routing remain in their established homes until an independently demonstrated retrieval burden earns a split. Counts, prominence, filename symmetry and another model do not establish a new ledger or final specialist.
+8. Keep the dated V44/V45 acquisition gaps separate from this authorized V43 terminal. Source exhaustion is not published-series completion; acquisition, admission or a terminal extension beyond the authorized boundary requires its own applicable authorization and source-lock review.
+9. Keep supplemental/IF/WN/adaptation awareness separate from opening. Establish witness class and safe `H_pub`/`H_diegetic`/`H_route`/`H_final` before use; no such witness is admitted by this work order, a publication advertisement or a derived model.
+10. Preserve exact named-subject/reference clarity, contrary instances and unsupported coordinates. Historical Subaru10/Otto13/Emilia14 defaults and scoped documentary grades remain unchanged; new rules/probes are not evidence. Global discovery, capability evaluation, housekeeping outputs and protected integration retain their separately governed owners.
+```
