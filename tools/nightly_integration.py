@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
-"""Mechanical integration; candidate Git objects are never checked out or executed."""
+"""Deterministic merge gate; candidate Git objects are never checked out or executed.
+
+The CI agent runs it for open owner PRs (``--candidates open-prs``). The owner's
+bulk-merge workflow runs it for every series/study branch
+(``--candidates analysis-branches``). Merges use GitHub's protected PR endpoint,
+the exact audited head and an ordinary merge commit.
+"""
 from __future__ import annotations
 
 import argparse
@@ -18,42 +24,45 @@ import urllib.request
 from contextlib import contextmanager
 from pathlib import Path
 
-import integration_lock
-from integration_lock import IntegrationLock, LockError
-
 REPOSITORY = "deep-blue-zero/anime-manga-ln-games-analysis"
 OWNER = "deep-blue-zero"
 AUDIT = "Repository integration audit"
 AUDIT_INTEGRATION_ID = 15368
 MAIN_RULESET_ID = 25199066
-TAG_RULESET_ID = 21946617
 AUDIT_WORKFLOW_ID = 347147204
 AUDIT_REPORTER_ID = 41898282
 AUDIT_WORKFLOW = ".github/workflows/repository-audit.yml"
+CONTROLLER = "tools/nightly_integration.py"
 BRANCH = re.compile(r"^(series|studies)/[a-z0-9][a-z0-9-]*$")
-TEMP_BRANCH = re.compile(r"^(codex|chatgpt|claude)/[a-z0-9][a-z0-9-]*$")
 SHA = re.compile(r"^[0-9a-f]{40}$")
+CANDIDATES = ("open-prs", "analysis-branches")
 GENERATED = frozenset({
     "governance/MANGA_ANIME_CORPUS_INDEX.md", "series/README.md",
     "series/registry.json", "studies/README.md", "studies/registry.json",
 })
 CHARACTER = frozenset({"CHARACTER_ANALYSIS_INDEX.md", "characters/registry.jsonl"})
-CONTROL_PATHS = (
-    "AGENTS.md", ".github", "tools", "governance/policies",
-    "governance/repository-controls", "governance/AUTHORITY_STATE.yaml",
-    "governance/AUTHORITY_SCOPE.json", "governance/schemas",
-)
 AUTHOR = {"name": OWNER, "email": "50891441+peipw@users.noreply.github.com"}
 COMMITTER = {"name": "GitHub", "email": "noreply@github.com"}
-RESERVED_ROOTS = (".github/", "tools/", "crosswalk/", "provenance/", "governance/")
-RESERVED_FILES = frozenset({"AGENTS.md", "LICENSE.md", "THIRD_PARTY_NOTICES.md", "CONTRIBUTING.md",
-                            ".gitattributes", ".gitignore", "characters/README.md",
-                            "characters/RECONSTRUCTION_CAPABILITY_SPEC.md"})
+# Guardrails: the owner merges changes to workflows, this gate, the CI agent's
+# own rules, owner authorization records (publication grants, sealed-reading
+# releases, phase gates, authority state), frozen provenance and legal files.
+# Everything else may integrate.
+GUARDRAIL_ROOTS = (".github/", "crosswalk/", "provenance/", "governance/repository-controls/", "governance/cutovers/")
+GUARDRAIL_FILES = frozenset({"AGENTS.md", "LICENSE.md", "THIRD_PARTY_NOTICES.md", CONTROLLER,
+                             "governance/policies/NIGHTLY_ANALYTICAL_INTEGRATION.md",
+                             "governance/AUTHORITY_SCOPE.json", "governance/AUTHORITY_STATE.yaml"})
+RECONSTRUCTION = frozenset({"characters/reconstruction_capabilities.jsonl", "characters/CHARACTER_RECONSTRUCTION_INDEX.md"})
+RECONSTRUCTION_BRANCH = "character-reconstruction"
+RECONSTRUCTION_POLICY = "governance/repository-controls/reconstruction-capability-policy.json"
 LOADED_SHA256 = hashlib.sha256(Path(__file__).read_bytes()).hexdigest()
 
 
 class Blocked(RuntimeError):
     """A candidate cannot be integrated under the current contract."""
+
+
+class Deferred(RuntimeError):
+    """Stop cleanly; remaining candidates wait for the next run."""
 
 
 class Halt(RuntimeError):
@@ -87,47 +96,33 @@ def scoped_paths(branch: str, paths: set[str]) -> bool:
     )
 
 
-def eligible_paths(branch: str, paths: set[str], role: str) -> bool:
-    if any(path in RESERVED_FILES or (path.startswith(RESERVED_ROOTS)
-            and path != "governance/MANGA_ANIME_CORPUS_INDEX.md") for path in paths):
+def eligible_paths(branch: str, paths: set[str]) -> bool:
+    if any(path in GUARDRAIL_FILES or path.startswith(GUARDRAIL_ROOTS) for path in paths):
         return False
-    if BRANCH.fullmatch(branch):
-        return scoped_paths(branch, paths)
-    # Conservative routine cross-cutting envelope: root Markdown documentation
-    # and deterministic routing only, never another analytical root or character output.
-    return role == "primary" and bool(TEMP_BRANCH.fullmatch(branch)) and bool(paths) and all(
-        path in GENERATED or ("/" not in path and path.endswith(".md") and path not in CHARACTER)
-        for path in paths
-    )
-
-
-def tag_protection(ruleset: dict) -> None:
-    if (not isinstance(ruleset, dict) or ruleset.get("id") != TAG_RULESET_ID
-            or ruleset.get("target") != "tag" or ruleset.get("enforcement") != "active"
-            or ruleset.get("conditions") != {"ref_name": {"include": ["refs/tags/activation/**"], "exclude": []}}
-            or ruleset.get("bypass_actors") != [] or ruleset.get("current_user_can_bypass") != "never"):
-        raise Halt("Activation-tag protection is absent, changed or permits bypass")
-    rules = ruleset.get("rules")
-    if (not isinstance(rules, list) or any(not isinstance(row, dict) for row in rules)
-            or not {"deletion", "non_fast_forward"} <= {row.get("type") for row in rules}):
-        raise Halt("Activation tags must prohibit deletion and non-fast-forward changes")
+    # Reconstruction outputs come only from the evaluator's branch, which carries nothing else.
+    if branch == RECONSTRUCTION_BRANCH or paths & RECONSTRUCTION:
+        return branch == RECONSTRUCTION_BRANCH and paths <= RECONSTRUCTION
+    # An analysis branch stays inside its own root; cross-cutting work uses another branch.
+    return scoped_paths(branch, paths) if BRANCH.fullmatch(branch) else True
 
 
 def protection_method(ruleset: dict, repository: dict) -> str:
+    # Without Administration access GitHub may omit bypass_actors; the
+    # token's own inability to bypass is what protects this gate's merges.
     if (not isinstance(ruleset, dict) or ruleset.get("id") != MAIN_RULESET_ID
             or ruleset.get("target") != "branch" or ruleset.get("enforcement") != "active"
             or ruleset.get("conditions") != {"ref_name": {"include": ["refs/heads/main"], "exclude": []}}
-            or ruleset.get("bypass_actors") != [] or ruleset.get("current_user_can_bypass") != "never"):
+            or ruleset.get("bypass_actors", []) != [] or ruleset.get("current_user_can_bypass") != "never"):
         raise Halt("The main ruleset must be active, target only main, and permit no owner/admin bypass")
     entries = ruleset.get("rules")
     if (not isinstance(entries, list) or any(not isinstance(rule, dict)
             or not isinstance(rule.get("type"), str) for rule in entries)):
         raise Halt("The main ruleset rules are unreadable")
     rules = {rule["type"]: rule for rule in entries}
-    if len(rules) != len(entries) or not {
-        "deletion", "non_fast_forward", "required_linear_history", "required_status_checks"
-    } <= set(rules):
-        raise Halt("The main ruleset must preserve deletion, non-fast-forward, linear-history and audit gates")
+    if len(rules) != len(entries) or not {"deletion", "non_fast_forward", "required_status_checks"} <= set(rules):
+        raise Halt("The main ruleset must preserve deletion, non-fast-forward and audit gates")
+    if "required_linear_history" in rules:
+        raise Halt("Turn off required linear history on main; integration uses merge commits")
     parameters = rules["required_status_checks"].get("parameters")
     if not isinstance(parameters, dict) or parameters.get("strict_required_status_checks_policy") is not True:
         raise Halt("The main ruleset must require up-to-date branches")
@@ -137,9 +132,9 @@ def protection_method(ruleset: dict, repository: dict) -> str:
         and check.get("integration_id") == AUDIT_INTEGRATION_ID for check in checks
     ):
         raise Halt("The main ruleset must require the trusted integration audit")
-    if not isinstance(repository, dict) or repository.get("allow_squash_merge") is not True:
-        raise Halt("The ruleset-compatible squash method is not enabled")
-    return "squash"
+    if not isinstance(repository, dict) or repository.get("allow_merge_commit") is not True:
+        raise Halt("Merge commits are not enabled for this repository")
+    return "merge"
 
 
 class GitHub:
@@ -259,18 +254,14 @@ class Graph:
     def tree(self, sha: str) -> str:
         return self.git("rev-parse", exact_sha(sha) + "^{tree}")
 
-    def verify_runtime(self, controller: str, base: str) -> None:
-        if not self.ancestor(controller, base):
-            raise Halt("Executor code must be an integrated ancestor of current main")
-        binding = json.loads(self.git("show", f"{base}:governance/repository-controls/nightly-integration-policy.json"))
-        for key, path, loaded in (
-            ("controller", "tools/nightly_integration.py", LOADED_SHA256),
-            ("lock", "tools/integration_lock.py", integration_lock.LOADED_SHA256),
-        ):
-            content = self.git("show", f"{base}:{path}", raw=True)
-            if (binding.get(key) != path or binding.get(key + "_sha256") != loaded
-                    or hashlib.sha256(content).hexdigest() != loaded):
-                raise Halt("Loaded executor code differs from the reviewed main binding")
+    def verify_runtime(self, base: str) -> None:
+        # Apply runs only the reviewed gate on current main, never a local edit.
+        content = self.git("show", f"{exact_sha(base)}:{CONTROLLER}", raw=True)
+        if hashlib.sha256(content).hexdigest() != LOADED_SHA256:
+            raise Halt("Run the merge script from a fresh checkout of current main")
+
+    def reconstruction_phase(self, base: str) -> str | None:
+        return json.loads(self.git("show", f"{exact_sha(base)}:{RECONSTRUCTION_POLICY}")).get("publication_phase")
 
     def verify_identities(self, base: str, head: str) -> None:
         policy = json.loads(self.git("show", f"{base}:governance/repository-controls/tracked-file-policy.json"))
@@ -321,7 +312,7 @@ class Graph:
             # conflicted merge must emit its resulting tree as the first line.
             first = exc.output.splitlines()[0] if exc.output else b""
             if exc.returncode == 1 and re.fullmatch(rb"[0-9a-f]{40}", first):
-                raise Blocked("Git merge-tree found conflicts; no conflict resolution is authorized") from exc
+                raise Blocked("Git merge-tree found conflicts; the CI agent or author must reconcile") from exc
             raise
         return exact_sha(output.splitlines()[0])
 
@@ -329,11 +320,11 @@ class Graph:
         identities = {"GIT_AUTHOR_NAME": AUTHOR["name"], "GIT_AUTHOR_EMAIL": AUTHOR["email"],
                       "GIT_COMMITTER_NAME": COMMITTER["name"], "GIT_COMMITTER_EMAIL": COMMITTER["email"]}
         return exact_sha(self.git("commit-tree", tree, "-p", source, "-p", base,
-                                  input_text="chore: reconcile main for nightly integration\n", extra_env=identities))
+                                  input_text="chore: reconcile main for integration\n", extra_env=identities))
 
     def push(self, branch: str, sha: str, token: str) -> None:
-        if not BRANCH.fullmatch(branch):
-            raise Halt("Only an existing stable analytical branch may receive a reconciliation")
+        if not branch or branch == "main":
+            raise Halt("Only a candidate branch may receive a reconciliation")
         auth = base64.b64encode(("x-access-token:" + token).encode()).decode()
         self.git("push", "origin", f"{exact_sha(sha)}:refs/heads/{branch}", extra_env={
             "GIT_CONFIG_COUNT": "1", "GIT_CONFIG_KEY_0": "http.https://github.com/.extraheader",
@@ -342,49 +333,24 @@ class Graph:
 
 
 class Integrator:
-    def __init__(self, api: GitHub, graph: Graph, *, preview: bool, controller_sha: str,
-                 budget: int = 9900, wait_seconds: int = 4200, role: str = "fallback", report_path: Path | None = None):
+    def __init__(self, api: GitHub, graph: Graph, *, preview: bool, candidates: str = "open-prs",
+                 budget: int = 9900, wait_seconds: int = 4200, report_path: Path | None = None):
+        if candidates not in CANDIDATES:
+            raise ValueError("Unknown candidate selection: " + candidates)
         self.api, self.graph, self.preview = api, graph, preview
-        self.controller_sha = exact_sha(controller_sha)
+        self.candidates = candidates
         self.deadline = time.monotonic() + budget
         self.wait_seconds = wait_seconds
         self.rows: list[dict] = []
-        self.method = "squash"
-        self.access = "NOT_CHECKED"
-        self.role = role
         self.held_branches: set[str] = set()
-        self.lock = IntegrationLock(api, role=role, controller_sha=self.controller_sha, author=AUTHOR, committer=COMMITTER)
         self.report_path = report_path or Path("nightly-integration-report.json")
 
-    def enabled(self) -> None:
-        mode = self.api.request("GET", "actions/variables/INTEGRATION_EXECUTOR_MODE")
-        if mode.get("value") != self.role:
-            raise Halt("Executor disabled or assigned to the other route; no apply permitted")
-        if self.role == "fallback":
-            flag = self.api.request("GET", "actions/variables/NIGHTLY_INTEGRATION_ENABLED")
-            if flag.get("value") != "true":
-                raise Halt("Manual fallback apply is disabled")
-
-    def protections(self) -> str:
-        method = protection_method(self.api.request("GET", f"rulesets/{MAIN_RULESET_ID}"), self.api.request("GET", ""))
-        tag_protection(self.api.request("GET", f"rulesets/{TAG_RULESET_ID}"))
-        return method
-
-    def guard_mutation(self, branch: str | None = None, source: str | None = None, base: str | None = None) -> None:
+    def guard_mutation(self, branch: str, source: str, base: str) -> None:
         if self.preview:
             raise Halt("Preview prohibits every remote mutation")
-        self.lock.assert_owned()
         self.check_time()
-        self.enabled()
-        self.access = self.access_check()
-        if self.protections() != self.method:
-            raise Halt("Protection changed during integration")
-        if branch:
-            self.same_heads(branch, source, base)
-            self.candidate_pr(branch)
-        elif base and self.api.head("main") != base:
-            raise Halt("main advanced before post-merge dispatch")
-        self.lock.assert_owned()
+        self.same_heads(branch, source, base)
+        self.candidate_pr(branch)
 
     def observe_hold(self, branch: str, pr: dict) -> None:
         if pr.get("draft") or "nightly-hold" in {row["name"] for row in pr.get("labels", [])}:
@@ -394,11 +360,11 @@ class Integrator:
 
     def check_time(self) -> None:
         if time.monotonic() >= self.deadline:
-            raise Halt("Run deadline reached; remaining candidates are deferred")
+            raise Deferred("Run deadline reached; remaining candidates wait for the next run")
 
     def same_heads(self, branch: str, source: str, base: str) -> None:
         if self.api.head("main") != base:
-            raise Halt("main advanced outside this controller; restart from a newly audited base")
+            raise Deferred("main advanced during this run; remaining candidates wait for the next run")
         if self.api.head(branch) != source:
             raise Blocked("Source advanced; preserve the newer work for a later run")
 
@@ -438,8 +404,9 @@ class Integrator:
         return bool(changed) and changed <= GENERATED
 
     def prior_integration(self, branch: str, source: str, base: str) -> dict | None:
-        # A squash leaves the source outside main's ancestry. Only a merged PR
-        # for this exact tip plus whole-tree equality proves it was preserved.
+        # Branches squash-merged before merge commits were adopted sit outside
+        # main's ancestry. A merged PR for this exact tip plus whole-tree
+        # equality proves the content was preserved.
         query = urllib.parse.urlencode({"state": "closed", "base": "main", "head": OWNER + ":" + branch})
         for pr in self.api.pages("pulls?" + query):
             self.check_time()
@@ -493,98 +460,42 @@ class Integrator:
         while time.monotonic() < end:
             self.candidate_pr(branch)
             if self.api.head("main") != base:
-                raise Halt("main advanced while housekeeping was running")
+                raise Deferred("main advanced while awaiting the final audit; remaining candidates wait for the next run")
             observed = self.api.head(branch)
             if observed != final:
                 if final != source or not self.generated_child(source, observed):
-                    raise Blocked("Unexpected source update while waiting for housekeeping")
+                    raise Blocked("Unexpected source update while awaiting housekeeping")
                 final = observed
             status = self.api.status(final)
             if status and status["state"] in {"failure", "error"}:
                 raise Blocked("Final repository audit failed")
-            run = self.api.audit_run(final, status)
-            # Only the full audit dispatched by the existing housekeeper certifies readiness.
-            stable_final = (run and run.get("event") == "repository_dispatch"
-                            and run.get("actor", {}).get("login") == "github-actions[bot]")
-            routine_final = (not BRANCH.fullmatch(branch) and self.role == "primary"
-                             and run and run.get("actor", {}).get("login") == OWNER)
-            if status and status["state"] == "success" and (stable_final or routine_final):
+            # The reporter marks an analysis push pending until housekeeping
+            # completes, so a trusted success means the exact head is ready.
+            if status and status["state"] == "success" and self.api.audit_run(final, status):
                 return final
             time.sleep(max(0, min(15, end - time.monotonic())))
-        raise Blocked("Timed out awaiting housekeeping and its exact-commit full audit")
+        raise Blocked("Timed out awaiting housekeeping and the final exact-head audit")
 
-    def wait_post_merge(self, sha: str, previous_status_id: int) -> None:
+    def wait_post_merge(self, sha: str) -> None:
+        # The owner-token merge starts main's push audit on the merge commit.
         end = min(self.deadline, time.monotonic() + 1800)
         while time.monotonic() < end:
-            statuses = self.api.audit_statuses(sha)
-            latest = next(iter(statuses), None)
-            if latest and latest["id"] > previous_status_id:
-                if latest["state"] in {"failure", "error"}:
-                    raise Halt("Already integrated, but post-merge audit failed; further merges stopped")
-                if latest["state"] == "success" and self.api.audit_run(sha, latest):
-                    # The owner-token merge also starts a push audit. Its newer
-                    # success must not hide the explicitly dispatched full audit.
-                    # Keep the latest overall failure/pending safeguards above,
-                    # and use only the newest trusted dispatch result below.
-                    for status in statuses:
-                        if status["id"] <= previous_status_id:
-                            break
-                        run = self.api.audit_run(sha, status, require_success=False)
-                        if (not run or run.get("event") != "repository_dispatch"
-                                or run.get("actor", {}).get("login") != OWNER):
-                            continue
-                        if status["state"] in {"failure", "error"} or run.get("conclusion") in {
-                            "failure", "cancelled", "timed_out", "action_required", "startup_failure",
-                        }:
-                            raise Halt("Already integrated, but post-merge audit failed; further merges stopped")
-                        if status["state"] == "success" and run.get("conclusion") == "success":
-                            return
-                        break
+            status = self.api.status(sha)
+            if status and status["state"] in {"failure", "error"}:
+                raise Halt("Already integrated, but main's audit failed; further merges stopped")
+            if status and status["state"] == "success" and self.api.audit_run(sha, status):
+                return
             time.sleep(15)
-        raise Halt("Already integrated, but explicit post-merge audit did not finish; further merges stopped")
-
-    def access_check(self) -> str:
-        """Confirm owner-only write access before any write.
-
-        No other collaborator, no pending invitation and no write-enabled
-        deploy key. Apply halts when access is wider or unreadable. Preview
-        never mutates, so it records what it could read and continues.
-        """
-        try:
-            collaborators = self.api.pages("collaborators?affiliation=all")
-            invitations = self.api.pages("invitations")
-            keys = self.api.pages("keys")
-        except ApiError as exc:
-            if self.preview:
-                return f"UNVERIFIED: HTTP {exc.status}"
-            raise Halt("Collaborators, invitations or deploy keys are unreadable; owner-only access is unverified") from None
-        others = sum(1 for row in collaborators if not isinstance(row, dict) or row.get("login") != OWNER)
-        writable_keys = sum(1 for row in keys if not isinstance(row, dict) or row.get("read_only") is not True)
-        if others or invitations or writable_keys:
-            detail = (
-                f"{others} other collaborator(s), {len(invitations)} pending invitation(s) "
-                f"and {writable_keys} write-enabled deploy key(s)"
-            )
-            if self.preview:
-                return "NOT_OWNER_ONLY: " + detail
-            raise Halt("Repository access is not owner-only: " + detail)
-        return "VERIFIED_OWNER_ONLY"
+        raise Halt("Already integrated, but main's audit did not finish; further merges stopped")
 
     def preflight(self) -> str:
         base = self.api.head("main")
         self.graph.fetch(base)
-        self.graph.fetch(self.controller_sha)
-        changed = self.graph.paths(self.controller_sha, base)
-        if any(path == root or path.startswith(root + "/") for path in changed for root in CONTROL_PATHS):
-            raise Halt("Repository controls changed since this workflow started; run the current workflow")
         if not self.preview:
-            self.enabled()
-            self.graph.verify_runtime(self.controller_sha, base)
+            self.graph.verify_runtime(base)
             if self.api.request("GET", "/user").get("login") != OWNER:
-                raise Halt("NIGHTLY_INTEGRATION_TOKEN must authenticate the repository owner")
-        self.access = self.access_check()
-        if not self.preview:
-            self.method = self.protections()
+                raise Halt("OWNER_TOKEN must authenticate the repository owner")
+            protection_method(self.api.request("GET", f"rulesets/{MAIN_RULESET_ID}"), self.api.request("GET", ""))
             status = self.api.status(base)
             if not status or status["state"] != "success" or not self.api.audit_run(base, status):
                 raise Halt("The starting main commit does not have a successful independent audit")
@@ -597,13 +508,17 @@ class Integrator:
         if self.graph.ancestor(source, base):
             row["outcome"] = "already_integrated"
             return base
-        if not eligible_paths(branch, self.graph.paths(base, source, triple=True), self.role):
-            raise Blocked("Branch delta exceeds its delegated path scope or includes reserved work")
+        delta = self.graph.paths(base, source, triple=True)
+        if not eligible_paths(branch, delta):
+            raise Blocked("Branch touches guardrail paths or files outside its allowed scope; the owner merges it")
+        # Until the owner accepts calibration, every reconstruction PR is owner-merged.
+        if delta & RECONSTRUCTION and self.graph.reconstruction_phase(base) != "ROUTINE":
+            raise Blocked("Reconstruction assessments are owner-merged until calibration is accepted")
         self.graph.verify_identities(base, source)
-        if self.graph.paths(base, source, triple=True) & CHARACTER:
+        if delta & CHARACTER:
             self.graph.verify_curation_commits(base, source)
         self.candidate_pr(branch)
-        # Initial audit and final housekeeping share the existing source budget.
+        # Initial audit and final housekeeping share one source budget.
         source_deadline = min(self.deadline, time.monotonic() + self.wait_seconds)
         self.wait_source(branch, source, base, source_deadline)
         try:
@@ -626,8 +541,6 @@ class Integrator:
                        detail="Preview only; fresh final checks and live protections are required before merging")
             return base
         if needs_reconciliation:
-            if not BRANCH.fullmatch(branch):
-                raise Blocked("Routine temporary PR needs author reconciliation and a fresh full audit")
             reconciled = self.graph.reconcile_commit(source, base, tree)
             self.guard_mutation(branch, source, base)
             try:
@@ -640,36 +553,23 @@ class Integrator:
             source = reconciled
         final = self.wait_final(branch, source, base, end=source_deadline)
         self.graph.fetch(final)
-        if not self.graph.ancestor(base, final) or not eligible_paths(branch, self.graph.paths(base, final), self.role):
-            raise Blocked("Final branch no longer incorporates main within the allowed path boundary")
+        if not self.graph.ancestor(base, final) or not eligible_paths(branch, self.graph.paths(base, final)):
+            raise Blocked("Final branch no longer incorporates main within its allowed paths")
         self.same_heads(branch, final, base)
         self.graph.verify_identities(base, final)
         pr = self.candidate_pr(branch)
         if pr is None:
             if not BRANCH.fullmatch(branch):
-                raise Blocked("Routine temporary integration requires an existing owner-authored PR")
+                raise Blocked("Only analysis branches receive an automatic PR")
             self.guard_mutation(branch, final, base)
             pr = self.api.request("POST", "pulls", {
                 "title": "Integrate " + branch, "head": branch, "base": "main",
-                "body": "Nightly integration of an audited analytical branch. The controller rechecks the exact head, preserves branch protections, and explicitly audits the resulting main commit.",
+                "body": "Automated integration of an audited analysis branch. The merge gate rechecks the exact head, merges it with a merge commit, and verifies main's audit of the result.",
             })
         row.update(pr=pr["number"], final_source_sha=final)
-        pr = self.api.request("GET", f"pulls/{pr['number']}")
-        self.observe_hold(branch, pr)
-        self.allowed_pr(pr)
-        if pr["head"]["sha"] != final:
-            raise Blocked("PR head changed before merge")
-        self.same_heads(branch, final, base)
-        # The strict no-bypass main ruleset closes the base race the REST SHA cannot.
-        method = self.protections()
-        if method != self.method:
-            raise Halt("Merge configuration changed during integration")
-        latest = self.api.status(final)
-        if not latest or latest["state"] != "success" or not self.api.audit_run(final, latest):
-            raise Blocked("Final audit is no longer successful")
         self.check_time()
         if self.deadline - time.monotonic() < 1800:
-            raise Halt("Insufficient time remains for post-merge validation; defer remaining candidates")
+            raise Deferred("Too little time remains to verify main after a merge; remaining candidates wait for the next run")
         row["outcome"] = "merge_requested"
         self.save()
         self.guard_mutation(branch, final, base)
@@ -680,53 +580,43 @@ class Integrator:
                 or pr.get("mergeable_state") != "clean"):
             raise Blocked("Protected PR readiness or required reviews are not satisfied")
         latest = self.api.status(final)
-        run = self.api.audit_run(final, latest)
-        if (not latest or latest["state"] != "success" or not run
-                or (BRANCH.fullmatch(branch) and (run.get("event") != "repository_dispatch"
-                    or run.get("actor", {}).get("login") != "github-actions[bot]"))
-                or (not BRANCH.fullmatch(branch) and run.get("actor", {}).get("login") != OWNER)):
-            raise Blocked("Final exact-head certification changed before merge")
+        if not latest or latest["state"] != "success" or not self.api.audit_run(final, latest):
+            raise Blocked("Final exact-head audit is no longer successful")
+        # The strict up-to-date rule closes the base race the expected SHA cannot,
+        # so confirm it still holds after any wait.
+        protection_method(self.api.request("GET", f"rulesets/{MAIN_RULESET_ID}"), self.api.request("GET", ""))
         self.same_heads(branch, final, base)
-        self.lock.assert_owned()
         try:
-            result = self.api.request("PUT", f"pulls/{pr['number']}/merge", {"sha": final, "merge_method": self.method})
+            result = self.api.request("PUT", f"pulls/{pr['number']}/merge", {"sha": final, "merge_method": "merge"})
         except (ApiError, OSError) as exc:
             observed_pr = self.api.request("GET", f"pulls/{pr['number']}")
             if not observed_pr.get("merged"):
                 if not isinstance(exc, ApiError) or exc.status not in {403, 405, 409, 422}:
-                    raise Halt("Merge outcome is uncertain; retain the lock for owner recovery") from None
+                    raise Halt("Merge outcome is uncertain; inspect the PR before the next run") from None
                 raise Blocked("Merge was not confirmed; no mutation retry was issued") from None
             result = {"merged": True, "sha": observed_pr["merge_commit_sha"]}
         if result.get("merged") is False:
             raise Blocked("GitHub did not confirm a protected merge")
         if result.get("merged") is not True:
-            raise Halt("Merge acknowledgement is unreadable; retain the lock for owner recovery")
+            raise Halt("Merge acknowledgement is unreadable; inspect the PR before the next run")
         row["outcome"] = "integrated_unverified"
         try:
             merged = exact_sha(result.get("sha"))
         except Blocked:
-            raise Halt("GitHub reported integration without a valid commit SHA; retain the lock for owner recovery") from None
+            raise Halt("GitHub reported integration without a valid commit SHA; inspect main before the next run") from None
         row["integration_sha"] = merged
         self.save()
         self.graph.fetch(merged)
         if self.graph.tree(merged) != self.graph.tree(final):
             raise Halt("Already integrated, but the resulting tree differs from the audited source")
-        previous = self.api.status(merged)
-        self.guard_mutation(base=merged)
-        self.api.request("POST", "dispatches", {
-            "event_type": "audit-generated-commit",
-            "client_payload": {"commit_sha": merged, "branch": "main"},
-        })
-        self.wait_post_merge(merged, previous["id"] if previous else 0)
+        self.wait_post_merge(merged)
         row["outcome"] = "merged_verified"
         self.save()
-        if self.api.head("main") != merged:
-            raise Halt("The integration passed, but main advanced externally; remaining candidates are deferred")
         return merged
 
     def save(self) -> None:
-        report = json.dumps({"preview": self.preview, "role": self.role, "lock": self.lock.receipt(),
-                             "access_check": self.access, "branches": self.rows}, indent=2) + "\n"
+        report = json.dumps({"preview": self.preview, "candidates": self.candidates,
+                             "branches": self.rows}, indent=2) + "\n"
         self.report_path.parent.mkdir(parents=True, exist_ok=True)
         temporary = self.report_path.with_suffix(".tmp")
         with temporary.open("w", encoding="utf-8", newline="\n") as stream:
@@ -736,36 +626,26 @@ class Integrator:
         os.replace(temporary, self.report_path)
         summary = os.environ.get("GITHUB_STEP_SUMMARY")
         if summary:
-            Path(summary).write_text("Nightly analytical integration - " + ("preview" if self.preview else "apply") + "\n\n```json\n" + report + "```\n", encoding="utf-8")
+            Path(summary).write_text("Analytical integration - " + ("preview" if self.preview else "apply") + "\n\n```json\n" + report + "```\n", encoding="utf-8")
         if self.rows:
             print(json.dumps(self.rows[-1]), flush=True)
 
-    def run(self, selected: str = "") -> None:
-        allowed_branch = lambda name: bool(BRANCH.fullmatch(name) or (self.role == "primary" and TEMP_BRANCH.fullmatch(name)))
-        if selected and not allowed_branch(selected):
-            raise Halt("The selected branch is outside this executor route")
-        base = self.preflight()
-        if not self.preview:
-            self.lock.acquire(base)
-            self.save()
-            # Capture the operative inventory/base only under shared ownership.
-            base = self.preflight()
-        opened = self.api.pages("pulls?state=open&base=main")
-        temporary_prs = set()
+    def inventory(self) -> list[tuple[str, str]]:
+        opened = [pr for pr in self.api.pages("pulls?state=open&base=main")
+                  if pr.get("user", {}).get("login") == OWNER
+                  and pr.get("head", {}).get("repo", {}).get("full_name") == REPOSITORY]
         for pr in opened:
-            branch = pr.get("head", {}).get("ref", "")
-            if (not allowed_branch(branch) or pr.get("user", {}).get("login") != OWNER
-                    or pr.get("head", {}).get("repo", {}).get("full_name") != REPOSITORY):
-                continue
-            temporary_prs.add(branch)
             if pr.get("draft") or "nightly-hold" in {label["name"] for label in pr.get("labels", [])}:
-                self.held_branches.add(branch)
-        branches = sorted((item["name"], item["commit"]["sha"]) for item in self.api.pages("branches")
-                          if allowed_branch(item["name"]) and (BRANCH.fullmatch(item["name"]) or item["name"] in temporary_prs)
-                          and (not selected or item["name"] == selected))
+                self.held_branches.add(pr["head"]["ref"])
+        if self.candidates == "analysis-branches":
+            return sorted((item["name"], item["commit"]["sha"]) for item in self.api.pages("branches")
+                          if BRANCH.fullmatch(item["name"]))
+        return sorted((pr["head"]["ref"], pr["head"]["sha"]) for pr in opened)
+
+    def run(self, selected: str = "") -> None:
+        base = self.preflight()
+        branches = [row for row in self.inventory() if not selected or row[0] == selected]
         if selected and not branches:
-            # Complete inventory proves absence before any candidate mutation.
-            # Record an unsuccessful scan, then release through the normal path.
             self.rows.append({"branch": selected, "base_sha": base, "outcome": "blocked",
                               "detail": "The selected branch does not exist or has no eligible PR"})
             self.save()
@@ -774,10 +654,13 @@ class Integrator:
             self.rows.append(row)
             try:
                 base = self.process(branch, source, base, row)
-            except Blocked as exc:
+            except (Blocked, Deferred) as exc:
                 if row["outcome"] == "integrated_unverified":
                     row["detail"] = str(exc)
                     raise Halt("Already integrated, but verification failed; further merges stopped") from exc
+                if isinstance(exc, Deferred):
+                    row.update(outcome="deferred", detail=str(exc))
+                    break
                 row.update(outcome="blocked", detail=str(exc))
                 if self.preview:
                     message = f"{branch}: {exc}".replace("%", "%25").replace("\r", "%0D").replace("\n", "%0A")
@@ -787,9 +670,6 @@ class Integrator:
                 raise
             finally:
                 self.save()
-        if not self.preview:
-            self.lock.release()
-            self.save()
 
 
 def cleanup_directory(temporary: tempfile.TemporaryDirectory) -> None:
@@ -824,34 +704,31 @@ def temporary_graph_directory():
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--mode", choices=("preview", "apply"), default="preview")
+    parser.add_argument("--candidates", choices=CANDIDATES, default="open-prs",
+                        help="open-prs: every open owner PR (CI agent); analysis-branches: every series/study branch (bulk merge)")
     parser.add_argument("--branch", default="")
-    parser.add_argument("--role", choices=("primary", "fallback"), default="fallback")
-    parser.add_argument("--state-dir", type=Path, help="Durable external receipt directory; required for primary apply")
+    parser.add_argument("--report", type=Path, default=Path("nightly-integration-report.json"),
+                        help="JSON receipt path; keep it outside disposable checkouts")
     args = parser.parse_args()
     preview = args.mode == "preview"
     if os.environ.get("GITHUB_REPOSITORY", REPOSITORY) != REPOSITORY:
         parser.error("Unexpected repository")
-    if not preview and args.role == "fallback" and (
-            os.environ.get("GITHUB_REF") != "refs/heads/main" or os.environ.get("GITHUB_ACTIONS") != "true"
+    if not preview and os.environ.get("GITHUB_ACTIONS") == "true" and (
+            os.environ.get("GITHUB_REF") != "refs/heads/main"
             or os.environ.get("GITHUB_EVENT_NAME") != "workflow_dispatch" or os.environ.get("GITHUB_ACTOR") != OWNER):
-        parser.error("Fallback apply requires an explicit owner dispatch of the trusted main workflow")
-    if not preview and args.role == "primary" and not args.state_dir:
-        parser.error("Primary apply requires --state-dir outside disposable working directories")
+        parser.error("In GitHub Actions, apply requires an explicit owner dispatch of the workflow on main")
     token = os.environ.get("READ_TOKEN", "") if preview else os.environ.get("OWNER_TOKEN", "")
     if not preview and not token:
-        parser.error("Configure NIGHTLY_INTEGRATION_TOKEN before enabling integration")
-    controller_sha = os.environ.get("GITHUB_SHA") or subprocess.check_output(["git", "rev-parse", "HEAD"], text=True).strip()
+        parser.error("Set OWNER_TOKEN to the owner's integration token before apply")
     result = 0
     with temporary_graph_directory() as temporary:
         worker = Integrator(GitHub(token, preview=preview), Graph(Path(temporary)), preview=preview,
-                            controller_sha=controller_sha, role=args.role)
-        if args.state_dir:
-            worker.report_path = args.state_dir / ("integration-" + worker.lock.run_id + ".json")
+                            candidates=args.candidates, report_path=args.report)
         try:
             worker.run(args.branch)
             if not preview and any(row["outcome"] == "blocked" for row in worker.rows):
                 result = 1
-        except (Halt, Blocked, LockError, ApiError, OSError, ValueError, KeyError) as exc:
+        except (Halt, Blocked, ApiError, OSError, ValueError, KeyError) as exc:
             worker.rows.append({"branch": "run", "outcome": "halted", "detail": str(exc)})
             result = 1
         finally:

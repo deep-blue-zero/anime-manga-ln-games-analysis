@@ -984,7 +984,7 @@ class PhaseValidationTests(unittest.TestCase):
     def test_repository_audit_requires_every_agent_branch_trigger(self) -> None:
         path = ".github/workflows/repository-audit.yml"
         source = (ROOT / path).read_bytes()
-        for line in (b'      - "codex/**"\n', b'      - "chatgpt/**"\n', b'      - "claude/**"\n'):
+        for line in (b'      - "codex/**"\n', b'      - "chatgpt/**"\n', b'      - "claude/**"\n', b'      - "agent/**"\n'):
             with self.subTest(line=line):
                 self.assertIn(line, source)
                 changed = source.replace(line, b"", 1)
@@ -1360,7 +1360,7 @@ class PhaseValidationTests(unittest.TestCase):
         self.assertEqual(update_repository_indexes.ROUTING_OUTPUTS, expected)
         self.assertIs(analytical_preflight.ROUTING_OUTPUTS, update_repository_indexes.ROUTING_OUTPUTS)
         self.assertEqual(validate_repository.GLOBAL_AUTOMATION_WRITE_PATHS, set(expected))
-        # The nightly controller is standalone and hash-bound, so it keeps a bound copy.
+        # The merge script runs standalone from main, so it keeps its own copy.
         self.assertEqual(nightly_integration.GENERATED, expected)
 
     def test_percent_encoded_markdown_paths_decode_before_resolution(self) -> None:
