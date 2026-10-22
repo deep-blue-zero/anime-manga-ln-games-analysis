@@ -45,5 +45,32 @@
         "series/ntr-netsuzou-trap/02 Supplemental Readings/NTR_LATEWINTER_DEEP_READING.md": "f43851e86a2d289b047fbef17279a45b0562d75d9cd167c5591b96530d8b267d"
       }
     }
+  },
+  "frozen_generation_publications": {
+    "series/silent-witch/10 Codex G2/PUBLICATION_MANIFEST.json": {
+      "project_root": "series/silent-witch/",
+      "canonical_entrypoint": "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "scope_prefixes": [
+        "series/silent-witch/10 Codex G2/",
+        "series/silent-witch/11 Codex G2 Comparison/"
+      ],
+      "manifest_schema": "SW-G2-publication-derivative/1",
+      "manifest_sha256": "13b047d0548e9fcbedf9886a9b3e6128d9259c82cfb3761ccbc99389d7f63065",
+      "frozen_commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+      "frozen_corpus_tree": "b76280cdd3cbbfb440588eaa227a8a1e3f666fed",
+      "comparison_commit": "81c1c20f9c17efb9a4c3438b78612ed368fe5184",
+      "comparison_v1_boundary": "c5646c50f8e7cc0b7ea6ac79204cd3e2558bb5a5",
+      "source_boundary": "series/silent-witch/10 Codex G2/SOURCE_BOUNDARY.json",
+      "source_boundary_sha256": "3665725ad120e9f5d3c15d35f27b576267d7583b638519fcf0e118ccb7d5974c",
+      "generations": [
+        "SW-G2",
+        "SW-G2-CODEX-20261019",
+        "SW-G2-V1-COMPARISON-20261020"
+      ],
+      "provenance_files": {
+        "series/silent-witch/10 Codex G2/PUBLICATION_README.md": "e1d4f86fc87fb57d6fc30638f9062bb50a842df9ddcd4bae04284179e37cb5aa"
+      },
+      "authorization": "Owner-authorized publication of the completed independent SW-G2 freeze and separately completed V1 comparison. Original versus publication digests were verified for all 70 artifacts. This exact 72-file noncurrent import grants no narrative source admission, authority promotion, literary correction, or original-history publication."
+    }
   }
 }

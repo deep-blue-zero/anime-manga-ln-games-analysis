@@ -957,3 +957,192 @@ These are newexpanded constraints, not revisedscores or frozen R1replacement. [F
 | EC-FAN-MC04 | Kazuma/Luna/party audiencescripts | S100–107 usefulhelpwithdateincentive/partyobjection/Lunaexit; explicitfans/film/pollplane | EXPAND source-specificinteraction, noordinaryMAINexternalmediaknowledge |
 | EC-FAN-MC05 | Voice and evidence-class scope | FM-H07referencecapacityHN/A; FM-V15L2/L1afteroriginalL3; FM-V05reportedselfproverb/L3defensible; 水商売L3explicit | QUALIFYwarrants, preserveoriginals, no pooledstatistics ornew modelscore |
 | EC-FAN-MC06 | Productionintent/referencecorroboration | S090–094 creatorconstraints; allreferenceplanes markeddependent/hypothetical/report asappropriate | CONTEXTUALsupport only, cannot erase performedcounterevidence or immutablefailure |
+
+
+## Komekko cohort07 attributable expanded model constraints — 2026-10-20T03:13:02.170207+00:00
+
+This maintained expanded matrix receives new source-informed constraints; the distinct frozen MAIN_ONLY_R1 response-receiving matrix and every entering model remain exact. [Komekko model](../06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_KOMEKKO_RECONSTRUCTION_MODEL.md) and [index](KONOSUBA_KOMEKKO_EVIDENCE_INDEX.md) own rule details and exact source routes.
+
+| Constraint | Variable / route | Current mechanism and contrary limit | Transition |
+|---|---|---|---|
+| K07-MC01 | Engagement; EXP01 IMG026–035;EXP02U013 | Specific puzzle ability coexists with boredom, hunger, fullness/sleep and partial play; food does not mechanically buy work | EXPAND scopedKM-K-01, moderate causal confidence |
+| K07-MC02 | Valuation/giving;EXP01U018P435-439;MAIN05U020P230-241;EXP02U023P611-620 | Real guarding and costly food/book offers require state/recipient distinctions; exact motives and weights unresolved | EXPAND KM-K-02/04, no universal kindness/hoarding |
+| K07-MC03 | Practical leverage/error;EXP01IMG030-037;MAIN11C4P538-577 | Several tactics fail; literal offering misimplementation and food-room resistance coexist | EXPAND KM-K-03, no perfect strategist |
+| K07-MC04 | Particular care/limits;EXP01U043P239-278/364-366;EXP02U023P565-620;MAIN14C4P90-94 | Affection, concrete help/gift and poor execution/refusal coexist; no safety/compliance override | EXPAND KM-K-04, serious transfer open |
+| K07-MC05 | Knowledge/capacity;MAIN05U027P677-697;MAIN11C3P204-213/Ep93-99 | Salient noticing/trigger/quote can exceed causal understanding; other actors supply expertise | EXPAND KM-K-05, no adult/divine capacity imported |
+| K07-MC06 | Written voice;EXP01IMG026-031/043;EXP02U023P550-588;MAIN14C1P272-284 | Exact teacher/report/guess and act/recipient matter; ordinary courtesy and quiet affection join theatrical script | EXPAND KM-K-06, no acoustic/native-human adequacy |
+
+StageD principal/party/transfer feed: preserve Megumin's care alongside child nonassent and reader-only knowledge; credit Aqua/Yunyun/Kazuma their actual distinct acts; do not treat Komekko's listening as others' combat consent. Four same-author pairs/eight first bodies retain H02A location error, strong generic/bundled-input rivals and no H04 behavioral discrimination. No original forecast, outcome or four-score repair follows.
+
+
+## Hoost cohort08 attributable expanded constraints — 2026-10-20T04:07:47.235077+00:00
+
+The [Hoost model](../06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_HOOST_RECONSTRUCTION_MODEL.md) and [index](KONOSUBA_HOOST_EVIDENCE_INDEX.md) own rule details/returns. This mutable expanded matrix adds constraints; the distinct frozen R1 response-receiving matrix and thirteen entering model bodies remain exact.
+
+| Constraint | Source route | Mechanism and contrary limit | Transition |
+|---|---|---|---|
+| H08-MC01 | EXP01IMG027-037 | Scarce puzzle skill produces requests/bargaining despite rank; resisted ploys and food before completion limit pure transaction | EXPAND HH-R01, moderate local/low unfamiliar support |
+| H08-MC02 | EXP01IMG029-043;EXP03U026P588-591 | Particular provision/friendship affects stated Crimson reluctance; initial threat, departure/coercion and task need remain adverse/rivals | EXPAND HH-R02, no universal child-care override |
+| H08-MC03 | EXP01IMG041-043;EXP03U026P533-598 | Declined inspection, initial beast mistake, actual assault and local correction coexist with useful scent/name/place inquiry | EXPAND HH-R03, no identity accuracy rate or omniscience |
+| H08-MC04 | EXP03U034P294-424 | Depletion/control changes tactics, wary interception and bargaining; enhanced Paralysis actually defeats asserted ordinary resistance | EXPAND HH-R04, generic combat incentives unresolved |
+| H08-MC05 | EXP01IMG030-031/040-043;EXP03U026P591-598/U034P387-424/489 | Scoped offered terms/doctrine matter; acceptance/performance/release/rebirth not automatically shown | EXPAND HH-R05, enforcement remains unresolved |
+| H08-MC06 | EXP01IMG027-031/036/043;EXP03U020P509-516/U034P364-493 | Rank, deference, relaxed address, borrowed introduction, threat/bargain/complaint differ by act/recipient | EXPAND HH-R06, no acoustic/native-human adequacy |
+
+StageD feed retains task-specific competence, child/protagonist/reader knowledge separation, other providers' actual contributions, coercive/collateral costs and modified-effect counterevidence. Three same-author pairs/six first bodies provide bounded request sensitivity, same-bargain affect variation and hidden-truth invariance; they supply no independent reliability or new source score. Original principal conditions and outcomes are not redefined by Hoost friendship or life claims.
+
+
+## Levi cohort09 — five provisional rule constraints — 2026-10-20T06:09:56.297297+00:00
+
+| Constraint | Source return | Consequential interpretation and contrary limit |
+|---|---|---|
+| L09-MC01 → LEVI-R01 | MAIN10C4P139–197/247–284;DUST04U014P223–264/339–418 | Perceived downside/control can permit games or inhibit new exposure; real rule errors/cheating defeat global prudence or fair-learning claims. |
+| L09-MC02 → LEVI-R02 | MAIN10C3P529–578/C4P25–95/257–279/C5P185–211/715–758 | Specific evidence alters local treatment without correcting every identity, relationship or ethical error. |
+| L09-MC03 → LEVI-R03 | MAIN10C5P376–477, then715–734 | Self-authored aid precedes villain exposure; causal weights and sufficiency remain OPEN. |
+| L09-MC04 → LEVI-R04 | MAIN10C5P734–758;DUST04U014P34–118/144–170/418–430 | Known debt and likely nonaffiliation do not inhibit actual coercion; exclude fabricated allegations and late-intention retroactivity. |
+| L09-MC05 → LEVI-R05 | MAIN10C3P529–578/C4P251–281/C5P185–211/715–758;DUST04U014P89–105/418–430 | Recipient/act-sensitive printed stance; sparse unequal evidence, no acoustic or demonstrated Japanese generation. |
+
+The new monograph/model/index have distinct responsibilities. Four first bodies leave generic prudence, near-canonical prompting, exact hidden-truth invariance and overly coherent English unresolved; no score/confidence gain. All fourteen entering models remain byte-exact, with one new scoped secondary model (fifteen bodies total). Frozen MAIN_ONLY_R1 and its four holdout histories remain separate. StageD feed: task-specific inhibition, nonidentified causal weights, other agents' independent choice, gratitude/coercion coexistence and knowledge/phase boundaries; six separately versioned successors remain uncreated.
+
+
+## Cohort10 — expanded constraints without another model — 2026-10-20T06:58:02.053067+00:00
+
+| Constraint | Source return | Current use and limit |
+|---|---|---|
+| N10-MC01 | MAIN17U011P403–591/U012P114–127;DUST07U013P205–254 | NosTier2 own self-script, coalition affect, real inference/skill and errors; no forced generative model, role ceiling or source-count quota. Disguise turns belong to Kazuma. |
+| N10-MC02 | MAIN17U011P560–586 → DUST07U013P205–254 | Immediate removal and downstream police injury coexist; provider adequacy/safe handoff not proved. One connected sequence, not new independent validation. |
+| N10-MC03 | MAIN03U017P566/630–633 and frozen report163/167/382 | Current external plane/outcome qualification retains reported harm while removing certainty about performed farm transition/permanent ruin. Original report and all historical scores stay exact. |
+| N10-MC04 | MAIN16U023P1–60 | Direct request/performance and reported benefit/helper explanation differentiated; three narrow profiles and oneTier0index, no unearned reconstruction. |
+
+All15current model bodies/nineTier3subject boundaries are exact; Nos monograph does not add a model. Source-known consolidation supplies no independent trial or improvement of frozen source scores. Broader principal/party/transfer revisions remain six distinct StageD successor responsibilities.
+
+
+## Royal cohort11 differentiated constraints — 2026-10-20T08:11:12.082088+00:00
+
+| Current model rules | Source return and material boundary |
+|---|---|
+| CLAIRE-R01/R02 | MAIN06 class/rank shifts; MAIN10 shared objective and office limit; CONTEXP01 refusal versus CONTEXP02 susceptibility; DUST03 apology with renewed veto. No automatic Iris-triggered compliance or universal class conversion. |
+| CLAIRE-R03/R04/R05 | Performed skill and proxy error; gratitude with risky control; act/recipient-sensitive stance. Real threats do not certify safe means, and respectful titles do not certify trust. |
+| RAIN-R01/R02 | Practical repair and controlled disclosure; factual correction with norm protest and real mistakes. Narrator common-sense labels supply no accuracy grade. |
+| RAIN-R03/R04/R05 | Cost owner/belief, ranked pressure and ordinary aspirations; available safe means versus warning/compliance; actual controller and printed stance. No fixed bid threshold or universal ethical veto. |
+
+Two provisional source-informed model candidates add distinct mechanisms without altering the fifteen entering models. Seven actual first bodies retain the unsupplied council defect, generic/near-canonical rivals, designed/primed contrasts and lack of independent/Japanese adequacy. The [indexes](KONOSUBA_CLAIRE_EVIDENCE_INDEX.md) retain exact returns and qualifications. Stage D still requires six separately versioned principal/party/transfer successors; no retrospective fit repairs frozen results.
+
+
+## Luna cohort12 — own work, relief, pressure and boundaries — 2026-10-20T08:58:31.797980+00:00
+
+| Luna candidate mechanism | Positive/supporting returns | Contrary or limit | Status |
+|---|---|---|---|
+| R01 task-sensitive means and pressure | MASKU017P10/163-178/316; MAIN11U014P431-444/U015P60-131; DUST07U013P114-126 | Dust distance honored; generic official; connected child-audience episode | Provisional, no isolated weights |
+| R02 classify role/value, sometimes evade reckoning | MASKP81-102/450; MAIN11U015P131/515-530 | Own explicit protestMASKP511; one strong evasion exchange | Provisional; unisolated by new battery |
+| R03 context-dependent boundaries | MASKP16/81-102/511-519; DUST07U011P920-922 against MAIN11U015P124-125 | Task/familiarity/comedy covary; no universal consent rule | Local contrary cases secure; causal switch open |
+| R04 relief/company and hopeful appraisal | MASKP316-330/441-541 | Rejects gift/forecast; hidden intent inaccessible; generic social rivals | Moderate connected episode; broad transfer open |
+
+The model has four rules and three actual same-author internal bodies, with no independent/source accuracy gain. Seventeen entering models stay exact. Tier3 means a scoped reconstruction candidate, not a capability grade.
+
+
+## Cecily and Zesta cohort13 — scoped receiving; containing publication pending
+
+| Subject | Distinct scoped mechanism | Actual contrary/limit | Current maturity |
+|---|---|---|---|
+| Cecily | Desired participation; favorable appraisal/public framing; useful means with weak downstream control; recipient/role modes | Useful work, correct water observation, real blessings and selective protection coexist with deception, ignored refusal and false blame; motives not weighted | Four-rule model plus monograph/index, four same-author hypothetical first bodies; no independent/Japanese/confidence result; publication pending |
+| Zesta | Particular Aqua concern; strong applicable means but unreliable assurance; competing amusement/resentment; favorable epistemic presentation | Real healing, target limits, useful support and quiet concern coexist with bluff, suppressed means, coercion and abandonment | Four-rule model plus monograph/index, four same-author hypothetical first bodies; action invariance/generic priest rivals and defects retained; publication pending |
+
+Eighteen entering model bodies remain exact; two additions would make20. Fourteen scoped secondary model subjects would then be represented, with Nos Tier2 monograph-only and eleven bounded profiles after the two current profiles. No principal StageD successor is supplied by these additions.
+
+
+## Cohort14 bounded profiles; no new model — 2026-10-20T11:12:02.861945+00:00
+
+| Subject/record | Earned artifact and return | Model status and limit |
+|---|---|---|
+| Returning Axis guide170 | Tier1 profile; exact MAIN04-to-MAIN16 co-reference, directions/duty/actual harm/belief/money pressure | No new model; generic partisan caretaker rival; kick distinct from earlier mob allegation |
+| Axel Eris priest171 | Tier1 profile; service account, no-visit boundary, embarrassment, unperformed threat | No new model; generic harassed cleric rival; name/gender unestablished |
+| Arcanretia Eris priest172 | Tier1 profile; denial, nuisance grievance, actual Powered/defensive escape, poverty account | No new model; first meets Megumin, not automatically Axel priest; strong situational rival |
+| Merchant chair177 | Tier1 profile; actual agreement/role offer, police/caster limits, hospitality, reported reward delivery plus visible bag | No new model; generic civic organizer rival; exact amount/acceptance unshown |
+
+See [profiles](../05%20Specialist%20Synthesis/KONOSUBA_COHORT14_CLERGY_AND_MERCHANT_BOUNDED_PROFILES.md) and [event index](KONOSUBA_CLERGY_AND_MERCHANT_EVIDENCE_INDEX.md). Twenty current model bodies/fourteen scoped secondary model subjects remain exact; eleven prior bounded profiles plus four candidates would make fifteen after adoption. No new test/grade/independent/source-confidence gain or permanent tier ceiling.
+
+
+## Cohort15 differentiated secondary candidates — 2026-10-20T13:11:28.160162+00:00
+
+| Subject | Earned scope | Main contrary/rival and test limits |
+|---|---|---|
+| Leen/リーン | Own viewpoint, particular shared present, practical learning/cost, selective knowledge and peer enforcement; four conditional rules plus monograph. | Generic attachment/mage/motivated reasoning remains. Four source-known English bodies: personal appeal/caution and confounded cost/permission contrast; R03 not directly tested and practice permission ambiguous. |
+| Keith/キース | Competition triggers, finite useful perception/work and selective coalition pressure; three conditional rules plus monograph. | Generic competitive friendship/role/conformity remains. Four English bodies retain pressure after refusal; toolbox posture not actual sabotage. No competence/ownership/repair/Japanese finding. |
+| Taylor/テイラー | Practical duty, evidence/recipient perspective with idealization, selective intervention/partial repair; three conditional rules plus monograph. | Generic conscientious leader/in-group bias remains. Four English bodies give obvious danger response and clean coalition switch, not calibrated thresholds; solitary reply overcoherence retained. |
+
+The [Leen](KONOSUBA_LEEN_EVIDENCE_INDEX.md), [Keith](KONOSUBA_KEITH_EVIDENCE_INDEX.md) and [Taylor](KONOSUBA_TAYLOR_EVIDENCE_INDEX.md) indices own exact event access. Candidate23model bodies would include seventeen scoped secondary subjects after adoption; fourteen previously published subjects/twenty earlier model bodies remain exact. Fifteen bounded profiles/Nos Tier2 unchanged. No capability grade, independent accuracy or confidence gain; six StageD principal/party/transfer successors remain separate.
+
+
+## Cohort16 Lolisa, Rionor and Feit — 2026-10-20T14:52:18.145824+00:00
+
+[Lolisa](../06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_LOLISA_RECONSTRUCTION_MODEL.md) adds one three-rule conditional model alongside her [monograph](../05%20Specialist%20Synthesis/KONOSUBA_LOLISA_CHARACTER_MONOGRAPH.md) and [event index](KONOSUBA_LOLISA_EVIDENCE_INDEX.md). [Rionor](../05%20Specialist%20Synthesis/KONOSUBA_RIONOR_CHARACTER_MONOGRAPH.md) and [Feit](../05%20Specialist%20Synthesis/KONOSUBA_FEIT_CHARACTER_MONOGRAPH.md) earn separate Tier2 monographs with individual indices,without automatic model/case creation. Candidate totals24model bodies/eighteen scoped secondary model subjects/fifteen bounded profiles/three monograph-only subjects including Nos; prior23model bodies exact. Four same-author source-known first replies retain generic rivals,partial rule coverage,compound-input and invariant-action limits; no reliability/grade/confidence gain.187qualified records remain nonfinal; only existing rows17-19 change analytically relative to verified post-C15current state,184others exact.
+
+
+## Cohort17 Wolbach and Chomusuke — 2026-10-20T16:06:56.617701+00:00
+
+[Wolbach model](../06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_WOLBACH_RECONSTRUCTION_MODEL.md) supplies four provisional conditional rules beside her [monograph](../05%20Specialist%20Synthesis/KONOSUBA_WOLBACH_CHARACTER_MONOGRAPH.md). [Chomusuke monograph](../05%20Specialist%20Synthesis/KONOSUBA_CHOMUSUKE_CHARACTER_MONOGRAPH.md) earns Tier2 with generic creature/conditioning/state rivals and unresolved memory/power/comprehension; no automatic model or case battery,not a fixed ceiling. Candidate25model bodies/nineteen scoped secondary subjects/fifteen profiles/four monograph-only subjects Nos/Rionor/Feit/Chomusuke. Prior24models exact. Four actual source-known same-author English first bodies retain strong cues/generic rivals,unprobed rules and uncued H02B obligation argument. No independent accuracy/grade/confidence gain.187records remain nonfinal; only rows20-21 change analytically relative current,185others exact.
+
+
+## Cohort18 Sena and Arnes — 2026-10-20T17:14:33.263380+00:00
+
+Separate [Sena model](../06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_SENA_RECONSTRUCTION_MODEL.md) and [Arnes model](../06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_ARNES_RECONSTRUCTION_MODEL.md) add three and four provisional rules beside their substantial [Sena](../05%20Specialist%20Synthesis/KONOSUBA_SENA_CHARACTER_MONOGRAPH.md)/[Arnes](../05%20Specialist%20Synthesis/KONOSUBA_ARNES_CHARACTER_MONOGRAPH.md) monographs. Candidate27models/twenty-one secondary model subjects/fifteen bounded profiles/four monograph-only Nos,Rionor,Feit,Chomusuke; prior25models exact. Eight actual same-author known-source first bodies retain generic rivals,unprobed rules,presupposition defects and an invariant behavioral endpoint. Only rows22/50 analytically change against current,185others exact. Including C17closure rows20/21,four differ from published3ed7a3e5,183others exact;187records nonfinal. No independent accuracy/grade/confidence.
+
+
+## Cohort19 scoped artifact responsibilities
+
+Rex earns a provisional Tier3 [model](../06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_REX_RECONSTRUCTION_MODEL.md),twelve-dimension [monograph](../05%20Specialist%20Synthesis/KONOSUBA_REX_CHARACTER_MONOGRAPH.md) and 22 index rows. Three conditional rules retain selective updating,practical protection with finite means,and situated ambitious recruitment with contrary retreat pressure. Sophie and Terry earn separate revisable Tier1 [profiles](../05%20Specialist%20Synthesis/KONOSUBA_COHORT19_SOPHIE_TERRY_BOUNDED_PROFILES.md),not forced models or a shared mind. Candidate 28 current model bodies/twenty-two secondary model subjects/seventeen bounded profiles/four monograph-only Nos,Rionor,Feit,Chomusuke have distinct maturity limits. Four same-informed-author first bodies retain strong generic cues and defects; no independent accuracy/grade/confidence gain or new six StageD successors. Exact containing publication pending.
+
+
+## Cohort20 — individual village peers and attributed writer correction
+
+Cohort20 adds no model. Funifura and Dodonko each receive a revisable Tier2 monograph, with distinct histories and strong generic/collective-attribution rivals. Nerimaki receives a Tier1 bounded profile; occupational writer evidence belongs to Arue. Candidate total remains 28 model bodies/twenty-two scoped secondary model subjects; eighteen profiles and six monograph-only subjects (Nos, Rionor, Feit, Chomusuke, Funifura, Dodonko) retain different responsibilities.
+
+The [individual index](KONOSUBA_VILLAGE_PEERS_EVIDENCE_INDEX.md) and [provenance](KONOSUBA_VILLAGE_PEERS_NATIVE_PROVENANCE_01.json) own source access. No new test inputs, first bodies, independent accuracy, Japanese adequacy, grade or confidence gain is claimed. Containing publication pending; whole individual census, expanded specialists and six separate StageD successors remain open.
+
+
+## C20-CR04 — apparent potion effect and actor attribution
+
+The [external medicine erratum](KONOSUBA_VILLAGE_PEERS_MEDICINE_ATTRIBUTION_ERRATUM_01.md) removes any reading of medicine work as Dodonko medical production/career and qualifies P433 speaker-tag strength. Her Tier2 monograph remains supported by separate social choices, defense, refusal and reported outcomes; no model, rule, test input or first body is added. Current 28 models, twenty-two scoped secondary model subjects, eighteen profiles, six monograph-only subjects and 190 nonfinal records remain unchanged in count. No independent accuracy, grade or confidence gain.
+
+
+## Cohort21 — separate agency, conditional models and attributed revision
+
+Cohort21 adds separate twelve-dimension Arue/Soketto/Bukkorori monographs, two conditional models with seven total rules, and a compact father Tier1 profile in the existing state ledger. Arue remains Tier2 with future distinct modeling open; two narrow collateral occurrences stay Tier0. Candidate totals are 30 model bodies/twenty-four scoped secondary model subjects, nineteen bounded profiles and seven monograph-only subjects (Nos, Rionor, Feit, Chomusuke, Funifura, Dodonko, Arue);193 records remain nonfinal. [Individual index](KONOSUBA_ARUE_SOKETTO_BUKKORORI_EVIDENCE_INDEX.md).
+
+Eight informed same-root first bodies retain strong cueing/generic rivals, shared practical endpoints, unprovided details and unprobed rules. [Soketto](../06%20Character%20Modeling%20and%20Reconstruction/SOKETTO_EXPANDED_V1_EVIDENCE/SOKETTO_CASE_ASSESSMENT_01.md) and [Bukkorori](../06%20Character%20Modeling%20and%20Reconstruction/BUKKORORI_EXPANDED_V1_EVIDENCE/BUKKORORI_CASE_ASSESSMENT_01.md) assessments are local diagnostics, not designated global evaluation. All 28 entering models remain exact. No independent accuracy, Japanese adequacy, grade or confidence gain; publication/full census/program remain pending.
+
+
+## Cohort22 — Mitsurugi and separately bounded companions
+
+| Subject | Current scoped artifact responsibility | Counterevidence and present readiness limit |
+| --- | --- | --- |
+| Mitsurugi Kyouya / 御剣響夜 | Separate monograph and four-rule provisional model; M01-M36/I01-I03 in [individual index](KONOSUBA_MITSURUGI_COMPANIONS_EVIDENCE_INDEX.md) | Real aid/power and local correction coexist with pressure/idealization and limited learning. Four source-known first bodies/two pairs retain strong generic cues, unsupported details, shared preparation and R02/R04 unprobed. No evaluator-owned grade or independent confidence gain. |
+| Mitsurugi spear-user companion, shared nameset role-unmapped | Existing-ledger compact Tier1 profile; S01-S04 | Own fatigue/conditional following and editorial recruitment stance; much early speech, skill distribution and name mapping unresolved. No dedicated model. |
+| Mitsurugi thief companion, shared nameset role-unmapped | Existing-ledger compact Tier1 profile; T01-T04 | Own favored-person/death-together statement, editorial praise and later pair relief/care. No permanent consent or dedicated model. |
+
+The candidate adds one model to the preserved thirty, yielding thirty-one bodies/twenty-five scoped secondary model subjects, twenty-one bounded profiles and seven monograph-only subjects. These are artifact counts, not a completed census denominator. Global discovery/evaluation outputs retain designated ownership and may lag within policy. Seven expanded specialist and six distinct StageD successor obligations remain active.
+
+
+## Cohort23: earned parent/teacher artifacts and open rivals
+
+| Subject | Current scoped artifact | Mechanisms and limits |
+|---|---|---|
+| Yuiyui / ゆいゆい | Twelve-dimension monograph, three-rule provisional Tier3 model, six informed firsts/three pairs; YY01-YY14 | Preferred household future, visible resources and means adaptation; explicit objections, failed magic/exhaustion, concern/work and generic rivals retained. |
+| Hyoizaburoo / ひょいざぶろー | Twelve-dimension Tier2 monograph only; HY01-HY10 | Gratitude/intimidation, gifts/resources, pride/boundary and mediated craft tension; no distinct generator or matched-parent quota. |
+| Pucchin / ぷっちん | Twelve-dimension monograph, three-rule provisional Tier3 model, six informed firsts/three pairs; PC01-PC15 | Theatrical evaluation, effective but admitted delayed intervention and practical support with mockery; academic merit, real knowledge/correction and generic rivals retained. |
+
+The [individual index](KONOSUBA_CRIMSON_PARENTS_TEACHER_EVIDENCE_INDEX.md) locates each actor and access plane. Two new models yield33bodies/27scoped secondary model subjects;21bounded profiles remain and eight monograph-only subjects include Hyoizaburoo. The207nonfinal records include14new candidate/role/roster/mediated slots, not14proved people. Twelve English firsts retain adverse findings, shared endpoints and unprobed mechanisms without accuracy, Japanese adequacy, grade or confidence gain. Global curator/evaluator outputs retain designated ownership. Seven expanded specialists, extended/full-series synthesis, six distinct StageD successors and integration/release/final entry remain active.
+
+
+## Cohort24 — Crimson village work and staff, source-known scope
+
+Chekera scopedTier2 has a dedicated monograph; infirmary teacher,cafe proprietor,blacksmith/armor artisan,potion proprietor,diner proprietor and farm earth caster/harvest supervisor have six compact Tier1 profiles in the existing coverage audit. No model is added to 33 entering bodies/27scoped secondary model subjects. Candidate totals 27 bounded profiles/nine monograph-only subjects and 219 nonfinal records are distinct scope measures. Ten new incidental Tier0 dispositions and one deferred Arcanretia manager review are not eleven proved unique people or denied future potential. Own choices, reports, generic rivals and missing outcomes remain asymmetric.
+
+Exact locators and access: [cohort24 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_TRADES_STAFF_EVIDENCE_INDEX.md). The shared known-source union is 1,149 BASE slots/7 text members/4 text objects, including context, blanks, other actors and rejected joins; no fresh whole-source, ruby, residual, image-set, admission or independent validation credit. Earlier models, scores, firsts and prospective missingness remain unchanged. Canonical receiving is complete for this candidate only; exact containing publication/full program remain pending.
+
+
+## Cohort25 — chief, Sylvia, trial machine and castle courier
+
+Sylvia earns one Tier2 monograph; chief,Moguninnin and the new MASK courier have three compact Tier1 profiles in the existing audit. All33models/27scoped secondary model subjects are unchanged. Candidate totals are30bounded profiles,10monograph-only subjects and223nonfinal records. Three new Tier0 group/reported-role records and one courier-role profile do not prove four distinct new people. Generic strategic,family,architectural and duty rivals remain; no forced Tier3 parity or sole-evaluator readiness judgement is added.
+
+Exact locators and access: [cohort25 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX.md). This source-known scope adds no new whole-source,ruby,residual,image-set,admission or independent validation credit. Earlier models,first bodies,scores and prospective missingness remain unchanged. Canonical receiving/publication is pending for this candidate; the full KonoSuba program continues.

@@ -1,0 +1,353 @@
+{
+  "schema": "KONOSUBA_LEEN_PARTY_COHORT15_RECEIVING_AND_PROVENANCE_V1",
+  "recorded_utc": "2026-10-20T13:13:27.338436+00:00",
+  "status": "SCOPED_SEMANTIC_AND_FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+  "scope": "Three distinct monographs and first conditional reconstruction candidates, all sources known. Not whole-program closure or a capability assessment.",
+  "prior_published_authority": {
+    "source": "587fb9d0eea923c730c4e7e532dfc4929862e344",
+    "tree": "b673527a6ef11dd7f24dda060dcd8eb9f6ee7245",
+    "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_CLERGY_MERCHANT_COHORT14_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "6beb314b4e4dc5b38c823ed10c3c5fc93c5697229f2fc04a2a2df2e48f48dc68",
+    "source_run": 39414733032,
+    "housekeeping_run": 39415444499,
+    "final_run": 39415509323,
+    "full_tests_in_each_audit": 385
+  },
+  "semantic_receiving_sha256": "1fe46eb4fcb6ddef899f8c33d495e52e9c0933f8d8033a3706ce89b33ac3542f",
+  "source_safe_provenance_sha256": "4f21460cdb2148b612b932bec17e57006e1a69e451c2864a10cb457ec5c70ab4",
+  "artifacts": [
+    {
+      "source_file": "LEEN_CHARACTER_MONOGRAPH_DRAFT_02.md",
+      "target_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_LEEN_CHARACTER_MONOGRAPH.md",
+      "bytes": 25604,
+      "sha256": "1562f6d94dbb33018ff89d192247ddaeb1dca97bd91f7af38c1eda4738990c7b"
+    },
+    {
+      "source_file": "KONOSUBA_LEEN_RECONSTRUCTION_MODEL_DRAFT_02.md",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_LEEN_RECONSTRUCTION_MODEL.md",
+      "bytes": 17273,
+      "sha256": "d77fce9b6ac0635ee7ef1eeaedf1c816f4d80f097369f86204b46b0eb132120b"
+    },
+    {
+      "source_file": "KONOSUBA_LEEN_EVIDENCE_INDEX_DRAFT_01.md",
+      "target_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_LEEN_EVIDENCE_INDEX.md",
+      "bytes": 10597,
+      "sha256": "c7127b3ed0422e749fa9f059d0e15a6ca4579f8041574a1d76917ed51ce328bc"
+    },
+    {
+      "source_file": "LEEN_RULE_INVENTORY_02.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/LEEN_EXPANDED_V1_EVIDENCE/LEEN_RULE_INVENTORY_01.json",
+      "bytes": 12675,
+      "sha256": "21aa351ded41d6bbbbc54a45480c8eba01e136324ebc7fd0d91ed86d2baa6aae"
+    },
+    {
+      "source_file": "LEEN_SCENARIO_INPUTS_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/LEEN_EXPANDED_V1_EVIDENCE/LEEN_SCENARIO_INPUTS_01.json",
+      "bytes": 8959,
+      "sha256": "679d0271d02a0cf58ad8fe08dd27c3d107c38dde5721ed5a5dbc46ce43222182"
+    },
+    {
+      "source_file": "LEEN_FIRST_OUTPUTS_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/LEEN_EXPANDED_V1_EVIDENCE/LEEN_FIRST_OUTPUTS_01.json",
+      "bytes": 2447,
+      "sha256": "cefebc48e5f2cf8d402283e6340911ece76b83d45563fe6ac437ff5f0eb02cee"
+    },
+    {
+      "source_file": "LEEN_INTERNAL_ASSESSMENT_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/LEEN_EXPANDED_V1_EVIDENCE/LEEN_INTERNAL_ASSESSMENT_01.json",
+      "bytes": 5474,
+      "sha256": "271e785706eb90b3742e4423cb40771b44128f071c356f59358f07ae8b19da3d"
+    },
+    {
+      "source_file": "KEITH_CHARACTER_MONOGRAPH_DRAFT_01.md",
+      "target_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_KEITH_CHARACTER_MONOGRAPH.md",
+      "bytes": 15406,
+      "sha256": "230e28b10af87ebebba86e1f8f019224e2a5dea9e05cd977e05d1fbe8d2b3da2"
+    },
+    {
+      "source_file": "KONOSUBA_KEITH_RECONSTRUCTION_MODEL_DRAFT_01.md",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_KEITH_RECONSTRUCTION_MODEL.md",
+      "bytes": 14474,
+      "sha256": "405980a8b3b5446bc98499389a9f251bc6690d875ae24e9c4b6e8360fd0ed778"
+    },
+    {
+      "source_file": "KONOSUBA_KEITH_EVIDENCE_INDEX_DRAFT_01.md",
+      "target_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_KEITH_EVIDENCE_INDEX.md",
+      "bytes": 8549,
+      "sha256": "90b235cb6e1ecbe10d5881ee5c65df531676ee6ca8449353686e78dbd84bd5bb"
+    },
+    {
+      "source_file": "KEITH_RULE_INVENTORY_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/KEITH_EXPANDED_V1_EVIDENCE/KEITH_RULE_INVENTORY_01.json",
+      "bytes": 9650,
+      "sha256": "0475648bce26041679569e257e46e2a7caf548544ab84b067d4b1364cc8f1e7a"
+    },
+    {
+      "source_file": "KEITH_SCENARIO_INPUTS_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/KEITH_EXPANDED_V1_EVIDENCE/KEITH_SCENARIO_INPUTS_01.json",
+      "bytes": 8472,
+      "sha256": "2d69a4b93ef83565a75ef4634c302c1184b842eafab47c9be79f4fec93ca1b5a"
+    },
+    {
+      "source_file": "KEITH_FIRST_OUTPUTS_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/KEITH_EXPANDED_V1_EVIDENCE/KEITH_FIRST_OUTPUTS_01.json",
+      "bytes": 2510,
+      "sha256": "7851eaa23615b9be4a90797605e54addc201587bdc5ea5153d5097dd8cdbcebd"
+    },
+    {
+      "source_file": "KEITH_INTERNAL_ASSESSMENT_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/KEITH_EXPANDED_V1_EVIDENCE/KEITH_INTERNAL_ASSESSMENT_01.json",
+      "bytes": 5307,
+      "sha256": "edbc8883412cb96c954c32e98f6c97df41496851e26d77e00981e63c0098ca7f"
+    },
+    {
+      "source_file": "TAYLOR_CHARACTER_MONOGRAPH_DRAFT_02.md",
+      "target_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_TAYLOR_CHARACTER_MONOGRAPH.md",
+      "bytes": 16823,
+      "sha256": "be66cf8a3cc506b372fa1064e171f67eb80d853dc3b335421e40856a936ac397"
+    },
+    {
+      "source_file": "KONOSUBA_TAYLOR_RECONSTRUCTION_MODEL_DRAFT_02.md",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_TAYLOR_RECONSTRUCTION_MODEL.md",
+      "bytes": 14105,
+      "sha256": "4e7b8b70962cdd6ad8a90fa987ba3279a23e8480dd4f92660822db76bb552701"
+    },
+    {
+      "source_file": "KONOSUBA_TAYLOR_EVIDENCE_INDEX_DRAFT_01.md",
+      "target_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_TAYLOR_EVIDENCE_INDEX.md",
+      "bytes": 8431,
+      "sha256": "a3cbf0fd7b068ed5403e034149d4e3f126529d9df8f2fd7dd31bb9464cdeb2bc"
+    },
+    {
+      "source_file": "TAYLOR_RULE_INVENTORY_02.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/TAYLOR_EXPANDED_V1_EVIDENCE/TAYLOR_RULE_INVENTORY_01.json",
+      "bytes": 9460,
+      "sha256": "090baf49ab83cb17d27b3c21e567c99b059832315c1cebf30d26adbb7c671b20"
+    },
+    {
+      "source_file": "TAYLOR_SCENARIO_INPUTS_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/TAYLOR_EXPANDED_V1_EVIDENCE/TAYLOR_SCENARIO_INPUTS_01.json",
+      "bytes": 8572,
+      "sha256": "0b7d8a16eebad0fbbee69a8f0c4ea98b3b0558a03310c11ba8fad69bec3b880b"
+    },
+    {
+      "source_file": "TAYLOR_FIRST_OUTPUTS_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/TAYLOR_EXPANDED_V1_EVIDENCE/TAYLOR_FIRST_OUTPUTS_01.json",
+      "bytes": 2476,
+      "sha256": "3838d3275569ebadcf5d56b706b050c73b039e8be675600e07754e9751c3b548"
+    },
+    {
+      "source_file": "TAYLOR_INTERNAL_ASSESSMENT_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/TAYLOR_EXPANDED_V1_EVIDENCE/TAYLOR_INTERNAL_ASSESSMENT_01.json",
+      "bytes": 5308,
+      "sha256": "3339a877dc1a890d608ec76e06e083bba58249bd9e573e4289f6cf854c4a837b"
+    },
+    {
+      "source_file": "KONOSUBA_LEEN_PARTY_NATIVE_PROVENANCE_01.json",
+      "target_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_LEEN_PARTY_NATIVE_PROVENANCE_01.json",
+      "bytes": 19034,
+      "sha256": "4f21460cdb2148b612b932bec17e57006e1a69e451c2864a10cb457ec5c70ab4"
+    }
+  ],
+  "source_scope": {
+    "known_BASE_context_slots": 2394,
+    "members": 13,
+    "objects": 7,
+    "new_global_unique_full_ruby_image_admission_or_independent_credit": 0,
+    "independent_observation_count": null
+  },
+  "models": {
+    "new": 3,
+    "rules": 10,
+    "prior_twenty_exact": [
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_AQUA_RECONSTRUCTION_MODEL.md",
+        "bytes": 64491,
+        "sha256": "2f63ef1000c74a2bf105c3cfbbd4258f39e8abe9cf1544fac25768673f17c430"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CECILY_RECONSTRUCTION_MODEL.md",
+        "bytes": 20405,
+        "sha256": "34843fd30838efdc83d54f686795e23bd76730920137746aa8978729891a72a5"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CHRIS_ERIS_RECONSTRUCTION_MODEL.md",
+        "bytes": 24777,
+        "sha256": "213de30d6bfab2fb3a9d2c47c2158b6425a598814b92caa855913f08bd997083"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CLAIRE_RECONSTRUCTION_MODEL.md",
+        "bytes": 18435,
+        "sha256": "386b2e7c5df610e83bbf9fec58a8c9485132d6f28b8abb65a3658142de6b08d1"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+        "bytes": 51278,
+        "sha256": "3bec39a1014c50c6704e920b076076ecd2d82ffab0f987fd379844cc68783ee1"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_DARKNESS_RECONSTRUCTION_MODEL.md",
+        "bytes": 62581,
+        "sha256": "e54f45b3aaa74197e76ec917888416b08683ef2b7194586ba060b93979e78bc9"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_DUST_RECONSTRUCTION_MODEL.md",
+        "bytes": 20922,
+        "sha256": "3ef260ea7a64f350c8c09448020a96e18ed0eed75af5acd417193805bff8655f"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_HOOST_RECONSTRUCTION_MODEL.md",
+        "bytes": 25873,
+        "sha256": "e973e7f325238ab71fa0e10e3588d32c8fc3bf03dd827bb32e9120789c4742c7"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_IRIS_RECONSTRUCTION_MODEL.md",
+        "bytes": 20464,
+        "sha256": "75afb94b5723af3620ea5fabe1d8a7c742645bb56de938c605a3d11999a42c29"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+        "bytes": 61516,
+        "sha256": "6fe7b325666e339ed86edba70f8d1f9491705f66a6ecdc31eeb44a5bed7a89e4"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_KOMEKKO_RECONSTRUCTION_MODEL.md",
+        "bytes": 21826,
+        "sha256": "0be5bfa9097547a3d705b5a8216dd395f714382b65f6fa4cad499504641065c0"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_LEVI_RECONSTRUCTION_MODEL.md",
+        "bytes": 23809,
+        "sha256": "dd3b48dba631c87e7c0fe604f0cb5a94dd618e5e77b9d2c781491b6c7b7b3c46"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_LUNA_RECONSTRUCTION_MODEL.md",
+        "bytes": 23199,
+        "sha256": "7d071db906bd88e6e14b305705825a11c253f99eb66e6ee26644c4523bded2c9"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_MEGUMIN_RECONSTRUCTION_MODEL.md",
+        "bytes": 60891,
+        "sha256": "cbff1ec4266e8d6908b3d58af9870aa7f981fe40f3a573ed29da345e1f1d801f"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_PARTY_INTERACTION_MODEL.md",
+        "bytes": 67885,
+        "sha256": "cf2082e63718e1c51c171fb9225b0be5da603c1e85900f397c36e233af6d3f8e"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_RAIN_RECONSTRUCTION_MODEL.md",
+        "bytes": 19139,
+        "sha256": "3d62cb9fc0958b86cc9edef8479036483f4cb0d752f63c599beab3719d689637"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_VANIR_RECONSTRUCTION_MODEL.md",
+        "bytes": 25561,
+        "sha256": "081b6bef4df5584837d2a6fb565f746aa3d9c00a3c925c592596d2d3bb3186df"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_WIZ_RECONSTRUCTION_MODEL.md",
+        "bytes": 24361,
+        "sha256": "b8248785ff01251738798121a3ac1eea06b576913c1ea436e97fc22720146b89"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_YUNYUN_RECONSTRUCTION_MODEL.md",
+        "bytes": 25474,
+        "sha256": "4565a9089c9bac6c6f694469f27920d26f9ab1b44275c62c7160692575c765eb"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_ZESTA_RECONSTRUCTION_MODEL.md",
+        "bytes": 20868,
+        "sha256": "f7c966bf93a3c788a697f9b2da55f01b6b221d52ca9a95d63df45401632de0a0"
+      }
+    ],
+    "candidate_total": 23,
+    "scoped_secondary_subjects_after_adoption": 17,
+    "bounded_profiles": 15,
+    "Nos_Tier2_monograph_only": 1
+  },
+  "internal_cases": {
+    "actual_first_bodies": 12,
+    "regenerations": 0,
+    "same_informed_root_author": true,
+    "source_known_hypotheticals": true,
+    "accuracy_result": null,
+    "confidence_gain": 0,
+    "capability_grade": null,
+    "limitations": "Generic rivals, underidentification, unprobed branches, overcoherence and Leen practice-permission ambiguity retained; no repairs of frozen model/input/body."
+  },
+  "census": {
+    "records_not_final_people": 187,
+    "changed_existing_rows": [
+      14,
+      15,
+      16
+    ],
+    "untouched_rows": 184,
+    "new_rows": 0,
+    "comparison": {
+      "comparison_baseline": "Verified post-cohort14 working census before cohort15 analytical changes",
+      "comparison_baseline_sha256": "95a42ed42d2f855f96527b985a1285bab3a6980a4194d43286acd1c0c391cf20",
+      "new_analytic_changed_rows_relative_to_baseline": [
+        14,
+        15,
+        16
+      ],
+      "other184_rows_exact_relative_to_baseline": true,
+      "carried_prior_cohort14_gate_status_rows": [
+        170,
+        171,
+        172,
+        177
+      ],
+      "rows_changed_versus_published587fb9d0": [
+        14,
+        15,
+        16,
+        170,
+        171,
+        172,
+        177
+      ],
+      "other180_rows_exact_versus_published587fb9d0": true,
+      "published587fb9d0_census_sha256": "6a33092e64888ef0bb5ef6a78c5b553832bc61a7b4c1fd54fad7e27a4fcd0740"
+    }
+  },
+  "historical_integrity": "All original forecasts, annotations, four scores, Dust14blanks/SI-SY28nulls,66immutable/72historical and previous first bodies retain their boundaries and bytes. Appended feeds are new attributed uptake; none of the six StageD successors is authored.",
+  "publication_gate_required": "Full candidate review/preflight, normal push/full remote tree and changed blobs, source audit, housekeeping, final exact actual-source audit/status and fresh authority reload.",
+  "designated_ownership": "No protected merge, executor activation, source admission or global curator/evaluator output authorship.",
+  "full_program_complete": false,
+  "candidate_review_refinements": [
+    "Current coverage lead and three current table rows synchronized with the three conditional candidates; earlier tiers preserved in structured census history.",
+    "Cast execution/hit distinguished from finishing effect; matrix links explicitly expose all three individual indices.",
+    "New audit appendix links are relative to its own directory.",
+    "Comparison baseline distinguishes three new analytical rows from four carried prior gate-status rows.",
+    "No frozen model, inventory, input, first body, assessment or native provenance changed."
+  ],
+  "publication_pending_status_at_authorship": "SEMANTIC_RECEIVING_COMPLETE_EXACT_CONTAINING_PUBLICATION_PENDING",
+  "publication_resolution": {
+    "status": "SCOPED_THREE_CONDITIONAL_MODELS_FULL_EXACT_SOURCE_GATE_CLOSED",
+    "source": "76851fae4b84b13b182e0112b17ccc5765bcd712",
+    "tree": "b4513500f6e87ce770a796e38dd19dc1d53235ab",
+    "closed_utc": "2026-10-20T13:46:41.369857+00:00",
+    "gate_path": "09 Audits and Manifests/KONOSUBA_LEEN_PARTY_COHORT15_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "f3381e805f22e5016d58da084b65850242a30d84f324a56b3ec49d9b89c5ece5",
+    "source_run": 39431008010,
+    "housekeeping_run": 39431926119,
+    "final_run": 39431995144,
+    "all_remote_paths": 9300,
+    "all_changed_streams": 43,
+    "full_tests_source_and_final": 385,
+    "fresh_project_reload_paths": 1124,
+    "current_model_bodies": 23,
+    "new_model_bodies": 3,
+    "scoped_secondary_model_subjects": 17,
+    "bounded_profiles": 15,
+    "monograph_only_subjects": 1,
+    "actual_internal_first_bodies": 12,
+    "regenerations": 0,
+    "independent_accuracy_or_confidence_gain": false,
+    "full_program_complete": false
+  },
+  "published_authority_reload_sha256": "209ca0f8bb4e1066f8141b98071481c9e372868434033236b60854b90d22e10c"
+}

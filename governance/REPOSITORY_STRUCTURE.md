@@ -11,15 +11,14 @@ characters/
   reconstruction_capabilities.jsonl
   CHARACTER_RECONSTRUCTION_INDEX.md
 governance/
-  AUTHORITY_STATE.yaml
-  AUTHORITY_SCOPE.json
+  AGENT_ROUTING.md
   MANGA_ANIME_CORPUS_INDEX.md
-  CHATGPT_AUTHORITY_AND_ROUTING.md
   analytical-methods/
   policies/
   repository-controls/
-    public-activation-bindings.json
   schemas/
+  archive/
+    migration/
 crosswalk/
   drive-to-git.jsonl
   materialization-results.jsonl
@@ -45,4 +44,4 @@ Stable slugs use the best-known English or official Latin-script title, lowercas
 
 The approved clarification slug is `the-idolmaster-cinderella-girls-2015-anime`.
 
-The first integrated series candidate was `series/the-idolmaster-cinderella-girls-u149/`. Git is the epoch-1 analytical authority for the exact scope declared in `AUTHORITY_SCOPE.json`; Drive retains only its declared native-authoring and reference roles.
+The first integrated series candidate was `series/the-idolmaster-cinderella-girls-u149/`. `main` is the analytical authority; Drive retains only its declared native-authoring and reference roles. The migration records are archived in `governance/archive/migration/`.

@@ -1273,3 +1273,147 @@ MAIN07C5P221attributes unnecessary document inspection to Kazuma's inference; P2
 
 ## WZ-C01 — direct act, admission and retrospective account
 MAIN04C5P252/P273 leaves Wiz's disclosure intent uncertain; P409/P413 is Hans's admission, not a watched killing. P554/P563 near-instinct interpretation is Kazuma's hypothesis. After his loss of consciousnessP618, freezing every remnantP634 and full purificationP656–658 are retrospective accounts. Actual fading and vitality transferP641–648 have their own observed phase. Contextual gratitude does not make every private motive available.
+
+
+## CE-C01 — testimony, inference and chosen disclosure
+MAIN12 FinalP37–40 prayer linkage and P380 identity detection are Kazuma's inferences, not certified access to her private state. P230/P255 notices inconsistency without full disclosure. MAIN17 C3P355 explicitly gives Eris's preferred cool heroic result; Kazuma's manga explanation P357 remains inference. His commitment P364 precedes the Iris report P384; P392–393 guesses her disclosure motive. MAIN17 Ep's new information corrects her own prior appraisal rather than granting prior omniscience.
+
+
+## DUST-COHORT06-C01 — own viewpoint and cross-viewpoint event identity
+
+Dust is the first-person focalizer of most Dust material; Leen and the private Doreck/Gaibil epilogue have different access. This rolling responsibility keeps its established filename rather than creating a competing narrator ledger. DUST07 U011P1085–1115 supplies the sword's narrated defense, prior-role connection, performed public profit/anger cover, private protect-friend wish and genuine conditional profit. MAIN16 observes the same initial exchange with less private access; MAIN17 use is later. Do not grant either narrator the other's whole mind, infer global unreliability, or turn retellings into new initial loans. A claimed all-spell defense is not a fresh experiment.
+
+
+## Komekko cohort07 source-informed consolidation — 2026-10-20T03:13:02.170207+00:00
+
+Source-known admitted EXP01/02 and MAIN05/11/14; eighteen actual image-prose pages and1,602bounded BASE member slots, not new whole-source/ruby/independent credit. The [Komekko index](../08%20Evidence%20and%20Indexes/KONOSUBA_KOMEKKO_EVIDENCE_INDEX.md) owns exact ranges/event joins; older entries remain historical at their original scopes.
+
+| Record | Acting subject and exact route | Current uptake | Limits |
+|---|---|---|---|
+| K07-KN01 | Komekko/Megumin/Hoost/Yuiyui access; EXP01IMG040-043/U043P538-572;MAIN11C3P204-213/EpP93-99 | Reader-only child interludes, Megumin later report, village false divine account, actual writing, mother-read memo, confused achievement and accurate overheard phrase retain separate knowledge routes. | Neither Kazuma nor Megumin knows every child/Hoost scene. No fresh witnessed battle from a retelling, adult comprehension from quotation or demon control from YORI04/other aptitude reports. |
+
+
+## Hoost cohort08 source-informed consolidation — 2026-10-20T04:07:47.235077+00:00
+
+Source-known admitted EXP01/03: prior eighteen actually read integral image-prose pages reused,1,172unique EXP03 BASE slots/five members newly received, thirteen selected ledger rows/seven files. No fresh EXP01 pixel pass, whole-source/ruby/image/independent credit. [Hoost index](../08%20Evidence%20and%20Indexes/KONOSUBA_HOOST_EVIDENCE_INDEX.md) owns event joins and exact return scopes; previous entries remain historical.
+
+| Record | Acting subject and exact route | Current uptake | Limits |
+|---|---|---|---|
+| H08-KN01 | Komekko/Megumin/Hoost access; EXP01IMG026-043;EXP03U020P476-549/U026P533-598/U034P485-498 | Child image prose, Megumin forest/battle narration, unknown-voice protection guess, Hoost false-report reception, actual recognition correction and late offscreen testimony retain distinct knowledge times. | No Kazuma/Megumin access to every interlude, known sisterhood, reader-only divine identity or witnessed rebirth/release. U045 is principal epilogue; no new Hoost episode from reward reference. Injury-severity wording tension remains. |
+
+
+## Cohort09 — two narrators do not grant Levi omniscience — 2026-10-20T06:09:56.297297+00:00
+
+MAIN10 Kazuma calls Levi stupid while direct behavior shows a stopping rule, acknowledgment of error and political agency. His universal boy/dragon-hero explanation is inference, not experimentally known motive. DUST04 Dust's exact cheating-device account is inference; Levi's broad admission418 confirms cheating without validating every detail. Dust/Small explicitly author false private accusations187–208, so genuine reactions to them cannot authenticate their content. Levi's late claim430 of intended release is attributed retrospective self-account, not the companions' earlier information. The two narrators add access differences, not independent root readers or repeated original engagement events. MAIN10C4P247–284/C5P185–211/376–477/715–758;DUST04U014P183–244/248–264/418–430.
+
+Known admitted-source retrospective consolidation; no new source admission, whole-source/ruby/image/independent-test credit. Exact earlier ledger bytes remain the prefix. Frozen forecasts, failures, scores and blank/null fields remain unchanged.
+
+
+## Cohort10 — connected sources retain unequal access — 2026-10-20T06:58:02.053067+00:00
+
+MAIN17 Kazuma labels Nos foolish while Nos actually infers the protagonists' trap error. His voice deception causes the friendly strike; copied Pain insults are not Pain's true evaluation. His later Nos disguise is not Nos behavior. Aqua's armor explanation is tentative, and the police destination is Kazuma's stated choice. DUST07 Dust observes the harmful aftermath and knockout, not the transfer casting or subsequent cell. Expanded consequences do not backdate into main-only knowledge.
+
+MAIN03U017P566 is Megumin firsthand report to Kazuma;630 is Aqua gift/intention account;631 directly shows props;632–633 is Kazuma livelihood interpretation. The current [external qualification](../09%20Audits%20and%20Manifests/KONOSUBA_MAIN03_PERFORMER_OUTCOME_AND_SOURCE_PLANE_QUALIFICATION_01.json) narrows original report163/167/382 outcome certainty without denying reported distress or erasing the externality concern. MAIN16U023 mother's benefit and Pierre's helper-Teleport explanations also retain their report plane.
+
+Retrospective known-source consolidation; exact previous ledger bytes remain the prefix. No new whole-source/ruby/image/admission/independent-test credit or changed historical forecast, score or blank/null field.
+
+
+## Cohort11 — three narrators and a later officer — 2026-10-20T08:11:12.082088+00:00
+
+Kazuma's class-facing self-presentation, Dust's labels of easy manipulation and Vanir's common-sense judgments are interested accounts, alongside their directly narrated acts. Claire's amputation intention at MAIN06 C1P591 is Kazuma inference; the cut itself is actual. Rain's earlier surprise extra passenger differs from later hospitality framing. DUST03's projections and seller explanation retain their mediated/private planes, and the mask controller is not the body's owner.
+
+MAIN15 C2P429–446 provides an officer's account of handwritten assurance, tearful delivery, papers and departure plus Kazuma's reported letter contents. Fear and romance readings are interpretations. A later recovered-memory claim does not certify every remembered detail; it also prevents treating MAIN11 gaps as a demonstrated permanent condition. No new directly watched Claire/Rain court trial is created.
+
+Known admitted-source consolidation; prior ledger bytes remain the exact prefix. No new whole-source/ruby/image/admission/independent trial or changed frozen forecast, score, first body or blank/null field.
+
+
+## Luna cohort12 — own work, relief, pressure and boundaries — 2026-10-20T08:58:31.797980+00:00
+
+MAIN11's retrospective motive account is Kazuma's, though Luna's repeated staging strongly supports the audience-lever inference. His question whether she thinks him heartless is not an admission from her. Her ownP515 distinguishes original investigation, extra killing and institutional face; hisP519 says roots remain. Gratitude is not complete ecological eradication or every recipient cost vindicated.
+
+MASK gives Vanir first-person intention and retrospective bounty report; Luna's direct statements keep their different force. DUST07 gives Dust's observed vault commitment and later payment account; no independently watched transfer is added. YORI04 DarkStalker favorably narrates the request but Assassin'sP529 nonassent still matters. Another narrator is another perspective, not automatically another independent behavioral trial or Luna's knowledge.
+
+
+## Cecily and Zesta cohort13 — scoped receiving; containing publication pending
+
+Kazuma inference that the Axis clergy recognize Aqua MAIN08U013160-162 is distinct from Cecily direct evasive words157. His MAIN16 remembrance of the unnamed guideU01687 supplies a return lead, not automatic named identity. Cecily and Zesta imagined/claimed meanings are not his omniscient facts. DUST04 Dust, EXP02/CONTEXP Megumin, Aqua interludes and MAIN04 Zesta focalization retain their own access; repeated scenes remain single underlying events. Reader-only Cecily cleaning backfill does not show Zesta pouring powder. Zesta knowledge of Small species is expressly unknown DUST04U013458.
+
+
+## Cohort14 clergy and merchant bounded returns — 2026-10-20T11:12:02.861945+00:00
+
+Kazuma explicitly remembers the guide(MAIN16U016P87) but cannot thereby supply her earlier goddess knowledge. In MAIN08U014P642–667 his private resignation intention is not shown reaching the chair before hospitality. Closing U016P500–509 combines Darkness's report that chair brought a reward, Kazuma's retrospective explanation of disclosure and a directly shown money bag; exact chair handover/amount/Kazuma acceptance remain unshown. Board voices and later injuries do not identify each striking hand. CONTEXP Megumin's tentative embarrassment inference and comic brawl frame likewise do not replace directly attributed action or denial. See [event index](../08%20Evidence%20and%20Indexes/KONOSUBA_CLERGY_AND_MERCHANT_EVIDENCE_INDEX.md).
+
+
+## Cohort15 Leen, Keith and Taylor — 2026-10-20T13:11:28.160162+00:00
+
+MAIN02 Kazuma observes the party learning to depend on his skills, but exact age, universal luck causation and final payment remain unknown. Later Dust focalization has different access: real Leen private reasons are not his knowledge; the knight-era recollection in DUST05U012P654–686 is not current relapse or Leen observation. In DUST07U014 he does not hear Keith whisperP109 and mistakes left-side Vanir for Leen until the reveal. CONTU014 bride Rionor labels are corrected to LeenP331–334 and do not establish Taylor/Keith private belief. MASK narrator Vanir and YORI04 retired observer retain their own selective reporting; no narrator is replaced by an omniscient analyst.
+
+[Leen event index](../08%20Evidence%20and%20Indexes/KONOSUBA_LEEN_EVIDENCE_INDEX.md), [Keith event index](../08%20Evidence%20and%20Indexes/KONOSUBA_KEITH_EVIDENCE_INDEX.md), [Taylor event index](../08%20Evidence%20and%20Indexes/KONOSUBA_TAYLOR_EVIDENCE_INDEX.md). These are actor-specific retrievals of shared known episodes, not new independent observations or a completed global census.
+
+
+## Cohort16 Lolisa, Rionor and Feit — 2026-10-20T14:52:18.145824+00:00
+
+This uptake distinguishes the novel narrators’ access rather than granting Kazuma or Dust analyst omniscience. Dust’s learning judgments about Lolisa,wind/fault explanation for the DUST02 attraction item and fear of Rionor’s possible intelligence use remain his appraisals. Doreck’s private willing bargain CONTU013223/286-288 and Gaibil’s public control claim U014544/547 are different presentations. Rionor’s nested old farewell DUST06U011961-999 is not a second present visit. CONTU014224-327 narrator bride attribution is corrected by Leen reveal331-334. Leen’s viewpoint supplies its own actual interactions without unrestricted access to Lolisa.
+
+Individual retrieval: [Lolisa](../08%20Evidence%20and%20Indexes/KONOSUBA_LOLISA_EVIDENCE_INDEX.md),[Rionor](../08%20Evidence%20and%20Indexes/KONOSUBA_RIONOR_EVIDENCE_INDEX.md),[Feit](../08%20Evidence%20and%20Indexes/KONOSUBA_FEIT_EVIDENCE_INDEX.md). Shared [native provenance](../08%20Evidence%20and%20Indexes/KONOSUBA_LOLISA_ROYAL_DRAGON_NATIVE_PROVENANCE_01.json). Exact containing publication remains pending; full program continues.
+
+
+## Cohort17 Wolbach and Chomusuke — 2026-10-20T16:06:56.617701+00:00
+
+MAIN04 C3 continuation (item/xhtml/p-010.xhtml) P53 gives reader-facing naming stronger than Kazuma’s later uncertain memory MAIN09C4P242. His partial cat/self description produces Wolbach’s mistaken rejection C3P421-425; affinity432 is a hypothesis. Final smile F564-565 is uncertain and desired,not forgiveness/death planning. MAIN15 present fire occurs while he looks away; MAIN16I1 is Aqua’s own focalization. Megumin’s no-danger inference EXP01U043110 from docility and her village explanations are interested accounts,not Chomusuke consent or neutral mechanism certification.
+
+Individual [Wolbach](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_EVIDENCE_INDEX.md) and [Chomusuke](../08%20Evidence%20and%20Indexes/KONOSUBA_CHOMUSUKE_EVIDENCE_INDEX.md) indices; [shared provenance](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_CHOMUSUKE_NATIVE_PROVENANCE_01.json). Exact containing publication pending; full program active.
+
+
+## Cohort18 Sena and Arnes — 2026-10-20T17:14:33.263380+00:00
+
+MAIN03interrogation and trial are Kazuma’s access; his appraisals of Sena’s true voice,purity or personal harshness remain perspectives. MAIN03EpP60-81 is Darkness’s viewpoint before Kazuma header82 and reward account84-126. MAIN04C1P161-162 reports his sense of being seen as a hero,not Sena’s complete motive. EXP02Megumin rationalizes paid handover and invents the earlier night culprit; current refusal,release and catches have separate agents. Later EXP03rank/death/prayer comparisons are mediated,not new Arnes appearances or her private beliefs.
+
+
+## Cohort19 Rex, Sophie and Terry — attributable update
+
+EXP03 focalizer Megumin initially cannot track the crew’s attack sequence and later misremembers the capital acquaintances (R11/R21). Her bounty-giving/finisher motives remain narrated accounts; later Rex apology is Rex’s report. CONTEXP02 U023 Kazuma’s shill/coercion suggestions are teasing speculation despite a real earlier invitation (R22),not proof of fraud. Sophie’s wing-cut account is reported,not direct watched combat. Distinct focalizers,knowledge and completion stages remain explicit.
+
+Known EXP03/CONTEXP02 BASE returns only:1,556 distinct context slots/six members/two native objects,including blanks,other actors,reports and hypotheses; no fresh whole-source,ruby/image,admission,independent decision,accuracy or confidence credit. Current claims route to `CR-SECONDARY-COHORT19-001` and the shared crew index/provenance; exact containing publication remains pending.
+
+
+## Cohort20 — individual village peers and attributed writer correction
+
+Kazuma's MAIN03 appraisal follows Yunyun's report of school friendship and paid meals, not a newly watched peer transaction. MAIN05/11 contain actual peer reactions but also Megumin's strategic presentation; implied intimacy and Kazuma's interpretations retain their own access. In MAIN14 his guess that Nerimaki is accustomed to customer harassment is speculation, not proof she welcomes it. His claim to be doing Yunyun a favor also anticipates personal thanks.
+
+Megumin narrates much of EXP01/02 and supplies both protective and self-serving judgments. Later family testimony and her repeat restaurant response qualify her early fraud/peer-only explanations. Dust adds Yunyun's intended correspondence, not a witnessed Funifura/Dodonko response; Yorimichi adds a reported pattern of letters. Multiple narrators and ledger copies do not multiply independent confirmations (F11–F15/D10–D13/N02–N06). [village-peer index](../08%20Evidence%20and%20Indexes/KONOSUBA_VILLAGE_PEERS_EVIDENCE_INDEX.md)
+
+
+## Cohort21 — separate agency, conditional models and attributed revision
+
+Megumin and Kazuma provide different access to these people. Arue's warning, help and manuscript reaction are actual acts; the claim that she hid writing through the whole battle is Kazuma's accusation. Bukkorori's private-routine/level monologues are his reports and projections, not an omniscient Soketto biography. MAIN17 F P33 is Kazuma's rhetorical あるえー？, not an Arue person return. The [individual A/S/B/I index](../08%20Evidence%20and%20Indexes/KONOSUBA_ARUE_SOKETTO_BUKKORORI_EVIDENCE_INDEX.md) rejects that false hit without deleting the raw-context scope.
+
+In MAIN14 Soketto knows the tourist fiction, Aqua initially offers sincere help, and Kazuma knowingly prolongs the situation; Yunyun stops it independently. Shared knowledge is not automatic. The [bandaging erratum](../08%20Evidence%20and%20Indexes/KONOSUBA_SOKETTO_BANDAGING_ATTRIBUTION_ERRATUM_01.md) distinguishes a shop setting from Yunyun's explicitly named treatment. Source reports and original narrator judgments retain bytes; later qualifications do not grant actors the reader's later knowledge.
+
+
+## Cohort22 — Mitsurugi and separately bounded companions
+
+The [individual M/S/T/I routes](../08%20Evidence%20and%20Indexes/KONOSUBA_MITSURUGI_COMPANIONS_EVIDENCE_INDEX.md) separate Kazuma's jealousy, insults and competence judgments from Mitsurugi's actions. Kazuma's MAIN05 use of Mitsurugi's name remains impersonation, not Mitsurugi's bluff or defeat. MAIN06's Iris body is controlled by Kazuma, so its head-pat exchange cannot establish Iris's assent. MAIN16's named carriage and Gram-killed bodies are possibilities in Kazuma's account, not new watched feats. His MAIN17 reading of Aqua's subtle expression is not a cue automatically available to Mitsurugi.
+
+Aqua narrates the MAIN16 road section, including internal fear at FinalP126; audible return requests/interventions remain separate. Dust's own narration records his harassment, exploitation and self-excuse and also gives a different view of Mitsurugi's intervention/payment/correction. DUST07 overlaps the MAIN16 departure event; it is not an independent observation count. The Yorimichi03 redo branch has guild hearsay, not a baseline main fight. FD novelization and editorial/TRPG summaries retain their own planes. The model must not turn reader knowledge of a trap into an actor's knowing choice of falsehood.
+
+
+## Cohort23: witnessed action, reports and narrator appraisals
+
+[cohort23 individual index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_PARENTS_TEACHER_EVIDENCE_INDEX.md) marks Kazuma's own observed or heard household events separately from his assumptions about Yuiyui's motive, unseen spells and permission. Later attribution can qualify an earlier suspicion without becoming an earlier watched cast. Komekko's accurate overheard relationship quotation is distinct from mediated adventure summaries; neither makes Yuiyui omniscient. Megumin's MAIN11 remittance statement and prediction of her father's extra spending differ from Kazuma's own intended remittance/reimbursement and from an actual future purchase.
+
+Explosions uses Megumin's perspective. Forgetting meals, pupil embarrassment, early arrival/talisman expense, weather scapegoating, desire for resealing failure and confidentiality-as-care retain their inference/report qualifications. Pucchin's own admission of preferred rescue timing is stronger than a narrator-only diagnosis, yet no exact seconds or fatal counterfactual follows. Wiz and editorial favorable craft appraisals differ in wording and access. MAIN11's three quoted fan-letter slots and parent-role group are mediated occurrences; no verified identity, unique-person increment or independently observed rescue is manufactured. A rejected Continued Explosions pudding name hit adds no teacher appearance.
+
+
+## Cohort24 — Crimson village work and staff, source-known scope
+
+MAIN05 Kazuma suspects outsider prejudice from a sharp gaze before Chekera actual warm welcome contradicts it. Kazuma narrates robes sold/retrieved, not exact cash or loan repayment; Aqua/Kazuma identify a rifle that Chekera calls inherited clothesline. MAIN05 blacksmith rumor origin is Kazuma inference; MAIN14part0016P5 proposes a hypothetical Axel cafe and is no village proprietor occurrence. Different focalizer access is not an independent repeat of an event (CC05-CC08,BS03,CA04).
+
+Exact locators and access: [cohort24 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_TRADES_STAFF_EVIDENCE_INDEX.md). The shared known-source union is 1,149 BASE slots/7 text members/4 text objects, including context, blanks, other actors and rejected joins; no fresh whole-source, ruby, residual, image-set, admission or independent validation credit. Earlier models, scores, firsts and prospective missingness remain unchanged. Canonical receiving is complete for this candidate only; exact containing publication/full program remain pending.
+
+
+## Cohort25 — chief, Sylvia, trial machine and castle courier
+
+Kazuma mixes battlefield achievements with misleading self-identification,attributes causes to movement/acid/repair,and rationalizes opening the weapon store. Attraction and later revulsion are narrator states rather than transparent Sylvia values. His MAIN15 diary report about Serena is retrospective and attributed,not a direct view of the original control attempt. MASK adds Vanir receiving a courier report of an earlier incident; reports nested inside another narrator do not become a directly watched fight or independent repetition.
+
+Exact locators and access: [cohort25 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX.md). This source-known scope adds no new whole-source,ruby,residual,image-set,admission or independent validation credit. Earlier models,first bodies,scores and prospective missingness remain unchanged. Canonical receiving/publication is pending for this candidate; the full KonoSuba program continues.

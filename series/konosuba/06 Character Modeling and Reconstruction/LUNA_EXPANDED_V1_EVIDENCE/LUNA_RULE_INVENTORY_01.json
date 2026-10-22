@@ -1,0 +1,39 @@
+{
+  "schema": "KONOSUBA_LUNA_RULE_INVENTORY_V1",
+  "recorded_utc": "2026-10-20T08:52:25.464680+00:00",
+  "model_sha256": "7d071db906bd88e6e14b305705825a11c253f99eb66e6ee26644c4523bded2c9",
+  "rule_definitions_in_model": true,
+  "rules": [
+    {
+      "id": "LUNA-R01",
+      "proposition": "Use locally effective means for needed work, with uneven weighting of recipients refusal costs.",
+      "support": "MASKU0179-16/163-178/316;MAIN11U014431-444/U01560-131;DUST07U013114-126;YORI04U014488-516",
+      "contrary_and_rival": "Dust distance respected; service penalty correction; generic constrained administrator and connected audience episode.",
+      "confidence": "Moderate local, low broad prevalence/transfer; no isolated numerical weights."
+    },
+    {
+      "id": "LUNA-R02",
+      "proposition": "Distinguish institutional function from superficial personal meaning; useful output can coexist with evading a personal objection.",
+      "support": "MASKU01781-102/450-451;MAIN11U015130-131/515-530",
+      "contrary_and_rival": "Explicit personal protest inMASK511-519; generic disgust/gratitude; one strong evasion exchange.",
+      "confidence": "Moderate classifications, low-to-moderate generalized evasion."
+    },
+    {
+      "id": "LUNA-R03",
+      "proposition": "Boundaries vary by recipient/task conditions; neither universal consent floor nor universal refusal failure.",
+      "support": "MASKU01715-16/81-102/511-519;DUST07U011915-922 againstMAIN11U014438-444/U015124-125;YORI04U014492-557",
+      "contrary_and_rival": "Task, familiarity, urgency and comedy covary; no unique single switch established.",
+      "confidence": "High local observations, low-to-moderate conditional explanation."
+    },
+    {
+      "id": "LUNA-R04",
+      "proposition": "Actual help and hoped-for respectful company can bias appraisal; later protest, new terms and information opt-out remain possible.",
+      "support": "MASKU017316-330/441-541;YORI04U014516",
+      "contrary_and_rival": "Rejects gift, knows demon identity; generic loneliness/public persuasion/designed deception.",
+      "confidence": "Moderate connected episode, low unfamiliar relationship prevalence."
+    }
+  ],
+  "each_rule_full_apply_nonapply_failure_falsifier_in_model": true,
+  "source_known_retrospective": true,
+  "capability_grade_or_independent_accuracy": null
+}

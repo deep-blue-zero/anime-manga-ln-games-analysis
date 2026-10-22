@@ -1,0 +1,548 @@
+{
+  "schema": "KONOSUBA_CECILY_ZESTA_COHORT13_RECEIVING_AND_PROVENANCE_V1",
+  "recorded_utc": "2026-10-20T10:24:46.733311+00:00",
+  "source_boundary": "432b8fd18d0d4ad0047defc8d8a614ecfb2770f4",
+  "status": "SCOPED_SEMANTIC_AND_FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+  "subject_tiers": {
+    "Cecily": 3,
+    "Zesta": 3,
+    "Tristan": 1,
+    "MAIN04 reporting priest": 1
+  },
+  "new_distinct_model_bodies": 2,
+  "eighteen_entering_models_exact": [
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_AQUA_RECONSTRUCTION_MODEL.md",
+      "bytes": 64491,
+      "sha256": "2f63ef1000c74a2bf105c3cfbbd4258f39e8abe9cf1544fac25768673f17c430"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CHRIS_ERIS_RECONSTRUCTION_MODEL.md",
+      "bytes": 24777,
+      "sha256": "213de30d6bfab2fb3a9d2c47c2158b6425a598814b92caa855913f08bd997083"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CLAIRE_RECONSTRUCTION_MODEL.md",
+      "bytes": 18435,
+      "sha256": "386b2e7c5df610e83bbf9fec58a8c9485132d6f28b8abb65a3658142de6b08d1"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+      "bytes": 51278,
+      "sha256": "3bec39a1014c50c6704e920b076076ecd2d82ffab0f987fd379844cc68783ee1"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_DARKNESS_RECONSTRUCTION_MODEL.md",
+      "bytes": 62581,
+      "sha256": "e54f45b3aaa74197e76ec917888416b08683ef2b7194586ba060b93979e78bc9"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_DUST_RECONSTRUCTION_MODEL.md",
+      "bytes": 20922,
+      "sha256": "3ef260ea7a64f350c8c09448020a96e18ed0eed75af5acd417193805bff8655f"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_HOOST_RECONSTRUCTION_MODEL.md",
+      "bytes": 25873,
+      "sha256": "e973e7f325238ab71fa0e10e3588d32c8fc3bf03dd827bb32e9120789c4742c7"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_IRIS_RECONSTRUCTION_MODEL.md",
+      "bytes": 20464,
+      "sha256": "75afb94b5723af3620ea5fabe1d8a7c742645bb56de938c605a3d11999a42c29"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+      "bytes": 61516,
+      "sha256": "6fe7b325666e339ed86edba70f8d1f9491705f66a6ecdc31eeb44a5bed7a89e4"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_KOMEKKO_RECONSTRUCTION_MODEL.md",
+      "bytes": 21826,
+      "sha256": "0be5bfa9097547a3d705b5a8216dd395f714382b65f6fa4cad499504641065c0"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_LEVI_RECONSTRUCTION_MODEL.md",
+      "bytes": 23809,
+      "sha256": "dd3b48dba631c87e7c0fe604f0cb5a94dd618e5e77b9d2c781491b6c7b7b3c46"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_LUNA_RECONSTRUCTION_MODEL.md",
+      "bytes": 23199,
+      "sha256": "7d071db906bd88e6e14b305705825a11c253f99eb66e6ee26644c4523bded2c9"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_MEGUMIN_RECONSTRUCTION_MODEL.md",
+      "bytes": 60891,
+      "sha256": "cbff1ec4266e8d6908b3d58af9870aa7f981fe40f3a573ed29da345e1f1d801f"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_PARTY_INTERACTION_MODEL.md",
+      "bytes": 67885,
+      "sha256": "cf2082e63718e1c51c171fb9225b0be5da603c1e85900f397c36e233af6d3f8e"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_RAIN_RECONSTRUCTION_MODEL.md",
+      "bytes": 19139,
+      "sha256": "3d62cb9fc0958b86cc9edef8479036483f4cb0d752f63c599beab3719d689637"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_VANIR_RECONSTRUCTION_MODEL.md",
+      "bytes": 25561,
+      "sha256": "081b6bef4df5584837d2a6fb565f746aa3d9c00a3c925c592596d2d3bb3186df"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_WIZ_RECONSTRUCTION_MODEL.md",
+      "bytes": 24361,
+      "sha256": "b8248785ff01251738798121a3ac1eea06b576913c1ea436e97fc22720146b89"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_YUNYUN_RECONSTRUCTION_MODEL.md",
+      "bytes": 25474,
+      "sha256": "4565a9089c9bac6c6f694469f27920d26f9ab1b44275c62c7160692575c765eb"
+    }
+  ],
+  "proposed_current_model_bodies": 20,
+  "prior_closed_model_subjects": 12,
+  "proposed_scoped_secondary_model_subjects": 14,
+  "prior_Nos_monograph_only_and_nine_bounded_profiles_preserved": true,
+  "new_bounded_profiles": 2,
+  "proposed_bounded_profiles": 11,
+  "artifacts": [
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_CECILY_CHARACTER_MONOGRAPH.md",
+      "bytes": 18903,
+      "sha256": "1fecc3b5c9934d78c531b66504801dd1e3485cd8615cb674357a6aa09d8dcf67"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CECILY_RECONSTRUCTION_MODEL.md",
+      "bytes": 20405,
+      "sha256": "34843fd30838efdc83d54f686795e23bd76730920137746aa8978729891a72a5"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/CECILY_EXPANDED_V1_EVIDENCE/CECILY_RULE_INVENTORY_01.json",
+      "bytes": 13211,
+      "sha256": "d1e80cfa7cc7caa25f50a15674e504b38f68c416d263ff2a3a71992e9898e88f"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/CECILY_EXPANDED_V1_EVIDENCE/CECILY_SCENARIO_INPUTS_01.json",
+      "bytes": 7552,
+      "sha256": "5031e8d8cb41dc95c0c344357888ae1183c732da12c552a8822e881067089f0c"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/CECILY_EXPANDED_V1_EVIDENCE/CECILY_FIRST_OUTPUTS_01.json",
+      "bytes": 4220,
+      "sha256": "b45c2689182743eaead6cb3850bd3338acf86b6efd312f3b7c85182716bef738"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/CECILY_EXPANDED_V1_EVIDENCE/CECILY_INTERNAL_ASSESSMENT_01.json",
+      "bytes": 3823,
+      "sha256": "7f6d3e98b3bee6c3af39eccdeeb1bb0036fc8152be8e553dadbfafad5d9de90e"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CECILY_INTERNAL_CHECK_PRE_BODY_CONTRACT_01.json",
+      "bytes": 6574,
+      "sha256": "2e3125edbe0471f4b79eefd6b78e67474c121342225439e8e26c700047289362"
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_ZESTA_CHARACTER_MONOGRAPH.md",
+      "bytes": 19110,
+      "sha256": "2ae66551c80efc4f02e7f7eb5179bec25773bddde55bd32c98ec9161bda47917"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_ZESTA_RECONSTRUCTION_MODEL.md",
+      "bytes": 20868,
+      "sha256": "f7c966bf93a3c788a697f9b2da55f01b6b221d52ca9a95d63df45401632de0a0"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/ZESTA_EXPANDED_V1_EVIDENCE/ZESTA_RULE_INVENTORY_01.json",
+      "bytes": 13328,
+      "sha256": "47b3b0f1975d1877d524869d352863b978503d03289dc54b95828db7856b762d"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/ZESTA_EXPANDED_V1_EVIDENCE/ZESTA_SCENARIO_INPUTS_01.json",
+      "bytes": 7321,
+      "sha256": "f0d65ca170258e603580ae24b2ff8abe459fd6974c1a05c2f6a5ee4e8b3558c6"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/ZESTA_EXPANDED_V1_EVIDENCE/ZESTA_FIRST_OUTPUTS_01.json",
+      "bytes": 3945,
+      "sha256": "8ddcf6f1ee9d95e427e6cae796af89aade57504267150a53b75c0505d2500b10"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/ZESTA_EXPANDED_V1_EVIDENCE/ZESTA_INTERNAL_ASSESSMENT_01.json",
+      "bytes": 3717,
+      "sha256": "7ce82359d73f8e7824383316adc124b47428c4fa4add248a407e8735d1f28fd9"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_ZESTA_INTERNAL_CHECK_PRE_BODY_CONTRACT_01.json",
+      "bytes": 6568,
+      "sha256": "9d35522e72b1fb8857117a60cfe4e92c20fd0f2c8b4cd44a2ab565cef30f0a17"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CECILY_ZESTA_NATIVE_AND_DERIVATIVE_PROVENANCE_01.json",
+      "bytes": 37951,
+      "sha256": "a12b2b6d1741d8c4432c077ed3771db86640dacf76a9b2237255c06a8cb5d80b"
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT13_BOUNDED_PROFILES.md",
+      "bytes": 7861,
+      "sha256": "4fe86db51ed53ae2177e218ae3291d392eb2f389943ab13bdb4f8213baadebb4"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CECILY_ZESTA_COHORT13_CENSUS_RETURN_INDEX.md",
+      "bytes": 16797,
+      "sha256": "c22511445c667082669e3861b0c11df953777964c8b7e3b7b6e0b335bf67e3d2"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CECILY_EVIDENCE_INDEX.md",
+      "bytes": 12216,
+      "sha256": "d26f06bd67b599e309efba618828bd7aaa9d23409f2d12c8bd3eb6e1f6870002"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_ZESTA_EVIDENCE_INDEX.md",
+      "bytes": 13874,
+      "sha256": "e21c11f8d0c30cff0db4af5cceee2c59a1195f3a827f0a48100c45caf6818bd6"
+    }
+  ],
+  "semantic_receiving": {
+    "schema": "KONOSUBA_CECILY_ZESTA_SEMANTIC_NAME_REFERENCE_RECEIVING_V1",
+    "received_utc": "2026-10-20T10:21:02.095907+00:00",
+    "source": "432b8fd18d0d4ad0047defc8d8a614ecfb2770f4",
+    "current_drafts_and_evidence": [
+      {
+        "file": "CECILY_CHARACTER_MONOGRAPH_DRAFT_01.md",
+        "canonical_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_CECILY_CHARACTER_MONOGRAPH.md",
+        "bytes": 18903,
+        "sha256": "1fecc3b5c9934d78c531b66504801dd1e3485cd8615cb674357a6aa09d8dcf67"
+      },
+      {
+        "file": "CECILY_RECONSTRUCTION_MODEL_DRAFT_01.md",
+        "canonical_path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CECILY_RECONSTRUCTION_MODEL.md",
+        "bytes": 20405,
+        "sha256": "34843fd30838efdc83d54f686795e23bd76730920137746aa8978729891a72a5"
+      },
+      {
+        "file": "CECILY_RULE_INVENTORY_01.json",
+        "canonical_path": "series/konosuba/06 Character Modeling and Reconstruction/CECILY_EXPANDED_V1_EVIDENCE/CECILY_RULE_INVENTORY_01.json",
+        "bytes": 13211,
+        "sha256": "d1e80cfa7cc7caa25f50a15674e504b38f68c416d263ff2a3a71992e9898e88f"
+      },
+      {
+        "file": "CECILY_SCENARIO_INPUTS_01.json",
+        "canonical_path": "series/konosuba/06 Character Modeling and Reconstruction/CECILY_EXPANDED_V1_EVIDENCE/CECILY_SCENARIO_INPUTS_01.json",
+        "bytes": 7552,
+        "sha256": "5031e8d8cb41dc95c0c344357888ae1183c732da12c552a8822e881067089f0c"
+      },
+      {
+        "file": "CECILY_FIRST_OUTPUTS_01.json",
+        "canonical_path": "series/konosuba/06 Character Modeling and Reconstruction/CECILY_EXPANDED_V1_EVIDENCE/CECILY_FIRST_OUTPUTS_01.json",
+        "bytes": 4220,
+        "sha256": "b45c2689182743eaead6cb3850bd3338acf86b6efd312f3b7c85182716bef738"
+      },
+      {
+        "file": "CECILY_INTERNAL_ASSESSMENT_01.json",
+        "canonical_path": "series/konosuba/06 Character Modeling and Reconstruction/CECILY_EXPANDED_V1_EVIDENCE/CECILY_INTERNAL_ASSESSMENT_01.json",
+        "bytes": 3823,
+        "sha256": "7f6d3e98b3bee6c3af39eccdeeb1bb0036fc8152be8e553dadbfafad5d9de90e"
+      },
+      {
+        "file": "KONOSUBA_CECILY_INTERNAL_CHECK_PRE_BODY_CONTRACT_01.json",
+        "canonical_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CECILY_INTERNAL_CHECK_PRE_BODY_CONTRACT_01.json",
+        "bytes": 6574,
+        "sha256": "2e3125edbe0471f4b79eefd6b78e67474c121342225439e8e26c700047289362"
+      },
+      {
+        "file": "ZESTA_CHARACTER_MONOGRAPH_DRAFT_01.md",
+        "canonical_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_ZESTA_CHARACTER_MONOGRAPH.md",
+        "bytes": 19110,
+        "sha256": "2ae66551c80efc4f02e7f7eb5179bec25773bddde55bd32c98ec9161bda47917"
+      },
+      {
+        "file": "ZESTA_RECONSTRUCTION_MODEL_DRAFT_01.md",
+        "canonical_path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_ZESTA_RECONSTRUCTION_MODEL.md",
+        "bytes": 20868,
+        "sha256": "f7c966bf93a3c788a697f9b2da55f01b6b221d52ca9a95d63df45401632de0a0"
+      },
+      {
+        "file": "ZESTA_RULE_INVENTORY_01.json",
+        "canonical_path": "series/konosuba/06 Character Modeling and Reconstruction/ZESTA_EXPANDED_V1_EVIDENCE/ZESTA_RULE_INVENTORY_01.json",
+        "bytes": 13328,
+        "sha256": "47b3b0f1975d1877d524869d352863b978503d03289dc54b95828db7856b762d"
+      },
+      {
+        "file": "ZESTA_SCENARIO_INPUTS_01.json",
+        "canonical_path": "series/konosuba/06 Character Modeling and Reconstruction/ZESTA_EXPANDED_V1_EVIDENCE/ZESTA_SCENARIO_INPUTS_01.json",
+        "bytes": 7321,
+        "sha256": "f0d65ca170258e603580ae24b2ff8abe459fd6974c1a05c2f6a5ee4e8b3558c6"
+      },
+      {
+        "file": "ZESTA_FIRST_OUTPUTS_01.json",
+        "canonical_path": "series/konosuba/06 Character Modeling and Reconstruction/ZESTA_EXPANDED_V1_EVIDENCE/ZESTA_FIRST_OUTPUTS_01.json",
+        "bytes": 3945,
+        "sha256": "8ddcf6f1ee9d95e427e6cae796af89aade57504267150a53b75c0505d2500b10"
+      },
+      {
+        "file": "ZESTA_INTERNAL_ASSESSMENT_01.json",
+        "canonical_path": "series/konosuba/06 Character Modeling and Reconstruction/ZESTA_EXPANDED_V1_EVIDENCE/ZESTA_INTERNAL_ASSESSMENT_01.json",
+        "bytes": 3717,
+        "sha256": "7ce82359d73f8e7824383316adc124b47428c4fa4add248a407e8735d1f28fd9"
+      },
+      {
+        "file": "KONOSUBA_ZESTA_INTERNAL_CHECK_PRE_BODY_CONTRACT_01.json",
+        "canonical_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_ZESTA_INTERNAL_CHECK_PRE_BODY_CONTRACT_01.json",
+        "bytes": 6568,
+        "sha256": "9d35522e72b1fb8857117a60cfe4e92c20fd0f2c8b4cd44a2ab565cef30f0a17"
+      },
+      {
+        "file": "KONOSUBA_CECILY_ZESTA_NATIVE_AND_DERIVATIVE_PROVENANCE_01.json",
+        "canonical_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CECILY_ZESTA_NATIVE_AND_DERIVATIVE_PROVENANCE_01.json",
+        "bytes": 37951,
+        "sha256": "a12b2b6d1741d8c4432c077ed3771db86640dacf76a9b2237255c06a8cb5d80b"
+      },
+      {
+        "file": "COHORT13_BOUNDED_PROFILES_DRAFT_01.md",
+        "canonical_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT13_BOUNDED_PROFILES.md",
+        "bytes": 7861,
+        "sha256": "4fe86db51ed53ae2177e218ae3291d392eb2f389943ab13bdb4f8213baadebb4"
+      },
+      {
+        "file": "COHORT13_CENSUS_RETURN_INDEX_DRAFT_01.md",
+        "canonical_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CECILY_ZESTA_COHORT13_CENSUS_RETURN_INDEX.md",
+        "bytes": 16797,
+        "sha256": "c22511445c667082669e3861b0c11df953777964c8b7e3b7b6e0b335bf67e3d2"
+      },
+      {
+        "file": "CECILY_EVIDENCE_INDEX_PUBLICATION_LF_01.md",
+        "canonical_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CECILY_EVIDENCE_INDEX.md",
+        "bytes": 12216,
+        "sha256": "d26f06bd67b599e309efba618828bd7aaa9d23409f2d12c8bd3eb6e1f6870002"
+      },
+      {
+        "file": "ZESTA_EVIDENCE_INDEX_PUBLICATION_LF_01.md",
+        "canonical_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_ZESTA_EVIDENCE_INDEX.md",
+        "bytes": 13874,
+        "sha256": "e21c11f8d0c30cff0db4af5cceee2c59a1195f3a827f0a48100c45caf6818bd6"
+      }
+    ],
+    "actual_native_receiving11_sha256": "287cf3e60b4d6c786501c8a2ef573df9ed1ee1364f98e9816beadcdaedc04f33",
+    "census_return_rows_sha256": "44898f11e8ea2dd5ab0bb820e3a99e8b4720760bad0b6335600a79f40dcee3e9",
+    "manual_semantic_receiving": "Full authored monographs/models/indices/profiles/census entries and eight exact first bodies assessed against actual received source contexts and frozen packets. This is informed same-author semantic receiving, not independent review or automatic keyword certification.",
+    "declared_publication_line_ending_transforms": [
+      {
+        "source_frozen_draft": "CECILY_EVIDENCE_INDEX_DRAFT_01.md",
+        "source_sha256": "c659ab9f170a40f79251968d0cf25c2a7a669a0dd07a71ca48b127062a7bb0bc",
+        "canonical_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CECILY_EVIDENCE_INDEX.md",
+        "publication_file": "CECILY_EVIDENCE_INDEX_PUBLICATION_LF_01.md",
+        "publication_sha256": "d26f06bd67b599e309efba618828bd7aaa9d23409f2d12c8bd3eb6e1f6870002",
+        "transformation": "CRLF to LF only; every other byte identical. Frozen prebody-bound source index preserved exactly. No semantic, model, input or first-body correction."
+      },
+      {
+        "source_frozen_draft": "ZESTA_EVIDENCE_INDEX_DRAFT_01.md",
+        "source_sha256": "cfe5bba2c0ab4c015623242675dde1b4b8b275b1e872eb4e111f74c7d2cdfaa6",
+        "canonical_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_ZESTA_EVIDENCE_INDEX.md",
+        "publication_file": "ZESTA_EVIDENCE_INDEX_PUBLICATION_LF_01.md",
+        "publication_sha256": "e21c11f8d0c30cff0db4af5cceee2c59a1195f3a827f0a48100c45caf6818bd6",
+        "transformation": "CRLF to LF only; every other byte identical. Frozen prebody-bound source index preserved exactly. No semantic, model, input or first-body correction."
+      }
+    ],
+    "name_and_reference_check": [
+      "Cecily and Zesta retain independent aims; first-person narrator, reporting priest, crowd, spell user and later report kept separate.",
+      "Tristan explicit named finance officer not Zereschilt. Reporter142 not a duplicate Zesta; possible future joins to unnamed roles remain unresolved.",
+      "Returning guide not automatically Cecily/Tristan; precise MAIN04 return pending. Two Eris church priests retain source slots; bread participants are local slots with speaker attribution unresolved.",
+      "Aloerina self-name routes existingrow91; not another chief. Crane note writer not automatically earlier item campaigner.",
+      "Foreign-collusion exoneration not blanket innocence; cleaning pour never shown. Protest not romantic assent, polite form not truth or permission.",
+      "Manticore actors, Cell-suppressed assurance versus actual later Heal, Dust spear victory and Zesta support remain distinct.",
+      "Model source scope3702BASE+20knownimages is shared count, not per-subject independent decisions or a new source pass.",
+      "All eight first bodies retain designed contrast/invariance, factual-stage/style defects and generic rivals; no source/independent/Japanese/confidence grade."
+    ],
+    "links_resolved_against_current_or_exact_virtual_candidate": [
+      {
+        "from": "series/konosuba/05 Specialist Synthesis/KONOSUBA_CECILY_CHARACTER_MONOGRAPH.md",
+        "href": "../08%20Evidence%20and%20Indexes/KONOSUBA_CECILY_EVIDENCE_INDEX.md",
+        "target": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CECILY_EVIDENCE_INDEX.md"
+      },
+      {
+        "from": "series/konosuba/05 Specialist Synthesis/KONOSUBA_CECILY_CHARACTER_MONOGRAPH.md",
+        "href": "../06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_CECILY_RECONSTRUCTION_MODEL.md",
+        "target": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CECILY_RECONSTRUCTION_MODEL.md"
+      },
+      {
+        "from": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CECILY_RECONSTRUCTION_MODEL.md",
+        "href": "../05%20Specialist%20Synthesis/KONOSUBA_CECILY_CHARACTER_MONOGRAPH.md",
+        "target": "series/konosuba/05 Specialist Synthesis/KONOSUBA_CECILY_CHARACTER_MONOGRAPH.md"
+      },
+      {
+        "from": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CECILY_RECONSTRUCTION_MODEL.md",
+        "href": "../08%20Evidence%20and%20Indexes/KONOSUBA_CECILY_EVIDENCE_INDEX.md",
+        "target": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CECILY_EVIDENCE_INDEX.md"
+      },
+      {
+        "from": "series/konosuba/05 Specialist Synthesis/KONOSUBA_ZESTA_CHARACTER_MONOGRAPH.md",
+        "href": "../08%20Evidence%20and%20Indexes/KONOSUBA_ZESTA_EVIDENCE_INDEX.md",
+        "target": "series/konosuba/08 Evidence and Indexes/KONOSUBA_ZESTA_EVIDENCE_INDEX.md"
+      },
+      {
+        "from": "series/konosuba/05 Specialist Synthesis/KONOSUBA_ZESTA_CHARACTER_MONOGRAPH.md",
+        "href": "../06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_ZESTA_RECONSTRUCTION_MODEL.md",
+        "target": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_ZESTA_RECONSTRUCTION_MODEL.md"
+      },
+      {
+        "from": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_ZESTA_RECONSTRUCTION_MODEL.md",
+        "href": "../05%20Specialist%20Synthesis/KONOSUBA_ZESTA_CHARACTER_MONOGRAPH.md",
+        "target": "series/konosuba/05 Specialist Synthesis/KONOSUBA_ZESTA_CHARACTER_MONOGRAPH.md"
+      },
+      {
+        "from": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_ZESTA_RECONSTRUCTION_MODEL.md",
+        "href": "../08%20Evidence%20and%20Indexes/KONOSUBA_ZESTA_EVIDENCE_INDEX.md",
+        "target": "series/konosuba/08 Evidence and Indexes/KONOSUBA_ZESTA_EVIDENCE_INDEX.md"
+      },
+      {
+        "from": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT13_BOUNDED_PROFILES.md",
+        "href": "../08%20Evidence%20and%20Indexes/KONOSUBA_CECILY_ZESTA_COHORT13_CENSUS_RETURN_INDEX.md",
+        "target": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CECILY_ZESTA_COHORT13_CENSUS_RETURN_INDEX.md"
+      },
+      {
+        "from": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT13_BOUNDED_PROFILES.md",
+        "href": "../08%20Evidence%20and%20Indexes/KONOSUBA_CECILY_ZESTA_NATIVE_AND_DERIVATIVE_PROVENANCE_01.json",
+        "target": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CECILY_ZESTA_NATIVE_AND_DERIVATIVE_PROVENANCE_01.json"
+      },
+      {
+        "from": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CECILY_ZESTA_COHORT13_CENSUS_RETURN_INDEX.md",
+        "href": "../05%20Specialist%20Synthesis/KONOSUBA_CECILY_CHARACTER_MONOGRAPH.md",
+        "target": "series/konosuba/05 Specialist Synthesis/KONOSUBA_CECILY_CHARACTER_MONOGRAPH.md"
+      },
+      {
+        "from": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CECILY_ZESTA_COHORT13_CENSUS_RETURN_INDEX.md",
+        "href": "../05%20Specialist%20Synthesis/KONOSUBA_ZESTA_CHARACTER_MONOGRAPH.md",
+        "target": "series/konosuba/05 Specialist Synthesis/KONOSUBA_ZESTA_CHARACTER_MONOGRAPH.md"
+      },
+      {
+        "from": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CECILY_ZESTA_COHORT13_CENSUS_RETURN_INDEX.md",
+        "href": "../05%20Specialist%20Synthesis/KONOSUBA_COHORT13_BOUNDED_PROFILES.md",
+        "target": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT13_BOUNDED_PROFILES.md"
+      },
+      {
+        "from": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CECILY_ZESTA_COHORT13_CENSUS_RETURN_INDEX.md",
+        "href": "KONOSUBA_CECILY_ZESTA_NATIVE_AND_DERIVATIVE_PROVENANCE_01.json",
+        "target": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CECILY_ZESTA_NATIVE_AND_DERIVATIVE_PROVENANCE_01.json"
+      },
+      {
+        "from": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CECILY_EVIDENCE_INDEX.md",
+        "href": "../05%20Specialist%20Synthesis/KONOSUBA_CECILY_CHARACTER_MONOGRAPH.md",
+        "target": "series/konosuba/05 Specialist Synthesis/KONOSUBA_CECILY_CHARACTER_MONOGRAPH.md"
+      },
+      {
+        "from": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CECILY_EVIDENCE_INDEX.md",
+        "href": "../06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_CECILY_RECONSTRUCTION_MODEL.md",
+        "target": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CECILY_RECONSTRUCTION_MODEL.md"
+      },
+      {
+        "from": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CECILY_EVIDENCE_INDEX.md",
+        "href": "KONOSUBA_CECILY_ZESTA_NATIVE_AND_DERIVATIVE_PROVENANCE_01.json",
+        "target": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CECILY_ZESTA_NATIVE_AND_DERIVATIVE_PROVENANCE_01.json"
+      },
+      {
+        "from": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CECILY_EVIDENCE_INDEX.md",
+        "href": "KONOSUBA_CECILY_ZESTA_COHORT13_CENSUS_RETURN_INDEX.md",
+        "target": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CECILY_ZESTA_COHORT13_CENSUS_RETURN_INDEX.md"
+      },
+      {
+        "from": "series/konosuba/08 Evidence and Indexes/KONOSUBA_ZESTA_EVIDENCE_INDEX.md",
+        "href": "../05%20Specialist%20Synthesis/KONOSUBA_ZESTA_CHARACTER_MONOGRAPH.md",
+        "target": "series/konosuba/05 Specialist Synthesis/KONOSUBA_ZESTA_CHARACTER_MONOGRAPH.md"
+      },
+      {
+        "from": "series/konosuba/08 Evidence and Indexes/KONOSUBA_ZESTA_EVIDENCE_INDEX.md",
+        "href": "../06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_ZESTA_RECONSTRUCTION_MODEL.md",
+        "target": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_ZESTA_RECONSTRUCTION_MODEL.md"
+      },
+      {
+        "from": "series/konosuba/08 Evidence and Indexes/KONOSUBA_ZESTA_EVIDENCE_INDEX.md",
+        "href": "KONOSUBA_CECILY_ZESTA_NATIVE_AND_DERIVATIVE_PROVENANCE_01.json",
+        "target": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CECILY_ZESTA_NATIVE_AND_DERIVATIVE_PROVENANCE_01.json"
+      },
+      {
+        "from": "series/konosuba/08 Evidence and Indexes/KONOSUBA_ZESTA_EVIDENCE_INDEX.md",
+        "href": "KONOSUBA_CECILY_ZESTA_COHORT13_CENSUS_RETURN_INDEX.md",
+        "target": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CECILY_ZESTA_COHORT13_CENSUS_RETURN_INDEX.md"
+      }
+    ],
+    "semantic_status": "SCOPED_SUBSTANTIVE_RECEIVING_COMPLETE_CONTAINING_PUBLICATION_GATE_PENDING",
+    "global_census_closed": false,
+    "full_program_complete": false
+  },
+  "canonical_census_change_controls": {
+    "targeted_prior_row_indices": [
+      12,
+      13,
+      142
+    ],
+    "untouched_prior_rows_exact": 165,
+    "new_qualified_rows": 19,
+    "current_rows_not_final_population": 187,
+    "eighteen_entering_models_unchanged": true,
+    "new_distinct_reconstruction_models": 2,
+    "proposed_current_models_after_adoption": 20,
+    "new_bounded_profiles": 2,
+    "proposed_bounded_profiles": 11,
+    "new_source_admission": false,
+    "global_census_closed": false,
+    "final_tiers_assigned": false,
+    "global_completion_percentage": null
+  },
+  "full_current_ten_ledger_receiving_retained": true,
+  "shared_source_known_BASE_context_slots": 3702,
+  "shared_known_image_prose_pages": 20,
+  "new_global_unique_primary_full_ruby_image_admission_or_independent_credit": 0,
+  "actual_hypothetical_first_bodies": 8,
+  "known_limits": "Same informed author/case designer/body writer/assessor; generic role/incentive rivals, designed contrasts and invariant actions, unknown weights/prevalence, packet stage/style defects and tidy English remain. Exact outputs and frozen models/inputs unchanged; no source/independent/Japanese/acoustic/grade/confidence gain.",
+  "declared_format_transform": "Two frozen prebody indices retain original CRLF privately; public derivatives normalize CRLFtoLF only, with explicit original/public hashes and exact other-byte preservation. No semantic/model/body repair.",
+  "protected_histories": {
+    "immutable66": true,
+    "historical72_at_frozen_revision": true,
+    "four_scores_Dust14blanks_SISY28nulls": true,
+    "eighteen_entering_models": true,
+    "original_reports_annotations_errata_gates_first_bodies": true,
+    "unrelated_scratch80": true
+  },
+  "publication": "Exact full candidate review/preflight/normal publication/whole tree and changedblob readback/source-HK-final actualsource audit/status/freshreload required. Prior Luna gate certifies432b8fd1,not this candidate.",
+  "designated_ownership": "No discovery/capability global files or housekeeping outputs authored. Designated maintenance/allowed lag remain under owning controls.",
+  "remaining": "Full all-individual/event/alias/incidental dispositions, further earned artifacts, seven expanded specialists and extended/full-series syntheses, six separate StageD principal-party-transfer revisions, designated curation/evaluation/integration and component/release/final-entry audits.",
+  "full_program_complete": false,
+  "maintained_candidate_review": {
+    "actual_M01_diff_lines_fully_received": 737,
+    "actual_M01_new_receiving_lines_fully_received": 513,
+    "corrections": [
+      "Current census status and working-count168 replaced by187; exact former values retained in prior-current metadata. No row changes.",
+      "Seriousness sentence distinguishes actual completed physical assaults from unperformed threatened sexual assault/execution and specific unproved acts. No source event erased.",
+      "Source locator appendix gains explicit source/unit/P separators without changing a range."
+    ],
+    "core_models_inputs_first_bodies_and_all19_new_core_artifacts_unchanged": true,
+    "remaining_required": "Read the complete correction diff, then exact adoption/stage/preflight and containing publication gate."
+  },
+  "publication_pending_status_at_authorship": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_CONTAINING_PUBLICATION_GATE_PENDING",
+  "publication_resolution": {
+    "status": "SCOPED_CECILY_ZESTA_TIER3_AND_TWO_TIER1_PROFILES_FULL_EXACT_SOURCE_GATE_CLOSED",
+    "source": "9904a30d88aadc00d8d5748a28e1bc1be3d43eef",
+    "tree": "4bcb52bf2402477741b47e8e1fa4a889217a095f",
+    "closed_utc": "2026-10-20T10:51:13.909418+00:00",
+    "gate_path": "09 Audits and Manifests/KONOSUBA_CECILY_ZESTA_COHORT13_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "7d4100036443b1f869887f74a4e89a05502a405512ed4837f0f9db26649d8e8b",
+    "source_run": 39409185153,
+    "housekeeping_run": 39409888446,
+    "final_run": 39409943168,
+    "all_remote_paths": 9271,
+    "all_changed_streams": 40,
+    "full_tests_source_and_final": 385,
+    "fresh_project_reload_paths": 1095,
+    "current_model_bodies": 20,
+    "new_model_bodies": 2,
+    "scoped_secondary_model_subjects": 14,
+    "bounded_profiles": 11,
+    "monograph_only_subjects": 1,
+    "independent_accuracy_or_confidence_gain": false,
+    "full_program_complete": false
+  },
+  "published_authority_reload_sha256": "5c729d569caa9bd42e7e25f86f0094c3914af4b65f9afcc461ced8c2216dc5a7"
+}

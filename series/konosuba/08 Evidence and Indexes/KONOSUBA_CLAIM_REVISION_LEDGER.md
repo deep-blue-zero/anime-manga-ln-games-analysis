@@ -191,3 +191,191 @@ CR-MAIN06EX-001 is an accepted current factual qualification with containing pub
 | Revision | Transition and old claim | Current claim / primary route | Consequence and limits |
 |---|---|---|---|
 | CR-MAIN06EX-001 | REVISE_FACTUAL_ACTOR_AND_CAUSAL_ROUTE_PRESERVE_BOUNDED_MECHANISM; series/konosuba/02 Sequential Readings/KONOSUBA_V06_DEEP_READING.md section4.4: When Kazuma and Chris are physically restrained by Darkness, Aqua uses the moment to confess property damage while retaliation is impossible. This is not high-level Machiavellian planning, but it is evidence against treating her as socially strategy-free. | Kazuma asks Chris for Bind as an escape-cover device; she casts it and leaves. Darkness arrives and tries to loosen him. Aqua exploits the continuing immobility to admit damage. Chris is not co-restrained there, and Darkness did not impose this Bind. MAIN06 C3 item/xhtml/p-005.xhtmlP273-336, especially299-302/308-312/317-336 | The error concerns the cause and actors of the restraint, not the existence of Aqua opportunistic confession. Her reported property damage is not retrospectively consented to; Kazuma voluntary Bind does not authorize it. Same underlying event, no new trial or independent confirmation. Frozen V06 reading, all historical forecasts and four scores remain exact. Append this attributable erratum to the existing mutable claim ledger, route current MAIN06 qualification/report/current map to it; preserve the full previous ledger prefix. |
+
+
+## Current secondary audit MAIN15 PV29 actor qualification — 2026-10-20T01:41:46.866225+00:00
+
+| Stable revision | Transition and preserved original | Current source-backed qualification | Consequence and limits |
+|---|---|---|---|
+| CR-SECONDARY-MAIN15-PV29-001 | REVISE_FACTUAL_ACCUSER_PRESERVE_JUDGMENTS_BOUNDS_AND_HISTORY; MAIN15 deep reading line699, PV29 independent rationale says P350 corrects Kazuma's false P349 accusation. Exact old cell is retained in the [external overlay](../09%20Audits%20and%20Manifests/KONOSUBA_MAIN15_PV29_ACTOR_ATTRIBUTION_ERRATUM_01.json). | Actual accepted MAIN15 C4 `OEBPS/Text/part0013.xhtml` P333–352: Aqua hands sheets/continues addressing Kazuma at333/343/345/348 and makes349 false flirting accusation; Darkness answers350. Kazuma is the accused, not this accuser. | Producer/surrounding report already identify Aqua. Preserve frozen original rationale, codes, windows, bounds, mapping and substantive disagreement. The correction supplies no actual flirting, neutral baseline, universal privacy norm, full D02 conjunction, independent trial, new score or retrospective prospective knowledge. Same root source-known native recheck, not a new whole EPUB/ruby/image reading. |
+
+The report remains byte-exact at SHA256 `4def6d40eda5cb620f30c778aee0256d0b7b8542df7c9f6f22be4d4e8bad8edc`. This appendix is the ordinary mutable claim-transition route; it preserves the complete previous ledger prefix and all earlier frozen states.
+
+
+## Komekko cohort07 source-informed scope and accountable internal clarification — 2026-10-20T03:13:02.170207+00:00
+
+| Stable revision | Transition / earlier scope | Current evidence-backed uptake | Limits |
+|---|---|---|---|
+| CR-SECONDARY-KOMEKKO-001 | EXPAND_LIMITED_PROFILE_TO_SCOPED_PROVISIONAL_GENERATIVE_MODEL; earlier V11/EXP01 limited-profile judgments retain their original source boundaries | Actual18image-prose pages/1602known-source BASE member slots, named relationships, selective giving, failed tactics, error/knowledge and ordinary voice support separate monograph/model/index with six defeasible rules | No mature universal simulator, independent accuracy, new whole-source/ruby pass or rewrite of an original prediction/score. Full census/StageD remains open. |
+| CR-SECONDARY-HOOST-001 | RESOLVE_NATIVE_NAME_RETRIEVAL_LEAD_PRESERVE_PRIOR_REPORTS | EXP01 IMG027/029 directly supply ホースト, joining prior English Horst/Hoost variants; current census key stays stable | No new actor, universal demon lore or Hoost tier promotion. Own cross-source review remains pending. |
+| CR-SECONDARY-KOMEKKO-INTERNAL-001 | CLARIFY_GENERATION_INSTRUCTION_PRESERVE_ADVERSE_FIRST_BODY; KM-K-H02A moved a box into the room where the sealed packet already put it | Model draft02 explicitly tracks location/holder/movement/barrier; draft03 fixes only canonical monograph-link spelling. Exact model01/spec/eight first outputs/receiving and own draft bodies remain in the evidence packet | Authoring packet error, not observed child behavior. Post-receiving illustration is not a new first answer or test. No behavioral rule rescue, formal score, confidence gain or hidden rewrite. |
+
+The [Komekko index](KONOSUBA_KOMEKKO_EVIDENCE_INDEX.md) and [cohort receiving](../09%20Audits%20and%20Manifests/KONOSUBA_KOMEKKO_COHORT_01_RECEIVING_AND_PROVENANCE.json) own retrieval and exact identities. The complete previous claim-ledger prefix and all earlier revisions remain unchanged.
+
+
+## Hoost cohort08 attributable expansion and retained source sequence — 2026-10-20T04:07:47.235077+00:00
+
+| Stable revision | Transition / earlier scope | Current evidence-backed uptake | Limits |
+|---|---|---|---|
+| CR-SECONDARY-HOOST-002 | EXPAND_LIMITED_PROFILE_TO_SCOPED_PROVISIONAL_MODEL; prior role/Tier2candidate and native-name CR-SECONDARY-HOOST-001 remain historical at their boundaries | Prior18actually read EXP01 image-prose pages plus1172actual EXP03BASE slots/13selected ledger rows support monograph/model/index with six defeasible mechanisms: dependence, particular friendship, fallible search, coercion/state-sensitive means and voice | No universal reliability, full principal battery, new whole-source/ruby/image pass, independent accuracy or score revision. Contract/life doctrine, offscreen retaliation and future service retain attribution/conditions. |
+| CR-SECONDARY-HOOST-INTERNAL-001 | RECORD_SOURCE_KNOWN_INTERNAL_LIMITS_PRESERVE_FIRST_BODIES | Initial model/spec precede six first bodies. HHC01 address is underidentified; HHC02 same broad bargain changes affect; HHC03 identical outputs supply no behavioral discrimination. Later model appendix records actual limits without changing HH-R01-06 | Same informed root only, no separate runtime/judge/future-source trial or confidence gain. Monograph03 clarifies entering/current count; no hidden source repair or replacement first answer. |
+
+Native EXP03U026P533/546/555/563 supports both Hoost's initial beginner-killer misrecognition and correction. The original EXP03 deep reading line161 is therefore preserved; emphasizing the correction elsewhere does not make the initial mistake an attribution error. The [index](KONOSUBA_HOOST_EVIDENCE_INDEX.md) and [receiving](../09%20Audits%20and%20Manifests/KONOSUBA_HOOST_COHORT_01_RECEIVING_AND_PROVENANCE.json) retain exact source returns and current scope. All previous claim-ledger bytes remain the exact prefix.
+
+
+## Hoost first-forest voice identity correction — 2026-10-20T04:47:13.604510+00:00
+
+| Stable revision | Transition and original | Current source-backed qualification | Consequence and limits |
+|---|---|---|---|
+| CR-SECONDARY-HOOST-003 | REVISE_FACTUAL_VOICE_IDENTITY_JOIN; original Hoost index section1 distinguishes Hoost from the previously unknown voice. [External erratum](../09%20Audits%20and%20Manifests/KONOSUBA_HOOST_FIRST_FOREST_VOICE_ATTRIBUTION_ERRATUM_01.json) preserves the exact sentence and original SHA. | EXP03 U020 P476–487 hears the voice;493 turns to the same owner;500/509 explicitly name Hoost. Earlier unknown identity is Megumin’s knowledge state, not another actor. | P488 protection is her unconfirmed guess. Original index/drafts/gate/model/monograph/first bodies stay exact; no HH-rule, score, tier, independent-test or new unique-reading credit. The earlier bounded name/reference check missed the conjunction. |
+
+Read this current qualification with the preserved index; the unknown-voice exclusion has no current authority. All earlier claim-ledger bytes remain the exact prefix.
+
+
+## Cohort09 — individual identities and Levi mechanism expansion — 2026-10-20T06:09:56.297297+00:00
+
+| Stable revision | Transition | Current basis and preservation |
+|---|---|---|
+| CR-SECONDARY-LEVI-001 | EXPAND_SCOPED_TIER3 | MAIN10/DUST04 own agency supports a monograph/five-rule provisional model; aid precedes impostor exposure, local stopping rule coexists with later harmful pressure. Prior2-candidate row retained as history; no prior forecast or score revised. |
+| CR-SECONDARY-EXP03-TRIAL-PARTIES-001 | REVISE_WORKING_IDENTITY_AND_SPLIT | NativeEXP03U013P148/362–498 separates six actors. ライズ is the current verified native name rather than historical Rize; トマス retains Thomas retrieval without importing トーマス. Their distinct skills/decisions are not one shared group personality. The two old group rows remain historical aggregates. Six narrow profiles live in Character State; no forced monograph. |
+| CR-SECONDARY-TRPG-REPLAY-PC-001 | SPLIT_WORKING_SOURCE_PLANE_IDENTITIES | Core/Advanced explicitly continue Gilbert, Suzuki Chiho/Chio, Otohime, Temiren and separately add21. The old grouped row remains historical; players/GM/PC/narration/optional/main counterparts are distinct. Substantial2–3 candidacy stays open, with no appearance quota or Tier1 ceiling. |
+
+These are current attributed working/analytical revisions. Earlier source reports, full original annotations, all frozen historical bodies, previous claim-ledger prefix and exact first responses stay preserved. No unresolved causal disagreement is silently adjudicated.
+
+
+## Cohort10 — Nos identity and source-plane corrections — 2026-10-20T06:58:02.053067+00:00
+
+| Stable revision | Transition | Current qualification and preservation |
+|---|---|---|
+| CR-SECONDARY-NOS-001 | JOIN_HIGH_CONFIDENCE_EPISODES_AND_EXPAND_TIER2 | MAIN17U011P452/560–586 andDUST07U013P205–239 share specific name/role, displacement, armor, police destination and castle complaint cues. One qualified subject, with an episode alias route/history retained. Tier2 monograph earned; no automatic model or final population count. |
+| CR-SECONDARY-MAIN03-PERFORMER-001 | REVISE_SOURCE_PLANE_AND_DOWNGRADE_COMPLETED_OUTCOME_CERTAINTY | [External qualification](../09%20Audits%20and%20Manifests/KONOSUBA_MAIN03_PERFORMER_OUTCOME_AND_SOURCE_PLANE_QUALIFICATION_01.json) preserves report163/167/382/hash. NativeU017P566/630–633 gives reports, visible props and inference; performed departure/completed farm work/permanent career collapse are not established. Reported distress and serious externality remain. |
+| CR-SECONDARY-MAIN16-INCIDENTAL-001 | CONSOLIDATE_BOUNDED_AND_INDEXED_ACTORS | MAIN16U023P1–60 gives Pierre and mother narrow profiles, helperTier0index. Reported child benefit/Teleport do not become an independent clinical test/witnessed spell. Shared occupation does not establish MAIN03performer/Pierre alias or distinct-person certainty. |
+
+All previous ledger bytes, original annotations, frozen reports/models/forecasts/outcomes/scorecards and blank/null fields remain exact. Source-known reinterpretation is current attributable work, not a new prospective generation or evidence of model accuracy.
+
+
+## Royal cohort11 current attributed revisions — 2026-10-20T08:11:12.082088+00:00
+
+| Stable revision | Transition | Current qualification |
+|---|---|---|
+| CR-SECONDARY-CLAIRE-001 | EXPAND_DISTINCT_PROVISIONAL_MODEL_WITH_CONTRARY_CASES | Conditional rank/alliance, emotional susceptibility with refusals, skill/proxy error and gratitude/coercion support scoped Tier3 candidate; broad reliability and generic rivals remain open. |
+| CR-SECONDARY-RAIN-001 | EXPAND_DISTINCT_COST_ROLE_AND_INFORMATION_MODEL | Practical repair, own cost pressures, local knowledge/protest and warning with compromised compliance support a separate scoped Tier3 candidate; no universal prudence or highest-bid mechanism. |
+| CR-SECONDARY-ROYAL-PLANE-001 | CONSOLIDATE_ACTOR_PHASE_AND_REPORT_LIMITS | MAIN06 surprise passenger, MAIN10 lip-read proposal, MAIN11 actual administration/gaps, Dust-in-Rain-body and later MAIN15 officer/letter account retain separate planes. Original reports and all historical judgments remain exact. |
+| CR-SECONDARY-ROYAL-INTERNAL-001 | PRESERVE_INTERNAL_PACKET_PRECISION_DEFECT | CL-H01B invents a council absent from its packet. The first body stays exact with explicit defect; no repaired success, new canonical person or independent accuracy claim. |
+
+Current source-known consolidation does not revise frozen forecasts, prior outcomes, scorecards, original annotation or first-output bytes. Unknown weights, thresholds and causal disagreements remain unresolved.
+
+
+## Luna cohort12 — own work, relief, pressure and boundaries — 2026-10-20T08:58:31.797980+00:00
+
+- **CR-SECONDARY-LUNA-001:** Luna earns a scoped first Tier3 monograph/model/index candidate through task/means appraisal, role classification, pressure versus actual withdrawal and own relief/company goals. Generic-role rivals, causal weights, unfamiliar transfer and Japanese generation remain open; publication pending.
+- **CR-SECONDARY-LUNA-002:** MAIN11U015P515 original investigation, additional killing, actual reward and unansweredP523question remain separate. Root-removal requestP519 is not completed eradication; guild face does not prove a private confession of heartlessness. Existing frozen source report stays exact.
+- **CR-SECONDARY-LUNA-003:** DUST07U013P118-126 guild-vault ten-million commitment is actual and intervention starts; U014P122 received-money statement is Dust report. Dust distance requestU011P920-922 is honored. YORI04U014P492-557 preserves retirement and two distinct assents; no completed patrol.
+- **CR-SECONDARY-LUNA-004:** Three exact hypothetical first bodies follow the frozen source-known contract. Designed audience leverage, continued private asking and tentative company acceptance retain generic/near-canonical rivals and tidy English; hidden inaccessible intent is not an ignored knowable cue. No independent accuracy, capability grade or confidence gain; no repair of first bodies.
+
+
+## Cecily and Zesta cohort13 — scoped receiving; containing publication pending
+
+**CR-SECONDARY-CECILY-ZESTA-001 — STRENGTHEN scoped descriptive/generative differentiation; OPEN wider transfer.** Source-known receiving supports separate monographs, indices and four-rule models without revising older frozen artifacts. Cecily correct water perception and useful work prevent universal-uselessness claims; deliberate public falsehood does not make every appraisal knowingly false. Zesta useful magic does not validate prior knowledge, readiness, good aims or recipient permission. His accidental Ragcraft discovery/private admission constrain the later boast. No self-assessed capability grade or accuracy gain.
+
+**CR-SECONDARY-CLERGY-IDENTITY-001 — PRESERVE/OPEN individual agency and joins.** Tristan explicitly names finance role EXP02U038102; DUST04U01343 asks Cecily-or-Tristan but does not identify searcher. Named noteクレイン CONTEXP02U01864 is not joined to earlier unnamed campaigner. MAIN04 reporter142 owns trade/refund proposals and is distinct from named Zesta. Returning guide named join/earlier exact return pending; Axel/Arcanretia Eris priests and two bread occurrence slots retain own agency/unknown attribution. Existing Aloerina91 already owns self-name.19new source-bound records bring working count187, not final distinct population or a census closure.
+
+
+## Cohort14 bounded return revisions — 2026-10-20T11:12:02.861945+00:00
+
+| Claim | Transition | Source-grounded correction and limit |
+|---|---|---|
+| CR-SECONDARY-COHORT14-001 | STRENGTHEN / REVISE | MAIN16U016P87 explicitly links guide to MAIN04U019P278–310. Current actual kick/hitP93–94 is preserved; earlier personal throwing at AquaP105–107 remains unproved. Prior broad no-stone-proof wording retained in row history and narrowed in current row; no named join or duplicate guide. |
+| CR-SECONDARY-COHORT14-002 | PRESERVE / STRENGTHEN | Keep two source-bound Eris priests separate: CONTEXP02U016P476 first meeting with Megumin against earlier Axel exchange. Arcanretia denial/grievance remain actual statements; Powered/throw/punchP466–467 performed, threatened forced contact not completed. Axel threat unperformed and gender/name unestablished. |
+| CR-SECONDARY-COHORT14-003 | STRENGTHEN | Earlier chair window ended MAIN08U013P230. P231–239 now shows actual agreement and adviser role acceptance; U016P503–509 supplies reported reward delivery and visible bag, not exact amount/Kazuma acceptance. Police/caster limits and unassigned board voices remain. Historical earlier boundary unchanged. |
+| CR-SECONDARY-COHORT14-004 | REVISE current status wording | Current coverage sentence still called Claire/Rain/Luna pending proportional review. Their scoped gates actually closed in cohorts11/12. Correct the present sentence; preserve prior cohort chronology and bytes of historical gate reports. No new source or capability upgrade. |
+
+[Four-profile event index](KONOSUBA_CLERGY_AND_MERCHANT_EVIDENCE_INDEX.md) retains locators, attribution, serious rivals and open scope. Four Tier1 profiles are revisable; no new model or artificial test is earned automatically.
+
+
+## Cohort15 source and model qualifications — 2026-10-20T13:11:28.160162+00:00
+
+| Claim | Transition | Exact qualification |
+|---|---|---|
+| CR-SECONDARY-COHORT15-001 | STRENGTHEN / REVISE | Leen/リーン is distinct from Rain/Raina/Rionor. DUST05U012P643–650 new Feit knowledge is not earlier knowledge; P654–686 is a separate knight-era recollection. DUST06U012P554–555 refused withdrawal precedes later exit offerP594 and chosen continuationP595. MASKU013P399–424 and DUST07U014P111–125 willing Leen are Vanir, not her repaired friendship or second assent. Preserve original reports; no retroactive source prediction. |
+| CR-SECONDARY-COHORT15-002 | STRENGTHEN | MAIN02C1P645–646 Keith sees threat first, without printed Farsight cast. DUST07U012P786–788 four arrows all blocked; direct contribution differs from success. CONTU014P440 staff borrowed-or-taken remains unknown. His insult/earlier coercion does not erase later protested recipient statusU012P299–305. |
+| CR-SECONDARY-COHORT15-003 | STRENGTHEN / OPEN | Taylor duty/owned shield/report procedure and evacuation are actual, with idealized motive errors and direct shoulder restraint/nonhelp retained. DUST07U013P489 is shield handover, not certified permanent gift. CONTU012P118 waits for accounts; U014P304–321 urgency changes response. No universal ethical floor or calibrated threshold. |
+| CR-SECONDARY-COHORT15-004 | OPEN | Three new frozen candidates and twelve actual source-known same-author bodies are internal exercises only. Leen practice-permission ambiguity, generic rivals, unprobed rules and overcoherence remain. Model/inputs/first bodies are not repaired after outcomes; no independent accuracy/confidence/capability promotion. |
+
+[Source-safe provenance](KONOSUBA_LEEN_PARTY_NATIVE_PROVENANCE_01.json) and three event indices retain individual agency, direct/report/private/disguise access and offered/performed/paid/repaired stages. Earlier current claims are qualified here; frozen originals keep bytes.
+
+
+## Cohort16 Lolisa, Rionor and Feit — 2026-10-20T14:52:18.145824+00:00
+
+Current source precision: ロリーサ is an invented alias DUST02C02P542-545,with no immediate objection shown there; the root’s premature commentary objection claim is corrected,not converted into a source event. MASK unnamed-small join remains unresolved. DUST04U014196 alleged Levi demand is part of an explicitly fabricated story. CONTU014224-327 apparent Rionor bride is Leen331-334; genuine Rionor acts536/562-570. CONTU014293 links Feit’s missed-breakfast hunger to saliva but does not alone identify who omitted the meal or her assent; private Feit draft01’s stronger inference was corrected to draft02 before any model/case freeze,with original draft and precision record preserved. DUST07U012289 jointly contains three different food/drink actions. These attributed revisions update current uptake without altering original forecasts,annotations,indices,score files or historical first bodies.
+
+
+## Cohort17 Wolbach and Chomusuke — 2026-10-20T16:06:56.617701+00:00
+
+Current precision: MAIN04 bath woman is explicitly addressed Wolbach at C3 continuation P53,correcting current unnamed shorthand without altering the frozen report. Reader evidence differs from Kazuma’s MAIN09 uncertain recollection. Carriage join uses later specific invitation recall,not shared appearance: Arnes remains distinct. EXP03IMG035 separation wording must retain IMG036 temporary qualification. Early/later unsealings and repeated accounts are not contradictory or independent events. MAIN09F564-565 apparent smile remains uncertain; no forgiveness/planned-death fact. Chomusuke’s bath entry is directly watched later; fire in MAIN15Pr30 is Aqua report while Kazuma averts gaze29. Actual head contact and belly refusal differ in MAIN16I1. These findings add current attributable uptake without rewriting prior models,first bodies,forecasts,scores,annotations or indices.
+
+
+## Cohort18 Sena and Arnes — 2026-10-20T17:14:33.263380+00:00
+
+Senaセナ is explicitly a kingdom prosecutor MAIN03C1P18,not judge or Serenaセレナ. Court resistance/reversal/confusion and possible influence are preserved rather than a clean corruption or purity claim. Device/association evidence is proposition-sensitive; official accounts are not universal law. Arnesアーネス is directly named EXP02U023P15-16; earlier invented nightly culprit295-300 differs from later admitted herding U044P403. Actual paid cash is not a documented personal loan; Hoost’s later lives/pact stay his. Manifested defeat is not permanent-annihilation proof. Later actual MAIN03C2P50 Chomusuke flame clarifies its earlier access while leaving frozenC17monograph/index/model exact. These are current attributable additions,not repairs to historical reports,first bodies,forecasts,scores or annotations.
+
+
+## CR-SECONDARY-COHORT19-001 — separate crew agency and proportionate reconstruction
+
+Existing rows 51 Rex / 52 Sophie / 53 Terry now have direct Japanese name/role joins. Replace preliminary report-only native-spelling gaps with a conditional Rex model/monograph and separate Sophie/Terry bounded profiles. Preserve their prior fields and 184 other rows exactly relative current canonical; only carried C18 closure rows 22/50 add two rows against parent 5e001f0e. Real contribution,fallible classification,pressure,injury limits and partial updating remain; no appearance quota,fixed ceiling,permanent full recovery or generalized refusal ethic. Four first bodies are not repaired: unprovided reaction/plan position/prior knowledge,unasked capability warning,shared help endpoint and unprobed mechanisms retained. Known EXP03/CONTEXP02 BASE returns only:1,556 distinct context slots/six members/two native objects,including blanks,other actors,reports and hypotheses; no fresh whole-source,ruby/image,admission,independent decision,accuracy or confidence credit. Stable revision does not claim final census,tier denominator,StageD successors or whole-program completion.
+
+
+## Cohort20 — individual village peers and attributed writer correction
+
+C20-CR01 — REVISE current Nerimaki attribution. Earlier current census substantive wording described occupational novelist/tavern work, authorship and professional dignity. MAIN14 C1 P358 directly selfnames Nerimaki as liquor-store owner's daughter/future proprietor; C3 P166/170/182 identifies Arue and her writer/publication/pay defense. YORI02 U024 P88 reports Arue novels. The afterword caption identifies Nerimaki's imagination, not external creator identity. Current row85 and the new profile explicitly correct this; the exact old field is preserved in prior_cohort20_current_fields. Earlier source/report bytes and history remain unchanged.
+
+C20-CR02 — QUALIFY early family-money fraud and peer-only restaurant explanations. Later Funifura illness denial/Dodonko medicine testimony qualify Megumin's early suspicion; they do not independently verify cure or erase guilt pressure. Her later report of repeated hot-food response/firing elsewhere qualifies a sole peer-caused work failure. C20-CR03 — PRESERVE speaker/actor limits: unnamed operator not established as Nerimaki father; reported staff craftsman/patient receive separate Tier0 records; untagged dialogue is not divided automatically between partners. [Index](KONOSUBA_VILLAGE_PEERS_EVIDENCE_INDEX.md) F06–F10/D05–D09/N07/I01–I03/C02 supplies access and counterevidence. No historical forecast, score or frozen model is silently repaired.
+
+
+## C20-CR04 — apparent potion effect and actor attribution
+
+REVISE ambiguous medicine work/medicine-work testimony in sealed Funifura/Dodonko monographs and shared index F08/D08; clarify repeated competence/ordinary-life summaries. EXP02 U023 P433 credits the potion to Megumin and reports apparent good effect. Dodonko is contextually assigned that line in the pair exchange, not directly narrator-tagged. No Dodonko production, ingredient work, patient treatment or medical occupation is established. EXP01 U037 P93–98/P113–122 directly assigns ingredient assistance to Arue with Megumin.
+
+The [attributable external erratum](KONOSUBA_VILLAGE_PEERS_MEDICINE_ATTRIBUTION_ERRATUM_01.md) is the current qualification. Prior five core bytes, semantic record, forecasts, scores and first bodies remain exact. Later testimony still qualifies Megumin fraud suspicion without independently proving cure or erasing pressure. Tier2/1/0 dispositions and all 28 model bodies remain unchanged; containing clarification publication pending.
+
+
+## Cohort21 — separate agency, conditional models and attributed revision
+
+C21-CR01 — REVISE current treatment actor in accepted EXP01 report/current Soketto census phrase. U028P427 explicitly names Yunyun treating/bandaging Bukkorori; Sok shop location and one fortune reading are different acts. [External erratum](KONOSUBA_SOKETTO_BANDAGING_ATTRIBUTION_ERRATUM_01.md) preserves original report SHA-256 prefix 0dd1f512 and current actor qualification. No healing spell, independent cure or global absence of every other Sok healing event is claimed.
+
+C21-CR02 — PRESERVE actual Arue patch removal EXP01U023P295 against later absolute recollection; explicit protective/mana-story retraction EXP02U023P484 controls current reading. C21-CR03 — REJECT MAIN17FP33 rhetorical あるえー？ as Arue person evidence. C21-CR04 — QUALIFY father/son care promise, group/individual casting, reader mistake/author intent, reported grandfather and offered/paid/performed stages. [Index](KONOSUBA_ARUE_SOKETTO_BUKKORORI_EVIDENCE_INDEX.md) gives exact access. Earlier fields for rows 45/46/47 remain recoverable in prior_cohort21_current_fields;unaffected histories are not imported from divergent private fields. No frozen report/model/forecast/score/first body is silently rewritten or regraded.
+
+
+## Cohort22 — Mitsurugi and separately bounded companions
+
+- **C22-M01 — PRESERVE / QUALIFY:** 御剣響夜 is already introduced at MAIN01C3P592; MAIN17C2P336 repeats it. Historical later-name shorthand remains recoverable; no frozen report is rewritten. Kazuma's wrong names are address acts, not additional people.
+- **C22-M02 — QUALIFY:** MAIN16FinalP126 fear is Aqua's internal narration; available cues are her explicit return request123 and Yunyun's intervention127-128/nod130. Do not turn reader access into ignored speech. MAIN16 acceptance of stated level-one limits precedes later training/demonstrated skills.
+- **C22-M03 — PRESERVE distinct states:** MAIN17C3P523 actual healing precedes Final collapse/pleas. P745-746 are contextual companion voices; P749-751 actual transport is not a complete final cure. Neither missing recovery nor earlier healing cancels the other observation.
+- **C22-M04 — QUALIFY gift inference:** MAIN06C3P507-520 Aqua gives elaborate origami as ring thanks; both men admire actual craft. It is neither returning his object nor a worthless-scrap/engagement proof. Initial private unfrozen wording was clarified before foundation/input seals; no frozen first was repaired.
+- **C22-M05 — OPEN identity mapping:** MAIN17C3P54 gives フィオ/クレメア and P57 explicitly leaves spear/thief assignment unknown. Retain two existing role records and two compact profiles, with working Latin spellings qualified. No duplicate name-only people, alternating-line assignment or class-only continuity claim.
+- **C22-M06 — PRESERVE diagnostic defects:** MT-H01-A unsupported duration/selective framing; MT-H01-B possible overtidy cooperation; MT-H02-A unprovided Ren token; MT-H02-B added relative guard baseline; both H02 bodies share two-pocket preparation. No performance outcome or new-method trial. Exact firsts/inputs/model remain unchanged, R02/R04 unprobed, no independent grade/confidence gain.
+
+The [individual index](KONOSUBA_MITSURUGI_COMPANIONS_EVIDENCE_INDEX.md) owns these precise routes. Earlier cohort21 bandaging and cohort20 medicine errata, every original report, all prior models/firsts/scores and prospective missingness remain exact. The current named-subject audit qualifies source planes and actor knowledge rather than retroactively rewriting them.
+
+
+## Cohort23: source qualifications and unrepaired diagnostic defects
+
+The [individual index](KONOSUBA_CRIMSON_PARENTS_TEACHER_EVIDENCE_INDEX.md) owns precise routes. Yuiyui's actual/heard restraint differs from later attribution, smiling accidental-sleep explanation, Kazuma's rationalizations and Megumin's later constrained choice. Darkness's actual failed-spell resistance coexists with later reported neutralization by an unnamed method. Mother also sleeps after drinking; no declared winner/kept promise/achieved arrangement follows. Material-gathering invitation/overnight report is not a watched haul; future wealth/remittance forecasts are not received cash or new purchases.
+
+Hyoizaburoo's craft costs and device properties are largely daughter/analogy/editorial reports; Wiz's favorable novel report is not an observed sale or the fanbook's exact skilled wording. Pucchin's principal aspiration is not promotion, exposed plated props do not prove giant-metal strength, Arue kills an immobilized target, admitted delay is not safe timing and a pupil's privacy/care reading is not private access. A real seal problem does not settle every weather/blame account. Heard CreateWater leaves caster unnamed. The CONTEXP01 pudding name hit is excluded as teacher evidence.
+
+The twelve frozen English firsts retain shared card/tea/intervention endpoints, source-colored unscaled grades, possible overtidy restraint, unprovided supper/afternoon/prior-project/physical-audience context, unmeasured timing/latency and PU-H03-A's invented earlier pupil failure. Same-author source-known assessment supplies no independent grade or confidence gain. All original bodies, foundations and inputs stay exact; prior C20 medicine/C21 bandaging errata and original reports/cores remain separately preserved. Fourteen new census slots retain unresolved identity and direct/report distinctions; no retrospective population closure.
+
+
+## Cohort24 — Crimson village work and staff, source-known scope
+
+C24-CR01 qualifies the earlier cohort23 potion-row wording "distinct from clothing shop, diner and teacher": it preserves different role occurrences, not a proved partition of all unnamed people. Earlier frozen C23 artifacts and row-field history remain unchanged; current potion identity/profile explicitly leaves cross-role joins unproved. C24-CR02 expands previously pending outcomes with source-known returns: cafe own forest-information statement, reported school preparation, diner restraint/retaliation/dismissal, farm own work/payment and MAIN05 Chekera sale/clothesline context. Wife/child count, armor-client Darkness join, cash/repayment, owner-spoken firing, trial safety and future rehire remain unproved. Rejected Arcanretia/MAIN14 cafe hits earn no village-proprietor appearance or admission.
+
+Exact locators and access: [cohort24 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_TRADES_STAFF_EVIDENCE_INDEX.md). The shared known-source union is 1,149 BASE slots/7 text members/4 text objects, including context, blanks, other actors and rejected joins; no fresh whole-source, ruby, residual, image-set, admission or independent validation credit. Earlier models, scores, firsts and prospective missingness remain unchanged. Canonical receiving is complete for this candidate only; exact containing publication/full program remain pending.
+
+
+## Cohort25 — chief, Sylvia, trial machine and castle courier
+
+C25-CR01 distinguishes current chief from next-chief daughter and separates collective letter authorship from a personal father act. C25-CR02 adds attributed Serena interference as a rival to a factory-original-only machine explanation,without altering earlier observations. C25-CR03 distinguishes reported earlier Sylvia defeat,current composite states,actual absorbed Explosion and separate aim/trigger/energy actors. C25-CR04 notes MAIN14I13P70 later reports a treasured first friend-shopping dagger; it does not retroactively turn the earlier blacksmith scene into a watched payment or change frozen C24 text. C25-CR05 avoids treating先生方 as proof all pursuers teach or different adult roles as a proved people partition. Current-table publication-label corrections use already closed exact gates and change no frozen semantic core. Earlier historical pending labels retain authorship chronology.
+
+Exact locators and access: [cohort25 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX.md). This source-known scope adds no new whole-source,ruby,residual,image-set,admission or independent validation credit. Earlier models,first bodies,scores and prospective missingness remain unchanged. Canonical receiving/publication is pending for this candidate; the full KonoSuba program continues.

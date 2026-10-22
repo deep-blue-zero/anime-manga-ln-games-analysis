@@ -1,0 +1,69 @@
+{
+  "schema": "KONOSUBA_CURRENT_FACTUAL_IDENTITY_JOIN_ERRATUM_V1",
+  "created_utc": "2026-10-20T04:47:13.604510+00:00",
+  "stable_revision": "CR-SECONDARY-HOOST-003",
+  "transition": "REVISE_FACTUAL_VOICE_IDENTITY_JOIN_PRESERVE_PRIOR_KNOWLEDGE_STATE_AND_ORIGINAL_BYTES",
+  "affected_artifact": "series/konosuba/08 Evidence and Indexes/KONOSUBA_HOOST_EVIDENCE_INDEX.md",
+  "affected_artifact_sha256_unchanged": "3f48020328633867eb0a90c285ad66d3b4f3464e9cbdb0cc1d5d69f9d0c88fe2",
+  "affected_section": "1. Identity, responsibility and current scope, first paragraph",
+  "original_sentence_exact": "Hoost is distinct from Arnes, Wolbach, Vanir, the ordinary beginner-killer and the unknown voice considered before the forest narrator sees him.",
+  "published_source": "263916a894815bdbd3b0101d31af9682004a6cdb",
+  "correcting_agent": "Root current full-program audit; same informed author, not an independent reader or judge",
+  "current_qualification": "The initially unidentified voice in the EXP03 first forest encounter is subsequently revealed as Hoost. The earlier unknown identity is Megumin’s knowledge state, not another actor. Hoost remains distinct from Arnes, Wolbach, Vanir and the ordinary beginner-killer.",
+  "accepted_native_recheck": {
+    "source_id": "EXP-03",
+    "native_bytes": 15716486,
+    "native_sha256": "22ee64b90d10075eec3769137e07bd59ee1815e22eb14f552326e9f4a06ffd87",
+    "component_id": "EXP-03-U020",
+    "member": "item/xhtml/p-011.xhtml",
+    "member_sha256": "84648b40c0e160d4b2aa4d8547f02a237f903c19554f3b740cc2b585959f2cb8",
+    "accepted_register_sha256": "27a4589a38bfb63773448a7579e4236bf8f868636afa89bfded94bc9f3aad4e6",
+    "actual_rechecked_BASE_range": [
+      476,
+      511
+    ],
+    "rechecked_slots": 36,
+    "rechecked_nonempty": 32,
+    "previous_actual_receiving_range": [
+      430,
+      611
+    ],
+    "new_unique_native_reading_credit": 0,
+    "new_source_admission": false,
+    "ruby_or_image_rereading": false
+  },
+  "source_observations": [
+    {
+      "locators": "EXP03 U020 P476–487",
+      "epistemic_type": "OBSERVATION",
+      "finding": "Megumin hears a voice while waking and again above her; she has not yet identified the speaker."
+    },
+    {
+      "locators": "EXP03 U020 P488",
+      "epistemic_type": "NARRATOR_HYPOTHESIS",
+      "finding": "Megumin wonders whether the voice owner protected the girls while they were unconscious. This does not establish that he did."
+    },
+    {
+      "locators": "EXP03 U020 P493–500/502/509–511",
+      "epistemic_type": "OBSERVATION_AND_EXPLICIT_CONTINUITY",
+      "finding": "Megumin turns toward the same voice owner; he names himself Hoost. His visible devil identity prompts the girls to flee. No intervening second speaker is introduced."
+    }
+  ],
+  "counterreading_and_resolution": "The index conjunction can suggest a separate actor and is factually defective. Reading unknown voice as merely an earlier narrator knowledge state explains the scene but does not rescue that exclusion list. Native continuity resolves the speaker; pre-awakening protection remains uncertain.",
+  "material_limits": [
+    "No new benevolence, rescue, offscreen protection or universal care claim follows.",
+    "The Hoost monograph/model and actual native receiving already qualify the protection inference; no HH-R01–06 change, new exercise or score revision is required.",
+    "Original index, exact draft lineage, prior checks, gate receipts, first responses, models, forecasts and scorecards remain byte-exact. The prior bounded name/reference check missed this conjunction; its historical result is not a guarantee of semantic infallibility.",
+    "Eight scoped secondary subjects and fourteen current model bodies remain; this erratum is not a ninth cohort or an independent validation."
+  ],
+  "current_authority_instruction": "Read this qualification with the original Hoost index. Its unknown-voice exclusion has no current analytical authority; all unaffected source returns and limits retain their prior scope.",
+  "canonical_routes": [
+    "CURRENT_STATE_AND_CORPUS_MAP.md",
+    "08 Evidence and Indexes/KONOSUBA_CLAIM_REVISION_LEDGER.md",
+    "08 Evidence and Indexes/KONOSUBA_SOURCE_LOCATOR_INDEX.md",
+    "08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md",
+    "08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json",
+    "09 Audits and Manifests/KONOSUBA_HOOST_COHORT_01_RECEIVING_AND_PROVENANCE.json"
+  ],
+  "original_bytes_mutated": false
+}

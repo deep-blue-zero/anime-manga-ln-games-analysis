@@ -1150,3 +1150,147 @@ MASKU019P418–452asserts own noninvolvement/choice; helprequestP482 and claimed
 
 ## WZ-C01 — a specific condition can change a familiar relationship
 MAIN04C5P270–284 attempts negotiation under noninterference. Hans's admitted civilian harmP408–414 precedes Wiz's actual freezing and conditionP416–432. She distinguishes noncombat humans from reciprocal adventurer/knight risk. Firm opposition is not universal pacifism or unlimited power; later insufficient mana, warning and retreat advice persist. MASK's costly companion response is separate from every hypothetical stranger request.
+
+
+## CE-C01 — chosen intervention and target-sensitive zeal
+MAIN12 FinalP277–287 moves from recognition to an actual thrust; Kazuma's P296 restraint and later binding are distinct interventions, not her consent to their whole procedure. MAIN17 C3P243's first voluntary rule-breaking is her account; actual buffs and persuasion show active participation. She rejects retirement/abandonment alternatives and asks for a duel before Aqua's call changes Kazuma's decision. Chosen help can pressure others without becoming universal obedience or universal pacifism.
+
+
+## DUST-COHORT06-C01 — reject unconditional protection while retaining actual care
+
+Direct adverse cases remain: DUST02 C03P149/P156–176/P420–424 induced attraction after refusal; DUST03 U013P218–247 rescue obstruction; DUST04 U012P661–686 refused companion wager; DUST06 actual delay/teasing; DUST07 U012P295–304 Keith nonhelp. Later protection, success, humor, authority, alleged deservedness, lack of completed injury or motive purity do not erase them. Positive costs and intervention remain real. DUST-CONT's captive-princess tolerance and delayed recovery retain adverse weight without inventing a complete new leisure/feasible-means conjunction in every omission. The old N01 unconditional override is not repaired by the new source-informed model.
+
+
+## Komekko cohort07 source-informed consolidation — 2026-10-20T03:13:02.170207+00:00
+
+Source-known admitted EXP01/02 and MAIN05/11/14; eighteen actual image-prose pages and1,602bounded BASE member slots, not new whole-source/ruby/independent credit. The [Komekko index](../08%20Evidence%20and%20Indexes/KONOSUBA_KOMEKKO_EVIDENCE_INDEX.md) owns exact ranges/event joins; older entries remain historical at their original scopes.
+
+| Record | Acting subject and exact route | Current uptake | Limits |
+|---|---|---|---|
+| K07-SO01 | Komekko specific concern and adverse limits; EXP01U043P239-278/364-366/428-429/472-493;EXP02U023P565-620;MAIN14C4P90-94 | Costly food/property giving, concern for sister and concrete helping attempts support particular care. Evacuation refusal, poorly executed help and rejected cumbersome care remain. Yunyun supplies physical shielding. | No universal protective/compliance override, inferred safe danger appraisal or unseen bear rescue/victory. Nonsexual age-appropriate child scope; threatened harm is not erased by comic framing or absence of completed injury. |
+
+
+## Hoost cohort08 source-informed consolidation — 2026-10-20T04:07:47.235077+00:00
+
+Source-known admitted EXP01/03: prior eighteen actually read integral image-prose pages reused,1,172unique EXP03 BASE slots/five members newly received, thirteen selected ledger rows/seven files. No fresh EXP01 pixel pass, whole-source/ruby/image/independent credit. [Hoost index](../08%20Evidence%20and%20Indexes/KONOSUBA_HOOST_EVIDENCE_INDEX.md) owns event joins and exact return scopes; previous entries remain historical.
+
+| Record | Acting subject and exact route | Current uptake | Limits |
+|---|---|---|---|
+| H08-SO01 | Hoost attachment/harm limits; EXP01IMG026-043;EXP03U026P539-598/U034P387-424/485-498 | Rank can yield to task dependence and vulnerability can prompt negotiated retreat; particular concern/provision and bird intervention coexist with initial threat, actual violence and attributed retaliation. | No blanket benevolent/protective override. Unshown bear rescue, fully healed fighters and actual promise enforcement remain unknown; comedy and remaining-life speech do not guarantee harmlessness or recipient consent. |
+
+
+## Cohort09 — concern can matter without a universal veto — 2026-10-20T06:09:56.297297+00:00
+
+Levi's fear for Iris before the dragon expedition and protest at inadequate reward are direct contrary evidence to an indifferent-villain account (MAIN10C5P15–30/185–211). They neither prevent the expedition nor produce the full political commitment by themselves. Later national gratitude and acknowledgment of Small's likely nonaffiliation coexist with known dangerous pressure (DUST04U014P60–118). Serious concern, practical inhibition and ethical refusal are different objects; no single seriousness switch deletes pride, grievance or coercion. No source-local contrary example is retired by the ending.
+
+Known admitted-source retrospective consolidation; no new source admission, whole-source/ruby/image/independent-test credit. Exact earlier ledger bytes remain the prefix. Frozen forecasts, failures, scores and blank/null fields remain unchanged.
+
+
+## Cohort10 — self-command and care have limited effects — 2026-10-20T06:58:02.053067+00:00
+
+Nos tells himself to calm down and behave knightly while disoriented, yet dangerous sword conduct has injured police. Actual concern/distress for comrades earlier does not become a universal restraint toward outsiders. Dust's help evacuating the injured and actual intervention are practical care despite his demand for future arrest leniency and deceptive fair-blow declaration. MAIN17U011P403–474/505–539;DUST07U013P205–254.
+
+A source can present harmful livelihood effects through reports and inference without proving permanent ruin. External qualification of MAIN03 departure certainty neither cancels cost nor restores Aqua to innocence by wording. The mother's particular child-care request remains her agency and reported benefit, without generalized medical claims or a universal care mechanism.
+
+Retrospective known-source consolidation; exact previous ledger bytes remain the prefix. No new whole-source/ruby/image/admission/independent-test credit or changed historical forecast, score or blank/null field.
+
+
+## Cohort11 — real concern does not settle the means — 2026-10-20T08:11:12.082088+00:00
+
+The same retainer can do useful protective work, warn accurately and participate in harm. MAIN11 C1P431–443 recognizes benefit; P586–633 imposes a forbidden-risk procedure despite warning and Iris objection. The subsequent memory gaps are actual, while intended complete erasure and permanent side effect remain unproved. Genuine fear of Kazuma and his harmful conduct are relevant pressures, without an automatic exemption for any means chosen.
+
+MASK protective waiting is assessed at the retainers' information and assigned charge, without borrowing Vanir's later demonstrated extraordinary power. DUST03's available rescue and deliberately blocked aid retain the distinct actors and opposite choices. No later successful ending, apology or restored company repairs a prior failed veto by definition.
+
+Known admitted-source consolidation; prior ledger bytes remain the exact prefix. No new whole-source/ruby/image/admission/independent trial or changed frozen forecast, score, first body or blank/null field.
+
+
+## Luna cohort12 — own work, relief, pressure and boundaries — 2026-10-20T08:58:31.797980+00:00
+
+Seriousness changes the task and available means, not automatically every value. DUST07U013P114-126 commits actual finite guild funds for defense; accepted intervention starts. It is neither a private gift nor a universal crisis budget. YORI04U014P488-557 identifies night danger and specialist fit, acknowledges retirement and preserves eventual distinct assent. No patrol has yet been completed.
+
+Ordinary settings also contain real stakes: unwanted public humiliation, fatigue, physical departure interference and constrained refusal remain consequential. DUST07U011P920-922 supplies an actual stop outside the allocation scene; there is no stable universal consent floor or automatic refusal failure. Severity, readiness, access, deployment, desired goal and permission must remain different. No new canonical opportunity has been independently tested by the internal battery.
+
+
+## Cecily and Zesta cohort13 — scoped receiving; containing publication pending
+
+Actual assault on merchant chair MAIN08U013189, false victim accusation, bread taking despite refusal, Eris-priest restraint and actual spell-enabled escape CONTEXP02U016445-467, dangerous rope coercion MAIN16 and Zesta direct threats remain serious at non-graphic scope. Useful blessing, healing, comic punishment or warm ending supplies no prior consent or unshown repair. The completed physical assaults and real coercion remain recorded. Threatened sexual assault/execution is not counted as completed; Arnes alleged powder theft, Zesta alleged clothing theft, completed cash vote payments, divine sanction or actual poisoning are not invented. Family complaints and resource costs remain reports where so supplied. The recipient fear and independent refusal stay visible even when the focalizer laughs.
+
+
+## Cohort14 clergy and merchant bounded returns — 2026-10-20T11:12:02.861945+00:00
+
+MAIN04U019P305–307 guide actually sweeps rubbish toward Darkness; MAIN16U016P93–97 actual kicked stone hits Darkness, precise intent unknown. Unproved personal participation in an earlier Aqua mob does not erase this kick. Children throwing and unperformed mace threat remain separate. Arcanretia priest's Powered/throw/punch follows Cecily restraint and Zesta harassment(CONTEXP02U016P434–467); no completed forced kiss or equal initiation from brawl framing. Cecily assault on chair and Kazuma later grabbing him remain real despite agreement/profit/hosting. Useful service and warm endings are not proof of repair. See [event index](../08%20Evidence%20and%20Indexes/KONOSUBA_CLERGY_AND_MERCHANT_EVIDENCE_INDEX.md).
+
+
+## Cohort15 Leen, Keith and Taylor — 2026-10-20T13:11:28.160162+00:00
+
+Town defense and a court crisis do not suspend individual agency or costs. DUST07U011P875–947 improved spear work, actual unwanted contact and persistent fear coexist; further act narrowly avoided, no graphic elaboration. DUST07U012P299–305 later removal gives sounds/absence without a specific caster or injury. CONTU014P304–321 Taylor correctly changes to evacuation before theory is complete; this local competent action does not erase prior coercion or prove universal reliability. Chosen risk/recipient objection, actual danger and a pleasant ending retain different claims. Group survival and successful contribution do not certify a safe method or fully repaired relationship.
+
+[Leen event index](../08%20Evidence%20and%20Indexes/KONOSUBA_LEEN_EVIDENCE_INDEX.md), [Keith event index](../08%20Evidence%20and%20Indexes/KONOSUBA_KEITH_EVIDENCE_INDEX.md), [Taylor event index](../08%20Evidence%20and%20Indexes/KONOSUBA_TAYLOR_EVIDENCE_INDEX.md). These are actor-specific retrievals of shared known episodes, not new independent observations or a completed global census.
+
+
+## Cohort16 Lolisa, Rionor and Feit — 2026-10-20T14:52:18.145824+00:00
+
+Lolisa’s doorway refusal DUST05U011999,Yunyun’s acceptance1002,Cecily’s restraint1005/1009,release pleas1026 and Dust’s eventual intervention1030 retain separate agents and stages. Rionor’s actual forced test CONTU01495-100 imposes pain/paralysis despite release requests; her reported tolerance101 and later protective action562-570 cannot backdate Dust’s consent. The later discharge also affects him573. Feit’s power does not make hunger,unasked bodily use or care needs irrelevant. Later warmth,reward,utility and survival are not comprehensive repair.
+
+Individual retrieval: [Lolisa](../08%20Evidence%20and%20Indexes/KONOSUBA_LOLISA_EVIDENCE_INDEX.md),[Rionor](../08%20Evidence%20and%20Indexes/KONOSUBA_RIONOR_EVIDENCE_INDEX.md),[Feit](../08%20Evidence%20and%20Indexes/KONOSUBA_FEIT_EVIDENCE_INDEX.md). Shared [native provenance](../08%20Evidence%20and%20Indexes/KONOSUBA_LOLISA_ROYAL_DRAGON_NATIVE_PROVENANCE_01.json). Exact containing publication remains pending; full program continues.
+
+
+## Cohort17 Wolbach and Chomusuke — 2026-10-20T16:06:56.617701+00:00
+
+Chomusuke’s EXP01U023 pot distress/bite,EXP02U02371-72 resistance and U044510/516 actual struggle/throw remain real despite comedy. Megumin begins Explosion with the creature in danger521-527,resumes535,and is interrupted by separate events; survival is not safe process or consensual sacrifice. Kazuma’s staring/dismissed privacy request MAIN04C3 and direct threat MAIN09C3P373 matter despite Wolbach’s power/later warmth. Wolbach’s continued siege,refused terms and stated destructive-half plan remain adverse evidence,not erased by the uncertain final smile or Megumin’s gratitude.
+
+Individual [Wolbach](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_EVIDENCE_INDEX.md) and [Chomusuke](../08%20Evidence%20and%20Indexes/KONOSUBA_CHOMUSUKE_EVIDENCE_INDEX.md) indices; [shared provenance](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_CHOMUSUKE_NATIVE_PROVENANCE_01.json). Exact containing publication pending; full program active.
+
+
+## Cohort18 Sena and Arnes — 2026-10-20T17:14:33.263380+00:00
+
+Sena’s accomplice warning actually silences MAIN03C1P52-53; selective testimony and detention remain real despite apology. Her resistance30,reversal32 and confusion36 after the lord’s stare in C1continuation do not settle free collusion or an exact unseen mechanism. Arnes’s horse-killing EXP02U044P364-365,guard injuries412-425/442-450 and hostage threat460 remain severe. Threatened massacre and interrupted fireball are not completed killing of passengers. False accusations and clergy’s cruel pursuit retain separate responsibility. Megumin’s cat-endangering chant is stopped by Yunyun,not voluntary restraint; late survival/awards do not erase process harms.
+
+
+## Cohort19 Rex, Sophie and Terry — attributable update
+
+Real protection and useful performance coexist with pressure,belittling,misclassification and finite injury (R03-R16). Barely-fightable healing is not full readiness,and reassurance is not proof of safety. Final Explosion/reward/parting warmth do not erase crew contribution or earlier costs. Cecily’s stone prank and later actual gold aid stay separate episodes without repairing frozen clergy artifacts. No completed consent,medical recovery or universal indispensability is invented.
+
+Known EXP03/CONTEXP02 BASE returns only:1,556 distinct context slots/six members/two native objects,including blanks,other actors,reports and hypotheses; no fresh whole-source,ruby/image,admission,independent decision,accuracy or confidence credit. Current claims route to `CR-SECONDARY-COHORT19-001` and the shared crew index/provenance; exact containing publication remains pending.
+
+
+## Cohort20 — individual village peers and attributed writer correction
+
+Later care and laughter do not erase the peer pressure on Yunyun, Megumin's forced knife/threat/assault, her hot-food retaliation or unsafe teacher staging. The blade-entering possibility is not promoted into a completed rabbit kill. Funifura's apology and farewell contributions are real but bounded repair, not proof all earlier costs are gone.
+
+Nerimaki can correctly name harassment and still violate Aigis's material boundary after his stop request. Payment, imagined intimacy and local participation are different permissions. Collateral MAIN05 F170–219 separates Megumin's requested upper-magic operation from Kazuma's actual all-points Explosion choice; later joy/praise does not retroactively authorize the concealed change. These are explicit later-synthesis feeds, with no frozen principal-model repair or new safety floor. [village-peer index](../08%20Evidence%20and%20Indexes/KONOSUBA_VILLAGE_PEERS_EVIDENCE_INDEX.md)
+
+
+## Cohort21 — separate agency, conditional models and attributed revision
+
+Actual self-protection, finite magic, practical work and creative loss coexist with comic framing. Soketto's survival of dangerous fire does not certify safe rescue. Bukkorori's intrusive conduct does not make assaults on him harmless. Megumin's misleading complaints, father's upstairs reaction, reported rude awakening and unobserved blows are different evidence; the father's helpful promise is no retroactive repair. The [individual A/S/B/I index](../08%20Evidence%20and%20Indexes/KONOSUBA_ARUE_SOKETTO_BUKKORORI_EVIDENCE_INDEX.md) and the [bandaging erratum](../08%20Evidence%20and%20Indexes/KONOSUBA_SOKETTO_BANDAGING_ATTRIBUTION_ERRATUM_01.md) keep actor and result boundaries.
+
+Arue's destructive encounter is not dismissed as mere manuscript comedy, and her own later intrusion remains adverse. Soketto's advice that Megumin tolerate future harassment contradicts a universal recipient-protection interpretation. No seriousness switch converts all later warmth/useful outcomes into prior consent, completed repair or a vote changing frozen forecast thresholds.
+
+
+## Cohort22 — Mitsurugi and separately bounded companions
+
+Mitsurugi's [actual aid](../08%20Evidence%20and%20Indexes/KONOSUBA_MITSURUGI_COMPANIONS_EVIDENCE_INDEX.md) cannot be dismissed as pure status performance: he stops Dust's harassment, returns to check the apparent village girl after Aqua is reportedly safe, fights under danger and objects to coerced stripping. FD's offer precedes flattery and Ria's actual interposition remains her own decision. These coexisting motives do not convert success into a safe process or remove later pressure.
+
+MAIN16 onward argument continues after an explicit return request/Yunyun intervention. MAIN17 includes a local apology/release and accepted return decision, then renewed group action under changed circumstances. Capacity, willingness, deployment, casualty and recovery must remain distinct. Aqua actually heals Mitsurugi at C3P523; later collapse creates another urgent need. Final companion pleas745-746 and Teleport749-751 do not show a completed final cure. Neither later warmth nor rescue settles all prior consent, cost or injury. Source-plane qualifications remain necessary for FD self-blame/Resurrection and Dust aftermath; no universal ethical override or unique Kazuma necessity is added.
+
+
+## Cohort23: finite action does not certify ethical restraint
+
+[cohort23 individual index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_PARENTS_TEACHER_EVIDENCE_INDEX.md) preserves Yuiyui's actual response to the alarm and reported help-seeking without calling it a watched solo rescue or repair of earlier pressure. Failed spells and her own later exhaustion constrain omnipotence; switching means after failure does not establish an ethical veto. Explicit objections, heard restraint and later particular willingness retain their order and subjects.
+
+Pucchin's warnings, grouping instructions, reported cull and effective attack supply real protective conduct. His admitted preference for cool timing also remains; effectiveness and no-injury retrospective appraisal do not certify process safety. Reported reserve odds are not a watched contingency cast, and private sabotage/failure hopes remain Megumin's inference. Concrete support for a practical pupil need is real but narrow and still mocking. Neither a useful result nor later care proves a universal priority, safe deployment, lasting correction or unique need for Kazuma.
+
+
+## Cohort24 — Crimson village work and staff, source-known scope
+
+Chekera alarm and actual freezes interrupt the ceremonial craft encounter, but a revised test still fails and advice remains unverified. Farm near-exhaustion is own report alongside real finite work and paid harvest. These show local urgency/resource management, not a universal ethical veto or competence floor. Diner customers stop attempted casting; Megumin subsequent harmful retaliation remains narrated, with no owner authorization or completed Explosion. A resolved potion misunderstanding is no performed abuse or arson (CC02-CC03,PO02,DI03,FA01-FA03).
+
+Exact locators and access: [cohort24 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_TRADES_STAFF_EVIDENCE_INDEX.md). The shared known-source union is 1,149 BASE slots/7 text members/4 text objects, including context, blanks, other actors and rejected joins; no fresh whole-source, ruby, residual, image-set, admission or independent validation credit. Earlier models, scores, firsts and prospective missingness remain unchanged. Canonical receiving is complete for this candidate only; exact containing publication/full program remain pending.
+
+
+## Cohort25 — chief, Sylvia, trial machine and castle courier
+
+Comedic framing preserves forced restraint,credible threats,burning property,actual failed defenses and dangerous injury. Partial consideration toward a captive or companion does not cancel coercion or group extermination threats. Proposed capture for experiments is a threat/proposal,not a completed experiment. A successful final countermeasure,subsequent rebuilding or an institutional kill-card does not morally repair earlier harm. No graphic recapitulation or body-based explanation of villainy is needed.
+
+Exact locators and access: [cohort25 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX.md). This source-known scope adds no new whole-source,ruby,residual,image-set,admission or independent validation credit. Earlier models,first bodies,scores and prospective missingness remain unchanged. Canonical receiving/publication is pending for this candidate; the full KonoSuba program continues.

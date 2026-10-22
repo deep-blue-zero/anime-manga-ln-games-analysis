@@ -1,0 +1,60 @@
+{
+  "schema": "konosuba.mitsurugi.original-first-outputs.v1",
+  "recorded_utc": "2026-10-20T23:18:51.760475+00:00",
+  "status": "Exact copies of four original first serializations; no revisions",
+  "input_file_sha256": "cc29bbc1519c826f7258e9e0ed90fc067e068cbd562ac8212db8b43fa67b0cb4",
+  "exact_input_freeze_sha256": "4bad4482ef8c165063b1d8f15bbbf2328447cc08d7c4c025486d558b29c0d344",
+  "foundation_seal_sha256": "da9f838f76c6e2754b9226a000867f4d07c9c7d76c273a83186569f7ee5e4125",
+  "actual_body_freeze_sha256": "597eb905b7b965e7e1e1b231e90e03beaf72fac8627d5d9be5c308553e634a4b",
+  "method": "Direct first prose serializations by same continuing source-informed Codex root; no external LLM call, independent agent or judge. Earlier case bodies visible during later serializations. Raw private originals and receipt hashes retained.",
+  "source_known": true,
+  "all_contrasts_visible": true,
+  "outputs": [
+    {
+      "case_id": "MT-H01-A",
+      "pair_id": "MT-H01",
+      "exact_prompt_sha256": "2c6b06389f8695c6155f8b0eb0fea0cf3f668205798b264cd5448c1ff0097803",
+      "body": "Mitsurugi looked from Aqua to the gate. \"I heard you. But they're still outside.\"\n\nHe turned his shoulders toward the approaching volunteers. \"Just a moment, Aqua. We can't leave children behind. I'll help open it, and then I'll take you back myself.\"\n\nHe started toward the gate before she had agreed to wait, lifting one hand to show the coordinator he was coming. \"Where do you need me?\"\n\nEven then he glanced back at Aqua. \"It won't be long. You'll see, we can finish this properly.\" He moved beside the other volunteers and reached for the stiff gate.\n",
+      "body_sha256": "54135026e561a4c4c945c9db1d71e42ab3bc58145ecbc090215d8fedf7bc23f3",
+      "raw_original_receipt_sha256": "a95bb4cecd2ae7263fc65383c602af0841c8d0905357d87638c2004654c4ae1e",
+      "serialized_utc": "2026-10-20T23:15:56.762773+00:00",
+      "original_serialization_number": 1
+    },
+    {
+      "case_id": "MT-H01-B",
+      "pair_id": "MT-H01",
+      "exact_prompt_sha256": "c60df393a457cdd663f8bbfb3a69a4f8e445d25724de8838e8a6fcc47f21633b",
+      "body": "\"Everyone is inside?\" Mitsurugi asked. He looked once more toward the gate, then nodded to the coordinator. \"Good. That's what matters.\"\n\nHe turned back to Aqua. \"Of course. I'll come with you.\"\n\nFor a moment he seemed about to add something. Instead he fell into step beside her on the open path. \"You helped a great deal with those boxes, you know. I'm glad we could do that together.\"\n\nHis eyes returned briefly to the volunteers at the gate. \"If there had still been someone outside, I couldn't simply have walked away.\" He straightened, then offered Aqua a small smile as they started toward the hall.\n",
+      "body_sha256": "0837e5f0c1d99f16e81eca5070c402d1ddc6bc4bc4d289c7db48000a0666e6b3",
+      "raw_original_receipt_sha256": "957e07952187fae4f24ae163dd6884ff70da7198700f98e25852840967cc58fe",
+      "serialized_utc": "2026-10-20T23:16:10.146753+00:00",
+      "original_serialization_number": 1
+    },
+    {
+      "case_id": "MT-H02-A",
+      "pair_id": "MT-H02",
+      "exact_prompt_sha256": "2201eba6610a9c806a03588995133edc70d0812931dc000e94c6461bc69ea83a",
+      "body": "Mitsurugi folded the registered token into one pocket and left a corner of the spare showing from the other. He checked the pocket containing the real one, then took up his foam sword.\n\n\"I haven't forgotten last time, Ren. You'll have to do more than distract me with your blade.\"\n\nThere was an edge to the words despite his smile. He settled into a direct stance, sword between them, and kept his free hand near the pocket with the registered token. As the match began, he advanced a cautious half-step, watching Ren's sword hand and waiting for an opening rather than reaching for Ren's token himself.\n",
+      "body_sha256": "e4ee979a851da31c79e676107538a376a3b071591ddc724df95f2c4356870b52",
+      "raw_original_receipt_sha256": "cf147b903ef56bd6030dbc24c56c3c13befd988cc7467a8420bad54f2b9798d3",
+      "serialized_utc": "2026-10-20T23:16:35.536511+00:00",
+      "original_serialization_number": 1
+    },
+    {
+      "case_id": "MT-H02-B",
+      "pair_id": "MT-H02",
+      "exact_prompt_sha256": "4f4591b0ade0e6e4a898ca07a12582a5aea47cfe0905d18b3b1fd9a409d9e0c8",
+      "body": "Mitsurugi put the registered token in one pocket and the spare in the other, then tested his grip on the foam sword.\n\n\"You won't find that same opening again.\"\n\nHe smiled at Ren, but kept his guard closer to his chest than before, his free hand forward for balance. He made a small adjustment to the angle of his blade, rehearsing how to keep it from being knocked aside.\n\nWhen the match started, he offered a short, deliberate feint and watched Ren's guard. His attention stayed on the space between their swords; he did not move his free hand back to cover the pocket.\n",
+      "body_sha256": "a5d8b892dbfe4162127b2f66cdd76a484a9bff211d35bd8ceeb7e3d4ba8f5eaf",
+      "raw_original_receipt_sha256": "6d0898099f9d8f4d33ecd7c22d280ec71301ff450e7525d8f56651cc89d88910",
+      "serialized_utc": "2026-10-20T23:17:07.098924+00:00",
+      "original_serialization_number": 1
+    }
+  ],
+  "regenerations": 0,
+  "feedback_repairs": 0,
+  "independent_accuracy": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "full_program_complete": false
+}

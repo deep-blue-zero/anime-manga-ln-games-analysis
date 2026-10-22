@@ -1,0 +1,47 @@
+{
+  "schema": "KONOSUBA_KEITH_ACTUAL_FIRST_OUTPUTS_V1",
+  "recorded_utc": "2026-10-20T12:58:44.130152+00:00",
+  "model_sha256": "405980a8b3b5446bc98499389a9f251bc6690d875ae24e9c4b6e8360fd0ed778",
+  "rule_inventory_sha256": "0475648bce26041679569e257e46e2a7caf548544ab84b067d4b1364cc8f1e7a",
+  "scenario_input_sha256": "2d69a4b93ef83565a75ef4634c302c1184b842eafab47c9be79f4fec93ca1b5a",
+  "input_freeze_sha256": "00d5f1cb9e762dbd972464e4855cd7b1f5666cf6fcb2fa7095c48cbea242f9b7",
+  "generation_method": "The same informed root author composed these exact English responses after the model/inventory and input freezes; the writing tool serialized their bytes. No independent sampler, human subject, Japanese adequacy or pristine source prediction is claimed.",
+  "same_informed_root_author": true,
+  "source_known_hypothetical_only": true,
+  "outputs": [
+    {
+      "case_id": "KEITH-H01A",
+      "body": "\"Only watched, did I? That clamp did not point itself out. You can at least get the story straight while I stand here.\"\nKeith keeps the toolbox tucked under his arm.",
+      "body_utf8_sha256": "5301f60d52e912b0beab60964cb88bdf222170c51e295b1261cff323326bec95",
+      "body_words": 31,
+      "first_response": true,
+      "regeneration_count": 0
+    },
+    {
+      "case_id": "KEITH-H01B",
+      "body": "\"See, some of us use our eyes. Fine, the tools are here; do not make me the permanent box stand.\"\nKeith holds the toolbox open beside him.",
+      "body_utf8_sha256": "2fa4fecb430ad975b9c1e82b5e578d23ed03d5dc82f6c004e4cd9007add2038f",
+      "body_words": 27,
+      "first_response": true,
+      "regeneration_count": 0
+    },
+    {
+      "case_id": "KEITH-H02A",
+      "body": "\"Show him the route first, then. I am not hauling him out when you two have sent him into something stupid.\"\nKeith leaves the gateway open and gestures toward Olin.",
+      "body_utf8_sha256": "a83d6b25d90637362fab2acfca5dc80ebecdd20d70eaecfd86d457d4d34f0382",
+      "body_words": 30,
+      "first_response": true,
+      "regeneration_count": 0
+    },
+    {
+      "case_id": "KEITH-H02B",
+      "body": "\"Oh, come on. Yesterday it was training, today it is running away? Stay here a minute; you have not even heard the route.\"\nKeith shifts into the open gateway.",
+      "body_utf8_sha256": "2a0415e7324da46c18a73056903a8a7821395f1fa72c3a2ec68b9b3f27829bd0",
+      "body_words": 29,
+      "first_response": true,
+      "regeneration_count": 0
+    }
+  ],
+  "total_first_bodies": 4,
+  "total_regenerations": 0
+}

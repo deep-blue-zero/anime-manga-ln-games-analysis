@@ -4,7 +4,7 @@ artifact_type: corpus_map
 scope: FULL_MAIN_SERIES
 generation: V1
 status: canonical
-source_boundary: WIZCOHORT01 scoped Tier3 semantic receiving/publication pending; Iris-Yunyun-Vanir gates closed; all17mainexcluded/19supplemental/5mixed declared source gates closed; fullcensus/synthesis/versionedmodels/curation/release active
+source_boundary: Cohort25 semantic receiving complete; exact publication pending; candidate33models,223nonfinal records; full KonoSuba program active; percentage null
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,14 +17,14 @@ project_initialization:
   source_reconnaissance_complete: true
   required_ledgers_initialized: true
   sequential_analysis_lock: open
-  next_permitted_operation: EXPANDED_WIZCOHORT01_PUBLICATION_GATE
+  next_permitted_operation: EXPANDED_SECONDARY_CENSUS_AND_EXPANDED_SYNTHESIS
 sequential_execution:
   mode: continuous_sequential
   unit_type: volume
   authorized_start: V11
   terminal_boundary: V17
   committed_high_water_mark: V17
-  next_candidate_operation: EXPANDED_WIZCOHORT01_PUBLICATION_GATE
+  next_candidate_operation: EXPANDED_SECONDARY_CENSUS_AND_EXPANDED_SYNTHESIS
   confirmation_between_units: false
   run_state: active
 ---
@@ -44,7 +44,11 @@ The project is not primarily a plot-summary project and is not satisfied by trai
 ## 2. Current authority state
 
 <!-- CURRENT_OPERATION_START -->
-**Wiz cohort04 is semantically accepted at a scoped Tier3 boundary; its exact publication gate is next.** The [monograph](05%20Specialist%20Synthesis/KONOSUBA_WIZ_CHARACTER_MONOGRAPH.md), [model](06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_WIZ_RECONSTRUCTION_MODEL.md), [index](08%20Evidence%20and%20Indexes/KONOSUBA_WIZ_EVIDENCE_INDEX.md) and [receiving](09%20Audits%20and%20Manifests/KONOSUBA_WIZ_COHORT_01_RECEIVING_AND_PROVENANCE.json) govern uptake. Seven rules and eight actual same-author first responses/four contrasts retain adverse and underidentified branches, with no source/independent score or confidence gain. [Coverage](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md) and the [structured census](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json) retain150qualified rows, not a final population. Earlier Iris/Yunyun/Vanir models and gates stay exact; the [Vanir gate](09%20Audits%20and%20Manifests/KONOSUBA_VANIRCOHORT01_PUBLICATION_GATE_CLOSE.json) is closed at90fb18d5. All17mainexcluded/19supplemental/5mixed source programs retain closed declared scopes. Full individual census/earned artifacts, expanded synthesis/versioned principal-party-transfer models, designated curator enrollment/integration and component/release/final-entry audits remain active. Global percentage stays null; no MAIN18.
+**Cohort25 is semantically received; exact containing publication is pending. The full KonoSuba program continues.** Sylvia has a scoped [Tier2 monograph](05%20Specialist%20Synthesis/KONOSUBA_SYLVIA_CHARACTER_MONOGRAPH.md). Three Tier1 profiles for the current Crimson chief,Moguninnin and an unnamed MASK castle courier are consolidated in the [existing coverage audit](08%20Evidence%20and%20Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort25-chief-trial-machine-and-castle-courier). The [index](08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX.md), [native provenance](08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_NATIVE_PROVENANCE.json) and receiving record own exact findings and publication limits.
+
+All33models/27scoped secondary model subjects remain unchanged. Candidate coverage is30bounded profiles,10monograph-only subjects and223nonfinal records; four new group/reported-role/courier records are not four proved new people. Thirty-five complete known-source windows cover2,122BASE context slots/19members/9native text objects,including blanks,other actors and rejected joins. No new whole-source,ruby,residual,image-set,admission,independent test,model,rule,input,first body or hypothetical pair is added.
+
+Sylvia revises some threat beliefs while retaliation and repeated feints contribute to costly errors. Limited reciprocity does not cancel coercion. Chief own acts remain distinct from daughter/institution reports and unproved office transfer; machine original control versus attributed later interference remains underidentified. A courier reports adverse facts and actually leads while earlier fights remain reports. Earlier cores/firsts,four scores,14Dust blanks,28SI/SY null fields and80unrelated scratch files are preserved. Cohort24 full447-test source/HK/final gate remains closed at bb4de2bd0c6dfad9d4134f73ac9312339d02cb08; seven precise later progress paths are carried here. PR262 remains the ongoing continuation review. Current main has been ordinarily reconciled locally; publication checks remain due. Full census/earned artifacts,seven expanded specialists,extended/full-series synthesis,six distinct StageD successors and designated curation/evaluation/integration/component-release/final-entry work remain open; percentage null.
 <!-- CURRENT_OPERATION_END -->
 
 The main17 principal readings/checkpoints, main-only specialists, MAIN_ONLY_R1 reconstruction/diagnostic suite, main-principal evidence indexes and four designated holdout-principal assessments are accepted. Their historical derivation, original forecasts, adverse findings and frozen bytes remain separately authoritative at their original boundaries. They are not a substitute for outstanding edition components, expanded synthesis or revised models.
@@ -97,7 +101,7 @@ Historical early checkpoints cited some illustrations and a V03 afterword, witho
 
 The four mandatory principal subjects remain Satou Kazuma, Aqua, Megumin and Darkness, with party interaction and cross-context transfer as separate model responsibilities. Current main-only specialists remain in `05 Specialist Synthesis`; current main-only models/evidence remain in `06 Character Modeling and Reconstruction`. No new empty architecture layers or parallel project roots are required.
 
-The authorized remaining work is sequential whole-edition supplemental reading, the17 main excluded-component programs, expanded synthesis and source-plane reconciliation, revised principal/party/transfer models and qualified secondary work, synchronized evidence/locators/indexes, and final source/authority/release audit. A completed book or recovery milestone does not end this program. Each next source retains separate admission and receiving gates; a warm ending or paid task does not imply complete causal repair, full consent or model success.
+All declared supplemental, mixed/reference and main excluded-component source programs have closed their stated publication gates. Remaining work is the full individual secondary census and event joins, earned monographs/models/bounded profiles, expanded specialist synthesis, separately versioned principal/party/transfer revisions, synchronized evidence/locators/indexes, designated curation/integration and final source/component/authority/release audits. Any later source operation still requires its applicable admission and receiving gates; none is opened by this paragraph. A character cohort or recovery milestone does not end the program, and a warm ending or paid task does not imply complete causal repair, full consent or model success.
 
 ## 7. Core analytical commitments
 

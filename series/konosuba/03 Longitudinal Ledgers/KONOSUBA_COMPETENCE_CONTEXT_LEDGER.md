@@ -1345,3 +1345,159 @@ MAIN07C5P227explicitly disclaims seeing everything; failed affectivejokeP234–2
 
 ## WZ-C01 — a strong specialist with finite means
 MAIN04C5P416–455 shows actual freezing; P502–504 selective pipe cutting; P522/P565/P588 state mana limits. P611–648 separates authorized casting supply from later vitality support, and P663 loss of expected Teleport. MASK scroll/barrier function does not validate target assumptions. MAIN02's synchronized Explosion/transport routes are currently derivative. No new whole-source pass, unobserved technical domain or unlimited healing is granted.
+
+
+## CE-C01 — skill survives local failure and resource limits
+MAIN12 FinalP131/P136–141 shows a strength failure and accepted physical help; P169–182 preserves a failed door attempt and face-saving error. Actual sensing/stealth P194–200 does not avert capture P209. P334/P344 shows wing/nail work while P347–350 cannot cut mithril. MAIN17 C3P209/216/221/271 shows distinct buffs and P397–402 voice/last blessing without a newly shown body transformation. Specialization is useful without universal capacity.
+
+
+## DUST-COHORT06-C01 — real skill requires actual means and other providers
+
+Dust can change geometry, materials, information and provider arrangement; DUST02 Final's stop depends on distinct rope/shield/cut/spear/Lightning contributions. DUST07 and DUST-CONT preserve real partner roles, class/body/equipment limits, failed recovery and chance. The DUST-CONT shared-sense mechanism first disclosed at U013P294 is not an earlier accessible ignored cue. A physical penetration, successful deception or chosen attack does not itself prove completed rescue/recovery. Technical capacity does not certify permission or ethical treatment. No modern expertise or solo remote-victory knowledge is imported.
+
+
+## Komekko cohort07 source-informed consolidation — 2026-10-20T03:13:02.170207+00:00
+
+Source-known admitted EXP01/02 and MAIN05/11/14; eighteen actual image-prose pages and1,602bounded BASE member slots, not new whole-source/ruby/independent credit. The [Komekko index](../08%20Evidence%20and%20Indexes/KONOSUBA_KOMEKKO_EVIDENCE_INDEX.md) owns exact ranges/event joins; older entries remain historical at their original scopes.
+
+| Record | Acting subject and exact route | Current uptake | Limits |
+|---|---|---|---|
+| K07-CC01 | Komekko with Hoost/Megumin/Kazuma/Yunyun; EXP01IMG026-039/U043P364-366;MAIN05U027P677-697;MAIN11F55/Ep96 | Specific puzzle skill, vocabulary/reading questions, harmful attempted carrying help and poor causal explanation coexist. Kazuma understands/aims, Megumin charges and Komekko notices/pulls the trigger. | No measuredIQ, sole weapon authorship, universal strategist or demonstrated controlled devil summoning. Adult future talent appraisal remains testimony. |
+
+
+## Hoost cohort08 source-informed consolidation — 2026-10-20T04:07:47.235077+00:00
+
+Source-known admitted EXP01/03: prior eighteen actually read integral image-prose pages reused,1,172unique EXP03 BASE slots/five members newly received, thirteen selected ledger rows/seven files. No fresh EXP01 pixel pass, whole-source/ruby/image/independent credit. [Hoost index](../08%20Evidence%20and%20Indexes/KONOSUBA_HOOST_EVIDENCE_INDEX.md) owns event joins and exact return scopes; previous entries remain historical.
+
+| Record | Acting subject and exact route | Current uptake | Limits |
+|---|---|---|---|
+| H08-CC01 | Hoost with Komekko/Yunyun/Rex crew; EXP01IMG027-039;EXP03U026P539-598/U034P315-388 | Great physical capacity coexists with puzzle dependence and incomplete inscription. Close scent and local correction work; mana-backed fighting, cancelled Inferno and real enhanced-Paralysis defeat show condition-dependent competence. | Flash outcome and actor virtual-body explanation are local, not universal immunity. Exact initial knockdown technique unknown to Megumin; full-strength Explosion survival only a counterfactual claim. |
+
+
+## Cohort09 — task-specific competence and perceived control — 2026-10-20T06:09:56.297297+00:00
+
+| ID | Source/context | Competence actually supported | Limit |
+|---|---|---|---|
+| L09-CC01 | MAIN10C3P529–578/C4P139–197/247–284;DUST04U014P124–131/223–264/339–418 | Levi understands some reciprocal stakes, identifies a new political exposure, can refuse provocation and recognizes exceptional collateral value. | Advisers supply identity knowledge; coin scope and maximum-card exception defeat his appraisal. Cheating admission confirms no exact inferred marking method or universal honest expertise. |
+| L09-CC02 | EXP03U013P148–265/362–498 | Raizu shields, Raina throws knives/warns, Ain adjusts geography, Rod fights/revises, Tomas heals/detects scale, Jack supplies ranged kills. | One underlying trial sequence is not six tests of a shared persona; refusal can concern practical fit after real recognized talent. |
+
+Known admitted-source retrospective consolidation; no new source admission, whole-source/ruby/image/independent-test credit. Exact earlier ledger bytes remain the prefix. Frozen forecasts, failures, scores and blank/null fields remain unchanged.
+
+
+## Cohort10 — skill, information and exported danger — 2026-10-20T06:58:02.053067+00:00
+
+| ID | Source | Supported capability and limit |
+|---|---|---|
+| N10-CC01 | MAIN17U011P403–591;DUST07U013P205–260 | Nos's strong guard/attack and actual trap inference coexist with voice deception and failed expected resistance. Missing armor changes defense; exact enchantment mechanism remains Aqua hypothesis. Lightning briefly affects him without deciding combat. |
+| N10-CC02 | MAIN17U011P560–586 → DUST07U013P205–254 | Kazuma removes the immediate opponent and states a police destination; later actual injured police require Dust intervention. Institutional title is no proof of safe adequate handoff; later jailing remains unshown. |
+| N10-CC03 | MAIN03U017P566/630–633;MAIN16U023P14–50 | Reported impressive Aqua performance affects livelihood/crowd expectations; Pierre actual act and attempted correction have local costs. No independent career ranking, permanent career collapse or verified helper destination. |
+
+Retrospective known-source consolidation; exact previous ledger bytes remain the prefix. No new whole-source/ruby/image/admission/independent-test credit or changed historical forecast, score or blank/null field.
+
+
+## Cohort11 — capacity, condition and safe execution — 2026-10-20T08:11:12.082088+00:00
+
+| ID | Source return | Supported distinction |
+|---|---|---|
+| R11-CC01 | MAIN06 C2P120–138; MAIN10 C2P116–124 | Claire rapid alarm response and actual levitation coexist with office limits. Later suppression announcement supplies no solo-victory certificate. |
+| R11-CC02 | DUST03 U013P208–248/319–348 | Claire uses a class proxy without armor; Rain hesitates to avoid hitting her and later lacks equipment. No failed Rain cast or global low competence. Yunyun actually rescues; Dust deliberately blocks earlier available aid. |
+| R11-CC03 | MASK U015P288–360; MAIN11 C1P535–544/603–620; DUST03 U014P270–339 | Protective waiting, actual encirclement/transfer preparation and direction correction are useful work. Disguise success depends on cues, means and distraction; no omniscient or uniformly incompetent retainer. |
+
+Known admitted-source consolidation; prior ledger bytes remain the exact prefix. No new whole-source/ruby/image/admission/independent trial or changed frozen forecast, score, first body or blank/null field.
+
+
+## Luna cohort12 — own work, relief, pressure and boundaries — 2026-10-20T08:58:31.797980+00:00
+
+Luna's skill is discriminating and finite. MASK U017P10 requests actionable location information, P13 prevents a false penalty, P93 separates institutional remains disposal from a personal preference, and P172/P178 delegates concrete remedies. Instructions are not observed completion. P316 describes force and suspension limits without proving every alternative exhausted.
+
+MAIN11U015P131 explicitly recognizes Kazuma frontal weakness while insisting on particular suitability. P515 says the original assignment was investigation, not every later killing. DUST07U013P114-126 actual guild-vault ten-million commitment obtains assent and attack; no unlimited private budget follows. YORI04U014P488-516 task-specific night capacity and retirement acknowledgment differ from a universal obligation to serve. Local accurate selection can coexist with imposing costs; helpfulness is not ethical reliability or a generative capability grade.
+
+
+## Cecily and Zesta cohort13 — scoped receiving; containing publication pending
+
+Zesta actual Reflect EXP02U038323-326, Dispel CONTEXP02U018381-382, sacred/undead clearing DUST04U013336-378, Heal417-418 and useful spear supply430-434 coexist with cell-suppressed antidote assurance217-248, dangerous throw432 and failed goal control during harassment375. Dust owns the vault/head-letter defeat439-441. MAIN16 first manticore flees without new cast; another is Mitsurugi/Aqua kill; horse and Teleport limits remain finite. Cecily actual stock sold CONTEXP01U015253, correct holy-water change CONTEXP02U018171-176 and actual Blessing393-394 do not certify product safety, reliable threat appraisal or broad consent. K cooking/negotiation, Yunyun combat and clerical reporter initiative are independent contributions.
+
+
+## Cohort14 clergy and merchant bounded returns — 2026-10-20T11:12:02.861945+00:00
+
+Arcanretia Eris priest actually casts Powered and throws Cecily/punches Zesta to escape restraint(CONTEXP02U016P464–467). This is usable local capacity, not universal readiness or proof she could anticipate the ambush. Axel priest's healing/food work is an own report, not fresh performed healing(CONTEXP01U015P331). Chair's unavailable fireworks caster is a reported practical constraint(MAIN08U014P282–299); Darkness grants later permits. Guide gives useful directions/horse information while road-clearing kills remain absent actors' reported work. Capability, access, actor and deployment stay separate; twenty models exact. See [event index](../08%20Evidence%20and%20Indexes/KONOSUBA_CLERGY_AND_MERCHANT_EVIDENCE_INDEX.md).
+
+
+## Cohort15 Leen, Keith and Taylor — 2026-10-20T13:11:28.160162+00:00
+
+MAIN02 Leen Wind Curtain is performed, while Kazuma owns water/freezing and final escape; her scouting advice is ignored. Keith sees the returning threat before Enemy Sense, without a printed Farsight cast there. Taylor sword/cover is real and finite. DUST07U012P771–790 gives a damaged shield, four blocked arrows and a performed Fireball that hits without finishing. Feit/Dust own saving flame and apparent decapitation; Leen later public saving-cast claim is a cover, not another cast. Freeze GustU013P609–616 actually slows a different red-dragon target, with surprising effect; Dust weakening hypothesis is not Leen prior plan. CONTU014P438–440 gives spear/staff delivery, with staff procurement unknown. Capacity, access, attempt, effect and readiness stay separate.
+
+[Leen event index](../08%20Evidence%20and%20Indexes/KONOSUBA_LEEN_EVIDENCE_INDEX.md), [Keith event index](../08%20Evidence%20and%20Indexes/KONOSUBA_KEITH_EVIDENCE_INDEX.md), [Taylor event index](../08%20Evidence%20and%20Indexes/KONOSUBA_TAYLOR_EVIDENCE_INDEX.md). These are actor-specific retrievals of shared known episodes, not new independent observations or a completed global census.
+
+
+## Cohort16 Lolisa, Rionor and Feit — 2026-10-20T14:52:18.145824+00:00
+
+Lolisa’s actual Sleep aid DUST02C02P642-647,keys/arrival DUST04U013255/294-298 and later information work are bounded skills; Paralyze summary or a successful lure is not a newly watched named cast or universal control. Her confident Duke appraisal fails DUST05U010395-410. Rionor’s reported magic on Leen does not become a watched named Sleep; Dust infers that name CONTU01438. Her later bracelet intervention is actual,with collateral cost. Feit’s specific low-flight nod CONTU014P476 and actual turnP485 differ from detailed plan knowledgeP479; familiar flame cooperationP496-500 is not adult strategic autonomy.
+
+Individual retrieval: [Lolisa](../08%20Evidence%20and%20Indexes/KONOSUBA_LOLISA_EVIDENCE_INDEX.md),[Rionor](../08%20Evidence%20and%20Indexes/KONOSUBA_RIONOR_EVIDENCE_INDEX.md),[Feit](../08%20Evidence%20and%20Indexes/KONOSUBA_FEIT_EVIDENCE_INDEX.md). Shared [native provenance](../08%20Evidence%20and%20Indexes/KONOSUBA_LOLISA_ROYAL_DRAGON_NATIVE_PROVENANCE_01.json). Exact containing publication remains pending; full program continues.
+
+
+## Cohort17 Wolbach and Chomusuke — 2026-10-20T16:06:56.617701+00:00
+
+Wolbach’s actual early Explosion/draining,reported repeat siege tactic and directly printed Teleports have different access. Her finite method is defeated by Aqua/helpers’ actual wall repair MAIN09F54-99 and copied raids. A faded hand502 is visible; full absorption mechanics504 remain her account. Chomusuke’s escape EXP02U044555 does not prove safe controlled flight: Yunyun catches559. MAIN15Pr29 explicitly averts Kazuma’s gaze during Aqua’s present fire report30; preserve earlier separately accessed capabilities without inventing this as a watched cast. Head contact/claws/fish-taking are actual small-body means,not complete divinity proof.
+
+Individual [Wolbach](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_EVIDENCE_INDEX.md) and [Chomusuke](../08%20Evidence%20and%20Indexes/KONOSUBA_CHOMUSUKE_EVIDENCE_INDEX.md) indices; [shared provenance](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_CHOMUSUKE_NATIVE_PROVENANCE_01.json). Exact containing publication pending; full program active.
+
+
+## Cohort18 Sena and Arnes — 2026-10-20T17:14:33.263380+00:00
+
+Sena’s notes,adventurer coordination,seal supply and awards differ from personal combat. She protests civilian bait MAIN03C2P160; the seal is intended for a circle C4P100-103. Kazuma himself applies it to an occupied mask425; Sena later objects514. Arnes actually pays finite money,catches the creature,casts and disables guards,then is defeated at manifested-body scope; her right depletion inference EXP02U044P387 coexists with wrong inability inference397/435/440. MAIN03C2P50 separately supplies a directly watched Chomusuke fish-roasting flame; unlike MAIN15PrP29-30,not averted gaze/present report. This later receipt does not repair frozenC17cores or backdate its preparation.
+
+
+## Cohort19 Rex, Sophie and Terry — attributable update
+
+Rex greatsword charge/warning,Sophie spear support and Terry’s actual interception/time buying combine with Yunyun’s Sleep (R09-R10/S05/T03); none owns the whole capture. Hoost’s sudden defeat does not erase that earlier work. Limited healing/apparent fracture,left-handed sword throw,finite magical items and self-including paralysis separate capacity,access,readiness,deployment and result (R11-R16). The capital offer explicitly finds a setting for one daily shot (R19),not unlimited magic.
+
+Known EXP03/CONTEXP02 BASE returns only:1,556 distinct context slots/six members/two native objects,including blanks,other actors,reports and hypotheses; no fresh whole-source,ruby/image,admission,independent decision,accuracy or confidence credit. Current claims route to `CR-SECONDARY-COHORT19-001` and the shared crew index/provenance; exact containing publication remains pending.
+
+
+## Cohort20 — individual village peers and attributed writer correction
+
+MAIN11 C3 P69/93–95 shows a performed child escort. P153 is Funifura's actual task-fit exclusion; P155–156 is Dodonko's report that both learned upper magic and were called. Qualification/call-up, readiness, actual casting and battle outcome stay distinct. Village practice and favorable later news do not supply new individual feats. EXP01 U023 weapons are light props, while Arue actually strikes the lizard.
+
+EXP02 U023 P414–440 separates Funifura's actual staff handover, Arue-reported father manufacture/material collection and Dodonko-reported medicine work; no fresh cure or workshop is watched. Nerimaki supplies food and milk, but publication/pay/novelist work belongs to Arue. Collateral C02 retains actual finite spells, manual harvest/wages and denied employment access without equating these states. [village-peer index](../08%20Evidence%20and%20Indexes/KONOSUBA_VILLAGE_PEERS_EVIDENCE_INDEX.md) owns the bounded locators; no frozen model is revised here.
+
+
+## C20-CR04 — apparent potion effect and actor attribution
+
+REVISE the reading of Dodonko-reported medicine work in the cohort20 tail: EXP02 U023 P433 reports that the potion Megumin made apparently worked very well. This is a participant report of effect, not Dodonko production, ingredient labor, patient treatment or occupational competence. EXP01 U037 P93–98/P113–122 actually assigns preparation assistance to Arue with Megumin. P433 speaking identity is a contextual join in the Funifura/Dodonko exchange; the line lacks a narrator name-tag. The [medicine-attribution erratum](../08%20Evidence%20and%20Indexes/KONOSUBA_VILLAGE_PEERS_MEDICINE_ATTRIBUTION_ERRATUM_01.md) preserves the prior wording as history and qualifies current retrieval. No independently watched cure or new ability trial follows.
+
+
+## Cohort21 — separate agency, conditional models and attributed revision
+
+Arue's large sword is a light prop, not a newly demonstrated strengthening feat. Her actual strike finishes against an already immobilized lizard; the card number is not watched. Her recipe assistance, Megumin's potion production and participant testimony of apparent effect remain separate. Her later upper-magic learning is reported, not a new performed cast. A05-A09 in the [individual A/S/B/I index](../08%20Evidence%20and%20Indexes/KONOSUBA_ARUE_SOKETTO_BUKKORORI_EVIDENCE_INDEX.md) preserve the boundaries.
+
+Soketto actually supplies wind-assisted landing, Lightning Strike and water protection. Bukkorori's concealment, saber, unsafe fire, intrusive Tornado and real Teleport retain their own effects and limits; collective MAIN05 disappearance is not his solo Teleport feat. Useful kills/escape do not certify a safe operation. The [bandaging erratum](../08%20Evidence%20and%20Indexes/KONOSUBA_SOKETTO_BANDAGING_ATTRIBUTION_ERRATUM_01.md) assigns current bandaging to Yunyun and does not establish a healing spell. A father's care promise and a departure operator's claimed four-person local capacity are not the son's skill or a universal magic law.
+
+
+## Cohort22 — Mitsurugi and separately bounded companions
+
+The [cohort22 M-series](../08%20Evidence%20and%20Indexes/KONOSUBA_MITSURUGI_COMPANIONS_EVIDENCE_INDEX.md) qualifies Mitsurugi's real force rather than treating repeated comic losses as a global capacity judgment. MAIN01's parry and Gram-assisted strength, MAIN16's manticore kill after Aqua support and MAIN17's direct attacks/Rune of Saber have different supporting conditions. Rune of Saber is not Yunyun's Light of Saber. Newspaper rank is capital-active and limited; Eris's dungeon comparison is counterfactual, not a completed comparative trial.
+
+MAIN06's decoys address a known Steal risk, while a frozen scabbard and water/Freeze exploit a different gap. Specific preparation is not immunity or successful general transfer. Gram loss changes access, a hostage changes deployment costs, enemy Teleport changes reach, and exhaustion changes readiness. FD's Ancient Dragon claim is his report; missed strike/ground collapse/exhausted return are actual novelization action, not unqualified new main feats. Dust's orc aftermath supports contextual attribution without a watched full stroke sequence. Earlier healing, later injury, urgent transport and unshown final treatment cannot be collapsed into one recovery state. The two companions' equipment/group roles supply no complete individual skill tree or solo kill count.
+
+
+## Cohort23: finite household control, reported craft and performed teaching
+
+[cohort23 individual index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_PARENTS_TEACHER_EVIDENCE_INDEX.md) YY05-YY12 separates actual Sleep/AnkleSnare, heard Lock and later attribution from unshown repeated casts. MAIN14 Darkness withstands Sleep and Paralyze; Yuiyui is surprised and changes means, while Darkness later reports being neutralized by an unnamed method. Failure and later finite success both remain. The drinking challenge ends with Yuiyui also asleep; no winner, kept promise or accomplished arrangement is shown. Household alarm unlocking and reported fetching help are not a watched solo rescue. A material-gathering invitation and reported overnight absence are not an observed haul.
+
+HY06-HY10 distinguish Megumin's craft/cost reports, Chekera's comparison, Wiz's favorable report and editorial synopsis from a watched workshop inventory, completed sale, cash receipt or later device purchase. Poor practical fit is not absence of magical power; hypothetical alternate uses do not prove commercial success. PC03-PC14 retain actual rank rewards, practical teaching, weather display, frozen targets and CursedLightning intervention. Props exposed as plated wood do not prove giant-metal strength. Arue kills the immobilized lizard; the teacher's attributed restraint is not his kill. No watched joint-principal repair cast, precise rescue delay, individual reserve spell or comprehensive safety control is added. Capacity, access, readiness, deployment, cost and aftermath remain distinct.
+
+
+## Cohort24 — Crimson village work and staff, source-known scope
+
+Chekera performs infusion/two freezes and changes a failed trial; control advice is not verified training success or a safe-process guarantee. Blacksmith furnace/quality/client claims are reports, not observed manufacturing/test/delivery. School measurement is not independent clinical validation; potion ingredient planning/lure offer is not completed hunt/tasting. Farm plowing, seed scattering and weather are three separate performed abilities; handed wages and finite resource/season limits remain distinct (CC02-CC03,BS01-BS03,ST01-ST02,PO01-PO02,FA01-FA03).
+
+Exact locators and access: [cohort24 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_TRADES_STAFF_EVIDENCE_INDEX.md). The shared known-source union is 1,149 BASE slots/7 text members/4 text objects, including context, blanks, other actors and rejected joins; no fresh whole-source, ruby, residual, image-set, admission or independent validation credit. Earlier models, scores, firsts and prospective missingness remain unchanged. Canonical receiving is complete for this candidate only; exact containing publication/full program remain pending.
+
+
+## Cohort25 — chief, Sylvia, trial machine and castle courier
+
+Sylvia catches an ordinary weapon and later improves movement after fusion,but prepared barrier equipment fails at a nonmagical lock. Holy attack causes a pain response in the earlier body; later resistance is not universal immunity. A failed tail shield is still a defense. Megumin supplies Explosion energy,Kazuma aims and Komekko pulls the trigger. The chief actually casts then fails against one armor; Moguninnin remains mobile after component theft. Capacity,access,activation,delivery and observed outcome stay separate.
+
+Exact locators and access: [cohort25 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX.md). This source-known scope adds no new whole-source,ruby,residual,image-set,admission or independent validation credit. Earlier models,first bodies,scores and prospective missingness remain unchanged. Canonical receiving/publication is pending for this candidate; the full KonoSuba program continues.

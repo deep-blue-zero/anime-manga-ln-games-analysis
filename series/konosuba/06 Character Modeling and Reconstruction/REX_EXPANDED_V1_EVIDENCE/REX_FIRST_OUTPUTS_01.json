@@ -1,0 +1,54 @@
+{
+  "schema": "konosuba.secondary.actual-first-outputs.v1",
+  "saved_utc": "2026-10-20T17:57:59.893610+00:00",
+  "subject": "Rex",
+  "author": "Continuing informed root AI,also model author/case designer/assessor; English actual first saved bodies authored directly here,no external generation service or independent author.",
+  "input_file": "REX_SCENARIO_INPUTS_01.json",
+  "input_sha256": "35cc1a946838e71726b76a79207439f42cf6a105e116c4f9e498021f5a40561f",
+  "exact_input_freeze_sha256": "c8018583583a970f6010133cb5eb87ab8623945d5b854470cb057b9907f75812",
+  "output_count": 4,
+  "outputs": [
+    {
+      "case_id": "RX-H01-A",
+      "input_sha256": "30f3cfb3b924d1c793aacb215c9b73f3a646d477af49698d3cffe5855150c0db",
+      "body": "“All right, all right. I watched you do it. That wasn’t all talk, and I was out of line yesterday. Happy now? Don’t start telling me you can run some enormous festival rig, because I still haven’t seen that. But this setup? Yeah, you can help. You’ve already done more with it than standing around arguing would get us. We’ve got twenty minutes, so stay here with me and we’ll check what still needs doing. And next time, say you do know the basic stuff before you let me make an idiot of myself.”\n\nRex steps aside from the mixer.",
+      "body_sha256": "08380f9939a30a2f69ba0087f69d58af6f976a5d0e4052d36097df3e04f05f98",
+      "word_count": 100,
+      "regenerations": 0,
+      "repairs": 0
+    },
+    {
+      "case_id": "RX-H01-B",
+      "input_sha256": "f6d54717309927047140ab741c859028b561174eb18ede5f880dc899e84fdcaa",
+      "body": "“The speakers work, sure. I can hear that much. I didn’t see who connected them, though, so don’t expect me to start handing out medals because you say it was you. Doesn’t mean I’m calling you a liar. You want to help? Show me how this thing’s connected, then. Basic setup, basic explanation. If you know your way around it, we can get on with the job instead of having this argument all afternoon. And don’t get that look—yeah, maybe I jumped on you too quickly yesterday.”\n\nRex points at the printed wiring plan beside the mixer.",
+      "body_sha256": "6922adecad897ad752b67cebe27fa7226d4ea69d0f0aaa28a2d07f017d5bb61a",
+      "word_count": 97,
+      "regenerations": 0,
+      "repairs": 0
+    },
+    {
+      "case_id": "RX-H02-A",
+      "input_sha256": "14212865ab134280e985932231aa08da942b631ebd3c345303d7f46181fa2284",
+      "body": "“You’re turning down a chance like that to stay here? Hah. I knew you liked this place, but I didn’t think it had you tied down that tight. Still, you heard the offer. I’m not going to keep explaining nine minutes at you like you can’t count. Shame, though. That solo of yours would have made people look up, and I’d have enjoyed seeing their faces. All right, stay with your lot. We’ll go make some noise without you. Try not to look too surprised when you hear our name coming back.”\n\nRex gives Jules a crooked grin.",
+      "body_sha256": "881b5800e61eeb0fba08d5a7b398ac6874a52ffccdc69e17ac874dbcc0d3803b",
+      "word_count": 98,
+      "regenerations": 0,
+      "repairs": 0
+    },
+    {
+      "case_id": "RX-H02-B",
+      "input_sha256": "766c951b4e36a03698e2dcc1bcd4d69a99bf560d3d1d3c42e86fdef1d8ab54cb",
+      "body": "“Would you be any use? What do you think I asked you for, three days of standing behind us? Nine minutes, Friday, ten past six. That’s the bit I want. You get up there, play that solo, and let us deal with the rest of our sets. I’ve heard what you can do; I’m not asking you along to fill an empty chair. If you want that slot, say so. We can sort the actual arrangements after that. But don’t talk yourself out of it because you can’t hang around for the whole festival.”\n\nRex spreads his hands.",
+      "body_sha256": "1eda093f58f8e2f4351203f07730c3682fac1f4a7c979c11db510213e7882c40",
+      "word_count": 98,
+      "regenerations": 0,
+      "repairs": 0
+    }
+  ],
+  "regenerations": 0,
+  "repairs": 0,
+  "first_saved_not_zero_anticipation": "General directions and response ideas anticipated; no earlier saved alternate bodies. These exact body bytes are first saved and will not be repaired.",
+  "source_known": true,
+  "independent_accuracy_or_confidence_gain": false,
+  "full_program_complete": false
+}

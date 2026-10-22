@@ -2,12 +2,12 @@
 title: Manga / Anime Project Initiation and Architecture Policy
 artifact_id: MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY
 artifact_type: project_initiation_architecture_policy
-version: 1.7
+version: 1.9
 status: canonical
 generation: V1
 scope: corpus-wide analytical project initiation and architecture governance
 created: 2026-08-27
-last_updated: 2026-10-15
+last_updated: 2026-10-20
 maintainer: ChatGPT + user
 source_boundary: "Corpus-wide governance for new and existing anime, manga, light-novel, novel, game, and related analytical projects"
 supersedes: null
@@ -284,13 +284,33 @@ The activation baseline remains immutable and continues to govern architecture a
 
 For a governed admission, the existing structured fields must agree: an OPEN lock, `run_state: active`, matching nonempty `next_permitted_operation` and `next_candidate_operation`, the continuation policy's mode, and recoverable `authorized_start` and `terminal_boundary`. A single-operation run has the same start and terminal unit. A completed run records both next fields as `NONE` or an uppercase `NONE_` token. Blocked, interrupted, missing, malformed or contradictory run state cannot admit a reading. Recognized run declarations in front matter and independent YAML fences must agree; deleting the execution block does not remove the check.
 
-A final admission transaction may record `complete` or `completed` when main already records the run active with consistent next operations and bounds, the candidate preserves its mode/start/terminal boundary, and its committed high-water mark reaches that terminal boundary. Otherwise publish the reading under truthful active state and record completion after acceptance. This is an existing run's completion, not an authorization to extend it.
+A final admission transaction may record `complete` or `completed` when main already records the run active with consistent next operations and bounds, the candidate preserves its mode/start/terminal boundary, and its committed high-water mark reaches that terminal boundary. A run completed on its source branch before publication may instead use the portable completion proof below. Without either route, publish under truthful active state while the run is active and record completion after acceptance; never relabel an already completed run to manufacture admission. These routes preserve an existing run's completion and do not authorize extending it.
+
+#### Completed source-branch publication
+
+An authorized source branch may publish its completed run in one batch using its own `.repository/completed-run-publication.json`, schema `anime-manga-ln-games-analysis/completed-run-publication/v1`. This is optional integrity evidence, not a new permission, a closure seal, a terminal-boundary amendment, or an exception to source review. It requires no project-specific global allowlist. Existing run-stop and terminal seals remain independently enforced.
+
+The proof names the registered project root and canonical entrypoint, the exact completion commit and its direct active first parent. It carries their original textual Git commit objects, the tree nodes needed to resolve both entrypoints and the complete completion-time project tree, and historical Markdown blobs unavailable from exact candidate bytes. Every included commit, tree and blob is checked against its Git object hash; missing, malformed, substituted or contradictory evidence fails closed. The validator reconstructs all completion-time project Markdown to classify the full historical reading set, rather than trusting a declared reading list or an arbitrary active ancestor. The completed entrypoint must pass the ordinary active-to-completed transition check against that parent, and its operational fields must exactly agree with the current entrypoint.
+
+The complete current reading set and bytes must equal that historical completed set. Added, removed, retyped, nonregular or altered readings cannot be laundered through an older completion proof, even if the proof is regenerated. Unrelated retrospective ledgers, syntheses and other nonreading changes may proceed while preserving the historical blobs needed for classification. A proof is consulted only when main records no run or a consistently completed one. It never overrides the bounds of a run already active on main, which completes through the ordinary route even while an earlier proof remains tracked, and never bypasses a blocked, interrupted, malformed or contradictory run state on main. A later authorized active run uses the ordinary active admission route; an old proof grants it no source authority.
+
+`tools/completed_run_publication.py` exports this text-only proof from available Git history and a candidate worktree. Review it with the exact publication candidate and run ordinary author preflight. A squash merge can discard source-history ancestry and object availability; the self-contained, hash-checked evidence permits the same validation in a fresh post-squash main audit without network retrieval, writing Git objects, moving comparison refs, or trusting a prior success flag. Original history remains recoverable through the source branch and publication backup. Missing proof objects still fail closed even if an unbound object happens to exist locally.
 
 No-admission changes preserve accepted historical readings and permit retrospective claim revisions, syntheses and reconstruction. Existing inconsistent operational metadata need not be rewritten for an unrelated correction: consistency is checked when its operational fields change or admission is attempted. Mature legacy roots without structured run declarations retain their established architecture route; adopting or changing a declared run must be truthful. An existing CLOSED or terminal closure still enforces all its seals and final source boundary independently of this delta check.
 
 These checks establish machine-readable consistency, not owner approval or semantic source-range membership. Before executing, recover the current owner instruction and its permitted units from the existing run/checkpoint or handoff record under continuation Sections 3-5 and 12; a next-operation label or agent-written `active` field is not permission. Source-inventory membership, unit identity, and whether a declared operation actually falls within a prose or live-service boundary still require source-grounded review. The local check trusts the fetched main ref; the protected exact-head audit supplies the provider-controlled context. Do not replace that ref, shift the activation baseline, or change classification to conceal an admission. No new authorization ledger or signature system is created.
 
 ---
+
+### 3.9.5 Retrospective publication of an independently frozen generation
+
+Publishing an already completed, independently frozen **noncurrent** generation is distinct from admitting another primary narrative unit. A generation label or `draft_noncurrent` status alone never establishes this distinction. Where ordinary project-local run/closure mechanisms cannot represent the import without misstating another generation's execution, the owner may first merge an exact `frozen_generation_publications` binding into `governance/repository-controls/project-initiation-gate.json` through the separate reserved governance route. A binding added on the publication candidate itself has no admission effect.
+
+The binding identifies the registered project and its unchanged single canonical entrypoint, publication-only subdirectories, the exact publication-manifest SHA-256, immutable original analytical commit and corpus tree, original comparison and V1 boundary commits, the recoverable source-boundary file and digest, explicit owner authorization, generation identities, and any additional publication-provenance file digests. Before proposing the binding, recover and verify every original/publication digest mapping against the historical originals. Record technical normalization as a derivative; never represent changed publication bytes as the original freeze. Original private Git history and source payloads need not become public ancestors or artifacts.
+
+The validator uses only bindings already on fetched main. An unused binding is inert. Once any file in its reserved publication envelope is present, the complete manifest, every mapped artifact and every provenance file must be regular, present at its exact reviewed bytes, and together constitute exactly that envelope. The manifest must retain its frozen identities, source boundary, complete original-versus-publication mappings and noncurrent authority metadata. Every published Markdown artifact retains `draft_noncurrent`, `do_not_use_as_current_authority: true`, empty supersession lists and its reviewed generation identity. Missing, altered, retyped, nonregular or additional files fail; publication must retain its reviewed binding during import and after publication.
+
+Only those verified files are excluded from the **new narrative admission** delta for their own registered root. Architecture/current-method checks, existing run-stop and terminal seals, historical preservation, publication hazards and all other repository checks remain active. An extra reading outside the exact envelope still needs an ordinary authorized active run. The import does not resume or extend V1, open a source gate, certify new literary findings, authorize corrections, or promote analytical authority. Mutable operational routing may separately record truthful completed-run status and publication routes through attributable targeted edits, preserving historical readings, freezes, source boundaries and receipts. No general generation-management or source-authorization framework is created.
 
 # 4. Paired-foundation responsibility split
 
@@ -922,6 +942,19 @@ This policy exists so that the corpus never again reaches the end of a long sequ
 ---
 
 # Changelog
+
+## v1.9 — 2026-10-20 — Reviewed independent frozen publication
+
+- Distinguishes an exact, separately owner-reviewed noncurrent import from new narrative admission when another generation's run cannot represent it.
+- Requires the binding already on main, complete reviewed publication bytes, immutable analytical/source identities and preserved noncurrent authority metadata.
+- Preserves the completed source-branch proof route, architecture checks, ordinary admission, run stops, terminal seals and historical evidence; no candidate-side self-authorization or source gate is added.
+
+## v1.8 — 2026-10-20 — Completed source-branch publication
+
+- Adds an optional portable, hash-checked completion proof for a run completed before its first batched publication.
+- Requires a real active-to-completed transition, identical operational bounds and the exact complete reading set; preserves ordinary admission, architecture, source-authorization and closure checks.
+- Consults a proof only over main with no recorded run or a consistently completed one, so main's active, blocked, interrupted or malformed run state keeps its ordinary route.
+- Makes proof validation independent of source object availability after a squash merge without adding a global project exception or weakening missing-evidence failures.
 
 ## v1.7 — 2026-10-15 — Run-state consistency without routine seals
 
