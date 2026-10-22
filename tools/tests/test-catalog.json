@@ -714,17 +714,6 @@
       ],
       "purpose": "preflight pending and unsuccessful runs never report success"
     },
-    "test_audit_reporting.AuditReportingTests.test_stable_source_is_pending_even_when_routing_is_current": {
-      "group": "regression",
-      "smoke": true,
-      "inputs": [
-        "tools/tests/test_audit_reporting.py",
-        "tools/*.py",
-        "governance/schemas/*",
-        "governance/repository-controls/*"
-      ],
-      "purpose": "stable source is pending even when routing is current"
-    },
     "test_audit_reporting.AuditReportingTests.test_invalid_target_is_rejected_before_a_status_write": {
       "group": "regression",
       "smoke": false,
@@ -757,17 +746,6 @@
         "governance/repository-controls/*"
       ],
       "purpose": "all workflow shell steps parse"
-    },
-    "test_audit_reporting.AuditReportingTests.test_unchanged_housekeeping_dispatches_only_after_current_head_checks": {
-      "group": "regression",
-      "smoke": false,
-      "inputs": [
-        "tools/tests/test_audit_reporting.py",
-        "tools/*.py",
-        "governance/schemas/*",
-        "governance/repository-controls/*"
-      ],
-      "purpose": "unchanged housekeeping dispatches only after current head checks"
     },
     "test_audit_reporting.AuditReportingTests.test_superseded_housekeeping_exits_before_generation": {
       "group": "regression",
@@ -3121,26 +3099,6 @@
       ],
       "purpose": "global index housekeeping matches bounded write contract"
     },
-    "test_validate_repository.PhaseValidationTests.test_housekeeping_rejects_restored_character_write_policy": {
-      "group": "live_corpus",
-      "smoke": false,
-      "inputs": [
-        "candidate corpus",
-        "tools/tests/test_validate_repository.py",
-        "tools/*.py"
-      ],
-      "purpose": "housekeeping rejects restored character write policy"
-    },
-    "test_validate_repository.PhaseValidationTests.test_housekeeping_rejects_reactivated_character_input": {
-      "group": "live_corpus",
-      "smoke": false,
-      "inputs": [
-        "candidate corpus",
-        "tools/tests/test_validate_repository.py",
-        "tools/*.py"
-      ],
-      "purpose": "housekeeping rejects reactivated character input"
-    },
     "test_validate_repository.PhaseValidationTests.test_housekeeping_rejects_character_generation_staging_and_write_allowance": {
       "group": "live_corpus",
       "smoke": false,
@@ -4697,6 +4655,89 @@
         "tools/tests/test_nightly_integration.py"
       ],
       "purpose": "Recheck the main ruleset immediately before merging so protection weakened during a run halts before any write."
+    },
+    "test_audit_reporting.AuditReportingTests.test_current_routing_exits_without_dispatch_or_write": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        ".github/workflows/global-index-housekeeping.yml",
+        "tools/tests/test_audit_reporting.py"
+      ],
+      "purpose": "Housekeeping with current routing outputs exits without a dispatch, commit, push, ancestry check or full gate."
+    },
+    "test_audit_reporting.AuditReportingTests.test_reporter_publishes_the_validated_routing_state_directly": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        ".github/workflows/repository-audit.yml",
+        "tools/validate_repository.py",
+        "tools/tests/test_audit_reporting.py"
+      ],
+      "purpose": "Publish the validator's routing state directly: success when routing outputs are current, pending only while housekeeping must regenerate them, failure otherwise."
+    },
+    "test_audit_reporting.AuditReportingTests.test_stale_routing_requires_current_main_before_any_write": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        ".github/workflows/global-index-housekeeping.yml",
+        "tools/tests/test_audit_reporting.py"
+      ],
+      "purpose": "Housekeeping regenerates stale routing only on a branch containing current main and fails before any write otherwise."
+    },
+    "test_validate_repository.PhaseValidationTests.test_housekeeping_rejects_wider_trigger_token_or_ancestry_gate_removal": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        ".github/workflows/global-index-housekeeping.yml",
+        "tools/validate_repository.py",
+        "tools/tests/test_validate_repository.py"
+      ],
+      "purpose": "Reject housekeeping triggers beyond series/study audits, wider token permissions, job-level permissions, or removal of the current-main ancestry gate."
+    },
+    "test_validate_repository.RoutingBranchScopeTests.test_commit_already_on_main_has_nothing_to_confine": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/tests/test_validate_repository.py"
+      ],
+      "purpose": "A commit already contained in main has no unintegrated delta to confine."
+    },
+    "test_validate_repository.RoutingBranchScopeTests.test_only_series_or_study_branches_use_routing_scope": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/tests/test_validate_repository.py"
+      ],
+      "purpose": "Routing scope applies only to series and study branch names."
+    },
+    "test_validate_repository.RoutingBranchScopeTests.test_own_root_routing_and_discovery_outputs_pass": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/tests/test_validate_repository.py"
+      ],
+      "purpose": "An analysis branch may change its own root, the five routing outputs and the two discovery outputs."
+    },
+    "test_validate_repository.RoutingBranchScopeTests.test_paths_outside_the_branch_root_fail": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/tests/test_validate_repository.py"
+      ],
+      "purpose": "An analysis-branch audit fails on paths outside the branch root and shared outputs."
+    },
+    "test_validate_repository.RoutingBranchScopeTests.test_staged_author_preflight_is_confined": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/tests/test_validate_repository.py"
+      ],
+      "purpose": "Author preflight confines staged changes before commit, even when HEAD is already on main."
     }
   }
 }
