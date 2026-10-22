@@ -233,7 +233,9 @@ class ProjectInitiationGateTests(unittest.TestCase):
                    "sequential_execution:\n  mode: single_operation\n  authorized_start: V01\n"
                    "  terminal_boundary: V01\n  next_candidate_operation: V01\n  run_state: active\n```\n")
             entries[self.entrypoint] = SnapshotEntry(entry.path, entry.mode, entry.data + run.encode())
-        return GitSnapshot(ROOT, "IN_MEMORY_PROJECT_GATE", entries)
+        # Synthetic projects read their own main, not the live checkout's
+        # later publication grants for unrelated registered projects.
+        return GitSnapshot(self.history_root, "IN_MEMORY_PROJECT_GATE", entries)
 
     def failures(
         self, snapshot: GitSnapshot, baseline_paths: set[str] | None = None
@@ -945,14 +947,8 @@ class ProjectInitiationGateTests(unittest.TestCase):
         else:
             run_git(self.history_root, "update-ref", "refs/remotes/origin/main", commit)
 
-    def main_with_run_closure(self, record: bytes, control: dict | None = None) -> str:
-        """Commit main's registry, gate control and run-closure record over the accepted reading.
-
-        HEAD and the worktree are untouched; the commit only becomes main.
-        """
-
-        registry = self.snapshot().entries["series/registry.json"].data
-        control_bytes = json.dumps(control if control is not None else self.control()).encode()
+    def main_with(self, files: dict[str, bytes], message: str) -> str:
+        """Commit files over the accepted reading; HEAD and the worktree are untouched."""
 
         with tempfile.TemporaryDirectory() as directory:
             env = dict(os.environ, GIT_INDEX_FILE=str(Path(directory) / "index"))
@@ -964,15 +960,25 @@ class ProjectInitiationGateTests(unittest.TestCase):
                 ).stdout.decode().strip()
 
             git("read-tree", self.completion_commit)
-            for target, data in (
-                (self.run_closure, record),
-                ("series/registry.json", registry),
-                (PROJECT_INITIATION_GATE_PATH, control_bytes),
-            ):
+            for target, data in files.items():
                 blob = git("hash-object", "-w", "--stdin", data=data)
                 git("update-index", "--add", "--cacheinfo", f"100644,{blob},{target}")
             tree = git("write-tree")
-            return git("commit-tree", tree, "-p", self.completion_commit, "-m", "Run stop on main")
+            return git("commit-tree", tree, "-p", self.completion_commit, "-m", message)
+
+    def main_with_run_closure(self, record: bytes, control: dict | None = None) -> str:
+        """Commit main's registry, gate control and run-closure record over the accepted reading.
+
+        HEAD and the worktree are untouched; the commit only becomes main.
+        """
+
+        registry = self.snapshot().entries["series/registry.json"].data
+        control_bytes = json.dumps(control if control is not None else self.control()).encode()
+        return self.main_with({
+            self.run_closure: record,
+            "series/registry.json": registry,
+            PROJECT_INITIATION_GATE_PATH: control_bytes,
+        }, "Run stop on main")
 
     def test_run_closure_completion_commit_must_be_on_main(self) -> None:
         snapshot = self.run_closure_snapshot()
@@ -1127,6 +1133,58 @@ class ProjectInitiationGateTests(unittest.TestCase):
         snapshot.entries[orphan] = SnapshotEntry(orphan, "100644", b"{}\n")
         self.assert_failure_contains(self.failures(snapshot), "project run closure has no registered project")
 
+    def test_in_memory_projects_read_only_the_disposable_main_and_its_grants(self) -> None:
+        # #260's post-merge audit: these candidates read the live checkout's
+        # main, whose reviewed grant for another project failed them on its
+        # route. They read only the fixture's main (#264), where an unpublished
+        # grant for a project they do not register stays inert and a published
+        # one binds.
+        from frozen_publication import FIELD
+
+        other = "series/other/"
+        scope = other + "G2/"
+        manifest = scope + "PUBLICATION_MANIFEST.json"
+        grant = {
+            "project_root": other, "canonical_entrypoint": other + "CURRENT_STATE_AND_CORPUS_MAP.md",
+            "scope_prefixes": [scope], "manifest_schema": "fixture-publication/1",
+            "manifest_sha256": "0" * 64, "frozen_commit": "a" * 40, "frozen_corpus_tree": "c" * 40,
+            "comparison_commit": "d" * 40, "comparison_v1_boundary": "e" * 40,
+            "source_boundary": scope + "SOURCE_BOUNDARY.json", "source_boundary_sha256": "0" * 64,
+            "generations": ["G2"], "provenance_files": {},
+            "authorization": "Owner-reviewed publication of another project, not yet imported (fixture)",
+        }
+        control = self.control()
+        control[FIELD] = {manifest: grant}
+        registry = {"series": [{
+            "series_id": "other", "stable_slug": "other", "canonical_title": "Other",
+            "repository_path": other, "canonical_entrypoint": grant["canonical_entrypoint"],
+            "canonical_entrypoint_status": "PRESENT_VERIFIED",
+        }]}
+        files = {
+            PROJECT_INITIATION_GATE_PATH: (json.dumps(control) + "\n").encode(),
+            "series/registry.json": (json.dumps(registry) + "\n").encode(),
+        }
+
+        self.assertEqual(self.snapshot().root, self.history_root)
+        try:
+            self.set_main(self.main_with(files, "Main with a reviewed grant"))
+            for scenario in (
+                self.test_bootstrap_only_project_may_remain_closed_and_incomplete,
+                self.test_fully_initialized_new_project_with_first_reading_passes,
+                self.test_legacy_branch_reading_requires_routes_but_not_a_new_initialization_block,
+                self.test_legacy_root_uses_coherent_current_architecture_without_new_block,
+            ):
+                with self.subTest(scenario=scenario.__name__):
+                    scenario()
+            # Once main publishes the grant, a candidate cannot drop its root.
+            self.set_main(self.main_with({**files, manifest: b"{}\n"}, "Main with a published grant"))
+            self.assert_failure_contains(
+                self.failures(self.snapshot(include_sequential=False)),
+                f"{manifest}: frozen publication: registered canonical route differs from reviewed grant",
+            )
+        finally:
+            self.set_main(self.completion_commit)
+
     def test_current_repository_examples_remain_compatible(self) -> None:
         snapshot = worktree_snapshot(ROOT, worktree_paths(ROOT))
         snapshot = GitSnapshot(
@@ -1176,6 +1234,7 @@ class RunAdmissionTests(unittest.TestCase):
         run_git(self.root, "config", "user.name", "Run fixture")
         run_git(self.root, "config", "user.email", "run@example.invalid")
         self.fixture = ProjectInitiationGateTests()
+        self.fixture.history_root = self.root
         self.main = None
         self.publish(self.candidate())
 
@@ -1233,6 +1292,255 @@ class RunAdmissionTests(unittest.TestCase):
     def test_completed_open_run_preserves_readings_but_rejects_new_admission(self):
         self.assertEqual(self.failures(self.candidate()), [])
         self.assertTrue(any("active authorized run" in e for e in self.failures(self.candidate(new=True))))
+
+    def frozen_publication(self, *, authorize=True):
+        from frozen_publication import FIELD
+
+        f = self.fixture
+        candidate = self.candidate()
+        scope = f.prefix + "G2/"
+        reading = scope + "READING.md"
+        boundary = scope + "SOURCE_BOUNDARY.json"
+        manifest = scope + "PUBLICATION_MANIFEST.json"
+        notice = scope + "PUBLICATION_README.md"
+        body = authority_markdown("deep_reading", "Completed independent reading").replace(
+            b"status: canonical", b"generation: G2\nstatus: draft_noncurrent"
+        ).replace(b"do_not_use_as_current_authority: false", b"do_not_use_as_current_authority: true")
+        source = b'{"units":["V01"],"admission":"CLOSED"}\n'
+        notice_body = body.replace(b"artifact_type: deep_reading", b"artifact_type: publication_notice")
+        digest = lambda data: hashlib.sha256(data).hexdigest()
+        artifacts = []
+        for path, data in ((reading, body), (boundary, source)):
+            artifacts.append({
+                "path": path, "original_commit": "a" * 40, "original_blob": "b" * 40,
+                "original_bytes": len(data), "original_sha256": digest(data),
+                "publication_bytes": len(data), "publication_sha256": digest(data),
+                "transformation": "byte-identical",
+            })
+        payload = {
+            "schema": "fixture-publication/1", "generation": "G2", "status": "draft_noncurrent",
+            "supersedes": [], "superseded_by": [], "do_not_use_as_current_authority": True,
+            "independent_frozen_commit": "a" * 40, "independent_frozen_corpus_tree": "c" * 40,
+            "original_comparison_commit": "d" * 40, "comparison_V1_boundary_commit": "e" * 40,
+            "unchanged_source_boundary_sha256": digest(source), "artifacts": artifacts,
+        }
+        manifest_bytes = (json.dumps(payload) + "\n").encode()
+        grant = {
+            "project_root": f.prefix, "canonical_entrypoint": f.entrypoint,
+            "scope_prefixes": [scope], "manifest_schema": payload["schema"],
+            "manifest_sha256": digest(manifest_bytes), "frozen_commit": "a" * 40,
+            "frozen_corpus_tree": "c" * 40, "comparison_commit": "d" * 40,
+            "comparison_v1_boundary": "e" * 40, "source_boundary": boundary,
+            "source_boundary_sha256": digest(source), "generations": ["G2"],
+            "provenance_files": {notice: digest(notice_body)},
+            "authorization": "Owner-reviewed exact independent frozen publication; no narrative admission",
+        }
+        control = self.fixture.control()
+        control[FIELD] = {manifest: grant}
+        candidate.entries[PROJECT_INITIATION_GATE_PATH] = SnapshotEntry(
+            PROJECT_INITIATION_GATE_PATH, "100644", (json.dumps(control) + "\n").encode()
+        )
+        if authorize:
+            self.publish(candidate)  # Owner merges governance before the import.
+        for path, data in ((reading, body), (boundary, source), (notice, notice_body), (manifest, manifest_bytes)):
+            candidate.entries[path] = SnapshotEntry(path, "100644", data)
+        return candidate, {"reading": reading, "boundary": boundary, "manifest": manifest, "notice": notice}
+
+    def reroute(self, snapshot, entrypoint):
+        """Repoint the example project's registered entrypoint, or deregister it with None."""
+        registry_path = "series/registry.json"
+        registry = json.loads(snapshot.entries[registry_path].data)
+        registry["series"] = [] if entrypoint is None else [
+            {**registry["series"][0], "canonical_entrypoint": entrypoint}
+        ]
+        snapshot.entries[registry_path] = SnapshotEntry(
+            registry_path, "100644", (json.dumps(registry) + "\n").encode()
+        )
+
+    def regrant(self, snapshot, manifest, change):
+        """Apply change to the candidate's grant for manifest, or remove every grant with None."""
+        from frozen_publication import FIELD
+
+        control = json.loads(snapshot.entries[PROJECT_INITIATION_GATE_PATH].data)
+        if change is None:
+            control.pop(FIELD)
+        else:
+            change(control[FIELD][manifest])
+        snapshot.entries[PROJECT_INITIATION_GATE_PATH] = SnapshotEntry(
+            PROJECT_INITIATION_GATE_PATH, "100644", (json.dumps(control) + "\n").encode()
+        )
+
+    def test_reviewed_frozen_publication_accepts_complete_noncurrent_import_and_squash_audit(self):
+        candidate, paths = self.frozen_publication()
+        original_v1 = self.candidate().entries[self.fixture.sequential].data
+        self.assertEqual(self.failures(candidate), [])
+        head = self.publish(candidate)
+        # Original analytical commits are intentionally not objects in this repository.
+        self.assertNotEqual(subprocess.run(
+            ["git", "-C", str(self.root), "cat-file", "-e", "a" * 40],
+            stdout=subprocess.PIPE, stderr=subprocess.PIPE,
+        ).returncode, 0)
+        integrated = GitSnapshot.from_commit(self.root, head)
+        self.assertEqual(self.failures(integrated), [])
+        self.assertEqual(integrated.entries[self.fixture.sequential].data, original_v1)
+        self.assertIn(paths["reading"], integrated.entries)
+
+    def test_frozen_publication_cannot_authorize_itself_or_use_draft_as_bypass(self):
+        candidate, paths = self.frozen_publication(authorize=False)
+        self.assertTrue(any("active authorized run" in e for e in self.failures(candidate)))
+        candidate.entries.pop(paths["manifest"])
+        self.assertTrue(self.failures(candidate))
+
+    def test_frozen_publication_rejects_changed_missing_retyped_and_nonregular_files(self):
+        candidate, paths = self.frozen_publication()
+        for name in paths:
+            for mutation in ("change", "remove", "symlink"):
+                with self.subTest(name=name, mutation=mutation):
+                    changed = GitSnapshot(self.root, "MUTATED_PUBLICATION", dict(candidate.entries))
+                    entry = changed.entries[paths[name]]
+                    if mutation == "remove":
+                        del changed.entries[entry.path]
+                    else:
+                        changed.entries[entry.path] = SnapshotEntry(
+                            entry.path, "120000" if mutation == "symlink" else entry.mode,
+                            entry.data if mutation == "symlink" else entry.data + b"Changed\n",
+                        )
+                    self.assertTrue(self.failures(changed))
+        changed = GitSnapshot(self.root, "RETYPED_PUBLICATION", dict(candidate.entries))
+        entry = changed.entries[paths["reading"]]
+        changed.entries[entry.path] = SnapshotEntry(entry.path, entry.mode, entry.data.replace(b"deep_reading", b"claim_revision"))
+        self.assertTrue(self.failures(changed))
+
+    def test_frozen_publication_rejects_added_readings_inside_and_outside_envelope(self):
+        candidate, _ = self.frozen_publication()
+        for path in (self.fixture.prefix + "G2/UNREVIEWED.md", self.fixture.prefix + "UNREVIEWED.md"):
+            with self.subTest(path=path):
+                changed = GitSnapshot(self.root, "EXTRA_READING", dict(candidate.entries))
+                changed.entries[path] = SnapshotEntry(path, "100644", authority_markdown("deep_reading"))
+                self.assertTrue(self.failures(changed))
+
+    def test_frozen_publication_rejects_changed_manifest_source_identity_or_authority(self):
+        candidate, paths = self.frozen_publication()
+        for before, after in ((b"draft_noncurrent", b"canonical"),
+                              (("a" * 40).encode(), ("f" * 40).encode()),
+                              (b'"units":["V01"]', b'"units":["V02"]')):
+            with self.subTest(after=after):
+                changed = GitSnapshot(self.root, "CHANGED_BOUNDARY", dict(candidate.entries))
+                for name in ("manifest", "boundary", "reading"):
+                    entry = changed.entries[paths[name]]
+                    changed.entries[entry.path] = SnapshotEntry(entry.path, entry.mode, entry.data.replace(before, after))
+                self.assertTrue(self.failures(changed))
+
+    def test_frozen_publication_preserves_architecture_and_published_grant(self):
+        from frozen_publication import FIELD
+
+        candidate, _ = self.frozen_publication()
+        changed = GitSnapshot(self.root, "MISSING_ARCHITECTURE", dict(candidate.entries))
+        del changed.entries[self.fixture.architecture]
+        self.assertTrue(self.failures(changed))
+        for stage in ("initial_import", "already_published"):
+            with self.subTest(stage=stage):
+                if stage == "already_published":
+                    self.publish(candidate)
+                changed = GitSnapshot(self.root, "REMOVED_GRANT", dict(candidate.entries))
+                control = json.loads(changed.entries[PROJECT_INITIATION_GATE_PATH].data)
+                control.pop(FIELD)
+                changed.entries[PROJECT_INITIATION_GATE_PATH] = SnapshotEntry(
+                    PROJECT_INITIATION_GATE_PATH, "100644", (json.dumps(control) + "\n").encode()
+                )
+                self.assertTrue(any("cannot be removed or rewritten" in e for e in self.failures(changed)))
+
+    def test_frozen_publication_binds_route_and_grant_once_enveloped_or_published(self):
+        f = self.fixture
+        candidate, paths = self.frozen_publication()
+        manifest = paths["manifest"]
+        rerouting = (
+            ("rerouted", lambda s: self.reroute(s, f.prefix + "MOVED_CURRENT_STATE.md"), "registered canonical route differs"),
+            ("deregistered", lambda s: self.reroute(s, None), "registered canonical route differs"),
+        )
+        regranting = (
+            ("rewritten", lambda s: self.regrant(s, manifest, lambda grant: grant.update(generations=["G3"])),
+             "cannot be removed or rewritten"),
+            ("removed", lambda s: self.regrant(s, manifest, None), "cannot be removed or rewritten"),
+        )
+        envelope = set(paths.values())
+
+        def without_envelope():
+            return {path: entry for path, entry in candidate.entries.items() if path not in envelope}
+
+        def frozen_errors(entries, mutate):
+            changed = GitSnapshot(self.root, "BOUND_GRANT", dict(entries))
+            mutate(changed)
+            return [e for e in self.failures(changed) if f"{paths['manifest']}: frozen publication" in e]
+
+        # Main holds only the reviewed grant: without its envelope it binds nothing.
+        for name, mutate, _ in rerouting:
+            with self.subTest(stage="inert", mutation=name):
+                self.assertEqual(frozen_errors(without_envelope(), mutate), [])
+        for stage in ("enveloped", "published", "published_envelope_dropped"):
+            if stage == "published":
+                self.publish(candidate)
+            entries = without_envelope() if stage == "published_envelope_dropped" else candidate.entries
+            for name, mutate, expected in rerouting + regranting:
+                with self.subTest(stage=stage, mutation=name):
+                    errors = frozen_errors(entries, mutate)
+                    self.assertTrue(any(expected in e for e in errors), errors)
+
+    def test_published_grant_binds_self_audit_of_a_commit_that_drops_its_envelope(self):
+        # The post-merge audit validates main itself, so its base is the
+        # audited commit. Publication is judged from its first parent, as the
+        # pre-merge audit judges it from the earlier main.
+        candidate, paths = self.frozen_publication()
+        manifest = paths["manifest"]
+        published = self.publish(candidate)
+        envelope = set(paths.values())
+        rewrite = lambda grant: grant.update(authorization="Rewritten after publication")
+        rerouted, regranted = "registered canonical route differs", "a publication grant cannot be removed or rewritten"
+        for name, dropped, mutate, expected in (
+            ("rerouted", True, lambda s: self.reroute(s, self.fixture.prefix + "MOVED_CURRENT_STATE.md"), rerouted),
+            ("deregistered", True, lambda s: self.reroute(s, None), rerouted),
+            ("route_kept", True, lambda s: None, "reviewed publication manifest missing"),
+            ("grant_removed", True, lambda s: self.regrant(s, manifest, None), regranted),
+            ("grant_rewritten", True, lambda s: self.regrant(s, manifest, rewrite), regranted),
+            ("grant_rewritten_in_place", False, lambda s: self.regrant(s, manifest, rewrite), regranted),
+        ):
+            changed = GitSnapshot(self.root, "CHANGED_PUBLICATION", {
+                path: entry for path, entry in candidate.entries.items() if not (dropped and path in envelope)
+            })
+            mutate(changed)
+            self.main = published
+            head = self.publish(changed)
+            for audit, main in (("self", head), ("branch", published)):
+                with self.subTest(mutation=name, audit=audit):
+                    run_git(self.root, "update-ref", "refs/remotes/origin/main", main)
+                    errors = self.failures(GitSnapshot.from_commit(self.root, head))
+                    self.assertTrue(any(
+                        f"{manifest}: frozen publication: {expected}" in e for e in errors
+                    ), errors)
+
+    def test_frozen_publication_rejects_promoted_bytes_even_with_matching_reviewed_hashes(self):
+        from frozen_publication import FIELD
+
+        candidate, paths = self.frozen_publication(authorize=False)
+        entry = candidate.entries[paths["reading"]]
+        promoted = entry.data.replace(b"status: draft_noncurrent", b"status: canonical")
+        candidate.entries[entry.path] = SnapshotEntry(entry.path, entry.mode, promoted)
+        payload = json.loads(candidate.entries[paths["manifest"]].data)
+        artifact = next(a for a in payload["artifacts"] if a["path"] == entry.path)
+        artifact["publication_bytes"] = len(promoted)
+        artifact["publication_sha256"] = hashlib.sha256(promoted).hexdigest()
+        manifest = (json.dumps(payload) + "\n").encode()
+        candidate.entries[paths["manifest"]] = SnapshotEntry(paths["manifest"], "100644", manifest)
+        control = json.loads(candidate.entries[PROJECT_INITIATION_GATE_PATH].data)
+        control[FIELD][paths["manifest"]]["manifest_sha256"] = hashlib.sha256(manifest).hexdigest()
+        candidate.entries[PROJECT_INITIATION_GATE_PATH] = SnapshotEntry(
+            PROJECT_INITIATION_GATE_PATH, "100644", (json.dumps(control) + "\n").encode()
+        )
+        governance = GitSnapshot(self.root, "REVIEWED_PROMOTION_ATTEMPT", dict(candidate.entries))
+        for path in paths.values():
+            del governance.entries[path]
+        self.publish(governance)
+        self.assertTrue(any("must remain noncurrent" in e for e in self.failures(candidate)))
 
     def test_active_bounded_run_can_admit_and_post_merge_check_agrees(self):
         candidate = self.candidate("active", new=True)

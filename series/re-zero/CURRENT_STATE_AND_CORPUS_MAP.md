@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: corpus_map
 scope: SERIES_BOOTSTRAP_AND_ANALYTICAL_ROUTING
-generation: V0.24
+generation: V0.25
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -177,16 +177,16 @@ The sequential pass should test rather than assume questions including:
 
 ## Current work order
 
-1. Preserve all14 VNN freezes/two checkpoints/both older model-review pairs and all five specialist owners. Keep256 current V14 claim formulations/older histories and the exact sixty-question/ten-forecast V15 seal unchanged.
-2. Close this separate Emilia V01–V14 model/review operation's exact-path native/index author preflight, approved commit, full immutable changed-file readback, actual-source audit, completed source-bound housekeeping and final actual-source full audit/reporter/exact success status. Local documentary PASS_WITH_BOUND alone is not publication closure.
-3. Only after that complete gate, open `RZ-MAIN-LN-JA-V15` against the unchanged prospect and consume its exact admitted Japanese OPF-spine text/images in order through EOF before drafting a new narrative freeze. V14 and the earlier Subaru/Otto gates are already closed; do not redo them or silently extend their model scopes.
-4. Preserve source/holder/recipient/representation distinctions. Current Emilia has begun her second trial but has no supplied contents/result; current rescue contacts and begun fights are not full rescue/wager/Arc4 closure. The current Emilia model supplies an explicit last-waking override, not an automatic outdoor default.
-5. Continue prospectively through V15 and the admitted spine to active V43 without ordinary confirmation. Source exhaustion is not published-series completion; no new route/witness or terminal expansion is inferred.
-6. Maintain masterV1.17/architectureV1.16/protocolV1.15/schemaV0.18 and five sole owners E018/K449/M285/I234/R078/RT140. New narrative precedes later derived reconciliation; generated rules/probes are not evidence and source advancement is not a grade.
-7. Acquire and integrity-audit V44/V45 before the read reaches that acquisition boundary. Their dated bibliographic awareness does not admit a witness or extend the authorized terminal.
-8. Keep supplemental/IF/WN/adaptation awareness separate from opening; establish class and safe `H_pub`/`H_diegetic`/`H_route`/`H_final` before use. No such witness is admitted here.
-9. Revisit a ledger/index/ordinary/voice/readiness split only for demonstrated independent burden, not counts or symmetry. Emilia's integrated model/separate review and narrower cases do not confer a final specialist or Arc4-end checkpoint.
-10. Preserve exact source/holder/recipient/reference clarity, contrary instances and unsupported coordinates in reconstruction; global discovery/capability remain separately governed writers' responsibilities.
+1. Preserve all fifteen VNN freezes, both historical checkpoints and all three historical model/review pairs. The V15 source-facing freeze and its292 claim formulations are fixed; current corrections must remain attributable. This routing correction changes no narrative claim, source-consumption record or historical fidelity grade.
+2. Close the complete V15 publication gate for the reconciled exact source head: approved identities, exact-path/native/index author preflight, normal push, immutable whole-file readback, actual source audit, completed source-bound housekeeping, final actual-source full audit/reporter/exact success status, then fresh post-status native verification. The earlier audit of f1045873285746dd27ab91f5635ac6b1464b508f does not certify a later reconciliation commit. No local review, push or older green check substitutes for this gate.
+3. Only after that complete V15 gate, create the separately gated `ARC04_CHECKPOINT` over the frozen V10–V15 arguments, with earlier context labeled. The explicit V15 fourth-arc conclusion earns this responsibility; the checkpoint must not rewrite a contributing freeze, invent new primary reading or claim full-series completion.
+4. After the checkpoint's own complete gate, execute the separately earned constructions/reviews in order: `BEATRICE_V01_V15_MODEL_AND_FIDELITY_REVIEW`, `GARFIEL_V10_V15_MODEL_AND_FIDELITY_REVIEW`, `RAM_V01_V15_MODEL_AND_FIDELITY_REVIEW`, then `ROSWAAL_V01_V15_MODEL_AND_FIDELITY_REVIEW`. Master§13 and V15§15 own each qualitative threshold, default, counterevidence and abstention. Each operation needs its own full publication gate; construction is not an achieved fidelity result.
+5. Keep the exact sixty-question/ten-forecast V16 horizon unchanged through those source-free operations: SHA256 `279e4a504f39376b8b7083a95841ef28ee10416976c93bc9d69bb20b9bf1b413`. Only after all required gates may `RZ-MAIN-LN-JA-V16` be opened; consume its exact admitted Japanese OPF-spine text and images in order through EOF before a new narrative freeze.
+6. Continue prospectively through the admitted main-LN spine to active V43 without ordinary unit, checkpoint or model confirmation. Preserve source/holder/recipient/representation boundaries, every applicable atomic gate and genuine blocker reporting. Current E018 is living after the month-later ceremony/party; no E019/death18, restored Rem, gate/reserve repair, completed origin telling or retroactive consent/apology is implied.
+7. Maintain master and the existing five sole event/knowledge/mechanics/institution/relationship owners with their revision ancestry. Ordinary-life, Japanese, readiness and project-local routing remain in their established homes until an independently demonstrated retrieval burden earns a split. Counts, prominence, filename symmetry and another model do not establish a new ledger or final specialist.
+8. Keep the dated V44/V45 acquisition gaps separate from this authorized V43 terminal. Source exhaustion is not published-series completion; acquisition, admission or a terminal extension beyond the authorized boundary requires its own applicable authorization and source-lock review.
+9. Keep supplemental/IF/WN/adaptation awareness separate from opening. Establish witness class and safe `H_pub`/`H_diegetic`/`H_route`/`H_final` before use; no such witness is admitted by this work order, a publication advertisement or a derived model.
+10. Preserve exact named-subject/reference clarity, contrary instances and unsupported coordinates. Historical Subaru10/Otto13/Emilia14 defaults and scoped documentary grades remain unchanged; new rules/probes are not evidence. Global discovery, capability evaluation, housekeeping outputs and protected integration retain their separately governed owners.
 
 ## Bootstrap abstentions
 

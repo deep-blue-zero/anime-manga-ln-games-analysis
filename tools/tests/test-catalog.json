@@ -2503,6 +2503,17 @@
       ],
       "purpose": "Each malformed run_closure_amendments release fails with its specific error, and a run closure under an unregistered root fails validation."
     },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_in_memory_projects_read_only_the_disposable_main_and_its_grants": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/frozen_publication.py",
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/character_index_core.py"
+      ],
+      "purpose": "In-memory gate candidates read a disposable main, never the live checkout's: an unpublished reviewed grant for a project they do not register stays inert across the bootstrap, first-reading and legacy scenarios, and a published one still binds its route."
+    },
     "test_project_initiation_gate.ProjectInitiationGateTests.test_current_repository_examples_remain_compatible": {
       "group": "live_corpus",
       "smoke": false,
@@ -3528,6 +3539,105 @@
         "governance/repository-controls/project-initiation-gate.json"
       ],
       "purpose": "terminal independent execution fences cannot hide conflicts."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_reviewed_frozen_publication_accepts_complete_noncurrent_import_and_squash_audit": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/frozen_publication.py",
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "Accept the exact owner-bound noncurrent import and post-squash audit without publishing private original commit objects; preserve V1 bytes."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_frozen_publication_cannot_authorize_itself_or_use_draft_as_bypass": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/frozen_publication.py",
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "Reject candidate-side self-authorization and prevent draft status from bypassing ordinary run admission."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_frozen_publication_rejects_changed_missing_retyped_and_nonregular_files": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/frozen_publication.py",
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "Reject changed, missing, retyped and nonregular files in the reviewed frozen publication envelope."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_frozen_publication_rejects_added_readings_inside_and_outside_envelope": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/frozen_publication.py",
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "Reject unlisted imported readings and preserve ordinary admission checks outside the exact envelope."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_frozen_publication_rejects_changed_manifest_source_identity_or_authority": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/frozen_publication.py",
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "Reject altered manifest, immutable identity, source-boundary bytes and noncurrent authority metadata."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_frozen_publication_preserves_architecture_and_published_grant": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/frozen_publication.py",
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "Preserve mandatory architecture checks and reject grant removal during initial import and after publication."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_frozen_publication_binds_route_and_grant_once_enveloped_or_published": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/frozen_publication.py",
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "An unpublished grant without its envelope binds no route, while an enveloped, published, or published-then-dropped publication still rejects a rerouted or deregistered root and a rewritten or removed grant."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_published_grant_binds_self_audit_of_a_commit_that_drops_its_envelope": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/frozen_publication.py",
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "A commit on main that drops a published envelope while rerouting, deregistering or keeping the project route fails both its post-merge self-audit, which judges publication from the first parent, and its branch audit against the earlier main; so does one that removes or rewrites the published grant."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_frozen_publication_rejects_promoted_bytes_even_with_matching_reviewed_hashes": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/frozen_publication.py",
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "Reject canonical promotion even when all publication digests are internally consistent."
     },
     "test_project_initiation_gate.RunAdmissionTests.test_completed_open_run_preserves_readings_but_rejects_new_admission": {
       "group": "regression",

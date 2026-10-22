@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: project_changelog
 scope: VERBATIM_ENTRYPOINT_HISTORY_THROUGH_V15_CLOSEOUT
-generation: V1.7
+generation: V1.8
 status: canonical
 release_state: append_only_history
 supersedes: []
@@ -574,3 +574,22 @@ E018alive/17deaths18segments reaches principal rescue, three trials, two-site re
 All22 earlier artifacts and three historical model/default/review grades remain unchanged. Explicit 第四章完結 earns a separate Arc04 checkpoint only after final contributing V15 complete publication; then Beatrice15/Garfiel10–15/Ram15/Roswaal15 separate constructions/reviews are required, each full gate before the next/source16. These are qualitative readiness responsibilities, not already implemented models, global grades, registry writes, sixth owner, mature final specialist or completed V43run.
 
 The preflight/commit/readback/source-audit/housekeeping/final-audit/status/fresh-native gate is still distinct from authored analytical claims. Exact published hashes/live audits, not this prose or draft existence, close publication.
+
+## V15 publication reconciliation — stale work-order correction
+
+The former current map's work-order section at f1045873285746dd27ab91f5635ac6b1464b508f (map blobd2b49d6c59d71b78e7bfe4c9465d2a003b60084e) still instructed the pre-V15 Emilia operation, V15 opening and V14 owner versions, contradicting that same map's V15 state, operation fields and source-facing V15§15. This is a routing error, not a new literary finding. The current work order now names the still-unclosed V15 exact-head publication gate, then the separately gated Arc04 checkpoint/four constructions and the unchanged sealed V16 horizon. The complete old wording follows verbatim as historical evidence; its original heading is not a current instruction.
+
+## Current work order
+
+1. Preserve all14 VNN freezes/two checkpoints/both older model-review pairs and all five specialist owners. Keep256 current V14 claim formulations/older histories and the exact sixty-question/ten-forecast V15 seal unchanged.
+2. Close this separate Emilia V01–V14 model/review operation's exact-path native/index author preflight, approved commit, full immutable changed-file readback, actual-source audit, completed source-bound housekeeping and final actual-source full audit/reporter/exact success status. Local documentary PASS_WITH_BOUND alone is not publication closure.
+3. Only after that complete gate, open `RZ-MAIN-LN-JA-V15` against the unchanged prospect and consume its exact admitted Japanese OPF-spine text/images in order through EOF before drafting a new narrative freeze. V14 and the earlier Subaru/Otto gates are already closed; do not redo them or silently extend their model scopes.
+4. Preserve source/holder/recipient/representation distinctions. Current Emilia has begun her second trial but has no supplied contents/result; current rescue contacts and begun fights are not full rescue/wager/Arc4 closure. The current Emilia model supplies an explicit last-waking override, not an automatic outdoor default.
+5. Continue prospectively through V15 and the admitted spine to active V43 without ordinary confirmation. Source exhaustion is not published-series completion; no new route/witness or terminal expansion is inferred.
+6. Maintain masterV1.17/architectureV1.16/protocolV1.15/schemaV0.18 and five sole owners E018/K449/M285/I234/R078/RT140. New narrative precedes later derived reconciliation; generated rules/probes are not evidence and source advancement is not a grade.
+7. Acquire and integrity-audit V44/V45 before the read reaches that acquisition boundary. Their dated bibliographic awareness does not admit a witness or extend the authorized terminal.
+8. Keep supplemental/IF/WN/adaptation awareness separate from opening; establish class and safe `H_pub`/`H_diegetic`/`H_route`/`H_final` before use. No such witness is admitted here.
+9. Revisit a ledger/index/ordinary/voice/readiness split only for demonstrated independent burden, not counts or symmetry. Emilia's integrated model/separate review and narrower cases do not confer a final specialist or Arc4-end checkpoint.
+10. Preserve exact source/holder/recipient/reference clarity, contrary instances and unsupported coordinates in reconstruction; global discovery/capability remain separately governed writers' responsibilities.
+
+The correction changes only the mutable map's work-order/generation and this append-only history/generation. All15 VNN freezes, both older checkpoints, three reviewed model pairs,292 V15 claim formulations, five owner files, source-consumption evidence and both prospective seals remain unchanged. No new primary or supplemental witness is opened. Approved main governance and curated discovery content are imported byte-for-byte through ordinary reconciliation, not reauthored by this series task. Every resulting source head requires a fresh complete publication sequence; neither the older f104 source audit nor repaired main's audit certifies it.
