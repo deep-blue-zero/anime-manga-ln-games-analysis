@@ -21,7 +21,7 @@ Any provider's agent may fill a role. Each role writes only its own paths, and o
 | Character discovery agent | Keep the character registry current | `characters/registry.jsonl`, `CHARACTER_ANALYSIS_INDEX.md` | PR on `character-registry` | `governance/policies/CHARACTER_DISCOVERY_MAINTENANCE.md` |
 | Reconstruction evaluator | Grade how well evidence supports modeling each character | `characters/reconstruction_capabilities.jsonl`, `characters/CHARACTER_RECONSTRUCTION_INDEX.md` | PR on `character-reconstruction` | `governance/policies/CHARACTER_RECONSTRUCTION_MAINTENANCE.md` |
 | Housekeeping (workflow) | Regenerate series/study routing | The five routing outputs | A child commit on the analysis branch | `governance/policies/AUTOMATED_GLOBAL_INDEX_MAINTENANCE.md` |
-| Source intake agent | Keep printed-work sources on Google Drive | Nothing in Git | — | [Source intake](#source-intake) |
+| Drive inventory agent | Keep the inventory of primary-source folders on Google Drive current | Nothing in Git | — | [Drive inventory](#drive-inventory) |
 | Owner | Guardrail changes, holds, reconstruction review, settings and deployment | — | Merges personally | — |
 
 A recorded reconstruction capability is not present readiness; verify currentness with `tools/reconstruction_status.py`.
@@ -55,15 +55,15 @@ Use a narrowly named temporary `agent/<purpose>` branch; the older `codex/`, `ch
 The CI agent, the discovery agent and the reconstruction evaluator run on a schedule in a cloud environment the owner configures; deploying them and issuing their credentials are owner operations. Each of them:
 
 - runs one instance at a time and starts from the full current `main` SHA;
-- keeps its checkpoint (reviewed SHA, coverage, deferred work, open PR, integration results) in task storage and its PR description, never in a disposable checkout, and advances completed coverage only to work verified on `main`;
+- keeps its checkpoint (reviewed SHA, coverage, deferred work, open PR, integration results) in its PR description (and in task storage where the platform has it), never in a disposable checkout, and advances completed coverage only to work verified on `main`;
 - reuses its own branch, merges current `main` into it without force, keeps unexpected branch content, and opens at most one PR;
 - stays quiet when nothing changed, with no empty commits or PRs;
 - reports integrations, unresolved findings, blocked work, access or validation failures, and anything integrated but unverified; and
 - never weakens a check to finish a run, and never reverts or rewrites `main`.
 
-### Source intake
+### Drive inventory
 
-A separate cloud agent keeps digital copies of printed works on Google Drive so analysis agents can read them. It never writes to Git. Those copies are primary sources and never enter Git; analyses cite them through their recorded provenance.
+Digital copies of printed works are kept on Google Drive as primary sources. A separate scheduled agent maintains the inventory Doc of those evidence folders, so analysis agents can find their sources. It never writes to Git. The sources never enter Git; analyses cite them through their recorded provenance.
 
 ## Never, without a separately reviewed owner amendment
 
