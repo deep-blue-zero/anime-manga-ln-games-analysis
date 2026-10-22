@@ -4,10 +4,29 @@ artifact_type: corpus_map
 scope: FULL_MAIN_SERIES
 generation: V1
 status: canonical
-source_boundary: Japanese light novel main series V01-V17 source-complete; V07 acquired/audited 2026-08-27; canonical sequential reading complete through V08
+source_boundary: Cohort23 semantic receiving complete; exact publication pending; candidate33models,207nonfinal records; full KonoSuba program active; percentage null
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
+project_initialization:
+  status: canonical
+  architecture_lifecycle: EVOLVING
+  governing_method: 00 Frameworks and Methods/KONOSUBA_VOLUME_DEEP_READING_METHOD.md
+  synthesis_architecture: 00 Frameworks and Methods/KONOSUBA_SYNTHESIS_ARCHITECTURE_AND_ROADMAP.md
+  method_status: canonical
+  source_reconnaissance_complete: true
+  required_ledgers_initialized: true
+  sequential_analysis_lock: open
+  next_permitted_operation: EXPANDED_SECONDARY_CENSUS_AND_EXPANDED_SYNTHESIS
+sequential_execution:
+  mode: continuous_sequential
+  unit_type: volume
+  authorized_start: V11
+  terminal_boundary: V17
+  committed_high_water_mark: V17
+  next_candidate_operation: EXPANDED_SECONDARY_CENSUS_AND_EXPANDED_SYNTHESIS
+  confirmation_between_units: false
+  run_state: active
 ---
 
 # KONOSUBA - Current State and Corpus Map
@@ -24,79 +43,69 @@ The project is not primarily a plot-summary project and is not satisfied by trai
 
 ## 2. Current authority state
 
-**Project state:** ACTIVE / PROVISIONAL - Phase 3 V07-V09 prospective validation; V01-V08 complete, Model Generation 0.2 remains frozen, V07-V08 outcome evidence entered, V09 next.
+<!-- CURRENT_OPERATION_START -->
+**Cohort23 semantic receiving is complete; its exact publication sequence is pending and the full KonoSuba program continues.** The [individual index](08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_PARENTS_TEACHER_EVIDENCE_INDEX.md) and [receiving](09%20Audits%20and%20Manifests/KONOSUBA_CRIMSON_PARENTS_TEACHER_COHORT_23_RECEIVING_AND_PROVENANCE.json) preserve actor-specific evidence and limitations.
 
-**Canonical entrypoint:** this file.
+Yuiyui and Pucchin each have a separate twelve-dimension monograph, three-rule provisional Tier3 model and six informed English first bodies/three pairs. Hyoizaburoo has a separate twelve-dimension Tier2 monograph; craft/control/budget/private-choice mechanisms remain underidentified, with no matched-parent model quota. Candidate totals are33model bodies/27scoped secondary model subjects,21bounded profiles,eight monograph-only subjects and207nonfinal census records. Three current rows39/40/44 change,190others remain exact and14candidate/role/roster/mediated occurrence slots are added; they are not14proved unique people. Private and canonical histories remain separately preserved.
 
-**Governing framework documents:**
+Eleven actual known-source receipts bind3,992 BASE context slots/22text members in7text native objects plus one actually viewed FAN-MEM S036 image in an eighth object. Direct action, heard casts, later attribution, daughter/other actor reports, narrator inference and editorial repeat remain distinct. The contextual pudding hit is excluded as teacher evidence. No new whole-source/ruby/residual/image-set/admission or independent validation credit. Parent preference and later particular willingness do not grant prior assent; failed spells/exhaustion constrain Yuiyui, mediated craft reports constrain Hyoizaburoo and effective intervention does not make Pucchin's admitted delay safe.
 
-1. `00 Frameworks and Methods/KONOSUBA_SYNTHESIS_ARCHITECTURE_AND_ROADMAP.md`
-2. `00 Frameworks and Methods/KONOSUBA_VOLUME_DEEP_READING_METHOD.md`
-3. `00 Frameworks and Methods/KONOSUBA_CHARACTER_RECONSTRUCTION_AND_VALIDATION_PROTOCOL.md`
-4. `00 Frameworks and Methods/KONOSUBA_JAPANESE_HUMOR_AND_VOICE_PROTOCOL.md`
-5. `01 Source Lock and Inventory/KONOSUBA_SOURCE_LOCK.md`
-6. `01 Source Lock and Inventory/KONOSUBA_SOURCE_INVENTORY.md`
+All twelve original bodies were frozen before assessment with zero regeneration/feedback repair. One YY-H01-B executable launch failed before identical text serialized once successfully. The same informed author designed, composed and assesses all visible contrasts; no external model call/independent judge. Shared cards/tea/intervention endpoints, strong generic rivals, source-colored unscaled grades, possible overtidy restraint, extra context/history/spatial/timing assumptions and an invented prior pupil failure remain explicit. All six rules have dedicated pairs, not every source mechanism tested; no independent accuracy, Japanese adequacy, evaluator grade, readiness classification or confidence gain.
 
-These documents are canonical methodology until explicitly superseded. Sequential readings and later syntheses must conform to them unless a documented methodological revision is made.
+Prior cohort22 source9b191f37/tree486141c1 has a closed full source/HK/final gate; its seven later progress paths travel with this revision. Current main b6614b13's curator-authored Kazuma discovery was incorporated by ordinary local merge ac8fd87a; both imported files are preserved exactly and no designated global output was authored here. Exact candidate review, author preflight, fresh-head reconciliation, normal owner publication, full source audit/housekeeping/final exact-source audit, fresh authority reload and PR254 refresh remain required for cohort23. All earlier models/cores/firsts/four scores, prospective missingness and80unrelated scratch files remain protected. Full individual/event/alias/incidental census, earned artifacts, seven expanded specialists, extended/full-series synthesis, six distinct StageD successors and designated curation/evaluation/integration/component-release/final-entry work continue; global percentage null.
+<!-- CURRENT_OPERATION_END -->
 
-## 3. Canonical source route
+The main17 principal readings/checkpoints, main-only specialists, MAIN_ONLY_R1 reconstruction/diagnostic suite, main-principal evidence indexes and four designated holdout-principal assessments are accepted. Their historical derivation, original forecasts, adverse findings and frozen bytes remain separately authoritative at their original boundaries. They are not a substitute for outstanding edition components, expanded synthesis or revised models.
 
-**Primary-source root:** `Konosuba`
+The [Dust04 additive N01 precision](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V04_N01_COERCIVE_DANGER_PRECISION.json) controls the bodily-danger narrowing in that earlier local assessment/report. The original question requires coercive danger without a bodily-injury threshold. Its unilateral leisure wager retains direct contrary weight; later agreement/outcome or protective acts do not erase the earlier choice. Original Dust04 report/assessment/uncoded records remain preserved.
 
-Google Drive folder:
-`../../provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md#drive-ref-0f70fc4c9766e347`
+The [Dust05 reading](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_DEEP_READING.md), [29 current qualifications](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_CURRENT_PRECISION_QUALIFICATIONS.json) and [seven local assessments](10%20Expanded%20Corpus/Dust/KONOSUBA_DUST_V05_EXPLORATORY_LOCAL_ASSESSMENTS.json) distinguish new identity/contract disclosures, actual care/costs, coercive delay, partial new trigger comparability, real term checks and owned vetoes, forest remainder, payments and unshown permission. The seven Dust01 questions keep their14 original future/adjudication fields blank; later assessments are separate attributed records.
 
-Subdirectories:
+All dated prior map material is retained verbatim in the [project changelog](KONOSUBA_PROJECT_CHANGELOG.md). It is historical provenance and cannot override this entrypoint's current operation. In particular, old paused, pending, withheld or unexposed statements describe their own earlier boundaries.
 
-- `Main Series` - Japanese EPUBs V01-V17, source-complete.
-- `Short Stories` - `Yorimichi`.
-- `Spin-offs` - `Consulting the Masked Devil`.
-- `Extra - Dust` - Dust V06-V07.
-- `Source Audit and Manifests` - ingestion manifest and Japanese-language audit.
+## 3. Governing methods and evidence routes
 
-The updated source manifest records 21 retained primary books from 28 input EPUBs (27 valid; one zero-byte corrupt), with main-series V01-V17 all present. The original 20-book batch remains covered by `KONOSUBA_SOURCE_LANGUAGE_AUDIT.md`; V07 was separately verified against manifest SHA-256 `38c1fa428ba096cdc4c8b7a5df393dd5763b438e780ef2cef138860c608143c5` and passed the dedicated `KONOSUBA_V07_SOURCE_LANGUAGE_AND_INTEGRITY_AUDIT.md` before the continuity gate was removed.
+1. [Synthesis architecture and roadmap](00%20Frameworks%20and%20Methods/KONOSUBA_SYNTHESIS_ARCHITECTURE_AND_ROADMAP.md)
+2. [Volume deep-reading method](00%20Frameworks%20and%20Methods/KONOSUBA_VOLUME_DEEP_READING_METHOD.md)
+3. [Character reconstruction and validation](00%20Frameworks%20and%20Methods/KONOSUBA_CHARACTER_RECONSTRUCTION_AND_VALIDATION_PROTOCOL.md)
+4. [Japanese humor and voice](00%20Frameworks%20and%20Methods/KONOSUBA_JAPANESE_HUMOR_AND_VOICE_PROTOCOL.md)
+5. [Source lock](01%20Source%20Lock%20and%20Inventory/KONOSUBA_SOURCE_LOCK.md)
+6. [Source inventory](01%20Source%20Lock%20and%20Inventory/KONOSUBA_SOURCE_INVENTORY.md)
 
-## 4. Main-series source boundary
+These remain canonical until explicitly superseded. The [source admission matrix](01%20Source%20Lock%20and%20Inventory/KONOSUBA_SOURCE_COVERAGE_AND_ADMISSION_MATRIX.json) and [expanded component coverage](10%20Expanded%20Corpus/KONOSUBA_EXPANDED_COMPONENT_COVERAGE.json) supply maintained object-specific dispositions. [Source locators](08%20Evidence%20and%20Indexes/KONOSUBA_SOURCE_LOCATOR_INDEX.md), [claim revisions](08%20Evidence%20and%20Indexes/KONOSUBA_CLAIM_REVISION_LEDGER.md), the ten longitudinal ledgers and the governing report/receiving records control claim-level uptake. This entrypoint does not duplicate their evidence catalogs.
 
-### Present
+## 4. Fixed source corpus and current execution route
 
-`V01 V02 V03 V04 V05 V06 V07 V08 V09 V10 V11 V12 V13 V14 V15 V16 V17`
+This execution uses the owner-designated local primary-source EPUB collection; its private filesystem location is recorded in the local recovery receipts. All41 local EPUB identities have been reconciled against the preserved corpus. The Drive inventory and historical folder IDs remain provenance; this run reads the local copies. Native EPUBs, complete native story text and artwork remain private.
 
-### Missing
+| Source group | Fixed objects | Current analytical scope and remaining work |
+|---|---:|---|
+| Main series | 17 | Accepted principal narratives/checkpoints retained; all17 supplied-edition excluded-component full gates closed; full secondary/census/synthesis/models/curation/release active |
+| Dust | 8 | All seven numbered volumes and the separately titled unnumbered continuation have closed whole-supplied-edition gates; original principal holdout histories remain separate |
+| Explosions / Continued Explosions | 5 | All three plus two whole-supplied-edition gates closed; chronology, viewpoint and individual component limits retained |
+| Masked Devil / Fantastic Days | 2 | Both whole-supplied-edition gates closed; Mask's original principal holdout and Fantastic Days' selective game-adaptation scope remain distinct |
+| Yorimichi | 4 | All four collections have closed whole-supplied-edition gates at their declared component scopes; collection01's original principal holdout remains separately preserved |
+| Cheers / Blessing / Memorial Fanbook / TRPG Core / Advanced | 5 | All five programs have closed gates at declared supplied-component/page scopes, with dense-page and unequal-source-plane limits retained |
 
-`none`
+Nineteen of19 supplemental supplied editions, all five mixed/reference programs and all17 main excluded-component programs have closed their full publication gates at the declared supplied-edition scopes. Original accepted principal histories retain exact authority and zero new principal-pass credit. This source-program accounting is not a narrative-component percentage: the global component denominator remains unresolved and percentage is null. Original metadata audits retain their historical scopes. Full individual secondary census and joins, earned artifacts, expanded synthesis, versioned principal-party-transfer revisions, designated curation/integration and component/release/final-entry audits remain active.
 
-The former V07 continuity gate was resolved on 2026-08-27. V07 is present in the canonical Main Series folder, matches the updated manifest SHA-256, and passed a dedicated Japanese-language/integrity audit. Canonical analysis may now proceed in sequence through V08-V17 subject to the established tranche checkpoints and frozen-prediction rules.
+Before another source is admitted, its predecessor's exact publication/readback, source audit, housekeeping, final actual-source audit/status and fresh published-authority reload must be satisfied under the governing workflow. Admission then verifies exact local identity/CRC/OPF/structure, records current informed exposure/questions and seals zero-new-body preparation. Full actual text/ruby/residual/image reading and an uncoded seal precede formal outcomes. Extraction, prior principal validation, captions and marketing do not substitute for that work.
 
-## 5. Derivation corpus versus validation corpus
+## 5. Frozen derivation, validation and revision boundaries
 
-### Core derivation corpus
+The main-series derivation and MAIN_ONLY_R1 suite remain retrievable through the [reconstruction audit](06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_RECONSTRUCTION_SUITE_AUDIT.md) and [main-only freeze receipt](04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_MAIN_ONLY_RECONSTRUCTION_SUITE_FREEZE.json). Their four principal models, party interaction and transfer models preserve original evidence and diagnostic qualifications. The39 commitments and original response/assessment histories are not a general accuracy statistic.
 
-The Japanese main-series novels V01-V17 are the corpus from which the principal character models will be derived.
+The four unchanged-baseline source-local results are [YORI01](04%20Checkpoints%20and%20Model%20Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/YORI01_ACCEPTED_ADJUDICATIONS.json), [MASK](04%20Checkpoints%20and%20Model%20Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/MASK_ACCEPTED_ADJUDICATIONS.json), [DUST06](04%20Checkpoints%20and%20Model%20Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST06_ACCEPTED_ADJUDICATIONS.json) and [DUST07](04%20Checkpoints%20and%20Model%20Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST07_ACCEPTED_ADJUDICATIONS.json). Local failures, partial/ambiguous/not-tested states, reviewer limits and known exposure remain visible. Later whole-edition reading is informed and cannot be called a pristine holdout.
 
-### Withheld validation corpus
+All66 current immutable files,72 historical pins at their frozen revision and the four score files retain their governed byte identities. Earlier main generations/predictions/outcomes are never silently rewritten. Expanded evidence and current claim corrections are separately attributable. StageD must produce revised versions with traceable changes while preserving MAIN_ONLY_R1 and its accepted validation evidence. Secondary characters receive evidence-proportional roles/profiles/voice notes unless varied evidence supports full reconstruction.
 
-The following material is intentionally withheld from core model construction until the main-series models have been frozen:
+Historical early checkpoints cited some illustrations and a V03 afterword, without establishing a complete component inventory or known independent viewing scope. That legacy exposure remains declared; present component work neither claims universal historical nonexposure nor marks those components complete without actual inspection. Reader/narrator/alternate-view knowledge, same-lineage context and absence of acoustic/native-human validation remain explicit.
 
-- `Konosuba - Short Stories - Yorimichi.epub`
-- `Konosuba - Spin-off - Consulting the Masked Devil.epub`
-- `Konosuba Extra - Dust - Volume 06.epub`
-- `Konosuba Extra - Dust - Volume 07.epub`
+## 6. Mandatory subjects and outstanding program
 
-After chronology, canonicity, narrator/viewpoint, and character-coverage checks, suitable portions of these sources may be used as out-of-sample validation. This separation is deliberate: a model that predicts behavior in material it was not built from is stronger than one that merely explains the entire corpus retrospectively.
+The four mandatory principal subjects remain Satou Kazuma, Aqua, Megumin and Darkness, with party interaction and cross-context transfer as separate model responsibilities. Current main-only specialists remain in `05 Specialist Synthesis`; current main-only models/evidence remain in `06 Character Modeling and Reconstruction`. No new empty architecture layers or parallel project roots are required.
 
-## 6. Mandatory reconstruction subjects
-
-The initial mandatory full-model subjects are:
-
-- Satou Kazuma
-- Aqua
-- Megumin
-- Darkness
-
-Secondary characters are promoted to full reconstruction subjects only when the corpus provides enough varied evidence across speech, action, relationships, ordinary life, conflict, and changing stakes. Narrative importance alone is not sufficient.
-
-A secondary character may first receive a limited profile, relationship role, or voice note without being promoted to a full reconstruction model.
+All declared supplemental, mixed/reference and main excluded-component source programs have closed their stated publication gates. Remaining work is the full individual secondary census and event joins, earned monographs/models/bounded profiles, expanded specialist synthesis, separately versioned principal/party/transfer revisions, synchronized evidence/locators/indexes, designated curation/integration and final source/component/authority/release audits. Any later source operation still requires its applicable admission and receiving gates; none is opened by this paragraph. A character cohort or recovery milestone does not end the program, and a warm ending or paid task does not imply complete causal repair, full consent or model success.
 
 ## 7. Core analytical commitments
 
@@ -121,6 +130,8 @@ The project aims to explain **why a character selects an apparently foolish acti
 
 ## 8. Prospective model-validation rule
 
+The prediction/validation responsibility spans the [original ledger](03%20Longitudinal%20Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md) and [Continuation01](03%20Longitudinal%20Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md). Existing forecasts, local outcomes, adverse evidence and original blank fields remain in their exact historical parts; further expanded-source entries append to the continuation.
+
 Character-model development is intentionally prospective.
 
 At each checkpoint, the project must freeze the current model and record falsifiable behavioral predictions **before** reading the next tranche. Later evidence then receives one of the established revision states:
@@ -133,68 +144,6 @@ At each checkpoint, the project must freeze the current model and record falsifi
 - OPEN
 
 Prediction failures are analytical evidence. They must not be erased by silently rewriting the earlier model after the fact.
-
-## 9. Planned analytical phases
-
-### Phase 0 - Framework, source lock, and baseline infrastructure
-
-**COMPLETE.** Governing methods, source lock, source inventory, and current-state map are established.
-
-### Phase 1 - V01-V03
-
-**COMPLETE.** V01-V03 deep readings are complete. `KONOSUBA_V01-V03_CHECKPOINT.md` freezes Model Generation 0.1, and `KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md` preserves the V04-V06 predictions written before V04 exposure.
-
-### Phase 2 - V04-V06
-
-**COMPLETE.** V04-V06 prospectively tested frozen Model Generation 0.1. `KONOSUBA_V04-V06_CHECKPOINT.md` closes the tranche, adjudicates the 20 Gen 0.1 predictions, and freezes Model Generation 0.2. The frozen Gen 0.1 prediction text remains provenance and was not rewritten after exposure.
-
-The tranche result is 16 CONFIRMED, 2 PARTIAL/revision-bearing, 2 NOT_TESTED, and 0 complete falsifications. The count is not treated as a standalone score; the partial and untested cases remain open evidence obligations.
-
-### Phase 2.5 - V07 continuity gate
-
-**COMPLETE.** V07 was acquired, manifest-reconciled, Japanese-language/integrity audited, registered in the source inventory/lock, and only then opened for canonical analysis. The old 20-book source audit remains preserved as historical provenance; a dedicated V07 audit records the gate closure.
-
-### Phase 3 - V07-V09
-
-**ACTIVE.** V07-V08 are complete as the first two prospective tests of frozen Model Generation 0.2. V07-V08 outcome evidence has been appended without rewriting the frozen V07-V09 prediction text. V09 is next and will close the tranche and produce Model Generation 0.3.
-
-### Phase 4 - V10-V12
-
-Model Generation 0.4.
-
-### Phase 5 - V13-V15
-
-Model Generation 0.5.
-
-### Phase 6 - V16-V17
-
-Final sequential checkpoint and freeze of the main-series evidence base.
-
-### Phase 7 - Specialist synthesis
-
-Character monographs, party ensemble synthesis, humor-system synthesis, and Japanese-language comedy synthesis.
-
-### Phase 8 - Reconstruction suite
-
-Formal generative character models, party interaction model, cross-context transfer model, simulation tests, and consistency audit.
-
-### Phase 9 - Full-series synthesis and archival closure
-
-Full-series synthesis, evidence indexes, claim revision ledger, final source/authority audit, and corpus-map conversion to stable release form if the project is frozen.
-
-## 10. Folder materialization policy
-
-Do not create empty folders merely because the target architecture contains them. Create each layer when it has a distinct active responsibility.
-
-Current materialized layers:
-
-- `00 Frameworks and Methods`
-- `01 Source Lock and Inventory`
-- `02 Sequential Readings`
-- `03 Longitudinal Ledgers`
-- `04 Checkpoints and Model Validation`
-
-Later folders should be materialized only when the first artifact of that role is generated.
 
 ## 11. Retrieval precedence
 
@@ -210,145 +159,8 @@ For later work, retrieve in this order:
 
 A later synthesis never licenses invented evidence. Exact wording, linguistic claims, and scene-level assertions should escalate to the Japanese source.
 
-## 12. Current sequential state
+## 12. Current next actions
 
-### Completed
+Continue the structured current operation above. Each next source requires separate admission with informed exposure declared. Preserve original questions, the preceding working inquiries and adverse history before any new body is read. Only after complete actual reading/seal may formal coding, seventeen-responsibility analysis, ten-ledger uptake and exact publication follow.
 
-- `02 Sequential Readings/KONOSUBA_V01_DEEP_READING.md` — active provisional V01 authority.
-- `02 Sequential Readings/KONOSUBA_V02_DEEP_READING.md` — active provisional V02 authority.
-- `02 Sequential Readings/KONOSUBA_V03_DEEP_READING.md` — active provisional V03 authority.
-- `02 Sequential Readings/KONOSUBA_V04_DEEP_READING.md` — active provisional V04 authority; first prospective validation volume against Model Generation 0.1.
-- `02 Sequential Readings/KONOSUBA_V05_DEEP_READING.md` — active provisional V05 authority; second prospective validation volume against Model Generation 0.1.
-- `02 Sequential Readings/KONOSUBA_V06_DEEP_READING.md` — active provisional V06 authority; tranche-closing prospective validation volume against Model Generation 0.1.
-- `02 Sequential Readings/KONOSUBA_V07_DEEP_READING.md` — active provisional V07 authority; first prospective validation volume against Model Generation 0.2.
-- `02 Sequential Readings/KONOSUBA_V08_DEEP_READING.md` — active provisional V08 authority; second prospective validation volume against Model Generation 0.2.
-
-### Active cumulative ledgers through V08
-
-- `KONOSUBA_CHARACTER_STATE_LEDGER.md`
-- `KONOSUBA_RELATIONSHIP_STATE_LEDGER.md`
-- `KONOSUBA_DECISION_ERROR_LEDGER.md`
-- `KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md`
-- `KONOSUBA_HUMOR_MECHANICS_LEDGER.md`
-- `KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md`
-- `KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md`
-- `KONOSUBA_KAZUMA_NARRATOR_LEDGER.md`
-- `KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md`
-- `KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md` — preserves immutable Gen 0.1 predictions/outcomes and frozen Gen 0.2 V07-V09 predictions written before V07 exposure.
-
-### V01-V03 Model Generation 0.1 state
-
-`04 Checkpoints and Model Validation/KONOSUBA_V01-V03_CHECKPOINT.md` is the canonical first model freeze. Model Generation 0.1 was derived only from V01-V03 main narrative and was frozen before V04 exposure.
-
-`03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md` preserves the immutable prospective V04-V06 predictions and their completed V04-V06 adjudications. It now also contains Model Generation 0.2 predictions for V07-V09 frozen before any V07 exposure. Earlier prediction text may not be rewritten.
-
-Checkpoint-level conclusions include: Kazuma's systems/exploit competence is strong but not identical to globally high judgment; Aqua's global “uselessness” and globally weak-updater models are rejected in favor of extreme competence plus state-specific deployment/externality errors; Megumin's Explosion commitment is a knowingly protected identity rather than low intelligence; Darkness wants specific danger/powerlessness conditions while also strongly valuing contribution, protector duty, and belonging; party attachment is better inferred from costly action than reduced verbal aggression.
-
-The V01 EPUB ebook bonus `アクア先生`, V02 ebook purchase bonus, and V03 ebook bonus `眠れる森のクルセイダー` are treated as non-sequential supplementary material pending chronology adjudication. They do not update the canonical longitudinal model at this stage.
-
-### V04 prospective-validation state
-
-V04 produced strong support for Model Generation 0.1 without a clear falsification, but the project does not convert this into an early Model Generation 0.2. Key V04 interim outcomes include:
-
-- `MG01-K01` CONFIRMED with unusually strong replication of both exploit preference and the predicted embodied second-order blind spot;
-- `MG01-E01` CONFIRMED by two independent specialist-routing resolutions (Running Hawk-Kites and Hans);
-- Kazuma concrete loyalty, grievance retaliation, and mixed-motive predictions confirmed at V04 level;
-- Aqua sacred/domain diagnosis, loyalty-by-action, and high-output externality mechanisms strongly supported;
-- Megumin social-framing and group-support predictions confirmed, while direct friendly-fire inhibition remains untested in V04;
-- Darkness protector/contribution/belonging predictions confirmed, while pain-based coercion receives only partial/supportive evidence;
-- Japanese seriousness/register-shift and non-L3-dominant humor predictions confirmed at V04 level.
-
-The V04 ebook bonus `町内会の不死の王` remains supplementary paratext pending chronology adjudication and does not update the sequential model.
-
-### V05 prospective-validation state
-
-V05 provides a second prospective test and, unlike V04, introduces a genuine model-boundary revision alongside broad confirmation. Key V05 outcomes include:
-
-- `MG01-K01` strongly CONFIRMED again: Japanese interface/facility exploitation succeeds locally but produces the Magic Killer second-order disaster, independently replicating Kazuma's post-transition consequence blind spot;
-- Kazuma concrete loyalty, grievance retaliation, and mixed-motive predictions remain CONFIRMED; V05 newly shows that identity recognition can override his own optimization preference when he preserves Megumin's Explosion build;
-- Aqua sacred/domain action and loyalty-by-action remain CONFIRMED, while `MG01-A03` tedious-duty shortcut remains NOT_TESTED;
-- `MG01-M01`, `M02`, and `M03` are strongly CONFIRMED; V05 also reveals that Megumin can voluntarily abandon Explosion identity under sufficiently strong relational guilt/contribution pressure; `M04` friendly-fire inhibition remains NOT_TESTED;
-- Darkness protector and meaningful-contribution predictions remain CONFIRMED; pain-only coercion still lacks a clean matched test; noble/belonging anxiety remains active and the royal invitation makes V06 a high-value direct test;
-- `MG01-E01` and `E02` are strongly CONFIRMED by the Sylvia/Magic Killer routing and reciprocal cleanup/identity-preservation behaviors;
-- `MG01-J02` remains CONFIRMED; `MG01-J01` is now PARTIAL and requires REVISE because Yunyun becomes *more* theatrically Crimson-Demon-like under serious duty, showing that seriousness realigns register around active role rather than universally reducing theatricality.
-
-V05 also supports mutual Kazuma/Megumin romantic interest as an active relationship variable, but not formal couple status.
-
-The V05 ebook bonus, if present in the collected EPUB, remains supplementary paratext pending chronology adjudication and does not update the sequential model.
-
-### V06 prospective-validation and Model Generation 0.2 state
-
-V06 closes the first prospective-validation tranche. `04 Checkpoints and Model Validation/KONOSUBA_V04-V06_CHECKPOINT.md` is the canonical Generation 0.2 freeze. Final Gen 0.1 adjudication across V04-V06: **16 CONFIRMED, 2 PARTIAL/revision-bearing, 2 NOT_TESTED, 0 complete falsifications**.
-
-Key tranche-closing revisions and discoveries include:
-
-- Kazuma's indirect exploit competence remains strongly supported, but V06 isolates a distinct failure mode: status/recognition success can induce overextension even without an exploit-transition error;
-- Kazuma is not indispensable to high-stakes victory when an institution supplies role structure. His comparative advantage is strongest in novel, under-structured, rule-heavy, cross-domain problems;
-- Kazuma's recurring fantasy of replacing his dysfunctional party is downgraded as a stable preference: actual separation/reclassification produces attachment and exclusion anxiety;
-- Aqua remains an elite sacred/support specialist whose judgment quality depends heavily on context, salience, and incentives; `MG01-A03` remains untested rather than being confirmed by analogy;
-- Megumin's Explosion commitment is relationally permeable rather than absolute, while direct serious valued-companion friendly-fire inhibition (`MG01-M04`) remains untested under a clean matched trigger;
-- Darkness's protector ethic now clearly includes social fairness/dignity protection and can override royal hierarchy; peer-belonging sensitivity remains a stronger psychological vulnerability than generic pain, while pain-only coercion (`MG01-D02`) remains only partially tested;
-- the ensemble routing theorem is revised from “Kazuma routes the specialists” to **“successful extreme specialization requires routing, but the routing source is substitutable”**;
-- the Japanese seriousness rule is revised from universal de-theatricalization to **register alignment with the role/identity that becomes authoritative under serious stakes**;
-- Iris is promoted to a secondary reconstruction candidate based on V06 evidence about constrained agency, nondeferential safety, learning, royal duty, and older-brother attachment. She is twelve in this source state; present behavior must not be back-projected into adult romantic commitment.
-
-Model Generation 0.2 was frozen before V07 exposure. `KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md` contains the immutable 22 V07-V09 predictions plus V07 and V08 prospective-validation addenda. V09 remains required before Model Generation 0.3.
-
-The V06 author afterword is excluded from character-model derivation. Narrative interlude and epilogues are included because they resolve causal and relationship state within the volume.
-
-### V07 prospective-validation state
-
-V07 is the first prospective test of Model Generation 0.2 and strongly validates several mechanism-level predictions without creating an early new model generation.
-
-Key V07 outcomes include:
-
-- `MG02-K01` and `K02` CONFIRMED strongly: Kazuma solves the Hydra and Dustiness/wedding problems through state changes, weak-tool/incentive exploits and then sacrifices his IP/wealth route for a concrete companion loss;
-- `MG02-K04` CONFIRMED strongly: Darkness's credible departure/marriage produces loneliness, failed replacement, investigation and rescue;
-- `MG02-K03` receives PARTIAL support from post-Sylvia status inflation but no clean V07 dangerous overextension;
-- `MG02-A01` CONFIRMED very strongly through Hydra domain reasoning and instant removal of Dustiness father's hidden demonic curse; `A02` is strongly confirmed by the false dragon-egg prestige/caretaking capture; `A03/A04` remain cleanly untested;
-- `MG02-M01` Trigger A and `M03` are strongly confirmed; `M02` receives partial support and `M04` remains untested;
-- `MG02-D01`, `D03`, and especially `D04` receive strong confirmation. V07 adds a new Darkness failure path: protector paternalism/self-erasure through concealed burden absorption;
-- `MG02-D02` is strongly confirmed for belonging sensitivity through resignation and re-entry anxiety, while pain-only coercion remains incompletely tested;
-- `MG02-E01/E02` are strongly confirmed. Community/social capital is now an explicit routing/resource layer;
-- `MG02-J01/J02` are confirmed at V07 level; Megumin's serious `bad wizard` rescue is a direct example of seriousness increasing theatricality around the authoritative role;
-- Iris `I01/I02` are not tested because Iris is not directly present in qualifying V07 scenes.
-
-V07 also confirms Chris/Eris identity within the canonical sequence through Kazuma's behavioral/address-pattern deduction.
-
-The V07 ebook bonus `たまにはお礼を言いたくて` remains supplementary paratext pending chronology adjudication and does not update the sequential model.
-
-
-### V08 prospective-validation state
-
-V08 is the second prospective test of Model Generation 0.2. It adds several strong confirmations plus useful non-tests without creating an early model generation.
-
-Key V08 outcomes include:
-
-- `MG02-K01` and `K02` CONFIRMED strongly through joint-festival incentive architecture, Aigis preference modeling, entrusted Chris/Eris artifact duty and Kazuma's crowd-cover action;
-- `MG02-K03` receives a cleaner noncombat confirmation: advisor praise/sales success increases scope, status reward and reputational/social risk;
-- `MG02-A01` is strongly confirmed in the guild insect-support role; `A02` is very strongly confirmed by worship/status goal substitution;
-- `MG02-A03` is now strongly supported as **selective real learning plus state-dependent defense**: Aqua prospectively applies a learned overconfidence rule, yet later defends the pyramid scheme while status/legal face-saving remains available;
-- `MG02-A04` remains untested;
-- Megumin `M01` receives partial support, while `M02`, `M03` and `M04` do not receive clean trigger matches. The forest Explosion provides strong inverse-condition evidence for why safe target separation matters;
-- `MG02-D01`, `D02` and `D03` are strongly supported; V08's ant versus public-stage contrast materially strengthens the semantic/agency-sensitive Darkness model. `D04` is not newly tested;
-- `MG02-E01` is strongly confirmed by guild versus Kazuma routing substitution, while `E02` is not newly tested;
-- `MG02-J01/J02` are confirmed at V08 level;
-- Iris `I01/I02` remain untested because Iris is absent.
-
-V08 also adds two major relationship developments: direct Megumin romantic interest with interrupted Kazuma reciprocity, and a serious Kazuma/Darkness intimacy branch constrained by Darkness's fairness toward Megumin. Neither establishes formal couple status.
-
-Chris/Eris is expanded as a secondary reconstruction candidate: V08 explicitly distinguishes divine and Chris social modes while preserving identity continuity, and identifies conscientious over-compliance as a new possible failure mechanism.
-
-The V08 ebook bonus `漢のロマンを叶えるために` remains supplementary paratext pending chronology adjudication and does not update the sequential model.
-
-## 13. Current next actions
-
-1. Before V09, reread `KONOSUBA_V04-V06_CHECKPOINT.md`, the frozen Model Generation 0.2 prediction section, and the V07-V08 outcome addenda.
-2. Begin canonical V09 deep reading as the **tranche-closing** prospective test of Model Generation 0.2.
-3. Preserve all pre-V07 prediction wording; V09 may add only outcome/adjudication evidence and longitudinal updates until the tranche checkpoint is complete.
-4. After V09, produce `KONOSUBA_V07-V09_CHECKPOINT.md`, adjudicate the full Gen 0.2 tranche, freeze Model Generation 0.3, and write V10-V12 predictions before opening V10.
-5. Keep Yorimichi, Consulting the Masked Devil, and Dust V06-V07 withheld from core model derivation until the main-series reconstruction suite reaches its frozen validation boundary.
-
-## 14. Governing principle
-
-The project succeeds only if the final models can explain not merely that the characters are funny, but **what repeatedly makes each specific character become funny in a specific way, what suppresses that behavior, and how the same underlying person should behave when the genre register changes**.
+Further source units then proceed in the governed natural order and scopes in the matrix/architecture. Keep accepted past readings and frozen baseline evidence intact, and use attributed revisions for analytical corrections. Git/audit receipts own publication identities; this map owns present state and governing routes.

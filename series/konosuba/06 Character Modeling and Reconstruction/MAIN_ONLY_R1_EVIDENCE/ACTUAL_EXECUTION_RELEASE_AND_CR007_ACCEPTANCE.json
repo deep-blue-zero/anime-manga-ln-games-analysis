@@ -1,0 +1,115 @@
+{
+  "released_utc_after_actual_safe_metadata_integrity_and_source_receiving": "2026-10-17T14:23:28.691911+00:00",
+  "authorization": "ACTUAL_FIRST_BOUNDED_SIMULATION_EXECUTION_RELEASE_90_MODE_INPUTS",
+  "not_holdout_release_or_suite_freeze": true,
+  "root_accepts_CR007_current_six_path_candidate": {
+    "outputs": [
+      {
+        "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_DARKNESS_CHARACTER_MONOGRAPH.md",
+        "bytes": 34675,
+        "sha256": "c63bd0c4efa574ec1233e37f6038050016cbbf96771ef1aaf7b73f3eda3d8071"
+      },
+      {
+        "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CLAIM_REVISION_LEDGER.md",
+        "bytes": 27936,
+        "sha256": "bd45786c57858b37d257c768d4fa82a0b0ff3bf90ccec2b0e18bd96109becc8c"
+      },
+      {
+        "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+        "bytes": 193759,
+        "sha256": "ac6e75ab7cb2c8af8b5895b982009b11fea4c196420ccc497dc887e26859c84c"
+      },
+      {
+        "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+        "bytes": 125287,
+        "sha256": "cbb5cbbde1aefcc0bcaf914f421dcd7a7a50cc512a7d7fee1d89743a7877beab"
+      },
+      {
+        "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+        "bytes": 101192,
+        "sha256": "cfc6a7f4598d8076abce1e2d75a40830b493fa9ac1af78f33ec17667a3b952a3"
+      },
+      {
+        "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md",
+        "bytes": 959140,
+        "sha256": "046cfb294ad1d1af43c7551e37525c4a74f5440ba82e20a1af0a452ed8a5b25e"
+      }
+    ],
+    "source_phase": "MAIN_PRINCIPAL_RECHECK_PRE_HOLDOUT_R1",
+    "full_new_prose_receiving": "Root complete6pathdiff: combined display truncated25unchangedcontexttokens; complete monographdiff recovered separately; all9firstnewvalues+both boundedv2precisionvalues received before this acceptance. P fullnewprose/inverse/scope closure actually received in prior call. Unchanged full bodies exact inverse reuse, not fresh wholefile semantic rereads.",
+    "peer_report_sha256": "ab54b960e3c5be9068850d0ad5c6e8b0c91dc770f3fd709086e7271c83772184",
+    "old66_pin_snapshot": "Exactly retrievable at39b;4currentmutableledger append derivatives, other62currentpins unchanged."
+  },
+  "binding_manifest_sha256": "e8239faaaa5e8f895a6157b30c85168d4b6a0b4df9f637e8058a7fafcc245f4b",
+  "binding_seal_sha256": "4d44a08e0d3cf48ab023317bf3115b7a73b9642ff5d50ae76baf9d4a1172a9d2",
+  "binding_sealed_utc": "2026-10-17T14:21:16.897072+00:00",
+  "root_actual_safe_receiving": "Complete updated7120B metadata/policy projection+11094B finalmanifest+3085B seal;27full file hashes/counts checked mechanically, no ownerprompt/binding/evaluator semantics opened. All4protected-state checkers passed after canonicalqualifications.",
+  "exact_models": {
+    "K": {
+      "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+      "bytes": 60135,
+      "sha256": "81566cbad8825d288595502af20897fd80dfb0d3583a524c77947615a5bf31ec"
+    },
+    "T": {
+      "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+      "bytes": 49900,
+      "sha256": "8ed8d78a9c9b538a88c4331214b74920715a32883408742bdf690534a000859e"
+    },
+    "A": {
+      "path": "/workspace/scratch/konosuba/v17-producer/reconstruction-models-main-only-r1-receiving-v3/KONOSUBA_AQUA_RECONSTRUCTION_MODEL.md",
+      "bytes": 63022,
+      "sha256": "f85d902572a6d1f5094a3892c693d7d456dde5b90b688d706840693a63499187"
+    },
+    "M": {
+      "path": "/workspace/scratch/konosuba/v17-producer/reconstruction-models-main-only-r1-receiving-v3/KONOSUBA_MEGUMIN_RECONSTRUCTION_MODEL.md",
+      "bytes": 59422,
+      "sha256": "618a867bfadb361305de4a4b8587a86f348eae1985042bbef11389fd9ab67080"
+    },
+    "D": {
+      "path": "/workspace/scratch/konosuba/v17-independent/main-only-reconstruction-source-precision-proposal-v4/KONOSUBA_DARKNESS_RECONSTRUCTION_MODEL.md",
+      "bytes": 61217,
+      "sha256": "dc70739ab5613e70b6387421f324330735a0b79d1944100a3fd613f1cd2a310f"
+    },
+    "E": {
+      "path": "/workspace/scratch/konosuba/v17-independent/main-only-reconstruction-receiving-v2/KONOSUBA_PARTY_INTERACTION_MODEL.md",
+      "bytes": 66517,
+      "sha256": "13c288a0278f87af60ee0b1c01d04ed6336977e9f34d36e9f163a9e6399b0271"
+    }
+  },
+  "owner_packs_now_released": [
+    {
+      "path": "/workspace/scratch/konosuba/reconstruction-pre-response-binding-v1/SAFE_OWNER_PROMPT_PACK_ROOT.json",
+      "bytes": 77120,
+      "sha256": "65157674d948f17907893abd47ab630e1e325aea1da1dbf17600b2f606375540"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/reconstruction-pre-response-binding-v1/SAFE_OWNER_PROMPT_PACK_PRODUCER.json",
+      "bytes": 151637,
+      "sha256": "3c11810c46f78632c92f839d7300cb4514c0582252b0fcb18afa0ac45e7a3b66"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/reconstruction-pre-response-binding-v1/SAFE_OWNER_PROMPT_PACK_INDEPENDENT.json",
+      "bytes": 148201,
+      "sha256": "7fcc86d74bd8932dc5cb4c2c1429948d7e6d9e38d8c3001559c8a61c5932163c"
+    }
+  ],
+  "assignment": {
+    "ROOT": "Kazuma18 only",
+    "PRODUCER": "Aqua18/Megumin18 only",
+    "INDEPENDENT": "Darkness18/Party18 using allsix models"
+  },
+  "generation_boundary": {
+    "project_generation": "V1",
+    "model_version": "MAIN_ONLY_R1",
+    "settings": "Codex based onGPT-6 declared; exact servedid/build/temperature/top_p/seed/inferenceimplementation UNKNOWN. Observed filewrite/seal dates not fabricated perresponse samplingtimes.",
+    "format": "Exact fixed prompt cores/common output contract; each finite response plus concise causal audit, availableinformation/resources/relationship/onealternative/changefact/uncertainty. Japanese speaker+addressee explicit ifspeech.",
+    "first_outputs": "Preserve every first complete response before evaluator feedback; normal authoring/structural checks are not unfiltered API sampling or stochastic independent trials. No posthoc goal/exception or outcome repair. Material correction/retest is versioned and diagnostic.",
+    "knowledge": "Only ownmaskedpack + currentmodels; no fullbindings/eligibility/adverse signatures/answer menus/hiddenfacts or otherownersoutputs until first complete ownresponse set sealed. Do notinvent query replies/NPCagreement/unknownphysicalresult.",
+    "reviews_after_seals": "S actual full90receiving androotfullpreboundbinding/detail receiving afterrootK18seal; all8causal/voicecriteria, behavioralvs typed/execution/missingness separate.",
+    "holdout_expanded_bonus_afterword_image": "CLOSED; no source exposure released",
+    "P_shield": "No fourholdout narrative/findings/scores toPlineage; source mainonly."
+  },
+  "responses_generated_at_release": 0,
+  "suite_acceptance_or_freeze": "NOT_PERFORMED",
+  "canonical_Git_writer": "Root only; no canonicalmodels adopted/published yet; sourceunit/phase publication gates remain required."
+}

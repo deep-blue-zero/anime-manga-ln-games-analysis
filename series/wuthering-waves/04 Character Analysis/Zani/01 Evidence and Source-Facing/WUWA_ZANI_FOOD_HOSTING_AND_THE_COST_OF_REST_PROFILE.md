@@ -1,0 +1,67 @@
+---
+series: WUWA
+character: Zani
+artifact_type: character_specialist_profile
+analytical_responsibility: "Ordinary appetite, professional and private hosting, birthday custom, actual leave, and the ethical edge of protection"
+scope: ZANI_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
+analysis_generation: ZANI_PRE_AV_V0_1
+status: draft_noncurrent
+release_state: author_working_draft_pending_owner_review
+source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
+source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
+source_generation_frozen: true
+source_freeze_metadata: conflicting_collection_and_embedded_lock_fields
+text_authority: zh-Hans
+localization_witnesses: [en, ja, ko]
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: true
+---
+
+# Zani — what to do with an evening that is hers
+
+The nightwalker who wants ordinary safety is also a hungry employee, a prepared host, a colleague who covers a desk, and a guest who discovers that her first real holiday is tiring. Those small acts matter to a durable character model because they prevent “workaholic with pizza” from replacing a person whose attention is divided among obligation, appetite, pleasure and the difficult practice of stopping. This profile extends the [continuous reading](WUWA_ZANI_CHARACTER_DEEP_DIVE_PRE_AV.md), [labor/force specialist](WUWA_ZANI_LABOR_RULES_FORCE_AND_REST_PROFILE.md) and [claim matrix](WUWA_ZANI_EVIDENCE_AND_FALSIFICATION_MATRIX.md). It uses the pinned Chinese semantic view, with EN/JA/KO as witnesses; it does not infer audible delivery from measured audio or animation from prose descriptions.
+
+## The supper she never ate
+
+`FavorStory_150701_Content` opens after midnight as Margherita prepares to close. Zani orders her usual Nectarwine and potato wedges, asking for extra gemberry jam and black pepper. Margherita recognizes a fatigued regular. Before the order reaches her, Zani hears a tile break on a roof, leaves money and follows the intruder; Margherita turns with the wedges to find an empty seat. The source does **not** say Zani ate pizza that night. Its oven and counter contain pizza; that is background, not her order. `FavorWord_150708_Content` separately states her affection for Margherita's hot pizza after overtime. Keeping the two sources distinct makes the cost concrete: she forgoes the specific meal she had requested, not a symbolic “pizza scene” manufactured from a later preference [ZAN-E03, C23].
+
+The same favor story shows mundane self-monitoring. She remembers that a cold pancake at breakfast had mildly upset her stomach and imagines porridge with baked egg and plenty of sugar for tomorrow. This is neither a universal diet plan nor clinical evidence about a condition. It is the private attention of someone exhausted enough to plan the next meal while waiting for this one. `FavorWord_150709_Content` says the bitter unsweetened espresso favored at the bank is not her chosen comfort; work is bitter enough, so she prefers something sweet. These details can support an invented quiet breakfast or after-shift scene, but not a model that answers every meal prompt with pizza. Her taste is varied and situation-dependent [ZAN-E03, E26, C23].
+
+The episode also sets a moral cost without making it mystical: she catches a sound the city and Margherita do not, pays, and leaves before eating. One might infer that her sense of duty regularly cuts into rest, but this one episode does not prove she *always* sacrifices personal needs or that the unshown intruder is caught. Its narrative force comes from the abandoned wedges, not from a guaranteed victory. In a crossover scene, a suitor who notices she has not eaten may offer help; the source does not require Zani to accept, nor does it imply that feeding her resolves the work that took her away.
+
+## Paid hosting is attentive, but it remains paid hosting
+
+In `FavorStory_150705_Content`, Zani prepares for the mysterious bank guest. She straightens shirt and tie, knows little about the visitor, anticipates a meal at Margherita's if arrival is near lunch, and has a different pizza-and-waterfront backup if refused. She feels nervous; the story describes her tail moving while she mentally checks the plan. That tail motion is **textually narrated**, not an observed runtime animation. She is also explicitly motivated by a promised paid holiday and curious about the unusual guest. It would be unsound to recast the plan as an early romantic date or to claim that her later trust was predetermined before the first meeting [ZAN-E07, E26].
+
+At `4204/2/10–18`, she offers formal route-planning if the guest wants it, admits she lacked time to learn their itinerary or personal details, and asks for correction if her service misses something. She explains a fast, low-risk sightseeing scheme but personally does not recommend it. This qualifies a common model error: efficiency is her work ethic, not a belief that every pleasurable experience should be maximized into a checklist. Later she recommends a particular pizza and asks for time to hand off an insured auction shipment. At `4204/2/24–30` she explains understaffing, the promised extra paid leave and a generous client; she then thanks Rover for easing the formal tone and takes them to eat. The relaxed register arises *inside* a job and after an invitation, not as her default address to every stranger [ZAN-E11, E26, C24].
+
+The details suggest a bounded hosting model. She can offer options and disclose when she lacks information. She can also overprepare. She may recommend against a tourist speedrun without denying that a client can request one. The distinction between “I can organize your day” and “I know what you personally want” remains important when an invented suitor or another crossover character asks her to plan an outing. The source supports skill and tentative adaptation, not perfect mind-reading.
+
+## Sweets bought in uncertainty, a party planned in confidence
+
+At `7297/7/0–4`, a later Zani buys one of every available sweet because she does not know Rover's taste. The action is small but analytically exact: it shows accommodation *because* preference is unknown, not a lucky discovery of the one correct flavor. In the same scene she has a serious reason to meet, discusses suspicious acts against family staff, asks Rover to help bring out a reluctant witness, and says the hotel has been told to let them rest before the night's action (`7297/7/14–27`). A bag of sweets belongs beside operational requests. It is neither a secret romantic confession nor proof that care is only a pretext [ZAN-E14, E27, C24].
+
+`FavorWord_150718_Content` gives a contrasting social act. For Rover's birthday, Zani invokes Ragunnesi custom: leave work, gather friends and celebrate exuberantly at Palazzo Agrotta. She says the venue is already arranged. Chinese, Japanese and Korean say the festivities continue until dawn; English changes the deadline to before midnight and adds an explicit “my job” flourish about ensuring Rover's fun. All versions support an energetic, planned invitation. None records Rover accepting, wishing for a party, or appreciating the same level of noise. The prearrangement makes “Zani always asks what the other person wants before planning” a false general rule. It also does not make her selfish: the line expresses a cultural model of celebrating someone she cares about. A faithful fictional response can let Rover prefer a smaller gathering and make her adjustment a *new* scene choice, not pretend the archive already shows it [ZAN-E25, E27, C24].
+
+Her own holiday later tests the reverse assumption that she naturally prefers festivities. At `12439/7/5–17`, after Carlotta's paid-leave promise actually comes true, she says no messages are liable to summon her back to the Vault. She expected freedom from work and other duties to let her enjoy a party. After a few hours, accumulated pressure or a sudden drop in work-mode energy leaves her foggy and worn out; she has already eaten enough that another energy drink is unappealing. She first says she has not finished having fun, then chooses somewhere to rest and wishes Rover a good time. This is not “she hates parties.” She deliberately went, ate, played and wanted more, but could not sustain that particular evening. Her own stated explanation is tentative, not a diagnosis of exhaustion, addiction, or a permanent inability to enjoy leisure [ZAN-E24, E28, C25].
+
+## Whose ordinary life is being defended?
+
+Two archive lines that superficially contradict each other actually define her politics of repetition. `FavorWord_150705_Content` describes her own life as a loop of trivial tasks and dwindling pleasure before Rover brings Carnevale-like color. `FavorWord_150710_Content` wishes for Ragunna's familiar sea breeze, plazas, shop windows, food smells and people finding their place to continue. One routine consumes her agency; the other is a shared civic order worth protecting. This does not prove that Rover alone can save her from boredom, or that every change to Ragunna threatens her. It does explain why she can want the Nightwalker to become obsolete without wanting a stagnant city: ordinary life is valuable when people can inhabit it voluntarily and safely [ZAN-E09, E18, E30, C27].
+
+At `8586/10/2–12`, after the Black Alley case, she recognizes streets and buildings by their night outlines, enjoys sea air and imagines freshly baked bread. She also names insomnia as a habit not broken in a day or two. At `8587/2/0–2`, she invites Rover to enjoy hard-won quiet together. The near-duplicate `8819/10` should not count as another independent recovery episode. The chosen view and the continuing insomnia both belong to this source state. An invented later walk can preserve the coexistence of pleasure and fatigue; it should not treat the city's calm as proof she is cured, or her wakefulness as proof she cannot enjoy company [ZAN-E22, E28, C25].
+
+Her everyday care extends beyond Rover. At `9950/2/1,8`, she tells a distressed colleague to step outside for air and offers to transfer their work so they can rest. At `14525/1/0–4`, a *message-form* source says she reported a major safety issue through overtime and reassures Rover that Ragunna has people holding the fort. The selected WavesLine shell is metadata-only; these lines do not warrant inventing a precise phone UI or a live call. In both settings, practical care is labor redistribution and communication, not simply affectionate banter. Her paid leave is more meaningful if others can cover for her in return, but the source does not show that arrangement, so it remains an open question [ZAN-E23, E25].
+
+## The coercive edge that hospitality must not hide
+
+The sweets scene also contains a sharper statement. At `7297/7/14–18`, Zani notes that the caught participants committed relatively minor offenses and will not talk. In Chinese, Japanese and Korean, she says torture is hard to use because opponents could make political use of it; English euphemizes the same thought as “more extreme methods.” This is not a clean statement that she would *like* to torture them. It is also not an explicit principled ban. The exact distinction matters when the later Talos scene permits frightening intimidation. A model that turns Zani into an impeccable procedural liberal would hide a textual moral risk; one that treats a conditional discussion as a license to abuse petty offenders would overstate it [ZAN-E14, E20, E29, C26].
+
+The contrast with her concrete aftercare is equally important. She reports differentiated adjudication for Black Alley participants, helps less-deeply involved people reach a support fund and market stalls, and covers a colleague's workload. Those acts are not erased by the coercive language. Nor do they retroactively sanctify every threat. For a hypothetical romance or friendship scene, a companion can admire her usefulness and still question a tactic. She should not be forced to respond with a generic “I never bend the rules,” because the source shows purposeful rule fiction and ethically troubling words. The challenge is whether she can protect vulnerable people without letting her own urgency treat them as instruments [ZAN-E19–E21, C04–C06].
+
+## Scenario controls and open evidence
+
+A credible invitation can be lively if it is her planned birthday gift, or quiet if she is presently fatigued on leave; those are different states, not a fixed preference test. A suitor who insists on a six-stop sightseeing schedule may encounter her explicit dislike of high-efficiency tourism. Someone offering food should not assume the interrupted wedges, beloved pizza, sweet coffee alternative and warm bread are the same meal. A scene can let her say she does not know someone's preference and provide choices. It can also let someone challenge the scale of a party she already booked. None of these extrapolations establishes a canon partner or a behavioral probability.
+
+Priority future review: follow the actual `4204/2` and `7297/7` option routes; inspect the birthday address's presentation and any response if one exists; directly listen to four-language food, work and birthday lines; and view the later leave scene before assigning physical or vocal signs of fatigue. The two voiced lines with missing normalized text at `4657/1/0–1` remain unresolved regardless of this analysis. No source text should be guessed from sound statistics, and no prose description of tail movement should be described as seen runtime animation.

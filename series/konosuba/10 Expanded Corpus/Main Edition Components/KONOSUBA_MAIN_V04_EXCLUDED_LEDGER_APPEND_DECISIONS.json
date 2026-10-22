@@ -1,0 +1,157 @@
+{
+  "schema": "KONOSUBA_MAIN04_EXCLUDED_TEN_LEDGER_APPEND_DECISIONS_V1",
+  "source_id": "MAIN-04",
+  "ten_current_prefix_controls": [
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "bytes": 286382,
+      "sha256": "e0455ea7e63938dcd51fe56e716f4302841455f48c5a26d8b5c6d5aef5f2c540"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "bytes": 207301,
+      "sha256": "6df7a289eb548535f54832da166a1cbeff3321abfab202ba4eab228866ec6f42"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "bytes": 776279,
+      "sha256": "858e55382ed41b165802ccd6f572907bbfc5e0667d5e249a8da0836fba773462"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "bytes": 587083,
+      "sha256": "3e3c5efbb9b32074ff9019ca43374dd2efb5c29e060f9aaf0abf7546954a710e"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "bytes": 185770,
+      "sha256": "c9b9a9ee4f97b64d655621dd40bb0126aa0629ee00255ab6e4f4ac969ed2ef8f"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "bytes": 178689,
+      "sha256": "5dc118d9d106dad981d33f2883c5fb83e4ff1d1ff5b7bb734d741dbfe4dd6bb9"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "bytes": 200878,
+      "sha256": "07ea2f4ba578793761f6cae8aab39006f6c91546cf9ced164c06f6193f591edf"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "bytes": 166601,
+      "sha256": "1e83d5da53cf6fd89e7c645c362caef6c7e1dbfbabf2562367df18fde1b9f67f"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "bytes": 256467,
+      "sha256": "5c1cf1c0cdeee26d17ffea7c404b9f293f0f1fc71c06cd2477401729e1143b6f"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "bytes": 114765,
+      "sha256": "d906c4e97bced80c53ec978f779043b17ded626bfc7cfef7816121974ab70c4a"
+    }
+  ],
+  "rows": [
+    {
+      "id": "M04EX-LD01",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Wiz/other hired workers; staged or imagined actors separately typed",
+      "native_routes": "U029P6-28/54-66",
+      "observation": "Wiz corrects attributed pride, volunteers for a scoped task and later protests a sacred attack; Aqua's manual competence coexists with harmful target framing.",
+      "implication": "Volunteering and fear have distinct objects; neither generic timidity nor limitless compliance follows.",
+      "authority_and_adverse_limit": "New bonus and declared paratext; retained-principal joins are audits of existing events, not new independent tests. Original ledger prefixes, controls and scores stay exact."
+    },
+    {
+      "id": "M04EX-LD02",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Wiz/other hired workers; staged or imagined actors separately typed",
+      "native_routes": "U029P39/55-63",
+      "observation": "K actually corrects worker identity and makeup classification; Aqua's weak-power intention is not Wiz consent or a shown safety repair.",
+      "implication": "Keep recipient agency, actual attempted intervention and unresolved risk; no blanket affection-based permission.",
+      "authority_and_adverse_limit": "New bonus and declared paratext; retained-principal joins are audits of existing events, not new independent tests. Original ledger prefixes, controls and scores stay exact."
+    },
+    {
+      "id": "M04EX-LD03",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Wiz/other hired workers; staged or imagined actors separately typed",
+      "native_routes": "H01-H12;U020-U021/IMG018-019",
+      "observation": "Real lich as prop, convincing makeup, wrong-audience scare, mistaken safety test and anomalous reward are five selected linked effects; imagined raster baths stay counterfactual.",
+      "implication": "Gag function does not erase forced recruitment, protests or flight; no imagined injury/death or extra event count.",
+      "authority_and_adverse_limit": "New bonus and declared paratext; retained-principal joins are audits of existing events, not new independent tests. Original ledger prefixes, controls and scores stay exact."
+    },
+    {
+      "id": "M04EX-LD04",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Wiz/other hired workers; staged or imagined actors separately typed",
+      "native_routes": "V01-V32",
+      "observation": "Wiz's preference correction, scoped acceptance, interrupted clarifications and group requests have distinct speakers and information.",
+      "implication": "Task/register/function require context; all selected whole effects portableL1, no automatic L3 from ruby/hesitation or acoustic claim.",
+      "authority_and_adverse_limit": "New bonus and declared paratext; retained-principal joins are audits of existing events, not new independent tests. Original ledger prefixes, controls and scores stay exact."
+    },
+    {
+      "id": "M04EX-LD05",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Wiz/other hired workers; staged or imagined actors separately typed",
+      "native_routes": "U029P24/30-66;retainedU019P402-406/U022P1-124",
+      "observation": "K misidentifies arrivals initially but updates and attempts clarification; hypothetical elderly harm differs from actual flight/reward. Imagined Wiz and actual unnamed bath woman are separated.",
+      "implication": "Actual correction survives; source criticism is not omniscience or a universally candid account.",
+      "authority_and_adverse_limit": "New bonus and declared paratext; retained-principal joins are audits of existing events, not new independent tests. Original ledger prefixes, controls and scores stay exact."
+    },
+    {
+      "id": "M04EX-LD06",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Wiz/other hired workers; staged or imagined actors separately typed",
+      "native_routes": "U029P8/11/18-28/65-66",
+      "observation": "Neighborhood association entertainment, staff labor, makeup, payment and Wiz's wish not to cause excessive fright ground the small event.",
+      "implication": "No new job identity, artistic standard or global preference from one commission; unexpected bonus not foreknown reward.",
+      "authority_and_adverse_limit": "New bonus and declared paratext; retained-principal joins are audits of existing events, not new independent tests. Original ledger prefixes, controls and scores stay exact."
+    },
+    {
+      "id": "M04EX-LD07",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Wiz/other hired workers; staged or imagined actors separately typed",
+      "native_routes": "U029P18-26/43-62;retainedU016P101-105/341-343",
+      "observation": "Aqua performs convincing makeup; correct-looking disguise leads workers to a wrong ontology. Creature and object image joins correct first visual impressions.",
+      "implication": "Manual skill, diagnosis, safe sacred targeting and complete event success are separate. No spell release/efficacy shown.",
+      "authority_and_adverse_limit": "New bonus and declared paratext; retained-principal joins are audits of existing events, not new independent tests. Original ledger prefixes, controls and scores stay exact."
+    },
+    {
+      "id": "M04EX-LD08",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Wiz/other hired workers; staged or imagined actors separately typed",
+      "native_routes": "U029P54-66",
+      "observation": "Wiz explicitly objects to being treated as a zombie and K explains; group nonetheless requests purportedly human-safe spell, and Aq offers weak power.",
+      "implication": "Comic fear is actual; no trusted consenting-friend A05 configuration or definitive prevention of harm is invented.",
+      "authority_and_adverse_limit": "New bonus and declared paratext; retained-principal joins are audits of existing events, not new independent tests. Original ledger prefixes, controls and scores stay exact."
+    },
+    {
+      "id": "M04EX-LD09",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Wiz/other hired workers; staged or imagined actors separately typed",
+      "native_routes": "U029P30-63",
+      "observation": "Initial participants/staff error and later rare-zombie interpretation prevent ordinary corrective evidence from resolving the shared target account.",
+      "implication": "Different actors update differently. Knowledge of a safe-on-human rule cannot establish this target is human.",
+      "authority_and_adverse_limit": "New bonus and declared paratext; retained-principal joins are audits of existing events, not new independent tests. Original ledger prefixes, controls and scores stay exact."
+    },
+    {
+      "id": "M04EX-LD10",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "subjects": "Kazuma/Aqua/Wiz/other hired workers; staged or imagined actors separately typed",
+      "native_routes": "CURRENT_EXPLORATORY_LOCAL_ASSESSMENTS;U029",
+      "observation": "Compare31principal+8party unchanged commitments qualitatively; distinguish actual manual/outsider-phase attempts from incomplete acknowledgment, private-premise and safety predicates.",
+      "implication": "No blind/independent test, revised historical outcome, new score denominator or final full-corpus model.",
+      "authority_and_adverse_limit": "New bonus and declared paratext; retained-principal joins are audits of existing events, not new independent tests. Original ledger prefixes, controls and scores stay exact."
+    },
+    {
+      "id": "M04EX-LD11",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "subjects": "Kazuma/Aqua/Wiz/other hired workers; staged or imagined actors separately typed",
+      "native_routes": "U029P6-28/55;stagedprofiles/NEXT",
+      "observation": "Secondary evidence: Wiz's explicit wants, actual volunteering and refusal add retrospective detail; no full Y01/CE01/I01/I02 trigger in this bonus or imagined promotion.",
+      "implication": "Historical secondary lineage, letters-as-NT and preY4SEC01 scopes remain exact; census and character-specific authoring continue separately.",
+      "authority_and_adverse_limit": "New bonus and declared paratext; retained-principal joins are audits of existing events, not new independent tests. Original ledger prefixes, controls and scores stay exact."
+    }
+  ]
+}

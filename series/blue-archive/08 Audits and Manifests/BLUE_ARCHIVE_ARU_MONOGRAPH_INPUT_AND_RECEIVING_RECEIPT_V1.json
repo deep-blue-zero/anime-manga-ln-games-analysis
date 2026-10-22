@@ -1,0 +1,1881 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_MONOGRAPH_INPUT_AND_AUTHOR_SCOPE_RECEIPT_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE",
+  "subject": "Aru",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_ARU_CHARACTER_MONOGRAPH.md",
+  "canonical_adoption_boundary": "This candidate takes effect only after ROOT verifies and installs all declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The exact original is immutable; pending, C-only, historical 353/26 or publication states below describe its original custody event. Current required scope is355/29. They are not current adoption states.",
+  "original_exact_tuple": {
+    "path": "PS68_MONOGRAPHS/ARU_MONOGRAPH_RECEIVING_RECEIPT.json",
+    "bytes": 88146,
+    "sha256": "a5846b7e002de5d99d096fb76354d0337f2f4df3fd5f16112220b74a7a174ff2",
+    "git_blob_oid_of_actual_bytes": "7d4c84f4b2d4b5147560dea39f39996ff3f1fc9b",
+    "lines": 1754
+  },
+  "public_reference_translation": "Repository paths are recoverable repository-relative routes; external/private/local witness labels preserve provenance only and do not serve files or admit new material. No original tuple is recomputed as a public derivative tuple.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "ROOT complete literary decision is preserved; mechanical full-byte transport and exactness are separately checked."
+  },
+  "historical_author_or_root_payload": {
+    "status": "LOCAL_CANDIDATE_ROOT_RECEIVING_AND_ADOPTION_PENDING",
+    "candidate": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_MONOGRAPHS/BLUE_ARCHIVE_ARU_CHARACTER_MONOGRAPH.md",
+      "bytes": 44503,
+      "lines": 187,
+      "sha256": "3554ef6992f49274f2a61a96e20de5cf0602defc8a7ac532e74cefc3f9db56a1",
+      "words": 6167,
+      "actual_saved_body_receiving": "cba3be:1–112;06844e:113–187 through EOF, untruncated. Exact changed150 read7595c2."
+    },
+    "analytical_base": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+    "historical_source_witness": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+    "source_commit": "a038020f1f5ac02dcfe76962426d38f86414cdd8",
+    "source_generation": "BA_REFRESH_20260928T032248159554Z",
+    "fresh_complete_accepted_arguments": [
+      {
+        "path": "series/blue-archive/02 Sequential Readings/BOND/ARU/BLUE_ARCHIVE_ARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "bytes": 37075,
+        "sha256": "d7bdc25e91b1a9671bce5c9a1852e735015d672c2fb8a038c65d75587078f1e9",
+        "lines": 221,
+        "actual_scope": "COMPLETE_ARGUMENT_THROUGH_EOF_UNTRUNCATED",
+        "tool_chunks": [
+          "c34d13:1–140",
+          "92d1f4:141–221"
+        ],
+        "same_current_main2e_c1": true,
+        "new_primary_credit": false
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2201_DEEP_READING.md",
+        "bytes": 20604,
+        "sha256": "54bfc7a4c14e258acdfe36e28b5be1b845ad3347a2748f2bf3a0f95da5d69e43",
+        "lines": 137,
+        "actual_scope": "COMPLETE_ARGUMENT_THROUGH_EOF_UNTRUNCATED",
+        "tool_chunks": [
+          "25bb74:whole137"
+        ],
+        "same_current_main2e_c1": true,
+        "new_primary_credit": false
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1901_1902_DEEP_READING.md",
+        "bytes": 25362,
+        "sha256": "5272f38efcec91af3817c895c191a01d2d1c1d9c04dca5da3c304685cb593843",
+        "lines": 154,
+        "actual_scope": "COMPLETE_ARGUMENT_THROUGH_EOF_UNTRUNCATED",
+        "tool_chunks": [
+          "b27f8a:whole154"
+        ],
+        "same_current_main2e_c1": true,
+        "new_primary_credit": false
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_809/BLUE_ARCHIVE_EVENT_809_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+        "bytes": 20216,
+        "sha256": "04a41b534c4102c215832cce876737f0d3ff3907088cd0a7194b8ffdeb523c04",
+        "lines": 125,
+        "actual_scope": "COMPLETE_ARGUMENT_THROUGH_EOF_UNTRUNCATED",
+        "tool_chunks": [
+          "c81c3f:whole125"
+        ],
+        "same_current_main2e_c1": true,
+        "new_primary_credit": false
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_037_80000037_DEEP_READING.md",
+        "bytes": 8438,
+        "sha256": "0557666f4735a3024b04f543c1cdc81e15d01c16645c8f0a75592180d8b751bf",
+        "lines": 73,
+        "actual_scope": "COMPLETE_ARGUMENT_THROUGH_EOF_UNTRUNCATED",
+        "tool_chunks": [
+          "9b8f52:whole throughEOF"
+        ],
+        "same_current_main2e_c1": true,
+        "new_primary_credit": false
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_E002_DEEP_READING.md",
+        "bytes": 5605,
+        "sha256": "59978e87fce22d33108f7044976f295fe7ae9e7dc628d9677c3dcb8cea3175dd",
+        "lines": 38,
+        "actual_scope": "COMPLETE_ARGUMENT_THROUGH_EOF_UNTRUNCATED",
+        "tool_chunks": [
+          "9b8f52:whole throughEOF"
+        ],
+        "same_current_main2e_c1": true,
+        "new_primary_credit": false
+      }
+    ],
+    "reused_complete_accepted_arguments": [
+      {
+        "path": "series/blue-archive/02 Sequential Readings/MINI/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+        "read_base": "2927442fef0daa17df1098d82bb62e0d8a46f19f",
+        "analytical_source_owner": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+        "bytes": 93829,
+        "sha256": "03fb501e4b41f19d7560fb01085f9c5498834e11a8ae1c2c79a64d27c731717f",
+        "lines": 344,
+        "actual_receiving": "COMPLETE_THROUGH_EOF_AFTER_REPAIRS_WHERE_NEEDED",
+        "emitted_ranges": [
+          [
+            1,
+            344
+          ],
+          [
+            110,
+            169
+          ],
+          [
+            170,
+            229
+          ],
+          [
+            230,
+            290
+          ]
+        ],
+        "source_byte_equality_at_292_and_2e": true,
+        "source_bytes_equal_current_main2e_c1": true,
+        "current_credit": "UNCHANGED_PERSONALLY_COMPLETE_ACCEPTED_ARGUMENT_REUSE",
+        "new_primary_credit": false
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "read_base": "2927442fef0daa17df1098d82bb62e0d8a46f19f",
+        "analytical_source_owner": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+        "bytes": 64540,
+        "sha256": "9745010e16ef2e7bc09b11eab784f9bf5771fe0a7e6ef48bfb3af763be7f156e",
+        "lines": 349,
+        "actual_receiving": "COMPLETE_THROUGH_EOF_AFTER_REPAIRS_WHERE_NEEDED",
+        "emitted_ranges": [
+          [
+            1,
+            190
+          ],
+          [
+            191,
+            278
+          ],
+          [
+            279,
+            349
+          ]
+        ],
+        "source_byte_equality_at_292_and_2e": true,
+        "source_bytes_equal_current_main2e_c1": true,
+        "current_credit": "UNCHANGED_PERSONALLY_COMPLETE_ACCEPTED_ARGUMENT_REUSE",
+        "new_primary_credit": false
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C001_CHECKPOINT.md",
+        "read_base": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+        "current_control_base": "2927442fef0daa17df1098d82bb62e0d8a46f19f",
+        "bytes": 18013,
+        "sha256": "68c68589c96361f94053cd4485daf68c1cdb70d31d622607aded26492aa7da0e",
+        "lines": 83,
+        "actual_receiving": "REUSED_PERSONALLY_COMPLETE_ARGUMENT_FROM_FROZEN_TOKI_RECEIPT",
+        "source_byte_equality_at_292_and_2e": true,
+        "source_bytes_equal_current_main2e_c1": true,
+        "current_credit": "UNCHANGED_PERSONALLY_COMPLETE_ACCEPTED_ARGUMENT_REUSE",
+        "new_primary_credit": false
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_CHECKPOINT.md",
+        "read_base": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+        "current_control_base": "2927442fef0daa17df1098d82bb62e0d8a46f19f",
+        "bytes": 13519,
+        "sha256": "30ac3ba693ff56140fb8d57b5caf73352206692a17ac9628b347eb19a7bd1408",
+        "lines": 77,
+        "actual_receiving": "REUSED_PERSONALLY_COMPLETE_ARGUMENT_FROM_FROZEN_TOKI_RECEIPT",
+        "source_byte_equality_at_292_and_2e": true,
+        "source_bytes_equal_current_main2e_c1": true,
+        "current_credit": "UNCHANGED_PERSONALLY_COMPLETE_ACCEPTED_ARGUMENT_REUSE",
+        "new_primary_credit": false
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_CHECKPOINT.md",
+        "read_base": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+        "current_control_base": "2927442fef0daa17df1098d82bb62e0d8a46f19f",
+        "bytes": 14443,
+        "sha256": "f1d911ce2d822e067d03708b0326f1b41bc032f937c5b24a00d7c256e3eb1c50",
+        "lines": 76,
+        "actual_receiving": "REUSED_PERSONALLY_COMPLETE_ARGUMENT_FROM_FROZEN_TOKI_RECEIPT",
+        "source_byte_equality_at_292_and_2e": true,
+        "source_bytes_equal_current_main2e_c1": true,
+        "current_credit": "UNCHANGED_PERSONALLY_COMPLETE_ACCEPTED_ARGUMENT_REUSE",
+        "new_primary_credit": false
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_CHECKPOINT.md",
+        "read_base": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+        "current_control_base": "2927442fef0daa17df1098d82bb62e0d8a46f19f",
+        "bytes": 12691,
+        "sha256": "04e317025793999e7615ac3a4bad7601cb75aefe3e5b9ef949d48e17a3f47eef",
+        "lines": 60,
+        "actual_receiving": "REUSED_PERSONALLY_COMPLETE_ARGUMENT_FROM_FROZEN_TOKI_RECEIPT",
+        "source_byte_equality_at_292_and_2e": true,
+        "source_bytes_equal_current_main2e_c1": true,
+        "current_credit": "UNCHANGED_PERSONALLY_COMPLETE_ACCEPTED_ARGUMENT_REUSE",
+        "new_primary_credit": false
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "read_base": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+        "current_control_base": "2927442fef0daa17df1098d82bb62e0d8a46f19f",
+        "bytes": 49292,
+        "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+        "lines": 452,
+        "actual_receiving": "REUSED_PERSONALLY_COMPLETE_ARGUMENT_FROM_FROZEN_TOKI_RECEIPT",
+        "source_byte_equality_at_292_and_2e": true,
+        "source_bytes_equal_current_main2e_c1": true,
+        "current_credit": "UNCHANGED_PERSONALLY_COMPLETE_ACCEPTED_ARGUMENT_REUSE",
+        "new_primary_credit": false
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_834/BLUE_ARCHIVE_EVENT_834_CONTEXTUALIZATION_CHECKPOINT.md",
+        "base": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+        "bytes": 53866,
+        "sha256": "ab779ae688f8ced967127a810180613f39b5fc23fd15976bcd2ee3cd0b863ab0",
+        "total_lines": 268,
+        "actual_receiving": "COMPLETE_THROUGH_EOF",
+        "basis": "Personally received analytical/authority contents through EOF during this task; complete does not transfer primary/source/authorship/independence credit",
+        "emitted_ranges_if_recorded": [
+          [
+            1,
+            145
+          ],
+          [
+            146,
+            268
+          ]
+        ],
+        "source_bytes_equal_current_main2e_c1": true,
+        "current_credit": "UNCHANGED_PRIOR_PERSONALLY_COMPLETE_ARGUMENT_REUSE_AND_SAORI_REFRESH",
+        "new_primary_credit": false
+      },
+      {
+        "base": "34685c9aa894101d176e46c26d1434e44bfd9fa4",
+        "bytes": 46462,
+        "sha256": "b5a86050b0f78e343e39499b7b1766b474a9ec106a0215279caff72589fe9353",
+        "total_lines": 316,
+        "emitted_ranges": [
+          [
+            1,
+            155
+          ],
+          [
+            156,
+            316
+          ]
+        ],
+        "emitted_not_automatic_receiving": true,
+        "actual_personal_receiving": {
+          "scope": "COMPLETE_FILE_THROUGH_EOF",
+          "ranges": [
+            [
+              1,
+              155
+            ],
+            [
+              156,
+              316
+            ]
+          ]
+        },
+        "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+        "source_bytes_equal_current_main2e_c1": true,
+        "new_primary_credit": false
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_821/BLUE_ARCHIVE_EVENT_821_CONTEXTUALIZATION_CHECKPOINT.md",
+        "bytes": 28870,
+        "lines": 157,
+        "sha256": "3db44147f6a64482a606bf53d6dac4d328d15bb39fd07db439a6c853463d2b38",
+        "prior_actual_custody": {
+          "base": "34685c9aa894101d176e46c26d1434e44bfd9fa4",
+          "bytes": 28870,
+          "sha256": "3db44147f6a64482a606bf53d6dac4d328d15bb39fd07db439a6c853463d2b38",
+          "total_lines": 157,
+          "emitted_ranges": [
+            [
+              1,
+              157
+            ]
+          ],
+          "emitted_not_automatic_receiving": true,
+          "actual_personal_receiving": {
+            "scope": "COMPLETE_FILE_THROUGH_EOF",
+            "ranges": [
+              [
+                1,
+                157
+              ]
+            ]
+          }
+        },
+        "scope": "Unchanged personally complete accepted whole argument reused; fresh span is not fresh whole-owner credit.",
+        "fresh_span_ranges": [
+          [
+            85,
+            124
+          ]
+        ],
+        "fresh_span_tool_chunk": "2a696d",
+        "source_bytes_equal_current_main2e_c1": true,
+        "new_primary_credit": false
+      }
+    ],
+    "fresh_reused_spans": [
+      {
+        "owner": "MainV001",
+        "ranges": [
+          [
+            113,
+            170
+          ]
+        ],
+        "actual_custody": "Postcompaction full numbered output untruncated; no chunk ID was exposed by output-only wrapper; earlier personally whole349 reused."
+      },
+      {
+        "owner": "Event821",
+        "ranges": [
+          [
+            69,
+            124
+          ]
+        ],
+        "actual_custody": "Same complete output-only frame, earlier personally whole157 reused; no invented chunk identifier."
+      },
+      {
+        "owner": "Event834",
+        "ranges": [
+          [
+            113,
+            167
+          ]
+        ],
+        "tool_chunk": "b52253",
+        "actual_scope": "Complete refreshed span, earlier personally whole268 reused."
+      },
+      {
+        "owner": "MINI32",
+        "ranges": [
+          [
+            214,
+            248
+          ]
+        ],
+        "tool_chunk": "c46639",
+        "actual_scope": "Complete five130/three150 substantive span, earlier personally whole344 reused."
+      },
+      {
+        "owner": "MainV001",
+        "ranges": [
+          [
+            231,
+            239
+          ]
+        ],
+        "actual_scope": "Navigation output included whole bounded Aru/Mutsuki/peer comparison paragraphs; no new whole peer private reading credited."
+      }
+    ],
+    "selected29_inherited_exact_bindings": [
+      {
+        "owner": "series/blue-archive/02 Sequential Readings/BOND/ARU/BLUE_ARCHIVE_ARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "story_id": "BA:bond:10000:002",
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/BOND/ARU/VARIANT_10000_EPISODE_002.md",
+        "bytes": 6873,
+        "sha256": "5f899e52ee07263686f0ab2d99fc27cf8ea53719afce3f66fca483af3c7f02a0",
+        "admission_record": "REF:CYCLE008_ACCEPTED",
+        "semantic_credit": "Inherited complete accepted owner; no new primary narrative reading.",
+        "binding_credit": "EXACT_ONLY; no primary narrative credit from hash"
+      },
+      {
+        "owner": "series/blue-archive/02 Sequential Readings/BOND/ARU/BLUE_ARCHIVE_ARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "story_id": "BA:bond:10000:003",
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/BOND/ARU/VARIANT_10000_EPISODE_003.md",
+        "bytes": 7279,
+        "sha256": "4c74204d595f3fb7438cd41e05b30cc13231f283b59eed7acbec6f6a0fb091e6",
+        "admission_record": "REF:CYCLE008_ACCEPTED",
+        "semantic_credit": "Inherited complete accepted owner; no new primary narrative reading.",
+        "binding_credit": "EXACT_ONLY; no primary narrative credit from hash"
+      },
+      {
+        "owner": "series/blue-archive/02 Sequential Readings/BOND/ARU/BLUE_ARCHIVE_ARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "story_id": "BA:bond:10000:005",
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/BOND/ARU/VARIANT_10000_EPISODE_005.md",
+        "bytes": 6921,
+        "sha256": "78178f76d93627a20b09eeaa05599e8d708769332bd299679421079a3524b1a4",
+        "admission_record": "REF:CYCLE008_ACCEPTED",
+        "semantic_credit": "Inherited complete accepted owner; no new primary narrative reading.",
+        "binding_credit": "EXACT_ONLY; no primary narrative credit from hash"
+      },
+      {
+        "owner": "series/blue-archive/02 Sequential Readings/BOND/ARU/BLUE_ARCHIVE_ARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "story_id": "BA:bond:10000:006",
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/BOND/ARU/VARIANT_10000_EPISODE_006.md",
+        "bytes": 7686,
+        "sha256": "d0a143ee457dc4a20cbafc92e5a3dbcba42c63689022bc430a35a9207a942f08",
+        "admission_record": "REF:CYCLE008_ACCEPTED",
+        "semantic_credit": "Inherited complete accepted owner; no new primary narrative reading.",
+        "binding_credit": "EXACT_ONLY; no primary narrative credit from hash"
+      },
+      {
+        "owner": "series/blue-archive/02 Sequential Readings/BOND/ARU/BLUE_ARCHIVE_ARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "story_id": "BA:bond:10000:020",
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/BOND/ARU/VARIANT_10000_EPISODE_020.md",
+        "bytes": 21730,
+        "sha256": "d0b5bfb2431fb4bb9dae6407ed03ba17a47a453f9e91bb8aea1ad4d2bfb07cf0",
+        "admission_record": "REF:CYCLE008_ACCEPTED",
+        "semantic_credit": "Inherited complete accepted owner; no new primary narrative reading.",
+        "binding_credit": "EXACT_ONLY; no primary narrative credit from hash"
+      },
+      {
+        "owner": "series/blue-archive/02 Sequential Readings/BOND/ARU/BLUE_ARCHIVE_ARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "story_id": "BA:bond:10031:002",
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/BOND/ARU/VARIANT_10031_EPISODE_002.md",
+        "bytes": 14628,
+        "sha256": "7e82b4d43260899722563687b482fa116869bd1c014525e9c6059869c26af185",
+        "admission_record": "REF:CYCLE008_ACCEPTED",
+        "semantic_credit": "Inherited complete accepted owner; no new primary narrative reading.",
+        "binding_credit": "EXACT_ONLY; no primary narrative credit from hash"
+      },
+      {
+        "owner": "series/blue-archive/02 Sequential Readings/BOND/ARU/BLUE_ARCHIVE_ARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "story_id": "BA:bond:10031:003",
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/BOND/ARU/VARIANT_10031_EPISODE_003.md",
+        "bytes": 16417,
+        "sha256": "9013a0b4b3c8822452fea3bda2201113e51ff942ea4f47e615e18b29c9e00e8c",
+        "admission_record": "REF:CYCLE008_ACCEPTED",
+        "semantic_credit": "Inherited complete accepted owner; no new primary narrative reading.",
+        "binding_credit": "EXACT_ONLY; no primary narrative credit from hash"
+      },
+      {
+        "owner": "series/blue-archive/02 Sequential Readings/BOND/ARU/BLUE_ARCHIVE_ARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "story_id": "BA:bond:10031:005",
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/BOND/ARU/VARIANT_10031_EPISODE_005.md",
+        "bytes": 7388,
+        "sha256": "3f24d36c6d6af8edb028a788a9554ab0c658175f0540321e2a9aca3cf13d459e",
+        "admission_record": "REF:CYCLE008_ACCEPTED",
+        "semantic_credit": "Inherited complete accepted owner; no new primary narrative reading.",
+        "binding_credit": "EXACT_ONLY; no primary narrative credit from hash"
+      },
+      {
+        "owner": "series/blue-archive/02 Sequential Readings/BOND/ARU/BLUE_ARCHIVE_ARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "story_id": "BA:bond:10031:006",
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/BOND/ARU/VARIANT_10031_EPISODE_006.md",
+        "bytes": 10216,
+        "sha256": "bc0c5ac52d1ce0687ba0dff2ccd072e773adb8650783e92ea4904f22f0bffb30",
+        "admission_record": "REF:CYCLE008_ACCEPTED",
+        "semantic_credit": "Inherited complete accepted owner; no new primary narrative reading.",
+        "binding_credit": "EXACT_ONLY; no primary narrative credit from hash"
+      },
+      {
+        "owner": "series/blue-archive/02 Sequential Readings/BOND/ARU/BLUE_ARCHIVE_ARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "story_id": "BA:bond:10089:002",
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/BOND/ARU/VARIANT_10089_EPISODE_002.md",
+        "bytes": 9150,
+        "sha256": "343497c75047287e0df4cacada153ac3b6c73b9d7987df2b8731be17d00d6d9d",
+        "admission_record": "REF:CYCLE008_ACCEPTED",
+        "semantic_credit": "Inherited complete accepted owner; no new primary narrative reading.",
+        "binding_credit": "EXACT_ONLY; no primary narrative credit from hash"
+      },
+      {
+        "owner": "series/blue-archive/02 Sequential Readings/BOND/ARU/BLUE_ARCHIVE_ARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "story_id": "BA:bond:10089:003",
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/BOND/ARU/VARIANT_10089_EPISODE_003.md",
+        "bytes": 11530,
+        "sha256": "efc05f4cac49edd2ac8093f190904e5d2a06c2718d788c50f4b39040f3e5a59b",
+        "admission_record": "REF:CYCLE008_ACCEPTED",
+        "semantic_credit": "Inherited complete accepted owner; no new primary narrative reading.",
+        "binding_credit": "EXACT_ONLY; no primary narrative credit from hash"
+      },
+      {
+        "owner": "series/blue-archive/02 Sequential Readings/BOND/ARU/BLUE_ARCHIVE_ARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "story_id": "BA:bond:10089:005",
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/BOND/ARU/VARIANT_10089_EPISODE_005.md",
+        "bytes": 8139,
+        "sha256": "3ee7741e74eb0eeb33ce2dfebc4a0bf9f335709dc25b2ffd77fc4107c73a6f6c",
+        "admission_record": "REF:CYCLE008_ACCEPTED",
+        "semantic_credit": "Inherited complete accepted owner; no new primary narrative reading.",
+        "binding_credit": "EXACT_ONLY; no primary narrative credit from hash"
+      },
+      {
+        "owner": "series/blue-archive/02 Sequential Readings/BOND/ARU/BLUE_ARCHIVE_ARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "story_id": "BA:momotalk:10000:thread:100000010",
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/MOMOTALK/ARU/THREAD_100000010.md",
+        "bytes": 2526,
+        "sha256": "78d32fba85532d7a06684e577ec6e6670631a70b47857adecd0f543d98e34c1b",
+        "admission_record": "REF:CYCLE008_ACCEPTED",
+        "semantic_credit": "Inherited complete accepted owner; no new primary narrative reading.",
+        "binding_credit": "EXACT_ONLY; no primary narrative credit from hash"
+      },
+      {
+        "owner": "series/blue-archive/02 Sequential Readings/BOND/ARU/BLUE_ARCHIVE_ARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "story_id": "BA:momotalk:10000:thread:100000090",
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/MOMOTALK/ARU/THREAD_100000090.md",
+        "bytes": 1567,
+        "sha256": "a7607eeed028a65658797629a2c2cc478aa19d049405a89597f54cf1099f9d8b",
+        "admission_record": "REF:CYCLE008_ACCEPTED",
+        "semantic_credit": "Inherited complete accepted owner; no new primary narrative reading.",
+        "binding_credit": "EXACT_ONLY; no primary narrative credit from hash"
+      },
+      {
+        "owner": "series/blue-archive/02 Sequential Readings/BOND/ARU/BLUE_ARCHIVE_ARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "story_id": "BA:momotalk:10000:thread:100000150",
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/MOMOTALK/ARU/THREAD_100000150.md",
+        "bytes": 1037,
+        "sha256": "c15db73fc242e1304c3c8029858b688c231dff4beb9f76501b21ead6bcab0f61",
+        "admission_record": "REF:CYCLE008_ACCEPTED",
+        "semantic_credit": "Inherited complete accepted owner; no new primary narrative reading.",
+        "binding_credit": "EXACT_ONLY; no primary narrative credit from hash"
+      },
+      {
+        "owner": "series/blue-archive/02 Sequential Readings/BOND/ARU/BLUE_ARCHIVE_ARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "story_id": "BA:momotalk:10000:thread:100000190",
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/MOMOTALK/ARU/THREAD_100000190.md",
+        "bytes": 1470,
+        "sha256": "57431a467f0db264e66cee6d22000ee35d78abe5b1f9ceca5466b47df9f63165",
+        "admission_record": "REF:CYCLE008_ACCEPTED",
+        "semantic_credit": "Inherited complete accepted owner; no new primary narrative reading.",
+        "binding_credit": "EXACT_ONLY; no primary narrative credit from hash"
+      },
+      {
+        "owner": "series/blue-archive/02 Sequential Readings/BOND/ARU/BLUE_ARCHIVE_ARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "story_id": "BA:momotalk:10000:thread:100000250",
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/MOMOTALK/ARU/THREAD_100000250.md",
+        "bytes": 1960,
+        "sha256": "f74b17f6e12d83d3a02b2df696028c7874210e8b8220e0c5c8bd8b504ea67466",
+        "admission_record": "REF:CYCLE008_ACCEPTED",
+        "semantic_credit": "Inherited complete accepted owner; no new primary narrative reading.",
+        "binding_credit": "EXACT_ONLY; no primary narrative credit from hash"
+      },
+      {
+        "owner": "series/blue-archive/02 Sequential Readings/BOND/ARU/BLUE_ARCHIVE_ARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "story_id": "BA:momotalk:10031:thread:100310010",
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/MOMOTALK/ARU/THREAD_100310010.md",
+        "bytes": 1810,
+        "sha256": "3e61148efda310fa6821c58287058eb898daaea5ca4c70cd7236d0e93bed35f8",
+        "admission_record": "REF:CYCLE008_ACCEPTED",
+        "semantic_credit": "Inherited complete accepted owner; no new primary narrative reading.",
+        "binding_credit": "EXACT_ONLY; no primary narrative credit from hash"
+      },
+      {
+        "owner": "series/blue-archive/02 Sequential Readings/BOND/ARU/BLUE_ARCHIVE_ARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "story_id": "BA:momotalk:10031:thread:100310100",
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/MOMOTALK/ARU/THREAD_100310100.md",
+        "bytes": 2970,
+        "sha256": "1a993894d778f636b766481f554a9a337ef5d7b35fdd978395f983261ea7cb87",
+        "admission_record": "REF:CYCLE008_ACCEPTED",
+        "semantic_credit": "Inherited complete accepted owner; no new primary narrative reading.",
+        "binding_credit": "EXACT_ONLY; no primary narrative credit from hash"
+      },
+      {
+        "owner": "series/blue-archive/02 Sequential Readings/BOND/ARU/BLUE_ARCHIVE_ARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "story_id": "BA:momotalk:10031:thread:100310220",
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/MOMOTALK/ARU/THREAD_100310220.md",
+        "bytes": 1376,
+        "sha256": "92653de9116f33aaf35ee0534a6d95ec9da01b47f07b18b610e07eef10973ba4",
+        "admission_record": "REF:CYCLE008_ACCEPTED",
+        "semantic_credit": "Inherited complete accepted owner; no new primary narrative reading.",
+        "binding_credit": "EXACT_ONLY; no primary narrative credit from hash"
+      },
+      {
+        "owner": "series/blue-archive/02 Sequential Readings/BOND/ARU/BLUE_ARCHIVE_ARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "story_id": "BA:momotalk:10031:thread:100310280",
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/MOMOTALK/ARU/THREAD_100310280.md",
+        "bytes": 1275,
+        "sha256": "d495a347a07fbb25c3add80f8643f7e76ee4695cd25098eb4f8afdfde843831b",
+        "admission_record": "REF:CYCLE008_ACCEPTED",
+        "semantic_credit": "Inherited complete accepted owner; no new primary narrative reading.",
+        "binding_credit": "EXACT_ONLY; no primary narrative credit from hash"
+      },
+      {
+        "owner": "series/blue-archive/02 Sequential Readings/BOND/ARU/BLUE_ARCHIVE_ARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "story_id": "BA:momotalk:10089:thread:100890010",
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/MOMOTALK/ARU/THREAD_100890010.md",
+        "bytes": 1911,
+        "sha256": "386254cf228f21643bb130d4fadcb9aef2f6ab38cffd3d9744a9796497fc848a",
+        "admission_record": "REF:CYCLE008_ACCEPTED",
+        "semantic_credit": "Inherited complete accepted owner; no new primary narrative reading.",
+        "binding_credit": "EXACT_ONLY; no primary narrative credit from hash"
+      },
+      {
+        "owner": "series/blue-archive/02 Sequential Readings/BOND/ARU/BLUE_ARCHIVE_ARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "story_id": "BA:momotalk:10089:thread:100890120",
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/MOMOTALK/ARU/THREAD_100890120.md",
+        "bytes": 2480,
+        "sha256": "384de54fedcc2f71c4047b0d765f7ac6827b5325398b2d72bca85b38aa4023f8",
+        "admission_record": "REF:CYCLE008_ACCEPTED",
+        "semantic_credit": "Inherited complete accepted owner; no new primary narrative reading.",
+        "binding_credit": "EXACT_ONLY; no primary narrative credit from hash"
+      },
+      {
+        "owner": "series/blue-archive/02 Sequential Readings/BOND/ARU/BLUE_ARCHIVE_ARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "story_id": "BA:momotalk:10089:thread:100890260",
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/MOMOTALK/ARU/THREAD_100890260.md",
+        "bytes": 2173,
+        "sha256": "fe33f3e3840ea1ecda0a2908a5b5abd35cf13bad54143a25746222005d55d0c1",
+        "admission_record": "REF:CYCLE008_ACCEPTED",
+        "semantic_credit": "Inherited complete accepted owner; no new primary narrative reading.",
+        "binding_credit": "EXACT_ONLY; no primary narrative credit from hash"
+      },
+      {
+        "owner": "series/blue-archive/02 Sequential Readings/BOND/ARU/BLUE_ARCHIVE_ARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "story_id": "BA:character_data:10000:profile_and_dialog",
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/CHARACTER_DATA/ARU/VARIANT_10000.md",
+        "bytes": 6175,
+        "sha256": "efda862b2d0a82219fa9bd5a087c295842d5ba9502dab92a8b029c152385b522",
+        "admission_record": "REF:CYCLE008_ACCEPTED",
+        "semantic_credit": "Inherited complete accepted owner; no new primary narrative reading.",
+        "binding_credit": "EXACT_ONLY; no primary narrative credit from hash"
+      },
+      {
+        "owner": "series/blue-archive/02 Sequential Readings/BOND/ARU/BLUE_ARCHIVE_ARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "story_id": "BA:character_data:10031:profile_and_dialog",
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/CHARACTER_DATA/ARU/VARIANT_10031.md",
+        "bytes": 6870,
+        "sha256": "81aa9cd9bee9d5bc0d3207a5da75900d32481152263a88dd5edaf73802d3a6d5",
+        "admission_record": "REF:CYCLE008_ACCEPTED",
+        "semantic_credit": "Inherited complete accepted owner; no new primary narrative reading.",
+        "binding_credit": "EXACT_ONLY; no primary narrative credit from hash"
+      },
+      {
+        "owner": "series/blue-archive/02 Sequential Readings/BOND/ARU/BLUE_ARCHIVE_ARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "story_id": "BA:character_data:10089:profile_and_dialog",
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/CHARACTER_DATA/ARU/VARIANT_10089.md",
+        "bytes": 6897,
+        "sha256": "c9bfaad3bef1e1178fe227fbe97f0844c265b585f987c4815ffece7489685362",
+        "admission_record": "REF:CYCLE008_ACCEPTED",
+        "semantic_credit": "Inherited complete accepted owner; no new primary narrative reading.",
+        "binding_credit": "EXACT_ONLY; no primary narrative credit from hash"
+      },
+      {
+        "owner": "series/blue-archive/02 Sequential Readings/BOND/ARU/BLUE_ARCHIVE_ARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "story_id": "BA:character_data:event_costume:1900902301:character:10031",
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/CHARACTER_DATA/CONTEXTUAL/BA_character_data_event_costume_1900902301_character_10031.md",
+        "bytes": 15718,
+        "sha256": "09839ccf15f48382ce8cc5e57bb23a720c09ddd3799070ea83cdc9d1992bced3",
+        "admission_record": "REF:CYCLE008_ACCEPTED",
+        "semantic_credit": "Inherited complete accepted owner; no new primary narrative reading.",
+        "binding_credit": "EXACT_ONLY; no primary narrative credit from hash"
+      },
+      {
+        "owner": "series/blue-archive/02 Sequential Readings/BOND/ARU/BLUE_ARCHIVE_ARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "story_id": "BA:character_data:event_costume:1900923001:character:10089",
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/CHARACTER_DATA/CONTEXTUAL/BA_character_data_event_costume_1900923001_character_10089.md",
+        "bytes": 8135,
+        "sha256": "577459839cc33d17923262378970271a9e5cb146d86ea06c1179676a9c38e998",
+        "admission_record": "REF:CYCLE008_ACCEPTED",
+        "semantic_credit": "Inherited complete accepted owner; no new primary narrative reading.",
+        "binding_credit": "EXACT_ONLY; no primary narrative credit from hash"
+      }
+    ],
+    "necessary_primary_recovery": [
+      {
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/BOND/ARU/VARIANT_10089_EPISODE_005.md",
+        "bytes": 8139,
+        "sha256": "3ee7741e74eb0eeb33ce2dfebc4a0bf9f335709dc25b2ffd77fc4107c73a6f6c",
+        "lines": 265,
+        "story_id": "BA:bond:10089:005",
+        "tool_chunk": "e3c340:whole265 throughEOF",
+        "scope": "56utterances/2groups/4options; actual payment/dress return and immediate repayment afterunfreeze, despite adult refusals. No bank/legal audit; u15repairer appointment not silentlyrewritten.",
+        "actual_scope": "COMPLETE_CANONICAL_JAPANESE_OBJECT_THROUGH_EOF",
+        "raw_native_av_replay": false
+      },
+      {
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/BOND/ARU/VARIANT_10031_EPISODE_003.md",
+        "bytes": 16417,
+        "sha256": "9013a0b4b3c8822452fea3bda2201113e51ff942ea4f47e615e18b29c9e00e8c",
+        "lines": 476,
+        "story_id": "BA:bond:10031:003",
+        "tool_chunk": "526487:whole476 throughEOF",
+        "scope": "Sudden carrying before assent, later accepted exit, u86 explicit stop/enough request, u87 improvement report; no actual setting-down or medical certification.",
+        "actual_scope": "COMPLETE_CANONICAL_JAPANESE_OBJECT_THROUGH_EOF",
+        "raw_native_av_replay": false
+      },
+      {
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/MOMOTALK/ARU/THREAD_100890260.md",
+        "bytes": 2173,
+        "sha256": "fe33f3e3840ea1ecda0a2908a5b5abd35cf13bad54143a25746222005d55d0c1",
+        "lines": 85,
+        "story_id": "BA:momotalk:10089:thread:100890260",
+        "tool_chunk": "d1c35a:whole85 throughEOF",
+        "scope": "Whole seventeen-message thread; afterword repayment inquiry/thanks and urgency purpose remains withheld at final answer.",
+        "actual_scope": "COMPLETE_CANONICAL_JAPANESE_OBJECT_THROUGH_EOF",
+        "raw_native_av_replay": false
+      }
+    ],
+    "actual_new_primary_extents": {
+      "whole_bond_objects": 2,
+      "bond_utterances": 158,
+      "formal_choice_groups": 14,
+      "printed_choice_options": 19,
+      "whole_momotalk_objects": 1,
+      "message_records": 17,
+      "fresh_written_objects": 0
+    },
+    "scope_controls_historical353": [
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_FULL_CAST_REQUIRED_HOME_PARTITION_ACCEPTED_V2.json",
+        "bytes": 364114,
+        "sha256": "0321499803aa4c9f19c5cd8a70fd92558e83636c400dc36afb3015262ad98fe0",
+        "scope": "Exact binding plus selected four home projections; not whole-body receiving or new scope adjudication."
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_FULL_CAST_SCOPE_COMPLETE_RECEIVING_AND_EXACT_ADJUDICATION_V2.json",
+        "bytes": 7640,
+        "sha256": "675db9d3dab8f767b7c6afb772a45db7548019f2605693aa6b7ca285481cfba5",
+        "scope": "Exact binding plus selected four home projections; not whole-body receiving or new scope adjudication."
+      }
+    ],
+    "root_scope_successor_report": "ROOT reports355 successor on2026-10-10; Aru PS68 home unchanged. No exact355 tuple received in this receipt;353 retained as historical binding, not current global denominator.",
+    "unclassified_92030": {
+      "status": "AVAILABLE_UNADMITTED_HISTORICAL_QUEUE_LEAD_NOT_ACCEPTED_MEANING",
+      "root_route_custody": "ROOT6006db filename only; f32985 bounded class-route negative; 72c3a8 checkpoint queue qualification",
+      "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/UNCLASSIFIED_SCENARIO/GROUP_92030.md",
+      "plot_read": false,
+      "limit": "334 unclassified outside3940; unresolved mode/continuity. No mandatory admitted private duty; stronger claim needs separate admission/recovery; no global absence assertion."
+    },
+    "prior_frozen_census_control": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/CENSUS_GEHENNA/GEHENNA_PS68_INPUT_AND_LITERAL_ROSTER_RECEIPT.json",
+      "bytes": 768006,
+      "lines": 12342,
+      "sha256": "f8c99e7255377b9941861f297ee9a86baa75e7a1b2977fdc7f753bc77793bc4d"
+    },
+    "census_control_receiving_limit": "Bounded selected Aru family/source projection only. Producer603bindings/90rosters/755routes attributed; no new whole census narrative credit. Retracted655 speculation omitted.",
+    "architecture": {
+      "path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+      "bytes": 52261,
+      "lines": 851,
+      "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+      "actual_current_ranges": [
+        [
+          1,
+          40
+        ],
+        [
+          313,
+          390
+        ]
+      ],
+      "tool_chunks": [
+        "a3ec07",
+        "77e1e1"
+      ],
+      "whole_file_receiving": false,
+      "initial_selector_failure": "StopIteration before requested7.1 extraction; fixed bounds subsequently received"
+    },
+    "execution": {
+      "recommendation": "DEEP_SYNTHESIS",
+      "actual_model_label": null,
+      "actual_reasoning_setting": null,
+      "setting_changes": false,
+      "local_only_exception": "Required exact local pinned corpus access and explicit separate assignment; user cancelled integration artifact handoffs",
+      "repository_provider_global_control_writes": false,
+      "external_handoff": false,
+      "paid_api_cloud_task": false,
+      "merge": "RESERVED",
+      "N_quarter": "UNFROZEN_NO_CREDIT"
+    },
+    "authority_quartet": "Current Cycle008 source admission / ROOT qualified complete with limits / historical reading order and independence UNKNOWN / performed voice unreceived",
+    "historical_metadata_boundary": {
+      "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_RESPONSIBILITIES.csv",
+      "base": "34685c9aa894101d176e46c26d1434e44bfd9fa4",
+      "bytes": 443241,
+      "sha256": "e9de04192b2add837ae0130aa6e0d33b8e94843d4baca5580ff0612eb203ecf4",
+      "lines": 772
+    },
+    "present_root_worktree_metadata_probe": {
+      "head": "1dc2092095ed74ee743971f1f274b30cb291d939",
+      "scope": "Actual mutable ROOT worktree metadata; distinct from analytical main2e, historical c1/346/staged-dc5 frozen witnesses. No scope or completion adjudication.",
+      "controls": [
+        {
+          "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_RESPONSIBILITIES.csv",
+          "bytes": 466542,
+          "lines": 789,
+          "sha256": "ec11af62bb97407a8b7eba7cf3c74bf987d156d463f94c44668625f87d853a73",
+          "rows": 788,
+          "matching_aru_metadata_only": [
+            {
+              "candidate_unit_id": "P3-F006",
+              "population": "TYPED_PRIVATE_WRITTEN_RESPONSIBILITY",
+              "subject_or_responsibility": "Aru",
+              "raw_identity_or_source_ids": "BA_PERSON_ARU",
+              "evidence_paths": "series/blue-archive/02 Sequential Readings/BOND/ARU/BLUE_ARCHIVE_ARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+              "source_boundary": "B12/MM12/W5; variants 10000|10031|10089",
+              "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+              "argument_or_limit": "Complete selected pools admitted with limits; counts do not prove an independent monograph. Preserve literal raw-key and chronology distinctions.",
+              "package_target": "",
+              "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+            },
+            {
+              "candidate_unit_id": "P3-A094",
+              "population": "DATED_ASSESSED_ANALYTICAL_ROUTE",
+              "subject_or_responsibility": "Aru",
+              "raw_identity_or_source_ids": "",
+              "evidence_paths": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md",
+              "source_boundary": "Dated Cycle007 model-route census; current Cycle008 source owners supersede intake words",
+              "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+              "argument_or_limit": "Named people, compound/uncertain identities, local roles, voices and nonhuman actors remain heterogeneous. Model readiness is not literary package eligibility.",
+              "package_target": "",
+              "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+            }
+          ]
+        },
+        {
+          "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_OWNER_CENSUS_DISPATCH.csv",
+          "bytes": 45708,
+          "lines": 106,
+          "sha256": "2d4ac2798f8d84e3dcf0c99c8101e31ee8ad5e47f823d89371b4dc48835823de",
+          "rows": 105,
+          "matching_aru_metadata_only": []
+        }
+      ]
+    },
+    "identity_scope": "陸八魔アル/りくはちま/BA_PERSON_ARU,10000/10031/10089,1900902301→10031/1900923001→10089. Bounded comparison; no numeric calendar/body authentication, actor repair or new person allocation.",
+    "all14_gaps": "OPEN with claim-specific table in saved body170–183",
+    "mandatory_recovery_for_asserted_bounded_claims": [],
+    "excluded_stronger_claims": [
+      "Actual setting-down after explicit enough-carrying request or clinical ankle recovery",
+      "Disclosed urgent dress purpose after whole thread deferred answer",
+      "Audited bank-freeze cause, investment/equity, contracts, registration, final institution recognition or fair wage",
+      "Shiba Seki restitution, harmless retaliation, actual completed raid or global rehabilitation",
+      "All clients invented, every peer motive shared or complete causal credit for coalition outcomes",
+      "Unified private/Main/Final/event chronology or numeric variant biography",
+      "Heard performed voice, inspected media/photo or blanket bodily assent/exclusive romance",
+      "Admitted plot or continuity for unclassified92030"
+    ],
+    "limited_and_repaired_probes": [
+      "483c43 selectedN353 exact home scope; historical350 metadata96ba02/db3dde not currentN.",
+      "78ff21 deliberately shortened whole_analytical_inputs display; b1ea78 recovers all15 compact custody rows, not whole narrative receiving.",
+      "5ae87a keyword scan clipped; navigation only, not semantic/complete receiving. E810 Aru037/Mutsuki038/Kayoko011/Haruka063 located.",
+      "08453b metadata only: oldEvent809checkpoint1635/84690/cfe6f2 not whole personally received in this lane; current125 whole argument controlling accepted meanings.",
+      "8b39f3 currentCHARACTER_DATAcrosswalk247790/SHA9a695e9693a1ed5355b3c2dd8f04aef8ce3cd0c36a90ab371d210c3474d95531 has no92030 match; no global absence conclusion.",
+      "S2V002 whole705 prior custody exists; current heading/keyword navigation gives no Aru-specific appearance. No presence or global absence inferred.",
+      "Earlier private producer803utterances/123formal groups/153options/13scenes/1506raw and161messages/260writtencontexts are attributed original custody, not this new primary count.",
+      "All nine unbound large files remain unopened/unhashed. Source binding checks are not narrative receiving."
+    ],
+    "saved_paragraph_projection": [
+      {
+        "line": 1,
+        "sha256_utf8_line_no_terminator": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "kind": "frontmatter",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 2,
+        "sha256_utf8_line_no_terminator": "0a196a49f52c87e919dab450bef608ec34012a3f153c4f203515d7320d609f8a",
+        "kind": "frontmatter",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 3,
+        "sha256_utf8_line_no_terminator": "d1a9abf7862eaca90931468acd65e26dff6ec306eb6d344e22bea5cd42268bad",
+        "kind": "frontmatter",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 4,
+        "sha256_utf8_line_no_terminator": "42f05470f4ddd06e13d74e2527c85f2ced6c9123ba6e7f475cb817b790fa2b5a",
+        "kind": "frontmatter",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 5,
+        "sha256_utf8_line_no_terminator": "4f0ba5248d72d4e1087b21d0ab092a3d5df8d4fafc8df872716d4375be54bb63",
+        "kind": "frontmatter",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 6,
+        "sha256_utf8_line_no_terminator": "1658226d82991e821acc7363ec1375c03a4c3037e48a2a07ed6d5d89a5430ec5",
+        "kind": "frontmatter",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 7,
+        "sha256_utf8_line_no_terminator": "2084413932021b66232c019d7d67e81ba2cf005acb31f12c32acb13608a5283c",
+        "kind": "frontmatter",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 8,
+        "sha256_utf8_line_no_terminator": "2b4c71a3936349b6920c14d8d0327b826ca56d5e7944bc878548abba1650fe54",
+        "kind": "frontmatter",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 9,
+        "sha256_utf8_line_no_terminator": "c8ef145b6da8758b2dd4f184f0c6454d958b15d80fcfd350803c0682bf3d65dd",
+        "kind": "frontmatter",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 10,
+        "sha256_utf8_line_no_terminator": "a7128a3b6afa054c49654fbcb14fcbdd61123b6ed5e0cac56e74d54399bb96b6",
+        "kind": "frontmatter",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 11,
+        "sha256_utf8_line_no_terminator": "8f9181e3f96334279890be3035ccb3fe9e95a901e37ec06776cfd3b04ce9fd37",
+        "kind": "frontmatter",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 12,
+        "sha256_utf8_line_no_terminator": "14e0401cbb122674957ed72090cd06063f320f5d1d77a57ec343b3b2cbe52b04",
+        "kind": "frontmatter",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 13,
+        "sha256_utf8_line_no_terminator": "91d5d4df8edb864ad8db9cf1d2806fc936391907adeba2bb1ff5a2b6ec7da1c1",
+        "kind": "frontmatter",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 14,
+        "sha256_utf8_line_no_terminator": "d0718320c7cea23ca3bee1a77dea20445606fa01cb1bac555388d1ce333d9ec7",
+        "kind": "frontmatter",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 15,
+        "sha256_utf8_line_no_terminator": "8fecbb6a3875013f0e9b08c2e80984516ba9166974308b35a91a124bb697c029",
+        "kind": "frontmatter",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 16,
+        "sha256_utf8_line_no_terminator": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "kind": "frontmatter",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 18,
+        "sha256_utf8_line_no_terminator": "2e1703173cabc21a16cc16bee88fec9d9864a91f69ed86297be9aa7d1bb8cab7",
+        "kind": "heading",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 20,
+        "sha256_utf8_line_no_terminator": "9003293a6c0a51df9e394af1b14b082b24c2954d77ce8e10609200c1fd397613",
+        "kind": "prose",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 22,
+        "sha256_utf8_line_no_terminator": "abde9b71a738138570ad419dcba546aac37e3db408350d612e67c0a76a1b1db9",
+        "kind": "heading",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 24,
+        "sha256_utf8_line_no_terminator": "74daf2cc51027cf5601005a823951e0bfc74c241ca974b4304b864f4a3ec44f1",
+        "kind": "prose",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 26,
+        "sha256_utf8_line_no_terminator": "7ee6f9de386aab8b8259377093c9378d0549a4892720bfe97c5b56e180cf9642",
+        "kind": "prose",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 28,
+        "sha256_utf8_line_no_terminator": "5cba4544660679e06106fc0ff2b9b8c6ad0df56031fb1624a62cec812174b5c2",
+        "kind": "prose",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 30,
+        "sha256_utf8_line_no_terminator": "7532d30bab2f7cb6e15f1e4ee38a3a5d9a6a5478f17d02a6232e5108483f98ea",
+        "kind": "prose",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 32,
+        "sha256_utf8_line_no_terminator": "80e3e5050b160fa80e83eeb62fe40540ad99707a743ce05f226f05a0788613a3",
+        "kind": "prose",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 34,
+        "sha256_utf8_line_no_terminator": "0367b80c6451984ae0639776db1c516a02c6f77130e81c74b0f4232e789d6707",
+        "kind": "heading",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 36,
+        "sha256_utf8_line_no_terminator": "5b7ef6e37557e1e0d041dd7ea3bada8d05c5d894ddf2e53b03053e8e69cf8546",
+        "kind": "prose",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 38,
+        "sha256_utf8_line_no_terminator": "4a92f8e671301f8049246304b59e6b283f44e468a80c533866a636ff873c2941",
+        "kind": "prose",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 40,
+        "sha256_utf8_line_no_terminator": "25bff9acd8eba7df78c43f2a4843de3a9150b90029ef60b2d606a5ddb0d6fde4",
+        "kind": "prose",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 42,
+        "sha256_utf8_line_no_terminator": "c9c6f28ad4f60cea37cec7560745141ecd16ad337cf59a0351739c070a3feff9",
+        "kind": "prose",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 44,
+        "sha256_utf8_line_no_terminator": "6168b59ea2958595786b0311de4ed896c54b48fa3567bb854d0c8c6d94cb09b7",
+        "kind": "prose",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 46,
+        "sha256_utf8_line_no_terminator": "28e55e61c4b2682dfe1cf7ff1ad4747bb5fab8f2763e0beb124e078b31deda62",
+        "kind": "prose",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 48,
+        "sha256_utf8_line_no_terminator": "90326ba9f97cbf644b7abca9379416d91119e02b8b55445ff770a5acb43b652b",
+        "kind": "heading",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 50,
+        "sha256_utf8_line_no_terminator": "07456fe5dc5945d0c09e96ca8e06622fbd463f3851c0dc0bfb39bed425da9a95",
+        "kind": "prose",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 52,
+        "sha256_utf8_line_no_terminator": "7a61ae5d13945dc9aa2fe255e7860d35ab35db2b6670916b8bf80fe249ed68e9",
+        "kind": "prose",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 54,
+        "sha256_utf8_line_no_terminator": "8dec2feb5192de5a083faa648a1d2c7afafe3e63077a6fb773cb6ee9f2e3278c",
+        "kind": "prose",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 56,
+        "sha256_utf8_line_no_terminator": "439d3fe446a7c675d7747539e1ab2ec4976dd3dc503cf74ed6fedd37114e9687",
+        "kind": "prose",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 58,
+        "sha256_utf8_line_no_terminator": "48f209ed25f1091aef7f769712e3b67ad9635d55fed0e9695ce66335f4b549b8",
+        "kind": "prose",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 60,
+        "sha256_utf8_line_no_terminator": "8bd89c5ecb4d7045dc34b044d88265c728ea6ea2510e2e6b6266e2d246d86d94",
+        "kind": "prose",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 62,
+        "sha256_utf8_line_no_terminator": "44cda7c026768c37d6636377abf4849d77d335f7ad148b3e40e9e7e5d9890bec",
+        "kind": "heading",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 64,
+        "sha256_utf8_line_no_terminator": "c049632d201e431d8b7b01aa4b1f907d380c2b096d727ea70043796c479a799e",
+        "kind": "prose",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 66,
+        "sha256_utf8_line_no_terminator": "43986060263cf60b1f55f3c7a57a838f7198ce099eeb5aa43242affe0a413933",
+        "kind": "prose",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 68,
+        "sha256_utf8_line_no_terminator": "1a521298d8fdc1962049024e9447fd77f6b5f76b3030baf76c24c76251c4c08b",
+        "kind": "prose",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 70,
+        "sha256_utf8_line_no_terminator": "4596b427c917b188b2123092ff2dbcc098b59a4c7fba92610f1a8a6cd2369ef3",
+        "kind": "prose",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 72,
+        "sha256_utf8_line_no_terminator": "900da9ca545d16cae341b7f805bd1690282bee60efaeee8be0f495523818263f",
+        "kind": "prose",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 74,
+        "sha256_utf8_line_no_terminator": "eae0a1a1a618198de909c52f939630f6c68f9540d1210332ac99b39b6e5a3e55",
+        "kind": "prose",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 76,
+        "sha256_utf8_line_no_terminator": "8239d0f2378ec4316bbbc45e49ecce57360f131842fa26dc29703d386574b956",
+        "kind": "heading",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 78,
+        "sha256_utf8_line_no_terminator": "e4eaee6fe6597b5a48adb90e0c52bcf55192377294fecbacd195336889257c55",
+        "kind": "prose",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 80,
+        "sha256_utf8_line_no_terminator": "4e9440d007c3ebedbdcce5e625cb55348514b8bd9e6d77473d319366c454cd1e",
+        "kind": "prose",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 82,
+        "sha256_utf8_line_no_terminator": "c39d237debab8a4e3b836d70ab5f752fda2ddeded8a0d5aa1c7a99e3ebf37e7b",
+        "kind": "prose",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 84,
+        "sha256_utf8_line_no_terminator": "d00c22e7cccad48aa23f63cf7c2d2ea83b168dce4776a6352240b307b9616ed6",
+        "kind": "prose",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 86,
+        "sha256_utf8_line_no_terminator": "2d58ecb51dba8ae7051ef95cb12e20779b9b385a1d7f35e6e5830eacc50ca255",
+        "kind": "prose",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 88,
+        "sha256_utf8_line_no_terminator": "5642b9497b77b4e91ff5e78e3e159b494cd7d5231beb083608a838c922db4924",
+        "kind": "prose",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 90,
+        "sha256_utf8_line_no_terminator": "cb01d4beb421da9e9251a38fedc20e71bb5aa82e2178baa2013653a3edb85a92",
+        "kind": "heading",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 92,
+        "sha256_utf8_line_no_terminator": "0c73f668184b21db4691be1a6d25eda7f99282633ea65267d295b160a71844c4",
+        "kind": "prose",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 94,
+        "sha256_utf8_line_no_terminator": "93c61fddfd5bf631183ead1405abf07a88c919a089d7e59e4a45bc7927103ad1",
+        "kind": "prose",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 96,
+        "sha256_utf8_line_no_terminator": "0c7a540c091a7118a817f72e1c8077ec5ef0d3a3c6d224c2a11cdffd53f2fa19",
+        "kind": "prose",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 98,
+        "sha256_utf8_line_no_terminator": "3e9b566ddf380461de3a24b91aba14e307343c1be5a35c947d92012c770c871d",
+        "kind": "prose",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 100,
+        "sha256_utf8_line_no_terminator": "c06150523c332bace1059f0503127ec8b0ddc79920fda5a7c1748089b3c1d95b",
+        "kind": "prose",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 102,
+        "sha256_utf8_line_no_terminator": "bf05f92ddad16a59ea49032ab76370be30c6a7438d3679ef91479cc37f5d4eb6",
+        "kind": "prose",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 104,
+        "sha256_utf8_line_no_terminator": "462af0fce6122d7a23d7ccc400fd519caf4c2e401be8f37ec1984e554e87a1c2",
+        "kind": "heading",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 106,
+        "sha256_utf8_line_no_terminator": "bd1291a15802c74ac11f22ba9411bad6a8bf5d28e224f6c9a0d5fa2398b033d0",
+        "kind": "prose",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 108,
+        "sha256_utf8_line_no_terminator": "dee03505aa86ab8c360006964014531a322dd79a2610f8d8e14217b90df4b88c",
+        "kind": "prose",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 110,
+        "sha256_utf8_line_no_terminator": "364b2ea393b633c368b833b06f0e96cbf241c4d0520f33e9a6cc6cdc2bb63cd1",
+        "kind": "prose",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 112,
+        "sha256_utf8_line_no_terminator": "7f533692aac7542be1ba965c042986daeef0d4f2d0103535d4d5fb151b359355",
+        "kind": "prose",
+        "actual_manual_receiving": "cba3be"
+      },
+      {
+        "line": 114,
+        "sha256_utf8_line_no_terminator": "8d6dd5f3b0f7f4aee46d299a0464f9070f64166ce55c174740952d37700e61cf",
+        "kind": "prose",
+        "actual_manual_receiving": "06844e"
+      },
+      {
+        "line": 116,
+        "sha256_utf8_line_no_terminator": "5d38a275760059f288b5d8d03f5476837ed554d12d866e65808699363126e480",
+        "kind": "prose",
+        "actual_manual_receiving": "06844e"
+      },
+      {
+        "line": 118,
+        "sha256_utf8_line_no_terminator": "9c6dddefb6e9c1cc126fefc212479da1600b17345ac57c33d3d857aea8bead11",
+        "kind": "heading",
+        "actual_manual_receiving": "06844e"
+      },
+      {
+        "line": 120,
+        "sha256_utf8_line_no_terminator": "445412fe4eabc9c4236515308965bce7084dc9dc0f179edd2b3b2421844329fd",
+        "kind": "prose",
+        "actual_manual_receiving": "06844e"
+      },
+      {
+        "line": 122,
+        "sha256_utf8_line_no_terminator": "1dc83cb52741416be8ebf8480846e174ff39ad82426165861a29c41615e171a0",
+        "kind": "prose",
+        "actual_manual_receiving": "06844e"
+      },
+      {
+        "line": 124,
+        "sha256_utf8_line_no_terminator": "02b902fea741e093272440598dc9501d5bd74a68ba7acf5229f218ee1661c0d7",
+        "kind": "prose",
+        "actual_manual_receiving": "06844e"
+      },
+      {
+        "line": 126,
+        "sha256_utf8_line_no_terminator": "95908952808c7801eb543c4e622be0b4fee1f34a92b65ad17035aea587d2fd98",
+        "kind": "prose",
+        "actual_manual_receiving": "06844e"
+      },
+      {
+        "line": 128,
+        "sha256_utf8_line_no_terminator": "7ac9dac52c87451b3db0e1299fa4e5934b14366c4be88ccc1d8da87bc96befec",
+        "kind": "prose",
+        "actual_manual_receiving": "06844e"
+      },
+      {
+        "line": 130,
+        "sha256_utf8_line_no_terminator": "e033e2801ba3dd64dba3f209fd41e8bc2911f87e3f12aef76cd67a0b8ad9cecc",
+        "kind": "heading",
+        "actual_manual_receiving": "06844e"
+      },
+      {
+        "line": 132,
+        "sha256_utf8_line_no_terminator": "97323ac87b77a0b3d2765c23c407a09138bbd25b6fc7b5b786638e0fd6dee41d",
+        "kind": "prose",
+        "actual_manual_receiving": "06844e"
+      },
+      {
+        "line": 134,
+        "sha256_utf8_line_no_terminator": "d83a9df79e5f3156fb361ffbd0441066eab76af33e0bf9a2f56519fea979442e",
+        "kind": "prose",
+        "actual_manual_receiving": "06844e"
+      },
+      {
+        "line": 136,
+        "sha256_utf8_line_no_terminator": "33fd23c641c4617dd80df1061c59b9bafd324dae589d8bcf94027cb4a558dfe1",
+        "kind": "prose",
+        "actual_manual_receiving": "06844e"
+      },
+      {
+        "line": 138,
+        "sha256_utf8_line_no_terminator": "37d128f1bedb9148a684f67c06057a9068f3ad7b4587a71603311fd13a5f8c49",
+        "kind": "prose",
+        "actual_manual_receiving": "06844e"
+      },
+      {
+        "line": 140,
+        "sha256_utf8_line_no_terminator": "ee7beb16337324b58e6cf420ada51a6cc77b76fb73bd1e91c19597ab91dfa6d5",
+        "kind": "prose",
+        "actual_manual_receiving": "06844e"
+      },
+      {
+        "line": 142,
+        "sha256_utf8_line_no_terminator": "8193f6f5b08c3a2cda01c308bad6ec71090e19a0f7db15d7f3e9f25db1b4a3a6",
+        "kind": "prose",
+        "actual_manual_receiving": "06844e"
+      },
+      {
+        "line": 144,
+        "sha256_utf8_line_no_terminator": "e542d1061a5dea28255626c081109a9ac4bd269a1e54796d57c6c0721e67e634",
+        "kind": "heading",
+        "actual_manual_receiving": "06844e"
+      },
+      {
+        "line": 146,
+        "sha256_utf8_line_no_terminator": "40455c5ec211a36780dcf286ffecb5fc11b68c4974ea82e7670522c24d84a0e0",
+        "kind": "prose",
+        "actual_manual_receiving": "06844e"
+      },
+      {
+        "line": 148,
+        "sha256_utf8_line_no_terminator": "e918fdfe2732df11afdc46c241e2192cb6d9a4c32b1ee8694ca36fe42b018d1d",
+        "kind": "prose",
+        "actual_manual_receiving": "06844e"
+      },
+      {
+        "line": 150,
+        "sha256_utf8_line_no_terminator": "d754d3bf7170b4425e172c8260ac4bf59fb56eeb0f7fd65d3c4fd5e774facb8e",
+        "kind": "prose",
+        "actual_manual_receiving": "7595c2 exact repaired150"
+      },
+      {
+        "line": 152,
+        "sha256_utf8_line_no_terminator": "8c5394fa8fc109fdf9f15e1d0a16418722b8a0131c7bb32e51b5c795ff3dadf1",
+        "kind": "prose",
+        "actual_manual_receiving": "06844e"
+      },
+      {
+        "line": 154,
+        "sha256_utf8_line_no_terminator": "a74f8400bb9d2fce94ca47e77191f444f49871217e0714ee370077eb6462e885",
+        "kind": "prose",
+        "actual_manual_receiving": "06844e"
+      },
+      {
+        "line": 156,
+        "sha256_utf8_line_no_terminator": "c5c66b3106856d5df57790de893ca9aecd1922b356679693ec24e1577ce58731",
+        "kind": "prose",
+        "actual_manual_receiving": "06844e"
+      },
+      {
+        "line": 158,
+        "sha256_utf8_line_no_terminator": "5bc53cd6fccbb76159b06ab286a6e934075a9c28fe4c674df72f4600a39c6ca8",
+        "kind": "heading",
+        "actual_manual_receiving": "06844e"
+      },
+      {
+        "line": 160,
+        "sha256_utf8_line_no_terminator": "c122398d00f463848123a4899013db7329260ab25463e50fab9fcd0c69143fde",
+        "kind": "prose",
+        "actual_manual_receiving": "06844e"
+      },
+      {
+        "line": 162,
+        "sha256_utf8_line_no_terminator": "509ed9f38c53fae3802f5d66e7d06c6412669ab5d8b7fdd8abe90af1f047635a",
+        "kind": "prose",
+        "actual_manual_receiving": "06844e"
+      },
+      {
+        "line": 164,
+        "sha256_utf8_line_no_terminator": "b22266c63d52107cdb6329a122a1122a51935f9e64dcb1ee8633d7b885489899",
+        "kind": "prose",
+        "actual_manual_receiving": "06844e"
+      },
+      {
+        "line": 166,
+        "sha256_utf8_line_no_terminator": "cae05838fe1ce709dc38a8bfe7296cf4759ba48ef173497d9411535e57d5c5b1",
+        "kind": "prose",
+        "actual_manual_receiving": "06844e"
+      },
+      {
+        "line": 168,
+        "sha256_utf8_line_no_terminator": "288dc6c53825c74f3eeaba9906a2634e6f59a0a7857c95cce88a76af8725891c",
+        "kind": "table_row",
+        "actual_manual_receiving": "06844e"
+      },
+      {
+        "line": 169,
+        "sha256_utf8_line_no_terminator": "23cca02b74f386463efa24796c7a9011b0d2c93f0c38b4d15d5d276205b59b43",
+        "kind": "table_row",
+        "actual_manual_receiving": "06844e"
+      },
+      {
+        "line": 170,
+        "sha256_utf8_line_no_terminator": "e2cc00ce333f3db39a6499bea9e6e9edc691d20b7ae4a9b99aecedcb7475fc9a",
+        "kind": "table_row",
+        "actual_manual_receiving": "06844e"
+      },
+      {
+        "line": 171,
+        "sha256_utf8_line_no_terminator": "7af466b7daeac20bb93932ff98938f772321fb8601aff75cb099b5d6f7c339a6",
+        "kind": "table_row",
+        "actual_manual_receiving": "06844e"
+      },
+      {
+        "line": 172,
+        "sha256_utf8_line_no_terminator": "e9fb6cb48318504dc428568c77f74e4b31a65e83e637f82baea9b8dfc6ad7dc7",
+        "kind": "table_row",
+        "actual_manual_receiving": "06844e"
+      },
+      {
+        "line": 173,
+        "sha256_utf8_line_no_terminator": "e91652dc78003ff6f2d38a8f3ba33ef27e2536e83e46f05605b72dc17eb5443e",
+        "kind": "table_row",
+        "actual_manual_receiving": "06844e"
+      },
+      {
+        "line": 174,
+        "sha256_utf8_line_no_terminator": "4cc02f431788861d03189b574921c948e2b78c96b7bb80df8e16e54ab0bb3103",
+        "kind": "table_row",
+        "actual_manual_receiving": "06844e"
+      },
+      {
+        "line": 175,
+        "sha256_utf8_line_no_terminator": "7ad760c16224d39802a0b161f6f56d52c54d4454ec7f3ea96e965bef71801d46",
+        "kind": "table_row",
+        "actual_manual_receiving": "06844e"
+      },
+      {
+        "line": 176,
+        "sha256_utf8_line_no_terminator": "9741f1b2a9bb7275fe3980100fb740b7b5a834a87faf42a4bdb6ef79c34699d2",
+        "kind": "table_row",
+        "actual_manual_receiving": "06844e"
+      },
+      {
+        "line": 177,
+        "sha256_utf8_line_no_terminator": "e150fbe432bb4eb90f80248108c8c550bf97d429c9870a2597cb056c2a8af933",
+        "kind": "table_row",
+        "actual_manual_receiving": "06844e"
+      },
+      {
+        "line": 178,
+        "sha256_utf8_line_no_terminator": "acce3e8be77849bdc3c12160cdad6d39efc6dbeea5ffbfbe463ed90f75aee9f7",
+        "kind": "table_row",
+        "actual_manual_receiving": "06844e"
+      },
+      {
+        "line": 179,
+        "sha256_utf8_line_no_terminator": "1b4a927073ee8a2f764eee55f8ecb1563fa4289a3ce0555b0363e739b8b539b6",
+        "kind": "table_row",
+        "actual_manual_receiving": "06844e"
+      },
+      {
+        "line": 180,
+        "sha256_utf8_line_no_terminator": "ccd96efe9247f83f167a09eca07f9580925b1dcf492580b7e52ba7e00ff614e5",
+        "kind": "table_row",
+        "actual_manual_receiving": "06844e"
+      },
+      {
+        "line": 181,
+        "sha256_utf8_line_no_terminator": "d2cbfd53118f5395aa4b16adb71a0adb69a1a5fd2104109eacc3a74380969397",
+        "kind": "table_row",
+        "actual_manual_receiving": "06844e"
+      },
+      {
+        "line": 182,
+        "sha256_utf8_line_no_terminator": "510ce2e3d15308657699971887377f6104b3bf121cbeb54e43092d6f46db0113",
+        "kind": "table_row",
+        "actual_manual_receiving": "06844e"
+      },
+      {
+        "line": 183,
+        "sha256_utf8_line_no_terminator": "5cf3daefc75252e6b73791a4afb1675d101accec2b0b4df435a1d05be82e95b2",
+        "kind": "table_row",
+        "actual_manual_receiving": "06844e"
+      },
+      {
+        "line": 185,
+        "sha256_utf8_line_no_terminator": "ed8d2ce29c2f586b80fa6aa951135c7ef88f2caccd853222518fa8b120440012",
+        "kind": "prose",
+        "actual_manual_receiving": "06844e"
+      },
+      {
+        "line": 187,
+        "sha256_utf8_line_no_terminator": "07754b595741f3e960593d7f186c105ff0333ac1a44bbfb650621522b65c68d0",
+        "kind": "prose",
+        "actual_manual_receiving": "06844e"
+      }
+    ],
+    "prior_frozen_payloads_exactly_preserved": [
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/BLUE_ARCHIVE_AYANE_CHARACTER_MONOGRAPH.md",
+        "bytes": 41706,
+        "lines": 251,
+        "sha256": "f7e00400711726fd5c820e4eb6a4648518fa20b088573da23bc2e617ed236bed"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/AYANE_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 69720,
+        "lines": 1450,
+        "sha256": "931a4a2738e9cd004f92393862b0ce8de53285948636e74aa6ed17cf7a8e5dd2"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/AYANE_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 9258,
+        "lines": 50,
+        "sha256": "4b4a4516bb33d1921e7120e1926c1c4ee9404c205b7c7ff9847182dee82d7003"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/AYANE_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 4229,
+        "lines": 67,
+        "sha256": "56d7db955f22bedad6dfe33acbb2b94b7075733396666ef6b1ae614c9b6445b4"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/BLUE_ARCHIVE_NONOMI_CHARACTER_MONOGRAPH.md",
+        "bytes": 43519,
+        "lines": 247,
+        "sha256": "bb97bead89b4e8b62fb801b2027b0ea699c92d09124103f548c51263a3f724a0"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/NONOMI_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 68234,
+        "lines": 1481,
+        "sha256": "fe513b5573023d621fb2a09cfbdbb853b2af7a0b8cab2d0108683aacb4b76536"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/NONOMI_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 11242,
+        "lines": 59,
+        "sha256": "80ec11f1ebbdca381646404d55d1caf82ebac660a4760d7b060e43053c5cf18d"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/NONOMI_EXACT_PAIR_METADATA.json",
+        "bytes": 3991,
+        "lines": 90,
+        "sha256": "e58bf6f675da3c73296048de4c041981f9ebb84135898bcee9a8f97cc7c8d3ab"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/NONOMI_MM_PAIR_METADATA_PROBE.json",
+        "bytes": 1889,
+        "lines": 59,
+        "sha256": "3a8b6b507aedc82747612dd8562b858ff6a81374d9bd3f5935755ebb04bb356a"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/BLUE_ARCHIVE_SERIKA_CHARACTER_MONOGRAPH.md",
+        "bytes": 51876,
+        "lines": 252,
+        "sha256": "59fe918d81000805b7211b579851c9a5d7db72f72ed55b29365bddfc15c4f185"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/SERIKA_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 96649,
+        "lines": 1946,
+        "sha256": "a80bb92d777a5d7128b529f5dfae0eae7bba32abb162fb2c36d8e66c7b5718e5"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/SERIKA_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 10643,
+        "lines": 57,
+        "sha256": "f0c12f2dcce30dd6fbf44aaf8170990f21ae677187fb904f39d6396f3665701f"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/SERIKA_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 11949,
+        "lines": 167,
+        "sha256": "da77d7f2d3e103360742871182d1191184a85f4b947db44ec8e9921e981e1366"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS/BLUE_ARCHIVE_HOSHINO_CHARACTER_MONOGRAPH.md",
+        "bytes": 52404,
+        "lines": 233,
+        "sha256": "391f67d25db0cfddce6930260dfe95d61de45511efaffd26fcfd045830fc194b"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS/HOSHINO_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 115571,
+        "lines": 2502,
+        "sha256": "2748d7af6885e11994c38c5b848ed468b2b7cef020e3acc95437b9b50e342591"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS/HOSHINO_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 21721,
+        "lines": 82,
+        "sha256": "5524957bc8a988d2de6c3465c7690be555c04d2f47f14b2548849b3f467215be"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS/HOSHINO_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 2958,
+        "lines": 47,
+        "sha256": "7c6dcda486d9431cd037a9691763fcb5cdfbda0c6afe7ac2da6b971db99adf1b"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS/BLUE_ARCHIVE_SHIROKO_CHARACTER_MONOGRAPH.md",
+        "bytes": 48619,
+        "lines": 229,
+        "sha256": "4aed715309bdb3bb7581bd3ab77dbbfa6d853dbca10d0232bb46bfab659ced20"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS/SHIROKO_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 139725,
+        "lines": 3099,
+        "sha256": "f5666436a1dbcf029c503c7138847bb2feadbe80c8382d51725621d02f9a7460"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS/SHIROKO_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 17252,
+        "lines": 71,
+        "sha256": "8fe7fcb0683da5dc3ed2ee4aff05516e1b043d9f6a5995d28ab2eb4b5b6871f3"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS/SHIROKO_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 5292,
+        "lines": 71,
+        "sha256": "22966ac882234f6a08d5f00f93f3735dbbb620c8dbe258f3e7b8b09a76c3b6ff"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS/BLUE_ARCHIVE_SUBARU_CHARACTER_MONOGRAPH.md",
+        "bytes": 48646,
+        "lines": 234,
+        "sha256": "dd22db82ab67a6a39447a3a63ac58faad6d85ce211c3dd6cd47917891ad38b66"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS/SUBARU_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 47359,
+        "lines": 968,
+        "sha256": "b07db236e7932073836935763e6ccd94fbc2da4ab27b64ac4c96de09f861c8de"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS/SUBARU_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 9027,
+        "lines": 48,
+        "sha256": "7d578160976ed40aded7ba45a20e21bacc733b954e4c251303a3e612f25ff135"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS/SUBARU_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 2952,
+        "lines": 47,
+        "sha256": "3a28f8e35c69199394ac83a5cafd27faba50f853cf55c66e48ca09da879e1902"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/BLUE_ARCHIVE_ATSUKO_CHARACTER_MONOGRAPH.md",
+        "bytes": 52227,
+        "lines": 212,
+        "sha256": "cd713fbacf902b8930f6040de6ddb38175103397297dbcf5f68c74bddc11bad4"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/ATSUKO_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 83614,
+        "lines": 1883,
+        "sha256": "4fe98d4df3f4f1a12677cdd6717d9f4ae4bb9678aa3e52ef1fd973962ca5e1be"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/ATSUKO_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 8811,
+        "lines": 49,
+        "sha256": "f1d405fce4780261195bfbc91c8f083f5e536bf568e15cca02caa50f6ae1494b"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/ATSUKO_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 3788,
+        "lines": 59,
+        "sha256": "0546d1f34b5d78fb15af3d0da196c4e0ca44e5467367d779765c52236fd20627"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/BLUE_ARCHIVE_HIYORI_CHARACTER_MONOGRAPH.md",
+        "bytes": 45124,
+        "lines": 222,
+        "sha256": "3ddebff28643eb6060c4afc5a3e61128aa8435cf013732583355d006a17a5d6a"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/HIYORI_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 85037,
+        "lines": 1895,
+        "sha256": "8e0e35e2ec7a7e555631cc592a6255b39a0d18e953d154d14ca17cd123c27b4c"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/HIYORI_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 6933,
+        "lines": 42,
+        "sha256": "a93d6e5790692bb525dcbf3aad1149721cb830575bafbb829f49c48586f4d9fb"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/HIYORI_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 4752,
+        "lines": 71,
+        "sha256": "59361761048f38c5c15d370b9a1a1f062fa549de3ddb8f2ba878aa2fdad9eaea"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/BLUE_ARCHIVE_MISAKI_CHARACTER_MONOGRAPH.md",
+        "bytes": 43400,
+        "lines": 208,
+        "sha256": "1b6745eab6d26b7d9c1682ec8e91c30439953b0f2c8d04d501796b5e1d11db1a"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/MISAKI_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 86048,
+        "lines": 1835,
+        "sha256": "09737f96b7c9854593f679b36df4955da55843da0e384a6e3fd82b1ee3bda248"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/MISAKI_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 6701,
+        "lines": 42,
+        "sha256": "817613ed438a8c39c46e24431601a3291c8d3eb8356d9c112dfb9508445d5e06"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/MISAKI_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 5710,
+        "lines": 83,
+        "sha256": "6ad087406f3e4c80b657e89acec978da22c50d579f894a5d09a8b74dd1fc732a"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/BLUE_ARCHIVE_SAORI_CHARACTER_MONOGRAPH.md",
+        "bytes": 47772,
+        "lines": 216,
+        "sha256": "0b16efbad9f94c9478823ba02c4cab60ef36367a5ce2be9d3002900afeb9df65"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/SAORI_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 88019,
+        "lines": 1899,
+        "sha256": "5117b604e16e65f94dc730eca16dca3a5c9cc5c631ea3a1e93770928f91501af"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/SAORI_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 7485,
+        "lines": 44,
+        "sha256": "c23510cb951146e1287588b4e8cacc995055699074724b75b8c7323a78dfc827"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/SAORI_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 3828,
+        "lines": 59,
+        "sha256": "18d0acadc34bde20cf3d0904486329010b8acaa224ae78d3c89bee2835ae86dd"
+      }
+    ],
+    "required_root_work": "Independent whole saved-prose/exact receipt receiving; semantic/canonical adoption pending.",
+    "remaining_full_phase3_work": "Justified directed relationships, differentiated PS68 ensemble/institution/labor/legitimacy/repair, Sensei/register and full eligible-cast adjudication/integration/merge remain separate required work, not optional global enrichment; no N/quarter credit.",
+    "readable_receipt_actual_whole_receiving": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_MONOGRAPHS/ARU_MONOGRAPH_RECEIVING_RECEIPT.md",
+      "bytes": 8128,
+      "lines": 49,
+      "sha256": "0cfa7786830ed1579829c4529bc2335ba1088719f3eeb1fa8fae0285a89e037f",
+      "actual_scope": "COMPLETE_SAVED_READABLE_RECEIPT_THROUGH_EOF",
+      "tool_chunk": "66d735:1–49 untruncated"
+    },
+    "structured_receipt_review_boundary": "JSON parsed and exact source/paragraph assertions reviewed; no claim of manual whole 1700-line JSON prose receiving. ROOT complete receiving remains pending."
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "current_required_home": "P3-CHAR-ARU",
+  "root_exact_acceptance_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ARU_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+  "historical_author_delivery_attachments": {
+    "ARU_FROZEN_DELIVERY_MANIFEST.json": {
+      "status": "FROZEN_AUTHOR_COMPLETE_ROOT_RECEIVING_AND_ADOPTION_PENDING",
+      "outputs": [
+        {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_MONOGRAPHS/BLUE_ARCHIVE_ARU_CHARACTER_MONOGRAPH.md",
+          "bytes": 44503,
+          "lines": 187,
+          "sha256": "3554ef6992f49274f2a61a96e20de5cf0602defc8a7ac532e74cefc3f9db56a1"
+        },
+        {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_MONOGRAPHS/ARU_MONOGRAPH_RECEIVING_RECEIPT.json",
+          "bytes": 88146,
+          "lines": 1754,
+          "sha256": "a5846b7e002de5d99d096fb76354d0337f2f4df3fd5f16112220b74a7a174ff2"
+        },
+        {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_MONOGRAPHS/ARU_MONOGRAPH_RECEIVING_RECEIPT.md",
+          "bytes": 8128,
+          "lines": 49,
+          "sha256": "0cfa7786830ed1579829c4529bc2335ba1088719f3eeb1fa8fae0285a89e037f"
+        },
+        {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_MONOGRAPHS/ARU_CURRENT_WORKTREE_METADATA_PROBE.json",
+          "bytes": 2965,
+          "lines": 47,
+          "sha256": "c8919cbf916fcb621c1b44fbd01ad14a03de566274b175f26f353ad5be60bdc2"
+        }
+      ],
+      "body_receiving": [
+        "cba3be:1–112",
+        "06844e:113–187 EOF",
+        "7595c2:revised150"
+      ],
+      "readable_receipt_receiving": "66d735 whole49",
+      "eleven_sections": true,
+      "all14_gaps": "OPEN",
+      "selected_private_objects": 29,
+      "primary_credit": {
+        "whole_bond_objects": 2,
+        "bond_utterances": 158,
+        "formal_choice_groups": 14,
+        "printed_choice_options": 19,
+        "whole_momotalk_objects": 1,
+        "message_records": 17,
+        "fresh_written_objects": 0
+      },
+      "prior_frozen_preserved": 41,
+      "no_operations": "No R/Git/provider/index/global registry/denominator/milestone/publication/merge operations.",
+      "required_root_work": "Independent whole saved-body/exact receipt receiving and canonical adoption pending."
+    },
+    "ARU_MONOGRAPH_RECEIVING_RECEIPT.md": "# Aru monograph — complete candidate receiving receipt\n\nCandidate: 44,503 bytes / 187 lines / 6,167 words / SHA-256 `3554ef6992f49274f2a61a96e20de5cf0602defc8a7ac532e74cefc3f9db56a1`.\n\nEleven substantive architecture1.12 sections; UTF-8 LF/no BOM. C-only local candidate; ROOT independent whole receiving/adoption pending. All14 gaps OPEN. No registry/model/N/quarter/integration/publication/merge result.\n\n## Saved argument and authority\n\nSaved body1–112 completely readcba3be;113–187 completely read06844e through EOF. Exact revised150 read7595c2 keeps the carrying-stop request distinct from unprinted compliance. Every nonempty line has exact hash and actual manual custody in JSON; hashes do not perform literary review.\n\nCurrent Cycle008 admission, ROOT qualified complete accepted-argument custody with limits, historical order/independence UNKNOWN and performed voice UNRECEIVED stay distinct. Exact陸八魔アル/りくはちま/BA_PERSON_ARU,10000/10031/10089 and costume1900902301→10031/1900923001→10089 remain a bounded literary family. No body/calendar authentication or disputed actor repair.\n\nThe thesis gives staff care/study/cinema/clothes/meals/company intrinsic value and retains authored retaliation, post hoc demolition approval, client deception, incomplete repair, recipient boundaries and peer counterpreferences. Actual repayment differs from ordinary020 future repayment; the carried exit differs from the later stop request and absent setting-down; the urgent purpose remains withheld. Real help and continued ordinary lives are not permanent rehabilitation.\n\n## Complete accepted arguments\n\n| Input | Bytes | SHA-256 | Actual receiving |\n|---|---:|---|---|\n| `series/blue-archive/02 Sequential Readings/BOND/ARU/BLUE_ARCHIVE_ARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md` | 37075 | `d7bdc25e91b1a9671bce5c9a1852e735015d672c2fb8a038c65d75587078f1e9` | c34d13:1–140; 92d1f4:141–221 through EOF |\n| `series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2201_DEEP_READING.md` | 20604 | `54bfc7a4c14e258acdfe36e28b5be1b845ad3347a2748f2bf3a0f95da5d69e43` | 25bb74:whole137 through EOF |\n| `series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1901_1902_DEEP_READING.md` | 25362 | `5272f38efcec91af3817c895c191a01d2d1c1d9c04dca5da3c304685cb593843` | b27f8a:whole154 through EOF |\n| `series/blue-archive/02 Sequential Readings/EVENTS/EVENT_809/BLUE_ARCHIVE_EVENT_809_PHASE2_CONTEXTUAL_COMPARISON_20261008.md` | 20216 | `04a41b534c4102c215832cce876737f0d3ff3907088cd0a7194b8ffdeb523c04` | c81c3f:whole125 through EOF |\n| `series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_037_80000037_DEEP_READING.md` | 8438 | `0557666f4735a3024b04f543c1cdc81e15d01c16645c8f0a75592180d8b751bf` | 9b8f52:whole throughEOF through EOF |\n| `series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_E002_DEEP_READING.md` | 5605 | `59978e87fce22d33108f7044976f295fe7ae9e7dc628d9677c3dcb8cea3175dd` | 9b8f52:whole throughEOF through EOF |\n\nTen unchanged personally complete public arguments reused: MainV001349;Final452/four chapters;MINI32whole344;Event834268,Event810316,Event821157. Exact current=main2e=c1 source bytes verified. Fresh spans Main113–170/Event82169–124 complete output-only frame, no invented chunk ID;Event834113–167b52253;MINI214–248c46639. Private Aruwhole221c34d13/92d1f4 contributes29=12BOND+12wholeMomoTalk+5written. Original producer source/count claims remain attributed. Complete peer private arguments are not falsely claimed from Main’s bounded peer comparison.\n\n## Necessary Japanese recovery\n\n| Object | Bytes | SHA-256 | Actual receiving |\n|---|---:|---|---|\n| `BA:bond:10089:005` / `external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/BOND/ARU/VARIANT_10089_EPISODE_005.md` | 8139 | `3ee7741e74eb0eeb33ce2dfebc4a0bf9f335709dc25b2ffd77fc4107c73a6f6c` | e3c340:whole265 throughEOF |\n| `BA:bond:10031:003` / `external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/BOND/ARU/VARIANT_10031_EPISODE_003.md` | 16417 | `9013a0b4b3c8822452fea3bda2201113e51ff942ea4f47e615e18b29c9e00e8c` | 526487:whole476 throughEOF |\n| `BA:momotalk:10089:thread:100890260` / `external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/MOMOTALK/ARU/THREAD_100890260.md` | 2173 | `fe33f3e3840ea1ecda0a2908a5b5abd35cf13bad54143a25746222005d55d0c1` | d1c35a:whole85 throughEOF |\n\nTwo whole BOND objects:158 utterances/14 formal groups/19 printed options. One whole MomoTalk:17 messages. No fresh written/raw/native/AV replay. All29 inherited selected bindings verified separately; hash checks earn no narrative credit. NewYear003 confirms specific invented client, accepted carried exit then explicit enough-carrying request/no setting-down. Dress005 confirms actual payment/dress return and immediate transfer after unfreezing despite adult refusal. Whole dressMM100890260 confirms afterword repayment inquiry/thanks and final deferred urgent-purpose explanation.\n\n## Current controls, unadmitted lead and preservation\n\n`series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_RESPONSIBILITIES.csv`: 466,542 bytes/788 rows/SHA`ec11af62bb97407a8b7eba7cf3c74bf987d156d463f94c44668625f87d853a73`; actual mutable ROOT worktree HEAD`1dc2092095ed74ee743971f1f274b30cb291d939`.\n`series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_OWNER_CENSUS_DISPATCH.csv`: 45,708 bytes/105 rows/SHA`2d4ac2798f8d84e3dcf0c99c8101e31ee8ad5e47f823d89371b4dc48835823de`; actual mutable ROOT worktree HEAD`1dc2092095ed74ee743971f1f274b30cb291d939`.\n\nHistorical353 controls retain exact tuples; ROOT reports355 successor with PS68 homes unchanged. No exact355 body/tuple received or global scope/denominator adjudicated here. Analytical main2e and historicalc1/346/staged-dc5 metadata remain separate.\n\nAll41 earlier payloads across six Abydos and four Arius manifests remain byte-identical. Required pinned local access and user cancellation of integration handoffs justify C-only local work. DEEP_SYNTHESIS recommended; model/reasoning unexposed unchanged. No R/Git/provider/global registry/external handoff/paid API/cloud/publication/merge. All nine unbound large files remain unopened/unhashed.\n\nUnclassified92030 remains an available/unadmitted historical queue lead with unresolved mode/continuity. ROOT filename-only6006db/f32985 route query/72c3a8 checkpoint qualification establish no accepted normal owner or plot; not among admitted29 and not global absence. Stronger use needs separate admission/recovery, not a mandatory missing admitted private reading.\n\nNo known mandatory primary recovery remains for asserted bounded claims. Clinical/technical/legal/performance/chronological/repair claims retain named excluded witnesses. ROOT independent whole receiving and canonical adoption remain required. Complete Phase3 still requires directed relationships, PS68 ensemble/institution/labor/legitimacy/repair, Sensei/register and all eligible-cast work; those are not optional enrichment of this monograph.\n",
+    "ARU_CURRENT_WORKTREE_METADATA_PROBE.json": {
+      "head": "1dc2092095ed74ee743971f1f274b30cb291d939",
+      "scope": "Actual mutable ROOT worktree metadata; distinct from analytical main2e, historical c1/346/staged-dc5 frozen witnesses. No scope or completion adjudication.",
+      "controls": [
+        {
+          "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_RESPONSIBILITIES.csv",
+          "bytes": 466542,
+          "lines": 789,
+          "sha256": "ec11af62bb97407a8b7eba7cf3c74bf987d156d463f94c44668625f87d853a73",
+          "rows": 788,
+          "matching_aru_metadata_only": [
+            {
+              "candidate_unit_id": "P3-F006",
+              "population": "TYPED_PRIVATE_WRITTEN_RESPONSIBILITY",
+              "subject_or_responsibility": "Aru",
+              "raw_identity_or_source_ids": "BA_PERSON_ARU",
+              "evidence_paths": "series/blue-archive/02 Sequential Readings/BOND/ARU/BLUE_ARCHIVE_ARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+              "source_boundary": "B12/MM12/W5; variants 10000|10031|10089",
+              "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+              "argument_or_limit": "Complete selected pools admitted with limits; counts do not prove an independent monograph. Preserve literal raw-key and chronology distinctions.",
+              "package_target": "",
+              "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+            },
+            {
+              "candidate_unit_id": "P3-A094",
+              "population": "DATED_ASSESSED_ANALYTICAL_ROUTE",
+              "subject_or_responsibility": "Aru",
+              "raw_identity_or_source_ids": "",
+              "evidence_paths": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md",
+              "source_boundary": "Dated Cycle007 model-route census; current Cycle008 source owners supersede intake words",
+              "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+              "argument_or_limit": "Named people, compound/uncertain identities, local roles, voices and nonhuman actors remain heterogeneous. Model readiness is not literary package eligibility.",
+              "package_target": "",
+              "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+            }
+          ]
+        },
+        {
+          "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_OWNER_CENSUS_DISPATCH.csv",
+          "bytes": 45708,
+          "lines": 106,
+          "sha256": "2d4ac2798f8d84e3dcf0c99c8101e31ee8ad5e47f823d89371b4dc48835823de",
+          "rows": 105,
+          "matching_aru_metadata_only": []
+        }
+      ]
+    }
+  }
+}

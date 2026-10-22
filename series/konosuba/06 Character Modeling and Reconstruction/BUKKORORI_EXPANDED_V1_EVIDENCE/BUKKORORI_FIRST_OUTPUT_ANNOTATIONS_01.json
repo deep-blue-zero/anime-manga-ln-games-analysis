@@ -1,0 +1,91 @@
+{
+  "schema": "konosuba.secondary.first-output-annotations.v1",
+  "recorded_utc": "2026-10-20T21:17:08.161417+00:00",
+  "subject": "Bukkorori",
+  "source_known": true,
+  "same_informed_model_author_case_designer_output_author_assessor": true,
+  "foundation_seal_sha256": "05a6562c0f2e7e7a5cf9a37add927ceb126543de5bfe036847f5e57fb8bffd6f",
+  "input_file_sha256": "b145b45a9ea1208324fd590ff0ea58264939b57e2850bfe3a97aac2ab51f44ca",
+  "actual_outputs_sha256": "58ad84c08f9fa1cb42409147b511da1e371bbda7b78da0ab20fff2337750803a",
+  "actual_first_body_freeze_sha256": "a05094a6019e2af5686ad472a52f49489ef2f11aa4d1038a22ffcc3d6b4f83be",
+  "actual_first_count": 4,
+  "contrast_pairs_not_independent_trials": 2,
+  "cases": [
+    {
+      "case_id": "BK-H01-A",
+      "actual": "Addresses visitors,uses a formal name/defender performance,flourishes the first chair and begins carrying it. Says about eight minutes and seeks remembered credit; no full setup completed.",
+      "fidelity": "Fifteen chairs becomes fifteen people spared standing,though actual attendance is not supplied. Room-ready wording adds an unspecified room setting/readiness frame. Quarter-hour discomfort is ambiguous rhetoric using time to meeting,not a measured wait or meeting duration.",
+      "limits": "Declines help without a visitor offering it; no new actual visitor action asserted. Generic audience performance strongly cued; useful task starts just as in B.",
+      "input_sha256": "8358d69195a9637ff26c399bd07a56da1568646f2e5e1d56eec53fbdb9b8ae10",
+      "body_sha256": "7ce39a3cccbaeada2f9be9c411a0c3d9eea28c8c836fdbf9d6ad47ee0845bd86",
+      "word_count": 96,
+      "regenerations": 0,
+      "repairs": 0
+    },
+    {
+      "case_id": "BK-H01-B",
+      "actual": "Complains to himself about absent audience,starts carrying first chair with no introduction/flourish,follows marks,and says speech will not carry chairs.",
+      "fidelity": "Possible later changed arrangement is a hypothetical complaint,not an actual event. Eight-minute estimate is supplied capability; the later completed setup is not observed.",
+      "limits": "Same chair-start endpoint as A,with different presentation. Still performs a private heroic self-description; no measured unsafe delay or opportunity cost.",
+      "input_sha256": "28f8e4a0301add56052250bef30370796cad901a4730f74f55ce606289018af9",
+      "body_sha256": "1b3a54c37b31b9fb17f43dee58e2e0a761568ba065c04e0da335185b082a4a1f",
+      "word_count": 97,
+      "regenerations": 0,
+      "repairs": 0
+    },
+    {
+      "case_id": "BK-H02-A",
+      "actual": "Brightens,plans one work text with personal warmth,verbally acknowledges narrow scope,pockets phone and turns toward exit. No message sent or Mira reaction supplied.",
+      "fidelity": "I know,I know can be self-correction; do not treat it as a supplied new Mira reply. Personal greeting is not by itself a demonstrated boundary violation or mutual romance.",
+      "limits": "Access-seeking appears as mild framing/hope,not enacted stalking or an indirect approach. Practical endpoint matches B; future texting remains promised.",
+      "input_sha256": "d98c590e6fe5d967f7ab56ed9e716efb29dfee4979455c301d132051db3b62c6",
+      "body_sha256": "c4fce022214492c7ec21e5a2b10ff8c70973d8b946100b2332c6db5127f2befe",
+      "word_count": 95,
+      "regenerations": 0,
+      "repairs": 0
+    },
+    {
+      "case_id": "BK-H02-B",
+      "actual": "Registers explicit no-text instruction,uses given office-email alternative in speech,disclaims a fabricated emergency,pockets phone and turns without sending.",
+      "fidelity": "Emergency-pretext idea is an unasked hypothetical extension; no actual emergency or past lie is asserted. The no-emergency input may cue it,so it is not independent insight.",
+      "limits": "Reflective restraint may be overcoherent relative to adverse source pursuit. Still only a current refusal response; no completed email,departure or enduring reform.",
+      "input_sha256": "e84ad69796f0bbf201db48d40acb198234ad63ad46bf06dae8864919a8e87537",
+      "body_sha256": "46deacdfb00dace295ef31805c9cbbbbc3dba58fceb6e1b7fff0066e24fd203e",
+      "word_count": 98,
+      "regenerations": 0,
+      "repairs": 0
+    }
+  ],
+  "pair_observations": [
+    {
+      "pair_id": "BK-H01",
+      "observed": "Public flourish/name/recognition talk versus private self-complaint and plain movement; both begin first chair.",
+      "limits": "Direct audience cue and available addressee produce a generic expressive contrast. No measured timing,safety conflict or completed task difference."
+    },
+    {
+      "pair_id": "BK-H02",
+      "observed": "Hopeful plan for one permitted work text versus disappointment and given email alternative after refusal; both pocket phone/turn without sending.",
+      "limits": "Both explicit scope cues elicit relatively orderly restraint. No enacted intrusive access,recipient reaction or completed future contact. Generic boundary compliance and author optimization remain strong."
+    }
+  ],
+  "mechanism_scope": {
+    "BK_R01": "Presentation contrast under strong explicit audience cue; unsafe delay and real tradeoff unprobed.",
+    "BK_R02": "Romantic framing and narrow permission/refusal response; major indirect/intrusive pursuit mostly unreproduced here.",
+    "BK_R03": "Only weakly engaged through supplied volunteer task/capability; no real financial cost or institutional-duty conflict.",
+    "BK_R04": "No dedicated evidential contradiction or mistaken-cause contrast; unprobed."
+  },
+  "unprovided_or_unasked_details_preserved": [
+    "BK-H01-A fifteen people is unsupported by fifteen chairs alone; output claim not input fact.",
+    "BK-H01-A room-ready language adds unspecified physical setting; it does not establish actual completed readiness.",
+    "BK-H01-A quarter-hour rhetoric is not a proved duration; unsolicited declining of help is not a received offer.",
+    "BK-H02-B introduces negated emergency-pretext option; no actual emergency/lie inferred."
+  ],
+  "all_actual_word_counts_within_requested_range": true,
+  "word_count_compliance_not_behavioral_validation": true,
+  "regenerations": 0,
+  "repairs": 0,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": 0,
+  "full_program_complete": false
+}

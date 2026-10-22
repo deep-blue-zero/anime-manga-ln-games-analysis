@@ -1,39 +1,67 @@
-# Nightly analytical integration
+# Analytical integration
 
-The owner authorizes `.github/workflows/nightly-integration.yml` and its bound `tools/nightly_integration.py` controller to perform mechanical integration of audited `series/<stable-slug>` and `studies/<stable-slug>` branches. This amendment does not delegate interpretation, character curation, governance changes, or temporary-branch integration to the scheduler.
+Pull requests reach `main` through one deterministic merge gate, `tools/nightly_integration.py`. Two callers use it:
 
-The schedule is 07:00 in `America/New_York`, including daylight saving time. GitHub may delay a scheduled run; this is a start time rather than a promise that integration completes at 07:00. Scheduled runs use preview mode until the repository variable `NIGHTLY_INTEGRATION_ENABLED` is exactly `true`. Manual runs offer `preview` or `apply` and an optional exact stable branch. The enable variable also controls manual apply runs.
+- the **CI and PR Integration Steward** (the CI agent), a scheduled cloud agent of any provider, for open owner PRs;
+- the owner, through the manual **Bulk merge analysis branches** workflow (`.github/workflows/nightly-integration.yml`), for every `series/<stable-slug>` and `studies/<stable-slug>` branch at once.
 
-## Candidate and integration contract
+The gate enforces the mechanics below in code. This document states what the CI agent is for and what remains the owner's decision.
 
-1. Capture the current main commit and a complete, sorted inventory of stable analytical branch names and tips. Automatically consider audited branches; no opt-in PR label is required. An existing draft PR or the `nightly-hold` PR label defers that branch. Authors must use one of those holds when published, structurally valid work should not yet merge. Structural checks do not determine whether interpretation is complete.
-2. Require a successful starting main audit before any remote mutation. Require a successful source audit run; an authored-content run with a pending integration status permits reconciliation only. Missing, failed, cancelled, skipped, untrusted, or superseded audits never permit merging. Audit status must originate from the fixed GitHub Actions reporter and identify the approved audit workflow.
-3. Verify the full source delta is confined to its named analytical root, the five housekeeping outputs, and any already agent-authored two-file character repair. Cross-cutting branches, `character-registry`, forks, and arbitrary branch names are excluded. The curation task retains its existing independent integration authority and schedule.
-4. Incorporate current main through a clean Git merge on the existing source branch when needed. Construct the merge in a separate bare Git object store without checking out or executing candidate code. Preserve authored bytes through Git's clean merge; any textual conflict, including a generated-output conflict, defers the branch. No automatic conflict resolution, content rewriting, rebase of source history, force-push, or branch deletion is allowed. The reconciliation commit uses the existing approved owner author identity and GitHub committer identity.
-5. The non-forced reconciliation push uses the owner credential so the existing owner-gated source audit and housekeeping sequence runs normally. Only the unchanged expected source or its one verified housekeeping child may advance the candidate. That child must have the exact parent, `Generated-From` trailer, approved identities, and a nonempty delta confined to the five generated routing files. Any other concurrent update defers the source.
-6. Require the final source commit's successful `Repository integration audit` from the full audit dispatched by housekeeping as `github-actions[bot]`. Recheck current-main ancestry, the complete path boundary, both remote heads, and PR draft/hold state. A green author preflight or an unrelated manual audit is insufficient.
-7. Create or reuse one owner-authored PR to main. Merge using the exact expected head through GitHub's protected PR endpoint. Require main protection to enforce the integration status, strict up-to-date branches, and rules for administrators. Prefer merge commits for continuing branches; use squash only when required linear history demands it. Do not enable auto-merge, bypass protection or required reviews, directly push main, or delete branches. Recheck settings before each merge.
-8. Record the returned integration commit immediately. Compare its entire tree with the final audited source, explicitly dispatch `audit-generated-commit` for that exact main commit, and wait for a new successful owner-dispatched full audit. This dispatch is mandatory even if the owner-token merge also starts a push audit. If post-merge validation fails or times out, report the change as integrated but unverified and stop further merges. Do not automatically revert or rewrite main.
-9. Process subsequent sources against the newly verified main. A source update is deferred; an external main update or control change stops the run. Workflow concurrency serializes this scheduler only, not other cloud tasks or human writes. Repeated head checks and strict server-side protection handle those concurrent writers. Ambiguous mutations are read back before deciding their outcome; the controller does not blindly retry writes.
+## CI and PR Integration Steward
 
-Post-merge tracking examines the exact integration commit's audit-status history after the pre-dispatch status watermark. A later successful push audit must not hide the newest trusted owner-dispatched audit. The newest overall status must still be a trusted success; a failure halts and a pending result waits. The newest qualifying dispatch must itself have succeeded, so an older successful dispatch cannot conceal a failed, cancelled, or unfinished replacement. Workflow identity, reporter identity, owner actor, exact-commit status placement, and freshness remain mandatory.
+The owner delegates routine integration to the CI agent. Each scheduled run it:
 
-An already preserved branch or a clean combined tree identical to main produces no commit or PR. Partial success is preserved if another branch fails. Per-branch failures are reported and other eligible branches may continue; shared access errors and post-merge failures halt the run. Waiting is bounded by a 165-minute controller budget within a 180-minute job timeout, with at most 70 minutes for a source's audit/housekeeping sequence and 30 minutes for each explicit post-merge audit. The scheduler may defer remaining work when its time budget expires.
+1. reviews every open, owner-authored, same-repository PR against `main`: the complete diff, its audit result and any CI failure evidence, including any routing `catalog_note` that records progress instead of describing the project;
+2. reconciles a PR that is behind `main` by merging `main` into its branch, and fixes regressions in analysis, character data or code with ordinary commits on that branch;
+3. merges only by running the gate from a fresh checkout of current `main`.
 
-## Credentials and activation
+Candidates come from `series/`, `studies/`, `agent/` (and the older `codex/`, `chatgpt/` and `claude/`) branches and the `character-registry` and `character-reconstruction` branches. A branch name grants nothing: the gate checks each PR's paths. Character discovery and reconstruction PRs are ordinary candidates. The repository audit confines `character-registry` to its two files. The gate accepts reconstruction outputs only from `character-reconstruction`, which may change nothing else. Until the owner accepts reconstruction calibration (`publication_phase: ROUTINE`), the gate leaves every reconstruction PR for the owner.
 
-Use a fine-grained token issued by `deep-blue-zero`, restricted to this repository, stored as the Actions secret `NIGHTLY_INTEGRATION_TOKEN`. Required repository permissions are Contents read/write, Pull requests read/write, Actions read, Commit statuses read, and Administration read (to inspect protection). Metadata read is implicit. No administration write permission is needed. Do not place the token in repository files, PR text, logs, or chat.
+### What waits for the owner
 
-The owner credential is intentional: housekeeping accepts owner-originated pushes and the corpus audit retains its existing owner-author identity contract. The default `GITHUB_TOKEN` remains read-only and powers preview. The owner credential is supplied only to the trusted default-branch controller step. It is never passed to candidate validation code; all full audits run in the existing separate workflow. Token expiry or missing access is an actionable failure, not permission to fall back to a different identity.
+The gate refuses any PR that touches a guardrail path:
 
-The owner-authenticated protection check on 2026-09-05 found administrator enforcement and required linear history enabled, with force-push and deletion disabled, but no required status checks configured. Activation therefore requires adding `Repository integration audit` as a required status and requiring branches to be up to date before merging. The existing linear-history requirement selects squash merging. The controller verifies these settings at runtime and refuses apply if they do not meet the contract. Review the protection adjustment as part of activation; this policy does not automatically change repository settings. Any required human reviews remain effective.
+- `.github/`, the gate itself, this document and `AGENTS.md`;
+- owner authorization records: `governance/repository-controls/` (publication grants, sealed-reading releases, the reconstruction phase gate, identities and tracked-file limits), and the archived migration records in `governance/archive/`;
+- `crosswalk/`, `provenance/`, `LICENSE.md` and `THIRD_PARTY_NOTICES.md`.
 
-Deploy the reviewed workflow, controller, policy amendment, contract bindings, and tests together. First run a manual preview. Then configure the secret, verify protection and commit-identity compatibility, set `NIGHTLY_INTEGRATION_ENABLED=true`, and run apply for one stable branch before relying on the full daily schedule. Disable writes by setting that variable to `false`. Preview makes no GitHub writes, publishes no branches or PRs, and does not claim that live protected merging has been tested.
+The owner merges those personally, and that merge is what makes an authorization record count.
 
-## Reporting and maintenance
+The CI agent also leaves a PR for the owner, by adding the `nightly-hold` label with a short comment, when it:
 
-The Actions step summary and JSON in the run log record source/base/final/integration SHAs, PR numbers, and candidate outcomes. The local report file is disposable; the GitHub run is the durable receipt. In preview, expected candidate deferrals (including missing or failed audits, holds, source drift, scope violations, and merge conflicts) produce warning annotations and a successful run when the scan completes. The report retains each blocked outcome and reason. Git execution errors, API/access errors, and other run-halting failures still fail preview. In apply mode, blocked work and failures continue to produce an unsuccessful run for normal Actions failure notifications. No issue/comment/email reporting is installed. Existing OpenAI tasks may inspect these reports through their existing access without gaining automatic conflict-repair authority from this amendment.
+- removes or loosens a validation check, test or control value, or would need to in order to pass;
+- changes source admission, rights or provenance boundaries;
+- makes an interpretive or substantively ambiguous change that the evidence does not settle;
+- is a substantive reconstruction PR (a new candidate, supersession or promotion) after calibration is accepted. Only the owner merges a promotion.
 
-`governance/repository-controls/nightly-integration-policy.json` binds the reviewed workflow and controller bytes by SHA-256. The repository validator independently checks those bindings, the exact workflow inventory, scheduling, default-branch restriction, read-only repository token, and serialization envelope. Update both hashes deliberately when changing those files. Workflow and controller changes require focused tests and `python tools/prepare_commit.py --base origin/main --check --full` against the final staged snapshot.
+Never weaken a check or manufacture a green result. A failing PR is repaired or held, never merged.
 
-GitHub's [schedule syntax](https://docs.github.com/en/actions/reference/workflows-and-actions/workflow-syntax#onschedule), [protected branch behavior](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches), and [PR merge API](https://docs.github.com/en/rest/pulls/pulls#merge-a-pull-request) define the hosting behavior. The merge API's expected SHA binds the source; strict protection is also required to protect against a last-moment base update.
+### Holds
+
+Draft status and the `nightly-hold` label are the only hold signals. A hold seen at any point in a run blocks that PR for the rest of the run. Only the owner releases a hold. The CI agent may add one but never removes one.
+
+## Merge gate
+
+For each candidate the gate:
+
+- confirms the branch's owner-authored PR, approved commit identities and allowed paths (an analysis branch may change only its own root, the five housekeeping routing outputs and a separately identifiable two-file curation repair);
+- waits for the trusted `Repository integration audit` to report success on the exact head (for an analysis branch whose routing outputs were stale, that is housekeeping's child commit);
+- merges `main` into a stale branch only when Git merges cleanly, and otherwise leaves the conflict for the CI agent or author;
+- merges through GitHub's protected PR endpoint with the exact audited head as a merge commit;
+- checks that the merge commit's tree equals the audited head and waits for `main`'s own audit of it.
+
+Before any write, an apply run confirms that the gate's bytes match current `main`, the token belongs to the owner, the repository has no other collaborator, pending invitation or write-enabled deploy key, the `main` ruleset still blocks deletion and force-pushes and requires the strict audit, and `main`'s latest audit passed. It rechecks the ruleset immediately before each merge.
+
+If `main` moves during a run, the remaining candidates wait for the next run. If `main`'s audit of a merge fails or does not finish, the change is integrated but unverified: the run stops, and every later run refuses to start until `main` is green again. Repair forward. Never revert, force-push or rewrite `main`.
+
+## Running the CI agent
+
+- Use one fine-grained owner token for this repository with Contents and Pull requests read/write, and Actions, Administration and Commit statuses read. Supply it as `OWNER_TOKEN`. Do not place it in files, PR text, logs or chat. The `NIGHTLY_INTEGRATION_TOKEN` secret needs the same permissions.
+- Run `python tools/nightly_integration.py --mode apply --report <durable path>` from a fresh checkout of `main`. `--mode preview` makes no writes.
+- Run one instance at a time per host. Concurrent writers are safe but waste effort, because GitHub's exact-head merge and strict up-to-date rule let only one succeed.
+
+## Bulk merge workflow
+
+The owner dispatches **Bulk merge analysis branches** on `main` with `preview` or `apply` and an optional single branch. It runs the same gate with `--candidates analysis-branches`, using the `NIGHTLY_INTEGRATION_TOKEN` secret. It opens a PR for an analysis branch that has none. The workflow token stays read-only, and the workflow runs only by manual owner dispatch.
+
+The Actions step summary and run log hold each run's JSON receipt.

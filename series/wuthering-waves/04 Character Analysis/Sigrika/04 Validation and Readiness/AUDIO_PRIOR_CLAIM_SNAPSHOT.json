@@ -1,0 +1,16 @@
+{
+  "original_generation": "SIGRIKA_PRE_AV_V0_1",
+  "SIG-C45": {
+    "id": "SIG-C45",
+    "title": "Current audio measurements do not establish a full machine-voice profile",
+    "epistemic_category": "methodological source constraint",
+    "confidence": "high",
+    "scope": "Supplied voice tables",
+    "evidence": [
+      "SIG-E53"
+    ],
+    "support": "Duration, RMS, peak, channel count, and low-energy fractions are present. Robust F0, segmentation/rate controls, aligned state comparisons, and other protocol requirements are not completed here.",
+    "counterevidence_and_limits": "The rendered coverage is strong and all 666 direct semantic lines have four-language evidence. Coverage and interpretive maturity are different axes.",
+    "revision_or_falsification_condition": "A complete documented machine pipeline applied to the actual media could warrant upgrading the state; copying the present statistics into prose cannot."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema": "KONOSUBA_LEVI_SAME_AUTHOR_INTERNAL_ASSESSMENT_V1",
+  "recorded_utc": "2026-10-20T06:06:00.407382+00:00",
+  "source_known": true,
+  "first_outputs_sha256": "d337d3c3ed4bb2a0f0db591ca6e4c13bf157ff5139e3b56d509690df08513a5e",
+  "scenario_sha256": "4dfa636fabbf3c55769d97f11e976b45e5d540088e69a94381f8ccac0e956e25",
+  "assessment_provenance": "Same continuing author, source/model/scaffold purposes known before writing. No independent judge/runtime/human. Retains original four first bodies and original draft01 pins.",
+  "findings": [
+    {
+      "pair": "LV-H01",
+      "status": "ILLUSTRATED_CONDITIONAL_STAKE_SENSITIVITY_NO_EMPIRICAL_SCORE",
+      "observed": "A asks for terms and conditionally considers contest; B refuses the added military exposure. A does not actually conclude an agreement or perform a game.",
+      "limits": [
+        "Generic prudent royal or negotiator could produce the same difference; distinct Levi fidelity underidentified.",
+        "Scenario is close to known MAIN10 structure and explicitly tells the model its preferred downside.",
+        "No demonstrated error generation, difficult political ambiguity or sustained emotional conflict."
+      ]
+    },
+    {
+      "pair": "LV-H02",
+      "status": "EXACT_FIRST_BODY_INVARIANCE_WITHOUT_EXTERNAL_DISCRIMINATION",
+      "observed": "A/B bodies exactly identical with identical character information and different reader-only truth. No hidden identity leaked.",
+      "limits": [
+        "Identical text does not distinguish Levi from an ordinary cautious official or test actual trust calibration.",
+        "Verification request is plausible extrapolation, not a directly observed stable Levi habit.",
+        "No source test establishes whether he would actually be this careful."
+      ]
+    }
+  ],
+  "material_adverse_or_unresolved": [
+    "Both pairs yield restrained, administratively coherent English prose. They do not demonstrate his mistaken appraisals, coercive choices, comic timing or credible Japanese voice. Possible over-optimization remains.",
+    "LEVI-R03 identifies actual sequence/agency, not sufficient political-change causes; this exercise does not resolve compassion versus pressure/strategic/face rivals.",
+    "LEVI-R04 personal coercion and LEVI-R05 printed linguistic adequacy receive no performance test here.",
+    "No original source-known contrary event is erased by successful-looking hypothetical text."
+  ],
+  "independent_tests": 0,
+  "new_source_trials": 0,
+  "accuracy_percentage": null,
+  "confidence_gain": false,
+  "capability_grade_assigned": false,
+  "first_body_regeneration": false,
+  "frozen_predictions_or_scores_changed": false
+}

@@ -1,27 +1,94 @@
 ---
 series: OPM
 artifact_type: crosswalk
-scope: Official web serialization and revision history
+scope: Official web serialization and revision history, provider web 232-284
 generation: V2
 status: active_provisional
-source_boundary: No official-web source files ingested as of 2026-08-24
+source_boundary: Public official state retrieved 2026-09-16; exact V37 overlap established; uncollected through web 284
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
+updated: 2026-09-16
 ---
 
 # One Punch Man — Web Serialization and Revision Crosswalk
 
 ## Current state
 
-`02 Official Web Serialization` is presently empty. No PR/active-provisional character or thematic claims may therefore be grounded in a locally locked web source yet.
+The official Tonari no Young Jump public backlog is locked for provider labels 232-284. Direct page-sequence comparison, not arithmetic, establishes web 232-234 as the web antecedents of V37 192-194撃目. Web 235 is therefore the first uncollected installment at the present V37 boundary. Web 235-284 form the `active_provisional` current-release layer.
 
-## Required fields when material is added
+The `Local object` values are relative to the noncanonical snapshot root `_staging/current-web/tonari_2026-09-16/`; raw source objects and pages remain outside Git. The hash is the ordered-content SHA-256 for the main page sequence. The printed headings were transcribed directly from title pages; the apparent numbering relation is not generalized into a rule.
 
-| Provider update ID | Display label | Publication date | Retrieval date | Local object | Hash | Narrative relation | Replacement/revision state | Tankobon destination | Notes |
-|---|---|---|---|---|---|---|---|---|---|
+## Crosswalk
+
+| Provider update ID | Display label | Printed heading | Publication UTC | Retrieval date | Local object | Hash | Narrative relation | Replacement/revision state | Tankobon destination | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 4856001361388410249 | [第232話] | 185撃目 | 2023-06-28T15:00:00Z | 2026-09-16 | `episodes/4856001361388410249/manifest.json` | `7ddc6a34d025c0f6edcd36b2c96e0961c1a1807973a255d18600f015cb3f9fc7` | direct overlap with V37 192撃目 | collected; web retained as revision evidence | V37 192撃目 | 41/41 strict matches; V37 adds image 0140 coda |
+| 4856001361511369675 | [第233話] | 186撃目 | 2023-07-12T15:00:00Z | 2026-09-16 | `episodes/4856001361511369675/manifest.json` | `5f4d4eda0534eda3198fac2a305b57dcf734faa4adc9ffc31f97caca7bc88cb9` | direct overlap with V37 193撃目 | collected; web retained as revision evidence | V37 193撃目 | 29/29 strict matches; V37 adds image 0170 coda |
+| 4856001361558227256 | [第234話] | 187撃目 | 2023-07-26T15:00:00Z | 2026-09-16 | `episodes/4856001361558227256/manifest.json` | `fe7cc1b9275957d19b4a53d849324f37100154a388c791616af3ed5cd9729b91` | direct overlap with V37 194撃目 | collected; web retained as revision evidence | V37 194撃目 | 30 strict matches + revised title-page visual; 31 pages total |
+| 14079602755080540915 | [第235話] | 188撃目 | 2023-08-09T15:00:00Z | 2026-09-16 | `episodes/14079602755080540915/manifest.json` | `c1744ffb59757e883af758f83d94432a780bae0370860f7b382319fb7fcdb5c8` | uncollected continuation | public-current; prior state not locked | uncollected after V37 | 35 pages; PR |
+| 14079602755178180638 | [第236話] | 189撃目 | 2023-09-06T15:00:00Z | 2026-09-16 | `episodes/14079602755178180638/manifest.json` | `3cf8086ce25359f871fa996a7212aaea645808515c96beb1073ab60ccce33342` | uncollected continuation | public-current; prior state not locked | uncollected after V37 | 32 pages; PR |
+| 14079602755225457808 | [第237話] | 190撃目 | 2023-09-20T15:00:00Z | 2026-09-16 | `episodes/14079602755225457808/manifest.json` | `6bb8f264d7c4b768e7ff701e1734c39c9bbb9407b45cbc40491544ee2f0f1100` | uncollected continuation | public-current; prior state not locked | uncollected after V37 | 35 pages; PR |
+| 14079602755278351476 | [第238話] | 191撃目 | 2023-10-04T15:00:00Z | 2026-09-16 | `episodes/14079602755278351476/manifest.json` | `f09ddfcb7a3e715d30e7c7f765390c037dec2bf6caaf97f712c824cfcc153759` | uncollected continuation | public-current; prior state not locked | uncollected after V37 | 32 pages; PR |
+| 14079602755331321453 | [第239話] | 192撃目 | 2023-10-18T15:00:00Z | 2026-09-16 | `episodes/14079602755331321453/manifest.json` | `dd2e4d8b9ae30a5645ab540408884cca7916acc37bc309b65220fc97a4a9086c` | uncollected continuation | public-current; prior state not locked | uncollected after V37 | 37 pages; PR |
+| 2550912965179935335 | [第240話] | 193撃目 | 2025-01-22T15:00:00Z | 2026-09-16 | `episodes/2550912965179935335/manifest.json` | `80f7b1b782e267a422f68776b8999152e93ce60b12836114d108547ec91dcc63` | uncollected continuation | public-current; prior state not locked | uncollected after V37 | 27 pages; PR |
+| 2550912965215227081 | [第241話] | 194撃目 | 2025-01-29T15:00:00Z | 2026-09-16 | `episodes/2550912965215227081/manifest.json` | `295b10049dfffa08694226993847d8b9279db6e335f7f6965c7bb74562c85578` | uncollected continuation | public-current; prior state not locked | uncollected after V37 | 23 pages; PR |
+| 2550912965279722993 | [第242話] | 195撃目 | 2025-02-12T15:00:00Z | 2026-09-16 | `episodes/2550912965279722993/manifest.json` | `d553bc53209291557a5a27504b9ab2174e7f7c3d12d169c1f8afb17107b7f1ef` | uncollected continuation | public-current; prior state not locked | uncollected after V37 | 16 pages; PR |
+| 2550912965345820769 | [第243話] | 196撃目 | 2025-02-26T15:00:00Z | 2026-09-16 | `episodes/2550912965345820769/manifest.json` | `beeb90a4d9f75779d4f5c3f182f2a42000a09748e80423b310176b6a86848558` | uncollected continuation | public-current; prior state not locked | uncollected after V37 | 23 pages; PR |
+| 2550912965411353304 | [第244話] | 197撃目 | 2025-03-12T15:00:00Z | 2026-09-16 | `episodes/2550912965411353304/manifest.json` | `17aeac78379cfdaaf180800d4029cc2b618298c917c185911a8eef42961e1fe7` | uncollected continuation | public-current; prior state not locked | uncollected after V37 | 16 pages; PR |
+| 2550912965476562726 | [第245話] | 198撃目 | 2025-03-26T15:00:00Z | 2026-09-16 | `episodes/2550912965476562726/manifest.json` | `c432ada098454be3bc3ad85886b0805da90a50d07534ec2b833517f55c824474` | uncollected continuation | public-current; prior state not locked | uncollected after V37 | 20 pages; PR |
+| 2550912965538709779 | [第246話] | 199撃目 | 2025-04-09T15:00:00Z | 2026-09-16 | `episodes/2550912965538709779/manifest.json` | `4d690d9598ac94b505b795ad5833e2398858ff28960b50ea0c9e32f02b507a7b` | uncollected continuation | public-current; prior state not locked | uncollected after V37 | 15 pages; PR |
+| 2550912965598112646 | [第247話] | 200撃目 | 2025-04-23T15:00:00Z | 2026-09-16 | `episodes/2550912965598112646/manifest.json` | `3d33b8e5a37dd8bcbf2dacd355a3e65d5765a144b00309d206f781b810942380` | uncollected continuation | public-current; prior state not locked | uncollected after V37 | 15 pages; PR |
+| 2550912965667071899 | [第248話] | 201撃目 | 2025-05-07T15:00:00Z | 2026-09-16 | `episodes/2550912965667071899/manifest.json` | `5619071aa148acaadfcaf804827e27b5a80791e54e0d3ead92bc36257796f882` | uncollected continuation | public-current; prior state not locked | uncollected after V37 | 22 pages; PR |
+| 2550912965853717872 | [第249話] | 202撃目 | 2025-06-18T15:00:00Z | 2026-09-16 | `episodes/2550912965853717872/manifest.json` | `7ac4969d5223cb4aae757c279f54ca5aa75012f2d70e0cd0439fe3c83b3e3bde` | uncollected continuation | public-current; prior state not locked | uncollected after V37 | 15 pages; shared recap lead-in then main narrative; PR |
+| 2550912965853717876 | [第250話] | 203撃目 | 2025-06-18T15:00:00Z | 2026-09-16 | `episodes/2550912965853717876/manifest.json` | `21fe317cf0e4b8b3d477c1a3db392bd3d2d04f5c2b199e708d8de1fea081cb30` | uncollected continuation | public-current; prior state not locked | uncollected after V37 | 17 pages; shared recap lead-in then main narrative; PR |
+| 2550912965853717882 | [第251話] | 204撃目 | 2025-06-18T15:00:00Z | 2026-09-16 | `episodes/2550912965853717882/manifest.json` | `35347773b4d74cca6b66ea31f749c93283e9f5e6a0735ceadd2bbaf8f9d0b337` | uncollected continuation | public-current; prior state not locked | uncollected after V37 | 16 pages; shared recap lead-in then main narrative; PR |
+| 2550912965853717886 | [第252話] | 205撃目 | 2025-06-18T15:00:00Z | 2026-09-16 | `episodes/2550912965853717886/manifest.json` | `2a28d9e96016a9ab76c56be4fd6cc28c9be1299d61e8efe02d0f85a73c59ec7e` | uncollected continuation | public-current; prior state not locked | uncollected after V37 | 16 pages; shared recap lead-in then main narrative; PR |
+| 2550912965853717895 | [第253話] | 206撃目 | 2025-06-18T15:00:00Z | 2026-09-16 | `episodes/2550912965853717895/manifest.json` | `e6c014d20443d06212152c9f9c2f92a5a53d7ea954d990613db86c1ff1e7f2fe` | uncollected continuation | public-current; prior state not locked | uncollected after V37 | 17 pages; shared recap lead-in then main narrative; PR |
+| 2550912965853717899 | [第254話] | 207撃目 | 2025-06-18T15:00:00Z | 2026-09-16 | `episodes/2550912965853717899/manifest.json` | `4fbe0a169308953e58d0545200dd5094b0411d0651d07b1f9301f5850e18fbf4` | uncollected continuation | public-current; prior state not locked | uncollected after V37 | 7 pages; shared recap lead-in then main narrative; PR |
+| 2550912965980708742 | [第255話] | 208撃目 | 2025-07-16T15:00:00Z | 2026-09-16 | `episodes/2550912965980708742/manifest.json` | `a63ac69d656b0f905a693dce0aa9fb2a008b2a7f2c413309e65b72b60e8e9608` | uncollected continuation | public-current; prior state not locked | uncollected after V37 | 17 pages; PR |
+| 2550912966040594627 | [第256話] | 209撃目 | 2025-07-30T15:00:00Z | 2026-09-16 | `episodes/2550912966040594627/manifest.json` | `43005ab424f29d42734b50f392ff9e89cd71e2de149020c19d7a064be6fedb1a` | uncollected continuation | public-current; prior state not locked | uncollected after V37 | 17 pages; PR |
+| 2550912966094393927 | [第257話] | 210撃目 | 2025-08-13T15:00:00Z | 2026-09-16 | `episodes/2550912966094393927/manifest.json` | `46ebf5d8c8f39b70263636cfd6c9937799e3ee7ab65ce70fe26d1a0563be3bd2` | uncollected continuation | public-current; prior state not locked | uncollected after V37 | 17 pages; PR |
+| 2551460909509845437 | [第258話] | 211撃目 | 2025-08-27T15:00:00Z | 2026-09-16 | `episodes/2551460909509845437/manifest.json` | `849ee304f730099be599296c6b301bda5e640cee8a18b01cec53aa007e17a9a7` | uncollected continuation | public-current; prior state not locked | uncollected after V37 | 15 pages; PR |
+| 2551460909568310718 | [第259話] | 212撃目 | 2025-09-10T15:00:00Z | 2026-09-16 | `episodes/2551460909568310718/manifest.json` | `e1ded2767c9573c09e4a63e18ff58c84ff4efaaf0762444283089956415d1b57` | uncollected continuation | public-current; prior state not locked | uncollected after V37 | 17 pages; PR |
+| 2551460909626059092 | [第260話] | 213撃目 | 2025-09-24T15:00:00Z | 2026-09-16 | `episodes/2551460909626059092/manifest.json` | `c5f0d9b51a928321f854cf50c58e95f525829bdeae988e8378c8deae0a260f3e` | uncollected continuation | public-current; prior state not locked | uncollected after V37 | 21 pages; PR |
+| 2551460909680169234 | [第261話] | 214撃目 | 2025-10-08T15:00:00Z | 2026-09-16 | `episodes/2551460909680169234/manifest.json` | `51d5a01d8e2ca9514634fe8042f197e70ca4bb4b4280e4ebd9cca9a334c56921` | uncollected continuation | public-current; prior state not locked | uncollected after V37 | 18 pages; PR |
+| 2551460909729791906 | [第262話] | 215撃目 | 2025-10-22T15:00:00Z | 2026-09-16 | `episodes/2551460909729791906/manifest.json` | `9a801ee586e56ccf569046f0d3c90b8929b745b9720a3cf5e587080a64052010` | uncollected continuation | public-current; prior state not locked | uncollected after V37 | 21 pages; PR |
+| 2551460909784610390 | [第263話] | 216撃目 | 2025-11-05T15:00:00Z | 2026-09-16 | `episodes/2551460909784610390/manifest.json` | `96b9a3a892a70081f0b751ce609fc44269cb6549d96a591b3738c536558e6070` | uncollected continuation | public-current; prior state not locked | uncollected after V37 | 21 pages; PR |
+| 2551460909833781502 | [第264話] | 217撃目 | 2025-11-19T15:00:00Z | 2026-09-16 | `episodes/2551460909833781502/manifest.json` | `999da41613efb1bad6ed07483378f7661cbb2ffa92ca69b5174a1f507e8a0e25` | uncollected continuation | public-current; prior state not locked | uncollected after V37 | 14 pages; PR |
+| 2551460909889117066 | [第265話] | 218撃目 | 2025-12-03T15:00:00Z | 2026-09-16 | `episodes/2551460909889117066/manifest.json` | `6ef8c59b996117dd6b154ebe7dc954a7f94cf63da73224c9b69ef89d1a97432f` | uncollected continuation | public-current; prior state not locked | uncollected after V37 | 20 pages; PR |
+| 2551460909940033541 | [第266話] | 219撃目 | 2025-12-17T15:00:00Z | 2026-09-16 | `episodes/2551460909940033541/manifest.json` | `b09b186252d879c118fa02fddc4d1b580e9af1d745eb3c7d02a6434fef72adf5` | uncollected continuation | public-current; prior state not locked | uncollected after V37 | 17 pages; PR |
+| 2551460910038164617 | [第267話] | 220撃目 | 2026-01-14T15:00:00Z | 2026-09-16 | `episodes/2551460910038164617/manifest.json` | `8446a601c206978247953ebb989a2c7d7f2f82bd91a180a98e2f9fd3f08afa7f` | uncollected continuation | public-current; prior state not locked | uncollected after V37 | 16 pages; PR |
+| 12207421983319377393 | [第268話] | 221撃目 | 2026-01-28T15:00:00Z | 2026-09-16 | `episodes/12207421983319377393/manifest.json` | `92e1a80715369e7219562c8a83e00101b1446eff806ac08c5308efc6b1846eee` | uncollected continuation | public-current; prior state not locked | uncollected after V37 | 19 pages; PR |
+| 12207421983430409833 | [第269話] | 222撃目 | 2026-02-25T15:00:00Z | 2026-09-16 | `episodes/12207421983430409833/manifest.json` | `9b566a44fae60baa939b2edd09760b5cff3dc8ddd22a929b8ffb90b7bcc5b5e7` | uncollected continuation | public-current; prior state not locked | uncollected after V37 | 30 pages; PR |
+| 12207421983430409842 | [第270話] | 223撃目 | 2026-02-25T15:00:00Z | 2026-09-16 | `episodes/12207421983430409842/manifest.json` | `76ee4559ef4fed6f62ed6b5a795deb2f32a8c2b0b14f5d919b6ca4b29df5631b` | uncollected continuation | public-current; prior state not locked | uncollected after V37 | 16 pages; PR |
+| 12207421983477981001 | [第271話] | 224撃目 | 2026-03-11T15:00:00Z | 2026-09-16 | `episodes/12207421983477981001/manifest.json` | `3228a36bbe40e536a41e3219a1fda4ef1970e4948eadbd21d06b8a6c2b76cd10` | uncollected continuation | public-current; prior state not locked | uncollected after V37 | 20 pages; PR |
+| 12207421983530467658 | [第272話] | 225撃目 | 2026-03-25T15:00:00Z | 2026-09-16 | `episodes/12207421983530467658/manifest.json` | `ecb1fd935db0623362ee0080777d854bf995fc50da63260e926a161d1212b5c1` | uncollected continuation | public-current; prior state not locked | uncollected after V37 | 17 pages; PR |
+| 12207421983582011020 | [第273話] | 226撃目 | 2026-04-08T15:00:00Z | 2026-09-16 | `episodes/12207421983582011020/manifest.json` | `4422b5e0d522d61058271a7f44629b83374a6d211f3cd0aad403afb423af56f4` | uncollected continuation | public-current; prior state not locked | uncollected after V37 | 15 pages; PR |
+| 12207421983638405950 | [第274話] | 227撃目 | 2026-04-22T15:00:00Z | 2026-09-16 | `episodes/12207421983638405950/manifest.json` | `95913213e223187798bd1f440c21e33947946887bce3145d529bac5127823df7` | uncollected continuation | public-current; prior state not locked | uncollected after V37 | 16 pages; PR |
+| 12207421983661137049 | [第275話] | 228撃目 | 2026-05-06T15:00:00Z | 2026-09-16 | `episodes/12207421983661137049/manifest.json` | `f6a322a3ad1bc17badc859b43c8698d4cb949d62fa6ee9a761d08829e4548cdd` | uncollected continuation | public-current; prior state not locked | uncollected after V37 | 17 pages; PR |
+| 12207421983746616006 | [第276話] | 229撃目 | 2026-05-20T15:00:00Z | 2026-09-16 | `episodes/12207421983746616006/manifest.json` | `000a124b624b252cb8d7713654ee8f3921776ee6848dfd33ab5a6b33d7ec6963` | uncollected continuation | public-current; prior state not locked | uncollected after V37 | 18 pages; PR |
+| 12207421983782428034 | [第277話] | 230撃目 | 2026-06-03T15:00:00Z | 2026-09-16 | `episodes/12207421983782428034/manifest.json` | `7ece9f1d2de3843a391aa224f9d1c12b5aec1cc75629057626bc65838f1fb844` | uncollected continuation | public-current; prior state not locked | uncollected after V37 | 17 pages; PR |
+| 12207421983858673174 | [第278話] | 231撃目 | 2026-06-17T15:00:00Z | 2026-09-16 | `episodes/12207421983858673174/manifest.json` | `eadbe9365fac072c63f5c56e26007ccf840ba9b9d62c184f65cd41a3d5c0f63b` | uncollected continuation | public-current; prior state not locked | uncollected after V37 | 15 pages; PR |
+| 12207421983914398381 | [第279話] | 232撃目 | 2026-07-01T15:00:00Z | 2026-09-16 | `episodes/12207421983914398381/manifest.json` | `007a1dce43b6a9cec13b8d5802b41f08005f7da4c593fdd6bcd5e9de2bbb45d3` | uncollected continuation | public-current; prior state not locked | uncollected after V37 | 15 pages; PR |
+| 12207421983970095493 | [第280話] | 233撃目 | 2026-07-15T15:00:00Z | 2026-09-16 | `episodes/12207421983970095493/manifest.json` | `4da2e59660fe93f43c437c34b034894e9a19bc0e1fdb6f8c21025d900508635c` | uncollected continuation | public-current; prior state not locked | uncollected after V37 | 17 pages; PR |
+| 12207421984027809074 | [第281話] | 234撃目 | 2026-07-29T15:00:00Z | 2026-09-16 | `episodes/12207421984027809074/manifest.json` | `65c942f85d9b282af63ebaaf3e24724150a7791645502c45ae9ece1eb65eb0f7` | uncollected continuation | public-current; prior state not locked | uncollected after V37 | 17 pages; PR |
+| 12207421984090138482 | [第282話] | 235撃目 | 2026-08-12T15:00:00Z | 2026-09-16 | `episodes/12207421984090138482/manifest.json` | `dd545a8c328e51a3b39b4f157749cd169038ed79c011c5b2fcb80bf35aad40ff` | uncollected continuation | public-current; byte-identical 2026-09-12→2026-09-16 | uncollected after V37 | 24 pages; PR |
+| 12207421984148777688 | [第283話] | 236撃目 | 2026-08-26T15:00:00Z | 2026-09-16 | `episodes/12207421984148777688/manifest.json` | `3a2b69d5c76254c56e77d326cd5e93193d45cb52539afdd4092aa6e0656f7d39` | uncollected continuation | public-current; byte-identical 2026-09-12→2026-09-16 | uncollected after V37 | 17 pages; PR |
+| 12207421984214112687 | [第284話] | 237撃目 | 2026-09-09T15:00:00Z | 2026-09-16 | `episodes/12207421984214112687/manifest.json` | `51fb45da2e979840484ebfbb345fcc1a0dcd05ef504e4829e83204105fafbd1c` | uncollected continuation | public-current; byte-identical 2026-09-12→2026-09-16 | uncollected after V37 | 17 pages; PR |
+
+## Collected-overlap exceptions
+
+- V37 image 0140 is a collected-only coda between the web-232 and web-233 sequences.
+- V37 image 0170 is a collected-only coda between the web-233 and web-234 sequences.
+- Web 234 page 1 and V37 image 0171 use the same central title illustration for 「試し斬り」, but crop and typography differ. The remaining 30 pages satisfy strict best-match sequence checks.
+- The direct verification receipt is `_staging/verification/WEB_V37_overlap_verification.json`.
+
+## Revision limits
+
+The snapshot proves the public state on 2026-09-16, not the absence of earlier redraws. Web 282-284 alone have an independent earlier local state: all page hashes and ordered-content hashes are unchanged from the 2026-09-12 preservation pilot. Other web 232-281 objects are marked public-current with historical replacement state unknown unless a later archive supplies the missing comparison.
 
 ## Rule
 
-Never infer tankobon chapter numbering by arithmetic from a web update identifier. Replaced/redrawn web material remains revision evidence, not stable collected authority.
+Never infer tankobon chapter numbering by arithmetic from a web update identifier. Replaced or redrawn web material remains revision evidence, not stable collected authority. Reconcile each future tankobon directly, preserve superseded current-release notes historically, and route every still-uncollected claim as `active_provisional` / PR.

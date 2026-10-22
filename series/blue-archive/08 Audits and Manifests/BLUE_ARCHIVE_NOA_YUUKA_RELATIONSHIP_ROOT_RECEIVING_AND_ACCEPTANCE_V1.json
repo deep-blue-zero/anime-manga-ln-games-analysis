@@ -1,0 +1,138 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_SPECIALIST_ROOT_RECEIVING_AND_ACCEPTANCE_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE",
+  "subject": "Noa–Yuuka",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_NOA_YUUKA_RELATIONSHIP_SYNTHESIS.md",
+  "canonical_adoption_boundary": "This candidate takes effect only after ROOT verifies and installs all declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The exact original is immutable; pending, C-only, historical 353/26 or publication states below describe its original custody event. Current required scope is355/29. They are not current adoption states.",
+  "original_exact_tuple": {
+    "path": "ROOT_NOA_YUUKA_RELATIONSHIP_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+    "bytes": 4086,
+    "sha256": "7f34b92ebf509d452f717f0b04c63255d7d3a6f3f2300796eec3c65694690a06",
+    "git_blob_oid_of_actual_bytes": "b22ef11a046eeafc95ade4e61bc9cc2c3cd778bd",
+    "lines": 88
+  },
+  "public_reference_translation": "Repository paths are recoverable repository-relative routes; external/private/local witness labels preserve provenance only and do not serve files or admit new material. No original tuple is recomputed as a public derivative tuple.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "ROOT complete literary decision is preserved; mechanical full-byte transport and exactness are separately checked."
+  },
+  "historical_author_or_root_payload": {
+    "schema": "BLUE_ARCHIVE_NOA_YUUKA_RELATIONSHIP_ROOT_RECEIVING_AND_EXACT_VERIFICATION_V1",
+    "status": "PASS_WITH_LIMITS",
+    "checked_at": "2026-10-10T09:39:35.715852+00:00",
+    "required_home": {
+      "home_key": "P3-REL-NOA-YUUKA-PRIVACY-MEMORY-COMPANY",
+      "kind": "DIRECTED_RELATIONSHIP",
+      "recommended_allocation": "PROPOSED_REQUIRED_STANDALONE_PACKAGE",
+      "source_responsibility_refs": [
+        "P3-XMI-R005"
+      ],
+      "literary_rationale": [
+        "Full E842 contrary cases; privacy support and pressured disclosure coexist"
+      ],
+      "ROOT_adoption": "ACCEPTED_REQUIRED_SCOPE_WITH_LIMITS",
+      "counts_as_completed": false,
+      "proposed_denominator_entry": true
+    },
+    "candidate": {
+      "working_artifact_relative_path": "ROOT_DIRECTED_RELATIONSHIP_MONOGRAPHS/BLUE_ARCHIVE_NOA_YUUKA_RELATIONSHIP_SYNTHESIS.md",
+      "byte_count": 31039,
+      "line_count": 163,
+      "sha256": "c2e712c38ad115e9bcc6104207caba6c5b3f635713d4fd0c28fb0adcac30e73f",
+      "actual_byte_blob_oid": "7ab2dbc371e9d1fd273bd4be91e321862fa73590"
+    },
+    "source_and_saved_output_receipt": {
+      "working_artifact_relative_path": "ROOT_DIRECTED_RELATIONSHIP_MONOGRAPHS/NOA_YUUKA_RELATIONSHIP_SOURCE_AND_SAVED_OUTPUT_RECEIPT_V1.json",
+      "byte_count": 53993,
+      "line_count": 615,
+      "sha256": "b685e5898e0fca82f5b2d78ba5531d0aaf3d6932eaa1a9284f97058c55758ca0",
+      "actual_byte_blob_oid": "16c0a5fa56c71e2987d60c05c03dcec3bcbd65b7"
+    },
+    "independent_review": {
+      "path": "INDEPENDENT_NOA_YUUKA_RELATIONSHIP_REVIEW_V1/INDEPENDENT_NOA_YUUKA_SOURCE_CLAIM_AND_EXACT_REVIEW_V1.json",
+      "bytes": 36907,
+      "sha256": "552309cc10b5da56ec89d50e321c831f37aa14dd7b52323a8e9c253986b7419c",
+      "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS"
+    },
+    "ROOT_meaning_receiving": {
+      "complete_final_body": [
+        "0f02da1–80",
+        "97671481–163EOF"
+      ],
+      "five_final_changed_paragraphs": "f51c36",
+      "complete_independent_literary_review": "748226 whole73linesEOF",
+      "all_independent_structured_fields": [
+        "c3d1d3",
+        "bd15c2",
+        "1930ab",
+        "14e89f",
+        "259326",
+        "96ba67",
+        "eb6dd9"
+      ],
+      "author_freeze": "bf4d85",
+      "meaning": "Valued ordinary company, poems, games, gifts and actual help remain intrinsic; their value makes qualified unoffered warnings and costly public disclosure consequential. Both directed agencies, reader/actor knowledge, report/plan/enactment, local gratitude/apologies, favorable hedged financial coda and unfinished repair remain distinct. Public competence and distributed safety reasoning do not complete private consent or institutional accountability."
+    },
+    "exact_checks": {
+      "source_inputs": 8,
+      "saved_nonempty_text_and_hash_joins": 98,
+      "independent_claim_saved_line_hash_joins": 63,
+      "distinct_claim_routes": 16,
+      "all_fourteen_literal_gaps": "OPEN",
+      "existing_required_home_equal": true,
+      "five_current_canonical_links": "EXIST_AFTER_FIFTEEN_INSTALLATION",
+      "frozen_V6_seals": "UNCHANGED"
+    },
+    "historical_Yuuka_scope": "The independently reviewed whole341-line tuple binds the exact published7489 beforeimage. The installed V6 successor contains only the separately ROOTaccepted GROUP3102 sentence correction, already correctly represented and qualified in this relationship body. Historical tuple is not mislabelled current after installation.",
+    "progress": {
+      "required_packages": 355,
+      "mandatory_named_sections": 29,
+      "previous_ROOTaccepted_packages": 36,
+      "new_ROOTaccepted_directed_relationship_packages": 1,
+      "total_ROOTaccepted_packages": 37,
+      "canonical_persistence": "PENDING_NEXT_EXACT_ADOPTION",
+      "publication": "PENDING",
+      "quarter_reached": false
+    },
+    "limits": {
+      "all14_gaps": "OPEN_UNCHANGED",
+      "new_primary_raw_or_performance_credit": 0,
+      "scope_or_denominator_change": false,
+      "models_or_predictions": 0,
+      "nine_unbound_large": "UNREAD_UNHASHED",
+      "source_producers": "ATTRIBUTED; DISTINCT_CURRENT_REVIEW_IS_NOT_INDEPENDENCE_CERTIFICATION_OF_HISTORICAL_PRIMARY"
+    },
+    "R_mutation": "NONE_IN_THIS_ADJUDICATION"
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+  "current_required_home": "P3-REL-NOA-YUUKA-PRIVACY-MEMORY-COMPANY",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_NOA_YUUKA_RELATIONSHIP_SYNTHESIS.md",
+    "bytes": 32297,
+    "sha256": "e514031fd9c22aa28209107c435f402235215e33b8840978fe514fb6d6616fd7",
+    "git_blob_oid_of_actual_bytes": "4228b559bcb30755ac582e2071cc604203168ef4"
+  },
+  "precise_derivative_changes": [
+    {
+      "old": "This draft adds no source admission, primary reading, performed voice, reconstruction model, or prediction. Its literary review and canonical adoption remain pending.",
+      "new": "This monograph adds no source admission, primary reading, performed voice, reconstruction model or prediction. ROOT accepted its complete literary argument with limits; canonical persistence follows the complete ROOT installation.",
+      "kind": "AUTHORITY_FRAMING_ONLY"
+    },
+    {
+      "old": "Exact input and saved-output bindings accompany the draft;",
+      "new": "Exact input and saved-output bindings accompany the frozen author draft and this canonical derivative;",
+      "kind": "AUTHORITY_FRAMING_ONLY"
+    },
+    {
+      "old": "This package supplies a complete bounded relationship argument for the named home, subject to independent receiving and ROOT acceptance.",
+      "new": "ROOT independently received and accepted this complete bounded relationship argument for the named home with limits.",
+      "kind": "AUTHORITY_FRAMING_ONLY"
+    }
+  ]
+}

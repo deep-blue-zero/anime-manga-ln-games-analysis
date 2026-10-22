@@ -1,0 +1,21 @@
+{
+  "state": "INITIAL_FULL90_ASSESSMENT_SEALED_BEFORE_SHARED_SELF_QA",
+  "actual_sealed_utc": "2026-10-17T14:54:26.170832+00:00",
+  "manifest": {
+    "path": "/workspace/scratch/konosuba/reconstruction-first90-assessment-v1/INITIAL_FULL90_ASSESSMENT_MANIFEST.json",
+    "bytes": 7205,
+    "sha256": "a0f58c59f5f6a04d00ee466e059e9da0429e99c3dfc2fedbaafec6ee8f90c00e"
+  },
+  "report": {
+    "path": "/workspace/scratch/konosuba/reconstruction-first90-assessment-v1/INITIAL_FULL90_EXTERNAL_RECEIVING_REPORT.md",
+    "bytes": 19593,
+    "sha256": "9fdb8d683161073ebcbd5c6f6a62dd4bc5553bab618a9143bc1e7c7013b87951"
+  },
+  "matrix": {
+    "path": "/workspace/scratch/konosuba/reconstruction-first90-assessment-v1/INITIAL_ALL45_CASES_90_RESPONSES_RECEIVING_MATRIX.md",
+    "bytes": 12775,
+    "sha256": "0d16d2677aea65a4b396f0e42ae51f650b659c5a4268c0f899965159e657bd5c"
+  },
+  "remaining_step": "Only after this seal may shared self-QA/root/peer reports be received; any changed judgment will be externally attributed, preserving this initial assessment.",
+  "no_final_model_suite_freeze_or_publication_acceptance": true
+}

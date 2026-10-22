@@ -4,16 +4,16 @@ artifact_id: T7S_CURRENT_STATE_AND_CORPUS_MAP
 artifact_type: current_state_and_corpus_map
 series: Tokyo 7th Sisters
 generation: V1
-version: "10.0"
+version: "12.94"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
-source_boundary: "c20260909-r484; exact 235-primary-document horizon completing all eleven admitted 2034 native Main families through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 87 attached inline movie-transcript occurrences across 86 unique source documents / all eleven authored choice branches; no unconsumed non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete 235-document 2034 Main horizon plus first 280 non-Main i-n-g episodes / T7S_B0080–T7S_B0181 are reconstructed and integrated; remaining 2034 non-Main stays routed; 2053 and crossover semantics remain gated; Intimacy current aggregate 60 primary documents/7 family portfolios through T7S_B0188"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-09-13
+last_updated: 2026-10-14
 project_initialization:
   status: canonical
   architecture_lifecycle: EVOLVING
@@ -28,7 +28,9 @@ project_initialization:
     - "00 Frameworks and Methods/T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md"
     - "01 Sources and Chronology/T7S_SOURCE_LOCK.json"
     - "01 Sources and Chronology/T7S_TOPOLOGY_AND_CHRONOLOGY.md"
+    - "01 Sources and Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json"
     - "01 Sources and Chronology/T7S_COVERAGE_AND_ROUTING.jsonl"
+    - "01 Sources and Chronology/T7S_COVERAGE_AND_ROUTING_ROUTED.jsonl"
     - "03 Longitudinal Ledgers/T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md"
     - "03 Longitudinal Ledgers/T7S_ENTITY_STATE_LEDGER.md"
     - "03 Longitudinal Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md"
@@ -36,17 +38,25 @@ project_initialization:
     - "09 Audits and Manifests/T7S_OPENING_PREREQUISITE_AUDIT.md"
   sequential_analysis_lock: open
 substantive_findings_at_bootstrap: false
-execution_scope: next_major_story_unit_complete
+execution_scope: continuous_sequential_remaining_2034_to_era_release
 sequential_execution:
-  latest_operation: T7S_EPISODE_NANASUTA_CLOSE
-  status: COMPLETED
-  authorized_continuation: "Complete native Main EPISODE NANASUTA / family 200120 after the EPISODE 6.0 close"
-  episode_ids: ["1013100101", "1013100102", "1013100103", "1013100104", "1013100105", "1013100201", "1013100202", "1013100203", "1013100204", "1013100205", "1013100206", "1013100301", "1013100302", "1013100303", "1013100304", "1013100305", "1013100306"]
-  script_ids: [ep2034_001_01.json__44fe713c41e7d31a, ep2034_001_02.json__e4b4ffcdfbd6e432, ep2034_001_03.json__af56b70570ddb055, ep2034_001_04.json__6d67767f172c03ac, ep2034_001_05.json__6ea6de08456eac86, ep2034_002_01.json__7392e3442e131d5d, ep2034_002_02.json__55de5acfb7188b02, ep2034_002_03.json__c37d13dd81379a7b, ep2034_002_04.json__673fa6e01f3dd04d, ep2034_002_05.json__db643a27865d4d98, ep2034_002_06.json__62c03830e327b9aa, ep2034_003_01.json__a0cd015d030307b4, ep2034_003_02.json__88e18d0c46092fc1, ep2034_003_03.json__1972f8d20f337e10, ep2034_003_04.json__03283170c87b3144, ep2034_003_05.json__1a88a2d92699fe2e, ep2034_003_06.json__7b60c33a07974b17]
-  committed_high_water: "native EPISODE NANASUTA family through episode 1013100306; combined admitted horizon 235 primary documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents"
-  next_candidate_episode_id: null
-  next_candidate_family_layer_id: null
-  next_candidate_status: NONE_WITHIN_ADMITTED_2034_MAIN
+  mode: continuous_sequential
+  latest_operation: T7S_B0188_CLOSE
+  status: ACTIVE
+  authorized_start: T7S_B0160
+  terminal_boundary: T7S_STACK_2034_ERA_RELEASE_COMPLETE
+  committed_high_water: T7S_B0188
+  completed_run_blocks: 22
+  completed_run_blocks_scope: B0160_B0181_COMPLETED_ING_CHECKPOINT
+  completed_intimacy_portfolios: 7
+  completed_intimacy_episodes: 60
+  remaining_run_blocks: NOT_FIXED_RELEASE_REQUIREMENTS_GOVERN
+  confirmation_between_units: false
+  execution_record: "09 Audits and Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md"
+  next_candidate_episode_id: "401000075"
+  next_candidate_family_layer_id: "200640"
+  next_candidate_native_chapter_layer_id: ""
+  next_candidate_status: "AUTHORIZED_B0189_NM-INTIMACY-200640_COMPLETE_FAMILY_UNREAD; full2034 active"
 major_story_structures:
   T7S_STACK_2034:
     native_main_group: "2034年"
@@ -55,8 +65,9 @@ major_story_structures:
     native_main_families_total: 11
     closed_main_families: 11
     remaining_main_family_layer_ids: []
-    current_semantic_horizon: "through complete EPISODE NANASUTA / T7S_B0079"
-    eligible_non_main_closeout: NOT_STARTED
+    current_semantic_horizon: "complete Main, 280 i-n-g throughB0181 and 60 independent Intimacy primary documents across7 complete family portfolios throughT7S_B0188"
+    eligible_non_main_closeout: ROUTING_AUDIT_COMPLETE
+    non_main_portfolio_status: IN_PROGRESS
     declared_character_release: NOT_STARTED
     era_narrative_reconstruction: NOT_CREATED
     era_literary_synthesis: NOT_CREATED
@@ -73,7 +84,11 @@ major_story_structures:
 
 # Tokyo 7th Sisters — current state and corpus map
 
-**The opening-prerequisite audit remains satisfied, `SEQUENTIAL_ANALYSIS_LOCK = OPEN`, and complete native Main EPISODE NANASUTA is the latest recoverable analytical checkpoint after EPISODE 6.0 FINAL.** T7S_B0077–T7S_B0079 close all seventeen primary documents and no inline transcript in family `200120`. Recommendation ranks 219–235 and source indexes 1239–1255 converge for this unit; the prior `611100101`/rank-179 route was corrected because that episode is already-consumed EPISODE 3.0. This is the sole current entrypoint for `series/tokyo-7th-sisters/`. All eleven admitted 2034 Main families are now closed, but the 2034 stack remains `IN_PROGRESS` pending its non-Main eligibility, declared character/multimodal, promoted longitudinal, era reconstruction, literary synthesis, and completion-audit responsibilities. Every 2053 semantic operation remains blocked. Repository-primary effectiveness follows the governed integration process; a successful branch audit is not a merge.
+**Continuous analysis is authorized through the complete 2034 era release.** The [completion execution record](09%20Audits%20and%20Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md) binds all remaining obligations. [B0188](02%20Readings/T7S_B0188_DEEP_READING.md) is the current closed portfolio: Hime's complete nine-occurrence Intimacy portfolio connects offered care, desired company, a chance to thank, chosen appearance and maternal memory. Gruff speech/cuteness and receiving/giving care coexist; gift denials, felt maternal response, role self-check and future offers retain their access limits. All41Japanese/50native/11projection lines, one individual portrait and four original backgrounds actually reviewed; no performed audio/runtime. Proposed source-lock12.94 preserves Main235/ING280, adds9Intimacy documents (60 across7portfolios), total575primary/662consumed including87attachments;289Intimacy/634eligible stories and all supplemental/full2034 responsibilities remain,2053blocked. The completed B0160–B0181 i-n-g checkpoint retains22chapters/66primary episodes; later Intimacy progress is 7 portfolios/60 primary documents. The next authorized unread portfolio is B0189, 二川ミミ, route `NM-INTIMACY-200640` / native Sub family `200640`, 7 complete Intimacy occurrences. Metadata order is routing only; no fictional chronology or primary consumption is inferred. The previous B0100–B0159 publication completed its exact-source audit, housekeeping and final integration audit at `e9644c298f744206cd015cf23ecc5347d10183f9`; its frozen [run record](09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) and [completion audit](09%20Audits%20and%20Manifests/T7S_B0100_B0159_COMPLETION_AUDIT.md) retain their historical boundaries. Performed audio remains unauditioned; the 2034 release is incomplete and every 2053 semantic operation remains blocked.
+
+The entity ledger has a manifest-bound physical representation: its original address routes all ordered payload components and retains aggregate metadata. Read the complete bound logical view before interpreting or editing state. All983,530 transferred payload bytes, prior IDs/horizons/history and120 heading routes are preserved. At the metadata-only source-lock12.80 entity-storage cutover, B0175 was analytical high-water and B0176/chapter301480 was still unconsumed. Those historical receipt boundaries are unchanged; the current analytical high-water is B0177 and full2034 release obligations remain active. Storage preparation/application/publication are governed separately by the [transition record](09%20Audits%20and%20Manifests/T7S_ENTITY_STATE_STORAGE_TRANSITION_V1.md).
+
+Source-lock12.83 is a control-storage boundary at the unchanged B0177 horizon. Read the complete SourceLock JSON through its owner/manifest/three components and both complete coverage roles through their five physical components before capture, interpretation or another closeout. All115 older SourceLock integrity objects and1590 effective coverage records/defaults retain their bytes/values. The [control-storage record](09%20Audits%20and%20Manifests/T7S_CONTROL_STORAGE_TRANSITION_V1.md) governs this mapping and separate consumer/native/author/publication gates. Complete those gates before B0178 extraction; no source, character maturity, listening or2053 admission is added.
 
 ## Governing and cumulative homes
 
@@ -83,11 +98,15 @@ major_story_structures:
 | Responsibilities, promotion and completion | [T7S_SYNTHESIS_ARCHITECTURE.md](00%20Frameworks%20and%20Methods/T7S_SYNTHESIS_ARCHITECTURE.md) |
 | Conditional character reconstruction and R0–R5 | [T7S_CHARACTER_RECONSTRUCTION_PROTOCOL.md](00%20Frameworks%20and%20Methods/T7S_CHARACTER_RECONSTRUCTION_PROTOCOL.md) |
 | External evidence recovery and portable locators | [T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md](00%20Frameworks%20and%20Methods/T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md) |
-| Immutable witness/digest binding | [T7S_SOURCE_LOCK.json](01%20Sources%20and%20Chronology/T7S_SOURCE_LOCK.json) |
+| Immutable witness/digest binding | [SourceLock physical owner](01%20Sources%20and%20Chronology/T7S_SOURCE_LOCK.json) and [complete logical manifest/components](01%20Sources%20and%20Chronology/T7S_SOURCE_LOCK_MANIFEST.json), governed by the [control-storage record](09%20Audits%20and%20Manifests/T7S_CONTROL_STORAGE_TRANSITION_V1.md) |
 | Native topology, partial chronology and candidate order | [T7S_TOPOLOGY_AND_CHRONOLOGY.md](01%20Sources%20and%20Chronology/T7S_TOPOLOGY_AND_CHRONOLOGY.md) |
-| Exact inventory, consumption and routing | [T7S_COVERAGE_AND_ROUTING.jsonl](01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING.jsonl) |
+| Exact inventory, consumption and routing | [logical coverage-ledger manifest](01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json), binding three current-or-consumed and two routed-or-unconsumed components with complete role headers/defaults and1590 effective identities |
+| Passed 2034 non-Main eligibility gate | [T7S_2034_NON_MAIN_ELIGIBILITY_AND_ROUTING_AUDIT.md](09%20Audits%20and%20Manifests/T7S_2034_NON_MAIN_ELIGIBILITY_AND_ROUTING_AUDIT.md) |
+| Non-Main portfolio router | [T7S_2034_NON_MAIN_PORTFOLIO_INDEX.md](02%20Readings/T7S_2034_NON_MAIN_PORTFOLIO_INDEX.md) |
+| Closed first twenty i-n-g cases | [T7S_2034_NON_MAIN_PORTFOLIO_INDEX.md](02%20Readings/T7S_2034_NON_MAIN_PORTFOLIO_INDEX.md) |
+| First i-n-g tranche completion proof | [T7S_B0080_B0099_COMPLETION_AUDIT.md](09%20Audits%20and%20Manifests/T7S_B0080_B0099_COMPLETION_AUDIT.md) |
 | Causal events, world consequences and threads | [T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md](03%20Longitudinal%20Ledgers/T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md) |
-| Character/knowledge/directional relationship/unit state and readiness | [T7S_ENTITY_STATE_LEDGER.md](03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md) |
+| Character/knowledge/directional relationship/unit state and readiness | [entity owner](03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md) and [complete logical manifest/components](03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER_MANIFEST.json), governed by the [storage record](09%20Audits%20and%20Manifests/T7S_ENTITY_STATE_STORAGE_TRANSITION_V1.md) |
 | Claims, rivals, revisions and modality review | [T7S_CLAIM_AND_EVIDENCE_LEDGER.md](03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md) |
 | Opening deep reading | [T7S_B0001_DEEP_READING.md](02%20Readings/T7S_B0001_DEEP_READING.md) |
 | Haru chapter deep reading | [T7S_B0002_DEEP_READING.md](02%20Readings/T7S_B0002_DEEP_READING.md) |
@@ -222,14 +241,16 @@ Reader-facing Latin spelling follows first-party evidence: **Coney Rokusaki** in
 | Scope | Inventoried | Semantically screened | Factually reconstructed | Closely analyzed | Integrated state |
 | --- | ---: | ---: | ---: | ---: | ---: |
 | Main | 364 | 235 | 235 | 235 | 235 |
-| Sub | 755 | 0 | 0 | 0 | 0 |
-| Event | 231 | 0 | 0 | 0 | 0 |
-| Additional scripts / logical occurrences | 228 unique scripts | 86 / 87 | 86 / 87 | 86 / 87 | 86 / 87 |
-| Supplemental records | 30,991 | 0 | 0 | 0 | 0 |
+| Sub | 755 | 744 | 340 | 340 | 340 |
+| Event | 231 | 231 | 0 | 0 | 0 |
+| Additional scripts / logical occurrences | 228 unique scripts | 219 unique scripts | 86 / 87 | 86 / 87 | 86 / 87 |
+| Supplemental records | 30,991 | 26,844 | 0 | 0 | 0 |
 
-The consumed Main horizon contains complete EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA. Recommendation ranks 1–235 are now admitted without a hole. EPISODE 3.0's 42 qualified family-`200070` documents `{611100101–611100902, 611101001–611101704}` remain chapter-defined and are not duplicated: ranks 161–162 carry its first two records and ranks 179–218 carry its remaining forty. NANASUTA is the distinct family-`200120` range `1013100101–1013100306` at ranks 219–235. Eighty-seven additional inline movie-transcript occurrences are consumed only as attachments to their invoking AXiS, EPISODE 0.7, EPISODE 5.0, or EPISODE 6.0 pages; one Episode 6.0 source document is invoked in two contexts and the coverage ledger preserves both logical occurrences. All remaining Main lines plus all Sub/Event and remaining additional/supplemental frontiers remain `NOT_STARTED`.
+Screening counts are recomputed from the logical ledger, expanding shard-local defaults. The Sub screening count includes the one excluded crossover episode; only 743 Sub episodes belong to the eligible 2034 portfolio. Supplemental screening counts use active leaf tranches only and do not double-count the two inactive split parents. Screening/routing is not reconstruction or audiovisual review.
 
-Across B0001–B0079 the repository now contains 79 bounded deep readings, eleven compact unit narrative syntheses, eleven promoted arc deep readings, 318 causal events, twenty-five world states, forty-two threads, 298 typed edges, 81 bounded identity routes, 61 character states, 96 epistemic states, 218 directional relationship states, twenty-five unit/institution states, twenty-nine retained R2 readiness decisions, 474 literary claims, forty-two revisions, seven frozen predictions, and forty-five bounded AV-review records. Performed voice/music remains queued; the 33 AXiS runtime movies remain source-unresolved despite admitted transcripts, while all 22 recovered EPISODE 0.7, all ten recovered EPISODE 5.0, and all forty-one distinct bound EPISODE 6.0 movies received bounded still-frame review. NANASUTA invokes no movie and adds reviewed exact static composites/backgrounds. It creates no character model, monograph, relationship/unit synthesis, specialist synthesis, or full-series synthesis. Native 2034/2053 grouping, recommendation order, release chronology, diegetic time, and analytical family grouping stay separate.
+The consumed Main horizon contains complete EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA. Recommendation ranks 1–235 are now admitted without a hole. EPISODE 3.0's 42 qualified family-`200070` documents `{611100101–611100902, 611101001–611101704}` remain chapter-defined and are not duplicated: ranks 161–162 carry its first two records and ranks 179–218 carry its remaining forty. NANASUTA is the distinct family-`200120` range `1013100101–1013100306` at ranks 219–235. Eighty-seven additional inline movie-transcript occurrences are consumed only as attachments to their invoking AXiS, EPISODE 0.7, EPISODE 5.0, or EPISODE 6.0 pages; one Episode 6.0 source document is invoked in two contexts and the coverage ledger preserves both logical occurrences. The 280 T7S_B0080–T7S_B0181 Sub documents are also consumed; remaining eligible Sub/Event resources are screened/routed but not yet reconstructed, and supplemental integration remains incomplete.
+
+Across B0001–B0188 the repository contains 188 bounded readings, 1144 causal events, 25 world states, 47 threads, 1304 typed edges, 102 identity routes, 84 character states, 990 epistemic states, 1056 directional relationships, 29 unit/institution states,29 retained R2 readiness decisions, 1031 literary claims, 42 revisions, seven frozen predictions, and 135 AV-review records. The i-n-g horizon totals 280 primary episodes / 22,852 pages / 20,230 text records / 2,622 command-only pages / 15,392 dialogue-associated voice-reference pages. The Intimacy horizon totals 60 independent primary documents across 7 complete family portfolios. Total primary horizon 575; 289 Intimacy/634 eligible stories plus supplemental/analytical release work remain. Per-unit receipts bind exact source/native/static evidence and modality limits. No total chronology, performed-audio claim, monograph maturity or full era release is promoted.
 
 ## Major-story-structure transition state
 
@@ -293,7 +314,7 @@ The [seven EPISODE 6.0 readings](02%20Readings/T7S_B0070_DEEP_READING.md) follow
 
 The [three EPISODE NANASUTA readings](02%20Readings/T7S_B0077_DEEP_READING.md) follow Kyoko and Ferb through film-image strain and person-specific rehearsal; Sumire and Kazumi through privacy breach, mutual misreading, sexist television framing, and mismatch-compatible coordination; and Haru, Shirayuki, and a child fan through weather disruption, support, failed reception, disclosure, labor, and repair. Their [compact synthesis](07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_NANASUTA_NARRATIVE_SYNTHESIS.md) owns causal, character, knowledge, relationship, unit, and world-state closeout. The promoted [arc deep reading](07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_NANASUTA_ARC_DEEP_READING.md) independently reads the title triptych—hand offered, shoulder wetted, small umbrella—as a formal account of care that is partial, revisable, directional, and limited by reception. Rain repeatedly suspends a planned route so ordinary micro-infrastructure can become visible. Deleting the arc reading would erase the cross-chapter relation among specific attention, non-assimilative coordination, and failed-but-circulating care.
 
-There is **no authorized next story operation after this closeout** and no remaining candidate within the admitted series-`100020` 2034 Main recommendation range. The adjacent source-array record belongs to 2053 Roots., but physical source order is neither chronology nor authorization. A future 2034 release operation must address the still-open non-Main eligibility, character/multimodal, promoted longitudinal, era reconstruction, literary synthesis, and completion-audit obligations under a fresh bounded instruction. All remaining Main, Sub/Event, unconsumed additional, supplemental, and 2053 semantic sources remain outside the current story boundary. Metadata-only awareness is not story consumption.
+There is no remaining candidate within the admitted series-`100020`2034Main recommendation range. All280i-n-g/102chapters throughB0181 remain closed. Intimacy closure reaches 60 primary documents/7 family portfolios through T7S_B0188, leaving289 Intimacy/634eligible stories and supplemental/release work. The next authorized unread portfolio is B0189, 二川ミミ, route `NM-INTIMACY-200640` / native Sub family `200640`, 7 complete Intimacy occurrences. Metadata order is routing only; no fictional chronology or primary consumption is inferred.2053semantics remain blocked.
 
 EPISODE NANASUTA is the final closed Main family **inside the still-unfinished 2034 stack**, not a route toward immediate 2053 continuation. The complete 2034 release obligations above must be resolved before the era audit can make a 2053 prerequisite decision eligible. No request to “continue to the next major unit” may be interpreted as authority to cross into 2053 while its semantic-admission status remains blocked.
 
@@ -328,3 +349,191 @@ No optional artifact is created merely for symmetry. The architecture documents 
 - 2026-09-12 — V1 / 8.1: establish independent `T7S_STACK_2034` and `T7S_STACK_2053` transition state; keep 2034 in progress through EPISODE 6.0 FINAL, EPISODE NANASUTA, non-Main eligibility, declared mature character/multimodal and promoted-subject work, era narrative/literary synthesis, and completion audit; block every 2053 semantic operation until the audited 2034 era release makes a separate prerequisite audit eligible.
 - 2026-09-13 — V1 / 9.0: close all seven native Main EPISODE 6.0 FINAL primary documents and twenty-four attached inline movie-transcript occurrences as T7S_B0070–T7S_B0076; publish the compact synthesis and deletion-tested straight-line-to-network arc reading; reconcile source, coverage, causal, entity, claim, static/background, and bounded all-movie evidence; preserve performed-audio and safeguarding limits; and stop before the then-recorded NANASUTA route. V1 / 10.0 later corrects that route: `611100101` was already-consumed EPISODE 3.0, not NANASUTA.
 - 2026-09-13 — V1 / 10.0: correct the stale post-Episode-6 route without reconsuming EPISODE 3.0; close all seventeen native Main EPISODE NANASUTA documents as T7S_B0077–T7S_B0079; publish the compact synthesis and deletion-tested partial-care arc reading; reconcile source, coverage, causal, entity, claim, and static/background evidence; advance Kyoko, Ferb, and Kazumi to bounded reconstruction readiness; complete all eleven admitted 2034 Main families; retain every performed-audio and 2034-era-release obligation; and keep 2053 semantic admission blocked.
+- 2026-09-24 — V1 / 11.0: pass the complete 2034 non-Main eligibility and routing audit; admit 974 Sub/Event episodes to conservative portfolio homes; classify 133 2034-side additional resources, reconcile 86 Main attachments, split mixed supplemental parents into exact active children, preserve all 2053 and crossover boundaries, and authorize the non-Main portfolio phase without claiming reconstruction or AV review.
+- 2026-09-24 — V1 / 11.1: open T7S_B0080 on complete i-n-g layer `300520`; reconstruct all 78 Japanese text records across episodes `202001101`–`202001102`; preserve command/static presentation, performed-audio, closeout, and cumulative-integration obligations; and leave all later portfolio and 2053 scope unopened.
+- 2026-09-24 — V1 / 12.0: close T7S_B0080–T7S_B0099 as twenty complete i-n-g targeted cases; reconcile forty episode records, all 2,624 pages and 190 command-only states; review forty selected composites; integrate causal/entity/claim state; preserve performed-audio and total-chronology limits; and stop before metadata-only chapter `300720`.
+- 2026-09-24 — V1 / 12.1: preserve the complete 1,590-record coverage state as one manifest-bound logical ledger over disjoint current-or-consumed and routed-or-unconsumed shards; retain identical effective semantics while bringing each physical artifact below the repository review threshold.
+
+- 2026-09-25 — V1 / 12.2: close B0100 with 277 admitted primary documents total; activate the bounded 60-block run through B0159, preserve earlier historical receipts, and route unopened B0101. See its execution record for current ledger counts and verification.
+
+- 2026-09-25 — V1 / 12.3: close T7S_B0101, advance the run to 2/60 blocks and 4/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-25 — V1 / 12.4: close T7S_B0102, advance the run to 3/60 blocks and 6/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-25 — V1 / 12.5: close T7S_B0103, advance the run to 4/60 blocks and 8/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-25 — V1 / 12.6: close T7S_B0104, advance the run to 5/60 blocks and 10/174 episodes, preserve historical states except the documented B0102 Musubi ID repair, and route the next unconsumed boundary.
+
+- 2026-09-25 — V1 / 12.7: close T7S_B0105, advance the run to 6/60 blocks and 12/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-25 — V1 / 12.8: close T7S_B0106, advance the run to 7/60 blocks and 15/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-25 — V1 / 12.9: close T7S_B0107, advance the run to 8/60 blocks and 18/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.10: close T7S_B0108, advance the run to 9/60 blocks and 21/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.11: close T7S_B0109, advance the run to 10/60 blocks and 24/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.12: close T7S_B0110, advance the run to 11/60 blocks and 27/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.13: close T7S_B0111, advance the run to 12/60 blocks and 30/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.14: close T7S_B0112, advance the run to 13/60 blocks and 33/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.15: close T7S_B0113, advance the run to 14/60 blocks and 36/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.16: close T7S_B0114, advance the run to 15/60 blocks and 39/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.17: close T7S_B0115, advance the run to 16/60 blocks and 42/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.18: close T7S_B0116, advance the run to 17/60 blocks and 45/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.19: close T7S_B0117, advance the run to 18/60 blocks and 48/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.20: close T7S_B0118, advance the run to 19/60 blocks and 51/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.21: close T7S_B0119, advance the run to 20/60 blocks and 54/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.22: close T7S_B0120, advance the run to 21/60 blocks and 57/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.23: close T7S_B0121, advance the run to 22/60 blocks and 60/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.24: close T7S_B0122, advance the run to 23/60 blocks and 63/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.25: close T7S_B0123, advance the run to 24/60 blocks and 66/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.26: close T7S_B0124, advance the run to 25/60 blocks and 69/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.27: close T7S_B0125, advance the run to 26/60 blocks and 72/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.28: close T7S_B0126, advance the run to 27/60 blocks and 75/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.29: close T7S_B0127, advance the run to 28/60 blocks and 78/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.30: close T7S_B0128, advance the run to 29/60 blocks and 81/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.31: close T7S_B0129, advance the run to 30/60 blocks and 84/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.32: close T7S_B0130, advance the run to 31/60 blocks and 87/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.33: close T7S_B0131, advance the run to 32/60 blocks and 90/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.34: close T7S_B0132, advance the run to 33/60 blocks and 93/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.35: close T7S_B0133, advance the run to 34/60 blocks and 96/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.36: close T7S_B0134, advance the run to 35/60 blocks and 99/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.37: close T7S_B0135, advance the run to 36/60 blocks and 102/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.38: close T7S_B0136, advance the run to 37/60 blocks and 105/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.39: close T7S_B0137, advance the run to 38/60 blocks and 108/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.40: close T7S_B0138, advance the run to 39/60 blocks and 111/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.41: close T7S_B0139, advance the run to 40/60 blocks and 114/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.42: close T7S_B0140, advance the run to 41/60 blocks and 117/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.43: close T7S_B0141, advance the run to 42/60 blocks and 120/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.44: close T7S_B0142, advance the run to 43/60 blocks and 123/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.45: close T7S_B0143, advance the run to 44/60 blocks and 126/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.46: close T7S_B0144, advance the run to 45/60 blocks and 129/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.47: close T7S_B0145, advance the run to 46/60 blocks and 132/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.48: close T7S_B0146, advance the run to 47/60 blocks and 135/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.49: close T7S_B0147, advance the run to 48/60 blocks and 138/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.50: close T7S_B0148, advance the run to 49/60 blocks and 141/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.51: close T7S_B0149, advance the run to 50/60 blocks and 144/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.52: close T7S_B0150, advance the run to 51/60 blocks and 147/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.53: close T7S_B0151, advance the run to 52/60 blocks and 150/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.54: close T7S_B0152, advance the run to 53/60 blocks and 153/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.55: close T7S_B0153, advance the run to 54/60 blocks and 156/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.56: close T7S_B0154, advance the run to 55/60 blocks and 159/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.57: close T7S_B0155, advance the run to 56/60 blocks and 162/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.58: close T7S_B0156, advance the run to 57/60 blocks and 165/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.59: close T7S_B0157, advance the run to 58/60 blocks and 168/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.60: close T7S_B0158, advance the run to 59/60 blocks and 171/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.61: close T7S_B0159, advance the run to 60/60 blocks and 174/174 episodes, preserve historical states, and route the next unconsumed boundary.
+
+- 2026-09-26 — V1 / 12.62: close the sixty-block run locally, correct the B0157 Honoka subject token, mark chapter 301320 outside authorization, and bind the completion audit; remote publication remains pending.
+
+- 2026-10-11 — V1 / 12.64: close T7S_B0160; advance the remaining-2034 program to 1 source block / 3 episodes and i-n-g coverage to 217/280; retain the full era-release endpoint and route the next obligation.
+
+- 2026-10-11 — V1 / 12.65: close T7S_B0161; advance the remaining-2034 program to 2 source blocks / 6 episodes and i-n-g coverage to 220/280; retain the full era-release endpoint and route the next obligation.
+
+- 2026-10-11 — V1 / 12.66: close T7S_B0162; advance the remaining-2034 program to 3 source blocks / 9 episodes and i-n-g coverage to 223/280; retain the full era-release endpoint and route the next obligation.
+
+- 2026-10-11 — V1 / 12.67: close T7S_B0163; advance the remaining-2034 program to 4 source blocks / 12 episodes and i-n-g coverage to 226/280; retain the full era-release endpoint and route the next obligation.
+
+- 2026-10-11 — V1 / 12.68: close T7S_B0164; advance the remaining-2034 program to 5 source blocks / 15 episodes and i-n-g coverage to 229/280; retain the full era-release endpoint and route the next obligation.
+
+- 2026-10-11 — V1 / 12.69: close T7S_B0165; advance the remaining-2034 program to 6 source blocks / 18 episodes and i-n-g coverage to 232/280; retain the full era-release endpoint and route the next obligation.
+
+- 2026-10-11 — V1 / 12.70: close T7S_B0166; advance the remaining-2034 program to 7 source blocks / 21 episodes and i-n-g coverage to 235/280; retain the full era-release endpoint and route the next obligation.
+
+- 2026-10-11 — V1 / 12.71: close T7S_B0167; advance the remaining-2034 program to 8 source blocks / 24 episodes and i-n-g coverage to 238/280; retain the full era-release endpoint and route the next obligation.
+
+- 2026-10-11 — V1 / 12.72: close T7S_B0168; advance the remaining-2034 program to 9 source blocks / 27 episodes and i-n-g coverage to 241/280; retain the full era-release endpoint and route the next obligation.
+
+- 2026-10-12 — V1 / 12.73: close T7S_B0169; advance the remaining-2034 program to 10 source blocks / 30 episodes and i-n-g coverage to 244/280; retain the full era-release endpoint and route the next obligation.
+
+- 2026-10-12 — V1 / 12.74: close T7S_B0170; advance the remaining-2034 program to 11 source blocks / 33 episodes and i-n-g coverage to 247/280; retain the full era-release endpoint and route the next obligation.
+
+- 2026-10-12 — V1 / 12.75: close T7S_B0171; advance the remaining-2034 program to 12 source blocks / 36 episodes and i-n-g coverage to 250/280; retain the full era-release endpoint and route the next obligation.
+
+- 2026-10-12 — V1 / 12.76: close T7S_B0172; advance the remaining-2034 program to 13 source blocks / 39 episodes and i-n-g coverage to 253/280; retain the full era-release endpoint and route the next obligation.
+
+- 2026-10-13 — V1 / 12.77: close T7S_B0173; advance the remaining-2034 program to 14 source blocks / 42 episodes and i-n-g coverage to 256/280; retain the full era-release endpoint and route the next obligation.
+
+- 2026-10-13 — V1 / 12.78: close T7S_B0174; advance the remaining-2034 program to 15 source blocks / 45 episodes and i-n-g coverage to 259/280; retain the full era-release endpoint and route the next obligation.
+
+- 2026-10-13 — V1 / 12.79: close T7S_B0175; advance the remaining-2034 program to 16 source blocks / 48 episodes and i-n-g coverage to 262/280; retain the full era-release endpoint and route the next obligation.
+
+- 2026-10-13 — V1 /12.80: record entity storage V1 and complete-view routes; no source episode, analytical state, readiness/maturity or2053 gate changes.
+
+- 2026-10-13 — V1 / 12.81: close T7S_B0176; advance the remaining-2034 program to 17 source blocks / 51 episodes and i-n-g coverage to 265/280; retain the full era-release endpoint and route the next obligation.
+
+- 2026-10-13 — V1 / 12.82: close T7S_B0177; advance the remaining-2034 program to 18 source blocks / 54 episodes and i-n-g coverage to 268/280; retain the full era-release endpoint and route the next obligation.
+
+- 2026-10-14 — V1 / 12.83: preserve B0177 and every remaining2034 obligation while admitting only reviewed SourceLock/coverage physical representation; reframe the B0175 entity-storage statement as its historical cutover boundary.
+
+- 2026-10-14 — V1 / 12.84: close T7S_B0178; advance the remaining-2034 program to 19 source blocks / 57 episodes and i-n-g coverage to 271/280; retain the full era-release endpoint and route the next obligation.
+
+- 2026-10-14 — V1 / 12.85: close T7S_B0179; advance the remaining-2034 program to 20 source blocks / 60 episodes and i-n-g coverage to 274/280; retain the full era-release endpoint and route the next obligation.
+
+- 2026-10-14 — V1 / 12.86: close T7S_B0180; advance the remaining-2034 program to 21 source blocks / 63 episodes and i-n-g coverage to 277/280; retain the full era-release endpoint and route the next obligation.
+
+- 2026-10-14 — V1 / 12.87: close T7S_B0181; advance the remaining-2034 program to 22 source blocks / 66 episodes and i-n-g coverage to 280/280; retain the full era-release endpoint and route the next obligation.
+
+- 2026-10-14 — close B0182 seven-occurrence Sisara Intimacy portfolio; preserve the completed22/66 i-n-g checkpoint and all previous history; route unread B0183 and retain full2034 release requirements.
+
+- 2026-10-14: close T7S_B0183 complete Intimacy family; preserve all completed i-n-g/history and full2034 endpoint; route next obligation.
+
+- 2026-10-14: close T7S_B0184 complete Intimacy family; preserve all completed i-n-g/history and full2034 endpoint; route next obligation.
+
+- 2026-10-14: close T7S_B0185 complete Intimacy family; preserve all completed i-n-g/history and full2034 endpoint; route next obligation.
+
+- 2026-10-14: close T7S_B0186 complete Intimacy family; preserve all completed i-n-g/history and full2034 endpoint; route next obligation.
+
+- 2026-10-14: close T7S_B0187 complete Intimacy family; preserve all completed i-n-g/history and full2034 endpoint; route next obligation.
+
+- 2026-10-14: close T7S_B0188 complete Intimacy family; preserve all completed i-n-g/history and full2034 endpoint; route next obligation.

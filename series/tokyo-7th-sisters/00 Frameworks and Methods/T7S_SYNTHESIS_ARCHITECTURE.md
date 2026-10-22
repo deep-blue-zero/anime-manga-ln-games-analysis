@@ -4,16 +4,16 @@ artifact_id: T7S_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.5"
+version: "1.8"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
-source_boundary: "c20260909-r484; governing architecture applied through the exact T7S_B0001–T7S_B0079 horizon; no 2053 or other unadmitted story source"
+source_boundary: "c20260909-r484; governing architecture through closed T7S_B0177 and checked entity/source-lock/coverage physical representations; no new semantic source or2053 admission"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-09-13
+last_updated: 2026-10-14
 ---
 
 # Tokyo 7th Sisters synthesis architecture
@@ -212,7 +212,9 @@ series/tokyo-7th-sisters/
   01 Sources and Chronology/
     T7S_SOURCE_LOCK.json
     T7S_TOPOLOGY_AND_CHRONOLOGY.md
+    T7S_COVERAGE_AND_ROUTING_MANIFEST.json
     T7S_COVERAGE_AND_ROUTING.jsonl
+    T7S_COVERAGE_AND_ROUTING_ROUTED.jsonl
   [02 Readings/]
     [T7S_B0001_DEEP_READING.md]
   03 Longitudinal Ledgers/
@@ -273,11 +275,11 @@ Authority notation: **G** = governing/administrative, never literary evidence; *
 | B03 `T7S_SYNTHESIS_ARCHITECTURE.md` | `synthesis_architecture`; all analytical outputs | Ownership, dependencies, promotions including separate monograph maturity, closeout and completion | G; versioned current architecture | Mandatory; J–U |
 | B04 `T7S_CHARACTER_RECONSTRUCTION_PROTOCOL.md` | `character_reconstruction_protocol`; subject models | State interface, ordinary-life acquisition, readiness, fidelity and abstention | G; versioned current method | Mandatory; B02/B03 and L |
 | B05 `T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md` | `evidence_locator_protocol`; source bridge | Locator grammar, native/derived distinctions, query and hash checks | G; versioned current protocol | Mandatory; actual schema/probes in P |
-| B06 `T7S_SOURCE_LOCK.json` | `source_lock`; admitted witnesses/editions | Immutable source bindings and capabilities, portable corpus aliases | G; append new bindings; never retarget old versions | Mandatory; D/E and verified source/artifact hashes |
+| B06 `T7S_SOURCE_LOCK.json` plus its source-lock manifest and ordered components | One logical `source_lock`; admitted witnesses/editions | Immutable source bindings/capabilities and portable aliases; physical owner binds the complete logical JSON view | G; checked reassembly before use; append bindings/receipts while preserving older serialization | Mandatory; D/E, full native hashes and reviewed control-storage record |
 | B07 `T7S_TOPOLOGY_AND_CHRONOLOGY.md` | `source_topology_and_chronology`; families/spines | Native hierarchy, scoped era/release claims, dependencies and reading schedule | G metadata with typed sourced chronology assertions; mutable/revision history | Mandatory; B05/B06 and F |
-| B08 `T7S_COVERAGE_AND_ROUTING.jsonl` | `analytical_coverage_ledger`; exact source membership | Consumption/routing obligations and authoritative analytical homes | G operational; mutable decisions with revision provenance | Mandatory; B06/B07; source-ID seeds only at bootstrap |
+| B08 `T7S_COVERAGE_AND_ROUTING_MANIFEST.json` plus its five declared JSONL role components | `analytical_coverage_ledger_manifest` governing one logical `analytical_coverage_ledger`; exact source membership | Consumption/routing obligations and authoritative analytical homes; manifest-bound partition, hashes, and counts | G operational; mutable decisions with revision provenance; records move atomically between disjoint shards as their consumption state changes | Mandatory; B06/B07; source-ID seeds only at bootstrap |
 | B09 `T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md` | `story_causal_state_ledger`; all admitted story events | Event skeleton, world consequences, dependency and thread state | A after findings; append history/current revisions | Mandatory; B02/B03/B05–B07; zero findings initially |
-| B10 `T7S_ENTITY_STATE_LEDGER.md` | `entity_state_ledger`; characters, knowledge, relations, units | Typed current states/history, identity routing, reconstruction readiness, monograph maturity and separate capability coverage | A state plus G identity/readiness metadata; targeted mutable rows/history | Mandatory; B03–B07/B09; no invented initial psychology |
+| B10 `T7S_ENTITY_STATE_LEDGER.md` plus its entity-state manifest and ordered components | One logical `entity_state_ledger`; characters, knowledge, relations, units and readiness | Sole logical owner retains aggregate metadata/routing; delegated components own disjoint payload intervals under exact length/hash/order and whole-view binding | A state plus G identity/readiness metadata; preserve local horizons, stable history and one current copy | Mandatory; B03–B07/B09; reviewed lossless storage transition; no source or maturity promotion |
 | B11 `T7S_CLAIM_AND_EVIDENCE_LEDGER.md` | `claim_evidence_ledger`; claims/revisions/AV | Current claims, rivals, evidence and review queue | A; stable IDs, retained revisions | Mandatory; B02–B06; no interpretive findings initially |
 | B12 `T7S_BOOTSTRAP_AND_GATE_RECORD.md` | `project_initialization_record`; bootstrap generation | Base state, artifacts, checks, lock transition and source exposure | G; append verified observations, preserve prior gate history | Mandatory; all required bootstrap artifacts and X |
 | B13 `.repository/series-registry.json` | Repository series routing descriptor; this root | Register title/root/entrypoint and required initiation gate | G; mutable through governed routing process | Mandatory for real root; current schema, B01 and repository preflight |
@@ -435,3 +437,22 @@ The initialization lock and a major-story-structure transition gate answer diffe
 - 2026-09-12 — V1 / 1.3: recognize the native 2034 and 2053 Main groupings as independently completed major story structures; require a full 2034 narrative/literary, declared-character, multimodal, promoted-subject, and completion-audit release before any 2053 semantic admission; reserve era-level artifact homes; preserve metadata-only 2053 reconnaissance and later evidence-typed cross-era bridges without allowing future knowledge to rewrite the frozen 2034 horizon.
 - 2026-09-13 — V1 / 1.4: apply the unchanged governing architecture through the complete T7S_B0076 / EPISODE 6.0 horizon; preserve EPISODE NANASUTA as the sole unopened 2034 Main family and keep 2053 semantic admission blocked.
 - 2026-09-13 — V1 / 1.5: apply the unchanged governing architecture through complete T7S_B0079 / EPISODE NANASUTA; mark all eleven admitted 2034 Main families closed while preserving every remaining 2034 release responsibility and the 2053 semantic block.
+- 2026-09-24 — V1 / 1.6: apply the architecture through T7S_B0099 and represent B08 as one manifest-bound logical coverage ledger over disjoint current-or-consumed and routed-or-unconsumed shards, with lossless effective-state and atomic-migration requirements.
+
+## Entity-state physical representation V1
+
+The [storage record](../09%20Audits%20and%20Manifests/T7S_ENTITY_STATE_STORAGE_TRANSITION_V1.md) and [manifest](../03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER_MANIFEST.json) govern B10 after its original owner approached1MiB. Three components retain all983,530 payload bytes, old horizons and120 heading routes; the owner retains counts, instructions and routing. Physical storage transfers once, with no second current owner or analytical promotion. Reassemble the exact bound logical view before interpreting or changing state. Source-lock bindings and complete native/author/publication checks govern cutover; monolithic readers must not interpret the routing wrapper as the complete ledger. Source, coverage, story and claim ownership remain unchanged.
+
+- 2026-10-13 —1.7: specify one manifest-bound logical entity ledger and exact component ownership at B0175; preserve payload/IDs/horizons/history/links and the full2034 endpoint. No semantic source, model or maturity is added.
+
+## Source-lock and coverage physical representation V1
+
+The [control-storage record](../09%20Audits%20and%20Manifests/T7S_CONTROL_STORAGE_TRANSITION_V1.md) extends B06/B08 after B0177. The existing [SourceLock address](../01%20Sources%20and%20Chronology/T7S_SOURCE_LOCK.json) is a small typed physical owner, binding the exact [source-lock manifest](../01%20Sources%20and%20Chronology/T7S_SOURCE_LOCK_MANIFEST.json). Three ordered framed components carry the complete logical JSON, including every older immutable integrity object, edition/source binding and admitted horizon. The wrapper alone supplies no complete source state. Physical/payload lengths, hashes, order, path directness, logical JSON hash, owner/manifest version, source high-water and reviewed reader code must agree before use.
+
+The existing [coverage manifest](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json) still governs one logical ledger with current-or-consumed and routed-or-unconsumed roles. Each role is represented by ordered physical JSONL components: three current and two routed. Manifest-bound original logical role headers retain the exact inherited defaults and original role views; every physical META declares its own row count. All1590 effective identities,1578 scenario rows,12 supplemental-tranche rows, decision histories, nullable horizons and analytical routes remain intact. Source-unit changes move only reviewed records and update affected component/manifest responsibilities atomically.
+
+Source-lock12.83 records this administrative representation with B0177 high-water unchanged. It promotes no source, readiness or mature analysis. Physical files remain strictly below1MiB and each actual quoted native argument strictly below28000UTF16 units. A complete logical view may exceed a physical-file threshold; this grants no exception to any physical artifact or command. Future storage interval moves must be explicit, hash-bound and prove exact preservation of all unchanged logical bytes. A missing/changed part, duplicate owner/record, unsupported representation, unsafe path, mismatched header/default or incomplete consumer adaptation fails closed.
+
+Capture and verification consumers must distinguish physical owner/manifest/component fingerprints from complete logical SourceLock/coverage views. The prior entity representation and its frozen administrative receipt remain unchanged. Source/database/media bindings remain external and immutable. Architecture, control record and private proofs do not themselves certify native application, author preflight, publication, integration or performed listening; those gates remain separately evidenced.
+
+- 2026-10-14 —1.8: specify complete source-lock JSON component ownership and five physical coverage components at B0177, with exact logical reassembly/default/effective-state preservation. Keep the full2034 endpoint and2053 semantic block.

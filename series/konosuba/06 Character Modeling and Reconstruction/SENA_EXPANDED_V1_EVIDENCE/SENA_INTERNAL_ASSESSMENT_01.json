@@ -1,0 +1,89 @@
+{
+  "schema": "konosuba.secondary.informed-internal-assessment.v1",
+  "recorded_utc": "2026-10-20T17:10:35.174687+00:00",
+  "subject": "Sena",
+  "model_precedes_exact_inputs": true,
+  "exact_inputs_precede_actual_first_saved_bodies": true,
+  "authorship": "The same informed root author wrote the source synthesis/model, designed exact cases, authored all first bodies and now assesses them. Broad contrast and response ideas were anticipated before input seal. No external generation API, separate case designer, independent judge or native-human evaluator.",
+  "precase_freeze_sha256": "58df851fb0f8bdb76a58831643428dfbcb4e2bae36fbe8af4d241eeeea868ce0",
+  "exact_input_file": "SENA_SCENARIO_INPUTS_01.json",
+  "exact_input_file_sha256": "c9f97b78a2f7506544a9928d96b4a41f1f86d8c2b3ecc108aeee83b103569e17",
+  "actual_first_output_file": "SENA_FIRST_OUTPUTS_01.json",
+  "actual_first_output_file_sha256": "d94759ef1c9e4e2a71367b28b821f439733a22fba63b1e2ecf23377cc94ac83b",
+  "body_count": 4,
+  "regenerations": 0,
+  "repairs": 0,
+  "case_and_pair_assessment": {
+    "cases": [
+      {
+        "case_id": "SENA-H01-A",
+        "observed": "Challenges the contradicted never-met claim and asks about the fair; slides the supplied photograph. Does not state that photo proves code disclosure or finish the case.",
+        "limit": "S-R01 local proposition attention is compatible, but a generic investigator has the same obvious cue. Selective damaging testimony, sticky acting hypotheses and court interference are unprobed.",
+        "input_sha256": "3c7df75f123479072f9cfae3fd7a882d49e0da46891fe55801e9e8f2b416600e",
+        "actual_first_body_sha256": "9ae1d8116f529efc8c8aa65a38ba063a5f383efb8e002a97a343bae271f13215"
+      },
+      {
+        "case_id": "SENA-H01-B",
+        "observed": "Explicitly separates public contact from giving the code and asks about access; no verdict.",
+        "defect": "The action draws a line under a note about the fair, although the input supplies a blank notepad and no prior note-writing. This presupposes an unprovided entry. The body is retained unchanged.",
+        "limit": "Its clean distinction is strongly prompted and may be more calibrated than source behavior in harder settings; it does not independently validate Sena’s epistemic mechanism.",
+        "input_sha256": "250768c9182725859b45751150e8bd00b0e0c89e527e5d443288c46f8332de2f",
+        "actual_first_body_sha256": "b4960e126a82875fc854e1ca982168c46a5fe051c52e12d57b0a5fe19ac4a645"
+      },
+      {
+        "case_id": "SENA-H02-A",
+        "observed": "Acknowledges no agreement, asks for a shorter contribution and keeps the badge rather than handing it over. Still seeks help after the current refusal.",
+        "defect": "Fifteen minutes until Claire arrives compresses the timing: current09:58to10:15is17minutes. It could intend the10:00shift start but does not say so; record temporal ambiguity rather than certify a definite arithmetic failure or fix the body.",
+        "limit": "A modified request is not recipient assent. The response supplies no completed staffing or delegation result.",
+        "input_sha256": "a0ae69722d736eebb8cab1b67168079c9cff8518120deaf3d90e25835cbfc0c4",
+        "actual_first_body_sha256": "0f2695d4b2a13c60fa1e3fa58b96f342342752d4ee860e0bddce2d463b59e169"
+      },
+      {
+        "case_id": "SENA-H02-B",
+        "observed": "Invokes the supplied prior promise, directs first-fifteen-minute coverage and plans to ask Claire later; places the badge.",
+        "defect": "A table beside his book is not supplied: the input places Sena beside a chair and says he planned to read a novel. The body adds unprovided furnishings/book placement. The stronger directive after his refusal is pressure, not actual compelled movement or completed consent.",
+        "limit": "No invented legal authority is explicitly asserted. Asking Claire remains a plan, not her agreement or arrival.",
+        "input_sha256": "faa3de43419ed04515c42c7a50d5648e5c84eede37545277485e18dbfa579530",
+        "actual_first_body_sha256": "c27cafddb83a4ae5b026190d06abcc2bffdf404085a336dca44e58b6a5d67b3e"
+      }
+    ],
+    "pairs": [
+      {
+        "pair_id": "SENA-H01",
+        "observed_difference": "Questioning shifts from the contradicted contact denial toward code access after admission. No disclosure verdict in either.",
+        "rivals": "Explicit contradiction versus clarification is sufficient for a generic investigator. No independent personal identification or source validation."
+      },
+      {
+        "pair_id": "SENA-H02",
+        "observed_difference": "No-prior-agreement version asks for a shortened contribution; prior-agreement version invokes a promise and directs that same initial coverage.",
+        "rivals": "Both continue seeking Kazuma’s help. The changed promise is a strong generic norm cue; admiration is constant and not isolated. No completed different staffing outcome."
+      }
+    ],
+    "rules": [
+      {
+        "rule": "S-R01",
+        "status": "Partly engaged at a strongly cued narrow-proposition distinction; selective/sticky mechanisms and interference unprobed."
+      },
+      {
+        "rule": "S-R02",
+        "status": "Partly engaged in asking for available finite help and response to prior agreement; tool misuse, civilian deployment and competing emergencies unprobed."
+      },
+      {
+        "rule": "S-R03",
+        "status": "Limited English formality/expectation context only; Japanese voice, high-level inference and personal intrusion boundary not tested."
+      }
+    ],
+    "conclusion": "Four first saved bodies show limited conditional differences while preserving unprovided-note/furnishing defects and a timing ambiguity. These are same-informed-author internal examples with strong generic cues. Reliability remains provisional; no repaired output, independent accuracy, language adequacy, capability grade or confidence increase."
+  },
+  "source_scope": "3,275knownBASEcontextslots/15members/4objects before exact cases; zero new post-case native reading so far. Counts include collateral and are not independent trials.",
+  "scope_limits": [
+    "Not blind source prediction or held-out empirical test.",
+    "No independent character accuracy, native Japanese adequacy, capability grade or confidence gain.",
+    "No evaluator-owned global reconstruction output or curator-owned discovery output authored.",
+    "No model/input/body repairs after their seals."
+  ],
+  "independent_validation": 0,
+  "confidence_increase": false,
+  "reliability": "PROVISIONAL_INTERNAL_LIMITS_RETAINED",
+  "full_program_complete": false
+}

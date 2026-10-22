@@ -1,0 +1,1770 @@
+{
+  "schema": "KONOSUBA_MAIN_EXCLUDED_COMPONENTS_WITH_RETAINED_PRINCIPAL_DISPOSITIONS_V1",
+  "source_id": "MAIN-16",
+  "accepted_utc": "2026-10-19T21:08:48.472817+00:00",
+  "status": "ACCEPTED_AT_STATED_SCOPES_CONTAINING_PUBLICATION_PENDING",
+  "native_bytes": 8530869,
+  "native_sha256": "7d8b2f5152716e0351dc6919abaa347c8504562d49ab9a748fdf3dc8db522df1",
+  "text_resources": [
+    {
+      "component_id": "MAIN-16-U001",
+      "member": "item/xhtml/p-cover.xhtml",
+      "member_sha256": "a07c3023acc20f4150c36feff0ba6128861fa9d28909096e1f0b0a9c5845ebf7",
+      "bytes": 771,
+      "native_spine_order": 1,
+      "in_spine": true,
+      "properties": "svg",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-16-IMG001"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "FULL_COVER_KAZUMA_MEGUMIN_DARKNESS",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 0,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-16",
+          "component_id": "MAIN-16-U001",
+          "native_member": "item/xhtml/p-cover.xhtml",
+          "native_member_sha256": "a07c3023acc20f4150c36feff0ba6128861fa9d28909096e1f0b0a9c5845ebf7",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T20:37:48.559771+00:00",
+          "source_first_notes": "Complete zero-P native resource and empty nonparagraph residual received. Associated raster art/text will receive separate actual image viewing; no source-world action or new principal credit follows from a wrapper.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root; complete actually received new base/ruby/nonparagraph residual before formal assignment. Retained principal bodies keep exact authority and zero new pass credit. Raster images need separate actual viewing. No pristine-blind, independent, audio or native-human claim.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-16-U002",
+      "member": "item/xhtml/p-fmatter-001.xhtml",
+      "member_sha256": "0d62fd9c961849e6906301aa0dd2dde9f8df9d19ee2365022949327ac597f31e",
+      "bytes": 758,
+      "native_spine_order": 2,
+      "in_spine": true,
+      "properties": "svg",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-16-IMG005"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "DEPENDENT_KAZUMA_COVER_CROP",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 0,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-16",
+          "component_id": "MAIN-16-U002",
+          "native_member": "item/xhtml/p-fmatter-001.xhtml",
+          "native_member_sha256": "0d62fd9c961849e6906301aa0dd2dde9f8df9d19ee2365022949327ac597f31e",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T20:37:48.566768+00:00",
+          "source_first_notes": "Complete zero-P native resource and empty nonparagraph residual received. Associated raster art/text will receive separate actual image viewing; no source-world action or new principal credit follows from a wrapper.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root; complete actually received new base/ruby/nonparagraph residual before formal assignment. Retained principal bodies keep exact authority and zero new pass credit. Raster images need separate actual viewing. No pristine-blind, independent, audio or native-human claim.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-16-U003",
+      "member": "item/xhtml/p-fmatter-002.xhtml",
+      "member_sha256": "4e83cf13ada4d36e9a8c1c978e98bf0e5fb620e341ee75f91c4c432c3aa5ead2",
+      "bytes": 758,
+      "native_spine_order": 3,
+      "in_spine": true,
+      "properties": "svg",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-16-IMG006"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "RASTER_CONTENTS_CHIBI_SEARCH_BOX_AND_CREDITS",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 0,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-16",
+          "component_id": "MAIN-16-U003",
+          "native_member": "item/xhtml/p-fmatter-002.xhtml",
+          "native_member_sha256": "4e83cf13ada4d36e9a8c1c978e98bf0e5fb620e341ee75f91c4c432c3aa5ead2",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T20:37:48.574746+00:00",
+          "source_first_notes": "Complete zero-P native resource and empty nonparagraph residual received. Associated raster art/text will receive separate actual image viewing; no source-world action or new principal credit follows from a wrapper.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root; complete actually received new base/ruby/nonparagraph residual before formal assignment. Retained principal bodies keep exact authority and zero new pass credit. Raster images need separate actual viewing. No pristine-blind, independent, audio or native-human claim.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-16-U004",
+      "member": "item/xhtml/p-fmatter-003.xhtml",
+      "member_sha256": "e7159f15507a12cce2bdd6dd903342b8b713952ef83a21fc5acb5b24aa209915",
+      "bytes": 758,
+      "native_spine_order": 4,
+      "in_spine": true,
+      "properties": "svg",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-16-IMG007"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "COLOR_MONTAGE_PRINCIPAL_QUOTES_KAZUMA_MEGUMIN_DARKNESS_WIZ_VANIR",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 0,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-16",
+          "component_id": "MAIN-16-U004",
+          "native_member": "item/xhtml/p-fmatter-003.xhtml",
+          "native_member_sha256": "e7159f15507a12cce2bdd6dd903342b8b713952ef83a21fc5acb5b24aa209915",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T20:37:48.575242+00:00",
+          "source_first_notes": "Complete zero-P native resource and empty nonparagraph residual received. Associated raster art/text will receive separate actual image viewing; no source-world action or new principal credit follows from a wrapper.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root; complete actually received new base/ruby/nonparagraph residual before formal assignment. Retained principal bodies keep exact authority and zero new pass credit. Raster images need separate actual viewing. No pristine-blind, independent, audio or native-human claim.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-16-U005",
+      "member": "item/xhtml/p-fmatter-004.xhtml",
+      "member_sha256": "5dfe1f6cf4ebbda29ded3a7e2478d89deae37bfe4b1256a20257206ef3bc33bc",
+      "bytes": 758,
+      "native_spine_order": 5,
+      "in_spine": true,
+      "properties": "svg",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-16-IMG008"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "COLOR_AQUA_YUNYUN_CECILY_MONTAGE_ACCEPTED_SCENES",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 0,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-16",
+          "component_id": "MAIN-16-U005",
+          "native_member": "item/xhtml/p-fmatter-004.xhtml",
+          "native_member_sha256": "5dfe1f6cf4ebbda29ded3a7e2478d89deae37bfe4b1256a20257206ef3bc33bc",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T20:37:48.583199+00:00",
+          "source_first_notes": "Complete zero-P native resource and empty nonparagraph residual received. Associated raster art/text will receive separate actual image viewing; no source-world action or new principal credit follows from a wrapper.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root; complete actually received new base/ruby/nonparagraph residual before formal assignment. Retained principal bodies keep exact authority and zero new pass credit. Raster images need separate actual viewing. No pristine-blind, independent, audio or native-human claim.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-16-U006",
+      "member": "item/xhtml/p-titlepage.xhtml",
+      "member_sha256": "66c504ed28ee0d680a48e2bcfa6491bb16665d81b512ef508d079d47a9225a90",
+      "bytes": 757,
+      "native_spine_order": 6,
+      "in_spine": true,
+      "properties": "svg",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-16-IMG003"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "RASTER_TITLE_AND_IMPRINT",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 0,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-16",
+          "component_id": "MAIN-16-U006",
+          "native_member": "item/xhtml/p-titlepage.xhtml",
+          "native_member_sha256": "66c504ed28ee0d680a48e2bcfa6491bb16665d81b512ef508d079d47a9225a90",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T20:37:48.583695+00:00",
+          "source_first_notes": "Complete zero-P native resource and empty nonparagraph residual received. Associated raster art/text will receive separate actual image viewing; no source-world action or new principal credit follows from a wrapper.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root; complete actually received new base/ruby/nonparagraph residual before formal assignment. Retained principal bodies keep exact authority and zero new pass credit. Raster images need separate actual viewing. No pristine-blind, independent, audio or native-human claim.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-16-U007",
+      "member": "item/xhtml/p-caution.xhtml",
+      "member_sha256": "fc6d7b7dcefe7db874df13190bbdb6574ec5157913455b77bfd7917bcb68d08f",
+      "bytes": 777,
+      "native_spine_order": 7,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 4,
+      "nonempty_paragraphs": 3,
+      "base_characters": 109,
+      "ruby_count": 0,
+      "image_ids": [],
+      "new_reading_required": true,
+      "current_component_role": "ELECTRONIC_THUMBNAIL_LAYOUT_NOTICE",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 4,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-16",
+          "component_id": "MAIN-16-U007",
+          "native_member": "item/xhtml/p-caution.xhtml",
+          "native_member_sha256": "fc6d7b7dcefe7db874df13190bbdb6574ec5157913455b77bfd7917bcb68d08f",
+          "start_P": 1,
+          "end_P": 4,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T20:37:48.584699+00:00",
+          "source_first_notes": "Complete electronic thumbnail/layout/view-system notice received; statements are edition data, not a new instruction from the human owner.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root; complete actually received new base/ruby/nonparagraph residual before formal assignment. Retained principal bodies keep exact authority and zero new pass credit. Raster images need separate actual viewing. No pristine-blind, independent, audio or native-human claim.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-16-U008",
+      "member": "item/xhtml/p-toc-001.xhtml",
+      "member_sha256": "6b493ae6f68880f1be8a207cadd4070df1658f26d21529e45a5b0e48108acb35",
+      "bytes": 1926,
+      "native_spine_order": 8,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 16,
+      "nonempty_paragraphs": 13,
+      "base_characters": 167,
+      "ruby_count": 0,
+      "image_ids": [],
+      "new_reading_required": true,
+      "current_component_role": "TEXTUAL_CONTENTS",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 16,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-16",
+          "component_id": "MAIN-16-U008",
+          "native_member": "item/xhtml/p-toc-001.xhtml",
+          "native_member_sha256": "6b493ae6f68880f1be8a207cadd4070df1658f26d21529e45a5b0e48108acb35",
+          "start_P": 1,
+          "end_P": 16,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T20:37:48.585699+00:00",
+          "source_first_notes": "Complete textual contents received, including five main chapter headings, four Aqua interludes, epilogue, afterword and separately named electronic bonus『アクセルの街の名物女神』. Contents are navigation, not another reading of the retained bodies.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root; complete actually received new base/ruby/nonparagraph residual before formal assignment. Retained principal bodies keep exact authority and zero new pass credit. Raster images need separate actual viewing. No pristine-blind, independent, audio or native-human claim.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-16-U009",
+      "member": "item/xhtml/p-001.xhtml",
+      "member_sha256": "815b6430cb7211dd91c0ce6a208e759a49f9eb5a3cd8a0c478924ec79206438a",
+      "bytes": 752,
+      "native_spine_order": 9,
+      "in_spine": true,
+      "properties": "svg",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-16-IMG019"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "RASTER_EDITORIAL_CHARACTER_PROFILE",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 0,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-16",
+          "component_id": "MAIN-16-U009",
+          "native_member": "item/xhtml/p-001.xhtml",
+          "native_member_sha256": "815b6430cb7211dd91c0ce6a208e759a49f9eb5a3cd8a0c478924ec79206438a",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T20:37:48.592684+00:00",
+          "source_first_notes": "Complete zero-P native resource and empty nonparagraph residual received. Associated raster art/text will receive separate actual image viewing; no source-world action or new principal credit follows from a wrapper.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root; complete actually received new base/ruby/nonparagraph residual before formal assignment. Retained principal bodies keep exact authority and zero new pass credit. Raster images need separate actual viewing. No pristine-blind, independent, audio or native-human claim.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-16-U010",
+      "member": "item/xhtml/p-002.xhtml",
+      "member_sha256": "aac0476d3091ee405a7becfd1362e430bfe1b60ea423dd7b76f7689131ef9eb9",
+      "bytes": 86854,
+      "native_spine_order": 10,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 513,
+      "nonempty_paragraphs": 484,
+      "base_characters": 21452,
+      "ruby_count": 464,
+      "image_ids": [
+        "MAIN-16-IMG009",
+        "MAIN-16-IMG020"
+      ],
+      "new_reading_required": false,
+      "current_component_role": "RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_PASS_CREDIT",
+      "new_independent_validation_trial": false,
+      "current_disposition": "RETAINED_PREVIOUSLY_ACCEPTED_PRINCIPAL_EXACT",
+      "retained_principal_authority": {
+        "component_id": "MAIN-16-U010",
+        "metadata_plan_id": "MAIN16-EDITION-U010",
+        "native_member": "item/xhtml/p-002.xhtml",
+        "sha256": "aac0476d3091ee405a7becfd1362e430bfe1b60ea423dd7b76f7689131ef9eb9",
+        "accepted_principal_contract_exact": {
+          "alias": "C1 / start",
+          "paragraph_slots": 513,
+          "member_sha256": "aac0476d3091ee405a7becfd1362e430bfe1b60ea423dd7b76f7689131ef9eb9"
+        },
+        "new_P_reading_credit": 0,
+        "acceptance_control": {
+          "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md",
+          "bytes": 66302,
+          "sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e",
+          "members": 137
+        }
+      },
+      "actual_new_paragraph_reading_credit": 0,
+      "new_full_text_reading_claim": false
+    },
+    {
+      "component_id": "MAIN-16-U011",
+      "member": "item/xhtml/p-003.xhtml",
+      "member_sha256": "ac772ee6f9bf6a4ab402c82cf5232521aea3180de172d42c8ab7f7c842c86a74",
+      "bytes": 8617,
+      "native_spine_order": 11,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 45,
+      "nonempty_paragraphs": 42,
+      "base_characters": 1783,
+      "ruby_count": 64,
+      "image_ids": [
+        "MAIN-16-IMG010",
+        "MAIN-16-IMG021"
+      ],
+      "new_reading_required": false,
+      "current_component_role": "RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_PASS_CREDIT",
+      "new_independent_validation_trial": false,
+      "current_disposition": "RETAINED_PREVIOUSLY_ACCEPTED_PRINCIPAL_EXACT",
+      "retained_principal_authority": {
+        "component_id": "MAIN-16-U011",
+        "metadata_plan_id": "MAIN16-EDITION-U011",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "sha256": "ac772ee6f9bf6a4ab402c82cf5232521aea3180de172d42c8ab7f7c842c86a74",
+        "accepted_principal_contract_exact": {
+          "alias": "I1 / start",
+          "paragraph_slots": 45,
+          "member_sha256": "ac772ee6f9bf6a4ab402c82cf5232521aea3180de172d42c8ab7f7c842c86a74"
+        },
+        "new_P_reading_credit": 0,
+        "acceptance_control": {
+          "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md",
+          "bytes": 66302,
+          "sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e",
+          "members": 137
+        }
+      },
+      "actual_new_paragraph_reading_credit": 0,
+      "new_full_text_reading_claim": false
+    },
+    {
+      "component_id": "MAIN-16-U012",
+      "member": "item/xhtml/p-004.xhtml",
+      "member_sha256": "722b44dbe6a27c039dc902c9447e602b9139a12a8a8a03a1fb7492a34da3e991",
+      "bytes": 95427,
+      "native_spine_order": 12,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 578,
+      "nonempty_paragraphs": 546,
+      "base_characters": 23347,
+      "ruby_count": 546,
+      "image_ids": [
+        "MAIN-16-IMG011",
+        "MAIN-16-IMG022"
+      ],
+      "new_reading_required": false,
+      "current_component_role": "RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_PASS_CREDIT",
+      "new_independent_validation_trial": false,
+      "current_disposition": "RETAINED_PREVIOUSLY_ACCEPTED_PRINCIPAL_EXACT",
+      "retained_principal_authority": {
+        "component_id": "MAIN-16-U012",
+        "metadata_plan_id": "MAIN16-EDITION-U012",
+        "native_member": "item/xhtml/p-004.xhtml",
+        "sha256": "722b44dbe6a27c039dc902c9447e602b9139a12a8a8a03a1fb7492a34da3e991",
+        "accepted_principal_contract_exact": {
+          "alias": "C2 / start",
+          "paragraph_slots": 578,
+          "member_sha256": "722b44dbe6a27c039dc902c9447e602b9139a12a8a8a03a1fb7492a34da3e991"
+        },
+        "new_P_reading_credit": 0,
+        "acceptance_control": {
+          "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md",
+          "bytes": 66302,
+          "sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e",
+          "members": 137
+        }
+      },
+      "actual_new_paragraph_reading_credit": 0,
+      "new_full_text_reading_claim": false
+    },
+    {
+      "component_id": "MAIN-16-U013",
+      "member": "item/xhtml/p-005.xhtml",
+      "member_sha256": "9b52838e6052c13d4e5b04af9e45b1a454b7e6268e86a5372eb4bc6338d52c9a",
+      "bytes": 8151,
+      "native_spine_order": 13,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 47,
+      "nonempty_paragraphs": 46,
+      "base_characters": 1893,
+      "ruby_count": 39,
+      "image_ids": [
+        "MAIN-16-IMG012"
+      ],
+      "new_reading_required": false,
+      "current_component_role": "RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_PASS_CREDIT",
+      "new_independent_validation_trial": false,
+      "current_disposition": "RETAINED_PREVIOUSLY_ACCEPTED_PRINCIPAL_EXACT",
+      "retained_principal_authority": {
+        "component_id": "MAIN-16-U013",
+        "metadata_plan_id": "MAIN16-EDITION-U013",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "sha256": "9b52838e6052c13d4e5b04af9e45b1a454b7e6268e86a5372eb4bc6338d52c9a",
+        "accepted_principal_contract_exact": {
+          "alias": "I2 / start",
+          "paragraph_slots": 47,
+          "member_sha256": "9b52838e6052c13d4e5b04af9e45b1a454b7e6268e86a5372eb4bc6338d52c9a"
+        },
+        "new_P_reading_credit": 0,
+        "acceptance_control": {
+          "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md",
+          "bytes": 66302,
+          "sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e",
+          "members": 137
+        }
+      },
+      "actual_new_paragraph_reading_credit": 0,
+      "new_full_text_reading_claim": false
+    },
+    {
+      "component_id": "MAIN-16-U014",
+      "member": "item/xhtml/p-006.xhtml",
+      "member_sha256": "2c808e5d6c6a062a4ffcf30ee79751c71013956608ad60039aedc20f77f6fa45",
+      "bytes": 78867,
+      "native_spine_order": 14,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 538,
+      "nonempty_paragraphs": 501,
+      "base_characters": 18802,
+      "ruby_count": 468,
+      "image_ids": [
+        "MAIN-16-IMG013",
+        "MAIN-16-IMG023"
+      ],
+      "new_reading_required": false,
+      "current_component_role": "RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_PASS_CREDIT",
+      "new_independent_validation_trial": false,
+      "current_disposition": "RETAINED_PREVIOUSLY_ACCEPTED_PRINCIPAL_EXACT",
+      "retained_principal_authority": {
+        "component_id": "MAIN-16-U014",
+        "metadata_plan_id": "MAIN16-EDITION-U014",
+        "native_member": "item/xhtml/p-006.xhtml",
+        "sha256": "2c808e5d6c6a062a4ffcf30ee79751c71013956608ad60039aedc20f77f6fa45",
+        "accepted_principal_contract_exact": {
+          "alias": "C3 / start",
+          "paragraph_slots": 538,
+          "member_sha256": "2c808e5d6c6a062a4ffcf30ee79751c71013956608ad60039aedc20f77f6fa45"
+        },
+        "new_P_reading_credit": 0,
+        "acceptance_control": {
+          "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md",
+          "bytes": 66302,
+          "sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e",
+          "members": 137
+        }
+      },
+      "actual_new_paragraph_reading_credit": 0,
+      "new_full_text_reading_claim": false
+    },
+    {
+      "component_id": "MAIN-16-U015",
+      "member": "item/xhtml/p-007.xhtml",
+      "member_sha256": "03da2957104d1de41be93db36f0842b2cb5ffe9ada50c0684a731727706aa0d8",
+      "bytes": 7927,
+      "native_spine_order": 15,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 46,
+      "nonempty_paragraphs": 45,
+      "base_characters": 1807,
+      "ruby_count": 46,
+      "image_ids": [
+        "MAIN-16-IMG014"
+      ],
+      "new_reading_required": false,
+      "current_component_role": "RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_PASS_CREDIT",
+      "new_independent_validation_trial": false,
+      "current_disposition": "RETAINED_PREVIOUSLY_ACCEPTED_PRINCIPAL_EXACT",
+      "retained_principal_authority": {
+        "component_id": "MAIN-16-U015",
+        "metadata_plan_id": "MAIN16-EDITION-U015",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "sha256": "03da2957104d1de41be93db36f0842b2cb5ffe9ada50c0684a731727706aa0d8",
+        "accepted_principal_contract_exact": {
+          "alias": "I3 / start",
+          "paragraph_slots": 46,
+          "member_sha256": "03da2957104d1de41be93db36f0842b2cb5ffe9ada50c0684a731727706aa0d8"
+        },
+        "new_P_reading_credit": 0,
+        "acceptance_control": {
+          "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md",
+          "bytes": 66302,
+          "sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e",
+          "members": 137
+        }
+      },
+      "actual_new_paragraph_reading_credit": 0,
+      "new_full_text_reading_claim": false
+    },
+    {
+      "component_id": "MAIN-16-U016",
+      "member": "item/xhtml/p-008.xhtml",
+      "member_sha256": "352391e223c1fcf189eea740f0fcbecee08b961f27aa320afa79c18b4d4cbe26",
+      "bytes": 83805,
+      "native_spine_order": 16,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 492,
+      "nonempty_paragraphs": 456,
+      "base_characters": 20102,
+      "ruby_count": 509,
+      "image_ids": [
+        "MAIN-16-IMG015",
+        "MAIN-16-IMG024"
+      ],
+      "new_reading_required": false,
+      "current_component_role": "RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_PASS_CREDIT",
+      "new_independent_validation_trial": false,
+      "current_disposition": "RETAINED_PREVIOUSLY_ACCEPTED_PRINCIPAL_EXACT",
+      "retained_principal_authority": {
+        "component_id": "MAIN-16-U016",
+        "metadata_plan_id": "MAIN16-EDITION-U016",
+        "native_member": "item/xhtml/p-008.xhtml",
+        "sha256": "352391e223c1fcf189eea740f0fcbecee08b961f27aa320afa79c18b4d4cbe26",
+        "accepted_principal_contract_exact": {
+          "alias": "C4 / start",
+          "paragraph_slots": 492,
+          "member_sha256": "352391e223c1fcf189eea740f0fcbecee08b961f27aa320afa79c18b4d4cbe26"
+        },
+        "new_P_reading_credit": 0,
+        "acceptance_control": {
+          "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md",
+          "bytes": 66302,
+          "sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e",
+          "members": 137
+        }
+      },
+      "actual_new_paragraph_reading_credit": 0,
+      "new_full_text_reading_claim": false
+    },
+    {
+      "component_id": "MAIN-16-U017",
+      "member": "item/xhtml/p-009.xhtml",
+      "member_sha256": "007af3c04dc55d9d130e5a86017580caae7840926483d39f58121b5f3ad67c80",
+      "bytes": 8041,
+      "native_spine_order": 17,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 41,
+      "nonempty_paragraphs": 39,
+      "base_characters": 1959,
+      "ruby_count": 32,
+      "image_ids": [
+        "MAIN-16-IMG016"
+      ],
+      "new_reading_required": false,
+      "current_component_role": "RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_PASS_CREDIT",
+      "new_independent_validation_trial": false,
+      "current_disposition": "RETAINED_PREVIOUSLY_ACCEPTED_PRINCIPAL_EXACT",
+      "retained_principal_authority": {
+        "component_id": "MAIN-16-U017",
+        "metadata_plan_id": "MAIN16-EDITION-U017",
+        "native_member": "item/xhtml/p-009.xhtml",
+        "sha256": "007af3c04dc55d9d130e5a86017580caae7840926483d39f58121b5f3ad67c80",
+        "accepted_principal_contract_exact": {
+          "alias": "I4 / start",
+          "paragraph_slots": 41,
+          "member_sha256": "007af3c04dc55d9d130e5a86017580caae7840926483d39f58121b5f3ad67c80"
+        },
+        "new_P_reading_credit": 0,
+        "acceptance_control": {
+          "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md",
+          "bytes": 66302,
+          "sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e",
+          "members": 137
+        }
+      },
+      "actual_new_paragraph_reading_credit": 0,
+      "new_full_text_reading_claim": false
+    },
+    {
+      "component_id": "MAIN-16-U018",
+      "member": "item/xhtml/p-010.xhtml",
+      "member_sha256": "e5c2f1995c931789bbc5c8921779ae24fc0f2cf44c7691a92511a7d16eabbb23",
+      "bytes": 81501,
+      "native_spine_order": 18,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 515,
+      "nonempty_paragraphs": 478,
+      "base_characters": 19723,
+      "ruby_count": 478,
+      "image_ids": [
+        "MAIN-16-IMG017",
+        "MAIN-16-IMG025",
+        "MAIN-16-IMG026"
+      ],
+      "new_reading_required": false,
+      "current_component_role": "RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_PASS_CREDIT",
+      "new_independent_validation_trial": false,
+      "current_disposition": "RETAINED_PREVIOUSLY_ACCEPTED_PRINCIPAL_EXACT",
+      "retained_principal_authority": {
+        "component_id": "MAIN-16-U018",
+        "metadata_plan_id": "MAIN16-EDITION-U018",
+        "native_member": "item/xhtml/p-010.xhtml",
+        "sha256": "e5c2f1995c931789bbc5c8921779ae24fc0f2cf44c7691a92511a7d16eabbb23",
+        "accepted_principal_contract_exact": {
+          "alias": "F / start",
+          "paragraph_slots": 515,
+          "member_sha256": "e5c2f1995c931789bbc5c8921779ae24fc0f2cf44c7691a92511a7d16eabbb23"
+        },
+        "new_P_reading_credit": 0,
+        "acceptance_control": {
+          "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md",
+          "bytes": 66302,
+          "sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e",
+          "members": 137
+        }
+      },
+      "actual_new_paragraph_reading_credit": 0,
+      "new_full_text_reading_claim": false
+    },
+    {
+      "component_id": "MAIN-16-U019",
+      "member": "item/xhtml/p-011.xhtml",
+      "member_sha256": "a827b87dac437c985c993b00971a091e38dd3cff4c211bc8e51c2218651eebf7",
+      "bytes": 4918,
+      "native_spine_order": 19,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 29,
+      "nonempty_paragraphs": 20,
+      "base_characters": 1090,
+      "ruby_count": 20,
+      "image_ids": [
+        "MAIN-16-IMG018"
+      ],
+      "new_reading_required": false,
+      "current_component_role": "RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_PASS_CREDIT",
+      "new_independent_validation_trial": false,
+      "current_disposition": "RETAINED_PREVIOUSLY_ACCEPTED_PRINCIPAL_EXACT",
+      "retained_principal_authority": {
+        "component_id": "MAIN-16-U019",
+        "metadata_plan_id": "MAIN16-EDITION-U019",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "sha256": "a827b87dac437c985c993b00971a091e38dd3cff4c211bc8e51c2218651eebf7",
+        "accepted_principal_contract_exact": {
+          "alias": "Ep / start",
+          "paragraph_slots": 29,
+          "member_sha256": "a827b87dac437c985c993b00971a091e38dd3cff4c211bc8e51c2218651eebf7"
+        },
+        "new_P_reading_credit": 0,
+        "acceptance_control": {
+          "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md",
+          "bytes": 66302,
+          "sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e",
+          "members": 137
+        }
+      },
+      "actual_new_paragraph_reading_credit": 0,
+      "new_full_text_reading_claim": false
+    },
+    {
+      "component_id": "MAIN-16-U020",
+      "member": "item/xhtml/p-012.xhtml",
+      "member_sha256": "03ee72be3689dbae0c338f1285f111365f9cc347c2cccab176e0d869f8ae1966",
+      "bytes": 4104,
+      "native_spine_order": 20,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 21,
+      "nonempty_paragraphs": 16,
+      "base_characters": 769,
+      "ruby_count": 24,
+      "image_ids": [
+        "MAIN-16-IMG027"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "CREATOR_AFTERWORD_AND_DEPENDENT_ILLUSTRATOR_CLOSET_VIGNETTE",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 21,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-16",
+          "component_id": "MAIN-16-U020",
+          "native_member": "item/xhtml/p-012.xhtml",
+          "native_member_sha256": "03ee72be3689dbae0c338f1285f111365f9cc347c2cccab176e0d869f8ae1966",
+          "start_P": 1,
+          "end_P": 21,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T20:37:48.593675+00:00",
+          "source_first_notes": "Complete creator afterword received with displayed ruby/residuals. It frames a low-Aqua serious(?) volume, a heroic self-training/companion pursuit with explicit probably-roughly-right qualification, desired finalMegumin scene and frog-vulnerableparty. Movie/Kemonomichi timing is historical edition commentary, not current news/admitted adaptations. Production/reader thanks/signature actualcreatorplane; IMG027 remains separate.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root; complete actually received new base/ruby/nonparagraph residual before formal assignment. Retained principal bodies keep exact authority and zero new pass credit. Raster images need separate actual viewing. No pristine-blind, independent, audio or native-human claim.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-16-U021",
+      "member": "item/xhtml/p-013.xhtml",
+      "member_sha256": "3757164fbea03112e67f9f271b8046ed262f84c7c8feb0b01a172dd6b4aa5aef",
+      "bytes": 773,
+      "native_spine_order": 21,
+      "in_spine": true,
+      "properties": "svg",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-16-IMG028"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "NEXT17_PROMOTIONAL_STAGED_SCRIPT",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 0,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-16",
+          "component_id": "MAIN-16-U021",
+          "native_member": "item/xhtml/p-013.xhtml",
+          "native_member_sha256": "3757164fbea03112e67f9f271b8046ed262f84c7c8feb0b01a172dd6b4aa5aef",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T20:37:48.601641+00:00",
+          "source_first_notes": "Complete zero-P raster-resource container and empty residual received; IMG028 actual pixel/text reading remains separate. No future-volume body read from this container.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root; complete actually received new base/ruby/nonparagraph residual before formal assignment. Retained principal bodies keep exact authority and zero new pass credit. Raster images need separate actual viewing. No pristine-blind, independent, audio or native-human claim.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-16-U022",
+      "member": "item/xhtml/p-014.xhtml",
+      "member_sha256": "a198dd70be58aa89696bccdaafd0d1c7b09faa9e4d5a3c0ae4c2e49c0d13831c",
+      "bytes": 636,
+      "native_spine_order": 22,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 2,
+      "nonempty_paragraphs": 2,
+      "base_characters": 27,
+      "ruby_count": 0,
+      "image_ids": [],
+      "new_reading_required": true,
+      "current_component_role": "SEPARATE_ELECTRONIC_BONUS_HEADING",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 2,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-16",
+          "component_id": "MAIN-16-U022",
+          "native_member": "item/xhtml/p-014.xhtml",
+          "native_member_sha256": "a198dd70be58aa89696bccdaafd0d1c7b09faa9e4d5a3c0ae4c2e49c0d13831c",
+          "start_P": 1,
+          "end_P": 2,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T20:37:48.602686+00:00",
+          "source_first_notes": "Complete separate electronic bonus heading received, explicitly『アクセルの街の名物女神』; no independent extra story beyond followingU023.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root; complete actually received new base/ruby/nonparagraph residual before formal assignment. Retained principal bodies keep exact authority and zero new pass credit. Raster images need separate actual viewing. No pristine-blind, independent, audio or native-human claim.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-16-U023",
+      "member": "item/xhtml/p-015.xhtml",
+      "member_sha256": "8e1d09e30012bdb402812786a946e7a783b7b718481c05158ecb346636983da9",
+      "bytes": 7770,
+      "native_spine_order": 23,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 60,
+      "nonempty_paragraphs": 60,
+      "base_characters": 2234,
+      "ruby_count": 0,
+      "image_ids": [],
+      "new_reading_required": true,
+      "current_component_role": "SEPARATE_ELECTRONIC_BONUS_FICTION",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 60,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-16",
+          "component_id": "MAIN-16-U023",
+          "native_member": "item/xhtml/p-015.xhtml",
+          "native_member_sha256": "8e1d09e30012bdb402812786a946e7a783b7b718481c05158ecb346636983da9",
+          "start_P": 1,
+          "end_P": 60,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T20:37:48.602686+00:00",
+          "source_first_notes": "Complete60P new bonus received across1-30 and31-60 with ruby/residuals. Kbuyingdinnerfirstmisreadswoman'srequestasromantic; she reportsregularAqwaterandchildallergybenefit, thenleaves. Pierre selfnames/boasts, offerscandyafterchildren'shigh-expectationbagguesses, interpretscrowdfearasapproval, actuallycloak-disappearshelper andisledawaybypoliceafterliteralno-tricksclaim. He thenattributesmeans tohelper'sTeleport; audiencebelatedlyfindsordinarymagicunimpressive. KinfersAqua-trainedexpectationsandadmitsnotknowingherlocalactivities; Aqabsent/directchoicesunshown. Actualfoodshopping/homecoming; finalhouseholdspeakerP59untaggedreportsbarbill, Kresolvesfuturecloserwatch. NoactualAqwater-treatmenttest/independentlyobservedpasttrick, permanenthelperdeath, conviction/finalrelease orperformedfuturemonitoring.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root; complete actually received new base/ruby/nonparagraph residual before formal assignment. Retained principal bodies keep exact authority and zero new pass credit. Raster images need separate actual viewing. No pristine-blind, independent, audio or native-human claim.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-16-U024",
+      "member": "item/xhtml/p-allcover-001.xhtml",
+      "member_sha256": "bb688112e919b4f28b6ef0aaf5454ccf9df3c1731a246c242c0fae3668daedfd",
+      "bytes": 757,
+      "native_spine_order": 24,
+      "in_spine": true,
+      "properties": "svg",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-16-IMG004"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "FULL_WRAP_BIOGRAPHIES_MARKETING_AND_DESIGN_CREDITS",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 0,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-16",
+          "component_id": "MAIN-16-U024",
+          "native_member": "item/xhtml/p-allcover-001.xhtml",
+          "native_member_sha256": "bb688112e919b4f28b6ef0aaf5454ccf9df3c1731a246c242c0fae3668daedfd",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T20:37:48.610162+00:00",
+          "source_first_notes": "Complete zero-P wrap/jacket container and empty residual received; full nativeIMG004 bios/blurb needs separate pixel/text inspection.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root; complete actually received new base/ruby/nonparagraph residual before formal assignment. Retained principal bodies keep exact authority and zero new pass credit. Raster images need separate actual viewing. No pristine-blind, independent, audio or native-human claim.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-16-U025",
+      "member": "item/xhtml/p-colophon.xhtml",
+      "member_sha256": "f238f981624d076f1e549402bfa459193cd3bf5a0598ffc2bd2c948c231c4df0",
+      "bytes": 2313,
+      "native_spine_order": 25,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 15,
+      "nonempty_paragraphs": 15,
+      "base_characters": 262,
+      "ruby_count": 6,
+      "image_ids": [],
+      "new_reading_required": true,
+      "current_component_role": "COLOPHON_IMPRINT_AND_SUPPORT",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 15,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-16",
+          "component_id": "MAIN-16-U025",
+          "native_member": "item/xhtml/p-colophon.xhtml",
+          "native_member_sha256": "f238f981624d076f1e549402bfa459193cd3bf5a0598ffc2bd2c948c231c4df0",
+          "start_P": 1,
+          "end_P": 15,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T20:37:48.610658+00:00",
+          "source_first_notes": "Complete colophon/title/imprint/support withrubyreceived:『16脱走女神、ゴーホーム！電子特別版』, electronic2019-08-01, print-basisfirst2019-08-01,copyright2019, publisher三坂泰二/KADOKAWA. Printedwebsite/supportinstruction is source data; no browsing or currentpublicationclaim.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root; complete actually received new base/ruby/nonparagraph residual before formal assignment. Retained principal bodies keep exact authority and zero new pass credit. Raster images need separate actual viewing. No pristine-blind, independent, audio or native-human claim.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-16-U026",
+      "member": "item/xhtml/p-colophon2.xhtml",
+      "member_sha256": "ca234c6d9da6e1791671c3428c8eec10347ff299d339bea9da300335896c13eb",
+      "bytes": 1055,
+      "native_spine_order": 26,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 3,
+      "nonempty_paragraphs": 3,
+      "base_characters": 167,
+      "ruby_count": 0,
+      "image_ids": [],
+      "new_reading_required": true,
+      "current_component_role": "USE_AND_RIGHTS_NOTICE",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 3,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-16",
+          "component_id": "MAIN-16-U026",
+          "native_member": "item/xhtml/p-colophon2.xhtml",
+          "native_member_sha256": "ca234c6d9da6e1791671c3428c8eec10347ff299d339bea9da300335896c13eb",
+          "start_P": 1,
+          "end_P": 3,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T20:37:48.611651+00:00",
+          "source_first_notes": "Complete use/rights notice received; nativepublishercontract/copying statements and historicalreportingbasis remain source data. No new human policy instruction or full-sourcepublicationauthorization inferred.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root; complete actually received new base/ruby/nonparagraph residual before formal assignment. Retained principal bodies keep exact authority and zero new pass credit. Raster images need separate actual viewing. No pristine-blind, independent, audio or native-human claim.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-16-U027",
+      "member": "item/xhtml/p-bookwalker.xhtml",
+      "member_sha256": "65719179002ebb0468c3ba14986dda2049ad4c6a087daba3350b8c2189eeb97d",
+      "bytes": 671,
+      "native_spine_order": 27,
+      "in_spine": true,
+      "properties": "svg",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-16-IMG002"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "BOOKWALKER_RETAILER_WRAPPER",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 0,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-16",
+          "component_id": "MAIN-16-U027",
+          "native_member": "item/xhtml/p-bookwalker.xhtml",
+          "native_member_sha256": "65719179002ebb0468c3ba14986dda2049ad4c6a087daba3350b8c2189eeb97d",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T20:37:48.612643+00:00",
+          "source_first_notes": "Complete zero-P retailer-image resource and empty residual received; IMG002 separate actual view pending.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root; complete actually received new base/ruby/nonparagraph residual before formal assignment. Retained principal bodies keep exact authority and zero new pass credit. Raster images need separate actual viewing. No pristine-blind, independent, audio or native-human claim.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-16-U028",
+      "member": "item/navigation-documents.xhtml",
+      "member_sha256": "8747bf2e0a2c34def9abb26dd2698cd0f5df60131966625c8979598fcfb77303",
+      "bytes": 1869,
+      "native_spine_order": null,
+      "in_spine": false,
+      "properties": "nav",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [],
+      "new_reading_required": true,
+      "current_component_role": "NONSPINE_NAVIGATION_WITH_20_NON_P_STRINGS",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 0,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-16",
+          "component_id": "MAIN-16-U028",
+          "native_member": "item/navigation-documents.xhtml",
+          "native_member_sha256": "8747bf2e0a2c34def9abb26dd2698cd0f5df60131966625c8979598fcfb77303",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T20:37:48.619649+00:00",
+          "source_first_notes": "Complete zero-P navigation resource received including all20nonparagraph strings Navigation,cover,contents,fivechapters/fourinterludes/epilogue/afterword/bonus/colophon/Guide/cover/contents/body. Zero paragraph slots do not mean absenttext; no new principalreadingcredit.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root; complete actually received new base/ruby/nonparagraph residual before formal assignment. Retained principal bodies keep exact authority and zero new pass credit. Raster images need separate actual viewing. No pristine-blind, independent, audio or native-human claim.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "image_id": "MAIN-16-IMG001",
+      "member": "item/image/cover.jpg",
+      "sha256": "f4ae8e21d813a6aa0f31c3bbba12e096257bac6b55de891fd419045ac795a6be",
+      "bytes": 879074,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-16",
+        "image_id": "MAIN-16-IMG001",
+        "native_image_member": "item/image/cover.jpg",
+        "native_image_sha256": "f4ae8e21d813a6aa0f31c3bbba12e096257bac6b55de891fd419045ac795a6be",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T20:42:34.803664+00:00",
+        "source_first_notes": "Full cover individually viewed at original resolution: Kazuma in adventurer cloak/sword, Megumin and armored Darkness posed together; title16/subtitle脱走女神、ゴーホーム！,author暁なつめ/illustrator三嶋くろね/角川スニーカー文庫. Aqua not pictured inthiscovercomposition; no enacted departure/quest inferred frompose.",
+        "reading_scope_and_limit": "Full nativeasset/pixels andlegiblecovertext received. Covercomposition/dependentforms do not create a new canonical event, ability, consent or behavioral trial; no audio/independent-reading claim.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original uncoded notes/seal remain exact. Current retained1395BASE-TEXTP identifyIMG020Irisletterrepresentation, notactualvisit; correctIMG021fromYunyunguess toAqua/Anna/Chomusuke/Zel andwithdrawnest/egginference. IMG007quotesjoinC1P365/473/486andC2P7/23;IMG008CecilycrabsI3andAq/YwaterFinal201-236. IMG022Wiz/Vanir/dungeonownerC2P477-487;IMG023DarmorgiftC3P17-27;IMG024Serena/Axisclerics/coercedrecruitmentC4P441-464;IMG025Aq/YnewsFinal87-112,notnewreunion;IMG026MresponseFinal506-514. IMG027depictsactualclosethidingC3P129-145andisnotadditionalfiction. Cover/contents/profile/banners/contributorbiographies/NEXTstayseparate; noinvokedextraevent, completedsexualact, unlimitedability, missingproviderorpermission. IMG004pre-sealleft/rightmagnifications givezeroextraassetcredit."
+    },
+    {
+      "image_id": "MAIN-16-IMG002",
+      "member": "item/image/i-bookwalker.jpg",
+      "sha256": "7cd722f5a19b77ac2c3b9e336a39ecc9803b7a4263dd236f4e8253f15adf2a4a",
+      "bytes": 342205,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-16",
+        "image_id": "MAIN-16-IMG002",
+        "native_image_member": "item/image/i-bookwalker.jpg",
+        "native_image_sha256": "7cd722f5a19b77ac2c3b9e336a39ecc9803b7a4263dd236f4e8253f15adf2a4a",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T20:42:35.062302+00:00",
+        "source_first_notes": "CompleteBOOK☆WALKERretailerbrandimageindividuallyviewed/read; coloredbookbarlogoandname,nofictionalactor/narrative.",
+        "reading_scope_and_limit": "Actualfullnativeassetviewed; publisher/retailerwrapperonly,0independentstorycredit.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original uncoded notes/seal remain exact. Current retained1395BASE-TEXTP identifyIMG020Irisletterrepresentation, notactualvisit; correctIMG021fromYunyunguess toAqua/Anna/Chomusuke/Zel andwithdrawnest/egginference. IMG007quotesjoinC1P365/473/486andC2P7/23;IMG008CecilycrabsI3andAq/YwaterFinal201-236. IMG022Wiz/Vanir/dungeonownerC2P477-487;IMG023DarmorgiftC3P17-27;IMG024Serena/Axisclerics/coercedrecruitmentC4P441-464;IMG025Aq/YnewsFinal87-112,notnewreunion;IMG026MresponseFinal506-514. IMG027depictsactualclosethidingC3P129-145andisnotadditionalfiction. Cover/contents/profile/banners/contributorbiographies/NEXTstayseparate; noinvokedextraevent, completedsexualact, unlimitedability, missingproviderorpermission. IMG004pre-sealleft/rightmagnifications givezeroextraassetcredit."
+    },
+    {
+      "image_id": "MAIN-16-IMG003",
+      "member": "item/image/titlepage.jpg",
+      "sha256": "f1d7e49cd3c6c31d8fd1aca57f763ea102584042dc43504967d7567fff9cf427",
+      "bytes": 87322,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-16",
+        "image_id": "MAIN-16-IMG003",
+        "native_image_member": "item/image/titlepage.jpg",
+        "native_image_sha256": "f1d7e49cd3c6c31d8fd1aca57f763ea102584042dc43504967d7567fff9cf427",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T20:42:34.860515+00:00",
+        "source_first_notes": "Rastertitlepageactuallyread:『この素晴らしい世界に祝福を！16脱走女神、ゴーホーム！』author暁なつめ,角川スニーカー文庫,identifier21741. Textualeditionwrapper,nofictionalaction.",
+        "reading_scope_and_limit": "Completeoriginal-resolutiontitle/imprintread; not an extra narrativebody.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original uncoded notes/seal remain exact. Current retained1395BASE-TEXTP identifyIMG020Irisletterrepresentation, notactualvisit; correctIMG021fromYunyunguess toAqua/Anna/Chomusuke/Zel andwithdrawnest/egginference. IMG007quotesjoinC1P365/473/486andC2P7/23;IMG008CecilycrabsI3andAq/YwaterFinal201-236. IMG022Wiz/Vanir/dungeonownerC2P477-487;IMG023DarmorgiftC3P17-27;IMG024Serena/Axisclerics/coercedrecruitmentC4P441-464;IMG025Aq/YnewsFinal87-112,notnewreunion;IMG026MresponseFinal506-514. IMG027depictsactualclosethidingC3P129-145andisnotadditionalfiction. Cover/contents/profile/banners/contributorbiographies/NEXTstayseparate; noinvokedextraevent, completedsexualact, unlimitedability, missingproviderorpermission. IMG004pre-sealleft/rightmagnifications givezeroextraassetcredit."
+    },
+    {
+      "image_id": "MAIN-16-IMG004",
+      "member": "item/image/allcover-001.jpg",
+      "sha256": "84a1f954b7c4916268a27b6381adbe14480c9e3a43ae534679d5723c6bc2c2b5",
+      "bytes": 426607,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-16",
+        "image_id": "MAIN-16-IMG004",
+        "native_image_member": "item/image/allcover-001.jpg",
+        "native_image_sha256": "84a1f954b7c4916268a27b6381adbe14480c9e3a43ae534679d5723c6bc2c2b5",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T20:42:35.052558+00:00",
+        "source_first_notes": "Fullwrapactuallyviewedpluspre-sealleft/right3Xsource-pixelreadingmagnifications. Bios: authorFukui/Echizen/novelist,reportedartist-parent/drawingrequest/raccoon-versus-catself-mockanecdote; illustratorSaitama/white-haired-characterpreference andKazumamaincoverat16(?)withhistoricalmoviecomment. BlurbquotessearchPS/reportsAqdepartureafterSerena, Klevel1excuse/companionfrogouting/newpowerup/pursuitpitch. Cover/spine16/title/credits三嶋くろね,design百足屋ユウコ＋モンマ蚕（ムシカゴグラフィクス）. Marketing/biosarenotnewcanonicalacts.",
+        "reading_scope_and_limit": "Wholeoriginalassetandbothboundedmagnificationsactuallyreceivedbeforeuncodedseal;0extraasset/eventcredit. Contributoranecdotesattributed, notskillgranttofictionalactors; blurbdoesnotgivefreshprincipalpassorcompletedcampaign.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original uncoded notes/seal remain exact. Current retained1395BASE-TEXTP identifyIMG020Irisletterrepresentation, notactualvisit; correctIMG021fromYunyunguess toAqua/Anna/Chomusuke/Zel andwithdrawnest/egginference. IMG007quotesjoinC1P365/473/486andC2P7/23;IMG008CecilycrabsI3andAq/YwaterFinal201-236. IMG022Wiz/Vanir/dungeonownerC2P477-487;IMG023DarmorgiftC3P17-27;IMG024Serena/Axisclerics/coercedrecruitmentC4P441-464;IMG025Aq/YnewsFinal87-112,notnewreunion;IMG026MresponseFinal506-514. IMG027depictsactualclosethidingC3P129-145andisnotadditionalfiction. Cover/contents/profile/banners/contributorbiographies/NEXTstayseparate; noinvokedextraevent, completedsexualact, unlimitedability, missingproviderorpermission. IMG004pre-sealleft/rightmagnifications givezeroextraassetcredit."
+    },
+    {
+      "image_id": "MAIN-16-IMG005",
+      "member": "item/image/kuchie-001.jpg",
+      "sha256": "9f01334fd61098396166d593c390969b0e989d42503ffd999b5aa9ef75d22ffd",
+      "bytes": 610478,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-16",
+        "image_id": "MAIN-16-IMG005",
+        "native_image_member": "item/image/kuchie-001.jpg",
+        "native_image_sha256": "9f01334fd61098396166d593c390969b0e989d42503ffd999b5aa9ef75d22ffd",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T20:42:34.814121+00:00",
+        "source_first_notes": "Original-resolution frontmattercrop repeats Kazuma's smiling coverpose/cloak/sword andtitle16/subtitle; same composition asIMG001,not anew action orcastmember.",
+        "reading_scope_and_limit": "Full nativeasset andlegibletext received; repeatedcovercrop is a distinct viewedassetwithzeroextraeventcredit.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original uncoded notes/seal remain exact. Current retained1395BASE-TEXTP identifyIMG020Irisletterrepresentation, notactualvisit; correctIMG021fromYunyunguess toAqua/Anna/Chomusuke/Zel andwithdrawnest/egginference. IMG007quotesjoinC1P365/473/486andC2P7/23;IMG008CecilycrabsI3andAq/YwaterFinal201-236. IMG022Wiz/Vanir/dungeonownerC2P477-487;IMG023DarmorgiftC3P17-27;IMG024Serena/Axisclerics/coercedrecruitmentC4P441-464;IMG025Aq/YnewsFinal87-112,notnewreunion;IMG026MresponseFinal506-514. IMG027depictsactualclosethidingC3P129-145andisnotadditionalfiction. Cover/contents/profile/banners/contributorbiographies/NEXTstayseparate; noinvokedextraevent, completedsexualact, unlimitedability, missingproviderorpermission. IMG004pre-sealleft/rightmagnifications givezeroextraassetcredit."
+    },
+    {
+      "image_id": "MAIN-16-IMG006",
+      "member": "item/image/kuchie-002.jpg",
+      "sha256": "f4d4d60e8a40f28506e08168e094d7bd3b7cedcffa8027ac70e149e14cc1721e",
+      "bytes": 754425,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-16",
+        "image_id": "MAIN-16-IMG006",
+        "native_image_member": "item/image/kuchie-002.jpg",
+        "native_image_sha256": "f4d4d60e8a40f28506e08168e094d7bd3b7cedcffa8027ac70e149e14cc1721e",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T20:42:34.826081+00:00",
+        "source_first_notes": "Actual visualcontents viewed/read: Megumin/Kazumachibis, Aqua-cat-in-box search-requestsign, title16/subtitle; chapter/interlude/epilogue/afterwordprintedpages3/52/57/111/115/161/165/212/216/264/267. Credits三嶋くろね;百足屋ユウコ＋モンマ蚕（ムシカゴグラフィクス）. Note/searchimageiscomposedTOCart,notauthenticatednewletter/event.",
+        "reading_scope_and_limit": "Full nativeimage andlegiblecontents/credits read. Tinyboxed-signsignature notusedfornew exactvoiceanchor. Decorativechibis/paratext framing, noindependentcanonicaltest.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original uncoded notes/seal remain exact. Current retained1395BASE-TEXTP identifyIMG020Irisletterrepresentation, notactualvisit; correctIMG021fromYunyunguess toAqua/Anna/Chomusuke/Zel andwithdrawnest/egginference. IMG007quotesjoinC1P365/473/486andC2P7/23;IMG008CecilycrabsI3andAq/YwaterFinal201-236. IMG022Wiz/Vanir/dungeonownerC2P477-487;IMG023DarmorgiftC3P17-27;IMG024Serena/Axisclerics/coercedrecruitmentC4P441-464;IMG025Aq/YnewsFinal87-112,notnewreunion;IMG026MresponseFinal506-514. IMG027depictsactualclosethidingC3P129-145andisnotadditionalfiction. Cover/contents/profile/banners/contributorbiographies/NEXTstayseparate; noinvokedextraevent, completedsexualact, unlimitedability, missingproviderorpermission. IMG004pre-sealleft/rightmagnifications givezeroextraassetcredit."
+    },
+    {
+      "image_id": "MAIN-16-IMG007",
+      "member": "item/image/kuchie-003.jpg",
+      "sha256": "bc95337dedd20cfa020d913b40914e573336c663e28d290d5dc63aa1f4916be0",
+      "bytes": 870323,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-16",
+        "image_id": "MAIN-16-IMG007",
+        "native_image_member": "item/image/kuchie-003.jpg",
+        "native_image_sha256": "bc95337dedd20cfa020d913b40914e573336c663e28d290d5dc63aa1f4916be0",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T20:42:34.838025+00:00",
+        "source_first_notes": "Fullcolor montage viewed/read, explicitlabelsウィズ/バニル/カズマ/めぐみん/ダクネス. Wizenthusiasticquote;Vanirlaugh/pathclearing;K『俺の時代が来たかもしれない』;M『しょ、正気ですかカズマ……！』;DwarnsAqabsent/deathmayendit. Posedartwithretainedmainquotationanchorsnotyetcurrentlybackjoined; nofresh event frommontage.",
+        "reading_scope_and_limit": "AlllargelegibleJapanesequotes/namesreadatnativeoriginal. Exactcontext/modifiedprefixes requireacceptednativeprecision later; expression/posecannot supplyunshownagency/safety/consent.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original uncoded notes/seal remain exact. Current retained1395BASE-TEXTP identifyIMG020Irisletterrepresentation, notactualvisit; correctIMG021fromYunyunguess toAqua/Anna/Chomusuke/Zel andwithdrawnest/egginference. IMG007quotesjoinC1P365/473/486andC2P7/23;IMG008CecilycrabsI3andAq/YwaterFinal201-236. IMG022Wiz/Vanir/dungeonownerC2P477-487;IMG023DarmorgiftC3P17-27;IMG024Serena/Axisclerics/coercedrecruitmentC4P441-464;IMG025Aq/YnewsFinal87-112,notnewreunion;IMG026MresponseFinal506-514. IMG027depictsactualclosethidingC3P129-145andisnotadditionalfiction. Cover/contents/profile/banners/contributorbiographies/NEXTstayseparate; noinvokedextraevent, completedsexualact, unlimitedability, missingproviderorpermission. IMG004pre-sealleft/rightmagnifications givezeroextraassetcredit."
+    },
+    {
+      "image_id": "MAIN-16-IMG008",
+      "member": "item/image/kuchie-004.jpg",
+      "sha256": "cfbf449460d22a480b5fa004369dbd9d2ef037bf040e12e0a91b7ed37a729676",
+      "bytes": 974705,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-16",
+        "image_id": "MAIN-16-IMG008",
+        "native_image_member": "item/image/kuchie-004.jpg",
+        "native_image_sha256": "cfbf449460d22a480b5fa004369dbd9d2ef037bf040e12e0a91b7ed37a729676",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T20:42:34.850555+00:00",
+        "source_first_notes": "Actualcolor montage viewed/read: explicitゆんゆん/セシリー/アクア labels; largeAqdistressedcallforKazuma, otherAqvignettes/spiraleyes/tears, Yunyunleft andCecilynunrightwithmanyredcrabs. Multiplecomposedviewsarenotautomaticallyoneevent; retainedinterludejoinsstillneeded.",
+        "reading_scope_and_limit": "Fullnativeimageandlargelegiblelabels/cryread. No unseen injury, actualmagicalmechanism, recipientconsent or performedrescue from art alone; dependent main-event montage.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original uncoded notes/seal remain exact. Current retained1395BASE-TEXTP identifyIMG020Irisletterrepresentation, notactualvisit; correctIMG021fromYunyunguess toAqua/Anna/Chomusuke/Zel andwithdrawnest/egginference. IMG007quotesjoinC1P365/473/486andC2P7/23;IMG008CecilycrabsI3andAq/YwaterFinal201-236. IMG022Wiz/Vanir/dungeonownerC2P477-487;IMG023DarmorgiftC3P17-27;IMG024Serena/Axisclerics/coercedrecruitmentC4P441-464;IMG025Aq/YnewsFinal87-112,notnewreunion;IMG026MresponseFinal506-514. IMG027depictsactualclosethidingC3P129-145andisnotadditionalfiction. Cover/contents/profile/banners/contributorbiographies/NEXTstayseparate; noinvokedextraevent, completedsexualact, unlimitedability, missingproviderorpermission. IMG004pre-sealleft/rightmagnifications givezeroextraassetcredit."
+    },
+    {
+      "image_id": "MAIN-16-IMG009",
+      "member": "item/image/m001.jpg",
+      "sha256": "23e57f46b5bdc4e61efc6a10c2dcca2014c4a3814b460a0fd30ca6b5dc9f4d55",
+      "bytes": 77503,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-16",
+        "image_id": "MAIN-16-IMG009",
+        "native_image_member": "item/image/m001.jpg",
+        "native_image_sha256": "23e57f46b5bdc4e61efc6a10c2dcca2014c4a3814b460a0fd30ca6b5dc9f4d55",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T20:42:34.879617+00:00",
+        "source_first_notes": "Chapter1rasterbanneractuallyviewed/read『この家出女神の捜索を！』withAqua-cat-in-boxsearchsign『探して下さい。』andtinysignature. Samecomposedchibiascontents, notactualcattransformation/letter/independentaction.",
+        "reading_scope_and_limit": "Fullnarrowbanneroriginalpixels/legibletitle/signread; decorativeframingofacceptedC1,notnewprincipalbodycredit.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original uncoded notes/seal remain exact. Current retained1395BASE-TEXTP identifyIMG020Irisletterrepresentation, notactualvisit; correctIMG021fromYunyunguess toAqua/Anna/Chomusuke/Zel andwithdrawnest/egginference. IMG007quotesjoinC1P365/473/486andC2P7/23;IMG008CecilycrabsI3andAq/YwaterFinal201-236. IMG022Wiz/Vanir/dungeonownerC2P477-487;IMG023DarmorgiftC3P17-27;IMG024Serena/Axisclerics/coercedrecruitmentC4P441-464;IMG025Aq/YnewsFinal87-112,notnewreunion;IMG026MresponseFinal506-514. IMG027depictsactualclosethidingC3P129-145andisnotadditionalfiction. Cover/contents/profile/banners/contributorbiographies/NEXTstayseparate; noinvokedextraevent, completedsexualact, unlimitedability, missingproviderorpermission. IMG004pre-sealleft/rightmagnifications givezeroextraassetcredit."
+    },
+    {
+      "image_id": "MAIN-16-IMG010",
+      "member": "item/image/m002.jpg",
+      "sha256": "015f5f2f6042f011772532f8711ba21791df7bf49cd601a3baac91f13f59273e",
+      "bytes": 48706,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-16",
+        "image_id": "MAIN-16-IMG010",
+        "native_image_member": "item/image/m002.jpg",
+        "native_image_sha256": "015f5f2f6042f011772532f8711ba21791df7bf49cd601a3baac91f13f59273e",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T20:42:34.899591+00:00",
+        "source_first_notes": "Interlude1narrowrasterbanneractuallyread『駄女神劇場①』withsmilingAquadoll/chibiandasmallheldlightobject. Objectfunctionnotcertifiedfromtinyshape.",
+        "reading_scope_and_limit": "Fullnativebanner/titleviewed; decorativeaccepted-interludeframing, no extratravel/meal/event ornewprincipalpasscredit.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original uncoded notes/seal remain exact. Current retained1395BASE-TEXTP identifyIMG020Irisletterrepresentation, notactualvisit; correctIMG021fromYunyunguess toAqua/Anna/Chomusuke/Zel andwithdrawnest/egginference. IMG007quotesjoinC1P365/473/486andC2P7/23;IMG008CecilycrabsI3andAq/YwaterFinal201-236. IMG022Wiz/Vanir/dungeonownerC2P477-487;IMG023DarmorgiftC3P17-27;IMG024Serena/Axisclerics/coercedrecruitmentC4P441-464;IMG025Aq/YnewsFinal87-112,notnewreunion;IMG026MresponseFinal506-514. IMG027depictsactualclosethidingC3P129-145andisnotadditionalfiction. Cover/contents/profile/banners/contributorbiographies/NEXTstayseparate; noinvokedextraevent, completedsexualact, unlimitedability, missingproviderorpermission. IMG004pre-sealleft/rightmagnifications givezeroextraassetcredit."
+    },
+    {
+      "image_id": "MAIN-16-IMG011",
+      "member": "item/image/m003.jpg",
+      "sha256": "f4faa675c92a9a1e52ba0d31894b3bfd44d47bc4ff763766cea9e4c98468b66d",
+      "bytes": 79978,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-16",
+        "image_id": "MAIN-16-IMG011",
+        "native_image_member": "item/image/m003.jpg",
+        "native_image_sha256": "f4faa675c92a9a1e52ba0d31894b3bfd44d47bc4ff763766cea9e4c98468b66d",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T20:42:34.918019+00:00",
+        "source_first_notes": "Chapter2bannerread『この不死の王にダンジョンを！』withWiz-designchibi,closedeyes/handsbyface. Decorativeacceptedchapterframe,notaspell/individualnewchoice.",
+        "reading_scope_and_limit": "Completeoriginalnarrowassetandtitleactuallyviewed; characterpose doesnot establish invocation,fulfillmentornewprincipalreadingcredit.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original uncoded notes/seal remain exact. Current retained1395BASE-TEXTP identifyIMG020Irisletterrepresentation, notactualvisit; correctIMG021fromYunyunguess toAqua/Anna/Chomusuke/Zel andwithdrawnest/egginference. IMG007quotesjoinC1P365/473/486andC2P7/23;IMG008CecilycrabsI3andAq/YwaterFinal201-236. IMG022Wiz/Vanir/dungeonownerC2P477-487;IMG023DarmorgiftC3P17-27;IMG024Serena/Axisclerics/coercedrecruitmentC4P441-464;IMG025Aq/YnewsFinal87-112,notnewreunion;IMG026MresponseFinal506-514. IMG027depictsactualclosethidingC3P129-145andisnotadditionalfiction. Cover/contents/profile/banners/contributorbiographies/NEXTstayseparate; noinvokedextraevent, completedsexualact, unlimitedability, missingproviderorpermission. IMG004pre-sealleft/rightmagnifications givezeroextraassetcredit."
+    },
+    {
+      "image_id": "MAIN-16-IMG012",
+      "member": "item/image/m004.jpg",
+      "sha256": "df9558a381ba5d5007befb14eafa6f1f24365ed6020199b94ad31e3388b590b1",
+      "bytes": 48501,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-16",
+        "image_id": "MAIN-16-IMG012",
+        "native_image_member": "item/image/m004.jpg",
+        "native_image_sha256": "df9558a381ba5d5007befb14eafa6f1f24365ed6020199b94ad31e3388b590b1",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T20:42:34.936466+00:00",
+        "source_first_notes": "CompleteInterlude2bannerread『駄女神劇場②』, repeatedsmilingAqua-designchibiwithsmalllightheldobject, dependentdecorativeasset.",
+        "reading_scope_and_limit": "Alltitle/artactuallyviewedatnativeoriginal; tinyobjectnotassignedunprovedrole, no extrameal/travel/newprincipalpass.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original uncoded notes/seal remain exact. Current retained1395BASE-TEXTP identifyIMG020Irisletterrepresentation, notactualvisit; correctIMG021fromYunyunguess toAqua/Anna/Chomusuke/Zel andwithdrawnest/egginference. IMG007quotesjoinC1P365/473/486andC2P7/23;IMG008CecilycrabsI3andAq/YwaterFinal201-236. IMG022Wiz/Vanir/dungeonownerC2P477-487;IMG023DarmorgiftC3P17-27;IMG024Serena/Axisclerics/coercedrecruitmentC4P441-464;IMG025Aq/YnewsFinal87-112,notnewreunion;IMG026MresponseFinal506-514. IMG027depictsactualclosethidingC3P129-145andisnotadditionalfiction. Cover/contents/profile/banners/contributorbiographies/NEXTstayseparate; noinvokedextraevent, completedsexualact, unlimitedability, missingproviderorpermission. IMG004pre-sealleft/rightmagnifications givezeroextraassetcredit."
+    },
+    {
+      "image_id": "MAIN-16-IMG013",
+      "member": "item/image/m005.jpg",
+      "sha256": "247f282fc3ffb57a8629a16ce4b747cdb83a52809046eace448179a7b9a64361",
+      "bytes": 73318,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-16",
+        "image_id": "MAIN-16-IMG013",
+        "native_image_member": "item/image/m005.jpg",
+        "native_image_sha256": "247f282fc3ffb57a8629a16ce4b747cdb83a52809046eace448179a7b9a64361",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T20:42:34.946566+00:00",
+        "source_first_notes": "CompleteChapter3bannerread『この引きニートに今こそチートを！』withMegumin-designchibi/handbymouth/concerntypeexpression, dependentchapterframing.",
+        "reading_scope_and_limit": "Nativefullasset/titleactuallyviewed; no freshspeech,abilitygrantoractionfrompose.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original uncoded notes/seal remain exact. Current retained1395BASE-TEXTP identifyIMG020Irisletterrepresentation, notactualvisit; correctIMG021fromYunyunguess toAqua/Anna/Chomusuke/Zel andwithdrawnest/egginference. IMG007quotesjoinC1P365/473/486andC2P7/23;IMG008CecilycrabsI3andAq/YwaterFinal201-236. IMG022Wiz/Vanir/dungeonownerC2P477-487;IMG023DarmorgiftC3P17-27;IMG024Serena/Axisclerics/coercedrecruitmentC4P441-464;IMG025Aq/YnewsFinal87-112,notnewreunion;IMG026MresponseFinal506-514. IMG027depictsactualclosethidingC3P129-145andisnotadditionalfiction. Cover/contents/profile/banners/contributorbiographies/NEXTstayseparate; noinvokedextraevent, completedsexualact, unlimitedability, missingproviderorpermission. IMG004pre-sealleft/rightmagnifications givezeroextraassetcredit."
+    },
+    {
+      "image_id": "MAIN-16-IMG014",
+      "member": "item/image/m006.jpg",
+      "sha256": "e26ebf231aef75df21e4d8c272f0140c59761cf7a609edb8c5c6c211fc57ed6c",
+      "bytes": 48635,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-16",
+        "image_id": "MAIN-16-IMG014",
+        "native_image_member": "item/image/m006.jpg",
+        "native_image_sha256": "e26ebf231aef75df21e4d8c272f0140c59761cf7a609edb8c5c6c211fc57ed6c",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T20:42:34.965483+00:00",
+        "source_first_notes": "CompleteInterlude3bannerread『駄女神劇場③』withrepeatedsmilingAqua-designchibi/smallheldobject; sameframingmotifaspriorinterludes.",
+        "reading_scope_and_limit": "Fullnativeasset/titleviewed; repeatedmotifdoesnotmultiplynarrativeevent,mealortravelcredit.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original uncoded notes/seal remain exact. Current retained1395BASE-TEXTP identifyIMG020Irisletterrepresentation, notactualvisit; correctIMG021fromYunyunguess toAqua/Anna/Chomusuke/Zel andwithdrawnest/egginference. IMG007quotesjoinC1P365/473/486andC2P7/23;IMG008CecilycrabsI3andAq/YwaterFinal201-236. IMG022Wiz/Vanir/dungeonownerC2P477-487;IMG023DarmorgiftC3P17-27;IMG024Serena/Axisclerics/coercedrecruitmentC4P441-464;IMG025Aq/YnewsFinal87-112,notnewreunion;IMG026MresponseFinal506-514. IMG027depictsactualclosethidingC3P129-145andisnotadditionalfiction. Cover/contents/profile/banners/contributorbiographies/NEXTstayseparate; noinvokedextraevent, completedsexualact, unlimitedability, missingproviderorpermission. IMG004pre-sealleft/rightmagnifications givezeroextraassetcredit."
+    },
+    {
+      "image_id": "MAIN-16-IMG015",
+      "member": "item/image/m007.jpg",
+      "sha256": "1564f88f7b492f67d5d869a1ad213f60d715c3da00367314b12c554c4fe12b39",
+      "bytes": 73230,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-16",
+        "image_id": "MAIN-16-IMG015",
+        "native_image_member": "item/image/m007.jpg",
+        "native_image_sha256": "1564f88f7b492f67d5d869a1ad213f60d715c3da00367314b12c554c4fe12b39",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T20:42:34.973953+00:00",
+        "source_first_notes": "CompleteChapter4bannerread『この邪神の使徒と決着を！』withself-satisfiedKazumachibi/sparkles. Decorativeacceptedchapterframe,nodirectnewtacticorsuccessfrompose.",
+        "reading_scope_and_limit": "Fullnativeimage/titleactuallyviewed; not anewprincipalreadingorbehavioraltrial.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original uncoded notes/seal remain exact. Current retained1395BASE-TEXTP identifyIMG020Irisletterrepresentation, notactualvisit; correctIMG021fromYunyunguess toAqua/Anna/Chomusuke/Zel andwithdrawnest/egginference. IMG007quotesjoinC1P365/473/486andC2P7/23;IMG008CecilycrabsI3andAq/YwaterFinal201-236. IMG022Wiz/Vanir/dungeonownerC2P477-487;IMG023DarmorgiftC3P17-27;IMG024Serena/Axisclerics/coercedrecruitmentC4P441-464;IMG025Aq/YnewsFinal87-112,notnewreunion;IMG026MresponseFinal506-514. IMG027depictsactualclosethidingC3P129-145andisnotadditionalfiction. Cover/contents/profile/banners/contributorbiographies/NEXTstayseparate; noinvokedextraevent, completedsexualact, unlimitedability, missingproviderorpermission. IMG004pre-sealleft/rightmagnifications givezeroextraassetcredit."
+    },
+    {
+      "image_id": "MAIN-16-IMG016",
+      "member": "item/image/m008.jpg",
+      "sha256": "ec0be2731d63337600e6d166bd8affb0b415fb89100d2547b005aef5137e5c34",
+      "bytes": 48856,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-16",
+        "image_id": "MAIN-16-IMG016",
+        "native_image_member": "item/image/m008.jpg",
+        "native_image_sha256": "ec0be2731d63337600e6d166bd8affb0b415fb89100d2547b005aef5137e5c34",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T20:42:34.992585+00:00",
+        "source_first_notes": "CompleteInterlude4bannerread『駄女神劇場④』withrepeatedAquadoll/chibi/lightheldobject; sameframingfamily, distinctnativeasset.",
+        "reading_scope_and_limit": "Fullnativeasset/titleactuallyviewed; no extra narrativeeventornewprincipalpass.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original uncoded notes/seal remain exact. Current retained1395BASE-TEXTP identifyIMG020Irisletterrepresentation, notactualvisit; correctIMG021fromYunyunguess toAqua/Anna/Chomusuke/Zel andwithdrawnest/egginference. IMG007quotesjoinC1P365/473/486andC2P7/23;IMG008CecilycrabsI3andAq/YwaterFinal201-236. IMG022Wiz/Vanir/dungeonownerC2P477-487;IMG023DarmorgiftC3P17-27;IMG024Serena/Axisclerics/coercedrecruitmentC4P441-464;IMG025Aq/YnewsFinal87-112,notnewreunion;IMG026MresponseFinal506-514. IMG027depictsactualclosethidingC3P129-145andisnotadditionalfiction. Cover/contents/profile/banners/contributorbiographies/NEXTstayseparate; noinvokedextraevent, completedsexualact, unlimitedability, missingproviderorpermission. IMG004pre-sealleft/rightmagnifications givezeroextraassetcredit."
+    },
+    {
+      "image_id": "MAIN-16-IMG017",
+      "member": "item/image/m009.jpg",
+      "sha256": "1d5dc9b68eb32dc9d14e276f1bd4bc7e7dbf1355c1a503c75afaaf3a24e126d0",
+      "bytes": 73264,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-16",
+        "image_id": "MAIN-16-IMG017",
+        "native_image_member": "item/image/m009.jpg",
+        "native_image_sha256": "1d5dc9b68eb32dc9d14e276f1bd4bc7e7dbf1355c1a503c75afaaf3a24e126d0",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T20:42:35.001068+00:00",
+        "source_first_notes": "Completefinalchapterbannerread『この旅路に終止符を！』withrepeatedMegumin-designconcernchibi. Decorativeframing,nodirectnewchoice.",
+        "reading_scope_and_limit": "Fullnativeimage/titleviewed; dependentacceptednarrativeframe.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original uncoded notes/seal remain exact. Current retained1395BASE-TEXTP identifyIMG020Irisletterrepresentation, notactualvisit; correctIMG021fromYunyunguess toAqua/Anna/Chomusuke/Zel andwithdrawnest/egginference. IMG007quotesjoinC1P365/473/486andC2P7/23;IMG008CecilycrabsI3andAq/YwaterFinal201-236. IMG022Wiz/Vanir/dungeonownerC2P477-487;IMG023DarmorgiftC3P17-27;IMG024Serena/Axisclerics/coercedrecruitmentC4P441-464;IMG025Aq/YnewsFinal87-112,notnewreunion;IMG026MresponseFinal506-514. IMG027depictsactualclosethidingC3P129-145andisnotadditionalfiction. Cover/contents/profile/banners/contributorbiographies/NEXTstayseparate; noinvokedextraevent, completedsexualact, unlimitedability, missingproviderorpermission. IMG004pre-sealleft/rightmagnifications givezeroextraassetcredit."
+    },
+    {
+      "image_id": "MAIN-16-IMG018",
+      "member": "item/image/m010.jpg",
+      "sha256": "78f6bdd918d66d4b5a5c73fd6aaf9eab520f65ea5e634a45c72cea6d3ff9ad6d",
+      "bytes": 61697,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-16",
+        "image_id": "MAIN-16-IMG018",
+        "native_image_member": "item/image/m010.jpg",
+        "native_image_sha256": "78f6bdd918d66d4b5a5c73fd6aaf9eab520f65ea5e634a45c72cea6d3ff9ad6d",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T20:42:35.028148+00:00",
+        "source_first_notes": "Completeepiloguebannerread『エピローグ』withMegumin-designwinking/smilingchibi/raisedhands, distinctfromearlierworriedpose. Decorativeframing.",
+        "reading_scope_and_limit": "Fullnativeasset/titleviewed; no extraneousspokenlineorfulfilledpromiseinferred.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original uncoded notes/seal remain exact. Current retained1395BASE-TEXTP identifyIMG020Irisletterrepresentation, notactualvisit; correctIMG021fromYunyunguess toAqua/Anna/Chomusuke/Zel andwithdrawnest/egginference. IMG007quotesjoinC1P365/473/486andC2P7/23;IMG008CecilycrabsI3andAq/YwaterFinal201-236. IMG022Wiz/Vanir/dungeonownerC2P477-487;IMG023DarmorgiftC3P17-27;IMG024Serena/Axisclerics/coercedrecruitmentC4P441-464;IMG025Aq/YnewsFinal87-112,notnewreunion;IMG026MresponseFinal506-514. IMG027depictsactualclosethidingC3P129-145andisnotadditionalfiction. Cover/contents/profile/banners/contributorbiographies/NEXTstayseparate; noinvokedextraevent, completedsexualact, unlimitedability, missingproviderorpermission. IMG004pre-sealleft/rightmagnifications givezeroextraassetcredit."
+    },
+    {
+      "image_id": "MAIN-16-IMG019",
+      "member": "item/image/p002.jpg",
+      "sha256": "1d4bf461d667db2817ab9d8e177f8a3b8ce7a60f475693b2300b079e8c7ec9f8",
+      "bytes": 479816,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-16",
+        "image_id": "MAIN-16-IMG019",
+        "native_image_member": "item/image/p002.jpg",
+        "native_image_sha256": "1d4bf461d667db2817ab9d8e177f8a3b8ce7a60f475693b2300b079e8c7ec9f8",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T20:42:34.870630+00:00",
+        "source_first_notes": "Completeeditorialprofileviewed/read: Kazumaadventurer/NEET/luck, Aquawatergoddess/partytricks/uncontrollableclaim, Darknessdefensiveknight/noble, MeguminCrimsonprodigy/Explosion-onlyinterest, VanirageunknownbigdevilhelpingWizshop, Wizshopowner/peacefullich; ChomusukeandZelseparatelylabeled. Exaggeratedcapsulesareeditorialcharacterization,notnewenactedeventsoruniversalcaps.",
+        "reading_scope_and_limit": "Alllegibleprofiletextactuallyread. Posedartandabsoluteeditorialphrasingcannotoverrideacceptedcompetence,choice,costorconsent; no newtest.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original uncoded notes/seal remain exact. Current retained1395BASE-TEXTP identifyIMG020Irisletterrepresentation, notactualvisit; correctIMG021fromYunyunguess toAqua/Anna/Chomusuke/Zel andwithdrawnest/egginference. IMG007quotesjoinC1P365/473/486andC2P7/23;IMG008CecilycrabsI3andAq/YwaterFinal201-236. IMG022Wiz/Vanir/dungeonownerC2P477-487;IMG023DarmorgiftC3P17-27;IMG024Serena/Axisclerics/coercedrecruitmentC4P441-464;IMG025Aq/YnewsFinal87-112,notnewreunion;IMG026MresponseFinal506-514. IMG027depictsactualclosethidingC3P129-145andisnotadditionalfiction. Cover/contents/profile/banners/contributorbiographies/NEXTstayseparate; noinvokedextraevent, completedsexualact, unlimitedability, missingproviderorpermission. IMG004pre-sealleft/rightmagnifications givezeroextraassetcredit."
+    },
+    {
+      "image_id": "MAIN-16-IMG020",
+      "member": "item/image/p033.jpg",
+      "sha256": "4324ef6b2f65d44800d7c2968738f08994567303cc7288a205934ecb28381257",
+      "bytes": 422708,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-16",
+        "image_id": "MAIN-16-IMG020",
+        "native_image_member": "item/image/p033.jpg",
+        "native_image_sha256": "4324ef6b2f65d44800d7c2968738f08994567303cc7288a205934ecb28381257",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T20:42:34.890619+00:00",
+        "source_first_notes": "ActualB/Willustration: foregroundKazumaalarmed/sweatingwithhandtohead; behindhimsmilinglight-hairedgirlwithhairornament/claspedhands; lowerrightDarknesschibiholdsasheetandMeguminpeeksbehind. Girlidentity/imagined-versusactualplaneandlettercontextnotsettledfromartalone; acceptedC1backjoinneeded.",
+        "reading_scope_and_limit": "Completeoriginal-resolutionartviewed. No claimthatgirlisIris/Eris/Darknessoraseparatelypresentvisitor; no newlettertext/choice from blank sheet orpose.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original uncoded notes/seal remain exact. Current retained1395BASE-TEXTP identifyIMG020Irisletterrepresentation, notactualvisit; correctIMG021fromYunyunguess toAqua/Anna/Chomusuke/Zel andwithdrawnest/egginference. IMG007quotesjoinC1P365/473/486andC2P7/23;IMG008CecilycrabsI3andAq/YwaterFinal201-236. IMG022Wiz/Vanir/dungeonownerC2P477-487;IMG023DarmorgiftC3P17-27;IMG024Serena/Axisclerics/coercedrecruitmentC4P441-464;IMG025Aq/YnewsFinal87-112,notnewreunion;IMG026MresponseFinal506-514. IMG027depictsactualclosethidingC3P129-145andisnotadditionalfiction. Cover/contents/profile/banners/contributorbiographies/NEXTstayseparate; noinvokedextraevent, completedsexualact, unlimitedability, missingproviderorpermission. IMG004pre-sealleft/rightmagnifications givezeroextraassetcredit."
+    },
+    {
+      "image_id": "MAIN-16-IMG021",
+      "member": "item/image/p056.jpg",
+      "sha256": "0781dccbdcb84cbdd8dec708d2b757bcd4058389954375bf7c8ee9d94e413e58",
+      "bytes": 444393,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-16",
+        "image_id": "MAIN-16-IMG021",
+        "native_image_member": "item/image/p056.jpg",
+        "native_image_sha256": "0781dccbdcb84cbdd8dec708d2b757bcd4058389954375bf7c8ee9d94e413e58",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T20:42:34.909571+00:00",
+        "source_first_notes": "FullB/Winterludeillustrationviewed: longdark-hairedredrobe-designYunyunlookscontentwithChomusukeonlap; separatebob-hairedlightgirlwithheadband/ribbonatleft; upperinsetwhitechickenandnest/eggs. Leftgirlidentity/actualchickencontextnotsettledfromart, no inferredbirth/hatchedspecies.",
+        "reading_scope_and_limit": "Completeimageactuallyviewed. Identifications beyondclearYunyun/Chomudesign remaintentativeuntilretainedinterludejoin; no duplicateevent, newpermission orcurrentunreadtextcredit.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original uncoded notes/seal remain exact. Current retained1395BASE-TEXTP identifyIMG020Irisletterrepresentation, notactualvisit; correctIMG021fromYunyunguess toAqua/Anna/Chomusuke/Zel andwithdrawnest/egginference. IMG007quotesjoinC1P365/473/486andC2P7/23;IMG008CecilycrabsI3andAq/YwaterFinal201-236. IMG022Wiz/Vanir/dungeonownerC2P477-487;IMG023DarmorgiftC3P17-27;IMG024Serena/Axisclerics/coercedrecruitmentC4P441-464;IMG025Aq/YnewsFinal87-112,notnewreunion;IMG026MresponseFinal506-514. IMG027depictsactualclosethidingC3P129-145andisnotadditionalfiction. Cover/contents/profile/banners/contributorbiographies/NEXTstayseparate; noinvokedextraevent, completedsexualact, unlimitedability, missingproviderorpermission. IMG004pre-sealleft/rightmagnifications givezeroextraassetcredit."
+    },
+    {
+      "image_id": "MAIN-16-IMG022",
+      "member": "item/image/p101.jpg",
+      "sha256": "e6fb4e9a5c9c0533140893947ed30370f710b1553cb1a436b244fdad5bc7a1a1",
+      "bytes": 443100,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-16",
+        "image_id": "MAIN-16-IMG022",
+        "native_image_member": "item/image/p101.jpg",
+        "native_image_sha256": "e6fb4e9a5c9c0533140893947ed30370f710b1553cb1a436b244fdad5bc7a1a1",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T20:42:34.927971+00:00",
+        "source_first_notes": "CompleteB/Willustrationviewed: WizandVanirIIhalfmasksmileoverlowersmallKazuma; Vanir'sopenoutershirtanddarkhatching,Wizteary-smile detail. Expressions/compositionvisible; exactplan/contextnotyetnativebackjoined, no presumednewagreementoruniversalvillainmotivation.",
+        "reading_scope_and_limit": "Fullnativeartviewed non-graphically; no new spell,completedquest,ownership/consent orindependenttrial frompose. RetainedC2authorityunchanged.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original uncoded notes/seal remain exact. Current retained1395BASE-TEXTP identifyIMG020Irisletterrepresentation, notactualvisit; correctIMG021fromYunyunguess toAqua/Anna/Chomusuke/Zel andwithdrawnest/egginference. IMG007quotesjoinC1P365/473/486andC2P7/23;IMG008CecilycrabsI3andAq/YwaterFinal201-236. IMG022Wiz/Vanir/dungeonownerC2P477-487;IMG023DarmorgiftC3P17-27;IMG024Serena/Axisclerics/coercedrecruitmentC4P441-464;IMG025Aq/YnewsFinal87-112,notnewreunion;IMG026MresponseFinal506-514. IMG027depictsactualclosethidingC3P129-145andisnotadditionalfiction. Cover/contents/profile/banners/contributorbiographies/NEXTstayseparate; noinvokedextraevent, completedsexualact, unlimitedability, missingproviderorpermission. IMG004pre-sealleft/rightmagnifications givezeroextraassetcredit."
+    },
+    {
+      "image_id": "MAIN-16-IMG023",
+      "member": "item/image/p117.jpg",
+      "sha256": "b147f7d67f638f681b96c42cee198aaa5d0a6f8ae1596388f6dcea2fdaebaa66",
+      "bytes": 316124,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-16",
+        "image_id": "MAIN-16-IMG023",
+        "native_image_member": "item/image/p117.jpg",
+        "native_image_sha256": "b147f7d67f638f681b96c42cee198aaa5d0a6f8ae1596388f6dcea2fdaebaa66",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T20:42:34.956012+00:00",
+        "source_first_notes": "CompleteB/Wartviewed: armoredDarknesssmiles/blushes,oneglovedhandattheotherwristbeforebricklikebackground. Context/quotedthoughtnotprovidedbyimage; acceptedC3joinneededbeforeattributingplanorfeelingcause.",
+        "reading_scope_and_limit": "Wholeimageactuallyviewed non-graphically. Bodyposecannot supplyunshownpermission,romanticagreement,newtechnicalskillorindependenttrial.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original uncoded notes/seal remain exact. Current retained1395BASE-TEXTP identifyIMG020Irisletterrepresentation, notactualvisit; correctIMG021fromYunyunguess toAqua/Anna/Chomusuke/Zel andwithdrawnest/egginference. IMG007quotesjoinC1P365/473/486andC2P7/23;IMG008CecilycrabsI3andAq/YwaterFinal201-236. IMG022Wiz/Vanir/dungeonownerC2P477-487;IMG023DarmorgiftC3P17-27;IMG024Serena/Axisclerics/coercedrecruitmentC4P441-464;IMG025Aq/YnewsFinal87-112,notnewreunion;IMG026MresponseFinal506-514. IMG027depictsactualclosethidingC3P129-145andisnotadditionalfiction. Cover/contents/profile/banners/contributorbiographies/NEXTstayseparate; noinvokedextraevent, completedsexualact, unlimitedability, missingproviderorpermission. IMG004pre-sealleft/rightmagnifications givezeroextraassetcredit."
+    },
+    {
+      "image_id": "MAIN-16-IMG024",
+      "member": "item/image/p207.jpg",
+      "sha256": "61ed59a21add5d6c51088686eecf43e6a086b780468d2d6bfa934ca85c5987f1",
+      "bytes": 468949,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-16",
+        "image_id": "MAIN-16-IMG024",
+        "native_image_member": "item/image/p207.jpg",
+        "native_image_sha256": "61ed59a21add5d6c51088686eecf43e6a086b780468d2d6bfa934ca85c5987f1",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T20:42:34.982925+00:00",
+        "source_first_notes": "CompleteB/Wmulti-panelartviewed: upperhoodedbob-hairedwomantearful/smiling,candidateSerena butunjoined; middleKazumaconfronts4hoodedclericfigures; lowerclose-upalarmedeye/sweat. Nolegibleindependentdialogue; actoridentities/cause requireacceptedC4backjoin.",
+        "reading_scope_and_limit": "Allpanelsactuallyviewed non-graphically. No newpolice/clericalidentity,permanentconversion,agreementorcompletedharmfromexpressionalone.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original uncoded notes/seal remain exact. Current retained1395BASE-TEXTP identifyIMG020Irisletterrepresentation, notactualvisit; correctIMG021fromYunyunguess toAqua/Anna/Chomusuke/Zel andwithdrawnest/egginference. IMG007quotesjoinC1P365/473/486andC2P7/23;IMG008CecilycrabsI3andAq/YwaterFinal201-236. IMG022Wiz/Vanir/dungeonownerC2P477-487;IMG023DarmorgiftC3P17-27;IMG024Serena/Axisclerics/coercedrecruitmentC4P441-464;IMG025Aq/YnewsFinal87-112,notnewreunion;IMG026MresponseFinal506-514. IMG027depictsactualclosethidingC3P129-145andisnotadditionalfiction. Cover/contents/profile/banners/contributorbiographies/NEXTstayseparate; noinvokedextraevent, completedsexualact, unlimitedability, missingproviderorpermission. IMG004pre-sealleft/rightmagnifications givezeroextraassetcredit."
+    },
+    {
+      "image_id": "MAIN-16-IMG025",
+      "member": "item/image/p224.jpg",
+      "sha256": "1c2ca27a56d3ebea1b50d59db0cd296f2657d1f00ee21652f8275032a496152a",
+      "bytes": 314287,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-16",
+        "image_id": "MAIN-16-IMG025",
+        "native_image_member": "item/image/p224.jpg",
+        "native_image_sha256": "1c2ca27a56d3ebea1b50d59db0cd296f2657d1f00ee21652f8275032a496152a",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T20:42:35.010059+00:00",
+        "source_first_notes": "CompleteB/Wartviewed: Aqua(left,orbponytail)facesdark-hairedCrimsonwoman(candidateYunyun,right,headornament/cape)withsurprisedexpression andpunctuation-shapebubble. Actualdialogue/identity/opportunitynotassumedfrompose; retainedfinalchapterbackjoinneeded.",
+        "reading_scope_and_limit": "Fullnativeimageactuallyviewed; visualdesignidentificationonlyuntilnativejoin, no unseenreactioncause,consent,newSYtrial orsecondevent.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original uncoded notes/seal remain exact. Current retained1395BASE-TEXTP identifyIMG020Irisletterrepresentation, notactualvisit; correctIMG021fromYunyunguess toAqua/Anna/Chomusuke/Zel andwithdrawnest/egginference. IMG007quotesjoinC1P365/473/486andC2P7/23;IMG008CecilycrabsI3andAq/YwaterFinal201-236. IMG022Wiz/Vanir/dungeonownerC2P477-487;IMG023DarmorgiftC3P17-27;IMG024Serena/Axisclerics/coercedrecruitmentC4P441-464;IMG025Aq/YnewsFinal87-112,notnewreunion;IMG026MresponseFinal506-514. IMG027depictsactualclosethidingC3P129-145andisnotadditionalfiction. Cover/contents/profile/banners/contributorbiographies/NEXTstayseparate; noinvokedextraevent, completedsexualact, unlimitedability, missingproviderorpermission. IMG004pre-sealleft/rightmagnifications givezeroextraassetcredit."
+    },
+    {
+      "image_id": "MAIN-16-IMG026",
+      "member": "item/image/p263.jpg",
+      "sha256": "81908c68056adf32dc24a00293f34ce0cf9d0764bbbe9651555b00828f33b15a",
+      "bytes": 269413,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-16",
+        "image_id": "MAIN-16-IMG026",
+        "native_image_member": "item/image/p263.jpg",
+        "native_image_sha256": "81908c68056adf32dc24a00293f34ce0cf9d0764bbbe9651555b00828f33b15a",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T20:42:35.019513+00:00",
+        "source_first_notes": "CompleteB/Wfinalartviewed: largeMegumintearfulsmile/blushinset; smallerKazumaandMeguminmovingtogetherassheclings/holdshisarm,cloakfluttering. Noactualkiss,marriageorpermanentagreementfromimagealone; acceptedfinalchaptercontextneeded.",
+        "reading_scope_and_limit": "Fullnativeimageactuallyviewed non-graphically. Romantic/bodylanguageiscontextualartnotablanketpermission, newlyindependentchoiceornewprincipalpass.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original uncoded notes/seal remain exact. Current retained1395BASE-TEXTP identifyIMG020Irisletterrepresentation, notactualvisit; correctIMG021fromYunyunguess toAqua/Anna/Chomusuke/Zel andwithdrawnest/egginference. IMG007quotesjoinC1P365/473/486andC2P7/23;IMG008CecilycrabsI3andAq/YwaterFinal201-236. IMG022Wiz/Vanir/dungeonownerC2P477-487;IMG023DarmorgiftC3P17-27;IMG024Serena/Axisclerics/coercedrecruitmentC4P441-464;IMG025Aq/YnewsFinal87-112,notnewreunion;IMG026MresponseFinal506-514. IMG027depictsactualclosethidingC3P129-145andisnotadditionalfiction. Cover/contents/profile/banners/contributorbiographies/NEXTstayseparate; noinvokedextraevent, completedsexualact, unlimitedability, missingproviderorpermission. IMG004pre-sealleft/rightmagnifications givezeroextraassetcredit."
+    },
+    {
+      "image_id": "MAIN-16-IMG027",
+      "member": "item/image/p269.jpg",
+      "sha256": "995b088f614a878a4162c10648eac5b850fcfbd2c58893ce51455ec782104a37",
+      "bytes": 278360,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-16",
+        "image_id": "MAIN-16-IMG027",
+        "native_image_member": "item/image/p269.jpg",
+        "native_image_sha256": "995b088f614a878a4162c10648eac5b850fcfbd2c58893ce51455ec782104a37",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T20:42:35.038088+00:00",
+        "source_first_notes": "Illustratorafterwordimageactuallyviewed/read: caption『カズマのクローゼットに隠れるダクネスさん。』, Darknesspeeksfromclosetwithblushing/sweatingexpression,ellipsisandドキeffects;signature/date2019.8. Contributorvignette,actualretainedclosetcontextnotyetbackjoined; noimaginedfurtheract.",
+        "reading_scope_and_limit": "Fullnativeimage/captionactuallyreceived non-graphically. Noactualseduction/assent/completedintimacyorindependentnewbehavioraltrial inferred; ifsameacceptedmainevent, deduplicate.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original uncoded notes/seal remain exact. Current retained1395BASE-TEXTP identifyIMG020Irisletterrepresentation, notactualvisit; correctIMG021fromYunyunguess toAqua/Anna/Chomusuke/Zel andwithdrawnest/egginference. IMG007quotesjoinC1P365/473/486andC2P7/23;IMG008CecilycrabsI3andAq/YwaterFinal201-236. IMG022Wiz/Vanir/dungeonownerC2P477-487;IMG023DarmorgiftC3P17-27;IMG024Serena/Axisclerics/coercedrecruitmentC4P441-464;IMG025Aq/YnewsFinal87-112,notnewreunion;IMG026MresponseFinal506-514. IMG027depictsactualclosethidingC3P129-145andisnotadditionalfiction. Cover/contents/profile/banners/contributorbiographies/NEXTstayseparate; noinvokedextraevent, completedsexualact, unlimitedability, missingproviderorpermission. IMG004pre-sealleft/rightmagnifications givezeroextraassetcredit."
+    },
+    {
+      "image_id": "MAIN-16-IMG028",
+      "member": "item/image/p270.jpg",
+      "sha256": "7ac02aa760c02855566af6bffb4d45ac6845cb443de4ff9dd312aa7c7b3eb83e",
+      "bytes": 384654,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-16",
+        "image_id": "MAIN-16-IMG028",
+        "native_image_member": "item/image/p270.jpg",
+        "native_image_sha256": "7ac02aa760c02855566af6bffb4d45ac6845cb443de4ff9dd312aa7c7b3eb83e",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T20:42:35.047542+00:00",
+        "source_first_notes": "CompleteNEXTpromoscriptread: Kproposesmoney-poweredraid; Dcallshimunfitforwealth; Mclaimsdaytobecome『魔王めぐみん』; DrecallsherpastoppositiontomoneydefeatingDemonKing; Mwon'tlookback; Kproposesbanknotehit/burncastle; Aqcatboxaskswhetherforgotten. Distinctpromotionalstaging,notnewMAIN17body/actualtitle/attack.",
+        "reading_scope_and_limit": "Alllegibledialogue/title/signactuallyread. Futurevolumeunadmitted, banter/claimsnotperformedcampaignorindependentforecastcase; no actualAqcattransformation.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original uncoded notes/seal remain exact. Current retained1395BASE-TEXTP identifyIMG020Irisletterrepresentation, notactualvisit; correctIMG021fromYunyunguess toAqua/Anna/Chomusuke/Zel andwithdrawnest/egginference. IMG007quotesjoinC1P365/473/486andC2P7/23;IMG008CecilycrabsI3andAq/YwaterFinal201-236. IMG022Wiz/Vanir/dungeonownerC2P477-487;IMG023DarmorgiftC3P17-27;IMG024Serena/Axisclerics/coercedrecruitmentC4P441-464;IMG025Aq/YnewsFinal87-112,notnewreunion;IMG026MresponseFinal506-514. IMG027depictsactualclosethidingC3P129-145andisnotadditionalfiction. Cover/contents/profile/banners/contributorbiographies/NEXTstayseparate; noinvokedextraevent, completedsexualact, unlimitedability, missingproviderorpermission. IMG004pre-sealleft/rightmagnifications givezeroextraassetcredit."
+    }
+  ],
+  "new_excluded_text_resources": 18,
+  "new_excluded_P_slots": 121,
+  "retained_principal_members": 10,
+  "retained_principal_P_slots": 2844,
+  "new_principal_reading_credit": 0,
+  "bonus_narrative": {
+    "id": "MAIN16-BONUS-AXEL-LOCAL-GODDESS",
+    "title": "アクセルの街の名物女神",
+    "component_id": "MAIN-16-U023",
+    "native_member": "item/xhtml/p-015.xhtml",
+    "paragraph_slots": 60,
+    "narrator": "Kazuma first-person whileAqua absent; exact retained-subchapter placement unspecified",
+    "authority": "Actual mother's request/report/departure; Pierre's announcement/candy offer/performed visible disappearance, public alarm, police removal and correctiveTeleport explanation; Kazuma's probable Aqua-cause inference, self-knowledge revision, completed grocery return and future watching intention after an untagged bar-tab report. No directly observed child-treatment outcome/new Aqua trick, actual bodily deletion/conviction/helper return, named P59speaker, completed debt payment or future monitoring."
+  },
+  "image_only_narrative_components": [],
+  "image_only_compositional_welcome": null,
+  "raster_staged_profile_script_images": [
+    "MAIN-16-IMG019"
+  ],
+  "promotional_script_image": "MAIN-16-IMG028",
+  "source_plane_limit": "All18new textual resources121P/ruby/residuals and28unique native images actually received and uncoded-sealed. Ten accepted principal members2844P retain exact authority and zero new principal-pass credit. New60P electronic bonus『アクセルの街の名物女神』,21Pcreator afterword and40other notice/contents/heading/colophon/use slots. Current retained precision1395unique BASE-TEXTP acrossall10units: fourinterludes179P/final515P/epilogue29Pcomplete at base-text scope, four main chapters bounded. No fresh retained ruby/residual, full2844P/wholeEPUB/newprincipalpass or independent-reading claim. Cover/crop, contents, two montages, banners/profile, dependent contributor closet art, jacket biographies and NEXT17 keep their own planes. Counts are not a global narrative denominator."
+}

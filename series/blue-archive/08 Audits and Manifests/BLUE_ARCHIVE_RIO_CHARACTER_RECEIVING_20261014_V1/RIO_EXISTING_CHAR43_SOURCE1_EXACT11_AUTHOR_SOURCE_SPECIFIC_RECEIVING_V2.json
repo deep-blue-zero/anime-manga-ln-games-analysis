@@ -1,0 +1,1460 @@
+{
+  "schema": "RIO_ONE_EXISTING_CHARACTER_SOURCE_RESPONSIBILITY_EXACT11_MAINTAINED_RECEIVING_V1",
+  "existing_home": {
+    "required_id": "P3-CHAR-RIO-CH0158",
+    "source_responsibility": "P3-F051",
+    "required_row": 43,
+    "CSV_physical_line": 44,
+    "partition_pointer": "/homes/42",
+    "ordinal": 43,
+    "named_duties": []
+  },
+  "current_body": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_RIO_CHARACTER_MONOGRAPH.md",
+    "bytes": 59526,
+    "sha256": "0404ea9f2fff73fc809514eb0caac3c16c641fc83045db2fed503c660cf6bb1f",
+    "git_blob_oid_of_actual_bytes": "2b16a15fa684df665a9f4a0ec5cfb8b6525c3093"
+  },
+  "eleven_exact_author_source_scopes": [
+    {
+      "source_id": "RIO-S01",
+      "repository_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_RIO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "pin": {
+        "C_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_RIO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "bytes": 45388,
+        "sha256": "06cce038c6716555d2372b99d1f6cb4335be7642b6922dd1abebbb919724726d",
+        "git_blob_oid_of_actual_bytes": "65097173c5d3a3ad6b6f10896fcc904f200b9cd2"
+      },
+      "physical_lines": 1210,
+      "source_grade": "PERSONALLY_WHOLE_MAINTAINED_PRIVATE_GROUP_GIFT_FINAL_NOT_PRIMARY",
+      "prior_scope_record": "private-witness:RIO-LOC-4eccd234183e5f83bd2a"
+    },
+    {
+      "source_id": "RIO-S02",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_CHECKPOINT.md",
+      "pin": {
+        "C_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_CHECKPOINT.md",
+        "bytes": 14443,
+        "sha256": "f1d911ce2d822e067d03708b0326f1b41bc032f937c5b24a00d7c256e3eb1c50",
+        "git_blob_oid_of_actual_bytes": "b385f8886700fb4470840306ecb05fdffb9275d2"
+      },
+      "physical_lines": 76,
+      "source_grade": "PERSONALLY_WHOLE_MAINTAINED_PRIVATE_GROUP_GIFT_FINAL_NOT_PRIMARY",
+      "prior_scope_record": "private-witness:RIO-LOC-4eccd234183e5f83bd2a"
+    },
+    {
+      "source_id": "RIO-S03",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_CHECKPOINT.md",
+      "pin": {
+        "C_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_CHECKPOINT.md",
+        "bytes": 12691,
+        "sha256": "04e317025793999e7615ac3a4bad7601cb75aefe3e5b9ef949d48e17a3f47eef",
+        "git_blob_oid_of_actual_bytes": "d5fb4ba7e17b370de02541446f82ce4bdedd82e1"
+      },
+      "physical_lines": 60,
+      "source_grade": "PERSONALLY_WHOLE_MAINTAINED_PRIVATE_GROUP_GIFT_FINAL_NOT_PRIMARY",
+      "prior_scope_record": "private-witness:RIO-LOC-4eccd234183e5f83bd2a"
+    },
+    {
+      "source_id": "RIO-S04",
+      "repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3101_3103_DEEP_READING.md",
+      "pin": {
+        "C_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3101_3103_DEEP_READING.md",
+        "bytes": 40956,
+        "sha256": "a9b013389a588c27970482c74e95eb16b57511dedb134e41aa4c850081d5aaf6",
+        "git_blob_oid_of_actual_bytes": "5bcbef776c36b70da61c168eebbc861ddda01cb6"
+      },
+      "physical_lines": 226,
+      "source_grade": "PERSONALLY_WHOLE_MAINTAINED_PRIVATE_GROUP_GIFT_FINAL_NOT_PRIMARY",
+      "prior_scope_record": "private-witness:RIO-LOC-4eccd234183e5f83bd2a"
+    },
+    {
+      "source_id": "RIO-S05",
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_80000/BLUE_ARCHIVE_EVENT_80000_E125_DEEP_READING.md",
+      "pin": {
+        "C_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_80000/BLUE_ARCHIVE_EVENT_80000_E125_DEEP_READING.md",
+        "bytes": 6495,
+        "sha256": "583440b911845c58d76a8a5c46276aa4e31eed55b04a4e15849ce0466645c35d",
+        "git_blob_oid_of_actual_bytes": "8ca64ca820c6868f0cf05ca4c89a2cd9a4441001"
+      },
+      "physical_lines": 52,
+      "source_grade": "PERSONALLY_WHOLE_MAINTAINED_PRIVATE_GROUP_GIFT_FINAL_NOT_PRIMARY",
+      "prior_scope_record": "private-witness:RIO-LOC-4eccd234183e5f83bd2a"
+    },
+    {
+      "source_id": "RIO-S06",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md",
+      "pin": {
+        "C_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md",
+        "bytes": 22309,
+        "sha256": "290dc36540adf15f471a729d1e6becba635255c3a2dc0a0f9171c47e13851d7a",
+        "git_blob_oid_of_actual_bytes": "edc03f8b5d5c71d7c4914187845a20b6e0941376"
+      },
+      "physical_lines": 125,
+      "source_grade": "PRIOR_PERSONALLY_WHOLE_V002_MAINTAINED_REUSED_NOT_FRESH_PRIMARY",
+      "prior_scope_record": "private-witness:RIO-LOC-4eccd234183e5f83bd2a"
+    },
+    {
+      "source_id": "RIO-S07",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+      "pin": {
+        "C_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "bytes": 33564,
+        "sha256": "0e9bd813014d36111466060e928647b2ff77eb32a0906ad5d20a3c8a3423c45d",
+        "git_blob_oid_of_actual_bytes": "a0063821e5cbdd67c326b0e32dcd1e2f5428b683"
+      },
+      "physical_lines": 257,
+      "source_grade": "PRIOR_PERSONALLY_WHOLE_V002_MAINTAINED_REUSED_NOT_FRESH_PRIMARY",
+      "prior_scope_record": "private-witness:RIO-LOC-4eccd234183e5f83bd2a"
+    },
+    {
+      "source_id": "RIO-S08",
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_843/BLUE_ARCHIVE_EVENT_843_CONTEXTUALIZATION_CHECKPOINT.md",
+      "pin": {
+        "C_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_843/BLUE_ARCHIVE_EVENT_843_CONTEXTUALIZATION_CHECKPOINT.md",
+        "bytes": 26925,
+        "sha256": "0c66b3db028ac9330ceee3cfd730b3969f5879f19bb459dce6ce73cd9077ec6d",
+        "git_blob_oid_of_actual_bytes": "9f210324ba71ed86e21f112b0956f2c371c5f43a"
+      },
+      "physical_lines": 160,
+      "source_grade": "PERSONALLY_WHOLE_MAINTAINED_EVENT_EARLY_FINAL_NOT_PRIMARY",
+      "scope_record": "private-witness:RIO-LOC-e7a979b28abc45eb6473"
+    },
+    {
+      "source_id": "RIO-S09",
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_854/BLUE_ARCHIVE_EVENT_854_CONTEXTUALIZATION_CHECKPOINT.md",
+      "pin": {
+        "C_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_854/BLUE_ARCHIVE_EVENT_854_CONTEXTUALIZATION_CHECKPOINT.md",
+        "bytes": 47958,
+        "sha256": "f8ce4ffdedac78b6e92b296515c9ace92a4277e441dee72348d815785b5283f7",
+        "git_blob_oid_of_actual_bytes": "23b45869c2d1a6f08b988ec2e00c435d271ca327"
+      },
+      "physical_lines": 217,
+      "source_grade": "PERSONALLY_WHOLE_MAINTAINED_EVENT_EARLY_FINAL_NOT_PRIMARY",
+      "scope_record": "private-witness:RIO-LOC-e7a979b28abc45eb6473"
+    },
+    {
+      "source_id": "RIO-S10",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C001_CHECKPOINT.md",
+      "pin": {
+        "C_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C001_CHECKPOINT.md",
+        "bytes": 18013,
+        "sha256": "68c68589c96361f94053cd4485daf68c1cdb70d31d622607aded26492aa7da0e",
+        "git_blob_oid_of_actual_bytes": "269d6deb765ba5a65a3f831f3248741a24621fa3"
+      },
+      "physical_lines": 83,
+      "source_grade": "PERSONALLY_WHOLE_MAINTAINED_EVENT_EARLY_FINAL_NOT_PRIMARY",
+      "scope_record": "private-witness:RIO-LOC-e7a979b28abc45eb6473"
+    },
+    {
+      "source_id": "RIO-S11",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_CHECKPOINT.md",
+      "pin": {
+        "C_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_CHECKPOINT.md",
+        "bytes": 13519,
+        "sha256": "30ac3ba693ff56140fb8d57b5caf73352206692a17ac9628b347eb19a7bd1408",
+        "git_blob_oid_of_actual_bytes": "168918c59a61c032e7128e877cf1b80ec95eee03"
+      },
+      "physical_lines": 77,
+      "source_grade": "PERSONALLY_WHOLE_MAINTAINED_EVENT_EARLY_FINAL_NOT_PRIMARY",
+      "scope_record": "private-witness:RIO-LOC-e7a979b28abc45eb6473"
+    }
+  ],
+  "author_actual_new_whole_vs_reused": "Nine newly personally whole maintained plus two prior personally whole maintained;2543distinctlines; originalsourceowner primary/native/raw/AV remains attributed.",
+  "complete_source_specific_author_predraft_questions_and_answers": [
+    {
+      "id": "RQ01",
+      "answer": "The maintained P03 explicitly reports changed beliefs about AI, fear of Alice's unknown origin and accepting her individuality, with growth only at its starting line. P06 explicitly rejects former control of untrusted people yet later proposes return-route hacking; W02 retains schedule/proximity commands and questions their appropriateness. Revision is real speech and contrary conduct remains real; no permanent conversion is secured.",
+      "routes": [
+        "RIO-S01 L712–720",
+        "RIO-S01 L808–816",
+        "RIO-S01 L926–934"
+      ]
+    },
+    {
+      "id": "RQ02",
+      "answer": "The previously wholly received V002C002 account distinguishes real device-linked danger, Rio's fears/forecasts, coerced seizure and unilateral halo-destruction proposal. It retains possible sacrifice and distributed alternatives without absolution. The new FinalC3 account keeps Himari's criticism alongside accepted calculation help. Protective intent explains a concern but does not certify exclusive remedy, complete exoneration or hindsight knowledge for every actor.",
+      "routes": [
+        "RIO-S06/TG-S06 L40–62",
+        "RIO-S02 L30–42",
+        "RIO-S02 L52–64"
+      ]
+    },
+    {
+      "id": "RQ03",
+      "answer": "P01's maid-machine cuteness and shape disagreement, P02's curious avatar and P07's industrial making without specific use are positive aesthetic ends. P07's zero-output self-evaluation receives a relieving art frame, while her inference that art cannot be proved wrong remains her own. Printer completion/gratitude are finite; product quality, universal art theory and future mass production are not secured. Pleasure is intrinsic without a utility or crisis threshold.",
+      "routes": [
+        "RIO-S01 L648–688",
+        "RIO-S01 L840–848",
+        "RIO-S01 L1030–1042"
+      ]
+    },
+    {
+      "id": "RQ04",
+      "answer": "P05 gives particular foods, actual shopping/served eaten stew and chest warmth despite middling taste; the cooking-machine completion/flavor are later reports, and meal intervals remain agreement rather than observed routine. Whole E125 gives crafted crest chocolate, embarrassment and acknowledged happiness after thanks, with varied recipient preferences and self-reported former/now change. P03's card play leaves symbol meanings withheld; pleasure does not convert unknown answers into mutual assent.",
+      "routes": [
+        "RIO-S01 L712–720",
+        "RIO-S01 L776–784",
+        "RIO-S05 L24–48"
+      ]
+    },
+    {
+      "id": "RQ05",
+      "answer": "P04 accepts a back-only test limit and narrates checks/cooling; its permission is local. P06 burdens the adult with delivery/waiting, then receives refusal of further hacking and accepts a taxi. P08 combines secrecy/compensation terms, partial cleaning, falling, locally requested contact with assent, dinner and future time conditional on the recipient's wish. The different permissions and burdens prevent treating care or gratitude as unlimited access.",
+      "routes": [
+        "RIO-S01 L744–752",
+        "RIO-S01 L808–816",
+        "RIO-S01 L872–880"
+      ]
+    },
+    {
+      "id": "RQ06",
+      "answer": "P01 excludes Alice from maid-robot classification as human; P03 uses StrongAI vocabulary and admits Alice's origin remains beyond Rio's understanding. The normal's final distinct-review qualification explicitly treats their relation as interpretation, not biological or technical ontology. FinalC3 distinguishes Alice's request/Kei cooperation from subjugation and offers Rio companion status under current help, not formal absolution.",
+      "routes": [
+        "RIO-S01 L648–656",
+        "RIO-S01 L712–720",
+        "RIO-S01 L1210",
+        "RIO-S02 L36–38"
+      ]
+    },
+    {
+      "id": "RQ07",
+      "answer": "P08 describes former Toki help through Rio's report; P06 reports an Eimi remark. Group310 mentions Rio's funding instruction through Noa and explicitly does not show Rio attendance. FinalC3 shows a remote AMAS interface and Himari's direct criticism/help request, with no proved bodily arrival. FinalC4 has Rio and Toki's actual remote code dispute and Toki's later report of Rio missing. Reports, presence and heard knowledge remain separate.",
+      "routes": [
+        "RIO-S01 L808–816",
+        "RIO-S01 L872–880",
+        "RIO-S04 L48–70/L114",
+        "RIO-S02 L32–42/L62",
+        "RIO-S03 L30–38/L52"
+      ]
+    },
+    {
+      "id": "RQ08",
+      "answer": "The whole received FinalC3 checkpoint gives Rio's dimensional hypothesis, a locally effective identical-Ark proposal and return contingency amid retained criticism, barrier breach and later ship takeover. The whole FinalC4 checkpoint gives temporary timer suppression, an explicit request for coalition help, rejection of Toki's assumed self-destruct code and later missing/accountability status. These are substantial cooperation meanings, with no whole technical safety or durable institutional repair. This agent's new whole Final scope is C3/C4 only; earlier four-chapter receiving asserted inside Rio's normal stays attributed.",
+      "routes": [
+        "RIO-S02 L32–64",
+        "RIO-S03 L22–38/L52–60",
+        "RIO-S01 L1034"
+      ]
+    },
+    {
+      "id": "RQ09",
+      "answer": "The carrier separates narrated clean room/checks/cooling/stew/printing/partial tidiness/fall/dinner from reported upgrade completion/modest gain/flavor/hacking and unfulfilled borrowing/costume vote/production/future invitation. Back-only testing and ordinary temperature oversight do not become clinical or engineering certification. Failure qualifies perfection without erasing useful work, local recovery or wanted company.",
+      "routes": [
+        "RIO-S01 L648–688",
+        "RIO-S01 L744–880",
+        "RIO-S01 L1042"
+      ]
+    },
+    {
+      "id": "RQ10",
+      "answer": "Rationality, efficiency, irreplaceability, explanations, withholding, thanks and embarrassment have specific audiences and contradictory uses. AMAS-labeled personal/update openings remain source seams; timed log text and conditional UI are written forms. E125's explanatory register/ellipsis and final happiness are maintained Japanese lexical interpretations, not heard delivery. No actor repair, thought hearing or performed voice is newly established.",
+      "routes": [
+        "RIO-S01 L688–720/L752/L880",
+        "RIO-S01 L900–986/L1064",
+        "RIO-S05 L44–48"
+      ]
+    },
+    {
+      "id": "RQ11",
+      "answer": "Cooking-machine/delivery callbacks, a ship-setting maid-machine/avatar thread and explicit before/now statements support limited order within the normal. E125 gives documentary release and a hideout without a main date. Group310's recent-award/yesterday references are local, with no C002 placement. Literal70000 costume writing differs from initial80000 routing and remains a separate inquiry, not an invented canonical event or silent normalization.",
+      "routes": [
+        "RIO-S01 L986/L1038/L1082",
+        "RIO-S05 L20–28",
+        "RIO-S04 L48–54"
+      ]
+    },
+    {
+      "id": "RQ12",
+      "answer": "Unchanging technocracy loses explicit belief revision, help-seeking, aesthetic wants and ordinary warmth. Perfect redemption loses hacking/proximity/recipient burdens and unfinished accountability. Zero-use/zero-value loses wanted making and a meaningful gift; omniscient safety loses modest gains, environmental oversight, temporary suppression, betrayal of ship controls and other people's needed agency. All14 original gaps remain OPEN; stronger ontology, chronology, governance/repair, technical/clinical certainty and performance still require their own evidence.",
+      "routes": [
+        "RIO-S01 L1030–1098",
+        "RIO-S02 L22–64",
+        "RIO-S03 L22–60",
+        "RIO-S04 L138–199",
+        "RIO-S05 L38–48"
+      ]
+    },
+    {
+      "id": "RQ13",
+      "answer": "Rio and Seia's own proof/qualification language grounds the mirror. Seia explicitly knows her peers do not deem her worthless; Neru asks direct speech and refuses use-then-exclusion, Karin asks for notice/information. Rio agrees to one week and unpacks after an explicit no-force clause; completed week/permanent office return is unprinted. Company is wanted, even though it is negotiated through usefulness.",
+      "routes": [
+        "RIO-S08 L72–88",
+        "RIO-S08 L94–100",
+        "RIO-S08 L112–116"
+      ]
+    },
+    {
+      "id": "RQ14",
+      "answer": "Protective roles and diplomatic risk are meaningful judgments; the blunt exclusion and conditions hurt Seia despite her apology/agreement. Rio newly recognizes outward speech may differ from inner feeling. Big Sister remorse/only-way claim does not silence objections; intrusion/destruction remain proposed, Valkyrie handover/EXPO continuation reported locally achieved, sponsor justice/safety remain unresolved. Local success does not exonerate means.",
+      "routes": [
+        "RIO-S08 L80–90",
+        "RIO-S08 L98–106"
+      ]
+    },
+    {
+      "id": "RQ15",
+      "answer": "Rio actually arrives after failed remote penetration, dives, and gains cracking time through Himari and Eimi's hardware action. Toki's hobbies and Eimi's peace/cold desires belong to them; Kei's uniform/name and Alice's present-oriented values belong to those recipients, not Rio's own stated repertoire. Yuzu's design feedback and actual later joy do not establish advance pilot consent. Souvenir unprepared, enrollment refused, machine destroyed, final reversal only begins.",
+      "routes": [
+        "RIO-S09 L121–126",
+        "RIO-S09 L129–157",
+        "RIO-S09 L159–179"
+      ]
+    },
+    {
+      "id": "RQ16",
+      "answer": "The actor distinctions are material: thanks-volume/headpat objections chiefly qualify adult/peer warmth, not automatically Rio touching someone. Rio's own relevant limits are failed remote plan, admitted incomplete body analysis, inferential rather than guaranteed HMD safety, secrecy and ordering surprised Yuzu to pilot. Local safe-ejection report and Yuzu's satisfaction remain positive without retroactive permission or engineering certification. Opponents' sisterhood is their wanted end, not Rio's claim or excuse.",
+      "routes": [
+        "RIO-S09 L124–126",
+        "RIO-S09 L129–141",
+        "RIO-S09 L155–169",
+        "RIO-S09 L181–187"
+      ]
+    },
+    {
+      "id": "RQ17",
+      "answer": "FinalC1 only gives Himari reading Rio data/inferential anomaly forecast and Toki reporting Rio's free-life instruction, then volunteers. This is a useful transmitted trace and choice, not an observed Rio appearance, reconciled relation, current operator proof or formal standing. Wider coalition restores local communication but governance/crisis ends remain open. LaterC3 remote help cannot become C1 bodily arrival or hindsight.",
+      "routes": [
+        "RIO-S10 L28",
+        "RIO-S10 L46–70"
+      ]
+    },
+    {
+      "id": "RQ18",
+      "answer": "FinalC2 gives the Rio/Eridu cipher bottleneck and later Koyuki/Noa's solve report. AMAS helps locally with unknown operator: Hare guesses Himari, Himari denies, Kotori suggests ghosts. Himari's Eridu/suit assessment and guilt theory stay conjectural; Toki's assignments and accustomed solitude are distinct. No direct Rio bodily arrival or full Hod audit at this checkpoint. These uncertainties are not settled retrospectively by later remoteC3 aid.",
+      "routes": [
+        "RIO-S11 L30",
+        "RIO-S11 L40–46",
+        "RIO-S11 L57–71"
+      ]
+    },
+    {
+      "id": "RQ19",
+      "answer": "Architecture's eleven character sections and method's sixteen dimensions require a connected character argument, not a behavior rule list. Ordinary preferences/making/food/company supply baseline and independent goods; separate public power, explicit goals, inferred need, shame, technical competence/failure, negotiated care, peer correction, written register and finite longitudinal revision. Existing method minimum-inspection threshold remains attributed available source coverage, not this author's new allprimary certificate.",
+      "routes": [
+        "RIO-GOV-ARCH L313–344",
+        "RIO-GOV-METHOD L265–379"
+      ]
+    }
+  ],
+  "complete_pre_receiving_question_files": [
+    {
+      "pin": {
+        "C_path": "private-witness:RIO-LOC-80839c4609a0237b53a6",
+        "bytes": 4403,
+        "sha256": "7d41fdbeb66e7ca045b269988991d5df8cde794d0fb61bd738e54aa5d6066563",
+        "git_blob_oid_of_actual_bytes": "f54638d0b86af25d498e30963e0b2b8eccbba659"
+      },
+      "complete_unchanged_object": {
+        "schema": "RIO_EXISTING_PENDING_CHARACTER_PRE_RECEIVING_SOURCE_SPECIFIC_QUESTIONS_V1",
+        "prepared_by": "/root/next_cast_source_preparation",
+        "prepared_utc": "2026-10-14T11:22:57.760660+00:00",
+        "existing_required_id": "P3-CHAR-RIO-CH0158",
+        "source_responsibility": "P3-F051",
+        "required_row": 43,
+        "partition_selector": "/homes/42",
+        "positive_identity_scope": "Existing BA_PERSON_CH0158/10133/20041 as maintained positive retrieval scope; no new join or identity adjudication",
+        "source_grade": "Maintained analytical writing; proposed private/public joins not a new primary/native/raw/AV reading",
+        "questions": [
+          {
+            "id": "RQ01",
+            "question": "What does Rio explicitly revise about fear, AI and controlling untrusted people, and which subsequent actions preserve contrary control?",
+            "prior_lead": "Current scope decision requires continued hacking/proximity/burdens alongside revision."
+          },
+          {
+            "id": "RQ02",
+            "question": "How do self-report, other people's criticism, observed harm and protective intent differ in the public crisis account?",
+            "prior_lead": "Fear may explain conduct without supplying ethical permission or exclusive-remedy certainty."
+          },
+          {
+            "id": "RQ03",
+            "question": "What are her wanted design/craft/aesthetic ends when making has no external utility or completed product?",
+            "prior_lead": "Ordinary private making and liking count intrinsically; no utility/stakes filter."
+          },
+          {
+            "id": "RQ04",
+            "question": "What food, warmth, tastes, giving and company are actually wanted/received, and what meanings stay withheld?",
+            "prior_lead": "GiftE125 and private meals can supply different finite ordinary endpoints without a global chronology."
+          },
+          {
+            "id": "RQ05",
+            "question": "What does each recipient permit, refuse or bear in her help, experiments, logistics and proximity requests?",
+            "prior_lead": "A narrow back-only test/contact permission does not authorize every intervention."
+          },
+          {
+            "id": "RQ06",
+            "question": "How do the human and StrongAI descriptions of Alice work in their actual contexts without establishing biological/technical ontology?",
+            "prior_lead": "Situated recognition and changed stance are distinct from a solved system identity."
+          },
+          {
+            "id": "RQ07",
+            "question": "What do Rio, Toki, Himari, Eimi, Alice and Seminar members actually say/do toward each other, and which peers only occur in reports?",
+            "prior_lead": "No described peer assent, attendance or knowledge is filled from name familiarity."
+          },
+          {
+            "id": "RQ08",
+            "question": "What does Final cooperation positively contribute, and what command/accountability/safety results remain uncompleted?",
+            "prior_lead": "Receive actual accepted Final meanings rather than borrowing a normal-owner summary as new wholeFinal credit."
+          },
+          {
+            "id": "RQ09",
+            "question": "What local competence and failure endpoints are real: borrowing, modest performance gain, overheating, cleaning, falling or equipment proposals?",
+            "prior_lead": "No measured universal AI/engineering ability, clinical recovery or perfect household competence."
+          },
+          {
+            "id": "RQ10",
+            "question": "How do rationality/efficiency, fear, thanks, withholding and AMAS/log source modes distinguish self-presentation and audience?",
+            "prior_lead": "Written Japanese interpretation/metadata is separate from performed voice and speaker repair."
+          },
+          {
+            "id": "RQ11",
+            "question": "Which source-provided retrospective or local links establish order, and which variants, eventIDs or costume records do not?",
+            "prior_lead": "Literal70000 lead/routing and no invented global calendar."
+          },
+          {
+            "id": "RQ12",
+            "question": "Which serious contrary readings remain plausible, and what exact stronger claims are limited by all fourteen OPEN gaps?",
+            "prior_lead": "Unchanged technocracy, perfect redemption, zero-use/zero-value and omniscient safety cannot replace actual distinct witnesses."
+          }
+        ],
+        "normal105_receiving": "NONE_ADDED",
+        "new_character_body": "NOT_AUTHORED_SOURCE_PREPARATION_ONLY",
+        "ROOT_acceptance": "PENDING",
+        "all14_original_gaps": "OPEN",
+        "models": 0,
+        "repository_Git_provider_shared_writes": 0,
+        "protected39_or_C9_body_reads_hashes": 0
+      }
+    },
+    {
+      "pin": {
+        "C_path": "private-witness:RIO-LOC-386fc3038ba023a49125",
+        "bytes": 3918,
+        "sha256": "e951cf7d2f10a5c88b15829aea1198c141b9d7753fb6dad1743a5354851bfbe4",
+        "git_blob_oid_of_actual_bytes": "0ec290c55f906ca76c0a1264276a882d19274a75"
+      },
+      "complete_unchanged_object": {
+        "schema": "RIO_EXISTING_CHAR43_HOME42_SUPPLEMENTARY_PREDRAFT_SOURCE_SPECIFIC_QUESTIONS_BEFORE_NEW_MAINTAINED_RECEIVING_V1",
+        "author": "/root/next_cast_source_preparation",
+        "existing_required_id": "P3-CHAR-RIO-CH0158",
+        "existing_source_responsibility": "P3-F051",
+        "prior_actual_scope": "Five whole maintained private20/FinalC3/FinalC4/Group310/giftE125 sources and two previously actually received whole V002 maintained carriers reused; no primary/native/raw/AV credit.",
+        "questions": [
+          {
+            "id": "RQ13",
+            "source": "EVENT843 whole maintained checkpoint",
+            "question": "Who says the impossible self-proof is their own problem, what did each C&C member ask or refuse, and exactly what Rio accepted after the no-force condition? Separate desire for company from work pretext, future one-week term from fulfilled duration, and reported Valkyrie handover from proved governance or repair."
+          },
+          {
+            "id": "RQ14",
+            "source": "EVENT843 whole maintained checkpoint",
+            "question": "What follows Rio's technical optimism and earlier conditions placed on Seia, and what actual distress, burden, recipient refusal, locally successful work, unfinished legality or accountability survives? Can both care and harmful means remain true without using the EXPO outcome as global absolution?"
+          },
+          {
+            "id": "RQ15",
+            "source": "EVENT854 whole maintained checkpoint",
+            "question": "Which ordinary jokes, games, making, chips/videos/manga, aid and recipient responses actually belong to Rio versus Toki/Kei/Alice/Yuzu/Eimi? Preserve naming/clothing choices, Yuzu's co-design versus pilot surprise, refused enrollment, and the scope of final machine reversal without attributing all ensemble values to Rio."
+          },
+          {
+            "id": "RQ16",
+            "source": "EVENT854 whole maintained checkpoint",
+            "question": "What responses mark limits on Rio's technological care or claimed sisterhood? Separate headpat/thanks-volume objections, wishes for company and imperfect present, danger jokes and retractions, proposed engineering from achieved endpoint, and self-report from ontology/clinical safety."
+          },
+          {
+            "id": "RQ17",
+            "source": "FinalC1 whole maintained checkpoint",
+            "question": "What can the early crisis context establish about Rio's then presence/absence, public authority, retained blame and distributed help without carrying later knowledge backward? Which facts are reported or absent only within this maintained bounded carrier?"
+          },
+          {
+            "id": "RQ18",
+            "source": "FinalC2 whole maintained checkpoint",
+            "question": "Which early operation, responsibility, requests or interventions actually establish the bridge into Rio's later remote AMAS help? Retain actual rescue endpoints and failure/cost/risk, and do not infer bodily arrival, repaired administration or completed reconciliation from laterC3/C4."
+          },
+          {
+            "id": "RQ19",
+            "source": "Current architecture character tracks and current method",
+            "question": "How should the core thesis, longitudinal arc, public/private self, school/club role, ordinary life, crisis conduct, Sensei, peers, written language, competing readings and evidence route each answer a distinct Rio problem in connected prose, with finite endpoints and no operational rules?"
+          }
+        ],
+        "capture_not_receiving": true,
+        "source_grade": "Maintained analytical literary carriers and governance; underlying original source/normal105 scopes remain attributed.",
+        "write_scope": "Own C-only supplementary Rio preparation/body; frozen Toki untouched; no R/shared/Git/provider writes.",
+        "protected39_privateC9_body_read_hash": 0,
+        "all14_original_gaps": "OPEN",
+        "models": 0,
+        "fixed_scope": {
+          "required": 355,
+          "named": 29,
+          "parents": 25,
+          "homes": 384,
+          "navigation": 788
+        },
+        "ROOT_adoption": "PENDING",
+        "new105_register": "NOT_AUTHORED"
+      }
+    }
+  ],
+  "complete_unchanged_prior_own12_readiness_report_NOT_current_pending_status": {
+    "schema": "RIO_EXISTING_PENDING_CHARACTER_ACTUAL_FIVE_WHOLE_MAINTAINED_RECEIVING_TWO_REUSED_WHOLE_COMPARISONS_AND_NEXT_QUEUE_READINESS_V1",
+    "prepared_by": "/root/next_cast_source_preparation",
+    "existing_required_id": "P3-CHAR-RIO-CH0158",
+    "source_responsibility": "P3-F051",
+    "required_row": 43,
+    "CSV_physical_line": 44,
+    "partition_selector": "/homes/42",
+    "partition_ordinal_1_based": 43,
+    "mandatory_named_sections": [],
+    "base_source": "c5ce4c5d6dbeaf717d97488ce1c052bd450b8701",
+    "source_grade": "Maintained analytical writing only. Five newly personally received whole carriers; two prior actual whole maintained comparisons reused by exact tuple. No underlying canonical/native/raw/AV or full original105 normal reading.",
+    "actual_new_receiving": [
+      {
+        "source_id": "RIO-S01",
+        "ranges": [
+          [
+            1,
+            287
+          ],
+          [
+            288,
+            751
+          ],
+          [
+            752,
+            988
+          ],
+          [
+            989,
+            1210
+          ]
+        ],
+        "whole": true,
+        "lines": 1210,
+        "own_reason": "Whole current private20 normal through EOF, including actual eight pair/four written treatments, whole-thread tail meanings, current Cycle008 qualification and exact human/StrongAI review qualifier. Its original primary receiving/control claims remain attributed; this author receives the maintained carrier."
+      },
+      {
+        "source_id": "RIO-S02",
+        "ranges": [
+          [
+            1,
+            76
+          ]
+        ],
+        "whole": true,
+        "lines": 76,
+        "own_reason": "Whole FinalC3 checkpoint through EOF: remote AMAS presence, retained Himari criticism, Alice/Kei chosen aid, locally effective proposal, barrier breach, contingency and ship takeover. Temporary outcome does not certify the whole crisis or all physical whereabouts."
+      },
+      {
+        "source_id": "RIO-S03",
+        "ranges": [
+          [
+            1,
+            60
+          ]
+        ],
+        "whole": true,
+        "lines": 60,
+        "own_reason": "Whole FinalC4 checkpoint through EOF: temporary suppression/help request, distributed link cut, denial of Toki's assumed code, reported return and unfinished whereabouts/accountability. Dated coverage/backfill/model figures are historical."
+      },
+      {
+        "source_id": "RIO-S04",
+        "ranges": [
+          [
+            1,
+            93
+          ],
+          [
+            94,
+            152
+          ],
+          [
+            153,
+            225
+          ],
+          [
+            226,
+            226
+          ]
+        ],
+        "whole": true,
+        "lines": 226,
+        "own_reason": "Whole Group310 argument through current parent acceptance EOF. Rio is a reported funding-instruction actor, not present. Ordinary proposals, prestige, payer hope, shared making and favorable hedged coda retain independent value and different warrant."
+      },
+      {
+        "source_id": "RIO-S05",
+        "ranges": [
+          [
+            1,
+            52
+          ]
+        ],
+        "whole": true,
+        "lines": 52,
+        "own_reason": "Whole E125 gift argument through parent acceptance EOF. Wanted craft, crest self-understanding, embarrassment and acknowledged happiness genuinely extend Rio's ordinary portrait without proving moral repair or measured production."
+      }
+    ],
+    "actual_new_pages": 11,
+    "actual_new_maintained_lines": 1624,
+    "reused_previous_whole_comparisons": [
+      {
+        "source_id": "RIO-S06",
+        "prior_source_id": "TG-S06",
+        "actual_prior_ranges": [
+          [
+            1,
+            80
+          ],
+          [
+            81,
+            125
+          ]
+        ],
+        "whole": true,
+        "prior_receiving_report": "TOKI_GDD_ACTUAL_BOUNDED_SOURCE_RECEIVING_OWN_REASONS_AND_NEXT_AUTHOR_READINESS_V1.json",
+        "prior_report_tuple": {
+          "bytes": 26817,
+          "sha256": "1040f16207035c9e6ac9b86a61b22165b4fe92a90942f3406e699d2776bbe502"
+        },
+        "own_scope": "Whole dated V002C002 checkpoint previously personally received; preserve cbe3/87 frontier and all coercion, actual hazards, distributed alternatives and unfinished accountability. No fresh chapter-primary credit."
+      },
+      {
+        "source_id": "RIO-S07",
+        "prior_source_id": "TG-S05",
+        "actual_prior_ranges": [
+          [
+            1,
+            137
+          ],
+          [
+            138,
+            232
+          ],
+          [
+            233,
+            257
+          ]
+        ],
+        "whole": true,
+        "prior_receiving_report": "TOKI_GDD_ACTUAL_BOUNDED_SOURCE_RECEIVING_OWN_REASONS_AND_NEXT_AUTHOR_READINESS_V1.json",
+        "prior_report_tuple": {
+          "bytes": 26817,
+          "sha256": "1040f16207035c9e6ac9b86a61b22165b4fe92a90942f3406e699d2776bbe502"
+        },
+        "own_scope": "Whole V002 contextual account previously personally received; current Cycle008 qualification governs historical pending clauses. Its event82/private577/Kei19 underlying receiving remains attributed."
+      }
+    ],
+    "total_new_plus_reused_maintained_lines": 2006,
+    "questions_written_before_new_receiving": "RIO_PRE_RECEIVING_SOURCE_SPECIFIC_QUESTIONS_V1.json",
+    "twelve_actual_source_specific_answers": [
+      {
+        "id": "RQ01",
+        "answer": "The maintained P03 explicitly reports changed beliefs about AI, fear of Alice's unknown origin and accepting her individuality, with growth only at its starting line. P06 explicitly rejects former control of untrusted people yet later proposes return-route hacking; W02 retains schedule/proximity commands and questions their appropriateness. Revision is real speech and contrary conduct remains real; no permanent conversion is secured.",
+        "routes": [
+          "RIO-S01 L712–720",
+          "RIO-S01 L808–816",
+          "RIO-S01 L926–934"
+        ]
+      },
+      {
+        "id": "RQ02",
+        "answer": "The previously wholly received V002C002 account distinguishes real device-linked danger, Rio's fears/forecasts, coerced seizure and unilateral halo-destruction proposal. It retains possible sacrifice and distributed alternatives without absolution. The new FinalC3 account keeps Himari's criticism alongside accepted calculation help. Protective intent explains a concern but does not certify exclusive remedy, complete exoneration or hindsight knowledge for every actor.",
+        "routes": [
+          "RIO-S06/TG-S06 L40–62",
+          "RIO-S02 L30–42",
+          "RIO-S02 L52–64"
+        ]
+      },
+      {
+        "id": "RQ03",
+        "answer": "P01's maid-machine cuteness and shape disagreement, P02's curious avatar and P07's industrial making without specific use are positive aesthetic ends. P07's zero-output self-evaluation receives a relieving art frame, while her inference that art cannot be proved wrong remains her own. Printer completion/gratitude are finite; product quality, universal art theory and future mass production are not secured. Pleasure is intrinsic without a utility or crisis threshold.",
+        "routes": [
+          "RIO-S01 L648–688",
+          "RIO-S01 L840–848",
+          "RIO-S01 L1030–1042"
+        ]
+      },
+      {
+        "id": "RQ04",
+        "answer": "P05 gives particular foods, actual shopping/served eaten stew and chest warmth despite middling taste; the cooking-machine completion/flavor are later reports, and meal intervals remain agreement rather than observed routine. Whole E125 gives crafted crest chocolate, embarrassment and acknowledged happiness after thanks, with varied recipient preferences and self-reported former/now change. P03's card play leaves symbol meanings withheld; pleasure does not convert unknown answers into mutual assent.",
+        "routes": [
+          "RIO-S01 L712–720",
+          "RIO-S01 L776–784",
+          "RIO-S05 L24–48"
+        ]
+      },
+      {
+        "id": "RQ05",
+        "answer": "P04 accepts a back-only test limit and narrates checks/cooling; its permission is local. P06 burdens the adult with delivery/waiting, then receives refusal of further hacking and accepts a taxi. P08 combines secrecy/compensation terms, partial cleaning, falling, locally requested contact with assent, dinner and future time conditional on the recipient's wish. The different permissions and burdens prevent treating care or gratitude as unlimited access.",
+        "routes": [
+          "RIO-S01 L744–752",
+          "RIO-S01 L808–816",
+          "RIO-S01 L872–880"
+        ]
+      },
+      {
+        "id": "RQ06",
+        "answer": "P01 excludes Alice from maid-robot classification as human; P03 uses StrongAI vocabulary and admits Alice's origin remains beyond Rio's understanding. The normal's final distinct-review qualification explicitly treats their relation as interpretation, not biological or technical ontology. FinalC3 distinguishes Alice's request/Kei cooperation from subjugation and offers Rio companion status under current help, not formal absolution.",
+        "routes": [
+          "RIO-S01 L648–656",
+          "RIO-S01 L712–720",
+          "RIO-S01 L1210",
+          "RIO-S02 L36–38"
+        ]
+      },
+      {
+        "id": "RQ07",
+        "answer": "P08 describes former Toki help through Rio's report; P06 reports an Eimi remark. Group310 mentions Rio's funding instruction through Noa and explicitly does not show Rio attendance. FinalC3 shows a remote AMAS interface and Himari's direct criticism/help request, with no proved bodily arrival. FinalC4 has Rio and Toki's actual remote code dispute and Toki's later report of Rio missing. Reports, presence and heard knowledge remain separate.",
+        "routes": [
+          "RIO-S01 L808–816",
+          "RIO-S01 L872–880",
+          "RIO-S04 L48–70/L114",
+          "RIO-S02 L32–42/L62",
+          "RIO-S03 L30–38/L52"
+        ]
+      },
+      {
+        "id": "RQ08",
+        "answer": "The whole received FinalC3 checkpoint gives Rio's dimensional hypothesis, a locally effective identical-Ark proposal and return contingency amid retained criticism, barrier breach and later ship takeover. The whole FinalC4 checkpoint gives temporary timer suppression, an explicit request for coalition help, rejection of Toki's assumed self-destruct code and later missing/accountability status. These are substantial cooperation meanings, with no whole technical safety or durable institutional repair. This agent's new whole Final scope is C3/C4 only; earlier four-chapter receiving asserted inside Rio's normal stays attributed.",
+        "routes": [
+          "RIO-S02 L32–64",
+          "RIO-S03 L22–38/L52–60",
+          "RIO-S01 L1034"
+        ]
+      },
+      {
+        "id": "RQ09",
+        "answer": "The carrier separates narrated clean room/checks/cooling/stew/printing/partial tidiness/fall/dinner from reported upgrade completion/modest gain/flavor/hacking and unfulfilled borrowing/costume vote/production/future invitation. Back-only testing and ordinary temperature oversight do not become clinical or engineering certification. Failure qualifies perfection without erasing useful work, local recovery or wanted company.",
+        "routes": [
+          "RIO-S01 L648–688",
+          "RIO-S01 L744–880",
+          "RIO-S01 L1042"
+        ]
+      },
+      {
+        "id": "RQ10",
+        "answer": "Rationality, efficiency, irreplaceability, explanations, withholding, thanks and embarrassment have specific audiences and contradictory uses. AMAS-labeled personal/update openings remain source seams; timed log text and conditional UI are written forms. E125's explanatory register/ellipsis and final happiness are maintained Japanese lexical interpretations, not heard delivery. No actor repair, thought hearing or performed voice is newly established.",
+        "routes": [
+          "RIO-S01 L688–720/L752/L880",
+          "RIO-S01 L900–986/L1064",
+          "RIO-S05 L44–48"
+        ]
+      },
+      {
+        "id": "RQ11",
+        "answer": "Cooking-machine/delivery callbacks, a ship-setting maid-machine/avatar thread and explicit before/now statements support limited order within the normal. E125 gives documentary release and a hideout without a main date. Group310's recent-award/yesterday references are local, with no C002 placement. Literal70000 costume writing differs from initial80000 routing and remains a separate inquiry, not an invented canonical event or silent normalization.",
+        "routes": [
+          "RIO-S01 L986/L1038/L1082",
+          "RIO-S05 L20–28",
+          "RIO-S04 L48–54"
+        ]
+      },
+      {
+        "id": "RQ12",
+        "answer": "Unchanging technocracy loses explicit belief revision, help-seeking, aesthetic wants and ordinary warmth. Perfect redemption loses hacking/proximity/recipient burdens and unfinished accountability. Zero-use/zero-value loses wanted making and a meaningful gift; omniscient safety loses modest gains, environmental oversight, temporary suppression, betrayal of ship controls and other people's needed agency. All14 original gaps remain OPEN; stronger ontology, chronology, governance/repair, technical/clinical certainty and performance still require their own evidence.",
+        "routes": [
+          "RIO-S01 L1030–1098",
+          "RIO-S02 L22–64",
+          "RIO-S03 L22–60",
+          "RIO-S04 L138–199",
+          "RIO-S05 L38–48"
+        ]
+      }
+    ],
+    "readiness": "SUBSTANTIAL_POSITIVE_SOURCE_SUPPORT_FOR_EXISTING_RIO_MONOGRAPH_QUEUE_WITH_PRECISE_REMAINING_COMPARATIVE_SCOPE",
+    "finite_supported_character_problem": "Rio explicitly revises belief and seeks particular help/company while continuing control and recipient burdens. Ordinary aesthetic making, meals, gifts, housekeeping and learning supply intrinsic ends and contrary cases alongside public danger/cooperation, without a complete conversion or solved ontology.",
+    "remaining_before_complete_body_assignment": [
+      "Receive the exact relevant whole/selected Event843/Event854 literary owners and necessary earlier FinalC1/C2 comparators before claims extending beyond the personally received C3/C4 and bounded normal comparisons.",
+      "Keep literal70000 written-mode routing distinct from80000 gift encounter; do not manufacture a missing canonical narrative.",
+      "Receive any new necessary high-impact canonical/raw attribution or quoted wording only if the proposed claims require it; this source preparation grants none.",
+      "Full monograph body and its independent literary/component review remain unstarted. ROOT separately controls final scope/adoption/installation/publication.",
+      "Toki–GDD remains the currently authored/reviewed body. This separate Rio queue does not start a second body or borrow its105 purposes."
+    ],
+    "fixed_scope": {
+      "required": 355,
+      "named": 29,
+      "parents": 25,
+      "homes": 384,
+      "navigation": 788,
+      "all14_original_gaps": "OPEN",
+      "models": 0,
+      "merge_approval": "RESERVED"
+    },
+    "counts_added": {
+      "literary_packages": 0,
+      "named_sections": 0,
+      "canonical_installations": 0,
+      "publications": 0,
+      "primary_receiving": 0,
+      "original_normal105_receiving": 0,
+      "models": 0
+    },
+    "source_capture_is_not_receiving": true,
+    "protection": {
+      "metadata_C9_inventory_lookup_only": true,
+      "actual_C9_body_open_read_hash": 0,
+      "unpublished39_body_read_hash": 0,
+      "R_Git_provider_shared_writes": 0,
+      "staged_Art147_materials_read": false
+    },
+    "honesty": "The source-heading inventory was clipped and supplies no whole receiving credit. All five declared new substantive maintained carriers were subsequently actually received in the listed11 complete untruncated pages through EOF. Previous source receiving is explicitly reused rather than relabeled new. Originalproducer FIRST/SECOND/exposure/independence claims retain recorded uncertainty."
+  },
+  "complete_unchanged_supplement_own7_readiness_report_NOT_current_pending_status": {
+    "schema": "RIO_EXISTING_CHAR43_HEAD45_SUPPLEMENTARY_ACTUAL_FOUR_WHOLE_RECEIVING_OWN7_FINITE_REASONS_AND_BODY_FIRST_READINESS_V1",
+    "author": "/root/next_cast_source_preparation",
+    "existing_required_id": "P3-CHAR-RIO-CH0158",
+    "source_responsibility": "P3-F051",
+    "required_row43_home42": true,
+    "source_HEAD": "45e924770e6971bf44c8194588d455a71956772c",
+    "supplement_actual_receiving": [
+      {
+        "source_id": "RIO-S08",
+        "ranges": [
+          [
+            1,
+            80
+          ],
+          [
+            81,
+            160
+          ]
+        ],
+        "tools": [
+          "68bc95",
+          "ed97c2"
+        ],
+        "whole": true
+      },
+      {
+        "source_id": "RIO-S09",
+        "ranges": [
+          [
+            1,
+            70
+          ],
+          [
+            71,
+            125
+          ],
+          [
+            126,
+            158
+          ],
+          [
+            159,
+            193
+          ],
+          [
+            194,
+            217
+          ]
+        ],
+        "tools": [
+          "dfd414",
+          "440925",
+          "245e72",
+          "2b3e63",
+          "5105ef"
+        ],
+        "whole": true
+      },
+      {
+        "source_id": "RIO-S10",
+        "ranges": [
+          [
+            1,
+            43
+          ],
+          [
+            44,
+            83
+          ]
+        ],
+        "tools": [
+          "257cdc",
+          "d47824"
+        ],
+        "whole": true,
+        "earlier_clipped_whole_output_not_used_for_credit": "8238d3"
+      },
+      {
+        "source_id": "RIO-S11",
+        "ranges": [
+          [
+            1,
+            77
+          ]
+        ],
+        "tools": [
+          "9a7f45"
+        ],
+        "whole": true
+      }
+    ],
+    "new_supplement_lines": 537,
+    "new_supplement_pages": 10,
+    "governance_selected": [
+      {
+        "source_id": "RIO-GOV-METHOD",
+        "ranges": [
+          [
+            265,
+            379
+          ]
+        ],
+        "tool": "d7d03c"
+      },
+      {
+        "source_id": "RIO-GOV-ARCH",
+        "ranges": [
+          [
+            313,
+            344
+          ],
+          [
+            333,
+            365
+          ]
+        ],
+        "tools": [
+          "5c6cf0",
+          "46f154"
+        ],
+        "clipped_whole_attempt": "494882 not whole receiving"
+      }
+    ],
+    "prior5_whole_plus2_reused_whole_scope": "Exact prior Rio7 manifest/readiness preserved, and all7 tracked HEAD45 bytes equalc5 executed6f2381. Prior nine/source105 report meanings are not primary/new maintained reading by proxy.",
+    "prior5_plus_supplement4_new_maintained_whole": 9,
+    "reused_prior_actual_whole_maintained": 2,
+    "total11_maintained_distinct_lines": 2543,
+    "seven_own_answers": [
+      {
+        "id": "RQ13",
+        "answer": "Rio and Seia's own proof/qualification language grounds the mirror. Seia explicitly knows her peers do not deem her worthless; Neru asks direct speech and refuses use-then-exclusion, Karin asks for notice/information. Rio agrees to one week and unpacks after an explicit no-force clause; completed week/permanent office return is unprinted. Company is wanted, even though it is negotiated through usefulness.",
+        "routes": [
+          "RIO-S08 L72–88",
+          "RIO-S08 L94–100",
+          "RIO-S08 L112–116"
+        ]
+      },
+      {
+        "id": "RQ14",
+        "answer": "Protective roles and diplomatic risk are meaningful judgments; the blunt exclusion and conditions hurt Seia despite her apology/agreement. Rio newly recognizes outward speech may differ from inner feeling. Big Sister remorse/only-way claim does not silence objections; intrusion/destruction remain proposed, Valkyrie handover/EXPO continuation reported locally achieved, sponsor justice/safety remain unresolved. Local success does not exonerate means.",
+        "routes": [
+          "RIO-S08 L80–90",
+          "RIO-S08 L98–106"
+        ]
+      },
+      {
+        "id": "RQ15",
+        "answer": "Rio actually arrives after failed remote penetration, dives, and gains cracking time through Himari and Eimi's hardware action. Toki's hobbies and Eimi's peace/cold desires belong to them; Kei's uniform/name and Alice's present-oriented values belong to those recipients, not Rio's own stated repertoire. Yuzu's design feedback and actual later joy do not establish advance pilot consent. Souvenir unprepared, enrollment refused, machine destroyed, final reversal only begins.",
+        "routes": [
+          "RIO-S09 L121–126",
+          "RIO-S09 L129–157",
+          "RIO-S09 L159–179"
+        ]
+      },
+      {
+        "id": "RQ16",
+        "answer": "The actor distinctions are material: thanks-volume/headpat objections chiefly qualify adult/peer warmth, not automatically Rio touching someone. Rio's own relevant limits are failed remote plan, admitted incomplete body analysis, inferential rather than guaranteed HMD safety, secrecy and ordering surprised Yuzu to pilot. Local safe-ejection report and Yuzu's satisfaction remain positive without retroactive permission or engineering certification. Opponents' sisterhood is their wanted end, not Rio's claim or excuse.",
+        "routes": [
+          "RIO-S09 L124–126",
+          "RIO-S09 L129–141",
+          "RIO-S09 L155–169",
+          "RIO-S09 L181–187"
+        ]
+      },
+      {
+        "id": "RQ17",
+        "answer": "FinalC1 only gives Himari reading Rio data/inferential anomaly forecast and Toki reporting Rio's free-life instruction, then volunteers. This is a useful transmitted trace and choice, not an observed Rio appearance, reconciled relation, current operator proof or formal standing. Wider coalition restores local communication but governance/crisis ends remain open. LaterC3 remote help cannot become C1 bodily arrival or hindsight.",
+        "routes": [
+          "RIO-S10 L28",
+          "RIO-S10 L46–70"
+        ]
+      },
+      {
+        "id": "RQ18",
+        "answer": "FinalC2 gives the Rio/Eridu cipher bottleneck and later Koyuki/Noa's solve report. AMAS helps locally with unknown operator: Hare guesses Himari, Himari denies, Kotori suggests ghosts. Himari's Eridu/suit assessment and guilt theory stay conjectural; Toki's assignments and accustomed solitude are distinct. No direct Rio bodily arrival or full Hod audit at this checkpoint. These uncertainties are not settled retrospectively by later remoteC3 aid.",
+        "routes": [
+          "RIO-S11 L30",
+          "RIO-S11 L40–46",
+          "RIO-S11 L57–71"
+        ]
+      },
+      {
+        "id": "RQ19",
+        "answer": "Architecture's eleven character sections and method's sixteen dimensions require a connected character argument, not a behavior rule list. Ordinary preferences/making/food/company supply baseline and independent goods; separate public power, explicit goals, inferred need, shame, technical competence/failure, negotiated care, peer correction, written register and finite longitudinal revision. Existing method minimum-inspection threshold remains attributed available source coverage, not this author's new allprimary certificate.",
+        "routes": [
+          "RIO-GOV-ARCH L313–344",
+          "RIO-GOV-METHOD L265–379"
+        ]
+      }
+    ],
+    "readiness": "SUBSTANTIAL_CHARACTER_BODY_FIRST_READY_WITH_FINITE_SCOPE_AND_ALL14_OPEN; independent review and later genuinelynew105/register unstarted",
+    "pending_endpoints": [
+      "Full institutional accountability and permanent office return",
+      "CompleteEXPOweek, actual machine destruction chain and sponsor legal disposition",
+      "Universal/sourceorder calendar for private/event/Final joins",
+      "Full Event854 final victory/restoration/return/enrollment",
+      "Independent clinical/technical/metaphysical certification",
+      "Performed voice/native actor-seam repair"
+    ],
+    "ordinary_goods": "Food, aesthetic design, gift joy, humor and particular company intrinsically character-bearing; no stakes/attendance/name/school exclusion.",
+    "source_grade": "Eleven maintained analytical carriers actually received at declared new/reused scopes; their underlying original primary receiving is attributed. No new canonical/native/raw/AV/normal105 or model grant.",
+    "original14_gaps": "OPEN",
+    "models": 0,
+    "fixed_scope": {
+      "required": 355,
+      "named": 29,
+      "parents": 25,
+      "homes": 384,
+      "navigation": 788
+    },
+    "ROOT_adoption": "PENDING",
+    "new105_register": "NOT_AUTHORED",
+    "Toki_currentV2": "FROZEN_UNTOUCHED",
+    "protected39_privateC9_body_read_hash": 0,
+    "R_Git_provider_shared_writes": 0
+  },
+  "whole_body_author_receiving": {
+    "C_path": "private-witness:RIO-LOC-c1234fd3ae470a52ad1d",
+    "bytes": 27331,
+    "sha256": "023b43858aab5c692bdc23ca8e1cb92fd46492d90743f48f4ac175cdc112c698",
+    "git_blob_oid_of_actual_bytes": "f54c6aa27b327b8b84ca79a2dca1edd77d0b3107"
+  },
+  "distinct_body_only_QA": {
+    "pin": {
+      "C_path": "private-witness:RIO-LOC-229c6900896a805d5b2f",
+      "bytes": 116198,
+      "sha256": "ac5b984dbb845bc6682fee475720fa9380d381a8be5d82445fae74eb87136655",
+      "git_blob_oid_of_actual_bytes": "a4b6b4bb415b9a40574d323239f63fa85a433a30"
+    },
+    "decision": "PASS_WITH_LIMITS_CURRENT196_COMPLETE69_BODY_ONLY_CHARACTER16_ARCHITECTURE11_RIVAL8_FINITE_END_AND_OPEN14_REVIEW",
+    "zero_findings": true,
+    "reviewer_scope": "Eight WHOLE maintained carriers (S06 completed through adequate prior selected plus new remaining intervals), three SELECTED maintained carriers. Exactly2290 distinct source physical lines across these scopes. Author9whole+2priorwhole/2543 lines is retained as a separate author extent. No normal20/gift/group/MAIN primary/native/raw/AV credit is inferred.",
+    "source11_actual_reviewer_extents": [
+      {
+        "source_id": "RIO-S01",
+        "repository_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_RIO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "pin": {
+          "C_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_RIO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+          "bytes": 45388,
+          "sha256": "06cce038c6716555d2372b99d1f6cb4335be7642b6922dd1abebbb919724726d",
+          "git_blob_oid_of_actual_bytes": "65097173c5d3a3ad6b6f10896fcc904f200b9cd2"
+        },
+        "physical_lines": 1210,
+        "source_grade": "PERSONALLY_WHOLE_MAINTAINED_PRIVATE_GROUP_GIFT_FINAL_NOT_PRIMARY",
+        "prior_scope_record": "private-witness:RIO-LOC-4eccd234183e5f83bd2a",
+        "reviewer_actual": {
+          "grade": "WHOLE_MAINTAINED",
+          "ranges": [
+            [
+              1,
+              1210
+            ]
+          ],
+          "tools": [
+            "a5006b",
+            "eb994b",
+            "603d4f",
+            "8cfc10"
+          ]
+        }
+      },
+      {
+        "source_id": "RIO-S02",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_CHECKPOINT.md",
+        "pin": {
+          "C_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_CHECKPOINT.md",
+          "bytes": 14443,
+          "sha256": "f1d911ce2d822e067d03708b0326f1b41bc032f937c5b24a00d7c256e3eb1c50",
+          "git_blob_oid_of_actual_bytes": "b385f8886700fb4470840306ecb05fdffb9275d2"
+        },
+        "physical_lines": 76,
+        "source_grade": "PERSONALLY_WHOLE_MAINTAINED_PRIVATE_GROUP_GIFT_FINAL_NOT_PRIMARY",
+        "prior_scope_record": "private-witness:RIO-LOC-4eccd234183e5f83bd2a",
+        "reviewer_actual": {
+          "grade": "WHOLE_MAINTAINED",
+          "ranges": [
+            [
+              1,
+              76
+            ]
+          ],
+          "tools": [
+            "ebffba",
+            "b9739e"
+          ]
+        }
+      },
+      {
+        "source_id": "RIO-S03",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_CHECKPOINT.md",
+        "pin": {
+          "C_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_CHECKPOINT.md",
+          "bytes": 12691,
+          "sha256": "04e317025793999e7615ac3a4bad7601cb75aefe3e5b9ef949d48e17a3f47eef",
+          "git_blob_oid_of_actual_bytes": "d5fb4ba7e17b370de02541446f82ce4bdedd82e1"
+        },
+        "physical_lines": 60,
+        "source_grade": "PERSONALLY_WHOLE_MAINTAINED_PRIVATE_GROUP_GIFT_FINAL_NOT_PRIMARY",
+        "prior_scope_record": "private-witness:RIO-LOC-4eccd234183e5f83bd2a",
+        "reviewer_actual": {
+          "grade": "WHOLE_MAINTAINED",
+          "ranges": [
+            [
+              1,
+              60
+            ]
+          ],
+          "tools": [
+            "ad83b9"
+          ]
+        }
+      },
+      {
+        "source_id": "RIO-S04",
+        "repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3101_3103_DEEP_READING.md",
+        "pin": {
+          "C_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3101_3103_DEEP_READING.md",
+          "bytes": 40956,
+          "sha256": "a9b013389a588c27970482c74e95eb16b57511dedb134e41aa4c850081d5aaf6",
+          "git_blob_oid_of_actual_bytes": "5bcbef776c36b70da61c168eebbc861ddda01cb6"
+        },
+        "physical_lines": 226,
+        "source_grade": "PERSONALLY_WHOLE_MAINTAINED_PRIVATE_GROUP_GIFT_FINAL_NOT_PRIMARY",
+        "prior_scope_record": "private-witness:RIO-LOC-4eccd234183e5f83bd2a",
+        "reviewer_actual": {
+          "grade": "SELECTED_MAINTAINED",
+          "ranges": [
+            [
+              46,
+              174
+            ]
+          ],
+          "tools": [
+            "b19440",
+            "2b2ea3",
+            "df17ab"
+          ]
+        }
+      },
+      {
+        "source_id": "RIO-S05",
+        "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_80000/BLUE_ARCHIVE_EVENT_80000_E125_DEEP_READING.md",
+        "pin": {
+          "C_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_80000/BLUE_ARCHIVE_EVENT_80000_E125_DEEP_READING.md",
+          "bytes": 6495,
+          "sha256": "583440b911845c58d76a8a5c46276aa4e31eed55b04a4e15849ce0466645c35d",
+          "git_blob_oid_of_actual_bytes": "8ca64ca820c6868f0cf05ca4c89a2cd9a4441001"
+        },
+        "physical_lines": 52,
+        "source_grade": "PERSONALLY_WHOLE_MAINTAINED_PRIVATE_GROUP_GIFT_FINAL_NOT_PRIMARY",
+        "prior_scope_record": "private-witness:RIO-LOC-4eccd234183e5f83bd2a",
+        "reviewer_actual": {
+          "grade": "WHOLE_MAINTAINED",
+          "ranges": [
+            [
+              1,
+              52
+            ]
+          ],
+          "tools": [
+            "4e8458"
+          ]
+        }
+      },
+      {
+        "source_id": "RIO-S06",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md",
+        "pin": {
+          "C_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md",
+          "bytes": 22309,
+          "sha256": "290dc36540adf15f471a729d1e6becba635255c3a2dc0a0f9171c47e13851d7a",
+          "git_blob_oid_of_actual_bytes": "edc03f8b5d5c71d7c4914187845a20b6e0941376"
+        },
+        "physical_lines": 125,
+        "source_grade": "PRIOR_PERSONALLY_WHOLE_V002_MAINTAINED_REUSED_NOT_FRESH_PRIMARY",
+        "prior_scope_record": "private-witness:RIO-LOC-4eccd234183e5f83bd2a",
+        "reviewer_actual": {
+          "grade": "WHOLE_MAINTAINED_BY_PRIOR_SELECTED_AND_NEW_REMAINING_INTERVALS",
+          "ranges": [
+            [
+              1,
+              125
+            ]
+          ],
+          "tools": [
+            "b50442",
+            "608def"
+          ],
+          "adequate_prior_own_Toki_selected_reuse": {
+            "ranges": [
+              [
+                18,
+                22
+              ],
+              [
+                40,
+                125
+              ]
+            ],
+            "tools": [
+              "4370bd",
+              "b0bf4f",
+              "a335d0"
+            ],
+            "exact_tuple_same": true
+          }
+        }
+      },
+      {
+        "source_id": "RIO-S07",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "pin": {
+          "C_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+          "bytes": 33564,
+          "sha256": "0e9bd813014d36111466060e928647b2ff77eb32a0906ad5d20a3c8a3423c45d",
+          "git_blob_oid_of_actual_bytes": "a0063821e5cbdd67c326b0e32dcd1e2f5428b683"
+        },
+        "physical_lines": 257,
+        "source_grade": "PRIOR_PERSONALLY_WHOLE_V002_MAINTAINED_REUSED_NOT_FRESH_PRIMARY",
+        "prior_scope_record": "private-witness:RIO-LOC-4eccd234183e5f83bd2a",
+        "reviewer_actual": {
+          "grade": "SELECTED_MAINTAINED_WITH_PRIOR_ADEQUATE_OWN_REUSE",
+          "ranges": [
+            [
+              66,
+              150
+            ],
+            [
+              222,
+              257
+            ]
+          ],
+          "tools": [
+            "477683"
+          ],
+          "adequate_prior_own_Toki_selected_reuse": {
+            "ranges": [
+              [
+                66,
+                77
+              ],
+              [
+                118,
+                150
+              ],
+              [
+                222,
+                257
+              ]
+            ],
+            "tools": [
+              "2956d9",
+              "c86a64",
+              "ce9a69"
+            ],
+            "exact_tuple_same": true
+          }
+        }
+      },
+      {
+        "source_id": "RIO-S08",
+        "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_843/BLUE_ARCHIVE_EVENT_843_CONTEXTUALIZATION_CHECKPOINT.md",
+        "pin": {
+          "C_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_843/BLUE_ARCHIVE_EVENT_843_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 26925,
+          "sha256": "0c66b3db028ac9330ceee3cfd730b3969f5879f19bb459dce6ce73cd9077ec6d",
+          "git_blob_oid_of_actual_bytes": "9f210324ba71ed86e21f112b0956f2c371c5f43a"
+        },
+        "physical_lines": 160,
+        "source_grade": "PERSONALLY_WHOLE_MAINTAINED_EVENT_EARLY_FINAL_NOT_PRIMARY",
+        "scope_record": "private-witness:RIO-LOC-e7a979b28abc45eb6473",
+        "reviewer_actual": {
+          "grade": "WHOLE_MAINTAINED",
+          "ranges": [
+            [
+              1,
+              160
+            ]
+          ],
+          "tools": [
+            "822dfb",
+            "b3917d",
+            "450bb7"
+          ]
+        }
+      },
+      {
+        "source_id": "RIO-S09",
+        "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_854/BLUE_ARCHIVE_EVENT_854_CONTEXTUALIZATION_CHECKPOINT.md",
+        "pin": {
+          "C_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_854/BLUE_ARCHIVE_EVENT_854_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 47958,
+          "sha256": "f8ce4ffdedac78b6e92b296515c9ace92a4277e441dee72348d815785b5283f7",
+          "git_blob_oid_of_actual_bytes": "23b45869c2d1a6f08b988ec2e00c435d271ca327"
+        },
+        "physical_lines": 217,
+        "source_grade": "PERSONALLY_WHOLE_MAINTAINED_EVENT_EARLY_FINAL_NOT_PRIMARY",
+        "scope_record": "private-witness:RIO-LOC-e7a979b28abc45eb6473",
+        "reviewer_actual": {
+          "grade": "SELECTED_MAINTAINED",
+          "ranges": [
+            [
+              1,
+              59
+            ],
+            [
+              80,
+              217
+            ]
+          ],
+          "tools": [
+            "05a49e",
+            "b7808c",
+            "189eca",
+            "7b43a9",
+            "92e718",
+            "a2df03"
+          ]
+        }
+      },
+      {
+        "source_id": "RIO-S10",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C001_CHECKPOINT.md",
+        "pin": {
+          "C_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C001_CHECKPOINT.md",
+          "bytes": 18013,
+          "sha256": "68c68589c96361f94053cd4485daf68c1cdb70d31d622607aded26492aa7da0e",
+          "git_blob_oid_of_actual_bytes": "269d6deb765ba5a65a3f831f3248741a24621fa3"
+        },
+        "physical_lines": 83,
+        "source_grade": "PERSONALLY_WHOLE_MAINTAINED_EVENT_EARLY_FINAL_NOT_PRIMARY",
+        "scope_record": "private-witness:RIO-LOC-e7a979b28abc45eb6473",
+        "reviewer_actual": {
+          "grade": "WHOLE_MAINTAINED",
+          "ranges": [
+            [
+              1,
+              83
+            ]
+          ],
+          "tools": [
+            "d9b4bb",
+            "927fd3"
+          ]
+        }
+      },
+      {
+        "source_id": "RIO-S11",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_CHECKPOINT.md",
+        "pin": {
+          "C_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_CHECKPOINT.md",
+          "bytes": 13519,
+          "sha256": "30ac3ba693ff56140fb8d57b5caf73352206692a17ac9628b347eb19a7bd1408",
+          "git_blob_oid_of_actual_bytes": "168918c59a61c032e7128e877cf1b80ec95eee03"
+        },
+        "physical_lines": 77,
+        "source_grade": "PERSONALLY_WHOLE_MAINTAINED_EVENT_EARLY_FINAL_NOT_PRIMARY",
+        "scope_record": "private-witness:RIO-LOC-e7a979b28abc45eb6473",
+        "reviewer_actual": {
+          "grade": "WHOLE_MAINTAINED",
+          "ranges": [
+            [
+              1,
+              77
+            ]
+          ],
+          "tools": [
+            "03feb1"
+          ]
+        }
+      }
+    ],
+    "role": "Complete69/body-only literary review, no105/register componentQA orROOT grant"
+  },
+  "author_actual_whole69_QA_reason_scope_receiving": {
+    "C_path": "private-witness:RIO-LOC-cae2bcc6914397e70043",
+    "bytes": 128195,
+    "sha256": "5ca5a395f493d6a876478ddad69a43fd425b49c01e85ddf8ce6740254991121d",
+    "git_blob_oid_of_actual_bytes": "644d5650ff53255b16ce01f7ac7587bc0b24fdbd"
+  },
+  "own_actual_genuinely_new105_saved_field_readback": {
+    "C_path": "private-witness:RIO-LOC-845075212c783949b39f",
+    "bytes": 220671,
+    "sha256": "262eff329b978e1431e03a33296045f19efd531af0e36e930ac298dad56e4e9a",
+    "git_blob_oid_of_actual_bytes": "9f4628571928d75c3a9eaa911db5539c9cbed436"
+  },
+  "original105_report_receiving": {
+    "C_path": "private-witness:RIO-LOC-d23db9c986f549fd0dd8",
+    "bytes": 510205,
+    "sha256": "75321d3f795080f6e2a29c214770c5ea56e1c845f2416f94977837ee1482e17a",
+    "git_blob_oid_of_actual_bytes": "3d5e2f4806ee531802c7da215e753f2813dc790c"
+  },
+  "direct_common_owners": {
+    "O021": "S04 whole reportedRiofundingtrace notattendance",
+    "O027": "S05 exactE125 whole maintained directgift; broader80000 reportonly",
+    "O087": "S08 wholeEvent843 directcore",
+    "O098": "S09 wholeEvent854 directcore"
+  },
+  "distinct_prior_comparisons": {
+    "O015": "PriorownwholeGroup250 comparison notdirectRio",
+    "O069": "PriorownwholeEvent825 comparison; notO087Event843"
+  },
+  "operative_author_stage": {
+    "status": "C_ONLY_AUTHOR_EXACT8_WITH_LIMITS_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+    "body_source_HEAD_at_capture": "45e924770e6971bf44c8194588d455a71956772c",
+    "original_report_source_snapshot": "45e924770e6971bf44c8194588d455a71956772c",
+    "latest_ROOT_publication_report": "148 required/17 named at BF; not a fresh own Git/provider capture; main67 and PR158 parent-reported; dated45 remains history",
+    "dated_body_first_metadata": "Body58578/196/69 is unchanged after positive body-only QA; historical no_new105 fields retain dated roles. New105 actual receipt below is operative, no rewritten body.",
+    "raw_body_two_finalLF": "Retained observed format; later canonical oneLF must have full raw recovery and is not literary finding",
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "fixed355_29_25_384_788": "UNCHANGED",
+    "existing_one_CHAR43_home42_only": true,
+    "required_named_added_here": 0,
+    "ROOT_adoption": "PENDING_NOT_CLAIMED",
+    "R_Git_provider_shared_writes": 0,
+    "protected39_privateC9_body_read_hash": 0,
+    "merge": "RESERVED"
+  },
+  "current_each_direct_owner_literal_join_role_contract": "Direct-capable owner role describes its source scope, not every paragraph link. O021 outsideS04, O027 outsideexactE125/S05, O087 outsideS08 and O098 outsideS09 are finite crosssource comparisons. Every other common105 owner link is comparative, never a newdirectRio witness.",
+  "dated_original_author_body_tuple": {
+    "C_path": "private-witness:RIO-LOC-66d81abb87dc8bed7ce9",
+    "bytes": 58578,
+    "sha256": "86933c0d358ff8416e56dc06aa4c30e97c5b23bd51d433c7c7fbd2bd32a67e1e",
+    "git_blob_oid_of_actual_bytes": "3a6b0212abca02cbd4704d4ca0fe2d498f561db1"
+  },
+  "current_public_metadata_derivative_boundary": {
+    "schema": "RIO_CURRENT_PUBLIC_METADATA_DERIVATIVE_ORIGINAL_AUTHORITY_BOUNDARY_V1",
+    "composer": "/root/publishing_shared7_review",
+    "actual_composed_utc": "2026-10-14T21:44:04Z",
+    "original_private_raw_basis": {
+      "private_original_witness_id": "RIO-ORIGINAL-source1_exact11",
+      "bytes": 82255,
+      "sha256": "3077d14e0d799a071b1e5430db630783591acbd3abeb9484699564d27cf59c3f",
+      "git_blob_oid_of_actual_bytes": "890be7714f1f5c98b7bc445bbb0b1b698eba4dba"
+    },
+    "actual_original_semantic_workflow_witness_id": "ROOT_RIO_CURRENT196_SIGNED_SEMANTIC_ADOPTION_20261014_V1",
+    "actual_original_semantic_accepted_utc": "2026-10-14T20:50:52Z",
+    "current_geometry": {
+      "original_author_physical_lines": 196,
+      "current_public_physical_lines": 208,
+      "literal_paragraphs": 69,
+      "title_actual_current_line": 29,
+      "first_literal_actual_current_line": 34,
+      "last_literal_actual_current_line": 208,
+      "source_carrier_physical_ranges": "UNCHANGED_ORIGINAL_SOURCE11",
+      "current_body": {
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_RIO_CHARACTER_MONOGRAPH.md",
+        "bytes": 59526,
+        "sha256": "0404ea9f2fff73fc809514eb0caac3c16c641fc83045db2fed503c660cf6bb1f",
+        "git_blob_oid_of_actual_bytes": "2b16a15fa684df665a9f4a0ec5cfb8b6525c3093"
+      }
+    },
+    "dated_original_control_interpretation": "Original author-stage pending/draft/frontier statements and every original source/QA/ROOT tuple remain dated to private original196/69 bytes and their actual original events. The separate current public metadata fields govern the composed208/69 byte graph. Component QA and ROOT semantic acceptance refer to the exact original eight. Independent exact12 metadata QA and ROOT composed-byte adoption are pending; no source grade, required/named count, runtime, broad cast audit, model or merge credit is created.",
+    "public_metadata_QA": "PENDING_DIFFERENT_AUTHOR_CURRENT12_REVIEW",
+    "ROOT_current12_byte_adoption": "PENDING",
+    "installation_publication_newCI_count": "PENDING_SEPARATE_ROOT_OPERATIONS",
+    "new_primary_native_AV_normal105_source_admission_models_or_merge_credit": 0
+  }
+}

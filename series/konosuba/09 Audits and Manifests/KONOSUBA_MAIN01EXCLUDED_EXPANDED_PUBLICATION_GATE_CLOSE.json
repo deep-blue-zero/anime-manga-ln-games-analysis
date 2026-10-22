@@ -1,0 +1,113 @@
+{
+  "schema": "KONOSUBA_MAIN01EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE_V1",
+  "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+  "closed_utc": "2026-10-19T06:36:36.745853+00:00",
+  "actual_source_commit": "56857658929112f685397277cf8be187a9683ab8",
+  "tree": "36d9b9bec731c0715de4e96f575ff5376a8eaf42",
+  "all8809_remote_paths_equal": true,
+  "all17_changed_blob_streams_equal": true,
+  "source_audit": {
+    "run": 39209629312,
+    "job": 117919908813,
+    "actual_source": "56857658929112f685397277cf8be187a9683ab8",
+    "paths": 8809,
+    "full_tests": 352,
+    "all5_non_success_zero": true,
+    "selection_enabled": false,
+    "log_sha256": "e58006a275c2be3ab4a2bc001c84806050e26a257afc3ed62da172e15c1e4845"
+  },
+  "housekeeping": {
+    "verified_utc": "2026-10-19T06:32:47.411744+00:00",
+    "actual_SOURCE_SHA": "56857658929112f685397277cf8be187a9683ab8",
+    "run": 39210190180,
+    "job": 117921618468,
+    "result": "NO_OP",
+    "exact_final_source_dispatch_verified": true,
+    "log_sha256": "7188687161b2c5b174e6e10aa70e2d412301e194c68969acdecdac526948df18",
+    "workflow_run_metadata_head": "2fb2567dd5f2bcb9d1f507f0554437ec5eb1160c",
+    "started_at": "2026-10-19T06:29:19Z",
+    "completed_at": "2026-10-19T06:29:44Z",
+    "selected_actual_lines": [
+      "  BRANCH_NAME: series/konosuba",
+      "  SOURCE_SHA: 56857658929112f685397277cf8be187a9683ab8",
+      "  BRANCH_NAME: series/konosuba",
+      "  SOURCE_SHA: 56857658929112f685397277cf8be187a9683ab8",
+      "  BRANCH_NAME: series/konosuba",
+      "  SOURCE_SHA: 56857658929112f685397277cf8be187a9683ab8",
+      "PASS: dispatched the full audit for 56857658929112f685397277cf8be187a9683ab8",
+      "PASS: unchanged routing and branch boundaries verified; final audit dispatched"
+    ]
+  },
+  "final_audit": {
+    "run": 39210236998,
+    "job": 117921763663,
+    "actual_source": "56857658929112f685397277cf8be187a9683ab8",
+    "paths": 8809,
+    "full_tests": 352,
+    "all5_non_success_zero": true,
+    "selection_enabled": false,
+    "log_sha256": "873e17f89c895cbe5d15c457ab4f4e7a45b23a2f6f5d9deccfb5908d048663ee",
+    "actual_snapshot_from_PASS": "56857658929112f685397277cf8be187a9683ab8",
+    "displayed_workflow_head_metadata": "2fb2567dd5f2bcb9d1f507f0554437ec5eb1160c"
+  },
+  "exact_commit_status": {
+    "url": "https://api.github.com/repos/deep-blue-zero/anime-manga-ln-games-analysis/statuses/56857658929112f685397277cf8be187a9683ab8",
+    "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+    "id": 56664523815,
+    "node_id": "SC_kwDOUJ9ads8AAAANMXgEJw",
+    "state": "success",
+    "description": "Exact commit passed the repository audit",
+    "target_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39210236998",
+    "context": "Repository integration audit",
+    "created_at": "2026-10-19T06:32:51Z",
+    "updated_at": "2026-10-19T06:32:51Z"
+  },
+  "source_branch_head": "56857658929112f685397277cf8be187a9683ab8",
+  "current_main": "ac7519dd4ab38177deb6a835ac5e08c458fa721e",
+  "source_main_integration_not_asserted": true,
+  "next": "Fresh published authority reload below, then separate exact next-source admission. Full fixed41 program remains active.",
+  "superseded_initial_housekeeping_failure": {
+    "main": "2fb2567dd5f2bcb9d1f507f0554437ec5eb1160c",
+    "prior_main": "07c2186315a0e6058fe7d497a05c8b6b962cf95e",
+    "source": "25e29f3aaf805aabd4a101f5f7abf026334dd1f7",
+    "paths": [
+      "series/genocidal-organ/00 Frameworks and Methods/GENOCIDAL_ORGAN_SYNTHESIS_ARCHITECTURE.md",
+      "series/genocidal-organ/03 Longitudinal Ledgers/GENOCIDAL_ORGAN_ACTOR_RELATIONSHIP_AND_READINESS_LEDGER.md",
+      "series/genocidal-organ/04 Character and Relationship Studies/Reconstruction/Interactive/ARTIFACT_HASHES.json",
+      "series/genocidal-organ/04 Character and Relationship Studies/Reconstruction/Interactive/GO_PACKAGER_INDEPENDENT_CORRECTION_REVIEW.json",
+      "series/genocidal-organ/04 Character and Relationship Studies/Reconstruction/Interactive/INDEPENDENT_REVIEW.md",
+      "series/genocidal-organ/04 Character and Relationship Studies/Reconstruction/Interactive/README.md",
+      "series/genocidal-organ/04 Character and Relationship Studies/Reconstruction/Interactive/adaptive_wave1.json",
+      "series/genocidal-organ/04 Character and Relationship Studies/Reconstruction/Interactive/adaptive_wave2.json",
+      "series/genocidal-organ/04 Character and Relationship Studies/Reconstruction/Interactive/character_harness.py",
+      "series/genocidal-organ/04 Character and Relationship Studies/Reconstruction/Interactive/interactions.json",
+      "series/genocidal-organ/04 Character and Relationship Studies/Reconstruction/Interactive/package_receipts.py",
+      "series/genocidal-organ/04 Character and Relationship Studies/Reconstruction/Interactive/resume_followups.py",
+      "series/genocidal-organ/04 Character and Relationship Studies/Reconstruction/Interactive/runtime_context.json",
+      "series/genocidal-organ/04 Character and Relationship Studies/Reconstruction/Interactive/runtime_receipt.json",
+      "series/genocidal-organ/04 Character and Relationship Studies/Reconstruction/Interactive/scenarios.json",
+      "series/genocidal-organ/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "series/genocidal-organ/GENOCIDAL_ORGAN_PROJECT_HISTORY.md"
+    ],
+    "failed_housekeeping_run": 39208925713,
+    "failed_job": 117917742232,
+    "reason": "FAIL: incorporate current main before housekeeping can finalize this branch",
+    "log_sha256": "95dbf42a74f72fa4b699c556f29e00bfb9862ad41c7783bf9c5b571ae96bba4b",
+    "old_source_audit_success_preserved": true,
+    "old_source_gate_was_not_closed": true,
+    "repair_requires_new_source_audit_housekeeping_and_final_exact_source_status": true
+  },
+  "current_main_incorporated_in_source": false,
+  "post_publication_main_drift": {
+    "current_main": "ac7519dd4ab38177deb6a835ac5e08c458fa721e",
+    "main_incorporated_before_source_push": "2fb2567dd5f2bcb9d1f507f0554437ec5eb1160c",
+    "accepted_later_delta_paths": [
+      "series/harmony/CURRENT_STATE_AND_CORPUS_MAP.md"
+    ],
+    "KonoSuba_governance_and_global_controls_unchanged_by_delta": true,
+    "later_main_status_success": true,
+    "current_main_incorporated_in_source": false,
+    "required_before_next_push": "Ordinary merge then-current main, review full candidate, rerun affected author preflight and fresh both-head/rules/identity checks. Existing audit certifies only this existing source SHA.",
+    "closure_basis": "Stable analytical publication sequence steps4-6 and owner acceptance discipline: exact source/readback/sourceaudit/HK/finalsource status are closed; later unrelated accepted main is a separate synchronization obligation before the next push. Housekeeping NO_OP did not request main incorporation."
+  }
+}

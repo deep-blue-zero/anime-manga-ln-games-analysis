@@ -1,0 +1,75 @@
+{
+  "schema": "KONOSUBA_TAYLOR_SOURCE_KNOWN_INTERNAL_ASSESSMENT_V1",
+  "recorded_utc": "2026-10-20T13:01:07.551526+00:00",
+  "model_sha256": "4e7b8b70962cdd6ad8a90fa987ba3279a23e8480dd4f92660822db76bb552701",
+  "rule_inventory_sha256": "090baf49ab83cb17d27b3c21e567c99b059832315c1cebf30d26adbb7c671b20",
+  "scenario_input_sha256": "0b7d8a16eebad0fbbee69a8f0c4ea98b3b0558a03310c11ba8fad69bec3b880b",
+  "first_outputs_sha256": "3838d3275569ebadcf5d56b706b050c73b039e8be675600e07754e9751c3b548",
+  "first_body_freeze_sha256": "7b52f264d587548d1f169bb9a99b3a1d769797a6c6375560d520ba8a1a73463f",
+  "same_informed_root_author": true,
+  "fully_received_input_and_body_outputs": "complete_Taylor_input_and_body_readback_immediately_before_assessment",
+  "cases": [
+    {
+      "case_id": "TAYLOR-H01A",
+      "body_utf8_sha256": "b2ef9ac6e2a964190dd3d69c21895cf178c67edaefcef7e14d2e844ece5da41a",
+      "typed_length_and_hash_checks": "EXACT; this is not behavioral validation",
+      "packet_and_action_staging": "The reply waits for the specified missing account and pauses discussion. It does not certify the hall, diagnose the beam, produce Mira reply or declare a final decision.",
+      "rule_fit_and_rivals": "Compatible with the observed procedural branch. It is also a generic sensible-chair response to an explicitly incomplete information packet.",
+      "source_accuracy_result": null,
+      "capability_grade": null
+    },
+    {
+      "case_id": "TAYLOR-H01B",
+      "body_utf8_sha256": "ab58ec87d459ba517ee2307aff36cc2b480d853e385f2d8eef7418700698e844",
+      "typed_length_and_hash_checks": "EXACT; this is not behavioral validation",
+      "packet_and_action_staging": "The reply calls for the supplied exit and moves toward it. It does not narrate everyone obeying, completed evacuation, injury or expert diagnosis.",
+      "rule_fit_and_rivals": "The supplied immediate falling beam changes action before all reports. This avoids a rigid wait-for-all algorithm, without validating a Taylor-specific danger threshold.",
+      "source_accuracy_result": null,
+      "capability_grade": null
+    },
+    {
+      "case_id": "TAYLOR-H02A",
+      "body_utf8_sha256": "69aab92f5cc177cdf9b0de831e313ce5e4aa4dc655688af593785e68d15a3133",
+      "typed_length_and_hash_checks": "EXACT; this is not behavioral validation",
+      "packet_and_action_staging": "The reply improperly expands yesterday broad agreement into present pressure, while pulling the gate toward closed. Ren current refusal remains in the frozen input; the body supplies no new consent or completed training.",
+      "rule_fit_and_rivals": "Coercive action is preserved instead of optimized away. The direct physical action is his own, not proof of full confinement or an injury.",
+      "source_accuracy_result": null,
+      "capability_grade": null
+    },
+    {
+      "case_id": "TAYLOR-H02B",
+      "body_utf8_sha256": "2ecb40bbabd5942c700532c3fd10b23bc66da9c6e7c6442397fb9928f549c5a6",
+      "typed_length_and_hash_checks": "EXACT; this is not behavioral validation",
+      "packet_and_action_staging": "The reply allows departure and distinguishes broad prior help from this route, then steps away. It does not narrate Ren leaving or forgiveness.",
+      "rule_fit_and_rivals": "Compatible with a respectful branch, but the explanation is unusually precise and ethically tidy. No evidence here establishes that being alone reliably produces this response.",
+      "source_accuracy_result": null,
+      "capability_grade": null
+    }
+  ],
+  "designed_pairs": [
+    {
+      "pair": "TAYLOR-H01A/TAYLOR-H01B",
+      "observed_difference": "Deliberative pause versus immediate exit instruction and own movement.",
+      "identification_limit": "A generic competent organizer shows the same obvious response to an explicit danger. No causal/personality parameter or source prediction is estimated."
+    },
+    {
+      "pair": "TAYLOR-H02A/TAYLOR-H02B",
+      "observed_difference": "Coercive gate movement under peer endorsement versus stepping away without it.",
+      "identification_limit": "The designed contrast is actual in these frozen bodies, but it cannot establish the model coalition threshold or unique mechanism. Generic conformity and ordinary conflict avoidance remain rivals."
+    }
+  ],
+  "unprobed": [
+    "Admirable-motive bias, document checking and fine recipient-perspective reasoning are not separately tested.",
+    "Real defensive capacity, material lending, financial vulnerability and comprehensive repair remain untested.",
+    "No Japanese generation, unfamiliar institutional authority or long-term planning finding follows."
+  ],
+  "overcoherence": "H02B gives a notably clear principle and the overall pair makes a clean coalition/no-coalition switch. The sources do not calibrate that switch. Retain this overcoherence concern alongside H02A adverse action instead of treating either body as the only real Taylor.",
+  "maturity": "First provisional source-known conditional candidate. Packet consistency and designed contrast do not identify a unique individual mechanism.",
+  "total_first_bodies": 4,
+  "total_regenerations": 0,
+  "independent_accuracy_result": null,
+  "confidence_gain": 0,
+  "source_validation_credit": 0,
+  "capability_grade": null,
+  "repair_to_frozen_models_inputs_or_bodies": false
+}

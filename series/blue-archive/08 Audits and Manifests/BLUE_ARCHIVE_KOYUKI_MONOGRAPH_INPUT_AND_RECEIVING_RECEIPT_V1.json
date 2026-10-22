@@ -1,0 +1,2473 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_SPECIALIST_INPUT_AND_AUTHOR_SCOPE_RECEIPT_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE",
+  "subject": "Koyuki",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KOYUKI_CHARACTER_MONOGRAPH.md",
+  "canonical_adoption_boundary": "This candidate takes effect only after ROOT verifies and installs all declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The exact original is immutable; pending, C-only, historical 353/26 or publication states below describe its original custody event. Current required scope is355/29. They are not current adoption states.",
+  "original_exact_tuple": {
+    "path": "MILLENNIUM_KOYUKI_VERITAS_MONOGRAPHS/KOYUKI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+    "bytes": 41013,
+    "sha256": "1351fc8a2bcb5c4ea65e7777dbced84553eda5daaaa987b158ad702bc544a2cc",
+    "git_blob_oid_of_actual_bytes": "92d7499ff338749a6ac3e3f89cfeed6cdfc29491",
+    "lines": 789
+  },
+  "public_reference_translation": "Repository paths are recoverable repository-relative routes; external/private/local witness labels preserve provenance only and do not serve files or admit new material. No original tuple is recomputed as a public derivative tuple.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "ROOT complete literary decision is preserved; mechanical full-byte transport and exactness are separately checked."
+  },
+  "historical_author_or_root_payload": {
+    "schema": "BLUE_ARCHIVE_PHASE3_KOYUKI_SOURCE_AND_AUTHOR_SCOPE_V1",
+    "status": "AUTHOR_COMPLETE_BOUNDARY_ROOT_RECEIVING_PENDING",
+    "created": "2026-10-10",
+    "package": "P3-CHAR-KOYUKI-CH0198",
+    "typed_family": "P3-F063",
+    "dated_route": "P3-A135",
+    "identity": {
+      "person_key": "BA_PERSON_CH0198",
+      "variant_routes": [
+        "10063",
+        "20056"
+      ],
+      "literalWhiteRabbit": "Existing person introducedlocally atE806008,114upstream joinsremainempty; noautomatic rekeying",
+      "technicalClubNone": "Notoverriding explicitSeminar writtenaffiliation"
+    },
+    "candidate": {
+      "working_artifact_relative_path": "MILLENNIUM_KOYUKI_VERITAS_MONOGRAPHS/BLUE_ARCHIVE_KOYUKI_CHARACTER_MONOGRAPH.md",
+      "byte_count": 44852,
+      "line_count": 220,
+      "sha256": "0bd143fb3005f57427b6196077b28b4bd1e0d736de12bcd1af9712083d0657e0",
+      "actual_byte_blob_oid": "06e7898bb1399352603158e0ae23a39cbeb6778e"
+    },
+    "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KOYUKI_CHARACTER_MONOGRAPH.md",
+    "required_home": {
+      "home_key": "P3-CHAR-KOYUKI-CH0198",
+      "kind": "CHARACTER",
+      "recommended_allocation": "PROPOSED_REQUIRED_STANDALONE_PACKAGE",
+      "source_responsibility_refs": [
+        "P3-F063"
+      ],
+      "literary_rationale": [
+        "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+      ],
+      "ROOT_adoption": "ACCEPTED_REQUIRED_SCOPE_WITH_LIMITS",
+      "counts_as_completed": false,
+      "proposed_denominator_entry": true
+    },
+    "declared_historical_analytical_baseline": "7489d76d96b232609f1cd16473173b6dc4ab0eee",
+    "current_local_HEAD_at_binding": "1bb97d07f51773d028d044616fbc0dc2a6051b40",
+    "main_comparator": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+    "c1_analytical_comparator": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+    "current_source_distinction": "ROOT fifteen-characterV6 installed/pushed1bb97d07; sourceaudit chainpendingatwriting. Enumerated small analytical sourcebytesunchanged from7489/c1 exceptcurrentV3controls absentc1/main; arch1.12versusmain1.11elevensectionsunchanged. No mutablecompletionmap/index usedassourceauthority.",
+    "modern_source_pin": {
+      "repository": "electricgoat/ba-data@jp",
+      "commit": "a038020f1f5ac02dcfe76962426d38f86414cdd8",
+      "generation": "BA_REFRESH_20260928T032248159554Z",
+      "parser": "0.2.0"
+    },
+    "producer_provenance": "Normal owners retain historical primary, raw, sourcehash and reviewedcontrol statements; modern exactanalytical equality is not producer recertification. Cycle008 governscurrent3940supplementaladmission and480MAIN; allocationcountsnotliteraryproof.",
+    "inputs": [
+      {
+        "source_id": "A01",
+        "repository_relative_path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+        "byte_count": 52261,
+        "line_count": 851,
+        "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+        "actual_byte_blob_oid": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45",
+        "inspected_scope": "Current required eleven sections L322–344 personally received fb4f2f; current1.12 equalsc1 but main1.11 differs, eleven requirements unchanged",
+        "custody_credit": "SCOPED_CURRENT_CONTROL",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit_added": 0,
+        "performed_credit": 0,
+        "current_HEAD_comparison": {
+          "snapshot": "1bb97d07f51773d028d044616fbc0dc2a6051b40",
+          "byte_count": 52261,
+          "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+          "commit_blob_oid": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45"
+        },
+        "historical7489_comparison": {
+          "snapshot": "7489d76d96b232609f1cd16473173b6dc4ab0eee",
+          "byte_count": 52261,
+          "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+          "commit_blob_oid": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45"
+        },
+        "c1_comparison": {
+          "snapshot": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+          "byte_count": 52261,
+          "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+          "commit_blob_oid": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45"
+        },
+        "main_comparison": {
+          "snapshot": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+          "byte_count": 51287,
+          "sha256": "e5e0c9794fdb9664a61110eb002afc75011b75e49ab5965ad8808231455cd7cd",
+          "commit_blob_oid": "685661b716fd0032997883efeb294425b0816c18"
+        },
+        "same_main": false
+      },
+      {
+        "source_id": "A02",
+        "repository_relative_path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md",
+        "byte_count": 53414,
+        "line_count": 840,
+        "sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d",
+        "actual_byte_blob_oid": "49c7b15ecae4e2a7819b08e2d7392aa095caf982",
+        "inspected_scope": "Applicable entire L327–379 minimum sources/required dimensions/ordinary before crisis personally received31a0cb; prior necessary comparison/counterreading controls retained",
+        "custody_credit": "SCOPED_CURRENT_CONTROL",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit_added": 0,
+        "performed_credit": 0,
+        "current_HEAD_comparison": {
+          "snapshot": "1bb97d07f51773d028d044616fbc0dc2a6051b40",
+          "byte_count": 53414,
+          "sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d",
+          "commit_blob_oid": "49c7b15ecae4e2a7819b08e2d7392aa095caf982"
+        },
+        "historical7489_comparison": {
+          "snapshot": "7489d76d96b232609f1cd16473173b6dc4ab0eee",
+          "byte_count": 53414,
+          "sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d",
+          "commit_blob_oid": "49c7b15ecae4e2a7819b08e2d7392aa095caf982"
+        },
+        "c1_comparison": {
+          "snapshot": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+          "byte_count": 53414,
+          "sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d",
+          "commit_blob_oid": "49c7b15ecae4e2a7819b08e2d7392aa095caf982"
+        },
+        "main_comparison": {
+          "snapshot": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+          "byte_count": 53414,
+          "sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d",
+          "commit_blob_oid": "49c7b15ecae4e2a7819b08e2d7392aa095caf982"
+        },
+        "same_main": true
+      },
+      {
+        "source_id": "A03",
+        "repository_relative_path": "series/blue-archive/01 Source Lock and Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md",
+        "byte_count": 79178,
+        "line_count": 354,
+        "sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6",
+        "actual_byte_blob_oid": "0e15ecdee162ba461e475081e2b430a17ce76edf",
+        "inspected_scope": "Prior personally received all fourteen literal definitions L31–44 in Noa frozen source receipt C03, with G13/G14 recoveryf0f49c; reused at exact current tuple",
+        "custody_credit": "PRIOR_COMPLETE_DECLARED_GAP_CONTROL_SCOPE",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit_added": 0,
+        "performed_credit": 0,
+        "current_HEAD_comparison": {
+          "snapshot": "1bb97d07f51773d028d044616fbc0dc2a6051b40",
+          "byte_count": 79178,
+          "sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6",
+          "commit_blob_oid": "0e15ecdee162ba461e475081e2b430a17ce76edf"
+        },
+        "historical7489_comparison": {
+          "snapshot": "7489d76d96b232609f1cd16473173b6dc4ab0eee",
+          "byte_count": 79178,
+          "sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6",
+          "commit_blob_oid": "0e15ecdee162ba461e475081e2b430a17ce76edf"
+        },
+        "c1_comparison": {
+          "snapshot": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+          "byte_count": 79178,
+          "sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6",
+          "commit_blob_oid": "0e15ecdee162ba461e475081e2b430a17ce76edf"
+        },
+        "main_comparison": {
+          "snapshot": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+          "byte_count": 79178,
+          "sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6",
+          "commit_blob_oid": "0e15ecdee162ba461e475081e2b430a17ce76edf"
+        },
+        "same_main": true
+      },
+      {
+        "source_id": "A04",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_008_CHECKPOINT.md",
+        "byte_count": 19463,
+        "line_count": 113,
+        "sha256": "2edc13d495903bbf7e4d7a99c1182c383c17a51432c8931c2d0162a7c6ddb4ac",
+        "actual_byte_blob_oid": "32e02542f3ca16d124d42d6baaf8247b14cdb6e2",
+        "inspected_scope": "Prior complete current113-line Cycle008 admission/control argument reused from frozen Trinity/Noa custody; not fresh primary",
+        "custody_credit": "PRIOR_COMPLETE_ACCEPTED_ADMISSION_CONTROL",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit_added": 0,
+        "performed_credit": 0,
+        "current_HEAD_comparison": {
+          "snapshot": "1bb97d07f51773d028d044616fbc0dc2a6051b40",
+          "byte_count": 19463,
+          "sha256": "2edc13d495903bbf7e4d7a99c1182c383c17a51432c8931c2d0162a7c6ddb4ac",
+          "commit_blob_oid": "32e02542f3ca16d124d42d6baaf8247b14cdb6e2"
+        },
+        "historical7489_comparison": {
+          "snapshot": "7489d76d96b232609f1cd16473173b6dc4ab0eee",
+          "byte_count": 19463,
+          "sha256": "2edc13d495903bbf7e4d7a99c1182c383c17a51432c8931c2d0162a7c6ddb4ac",
+          "commit_blob_oid": "32e02542f3ca16d124d42d6baaf8247b14cdb6e2"
+        },
+        "c1_comparison": {
+          "snapshot": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+          "byte_count": 19463,
+          "sha256": "2edc13d495903bbf7e4d7a99c1182c383c17a51432c8931c2d0162a7c6ddb4ac",
+          "commit_blob_oid": "32e02542f3ca16d124d42d6baaf8247b14cdb6e2"
+        },
+        "main_comparison": {
+          "snapshot": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+          "byte_count": 19463,
+          "sha256": "2edc13d495903bbf7e4d7a99c1182c383c17a51432c8931c2d0162a7c6ddb4ac",
+          "commit_blob_oid": "32e02542f3ca16d124d42d6baaf8247b14cdb6e2"
+        },
+        "same_main": true
+      },
+      {
+        "source_id": "C05",
+        "repository_relative_path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+        "byte_count": 461112,
+        "line_count": 6514,
+        "sha256": "b6770ac0a673f7c5d9f96f31d0c945cd5fdc21c792366c2d16a51be6e4c3322a",
+        "actual_byte_blob_oid": "ebb0e1c66caa01a9414cc84cba49cbf80b7526e1",
+        "inspected_scope": "Current exact Koyuki home and following Chihiro/Hare/Kotama/Maki home projections28fb47; only selected homes/order and355/29control, not whole fullcast semantic receiving",
+        "custody_credit": "CURRENT_SELECTED_REQUIRED_HOME_CONTROL",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit_added": 0,
+        "performed_credit": 0,
+        "current_HEAD_comparison": {
+          "snapshot": "1bb97d07f51773d028d044616fbc0dc2a6051b40",
+          "byte_count": 461112,
+          "sha256": "b6770ac0a673f7c5d9f96f31d0c945cd5fdc21c792366c2d16a51be6e4c3322a",
+          "commit_blob_oid": "ebb0e1c66caa01a9414cc84cba49cbf80b7526e1"
+        },
+        "historical7489_comparison": {
+          "snapshot": "7489d76d96b232609f1cd16473173b6dc4ab0eee",
+          "byte_count": 461112,
+          "sha256": "b6770ac0a673f7c5d9f96f31d0c945cd5fdc21c792366c2d16a51be6e4c3322a",
+          "commit_blob_oid": "ebb0e1c66caa01a9414cc84cba49cbf80b7526e1"
+        },
+        "c1_main_comparison": "NOT_APPLICABLE_REQUIRED_SCOPE_V3_SUCCESSOR_CONTROLS"
+      },
+      {
+        "source_id": "C06",
+        "repository_relative_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_SCOPE_ROOT_ACCEPTANCE_V3.json",
+        "byte_count": 21833,
+        "line_count": 289,
+        "sha256": "2350c273cc06f2d86273b177b299521d96da7ee108c8a8368d4d652487483454",
+        "actual_byte_blob_oid": "195739a98c7b439b48bfd8e973282e941a45d8e1",
+        "inspected_scope": "Prior exact current ROOT V3 scope acceptance355/29 with zero allocation completion and all14OPEN reused; no new ROOT adjudication or whole review credit",
+        "custody_credit": "CURRENT_SCOPE_ACCEPTANCE_CONTROL_REUSE",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit_added": 0,
+        "performed_credit": 0,
+        "current_HEAD_comparison": {
+          "snapshot": "1bb97d07f51773d028d044616fbc0dc2a6051b40",
+          "byte_count": 21833,
+          "sha256": "2350c273cc06f2d86273b177b299521d96da7ee108c8a8368d4d652487483454",
+          "commit_blob_oid": "195739a98c7b439b48bfd8e973282e941a45d8e1"
+        },
+        "historical7489_comparison": {
+          "snapshot": "7489d76d96b232609f1cd16473173b6dc4ab0eee",
+          "byte_count": 21833,
+          "sha256": "2350c273cc06f2d86273b177b299521d96da7ee108c8a8368d4d652487483454",
+          "commit_blob_oid": "195739a98c7b439b48bfd8e973282e941a45d8e1"
+        },
+        "c1_main_comparison": "NOT_APPLICABLE_REQUIRED_SCOPE_V3_SUCCESSOR_CONTROLS"
+      },
+      {
+        "source_id": "K01",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOYUKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "byte_count": 38759,
+        "line_count": 320,
+        "sha256": "729d9f274c48739ae5f342626193291975aeaf455c54b7713c2903e4b4582b2c",
+        "actual_byte_blob_oid": "e133a54dd5c2e210363fbee9a929467561f50575",
+        "inspected_scope": "Current personally complete320-line normal owner:31a0cbL1–151 source/control metadata,fc52f8L152–320 complete admitted/current qualification plus all ten pair and three written meanings through EOF. Extra displayed empty321 is not source content. Producer23primary/typed/raw counts remain attributed; fresh author receives analytical meaning only",
+        "custody_credit": "PERSONALLY_COMPLETE_CURRENT_PRIVATE_AND_WRITTEN_ARGUMENT",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit_added": 0,
+        "performed_credit": 0,
+        "current_HEAD_comparison": {
+          "snapshot": "1bb97d07f51773d028d044616fbc0dc2a6051b40",
+          "byte_count": 38759,
+          "sha256": "729d9f274c48739ae5f342626193291975aeaf455c54b7713c2903e4b4582b2c",
+          "commit_blob_oid": "e133a54dd5c2e210363fbee9a929467561f50575"
+        },
+        "historical7489_comparison": {
+          "snapshot": "7489d76d96b232609f1cd16473173b6dc4ab0eee",
+          "byte_count": 38759,
+          "sha256": "729d9f274c48739ae5f342626193291975aeaf455c54b7713c2903e4b4582b2c",
+          "commit_blob_oid": "e133a54dd5c2e210363fbee9a929467561f50575"
+        },
+        "c1_comparison": {
+          "snapshot": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+          "byte_count": 38759,
+          "sha256": "729d9f274c48739ae5f342626193291975aeaf455c54b7713c2903e4b4582b2c",
+          "commit_blob_oid": "e133a54dd5c2e210363fbee9a929467561f50575"
+        },
+        "main_comparison": {
+          "snapshot": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+          "byte_count": 38759,
+          "sha256": "729d9f274c48739ae5f342626193291975aeaf455c54b7713c2903e4b4582b2c",
+          "commit_blob_oid": "e133a54dd5c2e210363fbee9a929467561f50575"
+        },
+        "same_main": true
+      },
+      {
+        "source_id": "E06",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_806/BLUE_ARCHIVE_EVENT_806_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+        "byte_count": 16448,
+        "line_count": 103,
+        "sha256": "187b924e3c750ba582de81a751ba5bd45d99e7b30d78cac38e33f80cb0ab5091",
+        "actual_byte_blob_oid": "f3884e23561ec74f020ae5d6f9cfbd8e9cd50465",
+        "inspected_scope": "Fresh complete103-line maintained eleven-object connected comparison7e5b86 through EOF. CorrectedE008 source-local identity, spending, rejected tag, failed water escape and reported custody retained. Original producer source/hash/QA custody attributed; no new raw/primary",
+        "custody_credit": "PERSONALLY_COMPLETE_CURRENT_EVENT_COMPARISON",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit_added": 0,
+        "performed_credit": 0,
+        "current_HEAD_comparison": {
+          "snapshot": "1bb97d07f51773d028d044616fbc0dc2a6051b40",
+          "byte_count": 16448,
+          "sha256": "187b924e3c750ba582de81a751ba5bd45d99e7b30d78cac38e33f80cb0ab5091",
+          "commit_blob_oid": "f3884e23561ec74f020ae5d6f9cfbd8e9cd50465"
+        },
+        "historical7489_comparison": {
+          "snapshot": "7489d76d96b232609f1cd16473173b6dc4ab0eee",
+          "byte_count": 16448,
+          "sha256": "187b924e3c750ba582de81a751ba5bd45d99e7b30d78cac38e33f80cb0ab5091",
+          "commit_blob_oid": "f3884e23561ec74f020ae5d6f9cfbd8e9cd50465"
+        },
+        "c1_comparison": {
+          "snapshot": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+          "byte_count": 16448,
+          "sha256": "187b924e3c750ba582de81a751ba5bd45d99e7b30d78cac38e33f80cb0ab5091",
+          "commit_blob_oid": "f3884e23561ec74f020ae5d6f9cfbd8e9cd50465"
+        },
+        "main_comparison": {
+          "snapshot": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+          "byte_count": 16448,
+          "sha256": "187b924e3c750ba582de81a751ba5bd45d99e7b30d78cac38e33f80cb0ab5091",
+          "commit_blob_oid": "f3884e23561ec74f020ae5d6f9cfbd8e9cd50465"
+        },
+        "same_main": true
+      },
+      {
+        "source_id": "E42",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md",
+        "byte_count": 31482,
+        "line_count": 149,
+        "sha256": "1df4ea37a6733bd3fd4d5285f7d3aedda7c864a415968f9f537188b2bd7be6ed",
+        "actual_byte_blob_oid": "f0f9557a65b075016a229b764d9385835cde666a",
+        "inspected_scope": "Prior personally complete149-line fifteen-object argument4e61bb during Noa; consequential entire currentL87–124 receivedfc4207. Full event meanings, gift, pursuit/refusal, non-destructive report, local games/penalty/resource waste, prospective interview and ongoing filing retained; historical source modes attributed",
+        "custody_credit": "PRIOR_COMPLETE_EVENT_ARGUMENT_WITH_CURRENT_CONSEQUENTIAL_RECEIVING",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit_added": 0,
+        "performed_credit": 0,
+        "current_HEAD_comparison": {
+          "snapshot": "1bb97d07f51773d028d044616fbc0dc2a6051b40",
+          "byte_count": 31482,
+          "sha256": "1df4ea37a6733bd3fd4d5285f7d3aedda7c864a415968f9f537188b2bd7be6ed",
+          "commit_blob_oid": "f0f9557a65b075016a229b764d9385835cde666a"
+        },
+        "historical7489_comparison": {
+          "snapshot": "7489d76d96b232609f1cd16473173b6dc4ab0eee",
+          "byte_count": 31482,
+          "sha256": "1df4ea37a6733bd3fd4d5285f7d3aedda7c864a415968f9f537188b2bd7be6ed",
+          "commit_blob_oid": "f0f9557a65b075016a229b764d9385835cde666a"
+        },
+        "c1_comparison": {
+          "snapshot": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+          "byte_count": 31482,
+          "sha256": "1df4ea37a6733bd3fd4d5285f7d3aedda7c864a415968f9f537188b2bd7be6ed",
+          "commit_blob_oid": "f0f9557a65b075016a229b764d9385835cde666a"
+        },
+        "main_comparison": {
+          "snapshot": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+          "byte_count": 31482,
+          "sha256": "1df4ea37a6733bd3fd4d5285f7d3aedda7c864a415968f9f537188b2bd7be6ed",
+          "commit_blob_oid": "f0f9557a65b075016a229b764d9385835cde666a"
+        },
+        "same_main": true
+      },
+      {
+        "source_id": "F00",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "byte_count": 49292,
+        "line_count": 452,
+        "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+        "actual_byte_blob_oid": "4712932e1058e7babcc693932caedcfd1a076622",
+        "inspected_scope": "Prior personally complete452-line Final contextual argument in frozen first Trinity trio reused through Noa frozen F00 custody; current relevant local clauses149/210/229/334 routed39b90b/7e5b86. Historical producer/source statuses qualified by currentCycle008; no aggregate causal transfer to Koyuki",
+        "custody_credit": "PRIOR_COMPLETE_ACCEPTED_FINAL_CONTEXTUAL_ARGUMENT",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit_added": 0,
+        "performed_credit": 0,
+        "current_HEAD_comparison": {
+          "snapshot": "1bb97d07f51773d028d044616fbc0dc2a6051b40",
+          "byte_count": 49292,
+          "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+          "commit_blob_oid": "4712932e1058e7babcc693932caedcfd1a076622"
+        },
+        "historical7489_comparison": {
+          "snapshot": "7489d76d96b232609f1cd16473173b6dc4ab0eee",
+          "byte_count": 49292,
+          "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+          "commit_blob_oid": "4712932e1058e7babcc693932caedcfd1a076622"
+        },
+        "c1_comparison": {
+          "snapshot": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+          "byte_count": 49292,
+          "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+          "commit_blob_oid": "4712932e1058e7babcc693932caedcfd1a076622"
+        },
+        "main_comparison": {
+          "snapshot": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+          "byte_count": 49292,
+          "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+          "commit_blob_oid": "4712932e1058e7babcc693932caedcfd1a076622"
+        },
+        "same_main": true
+      },
+      {
+        "source_id": "F04",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E004_DEEP_READING.md",
+        "byte_count": 7307,
+        "line_count": 57,
+        "sha256": "07a492b0629276116c57ec5f8d6cee65f4325a3abd86eead684ca630c1121f12",
+        "actual_byte_blob_oid": "b83b2db914cdc669baa47217a32687befbca4ac9",
+        "inspected_scope": "Fresh whole small accepted episode argumentfc4207 through EOF: urgent recall/release declaration/contested bond forgery/cipher not yet solved/actor inversions. All other site actors and plans retained at original scope; no primary replay",
+        "custody_credit": "PERSONALLY_COMPLETE_CURRENT_FINAL_RECALL_ARGUMENT",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit_added": 0,
+        "performed_credit": 0,
+        "current_HEAD_comparison": {
+          "snapshot": "1bb97d07f51773d028d044616fbc0dc2a6051b40",
+          "byte_count": 7307,
+          "sha256": "07a492b0629276116c57ec5f8d6cee65f4325a3abd86eead684ca630c1121f12",
+          "commit_blob_oid": "b83b2db914cdc669baa47217a32687befbca4ac9"
+        },
+        "historical7489_comparison": {
+          "snapshot": "7489d76d96b232609f1cd16473173b6dc4ab0eee",
+          "byte_count": 7307,
+          "sha256": "07a492b0629276116c57ec5f8d6cee65f4325a3abd86eead684ca630c1121f12",
+          "commit_blob_oid": "b83b2db914cdc669baa47217a32687befbca4ac9"
+        },
+        "c1_comparison": {
+          "snapshot": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+          "byte_count": 7307,
+          "sha256": "07a492b0629276116c57ec5f8d6cee65f4325a3abd86eead684ca630c1121f12",
+          "commit_blob_oid": "b83b2db914cdc669baa47217a32687befbca4ac9"
+        },
+        "main_comparison": {
+          "snapshot": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+          "byte_count": 7307,
+          "sha256": "07a492b0629276116c57ec5f8d6cee65f4325a3abd86eead684ca630c1121f12",
+          "commit_blob_oid": "b83b2db914cdc669baa47217a32687befbca4ac9"
+        },
+        "same_main": true
+      },
+      {
+        "source_id": "F17",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E017_DEEP_READING.md",
+        "byte_count": 3473,
+        "line_count": 31,
+        "sha256": "a2bf3b5e5f0fca822f07824156f642644a9fe479f0708aba2dc938ad3cff68fc",
+        "actual_byte_blob_oid": "b6d1fa5c1a153e7ad2ca2172ecee831da8014c4f",
+        "inspected_scope": "Fresh whole small accepted episode argumentde2c6d through EOF: participant-corroborated cipher solve, unprintedcode/log, next Hod/barrier assignment and protest, separate destructive excavation. Self-address drift qualified; no exclusive capability/finished lure",
+        "custody_credit": "PERSONALLY_COMPLETE_CURRENT_FINAL_CIPHER_ARGUMENT",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit_added": 0,
+        "performed_credit": 0,
+        "current_HEAD_comparison": {
+          "snapshot": "1bb97d07f51773d028d044616fbc0dc2a6051b40",
+          "byte_count": 3473,
+          "sha256": "a2bf3b5e5f0fca822f07824156f642644a9fe479f0708aba2dc938ad3cff68fc",
+          "commit_blob_oid": "b6d1fa5c1a153e7ad2ca2172ecee831da8014c4f"
+        },
+        "historical7489_comparison": {
+          "snapshot": "7489d76d96b232609f1cd16473173b6dc4ab0eee",
+          "byte_count": 3473,
+          "sha256": "a2bf3b5e5f0fca822f07824156f642644a9fe479f0708aba2dc938ad3cff68fc",
+          "commit_blob_oid": "b6d1fa5c1a153e7ad2ca2172ecee831da8014c4f"
+        },
+        "c1_comparison": {
+          "snapshot": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+          "byte_count": 3473,
+          "sha256": "a2bf3b5e5f0fca822f07824156f642644a9fe479f0708aba2dc938ad3cff68fc",
+          "commit_blob_oid": "b6d1fa5c1a153e7ad2ca2172ecee831da8014c4f"
+        },
+        "main_comparison": {
+          "snapshot": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+          "byte_count": 3473,
+          "sha256": "a2bf3b5e5f0fca822f07824156f642644a9fe479f0708aba2dc938ad3cff68fc",
+          "commit_blob_oid": "b6d1fa5c1a153e7ad2ca2172ecee831da8014c4f"
+        },
+        "same_main": true
+      },
+      {
+        "source_id": "E21",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_821/BLUE_ARCHIVE_EVENT_821_CONTEXTUALIZATION_CHECKPOINT.md",
+        "byte_count": 28870,
+        "line_count": 157,
+        "sha256": "3db44147f6a64482a606bf53d6dac4d328d15bb39fd07db439a6c853463d2b38",
+        "actual_byte_blob_oid": "59a74816f84bbcc362ffc3684016ad713b930372",
+        "inspected_scope": "Prior personally complete157-line sixteen-object coalition argumentf665fe during Noa; current full consequential010/011/131 clauses received7e5b86. Request/exasperation precedes operation completion report, no transfer of every method or sole victory credit",
+        "custody_credit": "PRIOR_COMPLETE_ACCEPTED_COALITION_ARGUMENT",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit_added": 0,
+        "performed_credit": 0,
+        "current_HEAD_comparison": {
+          "snapshot": "1bb97d07f51773d028d044616fbc0dc2a6051b40",
+          "byte_count": 28870,
+          "sha256": "3db44147f6a64482a606bf53d6dac4d328d15bb39fd07db439a6c853463d2b38",
+          "commit_blob_oid": "59a74816f84bbcc362ffc3684016ad713b930372"
+        },
+        "historical7489_comparison": {
+          "snapshot": "7489d76d96b232609f1cd16473173b6dc4ab0eee",
+          "byte_count": 28870,
+          "sha256": "3db44147f6a64482a606bf53d6dac4d328d15bb39fd07db439a6c853463d2b38",
+          "commit_blob_oid": "59a74816f84bbcc362ffc3684016ad713b930372"
+        },
+        "c1_comparison": {
+          "snapshot": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+          "byte_count": 28870,
+          "sha256": "3db44147f6a64482a606bf53d6dac4d328d15bb39fd07db439a6c853463d2b38",
+          "commit_blob_oid": "59a74816f84bbcc362ffc3684016ad713b930372"
+        },
+        "main_comparison": {
+          "snapshot": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+          "byte_count": 28870,
+          "sha256": "3db44147f6a64482a606bf53d6dac4d328d15bb39fd07db439a6c853463d2b38",
+          "commit_blob_oid": "59a74816f84bbcc362ffc3684016ad713b930372"
+        },
+        "same_main": true
+      }
+    ],
+    "local_prior_inputs": [
+      {
+        "working_artifact_relative_path": "CENSUS_MILLENNIUM_V2/BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md",
+        "byte_count": 66232,
+        "line_count": 429,
+        "sha256": "70f9436537da6fa1d5299a96b934d439cd2b6015182a87fbfe82b5014a9dfd49",
+        "actual_byte_blob_oid": "b0a09ae06d6b867c7eeb996d8d7c619df6663ce8",
+        "scope": "Current selected complete Koyuki eligibilityargumentL209–231 received28fb47; prior whole V2 author custody andROOTacceptance elsewhere, not a completedmonograph"
+      },
+      {
+        "working_artifact_relative_path": "CENSUS_MILLENNIUM_V2/BLUE_ARCHIVE_PHASE3_MILLENNIUM_DECISION_REGISTER_V2.json",
+        "byte_count": 34855,
+        "line_count": 757,
+        "sha256": "41fd1078e3f7b15ec4225f6cf71dad5a623fb7cbc06778042872e5b2cabdd02a",
+        "actual_byte_blob_oid": "f864562949adf311b201eca0de1f3dedc3813819",
+        "scope": "Existing F063/A135 identity/source responsibility metadata, not a completedcharacter argument"
+      },
+      {
+        "working_artifact_relative_path": "MILLENNIUM_CNC_SEMINAR_MONOGRAPHS/NOA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "byte_count": 37796,
+        "line_count": 622,
+        "sha256": "8dcef3f9dc3e39e71d9c720d16440dc91e4ecc416ab2d8cdd6c71ea65643b185",
+        "actual_byte_blob_oid": "a2d723391d0cd25e97c5004b50810c20acf90421",
+        "scope": "Prior complete source custody scopes forE842/F00/E821 and current scopedcontrols personally whole received in independent relationship review; no primary transfer"
+      }
+    ],
+    "outside_selected_private_routes": [
+      {
+        "route": "84302200500",
+        "state": "ELIGIBLE_OUTSIDE_SELECTED23_UNREAD_MEANING_NOT_EXCLUDED"
+      },
+      {
+        "route": "84302200600",
+        "state": "ELIGIBLE_OUTSIDE_SELECTED23_UNREAD_MEANING_NOT_EXCLUDED"
+      },
+      {
+        "route": "84302300100",
+        "state": "ELIGIBLE_OUTSIDE_SELECTED23_UNREAD_MEANING_NOT_EXCLUDED"
+      },
+      {
+        "route": "84311100402",
+        "state": "ELIGIBLE_OUTSIDE_SELECTED23_UNREAD_MEANING_NOT_EXCLUDED"
+      }
+    ],
+    "source_recovery": "Complete accepted private23 normal argument supplies all tenwholethread/pairedcodas andthreewritten meanings; new complete E806/Final004/017 plus adequateprior completeE842/Final/E821 and exactrenewedconsequentialscopes. No mandatoryassertedclaim debt filledfrom unreadprimary or namesonly.",
+    "author_review": {
+      "whole_body_receiving": [
+        "185fa6 characters0–17000 ofpre-final44726",
+        "a2d20b characters17000–34000 ofpre-final44726",
+        "04ee2e currentcharacters33900–44686EOF plusbothfinalcurrentchangedparagraphsL91/L119"
+      ],
+      "final_changed_scope": "Two localprecisionchanges removedunsupportedbathcontext andinferredreassurance; nofreezepriorchanged; finalchangedparagraphswholly emitted04ee2e",
+      "literary_verdict": "AUTHOR_COMPLETE_BOUNDARY_WITH_LIMITS",
+      "eleven_substantive_sections": 11,
+      "rivals": [
+        "lazyexcuse",
+        "pure-randomness",
+        "harmlessplay",
+        "gratitude/care reform",
+        "rare talent makes all demandsinevitable"
+      ],
+      "ordinary_wants_intrinsic": [
+        "sweets",
+        "manga",
+        "companionship",
+        "wind",
+        "comfortablework",
+        "card/games",
+        "clover",
+        "unexplainedtoken",
+        "pajamas",
+        "wantedinterest",
+        "rest"
+      ],
+      "ROOT_receiving": "PENDING",
+      "ROOT_acceptance": "PENDING"
+    },
+    "relative_links": [
+      {
+        "reference": "private",
+        "canonical_relative_target": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOYUKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "binding": {
+          "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOYUKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+          "byte_count": 38759,
+          "line_count": 320,
+          "sha256": "729d9f274c48739ae5f342626193291975aeaf455c54b7713c2903e4b4582b2c",
+          "actual_byte_blob_oid": "e133a54dd5c2e210363fbee9a929467561f50575"
+        },
+        "resolution": "PASS"
+      },
+      {
+        "reference": "e806",
+        "canonical_relative_target": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_806/BLUE_ARCHIVE_EVENT_806_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+        "binding": {
+          "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_806/BLUE_ARCHIVE_EVENT_806_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+          "byte_count": 16448,
+          "line_count": 103,
+          "sha256": "187b924e3c750ba582de81a751ba5bd45d99e7b30d78cac38e33f80cb0ab5091",
+          "actual_byte_blob_oid": "f3884e23561ec74f020ae5d6f9cfbd8e9cd50465"
+        },
+        "resolution": "PASS"
+      },
+      {
+        "reference": "party",
+        "canonical_relative_target": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md",
+        "binding": {
+          "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md",
+          "byte_count": 31482,
+          "line_count": 149,
+          "sha256": "1df4ea37a6733bd3fd4d5285f7d3aedda7c864a415968f9f537188b2bd7be6ed",
+          "actual_byte_blob_oid": "f0f9557a65b075016a229b764d9385835cde666a"
+        },
+        "resolution": "PASS"
+      },
+      {
+        "reference": "recall",
+        "canonical_relative_target": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E004_DEEP_READING.md",
+        "binding": {
+          "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E004_DEEP_READING.md",
+          "byte_count": 7307,
+          "line_count": 57,
+          "sha256": "07a492b0629276116c57ec5f8d6cee65f4325a3abd86eead684ca630c1121f12",
+          "actual_byte_blob_oid": "b83b2db914cdc669baa47217a32687befbca4ac9"
+        },
+        "resolution": "PASS"
+      },
+      {
+        "reference": "cipher",
+        "canonical_relative_target": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E017_DEEP_READING.md",
+        "binding": {
+          "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E017_DEEP_READING.md",
+          "byte_count": 3473,
+          "line_count": 31,
+          "sha256": "a2bf3b5e5f0fca822f07824156f642644a9fe479f0708aba2dc938ad3cff68fc",
+          "actual_byte_blob_oid": "b6d1fa5c1a153e7ad2ca2172ecee831da8014c4f"
+        },
+        "resolution": "PASS"
+      },
+      {
+        "reference": "final",
+        "canonical_relative_target": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "binding": {
+          "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+          "byte_count": 49292,
+          "line_count": 452,
+          "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+          "actual_byte_blob_oid": "4712932e1058e7babcc693932caedcfd1a076622"
+        },
+        "resolution": "PASS"
+      },
+      {
+        "reference": "coalition",
+        "canonical_relative_target": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_821/BLUE_ARCHIVE_EVENT_821_CONTEXTUALIZATION_CHECKPOINT.md",
+        "binding": {
+          "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_821/BLUE_ARCHIVE_EVENT_821_CONTEXTUALIZATION_CHECKPOINT.md",
+          "byte_count": 28870,
+          "line_count": 157,
+          "sha256": "3db44147f6a64482a606bf53d6dac4d328d15bb39fd07db439a6c853463d2b38",
+          "actual_byte_blob_oid": "59a74816f84bbcc362ffc3684016ad713b930372"
+        },
+        "resolution": "PASS"
+      }
+    ],
+    "all14_gaps": [
+      {
+        "gap": "G01",
+        "state": "OPEN",
+        "saved_body_line": 195,
+        "claim_specific_effect": "| G01 ordinary/private breadth | All ten complete pairs and three written repertoires retain interest, comfort, objects, company, failures, refusals and unfinished plans. | Other families and the four unclassified routes remain; this selected repertoire is not a whole-person ceiling. |"
+      },
+      {
+        "gap": "G02",
+        "state": "OPEN",
+        "saved_body_line": 196,
+        "claim_specific_effect": "| G02 council decision transfer | Actual gift acceptance, reports of discipline, recall and further assignment have different recipients and outcomes. | Seminar authority, lawful custody, resource audits and directed relationships retain separate owners. |"
+      },
+      {
+        "gap": "G03",
+        "state": "OPEN",
+        "saved_body_line": 197,
+        "claim_specific_effect": "| G03 Serika service | Generosity, labor preference and wanted recognition supply a bounded comparison. | No Serika wages, recipients or aftermath are completed here. |"
+      },
+      {
+        "gap": "G04",
+        "state": "OPEN",
+        "saved_body_line": 198,
+        "claim_specific_effect": "| G04 Hina accountability | Dissent, care and permission remain distinct. | No Hina institutional, crisis or remedy responsibility is closed. |"
+      },
+      {
+        "gap": "G05",
+        "state": "OPEN",
+        "saved_body_line": 199,
+        "claim_specific_effect": "| G05 Arius/PS68 aftermath | Coalition peers are not reduced to interchangeable labor. | Their livelihoods, legal/medical states and own aftermath arguments remain separate. |"
+      },
+      {
+        "gap": "G06",
+        "state": "OPEN",
+        "saved_body_line": 200,
+        "claim_specific_effect": "| G06 ordinary cross-school breadth | Quiet Millennium objects, company and pleasures matter without a stakes filter. | No school prevalence or whole cross-school repertoire follows. |"
+      },
+      {
+        "gap": "G07",
+        "state": "OPEN",
+        "saved_body_line": 201,
+        "claim_specific_effect": "| G07 chronology | Clover callback, local event sequences and recall-to-solve main progression are preserved. | Absolute private/event/MAIN alignment and an outfit growth ladder remain unproved. |"
+      },
+      {
+        "gap": "G08",
+        "state": "OPEN",
+        "saved_body_line": 202,
+        "claim_specific_effect": "| G08 event naming/repeats | Literal806/842 contexts and costume842/10842 repetition remain distinct. | No fused celebration, enacted rerun or complete external event-title reconciliation. |"
+      },
+      {
+        "gap": "G09",
+        "state": "OPEN",
+        "saved_body_line": 203,
+        "claim_specific_effect": "| G09 actor/choice/audience | Whole-thread choices, feedback, inward forms, timed labels and public actor seams materially constrain claims. | No universal source repair, execution of all alternatives or hearing of private thoughts. |"
+      },
+      {
+        "gap": "G10",
+        "state": "OPEN",
+        "saved_body_line": 204,
+        "claim_specific_effect": "| G10 performance | Written names, address, laughter, ruby, texture and voice-control fields are retained as written. | No received audio, acting, timing, animation or pixels. |"
+      },
+      {
+        "gap": "G11",
+        "state": "OPEN",
+        "saved_body_line": 205,
+        "claim_specific_effect": "| G11 Hoshino/Yume records | No analogy supplies an authenticated historical record. | Their notebook, office-state, grief and death-causality responsibilities remain. |"
+      },
+      {
+        "gap": "G12",
+        "state": "OPEN",
+        "saved_body_line": 206,
+        "claim_specific_effect": "| G12 identity/system | One bounded person/two variants; explicit local White Rabbit introduction with upstream empty joins qualified. | No unknown entrant join, broader automatic rekeying, sentient-device inference or variant calendar. |"
+      },
+      {
+        "gap": "G13",
+        "state": "OPEN",
+        "saved_body_line": 207,
+        "claim_specific_effect": "| G13 institutions/outcomes | Work, cost concession, registration, reported cipher solve, local home victory and narrated fictional recovery count at their degree. | Unprinted rescue, treatment, sums, liability, lawful discipline, attendance, payment, permanent security and repair remain unproved. |"
+      },
+      {
+        "gap": "G14",
+        "state": "OPEN",
+        "saved_body_line": 208,
+        "claim_specific_effect": "| G14 mode/outside-selection continuity | Four literal unclassified routes remain eligible outside23; costume/report/wish modes are distinguished. | No admission or characterization is manufactured for unread routes. |"
+      }
+    ],
+    "Veritas_following_order": [
+      "P3-CHAR-CHIHIRO-CH0160",
+      "P3-CHAR-HARE",
+      "P3-CHAR-KOTAMA",
+      "P3-CHAR-MAKI"
+    ],
+    "new_primary_credit": 0,
+    "new_raw_credit": 0,
+    "performed_credit": 0,
+    "certified_historical_producer_independence": false,
+    "models_or_predictions_added": 0,
+    "N_or_scope_frozen_by_author": false,
+    "quarter_claimed": false,
+    "completion_credit": 0,
+    "repository_or_Git_or_global_or_provider_writes": 0,
+    "unbound_large_reads_or_hashes": 0,
+    "external_handoff": false
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "current_required_home": "P3-CHAR-KOYUKI-CH0198",
+  "root_exact_acceptance_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOYUKI_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+  "historical_author_delivery_attachments": {
+    "KOYUKI_MONOGRAPH_AUTHOR_COMPLETE_READBACK_AND_FREEZE_RECEIPT_V1.json": {
+      "schema": "BLUE_ARCHIVE_PHASE3_KOYUKI_AUTHOR_COMPLETE_READBACK_AND_FREEZE_V1",
+      "status": "PASS_AUTHOR_COMPLETE_BOUNDARY_WITH_LIMITS_ROOT_RECEIVING_PENDING",
+      "outputs": [
+        {
+          "working_artifact_relative_path": "MILLENNIUM_KOYUKI_VERITAS_MONOGRAPHS/BLUE_ARCHIVE_KOYUKI_CHARACTER_MONOGRAPH.md",
+          "byte_count": 44852,
+          "line_count": 220,
+          "sha256": "0bd143fb3005f57427b6196077b28b4bd1e0d736de12bcd1af9712083d0657e0",
+          "actual_byte_blob_oid": "06e7898bb1399352603158e0ae23a39cbeb6778e"
+        },
+        {
+          "working_artifact_relative_path": "MILLENNIUM_KOYUKI_VERITAS_MONOGRAPHS/KOYUKI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "byte_count": 41013,
+          "line_count": 789,
+          "sha256": "1351fc8a2bcb5c4ea65e7777dbced84553eda5daaaa987b158ad702bc544a2cc",
+          "actual_byte_blob_oid": "92d7499ff338749a6ac3e3f89cfeed6cdfc29491"
+        },
+        {
+          "working_artifact_relative_path": "MILLENNIUM_KOYUKI_VERITAS_MONOGRAPHS/KOYUKI_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+          "byte_count": 108955,
+          "line_count": 1505,
+          "sha256": "a03a83773f1f39e8c2df45933442adf475dedd2036a3474b09bdccf25c04266e",
+          "actual_byte_blob_oid": "5092add2bf0371446f6adbc0b8c2852c2dda69e4"
+        },
+        {
+          "working_artifact_relative_path": "MILLENNIUM_KOYUKI_VERITAS_MONOGRAPHS/KOYUKI_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+          "byte_count": 3336,
+          "line_count": 67,
+          "sha256": "8bdd27534b9d1ebd247490623af586ccf09f5cb2f64c68becc2844b0b6d660d3",
+          "actual_byte_blob_oid": "1f3d5ed5810f9acc215b5b2bb4aec289aa432a5e"
+        }
+      ],
+      "whole_saved_body_receiving": [
+        "185fa6 characters0–17000 ofpre-final44726",
+        "a2d20b characters17000–34000 ofpre-final44726",
+        "04ee2e currentcharacters33900–44686EOF plusbothfinalcurrentchangedparagraphsL91/L119"
+      ],
+      "source_receipt_complete_field_receiving": [
+        {
+          "chunk": "0b1594",
+          "scope": "first 0–15000 raw characters completely visible; later outer clipping not credited"
+        },
+        {
+          "chunk": "e9095d",
+          "scope": "15000–40939 EOF wholly untruncated"
+        }
+      ],
+      "claim_field_receiving": {
+        "full_saved_paragraph_fields": "All65 full contents wholly received in saved body; each exact line/hash join verified. Projected repeated paragraph fields are explicitly replaced, not physical full JSON receiving.",
+        "projected_fields": "K001–K022 93d6cf; middle K010–K013 fully recovered5cef05. K023–K036 c33977; K037–K050 b55c90; K051–K065 9a13b1.",
+        "all_remaining_control_endpoint_header_gap_fields": "87a48f complete non-claims projection through final flags",
+        "saved_output_receipt": "ab40de whole67 lines through EOF"
+      },
+      "exact_checks": {
+        "current_repository_input_tuples_unchanged": 13,
+        "saved_paragraph_joins": 65,
+        "complete_endpoint_arguments": 16,
+        "eleven_section_headings": 11,
+        "OPEN_gap_rows": 14,
+        "canonical_relative_links": "prior seven exact containing-file resolutions PASS",
+        "representative_prior_frozen_witnesses_unchanged": 3,
+        "UTF8_LF_noBOM_one_finalLF": true,
+        "all_outputs_under_1MiB": true
+      },
+      "meaning": "Full ordinary, adverse, wanted-life, public/private and competing arguments; complete accepted analytical owners at stated personal or historical whole scope. Exact byte binding does not enlarge scoped control receiving.",
+      "current_analytical_sourcebase": "1bb97d07f51773d028d044616fbc0dc2a6051b40",
+      "historical_comparands_retained": [
+        "7489d76d96b232609f1cd16473173b6dc4ab0eee",
+        "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+        "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c"
+      ],
+      "source_authority": "Cycle008 current admission; historical pending provenance preserved as history",
+      "root_acceptance": "PENDING",
+      "canonical_adoption": "PENDING",
+      "all14_gaps_remain_OPEN": true,
+      "four_unclassified_routes_outside23": "Retained eligible; unread meanings not manufactured",
+      "new_primary_raw_performed_model_independent_credit": 0,
+      "repository_Git_provider_global_writes": 0,
+      "N_quarter_completion_credit": 0,
+      "frozen": "All four listed author outputs are immutable from this exact seal; ROOT may make reviewed disclosed public derivatives."
+    },
+    "KOYUKI_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json": {
+      "schema": "BLUE_ARCHIVE_PHASE3_KOYUKI_CLAIM_AND_ENDPOINT_REGISTER_V1",
+      "status": "AUTHOR_COMPLETE_BOUNDARY_ROOT_RECEIVING_PENDING",
+      "candidate": {
+        "working_artifact_relative_path": "MILLENNIUM_KOYUKI_VERITAS_MONOGRAPHS/BLUE_ARCHIVE_KOYUKI_CHARACTER_MONOGRAPH.md",
+        "byte_count": 44852,
+        "line_count": 220,
+        "sha256": "0bd143fb3005f57427b6196077b28b4bd1e0d736de12bcd1af9712083d0657e0",
+        "actual_byte_blob_oid": "06e7898bb1399352603158e0ae23a39cbeb6778e"
+      },
+      "claims": [
+        {
+          "claim_id": "K001",
+          "section": "FRONTMATTER",
+          "saved_body_line": 21,
+          "sha256_utf8_line_no_terminator": "5c671105caca5fe0634c91f0fc453563daab265333e15d5760c6ae2af3d0bea0",
+          "full_saved_paragraph": "This monograph owns one already required character home. It joins Koyuki's ten complete bond/whole-MomoTalk pairs and three written repertoires with the received public event and Final arguments. The technical variants are retrieval routes for the same bounded person, not separate biographies or a prescribed growth ladder. Current supplemental admission follows Cycle008; earlier producer queue and proposal statements remain dated history. This draft adds no primary, raw or performed evidence, reconstruction model, prediction, canonical persistence or completion credit.",
+          "source_anchors": [],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": "Joinedthesisor custody/conclusion at the declared complete argument scope",
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K002",
+          "section": "1. Core thesis",
+          "saved_body_line": 25,
+          "sha256_utf8_line_no_terminator": "2d9dda865fe79a2a87ab7052e88f94d15472130944024a5adf1dc84c10f3ef28",
+          "full_saved_paragraph": "Koyuki wants activities to offer something she can care about: surprise, a pleasurable challenge, useful work in a comfortable place, a companion, or an object whose meaning she chooses to keep. Her ability to calculate does not make repetitive calculation a wanted life. Her interest in luck does not make every arbitrary outcome enjoyable. The most adequate account therefore begins with how she values an activity and who participates in it, then asks what she actually does, what costs she transfers and how the encounter ends. This explains more than either a lazy troublemaker or an endlessly delighted genius. [P23 L205–214/245–253][private]",
+          "source_anchors": [
+            {
+              "label": "P23 L205–214/245–253",
+              "reference": "private",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOYUKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K003",
+          "section": "1. Core thesis",
+          "saved_body_line": 27,
+          "sha256_utf8_line_no_terminator": "c6e6dd9bf266c6b0c34ab6176ed4f2db98e666ea39f2a0a1e07a026a8abad6b5",
+          "full_saved_paragraph": "There is a serious contradiction within that repertoire. She wants freedom from other people's rules and scrutiny while sometimes treating their information, money, time or supplies as available for her use. A local privacy concession can be followed by a loophole that renews intrusion. A desired VIP life can coexist with admitted spending of others' money. An invitation to research a drink can become shared-resource waste. These are concrete acts and recipient problems, not mere comic decorations. At the same time, her refusal of pursuit, fear in a dark passage, resistance to bodily restraint and worry about losing a valued adult's patience remain her own morally and psychologically consequential responses. Being responsible for one harm does not supply assent to everything subsequently done to her. [P23 L207/251–253][private] [E806 E008/E010–011][e806] [E842 E006–008/E013][party]",
+          "source_anchors": [
+            {
+              "label": "P23 L207/251–253",
+              "reference": "private",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOYUKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+            },
+            {
+              "label": "E806 E008/E010–011",
+              "reference": "e806",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_806/BLUE_ARCHIVE_EVENT_806_PHASE2_CONTEXTUAL_COMPARISON_20261008.md"
+            },
+            {
+              "label": "E842 E006–008/E013",
+              "reference": "party",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K004",
+          "section": "1. Core thesis",
+          "saved_body_line": 29,
+          "sha256_utf8_line_no_terminator": "376935e5e46ec6a8d55c4d09cea72b9b13057e87c90b6f360247852b2b61f98f",
+          "full_saved_paragraph": "The ordinary material establishes positive capacities as well as limits. She can finish office work quickly, prepare a game attempt, reserve a seat, concede a cost, enjoy failure with someone, keep a clover and share a later home-game victory. She can also forget an errand, spend all her allowance without clearing a game, fail an all-night plan, press an exception after apologizing or continue to reproach a nursing adult. No single successful ending cancels the failed or contested endings. The recurring literary problem is how an interesting, wanted activity becomes a shared one without making another person's participation or resources automatic. [P23 L208–214/245–253][private]",
+          "source_anchors": [
+            {
+              "label": "P23 L208–214/245–253",
+              "reference": "private",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOYUKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K005",
+          "section": "1. Core thesis",
+          "saved_body_line": 31,
+          "sha256_utf8_line_no_terminator": "a126709bb42b12868aebdfccc5403e3d4c7ff8cc52c7779917722e37cd40c8cc",
+          "full_saved_paragraph": "Her public cipher contribution gives that problem a consequential institutional form. Yuuka and Noa urgently recall her because of a capacity useful to the operation. The later solve is reported by Koyuki and confirmed by Noa; Koyuki then objects to further battle and barrier duties and asks to return to the reflection room. A person can possess a needed skill without wanting indefinite availability. This does not vindicate every refusal or certify the council's discipline. It makes competence, permission and desire three questions the synthesis must continue to distinguish. [Final C002E004 s2u0002–0045][recall] [Final C002E017 s1u0001–0018][cipher]",
+          "source_anchors": [
+            {
+              "label": "Final C002E004 s2u0002–0045",
+              "reference": "recall",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E004_DEEP_READING.md"
+            },
+            {
+              "label": "Final C002E017 s1u0001–0018",
+              "reference": "cipher",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E017_DEEP_READING.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K006",
+          "section": "2. Longitudinal arc and legitimate ordering",
+          "saved_body_line": 35,
+          "sha256_utf8_line_no_terminator": "e54327701aeab2a234b20d5541a0d5b3ac8800134f478460ef5275218274bb01",
+          "full_saved_paragraph": "The strongest private continuity is modest and specific. The clover search in 10063:008 becomes a remembered occasion and preserved clover in 10063:015. The later object does not need magical properties to carry that earlier company. Nor does the callback explain the modified game token she also refuses to surrender: its attachment remains unresolved. Two valued objects can have unequal stated meanings. The explicit remembered clover permits that local order; episode, favor and variant numbers do not order the entire corpus around it. [P23 L209–210/249/279][private]",
+          "source_anchors": [
+            {
+              "label": "P23 L209–210/249/279",
+              "reference": "private",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOYUKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K007",
+          "section": "2. Longitudinal arc and legitimate ordering",
+          "saved_body_line": 37,
+          "sha256_utf8_line_no_terminator": "3523b402f5e439d8a7baf93c3cce1fa21451fbf234a451ac4bddf482ba6f5c9b",
+          "full_saved_paragraph": "The game encounters likewise have achieved and unfinished tails. In 10063:006 she spends all her allowance and reaches only floor two, yet enjoys shared failure and proposes later strategy. In 20056:005 preparation, reservation, complaint, concession and a truce coexist with failure at the arcade's seventh floor; a narrated victory in the home edition is a later local success. This is genuine variation in how play goes. The home win cannot be moved backward to certify the earlier arcade clear, and neither failure proves permanent inability. The different game titles and contexts remain different sources, not stages mechanically assigned by a costume route. [P23 L208/213/247][private]",
+          "source_anchors": [
+            {
+              "label": "P23 L208/213/247",
+              "reference": "private",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOYUKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K008",
+          "section": "2. Longitudinal arc and legitimate ordering",
+          "saved_body_line": 39,
+          "sha256_utf8_line_no_terminator": "6bbc0eea7ed2f35b711ce58e1134760eef3c4effcfa4051d38ae81ac22beae21",
+          "full_saved_paragraph": "EVENT806 gives a separate packet order: service and status expose the pursued student, Koyuki explicitly introduces herself, her unrestrained VIP wish and admitted uncounted expenditure become visible, pursuit continues against her wishes, and the attempted escape ends in vulnerability and later reported custody. The local flashback, hours, interval and projected bankruptcy qualify that story. They do not date all her Schale scenes or prove an enacted rescue, treatment, future analog security or completed bill payment. [E806 complete progression E007–011][e806]",
+          "source_anchors": [
+            {
+              "label": "E806 complete progression E007–011",
+              "reference": "e806",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_806/BLUE_ARCHIVE_EVENT_806_PHASE2_CONTEXTUAL_COMPARISON_20261008.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K009",
+          "section": "2. Longitudinal arc and legitimate ordering",
+          "saved_body_line": 41,
+          "sha256_utf8_line_no_terminator": "f88cd0862c6d24db46026f7c633790d9accc46ac52d80736fad525124121a583",
+          "full_saved_paragraph": "The Final main sequence supplies another actual change. In C002E004 the cipher remains a bottleneck and Koyuki is recalled; the recall is a declaration and request rather than a shown departure or completed computation. In E017 Koyuki claims a solved system and Noa corroborates it, while the new Hod/barrier task is still an assignment. E821 later has a barrier request and her exasperated acknowledgment; its next object reports the operation's completion. These endpoints should be retained at their own strength. The final coalition report cannot retrospectively document every proposed method or Koyuki's individual share in defeating Hod. [Final C002E004/E017][recall] [Cipher solve][cipher] [E821 E010–011][coalition]",
+          "source_anchors": [
+            {
+              "label": "Final C002E004/E017",
+              "reference": "recall",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E004_DEEP_READING.md"
+            },
+            {
+              "label": "Cipher solve",
+              "reference": "cipher",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E017_DEEP_READING.md"
+            },
+            {
+              "label": "E821 E010–011",
+              "reference": "coalition",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_821/BLUE_ARCHIVE_EVENT_821_CONTEXTUALIZATION_CHECKPOINT.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K010",
+          "section": "2. Longitudinal arc and legitimate ordering",
+          "saved_body_line": 43,
+          "sha256_utf8_line_no_terminator": "c96b90d82a683c138b9ef823d3454ceadfc526cf40002ede065af02a4448fc48",
+          "full_saved_paragraph": "EVENT842 orders celebration, party preparation, concealed play, pursuit and capture, joined games and the night, then ongoing work the next afternoon. Its E011–015 afterstories revisit party exchanges; their file position does not put all games after that afternoon. A night of actual enjoyment, a gift accepted and a later work complaint can all be true without proving a completed transition from confinement to free ordinary life. The narrative leaves the costs and distribution of labor visible. [E842 local order/E002–015][party]",
+          "source_anchors": [
+            {
+              "label": "E842 local order/E002–015",
+              "reference": "party",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K011",
+          "section": "2. Longitudinal arc and legitimate ordering",
+          "saved_body_line": 45,
+          "sha256_utf8_line_no_terminator": "bab6fea48eb894a124fe88c46bd6af663403f0a8c8cc6851f7881883f477058c",
+          "full_saved_paragraph": "These sequences support development as local choices, changed evaluations and achieved activities. They do not support an invariant cure by care, an ethical ranking between outfits, or a causal story in which an earlier clover explains later crisis computation. The longitudinal portrait is the repertoire of one person under different conditions. Its continuity is the recurrence and revision of wanted interest, company and freedom, not an invented calendar that dates every contrary case out of the mature character. [P23 L249/259/303–310][private]",
+          "source_anchors": [
+            {
+              "label": "P23 L249/259/303–310",
+              "reference": "private",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOYUKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K012",
+          "section": "3. Public self, private self, and the value of being wanted",
+          "saved_body_line": 49,
+          "sha256_utf8_line_no_terminator": "dfada67e9d82de1f04ac80cd93d5d133724905664aa562e65f22de516a599997",
+          "full_saved_paragraph": "The authored genius/troublemaker premise is available in the 10063 written repertoire; it remains a broad characterization to be tested against scenes. Final gives Yuuka's praise of unusual computation and Noa's judgment that a further assignment depends on her. Those statements make her publicly useful, but they do not independently prove exclusive capacity or a person whose only possible work is difficult calculation. Her private request for interesting work rejects praise when it misses what she wants. An answer that says she is talented can fail to answer a complaint about how that talent is being used. [P23 L206/235/245][private] [Final C002E017 s1u0001–0018][cipher]",
+          "source_anchors": [
+            {
+              "label": "P23 L206/235/245",
+              "reference": "private",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOYUKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+            },
+            {
+              "label": "Final C002E017 s1u0001–0018",
+              "reference": "cipher",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E017_DEEP_READING.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K013",
+          "section": "3. Public self, private self, and the value of being wanted",
+          "saved_body_line": 51,
+          "sha256_utf8_line_no_terminator": "96fb5c79a1dc81d315b2ade301281deaba9220341869dec9616f273b9ac1d9c1",
+          "full_saved_paragraph": "The reflection room is similarly more than a public disciplinary label. Koyuki fills it with sweets, manga and board games, yet lacks a playmate. Revaluing the room makes an imposed place livable; it does not prove that confinement was freely chosen. The late games with Sensei are actually wanted company, while the adult's immediate Seminar report and her later reproach keep their unequal responsibilities in view. She can value an evening and object to what the companion did around it. The synthesis should retain both instead of calling gratitude the authentic feeling and reproach a disposable joke. [P23 L205/249/253][private]",
+          "source_anchors": [
+            {
+              "label": "P23 L205/249/253",
+              "reference": "private",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOYUKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K014",
+          "section": "3. Public self, private self, and the value of being wanted",
+          "saved_body_line": 53,
+          "sha256_utf8_line_no_terminator": "ebaf63019959e06753b978550545215101e5c52768e029b78f18785cb906efdb",
+          "full_saved_paragraph": "Her worry that repeated minor messages might exhaust the adult's patience is a different self-presentation from triumphant defiance. Small requests may risk the continued attention she wants. The clover search, gratitude and remembered shared occasion give that concern an object without turning it into a diagnosis or proving a hidden traumatic cause. They also explain why quiet conversation cannot be replaced by her most spectacular technical feat. Being useful in an emergency and being welcome in ordinary company are different kinds of being wanted. [P23 L209/249/283][private]",
+          "source_anchors": [
+            {
+              "label": "P23 L209/249/283",
+              "reference": "private",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOYUKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K015",
+          "section": "3. Public self, private self, and the value of being wanted",
+          "saved_body_line": 55,
+          "sha256_utf8_line_no_terminator": "9d53e7323d35ad34e2e766e6cc1c78f2451d3dfdb7c1318ff9af59a2fe30660f",
+          "full_saved_paragraph": "In the pajama repertoire she wants a good impression, comfortable work, refuge and prolonged company. The office encounter actually ends with tasks completed quickly and a few games before sleep, despite an all-night ambition. The comfortable clothing is a chosen condition of work and play, not evidence that she has stopped caring about how seniors judge her. The formal-dress rationale and concern with appearance coexist with comfort. She is capable of adjusting presentation without thereby accepting every rule governing her place. [P23 L212/237/245/287][private]",
+          "source_anchors": [
+            {
+              "label": "P23 L212/237/245/287",
+              "reference": "private",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOYUKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K016",
+          "section": "3. Public self, private self, and the value of being wanted",
+          "saved_body_line": 57,
+          "sha256_utf8_line_no_terminator": "b49b31b085dd5c3ff582e90f3af4f5587717d7ac35661064633a3ef60b2619f5",
+          "full_saved_paragraph": "Her privacy argument at 10063:005 makes a genuinely defensible boundary and then exposes its instability. An explicit concession is secured, but a manufactured personal-information loophole renews intrusion. The drawer discovery, unsuccessful pursuit, apology and awkward adult explanations remain separate parts of the encounter. No uninspected book genre or comprehensive innocence finding is needed to describe the failed respect for privacy. This scene complicates her self-concept as a defender of freedom without making every appeal for privacy insincere. [P23 L207/251][private]",
+          "source_anchors": [
+            {
+              "label": "P23 L207/251",
+              "reference": "private",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOYUKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K017",
+          "section": "4. School and club role: useful labor and contested authority",
+          "saved_body_line": 61,
+          "sha256_utf8_line_no_terminator": "f8d7d3eeb95ce70495a7ad5f2e2f70f38a3346c52ab61e82ade473e36933d909",
+          "full_saved_paragraph": "Koyuki's Seminar affiliation is explicit in written introduction and gacha naming; the technical `Club: None` field is not sufficient to erase it. Conversely, the affiliation cannot establish the full council charter, the lawful powers of a reflection room or the precise legitimacy of every sanction. In Final E004 Yuuka calls an earlier bond forgery the reason for discipline, while Koyuki denies culpability and calls it a mishap. These are opposed actor accounts, not an inspected case file. A public character argument can analyze the dispute without deciding an unprinted legal outcome. [P23 L235/287][private] [Final C002E004 s2u0002–0045][recall]",
+          "source_anchors": [
+            {
+              "label": "P23 L235/287",
+              "reference": "private",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOYUKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+            },
+            {
+              "label": "Final C002E004 s2u0002–0045",
+              "reference": "recall",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E004_DEEP_READING.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K018",
+          "section": "4. School and club role: useful labor and contested authority",
+          "saved_body_line": 63,
+          "sha256_utf8_line_no_terminator": "9fdbf2419e161e59bcc17385e50d1d6b90a9172d5aeacf9e97b4bb0119c74d92",
+          "full_saved_paragraph": "The crisis recall makes institutional reliance concrete. A bottleneck around Rio's security system creates urgency; Noa and Yuuka seek Koyuki's capacity. Later the participant-corroborated solve is a substantive contribution. But the next task arrives when she believes the first is finished: lure Hod upward while the city barrier is dismantled. Her wish to return to the reflection room need not mean she has discovered that confinement is intrinsically good. In this situation a previously disliked place offers a way out of additional battle work. Preference among constrained alternatives cannot automatically validate either alternative. [Final C002E004 s1u0036–0072/s2][recall] [Final C002E017 s1u0001–0018][cipher]",
+          "source_anchors": [
+            {
+              "label": "Final C002E004 s1u0036–0072/s2",
+              "reference": "recall",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E004_DEEP_READING.md"
+            },
+            {
+              "label": "Final C002E017 s1u0001–0018",
+              "reference": "cipher",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E017_DEEP_READING.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K019",
+          "section": "4. School and club role: useful labor and contested authority",
+          "saved_body_line": 65,
+          "sha256_utf8_line_no_terminator": "e0b972fd4cd0c2b75b35e516fdea53b2a9c72875cfd1a46afd70ccbb4842d77a",
+          "full_saved_paragraph": "Private Schale work supplies an important contrary institutional context. In 10063:003 she offers useful labor but rejects repetitive calculation and wants a more interesting task; password curiosity meets an actual security increase. In 20056:003 she finishes office work quickly in a comfortable setting. Skill and reluctance are thus not opposites. The stronger explanation is that task content, environment and company matter to whether the work is wanted. This remains a bounded comparison, not a tested mechanism that predicts all future compliance. [P23 L206/212/245][private]",
+          "source_anchors": [
+            {
+              "label": "P23 L206/212/245",
+              "reference": "private",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOYUKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K020",
+          "section": "4. School and club role: useful labor and contested authority",
+          "saved_body_line": 67,
+          "sha256_utf8_line_no_terminator": "a8978ce001be92680e244ef2f3f9d7b174bf28dcbb6a8425cb5dbb755cc8b086",
+          "full_saved_paragraph": "EVENT842 complicates a benevolent view of council care. Yuuka chooses fitting pajamas and a private gathering to improve personal communication, and Koyuki actually welcomes the gift. The seniors nonetheless explicitly decline to release her from the room during the visit. Later she is assigned password analysis on Sensei's overdue work and complains about freedom, while Yuuka bars departure until the work is complete. The endpoint remains labor in progress, with neither compensation nor universal assent printed. Care, discipline, gift and labor are distinct practices even when performed by familiar participants. [E842 E003u0005–0024/E004u0049–0066/E005u0014–0024/E010u0072–0088][party]",
+          "source_anchors": [
+            {
+              "label": "E842 E003u0005–0024/E004u0049–0066/E005u0014–0024/E010u0072–0088",
+              "reference": "party",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K021",
+          "section": "4. School and club role: useful labor and contested authority",
+          "saved_body_line": 69,
+          "sha256_utf8_line_no_terminator": "cc396b9101f29dffe43ebde9d333468aeaebca85786b159edc9cffcbcd179503",
+          "full_saved_paragraph": "The course registration at 10063:015 is an actual administrative act, not attendance, acquired credentials or reform. Written reports of seasonal security shutdown and postponed cleanup retain report or wish status. Chihiro's declared local maintenance completion at the end of E842 also cannot become proof of permanently Koyuki-proof infrastructure. Institutions remain shared arrangements whose safety and authority require evidence beyond one student's talent or one senior's confident claim. [P23 L210/237/287/309][private] [E842 E015][party]",
+          "source_anchors": [
+            {
+              "label": "P23 L210/237/287/309",
+              "reference": "private",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOYUKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+            },
+            {
+              "label": "E842 E015",
+              "reference": "party",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K022",
+          "section": "5. Ordinary life: chance, objects, comfort and shared failure",
+          "saved_body_line": 75,
+          "sha256_utf8_line_no_terminator": "c7174a9083fc688748e002370b43c3196e4b3908d3a8c74a1435ad9bac30d963",
+          "full_saved_paragraph": "Koyuki's attraction to reversal and chance is positively represented. She likes a game whose outcome is not exhausted by routine calculation, objects to chess calculation and turns a good-conduct/luck suggestion back toward the adult. But the written random-coffee dislike prevents converting that preference into pleasure in every random result. Surprise is not itself enough: taste, control, challenge and company still matter. The scene-specific joke supplies no metaphysical law connecting moral conduct to luck. [P23 L208/235–237/247][private]",
+          "source_anchors": [
+            {
+              "label": "P23 L208/235–237/247",
+              "reference": "private",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOYUKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K023",
+          "section": "5. Ordinary life: chance, objects, comfort and shared failure",
+          "saved_body_line": 77,
+          "sha256_utf8_line_no_terminator": "8a405188a08d94867fce22e3a85f4563aa2a021f90f904b0777457125156b893",
+          "full_saved_paragraph": "Prepared effort also belongs to the repertoire. She reserves a seat and plans a game attempt, complains, makes a concession and reaches a truce. These acts resist a pure-randomness portrait in which preparation is foreign to her. The arcade attempt can fail while the shared activity remains fun, and the later home-edition win can be satisfying without certifying unlimited competence. The value of play is not restricted to a clear screen. Spending all allowance in a different attempt remains an actual cost; enjoyment does not make the failed objective or limited remaining resources disappear. [P23 L208/213/247][private]",
+          "source_anchors": [
+            {
+              "label": "P23 L208/213/247",
+              "reference": "private",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOYUKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K024",
+          "section": "5. Ordinary life: chance, objects, comfort and shared failure",
+          "saved_body_line": 79,
+          "sha256_utf8_line_no_terminator": "942de24275f7f70dbae0860a642243c45594a07a17c60fffb449eed0691e0798",
+          "full_saved_paragraph": "The year-end card gift makes ordinary generosity explicit. Koyuki opens a strong card and offers it to Sensei, relying on a belief in his luck and requesting future openings. The offer and gift have a recipient, while the good-luck belief remains her belief. Unresolved funding for card packs does not render the pleasure meaningless, and pleasure does not audit the money. Her later choice of Old Maid for strategy is another genuine change of game preference within an occasion. Noa's victories and Koyuki's self-proposed forehead penalty belong to that specific game, not a blanket waiver for every later bodily or social cost. [E842 E004u0004–0019/E011u0019–0066][party]",
+          "source_anchors": [
+            {
+              "label": "E842 E004u0004–0019/E011u0019–0066",
+              "reference": "party",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K025",
+          "section": "5. Ordinary life: chance, objects, comfort and shared failure",
+          "saved_body_line": 83,
+          "sha256_utf8_line_no_terminator": "ab5f5731d92408329f788077639a7cfac0efd1ca9f69f92684b3fa1be06a174d",
+          "full_saved_paragraph": "The clover search is meaningful because it is shared and because Koyuki tests objections to her own causal belief before choosing to enjoy it. Finding, gratitude and conversation are supported. Magic, improved luck and adult planting are not. Later preservation makes the occasion durable in a modest material way. This is literary memory without a supernatural mechanism. [P23 L209–210/249][private]",
+          "source_anchors": [
+            {
+              "label": "P23 L209–210/249",
+              "reference": "private",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOYUKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K026",
+          "section": "5. Ordinary life: chance, objects, comfort and shared failure",
+          "saved_body_line": 85,
+          "sha256_utf8_line_no_terminator": "b2a5b4788113ce0ab61e06553351b10d95964c7ddc4070b04e7b81c046838713",
+          "full_saved_paragraph": "The modified game token has a different boundary. She refuses to give it up, but its attachment is not fully explained. The analyst should not replace the missing account with the clover's known reason or presume every kept object proves the same affection. Refusal supplies the positive fact that it matters to her; unresolved meaning remains a legitimate limit. Likewise, pajamas, manga, card packs, sweets and comfortable texture have their own uses and tastes. They are not all secret evidence of one central romance or one uniform appetite for possession. [P23 L205/210/237–241/249][private]",
+          "source_anchors": [
+            {
+              "label": "P23 L205/210/237–241/249",
+              "reference": "private",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOYUKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K027",
+          "section": "5. Ordinary life: chance, objects, comfort and shared failure",
+          "saved_body_line": 89,
+          "sha256_utf8_line_no_terminator": "76b6df3ab4e90da645826dc4f9cb28c6559ee9aaf8a65aac7b63155e4dca231e",
+          "full_saved_paragraph": "Late snacks, wind and company in 20056:002 give ordinary sensory value. Koyuki wants recognition and offers generosity, while the adult actually pays half and the errand purchases are forgotten. This ending matters: a warm encounter can include failed practical responsibility. The feeding invitation and attempted phone contact remain unperformed or incomplete at their source degree. A pleasing meal cannot be used to fill them in. [P23 L211/253/291][private]",
+          "source_anchors": [
+            {
+              "label": "P23 L211/253/291",
+              "reference": "private",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOYUKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K028",
+          "section": "5. Ordinary life: chance, objects, comfort and shared failure",
+          "saved_body_line": 91,
+          "sha256_utf8_line_no_terminator": "f843192a4b3a404f47ccc07dded880d8f1606f523b8f66e6573d5a9ee7762656",
+          "full_saved_paragraph": "The all-night plan in 20056:003 ends in a few games and sleep. That is an achieved ordinary evening, not only a failed maximal plan. Room and costume pixels were not inspected, and the literary argument needs no invented scenery to establish comfort. In 20056:006 wanted sanctuary, rest and care coexist with actual Seminar contact and a narrated fictional recovery; later reproach remains. Sleep fantasy is not lottery wealth, and recovery does not automatically turn the adult's handling of her freedom into complete consent. The wanted life has ordinary accomplishments and genuine dissatisfaction together. [P23 L212/214/237/253][private]",
+          "source_anchors": [
+            {
+              "label": "P23 L212/214/237/253",
+              "reference": "private",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOYUKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K029",
+          "section": "6. Crisis behavior and the limits of capability",
+          "saved_body_line": 95,
+          "sha256_utf8_line_no_terminator": "e7049883fcfab1b2b0fb6109ff4d2b8e0d677f4c3d21fd5bc9b8f0bd3d32b41e",
+          "full_saved_paragraph": "Final E004 presents a time-sensitive cipher obstacle. Koyuki is recalled for a capacity the council values; E017 provides her completion claim with Noa's assent. The corroboration is stronger than a wholly unsupported boast and should not be discarded. It still differs from an inspected code, unlock log or proof that no other student could have solved the problem. Noa's exclusive-capability judgment is assignment speech. The same source then preserves Koyuki's protest at being taken into battle and given another role. Neither the useful result nor the objection can be omitted to produce an obedient genius or an incapable shirker. [Final C002E004/C002E017][recall] [Cipher status and further assignment][cipher]",
+          "source_anchors": [
+            {
+              "label": "Final C002E004/C002E017",
+              "reference": "recall",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E004_DEEP_READING.md"
+            },
+            {
+              "label": "Cipher status and further assignment",
+              "reference": "cipher",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E017_DEEP_READING.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K030",
+          "section": "6. Crisis behavior and the limits of capability",
+          "saved_body_line": 97,
+          "sha256_utf8_line_no_terminator": "3daa8f052edef25abd4c7ff2d3529eb1f5e56f1bd5e8bc9fd050a706767efa06",
+          "full_saved_paragraph": "E821 expands the coalition endpoint without granting all its credit to her. Yuuka reports Hod lured upward; Noa politely requests barrier work, and Koyuki responds with exasperation. Chihiro's inventory-qualified tower report and the Hot Springs department's proposed contribution retain their own actors and conditions. The following object reports Hod defeat and operation completion. That later result contextualizes the earlier request but does not show every intermediate barrier action or turn an acknowledged assignment into exclusive authorship of victory. [E821 E010–011][coalition]",
+          "source_anchors": [
+            {
+              "label": "E821 E010–011",
+              "reference": "coalition",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_821/BLUE_ARCHIVE_EVENT_821_CONTEXTUALIZATION_CHECKPOINT.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K031",
+          "section": "6. Crisis behavior and the limits of capability",
+          "saved_body_line": 99,
+          "sha256_utf8_line_no_terminator": "41ec72cac2eca36ce5ed61495029d6349e68b48899b8a8a647c487132aff24f6",
+          "full_saved_paragraph": "EVENT806 places her technical and playful freedom within another dangerous situation. She wants VIP privilege and unrestrained life, admits uncounted expenditure of others' money and defies seniors. The sum, financial records and lawful pursuit remain uninspected. Neru's enjoyment of extended tag is explicitly different from Koyuki's unwanted pursuit. Adult permission alternatives cannot provide the pursued person's consent. The failed attempt and water appeals then leave vulnerability visible; a later custody report does not print the rescue, treatment or legal resolution. Her own misconduct and others' useful intentions do not supply those missing endpoints. [E806 E008/E010–011][e806]",
+          "source_anchors": [
+            {
+              "label": "E806 E008/E010–011",
+              "reference": "e806",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_806/BLUE_ARCHIVE_EVENT_806_PHASE2_CONTEXTUAL_COMPARISON_20261008.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K032",
+          "section": "6. Crisis behavior and the limits of capability",
+          "saved_body_line": 101,
+          "sha256_utf8_line_no_terminator": "5abc8af33d9adadf18c3fa8b5d1c5e2302a82690a00a1d5345fb231f13b7a3f5",
+          "full_saved_paragraph": "The year-end escape gives more differentiated pressured choices. Koyuki's knowledge of local escape systems is useful, and she returns tired but uncaptured after diverting Yuuka. She later reports drones suppressed without destruction. Yet another door fails, remote helpers are counter-hacked, communication drops, darkness makes falling frightening, and lights reveal their location. Capability is distributed and fallible. Cold, dirt and a wanted vending machine remain ordinary concerns inside danger rather than proof that she is indifferent to everyone else. [E842 E005–007][party]",
+          "source_anchors": [
+            {
+              "label": "E842 E005–007",
+              "reference": "party",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K033",
+          "section": "6. Crisis behavior and the limits of capability",
+          "saved_body_line": 103,
+          "sha256_utf8_line_no_terminator": "d6fcecae1cc40c69a598390e403ce18dce27605f5eafe64178f83b3f75477466",
+          "full_saved_paragraph": "The locker passage also has an actual recipient. Sensei's pulling and mouth-covering occur in represented inward action text; Koyuki protests, is cramped and sounds shocked. These written acts cannot be polished into effortless mutual intimacy because later games are enjoyed. The source does not justify additional sexual contact or unseen injury either. Her later hiding of Sensei and brief wish for his safety is a separate chosen act of concern. The farewell-like wording and request to be remembered do not mean death. [E842 E006u0091–0107/E008u0039–0053][party]",
+          "source_anchors": [
+            {
+              "label": "E842 E006u0091–0107/E008u0039–0053",
+              "reference": "party",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K034",
+          "section": "6. Crisis behavior and the limits of capability",
+          "saved_body_line": 105,
+          "sha256_utf8_line_no_terminator": "c31ec683149993f5d3139a15c0c6a4d1b3256c191c70653565180b327471acda",
+          "full_saved_paragraph": "These pressured scenes are most intelligible beside the ordinary repertoire. A wanted companion can become someone whose report or bodily method she opposes. A brilliant computation can be followed by refusal of another assignment. An interesting game can become unfun, and a resourceful route can fail. None requires redefining her entire self after every result. The literary continuity is a situated person who values freedom, interest and company, can act generously or intrusively, and remains vulnerable to how others exercise power.",
+          "source_anchors": [],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": "Joinedthesisor custody/conclusion at the declared complete argument scope",
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K035",
+          "section": "7. Relationship with Sensei: wanted attention and a fallible caregiver",
+          "saved_body_line": 109,
+          "sha256_utf8_line_no_terminator": "b65a94a6d889fa6abdf9caa6f20bc3c17d19b822d4455e55bd529b55ced63bc2",
+          "full_saved_paragraph": "Koyuki is an initiator of company. Sweets, board games, minor messages, a clover search, snacks and future play requests are ways of asking the adult to share something she values. Her concern about exhausting his patience qualifies a portrait of effortless unlimited demands. She can want to be wanted without needing every object or activity to be secretly instrumental. Actual shared play and conversation supply a bond before any question of crisis talent, romance or successful reform is answered. [P23 L205/208–214/249/283][private]",
+          "source_anchors": [
+            {
+              "label": "P23 L205/208–214/249/283",
+              "reference": "private",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOYUKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K036",
+          "section": "7. Relationship with Sensei: wanted attention and a fallible caregiver",
+          "saved_body_line": 111,
+          "sha256_utf8_line_no_terminator": "76df85420117d13b16d4034d1c965c94784064c69666d6b768eac438d83ec0e7",
+          "full_saved_paragraph": "The adult's response is not one uniform form of care. He plays but reports to Seminar; hears an offer of labor but increases security around password curiosity; gives a privacy concession that does not prevent subsequent intrusion; pays half of a snack purchase; registers a course whose attendance is unprinted; joins costly play; contacts Seminar while nursing. These acts have different recipients, purposes and outcomes. The synthesis cannot classify all contact as betrayal because Koyuki reproaches one intervention, or classify all intervention as welcomed because another produces gratitude. [P23 L205–214/251–253/289–291][private]",
+          "source_anchors": [
+            {
+              "label": "P23 L205–214/251–253/289–291",
+              "reference": "private",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOYUKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K037",
+          "section": "7. Relationship with Sensei: wanted attention and a fallible caregiver",
+          "saved_body_line": 113,
+          "sha256_utf8_line_no_terminator": "a8e1d3a1932995b201e696e21c9fc197c40e78e679f0eb3e06e03cb2c1d6371b",
+          "full_saved_paragraph": "The clover is a particularly useful counterexample to an exclusively corrective adult role. He can accompany a small search and talk through her causal objections without a printed supernatural result. Her choice to enjoy belief remains hers. The later preserved object makes the ordinary occasion worth keeping without proving that the adult planted it or authored its meaning. This is company that does not need a lesson, technical output or future obligation to make it analytically important. [P23 L209–210/249][private]",
+          "source_anchors": [
+            {
+              "label": "P23 L209–210/249",
+              "reference": "private",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOYUKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K038",
+          "section": "7. Relationship with Sensei: wanted attention and a fallible caregiver",
+          "saved_body_line": 115,
+          "sha256_utf8_line_no_terminator": "e3ece94ec0b66a61338d1c5160c9d703cc06179075eaa2ac8c8ea0dd67d296ed",
+          "full_saved_paragraph": "Privacy and permission also constrain her direction toward the adult. Securing a local privacy concession does not license a manufactured loophole around his personal information. A failed pursuit and apology remain actual limits; an unknown book's contents remain unknown. Her desire to be treated as a person with boundaries is credible even when she fails to give the other person equal restraint. That contradiction should be explained rather than removed by a harmless-teasing convention. [P23 L207/251][private]",
+          "source_anchors": [
+            {
+              "label": "P23 L207/251",
+              "reference": "private",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOYUKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K039",
+          "section": "7. Relationship with Sensei: wanted attention and a fallible caregiver",
+          "saved_body_line": 117,
+          "sha256_utf8_line_no_terminator": "2289fa41e9d464cef8d691a6f9ffe62b432793c3cb8519042219152ec7fd518c",
+          "full_saved_paragraph": "In E842 Sensei chooses to evade unfinished work and joins her tempting invitation. Student-company pleasure is real; his avoidance of duties is also real. The constrained voice-recording bargain involves Kotama's demands, and the locker method involves Koyuki's protests. His prioritization of injury avoidance in the dark passage is a useful choice, yet cannot retroactively secure all other methods or prove the route safe. The same adult can offer care and impose an unwanted bodily action. [E842 E002/E004/E006–007][party]",
+          "source_anchors": [
+            {
+              "label": "E842 E002/E004/E006–007",
+              "reference": "party",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K040",
+          "section": "7. Relationship with Sensei: wanted attention and a fallible caregiver",
+          "saved_body_line": 119,
+          "sha256_utf8_line_no_terminator": "49e2775fd2279ed6c5ade935d72604c813aa0eb0ac01ceecc33ec09391a9c332",
+          "full_saved_paragraph": "The later play, cleanup and sleep do not complete this ethical account. Koyuki actually participates in games and proposes a penalty. The next afternoon still burdens her with password work for the adult's overdue filing. In the private nursing scene the narrative gives recovery, but dissent and later reproach remain. The source supports finite, uneven care and wanted attachment; it does not support romantic commitment, clinical efficacy, a permanently transformed student or unrestricted adult discretion. [P23 L214/253/291][private] [E842 E009–015][party]",
+          "source_anchors": [
+            {
+              "label": "P23 L214/253/291",
+              "reference": "private",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOYUKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+            },
+            {
+              "label": "E842 E009–015",
+              "reference": "party",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K041",
+          "section": "8. Major peer relationships and independent recipients",
+          "saved_body_line": 125,
+          "sha256_utf8_line_no_terminator": "81f9e37a6003f6315edd2f73924f1dfd02b4dc59d1b3213439e80e82e08f5da4",
+          "full_saved_paragraph": "Yuuka can choose fitting pajamas, prepare snacks, intend better communication and receive Koyuki's actual acceptance of the gift. That care is more specific than a general claim that seniors secretly mean well. It coexists with confinement, allegations of funds taken, nonrelease during the visit and imposed afternoon labor. Koyuki's complaint has content even when she has failed duties. Conversely, her misconduct does not make the gift unreal or Yuuka's every resource concern groundless. The required council and directed relationship owners must retain these distinct practices rather than force this monograph to certify the whole institution. [P23 L237/283][private] [E842 E002–005/E010][party]",
+          "source_anchors": [
+            {
+              "label": "P23 L237/283",
+              "reference": "private",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOYUKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+            },
+            {
+              "label": "E842 E002–005/E010",
+              "reference": "party",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K042",
+          "section": "8. Major peer relationships and independent recipients",
+          "saved_body_line": 127,
+          "sha256_utf8_line_no_terminator": "1538a03f071c6c9e397f68258ef8af861a6e908fcd8d8a80d4fbfcc50fb3a9c1",
+          "full_saved_paragraph": "Final adds urgent reliance and contested discipline. Yuuka declares release for a needed computation and praises the later contribution, while Koyuki fears a more punitive transfer and rejects the forgery account as culpability. The relation is shaped by power and work as well as familiarity. Koyuki's later request to return to the room is a situated escape from battle duty, not a finding that all prior confinement was just or chosen. Missing case, permission and security records remain outside the printed comparison. [Final C002E004/E017][recall] [Further assignment][cipher]",
+          "source_anchors": [
+            {
+              "label": "Final C002E004/E017",
+              "reference": "recall",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E004_DEEP_READING.md"
+            },
+            {
+              "label": "Further assignment",
+              "reference": "cipher",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E017_DEEP_READING.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K043",
+          "section": "8. Major peer relationships and independent recipients",
+          "saved_body_line": 131,
+          "sha256_utf8_line_no_terminator": "63e6c5009de557f57d0879cf68eb813f8afb9347cf2f3cd35f22139791173b6c",
+          "full_saved_paragraph": "Koyuki describes Noa's pressure and unreadable intention in E842; that is Koyuki's perception. Noa later says she enjoyed the pair's coordination, praises Koyuki's intuition and stops before explaining it. These reports cannot be fused into a proven hidden ability or a single intention shared by pursuer and pursued. Noa's apology concerning Sensei's possible discomfort has that recipient, while Koyuki's own frightened or unwilling responses remain separately visible. [E842 E002u0058–0076/E009u0016–0049][party]",
+          "source_anchors": [
+            {
+              "label": "E842 E002u0058–0076/E009u0016–0049",
+              "reference": "party",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K044",
+          "section": "8. Major peer relationships and independent recipients",
+          "saved_body_line": 133,
+          "sha256_utf8_line_no_terminator": "6d4634e8b51c22f7f18ef9c91d609f8a6e78c6f387b343e833a47246893d7fb8",
+          "full_saved_paragraph": "Noa defeats her attempted psychological reading in Old Maid, and the repeated losses make the game one-sided enough that others object and Noa apologizes. Koyuki's original proposal of a forehead penalty gives it a particular origin; it does not authorize every later game or a soundproof security interview. Her request for Yuuka rather than Noa to lecture her is refused. Familiarity therefore supplies wanted play and different preferences about who may question or correct her. [E842 E011–012/E014u0021–0047][party]",
+          "source_anchors": [
+            {
+              "label": "E842 E011–012/E014u0021–0047",
+              "reference": "party",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K045",
+          "section": "8. Major peer relationships and independent recipients",
+          "saved_body_line": 137,
+          "sha256_utf8_line_no_terminator": "cc9b8151920792d010bc00c2c7e1246c1a857feea1f0a465af1014dd4af75c59",
+          "full_saved_paragraph": "Hare and Kotama provide practical escape assistance, with separate motives and a recording bargain rather than undifferentiated altruism. Their technical effort does not prevent failure, and Chihiro's security intervention produces a different relation to Koyuki's wanted freedom. In the later security conversation Koyuki says she has not counted her connections and wanted materials; the announced interview is prospective. Chihiro's own principle distinguishing freedom from disorder cannot be treated as proof that all methods used against Koyuki were proportionate or that her wider systems are permanently secure. [E842 E004–008/E014–015][party]",
+          "source_anchors": [
+            {
+              "label": "E842 E004–008/E014–015",
+              "reference": "party",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K046",
+          "section": "8. Major peer relationships and independent recipients",
+          "saved_body_line": 139,
+          "sha256_utf8_line_no_terminator": "d9cb01a44d5ea5288243201a2bb163d250bcb6d4d990d9f646511339ee36490e",
+          "full_saved_paragraph": "Maki's drink experimentation and Koyuki's encouragement have their own agency. Maki initially asks Hare's permission; Koyuki expressly prefers doing things before asking, and the mixture wastes reportedly half the drinks. Blame shifting and reproach remain in the ending. Research curiosity can be real while permission and resource use are defective. The later burden falling chiefly on Yuuka is not erased by the creators calling it an experiment. Maki's independent poster work and game preferences remain hers, not props for Koyuki's mischievous essence. [E842 E003/E011–014][party]",
+          "source_anchors": [
+            {
+              "label": "E842 E003/E011–014",
+              "reference": "party",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K047",
+          "section": "8. Major peer relationships and independent recipients",
+          "saved_body_line": 143,
+          "sha256_utf8_line_no_terminator": "26b14338edf5ab9cc0d41cd4d96fba07e09a297be0bf640407aa54a0175b08ec",
+          "full_saved_paragraph": "EVENT806's C&C team has differentiated wants and methods: Neru's challenge and jacket, Akane's service and privacy, Karin's care and stopped excess, Asuna's play and achieved status. Koyuki's privilege wish and refusal do not turn the team into interchangeable pursuers. Asuna's S status supplies a conditional release opportunity; subsequent conditions and missing payments remain. Neru's enjoyment of tag cannot define Koyuki's experience. The water appeals, proposed help and later custody report do not establish a printed complete rescue by any one senior. [E806 E007–011/full competing account][e806]",
+          "source_anchors": [
+            {
+              "label": "E806 E007–011/full competing account",
+              "reference": "e806",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_806/BLUE_ARCHIVE_EVENT_806_PHASE2_CONTEXTUAL_COMPARISON_20261008.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K048",
+          "section": "8. Major peer relationships and independent recipients",
+          "saved_body_line": 145,
+          "sha256_utf8_line_no_terminator": "119c5b47ab9e137233932dde084db48853989c02f7a6a4bd640cb16b97dd3152",
+          "full_saved_paragraph": "The unnamed interrupter or late entrant in private aftermath stays unnamed. Offscreen senior rules do not make a direct appearance by every named council member, and anticipated C&C pursuit in 10063:002 is not a newly observed scene. No peer is joined by tone or borrowed from another package's cast list. These limits keep the character's social world substantial without manufacturing reciprocal encounters or consuming other required homes. [P23 L205/214/283/308][private]",
+          "source_anchors": [
+            {
+              "label": "P23 L205/214/283/308",
+              "reference": "private",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOYUKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K049",
+          "section": "9. Language, written voice, and actor qualification",
+          "saved_body_line": 149,
+          "sha256_utf8_line_no_terminator": "dec42bfdee9b5b74d810ada7a6c86b88f62e4365504ceccfe813c71e3900cd82",
+          "full_saved_paragraph": "Koyuki's written laughter, XD, familiar `先生`, formal protest and exaggerated gratitude or farewell have distinct local functions. They can solicit company, resist being treated as a work robot, make a luck joke, preserve embarrassment around the clover or voice unfairness during games. Their recurrence supplies a written repertoire, not a diagnosis, a promise that every complaint is unserious or a performed comic tone. The exact audience and response decide how a line contributes. [P23 L235–241/275][private]",
+          "source_anchors": [
+            {
+              "label": "P23 L235–241/275",
+              "reference": "private",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOYUKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K050",
+          "section": "9. Language, written voice, and actor qualification",
+          "saved_body_line": 151,
+          "sha256_utf8_line_no_terminator": "d5609ebd0b4597d95e7523b1a267dc5b49315a9368a68d2f9ba36c13b208455f",
+          "full_saved_paragraph": "The paired private meanings preserve full MomoTalk rather than stopping at launch. 100630190 ends at its launch, so no continuation is invented. The 100630360 preface has separately controlled feedback branches before reconvergence, and formal answer alternatives remain alternatives. Numbered inward or staged Sensei forms do not all become public speech heard by Koyuki. The complete source route can support a chosen local outcome without demonstrating every represented gesture or measuring a performed reply delay. [P23 L216–231/275/305][private]",
+          "source_anchors": [
+            {
+              "label": "P23 L216–231/275/305",
+              "reference": "private",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOYUKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K051",
+          "section": "9. Language, written voice, and actor qualification",
+          "saved_body_line": 153,
+          "sha256_utf8_line_no_terminator": "7301e3c8b903e34783db345f72b884563ca48c3f63b63d2e1e6536f353c15262",
+          "full_saved_paragraph": "The clover's timed `#st` words lack an explicit actor command, and the wait-only unknown entry remains distinct from an adjacent explicit student entry. Repeated written dialogue supplies positive attribution context while canonical narrator classification remains. The pajama game log embeds its own Korean label in the native fields. The written ruby `ゲーム機` read as `やつら` at 10063:015u0046 gives a personifying grievance, while `黒崎` with `くろさき` at 20056:003u0003 gives a written name cue. Neither establishes heard pronunciation, pixel inspection or silent canonical repair. [P23 L241/275][private]",
+          "source_anchors": [
+            {
+              "label": "P23 L241/275",
+              "reference": "private",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOYUKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K052",
+          "section": "9. Language, written voice, and actor qualification",
+          "saved_body_line": 155,
+          "sha256_utf8_line_no_terminator": "847e831eb3806795150101fddb6d7b975c55fa6cca7afb29de20a8961d418d9c",
+          "full_saved_paragraph": "EVENT806 qualifies White Rabbit through the explicit local name `黒崎コユキ`, while its upstream person/variant joins remain empty. Some White Rabbit headings belong under accepted source qualification to guard or Neru exchanges; the reverse corrections also occur. The explicit introduction is enough for a bounded Koyuki identity route, not blanket reassignment of every doubtful utterance. Main self-address inversions and E842's shifted labels similarly make action, report and clean response stronger than an exact voice trait built from every heading. [E806 E007–011/actor qualifications][e806] [Final C002E004/E017][recall] [Cipher attribution][cipher] [E842 actor limits][party]",
+          "source_anchors": [
+            {
+              "label": "E806 E007–011/actor qualifications",
+              "reference": "e806",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_806/BLUE_ARCHIVE_EVENT_806_PHASE2_CONTEXTUAL_COMPARISON_20261008.md"
+            },
+            {
+              "label": "Final C002E004/E017",
+              "reference": "recall",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E004_DEEP_READING.md"
+            },
+            {
+              "label": "Cipher attribution",
+              "reference": "cipher",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E017_DEEP_READING.md"
+            },
+            {
+              "label": "E842 actor limits",
+              "reference": "party",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K053",
+          "section": "9. Language, written voice, and actor qualification",
+          "saved_body_line": 157,
+          "sha256_utf8_line_no_terminator": "e55030a6f3359f7775acd882bf15b1cc214aed9328c0f7cb6670ae8673874f26",
+          "full_saved_paragraph": "The costume's repeated twenty-one-line blocks have different collection and voice-control fields and trigger conditions. They preserve rescue thanks, an unfair-game complaint, fluffy texture and an all-night-play wish as written contextual meaning. Repetition is not a second enacted incident; a rescue line is not an independently inspected rescue sequence. The empty profile stays empty. Written metadata and current character interpretation therefore remain separated from voice performance, image composition and broader continuity certification. [P23 L239–241/304–306][private]",
+          "source_anchors": [
+            {
+              "label": "P23 L239–241/304–306",
+              "reference": "private",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOYUKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K054",
+          "section": "10. Competing readings and evidential judgment",
+          "saved_body_line": 163,
+          "sha256_utf8_line_no_terminator": "d9c2c65b88680daf2689aafcdeaaf806fa08d80bb553945c15ab43769a6ac092",
+          "full_saved_paragraph": "Missed errands, dislike of repetitive calculation, reluctance about cleanup and refusal of another assignment give this reading evidence. It fails against narrated quick office work, prepared game effort, actual useful computation and self-authored offers of labor. It also fails to ask what the unwanted task or imposed condition is. The stronger account distinguishes capacity, wanted interest, completed work and failed duty. Her refusal can be meaningful without being universally justified. [P23 L206/211–214/245][private] [Final C002E017][cipher]",
+          "source_anchors": [
+            {
+              "label": "P23 L206/211–214/245",
+              "reference": "private",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOYUKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+            },
+            {
+              "label": "Final C002E017",
+              "reference": "cipher",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E017_DEEP_READING.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K055",
+          "section": "10. Competing readings and evidential judgment",
+          "saved_body_line": 167,
+          "sha256_utf8_line_no_terminator": "04e867500e4615dcc79c1bf43eef08bc429d4022541e9fc1e61963dc071cb10c",
+          "full_saved_paragraph": "Luck jokes, reversal preference, card packs and shared failure support a chance-oriented portrait. Disliked random coffee and chess, preparation, reservation, complaint, cost concession, wanted clears and a later home victory limit it. The clover is chosen enjoyment under self-questioning, not proof of supernatural belief controlling every action. Enjoying failure with someone does not mean allowance loss or an unfinished objective is irrelevant. [P23 L208–210/213/235–249][private]",
+          "source_anchors": [
+            {
+              "label": "P23 L208–210/213/235–249",
+              "reference": "private",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOYUKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K056",
+          "section": "10. Competing readings and evidential judgment",
+          "saved_body_line": 171,
+          "sha256_utf8_line_no_terminator": "3ecf0535a43cff008a9a60204b8d96f785d8c7495a3a122d9c022379c5a49e99",
+          "full_saved_paragraph": "Gifts, sweets, humor and genuine company oppose a uniformly malicious portrait. Yet the personal-information loophole, admitted spending of other people's money, material connections, proposed acting before permission and shared drink waste have actual recipients. Her own desire for freedom cannot authorize those costs. Conversely, her misconduct does not authorize unwanted tag, constrained bodily proximity or any imagined punishment. The correct unit of ethical analysis remains the act, permission, response and ending. [P23 L207/251][private] [E806 E008/E010][e806] [E842 E006/E013–014][party]",
+          "source_anchors": [
+            {
+              "label": "P23 L207/251",
+              "reference": "private",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOYUKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+            },
+            {
+              "label": "E806 E008/E010",
+              "reference": "e806",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_806/BLUE_ARCHIVE_EVENT_806_PHASE2_CONTEXTUAL_COMPARISON_20261008.md"
+            },
+            {
+              "label": "E842 E006/E013–014",
+              "reference": "party",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K057",
+          "section": "10. Competing readings and evidential judgment",
+          "saved_body_line": 175,
+          "sha256_utf8_line_no_terminator": "83729ef081b23c6aa14d23534c3f1ecd2115a432be32bdc349dad750f8ab8a8d",
+          "full_saved_paragraph": "Welcomed pajamas, company, snacks, a preserved clover and narrated nursing recovery are substantial positive care. The private aftermath also has forgotten errands, failed plans, continued refusal and renewed reproach. E842 has actual party enjoyment alongside unfinished forced work; E806 has reported custody without a printed rescue or repair. Gratitude does not cancel dissent, and recovery is not a demonstrated clinical mechanism or permanent ethical transformation. The ordinary accomplishments can be valued without inventing total reform. [P23 L205/209–214/253][private] [E806 E011][e806] [E842 E005/E009–015][party]",
+          "source_anchors": [
+            {
+              "label": "P23 L205/209–214/253",
+              "reference": "private",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOYUKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+            },
+            {
+              "label": "E806 E011",
+              "reference": "e806",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_806/BLUE_ARCHIVE_EVENT_806_PHASE2_CONTEXTUAL_COMPARISON_20261008.md"
+            },
+            {
+              "label": "E842 E005/E009–015",
+              "reference": "party",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K058",
+          "section": "10. Competing readings and evidential judgment",
+          "saved_body_line": 179,
+          "sha256_utf8_line_no_terminator": "58e7955d73845e4f37f58ff5819c15e09abfff20fd284e6f9617b993f18ea58b",
+          "full_saved_paragraph": "The cipher bottleneck and corroborated solve make reliance reasonable at that specific point. Noa's judgment about exclusive capability and the later task do not prove there was no alternative, that all means of recall were legitimate or that Koyuki consented to indefinite battle work. Nor does her wish to return to the reflection room authenticate the earlier disciplinary case. The evidence supports a needed contribution and contested further use of capacity. A full institutional synthesis must address authority and burdens without turning the contributor into a tool. [Final C002E004/E017][recall] [Further assignment][cipher]",
+          "source_anchors": [
+            {
+              "label": "Final C002E004/E017",
+              "reference": "recall",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E004_DEEP_READING.md"
+            },
+            {
+              "label": "Further assignment",
+              "reference": "cipher",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E017_DEEP_READING.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K059",
+          "section": "10. Competing readings and evidential judgment",
+          "saved_body_line": 181,
+          "sha256_utf8_line_no_terminator": "0a02b1ccca6d3bbf7abbfd8da3419cddc0924f8846c79469b73ab6e95281f316",
+          "full_saved_paragraph": "The preferred reading keeps the positive and adverse evidence together: Koyuki is capable of useful effort, attachment, pleasure and concern, while often seeking exemptions or treating permission as an obstacle to interest. She can care about a small shared object and still invade another person's privacy; she can resist arbitrary demands and still fail shared responsibilities. This is a psychologically situated argument with high confidence in clean local acts and endings, moderate confidence in the joined interpretation, and explicit limits on motive, global chronology and durable change. No reconstruction mechanism or diagnostic essence is asserted.",
+          "source_anchors": [],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": "Joinedthesisor custody/conclusion at the declared complete argument scope",
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K060",
+          "section": "11. Evidence route, open gaps, and what is complete",
+          "saved_body_line": 185,
+          "sha256_utf8_line_no_terminator": "09e4098ce3ceea733e5f55fe2aa111859c97a19725c985f875dcdfe1d01609c4",
+          "full_saved_paragraph": "The central ordinary authority is the complete maintained Koyuki23 argument: ten full paired bond/MomoTalk meanings, both written variant repertoires and the event costume repertoire. I received the current normal file through EOF, including all source-route fields, current Cycle008 qualification and complete attributed literary argument. Its producer reports whole primary and typed-control receiving; that source custody stays attributed. My current receiving is the accepted analytical argument, not fresh primary, native, audiovisual or independently certified historical producer reading. [Complete private and written owner][private]",
+          "source_anchors": [
+            {
+              "label": "Complete private and written owner",
+              "reference": "private",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOYUKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K061",
+          "section": "11. Evidence route, open gaps, and what is complete",
+          "saved_body_line": 187,
+          "sha256_utf8_line_no_terminator": "967e8e7c4c5e41ba3e4fc801d101de7175c79d716ced0053d548dfd56f6171d9",
+          "full_saved_paragraph": "The complete small E806 comparison supplies all eleven connected event meanings, including Koyuki's local introduction, wanted privilege, admitted uncounted expenditure, refusal, failed escape and reported custody limits. The complete accepted E842 argument was already personally received for Noa; current consequential Koyuki paragraphs were received again at their exact scope. Whole Final contextual and E821 arguments are adequate prior accepted meaning, with new complete small Final C002E004 and C002E017 receiving supplying exact recall/solve/assignment distinctions. No whole primary corpus replay follows from these comparisons. [E806][e806] [E842][party] [Final contextual owner][final] [Final recall][recall] [Final solve][cipher] [Coalition completion][coalition]",
+          "source_anchors": [
+            {
+              "label": "E806",
+              "reference": "e806",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_806/BLUE_ARCHIVE_EVENT_806_PHASE2_CONTEXTUAL_COMPARISON_20261008.md"
+            },
+            {
+              "label": "E842",
+              "reference": "party",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md"
+            },
+            {
+              "label": "Final contextual owner",
+              "reference": "final",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md"
+            },
+            {
+              "label": "Final recall",
+              "reference": "recall",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E004_DEEP_READING.md"
+            },
+            {
+              "label": "Final solve",
+              "reference": "cipher",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E017_DEEP_READING.md"
+            },
+            {
+              "label": "Coalition completion",
+              "reference": "coalition",
+              "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_821/BLUE_ARCHIVE_EVENT_821_CONTEXTUALIZATION_CHECKPOINT.md"
+            }
+          ],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": null,
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K062",
+          "section": "11. Evidence route, open gaps, and what is complete",
+          "saved_body_line": 189,
+          "sha256_utf8_line_no_terminator": "c79e1e19f72f5c34e1c1584065f8e933941d4fedc13ad789edf7b5df7d4a911a",
+          "full_saved_paragraph": "The evidence route retains one person `BA_PERSON_CH0198`, variants10063/20056 and the written costume mapping; V3 requires `P3-CHAR-KOYUKI-CH0198` through F063, with dated A135 retrieval overlap. Four unclassified routes —84302200500,84302200600,84302300100 and84311100402— remain outside this selected23 private/written scope, eligible and unresolved, rather than silently excluded for being ordinary or filled with inferred content. Their existence does not create a second person or provide an unread event meaning. The full required cast and independent relationship/institution questions remain separately governed.",
+          "source_anchors": [],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": "Joinedthesisor custody/conclusion at the declared complete argument scope",
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K063",
+          "section": "11. Evidence route, open gaps, and what is complete",
+          "saved_body_line": 191,
+          "sha256_utf8_line_no_terminator": "fe7c009270719f9f6d310b991fdcfc425e0f4be7f74baaa603d1b932d64c367d",
+          "full_saved_paragraph": "All fourteen original gaps remain OPEN at their actual scope:",
+          "source_anchors": [],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": "Joinedthesisor custody/conclusion at the declared complete argument scope",
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K064",
+          "section": "11. Evidence route, open gaps, and what is complete",
+          "saved_body_line": 210,
+          "sha256_utf8_line_no_terminator": "1169a66afe827fd78739e91cdaf1ca579af3786b6d0b4c99145419cfb851ee1e",
+          "full_saved_paragraph": "The complete literary claim is therefore bounded: a joined account of interest, wanted company, chosen object meaning, useful capacity and permission conflicts across the admitted written repertoire. This is neither a second private-source intake nor completion of the Seminar, Veritas, C&C or directed relationship homes. The saved source/claim/endpoint receipts distinguish whole accepted argument custody, bounded renewed checks and attributed old primary credit. ROOT must independently receive and decide this character synthesis before any canonical or progress promotion.",
+          "source_anchors": [],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": "Joinedthesisor custody/conclusion at the declared complete argument scope",
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        },
+        {
+          "claim_id": "K065",
+          "section": "11. Evidence route, open gaps, and what is complete",
+          "saved_body_line": 212,
+          "sha256_utf8_line_no_terminator": "df50fa6e13d172d8e00f60b9f881917ef9f99dff0ec9669100f6f191ea033574",
+          "full_saved_paragraph": "Koyuki's wanted life cannot be represented by keeping only talent and trouble. It also contains wind, sweets, manga, comfortable work, a preserved clover, an unexplained token, a few games before sleep and a companion she fears tiring of her. Those wants do not excuse privacy intrusion or shared-resource waste. They make her choices and disappointments worth explaining in their own right. Her refusals, actual contributions and failed plans keep that life attached to other people with wishes and limits of their own.",
+          "source_anchors": [],
+          "confidence": "HIGH_CLEAN_LOCAL_ACT_OR_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+          "scope_if_no_direct_anchor": "Joinedthesisor custody/conclusion at the declared complete argument scope",
+          "decision": "AUTHOR_SUPPORTED_WITH_STATED_LIMITS_ROOT_RECEIVING_PENDING"
+        }
+      ],
+      "complete_source_endpoint_reviews": [
+        {
+          "endpoint_id": "EP01",
+          "pair": "10063:002",
+          "whole_thread": "100630010",
+          "accepted_owner": "K01",
+          "owner_line": 205,
+          "actual_positive_or_changed_endpoint": "Wanted sweets/manga/company; actual late games",
+          "contrary_or_unfinished_tail": "ImmediateSeminar reportingandlaterstudentreproach; no enactedescape orconsenttoconfinement",
+          "all_source_primary_credit": "ATTRIBUTED_EXISTING_OWNER_ONLY"
+        },
+        {
+          "endpoint_id": "EP02",
+          "pair": "10063:003",
+          "whole_thread": "100630190",
+          "accepted_owner": "K01",
+          "owner_line": 206,
+          "actual_positive_or_changed_endpoint": "Useful laboroffer/dislikedrepetitivecalculation/interestingworkrequest; securityincreased",
+          "contrary_or_unfinished_tail": "Threadendsatlaunch, no fabricatedlatercodas/accesspermission",
+          "all_source_primary_credit": "ATTRIBUTED_EXISTING_OWNER_ONLY"
+        },
+        {
+          "endpoint_id": "EP03",
+          "pair": "10063:005",
+          "whole_thread": "100630260",
+          "accepted_owner": "K01",
+          "owner_line": 207,
+          "actual_positive_or_changed_endpoint": "Privacy concession, renewedloopholeintrusion, drawerdiscovery, failedpursuit, apology",
+          "contrary_or_unfinished_tail": "Uninspectedbookgenre/completeinnocence/legalprivacycertificateunproved",
+          "all_source_primary_credit": "ATTRIBUTED_EXISTING_OWNER_ONLY"
+        },
+        {
+          "endpoint_id": "EP04",
+          "pair": "10063:006",
+          "whole_thread": "100630360",
+          "accepted_owner": "K01",
+          "owner_line": 208,
+          "actual_positive_or_changed_endpoint": "Allallowancespent/floortwoonly; sharedfun/failure andfuturestrategy",
+          "contrary_or_unfinished_tail": "Notclear/wealth/moral-luckmechanism; Feedbackprefacebranchesdistinct",
+          "all_source_primary_credit": "ATTRIBUTED_EXISTING_OWNER_ONLY"
+        },
+        {
+          "endpoint_id": "EP05",
+          "pair": "10063:008",
+          "whole_thread": "100630490",
+          "accepted_owner": "K01",
+          "owner_line": 209,
+          "actual_positive_or_changed_endpoint": "Attentionworry/cloversearch/testedobjections/finding/gratitude/company",
+          "contrary_or_unfinished_tail": "No magic/improvedluck/adultplanting",
+          "all_source_primary_credit": "ATTRIBUTED_EXISTING_OWNER_ONLY"
+        },
+        {
+          "endpoint_id": "EP06",
+          "pair": "10063:015",
+          "whole_thread": "100630610",
+          "accepted_owner": "K01",
+          "owner_line": 210,
+          "actual_positive_or_changed_endpoint": "Rememberedcloverpreserved/tokenrefusals/actualboardgames andcourseregistration",
+          "contrary_or_unfinished_tail": "Tokenmeaningunresolved/attendanceorreform/arcadevisitunprinted",
+          "all_source_primary_credit": "ATTRIBUTED_EXISTING_OWNER_ONLY"
+        },
+        {
+          "endpoint_id": "EP07",
+          "pair": "20056:002",
+          "whole_thread": "200560010",
+          "accepted_owner": "K01",
+          "owner_line": 211,
+          "actual_positive_or_changed_endpoint": "Snacks/wind/generosity/recognition; actualadulthalfpayment",
+          "contrary_or_unfinished_tail": "Forgottenerrands/feedinginvitationandphoneattemptnotcompletion",
+          "all_source_primary_credit": "ATTRIBUTED_EXISTING_OWNER_ONLY"
+        },
+        {
+          "endpoint_id": "EP08",
+          "pair": "20056:003",
+          "whole_thread": "200560200",
+          "accepted_owner": "K01",
+          "owner_line": 212,
+          "actual_positive_or_changed_endpoint": "Quickofficework/comfort/imageconcern; fewgamesandsleep",
+          "contrary_or_unfinished_tail": "Failedall-nightambition/formaldressrationale notpermanentavailability",
+          "all_source_primary_credit": "ATTRIBUTED_EXISTING_OWNER_ONLY"
+        },
+        {
+          "endpoint_id": "EP09",
+          "pair": "20056:005",
+          "whole_thread": "200560320",
+          "accepted_owner": "K01",
+          "owner_line": 213,
+          "actual_positive_or_changed_endpoint": "Preparation/reservation/complaint/concession/truce; arcadefloorsevenfailure andlaterhomewin",
+          "contrary_or_unfinished_tail": "Expense/unnamedscoldinglimited/lifetimegratitudenotinvariant",
+          "all_source_primary_credit": "ATTRIBUTED_EXISTING_OWNER_ONLY"
+        },
+        {
+          "endpoint_id": "EP10",
+          "pair": "20056:006",
+          "whole_thread": "200560490",
+          "accepted_owner": "K01",
+          "owner_line": 214,
+          "actual_positive_or_changed_endpoint": "Wantedfreedom/sanctuary/resistance; actualSeminarcontact andnarratedfictionalrecovery",
+          "contrary_or_unfinished_tail": "Laterreproach/unnamedinterruption/no lotterywealth/no clinicalefficacy",
+          "all_source_primary_credit": "ATTRIBUTED_EXISTING_OWNER_ONLY"
+        },
+        {
+          "endpoint_id": "EP11",
+          "source_id": "K01",
+          "owner_lines": [
+            235,
+            237,
+            239,
+            241
+          ],
+          "actual_positive_or_changed_endpoint": "Allthree written repertoiresretainprofilepremises,tastes,pajamagift,refuge,coffeecontrary,costumerepeatsandtimed/rubyforms",
+          "contrary_or_unfinished_tail": "Writtenpermissionpressure/securityshutdown/cleanup/wishnot inspectedenactment; performedvoiceunreceived"
+        },
+        {
+          "endpoint_id": "EP12",
+          "source_id": "F04",
+          "source_locator": "C002E004 scene002u0002–0045",
+          "actual_positive_or_changed_endpoint": "Recall/releasedeclaration/requestwithcontestedforgeryaccount",
+          "contrary_or_unfinished_tail": "No shown departure/computation/legaldisposition; sourceactorinversions"
+        },
+        {
+          "endpoint_id": "EP13",
+          "source_id": "F17",
+          "source_locator": "C002E017 scene001u0001–0018",
+          "actual_positive_or_changed_endpoint": "KoyukisolveclaimNoacorroboration; furtherassignmentprotested",
+          "contrary_or_unfinished_tail": "No displayedcode/unlocklog/exclusivecapability/finishedlureorbarrier"
+        },
+        {
+          "endpoint_id": "EP14",
+          "source_id": "E06",
+          "source_locator": "E007–011",
+          "actual_positive_or_changed_endpoint": "Localname/servicewishes/admitteduncountedspending/rejectedtag/failedwaterescape/reportedcustody",
+          "contrary_or_unfinished_tail": "No printedrescue/treatment/auditedamount/liability/payment/lawfulcustody"
+        },
+        {
+          "endpoint_id": "EP15",
+          "source_id": "E42",
+          "source_locator": "E002–015",
+          "actual_positive_or_changed_endpoint": "Pajamaswelcomed; usefuldiversion/nondestructivedronesreported; wantedgames/losses; waste/reproachandongoingafternoonfiling",
+          "contrary_or_unfinished_tail": "No universalassent/permanentsecurity/medicaloutcome/executedinterview/completedfiling/faircompensation"
+        },
+        {
+          "endpoint_id": "EP16",
+          "source_id": "E21",
+          "source_locator": "E010–011",
+          "actual_positive_or_changed_endpoint": "Barrierrequest/exasperatedacknowledgmentfollowedbyoperationcompletionreport",
+          "contrary_or_unfinished_tail": "Noinspectionofallintermediateactions/soleKoyukicausalcredit"
+        }
+      ],
+      "eleven_headers": [
+        {
+          "line": 23,
+          "heading": "## 1. Core thesis"
+        },
+        {
+          "line": 33,
+          "heading": "## 2. Longitudinal arc and legitimate ordering"
+        },
+        {
+          "line": 47,
+          "heading": "## 3. Public self, private self, and the value of being wanted"
+        },
+        {
+          "line": 59,
+          "heading": "## 4. School and club role: useful labor and contested authority"
+        },
+        {
+          "line": 71,
+          "heading": "## 5. Ordinary life: chance, objects, comfort and shared failure"
+        },
+        {
+          "line": 93,
+          "heading": "## 6. Crisis behavior and the limits of capability"
+        },
+        {
+          "line": 107,
+          "heading": "## 7. Relationship with Sensei: wanted attention and a fallible caregiver"
+        },
+        {
+          "line": 121,
+          "heading": "## 8. Major peer relationships and independent recipients"
+        },
+        {
+          "line": 147,
+          "heading": "## 9. Language, written voice, and actor qualification"
+        },
+        {
+          "line": 159,
+          "heading": "## 10. Competing readings and evidential judgment"
+        },
+        {
+          "line": 183,
+          "heading": "## 11. Evidence route, open gaps, and what is complete"
+        }
+      ],
+      "all14_gaps": [
+        {
+          "gap": "G01",
+          "state": "OPEN",
+          "saved_body_line": 195,
+          "claim_specific_effect": "| G01 ordinary/private breadth | All ten complete pairs and three written repertoires retain interest, comfort, objects, company, failures, refusals and unfinished plans. | Other families and the four unclassified routes remain; this selected repertoire is not a whole-person ceiling. |"
+        },
+        {
+          "gap": "G02",
+          "state": "OPEN",
+          "saved_body_line": 196,
+          "claim_specific_effect": "| G02 council decision transfer | Actual gift acceptance, reports of discipline, recall and further assignment have different recipients and outcomes. | Seminar authority, lawful custody, resource audits and directed relationships retain separate owners. |"
+        },
+        {
+          "gap": "G03",
+          "state": "OPEN",
+          "saved_body_line": 197,
+          "claim_specific_effect": "| G03 Serika service | Generosity, labor preference and wanted recognition supply a bounded comparison. | No Serika wages, recipients or aftermath are completed here. |"
+        },
+        {
+          "gap": "G04",
+          "state": "OPEN",
+          "saved_body_line": 198,
+          "claim_specific_effect": "| G04 Hina accountability | Dissent, care and permission remain distinct. | No Hina institutional, crisis or remedy responsibility is closed. |"
+        },
+        {
+          "gap": "G05",
+          "state": "OPEN",
+          "saved_body_line": 199,
+          "claim_specific_effect": "| G05 Arius/PS68 aftermath | Coalition peers are not reduced to interchangeable labor. | Their livelihoods, legal/medical states and own aftermath arguments remain separate. |"
+        },
+        {
+          "gap": "G06",
+          "state": "OPEN",
+          "saved_body_line": 200,
+          "claim_specific_effect": "| G06 ordinary cross-school breadth | Quiet Millennium objects, company and pleasures matter without a stakes filter. | No school prevalence or whole cross-school repertoire follows. |"
+        },
+        {
+          "gap": "G07",
+          "state": "OPEN",
+          "saved_body_line": 201,
+          "claim_specific_effect": "| G07 chronology | Clover callback, local event sequences and recall-to-solve main progression are preserved. | Absolute private/event/MAIN alignment and an outfit growth ladder remain unproved. |"
+        },
+        {
+          "gap": "G08",
+          "state": "OPEN",
+          "saved_body_line": 202,
+          "claim_specific_effect": "| G08 event naming/repeats | Literal806/842 contexts and costume842/10842 repetition remain distinct. | No fused celebration, enacted rerun or complete external event-title reconciliation. |"
+        },
+        {
+          "gap": "G09",
+          "state": "OPEN",
+          "saved_body_line": 203,
+          "claim_specific_effect": "| G09 actor/choice/audience | Whole-thread choices, feedback, inward forms, timed labels and public actor seams materially constrain claims. | No universal source repair, execution of all alternatives or hearing of private thoughts. |"
+        },
+        {
+          "gap": "G10",
+          "state": "OPEN",
+          "saved_body_line": 204,
+          "claim_specific_effect": "| G10 performance | Written names, address, laughter, ruby, texture and voice-control fields are retained as written. | No received audio, acting, timing, animation or pixels. |"
+        },
+        {
+          "gap": "G11",
+          "state": "OPEN",
+          "saved_body_line": 205,
+          "claim_specific_effect": "| G11 Hoshino/Yume records | No analogy supplies an authenticated historical record. | Their notebook, office-state, grief and death-causality responsibilities remain. |"
+        },
+        {
+          "gap": "G12",
+          "state": "OPEN",
+          "saved_body_line": 206,
+          "claim_specific_effect": "| G12 identity/system | One bounded person/two variants; explicit local White Rabbit introduction with upstream empty joins qualified. | No unknown entrant join, broader automatic rekeying, sentient-device inference or variant calendar. |"
+        },
+        {
+          "gap": "G13",
+          "state": "OPEN",
+          "saved_body_line": 207,
+          "claim_specific_effect": "| G13 institutions/outcomes | Work, cost concession, registration, reported cipher solve, local home victory and narrated fictional recovery count at their degree. | Unprinted rescue, treatment, sums, liability, lawful discipline, attendance, payment, permanent security and repair remain unproved. |"
+        },
+        {
+          "gap": "G14",
+          "state": "OPEN",
+          "saved_body_line": 208,
+          "claim_specific_effect": "| G14 mode/outside-selection continuity | Four literal unclassified routes remain eligible outside23; costume/report/wish modes are distinguished. | No admission or characterization is manufactured for unread routes. |"
+        }
+      ],
+      "meaning_not_sourcecount": "Full ten pairedcodas/threewritten meanings/publiccontraries analyzed; countdoesnotgrantcompletion",
+      "source_mode_limits": [
+        "reportvsinspection",
+        "choicevsallbranches",
+        "inwardvsheard",
+        "timedlogvsperformed",
+        "actorseamsvsuniversalnormalization",
+        "variantsvsgrowthcalendar",
+        "completeargumentvsnewprimary"
+      ],
+      "ROOT_literary_receiving": "PENDING",
+      "author_original_primary_or_raw_or_performed_credit": 0,
+      "N_or_quarter_or_completion_claim": false
+    },
+    "KOYUKI_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json": {
+      "schema": "BLUE_ARCHIVE_PHASE3_KOYUKI_SAVED_OUTPUT_V1",
+      "status": "EXACT_CANDIDATE_AND_RECEIPTS_SAVED_COMPLETE_AUTHOR_FIELDS_READBACK_PENDING",
+      "outputs": [
+        {
+          "working_artifact_relative_path": "MILLENNIUM_KOYUKI_VERITAS_MONOGRAPHS/BLUE_ARCHIVE_KOYUKI_CHARACTER_MONOGRAPH.md",
+          "byte_count": 44852,
+          "line_count": 220,
+          "sha256": "0bd143fb3005f57427b6196077b28b4bd1e0d736de12bcd1af9712083d0657e0",
+          "actual_byte_blob_oid": "06e7898bb1399352603158e0ae23a39cbeb6778e"
+        },
+        {
+          "working_artifact_relative_path": "MILLENNIUM_KOYUKI_VERITAS_MONOGRAPHS/KOYUKI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "byte_count": 41013,
+          "line_count": 789,
+          "sha256": "1351fc8a2bcb5c4ea65e7777dbced84553eda5daaaa987b158ad702bc544a2cc",
+          "actual_byte_blob_oid": "92d7499ff338749a6ac3e3f89cfeed6cdfc29491"
+        },
+        {
+          "working_artifact_relative_path": "MILLENNIUM_KOYUKI_VERITAS_MONOGRAPHS/KOYUKI_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+          "byte_count": 108955,
+          "line_count": 1505,
+          "sha256": "a03a83773f1f39e8c2df45933442adf475dedd2036a3474b09bdccf25c04266e",
+          "actual_byte_blob_oid": "5092add2bf0371446f6adbc0b8c2852c2dda69e4"
+        }
+      ],
+      "candidate_whole_body_receiving": [
+        "185fa6 characters0–17000 ofpre-final44726",
+        "a2d20b characters17000–34000 ofpre-final44726",
+        "04ee2e currentcharacters33900–44686EOF plusbothfinalcurrentchangedparagraphsL91/L119"
+      ],
+      "original_author_thesis": "Wantedinterest/companyandchosenobjectmeaningscoexistwithusefulcapacity,missedduties/intrusionandresistancetoimposedlabor; actualrecipientsandendingsdetermineeachjudgment",
+      "unchanged_prior_representative_witnesses": [
+        {
+          "working_artifact_relative_path": "MILLENNIUM_CNC_SEMINAR_MONOGRAPHS/BLUE_ARCHIVE_NOA_CHARACTER_MONOGRAPH.md",
+          "byte_count": 40144,
+          "line_count": 152,
+          "sha256": "7cfad36a54c559d9b9fa0231f841a917c324e5a7f8c163f151b84dfa19d369e4",
+          "actual_byte_blob_oid": "9a12a4d6987c50f497fa7ea4444fe326484f3d02"
+        },
+        {
+          "working_artifact_relative_path": "INDEPENDENT_NOA_YUUKA_RELATIONSHIP_REVIEW_V1/INDEPENDENT_NOA_YUUKA_AUTHOR_FULL_READBACK_AND_FREEZE_RECEIPT_V1.json",
+          "byte_count": 3921,
+          "line_count": 80,
+          "sha256": "324375701099b75305141930e04191fe3808523916116b0dbc9944414f0246ea",
+          "actual_byte_blob_oid": "e3d3f269b1f90cacdd1ed76b084bbd7930965011"
+        },
+        {
+          "working_artifact_relative_path": "ROOT_ACCEPTED_CONTINUATION_ADOPTION_PREPARATION_V6/BLUE_ARCHIVE_FIFTEEN_CHARACTER_CANONICAL_ADOPTION_EXACT_PATH_MANIFEST_V1.json",
+          "byte_count": 246421,
+          "line_count": 3532,
+          "sha256": "457189d604331a907226b46cf21873fe3a8e128c5199c75842e4f237e5c85aa6",
+          "actual_byte_blob_oid": "e5f2311b6b590aa99262edaeeda161e1c0c27812"
+        }
+      ],
+      "relative_links": "PASS7canonicalcontainingfilelinks",
+      "inputs": "PASS13currentR/sizedhistoricalHEAD7489/c1/maincomparisons+3localpriorfields",
+      "source_authority": "Cycle008current;producerhistoryqualified",
+      "all14OPEN": true,
+      "UTF8_LF_noBOM_one_finalLF": true,
+      "all_outputs_less_than_1MiB": true,
+      "ROOT_acceptance": "PENDING",
+      "ROOT_adoption": "PENDING",
+      "new_primary_or_raw_or_performed_or_model_credit": 0,
+      "N_or_quarter_frozen": false,
+      "Git_R_global_provider_writes": 0
+    }
+  },
+  "source_credit_rule": "Whole and bounded author/ROOT receiving is attributed exactly in preserved original records. Mechanical adoption adds zero new source receiving. Izumi retains one necessary partial canonical recovery u21–42/G9–11 with zero whole-primary credit; Iori retains two complete small written-source checks at their original declared bounds. No source custody is rewritten as zero merely because this assembler does not replay it."
+}

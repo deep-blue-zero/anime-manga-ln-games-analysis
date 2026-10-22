@@ -1,0 +1,1150 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_SPECIALIST_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1",
+  "status": "PREPARED_EXACT_CANONICAL_DERIVATIVE_ROOT_INSTALLATION_PENDING",
+  "required_home": "P3-CHAR-IBUKI",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_IBUKI_CHARACTER_MONOGRAPH.md",
+    "bytes": 43728,
+    "sha256": "7ac367657f36350f75fab4c5fc74188809e675e45463582fdcb64f218537f24e",
+    "git_blob_oid_of_actual_bytes": "f77fbf01b34d028a571f9cd92b2fbfd38b3e945a"
+  },
+  "all_immutable_local_input_tuples": [
+    {
+      "path": "GEHENNA_PANDEMONIUM_MONOGRAPHS/BLUE_ARCHIVE_IBUKI_CHARACTER_MONOGRAPH.md",
+      "bytes": 37111,
+      "sha256": "a32b180359ed1ba07758b3eebd2457ade3381a05c3552fe49541df8f8cd0f0dd",
+      "git_blob_oid_of_actual_bytes": "2edc150ccdad3533dc598550536bd9c99936ea80",
+      "lines": 147
+    },
+    {
+      "path": "ROOT_IBUKI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+      "bytes": 5338,
+      "sha256": "90d194afed633778c1e32e4173f3e9838a2e42afba278565a652cd9762dca843",
+      "git_blob_oid_of_actual_bytes": "f83fdb53686af9c7a1cae3f51ccf433d2cf9ef55",
+      "lines": 75
+    },
+    {
+      "path": "GEHENNA_PANDEMONIUM_MONOGRAPHS/IBUKI_MONOGRAPH_RECEIVING_RECEIPT.json",
+      "bytes": 114725,
+      "sha256": "0510592fb1135f0bd13adc3636d74261219a1808945ed976ad10628a639dd106",
+      "git_blob_oid_of_actual_bytes": "83ff212a4c55795c665729bdf882e23740ec243d",
+      "lines": 2100
+    },
+    {
+      "path": "GEHENNA_PANDEMONIUM_MONOGRAPHS/IBUKI_CURRENT_WORKTREE_METADATA_PROBE.json",
+      "bytes": 3615,
+      "sha256": "7b5e048fe34ef93b3183da63cc09d705dc534d82d3d859e75ff49572b57803cb",
+      "git_blob_oid_of_actual_bytes": "dd618c50d5e935d9071b7ad308b30c266143d94f",
+      "lines": 49
+    },
+    {
+      "path": "GEHENNA_PANDEMONIUM_MONOGRAPHS/IBUKI_FROZEN_DELIVERY_MANIFEST.json",
+      "bytes": 2240,
+      "sha256": "805a6a014479b74484fd7718f2cdae38f54a2484f55e683e8e04deaf4ef82ebd",
+      "git_blob_oid_of_actual_bytes": "a8a1dc2b24a55bcce38da10a22cf44fcdea4c734",
+      "lines": 47
+    },
+    {
+      "path": "GEHENNA_PANDEMONIUM_MONOGRAPHS/IBUKI_MONOGRAPH_RECEIVING_RECEIPT.md",
+      "bytes": 12040,
+      "sha256": "ee3837fd077245ae795bbf242daf8e5cb7fc3dde469db9ecd8b2ff123edb1703",
+      "git_blob_oid_of_actual_bytes": "27a4a6ad327eeeddd1abfed0b7ea2aeabd686c55",
+      "lines": 75
+    }
+  ],
+  "input_public_derivative": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_IBUKI_MONOGRAPH_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+  "root_acceptance_public_derivative": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_IBUKI_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+  "transformation": "Only frontmatter/current acceptance framing, explicit ROOT scope and stable original-gap ID qualifications and optional retrieval title change. Full unchanged literary claims, sources, recipient ends and custody extents are retained. Every original line and changed clause is recoverable through exact transport.",
+  "exact_unchanged_saved_line_joins": [
+    {
+      "frozen_line": 1,
+      "canonical_line": 1,
+      "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "line_text": "---"
+    },
+    {
+      "frozen_line": 2,
+      "canonical_line": 2,
+      "line_sha256": "0a196a49f52c87e919dab450bef608ec34012a3f153c4f203515d7320d609f8a",
+      "line_text": "series: BLUE_ARCHIVE"
+    },
+    {
+      "frozen_line": 4,
+      "canonical_line": 3,
+      "line_sha256": "1658226d82991e821acc7363ec1375c03a4c3037e48a2a07ed6d5d89a5430ec5",
+      "line_text": "method: DEEP_SYNTHESIS"
+    },
+    {
+      "frozen_line": 5,
+      "canonical_line": 4,
+      "line_sha256": "2923c66dbdf3cac7fd09c1d32e3c93a03d356dead7112227287dbfbc376eed79",
+      "line_text": "architecture: \"1.12 / section 7.1\""
+    },
+    {
+      "frozen_line": 7,
+      "canonical_line": 5,
+      "line_sha256": "e61de63cf90d30d8da453683675e3a1a12ee1539bb2eb059e5184470774311d5",
+      "line_text": "required_home: P3-CHAR-IBUKI"
+    },
+    {
+      "frozen_line": 8,
+      "canonical_line": 6,
+      "line_sha256": "2993f99f83a7309a7bc867c5ede19738b82093a73d148267377fe4ad291d98f3",
+      "line_text": "source_responsibility: P3-F028"
+    },
+    {
+      "frozen_line": 9,
+      "canonical_line": 7,
+      "line_sha256": "7af16ff781ba3da76f7f0020d3066e714d9d6a9f6011a525820bc35a607f080e",
+      "line_text": "dated_navigation: P3-A040"
+    },
+    {
+      "frozen_line": 10,
+      "canonical_line": 8,
+      "line_sha256": "31eba3b21ea2cbebb809382a4893b7e30b786ea0182d08b7c99ca8e4e8012427",
+      "line_text": "person_scope: \"BA_PERSON_CH0077; literal variants16014/CH0077 and20060/CH0347\""
+    },
+    {
+      "frozen_line": 11,
+      "canonical_line": 9,
+      "line_sha256": "dca433725e2113a41bd7ea1bf048c40b8cfe9ebbeefcc0997266fd1090647fa7",
+      "line_text": "analytical_base: 2e2018d0d62d91e3e0a5e7681f72a31cec08e02c"
+    },
+    {
+      "frozen_line": 12,
+      "canonical_line": 10,
+      "line_sha256": "3d639a1006263fe0efb71adff7cd496284e45b46a8f9c748f161e9019134278e",
+      "line_text": "historical_source_witness: c1f14d5120c29209ca571fea8d7cfbe111076ec5"
+    },
+    {
+      "frozen_line": 14,
+      "canonical_line": 12,
+      "line_sha256": "a314b9ab6c2b1825a75d1f080a5cda44b1d78354f7916df88f5831e7bde9c4bf",
+      "line_text": "source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8"
+    },
+    {
+      "frozen_line": 15,
+      "canonical_line": 13,
+      "line_sha256": "1277fa84e78ccd2996a16d2cf96d461fe9267ccaaf0ebab514cebe2ee449dec9",
+      "line_text": "source_generation: BA_REFRESH_20260928T032248159554Z"
+    },
+    {
+      "frozen_line": 16,
+      "canonical_line": 14,
+      "line_sha256": "5421f1b8cffdd4eda8aa5adc989ecbc65615159e4815483eb6b7e2d72cd7c110",
+      "line_text": "source_boundary: \"Thirteen complete effective IbukiV4.4 private arguments and complete comparatorV2; adequate complete accepted Main/Final/GROUP/MINI/event meanings, including whole Event86027 with retrospective dream qualification\""
+    },
+    {
+      "frozen_line": 17,
+      "canonical_line": 15,
+      "line_sha256": "4efc00eb15bac2aaa1416c4c159b4a5dadf8f363b2a399b9ae28d10de635a501",
+      "line_text": "authority_quartet: \"Current Cycle008 admission with limits; ROOT-qualified accepted source arguments; historical firstness/independence UNKNOWN; performed voice unreceived\""
+    },
+    {
+      "frozen_line": 18,
+      "canonical_line": 16,
+      "line_sha256": "abef9e120d5642fec7a7ee4983e730f875c03c166c6437b24d6da24bd0c03e54",
+      "line_text": "exposure: RETROSPECTIVE_TEXTUAL_SYNTHESIS"
+    },
+    {
+      "frozen_line": 19,
+      "canonical_line": 17,
+      "line_sha256": "053d11ab47fc96cac835274ba6c83c9dac538a71508ef1181c0737f9e9530b9a",
+      "line_text": "all14_original_gaps: OPEN"
+    },
+    {
+      "frozen_line": 20,
+      "canonical_line": 31,
+      "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "line_text": "---"
+    },
+    {
+      "frozen_line": 21,
+      "canonical_line": 32,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 22,
+      "canonical_line": 33,
+      "line_sha256": "2fd33694892684df12307647e6846f9f1c92ff8a61c663fd0b0a9ac90a3ac4fb",
+      "line_text": "# Ibuki — particular wishes, reciprocal care and the right to answer for herself"
+    },
+    {
+      "frozen_line": 23,
+      "canonical_line": 36,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 24,
+      "canonical_line": 37,
+      "line_sha256": "aaa4f62b0a89bb5f05d090568f21277120a8400c728a57f66bf53013b177cf1e",
+      "line_text": "## 1. Core thesis: a protected child whose answer is not public property"
+    },
+    {
+      "frozen_line": 25,
+      "canonical_line": 38,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 26,
+      "canonical_line": 39,
+      "line_sha256": "1836b745503bf6f6db86ebe2afe766dbd72ab353edcf6b4c090219f4658e8141",
+      "line_text": "Ibuki's strongest through-line is the ability to give a particular answer within relationships that readily turn her into a justification. She wants identifiable things—games, a carousel, a parade, toys, preferred food, lessons, art materials and somebody's company—and she can help, decline, ask, forgive or remain uncertain. The people caring for her often value those wishes. They also speak about her feelings, invoke her welfare or use her as grounds for administrative action. Her characterization depends on retaining the difference between what she chooses and what others claim on her behalf. Protection is necessary in particular encounters; it does not supply her answer in advance. [IB01–IB13; IB-CMP §§2–8; G1902; MINI150; M2C2E011.]"
+    },
+    {
+      "frozen_line": 27,
+      "canonical_line": 40,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 28,
+      "canonical_line": 41,
+      "line_sha256": "d14598316a74d2a93a1e95f601e2a67f59866f818d2a8a1de7aece092b48e3cb",
+      "line_text": "The distinction has concrete positive forms. A failed park excursion ends in actual pleasant indoor play, rather than either an entirely failed day or a secretly fulfilled parade. When a gull takes Sensei's food, Ibuki shares her surplus and they actually eat enough. In the pudding dispute she wants to stay with Problem Solver68, denies kidnapping, widens Makoto's promise to protect everybody's pudding, and then forgives her. At the institutional split she appreciates Iroha's offer but chooses to stay beside lonely Makoto; Iroha checks and accepts her stated wish. These are different kinds of authored response, not one general rule of obedience or limitless generosity. [IB02:16014:003:u63/raw198328; IB07:20060:005:scene002:u33–34/raw247500–501; MINI15010–15030; M2C2E011:u41–63,u97–110.]"
+    },
+    {
+      "frozen_line": 29,
+      "canonical_line": 42,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 30,
+      "canonical_line": 43,
+      "line_sha256": "e725762933d649f813844103b315560e106902d21328b15016e4437428b0f4f6",
+      "line_text": "The thesis must also retain vulnerability and pressure. She needs help down from a tree and is carried away after a fall near the rocks. An incomplete collage remains incomplete. Work and conflict can isolate her, and a decision made from concern that somebody will otherwise be alone should not become a child's standing duty to keep an institution or an adult functioning. Makoto's eventual speculation that Ibuki may be the Emperor's legacy is consequential evidence about Makoto's interpretation, not an explanation of Ibuki's biology, memory, political intention or inevitable future. Her ordinary interests remain evidence in their own right before that mystery is resolved. [IB05–IB08; M2C2E011:u1–63; M2C2E021:u96–103.]"
+    },
+    {
+      "frozen_line": 31,
+      "canonical_line": 44,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 32,
+      "canonical_line": 45,
+      "line_sha256": "672f6fabf1227e785eb222c4e3593c59894ecdc5257e6ab2007ad823923607b0",
+      "line_text": "## 2. Longitudinal states: identifiable local change without a maturity ladder"
+    },
+    {
+      "frozen_line": 33,
+      "canonical_line": 46,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 34,
+      "canonical_line": 47,
+      "line_sha256": "b197d6aa0154478121fe7b6f4f1ca96f8b3b7c034c6df670f7eb76b64a556165",
+      "line_text": "The private episodes permit local developments rather than a total developmental calendar. Base16014:002 starts with helping and play in tension. Ibuki notices the adult's workload and takes her assistance seriously; she does not simply abandon it when toys become available. The final acceptance of an invitation to begin a game is real, but neither a completed game nor completed paperwork is narrated. The next locally represented outing has preparation and disappointment: ingredient shopping, return to Schale and rice-ball making occur; rain defeats the external park, carousel and parade plan; final games and toys produce pleasant shared time. The second ending gives a fuller achieved activity than the first, without proving a permanent change in diligence or emotional resilience. [IB01:u31/raw198162; IB02:u30/raw198234,u55/raw198311,u63/raw198328.]"
+    },
+    {
+      "frozen_line": 35,
+      "canonical_line": 48,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 36,
+      "canonical_line": 49,
+      "line_sha256": "9e4fd10f9ea4999ed009aca26072a19b7705918eb26731e594f6cbc1ce5dfc56",
+      "line_text": "Career exploration is similarly provisional. Ibuki asks whether work is enjoyable and experiences various occupations until the day ends. The vague understanding and thanks at the end do not become a career decision, actual arrest or completed meal. Later reflection distinguishes Japanese consideration of what she can do from Korean consideration of what she wants to do; it is her reflection, not Sensei's. Base006 supplies a subsequent local visit, snack arithmetic and a lesson actually received for a while. Praise and reported tests matter to her, while neither a hundred-point report nor a three-times brushing claim is an inspected educational record or routine. Becoming able to ask a more particular question is analytically meaningful even when its answer remains open. [IB03:u35/raw198389,u36/raw198391; IB04:u1/raw198404,u40–46/raw198496; whole MM160140320; IB-CMP §4.]"
+    },
+    {
+      "frozen_line": 37,
+      "canonical_line": 50,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 38,
+      "canonical_line": 51,
+      "line_sha256": "c54a5a434aa088503ca6a1b824042ceb8b4d4236882dbc9cd36dd21f36272a2c",
+      "line_text": "The swimsuit encounters preserve another set of local sequences. Finding shade leads to help down and peaceful time. A marine lesson precedes a fall, carrying and return to the beach. Food receiving becomes practical sharing after the adult loses his portion. A new collection method brings unwanted trash as well as, in the Korean account, some desired materials; joint work produces a modest result, while the thread reports too few pieces to fill the paper and future gathering. These are not interchangeable success stories. Rest, learning, safety, eating and an unfinished project each have their own endpoint. Neither swimsuit packaging nor numerical variant order puts them on a chronological ladder of increasing maturity. [IB05–IB08; exact20060 paired threads; IB13; IB-CMP §§5–7.]"
+    },
+    {
+      "frozen_line": 39,
+      "canonical_line": 52,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 40,
+      "canonical_line": 53,
+      "line_sha256": "066d8bde4decac87b83f2ccb83a1c35b8e596d5417214ec81de8f0c859227cba",
+      "line_text": "Public sequences add decisions which cheerful private endings alone cannot explain. MINI150 moves through repeated pudding theft, departure, wanted PS68 play, a search, negotiated apology and forgiveness. M2C2E011 moves from loneliness and Iroha's invitation to Ibuki's decision to stay, a troubling unidentified intercut, Makoto's explicit removal of blame and agreement to her choice. The latter is a present local affirmation, not complete recovery or a guaranteed Iroha return. Event860's drift, quarrel, danger, rescue and new-boat compensation likewise resolve some immediate conditions while leaving apologies, labor and future policies unfinished. These local orders are sufficient for comparison; no release field, source collection date, optional encounter or message-relative tomorrow establishes their complete shared-world order. [MINI150; M2C2E011; E860:001–015; IB-CMP §9.]"
+    },
+    {
+      "frozen_line": 41,
+      "canonical_line": 54,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 42,
+      "canonical_line": 55,
+      "line_sha256": "1837c91c3f7e7f682a7337df6c34437f5d2accdb5f9e975ffd60ed1a5c11b803",
+      "line_text": "## 3. Public and private self: whose account of her welfare is being heard?"
+    },
+    {
+      "frozen_line": 43,
+      "canonical_line": 56,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 44,
+      "canonical_line": 57,
+      "line_sha256": "cfbed32a2444a2076be15a4c1d3b92e5ca7a449da330697a0c5ee2d51069e7a0",
+      "line_text": "Public affection creates visibility but can conceal agency. In GROUP1902 Ibuki's cocoa request and a fall become part of Iroha's punitive budget argument. Her explicit statement that she will not cry is distinct from Iroha's rationale about making her cry. Neither licenses a diagnosis of hidden distress or perfect well-being. The committee can care for Ibuki and still use an account of her feelings to justify disproportionate action. Correct paperwork has already been made irrelevant to the preselected rejection; affection does not remedy that procedural fact or approve a final zero budget. [G1902 relevant complete procedural argument; IB-CMP §2.]"
+    },
+    {
+      "frozen_line": 45,
+      "canonical_line": 58,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 46,
+      "canonical_line": 59,
+      "line_sha256": "4c7253c7b1aeab0fedc621098fb5a88322ba342a3d674d299c1df8de78f598a8",
+      "line_text": "MINI150 lets her answer more directly. She leaves after repeated pudding violations, refuses an escort home and enjoys wanted company with PS68. Hina finds her; Ibuki says she was not kidnapped. Her desire to remain with the sisters is evidence of that particular experience, not proof that the adults' initial uncertainty was irrational. The final broader promise and forgiveness are not a spontaneous erasure of all wrongdoing. They show the child's specification of an acceptable answer: everybody's pudding, not only hers. Makoto's report that ten replacements were bought remains a report, with neither universal delivery nor future compliance witnessed. [MINI15010–15030, especially15030:u88–114.]"
+    },
+    {
+      "frozen_line": 47,
+      "canonical_line": 60,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 48,
+      "canonical_line": 61,
+      "line_sha256": "6aa36d4396b12678c29f36b79d654fc8f8ac356f712b110bd28d688d535a3ce1",
+      "line_text": "Private encounters make the public image less abstract. A profile describes seniors recognizing effort or ability, but the episodes allow her to count papers, ask about work, count snacks, want praise and fail to complete a craft. Those particular activities are stronger evidence of a local repertoire than a uniform title such as mascot, prodigy or innocent conscience. She can be uncertain, excited, embarrassed, disappointed or concerned without any of those responses becoming her hidden permanent essence. Her willingness to try an indoor alternative also does not license substituting any adult preference for her failed destination. [IB01–IB04,IB08–IB10.]"
+    },
+    {
+      "frozen_line": 49,
+      "canonical_line": 62,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 50,
+      "canonical_line": 63,
+      "line_sha256": "58b495f823db2fdc15022981af547c0e33a17454e2844af777c994a6bb56a7c4",
+      "line_text": "Event860 gives the same distinction under strain. Iroha initially hides the drift and resource limits while Ibuki enjoys dolphins. Ibuki nevertheless knows about the quarrel and wants to help her fellow members; she is not permanently unaware. Her preference for companionship can comfort Satsuki, whose fear and need for a hand are genuine, while the dangerous situation and limited information remain. At the later play scene, Makoto's compressed summary of equal affection should not replace Ibuki's particular expressions, nor does it settle Iroha's grievances. The public character emerges when several descriptions of Ibuki are allowed to disagree rather than when her apparent cheerfulness is made everyone's validation. [E860:003,005–006,011,013.]"
+    },
+    {
+      "frozen_line": 51,
+      "canonical_line": 64,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 52,
+      "canonical_line": 65,
+      "line_sha256": "b9fcded13c2f305ae4b8ccd2f9523bbbc5a226815fc06e16859fabff36965f44",
+      "line_text": "## 4. School and club role: membership without responsibility for everyone's stability"
+    },
+    {
+      "frozen_line": 53,
+      "canonical_line": 66,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 54,
+      "canonical_line": 67,
+      "line_sha256": "1cf85e8aa59c206c44fbe964c9786d32d8ac17c1d2aeca4dee8990021b5e5d59",
+      "line_text": "The documentary baseline records first year, age eleven, studying/review and plush toys. Profile ClubNone is distinct from the Character/Gacha Pandemonium joins; the fields must not be silently substituted. Those records and the public encounters identify a young participant among Pandemonium members, but they do not supply a complete legal office, custody protocol or labor policy. Her reported permission arrangements, particular visits and wish to assist provide local relations rather than proof that every assignment is authorized or freely accepted. Her importance does not depend on making her a miniature administrator. [IB09–IB10; IB13; IB01–IB02.]"
+    },
+    {
+      "frozen_line": 55,
+      "canonical_line": 68,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 56,
+      "canonical_line": 69,
+      "line_sha256": "070452830a66056d457449149a1f5785a0b61b6c7188e30147f3bc4570d37784",
+      "line_text": "The office benefits from her presence and from others' work. In M2C2E011 Makoto is occupied, Satsuki and Chiaki are absent, and Ibuki describes loneliness. Iroha explicitly has not rejoined even though she retains an armband she cannot fully explain. Her offer includes combing hair and reading—specific ordinary care, not an abstract replacement office. Ibuki chooses to remain with Makoto out of concern that she will otherwise be alone. Iroha's concern remains reasonable and her acceptance matters; the choice is not an external safety evaluation. The scene supports Ibuki's voiced agency while exposing the situation in which the youngest member is thinking about a senior's emotional need. [M2C2E011:u1–63.]"
+    },
+    {
+      "frozen_line": 57,
+      "canonical_line": 70,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 58,
+      "canonical_line": 71,
+      "line_sha256": "9e7e801a4bdf0cdd2f9df2d6963b68ed1c1ee8cea742792d175254178012e5c2",
+      "line_text": "That choice should not be converted into an institutional obligation. Makoto's later acknowledgment that Ibuki did nothing wrong and may do what she wants helps remove immediate blame. It neither finishes Makoto's administrative work nor obliges Ibuki to stay in every future crisis. Her question about whether Makoto misses Iroha distinguishes practical capability from wanted company. The office's issue is therefore partly what its members can acknowledge about dependence on others, not simply whether it can command a diligent junior. The unidentified log passage and headache complicate that issue without making Ibuki the verified operator of a switch or a clinical instrument for recovery. [M2C2E011:u64–110.]"
+    },
+    {
+      "frozen_line": 59,
+      "canonical_line": 72,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 60,
+      "canonical_line": 73,
+      "line_sha256": "2c8ed23bb2f41517ee7ec4c416a06c48ee03dc26fb278f5d49f6595c58e77db6",
+      "line_text": "Event835's hosting help and Event860's small tasks supply meaningful participation. Ibuki wants to help, can offer company and can contribute knowledge of a cannon's loading or a rough ballistic table. Iroha still carries the shell, and the fired cannon, range failure, collision and rescue do not certify a military qualification or make the trip safe. Her membership contains learning, play and limited help; it is not an inexhaustible justification for senior prestige, budget punishment or exposure to danger. Pandemonium's labor, permission and accountability remain a separate required institutional analysis. [E835:009,016; E860:003,008–011; G1902.]"
+    },
+    {
+      "frozen_line": 61,
+      "canonical_line": 74,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 62,
+      "canonical_line": 75,
+      "line_sha256": "a307786064db736ab7d67a1c99b78744724ea142e6485091e1aacff8fb74ddd0",
+      "line_text": "## 5. Ordinary life: chosen things and useful activity without compulsory usefulness"
+    },
+    {
+      "frozen_line": 63,
+      "canonical_line": 76,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 64,
+      "canonical_line": 77,
+      "line_sha256": "7240ac2aca9540d4269e8150851151058a0c924d5b20de7283f517dccbc741a2",
+      "line_text": "Ibuki's pleasures are particular enough to resist being treated as generic cuteness. The park, carousel and parade are wanted destinations; plush toys, games and snacks are wanted things; corn is a selected food; shells and glass in desired colors are materials for a specific paper artwork. The marine-organism book and questions about occupations show interests which need neither a battle consequence nor adult usefulness to count. Studying and praise can be desirable without her becoming a permanent exemplary pupil. Those preferences set the terms against which success, substitution and disappointment can be judged. [IB02–IB04,IB06–IB10.]"
+    },
+    {
+      "frozen_line": 65,
+      "canonical_line": 78,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 66,
+      "canonical_line": 79,
+      "line_sha256": "de05e1377beeb7bd446ee2d3efe323c50df155365cf12997117d851e8e57fbfa",
+      "line_text": "The rice-ball encounter preserves a failed destination and a fulfilled afternoon. It does not narrate a final separate lunch-consumption clause simply because a rice ball is offered and valued. The corn encounter does explicitly narrate shared eating and enough food for both. Ibuki's hesitation differs between having allowance in Japanese and worrying about only receiving in Korean; neither is a general refusal of gifts. Her extra food becomes practical help after the gull takes Sensei's portion. She is pleased by receiving and capable of responding to another's loss. The meal's value includes taste and company, not merely a lesson proving her generosity. [IB02:u55,u63; IB07:scene002:u33–34; IB-CMP §§3,6.]"
+    },
+    {
+      "frozen_line": 67,
+      "canonical_line": 80,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 68,
+      "canonical_line": 81,
+      "line_sha256": "59132e7d3f3efc8ee7ddd9a9a157336d4153ae06a2b29a0a54aabe60dbe25241",
+      "line_text": "The art encounter is especially resistant to a tidy achievement plot. She has risen early and found it difficult to obtain the colors she wants. Sensei buys and hands over a rake, but its result does not yield a clean collection triumph: Japanese describes trash rather than shells and glass, while Korean retains desired materials with more trash. Ibuki sees a chance to clean while collecting. Bringing bags and working together are actually narrated. The endpoint's five bags and one jewel-like fragment in Japanese differ from more than five sacks and a handful in Korean. Neither gives a finished collage or an entire beach transformed. The project remains worth caring about while unfinished; persistence does not require a final trophy. [IB08:u30,u41–53/raw247586–604; whole MM200600200; IB-CMP §6.]"
+    },
+    {
+      "frozen_line": 69,
+      "canonical_line": 82,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 70,
+      "canonical_line": 83,
+      "line_sha256": "d176fadc8101acb3b1158ffb8827ed4eb3965525b97c2e4601ca98fe0ec45455",
+      "line_text": "Rest and play also need their own ends. Finding shade is thoughtful, but its value is not restricted to curing the adult's strain; peaceful shared time is a positive result. Toys and wanted play with PS68 are not a means of repairing government. Event860's dolphins, toys, fish movie and wish for member company matter amid material danger without proving that she enjoys all conflict or labor. Its retrospectively dream-qualified crab games preserve her objection to violence, concern for companions and curiosity, but cannot be credited as actual geopolitical victories or completed school debt relief. Her ordinary world includes unresolved wishes as well as achieved food, games and shared time. [IB05; MINI150; E860:003,013,016–027; IB12.]"
+    },
+    {
+      "frozen_line": 71,
+      "canonical_line": 84,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 72,
+      "canonical_line": 85,
+      "line_sha256": "2ef2693735215ada012a608d1f4f9b49cd90ed8d11e22e9a78fda8e3c20742da",
+      "line_text": "## 6. Crisis behavior: partial knowledge, particular competence and care received"
+    },
+    {
+      "frozen_line": 73,
+      "canonical_line": 86,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 74,
+      "canonical_line": 87,
+      "line_sha256": "7ceb6ef2190a482d666186bdf4cb24ea812c389eae12d088eca3869ce7f47f03",
+      "line_text": "Crisis does not erase preceding competence. In swimsuit003 Ibuki has read a marine book, climbs a rock and gives a lesson that Sensei listens to before they descend. A whale listed from the book is not an observed whale. The blue floating object is narrated and she describes it as a jellyfish, warning conditionally about poison and hospitalization; no sting or hospital visit is completed. Her backing up, fall, carrying away and return to the beach are actual local care. Clinging for a while may involve fear, but neither the exact duration nor a diagnosis follows. Being vulnerable at the endpoint does not retrospectively void her learning. [IB06:u12,u23–24,u33,u41–42/raw247400–401.]"
+    },
+    {
+      "frozen_line": 75,
+      "canonical_line": 88,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 76,
+      "canonical_line": 89,
+      "line_sha256": "7665c045975dd38ba8695eef85d7b75641a00e2bd7cd2292fef6698e600cf6f0",
+      "line_text": "The institutional split makes emotional isolation consequential. Ibuki can say she misses Iroha, hear a concrete invitation, answer it and ask for a later return. Makoto's anonymous log intercut mentions disobedience, a switch and the Thunder Emperor, followed by a headache. Temporal association is strong; speaker, date, device, fidelity and cause remain unverified. The scene does not establish that Ibuki operates a countermeasure or carries a historical mechanism. The final assurance that she is not to blame deserves its local weight without being turned into complete institutional recovery. At the chapter ending Makoto's qualified legacy interpretation must remain her thought, not a diagnosis of Ibuki or an intention Ibuki expresses. [M2C2E011:u89–110; M2C2E021:u96–103.]"
+    },
+    {
+      "frozen_line": 77,
+      "canonical_line": 90,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 78,
+      "canonical_line": 91,
+      "line_sha256": "3f0c79efcc7bcb8ae4929ec230dc3c08a75b7070f6b1caa480117d6a5e930a0d",
+      "line_text": "Eden's airship danger includes Ibuki bringing boxes which are described as fragile and flammable before another explosion. This is not enough to assign intentional sabotage, authenticate a device or certify casualties. Makoto's explicit collusion claims and Iroha's questions are the adults' different evidence conditions; Ibuki's local participation must not inherit their knowledge. The later rescue account is mediated. Similarly FinalE018's Toramaru intervention is a distributed rescue with Makoto, Iroha, ninja assistance and a report that the local situation is mostly cleared without injuries. Ibuki's requested help belongs to that scene; it does not prove she controls the entire operation, possesses secure intelligence or completes the whole mission. [V3C3E007:u39–59; V3C3E016:u42; V100C2E018.]"
+    },
+    {
+      "frozen_line": 79,
+      "canonical_line": 92,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 80,
+      "canonical_line": 93,
+      "line_sha256": "36c892edd7bccf49c9f826b2c404b024c41201177ae79a706be29e3d0b39a306",
+      "line_text": "Event860 gives both care received and meaningful contribution. Ibuki's company helps a frightened Satsuki descend into the ghost ship; her cannon enthusiasm coexists with adult reluctance and unverified safety expectations. She contributes limited loading knowledge and an approximate table, while Iroha physically carries the shell. Makoto's actual protective diversion and Iroha's later rescue are separate actions; neither is Ibuki's independent escape. The ship sinks, five students and the teacher are rescued, and the other pirates' fate remains open. She encourages reconciliation, but no mutual Makoto–Iroha apology is printed. Tangible new-boat compensation is achieved; a complete repair of risk, labor or relational harm is not. Her role remains specific rather than helpless in every respect or powerful enough to guarantee a safe ending. [E860:005–011,014.]"
+    },
+    {
+      "frozen_line": 81,
+      "canonical_line": 94,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 82,
+      "canonical_line": 95,
+      "line_sha256": "61e9e7f34e3dce0f14e3355b09e403f8cac55ab08937b94244a723e37bb8c8fd",
+      "line_text": "## 7. Sensei: recipient of her care and supporter of wishes with limits"
+    },
+    {
+      "frozen_line": 83,
+      "canonical_line": 96,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 84,
+      "canonical_line": 97,
+      "line_sha256": "92b135d16189abb494886545183e08608b9399a09193eb89005ba659aacdd81a",
+      "line_text": "Sensei's relationship is most persuasive when it allows particular reciprocal acts. Ibuki asks after his condition, wants to visit, notices work and helps. He makes room for play, accompanies failed preparation and provides local lessons. The adult's general preferences cannot be inferred from every inward thought or alternative reply. MM160140080 contains Japanese desire to play tomorrow where Korean asks whether he is also not tired; the following Japanese reply is a hesitant wish to play and Korean a hesitant assent. There is no common enthusiastic tomorrow promise across both locales. The fulfilled Schale afternoon has its own narrated evidence; future visits remain prospective. [IB01–IB04; whole MM160140080; IB-CMP §§3,7.]"
+    },
+    {
+      "frozen_line": 85,
+      "canonical_line": 98,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 86,
+      "canonical_line": 99,
+      "line_sha256": "adf0630e03a11d50b6864d7dbea4711566b121ac300367fbc3a8921a503d7a0a",
+      "line_text": "Reciprocity is material, not merely verbal. Ibuki finds shade; Sensei helps her down from the tree. Reversing that second action would manufacture her competence. She notices comfort and worries about a phone, while the narration completes peaceful time rather than a clinical cure. Later he carries her away from the rocks; an all-day carry in a conditional reassurance record is not an enacted all-day burden. In the food encounter she responds to his lost portion with actual shared eating. These different directions of help complicate one-way protection without assigning a child responsibility for his health or every future meal. [IB05–IB07; IB-CMP §§5–6.]"
+    },
+    {
+      "frozen_line": 87,
+      "canonical_line": 100,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 88,
+      "canonical_line": 101,
+      "line_sha256": "f2ea3522264c8c57b021cf61b146afa64dee30692987d9c09e1b911fc1af5f2b",
+      "line_text": "The rake episode preserves an imperfect adult proposal. The tool is genuinely purchased and handed over, but the collection result disappoints the clean method. Ibuki's reframing makes possible joint work, and her concern about Sensei's tears remains situated. His inward hesitation or joined inward master-address is not securely spoken dialogue or a command that she become his caretaker. Their small achieved collection and the unfinished paper artwork belong together. A mature relationship reading should be able to receive an unsuccessful method without declaring either the student wrong to want art or the adult incapable of useful help. [IB08:u8,u21,u30,u41–53; whole MM200600200.]"
+    },
+    {
+      "frozen_line": 89,
+      "canonical_line": 102,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 90,
+      "canonical_line": 103,
+      "line_sha256": "69d41213fa7111e027c7ab39e2e99250b4498b2aedece00a1c322fdf6dd18f97",
+      "line_text": "Affection in the text retains its source conditions. Base003's Japanese expression of love differs from Korean calling Sensei the best. Written birthday hugs, company wishes, invitations and requests for praise are meaningful addresses, not observed hugs, reciprocal romance or unconditional access. In Event860 the teacher joins a holiday and offers work when resources are strained; Iroha can refuse that offer as the students' guest arrangement. Ibuki's wish for company does not nullify other recipients' limits or require Sensei always to attend. The relation makes room for play, learning, care and absence; it is not defined by fulfilling every invitation. [IB02; IB09–IB12; E860:003,012–013.]"
+    },
+    {
+      "frozen_line": 91,
+      "canonical_line": 104,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 92,
+      "canonical_line": 105,
+      "line_sha256": "450fa11ad018d0337bad55d2a421d1e945b45f59e839f45bbe4033c5c89a648d",
+      "line_text": "## 8. Peers: different forms of care and different answers"
+    },
+    {
+      "frozen_line": 93,
+      "canonical_line": 106,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 94,
+      "canonical_line": 107,
+      "line_sha256": "28c3ef72672831d0947069636599cebf62cb15fd0a5d0c55a376c6a6490489d0",
+      "line_text": "Makoto cares for Ibuki and sometimes accommodates her, yet also repeats pudding violations and frames authority through her. The local admission, apology, widened finger promise and forgiveness in MINI150 are substantial completed relational acts. They should survive the contrary evidence rather than disappear into a verdict that every affection is instrumental. Future compliance is equally not established. Ibuki's broadened condition supplies an ethical demand Makoto did not begin with: the property of others counts too. Staying beside Makoto during the split is another situated decision, not retroactive endorsement of her entire government, collusion or treatment of Iroha. [MINI150; M2C2E011; G1902; V3C3E007.]"
+    },
+    {
+      "frozen_line": 95,
+      "canonical_line": 108,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 96,
+      "canonical_line": 109,
+      "line_sha256": "2602ef037b599a7147cb893542b9638453e2b2b5781334a7167db87a97989dbd",
+      "line_text": "Iroha supplies ordinary practical care, worries about isolation and accepts Ibuki's choice while disagreeing with the situation. Her armband and not-yet-returned status are unresolved attachment, not proof that resignation never mattered. At sea she protects Ibuki from alarming information, handles resources and permits close participation; that care does not mean Ibuki never knows of the quarrel. Ibuki's wish that the members get along is not a finding that Iroha must forgive or return immediately. Iroha's actual rescue, the absence of a mutual Makoto apology, and her distinct apology to Chiaki remain different endpoints. [M2C2E011; E860:003,005,010–013.]"
+    },
+    {
+      "frozen_line": 97,
+      "canonical_line": 110,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 98,
+      "canonical_line": 111,
+      "line_sha256": "b8b50358ff49da5c63d47b78cf56b3d4499bcfd0423db0ebde5299be94046eaa",
+      "line_text": "Satsuki's fear and desire for companionship are independent. Ibuki's hand can help her face the lower ship, but neither that act nor Satsuki's suggestions about mental techniques certifies hypnosis as an effective general method. Chiaki values pictures and experiences; a report of her photographs is not this reader inspecting them, and her dismissal of Iroha's photo refusal remains a contrary case to an always-consensual group portrait. Event833's hosting and dance-related material allows Ibuki pleasure and remembered help while preserving the objection to disrespecting a participant's refusal. Event835's photographed group accommodation is an actual local act, not every member consenting to all publicity. [E860:002,005–006,012–013; E833:003,007–009; E835:003; IB11–IB12.]"
+    },
+    {
+      "frozen_line": 99,
+      "canonical_line": 112,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 100,
+      "canonical_line": 113,
+      "line_sha256": "eab3a1fa22ac8b3879e6336973bdba39c05e439bd5888ee8a310805ccebd34e3",
+      "line_text": "PS68 offers company that Ibuki actually wants. Her denial of kidnapping, refusal of an early escort, play and negotiated departure are necessary evidence about the recipients rather than mere obstacles in a search plot. Ako's conditional boundary, Hina's effort to find her and Makoto's later softened hostility do not provide blanket immunity or erase PS68's other conduct. Kayoko's stated belonging and bounded earlier council relation remain her independent history; they are not explained wholly by liking Ibuki. The photograph taken at the end is an achieved picture, not demonstrated transmission or proof of a permanent reconciliation among all parties. Ibuki connects different people, but she is not required to make all their relations agree. [MINI150; complete PS68 directions in accepted MINI32.]"
+    },
+    {
+      "frozen_line": 101,
+      "canonical_line": 114,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 102,
+      "canonical_line": 115,
+      "line_sha256": "3548ed7d3369541b21d99ea0cb3b6fae8459d0908c846bd25fc78b1696fe2df9",
+      "line_text": "## 9. Language and written register: requests, reflection and exact modes"
+    },
+    {
+      "frozen_line": 103,
+      "canonical_line": 116,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 104,
+      "canonical_line": 117,
+      "line_sha256": "5fd7f1dbc4484b145481cab9d90653d51dae47e1cf9992829f130792d5411a91",
+      "line_text": "Ibuki's language repeatedly asks about shared activity, usefulness, praise and the feelings of others. That repetition supports a repertoire, not a frequency estimate or a single uniform performance. Typing fragments and corrections preserve effort in seeking contact. The exact ordered Answer records, including same-group records with condition_value0, do not by themselves establish exclusive selection or actual delivery. Sequential groups are also not proof that all hypothetical reassurance became action. Relative yesterday or tomorrow remains local to the message account. The reflection in MM160140320 is hers: capability in Japanese, wanted activity in Korean. Neither language should replace the other to produce a predetermined future. [IB01–IB08; IB-CMP §§3–7.]"
+    },
+    {
+      "frozen_line": 105,
+      "canonical_line": 118,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 106,
+      "canonical_line": 119,
+      "line_sha256": "7f9e8ce321f876c48fedf42d88e8238e8ba504d2eadef08767760011f4000e9a",
+      "line_text": "Modes constrain attribution even where the exchange seems coherent. Base006's generic embedded logs and adult inward interruptions are not all securely named Ibuki speech. Swimsuit002 has named narration, generic logs and separate inward records; swimsuit006's joined inward master-address is not another formal choice. Career exploration projects a Valkyrie student on one typed police-feeling record while raw staging gives the text-bearing line to Ibuki. The corn story reverses that sort of seam: typed Ibuki is paired with raw shopkeeper speech about a five-year menu history. Neither the police actor's feeling nor merchant biography can be assigned by silently choosing the convenient layer. The scene's broader meaning can remain without such insecure actor-specific claims. [IB03:u23/raw198371; IB04:u18–38; IB05:u21,u23,u41–51; IB07:scene002:u8/raw247442; IB08:u21/raw247547.]"
+    },
+    {
+      "frozen_line": 107,
+      "canonical_line": 120,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 108,
+      "canonical_line": 121,
+      "line_sha256": "716878a405bbdeeee0e3ae7ea007e59f9f69a37358ec222552017dd5e973c2f3",
+      "line_text": "The two profiles and all76 normal written records preserve studying, plush toys, loneliness, snacks, clothes, help and company. Their seasonal lines do not supply performed birthdays, gifts or repeated beach encounters. Swimsuit row order pairs Japanese duty-work with Korean different clothes, and another Japanese swimsuit-fun line with a Korean duty promise; the rows must not be realigned into presumed equivalent translations. Birthday present, shell and congratulations ordering, past sunrise versus greeting, future invitation and Santa-sock modality also differ. These exact differences limit chronology and fulfilled-transaction claims while leaving the ordinary repertoire available. [IB09–IB10.]"
+    },
+    {
+      "frozen_line": 109,
+      "canonical_line": 122,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 110,
+      "canonical_line": 123,
+      "line_sha256": "432f247fbce95e31052cc4056ddb35d1f067997d732ba0fe2a773487214b9e8f",
+      "line_text": "The49 event-written records belong to exact costume1900922301→16014 and1900957301→20060. Event833/10833 are two physical control sets of eleven shop lines, not two independently performed dances or purchases. Event860 contributes seventeen lobby and ten mission lines, with curiosity, small help, waiting, mixed feelings about fighting and wanted company. A movie fish is a represented movie interest, not a real speaking fish. Voice IDs, written snoring, photos and remembered dancing grant no inspected audio, image or choreography. Language analysis here concerns textual address and modes; performed voice remains unreceived. [IB11–IB13.]"
+    },
+    {
+      "frozen_line": 111,
+      "canonical_line": 124,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 112,
+      "canonical_line": 125,
+      "line_sha256": "2c3b71b38da680cad171413cd28e9fd4be60d4a50cc9e27e469655f43fef997a",
+      "line_text": "## 10. Competing readings and the evidence that resists each"
+    },
+    {
+      "frozen_line": 113,
+      "canonical_line": 126,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 114,
+      "canonical_line": 127,
+      "line_sha256": "6808f911e4bc03d2b5ff29ada87e3f9cbbc5fbd5a04a13d79c5e6ed1c6ad3a8a",
+      "line_text": "The helpless-mascot reading rightly notices age, protection and episodes requiring help, but cannot account for her chosen food, practical sharing, provisional learning, art interest, explicit departure or broader pudding condition. Those actions are not merely praise spoken about her. Conversely, a prodigy or perfect-junior reading cannot explain uncertainty about careers, failed plans, the fall, adult assistance or incomplete art. A hundred-point report and an approximate ballistic table do not certify universal competence. The better account allows local initiative and local dependence without ranking one as the true self and the other as error. [IB01–IB10; MINI150; E860:008–011.]"
+    },
+    {
+      "frozen_line": 115,
+      "canonical_line": 128,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 116,
+      "canonical_line": 129,
+      "line_sha256": "5ec1ccc949d75885c62059275ae540e07a807afd636cde461ede97b5a0e7c2f0",
+      "line_text": "The universally forgiving conscience reading draws support from concern for lonely Makoto and the achieved pudding reconciliation. It fails if it skips the prior departure, refusal of escort or her condition protecting others' pudding. Her patience is not everyone else's consent, nor does it repair administrative punishment. A critical reading that treats every concern for Makoto as coercively assigned labor also overreaches: M2C2E011 explicitly gives Ibuki's decision, Iroha's check and acceptance, and Makoto's later permission to choose without blame. Those positives deserve weight while the isolation and asymmetry remain. Agency within a troubling situation need not be denied in order to analyze the situation. [MINI150; M2C2E011; G1902.]"
+    },
+    {
+      "frozen_line": 117,
+      "canonical_line": 130,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 118,
+      "canonical_line": 131,
+      "line_sha256": "1598b0265b24a18c4a8b5f17b83bd8fbe3cd6b6df6297c9c5810e4d0cb3518f2",
+      "line_text": "The harmless-happiness reading can retain games, full food and peaceful time while overlooking failed destinations, hidden resource limits, danger and unfinished promises. Its rival total-instrumentalization reading can retain public uses of her welfare while overlooking how food, toys, studying and company are genuinely wanted. Neither is adequate. Particular ordinary pleasures matter independently, and a cheerful ending cannot retrospectively remove the method's costs. The rake story is the clearest modest case: an unsuccessful collection method and a useful shared activity coexist with an unfinished artwork. Its incomplete result is evidence, not a reason to exclude the episode. [IB02,IB05,IB07–IB08; E860:003–014.]"
+    },
+    {
+      "frozen_line": 119,
+      "canonical_line": 132,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 120,
+      "canonical_line": 133,
+      "line_sha256": "6a90a31dd77f93d26d98c78ddde113e10a48f9951ae21c5474fde653bebd794b",
+      "line_text": "Finally, a mystery-first reading could make all ordinary evidence an illustration of Makoto's legacy speculation or the anonymous switch passage. That would turn uncertain mechanism into the organizing certainty and overwrite Ibuki's present questions. The mystery remains a serious outstanding issue, but the inspected accepted meanings do not identify her as a threat, a biological inheritance or a willing ideological agent. Event860's retrospectively qualified dreams likewise do not establish actual conquests or a hidden common-world rule. A bounded monograph can analyze how others interpret Ibuki while leaving the strongest causal and identity claims open. [M2C2E011:u89–96; M2C2E021:u96–103; E860:016–027; IB-CMP §§4,9.]"
+    },
+    {
+      "frozen_line": 121,
+      "canonical_line": 134,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 122,
+      "canonical_line": 135,
+      "line_sha256": "4375d368891cf88ee093e4de81590452915ddae6340ca9ed4722ddc2ac0aa839",
+      "line_text": "## 11. Evidence register, fourteen open gaps and completion boundary"
+    },
+    {
+      "frozen_line": 123,
+      "canonical_line": 136,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 124,
+      "canonical_line": 137,
+      "line_sha256": "981f3b0e32bc8572aa092954c1272ed0ab7d68b449a5ccd6b0284da3ee74e5a7",
+      "line_text": "The private register is exact rather than a thematic sample: IB01–IB08 are complete effectiveV4.4 paired BOND/whole MomoTalk arguments for16014:002/003/005/006 and20060:002/003/005/006, with thread160140010/080/210/320 and200600010/050/150/200. IB09–IB12 are both complete profile/written arguments and both exact costume-written arguments; IB13 is the complete family checkpoint. IB-CMP is the complete effectiveV2 private/Main/G190 comparison. Their effective thirteen bodies plus comparator are personally received through EOF; attributed20 primary/10 auxiliary source reading belongs to the accepted producer, not to this monograph's author as new primary credit. The active manifest's historical UNADMITTED/draft_noncurrent labels and older frontier language are qualified by current G20/Cycle008 maintained admission with limits."
+    },
+    {
+      "frozen_line": 125,
+      "canonical_line": 138,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 126,
+      "canonical_line": 139,
+      "line_sha256": "8a62cd479f7ee1ae13787ee3a644eb8179efb2a56de3bed18052cd9438728b5b",
+      "line_text": "Public custody is recorded by exact saved receipts. Whole S2 working/C1/C2, G190, MINI32, Event833, Event835, Final working and Eden contextual owners are reused at previously personally complete accepted scopes. Whole Event860's27 current arguments were received for the preceding Makoto monograph, including its actual rescue/compensation and retrospective dream ending. This monograph additionally receives the complete small M2C2E011 andE021 owners for the consequential choice and legacy passages. Relevant EdenE007 and FinalE018 arguments were wholly received in the preceding lane and are reused. No primary/native/raw/QA/AV inspection is added by reading those analytical owners. Exact selected canonical private tuples are integrity bindings only; nine unbound large files are untouched."
+    },
+    {
+      "frozen_line": 127,
+      "canonical_line": 140,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 129,
+      "canonical_line": 144,
+      "line_sha256": "4199ba454d6d3ae83657120c2bb6bd674eefc0dd7d3cd4cc844171dc6725135b",
+      "line_text": "|---|---|"
+    },
+    {
+      "frozen_line": 144,
+      "canonical_line": 159,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 146,
+      "canonical_line": 176,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    }
+  ],
+  "exact_changed_saved_line_ranges": [
+    {
+      "operation": "delete",
+      "frozen_lines": [
+        3,
+        3
+      ],
+      "canonical_lines": [
+        3,
+        2
+      ],
+      "frozen_text": [
+        "artifact_type: character_monograph_candidate"
+      ],
+      "canonical_text": []
+    },
+    {
+      "operation": "delete",
+      "frozen_lines": [
+        6,
+        6
+      ],
+      "canonical_lines": [
+        5,
+        4
+      ],
+      "frozen_text": [
+        "status: LOCAL_CANDIDATE_ROOT_RECEIVING_ADOPTION_PENDING"
+      ],
+      "canonical_text": []
+    },
+    {
+      "operation": "replace",
+      "frozen_lines": [
+        13,
+        13
+      ],
+      "canonical_lines": [
+        11,
+        11
+      ],
+      "frozen_text": [
+        "current_control_reference: \"ROOT V3 required-home partition; source branch dbabbf95a39458b05f337c1d0151a79f4d4ab6f1; actual mutable ROOT metadata captured separately\""
+      ],
+      "canonical_text": [
+        "historical_author_current_control_reference: \"ROOT V3 required-home partition; source branch dbabbf95a39458b05f337c1d0151a79f4d4ab6f1; actual mutable ROOT metadata captured separately\""
+      ]
+    },
+    {
+      "operation": "insert",
+      "frozen_lines": [
+        20,
+        19
+      ],
+      "canonical_lines": [
+        18,
+        30
+      ],
+      "frozen_text": [],
+      "canonical_text": [
+        "artifact_type: character_monograph",
+        "generation: V1",
+        "version: \"1.0\"",
+        "status: canonical",
+        "do_not_use_as_current_authority: false",
+        "canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_IBUKI_CHARACTER_MONOGRAPH.md",
+        "review_state: ROOT_ACCEPTED_WITH_LIMITS",
+        "ROOT_literary_acceptance: ACCEPT_COMPLETE_CHARACTER_BOUNDARY_WITH_LIMITS",
+        "ROOT_adoption: CANONICAL_DERIVATIVE_AFTER_ROOT_INSTALL",
+        "canonical_publication_base: 92184703994a1950a5660654ce52d8516dbe9bf5",
+        "updated: 2026-10-10",
+        "supersedes: []",
+        "superseded_by: []"
+      ]
+    },
+    {
+      "operation": "insert",
+      "frozen_lines": [
+        23,
+        22
+      ],
+      "canonical_lines": [
+        34,
+        35
+      ],
+      "frozen_text": [],
+      "canonical_text": [
+        "",
+        "ROOT accepted this complete eleven-section character argument **WITH LIMITS** on 2026-10-10. The [semantic acceptance audit](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md), [exact receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_IBUKI_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) and [saved-paragraph transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_IBUKI_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) govern this derivative. All fourteen gaps remain OPEN and claim-specific. Persistence follows complete ROOT installation; source publication, main integration and other required packages remain separate. The355-package/29-section scope is unchanged; no quarter, model or performed evidence is claimed. The prior47-package source publication base is `92184703994a1950a5660654ce52d8516dbe9bf5`; frozen author/control/progress snapshots below retain their dated meaning. Execution requires ROOT’s successful actual exact-head audit chain."
+      ]
+    },
+    {
+      "operation": "replace",
+      "frozen_lines": [
+        128,
+        128
+      ],
+      "canonical_lines": [
+        141,
+        143
+      ],
+      "frozen_text": [
+        "| Gap | Status and claim-specific limit |"
+      ],
+      "canonical_text": [
+        "**Stable original-gap qualification.** The immutable author table below used G01–G14 to enumerate local limits. Those local topics are retained verbatim as L01–L14 in this public derivative; they do not redefine the original gap IDs. The fourteen stable definitions in the [source-gap impact register](../../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md) govern G01–G14. The following stable-ID table records their claim-specific effect here. Every original gap remains OPEN; this clarification adds no source, receiving, model, scope, package or gap-closure credit. Original author bytes and coordinates remain frozen and exactly recoverable.",
+        "",
+        "| Local limit | Status and claim-specific limit |"
+      ]
+    },
+    {
+      "operation": "replace",
+      "frozen_lines": [
+        130,
+        143
+      ],
+      "canonical_lines": [
+        145,
+        158
+      ],
+      "frozen_text": [
+        "| G01 | OPEN — ordinary evidence is represented fully within the selected private family; stronger claims about every hobby, routine, artwork or future outing need additional admitted evidence. Failed park plans and the incomplete collage remain. |",
+        "| G02 | OPEN — recipient directions are preserved for Sensei, Makoto, Iroha, Satsuki, Chiaki and PS68; reciprocal care or local forgiveness does not prove every peer's assent, future compliance or complete relational history. |",
+        "| G03 | OPEN — first-year/age/profile and Pandemonium joins remain documentary fields; no complete office, custody protocol, permission policy or institutional welfare audit is certified. |",
+        "| G04 | OPEN — local story order, recollection and message-relative days are usable; release fields and swimsuit/base order do not settle a complete Main/private/event chronology. |",
+        "| G05 | OPEN — source actors, inward records, narration, generic logs, formal alternatives and exact message groups remain distinct; disputed police/shopkeeper or public speaker seams cannot yield secure individual speech. |",
+        "| G06 | OPEN — Japanese primary wording and distinct Korean formulations are retained; commercial quantities, help direction, reflection subject and seasonal row pairing are not harmonized into one empirical account. |",
+        "| G07 | OPEN — all76 normal and49 event written records are textual repertoire; gifts, hugs, purchases, remembered dances, birthdays and rest motifs do not become extra completed encounters. |",
+        "| G08 | OPEN — voice IDs, written snoring/music, photographic reports and scene cues confer no performed voice, audio, image or staging inspection. |",
+        "| G09 | OPEN — shade/rest, falling/carrying, fearful clinging and reported recovery remain local; no clinical diagnosis, fatigue cure, venom exposure, hospitalization or universal safety finding is made. |",
+        "| G10 | OPEN — snack arithmetic, learning, provisional career experiences and approximate cannon knowledge have exact local reach; no aptitude certification, engineered mechanism or permanent capacity law follows. |",
+        "| G11 | OPEN — Makoto's qualified legacy thought and unidentified switch/log passage remain serious leads; person continuity, cause, device, historical transcript and Ibuki's ideological intention are unresolved. |",
+        "| G12 | OPEN — achieved games, food, lessons, care, apology and forgiveness are distinguished from promised visits, return, purchase reports, all-day reassurance and uncompleted collage/repair; no global completed ledger is inferred. |",
+        "| G13 | OPEN — current source admission and independent accepted analytical authority are bounded; original historical firstness/independence and broader source absence remain UNKNOWN, and no private source-reading credit transfers. |",
+        "| G14 | OPEN — no standalone model, prediction register, held-out diagnostic, denominator, milestone, capacity or publication promotion follows from this textual candidate. |"
+      ],
+      "canonical_text": [
+        "| L01 | OPEN — ordinary evidence is represented fully within the selected private family; stronger claims about every hobby, routine, artwork or future outing need additional admitted evidence. Failed park plans and the incomplete collage remain. |",
+        "| L02 | OPEN — recipient directions are preserved for Sensei, Makoto, Iroha, Satsuki, Chiaki and PS68; reciprocal care or local forgiveness does not prove every peer's assent, future compliance or complete relational history. |",
+        "| L03 | OPEN — first-year/age/profile and Pandemonium joins remain documentary fields; no complete office, custody protocol, permission policy or institutional welfare audit is certified. |",
+        "| L04 | OPEN — local story order, recollection and message-relative days are usable; release fields and swimsuit/base order do not settle a complete Main/private/event chronology. |",
+        "| L05 | OPEN — source actors, inward records, narration, generic logs, formal alternatives and exact message groups remain distinct; disputed police/shopkeeper or public speaker seams cannot yield secure individual speech. |",
+        "| L06 | OPEN — Japanese primary wording and distinct Korean formulations are retained; commercial quantities, help direction, reflection subject and seasonal row pairing are not harmonized into one empirical account. |",
+        "| L07 | OPEN — all76 normal and49 event written records are textual repertoire; gifts, hugs, purchases, remembered dances, birthdays and rest motifs do not become extra completed encounters. |",
+        "| L08 | OPEN — voice IDs, written snoring/music, photographic reports and scene cues confer no performed voice, audio, image or staging inspection. |",
+        "| L09 | OPEN — shade/rest, falling/carrying, fearful clinging and reported recovery remain local; no clinical diagnosis, fatigue cure, venom exposure, hospitalization or universal safety finding is made. |",
+        "| L10 | OPEN — snack arithmetic, learning, provisional career experiences and approximate cannon knowledge have exact local reach; no aptitude certification, engineered mechanism or permanent capacity law follows. |",
+        "| L11 | OPEN — Makoto's qualified legacy thought and unidentified switch/log passage remain serious leads; person continuity, cause, device, historical transcript and Ibuki's ideological intention are unresolved. |",
+        "| L12 | OPEN — achieved games, food, lessons, care, apology and forgiveness are distinguished from promised visits, return, purchase reports, all-day reassurance and uncompleted collage/repair; no global completed ledger is inferred. |",
+        "| L13 | OPEN — current source admission and independent accepted analytical authority are bounded; original historical firstness/independence and broader source absence remain UNKNOWN, and no private source-reading credit transfers. |",
+        "| L14 | OPEN — no standalone model, prediction register, held-out diagnostic, denominator, milestone, capacity or publication promotion follows from this textual candidate. |"
+      ]
+    },
+    {
+      "operation": "replace",
+      "frozen_lines": [
+        145,
+        145
+      ],
+      "canonical_lines": [
+        160,
+        175
+      ],
+      "frozen_text": [
+        "No consequential fresh primary recovery is necessary for the claims actually asserted here: adequate accepted complete analytical meanings preserve the disputed direction of help, source modes, relative-message limits and finite endpoints. Claims of clinical status, mechanism, fixed calendar, historical identity, universal consent or accomplished future projects would require specific further evidence. These are limits on stronger claims rather than unfinished prose disguised as completion. ROOT's independent whole saved receiving, exact source/paragraph verification and canonical adoption remain required before this C-only candidate is accepted."
+      ],
+      "canonical_text": [
+        "| Stable original gap | Status | Character-specific contribution and remaining warrant |",
+        "|---|---|---|",
+        "| G01 — Ordinary and private breadth | OPEN | Wanted games, food, lessons, art and company retain intrinsic value within the admitted family. Failed park plans and unfinished collage remain; this is no exhaustive lifetime psychology. Local L01/L12 retain their exact limits. |",
+        "| G02 — Yuuka council/club decision transfer | OPEN | Ibuki’s chosen help and Pandemonium membership supply no Yuuka council/club decision envelope, privacy rule or durable security outcome. Yuuka’s own situated evidence is required for that stronger claim. |",
+        "| G03 — Serika service, peer and reciprocity range | OPEN | Snack arithmetic, preferred food and reciprocal help do not discharge Serika’s customer, work, peer or private-recipient duties. No Serika rule or outcome is inferred by analogy. |",
+        "| G04 — Hina crisis causality, accountability and ordinary contrast | OPEN | Ibuki’s care, local forgiveness and Pandemonium context do not settle Hina’s NK Ultra causal allocation, affected-student redress or durable institutional repair. Each requires its own evidence. |",
+        "| G05 — Arius and PS68 ordinary/aftermath transfer | OPEN | PS68 company and situated decisions remain meaningful. They do not prove Arius or PS68 trauma cure, permanent livelihood/security, legal absolution or complete aftermath; recipient choices remain independent. |",
+        "| G06 — Cross-school ordinary repertoire | OPEN | Particular company, visits, shared activities and objections broaden ordinary repertoire. They do not establish an all-school norm, every peer’s assent or a complete directed history. Local L02 remains. |",
+        "| G07 — Story-world chronology | OPEN | Local story order, recollections and message-relative days remain usable. Release, retrieval and swimsuit/base order do not locate a global Main/private/event calendar. Local L04 remains. |",
+        "| G08 — Event naming and repeat contexts | OPEN | Literal event/source and written costume routes remain distinct. Missing overarching titles, repeat identities and enacted reruns are not supplied by a variant label or release context; no title is invented. |",
+        "| G09 — Written speaker/choice attribution | OPEN | Inward records, generic logs, narration, formal alternatives, message groups and disputed police/shopkeeper or public headings constrain actors and knowledge. JP/KR direction differences stay separate. Local L05/L06 remain. |",
+        "| G10 — Performed voice | OPEN | Voice IDs, written snoring/music, photographs reported in text and scene cues supply no heard voice, audio, pixels, animation or staging inspection. Local L08 remains. |",
+        "| G11 — Hoshino's Yume record and office states | OPEN | Makoto’s qualified legacy thought and Ibuki’s local care do not authenticate Hoshino/Yume notebook or death records, settle their causality or demonstrate lasting stabilization. Their office states remain separately sourced. |",
+        "| G12 — Counterpart, system and variant identity | OPEN | Documented person/profile joins and unidentified switch/log passages retain their actual confidence. No body, person, control, device or historical-continuity chain is authenticated by resemblance; local L03/L11 remain. |",
+        "| G13 — Office, contract, safety and technical outcomes | OPEN | Actual games, lessons, care, apology and forgiveness coexist with promised visits, incomplete artwork and unaudited office, clinical, welfare or technical outcomes. Carrying, comfort and approximate cannon knowledge certify no cure or safe mechanism. Local L03/L09/L10/L12 remain. |",
+        "| G14 — Unclassified/mode continuity | OPEN | The admitted private/written and declared public modes retain their actual scope. Conditional records are not extra performed encounters; unclassified, special and other mini routes are neither silently admitted nor discarded. Local L07/L13/L14 retain custody and no-promotion limits. |"
+      ]
+    },
+    {
+      "operation": "replace",
+      "frozen_lines": [
+        147,
+        147
+      ],
+      "canonical_lines": [
+        177,
+        179
+      ],
+      "frozen_text": [
+        "This character monograph completes no other responsibility by implication. Directed Ibuki–Makoto/Iroha/Sensei/PS68 relationships, Pandemonium ensemble and institution/labor/permission/repair analyses, source-specific written-register work and the rest of the eligible cast remain distinct mandatory Phase3 packages within ROOT's355/29 scope. Ibuki's ordinary life remains intrinsic throughout that work; its value does not await the resolution of the legacy mystery or an increase in plot stakes."
+      ],
+      "canonical_text": [
+        "No consequential fresh primary recovery is necessary for the claims actually asserted here: adequate accepted complete analytical meanings preserve the disputed direction of help, source modes, relative-message limits and finite endpoints. Claims of clinical status, mechanism, fixed calendar, historical identity, universal consent or accomplished future projects would require specific further evidence. These are limits on stronger claims rather than unfinished prose disguised as completion. ROOT independently received the whole saved argument, verified exact source/paragraph bindings and accepted this complete character boundary with limits and an explicit scope qualification; canonical persistence follows complete ROOT installation.",
+        "",
+        "This character monograph completes no other responsibility by implication. Makoto→Ibuki and Iroha→Ibuki remain the two substantial required named sections P3-REL-MAKOTO-IBUKI and P3-REL-IROHA-IBUKI within the one counted P3-ENSEMBLE-PANDEMONIUM-IBUKI-DIFFERENT-DIRECTIONS package. Ibuki–Sensei and Ibuki–PS68 remain distinct analytical responsibilities in her character account and applicable existing broad Sensei/PS68 homes; mentioning them creates no additional package or named section. Pandemonium roles, resources and selective care retain the separate existing P3-INST-PANDEMONIUM-ROLES-RESOURCES-SELECTIVE-CARE institution. Source-specific written-register work and the rest of the eligible cast remain required within the unchanged355/29 catalog. Ibuki's ordinary life remains intrinsic throughout that work; its value does not await the resolution of the legacy mystery or an increase in plot stakes."
+      ]
+    }
+  ],
+  "ROOT_installation_pending": true,
+  "remote_publication": "NOT_YET_PUBLISHED",
+  "main_integration": "NOT_YET_INTEGRATED",
+  "required_scope": {
+    "packages": 355,
+    "mandatory_named_sections": 29,
+    "thresholds": [
+      89,
+      178,
+      267,
+      355
+    ]
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "assembler_new_primary_performance_or_independent_literary_credit": 0,
+  "other_required_package_completion": false,
+  "stable_original_gap_alignment": {
+    "original_gap_authority": {
+      "repository_path": "series/blue-archive/01 Source Lock and Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md",
+      "bytes": 79178,
+      "sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6",
+      "git_blob_oid_of_actual_bytes": "0e15ecdee162ba461e475081e2b430a17ce76edf"
+    },
+    "authority_received_scopes": [
+      [
+        27,
+        45
+      ],
+      [
+        333,
+        354
+      ]
+    ],
+    "authority_whole_file_reading_credit": false,
+    "historical_local_G01_G14_rows_preserved_as_L01_L14": true,
+    "stable_G01_G14_claim_specific_rows_added": [
+      {
+        "gap_id": "G01",
+        "original_name": "Ordinary and private breadth",
+        "status": "OPEN",
+        "claim_specific_disposition": "Wanted games, food, lessons, art and company retain intrinsic value within the admitted family. Failed park plans and unfinished collage remain; this is no exhaustive lifetime psychology. Local L01/L12 retain their exact limits."
+      },
+      {
+        "gap_id": "G02",
+        "original_name": "Yuuka council/club decision transfer",
+        "status": "OPEN",
+        "claim_specific_disposition": "Ibuki’s chosen help and Pandemonium membership supply no Yuuka council/club decision envelope, privacy rule or durable security outcome. Yuuka’s own situated evidence is required for that stronger claim."
+      },
+      {
+        "gap_id": "G03",
+        "original_name": "Serika service, peer and reciprocity range",
+        "status": "OPEN",
+        "claim_specific_disposition": "Snack arithmetic, preferred food and reciprocal help do not discharge Serika’s customer, work, peer or private-recipient duties. No Serika rule or outcome is inferred by analogy."
+      },
+      {
+        "gap_id": "G04",
+        "original_name": "Hina crisis causality, accountability and ordinary contrast",
+        "status": "OPEN",
+        "claim_specific_disposition": "Ibuki’s care, local forgiveness and Pandemonium context do not settle Hina’s NK Ultra causal allocation, affected-student redress or durable institutional repair. Each requires its own evidence."
+      },
+      {
+        "gap_id": "G05",
+        "original_name": "Arius and PS68 ordinary/aftermath transfer",
+        "status": "OPEN",
+        "claim_specific_disposition": "PS68 company and situated decisions remain meaningful. They do not prove Arius or PS68 trauma cure, permanent livelihood/security, legal absolution or complete aftermath; recipient choices remain independent."
+      },
+      {
+        "gap_id": "G06",
+        "original_name": "Cross-school ordinary repertoire",
+        "status": "OPEN",
+        "claim_specific_disposition": "Particular company, visits, shared activities and objections broaden ordinary repertoire. They do not establish an all-school norm, every peer’s assent or a complete directed history. Local L02 remains."
+      },
+      {
+        "gap_id": "G07",
+        "original_name": "Story-world chronology",
+        "status": "OPEN",
+        "claim_specific_disposition": "Local story order, recollections and message-relative days remain usable. Release, retrieval and swimsuit/base order do not locate a global Main/private/event calendar. Local L04 remains."
+      },
+      {
+        "gap_id": "G08",
+        "original_name": "Event naming and repeat contexts",
+        "status": "OPEN",
+        "claim_specific_disposition": "Literal event/source and written costume routes remain distinct. Missing overarching titles, repeat identities and enacted reruns are not supplied by a variant label or release context; no title is invented."
+      },
+      {
+        "gap_id": "G09",
+        "original_name": "Written speaker/choice attribution",
+        "status": "OPEN",
+        "claim_specific_disposition": "Inward records, generic logs, narration, formal alternatives, message groups and disputed police/shopkeeper or public headings constrain actors and knowledge. JP/KR direction differences stay separate. Local L05/L06 remain."
+      },
+      {
+        "gap_id": "G10",
+        "original_name": "Performed voice",
+        "status": "OPEN",
+        "claim_specific_disposition": "Voice IDs, written snoring/music, photographs reported in text and scene cues supply no heard voice, audio, pixels, animation or staging inspection. Local L08 remains."
+      },
+      {
+        "gap_id": "G11",
+        "original_name": "Hoshino's Yume record and office states",
+        "status": "OPEN",
+        "claim_specific_disposition": "Makoto’s qualified legacy thought and Ibuki’s local care do not authenticate Hoshino/Yume notebook or death records, settle their causality or demonstrate lasting stabilization. Their office states remain separately sourced."
+      },
+      {
+        "gap_id": "G12",
+        "original_name": "Counterpart, system and variant identity",
+        "status": "OPEN",
+        "claim_specific_disposition": "Documented person/profile joins and unidentified switch/log passages retain their actual confidence. No body, person, control, device or historical-continuity chain is authenticated by resemblance; local L03/L11 remain."
+      },
+      {
+        "gap_id": "G13",
+        "original_name": "Office, contract, safety and technical outcomes",
+        "status": "OPEN",
+        "claim_specific_disposition": "Actual games, lessons, care, apology and forgiveness coexist with promised visits, incomplete artwork and unaudited office, clinical, welfare or technical outcomes. Carrying, comfort and approximate cannon knowledge certify no cure or safe mechanism. Local L03/L09/L10/L12 remain."
+      },
+      {
+        "gap_id": "G14",
+        "original_name": "Unclassified/mode continuity",
+        "status": "OPEN",
+        "claim_specific_disposition": "The admitted private/written and declared public modes retain their actual scope. Conditional records are not extra performed encounters; unclassified, special and other mini routes are neither silently admitted nor discarded. Local L07/L13/L14 retain custody and no-promotion limits."
+      }
+    ],
+    "no_gap_closure_or_new_source_scope_package_model_credit": true
+  }
+}

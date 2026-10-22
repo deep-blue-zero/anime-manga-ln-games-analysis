@@ -1,0 +1,64 @@
+{
+  "analysis_version": "sigrika-waveform-analysis-0.2.0",
+  "parameters": {
+    "native_integrity": "sha256(FLAC bytes); sha256(interleaved native s16le payload)",
+    "analysis_channel": "highest native RMS channel, zero-based; no downmix or spatial interpretation",
+    "analysis_sample_rate_hz": 16000,
+    "resampling": "scipy.signal.resample_poly; gcd ratio; default Kaiser beta=5.0",
+    "gate_window_seconds": 0.02,
+    "gate_thresholds_dbfs": [
+      -50,
+      -45,
+      -40
+    ],
+    "minimum_internal_gap_seconds": 0.1,
+    "pitch": {
+      "method": "Praat autocorrelation via Parselmouth Sound.to_pitch_ac",
+      "time_step": 0.01,
+      "pitch_floor": 75.0,
+      "pitch_ceiling": 650.0,
+      "max_number_of_candidates": 15,
+      "very_accurate": false,
+      "silence_threshold": 0.03,
+      "voicing_threshold": 0.45,
+      "octave_cost": 0.01,
+      "octave_jump_cost": 0.35,
+      "voiced_unvoiced_cost": 0.14
+    },
+    "pitch_sensitivity": {
+      "pitch_floor": 100.0,
+      "pitch_ceiling": 750.0
+    },
+    "hnr": {
+      "method": "Praat cross-correlation harmonicity",
+      "time_step": 0.01,
+      "minimum_pitch": 75.0,
+      "silence_threshold": 0.1,
+      "periods_per_window": 1.0
+    },
+    "spectral": {
+      "window_seconds": 0.04,
+      "hop_seconds": 0.01,
+      "window": "Hann",
+      "frequency_band_hz": [
+        80,
+        8000
+      ],
+      "tilt_fit_hz": [
+        500,
+        4000
+      ],
+      "tilt_definition": "linear least squares: 10log10 power versus log2 frequency"
+    },
+    "text_rate": "language-specific written units / object duration or energy-active duration; not syllables, not forced alignment",
+    "uncertainty": "all pitch and harmonicity values are signal estimates; no perceptual review; mixtures and estimator failures are flagged"
+  },
+  "python": "3.13.5 (main, Jul 15 2026, 20:25:40) [GCC 14.2.0]",
+  "platform": "Linux-6.18.35-x86_64-with-glibc2.41",
+  "numpy": "2.3.5",
+  "scipy": "1.17.0",
+  "soundfile": "0.13.1",
+  "libsndfile": "1.2.2",
+  "parselmouth": "0.4.7",
+  "praat": "6.1.38"
+}

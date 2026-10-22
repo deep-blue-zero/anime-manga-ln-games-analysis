@@ -1,6 +1,6 @@
 {
   "schema": "anime-manga-ln-games-analysis/series-registry/v2",
-  "status": "GIT_PRIMARY_AUTHORITY_EPOCH_1_STABILIZING",
+  "status": "GIT_ACTIVE_ACCEPTED",
   "series": [
     {
       "series_id": "86-eighty-six",
@@ -149,6 +149,22 @@
       "authority_status": "GIT_PRIMARY"
     },
     {
+      "series_id": "genocidal-organ",
+      "stable_slug": "genocidal-organ",
+      "canonical_title": "Genocidal Organ / 虐殺器官",
+      "media": [
+        "NOVEL"
+      ],
+      "repository_path": "series/genocidal-organ/",
+      "canonical_entrypoint": "series/genocidal-organ/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_GENOCIDAL_ORGAN_BOOTSTRAP_20261016",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Independent original Japanese prose-novel analysis of narration, character development, agency, institutions and literary form, with evidence-tested reconstruction; primary and derived evidence remain in Drive."
+    },
+    {
       "series_id": "genshin-impact",
       "stable_slug": "genshin-impact",
       "canonical_title": "Genshin Impact",
@@ -175,6 +191,22 @@
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
       "authority_status": "GIT_PRIMARY"
+    },
+    {
+      "series_id": "harmony",
+      "stable_slug": "harmony",
+      "canonical_title": "Harmony / ハーモニー",
+      "media": [
+        "NOVEL"
+      ],
+      "repository_path": "series/harmony/",
+      "canonical_entrypoint": "series/harmony/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_HARMONY_BOOTSTRAP_20261016",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Independent original Japanese prose-novel analysis of narration, character development, agency, institutions and literary form, with evidence-tested reconstruction; primary and derived evidence remain in Drive."
     },
     {
       "series_id": "henshin-metamorphosis",
@@ -304,6 +336,22 @@
       "authority_status": "GIT_PRIMARY"
     },
     {
+      "series_id": "medalist",
+      "stable_slug": "medalist",
+      "canonical_title": "Medalist / メダリスト",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/medalist/",
+      "canonical_entrypoint": "series/medalist/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_MEDALIST_BOOTSTRAP_20261011",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Owner-approved Japanese manga-primary foundation; seven ledgers and one frozen reading per closed volume. EVOLVING architecture, OPEN project gate. Owner-authorized continuous run V02–V15 completed 2026-10-13 at the publication ceiling fixed 2026-10-12 (V15 / Score 61); Official Fanbooks 01 and 02 audited; provisional syntheses at that boundary; series ONGOING; adaptation unadmitted. The entrypoint owns current state."
+    },
+    {
       "series_id": "monogatari-series",
       "stable_slug": "monogatari-series",
       "canonical_title": "Monogatari Series",
@@ -317,6 +365,22 @@
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
       "authority_status": "GIT_PRIMARY"
+    },
+    {
+      "series_id": "mushoku-tensei",
+      "stable_slug": "mushoku-tensei",
+      "canonical_title": "Mushoku Tensei",
+      "media": [
+        "LIGHT_NOVEL"
+      ],
+      "repository_path": "series/mushoku-tensei/",
+      "canonical_entrypoint": "series/mushoku-tensei/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_BOOTSTRAP_20260925",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Sequential analysis of the published Japanese light novels, with source locks, volume readings, six longitudinal ledgers and bounded reconstruction models. The canonical entrypoint records exact coverage, publication/audit gates and the authorized V15 terminal boundary; private primary evidence remains in Drive."
     },
     {
       "series_id": "my-hero-academia",
@@ -347,6 +411,22 @@
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
       "authority_status": "GIT_PRIMARY"
+    },
+    {
+      "series_id": "ntr-netsuzou-trap",
+      "stable_slug": "ntr-netsuzou-trap",
+      "canonical_title": "NTR: Netsuzou Trap",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/ntr-netsuzou-trap/",
+      "canonical_entrypoint": "series/ntr-netsuzou-trap/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_NTR_BOOTSTRAP_20260928",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Frozen complete Japanese V01–V06 mainline retains its six freezes, four character monographs, six specialists and full-series argument. Separately admitted NTR-JP-LW has complete 24-image reading, sealed original-rule adjudication, appended current states/ledgers, scoped character and relationship extensions, supplemental integration and a justified broader-continuity synthesis. Other supplements remain quarantined; bounded final acceptance and exact-head publication verification follow the single canonical entrypoint and repository contract."
     },
     {
       "series_id": "one-punch-man",
@@ -392,6 +472,22 @@
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
       "authority_status": "GIT_PRIMARY"
+    },
+    {
+      "series_id": "peach-girl",
+      "stable_slug": "peach-girl",
+      "canonical_title": "Peach Girl / ピーチガール",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/peach-girl/",
+      "canonical_entrypoint": "series/peach-girl/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_UNREVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_PEACH_GIRL_BOOTSTRAP_20261016",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Original Japanese manga analysis of character development, directional relationships, information and reputation, and manga form; architecture supports longitudinal synthesis and time-bounded character reconstruction. Primary and derived evidence remain in Drive."
     },
     {
       "series_id": "project-sekai",
@@ -441,6 +537,22 @@
       "authority_status": "GIT_PRIMARY"
     },
     {
+      "series_id": "rent-a-girlfriend",
+      "stable_slug": "rent-a-girlfriend",
+      "canonical_title": "Rent-a-Girlfriend",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/rent-a-girlfriend/",
+      "canonical_entrypoint": "series/rent-a-girlfriend/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_BOOTSTRAP_20260919",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese manga V001-V047 inventoried and hash-locked locally; V001-V030 are inspected, closed, checkpointed, and locally audited. V031 is the next sequential candidate and requires new explicit authorization before narrative inspection."
+    },
+    {
       "series_id": "revue-starlight",
       "stable_slug": "revue-starlight",
       "canonical_title": "Revue Starlight",
@@ -454,6 +566,22 @@
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
       "authority_status": "GIT_PRIMARY"
+    },
+    {
+      "series_id": "sayonara-lara",
+      "stable_slug": "sayonara-lara",
+      "canonical_title": "Sayonara Lara",
+      "media": [
+        "ANIME"
+      ],
+      "repository_path": "series/sayonara-lara/",
+      "canonical_entrypoint": "series/sayonara-lara/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_BOOTSTRAP_20260920",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese-language TV anime E01-E12 source bundles inventoried and locked; analytical foundation adopted; sequential run authorized through E12 with channel-specific AV debts tracked separately."
     },
     {
       "series_id": "shine-post",
@@ -488,16 +616,34 @@
     {
       "series_id": "shuukura",
       "stable_slug": "shuukura",
-      "canonical_title": "Shuukura",
+      "canonical_title": "Shuukura / 週に一度クラスメイトを買う話",
       "media": [
         "LIGHT_NOVEL"
       ],
       "repository_path": "series/shuukura/",
-      "canonical_entrypoint": null,
-      "canonical_entrypoint_status": "MISSING",
-      "materialization_status": "PRESENT_REVIEWED",
+      "canonical_entrypoint": "series/shuukura/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_UNREVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
-      "authority_status": "GIT_PRIMARY"
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Independent V2 architecture for original-Japanese LN reading, separate web witnesses, longitudinal character and relationship analysis, and evidence-tested reconstruction; V1 remains preserved historical analysis. Primary and derived evidence remain in Drive."
+    },
+    {
+      "series_id": "silent-witch",
+      "stable_slug": "silent-witch",
+      "canonical_title": "Silent Witch: Secrets of the Silent Witch",
+      "media": [
+        "LIGHT_NOVEL"
+      ],
+      "repository_path": "series/silent-witch/",
+      "canonical_entrypoint": "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_SILENT_WITCH_BOOTSTRAP_V1",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Owner-accepted Japanese-LN foundation, architecture STABILIZED at completion; V01 byte-locked with locally retained, reverified locators. Japanese LN V01 to V12 and the companions IV -after-, IX -extra- and both -another- volumes read in full and closed; continuous sequential run through all supplied Japanese works authorized 2026-10-14 and complete; master ledger reconciled; high-water mark -another- (lower); checkpoint, longitudinal reconciliation, three specialist arguments, four character monographs, relationship arguments, integrated synthesis and reconstruction-readiness assessment closed at author level; no reconstruction model. Primary and deterministic derived evidence remain outside Git."
     },
     {
       "series_id": "solo-leveling",
@@ -616,6 +762,22 @@
       "migration_scope": "GIT_NATIVE_POST_CUTOVER_TOMOZAKI_BOOTSTRAP_V0_1",
       "authority_status": "GIT_PRIMARY",
       "catalog_note": "post-cutover Git-native analytical root; Japanese light-novel sources remain in the governed Drive evidence plane."
+    },
+    {
+      "series_id": "watayuri",
+      "stable_slug": "watayuri",
+      "canonical_title": "Yuri Is My Job!",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/watayuri/",
+      "canonical_entrypoint": "series/watayuri/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_WATAYURI_BOOTSTRAP_20260928",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Owner-approved Japanese manga architecture with the sequential-analysis lock OPEN. V01–V09 readings and all nine cumulative ledgers cover mainline through V09 Shift 46/i134, also the latest depicted present. Packaged shorts are separately bounded; V09 Shift 46.5 does not advance the endpoint, its one-shot has separate continuity, and V04 EX is promotional. V10 requires separate authorization; V10–V14 and the V10 booklet remain inventory only."
     },
     {
       "series_id": "wuthering-waves",

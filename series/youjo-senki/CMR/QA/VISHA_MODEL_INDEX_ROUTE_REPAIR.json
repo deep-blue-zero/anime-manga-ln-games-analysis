@@ -1,0 +1,355 @@
+{
+  "schema": "youjo-senki/visha-claim-index-route-repair/v1",
+  "repair_type": "POST_FREEZE_NAVIGATION_METADATA_ONLY_NOT_NEW_EVALUATION",
+  "evaluated_original_index_sha256": "84e7d6dcf15b053ced5196b33361692a3c95b3f78dcda5fd023cf25180b2d3b5",
+  "current_index_sha256": "25da22c4ef57c8e68b89b501e6f47d2b3d45e1bf5ac5891634523b2f05a45200",
+  "model_sha256_unchanged": "08e1c93aad358ce95beb4a32c8ab2eee6252bcff59d3f32c77f009fd593b3619",
+  "immutable_original_prediction_sha256": "87930c050e738ad3f86fbc003c52a7ea3aae0d373e53dbcabdc0fb3e853d673e",
+  "all_original_claim_hashes_source_tuples_roles_ceilings_literal_controls_and_reference_ids_unchanged": true,
+  "exact_inverse_restores_original_index_bytes": true,
+  "repairs": [
+    {
+      "record_id": "YS-CMR0-V01-023-00189",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V10-038-00311",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V10-038-00312",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V14-021-00146",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V14-021-00172",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V03-027-00059",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V03-027-00060",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V03-027-00061",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V05-013-00656",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V05-013-00666",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V05-013-00672",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V05-013-00686",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V05-013-00689",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V05-013-00693",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V06-013-00161",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V06-013-00165",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V06-013-00169",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V06-013-00171",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V06-013-00180",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V03-027-00056",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V03-027-00057",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V10-038-00295",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V03-027-00070",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V03-027-00073",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V03-027-00079",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V03-027-00080",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V03-027-00081",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V03-027-00082",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V03-027-00084",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V10-038-00298",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V10-038-00300",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V10-038-00304",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V10-038-00316",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V10-038-00319",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V10-038-00328",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V10-038-00334",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V01-023-00186",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V01-023-00196",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V10-038-00284",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V10-038-00272",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V10-038-00275",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V10-038-00277",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V10-038-00280",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V01-023-00207",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V01-023-00208",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V01-023-00218",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V01-023-00219",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V01-023-00220",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V01-023-00222",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V14-021-00169",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V14-021-00185",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V14-021-00189",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V01-023-00181",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V01-023-00204",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V01-023-00209",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V03-027-00066",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    },
+    {
+      "record_id": "YS-CMR0-V05-013-00654",
+      "old_artifact_route": "Exact primary source coordinates below; bounded construction source read, no raw paragraph in Git.",
+      "new_artifact_route": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "scope": "Self-contained source catalog record with complete original Drive/source coordinates; no raw paragraph."
+    }
+  ],
+  "residual_evaluation": "Original continuation misses and pending final adjudication are not repaired or scored by routing metadata."
+}

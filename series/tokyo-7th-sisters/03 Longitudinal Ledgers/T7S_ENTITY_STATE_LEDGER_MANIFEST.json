@@ -1,0 +1,905 @@
+{
+  "schema": "t7s-analysis/entity-state-storage-manifest/v1",
+  "artifact_id": "T7S_ENTITY_STATE_LEDGER_MANIFEST",
+  "artifact_type": "logical_entity_state_ledger_manifest",
+  "series": "Tokyo 7th Sisters",
+  "generation": "V1",
+  "version": "1.13",
+  "status": "canonical",
+  "supersedes": [],
+  "superseded_by": [],
+  "do_not_use_as_current_authority": false,
+  "do_not_use_as_literary_evidence": true,
+  "logical_artifact_id": "T7S_ENTITY_STATE_LEDGER",
+  "current_owner_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_LEDGER.md",
+  "source_boundary": "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; complete 60 Intimacy primary documents across 7 family portfolios / T7S_B0182–T7S_B0188; no further non-Main/additional story or 2053 semantic source; manifest-bound physical entity representation",
+  "owner": {
+    "path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_LEDGER.md",
+    "physical_bytes": 38260,
+    "physical_sha256": "022db87b5b4918a8d24b0c33eb6129c1e002efdc0736512daf6c7a444eb63711",
+    "logical_prefix_bytes": 7707,
+    "logical_prefix_sha256": "1ee27533ebccf8e6b62aef3968650d4515d256bf8a3f5c250c609c313cd5f820",
+    "route_marker": "<!-- T7S ENTITY STATE COMPONENT ROUTES -->"
+  },
+  "assembly_rule": "Read the exact owner prefix before the unique route marker, then append every ordered component payload byte range. Validate all full-file and payload byte lengths/hashes, paths, intervals, owner IDs, LF/UTF8 and complete ordering before treating the result as the logical ledger. Component terminators are metadata outside the declared payload range; original final blank lines remain inside that exact payload.",
+  "parts": [
+    {
+      "path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_001.md",
+      "artifact_id": "T7S_ENTITY_STATE_COMPONENT_001",
+      "physical_bytes": 368215,
+      "physical_sha256": "fca863479ee2fe2575e06911aca100ff5ba5a8b36d35df1799e1084bf160959e",
+      "payload_offset_bytes": 691,
+      "payload_bytes": 367486,
+      "payload_sha256": "c4e6e78f3805780926f469df14944dd257a221cb669c5e329b6bf2466554ab4c",
+      "preserved_original_interval": [
+        7138,
+        374624
+      ],
+      "first_heading": "## Current identity routes",
+      "authority": "Canonical delegated component of one logical entity ledger; no duplicated owner or independent interpretation",
+      "payload_terminator": "<!-- T7S ENTITY STATE PAYLOAD END -->"
+    },
+    {
+      "path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "artifact_id": "T7S_ENTITY_STATE_COMPONENT_002",
+      "physical_bytes": 455605,
+      "physical_sha256": "4984aea3236418b3a11de3975a9fe05f6d9418684b9fb3b338ae1cda727355d6",
+      "payload_offset_bytes": 691,
+      "payload_bytes": 454876,
+      "payload_sha256": "2f6253355f9c37c2340a98a72f5576db668568dc5a45267b27fd6e89609057f3",
+      "preserved_original_interval": [
+        374624,
+        829500
+      ],
+      "first_heading": "## B0100 chronology-qualified state annotations",
+      "authority": "Canonical delegated component of one logical entity ledger; no duplicated owner or independent interpretation",
+      "payload_terminator": "<!-- T7S ENTITY STATE PAYLOAD END -->"
+    },
+    {
+      "path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
+      "artifact_id": "T7S_ENTITY_STATE_COMPONENT_003",
+      "physical_bytes": 297067,
+      "physical_sha256": "66ec6042b1240b93e616ca6e9f2091ed4a657d1c82bea68bdf1a0c6d7d36a21e",
+      "payload_offset_bytes": 712,
+      "payload_bytes": 296317,
+      "payload_sha256": "a7523021eb058c3bb61a8f900be36158666e669dbbbef33746e7e7b8ef63080c",
+      "preserved_original_interval": [
+        829500,
+        990668
+      ],
+      "first_heading": "## B0168 child authorship, fallible interpretation and bounded adult knowledge",
+      "authority": "Canonical delegated component of one logical entity ledger; no duplicated owner or independent interpretation",
+      "payload_terminator": "<!-- T7S ENTITY STATE PAYLOAD END -->"
+    }
+  ],
+  "parts_count": 3,
+  "logical_bytes": 1126386,
+  "logical_sha256": "25061db28c60402e20978bcdc126b48ec5f671a154f69fbf509bced46bb85ef5",
+  "complete": true,
+  "disjoint_payload_intervals": true,
+  "last_source_high_water": "T7S_B0188",
+  "storage_transition": {
+    "operation": "T7S_ENTITY_LEDGER_STORAGE_V1",
+    "date": "2026-10-13",
+    "before_commit": "a10784a0242f15e4ff1eb80ea30dd2e9a6b3f60f",
+    "before_owner_bytes": 990668,
+    "before_owner_sha256": "ce60a912ce2bad54274b47e7eff0ee0862929d34eeefc191bc9ca3281f8d50fe",
+    "before_owner_prefix_bytes": 7138,
+    "before_owner_prefix_sha256": "af9bcf4ff963c3379f12e8e99cfbcbc50ee86adfd2d487debd5140849c00d91f",
+    "before_owner_prefix_plus_all_payloads_sha256": "ce60a912ce2bad54274b47e7eff0ee0862929d34eeefc191bc9ca3281f8d50fe",
+    "semantic_payload_change": "NONE; all transferred payload bytes are identical and contiguous; only current owner metadata/routing is adapted.",
+    "record_ids_horizons_history_and_relative_links": "UNCHANGED; component files remain in the same directory as the original owner"
+  },
+  "heading_routes": [
+    {
+      "original_anchor": "current-identity-routes",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_001.md",
+      "component_anchor": "current-identity-routes",
+      "heading": "Current identity routes"
+    },
+    {
+      "original_anchor": "i-n-g-identity-routes-added-at-t7s_b0080t7s_b0099-close",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_001.md",
+      "component_anchor": "i-n-g-identity-routes-added-at-t7s_b0080t7s_b0099-close",
+      "heading": "i-n-g identity routes added at T7S_B0080–T7S_B0099 close"
+    },
+    {
+      "original_anchor": "current-character-states",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_001.md",
+      "component_anchor": "current-character-states",
+      "heading": "Current character states"
+    },
+    {
+      "original_anchor": "episode-60-current-state-annotations-to-existing-stable-ids",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_001.md",
+      "component_anchor": "episode-60-current-state-annotations-to-existing-stable-ids",
+      "heading": "Episode 6.0 current-state annotations to existing stable IDs"
+    },
+    {
+      "original_anchor": "episode-nanasuta-current-state-annotations-to-existing-stable-ids",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_001.md",
+      "component_anchor": "episode-nanasuta-current-state-annotations-to-existing-stable-ids",
+      "heading": "EPISODE NANASUTA current-state annotations to existing stable IDs"
+    },
+    {
+      "original_anchor": "first-i-n-g-tranche-character-state-additions",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_001.md",
+      "component_anchor": "first-i-n-g-tranche-character-state-additions",
+      "heading": "First i-n-g tranche character-state additions"
+    },
+    {
+      "original_anchor": "first-i-n-g-tranche-annotations-to-existing-character-states",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_001.md",
+      "component_anchor": "first-i-n-g-tranche-annotations-to-existing-character-states",
+      "heading": "First i-n-g tranche annotations to existing character states"
+    },
+    {
+      "original_anchor": "current-epistemic-states",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_001.md",
+      "component_anchor": "current-epistemic-states",
+      "heading": "Current epistemic states"
+    },
+    {
+      "original_anchor": "first-i-n-g-tranche-epistemic-states",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_001.md",
+      "component_anchor": "first-i-n-g-tranche-epistemic-states",
+      "heading": "First i-n-g tranche epistemic states"
+    },
+    {
+      "original_anchor": "current-directional-relationship-states",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_001.md",
+      "component_anchor": "current-directional-relationship-states",
+      "heading": "Current directional relationship states"
+    },
+    {
+      "original_anchor": "first-i-n-g-tranche-directional-relationship-states",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_001.md",
+      "component_anchor": "first-i-n-g-tranche-directional-relationship-states",
+      "heading": "First i-n-g tranche directional relationship states"
+    },
+    {
+      "original_anchor": "current-unit-and-institution-states",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_001.md",
+      "component_anchor": "current-unit-and-institution-states",
+      "heading": "Current unit and institution states"
+    },
+    {
+      "original_anchor": "readiness-and-transition-history",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_001.md",
+      "component_anchor": "readiness-and-transition-history",
+      "heading": "Readiness and transition history"
+    },
+    {
+      "original_anchor": "ready-0001--春日部ハル",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_001.md",
+      "component_anchor": "ready-0001--春日部ハル",
+      "heading": "`READY-0001` — 春日部ハル"
+    },
+    {
+      "original_anchor": "ready-0002--天堂寺ムスビ",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_001.md",
+      "component_anchor": "ready-0002--天堂寺ムスビ",
+      "heading": "`READY-0002` — 天堂寺ムスビ"
+    },
+    {
+      "original_anchor": "ready-0003--角森ロナ",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_001.md",
+      "component_anchor": "ready-0003--角森ロナ",
+      "heading": "`READY-0003` — 角森ロナ"
+    },
+    {
+      "original_anchor": "ready-0004--野ノ原ヒメ",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_001.md",
+      "component_anchor": "ready-0004--野ノ原ヒメ",
+      "heading": "`READY-0004` — 野ノ原ヒメ"
+    },
+    {
+      "original_anchor": "ready-0005--芹沢モモカ",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_001.md",
+      "component_anchor": "ready-0005--芹沢モモカ",
+      "heading": "`READY-0005` — 芹沢モモカ"
+    },
+    {
+      "original_anchor": "ready-0006--臼田スミレ",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_001.md",
+      "component_anchor": "ready-0006--臼田スミレ",
+      "heading": "`READY-0006` — 臼田スミレ"
+    },
+    {
+      "original_anchor": "ready-0007--神城スイ",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_001.md",
+      "component_anchor": "ready-0007--神城スイ",
+      "heading": "`READY-0007` — 神城スイ"
+    },
+    {
+      "original_anchor": "ready-0008--久遠寺シズカ",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_001.md",
+      "component_anchor": "ready-0008--久遠寺シズカ",
+      "heading": "`READY-0008` — 久遠寺シズカ"
+    },
+    {
+      "original_anchor": "ready-0009--アレサンドラスース",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_001.md",
+      "component_anchor": "ready-0009--アレサンドラスース",
+      "heading": "`READY-0009` — アレサンドラ・スース"
+    },
+    {
+      "original_anchor": "ready-0010--晴海サワラ",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_001.md",
+      "component_anchor": "ready-0010--晴海サワラ",
+      "heading": "`READY-0010` — 晴海サワラ"
+    },
+    {
+      "original_anchor": "ready-0011--晴海カジカ",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_001.md",
+      "component_anchor": "ready-0011--晴海カジカ",
+      "heading": "`READY-0011` — 晴海カジカ"
+    },
+    {
+      "original_anchor": "ready-0012--晴海シンジュ",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_001.md",
+      "component_anchor": "ready-0012--晴海シンジュ",
+      "heading": "`READY-0012` — 晴海シンジュ"
+    },
+    {
+      "original_anchor": "ready-0013--九条ウメ",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_001.md",
+      "component_anchor": "ready-0013--九条ウメ",
+      "heading": "`READY-0013` — 九条ウメ"
+    },
+    {
+      "original_anchor": "ready-0014--鰐淵エモコ",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_001.md",
+      "component_anchor": "ready-0014--鰐淵エモコ",
+      "heading": "`READY-0014` — 鰐淵エモコ"
+    },
+    {
+      "original_anchor": "ready-0015--佐伯ヒナ",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_001.md",
+      "component_anchor": "ready-0015--佐伯ヒナ",
+      "heading": "`READY-0015` — 佐伯ヒナ"
+    },
+    {
+      "original_anchor": "ready-0016--空栗ヒトハ",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_001.md",
+      "component_anchor": "ready-0016--空栗ヒトハ",
+      "heading": "`READY-0016` — 空栗ヒトハ"
+    },
+    {
+      "original_anchor": "ready-0017--空栗フタバ",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_001.md",
+      "component_anchor": "ready-0017--空栗フタバ",
+      "heading": "`READY-0017` — 空栗フタバ"
+    },
+    {
+      "original_anchor": "ready-0018--七咲ニコル--六咲コニー",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_001.md",
+      "component_anchor": "ready-0018--七咲ニコル--六咲コニー",
+      "heading": "`READY-0018` — 七咲ニコル / 六咲コニー"
+    },
+    {
+      "original_anchor": "ready-0019--羽生田ミト",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_001.md",
+      "component_anchor": "ready-0019--羽生田ミト",
+      "heading": "`READY-0019` — 羽生田ミト"
+    },
+    {
+      "original_anchor": "ready-0020--御園尾マナ",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_001.md",
+      "component_anchor": "ready-0020--御園尾マナ",
+      "heading": "`READY-0020` — 御園尾マナ"
+    },
+    {
+      "original_anchor": "ready-0021--若王子ルイ",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_001.md",
+      "component_anchor": "ready-0021--若王子ルイ",
+      "heading": "`READY-0021` — 若王子ルイ"
+    },
+    {
+      "original_anchor": "ready-0022--遊佐メモル",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_001.md",
+      "component_anchor": "ready-0022--遊佐メモル",
+      "heading": "`READY-0022` — 遊佐メモル"
+    },
+    {
+      "original_anchor": "ready-0023--寿クルト",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_001.md",
+      "component_anchor": "ready-0023--寿クルト",
+      "heading": "`READY-0023` — 寿クルト"
+    },
+    {
+      "original_anchor": "ready-0024--有栖シラユキ",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_001.md",
+      "component_anchor": "ready-0024--有栖シラユキ",
+      "heading": "`READY-0024` — 有栖シラユキ"
+    },
+    {
+      "original_anchor": "ready-0025--星柿マノン",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_001.md",
+      "component_anchor": "ready-0025--星柿マノン",
+      "heading": "`READY-0025` — 星柿マノン"
+    },
+    {
+      "original_anchor": "ready-0026--ターシャロマノフスキー",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_001.md",
+      "component_anchor": "ready-0026--ターシャロマノフスキー",
+      "heading": "`READY-0026` — ターシャ・ロマノフスキー"
+    },
+    {
+      "original_anchor": "ready-0027--上杉ウエバスキョーコ",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_001.md",
+      "component_anchor": "ready-0027--上杉ウエバスキョーコ",
+      "heading": "`READY-0027` — 上杉・ウエバス・キョーコ"
+    },
+    {
+      "original_anchor": "ready-0028--瀬戸ファーブ",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_001.md",
+      "component_anchor": "ready-0028--瀬戸ファーブ",
+      "heading": "`READY-0028` — 瀬戸ファーブ"
+    },
+    {
+      "original_anchor": "ready-0029--桂木カヅミ",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_001.md",
+      "component_anchor": "ready-0029--桂木カヅミ",
+      "heading": "`READY-0029` — 桂木カヅミ"
+    },
+    {
+      "original_anchor": "character-discovery-boundary",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_001.md",
+      "component_anchor": "character-discovery-boundary",
+      "heading": "Character discovery boundary"
+    },
+    {
+      "original_anchor": "b0100-chronology-qualified-state-annotations",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0100-chronology-qualified-state-annotations",
+      "heading": "B0100 chronology-qualified state annotations"
+    },
+    {
+      "original_anchor": "b0101-chronology-qualified-entity-additions",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0101-chronology-qualified-entity-additions",
+      "heading": "B0101 chronology-qualified entity additions"
+    },
+    {
+      "original_anchor": "b0102-chronology-qualified-entity-additions",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0102-chronology-qualified-entity-additions",
+      "heading": "B0102 chronology-qualified entity additions"
+    },
+    {
+      "original_anchor": "b0103-actor-local-nightmare-state-annotations",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0103-actor-local-nightmare-state-annotations",
+      "heading": "B0103 actor-local nightmare-state annotations"
+    },
+    {
+      "original_anchor": "b0104-private-authorship-and-peer-access-annotations",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0104-private-authorship-and-peer-access-annotations",
+      "heading": "B0104 private-authorship and peer-access annotations"
+    },
+    {
+      "original_anchor": "b0102-stable-id-correction-receipt",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0102-stable-id-correction-receipt",
+      "heading": "B0102 stable-ID correction receipt"
+    },
+    {
+      "original_anchor": "b0105-xiao-identity-training-and-relational-care",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0105-xiao-identity-training-and-relational-care",
+      "heading": "B0105 Xiao identity, training and relational care"
+    },
+    {
+      "original_anchor": "b0106-haru-peers-and-local-public-work-state",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0106-haru-peers-and-local-public-work-state",
+      "heading": "B0106 Haru, peers and local public-work state"
+    },
+    {
+      "original_anchor": "b0107-musubi-actor-local-consent-and-uncertainty",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0107-musubi-actor-local-consent-and-uncertainty",
+      "heading": "B0107 Musubi actor-local consent and uncertainty"
+    },
+    {
+      "original_anchor": "b0108-rona-solo-agency-and-actor-local-safety-knowledge",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0108-rona-solo-agency-and-actor-local-safety-knowledge",
+      "heading": "B0108 Rona solo agency and actor-local safety knowledge"
+    },
+    {
+      "original_anchor": "b0109-hime-household-care-and-reciprocal-jealousy",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0109-hime-household-care-and-reciprocal-jealousy",
+      "heading": "B0109 Hime household care and reciprocal jealousy"
+    },
+    {
+      "original_anchor": "b0110-momoka-screen-persona-and-knowledge-of-the-edit",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0110-momoka-screen-persona-and-knowledge-of-the-edit",
+      "heading": "B0110 Momoka screen persona and knowledge of the edit"
+    },
+    {
+      "original_anchor": "b0111-sumire-art-possibility-and-actor-local-knowledge",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0111-sumire-art-possibility-and-actor-local-knowledge",
+      "heading": "B0111 Sumire art possibility and actor-local knowledge"
+    },
+    {
+      "original_anchor": "b0112-sui-health-knowledge-and-hime-shop-load",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0112-sui-health-knowledge-and-hime-shop-load",
+      "heading": "B0112 Sui health knowledge and Hime shop load"
+    },
+    {
+      "original_anchor": "b0113-shizuka-household-scale-and-harumi-shop-knowledge",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0113-shizuka-household-scale-and-harumi-shop-knowledge",
+      "heading": "B0113 Shizuka household scale and Harumi shop knowledge"
+    },
+    {
+      "original_anchor": "b0114-suss-school-effort-and-contingent-access-boundary",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0114-suss-school-effort-and-contingent-access-boundary",
+      "heading": "B0114 Suss school effort and contingent access boundary"
+    },
+    {
+      "original_anchor": "b0115-sawara-choice-and-production-expectations",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0115-sawara-choice-and-production-expectations",
+      "heading": "B0115 Sawara choice and production expectations"
+    },
+    {
+      "original_anchor": "b0116-kajika-staged-role-felt-danger-and-museum-casting",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0116-kajika-staged-role-felt-danger-and-museum-casting",
+      "heading": "B0116 Kajika staged role, felt danger and museum casting"
+    },
+    {
+      "original_anchor": "b0117-shinju-age-language-and-openly-chosen-interests",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0117-shinju-age-language-and-openly-chosen-interests",
+      "heading": "B0117 Shinju age, language and openly chosen interests"
+    },
+    {
+      "original_anchor": "b0118-tomoe-protection-shared-song-and-overload",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0118-tomoe-protection-shared-song-and-overload",
+      "heading": "B0118 Tomoe protection, shared song and overload"
+    },
+    {
+      "original_anchor": "b0119-middle-school-live-madokas-nearer-leadership-and-saori-risk",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0119-middle-school-live-madokas-nearer-leadership-and-saori-risk",
+      "heading": "B0119 middle-school live, Madoka's nearer leadership and Saori risk"
+    },
+    {
+      "original_anchor": "b0120-ayumus-learned-register-teachers-and-pseudo-service-relation",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0120-ayumus-learned-register-teachers-and-pseudo-service-relation",
+      "heading": "B0120 Ayumu's learned register, teachers and pseudo-service relation"
+    },
+    {
+      "original_anchor": "b0121-kyokos-informed-choice-and-relational-support",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0121-kyokos-informed-choice-and-relational-support",
+      "heading": "B0121 Kyoko's informed choice and relational support"
+    },
+    {
+      "original_anchor": "b0122-honokas-role-choice-peer-coaching-and-intrusion",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0122-honokas-role-choice-peer-coaching-and-intrusion",
+      "heading": "B0122 Honoka's role-choice, peer coaching and intrusion"
+    },
+    {
+      "original_anchor": "b0123-renas-chosen-romantic-boundary-and-group-knowledge",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0123-renas-chosen-romantic-boundary-and-group-knowledge",
+      "heading": "B0123 Rena's chosen romantic boundary and group knowledge"
+    },
+    {
+      "original_anchor": "b0124-mimis-cover-and-bounded-reciprocal-help",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0124-mimis-cover-and-bounded-reciprocal-help",
+      "heading": "B0124 Mimi's cover and bounded reciprocal help"
+    },
+    {
+      "original_anchor": "b0125-ferbs-instrument-boundary-and-peer-discovery",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0125-ferbs-instrument-boundary-and-peer-discovery",
+      "heading": "B0125 Ferb's instrument boundary and peer discovery"
+    },
+    {
+      "original_anchor": "b0126-chachas-coercive-detection-and-saoris-return",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0126-chachas-coercive-detection-and-saoris-return",
+      "heading": "B0126 Chacha's coercive detection and Saori's return"
+    },
+    {
+      "original_anchor": "b0127-mius-friendship-information-gap-and-team-repair",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0127-mius-friendship-information-gap-and-team-repair",
+      "heading": "B0127 Miu's friendship information gap and team repair"
+    },
+    {
+      "original_anchor": "b0128-monakas-peer-access-and-school-life-visibility",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0128-monakas-peer-access-and-school-life-visibility",
+      "heading": "B0128 Monaka's peer access and school-life visibility"
+    },
+    {
+      "original_anchor": "b0129-eis-scoped-participation-and-recording-knowledge-gap",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0129-eis-scoped-participation-and-recording-knowledge-gap",
+      "heading": "B0129 Ei's scoped participation and recording knowledge gap"
+    },
+    {
+      "original_anchor": "b0130-manons-outing-and-actor-specific-care-knowledge",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0130-manons-outing-and-actor-specific-care-knowledge",
+      "heading": "B0130 Manon's outing and actor-specific care knowledge"
+    },
+    {
+      "original_anchor": "b0131-yumenos-memory-state-and-himes-scoped-choices",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0131-yumenos-memory-state-and-himes-scoped-choices",
+      "heading": "B0131 Yumeno's memory state and Hime's scoped choices"
+    },
+    {
+      "original_anchor": "b0132-miwakos-escortfan-roles-and-peer-reception",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0132-miwakos-escortfan-roles-and-peer-reception",
+      "heading": "B0132 Miwako's escort/fan roles and peer reception"
+    },
+    {
+      "original_anchor": "b0133-tashas-recognition-request-and-peer-mediation",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0133-tashas-recognition-request-and-peer-mediation",
+      "heading": "B0133 Tasha's recognition request and peer mediation"
+    },
+    {
+      "original_anchor": "b0134-shisara-tomoe-and-distributed-stage-work",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0134-shisara-tomoe-and-distributed-stage-work",
+      "heading": "B0134 Shisara, Tomoe and distributed stage work"
+    },
+    {
+      "original_anchor": "b0135-jedah-and-the-younger-teachers",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0135-jedah-and-the-younger-teachers",
+      "heading": "B0135 Jedah and the younger teachers"
+    },
+    {
+      "original_anchor": "b0136-matsuris-observer-momokas-frame-and-affected-workers",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0136-matsuris-observer-momokas-frame-and-affected-workers",
+      "heading": "B0136 Matsuri's observer, Momoka's frame and affected workers"
+    },
+    {
+      "original_anchor": "b0137-rishuris-creative-place-and-suis-withheld-loss",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0137-rishuris-creative-place-and-suis-withheld-loss",
+      "heading": "B0137 Rishuri's creative place and Sui's withheld loss"
+    },
+    {
+      "original_anchor": "b0138-saori-dog-walking-child-sawara-and-coney",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0138-saori-dog-walking-child-sawara-and-coney",
+      "heading": "B0138 Saori, dog-walking child, Sawara and Coney"
+    },
+    {
+      "original_anchor": "b0139-shirayukis-leadership-one-live-unit-and-hidden-care",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0139-shirayukis-leadership-one-live-unit-and-hidden-care",
+      "heading": "B0139 Shirayuki's leadership, one-live unit and hidden care"
+    },
+    {
+      "original_anchor": "b0140-murasakis-relational-voice-and-school-audience-boundary",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0140-murasakis-relational-voice-and-school-audience-boundary",
+      "heading": "B0140 Murasaki's relational voice and school-audience boundary"
+    },
+    {
+      "original_anchor": "b0141-makotos-professional-pleasure-and-sumires-local-peer-bond",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0141-makotos-professional-pleasure-and-sumires-local-peer-bond",
+      "heading": "B0141 Makoto's professional pleasure and Sumire's local peer bond"
+    },
+    {
+      "original_anchor": "b0142-kazumimurasaki-work-family-shop-and-task-boundary",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0142-kazumimurasaki-work-family-shop-and-task-boundary",
+      "heading": "B0142 Kazumi/Murasaki work, family shop and task boundary"
+    },
+    {
+      "original_anchor": "b0143-xiaos-role-work-mentors-and-player-contact-boundary",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0143-xiaos-role-work-mentors-and-player-contact-boundary",
+      "heading": "B0143 Xiao's role work, mentors and Player contact boundary"
+    },
+    {
+      "original_anchor": "b0144-harus-peer-detours-and-stage-readiness-limit",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0144-harus-peer-detours-and-stage-readiness-limit",
+      "heading": "B0144 Haru's peer detours and stage-readiness limit"
+    },
+    {
+      "original_anchor": "b0145-musubis-institutional-and-audience-facing-state",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0145-musubis-institutional-and-audience-facing-state",
+      "heading": "B0145 Musubi's institutional and audience-facing state"
+    },
+    {
+      "original_anchor": "b0146-rona-chapter-local-trainee-and-nonrecruitment",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0146-rona-chapter-local-trainee-and-nonrecruitment",
+      "heading": "B0146 Rona, chapter-local trainee and nonrecruitment"
+    },
+    {
+      "original_anchor": "b0147-hime-shizuka-and-the-false-cousin-presentation",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0147-hime-shizuka-and-the-false-cousin-presentation",
+      "heading": "B0147 Hime, Shizuka and the false-cousin presentation"
+    },
+    {
+      "original_anchor": "b0148-momokas-trading-care-network-and-information-limits",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0148-momokas-trading-care-network-and-information-limits",
+      "heading": "B0148 Momoka's trading, care network and information limits"
+    },
+    {
+      "original_anchor": "b0149-sumires-work-distress-and-reciprocal-attention",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0149-sumires-work-distress-and-reciprocal-attention",
+      "heading": "B0149 Sumire's work, distress and reciprocal attention"
+    },
+    {
+      "original_anchor": "b0150-sui-and-chapter-local-masaru",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0150-sui-and-chapter-local-masaru",
+      "heading": "B0150 Sui and chapter-local Masaru"
+    },
+    {
+      "original_anchor": "b0151-shizukas-name-group-consultation-and-sponsor-opacity",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0151-shizukas-name-group-consultation-and-sponsor-opacity",
+      "heading": "B0151 Shizuka's name, group consultation and sponsor opacity"
+    },
+    {
+      "original_anchor": "b0152-susu-peers-and-the-named-visiting-company",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0152-susu-peers-and-the-named-visiting-company",
+      "heading": "B0152 Susu, peers and the named visiting company"
+    },
+    {
+      "original_anchor": "b0153-sawara-the-player-and-ad-hoc-workplace-cover",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0153-sawara-the-player-and-ad-hoc-workplace-cover",
+      "heading": "B0153 Sawara, the Player and ad hoc workplace cover"
+    },
+    {
+      "original_anchor": "b0154-kajikas-visibility-and-letter-access",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0154-kajikas-visibility-and-letter-access",
+      "heading": "B0154 Kajika's visibility and letter access"
+    },
+    {
+      "original_anchor": "b0155-shinju-and-an-unpromoted-kerosuke-figure",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0155-shinju-and-an-unpromoted-kerosuke-figure",
+      "heading": "B0155 Shinju and an unpromoted Kerosuke figure"
+    },
+    {
+      "original_anchor": "b0156-tomoes-song-friend-and-collaborative-support",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0156-tomoes-song-friend-and-collaborative-support",
+      "heading": "B0156 Tomoe's song, friend and collaborative support"
+    },
+    {
+      "original_anchor": "b0157-madoka-as-performer-and-fictional-kanna",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0157-madoka-as-performer-and-fictional-kanna",
+      "heading": "B0157 Madoka as performer and fictional Kanna"
+    },
+    {
+      "original_anchor": "b0158-ayumus-care-ensemble-and-speech-phenomenon",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0158-ayumus-care-ensemble-and-speech-phenomenon",
+      "heading": "B0158 Ayumu's care, ensemble and speech phenomenon"
+    },
+    {
+      "original_anchor": "b0159-kyoko-her-offscreen-mother-and-chosen-support",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0159-kyoko-her-offscreen-mother-and-chosen-support",
+      "heading": "B0159 Kyoko, her offscreen mother and chosen support"
+    },
+    {
+      "original_anchor": "b0160-honokas-teaching-agency-and-supported-nervousness",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0160-honokas-teaching-agency-and-supported-nervousness",
+      "heading": "B0160 Honoka's teaching agency and supported nervousness"
+    },
+    {
+      "original_anchor": "b0161-renas-plural-commitments-and-qualified-peer-support",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0161-renas-plural-commitments-and-qualified-peer-support",
+      "heading": "B0161 Rena's plural commitments and qualified peer support"
+    },
+    {
+      "original_anchor": "b0162-effort-behind-mimis-competence-and-peers-partial-understanding",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0162-effort-behind-mimis-competence-and-peers-partial-understanding",
+      "heading": "B0162 effort behind Mimi's competence and peers' partial understanding"
+    },
+    {
+      "original_anchor": "b0163-creative-choice-collaborator-boundaries-and-actor-local-knowledge",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0163-creative-choice-collaborator-boundaries-and-actor-local-knowledge",
+      "heading": "B0163 creative choice, collaborator boundaries and actor-local knowledge"
+    },
+    {
+      "original_anchor": "b0164-admiration-belonging-and-actor-local-farewell-knowledge",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0164-admiration-belonging-and-actor-local-farewell-knowledge",
+      "heading": "B0164 admiration, belonging and actor-local farewell knowledge"
+    },
+    {
+      "original_anchor": "b0165-mius-reasons-for-trust-and-actor-local-preparation-knowledge",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0165-mius-reasons-for-trust-and-actor-local-preparation-knowledge",
+      "heading": "B0165 Miu's reasons for trust and actor-local preparation knowledge"
+    },
+    {
+      "original_anchor": "b0166-recipient-local-belonging-work-inquiry-and-mediated-family-knowledge",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0166-recipient-local-belonging-work-inquiry-and-mediated-family-knowledge",
+      "heading": "B0166 recipient-local belonging, work inquiry and mediated family knowledge"
+    },
+    {
+      "original_anchor": "b0167-actor-local-clothing-values-requested-help-and-asymmetric-disclosure",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_002.md",
+      "component_anchor": "b0167-actor-local-clothing-values-requested-help-and-asymmetric-disclosure",
+      "heading": "B0167 actor-local clothing values, requested help and asymmetric disclosure"
+    },
+    {
+      "original_anchor": "b0168-child-authorship-fallible-interpretation-and-bounded-adult-knowledge",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
+      "component_anchor": "b0168-child-authorship-fallible-interpretation-and-bounded-adult-knowledge",
+      "heading": "B0168 child authorship, fallible interpretation and bounded adult knowledge"
+    },
+    {
+      "original_anchor": "b0169-scenario-making-corrective-replies-and-bounded-observer-knowledge",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
+      "component_anchor": "b0169-scenario-making-corrective-replies-and-bounded-observer-knowledge",
+      "heading": "B0169 scenario-making, corrective replies and bounded observer knowledge"
+    },
+    {
+      "original_anchor": "b0170-role-vulnerability-unequal-care-and-differentiated-morning-knowledge",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
+      "component_anchor": "b0170-role-vulnerability-unequal-care-and-differentiated-morning-knowledge",
+      "heading": "B0170 role vulnerability, unequal care and differentiated morning knowledge"
+    },
+    {
+      "original_anchor": "b0171-additive-family-care-authorial-limits-and-asymmetrical-knowledge",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
+      "component_anchor": "b0171-additive-family-care-authorial-limits-and-asymmetrical-knowledge",
+      "heading": "B0171 additive family care, authorial limits and asymmetrical knowledge"
+    },
+    {
+      "original_anchor": "b0172-chosen-present-partial-rivalry-repair-and-unequal-knowledge",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
+      "component_anchor": "b0172-chosen-present-partial-rivalry-repair-and-unequal-knowledge",
+      "heading": "B0172 chosen present, partial rivalry repair and unequal knowledge"
+    },
+    {
+      "original_anchor": "b0173-wanted-work-corrected-motive-and-intended-family-spectators",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
+      "component_anchor": "b0173-wanted-work-corrected-motive-and-intended-family-spectators",
+      "heading": "B0173 wanted work, corrected motive and intended family spectators"
+    },
+    {
+      "original_anchor": "b0174-game-leadership-novice-care-and-shared-limits",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
+      "component_anchor": "b0174-game-leadership-novice-care-and-shared-limits",
+      "heading": "B0174 game leadership, novice care and shared limits"
+    },
+    {
+      "original_anchor": "b0175-care-shared-independence-and-recipient-room",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
+      "component_anchor": "b0175-care-shared-independence-and-recipient-room",
+      "heading": "B0175 care, shared independence and recipient room"
+    },
+    {
+      "original_anchor": "b0176-reciprocal-caution-and-shared-protection",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
+      "component_anchor": "b0176-reciprocal-caution-and-shared-protection",
+      "heading": "B0176 reciprocal caution and shared protection"
+    },
+    {
+      "original_anchor": "b0177-family-taste-and-the-work-of-making-another-home",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
+      "component_anchor": "b0177-family-taste-and-the-work-of-making-another-home",
+      "heading": "B0177 family taste and the work of making another home"
+    },
+    {
+      "original_anchor": "b0178-reciprocal-musical-directions-and-bounded-capacity",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
+      "component_anchor": "b0178-reciprocal-musical-directions-and-bounded-capacity",
+      "heading": "B0178 reciprocal musical directions and bounded capacity"
+    },
+    {
+      "original_anchor": "b0179-plural-commitments-service-boundaries-and-the-misleading-apparent-fact",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
+      "component_anchor": "b0179-plural-commitments-service-boundaries-and-the-misleading-apparent-fact",
+      "heading": "B0179 plural commitments, service boundaries and the misleading apparent fact"
+    },
+    {
+      "original_anchor": "b0180-research-viewer-response-and-shared-developmental-possibility",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
+      "component_anchor": "b0180-research-viewer-response-and-shared-developmental-possibility",
+      "heading": "B0180 research, viewer response and shared developmental possibility"
+    },
+    {
+      "original_anchor": "b0181-fear-reciprocal-effort-and-qualified-communication",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
+      "component_anchor": "b0181-fear-reciprocal-effort-and-qualified-communication",
+      "heading": "B0181 fear, reciprocal effort and qualified communication"
+    },
+    {
+      "original_anchor": "b0182-sisaras-appraisal-shared-space-and-intended-care",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
+      "component_anchor": "b0182-sisaras-appraisal-shared-space-and-intended-care",
+      "heading": "B0182 Sisara's appraisal, shared space and intended care"
+    },
+    {
+      "original_anchor": "b0183-suis-recognition-care-and-bodily-limits",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
+      "component_anchor": "b0183-suis-recognition-care-and-bodily-limits",
+      "heading": "B0183 Sui's recognition, care and bodily limits"
+    },
+    {
+      "original_anchor": "b0184-rona-reciprocal-care-and-retained-workplace",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
+      "component_anchor": "b0184-rona-reciprocal-care-and-retained-workplace",
+      "heading": "B0184 Rona, reciprocal care and retained workplace"
+    },
+    {
+      "original_anchor": "b0185-haru-ordinary-initiative-and-renewed-aspiration",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
+      "component_anchor": "b0185-haru-ordinary-initiative-and-renewed-aspiration",
+      "heading": "B0185 Haru, ordinary initiative and renewed aspiration"
+    },
+    {
+      "original_anchor": "b0186-kyokos-bounded-requests-craft-and-support",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
+      "component_anchor": "b0186-kyokos-bounded-requests-craft-and-support",
+      "heading": "B0186 Kyoko's bounded requests, craft and support"
+    },
+    {
+      "original_anchor": "b0187-shizuka-learning-and-situated-initiative",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
+      "component_anchor": "b0187-shizuka-learning-and-situated-initiative",
+      "heading": "B0187 Shizuka, learning and situated initiative"
+    },
+    {
+      "original_anchor": "b0188-hime-chosen-presentation-and-situated-reciprocity",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
+      "component_anchor": "b0188-hime-chosen-presentation-and-situated-reciprocity",
+      "heading": "B0188 Hime, chosen presentation and situated reciprocity"
+    }
+  ],
+  "publication_scope": "This proposed representation has no effect until separately reviewed/applied/committed/published. Private proposal receipts remain noncurrent.",
+  "latest_logical_append": {
+    "source_high_water": "T7S_B0188",
+    "date": "2026-10-14",
+    "logical_before_sha256": "06dcf7ce47048251004e39967b38a0994c0b9b4294db58870309238860101b9d",
+    "logical_after_sha256": "25061db28c60402e20978bcdc126b48ec5f671a154f69fbf509bced46bb85ef5",
+    "addition_bytes": 9529,
+    "addition_sha256": "c6f4d93093b8bcd1747dc405eca5a4dceae37fe4a364e0c7ef0790636db0624d",
+    "unchanged_older_body_sha256": "f3d020b8e2f2d6a252c49e6b402ffde7cb17e29efff95c186ac0148f486f57f5",
+    "active_component": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
+    "sealed_older_components_byte_exact": true
+  }
+}

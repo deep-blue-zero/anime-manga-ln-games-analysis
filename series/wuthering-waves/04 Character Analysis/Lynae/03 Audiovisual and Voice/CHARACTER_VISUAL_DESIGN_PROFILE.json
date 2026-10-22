@@ -1,0 +1,161 @@
+{
+  "artifact_type": "character_visual_design_profile",
+  "character": "Lynae",
+  "counterreadings": [
+    "A single costume feature may support several readings; the profile records plausible visual functions rather than claiming unique authorial intent.",
+    "UI key art can exaggerate color, pose, scale, transparency, and fabric motion relative to the runtime model."
+  ],
+  "form_state_distinctions": [
+    {
+      "claim_id": "wuwa:visual-claim:b5b4dbd9a7418b26dd05c383",
+      "confidence": "open",
+      "dimension": "form_skin_state",
+      "evidence_basis": "open",
+      "evidence_visual_ids": [
+        "wuwa:visual:16471a3f7a26a615e106d7d2",
+        "wuwa:visual:225ef889b4fa6aba9788e555",
+        "wuwa:visual:e2a1dd25a1199c3a17b19b2c"
+      ],
+      "semantic_source_locators": [
+        "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/role/roleinfo.json#/99"
+      ],
+      "statement": "The three decoded images are treated as the role record's default playable presentation. Alternate skins, transformation states, damage states, and rear views were not established in this generation.",
+      "uncertainty": "A role-linked default UI representation is not proof that no alternate form or skin exists."
+    }
+  ],
+  "generation": "character_visual_v0_2",
+  "observations": [
+    {
+      "claim_id": "wuwa:visual-claim:ef64fece94264b08cf9da36d",
+      "confidence": "high",
+      "dimension": "silhouette",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:225ef889b4fa6aba9788e555",
+        "wuwa:visual:e2a1dd25a1199c3a17b19b2c"
+      ],
+      "semantic_source_locators": [],
+      "statement": "The looped ponytail, oversized jacket sleeves, short skirt, trailing black ties, and thick calf-high boots create a top-heavy streetwear silhouette with circular anchors at the head and ankles.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:d4875a082d542310448c22c4",
+      "confidence": "high",
+      "dimension": "palette",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:225ef889b4fa6aba9788e555",
+        "wuwa:visual:e2a1dd25a1199c3a17b19b2c"
+      ],
+      "semantic_source_locators": [],
+      "statement": "White and black form the base, while teal, mint, cyan, and prismatic rainbow panels carry the color identity; small violet and metallic gray accents sharpen it.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:9abb10a3ff91ef7fb04e5403",
+      "confidence": "high",
+      "dimension": "hair_and_face",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:16471a3f7a26a615e106d7d2",
+        "wuwa:visual:225ef889b4fa6aba9788e555",
+        "wuwa:visual:e2a1dd25a1199c3a17b19b2c"
+      ],
+      "semantic_source_locators": [],
+      "statement": "Pale blonde hair is gathered into a large circular loop with teal streaks, an asymmetrical fringe, multiple ear piercings, a skull clip, and star-shaped earrings; violet-blue eyes add another spectral color shift.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:d53483b3d3a149544e4f9bc2",
+      "confidence": "high",
+      "dimension": "costume_construction",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:225ef889b4fa6aba9788e555",
+        "wuwa:visual:e2a1dd25a1199c3a17b19b2c"
+      ],
+      "semantic_source_locators": [],
+      "statement": "An oversized cropped technical jacket and harnessed black top sit above a pleated mini-skirt, thigh strap, knee socks, and buckle-heavy platform boots; headphones rest around the neck.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:2cb1110a00d533a73ee42fa0",
+      "confidence": "medium",
+      "dimension": "materials",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:225ef889b4fa6aba9788e555",
+        "wuwa:visual:e2a1dd25a1199c3a17b19b2c"
+      ],
+      "semantic_source_locators": [],
+      "statement": "Matte black fabric, crisp white synthetic-looking cloth, transparent quilted panels, holographic film, rubberized headphones, polished hardware, and luminous circular boot components are visibly differentiated.",
+      "uncertainty": "Material words describe rendered cues, not a physical-material measurement."
+    },
+    {
+      "claim_id": "wuwa:visual-claim:7ed15b4097990ea2d8908116",
+      "confidence": "high",
+      "dimension": "motifs",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:225ef889b4fa6aba9788e555",
+        "wuwa:visual:e2a1dd25a1199c3a17b19b2c"
+      ],
+      "semantic_source_locators": [],
+      "statement": "Prismatic color shifts, stars, circles, audio gear, graffiti-like graphics, cat/skull novelty marks, straps, and cable-like ribbons repeat across the design.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:6941c81e48a2fa56c9b68818",
+      "confidence": "medium",
+      "dimension": "weapon_and_role_signaling",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:225ef889b4fa6aba9788e555",
+        "wuwa:visual:e2a1dd25a1199c3a17b19b2c"
+      ],
+      "semantic_source_locators": [],
+      "statement": "No held weapon appears in the bounded art; headphones, projector-like boot discs, holographic panels, and the bubble-gum pose signal a tech-savvy student and light/color manipulator.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:8aeadb6744c62b9b42c6ffa3",
+      "confidence": "high",
+      "dimension": "pose_and_body_language",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:225ef889b4fa6aba9788e555",
+        "wuwa:visual:e2a1dd25a1199c3a17b19b2c"
+      ],
+      "semantic_source_locators": [],
+      "statement": "Blowing bubble gum while looking sideways, with one hand near the mouth and a relaxed hip, projects studied nonchalance and youthful defiance.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:528fd7731d871e67d375815a",
+      "confidence": "medium",
+      "dimension": "design_narrative_relationship",
+      "evidence_basis": "direct_visual_and_semantic",
+      "evidence_visual_ids": [
+        "wuwa:visual:225ef889b4fa6aba9788e555",
+        "wuwa:visual:e2a1dd25a1199c3a17b19b2c"
+      ],
+      "semantic_source_locators": [
+        "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/Textmaps/en/multi_text/MultiText.json#/291642"
+      ],
+      "statement": "The prismatic panels and electric streetwear directly reinforce the profile's 'head-turning, electric style'; the multilingual talent record's visible-light and uncommon-color affinity gives the color system unusually strong semantic corroboration.",
+      "uncertainty": "The relationship between visible design and narrative meaning is analytical interpretation unless the cited text explicitly names the feature."
+    }
+  ],
+  "open_questions": [
+    "How does the silhouette and garment construction read from the back and in neutral runtime lighting?",
+    "Which pose, gesture, idle, facial-expression, and movement habits persist across authored scenes and gameplay?",
+    "Which alternate skins, forms, combat states, or story states materially change this design grammar?",
+    "Do official promotional sheets or model turnarounds contradict details inferred from these three UI rasters?"
+  ],
+  "role_id": 1509,
+  "schema_version": "wuwa.character-visual-design-profile.v0.2",
+  "source_generation_frozen": false,
+  "status": "active_provisional",
+  "summary": "Lynae is an aggressively contemporary academy-streetwear design. A looped pale-blonde ponytail, teal streaks, star jewelry, headphones, cropped white technical jacket, holographic panels, black pleated skirt, straps, and heavy high-tech boots create a rebellious visual identity built around light, color, and wearable devices.",
+  "visual_manifest": "CHARACTER_VISUAL_REFERENCE_MANIFEST.json"
+}

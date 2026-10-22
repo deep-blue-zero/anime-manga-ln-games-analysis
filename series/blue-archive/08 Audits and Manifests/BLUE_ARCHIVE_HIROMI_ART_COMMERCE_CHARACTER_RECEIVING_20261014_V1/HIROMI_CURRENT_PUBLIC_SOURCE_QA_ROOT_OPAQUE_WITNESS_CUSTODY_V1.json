@@ -1,0 +1,500 @@
+{
+  "schema": "HIROMI_CURRENT183_ORIGINAL8_ROOT_QA_HELD_DOCUMENTARY_CUSTODY_DRAFT_V1",
+  "composer": "/root/m008_composition_review",
+  "original8": [
+    {
+      "private_witness_id": "HIROMI_PRE_METADATA_AUTHOR_COMPONENT_00_20261014_V1",
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HIROMI_ART_COMMERCE_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+      "bytes": 37729,
+      "sha256": "b7d396dd8993c8fb8ff1386bf22d250d7303386c18993d456570628064cfe14c",
+      "git_blob_oid_of_actual_bytes": "d534074256b548080789723b0f04ac2c29353732"
+    },
+    {
+      "private_witness_id": "HIROMI_PRE_METADATA_AUTHOR_COMPONENT_01_20261014_V1",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HIROMI_ART_COMMERCE_CHARACTER_RECEIVING_20261014_V1/HIROMI_CURRENT105_NEW_PURPOSE_JUDGMENTS_HP000_HP035_V1.json",
+      "bytes": 390693,
+      "sha256": "22886fc4ce4c91ea43c074d6bdabb124832ca64eb8e1506b6e3e2337777f2dd1",
+      "git_blob_oid_of_actual_bytes": "8fb24c101ac5e63edd920452c0c125117eb9bacf"
+    },
+    {
+      "private_witness_id": "HIROMI_PRE_METADATA_AUTHOR_COMPONENT_02_20261014_V1",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HIROMI_ART_COMMERCE_CHARACTER_RECEIVING_20261014_V1/HIROMI_CURRENT105_NEW_PURPOSE_JUDGMENTS_HP036_HP070_V1.json",
+      "bytes": 526443,
+      "sha256": "5b58a98f0fbbbdcde12638f38df6afc46d19bdd194da4fc04c61749808bfd0ae",
+      "git_blob_oid_of_actual_bytes": "87d9bd2c403882ee437dcd4719886ec0e42a4a20"
+    },
+    {
+      "private_witness_id": "HIROMI_PRE_METADATA_AUTHOR_COMPONENT_03_20261014_V1",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HIROMI_ART_COMMERCE_CHARACTER_RECEIVING_20261014_V1/HIROMI_CURRENT105_NEW_PURPOSE_JUDGMENTS_HP071_HP104_V1.json",
+      "bytes": 686375,
+      "sha256": "d9c61cd71ee9cd3b6e7d3fee43a6de72eca5ca7b96821f3b15ac47651e9b4b76",
+      "git_blob_oid_of_actual_bytes": "afe58962be010137e25053618e3525742ef9dcc5"
+    },
+    {
+      "private_witness_id": "HIROMI_PRE_METADATA_AUTHOR_COMPONENT_04_20261014_V1",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HIROMI_ART_COMMERCE_CHARACTER_RECEIVING_20261014_V1/HIROMI_CURRENT1_SOURCE_INPUT_AND_GRADE_RECEIVING_V1.json",
+      "bytes": 25239,
+      "sha256": "e0d73226c6fd567bd00e78eaf50f285d2bbe26b717fe044afd9aec2535261ef2",
+      "git_blob_oid_of_actual_bytes": "0203f285e20cb07d11c042578c571fd7c4aa20cd"
+    },
+    {
+      "private_witness_id": "HIROMI_PRE_METADATA_AUTHOR_COMPONENT_05_20261014_V1",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HIROMI_ART_COMMERCE_CHARACTER_RECEIVING_20261014_V1/HIROMI_CURRENT105_PURPOSE_INDEX_AND_AUTHOR_RECEIVING_V1.json",
+      "bytes": 191861,
+      "sha256": "333994b63e344cdc2a3fc5df3f54210d74f31902815e74499c4f262d9c7060d6",
+      "git_blob_oid_of_actual_bytes": "a8d3364d739aa615189d5eebfaa97c7745e86af9"
+    },
+    {
+      "private_witness_id": "HIROMI_PRE_METADATA_AUTHOR_COMPONENT_06_20261014_V1",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HIROMI_ART_COMMERCE_CHARACTER_RECEIVING_20261014_V1/HIROMI_CURRENT_LITERAL42_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+      "bytes": 415087,
+      "sha256": "f4787c690739cd509fb677eba7ce0576f9ea017f1cf73be8bd37360e6565fae1",
+      "git_blob_oid_of_actual_bytes": "d79ff6e271063a282cac882e8494bd96bcfaf2f8"
+    },
+    {
+      "private_witness_id": "HIROMI_PRE_METADATA_AUTHOR_COMPONENT_07_20261014_V1",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HIROMI_ART_COMMERCE_CHARACTER_RECEIVING_20261014_V1/HIROMI_CURRENT_SAVED_OUTPUT_AND_CONDITIONAL_TRANSPORT_RECEIPT_V1.json",
+      "bytes": 7597,
+      "sha256": "2988dd238dc7cda9cf9732409fbc88eceada85970d48dbee77d5db3ffc1dbfaf",
+      "git_blob_oid_of_actual_bytes": "f2bd3adc468d9e7dbdb50a4b9e7366367d3b2c39"
+    }
+  ],
+  "actual_signed_ROOT": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HIROMI_ART_COMMERCE_CHARACTER_RECEIVING_20261014_V1/HIROMI_ACTUAL_ROOT_COMPLETE42_NEW105_WHOLE139_SEMANTIC_ADOPTION_WITH_LIMITS_V1.json",
+    "bytes": 60783,
+    "sha256": "b354ef7482b51d8a06481a1c47e6fa9677bade5a10be8fba9ca78b36ab4da1bf",
+    "git_blob_oid_of_actual_bytes": "8d69dcfb7c84a08f77315b555d31ff4d5f8d7843",
+    "role": "Exact signed60783 original167/42/source139/new105 semantic acceptance; not these new metadata bytes."
+  },
+  "adequate_prior_body_QA": {
+    "private_witness_id": "HIROMI_BODY_ONLY_QA_69017_20261014_V1",
+    "bytes": 69017,
+    "sha256": "41fe5459ff24ea282ce4ce1646dd156e8e7b91eb74fbba8a1cfc63d93c5e3266",
+    "git_blob_oid_of_actual_bytes": "0a1954d73e8618fdbb837d851dcbc64565b72501"
+  },
+  "adequate_prior_components_QA": {
+    "private_witness_id": "HIROMI_COMPONENT_QA_294193_20261014_V1",
+    "bytes": 294193,
+    "sha256": "bff249eb4f5cd3df080c94b6d433d6034dae5aedefc8cf2782a07238b8fdbe7c",
+    "git_blob_oid_of_actual_bytes": "67d5a6dee27aa1f021fbae2a1a446de17b43ff15"
+  },
+  "adequate_prior_mechanical_QA": {
+    "private_witness_id": "HIROMI_COMPONENT_MECHANICS_13817_20261014_V1",
+    "bytes": 13817,
+    "sha256": "d8ff232bdb74bbb9ec1cadc250184790a072004bca9652b784517b18483d1b92",
+    "git_blob_oid_of_actual_bytes": "10e9bc53eb55a6acd12d8608095be4b9ec761db3"
+  },
+  "four_QA_public_derivatives": "HELD_UNTIL_SEPARATE_EXACT_NAMED_VALUE_APPROVAL_AND_CURRENT_FULL_RAW_INVERSES; originals stay private and their literary/source scopes unchanged.",
+  "current_source_grade_roles": "Author own maintained139 argument reuse and selected Hiromi context; reviewer original SELECTED maintained grade; ROOT actual whole139 reuse and complete167/42/525/current42 joins accepted. Producer12 primary/native/raw/AV and common26whole79selected remain attributed.",
+  "new_primary_source_admission_model_canonical_publication_runtime_credit": 0,
+  "adequate_prior_body_mechanical_QA": {
+    "private_witness_id": "HIROMI_BODY_MECHANICS_QA_14770_20261014_V1",
+    "bytes": 14770,
+    "sha256": "4a957eb590d91996f50e1868b4ace1ae39173ac404e4b6888f6c1dc63957e46f",
+    "git_blob_oid_of_actual_bytes": "df7dd9bb3230ee0867f381e9ce914d88c5bc3d9c"
+  },
+  "current_exact27_value_only_public_QA_derivatives_and_original167_roles_V2": {
+    "scope": "Only ROOT-approved27 delivered QA scalar values become their exact stable IDs. Every original key, alias, selector, meaning, reason, grade, count, decision and tuple remains literal. Original four raw QA files recover privately; no new literary/source QA credit.",
+    "actual_ROOT_exact27_approval": {
+      "private_witness_id": "ROOT_HIROMI_EXACT27_QA_VALUE_ONLY_APPROVAL_20261014_V1",
+      "bytes": 26321,
+      "sha256": "7897924039da87dd6fa69166f18dcb9588e133ff462ed532f4f29084f5704a15",
+      "git_blob_oid_of_actual_bytes": "a7641936f895758419cd57d52e6b3f5754f3b705"
+    },
+    "actual_outer_decision": "APPROVE_ONLY_THE_EXACT27_LISTED_LEAF_VALUES_TO_THE_EXACT_STABLE_IDS",
+    "retained_PROPOSED_row_labels": "Dated original inventory labels; actual outer ROOT APPROVE decision governs these exact27 values.",
+    "actual_four_QA_original_and_derivative_roles": [
+      {
+        "receipt_role": "body_manual",
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HIROMI_ART_COMMERCE_CHARACTER_RECEIVING_20261014_V1/INDEPENDENT_HIROMI_CURRENT167_FULL42_BODY_ONLY_CHARACTER16_RIVAL8_END16_GAP14_AND_SELECTED_SOURCE_LITERARY_QA_V1.json",
+        "original_dated_QA_tuple": {
+          "bytes": 69017,
+          "sha256": "41fe5459ff24ea282ce4ce1646dd156e8e7b91eb74fbba8a1cfc63d93c5e3266",
+          "git_blob_oid_of_actual_bytes": "0a1954d73e8618fdbb837d851dcbc64565b72501"
+        },
+        "actual_current_path_only_derivative_tuple": {
+          "bytes": 68014,
+          "sha256": "7ad6ba1669bdb84898308d731403bceac41a9a90d2436eb7faed2be67e194a8c",
+          "git_blob_oid_of_actual_bytes": "3283f61dfee7a85f7bcfa5bd3214e42efa558ede"
+        },
+        "value_operation_count": 4,
+        "whole_raw_NOOP": false,
+        "original_raw_recovery_private_witness_id": "HIROMI_QA_ORIGINAL_BODY_MANUAL_20261014_V1"
+      },
+      {
+        "receipt_role": "body_mechanical",
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HIROMI_ART_COMMERCE_CHARACTER_RECEIVING_20261014_V1/INDEPENDENT_HIROMI_CURRENT167_COMPLETE42_BODY_LITERAL_SOURCE_CUSTODY_AND_FULL_V1_RAW_INVERSE_MECHANICAL_RECEIPT_V1.json",
+        "original_dated_QA_tuple": {
+          "bytes": 14770,
+          "sha256": "4a957eb590d91996f50e1868b4ace1ae39173ac404e4b6888f6c1dc63957e46f",
+          "git_blob_oid_of_actual_bytes": "df7dd9bb3230ee0867f381e9ce914d88c5bc3d9c"
+        },
+        "actual_current_path_only_derivative_tuple": {
+          "bytes": 14770,
+          "sha256": "4a957eb590d91996f50e1868b4ace1ae39173ac404e4b6888f6c1dc63957e46f",
+          "git_blob_oid_of_actual_bytes": "df7dd9bb3230ee0867f381e9ce914d88c5bc3d9c"
+        },
+        "value_operation_count": 0,
+        "whole_raw_NOOP": true,
+        "original_raw_recovery_private_witness_id": "HIROMI_QA_ORIGINAL_BODY_MECHANICAL_20261014_V1"
+      },
+      {
+        "receipt_role": "component_manual",
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HIROMI_ART_COMMERCE_CHARACTER_RECEIVING_20261014_V1/INDEPENDENT_HIROMI_CURRENT167_LITERAL42_ALL105_NEW_FIVEFIELD_SOURCE1_EXACT8_COMPLETE_MANUAL_COMPONENT_REVIEW_V1.json",
+        "original_dated_QA_tuple": {
+          "bytes": 294193,
+          "sha256": "bff249eb4f5cd3df080c94b6d433d6034dae5aedefc8cf2782a07238b8fdbe7c",
+          "git_blob_oid_of_actual_bytes": "67d5a6dee27aa1f021fbae2a1a446de17b43ff15"
+        },
+        "actual_current_path_only_derivative_tuple": {
+          "bytes": 293332,
+          "sha256": "2f5f02b11faf244df4ab9d770de30da3d1ca7125c512c8f886d3684df24e73c6",
+          "git_blob_oid_of_actual_bytes": "ae916c95c25632a543292555cbfda451533f85d6"
+        },
+        "value_operation_count": 3,
+        "whole_raw_NOOP": false,
+        "original_raw_recovery_private_witness_id": "HIROMI_QA_ORIGINAL_COMPONENT_MANUAL_20261014_V1"
+      },
+      {
+        "receipt_role": "component_mechanical",
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HIROMI_ART_COMMERCE_CHARACTER_RECEIVING_20261014_V1/INDEPENDENT_HIROMI_CURRENT167_LITERAL42_NEW105_SOURCE1_EXACT8_COMPLETE_RAW_ENVELOPE_CURRENT_BINDINGS_AND_SCOPE_MECHANICAL_RECEIPT_V1.json",
+        "original_dated_QA_tuple": {
+          "bytes": 13817,
+          "sha256": "d8ff232bdb74bbb9ec1cadc250184790a072004bca9652b784517b18483d1b92",
+          "git_blob_oid_of_actual_bytes": "10e9bc53eb55a6acd12d8608095be4b9ec761db3"
+        },
+        "actual_current_path_only_derivative_tuple": {
+          "bytes": 11324,
+          "sha256": "b64583802ae21828b5ec99d06c79be0c3939cde46206cec8123a7faf93cb000e",
+          "git_blob_oid_of_actual_bytes": "6f6d0bb6d792bcda23e4da006e33216fa390eac5"
+        },
+        "value_operation_count": 20,
+        "whole_raw_NOOP": false,
+        "original_raw_recovery_private_witness_id": "HIROMI_QA_ORIGINAL_COMPONENT_MECHANICAL_20261014_V1"
+      }
+    ],
+    "actual27_opaque_witness_mappings": [
+      {
+        "receipt_role": "body_manual",
+        "original_QA_pointer": "/manifest/C_path",
+        "opaque_witness_id": "HIROMI-QA-CONTROL-b05ca40f4a29a5dd",
+        "original_QA_tuple": {
+          "bytes": 69017,
+          "sha256": "41fe5459ff24ea282ce4ce1646dd156e8e7b91eb74fbba8a1cfc63d93c5e3266",
+          "git_blob_oid_of_actual_bytes": "0a1954d73e8618fdbb837d851dcbc64565b72501"
+        }
+      },
+      {
+        "receipt_role": "body_manual",
+        "original_QA_pointer": "/body/C_path",
+        "opaque_witness_id": "HIROMI-QA-CONTROL-5be8eb2f08f4059f",
+        "original_QA_tuple": {
+          "bytes": 69017,
+          "sha256": "41fe5459ff24ea282ce4ce1646dd156e8e7b91eb74fbba8a1cfc63d93c5e3266",
+          "git_blob_oid_of_actual_bytes": "0a1954d73e8618fdbb837d851dcbc64565b72501"
+        }
+      },
+      {
+        "receipt_role": "body_manual",
+        "original_QA_pointer": "/actual_personal_selected_source_receiving/carrier/C_path",
+        "opaque_witness_id": "HIROMI-QA-CONTROL-d0acef481b9de91e",
+        "original_QA_tuple": {
+          "bytes": 69017,
+          "sha256": "41fe5459ff24ea282ce4ce1646dd156e8e7b91eb74fbba8a1cfc63d93c5e3266",
+          "git_blob_oid_of_actual_bytes": "0a1954d73e8618fdbb837d851dcbc64565b72501"
+        }
+      },
+      {
+        "receipt_role": "body_manual",
+        "original_QA_pointer": "/mechanical_receipt/C_path",
+        "opaque_witness_id": "HIROMI-QA-CONTROL-905ad05479e6fa24",
+        "original_QA_tuple": {
+          "bytes": 69017,
+          "sha256": "41fe5459ff24ea282ce4ce1646dd156e8e7b91eb74fbba8a1cfc63d93c5e3266",
+          "git_blob_oid_of_actual_bytes": "0a1954d73e8618fdbb837d851dcbc64565b72501"
+        }
+      },
+      {
+        "receipt_role": "component_manual",
+        "original_QA_pointer": "/manifest/path",
+        "opaque_witness_id": "HIROMI-QA-CONTROL-a9b259c42b255a9e",
+        "original_QA_tuple": {
+          "bytes": 294193,
+          "sha256": "bff249eb4f5cd3df080c94b6d433d6034dae5aedefc8cf2782a07238b8fdbe7c",
+          "git_blob_oid_of_actual_bytes": "67d5a6dee27aa1f021fbae2a1a446de17b43ff15"
+        }
+      },
+      {
+        "receipt_role": "component_manual",
+        "original_QA_pointer": "/adequate_prior_body_review_reused/path",
+        "opaque_witness_id": "HIROMI-QA-CONTROL-4576a2097a612d04",
+        "original_QA_tuple": {
+          "bytes": 294193,
+          "sha256": "bff249eb4f5cd3df080c94b6d433d6034dae5aedefc8cf2782a07238b8fdbe7c",
+          "git_blob_oid_of_actual_bytes": "67d5a6dee27aa1f021fbae2a1a446de17b43ff15"
+        }
+      },
+      {
+        "receipt_role": "component_manual",
+        "original_QA_pointer": "/independent_mechanical_evidence/path",
+        "opaque_witness_id": "HIROMI-QA-CONTROL-9e3a9e2edcaed712",
+        "original_QA_tuple": {
+          "bytes": 294193,
+          "sha256": "bff249eb4f5cd3df080c94b6d433d6034dae5aedefc8cf2782a07238b8fdbe7c",
+          "git_blob_oid_of_actual_bytes": "67d5a6dee27aa1f021fbae2a1a446de17b43ff15"
+        }
+      },
+      {
+        "receipt_role": "component_mechanical",
+        "original_QA_pointer": "/full_saved_check_segments/0/path",
+        "opaque_witness_id": "HIROMI-QA-CONTROL-965000492b7f49e7",
+        "original_QA_tuple": {
+          "bytes": 13817,
+          "sha256": "d8ff232bdb74bbb9ec1cadc250184790a072004bca9652b784517b18483d1b92",
+          "git_blob_oid_of_actual_bytes": "10e9bc53eb55a6acd12d8608095be4b9ec761db3"
+        }
+      },
+      {
+        "receipt_role": "component_mechanical",
+        "original_QA_pointer": "/full_saved_check_segments/1/path",
+        "opaque_witness_id": "HIROMI-QA-CONTROL-492363697bd10e94",
+        "original_QA_tuple": {
+          "bytes": 13817,
+          "sha256": "d8ff232bdb74bbb9ec1cadc250184790a072004bca9652b784517b18483d1b92",
+          "git_blob_oid_of_actual_bytes": "10e9bc53eb55a6acd12d8608095be4b9ec761db3"
+        }
+      },
+      {
+        "receipt_role": "component_mechanical",
+        "original_QA_pointer": "/full_saved_check_segments/2/path",
+        "opaque_witness_id": "HIROMI-QA-CONTROL-64d91c734369f8a7",
+        "original_QA_tuple": {
+          "bytes": 13817,
+          "sha256": "d8ff232bdb74bbb9ec1cadc250184790a072004bca9652b784517b18483d1b92",
+          "git_blob_oid_of_actual_bytes": "10e9bc53eb55a6acd12d8608095be4b9ec761db3"
+        }
+      },
+      {
+        "receipt_role": "component_mechanical",
+        "original_QA_pointer": "/full_saved_check_segments/3/path",
+        "opaque_witness_id": "HIROMI-QA-CONTROL-9dd6ea0ba350ec05",
+        "original_QA_tuple": {
+          "bytes": 13817,
+          "sha256": "d8ff232bdb74bbb9ec1cadc250184790a072004bca9652b784517b18483d1b92",
+          "git_blob_oid_of_actual_bytes": "10e9bc53eb55a6acd12d8608095be4b9ec761db3"
+        }
+      },
+      {
+        "receipt_role": "component_mechanical",
+        "original_QA_pointer": "/full_saved_check_segments/4/path",
+        "opaque_witness_id": "HIROMI-QA-CONTROL-4f9141683420d804",
+        "original_QA_tuple": {
+          "bytes": 13817,
+          "sha256": "d8ff232bdb74bbb9ec1cadc250184790a072004bca9652b784517b18483d1b92",
+          "git_blob_oid_of_actual_bytes": "10e9bc53eb55a6acd12d8608095be4b9ec761db3"
+        }
+      },
+      {
+        "receipt_role": "component_mechanical",
+        "original_QA_pointer": "/executed_original_recoveries/0/path",
+        "opaque_witness_id": "HIROMI-QA-CONTROL-a2d07073fc3b618e",
+        "original_QA_tuple": {
+          "bytes": 13817,
+          "sha256": "d8ff232bdb74bbb9ec1cadc250184790a072004bca9652b784517b18483d1b92",
+          "git_blob_oid_of_actual_bytes": "10e9bc53eb55a6acd12d8608095be4b9ec761db3"
+        }
+      },
+      {
+        "receipt_role": "component_mechanical",
+        "original_QA_pointer": "/executed_original_recoveries/1/path",
+        "opaque_witness_id": "HIROMI-QA-CONTROL-bfa3e616c5045c85",
+        "original_QA_tuple": {
+          "bytes": 13817,
+          "sha256": "d8ff232bdb74bbb9ec1cadc250184790a072004bca9652b784517b18483d1b92",
+          "git_blob_oid_of_actual_bytes": "10e9bc53eb55a6acd12d8608095be4b9ec761db3"
+        }
+      },
+      {
+        "receipt_role": "component_mechanical",
+        "original_QA_pointer": "/executed_original_recoveries/2/path",
+        "opaque_witness_id": "HIROMI-QA-CONTROL-56c08387092efed9",
+        "original_QA_tuple": {
+          "bytes": 13817,
+          "sha256": "d8ff232bdb74bbb9ec1cadc250184790a072004bca9652b784517b18483d1b92",
+          "git_blob_oid_of_actual_bytes": "10e9bc53eb55a6acd12d8608095be4b9ec761db3"
+        }
+      },
+      {
+        "receipt_role": "component_mechanical",
+        "original_QA_pointer": "/executed_original_recoveries/3/path",
+        "opaque_witness_id": "HIROMI-QA-CONTROL-723309976f97dec7",
+        "original_QA_tuple": {
+          "bytes": 13817,
+          "sha256": "d8ff232bdb74bbb9ec1cadc250184790a072004bca9652b784517b18483d1b92",
+          "git_blob_oid_of_actual_bytes": "10e9bc53eb55a6acd12d8608095be4b9ec761db3"
+        }
+      },
+      {
+        "receipt_role": "component_mechanical",
+        "original_QA_pointer": "/executed_original_recoveries/4/path",
+        "opaque_witness_id": "HIROMI-QA-CONTROL-f7a3c8b849ffbced",
+        "original_QA_tuple": {
+          "bytes": 13817,
+          "sha256": "d8ff232bdb74bbb9ec1cadc250184790a072004bca9652b784517b18483d1b92",
+          "git_blob_oid_of_actual_bytes": "10e9bc53eb55a6acd12d8608095be4b9ec761db3"
+        }
+      },
+      {
+        "receipt_role": "component_mechanical",
+        "original_QA_pointer": "/executed_original_recoveries/5/path",
+        "opaque_witness_id": "HIROMI-QA-CONTROL-f245fdfe7106ab81",
+        "original_QA_tuple": {
+          "bytes": 13817,
+          "sha256": "d8ff232bdb74bbb9ec1cadc250184790a072004bca9652b784517b18483d1b92",
+          "git_blob_oid_of_actual_bytes": "10e9bc53eb55a6acd12d8608095be4b9ec761db3"
+        }
+      },
+      {
+        "receipt_role": "component_mechanical",
+        "original_QA_pointer": "/executed_original_recoveries/6/path",
+        "opaque_witness_id": "HIROMI-QA-CONTROL-69c82944be546335",
+        "original_QA_tuple": {
+          "bytes": 13817,
+          "sha256": "d8ff232bdb74bbb9ec1cadc250184790a072004bca9652b784517b18483d1b92",
+          "git_blob_oid_of_actual_bytes": "10e9bc53eb55a6acd12d8608095be4b9ec761db3"
+        }
+      },
+      {
+        "receipt_role": "component_mechanical",
+        "original_QA_pointer": "/executed_original_recoveries/7/path",
+        "opaque_witness_id": "HIROMI-QA-CONTROL-80414f2ded253850",
+        "original_QA_tuple": {
+          "bytes": 13817,
+          "sha256": "d8ff232bdb74bbb9ec1cadc250184790a072004bca9652b784517b18483d1b92",
+          "git_blob_oid_of_actual_bytes": "10e9bc53eb55a6acd12d8608095be4b9ec761db3"
+        }
+      },
+      {
+        "receipt_role": "component_mechanical",
+        "original_QA_pointer": "/executed_original_recoveries/8/path",
+        "opaque_witness_id": "HIROMI-QA-CONTROL-4f44442a62c46623",
+        "original_QA_tuple": {
+          "bytes": 13817,
+          "sha256": "d8ff232bdb74bbb9ec1cadc250184790a072004bca9652b784517b18483d1b92",
+          "git_blob_oid_of_actual_bytes": "10e9bc53eb55a6acd12d8608095be4b9ec761db3"
+        }
+      },
+      {
+        "receipt_role": "component_mechanical",
+        "original_QA_pointer": "/executed_original_recoveries/9/path",
+        "opaque_witness_id": "HIROMI-QA-CONTROL-dfac1b7ac83bd6b9",
+        "original_QA_tuple": {
+          "bytes": 13817,
+          "sha256": "d8ff232bdb74bbb9ec1cadc250184790a072004bca9652b784517b18483d1b92",
+          "git_blob_oid_of_actual_bytes": "10e9bc53eb55a6acd12d8608095be4b9ec761db3"
+        }
+      },
+      {
+        "receipt_role": "component_mechanical",
+        "original_QA_pointer": "/executed_original_recoveries/10/path",
+        "opaque_witness_id": "HIROMI-QA-CONTROL-f2130a93b25ed49e",
+        "original_QA_tuple": {
+          "bytes": 13817,
+          "sha256": "d8ff232bdb74bbb9ec1cadc250184790a072004bca9652b784517b18483d1b92",
+          "git_blob_oid_of_actual_bytes": "10e9bc53eb55a6acd12d8608095be4b9ec761db3"
+        }
+      },
+      {
+        "receipt_role": "component_mechanical",
+        "original_QA_pointer": "/executed_original_recoveries/11/path",
+        "opaque_witness_id": "HIROMI-QA-CONTROL-b1b23982f6301c6c",
+        "original_QA_tuple": {
+          "bytes": 13817,
+          "sha256": "d8ff232bdb74bbb9ec1cadc250184790a072004bca9652b784517b18483d1b92",
+          "git_blob_oid_of_actual_bytes": "10e9bc53eb55a6acd12d8608095be4b9ec761db3"
+        }
+      },
+      {
+        "receipt_role": "component_mechanical",
+        "original_QA_pointer": "/executed_original_recoveries/12/path",
+        "opaque_witness_id": "HIROMI-QA-CONTROL-5fa1bb600fc1b257",
+        "original_QA_tuple": {
+          "bytes": 13817,
+          "sha256": "d8ff232bdb74bbb9ec1cadc250184790a072004bca9652b784517b18483d1b92",
+          "git_blob_oid_of_actual_bytes": "10e9bc53eb55a6acd12d8608095be4b9ec761db3"
+        }
+      },
+      {
+        "receipt_role": "component_mechanical",
+        "original_QA_pointer": "/executed_original_recoveries/13/path",
+        "opaque_witness_id": "HIROMI-QA-CONTROL-5e9d1df49eceba2c",
+        "original_QA_tuple": {
+          "bytes": 13817,
+          "sha256": "d8ff232bdb74bbb9ec1cadc250184790a072004bca9652b784517b18483d1b92",
+          "git_blob_oid_of_actual_bytes": "10e9bc53eb55a6acd12d8608095be4b9ec761db3"
+        }
+      },
+      {
+        "receipt_role": "component_mechanical",
+        "original_QA_pointer": "/executed_original_recoveries/14/path",
+        "opaque_witness_id": "HIROMI-QA-CONTROL-499f210a019dcc1c",
+        "original_QA_tuple": {
+          "bytes": 13817,
+          "sha256": "d8ff232bdb74bbb9ec1cadc250184790a072004bca9652b784517b18483d1b92",
+          "git_blob_oid_of_actual_bytes": "10e9bc53eb55a6acd12d8608095be4b9ec761db3"
+        }
+      }
+    ],
+    "old_custody_QA_held_member": "Exact prior interim creation statement retained. This current qualification records executed approved value-only derivatives, without regrading original167 QA or asserting current183 metadata QA.",
+    "composer_role": "Author of original Hiromi body/component QA and current metadata composer; current15 composition requires a different author, not self-independent acceptance."
+  },
+  "current_header183_exact_two_witness_ID_authority_resolution_V3": {
+    "schema": "HIROMI_METADATA183_EXACT_TWO_HEADER_WITNESS_ID_ACTUAL_AUTHORITY_MAP_V3",
+    "created_UTC": "2026-10-14T12:40:07.066004+00:00",
+    "scope": "Explicit resolution of the two literal witness IDs already present in the current183 body header. No header/body/analytical/QA/ROOT byte changes or new semantic review.",
+    "bindings": [
+      {
+        "exact_header_witness_id": "ROOT_HIROMI_CURRENT167_SIGNED_SEMANTIC_ADOPTION_20261014_V1",
+        "exact_body_header_key": "ROOT_semantic_adoption_witness_id",
+        "authority_kind": "ACTUAL_SIGNED_ORIGINAL167_SEMANTIC_ROOT_RECEIPT_EXACT_PUBLIC_RAW_NOOP",
+        "actual_root_public_receipt": {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HIROMI_ART_COMMERCE_CHARACTER_RECEIVING_20261014_V1/HIROMI_ACTUAL_ROOT_COMPLETE42_NEW105_WHOLE139_SEMANTIC_ADOPTION_WITH_LIMITS_V1.json",
+          "bytes": 60783,
+          "sha256": "b354ef7482b51d8a06481a1c47e6fa9677bade5a10be8fba9ca78b36ab4da1bf",
+          "git_blob_oid_of_actual_bytes": "8d69dcfb7c84a08f77315b555d31ff4d5f8d7843"
+        },
+        "actual_original_signed_receipt": {
+          "private_witness_id": "ROOT_HIROMI_CURRENT167_COMPLETE_PERSONAL_SOURCE_LITERAL42_NEW105_EXACT8_SIGNED_SEMANTIC_ADOPTION_20261014_V1",
+          "bytes": 60783,
+          "sha256": "b354ef7482b51d8a06481a1c47e6fa9677bade5a10be8fba9ca78b36ab4da1bf",
+          "git_blob_oid_of_actual_bytes": "8d69dcfb7c84a08f77315b555d31ff4d5f8d7843"
+        },
+        "signature": "SIGNED_BY_ROOT_AFTER_ACTUAL_COMPLETE_PERSONAL_SOURCE_BODY_PURPOSE_JOIN_QA_RECEIVING_AND_EXECUTED_RAW_PRESERVATION",
+        "decision": "ACCEPT_CURRENT_HIROMI_COMPLETE167_LITERAL42_NEW105_SOURCE1_EXACT8_EXISTING_CHARACTER_HOME_WITH_LIMITS_FOR_METADATA_ONLY_PUBLIC_COMPOSITION",
+        "role_limit": "Actual ROOT60783 accepts original167/42/new105525/source139/current original8 semantics with limits and authorizes metadata composition. It does not accept current183 metadata bytes, final15 composition or installation/publication/runtime."
+      },
+      {
+        "exact_header_witness_id": "HIROMI_CURRENT167_COMPLETE_COMPONENT_QA_294193_20261014_V1",
+        "exact_body_header_key": "adequate_original_component_QA_witness_id",
+        "authority_kind": "ORIGINAL_COMPLETE_COMPONENT_LITERARY_QA_PLUS_EXACT_ROOT_APPROVED_LOCATOR_ONLY_PUBLIC_DERIVATIVE",
+        "actual_original_adequate_component_QA": {
+          "private_witness_id": "HIROMI_COMPONENT_QA_294193_20261014_V1",
+          "bytes": 294193,
+          "sha256": "bff249eb4f5cd3df080c94b6d433d6034dae5aedefc8cf2782a07238b8fdbe7c",
+          "git_blob_oid_of_actual_bytes": "67d5a6dee27aa1f021fbae2a1a446de17b43ff15"
+        },
+        "actual_approved_public_locator_only_derivative": {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HIROMI_ART_COMMERCE_CHARACTER_RECEIVING_20261014_V1/INDEPENDENT_HIROMI_CURRENT167_LITERAL42_ALL105_NEW_FIVEFIELD_SOURCE1_EXACT8_COMPLETE_MANUAL_COMPONENT_REVIEW_V1.json",
+          "bytes": 293332,
+          "sha256": "2f5f02b11faf244df4ab9d770de30da3d1ca7125c512c8f886d3684df24e73c6",
+          "git_blob_oid_of_actual_bytes": "ae916c95c25632a543292555cbfda451533f85d6"
+        },
+        "approved_value_only_change_count": 3,
+        "original_decision": "PASS_WITH_LIMITS_COMPLETE_CURRENT_NEW105_AND_LITERAL_SOURCE_COMPONENT_REVIEW;ROOT_PERSONAL_RECEIVING_AND_ADOPTION_PENDING",
+        "role_limit": "Original294193 reviewed original167/body42/source10/current105/frozen preservation at its recorded source grades. Public293332 is exactly the approved three-leaf locator derivative, retaining every original reason, decision, count, tuple and grade. Neither grants a new whole183 literary review or current metadata-byte QA."
+      }
+    ],
+    "all_first13_unchanged": "The same body183, analytical8, four approved QA files and exact ROOT60783 are complete rawNOOPS from V2.",
+    "canonical_source_QA_grade_or_runtime_credit": 0
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "schema": "youjo-senki/tanya-interpretive-field-mapping/v1",
+  "status": "active_provisional",
+  "source_drive_id": "1i1Ov7u5yGciH55j-04LxIR4CWck61-KH",
+  "source_sha256": "1240953f6174375e64ddf1eb44af83954984a438c4b2fbc5d8869dabcf42ce68",
+  "source_header_fields": 45,
+  "field_mapping": {
+    "developmental_state": "condition.developmental_state",
+    "rank_role": "condition.rank_role",
+    "interlocutor": "condition.interlocutor",
+    "relationship_class": "condition.relationship_class",
+    "power_relation": "condition.power_relation",
+    "setting": "condition.setting",
+    "stakes": "condition.stakes",
+    "immediate_objective": "condition.immediate_objective",
+    "emotional_state": "condition.emotional_state",
+    "physical_state": "condition.physical_state",
+    "information_state": "condition.information_state",
+    "attention_target": "condition.attention_target",
+    "speech_act": "channels.public_speech.speech_act",
+    "communicative_objective": "channels.public_speech.communicative_objective",
+    "withheld_private_content": "channels.public_speech.withheld_private_content",
+    "speech_act_subtype": "channels.public_speech.speech_act_subtype",
+    "directness_level": "channels.public_speech.directness_level",
+    "politeness_register": "channels.public_speech.politeness_register",
+    "address_form": "channels.public_speech.address_form",
+    "disagreement_strategy": "channels.public_speech.disagreement_strategy",
+    "disclosure_level": "channels.public_speech.disclosure_level",
+    "humor_sarcasm_mode": "channels.public_speech.humor_sarcasm_mode",
+    "utterance_length_class": "channels.public_speech.utterance_length_class",
+    "register_observations": "channels.public_speech.register_observations",
+    "surface_voice_notes": "channels.public_speech.surface_voice_notes",
+    "character": "character",
+    "volume": "source.volume",
+    "diagnostic_id": "diagnostic_id",
+    "pov_source": "attribution.statement",
+    "private_appraisal": "channels.private_cognition.private_appraisal",
+    "observable_behavior": "channels.observable_behavior",
+    "external_interpretation": "channels.external_interpretation",
+    "institutional_consequence": "channels.institutional_consequence",
+    "evidence_mode": "evidence.modes_literal",
+    "evidence_class": "evidence.class_literal",
+    "confidence": "evidence.confidence",
+    "counterevidence_or_exception": "limits.counterevidence_or_exception",
+    "inference_ceiling": "limits.inference_ceiling",
+    "diagnostic_responsibility": "finding.paraphrase",
+    "review_status": "evidence.legacy_review_status"
+  },
+  "excluded_source_only_fields": [
+    "source_locator (Japanese anchor; tuple retained)",
+    "short_japanese_anchor"
+  ],
+  "parsed_route_fields": [
+    "source_locator_id",
+    "supporting_locators",
+    "source_candidate_ids"
+  ],
+  "microquotation_transformations": [
+    {
+      "diagnostic_id": "YS-TAN-CMR2-V02-025",
+      "source_field": "diagnostic_responsibility",
+      "source_cell_sha256": "cfa8ea2009a9b2152aea0bd389840c93c329cc203bf0df7dd7ef51c77a80a7fb",
+      "target_cell_sha256": "e3461da43014d551698d9eb95239174482e2add4568e0f04d11c02556d85f7d7",
+      "target_analytical_paraphrase": "The self-description as normal is explicitly about avoiding a reputation as a religious fanatic after Type 95 behavior, not evidence of sexual orientation.",
+      "bounded_written_voice_lexemes": [
+        "ノーマル"
+      ],
+      "transformation": "CONTEXTUAL_ENGLISH_PARAPHRASE_WITH_DIAGNOSTIC_SCOPED_LEXEMES",
+      "root_review": "SEMANTIC_MAPPING_ACCEPTED"
+    },
+    {
+      "diagnostic_id": "YS-TAN-CMR2-V03-025",
+      "source_field": "observable_behavior",
+      "source_cell_sha256": "912babf131391c8f05d30d7d93f021fff0849115c298d4da4d42545b52646db5",
+      "target_cell_sha256": "4120d1bc719ef2ef8dd9bedd43ccf455a10890a071233f00e9f773553016c0d7",
+      "target_analytical_paraphrase": "She replies that free alcohol is a problem because she is a coffee partisan, accepts the tea joke, then asks for the mission.",
+      "bounded_written_voice_lexemes": [
+        "珈琲党"
+      ],
+      "transformation": "CONTEXTUAL_ENGLISH_PARAPHRASE_WITH_DIAGNOSTIC_SCOPED_LEXEMES",
+      "root_review": "SEMANTIC_MAPPING_ACCEPTED"
+    },
+    {
+      "diagnostic_id": "YS-TAN-CMR2-V03-028",
+      "source_field": "observable_behavior",
+      "source_cell_sha256": "38aa3894b09fb4855382324e13270e472ff75a1dff19108927187ccdb4d61187",
+      "target_cell_sha256": "ae7911bd6da794264bf38dc042eead5e6220b0ceedd2a778e5c0cfe6985e56bf",
+      "target_analytical_paraphrase": "She catches herself, breathes, then begins a formal refusal in a controlled radio voice.",
+      "bounded_written_voice_lexemes": [
+        "承服"
+      ],
+      "transformation": "CONTEXTUAL_ENGLISH_PARAPHRASE_WITH_DIAGNOSTIC_SCOPED_LEXEMES",
+      "root_review": "SEMANTIC_MAPPING_ACCEPTED"
+    },
+    {
+      "diagnostic_id": "YS-TAN-CMR2-V05-006",
+      "source_field": "diagnostic_responsibility",
+      "source_cell_sha256": "22260e7aa388022cb0879f8b539f4e23a957245c1258e33da53d05c464cc4d0c",
+      "target_cell_sha256": "c6319ed23053951e4aa90f0d94a9f3b559aab0450e6b608823486690df79ea19",
+      "target_analytical_paraphrase": "When Uger signals a development alarming enough to make a teetotaling/strict officer wish for alcohol, Tanya keeps surprise internal and reduces the surface response to a calm head tilt and a brief questioning acknowledgment, then immediately recognizes Zettour’s strategic concern as reasonable.",
+      "bounded_written_voice_lexemes": [
+        "ふむ"
+      ],
+      "transformation": "CONTEXTUAL_ENGLISH_PARAPHRASE_WITH_DIAGNOSTIC_SCOPED_LEXEMES",
+      "root_review": "SEMANTIC_MAPPING_ACCEPTED"
+    },
+    {
+      "diagnostic_id": "YS-TAN-CMR2-V05-009",
+      "source_field": "diagnostic_responsibility",
+      "source_cell_sha256": "aaefa47a3a99e1faadc809fc725c442747bda1e56456c6064a9a5d8b4e64466b",
+      "target_cell_sha256": "12471926db566a209c6e20ddccb29fa58072b8b9e118d8feed05c4d14c9d7699",
+      "target_analytical_paraphrase": "Tanya does not share subordinates’ easy assumption of Imperial victory; the love-struck-maiden phrase is a simile for naïve certainty, after which she envies the sky’s permanence, refuses self-pity, and returns attention to work.",
+      "bounded_written_voice_lexemes": [
+        "恋する乙女"
+      ],
+      "transformation": "CONTEXTUAL_ENGLISH_PARAPHRASE_WITH_DIAGNOSTIC_SCOPED_LEXEMES",
+      "root_review": "SEMANTIC_MAPPING_ACCEPTED"
+    },
+    {
+      "diagnostic_id": "YS-TAN-CMR2-V05-020",
+      "source_field": "observable_behavior",
+      "source_cell_sha256": "976b46acbfb0fb2ec2581afed83a52683cc4b89471d9996884c8f3da430a9c28",
+      "target_cell_sha256": "1e7d57a2a5d21097786b2630f15baf4070e01a2dad130475a4080f8643b16b03",
+      "target_analytical_paraphrase": "She uses a polite frank-report opening, identifies the failure chain, distinguishes enemy from potential ally, and recommends local hunters over scentless hounds.",
+      "bounded_written_voice_lexemes": [
+        "率直",
+        "申し上げます"
+      ],
+      "transformation": "CONTEXTUAL_ENGLISH_PARAPHRASE_WITH_DIAGNOSTIC_SCOPED_LEXEMES",
+      "root_review": "SEMANTIC_MAPPING_ACCEPTED"
+    },
+    {
+      "diagnostic_id": "YS-TAN-CMR2-V05-026",
+      "source_field": "observable_behavior",
+      "source_cell_sha256": "e6f5d852009fe379d99b2d5bd979abc6db0fb2bcb3f7256964590d13fd2df48b",
+      "target_cell_sha256": "e9930056f39177f26e8b9181e9da9999eb93630785bd531f52786229a0684ec0",
+      "target_analytical_paraphrase": "She argues military-law and membership interpretations, listens when the guard gives a legal basis, then insists that she has a right to use it.",
+      "bounded_written_voice_lexemes": [
+        "権利"
+      ],
+      "transformation": "CONTEXTUAL_ENGLISH_PARAPHRASE_WITH_DIAGNOSTIC_SCOPED_LEXEMES",
+      "root_review": "SEMANTIC_MAPPING_ACCEPTED"
+    },
+    {
+      "diagnostic_id": "YS-TAN-CMR2-V05-035",
+      "source_field": "observable_behavior",
+      "source_cell_sha256": "16dbe990d9bb58d46edecaa49ad88f9ae9fa71f7ae960c9a3d0f2e797a54c343",
+      "target_cell_sha256": "d6f8eaeb27f5c4eed4e0e2df7021538b942a53f4042e7f5ad06c989eb7d48db9",
+      "target_analytical_paraphrase": "She listens to Weiss’s concern, privately values him as a rational opponent, and says that it is a good viewpoint before integrating the point into timing.",
+      "bounded_written_voice_lexemes": [
+        "視点",
+        "だな"
+      ],
+      "transformation": "CONTEXTUAL_ENGLISH_PARAPHRASE_WITH_DIAGNOSTIC_SCOPED_LEXEMES",
+      "root_review": "SEMANTIC_MAPPING_ACCEPTED"
+    },
+    {
+      "diagnostic_id": "YS-TAN-CMR2-V05-039",
+      "source_field": "observable_behavior",
+      "source_cell_sha256": "3186aab55d39fc1d51041b1d983a587eab91f3e0fe563f471c985342cfb7505d",
+      "target_cell_sha256": "ab2f3ae83510137d0952031687d16831aa38322d946eb5f42dc688792ddf9b5a",
+      "target_analytical_paraphrase": "She sings a sacred praise formula, smiles brightly, and appears delighted while annihilating threats; Visha reads pure fighting spirit beneath the smile.",
+      "bounded_written_voice_lexemes": [
+        "我"
+      ],
+      "transformation": "CONTEXTUAL_ENGLISH_PARAPHRASE_WITH_DIAGNOSTIC_SCOPED_LEXEMES",
+      "root_review": "SEMANTIC_MAPPING_ACCEPTED"
+    },
+    {
+      "diagnostic_id": "YS-TAN-CMR2-V05-050",
+      "source_field": "observable_behavior",
+      "source_cell_sha256": "8ac32fe6034bfed0138b00d9bf662ac1f34cd5eba7f52c5a40c11939f06234ae",
+      "target_cell_sha256": "bceb4b4c5ae4139a18027c6f2ec938a32a0e50b23f6e681d48936327cfb58f11",
+      "target_analytical_paraphrase": "She explicitly says that prejudgment should stop in view of Captain Meybert's case and recalls Grantz/Weiss growth as broader counterevidence.",
+      "bounded_written_voice_lexemes": [
+        "予断"
+      ],
+      "transformation": "CONTEXTUAL_ENGLISH_PARAPHRASE_WITH_DIAGNOSTIC_SCOPED_LEXEMES",
+      "root_review": "SEMANTIC_MAPPING_ACCEPTED"
+    },
+    {
+      "diagnostic_id": "YS-TAN-CMR2-V11-005",
+      "source_field": "observable_behavior",
+      "source_cell_sha256": "2037d76ea3347f78e41bd5bdc0ad7a8d90c89bfb0f6dcc31ee368f9ee79e31f3",
+      "target_cell_sha256": "b1bfcb204b46ef476b4288b3b3bf24a28f0757d66aa10615c6f958c6909cf38e",
+      "target_analytical_paraphrase": "She offers an apologetic tentative statement of difficulty and leaves feasibility unresolved.",
+      "bounded_written_voice_lexemes": [
+        "失礼ですが",
+        "かと"
+      ],
+      "transformation": "CONTEXTUAL_ENGLISH_PARAPHRASE_WITH_DIAGNOSTIC_SCOPED_LEXEMES",
+      "root_review": "SEMANTIC_MAPPING_ACCEPTED"
+    },
+    {
+      "diagnostic_id": "YS-TAN-CMR2-V11-017",
+      "source_field": "inference_ceiling",
+      "source_cell_sha256": "7aaea9c82f317186e87ab2708c948563eb3f3ab62cb787e8069d6e8e3d54dfa6",
+      "target_cell_sha256": "8d4dd97144fe2f6ad10de2796b3b98b5521e4702ed2a0fb35a4b43eef5e86c06",
+      "target_analytical_paraphrase": "The peace-lover self-description here constrains bloodlust reconstructions but does not establish absolute pacifism; Tanya explicitly remains a soldier.",
+      "bounded_written_voice_lexemes": [
+        "平和主義者"
+      ],
+      "transformation": "CONTEXTUAL_ENGLISH_PARAPHRASE_WITH_DIAGNOSTIC_SCOPED_LEXEMES",
+      "root_review": "SEMANTIC_MAPPING_ACCEPTED"
+    },
+    {
+      "diagnostic_id": "YS-TAN-CMR2-V11-017",
+      "source_field": "diagnostic_responsibility",
+      "source_cell_sha256": "074613faf07c7708bac47732f015148d030ff84bae8cdadf1d77116d5afcec71",
+      "target_cell_sha256": "95286ea654ca6fd1fcd208b7c02d16a410be83937401f51b875e30109283616c",
+      "target_analytical_paraphrase": "Tanya explicitly calls herself a peace-lover in a scene that immediately distinguishes love of order/peace from pacifism: she remains willing to perform lawful military killing while rejecting killing for pleasure or waste.",
+      "bounded_written_voice_lexemes": [
+        "平和主義者"
+      ],
+      "transformation": "CONTEXTUAL_ENGLISH_PARAPHRASE_WITH_DIAGNOSTIC_SCOPED_LEXEMES",
+      "root_review": "SEMANTIC_MAPPING_ACCEPTED"
+    },
+    {
+      "diagnostic_id": "YS-TAN-CMR2-V11-018",
+      "source_field": "withheld_private_content",
+      "source_cell_sha256": "3f608efdf6721a983c588a0e00dc6c358db7337e79c3c5dec8e132613eae051f",
+      "target_cell_sha256": "4aba00d4202dcc49bf304d1dc0bc29167a5fcaa2e2c0655f17a773c570fb1fe6",
+      "target_analytical_paraphrase": "work commensurate with pay and explicit employment/compensation framing.",
+      "bounded_written_voice_lexemes": [
+        "給料分"
+      ],
+      "transformation": "CONTEXTUAL_ENGLISH_PARAPHRASE_WITH_DIAGNOSTIC_SCOPED_LEXEMES",
+      "root_review": "SEMANTIC_MAPPING_ACCEPTED"
+    },
+    {
+      "diagnostic_id": "YS-TAN-CMR2-V11-026",
+      "source_field": "observable_behavior",
+      "source_cell_sha256": "8ce206e7f40989dea2522693c325bce290bbcbd29cb2f8637f2ee0e54dea8cb2",
+      "target_cell_sha256": "3efcc6d952e6834e700560d480c207e9f3590f086dd37d407d8887a97f35ba9e",
+      "target_analytical_paraphrase": "She asks whether proceeding is acceptable, waits for confirmation, then accepts the mission formally.",
+      "bounded_written_voice_lexemes": [
+        "よろしい"
+      ],
+      "transformation": "CONTEXTUAL_ENGLISH_PARAPHRASE_WITH_DIAGNOSTIC_SCOPED_LEXEMES",
+      "root_review": "SEMANTIC_MAPPING_ACCEPTED"
+    },
+    {
+      "diagnostic_id": "YS-TAN-CMR2-V11-032",
+      "source_field": "observable_behavior",
+      "source_cell_sha256": "956fc5a22a710900ee635328964e865ee4df12cdc8905bd456ed25be9840bc62",
+      "target_cell_sha256": "3654f7952c39ddeee960cb20bb1fadfbe7901386fe40215dcf2ced6b0b891ea5",
+      "target_analytical_paraphrase": "She orders a breakthrough framed as retaliation, fires bounded symbolic retaliation, and declines unsafe pursuit.",
+      "bounded_written_voice_lexemes": [
+        "ぞ",
+        "報復戦"
+      ],
+      "transformation": "CONTEXTUAL_ENGLISH_PARAPHRASE_WITH_DIAGNOSTIC_SCOPED_LEXEMES",
+      "root_review": "SEMANTIC_MAPPING_ACCEPTED"
+    },
+    {
+      "diagnostic_id": "YS-TAN-CMR2-V11-038",
+      "source_field": "observable_behavior",
+      "source_cell_sha256": "c6ac900ea64b18ff8f60e7a4239756628170f80e81b85cb264f65b01ff50f5d4",
+      "target_cell_sha256": "6a7750515ff3756195ca54090f852b4e2ddeecda253f64c2d6ddb86706fa1f8b",
+      "target_analytical_paraphrase": "Tanya asks for pasta preparation instructions; Lergen answers in kind; she closes with an obedience formula conditional on the order.",
+      "bounded_written_voice_lexemes": [
+        "ご命令",
+        "とあれば"
+      ],
+      "transformation": "CONTEXTUAL_ENGLISH_PARAPHRASE_WITH_DIAGNOSTIC_SCOPED_LEXEMES",
+      "root_review": "SEMANTIC_MAPPING_ACCEPTED"
+    }
+  ],
+  "grammar_review": "Four exact root-requested grammar repairs are incorporated in target cells; no other substantive field changed.",
+  "review_basis": "INHERITED_V01_V12_SOURCE_ADJUDICATION; EXACT_LOCATOR_AND_HASH_REVALIDATED; NOT_FULL_REOPEN_IN_THIS_PORT",
+  "source_hash_contract": "Cell digests hash UTF-8 bytes of exact string values, without an appended newline. Original source values remain recoverable from the frozen Drive index; novel quotation strings are not replicated here."
+}

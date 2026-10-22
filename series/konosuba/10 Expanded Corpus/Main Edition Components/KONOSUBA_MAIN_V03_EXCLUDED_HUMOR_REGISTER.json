@@ -1,0 +1,255 @@
+{
+  "schema": "KONOSUBA_MAIN03_EXCLUDED_SELECTED_HUMOR_V1",
+  "source_id": "MAIN-03",
+  "records": [
+    {
+      "id": "M03EX-H01",
+      "boundary": {
+        "component_id": "MAIN-03-U028",
+        "start_P": 1,
+        "end_P": 6
+      },
+      "whole_selected_premise": "A request to hit Darkness is followed by an immediate public slap and her objection to this location.",
+      "primary_L": "L1",
+      "L_rationale": "The actual request/act/scope mismatch is portable; no prior all-location permission or prior explicit ban is invented.",
+      "source_plane": "DIRECT_BONUS_WITH_KAZUMA_FOCALIZATION",
+      "primary_H": "H1",
+      "H_rationale": "Actual acts, speech, attributed reports and causal hypotheses retain their separate scope; imagined harm or unfinished plans are not promoted to completed acts.",
+      "eligibility_and_limits": "Purposefully selected overlapping post-seal contexts, not a census, independent trial count, statistical accuracy or permission to erase pain/refusal.",
+      "native_member": "item/xhtml/p-018.xhtml",
+      "native_member_sha256": "f79dcc8a2107ded5302e0b462bcc7f761ac3d3f01237e6313e2e1c031357edb5",
+      "formal_assignment_after_seal_utc": "2026-10-19T07:45:42.735968+00:00",
+      "source_first_selection_precision": "Purposeful boundary selected after complete uncoded excluded-resource reception; original notes preserved. Not preselected independent windows or a population."
+    },
+    {
+      "id": "M03EX-H02",
+      "boundary": {
+        "component_id": "MAIN-03-U028",
+        "start_P": 7,
+        "end_P": 11
+      },
+      "whole_selected_premise": "Kazuma's special-ticket urgency becomes a hurried denial and topic shift when Darkness asks about overnight visits.",
+      "primary_L": "L1",
+      "L_rationale": "Pragmatic embarrassment and deflection survive translation; the source does not independently explain every overnight absence.",
+      "source_plane": "DIRECT_SPEECH_AND_KAZUMA_SELF_NARRATION",
+      "primary_H": "H1",
+      "H_rationale": "Actual acts, speech, attributed reports and causal hypotheses retain their separate scope; imagined harm or unfinished plans are not promoted to completed acts.",
+      "eligibility_and_limits": "Purposefully selected overlapping post-seal contexts, not a census, independent trial count, statistical accuracy or permission to erase pain/refusal.",
+      "native_member": "item/xhtml/p-018.xhtml",
+      "native_member_sha256": "f79dcc8a2107ded5302e0b462bcc7f761ac3d3f01237e6313e2e1c031357edb5",
+      "formal_assignment_after_seal_utc": "2026-10-19T07:45:42.735968+00:00",
+      "source_first_selection_precision": "Purposeful boundary selected after complete uncoded excluded-resource reception; original notes preserved. Not preselected independent windows or a population."
+    },
+    {
+      "id": "M03EX-H03",
+      "boundary": {
+        "component_id": "MAIN-03-U028",
+        "start_P": 13,
+        "end_P": 26
+      },
+      "whole_selected_premise": "Darkness's remembered sleep and imagined exposure give way to a serious wish to help a possibly lost friendly spirit rather than have it killed.",
+      "primary_L": "L1",
+      "L_rationale": "Different actual/report/imagined planes, not a completed assault or independently proved benign species law.",
+      "source_plane": "ATTRIBUTED_MORNING_EXPERIENCE_AND_CURRENT_HELP_CHOICE",
+      "primary_H": "H1",
+      "H_rationale": "Actual acts, speech, attributed reports and causal hypotheses retain their separate scope; imagined harm or unfinished plans are not promoted to completed acts.",
+      "eligibility_and_limits": "Purposefully selected overlapping post-seal contexts, not a census, independent trial count, statistical accuracy or permission to erase pain/refusal.",
+      "native_member": "item/xhtml/p-018.xhtml",
+      "native_member_sha256": "f79dcc8a2107ded5302e0b462bcc7f761ac3d3f01237e6313e2e1c031357edb5",
+      "formal_assignment_after_seal_utc": "2026-10-19T07:45:42.735968+00:00",
+      "source_first_selection_precision": "Purposeful boundary selected after complete uncoded excluded-resource reception; original notes preserved. Not preselected independent windows or a population."
+    },
+    {
+      "id": "M03EX-H04",
+      "boundary": {
+        "component_id": "MAIN-03-U028",
+        "start_P": 28,
+        "end_P": 39
+      },
+      "whole_selected_premise": "An expedition undertaken under Kazuma's event deadline leads to a ruler-attraction hypothesis and an unperformed possible-mediator plan.",
+      "primary_L": "L1",
+      "L_rationale": "The information/role inference is portable; Aqua causation and completed contact remain unproved.",
+      "source_plane": "DIRECT_FOREST_ENCOUNTER_AND_ACTOR_HYPOTHESES",
+      "primary_H": "H1",
+      "H_rationale": "Actual acts, speech, attributed reports and causal hypotheses retain their separate scope; imagined harm or unfinished plans are not promoted to completed acts.",
+      "eligibility_and_limits": "Purposefully selected overlapping post-seal contexts, not a census, independent trial count, statistical accuracy or permission to erase pain/refusal.",
+      "native_member": "item/xhtml/p-018.xhtml",
+      "native_member_sha256": "f79dcc8a2107ded5302e0b462bcc7f761ac3d3f01237e6313e2e1c031357edb5",
+      "formal_assignment_after_seal_utc": "2026-10-19T07:45:42.735968+00:00",
+      "source_first_selection_precision": "Purposeful boundary selected after complete uncoded excluded-resource reception; original notes preserved. Not preselected independent windows or a population."
+    },
+    {
+      "id": "M03EX-H05",
+      "boundary": {
+        "component_id": "MAIN-03-U028",
+        "start_P": 40,
+        "end_P": 43
+      },
+      "whole_selected_premise": "A shouted sleep-means-death alarm wakes Darkness through a slap; she denies the fatal premise and revises the requested intensity.",
+      "primary_L": "L1",
+      "L_rationale": "Alarm, literal correction and preference variation are distinct functions without Japanese-only dependence.",
+      "source_plane": "DIRECT_BONUS_WITH_KAZUMA_FOCALIZATION",
+      "primary_H": "H1",
+      "H_rationale": "Actual acts, speech, attributed reports and causal hypotheses retain their separate scope; imagined harm or unfinished plans are not promoted to completed acts.",
+      "eligibility_and_limits": "Purposefully selected overlapping post-seal contexts, not a census, independent trial count, statistical accuracy or permission to erase pain/refusal.",
+      "native_member": "item/xhtml/p-018.xhtml",
+      "native_member_sha256": "f79dcc8a2107ded5302e0b462bcc7f761ac3d3f01237e6313e2e1c031357edb5",
+      "formal_assignment_after_seal_utc": "2026-10-19T07:45:42.735968+00:00",
+      "source_first_selection_precision": "Purposeful boundary selected after complete uncoded excluded-resource reception; original notes preserved. Not preselected independent windows or a population."
+    },
+    {
+      "id": "M03EX-H06",
+      "boundary": {
+        "component_id": "MAIN-03-U028",
+        "start_P": 44,
+        "end_P": 48
+      },
+      "whole_selected_premise": "Darkness wakes Kazuma with a painful punch, and their reciprocal wake-up method becomes a loop he recognizes is not solving the problem.",
+      "primary_L": "L1",
+      "L_rationale": "Actual recovery attempts and pain coexist with persistent hazard; no whole-operation success or harmlessness.",
+      "source_plane": "DIRECT_MUTUAL_WAKE_ATTEMPTS",
+      "primary_H": "H1",
+      "H_rationale": "Actual acts, speech, attributed reports and causal hypotheses retain their separate scope; imagined harm or unfinished plans are not promoted to completed acts.",
+      "eligibility_and_limits": "Purposefully selected overlapping post-seal contexts, not a census, independent trial count, statistical accuracy or permission to erase pain/refusal.",
+      "native_member": "item/xhtml/p-018.xhtml",
+      "native_member_sha256": "f79dcc8a2107ded5302e0b462bcc7f761ac3d3f01237e6313e2e1c031357edb5",
+      "formal_assignment_after_seal_utc": "2026-10-19T07:45:42.735968+00:00",
+      "source_first_selection_precision": "Purposeful boundary selected after complete uncoded excluded-resource reception; original notes preserved. Not preselected independent windows or a population."
+    },
+    {
+      "id": "M03EX-H07",
+      "boundary": {
+        "component_id": "MAIN-03-U028",
+        "start_P": 49,
+        "end_P": 57
+      },
+      "whole_selected_premise": "The singing siren wears earplugs; removing them triggers awareness, a startled response and an evening tableau in which she too sleeps.",
+      "primary_L": "L1",
+      "L_rationale": "The self-affecting resource reversal is portable; strong-song causation is Kazuma's inference and no malicious intent is supplied.",
+      "source_plane": "DIRECT_OBSERVATIONS_WITH_CAUSAL_INFERENCE",
+      "primary_H": "H1",
+      "H_rationale": "Actual acts, speech, attributed reports and causal hypotheses retain their separate scope; imagined harm or unfinished plans are not promoted to completed acts.",
+      "eligibility_and_limits": "Purposefully selected overlapping post-seal contexts, not a census, independent trial count, statistical accuracy or permission to erase pain/refusal.",
+      "native_member": "item/xhtml/p-018.xhtml",
+      "native_member_sha256": "f79dcc8a2107ded5302e0b462bcc7f761ac3d3f01237e6313e2e1c031357edb5",
+      "formal_assignment_after_seal_utc": "2026-10-19T07:45:42.735968+00:00",
+      "source_first_selection_precision": "Purposeful boundary selected after complete uncoded excluded-resource reception; original notes preserved. Not preselected independent windows or a population."
+    },
+    {
+      "id": "M03EX-H08",
+      "boundary": {
+        "component_id": "MAIN-03-U028",
+        "start_P": 55,
+        "end_P": 62
+      },
+      "whole_selected_premise": "Evening awakening renews Kazuma's unfinished mediator plan, then exposes the lost opportunity to attend his shop's tournament.",
+      "primary_L": "L1",
+      "L_rationale": "Competing ordinary goal and lost time remain actual; no tournament participation or chance-game loss is shown.",
+      "source_plane": "DIRECT_OUTCOME_AND_UNPERFORMED_PLAN",
+      "primary_H": "H1",
+      "H_rationale": "Actual acts, speech, attributed reports and causal hypotheses retain their separate scope; imagined harm or unfinished plans are not promoted to completed acts.",
+      "eligibility_and_limits": "Purposefully selected overlapping post-seal contexts, not a census, independent trial count, statistical accuracy or permission to erase pain/refusal.",
+      "native_member": "item/xhtml/p-018.xhtml",
+      "native_member_sha256": "f79dcc8a2107ded5302e0b462bcc7f761ac3d3f01237e6313e2e1c031357edb5",
+      "formal_assignment_after_seal_utc": "2026-10-19T07:45:42.735968+00:00",
+      "source_first_selection_precision": "Purposeful boundary selected after complete uncoded excluded-resource reception; original notes preserved. Not preselected independent windows or a population."
+    },
+    {
+      "id": "M03EX-H09",
+      "boundary": {
+        "component_id": "MAIN-03-U011",
+        "image_id": "MAIN-03-IMG010"
+      },
+      "whole_selected_premise": "The staged defense roster offers divine confidence, clan intelligence and bodily endurance as legal resources; Kazuma repeatedly asks for less help and a change.",
+      "primary_L": "L1",
+      "L_rationale": "Unfit-role reasoning is portable; the local ヒキニート/カズマ double designation is separately qualified as a nested script/ruby effect.",
+      "source_plane": "STAGED_RASTER_DEFENSE_PROFILE",
+      "primary_H": "H4",
+      "H_rationale": "Explicit staged/profile/promotion or embedded imagined plane is retained without converting represented acts into new literal mainline behavior.",
+      "eligibility_and_limits": "Purposefully selected overlapping post-seal contexts, not a census, independent trial count, statistical accuracy or permission to erase pain/refusal.",
+      "nested_specific_form": {
+        "form": "ヒキニート《カズマ》",
+        "current_L_class": "L3",
+        "warrant": "This particular written insult carries the proper-name reading カズマ. Its dual designation depends on the script/reading arrangement; the larger role-mismatch joke remains L1."
+      },
+      "native_image_sha256": "642e4afcd141da55a08cfa04138b646b6852613099c7bf0a8e3eb877fa02b69c",
+      "native_member": "item/xhtml/p-001.xhtml",
+      "native_member_sha256": "4ee50b170e4187c87e2f854c39e7ec0e6f5efb738bb00d5e46bd5cf8839ba944",
+      "formal_assignment_after_seal_utc": "2026-10-19T07:45:42.735968+00:00",
+      "source_first_selection_precision": "Purposeful boundary selected after complete uncoded excluded-resource reception; original notes preserved. Not preselected independent windows or a population."
+    },
+    {
+      "id": "M03EX-H10",
+      "boundary": {
+        "component_id": "MAIN-03-U012",
+        "image_id": "MAIN-03-IMG011"
+      },
+      "whole_selected_premise": "Sena's staged witness request receives Chris's hesitant agreement, a meaningful pause before Dust and an insult that draws him back into agreement.",
+      "primary_L": "L1",
+      "L_rationale": "Status/face-sensitive recruitment is portable; staged acceptance is not new actual testimony or a prosecutor motive diagnosis.",
+      "source_plane": "STAGED_RASTER_PROSECUTION_PROFILE",
+      "primary_H": "H4",
+      "H_rationale": "Explicit staged/profile/promotion or embedded imagined plane is retained without converting represented acts into new literal mainline behavior.",
+      "eligibility_and_limits": "Purposefully selected overlapping post-seal contexts, not a census, independent trial count, statistical accuracy or permission to erase pain/refusal.",
+      "native_image_sha256": "64b2a19a8ba874e23dd9bc26b9dfabacb9f80f519e581fe3d6b32eec59ecb75d",
+      "native_member": "item/xhtml/p-002.xhtml",
+      "native_member_sha256": "51239d7712353358321674ef04d3718eb8c474a2575d7877b21a7c160b61201a",
+      "formal_assignment_after_seal_utc": "2026-10-19T07:45:42.735968+00:00",
+      "source_first_selection_precision": "Purposeful boundary selected after complete uncoded excluded-resource reception; original notes preserved. Not preselected independent windows or a population."
+    },
+    {
+      "id": "M03EX-H11",
+      "boundary": {
+        "component_id": "MAIN-03-U019",
+        "image_id": "MAIN-03-IMG019"
+      },
+      "whole_selected_premise": "An imagined severe consequence expands Kazuma's real threat into chained master-address panels, then the actual prose returns to Darkness collapsing at the training ground.",
+      "primary_L": "L1",
+      "L_rationale": "The fantasy/actual-continuity contrast is portable; focalizer attribution is inferred from Darkness's preceding anticipation.",
+      "source_plane": "EMBEDDED_IMAGE_ONLY_IMAGINED_CONSEQUENCE",
+      "primary_H": "H4",
+      "H_rationale": "Explicit staged/profile/promotion or embedded imagined plane is retained without converting represented acts into new literal mainline behavior.",
+      "eligibility_and_limits": "Purposefully selected overlapping post-seal contexts, not a census, independent trial count, statistical accuracy or permission to erase pain/refusal.",
+      "additional_boundaries": [
+        {
+          "component_id": "MAIN-03-U020",
+          "image_id": "MAIN-03-IMG020",
+          "native_member": "item/xhtml/p-010.xhtml",
+          "native_member_sha256": "830fc7819b96749b6be590e651bb769a9ac1a1b2c5cb46579fd7120f19c7d555",
+          "native_image_sha256": "591307ca024d0acc9113fef61964d65fea4405900b7175fcdfa17cddf16f0584"
+        }
+      ],
+      "retained_context_joins": [
+        "MAIN-03-U018:P0650-0680",
+        "MAIN-03-U021:P0001-0020"
+      ],
+      "image_narrative_group": "MAIN03-IMAGE-ONLY-ANTICIPATED-COERCION",
+      "native_image_sha256": "e75c1c04368b18c9f1a606215af7cdc7deb937beeec09a6337cb616a8b69ad22",
+      "native_member": "item/xhtml/p-009.xhtml",
+      "native_member_sha256": "1b5c0ae6d28c786c9b4d843e73520f26ac170f7fca5091c0e1514c96e6a12143",
+      "formal_assignment_after_seal_utc": "2026-10-19T07:45:42.735968+00:00",
+      "source_first_selection_precision": "Purposeful boundary selected after complete uncoded excluded-resource reception; original notes preserved. Not preselected independent windows or a population."
+    },
+    {
+      "id": "M03EX-H12",
+      "boundary": {
+        "component_id": "MAIN-03-U026",
+        "image_id": "MAIN-03-IMG024"
+      },
+      "whole_selected_premise": "The NEXT script turns wealth-enabled idleness and an old-wound excuse into an Arcanretia hot-spring proposal and Aqua's performance promise.",
+      "primary_L": "L1",
+      "L_rationale": "Competing wants and excuse framing survive translation; the proposed trip and persistent injury are not enacted here.",
+      "source_plane": "PROMOTIONAL_PREVIEW_SCRIPT",
+      "primary_H": "H4",
+      "H_rationale": "Explicit staged/profile/promotion or embedded imagined plane is retained without converting represented acts into new literal mainline behavior.",
+      "eligibility_and_limits": "Purposefully selected overlapping post-seal contexts, not a census, independent trial count, statistical accuracy or permission to erase pain/refusal.",
+      "native_image_sha256": "f535be046d7d0cd5b1594a5ad3fce84fc8104813cf467e7aa487c8742785c37d",
+      "native_member": "item/xhtml/p-016.xhtml",
+      "native_member_sha256": "b744284b92a36c619b47fd7ab3b9dfa7c01e0c5ca25ab5430284e55e381da369",
+      "formal_assignment_after_seal_utc": "2026-10-19T07:45:42.735968+00:00",
+      "source_first_selection_precision": "Purposeful boundary selected after complete uncoded excluded-resource reception; original notes preserved. Not preselected independent windows or a population."
+    }
+  ],
+  "H_protocol": "H1 actual acts/speech or attributed report at its stated plane; H4 explicit staged/profile/promotion or embedded imagined framing, not new literal mainline events. Fantasy or unperformed intention is not automatic H3/H4.",
+  "L_protocol": "Whole effect and nested written form are distinguished. Ordinary idiom, honorific, ruby and game vocabulary do not automatically create central Japanese-only dependence. Selected contexts overlap and are not a census."
+}

@@ -1,0 +1,303 @@
+{
+ "public_derivative_provenance": {
+  "current_required_scope": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+  "current_ROOT_scope_acceptance": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_SCOPE_ROOT_ACCEPTANCE_V3.json",
+  "historical_status_rule": "Original pending/proposed/count fields below retain their dated witness scope. ROOT V3 accepts the preserved responsibilities with ten original operations, one duplicate absorption and five legacy-tracker allocations. Historical V2 N353/26 remains immutable; current required successor is355/29.",
+  "source_translation_rule": "Repository-relative, external-selected-corpus and immutable-local-custody references replace machine paths. Exact frozen byte/hash/blob tuples bind original payloads; these translated files have separately bound derivative tuples. Private witnesses are not publicly served.",
+  "written_source_qualification": "Written Japanese admitted pin a038020f1f5ac02dcfe76962426d38f86414cdd8 / BA_REFRESH_20260928T032248159554Z; literal raw actor/locale/choice/report and conditional written modes retain original qualifications. No performed audiovisual receiving is claimed.",
+  "credit_rule": "Mechanical translation supplies zero new primary, performance, analytical-argument receiving or completed literary package credit.",
+  "original_input_reference": "immutable-local-custody://PHASE3_START_20261009/ROOT_VALKYRIE3_DECISION_REGISTER_V2.json",
+  "original_frozen_binding": {
+   "bytes": 15188,
+   "sha256": "0d3683af714e8a77255063d1a5beb9078ffc3a8320ead9821f95489e12010d9c",
+   "git_blob_sha1": "091794d08a88e462d8f0ba2fbc2a3837598d0523"
+  }
+ },
+ "historical_payload": {
+  "status": "ROOT_SUBSTANTIVE_ELIGIBILITY_CANONICAL_ADOPTION_PENDING",
+  "character_decisions": [
+   {
+    "subject": "Kanna",
+    "candidate_unit_id": "P3-F058",
+    "linked_dated_route": "P3-A009",
+    "raw_identity": "BA_PERSON_CH0170",
+    "literal_variants": [
+     "20023",
+     "10096"
+    ],
+    "selected_bounds": {
+     "BOND": 7,
+     "whole_MomoTalk": 7,
+     "written": 3
+    },
+    "count_meaning": "retrieval not eligibility/persons/packages",
+    "decision": "POSITIVE_SCOPED_INDEPENDENT_CHARACTER_ELIGIBILITY",
+    "required_package": "P3-CHAR-KANNA-CH0170",
+    "complete_argument": "ROOT_VALKYRIE3_ELIGIBILITY_ARGUMENT_V2.md section3",
+    "eleven_dimension_feasibility": [
+     {
+      "dimension": "Thesis",
+      "argument_and_boundary": "Authority's public legibility and chosen ordinary life; competence, fear and image management vary with recipients."
+     },
+     {
+      "dimension": "Longitudinal development",
+      "argument_and_boundary": "Explicit promise, stakeout sequence, career recollection, suit afterword and completed shift support local comparison; no total cross-source chronology or permanent cure."
+     },
+     {
+      "dimension": "Public/private self",
+      "argument_and_boundary": "MAIN compromise, suspended intervention and park reception meet private patience, refusal, taste and uncertainty; neither realm excuses or authenticates all the other."
+     },
+     {
+      "dimension": "School/club position",
+      "argument_and_boundary": "Actual paperwork, copied records, staffing, cafeteria hours, appearance advice and distributed care distinguish practice from profile ideals and claimed rules."
+     },
+     {
+      "dimension": "Ordinary life",
+      "argument_and_boundary": "Books, films, oden, chosen clothes, rest, ride refusal and wanted company retain intrinsic meaning without a dramatic outcome."
+     },
+     {
+      "dimension": "Crisis conduct",
+      "argument_and_boundary": "Contingent capture, failed child reassurance followed by successful handoff, and later hazard response preserve each act, report and affected recipient."
+     },
+     {
+      "dimension": "Sensei relation",
+      "argument_and_boundary": "Rumor-mediated anxiety, tolerated accidents, harassment objection, refusal-disregarding food care, welcomed affirmation and shared work have different permissions and outcomes."
+     },
+     {
+      "dimension": "Major peers",
+      "argument_and_boundary": "Colleagues' wanted celebration, Life Safety assistance, Kirino/Fubuki comparison and Konoka's management remain directed and limited; generic chiefs are not merged."
+     },
+     {
+      "dimension": "Language/written/voice",
+      "argument_and_boundary": "Formal address, mad-dog report, armor imagery, narration-labeled timed dialogue, unidentified scream and conditional837/10837/900837 modes remain textual evidence."
+     },
+     {
+      "dimension": "Rivals and recipients",
+      "argument_and_boundary": "The frightened child, invited peers, adult objections and explicit child thanks test both ideal authority and uniform failure."
+     },
+     {
+      "dimension": "Evidence/confidence",
+      "argument_and_boundary": "Strong confidence in printed local outcomes; image hypotheses, calendar, law, clinical/engineering certification, universal deterrence and performed voice remain unestablished."
+     }
+    ],
+    "actual_monograph_complete": false,
+    "canonical_adoption": "PENDING"
+   },
+   {
+    "subject": "Fubuki",
+    "candidate_unit_id": "P3-F045",
+    "linked_dated_route": "P3-A011",
+    "raw_identity": "BA_PERSON_CH0141",
+    "literal_variants": [
+     "16008",
+     "20037"
+    ],
+    "selected_bounds": {
+     "BOND": 7,
+     "whole_MomoTalk": 7,
+     "written": 4
+    },
+    "count_meaning": "retrieval not eligibility/persons/packages",
+    "decision": "POSITIVE_SCOPED_INDEPENDENT_CHARACTER_ELIGIBILITY",
+    "required_package": "P3-CHAR-FUBUKI-CH0141",
+    "complete_argument": "ROOT_VALKYRIE3_ELIGIBILITY_ARGUMENT_V2.md section4",
+    "eleven_dimension_feasibility": [
+     {
+      "dimension": "Thesis",
+      "argument_and_boundary": "Wanted comfort and company are real; methods distribute burdens and can create genuine care, failed evasion or mistaken credit."
+     },
+     {
+      "dimension": "Longitudinal development",
+      "argument_and_boundary": "Punishment references, search/return, float afterword and missed-break sequence support local recurrence; no fixed whole-series timeline or lasting conversion."
+     },
+     {
+      "dimension": "Public/private self",
+      "argument_and_boundary": "Conditional official praise contrasts with hidden hairpin care and personal disappointment; public recognition is not a reliable complete measure."
+     },
+     {
+      "dimension": "School/club position",
+      "argument_and_boundary": "Communication, borrowed materials, routine scope, colleague routing, inspector claims, radio access and scheduled rest reveal governance in actual practice."
+     },
+     {
+      "dimension": "Ordinary life",
+      "argument_and_boundary": "Specific donuts, radio, games, naps, holiday wish, actual ice cream and chosen company remain meaningful without service success."
+     },
+     {
+      "dimension": "Crisis conduct",
+      "argument_and_boundary": "Macro failure, unresolved suspect, harmful GROUP plan, real hairpin return and water rescue are different outcomes, with legal/clinical aftermath bounded."
+     },
+     {
+      "dimension": "Sensei relation",
+      "argument_and_boundary": "The adult can object, share labor, aid a search and free her while also accepting questionable authority and pressuring unwanted food; requests never grant all-purpose touch permission."
+     },
+     {
+      "dimension": "Major peers",
+      "argument_and_boundary": "Kirino's load, unnamed Security grievance, volunteering youths, child's loss, manager's praise and park visitors have distinct knowledge and interests."
+     },
+     {
+      "dimension": "Language/written/voice",
+      "argument_and_boundary": "Automated replies retain literal labels and explained provenance; youth uncertainty, timed/UI parallels and actual actor seams are preserved without acoustic credit."
+     },
+     {
+      "dimension": "Rivals and recipients",
+      "argument_and_boundary": "The barricade need, girl's contestation, youths' surprise, unwanted cucumber and missed break test both wholly lazy and wholly benign interpretations."
+     },
+     {
+      "dimension": "Evidence/confidence",
+      "argument_and_boundary": "Local outcomes have strong textual support; submitted false reporting, policy repair, universal rehabilitation, safe automated coverage and physical/medical certification remain unprinted."
+     }
+    ],
+    "actual_monograph_complete": false,
+    "canonical_adoption": "PENDING"
+   },
+   {
+    "subject": "Kirino",
+    "candidate_unit_id": "P3-F108",
+    "linked_dated_route": "P3-A010",
+    "raw_identity": "BA_PERSON_KIRINO",
+    "literal_variants": [
+     "13012",
+     "26012"
+    ],
+    "selected_bounds": {
+     "BOND": 7,
+     "whole_MomoTalk": 7,
+     "written": 3
+    },
+    "count_meaning": "retrieval not eligibility/persons/packages",
+    "decision": "POSITIVE_SCOPED_INDEPENDENT_CHARACTER_ELIGIBILITY",
+    "required_package": "P3-CHAR-KIRINO",
+    "complete_argument": "ROOT_VALKYRIE3_ELIGIBILITY_ARGUMENT_V2.md section5",
+    "eleven_dimension_feasibility": [
+     {
+      "dimension": "Thesis",
+      "argument_and_boundary": "Wanted recognition and meaningful care are tested against what citizens, children, colleagues and the adult actually receive."
+     },
+     {
+      "dimension": "Longitudinal development",
+      "argument_and_boundary": "Remembered service, specific training and thread afterwords support local changes; a generic hostage callback does not fix a unique chronological edge or completed rehabilitation."
+     },
+     {
+      "dimension": "Public/private self",
+      "argument_and_boundary": "Transfer ambition and public force differ from meals, attentive company, particular refusals and private requests; warm endings cannot settle harm."
+     },
+     {
+      "dimension": "School/club position",
+      "argument_and_boundary": "Life Safety self-deployment, suspension, training reports, handoff and wanted lifeguard title distinguish actual institution from aspirational legitimacy."
+     },
+     {
+      "dimension": "Ordinary life",
+      "argument_and_boundary": "Food outings, a wanted celebration, thrilling slides, patient questions, company and gift wishes have value even where no later fulfillment is shown."
+     },
+     {
+      "dimension": "Crisis conduct",
+      "argument_and_boundary": "Mistaken threat, real property return, unintended hostage injury, ring help and actual water recovery preserve separate means, recipients and ends."
+     },
+     {
+      "dimension": "Sensei relation",
+      "argument_and_boundary": "Invited company, flawed instruction, specific practice participation, reciprocal help and gratitude coexist with explicit boundaries and no universal consent."
+     },
+     {
+      "dimension": "Major peers",
+      "argument_and_boundary": "Fubuki's burden shift, a passing student's effective help, grateful children, harmed hostage and unjoined chief cannot collapse into one approval or failure grade."
+     },
+     {
+      "dimension": "Language/written/voice",
+      "argument_and_boundary": "Text-actor corrections,51 seams, whole-message tails, written UI/timed parallels, Japanese uncertainty and locale cause differences retain actual documentary scope."
+     },
+     {
+      "dimension": "Rivals and recipients",
+      "argument_and_boundary": "Children's precise praise tests uniform incompetence; hostage pain, refusal and property cost test ambition-as-validity and automatic adult benevolence."
+     },
+     {
+      "dimension": "Evidence/confidence",
+      "argument_and_boundary": "Strong confidence in received local outcomes and corrected textual attribution; recovery, restitution, ballistics, medical qualification, official awards, global chronology and voice performance remain unestablished."
+     }
+    ],
+    "actual_monograph_complete": false,
+    "canonical_adoption": "PENDING"
+   }
+  ],
+  "connected_questions": [
+   {
+    "target": "P3-INST-VALKYRIE-DUTY-REST-RECIPIENTS",
+    "classification": "SCOPED_INSTITUTION",
+    "decision": "POSITIVE_DISTINCT_QUESTION",
+    "argument": "ROOT_VALKYRIE3_ELIGIBILITY_ARGUMENT_V2.md section6",
+    "actual_literary_package_complete": false
+   },
+   {
+    "target": "P3-REL-FUBUKI-KIRINO-BURDEN-WANTED-LIFE",
+    "classification": "DIRECTED_RELATIONSHIP",
+    "decision": "POSITIVE_DISTINCT_QUESTION",
+    "argument": "ROOT_VALKYRIE3_ELIGIBILITY_ARGUMENT_V2.md section6",
+    "actual_literary_package_complete": false
+   }
+  ],
+  "group270_complete_scoped_role_allocations": [
+   {
+    "responsibility": "P3-A422",
+    "literal_route": "警備局長 / 경비국장; GROUP2701–2702; empty person join",
+    "required_meaning_and_home": "Institution: actual deployment boundary, property aftermath and retrospective sniper alternative. Do not join Kanna or the private Security executive; an imagined better tactic is not performed repair. Independent character review remains pending."
+   },
+   {
+    "responsibility": "P3-A423",
+    "literal_route": "ドーナツ屋の店長 / 도넛가게 주인; GROUP2702; empty person join",
+    "required_meaning_and_home": "Institution/relation affected recipient: calls for help, objects to careless fire, property loss and whole ending. Actual fear and work have intrinsic value; no completed compensation or legal finding. Independent character review remains pending."
+   },
+   {
+    "responsibility": "P3-A424",
+    "literal_route": "ヘルメット団 / 헬멧단 인질범; GROUP2702; empty person join",
+    "required_meaning_and_home": "Institution/relation antagonist and recipient: safe-opening attempt, threat, mockery, capture claim and cost. This singular hostage-taker is not Love or any other global Helmet member. Independent character review remains pending."
+   },
+   {
+    "responsibility": "P3-XVAL-G270-C001",
+    "literal_route": "一同 / 일동; GROUP2702",
+    "required_meaning_and_home": "Source-local collective reaction, preserving heterogeneous participants rather than another person or unanimous belief."
+   },
+   {
+    "responsibility": "P3-XVAL-G270-S001",
+    "literal_route": "Narration, raw blank;2701–2702",
+    "required_meaning_and_home": "Narrated arrival, explosion/aftermath and suspension are distinct from speaker boasts and retrospective counterfactuals. Required attribution scope in institution/relation."
+   },
+   {
+    "responsibility": "P3-XVAL-G270-S002",
+    "literal_route": "System, raw blank;2702",
+    "required_meaning_and_home": "Actual system/closing mode retained as represented source form, not another character."
+   },
+   {
+    "responsibility": "P3-XVAL-G270-L001",
+    "literal_route": "#place;2701–2702",
+    "required_meaning_and_home": "Actual bureau/shop settings constrain sequence and work; locations are coverage responsibilities rather than people."
+   },
+   {
+    "responsibility": "P3-F045/P3-A011",
+    "literal_route": "フブキ / 후부키",
+    "required_meaning_and_home": "The Fubuki character home and directed relationship preserve wanted peace, doubt, conditional agreement and shared tactic."
+   },
+   {
+    "responsibility": "P3-F108/P3-A010",
+    "literal_route": "キリノ / 키리노",
+    "required_meaning_and_home": "The Kirino character home and directed relationship preserve service satisfaction, ambition, self-order, route advantage, limitation and actual aftermath."
+   }
+  ],
+  "event805_overlap": "ROOT received whole current normal argument and complete checkpoint roster; Hyakkiyako/Shanhaijing nine-event union excludes805. ROOT local-role/canonical allocation pending; Shun/Kokona/Saya and residual F076 identity/form overlap retained.",
+  "event827_event837": "adequate complete meanings received; full literal owner allocation pending in ROOT lane",
+  "never_filters": [
+   "stakes",
+   "popularity",
+   "MAIN frequency",
+   "playability",
+   "model grade",
+   "source counts",
+   "school enrollment"
+  ],
+  "literary_completions_added": 0,
+  "package_denominator": null,
+  "quarter_reached": false,
+  "registry_writes": 0,
+  "repository_writes": 0,
+  "performed_voice": "UNRECEIVED",
+  "all14_gaps": "OPEN_AT_ACTUAL_CLAIM_SCOPE"
+ }
+}
