@@ -204,8 +204,8 @@ class ExecutorTests(unittest.TestCase):
                      'governance/repository-controls/project-initiation-gate.json',
                      'governance/repository-controls/reconstruction-capability-policy.json',
                      'governance/repository-controls/tracked-file-policy.json',
-                     'governance/AUTHORITY_SCOPE.json', 'governance/AUTHORITY_STATE.yaml',
-                     'governance/cutovers/AUTHORITY_EPOCH_1.json'):
+                     'governance/archive/migration/AUTHORITY_SCOPE.json', 'governance/archive/migration/AUTHORITY_STATE.yaml',
+                     'governance/archive/migration/AUTHORITY_EPOCH_1.json'):
             for branch in ('series/a', 'agent/fix', 'character-registry'):
                 with self.subTest(path=path, branch=branch):
                     self.assertFalse(eligible_paths(branch, {path}))

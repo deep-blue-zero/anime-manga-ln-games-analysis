@@ -11,18 +11,18 @@ The gate enforces the mechanics below in code. This document states what the CI 
 
 The owner delegates routine integration to the CI agent. Each scheduled run it:
 
-1. reviews every open, owner-authored, same-repository PR against `main`: the complete diff, its audit result and any CI failure evidence;
+1. reviews every open, owner-authored, same-repository PR against `main`: the complete diff, its audit result and any CI failure evidence, including any routing `catalog_note` that records progress instead of describing the project;
 2. reconciles a PR that is behind `main` by merging `main` into its branch, and fixes regressions in analysis, character data or code with ordinary commits on that branch;
 3. merges only by running the gate from a fresh checkout of current `main`.
 
-Character discovery and reconstruction PRs are ordinary candidates. The repository audit confines `character-registry` to its two files. The gate accepts reconstruction outputs only from `character-reconstruction`, which may change nothing else. Until the owner accepts reconstruction calibration (`publication_phase: ROUTINE`), the gate leaves every reconstruction PR for the owner.
+Candidates come from `series/`, `studies/`, `agent/` (and the older `codex/`, `chatgpt/` and `claude/`) branches and the `character-registry` and `character-reconstruction` branches. A branch name grants nothing: the gate checks each PR's paths. Character discovery and reconstruction PRs are ordinary candidates. The repository audit confines `character-registry` to its two files. The gate accepts reconstruction outputs only from `character-reconstruction`, which may change nothing else. Until the owner accepts reconstruction calibration (`publication_phase: ROUTINE`), the gate leaves every reconstruction PR for the owner.
 
 ### What waits for the owner
 
 The gate refuses any PR that touches a guardrail path:
 
 - `.github/`, the gate itself, this document and `AGENTS.md`;
-- owner authorization records: `governance/repository-controls/` (publication grants, sealed-reading releases, the reconstruction phase gate, identities and tracked-file limits), `governance/AUTHORITY_SCOPE.json`, `governance/AUTHORITY_STATE.yaml` and `governance/cutovers/`;
+- owner authorization records: `governance/repository-controls/` (publication grants, sealed-reading releases, the reconstruction phase gate, identities and tracked-file limits), and the archived migration records in `governance/archive/`;
 - `crosswalk/`, `provenance/`, `LICENSE.md` and `THIRD_PARTY_NOTICES.md`.
 
 The owner merges those personally, and that merge is what makes an authorization record count.
@@ -31,7 +31,8 @@ The CI agent also leaves a PR for the owner, by adding the `nightly-hold` label 
 
 - removes or loosens a validation check, test or control value, or would need to in order to pass;
 - changes source admission, rights or provenance boundaries;
-- makes an interpretive or substantively ambiguous change that the evidence does not settle.
+- makes an interpretive or substantively ambiguous change that the evidence does not settle;
+- is a substantive reconstruction PR (a new candidate, supersession or promotion) after calibration is accepted. Only the owner merges a promotion.
 
 Never weaken a check or manufacture a green result. A failing PR is repaired or held, never merged.
 
@@ -44,18 +45,18 @@ Draft status and the `nightly-hold` label are the only hold signals. A hold seen
 For each candidate the gate:
 
 - confirms the branch's owner-authored PR, approved commit identities and allowed paths (an analysis branch may change only its own root, the five housekeeping routing outputs and a separately identifiable two-file curation repair);
-- waits for the trusted `Repository integration audit` to report success on the exact head, which for analysis branches follows housekeeping;
+- waits for the trusted `Repository integration audit` to report success on the exact head (for an analysis branch whose routing outputs were stale, that is housekeeping's child commit);
 - merges `main` into a stale branch only when Git merges cleanly, and otherwise leaves the conflict for the CI agent or author;
 - merges through GitHub's protected PR endpoint with the exact audited head as a merge commit;
 - checks that the merge commit's tree equals the audited head and waits for `main`'s own audit of it.
 
-Before any write, an apply run confirms that the gate's bytes match current `main`, the token belongs to the owner, the `main` ruleset still blocks deletion and force-pushes and requires the strict audit, and `main`'s latest audit passed. It rechecks the ruleset immediately before each merge.
+Before any write, an apply run confirms that the gate's bytes match current `main`, the token belongs to the owner, the repository has no other collaborator, pending invitation or write-enabled deploy key, the `main` ruleset still blocks deletion and force-pushes and requires the strict audit, and `main`'s latest audit passed. It rechecks the ruleset immediately before each merge.
 
 If `main` moves during a run, the remaining candidates wait for the next run. If `main`'s audit of a merge fails or does not finish, the change is integrated but unverified: the run stops, and every later run refuses to start until `main` is green again. Repair forward. Never revert, force-push or rewrite `main`.
 
 ## Running the CI agent
 
-- Use one fine-grained owner token for this repository with Contents and Pull requests read/write, and Actions and Commit statuses read. Supply it as `OWNER_TOKEN`. Do not place it in files, PR text, logs or chat.
+- Use one fine-grained owner token for this repository with Contents and Pull requests read/write, and Actions, Administration and Commit statuses read. Supply it as `OWNER_TOKEN`. Do not place it in files, PR text, logs or chat. The `NIGHTLY_INTEGRATION_TOKEN` secret needs the same permissions.
 - Run `python tools/nightly_integration.py --mode apply --report <durable path>` from a fresh checkout of `main`. `--mode preview` makes no writes.
 - Run one instance at a time per host. Concurrent writers are safe but waste effort, because GitHub's exact-head merge and strict up-to-date rule let only one succeed.
 

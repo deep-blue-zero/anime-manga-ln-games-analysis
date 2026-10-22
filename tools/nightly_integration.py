@@ -45,12 +45,11 @@ AUTHOR = {"name": OWNER, "email": "50891441+peipw@users.noreply.github.com"}
 COMMITTER = {"name": "GitHub", "email": "noreply@github.com"}
 # Guardrails: the owner merges changes to workflows, this gate, the CI agent's
 # own rules, owner authorization records (publication grants, sealed-reading
-# releases, phase gates, authority state), frozen provenance and legal files.
-# Everything else may integrate.
-GUARDRAIL_ROOTS = (".github/", "crosswalk/", "provenance/", "governance/repository-controls/", "governance/cutovers/")
+# releases, phase gates), the archived migration records, frozen provenance
+# and legal files. Everything else may integrate.
+GUARDRAIL_ROOTS = (".github/", "crosswalk/", "provenance/", "governance/repository-controls/", "governance/archive/")
 GUARDRAIL_FILES = frozenset({"AGENTS.md", "LICENSE.md", "THIRD_PARTY_NOTICES.md", CONTROLLER,
-                             "governance/policies/NIGHTLY_ANALYTICAL_INTEGRATION.md",
-                             "governance/AUTHORITY_SCOPE.json", "governance/AUTHORITY_STATE.yaml"})
+                             "governance/policies/NIGHTLY_ANALYTICAL_INTEGRATION.md"})
 RECONSTRUCTION = frozenset({"characters/reconstruction_capabilities.jsonl", "characters/CHARACTER_RECONSTRUCTION_INDEX.md"})
 RECONSTRUCTION_BRANCH = "character-reconstruction"
 RECONSTRUCTION_POLICY = "governance/repository-controls/reconstruction-capability-policy.json"
@@ -469,8 +468,8 @@ class Integrator:
             status = self.api.status(final)
             if status and status["state"] in {"failure", "error"}:
                 raise Blocked("Final repository audit failed")
-            # The reporter marks an analysis push pending until housekeeping
-            # completes, so a trusted success means the exact head is ready.
+            # The reporter marks an analysis push pending only while housekeeping
+            # must regenerate routing, so a trusted success means the exact head is ready.
             if status and status["state"] == "success" and self.api.audit_run(final, status):
                 return final
             time.sleep(max(0, min(15, end - time.monotonic())))
@@ -488,6 +487,20 @@ class Integrator:
             time.sleep(15)
         raise Halt("Already integrated, but main's audit did not finish; further merges stopped")
 
+    def access_check(self) -> None:
+        # Owner-only write access: no other collaborator, no pending invitation, no write-enabled deploy key.
+        try:
+            collaborators = self.api.pages("collaborators?affiliation=all")
+            invitations = self.api.pages("invitations")
+            keys = self.api.pages("keys")
+        except ApiError:
+            raise Halt("Collaborators, invitations or deploy keys are unreadable; owner-only access is unverified") from None
+        others = sum(1 for row in collaborators if not isinstance(row, dict) or row.get("login") != OWNER)
+        writable_keys = sum(1 for row in keys if not isinstance(row, dict) or row.get("read_only") is not True)
+        if others or invitations or writable_keys:
+            raise Halt(f"Repository access is not owner-only: {others} other collaborator(s), "
+                       f"{len(invitations)} pending invitation(s) and {writable_keys} write-enabled deploy key(s)")
+
     def preflight(self) -> str:
         base = self.api.head("main")
         self.graph.fetch(base)
@@ -495,6 +508,7 @@ class Integrator:
             self.graph.verify_runtime(base)
             if self.api.request("GET", "/user").get("login") != OWNER:
                 raise Halt("OWNER_TOKEN must authenticate the repository owner")
+            self.access_check()
             protection_method(self.api.request("GET", f"rulesets/{MAIN_RULESET_ID}"), self.api.request("GET", ""))
             status = self.api.status(base)
             if not status or status["state"] != "success" or not self.api.audit_run(base, status):
