@@ -487,6 +487,20 @@ class Integrator:
             time.sleep(15)
         raise Halt("Already integrated, but main's audit did not finish; further merges stopped")
 
+    def access_check(self) -> None:
+        # Owner-only write access: no other collaborator, no pending invitation, no write-enabled deploy key.
+        try:
+            collaborators = self.api.pages("collaborators?affiliation=all")
+            invitations = self.api.pages("invitations")
+            keys = self.api.pages("keys")
+        except ApiError:
+            raise Halt("Collaborators, invitations or deploy keys are unreadable; owner-only access is unverified") from None
+        others = sum(1 for row in collaborators if not isinstance(row, dict) or row.get("login") != OWNER)
+        writable_keys = sum(1 for row in keys if not isinstance(row, dict) or row.get("read_only") is not True)
+        if others or invitations or writable_keys:
+            raise Halt(f"Repository access is not owner-only: {others} other collaborator(s), "
+                       f"{len(invitations)} pending invitation(s) and {writable_keys} write-enabled deploy key(s)")
+
     def preflight(self) -> str:
         base = self.api.head("main")
         self.graph.fetch(base)
@@ -494,6 +508,7 @@ class Integrator:
             self.graph.verify_runtime(base)
             if self.api.request("GET", "/user").get("login") != OWNER:
                 raise Halt("OWNER_TOKEN must authenticate the repository owner")
+            self.access_check()
             protection_method(self.api.request("GET", f"rulesets/{MAIN_RULESET_ID}"), self.api.request("GET", ""))
             status = self.api.status(base)
             if not status or status["state"] != "success" or not self.api.audit_run(base, status):
