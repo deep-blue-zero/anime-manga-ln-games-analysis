@@ -58,6 +58,7 @@ class FakeAPI:
         self.pr = pull()
         self.ruleset = copy.deepcopy(RULESET)
         self.requests = []
+        self.access = {'collaborators?affiliation=all': [{'login': OWNER}], 'invitations': [], 'keys': [{'read_only': True}]}
 
     def head(self, branch):
         return self.main if branch == 'main' else self.source
@@ -65,6 +66,10 @@ class FakeAPI:
     def pages(self, path):
         if path == 'branches':
             return [{'name': name, 'commit': {'sha': S}} for name in ('series/a', 'codex/repair', 'character-registry', 'studies/b')]
+        if path in self.access:
+            if self.access[path] is None:
+                raise ApiError('GET', path, 403)
+            return self.access[path]
         return [self.pr]
 
     def status(self, sha):
@@ -163,6 +168,22 @@ class ControllerTests(unittest.TestCase):
                     api.source_status = 'failure'
                 with self.assertRaises(Halt):
                     self.worker(api).preflight()
+                self.assertEqual(api.writes, [])
+
+    def test_apply_preflight_requires_owner_only_access(self):
+        cases = {
+            'collaborator': ('collaborators?affiliation=all', [{'login': OWNER}, {'login': 'other'}]),
+            'invitation': ('invitations', [{'id': 1}]),
+            'writable_key': ('keys', [{'read_only': True}, {'read_only': False}]),
+            'unreadable': ('collaborators?affiliation=all', None),
+        }
+        for case, (path, rows) in cases.items():
+            with self.subTest(case=case):
+                api = FakeAPI()
+                api.access[path] = rows
+                with self.assertRaisesRegex(Halt, 'owner-only'):
+                    self.worker(api).preflight()
+                self.assertNotIn(('GET', f'rulesets/{MAIN_RULESET_ID}', None), api.requests)
                 self.assertEqual(api.writes, [])
 
     def test_preview_preflight_needs_no_owner_credential_or_ruleset(self):
