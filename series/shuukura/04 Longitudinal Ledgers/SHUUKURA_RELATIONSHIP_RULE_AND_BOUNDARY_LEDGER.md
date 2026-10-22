@@ -5,14 +5,14 @@ artifact_type: longitudinal_ledger
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.23"
+version: "1.24"
 status: active_provisional
 scope: "Directional relational states and the lifecycle of rules, consent, negotiation and commitments"
-source_boundary: "Frozen I1; LN01–09/fourBW/KSS01–12/OFF01–02 and KAK-JP-E0001–E0005 through complete atomic commits; E0006+ and V1 unread; LN10 excluded"
+source_boundary: "I1 through E0005 plus complete BW02 historical backfill; later new bonuses/E0006+/V1 and main LN10 excluded"
 canonical_home: series/shuukura/04 Longitudinal Ledgers/SHUUKURA_RELATIONSHIP_RULE_AND_BOUNDARY_LEDGER.md
 created: "2026-10-17"
 planning_date: "2026-10-16"
-review_status: E0005_NATIVE_AND_HISTORICAL_STATE_REVIEW_COMPLETED
+review_status: UNIT_SOURCE_AND_RETROSPECTIVE_REVIEW_COMPLETED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -21,7 +21,9 @@ do_not_use_as_literary_evidence: true
 
 # Directional relationships, rules and boundaries
 
-Revision1.23 is current through the whole KAK-JP-E0005 transaction. [E0005 observation index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KAK_JP_E0005_DEEP_READING.md#recoverable-evidence-and-observation-locator-index) owns16 observations across235native paragraphs. The historical first home visit completes the aloud manga task after objection/rejected repayment and represents a recurring5000yen-per-occasion after-school arrangement with voiced limits. Rumor/teacher purpose, private promise/ceiling/exit, exact initial school/phone terms, contact exchange/homeward departure and final no-rain observation remain mode/actor/time-specific. Eight character/ten relational events, two historical projections each, three readiness/role reviews, six new rule identities/one earlier rule revision;28new propositions/four earlier revisions/28access/seven tensions;four new claims/four earlier claim revisions. Totals153claimIDs/498formulations/747props/178rules;18forecasts/13attempts unchanged. M0.13/S0.14noncurrent/UNTESTED, zero validated domains; all older rows/errata/failures and source duties retained. Later December/adult/OFF states coexist. Owner pause after current publication; E0006+/V1/LN10 unadmitted.
+Revision1.24 is current through complete BW-JP-V02 historical backfill. [BW02 observation index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_BW_JP_V02_DEEP_READING.md#observation-locator-index) owns14observations over16originalcaptures/181native-story-member paragraphs. Five new claims/five earlier claim revisions,16newpropositions/two earlier revisions,one new unilateral historical self-rule/one earlier rule extension yield158claimIDs/508formulations/763propositions/179rules. Eight character/eight directional events, six projection rows/seven direction IDs and five readiness/role reviews retain individual clocks/access. New scoped lane1/5, supplements19, additive completion33/463; original I1 and older states remain exact. Web stays paused afterE5, mainLN10/V1 excluded, M0.13/S0.14 noncurrent/UNTESTED and18forecasts/13attempts unchanged; zero validated domains.
+
+Prior E0005 scope notice (preserved historical routing): Revision1.23 is current through the whole KAK-JP-E0005 transaction. [E0005 observation index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KAK_JP_E0005_DEEP_READING.md#recoverable-evidence-and-observation-locator-index) owns16 observations across235native paragraphs. The historical first home visit completes the aloud manga task after objection/rejected repayment and represents a recurring5000yen-per-occasion after-school arrangement with voiced limits. Rumor/teacher purpose, private promise/ceiling/exit, exact initial school/phone terms, contact exchange/homeward departure and final no-rain observation remain mode/actor/time-specific. Eight character/ten relational events, two historical projections each, three readiness/role reviews, six new rule identities/one earlier rule revision;28new propositions/four earlier revisions/28access/seven tensions;four new claims/four earlier claim revisions. Totals153claimIDs/498formulations/747props/178rules;18forecasts/13attempts unchanged. M0.13/S0.14noncurrent/UNTESTED, zero validated domains; all older rows/errata/failures and source duties retained. Later December/adult/OFF states coexist. Owner pause after current publication; E0006+/V1/LN10 unadmitted.
 
 Historical E0004 routing notice: Revision1.22 was current through KAK-JP-E0004 in its whole introducing transaction. [E0004 observation index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KAK_JP_E0004_DEEP_READING.md#recoverable-evidence-and-observation-locator-index) owns14 observations across165native paragraphs. The reader gains an earlier Sendai-focalized bookstore encounter after the December scene: tastes/qualified social pragmatics, unwanted payment, disputed return/gift, private reputation concerns and reluctant today-only following. NOTE-PRECISION-E0004-001 keeps p66 name-memory obligation distinct from proven all-name knowledge and p156 reported rainy-season ending distinct from observed clouds/private no umbrella. Early historical projections coexist with later E3December/adult states. Eight character/eight relational events, two historical projections each, three readiness/role reviews, one proposed work-rule identity;22new propositions/three older revisions/22access rows/six tensions;three new claims/three older revisions. Totals149claimIDs/490formulations/719props/172rules,18forecasts/13attempts unchanged. M0.13/S0.14noncurrent/UNTESTED, all old rows/errata and source duties retained; zero validated domains. E0005+, V1 and LN10 excluded.
 
@@ -1678,3 +1680,39 @@ Local O/PROP/EPI/CLM references carry E0005 unless another unit is explicit. REL
 
 
 Sendai’s assumed task ceiling/return-money exit remain private propositions, not additional mutually binding rule identities. Later December secrecy/violence wording and adult/OFF boundaries remain source/time-specific. No universal permission, new transfer or successful next visit is inferred.
+
+
+## BW-JP-V02 retrospective June backfill — 2026-10-22
+
+Local O### references resolve to OBS-BW-JP-V02-O### in [BW02 observation index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_BW_JP_V02_DEEP_READING.md#observation-locator-index). All p ranges are `OEBPS/text/part_002.xhtml` native ordinals, with the original-capture correction record controlling OCR noise. This late-admitted historical packet covers a few-days-before home scene and the actual final-high-school June sports day. June follows OFF01's final-school-year spring and precedes October BW03/November OFF02; later adult LN09 and distinct BW packets retain their own clocks. No new held-out prediction, validation score, main LN10 or web E0006 narrative is admitted. All old rows, formulations, tests and errata remain preserved.
+
+### Append-only directional events
+
+| Event ID / revision | Direction / clock | Transition | Initiative / response / consequence | Exact evidence | Limit |
+| --- | --- | --- | --- | --- | --- |
+| `REL-BW-JP-V02-001` / v1 | M→S / home | Initial reading request → brief performed task | M commands; S queries/jokes and reads; M throws eraser, S later rolls it back | O003–005;p16–44 | No source injury; no blanket permission or S private home motive |
+| `REL-BW-JP-V02-002` / v1 | M→S / home endpoint | Reading in progress → M homework requested | M interrupts/takes book/pushes textbook; S objects unfinished then accepts/takes pen | O007;p65–80 | Literal request is to do M homework; task changes, completion unshown |
+| `REL-BW-JP-V02-003` / v1 | S→Umina / festival | Public cheering → active care | S reaches/grabs after stagger, checks face, repeatedly urges infirmary | O009–011;p96–138 | Care coexists with heat/reluctance; cause unknown and permission resisted locally |
+| `REL-BW-JP-V02-004` / v1 | Umina→S and Mariko / festival | Resistance → escort/substitution division | Rejects race substitute Mariko as slow, chooses S if absent and Mariko escort | O011;p139–143 | Own choice represented; S later anticipates anger, U does not enact it |
+| `REL-BW-JP-V02-005` / v1 | Mariko→Umina / festival | Noticing/worry → practical escort | Offers substitution and infirmary, agrees to escort and heads there with U | O010–011;p129–143 | Not actual clinical arrival/recovery or access to S/M secret |
+| `REL-BW-JP-V02-006` / v1 | S→M / race / PRIVATE | Immediate M association → self-restrained approach | Almost heads next class, invokes after-school/nonfriend category, chooses own class instead | O013;p161–169 | No attempted invitation, M rejection/consent or new mutual rule |
+| `REL-BW-JP-V02-007` / v1 | S→Aida / race | Public selection → explained request/cooperation | S takes arm, states shorter-friend race request; after assent takes hand/resumes running | O014;p174–181 | Consent is this requested race action; S private thought not communicated |
+| `REL-BW-JP-V02-008` / v1 | Aida→S / race | Addressed classmate → local assent | Aida agrees/urges hurry and participates in resumed race | O014;p175–178 | No private motive, final finish or enduring interpersonal grant |
+
+### Historical directional projections
+
+| Projection ID | As-of source clock | State and knowledge | Prior/later packets retained |
+| --- | --- | --- | --- |
+| DIR-BW-JP-V02-M_TO_S-v1 | Pre-festival home exit | M can initiate/redirect a task; privately wants to stop unwelcome sport/partner recall. Does not receive later S first association or feelings. REL-BW-JP-V02-001–002;O003–007;p16–88 | Earlier first-visit/December and later October/adult states intact |
+| DIR-BW-JP-V02-S_TO_M-v1 | June race ongoing | M first association under friend prompt; S applies private after-school/nonfriend restriction without current M feedback. Chooses Aida; unnamed feeling and private nonfriend-handholding counterfactual remain, with M contextually inferred. REL-BW-JP-V02-006;O013–014;p161–181 | No explicit feeling-as-wish, public recognition or adult roommate-label reversal |
+| DIR-BW-JP-V02-S_TO_UMINA-v1 | Festival before substitution | Actual concern and persuasion plus begrudged assigned work; private anticipated anger unshared. REL-BW-JP-V02-003–004;O009–012;p96–160 | Real friendship neither empty nor without costs |
+| DIR-BW-JP-V02-UMINA_TO_S-v1 | Departure toward infirmary | Given-name familiarity, group-cheering request and deputy choice; receives expressed concern. REL-BW-JP-V02-004;O009–011;p96–143 | Does not receive S heat judgments, M comparison or future touch counterfactual |
+| DIR-BW-JP-V02-MARIKO_TO_UMINA-v1 | Infirmary-bound | Expressed worry and practical cover/escort, accepted role after speed objection. REL-BW-JP-V02-005;O010–011;p129–143 | No claimed diagnosis or reached destination |
+| DIR-BW-JP-V02-S_TO_AIDA-v1 / DIR-BW-JP-V02-AIDA_TO_S-v1 | Race resumed | Specific request, explicit assent and arm→hand transition; S distraction remains private. REL-BW-JP-V02-007–008;O014;p174–181 | No invented earlier intimacy, future grant or romantic status |
+
+### New historical self-rule and attributable prior-rule extension
+
+| Rule / version | Scope / parties | Formulation and evidentiary force | Recognition / enforcement | Evidence | Counterlimit / lineage |
+| --- | --- | --- | --- | --- | --- |
+| `RULE-BW-JP-V02-001` / v1 / R179 | Sendai-private / final-HS June race | After-school/nonfriend framing bars herself from approaching M under the friend prompt | Actual self-check/selection change; no new spoken negotiation with M | O013;p163–169 | Historical unilateral contextual self-rule; no timeless mutual ban, actual M response or adult contract revival |
+| `RULE-LN-JP-007` / v18 after v17 | Inherited initiative expectation; differentiated historical evidence | PRESERVE all v17 domains/dates. Add M task choice/cutoff and S almost-approach/self-restraint, while S also performs real care/cooperation with peers | Source-specific initiatives/limits rather than an exclusive-initiator agreement | O003–014;p16–181; older evidence retained | STRENGTHEN historical contextual agency; RULE003.v3/004.v11/018.v6 unchanged; no inferred abolition or new mutual restriction |
