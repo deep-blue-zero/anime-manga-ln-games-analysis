@@ -637,16 +637,16 @@ class AuthorityGraphTests(unittest.TestCase):
 class PublicGovernanceInvariantTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls) -> None:
-        cls.scope = load_json(REPOSITORY_ROOT / "governance/AUTHORITY_SCOPE.json")
+        cls.scope = load_json(REPOSITORY_ROOT / "governance/archive/migration/AUTHORITY_SCOPE.json")
         cls.binding = load_json(
             REPOSITORY_ROOT
-            / "governance/repository-controls/public-activation-bindings.json"
+            / "governance/archive/migration/public-activation-bindings.json"
         )
         cls.tracked_file_policy = load_json(
             REPOSITORY_ROOT
             / "governance/repository-controls/tracked-file-policy.json"
         )
-        state_path = REPOSITORY_ROOT / "governance/AUTHORITY_STATE.yaml"
+        state_path = REPOSITORY_ROOT / "governance/archive/migration/AUTHORITY_STATE.yaml"
         cls.state = _restricted_yaml_load(
             state_path.read_text(encoding="utf-8"),
             str(state_path),
@@ -696,7 +696,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             "f704fc18ab7d38aef0b7addb21af675d5a898827",
         )
 
-        cutover = load_json(REPOSITORY_ROOT / "governance/cutovers/AUTHORITY_EPOCH_1.json")
+        cutover = load_json(REPOSITORY_ROOT / "governance/archive/migration/AUTHORITY_EPOCH_1.json")
         self.assertEqual(cutover["authority_epoch"], 1)
         self.assertEqual(cutover["state"], "GIT_ACTIVE_STABILIZING")
         self.assertEqual(cutover["cutover_id"], expected["cutover_id"])
@@ -743,7 +743,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         )
         raw = (
             REPOSITORY_ROOT
-            / "governance/repository-controls/public-activation-bindings.json"
+            / "governance/archive/migration/public-activation-bindings.json"
         ).read_text(encoding="utf-8")
         self.assertNotRegex(raw, r"(?i)(?:[a-z]:\\|/home/|/users/)")
 
@@ -1925,10 +1925,10 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
 
     def test_historical_private_bootstrap_bindings_are_unchanged(self) -> None:
         historical = {
-            "governance/repository-controls/bootstrap-bindings.json": (
+            "governance/archive/migration/bootstrap-bindings.json": (
                 "7ebb26e4cff22acbabe72905847f6efbbb6885c4a6be0b9e5297db22d654ae17"
             ),
-            "governance/repository-controls/G3_BOOTSTRAP_TRACKED_PATHS.txt": (
+            "governance/archive/migration/G3_BOOTSTRAP_TRACKED_PATHS.txt": (
                 "75c6fe48adc719090828a2da02f3dc69e2334b8b20ee5f1c89e0f4c33ee6d191"
             ),
         }

@@ -56,7 +56,7 @@ class RepositoryIndexTests(unittest.TestCase):
 
     def test_authority_label_uses_live_selected_state_not_frozen_scope(self) -> None:
         entries = dict(self.snapshot().entries)
-        path = "governance/AUTHORITY_STATE.yaml"
+        path = "governance/archive/migration/AUTHORITY_STATE.yaml"
         for value in ("GIT_ACTIVE_STABILIZING", "GIT_ACTIVE_ACCEPTED"):
             with self.subTest(value=value):
                 entries[path] = SnapshotEntry(path, "100644", ("state: " + value + "\n").encode())
@@ -67,10 +67,10 @@ class RepositoryIndexTests(unittest.TestCase):
                 self.assertEqual(after.pop("status"), value)
                 before.pop("status")
                 self.assertEqual(after, before)
-                self.assertNotIn("governance/AUTHORITY_SCOPE.json", output)
+                self.assertNotIn("governance/archive/migration/AUTHORITY_SCOPE.json", output)
 
     def test_authority_label_fails_closed_without_live_state(self) -> None:
-        path = "governance/AUTHORITY_STATE.yaml"
+        path = "governance/archive/migration/AUTHORITY_STATE.yaml"
         for data in (None, b"state: null\n", b"[]\n"):
             with self.subTest(data=data):
                 entries = dict(self.snapshot().entries)

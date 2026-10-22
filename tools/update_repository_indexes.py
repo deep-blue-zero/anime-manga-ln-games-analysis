@@ -21,7 +21,7 @@ from character_index_core import (
 )
 
 
-AUTHORITY_STATE = "governance/AUTHORITY_STATE.yaml"
+AUTHORITY_STATE = "governance/archive/migration/AUTHORITY_STATE.yaml"
 SERIES_REGISTRY = "series/registry.json"
 STUDY_REGISTRY = "studies/registry.json"
 CHANGE_OBLIGATIONS = "governance/repository-controls/change-obligations.json"

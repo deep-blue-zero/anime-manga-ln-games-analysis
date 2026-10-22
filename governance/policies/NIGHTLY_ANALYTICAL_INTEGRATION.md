@@ -22,7 +22,7 @@ Character discovery and reconstruction PRs are ordinary candidates. The reposito
 The gate refuses any PR that touches a guardrail path:
 
 - `.github/`, the gate itself, this document and `AGENTS.md`;
-- owner authorization records: `governance/repository-controls/` (publication grants, sealed-reading releases, the reconstruction phase gate, identities and tracked-file limits), `governance/AUTHORITY_SCOPE.json`, `governance/AUTHORITY_STATE.yaml` and `governance/cutovers/`;
+- owner authorization records: `governance/repository-controls/` (publication grants, sealed-reading releases, the reconstruction phase gate, identities and tracked-file limits), and the archived migration records in `governance/archive/`;
 - `crosswalk/`, `provenance/`, `LICENSE.md` and `THIRD_PARTY_NOTICES.md`.
 
 The owner merges those personally, and that merge is what makes an authorization record count.

@@ -1,14 +1,14 @@
 # Repository operating card
 
-Start here. This card routes work; the linked documents own the rules. Acquire governance by the operation's actual responsibilities using the [task-dependent reading path](governance/CHATGPT_AUTHORITY_AND_ROUTING.md#6-mandatory-first-read-order), including additional sections before scope changes. A role label does not exempt an operation from its controls.
+Start here. This card routes work; the linked documents own the rules. Acquire governance by the operation's actual responsibilities using the [task-dependent reading path](governance/AGENT_ROUTING.md#6-mandatory-first-read-order), including additional sections before scope changes. A role label does not exempt an operation from its controls.
 
 ## Every session
 
-Read `governance/AUTHORITY_STATE.yaml` and `governance/AUTHORITY_SCOPE.json` before proposing or applying changes. Authority epoch 1 is active and owner-accepted; its activation record is `governance/cutovers/AUTHORITY_EPOCH_1_ACTIVATION_RECORD.md`. This repository is the primary analytical authority only for the exact hashed scope in `governance/AUTHORITY_SCOPE.json`. Native Google Sheets remain controlled Drive authoring surfaces whose revisions become effective only after verified export and Git merge; reference-only artifacts and the primary-source/extraction workspace remain outside Git authority.
+`main` of this repository is the analytical authority. Native Google Sheets remain controlled Drive authoring surfaces whose revisions become effective only after verified export and Git merge; reference-only artifacts and the primary-source/extraction workspace remain outside Git authority. The Drive-to-Git migration is complete (authority epoch 1, accepted 2026-10-15); its records are archived in `governance/archive/migration/` and are read only for a specific provenance question.
 
-Read routing Sections 2-4, 6-7 and 12 in `governance/CHATGPT_AUTHORITY_AND_ROUTING.md`, which applies to every agent despite its path. Its Section 6 selects the remaining context; a link alone does not require reading an unrelated policy in full.
+Read Sections 2-4, 6-7 and 12 of `governance/AGENT_ROUTING.md`. Its Section 6 selects the remaining context; a link alone does not require reading an unrelated policy in full.
 
-Analytical accuracy and fidelity to source evidence are the substantive objective; repository controls exist to preserve them. Correct demonstrated errors through legitimate routes, and when a control appears to block an evidence-backed correction, follow Section 4.2 of `governance/CHATGPT_AUTHORITY_AND_ROUTING.md` and the checklist's correction and conflict procedure. Diagnose and propose within scope; a diagnosis or claim of improved accuracy is never write, source, publication, or global-control authority.
+Analytical accuracy and fidelity to source evidence are the substantive objective; repository controls exist to preserve them. Correct demonstrated errors through legitimate routes, and when a control appears to block an evidence-backed correction, follow Section 4.2 of `governance/AGENT_ROUTING.md` and the checklist's correction and conflict procedure. Diagnose and propose within scope; a diagnosis or claim of improved accuracy is never write, source, publication, or global-control authority.
 
 ## Every commit and push
 
@@ -26,7 +26,7 @@ Concurrent title work follows `governance/policies/BRANCH_LIFECYCLE.md`.
 
 Use the stable `series/<stable-slug>` branch for continuing series analysis and `studies/<stable-slug>` for continuing study work. Series analysis belongs under `series/<stable-slug>/`; comparative, taxonomy, and other non-series work belongs under `studies/<stable-slug>/`. Preserve imported bytes unless a declared transformation authorizes a derivative.
 
-Before substantial analytical execution, read the Analytical execution routing subsection of `governance/CHATGPT_AUTHORITY_AND_ROUTING.md` and follow its applicable reasoning, capability, long-series execution, and handoff policies. Resolve stage ownership and required evidence capabilities before starting the assigned work; existing project methods, initiation/continuation gates, and repository controls remain governing. Write analytical prose to the named-subject and referential-clarity standard in section 15 of `governance/source-policies/MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md`, and perform its bounded name-and-reference check before semantic acceptance, authority promotion, or integration.
+Before substantial analytical execution, read the Analytical execution routing subsection of `governance/AGENT_ROUTING.md` and follow its applicable reasoning, capability, long-series execution, and handoff policies. Resolve stage ownership and required evidence capabilities before starting the assigned work; existing project methods, initiation/continuation gates, and repository controls remain governing. Write analytical prose to the named-subject and referential-clarity standard in section 15 of `governance/source-policies/MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md`, and perform its bounded name-and-reference check before semantic acceptance, authority promotion, or integration.
 
 Before the first substantive sequential source-unit analysis of a newly initiated or materially restarted analytical project, read and satisfy `governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md`. Sequential analysis remains locked until a canonical/current-eligible analytical method and synthesis/corpus architecture exist, the canonical current-state/corpus-map entrypoint identifies both, architecture-required day-one infrastructure is initialized, and that entrypoint explicitly records `SEQUENTIAL_ANALYSIS_LOCK = OPEN`; scaffolding alone does not open the gate.
 
@@ -41,7 +41,7 @@ Before pushing a stable analytical branch, follow the [publication sequence and 
 
 ### Governance, tooling, and other cross-cutting work
 
-Use a narrowly named temporary branch under an audited agent prefix: `codex/<purpose>`, `chatgpt/<purpose>` or `claude/<purpose>`. Changes to validation, workflows, schemas, publication safety, or authority controls use `python tools/prepare_commit.py --base origin/main --check --full`. Temporary bootstrap, repair, migration, and one-shot automation branches must be pruned after their exact tips are verified as preserved on a green `main`; never delete an unverified or unmerged branch.
+Use a narrowly named temporary `agent/<purpose>` branch; the older `codex/`, `chatgpt/` and `claude/` prefixes remain valid. Changes to validation, workflows, schemas, publication safety, or authority controls use `python tools/prepare_commit.py --base origin/main --check --full`. Temporary bootstrap, repair, migration, and one-shot automation branches must be pruned after their exact tips are verified as preserved on a green `main`; never delete an unverified or unmerged branch.
 
 ### CI and PR Integration Steward
 
@@ -54,6 +54,10 @@ The owner-authorized cloud curation agent is the sole routine writer of `charact
 ### Character reconstruction evaluation
 
 The owner-authorized reconstruction evaluator is the sole routine writer of `characters/reconstruction_capabilities.jsonl` and generated `characters/CHARACTER_RECONSTRUCTION_INDEX.md`; follow `governance/policies/CHARACTER_RECONSTRUCTION_MAINTENANCE.md`. Its recurring branch is exactly `character-reconstruction` and may remain active. It never writes discovery files or analysis, and neither the curation agent nor housekeeping writes its two files. A recorded capability status is not present readiness; verify currentness with `tools/reconstruction_status.py`.
+
+### Source intake
+
+A separate cloud agent keeps digital copies of printed works on Google Drive so analysis agents can read them. It never writes to Git. Those copies are primary sources and never enter Git; analyses cite them through their recorded provenance.
 
 ## Never, without a separately reviewed owner amendment
 

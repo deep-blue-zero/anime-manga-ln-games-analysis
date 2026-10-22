@@ -236,7 +236,7 @@ The topology preferred at design was staged: local primary reading/ledgers; fres
 
 ## Higher-level governing controls
 
-- [Repository authority/routing](../../governance/CHATGPT_AUTHORITY_AND_ROUTING.md), [authority state](../../governance/AUTHORITY_STATE.yaml) and [scope](../../governance/AUTHORITY_SCOPE.json).
+- [Repository authority/routing](../../governance/AGENT_ROUTING.md), [authority state](../../governance/archive/migration/AUTHORITY_STATE.yaml) and [scope](../../governance/archive/migration/AUTHORITY_SCOPE.json).
 - [Initiation policy](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md) and [authority/supersession](../../governance/source-policies/ARCHIVE_AUTHORITY_AND_SUPERSESSION_POLICY.md).
 - [Reasoning routing](../../governance/source-policies/MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md), [capabilities](../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md), [long-series protocol](../../governance/source-policies/MANGA_ANIME_LONG_SERIES_HYBRID_EXECUTION_PROTOCOL.md).
 - [Handoff contract](../../governance/source-policies/MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md), [continuation](../../governance/source-policies/MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY.md) and [episode evidence](../../governance/source-policies/MANGA_ANIME_EPISODE_BUNDLE_SPECIFICATION.md).

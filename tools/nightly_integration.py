@@ -45,12 +45,11 @@ AUTHOR = {"name": OWNER, "email": "50891441+peipw@users.noreply.github.com"}
 COMMITTER = {"name": "GitHub", "email": "noreply@github.com"}
 # Guardrails: the owner merges changes to workflows, this gate, the CI agent's
 # own rules, owner authorization records (publication grants, sealed-reading
-# releases, phase gates, authority state), frozen provenance and legal files.
-# Everything else may integrate.
-GUARDRAIL_ROOTS = (".github/", "crosswalk/", "provenance/", "governance/repository-controls/", "governance/cutovers/")
+# releases, phase gates), the archived migration records, frozen provenance
+# and legal files. Everything else may integrate.
+GUARDRAIL_ROOTS = (".github/", "crosswalk/", "provenance/", "governance/repository-controls/", "governance/archive/")
 GUARDRAIL_FILES = frozenset({"AGENTS.md", "LICENSE.md", "THIRD_PARTY_NOTICES.md", CONTROLLER,
-                             "governance/policies/NIGHTLY_ANALYTICAL_INTEGRATION.md",
-                             "governance/AUTHORITY_SCOPE.json", "governance/AUTHORITY_STATE.yaml"})
+                             "governance/policies/NIGHTLY_ANALYTICAL_INTEGRATION.md"})
 RECONSTRUCTION = frozenset({"characters/reconstruction_capabilities.jsonl", "characters/CHARACTER_RECONSTRUCTION_INDEX.md"})
 RECONSTRUCTION_BRANCH = "character-reconstruction"
 RECONSTRUCTION_POLICY = "governance/repository-controls/reconstruction-capability-policy.json"
