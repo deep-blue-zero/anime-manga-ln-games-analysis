@@ -87,12 +87,24 @@ HAZARD_PREFILTERS: dict[str, tuple[tuple[bytes, ...], bool]] = {
     ),
 }
 MARKDOWN_LINK = re.compile(r"\[[^\]]*\]\(([^)]+)\)")
+# Migration-era records are archived byte-for-byte; the scope still supplies the
+# crosswalk baseline commit and the frozen ledger bindings.
+MIGRATION_ARCHIVE = "governance/archive/migration"
+AUTHORITY_SCOPE_PATH = f"{MIGRATION_ARCHIVE}/AUTHORITY_SCOPE.json"
+AUTHORITY_CUTOVER_PATH = f"{MIGRATION_ARCHIVE}/AUTHORITY_EPOCH_1.json"
+# Paths inside the bound G3 commit, used only by the historical --phase g3 check.
 G3_MANIFEST = "governance/repository-controls/G3_BOOTSTRAP_TRACKED_PATHS.txt"
 G3_BOUND_COMMIT = "e934c0a6f92ad16ba3305bd99f938aa6b3d97a1f"
 G3_BOUND_TREE = "d0bb00fa5d7a8735892921ba3c0023b4855ac52e"
+G3_MANIFEST_SHA256 = "75c6fe48adc719090828a2da02f3dc69e2334b8b20ee5f1c89e0f4c33ee6d191"
+BOOTSTRAP_BINDINGS_SHA256 = "7ebb26e4cff22acbabe72905847f6efbbb6885c4a6be0b9e5297db22d654ae17"
 PROTECTED_HASHES = {
-    G3_MANIFEST: "75c6fe48adc719090828a2da02f3dc69e2334b8b20ee5f1c89e0f4c33ee6d191",
-    "governance/repository-controls/bootstrap-bindings.json": "7ebb26e4cff22acbabe72905847f6efbbb6885c4a6be0b9e5297db22d654ae17",
+    G3_MANIFEST: G3_MANIFEST_SHA256,
+    "governance/repository-controls/bootstrap-bindings.json": BOOTSTRAP_BINDINGS_SHA256,
+}
+ARCHIVED_PROTECTED_HASHES = {
+    f"{MIGRATION_ARCHIVE}/G3_BOOTSTRAP_TRACKED_PATHS.txt": G3_MANIFEST_SHA256,
+    f"{MIGRATION_ARCHIVE}/bootstrap-bindings.json": BOOTSTRAP_BINDINGS_SHA256,
 }
 # The evaluator's ordinary production delta. Any other path changed beside
 # these requires a reviewed amendment that also changes the publication gate.
@@ -1123,9 +1135,9 @@ def require_g3_selection(root: Path, kind: str, commit: str | None, has_manifest
     return selected
 
 
-def validate_protected(snapshot: GitSnapshot) -> list[str]:
+def validate_protected(snapshot: GitSnapshot, hashes: Mapping[str, str] = PROTECTED_HASHES) -> list[str]:
     errors: list[str] = []
-    for path, expected in PROTECTED_HASHES.items():
+    for path, expected in hashes.items():
         entry = snapshot.get(path)
         actual = hashlib.sha256(entry.data).hexdigest() if entry is not None else "MISSING"
         if actual != expected:
@@ -3140,10 +3152,10 @@ def _compare_crosswalk_field(
 def active_migration_baseline_commit(snapshot: GitSnapshot) -> str | None:
     """Return the immutable migration baseline once Git authority is active."""
 
-    entry = snapshot.get("governance/AUTHORITY_SCOPE.json")
+    entry = snapshot.get(AUTHORITY_SCOPE_PATH)
     if entry is None:
         return None
-    scope = decode_json(entry.data, "governance/AUTHORITY_SCOPE.json")
+    scope = decode_json(entry.data, AUTHORITY_SCOPE_PATH)
     if not isinstance(scope, Mapping):
         raise DomainError("authority scope must be an object")
     activation = scope.get("activation")
@@ -3163,13 +3175,13 @@ def validate_active_authority_scope(snapshot: GitSnapshot, baseline_commit: str 
     if baseline_commit is None:
         return []
     errors: list[str] = []
-    scope_entry = snapshot.get("governance/AUTHORITY_SCOPE.json")
-    cutover_entry = snapshot.get("governance/cutovers/AUTHORITY_EPOCH_1.json")
+    scope_entry = snapshot.get(AUTHORITY_SCOPE_PATH)
+    cutover_entry = snapshot.get(AUTHORITY_CUTOVER_PATH)
     if scope_entry is None or cutover_entry is None:
         return ["active authority scope or epoch-1 cutover record is absent"]
     try:
-        scope = decode_json(scope_entry.data, "governance/AUTHORITY_SCOPE.json")
-        cutover = decode_json(cutover_entry.data, "governance/cutovers/AUTHORITY_EPOCH_1.json")
+        scope = decode_json(scope_entry.data, AUTHORITY_SCOPE_PATH)
+        cutover = decode_json(cutover_entry.data, AUTHORITY_CUTOVER_PATH)
     except (DomainError, json.JSONDecodeError, UnicodeDecodeError) as exc:
         return [str(exc)]
     if not isinstance(scope, Mapping) or not isinstance(cutover, Mapping):
@@ -4535,7 +4547,7 @@ def main() -> int:
         if args.phase == "g3":
             errors.extend(timer.call("protected", validate_protected, snapshot))
         else:
-            errors.extend(timer.call("protected", validate_protected, snapshot))
+            errors.extend(timer.call("protected", validate_protected, snapshot, ARCHIVED_PROTECTED_HASHES))
             errors.extend(timer.call("links", validate_markdown_links, snapshot))
             errors.extend(timer.call("audit_workflow", validate_audit_workflow, snapshot, policy))
             errors.extend(timer.call("housekeeping", validate_global_index_automation, snapshot, policy))

@@ -2,7 +2,7 @@
 
 The public, owner-maintained, epoch-1 Git-primary repository uses these controls:
 
-- GitHub repository ID `1352620662`, owned by `deep-blue-zero`, with verified G3 public-visibility activation evidence recorded in `../repository-controls/public-activation-bindings.json`;
+- GitHub repository ID `1352620662`, owned by `deep-blue-zero`, with verified G3 public-visibility activation evidence recorded in `../archive/migration/public-activation-bindings.json`;
 - current visibility state of public, with `deep-blue-zero` as the sole upstream human writer and contributor;
 - policy prohibits external pull-request merge, patch import, cherry-pick, non-owner collaborator, or pending invitation; G3 closure found none, and the nightly integration controller rereads collaborators, invitations and deploy keys on every run and halts integration on any non-owner collaborator, pending invitation or write-enabled deploy key;
 - provider interfaces may permit issues, discussions, or pull-request proposals, but none confer upstream authority;
@@ -22,10 +22,10 @@ The public, owner-maintained, epoch-1 Git-primary repository uses these controls
 - complete-history publication checks for credentials, personal email, local absolute paths, Drive URLs, excluded content, and non-owner commit identities;
 - clean, full, non-shallow clone verification before corpus content; and
 - historical G3 validation against commit `e934c0a6f92ad16ba3305bd99f938aa6b3d97a1f` and tree `d0bb00fa5d7a8735892921ba3c0023b4855ac52e`, plus separate current-policy validation directly over a selected Git commit, index, or prospective worktree and optional externally manifest-bound validation when explicitly requested;
-- immutable preservation of `bootstrap-bindings.json` and `G3_BOOTSTRAP_TRACKED_PATHS.txt` as historical private-bootstrap evidence; and
+- immutable preservation of the archived `bootstrap-bindings.json` and `G3_BOOTSTRAP_TRACKED_PATHS.txt` (`../archive/migration/`) as historical private-bootstrap evidence; and
 - completed G4 representative pilots, G5 aggregate materialization, Character Index v2 hardening, G7 final reconciliation, literal fresh-clone/mirror closure, and the verified G8 authority activation recorded in the live authority documents.
 
-Repository creation and public visibility alone did not activate analytical authority; the matching protected activation tag, Git authority records, and Drive pointer/checksum tuple did. Migration tranches ran under one SHA-256-bound owner approval package each (`RECURRING_TRANCHE_PROCESS.md`, now historical: migration completed with the owner's acceptance of epoch 1 on 2026-10-15). Exact-path staging, committed-blob and complete-history audit, live provider and remote reread, CI, and the fail-closed epoch-1 authority boundary remain mandatory. Original-content licensing is CC BY-NC 4.0 under the narrow root license scope.
+Repository creation and public visibility alone did not activate analytical authority; the matching protected activation tag, Git authority records, and Drive pointer/checksum tuple did. Migration tranches ran under one SHA-256-bound owner approval package each (`../archive/migration/RECURRING_TRANCHE_PROCESS.md`, now historical: migration completed with the owner's acceptance of epoch 1 on 2026-10-15). Exact-path staging, committed-blob and complete-history audit, live provider and remote reread, CI, and the fail-closed epoch-1 authority boundary remain mandatory. Original-content licensing is CC BY-NC 4.0 under the narrow root license scope.
 
 The selected Git commit tree or staged index is the sole live tracked-path inventory. `CURRENT_TRACKED_PATHS.txt` was retired because it duplicated that authoritative structure and created non-semantic global churn for ordinary analysis changes. `G3_BOOTSTRAP_TRACKED_PATHS.txt` and its hash binding remain unchanged as historical bootstrap evidence. A historical project transaction may accurately name the retired file when describing an earlier commit; that does not reactivate it as a current control.
 
