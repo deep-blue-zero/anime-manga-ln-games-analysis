@@ -1933,3 +1933,17 @@ The [index](../08%20Evidence%20and%20Indexes/KONOSUBA_MITSURUGI_COMPANIONS_EVIDE
 [cohort23 individual index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_PARENTS_TEACHER_EVIDENCE_INDEX.md) verifies native ゆいゆい, ひょいざぶろー and the teacher's self-introduced ぷっちん; Latin renderings remain working retrieval labels. Yuiyui's polite hospitality, local apologies, resource appeals and smiling reassurances can coexist with objection-overriding actions. Hyoizaburoo's shift from キミ to カズマさん after gifts, repeated relationship question, gratitude and Komekko boundary belong to him. Neither parent's words automatically voice the other.
 
 Pucchin's formal teacher role, points, dramatic titles/entrances, abrupt rebuke and mixed practical support/disparagement are indexed as written pragmatics. An interesting cat story being permitted does not establish literal belief; plated props and score utterances do not establish real giant strength or a universal numerical rubric. Editorial wording and actual novel speech retain their separate planes. Katakana, ruby, titles and honorifics alone do not entail L3; L0/L1/L2/L3 remain distinct local judgments. Twelve English hypothetical bodies test neither Japanese register nor acoustic performance and supply no language-dependence grade.
+
+
+## Cohort24 — Crimson village work and staff, source-known scope
+
+Chekera repeats the self-name/ArchWizard/leading-clothier introduction across EXP02P72 and MAIN05p-014P115, shifting into familiar task requests, alarmed rebuke, tentative reassessment and welcome. Shared Crimson ceremony and ordinary task urgency remain strong rivals to a unique idiolect. Cafe menu/order/local report and farm incantation/work-warning/praise shifts are bounded pragmatic evidence, with no new L3 outcome, acoustic/native-human claim or Japanese-generation test (CC01-CC07,CA01-CA02,FA01-FA02).
+
+Exact locators and access: [cohort24 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_TRADES_STAFF_EVIDENCE_INDEX.md). The shared known-source union is 1,149 BASE slots/7 text members/4 text objects, including context, blanks, other actors and rejected joins; no fresh whole-source, ruby, residual, image-set, admission or independent validation credit. Earlier models, scores, firsts and prospective missingness remain unchanged. Canonical receiving is complete for this candidate only; exact containing publication/full program remain pending.
+
+
+## Cohort25 — chief, Sylvia, trial machine and castle courier
+
+Sylvia's アタシ,わ/わね and ボウヤ can accompany warmth,teasing or coercion; register does not identify consent or primary motive. The rough hostile turn at MAIN05p-018P668 is situational,not evidence that embodiment causes cruelty. Moguninnin's printed speech uses mixed-kana classification/project language. Kazuma's先生方 for village experts does not identify all as schoolteachers. Code-entry humor depends on recognized script/remembered command; katakana,ruby or a magic name alone does not earn a culture-dependent classification.
+
+Exact locators and access: [cohort25 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX.md). This source-known scope adds no new whole-source,ruby,residual,image-set,admission or independent validation credit. Earlier models,first bodies,scores and prospective missingness remain unchanged. Canonical receiving/publication is pending for this candidate; the full KonoSuba program continues.

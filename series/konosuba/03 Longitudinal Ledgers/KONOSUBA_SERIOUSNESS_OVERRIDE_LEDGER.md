@@ -1280,3 +1280,17 @@ MAIN16 onward argument continues after an explicit return request/Yunyun interve
 [cohort23 individual index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_PARENTS_TEACHER_EVIDENCE_INDEX.md) preserves Yuiyui's actual response to the alarm and reported help-seeking without calling it a watched solo rescue or repair of earlier pressure. Failed spells and her own later exhaustion constrain omnipotence; switching means after failure does not establish an ethical veto. Explicit objections, heard restraint and later particular willingness retain their order and subjects.
 
 Pucchin's warnings, grouping instructions, reported cull and effective attack supply real protective conduct. His admitted preference for cool timing also remains; effectiveness and no-injury retrospective appraisal do not certify process safety. Reported reserve odds are not a watched contingency cast, and private sabotage/failure hopes remain Megumin's inference. Concrete support for a practical pupil need is real but narrow and still mocking. Neither a useful result nor later care proves a universal priority, safe deployment, lasting correction or unique need for Kazuma.
+
+
+## Cohort24 — Crimson village work and staff, source-known scope
+
+Chekera alarm and actual freezes interrupt the ceremonial craft encounter, but a revised test still fails and advice remains unverified. Farm near-exhaustion is own report alongside real finite work and paid harvest. These show local urgency/resource management, not a universal ethical veto or competence floor. Diner customers stop attempted casting; Megumin subsequent harmful retaliation remains narrated, with no owner authorization or completed Explosion. A resolved potion misunderstanding is no performed abuse or arson (CC02-CC03,PO02,DI03,FA01-FA03).
+
+Exact locators and access: [cohort24 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_TRADES_STAFF_EVIDENCE_INDEX.md). The shared known-source union is 1,149 BASE slots/7 text members/4 text objects, including context, blanks, other actors and rejected joins; no fresh whole-source, ruby, residual, image-set, admission or independent validation credit. Earlier models, scores, firsts and prospective missingness remain unchanged. Canonical receiving is complete for this candidate only; exact containing publication/full program remain pending.
+
+
+## Cohort25 — chief, Sylvia, trial machine and castle courier
+
+Comedic framing preserves forced restraint,credible threats,burning property,actual failed defenses and dangerous injury. Partial consideration toward a captive or companion does not cancel coercion or group extermination threats. Proposed capture for experiments is a threat/proposal,not a completed experiment. A successful final countermeasure,subsequent rebuilding or an institutional kill-card does not morally repair earlier harm. No graphic recapitulation or body-based explanation of villainy is needed.
+
+Exact locators and access: [cohort25 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX.md). This source-known scope adds no new whole-source,ruby,residual,image-set,admission or independent validation credit. Earlier models,first bodies,scores and prospective missingness remain unchanged. Canonical receiving/publication is pending for this candidate; the full KonoSuba program continues.

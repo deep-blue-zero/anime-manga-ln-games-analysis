@@ -1132,3 +1132,17 @@ The candidate adds one model to the preserved thirty, yielding thirty-one bodies
 | Pucchin / ぷっちん | Twelve-dimension monograph, three-rule provisional Tier3 model, six informed firsts/three pairs; PC01-PC15 | Theatrical evaluation, effective but admitted delayed intervention and practical support with mockery; academic merit, real knowledge/correction and generic rivals retained. |
 
 The [individual index](KONOSUBA_CRIMSON_PARENTS_TEACHER_EVIDENCE_INDEX.md) locates each actor and access plane. Two new models yield33bodies/27scoped secondary model subjects;21bounded profiles remain and eight monograph-only subjects include Hyoizaburoo. The207nonfinal records include14new candidate/role/roster/mediated slots, not14proved people. Twelve English firsts retain adverse findings, shared endpoints and unprobed mechanisms without accuracy, Japanese adequacy, grade or confidence gain. Global curator/evaluator outputs retain designated ownership. Seven expanded specialists, extended/full-series synthesis, six distinct StageD successors and integration/release/final entry remain active.
+
+
+## Cohort24 — Crimson village work and staff, source-known scope
+
+Chekera scopedTier2 has a dedicated monograph; infirmary teacher,cafe proprietor,blacksmith/armor artisan,potion proprietor,diner proprietor and farm earth caster/harvest supervisor have six compact Tier1 profiles in the existing coverage audit. No model is added to 33 entering bodies/27scoped secondary model subjects. Candidate totals 27 bounded profiles/nine monograph-only subjects and 219 nonfinal records are distinct scope measures. Ten new incidental Tier0 dispositions and one deferred Arcanretia manager review are not eleven proved unique people or denied future potential. Own choices, reports, generic rivals and missing outcomes remain asymmetric.
+
+Exact locators and access: [cohort24 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_TRADES_STAFF_EVIDENCE_INDEX.md). The shared known-source union is 1,149 BASE slots/7 text members/4 text objects, including context, blanks, other actors and rejected joins; no fresh whole-source, ruby, residual, image-set, admission or independent validation credit. Earlier models, scores, firsts and prospective missingness remain unchanged. Canonical receiving is complete for this candidate only; exact containing publication/full program remain pending.
+
+
+## Cohort25 — chief, Sylvia, trial machine and castle courier
+
+Sylvia earns one Tier2 monograph; chief,Moguninnin and the new MASK courier have three compact Tier1 profiles in the existing audit. All33models/27scoped secondary model subjects are unchanged. Candidate totals are30bounded profiles,10monograph-only subjects and223nonfinal records. Three new Tier0 group/reported-role records and one courier-role profile do not prove four distinct new people. Generic strategic,family,architectural and duty rivals remain; no forced Tier3 parity or sole-evaluator readiness judgement is added.
+
+Exact locators and access: [cohort25 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX.md). This source-known scope adds no new whole-source,ruby,residual,image-set,admission or independent validation credit. Earlier models,first bodies,scores and prospective missingness remain unchanged. Canonical receiving/publication is pending for this candidate; the full KonoSuba program continues.
