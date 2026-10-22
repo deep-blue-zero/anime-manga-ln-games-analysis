@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: ledger_architecture
 scope: LONGITUDINAL_LEDGER_PROMOTION_AND_SCHEMA_CONTRACT
-generation: V0.22
+generation: V0.23
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -47,6 +47,18 @@ Post-Beatrice15 Garfiel field-contract review: The Garfiel model and separate re
 All26 predecessor artifacts/five owner files/master§§2–12/formal protocol§19–21/reserved schema tail/exact V16seal279e4a504f39376b8b7083a95841ef28ee10416976c93bc9d69bb20b9bf1b413 remain unchanged. V15 retains292claims/E018alive/17deaths18segments and K495/M317/I262/R086/RT181. Historical Subaru10/Otto13/Emilia14/Beatrice15 bytes/defaults/local grades remain exact; Beatrice's full gate at6be67f9 is complete, not pending again. One integrated model plus separate review is proportional; no new field, sixth owner, independent ordinary/voice/evidence/readiness home, final specialist or global evaluator/curation work.
 
 This pair's own complete exact-commit publication gate precedes RAM_V01_V15_MODEL_AND_FIDELITY_REVIEW, then ROSWAAL_V01_V15_MODEL_AND_FIDELITY_REVIEW after Ram's own full gate, and only then source16. Local documentary PASS_WITH_BOUND is not publication. Active continuous terminalV43/EVOLVING remain; no routine checkpoint/model pause. The source-subject correction is a bounded nonuse/adjudication control, not a new schema, silently changed causal row or license to replace five owner bodies.
+
+### Post-Garfiel15 Ram field-contract review
+
+The [Ram V01–V15 model](../05%20Character%20Analysis/REZERO_RAM_V01_V15_CHARACTER_MODEL.md) and [separate fidelity review](../08%20Audits%20and%20Manifests/REZERO_RAM_V01_V15_FIDELITY_REVIEW.md) now implement35retrieval bundles/28eight-field rules, all seven selector axes,18ordinary/14recipient/20knowledge/18Japanese rows,19negativecontrols and14NONCANONICAL_PROBE applications. All nineteen dimensions were actually applied at same-analyst nonblind documentary level: PASS_WITH_BOUND after four attributable repair groups. Thirty-nine contextual Japanese windows/128450characters revisit already-consumed originals; no fifteen new complete rereads, independent/runtime/held-out/global grade or cure is claimed.
+
+**Operative Ram chronology bound:** model§0.1/review§2 retain V03 p-023#B0004–0045's nearly-seven-year account and V14 p-024#B0219–0239's nine-year oath dating with attribution. No verified unified interval/age, two-year bridge, second attack, edition cause or retcon is invented; neither local assertion is erased. C01 remains OPEN. Frozen V03/V14/five owners/master§§2–12 are preserved, not repaired. The existing Garfiel correction also remains operative: M178/M236/C116-ancestry Frederica→Garfiel speaking/healing labels are not valid Garfiel evidence.
+
+All28 predecessor artifacts/five owners/master§§2–12/formal protocol§§19–21/reserved schema tail/exact V16seal279e4a504f39376b8b7083a95841ef28ee10416976c93bc9d69bb20b9bf1b413 remain unchanged. V15 retains292claims/E018alive/17deaths18segments and K495/M317/I262/R086/RT181. Five historical model/review pairs retain exact bytes/defaults/local grades; Garfiel15's complete gatec6c8054c is closed, not pending again. No new field, sixth owner, source-bearing extract, independent evidence/ordinary/voice/readiness home, final specialist or global evaluator/curation work.
+
+Only after this Ram pair's own complete exact-commit publication gate execute ROSWAAL_V01_V15_MODEL_AND_FIDELITY_REVIEW, with its own actual source/design reconciliation, construction, separate nineteen-dimension review and full gate before source16. Local documentary PASS_WITH_BOUND is not publication. Active continuous terminalV43/EVOLVING and no ordinary checkpoint/model pause remain.
+
+No new field, sixth conditioning ledger, independent ordinary/voice/evidence/readiness index or altered reserved trigger is earned. The exact Ram model/review homes were already registered; implemented responsibilities do not require schema promotion. The two-date source qualification and E014→E018 memory repair are derived-use controls, not causal-row edits. Registered exact candidate homes and the complete reserved schema tail remain byte-exact.
 
 ### Registered exact candidate homes
 

@@ -11,7 +11,7 @@ The gate enforces the mechanics below in code. This document states what the CI 
 
 The owner delegates routine integration to the CI agent. Each scheduled run it:
 
-1. reviews every open, owner-authored, same-repository PR against `main`: the complete diff, its audit result and any CI failure evidence;
+1. reviews every open, owner-authored, same-repository PR against `main`: the complete diff, its audit result and any CI failure evidence, including any routing `catalog_note` that records progress instead of describing the project;
 2. reconciles a PR that is behind `main` by merging `main` into its branch, and fixes regressions in analysis, character data or code with ordinary commits on that branch;
 3. merges only by running the gate from a fresh checkout of current `main`.
 
@@ -44,7 +44,7 @@ Draft status and the `nightly-hold` label are the only hold signals. A hold seen
 For each candidate the gate:
 
 - confirms the branch's owner-authored PR, approved commit identities and allowed paths (an analysis branch may change only its own root, the five housekeeping routing outputs and a separately identifiable two-file curation repair);
-- waits for the trusted `Repository integration audit` to report success on the exact head, which for analysis branches follows housekeeping;
+- waits for the trusted `Repository integration audit` to report success on the exact head (for an analysis branch whose routing outputs were stale, that is housekeeping's child commit);
 - merges `main` into a stale branch only when Git merges cleanly, and otherwise leaves the conflict for the CI agent or author;
 - merges through GitHub's protected PR endpoint with the exact audited head as a merge commit;
 - checks that the merge commit's tree equals the audited head and waits for `main`'s own audit of it.

@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: source_lock
 scope: SOURCE_ADMISSION_CONTRACT_AND_CURRENT_INVENTORY_STATE
-generation: V0.23
+generation: V0.24
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -580,6 +580,28 @@ Complete entering text from6be67f9f7f4f9ae32238576ec3df1d6d7873187d; historical,
 - **Current execution state:** active continuous terminalV43. E018alive/17deaths18segments after actual rescue, three trials, two-site local release, finite chosen contract/defense, plural settlement and accepted office; reader-only Omega coda. No death18/E019, Rabbit extinction, gate/reserve repair, Rem awakening, full camp RBD/tea, origin telling/old apology or held capital reward ceremony is implied. The separate Arc04 checkpoint is fully gated; Beatrice15 has local documentary PASS_WITH_BOUND, not independent/global/runtime validation, new primary consumption or completed full-series synthesis.
 ````
 
+## Post-Garfiel15 Ram reconstruction source boundary — no new admission
+
+The [Ram V01–V15 model](../05%20Character%20Analysis/REZERO_RAM_V01_V15_CHARACTER_MODEL.md) and [separate fidelity review](../08%20Audits%20and%20Manifests/REZERO_RAM_V01_V15_FIDELITY_REVIEW.md) now implement35retrieval bundles/28eight-field rules, all seven selector axes,18ordinary/14recipient/20knowledge/18Japanese rows,19negativecontrols and14NONCANONICAL_PROBE applications. All nineteen dimensions were actually applied at same-analyst nonblind documentary level: PASS_WITH_BOUND after four attributable repair groups. Thirty-nine contextual Japanese windows/128450characters revisit already-consumed originals; no fifteen new complete rereads, independent/runtime/held-out/global grade or cure is claimed.
+
+Default is living E018 at Ram's latest actual V15 month-later party, p-027#B0218, beside sleeping Rem rather than Roswaal in that instant. Present care/residual bond does not restore old Rem autobiography, import E014's new lesson/Petra appraisal or provide an awake reply. Original revenge, changed self-directed rescue wish, received-and-denied love declaration, dependency, real harm, costly incomplete activation, existing green log-fire and medical gratitude without lover-selection authority remain distinct. No RBD/private soul/warded threat/trial/coda receipt, horn regrowth, completed death/resurrection, infinite aid or reciprocal-romance certificate.
+
+**Operative Ram chronology bound:** model§0.1/review§2 retain V03 p-023#B0004–0045's nearly-seven-year account and V14 p-024#B0219–0239's nine-year oath dating with attribution. No verified unified interval/age, two-year bridge, second attack, edition cause or retcon is invented; neither local assertion is erased. C01 remains OPEN. Frozen V03/V14/five owners/master§§2–12 are preserved, not repaired. The existing Garfiel correction also remains operative: M178/M236/C116-ancestry Frederica→Garfiel speaking/healing labels are not valid Garfiel evidence.
+
+All28 predecessor artifacts/five owners/master§§2–12/formal protocol§§19–21/reserved schema tail/exact V16seal279e4a504f39376b8b7083a95841ef28ee10416976c93bc9d69bb20b9bf1b413 remain unchanged. V15 retains292claims/E018alive/17deaths18segments and K495/M317/I262/R086/RT181. Five historical model/review pairs retain exact bytes/defaults/local grades; Garfiel15's complete gatec6c8054c is closed, not pending again. No new field, sixth owner, source-bearing extract, independent evidence/ordinary/voice/readiness home, final specialist or global evaluator/curation work.
+
+Only after this Ram pair's own complete exact-commit publication gate execute ROSWAAL_V01_V15_MODEL_AND_FIDELITY_REVIEW, with its own actual source/design reconciliation, construction, separate nineteen-dimension review and full gate before source16. Local documentary PASS_WITH_BOUND is not publication. Active continuous terminalV43/EVOLVING and no ordinary checkpoint/model pause remain.
+
+The first Ram source guard stopped before text when acquisition metadata changed. Removing only the appended subsequent_calibre_imports note reconstructs the historical23584-byte manifest/SHA3daa190cefda6ab894f5d62ff547a93856c8133f2d4fc1cbc552b99d73c73314 exactly; current23822-byte SHAa17ec23885bd4730457ea50f93cd55be1d9d1df896b8b141595b98fc0b55642d is separately pinned. All15locked actual EPUB sizes/hashes/CRCs were rechecked unchanged. The three-new-work note/report does not admit/open those works, update dated gaps automatically or extend terminal43; new report/contents remain unopened.
+
+The historical inventory/availability statements above remain dated claims, not automatically re-audited results for the three unexamined imports. The raw current acquisition-metadata hash and exactly reconstructed historical hash are distinguished; all15 selected original source identities remain unchanged. No new witness, citation edition or title is admitted.
+
+
+### Entering source-state summary — complete preimage
+
+Complete entering text from c6c8054c02e34a4acaa9aeb9b11fff7ccba1669b; historical, not current routing or a pending predecessor gate:
+
+`````markdown
 ## Current source-state summary
 
 - **Acquired/admitted Japanese main LN:** V01-V43 continuous.
@@ -594,3 +616,19 @@ Complete entering text from6be67f9f7f4f9ae32238576ec3df1d6d7873187d; historical,
 - **Next source acquisition priority:** Japanese V44 and V45 before the sequential read reaches that boundary.
 - **Next analytical operation:** `RAM_V01_V15_MODEL_AND_FIDELITY_REVIEW` only after the Garfiel15 pair's own complete gate; then Roswaal15 separately, each construction/review/full gate before the next/source16. V16 remains unopened/exact60-question/ten-forecast seal unchanged.
 - **Current execution state:** active continuous terminalV43. E018alive/17deaths18segments after actual rescue, three trials, two-site local release, finite chosen contract/defense, plural settlement and accepted office; reader-only Omega coda. No death18/E019, Rabbit extinction, gate/reserve repair, Rem awakening, full camp RBD/tea, origin telling/old apology or held capital reward ceremony is implied. The separate Arc04 checkpoint is fully gated; Garfiel15 has local documentary PASS_WITH_BOUND and a mandatory source-subject correction, not independent/global/runtime validation, new primary consumption or completed full-series synthesis.
+`````
+
+## Current source-state summary
+
+- **Acquired/admitted Japanese main LN:** V01-V43 continuous.
+- **Known published but not acquired/admitted main LN:** V44-V45.
+- **Admitted translations:** none.
+- **Retained non-admitted translation:** English V21, local hash reverified on resumption.
+- **Admitted supplemental/EX/short-story:** none.
+- **Admitted IF/alternate route:** none.
+- **Admitted web novel:** none.
+- **Admitted anime/audiovisual:** none.
+- **Consumed into prospective main-LN analysis:** V01–V15; full V15 gate98acb720 and separate source-free Arc04 gate6bce1604 complete. Beatrice15 complete gate6be67f9 and Garfiel15 complete gatec6c8054c are closed; Ram15 model/local scoped review now implemented under its own complete publication gate, not another consumed source. Historical Subaru10/Otto13/Emilia14/Beatrice15/Garfiel15 pairs retain exact scope/defaults/grades.
+- **Next source acquisition priority:** Japanese V44 and V45 before the sequential read reaches that boundary.
+- **Next analytical operation:** `ROSWAAL_V01_V15_MODEL_AND_FIDELITY_REVIEW` only after the Ram15 pair's own complete gate; its separate construction/review/full gate precedes source16. V16 remains unopened/exact60-question/ten-forecast seal unchanged.
+- **Current execution state:** active continuous terminalV43. E018alive/17deaths18segments after actual rescue, three trials, two-site local release, finite chosen contract/defense, plural settlement and accepted office; reader-only Omega coda. No death18/E019, Rabbit extinction, gate/reserve repair, Rem awakening, full camp RBD/tea, origin telling/old apology or held capital reward ceremony is implied. The separate Arc04 checkpoint is fully gated; Ram15 has local documentary PASS_WITH_BOUND and an OPEN chronology bound; Garfiel's mandatory source-subject correction remains operative, not independent/global/runtime validation, new primary consumption or completed full-series synthesis.

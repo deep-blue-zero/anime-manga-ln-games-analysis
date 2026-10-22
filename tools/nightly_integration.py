@@ -469,8 +469,8 @@ class Integrator:
             status = self.api.status(final)
             if status and status["state"] in {"failure", "error"}:
                 raise Blocked("Final repository audit failed")
-            # The reporter marks an analysis push pending until housekeeping
-            # completes, so a trusted success means the exact head is ready.
+            # The reporter marks an analysis push pending only while housekeeping
+            # must regenerate routing, so a trusted success means the exact head is ready.
             if status and status["state"] == "success" and self.api.audit_run(final, status):
                 return final
             time.sleep(max(0, min(15, end - time.monotonic())))

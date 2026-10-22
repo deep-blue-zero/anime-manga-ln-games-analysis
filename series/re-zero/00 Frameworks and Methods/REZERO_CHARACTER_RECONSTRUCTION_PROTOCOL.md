@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: character_reconstruction_protocol
 scope: SOURCE_GROUNDED_CONDITIONAL_CHARACTER_RECONSTRUCTION
-generation: V1.19
+generation: V1.20
 status: canonical
 release_state: mutable_active
 current_analytical_horizon: V15
@@ -25,7 +25,7 @@ The latest reached endpoint is living V15 E018 after the month-later accepted kn
 
 V13 §15/master §13 earned Otto MONOGRAPH_READY for bounded V01–V13 construction from cross-state development, language accommodation, family/merchant/Fulfhu relations, mixed motives, costs and recipient-conditioned voice. After V13's complete gate, the integrated `05 Character Analysis/REZERO_OTTO_SUWEN_V01_V13_CHARACTER_MODEL.md` and separate `08 Audits and Manifests/REZERO_OTTO_SUWEN_V01_V13_FIDELITY_REVIEW.md` now exist. The same-analyst, scoped nonblind nineteen-dimension document review is PASS_WITH_BOUND, not an independent benchmark or global grade. Its default is living E018 outside the tomb while Emilia begins her renewed first trial; the historical Subaru model/audit retains its different V01–V10 scope/default E013.
 
-V14/Emilia14, V15 at98acb720, Arc04 at6bce1604 and Beatrice15 at6be67f9 all have complete gates. The earned Garfiel V10–V15 integrated model and separately applied nineteen-dimension review now implement33bundles/28rules/19negativecontrols/14noncanonical applications at same-analyst nonblind documentary PASS_WITH_BOUND, not independent/runtime/global fidelity. Select living E018 latest actual party with Frederica/drunk Otto by default; earlier history, human/partial/full forms, private knowledge and material resources remain separate. Model§0.1/review§2 correct the inherited Frederica/Garfiel source-subject transfer: M178/M236/C116's V11 speaking/healing full-tiger label is invalid Garfiel evidence; old files are preserved, not repaired. This pair's own complete gate precedes Ram15, then Roswaal15 separately/full-gated before source16. All26 predecessors/five owners/master§§2–12/formal§§19–21/V16seal/activeV43 remain exact; four older pairs retain bytes/defaults/grades. Complete entering opening survives in§18.
+V14/Emilia14, V15 at98acb720, Arc04 at6bce1604, Beatrice15 at6be67f9 and Garfiel15 atc6c8054c have complete gates. The earned Ram V01–V15 model and separately applied nineteen-dimension review now implement35bundles/28rules/19negativecontrols/14noncanonical applications at same-analyst nonblind documentary PASS_WITH_BOUND after four repair groups. Default is living E018 latest actual party beside sleeping Rem, without restored autobiography/E014 inheritance. Model§0.1/review§2 retain both local chronology claims with exact unified interval/age OPEN; source/recipient/receipt/resource limits remain. Garfiel's inherited Frederica/Garfiel correction is still mandatory; older artifacts/five owners are preserved, not repaired. This Ram pair's own full gate precedes Roswaal15's separate construction/review/full gate before source16. All28predecessors/master§§2–12/formal§§19–21/reserved tail/V16seal/activeV43 and five older pairs' bytes/defaults/grades remain exact; entering opening survives in§18.
 
 The protocol standardizes **responsibilities, not file count or headings**. A compact monograph may satisfy it when evidence is narrow. A richer packet may divide the responsibilities among current-state, relationship, ordinary-life, voice, evidence, and fidelity artifacts only after each independent retrieval burden is demonstrated.
 
@@ -409,6 +409,29 @@ Complete entering text from6be67f9f7f4f9ae32238576ec3df1d6d7873187d; historical,
 ````markdown
 V14 and Emilia14 complete gates remain historical. V15's full gate at98acb720 and Arc04's full gate at6bce1604 are complete. The earned Beatrice V01–V15 integrated model and separate actually applied nineteen-dimension same-analyst nonblind documentary review now implement her responsibilities, with local PASS_WITH_BOUND,32bundles/28rules/19negativecontrols/12noncanonical applications and nine grouped corrections. Default is living E018 at her latest actual month-later party, chosen contract/last-established spent reserve; earlier states and unreceived history remain separate. This is not independent/runtime/blind/global validation, cure or a publication receipt. Her own complete gate precedes Garfiel10–15, then Ram15/Roswaal15 separately/full-gated before source16. All24 predecessor artifacts/five owners/master narrative bodies/formal audit contract/exact V16 prospect and activeV43 stay unchanged. Complete preceding opening survives in§18; historical Subaru10/Otto13/Emilia14 reviewed bytes/defaults/grades are not upgraded.
 ````
+
+### Post-Garfiel15 Ram implementation and preserved entering opening
+
+The [Ram V01–V15 model](../05%20Character%20Analysis/REZERO_RAM_V01_V15_CHARACTER_MODEL.md) and [separate fidelity review](../08%20Audits%20and%20Manifests/REZERO_RAM_V01_V15_FIDELITY_REVIEW.md) now implement35retrieval bundles/28eight-field rules, all seven selector axes,18ordinary/14recipient/20knowledge/18Japanese rows,19negativecontrols and14NONCANONICAL_PROBE applications. All nineteen dimensions were actually applied at same-analyst nonblind documentary level: PASS_WITH_BOUND after four attributable repair groups. Thirty-nine contextual Japanese windows/128450characters revisit already-consumed originals; no fifteen new complete rereads, independent/runtime/held-out/global grade or cure is claimed.
+
+Default is living E018 at Ram's latest actual V15 month-later party, p-027#B0218, beside sleeping Rem rather than Roswaal in that instant. Present care/residual bond does not restore old Rem autobiography, import E014's new lesson/Petra appraisal or provide an awake reply. Original revenge, changed self-directed rescue wish, received-and-denied love declaration, dependency, real harm, costly incomplete activation, existing green log-fire and medical gratitude without lover-selection authority remain distinct. No RBD/private soul/warded threat/trial/coda receipt, horn regrowth, completed death/resurrection, infinite aid or reciprocal-romance certificate.
+
+**Operative Ram chronology bound:** model§0.1/review§2 retain V03 p-023#B0004–0045's nearly-seven-year account and V14 p-024#B0219–0239's nine-year oath dating with attribution. No verified unified interval/age, two-year bridge, second attack, edition cause or retcon is invented; neither local assertion is erased. C01 remains OPEN. Frozen V03/V14/five owners/master§§2–12 are preserved, not repaired. The existing Garfiel correction also remains operative: M178/M236/C116-ancestry Frederica→Garfiel speaking/healing labels are not valid Garfiel evidence.
+
+All28 predecessor artifacts/five owners/master§§2–12/formal protocol§§19–21/reserved schema tail/exact V16seal279e4a504f39376b8b7083a95841ef28ee10416976c93bc9d69bb20b9bf1b413 remain unchanged. V15 retains292claims/E018alive/17deaths18segments and K495/M317/I262/R086/RT181. Five historical model/review pairs retain exact bytes/defaults/local grades; Garfiel15's complete gatec6c8054c is closed, not pending again. No new field, sixth owner, source-bearing extract, independent evidence/ordinary/voice/readiness home, final specialist or global evaluator/curation work.
+
+Only after this Ram pair's own complete exact-commit publication gate execute ROSWAAL_V01_V15_MODEL_AND_FIDELITY_REVIEW, with its own actual source/design reconciliation, construction, separate nineteen-dimension review and full gate before source16. Local documentary PASS_WITH_BOUND is not publication. Active continuous terminalV43/EVOLVING and no ordinary checkpoint/model pause remain.
+
+No new formal responsibility or field is required: state/receipt/recipient selection, ordinary tasks, failure/repair, Japanese register, counterevidence and operational refusal already cover the source conflict and repaired Petra-memory leak. Formal§§19–21 below remain byte-exact.
+
+
+#### Entering post-Garfiel15 opening — complete preimage
+
+Complete entering text from c6c8054c02e34a4acaa9aeb9b11fff7ccba1669b; historical, not current routing or a pending predecessor gate:
+
+`````markdown
+V14/Emilia14, V15 at98acb720, Arc04 at6bce1604 and Beatrice15 at6be67f9 all have complete gates. The earned Garfiel V10–V15 integrated model and separately applied nineteen-dimension review now implement33bundles/28rules/19negativecontrols/14noncanonical applications at same-analyst nonblind documentary PASS_WITH_BOUND, not independent/runtime/global fidelity. Select living E018 latest actual party with Frederica/drunk Otto by default; earlier history, human/partial/full forms, private knowledge and material resources remain separate. Model§0.1/review§2 correct the inherited Frederica/Garfiel source-subject transfer: M178/M236/C116's V11 speaking/healing full-tiger label is invalid Garfiel evidence; old files are preserved, not repaired. This pair's own complete gate precedes Ram15, then Roswaal15 separately/full-gated before source16. All26 predecessors/five owners/master§§2–12/formal§§19–21/V16seal/activeV43 remain exact; four older pairs retain bytes/defaults/grades. Complete entering opening survives in§18.
+`````
 
 ## 19. First mature-character fidelity audit
 
