@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: master_longitudinal_ledger
 scope: CUMULATIVE_MAIN_LIGHT_NOVEL_STATE_THROUGH_V15
-generation: V1.20
+generation: V1.21
 status: canonical
 release_state: mutable_active
 current_source_horizon: V15
@@ -43,15 +43,15 @@ For every new volume, update this file only after the source-facing reading has 
 
 | field | current state |
 |---|---|
-| analytical high-water mark in this synchronized transaction | `V15`, complete gate98acb720; source-free Arc04 gate6bce1604 complete; Beatrice15 construction/local review adds no primary unit |
-| next candidate | `GARFIEL_V10_V15_MODEL_AND_FIDELITY_REVIEW` only after Beatrice15's own complete gate; then separately Ram15/Roswaal15, each construction/review/full gate before the next/source16; activeV43 unchanged |
+| analytical high-water mark in this synchronized transaction | `V15`, complete gate98acb720; source-free Arc04 gate6bce1604 complete; Beatrice15 gate6be67f9 complete; Garfiel15 construction/local review adds no primary unit |
+| next candidate | `RAM_V01_V15_MODEL_AND_FIDELITY_REVIEW` only after Garfiel15's own complete gate; then separately Roswaal15, each construction/review/full gate before the next/source16; activeV43 unchanged |
 | current claim generation | `RZ-V15-C001`–`RZ-V15-C292`; all256 predecessors individually adjudicated:84 REVISE/86 STRENGTHEN/86 PRESERVE;36 NEW; all60 incoming questions/ten forecasts; complete old V14 claim/entering-V15 horizon bodies preserved |
 | reached event-state boundary | E018 alive after actual month-later knight ceremony/party;17deaths18segments. Principal rescue, three trials, two-site local release, book loss/wager defeat and Rabbit displacement enacted; reader-only Omega coda. No E019/death18, extinction, restored gate/Rem memory, fulfilled origin telling/old apology or held capital ceremony |
 | admitted numbered source range | Japanese `MAIN_LN` V01–V43 under current source lock |
 | unadmitted published gaps | V44–V45 |
 | admitted non-spine witnesses | none |
 | dedicated ledgers promoted | five sole owners: eventV1.9/E018; knowledgeV1.9/K495; mechanicsV1.8/M317; institutionV1.12/I262; relationshipV1.6/R086/RT181. New46K/32M/28I/8R/41RT;33 old R rows retain ancestry,45 stable/140 old transitions unchanged |
-| character models / local review | Subaru10/Otto13/Emilia14 pairs/defaults/grades unchanged and fully gated; Beatrice15 integrated model/separate actually applied nineteen-dimension same-analyst nonblind documentary PASS_WITH_BOUND, own full gate before Garfiel10–15/Ram15/Roswaal15; no independent/global/runtime grade |
+| character models / local review | Subaru10/Otto13/Emilia14/Beatrice15 pairs/defaults/grades unchanged/full-gated; Garfiel15 integrated model/separate nineteen-dimension same-analyst nonblind documentary PASS_WITH_BOUND and explicit subject correction, own full gate before Ram15/Roswaal15; no independent/global/runtime grade |
 | relationship/specialist syntheses | three checkpoints unchanged, including V10–V15 Arc04/twenty bounded propositions at completed gate6bce1604. Existing five owners remain sole homes; no final specialist/full-series convergence or new global grade |
 | architecture lifecycle | `EVOLVING` |
 
@@ -3901,6 +3901,54 @@ No forecast identifies a named betrayer, promises a cure, supplies an unseen liv
 
 ## 13. Promotion readiness
 
+### Current post-Garfiel15 responsibility review
+
+V15 gate98acb720, Arc04 gate6bce1604 and Beatrice15 gate6be67f9 are complete. The [Garfiel V10–V15 model](../05%20Character%20Analysis/REZERO_GARFIEL_TINSEL_V10_V15_CHARACTER_MODEL.md) and [separate fidelity review](../08%20Audits%20and%20Manifests/REZERO_GARFIEL_TINSEL_V10_V15_FIDELITY_REVIEW.md) implement33bundles/28eight-field rules, all seven selector axes, ordinary/recipient/Japanese/knowledge/help/failure/refusal controls,19negativecontrols and14noncanonical applications. All nineteen dimensions were actually applied at same-analyst nonblind documentary level, yielding PASS_WITH_BOUND after attributable scoped corrections. Forty-six bounded Japanese windows/140445characters revisit already-consumed V10–V15; this is not six fresh complete novel rereads, independent/runtime/held-out validation, a global grade or cure.
+
+**Operative source-identity correction:** model§0.1/review§2 identify V11 p-005#B0183–0207's speaking/partly healed full feline as **Frederica**, not Garfiel. M131 is the accurate route; inherited M178/M236/C116-ancestry “V11 speaking/healing full tiger” labels are not valid Garfiel evidence. Actual V11 p-013 is Subaru's failed transfer; V12 human Ram treatment/V13 nonhuman tiger address/V15 human reversion before speech remain distinct. Frozen records/five owners are preserved, not silently repaired. Require person/form/event and reject the old subject conflation without inventing universal future incapacity.
+
+| person / operation | current readiness/default and evidence route | next obligation / abstention |
+|---|---|---|
+| Garfiel V10–V15 | MONOGRAPH_READY now implemented/locally reviewed; living E018 latest actual party with Frederica/drunk Otto; model§§0–12/review§§2–7, exact person/form correction | own complete publication gate before reuse/progression; no E015 episodic murders, full maternal fate, private receipt, Ram romance consent, limitless earth/healing, full-tiger speech, drunkenness or favorite/law; first current person-target killing narrowly Elsa |
+| Ram V01–V15 | MONOGRAPH_READY construction after Garfiel's full gate; living E018 latest care beside sleeping Rem, missing sister autobiography | older maid/ordinary/recipient/voice plus changed wish/received denial/finite book strike/refusal; no regrown horn, Rem cure, RBD/private soul/terrace receipt; actual separate review/full gate |
+| Roswaal V01–V15 | MONOGRAPH_READY construction after Ram's full gate; living E018 latest public party role, own private threat retained; originalA/currentL selected | original disciple/public patron/private recipient/ordinary presentation/defeat/apology/coercion; no descendant consent/interiors, full procedure/immortality, death trigger or Omega; actual separate review/full gate |
+| Subaru10 / Otto13 / Emilia14 / Beatrice15 | four historical implemented/full-gated pairs retain exact reviewed bytes/defaults/local grades; Beatrice latest party with Petra, last-established spent reserve at her own horizon | not automatically extended, independent/runtime/global or cured; gates not pending again; unsupported coordinates remain abstentions |
+| other people / dyads / specialists | complete differentiated prior decisions remain in preserved reviews below | no sleeping Rem reply, all-copy identity, automatic whole-person promotion, sixth owner, final specialist or full-series convergence |
+
+Default is living E018 at Garfiel's latest actual V15 month-later party with Frederica and drunk Otto. Garfiel attempts a drink and is corrected; his intoxication/favorite/law is not supplied. Own first pass, conditional commander relation, real sister's competence, selective copy ethics, finite costs, current Elsa-related first person-target killing unease and “for now” anger survive. No E015 killing memory, full parental fate, private soul/terrace/coda receipt, Ram romance consent, infinite power or fluent full-tiger register is invented.
+
+All26 predecessor artifacts/five owner files/master§§2–12/formal protocol§19–21/reserved schema tail/exact V16seal279e4a504f39376b8b7083a95841ef28ee10416976c93bc9d69bb20b9bf1b413 remain unchanged. V15 retains292claims/E018alive/17deaths18segments and K495/M317/I262/R086/RT181. Historical Subaru10/Otto13/Emilia14/Beatrice15 bytes/defaults/local grades remain exact; Beatrice's full gate at6be67f9 is complete, not pending again. One integrated model plus separate review is proportional; no new field, sixth owner, independent ordinary/voice/evidence/readiness home, final specialist or global evaluator/curation work.
+
+This pair's own complete exact-commit publication gate precedes RAM_V01_V15_MODEL_AND_FIDELITY_REVIEW, then ROSWAAL_V01_V15_MODEL_AND_FIDELITY_REVIEW after Ram's own full gate, and only then source16. Local documentary PASS_WITH_BOUND is not publication. Active continuous terminalV43/EVOLVING remain; no routine checkpoint/model pause. Ram/Roswaal construction/review requires exact prior Japanese/design reconciliation, ordinary/recipient/voice/help/failure controls and actual nineteen-dimension application. Material failure requires attributable repair, narrower abstention or readiness revision, not invented fidelity.
+
+#### Historical entering boundary snapshot — complete preimage
+
+Complete entering text from6be67f9f7f4f9ae32238576ec3df1d6d7873187d; historical, not current routing or a pending predecessor gate:
+
+````markdown
+## 1. Current boundary snapshot
+
+| field | current state |
+|---|---|
+| analytical high-water mark in this synchronized transaction | `V15`, complete gate98acb720; source-free Arc04 gate6bce1604 complete; Beatrice15 construction/local review adds no primary unit |
+| next candidate | `GARFIEL_V10_V15_MODEL_AND_FIDELITY_REVIEW` only after Beatrice15's own complete gate; then separately Ram15/Roswaal15, each construction/review/full gate before the next/source16; activeV43 unchanged |
+| current claim generation | `RZ-V15-C001`–`RZ-V15-C292`; all256 predecessors individually adjudicated:84 REVISE/86 STRENGTHEN/86 PRESERVE;36 NEW; all60 incoming questions/ten forecasts; complete old V14 claim/entering-V15 horizon bodies preserved |
+| reached event-state boundary | E018 alive after actual month-later knight ceremony/party;17deaths18segments. Principal rescue, three trials, two-site local release, book loss/wager defeat and Rabbit displacement enacted; reader-only Omega coda. No E019/death18, extinction, restored gate/Rem memory, fulfilled origin telling/old apology or held capital ceremony |
+| admitted numbered source range | Japanese `MAIN_LN` V01–V43 under current source lock |
+| unadmitted published gaps | V44–V45 |
+| admitted non-spine witnesses | none |
+| dedicated ledgers promoted | five sole owners: eventV1.9/E018; knowledgeV1.9/K495; mechanicsV1.8/M317; institutionV1.12/I262; relationshipV1.6/R086/RT181. New46K/32M/28I/8R/41RT;33 old R rows retain ancestry,45 stable/140 old transitions unchanged |
+| character models / local review | Subaru10/Otto13/Emilia14 pairs/defaults/grades unchanged and fully gated; Beatrice15 integrated model/separate actually applied nineteen-dimension same-analyst nonblind documentary PASS_WITH_BOUND, own full gate before Garfiel10–15/Ram15/Roswaal15; no independent/global/runtime grade |
+| relationship/specialist syntheses | three checkpoints unchanged, including V10–V15 Arc04/twenty bounded propositions at completed gate6bce1604. Existing five owners remain sole homes; no final specialist/full-series convergence or new global grade |
+| architecture lifecycle | `EVOLVING` |
+
+````
+
+### Historical post-Beatrice15 responsibility review — complete exact preimage
+
+Complete entering text from6be67f9f7f4f9ae32238576ec3df1d6d7873187d; historical, not current routing or a pending predecessor gate:
+
+````markdown
 ### Current post-Beatrice15 responsibility review
 
 V15's gate98acb720 and the separate Arc04 gate6bce1604 are complete. The [Beatrice V01–V15 integrated model](../05%20Character%20Analysis/REZERO_BEATRICE_V01_V15_CHARACTER_MODEL.md) and [separate fidelity review](../08%20Audits%20and%20Manifests/REZERO_BEATRICE_V01_V15_FIDELITY_REVIEW.md) now implement her earned responsibility:32bundles/28conditionalrules/all seven axes, ordinary/recipient/Japanese/failure/refusal/knowledge controls,19negativecontrols/12noncanonical applications and nine grouped resolved corrections. Actual same-analyst nonblind nineteen-dimension documentary PASS_WITH_BOUND is not independent/runtime/held-out/global capability or a cured person. Forty-seven contextual Japanese windows/118868characters revisit already-consumed sources, not fifteen new whole-novel readings.
@@ -3915,6 +3963,8 @@ V15's gate98acb720 and the separate Arc04 gate6bce1604 are complete. The [Beatri
 | other people / dyads / specialists | exact differentiated prior decisions remain in preserved reviews below | no current sleeping Rem reply, all-copy identity, whole-person promotion, sixth owner, final specialist or full-series convergence |
 
 All24 predecessor artifacts/five owner files/master§§2–12/formal audit and reserved schema tails/exact V16 prospect remain unchanged. No new owner or standalone ordinary/voice/evidence/readiness home is earned by model size. This pair's own full gate → Garfiel10–15 → Ram15 → Roswaal15 → source16; each construction/review/full gate separately, activeV43 without routine confirmation/pause. Unknown complete biography/preferences/powers are operational abstentions; failed tests require repair/readiness revision, not invented fidelity.
+
+````
 
 ### Historical post-Arc04 responsibility review — complete exact preimage
 

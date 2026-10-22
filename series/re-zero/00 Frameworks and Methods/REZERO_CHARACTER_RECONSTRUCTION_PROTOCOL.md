@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: character_reconstruction_protocol
 scope: SOURCE_GROUNDED_CONDITIONAL_CHARACTER_RECONSTRUCTION
-generation: V1.18
+generation: V1.19
 status: canonical
 release_state: mutable_active
 current_analytical_horizon: V15
@@ -25,7 +25,7 @@ The latest reached endpoint is living V15 E018 after the month-later accepted kn
 
 V13 §15/master §13 earned Otto MONOGRAPH_READY for bounded V01–V13 construction from cross-state development, language accommodation, family/merchant/Fulfhu relations, mixed motives, costs and recipient-conditioned voice. After V13's complete gate, the integrated `05 Character Analysis/REZERO_OTTO_SUWEN_V01_V13_CHARACTER_MODEL.md` and separate `08 Audits and Manifests/REZERO_OTTO_SUWEN_V01_V13_FIDELITY_REVIEW.md` now exist. The same-analyst, scoped nonblind nineteen-dimension document review is PASS_WITH_BOUND, not an independent benchmark or global grade. Its default is living E018 outside the tomb while Emilia begins her renewed first trial; the historical Subaru model/audit retains its different V01–V10 scope/default E013.
 
-V14 and Emilia14 complete gates remain historical. V15's full gate at98acb720 and Arc04's full gate at6bce1604 are complete. The earned Beatrice V01–V15 integrated model and separate actually applied nineteen-dimension same-analyst nonblind documentary review now implement her responsibilities, with local PASS_WITH_BOUND,32bundles/28rules/19negativecontrols/12noncanonical applications and nine grouped corrections. Default is living E018 at her latest actual month-later party, chosen contract/last-established spent reserve; earlier states and unreceived history remain separate. This is not independent/runtime/blind/global validation, cure or a publication receipt. Her own complete gate precedes Garfiel10–15, then Ram15/Roswaal15 separately/full-gated before source16. All24 predecessor artifacts/five owners/master narrative bodies/formal audit contract/exact V16 prospect and activeV43 stay unchanged. Complete preceding opening survives in§18; historical Subaru10/Otto13/Emilia14 reviewed bytes/defaults/grades are not upgraded.
+V14/Emilia14, V15 at98acb720, Arc04 at6bce1604 and Beatrice15 at6be67f9 all have complete gates. The earned Garfiel V10–V15 integrated model and separately applied nineteen-dimension review now implement33bundles/28rules/19negativecontrols/14noncanonical applications at same-analyst nonblind documentary PASS_WITH_BOUND, not independent/runtime/global fidelity. Select living E018 latest actual party with Frederica/drunk Otto by default; earlier history, human/partial/full forms, private knowledge and material resources remain separate. Model§0.1/review§2 correct the inherited Frederica/Garfiel source-subject transfer: M178/M236/C116's V11 speaking/healing full-tiger label is invalid Garfiel evidence; old files are preserved, not repaired. This pair's own complete gate precedes Ram15, then Roswaal15 separately/full-gated before source16. All26 predecessors/five owners/master§§2–12/formal§§19–21/V16seal/activeV43 remain exact; four older pairs retain bytes/defaults/grades. Complete entering opening survives in§18.
 
 The protocol standardizes **responsibilities, not file count or headings**. A compact monograph may satisfy it when evidence is narrow. A richer packet may divide the responsibilities among current-state, relationship, ordinary-life, voice, evidence, and fidelity artifacts only after each independent retrieval burden is demonstrated.
 
@@ -391,6 +391,24 @@ Complete replaced opening from6bce1604, preserved as history rather than current
 ```markdown
 V14's full gate at cfd5627ddc4cf26fe5bd05bb1fac3b7eeb23f960 and Emilia14's separate full gate at1a421296e69e547dd9bd017a83a00b9a5d7bc1de both closed before V15. Her implemented V01–V14 model/review retains living E018 FIRST PASS/SECOND START before contents and local same-analyst nonblind nineteen-dimension documentary PASS_WITH_BOUND. Subaru10/Otto13/Emilia14 reviewed bytes/defaults/grades remain historical, not independent runtime, blind benchmark, global grade, cure or V15 certification. After Arc04's own complete gate, Beatrice15 then Garfiel10–15/Ram15/Roswaal15 are four separately earned constructions/reviews, each own complete gate before the next/source16. Readiness is not achieved fidelity. The exact V16 prospect and activeV43 authorization stay fixed; the complete old Emilia-operation paragraph survives in§18.
 ```
+
+### Post-Beatrice15 Garfiel implementation and bounded correction
+
+The [Garfiel V10–V15 model](../05%20Character%20Analysis/REZERO_GARFIEL_TINSEL_V10_V15_CHARACTER_MODEL.md) and [separate fidelity review](../08%20Audits%20and%20Manifests/REZERO_GARFIEL_TINSEL_V10_V15_FIDELITY_REVIEW.md) implement33bundles/28eight-field rules, all seven selector axes, ordinary/recipient/Japanese/knowledge/help/failure/refusal controls,19negativecontrols and14noncanonical applications. All nineteen dimensions were actually applied at same-analyst nonblind documentary level, yielding PASS_WITH_BOUND after attributable scoped corrections. Forty-six bounded Japanese windows/140445characters revisit already-consumed V10–V15; this is not six fresh complete novel rereads, independent/runtime/held-out validation, a global grade or cure.
+
+**Operative source-identity correction:** model§0.1/review§2 identify V11 p-005#B0183–0207's speaking/partly healed full feline as **Frederica**, not Garfiel. M131 is the accurate route; inherited M178/M236/C116-ancestry “V11 speaking/healing full tiger” labels are not valid Garfiel evidence. Actual V11 p-013 is Subaru's failed transfer; V12 human Ram treatment/V13 nonhuman tiger address/V15 human reversion before speech remain distinct. Frozen records/five owners are preserved, not silently repaired. Require person/form/event and reject the old subject conflation without inventing universal future incapacity.
+
+All26 predecessor artifacts/five owner files/master§§2–12/formal protocol§19–21/reserved schema tail/exact V16seal279e4a504f39376b8b7083a95841ef28ee10416976c93bc9d69bb20b9bf1b413 remain unchanged. V15 retains292claims/E018alive/17deaths18segments and K495/M317/I262/R086/RT181. Historical Subaru10/Otto13/Emilia14/Beatrice15 bytes/defaults/local grades remain exact; Beatrice's full gate at6be67f9 is complete, not pending again. One integrated model plus separate review is proportional; no new field, sixth owner, independent ordinary/voice/evidence/readiness home, final specialist or global evaluator/curation work.
+
+This pair's own complete exact-commit publication gate precedes RAM_V01_V15_MODEL_AND_FIDELITY_REVIEW, then ROSWAAL_V01_V15_MODEL_AND_FIDELITY_REVIEW after Ram's own full gate, and only then source16. Local documentary PASS_WITH_BOUND is not publication. Active continuous terminalV43/EVOLVING remain; no routine checkpoint/model pause.
+
+#### Historical entering post-Beatrice opening — complete preimage
+
+Complete entering text from6be67f9f7f4f9ae32238576ec3df1d6d7873187d; historical, not current routing or a pending predecessor gate:
+
+````markdown
+V14 and Emilia14 complete gates remain historical. V15's full gate at98acb720 and Arc04's full gate at6bce1604 are complete. The earned Beatrice V01–V15 integrated model and separate actually applied nineteen-dimension same-analyst nonblind documentary review now implement her responsibilities, with local PASS_WITH_BOUND,32bundles/28rules/19negativecontrols/12noncanonical applications and nine grouped corrections. Default is living E018 at her latest actual month-later party, chosen contract/last-established spent reserve; earlier states and unreceived history remain separate. This is not independent/runtime/blind/global validation, cure or a publication receipt. Her own complete gate precedes Garfiel10–15, then Ram15/Roswaal15 separately/full-gated before source16. All24 predecessor artifacts/five owners/master narrative bodies/formal audit contract/exact V16 prospect and activeV43 stay unchanged. Complete preceding opening survives in§18; historical Subaru10/Otto13/Emilia14 reviewed bytes/defaults/grades are not upgraded.
+````
 
 ## 19. First mature-character fidelity audit
 

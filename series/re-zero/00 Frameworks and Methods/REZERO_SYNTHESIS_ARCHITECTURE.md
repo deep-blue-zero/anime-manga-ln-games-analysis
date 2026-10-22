@@ -2,11 +2,11 @@
 series: RE_ZERO
 artifact_type: synthesis_architecture
 scope: JAPANESE_LIGHT_NOVEL_PROSPECTIVE_LONGITUDINAL_AND_SYNTHESIS_ARCHITECTURE
-generation: V1.19
+generation: V1.20
 status: canonical
 release_state: mutable_active
 architecture_lifecycle: EVOLVING
-source_boundary: "Japanese main LN V01-V43 admitted; V15 gate98acb720 and Arc04 gate6bce1604 complete; Beatrice15 model/local scoped review implemented under own full gate before Garfiel10-V15/Ram15/Roswaal15;24 predecessors/five owners/V16seal unchanged; no nonspine admission"
+source_boundary: "Japanese main LN V01-V43 admitted; V15/Arc04/Beatrice15 gates complete; Garfiel10-V15 model/local review and explicit subject correction under own full gate before Ram15/Roswaal15;26 predecessors/five owners/V16seal unchanged; no nonspine admission"
 recommended_reasoning_class: PREMIUM_QUALITY_FIRST
 reasoning_policy: MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md
 pro_justification: "Propagation-sensitive architecture repair: this routing governs every later Re:Zero volume transaction and synthesis layer."
@@ -538,6 +538,26 @@ The complete entering recovery paragraph is preserved verbatim from6bce1604 as h
 An earned separately pending reconstruction/checkpoint operation is binding, not permission to skip a gate. Current order: V15 complete publication → ARC04_CHECKPOINT complete publication → BEATRICE_V01_V15_MODEL_AND_FIDELITY_REVIEW → GARFIEL_V10_V15_MODEL_AND_FIDELITY_REVIEW → RAM_V01_V15_MODEL_AND_FIDELITY_REVIEW → ROSWAAL_V01_V15_MODEL_AND_FIDELITY_REVIEW → V16; each derived operation needs its own complete gate before the next. Both map fields must agree with master readiness. V14 and Emilia14 gates are already closed; do not redo them. Local review alone is not a full publication gate. The exact V16 prospect remains unchanged through these source-free operations.
 ```
 
+### Post-Beatrice15 Garfiel construction and source-identity control
+
+The [Garfiel V10–V15 model](../05%20Character%20Analysis/REZERO_GARFIEL_TINSEL_V10_V15_CHARACTER_MODEL.md) and [separate fidelity review](../08%20Audits%20and%20Manifests/REZERO_GARFIEL_TINSEL_V10_V15_FIDELITY_REVIEW.md) implement33bundles/28eight-field rules, all seven selector axes, ordinary/recipient/Japanese/knowledge/help/failure/refusal controls,19negativecontrols and14noncanonical applications. All nineteen dimensions were actually applied at same-analyst nonblind documentary level, yielding PASS_WITH_BOUND after attributable scoped corrections. Forty-six bounded Japanese windows/140445characters revisit already-consumed V10–V15; this is not six fresh complete novel rereads, independent/runtime/held-out validation, a global grade or cure.
+
+**Operative source-identity correction:** model§0.1/review§2 identify V11 p-005#B0183–0207's speaking/partly healed full feline as **Frederica**, not Garfiel. M131 is the accurate route; inherited M178/M236/C116-ancestry “V11 speaking/healing full tiger” labels are not valid Garfiel evidence. Actual V11 p-013 is Subaru's failed transfer; V12 human Ram treatment/V13 nonhuman tiger address/V15 human reversion before speech remain distinct. Frozen records/five owners are preserved, not silently repaired. Require person/form/event and reject the old subject conflation without inventing universal future incapacity.
+
+Default is living E018 at Garfiel's latest actual V15 month-later party with Frederica and drunk Otto. Garfiel attempts a drink and is corrected; his intoxication/favorite/law is not supplied. Own first pass, conditional commander relation, real sister's competence, selective copy ethics, finite costs, current Elsa-related first person-target killing unease and “for now” anger survive. No E015 killing memory, full parental fate, private soul/terrace/coda receipt, Ram romance consent, infinite power or fluent full-tiger register is invented.
+
+All26 predecessor artifacts/five owner files/master§§2–12/formal protocol§19–21/reserved schema tail/exact V16seal279e4a504f39376b8b7083a95841ef28ee10416976c93bc9d69bb20b9bf1b413 remain unchanged. V15 retains292claims/E018alive/17deaths18segments and K495/M317/I262/R086/RT181. Historical Subaru10/Otto13/Emilia14/Beatrice15 bytes/defaults/local grades remain exact; Beatrice's full gate at6be67f9 is complete, not pending again. One integrated model plus separate review is proportional; no new field, sixth owner, independent ordinary/voice/evidence/readiness home, final specialist or global evaluator/curation work.
+
+This pair's own complete exact-commit publication gate precedes RAM_V01_V15_MODEL_AND_FIDELITY_REVIEW, then ROSWAAL_V01_V15_MODEL_AND_FIDELITY_REVIEW after Ram's own full gate, and only then source16. Local documentary PASS_WITH_BOUND is not publication. Active continuous terminalV43/EVOLVING remain; no routine checkpoint/model pause.
+
+#### Historical entering recovery paragraph — complete preimage
+
+Complete entering text from6be67f9f7f4f9ae32238576ec3df1d6d7873187d; historical, not current routing or a pending predecessor gate:
+
+````markdown
+An earned separately pending reconstruction/checkpoint operation is binding, not permission to skip a gate. V15 publication at98acb720 and Arc04 publication at6bce1604 are complete. Current order: BEATRICE_V01_V15_MODEL_AND_FIDELITY_REVIEW own complete publication → GARFIEL_V10_V15_MODEL_AND_FIDELITY_REVIEW → RAM_V01_V15_MODEL_AND_FIDELITY_REVIEW → ROSWAAL_V01_V15_MODEL_AND_FIDELITY_REVIEW → V16; each operation requires its separate actual review and full gate before the next. Both map fields select Garfiel conditionally on the Beatrice gate and agree with master readiness. Earlier gates/defaults/grades are not redone or expanded. Local documentary PASS_WITH_BOUND is not a publication receipt. Exact V16 prospect and active terminalV43 remain unchanged.
+````
+
 ## 15. Completion gates
 
 The project distinguishes:
@@ -602,7 +622,7 @@ After interruption or ambiguous publication:
 6. resolve branch, source, or prospective-contamination ambiguity before new source reading;
 7. resume at the first unclosed volume within the authorized terminal boundary.
 
-An earned separately pending reconstruction/checkpoint operation is binding, not permission to skip a gate. V15 publication at98acb720 and Arc04 publication at6bce1604 are complete. Current order: BEATRICE_V01_V15_MODEL_AND_FIDELITY_REVIEW own complete publication → GARFIEL_V10_V15_MODEL_AND_FIDELITY_REVIEW → RAM_V01_V15_MODEL_AND_FIDELITY_REVIEW → ROSWAAL_V01_V15_MODEL_AND_FIDELITY_REVIEW → V16; each operation requires its separate actual review and full gate before the next. Both map fields select Garfiel conditionally on the Beatrice gate and agree with master readiness. Earlier gates/defaults/grades are not redone or expanded. Local documentary PASS_WITH_BOUND is not a publication receipt. Exact V16 prospect and active terminalV43 remain unchanged.
+An earned separately pending reconstruction/checkpoint operation is binding, not permission to skip a gate. V15/Arc04/Beatrice15 complete gates are closed. Current order: GARFIEL_V10_V15_MODEL_AND_FIDELITY_REVIEW own complete publication → RAM_V01_V15_MODEL_AND_FIDELITY_REVIEW → ROSWAAL_V01_V15_MODEL_AND_FIDELITY_REVIEW → V16, each separately reviewed/full-gated before the next. Both map fields select Ram15 conditionally on Garfiel's full gate and agree with master§13. Enforce model§0.1/review§2's Frederica/Garfiel correction without rewriting protected history/owners. Local documentary PASS_WITH_BOUND is not publication; historical defaults/grades, exact V16 prospect and activeV43 remain unchanged.
 
 Conversational memory never advances state. A drafted file, local commit, push success message, earlier green audit, or housekeeping-pending source commit is not the same as a verified completed transaction.
 

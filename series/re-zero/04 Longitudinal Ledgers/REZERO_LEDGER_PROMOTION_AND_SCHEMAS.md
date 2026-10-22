@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: ledger_architecture
 scope: LONGITUDINAL_LEDGER_PROMOTION_AND_SCHEMA_CONTRACT
-generation: V0.21
+generation: V0.22
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -39,6 +39,14 @@ V15 field-contract review: E018/K495/M317/I262/R086/RT181 represent corrected be
 Post-Arc04 checkpoint field-contract review: the source-free V10–V15 checkpoint adds twenty bounded convergence propositions, not a new VNN claim generation or a current owner. State/holder/causal/power/personal-term distinctions remain retrievable through E018/K495/M317/I262/R086/RT181 and292V15claims. All five owner files and all23 prior frozen analytical artifacts stay unchanged. Master readiness/current routing advances conditionally on the checkpoint's own complete gate to Beatrice15, then separately Garfiel10–15/Ram15/Roswaal15 with actual scoped reviews/full gates before source16. This is qualitative convergence, not inherited fidelity, a new field or an index promoted by count. The exact V16 prospect and every reserved schema below remain unchanged.
 
 Post-Arc04 Beatrice15 field-contract review: Arc04's complete gate at6bce1604 is closed; the earned integrated model/separate review implement32bundles/28rules/all seven axes,19negativecontrols/12noncanonical applications and an actually applied nineteen-dimension local same-analyst nonblind documentary PASS_WITH_BOUND after nine grouped corrections. These are derived responsibilities, not a new claim generation/field or independent/global grade. Forty-seven targeted windows/118868characters revisit consumed sources. All24 predecessors/five owner files/master§§2–12/exact V16seal and every reserved contract below remain unchanged. Routing advances conditionally on this pair's own full gate to Garfiel10–15, then Ram15/Roswaal15 separately before source16. Old checkpoint review above remains its historical entering trigger; no evidence/ordinary/voice/readiness index or sixth ledger is earned by count.
+
+Post-Beatrice15 Garfiel field-contract review: The Garfiel model and separate review implement33bundles/28eight-field rules, all seven selector axes, ordinary/recipient/Japanese/knowledge/help/failure/refusal controls,19negativecontrols and14noncanonical applications. All nineteen dimensions were actually applied at same-analyst nonblind documentary level, yielding PASS_WITH_BOUND after attributable scoped corrections. Forty-six bounded Japanese windows/140445characters revisit already-consumed V10–V15; this is not six fresh complete novel rereads, independent/runtime/held-out validation, a global grade or cure.
+
+**Operative source-identity correction:** model§0.1/review§2 identify V11 p-005#B0183–0207's speaking/partly healed full feline as **Frederica**, not Garfiel. M131 is the accurate route; inherited M178/M236/C116-ancestry “V11 speaking/healing full tiger” labels are not valid Garfiel evidence. Actual V11 p-013 is Subaru's failed transfer; V12 human Ram treatment/V13 nonhuman tiger address/V15 human reversion before speech remain distinct. Frozen records/five owners are preserved, not silently repaired. Require person/form/event and reject the old subject conflation without inventing universal future incapacity.
+
+All26 predecessor artifacts/five owner files/master§§2–12/formal protocol§19–21/reserved schema tail/exact V16seal279e4a504f39376b8b7083a95841ef28ee10416976c93bc9d69bb20b9bf1b413 remain unchanged. V15 retains292claims/E018alive/17deaths18segments and K495/M317/I262/R086/RT181. Historical Subaru10/Otto13/Emilia14/Beatrice15 bytes/defaults/local grades remain exact; Beatrice's full gate at6be67f9 is complete, not pending again. One integrated model plus separate review is proportional; no new field, sixth owner, independent ordinary/voice/evidence/readiness home, final specialist or global evaluator/curation work.
+
+This pair's own complete exact-commit publication gate precedes RAM_V01_V15_MODEL_AND_FIDELITY_REVIEW, then ROSWAAL_V01_V15_MODEL_AND_FIDELITY_REVIEW after Ram's own full gate, and only then source16. Local documentary PASS_WITH_BOUND is not publication. Active continuous terminalV43/EVOLVING remain; no routine checkpoint/model pause. The source-subject correction is a bounded nonuse/adjudication control, not a new schema, silently changed causal row or license to replace five owner bodies.
 
 ### Registered exact candidate homes
 
