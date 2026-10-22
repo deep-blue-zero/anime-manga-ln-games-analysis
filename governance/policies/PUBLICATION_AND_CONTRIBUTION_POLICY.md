@@ -12,7 +12,7 @@ The repository's agents are owner-operated automation, not additional contributo
 
 The `main` ruleset must stay active with no bypass actors, block deletion and force-pushes, and require a strict, up-to-date `Repository integration audit` from GitHub Actions. It does not require linear history; pull requests integrate as merge commits. The activation-tag ruleset must keep blocking deletion and force-pushes on `refs/tags/activation/**`. The merge gate rechecks the `main` ruleset in code before each merge; the exact ruleset and app identifiers live in `tools/nightly_integration.py`. This policy grants no authority to change provider settings.
 
-The owner reviews collaborators, pending invitations, deploy keys, installed GitHub Apps and Actions permissions when changing repository settings, and before merging a pull request by hand. The G3 public-visibility activation evidence is archived in `../archive/migration/public-activation-bindings.json`; it is historical, not a live provider reading.
+The merge gate confirms at the start of each apply run that there is no other collaborator, pending invitation or write-enabled deploy key, and halts otherwise. The owner reviews those, installed GitHub Apps and Actions permissions when changing repository settings, and before merging a pull request by hand. The G3 public-visibility activation evidence is archived in `../archive/migration/public-activation-bindings.json`; it is historical, not a live provider reading.
 
 Three workflows are approved:
 
