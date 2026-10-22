@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: corpus_map
 scope: SERIES_BOOTSTRAP_AND_ANALYTICAL_ROUTING
-generation: V0.7
+generation: V0.35
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -29,6 +29,7 @@ project_initialization:
   required_day_one_infrastructure:
     - 04 Longitudinal Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md
   sequential_analysis_lock: OPEN
+  next_permitted_operation: V17
 ```
 
 ```yaml
@@ -37,11 +38,10 @@ sequential_execution:
   unit_type: main_light_novel_volume
   authorized_start: V03
   terminal_boundary: V43
-  committed_high_water_mark: V03
-  next_candidate_operation: V04
+  committed_high_water_mark: V16
+  next_candidate_operation: V17
   confirmation_between_units: false
-  run_state: paused_by_user
-  pause_boundary: after_verified_V03_publication
+  run_state: active
 ```
 
 ## Authority split
@@ -53,15 +53,15 @@ sequential_execution:
 
 ## Current analytical state
 
-**The acquired Japanese main-LN range V01-V43 is source-locked, and the prospective Japanese-primary Volume 01 through Volume 03 deep readings are frozen and canonical. The source-verified V02–V03 estate-story checkpoint is also frozen. Volume 04 and the separately previewed non-spine story remain analytically unopened. The sequential run is paused at the user's post-V03 boundary. A canonical character-reconstruction protocol and a bibliographic-only supplemental witness catalog are now present, but no character monograph, dedicated specialist ledger, standalone specialist synthesis, PACTRIH placement, adaptation judgment, evidence/index layer, or full-series synthesis is canonical here yet.**
+Japanese main-LN prospective analysis reaches the [V16 deep reading](02%20Sequential%20Readings/REZERO_LN_V16_DEEP_READING.md) and its synchronized five-owner/master state. The source-facing facts and next responsibilities are summarized here; Git history, immutable exact-file readback and trusted audit statuses own publication receipts. Follow the complete gate dependencies in the work order before executing the next candidate.
 
-The later project-initiation architecture gate is satisfied prospectively. `REZERO_SYNTHESIS_ARCHITECTURE.md` is the canonical `EVOLVING` synthesis architecture, `REZERO_CHARACTER_RECONSTRUCTION_PROTOCOL.md` governs future mature character work and its first fidelity audit, and `REZERO_MASTER_LONGITUDINAL_LEDGER.md` is the required cumulative home promoted and backfilled from the unmodified V01/V02 freezes, then advanced through V03. `SEQUENTIAL_ANALYSIS_LOCK = OPEN`, but the user-requested execution pause controls: no V04 source-facing work begins until the user resumes the run.
+The exact Japanese V16 original was fully consumed in OPF order:39members/77actual deliveries/3805positions=3773TEXT+32IMAGEreferences,22unique spine assets, zero gaps/duplicates; main narrative EOFp-020#B0215 and final publisher logop-bookwalker#B0001. The separate unreferenced distribution advert is excluded packaging, not a source instruction. Source10591363bytes/SHA81695f7fdb01767a705daf3011f84a20c2ec7cbba658efe173dd5fb32b7756c8/CRCpass; no source admission or later opening.
 
-The governed source audit admits one continuous Japanese main-volume sequence V01-V43. A live 2026-09-08 rescan found no V44/V45 or other new source, reproduced 44 of 45 manifest objects exactly, and re-audited the sole post-manifest replacement, Japanese V41, under its current exact hash. A 2026-09-04 official-publication freshness check establishes V44 and V45 as published but absent from that acquisition. This does not block the authorized V03-V43 run; it means the repository must not describe the source corpus as complete-to-date.
+Current340claims incorporate292individual predecessor dispositions:187PRESERVE/74STRENGTHEN/23REVISE/8OPEN plus48NEW. All60incoming questions/10forecasts are adjudicated, not retrospectively predicted. E018 ends at square death18 and actual park arrival instantiates livingE019,19segments. Common year/travel/family history survives before point; onlySubaru retains the later square. Narrator十数分 timing is explicitly not yet recognized bySubaru. CurrentC116/M344 prohibit the old Frederica→Garfiel speaking/healing inference; exact older wording/history remains recoverable. Ram chronology staysOPEN.
 
-The architecture remains intentionally conservative because Re:Zero has multiple source families that can contaminate one another if treated as a single undifferentiated canon pool. Main light novels, mainline supplemental stories, alternate-route/IF material, web-novel material, and anime adaptation evidence must remain separately labeled witnesses until a specific analytical operation compares them. The supplemental catalog may record officially established but unacquired items and unresolved paratext leads; this is not admission. The current audited source folder admits no supplemental, IF/alternate-route, web-novel, or audiovisual witness.
+Five soleowners/master remain sufficient: eventV2.0/E019, knowledgeV2.0/K545, mechanicsV1.9/M345, institutionV1.13/I294, relationshipV1.7/R104/RT239; new50K/28M/32I/18R/58RT,40oldR advanced with preimages,46stable/181oldRT exact. All39 older artifacts, including the V16 freeze and ten prior model/review pairs, retain exact bytes/defaults/local grades. V16 reconciliation is not expanded documentary fidelity, independent/runtime/global validation or a cure.
 
-The first three interpretive operations are complete. `REZERO_LN_V01_DEEP_READING.md` freezes four local event-states and 24 V01 claim IDs. `REZERO_LN_V02_DEEP_READING.md` carries those claims forward through explicit revision operations, freezes four mansion event-states (`V02-E1` through `V02-E4`), 30 stable V02 claim IDs, and the bounded V03 question set. `REZERO_LN_V03_DEEP_READING.md` adjudicates all 30 V02 claims and all 26 V03 questions, confirms a surviving fifth-day mansion state, freezes 35 V03 claim IDs and 24 bounded V04 questions, and preserves the exact consumed Japanese witness identity. `REZERO_ARC_ESTATE_STORY_CHECKPOINT.md` records the source-verified V02–V03 structural break without inventing a formal arc ID. V04 is the next candidate only after resumption.
+V16/Julius16/Wilhelm16/Crusch16 complete gates are closed, latest Crusch16 at9131ffb6. The earned [Ferris V01–V16 model](05%20Character%20Analysis/REZERO_FERRIS_FELIX_ARGYLE_V01_V16_CHARACTER_MODEL.md) and [separate fidelity review](08%20Audits%20and%20Manifests/REZERO_FERRIS_FELIX_ARGYLE_V01_V16_FIDELITY_REVIEW.md) now supply35source bundles/24conditional rules/12Japanese observations/28negative controls/10noncanonical applications and an actually applied nineteen-dimension same-analyst nonblind documentary PASS_WITH_BOUND after nine scoped model findings/one minor editorial repair and three review-only clarifications. Counts identify the artifact, not readiness by quota. Default is latest personally observed interrupted-breakfast aftermath with memoryless Crusch: hostile command refused, later non-escalation and unreconciled dispersal; not terminalE011 memory, clinical refusal or invented E019 location/receipt. Useful care/ordinary pleasure coexist with coercion, unfair judgment, limits and incomplete repair. This pair's own complete gate remains before sealed V17; no further V16-earned construction is unimplemented. Other people retain named narrower cases. No Arc5-end checkpoint, sixth owner/new field/count-driven index, independent/held-out/runtime/global grade or ordinary pause.
 
 ## Governing method and retrieval route
 
@@ -98,37 +98,26 @@ A discarded or superseded event-state can remain highly probative character evid
 
 | Layer | Analytical responsibility | Current state |
 |---|---|---|
-| `00 Frameworks and Methods` | Governing evidence, prospective-freeze, route-state, witness-separation, character reconstruction/fidelity, focalization, Japanese-language, safe-horizon, revision, longitudinal-routing, specialist, and completion rules | populated; analytical method V0.1; witness protocol V0.2; synthesis architecture V1.1 `EVOLVING`; character reconstruction protocol V1.0 |
-| `01 Source Lock and Inventory` | Exact admitted witness set, integrity/provenance, edition identity, publication ordering, source-family classification, and non-spine bibliographic awareness | V01-V43 Japanese `MAIN_LN` admitted; V41 current hash point-audited after manifest drift; V44-V45 known acquisition gaps; V01-V03 consumed; supplemental catalog V0.1 contains no admitted or opened non-spine witness |
-| `02 Sequential Readings` | Main-light-novel volume-by-volume prospective deep readings and source-verified arc checkpoints | V01-V03 deep readings and the V02–V03 estate-story checkpoint frozen/canonical; V04 remains unopened |
+| `00 Frameworks and Methods` | Governing evidence, prospective-freeze, route-state, witness-separation, character reconstruction/fidelity, focalization, Japanese-language, safe-horizon, revision, longitudinal-routing, specialist, and completion rules | methodV0.1/witnessprotocolV0.2 unchanged; architectureV1.27 EVOLVING; characterprotocolV1.26/currentV16; Julius/Wilhelm/Crusch full-gated; Ferris model/separate local review implemented under own gate; ten prior grades unchanged |
+| `01 Source Lock and Inventory` | Exact witness set, integrity/provenance, edition identity, publication ordering, source-family classification and non-spine awareness | sourceLockV0.30; admittedV01–V43/V41exception/datedgaps unchanged; V16 exact complete consumption, V17+/nonspine/new import narratives unopened; no admission |
+| `02 Sequential Readings` | Main-LN prospective deep readings and source-verified checkpoints | V01–V15/three checkpoints exact; V16 source-facing reading and synchronized current state. V17 exact60Q/10P seal fixed through four separately gated derived operations |
 | `03 Supplemental and Alternate Witnesses` | Analytical readings of admitted mainline side stories, collections, EX/supplemental material, IF/alternate routes, web-novel witnesses, and other non-spine material | routing contract V0.2 populated; cataloging remains in layer 01; no witness admitted or read yet |
-| `04 Longitudinal Ledgers` | Current claims/revisions, route/event-state, knowledge, relationship, character-state, institution, mechanics, ordinary-life, terminology, prospective questions, and readiness | master ledger V1.2 current through V03; schema contract V0.3 registers exact later candidate homes; V03 review promotes none |
-| `05 Character Analysis` | Protocol-governed character reconstruction only after sufficient longitudinal evidence exists | routing contract V0.2 populated; no monographs yet; first mature model requires a separate fidelity audit |
+| `04 Longitudinal Ledgers` | Current claims/revisions, chronology/durability, proposition holders, relationships, characters, institutions, mechanics, ordinary life, Japanese, questions and readiness | masterV1.28/currentV16; five soleowners eventV2.0/E019, knowledgeV2.0/K545, mechanicsV1.9/M345, institutionV1.13/I294, relationshipV1.7/R104/RT239; schemaV0.29/no field change |
+| `05 Character Analysis` | Protocol-governed character reconstruction only after sufficient longitudinal evidence exists | routerV0.17; ten prior pairs exact/full-gated; Ferris16 model/review local documentary PASS_WITH_BOUND, own full gate separate before V17; all four V16-earned constructions implemented |
 | `06 Adaptation Analysis` | Anime and later audiovisual comparison as separately labeled witnesses | routing contract populated; no adaptation findings yet |
 | `07 Specialist Synthesis` | Dense questions with independent retrieval responsibility, instantiated only when earned | not instantiated |
-| `08 Audits and Manifests` | Bootstrap and later analytical/source-integrity manifests | bootstrap manifest populated; detailed source audit remains Drive-authoritative |
+| `08 Audits and Manifests` | Bootstrap and later analytical/source-integrity manifests | ten prior scoped reviews unchanged; Ferris's separately applied nineteen-dimension same-analyst nonblind documentary PASS_WITH_BOUND implemented, own publication gate separate; no independent/runtime/global grade |
 | future `09 Evidence and Indexes` | Claim-evidence, source-locator, character-evidence-coverage, or witness-dependency navigation only after demonstrated retrieval burden | not instantiated; exact candidates and triggers reserved in the synthesis architecture |
 | future `10 Full-Series Synthesis` | Canonical full-series convergence after complete-series or expressly bounded readiness | not instantiated; reserved canonical file `REZERO_FULL_SERIES_SYNTHESIS.md` |
 | `90 Legacy and Superseded` | Materially distinct superseded analysis | not instantiated; no legacy analytical corpus is being imported |
 
 The absence of an unused directory is intentional. Re:Zero should grow by analytical responsibility, not by template symmetry.
 
-## Architecture repair provenance and sequential lock
+## Sequential lock and history
 
-The Re:Zero Git-native root was created and V01/V02 were frozen before enforcement of the current initiation validator. After merging live `origin/main` into the stable branch, the role-gap audit found a complete analytical method and witness protocol but no separately recoverable synthesis/corpus architecture and no promoted cumulative current-state home despite repeated longitudinal responsibilities.
+All initiation requirements are initialized and `SEQUENTIAL_ANALYSIS_LOCK = OPEN`. The current method, evolving synthesis architecture, five specialist owners, master and source-bounded model/audit define the present routing. An OPEN lock does not itself admit a different witness or override source/publication controls.
 
-The repair therefore:
-
-- preserves the historical bootstrap manifest and both frozen readings unchanged;
-- creates `REZERO_SYNTHESIS_ARCHITECTURE.md` as the canonical `EVOLVING` architecture;
-- promotes one proportional `REZERO_MASTER_LONGITUDINAL_LEDGER.md` rather than seven empty or competing ledgers;
-- backfills only the state already established by V01/V02;
-- marks the routing descriptor `project_initiation_gate: REQUIRED`;
-- records the bounded audit in `08 Audits and Manifests/REZERO_ARCHITECTURE_REPAIR_MANIFEST.md`.
-
-All initiation requirements are now initialized. The sequential lock is affirmatively **OPEN**. The repair preceded V03; V03 is now frozen, and the user-requested pause keeps V04 unopened.
-
-At the first safe boundary after the V03 freeze, a bounded architecture extension added the character-reconstruction protocol and supplemental witness catalog, registered exact future ledger/evidence candidates, required a fidelity audit for the first mature character, and declared `10 Full-Series Synthesis/REZERO_FULL_SERIES_SYNTHESIS.md` as the eventual canonical convergence home. The V03 promotion review retained every recurring responsibility in the master ledger or deferred it with a concrete trigger; it created no empty specialist artifact.
+The V01/V02 repair, later architecture extensions, ledger promotions, checkpoint operation and source-consumption history are preserved in the [project changelog](REZERO_PROJECT_CHANGELOG.md). These are historical records, not competing current defaults. Git history and live audit statuses own exact publication receipts; this entrypoint owns current scope and the next permitted operation.
 
 ## Reasoning-class routing
 
@@ -184,18 +173,18 @@ The sequential pass should test rather than assume questions including:
 - where ordinary routines, food, work, study, leisure, humor, gifts, comfort, etiquette, and low-stakes choices reveal durable character structure;
 - which later conclusions genuinely revise earlier models and which merely add information unavailable at the earlier freeze.
 
+Publication follows the current repository integration checklist. Routing-current and stale-routing paths have different housekeeping requirements; exact Git/audit evidence owns receipts, and the work order below states required dependencies rather than a prose publication status.
+
 ## Current work order
 
-1. Treat both frozen sequential readings as immutable historical prospective states. V01 remains the original prior; V02 owns the historical V01→V02 revision transaction and must not retroactively rewrite V01.
-2. Preserve the completed V03 transaction as its own prospective state: it owns the V02→V03 revisions, 35 current claims, the V04 horizon, and the source-verified V02–V03 estate-story checkpoint.
-3. Preserve the completed post-V03 architecture extension as a separate transaction. Its catalog and future-path reservations do not advance the source horizon.
-4. Keep V04 and the previewed non-spine story unopened while the user pause is active. On resumption, load the frozen V03 horizon before opening only admitted Japanese witness `RZ-MAIN-LN-JA-V04`.
-5. Continue prospectively through the admitted main-LN spine; create later checkpoints only after source evidence establishes the boundary and the final contributing volume is frozen.
-6. Acquire and integrity-audit Japanese V44 and V45 before the sequential reading reaches that boundary; admission is not implied by their bibliographic existence.
-7. Maintain bibliographic awareness in the supplemental catalog without opening narrative material. When a witness is acquired, assign its source class and `H_pub`/`H_diegetic`/`H_route`/`H_final` state before reading it analytically.
-8. Update the master longitudinal ledger in every volume transaction; promote a dedicated ledger only when one responsibility develops an independent retrieval/revision burden, then leave routing rather than a competing full copy in the master.
-9. Create character monographs only after protocol-defined cross-state, relational, ordinary-life, linguistic, failure, and abstention evidence exists. The first mature model must pass its fidelity audit.
-10. Treat anime and other adaptations as distinct witnesses whose performance, direction, framing, omission, compression, and reordering can be analyzed without replacing the light-novel model.
+1. Close this Ferris model/review transaction's own complete gate: exact tested core/packaging, ten-file synchronization, complete actual staged-diff review and final-index author preflight; current-main/remote reconciliation, exact-path owner-authored commit/nonforce push, immutable full-file/tree readback and the required branch PR. Leave merging to the owner/CI agent; do not self-merge or dispatch protected automation.
+2. Require actual-source full integration audit/all discovered tests, trusted exact-SHA reporter/status, applicable completed housekeeping and a later clean native/source/protected/seal check. Routing-current no-op needs no redundant child audit; stale routing requires the allowlisted child/full exact-child audit. An earlier commit's pass never certifies a new head.
+3. V16/Julius16/Wilhelm16/Crusch16 complete gates are closed. Ferris16's separate nineteen-dimension same-analyst nonblind documentary review is actually applied, not an independent/runtime/global result or the own publication receipt. Both operation fields select V17 conditionally on closing this pair's gate; do not repeat earlier models or reopen completed gates.
+4. Only then open V17 in Japanese OPF order through full text/image EOF against unchanged sealed60questions/10forecasts SHA53ac9eb4456e84f00e1e2c8fbeef9b2d4910dd2f873f93143652cbc3854c724e. Derived source revisits add no later primary unit or silent prospect rewrite.
+5. Preserve39older artifacts including the V16 freeze/ten prior model-review scopes/defaults/grades, plus this Ferris pair's declared scope/latest interrupted-breakfast default/local grade. Do not move old defaults toE019. Keep Ram chronology OPEN, C116/M344's Frederica-subject correction mandatory and Roswaal recipient/agency/source qualifications.
+6. Maintain18deaths19segments/E019 acute horror and exact holder/consent/resource boundaries. BrokenGate/small daily mana/dormantPuck/unresponsiveRem, undeliveredletter/unacquiredcrystal, incomplete origin telling/old apology/family repair remain distinct. Award/medal now retrospectively confirmed; no unsupported exact Guard enrollment/salary.
+7. Continue prospective atomic transactions through activeV43 without routine unit/model confirmation. Source exhaustion is not published-series completion. Fiveowners/master own state/person/ordinary/voice/readiness; no count-driven file symmetry or new global grade.
+8. Source admission43/V41exception and datedV44/V45 gaps remain unchanged; new import metadata/report is not new narrative admission. V17+/IF/WN/supplement/adaptation remain unopened. Global curation/evaluator/steward/protected integration retain separate authority.
 
 ## Bootstrap abstentions
 
