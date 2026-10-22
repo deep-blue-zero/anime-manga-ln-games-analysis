@@ -12,8 +12,8 @@ The gate enforces the mechanics below in code. This document states what the CI 
 The owner delegates routine integration to the CI agent. Each scheduled run it:
 
 1. reviews every open, owner-authored, same-repository PR against `main`: the complete diff, its audit result and any CI failure evidence, including any routing `catalog_note` that records progress instead of describing the project;
-2. reconciles a PR that is behind `main` by merging `main` into its branch, and fixes regressions in analysis, character data or code with ordinary commits on that branch;
-3. merges only by running the gate from a fresh checkout of current `main`.
+2. reconciles a PR that is behind `main` by merging `main` into its branch, and fixes regressions in analysis, character data or code with ordinary commits on that branch. A broken character reference that needs curation judgment gets the `character-repair` label and a comment naming the record, and the discovery agent repairs it;
+3. merges only by running the gate from a fresh checkout of current `main`, once per reviewed PR with `--branch` and `--expect-head`, so a commit pushed after the review waits for the next one.
 
 Candidates come from `series/`, `studies/`, `agent/` (and the older `codex/`, `chatgpt/` and `claude/`) branches and the `character-registry` and `character-reconstruction` branches. A branch name grants nothing: the gate checks each PR's paths. Character discovery and reconstruction PRs are ordinary candidates. The repository audit confines `character-registry` to its two files. The gate accepts reconstruction outputs only from `character-reconstruction`, which may change nothing else. Until the owner accepts reconstruction calibration (`publication_phase: ROUTINE`), the gate leaves every reconstruction PR for the owner.
 
@@ -57,7 +57,7 @@ If `main` moves during a run, the remaining candidates wait for the next run. If
 ## Running the CI agent
 
 - Use one fine-grained owner token for this repository with Contents and Pull requests read/write, and Actions, Administration and Commit statuses read. Supply it as `OWNER_TOKEN`. Do not place it in files, PR text, logs or chat. The `NIGHTLY_INTEGRATION_TOKEN` secret needs the same permissions.
-- Run `python tools/nightly_integration.py --mode apply --report <durable path>` from a fresh checkout of `main`. `--mode preview` makes no writes.
+- Run `python tools/nightly_integration.py --mode apply --branch <branch> --expect-head <reviewed SHA> --report <path>` from a fresh checkout of `main`, and keep the printed JSON receipt in the run's report. Apply over open PRs refuses to start without both options. `--mode preview` makes no writes.
 - Run one instance at a time per host. Concurrent writers are safe but waste effort, because GitHub's exact-head merge and strict up-to-date rule let only one succeed.
 
 ## Bulk merge workflow

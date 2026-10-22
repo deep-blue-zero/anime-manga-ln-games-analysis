@@ -17,7 +17,7 @@ Structural checks cannot establish that an interpretation is correct; only evide
 
 ## Lag and broken references
 
-Discovery may lag: new analysis merges without immediate enrollment, and the registry is not presumed exhaustive. Validation stays strict, though. If an analysis change would break an existing record's path, anchor, authority relationship, coverage claim or index digest, it cannot merge until the two character files are repaired in a separately identifiable commit on that analysis branch. The discovery agent makes repairs that need curation judgment. The CI agent may make a purely mechanical one, such as following a renamed path or regenerating the index. Never weaken a check to wait for the next run.
+Discovery may lag: new analysis merges without immediate enrollment, and the registry is not presumed exhaustive. Validation stays strict, though. If an analysis change would break an existing record's path, anchor, authority relationship, coverage claim or index digest, it cannot merge until the two character files are repaired in a separately identifiable commit on that analysis branch. The discovery agent makes repairs that need curation judgment. The CI agent may make a purely mechanical one, such as following a renamed path or regenerating the index. Otherwise it adds the `character-repair` label and a comment naming the record. Each run, the discovery agent repairs labeled PRs first, then removes the label and comments what it changed. If the repair needs an owner decision, it comments the question and leaves the label. Never weaken a check to wait for the next run.
 
 Historical character-record fixtures in the tests describe an immutable checkpoint, not a freeze on the live registry.
 
