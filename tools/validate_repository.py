@@ -129,13 +129,10 @@ PROJECT_INITIATION_GATE_SCHEMA = (
     "anime-manga-ln-games-analysis/project-initiation-gate/v1"
 )
 PROJECT_INITIATION_BASELINE = "2eec12ae1200d3aaaff3f754fd535808161226f8"
-GLOBAL_AUTOMATION_POLICY_PATH = (
-    "governance/repository-controls/global-index-automation-policy.json"
-)
-GLOBAL_AUTOMATION_POLICY_SCHEMA = (
-    "anime-manga-ln-games-analysis/global-index-automation-policy/v2"
-)
 AUDIT_WORKFLOW_PATH = ".github/workflows/repository-audit.yml"
+AUDIT_COMMIT_EXPRESSION = (
+    "${{ github.event_name == 'repository_dispatch' && github.event.client_payload.commit_sha || github.sha }}"
+)
 HOUSEKEEPING_WORKFLOW_PATH = ".github/workflows/global-index-housekeeping.yml"
 NIGHTLY_WORKFLOW_PATH = ".github/workflows/nightly-integration.yml"
 GLOBAL_AUTOMATION_WRITE_PATHS = set(ROUTING_OUTPUTS)
@@ -358,9 +355,23 @@ def validate_audit_workflow(
             )
         ):
             errors.append("repository-audit workflow contains prohibited capability: uses:")
-        expected_report = {"name":"Report the result on the audited commit","needs":"audit","if":"${{ always() }}","runs-on":"ubuntu-24.04","timeout-minutes":5,"permissions":{"statuses":"write"},"steps":[{"name":"Publish only the exact audit status","shell":"bash","env":{"GH_TOKEN":"${{ github.token }}","AUDIT_COMMIT":"${{ github.event_name == 'repository_dispatch' && github.event.client_payload.commit_sha || github.sha }}","AUDIT_RESULT":"${{ needs.audit.result }}","INTEGRATION_STATE":"${{ needs.audit.outputs.integration_state }}","ANALYTICAL_SOURCE":"${{ github.event_name == 'push' && (startsWith(github.ref_name, 'series/') || startsWith(github.ref_name, 'studies/')) }}"},"run":"set -euo pipefail\npython - <<'PY'\nimport json\nimport os\nimport re\nimport urllib.request\n\nsha = os.environ[\"AUDIT_COMMIT\"]\nrepository = os.environ[\"GITHUB_REPOSITORY\"]\nif not re.fullmatch(r\"[0-9a-f]{40}\", sha):\n    raise SystemExit(\"FAIL: invalid audited commit\")\nif repository != \"deep-blue-zero/anime-manga-ln-games-analysis\":\n    raise SystemExit(\"FAIL: unexpected repository\")\nresult = os.environ[\"AUDIT_RESULT\"]\nintegration = os.environ[\"INTEGRATION_STATE\"]\nif result == \"success\" and integration in {\"success\", \"pending\"}:\n    state = \"pending\" if os.environ[\"ANALYTICAL_SOURCE\"] == \"true\" else integration\n    description = (\n        \"Exact commit passed the repository audit\"\n        if state == \"success\"\n        else \"Authored content passed; awaiting housekeeping and final audit\"\n    )\nelse:\n    state = \"error\" if result in {\"cancelled\", \"skipped\"} else \"failure\"\n    description = \"Audit did not complete successfully; this commit is not integration-ready\"\npayload = json.dumps({\n    \"state\": state,\n    \"context\": \"Repository integration audit\",\n    \"description\": description,\n    \"target_url\": f\"https://github.com/{repository}/actions/runs/{os.environ['GITHUB_RUN_ID']}\",\n}).encode(\"utf-8\")\nrequest = urllib.request.Request(\n    f\"https://api.github.com/repos/{repository}/statuses/{sha}\",\n    data=payload,\n    headers={\n        \"Accept\": \"application/vnd.github+json\",\n        \"Authorization\": \"Bearer \" + os.environ[\"GH_TOKEN\"],\n        \"X-GitHub-Api-Version\": \"2022-11-28\",\n    },\n    method=\"POST\",\n)\nwith urllib.request.urlopen(request, timeout=30) as response:\n    if response.status != 201:\n        raise SystemExit(\"FAIL: GitHub did not confirm the commit status\")\nprint(f\"Reported {state} for exact audited commit {sha}\")\nPY\n"}]}
-        if jobs.get("report") != expected_report:
-            errors.append("audit status reporter differs from the exact reviewed reporting contract")
+        report = jobs.get("report", {})
+        steps = report.get("steps", []) if isinstance(report, Mapping) else []
+        step = steps[0] if isinstance(steps, list) and len(steps) == 1 else None
+        if (
+            not isinstance(report, Mapping)
+            or report.get("needs") != "audit"
+            or report.get("permissions") != {"statuses": "write"}
+            or "uses" in report
+            or not isinstance(step, Mapping)
+            or "uses" in step
+            or step.get("env", {}).get("AUDIT_COMMIT") != AUDIT_COMMIT_EXPRESSION
+            or "/statuses/{sha}" not in str(step.get("run", ""))
+        ):
+            errors.append(
+                "audit status reporter must be one step with statuses: write only, "
+                "reporting the exact audited commit"
+            )
     except (DomainError, AttributeError, TypeError, ValueError) as exc:
         errors.append(f"invalid audit permission/reporting contract: {exc}")
 
@@ -423,107 +434,44 @@ def validate_audit_workflow(
 def validate_global_index_automation(
     snapshot: GitSnapshot, policy: Mapping[str, Any]
 ) -> list[str]:
-    """Bind housekeeping to its exact input and output contract."""
+    """Keep housekeeping to owner audits of analysis branches and the five routing outputs."""
 
     errors: list[str] = []
-    policy_entry = snapshot.get(GLOBAL_AUTOMATION_POLICY_PATH)
-    if policy_entry is None or not policy_entry.qualifies_as_evidence:
-        return [f"missing tracked regular automation policy: {GLOBAL_AUTOMATION_POLICY_PATH}"]
-    try:
-        document = decode_json(policy_entry.data, GLOBAL_AUTOMATION_POLICY_PATH)
-    except (DomainError, json.JSONDecodeError, UnicodeDecodeError) as exc:
-        return [str(exc)]
-    if not isinstance(document, Mapping):
-        return [f"{GLOBAL_AUTOMATION_POLICY_PATH} must be a JSON object"]
-    if document.get("schema") != GLOBAL_AUTOMATION_POLICY_SCHEMA:
-        errors.append(f"{GLOBAL_AUTOMATION_POLICY_PATH}.schema is not recognized")
-    if document.get("workflow") != HOUSEKEEPING_WORKFLOW_PATH:
-        errors.append(f"{GLOBAL_AUTOMATION_POLICY_PATH}.workflow is not exact")
-    if document.get("trigger_workflow") != "Repository audit":
-        errors.append(f"{GLOBAL_AUTOMATION_POLICY_PATH}.trigger_workflow is not exact")
-    if document.get("owner_actor") != "deep-blue-zero":
-        errors.append(f"{GLOBAL_AUTOMATION_POLICY_PATH}.owner_actor is not exact")
-    if document.get("branch_prefixes") != ["series/", "studies/"]:
-        errors.append(f"{GLOBAL_AUTOMATION_POLICY_PATH}.branch_prefixes are not exact")
-    expected_sources = {
-        "series_registry": "series/<stable-slug>/.repository/series-registry.json",
-        "study_registry": "studies/<stable-slug>/.repository/study-registry.json",
-    }
-    if document.get("source_contracts") != expected_sources:
-        errors.append(f"{GLOBAL_AUTOMATION_POLICY_PATH}.source_contracts are not exact")
-    if set(document.get("allowed_write_paths", [])) != GLOBAL_AUTOMATION_WRITE_PATHS:
-        errors.append(f"{GLOBAL_AUTOMATION_POLICY_PATH}.allowed_write_paths are not exact")
-    expected_prohibitions = {
-        "analysis_content_write",
-        "registry_delete",
-        "force_push",
-        "main_push",
-        "branch_create",
-        "branch_delete",
-        "tag_write",
-        "pull_request_write",
-        "release_write",
-    }
-    if set(document.get("prohibited_automatic_operations", [])) != expected_prohibitions:
-        errors.append(
-            f"{GLOBAL_AUTOMATION_POLICY_PATH}.prohibited_automatic_operations are not exact"
-        )
-    expected_author = {
-        "name": "deep-blue-zero",
-        "email": "50891441+peipw@users.noreply.github.com",
-    }
-    expected_committer = {"name": "GitHub", "email": "noreply@github.com"}
-    if document.get("commit_author") != expected_author:
-        errors.append(f"{GLOBAL_AUTOMATION_POLICY_PATH}.commit_author is not exact")
-    if document.get("commit_committer") != expected_committer:
-        errors.append(f"{GLOBAL_AUTOMATION_POLICY_PATH}.commit_committer is not exact")
-    if document.get("post_write_audit_dispatch") != "audit-generated-commit":
-        errors.append(f"{GLOBAL_AUTOMATION_POLICY_PATH}.post_write_audit_dispatch is not exact")
-
     workflow_entry = snapshot.get(HOUSEKEEPING_WORKFLOW_PATH)
     if workflow_entry is None or workflow_entry.mode != "100644":
-        return errors + ["approved global index housekeeping workflow is missing"]
+        return ["approved global index housekeeping workflow is missing"]
     try:
         text = workflow_entry.data.decode("utf-8", "strict")
-    except UnicodeDecodeError as exc:
-        return errors + [f"global index housekeeping workflow is not UTF-8: {exc}"]
-    for required_path in (
-        "tools/synchronize_global_registries.py",
-        "governance/policies/AUTOMATED_GLOBAL_INDEX_MAINTENANCE.md",
-        "governance/policies/CHARACTER_DISCOVERY_MAINTENANCE.md",
+        workflow = _restricted_yaml_load(
+            re.sub(r"(?m)^on:", '"on":', text), HOUSEKEEPING_WORKFLOW_PATH
+        )
+    except (UnicodeDecodeError, DomainError, TypeError, ValueError) as exc:
+        return [f"invalid global index housekeeping workflow: {exc}"]
+    if not isinstance(workflow, Mapping):
+        return ["global index housekeeping workflow must be a mapping"]
+    if workflow.get("on") != {"workflow_run": {
+        "workflows": ["Repository audit"], "types": ["completed"],
+        "branches": ["series/**", "studies/**"],
+    }}:
+        errors.append("housekeeping must run only after Repository audit completes on series/study branches")
+    if workflow.get("permissions") != {"contents": "write"}:
+        errors.append("housekeeping token must have contents: write only")
+    jobs = workflow.get("jobs", {})
+    if not isinstance(jobs, Mapping) or any(
+        not isinstance(job, Mapping) or "permissions" in job or "uses" in job
+        for job in jobs.values()
     ):
-        required_entry = snapshot.get(required_path)
-        if required_entry is None or not required_entry.qualifies_as_evidence:
-            errors.append(f"global index automation dependency is missing: {required_path}")
-    required_fragments = (
-        "name: Global index housekeeping",
-        "  workflow_run:",
-        "      - Repository audit",
-        "  contents: write",
-        "github.event.workflow_run.actor.login == github.repository_owner",
+        errors.append("housekeeping jobs may not widen permissions or call reusable workflows")
+    for fragment in (
+        "github.event.workflow_run.event == 'push'",
         "github.event.workflow_run.conclusion == 'success'",
-        "steps.acquire.outputs.ready == 'true'",
-        "Superseded housekeeping run",
-        "Superseded before publication",
-        "Main advanced during housekeeping",
-        'dispatch_exact_audit "${SOURCE_SHA}"',
-        "Superseded before no-op certification",
+        "github.event.workflow_run.actor.login == github.repository_owner",
         "git merge-base --is-ancestor origin/main HEAD",
-        "tools/synchronize_global_registries.py",
-        "tools/update_repository_indexes.py",
-        "tools/prepare_commit.py --base origin/main --check --full",
-        'export GIT_AUTHOR_NAME="deep-blue-zero"',
-        'export GIT_COMMITTER_NAME="GitHub"',
-        'git push origin "HEAD:refs/heads/${BRANCH_NAME}"',
-        '"event_type": "audit-generated-commit"',
-    )
-    for path in sorted(GLOBAL_AUTOMATION_WRITE_PATHS):
-        required_fragments += (f'"{path}"',)
-    for fragment in required_fragments:
+    ):
         if fragment not in text:
             errors.append(f"global index housekeeping workflow missing contract: {fragment}")
-    # Branch confinement may admit coordinated agent-authored character repairs,
-    # but the actual generated/staged output set must remain the five routing paths.
+    # Branches may carry coordinated character repairs, but the generated and
+    # staged output set must remain the five routing paths.
     output_blocks = re.findall(
         r"readonly generated_paths=\((.*?)\)", text, flags=re.DOTALL
     )
@@ -4481,6 +4429,40 @@ def discovery_confinement_errors(
     return validate_discovery_branch_confinement(root, kind, commit) if applies else []
 
 
+def validate_routing_branch_scope(root: Path, kind: str, commit: str | None, branch: str) -> list[str]:
+    """Bound a series/study branch delta to its own root and the shared outputs.
+
+    The routing preflight applies this so a passing analysis-branch audit is
+    integration-ready without a separate housekeeping certification. A commit
+    already contained in main has nothing left to integrate.
+    """
+
+    if not re.fullmatch(r"(series|studies)/[a-z0-9][a-z0-9-]*", branch):
+        return [f"routing preflight requires a series/study branch: {branch}"]
+    target = _reconstruction_target_commit(root, kind, commit)
+    main_commit = _run_closure_base_commit(root)
+    if target is None or main_commit is None:
+        return ["analysis branch scope needs the audited commit and refs/remotes/origin/main"]
+    try:
+        base = run_git(root, "merge-base", target, main_commit).decode("ascii").strip()
+        if kind == "commit" and base == target:
+            return []
+        changed = _reconstruction_delta_paths(root, kind, base, commit)
+    except DomainError as exc:
+        return [f"unable to determine the analysis branch delta: {exc}"]
+    allowed = set(ROUTING_OUTPUTS) | set(DISCOVERY_OUTPUTS)
+    extra = sorted(
+        (path for path in changed if path not in allowed and not path.startswith(branch + "/")),
+        key=lambda item: item.encode("utf-8"),
+    )
+    if extra:
+        return [
+            f"{branch} may change only its own root, the five routing outputs and the two "
+            f"discovery outputs; other changed paths: {extra}"
+        ]
+    return []
+
+
 def choose_snapshot(root: Path, kind: str, commit: str | None) -> tuple[GitSnapshot, list[str]]:
     if kind == "commit":
         if commit is None:
@@ -4558,6 +4540,9 @@ def main() -> int:
             from analytical_preflight import routing_preflight
 
             snapshot, deferred_routing = timer.call("routing_preflight", routing_preflight, snapshot, args.routing_preflight)
+            errors.extend(
+                timer.call("routing_scope", validate_routing_branch_scope, root, kind, commit, args.routing_preflight)
+            )
         if args.phase == "g3":
             errors.extend(timer.call("protected", validate_protected, snapshot))
         else:

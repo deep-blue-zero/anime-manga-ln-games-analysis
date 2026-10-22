@@ -30,14 +30,14 @@ Before substantial analytical execution, read the Analytical execution routing s
 
 Before the first substantive sequential source-unit analysis of a newly initiated or materially restarted analytical project, read and satisfy `governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md`. Sequential analysis remains locked until a canonical/current-eligible analytical method and synthesis/corpus architecture exist, the canonical current-state/corpus-map entrypoint identifies both, architecture-required day-one infrastructure is initialized, and that entrypoint explicitly records `SEQUENTIAL_ANALYSIS_LOCK = OPEN`; scaffolding alone does not open the gate.
 
-On these branches, author analysis and required routing descriptors; only the curation agent may supply a coordinated character repair before integration. Do not manually write housekeeping-owned routing outputs; the five-output boundary and routing inputs are defined by `governance/policies/AUTOMATED_GLOBAL_INDEX_MAINTENANCE.md`.
+On these branches, author analysis and required routing descriptors; only the curation agent may supply a coordinated character repair before integration. Do not manually write housekeeping-owned routing outputs; the five-output boundary and routing inputs are defined by `governance/policies/AUTOMATED_GLOBAL_INDEX_MAINTENANCE.md`. A routing descriptor's `catalog_note` describes the project, never its progress; progress belongs in the project's entrypoint.
 
 Before pushing a stable analytical branch, follow the [publication sequence and squash-merge reconciliation procedure](governance/policies/CHANGE_INTEGRATION_CHECKLIST.md#stable-analytical-publication-sequence):
 
 - Fetch current `main` and the remote source branch; preserve intervening author, housekeeping, and curation commits, and incorporate current `main` without rewriting history.
 - Review the exact candidate and run author preflight. Recheck both remote heads immediately before every push; if either advanced, reconcile and repeat affected checks.
 - Push without force and verify the published commit and changed files. Never resolve squash-history conflicts through an unverified whole-file `ours` or `theirs` choice.
-- Complete source audit, housekeeping, and the final exact-head integration audit before publishing the next tranche. Preparing analysis may continue while checks run; a diagnosed repair or explicitly coordinated superseding push must reconcile current heads and restart validation for its new commit.
+- Wait for a successful exact-head `Repository integration audit` (after housekeeping only when it had to regenerate routing outputs) before publishing the next tranche. Preparing analysis may continue while checks run; a diagnosed repair or explicitly coordinated superseding push must reconcile current heads and restart validation for its new commit.
 
 ### Governance, tooling, and other cross-cutting work
 
