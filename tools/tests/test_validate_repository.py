@@ -30,6 +30,7 @@ from validate_repository import (  # noqa: E402
     G3_BOUND_TREE,
     G3_MANIFEST,
     HAZARD_PREFILTERS,
+    ARCHIVED_PROTECTED_HASHES,
     PROTECTED_HASHES,
     PUBLICATION_PATTERNS,
     SECRET_PATTERNS,
@@ -1096,9 +1097,11 @@ class PhaseValidationTests(unittest.TestCase):
 
     def test_protected_bootstrap_hashes_are_unchanged(self) -> None:
         snapshot = worktree_snapshot(ROOT, worktree_paths(ROOT))
-        self.assertEqual(validate_protected(snapshot), [])
-        for path, expected in PROTECTED_HASHES.items():
+        self.assertEqual(validate_protected(snapshot, ARCHIVED_PROTECTED_HASHES), [])
+        for path, expected in ARCHIVED_PROTECTED_HASHES.items():
             self.assertEqual(hashlib.sha256(snapshot.entries[path].data).hexdigest(), expected)
+        # The archived bytes are the bootstrap evidence the historical G3 check binds.
+        self.assertEqual(sorted(ARCHIVED_PROTECTED_HASHES.values()), sorted(PROTECTED_HASHES.values()))
 
     def test_untracked_worktree_file_cannot_materialize_evidence(self) -> None:
         entry = SnapshotEntry(

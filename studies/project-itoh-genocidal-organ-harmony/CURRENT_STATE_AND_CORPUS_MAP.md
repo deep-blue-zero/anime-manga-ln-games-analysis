@@ -42,7 +42,7 @@ These three documents have distinct analytical responsibilities. The method owns
 
 - [Genocidal Organ canonical entrypoint](../../series/genocidal-organ/CURRENT_STATE_AND_CORPUS_MAP.md), [GO-U027](../../series/genocidal-organ/01%20Sequential%20Readings/GO_U027_PART_V_SUBSECTION_5.md), [GO-U028](../../series/genocidal-organ/01%20Sequential%20Readings/GO_U028_EPILOGUE.md), [integrated synthesis](../../series/genocidal-organ/06%20Novel%20Synthesis/GENOCIDAL_ORGAN_INTEGRATED_NOVEL_SYNTHESIS.md).
 - [Harmony canonical entrypoint](../../series/harmony/CURRENT_STATE_AND_CORPUS_MAP.md), [HAR-U002](../../series/harmony/01%20Sequential%20Readings/HAR-U002_PART_I_02_DEEP_READING.md), [HAR-U003](../../series/harmony/01%20Sequential%20Readings/HAR-U003_PART_I_03_DEEP_READING.md), [HAR-U009](../../series/harmony/01%20Sequential%20Readings/HAR-U009_PART_II_03_DEEP_READING.md), [HAR-U014](../../series/harmony/01%20Sequential%20Readings/HAR-U014_PART_III_05_DEEP_READING.md), [HAR-U019](../../series/harmony/01%20Sequential%20Readings/HAR-U019_PART_IV_04_DEEP_READING.md), [integrated synthesis](../../series/harmony/06%20Novel%20Synthesis/HARMONY_INTEGRATED_NOVEL_SYNTHESIS.md).
-- General authority: [AGENTS](../../AGENTS.md), [analytical correction rules](../../governance/CHATGPT_AUTHORITY_AND_ROUTING.md#42-analytical-fidelity-and-procedural-corrigibility), and [pre-commit checklist](../../governance/policies/CHANGE_INTEGRATION_CHECKLIST.md).
+- General authority: [AGENTS](../../AGENTS.md), [analytical correction rules](../../governance/AGENT_ROUTING.md#42-analytical-fidelity-and-procedural-corrigibility), and [pre-commit checklist](../../governance/policies/CHANGE_INTEGRATION_CHECKLIST.md).
 
 ### Project initialization and execution boundary
 
