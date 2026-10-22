@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: project_changelog
 scope: VERBATIM_ENTRYPOINT_AND_MASTER_HISTORY_THROUGH_V16
-generation: V1.17
+generation: V1.18
 status: canonical
 release_state: append_only_history
 supersedes: []
@@ -2894,4 +2894,508 @@ Source path: `series/re-zero/00 Frameworks and Methods/REZERO_SYNTHESIS_ARCHITEC
 
 ````````````markdown
 ## 22. Post-V16 Wilhelm derived-use implementation
+````````````
+
+## Post-V16 Ferris model and separately applied fidelity review — 2026-10-22
+
+The earned Ferris / Felix Argyle V01–V16 model and separate review are implemented at local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY:35source bundles/24conditional rules/12Japanese observations/28negative controls/10noncanonical applications. Actual complete saved-model reading produced nine scoped findings and one minor editorial repair,16exact edits including version; the complete correction was read and reversed exactly. The separate saved review was completely read and received three clarification groups/five edits with a complete inverse-verified correction. No independent reviewer, held-out source, runtime character test or global capability grade is claimed.
+
+Fifty-one bounded deliveries/3560uniqueTEXTpositions/154558characters revisit nine already-consumed Japanese volumes, not nine fresh whole-novel readings. Source originals/hash/CRC, event/holder/remembered-history, ordinary evidence, medical limits/coercion, voice, contrary judgments and abstentions remain scoped. Default is latest interrupted V16 breakfast aftermath with memoryless Crusch, not terminalE011 killing memory, a treatment refusal or an invented E019 position. Clinical request does not establish full informed disclosure or a magical-consent prerequisite.
+
+Crusch16's full gate9131ffb6 is closed; all39predecessors/ten prior pairs/five owners/master§§2–12/340claims/formal and reserved tails/exact V17 prospect remain unchanged. Current-main owner documentation80929d8c was imported by ordinary mergef0b08dbc without authored governance changes. The author route now includes the required openPR; main integration remains owner/CI responsibility. Ferris16's own complete publication gate is still required before V17. Active continuous terminalV43/no routine pause/source admission unchanged.
+
+Maintained generations: V1.27→V1.28 (REZERO_MASTER_LONGITUDINAL_LEDGER.md); V0.34→V0.35 (CURRENT_STATE_AND_CORPUS_MAP.md); V1.17→V1.18 (REZERO_PROJECT_CHANGELOG.md); V1.25→V1.26 (REZERO_CHARACTER_RECONSTRUCTION_PROTOCOL.md); V0.28→V0.29 (REZERO_LEDGER_PROMOTION_AND_SCHEMAS.md); V0.16→V0.17 (README.md); V0.29→V0.30 (REZERO_SOURCE_LOCK_AND_INVENTORY.md); V1.26→V1.27 (REZERO_SYNTHESIS_ARCHITECTURE.md). The entering map below is complete exact V0.34 at9131ffb6, not a current work order. Other replaced current passages are preserved exactly except declared link-target-only rebasing for their changelog location; original targets are recorded below. No older historical body is edited.
+
+### Exact entering map — V0.34 at9131ffb6, historical not current work order
+
+````````````markdown
+---
+series: RE_ZERO
+artifact_type: corpus_map
+scope: SERIES_BOOTSTRAP_AND_ANALYTICAL_ROUTING
+generation: V0.34
+status: canonical
+release_state: mutable_active
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+---
+
+# Re:ZERO -Starting Life in Another World- — current state and corpus map
+
+This is the canonical first read for the Git-side Re:Zero analytical corpus.
+
+```yaml
+project_initialization:
+  status: canonical
+  architecture_lifecycle: EVOLVING
+  governing_method: 00 Frameworks and Methods/REZERO_ANALYTICAL_METHOD.md
+  synthesis_architecture: 00 Frameworks and Methods/REZERO_SYNTHESIS_ARCHITECTURE.md
+  character_reconstruction_protocol: 00 Frameworks and Methods/REZERO_CHARACTER_RECONSTRUCTION_PROTOCOL.md
+  supplemental_witness_catalog: 01 Source Lock and Inventory/REZERO_SUPPLEMENTAL_WITNESS_CATALOG.md
+  method_status: canonical
+  architecture_status: canonical
+  source_reconnaissance_complete: true
+  required_day_one_infrastructure_initialized: true
+  required_day_one_infrastructure:
+    - 04 Longitudinal Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md
+  sequential_analysis_lock: OPEN
+  next_permitted_operation: FERRIS_V01_V16_MODEL_AND_FIDELITY_REVIEW
+```
+
+```yaml
+sequential_execution:
+  mode: continuous_sequential
+  unit_type: main_light_novel_volume
+  authorized_start: V03
+  terminal_boundary: V43
+  committed_high_water_mark: V16
+  next_candidate_operation: FERRIS_V01_V16_MODEL_AND_FIDELITY_REVIEW
+  confirmation_between_units: false
+  run_state: active
+```
+
+## Authority split
+
+- **GitHub is the analytical authority** for methods, source-routing decisions, sequential readings, longitudinal ledgers, character analysis, adaptation analysis, specialist synthesis, and analytical audits promoted under `series/re-zero/`.
+- **Primary-source media do not belong in this Git root.** Japanese light-novel files, audiovisual media, scans, extracted text, and other source-bearing objects remain in the governed evidence plane unless a policy explicitly admits a reference representation.
+- **The current source lock admits the acquired Japanese main-light-novel spine V01-V43.** Exact file identity, integrity, Drive provenance, alternate-edition handling, the bounded post-manifest V41 hash override, and known current acquisition gaps are recorded in `01 Source Lock and Inventory/REZERO_SOURCE_LOCK_AND_INVENTORY.md`. The lock does not claim complete-to-date possession: published Japanese V44 and V45 are not present in the live governed folder.
+- Local workspaces are working environments, not authority, until an artifact is promoted through the governed Git route.
+
+## Current analytical state
+
+Japanese main-LN prospective analysis reaches the [V16 deep reading](02%20Sequential%20Readings/REZERO_LN_V16_DEEP_READING.md) and its synchronized five-owner/master state. The source-facing facts and next responsibilities are summarized here; Git history, immutable exact-file readback and trusted audit statuses own publication receipts. Follow the complete gate dependencies in the work order before executing the next candidate.
+
+The exact Japanese V16 original was fully consumed in OPF order:39members/77actual deliveries/3805positions=3773TEXT+32IMAGEreferences,22unique spine assets, zero gaps/duplicates; main narrative EOFp-020#B0215 and final publisher logop-bookwalker#B0001. The separate unreferenced distribution advert is excluded packaging, not a source instruction. Source10591363bytes/SHA81695f7fdb01767a705daf3011f84a20c2ec7cbba658efe173dd5fb32b7756c8/CRCpass; no source admission or later opening.
+
+Current340claims incorporate292individual predecessor dispositions:187PRESERVE/74STRENGTHEN/23REVISE/8OPEN plus48NEW. All60incoming questions/10forecasts are adjudicated, not retrospectively predicted. E018 ends at square death18 and actual park arrival instantiates livingE019,19segments. Common year/travel/family history survives before point; onlySubaru retains the later square. Narrator十数分 timing is explicitly not yet recognized bySubaru. CurrentC116/M344 prohibit the old Frederica→Garfiel speaking/healing inference; exact older wording/history remains recoverable. Ram chronology staysOPEN.
+
+Five soleowners/master remain sufficient: eventV2.0/E019, knowledgeV2.0/K545, mechanicsV1.9/M345, institutionV1.13/I294, relationshipV1.7/R104/RT239; new50K/28M/32I/18R/58RT,40oldR advanced with preimages,46stable/181oldRT exact. All37 older artifacts, including the V16 freeze and nine prior model/review pairs, retain exact bytes/defaults/local grades. V16 reconciliation is not expanded documentary fidelity, independent/runtime/global validation or a cure.
+
+V16's source gate and Julius16/Wilhelm16 separate complete gates are closed. The earned [Crusch V01–V16 model](05%20Character%20Analysis/REZERO_CRUSCH_KARSTEN_V01_V16_CHARACTER_MODEL.md) and [separate fidelity review](08%20Audits%20and%20Manifests/REZERO_CRUSCH_KARSTEN_V01_V16_FIDELITY_REVIEW.md) now supply30source bundles/24conditional rules/28negative controls/10noncanonical applications and an actually applied nineteen-dimension same-analyst nonblind documentary PASS_WITH_BOUND after six grouped model repairs and two review-wording clarifications. Counts identify the artifact, not readiness by quota. Default is memoryless Crusch's latest personally observed interrupted breakfast/candidate opposition, not the former commander restored or invented E019 location/receipt. Its own complete gate remains separate; only then Ferris16 construction/separate review/full gate before sealed V17. Ferris alone remains unimplemented/ungraded; other people retain narrower cases. No Arc5-end checkpoint, sixth owner/new field/count-driven index, independent/held-out/runtime/global grade or ordinary pause.
+
+## Governing method and retrieval route
+
+Read in this order for new Re:Zero analytical work:
+
+1. `CURRENT_STATE_AND_CORPUS_MAP.md`
+2. `00 Frameworks and Methods/REZERO_ANALYTICAL_METHOD.md`
+3. `00 Frameworks and Methods/REZERO_SYNTHESIS_ARCHITECTURE.md`
+4. `00 Frameworks and Methods/REZERO_ROUTE_AND_WITNESS_PROTOCOL.md`
+5. `00 Frameworks and Methods/REZERO_CHARACTER_RECONSTRUCTION_PROTOCOL.md` for character promotion, reconstruction, or fidelity work;
+6. `01 Source Lock and Inventory/REZERO_SUPPLEMENTAL_WITNESS_CATALOG.md` for non-spine discovery or acquisition work;
+7. `01 Source Lock and Inventory/REZERO_SOURCE_LOCK_AND_INVENTORY.md`
+8. `04 Longitudinal Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md`
+9. the immediately prior frozen sequential reading's claim ledger and outbound question set;
+10. only the additional character, supplemental, adaptation, promoted-ledger, or specialist artifact required for the task.
+
+The intended primary semantic anchor is the **Japanese light novel**, within the exact admitted source range. Translations may be convenience witnesses; wording-sensitive claims return to Japanese. Anime, web-novel material, IF/alternate routes, side stories, bonus stories, game material, guidebooks, interviews, and other supplements do not silently overwrite main-light-novel findings.
+
+## Why Re:Zero needs a route-aware method
+
+The project must preserve more than ordinary chronology. Whenever the text presents repeated, reset, branching, failed, counterfactual, or otherwise non-identical event states, analysis must keep separate:
+
+- what occurred in a particular event-state or iteration;
+- what remains true in the currently active narrative state;
+- what a focal character remembers or has learned across states;
+- what other characters locally know in that state;
+- what the reader has learned from states that characters may not share;
+- which behaviors repeat under similar conditions and which depend on changed information;
+- what later success owes to information, sacrifice, rehearsal, coercion, luck, or altered circumstances from earlier attempts.
+
+A discarded or superseded event-state can remain highly probative character evidence without being treated as a durable event in the active world-state. Conversely, a later successful sequence does not erase the experiential or interpretive importance of earlier failures for any character whose state actually carries forward.
+
+## Corpus architecture
+
+| Layer | Analytical responsibility | Current state |
+|---|---|---|
+| `00 Frameworks and Methods` | Governing evidence, prospective-freeze, route-state, witness-separation, character reconstruction/fidelity, focalization, Japanese-language, safe-horizon, revision, longitudinal-routing, specialist, and completion rules | methodV0.1/witnessprotocolV0.2 unchanged; architectureV1.26 EVOLVING; characterprotocolV1.25/currentV16; Julius/Wilhelm full-gated; Crusch model/local review implemented under own gate, Ferris earned construction pending; nine prior grades unchanged |
+| `01 Source Lock and Inventory` | Exact witness set, integrity/provenance, edition identity, publication ordering, source-family classification and non-spine awareness | sourceLockV0.29; admittedV01–V43/V41exception/datedgaps unchanged; V16 exact complete consumption, V17+/nonspine/new import narratives unopened; no admission |
+| `02 Sequential Readings` | Main-LN prospective deep readings and source-verified checkpoints | V01–V15/three checkpoints exact; V16 source-facing reading and synchronized current state. V17 exact60Q/10P seal fixed through four separately gated derived operations |
+| `03 Supplemental and Alternate Witnesses` | Analytical readings of admitted mainline side stories, collections, EX/supplemental material, IF/alternate routes, web-novel witnesses, and other non-spine material | routing contract V0.2 populated; cataloging remains in layer 01; no witness admitted or read yet |
+| `04 Longitudinal Ledgers` | Current claims/revisions, chronology/durability, proposition holders, relationships, characters, institutions, mechanics, ordinary life, Japanese, questions and readiness | masterV1.27/currentV16; five soleowners eventV2.0/E019, knowledgeV2.0/K545, mechanicsV1.9/M345, institutionV1.13/I294, relationshipV1.7/R104/RT239; schemaV0.28/no field change |
+| `05 Character Analysis` | Protocol-governed character reconstruction only after sufficient longitudinal evidence exists | routerV0.16; nine prior pairs exact/full-gated; Crusch16 model/review local documentary PASS_WITH_BOUND, own gate separate; Ferris16 earned/unimplemented, construction/review/full gate before V17 |
+| `06 Adaptation Analysis` | Anime and later audiovisual comparison as separately labeled witnesses | routing contract populated; no adaptation findings yet |
+| `07 Specialist Synthesis` | Dense questions with independent retrieval responsibility, instantiated only when earned | not instantiated |
+| `08 Audits and Manifests` | Bootstrap and later analytical/source-integrity manifests | nine prior scoped reviews unchanged; Crusch's separately applied nineteen-dimension same-analyst nonblind documentary PASS_WITH_BOUND implemented, own publication gate separate; no independent/runtime/global grade |
+| future `09 Evidence and Indexes` | Claim-evidence, source-locator, character-evidence-coverage, or witness-dependency navigation only after demonstrated retrieval burden | not instantiated; exact candidates and triggers reserved in the synthesis architecture |
+| future `10 Full-Series Synthesis` | Canonical full-series convergence after complete-series or expressly bounded readiness | not instantiated; reserved canonical file `REZERO_FULL_SERIES_SYNTHESIS.md` |
+| `90 Legacy and Superseded` | Materially distinct superseded analysis | not instantiated; no legacy analytical corpus is being imported |
+
+The absence of an unused directory is intentional. Re:Zero should grow by analytical responsibility, not by template symmetry.
+
+## Sequential lock and history
+
+All initiation requirements are initialized and `SEQUENTIAL_ANALYSIS_LOCK = OPEN`. The current method, evolving synthesis architecture, five specialist owners, master and source-bounded model/audit define the present routing. An OPEN lock does not itself admit a different witness or override source/publication controls.
+
+The V01/V02 repair, later architecture extensions, ledger promotions, checkpoint operation and source-consumption history are preserved in the [project changelog](REZERO_PROJECT_CHANGELOG.md). These are historical records, not competing current defaults. Git history and live audit statuses own exact publication receipts; this entrypoint owns current scope and the next permitted operation.
+
+## Reasoning-class routing
+
+- architecture repair/extension, final role-gap review, and full-series integration: `PREMIUM_QUALITY_FIRST`;
+- ordinary Japanese-primary VNN deep reading and interpretive master-ledger update: `SUBSTANTIVE_ANALYSIS`;
+- deterministic source identity, checksum, locator, and metadata maintenance: `BOUNDED_STANDARD` or `ROUTINE_FAST`;
+- source-verified checkpoints, mature character work, and difficult relationship/specialist synthesis: normally `DEEP_SYNTHESIS`, with evidence-based escalation for unusually propagation-sensitive cases.
+
+The stable class governs; literal provider/model names remain a mutable mapping in the corpus-wide reasoning policy.
+
+## Main reading methodology
+
+The numbered main light novels use a **prospective freeze**:
+
+1. establish the exact source witness and current analytical horizon;
+2. record material expectations, unresolved questions, and confidence before opening the next volume;
+3. read only the newly admitted source increment;
+4. identify what the new volume preserves, strengthens, revises, downgrades, rejects, or leaves open;
+5. write a bounded deep reading rather than a chapter transcript;
+6. freeze that state before advancing.
+
+Where an official/source-verified arc structure exists, preserve both global volume identity and arc identity. Do not infer or hard-code arc boundaries from fandom memory when the locked corpus can establish them directly.
+
+## Supplemental and alternate witnesses
+
+Non-spine material is not inserted merely because it is available.
+
+Before reading a supplement analytically, establish:
+
+- exact witness identity and source family;
+- publication order;
+- diegetic or route relationship to the main light novel where knowable;
+- the earliest safe analytical insertion point relative to the prospective main-volume horizon;
+- whether the item is mainline supplemental evidence, alternate-route/counterfactual evidence, a developmental web-novel witness, an adaptation witness, or something else.
+
+The witness protocol now separates publication horizon (`H_pub`), diegetic dependency (`H_diegetic`), and route/divergence dependency (`H_route`). The safe opening point `H_final` is the latest established dependency. If a material dependency is unresolved, `H_final` remains `OPEN` and the witness stays unread.
+
+Alternate-route material may illuminate constraints, latent tendencies, or counterfactual possibilities, but it does not prove that the same choice would occur in the main route under materially different knowledge, relationships, or conditions.
+
+## Initial analytical questions — not findings
+
+The sequential pass should test rather than assume questions including:
+
+- how repeated failure, partial success, and accumulated information change judgment, self-conception, planning, risk tolerance, and interpersonal behavior;
+- which character tendencies remain stable across materially different event-states and which are products of local information or pressure;
+- how asymmetric knowledge changes trust, consent, persuasion, deception, dependency, and apparent irrationality;
+- how relationships develop when continuity may be experienced differently by the participants;
+- how fear, grief, shame, hope, exhaustion, attachment, obligation, and trauma alter practical agency without being reduced to generic pathology labels;
+- how institutions, factions, status, law, custom, patronage, violence, and material resources constrain nominal choices;
+- which setting explanations are demonstrated, which are viewpoint-bound, which are institutional doctrine, and which remain unresolved;
+- how abilities, rules, costs, exceptions, and hidden mechanisms should be reconstructed without converting character theory into world fact;
+- how Japanese register, address terms, self-reference, politeness, insults, emotional formulae, and recurring lexical choices change interpretation;
+- where ordinary routines, food, work, study, leisure, humor, gifts, comfort, etiquette, and low-stakes choices reveal durable character structure;
+- which later conclusions genuinely revise earlier models and which merely add information unavailable at the earlier freeze.
+
+Publication follows the current repository integration checklist. Routing-current and stale-routing paths have different housekeeping requirements; exact Git/audit evidence owns receipts, and the work order below states required dependencies rather than a prose publication status.
+
+## Current work order
+
+1. Close this Crusch model/review transaction's complete gate: final saved scope/default/holder/name/locator review, exact model/review/eight-maintained-file synchronization, complete staged diff and final-index author preflight; fresh refs/rulesets/current-main reconciliation, exact-path ordinary commit/nonforced series push and immutable full-file/tree readback. V16/Julius16/Wilhelm16 gates are closed; five owners/current340claims stay exact, not reconstructed.
+2. Require actual-source full integration audit/all discovered tests, trusted exact-SHA reporter/status, applicable housekeeping outcome and a later clean native/source/protected/seal check. Routing-current no-op needs no redundant child audit; stale routing requires the allowlisted child/full exact-child audit. Never write/dispatch protected automation outputs manually.
+3. Crusch V01–V16 is implemented with a separately actually applied nineteen-dimension same-analyst nonblind documentary PASS_WITH_BOUND, not a full publication receipt. Only after this pair's own complete gate execute FERRIS_V01_V16_MODEL_AND_FIDELITY_REVIEW with construction/separate applied review/full gate. Ferris remains unimplemented/ungraded.
+4. Only then open V17 in Japanese OPF order through full text/image EOF against unchanged sealed60questions/10forecasts SHA53ac9eb4456e84f00e1e2c8fbeef9b2d4910dd2f873f93143652cbc3854c724e. Derived source revisits add no later primary unit or silent prospect rewrite.
+5. Preserve37older artifacts including the V16 freeze/nine prior model-review scopes/defaults/grades, plus Crusch's declared reviewed scope/memoryless interrupted-breakfast default/local grade. Do not reopen completed gates or move old defaults toE019. Keep Ram chronology OPEN and C116/M344's Frederica-subject correction mandatory; retain Roswaal recipient/agency/source qualifications.
+6. Maintain18deaths19segments/E019 acute horror and exact holder/consent/resource boundaries. BrokenGate/small daily mana/dormantPuck/unresponsiveRem, undeliveredletter/unacquiredcrystal, incomplete origin telling/old apology/family repair remain distinct. Award/medal now retrospectively confirmed; no unsupported exact Guard enrollment/salary.
+7. Continue prospective atomic transactions through activeV43 without routine unit/model confirmation. Source exhaustion is not published-series completion. Fiveowners/master own state/person/ordinary/voice/readiness; no count-driven file symmetry or new global grade.
+8. Source admission43/V41exception and datedV44/V45 gaps remain unchanged; new import metadata/report is not new narrative admission. V17+/IF/WN/supplement/adaptation remain unopened. Global curation/evaluator/steward/protected integration retain separate authority.
+
+## Bootstrap abstentions
+
+- No synopsis, wiki, fandom consensus, adaptation memory, prior ChatGPT discussion, or model knowledge is promoted as a Re:Zero source finding by this scaffold.
+- No later volume, supplement, alternate route, or adaptation is allowed to contaminate an earlier prospective freeze.
+- No failed/discarded event-state is automatically treated as a durable active-world event; no active-world reset automatically erases its evidentiary value for character reconstruction.
+- No character's explanation of mechanics, history, politics, religion, another person's motives, or hidden causality is treated as objective fact solely because it is explicit dialogue or narration.
+- No IF/alternate-route evidence is silently blended into main-route personality claims.
+- No web-novel wording is treated as the light novel's wording.
+- No anime-only performance or staging is attributed to the light novel.
+- No PACTRIH score or cross-series ethical placement is assigned before source-grounded evidence is sufficient.
+- No character registry edit is implied by creating this analytical root; character discovery remains under the repository's separate curation authority.
+````````````
+
+### Replaced current-routing passages — complete attributable preimages
+
+#### H01 — series/re-zero/04 Longitudinal Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md
+
+Archive link-target-only rebases (displayed text/analytical meaning unchanged): `../05%20Character%20Analysis/REZERO_JULIUS_JUUKULIUS_V01_V16_CHARACTER_MODEL.md` → `05%20Character%20Analysis/REZERO_JULIUS_JUUKULIUS_V01_V16_CHARACTER_MODEL.md`; `../08%20Audits%20and%20Manifests/REZERO_JULIUS_JUUKULIUS_V01_V16_FIDELITY_REVIEW.md` → `08%20Audits%20and%20Manifests/REZERO_JULIUS_JUUKULIUS_V01_V16_FIDELITY_REVIEW.md`; `../05%20Character%20Analysis/REZERO_WILHELM_VAN_ASTREA_V01_V16_CHARACTER_MODEL.md` → `05%20Character%20Analysis/REZERO_WILHELM_VAN_ASTREA_V01_V16_CHARACTER_MODEL.md`; `../08%20Audits%20and%20Manifests/REZERO_WILHELM_VAN_ASTREA_V01_V16_FIDELITY_REVIEW.md` → `08%20Audits%20and%20Manifests/REZERO_WILHELM_VAN_ASTREA_V01_V16_FIDELITY_REVIEW.md`; `../05%20Character%20Analysis/REZERO_CRUSCH_KARSTEN_V01_V16_CHARACTER_MODEL.md` → `05%20Character%20Analysis/REZERO_CRUSCH_KARSTEN_V01_V16_CHARACTER_MODEL.md`; `../08%20Audits%20and%20Manifests/REZERO_CRUSCH_KARSTEN_V01_V16_FIDELITY_REVIEW.md` → `08%20Audits%20and%20Manifests/REZERO_CRUSCH_KARSTEN_V01_V16_FIDELITY_REVIEW.md`.
+
+````````````markdown
+The separate Arc04 checkpoint and nine prior model/review pairs have completed their gates, latest Wilhelm16 at0c9c3585. Their scopes/defaults/local grades and37 older artifacts remain exact; the V16 source gate is closed. Crusch16 is now implemented with its separate local documentary review, not a completed publication gate. Ram chronology stays OPEN; the current Frederica/Garfiel subject correction and Roswaal qualifiers remain mandatory. Protocol§18 requires qualitative cross-state, ordinary, relational, voice, failure and abstention coverage, not prominence, symmetry, counts or perfect biography.
+
+### Julius Juukulius / ユリウス・ユークリウス
+
+**MONOGRAPH_READY — MODEL_AND_SEPARATE_REVIEW_IMPLEMENTED** for admitted V01–V16 main LN. The [integrated model](05%20Character%20Analysis/REZERO_JULIUS_JUUKULIUS_V01_V16_CHARACTER_MODEL.md) and [separate fidelity review](08%20Audits%20and%20Manifests/REZERO_JULIUS_JUUKULIUS_V01_V16_FIDELITY_REVIEW.md) now supply32evidence bundles/24conditional rules/26negative controls/12noncanonical applications, all seven selectors and an actually applied nineteen-dimension same-analyst nonblind documentary PASS_WITH_BOUND after ten grouped repairs. Counts identify the artifact, not a readiness score; no independent/runtime/held-out/global grade.
+
+**Default selection:** Latest personally observed V16 garden p-017#B0423–0430, after meal rupture and before park. TerminalE011, depictedE012 and latest common precheckpoint history remain separately selected; E019location/receipt is unobserved.
+
+**Operative source/holder distinction:** V04p-026's private protective explanation is available to the analyst/Julius/Marcos/Ferris, not automatically Subaru's full receipt. It does not erase literal class doctrine, excessive injury or discipline. V07qualified apology, V08terminal refusal/steel, V09current trust/Nect costs/covert-Ia apology and V16ordinary/private reciprocity remain different events. No exhaustive motive, universal ideological recantation, RBD/witch knowledge, full family biography, musical virtuosity, unlimited technique, reciprocal romance or later state is supplied.
+
+**Completed gate / retained scope:** Julius16's own full publication gate is closed. Its V01–V16 scope/latest personally observed garden default/local documentary grade remain unchanged. Wilhelm16's separate gate is also closed; Crusch16 then Ferris16 each require their own complete gate before sealed V17.
+
+### Wilhelm van Astrea / ヴィルヘルム・ヴァン・アストレア
+
+**MONOGRAPH_READY — MODEL_AND_SEPARATE_REVIEW_IMPLEMENTED** for admitted V01–V16 main LN. The [integrated model](05%20Character%20Analysis/REZERO_WILHELM_VAN_ASTREA_V01_V16_CHARACTER_MODEL.md) and [separate fidelity review](08%20Audits%20and%20Manifests/REZERO_WILHELM_VAN_ASTREA_V01_V16_FIDELITY_REVIEW.md) supply30source bundles/24conditional rules/26negative controls/10noncanonical applications and an actually applied nineteen-dimension same-analyst nonblind documentary PASS_WITH_BOUND after eight grouped first-draft repairs. Counts identify the artifact, not a promotion quota; no independent/held-out/runtime/global grade.
+
+**Default selection:** Latest personally observed V16 interrupted breakfast aftermath: actual cooking-help request/response, Heinkel intrusion and explicitly unreconciled dispersal. Not the earlier serene garden or an invented E019 location/receipt.
+
+**Operative source/holder distinctions:** Actual young cruelty/prodigy, changed protective purposes, positive Theresia love, missed words and coercive anecdote remain together. Teaching/shared help has real limits; the request for wisdom/strength belongs to Subaru. Earlier acknowledgment of Reinhard's no fault/ill intent remains beside later allegations. Private wound account is a reason to verify, not a witnessed living wife; trial figures/private Julius report are not new Wilhelm receipts. Analyst silence does not impose amnesia about his own past. No complete three-regret/family list, proved grandson guilt, universal consent/skill/cure or performed reconciliation is supplied.
+
+**Completed gate / retained scope:** Wilhelm16's own complete publication gate0c9c3585 is closed after exact-source full450-test v2 audit, trusted reporter/status, routing-current housekeeping no-op and later clean native/source/protected/seal proof. Its scope/interrupted-breakfast default/local documentary grade remain unchanged. Crusch16 then Ferris16 require separate complete gates before sealed V17.
+
+### Crusch Karsten / クルシュ・カルステン
+
+**MONOGRAPH_READY — MODEL_AND_SEPARATE_REVIEW_IMPLEMENTED** for admitted V01–V16 main LN. The [integrated model](05%20Character%20Analysis/REZERO_CRUSCH_KARSTEN_V01_V16_CHARACTER_MODEL.md) and [separate fidelity review](08%20Audits%20and%20Manifests/REZERO_CRUSCH_KARSTEN_V01_V16_FIDELITY_REVIEW.md) supply30source bundles/24conditional rules/28negative controls/10noncanonical applications and an actually applied nineteen-dimension same-analyst nonblind documentary PASS_WITH_BOUND after six grouped model repairs and two review-wording clarifications. Counts identify the artifact, not readiness by quota; no independent/held-out/runtime/global grade.
+
+**Default selection:** Latest personally observed V16 interrupted breakfast/candidate opposition, memoryless, with her own recovery goal, shared concern for Rem and unreconciled meal dispersal. Not the former commander restored or an invented E019 location/receipt.
+
+**Operative source/holder distinctions:** Responsibility can sustain reciprocal gratitude and contested nonintervention. Wind perception can detect a lie yet misread sincerity, half-truths and honest mistake; reduced current control is explicit. Real command/casualty/shame costs, admiration, mistakes and useful initiative remain together. New reports are not returned autobiographical memories; Ferris's protective concern does not replace her choice. Ordinary competence/public firmness do not prove restored governing or martial capacity. No complete childhood/Fourier biography, universal truth/healing, exact reciprocal romance, received private wound account, completed intelligence/letter/phone bargain or later outcome.
+
+**Binding next duty:** This pair's own complete exact-commit publication gate before FERRIS_V01_V16_MODEL_AND_FIDELITY_REVIEW, then Ferris16 separately constructed/reviewed/full-gated before sealed V17. Wilhelm16's closed gate does not certify Crusch.
+
+### Ferris / Felix Argyle / フェリス
+
+**MONOGRAPH_READY_CONSTRUCTION_NOT_IMPLEMENTED** — FERRIS_V01_V16_MODEL_AND_FIDELITY_REVIEW. V01–V16 main LN; medical care/coercion, patient/alliance knowledge, Crusch/Fourier/other recipients, terminal requested killing distinct from current care.
+
+**Why now:** V07 triage priorities, loyalty, joke harms, withheld self-comparison and privacy boundaries; V09 dissent about Emilia exclusion, grief-driven blame, actual demanded apology, limits of healing and proposed alliance withdrawal; V16 Gate-specific anger, ordinary dress/cooking, provocative intimacy checked by Wilhelm and continued uncertainty about Crusch. These independent triggers sustain a bounded care/help/failure model rather than 'cute healer' or 'only one person matters'.
+
+**Default selection:** Latest V16 breakfast aftermath with memoryless Crusch, after medical warning and family confrontation; earlier terminal E011 requested killing not current behavior or RBD memory.
+
+**Operational abstentions:** No universal revival/memory cure, real clinical diagnosis, inferred sexual orientation/reciprocal romance, same remembered past as Subaru, complete private life or later treatment outcomes.
+
+| person / case | differentiated decision and reason |
+|---|---|
+| Reinhard / Felt | `CHECKPOINT_READY` — V16 chosen candidacy/ordinary partnership, public strength versus family vulnerability and formal-resource limits; no new monographs now. The newly direct family/retainer/meal contrasts warrant an explicit bounded case. The full earlier obedience/conflict is still qualified reported history; do not turn one compressed new public/private encounter into complete all-phase motives, power behavior or independent governance practice. This is a material inference limitation, not a demand for perfect preferences. |
+| Priscilla / Anastasia / Al | `CHECKPOINT_READY_BOUNDED_V16_CASES` — Admitted cruelty/strategy and respected artistic refusal; host-commercial care/information; real mediator agency despite apparent low leverage. New counterpart and ordinary contrasts materially qualify prior sketches. They do not independently explain every information route, private motive or extreme capability; model the named encounters without a whole-person grade. |
+| Liliana | `CHECKPOINT_READY_V16_ART_VOCATION_AND_SOCIAL_CASE` — Actual song, repeated poor judgment, occasional mediation and proud refusal differ. Retrospective acquaintance plus one present interval does not supply all earlier phases or a decoded power. |
+| Heinkel / Sirius | `ACCUMULATING_BOUNDED_NEW_SUBJECTS` — One direct harmful public encounter and graded claims are substantive, but do not resolve full history, alleged crimes, hidden identity, mechanism or all-phase motives. |
+| Rem / Theresia / Fortuna / Geuse / individual Ryuzu persons / Petra / Frederica / other retained candidates | `PRESERVE_DIFFERENTIATED_PRIOR_READINESS_WITH_V16_INCREMENTS` — No automatic whole-person promotion from sleep, another person's memory, generic copy counts, new age or family mention. Record concrete welfare/education/care changes and named interim scopes; earlier actual choices remain evidence rather than erased. |
+
+**arc5_checkpoint:** NOT_EARNED: source explicitly opens the arc, not a conclusion; no new arc-end checkpoint.
+
+**ordinary_voice_readiness_owners:** RETAIN_IN_MASTER. New comparative skill/recipient/voice facts can be retrieved in focused V16 bundles and current tables with the existing five owners; no separate independent revision cycle or nonduplicate ownership obligation is demonstrated by counts alone.
+
+**evidence_indexes:** DEFER_WITH_EXISTING_TRIGGER. The actual office/mana/award retrieval checks resolve through unit loci and bundles; correct the draft route rather than duplicate the claims ledger. Future repeated cross-unit retrieval failure may earn a pure navigation artifact.
+
+**final_specialists:** ACCUMULATING; no final metaphysical, relationship, institutional or full-series synthesis claim.
+
+**schemas:** No new field contract or reserved candidate-tail change.
+
+**next:** Crusch16 own complete publication gate → Ferris16 construction/separate review/full gate → V17; V16/Julius16/Wilhelm16 gates are complete, continuous active terminal V43/no routine pause.
+
+The V16 trigger earned four constructions. Julius16 and Wilhelm16 are full-gated with their historical reviewed scopes/defaults/local grades unchanged. Crusch16 now has its model and separately actually applied local documentary PASS_WITH_BOUND, but its own complete gate remains a prerequisite for Ferris16. Ferris16 remains earned but unimplemented/ungraded and needs construction, actual scoped review and a separate full gate before unopened V17. Both map operation fields select Ferris conditionally on Crusch's gate. Exact V17 prospect,37 older artifacts/five owners/current340claims and formal/reserved tails remain unchanged; no new admission/owner/index/field/global grade or ordinary pause.
+
+
+````````````
+
+#### H02 — series/re-zero/00 Frameworks and Methods/REZERO_CHARACTER_RECONSTRUCTION_PROTOCOL.md
+
+Archive link-target-only rebases (displayed text/analytical meaning unchanged): `../05%20Character%20Analysis/REZERO_JULIUS_JUUKULIUS_V01_V16_CHARACTER_MODEL.md` → `05%20Character%20Analysis/REZERO_JULIUS_JUUKULIUS_V01_V16_CHARACTER_MODEL.md`; `../08%20Audits%20and%20Manifests/REZERO_JULIUS_JUUKULIUS_V01_V16_FIDELITY_REVIEW.md` → `08%20Audits%20and%20Manifests/REZERO_JULIUS_JUUKULIUS_V01_V16_FIDELITY_REVIEW.md`; `../05%20Character%20Analysis/REZERO_WILHELM_VAN_ASTREA_V01_V16_CHARACTER_MODEL.md` → `05%20Character%20Analysis/REZERO_WILHELM_VAN_ASTREA_V01_V16_CHARACTER_MODEL.md`; `../08%20Audits%20and%20Manifests/REZERO_WILHELM_VAN_ASTREA_V01_V16_FIDELITY_REVIEW.md` → `08%20Audits%20and%20Manifests/REZERO_WILHELM_VAN_ASTREA_V01_V16_FIDELITY_REVIEW.md`; `../05%20Character%20Analysis/REZERO_CRUSCH_KARSTEN_V01_V16_CHARACTER_MODEL.md` → `05%20Character%20Analysis/REZERO_CRUSCH_KARSTEN_V01_V16_CHARACTER_MODEL.md`; `../08%20Audits%20and%20Manifests/REZERO_CRUSCH_KARSTEN_V01_V16_FIDELITY_REVIEW.md` → `08%20Audits%20and%20Manifests/REZERO_CRUSCH_KARSTEN_V01_V16_FIDELITY_REVIEW.md`.
+
+````````````markdown
+The separate Arc04 checkpoint and nine prior model/review pairs have completed their gates, latest Wilhelm16 at0c9c3585. Their scopes/defaults/local grades and37 older artifacts remain exact; the V16 source gate is closed. Crusch16 is now implemented with its separate local documentary review, not a completed publication gate. Ram chronology stays OPEN; the current Frederica/Garfiel subject correction and Roswaal qualifiers remain mandatory. Protocol§18 requires qualitative cross-state, ordinary, relational, voice, failure and abstention coverage, not prominence, symmetry, counts or perfect biography.
+
+### Julius Juukulius / ユリウス・ユークリウス
+
+**MONOGRAPH_READY — MODEL_AND_SEPARATE_REVIEW_IMPLEMENTED** for admitted V01–V16 main LN. The [integrated model](05%20Character%20Analysis/REZERO_JULIUS_JUUKULIUS_V01_V16_CHARACTER_MODEL.md) and [separate fidelity review](08%20Audits%20and%20Manifests/REZERO_JULIUS_JUUKULIUS_V01_V16_FIDELITY_REVIEW.md) now supply32evidence bundles/24conditional rules/26negative controls/12noncanonical applications, all seven selectors and an actually applied nineteen-dimension same-analyst nonblind documentary PASS_WITH_BOUND after ten grouped repairs. Counts identify the artifact, not a readiness score; no independent/runtime/held-out/global grade.
+
+**Default selection:** Latest personally observed V16 garden p-017#B0423–0430, after meal rupture and before park. TerminalE011, depictedE012 and latest common precheckpoint history remain separately selected; E019location/receipt is unobserved.
+
+**Operative source/holder distinction:** V04p-026's private protective explanation is available to the analyst/Julius/Marcos/Ferris, not automatically Subaru's full receipt. It does not erase literal class doctrine, excessive injury or discipline. V07qualified apology, V08terminal refusal/steel, V09current trust/Nect costs/covert-Ia apology and V16ordinary/private reciprocity remain different events. No exhaustive motive, universal ideological recantation, RBD/witch knowledge, full family biography, musical virtuosity, unlimited technique, reciprocal romance or later state is supplied.
+
+**Completed gate / retained scope:** Julius16's own full publication gate is closed. Its V01–V16 scope/latest personally observed garden default/local documentary grade remain unchanged. Wilhelm16's separate gate is also closed; Crusch16 then Ferris16 each require their own complete gate before sealed V17.
+
+### Wilhelm van Astrea / ヴィルヘルム・ヴァン・アストレア
+
+**MONOGRAPH_READY — MODEL_AND_SEPARATE_REVIEW_IMPLEMENTED** for admitted V01–V16 main LN. The [integrated model](05%20Character%20Analysis/REZERO_WILHELM_VAN_ASTREA_V01_V16_CHARACTER_MODEL.md) and [separate fidelity review](08%20Audits%20and%20Manifests/REZERO_WILHELM_VAN_ASTREA_V01_V16_FIDELITY_REVIEW.md) supply30source bundles/24conditional rules/26negative controls/10noncanonical applications and an actually applied nineteen-dimension same-analyst nonblind documentary PASS_WITH_BOUND after eight grouped first-draft repairs. Counts identify the artifact, not a promotion quota; no independent/held-out/runtime/global grade.
+
+**Default selection:** Latest personally observed V16 interrupted breakfast aftermath: actual cooking-help request/response, Heinkel intrusion and explicitly unreconciled dispersal. Not the earlier serene garden or an invented E019 location/receipt.
+
+**Operative source/holder distinctions:** Actual young cruelty/prodigy, changed protective purposes, positive Theresia love, missed words and coercive anecdote remain together. Teaching/shared help has real limits; the request for wisdom/strength belongs to Subaru. Earlier acknowledgment of Reinhard's no fault/ill intent remains beside later allegations. Private wound account is a reason to verify, not a witnessed living wife; trial figures/private Julius report are not new Wilhelm receipts. Analyst silence does not impose amnesia about his own past. No complete three-regret/family list, proved grandson guilt, universal consent/skill/cure or performed reconciliation is supplied.
+
+**Completed gate / retained scope:** Wilhelm16's own complete publication gate0c9c3585 is closed after exact-source full450-test v2 audit, trusted reporter/status, routing-current housekeeping no-op and later clean native/source/protected/seal proof. Its scope/interrupted-breakfast default/local documentary grade remain unchanged. Crusch16 then Ferris16 require separate complete gates before sealed V17.
+
+### Crusch Karsten / クルシュ・カルステン
+
+**MONOGRAPH_READY — MODEL_AND_SEPARATE_REVIEW_IMPLEMENTED** for admitted V01–V16 main LN. The [integrated model](05%20Character%20Analysis/REZERO_CRUSCH_KARSTEN_V01_V16_CHARACTER_MODEL.md) and [separate fidelity review](08%20Audits%20and%20Manifests/REZERO_CRUSCH_KARSTEN_V01_V16_FIDELITY_REVIEW.md) supply30source bundles/24conditional rules/28negative controls/10noncanonical applications and an actually applied nineteen-dimension same-analyst nonblind documentary PASS_WITH_BOUND after six grouped model repairs and two review-wording clarifications. Counts identify the artifact, not readiness by quota; no independent/held-out/runtime/global grade.
+
+**Default selection:** Latest personally observed V16 interrupted breakfast/candidate opposition, memoryless, with her own recovery goal, shared concern for Rem and unreconciled meal dispersal. Not the former commander restored or an invented E019 location/receipt.
+
+**Operative source/holder distinctions:** Responsibility can sustain reciprocal gratitude and contested nonintervention. Wind perception can detect a lie yet misread sincerity, half-truths and honest mistake; reduced current control is explicit. Real command/casualty/shame costs, admiration, mistakes and useful initiative remain together. New reports are not returned autobiographical memories; Ferris's protective concern does not replace her choice. Ordinary competence/public firmness do not prove restored governing or martial capacity. No complete childhood/Fourier biography, universal truth/healing, exact reciprocal romance, received private wound account, completed intelligence/letter/phone bargain or later outcome.
+
+**Binding next duty:** This pair's own complete exact-commit publication gate before FERRIS_V01_V16_MODEL_AND_FIDELITY_REVIEW, then Ferris16 separately constructed/reviewed/full-gated before sealed V17. Wilhelm16's closed gate does not certify Crusch.
+
+### Ferris / Felix Argyle / フェリス
+
+**MONOGRAPH_READY_CONSTRUCTION_NOT_IMPLEMENTED** — FERRIS_V01_V16_MODEL_AND_FIDELITY_REVIEW. V01–V16 main LN; medical care/coercion, patient/alliance knowledge, Crusch/Fourier/other recipients, terminal requested killing distinct from current care.
+
+**Why now:** V07 triage priorities, loyalty, joke harms, withheld self-comparison and privacy boundaries; V09 dissent about Emilia exclusion, grief-driven blame, actual demanded apology, limits of healing and proposed alliance withdrawal; V16 Gate-specific anger, ordinary dress/cooking, provocative intimacy checked by Wilhelm and continued uncertainty about Crusch. These independent triggers sustain a bounded care/help/failure model rather than 'cute healer' or 'only one person matters'.
+
+**Default selection:** Latest V16 breakfast aftermath with memoryless Crusch, after medical warning and family confrontation; earlier terminal E011 requested killing not current behavior or RBD memory.
+
+**Operational abstentions:** No universal revival/memory cure, real clinical diagnosis, inferred sexual orientation/reciprocal romance, same remembered past as Subaru, complete private life or later treatment outcomes.
+
+| person / case | differentiated decision and reason |
+|---|---|
+| Reinhard / Felt | `CHECKPOINT_READY` — V16 chosen candidacy/ordinary partnership, public strength versus family vulnerability and formal-resource limits; no new monographs now. The newly direct family/retainer/meal contrasts warrant an explicit bounded case. The full earlier obedience/conflict is still qualified reported history; do not turn one compressed new public/private encounter into complete all-phase motives, power behavior or independent governance practice. This is a material inference limitation, not a demand for perfect preferences. |
+| Priscilla / Anastasia / Al | `CHECKPOINT_READY_BOUNDED_V16_CASES` — Admitted cruelty/strategy and respected artistic refusal; host-commercial care/information; real mediator agency despite apparent low leverage. New counterpart and ordinary contrasts materially qualify prior sketches. They do not independently explain every information route, private motive or extreme capability; model the named encounters without a whole-person grade. |
+| Liliana | `CHECKPOINT_READY_V16_ART_VOCATION_AND_SOCIAL_CASE` — Actual song, repeated poor judgment, occasional mediation and proud refusal differ. Retrospective acquaintance plus one present interval does not supply all earlier phases or a decoded power. |
+| Heinkel / Sirius | `ACCUMULATING_BOUNDED_NEW_SUBJECTS` — One direct harmful public encounter and graded claims are substantive, but do not resolve full history, alleged crimes, hidden identity, mechanism or all-phase motives. |
+| Rem / Theresia / Fortuna / Geuse / individual Ryuzu persons / Petra / Frederica / other retained candidates | `PRESERVE_DIFFERENTIATED_PRIOR_READINESS_WITH_V16_INCREMENTS` — No automatic whole-person promotion from sleep, another person's memory, generic copy counts, new age or family mention. Record concrete welfare/education/care changes and named interim scopes; earlier actual choices remain evidence rather than erased. |
+
+**arc5_checkpoint:** NOT_EARNED: source explicitly opens the arc, not a conclusion; no new arc-end checkpoint.
+
+**ordinary_voice_readiness_owners:** RETAIN_IN_MASTER. New comparative skill/recipient/voice facts can be retrieved in focused V16 bundles and current tables with the existing five owners; no separate independent revision cycle or nonduplicate ownership obligation is demonstrated by counts alone.
+
+**evidence_indexes:** DEFER_WITH_EXISTING_TRIGGER. The actual office/mana/award retrieval checks resolve through unit loci and bundles; correct the draft route rather than duplicate the claims ledger. Future repeated cross-unit retrieval failure may earn a pure navigation artifact.
+
+**final_specialists:** ACCUMULATING; no final metaphysical, relationship, institutional or full-series synthesis claim.
+
+**schemas:** No new field contract or reserved candidate-tail change.
+
+**next:** Crusch16 own complete publication gate → Ferris16 construction/separate review/full gate → V17; V16/Julius16/Wilhelm16 gates are complete, continuous active terminal V43/no routine pause.
+
+The V16 trigger earned four constructions. Julius16 and Wilhelm16 are full-gated with their historical reviewed scopes/defaults/local grades unchanged. Crusch16 now has its model and separately actually applied local documentary PASS_WITH_BOUND, but its own complete gate remains a prerequisite for Ferris16. Ferris16 remains earned but unimplemented/ungraded and needs construction, actual scoped review and a separate full gate before unopened V17. Both map operation fields select Ferris conditionally on Crusch's gate. Exact V17 prospect,37 older artifacts/five owners/current340claims and formal/reserved tails remain unchanged; no new admission/owner/index/field/global grade or ordinary pause.
+
+
+````````````
+
+#### H03 — series/re-zero/04 Longitudinal Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md
+
+No link-target transformation required.
+
+````````````markdown
+## 1. Current boundary snapshot
+
+| field | current state |
+|---|---|
+| analytical high-water mark in this synchronized transaction | V16 source-facing freeze/owners and complete gate are closed; Julius16/Wilhelm16 are full-gated. This Crusch operation adds no source unit/current narrative claim generation; nine older model/review gates remain closed |
+| next candidate | FERRIS_V01_V16_MODEL_AND_FIDELITY_REVIEW only after this Crusch pair's own complete gate; then V17 against exact60Q/10P seal53ac9eb4456e84f00e1e2c8fbeef9b2d4910dd2f873f93143652cbc3854c724e; activeV43 |
+| current claim generation | RZ-V16-C001–C340;292 predecessors individually adjudicated:187PRESERVE/74STRENGTHEN/23REVISE/8OPEN,48NEW; all60incoming questions/10forecasts; exact oldV15 claim body/enteringV16 horizon preserved |
+| reached event-state boundary | E018 square death18→actual livingE019 park arrival,19segments; common year/travel/family history before point survives, later square retained bySubaru alone. Narrator十数分 explicitly not yet recognized bySubaru; no strategy/rescue/fullWrath rule atEOF |
+| admitted numbered source range | Japanese MAIN_LN V01–V43 under unchanged source lock; V16 original10591363bytes/SHA81695f7fdb01767a705daf3011f84a20c2ec7cbba658efe173dd5fb32b7756c8,CRCpass |
+| unadmitted published gaps | datedV44–V45 gaps unchanged; no new import narrative admitted |
+| admitted non-spine witnesses | none; V17+/supplement/IF/WN/adaptation/new import report unopened |
+| dedicated ledgers promoted | same five soleowners: eventV2.0/E019; knowledgeV2.0/K545; mechanicsV1.9/M345; institutionV1.13/I294; relationshipV1.7/R104/RT239. New50K/28M/32I/18R/58RT;40oldR advanced with exact preimages,46stable/181oldRT exact |
+| character models / local review | nine older full-gated pairs including Wilhelm16 retain exact bytes/scopes/defaults/local grades; Crusch V01–V16 model/separate actually applied nineteen-dimension same-analyst nonblind documentary PASS_WITH_BOUND now implemented, own gate separate; Ferris unimplemented/ungraded |
+| binding current corrections | Ram nearly-seven-year/nine-year chronology OPEN. CurrentC116/M344 explicitly prohibit oldM178/M236's Frederica→Garfiel speaking/healing inference; frozen wording retained. Roswaal recipient/agency/source qualifications remain |
+| relationship/specialist syntheses | three historical checkpoints unchanged; V16 opensArc5, no arc-endcheckpoint/finalspecialist. Ordinary/voice/readiness staymaster; fiveowners enough, no count-driven index/newfield/globalgrade |
+| architecture lifecycle | EVOLVING; continuous active terminalV43/no ordinary unit or model pause |
+
+````````````
+
+#### H04 — series/re-zero/00 Frameworks and Methods/REZERO_CHARACTER_RECONSTRUCTION_PROTOCOL.md
+
+No link-target transformation required.
+
+````````````markdown
+## 0. Authority and present boundary
+
+It is subordinate to method, architecture, witness protocol and live source lock. It neither admits sources nor rewrites freezes.
+
+This protocol governs source-grounded conditional reconstruction, not source admission or fidelity by artifact count. Master owns person/readiness; five specialist owners retain conditioning state. Current source-facing horizon is V16 and its complete publication gate is closed; this Crusch derived operation adds no source unit or current claim generation. E018 square death18→actual livingE019 park arrival gives19arrived segments; common year/travel/family history survives, later square does not become others' memory. Subaru is acutely horrified and has not yet recognized narrator十数分 timing. Rem unresponsive/Puck dormant/Gate destroyed and small daily mana remain distinct.
+
+All nine prior Subaru10/Otto13/Emilia14/Beatrice15/Garfiel15/Ram15/Roswaal15/Julius16/Wilhelm16 pairs/scopes/defaults/local documentary grades remain exact/full-gated, latest predecessor0c9c3585. V16 reconciliation is not a horizon extension or independent/runtime/global benchmark. Ram chronology staysOPEN; currentC116/M344 prohibit M178/M236's old Frederica→Garfiel speaking/healing inference without rewriting frozen findings. Roswaal's actual source/recipient/agency qualifications remain binding.
+
+V16 earned four V01–V16 person constructions. Julius16/Wilhelm16 complete gates are closed; Crusch's integrated model/separate actually applied nineteen-dimension same-analyst nonblind documentary review now return local PASS_WITH_BOUND with memoryless interrupted-breakfast/candidate-opposition default and explicit prior-state/holder/ordinary/voice/counterevidence limits. Ferris16 remains earned but unimplemented/ungraded. This Crusch operation requires its own complete publication gate before Ferris; Ferris then needs its own construction/separate applied review/full gate before unopened V17. Other people retain named narrower cases; no prominence/copy-count promotion, perfect-biography demand or invented E019 placement.
+
+No new selector axis/field, formal fidelity dimension, sixth owner, evidence/ordinary/voice/readiness file, finalspecialist or Arc5-endcheckpoint is earned. All39members/77deliveries/3805positions/32image references reached V16 EOF before analysis; exact V17seal53ac9eb4456e84f00e1e2c8fbeef9b2d4910dd2f873f93143652cbc3854c724e remains fixed through four derived operations. Active terminalV43/EVOLVING/no ordinary pause unchanged. Earlier opening text is preserved verbatim in§18; formal§§19–21 remain exact.
+
+The protocol standardizes **responsibilities, not file count or headings**. A compact monograph may satisfy it when evidence is narrow. A richer packet may divide the responsibilities among current-state, relationship, ordinary-life, voice, evidence, and fidelity artifacts only after each independent retrieval burden is demonstrated.
+
+````````````
+
+#### H05 — series/re-zero/05 Character Analysis/README.md
+
+Archive link-target-only rebases (displayed text/analytical meaning unchanged): `REZERO_CRUSCH_KARSTEN_V01_V16_CHARACTER_MODEL.md` → `05%20Character%20Analysis/REZERO_CRUSCH_KARSTEN_V01_V16_CHARACTER_MODEL.md`; `../08%20Audits%20and%20Manifests/REZERO_CRUSCH_KARSTEN_V01_V16_FIDELITY_REVIEW.md` → `08%20Audits%20and%20Manifests/REZERO_CRUSCH_KARSTEN_V01_V16_FIDELITY_REVIEW.md`.
+
+````````````markdown
+| Crusch Karsten, Japanese main LN V01–V16 | [Integrated model](05%20Character%20Analysis/REZERO_CRUSCH_KARSTEN_V01_V16_CHARACTER_MODEL.md), then [separate scoped review](08%20Audits%20and%20Manifests/REZERO_CRUSCH_KARSTEN_V01_V16_FIDELITY_REVIEW.md) | MONOGRAPH_READY; actually applied same-analyst nonblind nineteen-dimension documentary PASS_WITH_BOUND after six grouped model repairs/two review-wording clarifications; own full publication gate before Ferris16, not independent/held-out/runtime/global grade |
+````````````
+
+#### H06 — series/re-zero/05 Character Analysis/README.md
+
+No link-target transformation required.
+
+````````````markdown
+## Current V16 source boundary and four earned constructions
+
+V16's source-facing transaction and complete gate are closed at current E019/18deaths19segments/340claims. All37 older artifacts including the V16 freeze and nine prior model/review pairs retain exact bytes/scopes/defaults/local grades, latest Wilhelm16 full gate0c9c3585. Crusch's model/separate review is now implemented at local documentary PASS_WITH_BOUND, own complete gate still separate before Ferris16. Current source facts do not extend older reviewed scopes or certify independent/runtime/global fidelity. Historical defaults are not silently E019; Crusch defaults to memoryless interrupted-breakfast/candidate opposition, not the former commander restored.
+
+| earned person / operation | qualitative coverage and latest personally observed default | binding next duty / abstention |
+|---|---|---|
+| Julius Juukulius / ユリウス・ユークリウス / `JULIUS_V01_V16_MODEL_AND_FIDELITY_REVIEW` | V07–V09 actual qualified apologies, contested trust, bodily/sensory cost and spirit obligations now join V16 peer recognition, private anger/thanks, correction received from Subaru, Joshua/Reinhard/Anastasia recipients, ordinary flexibility/music-profession and burned-food courtesy. Role virtue versus heart-in-armor is no longer only a dyad combat inference. Default: Latest personally observed V16 garden conversation p-017#B0423–0430, after meal rupture and before park; distinguish common precheckpoint history from terminal lost square/E019 unobserved location. | MONOGRAPH_READY; model/separate review implemented, local documentary PASS_WITH_BOUND and full gatec7706eef closed before Wilhelm16. V04private protective explanation is not Subaru's full receipt or erasure of harm/class doctrine; no exhaustive motive/family biography, demonstrated musical virtuosity, unlimited technique, RBD/later knowledge, settled romance or global grade. |
+| Wilhelm van Astrea / ヴィルヘルム・ヴァン・アストレア / `WILHELM_V01_V16_MODEL_AND_FIDELITY_REVIEW` | V07 already supplies ordinary flowers/visits, competing motives, martial cruelty, service/romance/purpose revision, defeat and verbal failure. V09's concealed pursuit and self-disposability now join V16 intimate reflective mentorship, admitted grave words/avoidance, domestic failure, help-seeking and interrupted grandson repair. This permits more than an ideal-mentor or husband-only sketch. Default: Latest V16 breakfast aftermath, actual first cooking request/response then Heinkel/Priscilla interruption and dispersed meal; not the earlier serene garden as a permanently repaired endpoint. | MONOGRAPH_READY; model/separate review implemented, local documentary PASS_WITH_BOUND and full gate0c9c3585 closed before Crusch16. Earlier no-fault acknowledgment, actual love/skill and coercive/error counterevidence remain; no full three-regret/family list, proved grandson guilt, solved living-wife/wound mechanism, universal consent/agency or performed forgiveness. |
+| Crusch Karsten / クルシュ・カルステン / `CRUSCH_V01_V16_MODEL_AND_FIDELITY_REVIEW` | V07 focalized command, responsibility, fallible wind-reading inference, sincere gratitude and compatible rivalry; V09 attack, lost autobiography, refusal of substitutive protection and actual alliance decision; V16 own Gluttony goal, insisted sharing for Rem, firm candidate support, reduced blessing control, cooking/appearance and close retainer exchanges. A current ethical actor can be reconstructed without demanding restored past or universal policy. Default: Latest V16 breakfast/candidate opposition before park, memoryless and choosing her own recovery goal; no invented E019 relocation or regained autobiography. | MONOGRAPH_READY; model/separate applied review implemented, local documentary PASS_WITH_BOUND; own full gate before Ferris16. Preserve sincere/half-true/misread wind evidence, ethical nonintervention/shame costs, own post-loss choice, ordinary competence and lost governing vigor together. No full memory return, infallible truth test, metaphysical soul proof, completed intelligence/revenge, precise romantic terms, every private motive or later injury/outcome. |
+| Ferris / Felix Argyle / フェリス / `FERRIS_V01_V16_MODEL_AND_FIDELITY_REVIEW` | V07 triage priorities, loyalty, joke harms, withheld self-comparison and privacy boundaries; V09 dissent about Emilia exclusion, grief-driven blame, actual demanded apology, limits of healing and proposed alliance withdrawal; V16 Gate-specific anger, ordinary dress/cooking, provocative intimacy checked by Wilhelm and continued uncertainty about Crusch. These independent triggers sustain a bounded care/help/failure model rather than 'cute healer' or 'only one person matters'. Default: Latest V16 breakfast aftermath with memoryless Crusch, after medical warning and family confrontation; earlier terminal E011 requested killing not current behavior or RBD memory. | MONOGRAPH_READY_CONSTRUCTION_NOT_IMPLEMENTED. No universal revival/memory cure, real clinical diagnosis, inferred sexual orientation/reciprocal romance, same remembered past as Subaru, complete private life or later treatment outcomes. |
+
+Julius16/Wilhelm16 complete gates are closed. Crusch16's model/separate actually applied local documentary review are implemented; this pair's own complete gate precedes Ferris16 construction/separate review/full gate before V17. Ferris alone remains unimplemented/ungraded. Readiness, local fidelity and publication are distinct. Other people retain named narrower cases in master§13/V16§15; exact V17prospectseal53ac9eb4456e84f00e1e2c8fbeef9b2d4910dd2f873f93143652cbc3854c724e stays fixed. ActiveV43/no routine pause unchanged.
+
+CurrentC116/M344 prominently prohibit historicalM178/M236's Frederica→Garfiel speaking/healing conflation; Ram chronology staysOPEN. Roswaal's source/recipient/agency qualifiers still bind. Earlier source/derived-operation reviews below retain then-current scope and historical work orders, not new pending predecessor gates. No index/ordinary/voice/readiness home, finalspecialist, Arc5-endcheckpoint or new global grade is promoted here.
+
+````````````
+
+#### H07 — series/re-zero/04 Longitudinal Ledgers/REZERO_LEDGER_PROMOTION_AND_SCHEMAS.md
+
+No link-target transformation required.
+
+````````````markdown
+The master was backfilled from frozen V01/V02 and now advances through the fully gated V16 source boundary without rewriting earlier freezes. It owns claims/person/ordinary/Japanese/prospect/readiness; institutionV04, event/knowledgeV06, mechanicsV07 and relationshipV09 remain five soleowners. Nine prior model/review pairs including Wilhelm16 retain exact scopes/defaults/local documentary grades and complete gates. Crusch V01–V16 now has its integrated model and separate actually applied nineteen-dimension same-analyst nonblind documentary PASS_WITH_BOUND; its own full publication gate remains separate. Ferris16 alone remains earned but unimplemented/ungraded before sealed V17. Earlier reviews below preserve their named phase decisions, not current defaults. No field contract changes.
+````````````
+
+#### H08 — series/re-zero/01 Source Lock and Inventory/REZERO_SOURCE_LOCK_AND_INVENTORY.md
+
+No link-target transformation required.
+
+````````````markdown
+## Current source-state summary
+
+- **Acquired/admitted Japanese main LN:** V01–V43 continuous; V41 bounded replacement unchanged.
+- **Known dated published but unadmitted gaps:** V44–V45; no new freshness claim.
+- **Admitted translation/supplement/EX/IF/WN/anime:** none. EnglishV21/archivedV31 remain nonadmitted/unopened.
+- **Consumed into prospective main-LN analysis:** V01–V16; V16's complete source-facing gate and Julius16/Wilhelm16 complete source-free gates are closed. Nine prior pairs retain exact scopes/defaults/local grades. Crusch's derived model/review adds no consumed unit or current narrative claim generation; its own publication gate remains separate.
+- **Next analytical operation:** FERRIS_V01_V16_MODEL_AND_FIDELITY_REVIEW only after the implemented Crusch V01–V16 pair's own complete publication gate. Crusch's separately actually applied nineteen-dimension same-analyst nonblind documentary result is PASS_WITH_BOUND, not independent/held-out/runtime/global validation. Then Ferris16 own construction/separate review/full gate; only then unopenedV17 against exact60Q/10P seal53ac9eb4456e84f00e1e2c8fbeef9b2d4910dd2f873f93143652cbc3854c724e. Ferris alone remains unimplemented/ungraded.
+- **Derived-use source reconciliation:** Crusch's source-free operation revisits35bounded Japanese deliveries/2563TEXTpositions/112943characters in already-consumed V04/V05/V06/V07/V09/V16, original hashes/CRC checked. One overlapping V07block gives2562unique positions/112918uniquecharacters. This is not six fresh complete novel rereads, new admission, changed original or additional current narrative claim generation. Source high-water remainsV16; all37older artifacts/five owners/current340claims/formal/reserved tails and exact V17seal remain protected.
+- **Current execution:** active continuous terminalV43; E019 alive after square death18/19segments. Common year/travel/family history survives, later atrocity Subaru-only; narrator short-point timing not yet recognized by him. No decodedWrath, complete family repair, crystal/Puck/Rem/Gate result or full campRBD. Award/medal now retrospectively confirmed without exact enrollment/date/type.
+- **Source admission and acquisition priority:** unchanged43-original lock/V41exception; V44/V45 acquisition before authorized boundary is reached, not done here. New metadata/report does not admit unread works. V17+/nonspine/new import narratives remain unopened.
+````````````
+
+#### H09 — series/re-zero/00 Frameworks and Methods/REZERO_SYNTHESIS_ARCHITECTURE.md
+
+No link-target transformation required.
+
+````````````markdown
+Current V16 person responsibility: Nine prior model/review pairs including Wilhelm16 retain exact scopes/defaults/local documentary grades and complete gates. Crusch V01–V16 now has its integrated model and separate actually applied nineteen-dimension same-analyst nonblind documentary PASS_WITH_BOUND; its own full publication gate remains separate. Ferris16 alone remains earned but unimplemented/ungraded before sealed V17. Master§13/protocol§18 own qualitative decisions; no new field/global grade/state-owner migration.
+````````````
+
+#### H10 — series/re-zero/00 Frameworks and Methods/REZERO_SYNTHESIS_ARCHITECTURE.md
+
+No link-target transformation required.
+
+````````````markdown
+## 13. Responsibility matrix
+
+| Analytical dimension | Sequential observation | Cumulative canonical home | Mature/final destination | State through V16 candidate — full gate required |
+|---|---|---|---|---|
+| Claims and revisions | material claims, counterevidence, six-state adjudication | master ledger claim tables | relevant specialists and full-series synthesis | 340currentV16claims;292individual predecessors187PRESERVE/74STRENGTHEN/23REVISE/8OPEN plus48NEW, all60Q/10P; exact oldV15 body/sealed enteringV16 preserved; C116 source-subject correction explicit |
+| Route/event-state | local state, trigger, outcome, durability, carry-forward | `04 Longitudinal Ledgers/REZERO_EVENT_STATE_AND_ROUTE_LEDGER.md` | memory/continuity or mechanics specialist if earned | E018 square death18→actual livingE019,19segments; common prepoint history/lost square/narrator clock distinguished; no hidden returns or point-control ontology |
+| Knowledge/asymmetry | holder, source, confidence, nonholder, disclosure, false belief, consequence | `04 Longitudinal Ledgers/REZERO_KNOWLEDGE_AND_INFORMATION_ASYMMETRY_LEDGER.md` | relationship, agency, and continuity syntheses | K001–545;50newK496–545 plus three revised bases/exact preimages; pending letter/crystal, private report, graded claims and narrator timing not automatic common knowledge |
+| Relationships | each party's remembered history, trust, disclosure, dependency, power | `04 Longitudinal Ledgers/REZERO_RELATIONSHIP_CONTINUITY_LEDGER.md` | character monographs; dyadic/ensemble synthesis if earned | R001–104/RT001–239;40oldR advanced with exact preimages/ancestry,46stableR/181oldRT exact;18newR/58RT; actual approaches/consent/nonmutual discarded memory distinct |
+| Character state/stress | goals, self-model, conditions, behavior, recovery, counterexample | master ledger character/readiness tables | protocol-governed character monographs/models | Nine prior full-gated models/defaults/local documentary grades exact; E019 acute Subaru not old defaults extended;24current personrows advanced/12newbounded subjects; Julius/Wilhelm closed, Crusch model/review implemented under own gate, Ferris construction earned |
+| Institutions/factions/power | rule/doctrine, actor behavior, capacity, resources, status, coercion | `04 Longitudinal Ledgers/REZERO_INSTITUTIONS_FACTIONS_AND_POWER_LEDGER.md` | institutional/political specialist if earned | I001–294;32newI263–294, fivecamp rows advanced/preimages retained; realm recognition/Ottooffice real, jurisdiction/headship/loyalty/choice differ; crowd enthusiasm not consent |
+| Mechanics/world model | speaker theory, observation, cost, exception, corroboration | `04 Longitudinal Ledgers/REZERO_MECHANICS_METAPHYSICS_AND_WORLD_MODEL_LEDGER.md` | mechanics/metaphysics specialist if earned | M001–345;28newM318–345 plus three currentbases/preimages; finite daily mana/care, attributed effects/lethal link/shortpoint; M344prohibits oldFrederica→Garfiel inference; no fullWrath rule |
+| Ordinary life/preferences | only model-diagnostic routines, tastes, labor, comfort, low-stakes conduct | master ledger ordinary-life table | character/relationship or ordinary-life specialist if earned | 30V16rows inmaster§10/V16§10: training/distributed care, letters/games/travel, clothes/bath/futons, comparative cooking, study/music/vocation; actual versus proposed/retrospective/ coerced distinct; same owner |
+| Japanese wording/register | wording-sensitive terms, address, titles, pragmatic shifts, exact locus | master ledger terminology table plus VNN evidence loci | language/register specialist; character and translation analysis | 27V16rows inmaster§11/V16§11; office/knight/award, recipient-register, rumor/record, alias, acceptedrefusal and narrator-only timing; same owner |
+| Prospective questions | bounded falsifiers/predictions before next volume | master ledger open-question register and prior VNN freeze | next VNN adjudication; checkpoints | All60incomingV16questions/10forecasts adjudicated; exact60Q/10P V17seal53ac9eb4456e84f00e1e2c8fbeef9b2d4910dd2f873f93143652cbc3854c724e fixed before opening and through four derived gates |
+| Source identity/locators | source ID, hash, locus convention | source lock plus VNN reading; ledger routes only | evidence/index layer if retrieval burden earns it | V16 exactoriginal10591363bytes/SHA81695f7fdb01767a705daf3011f84a20c2ec7cbba658efe173dd5fb32b7756c8/CRCpass;39members/77actualdeliveries/3805positions/32image refs22assets consumed; excludedadvert not narrative |
+| Character/relationship/specialist readiness | cited accumulation and threshold judgment | master ledger readiness tables | promoted canonical artifacts | Crusch V01–V16 model/separate local documentary review implemented, own full gate before Ferris16 construction/review/full gate then V17. Nine prior pairs exact/full-gated; other named narrower cases bounded; no Arc5-end checkpoint/final specialist/index/new owner/global grade |
+| Supplemental/IF/WN | catalog awareness only; no opening until admission and safe horizon | supplemental catalog + source lock + witness protocol; later witness-specific reading | bounded cross-witness specialist | no separately admitted witness; V09 internal escape-family fragment remains MAIN_LN-container/local-premise evidence |
+| Anime/adaptation | no observation until source admission | adaptation source lock/readings when created | adaptation specialists and bounded comparison | `NO_WITNESS_ADMITTED` |
+
+An observation omitted from cumulative state is intentionally local only when the VNN reading explains that it neither recurs nor affects later claims. Material evidence may not be left without a retrieval destination.
+
+````````````
+
+#### H11 — series/re-zero/00 Frameworks and Methods/REZERO_SYNTHESIS_ARCHITECTURE.md
+
+No link-target transformation required.
+
+````````````markdown
+An earned separately pending construction/review is binding, not permission to skip a gate. V16/Julius16/Wilhelm16 and predecessor gates are full-gated/closed. Crusch16 now has its model and separately applied local documentary PASS_WITH_BOUND review, but requires its own complete exact-commit gate before Ferris16 construction/separate scoped review/full gate, then unopened V17 against exact seal53ac9eb4456e84f00e1e2c8fbeef9b2d4910dd2f873f93143652cbc3854c724e. Both map fields/master§13 select Ferris16 conditionally on Crusch's gate. Keep Ram chronology OPEN, current C116/M344 subject correction and Roswaal qualifiers;37 older artifacts/nine prior scopes/defaults/grades and active V43 remain exact. No ordinary pause.
 ````````````

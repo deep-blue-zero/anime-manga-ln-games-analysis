@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: corpus_map
 scope: SERIES_BOOTSTRAP_AND_ANALYTICAL_ROUTING
-generation: V0.34
+generation: V0.35
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -29,7 +29,7 @@ project_initialization:
   required_day_one_infrastructure:
     - 04 Longitudinal Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md
   sequential_analysis_lock: OPEN
-  next_permitted_operation: FERRIS_V01_V16_MODEL_AND_FIDELITY_REVIEW
+  next_permitted_operation: V17
 ```
 
 ```yaml
@@ -39,7 +39,7 @@ sequential_execution:
   authorized_start: V03
   terminal_boundary: V43
   committed_high_water_mark: V16
-  next_candidate_operation: FERRIS_V01_V16_MODEL_AND_FIDELITY_REVIEW
+  next_candidate_operation: V17
   confirmation_between_units: false
   run_state: active
 ```
@@ -59,9 +59,9 @@ The exact Japanese V16 original was fully consumed in OPF order:39members/77actu
 
 Current340claims incorporate292individual predecessor dispositions:187PRESERVE/74STRENGTHEN/23REVISE/8OPEN plus48NEW. All60incoming questions/10forecasts are adjudicated, not retrospectively predicted. E018 ends at square death18 and actual park arrival instantiates livingE019,19segments. Common year/travel/family history survives before point; onlySubaru retains the later square. Narrator十数分 timing is explicitly not yet recognized bySubaru. CurrentC116/M344 prohibit the old Frederica→Garfiel speaking/healing inference; exact older wording/history remains recoverable. Ram chronology staysOPEN.
 
-Five soleowners/master remain sufficient: eventV2.0/E019, knowledgeV2.0/K545, mechanicsV1.9/M345, institutionV1.13/I294, relationshipV1.7/R104/RT239; new50K/28M/32I/18R/58RT,40oldR advanced with preimages,46stable/181oldRT exact. All37 older artifacts, including the V16 freeze and nine prior model/review pairs, retain exact bytes/defaults/local grades. V16 reconciliation is not expanded documentary fidelity, independent/runtime/global validation or a cure.
+Five soleowners/master remain sufficient: eventV2.0/E019, knowledgeV2.0/K545, mechanicsV1.9/M345, institutionV1.13/I294, relationshipV1.7/R104/RT239; new50K/28M/32I/18R/58RT,40oldR advanced with preimages,46stable/181oldRT exact. All39 older artifacts, including the V16 freeze and ten prior model/review pairs, retain exact bytes/defaults/local grades. V16 reconciliation is not expanded documentary fidelity, independent/runtime/global validation or a cure.
 
-V16's source gate and Julius16/Wilhelm16 separate complete gates are closed. The earned [Crusch V01–V16 model](05%20Character%20Analysis/REZERO_CRUSCH_KARSTEN_V01_V16_CHARACTER_MODEL.md) and [separate fidelity review](08%20Audits%20and%20Manifests/REZERO_CRUSCH_KARSTEN_V01_V16_FIDELITY_REVIEW.md) now supply30source bundles/24conditional rules/28negative controls/10noncanonical applications and an actually applied nineteen-dimension same-analyst nonblind documentary PASS_WITH_BOUND after six grouped model repairs and two review-wording clarifications. Counts identify the artifact, not readiness by quota. Default is memoryless Crusch's latest personally observed interrupted breakfast/candidate opposition, not the former commander restored or invented E019 location/receipt. Its own complete gate remains separate; only then Ferris16 construction/separate review/full gate before sealed V17. Ferris alone remains unimplemented/ungraded; other people retain narrower cases. No Arc5-end checkpoint, sixth owner/new field/count-driven index, independent/held-out/runtime/global grade or ordinary pause.
+V16/Julius16/Wilhelm16/Crusch16 complete gates are closed, latest Crusch16 at9131ffb6. The earned [Ferris V01–V16 model](05%20Character%20Analysis/REZERO_FERRIS_FELIX_ARGYLE_V01_V16_CHARACTER_MODEL.md) and [separate fidelity review](08%20Audits%20and%20Manifests/REZERO_FERRIS_FELIX_ARGYLE_V01_V16_FIDELITY_REVIEW.md) now supply35source bundles/24conditional rules/12Japanese observations/28negative controls/10noncanonical applications and an actually applied nineteen-dimension same-analyst nonblind documentary PASS_WITH_BOUND after nine scoped model findings/one minor editorial repair and three review-only clarifications. Counts identify the artifact, not readiness by quota. Default is latest personally observed interrupted-breakfast aftermath with memoryless Crusch: hostile command refused, later non-escalation and unreconciled dispersal; not terminalE011 memory, clinical refusal or invented E019 location/receipt. Useful care/ordinary pleasure coexist with coercion, unfair judgment, limits and incomplete repair. This pair's own complete gate remains before sealed V17; no further V16-earned construction is unimplemented. Other people retain named narrower cases. No Arc5-end checkpoint, sixth owner/new field/count-driven index, independent/held-out/runtime/global grade or ordinary pause.
 
 ## Governing method and retrieval route
 
@@ -98,15 +98,15 @@ A discarded or superseded event-state can remain highly probative character evid
 
 | Layer | Analytical responsibility | Current state |
 |---|---|---|
-| `00 Frameworks and Methods` | Governing evidence, prospective-freeze, route-state, witness-separation, character reconstruction/fidelity, focalization, Japanese-language, safe-horizon, revision, longitudinal-routing, specialist, and completion rules | methodV0.1/witnessprotocolV0.2 unchanged; architectureV1.26 EVOLVING; characterprotocolV1.25/currentV16; Julius/Wilhelm full-gated; Crusch model/local review implemented under own gate, Ferris earned construction pending; nine prior grades unchanged |
-| `01 Source Lock and Inventory` | Exact witness set, integrity/provenance, edition identity, publication ordering, source-family classification and non-spine awareness | sourceLockV0.29; admittedV01–V43/V41exception/datedgaps unchanged; V16 exact complete consumption, V17+/nonspine/new import narratives unopened; no admission |
+| `00 Frameworks and Methods` | Governing evidence, prospective-freeze, route-state, witness-separation, character reconstruction/fidelity, focalization, Japanese-language, safe-horizon, revision, longitudinal-routing, specialist, and completion rules | methodV0.1/witnessprotocolV0.2 unchanged; architectureV1.27 EVOLVING; characterprotocolV1.26/currentV16; Julius/Wilhelm/Crusch full-gated; Ferris model/separate local review implemented under own gate; ten prior grades unchanged |
+| `01 Source Lock and Inventory` | Exact witness set, integrity/provenance, edition identity, publication ordering, source-family classification and non-spine awareness | sourceLockV0.30; admittedV01–V43/V41exception/datedgaps unchanged; V16 exact complete consumption, V17+/nonspine/new import narratives unopened; no admission |
 | `02 Sequential Readings` | Main-LN prospective deep readings and source-verified checkpoints | V01–V15/three checkpoints exact; V16 source-facing reading and synchronized current state. V17 exact60Q/10P seal fixed through four separately gated derived operations |
 | `03 Supplemental and Alternate Witnesses` | Analytical readings of admitted mainline side stories, collections, EX/supplemental material, IF/alternate routes, web-novel witnesses, and other non-spine material | routing contract V0.2 populated; cataloging remains in layer 01; no witness admitted or read yet |
-| `04 Longitudinal Ledgers` | Current claims/revisions, chronology/durability, proposition holders, relationships, characters, institutions, mechanics, ordinary life, Japanese, questions and readiness | masterV1.27/currentV16; five soleowners eventV2.0/E019, knowledgeV2.0/K545, mechanicsV1.9/M345, institutionV1.13/I294, relationshipV1.7/R104/RT239; schemaV0.28/no field change |
-| `05 Character Analysis` | Protocol-governed character reconstruction only after sufficient longitudinal evidence exists | routerV0.16; nine prior pairs exact/full-gated; Crusch16 model/review local documentary PASS_WITH_BOUND, own gate separate; Ferris16 earned/unimplemented, construction/review/full gate before V17 |
+| `04 Longitudinal Ledgers` | Current claims/revisions, chronology/durability, proposition holders, relationships, characters, institutions, mechanics, ordinary life, Japanese, questions and readiness | masterV1.28/currentV16; five soleowners eventV2.0/E019, knowledgeV2.0/K545, mechanicsV1.9/M345, institutionV1.13/I294, relationshipV1.7/R104/RT239; schemaV0.29/no field change |
+| `05 Character Analysis` | Protocol-governed character reconstruction only after sufficient longitudinal evidence exists | routerV0.17; ten prior pairs exact/full-gated; Ferris16 model/review local documentary PASS_WITH_BOUND, own full gate separate before V17; all four V16-earned constructions implemented |
 | `06 Adaptation Analysis` | Anime and later audiovisual comparison as separately labeled witnesses | routing contract populated; no adaptation findings yet |
 | `07 Specialist Synthesis` | Dense questions with independent retrieval responsibility, instantiated only when earned | not instantiated |
-| `08 Audits and Manifests` | Bootstrap and later analytical/source-integrity manifests | nine prior scoped reviews unchanged; Crusch's separately applied nineteen-dimension same-analyst nonblind documentary PASS_WITH_BOUND implemented, own publication gate separate; no independent/runtime/global grade |
+| `08 Audits and Manifests` | Bootstrap and later analytical/source-integrity manifests | ten prior scoped reviews unchanged; Ferris's separately applied nineteen-dimension same-analyst nonblind documentary PASS_WITH_BOUND implemented, own publication gate separate; no independent/runtime/global grade |
 | future `09 Evidence and Indexes` | Claim-evidence, source-locator, character-evidence-coverage, or witness-dependency navigation only after demonstrated retrieval burden | not instantiated; exact candidates and triggers reserved in the synthesis architecture |
 | future `10 Full-Series Synthesis` | Canonical full-series convergence after complete-series or expressly bounded readiness | not instantiated; reserved canonical file `REZERO_FULL_SERIES_SYNTHESIS.md` |
 | `90 Legacy and Superseded` | Materially distinct superseded analysis | not instantiated; no legacy analytical corpus is being imported |
@@ -177,11 +177,11 @@ Publication follows the current repository integration checklist. Routing-curren
 
 ## Current work order
 
-1. Close this Crusch model/review transaction's complete gate: final saved scope/default/holder/name/locator review, exact model/review/eight-maintained-file synchronization, complete staged diff and final-index author preflight; fresh refs/rulesets/current-main reconciliation, exact-path ordinary commit/nonforced series push and immutable full-file/tree readback. V16/Julius16/Wilhelm16 gates are closed; five owners/current340claims stay exact, not reconstructed.
-2. Require actual-source full integration audit/all discovered tests, trusted exact-SHA reporter/status, applicable housekeeping outcome and a later clean native/source/protected/seal check. Routing-current no-op needs no redundant child audit; stale routing requires the allowlisted child/full exact-child audit. Never write/dispatch protected automation outputs manually.
-3. Crusch V01–V16 is implemented with a separately actually applied nineteen-dimension same-analyst nonblind documentary PASS_WITH_BOUND, not a full publication receipt. Only after this pair's own complete gate execute FERRIS_V01_V16_MODEL_AND_FIDELITY_REVIEW with construction/separate applied review/full gate. Ferris remains unimplemented/ungraded.
+1. Close this Ferris model/review transaction's own complete gate: exact tested core/packaging, ten-file synchronization, complete actual staged-diff review and final-index author preflight; current-main/remote reconciliation, exact-path owner-authored commit/nonforce push, immutable full-file/tree readback and the required branch PR. Leave merging to the owner/CI agent; do not self-merge or dispatch protected automation.
+2. Require actual-source full integration audit/all discovered tests, trusted exact-SHA reporter/status, applicable completed housekeeping and a later clean native/source/protected/seal check. Routing-current no-op needs no redundant child audit; stale routing requires the allowlisted child/full exact-child audit. An earlier commit's pass never certifies a new head.
+3. V16/Julius16/Wilhelm16/Crusch16 complete gates are closed. Ferris16's separate nineteen-dimension same-analyst nonblind documentary review is actually applied, not an independent/runtime/global result or the own publication receipt. Both operation fields select V17 conditionally on closing this pair's gate; do not repeat earlier models or reopen completed gates.
 4. Only then open V17 in Japanese OPF order through full text/image EOF against unchanged sealed60questions/10forecasts SHA53ac9eb4456e84f00e1e2c8fbeef9b2d4910dd2f873f93143652cbc3854c724e. Derived source revisits add no later primary unit or silent prospect rewrite.
-5. Preserve37older artifacts including the V16 freeze/nine prior model-review scopes/defaults/grades, plus Crusch's declared reviewed scope/memoryless interrupted-breakfast default/local grade. Do not reopen completed gates or move old defaults toE019. Keep Ram chronology OPEN and C116/M344's Frederica-subject correction mandatory; retain Roswaal recipient/agency/source qualifications.
+5. Preserve39older artifacts including the V16 freeze/ten prior model-review scopes/defaults/grades, plus this Ferris pair's declared scope/latest interrupted-breakfast default/local grade. Do not move old defaults toE019. Keep Ram chronology OPEN, C116/M344's Frederica-subject correction mandatory and Roswaal recipient/agency/source qualifications.
 6. Maintain18deaths19segments/E019 acute horror and exact holder/consent/resource boundaries. BrokenGate/small daily mana/dormantPuck/unresponsiveRem, undeliveredletter/unacquiredcrystal, incomplete origin telling/old apology/family repair remain distinct. Award/medal now retrospectively confirmed; no unsupported exact Guard enrollment/salary.
 7. Continue prospective atomic transactions through activeV43 without routine unit/model confirmation. Source exhaustion is not published-series completion. Fiveowners/master own state/person/ordinary/voice/readiness; no count-driven file symmetry or new global grade.
 8. Source admission43/V41exception and datedV44/V45 gaps remain unchanged; new import metadata/report is not new narrative admission. V17+/IF/WN/supplement/adaptation remain unopened. Global curation/evaluator/steward/protected integration retain separate authority.

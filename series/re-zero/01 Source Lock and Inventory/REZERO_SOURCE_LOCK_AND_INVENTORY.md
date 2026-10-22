@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: source_lock
 scope: SOURCE_ADMISSION_CONTRACT_AND_CURRENT_INVENTORY_STATE
-generation: V0.29
+generation: V0.30
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -693,8 +693,8 @@ The V16freeze§1 owns complete member coverage/locator convention. Private recei
 - **Acquired/admitted Japanese main LN:** V01–V43 continuous; V41 bounded replacement unchanged.
 - **Known dated published but unadmitted gaps:** V44–V45; no new freshness claim.
 - **Admitted translation/supplement/EX/IF/WN/anime:** none. EnglishV21/archivedV31 remain nonadmitted/unopened.
-- **Consumed into prospective main-LN analysis:** V01–V16; V16's complete source-facing gate and Julius16/Wilhelm16 complete source-free gates are closed. Nine prior pairs retain exact scopes/defaults/local grades. Crusch's derived model/review adds no consumed unit or current narrative claim generation; its own publication gate remains separate.
-- **Next analytical operation:** FERRIS_V01_V16_MODEL_AND_FIDELITY_REVIEW only after the implemented Crusch V01–V16 pair's own complete publication gate. Crusch's separately actually applied nineteen-dimension same-analyst nonblind documentary result is PASS_WITH_BOUND, not independent/held-out/runtime/global validation. Then Ferris16 own construction/separate review/full gate; only then unopenedV17 against exact60Q/10P seal53ac9eb4456e84f00e1e2c8fbeef9b2d4910dd2f873f93143652cbc3854c724e. Ferris alone remains unimplemented/ungraded.
-- **Derived-use source reconciliation:** Crusch's source-free operation revisits35bounded Japanese deliveries/2563TEXTpositions/112943characters in already-consumed V04/V05/V06/V07/V09/V16, original hashes/CRC checked. One overlapping V07block gives2562unique positions/112918uniquecharacters. This is not six fresh complete novel rereads, new admission, changed original or additional current narrative claim generation. Source high-water remainsV16; all37older artifacts/five owners/current340claims/formal/reserved tails and exact V17seal remain protected.
+- **Consumed into prospective main-LN analysis:** V01–V16; V16 source-facing/Julius16/Wilhelm16/Crusch16 complete gates are closed, latest Crusch9131ffb6. Ten prior pairs retain exact scopes/defaults/local grades. Ferris's derived model/review adds no consumed unit or current narrative claim generation; its own publication gate remains separate.
+- **Next analytical operation:** V17 only after the implemented Ferris V01–V16 pair's own complete publication gate. Its separately actually applied nineteen-dimension same-analyst nonblind documentary result is PASS_WITH_BOUND, not independent/held-out/runtime/global validation. All four V16-earned constructions are implemented; exact60Q/10P seal53ac9eb4456e84f00e1e2c8fbeef9b2d4910dd2f873f93143652cbc3854c724e remains fixed.
+- **Derived-use source reconciliation:** Ferris revisits51bounded Japanese deliveries/3560uniqueTEXTpositions/154558characters in already-consumed V04/V05/V06/V07/V08/V09/V10/V12/V16, original hashes/CRC checked, no image/duplicate credit. One initially context-truncated V07 delivery was reread completely in two contiguous windows before its single credit. This is not nine fresh complete novel rereads, new admission, changed original or additional current narrative claim generation. Source high-water remainsV16; all39older artifacts/five owners/current340claims/formal/reserved tails and exact V17seal remain protected. Earlier Crusch reconciliation remains historical.
 - **Current execution:** active continuous terminalV43; E019 alive after square death18/19segments. Common year/travel/family history survives, later atrocity Subaru-only; narrator short-point timing not yet recognized by him. No decodedWrath, complete family repair, crystal/Puck/Rem/Gate result or full campRBD. Award/medal now retrospectively confirmed without exact enrollment/date/type.
 - **Source admission and acquisition priority:** unchanged43-original lock/V41exception; V44/V45 acquisition before authorized boundary is reached, not done here. New metadata/report does not admit unread works. V17+/nonspine/new import narratives remain unopened.
