@@ -57,7 +57,7 @@ If `main` moves during a run, the remaining candidates wait for the next run. If
 ## Running the CI agent
 
 - Use one fine-grained owner token for this repository with Contents and Pull requests read/write, and Actions, Administration and Commit statuses read. Supply it as `OWNER_TOKEN`. Do not place it in files, PR text, logs or chat. The `NIGHTLY_INTEGRATION_TOKEN` secret needs the same permissions.
-- Run `python tools/nightly_integration.py --mode apply --branch <branch> --expect-head <reviewed SHA> --report <path>` from a fresh checkout of `main`, and keep the printed JSON receipt in the run's report. Without `--branch` the gate considers every open PR. `--mode preview` makes no writes.
+- Run `python tools/nightly_integration.py --mode apply --branch <branch> --expect-head <reviewed SHA> --report <path>` from a fresh checkout of `main`, and keep the printed JSON receipt in the run's report. Apply over open PRs refuses to start without both options. `--mode preview` makes no writes.
 - Run one instance at a time per host. Concurrent writers are safe but waste effort, because GitHub's exact-head merge and strict up-to-date rule let only one succeed.
 
 ## Bulk merge workflow

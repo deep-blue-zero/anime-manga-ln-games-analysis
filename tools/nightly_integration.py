@@ -731,6 +731,8 @@ def main() -> int:
     args = parser.parse_args()
     if args.expect_head and (not args.branch or not SHA.fullmatch(args.expect_head)):
         parser.error("--expect-head needs --branch and a full commit SHA")
+    if args.mode == "apply" and args.candidates == "open-prs" and not args.expect_head:
+        parser.error("Apply over open PRs needs --branch and --expect-head with the reviewed head")
     preview = args.mode == "preview"
     if os.environ.get("GITHUB_REPOSITORY", REPOSITORY) != REPOSITORY:
         parser.error("Unexpected repository")

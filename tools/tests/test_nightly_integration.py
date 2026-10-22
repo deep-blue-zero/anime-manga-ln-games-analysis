@@ -309,7 +309,8 @@ class ControllerTests(unittest.TestCase):
                 self.assertEqual(worker.api.writes, [])
 
     def test_expected_head_requires_a_branch_and_a_full_sha(self):
-        for argv in (['--expect-head', S], ['--branch', 'series/a', '--expect-head', 'abc123']):
+        for argv in (['--expect-head', S], ['--branch', 'series/a', '--expect-head', 'abc123'],
+                     ['--mode', 'apply'], ['--mode', 'apply', '--branch', 'series/a']):
             with self.subTest(argv=argv), mock.patch.object(sys, 'argv', ['gate', *argv]), \
                     mock.patch('sys.stderr', new_callable=io.StringIO), self.assertRaises(SystemExit):
                 main()
@@ -786,7 +787,8 @@ class PreviewResultTests(unittest.TestCase):
                     'GITHUB_REF': 'refs/heads/main', 'GITHUB_ACTIONS': 'true',
                     'GITHUB_EVENT_NAME': 'workflow_dispatch', 'GITHUB_ACTOR': OWNER,
                     'OWNER_TOKEN': 'test', 'GITHUB_STEP_SUMMARY': '',
-                }), mock.patch.object(sys, 'argv', ['nightly_integration', '--mode', mode]), \
+                }), mock.patch.object(sys, 'argv', ['nightly_integration', '--candidates', 'analysis-branches',
+                                                    '--mode', mode]), \
                         mock.patch('nightly_integration.Graph'), \
                         mock.patch('nightly_integration.Integrator', return_value=worker), \
                         mock.patch('sys.stdout', new_callable=io.StringIO) as output:
