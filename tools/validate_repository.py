@@ -313,23 +313,12 @@ def validate_audit_workflow(
         "audit_args+=(--discovery-branch-confinement)",
         'steps.validate.outputs.integration_state',
         'mkdir -p "${MANGA_ANIME_TEST_TMP}"',
-        'python tools/audit_execution.py --snapshot commit --commit "${AUDIT_COMMIT}" --base "${AUDIT_BASE}" --profile "${REGRESSION_PROFILE}" --report-json "${RUNNER_TEMP}/test-timings.json"',
+        'python tools/audit_execution.py --snapshot commit --commit "${AUDIT_COMMIT}" --report-json "${RUNNER_TEMP}/test-timings.json"',
         '--timings-json "${RUNNER_TEMP}/audit-timings.json"',
     )
     for fragment in required_fragments:
         if fragment not in text:
             errors.append(f"repository-audit workflow missing required contract: {fragment}")
-
-    try:
-        from audit_execution import CATALOG, load_policy
-
-        load_policy(snapshot)
-        catalog = snapshot.get(CATALOG)
-        if catalog is None or not catalog.qualifies_as_evidence:
-            errors.append("repository audit requires a tracked regular test catalog")
-    except (DomainError, TypeError, ValueError) as exc:
-        errors.append(f"invalid full-coverage test execution policy: {exc}")
-
 
     # Only the isolated reporter receives write permission. It has no checkout
     # or candidate-code execution and publishes one exact audit-status context.

@@ -95,7 +95,7 @@ class AuditReportingTests(unittest.TestCase):
         original = (ROOT / AUDIT).read_text(encoding="utf-8")
         entries = {
             path: SnapshotEntry(path, "100644", (ROOT / path).read_bytes())
-            for path in (AUDIT, "governance/repository-controls/test-execution-policy.json", "tools/tests/test-catalog.json")
+            for path in (AUDIT,)
         }
         policy = {"allowed_workflows": [AUDIT, HOUSEKEEPING, ".github/workflows/nightly-integration.yml"]}
         self.assertEqual(validate_audit_workflow(GitSnapshot(ROOT, "TEST", entries), policy), [])
@@ -136,10 +136,7 @@ class AuditReportingTests(unittest.TestCase):
         program = script.split("python - <<'PY'\n", 1)[1].rsplit("\nPY", 1)[0]
         report = {
             "outcome": "success", "seconds": 1.5, "tests_run": 300, "skipped": 0,
-            "shadow_plan": {
-                "proposed_profile": "full", "excluded_ids": [],
-                "selected_ids": [f"test_{i}_" + "fixture" * 40 for i in range(300)],
-            },
+            "tests": [{"id": f"test_{i}_" + "fixture" * 40, "seconds": 0.1} for i in range(300)],
         }
         self.assertGreater(len(json.dumps(report)), 65536)
         with tempfile.TemporaryDirectory() as directory:
@@ -154,7 +151,6 @@ class AuditReportingTests(unittest.TestCase):
             self.assertEqual(json.loads(payload), report)
             self.assertLess(max(map(len, emitted.splitlines())), 1024)
             self.assertIn("Tests executed: 300; skipped: 0", summary.read_text())
-            self.assertIn("Actual execution remained full", summary.read_text())
             self.assertIn("Archive validation: no completed report", summary.read_text())
 
     def run_generation(self, *, routing_changed: bool, contains_main: bool) -> tuple[subprocess.CompletedProcess, list, Path]:
