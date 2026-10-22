@@ -10,6 +10,7 @@ depends on another agent's private checkpoint or on advisory referrals.
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import sys
 from pathlib import Path
@@ -19,6 +20,7 @@ from character_index_core import (
     CURRENT_CLAIM_STATUSES,
     DISCOVERY_INPUT_PATHS,
     RECONSTRUCTION_REGISTRY_PATH,
+    AuthorityGraph,
     DomainError,
     GitSnapshot,
     ReconstructionEvaluation,
@@ -100,6 +102,72 @@ def _material_discovery_change(before: Mapping[str, Any], after: Mapping[str, An
     )
 
 
+def _records_by_subject(snapshot: GitSnapshot) -> dict[str, Mapping[str, Any]]:
+    entry = snapshot.get(DISCOVERY_INPUT_PATHS["registry"])
+    if entry is None:
+        return {}
+    return {
+        record["analysis_subject_id"]: record
+        for _line, record in decode_jsonl_with_lines(
+            entry.data, f"{snapshot.identity}:characters/registry.jsonl"
+        )
+        if isinstance(record.get("analysis_subject_id"), str)
+    }
+
+
+def _blob_fingerprint(snapshot: GitSnapshot, path: str) -> tuple[str, str] | None:
+    entry = snapshot.get(path)
+    if entry is None:
+        return None
+    return (entry.mode, hashlib.sha256(entry.data).hexdigest())
+
+
+def deferred_evidence_changes(
+    deferred: Sequence[str],
+    discovery: Sequence[Mapping[str, Any]],
+    since_records: Mapping[str, Mapping[str, Any]],
+    since_snapshot: GitSnapshot,
+    since_authority: AuthorityGraph,
+    snapshot: GitSnapshot,
+    authority: AuthorityGraph,
+) -> dict[str, list[str]]:
+    """Detect evidence changes that discovery metadata does not record.
+
+    Only the reviewed evidence paths named on each deferred subject's discovery
+    row, at the checkpoint or now, are compared. A changed blob or a changed
+    authority classification (including one caused by another artifact's
+    supersession edge) returns the subject to the queue; unrelated files never do.
+    """
+
+    now = {
+        record["analysis_subject_id"]: record
+        for record in discovery
+        if isinstance(record.get("analysis_subject_id"), str)
+    }
+    result: dict[str, list[str]] = {}
+    for subject in sorted(set(deferred), key=lambda value: value.encode("utf-8")):
+        current, before = now.get(subject), since_records.get(subject)
+        if current is None or before is None:
+            continue
+        paths = {
+            item["repository_path"]
+            for record in (current, before)
+            for item in record.get("evidence", [])
+            if isinstance(item, Mapping)
+            and item.get("review_state") == "REVIEWED"
+            and isinstance(item.get("repository_path"), str)
+        }
+        reasons: set[str] = set()
+        for path in sorted(paths):
+            if _blob_fingerprint(since_snapshot, path) != _blob_fingerprint(snapshot, path):
+                reasons.add("EVIDENCE_BYTES_CHANGED_SINCE_CHECKPOINT")
+            if since_authority.classification(path) != authority.classification(path):
+                reasons.add("EVIDENCE_AUTHORITY_CHANGED_SINCE_CHECKPOINT")
+        if reasons:
+            result[subject] = sorted(reasons)
+    return result
+
+
 def work_queue(
     assessments: Sequence[Mapping[str, Any]],
     discovery: Sequence[Mapping[str, Any]],
@@ -107,6 +175,7 @@ def work_queue(
     *,
     since_records: Mapping[str, Mapping[str, Any]] | None = None,
     deferred: Sequence[str] = (),
+    deferred_changes: Mapping[str, Sequence[str]] | None = None,
     hints: Sequence[str] = (),
 ) -> dict[str, Any]:
     """Prioritize evaluator work by exact subject from Git-derived state only.
@@ -114,8 +183,9 @@ def work_queue(
     Work is keyed by ``analysis_subject_id``; each subject appears at most once
     with every applicable reason merged. Advisory hints only annotate existing
     work and never create it. ``deferred`` is the evaluator's own checkpoint
-    list; a deferred subject returns to the queue only after a material
-    discovery change since ``since_records``.
+    list; a deferred subject returns to the queue after a material discovery
+    change since ``since_records`` or an evidence change in ``deferred_changes``
+    (see ``deferred_evidence_changes``).
     """
 
     by_subject: dict[str, list[int]] = {}
@@ -175,8 +245,11 @@ def work_queue(
         elif record is not None and record.get("curation_status") == "INCLUDED":
             if subject in deferred_set:
                 states[subject] = "DEFERRED"
+                reasons = list((deferred_changes or {}).get(subject, ()))
                 if changed_since:
-                    add(subject, "DEFERRED_EVIDENCE_CHANGED", ["DISCOVERY_CHANGED_SINCE_CHECKPOINT"])
+                    reasons.append("DISCOVERY_CHANGED_SINCE_CHECKPOINT")
+                if reasons:
+                    add(subject, "DEFERRED_EVIDENCE_CHANGED", reasons)
             elif since_records is not None and subject not in since_records:
                 add(subject, "NEWLY_ELIGIBLE", ["ENROLLED_SINCE_CHECKPOINT"])
                 states[subject] = "ELIGIBLE_UNASSESSED"
@@ -207,12 +280,17 @@ def main(argv: Sequence[str] | None = None) -> int:
     parser.add_argument(
         "--require-current-reviewed",
         action="store_true",
-        help="exit 1 unless every selected assessment is CURRENT_REVIEWED",
+        help=(
+            "exit 1 unless the selection is nonempty and every selected assessment "
+            "is CURRENT_REVIEWED; an empty selection never certifies readiness"
+        ),
     )
     parser.add_argument("--since", help="full commit of the last verified evaluator checkpoint")
     parser.add_argument("--deferred", action="append", default=[], help="subject deferred in the evaluator checkpoint")
     parser.add_argument("--hint", action="append", default=[], help="advisory referral subject; annotates only")
     args = parser.parse_args(argv)
+    if args.deferred and not args.since:
+        parser.error("--deferred requires --since, the checkpoint the deferral was recorded at")
     root = args.repo.resolve() if args.repo else Path(__file__).resolve().parents[1]
     snapshot = _snapshot(root, args.snapshot, args.commit)
     assessments, discovery, evaluation = load_state(snapshot, root)
@@ -231,13 +309,35 @@ def main(argv: Sequence[str] | None = None) -> int:
                 return 2
             rows = [row for row in rows if row["assessment_id"] in selected]
         output["assessments"] = rows
+        certified = bool(rows) and all(row["effective_state"] == "CURRENT_REVIEWED" for row in rows)
+        if args.require_current_reviewed:
+            output["current_reviewed_certified"] = certified
         print(json.dumps(output, ensure_ascii=False, sort_keys=True, indent=2))
-        if args.require_current_reviewed and any(
-            row["effective_state"] != "CURRENT_REVIEWED" for row in rows
-        ):
+        if args.require_current_reviewed and not certified:
+            if not rows:
+                print(
+                    "FAIL: no assessment was selected; an empty selection never certifies readiness",
+                    file=sys.stderr,
+                )
             return 1
         return 0
-    since_records = _discovery_at(root, args.since) if args.since else None
+    since_records = None
+    deferred_changes: dict[str, list[str]] = {}
+    if args.since and args.deferred:
+        # One full checkpoint snapshot, only when deferred subjects need it.
+        since_snapshot = GitSnapshot.from_commit(root, args.since)
+        since_records = _records_by_subject(since_snapshot)
+        deferred_changes = deferred_evidence_changes(
+            args.deferred,
+            discovery,
+            since_records,
+            since_snapshot,
+            AuthorityGraph(since_snapshot),
+            snapshot,
+            AuthorityGraph(snapshot),
+        )
+    elif args.since:
+        since_records = _discovery_at(root, args.since)
     output["since"] = args.since
     output.update(
         work_queue(
@@ -246,6 +346,7 @@ def main(argv: Sequence[str] | None = None) -> int:
             evaluation,
             since_records=since_records,
             deferred=args.deferred,
+            deferred_changes=deferred_changes,
             hints=args.hint,
         )
     )

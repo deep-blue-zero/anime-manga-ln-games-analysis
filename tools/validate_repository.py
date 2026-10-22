@@ -27,6 +27,7 @@ from character_index_core import (
     decode_jsonl_with_lines,
     decode_reconstruction_registry,
     evaluate_reconstruction_assessments,
+    is_ancestor_commit,
     load_reconstruction_policy,
     reconstruction_registry_changes,
     render_schema_diagnostics,
@@ -38,7 +39,9 @@ from character_index_core import (
 )
 from generate_character_index import render as render_character_index
 from generate_reconstruction_index import render as render_reconstruction_index
+from completed_run_publication import CompletionProof, PROOF_NAME
 from audit_timing import AuditTimer, report_path, write_report
+from frozen_publication import frozen_publication_paths, publication_grants
 from update_repository_indexes import ROUTING_OUTPUTS, expected_outputs
 
 
@@ -94,6 +97,9 @@ PROTECTED_HASHES = {
 # The evaluator's ordinary production delta. Any other path changed beside
 # these requires a reviewed amendment that also changes the publication gate.
 RECONSTRUCTION_OUTPUTS = frozenset({RECONSTRUCTION_REGISTRY_PATH, RECONSTRUCTION_INDEX_PATH})
+# The curation agent's ordinary delta on its continuing branch.
+DISCOVERY_BRANCH_REF = "refs/remotes/origin/character-registry"
+DISCOVERY_OUTPUTS = frozenset({"characters/registry.jsonl", "CHARACTER_ANALYSIS_INDEX.md"})
 NATIVE_SHEET_SCHEMA = "governance/schemas/native-sheet-structure.schema.json"
 NATIVE_SHEET_SCHEMA_ID = "manga-anime-git-migration/native-sheet-structure/v1"
 NATIVE_SHEET_TRANSFORMATION = (
@@ -298,10 +304,15 @@ def validate_audit_workflow(
         'MANGA_ANIME_TEST_TMP: "${{ runner.temp }}/manga-anime-tests"',
         'AUDIT_COMMIT: ${{ github.event_name == \'repository_dispatch\' && github.event.client_payload.commit_sha || github.sha }}',
         'git fetch --no-tags origin "${AUDIT_COMMIT}"',
+        "if git ls-remote --exit-code --heads origin character-registry > /dev/null; then",
+        "git fetch --no-tags origin refs/heads/character-registry:refs/remotes/origin/character-registry",
+        'test "${status}" -eq 2',
         'test "$(git rev-parse --is-shallow-repository)" = "false"',
         "--require-hashes",
         "tools/validate_repository.py",
         'audit_args+=(--routing-preflight "${AUDIT_BRANCH}")',
+        'if [[ "${AUDIT_BRANCH}" = "character-registry" && "${AUDIT_EVENT}" != "repository_dispatch" ]]; then',
+        "audit_args+=(--discovery-branch-confinement)",
         'steps.validate.outputs.integration_state',
         'mkdir -p "${MANGA_ANIME_TEST_TMP}"',
         'python tools/audit_execution.py --snapshot commit --commit "${AUDIT_COMMIT}" --base "${AUDIT_BASE}" --profile "${REGRESSION_PROFILE}" --report-json "${RUNNER_TEMP}/test-timings.json"',
@@ -1413,6 +1424,7 @@ def _load_project_initiation_gate(
                 continue
             errors.extend(_closure_record_errors(label, prefix, closure))
     errors.extend(_run_closure_amendments(control)[1])
+    errors.extend(publication_grants(control)[1])
     return (None if errors else control), errors
 
 
@@ -2112,6 +2124,57 @@ def _validate_run_admission(
     return errors
 
 
+def _completed_publication_previous(
+    snapshot: GitSnapshot, prefix: str, entrypoint: str, classification: Mapping[str, Any]
+) -> tuple[Any, list[str]]:
+    """Recover an exact historical completion without trusting a mutable label."""
+    path = prefix + PROOF_NAME
+    proof_entry = snapshot.get(path)
+    if proof_entry is None:
+        return None, []
+    try:
+        if not proof_entry.qualifies_as_evidence:
+            raise DomainError("completion proof must be a regular tracked text blob")
+        proof = CompletionProof(decode_json(proof_entry.data, path), prefix, entrypoint)
+        completed, active = proof.markdown_snapshot(snapshot, prefix, entrypoint)
+        historical = completed.get(entrypoint)
+        current = snapshot.get(entrypoint)
+        if historical is None or current is None or not historical.qualifies_as_evidence:
+            raise DomainError("completion proof has no regular completed entrypoint")
+        old_state, old_errors = _execution_state(historical.data, entrypoint)
+        new_state, new_errors = _execution_state(current.data, entrypoint)
+        if (old_errors or new_errors or old_state != new_state
+                or old_state.get("run_state") not in TERMINAL_RUN_STATES):
+            raise DomainError("completion proof and current operational state disagree")
+        transition = _validate_run_admission(
+            completed, entrypoint, active, admission=True, strict=True,
+        )
+        if transition:
+            raise DomainError("completion proof has no valid active-to-completed transition: " + "; ".join(transition))
+
+        def readings(view: GitSnapshot) -> dict[str, bytes]:
+            result = {}
+            for name, entry in view.entries.items():
+                if name.startswith(prefix) and name.endswith(".md"):
+                    classified, fallback, failures = _is_substantive_sequential_artifact(
+                        name, entry, classification,
+                    )
+                    if failures or fallback:
+                        raise DomainError("completion proof cannot classify historical/current Markdown: " + name)
+                    if classified:
+                        if not entry.qualifies_as_evidence:
+                            raise DomainError("completion proof reading is not a regular blob: " + name)
+                        result[name] = entry.data
+            return result
+
+        frozen, candidate = readings(completed), readings(snapshot)
+        if not frozen or frozen != candidate:
+            raise DomainError("completion proof reading set or bytes differ from the completed snapshot")
+        return active, []
+    except (DomainError, UnicodeError, ValueError, TypeError) as exc:
+        return None, [f"{path}: invalid completed-run publication proof: {exc}"]
+
+
 def _validate_sealed_readings(
     snapshot: GitSnapshot,
     entrypoint_path: str,
@@ -2401,11 +2464,13 @@ def validate_project_initiation_gate(
     admission_tree: dict[str, tuple[str, str]] = {}
     prior_rows: dict[str, list[Mapping[str, Any]]] = {}
     history = None
+    comparison = None
     if base_commit is not None:
         try:
-            comparison = base_commit
-            if snapshot.identity == base_commit:
-                comparison = run_git(snapshot.root, "rev-parse", base_commit + "^1").decode().strip()
+            comparison = (
+                run_git(snapshot.root, "rev-parse", base_commit + "^1").decode().strip()
+                if snapshot.identity == base_commit else base_commit
+            )
             raw = run_git(snapshot.root, "ls-tree", "-r", "-z", "--full-tree", comparison)
             for item in raw.split(b"\0"):
                 if item:
@@ -2445,6 +2510,17 @@ def validate_project_initiation_gate(
         digest.update(b"blob " + str(len(entry.data)).encode("ascii") + b"\0")
         digest.update(entry.data)
         return digest.hexdigest() == previous[1]
+
+    # Publication grants bind from main before this transaction too: the
+    # self-audit judges publication by the first parent, never the commit.
+    publications: dict[str, set[str]] = {}
+    if comparison is not None:
+        publications, publication_errors = frozen_publication_paths(
+            snapshot, comparison, control,
+            {row["repository_path"]: row.get("canonical_entrypoint") for _, row in rows
+             if _valid_nonempty_string(row.get("repository_path"))},
+        )
+        errors.extend(publication_errors)
 
     for label, row in rows:
         project_prefix = row.get("repository_path")
@@ -2498,7 +2574,8 @@ def validate_project_initiation_gate(
             )
             errors.extend(artifact_errors)
             if classified:
-                if not unchanged_on_main(path, candidate):
+                if (not unchanged_on_main(path, candidate)
+                        and path not in publications.get(project_prefix, set())):
                     admissions.append(path)
                 if path not in baseline_paths:
                     new_sequential.append(path)
@@ -2534,6 +2611,36 @@ def validate_project_initiation_gate(
                 previous = history.get(previous_path) if _valid_nonempty_string(previous_path) else None
                 if admissions and (previous is None or not previous.qualifies_as_evidence):
                     errors.append(f"{entrypoint}: admission history prior canonical entrypoint is unavailable")
+            # A first publication may batch an actually completed local run.
+            # A self-contained proof survives squash integration and requires
+            # the exact completed reading set, never merely an active ancestor.
+            # It replaces only main with no recorded run or a consistently
+            # completed one: main's active run keeps the ordinary closing route
+            # without consulting a stale proof, and its blocked, interrupted or
+            # malformed state is never bypassed.
+            current_entry = snapshot.get(entrypoint)
+            state, _ = _execution_state(current_entry.data, entrypoint) if current_entry else ({}, [])
+            run_state = state.get("run_state")
+            prior_state, prior_errors = (
+                _execution_state(previous.data, entrypoint) if previous else ({}, [])
+            )
+            prior_run = prior_state.get("run_state")
+            # Main's completion must itself pass the ordinary consistency rules
+            # (for example, both next operations NONE) before a proof replaces it.
+            prior_inconsistent = _validate_run_admission(
+                GitSnapshot(snapshot.root, "MAIN_RUN_STATE", {entrypoint: previous}),
+                entrypoint, None, admission=False, strict=True,
+            ) if previous else []
+            if (admissions and isinstance(run_state, str) and run_state in TERMINAL_RUN_STATES
+                    and not prior_errors and not prior_inconsistent
+                    and ("run_state" not in prior_state or (
+                        isinstance(prior_run, str) and prior_run in TERMINAL_RUN_STATES))):
+                proved_previous, proof_errors = _completed_publication_previous(
+                    snapshot, project_prefix, entrypoint, classification,
+                )
+                errors.extend(proof_errors)
+                if proved_previous is not None:
+                    previous = proved_previous
             errors.extend(_validate_run_admission(
                 snapshot, entrypoint, previous,
                 admission=bool(admissions), strict=strict,
@@ -4319,6 +4426,72 @@ def validate_reconstruction_domain(
     return errors, notices
 
 
+def validate_discovery_branch_confinement(root: Path, kind: str, commit: str | None) -> list[str]:
+    """Bound a `character-registry` delta to the two discovery outputs.
+
+    Applied only to the curation agent's continuing branch: coordinated
+    pre-merge repairs on analytical branches legitimately carry the same two
+    files beside their analytical root and are confined by housekeeping and the
+    integration controller instead.
+    """
+
+    target = _reconstruction_target_commit(root, kind, commit)
+    try:
+        base = _reconstruction_integration_base(root, target, kind)
+    except DomainError as exc:
+        return [f"unable to determine the discovery branch base: {exc}"]
+    if base is None:
+        return [
+            "discovery branch confinement needs refs/remotes/origin/main; fetch main first"
+        ]
+    try:
+        changed = _reconstruction_delta_paths(root, kind, base, commit)
+    except DomainError as exc:
+        return [f"unable to determine the discovery branch delta: {exc}"]
+    extra = sorted(changed - DISCOVERY_OUTPUTS, key=lambda item: item.encode("utf-8"))
+    if extra:
+        return [
+            "character-registry delta may contain only characters/registry.jsonl and "
+            f"CHARACTER_ANALYSIS_INDEX.md; other changed paths: {extra}"
+        ]
+    return []
+
+
+def discovery_branch_candidate(root: Path, kind: str, commit: str | None) -> bool:
+    """Whether the audited commit is unmerged `character-registry` history.
+
+    Identity comes from the fetched live branch ref, so every audit of such a
+    commit is confined whichever event started it, including an exact-commit
+    repository dispatch whose run context names `main`.
+    """
+
+    target = _reconstruction_target_commit(root, kind, commit)
+    if target is None:
+        return False
+    try:
+        tip = run_git(root, "rev-parse", "--verify", "-q", DISCOVERY_BRANCH_REF + "^{commit}").decode(
+            "ascii"
+        ).strip()
+    except DomainError:
+        return False
+    if not is_ancestor_commit(root, target, tip):
+        return False
+    main_commit = _run_closure_base_commit(root)
+    return not (main_commit is not None and is_ancestor_commit(root, target, main_commit))
+
+
+def discovery_confinement_errors(
+    root: Path, kind: str, commit: str | None, *, requested: bool
+) -> list[str]:
+    """Apply confinement when requested explicitly or the commit is curation history."""
+
+    try:
+        applies = requested or discovery_branch_candidate(root, kind, commit)
+    except DomainError as exc:
+        return [f"unable to determine whether the audited commit is curation history: {exc}"]
+    return validate_discovery_branch_confinement(root, kind, commit) if applies else []
+
+
 def choose_snapshot(root: Path, kind: str, commit: str | None) -> tuple[GitSnapshot, list[str]]:
     if kind == "commit":
         if commit is None:
@@ -4342,6 +4515,11 @@ def main() -> int:
     parser.add_argument("--commit")
     parser.add_argument("--manifest", type=Path)
     parser.add_argument("--routing-preflight", metavar="ANALYTICAL_BRANCH")
+    parser.add_argument(
+        "--discovery-branch-confinement",
+        action="store_true",
+        help="require the delta against main to contain only the two discovery outputs",
+    )
     parser.add_argument("--result-json", type=Path)
     parser.add_argument("--timings-json", type=Path)
     parser.add_argument("--repo", type=Path)
@@ -4363,6 +4541,10 @@ def main() -> int:
             args.phase != "current" or kind not in {"index", "commit"}
         ):
             raise DomainError("routing preflight requires a current Git index or exact commit")
+        if args.discovery_branch_confinement and (
+            args.phase != "current" or kind not in {"index", "commit"}
+        ):
+            raise DomainError("discovery branch confinement requires a current Git index or exact commit")
         snapshot, paths = timer.call("snapshot", choose_snapshot, root, kind, commit)
         deferred_routing: list[str] = []
         reconstruction_notices: list[str] = []
@@ -4435,6 +4617,17 @@ def main() -> int:
                 "reconstruction", validate_reconstruction_domain, root, snapshot, kind, commit, authority
             )
             errors.extend(reconstruction_errors)
+            if args.phase == "current" and kind in {"index", "commit"}:
+                errors.extend(
+                    timer.call(
+                        "discovery_confinement",
+                        discovery_confinement_errors,
+                        root,
+                        kind,
+                        commit,
+                        requested=args.discovery_branch_confinement,
+                    )
+                )
             if not deferred_routing:
                 errors.extend(
                     timer.call("catalog_render", validate_generated_repository_indexes, snapshot)

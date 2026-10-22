@@ -1,6 +1,104 @@
 {
   "schema": "repository-test-catalog/v1",
   "tests": {
+    "test_project_initiation_gate.RunAdmissionTests.test_completed_batch_and_squash_audit_without_source_objects": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/completed_run_publication.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md"
+      ],
+      "purpose": "Admit exact completed local runs and independently audit a fresh squash clone without the source commit objects."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_completion_proof_rejects_missing_or_corrupt_historical_objects": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/completed_run_publication.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md"
+      ],
+      "purpose": "Fail closed on missing historical commit, tree or blob evidence, hash drift, malformed shape and mismatched project routes."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_completion_proof_rejects_added_changed_dropped_and_retyped_readings": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/completed_run_publication.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md"
+      ],
+      "purpose": "Reject post-completion reading additions, edits, deletions, retyping and nonregular blobs even after proof regeneration."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_completion_proof_requires_valid_active_parent_and_unchanged_bounds": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/completed_run_publication.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md"
+      ],
+      "purpose": "Require consistent active first-parent state, OPEN locks, unchanged run bounds and a terminal high-water mark."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_completion_proof_cannot_override_current_or_main_active_bounds": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/completed_run_publication.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md"
+      ],
+      "purpose": "Prevent proof substitution from changing current operational state or overriding a run already active on main."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_completion_proof_preserves_nonreading_corrections_and_existing_gate": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/completed_run_publication.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md"
+      ],
+      "purpose": "Permit attributable nonreading changes while preserving historical classification and the ordinary architecture gate."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_completion_proof_cannot_replace_blocked_interrupted_or_malformed_main": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/completed_run_publication.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md"
+      ],
+      "purpose": "Never substitute a valid proof for a blocked, interrupted, partial, malformed, contradictory or inconsistently completed run state on main, before or after integration."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_stale_completion_proof_does_not_block_main_active_completion": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/completed_run_publication.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md"
+      ],
+      "purpose": "Complete a later main-active run through the ordinary route and post-merge audit while an earlier proof stays tracked."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_completion_proof_reads_commit_parents_exactly_as_git": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/validate_repository.py",
+        "tools/completed_run_publication.py",
+        "tools/tests/test_project_initiation_gate.py"
+      ],
+      "purpose": "Reject a hash-valid proof commit whose claimed parent appears only after another line break or a later header."
+    },
     "test_nightly_integration.CleanupTests.test_transient_cleanup_preserves_success_and_never_replays_remote_mutations": {
       "group": "regression",
       "smoke": false,
@@ -399,6 +497,48 @@
         "governance/repository-controls/*"
       ],
       "purpose": "fixture baseline handles inherited pending root without changing content"
+    },
+    "test_analytical_preflight.AnalyticalPreflightTests.test_fixture_baseline_restores_published_reconstruction_outputs": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_analytical_preflight.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Restore unpublished reconstruction outputs to the published bytes in the CLI fixture baseline under an unchanged policy, preserving every other authored byte."
+    },
+    "test_analytical_preflight.AnalyticalPreflightTests.test_fixture_baseline_keeps_outputs_when_the_candidate_amends_policy": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_analytical_preflight.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Keep a candidate's reconstruction outputs and policy in the CLI fixture baseline when it amends the policy, exactly as the validator exempts that delta."
+    },
+    "test_analytical_preflight.AnalyticalPreflightTests.test_cli_fixture_does_not_mix_unpublished_reconstruction_outputs": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_analytical_preflight.py",
+        "tools/*.py"
+      ],
+      "purpose": "An evaluator-branch model, with unpublished reconstruction outputs under the integration base's policy, still yields a CLI fixture whose delta against that base never mixes those outputs with the synthetic root."
+    },
+    "test_analytical_preflight.AnalyticalPreflightTests.test_cli_fixture_from_a_policy_amending_checkout": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_analytical_preflight.py",
+        "tools/*.py"
+      ],
+      "purpose": "From a checkout that amends the reconstruction policy, the CLI fixture keeps its valid outputs and validates under the exemption, and the evaluator-branch model built from it still isolates those outputs."
     },
     "test_analytical_preflight.AnalyticalPreflightTests.test_cli_pending_then_materialized_integration": {
       "group": "live_corpus",
@@ -2363,6 +2503,17 @@
       ],
       "purpose": "Each malformed run_closure_amendments release fails with its specific error, and a run closure under an unregistered root fails validation."
     },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_in_memory_projects_read_only_the_disposable_main_and_its_grants": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/frozen_publication.py",
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/character_index_core.py"
+      ],
+      "purpose": "In-memory gate candidates read a disposable main, never the live checkout's: an unpublished reviewed grant for a project they do not register stays inert across the bootstrap, first-reading and legacy scenarios, and a published one still binds its route."
+    },
     "test_project_initiation_gate.ProjectInitiationGateTests.test_current_repository_examples_remain_compatible": {
       "group": "live_corpus",
       "smoke": false,
@@ -3388,6 +3539,105 @@
         "governance/repository-controls/project-initiation-gate.json"
       ],
       "purpose": "terminal independent execution fences cannot hide conflicts."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_reviewed_frozen_publication_accepts_complete_noncurrent_import_and_squash_audit": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/frozen_publication.py",
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "Accept the exact owner-bound noncurrent import and post-squash audit without publishing private original commit objects; preserve V1 bytes."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_frozen_publication_cannot_authorize_itself_or_use_draft_as_bypass": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/frozen_publication.py",
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "Reject candidate-side self-authorization and prevent draft status from bypassing ordinary run admission."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_frozen_publication_rejects_changed_missing_retyped_and_nonregular_files": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/frozen_publication.py",
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "Reject changed, missing, retyped and nonregular files in the reviewed frozen publication envelope."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_frozen_publication_rejects_added_readings_inside_and_outside_envelope": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/frozen_publication.py",
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "Reject unlisted imported readings and preserve ordinary admission checks outside the exact envelope."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_frozen_publication_rejects_changed_manifest_source_identity_or_authority": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/frozen_publication.py",
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "Reject altered manifest, immutable identity, source-boundary bytes and noncurrent authority metadata."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_frozen_publication_preserves_architecture_and_published_grant": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/frozen_publication.py",
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "Preserve mandatory architecture checks and reject grant removal during initial import and after publication."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_frozen_publication_binds_route_and_grant_once_enveloped_or_published": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/frozen_publication.py",
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "An unpublished grant without its envelope binds no route, while an enveloped, published, or published-then-dropped publication still rejects a rerouted or deregistered root and a rewritten or removed grant."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_published_grant_binds_self_audit_of_a_commit_that_drops_its_envelope": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/frozen_publication.py",
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "A commit on main that drops a published envelope while rerouting, deregistering or keeping the project route fails both its post-merge self-audit, which judges publication from the first parent, and its branch audit against the earlier main; so does one that removes or rewrites the published grant."
+    },
+    "test_project_initiation_gate.RunAdmissionTests.test_frozen_publication_rejects_promoted_bytes_even_with_matching_reviewed_hashes": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/frozen_publication.py",
+        "tools/validate_repository.py",
+        "tools/tests/test_project_initiation_gate.py",
+        "governance/repository-controls/project-initiation-gate.json"
+      ],
+      "purpose": "Reject canonical promotion even when all publication digests are internally consistent."
     },
     "test_project_initiation_gate.RunAdmissionTests.test_completed_open_run_preserves_readings_but_rejects_new_admission": {
       "group": "regression",
@@ -4451,6 +4701,180 @@
         "governance/repository-controls/nightly-integration-policy.json"
       ],
       "purpose": "Resolving analytical prose may preserve a clean, separately authored curation import."
+    },
+    "test_reconstruction_capability.ReadinessCertificationTests.test_empty_selection_never_certifies_readiness": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Fail strict readiness verification on an empty selection while the plain report still succeeds."
+    },
+    "test_reconstruction_capability.ReadinessCertificationTests.test_only_a_current_reviewed_selection_certifies": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Certify only a nonempty CURRENT_REVIEWED selection; unknown IDs exit 2 and staleness exits 1."
+    },
+    "test_reconstruction_capability.ReadinessCertificationTests.test_deferred_work_requires_a_checkpoint": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Reject deferred subjects without the checkpoint needed to detect their changes."
+    },
+    "test_reconstruction_capability.ReadinessCertificationTests.test_deferred_subject_returns_after_evidence_bytes_change": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Requeue a deferred subject end to end when its evidence bytes change without a discovery edit."
+    },
+    "test_reconstruction_capability.DeferredEvidenceChangeTests.test_byte_change_without_discovery_edit_is_detected": {
+      "group": "reconstruction_capability",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Detect a reviewed evidence byte change for a deferred subject without any discovery metadata change."
+    },
+    "test_reconstruction_capability.DeferredEvidenceChangeTests.test_authority_change_without_byte_change_is_detected": {
+      "group": "reconstruction_capability",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Detect an authority classification change caused by another artifact's supersession edge."
+    },
+    "test_reconstruction_capability.DeferredEvidenceChangeTests.test_unrelated_change_does_not_requeue_a_deferred_subject": {
+      "group": "reconstruction_capability",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Leave a deferred subject deferred when only unrelated files change."
+    },
+    "test_reconstruction_capability.DiscoveryBranchConfinementTests.test_two_file_curation_delta_passes": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Accept a character-registry delta containing only the two discovery outputs."
+    },
+    "test_reconstruction_capability.DiscoveryBranchConfinementTests.test_any_other_path_on_the_curation_branch_fails": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Reject a character-registry delta that also changes analytical evidence."
+    },
+    "test_reconstruction_capability.DiscoveryBranchConfinementTests.test_staged_index_is_checked_before_commit": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Apply discovery branch confinement to a staged index before commit."
+    },
+    "test_reconstruction_capability.DiscoveryBranchConfinementTests.test_audit_applies_confinement_only_to_the_curation_branch": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        ".github/workflows/*"
+      ],
+      "purpose": "Bind confinement to character-registry audits only, keeping analytical-branch repairs admitted by housekeeping."
+    },
+    "test_reconstruction_capability.DiscoveryBranchConfinementTests.test_dispatch_style_audit_confines_unmerged_curation_history": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Confine an unmerged curation commit audited without the explicit flag, as an exact-commit dispatch is."
+    },
+    "test_reconstruction_capability.DiscoveryBranchConfinementTests.test_older_unmerged_curation_commit_is_still_confined": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Confine an older unmerged curation commit after the live branch ref has advanced."
+    },
+    "test_reconstruction_capability.DiscoveryBranchConfinementTests.test_curation_history_already_on_main_is_not_confined": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Skip confinement for curation history that main already contains."
+    },
+    "test_reconstruction_capability.DiscoveryBranchConfinementTests.test_other_branches_and_a_missing_curation_ref_are_not_confined": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "Leave other branches and repositories without a curation ref unconfined unless confinement is requested."
+    },
+    "test_reconstruction_capability.DiscoveryBranchConfinementTests.test_audit_fetches_live_curation_ref_and_fails_closed": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        ".github/workflows/*"
+      ],
+      "purpose": "Bind the audit to fetching the live curation ref and to failing on any error other than an absent branch."
     }
   }
 }
