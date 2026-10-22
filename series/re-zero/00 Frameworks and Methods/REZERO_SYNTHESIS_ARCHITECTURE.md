@@ -2,11 +2,11 @@
 series: RE_ZERO
 artifact_type: synthesis_architecture
 scope: JAPANESE_LIGHT_NOVEL_PROSPECTIVE_LONGITUDINAL_AND_SYNTHESIS_ARCHITECTURE
-generation: V1.23
+generation: V1.24
 status: canonical
 release_state: mutable_active
 architecture_lifecycle: EVOLVING
-source_boundary: "Japanese main LN V01-V43 admitted; V16 candidate requires own full gate after completed Roswaal15c3dd17c4;32predecessors/sevenpairs exact; four earned V01-V16 constructions/reviews each requiring its own full gate before sealedV17; no nonspine admission"
+source_boundary: "Japanese main LN V01-V43 admitted; V16 full gate closed; Julius V01-V16 model/separate local PASS_WITH_BOUND review implemented under own publication gate;33 older artifacts/seven prior pairs exact; Wilhelm/Crusch/Ferris each separately constructed/reviewed/full-gated before sealed V17; no nonspine admission"
 recommended_reasoning_class: PREMIUM_QUALITY_FIRST
 reasoning_policy: MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md
 pro_justification: "Propagation-sensitive architecture repair: this routing governs every later Re:Zero volume transaction and synthesis layer."
@@ -281,7 +281,7 @@ Historical post-Emilia14 implementation boundary — then-prospective gate below
 
 Otto's historical default is living V13 E018 outside the tomb; Subaru's remains terminal E013. The separate Emilia V01–V14 integrated model and scoped fidelity review now exist: living E018 FIRST PASS/SECOND START before contents, local same-analyst nonblind nineteen-dimension documentary PASS_WITH_BOUND. It compiles36 bundles/28 rules/19 negative controls/12 noncanonical probes, not a new primary unit or inherited/global grade. Master §13/protocol own readiness and conditional use;20 historical artifacts/five owners/256 narrative claims and the exact V15 prospect stay unchanged. Only the Emilia operation's own complete publication gate permits V15.
 
-Current V16 person responsibility: seven historical model/review pairs are full-gated/exact, while Julius/Wilhelm/Crusch/Ferris V01–V16 are independently earned but unimplemented/ungraded. V16's own complete gate precedes each serial construction/separate review/fullgate, then sealedV17. Master§13/protocol§18 own qualitative decisions; no new field, globalgrade or state-owner migration.
+Current V16 person responsibility: seven historical model/review pairs retain exact bytes/defaults/grades. Julius V01–V16 now has an integrated model and separately applied same-analyst nonblind documentary PASS_WITH_BOUND review; its own full publication gate is still required. Wilhelm/Crusch/Ferris V01–V16 remain independently earned but unimplemented/ungraded, each requiring construction, actual scoped review and a complete gate before sealed V17. Master§13/protocol§18 own the qualitative decisions; no new field, global grade or state-owner migration.
 
 ## 11. Specialist synthesis responsibilities
 
@@ -355,7 +355,7 @@ Claim/evidence stabilization precedes any synthesis that depends on the disputed
 | Japanese wording/register | wording-sensitive terms, address, titles, pragmatic shifts, exact locus | master ledger terminology table plus VNN evidence loci | language/register specialist; character and translation analysis | 27V16rows inmaster§11/V16§11; office/knight/award, recipient-register, rumor/record, alias, acceptedrefusal and narrator-only timing; same owner |
 | Prospective questions | bounded falsifiers/predictions before next volume | master ledger open-question register and prior VNN freeze | next VNN adjudication; checkpoints | All60incomingV16questions/10forecasts adjudicated; exact60Q/10P V17seal53ac9eb4456e84f00e1e2c8fbeef9b2d4910dd2f873f93143652cbc3854c724e fixed before opening and through four derived gates |
 | Source identity/locators | source ID, hash, locus convention | source lock plus VNN reading; ledger routes only | evidence/index layer if retrieval burden earns it | V16 exactoriginal10591363bytes/SHA81695f7fdb01767a705daf3011f84a20c2ec7cbba658efe173dd5fb32b7756c8/CRCpass;39members/77actualdeliveries/3805positions/32image refs22assets consumed; excludedadvert not narrative |
-| Character/relationship/specialist readiness | cited accumulation and threshold judgment | master ledger readiness tables | promoted canonical artifacts | Independently earned Julius/Wilhelm/Crusch/Ferris V01–V16construction+separate review, each own completegate afterV16; other named narrowercases. Sevenoldpairs exact; no Arc5-endcheckpoint/finalspecialist/index/newowner/globalgrade |
+| Character/relationship/specialist readiness | cited accumulation and threshold judgment | master ledger readiness tables | promoted canonical artifacts | Julius V01–V16 model/separate local documentary review implemented, own full gate before Wilhelm16→Crusch16→Ferris16; each remaining person requires construction/review/full gate before V17. Seven prior pairs exact; other named narrower cases bounded; no Arc5-end checkpoint/final specialist/index/new owner/global grade |
 | Supplemental/IF/WN | catalog awareness only; no opening until admission and safe horizon | supplemental catalog + source lock + witness protocol; later witness-specific reading | bounded cross-witness specialist | no separately admitted witness; V09 internal escape-family fragment remains MAIN_LN-container/local-premise evidence |
 | Anime/adaptation | no observation until source admission | adaptation source lock/readings when created | adaptation specialists and bounded comparison | `NO_WITNESS_ADMITTED` |
 
@@ -664,7 +664,7 @@ After interruption or ambiguous publication:
 6. resolve branch, source, or prospective-contamination ambiguity before new source reading;
 7. resume at the first unclosed volume within the authorized terminal boundary.
 
-An earned separately pending construction/review is binding, not permission to skip a gate. Predecessor Roswaal15c3dd17c4 and earlier operations are full-gated/closed. Current V16 candidate requires its own complete gate, then Julius16→Wilhelm16→Crusch16→Ferris16, each construction/separate scoped review/full gate, then unopenedV17 against exactseal53ac9eb4456e84f00e1e2c8fbeef9b2d4910dd2f873f93143652cbc3854c724e. Both map fields/master§13 agree on Julius16 conditionally after V16. Keep Ram chronologyOPEN/currentC116/M344subjectcorrection/Roswaalqualifiers;32old artifacts/seven scopes/defaults/grades and activeV43 exact. No ordinary pause.
+An earned separately pending construction/review is binding, not permission to skip a gate. V16 and predecessor gates are full-gated/closed. Julius16 now has its model and separately applied local documentary PASS_WITH_BOUND review, but requires its own complete exact-commit publication gate before Wilhelm16→Crusch16→Ferris16, each construction/separate scoped review/full gate, then unopened V17 against exact seal 53ac9eb4456e84f00e1e2c8fbeef9b2d4910dd2f873f93143652cbc3854c724e. Both map fields/master§13 select Wilhelm16 conditionally on Julius's gate. Keep Ram chronology OPEN, current C116/M344 subject correction and Roswaal qualifications;33 older artifacts/seven prior scopes/defaults/grades and active V43 remain exact. No ordinary pause.
 
 Conversational memory never advances state. A drafted file, local commit, push success message, earlier green audit, or housekeeping-pending source commit is not the same as a verified completed transaction.
 
@@ -734,3 +734,11 @@ An earned separately pending reconstruction/checkpoint operation is binding, not
 At the first safe boundary after V03 publication, the architecture gained two responsibilities that were under-specified but now safely definable without reading V04: a dedicated character-reconstruction protocol and a non-spine bibliographic-awareness catalog. The existing master ledger remains proportional, so all specialist-ledger candidates were reviewed and deliberately left unpromoted.
 
 The amendment also reserves exact future homes for evidence/index artifacts and the full-series synthesis without instantiating empty directories or files. Frozen V01, V02, and V03 readings remain unchanged; the analytical horizon and sequential high-water mark remain V03.
+
+## 21. Post-V16 Julius derived-use implementation
+
+The [Julius V01–V16 model](../05%20Character%20Analysis/REZERO_JULIUS_JUUKULIUS_V01_V16_CHARACTER_MODEL.md) and [separate fidelity review](../08%20Audits%20and%20Manifests/REZERO_JULIUS_JUUKULIUS_V01_V16_FIDELITY_REVIEW.md) satisfy the earned responsibility without creating a new owner, evidence/index/voice/ordinary home or global evaluator input. The local same-analyst nonblind documentary PASS_WITH_BOUND follows ten grouped repairs across nineteen dimensions,26 negative controls and twelve expressly noncanonical applications. It is not independent, runtime, held-out or full-publication evidence.
+
+Default selection is the latest personally observed V16 garden, p-017#B0423–0430 after meal rupture and before park, not an invented E019 location or knowledge state. V04's private protective explanation is distinguished from Subaru's receipt and does not erase class doctrine, excessive injury or discipline. Terminal/current branches, current Nect costs and release, restricted private receipts, ordinary reciprocity and modern-word/musical limits remain operative. The source-free operation uses23 targeted deliveries from already consumed V04/V07/V08/V09/V16, not five fresh full-volume rereads or a new claim generation. The five owners, master§§2–12/340 claims, formal protocol/reserved schema tails,33 older artifacts and exact V17 prospect remain unchanged.
+
+The model's local completion triggers its own full publication gate, then separately implemented/reviewed/full-gated Wilhelm16, Crusch16 and Ferris16 before V17. It supplies no authority to open V17 early, broaden the admitted corpus, rewrite prior scopes/defaults/grades or pause at an ordinary model boundary.

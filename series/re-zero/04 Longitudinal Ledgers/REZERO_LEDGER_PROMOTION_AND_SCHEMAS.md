@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: ledger_architecture
 scope: LONGITUDINAL_LEDGER_PROMOTION_AND_SCHEMA_CONTRACT
-generation: V0.25
+generation: V0.26
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -24,7 +24,7 @@ At the project-initiation architecture-repair boundary after the V02 freeze, the
 
 `REZERO_MASTER_LONGITUDINAL_LEDGER.md`
 
-The master was backfilled from frozen V01/V02 and now advances through V16 in its own synchronized transaction without rewriting earlier freezes. It owns claims/person/ordinary/Japanese/prospect/readiness; institutionV04, event/knowledgeV06, mechanicsV07 and relationshipV09 remain five soleowners. Seven historical models/reviews are full-gated/exact; four new V16 constructions/reviews are independently earned, not implemented/graded. Earlier reviews below are historical phase decisions, not current source defaults. No field contract changes.
+The master was backfilled from frozen V01/V02 and now advances through the fully gated V16 source boundary without rewriting earlier freezes. It owns claims/person/ordinary/Japanese/prospect/readiness; institutionV04, event/knowledgeV06, mechanicsV07 and relationshipV09 remain five soleowners. Seven historical model/review pairs remain exact/full-gated; Julius V01–V16 now has an integrated model and separately applied local nineteen-dimension documentary PASS_WITH_BOUND, with its own publication gate separate. Wilhelm/Crusch/Ferris remain earned but unimplemented/ungraded. Earlier reviews below preserve their named phase decisions, not current defaults. No field contract changes.
 
 The following candidate sections now define responsibilities that may later split out of the master ledger when independent retrieval/revision burden warrants specialization. They are not unpromoted gaps and do not authorize parallel competing homes.
 
@@ -83,6 +83,12 @@ Ordinary/cooking/letters/care and Japanese recipient/voice evidence remain maste
 Historical entering promoted-state paragraph — exact preimage:
 
 The master was backfilled from frozen V01/V02 and advances prospectively through V15 without rewriting earlier freezes. It owns current claims/person/ordinary/Japanese/prospect/readiness. Institution V04, event/knowledge V06, mechanics V07 and relationship V09 remain five sole homes; master routes. Subaru10/Otto13/Emilia14 models/reviews all have completed gates and retain historical bytes/defaults/grades. V15 adds current source-facing reconciliation and earns separate Arc04/four construction tasks, not inherited fidelity, new fields or a competing home.
+
+### Post-V16 Julius derived-use review
+
+The [Julius model](../05%20Character%20Analysis/REZERO_JULIUS_JUUKULIUS_V01_V16_CHARACTER_MODEL.md) and [separate fidelity review](../08%20Audits%20and%20Manifests/REZERO_JULIUS_JUUKULIUS_V01_V16_FIDELITY_REVIEW.md) implement a person-use responsibility, not a sixth conditioning ledger or a new current narrative claim generation. Local same-analyst nonblind documentary PASS_WITH_BOUND follows actual source/design reconciliation and ten grouped repairs;32bundles/24rules/26negativecontrols/12noncanonical applications identify the object, not a promotion threshold. No independent/runtime/global capability result is claimed.
+
+All33 predecessor artifacts, five owner files, master§§2–12/current340claims and exact V17prospect remain unchanged. Master§13 remains readiness owner; ordinary/Japanese and direct source routes remain sufficient. This pair's own complete publication gate precedes Wilhelm16, then Crusch16/Ferris16 serially with their own constructions/reviews/gates, then V17. No schema/reserved-tail/source-admission/owner change or routine pause.
 
 ### Registered exact candidate homes
 

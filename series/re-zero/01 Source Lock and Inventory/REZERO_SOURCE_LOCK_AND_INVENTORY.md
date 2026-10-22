@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: source_lock
 scope: SOURCE_ADMISSION_CONTRACT_AND_CURRENT_INVENTORY_STATE
-generation: V0.26
+generation: V0.27
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -693,7 +693,8 @@ The V16freeze§1 owns complete member coverage/locator convention. Private recei
 - **Acquired/admitted Japanese main LN:** V01–V43 continuous; V41 bounded replacement unchanged.
 - **Known dated published but unadmitted gaps:** V44–V45; no new freshness claim.
 - **Admitted translation/supplement/EX/IF/WN/anime:** none. EnglishV21/archivedV31 remain nonadmitted/unopened.
-- **Consumed into prospective main-LN analysis:** V01–V16. V16 effective high-water requires its own complete transaction gate. Predecessor Roswaal15c3dd17c4 and earlier gates are closed; seven historical pairs keep exact bytes/defaults/local grades.
-- **Next analytical operation:** JULIUS_V01_V16_MODEL_AND_FIDELITY_REVIEW after V16's full gate, then Wilhelm16/Crusch16/Ferris16 serially with separate reviews/full gates; only then V17 against exact60Q/10P seal53ac9eb4456e84f00e1e2c8fbeef9b2d4910dd2f873f93143652cbc3854c724e. None of four is implemented/graded yet.
+- **Consumed into prospective main-LN analysis:** V01–V16; V16's complete source-facing publication gate is closed. Predecessor Roswaal15 and earlier seven pairs keep exact bytes/defaults/local grades. Julius's derived model/review adds no consumed unit or new narrative claim generation; its own publication gate remains separate.
+- **Next analytical operation:** WILHELM_V01_V16_MODEL_AND_FIDELITY_REVIEW only after the implemented Julius V01–V16 pair's own complete publication gate. Julius's separate actually applied nineteen-dimension same-analyst nonblind documentary result is PASS_WITH_BOUND, not independent/runtime/global validation. Then Crusch16/Ferris16 each own construction/review/full gate; only then unopenedV17 against exact60Q/10P seal53ac9eb4456e84f00e1e2c8fbeef9b2d4910dd2f873f93143652cbc3854c724e. Those three remain unimplemented/ungraded.
+- **Derived-use source reconciliation:** Julius's source-free operation revisits23bounded Japanese deliveries/1907TEXTpositions/83775characters in already-consumed V04/V07/V08/V09/V16, with original hashes/CRC checked. This is not five fresh complete volume rereads, a new admission, changed original or additional current narrative claim. V16's full gate is closed; source high-water remainsV16, all33older artifacts/five owners/current340claims/formal/reserved tails and exact V17seal remain protected.
 - **Current execution:** active continuous terminalV43; E019 alive after square death18/19segments. Common year/travel/family history survives, later atrocity Subaru-only; narrator short-point timing not yet recognized by him. No decodedWrath, complete family repair, crystal/Puck/Rem/Gate result or full campRBD. Award/medal now retrospectively confirmed without exact enrollment/date/type.
 - **Source admission and acquisition priority:** unchanged43-original lock/V41exception; V44/V45 acquisition before authorized boundary is reached, not done here. New metadata/report does not admit unread works. V17+/nonspine/new import narratives remain unopened.
