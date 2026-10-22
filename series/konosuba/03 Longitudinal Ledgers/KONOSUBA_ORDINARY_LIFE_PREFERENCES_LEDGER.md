@@ -1222,3 +1222,152 @@ Work, stock, market fit, capital, fees and rest shape Vanir's ordinary choices. 
 
 ## WZ-C01 — stock, company and a later actual repurchase
 Wiz's shop effort is real despite recurrent loss. Useful function, market fit, sale, later stock loss and wanted shared work remain separate; ordinary money does not fully replace company. MAIN04C5P582–585 shows contested sacrifice and a replacement/help promise, while P635–636 explicitly shows Darkness holding repurchased gifts. Repurchase is actual by that later phase; the shopping scene, Kazuma's promised participation and final recipient handoff/approval remain unshown. This current precision does not rewrite frozen reports or scores.
+
+
+## CE-C01 — wanted company, charity and particular pleasures
+MAIN12 FinalP10's charity/drinking is her account; P13/P16–23 joins ordinary company, payment and lodging choices without making charity costless. Excitement about rare party work, curiosity and professional pride coexist with formal divine duties. CONTEXP01 U026 records actual leaflet pressure and a one-day recommitment, not a full hidden preference ranking. MAIN17 C3P355's desired heroic scene is her expressed taste. These preferences remain individual and context-sensitive.
+
+
+## DUST-COHORT06-C01 — wanted home, pleasures and exact resource directions
+
+Dust values ordinary Axel company, leisure and situated quiet without needing one constant noise preference. Particular care costs time, money, privacy and risk; mixed benefit remains. DUST07 U011P1092–1093 performs the sword loan and return request; U014P119 explicitly cancels defense debt while the separate guild payment is reported later. No sword/book return, final romance or universal debt settlement is shown. Merchant gift, entrusted allowance, provider fees, food for Faitifore and Leen-directed labor are distinct owner/payer/recipient states; gifts to others cannot be relabeled a clean Leen-specific transfer.
+
+
+## Komekko cohort07 source-informed consolidation — 2026-10-20T03:13:02.170207+00:00
+
+Source-known admitted EXP01/02 and MAIN05/11/14; eighteen actual image-prose pages and1,602bounded BASE member slots, not new whole-source/ruby/independent credit. The [Komekko index](../08%20Evidence%20and%20Indexes/KONOSUBA_KOMEKKO_EVIDENCE_INDEX.md) owns exact ranges/event joins; older entries remain historical at their original scopes.
+
+| Record | Acting subject and exact route | Current uptake | Limits |
+|---|---|---|---|
+| K07-OL01 | Komekko play/resources/care; EXP01IMG026-043/U018P435-439;EXP02U013/U023P565-620;MAIN05U020P230-241;MAIN14C1P272-284/C4P90-94 | Novel puzzles/riding, boredom, food scarcity anticipation, two distinct food offers, lunch/book giving, bedtime affection, tea service and rejected carrying task make ordinary life substantive. | Current plenty need not erase anticipation, fullness can reduce effort and particular generosity does not guarantee obedience. Reference song/appetite description is not a new dated hug, meal or trip. |
+
+
+## Hoost cohort08 source-informed consolidation — 2026-10-20T04:07:47.235077+00:00
+
+Source-known admitted EXP01/03: prior eighteen actually read integral image-prose pages reused,1,172unique EXP03 BASE slots/five members newly received, thirteen selected ledger rows/seven files. No fresh EXP01 pixel pass, whole-source/ruby/image/independent credit. [Hoost index](../08%20Evidence%20and%20Indexes/KONOSUBA_HOOST_EVIDENCE_INDEX.md) owns event joins and exact return scopes; previous entries remain historical.
+
+| Record | Acting subject and exact route | Current uptake | Limits |
+|---|---|---|---|
+| H08-OL01 | Hoost task-adjacent company/provision; EXP01IMG028-043 | Hunting, limits on shopping openly, food delivery before complete work, waiting, carried outing, irritation, company, relaxed formality and a finite farewell give ordinary interaction more than opponent function. | No invented favorite food, wealth, household schedule, romance or general employment pattern. Instrumental recruitment and particular care remain mixed; actual birds are removed, not consumed on-page. |
+
+
+## Cohort09 — entertainment has value without a full palace biography — 2026-10-20T06:09:56.297297+00:00
+
+Levi directly values entertainment/games and uses them to frame requests and commitment. Enjoyment, pride, national policy and particular attachment can coexist; neither pure statecraft nor unstoppable gambling compulsion accounts for refusal of new offensive exposure. His food, domestic work, private friendships and broader routine remain poorly observed. EXP03 siblings' seasonal-food/meat-income/crop concerns are source-local work preferences, not universal diets; Rod's actual juice gift differs from an enduring gift habit. MAIN10C4P25–98/139–197/247–284/C5P454–476;DUST04U014P119–131/223–264;EXP03U013P169–225/258–265/477–498.
+
+Known admitted-source retrospective consolidation; no new source admission, whole-source/ruby/image/independent-test credit. Exact earlier ledger bytes remain the prefix. Frozen forecasts, failures, scores and blank/null fields remain unchanged.
+
+
+## Cohort10 — work, family care and unsupported biography — 2026-10-20T06:58:02.053067+00:00
+
+Pierre's advertised paid act, finite sweets, prestige claim and attempted explanation provide a bounded occupational profile (MAIN16U023P14–50). The mother's specific resource request, stated child-care purpose and response to an absent seller give a narrow ordinary-life choice (P1–11); reported benefit is not an independently verified clinical mechanism. MAIN03 performer's farm succession is a relayed intention, not a completed job transition (U017P630–633). No favorite food, lasting gift habit, wealth or domestic mastery is invented.
+
+Nos's combat self-regulatory script does not supply a broader household routine or complete ordinary preference set. That asymmetry limits the Tier2 account and any future model; it does not erase the dense evidence in his observed encounter.
+
+Retrospective known-source consolidation; exact previous ledger bytes remain the prefix. No new whole-source/ruby/image/admission/independent-test credit or changed historical forecast, score or blank/null field.
+
+
+## Cohort11 — particular company and perceived real cost — 2026-10-20T08:11:12.082088+00:00
+
+Claire values Iris-related talk, shared company and indulgence, with observed low alcohol tolerance in distinct settings and self-acknowledged nightly attention. Those facts do not establish a universal physiological law, romantic assent or complete routine. Rain helps make tea, makes local taste/price comments and explicitly minds being overlooked; no enduring favorite or complete domestic expertise follows. MAIN11 C1P30–44/86–92; DUST03 U013P6–40/458–467/503–504/641–645; MASK U015P443–449.
+
+Rain's fee accountability, family means, salary penalty, reward interest and actual product purchase differ. MASK anticipated finance criticism and DUST03 recognized memory projection return to one episode. The dream-party expenditure costs Dust and is reported under Rain's unreal-cost belief; it is not an equal gift from her own purse or proved knowing appropriation. Seller safety/dependency claims are not independently verified product efficacy. MASK U015P118–137; DUST03 U013P367–377/501–513/667–739/898–913/U014P12–34; CONTEXP02 U013P141.
+
+Known admitted-source consolidation; prior ledger bytes remain the exact prefix. No new whole-source/ruby/image/admission/independent trial or changed frozen forecast, score, first body or blank/null field.
+
+
+## Luna cohort12 — own work, relief, pressure and boundaries — 2026-10-20T08:58:31.797980+00:00
+
+MASKU017P316-330 supplies Luna's own unpaid-overtime/no-leave account, sleep and household backlog, wish for time off and respectful adult company. Her exact duration is self-report. Her job buying remains is not a private hobby. Late drinking is a state, not proof of an invariant consumption pattern, favorite drink, private wealth or complete biography.
+
+P450-451 actual gratitude for cover work, P519 stated future paid cover, P523-541 company, embarrassment, curiosity and forecast opt-out retain different action stages. Continued company neither erases grievance nor proves consent to humiliation. YORI04U014P516 proposes post-work conversation without showing it completed. Guild-vault money remains institutional; a finite banquet does not become limitless hospitality. The monograph preserves these ordinary wants alongside public competence and coercion.
+
+
+## Cecily and Zesta cohort13 — scoped receiving; containing publication pending
+
+Cecily own food purchases/salary/hunger and longing for missed company appear in EXP02 image interludes; shared work, leisure play and product improvement matter independently of combat. She can acknowledge moral/image cost for one contemplated scheme and still take others bread. Zesta actual desire for casino play, food, entertainment, wanted company and escape coexist with particular devotional concern; dessert excuse DUST04U013224 obtains no food. No single choice fixes universal taste, private wealth, kinship or global goal weights. Profitable stock, offered commission, actual coach-fare bag, alleged refund and paid settlement remain different stages.
+
+
+## Cohort14 clergy and merchant bounded returns — 2026-10-20T11:12:02.861945+00:00
+
+Guide's guard duty, unwanted stay-behind outcome, own market-loss account and warmer response to a cash offer(MAIN16U016P92/113–122) give ordinary costs alongside devotional pleasure. Axel priest reports healing/meals; Arcanretia priest reports sole occupancy and strained subsistence(CONTEXP01U015P331;CONTEXP02U016P479). Chair negotiates funding, hosts workers/adviser and reportedly delivers the reward(MAIN08U013P231–239,U014P645–673,U016P503–509). Offers, reported delivery, visible money and acceptance stay distinct. No stable universal taste or ethical repair follows from one payment/meal/social occasion. See [event index](../08%20Evidence%20and%20Indexes/KONOSUBA_CLERGY_AND_MERCHANT_EVIDENCE_INDEX.md).
+
+
+## Cohort15 Leen, Keith and Taylor — 2026-10-20T13:11:28.160162+00:00
+
+Leen one continuing vegetable-stick snack is not a universal diet; MASK loan refusal/old debt is supported without exact repayment. DUST06P430–432 personal damage cost inhibits a throw. YORI04U014P371–385/P461–474 actual theater outing has Dust-treat condition and later fright/missed-benefit complaints, not a printed ticket bill or stable genre preference. Keith offers future drinks without an observed settlement; Taylor and Keith share worry about friend distance. CONTU012P1–16/U014P193 gives luxury/ceremony discomfort, not exact wealth or a diagnosis. Ordinary company, money, embarrassment and useful work matter without an invented complete taste hierarchy.
+
+[Leen event index](../08%20Evidence%20and%20Indexes/KONOSUBA_LEEN_EVIDENCE_INDEX.md), [Keith event index](../08%20Evidence%20and%20Indexes/KONOSUBA_KEITH_EVIDENCE_INDEX.md), [Taylor event index](../08%20Evidence%20and%20Indexes/KONOSUBA_TAYLOR_EVIDENCE_INDEX.md). These are actor-specific retrievals of shared known episodes, not new independent observations or a completed global census.
+
+
+## Cohort16 Lolisa, Rionor and Feit — 2026-10-20T14:52:18.145824+00:00
+
+Lolisa seeks customers,professional learning,chosen travel and a planned Elroad branch DUST04U012227; the branch is not already opened. Rionor wants company,experience and freedom; actual travel CONTU01528 differs from proposed registration/priesthood41 and conditional marriage51. Feit chooses grooming/lap contact CONTU01072-81,ground-level walking U011461-466,a picture book actually bought496,and shares the smaller cookie435-437. These finite ordinary choices matter alongside exceptional feats. A planned career,current gift or offered payment is not a completed life outcome or settled account.
+
+Individual retrieval: [Lolisa](../08%20Evidence%20and%20Indexes/KONOSUBA_LOLISA_EVIDENCE_INDEX.md),[Rionor](../08%20Evidence%20and%20Indexes/KONOSUBA_RIONOR_EVIDENCE_INDEX.md),[Feit](../08%20Evidence%20and%20Indexes/KONOSUBA_FEIT_EVIDENCE_INDEX.md). Shared [native provenance](../08%20Evidence%20and%20Indexes/KONOSUBA_LOLISA_ROYAL_DRAGON_NATIVE_PROVENANCE_01.json). Exact containing publication remains pending; full program continues.
+
+
+## Cohort17 Wolbach and Chomusuke — 2026-10-20T16:06:56.617701+00:00
+
+Wolbach values hot-spring treatment/reward,conversation,company and finite help. EXP03IMG033-035 actual gift/eating differ from an offered permanent role; her invitation is declined at destination and actual separation follows. IMG035 subordinate separation is qualified at036 as temporary. Chomusuke’s food,rest,touch and warm-basin entry MAIN09F852-854 deserve attention alongside power lore. MAIN16I1 headbutt18 and belly refusal23 coexist. EXP03U020610-611 limp-creature report/food-water question remains unanswered and does not alone diagnose neglect,illness or magical drain.
+
+Individual [Wolbach](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_EVIDENCE_INDEX.md) and [Chomusuke](../08%20Evidence%20and%20Indexes/KONOSUBA_CHOMUSUKE_EVIDENCE_INDEX.md) indices; [shared provenance](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_CHOMUSUKE_NATIVE_PROVENANCE_01.json). Exact containing publication pending; full program active.
+
+
+## Cohort18 Sena and Arnes — 2026-10-20T17:14:33.263380+00:00
+
+Sena makes/brings tea,closes a cold door MAIN04C1P96,offers a useful tool and publicly thanks others; sparse leisure/history stays unknown. Her partner-question limit MAIN03C1P255 is not a romantic invitation or exact age. Arnes’s visit,waiting,naming,finite300kactual payment EXP02U023P68-76 and later refund grievance matter alongside combat. No personal loan is printed. Megumin’s retaining the bag343 is not a fulfilled transfer,refund or Arnes’s gift. Sparse recreation outside pursuit is a gap rather than an appearance-based ceiling.
+
+
+## Cohort19 Rex, Sophie and Terry — attributable update
+
+Information gathering,cage driving,work/recruitment,planned celebration,travel preparation,familiar guild drinks and a name correction earn ordinary-life attention (R06-R10/R18-R22,T02). Half-bounty and celebration proposals are not completed transfers/membership. Megumin reports giving the eventual bounty and remaining funds; no exact counted shares. Her unasked wish for a meal does not become Rex’s refusal. Private biography,tastes,finances and all teammates’ reasons remain open.
+
+Known EXP03/CONTEXP02 BASE returns only:1,556 distinct context slots/six members/two native objects,including blanks,other actors,reports and hypotheses; no fresh whole-source,ruby/image,admission,independent decision,accuracy or confidence credit. Current claims route to `CR-SECONDARY-COHORT19-001` and the shared crew index/provenance; exact containing publication remains pending.
+
+
+## Cohort20 — individual village peers and attributed writer correction
+
+Funifura's reported hair-tie gift, current replacement offer, lunch/walk invitations and actual staff handover distinguish offered, valued and completed stages. Dodonko's conversational initiative, reported sword-hero aspiration and medicine work supply different ordinary concerns. Untagged restaurant orders do not fix either girl's enduring food preference; birthday promise is not a completed later gathering.
+
+Nerimaki's actual service/news bargain and future-proprietor claim support work and aspiration, not current ownership or novel authorship. Aigis requests milk and labels a fragment payment; Nerimaki returns with milk, and Kazuma eventually receives it. Provider/requester/payer/recipient and claimed price/account settlement remain distinct. No complete household budget or hidden service is inferred. [village-peer index](../08%20Evidence%20and%20Indexes/KONOSUBA_VILLAGE_PEERS_EVIDENCE_INDEX.md)
+
+
+## C20-CR04 — apparent potion effect and actor attribution
+
+The earlier medicine work phrase must not be read as Dodonko household/occupational medical labor. The farewell exchange reports apparent efficacy of Megumin-made potion, with a contextual speaker assignment; it does not show Dodonko making it. Arue/Megumin ingredient work, Funifura family concern, the patient report and later gifts remain different activities. The [medicine-attribution erratum](../08%20Evidence%20and%20Indexes/KONOSUBA_VILLAGE_PEERS_MEDICINE_ATTRIBUTION_ERRATUM_01.md) supplies the current qualification. No career or unshown treatment is added.
+
+
+## Cohort21 — separate agency, conditional models and attributed revision
+
+Arue values writing, presentation and a particular gift; her reported week of work and actual distress differ from an independently audited schedule or quality judgment. Soketto's wooden-sword purchase is a particular preference, while Bukkorori's claimed routine remains surveillance testimony. His imposed cafe bill, later own lunch offer, scarce funds, no-money-help clause, sleeping and proposed ice-watching are different stages; no whole budget or performed leisure day is supplied. The [individual A/S/B/I index](../08%20Evidence%20and%20Indexes/KONOSUBA_ARUE_SOKETTO_BUKKORORI_EVIDENCE_INDEX.md) retains ordinary life alongside battle and coercion.
+
+The shoe-shop father has a bounded profile in the character-state ledger: his own welcome/work role and care promise are distinct from the sleeping son and from later unobserved care. Only one shop qualifies its foremost status. The transfer operator actually receives a silver bag and casts, while prior price explanation and full settlement remain different access. Arue's grandfather buying a childhood fashion patch is her report, not a watched magical gift. These three occurrence/profile records do not establish three final unique-person increments.
+
+
+## Cohort22 — Mitsurugi and separately bounded companions
+
+Mitsurugi's [ordinary-life evidence](../08%20Evidence%20and%20Indexes/KONOSUBA_MITSURUGI_COMPANIONS_EVIDENCE_INDEX.md) includes shopping manners reported by a shopkeeper, actual Gram-related payment, ring offering, a received crafted gift, recognition needs and limited lodging accounts. DUST01 has a five-million demand, agreement, bag received/estimated over five million, map/key handover and a goddess-connection rationale. It does not show an audited fortune, every recurring expense or the completed sword retrieval. A high sentimental value for a unique gift is not automatically financial ignorance.
+
+MAIN06 Aqua gives elaborate napkin origami as thanks for the ring; both men visibly admire the craft and Mitsurugi states an intention to treasure it. This is real artistic competence and a reciprocal gift, not returning his object or a worthless-scrap test. It does not establish engagement or long-term preservation. Shared seating competition, praise, head pats and adjacent noisy lodging cannot be divided into individual companion tastes by alternating dialogue. The attempted hostile dream is never delivered; apparent drunken deep sleep gives no assent to a night visit. Favorite food, broad recreation and continuing income remain unknown. Two compact profiles retain the women's own commitment and later relief without inventing a daily-life biography.
+
+
+## Cohort23: household resources, craft work and concrete pupil use
+
+[cohort23 individual index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_PARENTS_TEACHER_EVIDENCE_INDEX.md) YY03/YY04/YY10/YY13 and HY03-HY09 keep scarce table money, one available tea variety, shared gifts, debt/remittances, reported craft work and the mother's material-gathering plan distinct. A request for best tea is not a rich tea inventory or stable favorite. A future300million claim is not received cash; a mansion is not disposable funds. Megumin's prediction about extra money is not a watched purchase, and no complete family accounts establish one exclusive cause of debt.
+
+Pucchin's practical magic/economic teaching, actual potion rewards, confiscated pudding and concrete recipe/material help coexist with theatrical preference. A potion promised for an answer is not receipt in the same window; the stated patient need is not a watched patient or completed cure. Chekera's clothing work, the cafe menu, blacksmith trade, potion interview and diner work are separately indexed discovery leads with identity and later-outcome gaps. No payment, final employment result, extra family connection, stable food taste or new compact profile is inferred from the occurrence alone.
+
+
+## Cohort24 — Crimson village work and staff, source-known scope
+
+Robe stock, dyeing, mana-fiber production, inherited durable clothesline, menus, rush service and paid seasonal harvest retain practical work outside battles. The artisan taste for dramatic large weapons coexists with reported smallware/niche armor adaptation; no observed purchase or measured private wealth. Farm Megumin own 4,000 Eris differs from exact Yunyun pay, future rehire and permanent income. Commercial presentation is not proof every proprietor shares customers private taste (CC01-CC07,BS01-BS03,CA01-CA02,DI01-FA03).
+
+Exact locators and access: [cohort24 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_TRADES_STAFF_EVIDENCE_INDEX.md). The shared known-source union is 1,149 BASE slots/7 text members/4 text objects, including context, blanks, other actors and rejected joins; no fresh whole-source, ruby, residual, image-set, admission or independent validation credit. Earlier models, scores, firsts and prospective missingness remain unchanged. Canonical receiving is complete for this candidate only; exact containing publication/full program remain pending.
+
+
+## Cohort25 — chief, Sylvia, trial machine and castle courier
+
+Chief family-letter/reception evidence does not supply routine administrative choices or a taste inventory. Sylvia's dress,body modification and personal interest appear during an operation; no household budget or leisure distribution is established. Moguninnin maintenance/waiting states are not unprovided human preferences. The courier's reviewed choices remain operational. Sparse ordinary-life dimensions are recorded as gaps rather than filled by commander,scientist,parent,robot or guard stereotypes.
+
+Exact locators and access: [cohort25 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX.md). This source-known scope adds no new whole-source,ruby,residual,image-set,admission or independent validation credit. Earlier models,first bodies,scores and prospective missingness remain unchanged. Canonical receiving/publication is pending for this candidate; the full KonoSuba program continues.

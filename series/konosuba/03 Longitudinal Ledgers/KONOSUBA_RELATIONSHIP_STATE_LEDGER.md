@@ -1347,3 +1347,147 @@ Wiz is valued company and a project partner, with real overwork, punitive behavi
 
 ## WZ-C01 — company is valuable without universal permission
 Wiz refuses paid long exclusion from the shared shop (MASK U011P23–43), values Vanir's company and can still suffer his overwork or coercive methods. Her own forgiveness cannot authorize Brad/Rosary; his later exit is his choice. With Aqua, respectful address coexists with warning and withdrawal advice that Aqua refuses. With Kazuma, a specified mana draw and later vitality transfer have their own terms. A wanted relationship is not blanket assent.
+
+
+## CE-C01 — particular company and bounded access
+MAIN12 FinalP16–23 separates payment, accepted lodging and wanting company; P48–95 includes intrusive curiosity and reciprocal questioning. CONTEXP01 U021P363–369 offers ordinary friendship and respects a requested averted gaze. MAIN17 EpP54–63 rejects recurring refuge and offers later friend contact. Neither friendship nor technical access implies unlimited office entitlement. Hypothetical later enforcement remains unshown; old CE01's full conjunction is not retargeted.
+
+
+## DUST-COHORT06-C01 — particular bonds and different actors' choices
+
+Leen, Rionor, Faitifore, Lolisa, Taylor and Keith retain separate knowledge, preferences and contributions. DUST06 U012P427–597 distinguishes capture/refused withdrawal/later usable exit/renewed choice; DUST-CONT U012P436–510 gives Leen's own reasons. DUST07 U011P735–944 harmful training and U012P295–304 Keith nonhelp coexist with affection, actual help and private recognition. Apology, money, skill or later survival cannot retroauthorize force. Child-presenting interactions remain nonsexual and age appropriate; no final formal pairing or universal provider obedience is established.
+
+
+## Komekko cohort07 source-informed consolidation — 2026-10-20T03:13:02.170207+00:00
+
+Source-known admitted EXP01/02 and MAIN05/11/14; eighteen actual image-prose pages and1,602bounded BASE member slots, not new whole-source/ruby/independent credit. The [Komekko index](../08%20Evidence%20and%20Indexes/KONOSUBA_KOMEKKO_EVIDENCE_INDEX.md) owns exact ranges/event joins; older entries remain historical at their original scopes.
+
+| Record | Acting subject and exact route | Current uptake | Limits |
+|---|---|---|---|
+| K07-RS01 | Komekko with named counterparts; EXP01IMG026-043;EXP02U023P541-641;MAIN11C3P376-444/C4P538-577;MAIN14C1P261-269 | Hoost becomes particular friend with actual refusals and finite provision. Megumin receives care, gifts, objection and disappointment; Kazuma gives/receives food and mediates; Aqua supplies play/care; Yunyun receives flawed help. Luna designs the food/admiration work pressure. | Child assent to listen does not consent for other people or make her institution designer. Parents prior neighbor arrangement is reported by actual agreeing provider. Future Hoost familiar contract is conditional/unperformed. |
+
+
+## Hoost cohort08 source-informed consolidation — 2026-10-20T04:07:47.235077+00:00
+
+Source-known admitted EXP01/03: prior eighteen actually read integral image-prose pages reused,1,172unique EXP03 BASE slots/five members newly received, thirteen selected ledger rows/seven files. No fresh EXP01 pixel pass, whole-source/ruby/image/independent credit. [Hoost index](../08%20Evidence%20and%20Indexes/KONOSUBA_HOOST_EVIDENCE_INDEX.md) owns event joins and exact return scopes; previous entries remain historical.
+
+| Record | Acting subject and exact route | Current uptake | Limits |
+|---|---|---|---|
+| H08-RS01 | Hoost with Komekko/Wolbach/Megumin/Yunyun/Rex/Sophie/Terry;EXP01IMG026-043;EXP03U026P533-598/U034P287-498 | Particular child friendship modifies expressed reluctance toward Crimson Demons while Wolbach mission and conditional city threat persist. Rex crew receives actual attacks; Yunyun supplies resistance/bargaining, Megumin final blast. | No universal surrogate-parent rule, completed future familiar bond, recognized sisterhood or Megumin bonded-opponent condition. First friendly encounter does not erase later coercion or reported retaliatory city attack. |
+
+
+## Cohort09 — obligation, gratitude and chosen relationship remain distinct — 2026-10-20T06:09:56.297297+00:00
+
+Iris/Levi engagement dissolution, later national gratitude and her friendship-only decision are distinct states (MAIN10C3P675–698/C5P715–758). His retrospective account of deliberate dislike and DUST04 avowal of loss do not establish all earlier feelings or a renewed engagement. Debt to Kazuma coexists with a coercive demand for Kazuma/Iris information (DUST04U014P89–118). Small, Leen, Taylor and Keith have separate constraints and actions; Leen authors her added stake318, while private allegations187–208 are fabricated. Release permission430 and the accepted epilogue's compensation do not establish complete repair or retroactive free assent.
+
+Known admitted-source retrospective consolidation; no new source admission, whole-source/ruby/image/independent-test credit. Exact earlier ledger bytes remain the prefix. Frozen forecasts, failures, scores and blank/null fields remain unchanged.
+
+
+## Cohort10 — social trust and episode identity — 2026-10-20T06:58:02.053067+00:00
+
+Nos's offer to Pain, distress at the friendly strike, response to real correction and shock at the false insult are differentiated social acts (MAIN17U011P403–474). Pain's supposed contempt comes from Kazuma; a functional coalition is not proof of universal loyalty. Mammon's style coaching is attributed history said to a disguised actor (U012P123), compatible with Nos's later self-command (DUST07U013P207).
+
+The MAIN17/DUST07 identity join is strongly supported by multiple specific cues, with the episode row retained as an alias return. MAIN03's unnamed reported performer and MAIN16self-namedPierre have no demonstrated personal continuity; separate episode keys neither force alias nor prove distinct people. Pierre/helper professional participation supplies no observed private relationship or universal consent. No final individual denominator follows.
+
+Retrospective known-source consolidation; exact previous ledger bytes remain the prefix. No new whole-source/ruby/image/admission/independent-test credit or changed historical forecast, score or blank/null field.
+
+
+## Cohort11 — affection, permitted contact and colleague pressure — 2026-10-20T08:11:12.082088+00:00
+
+Claire's admitted past coldness is retained beside current attachment; mediated projection and present regret do not erase that earlier treatment. Actual release/privacy requests, maintained meeting vetoes and a bounded future outing promise differ. Affection, trust, practical dependence, physical power and permission are separate objects. CONTEXP01 U013P381–417; DUST03 U013P23–36/503–524/814–871.
+
+Rain can redirect Claire, physically permit Iris's departure, apologize and obtain cooperation. Claire can heed her, threaten patron relations, offer debt relief and take over a risky act. Both recognize Iris's happiness before imposing a restriction on Kazuma. His actual harmful threats do not erase their chosen coercion. No common guardian mind, universal obedience or established romance is inferred. MAIN10 C2P158–166; MAIN11 C1P431–443/558–633; CONTEXP02 U013P109–148.
+
+Known admitted-source consolidation; prior ledger bytes remain the exact prefix. No new whole-source/ruby/image/admission/independent trial or changed frozen forecast, score, first body or blank/null field.
+
+
+## Luna cohort12 — own work, relief, pressure and boundaries — 2026-10-20T08:58:31.797980+00:00
+
+Luna differentiates recipients. Kazuma receives capability-specific recruitment, an incentive and actual interference with departure (MAIN11U015P119-131); the later payment leaves his question unansweredP524. Komekko has her own appetite/admiration; Luna appropriates its effect without the child authorizing adults. Vanir's performed help receives thanks while his planned humiliation draws protest and new demands (MASKU017P450-541); repair is not established by continued contact.
+
+Dust receives a harassment warningMASKP16 and, in a different source-context, actual withdrawal after his distance requestDUST07U011P920-922. Different behavior does not require forgetting either observation. YORI04U014P492-557 recognizes retired specialists but one cannot supply the other's assent; future patrol remains future. Role, gratitude, paid work, affection, consent and repair remain separate. Generic official and ordinary-company rivals remain live.
+
+
+## Cecily and Zesta cohort13 — scoped receiving; containing publication pending
+
+Cecily/Megumin qualified enjoyment does not erase repeated unwanted contact. Iris trust can produce both embarrassment and recruitment. Cecily/Zesta deference, succession competition, cooperative harm and selective protective interruption are different states. Zesta actual support for Dust is followed by abandonment to arrest DUST04U013477-480; no permanent trust inferred. Small owns her rescue/access/refusal. Eris priest objections cannot be rewritten as attraction by Zesta framing. Membership, gift, gratitude, affection, refusal, protection and repair retain separate owners and scopes. Bread participants and other incidental roles are indexed individually without invented speech assignment.
+
+
+## Cohort14 clergy and merchant bounded returns — 2026-10-20T11:12:02.861945+00:00
+
+Keep guide distinct from Cecily/Tristan, and Axel Eris priest distinct from Arcanretia priest who explicitly first meets Megumin(CONTEXP02U016P476). Prior sect contact, repeated no-visit requests and specific nuisance grievance do not establish romance or consent; denial remains denial despite Zesta's invented frame. Cecily apology is forced by Megumin, not demonstrated recipient forgiveness(CONTEXP01U015P347). Chair/adviser transaction and hospitality are actual bounded relations, not a private friendship, a known resignation trap or permission for every later act. No named join from occupation or insult. See [event index](../08%20Evidence%20and%20Indexes/KONOSUBA_CLERGY_AND_MERCHANT_EVIDENCE_INDEX.md).
+
+
+## Cohort15 Leen, Keith and Taylor — 2026-10-20T13:11:28.160162+00:00
+
+Leen familiar-present preference, limited secret protection, actual cheek kiss/hand/boarding and own continuation reasons do not create standing consent or formal romance. DUST06U012P554–555 actual withdrawal/refusal is distinct from later exit offerP594 and chosen continuationP595. DUST07U011 secret training, denied withdrawal, adverse aftermath and incomplete repair remain; later money/care or affection cannot authorize them. Keith perpetrates pressure and later protests his own forced removal. Taylor material aid/apology and deliberate nonhelp coexist. The continuation first protested liftU014P323–327 differs from later Leen chosen boardingP436. Owner/payer/recipient/offered/received/paid/settled and participant assent remain separate.
+
+[Leen event index](../08%20Evidence%20and%20Indexes/KONOSUBA_LEEN_EVIDENCE_INDEX.md), [Keith event index](../08%20Evidence%20and%20Indexes/KONOSUBA_KEITH_EVIDENCE_INDEX.md), [Taylor event index](../08%20Evidence%20and%20Indexes/KONOSUBA_TAYLOR_EVIDENCE_INDEX.md). These are actor-specific retrievals of shared known episodes, not new independent observations or a completed global census.
+
+
+## Cohort16 Lolisa, Rionor and Feit — 2026-10-20T14:52:18.145824+00:00
+
+Lolisa’s relations with Dust,Vanir,coworkers,Yunyun and Leen differ: useful aid,admiration,work and pressure coexist. Her own refusal does not make her a consistent protector of others’ refusals. Rionor’s old apology and reported acceptance to reduce Dust’s punishment DUST06U011965/970/979 contest pure selfishness without making later imposed shock consensual. Doreck’s willingness cannot supply Rionor’s informed marriage assent. Feit’s attachment is nonsexual child-form care: specific hair agreement CONTU010234-235 does not authorize prior third-party use,and a caregiver’s veto is not her own negotiation.
+
+Individual retrieval: [Lolisa](../08%20Evidence%20and%20Indexes/KONOSUBA_LOLISA_EVIDENCE_INDEX.md),[Rionor](../08%20Evidence%20and%20Indexes/KONOSUBA_RIONOR_EVIDENCE_INDEX.md),[Feit](../08%20Evidence%20and%20Indexes/KONOSUBA_FEIT_EVIDENCE_INDEX.md). Shared [native provenance](../08%20Evidence%20and%20Indexes/KONOSUBA_LOLISA_ROYAL_DRAGON_NATIVE_PROVENANCE_01.json). Exact containing publication remains pending; full program continues.
+
+
+## Cohort17 Wolbach and Chomusuke — 2026-10-20T16:06:56.617701+00:00
+
+Wolbach’s care for particular people does not erase continuing war or make her half’s power freely available. Chomusuke’s approach at MAIN09 F P152,Wolbach’s reaching at P154 and Kazuma’s conditional restraint at P155–164 are distinct actors’ choices. Megumin’s care coexists with EXP02 paid handover/ignored clinging and dangerous throws. Arnes’s valued-master address,catches,postponement and relief coexist with threats; similar appearance does not merge her with Wolbach. Yunyun’s concern,interrupted chant and actual catch retain their own agency. Affection,nonresistance,contract proposal and informed assent remain distinct.
+
+Individual [Wolbach](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_EVIDENCE_INDEX.md) and [Chomusuke](../08%20Evidence%20and%20Indexes/KONOSUBA_CHOMUSUKE_EVIDENCE_INDEX.md) indices; [shared provenance](../08%20Evidence%20and%20Indexes/KONOSUBA_WOLBACH_CHOMUSUKE_NATIVE_PROVENANCE_01.json). Exact containing publication pending; full program active.
+
+
+## Cohort18 Sena and Arnes — 2026-10-20T17:14:33.263380+00:00
+
+Sena’s accusation,apology,renewed suspicion,refusal acceptance,objection to occupied-mask confinement and later esteem remain different stages. MAIN03C4P30 accepts an unrelated refusal; MAIN04C1P122/152 applies duty/reputation expectations without proving deliberate orchestration. Arnes invokes master’s will EXP02U023P40 but later explains away visible resistance219; catches/postponement/relief are actual care without complete recipient-centered consent. Yunyun’s warning,offered refund,physical interruption and catch remain her own acts. Hoost’s later pact/lives account stays his.
+
+
+## Cohort19 Rex, Sophie and Terry — attributable update
+
+Leader status does not consume Sophie’s correction or Terry’s action. Rex’s promise of retreat permission coexists with protest when taken; the later capital refusal ends with a friendly departure (R07/R20),not a universal autonomy policy. A mage’s welcome recruitment and embarrassment are not completed membership. Later naming/reminders join identities; group smiles and royal awkwardness do not prove full shared memory or prior knowledge (R21/S08-S09/T07-T08).
+
+Known EXP03/CONTEXP02 BASE returns only:1,556 distinct context slots/six members/two native objects,including blanks,other actors,reports and hypotheses; no fresh whole-source,ruby/image,admission,independent decision,accuracy or confidence credit. Current claims route to `CR-SECONDARY-COHORT19-001` and the shared crew index/provenance; exact containing publication remains pending.
+
+
+## Cohort20 — individual village peers and attributed writer correction
+
+Funifura's actual friendship offer, specific apology and gift coexist with physical direction, guilt and status pressure. Dodonko's own question, illness defense and stop requests are separate contributions. Funifura's objection when Dodonko is constrained shows one reciprocal intervention without proving equal influence or wholly benevolent conduct. Yunyun values company, refuses the rabbit task, accepts a walk and later feels overlooked in reported letters; none means universal compliance.
+
+MAIN14 Nerimaki imagined M/Y pairing is her expectation, not either person's assent or actual romance. Her invited local finger action does not grant blanket permission to Aigis; her later scraping crosses his expressed limit. The staff's family reports, unnamed operator and three new Tier0 occurrence records remain unjoined where identity is not established. [village-peer index](../08%20Evidence%20and%20Indexes/KONOSUBA_VILLAGE_PEERS_EVIDENCE_INDEX.md)
+
+
+## Cohort21 — separate agency, conditional models and attributed revision
+
+Arue's cooperation, offered patch, unpermitted new-patch seizure, later appreciation, manuscript grievance and intrusive patch play retain the different actors. Kazuma's disappointment does not justify manuscript destruction. Soketto's conditional service and future appraisal do not supply present romantic assent or erase following/attacks; her statement about non-troubling current presence also remains. Bukkorori's hope and Megumin's later marriage hypothesis are not her commitment. The [individual A/S/B/I index](../08%20Evidence%20and%20Indexes/KONOSUBA_ARUE_SOKETTO_BUKKORORI_EVIDENCE_INDEX.md) owns A09-A13/S04-S10/B09-B17.
+
+Father/son promises, different craftsmen/elders and unnamed service roles remain unjoined unless proved. Child gifts/kinship address are not adult romance or legal kinship. Synthetic greeting and one work-text permission establish no mutual attraction; both B contact variants merely begin withdrawal without completing future contact. Trust, help, permission, affection, repair and durable conduct change remain separate.
+
+
+## Cohort22 — Mitsurugi and separately bounded companions
+
+The [Mitsurugi monograph](../05%20Specialist%20Synthesis/KONOSUBA_MITSURUGI_CHARACTER_MONOGRAPH.md) separates Aqua attachment, Kazuma rivalry/friendship overture, companion loyalty and Yunyun's own agency. Aqua's thanks or forgetting is not reciprocal romance. MAIN01 wagering another person is not authorized by his own valuation; the local releases in MAIN01/17 do not repair every later or earlier boundary. MAIN17 return acceptance is contrary evidence beside MAIN16 pressure. Yunyun declines permanent membership and first-name familiarity is not thereby accepted. Kazuma's rejection of hoped-for friendship prevents a mutual-friendship claim.
+
+MAIN06 Mitsurugi calls the women important comrades and reports separate leveling because he takes most kills; it is not their full endorsement. MAIN17C2P503-504 spear-user fatigue/next-move/following and P505-506 thief's came-for-him/death-together statement differ. Pair relief at return and active care qualify limitless-sacrifice readings. The [separate role profiles](KONOSUBA_CHARACTER_STATE_LEDGER.md#cohort22-mitsurugi-spear-companion-bounded-profile) preserve untagged earlier voices and unresolved nameset mapping; no dramatic commitment is permanent informed consent. Opposing Darkness's coerced stripping does not grant control over her body, and stopping one humiliation does not cancel the continuing lethal threat.
+
+
+## Cohort23: family preference, recipient agency and teacher support
+
+[cohort23 individual index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_PARENTS_TEACHER_EVIDENCE_INDEX.md) YY02/YY05-YY13 preserves real parental concern and family resource needs together with Yuiyui's pressure. Megumin's own refusal/escape and Darkness's resistance are independent acts. Parent approval, hosting authority, a displayed seating plan, later warmth and a particular constrained choice do not grant another person's bodily or relationship assent. Hyoizaburoo's stated chaperoning concern and sleeping absence are not automatic agreement with Yuiyui; his Komekko boundary is not a future marriage event or general sale policy.
+
+Pucchin's teacher/pupil authority includes actual teaching, discipline, practical help and mixed appraisals. His interest-based permissions, biased theatrical points and admitted delay cannot be absorbed into pure care; practical aid cannot be erased by the contrary conduct either. Secrecy interpreted as considerate by Megumin is not a watched privacy contract or proof he knew all concealed seal facts. The current chief remains Yunyun's father, separate from Hyoizaburoo, and Pucchin's principal aspiration is not a completed promotion. Unnamed staff/artisans and unresolved reported parent roles are not joined by resemblance.
+
+
+## Cohort24 — Crimson village work and staff, source-known scope
+
+Chekera treats Megumin as familiar applicant/customer and outsiders as welcome audience; paternal comparison does not make Hyo his alias or imply kinship. The cafe proprietor knows reputation; actual acquaintance/private understanding is inferred/unresolved. Potion wife/child relation is Yunyun report with number unprovided. Diner Yunyun tasks do not establish a separate observed wage agreement; peers proposal is not actual deduction. Nearby meal customer and restraining patrons may overlap. No payment, permission, kinship or identity shortcut is admitted (CC01-CC07,CA01-CA02,PO02,DI01-DI04).
+
+Exact locators and access: [cohort24 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_TRADES_STAFF_EVIDENCE_INDEX.md). The shared known-source union is 1,149 BASE slots/7 text members/4 text objects, including context, blanks, other actors and rejected joins; no fresh whole-source, ruby, residual, image-set, admission or independent validation credit. Earlier models, scores, firsts and prospective missingness remain unchanged. Canonical receiving is complete for this candidate only; exact containing publication/full program remain pending.
+
+
+## Cohort25 — chief, Sylvia, trial machine and castle courier
+
+Yunyun future-chief identity,qualification and announced return do not transfer current father office or prove his approval. Aigis provocative insinuation does not establish daughter assent. Sylvia selective interest and release offer coexist with renewed control,hostage threat and group retaliation. Moguninnin's conditional Crimson restriction is an observed functional limit,not an ethical commitment. Courier protective initiative has duty/fear rivals; no general loyalty or affection grade follows.
+
+Exact locators and access: [cohort25 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX.md). This source-known scope adds no new whole-source,ruby,residual,image-set,admission or independent validation credit. Earlier models,first bodies,scores and prospective missingness remain unchanged. Canonical receiving/publication is pending for this candidate; the full KonoSuba program continues.

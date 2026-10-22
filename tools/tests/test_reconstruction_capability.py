@@ -1,7 +1,9 @@
 from __future__ import annotations
 
+import contextlib
 import copy
 import hashlib
+import io
 import importlib.util
 import json
 import os
@@ -24,6 +26,7 @@ from character_index_core import (  # noqa: E402
     RECONSTRUCTION_REGISTRY_PATH,
     RECONSTRUCTION_SCHEMA_PATH,
     AssessmentCurrentness,
+    AuthorityGraph,
     DomainError,
     GitSnapshot,
     ReconstructionEvaluation,
@@ -44,11 +47,20 @@ from generate_reconstruction_index import (  # noqa: E402
     render as render_reconstruction_index,
 )
 from prepare_commit import active_rules, missing_required_output_paths  # noqa: E402
-from reconstruction_status import work_queue  # noqa: E402
+from reconstruction_status import (  # noqa: E402
+    deferred_evidence_changes,
+    main as reconstruction_status_main,
+    work_queue,
+)
 from validate_repository import (  # noqa: E402
+    DISCOVERY_OUTPUTS,
     RECONSTRUCTION_OUTPUTS,
+    discovery_branch_candidate,
+    discovery_confinement_errors,
     validate_audit_workflow,
+    validate_discovery_branch_confinement,
     validate_reconstruction_domain,
+    validate_routing_branch_scope,
 )
 
 
@@ -1226,8 +1238,8 @@ class WorkDiscoveryTests(unittest.TestCase):
 
 
 @unittest.skipUnless(importlib.util.find_spec("jsonschema"), "jsonschema is not installed")
-class ProductionRepositoryTests(GitRepositoryFixture):
-    """The repository validator's production contract on a disposable history."""
+class ProductionRepositoryFixture(GitRepositoryFixture):
+    """A disposable history with activated, empty production surfaces."""
 
     def setUp(self) -> None:
         super().setUp()
@@ -1302,6 +1314,12 @@ class ProductionRepositoryTests(GitRepositoryFixture):
         (self.repository / Path(EVIDENCE_PATH)).write_bytes(authority_artifact(b"# Revised analysis\n"))
         self._commit("series analysis revises referenced evidence", EVIDENCE_PATH)
         self._advance_main()
+
+
+
+@unittest.skipUnless(importlib.util.find_spec("jsonschema"), "jsonschema is not installed")
+class ProductionRepositoryTests(ProductionRepositoryFixture):
+    """The repository validator's production contract on a disposable history."""
 
     def test_empty_bootstrap_state_validates(self) -> None:
         self.assertEqual(self._validate(), ([], []))
@@ -1442,10 +1460,10 @@ class IntegrationControlTests(unittest.TestCase):
         source = (REPOSITORY / path).read_bytes()
         line = b"      - character-reconstruction\n"
         self.assertIn(line, source)
-        self.assertIn(
-            b"startsWith(github.ref_name, 'series/') || startsWith(github.ref_name, 'studies/')",
-            source,
-        )
+        # The reporter publishes the validator's state for every branch; only stale
+        # routing on an analysis branch is pending, so this branch never waits on housekeeping.
+        self.assertNotIn(b"ANALYTICAL_SOURCE", source)
+        self.assertIn(b"state = integration\n", source)
         changed = source.replace(line, b"", 1)
         snapshot = GitSnapshot(REPOSITORY, "IN_MEMORY", {path: SnapshotEntry(path, "100644", changed)})
         failures = validate_audit_workflow(snapshot, {"allowed_workflows": [path]})
@@ -1475,6 +1493,259 @@ class IntegrationControlTests(unittest.TestCase):
         self.assertNotIn("UNASSESSED", statuses)
         if phase != "ROUTINE":
             self.assertNotIn("REVIEWED", statuses)
+
+
+def run_status(*argv: str) -> tuple[int, dict[str, object] | None, str]:
+    stdout, stderr = io.StringIO(), io.StringIO()
+    with contextlib.redirect_stdout(stdout), contextlib.redirect_stderr(stderr):
+        try:
+            code = reconstruction_status_main(list(argv))
+        except SystemExit as exc:
+            code = int(exc.code) if isinstance(exc.code, int) else 2
+    text = stdout.getvalue()
+    return code, (json.loads(text) if text.strip() else None), stderr.getvalue()
+
+
+@unittest.skipUnless(importlib.util.find_spec("jsonschema"), "jsonschema is not installed")
+class ReadinessCertificationTests(ProductionRepositoryFixture):
+    """Strict readiness verification fails closed and never certifies nothing."""
+
+    def _currentness(self, *extra: str) -> tuple[int, dict[str, object] | None, str]:
+        head = self._git_output("rev-parse", "HEAD")
+        return run_status(
+            "currentness", "--repo", str(self.repository), "--snapshot", "commit", "--commit", head, *extra
+        )
+
+    def _publish_reviewed(self) -> dict[str, object]:
+        self._write_policy("ROUTINE")
+        self._commit(
+            "owner accepts calibration",
+            RECONSTRUCTION_POLICY_PATH,
+            "governance/reports/RECONSTRUCTION_CALIBRATION_ACCEPTANCE.md",
+        )
+        published = candidate(self.commit, self.digest)
+        self._publish([published])
+        self._commit_outputs("candidate")
+        reviewed = copy.deepcopy(published)
+        reviewed["assessment_status"] = "REVIEWED"
+        self._publish([reviewed])
+        self._commit_outputs("owner-reviewed promotion")
+        self._advance_main()
+        return reviewed
+
+    def test_empty_selection_never_certifies_readiness(self) -> None:
+        code, output, _ = self._currentness()
+        self.assertEqual(code, 0)
+        self.assertEqual(output["assessments"], [])  # type: ignore[index]
+        self.assertNotIn("current_reviewed_certified", output)  # type: ignore[operator]
+        code, output, stderr = self._currentness("--require-current-reviewed")
+        self.assertEqual(code, 1)
+        self.assertIs(output["current_reviewed_certified"], False)  # type: ignore[index]
+        self.assertIn("empty selection never certifies readiness", stderr)
+
+    def test_only_a_current_reviewed_selection_certifies(self) -> None:
+        reviewed = self._publish_reviewed()
+        selected = ("--assessment", str(reviewed["assessment_id"]), "--require-current-reviewed")
+        code, output, _ = self._currentness(*selected)
+        self.assertEqual(code, 0)
+        self.assertIs(output["current_reviewed_certified"], True)  # type: ignore[index]
+        code, _output, _ = self._currentness("--assessment", "missing-id", "--require-current-reviewed")
+        self.assertEqual(code, 2)
+        self._revise_evidence_on_main()
+        code, output, _ = self._currentness(*selected)
+        self.assertEqual(code, 1)
+        self.assertIs(output["current_reviewed_certified"], False)  # type: ignore[index]
+
+    def test_deferred_work_requires_a_checkpoint(self) -> None:
+        head = self._git_output("rev-parse", "HEAD")
+        code, _output, stderr = run_status(
+            "work-queue", "--repo", str(self.repository), "--commit", head, "--deferred", SUBJECT
+        )
+        self.assertEqual(code, 2)
+        self.assertIn("--deferred requires --since", stderr)
+
+    def test_deferred_subject_returns_after_evidence_bytes_change(self) -> None:
+        checkpoint = self._git_output("rev-parse", "HEAD")
+        self._revise_evidence_on_main()
+        code, output, _ = run_status(
+            "work-queue", "--repo", str(self.repository), "--commit", self.main,
+            "--since", checkpoint, "--deferred", SUBJECT,
+        )
+        self.assertEqual(code, 0)
+        self.assertEqual(
+            [(item["analysis_subject_id"], item["kind"], item["reasons"]) for item in output["items"]],  # type: ignore[index]
+            [(SUBJECT, "DEFERRED_EVIDENCE_CHANGED", ["EVIDENCE_BYTES_CHANGED_SINCE_CHECKPOINT"])],
+        )
+
+
+@unittest.skipUnless(importlib.util.find_spec("jsonschema"), "jsonschema is not installed")
+class DeferredEvidenceChangeTests(GitRepositoryFixture):
+    """Deferred subjects return when evidence changes without a discovery edit."""
+
+    def _changes(self, since: str) -> dict[str, list[str]]:
+        before = GitSnapshot.from_commit(self.repository, since)
+        now = GitSnapshot.from_commit(self.repository, self._git_output("rev-parse", "HEAD"))
+        return deferred_evidence_changes(
+            [SUBJECT], [self.record], {SUBJECT: self.record},
+            before, AuthorityGraph(before), now, AuthorityGraph(now),
+        )
+
+    def _write(self, path: str, data: bytes) -> None:
+        target = self.repository / Path(path)
+        target.parent.mkdir(parents=True, exist_ok=True)
+        target.write_bytes(data)
+
+    def test_byte_change_without_discovery_edit_is_detected(self) -> None:
+        self._write(EVIDENCE_PATH, authority_artifact(b"# Revised analysis\n"))
+        self._commit("revise evidence only", EVIDENCE_PATH)
+        changes = self._changes(self.commit)
+        self.assertEqual(changes, {SUBJECT: ["EVIDENCE_BYTES_CHANGED_SINCE_CHECKPOINT"]})
+        queue = work_queue(
+            [], [self.record],
+            ReconstructionEvaluation(errors=[], basis_entries={}, basis_records={}, currentness={}),
+            since_records={SUBJECT: self.record}, deferred=[SUBJECT], deferred_changes=changes,
+        )
+        self.assertEqual(queue["items"][0]["kind"], "DEFERRED_EVIDENCE_CHANGED")
+
+    def test_authority_change_without_byte_change_is_detected(self) -> None:
+        successor = "series/example/ALICE-NEW.md"
+        self._write(
+            successor,
+            (
+                "---\nstatus: canonical\n"
+                f"supersedes: [{EVIDENCE_PATH}]\n"
+                "superseded_by: []\ndo_not_use_as_current_authority: false\n---\n# Successor\n"
+            ).encode("utf-8"),
+        )
+        self._commit("supersede evidence elsewhere", successor)
+        self.assertEqual(self._changes(self.commit), {SUBJECT: ["EVIDENCE_AUTHORITY_CHANGED_SINCE_CHECKPOINT"]})
+
+    def test_unrelated_change_does_not_requeue_a_deferred_subject(self) -> None:
+        self._write("series/example/UNRELATED.md", authority_artifact(b"# Other\n"))
+        self._commit("unrelated analysis", "series/example/UNRELATED.md")
+        self.assertEqual(self._changes(self.commit), {})
+        queue = work_queue(
+            [], [self.record],
+            ReconstructionEvaluation(errors=[], basis_entries={}, basis_records={}, currentness={}),
+            since_records={SUBJECT: self.record}, deferred=[SUBJECT], deferred_changes={},
+        )
+        self.assertEqual(queue["items"], [])
+
+
+class DiscoveryBranchConfinementTests(GitRepositoryFixture):
+    """The curation branch carries only the two discovery outputs."""
+
+    def setUp(self) -> None:
+        super().setUp()
+        (self.repository / "CHARACTER_ANALYSIS_INDEX.md").write_bytes(b"# Index\n")
+        self._commit("discovery index", "CHARACTER_ANALYSIS_INDEX.md")
+        self._git("update-ref", "refs/remotes/origin/main", self._git_output("rev-parse", "HEAD"))
+        self._git("switch", "--quiet", "-c", "character-registry")
+
+    def _confinement(self) -> list[str]:
+        return validate_discovery_branch_confinement(
+            self.repository, "commit", self._git_output("rev-parse", "HEAD")
+        )
+
+    def _edit_discovery(self) -> None:
+        edited = copy.deepcopy(self.record)
+        edited["notes"] = "A curation revision."
+        self._write_registry([edited])
+        (self.repository / "CHARACTER_ANALYSIS_INDEX.md").write_bytes(b"# Index\n\nRevised.\n")
+
+    def test_two_file_curation_delta_passes(self) -> None:
+        self._edit_discovery()
+        self._commit("curate", "characters/registry.jsonl", "CHARACTER_ANALYSIS_INDEX.md")
+        self.assertEqual(self._confinement(), [])
+
+    def test_any_other_path_on_the_curation_branch_fails(self) -> None:
+        self._edit_discovery()
+        (self.repository / Path(EVIDENCE_PATH)).write_bytes(authority_artifact(b"# Repaired\n"))
+        self._commit("curate and edit analysis", "characters/registry.jsonl", "CHARACTER_ANALYSIS_INDEX.md", EVIDENCE_PATH)
+        failures = self._confinement()
+        self.assertTrue(any("other changed paths" in item and EVIDENCE_PATH in item for item in failures), failures)
+
+    def test_staged_index_is_checked_before_commit(self) -> None:
+        (self.repository / "tools").mkdir()
+        (self.repository / "tools" / "helper.py").write_bytes(b"print(1)\n")
+        self._git("add", "--", "tools/helper.py")
+        failures = validate_discovery_branch_confinement(self.repository, "index", None)
+        self.assertTrue(any("tools/helper.py" in item for item in failures), failures)
+
+    def _curation_commit_with_extra_path(self, body: bytes = b"# Repaired\n") -> str:
+        self._edit_discovery()
+        (self.repository / Path(EVIDENCE_PATH)).write_bytes(authority_artifact(body))
+        return self._commit(
+            "curate and edit analysis", "characters/registry.jsonl", "CHARACTER_ANALYSIS_INDEX.md", EVIDENCE_PATH
+        )
+
+    def _publish_curation_ref(self, commit: str) -> None:
+        self._git("update-ref", "refs/remotes/origin/character-registry", commit)
+
+    def test_dispatch_style_audit_confines_unmerged_curation_history(self) -> None:
+        head = self._curation_commit_with_extra_path()
+        self._publish_curation_ref(head)
+        self.assertTrue(discovery_branch_candidate(self.repository, "commit", head))
+        failures = discovery_confinement_errors(self.repository, "commit", head, requested=False)
+        self.assertTrue(any("other changed paths" in item for item in failures), failures)
+
+    def test_older_unmerged_curation_commit_is_still_confined(self) -> None:
+        older = self._curation_commit_with_extra_path()
+        (self.repository / "CHARACTER_ANALYSIS_INDEX.md").write_bytes(b"# Index\n\nLater.\n")
+        self._publish_curation_ref(self._commit("later curation", "CHARACTER_ANALYSIS_INDEX.md"))
+        failures = discovery_confinement_errors(self.repository, "commit", older, requested=False)
+        self.assertTrue(any("other changed paths" in item for item in failures), failures)
+
+    def test_curation_history_already_on_main_is_not_confined(self) -> None:
+        head = self._curation_commit_with_extra_path()
+        self._publish_curation_ref(head)
+        self._git("update-ref", "refs/remotes/origin/main", head)
+        self.assertFalse(discovery_branch_candidate(self.repository, "commit", head))
+        self.assertEqual(discovery_confinement_errors(self.repository, "commit", head, requested=False), [])
+
+    def test_other_branches_and_a_missing_curation_ref_are_not_confined(self) -> None:
+        head = self._curation_commit_with_extra_path()
+        self.assertFalse(discovery_branch_candidate(self.repository, "commit", head))
+        self.assertEqual(discovery_confinement_errors(self.repository, "commit", head, requested=False), [])
+        self._git("switch", "--quiet", "-c", "series/example", "refs/remotes/origin/main")
+        (self.repository / Path(EVIDENCE_PATH)).write_bytes(authority_artifact(b"# Series work\n"))
+        series_head = self._commit("series analysis", EVIDENCE_PATH)
+        self._publish_curation_ref(head)
+        self.assertFalse(discovery_branch_candidate(self.repository, "commit", series_head))
+        self.assertTrue(discovery_confinement_errors(self.repository, "commit", series_head, requested=True))
+
+    def test_audit_fetches_live_curation_ref_and_fails_closed(self) -> None:
+        path = ".github/workflows/repository-audit.yml"
+        source = (REPOSITORY / path).read_bytes()
+        for fragment in (
+            b"if git ls-remote --exit-code --heads origin character-registry > /dev/null; then",
+            b"git fetch --no-tags origin refs/heads/character-registry:refs/remotes/origin/character-registry",
+            b'test "${status}" -eq 2',
+        ):
+            with self.subTest(fragment=fragment):
+                self.assertIn(fragment, source)
+                changed = source.replace(fragment, b"", 1)
+                snapshot = GitSnapshot(REPOSITORY, "IN_MEMORY", {path: SnapshotEntry(path, "100644", changed)})
+                failures = validate_audit_workflow(snapshot, {"allowed_workflows": [path]})
+                self.assertIn("repository-audit workflow missing required contract: " + fragment.decode(), failures)
+
+    def test_audit_applies_confinement_only_to_the_curation_branch(self) -> None:
+        path = ".github/workflows/repository-audit.yml"
+        source = (REPOSITORY / path).read_bytes()
+        guard = b'if [[ "${AUDIT_BRANCH}" = "character-registry" && "${AUDIT_EVENT}" != "repository_dispatch" ]]; then'
+        self.assertIn(guard, source)
+        for fragment in (guard, b"audit_args+=(--discovery-branch-confinement)"):
+            with self.subTest(fragment=fragment):
+                changed = source.replace(fragment, b"", 1)
+                snapshot = GitSnapshot(REPOSITORY, "IN_MEMORY", {path: SnapshotEntry(path, "100644", changed)})
+                failures = validate_audit_workflow(snapshot, {"allowed_workflows": [path]})
+                self.assertIn(
+                    "repository-audit workflow missing required contract: " + fragment.decode(), failures
+                )
+        # An analysis branch may still carry a coordinated two-file curation repair.
+        self._edit_discovery()
+        head = self._commit("coordinated repair", "characters/registry.jsonl", "CHARACTER_ANALYSIS_INDEX.md")
+        self.assertEqual(validate_routing_branch_scope(self.repository, "commit", head, "series/example"), [])
 
 
 if __name__ == "__main__":

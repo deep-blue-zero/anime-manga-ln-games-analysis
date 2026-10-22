@@ -1,0 +1,372 @@
+{
+  "schema": "konosuba.cohort25.receiving-and-provenance.v1",
+  "status": "SEMANTIC_RECEIVED_EXACT_CONTAINING_PUBLICATION_PENDING",
+  "received_utc": "2026-10-21T05:15:30.747701+00:00",
+  "source_baseline": "bb4de2bd0c6dfad9d4134f73ac9312339d02cb08",
+  "local_reconciled_base": "b531ee4cd891d62ed7f18a865901fa63e48e9e33",
+  "main_at_receiving": "4aec175424335ff332464a4c80cb37fa74ac6aa1",
+  "foundation_seal_sha256": "b60f462b4f450147f2130813bd9663705a204bc9eb9040461f8169e65bc782f3",
+  "semantic_receiving_sha256": "8ca208685c8ac87be74dda2ff527a2891621c98b95a0bcc8031cee8d4b3e2e4b",
+  "all7_frozen_private_foundation_pins": [
+    {
+      "file": "SYLVIA_CHARACTER_MONOGRAPH_DRAFT_01.md",
+      "bytes": 13731,
+      "sha256": "51a0757089d1cec10e9a735063ae6fb9418f286ef130a340e392b988a73886bd"
+    },
+    {
+      "file": "COHORT25_COMPACT_PROFILES_COVERAGE_APPEND_DRAFT_01.md",
+      "bytes": 8510,
+      "sha256": "e98db5aac8736c67c934b9afaa3a2f81df57134123d0b0fcc1c0a30e20fbfcf2"
+    },
+    {
+      "file": "CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX_DRAFT_01.md",
+      "bytes": 13947,
+      "sha256": "82b6314b4587017e3501003169eebadc39be3e4be25fabc57dcb7f9103322138"
+    },
+    {
+      "file": "CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_NATIVE_PROVENANCE_DRAFT_01.json",
+      "bytes": 47246,
+      "sha256": "6197d698f558bb3753cb8e00f33cf68ea2f2fffe02102d3fe65dace7d62137cb"
+    },
+    {
+      "file": "CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_COHORT25_SCOPE_ASSESSMENT_01.json",
+      "bytes": 13672,
+      "sha256": "c7fcde25d6b11bb30d7e4b23bb86a0d3afc686551999b26ba43f52c452b64ff7"
+    },
+    {
+      "file": "CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_COHORT25_NEW_DISCOVERY_RECORDS_01.json",
+      "bytes": 12569,
+      "sha256": "2991da0f5f1fe40a55d26feb5282b69143b3b5acd7135482ce074fe4fd3a2fbb"
+    },
+    {
+      "file": "CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_COHORT25_NAME_REFERENCE_CHECK_01.json",
+      "bytes": 3469,
+      "sha256": "72d6661444405e56d2795b48eae348afbf92d21789fcf6ce6767300e1e802617"
+    }
+  ],
+  "core_artifact_pins": [
+    {
+      "private_file": "SYLVIA_CHARACTER_MONOGRAPH_DRAFT_01.md",
+      "target_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_SYLVIA_CHARACTER_MONOGRAPH.md",
+      "bytes": 13731,
+      "sha256": "51a0757089d1cec10e9a735063ae6fb9418f286ef130a340e392b988a73886bd"
+    },
+    {
+      "private_file": "CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX_DRAFT_01.md",
+      "target_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX.md",
+      "bytes": 13947,
+      "sha256": "82b6314b4587017e3501003169eebadc39be3e4be25fabc57dcb7f9103322138"
+    },
+    {
+      "private_file": "CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_NATIVE_PROVENANCE_DRAFT_01.json",
+      "target_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_NATIVE_PROVENANCE.json",
+      "bytes": 47246,
+      "sha256": "6197d698f558bb3753cb8e00f33cf68ea2f2fffe02102d3fe65dace7d62137cb"
+    }
+  ],
+  "compact_profile_fragment": {
+    "private_file": "COHORT25_COMPACT_PROFILES_COVERAGE_APPEND_DRAFT_01.md",
+    "target_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md",
+    "bytes": 8510,
+    "sha256": "e98db5aac8736c67c934b9afaa3a2f81df57134123d0b0fcc1c0a30e20fbfcf2"
+  },
+  "new_artifact_scope": {
+    "models": 33,
+    "scoped_secondary_model_subjects": 27,
+    "bounded_profiles": 30,
+    "monograph_only_subjects": 10,
+    "nonfinal_records": 223
+  },
+  "new_monographs": [
+    "Sylvia"
+  ],
+  "new_compact_profiles": [
+    "Chief",
+    "Moguninnin",
+    "MASK courier"
+  ],
+  "new_models": [],
+  "new_rules": 0,
+  "new_inputs": 0,
+  "new_first_bodies": 0,
+  "new_pairs": 0,
+  "known_BASE": 2122,
+  "complete_known_windows": 35,
+  "members": 19,
+  "native_text_objects": 9,
+  "new_whole_source_ruby_residual_image_set_admission_or_independent_credit": 0,
+  "source_access_limits": "Reports,narrator inferences,performed actions,conditional capacity,identity joins,office/qualification and permission remain distinct. Direct and attributed cases owned by exact index/provenance; no independent grade or gain.",
+  "census_comparison": {
+    "changed_entering_rows": [
+      86,
+      87,
+      147
+    ],
+    "untouched_entering_rows": 216,
+    "new_rows": [
+      219,
+      220,
+      221,
+      222
+    ],
+    "nonfinal_records": 223,
+    "no_unique_person_denominator": true
+  },
+  "current_governing_control_pins": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 10152,
+      "sha256": "7d3733bbddcb9e2d93d137260593cb115b393f6034e1a66c3dce968295b76e74"
+    },
+    {
+      "path": "governance/AUTHORITY_STATE.yaml",
+      "bytes": 4099,
+      "sha256": "3e0cd0e8a16f42ca72141f749761e02970b164c9023e88fac7465867a8668146"
+    },
+    {
+      "path": "governance/AUTHORITY_SCOPE.json",
+      "bytes": 3696,
+      "sha256": "008b7b2adf114c1f39dd86fae064344457dab5b9e45486623fc9237fb6ed0916"
+    },
+    {
+      "path": "governance/CHATGPT_AUTHORITY_AND_ROUTING.md",
+      "bytes": 35566,
+      "sha256": "bd5449fc0297bdc72582757bf5421d9fceb1e5d4eb8ecf0db09dbc99b4849322"
+    },
+    {
+      "path": "governance/policies/CHANGE_INTEGRATION_CHECKLIST.md",
+      "bytes": 33751,
+      "sha256": "45ba48dd89c19576c454c1795b143111ec7f61e9ead441eb29f0657fd670edde"
+    },
+    {
+      "path": "governance/policies/BRANCH_LIFECYCLE.md",
+      "bytes": 6957,
+      "sha256": "1772d585710171bd94d5e3aacfe4ae6a6777f7812ce63308e855c9dc26e9623d"
+    },
+    {
+      "path": "governance/policies/PUBLICATION_AND_CONTRIBUTION_POLICY.md",
+      "bytes": 10235,
+      "sha256": "d7739ec75e10b6754b116936aa3a30699d360079d2ad52c69fdb0d721e10cb6d"
+    },
+    {
+      "path": "governance/policies/NIGHTLY_ANALYTICAL_INTEGRATION.md",
+      "bytes": 31488,
+      "sha256": "0649539ee9a74255d864eee8bc0aef8809aae7aa52e0ab6282f34c6885e3e87a"
+    },
+    {
+      "path": "governance/policies/REPOSITORY_CONTROLS.md",
+      "bytes": 12761,
+      "sha256": "cd60aa8c19edf3dc9590929ba49ef4ec24c67fd548e888a7e445dadc3286eb13"
+    },
+    {
+      "path": "governance/policies/AUTOMATED_GLOBAL_INDEX_MAINTENANCE.md",
+      "bytes": 7408,
+      "sha256": "2ae79abdb32a2f6e37256e961af3802e4fc8b74a64fc9b8eb5b42f299d357fe8"
+    },
+    {
+      "path": "governance/repository-controls/change-obligations.json",
+      "bytes": 2788,
+      "sha256": "7f59db4d799825eab4d81cffc7dc36275f883281647569a3b522a588c5834722"
+    },
+    {
+      "path": "series/registry.json",
+      "bytes": 36137,
+      "sha256": "93e9c9e8ef3f35745c818530d7f48f159f3897fba74bec69719ba7714d2b0da4"
+    }
+  ],
+  "additional_current_policies": [
+    {
+      "path": "governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md",
+      "bytes": 65803,
+      "sha256": "be03600e1a8c8ab79255086ccda116cbd13477f1fd93c552c43aa4c6e1752439"
+    },
+    {
+      "path": ".github/workflows/repository-audit.yml",
+      "bytes": 9532,
+      "sha256": "faf5bbbaf126c6321ab28a20bea86ac936001aab6a856e0ef3b6cc099add114b"
+    },
+    {
+      "path": "characters/README.md",
+      "bytes": 15674,
+      "sha256": "c50a8b0cde3b968e407b6a5f5bca6fb9d531c08f74f142a813cd2b69c9da0851"
+    },
+    {
+      "path": "governance/policies/CHARACTER_DISCOVERY_MAINTENANCE.md",
+      "bytes": 11916,
+      "sha256": "9717136b01ccf17949d433f5ec8079146c0fbd7da9c79ec227ffb1d36fb51a93"
+    },
+    {
+      "path": "governance/policies/CHARACTER_RECONSTRUCTION_MAINTENANCE.md",
+      "bytes": 21524,
+      "sha256": "df8c98d0c8916e9d4e111abd7c5a608961b8025245bbe306c1b0f25fbfba4205"
+    },
+    {
+      "path": "governance/repository-controls/project-initiation-gate.json",
+      "bytes": 4117,
+      "sha256": "c3399168e9cdf619bcd7c965dcedeb7e23e3a7bf4060b97126e6792ff6653fb6"
+    }
+  ],
+  "integrated_owner_import_pins": [
+    {
+      "path": "governance/repository-controls/project-initiation-gate.json",
+      "bytes": 4117,
+      "sha256": "c3399168e9cdf619bcd7c965dcedeb7e23e3a7bf4060b97126e6792ff6653fb6",
+      "exact_integrated_owner_bytes": true
+    },
+    {
+      "path": "governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md",
+      "bytes": 65803,
+      "sha256": "be03600e1a8c8ab79255086ccda116cbd13477f1fd93c552c43aa4c6e1752439",
+      "exact_integrated_owner_bytes": true
+    },
+    {
+      "path": "tools/frozen_publication.py",
+      "bytes": 11617,
+      "sha256": "5bdfa1c3e3fbec2605708c47c621ee1b044a5d4bce158db7964f13f117a4888e",
+      "exact_integrated_owner_bytes": true
+    },
+    {
+      "path": "tools/tests/test-catalog.json",
+      "bytes": 199725,
+      "sha256": "78b1b1caf4624e6b2a596957adc41d2802fae75c0e11d57529ac1c3dc8486f88",
+      "exact_integrated_owner_bytes": true
+    },
+    {
+      "path": "tools/tests/test_analytical_preflight.py",
+      "bytes": 22844,
+      "sha256": "62f10cc94e92919d147060785eb4d2b8c64ef540f50e166c98cbbd9e0240234a",
+      "exact_integrated_owner_bytes": true
+    },
+    {
+      "path": "tools/tests/test_project_initiation_gate.py",
+      "bytes": 103868,
+      "sha256": "8c90068ee492884d2badd54f49f092a4c2630a87371c69d0ac6851bde96b71b7",
+      "exact_integrated_owner_bytes": true
+    },
+    {
+      "path": "tools/validate_repository.py",
+      "bytes": 209676,
+      "sha256": "346d26c2606290f02b893e3290341cbb099089f97a2309d153e0fd8564b0978e",
+      "exact_integrated_owner_bytes": true
+    }
+  ],
+  "authority_reconciliation_qualification": "Frozen foundations retain BB4 published-source and earlier policy authorship pins. Current12plus6policies and seven exact main-import streams are reacquired at4aec1754 via ordinary local merge; no source admission or frozen-generation import applies here.",
+  "prior_C24_postgate7_preserved": [
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_CRIMSON_TRADES_STAFF_COHORT24_PUBLICATION_GATE_CLOSE.json",
+      "before_sha256": null,
+      "after_sha256": "49c7ac821390442474fad4c87a24bfa4799da68f5719f98ff7859702bb56df6d",
+      "bytes": 18562
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_CRIMSON_TRADES_STAFF_COHORT_24_RECEIVING_AND_PROVENANCE.json",
+      "before_sha256": "cb0c40d229f95df6047ee0283285e0e39ff383723303b9b5c217bafdbcaa1453",
+      "after_sha256": "d0f1e24d5b99ca44a9326490cf99d5ea08a18f7c4c3ae3e909a0b7071294c2f8",
+      "bytes": 17478
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json",
+      "before_sha256": "539e74ef3f70c73442f55c33d51aa6cbf9e076e6e6b6aa64995429d858cf1998",
+      "after_sha256": "76f2b5307558e25fa76b2c08a7ad1d76715a71708a813957ab82f96c61e35b46",
+      "bytes": 954659
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md",
+      "before_sha256": "dee18e3e1d411bb92a13854fd591a4467b3a92ba7b07403b413562474f57decc",
+      "after_sha256": "459c2981cf188021c0c44ef5d8d73b2675c2dba5155e2df3373e1bb5823a6684",
+      "bytes": 221598
+    },
+    {
+      "path": "series/konosuba/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "before_sha256": "ecb9cc8826172874850d902fcdcfdc96ba2d6073dc4312426967313f73a42a68",
+      "after_sha256": "86e1b7bf253003d59dc745611fae2d6a8783bca5cfb0d526f1a14f717e22c963",
+      "bytes": 18643
+    },
+    {
+      "path": "series/konosuba/KONOSUBA_PROJECT_CHANGELOG.md",
+      "before_sha256": "f2a301625f2cc652d8c563d21095d3077b777b7b6ed6ccd33e25dc8f8e983538",
+      "after_sha256": "725cea5d37e631b4132b81799d9b74598563431b156f45657190d5979867e40b",
+      "bytes": 830641
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_CONTINUOUS_COMPLETION_RUN_AUDIT.md",
+      "before_sha256": "979e33bc6d45d48e6be1989c4f31d41c1e5bd5ed87021e709b2025899d4895ba",
+      "after_sha256": "134196a8280d2755a8948b2479972a643f5c1e998a723898143062f1b8461bfe",
+      "bytes": 431337
+    }
+  ],
+  "current_table_status_only_corrections": [
+    {
+      "label": "Arue",
+      "before": "| Arue — あるえ; explicit native joins, separate from Nerimaki/rhetorical hit | A01-A13 in [cohort21 index](KONOSUBA_ARUE_SOKETTO_BUKKORORI_EVIDENCE_INDEX.md) | 2 monograph; publication pending; future model open | Classroom/work/gift/creative investment, grievance and intrusion | Generic writer/cultural rivals, private-reasoning gaps and patch contradiction. |",
+      "after": "| Arue — あるえ; explicit native joins, separate from Nerimaki/rhetorical hit | A01-A13 in [cohort21 index](KONOSUBA_ARUE_SOKETTO_BUKKORORI_EVIDENCE_INDEX.md) | 2 monograph; full gate closed; future model open | Classroom/work/gift/creative investment, grievance and intrusion | Generic writer/cultural rivals, private-reasoning gaps and patch contradiction. |",
+      "closed_gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_ARUE_SOKETTO_BUKKORORI_COHORT21_PUBLICATION_GATE_CLOSE.json",
+      "closed_gate_sha256": "4a95e2864e4677f30d33b2de4d8d342e811ceaa77d84629cbe5c7b9b94b61e5f",
+      "source": "6cdc432fc24893957af1717db86982aa9da8b848"
+    },
+    {
+      "label": "Soketto / Socket",
+      "before": "| Soketto / Socket — そけっと; explicit native joins | S01-S10 in [cohort21 index](KONOSUBA_ARUE_SOKETTO_BUKKORORI_EVIDENCE_INDEX.md) | 3 conditional candidate; publication pending; reliability provisional | Finite consultation, preferred-future withholding, conditional service and actual defense | Yunyun current bandaging; no infallibility/marriage/privacy floor; generic rivals/shared endpoint and unprobed branches. |",
+      "after": "| Soketto / Socket — そけっと; explicit native joins | S01-S10 in [cohort21 index](KONOSUBA_ARUE_SOKETTO_BUKKORORI_EVIDENCE_INDEX.md) | 3 conditional candidate; full gate closed; reliability provisional | Finite consultation, preferred-future withholding, conditional service and actual defense | Yunyun current bandaging; no infallibility/marriage/privacy floor; generic rivals/shared endpoint and unprobed branches. |",
+      "closed_gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_ARUE_SOKETTO_BUKKORORI_COHORT21_PUBLICATION_GATE_CLOSE.json",
+      "closed_gate_sha256": "4a95e2864e4677f30d33b2de4d8d342e811ceaa77d84629cbe5c7b9b94b61e5f",
+      "source": "6cdc432fc24893957af1717db86982aa9da8b848"
+    },
+    {
+      "label": "Bukkorori",
+      "before": "| Bukkorori — ぶっころりー; explicit father/shop/patrol joins | B01-B17 in [cohort21 index](KONOSUBA_ARUE_SOKETTO_BUKKORORI_EVIDENCE_INDEX.md) | 3 conditional candidate; publication pending; reliability provisional | Display/access/work/appraisal with skill, harm, limits and error | Father’s promise not son’s; shared first endpoints, unprovided details, strong generic rivals, R03 weak/R04 unprobed. |",
+      "after": "| Bukkorori — ぶっころりー; explicit father/shop/patrol joins | B01-B17 in [cohort21 index](KONOSUBA_ARUE_SOKETTO_BUKKORORI_EVIDENCE_INDEX.md) | 3 conditional candidate; full gate closed; reliability provisional | Display/access/work/appraisal with skill, harm, limits and error | Father’s promise not son’s; shared first endpoints, unprovided details, strong generic rivals, R03 weak/R04 unprobed. |",
+      "closed_gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_ARUE_SOKETTO_BUKKORORI_COHORT21_PUBLICATION_GATE_CLOSE.json",
+      "closed_gate_sha256": "4a95e2864e4677f30d33b2de4d8d342e811ceaa77d84629cbe5c7b9b94b61e5f",
+      "source": "6cdc432fc24893957af1717db86982aa9da8b848"
+    },
+    {
+      "label": "Bukkorori father / unnamed shoe-shop owner",
+      "before": "| Bukkorori father / unnamed shoe-shop owner | I01 EXP01U028/EXP02U023 | 1 compact existing-ledger profile;publication pending | Own work/welcome, care promise and reactive appraisal | No personal name, comparative shoe quality, watched blow sequence or complete future care. |",
+      "after": "| Bukkorori father / unnamed shoe-shop owner | I01 EXP01U028/EXP02U023 | 1 compact existing-ledger profile;full gate closed | Own work/welcome, care promise and reactive appraisal | No personal name, comparative shoe quality, watched blow sequence or complete future care. |",
+      "closed_gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_ARUE_SOKETTO_BUKKORORI_COHORT21_PUBLICATION_GATE_CLOSE.json",
+      "closed_gate_sha256": "4a95e2864e4677f30d33b2de4d8d342e811ceaa77d84629cbe5c7b9b94b61e5f",
+      "source": "6cdc432fc24893957af1717db86982aa9da8b848"
+    },
+    {
+      "label": "Nos/ノス",
+      "before": "| Nos/ノス | Tier2 monograph/index; containing publication pending | Connected narrow contexts, weak ordinary life/long-term evidence; no separate behavioral model |",
+      "after": "| Nos/ノス | Tier2 monograph/index; full gate closed | Connected narrow contexts, weak ordinary life/long-term evidence; no separate behavioral model |",
+      "closed_gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_NOSCOHORT01_PUBLICATION_GATE_CLOSE.json",
+      "closed_gate_sha256": "d77fae35a118b459b5ca1059f66caf193dd1192b60adb7fc271347dfd0f51b2e",
+      "source": "6958c3726a1dc3f9fb505915508af32a2f7e7bae"
+    }
+  ],
+  "prior_preservation_checks": {
+    "entering_models": 31,
+    "current_controls": 12,
+    "C22_8canonical_14private_4firsts": true,
+    "C21_16canonical_24private_8firsts": true,
+    "C20_five_cores": true,
+    "C23_17private_12firsts": true,
+    "immutable": 66,
+    "historical": 72,
+    "scores": 4,
+    "Dust_blank_fields": 14,
+    "SI_SY_null_fields": 28,
+    "scratch_files": 80,
+    "local_native_objects": 8,
+    "current_models": 33,
+    "C23_15canonical_17private_12firsts": true,
+    "C24_3canonical_7private_and_profile_fragment": true,
+    "C25_7frozen_foundations_35delivery_windows": true,
+    "additional_current_policies": 6,
+    "integrated_owner_current_pins": 25,
+    "current_main_import_paths": 7,
+    "local_C25_native_objects": 9
+  },
+  "all33_entering_models_unchanged": true,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "global_census_closed": false,
+  "global_completion_percentage": null,
+  "designated_global_outputs_authored": false,
+  "full_program_complete": false,
+  "prior_C24_progress_hashes_scope": "The seven listed hashes identify the entering reviewed C24 postgate progress. The gate and C24 receiving remain byte-exact in this candidate. Five maintained files receive further scoped C25 updates: C24 closure fields/history are retained, and the replaced map operation is preserved verbatim in the changelog. The seven final candidate files are not all byte-equal to their entering versions."
+}

@@ -1,0 +1,62 @@
+{
+  "schema": "KONOSUBA_CURRENT_FACTUAL_ACTOR_ATTRIBUTION_ERRATUM_V1",
+  "created_utc": "2026-10-20T01:37:10.780416+00:00",
+  "stable_revision": "CR-SECONDARY-MAIN15-PV29-001",
+  "previous_private_provisional_id": "CURRENT_SECONDARY_MAIN15_PV29_ACTOR_ERRATUM_01",
+  "transition": "REVISE_FACTUAL_ACCUSER_PRESERVE_ORIGINAL_JUDGMENTS_BOUNDS_AND_SOURCE_HISTORY",
+  "affected_report": "series/konosuba/02 Sequential Readings/KONOSUBA_V15_DEEP_READING.md",
+  "affected_report_sha256_unchanged": "4def6d40eda5cb620f30c778aee0256d0b7b8542df7c9f6f22be4d4e8bad8edc",
+  "affected_report_line": 699,
+  "affected_record": "PV29 independent original rationale",
+  "affected_humor_route": "U15-126",
+  "original_cell_exact": "| **PV29** · origin producer · primary_four<br>Darkness → Aqua in shared-room conversation; Kazuma beside her<br>C4 before P0248–0255; after P0344–0350<br>Parallel group: PV29 | independent_role_and_cue: Aqua publicly describes the seated pair as flirting P349 though they are examining items; the accusation independently challenges personal dignity.<br>frozen_mapping_or_adjacent_scope: Darkness dignity threat → personal objection<br>role_surface_exclusions: Role is grounded in the accusation and observed activity P329/P333, not in the denial's form.<br>limits_before_form_assignment: One substantive after turn P350; baseline is a different conversation in the same chapter; accusation does not certify actual flirting. | **SUPPORTED** · SPECIFIC_PERSONAL_DENIAL_PRESENT<br>A public accusation of flirting receives a direct denial and concrete account of the actual item-watching activity.<br>Original limits: One complete after response, not a frequency result; external accusation/activity independently establish local dignity stake, without an invented broad privacy norm.<br>Disposition is scoped to this exact original mapping/window. Role-limited or sparse records remain, supported surface need not establish new onset, and adverse directions are not remapped into generic loudness. No acoustic claim. | **PARTIAL_ROLE_LIMITED** · Private romantic/dignity accusation; sparse single denial, prior preference unshown.<br>The ordinary baseline is followed by P350’s denial that she was flirting, correcting Kazuma’s false P349 accusation. This is a personal objection, consistent with the surface mapping, but it is one after turn with no independently established prior privacy preference or equal-membership threat. Neither the false accusation nor the denial licenses a factual flirting claim. Retain the qualified local correspondence without treating it as a complete D02 trial.<br>Original adequacy: See bounded speech/role qualifications in the evaluation and exact original limits. | before: C4P0249「大体こんなもんだろう」<br>after: C4P0350「イチャイチャはしていない」 | P treats the external false accusation as sufficient local dignity antecedent; I retains single-turn and unshown prior privacy-preference limits. Both preserve the direct denial and do not assert actual flirting. |",
+  "accepted_source_recheck": {
+    "schema": "KONOSUBA_ACCEPTED_NATIVE_CURRENT_RECHECK_AND_EXTERNAL_ERRATUM_V1",
+    "recorded_utc": "2026-10-20T00:35:51.208015+00:00",
+    "source_id": "MAIN-15",
+    "native_sha256": "ceae1226aa01421185231c837f542c430bd289489b73276b7086bb3c216ba005",
+    "member": "OEBPS/Text/part0013.xhtml",
+    "member_sha256": "4afb3b30d1e3b61fcc63dd4f9b75ccdc86dc588a360466eb826f33e4a020f3bd",
+    "accepted_principal_alias": "C4",
+    "member_base_p_slots": 520,
+    "actual_current_received_full_base_p_window": [
+      333,
+      352
+    ],
+    "current_recheck_member_slots": 20,
+    "new_unique_native_reading_credit": 0,
+    "new_source_admission": false,
+    "independent_validation": false,
+    "trigger": "MAIN15 paired voice registry PV29 independent original at report line699 attributes the P349 false flirting accusation to Kazuma; producer and surrounding report attribute it to Aqua. Exact native source rechecked to resolve actor.",
+    "findings": [
+      "P333 and P343 explicitly identify Aqua as handing the survey sheets to Kazuma while Darkness examines his equipment. P345-348 explicitly continue Aqua as the actor addressing Kazuma.",
+      "P349 is Aqua's accusation that Kazuma is flirting with Darkness. P350 is Darkness's denial and explanation that she was watching his work. Kazuma is the accused, not the accuser at P349.",
+      "The false-accusation/dignity observation and short target denial remain; correcting the speaker does not establish a neutral baseline, a prior universal privacy norm, a new independent trial, or consensus over the original judgment."
+    ],
+    "proposed_external_qualification": {
+      "provisional_id": "CURRENT_SECONDARY_MAIN15_PV29_ACTOR_ERRATUM_01",
+      "source": "C4P0333-0350",
+      "applies_to_voice_records": [
+        "PV29"
+      ],
+      "applies_to_humor_units": [
+        "U15-126"
+      ],
+      "attribution": "Root current secondary-character audit, exact accepted-local-EPUB base-p recheck after both historic seals/publication",
+      "qualification": "In the independent PV29 rationale, the P349 flirting accusation is Aqua's, not Kazuma's. P333/P343/P345/P348 establish her continuing address; P350 is Darkness's denial. Keep the original rationale, fixed windows, codes, mapping and disagreement unchanged; apply this actor correction externally.",
+      "originals_codes_bounds_windows_unchanged": true
+    },
+    "canonical_report_sha256_before_any_later_uptake": "4def6d40eda5cb620f30c778aee0256d0b7b8542df7c9f6f22be4d4e8bad8edc",
+    "canonical_report_mutated_now": false,
+    "future_canonical_uptake": "Append an attributed external source qualification and route it to voice/evidence homes in the next governed analytical publication; do not silently rewrite the historic independent cell."
+  },
+  "source_recheck_original_sha256": "d242838b5f681bd2ba2e7e8c54974474a2517c220b4b77b7ef5ae450294d357f",
+  "current_qualification": "Aqua makes P349 false flirting accusation; Darkness replies at P350. P333/P343/P345/P348 establish Aqua continuing address. Kazuma is accused, not the accuser in this turn.",
+  "limits": "The actor correction does not establish actual flirting, a neutral baseline, universal privacy preference, new source/independent test, full D02 eligibility, native-human judgment, or consensus over the original paired judgment. Keep the original cell/codes/windows/mapping and disagreement exact.",
+  "canonical_routes": [
+    "08 Evidence and Indexes/KONOSUBA_CLAIM_REVISION_LEDGER.md",
+    "03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+    "08 Evidence and Indexes/KONOSUBA_SOURCE_LOCATOR_INDEX.md"
+  ],
+  "original_bytes_mutated": false
+}

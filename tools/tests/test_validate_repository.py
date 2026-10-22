@@ -30,6 +30,7 @@ from validate_repository import (  # noqa: E402
     G3_BOUND_TREE,
     G3_MANIFEST,
     HAZARD_PREFILTERS,
+    ARCHIVED_PROTECTED_HASHES,
     PROTECTED_HASHES,
     PUBLICATION_PATTERNS,
     SECRET_PATTERNS,
@@ -53,6 +54,7 @@ from validate_repository import (  # noqa: E402
     validate_native_sheets,
     validate_named_whitespace_exceptions,
     validate_protected,
+    validate_routing_branch_scope,
     validate_series_registry,
     validate_study_registry,
     worktree_paths,
@@ -922,29 +924,30 @@ class PhaseValidationTests(unittest.TestCase):
         )
         self.assertEqual(validate_global_index_automation(snapshot, policy), [])
 
-    def test_housekeeping_rejects_restored_character_write_policy(self) -> None:
+    def test_housekeeping_rejects_wider_trigger_token_or_ancestry_gate_removal(self) -> None:
         baseline = worktree_snapshot(ROOT, worktree_paths(ROOT))
         tracked = json.loads(baseline.entries["governance/repository-controls/tracked-file-policy.json"].data)
-        path = "governance/repository-controls/global-index-automation-policy.json"
-        for output in ("characters/registry.jsonl", "CHARACTER_ANALYSIS_INDEX.md"):
-            with self.subTest(output=output):
-                document = json.loads(baseline.entries[path].data)
-                document["allowed_write_paths"].append(output)
+        path = ".github/workflows/global-index-housekeeping.yml"
+        source = baseline.entries[path].data.decode("utf-8")
+        variants = [
+            (source.replace('      - "studies/**"\n', "", 1),
+             "housekeeping must run only after Repository audit completes on series/study branches"),
+            (source.replace("on:\n", "on:\n  schedule:\n    - cron: \"0 7 * * *\"\n", 1),
+             "housekeeping must run only after Repository audit completes on series/study branches"),
+            (source.replace("permissions:\n  contents: write", "permissions:\n  contents: write\n  statuses: write", 1),
+             "housekeeping token must have contents: write only"),
+            (source.replace("    runs-on: ubuntu-24.04", "    runs-on: ubuntu-24.04\n    permissions:\n      contents: write", 1),
+             "housekeeping jobs may not widen permissions or call reusable workflows"),
+            (source.replace("git merge-base --is-ancestor origin/main HEAD", "true", 1),
+             "global index housekeeping workflow missing contract: git merge-base --is-ancestor origin/main HEAD"),
+        ]
+        for changed, expected in variants:
+            with self.subTest(expected=expected):
+                self.assertNotEqual(changed, source)
                 entries = dict(baseline.entries)
-                entries[path] = SnapshotEntry(path, "100644", json.dumps(document).encode("utf-8"))
+                entries[path] = SnapshotEntry(path, "100644", changed.encode("utf-8"))
                 failures = validate_global_index_automation(GitSnapshot(ROOT, "IN_MEMORY", entries), tracked)
-                self.assertIn(f"{path}.allowed_write_paths are not exact", failures)
-
-    def test_housekeeping_rejects_reactivated_character_input(self) -> None:
-        baseline = worktree_snapshot(ROOT, worktree_paths(ROOT))
-        tracked = json.loads(baseline.entries["governance/repository-controls/tracked-file-policy.json"].data)
-        path = "governance/repository-controls/global-index-automation-policy.json"
-        document = json.loads(baseline.entries[path].data)
-        document["source_contracts"]["character_upserts"] = "series/<stable-slug>/.repository/character-registry-upserts.jsonl"
-        entries = dict(baseline.entries)
-        entries[path] = SnapshotEntry(path, "100644", json.dumps(document).encode("utf-8"))
-        failures = validate_global_index_automation(GitSnapshot(ROOT, "IN_MEMORY", entries), tracked)
-        self.assertIn(f"{path}.source_contracts are not exact", failures)
+                self.assertIn(expected, failures)
 
     def test_housekeeping_rejects_character_generation_staging_and_write_allowance(self) -> None:
         baseline = worktree_snapshot(ROOT, worktree_paths(ROOT))
@@ -984,7 +987,7 @@ class PhaseValidationTests(unittest.TestCase):
     def test_repository_audit_requires_every_agent_branch_trigger(self) -> None:
         path = ".github/workflows/repository-audit.yml"
         source = (ROOT / path).read_bytes()
-        for line in (b'      - "codex/**"\n', b'      - "chatgpt/**"\n', b'      - "claude/**"\n'):
+        for line in (b'      - "codex/**"\n', b'      - "chatgpt/**"\n', b'      - "claude/**"\n', b'      - "agent/**"\n'):
             with self.subTest(line=line):
                 self.assertIn(line, source)
                 changed = source.replace(line, b"", 1)
@@ -1094,9 +1097,11 @@ class PhaseValidationTests(unittest.TestCase):
 
     def test_protected_bootstrap_hashes_are_unchanged(self) -> None:
         snapshot = worktree_snapshot(ROOT, worktree_paths(ROOT))
-        self.assertEqual(validate_protected(snapshot), [])
-        for path, expected in PROTECTED_HASHES.items():
+        self.assertEqual(validate_protected(snapshot, ARCHIVED_PROTECTED_HASHES), [])
+        for path, expected in ARCHIVED_PROTECTED_HASHES.items():
             self.assertEqual(hashlib.sha256(snapshot.entries[path].data).hexdigest(), expected)
+        # The archived bytes are the bootstrap evidence the historical G3 check binds.
+        self.assertEqual(sorted(ARCHIVED_PROTECTED_HASHES.values()), sorted(PROTECTED_HASHES.values()))
 
     def test_untracked_worktree_file_cannot_materialize_evidence(self) -> None:
         entry = SnapshotEntry(
@@ -1360,7 +1365,7 @@ class PhaseValidationTests(unittest.TestCase):
         self.assertEqual(update_repository_indexes.ROUTING_OUTPUTS, expected)
         self.assertIs(analytical_preflight.ROUTING_OUTPUTS, update_repository_indexes.ROUTING_OUTPUTS)
         self.assertEqual(validate_repository.GLOBAL_AUTOMATION_WRITE_PATHS, set(expected))
-        # The nightly controller is standalone and hash-bound, so it keeps a bound copy.
+        # The merge script runs standalone from main, so it keeps its own copy.
         self.assertEqual(nightly_integration.GENERATED, expected)
 
     def test_percent_encoded_markdown_paths_decode_before_resolution(self) -> None:
@@ -1692,6 +1697,58 @@ class PhaseValidationTests(unittest.TestCase):
             "worktree bytes cannot establish materialization; use an exact Git index or commit snapshot",
             validate_generated_index(snapshot, "worktree"),
         )
+
+
+class RoutingBranchScopeTests(unittest.TestCase):
+    """A passing analysis-branch audit confines the branch without housekeeping."""
+
+    def setUp(self) -> None:
+        directory = tempfile.TemporaryDirectory()
+        self.addCleanup(directory.cleanup)
+        self.root = Path(directory.name)
+        self.git("init", "-q")
+        self.git("config", "user.name", "Scope Fixture")
+        self.git("config", "user.email", "scope@example.invalid")
+        self.base = self.commit("base", {"series/a/analysis.md": "base\n", "series/registry.json": "[]\n"})
+        self.git("update-ref", "refs/remotes/origin/main", self.base)
+
+    def git(self, *args: str) -> str:
+        return subprocess.run(["git", *args], cwd=self.root, check=True, capture_output=True, text=True).stdout.strip()
+
+    def commit(self, message: str, files: dict[str, str]) -> str:
+        for path, content in files.items():
+            target = self.root / path
+            target.parent.mkdir(parents=True, exist_ok=True)
+            target.write_text(content, encoding="utf-8", newline="\n")
+            self.git("add", "--", path)
+        self.git("commit", "-q", "-m", message)
+        return self.git("rev-parse", "HEAD")
+
+    def test_own_root_routing_and_discovery_outputs_pass(self) -> None:
+        head = self.commit("analysis", {
+            "series/a/analysis.md": "revised\n", "series/registry.json": "[1]\n",
+            "characters/registry.jsonl": "{}\n", "CHARACTER_ANALYSIS_INDEX.md": "# Index\n",
+        })
+        self.assertEqual(validate_routing_branch_scope(self.root, "commit", head, "series/a"), [])
+
+    def test_paths_outside_the_branch_root_fail(self) -> None:
+        head = self.commit("too wide", {"series/b/analysis.md": "x\n", "tools/helper.py": "x\n"})
+        failures = validate_routing_branch_scope(self.root, "commit", head, "series/a")
+        self.assertTrue(any("series/b/analysis.md" in item and "tools/helper.py" in item for item in failures), failures)
+
+    def test_staged_author_preflight_is_confined(self) -> None:
+        (self.root / "README.md").write_text("x\n", encoding="utf-8")
+        self.git("add", "--", "README.md")
+        failures = validate_routing_branch_scope(self.root, "index", None, "series/a")
+        self.assertTrue(any("README.md" in item for item in failures), failures)
+
+    def test_commit_already_on_main_has_nothing_to_confine(self) -> None:
+        self.assertEqual(validate_routing_branch_scope(self.root, "commit", self.base, "series/a"), [])
+
+    def test_only_series_or_study_branches_use_routing_scope(self) -> None:
+        head = self.commit("analysis", {"series/a/analysis.md": "revised\n"})
+        failures = validate_routing_branch_scope(self.root, "commit", head, "agent/a")
+        self.assertTrue(any("series/study branch" in item for item in failures), failures)
 
 
 if __name__ == "__main__":

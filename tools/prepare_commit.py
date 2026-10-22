@@ -140,7 +140,7 @@ def test_temporary_root() -> Iterator[str]:
         yield directory
 
 
-def run_full_checks(root: Path, base: str, test_tmp: str) -> None:
+def run_full_checks(root: Path, test_tmp: str) -> None:
     run_python(
         root,
         "tools/validate_repository.py",
@@ -156,10 +156,6 @@ def run_full_checks(root: Path, base: str, test_tmp: str) -> None:
         "tools/audit_execution.py",
         "--snapshot",
         "index",
-        "--base",
-        base,
-        "--profile",
-        "full",
         overrides={"MANGA_ANIME_TEST_TMP": test_tmp},
     )
 
@@ -238,7 +234,7 @@ def main() -> int:
         )
     if args.full:
         with test_temporary_root() as test_tmp:
-            run_full_checks(root, base, test_tmp)
+            run_full_checks(root, test_tmp)
         level = "full"
     else:
         run_python(root, "-m", "unittest", "tools.tests.test_repository_indexes")
