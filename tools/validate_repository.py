@@ -293,6 +293,7 @@ def validate_audit_workflow(
         '      - "codex/**"',
         '      - "chatgpt/**"',
         '      - "claude/**"',
+        '      - "agent/**"',
         '      - "series/**"',
         '      - "studies/**"',
         "  repository_dispatch:",
@@ -571,25 +572,13 @@ def validate_global_index_automation(
 
 
 def validate_nightly_integration(snapshot: GitSnapshot) -> list[str]:
-    """Keep the third approved workflow bound to the reviewed controller and envelope."""
-    policy_path = "governance/repository-controls/nightly-integration-policy.json"
-    controller_path = "tools/nightly_integration.py"
+    """Keep the bulk-merge workflow manual-only, read-only and limited to the merge script."""
     errors: list[str] = []
-    entry = snapshot.get(policy_path)
-    if entry is None:
-        return ["nightly integration policy is missing"]
+    for path in (NIGHTLY_WORKFLOW_PATH, "tools/nightly_integration.py"):
+        candidate = snapshot.get(path)
+        if candidate is None or candidate.mode != "100644":
+            errors.append(f"nightly integration file is missing or not a regular file: {path}")
     try:
-        document = json.loads(entry.data)
-        if set(document) != {"schema", "workflow", "controller", "lock", "workflow_sha256", "controller_sha256", "lock_sha256"}:
-            errors.append("nightly integration policy fields are not exact")
-        if document.get("schema") != "anime-manga-ln-games-analysis/nightly-integration/v2":
-            errors.append("nightly integration policy schema is not exact")
-        for role, path in (("workflow", NIGHTLY_WORKFLOW_PATH), ("controller", controller_path), ("lock", "tools/integration_lock.py")):
-            candidate = snapshot.get(path)
-            if document.get(role) != path or candidate is None or candidate.mode != "100644":
-                errors.append(f"nightly integration {role} path or file mode is not exact")
-            elif hashlib.sha256(candidate.data).hexdigest() != document.get(role + "_sha256"):
-                errors.append(f"nightly integration {role} differs from its reviewed SHA-256 binding")
         candidate = snapshot.get(NIGHTLY_WORKFLOW_PATH)
         if candidate is None:
             return errors

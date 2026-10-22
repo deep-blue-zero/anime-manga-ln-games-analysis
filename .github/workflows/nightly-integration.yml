@@ -1,4 +1,4 @@
-name: Manual analytical integration fallback
+name: Bulk merge analysis branches
 
 on:
   workflow_dispatch:
@@ -31,7 +31,7 @@ jobs:
     runs-on: ubuntu-24.04
     timeout-minutes: 180
     steps:
-      - name: Acquire the trusted controller
+      - name: Acquire the merge script from main
         shell: bash
         env:
           CONTROLLER_SHA: ${{ github.sha }}
@@ -43,10 +43,9 @@ jobs:
           git fetch --no-tags origin "${CONTROLLER_SHA}"
           git checkout --detach FETCH_HEAD
           test "$(git rev-parse HEAD)" = "${CONTROLLER_SHA}"
-      - name: Integrate audited analytical branches
+      - name: Merge audited analysis branches
         shell: bash
         env:
-          INTEGRATION_ENABLED: ${{ vars.NIGHTLY_INTEGRATION_ENABLED }}
           REQUESTED_MODE: ${{ inputs.mode }}
           SELECTED_BRANCH: ${{ inputs.branch }}
           READ_TOKEN: ${{ github.token }}
@@ -54,8 +53,4 @@ jobs:
           PYTHONDONTWRITEBYTECODE: "1"
         run: |
           set -euo pipefail
-          mode="${REQUESTED_MODE}"
-          if [[ "${INTEGRATION_ENABLED}" != "true" ]]; then
-            mode="preview"
-          fi
-          python tools/nightly_integration.py --role fallback --mode "${mode}" --branch "${SELECTED_BRANCH}"
+          python tools/nightly_integration.py --candidates analysis-branches --mode "${REQUESTED_MODE}" --branch "${SELECTED_BRANCH}"

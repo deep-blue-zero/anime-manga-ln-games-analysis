@@ -9,6 +9,7 @@ on:
       - "codex/**"
       - "chatgpt/**"
       - "claude/**"
+      - "agent/**"
       - "series/**"
       - "studies/**"
   repository_dispatch:

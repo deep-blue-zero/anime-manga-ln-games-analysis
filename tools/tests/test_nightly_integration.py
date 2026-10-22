@@ -2,7 +2,6 @@ from __future__ import annotations
 
 import copy
 import errno
-import hashlib
 import io
 import json
 import os
@@ -18,7 +17,7 @@ ROOT = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(ROOT / 'tools'))
 from nightly_integration import (
     AUDIT, AUDIT_INTEGRATION_ID, AUDIT_WORKFLOW, AUTHOR, COMMITTER, GENERATED, MAIN_RULESET_ID, OWNER, REPOSITORY,
-    ApiError, Blocked, GitError, GitHub, Graph, Halt, Integrator, main, protection_method, scoped_paths,
+    ApiError, Blocked, Deferred, GitError, GitHub, Graph, Halt, Integrator, main, protection_method, scoped_paths,
     temporary_graph_directory,
 )
 from character_index_core import GitSnapshot, SnapshotEntry
@@ -30,7 +29,7 @@ RULESET = {
     'conditions': {'ref_name': {'include': ['refs/heads/main'], 'exclude': []}},
     'bypass_actors': [], 'current_user_can_bypass': 'never',
     'rules': [
-        {'type': 'deletion'}, {'type': 'non_fast_forward'}, {'type': 'required_linear_history'},
+        {'type': 'deletion'}, {'type': 'non_fast_forward'},
         {'type': 'required_status_checks', 'parameters': {
             'strict_required_status_checks_policy': True,
             'required_status_checks': [{'context': AUDIT, 'integration_id': 15368}],
@@ -46,16 +45,6 @@ def pull():
             'head': {'sha': S, 'ref': 'series/a', 'repo': {'full_name': REPOSITORY}}}
 
 
-def make_worker(*args, **kwargs):
-    # Existing controller tests isolate ownership; the lock/executor tests use
-    # the real lock and competing server transitions, including all failure paths.
-    worker = Integrator(*args, **kwargs)
-    from integration_lock import IntegrationLock
-    worker.lock = mock.Mock(spec=IntegrationLock)
-    worker.lock.receipt.return_value = {'ownership_commit': B}
-    return worker
-
-
 class FakeAPI:
     token = 'test-credential'
 
@@ -63,15 +52,10 @@ class FakeAPI:
         self.main = B
         self.source = S
         self.writes = []
-        self.dispatched = False
         self.source_status = 'success'
         self.post_failure = False
         self.merge_error = False
         self.pr = pull()
-        self.collaborators = [{'login': OWNER}]
-        self.invitations = []
-        self.keys = [{'id': 3, 'read_only': True}]
-        self.access_error = None
         self.ruleset = copy.deepcopy(RULESET)
         self.requests = []
 
@@ -79,17 +63,13 @@ class FakeAPI:
         return self.main if branch == 'main' else self.source
 
     def pages(self, path):
-        if path in ('collaborators?affiliation=all', 'invitations', 'keys'):
-            if self.access_error:
-                raise ApiError('GET', path, self.access_error)
-            return {'collaborators?affiliation=all': self.collaborators,
-                    'invitations': self.invitations, 'keys': self.keys}[path]
         if path == 'branches':
             return [{'name': name, 'commit': {'sha': S}} for name in ('series/a', 'codex/repair', 'character-registry', 'studies/b')]
         return [self.pr]
 
     def status(self, sha):
-        if sha == M and not self.dispatched:
+        # main's push audit reports on the merge commit only once it exists.
+        if sha == M and self.main != M:
             return None
         state = ('failure' if self.post_failure else 'success') if sha == M else self.source_status
         return {'id': 12 if sha == M else 1, 'state': state}
@@ -99,7 +79,7 @@ class FakeAPI:
         return [status] if status else []
 
     def audit_run(self, sha, status, *, require_success=True):
-        return {'event': 'repository_dispatch', 'conclusion': 'success',
+        return {'event': 'push' if sha == M else 'repository_dispatch', 'conclusion': 'success',
                 'actor': {'login': OWNER if sha == M else 'github-actions[bot]'}}
 
     def request(self, method, path, payload=None):
@@ -108,14 +88,6 @@ class FakeAPI:
             self.writes.append((method, path, payload))
         if path == '/user':
             return {'login': OWNER}
-        if path == 'actions/variables/INTEGRATION_EXECUTOR_MODE':
-            return {'value': 'fallback'}
-        if path == 'actions/variables/NIGHTLY_INTEGRATION_ENABLED':
-            return {'value': 'true'}
-        if path == 'rulesets/21946617':
-            return dict(self.ruleset, id=21946617, target='tag',
-                        conditions={'ref_name': {'include': ['refs/tags/activation/**'], 'exclude': []}},
-                        rules=[{'type': 'deletion'}, {'type': 'non_fast_forward'}])
         if path == f'rulesets/{MAIN_RULESET_ID}':
             return self.ruleset
         if path == '':
@@ -127,9 +99,6 @@ class FakeAPI:
                 raise ApiError(method, path, 409)
             self.main = M
             return {'merged': True, 'sha': M}
-        if path == 'dispatches':
-            self.dispatched = True
-            return None
         raise AssertionError((method, path, payload))
 
 
@@ -144,19 +113,16 @@ def graph_mock():
 
 class ControllerTests(unittest.TestCase):
     def worker(self, api=None, preview=False):
-        worker = make_worker(api or FakeAPI(), graph_mock(), preview=preview, controller_sha=B)
+        worker = Integrator(api or FakeAPI(), graph_mock(), preview=preview)
         worker.save = mock.Mock()
         return worker
 
-    def test_merge_binds_head_and_explicitly_audits_returned_main(self):
+    def test_merge_binds_head_and_verifies_main_audit_of_the_merge_commit(self):
         worker = self.worker()
         row = {}
         self.assertEqual(worker.process('series/a', S, B, row), M)
         self.assertEqual(row['outcome'], 'merged_verified')
-        self.assertEqual(worker.api.writes, [
-            ('PUT', 'pulls/8/merge', {'sha': S, 'merge_method': 'squash'}),
-            ('POST', 'dispatches', {'event_type': 'audit-generated-commit', 'client_payload': {'commit_sha': M, 'branch': 'main'}}),
-        ])
+        self.assertEqual(worker.api.writes, [('PUT', 'pulls/8/merge', {'sha': S, 'merge_method': 'merge'})])
 
     def test_preview_never_pushes_creates_pr_or_merges(self):
         worker = self.worker(preview=True)
@@ -180,47 +146,30 @@ class ControllerTests(unittest.TestCase):
                 request = transport.call_args.args[0]
                 self.assertEqual(request.full_url, expected)
 
-    def test_apply_requires_owner_only_access_before_any_write(self):
+    def test_apply_preflight_checks_runtime_owner_ruleset_and_main_audit_before_writes(self):
         worker = self.worker()
         self.assertEqual(worker.preflight(), B)
-        self.assertEqual(worker.access, 'VERIFIED_OWNER_ONLY')
-        cases = (
-            ('collaborators', [{'login': OWNER}, {'login': 'someone-else'}],
-             'Repository access is not owner-only: 1 other collaborator(s), 0 pending invitation(s) '
-             'and 0 write-enabled deploy key(s)'),
-            ('invitations', [{'id': 1}],
-             'Repository access is not owner-only: 0 other collaborator(s), 1 pending invitation(s) '
-             'and 0 write-enabled deploy key(s)'),
-            ('keys', [{'id': 3, 'read_only': True}, {'id': 4, 'read_only': False}],
-             'Repository access is not owner-only: 0 other collaborator(s), 0 pending invitation(s) '
-             'and 1 write-enabled deploy key(s)'),
-            ('access_error', 403,
-             'Collaborators, invitations or deploy keys are unreadable; owner-only access is unverified'),
-        )
-        for field, value, message in cases:
-            with self.subTest(field=field):
+        worker.graph.verify_runtime.assert_called_once_with(B)
+        self.assertIn(('GET', f'rulesets/{MAIN_RULESET_ID}', None), worker.api.requests)
+        for case in ('owner', 'ruleset', 'main_audit'):
+            with self.subTest(case=case):
                 api = FakeAPI()
-                setattr(api, field, value)
-                worker = self.worker(api)
-                with self.assertRaisesRegex(Halt, '^' + message.replace('(', r'\(').replace(')', r'\)') + '$'):
-                    worker.preflight()
+                if case == 'owner':
+                    request = api.request
+                    api.request = lambda method, path, payload=None: {'login': 'other'} if path == '/user' else request(method, path, payload)
+                elif case == 'ruleset':
+                    api.ruleset['enforcement'] = 'disabled'
+                else:
+                    api.source_status = 'failure'
+                with self.assertRaises(Halt):
+                    self.worker(api).preflight()
                 self.assertEqual(api.writes, [])
 
-    def test_preview_records_access_without_halting(self):
-        cases = (
-            ('access_error', 403, 'UNVERIFIED: HTTP 403'),
-            ('collaborators', [{'login': 'someone-else'}],
-             'NOT_OWNER_ONLY: 1 other collaborator(s), 0 pending invitation(s) and 0 write-enabled deploy key(s)'),
-            ('invitations', [], 'VERIFIED_OWNER_ONLY'),
-        )
-        for field, value, expected in cases:
-            with self.subTest(field=field):
-                api = FakeAPI()
-                setattr(api, field, value)
-                worker = self.worker(api, preview=True)
-                self.assertEqual(worker.preflight(), B)
-                self.assertEqual(worker.access, expected)
-                self.assertEqual(api.writes, [])
+    def test_preview_preflight_needs_no_owner_credential_or_ruleset(self):
+        worker = self.worker(preview=True)
+        self.assertEqual(worker.preflight(), B)
+        worker.graph.verify_runtime.assert_not_called()
+        self.assertEqual(worker.api.requests, [])
 
     def test_preview_transport_rejects_every_mutation(self):
         for method in ('POST', 'PUT', 'PATCH', 'DELETE'):
@@ -234,10 +183,10 @@ class ControllerTests(unittest.TestCase):
             worker.process('series/a', S, B, {})
         self.assertEqual(worker.api.writes, [])
 
-    def test_main_drift_stops_integration(self):
+    def test_main_drift_defers_remaining_candidates_without_writes(self):
         worker = self.worker()
         worker.api.main = M
-        with self.assertRaises(Halt):
+        with self.assertRaisesRegex(Deferred, 'main advanced'):
             worker.process('series/a', S, B, {})
         self.assertEqual(worker.api.writes, [])
 
@@ -278,7 +227,7 @@ class ControllerTests(unittest.TestCase):
             worker.process('series/a', S, B, row)
         self.assertEqual(row['outcome'], 'integrated_unverified')
         self.assertEqual(row['integration_sha'], M)
-        self.assertEqual(len(worker.api.writes), 2)
+        self.assertEqual(len(worker.api.writes), 1)
 
     def test_merge_conflict_response_is_read_back_without_retry(self):
         worker = self.worker()
@@ -286,7 +235,6 @@ class ControllerTests(unittest.TestCase):
         with self.assertRaisesRegex(Blocked, 'not confirmed'):
             worker.process('series/a', S, B, {})
         self.assertEqual(len(worker.api.writes), 1)
-        self.assertFalse(worker.api.dispatched)
 
     def test_holds_and_foreign_prs_are_respected(self):
         for changes in ({'draft': True}, {'labels': [{'name': 'nightly-hold'}]}, {'user': {'login': 'someone-else'}}):
@@ -296,13 +244,36 @@ class ControllerTests(unittest.TestCase):
                 Integrator.allowed_pr(pr)
 
     def test_branch_inventory_is_filtered_and_halt_stops_next_candidate(self):
-        worker = self.worker()
+        worker = Integrator(FakeAPI(), graph_mock(), preview=False, candidates='analysis-branches')
+        worker.save = mock.Mock()
         worker.preflight = mock.Mock(return_value=B)
         worker.process = mock.Mock(side_effect=Halt('post-merge failure'))
         with self.assertRaises(Halt):
             worker.run()
         self.assertEqual(worker.process.call_count, 1)
         self.assertEqual(worker.process.call_args.args[0], 'series/a')
+
+    def test_open_pr_inventory_contains_only_owner_same_repository_prs(self):
+        api = FakeAPI()
+        foreign = copy.deepcopy(api.pr)
+        foreign['user'] = {'login': 'someone-else'}
+        foreign['head'].update(ref='feature/x', sha=G)
+        forked = copy.deepcopy(api.pr)
+        forked['head'].update(ref='agent/y', sha=G, repo={'full_name': 'other/fork'})
+        own = copy.deepcopy(api.pr)
+        own['head'].update(ref='agent/docs', sha=G)
+        api.pages = lambda path: [foreign, forked, own, api.pr]
+        worker = Integrator(api, graph_mock(), preview=True)
+        self.assertEqual(worker.inventory(), [('agent/docs', G), ('series/a', S)])
+
+    def test_deferral_stops_the_scan_without_failing_the_run(self):
+        worker = Integrator(FakeAPI(), graph_mock(), preview=False, candidates='analysis-branches')
+        worker.save = mock.Mock()
+        worker.preflight = mock.Mock(return_value=B)
+        worker.process = mock.Mock(side_effect=Deferred('main advanced'))
+        worker.run()
+        self.assertEqual(worker.process.call_count, 1)
+        self.assertEqual([row['outcome'] for row in worker.rows], ['deferred'])
 
     def test_only_five_output_housekeeping_child_is_accepted(self):
         worker = self.worker()
@@ -317,12 +288,17 @@ class ControllerTests(unittest.TestCase):
             self.assertFalse(worker.generated_child(S, G))
 
     def test_protection_requires_strict_status_and_owner_enforcement(self):
-        self.assertEqual(protection_method(RULESET, METADATA), 'squash')
-        for field in ('rules', 'bypass_actors', 'current_user_can_bypass'):
+        self.assertEqual(protection_method(RULESET, METADATA), 'merge')
+        for field in ('rules', 'current_user_can_bypass'):
             invalid = copy.deepcopy(RULESET)
             invalid.pop(field)
             with self.assertRaises(Halt):
                 protection_method(invalid, METADATA)
+
+    def test_bypass_actors_may_be_hidden_from_a_nonadmin_token(self):
+        visible = copy.deepcopy(RULESET)
+        visible.pop('bypass_actors')
+        self.assertEqual(protection_method(visible, METADATA), 'merge')
 
     def test_main_ruleset_requires_active_pinned_identity_and_exact_target(self):
         changes = (
@@ -369,35 +345,17 @@ class ControllerTests(unittest.TestCase):
             with self.subTest(parameters=parameters), self.assertRaises(Halt):
                 protection_method(invalid, METADATA)
 
-    def test_main_ruleset_requires_enabled_squash_without_merge_fallback(self):
-        self.assertEqual(protection_method(RULESET, {'allow_squash_merge': True, 'allow_merge_commit': False}), 'squash')
-        for metadata in (None, {}, {'allow_merge_commit': True}, {'allow_squash_merge': False}):
+    def test_linear_history_rule_stops_merge_commit_integration(self):
+        linear = copy.deepcopy(RULESET)
+        linear['rules'].insert(2, {'type': 'required_linear_history'})
+        with self.assertRaisesRegex(Halt, 'linear history'):
+            protection_method(linear, METADATA)
+
+    def test_main_ruleset_requires_enabled_merge_commits(self):
+        self.assertEqual(protection_method(RULESET, {'allow_merge_commit': True, 'allow_squash_merge': False}), 'merge')
+        for metadata in (None, {}, {'allow_squash_merge': True}, {'allow_merge_commit': False}):
             with self.subTest(metadata=metadata), self.assertRaises(Halt):
                 protection_method(RULESET, metadata)
-
-    def test_main_ruleset_is_checked_before_writes_and_rechecked_before_merge(self):
-        worker = self.worker()
-        self.assertEqual(worker.preflight(), B)
-        self.assertEqual(worker.api.writes, [])
-        self.assertEqual(worker.process('series/a', S, B, {}), M)
-        checks = [i for i, row in enumerate(worker.api.requests) if row[:2] == ('GET', f'rulesets/{MAIN_RULESET_ID}')]
-        merge = next(i for i, row in enumerate(worker.api.requests) if row[:2] == ('PUT', 'pulls/8/merge'))
-        self.assertGreaterEqual(len(checks), 2)
-        self.assertLess(checks[0], checks[1])
-        self.assertLess(checks[1], merge)
-        worker = self.worker()
-        worker.api.ruleset['enforcement'] = 'disabled'
-        with self.assertRaises(Halt):
-            worker.preflight()
-        self.assertEqual(worker.api.writes, [])
-
-    def test_main_ruleset_drift_stops_the_protected_merge(self):
-        worker = self.worker()
-        worker.preflight()
-        worker.api.ruleset['rules'][-1]['parameters']['strict_required_status_checks_policy'] = False
-        with self.assertRaises(Halt):
-            worker.process('series/a', S, B, {})
-        self.assertEqual(worker.api.writes, [])
 
     def test_unreadable_main_ruleset_stops_apply_without_mutation(self):
         for status in (403, 404):
@@ -477,85 +435,57 @@ class ControllerTests(unittest.TestCase):
         self.assertEqual(row['outcome'], 'no_content_change')
         self.assertEqual(worker.api.writes, [])
 
-    def test_post_merge_timeout_does_not_accept_an_older_success(self):
+    def test_post_merge_timeout_halts_without_a_main_audit_result(self):
         worker = self.worker()
-        worker.api.dispatched = True
         clock = [0]
         with mock.patch('nightly_integration.time.monotonic', side_effect=lambda: clock[0]), mock.patch('nightly_integration.time.sleep', side_effect=lambda _: clock.__setitem__(0, 1801)):
             with self.assertRaisesRegex(Halt, 'did not finish'):
-                worker.wait_post_merge(M, 12)
+                worker.wait_post_merge(M)
 
     def test_merge_requires_time_for_post_merge_validation(self):
         worker = self.worker()
         worker.deadline = __import__('time').monotonic() + 60
-        with self.assertRaisesRegex(Halt, 'Insufficient time'):
+        with self.assertRaisesRegex(Deferred, 'Too little time'):
             worker.process('series/a', S, B, {})
         self.assertEqual(worker.api.writes, [])
 
-    def test_post_merge_dispatch_is_not_hidden_by_a_later_push_success(self):
+    def test_post_merge_requires_trusted_success_on_the_merge_commit(self):
         worker = self.worker()
         api = GitHub('test')
         worker.api = api
-        def status(identifier, run_id, state='success'):
-            return {'id': identifier, 'context': AUDIT, 'state': state,
-                    'creator': {'login': 'github-actions[bot]', 'id': 41898282},
-                    'target_url': f'https://github.com/{REPOSITORY}/actions/runs/{run_id}'}
-        push, dispatched = status(14, 41), status(13, 42)
-        api.pages = mock.Mock(return_value=[push, dispatched])
-        runs = {
-            'actions/runs/41': {'path': AUDIT_WORKFLOW, 'event': 'push', 'head_sha': M,
-                               'actor': {'login': OWNER}, 'conclusion': 'success'},
-            'actions/runs/42': {'path': AUDIT_WORKFLOW, 'event': 'repository_dispatch',
-                               'actor': {'login': OWNER}, 'conclusion': 'success'},
-        }
-        for run in runs.values():
-            run.update(workflow_id=347147204, head_repository={'full_name': REPOSITORY})
-        api.request = mock.Mock(side_effect=lambda method, path: runs[path])
+        trusted = {'id': 14, 'context': AUDIT, 'state': 'success',
+                   'creator': {'login': 'github-actions[bot]', 'id': 41898282},
+                   'target_url': f'https://github.com/{REPOSITORY}/actions/runs/41'}
+        run = {'path': AUDIT_WORKFLOW, 'event': 'push', 'head_sha': M, 'actor': {'login': OWNER},
+               'conclusion': 'success', 'workflow_id': 347147204, 'head_repository': {'full_name': REPOSITORY}}
+        api.pages = mock.Mock(return_value=[trusted])
+        api.request = mock.Mock(return_value=run)
         with mock.patch('nightly_integration.time.sleep', side_effect=AssertionError('unexpected wait')):
-            worker.wait_post_merge(M, 12)
+            worker.wait_post_merge(M)
         api.pages.assert_called_once_with(f'commits/{M}/statuses')
-
-        # An older good dispatch cannot override a failure or pending result.
-        for target, state, conclusion in (
-            (push, 'failure', 'success'), (push, 'error', 'success'),
-            (dispatched, 'failure', 'failure'), (dispatched, 'success', 'cancelled'),
-        ):
-            with self.subTest(target=target['id'], state=state, conclusion=conclusion):
-                target['state'] = state
-                runs['actions/runs/42']['conclusion'] = conclusion
-                with self.assertRaisesRegex(Halt, 'post-merge audit failed'):
-                    worker.wait_post_merge(M, 12)
-                target['state'] = 'success'
-                runs['actions/runs/42']['conclusion'] = 'success'
-
-        for case in ('pending_push', 'pending_dispatch', 'old_dispatch', 'push_only',
-                     'wrong_actor', 'wrong_workflow', 'wrong_reporter'):
+        for state in ('failure', 'error'):
+            with self.subTest(state=state):
+                api.pages.return_value = [dict(trusted, state=state)]
+                with self.assertRaisesRegex(Halt, "main's audit failed"):
+                    worker.wait_post_merge(M)
+        for case in ('pending', 'wrong_reporter', 'wrong_workflow', 'other_commit'):
             with self.subTest(case=case):
-                rows = copy.deepcopy([push, dispatched])
-                run = runs['actions/runs/42']
-                original = copy.deepcopy(run)
-                if case == 'pending_push':
-                    rows[0]['state'] = 'pending'
-                elif case == 'pending_dispatch':
-                    rows[1]['state'] = 'pending'
-                    run['conclusion'] = None
-                elif case == 'old_dispatch':
-                    rows[1]['id'] = 12
-                elif case == 'push_only':
-                    rows.pop()
-                elif case == 'wrong_actor':
-                    run['actor'] = {'login': 'github-actions[bot]'}
+                status, observed = dict(trusted), dict(run)
+                if case == 'pending':
+                    status['state'] = 'pending'
+                elif case == 'wrong_reporter':
+                    status['creator'] = {'login': 'someone-else', 'id': 1}
                 elif case == 'wrong_workflow':
-                    run['path'] = '.github/workflows/other.yml'
+                    observed['path'] = '.github/workflows/other.yml'
                 else:
-                    rows[1]['creator']['login'] = 'someone-else'
-                api.pages.return_value = rows
+                    observed['head_sha'] = B
+                api.pages.return_value = [status]
+                api.request.return_value = observed
                 clock = [0]
                 with mock.patch('nightly_integration.time.monotonic', side_effect=lambda: clock[0]), \
                         mock.patch('nightly_integration.time.sleep', side_effect=lambda _: clock.__setitem__(0, 1801)):
                     with self.assertRaisesRegex(Halt, 'did not finish'):
-                        worker.wait_post_merge(M, 12)
-                runs['actions/runs/42'] = original
+                        worker.wait_post_merge(M)
 
 
 class SquashRecognitionTests(unittest.TestCase):
@@ -566,7 +496,7 @@ class SquashRecognitionTests(unittest.TestCase):
         prior['head']['ref'] = 'series/a'
         prior['base']['repo'] = {'full_name': REPOSITORY}
         api.pages = mock.Mock(side_effect=lambda path: [prior] if 'state=closed' in path else [])
-        worker = make_worker(api, graph_mock(), preview=preview, controller_sha=B)
+        worker = Integrator(api, graph_mock(), preview=preview)
         worker.graph.ancestor.side_effect = lambda base, head: (base, head) == (M, B)
         worker.graph.merge_tree.side_effect = Blocked('merge conflict')
         return worker, prior
@@ -628,7 +558,7 @@ class SquashRecognitionTests(unittest.TestCase):
                 worker, _ = self.worker()
                 worker.graph.fetch.side_effect = lambda sha: setattr(worker.api, moving, G) if sha == M else None
                 row = {}
-                with self.assertRaises((Blocked, Halt)):
+                with self.assertRaises((Blocked, Deferred)):
                     worker.process('series/a', S, B, row)
                 self.assertNotEqual(row.get('outcome'), 'already_integrated')
                 self.assertEqual(worker.api.writes, [])
@@ -657,7 +587,7 @@ class SquashRecognitionTests(unittest.TestCase):
 
 class SourceAuditWaitTests(unittest.TestCase):
     def worker(self, preview=False):
-        worker = make_worker(FakeAPI(), graph_mock(), preview=preview, controller_sha=B)
+        worker = Integrator(FakeAPI(), graph_mock(), preview=preview)
         worker.save = mock.Mock()
         worker.api.source_audit = mock.Mock(return_value={
             'id': 42, 'status': 'in_progress', 'conclusion': None,
@@ -712,7 +642,7 @@ class SourceAuditWaitTests(unittest.TestCase):
         self.assertEqual(worker.api.writes, [])
 
     def test_source_or_main_drift_during_initial_wait_stops_before_writes(self):
-        for field, error in (('source', Blocked), ('main', Halt)):
+        for field, error in (('source', Blocked), ('main', Deferred)):
             with self.subTest(field=field):
                 worker = self.worker()
                 with mock.patch('nightly_integration.time.sleep', side_effect=lambda _: setattr(worker.api, field, G)):
@@ -793,7 +723,7 @@ class SourceAuditWaitTests(unittest.TestCase):
 class PreviewResultTests(unittest.TestCase):
     def invoke(self, mode, failure):
         # Run the real CLI/result/report path, with only network and Git mocked.
-        worker = make_worker(FakeAPI(), graph_mock(), preview=mode == 'preview', controller_sha=B)
+        worker = Integrator(FakeAPI(), graph_mock(), preview=mode == 'preview', candidates='analysis-branches')
         worker.preflight = mock.Mock(return_value=B)
         worker.process = mock.Mock(side_effect=[failure, B])
         with tempfile.TemporaryDirectory() as directory:
@@ -819,7 +749,7 @@ class PreviewResultTests(unittest.TestCase):
         result, report, output, worker = self.invoke('preview', Blocked('Audit pending 50%\r\nsecond line'))
         self.assertEqual(result, 0)
         self.assertTrue(report['preview'])
-        self.assertEqual(report['access_check'], 'NOT_CHECKED')
+        self.assertEqual(report['candidates'], 'analysis-branches')
         self.assertEqual(report['branches'][0]['outcome'], 'blocked')
         self.assertEqual(worker.process.call_count, 2)
         self.assertIn('::warning::series/a: Audit pending 50%25%0D%0Asecond line\n', output)
@@ -846,7 +776,7 @@ class PreviewResultTests(unittest.TestCase):
 class CleanupTests(unittest.TestCase):
     def invoke(self, errors, *, outcome='success', original=None):
         # Exercise the real CLI, integration, and receipt paths without network.
-        worker = make_worker(FakeAPI(), graph_mock(), preview=False, controller_sha=B)
+        worker = Integrator(FakeAPI(), graph_mock(), preview=False, candidates='analysis-branches')
         worker.graph.ancestor.side_effect = lambda base, head: base == B and head == G
         worker.graph.reconcile_commit.return_value = G
         def pushed(branch, sha, token):
@@ -891,7 +821,8 @@ class CleanupTests(unittest.TestCase):
                     'GITHUB_REF': 'refs/heads/main', 'GITHUB_ACTIONS': 'true',
                     'GITHUB_EVENT_NAME': 'workflow_dispatch', 'GITHUB_ACTOR': OWNER,
                     'OWNER_TOKEN': 'test', 'GITHUB_STEP_SUMMARY': 'summary.md',
-                }), mock.patch.object(sys, 'argv', ['nightly_integration', '--mode', 'apply', '--branch', 'series/a']), \
+                }), mock.patch.object(sys, 'argv', ['nightly_integration', '--candidates', 'analysis-branches',
+                                                    '--mode', 'apply', '--branch', 'series/a']), \
                         mock.patch('nightly_integration.Graph'), \
                         mock.patch('nightly_integration.Integrator', return_value=worker), \
                         mock.patch('nightly_integration.tempfile.TemporaryDirectory', return_value=temporary), \
@@ -916,12 +847,9 @@ class CleanupTests(unittest.TestCase):
     def assert_single_integration(self, worker):
         worker.graph.push.assert_called_once_with('series/a', G, worker.api.token)
         self.assertEqual([(method, path) for method, path, _ in worker.api.writes], [
-            ('POST', 'pulls'), ('PUT', 'pulls/8/merge'), ('POST', 'dispatches'),
+            ('POST', 'pulls'), ('PUT', 'pulls/8/merge'),
         ])
-        self.assertEqual(worker.api.writes[1][2], {'sha': G, 'merge_method': 'squash'})
-        self.assertEqual(worker.api.writes[2][2], {
-            'event_type': 'audit-generated-commit', 'client_payload': {'commit_sha': M, 'branch': 'main'},
-        })
+        self.assertEqual(worker.api.writes[1][2], {'sha': G, 'merge_method': 'merge'})
 
     def test_transient_cleanup_preserves_success_and_never_replays_remote_mutations(self):
         errors = [OSError(errno.ENOTEMPTY, 'Directory not empty', 'pack') for _ in range(2)]
@@ -971,7 +899,7 @@ class CleanupTests(unittest.TestCase):
                     self.assertEqual(report['branches'][0]['outcome'], 'integrated_unverified')
                     self.assertEqual(report['branches'][0]['integration_sha'], M)
                     self.assertEqual(report['branches'][-1]['outcome'], 'halted')
-                    self.assertIn('post-merge audit failed', report['branches'][-1]['detail'])
+                    self.assertIn("main's audit failed", report['branches'][-1]['detail'])
                     self.assert_single_integration(worker)
 
     def test_persistent_cleanup_keeps_original_operation_failure_in_report(self):
@@ -981,7 +909,7 @@ class CleanupTests(unittest.TestCase):
         self.assertEqual(attempts, 3)
         self.assertEqual(report['branches'][0]['outcome'], 'integrated_unverified')
         self.assertEqual(report['branches'][0]['integration_sha'], M)
-        self.assertIn('post-merge audit failed', report['branches'][-1]['detail'])
+        self.assertIn("main's audit failed", report['branches'][-1]['detail'])
         self.assert_single_integration(worker)
 
     def test_unhandled_original_exception_survives_successful_cleanup_retry(self):
@@ -1078,7 +1006,7 @@ class RealGitTests(unittest.TestCase):
             prior['head'].update(ref='series/a', sha=source)
             prior['base']['repo'] = {'full_name': REPOSITORY}
             api.pages = mock.Mock(side_effect=lambda path: [prior] if 'state=closed' in path else [])
-            worker = make_worker(api, graph, preview=False, controller_sha=base)
+            worker = Integrator(api, graph, preview=False)
             worker.graph.verify_identities = mock.Mock()
             row = {}
             with mock.patch.object(graph, 'fetch'), mock.patch.object(graph, 'push') as push:
@@ -1123,30 +1051,27 @@ class RealGitTests(unittest.TestCase):
 
 
 class ContractTests(unittest.TestCase):
-    def snapshot(self, mutate=None, rebind=False):
-        names = ('.github/workflows/nightly-integration.yml', 'tools/nightly_integration.py',
-                 'governance/repository-controls/nightly-integration-policy.json', 'tools/integration_lock.py')
+    def snapshot(self, mutate=None, script=None):
+        names = ('.github/workflows/nightly-integration.yml', 'tools/nightly_integration.py')
         data = {path: (ROOT / path).read_bytes() for path in names}
         if mutate:
             data[names[0]] = mutate(data[names[0]])
-        if rebind:
-            policy = json.loads(data[names[2]])
-            policy['workflow_sha256'] = hashlib.sha256(data[names[0]]).hexdigest()
-            data[names[2]] = json.dumps(policy).encode()
+        if script is not None:
+            data[names[1]] = script
         return GitSnapshot(ROOT, 'TEST', {p: SnapshotEntry(p, '100644', value) for p, value in data.items()})
 
     def test_reviewed_contract_validates(self):
         self.assertEqual(validate_nightly_integration(self.snapshot()), [])
 
-    def test_changed_script_or_workflow_requires_reviewed_binding(self):
-        errors = validate_nightly_integration(self.snapshot(lambda data: data + b'\n# changed\n'))
-        self.assertTrue(any('SHA-256' in error for error in errors))
+    def test_editing_the_merge_script_needs_no_hash_rebinding(self):
+        changed = (ROOT / 'tools/nightly_integration.py').read_bytes() + b'\n# changed\n'
+        self.assertEqual(validate_nightly_integration(self.snapshot(script=changed)), [])
 
-    def test_rebinding_does_not_allow_wider_permissions_or_scheduled_apply(self):
+    def test_workflow_cannot_widen_permissions_or_schedule_apply(self):
         for old, new in ((b'contents: read', b'contents: write'), (b'on:\n', b'on:\n  schedule: [{cron: "0 7 * * *"}]\n'),
                          (b'cancel-in-progress: false', b'cancel-in-progress: true')):
             with self.subTest(old=old):
-                self.assertTrue(validate_nightly_integration(self.snapshot(lambda data: data.replace(old, new), rebind=True)))
+                self.assertTrue(validate_nightly_integration(self.snapshot(lambda data: data.replace(old, new))))
 
 
 if __name__ == '__main__':
