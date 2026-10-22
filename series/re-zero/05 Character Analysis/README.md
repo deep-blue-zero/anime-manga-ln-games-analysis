@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: character_analysis_contract
 scope: SOURCE_GROUNDED_CHARACTER_RECONSTRUCTION
-generation: V0.8
+generation: V0.9
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -23,6 +23,7 @@ Historical boundary: no character monograph was present through V03. V10's added
 | Natsuki Subaru, Japanese main LN V01–V10 | [Integrated model](REZERO_NATSUKI_SUBARU_V01_V10_CHARACTER_MODEL.md), then [separate first fidelity audit](../08%20Audits%20and%20Manifests/REZERO_CHARACTER_RECONSTRUCTION_FIDELITY_AUDIT.md) | MONOGRAPH_READY; local nineteen-dimension nonblind document audit PASS_WITH_BOUND. Bounded reuse subject to this operation's full publication gate, not an independent benchmark/global capability grade or cured person |
 | Otto Suwen, Japanese main LN V01–V13 | [Integrated model](REZERO_OTTO_SUWEN_V01_V13_CHARACTER_MODEL.md), then [separate scoped fidelity review](../08%20Audits%20and%20Manifests/REZERO_OTTO_SUWEN_V01_V13_FIDELITY_REVIEW.md) | MONOGRAPH_READY; local nineteen-dimension same-analyst nonblind document review PASS_WITH_BOUND, its own complete publication gate closed before V14; no inherited/global grade or complete-series claim |
 | Emilia, Japanese main LN V01–V14 | [Integrated model](REZERO_EMILIA_V01_V14_CHARACTER_MODEL.md), then [separate scoped review](../08%20Audits%20and%20Manifests/REZERO_EMILIA_V01_V14_FIDELITY_REVIEW.md) | MONOGRAPH_READY; same-analyst nonblind nineteen-dimension documentary PASS_WITH_BOUND, own complete publication gate before V15; no independent runtime/inherited/global grade |
+| Beatrice, Japanese main LN V01–V15 | [Integrated model](REZERO_BEATRICE_V01_V15_CHARACTER_MODEL.md), then [separate scoped review](../08%20Audits%20and%20Manifests/REZERO_BEATRICE_V01_V15_FIDELITY_REVIEW.md) | MONOGRAPH_READY; actually applied same-analyst nonblind nineteen-dimension documentary PASS_WITH_BOUND; own full publication gate before Garfiel10–15, not independent/runtime/global grade |
 
 For the Subaru model, default is latest reached **terminal E013/death13**. A living action/dialogue task must explicitly select a supported preterminal phase and its knowledge, remembered history, recipient, role and resources. Current Rem cannot answer; generated Kenichi/Naoko are not real parents' present receipt; no E014 arrival, unobserved remedy, active IF-family biography or anime performance is supplied. The model compiles24 derived rules/28 evidence bundles/eight noncanonical probes; it adds no narrative source or canonical generated scene. Master §13 remains readiness owner and five specialist ledgers remain state authorities. Otto's different V01–V13 scope/default and separate publication gate are described below; neither model silently inherits the other's coverage.
 
@@ -48,6 +49,19 @@ Ordinary mayonnaise liking, phase-bound village mornings/study, child play/curio
 
 Twenty historical artifacts, all five owner files,256 current V14 claim formulations and the exact sixty-question/ten-forecast V15 prospect stay unchanged. Only this operation's own full publication gate permits V15; the active continuous V43 run has no ordinary unit pause. Master §13 remains readiness owner; five owners remain conditioning authority.
 
+## Beatrice's bounded reconstruction and review
+
+After V15's gate at98acb720 and Arc04's complete gate at6bce1604, the linked Beatrice15 pair implements the earned person responsibility. Its32bundles/28rules, ordinary/recipient/Japanese/knowledge/failure/refusal controls,19negativecontrols and12 noncanonical applications were actually reviewed across all nineteen dimensions. Forty-seven contextual Japanese reread windows/118868characters and four design-only references do not claim fifteen fresh whole-volume readings. Nine grouped review repairs are recorded in the separate review. Local PASS_WITH_BOUND is same-analyst nonblind documentary, not independent runtime/held-out/global validation.
+
+Default is living E018 at her latest actual month-later party with Petra, after the selected hand/exclusive finite contract, retaining the last established spent reserve rather than inventing a refill. Select historical Meyer, old waiting/library, failed-state care/refusal or earlier recipients explicitly. No Subaru-only erased history, full RBD/tea, Roswaal private terrace threat, Omega coda, completed cure, body-rights transfer, romance certainty or favorite is supplied. Historical Subaru10/Otto13/Emilia14 reviewed bytes/defaults/grades and all24 predecessors/five owners/exact V16 seal stay unchanged.
+
+This pair's own complete publication gate is still distinct from its local review. Only afterward perform Garfiel10–15, then Ram15 and Roswaal15 separately, each its own model/review/full gate before the next/source16. Exact reserved remaining filenames and qualitative abstentions survive in the entering record below; master§13 remains readiness owner. No sixth ledger or separate ordinary/voice/evidence/readiness packet is promoted. Active continuous terminalV43 has no routine model pause.
+
+### Historical entering V15 construction responsibility — complete preimage
+
+The following block is retained verbatim from6bce1604; its description of unimplemented Beatrice files is historical, not current routing.
+
+```markdown
 ## V15 construction responsibility — not implemented artifacts
 
 Current source-facing analysis reaches V15 through its synchronized complete gate; E018 remains alive at the month-later party,17deaths18segments. Source explicitly concludes Arc04. The separate `ARC04_CHECKPOINT` must follow final contributing V15 publication, then four qualitatively earned constructions/reviews in order:
@@ -64,6 +78,7 @@ These filenames reserve responsibility, not links to already existing artifacts.
 Each construction must inspect mature designs as design only, reconcile exact prior Japanese, implement protocol selectors/ordinary/recipient/voice/failure/negative controls and apply a separate scoped nineteen-dimension review. Each operation requires its own full publication gate; local documentary PASS_WITH_BOUND, if actually earned, is not independent runtime or a global grade. Failure requires attributable repair/abstention/readiness revision. Three existing model/review pairs above remain unchanged in bytes, defaults and grades, and their gates are already closed. No global character-registry/curation write, sixth owner or final specialist follows.
 
 V16/nonspine narrative remains unopened. Exact60-question/10-forecast seal279e4a504f39376b8b7083a95841ef28ee10416976c93bc9d69bb20b9bf1b413 stays fixed through checkpoint and four separately gated constructions. Active continuousV43 authorization has no ordinary checkpoint/model pause.
+```
 
 ## Promotion threshold
 

@@ -1,8 +1,8 @@
 ---
 series: RE_ZERO
 artifact_type: project_changelog
-scope: VERBATIM_ENTRYPOINT_HISTORY_THROUGH_V15_AND_ARC04_CHECKPOINT
-generation: V1.9
+scope: VERBATIM_ENTRYPOINT_HISTORY_THROUGH_V15_ARC04_AND_BEATRICE15
+generation: V1.10
 status: canonical
 release_state: append_only_history
 supersedes: []
@@ -635,4 +635,66 @@ Both operation fields therefore nominate `ARC04_CHECKPOINT`. Exact outgoing V16 
 8. Keep the dated V44/V45 acquisition gaps separate from this authorized V43 terminal. Source exhaustion is not published-series completion; acquisition, admission or a terminal extension beyond the authorized boundary requires its own applicable authorization and source-lock review.
 9. Keep supplemental/IF/WN/adaptation awareness separate from opening. Establish witness class and safe `H_pub`/`H_diegetic`/`H_route`/`H_final` before use; no such witness is admitted by this work order, a publication advertisement or a derived model.
 10. Preserve exact named-subject/reference clarity, contrary instances and unsupported coordinates. Historical Subaru10/Otto13/Emilia14 defaults and scoped documentary grades remain unchanged; new rules/probes are not evidence. Global discovery, capability evaluation, housekeeping outputs and protected integration retain their separately governed owners.
+```
+
+## Post-Arc04 Beatrice15 model and separate fidelity review
+
+Arc04's complete gate at6bce1604 follows the closed V15 gate at98acb720. The earned Beatrice15 integrated model and separate review now implement32bundles/28rules/19negativecontrols/12NONCANONICALapplications after47targeted Japanese windows/118868characters. The actually applied same-analyst nonblind nineteen-dimension documentary result is PASS_WITH_BOUND, with nine grouped source-attribution/selector/route repairs; no runtime/independent/held-out/global grade, new source or cure. Her default is living E018 at the latest actual party, with chosen finite bond/last-established spent reserve and distinct earlier/Meyer/recipient states.
+
+This separate operation's own full gate precedes Garfiel10–15, then Ram15/Roswaal15, each separate/full-gated before source16. All24 predecessor artifacts, five owners/master narrative bodies/formal contracts/exact V16 seal remain unchanged; admission43objects/activeV43 remain. The entering map sections below are complete exact preimages from6bce1604, retained as history rather than current instructions.
+
+### Replaced analytical-state block
+
+```markdown
+## Current analytical state
+
+Japanese main-LN analysis is verified through V15 at `98acb7201088307023f6007e2314b44dd8c72897`: complete actual45-member/3995-position consumption,292claims/all256predecessor/60incoming-question/ten-forecast dispositions, synchronized five owners/master and a closed exact-source publication gate. This source-free operation adds the separate [V10–V15 fourth-arc checkpoint](02%20Sequential%20Readings/REZERO_ARC_04_CHECKPOINT.md), not another consumed narrative unit or a revised V15 claim generation. Its twenty bounded consolidation propositions compare requested/supplied help, unequal retained history, created persons, finite distributed resources, changed love, plural settlement and continuing coercion.
+
+The checkpoint's own complete publication gate remains mandatory before the next operation. Both operation fields name `BEATRICE_V01_V15_MODEL_AND_FIDELITY_REVIEW` conditionally on that gate, followed separately by Garfiel10–15, Ram15 and Roswaal15 constructions/reviews, each own full gate before the next/source16. Qualitative readiness/defaults/counterevidence/abstentions remain in master§13 and V15§15; no model or fidelity verdict exists merely because construction is earned. Exact V16 sixty-question/ten-forecast prospect SHA256 `279e4a504f39376b8b7083a95841ef28ee10416976c93bc9d69bb20b9bf1b413` stays unchanged.
+
+Living E018 remains the actual month-later accepted Emilia-knight ceremony/party,17deaths18arrivedsegments. Rescue, three trials, two-site release, book/wager defeat and Rabbit displacement are enacted; no E019/death18, extinction, gate/reserve repair, Rem awakening, full camp RBD/tea, old overnight apology, performed origin telling or held capital ceremony follows. Reader-only Omega/composite/salvage evidence is not cast receipt or a solved full identity map.
+
+All23 prior historical artifacts (15volumes/two checkpoints/three model-review pairs), all five owner files and master claim/person/ordinary/Japanese/prospect bodies are preserved. The historical [Subaru10](05%20Character%20Analysis/REZERO_NATSUKI_SUBARU_V01_V10_CHARACTER_MODEL.md), [Otto13](05%20Character%20Analysis/REZERO_OTTO_SUWEN_V01_V13_CHARACTER_MODEL.md) and [Emilia14](05%20Character%20Analysis/REZERO_EMILIA_V01_V14_CHARACTER_MODEL.md) defaults/reviewed bytes/local same-analyst nonblind documentary PASS_WITH_BOUND grades remain unchanged, not V15 or independent/global certification. Five sole owners remain E018/K495/M317/I262/R086/RT181; no sixth ledger, new field, evidence/ordinary/voice/readiness home or final specialist is warranted by count.
+
+Current protocol opening/selector labels are reconciled from staleV14 routing to verifiedV15; complete old paragraphs survive as history. The preceding map's current-state/work-order sections are preserved verbatim in [project history](REZERO_PROJECT_CHANGELOG.md). Source admission remains43objects/V41exception/datedV44–45gaps; no V16+, supplement/IF/WN/adaptation is opened. Active continuous terminalV43 remains unchanged; neither checkpoint nor model completion is a pause or full-series ending.
+```
+
+### Replaced corpus-architecture block
+
+```markdown
+## Corpus architecture
+
+| Layer | Analytical responsibility | Current state |
+|---|---|---|
+| `00 Frameworks and Methods` | Governing evidence, prospective-freeze, route-state, witness-separation, character reconstruction/fidelity, focalization, Japanese-language, safe-horizon, revision, longitudinal-routing, specialist, and completion rules | analytical methodV0.1; witnessprotocolV0.2; architectureV1.18 EVOLVING; characterprotocolV1.17/currentV15 with stale preimages preserved; four separately gated constructions |
+| `01 Source Lock and Inventory` | Exact witness set, integrity/provenance, edition identity, publication ordering, source-family classification and non-spine awareness | source lockV0.21; admittedV01–V43/V41exception/datedV44–45gaps unchanged; actual reading throughV15; six existing hashes/CRC reverified for source-free checkpoint; no new admission |
+| `02 Sequential Readings` | Main-LN prospective deep readings and source-verified checkpoints | V01–V15/two older checkpoints unchanged; separate V10–V15 Arc04 checkpoint under its own full gate; high-waterV15; V16 unopened/exact60/10 seal fixed through four derived operations |
+| `03 Supplemental and Alternate Witnesses` | Analytical readings of admitted mainline side stories, collections, EX/supplemental material, IF/alternate routes, web-novel witnesses, and other non-spine material | routing contract V0.2 populated; cataloging remains in layer 01; no witness admitted or read yet |
+| `04 Longitudinal Ledgers` | Current claims/revisions, chronology/durability, proposition holders, relationships, characters, institutions, mechanics, ordinary life, Japanese, questions and readiness | masterV1.19 throughV15/current checkpoint readiness; five owners unchanged: institutionV1.12/I262, eventV1.9/E018, knowledgeV1.9/K495, mechanicsV1.8/M317, relationshipV1.6/R086/RT181; schemaV0.20/no field change |
+| `05 Character Analysis` | Protocol-governed character reconstruction only after sufficient longitudinal evidence exists | routerV0.8; historical Subaru10/Otto13/Emilia14 pairs/defaults/reviews unchanged and fully gated. Four earned separate constructions pending after Arc04 checkpoint; no inherited/independent/global grade |
+| `06 Adaptation Analysis` | Anime and later audiovisual comparison as separately labeled witnesses | routing contract populated; no adaptation findings yet |
+| `07 Specialist Synthesis` | Dense questions with independent retrieval responsibility, instantiated only when earned | not instantiated |
+| `08 Audits and Manifests` | Bootstrap and later analytical/source-integrity manifests | historical Subaru first nineteen-dimension audit, Otto and Emilia separate scoped documentary reviews; no four new reviews claimed; source-integrity evidence remains source-lock governed |
+| future `09 Evidence and Indexes` | Claim-evidence, source-locator, character-evidence-coverage, or witness-dependency navigation only after demonstrated retrieval burden | not instantiated; exact candidates and triggers reserved in the synthesis architecture |
+| future `10 Full-Series Synthesis` | Canonical full-series convergence after complete-series or expressly bounded readiness | not instantiated; reserved canonical file `REZERO_FULL_SERIES_SYNTHESIS.md` |
+| `90 Legacy and Superseded` | Materially distinct superseded analysis | not instantiated; no legacy analytical corpus is being imported |
+
+The absence of an unused directory is intentional. Re:Zero should grow by analytical responsibility, not by template symmetry.
+```
+
+### Replaced work-order block
+
+```markdown
+## Current work order
+
+1. Preserve all15 VNN freezes, both older checkpoints, three historical model/review pairs, five owner files and the exact V16 horizon. V15's complete gate at98acb720 is closed; do not redo its source or silently extend an older model's grade.
+2. Close this separate Arc04 checkpoint's complete publication gate: semantic/saved-candidate inspection, exact staged-index author preflight, approved commit, normal push, immutable whole-file readback, actual source audit, completed source-bound housekeeping, final actual-source full audit/reporter/exact success status, then fresh post-status native verification. Literary acceptance and an older green audit do not substitute for this gate.
+3. Only after that gate, execute `BEATRICE_V01_V15_MODEL_AND_FIDELITY_REVIEW`, then separately Garfiel10–15, Ram15 and Roswaal15 in the recorded order. Each must reconcile already-consumed Japanese/design references, implement conditional/ordinary/recipient/voice/failure/refusal/negative controls and actually apply a separate nineteen-dimension scoped review. Construction can fail or require repair; readiness is not a review result. Each operation needs its own full gate before the next.
+4. Keep the exact60-question/ten-forecast V16seal279e4a504f39376b8b7083a95841ef28ee10416976c93bc9d69bb20b9bf1b413 unchanged through all four operations. Only after every required gate may source16 be opened and consumed in admitted Japanese OPF order through full text/image EOF.
+5. Continue prospective atomic transactions through activeV43 without ordinary unit/checkpoint/model confirmation. Source exhaustion is not published-series completion. Preserve actual state/holder/recipient/representation boundaries and genuine blocker reporting.
+6. Maintain current292V15claims and five sole owner responsibilities with ancestry; checkpoint consolidation IDs do not replace narrative claims. Ordinary/Japanese/readiness/routing remain in established homes until an independently demonstrated burden earns a split.
+7. Preserve selected current costs and unknowns: E018alive17deaths18segments, spent reserve/broken gate/dormant Puck/sleeping Rem, unperformed origin telling/old apology/capital ceremony and continuing private threat. No retroactive consent, universal forgiveness or full identity map is generated.
+8. Keep datedV44/V45 gaps separate from the authorizedV43 terminal; new acquisition/admission or terminal expansion requires the applicable authorization/source-lock review.
+9. Keep supplemental/IF/WN/adaptation awareness separate from opening and enforce witness class/safe horizons. No new narrative witness is admitted by a checkpoint, model, advertisement or unresolved question.
+10. Preserve named-subject/reference clarity, counterevidence, abstentions and historical model defaults/local review bounds. Global discovery, capability evaluation, housekeeping and protected integration retain their separately governed owners.
 ```

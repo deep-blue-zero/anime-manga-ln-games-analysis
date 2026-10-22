@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: master_longitudinal_ledger
 scope: CUMULATIVE_MAIN_LIGHT_NOVEL_STATE_THROUGH_V15
-generation: V1.19
+generation: V1.20
 status: canonical
 release_state: mutable_active
 current_source_horizon: V15
@@ -43,16 +43,16 @@ For every new volume, update this file only after the source-facing reading has 
 
 | field | current state |
 |---|---|
-| analytical high-water mark in this synchronized transaction | `V15`, complete gate verified at98acb720; the separate source-free Arc04 checkpoint adds no consumed narrative unit |
-| next candidate | `BEATRICE_V01_V15_MODEL_AND_FIDELITY_REVIEW` only after Arc04's own complete gate; then separately Garfiel10–15/Ram15/Roswaal15, each construction/review/full gate before the next/source16; activeV43 unchanged |
+| analytical high-water mark in this synchronized transaction | `V15`, complete gate98acb720; source-free Arc04 gate6bce1604 complete; Beatrice15 construction/local review adds no primary unit |
+| next candidate | `GARFIEL_V10_V15_MODEL_AND_FIDELITY_REVIEW` only after Beatrice15's own complete gate; then separately Ram15/Roswaal15, each construction/review/full gate before the next/source16; activeV43 unchanged |
 | current claim generation | `RZ-V15-C001`–`RZ-V15-C292`; all256 predecessors individually adjudicated:84 REVISE/86 STRENGTHEN/86 PRESERVE;36 NEW; all60 incoming questions/ten forecasts; complete old V14 claim/entering-V15 horizon bodies preserved |
 | reached event-state boundary | E018 alive after actual month-later knight ceremony/party;17deaths18segments. Principal rescue, three trials, two-site local release, book loss/wager defeat and Rabbit displacement enacted; reader-only Omega coda. No E019/death18, extinction, restored gate/Rem memory, fulfilled origin telling/old apology or held capital ceremony |
 | admitted numbered source range | Japanese `MAIN_LN` V01–V43 under current source lock |
 | unadmitted published gaps | V44–V45 |
 | admitted non-spine witnesses | none |
 | dedicated ledgers promoted | five sole owners: eventV1.9/E018; knowledgeV1.9/K495; mechanicsV1.8/M317; institutionV1.12/I262; relationshipV1.6/R086/RT181. New46K/32M/28I/8R/41RT;33 old R rows retain ancestry,45 stable/140 old transitions unchanged |
-| character models / local review | Subaru10/Otto13/Emilia14 model-review pairs all fully published with unchanged historical defaults/grades; V15 earns four distinct constructions, not implemented models or fidelity verdicts |
-| relationship/specialist syntheses | two older checkpoints unchanged; separate V10–V15 Arc04 convergence/twenty bounded propositions under its own full gate. Existing five owners remain sole homes; no final specialist/full-series convergence or new global grade |
+| character models / local review | Subaru10/Otto13/Emilia14 pairs/defaults/grades unchanged and fully gated; Beatrice15 integrated model/separate actually applied nineteen-dimension same-analyst nonblind documentary PASS_WITH_BOUND, own full gate before Garfiel10–15/Ram15/Roswaal15; no independent/global/runtime grade |
+| relationship/specialist syntheses | three checkpoints unchanged, including V10–V15 Arc04/twenty bounded propositions at completed gate6bce1604. Existing five owners remain sole homes; no final specialist/full-series convergence or new global grade |
 | architecture lifecycle | `EVOLVING` |
 
 ## 2. Predecessor claim revision ancestry
@@ -3901,6 +3901,26 @@ No forecast identifies a named betrayer, promises a cure, supplies an unseen liv
 
 ## 13. Promotion readiness
 
+### Current post-Beatrice15 responsibility review
+
+V15's gate98acb720 and the separate Arc04 gate6bce1604 are complete. The [Beatrice V01–V15 integrated model](../05%20Character%20Analysis/REZERO_BEATRICE_V01_V15_CHARACTER_MODEL.md) and [separate fidelity review](../08%20Audits%20and%20Manifests/REZERO_BEATRICE_V01_V15_FIDELITY_REVIEW.md) now implement her earned responsibility:32bundles/28conditionalrules/all seven axes, ordinary/recipient/Japanese/failure/refusal/knowledge controls,19negativecontrols/12noncanonical applications and nine grouped resolved corrections. Actual same-analyst nonblind nineteen-dimension documentary PASS_WITH_BOUND is not independent/runtime/held-out/global capability or a cured person. Forty-seven contextual Japanese windows/118868characters revisit already-consumed sources, not fifteen new whole-novel readings.
+
+| person / operation | current readiness/default and evidence route | next obligation / abstention |
+|---|---|---|
+| Beatrice V01–V15 | MONOGRAPH_READY now implemented and locally reviewed; living E018 latest actual month-later party with Petra, selected finite contract/last-established spent reserve; model§§2–9/review§§2–6 | own complete publication gate before reuse/progression; older keeper/Meyer/refusal/failed-state care remain selectable; no erased Subaru history/full RBD/tea/private threat/Omega, infinite service, physical rights, romance certainty or invented favorite |
+| Garfiel V10–V15 | MONOGRAPH_READY for construction, next only after Beatrice gate; living E018 actual party with Frederica; V15§15/checkpoint§§6/13 and complete preserved review below | exact earlier Japanese/design/ordinary reading/real-sister/voice/cost/first-current-kill reconciliation plus separate19-dimension review/full gate; no inherited erased murders, full maternal fate or fixed vampire-life law |
+| Ram V01–V15 | MONOGRAPH_READY construction after Garfiel gate; living E018 latest care beside sleeping Rem, missing sister autobiography | older maid/recipient/voice plus changed wish/received denial/finite strike/refusal; no regrown horn, recovered Rem, RBD/private soul or terrace threat receipt; separate actual review/full gate |
+| Roswaal V01–V15 | MONOGRAPH_READY construction after Ram gate; living E018 public party role, own private threat retained; originalA/currentL selected | original disciple/public patron/private recipients/ordinary presentation/defeat/apology/coercion; no descendant consent/interiors, full procedure/immortality, death trigger or Omega; separate actual review/full gate |
+| Subaru10 / Otto13 / Emilia14 | historical implemented pairs retain exact reviewed bytes, defaults and local nonblind documentary grades | not automatically V15, another person, independent/runtime/global or cured; earlier gates are not pending again |
+| other people / dyads / specialists | exact differentiated prior decisions remain in preserved reviews below | no current sleeping Rem reply, all-copy identity, whole-person promotion, sixth owner, final specialist or full-series convergence |
+
+All24 predecessor artifacts/five owner files/master§§2–12/formal audit and reserved schema tails/exact V16 prospect remain unchanged. No new owner or standalone ordinary/voice/evidence/readiness home is earned by model size. This pair's own full gate → Garfiel10–15 → Ram15 → Roswaal15 → source16; each construction/review/full gate separately, activeV43 without routine confirmation/pause. Unknown complete biography/preferences/powers are operational abstentions; failed tests require repair/readiness revision, not invented fidelity.
+
+### Historical post-Arc04 responsibility review — complete exact preimage
+
+The complete replaced current review below is retained verbatim from6bce1604 as history, not a denial of the now implemented pair or a current instruction to redo the checkpoint gate.
+
+```markdown
 ### Current post-Arc04 responsibility review
 
 V15's full publication gate closed at `98acb7201088307023f6007e2314b44dd8c72897` before the separately authored [V10–V15 fourth-arc checkpoint](../02%20Sequential%20Readings/REZERO_ARC_04_CHECKPOINT.md). The checkpoint owns twenty bounded cross-volume consolidation propositions, not292replacement narrative claims, new source consumption or whole-person fidelity. Its own complete gate remains required before the next operation takes effect. High-waterV15, active terminalV43 and the exact V16 sixty-question/ten-forecast seal remain unchanged.
@@ -3917,6 +3937,7 @@ The existing five owner files, all23 prior historical artifacts and master§§2�
 | other persons / relationships / specialists | prior differentiated readiness and operational abstentions unchanged | checkpoint comparisons are not whole-person promotion, Rem reply, final specialist or full-series convergence |
 
 After the checkpoint's own complete gate: Beatrice15 → Garfiel10–15 → Ram15 → Roswaal15 → source16. Each of the four must inspect mature designs as design only, reconcile exact already-consumed Japanese, implement all seven selector axes/ordinary/recipient/voice/failure/refusal/negative controls and actually apply a separate nineteen-dimension scoped review. Each own full gate precedes the next. Unknown full histories/preferences/powers are abstentions rather than perfection requirements; failed checks require attributable repair/readiness revision, not invented fidelity. No new canonical model/review is authored by this checkpoint and no global curation/evaluator is invoked.
+```
 
 ### Historical entering checkpoint review — complete exact preimage
 
@@ -4209,6 +4230,32 @@ The complete replaced§1snapshot below is preserved verbatim from98acb720 as his
 | dedicated ledgers promoted | five sole owners: eventV1.9/E018; knowledgeV1.9/K495; mechanicsV1.8/M317; institutionV1.12/I262; relationshipV1.6/R086/RT181. New46K/32M/28I/8R/41RT;33 old R rows retain ancestry,45 stable/140 old transitions unchanged |
 | character models / local review | Subaru10/Otto13/Emilia14 model-review pairs all fully published with unchanged historical defaults/grades; V15 earns four distinct constructions, not implemented models or fidelity verdicts |
 | relationship/specialist syntheses | two old checkpoints frozen; source explicitly closes Arc04 and earns separate checkpoint AFTER final contributing V15 gate. Named relationship cases expand; no sixth ledger, final specialist or full-series convergence |
+| architecture lifecycle | `EVOLVING` |
+```
+
+### Post-Arc04 Beatrice15 model/review and exact entering snapshot
+
+| operation | source boundary and responsibility | preservation / next gate |
+|---|---|---|
+| Beatrice15 integrated reconstruction and separate local review | V01–V15 unchanged;32bundles/28rules/all seven axes; actual nineteen-dimension same-analyst nonblind documentary PASS_WITH_BOUND after nine grouped repairs;19negativecontrols/12noncanonical applications,47targeted windows/118868characters | all24 predecessors/five owners/master§§2–12/formal contracts/exact V16 seal unchanged; own full gate before Garfiel10–15, then Ram15/Roswaal15 separately before source16; no independent/runtime/global grade/new source/cure; activeV43 unchanged |
+
+The complete replaced§1snapshot follows verbatim from6bce1604 as history, not current routing:
+
+```markdown
+## 1. Current boundary snapshot
+
+| field | current state |
+|---|---|
+| analytical high-water mark in this synchronized transaction | `V15`, complete gate verified at98acb720; the separate source-free Arc04 checkpoint adds no consumed narrative unit |
+| next candidate | `BEATRICE_V01_V15_MODEL_AND_FIDELITY_REVIEW` only after Arc04's own complete gate; then separately Garfiel10–15/Ram15/Roswaal15, each construction/review/full gate before the next/source16; activeV43 unchanged |
+| current claim generation | `RZ-V15-C001`–`RZ-V15-C292`; all256 predecessors individually adjudicated:84 REVISE/86 STRENGTHEN/86 PRESERVE;36 NEW; all60 incoming questions/ten forecasts; complete old V14 claim/entering-V15 horizon bodies preserved |
+| reached event-state boundary | E018 alive after actual month-later knight ceremony/party;17deaths18segments. Principal rescue, three trials, two-site local release, book loss/wager defeat and Rabbit displacement enacted; reader-only Omega coda. No E019/death18, extinction, restored gate/Rem memory, fulfilled origin telling/old apology or held capital ceremony |
+| admitted numbered source range | Japanese `MAIN_LN` V01–V43 under current source lock |
+| unadmitted published gaps | V44–V45 |
+| admitted non-spine witnesses | none |
+| dedicated ledgers promoted | five sole owners: eventV1.9/E018; knowledgeV1.9/K495; mechanicsV1.8/M317; institutionV1.12/I262; relationshipV1.6/R086/RT181. New46K/32M/28I/8R/41RT;33 old R rows retain ancestry,45 stable/140 old transitions unchanged |
+| character models / local review | Subaru10/Otto13/Emilia14 model-review pairs all fully published with unchanged historical defaults/grades; V15 earns four distinct constructions, not implemented models or fidelity verdicts |
+| relationship/specialist syntheses | two older checkpoints unchanged; separate V10–V15 Arc04 convergence/twenty bounded propositions under its own full gate. Existing five owners remain sole homes; no final specialist/full-series convergence or new global grade |
 | architecture lifecycle | `EVOLVING` |
 ```
 

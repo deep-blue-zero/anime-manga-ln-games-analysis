@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: source_lock
 scope: SOURCE_ADMISSION_CONTRACT_AND_CURRENT_INVENTORY_STATE
-generation: V0.21
+generation: V0.22
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -524,6 +524,15 @@ The complete replaced source-summary section follows verbatim from98acb720 as hi
 - **Current execution state:** active continuous terminalV43. E018alive/17deaths18segments after actual rescue, three trials, two-site local release, finite chosen contract/defense, plural settlement and accepted office; reader-only Omega coda. No death18/E019, Rabbit extinction, gate/reserve repair, Rem awakening, full camp RBD/tea, origin telling/old apology or held capital reward ceremony is implied. Sourceverified Arc04 end earns a separate checkpoint, not completed models or full-series synthesis.
 ```
 
+## Post-Arc04 Beatrice15 reconstruction source boundary — no new admission
+
+Arc04's complete gate at `6bce1604e7da9c688737568aaefb971abe4bc9a3` closed before construction. The [Beatrice15 model](../05%20Character%20Analysis/REZERO_BEATRICE_V01_V15_CHARACTER_MODEL.md) and [separate review](../08%20Audits%20and%20Manifests/REZERO_BEATRICE_V01_V15_FIDELITY_REVIEW.md) revisit already-consumed V01–V15 only. Forty-seven actual contextual Japanese windows/118868characters in V02/V03/V06/V09/V10/V11/V12/V14/V15 were delivered at their returned endpoints with exact admitted archive hash/CRC checks; search matches, shortened requests and truncated deliveries were not falsely credited. No new fifteen-volume reread or new primary unit is claimed. Four other series' designs are design references, not literary evidence.
+
+All24 predecessor analytical artifacts, five owners/master narrative bodies and exact V16seal279e4a504f39376b8b7083a95841ef28ee10416976c93bc9d69bb20b9bf1b413 remain unchanged. Local same-analyst nonblind nineteen-dimension documentary PASS_WITH_BOUND does not admit a witness or close full publication. This pair's own gate precedes Garfiel10–15/Ram15/Roswaal15 separately/full-gated before source16. Admission43objects/V41exception/datedV44–45gaps/activeV43 remain; no nonspine, replacement edition, global curation or acquisition.
+
+Complete entering summary from6bce1604, retained verbatim as history:
+
+```markdown
 ## Current source-state summary
 
 - **Acquired/admitted Japanese main LN:** V01-V43 continuous.
@@ -538,3 +547,19 @@ The complete replaced source-summary section follows verbatim from98acb720 as hi
 - **Next source acquisition priority:** Japanese V44 and V45 before the sequential read reaches that boundary.
 - **Next analytical operation:** `BEATRICE_V01_V15_MODEL_AND_FIDELITY_REVIEW` only after the Arc04 checkpoint's own complete gate; then separate Garfiel10–15, Ram15 and Roswaal15 constructions/reviews, each full gate before the next/source16. V16 remains unopened and its exact60/10 seal unchanged.
 - **Current execution state:** active continuous terminalV43. E018alive/17deaths18segments after actual rescue, three trials, two-site local release, finite chosen contract/defense, plural settlement and accepted office; reader-only Omega coda. No death18/E019, Rabbit extinction, gate/reserve repair, Rem awakening, full camp RBD/tea, origin telling/old apology or held capital reward ceremony is implied. Sourceverified Arc04 end earns a separate checkpoint, not completed models or full-series synthesis.
+```
+
+## Current source-state summary
+
+- **Acquired/admitted Japanese main LN:** V01-V43 continuous.
+- **Known published but not acquired/admitted main LN:** V44-V45.
+- **Admitted translations:** none.
+- **Retained non-admitted translation:** English V21, local hash reverified on resumption.
+- **Admitted supplemental/EX/short-story:** none.
+- **Admitted IF/alternate route:** none.
+- **Admitted web novel:** none.
+- **Admitted anime/audiovisual:** none.
+- **Consumed into prospective main-LN analysis:** V01–V15; full V15 gate98acb720 and separate source-free Arc04 gate6bce1604 complete. Beatrice15 model/local scoped review now implemented under its own complete publication gate, not another consumed source. Historical Subaru10/Otto13/Emilia14 pairs retain exact scope/defaults/grades.
+- **Next source acquisition priority:** Japanese V44 and V45 before the sequential read reaches that boundary.
+- **Next analytical operation:** `GARFIEL_V10_V15_MODEL_AND_FIDELITY_REVIEW` only after the Beatrice15 pair's own complete gate; then Ram15/Roswaal15 separately, each construction/review/full gate before the next/source16. V16 remains unopened/exact60-question/ten-forecast seal unchanged.
+- **Current execution state:** active continuous terminalV43. E018alive/17deaths18segments after actual rescue, three trials, two-site local release, finite chosen contract/defense, plural settlement and accepted office; reader-only Omega coda. No death18/E019, Rabbit extinction, gate/reserve repair, Rem awakening, full camp RBD/tea, origin telling/old apology or held capital reward ceremony is implied. The separate Arc04 checkpoint is fully gated; Beatrice15 has local documentary PASS_WITH_BOUND, not independent/global/runtime validation, new primary consumption or completed full-series synthesis.

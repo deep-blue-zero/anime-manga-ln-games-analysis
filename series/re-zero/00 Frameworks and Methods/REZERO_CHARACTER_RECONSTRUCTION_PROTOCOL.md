@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: character_reconstruction_protocol
 scope: SOURCE_GROUNDED_CONDITIONAL_CHARACTER_RECONSTRUCTION
-generation: V1.17
+generation: V1.18
 status: canonical
 release_state: mutable_active
 current_analytical_horizon: V15
@@ -25,7 +25,7 @@ The latest reached endpoint is living V15 E018 after the month-later accepted kn
 
 V13 §15/master §13 earned Otto MONOGRAPH_READY for bounded V01–V13 construction from cross-state development, language accommodation, family/merchant/Fulfhu relations, mixed motives, costs and recipient-conditioned voice. After V13's complete gate, the integrated `05 Character Analysis/REZERO_OTTO_SUWEN_V01_V13_CHARACTER_MODEL.md` and separate `08 Audits and Manifests/REZERO_OTTO_SUWEN_V01_V13_FIDELITY_REVIEW.md` now exist. The same-analyst, scoped nonblind nineteen-dimension document review is PASS_WITH_BOUND, not an independent benchmark or global grade. Its default is living E018 outside the tomb while Emilia begins her renewed first trial; the historical Subaru model/audit retains its different V01–V10 scope/default E013.
 
-V14's full gate at cfd5627ddc4cf26fe5bd05bb1fac3b7eeb23f960 and Emilia14's separate full gate at1a421296e69e547dd9bd017a83a00b9a5d7bc1de both closed before V15. Her implemented V01–V14 model/review retains living E018 FIRST PASS/SECOND START before contents and local same-analyst nonblind nineteen-dimension documentary PASS_WITH_BOUND. Subaru10/Otto13/Emilia14 reviewed bytes/defaults/grades remain historical, not independent runtime, blind benchmark, global grade, cure or V15 certification. After Arc04's own complete gate, Beatrice15 then Garfiel10–15/Ram15/Roswaal15 are four separately earned constructions/reviews, each own complete gate before the next/source16. Readiness is not achieved fidelity. The exact V16 prospect and activeV43 authorization stay fixed; the complete old Emilia-operation paragraph survives in§18.
+V14 and Emilia14 complete gates remain historical. V15's full gate at98acb720 and Arc04's full gate at6bce1604 are complete. The earned Beatrice V01–V15 integrated model and separate actually applied nineteen-dimension same-analyst nonblind documentary review now implement her responsibilities, with local PASS_WITH_BOUND,32bundles/28rules/19negativecontrols/12noncanonical applications and nine grouped corrections. Default is living E018 at her latest actual month-later party, chosen contract/last-established spent reserve; earlier states and unreceived history remain separate. This is not independent/runtime/blind/global validation, cure or a publication receipt. Her own complete gate precedes Garfiel10–15, then Ram15/Roswaal15 separately/full-gated before source16. All24 predecessor artifacts/five owners/master narrative bodies/formal audit contract/exact V16 prospect and activeV43 stay unchanged. Complete preceding opening survives in§18; historical Subaru10/Otto13/Emilia14 reviewed bytes/defaults/grades are not upgraded.
 
 The protocol standardizes **responsibilities, not file count or headings**. A compact monograph may satisfy it when evidence is narrow. A richer packet may divide the responsibilities among current-state, relationship, ordinary-life, voice, evidence, and fidelity artifacts only after each independent retrieval burden is demonstrated.
 
@@ -327,6 +327,8 @@ Emilia's positive private kiss recollection and trust in a NEW departure do not 
 
 Current V15 application after the complete source gate: select living E018 at the named person's latest actual scene, with exact holder/recipient and depleted resources. Emilia has three passes but not perfect history or a performed origin telling; Beatrice has chosen the actual hand/finite contract after real refusal, not romance or infinite reserve; Garfiel lacks his erased counterpart's killing memory; Ram lacks old Rem autobiography despite care. Roswaal privately retains his threat and original continuity without every interlocutor receiving either. Shima's cast-side disappearance and the reader-only composite mechanism are different knowledge states. No death18/E019, Rabbit extinction, gate/horn/Rem restoration, national office, retroactive kiss assent or old overnight apology is generated. Historical models remain selectable only within their reviewed scopes; a V15 response needs explicit reconciliation or abstention. The checkpoint supplies bounded comparison, not four implemented person models or inherited grades.
 
+Current Beatrice15 derived-use reconciliation: the implemented model/review supplies the explicit V01–V15 selector required by the historical V15 paragraph above. Living E018 party default retains chosen finite contract, spent-reserve limit, ordinary friendship and earlier-state/counterevidence controls. Local same-analyst nonblind documentary PASS_WITH_BOUND is not a current model for other people, independent runtime, full publication or cure. No erased history/RBD/tea/private threat/Omega knowledge is granted. Earlier models retain exact reviewed scopes/defaults/grades; three separately earned constructions precede source16 after each complete gate.
+
 ## 18. Readiness and promotion
 
 Readiness remains in `REZERO_MASTER_LONGITUDINAL_LEDGER.md` until independent burden earns another home. The values are:
@@ -378,6 +380,16 @@ The former opening still said currentV14 and described the Emilia gate as pendin
 The latest reached endpoint is E018 alive at Subaru's uninvited Beatrice-library entry. There are still seventeen deaths/eighteen arrived segments; Emilia FIRST PASS/SECOND START, Ram/Puck–Roswaal and Garfiel–Elsa fights only begun. Lost Subaru trial eligibility/collapsed gate, private reconstructed histories, partial friendship, unkept promise, ambiguous kiss and two-site wager condition current use. No completed extraction/evacuation, barrier release, second/third result, cast snow/Rabbit victory or Arc4 end follows. Historical Subaru defaults terminal E013; historical Otto defaults V13 living E018, not an automatically audited V14 surface.
 
 V14's source-facing transaction completed its full gate at cfd5627ddc4cf26fe5bd05bb1fac3b7eeb23f960. The subsequently earned Emilia V01–V14 model and separate scoped fidelity review are now implemented, with local same-analyst nonblind document-level PASS_WITH_BOUND, not independent runtime/blind benchmark/global grade or cure. Her exact default is living E018 FIRST PASS/SECOND START before contents. This separate operation must preserve all20 historical artifacts/five owners/256 claim formulations and the sealed V15 sixty-question/ten-forecast prospect, and close its own full publication gate before V15. No sixth owner, final specialist or Arc4-end freeze is promoted; active continuous V43 authorization is unchanged.
+```
+
+### Post-Arc04 Beatrice15 implementation and preserved entering opening
+
+The Beatrice15 pair satisfies its earned responsibility at local same-analyst nonblind documentary PASS_WITH_BOUND after actual source reconciliation and nineteen-dimension application. Thirty-two bundles/28rules, ordinary/recipient/Japanese/failure/refusal/knowledge controls,19negativecontrols/12noncanonical applications and nine grouped corrections are reviewed, not source evidence or independent/global capability. This operation's complete gate precedes Garfiel10–15, then Ram15/Roswaal15 separately before V16. Master remains readiness owner; no sixth ledger/index or changed formal review contract is needed. All24 predecessors/five owners/master§§2–12/exact V16 seal remain unchanged.
+
+Complete replaced opening from6bce1604, preserved as history rather than current instructions:
+
+```markdown
+V14's full gate at cfd5627ddc4cf26fe5bd05bb1fac3b7eeb23f960 and Emilia14's separate full gate at1a421296e69e547dd9bd017a83a00b9a5d7bc1de both closed before V15. Her implemented V01–V14 model/review retains living E018 FIRST PASS/SECOND START before contents and local same-analyst nonblind nineteen-dimension documentary PASS_WITH_BOUND. Subaru10/Otto13/Emilia14 reviewed bytes/defaults/grades remain historical, not independent runtime, blind benchmark, global grade, cure or V15 certification. After Arc04's own complete gate, Beatrice15 then Garfiel10–15/Ram15/Roswaal15 are four separately earned constructions/reviews, each own complete gate before the next/source16. Readiness is not achieved fidelity. The exact V16 prospect and activeV43 authorization stay fixed; the complete old Emilia-operation paragraph survives in§18.
 ```
 
 ## 19. First mature-character fidelity audit

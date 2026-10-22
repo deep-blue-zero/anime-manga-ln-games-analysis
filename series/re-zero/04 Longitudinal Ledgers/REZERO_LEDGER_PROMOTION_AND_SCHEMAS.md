@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: ledger_architecture
 scope: LONGITUDINAL_LEDGER_PROMOTION_AND_SCHEMA_CONTRACT
-generation: V0.20
+generation: V0.21
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -37,6 +37,8 @@ Post-V14 Emilia model-operation review:36 bundles/28 conditional rules/19 negati
 V15 field-contract review: E018/K495/M317/I262/R086/RT181 represent corrected belief, finite selected contract, sanction versus prevention, continuing displaced life, private original-soul receipt and covert composite control without changing schemas. All256predecessors/60questions/10forecasts and292claims are explicit. New46K/32M/28I/8R/41RT increments preserve ancestry;33oldR rows change/45 remain and all140 old transitions stay unchanged. Master adds28ordinary/28JP, preserves old V14 claim/horizon/person/readiness bodies and22 protected artifacts. Sourceverified Arc04 checkpoint follows complete V15 freeze; then four earned separate constructions/reviews precede V16. No sixth ledger/index, ordinary/voice/readiness home, final specialist or global grade is warranted merely by counts. All reserved exact schemas below remain unchanged.
 
 Post-Arc04 checkpoint field-contract review: the source-free V10–V15 checkpoint adds twenty bounded convergence propositions, not a new VNN claim generation or a current owner. State/holder/causal/power/personal-term distinctions remain retrievable through E018/K495/M317/I262/R086/RT181 and292V15claims. All five owner files and all23 prior frozen analytical artifacts stay unchanged. Master readiness/current routing advances conditionally on the checkpoint's own complete gate to Beatrice15, then separately Garfiel10–15/Ram15/Roswaal15 with actual scoped reviews/full gates before source16. This is qualitative convergence, not inherited fidelity, a new field or an index promoted by count. The exact V16 prospect and every reserved schema below remain unchanged.
+
+Post-Arc04 Beatrice15 field-contract review: Arc04's complete gate at6bce1604 is closed; the earned integrated model/separate review implement32bundles/28rules/all seven axes,19negativecontrols/12noncanonical applications and an actually applied nineteen-dimension local same-analyst nonblind documentary PASS_WITH_BOUND after nine grouped corrections. These are derived responsibilities, not a new claim generation/field or independent/global grade. Forty-seven targeted windows/118868characters revisit consumed sources. All24 predecessors/five owner files/master§§2–12/exact V16seal and every reserved contract below remain unchanged. Routing advances conditionally on this pair's own full gate to Garfiel10–15, then Ram15/Roswaal15 separately before source16. Old checkpoint review above remains its historical entering trigger; no evidence/ordinary/voice/readiness index or sixth ledger is earned by count.
 
 ### Registered exact candidate homes
 
