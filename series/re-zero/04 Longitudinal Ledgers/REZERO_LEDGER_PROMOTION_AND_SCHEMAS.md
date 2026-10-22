@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: ledger_architecture
 scope: LONGITUDINAL_LEDGER_PROMOTION_AND_SCHEMA_CONTRACT
-generation: V0.27
+generation: V0.28
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -24,7 +24,7 @@ At the project-initiation architecture-repair boundary after the V02 freeze, the
 
 `REZERO_MASTER_LONGITUDINAL_LEDGER.md`
 
-The master was backfilled from frozen V01/V02 and now advances through the fully gated V16 source boundary without rewriting earlier freezes. It owns claims/person/ordinary/Japanese/prospect/readiness; institutionV04, event/knowledgeV06, mechanicsV07 and relationshipV09 remain five soleowners. Eight prior model/review pairs including Julius16 remain exact/full-gated; Wilhelm V01–V16 now has an integrated model/separate actually applied nineteen-dimension documentary PASS_WITH_BOUND, with its own gate separate. Crusch/Ferris remain earned but unimplemented/ungraded. Earlier reviews below preserve their named phase decisions, not current defaults. No field contract changes.
+The master was backfilled from frozen V01/V02 and now advances through the fully gated V16 source boundary without rewriting earlier freezes. It owns claims/person/ordinary/Japanese/prospect/readiness; institutionV04, event/knowledgeV06, mechanicsV07 and relationshipV09 remain five soleowners. Nine prior model/review pairs including Wilhelm16 retain exact scopes/defaults/local documentary grades and complete gates. Crusch V01–V16 now has its integrated model and separate actually applied nineteen-dimension same-analyst nonblind documentary PASS_WITH_BOUND; its own full publication gate remains separate. Ferris16 alone remains earned but unimplemented/ungraded before sealed V17. Earlier reviews below preserve their named phase decisions, not current defaults. No field contract changes.
 
 The following candidate sections now define responsibilities that may later split out of the master ledger when independent retrieval/revision burden warrants specialization. They are not unpromoted gaps and do not authorize parallel competing homes.
 
@@ -90,11 +90,17 @@ The [Julius model](../05%20Character%20Analysis/REZERO_JULIUS_JUUKULIUS_V01_V16_
 
 All33 predecessor artifacts, five owner files, master§§2–12/current340claims and exact V17prospect remain unchanged. Master§13 remains readiness owner; ordinary/Japanese and direct source routes remain sufficient. This pair's own complete publication gate precedes Wilhelm16, then Crusch16/Ferris16 serially with their own constructions/reviews/gates, then V17. No schema/reserved-tail/source-admission/owner change or routine pause.
 
-### Post-V16 Wilhelm derived-use review
+### Historical post-V16 Wilhelm derived-use review — full gate subsequently closed
 
 The [Wilhelm model](../05%20Character%20Analysis/REZERO_WILHELM_VAN_ASTREA_V01_V16_CHARACTER_MODEL.md) and [separate fidelity review](../08%20Audits%20and%20Manifests/REZERO_WILHELM_VAN_ASTREA_V01_V16_FIDELITY_REVIEW.md) implement the earned person-use responsibility without a sixth conditioning ledger, new narrative claim generation or competing ordinary/voice/readiness home. Local same-analyst nonblind documentary PASS_WITH_BOUND follows actual source reconciliation, complete saved review/repairs and all nineteen applied dimensions;30bundles/24rules/26negative controls/10noncanonical applications identify the object, not a quota or independent/runtime/global result.
 
 Default remains the interrupted V16 breakfast aftermath, not the earlier garden or an invented E019 location/receipt.35 older artifacts/eight prior pairs/five owners/master§§2–12/340claims/formal and reserved tails/exact V17 prospect remain unchanged. This pair's own complete gate precedes Crusch16, then Ferris16 each own construction/separate review/full gate, then V17. No source/schema/owner change or routine pause.
+
+### Post-V16 Crusch derived-use review
+
+The [Crusch model](../05%20Character%20Analysis/REZERO_CRUSCH_KARSTEN_V01_V16_CHARACTER_MODEL.md) and [separate fidelity review](../08%20Audits%20and%20Manifests/REZERO_CRUSCH_KARSTEN_V01_V16_FIDELITY_REVIEW.md) implement the earned person-use responsibility without a sixth conditioning ledger, new narrative claim generation or competing ordinary/voice/readiness home. Local same-analyst nonblind documentary PASS_WITH_BOUND follows actual source reconciliation, complete saved model/review reading and attributable repairs, all nineteen applied dimensions/28negative controls/10noncanonical applications.30bundles/24rules identify the object, not a quota or independent/runtime/global result.
+
+Default remains memoryless Crusch at the interrupted V16 breakfast/candidate opposition, with own recovery goal and incomplete recovery; no restored autobiography or invented E019 location/receipt.37older artifacts/nine prior full-gated pairs/five owners/master§§2–12/340claims/formal and reserved tails/exact V17 prospect remain unchanged. This pair's own complete gate precedes Ferris16 construction/separate review/full gate, then V17. No source/schema/owner change or routine pause.
 
 ### Registered exact candidate homes
 
