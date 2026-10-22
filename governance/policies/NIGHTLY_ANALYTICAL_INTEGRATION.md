@@ -15,7 +15,7 @@ The owner delegates routine integration to the CI agent. Each scheduled run it:
 2. reconciles a PR that is behind `main` by merging `main` into its branch, and fixes regressions in analysis, character data or code with ordinary commits on that branch;
 3. merges only by running the gate from a fresh checkout of current `main`.
 
-Character discovery and reconstruction PRs are ordinary candidates. The repository audit confines `character-registry` to its two files. The gate accepts reconstruction outputs only from `character-reconstruction`, which may change nothing else. Until the owner accepts reconstruction calibration (`publication_phase: ROUTINE`), the gate leaves every reconstruction PR for the owner.
+Candidates come from `series/`, `studies/`, `agent/` (and the older `codex/`, `chatgpt/` and `claude/`) branches and the `character-registry` and `character-reconstruction` branches. A branch name grants nothing: the gate checks each PR's paths. Character discovery and reconstruction PRs are ordinary candidates. The repository audit confines `character-registry` to its two files. The gate accepts reconstruction outputs only from `character-reconstruction`, which may change nothing else. Until the owner accepts reconstruction calibration (`publication_phase: ROUTINE`), the gate leaves every reconstruction PR for the owner.
 
 ### What waits for the owner
 
@@ -31,7 +31,8 @@ The CI agent also leaves a PR for the owner, by adding the `nightly-hold` label 
 
 - removes or loosens a validation check, test or control value, or would need to in order to pass;
 - changes source admission, rights or provenance boundaries;
-- makes an interpretive or substantively ambiguous change that the evidence does not settle.
+- makes an interpretive or substantively ambiguous change that the evidence does not settle;
+- is a substantive reconstruction PR (a new candidate, supersession or promotion) after calibration is accepted. Only the owner merges a promotion.
 
 Never weaken a check or manufacture a green result. A failing PR is repaired or held, never merged.
 
