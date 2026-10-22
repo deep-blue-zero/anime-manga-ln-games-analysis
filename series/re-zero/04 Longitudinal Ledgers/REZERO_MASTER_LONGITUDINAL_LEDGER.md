@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: master_longitudinal_ledger
 scope: CUMULATIVE_MAIN_LIGHT_NOVEL_STATE_THROUGH_V16
-generation: V1.25
+generation: V1.26
 status: canonical
 release_state: mutable_active
 current_source_horizon: V16
@@ -43,15 +43,15 @@ For every new volume, update this file only after the source-facing reading has 
 
 | field | current state |
 |---|---|
-| analytical high-water mark in this synchronized transaction | V16 source-facing freeze/owners and its complete gate are closed; this derived Julius operation adds no source unit/current claim generation. Earlier V15/Arc04 and seven model/review gates remain closed |
-| next candidate | WILHELM_V01_V16_MODEL_AND_FIDELITY_REVIEW only after this Julius pair's own complete gate; then Crusch16/Ferris16 each separate construction/review/full gate; only then V17 against exact60Q/10P seal53ac9eb4456e84f00e1e2c8fbeef9b2d4910dd2f873f93143652cbc3854c724e; activeV43 |
+| analytical high-water mark in this synchronized transaction | V16 source-facing freeze/owners and complete gate are closed; source-free Julius16 is full-gated. This Wilhelm operation adds no source unit/current narrative claim generation; eight older model/review gates remain closed |
+| next candidate | CRUSCH_V01_V16_MODEL_AND_FIDELITY_REVIEW only after this Wilhelm pair's own complete gate; then Ferris16 separate construction/review/full gate; only then V17 against exact60Q/10P seal53ac9eb4456e84f00e1e2c8fbeef9b2d4910dd2f873f93143652cbc3854c724e; activeV43 |
 | current claim generation | RZ-V16-C001–C340;292 predecessors individually adjudicated:187PRESERVE/74STRENGTHEN/23REVISE/8OPEN,48NEW; all60incoming questions/10forecasts; exact oldV15 claim body/enteringV16 horizon preserved |
 | reached event-state boundary | E018 square death18→actual livingE019 park arrival,19segments; common year/travel/family history before point survives, later square retained bySubaru alone. Narrator十数分 explicitly not yet recognized bySubaru; no strategy/rescue/fullWrath rule atEOF |
 | admitted numbered source range | Japanese MAIN_LN V01–V43 under unchanged source lock; V16 original10591363bytes/SHA81695f7fdb01767a705daf3011f84a20c2ec7cbba658efe173dd5fb32b7756c8,CRCpass |
 | unadmitted published gaps | datedV44–V45 gaps unchanged; no new import narrative admitted |
 | admitted non-spine witnesses | none; V17+/supplement/IF/WN/adaptation/new import report unopened |
 | dedicated ledgers promoted | same five soleowners: eventV2.0/E019; knowledgeV2.0/K545; mechanicsV1.9/M345; institutionV1.13/I294; relationshipV1.7/R104/RT239. New50K/28M/32I/18R/58RT;40oldR advanced with exact preimages,46stable/181oldRT exact |
-| character models / local review | seven historical full-gated pairs retain exact bytes/defaults/local grades; Julius V01–V16 model/separate actually applied nineteen-dimension same-analyst nonblind documentary PASS_WITH_BOUND now implemented, own publication gate separate; Wilhelm/Crusch/Ferris unimplemented/ungraded |
+| character models / local review | eight older full-gated pairs including Julius16 retain exact bytes/scopes/defaults/local grades; Wilhelm V01–V16 model/separate actually applied nineteen-dimension same-analyst nonblind documentary PASS_WITH_BOUND now implemented, own gate separate; Crusch/Ferris unimplemented/ungraded |
 | binding current corrections | Ram nearly-seven-year/nine-year chronology OPEN. CurrentC116/M344 explicitly prohibit oldM178/M236's Frederica→Garfiel speaking/healing inference; frozen wording retained. Roswaal recipient/agency/source qualifications remain |
 | relationship/specialist syntheses | three historical checkpoints unchanged; V16 opensArc5, no arc-endcheckpoint/finalspecialist. Ordinary/voice/readiness staymaster; fiveowners enough, no count-driven index/newfield/globalgrade |
 | architecture lifecycle | EVOLVING; continuous active terminalV43/no ordinary unit or model pause |
@@ -3656,7 +3656,7 @@ No forecast identifies a named betrayer, promises a cure, supplies an unseen liv
 ### Current post-V16 responsibility review
 
 
-The separate Arc04 checkpoint and seven historical model/review pairs completed their gates before this reading. V16 does not extend any old horizon/default/local grade. The thirty-two protected predecessor artifacts remain exact; Ram chronology is OPEN, Garfiel/Frederica attribution correction mandatory. Protocol §18 requires qualitative cross-state, ordinary, relational, voice, failure and abstention coverage, not prominence, symmetry, counts or perfect biography.
+The separate Arc04 checkpoint and eight prior model/review pairs have completed their gates, latest Julius16. Their scopes/defaults/local grades and35 older artifacts remain exact; the V16 source gate is closed. Wilhelm16 is now implemented with its separate local documentary review, not a completed publication gate. Ram chronology stays OPEN; the current Frederica/Garfiel subject correction and Roswaal qualifiers remain mandatory. Protocol§18 requires qualitative cross-state, ordinary, relational, voice, failure and abstention coverage, not prominence, symmetry, counts or perfect biography.
 
 ### Julius Juukulius / ユリウス・ユークリウス
 
@@ -3666,17 +3666,17 @@ The separate Arc04 checkpoint and seven historical model/review pairs completed 
 
 **Operative source/holder distinction:** V04p-026's private protective explanation is available to the analyst/Julius/Marcos/Ferris, not automatically Subaru's full receipt. It does not erase literal class doctrine, excessive injury or discipline. V07qualified apology, V08terminal refusal/steel, V09current trust/Nect costs/covert-Ia apology and V16ordinary/private reciprocity remain different events. No exhaustive motive, universal ideological recantation, RBD/witch knowledge, full family biography, musical virtuosity, unlimited technique, reciprocal romance or later state is supplied.
 
-**Binding next duty:** This pair's own complete exact-commit publication gate before WILHELM_V01_V16_MODEL_AND_FIDELITY_REVIEW, then Crusch16 and Ferris16 each separately constructed/reviewed/full-gated before V17. The preceding V16 construction trigger remains historical, not a new unimplemented Julius obligation.
+**Completed gate / retained scope:** Julius16's own full publication gate is closed. Its V01–V16 scope/latest personally observed garden default/local documentary grade remain unchanged; Wilhelm16 now requires its own separate full gate before Crusch16/Ferris16 and sealed V17.
 
 ### Wilhelm van Astrea / ヴィルヘルム・ヴァン・アストレア
 
-**MONOGRAPH_READY_CONSTRUCTION_NOT_IMPLEMENTED** — WILHELM_V01_V16_MODEL_AND_FIDELITY_REVIEW. V01–V16 admitted main LN; narrator-framed youth, present protective service/revenge, reopened-wound pursuit and failed/attempted family approach, without EX.
+**MONOGRAPH_READY — MODEL_AND_SEPARATE_REVIEW_IMPLEMENTED** for admitted V01–V16 main LN. The [integrated model](../05%20Character%20Analysis/REZERO_WILHELM_VAN_ASTREA_V01_V16_CHARACTER_MODEL.md) and [separate fidelity review](../08%20Audits%20and%20Manifests/REZERO_WILHELM_VAN_ASTREA_V01_V16_FIDELITY_REVIEW.md) supply30source bundles/24conditional rules/26negative controls/10noncanonical applications and an actually applied nineteen-dimension same-analyst nonblind documentary PASS_WITH_BOUND after eight grouped first-draft repairs. Counts identify the artifact, not a promotion quota; no independent/held-out/runtime/global grade.
 
-**Why now:** V07 already supplies ordinary flowers/visits, competing motives, martial cruelty, service/romance/purpose revision, defeat and verbal failure. V09's concealed pursuit and self-disposability now join V16 intimate reflective mentorship, admitted grave words/avoidance, domestic failure, help-seeking and interrupted grandson repair. This permits more than an ideal-mentor or husband-only sketch.
+**Default selection:** Latest personally observed V16 interrupted breakfast aftermath: actual cooking-help request/response, Heinkel intrusion and explicitly unreconciled dispersal. Not the earlier serene garden or an invented E019 location/receipt.
 
-**Default selection:** Latest V16 breakfast aftermath, actual first cooking request/response then Heinkel/Priscilla interruption and dispersed meal; not the earlier serene garden as a permanently repaired endpoint.
+**Operative source/holder distinctions:** Actual young cruelty/prodigy, changed protective purposes, positive Theresia love, missed words and coercive anecdote remain together. Teaching/shared help has real limits; the request for wisdom/strength belongs to Subaru. Earlier acknowledgment of Reinhard's no fault/ill intent remains beside later allegations. Private wound account is a reason to verify, not a witnessed living wife; trial figures/private Julius report are not new Wilhelm receipts. Analyst silence does not impose amnesia about his own past. No complete three-regret/family list, proved grandson guilt, universal consent/skill/cure or performed reconciliation is supplied.
 
-**Operational abstentions:** Three regrets not all named; no proved grandson guilt, complete family history, live Theresia, decoded reopened wound, full marriage diary, EX history, universal agency or forgiveness.
+**Binding next duty:** This pair's own complete exact-commit publication gate before CRUSCH_V01_V16_MODEL_AND_FIDELITY_REVIEW, then Ferris16 separately constructed/reviewed/full-gated before sealed V17. Julius16's completed gate does not certify Wilhelm.
 
 ### Crusch Karsten / クルシュ・カルステン
 
@@ -3716,9 +3716,9 @@ The separate Arc04 checkpoint and seven historical model/review pairs completed 
 
 **schemas:** No new field contract or reserved candidate-tail change.
 
-**next:** Julius16 own complete publication gate → Wilhelm16 construction/separate review/full gate → Crusch16 → Ferris16, each own complete gate → V17; V16 source gate is complete, continuous active terminal V43/no routine pause.
+**next:** Wilhelm16 own complete publication gate → Crusch16 construction/separate review/full gate → Ferris16 construction/separate review/full gate → V17; V16/Julius16 gates are complete, continuous active terminal V43/no routine pause.
 
-The V16 trigger earned four constructions; Julius is now implemented with its separately applied local documentary review, while Wilhelm16/Crusch16/Ferris16 remain unimplemented/ungraded. Each remaining person needs its own model, actual scoped review and complete gate. This Julius operation's full gate is a separate prerequisite for Wilhelm, not supplied by artifact existence or local PASS_WITH_BOUND. V17 remains unopened against the exact V16 reading's §16 prospect; both map operation fields select Wilhelm conditionally on the Julius gate. No new source admission, owner/index/field, global curation/evaluator write, ordinary pause or full-series completion follows.
+The V16 trigger earned four constructions. Julius16 is full-gated with its historical reviewed scope/default/local grade unchanged. Wilhelm16 now has its model and separately actually applied local documentary PASS_WITH_BOUND, but its own complete gate remains a prerequisite for Crusch16. Crusch16/Ferris16 remain earned but unimplemented/ungraded; each needs construction, actual scoped review and a separate full gate before unopened V17. Both map operation fields select Crusch conditionally on Wilhelm's gate. Exact V17 prospect,35 older artifacts/five owners/current340claims and formal/reserved tails remain unchanged; no new admission/owner/index/field/global grade or ordinary pause.
 
 
 ### Historical post-Roswaal15 responsibility review — prior implementation boundary, not latest source state

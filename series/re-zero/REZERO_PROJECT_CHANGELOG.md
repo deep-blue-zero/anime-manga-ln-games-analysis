@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: project_changelog
 scope: VERBATIM_ENTRYPOINT_AND_MASTER_HISTORY_THROUGH_V16
-generation: V1.15
+generation: V1.16
 status: canonical
 release_state: append_only_history
 supersedes: []
@@ -1902,4 +1902,490 @@ Source path: `series/re-zero/00 Frameworks and Methods/REZERO_SYNTHESIS_ARCHITEC
 
 ````````````markdown
 An earned separately pending construction/review is binding, not permission to skip a gate. Predecessor Roswaal15c3dd17c4 and earlier operations are full-gated/closed. Current V16 candidate requires its own complete gate, then Julius16→Wilhelm16→Crusch16→Ferris16, each construction/separate scoped review/full gate, then unopenedV17 against exactseal53ac9eb4456e84f00e1e2c8fbeef9b2d4910dd2f873f93143652cbc3854c724e. Both map fields/master§13 agree on Julius16 conditionally after V16. Keep Ram chronologyOPEN/currentC116/M344subjectcorrection/Roswaalqualifiers;32old artifacts/seven scopes/defaults/grades and activeV43 exact. No ordinary pause.
+````````````
+
+## Post-V16 Wilhelm source-free construction and separate local fidelity review
+
+Julius16's complete gate is closed. The earned Wilhelm V01–V16 model and actually applied separate nineteen-dimension same-analyst nonblind documentary review now return local PASS_WITH_BOUND after eight grouped first-draft repairs.30source bundles/24conditional rules/26negative controls/10noncanonical applications identify the object, not a readiness quota. No independent/held-out/runtime/global grade. This pair's own complete gate precedes Crusch16 then Ferris16, each separately constructed/reviewed/full-gated before sealed V17.
+
+Twenty-eight bounded Japanese deliveries/1949TEXTpositions/81813characters in already-consumed V04/V05/V07/V08/V09/V12/V16 are targeted reconciliation, not seven fresh whole-novel rereads or a new claim generation. V12 is a represented-versus-actual receipt check. Default is interrupted breakfast aftermath, not the earlier serene garden/E019 placement. Actual cruelty/prodigy, protective change, explicit Theresia love, unspoken words/forceful anecdote, finite skill, misreading and received help coexist. Earlier no-fault acknowledgment remains counterevidence to later accusation; first cooking reply is not performed forgiveness. Analyst silence does not impose own-history amnesia; no complete regret/family list, living-wife/wound mechanism or universal consent/agency is supplied.
+
+All35 older artifacts/eight prior pairs/scopes/defaults/local grades, five owners/master§§2–12/340claims/formal/reserved tails/exact outgoing V17 prospect remain unchanged. Ram chronology staysOPEN; C116/M344's Frederica-subject correction and Roswaal qualifiers remain mandatory. Both current map fields select Crusch conditionally on Wilhelm's full gate. No new source admission, owner/index/field/specialist, global curation/evaluator write, V17 opening or ordinary pause.
+
+## Pre-Wilhelm Julius16 entrypoint snapshot — historical, not current instructions
+
+Complete entering map from c7706eefc4ab6b83921d68db88420cb737986922, preserved verbatim under project-initiation policy§3.5. Its then-pending Julius/Wilhelm conditions describe that moment, not a new unclosed Julius gate or present next operation. Current routing remains in the maintained map/master§13/protocol§18; exact live Git/audit evidence owns publication receipts.
+
+````````````markdown
+---
+series: RE_ZERO
+artifact_type: corpus_map
+scope: SERIES_BOOTSTRAP_AND_ANALYTICAL_ROUTING
+generation: V0.32
+status: canonical
+release_state: mutable_active
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+---
+
+# Re:ZERO -Starting Life in Another World- — current state and corpus map
+
+This is the canonical first read for the Git-side Re:Zero analytical corpus.
+
+```yaml
+project_initialization:
+  status: canonical
+  architecture_lifecycle: EVOLVING
+  governing_method: 00 Frameworks and Methods/REZERO_ANALYTICAL_METHOD.md
+  synthesis_architecture: 00 Frameworks and Methods/REZERO_SYNTHESIS_ARCHITECTURE.md
+  character_reconstruction_protocol: 00 Frameworks and Methods/REZERO_CHARACTER_RECONSTRUCTION_PROTOCOL.md
+  supplemental_witness_catalog: 01 Source Lock and Inventory/REZERO_SUPPLEMENTAL_WITNESS_CATALOG.md
+  method_status: canonical
+  architecture_status: canonical
+  source_reconnaissance_complete: true
+  required_day_one_infrastructure_initialized: true
+  required_day_one_infrastructure:
+    - 04 Longitudinal Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md
+  sequential_analysis_lock: OPEN
+  next_permitted_operation: WILHELM_V01_V16_MODEL_AND_FIDELITY_REVIEW
+```
+
+```yaml
+sequential_execution:
+  mode: continuous_sequential
+  unit_type: main_light_novel_volume
+  authorized_start: V03
+  terminal_boundary: V43
+  committed_high_water_mark: V16
+  next_candidate_operation: WILHELM_V01_V16_MODEL_AND_FIDELITY_REVIEW
+  confirmation_between_units: false
+  run_state: active
+```
+
+## Authority split
+
+- **GitHub is the analytical authority** for methods, source-routing decisions, sequential readings, longitudinal ledgers, character analysis, adaptation analysis, specialist synthesis, and analytical audits promoted under `series/re-zero/`.
+- **Primary-source media do not belong in this Git root.** Japanese light-novel files, audiovisual media, scans, extracted text, and other source-bearing objects remain in the governed evidence plane unless a policy explicitly admits a reference representation.
+- **The current source lock admits the acquired Japanese main-light-novel spine V01-V43.** Exact file identity, integrity, Drive provenance, alternate-edition handling, the bounded post-manifest V41 hash override, and known current acquisition gaps are recorded in `01 Source Lock and Inventory/REZERO_SOURCE_LOCK_AND_INVENTORY.md`. The lock does not claim complete-to-date possession: published Japanese V44 and V45 are not present in the live governed folder.
+- Local workspaces are working environments, not authority, until an artifact is promoted through the governed Git route.
+
+## Current analytical state
+
+Japanese main-LN prospective analysis reaches the [V16 deep reading](02%20Sequential%20Readings/REZERO_LN_V16_DEEP_READING.md) and its synchronized five-owner/master state. The source-facing facts and next responsibilities are summarized here; Git history, immutable exact-file readback and trusted audit statuses own publication receipts. Follow the complete gate dependencies in the work order before executing the next candidate.
+
+The exact Japanese V16 original was fully consumed in OPF order:39members/77actual deliveries/3805positions=3773TEXT+32IMAGEreferences,22unique spine assets, zero gaps/duplicates; main narrative EOFp-020#B0215 and final publisher logop-bookwalker#B0001. The separate unreferenced distribution advert is excluded packaging, not a source instruction. Source10591363bytes/SHA81695f7fdb01767a705daf3011f84a20c2ec7cbba658efe173dd5fb32b7756c8/CRCpass; no source admission or later opening.
+
+Current340claims incorporate292individual predecessor dispositions:187PRESERVE/74STRENGTHEN/23REVISE/8OPEN plus48NEW. All60incoming questions/10forecasts are adjudicated, not retrospectively predicted. E018 ends at square death18 and actual park arrival instantiates livingE019,19segments. Common year/travel/family history survives before point; onlySubaru retains the later square. Narrator十数分 timing is explicitly not yet recognized bySubaru. CurrentC116/M344 prohibit the old Frederica→Garfiel speaking/healing inference; exact older wording/history remains recoverable. Ram chronology staysOPEN.
+
+Five soleowners/master remain sufficient: eventV2.0/E019, knowledgeV2.0/K545, mechanicsV1.9/M345, institutionV1.13/I294, relationshipV1.7/R104/RT239; new50K/28M/32I/18R/58RT,40oldR advanced with preimages,46stable/181oldRT exact. All33 older artifacts, including the V16 freeze and seven historical model/review pairs, retain exact bytes/defaults/local grades. V16 reconciliation is not expanded documentary fidelity, independent/runtime/global validation or a cure.
+
+V16's full gate is complete. The independently earned [Julius V01–V16 model](05%20Character%20Analysis/REZERO_JULIUS_JUUKULIUS_V01_V16_CHARACTER_MODEL.md) and [separate fidelity review](08%20Audits%20and%20Manifests/REZERO_JULIUS_JUUKULIUS_V01_V16_FIDELITY_REVIEW.md) now implement32evidence bundles/24conditional rules/26negative controls/12noncanonical applications, with actually applied nineteen-dimension same-analyst nonblind documentary PASS_WITH_BOUND after ten grouped repairs. Its default is the latest personally observed prepark garden p-017#B0423–0430, not an invented E019 location/receipt. This pair's own complete publication gate is separate; only then execute Wilhelm16, Crusch16 and Ferris16, each own construction/separate review/full gate, before V17. Those three remain unimplemented/ungraded; other people retain narrower cases. No Arc5-endcheckpoint, sixthowner/newfield/count-drivenindex, independent/runtime/global grade or routine pause.
+
+## Governing method and retrieval route
+
+Read in this order for new Re:Zero analytical work:
+
+1. `CURRENT_STATE_AND_CORPUS_MAP.md`
+2. `00 Frameworks and Methods/REZERO_ANALYTICAL_METHOD.md`
+3. `00 Frameworks and Methods/REZERO_SYNTHESIS_ARCHITECTURE.md`
+4. `00 Frameworks and Methods/REZERO_ROUTE_AND_WITNESS_PROTOCOL.md`
+5. `00 Frameworks and Methods/REZERO_CHARACTER_RECONSTRUCTION_PROTOCOL.md` for character promotion, reconstruction, or fidelity work;
+6. `01 Source Lock and Inventory/REZERO_SUPPLEMENTAL_WITNESS_CATALOG.md` for non-spine discovery or acquisition work;
+7. `01 Source Lock and Inventory/REZERO_SOURCE_LOCK_AND_INVENTORY.md`
+8. `04 Longitudinal Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md`
+9. the immediately prior frozen sequential reading's claim ledger and outbound question set;
+10. only the additional character, supplemental, adaptation, promoted-ledger, or specialist artifact required for the task.
+
+The intended primary semantic anchor is the **Japanese light novel**, within the exact admitted source range. Translations may be convenience witnesses; wording-sensitive claims return to Japanese. Anime, web-novel material, IF/alternate routes, side stories, bonus stories, game material, guidebooks, interviews, and other supplements do not silently overwrite main-light-novel findings.
+
+## Why Re:Zero needs a route-aware method
+
+The project must preserve more than ordinary chronology. Whenever the text presents repeated, reset, branching, failed, counterfactual, or otherwise non-identical event states, analysis must keep separate:
+
+- what occurred in a particular event-state or iteration;
+- what remains true in the currently active narrative state;
+- what a focal character remembers or has learned across states;
+- what other characters locally know in that state;
+- what the reader has learned from states that characters may not share;
+- which behaviors repeat under similar conditions and which depend on changed information;
+- what later success owes to information, sacrifice, rehearsal, coercion, luck, or altered circumstances from earlier attempts.
+
+A discarded or superseded event-state can remain highly probative character evidence without being treated as a durable event in the active world-state. Conversely, a later successful sequence does not erase the experiential or interpretive importance of earlier failures for any character whose state actually carries forward.
+
+## Corpus architecture
+
+| Layer | Analytical responsibility | Current state |
+|---|---|---|
+| `00 Frameworks and Methods` | Governing evidence, prospective-freeze, route-state, witness-separation, character reconstruction/fidelity, focalization, Japanese-language, safe-horizon, revision, longitudinal-routing, specialist, and completion rules | methodV0.1/witnessprotocolV0.2 unchanged; architectureV1.24 EVOLVING; characterprotocolV1.23/currentV16; Julius model/local review implemented under own gate, three earned constructions pending; seven historical grades unchanged |
+| `01 Source Lock and Inventory` | Exact witness set, integrity/provenance, edition identity, publication ordering, source-family classification and non-spine awareness | sourceLockV0.27; admittedV01–V43/V41exception/datedgaps unchanged; V16 exact complete consumption, V17+/nonspine/new import narratives unopened; no admission |
+| `02 Sequential Readings` | Main-LN prospective deep readings and source-verified checkpoints | V01–V15/three checkpoints exact; V16 source-facing reading and synchronized current state. V17 exact60Q/10P seal fixed through four separately gated derived operations |
+| `03 Supplemental and Alternate Witnesses` | Analytical readings of admitted mainline side stories, collections, EX/supplemental material, IF/alternate routes, web-novel witnesses, and other non-spine material | routing contract V0.2 populated; cataloging remains in layer 01; no witness admitted or read yet |
+| `04 Longitudinal Ledgers` | Current claims/revisions, chronology/durability, proposition holders, relationships, characters, institutions, mechanics, ordinary life, Japanese, questions and readiness | masterV1.25/currentV16; five soleowners eventV2.0/E019, knowledgeV2.0/K545, mechanicsV1.9/M345, institutionV1.13/I294, relationshipV1.7/R104/RT239; schemaV0.26/no field change |
+| `05 Character Analysis` | Protocol-governed character reconstruction only after sufficient longitudinal evidence exists | routerV0.14; seven historical pairs exact/full-gated; Julius16 model/review local documentary PASS_WITH_BOUND, own gate separate; Wilhelm/Crusch/Ferris16 earned/unimplemented, each complete gate before V17 |
+| `06 Adaptation Analysis` | Anime and later audiovisual comparison as separately labeled witnesses | routing contract populated; no adaptation findings yet |
+| `07 Specialist Synthesis` | Dense questions with independent retrieval responsibility, instantiated only when earned | not instantiated |
+| `08 Audits and Manifests` | Bootstrap and later analytical/source-integrity manifests | seven historical scoped reviews unchanged; Julius's separately applied nineteen-dimension same-analyst nonblind documentary PASS_WITH_BOUND implemented, own publication gate separate; no independent/runtime/global grade |
+| future `09 Evidence and Indexes` | Claim-evidence, source-locator, character-evidence-coverage, or witness-dependency navigation only after demonstrated retrieval burden | not instantiated; exact candidates and triggers reserved in the synthesis architecture |
+| future `10 Full-Series Synthesis` | Canonical full-series convergence after complete-series or expressly bounded readiness | not instantiated; reserved canonical file `REZERO_FULL_SERIES_SYNTHESIS.md` |
+| `90 Legacy and Superseded` | Materially distinct superseded analysis | not instantiated; no legacy analytical corpus is being imported |
+
+The absence of an unused directory is intentional. Re:Zero should grow by analytical responsibility, not by template symmetry.
+
+## Sequential lock and history
+
+All initiation requirements are initialized and `SEQUENTIAL_ANALYSIS_LOCK = OPEN`. The current method, evolving synthesis architecture, five specialist owners, master and source-bounded model/audit define the present routing. An OPEN lock does not itself admit a different witness or override source/publication controls.
+
+The V01/V02 repair, later architecture extensions, ledger promotions, checkpoint operation and source-consumption history are preserved in the [project changelog](REZERO_PROJECT_CHANGELOG.md). These are historical records, not competing current defaults. Git history and live audit statuses own exact publication receipts; this entrypoint owns current scope and the next permitted operation.
+
+## Reasoning-class routing
+
+- architecture repair/extension, final role-gap review, and full-series integration: `PREMIUM_QUALITY_FIRST`;
+- ordinary Japanese-primary VNN deep reading and interpretive master-ledger update: `SUBSTANTIVE_ANALYSIS`;
+- deterministic source identity, checksum, locator, and metadata maintenance: `BOUNDED_STANDARD` or `ROUTINE_FAST`;
+- source-verified checkpoints, mature character work, and difficult relationship/specialist synthesis: normally `DEEP_SYNTHESIS`, with evidence-based escalation for unusually propagation-sensitive cases.
+
+The stable class governs; literal provider/model names remain a mutable mapping in the corpus-wide reasoning policy.
+
+## Main reading methodology
+
+The numbered main light novels use a **prospective freeze**:
+
+1. establish the exact source witness and current analytical horizon;
+2. record material expectations, unresolved questions, and confidence before opening the next volume;
+3. read only the newly admitted source increment;
+4. identify what the new volume preserves, strengthens, revises, downgrades, rejects, or leaves open;
+5. write a bounded deep reading rather than a chapter transcript;
+6. freeze that state before advancing.
+
+Where an official/source-verified arc structure exists, preserve both global volume identity and arc identity. Do not infer or hard-code arc boundaries from fandom memory when the locked corpus can establish them directly.
+
+## Supplemental and alternate witnesses
+
+Non-spine material is not inserted merely because it is available.
+
+Before reading a supplement analytically, establish:
+
+- exact witness identity and source family;
+- publication order;
+- diegetic or route relationship to the main light novel where knowable;
+- the earliest safe analytical insertion point relative to the prospective main-volume horizon;
+- whether the item is mainline supplemental evidence, alternate-route/counterfactual evidence, a developmental web-novel witness, an adaptation witness, or something else.
+
+The witness protocol now separates publication horizon (`H_pub`), diegetic dependency (`H_diegetic`), and route/divergence dependency (`H_route`). The safe opening point `H_final` is the latest established dependency. If a material dependency is unresolved, `H_final` remains `OPEN` and the witness stays unread.
+
+Alternate-route material may illuminate constraints, latent tendencies, or counterfactual possibilities, but it does not prove that the same choice would occur in the main route under materially different knowledge, relationships, or conditions.
+
+## Initial analytical questions — not findings
+
+The sequential pass should test rather than assume questions including:
+
+- how repeated failure, partial success, and accumulated information change judgment, self-conception, planning, risk tolerance, and interpersonal behavior;
+- which character tendencies remain stable across materially different event-states and which are products of local information or pressure;
+- how asymmetric knowledge changes trust, consent, persuasion, deception, dependency, and apparent irrationality;
+- how relationships develop when continuity may be experienced differently by the participants;
+- how fear, grief, shame, hope, exhaustion, attachment, obligation, and trauma alter practical agency without being reduced to generic pathology labels;
+- how institutions, factions, status, law, custom, patronage, violence, and material resources constrain nominal choices;
+- which setting explanations are demonstrated, which are viewpoint-bound, which are institutional doctrine, and which remain unresolved;
+- how abilities, rules, costs, exceptions, and hidden mechanisms should be reconstructed without converting character theory into world fact;
+- how Japanese register, address terms, self-reference, politeness, insults, emotional formulae, and recurring lexical choices change interpretation;
+- where ordinary routines, food, work, study, leisure, humor, gifts, comfort, etiquette, and low-stakes choices reveal durable character structure;
+- which later conclusions genuinely revise earlier models and which merely add information unavailable at the earlier freeze.
+
+Publication follows the current repository integration checklist. Routing-current and stale-routing paths have different housekeeping requirements; exact Git/audit evidence owns receipts, and the work order below states required dependencies rather than a prose publication status.
+
+## Current work order
+
+1. Close this Julius model/review transaction's complete gate: final saved scope/default/holder/name/locator review, exact model/review/eight-maintained-file synchronization, complete staged diff and final-index author preflight; fresh refs/rulesets/current-main reconciliation, exact-path ordinary commit/nonforced series push and immutable full-file/tree readback. The V16 source gate is closed; five owners/current340claims stay exact, not reconstructed.
+2. Require actual-source full integration audit/all discovered tests, trusted exact-SHA reporter/status, applicable housekeeping outcome and a later clean native/source/protected/seal check. Routing-current no-op needs no redundant child audit; stale routing requires the allowlisted child/full exact-child audit. Never write/dispatch protected automation outputs manually.
+3. Julius V01–V16 is implemented with a separately actually applied scoped nineteen-dimension same-analyst nonblind documentary PASS_WITH_BOUND, not a full publication receipt. Only after this pair's own complete gate execute WILHELM_V01_V16_MODEL_AND_FIDELITY_REVIEW, then CRUSCH_V01_V16_MODEL_AND_FIDELITY_REVIEW and FERRIS_V01_V16_MODEL_AND_FIDELITY_REVIEW serially, each separate construction/review/full gate. Those three remain unimplemented/ungraded.
+4. Only then open V17 in Japanese OPF order through full text/image EOF against unchanged sealed60questions/10forecasts SHA53ac9eb4456e84f00e1e2c8fbeef9b2d4910dd2f873f93143652cbc3854c724e. Derived source revisits add no later primary unit or silent prospect rewrite.
+5. Preserve33older artifacts including the V16 freeze and seven model-review scopes/defaults/grades, plus the Julius pair's declared reviewed scope/default/local grade. Do not reopen completed gates or move old defaults toE019. Keep Ram chronologyOPEN and C116/M344's Frederica-subject correction mandatory; retain Roswaal recipient/agency/source qualifications.
+6. Maintain18deaths19segments/E019 acute horror and exact holder/consent/resource boundaries. BrokenGate/small daily mana/dormantPuck/unresponsiveRem, undeliveredletter/unacquiredcrystal, incomplete origin telling/old apology/family repair remain distinct. Award/medal now retrospectively confirmed; no unsupported exact Guard enrollment/salary.
+7. Continue prospective atomic transactions through activeV43 without routine unit/model confirmation. Source exhaustion is not published-series completion. Fiveowners/master own state/person/ordinary/voice/readiness; no count-driven file symmetry or new global grade.
+8. Source admission43/V41exception and datedV44/V45 gaps remain unchanged; new import metadata/report is not new narrative admission. V17+/IF/WN/supplement/adaptation remain unopened. Global curation/evaluator/steward/protected integration retain separate authority.
+
+## Bootstrap abstentions
+
+- No synopsis, wiki, fandom consensus, adaptation memory, prior ChatGPT discussion, or model knowledge is promoted as a Re:Zero source finding by this scaffold.
+- No later volume, supplement, alternate route, or adaptation is allowed to contaminate an earlier prospective freeze.
+- No failed/discarded event-state is automatically treated as a durable active-world event; no active-world reset automatically erases its evidentiary value for character reconstruction.
+- No character's explanation of mechanics, history, politics, religion, another person's motives, or hidden causality is treated as objective fact solely because it is explicit dialogue or narration.
+- No IF/alternate-route evidence is silently blended into main-route personality claims.
+- No web-novel wording is treated as the light novel's wording.
+- No anime-only performance or staging is attributed to the light novel.
+- No PACTRIH score or cross-series ethical placement is assigned before source-grounded evidence is sufficient.
+- No character registry edit is implied by creating this analytical root; character discovery remains under the repository's separate curation authority.
+````````````
+
+## Pre-Wilhelm maintained-routing passages — exact historical before-images
+
+These replaced passages preserve the same entering commit, not current instructions. All are verbatim except the explicitly declared two-target link-context transformation in before-image 17; its original targets remain recorded there and the original row is recoverable at the named commit/path. The complete entering map is archived once above without transformation. Local review/artifact existence remain distinct from own complete publication.
+
+### Before-image 01 — REZERO_MASTER_LONGITUDINAL_LEDGER.md
+
+Source path: `series/re-zero/04 Longitudinal Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md`.
+
+````````````markdown
+### Wilhelm van Astrea / ヴィルヘルム・ヴァン・アストレア
+
+**MONOGRAPH_READY_CONSTRUCTION_NOT_IMPLEMENTED** — WILHELM_V01_V16_MODEL_AND_FIDELITY_REVIEW. V01–V16 admitted main LN; narrator-framed youth, present protective service/revenge, reopened-wound pursuit and failed/attempted family approach, without EX.
+
+**Why now:** V07 already supplies ordinary flowers/visits, competing motives, martial cruelty, service/romance/purpose revision, defeat and verbal failure. V09's concealed pursuit and self-disposability now join V16 intimate reflective mentorship, admitted grave words/avoidance, domestic failure, help-seeking and interrupted grandson repair. This permits more than an ideal-mentor or husband-only sketch.
+
+**Default selection:** Latest V16 breakfast aftermath, actual first cooking request/response then Heinkel/Priscilla interruption and dispersed meal; not the earlier serene garden as a permanently repaired endpoint.
+
+**Operational abstentions:** Three regrets not all named; no proved grandson guilt, complete family history, live Theresia, decoded reopened wound, full marriage diary, EX history, universal agency or forgiveness.
+
+````````````
+
+### Before-image 02 — REZERO_MASTER_LONGITUDINAL_LEDGER.md
+
+Source path: `series/re-zero/04 Longitudinal Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md`.
+
+````````````markdown
+**next:** Julius16 own complete publication gate → Wilhelm16 construction/separate review/full gate → Crusch16 → Ferris16, each own complete gate → V17; V16 source gate is complete, continuous active terminal V43/no routine pause.
+````````````
+
+### Before-image 03 — REZERO_MASTER_LONGITUDINAL_LEDGER.md
+
+Source path: `series/re-zero/04 Longitudinal Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md`.
+
+````````````markdown
+The V16 trigger earned four constructions; Julius is now implemented with its separately applied local documentary review, while Wilhelm16/Crusch16/Ferris16 remain unimplemented/ungraded. Each remaining person needs its own model, actual scoped review and complete gate. This Julius operation's full gate is a separate prerequisite for Wilhelm, not supplied by artifact existence or local PASS_WITH_BOUND. V17 remains unopened against the exact V16 reading's §16 prospect; both map operation fields select Wilhelm conditionally on the Julius gate. No new source admission, owner/index/field, global curation/evaluator write, ordinary pause or full-series completion follows.
+````````````
+
+### Before-image 04 — REZERO_MASTER_LONGITUDINAL_LEDGER.md
+
+Source path: `series/re-zero/04 Longitudinal Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md`.
+
+````````````markdown
+**Binding next duty:** This pair's own complete exact-commit publication gate before WILHELM_V01_V16_MODEL_AND_FIDELITY_REVIEW, then Crusch16 and Ferris16 each separately constructed/reviewed/full-gated before V17. The preceding V16 construction trigger remains historical, not a new unimplemented Julius obligation.
+````````````
+
+### Before-image 05 — REZERO_CHARACTER_RECONSTRUCTION_PROTOCOL.md
+
+Source path: `series/re-zero/00 Frameworks and Methods/REZERO_CHARACTER_RECONSTRUCTION_PROTOCOL.md`.
+
+````````````markdown
+### Wilhelm van Astrea / ヴィルヘルム・ヴァン・アストレア
+
+**MONOGRAPH_READY_CONSTRUCTION_NOT_IMPLEMENTED** — WILHELM_V01_V16_MODEL_AND_FIDELITY_REVIEW. V01–V16 admitted main LN; narrator-framed youth, present protective service/revenge, reopened-wound pursuit and failed/attempted family approach, without EX.
+
+**Why now:** V07 already supplies ordinary flowers/visits, competing motives, martial cruelty, service/romance/purpose revision, defeat and verbal failure. V09's concealed pursuit and self-disposability now join V16 intimate reflective mentorship, admitted grave words/avoidance, domestic failure, help-seeking and interrupted grandson repair. This permits more than an ideal-mentor or husband-only sketch.
+
+**Default selection:** Latest V16 breakfast aftermath, actual first cooking request/response then Heinkel/Priscilla interruption and dispersed meal; not the earlier serene garden as a permanently repaired endpoint.
+
+**Operational abstentions:** Three regrets not all named; no proved grandson guilt, complete family history, live Theresia, decoded reopened wound, full marriage diary, EX history, universal agency or forgiveness.
+
+````````````
+
+### Before-image 06 — REZERO_CHARACTER_RECONSTRUCTION_PROTOCOL.md
+
+Source path: `series/re-zero/00 Frameworks and Methods/REZERO_CHARACTER_RECONSTRUCTION_PROTOCOL.md`.
+
+````````````markdown
+**next:** Julius16 own complete publication gate → Wilhelm16 construction/separate review/full gate → Crusch16 → Ferris16, each own complete gate → V17; V16 source gate is complete, continuous active terminal V43/no routine pause.
+````````````
+
+### Before-image 07 — REZERO_CHARACTER_RECONSTRUCTION_PROTOCOL.md
+
+Source path: `series/re-zero/00 Frameworks and Methods/REZERO_CHARACTER_RECONSTRUCTION_PROTOCOL.md`.
+
+````````````markdown
+The V16 trigger earned four constructions; Julius is now implemented with its separately applied local documentary review, while Wilhelm16/Crusch16/Ferris16 remain unimplemented/ungraded. Each remaining person needs its own model, actual scoped review and complete gate. This Julius operation's full gate is a separate prerequisite for Wilhelm, not supplied by artifact existence or local PASS_WITH_BOUND. V17 remains unopened against the exact V16 reading's §16 prospect; both map operation fields select Wilhelm conditionally on the Julius gate. No new source admission, owner/index/field, global curation/evaluator write, ordinary pause or full-series completion follows.
+````````````
+
+### Before-image 08 — REZERO_CHARACTER_RECONSTRUCTION_PROTOCOL.md
+
+Source path: `series/re-zero/00 Frameworks and Methods/REZERO_CHARACTER_RECONSTRUCTION_PROTOCOL.md`.
+
+````````````markdown
+**Binding next duty:** This pair's own complete exact-commit publication gate before WILHELM_V01_V16_MODEL_AND_FIDELITY_REVIEW, then Crusch16 and Ferris16 each separately constructed/reviewed/full-gated before V17. The preceding V16 construction trigger remains historical, not a new unimplemented Julius obligation.
+````````````
+
+### Before-image 09 — REZERO_MASTER_LONGITUDINAL_LEDGER.md
+
+Source path: `series/re-zero/04 Longitudinal Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md`.
+
+````````````markdown
+## 1. Current boundary snapshot
+
+| field | current state |
+|---|---|
+| analytical high-water mark in this synchronized transaction | V16 source-facing freeze/owners and its complete gate are closed; this derived Julius operation adds no source unit/current claim generation. Earlier V15/Arc04 and seven model/review gates remain closed |
+| next candidate | WILHELM_V01_V16_MODEL_AND_FIDELITY_REVIEW only after this Julius pair's own complete gate; then Crusch16/Ferris16 each separate construction/review/full gate; only then V17 against exact60Q/10P seal53ac9eb4456e84f00e1e2c8fbeef9b2d4910dd2f873f93143652cbc3854c724e; activeV43 |
+| current claim generation | RZ-V16-C001–C340;292 predecessors individually adjudicated:187PRESERVE/74STRENGTHEN/23REVISE/8OPEN,48NEW; all60incoming questions/10forecasts; exact oldV15 claim body/enteringV16 horizon preserved |
+| reached event-state boundary | E018 square death18→actual livingE019 park arrival,19segments; common year/travel/family history before point survives, later square retained bySubaru alone. Narrator十数分 explicitly not yet recognized bySubaru; no strategy/rescue/fullWrath rule atEOF |
+| admitted numbered source range | Japanese MAIN_LN V01–V43 under unchanged source lock; V16 original10591363bytes/SHA81695f7fdb01767a705daf3011f84a20c2ec7cbba658efe173dd5fb32b7756c8,CRCpass |
+| unadmitted published gaps | datedV44–V45 gaps unchanged; no new import narrative admitted |
+| admitted non-spine witnesses | none; V17+/supplement/IF/WN/adaptation/new import report unopened |
+| dedicated ledgers promoted | same five soleowners: eventV2.0/E019; knowledgeV2.0/K545; mechanicsV1.9/M345; institutionV1.13/I294; relationshipV1.7/R104/RT239. New50K/28M/32I/18R/58RT;40oldR advanced with exact preimages,46stable/181oldRT exact |
+| character models / local review | seven historical full-gated pairs retain exact bytes/defaults/local grades; Julius V01–V16 model/separate actually applied nineteen-dimension same-analyst nonblind documentary PASS_WITH_BOUND now implemented, own publication gate separate; Wilhelm/Crusch/Ferris unimplemented/ungraded |
+| binding current corrections | Ram nearly-seven-year/nine-year chronology OPEN. CurrentC116/M344 explicitly prohibit oldM178/M236's Frederica→Garfiel speaking/healing inference; frozen wording retained. Roswaal recipient/agency/source qualifications remain |
+| relationship/specialist syntheses | three historical checkpoints unchanged; V16 opensArc5, no arc-endcheckpoint/finalspecialist. Ordinary/voice/readiness staymaster; fiveowners enough, no count-driven index/newfield/globalgrade |
+| architecture lifecycle | EVOLVING; continuous active terminalV43/no ordinary unit or model pause |
+
+````````````
+
+### Before-image 10 — REZERO_MASTER_LONGITUDINAL_LEDGER.md
+
+Source path: `series/re-zero/04 Longitudinal Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md`.
+
+````````````markdown
+The separate Arc04 checkpoint and seven historical model/review pairs completed their gates before this reading. V16 does not extend any old horizon/default/local grade. The thirty-two protected predecessor artifacts remain exact; Ram chronology is OPEN, Garfiel/Frederica attribution correction mandatory. Protocol §18 requires qualitative cross-state, ordinary, relational, voice, failure and abstention coverage, not prominence, symmetry, counts or perfect biography.
+````````````
+
+### Before-image 11 — REZERO_CHARACTER_RECONSTRUCTION_PROTOCOL.md
+
+Source path: `series/re-zero/00 Frameworks and Methods/REZERO_CHARACTER_RECONSTRUCTION_PROTOCOL.md`.
+
+````````````markdown
+The separate Arc04 checkpoint and seven historical model/review pairs completed their gates before this reading. V16 does not extend any old horizon/default/local grade. The thirty-two protected predecessor artifacts remain exact; Ram chronology is OPEN, Garfiel/Frederica attribution correction mandatory. Protocol §18 requires qualitative cross-state, ordinary, relational, voice, failure and abstention coverage, not prominence, symmetry, counts or perfect biography.
+````````````
+
+### Before-image 12 — REZERO_CHARACTER_RECONSTRUCTION_PROTOCOL.md
+
+Source path: `series/re-zero/00 Frameworks and Methods/REZERO_CHARACTER_RECONSTRUCTION_PROTOCOL.md`.
+
+````````````markdown
+This protocol governs source-grounded conditional reconstruction, not source admission or fidelity by artifact count. Master owns person/readiness; five specialist owners retain conditioning state. Current source-facing horizon is V16 and its complete publication gate is closed; this Julius derived operation adds no source unit or current claim generation. E018 square death18→actual livingE019 park arrival gives19arrived segments; common year/travel/family history survives, later square does not become others' memory. Subaru is acutely horrified and has not yet recognized narrator十数分 timing. Rem unresponsive/Puck dormant/Gate destroyed and small daily mana remain distinct.
+````````````
+
+### Before-image 13 — REZERO_CHARACTER_RECONSTRUCTION_PROTOCOL.md
+
+Source path: `series/re-zero/00 Frameworks and Methods/REZERO_CHARACTER_RECONSTRUCTION_PROTOCOL.md`.
+
+````````````markdown
+All seven historical Subaru10/Otto13/Emilia14/Beatrice15/Garfiel15/Ram15/Roswaal15 models/reviews/defaults/local documentary grades remain exact/full-gated, last predecessorc3dd17c4. V16 reconciliation is not a horizon extension or independent/runtime/global benchmark. Ram chronology staysOPEN; currentC116/M344 prohibit M178/M236's old Frederica→Garfiel speaking/healing inference without rewriting frozen findings. Roswaal's actual source/recipient/agency qualifications remain binding.
+````````````
+
+### Before-image 14 — REZERO_CHARACTER_RECONSTRUCTION_PROTOCOL.md
+
+Source path: `series/re-zero/00 Frameworks and Methods/REZERO_CHARACTER_RECONSTRUCTION_PROTOCOL.md`.
+
+````````````markdown
+V16 earned four V01–V16 person constructions. Julius's integrated model and separately applied nineteen-dimension same-analyst nonblind documentary review now return local PASS_WITH_BOUND, with latest personally observed garden default and explicit earlier-state/knowledge/ordinary/voice/counterevidence limits. Wilhelm16, Crusch16 and Ferris16 remain earned but unimplemented/ungraded. This Julius operation requires its own complete publication gate before Wilhelm; each remaining operation has a separate gate before unopened V17. Other people retain named narrower cases; no prominence/copy-count promotion, perfect-biography demand or invented E019 placement.
+````````````
+
+### Before-image 15 — REZERO_LEDGER_PROMOTION_AND_SCHEMAS.md
+
+Source path: `series/re-zero/04 Longitudinal Ledgers/REZERO_LEDGER_PROMOTION_AND_SCHEMAS.md`.
+
+````````````markdown
+The master was backfilled from frozen V01/V02 and now advances through the fully gated V16 source boundary without rewriting earlier freezes. It owns claims/person/ordinary/Japanese/prospect/readiness; institutionV04, event/knowledgeV06, mechanicsV07 and relationshipV09 remain five soleowners. Seven historical model/review pairs remain exact/full-gated; Julius V01–V16 now has an integrated model and separately applied local nineteen-dimension documentary PASS_WITH_BOUND, with its own publication gate separate. Wilhelm/Crusch/Ferris remain earned but unimplemented/ungraded. Earlier reviews below preserve their named phase decisions, not current defaults. No field contract changes.
+````````````
+
+### Before-image 16 — REZERO_LEDGER_PROMOTION_AND_SCHEMAS.md
+
+Source path: `series/re-zero/04 Longitudinal Ledgers/REZERO_LEDGER_PROMOTION_AND_SCHEMAS.md`.
+
+````````````markdown
+### Post-V16 Julius derived-use review
+````````````
+
+### Before-image 17 — README.md
+
+Source path: `series/re-zero/05 Character Analysis/README.md`.
+
+Link-context transformation only: the model target originally was `REZERO_JULIUS_JUUKULIUS_V01_V16_CHARACTER_MODEL.md` and the review target originally was `../08%20Audits%20and%20Manifests/REZERO_JULIUS_JUUKULIUS_V01_V16_FIDELITY_REVIEW.md`. The two targets below are rebased for this changelog directory; restoring those original targets reproduces the exact entering row. No historical analytical wording, scope, default or grade is changed.
+
+````````````markdown
+| Julius Juukulius, Japanese main LN V01–V16 | [Integrated model](05%20Character%20Analysis/REZERO_JULIUS_JUUKULIUS_V01_V16_CHARACTER_MODEL.md), then [separate scoped review](08%20Audits%20and%20Manifests/REZERO_JULIUS_JUUKULIUS_V01_V16_FIDELITY_REVIEW.md) | MONOGRAPH_READY; actually applied same-analyst nonblind nineteen-dimension documentary PASS_WITH_BOUND after ten grouped repairs; own full publication gate before Wilhelm16, not independent/runtime/global grade |
+````````````
+
+### Before-image 18 — README.md
+
+Source path: `series/re-zero/05 Character Analysis/README.md`.
+
+````````````markdown
+V16's source-facing transaction and complete gate are closed at current E019/18deaths19segments/340claims. The33 older artifacts including the V16 freeze and seven historical model/review pairs retain exact bytes/defaults/local grades. Julius's new model/separate review is implemented at local documentary PASS_WITH_BOUND, with its own full publication gate still a separate prerequisite for Wilhelm16. Current source facts do not extend old reviewed scopes or certify independent/runtime/global fidelity. Person-specific historical defaults are not silently E019; Julius defaults to his latest personally observed prepark garden scene.
+````````````
+
+### Before-image 19 — README.md
+
+Source path: `series/re-zero/05 Character Analysis/README.md`.
+
+````````````markdown
+| Julius Juukulius / ユリウス・ユークリウス / `JULIUS_V01_V16_MODEL_AND_FIDELITY_REVIEW` | V07–V09 actual qualified apologies, contested trust, bodily/sensory cost and spirit obligations now join V16 peer recognition, private anger/thanks, correction received from Subaru, Joshua/Reinhard/Anastasia recipients, ordinary flexibility/music-profession and burned-food courtesy. Role virtue versus heart-in-armor is no longer only a dyad combat inference. Default: Latest personally observed V16 garden conversation p-017#B0423–0430, after meal rupture and before park; distinguish common precheckpoint history from terminal lost square/E019 unobserved location. | MONOGRAPH_READY; model/separate review implemented, local documentary PASS_WITH_BOUND and own full publication gate before Wilhelm16. V04private protective explanation is not Subaru's full receipt or erasure of harm/class doctrine; no exhaustive motive/family biography, demonstrated musical virtuosity, unlimited technique, RBD/later knowledge, settled romance or global grade. |
+````````````
+
+### Before-image 20 — README.md
+
+Source path: `series/re-zero/05 Character Analysis/README.md`.
+
+````````````markdown
+| Wilhelm van Astrea / ヴィルヘルム・ヴァン・アストレア / `WILHELM_V01_V16_MODEL_AND_FIDELITY_REVIEW` | V07 already supplies ordinary flowers/visits, competing motives, martial cruelty, service/romance/purpose revision, defeat and verbal failure. V09's concealed pursuit and self-disposability now join V16 intimate reflective mentorship, admitted grave words/avoidance, domestic failure, help-seeking and interrupted grandson repair. This permits more than an ideal-mentor or husband-only sketch. Default: Latest V16 breakfast aftermath, actual first cooking request/response then Heinkel/Priscilla interruption and dispersed meal; not the earlier serene garden as a permanently repaired endpoint. | MONOGRAPH_READY_CONSTRUCTION_NOT_IMPLEMENTED. Three regrets not all named; no proved grandson guilt, complete family history, live Theresia, decoded reopened wound, full marriage diary, EX history, universal agency or forgiveness. |
+````````````
+
+### Before-image 21 — README.md
+
+Source path: `series/re-zero/05 Character Analysis/README.md`.
+
+````````````markdown
+Julius16's model/separate actually applied local documentary review are implemented; this pair's own complete publication gate precedes Wilhelm16, then Crusch16 and Ferris16 serially, each separate construction/review/full gate before V17. Those three remain unimplemented/ungraded. Readiness, local fidelity and publication are distinct. Other people retain named narrower cases in master§13/V16§15; exact V17prospectseal53ac9eb4456e84f00e1e2c8fbeef9b2d4910dd2f873f93143652cbc3854c724e stays fixed. ActiveV43/no routine pause unchanged.
+````````````
+
+### Before-image 22 — REZERO_SOURCE_LOCK_AND_INVENTORY.md
+
+Source path: `series/re-zero/01 Source Lock and Inventory/REZERO_SOURCE_LOCK_AND_INVENTORY.md`.
+
+````````````markdown
+- **Consumed into prospective main-LN analysis:** V01–V16; V16's complete source-facing publication gate is closed. Predecessor Roswaal15 and earlier seven pairs keep exact bytes/defaults/local grades. Julius's derived model/review adds no consumed unit or new narrative claim generation; its own publication gate remains separate.
+````````````
+
+### Before-image 23 — REZERO_SOURCE_LOCK_AND_INVENTORY.md
+
+Source path: `series/re-zero/01 Source Lock and Inventory/REZERO_SOURCE_LOCK_AND_INVENTORY.md`.
+
+````````````markdown
+- **Next analytical operation:** WILHELM_V01_V16_MODEL_AND_FIDELITY_REVIEW only after the implemented Julius V01–V16 pair's own complete publication gate. Julius's separate actually applied nineteen-dimension same-analyst nonblind documentary result is PASS_WITH_BOUND, not independent/runtime/global validation. Then Crusch16/Ferris16 each own construction/review/full gate; only then unopenedV17 against exact60Q/10P seal53ac9eb4456e84f00e1e2c8fbeef9b2d4910dd2f873f93143652cbc3854c724e. Those three remain unimplemented/ungraded.
+````````````
+
+### Before-image 24 — REZERO_SOURCE_LOCK_AND_INVENTORY.md
+
+Source path: `series/re-zero/01 Source Lock and Inventory/REZERO_SOURCE_LOCK_AND_INVENTORY.md`.
+
+````````````markdown
+- **Derived-use source reconciliation:** Julius's source-free operation revisits23bounded Japanese deliveries/1907TEXTpositions/83775characters in already-consumed V04/V07/V08/V09/V16, with original hashes/CRC checked. This is not five fresh complete volume rereads, a new admission, changed original or additional current narrative claim. V16's full gate is closed; source high-water remainsV16, all33older artifacts/five owners/current340claims/formal/reserved tails and exact V17seal remain protected.
+````````````
+
+### Before-image 25 — REZERO_SYNTHESIS_ARCHITECTURE.md
+
+Source path: `series/re-zero/00 Frameworks and Methods/REZERO_SYNTHESIS_ARCHITECTURE.md`.
+
+````````````markdown
+source_boundary: "Japanese main LN V01-V43 admitted; V16 full gate closed; Julius V01-V16 model/separate local PASS_WITH_BOUND review implemented under own publication gate;33 older artifacts/seven prior pairs exact; Wilhelm/Crusch/Ferris each separately constructed/reviewed/full-gated before sealed V17; no nonspine admission"
+````````````
+
+### Before-image 26 — REZERO_SYNTHESIS_ARCHITECTURE.md
+
+Source path: `series/re-zero/00 Frameworks and Methods/REZERO_SYNTHESIS_ARCHITECTURE.md`.
+
+````````````markdown
+Current V16 person responsibility: seven historical model/review pairs retain exact bytes/defaults/grades. Julius V01–V16 now has an integrated model and separately applied same-analyst nonblind documentary PASS_WITH_BOUND review; its own full publication gate is still required. Wilhelm/Crusch/Ferris V01–V16 remain independently earned but unimplemented/ungraded, each requiring construction, actual scoped review and a complete gate before sealed V17. Master§13/protocol§18 own the qualitative decisions; no new field, global grade or state-owner migration.
+````````````
+
+### Before-image 27 — REZERO_SYNTHESIS_ARCHITECTURE.md
+
+Source path: `series/re-zero/00 Frameworks and Methods/REZERO_SYNTHESIS_ARCHITECTURE.md`.
+
+````````````markdown
+| Character/relationship/specialist readiness | cited accumulation and threshold judgment | master ledger readiness tables | promoted canonical artifacts | Julius V01–V16 model/separate local documentary review implemented, own full gate before Wilhelm16→Crusch16→Ferris16; each remaining person requires construction/review/full gate before V17. Seven prior pairs exact; other named narrower cases bounded; no Arc5-end checkpoint/final specialist/index/new owner/global grade |
+````````````
+
+### Before-image 28 — REZERO_SYNTHESIS_ARCHITECTURE.md
+
+Source path: `series/re-zero/00 Frameworks and Methods/REZERO_SYNTHESIS_ARCHITECTURE.md`.
+
+````````````markdown
+An earned separately pending construction/review is binding, not permission to skip a gate. V16 and predecessor gates are full-gated/closed. Julius16 now has its model and separately applied local documentary PASS_WITH_BOUND review, but requires its own complete exact-commit publication gate before Wilhelm16→Crusch16→Ferris16, each construction/separate scoped review/full gate, then unopened V17 against exact seal 53ac9eb4456e84f00e1e2c8fbeef9b2d4910dd2f873f93143652cbc3854c724e. Both map fields/master§13 select Wilhelm16 conditionally on Julius's gate. Keep Ram chronology OPEN, current C116/M344 subject correction and Roswaal qualifications;33 older artifacts/seven prior scopes/defaults/grades and active V43 remain exact. No ordinary pause.
+````````````
+
+### Before-image 29 — REZERO_SYNTHESIS_ARCHITECTURE.md
+
+Source path: `series/re-zero/00 Frameworks and Methods/REZERO_SYNTHESIS_ARCHITECTURE.md`.
+
+````````````markdown
+## 21. Post-V16 Julius derived-use implementation
 ````````````
