@@ -2,9 +2,10 @@
 series: TOMOZAKI
 artifact_type: current_state_and_corpus_map
 scope: GIT_NATIVE_ANALYTICAL_ROOT
-source_boundary: "Audited Japanese light-novel EPUB corpus: numbered main Volumes 01-11 plus side-story Volumes 06.5 and 08.5; source audit dated 2026-08-29"
+source_boundary: "Admitted Japanese main V01-V12 plus separately routed V06.5/V08.5; historical audit 2026-08-29 and additive V12 admission 2026-10-22; analytical high-water mark remains V11"
 source_audit_date: 2026-08-29
-generation: V2.6_R05_MIMIMI
+source_admission_date: 2026-10-22
+generation: V2.7_V12_ADMISSION
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -33,14 +34,26 @@ project_initialization:
     - "03 Longitudinal Ledgers/TOMOZAKI_SOCIAL_ATMOSPHERE_AND_GROUP_SYSTEMS_LEDGER.md"
     - "03 Longitudinal Ledgers/TOMOZAKI_JAPANESE_VOICE_REGISTER_AND_KEY_TERMS_LEDGER.md"
   sequential_analysis_lock: OPEN
-  committed_high_water_mark: V11_PLUS_ROUTED_V06_5_AND_V08_5
-  next_sequential_operation: NONE_AWAIT_NEW_ADMISSION
-  next_source_admission_gate: CLOSED
+  committed_high_water_mark: V11
+  next_permitted_operation: V12
+  next_source_admission_gate: OPEN_V12_ONLY
   longitudinal_reconciliation_gate: PASS_AT_V11_BOUNDARY
   major_character_input_readiness: READY
   specialist_input_readiness: READY_PENDING_SCOPE_ADJUDICATION
   specialist_synthesis_gate: CLOSED
   full_series_synthesis_gate: CLOSED
+sequential_execution:
+  mode: continuous_sequential
+  unit_type: volume
+  authorized_start: V12
+  terminal_boundary: V12
+  committed_high_water_mark: V11
+  next_candidate_operation: V12
+  confirmation_between_units: false
+  run_state: active
+supplemental_execution:
+  current_state: CLOSED
+  other_narrative_admission: NOT_AUTHORIZED
 ---
 
 # Bottom-Tier Character Tomozaki — current state and corpus map
@@ -82,9 +95,11 @@ Current audited inventory, dated 2026-08-29:
 - V04 and V11 carry non-blocking `mimetype`-ordering warnings;
 - no exact duplicate groups.
 
-This source inventory is **verified**. It does not establish availability or authority for V12+, adaptations, translations, retailer bonuses outside the audited EPUBs, interviews, or reception material.
+This historical source inventory is **verified** and retained unchanged as the 2026-08-29 boundary. The separately authorized 2026-10-22 additive V12 admission uses the verified local witness, SHA-256 `4b1b7242e5e92e015e0f9d138a43c6f7f06452761bd697ebc2df2c7195287c7c`; the owner expressly corrected the pasted task digest before admission. See the [V12 source-admission audit](08%20Audits%20and%20Manifests/TOMOZAKI_V12_SOURCE_ADMISSION_AUDIT.md). V12 prose and illustrations remain unread at this checkpoint. The admitted inventory now has fourteen EPUB witnesses; the completed analytical boundary remains V11 plus the two routed supplements. V13+, adaptations, translations, unadmitted bonuses, interviews and reception remain outside the boundary.
 
 ## 4. Current analytical state
+
+**Active campaign:** the owner authorized the V12-only source run and the subsequent complete-corpus character coverage, R06, relationship/thematic, convergence, final literary synthesis and derived-model stages in one continuous task. The [prospective entering snapshot](08%20Audits%20and%20Manifests/TOMOZAKI_V12_PROSPECTIVE_ENTERING_SNAPSHOT.md) preserves V11 and the accepted R01-R05 refinements before V12 content access. The prior V11 gate decisions below remain valid at their stated scope; none certifies the unread V12 transaction or later aggregate gates.
 
 **Volumes 01 through 11 have been read, analyzed, and prospectively frozen. Volumes 06.5 and 08.5 have been read and closed under story-local supplemental routing. V11 is the current numbered-volume boundary. Sequential-source completion and R01–R03 longitudinal reconciliation have passed. Fumiya’s and Hinami’s local literary-monograph roles pass independent review, completing R04’s pair. Kikuchi’s and Mimimi’s local literary-monograph roles now pass, completing R05’s pair. Overall literary synthesis completion remains unpassed.**
 
@@ -410,4 +425,4 @@ Those claims require later source-grounded work.
 
 ## 10. Current next action
 
-**R01–R05 are complete at their declared scopes. The separately reserved literary session should adjudicate the R06 character scopes before relationship/thematic convergence. Use all four reviewed monographs and their bounded cumulative additions alongside the six-owner spine. Aggregate specialist completion and the full-series gate remain unpassed. No broad primary-source reread or new source admission follows.**
+**Execute the authorized V12 source transaction from the frozen V11 entering snapshot under `continuous_sequential`, start V12 and terminal V12. Update all six affected cumulative owners or justify `NO CHANGE`, validate, and freeze V12 before advancing the committed high-water mark. Then continue within the same authorization through the full-corpus character-evidence/omission audit, R06 decisions, four reviewed-monograph updates, required relationships/ensemble and seven thematic responsibilities, adversarial convergence, final synthesis, literary release validation, and justified derived reconstruction models. Global discovery/capability outputs remain with their specialist agents. Formal terminal sealing requires its separately authorized owner-merged governance transaction.**
