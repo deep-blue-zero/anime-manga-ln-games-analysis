@@ -5,7 +5,7 @@ scope: JP_LIGHT_NOVEL_V01-V12_PLUS_ROUTED_SUPPLEMENTS
 source_boundary: "Historical audited Japanese main V01-V11 plus story-local V06.5/V08.5; additive owner-approved V12 local witness dated 2026-10-22"
 analytical_boundary: V12_PLUS_ROUTED_SUPPLEMENTS
 analytical_generation: V2_REMEDIATION
-generation: V1.6
+generation: V1.7_COVERAGE_PRECISION
 status: canonical
 release_state: mutable_active
 governing_method: "../00 Frameworks and Methods/TOMOZAKI_ANALYTICAL_METHOD.md"
@@ -627,7 +627,7 @@ Current state: boundaries are repeatedly imposed from outside rather than shown 
 
 ### 13.5 Akiyama — subordinate participation and incomplete accountability
 
-Akiyama moves among follower, aggrieved subordinate, instrument in Hinami's plan, active retaliator, and later ordinary class participant. This multiplicity corrects category compression without making her innocent. V05 supports resentment, agency in confrontation, and some later capacity to approach Tama, while leaving the exact degree of coercion, prior participation, and confession unresolved. V06 preserves mutual criticism with Konno; V07 supplies no comparable forward development for Akiyama. Konno's rehearsal contribution must not be transferred to her, and completed trust repair remains absent. (`DR05 §§7.1-8.2, 11.5, 17-18`; `DR06 §6`; `DR07 §14.4`)
+Akiyama moves among follower, aggrieved subordinate, instrument in Hinami's plan, active retaliator, and later ordinary class participant. This multiplicity corrects category compression without making her innocent. V05 supports resentment and agency in confrontation, followed by Akiyama's direct apology to Tama and apologies from other group members after Konno has left. Tama gives weighted assent rather than blanket forgiveness. The exact degree of coercion, full prior participation and responsibility accounting remain unresolved. The source return and prior shorthand are retained in §20. V06 preserves mutual criticism with Konno; V07 supplies no comparable forward development for Akiyama. Konno's rehearsal contribution must not be transferred to her, and completed trust repair remains absent. (`DR05 §§7.1-8.2, 11.5, 17-18`; `DR06 §6`; `DR07 §14.4`)
 
 Current state: person-level complexity established; full acknowledgment and durable accountability remain open.
 
@@ -718,7 +718,7 @@ This is a character-owner crosscheck through the existing V11 boundary, not new 
 | CS-MIZ-02 | `CRI-MIZ-001`; `CRI-REL-004` | §§11, 25.2, 31.4, 66, 75 | `REL-C03`, `REL-C09`, `REL-C16`; `SOC-C19` | **PRESERVE / BOUND.** Risk and declared love are evidence of his ownership; claimed understanding is his interpretation and supplies no information, access, or pursuit right. |
 | CS-MIZ-03 | `CRI-MIZ-001`; `CRI-EFF-001` | §§65, 75–76 | `REL §8.4`; `SOC §6.5` | **PRESERVE / OPEN.** The negotiation performance supports a possible vocation; a career, sustained test, or stopping rule is not demonstrated. Social competence cannot substitute for those missing tests. |
 | CS-YUZ-01 | `CRI-YUZ-001`; `CRI-TOM-003` | §§12.3, 14, 30.1 | `REL-C13`; `SOC-C13` | **PRESERVE.** Her articulated affiliation reason and later practice support chosen accommodation; the presence of burden alone does not prove submission. |
-| CS-YUZ-02 | `CRI-YUZ-001`; `CRI-SOC-002` | §§25.4, 30.1, 76 | `REL-C13`; `SOC-C11`, `SOC-C13` | **PRESERVE.** Mediation and coexistence are observed capacities; absent apology, restitution, and accountability cannot be supplied by maintenance success. |
+| CS-YUZ-02 | `CRI-YUZ-001`; `CRI-SOC-002` | §§25.4, 30.1, 76 | `REL-C13`; `SOC-C11`, `SOC-C13` | **PRESERVE distinction / REVISE apology scope (§20).** Mediation is not accountability. Akiyama/group apology is direct; Konno apology, full accounting, restitution and durable trust are not supplied by maintenance success. |
 | CS-YUZ-03 | `CRI-YUZ-001`; `CRI-EFF-001`; `CRI-EPI-003` | §§30.1, 39, 76 | `REL-C12–C13`; `SOC-C13–C14`, `SOC-C21` | **PRESERVE / OPEN.** Leadership and V11 guilt are source-visible; neither establishes a durable capacity boundary or warrants sole responsibility for the collective video. |
 | CS-NAK-01 | `CRI-EFF-002`; `CRI-REL-006`; `CRI-FORM-001` | §§3.4, 12.3, 18, 39 | `REL-C13`; `SOC-C17` | **PRESERVE, not idealize.** Effort, lived relationship testimony, and rough loyalty support movement; no dedicated Nakamura CRI family is invented, and blunt protection does not prove mature communication. |
 | CS-KON-01 | `CRI-KON-001`; `CRI-SOC-002`; `CRI-EPI-003` | §§24, 25.5, 31.6, 39 | `REL-C15`; `SOC-C08`, `SOC-C11–C12` | **PRESERVE dual state / OPEN repair.** Earlier harm and later help belong to the same actor. Konno's V07 rehearsal contribution is not transferable to Akiyama (§13.5) or evidence of apology. |
@@ -745,7 +745,7 @@ All 30 identifiers retain their original scope and historical routes. This pass 
 | Mizusawa | Does he confess again, accept a reply, and adopt a stopping condition that does not turn interpretation into entitlement? |
 | Yuzu | Can she set a capacity/absorber boundary while preserving chosen affiliation and leadership? |
 | Nakamura | Can rough loyalty become more explicit communication during group rupture and Yuzu's overload? |
-| Konno / Akiyama | Does either actor acknowledge harm, apologize, make restitution, or develop durable accountability? |
+| Konno / Akiyama | Beyond Akiyama/group’s V05 brief apology, is there full participation accounting, restitution, durable trust or accountability; does Konno herself apologize? |
 | Haruka | Can her council identity retain meaning if Hinami remains unavailable as a coherent model? |
 | Rena | Does she ever internalize an age-, relationship-, touch-, message-, or consent-based stopping rule? |
 
@@ -763,7 +763,7 @@ At the V11 boundary, this ledger does **not** establish:
 - a renewed confession or answer for Mizusawa;
 - an end to Mimimi's love or a complete conduct rule;
 - a vocation for Mimimi, Tama, Mizusawa, Yuzu, or Haruka from one successful performance or role;
-- generalized reform, apology, restitution, or justice after the V05 class conflict;
+- generalized reform, Konno apology, restitution or completed justice after the V05 class conflict; Akiyama/group’s brief direct apology is preserved in §20;
 - internalized boundary reform by Rena;
 - costless care by Kikuchi, Mimimi, Yuzu, Haruka, or Tama;
 - that accurate interpretation authorizes disclosure, fictionalization, contact, rescue, or control; or
@@ -886,3 +886,11 @@ The V11 absence of a completed party, finished story and school return is histor
 The next character responsibility is the separately authorized fourteen-witness coverage/omission audit and R06 scope adjudication, then targeted V12 updates to the four accepted monographs. Mitsu, Andy, Narita and the wider supporting cast must be inspected at their maximum defensible scope; presence in a cast sheet or afterword is not an interior psychology. Reconstruction models remain downstream of literary convergence and must select the era before granting knowledge.
 
 V1.6 records this V12 extension and all-thirty-CS adjudication. It preserves Sections 5–18 and the accepted R04/R05 enrichment bytes; only explicit current boundary/authority-routing statements above change. Final acceptance of the atomic transaction is owned by the completion audit and actual validation, not this maintenance note.
+
+## 20. Retrospective coverage correction — Akiyama's V05 apology, 2026-10-23
+
+**REVISE the joined no-apology shorthand; PRESERVE unfinished accountability.** Independent middle-bucket and integrating-author returns to V05 `text/part0028.html` P2–6/P16–25 confirm that Konno leaves and Yuzu follows before Akiyama approaches Tama. Akiyama explicitly apologizes at P17, the narrator names the act at P18, and other group members follow at P19. Tama's P21–24 response is weighted assent rather than light dismissal or blanket forgiveness; the class's relaxation at P25 is not restored trust. Selected V05 witness SHA256: `f43355c286c8b33db529febb6389cb08fa9ef5a65a7e13e3c2a8490214965e89`; P counts every HTML paragraph, including empty/image paragraphs, reset per member.
+
+The earlier §13.5 formulation gave only “some later capacity to approach Tama” and left “confession” unresolved. That understated a direct recipient-facing act. The former CS-YUZ-02 crosswalk and open-question shorthand also joined missing apology with missing full accountability. The current formulations separate the actors and acts. Akiyama's full role, degree of pressure, restitution and durable conduct remain OPEN; Konno does not receive another person's apology. V06 mutual criticism can coexist with the earlier apology. No source-facing reading, old review receipt, CS identity or later V12 event is rewritten.
+
+Propagation: `CRI-SOC-002`, `CRI-KON-001`, `CRI-OQ-SOC-001`, social `SOC-C11`, the current map, and R06/supporting/ensemble responsibility. V12's scoped absence of a **new** accountability test remains valid. The apology changes present retrospective understanding, not what an earlier frozen analyst recorded.

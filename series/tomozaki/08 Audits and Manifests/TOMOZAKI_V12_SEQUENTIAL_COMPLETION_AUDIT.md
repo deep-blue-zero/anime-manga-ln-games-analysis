@@ -1,13 +1,13 @@
 ---
 series: TOMOZAKI
 artifact_type: sequential_completion_audit
-scope: V12_SOURCE_AND_SIX_OWNER_COMPLETION_VALIDATED_PUBLICATION_SEPARATE
+scope: V12_SOURCE_AND_SIX_OWNER_COMPLETION_VALIDATED_AND_PUBLISHED
 source_boundary: "Admitted Japanese main V01–V12 plus separately routed V06.5/V08.5; this receipt audits the selected V12 witness, not a new fourteen-witness retrospective sweep"
 source_audit_date: 2026-10-22
-generation: V1.2_SOURCE_VALIDATION_ACCEPTED
+generation: V1.3_PUBLICATION_RECEIPT
 status: canonical
 release_state: mutable_active
-review_state: SOURCE_SIX_OWNER_NAMED_SUBJECT_AND_SOURCE_PAYLOAD_AUTHOR_PREFLIGHT_PASS_PUBLICATION_SEPARATE
+review_state: SOURCE_TRANSACTION_AUTHOR_PUBLICATION_PASS_LATER_RECONCILIATION_AUDIT_SEPARATE
 baseline_commit: 0a74e0403c3e32f438f61875142cc40c64a783e7
 publication_base_commit: 4ffa438746869e28fdbd073eb933d4c0e7247ccd
 canonical_entrypoint: "../CURRENT_STATE_AND_CORPUS_MAP.md"
@@ -18,8 +18,8 @@ illustration_pixels_consulted: true
 source_consultation_complete: true
 sequential_completion_certified: true
 certification_scope: V12_SOURCE_SIX_OWNER_AND_NAMED_SUBJECT_ACCEPTANCE_WITH_TESTED_SOURCE_PAYLOAD_AUTHOR_PREFLIGHT
-repository_checks: SOURCE_PAYLOAD_AUTHOR_PREFLIGHT_PASS_FINAL_RECEIPT_METADATA_RECHECK_REQUIRED
-published_commit: null
+repository_checks: FINAL_SOURCE_TRANSACTION_AUTHOR_PREFLIGHT_PASS_INDEX_9548
+published_commit: 406b26c4591a9bce99c83a54600286f56a35678e
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -29,7 +29,7 @@ do_not_use_as_current_authority: false
 
 ## 1. Decision, scope, and prospective gate
 
-**V12 source consultation, six-owner substantive consistency, the combined named-subject/reference review and the staged source-payload author preflight have passed. The source transaction is certified at that declared scope, with V12/completed/NONE fields. Completion publication, its exact-head CI audit and integration remain separate pending outcomes.** The integrating author and a separate social/voice source reviewer independently completed all 42 linear spine members, all 26 actual JPEG occurrences, the author afterword, colophon, and the non-spine navigation document. The successful index validation is identified in §6.4. Its later receipt/currentness metadata edits require a final full staged recheck before commit; no containing completion commit or published result is invented here.
+**V12 source consultation, six-owner substantive consistency, named-subject/reference review, final staged author preflight, publication at `406b26c4591a9bce99c83a54600286f56a35678e` and its exact-head CI audit have passed. The source transaction is certified at that declared scope, with V12/completed/NONE fields. §6.5 records actual publication and the later repository reconciliation; integration and any newer head require their own verified outcomes.** The integrating author and a separate social/voice source reviewer independently completed all 42 linear spine members, all 26 actual JPEG occurrences, the author afterword, colophon, and the non-spine navigation document. Section 6.4 preserves the earlier source-payload check; §6.5 records the completed final receipt/currentness recheck and actual published object. No later containing commit's self-hash is invented here.
 
 The owner authorized `continuous_sequential`, start `V12`, terminal `V12`, followed by the separately governed retrospective campaign. Before first story or image access, the [prospective entering snapshot](TOMOZAKI_V12_PROSPECTIVE_ENTERING_SNAPSHOT.md) was committed at **`0a74e0403c3e32f438f61875142cc40c64a783e7`**. The snapshot's SHA-256 is **`8741334f47c5640fa446629ba5c06c58784479a9802f962bc49af61b43105e17`**. Source access began only after the integrating author confirmed the committed freeze and opened the content gate. Each guarded source-reading invocation required the selected EPUB's full corrected SHA-256 and a byte-identical canonical snapshot present in committed HEAD. The mechanical guard supported reproducibility; owner authorization and semantic gate acceptance remained separate requirements.
 
@@ -243,6 +243,18 @@ At this source boundary, complete consultation, independent source review, all s
 After that tested index, narrow currentness edits recorded the achieved SOC/JVL combined acceptance and the architecture's `PASS_AT_V12_BOUNDARY`. This audit and manifest now record the actual gate result and refresh the applied-payload digests. These changes introduce no new source claim or retrospective knowledge. **The final containing index, including all receipt/currentness metadata, must be restaged, fully reviewed and rerun through the same actual author preflight before commit.** The recorded tested tree identifies the completed earlier check; it is not presented as a hash of these later bytes or of a future containing commit.
 
 The containing completion commit, completion PR, published head, new exact-head `Repository integration audit` and completion merge remain **UNKNOWN/PENDING**, with `published_commit: null`. The final commit cannot contain its own hash; these receipts do not invent one. Publication results must be verified and recorded separately from source certification. Literary release, fourteen-witness character/R06 and specialist/convergence/synthesis work, justified derived models and formal terminal governance closure remain unpassed.
+
+### 6.5 Published source transaction and later reconciliation — 2026-10-23
+
+After reconciling with actual main `33c79435b797dfa0cff96b9e07211bbc7117233f`, the integrating author restaged and reviewed all sixteen declared paths, including the final receipt/currentness edits. The governing author preflight **PASSED in phase=current, snapshot=INDEX, 9,548 paths**. The committed source transaction is **`406b26c4591a9bce99c83a54600286f56a35678e`**, parent `33c79435b797dfa0cff96b9e07211bbc7117233f`, tree **`7eb3fe45c1079d0ee442be2d4cf3fcd531af0a6e`**, matching the final validated index. Normal push and remote readback confirmed all sixteen payload hashes. The branch was clean apart from private untracked execution aids.
+
+The author opened **[PR 288](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/288)**. Its source head's required **[Repository integration audit, run 39896985254](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39896985254)** completed SUCCESS; the exact commit's required status independently reads success. This resolves the pre-publication unknowns in §§6–6.4. Those sections retain their historical tested objects and checkpoint statements; the null fields described within their prose are not present-day publication claims. This later receipt can name the earlier published commit without inventing a containing self-hash.
+
+A subsequent repository reconciliation advanced the remote series branch to **`609991ad72ebff8646d8753f4c349808fc6560b6`**, an ordinary merge of main **`c407408f120143cef678a4dab65f821db56d4368`**. The only incoming paths are specialist-owned reconstruction capability data and its generated index, with six non-Tomozaki assessments. A full Tomozaki tree comparison is byte-identical. The integrating author preserved that commit by fast-forward, without editing the incoming outputs. Its **[new-head audit, run 39897839573](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39897839573)** was cancelled during validation and reported an error status; the explicit full rerun, **attempt 2, completed SUCCESS** on that exact head, and its required commit status reads success. This actual result certifies the reconciled head separately from the earlier source-head result.
+
+PR 288 was subsequently verified **MERGED** at **`73717d42aefa394207ab23bf98e774ed5cdecfb6`**, on 2026-10-23 at 04:37:37 UTC. The integrating author fetched both heads and fast-forwarded to that main merge; its full tree matches the reconciled source head. The merge commit's own required status was still absent at the receipt check, so no main-head audit success is invented. The analysis author did not merge its own PR. Later corrections and analytical tranches require their own final staged validation and exact published-head audit.
+
+The validated source freeze enabled the authorized fourteen-witness retrospective audit, which is now active. Local omission corrections and R06 drafts are separate work; they do not retroactively invalidate the source-order freeze or certify aggregate character, relationship, thematic, convergence, literary release, derived-model or terminal-governance completion. No further narrative source is admitted by completed/NONE.
 
 ## 7. Preservation and downstream routing
 
