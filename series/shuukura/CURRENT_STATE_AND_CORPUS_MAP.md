@@ -5,14 +5,14 @@ artifact_type: corpus_map
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.30"
+version: "1.31"
 status: active_provisional
 scope: "Single current entrypoint for a material analytical restart at the continuing Shuukura root"
-source_boundary: "I1 through E0005 plus complete BW02 historical backfill; BW04/05/08/10 pending; E0006+/V1 and main LN10 excluded"
+source_boundary: "I1 through E0005 plus complete BW02,BW04 historical backfill; web E0006+/V1 and main LN10 excluded"
 canonical_home: series/shuukura/CURRENT_STATE_AND_CORPUS_MAP.md
 created: "2026-10-17"
 planning_date: "2026-10-16"
-review_status: BW02_NATIVE_AND_CUMULATIVE_REVIEW_COMPLETED
+review_status: BW04_NATIVE_AND_CUMULATIVE_REVIEW_COMPLETED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -27,7 +27,7 @@ project_initialization:
   architecture_status: active_provisional
   source_reconnaissance_complete: true
   source_reconnaissance_scope: METADATA_BYTES_STRUCTURE_AND_PROVENANCE_ONLY
-  source_admission: VERIFIED_I1_THROUGH_E5_AND_BW02_COMPLETE_PLUS_BOUNDED_ADDENDUM
+  source_admission: VERIFIED_I1_THROUGH_E5_AND_BOUNDED_BW_BACKFILL_2_COMPLETE
   required_day_one_infrastructure_initialized: true
   required_day_one_infrastructure:
     - "04 Longitudinal Ledgers/SHUUKURA_CHARACTER_STATE_AND_READINESS_LEDGER.md"
@@ -38,14 +38,14 @@ project_initialization:
   owner_review: CURRENT_OWNER_INSTRUCTION_AUTHORIZES_VALIDATED_BOOTSTRAP_ADOPTION
   sequential_analysis_lock: OPEN
   lock_reason: VERIFIED_FOUNDATION_AND_ORDERED_I1_UNIT_ADMISSION
-  next_permitted_operation: BW-JP-V04
+  next_permitted_operation: BW-JP-V05
 sequential_execution:
   mode: continuous_sequential
   unit_type: other
   authorized_start: LN-JP-V01
   terminal_boundary: SHUUKURA-V2-20261017-I1
-  committed_high_water_mark: BW-JP-V02
-  next_candidate_operation: BW-JP-V04
+  committed_high_water_mark: BW-JP-V04
+  next_candidate_operation: BW-JP-V05
   confirmation_between_units: false
   run_state: active
   inventory_freeze_state: FROZEN_AVAILABLE_UNITS_AND_EXPLICIT_MANDATORY_GAPS
@@ -53,16 +53,16 @@ sequential_execution:
   authorization_record: "08 Audits and Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md#bounded-bookwalker-backfill-authorization--2026-10-22"
 analytical_execution:
   authorization: OWNER_AUTHORIZED_BOUNDED_BW02_04_05_08_10_BACKFILL_WEB_PAUSED
-  sequential_units_admitted: 33
-  sequential_units_completed: 33
-  committed_narrative_high_water_mark: BW-JP-V02
-  character_reconstruction_readiness: BW02_HISTORICAL_SOURCE_FIT_NO_VALIDATED_DOMAIN
+  sequential_units_admitted: 34
+  sequential_units_completed: 34
+  committed_narrative_high_water_mark: BW-JP-V04
+  character_reconstruction_readiness: BW04_HISTORICAL_SOURCE_FIT_NO_VALIDATED_DOMAIN
 scoped_backfill:
   inventory: "00 Frameworks and Methods/SHUUKURA_V2_BW_BACKFILL_INVENTORY_20261022_A1.json"
   ordered_units: [BW-JP-V02, BW-JP-V04, BW-JP-V05, BW-JP-V08, BW-JP-V10]
   terminal_unit: BW-JP-V10
-  completed: 1
-  state: in_progress_remaining_four_bonuses
+  completed: 2
+  state: in_progress_remaining_3_bonuses
   web_sequence: OWNER_PAUSED_AFTER_E0005_NO_E0006
   main_LN10: EXCLUDED_UNOPENED
   V1_interpretations: EXCLUDED_UNOPENED
@@ -80,24 +80,24 @@ This is the single V2 first-read surface for **週に一度クラスメイトを
 
 `SEQUENTIAL_ANALYSIS_LOCK = OPEN`
 
-`NEXT_PERMITTED_OPERATION = BW-JP-V04`
+`NEXT_PERMITTED_OPERATION = BW-JP-V05`
 
 ## Current execution
 
-The owner's finite BOOKWALKER backfill is **1/5complete** in order BW02 → BW04 → BW05 → BW08 → BW10. [BW02](03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_BW_JP_V02_DEEP_READING.md) adds the final-high-school June sports festival: Miyagi's unwanted attention and changed task; Sendai's peer care, private self-restraint and actual race cooperation with Aida. Its full original-page reading, OCR/ruby corrections, retrospective claim revisions and coverage advance belong to one complete transaction. [BW02 checkpoint](08%20Audits%20and%20Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md#bw02-complete-historical-backfill--2026-10-22) owns acceptance and publication limits.
+The owner's finite BOOKWALKER backfill is **2/5complete** in order BW02 → BW04 → BW05 → BW08 → BW10. [BW04](03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_BW_JP_V04_DEEP_READING.md) adds a winter overnight interval: Miyagi privately imagines continuation while waiting for the guest, then Sendai rejects a desired return the following morning and hurries toward prep school. Its full original-page reading, source corrections, retrospective ledger revisions and coverage advance belong to one complete transaction. [Latest checkpoint](08%20Audits%20and%20Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md#bw04-complete-historical-backfill--2026-10-22) owns acceptance and publication limits.
 
-Next is **BW-JP-V04**, only after this whole unit is committed. The [five-source addendum](00%20Frameworks%20and%20Methods/SHUUKURA_V2_BW_BACKFILL_INVENTORY_20261022_A1.json) and [owner authorization](08%20Audits%20and%20Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md#bounded-bookwalker-backfill-authorization--2026-10-22) bind the remaining four bonuses. Web remains paused after E0005, main LN10/V1 unopened. BW10 is a new bonus-only addendum outside original I1; the active global LN01→I1 gate does not expand this finite lane.
+Next is **BW-JP-V05**, only after this whole unit is committed. The [five-source addendum](00%20Frameworks%20and%20Methods/SHUUKURA_V2_BW_BACKFILL_INVENTORY_20261022_A1.json) and [authorization](08%20Audits%20and%20Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md#bounded-bookwalker-backfill-authorization--2026-10-22) bind this scope. Web remains owner-paused afterE0005; main LN10/V1 unopened. BW10 is bonus-only outside original I1. The global LN01→I1 program remains unfinished; its active metadata does not expand this finite lane.
 
 ## Current boundaries
 
 | Responsibility | Current state |
 | --- | --- |
 | Primary LN witnesses | V01–V09 exact acquired Japanese editions admitted for ordered reading; all source hashes, colophons and native locator manifests verified; conversion-history limits retained |
-| Accessible supplements | Original18complete plus BW02=19current; new finite lane1/5. BW04/05/08/10 pending. The BW02 named I1 gap is resolved by its complete accepted reading; other identities remain. Both OFF archives stay local. |
-| Web witnesses | Kakuyomu5/431 through E0005, E0006+paused/unread. Original available set32/458 remains its own denominator; current additive completion33/463. Narō0/290,27discovery duties and modality responsibilities remain. |
+| Accessible supplements | Original18complete plus2newBW=20current; finite lane2/5. Pending: BW05/BW08/BW10. Whole-source acceptance resolves2named I1 gap candidates; BW10 is a new bonus-only addition. Both OFF archives stay local. |
+| Web witnesses | Kakuyomu5/431 throughE0005, E0006+paused/unread. Original available set32/458 remains separate; additive completion34/463. Narō0/290,27discovery duties and modality responsibilities remain. |
 | Frozen extent | Original I1 membership/hash remains immutable, including LN01–09. A separate finite addendum binds BW02/04/05/08/10. Main LN10, E0432+ and automatic future releases remain excluded. |
-| Literary coverage | LN01–09,19supplements and Kakuyomu E0001–E0005 complete through whole atomic commits. BW02 is historical June evidence, after OFF01spring/before OctoberBW03/NovemberOFF02; adult states remain. G3–G7 unfinished. |
-| Longitudinal state | Fourledgers1.24:158claimIDs/508formulations/763propositions/179rules. BW02 adds5claims/5earlierrevisions,16props/2earlierrevisions,1private historical self-rule/1earlier rule extension,8character/8relational events,6projectionrows/7directionIDs and5readiness reviews. All old rows/versions/errata preserved. |
+| Literary coverage | LN01–09,20supplements and KakuyomuE0001–E0005 complete through whole atomic commits. Historical bonus states retain event clocks; later adult states remain. G3–G7 unfinished. |
+| Longitudinal state | Fourledgers1.25: 163claimIDs/517formulations/777propositions/180rules. Latest BW04 appendices record source-specific states, direction/knowledge, claim/proposition/rule revisions and readiness decisions. All older rows/versions/errata preserved. |
 | Reconstruction | M0.13/S0.14 draft_noncurrent/UNTESTED; zero validated domains. All18forecasts/13historical attempts and failures/ties/exposure limits unchanged. New historical source fit earns no held-out score or current model promotion; required studies/tests/abstention remain. |
 | Synthesis and V1 comparison | Responsibilities/dependencies defined; no specialist, monograph, comparison findings or integrated synthesis |
 | Historical authority | V1 is preserved historical analysis and provenance; it does not supply current V2 conclusions |
@@ -109,10 +109,10 @@ The [source inventory](00%20Frameworks%20and%20Methods/SHUUKURA_SOURCE_INVENTORY
 | Dependency | Verified condition and consequence | Recovery condition |
 | --- | --- | --- |
 | Independent LN lane | All9 admitted originals complete; main LN10 excluded | Preserve all novel prospective freezes. The current task admits five bonus stories; web remains paused. |
-| Supplemental gap reconciliation | Original I1 retains51historical candidate-gap rows and27discovery duties. BW02 resolves1; four acquired BW candidates now1/4accepted, with50candidate gaps still unresolved. | Read BW04/05/08/10 within the finite lane, retain original I1 and resolve only whole accepted sources; other source/modality obligations remain. |
+| Supplemental gap reconciliation | Original I1 retains51historical gap candidates and27discovery duties. Current2resolved/49unresolved; acquired BW02/04/05/08 gaps2/4accepted. BW10 is outside I1. | Finish the remaining finite bonuses with whole-source/backfill acceptance; retain all other source/modality duties. |
 | Narō correspondence / discovery completeness | N0800GA episodes 1–290 remain an unperformed source-correspondence obligation; 27 frozen author-notice records require original-story holdings and duplication reconciliation. | Complete source access/correspondence and the bounded discovery audit after independent LN freezes; keep any genuine missing sources visible. |
 
-Narrative admission high-water is **BW-JP-V02**, with LN09/19supplements/KakE0005/Narō0; current additive completion **33/463**. Original I1 availability458 and its32completed available members remain separately counted. Next permitted operation is **BW-JP-V04**; the lane stops after BW10 and its upstream publication. E0006 remains owner-paused and all full-program obligations remain.
+Narrative admission high-water is **BW-JP-V04**, with LN09/20supplements/KakE0005/Narō0; additive completion **34/463**. Original I1 availability458 and its32completed available members remain separate. Next permitted operation is **BW-JP-V05**. The lane stops after BW10 and its upstream publication. E0006 remains owner-paused and all full-program obligations remain.
 
 ## Governing retrieval order
 

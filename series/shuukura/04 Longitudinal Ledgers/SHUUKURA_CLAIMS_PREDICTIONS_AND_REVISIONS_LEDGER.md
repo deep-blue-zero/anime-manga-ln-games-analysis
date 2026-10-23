@@ -5,10 +5,10 @@ artifact_type: longitudinal_ledger
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.24"
+version: "1.25"
 status: active_provisional
 scope: "Versioned interpretation, falsifiable predictions, counterevidence and post-freeze historical comparison"
-source_boundary: "I1 through E0005 plus complete BW02 historical backfill; later new bonuses/E0006+/V1 and main LN10 excluded"
+source_boundary: "I1 through E0005 plus complete BW02,BW04 historical backfill; web E0006+/V1 and main LN10 excluded"
 canonical_home: series/shuukura/04 Longitudinal Ledgers/SHUUKURA_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md
 created: "2026-10-17"
 planning_date: "2026-10-16"
@@ -21,7 +21,9 @@ do_not_use_as_literary_evidence: true
 
 # Claims, predictions, revisions and V1 reconciliation
 
-Revision1.24 is current through complete BW-JP-V02 historical backfill. [BW02 observation index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_BW_JP_V02_DEEP_READING.md#observation-locator-index) owns14observations over16originalcaptures/181native-story-member paragraphs. Five new claims/five earlier claim revisions,16newpropositions/two earlier revisions,one new unilateral historical self-rule/one earlier rule extension yield158claimIDs/508formulations/763propositions/179rules. Eight character/eight directional events, six projection rows/seven direction IDs and five readiness/role reviews retain individual clocks/access. New scoped lane1/5, supplements19, additive completion33/463; original I1 and older states remain exact. Web stays paused afterE5, mainLN10/V1 excluded, M0.13/S0.14 noncurrent/UNTESTED and18forecasts/13attempts unchanged; zero validated domains.
+Revision1.25 is current through complete BW-JP-V04 historical backfill. [BW04 observation index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_BW_JP_V04_DEEP_READING.md#observation-locator-index) owns12observations over11originalcaptures/110native-story-member paragraphs. Five new claims/four earlier claim revisions,14newpropositions/zero earlier revisions and1new historical S-private self-instruction/1earlier rule extension;6character/5relationship events and3historical projections/readiness reviews. Totals163claimIDs/517formulations/777propositions/180rules. Scoped lane2/5, supplements20, additive completion34/463; original I1 unchanged. Web paused afterE5, mainLN10/V1 excluded; M0.13/S0.14 noncurrent/UNTESTED,18forecasts/13attempts unchanged and zero validated domains.
+
+Prior BW02 scope notice (preserved historical routing): Revision1.24 is current through complete BW-JP-V02 historical backfill. [BW02 observation index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_BW_JP_V02_DEEP_READING.md#observation-locator-index) owns14observations over16originalcaptures/181native-story-member paragraphs. Five new claims/five earlier claim revisions,16newpropositions/two earlier revisions,one new unilateral historical self-rule/one earlier rule extension yield158claimIDs/508formulations/763propositions/179rules. Eight character/eight directional events, six projection rows/seven direction IDs and five readiness/role reviews retain individual clocks/access. New scoped lane1/5, supplements19, additive completion33/463; original I1 and older states remain exact. Web stays paused afterE5, mainLN10/V1 excluded, M0.13/S0.14 noncurrent/UNTESTED and18forecasts/13attempts unchanged; zero validated domains.
 
 Prior E0005 scope notice (preserved historical routing): Revision1.23 is current through the whole KAK-JP-E0005 transaction. [E0005 observation index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KAK_JP_E0005_DEEP_READING.md#recoverable-evidence-and-observation-locator-index) owns16 observations across235native paragraphs. The historical first home visit completes the aloud manga task after objection/rejected repayment and represents a recurring5000yen-per-occasion after-school arrangement with voiced limits. Rumor/teacher purpose, private promise/ceiling/exit, exact initial school/phone terms, contact exchange/homeward departure and final no-rain observation remain mode/actor/time-specific. Eight character/ten relational events, two historical projections each, three readiness/role reviews, six new rule identities/one earlier rule revision;28new propositions/four earlier revisions/28access/seven tensions;four new claims/four earlier claim revisions. Totals153claimIDs/498formulations/747props/178rules;18forecasts/13attempts unchanged. M0.13/S0.14noncurrent/UNTESTED, zero validated domains; all older rows/errata/failures and source duties retained. Later December/adult/OFF states coexist. Owner pause after current publication; E0006+/V1/LN10 unadmitted.
 
@@ -1576,3 +1578,33 @@ Local O### references resolve to OBS-BW-JP-V02-O### in [BW02 observation index](
 ### Prediction, V1 and model disposition
 
 All18forecast identities and13historical test attempts, failures/ties and exposure limits are unchanged. No BW02 forecast was registered, no retrospective outcome is scored and no reconstruction domain is validated. M0.13/S0.14 remain byte-identical, noncurrent/UNTESTED. V1 interpretations remain unopened; the six-state V1 crosswalk has no new comparison result. Existing October BW03 claims001–004, school-rule/secrecy/friend-play histories and later adult labels retain their original scopes. This backfill adds evidence and versions; it does not repair them by silently changing their old words.
+
+
+## BW-JP-V04 retrospective backfill — 2026-10-22
+
+Local O### references resolve to OBS-BW-JP-V04-O### in [BW04 observation index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_BW_JP_V04_DEEP_READING.md#observation-locator-index). Native p ordinals belong to `OEBPS/text/part_002.xhtml`; original-capture corrections control OCR noise. This late-admitted source has its own historical actor/event clock, distinct from publication and current reading dates. All older formulations, rows, tests, errata and later adult states are preserved; no new held-out prediction, validation score, main LN10, V1 or web E0006 narrative is admitted.
+
+### New claims and alternatives
+
+| Claim / revision | Type / scope | Formulation | Evidence | Strongest limits / alternatives | Assessment / downstream |
+| --- | --- | --- | --- | --- | --- |
+| `CLM-BW-JP-V04-001.v1` / prior NONE | INTERPRETATION / historical BW04-A1 | Miyagi conditionally entertains continuation while trying to suppress the guest and pleasure from thought | O003–006;p10–55 | Academic future/Maika, real tasks and ordinary hosting remain; no actual deadline rescission or finished declaration | Supported historical conflict, not proof consciously named romance |
+| `CLM-BW-JP-V04-002.v1` / prior NONE | INTERPRETATION / historical BW04-A1 | Sendai actively limits a desired repeat stay/return rather than merely complying with an externally imposed exclusion | O008–012;p62–110 | Institutional duty/time and feared own restraint coexist; no specified intended act or completed arrival | Supported local initiative/self-restraint; no permanent safe-conduct model |
+| `CLM-BW-JP-V04-003.v1` / prior NONE | INTERPRETATION / historical BW04-A1 | Successive evening/morning focalizers reveal asymmetry without transferring each private explanation to the other | O002–012;p3–110 | M evening interior cannot certify M exact morning feeling; full overnight action remains absent | Supported time/access distinction and qualified inference |
+| `CLM-BW-JP-V04-004.v1` / prior NONE | INTERPRETATION / historical BW04-A1 | Performed retention and later-contact intention show local initiative without a newly fixed appointment or changed graduation agreement | O003/O005/O009–010;p15–17/39–47/71–87 | S fears delayed contact but source supplies no actual message outcome; grip later ceases | Supported narrow relational change, not new permanent entitlement |
+| `CLM-BW-JP-V04-005.v1` / prior NONE | INTERPRETATION / historical BW04-A1 | Food, familiar objects, warmth and bodily straightening make altered routine perceptible while separating welcome from composure | O004–007/O011–012;p24–61/88–110 | Objects need no fixed symbolism; cold, fatigue and actual exam obligations remain causal alternatives | Bounded formal/domestic interpretation, no hidden intentional code |
+
+### Attributable extensions of established claims
+
+| Established ID / successor | Earlier formulation retained | Transition / new historically bounded addition | New evidence | Counterlimit / downstream |
+| --- | --- | --- | --- | --- |
+| `CLM-LN-JP-V01-002.v15` / prior v14 | Exact v14 and all prior argument/evidence/countercases remain in preceding rows and immutable beforeimage | STRENGTHEN historically: M conditional continuation/private denial and S wanted repeat stay/return add different forms of attention that each does not fully hear | O003–012;p10–110 | No complete mutual understanding, confidently named romance or replacement of adult formulations |
+| `CLM-LN-JP-V02-004.v18` / prior v17 | Exact v17 and all prior argument/evidence/countercases remain in preceding rows and immutable beforeimage | STRENGTHEN contextual agency: M retains/accommodates guest and initially delays departure; S actively releases/declines private return excuse as real prep-school duty also constrains | O002–012;p3–110 | No global sole initiator, forced-confinement label, amended horizon or all-context safety claim |
+| `CLM-LN-JP-V03-005.v27` / prior v26 | Exact v26 and all prior argument/evidence/countercases remain in preceding rows and immutable beforeimage | STRENGTHEN time/access precision: evening M and following-morning S reveal successive interiors; Maika route reminder and inferred lonely voice retain actor limits | O003/O005–012;p15–17/39–110 | M evening account does not certify exact M morning affect; no new leak/apology or thought transfer |
+| `CLM-LN-JP-V04-003.v8` / prior v7 | Exact v7 and all prior argument/evidence/countercases remain in preceding rows and immutable beforeimage | STRENGTHEN ordinary domestic coordination: already prepared bath, guest supplies, unsuccessful reading, privately valued shared stew and breakfast prepared add imperfect hosting beside later meal histories | O002–007/O011–012;p3–61/93–110 | No observed simultaneous breakfast cooking/consumption, perfect expertise, universal care repair or fulfillment of BW06 other-occasion unperformed stew offer |
+
+### Preserved horizons, predictions and models
+
+CLM-LN-JP-V02-003.v8/V04-005.v6 future/housing terms, trust V04-001.v6, RULE025.v1/027.v1 overnight/study choices, meals RULE024.v7 and information-distribution RULE153.v1 remain exact; M imagined cancellation is not a negotiated revision. PROP-KSS-04-021.v1/022.v1 preserve fuller later apology/content and M/S concealment/own-answer discussion; new PROP-BW-JP-V04-002/005–006 cross-reference them without inventing another transfer or replacing their subjects. No inherited proposition version changes here. Maika's earlier KSS04 deferred repair, original LN04 later repair and this retrospective reminder remain separate presentations of one history.
+
+All18forecast identities and13historical test attempts/failures/ties/exposure limits remain unchanged. No new forecast or trial is registered/scored. M0.13/S0.14 remain byte-identical noncurrent/UNTESTED with zero validated domains. V1 remains unopened with no new crosswalk comparison; principal/supporting monograph and reconstruction duties remain. Source-local historical fit is not operational validation.

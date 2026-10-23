@@ -5,10 +5,10 @@ artifact_type: longitudinal_ledger
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.24"
+version: "1.25"
 status: active_provisional
 scope: "Directional relational states and the lifecycle of rules, consent, negotiation and commitments"
-source_boundary: "I1 through E0005 plus complete BW02 historical backfill; later new bonuses/E0006+/V1 and main LN10 excluded"
+source_boundary: "I1 through E0005 plus complete BW02,BW04 historical backfill; web E0006+/V1 and main LN10 excluded"
 canonical_home: series/shuukura/04 Longitudinal Ledgers/SHUUKURA_RELATIONSHIP_RULE_AND_BOUNDARY_LEDGER.md
 created: "2026-10-17"
 planning_date: "2026-10-16"
@@ -21,7 +21,9 @@ do_not_use_as_literary_evidence: true
 
 # Directional relationships, rules and boundaries
 
-Revision1.24 is current through complete BW-JP-V02 historical backfill. [BW02 observation index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_BW_JP_V02_DEEP_READING.md#observation-locator-index) owns14observations over16originalcaptures/181native-story-member paragraphs. Five new claims/five earlier claim revisions,16newpropositions/two earlier revisions,one new unilateral historical self-rule/one earlier rule extension yield158claimIDs/508formulations/763propositions/179rules. Eight character/eight directional events, six projection rows/seven direction IDs and five readiness/role reviews retain individual clocks/access. New scoped lane1/5, supplements19, additive completion33/463; original I1 and older states remain exact. Web stays paused afterE5, mainLN10/V1 excluded, M0.13/S0.14 noncurrent/UNTESTED and18forecasts/13attempts unchanged; zero validated domains.
+Revision1.25 is current through complete BW-JP-V04 historical backfill. [BW04 observation index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_BW_JP_V04_DEEP_READING.md#observation-locator-index) owns12observations over11originalcaptures/110native-story-member paragraphs. Five new claims/four earlier claim revisions,14newpropositions/zero earlier revisions and1new historical S-private self-instruction/1earlier rule extension;6character/5relationship events and3historical projections/readiness reviews. Totals163claimIDs/517formulations/777propositions/180rules. Scoped lane2/5, supplements20, additive completion34/463; original I1 unchanged. Web paused afterE5, mainLN10/V1 excluded; M0.13/S0.14 noncurrent/UNTESTED,18forecasts/13attempts unchanged and zero validated domains.
+
+Prior BW02 scope notice (preserved historical routing): Revision1.24 is current through complete BW-JP-V02 historical backfill. [BW02 observation index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_BW_JP_V02_DEEP_READING.md#observation-locator-index) owns14observations over16originalcaptures/181native-story-member paragraphs. Five new claims/five earlier claim revisions,16newpropositions/two earlier revisions,one new unilateral historical self-rule/one earlier rule extension yield158claimIDs/508formulations/763propositions/179rules. Eight character/eight directional events, six projection rows/seven direction IDs and five readiness/role reviews retain individual clocks/access. New scoped lane1/5, supplements19, additive completion33/463; original I1 and older states remain exact. Web stays paused afterE5, mainLN10/V1 excluded, M0.13/S0.14 noncurrent/UNTESTED and18forecasts/13attempts unchanged; zero validated domains.
 
 Prior E0005 scope notice (preserved historical routing): Revision1.23 is current through the whole KAK-JP-E0005 transaction. [E0005 observation index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KAK_JP_E0005_DEEP_READING.md#recoverable-evidence-and-observation-locator-index) owns16 observations across235native paragraphs. The historical first home visit completes the aloud manga task after objection/rejected repayment and represents a recurring5000yen-per-occasion after-school arrangement with voiced limits. Rumor/teacher purpose, private promise/ceiling/exit, exact initial school/phone terms, contact exchange/homeward departure and final no-rain observation remain mode/actor/time-specific. Eight character/ten relational events, two historical projections each, three readiness/role reviews, six new rule identities/one earlier rule revision;28new propositions/four earlier revisions/28access/seven tensions;four new claims/four earlier claim revisions. Totals153claimIDs/498formulations/747props/178rules;18forecasts/13attempts unchanged. M0.13/S0.14noncurrent/UNTESTED, zero validated domains; all older rows/errata/failures and source duties retained. Later December/adult/OFF states coexist. Owner pause after current publication; E0006+/V1/LN10 unadmitted.
 
@@ -1716,3 +1718,33 @@ Local O### references resolve to OBS-BW-JP-V02-O### in [BW02 observation index](
 | --- | --- | --- | --- | --- | --- |
 | `RULE-BW-JP-V02-001` / v1 / R179 | Sendai-private / final-HS June race | After-school/nonfriend framing bars herself from approaching M under the friend prompt | Actual self-check/selection change; no new spoken negotiation with M | O013;p163–169 | Historical unilateral contextual self-rule; no timeless mutual ban, actual M response or adult contract revival |
 | `RULE-LN-JP-007` / v18 after v17 | Inherited initiative expectation; differentiated historical evidence | PRESERVE all v17 domains/dates. Add M task choice/cutoff and S almost-approach/self-restraint, while S also performs real care/cooperation with peers | Source-specific initiatives/limits rather than an exclusive-initiator agreement | O003–014;p16–181; older evidence retained | STRENGTHEN historical contextual agency; RULE003.v3/004.v11/018.v6 unchanged; no inferred abolition or new mutual restriction |
+
+
+## BW-JP-V04 retrospective backfill — 2026-10-22
+
+Local O### references resolve to OBS-BW-JP-V04-O### in [BW04 observation index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_BW_JP_V04_DEEP_READING.md#observation-locator-index). Native p ordinals belong to `OEBPS/text/part_002.xhtml`; original-capture corrections control OCR noise. This late-admitted source has its own historical actor/event clock, distinct from publication and current reading dates. All older formulations, rows, tests, errata and later adult states are preserved; no new held-out prediction, validation score, main LN10, V1 or web E0006 narrative is admitted.
+
+### Append-only directional events
+
+| Event ID / revision | Direction / clock | Transition | Initiative / response / consequence | Exact evidence | Limit |
+| --- | --- | --- | --- | --- | --- |
+| `REL-BW-JP-V04-001` / v1 | M→S / evening hosting | Guest retained → practical bath accommodation | M prepares supplies/hot water, directs S; S expresses surprise/leaves, M waits restlessly | O002–004;p3–38 | Guest bath alone, not shared physical permission; M own reasons unshared |
+| `REL-BW-JP-V04-002` / v1 | M→S / evening PRIVATE | Graduation deadline retained → continuation imagined | M conditionally imagines void deadline/attend Maika university/cook again, recalls S wanting to meet; own answer incomplete | O005–006;p39–55 | Imagining is not a communicated rescission, new university agreement or confession |
+| `REL-BW-JP-V04-003` / v1 | M→S / next-morning observed entrance | Escort → initial grip → later contact intention | M grips departing arm; S holds hand/asks; M next-year intention and will contact once study day chosen | O009–010;p71–85 | No fixed appointment; M own morning affect unknown; after S releases/steps M does not restrain again |
+| `REL-BW-JP-V04-004` / v1 | S→M / next morning | Desired repeat stay/return → performed separation | S fears own restraint, rejects hug/return excuse, releases hand/waves and hurries prep-schoolward | O008–012;p62–110 | No new mutual ban/withheld hug actually received, return or arrival; M does not know full S interior |
+| `REL-BW-JP-V04-005` / v1 | Maika→S then Maika→M / retrospectively reported | One university report → M knows content was told | M says yesterday Maika told her of telling S M university target; compare original LN03 encounter/LN04 repair and KSS04 earlier debt | O003;p15–17; KSS04-O005/LN04-O026–033 | Not a second leak or freshly narrated apology; no M total contact ignorance, Maika new secret motive or changed legal duty |
+
+### Historical directional projections
+
+| Projection ID | As-of source clock | State / knowledge | Prior/later packets retained |
+| --- | --- | --- | --- |
+| DIR-BW-JP-V04-M_TO_S-v1 | Evening endpoint, with separate observed next-morning grip | M private denial/conditional future/incomplete answer; knows S recalled wish to meet. Performs accommodation/retention. Does not receive S later restraint/excuse. O002–006/O009;p3–55/71–75 | Graduation remains active at this clock; later LN04 roommate agreement and adult states unaffected |
+| DIR-BW-JP-V04-S_TO_M-v1 | Following morning road endpoint | S received lodging/meal/breakfast prepared/grip/later-contact intention, not M full private account. Wants return, debates M loneliness, chooses prep school. O007–012;p57–110 | No bonus breakfast consumption, certainty M lonely/indifferent/whimsical, global school-ban rule or private thought transfer |
+| DIR-BW-JP-V04-MAIKA_INFORMATION-v1 | M retrospective reported knowledge | Maika→S target information and Maika→M later fuller report remain one established chain; M/reader know report, S/Ami not automatically know this recounting. O003;p15; KSS04-O005 | Earlier SS endpoint deferred repair and original LN04 later repair remain distinct; no new Maika present-state model |
+
+### Historical self-instruction and established-rule extension
+
+| Rule / revision | Parties / clock | Formulation and force | Recognition / consequence | Evidence | Counterlimit / lineage |
+| --- | --- | --- | --- | --- | --- |
+| `RULE-BW-JP-V04-001` / v1 / R180 | Sendai-private / next-morning road | Distinguish yesterday from today and switch feelings to attend prep school rather than follow desired return | Locally performed hurrying, no other party agreed/enforced it | O011–012;p88–110 | Historical self-instruction, not durable contract, evidence of no desire or completed school arrival |
+| `RULE-LN-JP-007` / v19 after v18 | Inherited initiative expectation; historical differentiated evidence | PRESERVE v18 all dates/domains. Add M arranging guest/conditional continuation/initial exit grip and S actively releasing/rejecting excuse | Each has local initiative and restraint; private reasons not shared | O002–012;p3–110 | STRENGTHEN contextual agency; graduation promise not revoked, no blanket access/permission or claim every initiative is safe |

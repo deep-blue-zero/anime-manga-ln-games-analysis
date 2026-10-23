@@ -5,13 +5,13 @@ artifact_type: execution_admission_audit
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.27"
+version: "1.28"
 status: active_provisional
 scope: "Verified foundation, bounded source admission, exposure limits and atomic recovery"
-source_boundary: "I1 through E0005 plus complete BW02 historical backfill; BW04/05/08/10 pending; E0006+/V1 and main LN10 excluded"
+source_boundary: "I1 through E0005 plus complete BW02,BW04 historical backfill; web E0006+/V1 and main LN10 excluded"
 canonical_home: series/shuukura/08 Audits and Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md
 created: "2026-10-17"
-review_status: BW02_NATIVE_AND_CUMULATIVE_REVIEW_COMPLETED
+review_status: BW04_NATIVE_AND_CUMULATIVE_REVIEW_COMPLETED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1186,3 +1186,24 @@ Fourledgers1.24 append8character/8relational events,6projectionrows/7directionID
 The exact I1 gap alias **RETAIL-JP-V02-BOOKWALKER-SS → BW-JP-V02** is resolved only by this complete accepted source/ledger transaction. Original I1 bytes/hash and51historical candidate rows remain intact; current disposition1resolved/50unresolved. BW04/05/08 acquired candidates remain pending; BW10 is a new explicitly authorized bonus outside I1. Current additive completion33/463, supplements19/23 and scoped lane1/5; original frozen available-set completion32/458 remains separate. Kakuyomu5/431 and Narō0/290 do not advance. All27discovery/modality/G3–G7 duties remain. Both OFF archives and all new primary evidence stay local.
 
 Next **BW-JP-V04** follows only after the complete introducing commit. E0006+, main LN10 and V1 remain unopened/excluded. Current author publication requires fresh main/source reconciliation, exact-index preflight, non-forced push/readback, open/update PR and successful trusted actual-head audit; conditional housekeeping only. This candidate's introducing commit/preflight/actual publication identities resolve through Git and private receipts, avoiding circular selfhash. Main integration belongs to the CI agent and is not claimed by local acceptance.
+
+
+## BW04 complete historical backfill — 2026-10-22
+
+**BW-JP-V04 / 私たちだけの夜** completes the second of five newly supplied BOOKWALKER bonuses. All11original captures were actually read in order: cover1, fiction2–10, colophon11. The issue date is2024-04-19; event time is the winter/year-end overnight interval, first Miyagi's evening then Sendai's next morning. Sendai's eighteen-year routine reference does not independently give Miyagi's age. Canonical534309bytes/SHA422b9e28d38d2baea5e00ed654db9767e1a629d329831c2939b3cb376fcd364e and FXL10473156/SHA97094c7238dce6ace8499047a93563ca72300a98e3e3d7cb1c00770d8661a796 remain exact. The [five-source addendum](../00%20Frameworks%20and%20Methods/SHUUKURA_V2_BW_BACKFILL_INVENTORY_20261022_A1.json) is unchanged29672bytes/SHA26c5a1ced2334329bb302a3c1a57acae51ba0f9927383cc705936a87ea52d159; original I1 remains immutable.
+
+Entering freeze13744bytes/SHA6d3d448a0b63891b98cac3005dc555d75c2e3b7267eb263807b5fe1ad36d0e9c@23:36:33.034978UTC binds complete priorBW02commit582be6ef2d9214829de4d44bf5c344f76ab77c35 and exact current inputs. F1@23:40:58.264796 seals4283journalbytes/SHA8f909f7ffe9775270d1511e2ffdb6c43630bcf0a26e11480e027a988850efbbf after mixed capture6, already including Sendai opening prose; no before-second-perspective blindness is claimed. Whole F2/Q1@23:41:52.341483/457342 seals7953/SHA31defd8070da40b098d8b5f26c57f4656df14690086a5bf9a17ab0c84e7233cb before native/OCR/comparison/review. Frozen notes stay exact, with separate later precision notes for breakfast shorthand and actual exposure.
+
+Independent review read all11original images before sealing7597bytes/SHA32a33a8f50245d1ebe8b1385cabdf213892e094d4ecae1c2daf9bc932fe108e8, then all3spines/141native p/110story-member p(107prose plus title/two markers)/149raw columns.1118checks pass with0failures, no missing/reordered body. Nine OCR-affected paragraphs plus3katakana normalization caveats, duplicate generated title, lossy colophon and0visible/raw/native ruby are recorded in the [reading](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_BW_JP_V04_DEEP_READING.md). Original view copies match source bytes; FXL body pixels match below changed header area. No retail-binary identity is certified; no primary EPUB/image/OCR transcript/private absolute path enters Git.
+
+Miyagi's actual guest accommodation and failed composure coexist with private denial, an imagined postgraduation cooking future and an unfinished answer to Sendai's recalled wish to meet. The deadline is not actually revoked. Sendai's next-morning account supplies wanted repeat stay, feared own restraint, initial Miyagi arm grip, limited later-contact intention and competing lonely-voice interpretations. A wished hug and milk complaint/return excuse remain unperformed. The meal is tasty, not objectively failed; roux presence is not a narrated purchase. Miyagi is absent on Sendai waking and breakfast had been prepared, without a simultaneous cooking observation or breakfast consumption here. Actual endpoint hurries toward prep school; no arrival/lateness/return or later contact delay is proved.
+
+Accepted LN04 and KSS04 keep one university disclosure chain: earlier Maika telling Sendai, later Maika full report/apology to Miyagi and M/S discussion. BW04's yesterday/today reminder adds a witness, not another leak or apology. Miyagi evening interior does not certify her exact morning feeling. Original LN04 contact refusals, meaningful choices, study and later housing agreement remain intact, without contact permission inferred from same-futon memory.
+
+Fourledgers1.25 append6character/5relationship events,3directional historical projections/readiness reviews,14newpropositions,1Sendai-private historical self-instruction plus RULE007v19,5newclaims and4earlierclaim successors: V01-002v15/V02-004v18/V03-005v27/V04-003v8. Totals163claimIDs/517formulations/777propositions/180rules. No inherited proposition is revised: KSS04-021/022 remain exact alongside trust/horizon, winter-study/overnight and meal-rule histories. All older table lines and bodies, earlier source readings, versions/errata and model bytes remain preserved.18forecasts/13historical attempts/failures/ties/exposure limits and zero validated domains are unchanged; M0.13/S0.14 remain noncurrent/UNTESTED. Maika's supporting-role responsibility gains reported information-route precision without invented interior or automatic monograph/model completion.
+
+RETAIL-JP-V04-BOOKWALKER-SS resolves only through this complete accepted transaction. With BW02,2of4 acquired I1 gap candidates are accepted: original51historical rows retained, current2resolved/49unresolved. BW05/BW08 remain pending; BW10 is a new bonus-only source outside I1. Scoped lane2/5, supplements20/23, additive completion34/463; original available-member completion32/458 remains separate. Kakuyomu5/431, Narō0/290, all27discovery/modality/G3–G7 duties remain. Main LN10, E0006+ and V1 remain unopened/excluded; both OFF archives remain local.
+
+Prior BW02 upstream closeout is verified on exact582be6ef/tree1ce7add72a14c491349339378ff41de0746ceb17: owner-push audit39872780253 SUCCESS,452tests/9534paths, trusted github-actions[bot]status57046942769. All10remote blob hashes match; PR280 was open at that readback, main integration not claimed. This does not certify BW04's future commit: its actual indexed preflight, introducing commit, fresh source/main reconciliation, non-forced push/readback and trusted actual-head audit must occur separately. Conditional housekeeping only; main integration belongs to CI agent.
+
+Next **BW-JP-V05** follows only after this whole unit's introducing commit; its next major push waits for this unit's successful actual-head audit. The finite lane ends after BW10/backfill/publication and does not authorize web resumption or full-program completion. Exact private evidence and Git preserve the accepted endpoint without a circular future commit/selfhash.
