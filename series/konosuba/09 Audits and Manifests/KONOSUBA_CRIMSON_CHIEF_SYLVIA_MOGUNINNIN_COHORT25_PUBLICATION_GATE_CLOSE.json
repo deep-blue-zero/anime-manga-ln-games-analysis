@@ -1,0 +1,146 @@
+{
+  "schema": "KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_COHORT25_PUBLICATION_GATE_CLOSE_V3_OWNER_INTEGRATED",
+  "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+  "closed_utc": "2026-10-23T20:43:45.423965+00:00",
+  "actual_source_commit": "8330092eb4ad1c76bd9b4930180652ab47d47c3c",
+  "tree": "14b9962773ef9560b98bf7d9530f6077435bbe61",
+  "reviewed_author_source": "4442065246a44437ecf522903f9fbb47d2dc1724",
+  "all_remote_paths_equal": 9485,
+  "authored_or_carried_project_paths": 24,
+  "owner_reconciliation_changed_paths": 137,
+  "owner_reconciliation_unique_changed_blob_streams_equal": 127,
+  "all1243_project_paths_equal_reviewed_author_source_and_integrated_main": true,
+  "source_audit": {
+    "actual_source": "8330092eb4ad1c76bd9b4930180652ab47d47c3c",
+    "run": 39866466186,
+    "job": 120129783908,
+    "reporter_job": 120132475385,
+    "paths": 9485,
+    "full_tests": 450,
+    "full_discovered_suite_run": true,
+    "all5_non_success_zero": true
+  },
+  "post_integration_main_audit": {
+    "actual_source": "5aabc6aee871d3292bc22c14c152c6bd3400a0a7",
+    "run": 39867325429,
+    "job": 120132694213,
+    "reporter_job": 120134224123,
+    "paths": 9485,
+    "full_tests": 450,
+    "full_discovered_suite_run": true,
+    "all5_non_success_zero": true
+  },
+  "integrated_main_commit": "5aabc6aee871d3292bc22c14c152c6bd3400a0a7",
+  "integrated_main_tree_equals_certified_source_tree": true,
+  "housekeeping": {
+    "status": "NOT_REQUIRED_ROUTING_ALREADY_MATERIALIZED_UNDER_CURRENT_POLICY",
+    "run": null,
+    "separate_execution_credit": false
+  },
+  "current_policy_basis": {
+    "checklist_path": "governance/policies/CHANGE_INTEGRATION_CHECKLIST.md",
+    "checklist_sha256": "0165a7641a1b86a1f4048cd2c61b580dbcf438337a3bc6547cd575fba3e7600c",
+    "housekeeping_policy_sha256": "b00ccd101e8c064df924ad378ccfd841abc564ed66ea4f27e029d58f734379d4",
+    "qualification": "Owner-revised rules certify a push directly with exact-head success when routing already matches its projection. The certifying source push and post-integration main each executed all450discovered tests; no separate housekeeping or repository_dispatch run is invented. The initial444source failed its then-current458-test suite. Owner-controlled changes later revised the suite and reports; this author changed neither tests nor policy. Removed selection metadata is not fabricated as false."
+  },
+  "latest_combined_and_full_status_same_id_verified": true,
+  "exact_commit_status": {
+    "url": "https://api.github.com/repos/deep-blue-zero/anime-manga-ln-games-analysis/statuses/8330092eb4ad1c76bd9b4930180652ab47d47c3c",
+    "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+    "id": 57043480968,
+    "node_id": "SC_kwDOUJ9ads8AAAANSA5xiA",
+    "state": "success",
+    "description": "Exact commit passed the repository audit",
+    "target_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39866466186",
+    "context": "Repository integration audit",
+    "created_at": "2026-10-22T22:45:46Z",
+    "updated_at": "2026-10-22T22:45:46Z",
+    "creator": {
+      "login": "github-actions[bot]",
+      "id": 41898282,
+      "node_id": "MDM6Qm90NDE4OTgyODI=",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+      "html_url": "https://github.com/apps/github-actions",
+      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+      "type": "Bot",
+      "user_view_type": "public",
+      "site_admin": false
+    }
+  },
+  "source_branch_head": "8330092eb4ad1c76bd9b4930180652ab47d47c3c",
+  "current_main": "297bc0d05040a24facbeb5440481b9c604de5568",
+  "local_current_main_base": "297bc0d05040a24facbeb5440481b9c604de5568",
+  "main_incorporated_at_publication": "d9e94eb6452e1ee329a3cf95e13033766dddbc71",
+  "main_incorporated_at_publication_verified": true,
+  "current_protected_merge_readiness_asserted": false,
+  "source_main_integration_verified": true,
+  "publication_merged_PR": 262,
+  "prior_failed_source_receipt_sha256": "5a526c285e708f5062877a2e801bac860a3d3645104693a7adb87f98ffb62881",
+  "remote_readback_receipt_sha256": "e054134b9ed82fb2acbc0dc12f549f5072367a328dc383cfb0422518561c7ef6",
+  "source_audit_receipt_sha256": "2c6f9192c099813e82486457d6e62e190339e40f2ffc72e69aecb06b1e80b6c3",
+  "post_integration_audit_receipt_sha256": "1d6bcf93b9a5d0a21b6394025a26e61fb8d30891d4384b5f3dc400c88cdca11e",
+  "new_source_admission": false,
+  "stable_revision": "COHORT25_SCOPED_RECEIVING",
+  "scoped_secondary_model_subjects": 27,
+  "scoped_bounded_profile_subjects": 30,
+  "scoped_monograph_only_subjects": 10,
+  "current_model_bodies": 33,
+  "all33_entering_model_bodies_unchanged": true,
+  "new_artifact_scope": {
+    "new_monographs": [
+      "Sylvia"
+    ],
+    "new_models": [],
+    "new_bounded_profile_rows": [
+      86,
+      87,
+      222
+    ],
+    "new_monograph_only_subjects": [
+      "Sylvia"
+    ],
+    "new_Tier0_occurrence_rows": [
+      219,
+      220,
+      221
+    ],
+    "new_rules": 0,
+    "new_inputs": 0,
+    "new_first_bodies": 0,
+    "paired_hypotheticals": 0,
+    "known_BASE_context_slots": 2122,
+    "text_members": 19,
+    "native_text_objects": 9,
+    "new_whole_source_ruby_residual_image_set_admission_or_independent_credit": 0
+  },
+  "census_comparison": {
+    "changed_entering_rows": [
+      86,
+      87,
+      147
+    ],
+    "unchanged_entering_rows": 216,
+    "new_rows": [
+      219,
+      220,
+      221,
+      222
+    ],
+    "nonfinal_records": 223
+  },
+  "semantic_receiving_sha256": "8ca208685c8ac87be74dda2ff527a2891621c98b95a0bcc8031cee8d4b3e2e4b",
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "full_program_complete": false
+}
