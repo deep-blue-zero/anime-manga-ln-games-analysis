@@ -148,6 +148,9 @@ class GitHub:
         if self.token:
             headers["Authorization"] = "Bearer " + self.token
         data = None if payload is None else json.dumps(payload).encode("utf-8")
+        if data is not None:
+            # urllib would otherwise label the JSON body as a form post, which the GitHub proxy rejects with 415.
+            headers["Content-Type"] = "application/json"
         request = urllib.request.Request("https://api.github.com" + endpoint, data=data, headers=headers, method=method)
         try:
             with urllib.request.urlopen(request, timeout=30) as response:
