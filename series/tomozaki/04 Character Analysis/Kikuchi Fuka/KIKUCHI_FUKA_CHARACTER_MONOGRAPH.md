@@ -3,44 +3,50 @@ series: TOMOZAKI
 artifact_type: character_monograph
 subject: KIKUCHI_FUKA
 subject_japanese: 菊池風香
-scope: JP_LIGHT_NOVEL_V01-V11_PLUS_ROUTED_SUPPLEMENTS
-source_boundary: "Audited Japanese light-novel EPUB corpus: numbered main Volumes 01–11 plus story-locally routed Volumes 06.5 and 08.5; V07 Special Edition main novel only"
-analytical_boundary: V11_PLUS_ROUTED_SUPPLEMENTS
+scope: JP_LIGHT_NOVEL_V01-V12_PLUS_ROUTED_SUPPLEMENTS
+source_boundary: "Audited Japanese main V01–V12 plus story-local V06.5/V08.5; V07 Special Edition main novel only; separately admitted V12 c7c witness"
+analytical_boundary: V12_PLUS_ROUTED_SUPPLEMENTS
 analytical_generation: V2_REMEDIATION
-generation: V2.1_R05_REVIEWED_INTEGRATION
+generation: V12_REVIEWED_KIKUCHI
 status: canonical
 release_state: mutable_active
 maturity_state: MATURE_LOCAL_LITERARY_ROLE
+accepted_R05_maturity: MATURE_LOCAL_LITERARY_ROLE
 repository_authority: true
 governing_method: "../../00 Frameworks and Methods/TOMOZAKI_ANALYTICAL_METHOD.md"
 governing_architecture: "../../00 Frameworks and Methods/TOMOZAKI_SYNTHESIS_ARCHITECTURE.md"
 canonical_entrypoint: "../../CURRENT_STATE_AND_CORPUS_MAP.md"
-responsibility_scope: R05_KIKUCHI_FUKA_ONLY
+responsibility_scope: KIKUCHI_FUKA_TARGETED_V12_UPDATE_ONLY
+candidate_base_commit: 406b26c4591a9bce99c83a54600286f56a35678e
+source_transaction_integrated_as: 73717d42aefa394207ab23bf98e774ed5cdecfb6
 authoring_baseline_commit: 8c4007e91ad0d019a625aa263fb24743aac9e74e
 integration_baseline_commit: e6d7e2317a8264c86272ac609f339c7bf1447675
 baseline_blob: 2a0c5cfafffd8b5d846ec93e2eb17a5b40f02e63
-latest_compatibility_head_observed: e6d7e2317a8264c86272ac609f339c7bf1447675
+accepted_R05_compatibility_head_observed: e6d7e2317a8264c86272ac609f339c7bf1447675
 recommended_reasoning_class: PREMIUM_QUALITY_FIRST
 authoring_reasoning_note: "Original author reported no selectable Max control; no retrospective certification of that setting"
-execution_reasoning_control: Max
+original_R05_execution_reasoning_control: Max
 review_state: INDEPENDENT_REVIEW_PASS
+accepted_R05_review_state: INDEPENDENT_REVIEW_PASS
 integration_review: "../../08 Audits and Manifests/KIKUCHI_FUKA_R05_INTEGRATION_REVIEW.md"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
+V12_integration_review: "../../08 Audits and Manifests/TOMOZAKI_V12_PRINCIPAL_AND_R06_INTEGRATION_REVIEW.md"
+V12_review_date: "2026-10-23"
 ---
 
-# Kikuchi Fuka — character monograph through Volume 11
+# Kikuchi Fuka — character monograph through Volume 12
 
 **An author learning to belong inside the world she describes**
 
-> **Authority and scope.** This reviewed expansion is mutable current literary authority for Kikuchi’s individual R05 responsibility under the [integration review](../../08%20Audits%20and%20Manifests/KIKUCHI_FUKA_R05_INTEGRATION_REVIEW.md). The later [Mimimi review](../../08%20Audits%20and%20Manifests/NANAMI_MINAMI_R05_INTEGRATION_REVIEW.md) completes the R05 pair; cross-specialist convergence, whole-corpus release and derived-model validation remain unfinished. The current source boundary is V11, not the end of the series.
+> **Current literary authority.** This study passes independent source and semantic review for its individual monograph responsibility through V12. The [V12/principal and R06 integration review](../../08%20Audits%20and%20Manifests/TOMOZAKI_V12_PRINCIPAL_AND_R06_INTEGRATION_REVIEW.md) records the exact scope, corrections, evidence and preservation checks. Earlier R04/R05 acceptances and V11 states remain historical at their stated boundaries. Required relationship/thematic work, convergence, full-series release, derived models and formal terminal closure remain separate unfinished gates. All accepted evidence records, compatibility anchors and V11 conditional probes are retained; §17 owns the current argument.
 
 ## 1. Responsibility and evidence boundary
 
 Kikuchi Fuka is a reader, a developing writer, a daughter and older sister, a café worker, a selectively sociable schoolmate, and, from V07, Tomozaki Fumiya’s girlfriend. Those descriptions identify overlapping fields of life, not a hierarchy in which the romantic role explains everything else. Her sustained problem is how to make contact without surrendering the forms of attention through which she understands the world. As her ability to make contact grows, a second problem becomes harder: how to use that understanding without making other people’s lives the property of her interpretation. This study reconstructs the person who acts inside both problems. It does not simply extract the philosophical lessons she supplies to the protagonist. [KF-E01–E04, E11–E13](#kf-e01)
 
-The admitted evidence is the locked Japanese light-novel corpus, V01–V11 and the individually routed V06.5/V08.5 stories. The numbered readings remain historical prospective states. Supplemental reader access cannot be transferred to an earlier character’s knowledge, and an interstitial scene cannot be made to repair a later crisis merely because it was published or consulted later. In particular, the first Christmas, Mimimi’s conversation with Kikuchi, and Kikuchi’s New Year’s Eve at home all belong between V07 and the V08 opening. The parallel karaoke story and adaptation-derived VR bonus do not establish main-continuity preferences or conduct. The V07 artbook does not supply biography. [KF-E02, E10–E13](#kf-e02)
+The candidate evidence is the locked Japanese light-novel corpus, V01–V12 and the individually routed V06.5/V08.5 stories. The admitted V12 c7c witness supplies the targeted current band; the complete accepted V11 history remains the baseline. The numbered readings remain historical prospective states. Supplemental reader access cannot be transferred to an earlier character’s knowledge, and an interstitial scene cannot be made to repair a later crisis merely because it was published or consulted later. In particular, the first Christmas, Mimimi’s conversation with Kikuchi, and Kikuchi’s New Year’s Eve at home all belong between V07 and the V08 opening. The parallel karaoke story and adaptation-derived VR bonus do not establish main-continuity preferences or conduct. The V07 artbook does not supply biography. [KF-E02, E10–E13](#kf-e02)
 
 The evidence classes used in the argument are straightforward. An act, an utterance, or represented thought establishes that the act occurred or that the person expressed or entertained the proposition. It does not automatically establish that the proposition is true. Fumiya’s perceptions are evidence of his experience of Kikuchi; her own interior narration offers another, still situated, kind of access. Kikuchi’s representations of Chris, Libra, Alcia, and other fictional figures are authored constructions. Even a remarkably successful construction is not testimony from its human model. The monograph’s explanations, personality descriptions, and conditional expectations are interpretations supported by these differentiated materials, not additional scenes in the novels.
 
@@ -48,13 +54,13 @@ This distinction is particularly important because many early descriptions make 
 
 The study addresses four reconstructive questions alongside the architectural literary contract: who Kikuchi is; how she speaks and behaves; what she believes and prefers, including outside dramatic scenes; and what a careful reader could reasonably expect from her in a new situation. Section 15 supplies explicitly hypothetical, state-conditioned tests. They are not future canon, invented dialogue, blind predictions, or permission to use this monograph as circular evidence for itself.
 
-Evidence references are locally stable. **KF-E** entries in §14 join an argument to existing cumulative identities and exact reading sections. **KF-P** entries record Japanese passages or images inspected for this delivery. Ranges in shorthand such as “KF-E01–E04” identify several individual entries; the link goes to the first entry, not to a new aggregate authority. Existing **CRI**, **CS**, **REL**, **EFFORT**, **JVL**, and **LOC** identities retain their original owners. Fresh ordinary-life and register observations are identified as local enrichments rather than assigned fabricated frozen-reading claim numbers. No source extraction is included in the delivery.
+Evidence references are locally stable. **KF-E** entries in §14 join an argument to existing cumulative identities and exact reading sections. **KF-P01–35** entries record Japanese passages or images inspected for the accepted R05 delivery. They remain at that historical scope: the four diary JPEGs in KF-P04 are accepted evidence, not newly viewed in this update. Section 17 adds KF-E28–36/KF-P36–46 with their actual new primary windows. Ranges in shorthand such as “KF-E01–E04” identify several individual entries; the link goes to the first entry, not to a new aggregate authority. Existing **CRI**, **CS**, **REL**, **EFFORT**, **JVL**, and **LOC** identities retain their original owners. Fresh ordinary-life and register observations are identified as local enrichments rather than assigned fabricated frozen-reading claim numbers. No source extraction is included in the delivery.
 
 ## 2. Reconstructive thesis
 
 Kikuchi’s arc is not a shy person’s linear conversion into universal social ease. It is a movement toward choosing which worlds she can participate in, making forms that communicate what matters to her, and accepting that an author must remain answerable both to her own interests and to people who resist being fully described. Her strongest capability and her characteristic danger arise together. She can perceive relationships as structured wholes, connect otherwise isolated events, and imagine the inner cost of a position that looks privileged from outside. But a compelling whole can become more authoritative to her than a living participant’s unsettled wishes—including her own. [KF-E02, E06–E09, E18–E21](#kf-e02)
 
-The central account is therefore this: **Kikuchi learns to become an inhabitant as well as an author of shared worlds, without erasing herself for their apparent beauty or completing other people on their behalf.** The first half is not finished when she becomes a girlfriend; the second is not solved when her fiction helps someone. V07 gives her a stronger place in her own story. V09 makes that place actively choosing rather than merely gratefully accepting. V11 asks whether the ability to illuminate another person can justify the costs of doing so. These are related developments, but they are not a single improvement score.
+The central account is therefore this: **Kikuchi learns to become an inhabitant as well as an author of shared worlds, without erasing herself for their apparent beauty or completing other people on their behalf.** The first half is not finished when she becomes a girlfriend; the second is not solved when her fiction helps someone. V07 gives her a stronger place in her own story. V09 makes that place actively choosing rather than merely gratefully accepting. V11 asks whether the ability to illuminate another person can justify the costs of doing so. V12 rejects a prescribed independent-star answer, tests observation against an unavailable dead voice, and makes the remaining prayer attributable to the author. An owned reason and completed story now occur alongside ordinary pleasure, received care, intrusion and unsettled permission. These are related developments, but they are not a single improvement score. [KF-E28–36](#kf-e28)
 
 The account would be weakened by evidence that Kikuchi consistently chooses social breadth for its own sake, that her major decisions are indifferent to the coherence of other people’s lives, or that she treats literary accuracy as irrelevant when it conflicts with wanted outcomes. It would also be weakened by evidence that her apparent self-exclusion is always a strategic performance designed to secure reassurance. The admitted corpus instead gives sincere attachment to both personal feeling and world-facing responsibility, followed by occasions on which either can become excessive. Yet the account must remain broad enough to include uncomplicated enjoyment. The girl who wants both upcoming dates, enjoys a misshapen snowman, plays with a story’s suspense, and calls a boy’s proposal grandly unrealistic is not continuously performing an abstract ethical dilemma. [KF-E07, E10–E13, E16, E21](#kf-e07)
 
@@ -92,6 +98,7 @@ The chronology below keeps diegetic time separate from disclosure time. The supp
 | V08–V09 | Prize aspiration, direct bids, repair, choosing the actual Fumiya | Time, incomplete information, jealousy, and overcorrection resist compatibility theories | Reselection is real, but not a standing solution to every later cost |
 | V10 | Participation beyond the couple, stated jealousy, chosen support and independent contribution | Supporting an important project without disappearing into it | One costly permission is not unlimited future permission |
 | V11 | Conditional editorial route, sharper accountability question, explicit resistance, fiction that reaches a reader | What reason and what practice can govern art that exposes living people? | Publication, durable relationship rules, Hinami’s consent, and project results remain open |
+| V12 | Actual collaborative work, solo inquiry, changed companionship, material learning, failed observer ideal, owned prayer and completed delivery | Include her choice after observation without pretending it is the dead person’s testimony | Benefit, truth, subject permission, publication and lasting career remain separate |
 
 ### 3.1 Before Fumiya: a person already capable of enthusiasm and attachment
 
@@ -163,9 +170,15 @@ V11 then separates several advances that would be easy to conflate. Editorial in
 
 The endpoint is consequently active without being complete. Kikuchi is willing to begin again, to receive a reason from Fumiya without declaring it finally her own, and to ask for other perspectives rather than make the next story a two-person monopoly. The wider party remains proposed. The important achieved change is her ability to state both participation and incompletion: she can want to write with others and still preserve the question of why she writes. She has not solved herself by becoming either the perfect girlfriend or the perfectly conscientious author.
 
-## 4. Current state vector
+### 3.9 V12: method, person and the remaining subjective act
 
-Kikuchi’s present capacities must not be collapsed into the proposition that she has “become confident.” She is increasingly capable of choosing, speaking, collaborating, and defending an interest. She can still be frightened, uncertain, self-critical, or unable to resolve competing claims. V11 is especially clear that recognition of ability can arrive before a settled reason to use it.
+The wider party now meets and contributes. Kikuchi discovers that her interviews have been leading toward a conclusion she already favored, stops the meeting and chooses an independent trip. Solo inquiry leaves her blocked; she later accepts a changed invitation from Fumiya. Fan enthusiasm, playful language, particular received affection and practical craft learning give the development an ordinary bodily field. [KF-E28–31](#kf-e28)
+
+Observation changes how she asks, but it cannot supply Nagisa’s unavailable standpoint or choose an ending for her. An old manuscript’s exact crossed-out verbs and final circled prayer help her interpret the remaining subjective act as something to own after observation. She completes a retitled work that reaches Hinami, then explicitly denies that tears prove it right or authenticate Nagisa’s feeling. Her reason is now affirmative and her own; future publication, full permission and sustainable practice remain open. [KF-E32–36](#kf-e32)
+
+## 4. Preserved V11 state vector — current V12 dispositions in §17
+
+This accepted vector retains its V11 clock; §17 supplies the current V12 changes. Kikuchi’s capacities must not be collapsed into the proposition that she has “become confident.” She is increasingly capable of choosing, speaking, collaborating, and defending an interest. She can still be frightened, uncertain, self-critical, or unable to resolve competing claims. V11 is especially clear that recognition of ability can arrive before a settled reason to use it.
 
 | Dimension | Supportable V11-boundary account | Important non-equivalence |
 |---|---|---|
@@ -278,7 +291,7 @@ A good reconstruction distinguishes at least four separate achievements. Kikuchi
 
 This is an ethical distinction, not a legal ruling about fiction. The admitted novels do not supply a comprehensive policy for autobiographical borrowing, consent, anonymization, or artistic transformation. The monograph therefore does not invent one and attribute it to Kikuchi. It identifies the unresolved responsibilities her actual practice creates. The fact that a character resembles a person does not prove every invented scene violates that person; the fact that a story changes names or genre does not prove there is no exposure. Recognition, intimacy of material, audiences, foreseeable effects, and the possibility of refusal matter separately.
 
-Kikuchi’s current advance is to recognize that “I can understand this” and “I want to write this” are insufficient answers to “why should I give this priority when it hurts someone?” The current limit is that the question remains live while she begins another project. That is not hypocrisy by definition. It is an unfinished attempt to act without falsely claiming that her motive has already been purified.
+Kikuchi’s V11 advance is to recognize that “I can understand this” and “I want to write this” are insufficient answers to “why should I give this priority when it hurts someone?” The V11 limit is that the question remains live while she begins another project. Section 17 traces the later method revision and owned writing reason without turning benefit into permission. That is not hypocrisy by definition. It is an unfinished attempt to act without falsely claiming that her motive has already been purified.
 
 ## 7. Fiction as form, relationship, and risk
 
@@ -344,7 +357,7 @@ What is observed at the end of the reading is narrower and stronger than a gener
 
 For Kikuchi, this reception joins earlier forms of reading without making them identical. Goda entered her world through the same book. Fumiya entered through listening and manuscripts. Now he returns to a shared world because her transformation of what he told her makes his own experience newly available to him. That is a substantial literary function. It still does not make her the new exclusive savior or establish the correctness of all her interpretive choices.
 
-### 7.8 Distributed authorship is a correction with its own risks
+### 7.8 V11 distributed authorship is a correction with its own risks — execution in §17
 
 Kikuchi’s proposal to involve others limits a two-person monopoly. She does not claim that she and Fumiya, simply by understanding each other, can now finish Hinami’s story. Other people know other aspects of Hinami and bring different competencies, flaws, and attachments. This is a meaningful response to the limits of one viewpoint. [KF-E21; KF-P34–P35](#kf-p34)
 
@@ -365,6 +378,8 @@ V09’s reselection corrects one such asymmetry. Kikuchi wants to choose Fumiya 
 
 The later repair matters because Fumiya recognizes more than her willingness to tolerate him. He apologizes and thanks her for making renewed action possible. Her work and judgment have affected him. But she is still not simply promoted from quiet supporter to therapeutic provider. He becomes, at the same time, a source of stories and private information that can enter her fiction. The couple therefore needs a distinction between intimacy, creative collaboration, and permission to represent third parties. That boundary remains unfinished. [KF-E20–E21, E26](#kf-e20)
 
+V12 adds an actual sequence of care and permission change: Kikuchi opposes his self-exhaustion, refuses his initial travel company, accepts a changed invitation and receives appreciation of particular nonproductive conduct. Her affectionate initiative remains hers. These local negotiations deepen the tie without settling every future allocation or third-party right. [§17.2; KF-P36/P38/P39](#kf-p38)
+
 <a id="82-hinami-aoi"></a>
 ### 8.2 Hinami Aoi: admired competence, artistic model, and resistant person
 
@@ -373,6 +388,8 @@ Kikuchi’s Hinami-facing behavior cannot be reduced to romantic rivalry. Hinami
 Their knowledge is not equivalent. Hinami can perform Alcia and question Kikuchi’s interpretation; neither act means she has endorsed the fictional interior. Kikuchi can recognize a pattern and still lack the history that might explain or qualify it. The New Year’s Eve retrospective preserves that uncertainty. It also distinguishes the reader’s later access from Fumiya’s incomplete observation of the earlier private exchange. The monograph does not make his witnessed apology a transcript of everything represented in the later Kikuchi-focalized story. [KF-E09, E12; KF-P18–P19](#kf-p18)
 
 By V11, Kikuchi’s concern for Hinami has practical effects: she joins inquiry and a prospective project, and she explicitly worries about what her writing does. That concern is not permission. Hinami remains the person whose affirmative end, desired relation to the project, and willingness to be represented are not established. The mature account must leave her able to reject a model that Kikuchi and Fumiya find illuminating. Otherwise the monograph would praise Kikuchi’s person-centeredness while treating the person at its center as an object to be completed.
+
+V12 supplies actual resistant readership. Hinami initially refuses, then reads under pressure and experiences intrusion as well as benefit. Her fiction-mediated reunion is not Nagisa’s testimony, and Kikuchi later refuses to infer rightness from tears. The absence of prior subject permission cannot be repaired merely by a good result. [§17.7; KF-P45–46](#kf-p45)
 
 <a id="83-mimimi"></a>
 ### 8.3 Nanami Minami / Mimimi: a reciprocal interlocutor, not a defeated rival
@@ -384,6 +401,8 @@ Her rejection of romance-as-war matters because it separates her relationship fr
 The conversation is not solemn tolerance all the way through. Kikuchi teases, questions, briefly apologizes when she may have touched something sensitive, and shares more than an abstract moral rule. She also indicates that she has experienced liking someone before. That local statement prevents the false inference that a first boyfriend means an absence of every earlier attraction; it does not identify those people or supply an unshown romantic history. Her capacity for lightness and directness with Mimimi should remain part of the character model, not disappear behind the label of rival sympathy.
 
 Later Mimimi’s concern helps prevent Fumiya’s social self-erasure and contributes information to Kikuchi’s choice. The relationship therefore has effects beyond competition for a partner. Yet no complete three-person agreement exists, and the source does not make the situation costless. Kikuchi can respect Mimimi and still be insecure; Mimimi can help the couple and continue to love Fumiya. Neither has to become emotionally neutral for the other to remain a person worth respecting. [KF-E11, E15, E27](#kf-e11)
+
+The V12 inquiry is more severe: Kikuchi questions the sufficiency of Nana’s relational rescue, while Mimimi’s lived answer and embodied method materially revise the character. The conditional “next Tama” self-question concerns Mimimi’s own self-regard under possible physical separation, not a predicted replacement relationship. That wider interview retains DR12/CS/REL routes; this update’s new primary KF-P37 directly verifies the ensuing method critique and stop.
 
 ### 8.4 Goda: an early model of reciprocal attention
 
@@ -411,6 +430,10 @@ Haruka’s distress brings Kikuchi back from interpretive absorption, and Kikuch
 The class receives Kikuchi as the maker of something they can perform, debate, and enjoy. That response can enlarge belonging without making her a general social leader. Tama, Yuzu, Mizusawa, and the other contributors have distinct practical roles; their support should not be merged into an undifferentiated approving audience. The work’s realization depends on several kinds of competence, including competencies Kikuchi does not claim. [KF-E04–E06, E10](#kf-e04)
 
 The editor introduces another kind of response. Professional interest concerns a public artifact and its completion, not only the author’s emotional need to be understood. Kikuchi’s worry about doing justice to the people who might produce the book shows that she recognizes this difference. But the editor has not been shown endorsing every route she takes to understand Hinami, and the source does not provide a complete editorial contract or pressure regime. It would be equally wrong to make the professional field a guaranteed liberator or an invented coercive institution. Its present role is to make an existing aspiration plausible and to sharpen the unfinished decisions that accompany it. [KF-E17](#kf-e17)
+
+### 8.8 Mitsu and island collaborators: the learner has to be corrected
+
+Kikuchi meets an expert who refuses the interview, makes access conditional on useful work, corrects her first attempts and retains final craft judgment. Children and residents can also author meanings the visiting writer did not supply. The relation is not a simple transfer from sage to student: Mitsu has independent work, anger, material limits and a right to selective delegation; Kikuchi can learn, intrude, be corrected and contribute. Specific manuscript access remains a bounded loan. [§§17.4–17.6; KF-P40–44](#kf-p40)
 
 ## 9. Self-presentation and focalization
 
@@ -505,6 +528,10 @@ At the same time, warmth should not be turned into fabricated competence. Cleari
 The admitted and inspected evidence does not establish a complete diet, an exclusive favorite food, favorite season, comprehensive music taste, routine exercise program, regular sleep hours, household income, shopping budget, political preferences, religion, or an exhaustive friendship list. The parallel karaoke material is not used to repair missing mainline music preferences. The beautiful-book evidence is not a universal ban on digital reading. The fictional flower-ornament craft is not promoted to Kikuchi’s personal hobby.
 
 These limits are part of an adequate reconstruction, not missing decorative detail. For a new low-stakes situation, the strongest inference usually concerns what kind of interaction or meaning would appeal to her, not which exact product, flavor, color, or song she would select without further evidence.
+
+### 10.8 V12 ordinary pleasure survives the writing problem
+
+The island word game gives Kikuchi playful competitive appetite; concrete remembered acts make her lovable to Fumiya beyond writing utility. Her surprise, laughter, offered hand, initiated fingertip contact and received care are person-level evidence. The unusually ordered chamomile is a local choice rather than a new favorite. None erases exhaustion, selects a leisure routine or makes every shared-room implication an event. [KF-P38/P39/P46](#kf-p39)
 
 ## 11. Central contradictions
 
@@ -611,7 +638,9 @@ Nevertheless, she explicitly retains the search for her own reason. The wider pr
 
 **Disposition:** preserve renewed agency and the less monopolistic proposal; reject completion. The unresolved endpoint is part of Kikuchi’s mature account, not a deficiency to be repaired by predicting what later volumes must do.
 
-## 13. Current endpoint and open hypotheses
+## 13. Preserved V11 endpoint and open hypotheses — current V12 endpoint in §17
+
+The accepted endpoint below remains at its V11 knowledge horizon. Section 17 revises the unfound reason/unexecuted party/unfinished story into an owned reason and actual completed offering, while retaining unknown truth, permission, durability and professional outcomes.
 
 ### Established at high confidence
 
@@ -629,7 +658,9 @@ The principal open questions are her own continuing reason to write; completion 
 
 The person reconstructed here is therefore neither a completed angel nor a secret manipulator. She is an imaginative, conscientious, sometimes playful and sometimes overabsorbed adolescent who wants meaningful contact and the right to make something of it. The difficulty is that contact gives her both a place to live and material she might use. Her development must preserve the first without assuming unlimited authority over the second.
 
-## 14. Canonical evidence routing
+## 14. Accepted R05 evidence routing — preserved at its original inspection scope
+
+Sections 14.1–14.4 retain their accepted bytes, KF identities, witness claims and image receipt. They do not state that V12 was already read or that this update re-viewed KF-P04. Current additive routes and the new primary scope are in §17.
 
 ### 14.1 Route key and authority
 
@@ -879,7 +910,9 @@ V01’s local integrity check is not claimed as a fresh prose reread in this tas
 
 The image-only diary was read from the actual embedded JPEGs. No other new visual interpretation is introduced. Diagnostic checking confirms package locations and words; it is not independent semantic review. The author’s checks remain distinct from the independent literary and primary review recorded in the integration review. Repository publication checks attach to the exact resulting commit and do not settle literary OPENs.
 
-## 15. Conditional reactions in novel situations
+## 15. Preserved V11 conditional reactions in novel situations
+
+These accepted probes retain their original era, knowledge and non-blind status. The current V12 band is separate; no simulation release or new predicted event is implied.
 
 These are **hypothetical literary probes**, not unshown scenes or predictions that were frozen before later source was read. Each specifies a relevant era, recipient, and pressure, derives a bounded expectation, and states what could change it. Confidence concerns the broad pattern, not the exact gesture, line, or outcome. None should be used as primary evidence or as a released simulation policy.
 
@@ -990,3 +1023,189 @@ The large cumulative owners were consulted through their relevant responsibiliti
 The integration review records the complete before-image/expansion review, the supplied-to-integrated delta, and bounded additions in character-state §8.6, effort §78.5 and voice §5.1. Those additions preserve the existing claim identities and qualify ordinary life, the Goda given name, earlier authorial concern and Haruka’s participation. The relationship and claim/evidence owners retain their already adequate dispositions. No new frozen claim IDs, generic ledger, global character-discovery edits or reconstruction release follows.
 
 Mimimi’s later independent acceptance completes the R05 pair; R06 still requires character-role adjudication. R07 must explain the Tomozaki/Kikuchi relation beyond either person’s individual account. R08 must preserve the other peers’ independent contributions and costs. R09’s authorship, romance/permission, language, and self-authorship responsibilities should test this study rather than merely repeat its thesis. R10–R12 remain separate work. The final constraint is literary as well as procedural: Kikuchi’s improved ability to tell a story must not become the analyst’s reason to declare that her story, or anyone else’s, is finished.
+
+## 17. V12 current band — observation, remaining choice and an offered prayer
+
+### 17.1 The person and the writer develop together
+
+V12 gives Kikuchi an owned reason to write and a completed, retitled story, while preserving the difference between creative achievement, factual truth, recipient benefit and authority over another person's material. The accepted R05 thesis survives: she has to inhabit the world she describes. Here that means accepting ordinary partner care, travel, food, play, practical correction and uncertainty as parts of her life, while abandoning two different ways of disappearing as an author—hiding a prescribed answer inside testimony, and imagining that enough observation could remove her remaining choice. [KF-E28–36 below; DR12 §§3–9]
+
+This is a developmental interpretation rather than her complete stated doctrine. The strongest support is not one declaration at the end. It is the sequence of a failed group answer, a self-selected journey that does not cure the block, learned attention to material and people, another block at a dead person's unavailable standpoint, and a decision that includes rather than conceals the author. Her final purpose is more specific than helping Fumiya or proving professional talent. She wants to make something through which ordinary people may find a believable support, like a self resembling theirs, or try living again. These are her hopes for writing, not established outcomes for every reader.
+
+Her life is also fuller than that sequence's intellectual form. She worries about Fumiya's exhaustion, interrupts him, pats his head, receives particular appreciation, competes in descriptions of a sunset and initiates touch. She learns a craft badly before learning it better. Pleasure and embarrassment do not disappear into research. Nor does the finished work make her a flawless therapeutic writer: methods remain intrusive, access is uneven, and the final recipient initially refuses.
+
+### 17.2 Couple care and a changed invitation
+
+Kikuchi's opening correction concerns Fumiya as a person. Hinami's crisis does not make his time and exhaustion expendable. Her unusual interruption of his sole-rescuer assumption and her physical reassurance combine opposition with affection. Fumiya explicitly owns wanting to help; he also knows that expressing it as his own wish will make her likely to agree. The source retains that persuasive asymmetry inside the achieved local agreement. It cannot be flattened into either passive acquiescence or a completely equal, costless allocation. [KF-P36, p0011:P46–113]
+
+Later she chooses a solo trip because she fears receiving another reason from him instead of finding her own. This is a direct refusal of his offer to accompany her, and he accepts it. The choice already shows agency; its later revision does not prove that it was a mistake or a concealed invitation to follow. On the third day she is still blocked. She has largely confined herself to books and the draft, treating the wanted fan excursion as undeserved leisure. An independent choice can be sincerely hers and still fail to supply the practical conditions she needs. [KF-P37–38]
+
+Fumiya changes what he offers: hearing her voice makes **him** want to see her. He asks whether that is acceptable and waits. Kikuchi accepts this changed invitation. The scene therefore supplies recipient-changed permission under a changed reason, rather than evidence that affection permits overriding an earlier refusal. The island date is another negotiated act. She hesitates over the manuscript, then asks to date and offers her hand. Each acceptance has its own object and time. Neither is a standing travel, disclosure or intimacy waiver.
+
+The change does not establish that he now knows how to manage her perfectly. His narration still sometimes treats embarrassment as a chance to press. The value of his care is clearest where he changes from declaring an abstract love of her person to naming what he actually noticed: her loud surprise, failed suppression of laughter, refusal to stop their word contest after his surrender, and the larger rice ball she gave him. She can be liked outside the ability currently failing her. She initiates fingertip contact and he reciprocates. This is local received affection, not a permanent cure of creative fear or an implied sexual encounter. [KF-P39]
+
+The sunset exchange independently develops ordinary character. Kikuchi corrects his aquamarine description, proposes her own extravagant images, enjoys the contest and continues past his comic surrender. Literary perception is also a form of shared play. The later ethical inquiry must not reduce her to an unrelievedly solemn custodian of other people's pain.
+
+### 17.3 An actual party can still force the answer
+
+The V11 proposal now becomes an actual meeting and interviews. Kikuchi consents to specified unfinished-chapter circulation despite fear of showing a living model how she has been seen. That is her authorial permission for particular material. Mimimi's reading, recognition and contribution are real; they are not Hinami's permission or a complete transfer of every participant's private thought. The current DR12 source-order account supplies the actual four-person assembly and the interview/race/role-play sequence. [KF-P36; DR12 §§3.2–3.3]
+
+Kikuchi's first interpretation prescribes an independent-star answer. When the improvisation and revised fiction make its structure visible, she recognizes that she has been using Mimimi's and Mizusawa's words as material leading toward her own preselected conclusion. A wider party can therefore reproduce the monopoly it was supposed to correct. The failure is not simply insufficient information. It is how information has been arranged to make one destination seem discovered. [KF-P37, p0013:P414–488]
+
+Mimimi's objection that stories normally carry messages is reasonable; Mizusawa agrees. This countercase prevents a false rule that a desired effect makes all art dishonest. Kikuchi's concern is particular: supplying retrospective meaning to Hinami's pain may repeat the structure attributed to her mother's meaning-making. She cannot answer that objection merely by insisting that her version is kinder. She asks the others to wait and ends the meeting. This is an actual consequential stop, not just a declaration of conscience after harm.
+
+Yet the scene is a simulation and the text they make, not Hinami present to certify every imagined answer. Fumiya experiences the critique as persuasive; Kikuchi acknowledges it. Their acceptance establishes a method revision and an ethical fear, not a complete factual identity between her own work and Yoko's motives. The next journey has to let the world revise the question rather than collect more agreeable evidence for the old answer.
+
+### 17.4 The island is inhabited before it becomes her lesson
+
+Kikuchi arrives through a fan's hoped-for relation to Andi. Residents' accounts disrupt a finished sage image with ordinary fallibility, comedy, uncertainty and work. Those are attributed memories: a resident's motive hypothesis is not Andi's private testimony, and several anecdotes are not a comprehensive biography. The manuscript rumor begins as rumor. The island's shops, children, labor shortage, tides and festival are also independent local contexts. They cannot be reduced to an arrangement placed there to heal the visiting author. [DR12 §3.4; V12-C12/C14–19]
+
+Umayahara Mitsu initially refuses the interview. Kikuchi and Fumiya leave without demanding the missing manuscript. At the renewed encounter Mitsu resists fans who turn a man's suffering into a satisfying sequel to his books. Kikuchi changes her question toward what Andi observed, and her remembered festival wording helps create another opening. Mitsu then offers work: cloth sorting for Kikuchi, physical labor for Fumiya, tower access after the work is completed. This is a specific bargain whose tasks and constraints survive the visitors' wish for insight. [KF-P40]
+
+Mitsu is more than an oracle of observation. She has expertise, impatience, bodily limits without a supplied diagnosis, and authority over her own shop. She refuses Fumiya's unsolicited help and later gives a trusted young local seven tags with instructions after he offers and waits. Changed recipient, competence, task and timing matter. The eventual delegation does not make the earlier refusal invalid. The unnamed worker's own competence and presence must remain visible instead of making all useful help belong to the protagonists.
+
+Color learning likewise takes repeated attempts. Kikuchi's first sorting is wrong. She learns through placement, light, comparison and correction; a name does not exhaust the color someone else will see. This is acquired discrimination rather than miraculous inspiration or a rule that perception is arbitrary. The later costume's written blue-color name is correct, but its attached scarlet sample mismatches that name (P701–707). Fumiya's subsequent account entertains switched samples or a loose knot and frames the event without individual blame (P708–710). That is his interpretation; the exact mechanism and responsible actor remain unestablished. Neither Mitsu's fingers nor the young helper is proved the cause.
+
+After they have waited, Kikuchi touches the package cord but does not pull it (P685). Fumiya proposes opening only to inspect (P686–688); she nods, and he unties and opens it (P689–690). They then try a solution without Mitsu's own prior permission. When Mitsu returns angry, Fumiya owns the proposal at P799; Kikuchi explains the delivery and urgency. Mitsu sees the correctly written name beside the scarlet sample at P806. She eventually accepts the colors, rejects placement and movement details, and finishes the work herself. The success includes Fumiya's initiating act, Kikuchi's assent and contribution, intrusion and expert correction. Approval of one dimension is not total validation, and the completed result cannot retrospectively authorize opening. [KF-P40]
+
+### 17.5 Observation changes the question; it does not abolish choice
+
+The damaged birds make the contrast practical. Kikuchi attends to what is actually there rather than denying that the rain has broken them. When a child says a bird is broken, she agrees. She offers descriptions, asks why, accepts the children's own meanings and waits for them to look and speak. Their stories emerge in response; she does not prescribe one consoling explanation they all must adopt. Material damage remains. A new usable occasion does not prove the rain was necessary or good. [KF-P41]
+
+Mitsu then corrects Kikuchi's claim that Andi made the festival. Her account gives prior practices—a widow's folding and elders' crossings—followed by his selected composition and residents who borrowed, changed and expanded it. These are Mitsu's historical recollections, not a neutral exhaustive origin story. They nevertheless displace the fantasy of one author inventing and governing every recipient's meaning. Her testimony that a flawed model let her like herself slightly is a particular reception, not proof every recognizable model will be grateful. [KF-P42]
+
+Kikuchi responds by embracing an ideal of observing so honestly that she nearly removes herself. At this position the ideal is useful: it opposes conclusion-led collection and prompts resumed writing. It is also provisional. The next block exposes what it cannot do. Nagisa is dead. Kikuchi cannot ask what she saw, feared or wanted; inventing her speech introduces the author's wish. Fumiya explicitly never spoke to the actual Nagisa. Observation cannot transform either of them into the missing witness. [KF-P43]
+
+Omitting the reunion seems an honest alternative, and the candidate must preserve it as a serious possible ending. But Kikuchi recognizes that choosing a story where Alcia survives through the remaining records is also her decision. Neither writing the encounter nor refusing to write it can remove the chooser. She admits that asking Mimimi, Mizusawa and island residents partly let her postpone asking herself. This does not make the research fraudulent: it names a second function the sincere research had acquired.
+
+The movement beyond the block is therefore not permission to ignore facts or to ventriloquize the dead with confidence. It is acceptance that constraint and choice coexist. The writer must observe what can be observed, retain what cannot be known, and answer for the wish she still offers.
+
+### 17.6 Exact manuscript marks and an attributed interpretation
+
+Mitsu returns Kikuchi's forgotten papers with additional old material and a next-morning return condition. The couple reads the unpublished handwritten continuation of *Star Trajectories* with smartphone translation. The paper's access route, language mediation and deadline matter. This is neither unmediated English fluency nor an editorial license to reproduce, publish or distribute the private archive. They actually return the loaned papers before leaving. [KF-P44]
+
+The documentary sequence is exact:
+
+| Word read in the manuscript | Japanese gloss in the scene | Documentary state |
+|---|---|---|
+| `believe` | `信じる` | crossed out |
+| `tell` | `伝える` | crossed out |
+| `record` | `記録する` | crossed out |
+| `wish` | `願う` | crossed out |
+| `pray` | `祈る` | circled final selection |
+
+These are represented words and revision marks in the source. The couple's story of the mind that produced them is an interpretation. Fumiya associates the deletions with their own earlier answers; Kikuchi understands the final word as accepting a remaining personal distortion after observation. Her claims that Andi did not shame that remainder and prayed for a world this beautiful are direct evidence of **her reading**, rather than independently verified access to his entire motive or an exact chronological manifesto.
+
+The final choice includes her again. Moving from being able to write to saying that she will write, Kikuchi owns an observation-plus-small-prayer practice. It differs from the first star solution because she no longer treats the desired answer as something interviews have proved. It differs from self-erasing observation because the last subjective act is acknowledged. That distinction does not guarantee innocence or permanently regulate her practice. It makes responsibility for the irreducible choice more explicit.
+
+### 17.7 Targeted delivery, an actual reader and persisting boundaries
+
+The completed work is *Pure Mixed Blood and God* / `純混血と神さま`, a final title distinct from the earlier ice-cream title. It reaches Hinami through Yuzu, Nakamura and Takei, then Haruka. Hinami initially refuses contact and the manuscript. Her speculation that Yuzu intends apology is her hypothesis, not Yuzu's certified motive. Haruka leaves the paper, later reads independently, cries, names her own sisterly stake and presses the bundle on Aoi. Aoi takes it and reads under emotional pressure. Agency and pressure coexist; neither forced physical reading nor unpressured prior consent describes the whole sequence. [KF-P45]
+
+The rights and knowledge positions remain differentiated:
+
+| Participant / object | What can be established | What that does not establish |
+|---|---|---|
+| Fumiya | partner, source, first reader and collaborator; asks for draft circulation; receives Kikuchi's specific assent | ownership of Hinami's history or authority to consent for every modeled person |
+| Mimimi / Mizusawa | actual model contributions and participation in method revision; Mizusawa's particular acceptance of sharing with Kikuchi is current REL §17 evidence | a blanket privacy waiver or certification that every private line/reader thought reaches them |
+| Narita / Yuzu | their independent earlier ties/participation remain inherited evidence; Yuzu performs the V12 delivery | no new Narita permission episode is invented; Yuzu's participation cannot authorize Hinami's representation or prove the conjectured apology motive |
+| Haruka | V11 invited participation and injury; V12 independent reading, family stake and urging | informed anticipation of every impact or authority over Aoi's whole private history and consent |
+| Mitsu / private manuscript | task/access bargain and later bounded loan with actual return | editorial, copying or publishing rights; an unstated spouse relationship to Andi |
+| Hinami / Nagisa | Hinami's own actual reading and local response; Nagisa's intent remains unknown | prior representation permission, durable cure, posthumous testimony or a solved death mechanism |
+
+The fiction/ruby reunion supplies a form in which Hinami finds an address of love and thanks. Exact semantic ruby overlays Alcia/私 and 渚/ナギサ, and reads magic as story. It stages identification and imaginative contact; it does not establish literal resurrection, Nagisa's authenticated feelings or a diagnosis. Hinami's private narration explicitly preserves accident, intentional road entry, exhaustion/dizziness and despair as unresolved alternatives. Neither the author nor the reader receives the missing cause from emotional intensity. [KF-P45]
+
+At the café Kikuchi rejects the inference most tempting to a triumphal account: Hinami crying does not prove the novel right, and the actual Nagisa's feelings remain unknown. She can still be glad she wrote. Her final reason concerns offering believable support to people who cannot simply trust themselves without an external reason. She includes her own history of needing stories. This is an owned affirmative end, rather than just borrowed service to Fumiya; it is also not a universal psychological law about “weak characters.” [KF-P46]
+
+The change is substantial but bounded. The novel has been completed, delivered and received; the old V11 nonexecution is historical. Formal publication, a contract, income, an enduring career, general fictionalization rules, comprehensive couple allocation and durable recipient recovery remain unestablished. Targeting one person and producing benefit does not make the practice universally safe. The final chamomile order is explicitly unusual, not a newly certified favorite drink.
+
+### 17.8 Current disposition and rivals
+
+| Responsibility | Current disposition | Counterevidence / residual limit |
+|---|---|---|
+| CS-KIK-01 / CRI-KIK-001 | **STRENGTHEN:** solo initiative, accepted changed company, verbal play, affectionate action and craft learning widen the lived field. | Not universal ease; exhaustion and a renewed block persist. |
+| CS-KIK-02 / CRI-EPI-001 | **STRENGTHEN / REVISE method:** a preset answer fails, observation becomes more receptive, and unavailable testimony limits completion. | Fiction and compelling inference still do not certify another person's mind. |
+| CS-KIK-03 / REL-C04–05 | **STRENGTHEN local negotiation:** care, refusal, revised invitation and received particular affection are actual. | Unequal persuasion, privacy and future allocation remain open. |
+| CS-KIK-04 / CRI-KIK-002 | **REVISE:** own reason and a completed retitled story achieved. | Publication, rights, livelihood and a sustained practice are distinct. |
+| EFFORT-H12/H23/H29 / SOC-C19/C22 | **REVISE execution / preserve accountability:** collaborators revise the method; delivered fiction benefits a real reader. | Pressure, intrusion and expert repair remain; tears do not settle rightness. |
+| JVL-12–15 | **STRENGTHEN range:** polite correction/refusal, playful competitiveness, plain self-inquiry and writing choice differ by recipient and state. | A source sample is neither audio nor an exhaustive idiolect. |
+
+**Rival: the final prayer merely reinstalls the first imposed answer. REVISE, retain the objection.** The work still seeks an effect, uses private pain and reaches an initially unwilling reader. The important difference is the failed first conclusion, broader observation, explicit unavailable voice and acknowledgment that the remaining wish belongs to the author. Beneficial uptake cannot alone decide whether those differences make every use justified.
+
+**Rival: observation solves authorship by making the writer disappear. REJECT as the endpoint.** It productively revises inquiry but fails at the dead person's unobservable voice. Choosing silence or an alternative ending still selects a life for the fiction. The author has to include her own choice without labeling it discovered testimony.
+
+**Rival: romance rescues a passive writer. REJECT the total account.** Fumiya's companionship and concrete attention matter. Kikuchi chooses the journey, refuses the first accompaniment, accepts a changed invitation, learns, initiates touch, stops the meeting and owns the final writing reason. Those acts coexist with received care and a real dependence on others' expertise.
+
+**Rival: the island proves that every difference makes a perfect pair. REJECT the universal claim.** Cloth works under particular light, placement, bodies, expert correction and event conditions. The scene offers a material resource for thinking about relation, not a guaranteed compatibility theorem for the couple or every antagonistic tie.
+
+### 17.9 Additive evidence routes and actual returns
+
+Accepted KF-E01–27, KF-P01–35 and their historical counts remain intact. New identifiers below are document-local retrieval handles, not new frozen or cumulative claims. DR12 means the [complete V12 deep reading](../../02%20Sequential%20Readings/TOMOZAKI_V12_DEEP_READING.md); current owners are CS §19, REL §17, EFFORT §§81–84, SOC §17, JVL §13 and CRI §18 at their particular rows. The scratch receipt binds the exact current files consulted.
+
+<a id="kf-e28"></a>
+**KF-E28 — Couple/person and negotiated access.** DR12 §§3.2/3.4, V12-C02/C03/C09/C13; CS-KIK-01/03; REL-C04/05. Primary KF-P36/P38/P39. Specific assent and later affection do not create universal access.
+
+<a id="kf-e29"></a>
+**KF-E29 — The failed independent-star answer and an actual stop.** DR12 §3.3, V12-C06/C08; CS-KIK-02/04, CRI-EPI-001/CRI-REL-005. Primary KF-P37. Model simulation is not Hinami's actual testimony; the party now exists without owning her consent.
+
+<a id="kf-e30"></a>
+**KF-E30 — Craft, local expertise and scoped participation.** DR12 §3.4, V12-C12/C14–17; EFFORT-H10/H12/H13, REL-C04, SOC §17.3. Primary KF-P40; broader resident interviews/tower chronology remain inherited DR12 routes, not a new complete member read.
+
+<a id="kf-e31"></a>
+**KF-E31 — Damaged material and others' interpretations.** DR12 §3.4, V12-C18/C19; CRI-FORM-001, SOC-C06/C15. Primary KF-P41/P42. The damage remains, the children supply meanings, and Mitsu's ritual history is testimony.
+
+<a id="kf-e32"></a>
+**KF-E32 — Omission and invention retain a chooser.** DR12 §§3.4–3.5, V12-C20–22; CRI-EPI-001, CS-KIK-02/04. Primary KF-P43. Resumed writing is not cure of every block; dead Nagisa's standpoint cannot be interviewed.
+
+<a id="kf-e33"></a>
+**KF-E33 — Documentary revision, mediated access and owned prayer.** DR12 §3.5, V12-C23–25; EFFORT-H23, CRI-KIK-002/CRI-REL-004. Primary KF-P44. Exact marks are direct documentary representation; the psychological interpretation is attributed.
+
+<a id="kf-e34"></a>
+**KF-E34 — Delivery, pressure and the reader's own uptake.** DR12 §3.6, V12-C28/C30/C32; REL-C10/C12, SOC-C19/C22. Primary KF-P45. Ruby/fictional reunion is not a posthumous source; no blanket subject assent.
+
+<a id="kf-e35"></a>
+**KF-E35 — An affirmative writing reason without outcome certification.** DR12 §3.7, V12-C35; CS-KIK-04, CRI-KIK-002, CRI-OQ-KIK-002. Primary KF-P46. Writing is owned and worthwhile to her; tears, career viability, rights and truth remain different propositions.
+
+<a id="kf-e36"></a>
+**KF-E36 — Current comparative synthesis and debt.** DR12 §§4–9, forty-claim/current question dispositions; CS-KIK-01–04, REL §17, CRI-OQ-KIK-001/002. This is an interpretive cross-case route, not another independent witness or a complete legal/clinical doctrine.
+
+All new P locators count every HTML `p`, including empty/image paragraphs, one-based and reset per member; ruby is retained for diagnostic inspection. Witness SHA-256 is `4b1b7242e5e92e015e0f9d138a43c6f7f06452761bd697ebc2df2c7195287c7c`. Exact member hashes, full-P counts and call-level windows are in `primary_inspection_log.jsonl` and the source receipt. No actual image pixels were newly viewed; KF-P04's four diary images remain accepted historical evidence, not this worker's new viewing.
+
+<a id="kf-p36"></a>
+**KF-P36:** V12 `item/xhtml/p-0011.xhtml` P46–113/P233–278: exhaustion/care and specific author draft-circulation assent.
+
+<a id="kf-p37"></a>
+**KF-P37:** V12 `item/xhtml/p-0013.xhtml` P414–488/P563–591: method failure/stop and selected solo inquiry/refusal.
+
+<a id="kf-p38"></a>
+**KF-P38:** V12 `item/xhtml/p-0014.xhtml` P158–206/P292–326: blocked solo stay, changed invitation, accepted date and offered hand.
+
+<a id="kf-p39"></a>
+**KF-P39:** V12 `item/xhtml/p-0016.xhtml` P35–81/P156–190: word play, particular appreciation and initiated/reciprocated touch.
+
+<a id="kf-p40"></a>
+**KF-P40:** Same V12 `item/xhtml/p-0016.xhtml`, P1–30/P305–343/P344–400/P410–497/P649–711/P711–738/P791–826/P827–857: refusal, bargain, learning, selective help, unknown error mechanism, intrusion and partial expert completion. The repeated P711 is retained as inspected context, not independent corroboration.
+
+<a id="kf-p41"></a>
+**KF-P41:** Same V12 `item/xhtml/p-0016.xhtml` P1242–1308: acknowledges broken birds, asks, attends and waits for children's interpretations.
+
+<a id="kf-p42"></a>
+**KF-P42:** V12 `item/xhtml/p-0018.xhtml` P198–284: Mitsu's plural-origin account, limited self-liking and Kikuchi's provisional self-erasing observer ideal.
+
+<a id="kf-p43"></a>
+**KF-P43:** V12 `item/xhtml/p-0021.xhtml` P11–33/P95–149: unavailable Nagisa standpoint, omission as choice and postponed self-question.
+
+<a id="kf-p44"></a>
+**KF-P44:** Same V12 `item/xhtml/p-0021.xhtml` P209–391/P402–433: bounded private loan, phone translation, exact verb revisions, attributed interpretation, actual return and writing decision.
+
+<a id="kf-p45"></a>
+**KF-P45:** V12 `item/xhtml/p-0022.xhtml` P114–226/P504–513/P846–871/P947–979: delivery/refusal/urging/choice, unknown death intent and semantic-ruby/fiction layers. The intervening unlisted paragraphs are not newly claimed read in this update; full DR12 supplies the larger source-order argument.
+
+<a id="kf-p46"></a>
+**KF-P46:** V12 `item/xhtml/p-0026.xhtml` P106–163: final title/material, unusual tea, tears-not-proof and her owned writing purpose.
+
+### 17.10 Current endpoint and receiver responsibility
+
+The current state is **an author with an owned affirmative reason and a completed offering, who retains an unprovable remainder and unfinished governance**. V11's unfound reason/unexecuted party are preserved at their former clock and revised here. Earlier agency, accepted R05 diary-image access, Goda's independent contribution, repeated romantic choice, Haruka's participation/injury and the exact unknown call-disconnector remain intact.
+
+Root must independently review this band and its primary returns against the accepted full monograph and completed retrospective coverage findings. The central interpretive test is whether observation-plus-owned-prayer explains both the method revision and the remaining intrusion, without a spotless-writer or all-art-is-violation theory. The couple specialist owns sustainable allocation and permission over time; authorship/fiction specialists own transformation, unknown voices and targeted reception; ensemble/social responsibilities must keep local experts, children and delivery peers as people with their own stakes. No thematic convergence, full-series release, professional outcome, reconstruction model or terminal closure follows from this candidate.
