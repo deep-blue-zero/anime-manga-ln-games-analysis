@@ -151,6 +151,19 @@ class ControllerTests(unittest.TestCase):
                 request = transport.call_args.args[0]
                 self.assertEqual(request.full_url, expected)
 
+    def test_transport_labels_json_payloads_as_json(self):
+        # Without an explicit type, urllib sends a JSON body as a form post and the proxy answers 415.
+        with mock.patch('nightly_integration.urllib.request.urlopen') as transport:
+            transport.return_value.__enter__.return_value.read.return_value = b'{}'
+            GitHub('test').request('PUT', 'pulls/8/merge', {'sha': S, 'merge_method': 'merge'})
+            request = transport.call_args.args[0]
+            self.assertEqual(request.get_header('Content-type'), 'application/json')
+            self.assertEqual(json.loads(request.data), {'sha': S, 'merge_method': 'merge'})
+        with mock.patch('nightly_integration.urllib.request.urlopen') as transport:
+            transport.return_value.__enter__.return_value.read.return_value = b'{}'
+            GitHub('test').request('GET', 'pulls/8')
+            self.assertFalse(transport.call_args.args[0].has_header('Content-type'))
+
     def test_apply_preflight_checks_runtime_owner_ruleset_and_main_audit_before_writes(self):
         worker = self.worker()
         self.assertEqual(worker.preflight(), B)

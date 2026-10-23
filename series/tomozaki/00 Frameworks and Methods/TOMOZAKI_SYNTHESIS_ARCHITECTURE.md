@@ -1,10 +1,10 @@
 ---
 series: TOMOZAKI
 artifact_type: synthesis_corpus_architecture
-scope: JP_LIGHT_NOVEL_V01-V11_PLUS_ROUTED_V06_5_AND_V08_5
-source_boundary: "Audited Japanese light-novel EPUB corpus: numbered main Volumes 01-11 plus side-story Volumes 06.5 and 08.5; source audit dated 2026-08-29"
+scope: JP_LIGHT_NOVEL_V01-V12_ADMITTED_PLUS_ROUTED_V06_5_AND_V08_5
+source_boundary: "Historical 2026-08-29 Japanese EPUB audit: main V01-V11 plus story-local V06.5/V08.5; additive V12 local-witness admission dated 2026-10-22, ADMITTED/UNREAD; completed analysis remains V11 plus routed supplements"
 analytical_generation: V2_REMEDIATION
-architecture_version: "1.6"
+architecture_version: "1.7"
 architecture_lifecycle: EVOLVING
 status: canonical
 release_state: mutable_active
@@ -41,6 +41,8 @@ Its responsibility is distinct from the companion analytical method:
 
 The current architecture lifecycle is `EVOLVING`. Sequential reading and the six-owner longitudinal reconciliation have passed at the V11 boundary. Major-character inputs are ready; later role adjudication, character/relationship/thematic maturity and cross-specialist convergence remain unfinished. The owner reserved literary authoring for a separate session and subsequently authorized integration of its supplied monographs. Fumiya and Hinami pass R04; Kikuchi and Mimimi now complete R05’s two §7.3 responsibilities under the [Kikuchi integration review](../08%20Audits%20and%20Manifests/KIKUCHI_FUKA_R05_INTEGRATION_REVIEW.md) and [Mimimi integration review](../08%20Audits%20and%20Manifests/NANAMI_MINAMI_R05_INTEGRATION_REVIEW.md). The three R06 character candidates and relationship/thematic specialist responsibilities remain unfinished. The [R01–R03 reconciliation audit](../08%20Audits%20and%20Manifests/TOMOZAKI_LONGITUDINAL_RECONCILIATION_AUDIT.md) supplies the current cumulative gate decision; it does not itself promote literary candidates; each monograph’s promotion rests on its separate role review.
 
+The 2026-10-22 campaign additionally authorizes V12 as the sole new numbered source, followed by full-corpus coverage, R06 scope adjudication, relationship/thematic specialists, convergence, literary synthesis/release and evidence-sufficient derived reconstruction under the dependencies below. V12 is **ADMITTED / UNREAD**. The preserved V11 passes and R04/R05 acceptances are entering-state evidence, not V12 completion or final-corpus certification. No new narrative or image content has been consulted for this admission update, and no high-water mark advances.
+
 ### 1.1 Authority and governing policy
 
 This architecture is canonical within `series/tomozaki/` and is subordinate to live repository governance, especially:
@@ -74,7 +76,7 @@ The existing effort/competition/goal-ownership ledger is retained as a canonical
 
 The current literary continuity is the audited Japanese EPUB set recorded in `../01 Source Lock and Inventory/TOMOZAKI_SOURCE_LOCK_AND_INVENTORY.md`:
 
-- main numbered Volumes 01–11, in publication order;
+- main numbered Volumes 01–11 from the historical 2026-08-29 audit, plus the additive V12 local witness admitted on 2026-10-22, in publication order;
 - Volume 06.5 as a publication-order supplement after V06 with story-local diegetic placement;
 - Volume 08.5 as a publication-order supplement after V08 with mixed internal chronology;
 - the acquired V07 Special Edition witness, whose main novel is literary evidence and whose `FLY mini ART WORKS` block is edition-specific visual paratext;
@@ -82,15 +84,17 @@ The current literary continuity is the audited Japanese EPUB set recorded in `..
 
 The default numbered developmental chain is:
 
-`V01 → V02 → V03 → V04 → V05 → V06 → V07 → V08 → V09 → V10 → V11`
+`V01 → V02 → V03 → V04 → V05 → V06 → V07 → V08 → V09 → V10 → V11 → V12`
 
 V06.5 and V08.5 do not become simple steps in that chain. Each observation from them carries its own story-local time, narrator/observer access, and continuity classification. Parallel, adapted, promotional, and non-narrative material remains segregated where the corresponding reading says it is segregated.
+
+V12 admission does not imply reading completion. The authorized run is `continuous_sequential`, begins at V12 and terminates at V12; the current entrypoint records its active state and V11 committed high-water mark. A reproducible prospective V11 entering snapshot must precede V12 narrative, substantive-preview, illustration and story-bearing-supplement consultation. The additive lock identifies the owner-approved local bytes; metadata-only Drive inspection does not establish remote payload identity.
 
 ### 2.2 Excluded or separately admissible sources
 
 The present architecture does not admit:
 
-- V12 or later prose;
+- numbered prose after V12, future after-stories, or other unadmitted narrative supplements;
 - anime or manga adaptations;
 - official or fan translations as semantic authority;
 - interviews, promotional copy, reception, wikis, or fandom consensus;
@@ -164,6 +168,8 @@ If a later numbered or supplemental source is admitted, a completed source-unit 
 8. corpus-map and architecture-review updates where state changed.
 
 A standalone deep-reading document is source-facing complete when frozen, but the source-unit tranche is not architecturally complete until applicable cumulative state advances or the operation records a reasoned `NO CHANGE`.
+
+For the admitted V12 transaction, update all six mandatory owners or record a justified `NO CHANGE`, adjudicate inherited claims and questions, preserve the entering freeze, and validate the complete transaction before advancing the committed high-water mark. Completing this one-source run does not stop the separately authorized retrospective campaign; its coverage, specialist, convergence, synthesis, release and derived-model gates remain independent.
 
 ## 5. State model: preventing terminal flattening
 
@@ -446,7 +452,7 @@ The current full-series synthesis gate is closed. Existing prose may be read as 
 
 | Gate | Pass condition | Current state |
 |---|---|---|
-| Sequential-source completion | Every admitted witness has correct source routing, source-facing analysis, adjudication, and bounded freeze. | **PASS at V11 plus routed V06.5/V08.5** |
+| Sequential-source completion | Every admitted witness has correct source routing, source-facing analysis, adjudication, and bounded freeze. | **Historical PASS at V11 plus routed V06.5/V08.5; V12 ADMITTED / UNREAD, current source transaction pending** |
 | Architecture establishment | Canonical architecture satisfies all Minimum Semantic Contract responsibilities and a role-gap audit tests the actual corpus. | **PASS at design/audit level; lifecycle remains EVOLVING** |
 | Longitudinal reconciliation | Every mandatory cumulative home is backfilled through V11; overlaps and contradictions are reconciled; material claims have usable evidence routes. | **PASS through V11; six-owner convergence and targeted retrieval independently reviewed** |
 | Specialist readiness | Required ledger inputs are stable enough to support literary drafting; promotion scopes are explicit; unresolved states are preserved. | **INPUTS READY; gate remains CLOSED pending remaining role/scope adjudication and ordered literary work. The reserved session may adjudicate R06 using the four reviewed monographs and cumulative evidence.** |
@@ -516,7 +522,7 @@ Model generation order is `select state → select relationship/standing → est
 
 Primary-source escalation for a model is targeted: compile from mature literary authority, identify a thin or contradictory field, reopen only the needed source scene, and record why the escalation occurred and what changed.
 
-No reconstruction model is authorized as part of the first remediation tranche.
+No reconstruction model is authorized as part of the first remediation tranche. The separately authorized 2026-10-22 campaign may generate distinct evidence-sufficient derived models only after the literary stabilization and release prerequisites above pass; admission of V12 does not satisfy those prerequisites.
 
 ## 17. Architecture amendment rule
 
@@ -579,6 +585,13 @@ Start with `../CURRENT_STATE_AND_CORPUS_MAP.md`. Before changing project state, 
 The corpus map must always expose the exact completed source boundary, architecture lifecycle, current ledgers, mature versus provisional character/specialist status, open synthesis gate, and next required operation.
 
 ## 20. Revision history
+
+### v1.7 — 2026-10-22 — additive V12 admission and bounded continuation
+
+- Added the sole newly authorized numbered witness, V12, under the source lock’s separately dated local-byte record; preserved the historical 2026-08-29 audit, V07 edition distinction and supplemental chronology.
+- Recorded `continuous_sequential`, start V12 and terminal V12, with V12 ADMITTED / UNREAD and completed analysis still through V11 plus routed supplements. Required a prospective entering freeze and complete six-owner transaction before any high-water advance.
+- Preserved all V11-scoped passes, R04/R05 literary acceptances, role contracts, stable identities, historical readings and unresolved claims. V12 source completion, revised longitudinal reconciliation, remaining specialist work, convergence and final release have not passed.
+- Routed the owner-authorized retrospective campaign and later evidence-sufficient derived models through their existing dependencies, without admitting any further narrative source or promoting a gate.
 
 ### v1.6 — 2026-09-13 — reviewed Mimimi and completion of the R05 pair
 
