@@ -1980,3 +1980,10 @@ Exact locators and access: [cohort24 index](../08%20Evidence%20and%20Indexes/KON
 False identity,performed introductions,interrupted speeches,teleport feints and an interrupted finishing line organize these scenes. Their being staged jokes does not make the actual pursuit,restraint,injury or burning nonliteral. A performed deception within the fantasy world is not automatically H4; rhetorical amplification and uncertainty remain separate from whether an action occurs. Later village rebuilding does not erase destruction or extermination threats. No global humor-code reassignment is made.
 
 Exact locators and access: [cohort25 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX.md). This source-known scope adds no new whole-source,ruby,residual,image-set,admission or independent validation credit. Earlier models,first bodies,scores and prospective missingness remain unchanged. Canonical receiving/publication is pending for this candidate; the full KonoSuba program continues.
+
+
+## Cohort26 — Aigis, the contest announcer and flower-giving sisters
+
+Interrupted access phrases, exaggerated self-worth, paired spectators, disguise recognition and a game-like efficacy line organize comic scenes. Neither fantasy embodiment nor uncertainty is automatically H3/H4. Real restraint, hot metal, failed cooling, recipient objections and continued harassment remain attributable within the comedy. One harmless punch or invitation to strike does not establish enjoyment of all painful injury. No global humor-code reassignment is made (AG26-08,12–18,22,25,28).
+
+Locators and source planes: [Aigis cohort26 index](../08%20Evidence%20and%20Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md). The source-known scope adds no blind-source accuracy, independent confidence gain or evaluator grade. Exact containing publication is pending at authorship.

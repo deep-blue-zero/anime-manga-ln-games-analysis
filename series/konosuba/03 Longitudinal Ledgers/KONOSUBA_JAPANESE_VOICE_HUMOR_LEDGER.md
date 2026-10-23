@@ -1947,3 +1947,10 @@ Exact locators and access: [cohort24 index](../08%20Evidence%20and%20Indexes/KON
 Sylvia's アタシ,わ/わね and ボウヤ can accompany warmth,teasing or coercion; register does not identify consent or primary motive. The rough hostile turn at MAIN05p-018P668 is situational,not evidence that embodiment causes cruelty. Moguninnin's printed speech uses mixed-kana classification/project language. Kazuma's先生方 for village experts does not identify all as schoolteachers. Code-entry humor depends on recognized script/remembered command; katakana,ruby or a magic name alone does not earn a culture-dependent classification.
 
 Exact locators and access: [cohort25 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX.md). This source-known scope adds no new whole-source,ruby,residual,image-set,admission or independent validation credit. Earlier models,first bodies,scores and prospective missingness remain unchanged. Canonical receiving/publication is pending for this candidate; the full KonoSuba program continues.
+
+
+## Cohort26 — Aigis, the contest announcer and flower-giving sisters
+
+The printed armor voice uses inflated introductions, appraisal, complaints, abrupt deference, counterpart-dependent address and 俺/あたい variation. These are pragmatic forms in print, not an acoustic performance or human gender diagnosis. A slang form, katakana item, pronoun shift or magic name does not alone earn L3. The announcer supplies an occupational contrast between fluent spectacle and hesitant honorific interviewing. The sisters supply bounded questions and thanks without an invented whole-person voice generator (AG26-03,06,09,14–16,20,25,28,30,33).
+
+Locators and source planes: [Aigis cohort26 index](../08%20Evidence%20and%20Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md). The source-known scope adds no blind-source accuracy, independent confidence gain or evaluator grade. Exact containing publication is pending at authorship.

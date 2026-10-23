@@ -1501,3 +1501,10 @@ Exact locators and access: [cohort24 index](../08%20Evidence%20and%20Indexes/KON
 Sylvia catches an ordinary weapon and later improves movement after fusion,but prepared barrier equipment fails at a nonmagical lock. Holy attack causes a pain response in the earlier body; later resistance is not universal immunity. A failed tail shield is still a defense. Megumin supplies Explosion energy,Kazuma aims and Komekko pulls the trigger. The chief actually casts then fails against one armor; Moguninnin remains mobile after component theft. Capacity,access,activation,delivery and observed outcome stay separate.
 
 Exact locators and access: [cohort25 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX.md). This source-known scope adds no new whole-source,ruby,residual,image-set,admission or independent validation credit. Earlier models,first bodies,scores and prospective missingness remain unchanged. Canonical receiving/publication is pending for this candidate; the full KonoSuba program continues.
+
+
+## Cohort26 — Aigis, the contest announcer and flower-giving sisters
+
+Actual dragging and escape, two failed Bind attempts, failed Freeze cooling and deflected Lightning coexist with successful netting, hazardous heat and an enclosed caster unable to deploy outward magic. Universal immunity, automatic healing, material value and impossible disassembly remain broader claims. The forest-trial limit on useful offense does not erase earlier physical harm. Protected rest and later offense are reported as alternating, with strategy authorship unassigned. Milk inability is Kazuma statement, supported by nonconsumption rather than a watched failed drinking trial (AG26-07–08,17–18,20,25,27–28).
+
+Locators and source planes: [Aigis cohort26 index](../08%20Evidence%20and%20Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md). The source-known scope adds no blind-source accuracy, independent confidence gain or evaluator grade. Exact containing publication is pending at authorship.

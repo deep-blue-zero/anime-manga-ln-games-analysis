@@ -1294,3 +1294,10 @@ Exact locators and access: [cohort24 index](../08%20Evidence%20and%20Indexes/KON
 Comedic framing preserves forced restraint,credible threats,burning property,actual failed defenses and dangerous injury. Partial consideration toward a captive or companion does not cancel coercion or group extermination threats. Proposed capture for experiments is a threat/proposal,not a completed experiment. A successful final countermeasure,subsequent rebuilding or an institutional kill-card does not morally repair earlier harm. No graphic recapitulation or body-based explanation of villainy is needed.
 
 Exact locators and access: [cohort25 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX.md). This source-known scope adds no new whole-source,ruby,residual,image-set,admission or independent validation credit. Earlier models,first bodies,scores and prospective missingness remain unchanged. Canonical receiving/publication is pending for this candidate; the full KonoSuba program continues.
+
+
+## Cohort26 — Aigis, the contest announcer and flower-giving sisters
+
+The enclosed Eris reports heat, and the attempted cooling fails. Protection can therefore create another hazard; an effective defense is not universal safety. Pressure to undress and later suggestive misrepresentation remain unwanted, and no actual undressing is supplied. Yunyun rejects cheating proposals rather than performing them. A useful rescue, overnight protection, later gift or polite address shift does not repair earlier intrusion or coercion (AG26-13–18,22–28,33).
+
+Locators and source planes: [Aigis cohort26 index](../08%20Evidence%20and%20Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md). The source-known scope adds no blind-source accuracy, independent confidence gain or evaluator grade. Exact containing publication is pending at authorship.

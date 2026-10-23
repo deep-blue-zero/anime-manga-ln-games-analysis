@@ -1943,3 +1943,10 @@ Exact locators and access: [cohort24 index](../08%20Evidence%20and%20Indexes/KON
 The cohort25 index owns31source-bound rows:SV25-01–14,CH25-01–08,MN25-01–08 andON25-01. Native provenance binds35actually received complete windows,2,122knownBASE slots,19members and9native text objects. MAIN05p-017 andMAIN14I13 alone have completeBASE-member receiving here. No new whole-source,ruby,residual,image-set,source admission or independent pass follows; the41-object literal search supplies retrieval leads only.
 
 Exact locators and access: [cohort25 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX.md). This source-known scope adds no new whole-source,ruby,residual,image-set,admission or independent validation credit. Earlier models,first bodies,scores and prospective missingness remain unchanged. Canonical receiving/publication is pending for this candidate; the full KonoSuba program continues.
+
+
+## Cohort26 — Aigis, the contest announcer and flower-giving sisters
+
+AG26-01–35 bind direct actions, self-reports, other-character reports, narrator inferences and unperformed offers to native paragraph locators. Twenty-eight complete delivered windows bind 1,427 known BASE slots across eleven members and three local Japanese EPUBs. MAIN08 C5 and MAIN14 I13 alone are complete BASE member projections here. All 146 literal hits in substantive members are covered; two TOC hits are unreceived. This is not exhaustive alias/anonymous-appearance coverage. Accepted MAIN17 C3 controls the retained private delivery filename mistakenly labeled C4. No new whole-source, ruby, residual, image-set or source-admission credit follows.
+
+Locators and source planes: [Aigis cohort26 index](../08%20Evidence%20and%20Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md). The source-known scope adds no blind-source accuracy, independent confidence gain or evaluator grade. Exact containing publication is pending at authorship.

@@ -1371,3 +1371,10 @@ Exact locators and access: [cohort24 index](../08%20Evidence%20and%20Indexes/KON
 Chief family-letter/reception evidence does not supply routine administrative choices or a taste inventory. Sylvia's dress,body modification and personal interest appear during an operation; no household budget or leisure distribution is established. Moguninnin maintenance/waiting states are not unprovided human preferences. The courier's reviewed choices remain operational. Sparse ordinary-life dimensions are recorded as gaps rather than filled by commander,scientist,parent,robot or guard stereotypes.
 
 Exact locators and access: [cohort25 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX.md). This source-known scope adds no new whole-source,ruby,residual,image-set,admission or independent validation credit. Earlier models,first bodies,scores and prospective missingness remain unchanged. Canonical receiving/publication is pending for this candidate; the full KonoSuba program continues.
+
+
+## Cohort26 — Aigis, the contest announcer and flower-giving sisters
+
+Aigis recalls daily waxing, offers milk it does not consume, transfers a body fragment, objects to scraping and chooses continued spectatorship after net release. Composition, price and prepaid lodging remain self-reports; no unlimited budget or blanket body-access permission follows. The lake-freezing/fishing story concerns another reported villager rather than Aigis own hobby. The sisters report pooled allowance and a purchase, while only the elder own gift is directly transferred. No checkout or altar delivery is watched (AG26-09–10,20,33–35).
+
+Locators and source planes: [Aigis cohort26 index](../08%20Evidence%20and%20Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md). The source-known scope adds no blind-source accuracy, independent confidence gain or evaluator grade. Exact containing publication is pending at authorship.

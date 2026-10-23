@@ -1,0 +1,338 @@
+{
+  "schema": "konosuba.cohort26.receiving-and-provenance.v1",
+  "status": "SEMANTIC_RECEIVED_EXACT_CONTAINING_PUBLICATION_PENDING",
+  "received_utc": "2026-10-23T21:55:59.322577+00:00",
+  "source_baseline": "a90722d065e56e8fe2c2131e4307e4fa03d0c289",
+  "main_at_receiving": "297bc0d05040a24facbeb5440481b9c604de5568",
+  "foundation_seal_sha256": "d8f4060ef46ec5bd88f7f299ccb58721b6d7003768d15a516baa0c0e5c21f23f",
+  "semantic_receiving_sha256": "86aceb7f08c2aee93b39a0b8430c07073eaba541115c40c8c20e8f3ddb2061d2",
+  "exact_input_freeze_sha256": "a80dcf7a00342f3c8eb25d62dd8bb6c4f30d8bed18ad8c7371b2fddfaab737da",
+  "body_freeze_sha256": "52d6a6acab619ef541a2c1f279e5316e0541faf73c40269aad50716123612a42",
+  "all11_frozen_private_artifact_pins": [
+    {
+      "file": "AIGIS_CHARACTER_MONOGRAPH_DRAFT_01.md",
+      "bytes": 18055,
+      "sha256": "85ad24050adffd7d703525685f1be80f52adcd2e563c137846aa3c91ecefd9a5"
+    },
+    {
+      "file": "AIGIS_RECONSTRUCTION_MODEL_DRAFT_01.md",
+      "bytes": 17312,
+      "sha256": "e5f8fec3e67b3cd928056533bbc7fa30ec748b49d4dcf6310334e5f37dd04be9"
+    },
+    {
+      "file": "COHORT26_COMPACT_PROFILES_COVERAGE_APPEND_DRAFT_01.md",
+      "bytes": 7628,
+      "sha256": "6f38406e4f487e6bd5e659a663c5bd9e5eebdbca04df8a4b06ea5b5392e49811"
+    },
+    {
+      "file": "AIGIS_EVIDENCE_INDEX_DRAFT_01.md",
+      "bytes": 12132,
+      "sha256": "8c6f4b3a2313fb8341185bfdf013da6cb7c2c2db391e7f727e98b42904ffc468"
+    },
+    {
+      "file": "AIGIS_NATIVE_PROVENANCE_DRAFT_01.json",
+      "bytes": 39734,
+      "sha256": "f587f7a25528bc3fef17a06e58b65026038604dbfd4dd209d7f9a6d748aa63ba"
+    },
+    {
+      "file": "AIGIS_COHORT26_SCOPE_ASSESSMENT_DRAFT_03.json",
+      "bytes": 10982,
+      "sha256": "42f3932739111e02645207b44635f1d5b4e7de0261f52d0271bcb710828a8705"
+    },
+    {
+      "file": "AIGIS_COHORT26_NEW_DISCOVERY_RECORDS_DRAFT_02.json",
+      "bytes": 10315,
+      "sha256": "52a99a93c70bce228926d22e3ac37bb2fb54add95b15c94511335326ba823123"
+    },
+    {
+      "file": "AIGIS_COHORT26_NAME_REFERENCE_CHECK_DRAFT_02.json",
+      "bytes": 1524,
+      "sha256": "43665dcfa5b99448df505f5807ec76e07030b8aab0d99a49bd7db68d8dd3aaab"
+    },
+    {
+      "file": "AIGIS_SCENARIO_INPUTS_01.json",
+      "bytes": 16603,
+      "sha256": "c30c3cb05bfc61870f6dbaddb904239b36603eb8d7eb6f4544fd40d2714c1266"
+    },
+    {
+      "file": "AIGIS_FIRST_OUTPUTS_01.json",
+      "bytes": 13124,
+      "sha256": "79dede62d085b481b018fb34879c58ca06a7f932a2982655869eac44628b5e4b"
+    },
+    {
+      "file": "AIGIS_FIRST_OUTPUT_ANNOTATIONS_02.json",
+      "bytes": 12405,
+      "sha256": "c8b93939dc475e91021742044846817c151a08a8dbe37accd2977206141ad4d5"
+    }
+  ],
+  "core_artifact_pins": [
+    {
+      "private_file": "AIGIS_CHARACTER_MONOGRAPH_DRAFT_01.md",
+      "target_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_AIGIS_CHARACTER_MONOGRAPH.md",
+      "bytes": 18055,
+      "sha256": "85ad24050adffd7d703525685f1be80f52adcd2e563c137846aa3c91ecefd9a5"
+    },
+    {
+      "private_file": "AIGIS_RECONSTRUCTION_MODEL_DRAFT_01.md",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_AIGIS_RECONSTRUCTION_MODEL.md",
+      "bytes": 17312,
+      "sha256": "e5f8fec3e67b3cd928056533bbc7fa30ec748b49d4dcf6310334e5f37dd04be9"
+    },
+    {
+      "private_file": "AIGIS_EVIDENCE_INDEX_DRAFT_01.md",
+      "target_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md",
+      "bytes": 12132,
+      "sha256": "8c6f4b3a2313fb8341185bfdf013da6cb7c2c2db391e7f727e98b42904ffc468"
+    },
+    {
+      "private_file": "AIGIS_NATIVE_PROVENANCE_DRAFT_01.json",
+      "target_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_AIGIS_NATIVE_PROVENANCE.json",
+      "bytes": 39734,
+      "sha256": "f587f7a25528bc3fef17a06e58b65026038604dbfd4dd209d7f9a6d748aa63ba"
+    },
+    {
+      "private_file": "AIGIS_SCENARIO_INPUTS_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/AIGIS_EXPANDED_V1_EVIDENCE/AIGIS_SCENARIO_INPUTS_01.json",
+      "bytes": 16603,
+      "sha256": "c30c3cb05bfc61870f6dbaddb904239b36603eb8d7eb6f4544fd40d2714c1266"
+    },
+    {
+      "private_file": "AIGIS_FIRST_OUTPUTS_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/AIGIS_EXPANDED_V1_EVIDENCE/AIGIS_FIRST_OUTPUTS_01.json",
+      "bytes": 13124,
+      "sha256": "79dede62d085b481b018fb34879c58ca06a7f932a2982655869eac44628b5e4b"
+    },
+    {
+      "private_file": "AIGIS_FIRST_OUTPUT_ANNOTATIONS_02.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/AIGIS_EXPANDED_V1_EVIDENCE/AIGIS_FIRST_OUTPUT_ANNOTATIONS_01.json",
+      "bytes": 12405,
+      "sha256": "c8b93939dc475e91021742044846817c151a08a8dbe37accd2977206141ad4d5"
+    }
+  ],
+  "compact_profile_fragment": {
+    "private_file": "COHORT26_COMPACT_PROFILES_COVERAGE_APPEND_DRAFT_01.md",
+    "target_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md",
+    "bytes": 7628,
+    "sha256": "6f38406e4f487e6bd5e659a663c5bd9e5eebdbca04df8a4b06ea5b5392e49811"
+  },
+  "original_first_serialization_pins": [
+    {
+      "case_id": "AG-H01-A",
+      "body_file": "COHORT26_FIRST_BODY_AG-H01-A_01.txt",
+      "body_sha256": "ab103a9cb2c20a040dd336ffc72e0eb6cc769473a74498712668241e451df1a9",
+      "receipt_file": "COHORT26_FIRST_BODY_AG-H01-A_01_RECEIPT.json",
+      "receipt_sha256": "57018e779cd11c4cc61e39a65bce70a03e77c31430a10702abaaebbf9889a5b6",
+      "bytes": 664,
+      "words_whitespace": 106,
+      "actual_complete_first_delivery_tool_chunk": "9a4ad1"
+    },
+    {
+      "case_id": "AG-H01-B",
+      "body_file": "COHORT26_FIRST_BODY_AG-H01-B_01.txt",
+      "body_sha256": "8f664a4447277bda412e4abb8b5a7ad1950496281919b914eac52540bc8dfbc3",
+      "receipt_file": "COHORT26_FIRST_BODY_AG-H01-B_01_RECEIPT.json",
+      "receipt_sha256": "d20a064aaeb46c7edfd52a032ec5587c388189c596e73a29a8c0b0e619953087",
+      "bytes": 714,
+      "words_whitespace": 110,
+      "actual_complete_first_delivery_tool_chunk": "98fbed"
+    },
+    {
+      "case_id": "AG-H02-A",
+      "body_file": "COHORT26_FIRST_BODY_AG-H02-A_01.txt",
+      "body_sha256": "d8471b06bef7216e1b74dc361f0fafaf1b9fd124fd05e7156c441abeac06b68a",
+      "receipt_file": "COHORT26_FIRST_BODY_AG-H02-A_01_RECEIPT.json",
+      "receipt_sha256": "f40d3a6a82a0434a844fc72d2847742436ba330f1a12a64ff6281ea81788ec73",
+      "bytes": 663,
+      "words_whitespace": 109,
+      "actual_complete_first_delivery_tool_chunk": "652203"
+    },
+    {
+      "case_id": "AG-H02-B",
+      "body_file": "COHORT26_FIRST_BODY_AG-H02-B_01.txt",
+      "body_sha256": "6d6a7f9c505f7ad3c5ca8f7fee4b3daba378633d66bf8fd1cc2044bdd0e5469c",
+      "receipt_file": "COHORT26_FIRST_BODY_AG-H02-B_01_RECEIPT.json",
+      "receipt_sha256": "4f63a5021c227274a2e0f7db15357ab6e962460cbe19a418c300dd17277d7068",
+      "bytes": 648,
+      "words_whitespace": 109,
+      "actual_complete_first_delivery_tool_chunk": "8287bd"
+    },
+    {
+      "case_id": "AG-H03-A",
+      "body_file": "COHORT26_FIRST_BODY_AG-H03-A_01.txt",
+      "body_sha256": "d76c545ed9d0f5449c8da656d1de416cbd447660b186d89c5c2a6b5f0367014a",
+      "receipt_file": "COHORT26_FIRST_BODY_AG-H03-A_01_RECEIPT.json",
+      "receipt_sha256": "9ba756473383f10091e09b4c3e2ad781fa1d62fedd74f4ed093db0bf38390383",
+      "bytes": 625,
+      "words_whitespace": 104,
+      "actual_complete_first_delivery_tool_chunk": "d24a88"
+    },
+    {
+      "case_id": "AG-H03-B",
+      "body_file": "COHORT26_FIRST_BODY_AG-H03-B_01.txt",
+      "body_sha256": "f287776938678a2d401c728e9deff51af10f615de5aaaf0dcfa81387f22ebcd4",
+      "receipt_file": "COHORT26_FIRST_BODY_AG-H03-B_01_RECEIPT.json",
+      "receipt_sha256": "97be7c6b1c4fab505180d961c64371e5fd53368b0df95584d12b1fd2db6c3b4d",
+      "bytes": 670,
+      "words_whitespace": 113,
+      "actual_complete_first_delivery_tool_chunk": "c65a62"
+    }
+  ],
+  "new_artifact_scope": {
+    "models": 34,
+    "scoped_secondary_model_subjects": 28,
+    "bounded_profiles": 33,
+    "monograph_only_subjects": 10,
+    "nonfinal_records": 231,
+    "new_rules": 3,
+    "new_original_firsts": 6,
+    "new_dependent_pairs": 3
+  },
+  "new_monographs": [
+    "Aigis"
+  ],
+  "new_compact_profiles": [
+    "Unnamed contest announcer",
+    "Unnamed elder flower-giving sister",
+    "Unnamed younger flower-giving sister"
+  ],
+  "new_models": [
+    "Aigis"
+  ],
+  "new_rules": [
+    "AG-R01",
+    "AG-R02",
+    "AG-R03"
+  ],
+  "new_original_first_bodies": 6,
+  "new_dependent_pairs": 3,
+  "known_BASE": 1427,
+  "complete_known_windows": 28,
+  "members": 11,
+  "native_text_objects": 3,
+  "new_whole_source_ruby_residual_image_set_admission_or_independent_credit": 0,
+  "source_access_limits": "Direct acts,own self-reports,other-character reports,narrator conjecture,proposals,actual wearing and permission remain typed. Milk inability is Kazuma statement; lake fishing another reported actor; tentative elder question; accepted MAIN17C3 controls retained C4 transport filename.",
+  "diagnostic_limits": "All six original bodies precede receiving. Same informed root is author,designer,responder and assessor; no external call,blind forecast,independent accuracy,capability grade or confidence gain. Explicit-cue generic rivals and retained cosmetic/temporal rhetoric and blame displacement limit conclusions. Three pairs do not complete final nine-category battery.",
+  "first_output_aggregation_byte_exact": true,
+  "body_regenerations": 0,
+  "feedback_repairs": 0,
+  "census_comparison": {
+    "changed_entering_rows": [
+      58
+    ],
+    "untouched_entering_rows": 222,
+    "new_rows": [
+      223,
+      224,
+      225,
+      226,
+      227,
+      228,
+      229,
+      230
+    ],
+    "nonfinal_records": 231,
+    "no_unique_person_denominator": true
+  },
+  "current_governing_control_pins": [
+    {
+      "path": ".github/workflows/global-index-housekeeping.yml",
+      "bytes": 7260,
+      "sha256": "d45795121b97bb7477b16d1f79c26de00009b91c1039942ccfbca6535802cd79"
+    },
+    {
+      "path": ".github/workflows/repository-audit.yml",
+      "bytes": 8371,
+      "sha256": "380bf73687513f499c9430bc2d74b735c5ba83608c4ce954f9ac188a12eecbcb"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 9708,
+      "sha256": "bd6469134b8a67e3d3d9da55ffd4f3a510ed11c6cdd4b4466a0ec6fbbc69d5e6"
+    },
+    {
+      "path": "governance/AGENT_ROUTING.md",
+      "bytes": 24932,
+      "sha256": "071b0c08f56304d80ec93199e495a84731c6b96ec2c14959086b30562ad084dc"
+    },
+    {
+      "path": "governance/policies/AUTOMATED_GLOBAL_INDEX_MAINTENANCE.md",
+      "bytes": 2580,
+      "sha256": "b00ccd101e8c064df924ad378ccfd841abc564ed66ea4f27e029d58f734379d4"
+    },
+    {
+      "path": "governance/policies/BRANCH_LIFECYCLE.md",
+      "bytes": 4088,
+      "sha256": "368444759b7747701bf54d2ba203bd88df3eece13e2ab86c76232d7f8642ce30"
+    },
+    {
+      "path": "governance/policies/CHANGE_INTEGRATION_CHECKLIST.md",
+      "bytes": 15560,
+      "sha256": "0165a7641a1b86a1f4048cd2c61b580dbcf438337a3bc6547cd575fba3e7600c"
+    },
+    {
+      "path": "governance/policies/CHARACTER_DISCOVERY_MAINTENANCE.md",
+      "bytes": 3759,
+      "sha256": "22ddb39fb8a55019f13b18369f4ab22c68884bc2ed6f901fe4db06c4a00eaa5c"
+    },
+    {
+      "path": "governance/policies/CHARACTER_RECONSTRUCTION_MAINTENANCE.md",
+      "bytes": 18387,
+      "sha256": "dd46ba210ba8dfa4973bff5eccd173f77a76c0284d1461ce24e2901c3f8bea94"
+    },
+    {
+      "path": "governance/policies/PUBLICATION_AND_CONTRIBUTION_POLICY.md",
+      "bytes": 3969,
+      "sha256": "b23da03adecc44c757faf17ee6c78ba080a9cb0a3433008c785b11adc2bc1463"
+    },
+    {
+      "path": "governance/policies/REPOSITORY_CONTROLS.md",
+      "bytes": 3376,
+      "sha256": "7fb86f55565293b1bbc47749a829bd059d66a83be5bafbf7c89822d225643087"
+    },
+    {
+      "path": "governance/repository-controls/change-obligations.json",
+      "bytes": 2788,
+      "sha256": "7f59db4d799825eab4d81cffc7dc36275f883281647569a3b522a588c5834722"
+    }
+  ],
+  "current_control_baseline": "a90722d065e56e8fe2c2131e4307e4fa03d0c289",
+  "current_controls_qualification": "Accepted owner-integrated current routing; epoch1 migration records remain historical. Reconcile fresh main before publication if drifted.",
+  "prior_preservation_checks": {
+    "current_controls": 12,
+    "C22_8canonical_14private_4firsts": true,
+    "C21_16canonical_24private_8firsts": true,
+    "C20_five_cores": true,
+    "C23_17private_12firsts": true,
+    "immutable": 66,
+    "historical": 72,
+    "scores": 4,
+    "Dust_blank_fields": 14,
+    "SI_SY_null_fields": 28,
+    "scratch_files": 80,
+    "current_models": 33,
+    "control_baseline": "Accepted owner-integrated main controls preserved at a90722d065e56e8fe2c2131e4307e4fa03d0c289; epoch1 migration files remain historical,not current routing.",
+    "C23_15canonical_17private_12firsts": true,
+    "C24_three_cores_seven_private_and_profile_exact": true,
+    "C25_three_cores_seven_private_and_profile_exact": true,
+    "C25_nine_native_thirtyfive_delivery_exact": true,
+    "C26_three_native_eleven_member_twentyeight_delivery_exact": true,
+    "global_discovery_and_evaluation_four_surfaces_exact": true,
+    "scratch80_untracked": true,
+    "inherited_C23_entering_models": 31,
+    "inherited_C23_native_objects": 8
+  },
+  "all33_entering_models_unchanged": true,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "global_census_closed": false,
+  "global_completion_percentage": null,
+  "designated_global_outputs_authored": false,
+  "full_program_complete": false,
+  "pre_adoption_metadata_qualifications": [
+    "Eight new record statuses reflect completed semantic receiving; exact publication remains pending.",
+    "Current census audit projection acknowledges the already provided three-rule/eight-field model; the frozen original scope/model are unchanged.",
+    "The elder gift is performed and gratitude stated; private sincerity is not independently proved. Frozen source/profile foundations remain unchanged.",
+    "Inherited preservation counters31models/8native objects refer to C23; C26 enters with33models and receives3native objects."
+  ]
+}

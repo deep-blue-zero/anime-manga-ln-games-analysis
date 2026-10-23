@@ -1417,3 +1417,10 @@ Exact locators and access: [cohort24 index](../08%20Evidence%20and%20Indexes/KON
 Kazuma mixes battlefield achievements with misleading self-identification,attributes causes to movement/acid/repair,and rationalizes opening the weapon store. Attraction and later revulsion are narrator states rather than transparent Sylvia values. His MAIN15 diary report about Serena is retrospective and attributed,not a direct view of the original control attempt. MASK adds Vanir receiving a courier report of an earlier incident; reports nested inside another narrator do not become a directly watched fight or independent repetition.
 
 Exact locators and access: [cohort25 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX.md). This source-known scope adds no new whole-source,ruby,residual,image-set,admission or independent validation credit. Earlier models,first bodies,scores and prospective missingness remain unchanged. Canonical receiving/publication is pending for this candidate; the full KonoSuba program continues.
+
+
+## Cohort26 — Aigis, the contest announcer and flower-giving sisters
+
+Kazuma distinguishes some actual acts while conjecturing causes and private resistance: sun exposure explains heating in his account; Eris resisting inside may explain Aigis hesitation. His milk statement is not a watched drinking experiment. His doubt about divine recognition by the girls remains his interpretation. The initial questioner is only tentatively the elder; the younger resemblance remark and later elder gift are more securely attributed. MAIN17 Iris wearing/preparation is Eris report to Kazuma, with no watched battle, motive or victory (AG26-17–21,29,33).
+
+Locators and source planes: [Aigis cohort26 index](../08%20Evidence%20and%20Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md). The source-known scope adds no blind-source accuracy, independent confidence gain or evaluator grade. Exact containing publication is pending at authorship.

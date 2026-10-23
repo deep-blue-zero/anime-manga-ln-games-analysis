@@ -1146,3 +1146,10 @@ Exact locators and access: [cohort24 index](../08%20Evidence%20and%20Indexes/KON
 Sylvia earns one Tier2 monograph; chief,Moguninnin and the new MASK courier have three compact Tier1 profiles in the existing audit. All33models/27scoped secondary model subjects are unchanged. Candidate totals are30bounded profiles,10monograph-only subjects and223nonfinal records. Three new Tier0 group/reported-role records and one courier-role profile do not prove four distinct new people. Generic strategic,family,architectural and duty rivals remain; no forced Tier3 parity or sole-evaluator readiness judgement is added.
 
 Exact locators and access: [cohort25 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX.md). This source-known scope adds no new whole-source,ruby,residual,image-set,admission or independent validation credit. Earlier models,first bodies,scores and prospective missingness remain unchanged. Canonical receiving/publication is pending for this candidate; the full KonoSuba program continues.
+
+
+## Cohort26 — Aigis, the contest announcer and flower-giving sisters
+
+Aigis earns a scoped Tier3 monograph and separate three-rule provisional model. AG-R01 concerns conditional service; AG-R02 concerns control-sensitive tactics and attention costs; AG-R03 concerns performed affiliation and selective reciprocity. Each has eight fields, contrary evidence, rivals and a falsifier. Three nearby people receive Tier1 compact profiles; five lower-density roles/groups/reports receive Tier0 indexing. Candidate totals are 34 models, 28 scoped secondary model subjects, 33 bounded profiles, ten monograph-only subjects and 231 nonfinal records. All 33 entering models remain exact. Eight new records are not eight proved unique people, and model maturity/global readiness remain open.
+
+Locators and source planes: [Aigis cohort26 index](../08%20Evidence%20and%20Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md). The source-known scope adds no blind-source accuracy, independent confidence gain or evaluator grade. Exact containing publication is pending at authorship.

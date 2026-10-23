@@ -1824,3 +1824,10 @@ Exact locators and access: [cohort24 index](../08%20Evidence%20and%20Indexes/KON
 Sylvia remains one subject across changing composite states. Guarded retreat,corrected identification,captive leverage,new embodiment and retaliatory pursuit are contextual transitions rather than a global coward/strategist/seducer label. The chief's stylized letter,serious retreat and provoked family outburst differ; much office material concerns Yunyun rather than his own action. Moguninnin's target,wait,damage and report states are bounded functional evidence. The courier's fear coexists with actual leading (SV25-01–SV25-14,CH25-01–CH25-08,MN25-01–MN25-08,ON25-01).
 
 Exact locators and access: [cohort25 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX.md). This source-known scope adds no new whole-source,ruby,residual,image-set,admission or independent validation credit. Earlier models,first bodies,scores and prospective missingness remain unchanged. Canonical receiving/publication is pending for this candidate; the full KonoSuba program continues.
+
+
+## Cohort26 — Aigis, the contest announcer and flower-giving sisters
+
+Aigis shifts among refusal, alarm, bargaining, escape, absorbed spectatorship, deference, actual protection and renewed provocation. Who can hear it, bodily constraint, expected damage, available spectacle and the believed identity of a counterpart change the local state. Unrecognized Chris and recognized Eris are different information states of one counterpart. The contest host changes from expansive appraisal to hesitant courtesy and unsuccessful crowd control. The sisters share one encounter but retain separate possession and action attributions (AG26-01–35).
+
+Locators and source planes: [Aigis cohort26 index](../08%20Evidence%20and%20Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md). The source-known scope adds no blind-source accuracy, independent confidence gain or evaluator grade. Exact containing publication is pending at authorship.

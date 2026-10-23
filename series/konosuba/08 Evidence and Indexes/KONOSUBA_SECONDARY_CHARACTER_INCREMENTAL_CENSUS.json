@@ -1,8 +1,8 @@
 {
   "schema": "KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS_V1",
   "status": "INCREMENTAL_219_QUALIFIED_RECORDS_NOT_FINAL_INDIVIDUAL_DENOMINATOR",
-  "updated_utc": "2026-10-23T20:45:09.778022+00:00",
-  "scope": "Cohorts01-25 and focused qualifications have closed exact-source gates at declared scopes.33models/27scoped secondary subjects,30profiles,ten monograph-only subjects and223nonfinal records; full census/tiers/program open.",
+  "updated_utc": "2026-10-23T21:55:59.322577+00:00",
+  "scope": "Cohorts01-25 retain closed declared gates. Cohort26 Aigis semantic receiving complete; exact containing publication pending. Candidate34models/28scoped secondary model subjects,33bounded profiles,10monograph-only subjects and231nonfinal records. Full census/tiers/program remain open.",
   "row_semantics": "Distinct qualified working subjects plus explicitly unresolved grouped/identity leads. A row is not automatically one final individual or an earned artifact. Old scope phrases remain their recorded history; the root current scope governs present admission status.",
   "artifact_architecture": "Use existing05 Specialist Synthesis for earned monographs and06 Character Modeling and Reconstruction for distinct mechanism models. Existing ledgers carry bounded profiles unless a separate responsibility is justified. Single current corpus map; curator-only global registry/index enrollment.",
   "rows": [
@@ -2264,19 +2264,60 @@
     },
     {
       "character": "Aigis (sentient sacred armor)",
-      "identity": "聖鎧アイギス; distinct from the paired 聖盾イージス",
-      "likely_tier": "2 candidate; 3 requires mechanism/rival review",
-      "priority": "Discovery; concentrated dense agency",
-      "evidence_distribution": "MAIN08 retained C1/C2/C5 identity and service-preference joins; MAIN14 own Yunyun I13 and C4 trial/party/report backjoins. MAIN14 complete C1/C3/I13 base text, own speech and native art. CURRENT WORKING31: Current complete MAIN13-MAIN16 accepted report review, receipts49-52; derivative claims retain original access planes. Targeted native confirmations are separately pinned, with no new whole-source/independent-test credit.",
-      "substantive_responsibility": "A separately speaking artifact with pain/damage aversion, selective bearer/service goals, self-directed travel, sexual harassment, bargaining and actual protective capacity. One dense source can earn a model if alternatives are identifiable; artifact body is not a reason to deny agency. CURRENT WORKING21: Own free-plan vetoes, deception admitted after factual correction and actual Darkness/Aqua kicks; Yunyun refuses trial cheating. Armor's own preferences/availability are real provider constraints. CURRENT WORKING31: MAIN14 autonomous preferences, duty refusal, selective rescue proposal, misleading fitting pretext, real defense, outward-cast block, inability to drink and finite offensive contribution determine team choices. Yunyun reported alternating attack/protected rest solves a bounded overnight phase.",
-      "gaps": "Proposal of undressing unperformed; no blanket bodily permission. His Eris-allocation account and Mitsurugi report not new direct divine choice; exact cross-source model disposition due. CURRENT WORKING31 QUALIFICATION: One actor with genuine agency; distinct from sacred shield and neutral equipment. No implied bodily permission or universal provider interchangeability; retain dishonest/harassing choices beside useful defense. Tier/model earned mechanism-rival review remains.",
-      "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+      "identity": "One autonomous speaking sacred armor,聖鎧アイギス; distinct from paired sacred shieldイージス. Chris/Eris is one counterpart with changing recognized identity.",
+      "likely_tier": "3 scoped; separate monograph and provisional three-rule reconstruction; exact publication pending",
+      "priority": "Cohort26 evidence and diagnostic receiving complete; exact containing publication pending.",
+      "evidence_distribution": "MAIN08 C1/C2/C3/C4/C5/Ep1 and MAIN14 C1/C3/I13/C4 own actions plus qualified MAIN17 accepted C3 Eris report.28complete known windows,1427BASE slots/11members/3objects; not new whole-source or independent reading.",
+      "substantive_responsibility": "Conditional service choices,control-sensitive alarm/bargaining/exit,attention costs and selective performed affiliation have differentiated rivals/falsifiers. Real protection coexists with refusal,deception and repeated intrusive conduct. Body-fragment exchange,reported waxing and chosen spectatorship supply ordinary-life evidence.",
+      "gaps": "Private motive weights,age/gender/class thresholds,unseen histories,technical limits beyond received cases,durable repair,Japanese voice transfer and final nine-category battery remain open. Six same-root informed firsts in three dependent pairs add no independent accuracy or maturity.",
+      "disposition_status": "COHORT26_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
       "independent_observation_count": null,
       "prior_gap_history_working20": "Deduplicate armor/shield and illustrated/body retellings; inspect complete relevant decision arcs and actual consequences, chronology, female-bearer biases and rival coercion/payoff accounts. Magical defense does not imply freely usable cooperative resources. Current working census adds a distinct actor without final tier or new source-reading credit.",
       "current_scope_asof_working21": "MAIN01-13 full gates closed;MAIN14 published4e66641f andall9078remote paths/43changedstreams verified;actualsourceaudit running;MAIN15-17 excluded unadmitted.",
       "prior_gap_history_working30": "Proposal of undressing unperformed; no blanket bodily permission. His Eris-allocation account and Mitsurugi report not new direct divine choice; exact cross-source model disposition due.",
       "current_scope_asof_working31": "All17 main excluded,19 supplemental and5mixed declared source programs remain closed. Current complete main analytical-derivative review is MAIN01-17 (MAIN17 received earlier out of order); receipts49-52 finishMAIN13-16. Later checkpoints/earlier prospective reconciliation/current ledger and separate supporting-register consolidation, final census/artifacts/expanded models/curation/release remain active. No new source/whole-native/ruby/image/independent-test credit from derivative receiving. Current157qualified audit rows are not final individual population; global percentage null.",
-      "cohort06_current_evidence_qualification": "Current complete MAIN13-16 analytical receiving with exact separate native scope where receipted; historical forecasts and earlier published scoped models/gates remain unchanged. Full independent-event/census closure remains open."
+      "cohort06_current_evidence_qualification": "Current complete MAIN13-16 analytical receiving with exact separate native scope where receipted; historical forecasts and earlier published scoped models/gates remain unchanged. Full independent-event/census closure remains open.",
+      "prior_cohort26_current_fields": {
+        "identity": "聖鎧アイギス; distinct from the paired 聖盾イージス",
+        "likely_tier": "2 candidate; 3 requires mechanism/rival review",
+        "priority": "Discovery; concentrated dense agency",
+        "evidence_distribution": "MAIN08 retained C1/C2/C5 identity and service-preference joins; MAIN14 own Yunyun I13 and C4 trial/party/report backjoins. MAIN14 complete C1/C3/I13 base text, own speech and native art. CURRENT WORKING31: Current complete MAIN13-MAIN16 accepted report review, receipts49-52; derivative claims retain original access planes. Targeted native confirmations are separately pinned, with no new whole-source/independent-test credit.",
+        "substantive_responsibility": "A separately speaking artifact with pain/damage aversion, selective bearer/service goals, self-directed travel, sexual harassment, bargaining and actual protective capacity. One dense source can earn a model if alternatives are identifiable; artifact body is not a reason to deny agency. CURRENT WORKING21: Own free-plan vetoes, deception admitted after factual correction and actual Darkness/Aqua kicks; Yunyun refuses trial cheating. Armor's own preferences/availability are real provider constraints. CURRENT WORKING31: MAIN14 autonomous preferences, duty refusal, selective rescue proposal, misleading fitting pretext, real defense, outward-cast block, inability to drink and finite offensive contribution determine team choices. Yunyun reported alternating attack/protected rest solves a bounded overnight phase.",
+        "gaps": "Proposal of undressing unperformed; no blanket bodily permission. His Eris-allocation account and Mitsurugi report not new direct divine choice; exact cross-source model disposition due. CURRENT WORKING31 QUALIFICATION: One actor with genuine agency; distinct from sacred shield and neutral equipment. No implied bodily permission or universal provider interchangeability; retain dishonest/harassing choices beside useful defense. Tier/model earned mechanism-rival review remains.",
+        "disposition_status": "WORKING_REVIEW_NOT_FINAL_PROMOTION",
+        "source_access_type": null
+      },
+      "source_access_type": "Direct acts,self-report,other-character report,narrator inference and unperformed proposals are separately indexed. Kazuma owns milk inability/sun-heating statements; wearing,consent,allocation and outcome are not collapsed.",
+      "cohort26_artifacts": [
+        "series/konosuba/05 Specialist Synthesis/KONOSUBA_AIGIS_CHARACTER_MONOGRAPH.md",
+        "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_AIGIS_RECONSTRUCTION_MODEL.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_AIGIS_NATIVE_PROVENANCE.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/AIGIS_EXPANDED_V1_EVIDENCE/AIGIS_SCENARIO_INPUTS_01.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/AIGIS_EXPANDED_V1_EVIDENCE/AIGIS_FIRST_OUTPUTS_01.json",
+        "series/konosuba/06 Character Modeling and Reconstruction/AIGIS_EXPANDED_V1_EVIDENCE/AIGIS_FIRST_OUTPUT_ANNOTATIONS_01.json"
+      ],
+      "cohort26_twelve_dimension_audit": {
+        "identity": "One autonomous speaking sacred armor,distinct from paired shield. Chris/Eris is one counterpart with time-dependent recognition.",
+        "distribution": "Direct choices across MAIN08/14 plus qualified MAIN17 Eris report.1427knownBASE/11members/3objects include blanks and other actors,not independent samples.",
+        "goals": "Preferred wearer/access,leisure/body upkeep,freedom from imposed service,pain/scratch aversion and desired affiliation have conditional priorities; intrinsic divine mission is refused.",
+        "decisions": "Alarm,bargaining,physical exit,net capture,viewing truces,conditional wearing offers and protection vary with leverage,attention and counterpart knowledge.",
+        "affect": "Boasting,panic,irritation,admiration,deference and renewed provocation are observed transitions; private weights and clinical labels are unsupported.",
+        "competence": "Mobility,failedBind/Freeze and deflectedLightning coexist with restraint,heat,caster-enclosure and offense limits. Universal immunity,automatic healing and body value remain broader claims.",
+        "relationships": "Kazuma self-electedbrotherhood; unrecognizedChris versus recognizedEris; Yunyun conditionalaffiliation; Nerimaki transaction; Mitsurugi reportedcustody; Iris reportedlaterwearing. Useful protection is not permission.",
+        "ordinary_life": "Reported daily waxing,body-fragment payment,unwanted scraping,milk ordered and offered to Kazuma,watching/travel and ostentatious giving. Kazuma says armor cannot drink; no failed drinking trial was watched. No invented food taste,sleep physiology or unlimited wealth.",
+        "voice": "Printed俺/あたい shifts,boasts,genre language,pleading,address and deference. No actor/acoustic claim; local Japanese-form dependence remains qualified.",
+        "comedy": "Actual harm,heat,failed cooling,harassment and mistaken affiliation survive comic framing. H3 means local gag contingency rather than source uncertainty.",
+        "seriousness": "Eris shielding and Yunyun rest protection are bounded service; no universal rescue,ethical reform or repaired coercion. Some care bids remain unperformed offers.",
+        "rivals_limits_falsifiers": "Pure lust,obedient equipment,blanket pain avoidance,unerring cleverness and harmless banter imply different expectations from this conditional history. The separate current three-rule model provides eight fields and falsifiers; motive weights,transfer and maturity remain open."
+      },
+      "cohort26_rules": [
+        "AG-R01",
+        "AG-R02",
+        "AG-R03"
+      ],
+      "cohort26_semantic_receiving_sha256": "86aceb7f08c2aee93b39a0b8430c07073eaba541115c40c8c20e8f3ddb2061d2",
+      "cohort26_current_qualifications": "Current received scope governs; historical earlier shorthand remains in prior fields. The fishing actor is another reported villager; initial elder question tentative; MAIN17 accepted C3 overrides retained transport C4 label. Six original firsts/receipts remain exact,all cases source-known and same-root authored/assessed."
     },
     {
       "character": "Zel / Emperor Zel",
@@ -6611,9 +6652,230 @@
         "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_COHORT25_PUBLICATION_GATE_CLOSE.json",
         "gate_sha256": "957dc5b94088018397a8ffdd6399ddcc517ede52a2ea1e6cce4cd8b997c5250e"
       }
+    },
+    {
+      "character": "Unnamed first MissEriscontest announcer",
+      "identity": "One stage role through MAIN08C5;name,age,employer,religious membership and wider joins unprovided.",
+      "likely_tier": "1 scoped compact profile in existing coverage audit; exact publication pending",
+      "priority": "Cohort26 evidence-proportional role receiving;exact containing publication pending.",
+      "evidence_distribution": "MAIN08C5P82–116,P154–205,P207–239,P332–384,P410–411",
+      "substantive_responsibility": "Own introduction/interview choices,continued hosting,changed deference and attempted crowd regulation; not general command.",
+      "gaps": "Ordinary life/private motives unknown. Generic host role and immediate audience incentives remain strong rivals.",
+      "disposition_status": "COHORT26_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort26_evidence_index": "series/konosuba/08 Evidence and Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md",
+      "cohort26_evidence_ids": [
+        "AG26-30"
+      ],
+      "cohort26_compact_profile": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort26-contest-host-and-flower-giving-sisters",
+      "source_identity_or_report_not_population_proof": true,
+      "cohort26_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_AIGIS_NATIVE_PROVENANCE.json"
+      ],
+      "cohort26_semantic_receiving_sha256": "86aceb7f08c2aee93b39a0b8430c07073eaba541115c40c8c20e8f3ddb2061d2",
+      "cohort26_twelve_dimension_audit": {
+        "identity": "One traced stage role; name,employer,church membership and wider joins unprovided.",
+        "distribution": "MAIN08C5 repeated own speeches and operations,Vanir surprise,Eris entry and uncontrolled crowd.",
+        "goals": "Stated honor at selection,entertaining contest and restoring proceedings; no full private motive.",
+        "decisions": "Introduces/interviews,recovers after disguise,requests an end to refuse throwing,accepts surprise entry and attempts stage-boundary compliance.",
+        "affect": "Enthusiasm,sexualized appraisal,shock,stammering and deference vary by situation.",
+        "competence": "Sustains sequence and changes register but cannot secure crowd obedience; microphone access is not general control.",
+        "relationships": "Contestants/crowd and special noble/goddess deference; no close private relationship evidence.",
+        "ordinary_life": "Occupational performance only; leisure,finances and career history unknown.",
+        "voice": "Public announcements and polite interviews shift to hesitation,honorifics and apologetic questions beforeEris; printed pragmatics only.",
+        "comedy": "Vanir disguise and wrongly aimed rubbish are not the announcer deliberate fraud or universal incompetence.",
+        "seriousness": "Requests crowd not throw and not mount stage; intentions do not equal successful control.",
+        "rivals_limits_falsifiers": "Generic event-host script and immediate incentives suffice. No standalone model or stable global psychology."
+      }
+    },
+    {
+      "character": "Unnamed elder flower-giving sister",
+      "identity": "Elder gift-giver in MAIN08Ep1;initial questioner tentatively identified as elder. No exact age,name or wider family join.",
+      "likely_tier": "1 scoped compact profile in existing coverage audit; exact publication pending",
+      "priority": "Cohort26 evidence-proportional role receiving;exact containing publication pending.",
+      "evidence_distribution": "MAIN08Ep1P84–133",
+      "substantive_responsibility": "Tentatively attributed initial question challenges a reported stereotype; later explicitly elder gift transfers her own flower while younger offering remains. Shared purchase/gratitude are reports.",
+      "gaps": "Do not assign every unattributed line,prove divine recognition,or infer completed checkout/altar delivery or stable self-sacrifice.",
+      "disposition_status": "COHORT26_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort26_evidence_index": "series/konosuba/08 Evidence and Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md",
+      "cohort26_evidence_ids": [
+        "AG26-33"
+      ],
+      "cohort26_compact_profile": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort26-contest-host-and-flower-giving-sisters",
+      "source_identity_or_report_not_population_proof": true,
+      "cohort26_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_AIGIS_NATIVE_PROVENANCE.json"
+      ],
+      "cohort26_semantic_receiving_sha256": "86aceb7f08c2aee93b39a0b8430c07073eaba541115c40c8c20e8f3ddb2061d2",
+      "cohort26_twelve_dimension_audit": {
+        "identity": "Narrator identifies elder sister; name,exact age and wider joins unknown.",
+        "distribution": "MAIN08Ep1P84–135 one dense encounter with Chris and younger sister.",
+        "goals": "Initial questioner is tentatively elder and questions a reported adventurer stereotype; later elder gives her own flower while another remains for offering. Gratitude motives are stated.",
+        "decisions": "Initial questioner is tentatively elder in Kazuma narration; later elder gift is explicit through reference to younger offering. Younger owns the explicitly attributed resemblance remark. Finite gift does not establish broad temperament.",
+        "affect": "Curiosity,thanks and cheerful departure here; broad temperament or diagnosis unsupported.",
+        "competence": "Ordinary questioning/resource allocation only; no magical/adventuring skill inferred.",
+        "relationships": "Observed sister coordination and apparent-stranger exchange; parental views are reports.",
+        "ordinary_life": "Girls report pooled allowance and purchase; price,checkout and altar delivery unobserved.",
+        "voice": "Direct questions and thanks in context; no broad voice generator.",
+        "comedy": "Boy-address joke does not prove deliberate deception or recognized divinity.",
+        "seriousness": "Stated gratitude and a finite performed gift matter without proof of all private motives,a general virtue or repair.",
+        "rivals_limits_falsifiers": "Generic gratitude/family teaching suffice; no Tier2 or3 claim."
+      }
+    },
+    {
+      "character": "Unnamed younger flower-giving sister",
+      "identity": "Younger sister explicitly identified at resemblance remark in same encounter;name,exact age and wider joins open.",
+      "likely_tier": "1 scoped compact profile in existing coverage audit; exact publication pending",
+      "priority": "Cohort26 evidence-proportional role receiving;exact containing publication pending.",
+      "evidence_distribution": "MAIN08Ep1P84–133",
+      "substantive_responsibility": "Observed separate body,apology/thanks participation and resemblance remark;her flower is returned after falling.",
+      "gaps": "Not a second independent event. No magical recognition or observed altar delivery;elder owns the clear separate gift transfer.",
+      "disposition_status": "COHORT26_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort26_evidence_index": "series/konosuba/08 Evidence and Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md",
+      "cohort26_evidence_ids": [
+        "AG26-33"
+      ],
+      "cohort26_compact_profile": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort26-contest-host-and-flower-giving-sisters",
+      "source_identity_or_report_not_population_proof": true,
+      "cohort26_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_AIGIS_NATIVE_PROVENANCE.json"
+      ],
+      "cohort26_semantic_receiving_sha256": "86aceb7f08c2aee93b39a0b8430c07073eaba541115c40c8c20e8f3ddb2061d2",
+      "cohort26_twelve_dimension_audit": {
+        "identity": "Explicitly identified at resemblance remark; name,exact age and unattributed speech remain qualified.",
+        "distribution": "Same MAIN08Ep1P84–135 encounter,not another independent event.",
+        "goals": "Reported offering/support forEris; hidden Chris identity not established as known.",
+        "decisions": "Participates in thanks and notices hair/eye resemblance; not every unattributed utterance is assigned.",
+        "affect": "Apology,interest and cheerful thanks here,not whole-person temperament.",
+        "competence": "Ordinary observation/exchange only; no magical recognition proven.",
+        "relationships": "Observed elder/younger pair; parents not joined named families.",
+        "ordinary_life": "Shared allowance purchase reported; younger offering remains after elder gift,no watched altar delivery.",
+        "voice": "Direct apology/thanks,without a broad speech model.",
+        "comedy": "Paired boy-address joke does not erase gratitude.",
+        "seriousness": "Finite shared-resource gratitude without invented lifelong values.",
+        "rivals_limits_falsifiers": "Conventional gratitude and learned family beliefs suffice. No standalone model or certain attribution for every line."
+      }
+    },
+    {
+      "character": "Sonia / ソニア,first MissEriscontest participant",
+      "identity": "Named by announcer;no full identity,age or other Sonia join established.",
+      "likely_tier": "0 source-bound indexed occurrence;identity/population nonfinal",
+      "priority": "Cohort26 evidence-proportional role receiving;exact containing publication pending.",
+      "evidence_distribution": "MAIN08C5P154",
+      "substantive_responsibility": "Source-bound named participant useful for retrieval.",
+      "gaps": "No received own speech,occupation,private motive or generator;not automatically new unique person.",
+      "disposition_status": "COHORT26_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort26_evidence_index": "series/konosuba/08 Evidence and Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md",
+      "cohort26_evidence_ids": [
+        "AG26-31"
+      ],
+      "cohort26_compact_profile": null,
+      "source_identity_or_report_not_population_proof": true,
+      "cohort26_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_AIGIS_NATIVE_PROVENANCE.json"
+      ],
+      "cohort26_semantic_receiving_sha256": "86aceb7f08c2aee93b39a0b8430c07073eaba541115c40c8c20e8f3ddb2061d2"
+    },
+    {
+      "character": "Unnamed contest event staff",
+      "identity": "Source-bound staff role at public contest;number and join to stage host unprovided.",
+      "likely_tier": "0 source-bound indexed occurrence;identity/population nonfinal",
+      "priority": "Cohort26 evidence-proportional role receiving;exact containing publication pending.",
+      "evidence_distribution": "MAIN08C5P332",
+      "substantive_responsibility": "Narrated restraint and escort of Darkness during disorder.",
+      "gaps": "No named staff identity,global personality,gender or final individual count.",
+      "disposition_status": "COHORT26_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort26_evidence_index": "series/konosuba/08 Evidence and Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md",
+      "cohort26_evidence_ids": [
+        "AG26-32"
+      ],
+      "cohort26_compact_profile": null,
+      "source_identity_or_report_not_population_proof": true,
+      "cohort26_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_AIGIS_NATIVE_PROVENANCE.json"
+      ],
+      "cohort26_semantic_receiving_sha256": "86aceb7f08c2aee93b39a0b8430c07073eaba541115c40c8c20e8f3ddb2061d2"
+    },
+    {
+      "character": "Flower sisters reported father/mother roles",
+      "identity": "Two reported parental roles in the flower encounter;no watched parental bodies/actions or wider named family join.",
+      "likely_tier": "0 source-bound indexed occurrence;identity/population nonfinal",
+      "priority": "Cohort26 evidence-proportional role receiving;exact containing publication pending.",
+      "evidence_distribution": "MAIN08Ep1P98,P112–113",
+      "substantive_responsibility": "Father adventurer stereotype and mother explanation of Eris work are attributed statements.",
+      "gaps": "Not direct parent behavior,independent truth of all embedded beliefs,or proved two newly unique people.",
+      "disposition_status": "COHORT26_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort26_evidence_index": "series/konosuba/08 Evidence and Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md",
+      "cohort26_evidence_ids": [
+        "AG26-33"
+      ],
+      "cohort26_compact_profile": null,
+      "source_identity_or_report_not_population_proof": true,
+      "cohort26_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_AIGIS_NATIVE_PROVENANCE.json"
+      ],
+      "cohort26_semantic_receiving_sha256": "86aceb7f08c2aee93b39a0b8430c07073eaba541115c40c8c20e8f3ddb2061d2"
+    },
+    {
+      "character": "Two unnamed festival visitors / reported wedding-money account",
+      "identity": "Two observed male speakers after festival;wider identities and reported partner identity unresolved.",
+      "likely_tier": "0 source-bound indexed occurrence;identity/population nonfinal",
+      "priority": "Cohort26 evidence-proportional role receiving;exact containing publication pending.",
+      "evidence_distribution": "MAIN08Ep1P74–78",
+      "substantive_responsibility": "Ordinary conversation about seeing Eris and attributed wedding-money travel/partner permission.",
+      "gaps": "No watched spending,financial settlement,actual partner consent process or independent new-role denominator.",
+      "disposition_status": "COHORT26_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort26_evidence_index": "series/konosuba/08 Evidence and Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md",
+      "cohort26_evidence_ids": [
+        "AG26-34"
+      ],
+      "cohort26_compact_profile": null,
+      "source_identity_or_report_not_population_proof": true,
+      "cohort26_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_AIGIS_NATIVE_PROVENANCE.json"
+      ],
+      "cohort26_semantic_receiving_sha256": "86aceb7f08c2aee93b39a0b8430c07073eaba541115c40c8c20e8f3ddb2061d2"
+    },
+    {
+      "character": "Reported Crimson lake-freezing/fishing actor",
+      "identity": "Aigis report of another unnamed villager;gender,number beyond reported role and wider join unresolved.",
+      "likely_tier": "0 source-bound indexed occurrence;identity/population nonfinal",
+      "priority": "Cohort26 evidence-proportional role receiving;exact containing publication pending.",
+      "evidence_distribution": "MAIN14I13P43",
+      "substantive_responsibility": "Reported out-of-season fishing after magically freezing lake provides source-bound role and comparison.",
+      "gaps": "No watched performance,no Aigis own hobby,identity or general ability/personality profile.",
+      "disposition_status": "COHORT26_SEMANTIC_RECEIVED_EXACT_PUBLICATION_PENDING",
+      "independent_observation_count": null,
+      "cohort26_evidence_index": "series/konosuba/08 Evidence and Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md",
+      "cohort26_evidence_ids": [
+        "AG26-35"
+      ],
+      "cohort26_compact_profile": null,
+      "source_identity_or_report_not_population_proof": true,
+      "cohort26_artifacts": [
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md",
+        "series/konosuba/08 Evidence and Indexes/KONOSUBA_AIGIS_NATIVE_PROVENANCE.json"
+      ],
+      "cohort26_semantic_receiving_sha256": "86aceb7f08c2aee93b39a0b8430c07073eaba541115c40c8c20e8f3ddb2061d2"
     }
   ],
-  "working_row_count_not_population_denominator": 223,
+  "working_row_count_not_population_denominator": 231,
   "global_census_closed": false,
   "final_tiers_assigned": false,
   "global_completion_percentage": null,
@@ -6645,7 +6907,7 @@
     "Cohort23 Yuiyui/Pucchin conditional Tier3 candidates and Hyoizaburoo Tier2 monograph-only; fourteen bounded new discovery records retain source-plane/identity gaps and candidate profile review where due. Semantic receiving complete, exact publication pending.",
     "Cohort24 Chekera Tier2 monograph-only and six compact Tier1 profiles in existing coverage audit; ten new indexed incidental dispositions and one deferred Arcanretia manager review remain source-bound/nonfinal. No model or matched synthetic quota; semantic receiving complete, exact publication pending."
   ],
-  "current_actual_individual_audit_scope": "Cohort25:35complete known-source windows,2122knownBASE/19text members/9objects; no new whole-source/ruby/residual/image-set/admission or independent pass. Publication status changes three entering rows and four new source-bound records,216others exact. Earlier cores/firsts,four scores and prospective missingness preserved. Full program active.",
+  "current_actual_individual_audit_scope": "Cohort26:28complete actually received known-source windows bind1427BASE slots/11members/3native text objects. No new whole-source,ruby,residual,image-set,admission or independent credit. One entering row changes,222others exact; eight new source-bound records are not eight proved unique people. Six same-root original informed responses form three dependent pairs,not independent source tests.",
   "historical_integrity": "MG02-I01/I02 through MG05, original blank fields, CP outcomes, letters-as-NT and preYORI04SEC01 scope remain unchanged. New source-known comparisons are retrospective; hypotheticals are not source validation.",
   "current_receipt_pins": [
     {
@@ -8521,7 +8783,7 @@
     "updated_utc": "2026-10-20T17:44:03.663249+00:00",
     "scope": "Cohorts01-18 have closed exact-source gates at declared scopes: twenty-one scoped secondary conditional-model subjects/27model bodies,fifteen bounded profiles and four Tier2monograph-only Nos,Rionor,Feit,Chomusuke.187qualifiedrecords include groups,aliases and occurrence slots,not final unique people. Reliability remains provisional; full census/final tiers/program open."
   },
-  "canonical_status": "Cohort25 full exact-source publication gate and fresh authority reload closed. Sylvia Tier2 monograph and three consolidated Tier1 profiles; all33models unchanged,no new firsts or independent accuracy/confidence gain.",
+  "canonical_status": "Aigis scoped Tier3 monograph and separate provisional generator; three consolidated Tier1 contest/flower profiles and five source-bound Tier0 leads. Exact publication pending; all33entering models and earlier histories preserved.",
   "cohort19_current_receiving": {
     "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
     "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_REX_SOPHIE_TERRY_COHORT_19_RECEIVING_AND_PROVENANCE.json",
@@ -9242,5 +9504,52 @@
     "no_independent_accuracy_or_confidence_gain": true,
     "separate_housekeeping_run": null,
     "certification_policy": "Current exact-head success when routing is materialized; no invented separate housekeeping or dispatch execution."
+  },
+  "prior_current_metadata_before_cohort26": {
+    "scope": "Cohorts01-25 and focused qualifications have closed exact-source gates at declared scopes.33models/27scoped secondary subjects,30profiles,ten monograph-only subjects and223nonfinal records; full census/tiers/program open.",
+    "canonical_status": "Cohort25 full exact-source publication gate and fresh authority reload closed. Sylvia Tier2 monograph and three consolidated Tier1 profiles; all33models unchanged,no new firsts or independent accuracy/confidence gain.",
+    "current_actual_individual_audit_scope": "Cohort25:35complete known-source windows,2122knownBASE/19text members/9objects; no new whole-source/ruby/residual/image-set/admission or independent pass. Publication status changes three entering rows and four new source-bound records,216others exact. Earlier cores/firsts,four scores and prospective missingness preserved. Full program active.",
+    "updated_utc": "2026-10-23T20:45:09.778022+00:00",
+    "working_row_count_not_population_denominator": 223
+  },
+  "cohort26_current_receiving": {
+    "status": "SEMANTIC_RECEIVING_COMPLETE_EXACT_PUBLICATION_PENDING",
+    "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_AIGIS_COHORT_26_RECEIVING_AND_PROVENANCE.json",
+    "semantic_receiving_sha256": "86aceb7f08c2aee93b39a0b8430c07073eaba541115c40c8c20e8f3ddb2061d2",
+    "candidate_models": 34,
+    "candidate_scoped_secondary_model_subjects": 28,
+    "bounded_profiles": 33,
+    "monograph_only_subjects": [
+      "Nos",
+      "Rionor",
+      "Feit",
+      "Chomusuke",
+      "Funifura",
+      "Dodonko",
+      "Arue",
+      "Hyoizaburoo",
+      "Chekera",
+      "Sylvia"
+    ],
+    "records_not_final_people": 231,
+    "changed_current_rows": [
+      58
+    ],
+    "untouched_entering_rows": 222,
+    "new_rows": [
+      223,
+      224,
+      225,
+      226,
+      227,
+      228,
+      229,
+      230
+    ],
+    "new_Tier0_records": 5,
+    "new_compact_profiles": 3,
+    "new_first_bodies": 6,
+    "new_dependent_pairs": 3,
+    "new_rules": 3
   }
 }

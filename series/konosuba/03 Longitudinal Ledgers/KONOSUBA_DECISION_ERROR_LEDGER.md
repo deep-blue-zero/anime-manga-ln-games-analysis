@@ -1954,3 +1954,10 @@ Exact locators and access: [cohort24 index](../08%20Evidence%20and%20Indexes/KON
 Sylvia uses communication failure and apparent weapon/name evidence,then revises a mistaken identity after new performance evidence. Repeated village feints also contribute to underestimating a real threat; learning is not uniformly corrective. Trusting a disarmed captive exposes her to confinement. Chief letter convention imposes an information cost; crisis retreat supplies contrary evidence to pure spectacle. Machine target classification is not proof actual cheat ability,and MAIN15 diary-reported interference competes with a factory-original-only explanation.
 
 Exact locators and access: [cohort25 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX.md). This source-known scope adds no new whole-source,ruby,residual,image-set,admission or independent validation credit. Earlier models,first bodies,scores and prospective missingness remain unchanged. Canonical receiving/publication is pending for this candidate; the full KonoSuba program continues.
+
+
+## Cohort26 — Aigis, the contest announcer and flower-giving sisters
+
+Aigis responds to changing leverage yet accepts a contest lure, becomes distracted, misreads identities and admits a false undressing pretext after factual correction. Its initial failure to leave the Eris enclosure scene cannot independently prove loyalty: Kazuma conjectures that Eris resists inside. A declared mission does not automatically outweigh bodily cost or preferred service. Conditional tactics do not imply general planning success, and an imagined first mage synergy fails at actual deployment (AG26-06–18,22–25).
+
+Locators and source planes: [Aigis cohort26 index](../08%20Evidence%20and%20Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md). The source-known scope adds no blind-source accuracy, independent confidence gain or evaluator grade. Exact containing publication is pending at authorship.

@@ -1491,3 +1491,10 @@ Exact locators and access: [cohort24 index](../08%20Evidence%20and%20Indexes/KON
 Yunyun future-chief identity,qualification and announced return do not transfer current father office or prove his approval. Aigis provocative insinuation does not establish daughter assent. Sylvia selective interest and release offer coexist with renewed control,hostage threat and group retaliation. Moguninnin's conditional Crimson restriction is an observed functional limit,not an ethical commitment. Courier protective initiative has duty/fear rivals; no general loyalty or affection grade follows.
 
 Exact locators and access: [cohort25 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX.md). This source-known scope adds no new whole-source,ruby,residual,image-set,admission or independent validation credit. Earlier models,first bodies,scores and prospective missingness remain unchanged. Canonical receiving/publication is pending for this candidate; the full KonoSuba program continues.
+
+
+## Cohort26 — Aigis, the contest announcer and flower-giving sisters
+
+Self-elected brotherhood and briefly claimed best friendship do not establish durable mutual obligation. Aigis provides actual protection while repeating conduct Yunyun objects to; service, gratitude, attraction, permission and repair remain distinct. Its first desired-Eris reaction precedes Kazuma explicit Chris/Eris linkage. Mitsurugi custody and later Iris wearing are attributed reports rather than a watched allocation/consent process. The sister pair has observed coordination, not an identified family joined elsewhere. The modern diagnostic analogue preserves local title restraint without inventing forgiveness (AG26-16,19–29,33).
+
+Locators and source planes: [Aigis cohort26 index](../08%20Evidence%20and%20Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md). The source-known scope adds no blind-source accuracy, independent confidence gain or evaluator grade. Exact containing publication is pending at authorship.
