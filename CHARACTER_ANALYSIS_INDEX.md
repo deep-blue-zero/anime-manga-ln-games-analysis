@@ -815,15 +815,17 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Analysis subject ID: `re-zero:beatrice@light-novel`
 - Series: `re-zero`
 - Continuity: `re-zero-main-light-novels`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `reviewed-bounded-analysis`: LIGHT_NOVEL VOLUME: Reviewed V02–V03 estate-story analysis in the original Japanese main light novels, with V01 retained only as explicitly labeled predecessor context. Preserve each event-state, recollection and knower boundary; the active endpoint is V03-E1 at the first fifth-day morning. This is one continuity with historically distinct states, not a fusion of mutually remembered timelines. No V04 or later, web-novel, IF/alternate-route, supplemental or adaptation coverage is claimed; no formal arc ID is asserted.; continuity `re-zero-main-light-novels`
+  - `character-model`: LIGHT_NOVEL VOLUME: Dedicated source-bounded model of Beatrice across the original Japanese main light novels V01–V15 (first encountered in V02), defaulting to living E018 at the month-later party. Historical Meyer testimony and Beatrice-owned memory remain separately attributed. No V16 or later, web-novel, IF, supplement or adaptation coverage is claimed.; continuity `re-zero-main-light-novels`
+  - `reviewed-bounded-analysis`: LIGHT_NOVEL VOLUME: Reviewed V02–V03 estate-story analysis in the original Japanese main light novels, with V01 retained only as explicitly labeled predecessor context. Preserve each event-state, recollection and knower boundary; the active endpoint is V03-E1 at the first fifth-day morning. This is one continuity with historically distinct states, not a fusion of mutually remembered timelines. This entry claims no V04 or later, web-novel, IF/alternate-route, supplemental or adaptation coverage is claimed; no formal arc ID is asserted.; continuity `re-zero-main-light-novels`
 - Reviewed current evidence:
+  - [`character-model` — Beatrice: V01–V15 source-bounded character model](series/re-zero/05%20Character%20Analysis/REZERO_BEATRICE_V01_V15_CHARACTER_MODEL.md)
   - [`estate-story-checkpoint` — V02–V03 estate-story character and relationship synthesis](series/re-zero/02%20Sequential%20Readings/REZERO_ARC_ESTATE_STORY_CHECKPOINT.md)
-  - [`master-longitudinal-ledger` — Current character, information and relationship states through V03](series/re-zero/04%20Longitudinal%20Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md)
+  - [`master-longitudinal-ledger` — Cumulative character, information and relationship states (cited here for V02–V03)](series/re-zero/04%20Longitudinal%20Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md)
 
 ### Benno
 
@@ -1215,6 +1217,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`kss10-object-perspective` — KSS-10: territorial rivalry, care and reluctant accommodation](series/shuukura/03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_10_DEEP_READING.md) — **active provisional authority**
 
+### Crusch Karsten
+
+- Entity ID: `re-zero:crusch-karsten`
+- Entity aliases:
+  - クルシュ・カルステン (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Re:Zero main light novel
+
+- Analysis subject ID: `re-zero:crusch-karsten@light-novel`
+- Series: `re-zero`
+- Continuity: `re-zero-main-light-novels`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `character-model`: LIGHT_NOVEL VOLUME: Dedicated source-bounded model of Crusch across the original Japanese main light novels V01–V16, reconciling passages in V04, V05, V06, V07, V09 and V16. Default is memoryless Crusch at the V16 breakfast and candidate opposition; her E019 location and conduct are unobserved. No later-volume, web-novel, IF, supplement or adaptation coverage is claimed.; continuity `re-zero-main-light-novels`
+- Reviewed current evidence:
+  - [`character-model` — Crusch Karsten: V01–V16 source-bounded character model](series/re-zero/05%20Character%20Analysis/REZERO_CRUSCH_KARSTEN_V01_V16_CHARACTER_MODEL.md)
+
 ### Dabi
 
 - Entity ID: `my-hero-academia:todoroki-toya`
@@ -1413,15 +1435,17 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Analysis subject ID: `re-zero:emilia@light-novel`
 - Series: `re-zero`
 - Continuity: `re-zero-main-light-novels`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `reviewed-bounded-analysis`: LIGHT_NOVEL VOLUME: Reviewed V02–V03 estate-story analysis in the original Japanese main light novels, with V01 retained only as explicitly labeled predecessor context. Preserve each event-state, recollection and knower boundary; the active endpoint is V03-E1 at the first fifth-day morning. This is one continuity with historically distinct states, not a fusion of mutually remembered timelines. No V04 or later, web-novel, IF/alternate-route, supplemental or adaptation coverage is claimed; no formal arc ID is asserted.; continuity `re-zero-main-light-novels`
+  - `character-model`: LIGHT_NOVEL VOLUME: Dedicated source-bounded model of Emilia across the original Japanese main light novels V01–V14, defaulting to living E018 at the start of the second trial. Recovered childhood memory is her own, not Subaru's knowledge. No V15 or later, web-novel, IF, supplement or adaptation coverage is claimed.; continuity `re-zero-main-light-novels`
+  - `reviewed-bounded-analysis`: LIGHT_NOVEL VOLUME: Reviewed V02–V03 estate-story analysis in the original Japanese main light novels, with V01 retained only as explicitly labeled predecessor context. Preserve each event-state, recollection and knower boundary; the active endpoint is V03-E1 at the first fifth-day morning. This is one continuity with historically distinct states, not a fusion of mutually remembered timelines. This entry claims no V04 or later, web-novel, IF/alternate-route, supplemental or adaptation coverage is claimed; no formal arc ID is asserted.; continuity `re-zero-main-light-novels`
 - Reviewed current evidence:
+  - [`character-model` — Emilia: V01–V14 source-bounded character model](series/re-zero/05%20Character%20Analysis/REZERO_EMILIA_V01_V14_CHARACTER_MODEL.md)
   - [`estate-story-checkpoint` — V02–V03 estate-story character and relationship synthesis](series/re-zero/02%20Sequential%20Readings/REZERO_ARC_ESTATE_STORY_CHECKPOINT.md)
-  - [`master-longitudinal-ledger` — Current character, information and relationship states through V03](series/re-zero/04%20Longitudinal%20Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md)
+  - [`master-longitudinal-ledger` — Cumulative character, information and relationship states (cited here for V02–V03)](series/re-zero/04%20Longitudinal%20Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md)
 
 ### Emu
 
@@ -1635,6 +1659,27 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`volume-1-individual-analysis` — Volume 1 bounded individual model and event-state analysis](series/re-zero/02%20Sequential%20Readings/REZERO_LN_V01_DEEP_READING.md)
 
+### Ferris
+
+- Entity ID: `re-zero:ferris`
+- Entity aliases:
+  - Felix Argyle (en, ALTERNATIVE) — Formal name used at court and given in V05; identifies the same person, not a separate personality.
+  - フェリス (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Re:Zero main light novel
+
+- Analysis subject ID: `re-zero:ferris@light-novel`
+- Series: `re-zero`
+- Continuity: `re-zero-main-light-novels`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `character-model`: LIGHT_NOVEL VOLUME: Dedicated source-bounded model of Ferris across the original Japanese main light novels V01–V16, revisiting already-consumed V04–V10, V12 and V16 deliveries; the horizon label does not assert an appearance in every volume. Default is the V16 breakfast aftermath with memoryless Crusch; his E019 conduct is unobserved. No later-volume, web-novel, IF, supplement or adaptation coverage is claimed.; continuity `re-zero-main-light-novels`
+- Reviewed current evidence:
+  - [`character-model` — Ferris / Felix Argyle: V01–V16 source-bounded character model](series/re-zero/05%20Character%20Analysis/REZERO_FERRIS_FELIX_ARGYLE_V01_V16_CHARACTER_MODEL.md)
+
 ### Fido
 
 - Entity ID: `86-eighty-six:fido`
@@ -1817,6 +1862,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `gagari-mimi-reviewed-corpus`: MANGA VOLUME: Canonical character monograph over the Japanese manga through Volume 9 plus the admitted supplemental and side-story corpus stated by the artifact.; continuity `kimishinu-manga`
 - Reviewed current evidence:
   - [`kimishinu-mimi-character-monograph` — KIMISHINU MIMI CHARACTER MONOGRAPH](series/kimishinu/04%20Specialist%20Synthesis/KIMISHINU_MIMI_CHARACTER_MONOGRAPH.md)
+
+### Garfiel Tinsel
+
+- Entity ID: `re-zero:garfiel-tinsel`
+- Entity aliases:
+  - ガーフィール・ティンゼル (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Re:Zero main light novel
+
+- Analysis subject ID: `re-zero:garfiel-tinsel@light-novel`
+- Series: `re-zero`
+- Continuity: `re-zero-main-light-novels`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `character-model`: LIGHT_NOVEL VOLUME: Dedicated source-bounded model of Garfiel across the original Japanese main light novels V10–V15, defaulting to living E018 at the month-later party. Trial-represented childhood is separately attributed, and the model's Frederica/Garfiel source-identity correction binds use. No earlier-volume horizon, V16 or later, web-novel, IF, supplement or adaptation coverage is claimed.; continuity `re-zero-main-light-novels`
+- Reviewed current evidence:
+  - [`character-model` — Garfiel Tinsel: V10–V15 source-bounded character model](series/re-zero/05%20Character%20Analysis/REZERO_GARFIEL_TINSEL_V10_V15_CHARACTER_MODEL.md)
 
 ### Garou
 
@@ -3077,6 +3142,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `jougasaki-rika-reviewed-corpus`: GAME OTHER: Dedicated active-provisional monograph integrating the admitted Mobage and Starlight Stage character corpus while excluding adaptation continuities.; continuity `the-idolmaster-cinderella-girls-mobile-games`
 - Reviewed current evidence:
   - [`cinderella-girls-jougasaki-rika-character-monograph` — CINDERELLA GIRLS JOUGASAKI RIKA CHARACTER MONOGRAPH](series/the-idolmaster-cinderella-girls-mobile-games/04%20Specialist%20Synthesis/CINDERELLA_GIRLS_JOUGASAKI_RIKA_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
+### Julius Juukulius
+
+- Entity ID: `re-zero:julius-juukulius`
+- Entity aliases:
+  - ユリウス・ユークリウス (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Re:Zero main light novel
+
+- Analysis subject ID: `re-zero:julius-juukulius@light-novel`
+- Series: `re-zero`
+- Continuity: `re-zero-main-light-novels`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `character-model`: LIGHT_NOVEL VOLUME: Dedicated source-bounded model of Julius across the original Japanese main light novels V01–V16, with load-bearing evidence from V04 encounters reconciled through V07–V09 and V16. Default is his last personally observed V16 garden conversation; the discarded square retained only by Subaru is not his memory. No exhaustive childhood or family history and no later-volume, web-novel, IF, supplement or adaptation coverage is claimed.; continuity `re-zero-main-light-novels`
+- Reviewed current evidence:
+  - [`character-model` — Julius Juukulius: V01–V16 source-bounded character model](series/re-zero/05%20Character%20Analysis/REZERO_JULIUS_JUUKULIUS_V01_V16_CHARACTER_MODEL.md)
 
 ### Jūō Sena
 
@@ -5417,6 +5502,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`reviewed-v02` — Otto analysis in V02 frozen deep reading](series/ascendance-of-a-bookworm/02%20Sequential%20Readings/BOOKWORM_V02_DEEP_READING.md)
   - [`reviewed-v03` — Otto analysis in V03 frozen deep reading](series/ascendance-of-a-bookworm/02%20Sequential%20Readings/BOOKWORM_V03_DEEP_READING.md)
 
+### Otto Suwen
+
+- Entity ID: `re-zero:otto-suwen`
+- Entity aliases:
+  - オットー・スーウェン (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Re:Zero main light novel
+
+- Analysis subject ID: `re-zero:otto-suwen@light-novel`
+- Series: `re-zero`
+- Continuity: `re-zero-main-light-novels`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `character-model`: LIGHT_NOVEL VOLUME: Dedicated source-bounded model of Otto across the original Japanese main light novels V01–V13; material Otto evidence begins in V05 and no scene is supplied for volumes where he is absent. Default is living E018 outside the tomb. His own rescue and childhood are distinct from the E015 friendship and death retained only by Subaru. No V14 or later, web-novel, IF, supplement or adaptation coverage is claimed.; continuity `re-zero-main-light-novels`
+- Reviewed current evidence:
+  - [`character-model` — Otto Suwen: V01–V13 source-bounded character model](series/re-zero/05%20Character%20Analysis/REZERO_OTTO_SUWEN_V01_V13_CHARACTER_MODEL.md)
+
 ### Paul
 
 - Entity ID: `mushoku-tensei:paul`
@@ -5508,15 +5613,17 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Analysis subject ID: `re-zero:ram@light-novel`
 - Series: `re-zero`
 - Continuity: `re-zero-main-light-novels`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `reviewed-bounded-analysis`: LIGHT_NOVEL VOLUME: Reviewed V02–V03 estate-story analysis in the original Japanese main light novels, with V01 retained only as explicitly labeled predecessor context. Preserve each event-state, recollection and knower boundary; the active endpoint is V03-E1 at the first fifth-day morning. This is one continuity with historically distinct states, not a fusion of mutually remembered timelines. No V04 or later, web-novel, IF/alternate-route, supplemental or adaptation coverage is claimed; no formal arc ID is asserted.; continuity `re-zero-main-light-novels`
+  - `character-model`: LIGHT_NOVEL VOLUME: Dedicated source-bounded model of Ram across the original Japanese main light novels V01–V15, defaulting to living E018 beside sleeping Rem. Represented childhood remains separately attributed, and the model's unresolved chronology question binds use. No V16 or later, web-novel, IF, supplement or adaptation coverage is claimed.; continuity `re-zero-main-light-novels`
+  - `reviewed-bounded-analysis`: LIGHT_NOVEL VOLUME: Reviewed V02–V03 estate-story analysis in the original Japanese main light novels, with V01 retained only as explicitly labeled predecessor context. Preserve each event-state, recollection and knower boundary; the active endpoint is V03-E1 at the first fifth-day morning. This is one continuity with historically distinct states, not a fusion of mutually remembered timelines. This entry claims no V04 or later, web-novel, IF/alternate-route, supplemental or adaptation coverage is claimed; no formal arc ID is asserted.; continuity `re-zero-main-light-novels`
 - Reviewed current evidence:
+  - [`character-model` — Ram: V01–V15 source-bounded character model](series/re-zero/05%20Character%20Analysis/REZERO_RAM_V01_V15_CHARACTER_MODEL.md)
   - [`estate-story-checkpoint` — V02–V03 estate-story character and relationship synthesis](series/re-zero/02%20Sequential%20Readings/REZERO_ARC_ESTATE_STORY_CHECKPOINT.md)
-  - [`master-longitudinal-ledger` — Current character, information and relationship states through V03](series/re-zero/04%20Longitudinal%20Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md)
+  - [`master-longitudinal-ledger` — Cumulative character, information and relationship states (cited here for V02–V03)](series/re-zero/04%20Longitudinal%20Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md)
 
 ### Rei
 
@@ -5676,15 +5783,17 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Analysis subject ID: `re-zero:roswaal@light-novel`
 - Series: `re-zero`
 - Continuity: `re-zero-main-light-novels`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `reviewed-bounded-analysis`: LIGHT_NOVEL VOLUME: Reviewed V02–V03 estate-story analysis in the original Japanese main light novels, with V01 retained only as explicitly labeled predecessor context. Preserve each event-state, recollection and knower boundary; the active endpoint is V03-E1 at the first fifth-day morning. This is one continuity with historically distinct states, not a fusion of mutually remembered timelines. No V04 or later, web-novel, IF/alternate-route, supplemental or adaptation coverage is claimed; no formal arc ID is asserted.; continuity `re-zero-main-light-novels`
+  - `character-model`: LIGHT_NOVEL VOLUME: Dedicated source-bounded model of Roswaal across the original Japanese main light novels V01–V15, defaulting to living E018 at the month-later party. Represented historical Roswaal A and current Roswaal L are separately selected; soul continuity does not supply others' memories or consent. No V16 or later, web-novel, IF, supplement or adaptation coverage is claimed.; continuity `re-zero-main-light-novels`
+  - `reviewed-bounded-analysis`: LIGHT_NOVEL VOLUME: Reviewed V02–V03 estate-story analysis in the original Japanese main light novels, with V01 retained only as explicitly labeled predecessor context. Preserve each event-state, recollection and knower boundary; the active endpoint is V03-E1 at the first fifth-day morning. This is one continuity with historically distinct states, not a fusion of mutually remembered timelines. This entry claims no V04 or later, web-novel, IF/alternate-route, supplemental or adaptation coverage is claimed; no formal arc ID is asserted.; continuity `re-zero-main-light-novels`
 - Reviewed current evidence:
+  - [`character-model` — Roswaal L. Mathers: V01–V15 source-bounded character model](series/re-zero/05%20Character%20Analysis/REZERO_ROSWAAL_L_MATHERS_V01_V15_CHARACTER_MODEL.md)
   - [`estate-story-checkpoint` — V02–V03 estate-story character and relationship synthesis](series/re-zero/02%20Sequential%20Readings/REZERO_ARC_ESTATE_STORY_CHECKPOINT.md)
-  - [`master-longitudinal-ledger` — Current character, information and relationship states through V03](series/re-zero/04%20Longitudinal%20Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md)
+  - [`master-longitudinal-ledger` — Cumulative character, information and relationship states (cited here for V02–V03)](series/re-zero/04%20Longitudinal%20Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md)
 
 ### Rowan
 
@@ -6724,15 +6833,17 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Analysis subject ID: `re-zero:subaru@light-novel`
 - Series: `re-zero`
 - Continuity: `re-zero-main-light-novels`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `reviewed-bounded-analysis`: LIGHT_NOVEL VOLUME: Reviewed V02–V03 estate-story analysis in the original Japanese main light novels, with V01 retained only as explicitly labeled predecessor context. Preserve each event-state, recollection and knower boundary; the active endpoint is V03-E1 at the first fifth-day morning. This is one continuity with historically distinct states, not a fusion of mutually remembered timelines. No V04 or later, web-novel, IF/alternate-route, supplemental or adaptation coverage is claimed; no formal arc ID is asserted.; continuity `re-zero-main-light-novels`
+  - `character-model`: LIGHT_NOVEL VOLUME: Dedicated source-bounded model of Subaru across the original Japanese main light novels V01–V10, defaulting to the terminal V10 E013 state. Event-states, discarded-loop memories and knowers remain separate; the V10 trial's generated parents are not a received Earth conversation. No V11 or later, web-novel, IF, supplement or adaptation coverage is claimed.; continuity `re-zero-main-light-novels`
+  - `reviewed-bounded-analysis`: LIGHT_NOVEL VOLUME: Reviewed V02–V03 estate-story analysis in the original Japanese main light novels, with V01 retained only as explicitly labeled predecessor context. Preserve each event-state, recollection and knower boundary; the active endpoint is V03-E1 at the first fifth-day morning. This is one continuity with historically distinct states, not a fusion of mutually remembered timelines. This entry claims no V04 or later, web-novel, IF/alternate-route, supplemental or adaptation coverage is claimed; no formal arc ID is asserted.; continuity `re-zero-main-light-novels`
 - Reviewed current evidence:
+  - [`character-model` — Natsuki Subaru: V01–V10 source-bounded character model](series/re-zero/05%20Character%20Analysis/REZERO_NATSUKI_SUBARU_V01_V10_CHARACTER_MODEL.md)
   - [`estate-story-checkpoint` — V02–V03 estate-story character and relationship synthesis](series/re-zero/02%20Sequential%20Readings/REZERO_ARC_ESTATE_STORY_CHECKPOINT.md)
-  - [`master-longitudinal-ledger` — Current character, information and relationship states through V03](series/re-zero/04%20Longitudinal%20Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md)
+  - [`master-longitudinal-ledger` — Cumulative character, information and relationship states (cited here for V02–V03)](series/re-zero/04%20Longitudinal%20Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md)
 
 ### Sumi Sakurasawa
 
@@ -7519,6 +7630,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`claim-evidence-ledger` — Bounded individual interpretations, counterevidence and unresolved obligations](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
   - [`entity-state-ledger` — Individual identity, character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
   - [`episode-4u-arc-reading` — EPISODE.4U arc reading: personal history, member choices and incomplete repair](series/tokyo-7th-sisters/07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_4U_ARC_DEEP_READING.md)
+
+### Wilhelm van Astrea
+
+- Entity ID: `re-zero:wilhelm-van-astrea`
+- Entity aliases:
+  - ヴィルヘルム・ヴァン・アストレア (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Re:Zero main light novel
+
+- Analysis subject ID: `re-zero:wilhelm-van-astrea@light-novel`
+- Series: `re-zero`
+- Continuity: `re-zero-main-light-novels`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `character-model`: LIGHT_NOVEL VOLUME: Dedicated source-bounded model of Wilhelm across the original Japanese main light novels V01–V16, with load-bearing actual-person evidence from V04, V05, V07, V08, V09 and V16; V12 supplies only a represented-scene exclusion. Default is the V16 breakfast aftermath without reconciliation. No complete family biography or later-volume, web-novel, IF, supplement or adaptation coverage is claimed.; continuity `re-zero-main-light-novels`
+- Reviewed current evidence:
+  - [`character-model` — Wilhelm van Astrea: V01–V16 source-bounded character model](series/re-zero/05%20Character%20Analysis/REZERO_WILHELM_VAN_ASTREA_V01_V16_CHARACTER_MODEL.md)
 
 ### Woo Jinchul
 
