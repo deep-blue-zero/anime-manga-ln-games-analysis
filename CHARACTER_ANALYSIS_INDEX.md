@@ -4634,6 +4634,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`reviewed-v07-mainline` — Mai: reconsideration and a requested meeting under managerial limits](series/watayuri/02%20Sequential%20Readings/WATAYURI_V07_DEEP_READING.md#close-reading)
   - [`reviewed-v07-manager-short` — Mai: managerial work and ordinary/role-name distinction](series/watayuri/02%20Sequential%20Readings/WATAYURI_V07_DEEP_READING.md#supplements)
 
+### Mimi
+
+- Entity ID: `re-zero:mimi`
+- Entity aliases:
+  - ミミ (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Re:Zero main light novel
+
+- Analysis subject ID: `re-zero:mimi@light-novel`
+- Series: `re-zero`
+- Continuity: `re-zero-main-light-novels`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `character-model`: LIGHT_NOVEL VOLUME: Dedicated source-bounded model of Mimi across the original Japanese main light novels V01–V17, revisiting already-consumed V06–V09, V16 and V17 deliveries; the horizon label does not assert an appearance in every volume. Default is living E021, unconscious with a nonclosing chest wound; awake use requires an explicitly selected earlier phase. Her brothers Hetaro and Tibby are separate people. No V18 or later, web-novel, IF, supplement or adaptation coverage is claimed.; continuity `re-zero-main-light-novels`
+- Reviewed current evidence:
+  - [`character-model` — Mimi: V01–V17 source-bounded character model](series/re-zero/05%20Character%20Analysis/REZERO_MIMI_V01_V17_CHARACTER_MODEL.md)
+
 ### Mimimi
 
 - Entity ID: `tomozaki:mimimi`
@@ -5735,7 +5755,7 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `reviewed-bounded-analysis`: LIGHT_NOVEL VOLUME: Reviewed V02–V03 estate-story analysis in the original Japanese main light novels, with V01 retained only as explicitly labeled predecessor context. Preserve each event-state, recollection and knower boundary; the active endpoint is V03-E1 at the first fifth-day morning. This is one continuity with historically distinct states, not a fusion of mutually remembered timelines. No V04 or later, web-novel, IF/alternate-route, supplemental or adaptation coverage is claimed; no formal arc ID is asserted.; continuity `re-zero-main-light-novels`
 - Reviewed current evidence:
   - [`estate-story-checkpoint` — V02–V03 estate-story character and relationship synthesis](series/re-zero/02%20Sequential%20Readings/REZERO_ARC_ESTATE_STORY_CHECKPOINT.md)
-  - [`master-longitudinal-ledger` — Current character, information and relationship states through V03](series/re-zero/04%20Longitudinal%20Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md)
+  - [`master-longitudinal-ledger` — Cumulative character, information and relationship states (cited here for V02–V03)](series/re-zero/04%20Longitudinal%20Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md)
 
 ### Rito Oriya
 
