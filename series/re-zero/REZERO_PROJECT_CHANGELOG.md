@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: project_changelog
 scope: VERBATIM_ENTRYPOINT_AND_MASTER_HISTORY_THROUGH_V17
-generation: V1.19
+generation: V1.20
 status: canonical
 release_state: append_only_history
 supersedes: []
@@ -4585,3 +4585,418 @@ V07 §§11–12 own complete predecessor adjudication, confidence and exact sour
 ````````
 
 V17 dependency boundary: complete source-facing publication/readback/audit/housekeeping/later-native gate → Mimi V01–V17 model plus a separately actually applied scoped review and own complete gate → sealed V18 → continuous prospective work through activeV43. Exact outgoing V18 body remains15685UTF-8bytes/SHA3cb3c253cb4ea264a72b9dc376c6d40f7aec608648c5e5a2fac97a229bcbac7d. Eleven older pairs retain their own scopes/defaults/local grades; narrative continuation and this history record do not extend their fidelity.
+
+## Post-V17 Mimi model and scoped fidelity review — derived operation
+
+V17's complete exact-source gatecfad8d70e5371e86ca73611100aa3d605106a6f2 is closed (459discovered=459executed, no skips/errors/failures, trusted reporter, source-specific housekeeping no-op, later native/source/seal proof). Verified source high-waterV17 is now recorded; no repeat of that completed reading/gate is required.
+
+The [Mimi V01–V17 model](05%20Character%20Analysis/REZERO_MIMI_V01_V17_CHARACTER_MODEL.md) and [separate fidelity review](08%20Audits%20and%20Manifests/REZERO_MIMI_V01_V17_FIDELITY_REVIEW.md) implement the qualitative earned responsibility at PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY.35actual bounded Japanese revisits in V06/07/08/09/16/17 cover1289unique positions=1288TEXT/55669base characters plus one image reference; no fresh six-volume read/new view/source admission. Complete saved-model and exact correction/inverse reading supported ten grouped findings/eighteen edits, actual19dimensions/23controls/8NONCANONICAL_PROBE applications; the wholly read separate review received one temporary-support clarification. Counts are traceability, not a maturity quota or independent/runtime/global validation.
+
+Default is latest livingunconsciousE021/nonclosing chest wound/physical hemostasis/risky triplet sharing. Earlier awake coordinates, explicit own affection without proved reciprocity, sensory success with real mistakes, ordinary pleasure with intrusive conduct, sibling/patron differences, tactical refusal/broken agreement and finite rescue remain conditional. No new speech/assent/cure, exact age/parental cause/finder, shared RBD, reciprocal couple/sex or universal power is inferred. Prior42 artifacts/eleven models/reviews and all371current claims/five specialist owners/formal/reserved tails/both seals remain exact.
+
+Owner main4b8cbe4e's four maintenance-policy changes were incorporated by ordinary mergeec3cb015 with the whole Re:Zero tree preserved; no governance/tool/global curation write was authored. Eight maintained current routes receive verified targeted edits and recoverable entering preimages below. The measured master candidate1048269bytes fits the unchanged1048576-byte limit with307bytes headroom, so no additional historical snapshot rollover is performed. V17's earlier six exact relocations remain intact.
+
+Attributable current-router correction: the entering character README's “Garfiel's hurt wrist/apology” was a referent error. Admitted V17p-005#B0309–0312 names Mimi's bruised wrist and Garfiel's apology; B0344 names Mimi using her other hand. Its old wording is retained below as a historical preimage, not current evidence. This correction neither rewrites frozenV17 nor changes the371 narrative claims, which already preserve the correct subject.
+
+This pair still needs its own complete publication gate: complete staged-diff/name-reference review, final-index preflight/current-head reconciliation, approved-owner exact-path commit/nonforce push/PR, immutable full remote readback, actual all-discovered exact-head full audit/trusted reporter, applicable completed housekeeping and later native/source/protected/seal consistency proof. Those future results are not claimed here. Only then open unchanged sealedV18 (15685bytes/SHA3cb3c253cb4ea264a72b9dc376c6d40f7aec608648c5e5a2fac97a229bcbac7d), continue through activeV43 and perform the mandatory terminal review; no ordinary model-boundary pause or self-merge.
+
+## Mimi17 maintained-state preimages
+
+These are historical entering texts, not competing current gates/defaults or commands. All analytical text is preserved exactly except explicitly declared relative Markdown targets rebased to the same repository destinations from this changelog's directory. Their exact original forms remain recoverable through the positional inverse and Git baselineec3cb015dffb9380364b72824c4c8db084f456ae; entries requiring no link transformation are verbatim. No heading/claim/body is reconstructed from excerpts. The public erratum above qualifies the former README wrist error.
+
+### master-source-high-water
+
+Original home: series/re-zero/04 Longitudinal Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md. Relative-target transformations: 0; all other bytes preserved, native inverse required.
+
+````````markdown
+| analytical high-water mark in this synchronized transaction | V16 and all eleven earlier model/review pairs have completed gates. V17 Japanese text/image/navigation/ruby EOF and source-facing adjudication are complete; this synchronized V17 candidate still requires its own exact-commit publication gate. The map retains last verified committed high-water V16 until that gate closes |
+````````
+
+### master-next-candidate
+
+Original home: series/re-zero/04 Longitudinal Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md. Relative-target transformations: 0; all other bytes preserved, native inverse required.
+
+````````markdown
+| next candidate | MIMI_V01_V17_MODEL_AND_FIDELITY_REVIEW only after V17 full gate; its construction/separate actually applied review/own full gate precede V18. Active continuous terminal V43; no ordinary pause |
+````````
+
+### master-models
+
+Original home: series/re-zero/04 Longitudinal Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md. Relative-target transformations: 0; all other bytes preserved, native inverse required.
+
+````````markdown
+| character models / local review | eleven protected older model/review pairs retain exact bytes/scopes/defaults/local documentary grades. Mimi V01–V17 construction/separate review is qualitatively earned, not implemented or graded. V17 reconciliation does not extend any older fidelity result |
+````````
+
+### master-person-row
+
+Original home: series/re-zero/04 Longitudinal Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md. Relative-target transformations: 0; all other bytes preserved, native inverse required.
+
+````````markdown
+| Mimi / ミミ | Own foundling/chosen-family account, perceptive child care/comfort, unreturned affection, changing closeness boundaries, tactical refusal and rescue rebuke; latest unconscious with critical nonclosing chest wound | V17-B15–28; abandonment motive is her inference, Mimi's bruised wrist and Garfiel's apology remain, barriers/healing finite. No exact age/full-name romanization, mutual romance or waking/recovery | MONOGRAPH_READY V01–V17 construction plus separate actually applied review earned, NOT IMPLEMENTED/GRADED; own derived gate after V17 full gate, before V18 |
+````````
+
+### master-readiness-intro
+
+Original home: series/re-zero/04 Longitudinal Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md. Relative-target transformations: 1; all other bytes preserved, native inverse required.
+
+````````markdown
+### Current post-V17 responsibility review
+
+All eleven earlier model/review pairs have completed their own gates, latest Ferris16 at38bfed019a665455599792a7a5da22156d930fff. The41 protected prior artifacts keep exact bytes/scopes/defaults/local grades. The complete old current review is historical in the [V17 preimage record](REZERO_PROJECT_CHANGELOG.md#v17-master-person-and-readiness-preimages), not a still-pending Ferris operation.
+
+````````
+
+### master-mimi-readiness
+
+Original home: series/re-zero/04 Longitudinal Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md. Relative-target transformations: 0; all other bytes preserved, native inverse required.
+
+````````markdown
+#### Mimi / ミミ — new source-bounded construction earned
+
+**MONOGRAPH_READY — CONSTRUCTION_AND_SEPARATE_REVIEW_EARNED, NOT_IMPLEMENTED_OR_GRADED**, Japanese main LN V01–V17. The named next derived operation is `MIMI_V01_V17_MODEL_AND_FIDELITY_REVIEW`, after this V17 transaction's complete publication gate and before V18. A complete private childhood, exact age, restored body or future series ending is not a substitute for the supported scope.
+
+The qualitative threshold is crossed by differentiated evidence, not by appearances or a row count. Earlier company escort and surprised information receipt (V06 K034/I030) differ from actual V07 aid bargaining, limited healing and barrier work (K069/M039/M042). V08 mediated trust and controversial corpse conduct (K078/I062/I067), later sibling/mercenary differentiation (R024), and V16 chosen Garfiel company (R087/R093) already resist a single cheerful mascot. V17 adds ordinary play, family-like loyalty, her own reported foundling account, perceptive comfort, explicitly nonrequired reciprocity, changing proximity/touch reception, a reasoned tactical warning, a violated cooperation condition and grave injury. Recipient, role, stress, self-presentation, care, competence, failure and negative controls can now be selected conditionally.
+
+**Default:** living E021 at the latest actually observed unconscious treatment for the nonclosing chest wound, with physical hemostasis and risky triplet sharing. Do not invent an awake reply, healed wound or new post-ending conversation. A waking dialogue task must explicitly select a supported earlier phase—such as the roof comfort, morning boundary negotiation or preinjury warning—with its own body, recipient, knowledge and cost. The default is not a claim she is permanently unable to speak.
+
+**Required implementation:** reconcile the exact older Japanese evidence/design routes; implement the existing seven-axis selector, ordinary/recipient/voice/knowledge/care/failure rules and negative controls; label unfamiliar applications NONCANONICAL_PROBE; perform and separately report all nineteen existing fidelity dimensions. An actually applied same-analyst nonblind documentary result must stay so labeled. Construction can require correction, targeted review or readiness revision; existence is not fidelity, and none of it authorizes global registry/evaluator changes.
+
+**Operational abstentions:** no invented full-name romanization, exact age, parents' proved motive, identified ローシ, every sibling's private biography, shared RBD memory, mutual Garfiel couple/sex, cheerful immunity, limitless barrier/healing or completed recovery. Her abandonment explanation is a self-reported inference; the current body cannot answer beyond the read horizon.
+
+````````
+
+### master-architecture-decision
+
+Original home: series/re-zero/04 Longitudinal Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md. Relative-target transformations: 0; all other bytes preserved, native inverse required.
+
+````````markdown
+#### Current architecture decision
+
+Five specialist owners remain sufficient: event-state, knowledge, mechanics, institutions and relationships. Master remains the current claims/person/ordinary/Japanese/questions/readiness owner. New prose and claim IDs are not themselves a field-contract change. No sixth ledger, separate ordinary/voice/readiness file, independent evidence index, final specialist, global grade or full-series synthesis is earned. The retrieval of Mimi's earlier contrasts through existing owner IDs works; it does not establish an independent navigation-maintenance duty.
+
+Actual V17 candidate growth requires further lossless relocation of selected old §3 claim snapshots into the existing project changelog. Each original heading remains a router; exact snapshot spans, entering person/readiness and matrix preimages stay recoverable there, and inverse/unaffected-byte checks are required. The append-only §14 prefix, current/entering claim bodies, prospective seals, frozen files and unchanged 1MiB limit remain protected. This archival size duty does not earn a sixth owner or independent index.
+
+**arc5_checkpoint:** NOT_EARNED. The source continues an opened arc and ends with unresolved battles/captivity;《了》is not an arc-end certification.
+
+**work order:** complete V17 synchronized publication → Mimi source-bounded model plus separate actually applied review and own complete publication gate → sealed V18 → continuous prospective operations through active V43. No ordinary unit/model confirmation or pause is introduced. Source exhaustion at V43 is not complete-to-date possession or automatic synthesis readiness.
+
+````````
+
+### full-entering-map
+
+Original home: series/re-zero/CURRENT_STATE_AND_CORPUS_MAP.md. Relative-target transformations: 0; all other bytes preserved, native inverse required.
+
+````````markdown
+---
+series: RE_ZERO
+artifact_type: corpus_map
+scope: SERIES_BOOTSTRAP_AND_ANALYTICAL_ROUTING
+generation: V0.36
+status: canonical
+release_state: mutable_active
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+---
+
+# Re:ZERO -Starting Life in Another World- — current state and corpus map
+
+This is the canonical first read for the Git-side Re:Zero analytical corpus.
+
+```yaml
+project_initialization:
+  status: canonical
+  architecture_lifecycle: EVOLVING
+  governing_method: 00 Frameworks and Methods/REZERO_ANALYTICAL_METHOD.md
+  synthesis_architecture: 00 Frameworks and Methods/REZERO_SYNTHESIS_ARCHITECTURE.md
+  character_reconstruction_protocol: 00 Frameworks and Methods/REZERO_CHARACTER_RECONSTRUCTION_PROTOCOL.md
+  supplemental_witness_catalog: 01 Source Lock and Inventory/REZERO_SUPPLEMENTAL_WITNESS_CATALOG.md
+  method_status: canonical
+  architecture_status: canonical
+  source_reconnaissance_complete: true
+  required_day_one_infrastructure_initialized: true
+  required_day_one_infrastructure:
+    - 04 Longitudinal Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md
+  sequential_analysis_lock: OPEN
+  next_permitted_operation: MIMI_V01_V17_MODEL_AND_FIDELITY_REVIEW
+```
+
+```yaml
+sequential_execution:
+  mode: continuous_sequential
+  unit_type: main_light_novel_volume
+  authorized_start: V03
+  terminal_boundary: V43
+  committed_high_water_mark: V16
+  next_candidate_operation: MIMI_V01_V17_MODEL_AND_FIDELITY_REVIEW
+  confirmation_between_units: false
+  run_state: active
+```
+
+## Authority split
+
+- **GitHub is the analytical authority** for methods, source-routing decisions, sequential readings, longitudinal ledgers, character analysis, adaptation analysis, specialist synthesis, and analytical audits promoted under `series/re-zero/`.
+- **Primary-source media do not belong in this Git root.** Japanese light-novel files, audiovisual media, scans, extracted text, and other source-bearing objects remain in the governed evidence plane unless a policy explicitly admits a reference representation.
+- **The current source lock admits the acquired Japanese main-light-novel spine V01-V43.** Exact file identity, integrity, Drive provenance, alternate-edition handling, the bounded post-manifest V41 hash override, and known current acquisition gaps are recorded in `01 Source Lock and Inventory/REZERO_SOURCE_LOCK_AND_INVENTORY.md`. The lock does not claim complete-to-date possession: published Japanese V44 and V45 are not present in the live governed folder.
+- Local workspaces are working environments, not authority, until an artifact is promoted through the governed Git route.
+
+## Current analytical state
+
+The synchronized [V17 deep reading](02%20Sequential%20Readings/REZERO_LN_V17_DEEP_READING.md) and master/five owners now contain the complete source-facing V17 analysis. This is a publication candidate, not a claim that its own exact-commit gate has already passed. The structured committed high-water remains the last verified V16; after V17's full gate, the required Mimi operation must record verified V17 without reopening it. Both next-operation fields select that derived duty conditionally on V17 publication, not permission to skip the gate.
+
+The same admitted Japanese V17 original was fully consumed:21OPFmembers/78actual sequential deliveries/3780positions=3756TEXT+24IMAGEreferences,23unique images,167232base-text characters, zero gaps/duplicates. Separate navigation and all802unique base/reading pairs were actually covered, accounting for2769ruby groups/3745labels; structural inspection alone was not credited. Original23970413bytes/SHA063327017f7b28665388610ee7853ef11b93ad4d6a356d633c368c87792f0dc9/CRCpass. Promotional/design/colophon text was consumed as paratext, not current narrative or instructions.
+
+Current371claims incorporate340 individually reviewed predecessors:218PRESERVE/94STRENGTHEN/20REVISE/8OPEN plus31NEW. All60incoming questions/10forecasts have separate postread adjudications. The historical incoming V17 prospect stays exact. The outgoing V18 body is60questions/10forecasts,15685UTF-8bytes/SHA3cb3c253cb4ea264a72b9dc376c6d40f7aec608648c5e5a2fac97a229bcbac7d, fixed after complete V17 consumption/review and before V18 or the derived Mimi operation.
+
+E019's failed solo tower rescue ends in death19; E020's Reinhard intervention ends in shared bisection/death20; actual park arrival instantiates E021,20observed deaths/21arrived segments. Latest Subaru has an actually severed right thigh, Capella's applied black blood and unresolved victim-dragon flame aftermath. Emilia separately wakes captive, hears Regulus's name, rejects the husband claim and receives an unanswered virginity demand. Garfiel's prior-day maternal-household/Mimi backfill, hospital waking and captive waking are not returns. No death21/E022, decoded Authority, cured wound, restored Gate/Puck/Rem, verified full civilian census or consenting marriage follows.
+
+Five sole owners remain sufficient: eventV2.1/E021, knowledgeV2.1/K601, mechanicsV1.10/M382, institutionV1.14/I325, relationshipV1.8/R125/RT288. New56K/37M/31I/21R/49RT;28old relationship rows advance with exact preimages,76stableR/239oldRT remain exact. MasterV1.29 owns371claims/person/ordinary/Japanese/questions/readiness. Its measured size requires six exact old §3 snapshots, V12–V07, to move losslessly into the existing [project changelog](REZERO_PROJECT_CHANGELOG.md#v17-source-facing-transaction--historical-preimages-and-lossless-claim-rollover); original-heading routers, entering340claim body/both seals and the full older append-only history stay recoverable. No sixth ledger, new field, independent index or size exception.
+
+All41older frozen analytical artifacts, including eleven model/review pairs, retain exact bytes/scopes/defaults/local documentary grades; latest Ferris16 full gate38bfed019a665455599792a7a5da22156d930fff is closed. These historical defaults are not silently E021 or certified through V17. Ram chronology remains OPEN; C116/M344's Frederica-subject control remains mandatory despite Garfiel's new partial upper-body form. The bounded V13 chronology check distinguishes old trial/scar timing from maternal departure, not an invented retcon/date.
+
+Mimi alone newly earns V01–V17 construction and a separate actually applied fidelity review: earlier bargaining/finite care, controversial corpse conduct and sibling roles now join ordinary play, her own foundling account, recipient-specific comfort/touch boundaries, unreturned affection, tactical warning and grave injury. Neither model nor review exists yet; no grade is assigned. Default is latest living but unconscious critically injured E021, not an invented awake reply or healed outcome. The [master's readiness review](04%20Longitudinal%20Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md#13-promotion-readiness) owns the full basis and abstentions. Garfiel's V10–V15 model remains exact; current maternal-identity/secrecy/strongest-ideal/broken-retreat evidence receives bounded reconciliation rather than an automatic grade extension. No Arc5-end checkpoint/final specialist or ordinary pause is earned.
+
+## Governing method and retrieval route
+
+Read in this order for new Re:Zero analytical work:
+
+1. `CURRENT_STATE_AND_CORPUS_MAP.md`
+2. `00 Frameworks and Methods/REZERO_ANALYTICAL_METHOD.md`
+3. `00 Frameworks and Methods/REZERO_SYNTHESIS_ARCHITECTURE.md`
+4. `00 Frameworks and Methods/REZERO_ROUTE_AND_WITNESS_PROTOCOL.md`
+5. `00 Frameworks and Methods/REZERO_CHARACTER_RECONSTRUCTION_PROTOCOL.md` for character promotion, reconstruction, or fidelity work;
+6. `01 Source Lock and Inventory/REZERO_SUPPLEMENTAL_WITNESS_CATALOG.md` for non-spine discovery or acquisition work;
+7. `01 Source Lock and Inventory/REZERO_SOURCE_LOCK_AND_INVENTORY.md`
+8. `04 Longitudinal Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md`
+9. the immediately prior frozen sequential reading's claim ledger and outbound question set;
+10. only the additional character, supplemental, adaptation, promoted-ledger, or specialist artifact required for the task.
+
+The intended primary semantic anchor is the **Japanese light novel**, within the exact admitted source range. Translations may be convenience witnesses; wording-sensitive claims return to Japanese. Anime, web-novel material, IF/alternate routes, side stories, bonus stories, game material, guidebooks, interviews, and other supplements do not silently overwrite main-light-novel findings.
+
+## Why Re:Zero needs a route-aware method
+
+The project must preserve more than ordinary chronology. Whenever the text presents repeated, reset, branching, failed, counterfactual, or otherwise non-identical event states, analysis must keep separate:
+
+- what occurred in a particular event-state or iteration;
+- what remains true in the currently active narrative state;
+- what a focal character remembers or has learned across states;
+- what other characters locally know in that state;
+- what the reader has learned from states that characters may not share;
+- which behaviors repeat under similar conditions and which depend on changed information;
+- what later success owes to information, sacrifice, rehearsal, coercion, luck, or altered circumstances from earlier attempts.
+
+A discarded or superseded event-state can remain highly probative character evidence without being treated as a durable event in the active world-state. Conversely, a later successful sequence does not erase the experiential or interpretive importance of earlier failures for any character whose state actually carries forward.
+
+## Corpus architecture
+
+| Layer | Analytical responsibility | Current state |
+|---|---|---|
+| `00 Frameworks and Methods` | Governing evidence, prospective-freeze, route-state, witness-separation, character reconstruction/fidelity, focalization, Japanese-language, safe-horizon, revision, longitudinal-routing, specialist, and completion rules | methodV0.1/witnessprotocolV0.2 unchanged; architectureV1.28 EVOLVING; characterprotocolV1.27/current source-facingV17; eleven older pairs exact/full-gated; Mimi construction/separate review earned, not implemented |
+| `01 Source Lock and Inventory` | Exact witness set, integrity/provenance, edition identity, publication ordering, source-family classification and non-spine awareness | sourceLockV0.31; admittedV01–V43/V41exception/datedgaps unchanged; V17 exact complete text/image/navigation/ruby consumption; V18+/nonspine/import narratives unopened; no admission |
+| `02 Sequential Readings` | Main-LN prospective deep readings and source-verified checkpoints | V01–V16/three checkpoints exact; V17 complete source-facing reading and synchronized current candidate under own full gate; exact outgoing60Q/10P V18 prospect fixed before next derived operation |
+| `03 Supplemental and Alternate Witnesses` | Analytical readings of admitted mainline side stories, collections, EX/supplemental material, IF/alternate routes, web-novel witnesses, and other non-spine material | routing contract V0.2 populated; cataloging remains in layer 01; no witness admitted or read yet |
+| `04 Longitudinal Ledgers` | Current claims/revisions, chronology/durability, proposition holders, relationships, characters, institutions, mechanics, ordinary life, Japanese, questions and readiness | masterV1.29/current source-facingV17; eventV2.1/E021, knowledgeV2.1/K601, mechanicsV1.10/M382, institutionV1.14/I325, relationshipV1.8/R125/RT288; schemaV0.30/no field change; exact six old claim snapshots archived, not discarded |
+| `05 Character Analysis` | Protocol-governed character reconstruction only after sufficient longitudinal evidence exists | routerV0.18; eleven earlier pairs exact/full-gated; Mimi V01–V17 construction/separate applied review is the required next derived operation after V17 full gate, with own full gate before V18; no model/grade yet |
+| `06 Adaptation Analysis` | Anime and later audiovisual comparison as separately labeled witnesses | routing contract populated; no adaptation findings yet |
+| `07 Specialist Synthesis` | Dense questions with independent retrieval responsibility, instantiated only when earned | not instantiated |
+| `08 Audits and Manifests` | Bootstrap and later analytical/source-integrity manifests | eleven earlier scoped reviews exact; no new fidelity review in this source-facing transaction. Mimi requires a separately actually applied nineteen-dimension review, not an inherited/global/runtime result |
+| future `09 Evidence and Indexes` | Claim-evidence, source-locator, character-evidence-coverage, or witness-dependency navigation only after demonstrated retrieval burden | not instantiated; exact candidates and triggers reserved in the synthesis architecture |
+| future `10 Full-Series Synthesis` | Canonical full-series convergence after complete-series or expressly bounded readiness | not instantiated; reserved canonical file `REZERO_FULL_SERIES_SYNTHESIS.md` |
+| `90 Legacy and Superseded` | Materially distinct superseded analysis | not instantiated; no legacy analytical corpus is being imported |
+
+The absence of an unused directory is intentional. Re:Zero should grow by analytical responsibility, not by template symmetry.
+
+## Sequential lock and history
+
+All initiation requirements are initialized and `SEQUENTIAL_ANALYSIS_LOCK = OPEN`. The current method, evolving synthesis architecture, five specialist owners, master and source-bounded model/audit define the present routing. An OPEN lock does not itself admit a different witness or override source/publication controls.
+
+The V01/V02 repair, later architecture extensions, ledger promotions, checkpoint operation and source-consumption history are preserved in the [project changelog](REZERO_PROJECT_CHANGELOG.md). These are historical records, not competing current defaults. Git history and live audit statuses own exact publication receipts; this entrypoint owns current scope and the next permitted operation.
+
+## Reasoning-class routing
+
+- architecture repair/extension, final role-gap review, and full-series integration: `PREMIUM_QUALITY_FIRST`;
+- ordinary Japanese-primary VNN deep reading and interpretive master-ledger update: `SUBSTANTIVE_ANALYSIS`;
+- deterministic source identity, checksum, locator, and metadata maintenance: `BOUNDED_STANDARD` or `ROUTINE_FAST`;
+- source-verified checkpoints, mature character work, and difficult relationship/specialist synthesis: normally `DEEP_SYNTHESIS`, with evidence-based escalation for unusually propagation-sensitive cases.
+
+The stable class governs; literal provider/model names remain a mutable mapping in the corpus-wide reasoning policy.
+
+## Main reading methodology
+
+The numbered main light novels use a **prospective freeze**:
+
+1. establish the exact source witness and current analytical horizon;
+2. record material expectations, unresolved questions, and confidence before opening the next volume;
+3. read only the newly admitted source increment;
+4. identify what the new volume preserves, strengthens, revises, downgrades, rejects, or leaves open;
+5. write a bounded deep reading rather than a chapter transcript;
+6. freeze that state before advancing.
+
+Where an official/source-verified arc structure exists, preserve both global volume identity and arc identity. Do not infer or hard-code arc boundaries from fandom memory when the locked corpus can establish them directly.
+
+## Supplemental and alternate witnesses
+
+Non-spine material is not inserted merely because it is available.
+
+Before reading a supplement analytically, establish:
+
+- exact witness identity and source family;
+- publication order;
+- diegetic or route relationship to the main light novel where knowable;
+- the earliest safe analytical insertion point relative to the prospective main-volume horizon;
+- whether the item is mainline supplemental evidence, alternate-route/counterfactual evidence, a developmental web-novel witness, an adaptation witness, or something else.
+
+The witness protocol now separates publication horizon (`H_pub`), diegetic dependency (`H_diegetic`), and route/divergence dependency (`H_route`). The safe opening point `H_final` is the latest established dependency. If a material dependency is unresolved, `H_final` remains `OPEN` and the witness stays unread.
+
+Alternate-route material may illuminate constraints, latent tendencies, or counterfactual possibilities, but it does not prove that the same choice would occur in the main route under materially different knowledge, relationships, or conditions.
+
+## Initial analytical questions — not findings
+
+The sequential pass should test rather than assume questions including:
+
+- how repeated failure, partial success, and accumulated information change judgment, self-conception, planning, risk tolerance, and interpersonal behavior;
+- which character tendencies remain stable across materially different event-states and which are products of local information or pressure;
+- how asymmetric knowledge changes trust, consent, persuasion, deception, dependency, and apparent irrationality;
+- how relationships develop when continuity may be experienced differently by the participants;
+- how fear, grief, shame, hope, exhaustion, attachment, obligation, and trauma alter practical agency without being reduced to generic pathology labels;
+- how institutions, factions, status, law, custom, patronage, violence, and material resources constrain nominal choices;
+- which setting explanations are demonstrated, which are viewpoint-bound, which are institutional doctrine, and which remain unresolved;
+- how abilities, rules, costs, exceptions, and hidden mechanisms should be reconstructed without converting character theory into world fact;
+- how Japanese register, address terms, self-reference, politeness, insults, emotional formulae, and recurring lexical choices change interpretation;
+- where ordinary routines, food, work, study, leisure, humor, gifts, comfort, etiquette, and low-stakes choices reveal durable character structure;
+- which later conclusions genuinely revise earlier models and which merely add information unavailable at the earlier freeze.
+
+Publication follows the current repository integration checklist. Routing-current and stale-routing paths have different housekeeping requirements; exact Git/audit evidence owns receipts, and the work order below states required dependencies rather than a prose publication status.
+
+## Current work order
+
+1. Close this complete V17 atomic source-facing transaction: reading/master/five owners and six routing/source/framework documents plus existing changelog, exactly14declared paths. Complete actual full-diff and bounded named-subject/reference review, final-index author preflight and current-main/remote reconciliation; exact-path approved-owner commit/nonforce push, immutable complete-file/tree readback and branch PR. Merging remains owner/CI responsibility.
+2. Require the actual-source full integration audit with all discovered tests on the final exact head, trusted reporter/status, applicable completed housekeeping and a later native/source/protected/seal consistency check. Routing-current no-op needs no redundant child/audit; regenerated routing requires its exact child gate. Earlier green results never certify a newer head.
+3. Only after V17's complete gate, record verified committed high-waterV17 and perform `MIMI_V01_V17_MODEL_AND_FIDELITY_REVIEW`: reconcile exact earlier Japanese/design responsibilities, implement the seven selectors/ordinary/recipient/voice/care/failure/abstentions/negative controls and noncanonical probes, then separately apply all nineteen fidelity dimensions. Model existence/readiness is not a verdict; a same-analyst nonblind documentary result must retain that bound. This pair needs its own complete publication gate before V18.
+4. Mimi's default is latest livingE021 unconscious under critical nonclosing chest-wound treatment. No new speech without an explicit supported waking override, no exact age/parental motive/finder identity, shared RBD, mutual Garfiel couple, unlimited care/barrier or completed recovery. Garfiel's current reconciliation does not rewrite or expand his V10–V15 model/review.
+5. Only then open V18's admitted Japanese original in OPF order through full text/image EOF against unchanged60Q/10P seal3cb3c253cb4ea264a72b9dc376c6d40f7aec608648c5e5a2fac97a229bcbac7d. V18 remains unopened now; derived retrieval cannot admit a later unit or silently rewrite the prospective body.
+6. Preserve41older analytical artifacts/eleven historical pairs with exact scopes/defaults/local grades, master§14's prior prefix and all old/current claim ancestry/seals. Keep20deaths21segments/E021, selected holder/consent/resource bounds, Ram chronology OPEN, C116/M344's Frederica-subject correction and Roswaal qualifiers. Muse base differs from captured city hall; source wording/query is not silently repaired.
+7. Continue prospective atomic transactions through activeV43 without routine volume/model confirmation. Source exhaustion is not published-series completion. Five specialist owners/master remain sufficient; no count-driven file, new global grade or bypass of publication controls.
+8. Source admission43/V41exception and datedV44/V45 gaps are unchanged. Supplements/IF/WN/adaptations/new import narrative stay unopened; metadata/report is not admission. Global curation/evaluation, stewardship and protected integration retain their separate authority.
+
+## Bootstrap abstentions
+
+- No synopsis, wiki, fandom consensus, adaptation memory, prior ChatGPT discussion, or model knowledge is promoted as a Re:Zero source finding by this scaffold.
+- No later volume, supplement, alternate route, or adaptation is allowed to contaminate an earlier prospective freeze.
+- No failed/discarded event-state is automatically treated as a durable active-world event; no active-world reset automatically erases its evidentiary value for character reconstruction.
+- No character's explanation of mechanics, history, politics, religion, another person's motives, or hidden causality is treated as objective fact solely because it is explicit dialogue or narration.
+- No IF/alternate-route evidence is silently blended into main-route personality claims.
+- No web-novel wording is treated as the light novel's wording.
+- No anime-only performance or staging is attributed to the light novel.
+- No PACTRIH score or cross-series ethical placement is assigned before source-grounded evidence is sufficient.
+- No character registry edit is implied by creating this analytical root; character discovery remains under the repository's separate curation authority.
+````````
+
+### source-current-source-summary
+
+Original home: series/re-zero/01 Source Lock and Inventory/REZERO_SOURCE_LOCK_AND_INVENTORY.md. Relative-target transformations: 0; all other bytes preserved, native inverse required.
+
+````````markdown
+## Current source-state summary
+
+- **Acquired/admitted Japanese main LN:** V01–V43 continuous; the bounded V41 replacement is unchanged.
+- **Known dated published but unadmitted gaps:** V44–V45; no new complete-to-date or freshness claim.
+- **Admitted translation/supplement/EX/IF/WN/anime:** none. Retained EnglishV21/archivedV31 remain nonadmitted/unopened.
+- **Consumed source-facing horizon:** V01–V17 Japanese main LN. V17 full text/image/navigation/ruby consumption and371claim adjudication are complete; its atomic publication gate is still required. The map retains verified committedV16 until actual V17 gate closure. All eleven older model/review full gates, latest Ferris38bfed01, are closed and their scopes/defaults/local grades remain exact.
+- **Next analytical operation:** MIMI_V01_V17_MODEL_AND_FIDELITY_REVIEW only after V17's complete publication gate; construction and separate actually applied nineteen-dimension fidelity review/own full gate must precede V18. Readiness is earned, not an existing model or grade.
+- **Next unread main source:** V18, against exact60Q/10P body15685UTF-8bytes/SHA3cb3c253cb4ea264a72b9dc376c6d40f7aec608648c5e5a2fac97a229bcbac7d. Derived retrieval cannot silently rewrite it or add a later primary unit.
+- **Current execution:** active continuous terminalV43; E021/20observed deaths21arrived segments. Subaru's severed right thigh/applied black blood/flame aftermath and Emilia's coercive captivity are unresolved; Garfiel's prior-day family backfill adds no reset. Mimi is alive/unconscious under critical wound treatment, not cured or available for a new default reply.
+- **Source/claim controls:**41older protected artifacts/eleven pairs keep exact bytes/defaults/local grades; all prior prospective freezes survive. Ram chronologyOPEN, C116/M344 Frederica-subject correction, Garfiel's targeted chronology distinction and Roswaal's source/recipient/agency qualifiers remain operative. V17 reconciliation is not inherited independent/runtime/global fidelity.
+- **Acquisition priority and exclusions:** unchanged43-original lock/V41exception; V44/V45 acquisition remains outside this operation and does not automatically extend authorizedV43. V18+/nonspine/new import narratives remain unopened; metadata/report is not admission.
+````````
+
+### architecture-source-boundary
+
+Original home: series/re-zero/00 Frameworks and Methods/REZERO_SYNTHESIS_ARCHITECTURE.md. Relative-target transformations: 0; all other bytes preserved, native inverse required.
+
+````````markdown
+source_boundary: "Japanese main LN V01-V43 admitted; V17 fully consumed/source-facing synchronized candidate under own publication gate; eleven earlier model-review pairs exact/full-gated; Mimi V01-V17 construction/separate review earned, not implemented; V18 sealed/unopened; no nonspine admission"
+````````
+
+### architecture-matrix-Analytical dimension
+
+Original home: series/re-zero/00 Frameworks and Methods/REZERO_SYNTHESIS_ARCHITECTURE.md. Relative-target transformations: 0; all other bytes preserved, native inverse required.
+
+````````markdown
+| Analytical dimension | Sequential observation | Cumulative canonical home | Mature/final destination | State through V17 — synchronized source-facing candidate; own gate required |
+````````
+
+### architecture-matrix-Character state-stress
+
+Original home: series/re-zero/00 Frameworks and Methods/REZERO_SYNTHESIS_ARCHITECTURE.md. Relative-target transformations: 0; all other bytes preserved, native inverse required.
+
+````````markdown
+| Character state/stress | goals, self-model, conditions, behavior, recovery, counterexample | master ledger character/readiness tables | protocol-governed character monographs/models | Eleven older full-gated pairs retain exact scopes/defaults/local grades. Current E021 body/knowledge and V17 maternal/strongest-ideal/failure reconciliation are explicit, not inherited fidelity; Mimi construction/separate review newly earned |
+````````
+
+### architecture-matrix-Character-relationship-specialist readiness
+
+Original home: series/re-zero/00 Frameworks and Methods/REZERO_SYNTHESIS_ARCHITECTURE.md. Relative-target transformations: 0; all other bytes preserved, native inverse required.
+
+````````markdown
+| Character/relationship/specialist readiness | cited accumulation and threshold judgment | master ledger readiness tables | promoted canonical artifacts | Mimi V01–V17 construction and separately applied review earned, NOT IMPLEMENTED/GRADED; own operation after V17 complete gate, own full gate before V18. Other source-specific cases remain bounded; no Arc5-end/final specialist/new owner/index/global grade |
+````````
+
+### protocol-current-opening
+
+Original home: series/re-zero/00 Frameworks and Methods/REZERO_CHARACTER_RECONSTRUCTION_PROTOCOL.md. Relative-target transformations: 0; all other bytes preserved, native inverse required.
+
+````````markdown
+## 0. Authority and present boundary
+
+It is subordinate to method, architecture, witness protocol and live source lock. It neither admits sources nor rewrites freezes.
+
+Current source-facing horizon is V17 after complete Japanese text/image/navigation/ruby consumption and individual340predecessor/60question/10forecast adjudication,371current claims. The synchronized source transaction still needs its own exact-commit publication gate. V16 and all eleven earlier model/review pairs, latest Ferris16 at38bfed019a665455599792a7a5da22156d930fff, have closed gates; their41protected artifacts keep exact scopes/defaults/local documentary grades. A source continuation is not an extension of a historical model's fidelity or default.
+
+Current E021 follows death19/E020 arrival and shared bisection death20/E021 arrival:20observed deaths/21arrived segments. Subaru's right-thigh severing/applied black blood and flame aftermath, Emilia's coercive captivity and Mimi's nonclosing injury remain unresolved. Garfiel's prior-day backfill, hospital waking and Emilia waking add no return. No restored Gate/Puck/Rem, decoded Authority, acquired full family/secret knowledge or cured person is implied.
+
+Mimi alone newly earns source-bounded V01–V17 construction plus a separate actually applied fidelity review. Her earlier bargaining/finite care/controversial conduct and sibling roles now join ordinary play, self-reported foundling/chosen-family context, recipient-specific support, touch/proximity boundaries, explicit affection without returned love, tactical warning and grave injury. The model/review are NOT IMPLEMENTED_OR_GRADED. Default is latest living E021 unconscious under critical nonclosing chest-wound treatment; a dialogue task must select a supported earlier waking phase with its own seven coordinates. No full-name romanization, exact age/parents' proved motive/identified ローシ, shared RBD, mutual Garfiel couple, unlimited care/barrier or completed recovery is supplied. Unknown full biography and a damaged body are bounds, not automatic readiness failures.
+
+Garfiel's V17 maternal-identity/amnesia, secrecy prediction, strongest-ideal fear, accepted comfort, partial form and violated retreat receive bounded source-facing reconciliation in master/five owners; his V10–V15 model/review remain exact. Ram chronology staysOPEN; C116/M344 prohibit the old Frederica→Garfiel full-feline speech/healing transfer despite the new partial upper-body form. Roswaal's source/recipient/agency qualifications remain binding. Other earlier defaults do not silently become E021.
+
+Master§13 owns complete readiness; the existing five specialist owners retain state conditioning. No selector axis, field, formal fidelity dimension, sixth ledger, separate evidence/ordinary/voice/readiness file, final specialist or Arc5-end checkpoint is earned. Six older master§3 snapshots move verbatim into the existing changelog only because measured candidate size requires it; history/inverse/seal/native-byte checks preserve one current owner and the unchanged file limit.
+
+Required sequence: V17 complete publication gate → MIMI_V01_V17_MODEL_AND_FIDELITY_REVIEW with actual source reconciliation, construction, separately applied existing nineteen-dimension review and own complete gate → V18. Exact V18body60Q/10P/15685bytes/SHA3cb3c253cb4ea264a72b9dc376c6d40f7aec608648c5e5a2fac97a229bcbac7d stays fixed before later source/derived work; V18 remains unopened. Active terminalV43/EVOLVING/no ordinary pause and unchanged source admission remain. Earlier opening/readiness statements are preserved as historical preimages; formal§§19–21 remain exact.
+
+The protocol standardizes **responsibilities, not file count or headings**. A compact monograph may satisfy it when evidence is narrow. A richer packet may divide the responsibilities among current-state, relationship, ordinary-life, voice, evidence, and fidelity artifacts only after each independent retrieval burden is demonstrated.
+
+````````
+
+### schema-current-promoted-paragraph
+
+Original home: series/re-zero/04 Longitudinal Ledgers/REZERO_LEDGER_PROMOTION_AND_SCHEMAS.md. Relative-target transformations: 0; all other bytes preserved, native inverse required.
+
+````````markdown
+The master was backfilled from frozen V01/V02 and now holds the synchronized V17 source-facing candidate under its own complete publication gate. It owns current371claims/person/ordinary/Japanese/prospect/readiness; institutionV04, event/knowledgeV06, mechanicsV07 and relationshipV09 remain five sole owners. V16 and all eleven earlier model/review pairs, latest Ferris16 at38bfed01, have closed gates and retain exact scopes/defaults/local documentary grades. Mimi V01–V17 construction/separate actually applied review is qualitatively earned, not implemented or graded; after V17 full gate, its own complete operation/gate precedes V18. Earlier reviews below preserve historical phase decisions, not current defaults or reopened gates. No field contract changes; exact formal/reserved tails remain.
+````````
+
+### router-current-mimi-directory
+
+Original home: series/re-zero/05 Character Analysis/README.md. Relative-target transformations: 2; all other bytes preserved, native inverse required.
+
+````````markdown
+## Current V17 source boundary and earned Mimi construction
+
+The [V17 reading](02%20Sequential%20Readings/REZERO_LN_V17_DEEP_READING.md), master and five specialist owners contain the complete source-facing V17 candidate:371claims after340individual dispositions, all60incoming questions/10forecasts, E021/20observed deaths/21arrived segments. This source transaction still needs its own exact-commit publication gate. V16 and all eleven earlier model/review gates, latest Ferris38bfed01, are closed;41protected prior analytical artifacts retain exact bytes/scopes/defaults/local documentary grades. New source evidence does not silently move any reviewed default to E021 or extend its fidelity horizon.
+
+Mimi alone newly earns source-bounded V01–V17 construction plus a separate actually applied fidelity review. Earlier company bargaining/finite medical and barrier care, controversial corpse conduct and differentiated sibling roles now join ordinary child rescue/play, her own foundling/chosen-family report, perceptive comfort, affection without required reciprocity, changing touch/proximity, tactical warning and a violated retreat condition. The threshold is qualitative conditional coverage, not popularity, appearances, a complete private biography or a restored body. Master§13/V17§15 own the complete readiness basis, rival readings and abstentions.
+
+| earned operation | intended model home | intended separate review home | default and binding status |
+|---|---|---|---|
+| MIMI_V01_V17_MODEL_AND_FIDELITY_REVIEW | `REZERO_MIMI_V01_V17_CHARACTER_MODEL.md` | `../08 Audits and Manifests/REZERO_MIMI_V01_V17_FIDELITY_REVIEW.md` | MONOGRAPH_READY construction/review EARNED, NOT IMPLEMENTED_OR_GRADED. Latest livingE021 unconscious under critical nonclosing chest-wound treatment, not an invented awake reply or completed cure |
+
+These filenames reserve the earned responsibility, not links to existing artifacts. First close V17's full publication gate; then reconcile exact earlier Japanese and mature design responsibilities, implement the existing seven selectors/ordinary/recipient/voice/knowledge/care/failure/negative controls and NONCANONICAL_PROBE applications, and separately apply all nineteen existing fidelity dimensions. An actually applied same-analyst nonblind documentary result must retain that bound and can require repair/targeted review/abstention/readiness revision; model existence is not a pass. The pair needs its own complete publication gate before V18.
+
+A waking Mimi task must explicitly select a supported earlier roof-comfort, morning-boundary or preinjury-warning phase with its own body/recipient/knowledge/resources. No exact age, invented full-name romanization, parents' proved motive, identified ローシ, every sibling's private biography, shared RBD, mutual Garfiel couple/sex, cheerful immunity, limitless barrier/healing or completed recovery. Garfiel's hurt wrist/apology and later broken agreement are not erased by welcomed comfort.
+
+Garfiel's V17 maternal survival/amnesia, self-erasing secrecy forecast, accepted support, recurring strongest-ideal fear, partial transformation and tactical failure receive bounded current reconciliation in the reading/master/five owners. His V10–V15 model/review bytes/default/local grade stay exact; no duplicate whole-person file or automatic later-grade extension is earned. Other retained people/enemy/household cases remain explicitly bounded. Ram chronologyOPEN/C116-M344's Frederica-subject control/Roswaal source-recipient-agency qualifiers remain mandatory.
+
+Exact outgoing V18body60Q/10P/15685bytes/SHA3cb3c253cb4ea264a72b9dc376c6d40f7aec608648c5e5a2fac97a229bcbac7d stays fixed; V18 remains unopened. Required sequence is V17 complete gate → Mimi model/separate actually applied review/own complete gate → V18, continuing through activeV43 without routine volume/model confirmation. No sixth owner, independent index, new formal test dimension, Arc5-end checkpoint, final specialist or global curation/evaluator grade follows. The [exact entering directory state](REZERO_PROJECT_CHANGELOG.md#v17-former-reconstruction-opening-and-directory-state) remains historical.
+
+````````

@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: ledger_architecture
 scope: LONGITUDINAL_LEDGER_PROMOTION_AND_SCHEMA_CONTRACT
-generation: V0.30
+generation: V0.31
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -24,7 +24,7 @@ At the project-initiation architecture-repair boundary after the V02 freeze, the
 
 `REZERO_MASTER_LONGITUDINAL_LEDGER.md`
 
-The master was backfilled from frozen V01/V02 and now holds the synchronized V17 source-facing candidate under its own complete publication gate. It owns current371claims/person/ordinary/Japanese/prospect/readiness; institutionV04, event/knowledgeV06, mechanicsV07 and relationshipV09 remain five sole owners. V16 and all eleven earlier model/review pairs, latest Ferris16 at38bfed01, have closed gates and retain exact scopes/defaults/local documentary grades. Mimi V01–V17 construction/separate actually applied review is qualitatively earned, not implemented or graded; after V17 full gate, its own complete operation/gate precedes V18. Earlier reviews below preserve historical phase decisions, not current defaults or reopened gates. No field contract changes; exact formal/reserved tails remain.
+The master was backfilled from frozen V01/V02 and now owns the full-gated V17/current371claims/person/ordinary/Japanese/prospect/readiness state. Event/knowledge/mechanics/institution/relationship remain five sole owners. V17 gatecfad8d70 and eleven earlier model/review gates are closed; all42 entering protected artifacts retain exact scopes/defaults/local grades. Mimi V01–V17 model/separate actually applied nineteen-dimension review is implemented at PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY; its own complete publication gate remains before V18. Earlier phase reviews below are historical, not new pending gates. No field, formal protocol or reserved candidate/schema contract changes.
 
 The following candidate sections now define responsibilities that may later split out of the master ledger when independent retrieval/revision burden warrants specialization. They are not unpromoted gaps and do not authorize parallel competing homes.
 
@@ -114,6 +114,8 @@ All39older artifacts/ten prior full-gated pairs/five owners/master§§2–12/340
 
 ### Post-V17 current ownership and unchanged field-contract review
 
+Historical source-facing V17 record below: complete gatecfad8d70 is closed and its Mimi trigger is fulfilled in the following derived-use record; the original fields/counts/history are preserved.
+
 E021/K601/M382/I325/R125/RT288 fit existing fields. Twenty observed deaths/21arrived segments distinguish failed solo rescue, shared bisection and present unresolved assault; the hospital/captive waking and Garfiel prior-day backfill add no reset. New56K/37M/31I/21R/49RT,28changedR with exact preimages/76stableR/239oldRT exact are evidence/state increments, not a reason by count to invent another ledger.
 
 V17's340individual claim dispositions218PRESERVE/94STRENGTHEN/20REVISE/8OPEN+31NEW make371current claims. All60incoming questions/10forecasts are separately adjudicated; exact entering340body/incoming V17 prospect remain historical. Outgoing V18body60Q/10P/15685bytes/SHA3cb3c253cb4ea264a72b9dc376c6d40f7aec608648c5e5a2fac97a229bcbac7d is fixed before later source/derived work. Holder distinctions, consent/power, selective resistance, physical care/analgesia, partial form and transformed victims' personhood all use existing fields with named source/recipient/cost bounds.
@@ -123,6 +125,12 @@ Ordinary play/hospitality/food, chosen-family report, received comfort and chang
 Measured master growth requires six old §3 snapshots, V12–V07, to move verbatim into the existing changelog with original-heading routers and inverse/native-byte checks. Current/entering claim bodies, both seals and the entire prior append-only§14prefix remain preserved. This is historical storage, not a sixth owner, claim index or file-limit exception. No independent ordinary/voice/readiness/index maintenance burden, new field, final specialist or Arc5-end checkpoint is earned.
 
 V17 full publication gate → Mimi V01–V17 model/separate actually applied nineteen-dimension review/own complete gate → V18. Continuous activeV43/no routine pause and unchanged43-original source lock/V41exception/datedgaps remain. The entire registered candidate/schema tail below is byte-unchanged.
+
+### Post-V17 Mimi derived-use review — unchanged contracts
+
+Mimi's [V01–V17 model](../05%20Character%20Analysis/REZERO_MIMI_V01_V17_CHARACTER_MODEL.md) and [separate review](../08%20Audits%20and%20Manifests/REZERO_MIMI_V01_V17_FIDELITY_REVIEW.md) implement the existing selectors/rules/ordinary/recipient/voice/care/failure/abstention/probe responsibilities at actual nineteen-dimension PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY.35bounded revisits/22bundles/20rules/23controls/8NONCANONICAL_PROBE applications are traceability, not new field contracts or a count-driven owner.
+
+Current371claims/five owners, all42 entering freezes/eleven older scopes/defaults/grades, exact V18 prospect and formal/reserved tails stay unchanged. Master alone owns current readiness; its measured1048269-byte candidate fits1MiB without an additional rollover. No separate ordinary/voice/readiness/evidence-index duty, sixth ledger, global grade, source admission or specialist is earned. LivingunconsciousE021 default denies new speech/assent/cure; earlier waking use is explicitly selected. This pair's own complete publication gate precedes V18 and continuous activeV43. The entire registered candidate/schema tail below remains byte-exact.
 
 ### Registered exact candidate homes
 

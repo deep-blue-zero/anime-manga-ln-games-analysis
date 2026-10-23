@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: source_lock
 scope: SOURCE_ADMISSION_CONTRACT_AND_CURRENT_INVENTORY_STATE
-generation: V0.31
+generation: V0.32
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -729,9 +729,9 @@ The original V13 witness is7580833bytes/SHAf352e6bf101a26c3b0cfc35bec32677afc886
 - **Acquired/admitted Japanese main LN:** V01–V43 continuous; the bounded V41 replacement is unchanged.
 - **Known dated published but unadmitted gaps:** V44–V45; no new complete-to-date or freshness claim.
 - **Admitted translation/supplement/EX/IF/WN/anime:** none. Retained EnglishV21/archivedV31 remain nonadmitted/unopened.
-- **Consumed source-facing horizon:** V01–V17 Japanese main LN. V17 full text/image/navigation/ruby consumption and371claim adjudication are complete; its atomic publication gate is still required. The map retains verified committedV16 until actual V17 gate closure. All eleven older model/review full gates, latest Ferris38bfed01, are closed and their scopes/defaults/local grades remain exact.
-- **Next analytical operation:** MIMI_V01_V17_MODEL_AND_FIDELITY_REVIEW only after V17's complete publication gate; construction and separate actually applied nineteen-dimension fidelity review/own full gate must precede V18. Readiness is earned, not an existing model or grade.
-- **Next unread main source:** V18, against exact60Q/10P body15685UTF-8bytes/SHA3cb3c253cb4ea264a72b9dc376c6d40f7aec608648c5e5a2fac97a229bcbac7d. Derived retrieval cannot silently rewrite it or add a later primary unit.
-- **Current execution:** active continuous terminalV43; E021/20observed deaths21arrived segments. Subaru's severed right thigh/applied black blood/flame aftermath and Emilia's coercive captivity are unresolved; Garfiel's prior-day family backfill adds no reset. Mimi is alive/unconscious under critical wound treatment, not cured or available for a new default reply.
-- **Source/claim controls:**41older protected artifacts/eleven pairs keep exact bytes/defaults/local grades; all prior prospective freezes survive. Ram chronologyOPEN, C116/M344 Frederica-subject correction, Garfiel's targeted chronology distinction and Roswaal's source/recipient/agency qualifiers remain operative. V17 reconciliation is not inherited independent/runtime/global fidelity.
-- **Acquisition priority and exclusions:** unchanged43-original lock/V41exception; V44/V45 acquisition remains outside this operation and does not automatically extend authorizedV43. V18+/nonspine/new import narratives remain unopened; metadata/report is not admission.
+- **Verified committed consumed horizon:** V01–V17. V17 full text/image/navigation/ruby/371claim transaction completed its exact full gate atcfad8d70e5371e86ca73611100aa3d605106a6f2; the map now records verifiedV17. Eleven earlier model/review full gates and42 entering protected artifacts remain exact.
+- **Derived operation now implemented:** [Mimi V01–V17 model](../05%20Character%20Analysis/REZERO_MIMI_V01_V17_CHARACTER_MODEL.md) and [separate review](../08%20Audits%20and%20Manifests/REZERO_MIMI_V01_V17_FIDELITY_REVIEW.md), actually applied19dimensions at PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY.35bounded earlier-source deliveries/1289positions=1288TEXT/55669base characters plus one image reference; not six new whole-volume reads, a new image view, new claim generation or source admission. Six original size/hash/CRC rechecks preserve the admitted identities.
+- **Next source operation:** V18 only after this Mimi pair's own complete publication/readback/exact-head full audit/housekeeping/later-native gate; no independent/runtime/global result is implied by local documentary acceptance.
+- **Prospect:** exact60Q/10P V18 body15685UTF-8bytes/SHA3cb3c253cb4ea264a72b9dc376c6d40f7aec608648c5e5a2fac97a229bcbac7d remains fixed. Derived retrieval does not alter it or admit later source.
+- **Current execution:** active continuous terminalV43; E021/20deaths21arrived segments. Subaru's severed thigh/black-blood/flame aftermath and Emilia's coercive captivity remain unresolved. Mimi remains living/unconscious under nonclosing-wound treatment/physical hemostasis/risky sharing, not stable/cured or available for a new reply/assent.
+- **Controls and exclusions:** current371claims/five owners, all42 entering freezes/eleven earlier scopes/defaults/grades, Ram chronologyOPEN, C116/M344 Frederica-subject and Roswaal qualifiers remain. Garfiel's V17 reconciliation does not rewrite his V10–V15 pair. V18+/nonspine/new import narrative remains unopened; acquisition/report is not admission or automatic extension beyondV43.

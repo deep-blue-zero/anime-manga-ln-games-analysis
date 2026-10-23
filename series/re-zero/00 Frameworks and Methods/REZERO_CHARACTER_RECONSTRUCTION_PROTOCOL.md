@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: character_reconstruction_protocol
 scope: SOURCE_GROUNDED_CONDITIONAL_CHARACTER_RECONSTRUCTION
-generation: V1.27
+generation: V1.28
 status: canonical
 release_state: mutable_active
 current_analytical_horizon: V17
@@ -19,17 +19,15 @@ do_not_use_as_current_authority: false
 
 It is subordinate to method, architecture, witness protocol and live source lock. It neither admits sources nor rewrites freezes.
 
-Current source-facing horizon is V17 after complete Japanese text/image/navigation/ruby consumption and individual340predecessor/60question/10forecast adjudication,371current claims. The synchronized source transaction still needs its own exact-commit publication gate. V16 and all eleven earlier model/review pairs, latest Ferris16 at38bfed019a665455599792a7a5da22156d930fff, have closed gates; their41protected artifacts keep exact scopes/defaults/local documentary grades. A source continuation is not an extension of a historical model's fidelity or default.
+Source horizonV17 is fully consumed and its complete gatecfad8d70e5371e86ca73611100aa3d605106a6f2 is closed. Verified committed high-water isV17; current371claims/five owners keep E021/20observed deaths21arrived segments, K601/M382/I325/R125/RT288. Subaru's severed thigh/black-blood/flame aftermath, Emilia's coercive captivity and Mimi's nonclosing injury remain unresolved; prior-day backfill/ordinary waking is not a return.
 
-Current E021 follows death19/E020 arrival and shared bisection death20/E021 arrival:20observed deaths/21arrived segments. Subaru's right-thigh severing/applied black blood and flame aftermath, Emilia's coercive captivity and Mimi's nonclosing injury remain unresolved. Garfiel's prior-day backfill, hospital waking and Emilia waking add no return. No restored Gate/Puck/Rem, decoded Authority, acquired full family/secret knowledge or cured person is implied.
+Mimi's [V01–V17 model](../05%20Character%20Analysis/REZERO_MIMI_V01_V17_CHARACTER_MODEL.md) and [separate fidelity review](../08%20Audits%20and%20Manifests/REZERO_MIMI_V01_V17_FIDELITY_REVIEW.md) now implement the earned responsibility at MONOGRAPH_READY/local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY. All19 existing dimensions/23controls/8NONCANONICAL_PROBE applications were actually applied after whole saved-draft/source reconciliation, ten grouped findings/eighteen repairs and complete correction/inverse review; the separate review was wholly read and its temporary-support wording clarified. This is not independent, held-out, runtime, inherited or global assessment.
 
-Mimi alone newly earns source-bounded V01–V17 construction plus a separate actually applied fidelity review. Her earlier bargaining/finite care/controversial conduct and sibling roles now join ordinary play, self-reported foundling/chosen-family context, recipient-specific support, touch/proximity boundaries, explicit affection without returned love, tactical warning and grave injury. The model/review are NOT IMPLEMENTED_OR_GRADED. Default is latest living E021 unconscious under critical nonclosing chest-wound treatment; a dialogue task must select a supported earlier waking phase with its own seven coordinates. No full-name romanization, exact age/parents' proved motive/identified ローシ, shared RBD, mutual Garfiel couple, unlimited care/barrier or completed recovery is supplied. Unknown full biography and a damaged body are bounds, not automatic readiness failures.
+Default is latest livingE021 unconscious under critical nonclosing chest-wound treatment, physical hemostasis/risky triplet sharing. No new awake reply, treatment assent, staff recovery or cure is supplied. An explicit earlier waking phase must restore its own seven coordinates. Preserve actual ordinary pleasure/help, imperfect care, named sibling/patron competence, intrusive contact, mistaken guesses, sulking, direct warning/criticism and explicit affection without proved reciprocity. Approximate V16 age evidence remains; exact age/full surname/parental cause/finder identity and private thought remain unknown.
 
-Garfiel's V17 maternal-identity/amnesia, secrecy prediction, strongest-ideal fear, accepted comfort, partial form and violated retreat receive bounded source-facing reconciliation in master/five owners; his V10–V15 model/review remain exact. Ram chronology staysOPEN; C116/M344 prohibit the old Frederica→Garfiel full-feline speech/healing transfer despite the new partial upper-body form. Roswaal's source/recipient/agency qualifications remain binding. Other earlier defaults do not silently become E021.
+All42 entering protected artifacts/eleven earlier model-review pairs retain exact bytes/scopes/defaults/local grades. Garfiel's V17 reconciliation does not rewrite his V10–V15 pair. Ram chronologyOPEN/C116-M344 Frederica-subject control and Roswaal's source/recipient/agency qualifiers stay binding. The [entering opening](../REZERO_PROJECT_CHANGELOG.md#mimi17-maintained-state-preimages) is historical; formal§§19–21 and all existing selector/test contracts remain exact.
 
-Master§13 owns complete readiness; the existing five specialist owners retain state conditioning. No selector axis, field, formal fidelity dimension, sixth ledger, separate evidence/ordinary/voice/readiness file, final specialist or Arc5-end checkpoint is earned. Six older master§3 snapshots move verbatim into the existing changelog only because measured candidate size requires it; history/inverse/seal/native-byte checks preserve one current owner and the unchanged file limit.
-
-Required sequence: V17 complete publication gate → MIMI_V01_V17_MODEL_AND_FIDELITY_REVIEW with actual source reconciliation, construction, separately applied existing nineteen-dimension review and own complete gate → V18. Exact V18body60Q/10P/15685bytes/SHA3cb3c253cb4ea264a72b9dc376c6d40f7aec608648c5e5a2fac97a229bcbac7d stays fixed before later source/derived work; V18 remains unopened. Active terminalV43/EVOLVING/no ordinary pause and unchanged source admission remain. Earlier opening/readiness statements are preserved as historical preimages; formal§§19–21 remain exact.
+Next source is V18 only after this Mimi pair's own complete publication/readback/exact-head all-discovered full audit/trusted reporter/housekeeping/later-native gate. Exact V18body60Q/10P/15685bytes/SHA3cb3c253cb4ea264a72b9dc376c6d40f7aec608648c5e5a2fac97a229bcbac7d remains fixed. ActiveV43/EVOLVING/no routine pause and unchanged43-original lock/V41exception/dated gaps remain. No new source, field, owner/index or global-agent authority follows.
 
 The protocol standardizes **responsibilities, not file count or headings**. A compact monograph may satisfy it when evidence is narrow. A richer packet may divide the responsibilities among current-state, relationship, ordinary-life, voice, evidence, and fidelity artifacts only after each independent retrieval burden is demonstrated.
 
@@ -574,6 +572,12 @@ No new selector axis/field, formal fidelity dimension, sixth owner, evidence/ord
 The protocol standardizes **responsibilities, not file count or headings**. A compact monograph may satisfy it when evidence is narrow. A richer packet may divide the responsibilities among current-state, relationship, ordinary-life, voice, evidence, and fidelity artifacts only after each independent retrieval burden is demonstrated.
 
 ````````
+
+### Post-V17 Mimi derived-use implementation
+
+The preceding source-facing construction trigger is fulfilled by the V01–V17 model/separate scoped review, actual19-dimension same-analyst nonblind documentary PASS_WITH_BOUND after ten grouped findings/eighteen exact edits. Positive ordinary/recipient/voice evidence and adverse care/caution/corpse/contact cases remain selectable; default is livingunconsciousE021 with temporary support, not new speech/assent/cure. Master§13 owns readiness and older42 artifacts/eleven scopes/defaults/grades remain exact.
+
+35bounded source revisits/1289positions=1288TEXT/55669base characters plus one image reference are not new whole-volume/image credit. The model's20rules/23controls/8NONCANONICAL_PROBE applications are traceability, not an evidence-count threshold. Whole saved-draft/correction/native inverse and separate-review readback support only the named local result; no independent/held-out/runtime/global assessment is claimed. This pair's own full publication gate precedes unchanged sealedV18, then active continuousV43. Formal§§19–21 below are not altered or extended.
 
 ## 19. First mature-character fidelity audit
 
