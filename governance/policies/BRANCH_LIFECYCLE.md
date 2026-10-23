@@ -19,9 +19,18 @@ The discovery agent uses the reusable `character-registry` branch with at most o
 
 The reconstruction evaluator uses the reusable `character-reconstruction` branch with at most one open PR; it may change only `characters/reconstruction_capabilities.jsonl` and `characters/CHARACTER_RECONSTRUCTION_INDEX.md`, and series or study branches never carry those files. The same retention rules apply. See `CHARACTER_RECONSTRUCTION_MAINTENANCE.md`.
 
+## Continuing maintenance branches
+
+Repository maintenance uses two continuing branches, open to any agent or the owner:
+
+- `agent/tooling` for automation and tooling: `tools/`, the merge gate, workflows, schemas and validation;
+- `agent/governance` for policy, governance and analytical frameworks: `AGENTS.md` and `governance/`, including routing, policies, analytical methods and source policies.
+
+Choose the branch by what drives the change, not by which files it touches: a tooling change and the policy text that describes it land together on `agent/tooling`, and a policy decision with a small code change lands on `agent/governance`. Each branch has at most one open PR; merge current `main` into it before each change, keep each PR to one purpose, and update it without force. Its PR merges as a merge commit, so the branch is never pruned. An open PR that touches a guardrail path waits for the owner, and other work on that branch queues behind it.
+
 ## Temporary branches
 
-Governance, tooling, index, repair, experiment and one-shot branches use a narrowly named `agent/<purpose>` branch (the older `codex/`, `chatgpt/` and `claude/` prefixes are also audited). A branch under any other prefix gets no repository audit and so can never carry the required status. Do not route unrelated analytical content through a temporary branch to avoid its series or study branch.
+Use a narrowly named `agent/<purpose>` branch only when work cannot wait for its maintenance branch's open PR, or for an experiment or one-shot task. The `codex/`, `chatgpt/` and `claude/` prefixes that tools create by default are also audited. A branch under any other prefix gets no repository audit and so can never carry the required status. Do not route unrelated analytical content through a temporary branch to avoid its series or study branch.
 
 A temporary branch is finished only when:
 
