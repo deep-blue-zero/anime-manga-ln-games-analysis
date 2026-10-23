@@ -50,13 +50,15 @@ For each candidate the gate:
 - merges through GitHub's protected PR endpoint with the exact audited head as a merge commit;
 - checks that the merge commit's tree equals the audited head and waits for `main`'s own audit of it.
 
-Before any write, an apply run confirms that the gate's bytes match current `main`, the token belongs to the owner, the repository has no other collaborator, pending invitation or write-enabled deploy key, the `main` ruleset still blocks deletion and force-pushes and requires the strict audit, and `main`'s latest audit passed. It rechecks the ruleset immediately before each merge.
+Before any write, an apply run confirms that the gate's bytes match current `main`, the token belongs to the owner, the `main` ruleset still blocks deletion and force-pushes and requires the strict audit, and `main`'s latest audit passed. It rechecks the ruleset immediately before each merge.
+
+A bulk-merge run also confirms that the repository has no other collaborator, pending invitation or write-enabled deploy key. The CI agent's runs skip that check, because the GitHub proxy in its cloud environment refuses those reads. Instead, the owner confirms owner-only access whenever changing repository settings.
 
 If `main` moves during a run, the remaining candidates wait for the next run. If `main`'s audit of a merge fails or does not finish, the change is integrated but unverified: the run stops, and every later run refuses to start until `main` is green again. Repair forward. Never revert, force-push or rewrite `main`.
 
 ## Running the CI agent
 
-- Use one fine-grained owner token for this repository with Contents and Pull requests read/write, and Actions, Administration and Commit statuses read. Supply it as `OWNER_TOKEN`. Do not place it in files, PR text, logs or chat. The `NIGHTLY_INTEGRATION_TOKEN` secret needs the same permissions.
+- Use one fine-grained owner token for this repository with Contents and Pull requests read/write, and Actions and Commit statuses read. Supply it as `OWNER_TOKEN`. Do not place it in files, PR text, logs or chat. The `NIGHTLY_INTEGRATION_TOKEN` secret needs the same permissions plus Administration read, for the access check.
 - Run `python tools/nightly_integration.py --mode apply --branch <branch> --expect-head <reviewed SHA> --report <path>` from a fresh checkout of `main`, and keep the printed JSON receipt in the run's report. Apply over open PRs refuses to start without both options. `--mode preview` makes no writes.
 - Run one instance at a time per host. Concurrent writers are safe but waste effort, because GitHub's exact-head merge and strict up-to-date rule let only one succeed.
 

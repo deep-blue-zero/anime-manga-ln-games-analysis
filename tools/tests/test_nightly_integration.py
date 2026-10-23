@@ -182,9 +182,17 @@ class ControllerTests(unittest.TestCase):
                 api = FakeAPI()
                 api.access[path] = rows
                 with self.assertRaisesRegex(Halt, 'owner-only'):
-                    self.worker(api).preflight()
+                    Integrator(api, graph_mock(), preview=False, candidates='analysis-branches').preflight()
                 self.assertNotIn(('GET', f'rulesets/{MAIN_RULESET_ID}', None), api.requests)
                 self.assertEqual(api.writes, [])
+
+    def test_ci_agent_preflight_skips_the_unreadable_access_lists(self):
+        api = FakeAPI()
+        api.access = {path: None for path in api.access}
+        api.pages = mock.Mock(wraps=api.pages)
+        self.assertEqual(self.worker(api).preflight(), B)
+        self.assertFalse(any(call.args[0] in ('collaborators?affiliation=all', 'invitations', 'keys')
+                             for call in api.pages.call_args_list))
 
     def test_preview_preflight_needs_no_owner_credential_or_ruleset(self):
         worker = self.worker(preview=True)
