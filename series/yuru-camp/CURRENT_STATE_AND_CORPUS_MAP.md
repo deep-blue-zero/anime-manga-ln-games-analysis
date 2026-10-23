@@ -4,34 +4,34 @@ artifact_id: YURUCAMP_CURRENT_STATE_AND_CORPUS_MAP
 series: YURUCAMP
 series_title: Yuru Camp△ / ゆるキャン△
 artifact_type: corpus_map
-scope: V01-V15 active sequential corpus
+scope: V01-V17 active sequential corpus
 generation: V1
 status: canonical
-source_boundary: Japanese manga through Volume 15
+source_boundary: Japanese manga through Volume 17
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 analysis_state: active_provisional
 current_adversarial_checkpoint: YURUCAMP_V13-V15_CHECKPOINT.md
-current_sequential_boundary: V15
-next_sequential_artifact: YURUCAMP_V16_DEEP_READING.md
+current_sequential_boundary: V17
+next_sequential_artifact: YURUCAMP_V18_DEEP_READING.md
 governing_method: YURUCAMP_ANALYTICAL_METHOD_V1.md
 governing_architecture: YURUCAMP_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V1.md
 geography_amendment: YURUCAMP_METHOD_AMENDMENT_001_GEOGRAPHY_EVIDENCE_LAYERS.md
 created: '2026-08-26'
-updated: '2026-10-22'
+updated: '2026-10-23'
 reconstruction_specification: YURUCAMP_CHARACTER_RECONSTRUCTION_SPEC.md
 retrospective_operation: V01–V15_RETROSPECTIVE_LEDGER_BACKFILL
 project_initialization:
   sequential_analysis_lock: OPEN
-  next_permitted_operation: V16
+  next_permitted_operation: V18
 sequential_execution:
   mode: continuous_sequential
   unit_type: volume
   authorized_start: V16
   terminal_boundary: V19
-  committed_high_water_mark: V15
-  next_candidate_operation: V16
+  committed_high_water_mark: V17
+  next_candidate_operation: V18
   confirmation_between_units: false
   run_state: active
 execution_profile_ref: 09 Audits and Reviews/YURUCAMP_V16-V19_EXECUTION_RECORD.md
@@ -83,7 +83,7 @@ Read in this order when resuming the project:
 
 1. **This file** — active routing and boundary.
 2. **[V13–V15 checkpoint](03%20Volume%20Deep%20Readings/YURUCAMP_V13-V15_CHECKPOINT.md)** with the **[repair audit’s ER-001/ER-002 overlays](09%20Audits%20and%20Reviews/YURUCAMP_CONTINUATION_REPAIR_AUDIT.md)** — current adversarial longitudinal authority and attributable corrections.
-3. **[V13 generation V1.2](03%20Volume%20Deep%20Readings/YURUCAMP_V13_DEEP_READING.md)**, **[V14](03%20Volume%20Deep%20Readings/YURUCAMP_V14_DEEP_READING.md)**, and **[V15](03%20Volume%20Deep%20Readings/YURUCAMP_V15_DEEP_READING.md)** — latest accepted tranche; the original V15 attribution must be read through ER-001.
+3. **[V13 generation V1.2](03%20Volume%20Deep%20Readings/YURUCAMP_V13_DEEP_READING.md)**, **[V14](03%20Volume%20Deep%20Readings/YURUCAMP_V14_DEEP_READING.md)**, and **[V15](03%20Volume%20Deep%20Readings/YURUCAMP_V15_DEEP_READING.md)** — completed checkpoint tranche; the original V15 attribution must be read through ER-001. Then read completed [V16](03%20Volume%20Deep%20Readings/YURUCAMP_V16_DEEP_READING.md) and [V17](03%20Volume%20Deep%20Readings/YURUCAMP_V17_DEEP_READING.md), each frozen at its own prospective boundary.
 4. **All five core ledgers in §7**, beginning with the locator/revision register’s checkpoint-state matrix, verification log, revisions and gaps. Earlier checkpoints and volume readings remain the evidence route for earlier states.
 5. **All three current source records in §8** — preferred identities, manifest mappings and quality restrictions. The original Phase 0 remains historical evidence.
 6. The relevant Japanese primary-source images for exact page, visual, wording or attribution verification. The owner-authorized V16–V19 continuous run is recorded in §9 and the [execution record](09%20Audits%20and%20Reviews/YURUCAMP_V16-V19_EXECUTION_RECORD.md); its entering freeze precedes V16 narrative inspection.
@@ -91,6 +91,8 @@ Read in this order when resuming the project:
 The three artifact hashes below are preserved **historical Drive-export fingerprints**, not hashes of the migrated Git Markdown bytes. Use the repository commit and the repair audit preservation manifest for current Git identities. Source-object fingerprints remain separate.
 
 **Mandatory correction overlays:** [repair audit ER-001 / ER-002](09%20Audits%20and%20Reviews/YURUCAMP_CONTINUATION_REPAIR_AUDIT.md) corrects V15 Ch.87: **Rin**, not Ena, gives Ema the conditional camping advice. Read the frozen V15 reading and V13–V15 checkpoint with this attributable erratum; their bytes and original prospective formulations remain preserved. ER-002 also corrects CP V07–V09 §18.8: Akari is Aoi’s younger sister (Inuyama), not a Kagamihara.
+
+Later mandatory overlays, discovered 2026-10-23 in older-source reinspection: the same repair audit’s **ER-003** assigns V05 liquor-store full shifts to Chiaki, not Rin; **ER-004** assigns the V08 camp-bike/car-sightseeing proposal to Chiaki while Toba grants permission; **ER-005** distinguishes V05 literal welcome/introduction members 0126/0127 from printed 124/125. Read the affected frozen V05/V08 readings and CP04–06 through those overlays. E05-04–07/E08-04–08 and CR23–26 supply bounded primary complements; none upgrades an old extracted row wholesale.
 
 ### Current checkpoint
 
@@ -102,6 +104,10 @@ The three artifact hashes below are preserved **historical Drive-export fingerpr
 - SHA-256: `beaa3c904b0d2c913b86a82e5ae3348087472b8704c1791e5fe4453843f4bcfa`
 
 ### Latest sequential reading
+
+[YURUCAMP_V17_DEEP_READING.md](03%20Volume%20Deep%20Readings/YURUCAMP_V17_DEEP_READING.md) — complete prospective two-pass reading of all 166 preferred EPUB images; exact source SHA-256 `4c0e269486348e18ebd35a584347f06a1c5928775a752e7a6366d6c911a9ac3c`. Accepted Git history identifies the Markdown bytes; no migrated analytical Drive ID is invented. The preceding V16 reading remains byte-frozen at its own exit.
+
+### Preserved preceding V15 identity
 
 `YURUCAMP_V15_DEEP_READING.md`
 
@@ -127,13 +133,15 @@ The three artifact hashes below are preserved **historical Drive-export fingerpr
 
 ### Completed canonical deep readings
 
-Volumes **V01–V15** are complete as sequential Japanese-primary deep readings.
+Volumes **V01–V17** are complete as sequential Japanese-primary deep readings.
 
 The current tranche is:
 
 - `YURUCAMP_V13_DEEP_READING.md` — generation V1.2
 - `YURUCAMP_V14_DEEP_READING.md` — V1
 - `YURUCAMP_V15_DEEP_READING.md` — V1
+- `YURUCAMP_V16_DEEP_READING.md` — V1; next checkpoint pending
+- `YURUCAMP_V17_DEEP_READING.md` — V1; next checkpoint pending
 
 ### Completed mandatory adversarial checkpoints
 
@@ -147,7 +155,7 @@ The next mandatory checkpoint is `YURUCAMP_V16-V18_CHECKPOINT.md`, but only afte
 
 ---
 
-## 5. Current longitudinal freeze through Volume 15
+## 5. Preserved adversarial freeze through Volume 15
 
 The current checkpoint preserves **repertoire expansion under preserved difference** as the central longitudinal model.
 
@@ -213,11 +221,19 @@ Current state: non-member participant in the wider social/material ecosystem who
 
 ---
 
+### V16 sequential delta — before V17
+
+The CP15 formulations above remain historical. V16 strengthens distributed knowledge through Ema’s cold-risk relay, waking-traveler logistics and visual contribution. She accepts the journey, makes choices and enjoys the trail/museum; the main story ends before Nozori camping. Neither completed overnight nor club membership is established. Nadeshiko’s timetable and missed-event omissions show specific limits alongside curiosity and social/food skill. Rin initiates joint riding; the separately located earlier spring-break special preserves positive quiet solitude, a cycling wrong turn and reciprocal cooking/errands. Collection order is not story chronology. No new substantive Mei/Aoi cycling sequence or club approval occurs. See E16-01–15 and CR17–22.
+
+### V17 sequential delta — before V18
+
+Ema completes her first group camping journey, enjoys meals and actual dawn/lake drawing, contributes a taxi-check suggestion and specific knowledge, accepts a chair after forgetting hers and warms sleeping Ena. She explicitly asks to camp together again after naming transport cost; the seniors accept and suggest somewhere nearby. That is continued interest and prospective accommodation, not Outclub membership, independent mastery or the completed next trip. Nadeshiko’s creative food and solo scenic attention coexist with a deadline misunderstanding and sign-reading error; Ena’s chosen rest coexists with consequential aid. Both apparent night excursions resolve as dreams; actual drawing has separate evidence. Return-train memories confirm later pizza eating without guaranteeing arrival-day opening. Rin/Ayano’s riding remains unshown. Formal promotion, identified V12 wood transfer and the withheld broad themes remain open/held. See E17-01–16 and CR27–31; CP15 remains governing until the independent V16–V18 checkpoint.
+
 ## 6. Claims deliberately still open or constrained
 
 ### Formal `サークル → 部` transition
 
-V14 directly establishes that Mei's membership gives the Outclub the **number of members needed** for promotion. Through V15, no sufficiently explicit administrative scene confirms that the formal school transition has actually been completed.
+V14 directly establishes that Mei's membership gives the Outclub the **number of members needed** for promotion. Through V17, no sufficiently explicit administrative scene confirms that the formal school transition has actually been completed.
 
 Current authority:
 
@@ -226,7 +242,7 @@ Current authority:
 
 ### Specific V12 firewood inheritance
 
-The broader inter-cohort question has been answered without this object-level payoff. No depicted V13–V15 scene shows the V12 firewood being handed to or used by a junior.
+The broader inter-cohort question has been answered without this object-level payoff. No depicted V13–V17 scene shows the V12 firewood being handed to or used by a junior.
 
 Current state: **OPEN, downgraded in importance**.
 
@@ -244,7 +260,7 @@ Still `HOLD`. The manga strongly validates ordinary-life narrative sufficiency a
 
 ### Romance / yuri
 
-Unsupported through V15 under the project's evidentiary standard. Relational intensity, familiarity, and aesthetically resonant framing remain insufficient without distinct romantic evidence.
+Unsupported through V17 under the project's evidentiary standard. Relational intensity, familiarity, and aesthetically resonant framing remain insufficient without distinct romantic evidence.
 
 ---
 
@@ -252,13 +268,13 @@ Unsupported through V15 under the project's evidentiary standard. Relational int
 
 The original empty standalone-ledger directory was intentional. Architecture §6.0 now authorizes `V01–V15_RETROSPECTIVE_LEDGER_BACKFILL` to meet evidence-retrieval, reconstruction, and handoff needs without restarting the project.
 
-**Core backfill, source reconciliation and continuation handoff are established.** The retrospective ledgers are `active_provisional` evidence infrastructure, subordinate to the accepted checkpoint sequence and attributable correction overlays. They contain 50 unique observations (28 PRIMARY_VERIFIED, 22 ANALYSIS_EXTRACTED); derived rows overlap. No reconstruction readiness grade is assigned. [The repair audit](09%20Audits%20and%20Reviews/YURUCAMP_CONTINUATION_REPAIR_AUDIT.md) records scope, preservation, validation and publication obligations; branch completion is distinct from protected integration into `main`.
+**Core backfill, source reconciliation and continuation handoff are established.** The retrospective ledgers are `active_provisional` evidence infrastructure, subordinate to the accepted checkpoint sequence and attributable correction overlays. The preserved backfill had 50 observations (28 primary/22 extracted). Through V17 they contain **90 unique observations (68 PRIMARY_VERIFIED, 22 ANALYSIS_EXTRACTED)**; derived views overlap: 63 character, 57 relationship, 46 voice, 81 competence and 31 revision rows. Of the 25 additions since V16, sixteen are prospective V17 clusters and nine are separately dated V05/V08 primary complements. All 22 older extracted rows retain their original status/history. No reconstruction readiness grade is assigned. [The repair audit](09%20Audits%20and%20Reviews/YURUCAMP_CONTINUATION_REPAIR_AUDIT.md) records scope, preservation, validation and publication obligations; branch completion is distinct from protected integration into `main`.
 
 - [Character State Ledger](04%20Longitudinal%20Ledgers/YURUCAMP_CHARACTER_STATE_LEDGER.md)
 - [Relationship State Ledger](04%20Longitudinal%20Ledgers/YURUCAMP_RELATIONSHIP_STATE_LEDGER.md)
 - [Japanese Voice Ledger](04%20Longitudinal%20Ledgers/YURUCAMP_JAPANESE_VOICE_LEDGER.md)
 - [Camping Competence and Material Culture Ledger](04%20Longitudinal%20Ledgers/YURUCAMP_CAMPING_COMPETENCE_AND_MATERIAL_CULTURE_LEDGER.md)
-- [Primary Source Locator and Claim Revision Ledger](04%20Longitudinal%20Ledgers/YURUCAMP_PRIMARY_SOURCE_LOCATOR_AND_CLAIM_REVISION_LEDGER.md) — identity hashes, actual inspection log, five historical checkpoint states, ER-001/002, and the other five ledger responsibilities’ embedded homes/dependencies.
+- [Primary Source Locator and Claim Revision Ledger](04%20Longitudinal%20Ledgers/YURUCAMP_PRIMARY_SOURCE_LOCATOR_AND_CLAIM_REVISION_LEDGER.md) — identity hashes, actual inspection log, five historical checkpoint states, ER-001–005, and the other five ledger responsibilities’ embedded homes/dependencies.
 
 No unresolved source-attribution conflict remains in the new records. Extracted observations and uneven voice coverage remain explicit evidence gaps before behavioral reconstruction; they do not invalidate the preserved sequential boundary.
 
@@ -268,38 +284,38 @@ No unresolved source-attribution conflict remains in the new records. Extracted 
 
 The Phase-0 source lock recorded Japanese main volumes V01–V17 available and V18 absent at that audit boundary.
 
-Current source authority is the [reconciled inventory](02%20Source%20Lock%20and%20Inventory/YURUCAMP_CURRENT_SOURCE_INVENTORY.md), [exact identity/locator manifest](02%20Source%20Lock%20and%20Inventory/YURUCAMP_CURRENT_SOURCE_MANIFEST.json), and [quality notes](02%20Source%20Lock%20and%20Inventory/YURUCAMP_CURRENT_SOURCE_QUALITY_AND_LOCATOR_NOTES.md), reconciled with the October 22 acquisitions. Historical Phase 0 and October 17 observations remain identifiable. Source availability is distinct from the V15 literary boundary.
+Current source authority is the [reconciled inventory](02%20Source%20Lock%20and%20Inventory/YURUCAMP_CURRENT_SOURCE_INVENTORY.md), [exact identity/locator manifest](02%20Source%20Lock%20and%20Inventory/YURUCAMP_CURRENT_SOURCE_MANIFEST.json), and [quality notes](02%20Source%20Lock%20and%20Inventory/YURUCAMP_CURRENT_SOURCE_QUALITY_AND_LOCATOR_NOTES.md), reconciled with the October 22 acquisitions. Historical Phase 0 and October 17 observations remain identifiable. Source availability is distinct from the now-completed V17 literary boundary.
 
 | Source | Current disposition | Continuation restriction |
 | --- | --- | --- |
-| V16 | Preferred Japanese publisher EPUB `1S6wIlhB--XXMdja34Y-uzrdcR6xOMXNv`; 166 spine images, 1350×1920 | Supersedes the watermarked CBZ; preserve old object `1U_krzsI0k5fQkE4H8mAmNPBZD1ueWNKS`, its hash, and the exact crosswalk excluding old advertisement slots 79/131 |
-| V17 | Preferred September Kobo EPUB `1sAvxxFVzSOtobfs2HTjPTK1QqNjxyu96`; 166 spine images, 1350×1920 | Preserve the accepted replacement chain and bounded old/new concordance |
+| V16 | Preferred Japanese publisher EPUB `1S6wIlhB--XXMdja34Y-uzrdcR6xOMXNv`; 166 spine images, 1350×1920 | Complete reading; supersedes the watermarked CBZ; preserve old object `1U_krzsI0k5fQkE4H8mAmNPBZD1ueWNKS`, its hash, and the exact crosswalk excluding old advertisement slots 79/131 |
+| V17 | Preferred September Kobo EPUB `1sAvxxFVzSOtobfs2HTjPTK1QqNjxyu96`; 166 spine images, 1350×1920 | Complete two-pass reading; preserve the accepted replacement chain and bounded old/new concordance |
 | V18 | Japanese publisher EPUB `1QEgPUH9Sr-3jVH2C5vr-3ZRJ7xKK4uH4`; 166 spine images, 1350×1920 | Available; narrative inspection follows completed V17 transaction |
 | V19 | Newly acquired Japanese publisher EPUB `1SUFejNLxWBLfvvfY2xCwyhhvYX8ud3bN`; 166 spine images, 1350×1920 | Available; narrative inspection follows the completed V18 transaction and frozen V16–V18 checkpoint |
 
-All four accessible EPUB byte streams were independently SHA-256 checked against the supplied acquisition identities, with ZIP CRC and complete OPF-spine→XHTML→image resolution. These are local-byte checks; dated Drive propagation metadata does not establish remotely verified content hashes. EPUB spine position, archive raw position and printed pagination remain separate locator systems. Chapter/scene boundaries must be established during each authorized reading, without opening later-volume narrative pages.
+All four accessible EPUB byte streams were independently SHA-256 checked against the supplied acquisition identities, with ZIP CRC and complete OPF-spine→XHTML→image resolution. These are local-byte checks; dated Drive propagation metadata does not establish remotely verified content hashes. EPUB spine position, archive raw position and printed pagination remain separate locator systems. The V16/V17 readings establish their respective chapter/scene boundaries; V18–V19 boundaries remain for their respective authorized readings, without opening later narrative early.
 
 Supplementary anthologies, travel guides and anime/movie guidebooks retain their separate source classes. This run admits the Japanese main manga only; no supplementary continuity or adaptation evidence enters it.
 
 ---
 
-## 9. Next operation: Volume 16
+## 9. Next operation: Volume 18
 
 The owner explicitly authorizes **continuous sequential execution V16 → V17 → V18 → V19**, with no confirmation between volumes, followed immediately by substantive provisional retrospective synthesis through V19. The project remains active. No V20+ admission or definitive full-series release is authorized.
 
-The accepted source high-water mark is still **V15**. V16 is the next permitted/candidate source unit; source verification is not a completed reading. Each volume must close its two-pass reading, longitudinal updates, claim revisions, locators, current state and durable checkpoint before the next volume begins. Freeze `YURUCAMP_V16-V18_CHECKPOINT.md` after V18 and before V19 narrative inspection. At V19 closeout, record `completed` and `NONE` in both next-operation fields, then continue retrospective synthesis within V01–V19.
+The accepted source high-water mark is **V17**. V18 is the next permitted/candidate source unit. V17’s full reading/ledger/locator/state transaction is closed; no V18+ narrative finding enters it. Each volume must close its two-pass reading, longitudinal updates, claim revisions, locators, current state and durable checkpoint before the next volume begins. Freeze `YURUCAMP_V16-V18_CHECKPOINT.md` after V18 and before V19 narrative inspection. At V19 closeout, record `completed` and `NONE` in both next-operation fields, then continue retrospective synthesis within V01–V19.
 
 The [execution record](09%20Audits%20and%20Reviews/YURUCAMP_V16-V19_EXECUTION_RECORD.md) preserves the owner scope, the corrected V15 entering freeze, evidence-capability probe, source verification limits and recovery obligations. PR #191's repair is already merged and post-integration audited; its old pending-integration prose is historical. Current main is reconciled by the checklist's verified squash procedure, without redoing that repair.
 
-Before V16 narrative inspection, retain the full §3 reading route and mandatory errata. Use the preferred EPUB's exact spine/image map, with the archived CBZ crosswalk for older references. The 22 extracted backfill observations still require targeted primary reinspection for high-consequence reuse; they do not require restarting V01–V15.
+Before V18 narrative inspection, retain the full §3 reading route and mandatory errata ER-001–005. Use the current preferred EPUB’s exact spine/image map; preserved V16/V17 replacement crosswalks apply only to their older references. The 22 extracted backfill observations still require targeted primary reinspection for high-consequence reuse; they do not require restarting V01–V15.
 
 Next artifact:
 
-`YURUCAMP_V16_DEEP_READING.md`
+`YURUCAMP_V18_DEEP_READING.md`
 
-V16 must be read prospectively from the V13–V15 checkpoint boundary. It should not be treated as confirmation of any forecast simply because a claim was promoted at the checkpoint.
+V18 starts from the completed V17 exit under CP15: Ema has enjoyed a first group camping trip and asked to repeat it, while membership, future locality/cost, the unshown Rin/Ayano ride and other unresolved claims remain tests. Complete and commit V18, then freeze the independent V16–V18 checkpoint before opening V19.
 
-Highest-priority tests entering V16 include:
+The original entering-V16 test list below remains prospective history; V18 carries the unresolved tests forward with CR17–31:
 
 1. whether adaptive inter-cohort continuity extends beyond the V14–V15 cycling case;
 2. whether Mei changes the club in domains other than cycling;
@@ -335,11 +351,11 @@ Do not:
 
 ## 11. Compact continuation state
 
-**Current sequential boundary:** V15 complete.  
+**Current sequential boundary:** V17 complete.
 **Current adversarial authority:** `YURUCAMP_V13-V15_CHECKPOINT.md`.  
 **Current V13 authority:** generation V1.2.  
 **Standalone ledgers:** five core retrospective ledgers established; five remaining responsibilities explicitly routed in embedded analyses.
 **V16 source:** preferred publisher EPUB verified; archived CBZ retained.
-**Authorized source run:** V16–V19, continuous; committed high-water mark V15; run active.
-**Next operation:** `YURUCAMP_V16_DEEP_READING.md`.  
+**Authorized source run:** V16–V19, continuous; committed high-water mark V17; run active.
+**Next operation:** `YURUCAMP_V18_DEEP_READING.md`.
 **Next mandatory checkpoint:** `YURUCAMP_V16-V18_CHECKPOINT.md`, after V16–V18 and source verification.
