@@ -164,6 +164,26 @@ class AuthorityFrontMatterTests(unittest.TestCase):
                     expected,
                 )
 
+    def test_unchanged_front_matter_is_parsed_once_and_rejections_recur(self) -> None:
+        core = sys.modules[parse_authority_front_matter.__module__]
+        data = authority_document("canonical")
+        path = "series/example/memoized.md"
+        expected = AuthorityMetadata("canonical", (), (), False)
+        self.assertEqual(parse_authority_front_matter(data, path), expected)
+        with mock.patch.object(core, "_restricted_yaml_load", side_effect=AssertionError("re-parsed")):
+            # The same block at the same path is remembered, body bytes aside...
+            self.assertEqual(parse_authority_front_matter(data, path), expected)
+            self.assertEqual(parse_authority_front_matter(data + b"\nmore body\n", path), expected)
+            # ...while another path or a changed block is parsed on its own.
+            with self.assertRaises(AssertionError):
+                parse_authority_front_matter(data, "series/example/other.md")
+            with self.assertRaises(AssertionError):
+                parse_authority_front_matter(data.replace(b"status: canonical", b"status: superseded"), path)
+        invalid = b"---\nstatus: [\n---\n"
+        for _ in range(2):
+            with self.assertRaises(DomainError):
+                parse_authority_front_matter(invalid, path)
+
     def test_non_exact_opener_is_unclassified_legacy(self) -> None:
         valid = authority_document("canonical")
         cases = {
