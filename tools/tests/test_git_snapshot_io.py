@@ -107,6 +107,41 @@ class SnapshotIOTests(unittest.TestCase):
             core.GitSnapshot.from_index(self.root)
             self.assertEqual(run.call_count, 3)
 
+    def test_caller_owned_blob_cache_serves_verified_bytes_across_commits(self) -> None:
+        for i in range(3):
+            self.stage(f"file-{i}.md", f"content {i}\n".encode())
+        first = self.commit()
+        changed = self.stage("file-1.md", b"changed\n")
+        second = self.commit()
+        cache: dict[str, bytes] = {}
+
+        def batches(run: mock.MagicMock) -> list[bytes]:
+            return [c.kwargs["input_bytes"] for c in run.call_args_list if c.args[1:] == ("cat-file", "--batch")]
+
+        with mock.patch.object(core, "run_git", wraps=core.run_git) as run:
+            one = core.GitSnapshot.from_commit(self.root, first, blob_cache=cache)
+        self.assertEqual([len(b.splitlines()) for b in batches(run)], [3])
+        self.assertEqual(len(cache), 3)
+        for oid, data in cache.items():
+            self.assertEqual(hashlib.sha1(b"blob " + str(len(data)).encode() + b"\0" + data).hexdigest(), oid)
+        # The second commit reads only the blob the cache has not verified yet.
+        with mock.patch.object(core, "run_git", wraps=core.run_git) as run:
+            two = core.GitSnapshot.from_commit(self.root, second, blob_cache=cache)
+        self.assertEqual(batches(run), [f"{changed}\n".encode()])
+        self.assertEqual(two.entries["file-1.md"].data, b"changed\n")
+        self.assertEqual(two.entries["file-0.md"], one.entries["file-0.md"])
+        # A commit the cache fully covers needs no batch read at all, and
+        # yields exactly the entries a fresh acquisition yields.
+        with mock.patch.object(core, "run_git", wraps=core.run_git) as run:
+            again = core.GitSnapshot.from_commit(self.root, first, blob_cache=cache)
+        self.assertEqual(batches(run), [])
+        self.assertEqual(again.entries, one.entries)
+        self.assertEqual(again.entries, core.GitSnapshot.from_commit(self.root, first).entries)
+        # Without a caller-owned cache, every acquisition still reads from Git.
+        with mock.patch.object(core, "run_git", wraps=core.run_git) as run:
+            core.GitSnapshot.from_commit(self.root, first)
+        self.assertEqual([len(b.splitlines()) for b in batches(run)], [3])
+
     def test_index_change_during_acquisition_is_rejected(self) -> None:
         self.stage("file", b"before")
         original = core.read_blob_objects
