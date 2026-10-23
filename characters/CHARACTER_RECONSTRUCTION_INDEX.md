@@ -15,7 +15,7 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
 
 ## Recorded assessments
 
-- Recorded totals: `CANDIDATE` 2
+- Recorded totals: `CANDIDATE` 4
 
 ### Subject `harmony:tuan-kirie@original-novel`
 
@@ -40,6 +40,77 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
   - `unsettled-treatment-boundary` (evidence-backed limitation): Section 4 attributes difficulty defending the brain-as-body/person distinction to Tuan. A rigid, fully settled rule rejecting every treatment of psychological suffering would erase that represented difficulty.
 - Evidence at basis commit:
   - [`harmony:tuan-kirie@original-novel#comparative-ethics`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/1ac5215d216de2451fd3cf0ed667d90ad9df7cde/studies/project-itoh-genocidal-organ-harmony/COMPARATIVE_ETHICS_AND_FORM.md)
+
+### Subject `mass-effect:commander-shepard@paragon-player-archetype`
+
+#### Assessment `mass-effect-paragon-shepard-archetype-20261023-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `mass-effect:commander-shepard`
+- Scope: continuity `mass-effect-trilogy-games`; state `paragon`
+- Source boundary: Only mass-effect:commander-shepard@paragon-player-archetype\#paragon-shepard-monograph, the canonical interpretive monograph MASS\_EFFECT\_PARAGON\_SHEPARD\_CHARACTER\_MONOGRAPH.md at basis\_commit, read in full. It is the study's analytical-corpus formulation of a player archetype extracted from the trilogy's choice space and declares itself not an exhaustive transcript audit. The Renegade monograph and the study's corpus map were consulted for scope and provenance only and are not evidence on this subject. No game transcript, mission dialogue, audiovisual recording, specific playthrough, novel, comic or external documentation is included, and the evaluator performed no primary-source inspection.
+- Temporal boundary: The whole Mass Effect trilogy as three coarse phases \(Mass Effect 1 military diplomat, Mass Effect 2 ethical contaminant inside Cerberus, Mass Effect 3 coalition commander\) through the ending choice. No mission-level or in-game chronology, no particular playthrough state, and no pre-trilogy or post-ending state is established.
+- Basis commit: `c5166e2059fd671dcaac2283fd72b4c04f88be06`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `32bce196adf6d7d4d828699f84d91003384e97f4c0b29e58d9b6d48e29ce35f9`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `D` — substantial distributed evidence without a strong operational model
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_ASSESSED; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `CROSS_SCENARIO` bounds: chronology The trilogy-wide corpus archetype at any of its three coarse phases; no mission-level moment or playthrough state is fixed.; interlocutor Any counterpart, since the monograph names no individual relationship; the refusal holds for allies, enemies and institutions alike.; settings Crossover, counterfactual or materially novel contexts outside the trilogy's command situations; Behavioral or dialogue simulation rather than analyst-level value comparison; No fixed personality, located scene evidence or decision procedure is available in this evidence set
+  - `ETHICAL_DELIBERATION` condition: The dilemma is a command-context ethical or political choice of the kind the monograph treats: use of force, coalition trust, truth versus manipulation, civilians, enemy categories, emergency authority.
+  - `ETHICAL_DELIBERATION` condition: Output is a value-level account of which considerations the archetype weighs and what it refuses, stated as tendency rather than certainty, with the monograph's failure modes available as counterweights.
+  - `ETHICAL_DELIBERATION` condition: No specific game mission mechanics, dialogue lines, squadmate names or playthrough facts are asserted as canon.
+  - `ETHICAL_DELIBERATION` condition: The subject is the corpus archetype, not any particular player's Shepard.
+  - `PROFESSIONAL_CONTEXT` condition: Military-professional command or political-military context framed by the Alliance, N7 and Spectre foundation the monograph describes.
+  - `PROFESSIONAL_CONTEXT` condition: Prediction is limited to command posture and priorities \(discretion used to protect persons and legitimacy, coalition over domination, refusal to let necessity cancel personhood\), not to tactics, procedure or speech.
+  - `PROFESSIONAL_CONTEXT` condition: No specific mission, squad composition or in-game outcome is asserted.
+  - `PROFESSIONAL_CONTEXT` condition: The archetype's stated failure modes remain possible outcomes.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` D; `LONGITUDINAL_STATE` E; `VOICE_REGISTER` NOT_ASSESSED; `MUNDANE_BEHAVIOR` NOT_ASSESSED; `RELATIONSHIP_CONDITIONING` E; `INTERIORITY` E; `CONFLICT_BEHAVIOR` D; `ETHICAL_DELIBERATION` D; `HUMOR_PLAY` NOT_ASSESSED; `SOURCE_COMPLETENESS` E; `NEGATIVE_EVIDENCE` D; `TEMPORAL_SPECIFICITY` E
+- Known limits:
+  - `archetype-not-fixed-personality` (evidence-backed limitation): Section 0 and the corpus-use rule state that the game provides a player-directed choice space and that no single psychologically seamless Paragon personality is claimed; every claim here concerns the corpus archetype, not a canonical individual.
+  - `game-rewarded-idealism-and-ending` (evidence-backed limitation): Section 13 records that the trilogy sometimes rewards Paragon choices with unrealistically optimal outcomes, and section 11 that no ending is fully compatible with Paragon ethics; predictions of clean outcomes are unsupported.
+  - `no-transcript-audit` (evidence-backed limitation): The front matter and section 0 declare the monograph a corpus-governing interpretive model and not an exhaustive transcript audit; named decisions and outcomes are asserted without scene evidence.
+  - `not-maximum-kindness` (evidence-backed limitation): The corpus-use rule states that Paragon Shepard is not synonymous with maximum kindness, pacifism, legal formalism or choosing every blue dialogue option, and may threaten, deceive, kill and exercise broad emergency authority.
+  - `voice-relationships-and-playthrough` (evidence gap): No attested dialogue, register, individual squadmate or romance relationship, mundane behavior, mission chronology, edition or playthrough variable \(origin, class, gender, survivors\) is part of this evidence set. Missing support is not evidence that the games lack them.
+- Evidence at basis commit:
+  - [`mass-effect:commander-shepard@paragon-player-archetype#paragon-shepard-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/c5166e2059fd671dcaac2283fd72b4c04f88be06/studies/comparative-media/Mass%20Effect/01%20Character%20Monographs/MASS_EFFECT_PARAGON_SHEPARD_CHARACTER_MONOGRAPH.md)
+
+### Subject `shokugeki-no-soma:ikumi-mito@manga`
+
+#### Assessment `shokugeki-no-soma-ikumi-mito-manga-bounded-model-20261023-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `shokugeki-no-soma:ikumi-mito`
+- Scope: continuity `shokugeki-no-soma-manga`
+- Source boundary: Only shokugeki-no-soma:ikumi-mito@manga\#reviewed-dedicated-analysis, the active\_provisional bounded character model SHOKUGEKI\_MITO\_CHARACTER\_MODEL.md at basis\_commit, read in full as reviewed repository analysis of the original Japanese manga V01-V36. The model's linked deep readings, longitudinal ledgers, readiness ledger, evidence matrix and fidelity audit were consulted for method and provenance only; they are not curated evidence on this subject and nothing is borrowed from them. The project's own readiness label and its nonblind self-audit are inputs, not conclusions. No original CBZ page, anime adaptation, V1 Soma material or other character's model is included, and the evaluator performed no primary-source inspection.
+- Temporal boundary: School-era states from the V02 Donburi Research Society confrontation and the recalled family-formation memory through the V20 society-defense win and the V21 successor-pressure disclosure, with the model's explicit default being the latest detailed school state. Ikumi's V22-V36 states, the serialized ending and the Le dessert adult endpoint are not established by this evidence set; the V06 summer-bonus observations are low-weight supplementary evidence inside that boundary.
+- Basis commit: `c5166e2059fd671dcaac2283fd72b4c04f88be06`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `538f81a6f17d16e0993692f12efcc266a0fbe3f600cd31a12a5ccbab45faa348`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `CROSS_SCENARIO` condition: Chronology is fixed to the model's default latest detailed school state after the V20 win and the V21 disclosure, or to one earlier gated state named explicitly; no adult or post-V21 state is used.
+  - `CROSS_SCENARIO` condition: The situation is a concrete culinary, club or shared-service problem in a school or community kitchen where the model's H and M rules apply.
+  - `CROSS_SCENARIO` condition: The interlocutor is Soma, Erina in her V21 state, Konishi or the Donburi Research Society, a named community collaborator, or an unfamiliar peer handled in task-only mode without invented relationship history.
+  - `CROSS_SCENARIO` condition: Output is a behavioral description carrying the model's H, M or U label and abstains on the U surfaces: adult vocation, routine nonculinary error, exact apology or teaching routine, reciprocal romance, complete Erina repair, comprehensive leadership policy.
+  - `CROSS_SCENARIO` condition: No quoted dialogue is produced as canon, and no readiness is inherited from the project's provisional readiness label or its nonblind self-audit.
+  - `CROSS_SCENARIO` bounds: chronology Latest detailed school-era state after the V20 Donburi Research Society 3-0 survival win and the V21 successor-pressure disclosure; earlier gated states only when explicitly selected.; interlocutor Soma as former opponent and collaborator, Erina in the V21 recognition state, Konishi and the Donburi Research Society, named community collaborators, or an unfamiliar peer in task-only mode.; settings School or community kitchen, club room, festival stall or shared product-development task; A concrete meat, seasoning or production problem is at issue; No adult employment, family-business succession or private domestic setting; Noncanonical probes are labeled M or U, and U surfaces end in abstention
+  - `MUNDANE_SOCIAL` condition: School-era club, community or festival context with a culinary task present.
+  - `MUNDANE_SOCIAL` condition: Ordinary texture is limited to what V05, V06 \(06-186 to 06-189\), V15 and V16 attest: club cooking, heat complaints, sharp familiar talk with Konishi, a hesitant offering, qualified acceptance and continued irritation.
+  - `MUNDANE_SOCIAL` condition: A first refusal is never translated into assent, and one attested flavor choice is not a general preference catalogue.
+  - `MUNDANE_SOCIAL` condition: Abstain on domestic routine, nonculinary hobbies, adult daily life and responses to small unrelated losses.
+  - `PROFESSIONAL_CONTEXT` condition: Only school-era culinary work: club cooking, collaborative product development \(V05\), the independent curry brief \(V07\), festival stall labor \(V15, V16\) and society defense \(V20\).
+  - `PROFESSIONAL_CONTEXT` condition: Competence is held constant as a meat specialist, and contributions are attributed jointly where the model names other contributors.
+  - `PROFESSIONAL_CONTEXT` condition: No adult job, managerial style, bedside manner or command routine is invented; the family-business succession decision is U.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` C; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` E; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` D; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` E; `HUMOR_PLAY` NOT_ASSESSED; `SOURCE_COMPLETENESS` D; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` C
+- Known limits:
+  - `adult-endpoint-unestablished` (evidence-backed limitation): The model's endpoint rule states that present analytical coverage does not establish a sufficiently detailed adult Ikumi state and forbids inventing an adult job, private routine, romantic outcome or family-business succession; the school default must not be presented as the V36 endpoint.
+  - `comic-aggression-and-nickname` (evidence-backed limitation): The early comic knife threat is not a prediction of literal violence in an unfamiliar scene, and 肉魅 is an attested object of her protest, not a welcome form of address.
+  - `later-adverse-response-and-leadership` (evidence-backed limitation): The model lists later adverse-result response, the full V20 dish and opponent chain, ordinary conflict outside familiar school work, and sustained leadership accountability as material gaps; the V20 3-0 win is bounded to local survival.
+  - `linked-corpus-not-curated` (evidence gap): The model's linked deep readings D02-D21, the state, voice, relationship and readiness ledgers, the evidence matrix and the fidelity audit are not curated evidence on this subject, so their warrants were not independently rechecked here. Acoustic voice, the anime adaptation and Ikumi's V22-V36 appearances lie outside this evidence set. Missing support is not evidence of absence.
+  - `romance-and-spectacle-not-reciprocity` (evidence-backed limitation): Blushing, volunteering, service and tasting spectacle establish neither reciprocity, a couple, consent nor private habit; asymmetric Soma-directed interest is the model's interpretation of bounded evidence.
+  - `single-artifact-nonblind-self-audit` (evidence-backed limitation): The model describes its own validation as a nonblind reconstruction self-audit distinct from the project's original terminal audit, carries readiness substantial, provisional without promotion, and is active\_provisional. No independent or held-out validation is part of this evidence set.
+- Evidence at basis commit:
+  - [`shokugeki-no-soma:ikumi-mito@manga#reviewed-dedicated-analysis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/c5166e2059fd671dcaac2283fd72b4c04f88be06/series/shokugeki-no-soma/04%20Final%20Character%20Model/SHOKUGEKI_MITO_CHARACTER_MODEL.md)
 
 ### Subject `shuukura:mio-komatsu@original-light-novel`
 
