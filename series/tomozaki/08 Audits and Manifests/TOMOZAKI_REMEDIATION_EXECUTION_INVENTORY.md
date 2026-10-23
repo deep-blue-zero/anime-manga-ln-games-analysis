@@ -1,8 +1,8 @@
 ---
 series: TOMOZAKI
 artifact_type: remediation_execution_inventory
-source_boundary: "Historical completed Japanese V01–V11 plus story-local V06.5/V08.5; additive V12 admission dated 2026-10-22, ADMITTED/UNREAD; analytical high-water mark remains V11"
-generation: V2.8
+source_boundary: "Historical completed Japanese V01–V11 plus story-local V06.5/V08.5; additive V12 witness dated 2026-10-22; source-facing/six-owner completion candidate with separate repository/publication gates"
+generation: V2.9
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -22,7 +22,7 @@ The owner first limited this work to identifying the analytical spine, then expr
 
 This inventory retains the original remaining-work identities and baseline deficiencies for continuity. The architecture and corpus map govern responsibility/readiness; the new audits record the actual R01–R03 source checks, correction propagation and bounded PASS. Sections 2–4 preserve the earlier dependency assessment, while §6 supplies current execution status, including the later R04 and R05 pair integrations.
 
-**Current authorization — 2026-10-22:** the owner authorizes one continuous campaign: the V12-only `continuous_sequential` source transaction (`authorized_start: V12`, `terminal_boundary: V12`), then the complete-corpus character-evidence/omission audit and R06–R12 literary responsibilities, followed after literary stabilization/release by justified derived reconstruction models with their own validation. V12 is **ADMITTED / UNREAD**; the completed high-water mark remains **V11 plus separately routed V06.5/V08.5**. The [prospective entering snapshot](TOMOZAKI_V12_PROSPECTIVE_ENTERING_SNAPSHOT.md) preserves the pre-content horizon, and the [source-admission audit](TOMOZAKI_V12_SOURCE_ADMISSION_AUDIT.md) records the corrected witness identity and metadata-only verification. Accepted R01–R05 work remains valid at its V11 scope. Source completion, R06 role decisions, specialist/convergence/final-synthesis/release completion and model validation remain pending; no further narrative source or global specialist-owned output is authorized.
+**Current authorization — 2026-10-22:** the owner authorizes one continuous campaign: the V12-only `continuous_sequential` source transaction (`authorized_start: V12`, `terminal_boundary: V12`), then the complete-corpus character-evidence/omission audit and R06–R12 literary responsibilities, followed after literary stabilization/release by justified derived reconstruction models with their own validation. V12 source consultation and substantive six-owner review are now complete; the [completion audit](TOMOZAKI_V12_SEQUENTIAL_COMPLETION_AUDIT.md) records actual source-run/repository/publication certification separately. The proposed atomic boundary is **V12 plus separately routed V06.5/V08.5**; no commit or downstream gate is inferred from draft existence. The [prospective entering snapshot](TOMOZAKI_V12_PROSPECTIVE_ENTERING_SNAPSHOT.md) preserves the pre-content horizon, and the [source-admission audit](TOMOZAKI_V12_SOURCE_ADMISSION_AUDIT.md) records the corrected witness identity and metadata-only verification. Accepted R01–R05 work remains valid at its V11 scope. Source completion, R06 role decisions, specialist/convergence/final-synthesis/release completion and model validation remain pending; no further narrative source or global specialist-owned output is authorized.
 
 ## 1. Audited resumption baseline
 
@@ -188,3 +188,10 @@ The [Mimimi integration review](NANAMI_MINAMI_R05_INTEGRATION_REVIEW.md) records
 The [path and validation manifest](NANAMI_MINAMI_R05_PATH_AND_VALIDATION_MANIFEST.json) binds this authored delta and its preservation checks. Main’s independently governed catalog now discovers seven subjects: the earlier Tomozaki/Hinami/Mimimi effort records and four dedicated provisional-study records for Kikuchi/Tama/Mizusawa/Yuzu. That curation scope does not certify the separate local literary-role decisions; catalog-status review remains with the designated curation agent, and this author has no global catalog write responsibility.
 
 R04 and R05 now pass at their respective two-monograph scopes. Tama, Mizusawa and Yuzu remain provisional for R06 adjudication; R07–R09 specialists, R10 convergence, R11 drafting and whole-corpus R12 release remain unfinished. Mimimi’s illustrative scenarios confer no derived-model authority. Publication checks attach to the exact resulting repository commit and remain distinct from literary acceptance.
+
+
+### 6.5 V12 source transaction and remaining continuous campaign — 2026-10-22
+
+All 42 spine members, 5,244 paragraphs/5,255 body units, all 26 actual images, navigation and ending paratext of the corrected local witness were inspected. The V12 reading adjudicates 40 inherited claims and 14 prospective questions, defines 40 new claims, and hands off a bounded final state. All six cumulative owners receive targeted current extensions; 30 CS/16 REL/22 SOC/24 JVL/29 EFFORT identities, 36 CRI families and 15 OQ families are preserved. CRI’s resulting universe is 359 claims/154 questions, promoted 160/44 and local 199/110. Independent review corrected final self-statement direction, unproven talk improvisation, the unnarrated-match boundary and recipient-pressure nuances. Prior freezes, admission receipt and seven character candidates remain preserved.
+
+The completion audit owns the actual staged validation, exact head, publication and integration receipt. Main must first accept the active admission checkpoint; the author may not merge its own PR or manufacture a completion proof from an invalid commit. This source candidate does not complete R06–R12. After V12 freezes, perform full-corpus character coverage/omission audit and R06 scope decisions, update four accepted monographs, write mandatory dyads/ensemble and seven themes, converge adversarially, revise full-series synthesis LAST, validate literary release, then create justified derived models. Formal terminal governance closure remains a separately authorized owner-merged transaction.
