@@ -2,10 +2,10 @@
 series: RE_ZERO
 artifact_type: character_reconstruction_protocol
 scope: SOURCE_GROUNDED_CONDITIONAL_CHARACTER_RECONSTRUCTION
-generation: V1.26
+generation: V1.28
 status: canonical
 release_state: mutable_active
-current_analytical_horizon: V16
+current_analytical_horizon: V17
 recommended_reasoning_class: DEEP_SYNTHESIS
 reasoning_policy: MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md
 supersedes: []
@@ -19,13 +19,15 @@ do_not_use_as_current_authority: false
 
 It is subordinate to method, architecture, witness protocol and live source lock. It neither admits sources nor rewrites freezes.
 
-This protocol governs source-grounded conditional reconstruction, not source admission or fidelity by artifact count. Master owns person/readiness; five specialist owners retain conditioning state. Current source-facing horizon is V16 and its complete publication gate is closed; this Ferris derived operation adds no source unit or current claim generation. E018 square death18→actual livingE019 park arrival gives19arrived segments; common year/travel/family history survives, later square does not become others' memory. Subaru is acutely horrified and has not yet recognized narrator十数分 timing. Rem unresponsive/Puck dormant/Gate destroyed and small daily mana remain distinct.
+Source horizonV17 is fully consumed and its complete gatecfad8d70e5371e86ca73611100aa3d605106a6f2 is closed. Verified committed high-water isV17; current371claims/five owners keep E021/20observed deaths21arrived segments, K601/M382/I325/R125/RT288. Subaru's severed thigh/black-blood/flame aftermath, Emilia's coercive captivity and Mimi's nonclosing injury remain unresolved; prior-day backfill/ordinary waking is not a return.
 
-All ten prior Subaru10/Otto13/Emilia14/Beatrice15/Garfiel15/Ram15/Roswaal15/Julius16/Wilhelm16/Crusch16 pairs/scopes/defaults/local documentary grades remain exact/full-gated, latest predecessor9131ffb6. V16 reconciliation is not a horizon extension or independent/runtime/global benchmark. Ram chronology staysOPEN; currentC116/M344 prohibit M178/M236's old Frederica→Garfiel speaking/healing inference without rewriting frozen findings. Roswaal's actual source/recipient/agency qualifications remain binding.
+Mimi's [V01–V17 model](../05%20Character%20Analysis/REZERO_MIMI_V01_V17_CHARACTER_MODEL.md) and [separate fidelity review](../08%20Audits%20and%20Manifests/REZERO_MIMI_V01_V17_FIDELITY_REVIEW.md) now implement the earned responsibility at MONOGRAPH_READY/local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY. All19 existing dimensions/23controls/8NONCANONICAL_PROBE applications were actually applied after whole saved-draft/source reconciliation, ten grouped findings/eighteen repairs and complete correction/inverse review; the separate review was wholly read and its temporary-support wording clarified. This is not independent, held-out, runtime, inherited or global assessment.
 
-V16 earned four V01–V16 person constructions, now all implemented with separate actually applied bounded documentary reviews. Julius16/Wilhelm16/Crusch16 gates are closed. Ferris's integrated model/separate nineteen-dimension same-analyst nonblind documentary review return local PASS_WITH_BOUND with latest interrupted-breakfast/memoryless-Crusch default and explicit care/coercion, former-state, holder, ordinary, Japanese, competence and counterevidence limits. Its own complete gate remains before unopened V17. Other people retain named narrower cases; no prominence/copy-count promotion, perfect-biography demand or invented E019 placement.
+Default is latest livingE021 unconscious under critical nonclosing chest-wound treatment, physical hemostasis/risky triplet sharing. No new awake reply, treatment assent, staff recovery or cure is supplied. An explicit earlier waking phase must restore its own seven coordinates. Preserve actual ordinary pleasure/help, imperfect care, named sibling/patron competence, intrusive contact, mistaken guesses, sulking, direct warning/criticism and explicit affection without proved reciprocity. Approximate V16 age evidence remains; exact age/full surname/parental cause/finder identity and private thought remain unknown.
 
-No new selector axis/field, formal fidelity dimension, sixth owner, evidence/ordinary/voice/readiness file, finalspecialist or Arc5-endcheckpoint is earned. All39members/77deliveries/3805positions/32image references reached V16 EOF before analysis; exact V17seal53ac9eb4456e84f00e1e2c8fbeef9b2d4910dd2f873f93143652cbc3854c724e remains fixed through four derived operations. Active terminalV43/EVOLVING/no ordinary pause unchanged. Earlier opening text is preserved verbatim in§18; formal§§19–21 remain exact.
+All42 entering protected artifacts/eleven earlier model-review pairs retain exact bytes/scopes/defaults/local grades. Garfiel's V17 reconciliation does not rewrite his V10–V15 pair. Ram chronologyOPEN/C116-M344 Frederica-subject control and Roswaal's source/recipient/agency qualifiers stay binding. The [entering opening](../REZERO_PROJECT_CHANGELOG.md#mimi17-maintained-state-preimages) is historical; formal§§19–21 and all existing selector/test contracts remain exact.
+
+Next source is V18 only after this Mimi pair's own complete publication/readback/exact-head all-discovered full audit/trusted reporter/housekeeping/later-native gate. Exact V18body60Q/10P/15685bytes/SHA3cb3c253cb4ea264a72b9dc376c6d40f7aec608648c5e5a2fac97a229bcbac7d remains fixed. ActiveV43/EVOLVING/no routine pause and unchanged43-original lock/V41exception/dated gaps remain. No new source, field, owner/index or global-agent authority follows.
 
 The protocol standardizes **responsibilities, not file count or headings**. A compact monograph may satisfy it when evidence is narrow. A richer packet may divide the responsibilities among current-state, relationship, ordinary-life, voice, evidence, and fidelity artifacts only after each independent retrieval burden is demonstrated.
 
@@ -457,6 +459,8 @@ V14/Emilia14, V15 at98acb720, Arc04 at6bce1604, Beatrice15 at6be67f9 and Garfiel
 
 ### Post-V16 independent construction decisions and preserved entering opening
 
+Historical V16 construction/implementation record: all four derived pairs and their complete gates are subsequently closed, latest Ferris38bfed01. The old conditions below preserve their then-current scope; the V17 decision near the end of §18/master§13 governs the latest readiness duty, not a new pending predecessor gate.
+
 
 The separate Arc04 checkpoint, V16 source gate and ten prior model/review pairs have completed their gates, latest Crusch16 at9131ffb6. Their scopes/defaults/local grades and39 older artifacts remain exact. Ferris16 now has its integrated model and separate actually applied local documentary review; its own complete publication gate is still required before V17. Ram chronology stays OPEN; the current Frederica/Garfiel subject correction and Roswaal qualifiers remain mandatory. Protocol§18 requires qualitative cross-state, ordinary, relational, voice, failure and abstention coverage, not prominence, symmetry, counts or perfect biography.
 
@@ -541,6 +545,39 @@ V14/Emilia14, V15/Arc04/Beatrice15/Garfiel15 and Ram15 atc6388791 have complete 
 The protocol standardizes **responsibilities, not file count or headings**. A compact monograph may satisfy it when evidence is narrow. A richer packet may divide the responsibilities among current-state, relationship, ordinary-life, voice, evidence, and fidelity artifacts only after each independent retrieval burden is demonstrated.
 
 ````````
+
+### Post-V17 Mimi construction earned and exact entering opening retained
+
+The current readiness owner is master§13, with the complete source-facing decision in V17§15. The new Mimi responsibility is a bounded V01–V17 model plus a separate actually applied review after V17's own full gate; no artifact or verdict exists merely because readiness is earned. Intended homes are `05 Character Analysis/REZERO_MIMI_V01_V17_CHARACTER_MODEL.md` and `08 Audits and Manifests/REZERO_MIMI_V01_V17_FIDELITY_REVIEW.md`, not links to nonexistent files.
+
+Implementation must distinguish own ordinary/recipient choices, report versus proved parental motive, explicit one-sided affection, earlier wrist harm/apology, revised proximity, warning/refusal and critically injured default. The current unconscious body cannot generate a new spoken answer without an explicitly selected supported waking override. Her help, combat and family loyalty are neither an all-gentle mascot nor limitless resilience; Garfiel's accepted comfort does not establish reciprocal romance, permanent repair or assent to his concealed escalation.
+
+Reconcile exact earlier Japanese/design responsibilities, implement all seven selectors, conditional rules/ordinary/recipient/voice/knowledge/care/failure/negative controls and NONCANONICAL_PROBE applications, then separately apply every existing §19 dimension. Report same-analyst/nonblind/documentary scope honestly; no independent/held-out/runtime/global result is implied. Findings can require repair, targeted source review, abstention or readiness revision rather than a guaranteed pass. No formal test dimension or reserved schema is changed by this source-facing decision.
+
+The exact incoming protocol opening below is historical. It neither reopens the closed Ferris gate nor changes earlier reviewed model scopes/defaults/grades.
+
+````````markdown
+## 0. Authority and present boundary
+
+It is subordinate to method, architecture, witness protocol and live source lock. It neither admits sources nor rewrites freezes.
+
+This protocol governs source-grounded conditional reconstruction, not source admission or fidelity by artifact count. Master owns person/readiness; five specialist owners retain conditioning state. Current source-facing horizon is V16 and its complete publication gate is closed; this Ferris derived operation adds no source unit or current claim generation. E018 square death18→actual livingE019 park arrival gives19arrived segments; common year/travel/family history survives, later square does not become others' memory. Subaru is acutely horrified and has not yet recognized narrator十数分 timing. Rem unresponsive/Puck dormant/Gate destroyed and small daily mana remain distinct.
+
+All ten prior Subaru10/Otto13/Emilia14/Beatrice15/Garfiel15/Ram15/Roswaal15/Julius16/Wilhelm16/Crusch16 pairs/scopes/defaults/local documentary grades remain exact/full-gated, latest predecessor9131ffb6. V16 reconciliation is not a horizon extension or independent/runtime/global benchmark. Ram chronology staysOPEN; currentC116/M344 prohibit M178/M236's old Frederica→Garfiel speaking/healing inference without rewriting frozen findings. Roswaal's actual source/recipient/agency qualifications remain binding.
+
+V16 earned four V01–V16 person constructions, now all implemented with separate actually applied bounded documentary reviews. Julius16/Wilhelm16/Crusch16 gates are closed. Ferris's integrated model/separate nineteen-dimension same-analyst nonblind documentary review return local PASS_WITH_BOUND with latest interrupted-breakfast/memoryless-Crusch default and explicit care/coercion, former-state, holder, ordinary, Japanese, competence and counterevidence limits. Its own complete gate remains before unopened V17. Other people retain named narrower cases; no prominence/copy-count promotion, perfect-biography demand or invented E019 placement.
+
+No new selector axis/field, formal fidelity dimension, sixth owner, evidence/ordinary/voice/readiness file, finalspecialist or Arc5-endcheckpoint is earned. All39members/77deliveries/3805positions/32image references reached V16 EOF before analysis; exact V17seal53ac9eb4456e84f00e1e2c8fbeef9b2d4910dd2f873f93143652cbc3854c724e remains fixed through four derived operations. Active terminalV43/EVOLVING/no ordinary pause unchanged. Earlier opening text is preserved verbatim in§18; formal§§19–21 remain exact.
+
+The protocol standardizes **responsibilities, not file count or headings**. A compact monograph may satisfy it when evidence is narrow. A richer packet may divide the responsibilities among current-state, relationship, ordinary-life, voice, evidence, and fidelity artifacts only after each independent retrieval burden is demonstrated.
+
+````````
+
+### Post-V17 Mimi derived-use implementation
+
+The preceding source-facing construction trigger is fulfilled by the V01–V17 model/separate scoped review, actual19-dimension same-analyst nonblind documentary PASS_WITH_BOUND after ten grouped findings/eighteen exact edits. Positive ordinary/recipient/voice evidence and adverse care/caution/corpse/contact cases remain selectable; default is livingunconsciousE021 with temporary support, not new speech/assent/cure. Master§13 owns readiness and older42 artifacts/eleven scopes/defaults/grades remain exact.
+
+35bounded source revisits/1289positions=1288TEXT/55669base characters plus one image reference are not new whole-volume/image credit. The model's20rules/23controls/8NONCANONICAL_PROBE applications are traceability, not an evidence-count threshold. Whole saved-draft/correction/native inverse and separate-review readback support only the named local result; no independent/held-out/runtime/global assessment is claimed. This pair's own full publication gate precedes unchanged sealedV18, then active continuousV43. Formal§§19–21 below are not altered or extended.
 
 ## 19. First mature-character fidelity audit
 
