@@ -3,7 +3,7 @@ series: TOMOZAKI
 artifact_type: source_lock_and_inventory
 scope: JP_LIGHT_NOVEL_EPUB_CORPUS
 source_audit_date: 2026-08-29
-generation: V0.2
+generation: V0.3
 status: canonical
 release_state: mutable_active
 ---
@@ -96,6 +96,10 @@ The local checksum was independently recomputed and is the value explicitly appr
 
 The current admitted source boundary is therefore fourteen EPUB witnesses: main V01–V12 plus separately routed V06.5 and V08.5, retaining the V07 Special Edition distinction. Only the thirteen prior witnesses have completed source-facing readings at this entering checkpoint. Before V12 narrative or image consultation, freeze the entering V11 claims, predictions, alternatives, actor knowledge, and open questions. V12 completion requires the complete source transaction and affected cumulative-owner updates; admission does not advance that high-water mark.
 
+### 4.2 V12 subsequent consultation and atomic completion candidate — 2026-10-22
+
+The admission table above preserves the entering checkpoint. Subsequent consultation of the same owner-approved c7c local witness covered all 42 linear spine members, 5,244 all-HTML paragraphs/5,255 body units, all 26 actual images, nonspine navigation and full afterword/profile/colophon; eleven publisher advertising pages supply no new narrative. The [V12 reading](../02%20Sequential%20Readings/TOMOZAKI_V12_DEEP_READING.md) and [completion audit](../08%20Audits%20and%20Manifests/TOMOZAKI_V12_SEQUENTIAL_COMPLETION_AUDIT.md) own the source-facing result and six-owner/repository gate receipt. No raw Drive payload identity, new source witness or successor after-story is inferred. Historical thirteen-witness identities and admission provenance remain unchanged.
+
 ## 5. Main-chain routing
 
 The prospective numbered reading chain is:
@@ -104,7 +108,7 @@ The prospective numbered reading chain is:
 
 Repository deep-reading filenames should use:
 
-`TOMOZAKI_V01_DEEP_READING.md` through `TOMOZAKI_V12_DEEP_READING.md`. V12 is admitted but unread at the 2026-10-22 entering checkpoint; the completed high-water mark remains V11.
+`TOMOZAKI_V01_DEEP_READING.md` through `TOMOZAKI_V12_DEEP_READING.md`. The earlier V12 admission was unread at its entering checkpoint. The current V12 completion candidate and certification limits are routed in §4.2 and the canonical map.
 
 Volumes V06.5 and V08.5 are available source witnesses but are not silently inserted into the integer-numbered chain. Their analytical placement must be explicitly decided from publication/diegetic context before consultation, then recorded without rewriting earlier prospective freezes.
 

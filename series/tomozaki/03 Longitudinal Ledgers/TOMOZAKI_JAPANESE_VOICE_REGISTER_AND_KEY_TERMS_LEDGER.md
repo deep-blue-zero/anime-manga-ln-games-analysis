@@ -1,23 +1,24 @@
 ---
 series: TOMOZAKI
 artifact_type: japanese_voice_register_and_key_terms_ledger
-scope: JP_LIGHT_NOVEL_V01-V11_PLUS_ROUTED_V06_5_AND_V08_5
-source_boundary: "Locked Japanese V01–V11 plus story-local V06.5/V08.5; exact-source samples are selective and edition-bound"
-analytical_boundary: V11_PLUS_ROUTED_SUPPLEMENTS
+scope: JP_LIGHT_NOVEL_V01-V12_PLUS_ROUTED_V06_5_AND_V08_5
+source_boundary: "Locked Japanese V01–V12 plus story-local V06.5/V08.5; prior selective exact-source samples retained, with complete V12 consultation and bounded attestation additions"
+analytical_boundary: V12_PLUS_ROUTED_SUPPLEMENTS
 analytical_generation: V2_REMEDIATION
-generation: V1.3
+generation: V1.4_V12
 status: canonical
 release_state: mutable_active
 created: "2026-09-13"
-review_state: INDEPENDENT_REVIEW_PASS
+review_state: PRIOR_R01_R05_AND_V12_SIX_OWNER_SEMANTIC_REVIEW_AND_AUTHOR_PREFLIGHT_PASS_PUBLICATION_SEPARATE
 recommended_reasoning_class: DEEP_SYNTHESIS
 execution_reasoning_control: Max
+v12_execution_note: "The inherited Max field records the prior remediation setting; no new selectable Max control is certified. V12 was read completely after the committed prospective freeze."
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Tomozaki — Japanese voice, register, and key terms through V11
+# Tomozaki — Japanese voice, register, and key terms through V12
 
 ## 1. Bounded cumulative responsibility
 
@@ -28,6 +29,8 @@ The governing [method](../00%20Frameworks%20and%20Methods/TOMOZAKI_ANALYTICAL_ME
 The [targeted source-locator audit](../08%20Audits%20and%20Manifests/TOMOZAKI_TARGETED_SOURCE_LOCATOR_AUDIT.md) supplies the witness checks, exact package-member/P convention, and **LOC** identifiers cited here. All thirteen hashes/byte sizes and CRC checks passed. Independent parent review examined source context across all twelve escalation queues and ten supplemental records, including the V08 refusal call; it also inspected and reran the 92-marker verification. Two recipient corrections from that review are incorporated in JVL-02 and JVL-18. **Independent source/semantic review: PASS.** This does not certify repository publication or close the literary questions retained below.
 
 **What “voice” means here:** literary prose voice, represented dialogue, written messages, and explicitly narrated delivery. No audio performance was admitted. Descriptions such as trembling, teasing, or matter-of-fact concern what the prose represents, not an independently heard actor's performance. Quoted Japanese is minimal diagnostic wording, not a transcript; English glosses are analytical paraphrases, not an official translation.
+
+**V12 currentness:** the original twenty-four JVL identities and accepted R04/R05 enrichments remain. §13 extends them with exact V12 recipient/layer evidence and new contextual terms, including the explicit Hinami focalizer shift and semantic ruby. The earlier locator audit's independent PASS certifies its own V11 retrieval scope. The [V12 completion audit](../08%20Audits%20and%20Manifests/TOMOZAKI_V12_SEQUENTIAL_COMPLETION_AUDIT.md) separately records complete V12 consultation, independent review and combined six-owner semantic acceptance. The staged source transaction passed author preflight; exact publication and integration remain separate gates.
 
 ## 2. Evidence and temporal controls
 
@@ -43,7 +46,7 @@ Three narrative boundaries are especially important:
 - **Retrospective interiority versus complete reported transcript.** V11's disclosure-framed family history changes from third-person Aoi-centered narration into first-person interiority. Reader access exceeds what can automatically be certified as verbatim speech. JVL-08 retains both modes.
 - **Authored fiction versus its model.** Kikuchi's Alcia dialogue and inner scenes remain an authored hypothesis even where later evidence supports parts of it. JVL-13 cannot be quoted as Hinami's testimony.
 
-The main developmental chain remains V01→V11. V06.5/V08.5 retain unit-local chronology; their private voices cannot be transplanted into an earlier numbered actor's knowledge. V08.5's NO NAME sequence precedes the initial meeting by its own narration. V06.5's Kikuchi diary is image-only and its existing reading remains the evidence owner; this operation did not re-OCR or re-view those images and adds no purported exact diary quotation. Parallel/adaptation-derived supplemental material supplies no mainline speech evidence here.
+The main developmental chain now reaches V01→V12; §13 owns the new V12 attestation and current adjudication, while the earlier rows retain their stated historical scene boundaries. V06.5/V08.5 retain unit-local chronology; their private voices cannot be transplanted into an earlier numbered actor's knowledge. V08.5's NO NAME sequence precedes the initial meeting by its own narration. V06.5's Kikuchi diary is image-only and its existing reading remains the evidence owner; this operation did not re-OCR or re-view those images and adds no purported exact diary quotation. Parallel/adaptation-derived supplemental material supplies no mainline speech evidence here.
 
 ## 3. Tomozaki Fumiya — observed thought, trained form, and widening authority claims
 
@@ -87,7 +90,7 @@ Direct primary context, DR01 §9, SR08.5 §8.1 and DR06 §4 supply these additio
 | JVL-12 | V07 written self-presentation and romantic encounter; V09 addressed choice | SNS `作家志望` — LOC-V05; metaphorical acceptance — LOC-08A; `選ばせてください` — LOC-08B | A written vocational label, a fictional analogy in dialogue, and a polite request perform distinct acts. **STRENGTHEN agency:** V09 explicitly gives her a choosing position. Politeness is not evidence of absent desire; the request does not mean she has already obtained every future governance rule. |
 | JVL-13 | V11 conversation with Haruka, subsequent self-report, and posted fiction | `神様を失ってしまった` — LOC-10A; `抉ってしまった` — LOC-10B; Alcia's `私は信じられるものがない` — LOC-10C | The first is Kikuchi's interpretation addressed to a living relative; the second acknowledges harm; the third is authored character speech. **PRESERVE boundary:** the Alcia line cannot be presented as Hinami's direct confession. Observed tears establish impact; Tomozaki's specific causal reading remains inference. |
 | JVL-14 | V11 encounter with Rena and later call with Tomozaki | `やめてください`, `彼女なので` — LOC-11D; `届いてないんですね` — LOC-11E | Hesitation and polite endings accompany direct resistance and a statement of failed reception. **STRENGTHEN stated agency / REVISE action precision:** the call ends after her words, but who disconnects is not specified. A forceful boundary does not require a wholly new personality or register. |
-| JVL-15 | V11 creative-reason inquiry and renewed plan; speech to Tomozaki | `理由がない`; `私だけの理由` — LOC-10B/D | Kikuchi states the missing further reason and distinguishes the reason received from Tomozaki from the one she still wants to find. **OPEN:** she has not completed self-authored vocational justification merely by agreeing to write again. |
+| JVL-15 | V11 creative-reason inquiry and renewed plan; later V12 self-authored answer to Fumiya | `理由がない`; `私だけの理由` — LOC-10B/D; V12 `item/xhtml/p-0026.xhtml` P121–163 | **REVISE at V12:** the V11 further reason was genuinely OPEN and is retained in §5/§5.1 history. V12 now gives her stated purpose: write something others can believe with. This is her owned present answer after observation and prayer, not proof of literary correctness, professional success or an unchanging future vocation. |
 
 These samples establish neither that Kikuchi is uniformly timid nor that she becomes uniformly direct. V07's request is made by Tomozaki and accepted through a shared interpretive vocabulary; V09 makes her selection explicit. V11 shows that precise, polite interpretation can wound a recipient and that a stammering refusal can protect an interest. The relevant variables are the proposition, access, answer space, and effect, not a ranking of soft speech below blunt speech. Ordinary written self-presentation has an independent place in that development; it must not be recast as spoken dialogue.
 
@@ -191,10 +194,77 @@ For a later admitted source or new language-dependent claim:
 6. retain genuinely OPEN intent, consent, motive, and source tensions; and
 7. review any proposed habitual-register claim against multiple recipients, states, and counterexamples before promotion.
 
-No reconstruction/simulation model is created by this ledger. No speech style is a lie detector, no exact quotation is evidence beyond its scene, and no current boundary becomes a completed character arc merely because the ledger has reached V11.
+No reconstruction/simulation model is created by this ledger. No speech style is a lie detector, no exact quotation is evidence beyond its scene, and reaching V12 does not certify permanent recovery, a complete idiolect, or a later career/relationship outcome.
 
 V1.1 adds independently checked R04 Hinami context under the existing JVL-06/09 responsibilities (§4.1). The original twenty-four rows, conceptual tables, source-locator audit and R01–R03 receipts are preserved.
 
 V1.2 adds reviewed Kikuchi R05 context in §5.1 under existing JVL-12/13/15 responsibilities. The original twenty-four rows and earlier receipts remain preserved; no complete speech model follows.
 
 V1.3 adds the independently reviewed Mimimi §6.1 context. All original JVL rows, prior Fumiya/Hinami/Kikuchi context and historical source-audit receipts remain intact.
+
+## 13. V12 — attested recipient variation, authored voices and revised key terms
+
+### 13.1 Source, display and current-state controls
+
+V12 was read completely in Japanese, in source order, after the committed [entering snapshot](../08%20Audits%20and%20Manifests/TOMOZAKI_V12_PROSPECTIVE_ENTERING_SNAPSHOT.md). All locators in this section refer to `item/xhtml/p-NNNN.xhtml` in `Bottom-Tier Character Tomozaki - Volume 12.epub`, SHA-256 `4b1b7242e5e92e015e0f9d138a43c6f7f06452761bd697ebc2df2c7195287c7c`. **P includes empty and image paragraphs**, reset per member; non-p headings were separately retained. Semantic ruby was displayed rather than discarded. The [source-completion audit](../08%20Audits%20and%20Manifests/TOMOZAKI_V12_SEQUENTIAL_COMPLETION_AUDIT.md) gives the full 42-member/26-image receipt and publication limitations.
+
+The added evidence does not create a frequency census, an audio-performance record, a new idiolect generator or later actor knowledge. Short forms below are diagnostic attestation; surrounding propositions are paraphrased. The existing JVL-01–24 remain stable identities. In particular JVL-15's current answer changes, while its V11 uncertainty remains historically true.
+
+### 13.2 Narrative person, fictional performance and semantic ruby
+
+| Layer and access | Attested distinction / exact locus | Interpretive consequence and limit |
+|---|---|---|
+| Fumiya's narration and selective disclosure | p0011 P349–370 distinguishes the doubts he tells Mizusawa from what he feels able to say before Kikuchi. | Recipient-conditioned honesty differs from one universal 'true voice'. His recognition of Mizusawa's loneliness before this exchange is a reading of Sharif, not already a confession from Mizusawa. |
+| Kikuchi performing Alcia with Mizusawa | p0013 P200–277: her ordinarily hesitant/polite speech becomes lower, direct, without extra endings in the narrated performance, then she returns to her own voice and writes. | Source-represented delivery matters, but this is author-proposed improvisation with a reluctant modeled contributor: Mizusawa looks to Fumiya for rescue, receives none, and assents to one attempt under social pressure (p0013 P209–220). It does not make Hinami present or certify her answers. |
+| Hinami's first-person interior | p0022 P3–110 begins with `私`; p0024 P3–16 returns to Fumiya's `俺`. Hinami's p0022 P104–110 private self-hate whisper is believed unheard by him. | New direct reader access is not a long reported speech to Fumiya. Her room/scroll trigger, self-disgust and evaluations of peers cannot be distributed automatically to all actors. |
+| Hinami evaluating Mimimi through Nana | p0022 P291–347 contrasts the Nana she reads with her earlier low estimate of real Mimimi. | 'Inferior copy'/appeasing belongs to Hinami's limited prior viewpoint and is challenged by present identification; it is not the ledger's settled Mimimi personality model. |
+| Fictional/reader identity overlay | p0022 P867–871 gives **`アルシア` read as `私`**, **`私` read as `アルシア`**, and **`渚` read as `ナギサ`**. | Preserve both base and reading. The prose stages identification and imaginative contact rather than switching to an independent real-world Nagisa witness. |
+| Magic/story overlay | p0022 P947–979, especially P959: **`魔法` read as `ものがたり`**. | The semantic reading makes story the proposed magic. It does not establish a supernatural event or turn the fictional speech into verified last words. |
+| Mother's phrase in a different received voice | p0022 P970–979: birth gratitude and `おにただっ`; compare JVL-06's earlier self-reported habit and the p0022 maternal recollection. | The effect depends on attribution, context, grief, and reader agency. The reused birth phrase is not a wholly new verbal formula that automatically cures Hinami. The childish ending is part of imagined Nagisa's authored voice, not newly recovered historical speech. |
+
+The fictional Nagisa is not real Nagisa under a transparent transcript rule. p0022 P504–512 explicitly leaves her final step unknowable, and p0026 P117 keeps the unknown actual feeling after the novel has had an effect. Semantic ruby dramatizes that boundary's emotional crossing without removing the evidentiary boundary.
+
+### 13.3 Existing JVL identities — V12 recipient and ordinary-life extensions
+
+| Existing owner / subject | State, recipient and form | Current disposition / required limit |
+|---|---|---|
+| JVL-04/05 — **Tomozaki Fumiya** | To Tama he decides to speak directly about the cake; with exhausted Kikuchi he renegotiates a visit after asking whether she accepts, then invites her on a date. With Mizusawa he models lightness as a way to enable truthful conversation. p0014 P80–106, P194–206, P303–326; p0011 P455–471. | **STRENGTHEN differentiated means:** deliberate light speech can carry sincere care. No isolated imperative/request proves universal coercion or consent. The existing Haruka-facing liking/unspoken qualification distinction remains unchanged. |
+| JVL-05/11 — **Fumiya and Hinami** | p0026 P15–23 asks present self-liking; Hinami admits a little with annoyed/blunt phrasing. P40–56 first offers replacement Nagisa then explicitly retracts the cheap substitute. P266–284 retains competitive banter: at P267 Hinami says she has stopped clinging to correctness, and Fumiya proposes enjoyment at P281. Her reply describes herself; it is not advice that he stop. | **REVISE crisis endpoint:** the V11 bad-game verdict is not timeless ontology; present affection/play becomes available. Her self-liking may be temporary; the story's long-term support is Fumiya's confidence, not demonstrated permanence. No match result is supplied. |
+| JVL-06/07/11 — **Hinami Aoi** | p0022 inward `あの男` and later gamer-name references register distance, recognition and guarded expectation. Final p0026 P220–238 uses annoyed familiar plain speech with peers; p0026 P222 is Fumiya's lip-reading across a room. | **STRENGTHEN context / preserve access:** no timeless 'real Hinami always speaks rudely' rule. Distant lip movement is not independently heard dialogue. Public performance remains possible without proof every private/public tension disappeared. |
+| JVL-12/14/15 — **Kikuchi Fuka** | `文也くん` with polite requests, refusals and writing self-account; p0011 P69–113 interrupts his sole-rescuer posture. p0013 P134–137 briefly echoes Mimimi's casual reassurance then restores polite grammar. The solo refusal is **p0013 P583–590**. | **STRENGTHEN polite agency:** soft form does not erase correction, desire, boundary or initiative. The solo journey's boundary is later renegotiated by telephone, not silently treated as waived. p0014 P194–206. |
+| JVL-12/15 — **Kikuchi ordinary voice** | p0016 P53–81 corrects aquamarine, competes in poetic description and continues after Fumiya's surrender; P172–180 he names this as a liked personal trait. p0026 P106–120 she unusually orders chamomile tea. | **STRENGTHEN repertoire:** playful, competitive and generous behavior is not reducible to comfort labor. 'Unusually' blocks inventing a permanent tea preference. These scenes are not a corpus-wide measure of joking frequency. |
+| JVL-16–18 — **Mimimi** | With Kikuchi/Fumiya she trusts Tama not to leave abruptly but fears being unable to like herself during physical separation without seeking another such support; she also chooses self-respect over taking a vulnerable love interest. p0013 P57–82, P103–169; the decisive self-ownership contrast is P143–154. Her joking reply about difficult terminology at P159–165 changes register without withdrawing the serious proposition. | **REVISE self-worth state / retain cost:** she can currently like the self who acted this way. This does not erase romantic feeling, complete a future stopping rule or invalidate Tama's earlier particular recognition. |
+| JVL-19/20 — **Tama** | Customer-service calls and apology differ from plain `友崎`/close after-hours conversation; she cannot dismiss the cake with `まあいっか`, names hero imitation and her own `歪んでる`. p0014 P30–154. | **STRENGTHEN recipient range:** competent service, direct preference, borrowed ideal and acknowledged social costs coexist. No future shop inheritance, diagnosis or permanently fixed inflexibility follows. |
+| JVL-21/22 — **Mizusawa** | Calls Fumiya `文也`, jokes about a confession while eating on work break, then unusually speaks regret without usual joke. P417 says Aoi was **also** a motive. p0011 P331–441; P471–507 moves through awkward best-friend naming to direct thanks and chosen help. | **REVISE motive precision / STRENGTHEN vulnerability:** one strategic motive does not exhaust friendship. Narrator cannot certify whether his casual permission to share stories hides discomfort. No new confession/romantic answer from Hinami follows. |
+| JVL-23/24 — **Yuzu** | Delivered manuscript is a shown act with Nakamura/Takei, p0022 P124–158. Final wave is visible; added words are obscured by Takei, p0026 P230. | **PRESERVE attribution / NO NEW EXACT UTTERANCE:** do not reconstruct inaudible words, a new refusal rule or a complete private voice. |
+
+The manuscript-sharing, solo-trip refusal, renegotiated visit and date requests are different permissions and cannot be merged into blanket agreement. The solo-trip refusal belongs to p0013 P583–590; the later phone agreement is p0014 P194–206.
+
+### 13.4 Supporting speakers, local witnesses and authority
+
+| Named subject / local field | Attested communicative variation | Bounded use |
+|---|---|---|
+| **Takei** | Loud delivery penetrates Hinami's curtains despite her refusal to engage; later encouragement fills the gym. p0022 P137–158; p0026 P228–230. | His often awkward loudness has particular communicative reach. This does not universally make intrusion harmless or noise wise; Yuzu's simultaneous words are lost. |
+| **Hinami Haruka** | First practical delivery, then tearful urgent appeal naming `渚お姉ちゃん`, then DM to Fumiya. p0022 P151–226; p0024 P9–12. | Her emotional pressure and independent readership matter. No full causal knowledge, prior informed anticipation or universal authority over Aoi follows. |
+| **Umayahara Mitsu / 馬屋原ミツ** | Imperatives, `あんた` and `あの男`, repeated minimal assent/correction, refusal of pity, understated offer and praise. p0016 P1–31, P405–497, P791–858; p0018 P53–88, P198–258. | Brisk register carries both refusal and care; context is necessary to tell them apart. Her craft voice changes with skill/recipient, not through a total conversion to softness. No spouse relation or medical diagnosis is established. |
+| **Michael Andi as reported by island residents** | Liquor seller recalls 'observation record' speech without knowing its meaning; fish witnesses report changing taste and efforts to recover dislike; Mitsu corrects the single-unifying-myth theory. p0014 P447–465; p0016 P501–584, P925–949; p0018 P198–258. | These are plural oral witnesses, not Andi's direct present voice or an infallible complete manifesto. Some motive statements are explicitly hypotheses. |
+| **Kikuchi with children** | Gentle plain speech names visible features, asks why, accepts the bird is broken, and waits for each child's own account. p0016 P1242–1308; p0018 P1–20. | Receptive questioning differs from the earlier interviews leading toward a preselected answer. Children author interpretations; the same behavior does not prove every adult intervention now has permission. |
+
+Proper names above keep supporting people distinct; unnamed innkeeper, shopwoman, fish witnesses and children remain unnamed because the source does not supply personal identities. Their local roles explain access and knowledge, rather than substituting for known names.
+
+### 13.5 Conceptual terms — context, choice, prayer and the two-focus correction
+
+| Cluster | V12 attestation and development | Required qualification |
+|---|---|---|
+| `恒星` / `惑星` | Initial self-luminous-star remedy becomes the object of Kikuchi's own critique; later she identifies her need to choose. p0011 P201–229; p0013 P264–277, P414–430; p0021 P135–174. | Do not preserve the first confident hypothesis as the final volume's answer or infer Hinami simply lacks a self she must acquire. |
+| `歪み` / `観測` | Tama's self-account, color comparison, damaged birds, and insistence on not forcing observation into a predetermined circle alter its force. p0014 P112–154; p0016 P429–464; p0018 P268–284. | Distortion is not one diagnosis. Accuracy-seeking cannot erase the observer, and observation does not supply unknowable dead-person testimony. |
+| `believe` → `tell` → `record` → `wish` → `pray` | Andi's represented handwritten revision, read by the couple with phone translation. p0021 P267–391; Kikuchi's owned conclusion P429–433. | The lexical sequence is direct representation; why each deletion occurred is their interpretation. Final prayer retains a wish after observation rather than proving benevolent intention guarantees truth. |
+| `理由` / `原因` / `意味` / `祈り` | New writing reason p0026 P121–163 differs from unknown death cause p0022 P510–512 and offered story meaning. | Do not convert an emotionally usable meaning into an antecedent explanation, or an owned reason into proof every representation is permissible. |
+| Contextual color names | p0016 P434–464 and full inventories P606–620 distinguish neighboring shades; selected `花浅葱` and `退紅` matter to costumes and haori. p0016 P728–848; p0018 P53–79. | A name alone does not exhaust perceived color; neighbor, light, wearer and angle matter. The lexical craft is not a universal psychological compatibility rule. |
+| `円` / `楕円` / `焦点` / `まんなか` | Fiction replaces the perfect-circle assumption with an ellipse; p0022 P655–812 maps belief/doubt and retained Nagisa to two foci. p0026 P26–102 then rejects replacing Nagisa with Fumiya and notes an unoccupied second focus. | Astronomical geometry supports a literary metaphor, not a clinical necessity theorem. A geometric focus is not another physical star; no actual gravitational mass is supplied by fiction. Fumiya's promise of stable life remains assurance. |
+| `空っぽ` / `強キャラ` / `弱キャラ` | Hinami's self-disgust is reframed without filling every absence; Kikuchi describes ordinary people needing something trustworthy and states her writing purpose. p0026 P72–163. | Do not turn these character-used categories into permanent tiers of human worth or equate skill with self-belief. |
+| `好き` / self-ownership | Mimimi can like her chosen conduct, Hinami can admit a little present self-liking, and Fumiya values Kikuchi's specific non-writing traits. p0013 P143–154; p0026 P15–23; p0016 P172–180. | Shared lexeme does not equate romance, moral correctness and durable self-esteem. Each speaker, recipient and temporal limit remains recoverable. |
+
+### 13.6 V1.4 maintenance and review limit
+
+The original twenty-four JVL identities and R04/R05 additions remain, with JVL-15's current reason updated and its prior OPEN preserved. This extension adds no exact words for inaudible Yuzu, no literal ghost, no named religion, no suicide-attempt inference, no newly demonstrated habitual particle distribution, and no post-ending speech. Whole-source consultation, independent review and the integrating author's combined six-ledger/name-reference semantic acceptance have passed. The staged source transaction passed author preflight; the completion audit records exact publication and integration separately. The later fourteen-witness omission audit and derived reconstruction still require their own evidence and acceptance.
