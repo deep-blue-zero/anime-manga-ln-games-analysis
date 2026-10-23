@@ -5,7 +5,7 @@ scope: JP_LIGHT_NOVEL_V01-V12_PLUS_ROUTED_V06_5_AND_V08_5
 source_boundary: "Audited Japanese light-novel EPUB corpus: numbered main Volumes 01-12 plus story-locally routed Volumes 06.5 and 08.5"
 analytical_boundary: V12_PLUS_ROUTED_SUPPLEMENTS
 analytical_generation: V2_REMEDIATION
-generation: V1.3
+generation: V1.4_COVERAGE_PRECISION
 status: canonical
 release_state: mutable_active
 governing_method: ../00 Frameworks and Methods/TOMOZAKI_ANALYTICAL_METHOD.md
@@ -20,7 +20,7 @@ do_not_use_as_current_authority: false
 
 # Tomozaki — claim revision and evidence index through Volume 12
 
-Latest cumulative state: **V12** in §18. The accepted V11/R01-R05 family, open-question, locator and gate records in §§5-17 remain historical; their earlier current labels do not override this amendment.
+Latest cumulative state: **V12** in §18, with the dated retrospective apology correction in §19. The accepted V11/R01-R05 family, open-question, locator and gate records in §§5-17 remain historical; their earlier current labels do not override this amendment.
 
 ## 1. Responsibility and authority
 
@@ -823,7 +823,7 @@ At the V11 boundary this index leaves the following materially open:
 - Mizusawa's renewed confession, Hinami's reply, and any stopping condition; the earlier V03 confession/refusal remains part of the history;
 - Yuzu's absorber/capacity boundary and Tama's long-term public-character revisability;
 - internalized broad boundary compliance by Rena;
-- acknowledgment, apology, restitution, or institutional repair by Konno or Akiyama;
+- full conduct accounting, restitution, trust or institutional repair beyond Akiyama/group’s brief V05 apology; Konno’s own apology remains unestablished (current retrospective correction §19);
 - Endo-promotion results, follower growth, professional income, family/university agreement, and career exit conditions;
 - whether the proposed peer party assembles, obtains Hinami's participation, changes its model under refusal, or helps; and
 - every V12 or post-V11 development.
@@ -986,7 +986,7 @@ The family identities and accepted earlier anchors remain unchanged. This table 
 | CRI-MIM-001 | STRENGTHEN mechanism / REVISE sufficiency. Mimimi herself questions being able to retain self-liking when physically separated from Tama and identifies the next-Tama dependence risk. She does not predict that their relationship or Tama's recognition will end. | V12-C07/C29; p-0013 P26-79. The Hinami first-person dismissal cannot overwrite this actual growth. |
 | CRI-MIM-002 | REVISE sufficiency / PRESERVE value. Tama's recognition mattered; Mimimi additionally locates self-regard in chosen conduct she can endorse. | V12-C07; p-0013 P103-169. Neither specialness nor this episode supplies a permanent dyadic cure. |
 | CRI-MIM-003 | STRENGTHEN restraint / OPEN terminal rule. She still loves Tomozaki and reports refusing to exploit his weak moment because that would violate her own self-regard. | V12-C07/C36; p-0013 P103-154; p-0026 P177-202. Bright cooperation does not establish moved-on status, a future contact policy or an end to love. |
-| CRI-TAM-001 | STRENGTHEN owned craft / OPEN constraint. Cake repair and the childhood hero model show skilled chosen care, self-demand and acknowledged owner-daughter latitude with real staff/queue cost. | V12-C10-C11; p-0014 P30-140. No succession choice, universal ethical correctness, hostile persona-cage test or revenge resolution. |
+| CRI-TAM-001 | STRENGTHEN owned craft / OPEN constraint. Cake repair and the childhood hero model show skilled chosen care, self-demand and acknowledged shop-manager's-daughter latitude with real staff/queue cost. | V12-C10-C11; p-0014 P30-140. No succession choice, universal ethical correctness, hostile persona-cage test or revenge resolution. |
 | CRI-YUZ-001 | STRENGTHEN actual maintenance / OPEN boundary. Yuzu participates in delivery and ordinary public return; negotiated burden-sharing and her absorber limit remain untested. | V12-C28/C37; p-0022 P124-158; p-0026 P212-239. Hinami's guessed apology motive is not a Yuzu declaration. |
 | CRI-MIZ-001 | REVISE friendship / OPEN pursuit. His admission of instrumental access-to-Aoi interest and later owned liking coexists with an actual awkward best-friend exchange and useful roleplay. | V12-C04-C05; p-0011 P374-504. No renewed romantic confession, reply, reciprocity or exit rule; V03 refusal survives. |
 | CRI-KIK-001 | STRENGTHEN selective range. Solo travel, changed permission, ordinary playful/affectionate observation and learning widen her habitat while exhaustion and renewed block remain. | V12-C09/C13/C21; p-0014 P158-206; p-0016 P35-190; p-0021 P11-61. New range is not general ease or a permanent cure. |
@@ -1091,8 +1091,8 @@ The complete historical question wording and lineage remain in §12. The followi
 | CRI-OQ-MIZ-001 | OPEN pursuit / REVISE friendship | p-0011.xhtml P417-488 instrumental admission and best-friend reciprocity; p-0013.xhtml P173-277 roleplay; p-0029.xhtml P19 unwritten future feeling topic | Add vulnerable friendship/author cooperation. V03 refusal preserved; no renewed confession/reply/exit policy. |
 | CRI-OQ-VOC-001 | OPEN experiment / STRENGTHEN end | p-0026.xhtml P173/P177-284 public exhibition/Ashigaru and expressive aim; complete c7c no Endo/follower result | Record practice and audience reason; no pro contract, income, viability, family/university/exit outcome. Afterword future pro-Fumiya phrase not plot entry. |
 | CRI-OQ-VOC-002 | PRESERVE mixed transfer / OPEN durability | p-0026.xhtml P239 Jack now main; P246-258 Found mirror for story, no final result; p-0011.xhtml P11-25 31 replay frames intent unknown | Preserve V11 fourth-place/defeat history; add strength-plus-story choice, no optimality/career guarantee. |
-| CRI-OQ-SOC-001 | OPEN accountability / REVISE local action | p-0022.xhtml P124-158 Yuzu/Nakamura/Takei delivery; p-0026.xhtml P212-234 network return; p-0013.xhtml P103-154 Mimimi restraint | Material roles real. No Konno/Akiyama apology/restitution, Yuzu capacity boundary, Rena general stop or Mimimi terminal rule. |
-| CRI-OQ-TAM-001 | REVISE situated craft / OPEN hostile constraint | p-0014.xhtml P30-76 skill/costly cake repair, P100-144 hero model/self-described distortion/owner-daughter latitude; p-0026.xhtml P212/P234 Aoi care | Promote craft/owned ethic with cost/privilege counterevidence. No career choice, universal rightness, hostile persona-cage test or revenge resolution. |
+| CRI-OQ-SOC-001 | OPEN accountability / REVISE local action | p-0022.xhtml P124-158 Yuzu/Nakamura/Takei delivery; p-0026.xhtml P212-234 network return; p-0013.xhtml P103-154 Mimimi restraint | Material roles real. V12 supplies no NEW Konno/Akiyama apology/restitution, Yuzu capacity boundary, Rena general stop or Mimimi terminal rule. Preserve the actual V05 Akiyama/group apology (§19). |
+| CRI-OQ-TAM-001 | REVISE situated craft / OPEN hostile constraint | p-0014.xhtml P30-76 skill/costly cake repair, P100-144 hero model/self-described distortion/shop-manager's-daughter latitude; p-0026.xhtml P212/P234 Aoi care | Promote craft/owned ethic with cost/privilege counterevidence. No career choice, universal rightness, hostile persona-cage test or revenge resolution. |
 | CRI-OQ-YUZ-001 | STRENGTHEN maintenance / OPEN boundary | p-0022.xhtml P124-158 delivery; P125-127 apology motive is Aoi hypothesis; p-0026.xhtml P230 unheard words/hand wave beside Nakamura | Delivery and ordinary presence promoted; conjectured apology not event, negotiated burden/capacity rule absent. |
 | CRI-OQ-SYN-001 | REVISE source closure / TRANSFER | p-0029.xhtml P9-19 final thematic boundary plus possible untimed further book; P12/P19 unwritten futures | Reading gate requires complete transaction; cumulative/R06/specialist/convergence/model gates retain dependencies. Literary end cannot substitute actual formal completion. |
 
@@ -1118,3 +1118,17 @@ The original R01-R03 twelve ESC queues and PASS locator receipts remain historic
 This update propagates current retrieval into the effort ledger and supplies routes for the other cumulative owners and later studies. It neither rewrites frozen readings nor declares the independent downstream owners complete. R06 scope, full-corpus omission coverage, mature V12 monograph revision, relationship/theme specialists, adversarial convergence, full-series synthesis and eligible reconstruction remain governed work. Exact-head validation, publication/integration, source-run completion and formal terminal governance closure require their actual separate receipts.
 
 V1.3 (2026-10-22) updates the live boundary, inventory, manifests and route key and adds §18. Accepted §§5-17 remain intact; the V11 gate table is historical. The former V1.0 execution label is not asserted as a current platform setting; frontmatter now cites the live reasoning-policy version without inventing a model or capability equivalence. A bounded named-subject/reference check covered the amendment, actor/reader limits, all three adjudication tables and all family assignments. No known material attribution defect is retained; genuine uncertainty stays explicit.
+
+## 19. Retrospective correction to the class-accountability baseline — 2026-10-23
+
+| Stable family | Prior formulation at risk | Source-grounded current disposition | Downstream owners |
+|---|---|---|---|
+| CRI-SOC-002 | Cessation/re-entry described through generic absence of acknowledgment/apology. | **REVISE baseline / PRESERVE unfinished justice.** V05 `text/part0028.html` P2–6/P16–25: Akiyama/group apology is direct after Konno leaves; full accounting, restitution, safeguard and durable trust remain OPEN. | SOC-C11/social §18; CS §20; current map; R06 Tama/Yuzu and class/ethics specialist |
+| CRI-KON-001 | Joined Konno/Akiyama shorthand can transfer absence or conduct between actors. | **PRESERVE Konno's distinct state.** Akiyama's apology is not Konno's. Konno's useful later conduct is neither erased nor made restitution. | Konno/Akiyama bounded scope and ensemble; CS §13.2/13.5 |
+| CRI-OQ-SOC-001 | “Do the accountability lines move?” interpreted as whether either actor ever apologized. | **REVISE question / OPEN full repair.** Brief apology occurred in V05. Ask about complete participation acknowledgment, accountable repair, durable trust and institutions; V12 adds no new test. | Current OQ row, social open questions, final synthesis only after dependencies |
+
+The selected V05 EPUB SHA256 is `f43355c286c8b33db529febb6389cb08fa9ef5a65a7e13e3c2a8490214965e89`. Independent producer and integrating-author returns inspected the full surrounding Japanese sequence, including Konno/Yuzu departure and Tama's response. P17 is the direct apology, P18 explicit narrator identification, P19 other members' apologies, P21–24 weighted assent, P25 class relaxation. The narrator's ceasefire interpretation is attributed; neither guilt-like delivery nor relaxation proves complete responsibility accounting or forgiveness.
+
+This correction is **DIRECT** for speech/action and an explicit epistemic limit for remedy. It records a demonstrated omission, not a preferred moral reading. Historical source-facing joined abstentions and accepted R01–R05 receipts retain their bytes; their earlier negatives cannot override this exact return. The source claim/question universe stays 359/154, corpus families stay thirty-six and OQ families fifteen: this is a revision inside existing identities, not an invented new source claim or renumbering. §18's no-NEW-V12 test remains correct and is made explicit where needed.
+
+The same coverage review narrows two wording choices in `CRI-TAM-001`/`CRI-OQ-TAM-001`: “owner-daughter” now reads **shop-manager's-daughter**, matching Tama's `店長の娘` at V12 `item/xhtml/p-0014.xhtml` P119–141. Her acknowledged latitude and the staff/queue cost remain direct; legal ownership of the business is not established by that phrase. The source-facing reading already uses manager's daughter and remains unchanged.
