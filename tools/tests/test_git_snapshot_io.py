@@ -172,6 +172,18 @@ class SnapshotIOTests(unittest.TestCase):
             core.GitSnapshot.from_commit(self.root, commit, paths=["file"])
         self.assertEqual(self.git("-C", str(source), "cat-file", "-p", blob), b"original")
 
+    def test_git_without_no_lazy_fetch_reads_full_clones_and_refuses_promisors(self) -> None:
+        self.stage("file", b"original")
+        commit = self.commit()
+        with mock.patch.object(core, "git_supports_no_lazy_fetch", return_value=False), \
+                mock.patch.object(core.subprocess, "check_output", wraps=core.subprocess.check_output) as run:
+            self.assertEqual(core.GitSnapshot.from_commit(self.root, commit, paths=["file"]).get("file").data, b"original")
+            self.assertTrue(run.call_args_list)
+            self.assertFalse(any("--no-lazy-fetch" in call.args[0] for call in run.call_args_list))
+            self.git("config", "remote.origin.promisor", "true")
+            with self.assertRaises(core.DomainError):
+                core.GitSnapshot.from_commit(self.root, commit, paths=["file"])
+
     def test_selected_history_ignores_commit_replacement_refs(self) -> None:
         self.stage("file", b"original")
         original = self.commit()
