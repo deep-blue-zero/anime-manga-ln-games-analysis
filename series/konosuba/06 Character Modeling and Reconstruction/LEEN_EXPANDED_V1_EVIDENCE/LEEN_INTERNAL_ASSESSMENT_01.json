@@ -1,0 +1,75 @@
+{
+  "schema": "KONOSUBA_LEEN_SOURCE_KNOWN_INTERNAL_ASSESSMENT_V1",
+  "recorded_utc": "2026-10-20T13:01:07.513154+00:00",
+  "model_sha256": "d77fce9b6ac0635ee7ef1eeaedf1c816f4d80f097369f86204b46b0eb132120b",
+  "rule_inventory_sha256": "21aa351ded41d6bbbbc54a45480c8eba01e136324ebc7fd0d91ed86d2baa6aae",
+  "scenario_input_sha256": "679d0271d02a0cf58ad8fe08dd27c3d107c38dde5721ed5a5dbc46ce43222182",
+  "first_outputs_sha256": "cefebc48e5f2cf8d402283e6340911ece76b83d45563fe6ac437ff5f0eb02cee",
+  "first_body_freeze_sha256": "7b52f264d587548d1f169bb9a99b3a1d769797a6c6375560d520ba8a1a73463f",
+  "same_informed_root_author": true,
+  "fully_received_input_and_body_outputs": "f0ca47",
+  "cases": [
+    {
+      "case_id": "LEEN-H01A",
+      "body_utf8_sha256": "4346e9555d76fb5ea1847be2b5ef454de8815229070b578b1d9d1b073349dfba",
+      "typed_length_and_hash_checks": "EXACT; this is not behavioral validation",
+      "packet_and_action_staging": "The reply favors the known complaining companion over an idealized role and stays beside him. It supplies no successful rescue, new skill or completed refusal. The phrase ask us can refer to the known shared work; it is not evidence of an unlisted rescue team or a guarantee of available help.",
+      "rule_fit_and_rivals": "Compatible with LEEN-R01 and practical caution, but very close to the explicit relationship cue. Generic care for a familiar friend explains it equally well.",
+      "source_accuracy_result": null,
+      "capability_grade": null
+    },
+    {
+      "case_id": "LEEN-H01B",
+      "body_utf8_sha256": "f268cf8decd99f1771fc3e9a8fa09c1cec04988a4f9457609ec1f092e6eaa7ac",
+      "typed_length_and_hash_checks": "EXACT; this is not behavioral validation",
+      "packet_and_action_staging": "The reply proposes asking for a second patrol member or retaining the current job. Neither a second person availability nor acceptance of the proposal is narrated. The pointing out is rhetorical; no new physical support or equipment appears.",
+      "rule_fit_and_rivals": "Both H01 variants advise caution. The difference is personal appeal versus practical alternative, not an opposite choice or a measured attachment threshold.",
+      "source_accuracy_result": null,
+      "capability_grade": null
+    },
+    {
+      "case_id": "LEEN-H02A",
+      "body_utf8_sha256": "a81350faaf21ceff933fce2c92818414c7d67f2af2f6187b8cafa5f5dfc3af0f",
+      "typed_length_and_hash_checks": "EXACT; this is not behavioral validation",
+      "packet_and_action_staging": "The reply cites the supplied replacement cost and lowers the cushion. No actual damage, payment or recipient response is added.",
+      "rule_fit_and_rivals": "Shows an internally usable own-cost restraint, which a generic financially constrained person would also show.",
+      "source_accuracy_result": null,
+      "capability_grade": null
+    },
+    {
+      "case_id": "LEEN-H02B",
+      "body_utf8_sha256": "8bafebbbc760764868bf3a8aba5c9258f1184ca52e73831879a741c7c91484ac",
+      "typed_length_and_hash_checks": "EXACT; this is not behavioral validation",
+      "packet_and_action_staging": "The reply is addressed after Ren has left and the action releases the cushion. It does not narrate a hit, broken vase, injury or payment. The frozen input permission is for cushion-throwing practice whereas the current impulse follows mockery; the scope of that permission is ambiguous even though the input asserts no personal payment. Preserve that input wording defect.",
+      "rule_fit_and_rivals": "A throw contrasts with A restraint, but permitted practice and liability both change. It cannot identify a pure monetary effect or certify lawful/harmless retaliation. The model, input and body remain unchanged.",
+      "source_accuracy_result": null,
+      "capability_grade": null
+    }
+  ],
+  "designed_pairs": [
+    {
+      "pair": "LEEN-H01A/LEEN-H01B",
+      "observed_difference": "Personal appeal changes while caution remains.",
+      "identification_limit": "No opposite action was required. Familiarity is supplied explicitly and generic friendship strongly fits both; no individual identification or source forecast."
+    },
+    {
+      "pair": "LEEN-H02A/LEEN-H02B",
+      "observed_difference": "Lowered cushion versus a thrown cushion.",
+      "identification_limit": "Cost and permission are confounded; practice/retaliation wording ambiguity remains. This is a designed, same-author contrast without a causal estimate."
+    }
+  ],
+  "unprobed": [
+    "LEEN-R03 selective truth/knowledge and mistake-versus-deception branches are not separately exercised.",
+    "LEEN-R04 coalition refusal/repair sequence is not tested by a solitary cushion impulse.",
+    "Actual magic capacity, learning rate, Japanese voice, long-term affiliation and unfamiliar professional transfer are untested."
+  ],
+  "overcoherence": "The H01 explanations are unusually clean and directly track supplied risk/familiarity cues. H02B preserves an impulsive act, but these short constrained English bodies cannot show the full mixture of affection, irritation, misreading and care.",
+  "maturity": "First provisional source-known conditional candidate. Packet consistency and designed contrast do not identify a unique individual mechanism.",
+  "total_first_bodies": 4,
+  "total_regenerations": 0,
+  "independent_accuracy_result": null,
+  "confidence_gain": 0,
+  "source_validation_credit": 0,
+  "capability_grade": null,
+  "repair_to_frozen_models_inputs_or_bodies": false
+}

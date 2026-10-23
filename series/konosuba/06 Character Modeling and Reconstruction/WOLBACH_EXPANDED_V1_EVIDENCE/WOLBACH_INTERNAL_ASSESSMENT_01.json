@@ -1,0 +1,83 @@
+{
+  "schema": "konosuba.informed-internal-assessment.v1",
+  "recorded_utc": "2026-10-20T16:01:16.377208+00:00",
+  "subject": "Wolbach",
+  "input_sha256": "d3cca9bbdd68d005bf72b3f6caebe62bbbcdb2b6de0dc161a5908669e09050ad",
+  "actual_first_body_sha256": "661a7e26999ecefb381c0fe672338557a886dc25af0201474de3b8167a7fd343",
+  "actual_first_body_freeze_sha256": "61d6bd63cd10598761f06951371f0e192910b1c88a2373e1ba570bb5a607a095",
+  "body_count": 4,
+  "regenerations": 0,
+  "repairs": 0,
+  "assessor": "Same informed root who authored model,exact cases and actual first saved bodies; no independent judge.",
+  "source_outcomes_already_known": true,
+  "anticipated_directions_and_response_ideas_disclosed": true,
+  "case_results": [
+    {
+      "family": "H01",
+      "cases": [
+        "WOLBACH-H01A",
+        "WOLBACH-H01B"
+      ],
+      "actual_difference": "A calls the available porter because of the brace; B takes a handle and waits for Kazuma. Both offer bounded help while retaining the hot-spring/bus aim.",
+      "endpoint": "Neither body completes delivery or catches the bus. Different proposed/preparatory means share the intended crate-delivery endpoint.",
+      "constraints": "No provided arm limitation is overridden and no magical recovery is invented. This is an internal consistency observation,not evidence that the source model is true.",
+      "rivals": [
+        "Plainly stated physical capability alone predicts the choice of help.",
+        "Generic politeness/time management and available porter explain the responses.",
+        "Hot-spring phrasing is a source-informed stylistic insertion by the same author,not a voice validation."
+      ],
+      "limits": "The contrast does not isolate allegiance,warfare,destructive recovery,exact resource management in canon or willingness to take desperate risks."
+    },
+    {
+      "family": "H02",
+      "cases": [
+        "WOLBACH-H02A",
+        "WOLBACH-H02B"
+      ],
+      "actual_difference": "A opens a chair and offers company for a supporting purpose; B refuses practical assistance while offering later conversation for the opposing purpose.",
+      "endpoint": "Only one chair opening is performed in A; the half-hour task,meeting outcome and any later conversation remain unperformed. B keeps hands folded.",
+      "retained_adverse_output": "B says the blankets were not a promise to agree forever,although Kazuma never invokes the earlier favor as an obligation. This adds an uncued reciprocity argument and makes the reply more defensive. The body is unchanged.",
+      "rivals": [
+        "Explicit campaign/purpose conflict strongly cues ordinary goal-aligned cooperation and refusal.",
+        "Warm A/B phrasing may be the author imposing a clean contrast rather than demonstrating character-specific discrimination.",
+        "Supportive board-game funding versus closure/private-lounge wording bundles ordinary value judgments with objective conflict."
+      ],
+      "limits": "No evidence that the fictional allegiance motive is solved,that every acquaintance conflict has this endpoint,or that Wolbach respects every recipient boundary. Her destructive-half branch is not tested."
+    }
+  ],
+  "rule_coverage": [
+    {
+      "rule": "W-R01",
+      "status": "NARROW_INTERNAL_ILLUSTRATION_WITH_STRONG_GENERIC_RIVALS",
+      "notes": "Limited help and purpose-sensitive refusal are represented; source coercion/harm and conflicting recipients are largely absent."
+    },
+    {
+      "rule": "W-R02",
+      "status": "LIMITED_EXPLICIT_INPUT_CONSTRAINT_CHECK",
+      "notes": "Current arm condition affects means. No magic budget,retreat decision,opposing countermeasure or desperation branch is probed."
+    },
+    {
+      "rule": "W-R03",
+      "status": "LARGELY_UNPROBED",
+      "notes": "No misleading identification/status cue or later contrary evidence. Correct handling of supplied facts is not a demonstrated classification mechanism."
+    },
+    {
+      "rule": "W-R04",
+      "status": "LARGELY_UNPROBED",
+      "notes": "No sensitive canonical motive/recognition question. Ordinary refusal wording is not a validated privacy/disclosure mechanism."
+    }
+  ],
+  "global_limits": [
+    "Four related authored bodies/two contrasted families are not four independent source trials.",
+    "The same informed author designed likely contrasts and wrote/assessed the bodies. No blindness or independent generation is claimed.",
+    "No source-outcome prediction,independent event count,accuracy estimate,confidence gain,capability grade,human adequacy or Japanese-language validation.",
+    "No Chomusuke model or case battery is authored. Tier2 remains revisable rather than a pet/appearance ceiling.",
+    "No model,input,monograph,rule or first body is edited after the respective freezes. Uncued defensive presupposition in H02B remains visible."
+  ],
+  "frozen_model_inputs_monographs_rules_and_bodies_unchanged": true,
+  "all24_existing_models_unchanged": true,
+  "independent_observation_count": null,
+  "independent_source_test_credit": 0,
+  "accuracy_or_confidence_gain": false,
+  "full_program_complete": false
+}

@@ -1,0 +1,106 @@
+{
+  "schema": "KONOSUBA_MASK_DERIVATIVE_CANDIDATE_MANIFEST_V1",
+  "created_utc": "2026-10-18T21:29:15.090786+00:00",
+  "source_id": "MASK",
+  "current_baseline_commit": "5a4bcad174badda442db4169ddb5f0cd9a17c6d1",
+  "canonical_directory": "series/konosuba/10 Expanded Corpus/Masked Devil",
+  "files_excluding_this_manifest": [
+    {
+      "name": "KONOSUBA_MASK_COMPONENT_REGISTER.json",
+      "bytes": 254296,
+      "sha256": "c7338384c21411ac221ab3f5ad1681c2aebe2408bf87e9d26fac6fa2a6be9349"
+    },
+    {
+      "name": "KONOSUBA_MASK_DEEP_READING.md",
+      "bytes": 63587,
+      "sha256": "0c066d3550302fd68db85010729f82b1d39d478de4f0fb27f02639dbf36f4954"
+    },
+    {
+      "name": "KONOSUBA_MASK_HUMOR_REGISTER.json",
+      "bytes": 100510,
+      "sha256": "d9982eddfeb167f150b6b5fdb88945949b802e4d7fd38bd35ac4c896919c9179"
+    },
+    {
+      "name": "KONOSUBA_MASK_VOICE_REGISTER.json",
+      "bytes": 287535,
+      "sha256": "c5d0966899b9f5deec2f4aec813aefb267662f5981e4231b7e11b52c45e11e92"
+    },
+    {
+      "name": "KONOSUBA_MASK_EXPLORATORY_LOCAL_ASSESSMENTS.json",
+      "bytes": 192245,
+      "sha256": "b50ad770c0726109f2dc6b822d4bd6e117e89c4fd1aa7802403cc618fed901fd"
+    },
+    {
+      "name": "KONOSUBA_MASK_CURRENT_PRECISION_QUALIFICATIONS.json",
+      "bytes": 21949,
+      "sha256": "b1a0f99b3f3d6d8b8ea1b0b963dab41924c2509f461221f42b927719daaa3123"
+    },
+    {
+      "name": "KONOSUBA_MASK_LEDGER_APPEND_DECISIONS.json",
+      "bytes": 32823,
+      "sha256": "7db2c97091fe1fc678d0a8ebf2470388097b82f6c108d744cd9ab0d802ce5657"
+    },
+    {
+      "name": "KONOSUBA_MASK_INITIAL_AUTHOR_UNCODED_SEAL.json",
+      "bytes": 11782,
+      "sha256": "df292c7f139b694f27e289e2a96511a80ae76965abd26012a987bf694a4aaab0"
+    },
+    {
+      "name": "KONOSUBA_MASK_ROOT_PRE_BODY_PREPARATION_SEAL.json",
+      "bytes": 148331,
+      "sha256": "1868f31e7a864ef448e5e7ad58b5c2fb7f2e67ae674432459a82fb08caae62c5"
+    },
+    {
+      "name": "KONOSUBA_MASK_ORIGINAL_UNCODED_TEXT_NOTES.jsonl",
+      "bytes": 139716,
+      "sha256": "48f43867190b25a4e692b4ece60c73293332cbb9dda39a205b7c842a6dc0c078"
+    },
+    {
+      "name": "KONOSUBA_MASK_ORIGINAL_UNCODED_IMAGE_NOTES.jsonl",
+      "bytes": 17747,
+      "sha256": "cd779b2ab313043c40d8059dde96fbfa8b585ef29a7844c3f698e17c746ec896"
+    },
+    {
+      "name": "KONOSUBA_MASK_COMPONENT_ANALYSIS.md",
+      "bytes": 12486,
+      "sha256": "31a9b0ffc0c611e3ea450582700c4a1e1195746dfc34ad8134bcffd909a4936f"
+    },
+    {
+      "name": "KONOSUBA_MASK_HUMOR_REGISTER.md",
+      "bytes": 46262,
+      "sha256": "afe5c1a0458878f55aba0cd662aa3256f30a82cb081f6091ca068ee545014d96"
+    },
+    {
+      "name": "KONOSUBA_MASK_VOICE_REGISTER.md",
+      "bytes": 102739,
+      "sha256": "4643d0929374292a5eca22245b1818abb6a069ccc4b81a223beb80837afccb76"
+    },
+    {
+      "name": "KONOSUBA_MASK_SOURCE_AND_READING_RECEIPT.json",
+      "bytes": 6034,
+      "sha256": "9a7636aceb5f2f469556241498aee639f185080a3ce02d3869c3635da00d2b0c"
+    },
+    {
+      "name": "KONOSUBA_MASK_RECEIVING_AND_PROVENANCE.json",
+      "bytes": 32715,
+      "sha256": "419ff04866edbd05ff84a68180f9976484805b9ccd2ec4784d66189fb218616b"
+    }
+  ],
+  "status": "ACCEPTED_AT_STATED_SCOPES_CONTAINING_PUBLICATION_PENDING",
+  "native_epub_or_full_native_story_text_not_published": true,
+  "original_uncoded_derivative_notes_published_exact_not_native_source": true,
+  "frozen66_historical72_scores4_original14blanks_exact": true,
+  "post_build_report_presentation_refinement": {
+    "recorded_utc": "2026-10-18T21:35:24.430420+00:00",
+    "changes": [
+      {
+        "name": "KONOSUBA_MASK_DEEP_READING.md",
+        "old_bytes": 63516,
+        "old_sha256": "97cf560d3503ad342604df608096f75c7148cbb39efea038475fcaf018f6f754",
+        "new_bytes": 63587,
+        "new_sha256": "0c066d3550302fd68db85010729f82b1d39d478de4f0fb27f02639dbf36f4954"
+      }
+    ],
+    "scope": "Spacing around prose and code labels only; source history, formal dispositions and accepted model/score controls unchanged."
+  }
+}

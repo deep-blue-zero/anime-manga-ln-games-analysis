@@ -5,7 +5,10 @@ scope: HIRATSUKA_SHIZUKA_V01-V14.5
 character: HIRATSUKA_SHIZUKA
 generation: V2
 status: canonical
+supersedes: []
+superseded_by: []
 phase: 8.5
+suite_audit: OREGAIRU_V2_PHASE8_5_RECONSTRUCTION_SUITE_AUDIT.md
 canonical_name: OREGAIRU_V2_CHAR_HIRATSUKA_RECONSTRUCTION_MODEL.md
 source_boundary: "Japanese-primary mainline Volumes 1-14 plus canonical .5 material through V14.5; direct Hiratsuka evidence begins V01; derived V2 corpus through Document 14; targeted register/behavior verification plus systematic everyday-life/preferences primary-source pass; excludes Shin, Ketsu, adaptations, alternate-route Yui novels, and anthology material"
 authority_class: derived_use_model
@@ -32,10 +35,10 @@ specialist_context:
 full_series_context: 14_OREGAIRU_FULL_SERIES_SYNTHESIS.md
 everyday_life_ledger: OREGAIRU_V2_EVERYDAY_LIFE_PREFERENCES_AND_MATERIAL_HABITS_LEDGER.md
 everyday_life_ledger_rows: ELP-HIR-001--ELP-HIR-132
-revision: "1.0_primary_plus_everyday_life"
+revision: "1.1_phase8_5_audit_corrections"
 primary_source_escalation: targeted_register_behavior_plus_systematic_everyday_life
 created: "2026-08-20"
-next_artifact: OREGAIRU_V2_CHAR_HAYAMA_RECONSTRUCTION_MODEL.md
+next_artifact: OREGAIRU_V2_PHASE8_5_RECONSTRUCTION_SUITE_AUDIT.md
 ---
 
 # OREGAIRU V2 — Hiratsuka Shizuka Reconstruction Model
@@ -60,7 +63,7 @@ The 132-row Japanese-primary everyday-life pass exists to prevent that compressi
 
 ### Governing reconstruction thesis
 
-> **Hiratsuka is an unusually student-attentive, interventionist teacher whose mentorship improves not because she stops influencing people but because she increasingly learns to separate diagnosis from ownership of the answer. Early Hiratsuka freely uses teacher authority, physical comedy/coercion, and inferred “real problems” to force growth. Across the series she becomes the strongest procedural adult positive control: she notices externalities, restores clauses reductive reasoning deletes, uses private time and institutional leverage to widen options, and increasingly returns final authorship. Yet this maturity must not erase her flaws. She can be paternalistic, boundary-blurry, physically rough, impulsive, overconfident about what students need, and willing to compel contact. Her mature form is not the wise oracle. It is adult authority that diagnoses enough to restore agency and then relinquishes jurisdiction over the final first-person answer.**
+> **Hiratsuka is an unusually student-attentive, interventionist teacher whose mentorship improves not because she stops influencing people but because she increasingly learns to separate diagnosis from ownership of the answer. Early Hiratsuka freely uses teacher authority, physical comedy/coercion, and inferred “real problems” to force growth. Across the series she becomes the most sustained explicit adult source of procedural correction, while remaining fallible and sometimes coercive: she notices externalities, restores clauses reductive reasoning deletes, uses private time and institutional leverage to widen options, and increasingly returns final authorship. Yet this maturity must not erase her flaws. She can be paternalistic, boundary-blurry, physically rough, impulsive, overconfident about what students need, and willing to compel contact. Her mature form is not the wise oracle. It is adult authority that diagnoses enough to restore agency and then relinquishes jurisdiction over the final first-person answer.**
 
 The terminal simulation rule is therefore:
 
@@ -539,6 +542,8 @@ She understands that teacher intervention can have institutional aftereffects on
 The key longitudinal transformation is not “coercive teacher becomes noninterventionist.” It is:
 
 > **coercive reformer → interventionist mentor → procedural adult who distinguishes useful influence from answer ownership.**
+
+This is a change in emphasis, not a clean replacement of one method by another. As Document 13 PUB-CG-05 records, directive and coercive elements remain available late; no era makes her a neutral or universally correct facilitator.
 
 V12's `私が手を出すべきではないとも思っている` is therefore as important as any maxim she gives Hachiman. She has learned to consider whether **her own competence is itself a problem** for institutional succession.
 
@@ -1240,6 +1245,10 @@ Rows `ELP-HIR-001`–`ELP-HIR-132` were validated against their stated Japanese 
 ### Source-exclusion rule
 
 Shin, Ketsu, adaptations, alternate-route Yui novels, and anthology material are excluded from the governing reconstruction unless a future architecture change explicitly admits them.
+
+### Phase-8.5 audit amendment — 2026-10-16
+
+**REVISE:** comparative authority follows Document 13 PUB-CG-04/05 and Phase-6 AUD-CG-03/04: Hiratsuka supplies the most sustained explicit adult procedural correction, while late directives and coercion remain possible. V14 `item/xhtml/p-0026.xhtml` combines answer-preserving criticism with `見せてくれ`, so development is not ethical purification. **REVISE — chronology:** the Gunpla observations in ELP-HIR-061/062 come from the post-V09 Christmas rewrite in V06.5 `text/part0032.html` (`ガンプラがたくさんあるよ`; `私とガンプラで勝負してみるか`), and belong to HIR3. Their hobby evidence survives. Earlier formulations remain recoverable in Git history; the phase audit records the bounded source and scenario tests.
 
 ---
 

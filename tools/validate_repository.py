@@ -15,12 +15,21 @@ from typing import Any, Mapping
 from urllib.parse import unquote_to_bytes
 
 from character_index_core import (
+    RECONSTRUCTION_INDEX_PATH,
+    RECONSTRUCTION_POLICY_PATH,
+    RECONSTRUCTION_REGISTRY_PATH,
+    RECONSTRUCTION_SCHEMA_PATH,
     AuthorityGraph,
     DomainError,
     _restricted_yaml_load,
     GitSnapshot,
     decode_json,
     decode_jsonl_with_lines,
+    decode_reconstruction_registry,
+    evaluate_reconstruction_assessments,
+    is_ancestor_commit,
+    load_reconstruction_policy,
+    reconstruction_registry_changes,
     render_schema_diagnostics,
     run_git,
     schema_diagnostics,
@@ -29,7 +38,10 @@ from character_index_core import (
     validate_schema_document,
 )
 from generate_character_index import render as render_character_index
+from generate_reconstruction_index import render as render_reconstruction_index
+from completed_run_publication import CompletionProof, PROOF_NAME
 from audit_timing import AuditTimer, report_path, write_report
+from frozen_publication import frozen_publication_paths, publication_grants
 from update_repository_indexes import ROUTING_OUTPUTS, expected_outputs
 
 
@@ -75,17 +87,31 @@ HAZARD_PREFILTERS: dict[str, tuple[tuple[bytes, ...], bool]] = {
     ),
 }
 MARKDOWN_LINK = re.compile(r"\[[^\]]*\]\(([^)]+)\)")
+# Migration-era records are archived byte-for-byte; the scope still supplies the
+# crosswalk baseline commit and the frozen ledger bindings.
+MIGRATION_ARCHIVE = "governance/archive/migration"
+AUTHORITY_SCOPE_PATH = f"{MIGRATION_ARCHIVE}/AUTHORITY_SCOPE.json"
+AUTHORITY_CUTOVER_PATH = f"{MIGRATION_ARCHIVE}/AUTHORITY_EPOCH_1.json"
+# Paths inside the bound G3 commit, used only by the historical --phase g3 check.
 G3_MANIFEST = "governance/repository-controls/G3_BOOTSTRAP_TRACKED_PATHS.txt"
 G3_BOUND_COMMIT = "e934c0a6f92ad16ba3305bd99f938aa6b3d97a1f"
 G3_BOUND_TREE = "d0bb00fa5d7a8735892921ba3c0023b4855ac52e"
+G3_MANIFEST_SHA256 = "75c6fe48adc719090828a2da02f3dc69e2334b8b20ee5f1c89e0f4c33ee6d191"
+BOOTSTRAP_BINDINGS_SHA256 = "7ebb26e4cff22acbabe72905847f6efbbb6885c4a6be0b9e5297db22d654ae17"
 PROTECTED_HASHES = {
-    G3_MANIFEST: "75c6fe48adc719090828a2da02f3dc69e2334b8b20ee5f1c89e0f4c33ee6d191",
-    "governance/repository-controls/bootstrap-bindings.json": "7ebb26e4cff22acbabe72905847f6efbbb6885c4a6be0b9e5297db22d654ae17",
+    G3_MANIFEST: G3_MANIFEST_SHA256,
+    "governance/repository-controls/bootstrap-bindings.json": BOOTSTRAP_BINDINGS_SHA256,
 }
-RESERVED_ABSENT = {
-    "characters/reconstruction_capabilities.jsonl",
-    "characters/CHARACTER_RECONSTRUCTION_INDEX.md",
+ARCHIVED_PROTECTED_HASHES = {
+    f"{MIGRATION_ARCHIVE}/G3_BOOTSTRAP_TRACKED_PATHS.txt": G3_MANIFEST_SHA256,
+    f"{MIGRATION_ARCHIVE}/bootstrap-bindings.json": BOOTSTRAP_BINDINGS_SHA256,
 }
+# The evaluator's ordinary production delta. Any other path changed beside
+# these requires a reviewed amendment that also changes the publication gate.
+RECONSTRUCTION_OUTPUTS = frozenset({RECONSTRUCTION_REGISTRY_PATH, RECONSTRUCTION_INDEX_PATH})
+# The curation agent's ordinary delta on its continuing branch.
+DISCOVERY_BRANCH_REF = "refs/remotes/origin/character-registry"
+DISCOVERY_OUTPUTS = frozenset({"characters/registry.jsonl", "CHARACTER_ANALYSIS_INDEX.md"})
 NATIVE_SHEET_SCHEMA = "governance/schemas/native-sheet-structure.schema.json"
 NATIVE_SHEET_SCHEMA_ID = "manga-anime-git-migration/native-sheet-structure/v1"
 NATIVE_SHEET_TRANSFORMATION = (
@@ -115,13 +141,10 @@ PROJECT_INITIATION_GATE_SCHEMA = (
     "anime-manga-ln-games-analysis/project-initiation-gate/v1"
 )
 PROJECT_INITIATION_BASELINE = "2eec12ae1200d3aaaff3f754fd535808161226f8"
-GLOBAL_AUTOMATION_POLICY_PATH = (
-    "governance/repository-controls/global-index-automation-policy.json"
-)
-GLOBAL_AUTOMATION_POLICY_SCHEMA = (
-    "anime-manga-ln-games-analysis/global-index-automation-policy/v2"
-)
 AUDIT_WORKFLOW_PATH = ".github/workflows/repository-audit.yml"
+AUDIT_COMMIT_EXPRESSION = (
+    "${{ github.event_name == 'repository_dispatch' && github.event.client_payload.commit_sha || github.sha }}"
+)
 HOUSEKEEPING_WORKFLOW_PATH = ".github/workflows/global-index-housekeeping.yml"
 NIGHTLY_WORKFLOW_PATH = ".github/workflows/nightly-integration.yml"
 GLOBAL_AUTOMATION_WRITE_PATHS = set(ROUTING_OUTPUTS)
@@ -275,9 +298,11 @@ def validate_audit_workflow(
         "  push:",
         "      - main",
         "      - character-registry",
+        "      - character-reconstruction",
         '      - "codex/**"',
         '      - "chatgpt/**"',
         '      - "claude/**"',
+        '      - "agent/**"',
         '      - "series/**"',
         '      - "studies/**"',
         "  repository_dispatch:",
@@ -289,29 +314,23 @@ def validate_audit_workflow(
         'MANGA_ANIME_TEST_TMP: "${{ runner.temp }}/manga-anime-tests"',
         'AUDIT_COMMIT: ${{ github.event_name == \'repository_dispatch\' && github.event.client_payload.commit_sha || github.sha }}',
         'git fetch --no-tags origin "${AUDIT_COMMIT}"',
+        "if git ls-remote --exit-code --heads origin character-registry > /dev/null; then",
+        "git fetch --no-tags origin refs/heads/character-registry:refs/remotes/origin/character-registry",
+        'test "${status}" -eq 2',
         'test "$(git rev-parse --is-shallow-repository)" = "false"',
         "--require-hashes",
         "tools/validate_repository.py",
         'audit_args+=(--routing-preflight "${AUDIT_BRANCH}")',
+        'if [[ "${AUDIT_BRANCH}" = "character-registry" && "${AUDIT_EVENT}" != "repository_dispatch" ]]; then',
+        "audit_args+=(--discovery-branch-confinement)",
         'steps.validate.outputs.integration_state',
         'mkdir -p "${MANGA_ANIME_TEST_TMP}"',
-        'python tools/audit_execution.py --snapshot commit --commit "${AUDIT_COMMIT}" --base "${AUDIT_BASE}" --profile "${REGRESSION_PROFILE}" --report-json "${RUNNER_TEMP}/test-timings.json"',
+        'python tools/audit_execution.py --snapshot commit --commit "${AUDIT_COMMIT}" --report-json "${RUNNER_TEMP}/test-timings.json"',
         '--timings-json "${RUNNER_TEMP}/audit-timings.json"',
     )
     for fragment in required_fragments:
         if fragment not in text:
             errors.append(f"repository-audit workflow missing required contract: {fragment}")
-
-    try:
-        from audit_execution import CATALOG, load_policy
-
-        load_policy(snapshot)
-        catalog = snapshot.get(CATALOG)
-        if catalog is None or not catalog.qualifies_as_evidence:
-            errors.append("repository audit requires a tracked regular test catalog")
-    except (DomainError, TypeError, ValueError) as exc:
-        errors.append(f"invalid full-coverage test execution policy: {exc}")
-
 
     # Only the isolated reporter receives write permission. It has no checkout
     # or candidate-code execution and publishes one exact audit-status context.
@@ -337,9 +356,23 @@ def validate_audit_workflow(
             )
         ):
             errors.append("repository-audit workflow contains prohibited capability: uses:")
-        expected_report = {"name":"Report the result on the audited commit","needs":"audit","if":"${{ always() }}","runs-on":"ubuntu-24.04","timeout-minutes":5,"permissions":{"statuses":"write"},"steps":[{"name":"Publish only the exact audit status","shell":"bash","env":{"GH_TOKEN":"${{ github.token }}","AUDIT_COMMIT":"${{ github.event_name == 'repository_dispatch' && github.event.client_payload.commit_sha || github.sha }}","AUDIT_RESULT":"${{ needs.audit.result }}","INTEGRATION_STATE":"${{ needs.audit.outputs.integration_state }}","ANALYTICAL_SOURCE":"${{ github.event_name == 'push' && (startsWith(github.ref_name, 'series/') || startsWith(github.ref_name, 'studies/')) }}"},"run":"set -euo pipefail\npython - <<'PY'\nimport json\nimport os\nimport re\nimport urllib.request\n\nsha = os.environ[\"AUDIT_COMMIT\"]\nrepository = os.environ[\"GITHUB_REPOSITORY\"]\nif not re.fullmatch(r\"[0-9a-f]{40}\", sha):\n    raise SystemExit(\"FAIL: invalid audited commit\")\nif repository != \"deep-blue-zero/anime-manga-ln-games-analysis\":\n    raise SystemExit(\"FAIL: unexpected repository\")\nresult = os.environ[\"AUDIT_RESULT\"]\nintegration = os.environ[\"INTEGRATION_STATE\"]\nif result == \"success\" and integration in {\"success\", \"pending\"}:\n    state = \"pending\" if os.environ[\"ANALYTICAL_SOURCE\"] == \"true\" else integration\n    description = (\n        \"Exact commit passed the repository audit\"\n        if state == \"success\"\n        else \"Authored content passed; awaiting housekeeping and final audit\"\n    )\nelse:\n    state = \"error\" if result in {\"cancelled\", \"skipped\"} else \"failure\"\n    description = \"Audit did not complete successfully; this commit is not integration-ready\"\npayload = json.dumps({\n    \"state\": state,\n    \"context\": \"Repository integration audit\",\n    \"description\": description,\n    \"target_url\": f\"https://github.com/{repository}/actions/runs/{os.environ['GITHUB_RUN_ID']}\",\n}).encode(\"utf-8\")\nrequest = urllib.request.Request(\n    f\"https://api.github.com/repos/{repository}/statuses/{sha}\",\n    data=payload,\n    headers={\n        \"Accept\": \"application/vnd.github+json\",\n        \"Authorization\": \"Bearer \" + os.environ[\"GH_TOKEN\"],\n        \"X-GitHub-Api-Version\": \"2022-11-28\",\n    },\n    method=\"POST\",\n)\nwith urllib.request.urlopen(request, timeout=30) as response:\n    if response.status != 201:\n        raise SystemExit(\"FAIL: GitHub did not confirm the commit status\")\nprint(f\"Reported {state} for exact audited commit {sha}\")\nPY\n"}]}
-        if jobs.get("report") != expected_report:
-            errors.append("audit status reporter differs from the exact reviewed reporting contract")
+        report = jobs.get("report", {})
+        steps = report.get("steps", []) if isinstance(report, Mapping) else []
+        step = steps[0] if isinstance(steps, list) and len(steps) == 1 else None
+        if (
+            not isinstance(report, Mapping)
+            or report.get("needs") != "audit"
+            or report.get("permissions") != {"statuses": "write"}
+            or "uses" in report
+            or not isinstance(step, Mapping)
+            or "uses" in step
+            or step.get("env", {}).get("AUDIT_COMMIT") != AUDIT_COMMIT_EXPRESSION
+            or "/statuses/{sha}" not in str(step.get("run", ""))
+        ):
+            errors.append(
+                "audit status reporter must be one step with statuses: write only, "
+                "reporting the exact audited commit"
+            )
     except (DomainError, AttributeError, TypeError, ValueError) as exc:
         errors.append(f"invalid audit permission/reporting contract: {exc}")
 
@@ -402,107 +435,44 @@ def validate_audit_workflow(
 def validate_global_index_automation(
     snapshot: GitSnapshot, policy: Mapping[str, Any]
 ) -> list[str]:
-    """Bind housekeeping to its exact input and output contract."""
+    """Keep housekeeping to owner audits of analysis branches and the five routing outputs."""
 
     errors: list[str] = []
-    policy_entry = snapshot.get(GLOBAL_AUTOMATION_POLICY_PATH)
-    if policy_entry is None or not policy_entry.qualifies_as_evidence:
-        return [f"missing tracked regular automation policy: {GLOBAL_AUTOMATION_POLICY_PATH}"]
-    try:
-        document = decode_json(policy_entry.data, GLOBAL_AUTOMATION_POLICY_PATH)
-    except (DomainError, json.JSONDecodeError, UnicodeDecodeError) as exc:
-        return [str(exc)]
-    if not isinstance(document, Mapping):
-        return [f"{GLOBAL_AUTOMATION_POLICY_PATH} must be a JSON object"]
-    if document.get("schema") != GLOBAL_AUTOMATION_POLICY_SCHEMA:
-        errors.append(f"{GLOBAL_AUTOMATION_POLICY_PATH}.schema is not recognized")
-    if document.get("workflow") != HOUSEKEEPING_WORKFLOW_PATH:
-        errors.append(f"{GLOBAL_AUTOMATION_POLICY_PATH}.workflow is not exact")
-    if document.get("trigger_workflow") != "Repository audit":
-        errors.append(f"{GLOBAL_AUTOMATION_POLICY_PATH}.trigger_workflow is not exact")
-    if document.get("owner_actor") != "deep-blue-zero":
-        errors.append(f"{GLOBAL_AUTOMATION_POLICY_PATH}.owner_actor is not exact")
-    if document.get("branch_prefixes") != ["series/", "studies/"]:
-        errors.append(f"{GLOBAL_AUTOMATION_POLICY_PATH}.branch_prefixes are not exact")
-    expected_sources = {
-        "series_registry": "series/<stable-slug>/.repository/series-registry.json",
-        "study_registry": "studies/<stable-slug>/.repository/study-registry.json",
-    }
-    if document.get("source_contracts") != expected_sources:
-        errors.append(f"{GLOBAL_AUTOMATION_POLICY_PATH}.source_contracts are not exact")
-    if set(document.get("allowed_write_paths", [])) != GLOBAL_AUTOMATION_WRITE_PATHS:
-        errors.append(f"{GLOBAL_AUTOMATION_POLICY_PATH}.allowed_write_paths are not exact")
-    expected_prohibitions = {
-        "analysis_content_write",
-        "registry_delete",
-        "force_push",
-        "main_push",
-        "branch_create",
-        "branch_delete",
-        "tag_write",
-        "pull_request_write",
-        "release_write",
-    }
-    if set(document.get("prohibited_automatic_operations", [])) != expected_prohibitions:
-        errors.append(
-            f"{GLOBAL_AUTOMATION_POLICY_PATH}.prohibited_automatic_operations are not exact"
-        )
-    expected_author = {
-        "name": "deep-blue-zero",
-        "email": "50891441+peipw@users.noreply.github.com",
-    }
-    expected_committer = {"name": "GitHub", "email": "noreply@github.com"}
-    if document.get("commit_author") != expected_author:
-        errors.append(f"{GLOBAL_AUTOMATION_POLICY_PATH}.commit_author is not exact")
-    if document.get("commit_committer") != expected_committer:
-        errors.append(f"{GLOBAL_AUTOMATION_POLICY_PATH}.commit_committer is not exact")
-    if document.get("post_write_audit_dispatch") != "audit-generated-commit":
-        errors.append(f"{GLOBAL_AUTOMATION_POLICY_PATH}.post_write_audit_dispatch is not exact")
-
     workflow_entry = snapshot.get(HOUSEKEEPING_WORKFLOW_PATH)
     if workflow_entry is None or workflow_entry.mode != "100644":
-        return errors + ["approved global index housekeeping workflow is missing"]
+        return ["approved global index housekeeping workflow is missing"]
     try:
         text = workflow_entry.data.decode("utf-8", "strict")
-    except UnicodeDecodeError as exc:
-        return errors + [f"global index housekeeping workflow is not UTF-8: {exc}"]
-    for required_path in (
-        "tools/synchronize_global_registries.py",
-        "governance/policies/AUTOMATED_GLOBAL_INDEX_MAINTENANCE.md",
-        "governance/policies/CHARACTER_DISCOVERY_MAINTENANCE.md",
+        workflow = _restricted_yaml_load(
+            re.sub(r"(?m)^on:", '"on":', text), HOUSEKEEPING_WORKFLOW_PATH
+        )
+    except (UnicodeDecodeError, DomainError, TypeError, ValueError) as exc:
+        return [f"invalid global index housekeeping workflow: {exc}"]
+    if not isinstance(workflow, Mapping):
+        return ["global index housekeeping workflow must be a mapping"]
+    if workflow.get("on") != {"workflow_run": {
+        "workflows": ["Repository audit"], "types": ["completed"],
+        "branches": ["series/**", "studies/**"],
+    }}:
+        errors.append("housekeeping must run only after Repository audit completes on series/study branches")
+    if workflow.get("permissions") != {"contents": "write"}:
+        errors.append("housekeeping token must have contents: write only")
+    jobs = workflow.get("jobs", {})
+    if not isinstance(jobs, Mapping) or any(
+        not isinstance(job, Mapping) or "permissions" in job or "uses" in job
+        for job in jobs.values()
     ):
-        required_entry = snapshot.get(required_path)
-        if required_entry is None or not required_entry.qualifies_as_evidence:
-            errors.append(f"global index automation dependency is missing: {required_path}")
-    required_fragments = (
-        "name: Global index housekeeping",
-        "  workflow_run:",
-        "      - Repository audit",
-        "  contents: write",
-        "github.event.workflow_run.actor.login == github.repository_owner",
+        errors.append("housekeeping jobs may not widen permissions or call reusable workflows")
+    for fragment in (
+        "github.event.workflow_run.event == 'push'",
         "github.event.workflow_run.conclusion == 'success'",
-        "steps.acquire.outputs.ready == 'true'",
-        "Superseded housekeeping run",
-        "Superseded before publication",
-        "Main advanced during housekeeping",
-        'dispatch_exact_audit "${SOURCE_SHA}"',
-        "Superseded before no-op certification",
+        "github.event.workflow_run.actor.login == github.repository_owner",
         "git merge-base --is-ancestor origin/main HEAD",
-        "tools/synchronize_global_registries.py",
-        "tools/update_repository_indexes.py",
-        "tools/prepare_commit.py --base origin/main --check --full",
-        'export GIT_AUTHOR_NAME="deep-blue-zero"',
-        'export GIT_COMMITTER_NAME="GitHub"',
-        'git push origin "HEAD:refs/heads/${BRANCH_NAME}"',
-        '"event_type": "audit-generated-commit"',
-    )
-    for path in sorted(GLOBAL_AUTOMATION_WRITE_PATHS):
-        required_fragments += (f'"{path}"',)
-    for fragment in required_fragments:
+    ):
         if fragment not in text:
             errors.append(f"global index housekeeping workflow missing contract: {fragment}")
-    # Branch confinement may admit coordinated agent-authored character repairs,
-    # but the actual generated/staged output set must remain the five routing paths.
+    # Branches may carry coordinated character repairs, but the generated and
+    # staged output set must remain the five routing paths.
     output_blocks = re.findall(
         r"readonly generated_paths=\((.*?)\)", text, flags=re.DOTALL
     )
@@ -551,25 +521,13 @@ def validate_global_index_automation(
 
 
 def validate_nightly_integration(snapshot: GitSnapshot) -> list[str]:
-    """Keep the third approved workflow bound to the reviewed controller and envelope."""
-    policy_path = "governance/repository-controls/nightly-integration-policy.json"
-    controller_path = "tools/nightly_integration.py"
+    """Keep the bulk-merge workflow manual-only, read-only and limited to the merge script."""
     errors: list[str] = []
-    entry = snapshot.get(policy_path)
-    if entry is None:
-        return ["nightly integration policy is missing"]
+    for path in (NIGHTLY_WORKFLOW_PATH, "tools/nightly_integration.py"):
+        candidate = snapshot.get(path)
+        if candidate is None or candidate.mode != "100644":
+            errors.append(f"nightly integration file is missing or not a regular file: {path}")
     try:
-        document = json.loads(entry.data)
-        if set(document) != {"schema", "workflow", "controller", "workflow_sha256", "controller_sha256"}:
-            errors.append("nightly integration policy fields are not exact")
-        if document.get("schema") != "anime-manga-ln-games-analysis/nightly-integration/v1":
-            errors.append("nightly integration policy schema is not exact")
-        for role, path in (("workflow", NIGHTLY_WORKFLOW_PATH), ("controller", controller_path)):
-            candidate = snapshot.get(path)
-            if document.get(role) != path or candidate is None or candidate.mode != "100644":
-                errors.append(f"nightly integration {role} path or file mode is not exact")
-            elif hashlib.sha256(candidate.data).hexdigest() != document.get(role + "_sha256"):
-                errors.append(f"nightly integration {role} differs from its reviewed SHA-256 binding")
         candidate = snapshot.get(NIGHTLY_WORKFLOW_PATH)
         if candidate is None:
             return errors
@@ -577,10 +535,8 @@ def validate_nightly_integration(snapshot: GitSnapshot) -> list[str]:
         workflow = _restricted_yaml_load(text.replace("\non:", '\n"on":'), NIGHTLY_WORKFLOW_PATH)
         if set(workflow) != {"name", "on", "permissions", "concurrency", "jobs"}:
             errors.append("nightly integration workflow envelope is not exact")
-        if set(workflow.get("on", {})) != {"schedule", "workflow_dispatch"}:
-            errors.append("nightly integration triggers must be schedule and manual only")
-        if workflow.get("on", {}).get("schedule") != [{"cron": "0 7 * * *", "timezone": "America/New_York"}]:
-            errors.append("nightly integration must run at 07:00 America/New_York")
+        if set(workflow.get("on", {})) != {"workflow_dispatch"}:
+            errors.append("bulk-merge workflow must be manual-only; scheduled apply is prohibited")
         if workflow.get("permissions") != {"contents": "read", "actions": "read", "statuses": "read", "pull-requests": "read"}:
             errors.append("nightly integration repository token must remain read-only")
         if workflow.get("concurrency") != {"group": "nightly-analytical-integration", "cancel-in-progress": False}:
@@ -589,7 +545,7 @@ def validate_nightly_integration(snapshot: GitSnapshot) -> list[str]:
         if set(jobs) != {"integrate"}:
             errors.append("nightly integration may contain only its trusted controller job")
         job = jobs.get("integrate", {})
-        expected_if = "github.repository == 'deep-blue-zero/anime-manga-ln-games-analysis' && github.ref == 'refs/heads/main'"
+        expected_if = "github.repository == 'deep-blue-zero/anime-manga-ln-games-analysis' && github.ref == 'refs/heads/main' && github.event_name == 'workflow_dispatch' && github.actor == 'deep-blue-zero'"
         if job.get("if") != expected_if or job.get("runs-on") != "ubuntu-24.04" or job.get("timeout-minutes") != 180:
             errors.append("nightly integration repository, branch, runner, or timeout guard differs")
         if "permissions" in job or "uses" in job or "environment" in job:
@@ -1179,16 +1135,13 @@ def require_g3_selection(root: Path, kind: str, commit: str | None, has_manifest
     return selected
 
 
-def validate_protected(snapshot: GitSnapshot) -> list[str]:
+def validate_protected(snapshot: GitSnapshot, hashes: Mapping[str, str] = PROTECTED_HASHES) -> list[str]:
     errors: list[str] = []
-    for path, expected in PROTECTED_HASHES.items():
+    for path, expected in hashes.items():
         entry = snapshot.get(path)
         actual = hashlib.sha256(entry.data).hexdigest() if entry is not None else "MISSING"
         if actual != expected:
             errors.append(f"protected path drift: {path}; expected={expected}, actual={actual}")
-    for path in RESERVED_ABSENT:
-        if snapshot.get(path) is not None:
-            errors.append(f"reserved reconstruction production path must remain absent: {path}")
     return errors
 
 
@@ -1409,6 +1362,7 @@ def _load_project_initiation_gate(
                 continue
             errors.extend(_closure_record_errors(label, prefix, closure))
     errors.extend(_run_closure_amendments(control)[1])
+    errors.extend(publication_grants(control)[1])
     return (None if errors else control), errors
 
 
@@ -2108,6 +2062,57 @@ def _validate_run_admission(
     return errors
 
 
+def _completed_publication_previous(
+    snapshot: GitSnapshot, prefix: str, entrypoint: str, classification: Mapping[str, Any]
+) -> tuple[Any, list[str]]:
+    """Recover an exact historical completion without trusting a mutable label."""
+    path = prefix + PROOF_NAME
+    proof_entry = snapshot.get(path)
+    if proof_entry is None:
+        return None, []
+    try:
+        if not proof_entry.qualifies_as_evidence:
+            raise DomainError("completion proof must be a regular tracked text blob")
+        proof = CompletionProof(decode_json(proof_entry.data, path), prefix, entrypoint)
+        completed, active = proof.markdown_snapshot(snapshot, prefix, entrypoint)
+        historical = completed.get(entrypoint)
+        current = snapshot.get(entrypoint)
+        if historical is None or current is None or not historical.qualifies_as_evidence:
+            raise DomainError("completion proof has no regular completed entrypoint")
+        old_state, old_errors = _execution_state(historical.data, entrypoint)
+        new_state, new_errors = _execution_state(current.data, entrypoint)
+        if (old_errors or new_errors or old_state != new_state
+                or old_state.get("run_state") not in TERMINAL_RUN_STATES):
+            raise DomainError("completion proof and current operational state disagree")
+        transition = _validate_run_admission(
+            completed, entrypoint, active, admission=True, strict=True,
+        )
+        if transition:
+            raise DomainError("completion proof has no valid active-to-completed transition: " + "; ".join(transition))
+
+        def readings(view: GitSnapshot) -> dict[str, bytes]:
+            result = {}
+            for name, entry in view.entries.items():
+                if name.startswith(prefix) and name.endswith(".md"):
+                    classified, fallback, failures = _is_substantive_sequential_artifact(
+                        name, entry, classification,
+                    )
+                    if failures or fallback:
+                        raise DomainError("completion proof cannot classify historical/current Markdown: " + name)
+                    if classified:
+                        if not entry.qualifies_as_evidence:
+                            raise DomainError("completion proof reading is not a regular blob: " + name)
+                        result[name] = entry.data
+            return result
+
+        frozen, candidate = readings(completed), readings(snapshot)
+        if not frozen or frozen != candidate:
+            raise DomainError("completion proof reading set or bytes differ from the completed snapshot")
+        return active, []
+    except (DomainError, UnicodeError, ValueError, TypeError) as exc:
+        return None, [f"{path}: invalid completed-run publication proof: {exc}"]
+
+
 def _validate_sealed_readings(
     snapshot: GitSnapshot,
     entrypoint_path: str,
@@ -2397,11 +2402,13 @@ def validate_project_initiation_gate(
     admission_tree: dict[str, tuple[str, str]] = {}
     prior_rows: dict[str, list[Mapping[str, Any]]] = {}
     history = None
+    comparison = None
     if base_commit is not None:
         try:
-            comparison = base_commit
-            if snapshot.identity == base_commit:
-                comparison = run_git(snapshot.root, "rev-parse", base_commit + "^1").decode().strip()
+            comparison = (
+                run_git(snapshot.root, "rev-parse", base_commit + "^1").decode().strip()
+                if snapshot.identity == base_commit else base_commit
+            )
             raw = run_git(snapshot.root, "ls-tree", "-r", "-z", "--full-tree", comparison)
             for item in raw.split(b"\0"):
                 if item:
@@ -2441,6 +2448,17 @@ def validate_project_initiation_gate(
         digest.update(b"blob " + str(len(entry.data)).encode("ascii") + b"\0")
         digest.update(entry.data)
         return digest.hexdigest() == previous[1]
+
+    # Publication grants bind from main before this transaction too: the
+    # self-audit judges publication by the first parent, never the commit.
+    publications: dict[str, set[str]] = {}
+    if comparison is not None:
+        publications, publication_errors = frozen_publication_paths(
+            snapshot, comparison, control,
+            {row["repository_path"]: row.get("canonical_entrypoint") for _, row in rows
+             if _valid_nonempty_string(row.get("repository_path"))},
+        )
+        errors.extend(publication_errors)
 
     for label, row in rows:
         project_prefix = row.get("repository_path")
@@ -2494,7 +2512,8 @@ def validate_project_initiation_gate(
             )
             errors.extend(artifact_errors)
             if classified:
-                if not unchanged_on_main(path, candidate):
+                if (not unchanged_on_main(path, candidate)
+                        and path not in publications.get(project_prefix, set())):
                     admissions.append(path)
                 if path not in baseline_paths:
                     new_sequential.append(path)
@@ -2530,6 +2549,36 @@ def validate_project_initiation_gate(
                 previous = history.get(previous_path) if _valid_nonempty_string(previous_path) else None
                 if admissions and (previous is None or not previous.qualifies_as_evidence):
                     errors.append(f"{entrypoint}: admission history prior canonical entrypoint is unavailable")
+            # A first publication may batch an actually completed local run.
+            # A self-contained proof survives squash integration and requires
+            # the exact completed reading set, never merely an active ancestor.
+            # It replaces only main with no recorded run or a consistently
+            # completed one: main's active run keeps the ordinary closing route
+            # without consulting a stale proof, and its blocked, interrupted or
+            # malformed state is never bypassed.
+            current_entry = snapshot.get(entrypoint)
+            state, _ = _execution_state(current_entry.data, entrypoint) if current_entry else ({}, [])
+            run_state = state.get("run_state")
+            prior_state, prior_errors = (
+                _execution_state(previous.data, entrypoint) if previous else ({}, [])
+            )
+            prior_run = prior_state.get("run_state")
+            # Main's completion must itself pass the ordinary consistency rules
+            # (for example, both next operations NONE) before a proof replaces it.
+            prior_inconsistent = _validate_run_admission(
+                GitSnapshot(snapshot.root, "MAIN_RUN_STATE", {entrypoint: previous}),
+                entrypoint, None, admission=False, strict=True,
+            ) if previous else []
+            if (admissions and isinstance(run_state, str) and run_state in TERMINAL_RUN_STATES
+                    and not prior_errors and not prior_inconsistent
+                    and ("run_state" not in prior_state or (
+                        isinstance(prior_run, str) and prior_run in TERMINAL_RUN_STATES))):
+                proved_previous, proof_errors = _completed_publication_previous(
+                    snapshot, project_prefix, entrypoint, classification,
+                )
+                errors.extend(proof_errors)
+                if proved_previous is not None:
+                    previous = proved_previous
             errors.extend(_validate_run_admission(
                 snapshot, entrypoint, previous,
                 admission=bool(admissions), strict=strict,
@@ -3103,10 +3152,10 @@ def _compare_crosswalk_field(
 def active_migration_baseline_commit(snapshot: GitSnapshot) -> str | None:
     """Return the immutable migration baseline once Git authority is active."""
 
-    entry = snapshot.get("governance/AUTHORITY_SCOPE.json")
+    entry = snapshot.get(AUTHORITY_SCOPE_PATH)
     if entry is None:
         return None
-    scope = decode_json(entry.data, "governance/AUTHORITY_SCOPE.json")
+    scope = decode_json(entry.data, AUTHORITY_SCOPE_PATH)
     if not isinstance(scope, Mapping):
         raise DomainError("authority scope must be an object")
     activation = scope.get("activation")
@@ -3126,13 +3175,13 @@ def validate_active_authority_scope(snapshot: GitSnapshot, baseline_commit: str 
     if baseline_commit is None:
         return []
     errors: list[str] = []
-    scope_entry = snapshot.get("governance/AUTHORITY_SCOPE.json")
-    cutover_entry = snapshot.get("governance/cutovers/AUTHORITY_EPOCH_1.json")
+    scope_entry = snapshot.get(AUTHORITY_SCOPE_PATH)
+    cutover_entry = snapshot.get(AUTHORITY_CUTOVER_PATH)
     if scope_entry is None or cutover_entry is None:
         return ["active authority scope or epoch-1 cutover record is absent"]
     try:
-        scope = decode_json(scope_entry.data, "governance/AUTHORITY_SCOPE.json")
-        cutover = decode_json(cutover_entry.data, "governance/cutovers/AUTHORITY_EPOCH_1.json")
+        scope = decode_json(scope_entry.data, AUTHORITY_SCOPE_PATH)
+        cutover = decode_json(cutover_entry.data, AUTHORITY_CUTOVER_PATH)
     except (DomainError, json.JSONDecodeError, UnicodeDecodeError) as exc:
         return [str(exc)]
     if not isinstance(scope, Mapping) or not isinstance(cutover, Mapping):
@@ -4124,6 +4173,297 @@ def validate_current_domain(
     return errors
 
 
+def _reconstruction_target_commit(root: Path, kind: str, commit: str | None) -> str | None:
+    if kind == "commit":
+        return commit
+    try:
+        return run_git(root, "rev-parse", "--verify", "-q", "HEAD^{commit}").decode("ascii").strip()
+    except DomainError:
+        return None
+
+
+def _reconstruction_integration_base(root: Path, target: str | None, kind: str) -> str | None:
+    """Return the published history the validated change is compared against.
+
+    For a branch this is the merge base with current main. An exact commit that
+    main already contains (the push audit of an integration, where the audit
+    fetches the updated main) is compared with its first parent, the pre-merge
+    main, so the integrated delta is still checked.
+    """
+
+    main_commit = _run_closure_base_commit(root)
+    if main_commit is None or target is None:
+        return None
+    base = run_git(root, "merge-base", target, main_commit).decode("ascii").strip()
+    if kind == "commit" and base == target:
+        try:
+            return run_git(root, "rev-parse", "--verify", "-q", f"{target}^1^{{commit}}").decode(
+                "ascii"
+            ).strip()
+        except DomainError:
+            return None
+    return base
+
+
+def _reconstruction_delta_paths(root: Path, kind: str, base: str, commit: str | None) -> set[str]:
+    if kind == "commit":
+        args = ["diff", "--name-only", "--no-renames", "-z", base, str(commit), "--"]
+    elif kind == "index":
+        args = ["diff", "--cached", "--name-only", "--no-renames", "-z", base, "--"]
+    else:
+        args = ["diff", "--name-only", "--no-renames", "-z", base, "--"]
+    paths = set(_git_paths(root, *args))
+    if kind == "worktree":
+        paths.update(_git_paths(root, "ls-files", "--others", "--exclude-standard", "-z"))
+    return paths
+
+
+def validate_reconstruction_domain(
+    root: Path,
+    snapshot: GitSnapshot,
+    kind: str,
+    commit: str | None,
+    authority: AuthorityGraph | None = None,
+) -> tuple[list[str], list[str]]:
+    """Validate the production capability registry; return errors and notices.
+
+    Historical validity is always blocking. Effective currentness blocks only
+    records this change adds or transitions; an untouched assessment made stale
+    by later integrated evidence is reported for evaluator reconciliation and
+    never obstructs unrelated analytical or discovery publication.
+    """
+
+    errors: list[str] = []
+    notices: list[str] = []
+    phase, policy_errors = load_reconstruction_policy(snapshot)
+    errors.extend(policy_errors)
+    registry = snapshot.get(RECONSTRUCTION_REGISTRY_PATH)
+    output = snapshot.get(RECONSTRUCTION_INDEX_PATH)
+    schema_entry = snapshot.get(RECONSTRUCTION_SCHEMA_PATH)
+    if registry is None or not registry.qualifies_as_evidence:
+        errors.append(f"production capability registry is missing: {RECONSTRUCTION_REGISTRY_PATH}")
+    if output is None or not output.qualifies_as_evidence:
+        errors.append(f"generated reconstruction index is missing: {RECONSTRUCTION_INDEX_PATH}")
+    if schema_entry is None or not schema_entry.qualifies_as_evidence:
+        errors.append(f"reconstruction capability schema is missing: {RECONSTRUCTION_SCHEMA_PATH}")
+    if registry is None or schema_entry is None or not registry.qualifies_as_evidence:
+        return errors, notices
+    try:
+        records_with_lines = decode_reconstruction_registry(
+            registry.data, f"{snapshot.identity}:{RECONSTRUCTION_REGISTRY_PATH}"
+        )
+        schema = decode_json(schema_entry.data, RECONSTRUCTION_SCHEMA_PATH)
+        if not isinstance(schema, dict):
+            raise DomainError("reconstruction capability schema is not a JSON object")
+        validate_schema_document(schema, "reconstruction capability schema")
+    except DomainError as exc:
+        return errors + [str(exc)], notices
+    diagnostics = []
+    for line_number, record in records_with_lines:
+        diagnostics.extend(
+            schema_diagnostics(record, schema, RECONSTRUCTION_REGISTRY_PATH, line_number=line_number)
+        )
+    schema_failures = render_schema_diagnostics(diagnostics)
+    if schema_failures:
+        return errors + schema_failures, notices
+    assessments = [record for _line_number, record in records_with_lines]
+    for record in assessments:
+        status = record["assessment_status"]
+        if status == "UNASSESSED":
+            errors.append(
+                f"{record['assessment_id']}: the production registry does not admit UNASSESSED "
+                "placeholders; eligible-but-unassessed state is derived from discovery"
+            )
+        if status == "REVIEWED" and phase != "ROUTINE":
+            errors.append(
+                f"{record['assessment_id']}: REVIEWED publication requires the ROUTINE phase "
+                "after owner-accepted calibration"
+            )
+    target = _reconstruction_target_commit(root, kind, commit)
+    try:
+        base = _reconstruction_integration_base(root, target, kind)
+    except DomainError as exc:
+        return errors + [f"unable to determine the reconstruction integration base: {exc}"], notices
+    if base is None and assessments:
+        errors.append(
+            "reconstruction validation needs refs/remotes/origin/main to bind basis commits "
+            "and published history; fetch main first"
+        )
+    current_records: list[dict[str, Any]] = []
+    discovery_entry = snapshot.get("characters/registry.jsonl")
+    if discovery_entry is not None:
+        try:
+            current_records = [
+                record
+                for _line_number, record in decode_jsonl_with_lines(
+                    discovery_entry.data, f"{snapshot.identity}:characters/registry.jsonl"
+                )
+            ]
+        except DomainError as exc:
+            errors.append(str(exc))
+    evaluation = evaluate_reconstruction_assessments(
+        assessments,
+        root,
+        comparison=snapshot,
+        comparison_records=current_records,
+        comparison_authority=authority,
+        basis_ancestor_of=base,
+    )
+    errors.extend(evaluation.errors)
+    base_records: list[dict[str, Any]] = []
+    if base is not None:
+        try:
+            base_snapshot = GitSnapshot.from_commit(root, base, paths={RECONSTRUCTION_REGISTRY_PATH})
+            base_entry = base_snapshot.get(RECONSTRUCTION_REGISTRY_PATH)
+            if base_entry is not None:
+                base_records = [
+                    record
+                    for _line_number, record in decode_reconstruction_registry(
+                        base_entry.data, f"{base}:{RECONSTRUCTION_REGISTRY_PATH}"
+                    )
+                ]
+        except DomainError as exc:
+            errors.append(f"unable to read the published capability registry at {base}: {exc}")
+    touched, change_errors = reconstruction_registry_changes(base_records, assessments)
+    errors.extend(change_errors)
+    for index in sorted(evaluation.currentness):
+        item = evaluation.currentness[index]
+        if item.effectively_current or item.recorded_status not in {"CANDIDATE", "REVIEWED"}:
+            continue
+        detail = f"{item.assessment_id} ({item.recorded_status}): {', '.join(item.reasons)}"
+        if item.assessment_id in touched:
+            errors.append(
+                f"newly published or transitioned assessment is not effectively current: {detail}"
+            )
+        else:
+            notices.append(
+                f"recorded assessment is effectively stale pending evaluator reconciliation: {detail}"
+            )
+    if base is not None:
+        try:
+            changed = _reconstruction_delta_paths(root, kind, base, commit)
+        except DomainError as exc:
+            errors.append(f"unable to determine the reconstruction delta: {exc}")
+            changed = set()
+        if (
+            changed & RECONSTRUCTION_OUTPUTS
+            and changed - RECONSTRUCTION_OUTPUTS
+            and RECONSTRUCTION_POLICY_PATH not in changed
+        ):
+            errors.append(
+                "reconstruction production outputs must change alone; other changed paths: "
+                + str(sorted(changed - RECONSTRUCTION_OUTPUTS, key=lambda item: item.encode("utf-8")))
+            )
+    if output is not None and not evaluation.errors:
+        try:
+            rendered = render_reconstruction_index(assessments, evaluation.basis_entries)
+            if output.data != rendered.encode("utf-8"):
+                errors.append(f"{RECONSTRUCTION_INDEX_PATH} is out of date")
+        except (DomainError, KeyError, ValueError) as exc:
+            errors.append(f"unable to render the reconstruction index: {exc}")
+    return errors, notices
+
+
+def validate_discovery_branch_confinement(root: Path, kind: str, commit: str | None) -> list[str]:
+    """Bound a `character-registry` delta to the two discovery outputs.
+
+    Applied only to the curation agent's continuing branch: coordinated
+    pre-merge repairs on analytical branches legitimately carry the same two
+    files beside their analytical root and are confined by housekeeping and the
+    integration controller instead.
+    """
+
+    target = _reconstruction_target_commit(root, kind, commit)
+    try:
+        base = _reconstruction_integration_base(root, target, kind)
+    except DomainError as exc:
+        return [f"unable to determine the discovery branch base: {exc}"]
+    if base is None:
+        return [
+            "discovery branch confinement needs refs/remotes/origin/main; fetch main first"
+        ]
+    try:
+        changed = _reconstruction_delta_paths(root, kind, base, commit)
+    except DomainError as exc:
+        return [f"unable to determine the discovery branch delta: {exc}"]
+    extra = sorted(changed - DISCOVERY_OUTPUTS, key=lambda item: item.encode("utf-8"))
+    if extra:
+        return [
+            "character-registry delta may contain only characters/registry.jsonl and "
+            f"CHARACTER_ANALYSIS_INDEX.md; other changed paths: {extra}"
+        ]
+    return []
+
+
+def discovery_branch_candidate(root: Path, kind: str, commit: str | None) -> bool:
+    """Whether the audited commit is unmerged `character-registry` history.
+
+    Identity comes from the fetched live branch ref, so every audit of such a
+    commit is confined whichever event started it, including an exact-commit
+    repository dispatch whose run context names `main`.
+    """
+
+    target = _reconstruction_target_commit(root, kind, commit)
+    if target is None:
+        return False
+    try:
+        tip = run_git(root, "rev-parse", "--verify", "-q", DISCOVERY_BRANCH_REF + "^{commit}").decode(
+            "ascii"
+        ).strip()
+    except DomainError:
+        return False
+    if not is_ancestor_commit(root, target, tip):
+        return False
+    main_commit = _run_closure_base_commit(root)
+    return not (main_commit is not None and is_ancestor_commit(root, target, main_commit))
+
+
+def discovery_confinement_errors(
+    root: Path, kind: str, commit: str | None, *, requested: bool
+) -> list[str]:
+    """Apply confinement when requested explicitly or the commit is curation history."""
+
+    try:
+        applies = requested or discovery_branch_candidate(root, kind, commit)
+    except DomainError as exc:
+        return [f"unable to determine whether the audited commit is curation history: {exc}"]
+    return validate_discovery_branch_confinement(root, kind, commit) if applies else []
+
+
+def validate_routing_branch_scope(root: Path, kind: str, commit: str | None, branch: str) -> list[str]:
+    """Bound a series/study branch delta to its own root and the shared outputs.
+
+    The routing preflight applies this so a passing analysis-branch audit is
+    integration-ready without a separate housekeeping certification. A commit
+    already contained in main has nothing left to integrate.
+    """
+
+    if not re.fullmatch(r"(series|studies)/[a-z0-9][a-z0-9-]*", branch):
+        return [f"routing preflight requires a series/study branch: {branch}"]
+    target = _reconstruction_target_commit(root, kind, commit)
+    main_commit = _run_closure_base_commit(root)
+    if target is None or main_commit is None:
+        return ["analysis branch scope needs the audited commit and refs/remotes/origin/main"]
+    try:
+        base = run_git(root, "merge-base", target, main_commit).decode("ascii").strip()
+        if kind == "commit" and base == target:
+            return []
+        changed = _reconstruction_delta_paths(root, kind, base, commit)
+    except DomainError as exc:
+        return [f"unable to determine the analysis branch delta: {exc}"]
+    allowed = set(ROUTING_OUTPUTS) | set(DISCOVERY_OUTPUTS)
+    extra = sorted(
+        (path for path in changed if path not in allowed and not path.startswith(branch + "/")),
+        key=lambda item: item.encode("utf-8"),
+    )
+    if extra:
+        return [
+            f"{branch} may change only its own root, the five routing outputs and the two "
+            f"discovery outputs; other changed paths: {extra}"
+        ]
+    return []
+
+
 def choose_snapshot(root: Path, kind: str, commit: str | None) -> tuple[GitSnapshot, list[str]]:
     if kind == "commit":
         if commit is None:
@@ -4147,6 +4487,11 @@ def main() -> int:
     parser.add_argument("--commit")
     parser.add_argument("--manifest", type=Path)
     parser.add_argument("--routing-preflight", metavar="ANALYTICAL_BRANCH")
+    parser.add_argument(
+        "--discovery-branch-confinement",
+        action="store_true",
+        help="require the delta against main to contain only the two discovery outputs",
+    )
     parser.add_argument("--result-json", type=Path)
     parser.add_argument("--timings-json", type=Path)
     parser.add_argument("--repo", type=Path)
@@ -4168,8 +4513,13 @@ def main() -> int:
             args.phase != "current" or kind not in {"index", "commit"}
         ):
             raise DomainError("routing preflight requires a current Git index or exact commit")
+        if args.discovery_branch_confinement and (
+            args.phase != "current" or kind not in {"index", "commit"}
+        ):
+            raise DomainError("discovery branch confinement requires a current Git index or exact commit")
         snapshot, paths = timer.call("snapshot", choose_snapshot, root, kind, commit)
         deferred_routing: list[str] = []
+        reconstruction_notices: list[str] = []
         policy = _policy_from_snapshot(snapshot)
         errors: list[str] = []
         if args.manifest:
@@ -4191,10 +4541,13 @@ def main() -> int:
             from analytical_preflight import routing_preflight
 
             snapshot, deferred_routing = timer.call("routing_preflight", routing_preflight, snapshot, args.routing_preflight)
+            errors.extend(
+                timer.call("routing_scope", validate_routing_branch_scope, root, kind, commit, args.routing_preflight)
+            )
         if args.phase == "g3":
             errors.extend(timer.call("protected", validate_protected, snapshot))
         else:
-            errors.extend(timer.call("protected", validate_protected, snapshot))
+            errors.extend(timer.call("protected", validate_protected, snapshot, ARCHIVED_PROTECTED_HASHES))
             errors.extend(timer.call("links", validate_markdown_links, snapshot))
             errors.extend(timer.call("audit_workflow", validate_audit_workflow, snapshot, policy))
             errors.extend(timer.call("housekeeping", validate_global_index_automation, snapshot, policy))
@@ -4235,6 +4588,21 @@ def main() -> int:
             errors.extend(timer.call("character_domain", validate_current_domain, root, snapshot, True, authority))
             generator_snapshot = "commit" if kind == "commit" else kind
             errors.extend(timer.call("character_render", validate_generated_index, snapshot, generator_snapshot, authority))
+            reconstruction_errors, reconstruction_notices = timer.call(
+                "reconstruction", validate_reconstruction_domain, root, snapshot, kind, commit, authority
+            )
+            errors.extend(reconstruction_errors)
+            if args.phase == "current" and kind in {"index", "commit"}:
+                errors.extend(
+                    timer.call(
+                        "discovery_confinement",
+                        discovery_confinement_errors,
+                        root,
+                        kind,
+                        commit,
+                        requested=args.discovery_branch_confinement,
+                    )
+                )
             if not deferred_routing:
                 errors.extend(
                     timer.call("catalog_render", validate_generated_repository_indexes, snapshot)
@@ -4249,10 +4617,13 @@ def main() -> int:
                     "audited_commit": commit,
                     "integration_state": "pending" if deferred_routing else "success",
                     "deferred_routing_paths": deferred_routing,
+                    "reconstruction_currentness_notices": reconstruction_notices,
                 }) + "\n",
                 encoding="utf-8",
             )
         outcome = "pending" if deferred_routing else "success"
+        for notice in reconstruction_notices:
+            print(f"NOTICE: {notice}")
         if deferred_routing:
             print(
                 f"AWAITING_SYNCHRONIZATION: source={snapshot.identity} paths={deferred_routing}; "

@@ -1,0 +1,47 @@
+{
+  "schema": "KONOSUBA_SOURCE_KNOWN_SAME_AUTHOR_INTERNAL_RECEIVING_V1",
+  "recorded_utc": "2026-10-20T01:16:17.196009+00:00",
+  "spec_sha256": "882bf0276a5e40368939bc0974564c4b113b2f17074e49c861aca94fdfd04a27",
+  "actual_first_responses_sha256": "f76f50d2a35d36fe513d615a351de1a4fe9a1a0e8fbe9bde5de0496ed2bede53",
+  "six_outputs_preserved_unchanged": true,
+  "provenance": "Same root author sequential review; no independently invoked judge, blindness, native-human review, source event, predictive rate, or original-score change.",
+  "pair_receiving": [
+    {
+      "id": "DS-H01",
+      "actual": "A attempts protective spear action; B chooses same-fee sword display.",
+      "receiving": "Internally coherent role/permission differentiation, not unique identification of a privacy mechanism.",
+      "serious_rivals": [
+        "Following the explicitly given weapon instruction alone explains the difference.",
+        "Task reach and equal fee sharply constrain the choices.",
+        "A helpful output cannot reinstate N01 or establish dependable protection under leisure competition."
+      ],
+      "scope": "No claim of a new independent successful trial or completed rescue."
+    },
+    {
+      "id": "DS-H02",
+      "actual": "A accepts an unconditional gift; B knowingly appropriates entrusted rent money without permission or guaranteed repayment.",
+      "receiving": "Adverse B belongs to the model repertoire, but B is not evidence of ignorance or failed term discovery.",
+      "serious_rivals": [
+        "DS-D-04 does not uniquely choose delivery versus appropriation.",
+        "A is made easy by an explicit secured term; no hard negotiation is tested.",
+        "The leisure desire and ownership difference do not isolate the weights of greed, shame, or past learning."
+      ],
+      "scope": "Do not sanitize B into compliance or label its misconduct a validated underchecking prediction. No repayment generated."
+    },
+    {
+      "id": "DS-H03",
+      "actual": "Both outputs accept the apparent Leen and use the same short reply; A omits an accessible ribbon check, B lacks the cue and retains provisional belief.",
+      "receiving": "Source-access distinction preserved; no demonstrated difference in chosen behavior.",
+      "serious_rivals": [
+        "The same accepting action is compatible with several models.",
+        "A cue being visible does not guarantee attention; B can reasonably guess under missing information.",
+        "The appraisal annotations are authored and were not independently measured."
+      ],
+      "scope": "Failed behavioral discrimination remains explicit. No accuracy, native voice adequacy, or omniscience claim."
+    }
+  ],
+  "voice_receiving": "All six generated snippets are invented Japanese examples, not source quotations. They show selected rough-register jobs only; no formal-role contrast, listening, native-human judgment, or main J01/J02 result follows.",
+  "required_model_qualification": "Keep DS-D-02 and DS-D-04 choice underidentification and DS-H03 lack of behavioral separation explicit; retain all actual adverse source cases.",
+  "new_independent_test_count": 0,
+  "original_score_changes": false
+}

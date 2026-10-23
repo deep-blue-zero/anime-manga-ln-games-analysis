@@ -1,0 +1,217 @@
+{
+  "schema": "KONOSUBA_MAIN02_EXCLUDED_SELECTED_HUMOR_V1",
+  "source_id": "MAIN-02",
+  "records": [
+    {
+      "id": "M02EX-H01",
+      "boundary": {
+        "component_id": "MAIN-02-U024",
+        "start_P": 1,
+        "end_P": 13
+      },
+      "whole_selected_premise": "Megumin's clan-intelligence claim meets repeated ordinary SHOGI losses, while the world's supernatural board-game rules would permit radically different moves.",
+      "primary_L": "L2",
+      "L_rationale": "SHOGI and its contrast with local magic-piece rules need contextual explanation; the pride-versus-domain-performance contrast is portable.",
+      "primary_H": "H1",
+      "H_rationale": "Actual acts, speech or attributed retrospective claims are retained at the specified plane. Intention, narrated habitual behavior and unperformed actions are not silently promoted to direct completed events.",
+      "source_plane": "DIRECT_BONUS_WITH_KAZUMA_FOCALIZATION",
+      "eligibility_and_limits": "Purposefully selected overlapping contexts after the complete uncoded pass, not a gag census, independent trials, accuracy measure or moral endorsement. Preserve actual cost, refusal, information asymmetry and unresolved endings.",
+      "native_member": "item/xhtml/p-014.xhtml",
+      "native_member_sha256": "d657e5b745ee36cec2789fb32726c33c58a513ae69ec4a374cbd21766233017a",
+      "formal_assignment_after_seal_utc": "2026-10-19T06:53:14.842634+00:00",
+      "source_first_selection_precision": "Purposeful boundary selected after complete uncoded excluded-resource reception; original notes preserved. Not preselected independent windows or a population."
+    },
+    {
+      "id": "M02EX-H02",
+      "boundary": {
+        "component_id": "MAIN-02-U024",
+        "start_P": 14,
+        "end_P": 21
+      },
+      "whole_selected_premise": "The punitive wrist-flick stake attracts Darkness in Kazuma's habitual account, while the current losing player asks to retract a fork-producing move.",
+      "primary_L": "L2",
+      "L_rationale": "Shippé and the shogi fork supply specific game/stake meaning; neither entails central Japanese-only wordplay.",
+      "primary_H": "H1",
+      "H_rationale": "Actual acts, speech or attributed retrospective claims are retained at the specified plane. Intention, narrated habitual behavior and unperformed actions are not silently promoted to direct completed events.",
+      "source_plane": "DIRECT_BONUS_WITH_KAZUMA_FOCALIZATION",
+      "eligibility_and_limits": "Purposefully selected overlapping contexts after the complete uncoded pass, not a gag census, independent trials, accuracy measure or moral endorsement. Preserve actual cost, refusal, information asymmetry and unresolved endings.",
+      "native_member": "item/xhtml/p-014.xhtml",
+      "native_member_sha256": "d657e5b745ee36cec2789fb32726c33c58a513ae69ec4a374cbd21766233017a",
+      "formal_assignment_after_seal_utc": "2026-10-19T06:53:14.842634+00:00",
+      "source_first_selection_precision": "Purposeful boundary selected after complete uncoded excluded-resource reception; original notes preserved. Not preselected independent windows or a population."
+    },
+    {
+      "id": "M02EX-H03",
+      "boundary": {
+        "component_id": "MAIN-02-U024",
+        "start_P": 23,
+        "end_P": 30
+      },
+      "whole_selected_premise": "The loser has a red arm and still wants the rain Explosion outing, but refuses a change to luck-sensitive poker; different games do not equally serve her goal.",
+      "primary_L": "L1",
+      "L_rationale": "The causal contrast survives ordinary translation when the stated information and rules are preserved.",
+      "primary_H": "H1",
+      "H_rationale": "Actual acts, speech or attributed retrospective claims are retained at the specified plane. Intention, narrated habitual behavior and unperformed actions are not silently promoted to direct completed events.",
+      "source_plane": "DIRECT_BONUS_WITH_KAZUMA_FOCALIZATION",
+      "eligibility_and_limits": "Purposefully selected overlapping contexts after the complete uncoded pass, not a gag census, independent trials, accuracy measure or moral endorsement. Preserve actual cost, refusal, information asymmetry and unresolved endings.",
+      "native_member": "item/xhtml/p-014.xhtml",
+      "native_member_sha256": "d657e5b745ee36cec2789fb32726c33c58a513ae69ec4a374cbd21766233017a",
+      "formal_assignment_after_seal_utc": "2026-10-19T06:53:14.842634+00:00",
+      "source_first_selection_precision": "Purposeful boundary selected after complete uncoded excluded-resource reception; original notes preserved. Not preselected independent windows or a population."
+    },
+    {
+      "id": "M02EX-H04",
+      "boundary": {
+        "component_id": "MAIN-02-U024",
+        "start_P": 32,
+        "end_P": 43
+      },
+      "whole_selected_premise": "Megumin reasons from ordinary male visitors, Kazuma chooses female, and the actual visitor is Chris; the winning information route is initially concealed.",
+      "primary_L": "L1",
+      "L_rationale": "The causal contrast survives ordinary translation when the stated information and rules are preserved.",
+      "primary_H": "H1",
+      "H_rationale": "Actual acts, speech or attributed retrospective claims are retained at the specified plane. Intention, narrated habitual behavior and unperformed actions are not silently promoted to direct completed events.",
+      "source_plane": "DIRECT_BONUS_WITH_KAZUMA_FOCALIZATION",
+      "eligibility_and_limits": "Purposefully selected overlapping contexts after the complete uncoded pass, not a gag census, independent trials, accuracy measure or moral endorsement. Preserve actual cost, refusal, information asymmetry and unresolved endings.",
+      "native_member": "item/xhtml/p-014.xhtml",
+      "native_member_sha256": "d657e5b745ee36cec2789fb32726c33c58a513ae69ec4a374cbd21766233017a",
+      "formal_assignment_after_seal_utc": "2026-10-19T06:53:14.842634+00:00",
+      "source_first_selection_precision": "Purposeful boundary selected after complete uncoded excluded-resource reception; original notes preserved. Not preselected independent windows or a population."
+    },
+    {
+      "id": "M02EX-H05",
+      "boundary": {
+        "component_id": "MAIN-02-U024",
+        "start_P": 44,
+        "end_P": 50
+      },
+      "whole_selected_premise": "Kazuma discloses the overheard invitation before Megumin's unfairness accusation, then calls that advantage pre-match research. First account and subsequent mitigation are distinct.",
+      "primary_L": "L1",
+      "L_rationale": "The causal contrast survives ordinary translation when the stated information and rules are preserved.",
+      "primary_H": "H1",
+      "H_rationale": "Actual acts, speech or attributed retrospective claims are retained at the specified plane. Intention, narrated habitual behavior and unperformed actions are not silently promoted to direct completed events.",
+      "source_plane": "DIRECT_BONUS_WITH_KAZUMA_FOCALIZATION",
+      "eligibility_and_limits": "Purposefully selected overlapping contexts after the complete uncoded pass, not a gag census, independent trials, accuracy measure or moral endorsement. Preserve actual cost, refusal, information asymmetry and unresolved endings.",
+      "native_member": "item/xhtml/p-014.xhtml",
+      "native_member_sha256": "d657e5b745ee36cec2789fb32726c33c58a513ae69ec4a374cbd21766233017a",
+      "formal_assignment_after_seal_utc": "2026-10-19T06:53:14.842634+00:00",
+      "source_first_selection_precision": "Purposeful boundary selected after complete uncoded excluded-resource reception; original notes preserved. Not preselected independent windows or a population."
+    },
+    {
+      "id": "M02EX-H06",
+      "boundary": {
+        "component_id": "MAIN-02-U024",
+        "start_P": 52,
+        "end_P": 63
+      },
+      "whole_selected_premise": "A second knock gives both competitors the same male prediction and produces a turn-order argument instead of an answer; Darkness supplies the practical instruction, and the visitor remains unknown.",
+      "primary_L": "L1",
+      "L_rationale": "The causal contrast survives ordinary translation when the stated information and rules are preserved.",
+      "primary_H": "H1",
+      "H_rationale": "Actual acts, speech or attributed retrospective claims are retained at the specified plane. Intention, narrated habitual behavior and unperformed actions are not silently promoted to direct completed events.",
+      "source_plane": "DIRECT_BONUS_WITH_KAZUMA_FOCALIZATION",
+      "eligibility_and_limits": "Purposefully selected overlapping contexts after the complete uncoded pass, not a gag census, independent trials, accuracy measure or moral endorsement. Preserve actual cost, refusal, information asymmetry and unresolved endings.",
+      "native_member": "item/xhtml/p-014.xhtml",
+      "native_member_sha256": "d657e5b745ee36cec2789fb32726c33c58a513ae69ec4a374cbd21766233017a",
+      "formal_assignment_after_seal_utc": "2026-10-19T06:53:14.842634+00:00",
+      "source_first_selection_precision": "Purposeful boundary selected after complete uncoded excluded-resource reception; original notes preserved. Not preselected independent windows or a population."
+    },
+    {
+      "id": "M02EX-H07",
+      "boundary": {
+        "component_id": "MAIN-02-U011",
+        "image_id": "MAIN-02-IMG010"
+      },
+      "whole_selected_premise": "Aqua, Megumin and Darkness each claim protagonist status while Kazuma's repeated ellipses stage skeptical exclusion.",
+      "primary_L": "L1",
+      "L_rationale": "Competing promotional self-descriptions are portable; role vocabulary is not by itself L3.",
+      "primary_H": "H4",
+      "H_rationale": "Explicit staged profile, promotional or contributor frame; represented lines are retained without converting them into newly enacted mainline events.",
+      "source_plane": "STAGED_RASTER_PROFILE_SCRIPT",
+      "eligibility_and_limits": "Purposefully selected overlapping contexts after the complete uncoded pass, not a gag census, independent trials, accuracy measure or moral endorsement. Preserve actual cost, refusal, information asymmetry and unresolved endings.",
+      "native_image_sha256": "60b8669a374ea313774e9aa70c6c6f96d01556cbac7464139f06a693069c41a1",
+      "native_member": "item/xhtml/p-001.xhtml",
+      "native_member_sha256": "9950c0a509c9c6b36f767905184dc922501ed548dab7d76cce5892f4400899ae",
+      "formal_assignment_after_seal_utc": "2026-10-19T06:53:14.842634+00:00",
+      "source_first_selection_precision": "Purposeful boundary selected after complete uncoded excluded-resource reception; original notes preserved. Not preselected independent windows or a population."
+    },
+    {
+      "id": "M02EX-H08",
+      "boundary": {
+        "component_id": "MAIN-02-U012",
+        "image_id": "MAIN-02-IMG011"
+      },
+      "whole_selected_premise": "Wiz apologetically joins the protagonist contest; Eris announces replacing Aqua, whose body-inspection demand displaces Kazuma's introduction.",
+      "primary_L": "L1",
+      "L_rationale": "Apology, senior address and intrusion have ordinary pragmatic functions; the raster staging is explicit.",
+      "primary_H": "H4",
+      "H_rationale": "Explicit staged profile, promotional or contributor frame; represented lines are retained without converting them into newly enacted mainline events.",
+      "source_plane": "STAGED_RASTER_PROFILE_SCRIPT",
+      "eligibility_and_limits": "Purposefully selected overlapping contexts after the complete uncoded pass, not a gag census, independent trials, accuracy measure or moral endorsement. Preserve actual cost, refusal, information asymmetry and unresolved endings.",
+      "native_image_sha256": "2f830a8991e63a580d7020ffe8b81dbbd147d801d8f53eaf35b99ebf722e0549",
+      "native_member": "item/xhtml/p-002.xhtml",
+      "native_member_sha256": "e386d54be8e14503068e8d86aacc9420a7d349bb5aa666f95306d959023d9a91",
+      "formal_assignment_after_seal_utc": "2026-10-19T06:53:14.842634+00:00",
+      "source_first_selection_precision": "Purposeful boundary selected after complete uncoded excluded-resource reception; original notes preserved. Not preselected independent windows or a population."
+    },
+    {
+      "id": "M02EX-H09",
+      "boundary": {
+        "component_id": "MAIN-02-U021",
+        "image_id": "MAIN-02-IMG022"
+      },
+      "whole_selected_premise": "The illustrator celebrates volume2 with a kindly watering Wiz and an unfortunate-cute caption, rather than supplying a new canonical growth experiment.",
+      "primary_L": "L1",
+      "L_rationale": "Contributor evaluation and celebratory juxtaposition are portable; no new plant magic is inferred.",
+      "primary_H": "H4",
+      "H_rationale": "Explicit staged profile, promotional or contributor frame; represented lines are retained without converting them into newly enacted mainline events.",
+      "source_plane": "ILLUSTRATOR_CODA_AND_ATTRIBUTED_OPINION",
+      "eligibility_and_limits": "Purposefully selected overlapping contexts after the complete uncoded pass, not a gag census, independent trials, accuracy measure or moral endorsement. Preserve actual cost, refusal, information asymmetry and unresolved endings.",
+      "native_image_sha256": "a99233109d6688b9f5502a9346b8a68025498f54c9400a45b83aba8d071ea09f",
+      "native_member": "item/xhtml/p-011.xhtml",
+      "native_member_sha256": "7d3ef593fcb4e2b081f721a7415495401120fba81737edab62b9504b5c22ef7d",
+      "formal_assignment_after_seal_utc": "2026-10-19T06:53:14.842634+00:00",
+      "source_first_selection_precision": "Purposeful boundary selected after complete uncoded excluded-resource reception; original notes preserved. Not preselected independent windows or a population."
+    },
+    {
+      "id": "M02EX-H10",
+      "boundary": {
+        "component_id": "MAIN-02-U022",
+        "image_id": "MAIN-02-IMG023"
+      },
+      "whole_selected_premise": "A NEXT-page charge against Kazuma prompts denials and a proof request, then expands into allegations implicating his allies and a request to delay court.",
+      "primary_L": "L1",
+      "L_rationale": "Attribution, accumulating implications and abandoned defenses carry the effect; silence is not confession.",
+      "primary_H": "H4",
+      "H_rationale": "Explicit staged profile, promotional or contributor frame; represented lines are retained without converting them into newly enacted mainline events.",
+      "source_plane": "PROMOTIONAL_PREVIEW_SCRIPT",
+      "eligibility_and_limits": "Purposefully selected overlapping contexts after the complete uncoded pass, not a gag census, independent trials, accuracy measure or moral endorsement. Preserve actual cost, refusal, information asymmetry and unresolved endings.",
+      "native_image_sha256": "8ed8532f166c37e54b4ef7577103d7c174541dd84e224e60c5ff7004cad89d5e",
+      "native_member": "item/xhtml/p-012.xhtml",
+      "native_member_sha256": "5e6c3d548f8ffac4c7ed58e16ceaae57fc950ff75633585fcddc51faa0edba78",
+      "formal_assignment_after_seal_utc": "2026-10-19T06:53:14.842634+00:00",
+      "source_first_selection_precision": "Purposeful boundary selected after complete uncoded excluded-resource reception; original notes preserved. Not preselected independent windows or a population."
+    },
+    {
+      "id": "M02EX-H11",
+      "boundary": {
+        "component_id": "MAIN-02-U020",
+        "start_P": 4,
+        "end_P": 22
+      },
+      "whole_selected_premise": "The creator still suspects a publication prank, considers but does not perform a bookstore tantrum, and casts typhoon disruption as permission to play.",
+      "primary_L": "L1",
+      "L_rationale": "The self-deprecating account and explicitly imagined alternatives do not depend on an untranslatable form.",
+      "primary_H": "H1",
+      "H_rationale": "Actual acts, speech or attributed retrospective claims are retained at the specified plane. Intention, narrated habitual behavior and unperformed actions are not silently promoted to direct completed events.",
+      "source_plane": "AUTHOR_AFTERWORD_SELF_PRESENTATION",
+      "eligibility_and_limits": "Purposefully selected overlapping contexts after the complete uncoded pass, not a gag census, independent trials, accuracy measure or moral endorsement. Preserve actual cost, refusal, information asymmetry and unresolved endings.",
+      "native_member": "item/xhtml/p-010.xhtml",
+      "native_member_sha256": "6fef43e8fc6595655dc5ec7cbbc8cbbc35446558a904948f80ef8d2715120da6",
+      "formal_assignment_after_seal_utc": "2026-10-19T06:53:14.842634+00:00",
+      "source_first_selection_precision": "Purposeful boundary selected after complete uncoded excluded-resource reception; original notes preserved. Not preselected independent windows or a population."
+    }
+  ],
+  "H_protocol": "H1 actual acts/speech or attributed report at its stated plane; H4 explicit staged profile/promotional/contributor framing, not new literal mainline events. Fantasy or unperformed intention is not automatic H3/H4.",
+  "L_protocol": "Whole effect and nested written form are distinguished. Ordinary idiom, honorific, ruby and game vocabulary do not automatically create central Japanese-only dependence. Selected contexts overlap and are not a census."
+}

@@ -1,0 +1,86 @@
+{
+  "schema": "KONOSUBA_MAIN03_PERFORMER_OUTCOME_AND_SOURCE_PLANE_QUALIFICATION_V1",
+  "stable_revision": "CR-SECONDARY-MAIN03-PERFORMER-001",
+  "recorded_utc": "2026-10-20T06:49:48.331631+00:00",
+  "status": "CURRENT_ATTRIBUTABLE_EXTERNAL_QUALIFICATION_CONTAINING_PUBLICATION_PENDING",
+  "transition": "REVISE_SOURCE_PLANE_AND_DOWNGRADE_COMPLETED_OUTCOME_CERTAINTY",
+  "canonical_home": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN03_PERFORMER_OUTCOME_AND_SOURCE_PLANE_QUALIFICATION_01.json",
+  "source_commit_before_candidate": "02a355704ac14db3455f1f738c92a6c576e78746",
+  "original_preserved_report": {
+    "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V03_DEEP_READING.md",
+    "bytes": 51030,
+    "sha256": "2f081277c91caf13ff7964ca0ef1341cab5508275e2a4ff9e1da25ec16bca5d6",
+    "actual_original_statements": [
+      {
+        "line": 163,
+        "text": "Aqua effortlessly outperforms a professional entertainer for free. The performer concludes he has no future, gives her his juggling props, and leaves to farm. Aqua interprets the result as personal good fortune."
+      },
+      {
+        "line": 167,
+        "text": "> attention/play reward + genuine high skill → performance without stakeholder model → another person's livelihood collapses → Aqua notices the gift more readily than the social cost."
+      },
+      {
+        "line": 382,
+        "text": "**Externality blindness.** Wiz's inventory losses and the street performer's ruined career continue the pattern of weak downstream stakeholder modeling."
+      }
+    ]
+  },
+  "native_authority": {
+    "source": "MAIN-03",
+    "component": "MAIN-03-U017",
+    "member": "item/xhtml/p-007.xhtml",
+    "native_sha256": "c269c3478fbd247428128a7407015a4d84c5e3c64b709056a1e0c393c60d5bcc",
+    "member_sha256": "e95a01a476aba149445390b976c0387177a0528c4b0e167bfa466efa7fd1592d",
+    "cache_sha256": "1af7f7cf7270ccc2ace3b576034f534466f804449911537f9a7d1e62e5f412df",
+    "actual_complete_BASE_views": [
+      [
+        548,
+        638
+      ]
+    ],
+    "unique_slots_within_this_receipt_only": 91,
+    "nonempty_BASE_slots": 83
+  },
+  "private_actual_receiving_receipt_sha256": "93f7ab7ba104b66f1c83ed6f26df0e30e111797210f47b550e99b207236b0cbe",
+  "current_qualified_claims": [
+    {
+      "locator": "MAIN03U017P566",
+      "plane": "Megumin firsthand-witness report spoken to Kazuma",
+      "claim": "Megumin says Aqua performed more impressive entertainment for free and made a street performer cry. Kazuma does not narrate himself watching the performance or the tears in this window."
+    },
+    {
+      "locator": "MAIN03U017P630",
+      "plane": "Aqua own account of gift and relayed intention",
+      "claim": "Aqua says the performer gave props and intended to return to the family farm. Her quoted phrase from him is mediated through her speech; completed departure or succession is not narrated."
+    },
+    {
+      "locator": "MAIN03U017P631",
+      "plane": "Kazuma direct present observation",
+      "claim": "Aqua actually holds and uses the juggling rings. Their physical presence is directly available; the earlier handover remains her account."
+    },
+    {
+      "locator": "MAIN03U017P632-633",
+      "plane": "Kazuma inference/evaluative response",
+      "claim": "He interprets Aqua as having broken the performer spirit and disrupted a life. This is legitimate narrative evaluation supporting an externality concern, not independent confirmation of permanent career collapse."
+    },
+    {
+      "locator": "Original MAIN03report163/167/382",
+      "plane": "Current analytical qualification",
+      "claim": "Retain the supported livelihood/attention externality and reported distress. Replace certainty about performed departure, completed farming and a permanently ruined career with the narrower reported reaction/intention and narrator inference. These distinctions qualify the original shorthand; they do not prove the reports false or excuse the cost."
+    }
+  ],
+  "counterevidence_and_uncertainty": [
+    "Visible props and two differently placed character reports give substantive evidence of a harmful local episode; no claim that nothing happened.",
+    "No subsequent rural-work scene or lifetime outcome appears in the checked passage. Absence of that scene neither proves departure impossible nor proves completed departure.",
+    "MAIN16U023Pierre self-names and claims capital status without a personal continuity reference. Retain separate episode identities; neither a shared occupation nor lack of a name proves alias or distinct-person certainty.",
+    "Aqua good-fortune account does not independently distinguish inability to understand the cost from local inattention or indifference. Broader Aqua care/capacity counterexamples remain."
+  ],
+  "preservation": {
+    "original_report_bytes_unchanged": true,
+    "all_original_annotations_and_historical_reading_chronology_preserved": true,
+    "no_frozen_model_forecast_contract_score_or_null_field_changed": true,
+    "no_new_source_or_independent_test": true,
+    "no_confidence_or_accuracy_gain": true
+  },
+  "required_current_routes": "Read this external qualification with preserved MAIN03report and current claim/source locator/census entries. Containing canonical adoption/publication and the wider program remain pending."
+}

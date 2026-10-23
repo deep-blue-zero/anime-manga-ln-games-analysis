@@ -1,0 +1,156 @@
+{
+  "schema": "KONOSUBA_MAIN08_EXCLUDED_CURRENT_PRECISION_V1",
+  "source_id": "MAIN-08",
+  "findings": [
+    {
+      "id": "M08EX-Q01",
+      "finding": "Complete actual excluded scope is18new resources128P/30nativeimages, with8exact retained principal members2927P/newprincipalcredit0. Newbonus60P,authorafterword22P,otherwrapper46P; counts are not a narrative denominator.",
+      "authored_after_seal_utc": "2026-10-19T12:34:18.106765+00:00"
+    },
+    {
+      "id": "M08EX-Q02",
+      "finding": "Electronic issue2015-12-28,copyright2016,and print-basis first issue2016-01-01 are separate explicit entries. Profile ages are documentary time slices: Wiz20,Chris15?,Kazuma16; Ep1birthday changes the stated age gap. No silent date/age reconciliation.",
+      "authored_after_seal_utc": "2026-10-19T12:34:18.106765+00:00"
+    },
+    {
+      "id": "M08EX-Q03",
+      "finding": "The prologue is Kazuma俺 focalization with Aqua's actual festival thanks, U011P1-21. The Aqua banner does not determine narrator; it happens to depict a participant.",
+      "authored_after_seal_utc": "2026-10-19T12:34:18.106765+00:00"
+    },
+    {
+      "id": "M08EX-Q04",
+      "finding": "IMG010 is Chris retaining her current appearance while adopting Eris-like formal appeal, U012P77-104. No physical transformation is narrated. Kazuma's requested dating fantasy is rejected; she asks world-help after his refusal.",
+      "authored_after_seal_utc": "2026-10-19T12:34:18.106765+00:00"
+    },
+    {
+      "id": "M08EX-Q05",
+      "finding": "IMG026 directly joins U012P404-452: Aqua's festival replacement claim causes Chris to spit teaP413; Darkness initially refuses due acting-lord work and adds Eris devotion, Megumin gives qualified assent, Kazuma refuses and Aqua nominates Chris without obtaining her assent. U013P20-26 reports later pressure/different-day availability; do not flatten these moments.",
+      "authored_after_seal_utc": "2026-10-19T12:34:18.106765+00:00"
+    },
+    {
+      "id": "M08EX-Q06",
+      "finding": "IMG029 joins U012P254-312: chick Zel moves toward Vanir, Aqua asks Kazuma to attack but says she fears losing the pet's affection if she attacks herself, and denies the chick identification. Vanir later leaves an actual shed body holding the chick. His species/parentage jokes and Kazuma's imprint inference remain attributed. The enlarged bird is decorative, not a giant specimen.",
+      "authored_after_seal_utc": "2026-10-19T12:34:18.106765+00:00"
+    },
+    {
+      "id": "M08EX-Q07",
+      "finding": "U012P263-287 preserves Wiz's transparency and actual sugar-water treatment, Darkness's ongoing unconsciousness and Vanir's reported lethal-beam injury/claimed nonharming reputation. Do not infer full recovery, clinical diagnosis or an ethically harmless devil from a shop pose.",
+      "authored_after_seal_utc": "2026-10-19T12:34:18.106765+00:00"
+    },
+    {
+      "id": "M08EX-Q08",
+      "finding": "IMG015 cleric is Cecily, explicitly introduced at U013P144/150. Her biological-sister claimP145 is immediately denied146, and Megumin refuses attempted huggingP142-143. Aqua identity recognition is Kazuma's inference after Cecily's deliberate Archpriest wording, not certified knowledge of every Axis member.",
+      "authored_after_seal_utc": "2026-10-19T12:34:18.106765+00:00"
+    },
+    {
+      "id": "M08EX-Q09",
+      "finding": "IMG006 is actually sentient Aigis. U013P449-498 gives Chris's report of prior service/owner death, his male-voice response, misgendering of Chris, name demand, dislike of pain/damage, preferred bearer and alarm against removal. Kazuma's literal-object retort does not erase an acting subject. No Aigis possession of Kazuma is shown.",
+      "authored_after_seal_utc": "2026-10-19T12:34:18.106765+00:00"
+    },
+    {
+      "id": "M08EX-Q10",
+      "finding": "IMG011/U014P514-554 shows actual yakisoba work with Kazuma's recently learned Cooking skill, Chris's useful cutting despite complaint, Aqua's work/eating, Cecily's recruitment-form wrapping and prohibited topping proposal. Native source does not support a jealousy or intimacy explanation for the pose; current apron gesture is not a separate completed meal trial.",
+      "authored_after_seal_utc": "2026-10-19T12:34:18.106765+00:00"
+    },
+    {
+      "id": "M08EX-Q11",
+      "finding": "U014P640-673 identifies the visitors as two succubus-service workers, with no names given. Kazuma's intent to quit yields to hospitality. The frontサキュバス? question mark and uncertain exact portrait mapping remain; do not identify the central figure as Aqua or assign an unnamed worker to Lolisa merely from appearance.",
+      "authored_after_seal_utc": "2026-10-19T12:34:18.106765+00:00"
+    },
+    {
+      "id": "M08EX-Q12",
+      "finding": "IMG018/U015P1-53: Megumin actually pulls Kazuma's handP41; original visual note left direction uncertain. Yunyun's accompanying excitement is about first shared festival/fireworks and contrast with prior staying home. Megumin's earlier unwanted clothing-change attempt and later chosen preparation are different phases, not retroactive permission.",
+      "authored_after_seal_utc": "2026-10-19T12:34:18.106765+00:00"
+    },
+    {
+      "id": "M08EX-Q13",
+      "finding": "IMG002/U015P135-216: Kazuma hides heist clothes and appears partly dressed, prompting Darkness's mistaken account. Her actual aim includes particular gratitude for belonging beyond the rescue; she later gives a cheek kiss tied to the prior Hydra promise. No completed sexual act or blanket permission follows from nightwear, flushing or the later gesture.",
+      "authored_after_seal_utc": "2026-10-19T12:34:18.106765+00:00"
+    },
+    {
+      "id": "M08EX-Q14",
+      "finding": "IMG025/U016P351-393: Eris names herself onstage but playfully declines age/job questions; Aigis reacts and Kazuma sustains an Eris-versus-Chris cover. Actual self-set privacy limits are contrary to universal inability to refuse, without creating a new full cumulative-burden CE01 test.",
+      "authored_after_seal_utc": "2026-10-19T12:34:18.106765+00:00"
+    },
+    {
+      "id": "M08EX-Q15",
+      "finding": "IMG004/U017P2-46 plus actual focused full-image reinspection: lower inset hugger is Chris, with Megumin/Darkness recipients; the upper small companion with Vanir/Wiz is Yunyun, and cleric contact belongs to the Cecily/unnamed-Eris-adherent context. Original visual notes misidentified some roles and are retained unchanged. Do not make upper/lower mini-scenes extra parties or infer every depicted person's assent.",
+      "authored_after_seal_utc": "2026-10-19T12:34:18.106765+00:00"
+    },
+    {
+      "id": "M08EX-Q16",
+      "finding": "IMG007 printed Kazuma16 and Megumin14 are edition reference claims; U017P26-30 advances Kazuma's birthday and states the age gap has become three years. Preserve chronology rather than silently forcing one static age over every point. Fictional marriage/drinking claims are not imported as real-world maturity or law.",
+      "authored_after_seal_utc": "2026-10-19T12:34:18.106765+00:00"
+    },
+    {
+      "id": "M08EX-Q17",
+      "finding": "IMG023/U018P2-53: festival aftermath includes an actually torn honorary-Axis letter, actual transfer of Kazuma's adviser earnings, reported Aqua spending, Darkness's completed acting-duty interval/father recovery report and Megumin's invitation for an important conversation that night. The conversation and any intimate outcome are not performed here.",
+      "authored_after_seal_utc": "2026-10-19T12:34:18.106765+00:00"
+    },
+    {
+      "id": "M08EX-Q18",
+      "finding": "IMG008 is a paired Chris/Eris peace/role-obsolescence wish at a front-composition plane. The bounded body checks and lexical retrieval did not locate its verbatim body counterpart; that is not proof of narrative absence. Keep the attributed illustrated wish without inventing two independent prayers, actual retirement or an excessive-service trial.",
+      "authored_after_seal_utc": "2026-10-19T12:34:18.106765+00:00"
+    },
+    {
+      "id": "M08EX-Q19",
+      "finding": "IMG028 illustrator staged disguise-thought, IMG016 guest anime congratulations and IMG012 NEXT9/Mask script retain production/promotion roles. No future confession, completed relationship negotiation or extra world event is supplied.",
+      "authored_after_seal_utc": "2026-10-19T12:34:18.106765+00:00"
+    },
+    {
+      "id": "M08EX-Q20",
+      "finding": "U023 new bonus: Aqua's initial impurity-control claim is not sustained universal safety; later actual glow, Wiz's pain and wake-up requests remain without a shown separation/cure. Device destruction, compensation promise, conditional financial relief, doll capability/price claims, commission assent and retrospective high-mana result are different phases; no payment, costless mass production or full practical success inferred.",
+      "authored_after_seal_utc": "2026-10-19T12:34:18.106765+00:00"
+    },
+    {
+      "id": "M08EX-Q21",
+      "finding": "U023 has only Kazuma,Aqua and Wiz as acting subjects. Hot afternoon/shop residence is explicit; no exact day or later negotiated intimacy state is imposed. Iris and Yunyun are absent from this new narrative.",
+      "authored_after_seal_utc": "2026-10-19T12:34:18.106765+00:00"
+    },
+    {
+      "id": "M08EX-Q22",
+      "finding": "U023P4-10: Wiz's soft work objection and Kazuma's request to release precede continued contact. Aqua's cooling/stay argument is hers; a room-stay agreement, property permission or release is not shown.",
+      "authored_after_seal_utc": "2026-10-19T12:34:18.106765+00:00"
+    },
+    {
+      "id": "M08EX-Q23",
+      "finding": "U023P11-13/56-58: Aqua claims she can suppress purification with impure thoughts; later glow and Wiz's pain limit sustained control. Kazuma's final really-asleep assertion differs from the earlier money-cued eye closure; no deliberate later purification, measured mechanism or full cure is invented.",
+      "authored_after_seal_utc": "2026-10-19T12:34:18.106765+00:00"
+    },
+    {
+      "id": "M08EX-Q24",
+      "finding": "U023P15-24: the healing device is constructed and destroyed before a healing demonstration. No-downside/easy-use claims are Wiz's; universal-healing resentment is Kazuma's attribution, not Aqua's explicit identity-denial response.",
+      "authored_after_seal_utc": "2026-10-19T12:34:18.106765+00:00"
+    },
+    {
+      "id": "M08EX-Q25",
+      "finding": "U023P25-28: apology and a firm reimbursement promise are performed; Aqua closes her eyes at the money cue and Wiz is relieved conditionally. No completed payment, guaranteed monthly profit or total restitution.",
+      "authored_after_seal_utc": "2026-10-19T12:34:18.106765+00:00"
+    },
+    {
+      "id": "M08EX-Q26",
+      "finding": "U023P29-48: Wiz's rare-crafting/power/price and limited language claims differ from Kazuma's beauty-robot valuation and assumed Japanese demand. Projected stock replies are not a real person's servitude or an observed doll speech trial.",
+      "authored_after_seal_utc": "2026-10-19T12:34:18.106765+00:00"
+    },
+    {
+      "id": "M08EX-Q27",
+      "finding": "U023P49-58: commissioning, assent and promised cooperation precede a real heat problem and wake-up requests. A spoken help attempt is not proven separation, healing, death or completed product delivery/payment.",
+      "authored_after_seal_utc": "2026-10-19T12:34:18.106765+00:00"
+    },
+    {
+      "id": "M08EX-Q28",
+      "finding": "U023P60 retrospectively characterizes an actual hoped-for doll/product as requiring an Explosion's mana for half-day operation. Do not call it merely hypothetical, a costless household replacement, completely incapable or a verified affordable mass-market success.",
+      "authored_after_seal_utc": "2026-10-19T12:34:18.106765+00:00"
+    },
+    {
+      "id": "M08EX-Q29",
+      "finding": "Original raster notes/quotes preserve manual normalization and initial uncertain/mistaken identities exactly. Thirty current findings govern uptake; no image reinspection adds another unique-image credit and no retained-native recheck becomes an independent event.",
+      "authored_after_seal_utc": "2026-10-19T12:34:18.106765+00:00"
+    },
+    {
+      "id": "M08EX-Q30",
+      "finding": "All39R1principal-party comparisons,4typeddiagnostics and7SI-C01no-opportunity rows are separate from historical outcomes. Partial/rival cases, source-plane limits, originalSI14nulls/Dust14blanks/fourscores and all immutable models remain exact; no global accuracy or mature all-context reconstruction claimed.",
+      "authored_after_seal_utc": "2026-10-19T12:34:18.106765+00:00"
+    }
+  ]
+}

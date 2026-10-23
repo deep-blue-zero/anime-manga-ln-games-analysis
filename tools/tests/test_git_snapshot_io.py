@@ -162,10 +162,27 @@ class SnapshotIOTests(unittest.TestCase):
         self.git("remote", "add", "origin", str(source))
         self.git("config", "remote.origin.promisor", "true")
         self.git("config", "remote.origin.partialclonefilter", "blob:none")
-        (self.root / ".git" / "objects" / blob[:2] / blob[2:]).unlink()
+        missing_object = self.root / ".git" / "objects" / blob[:2] / blob[2:]
+        # Git marks loose objects read-only on Windows. Make this disposable
+        # fixture deletable before exercising the same missing-history check.
+        missing_object.chmod(0o600)
+        missing_object.unlink()
+        self.assertFalse(missing_object.exists())
         with self.assertRaises(core.DomainError):
             core.GitSnapshot.from_commit(self.root, commit, paths=["file"])
         self.assertEqual(self.git("-C", str(source), "cat-file", "-p", blob), b"original")
+
+    def test_git_without_no_lazy_fetch_reads_full_clones_and_refuses_promisors(self) -> None:
+        self.stage("file", b"original")
+        commit = self.commit()
+        with mock.patch.object(core, "git_supports_no_lazy_fetch", return_value=False), \
+                mock.patch.object(core.subprocess, "check_output", wraps=core.subprocess.check_output) as run:
+            self.assertEqual(core.GitSnapshot.from_commit(self.root, commit, paths=["file"]).get("file").data, b"original")
+            self.assertTrue(run.call_args_list)
+            self.assertFalse(any("--no-lazy-fetch" in call.args[0] for call in run.call_args_list))
+            self.git("config", "remote.origin.promisor", "true")
+            with self.assertRaises(core.DomainError):
+                core.GitSnapshot.from_commit(self.root, commit, paths=["file"])
 
     def test_selected_history_ignores_commit_replacement_refs(self) -> None:
         self.stage("file", b"original")

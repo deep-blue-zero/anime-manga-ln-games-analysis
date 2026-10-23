@@ -63,6 +63,17 @@
       ]
     },
     {
+      "id": "character-reconstruction",
+      "description": "The reconstruction capability index is a deterministic projection of the capability registry and its immutable basis commits.",
+      "trigger": {
+        "kind": "path_changed",
+        "path": "characters/reconstruction_capabilities.jsonl"
+      },
+      "required_outputs": [
+        "characters/CHARACTER_RECONSTRUCTION_INDEX.md"
+      ]
+    },
+    {
       "id": "drive-reference-routing",
       "description": "Drive-only reference metadata must remain internally resolvable without changing frozen migration crosswalks.",
       "trigger": {

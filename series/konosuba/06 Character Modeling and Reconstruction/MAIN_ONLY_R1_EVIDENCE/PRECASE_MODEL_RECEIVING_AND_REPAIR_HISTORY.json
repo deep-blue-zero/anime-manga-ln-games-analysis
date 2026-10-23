@@ -1,0 +1,979 @@
+{
+  "root_complete_model_receiving": {
+    "original_identity": {
+      "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/ROOT_COMPLETE_MODEL_ONLY_RECEIVING_AND_PRECASE_ACCEPTANCE.json",
+      "bytes": 5864,
+      "sha256": "42f80a7dd67c464381cc00cf7d9419b308351b17d24c01c63ccb03194438d24f"
+    },
+    "complete_original_object": {
+      "recorded_utc_after_actual_receiving": "2026-10-17T13:55:02.672039+00:00",
+      "authority_commit": "39b498f1852225424830b7daf6de59abedbb8c02",
+      "disposition": "ACCEPTED_FOR_PRE_RESPONSE_BINDING_AND_SIMULATION_ONLY",
+      "not_suite_acceptance_or_freeze": true,
+      "current_exact_models": [
+        {
+          "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+          "bytes": 60135,
+          "sha256": "81566cbad8825d288595502af20897fd80dfb0d3583a524c77947615a5bf31ec"
+        },
+        {
+          "path": "/workspace/scratch/konosuba/v17-producer/reconstruction-models-main-only-r1-receiving-v3/KONOSUBA_AQUA_RECONSTRUCTION_MODEL.md",
+          "bytes": 63022,
+          "sha256": "f85d902572a6d1f5094a3892c693d7d456dde5b90b688d706840693a63499187"
+        },
+        {
+          "path": "/workspace/scratch/konosuba/v17-producer/reconstruction-models-main-only-r1-receiving-v3/KONOSUBA_MEGUMIN_RECONSTRUCTION_MODEL.md",
+          "bytes": 59422,
+          "sha256": "618a867bfadb361305de4a4b8587a86f348eae1985042bbef11389fd9ab67080"
+        },
+        {
+          "path": "/workspace/scratch/konosuba/v17-independent/main-only-reconstruction-receiving-v2/KONOSUBA_DARKNESS_RECONSTRUCTION_MODEL.md",
+          "bytes": 61047,
+          "sha256": "d6fe078eb1e02b86071ac3dbd3577970088a487268b1817b645bff185572b62f"
+        },
+        {
+          "path": "/workspace/scratch/konosuba/v17-independent/main-only-reconstruction-receiving-v2/KONOSUBA_PARTY_INTERACTION_MODEL.md",
+          "bytes": 66517,
+          "sha256": "13c288a0278f87af60ee0b1c01d04ed6336977e9f34d36e9f163a9e6399b0271"
+        },
+        {
+          "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+          "bytes": 49900,
+          "sha256": "8ed8d78a9c9b538a88c4331214b74920715a32883408742bdf690534a000859e"
+        }
+      ],
+      "actual_root_read_scope": {
+        "own_initial_models": "Complete actual authored prose/readback and bounded14 receiving repairs previously received; S full report and v2 closure now actually received.",
+        "darkness_party": "Both complete initial28-component arguments/all16contracts actually received earlier; complete20039B new-field projection and6561B literal supplement and both full peer reports now actually received. Unchanged prose reused via exact inverses.",
+        "aqua_megumin": "Both complete initial28-component arguments/all15contracts now actually received, including remaining Megumin19–28 in this continuation; complete M06 three-field successor/A08 two-model-field plus one JSON-route successor and both full peer reports now actually received. Unchanged prose reused, not new primary.",
+        "new_primary_for_root_model_only_receiving": 0,
+        "reports": [
+          {
+            "path": "/workspace/scratch/konosuba/root-models-semantic-receiving-v1/ROOT_INITIAL_MODELS_FULL_RECEIVING_REPORT.md",
+            "bytes": 21972,
+            "sha256": "98c358802f31014d75b11f2bc66f1edda9f686fd4ac6f59fc5474d36397d62d5"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/root-models-semantic-receiving-v2/BOUNDED_ROOT_MODEL_REPAIR_CLOSURE.md",
+            "bytes": 9100,
+            "sha256": "e96522a84f92b3d94d29e3e5f00e09e9971f0c788a302218ffb5e02f4d4ea3f6"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/peer-aqua-megumin-model-receiving-v1/FULL_MODEL_ONLY_PEER_RECEIVING_REPORT.md",
+            "bytes": 13489,
+            "sha256": "050b973482c0aa6ffa634dd3ed845daa32951b052884dab483940bbb0f250272"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-independent/peer-aqua-megumin-model-receiving-v3/BOUNDED_V3_RECEIVING_CLOSURE_REPORT.md",
+            "bytes": 3454,
+            "sha256": "e1cddf8b4548312174321accc9103e6b1041b79386a94bc1580bd53c60710bd1"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-producer/model-only-peer-receiving-darkness-party-v1/MODEL_ONLY_PEER_RECEIVING_REPORT.md",
+            "bytes": 14130,
+            "sha256": "31cd8fd42c0602dff47635a36274a391a1ec40542729fbbc3289bda790a8cb8d"
+          },
+          {
+            "path": "/workspace/scratch/konosuba/v17-producer/model-only-peer-receiving-darkness-party-v2/MODEL_ONLY_BOUNDED_SUCCESSOR_RECEIVING_CLOSURE_v2.md",
+            "bytes": 7487,
+            "sha256": "19d84936df53fc4d388c75524fba4e420f36c5cd0150b7198b45fb715ed615b1"
+          }
+        ]
+      },
+      "preservation": "All initial seals/bodies/settings/blank external outcomes preserved. Bounded successors do not alter any prior Gen01–05 model/forecast/score or main source freeze. I complete model forward/inverses replayed here; peer complete model+JSON inverse proof reused as disclosed.",
+      "substantive_disposition": "Source identity/actor/chronology/voice and named-reference review found no remaining material defect in declared scope. M06 mutual agency and A08 actual Schneider route repaired. Directional behavior, typed consistency, execution and missingness separated; independently prebound goals/actors/exceptions required. Eligible contrary occasions remain adverse under preserved explicit thresholds.",
+      "limits": "Shared accepted sources and coordinated post-seal QA; no statistical independence, fresh full-series primary read, native/human/acoustic certification, or external behavioral validation. Runtime build/temperature/top-p/seed UNKNOWN.",
+      "casebank_exposure": {
+        "root_and_model_authors_concrete_cases_opened": false,
+        "responses_generated": 0,
+        "prepared_cases": 45,
+        "prepared_mode_executions": 90,
+        "semantic_case_author_knows_bank": true
+      },
+      "holdout_and_expanded_exposure": "CLOSED; no holdout findings given to P lineage",
+      "next_authorized_operation": "S binds fixed models/types/actors/goals/independent exceptions/knowledge/adequacy/adverse signatures before any response; root verifies binding and releases masked owner prompts separately. No actual execution release in this receipt."
+    }
+  },
+  "root_darkness_two_op_successor": {
+    "original_identity": {
+      "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/ROOT_ACCEPTED_DARKNESS_SOURCE_PRECISION_PREBINDING_SUCCESSOR.json",
+      "bytes": 2280,
+      "sha256": "6530cd6eeedb8553d02090cf1f20612170b33fc476fba0f53c4be40dece55b12"
+    },
+    "complete_original_object": {
+      "accepted_utc_after_actual_source_and_exact_successor_receiving": "2026-10-17T14:18:12.188469+00:00",
+      "disposition": "ACCEPTED_DARKNESS_SOURCE_PRECISION_SUCCESSOR_FOR_PRE_RESPONSE_BINDING_ONLY",
+      "new_exact_model": {
+        "path": "/workspace/scratch/konosuba/v17-independent/main-only-reconstruction-source-precision-proposal-v4/KONOSUBA_DARKNESS_RECONSTRUCTION_MODEL.md",
+        "bytes": 61217,
+        "sha256": "dc70739ab5613e70b6387421f324330735a0b79d1944100a3fd613f1cd2a310f"
+      },
+      "previous_model_preserved": {
+        "path": "/workspace/scratch/konosuba/v17-independent/main-only-reconstruction-receiving-v2/KONOSUBA_DARKNESS_RECONSTRUCTION_MODEL.md",
+        "bytes": 61047,
+        "sha256": "d6fe078eb1e02b86071ac3dbd3577970088a487268b1817b645bff185572b62f"
+      },
+      "one_cell_proposal_preserved": {
+        "path": "/workspace/scratch/konosuba/v17-independent/main-only-reconstruction-locator-proposal-v3/KONOSUBA_DARKNESS_RECONSTRUCTION_MODEL.md",
+        "bytes": 61166,
+        "sha256": "0509ac9ac1c493dd4368cd26e48106ab5f81750c0b0e936f434fe128f7b077fd"
+      },
+      "root_full_forward_inverse_pass": true,
+      "peer_full_closure": {
+        "path": "/workspace/scratch/konosuba/v17-producer/dw03-two-op-model-bounded-closure-v1/TWO_OP_MODEL_BOUNDED_CLOSURE_REPORT.md",
+        "bytes": 2815,
+        "sha256": "df0b513bb2abb6ab7e1914bd859cb575b679ce261720664318cd9479fc89434e"
+      },
+      "changes": "Exactly source locator cell + unsupported childhood age qualification; all R1 contracts and Party unchanged. Historical model-only approval narrowed by later MR01/source precision finding. Generation V1/model_version MAIN_ONLY_R1.",
+      "source_receiving_receipt_sha256": "08a96aee1ba6fd01d05b12173736c3fecc7839d5fecca5ada87a7ba93044d4da",
+      "public_correction_scope": "Current provisional Darkness monograph + CR-MAIN007 and additive qualifications to4mutableledgers pending exact receiving/publication; older66-pin snapshot retrievable unchanged at39b.",
+      "case_and_holdout_exposure": {
+        "root_or_model_authors_prompts_opened": false,
+        "responses_generated": 0,
+        "holdout_or_expanded_opened": false
+      },
+      "next": "S preserve draft then refresh model-pin metadata only, final integrity/masking checks/full readback then final seal; explicit actual execution release still required. Not suite freeze."
+    }
+  },
+  "root_K_T_pre_case_repair": {
+    "original_identity": {
+      "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/EXACT_ROOT_V1_TO_V2_RECEIVING_REPAIR_AND_INVERSE.json",
+      "bytes": 14349,
+      "sha256": "3de6a47521b27957c122609ba0a70700bb1bbebace12d99aad50b203006c59eb"
+    },
+    "complete_original_object": {
+      "created_at_utc": "2026-10-17T13:45:47.892625+00:00",
+      "state": "BOUNDED_PRECASE_RECEIVING_SUCCESSORS_NOT_ACCEPTED_OR_FROZEN",
+      "initials_unchanged": true,
+      "review_report_sha256": "98c358802f31014d75b11f2bc66f1edda9f686fd4ac6f59fc5474d36397d62d5",
+      "actual_full_review_received_in_prior_tool_call": true,
+      "operations": [
+        {
+          "file": "KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+          "reason": "Q01 evidence class is not an automatic confidence penalty",
+          "old": "E6 narrator support lowers confidence in inferred motive; E7 gag contingency narrows generalization rather than making the event nonexistent.",
+          "new": "E6 requires attributed viewpoint and claim-specific confidence based on access, direct avowal, corroboration and motivated framing; it does not automatically downgrade every first-person affect report or narrated observation. E7 gag contingency narrows generalization rather than making the event nonexistent."
+        },
+        {
+          "file": "KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+          "reason": "R01 pre-response independently bound eligibility and exceptions",
+          "old": "Register all eligible opportunities, including adverse ones. A compound entry can be PARTIAL or NOT_TESTED where only a conjunct appears; an unavailable internal appraisal cannot be marked confirmed from an analyst's sympathy.",
+          "new": "Register all eligible opportunities, including adverse ones. A compound entry can be PARTIAL or NOT_TESTED where only a conjunct appears; an unavailable internal appraisal cannot be marked confirmed from an analyst's sympathy.\n\nBefore generating or reading the tested response, bind eligibility, material goal state and each proposed exception to supplied facts or an explicitly registered model/source inference. Record its provenance, uncertainty and the bounded alternatives it separates. A generated thought, eventual action or post-response explanation cannot create an exception. Merely naming an enduring possible motive does not show it governed this choice; a pre-bound inference can itself be wrong and remains reviewable. A competing motive can explain a contrary result without exempting it unless that specific exception was independently bound beforehand. For later source tests, use the unchanged entry and independently available pre-choice context; do not derive an eligibility guard from the observed outcome.\n\nFor K02, explicitly record the supplied optionality, security, rewards, needs and commitments, what is absent or unknown, and the basis for the low-incentive appraisal before testing. Compliance cannot itself prove a sufficient return, and quiet grave work cannot be dismissed through an invented reward. If independent information cannot discriminate a relevant goal state, register bounded rival expectations or mark the affected test insufficiently determined. Each eligible contrary occurrence is locally adverse; confidence describes a tendency, not an unstated repetition floor or automatic global retirement. No source-viewpoint absence or successful consistency check supplies a behavioral confirmation."
+        },
+        {
+          "file": "KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+          "reason": "R02 K03 disconfirmation matches all omitted-help outcomes",
+          "old": "**Disconfirming observation:** recognized significant particular harm, feasible known assistance and the opportunity are all established, yet he knowingly elects mere ease and supplies no helpful step. Do not rescue this occurrence with a newly invented hidden plan, bond, inability or threat. If another valued person's conflicting danger was actually known beforehand, record the genuine competing-model condition rather than silently counting success.",
+          "new": "**Disconfirming observation:** recognized significant particular harm, feasible known assistance and the opportunity are all established, yet he supplies no practical step addressing that threatened interest before the decision interval closes, without a specifically pre-bound exception. Mere ease, another self-serving reward, unsupported delay or another unhelpful choice are all adverse to this stated effect; motive can explain the failure without excluding it. A nominal gesture serving only an unrelated reward does not fulfill the predicted help. Do not invent a hidden plan, bond, inability or threat afterward. A different valued person's conflicting danger can be a genuine competing condition only when independently bound before the tested choice; it is not automatically a success."
+        },
+        {
+          "file": "KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+          "reason": "R02 K05 disconfirmation includes abandonment delay unrelated action",
+          "old": "**Disconfirming observation:** he recognizes the relevant failure and the usable alternative but merely repeats the same invalidated method without new information or a supported competing goal. An ultimate failure after a genuine changed method is not this forecast's disconfirmation; record it under execution/planning.",
+          "new": "**Disconfirming observation:** he recognizes the relevant failure and usable alternative under the independently bound still-active objective, but repeats the invalidated method, abandons it without revision, delays inertly or selects an unrelated act instead of the stated changed method/request/adoption, without a specifically pre-bound exception. Each omits the predicted revision. A genuinely changed objective, inability or competing end must be independently established before the tested choice, not inferred from abandonment. Ultimate failure after a genuine changed method remains an execution/planning result, not this entry's disconfirmation."
+        },
+        {
+          "file": "KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+          "reason": "R04 K08 positive effect requires a defined surface-function contrast",
+          "old": "use a question, explanation or ostensibly civil formulation whose contextual purpose pressures the addressee; the polite/literal surface does not simply express deference.",
+          "new": "use an ostensibly civil/procedural/information-seeking formulation whose contextual pressure contrasts with that defensible surface; the polite/literal surface does not simply express deference. A question or explanation alone does not fulfill this contrast."
+        },
+        {
+          "file": "KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+          "reason": "R04 K08 independent purpose and exact contrast coding",
+          "old": "The old Gen05 J01 outcomes remain separate.\n\n## 26.",
+          "new": "The old Gen05 J01 outcomes remain separate.\n\nFor K08, establish status-pressure purpose from an independent context, prior/separate action or semantic-content cue, not solely the same question/politeness feature scored as its consequence. Record the actual Japanese surface, literal meaning, addressee and contextual pressure before adjudicating the contrast. A directly insulting demand with an ordinary causal clause is not civil/procedural merely because it explains itself; an ordinary information question is not pressure merely because it is a question. An analyst's rationale is not Kazuma dialogue. If purpose or the contrast is genuinely mixed/underdetermined, preserve that result rather than forcing a pass.\n\n## 26."
+        },
+        {
+          "file": "KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+          "reason": "R03 heading distinguishes simulator constraints from source prediction",
+          "old": "## 18. Conditional transfer forecasts",
+          "new": "## 18. Typed transfer consistency constraints"
+        },
+        {
+          "file": "KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+          "reason": "R03 explicit type target vocabulary and denominator exclusion",
+          "old": "These are new MAIN_ONLY_R1 forecasts, not rescored main-series predictions. All have **model_generation MAIN_ONLY_R1; subjects principal models/party; outcome UNOPENED**. They await acceptance and the main-only suite freeze. The input/scoring contracts are fixed before a source or simulation response is used; source validation and hypothetical consistency remain separate evidence types.",
+          "new": "These four MAIN_ONLY_R1 entries are **consistency constraints**, not directional heldout-source behavioral predictions or rescored main-series forecasts. All have **model_generation MAIN_ONLY_R1; claim_type CONSISTENCY_CONSTRAINT; evaluation_target GENERATED_RESPONSE; source_behavioral_prediction_counts EXCLUDED; constraint_evaluation UNPERFORMED**. Use the separate vocabulary SUPPORTED / VIOLATED / UNOBSERVABLE / QUALIFIED for the specified constraint; these results do not enter heldout behavioral C/P/F counts or any Gen01–Gen05 totals. They await acceptance and the main-only suite freeze. Source-world evidence may inform an underlying premise but cannot validate an unobserved universe's behavior. No stronger unsupported action forecast is invented to fill a heading."
+        },
+        {
+          "file": "KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+          "reason": "R03 per-entry explicit type R1-T01",
+          "old": "### R1-T01 — Missing ability changes the feasible action set\n\n",
+          "new": "### R1-T01 — Missing ability changes the feasible action set\n\n- **Claim type / target / counts:** CONSISTENCY_CONSTRAINT; GENERATED_RESPONSE; excluded from heldout-source behavioral prediction totals.\n"
+        },
+        {
+          "file": "KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+          "reason": "R03 per-entry explicit type R1-T02",
+          "old": "### R1-T02 — New known consequences alter appraisal without deleting motive\n\n",
+          "new": "### R1-T02 — New known consequences alter appraisal without deleting motive\n\n- **Claim type / target / counts:** CONSISTENCY_CONSTRAINT; GENERATED_RESPONSE; excluded from heldout-source behavioral prediction totals. Bounded appraisal-retention diagnostic; no unique safe action is predicted.\n"
+        },
+        {
+          "file": "KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+          "reason": "R03 per-entry explicit type R1-T03",
+          "old": "### R1-T03 — Earlier states do not acquire later knowledge or permission\n\n",
+          "new": "### R1-T03 — Earlier states do not acquire later knowledge or permission\n\n- **Claim type / target / counts:** CONSISTENCY_CONSTRAINT; GENERATED_RESPONSE; excluded from heldout-source behavioral prediction totals.\n"
+        },
+        {
+          "file": "KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+          "reason": "R03 per-entry explicit type R1-T04",
+          "old": "### R1-T04 — Coherent party action requires actual provision and acceptance\n\n",
+          "new": "### R1-T04 — Coherent party action requires actual provision and acceptance\n\n- **Claim type / target / counts:** CONSISTENCY_CONSTRAINT; GENERATED_RESPONSE; excluded from heldout-source behavioral prediction totals.\n"
+        },
+        {
+          "file": "KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+          "reason": "R03 T02 do not infer deleted goals from cautious action or silence",
+          "old": "Mere absence of a long spoken explanation is not failure if the bounded action/appraisal represents the cost; an unobservable internal state is not automatically confirmed.",
+          "new": "Cautious/helpful action or brevity alone proves neither goal deletion nor a constraint violation: require explicit rationale, model contradiction or adequate state evidence. A risky act with a faithfully represented impulsive discounting or failed inhibition is not automatically a violation either. Mere absence of a long spoken explanation is not failure if the bounded trace represents the known cost and character appraisal; an unobservable internal state is UNOBSERVABLE, not a behavioral confirmation."
+        },
+        {
+          "file": "KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+          "reason": "R01 common contract pre-response goal and exception binding",
+          "old": "Before executing each case, bind the actual model version/hash, selected mechanism/forecast, context/knowledge fields, relevant source route and disconfirming condition.",
+          "new": "Before executing each case, bind the actual model version/hash, selected mechanism/forecast, context/knowledge fields, relevant source route and disconfirming condition. Bind eligibility, appraisal access and every material goal/exception before generating or reading the response, using supplied facts or an explicitly registered uncertain model/source inference. Store provenance and bounded rival expectations; a generated thought or eventual act cannot create its own exemption. An enduring possible motive is not proof it governed the choice, and an inferred exception can itself be wrong. Behavioral, cognitive-valuation and typed consistency targets must remain distinguished in evaluation; source predictive outcomes remain separate from hypothetical consistency results."
+        }
+      ],
+      "products": [
+        {
+          "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+          "bytes": 60135,
+          "sha256": "81566cbad8825d288595502af20897fd80dfb0d3583a524c77947615a5bf31ec",
+          "initial_path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-initial-models-v1/KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+          "initial_sha256": "a170dca0f22f3c3e0b4ca93673af857748ffc873c2d079b6f14bf0ef9645a8ec",
+          "complete_inverse_to_initial": true
+        },
+        {
+          "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+          "bytes": 49900,
+          "sha256": "8ed8d78a9c9b538a88c4331214b74920715a32883408742bdf690534a000859e",
+          "initial_path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-initial-models-v1/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+          "initial_sha256": "7db593a5ade5ef9e5b18e0088d0f58070dd087fb09e271a72d69a791858c0b8c",
+          "complete_inverse_to_initial": true
+        }
+      ],
+      "actual_concrete_case_exposure": false,
+      "actual_responses": 0,
+      "source_and_forecast_history_unchanged": "AllGen01–05/main66/fixed41; newR1IDs preserved; initialrootdraftseals retained; no novelprimary or holdout/expandedexposure",
+      "next": "Actuallyreadbackallnewparagraphs/fields and exactdelta; returntoSforboundedsuccessorreceiving, thenbindacceptedversions/cases. No futureacceptance asserted."
+    }
+  },
+  "D_party_pre_case_repair": {
+    "original_identity": {
+      "path": "/workspace/scratch/konosuba/v17-independent/main-only-reconstruction-receiving-v2/V1_TO_V2_TYPED_BEHAVIORAL_EXACT_OPERATIONS.json",
+      "bytes": 63608,
+      "sha256": "80a9dc2442b93a226007e6df1b4746318db3603a9b4998cccd9161351e0807ab"
+    },
+    "complete_original_object": {
+      "created_utc": "2026-10-17T13:51:21.856588+00:00",
+      "status": "BOUNDED_PRECASE_RECEIVING_REPAIR_NOT_ACCEPTANCE",
+      "model_operations": [
+        {
+          "file": "KONOSUBA_DARKNESS_RECONSTRUCTION_MODEL.md",
+          "initial": {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-reconstruction-initial-v1/KONOSUBA_DARKNESS_RECONSTRUCTION_MODEL.md",
+            "bytes": 57282,
+            "sha256": "5dcb8fcc3bd377c51077e2020926a8c98fc714d7e11912b28d3578458e7bf160"
+          },
+          "successor": {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-reconstruction-receiving-v2/KONOSUBA_DARKNESS_RECONSTRUCTION_MODEL.md",
+            "bytes": 61047,
+            "sha256": "d6fe078eb1e02b86071ac3dbd3577970088a487268b1817b645bff185572b62f"
+          },
+          "operations": [
+            {
+              "before_exact": "status: initial_author_candidate",
+              "after_exact": "status: precase_receiving_successor_candidate",
+              "reason": "Current stage metadata; initial remains preserved"
+            },
+            {
+              "before_exact": "## 1. Authority and source boundary\n\n",
+              "after_exact": "**Pre-case receiving successor v2.** The complete initial body/forecasts/settings/seal remain immutable in private provenance. This bounded successor separates actual behavioral predictions from capability/knowledge/permission/world-integrity audits and clarifies directional/per-opportunity contrary signatures after full model-only peer/root receiving. Generation V1 and MAIN_ONLY_R1, all stable IDs, old formal histories and source evidence are unchanged. Earlier references below to initial authoring/pre-peer sealing describe that preserved initial stage. This current successor has received peer-model QA but no concrete casebank/expected answer or generated response; it is not accepted or externally validated.\n\n## 1. Authority and source boundary\n\n",
+              "reason": "Attributable current-stage wrapper"
+            },
+            {
+              "before_exact": "### R1-D01",
+              "after_exact": "**Pre-case outcome separation.** Score actual predicted behavior against its own action/contrary signature. A correct capability, information, permission, provider or cost trace alone is not behavioral confirmation. A response can be behaviorally contrary and typed-consistent, or behaviorally compatible and typed-defective; record both findings separately.\n\n**Prebinding and contrary occasions.** Before any response/outcome, bind selected chronology/world/mode, source-access limits, implicated actor set, independently known roles/goals/beliefs/resources/permissions, competing goals, exception facts and the adequate observation opportunity. Do not add exceptions or select the fitting actor after seeing a response. One adequately observed eligible opposite remains locally adverse. Confidence/tendency is not universality, and local adverse does not automatically retire an entire model. No unstated repeat floor delays recording a contrary occasion. Aggregate revision, if later used, must be predeclared separately.\n\n**Missingness and storage.** Unknown source knowledge, unshown act or missing opportunity is recorded as unknown/non-testable, not a pass and not proof the source violates world constraints. A hypothetical simulator can be checked against supplied facts; a literary source with undisclosed premises cannot be treated as fully specified by default. External behavioral, typed-consistency, execution-result and missingness findings belong in a separate later validation artifact against exact model/forecast hashes. All baseline external outcomes remain null/empty. No concrete casebank or response was read for this repair.\n\n### R1-D01",
+              "reason": "Behavior/typed/missingness and prebinding policy"
+            },
+            {
+              "before_exact": "- **Disconfirmation:** A clear eligible refusal or inability without a supplied local motive/resource limit is contrary to the predicted domain-matched attempt. Effortless expertise in an unlearned domain also contradicts the decomposition. Distinguish attempted action from successful result.",
+              "after_exact": "- **Disconfirmation:** On one adequately shown eligible occasion, she declines or makes no domain-fitted practical attempt/offer despite the prebound opportunity and absent a prebound competing need or resource limit. That is locally adverse to this behavioral tendency. An attempted contribution that fails is not the same as nonattempt; actual execution and result are recorded separately. Invented unlearned expertise is a separate typed capability defect, not behavioral confirmation or behavioral disconfirmation.",
+              "reason": "R1-D06 disconfirming_observation"
+            },
+            {
+              "before_exact": "- **Limits:** Civic role does not guarantee ethical means; coercion, limited teaching/carpentry and gratification conflicts remain.\n",
+              "after_exact": "- **Limits:** Civic role does not guarantee ethical means; coercion, limited teaching/carpentry and gratification conflicts remain.\n- **Evaluation layers:** Behavioral action and contrary are the two fields above; typed consistency is recorded separately and cannot supply behavioral support. A local opposite remains adverse without automatic whole-model retirement.\n- **Typed integrity only:** Do not grant expertise, training, authority or equipment absent from the selected state or supplied new facts. A literary source's unreported training is unknown, not proof of a violation.\n",
+              "reason": "R1-D06 separated evaluation layers"
+            },
+            {
+              "before_exact": "- **Action:** She can initially thank/accept the answer and then object, become angry or retaliate at the new event; earlier composure does not persist automatically.",
+              "after_exact": "- **Action:** She initially thanks or accepts the answer as an honest answer, then objects, shows anger or makes a boundary response to the separately perceived new ridicule. This is the expected direction, not merely a possible sequence; no particular physical retaliation is required.",
+              "reason": "R1-D07 predicted_action"
+            },
+            {
+              "before_exact": "- **Disconfirmation:** A matched continuation that treats the later stipulated ridicule as uniformly welcome or erases the original honest acknowledgment is contrary. A genuine sustained calm response is adverse to the predicted shift and should not be rationalized away.",
+              "after_exact": "- **Disconfirmation:** On one adequately shown matched occasion, either the initial honest answer receives no acknowledgment/acceptance, or the later stipulated ridicule is met with genuinely sustained calm, welcome or no boundary response despite a prebound ability and opportunity to respond. Retain the contrary phase as locally adverse even if the other phase fits. Earlier appreciation does not authorize a later imposition. A local opposite does not automatically retire the whole mechanism, and no unspecified repetition floor is required to record it.",
+              "reason": "R1-D07 disconfirming_observation"
+            },
+            {
+              "before_exact": "- **Limits:** This does not predict inevitable assault or permit unwanted contact. Initial imposition and another actor’s later participation remain separate.\n",
+              "after_exact": "- **Limits:** This does not predict inevitable assault or permit unwanted contact. Initial imposition and another actor’s later participation remain separate.\n- **Evaluation layers:** Behavioral action and contrary are the two fields above; typed consistency is recorded separately and cannot supply behavioral support. A local opposite remains adverse without automatic whole-model retirement.\n",
+              "reason": "R1-D07 separated evaluation layers"
+            },
+            {
+              "before_exact": "| Genuine gratitude/acceptance may be followed by hurt or retaliation under ridicule; prior composure is not a permanent state or permission for coercion. |",
+              "after_exact": "| Expected acknowledgment/acceptance is followed by a boundary response to the new ridicule. Either contrary phase remains locally adverse; neither physical retaliation nor a permanent personality cure is required. |",
+              "reason": "R1-D07 compact mechanism projection"
+            }
+          ],
+          "full_inverse_exact": true
+        },
+        {
+          "file": "KONOSUBA_PARTY_INTERACTION_MODEL.md",
+          "initial": {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-reconstruction-initial-v1/KONOSUBA_PARTY_INTERACTION_MODEL.md",
+            "bytes": 56840,
+            "sha256": "4b9ccb2979eb44b2438f2ff8752d64d617affa5e9212fb33982829a82e67cc2a"
+          },
+          "successor": {
+            "path": "/workspace/scratch/konosuba/v17-independent/main-only-reconstruction-receiving-v2/KONOSUBA_PARTY_INTERACTION_MODEL.md",
+            "bytes": 66517,
+            "sha256": "13c288a0278f87af60ee0b1c01d04ed6336977e9f34d36e9f163a9e6399b0271"
+          },
+          "operations": [
+            {
+              "before_exact": "status: initial_author_candidate",
+              "after_exact": "status: precase_receiving_successor_candidate",
+              "reason": "Current stage metadata; initial remains preserved"
+            },
+            {
+              "before_exact": "## 1. Authority and source boundary\n\n",
+              "after_exact": "**Pre-case receiving successor v2.** The complete initial body/forecasts/settings/seal remain immutable in private provenance. This bounded successor separates actual behavioral predictions from capability/knowledge/permission/world-integrity audits and clarifies directional/per-opportunity contrary signatures after full model-only peer/root receiving. Generation V1 and MAIN_ONLY_R1, all stable IDs, old formal histories and source evidence are unchanged. Earlier references below to initial authoring/pre-peer sealing describe that preserved initial stage. This current successor has received peer-model QA but no concrete casebank/expected answer or generated response; it is not accepted or externally validated.\n\n## 1. Authority and source boundary\n\n",
+              "reason": "Attributable current-stage wrapper"
+            },
+            {
+              "before_exact": "### R1-E01",
+              "after_exact": "**Pre-case outcome separation.** Score actual predicted behavior against its own action/contrary signature. A correct capability, information, permission, provider or cost trace alone is not behavioral confirmation. A response can be behaviorally contrary and typed-consistent, or behaviorally compatible and typed-defective; record both findings separately.\n\n**Prebinding and contrary occasions.** Before any response/outcome, bind selected chronology/world/mode, source-access limits, implicated actor set, independently known roles/goals/beliefs/resources/permissions, competing goals, exception facts and the adequate observation opportunity. Do not add exceptions or select the fitting actor after seeing a response. One adequately observed eligible opposite remains locally adverse. Confidence/tendency is not universality, and local adverse does not automatically retire an entire model. No unstated repeat floor delays recording a contrary occasion. Aggregate revision, if later used, must be predeclared separately.\n\n**Missingness and storage.** Unknown source knowledge, unshown act or missing opportunity is recorded as unknown/non-testable, not a pass and not proof the source violates world constraints. A hypothetical simulator can be checked against supplied facts; a literary source with undisclosed premises cannot be treated as fully specified by default. External behavioral, typed-consistency, execution-result and missingness findings belong in a separate later validation artifact against exact model/forecast hashes. All baseline external outcomes remain null/empty. No concrete casebank or response was read for this repair.\n\n### R1-E01",
+              "reason": "Behavior/typed/missingness and prebinding policy"
+            },
+            {
+              "before_exact": "- **Disconfirmation:** In a clearly eligible scene they ignore the accepted complementary arrangement for unsupported interchangeable actions, without changed incentives/information/resources; or the output grants success despite a missing edge. Actual failed execution is recorded, not hidden.",
+              "after_exact": "- **Disconfirmation:** On one adequately shown eligible occasion, participants do not attempt the accepted fitted handoff or persist with interchangeable isolated actions despite known observed component limits, without a prebound changed incentive, information or resource constraint. This is locally adverse to the attempted cooperation/adaptation forecast. A failed attempted handoff remains a real execution failure; invented success despite a missing resource/provider edge is a separate typed world-integrity defect.",
+              "reason": "R1-E01 disconfirming_observation"
+            },
+            {
+              "before_exact": "- **Limits:** Does not require all four, equal necessity or a Kazuma organizer. Refusal and changed reward can create a different branch.\n",
+              "after_exact": "- **Limits:** Does not require all four, equal necessity or a Kazuma organizer. Refusal and changed reward can create a different branch.\n- **Evaluation layers:** Behavioral action and contrary are the two fields above; typed consistency is recorded separately and cannot supply behavioral support. A local opposite remains adverse without automatic whole-model retirement.\n- **Typed integrity only:** Resource/provider/geometry edges must exist for claimed execution. Do not grant success from a missing edge or confuse a component success with a full operation.\n",
+              "reason": "R1-E01 separated evaluation layers"
+            },
+            {
+              "before_exact": "- **State/eligibility:** Participants know the metric and have an opportunity to seek credit; current grievance/status motives are instantiated before the result.",
+              "after_exact": "- **State/eligibility:** Participants know the metric and have an opportunity to seek credit. Identify the implicated actor set, actual tempting gain and current grievance/status motives before any response; do not select whichever actor later happens to fit. Competing goals are also prebound.",
+              "reason": "R1-E02 state_eligibility"
+            },
+            {
+              "before_exact": "- **Disconfirmation:** A fully eligible metric consistently produces unprompted complementary work and explicit credit for enabling roles without reward/objective revision, or the presumed competitor refuses the tempting gain before any conflict, is adverse.",
+              "after_exact": "- **Disconfirmation:** On one adequately shown eligible occasion, none of the preidentified implicated actors pursues the tempting metric gain or interpersonal competition, and they instead sustain unprompted complementary work/credit or explicitly decline the gain before conflict without an objective/reward revision. This is locally adverse to the group 'at least one' commitment; no repeat count is required. An individual implicated actor's opposite choice remains actor-level contrary evidence even if another actor satisfies the group commitment. A local opposite is not automatic global model retirement.",
+              "reason": "R1-E02 disconfirming_observation"
+            },
+            {
+              "before_exact": "- **Limits:** A metric is not automatically bad because it is numerical. Work-linked recognition can align incentives, and old K03 stopping evidence remains.\n",
+              "after_exact": "- **Limits:** A metric is not automatically bad because it is numerical. Work-linked recognition can align incentives, and old K03 stopping evidence remains.\n- **Evaluation layers:** Behavioral action and contrary are the two fields above; typed consistency is recorded separately and cannot supply behavioral support. A local opposite remains adverse without automatic whole-model retirement.\n",
+              "reason": "R1-E02 separated evaluation layers"
+            },
+            {
+              "before_exact": "- **State/eligibility:** The dependency and available providers/resources are specified. No off-page automatic remedy is assumed. Agents may initially believe the first objective completed the task.",
+              "after_exact": "- **State/eligibility:** The dependency, cue, available providers/resources and a cue-receiving actor set are specified before response. At least one actor actually receives a perceivable sign and has an adequate opportunity to communicate or act; whether that actor recognizes its implication is part of the prediction. Competing urgent demands and known incapacities are prebound. No off-page automatic remedy is assumed; agents may initially believe the first objective completed the task.",
+              "reason": "R1-E03 state_eligibility"
+            },
+            {
+              "before_exact": "- **Action:** Someone identifies or responds to the remaining problem; adaptation, request, outsider recruitment, stalled recovery or admitted cost follows rather than a free reset.",
+              "after_exact": "- **Action:** At least one preidentified cue-receiving actor makes a dependency-directed intervention or communicates a concrete request/proposal to address the remaining problem at the declared opportunity. The attempt may fail, but mere stalled recovery, an unresolved dependency, passive cost or a correct no-free-reset description alone does not satisfy this behavioral commitment.",
+              "reason": "R1-E03 predicted_action"
+            },
+            {
+              "before_exact": "- **Disconfirmation:** A clearly observable unresolved dependency is silently removed by ensemble feeling or an unsupported provider, or all informed actors act as if it does not exist with no local explanation, contradicts the forecast. A failed attempt is compatible but its cost stays.",
+              "after_exact": "- **Disconfirmation:** On one adequately shown eligible occasion, every preidentified cue-receiving actor ignores, denies or leaves the remaining dependency without any concrete dependency-directed act/request/proposal despite the prebound opportunity and absent a prebound competing constraint. That is locally adverse even when the operation correctly stays stalled and costs persist. A failed genuine response is recorded as an attempt plus execution failure, not a free success. A silent unsupported reset is instead a separate typed integrity defect.",
+              "reason": "R1-E03 disconfirming_observation"
+            },
+            {
+              "before_exact": "- **Limits:** Not every recovery succeeds. Acquisition, survival until cure, final release and compensation remain separate.\n",
+              "after_exact": "- **Limits:** Not every recovery succeeds. Acquisition, survival until cure, final release and compensation remain separate.\n- **Evaluation layers:** Behavioral action and contrary are the two fields above; typed consistency is recorded separately and cannot supply behavioral support. A local opposite remains adverse without automatic whole-model retirement.\n- **Typed integrity only:** Recovery/extraction/treatment/restraint/liability does not reset without an actual supplied route. Attribute the actual provider, action, time and cost; persistent unresolved cost is not behavioral success.\n",
+              "reason": "R1-E03 separated evaluation layers"
+            },
+            {
+              "before_exact": "- **State/eligibility:** The belief difference is fixed before action, with no unprovided mind-reading route. Roles and disclosure choices are specified.",
+              "after_exact": "- **State/eligibility:** Fix the relevant private premise, each partner's available account and actor set before action, including any source-supported familiarity, inference route or robust common action. Predeclare an adequate opportunity to ask or reveal a task interpretation; do not define the belief difference from the later behavior. Roles and disclosure choices are specified.",
+              "reason": "R1-E05 state_eligibility"
+            },
+            {
+              "before_exact": "- **Action:** A partner seeks clarification or acts on a locally different account; the hidden plan cannot be perfectly coordinated without actual inference, disclosure or robust contingency.",
+              "after_exact": "- **Action:** At least one preidentified partner seeks clarification or takes an observable task step reflecting the independently fixed different account before the missing premise is disclosed. This predicts an actual response/divergence; merely preserving private knowledge in the trace does not satisfy it. Independently useful or coincidentally aligned actions remain possible competitors.",
+              "reason": "R1-E05 predicted_action"
+            },
+            {
+              "before_exact": "- **Disconfirmation:** A clear eligible actor performs the hidden plan’s specific steps without any available information/inference route, or all agents are treated as knowing a private premise by default: this is contrary evidence. A source-supported correct inference must be explicitly retained.",
+              "after_exact": "- **Disconfirmation:** On one adequately shown eligible occasion, all preidentified partners proceed through the declared opportunity with neither clarification nor an observable differing-account step. That is locally adverse to this behavioral prediction even if correct inference, a robust common action or coincidence makes the coordination world-consistent. Performing hidden-plan steps alone does not prove mind-reading. If source access, actor opportunity or response is not observable enough, record that missingness rather than a pass or a source-world violation.",
+              "reason": "R1-E05 disconfirming_observation"
+            },
+            {
+              "before_exact": "- **Limits:** Accurate familiarity can support inference but not omniscience. A withheld plan need not always fail; robust local actions can still work.\n",
+              "after_exact": "- **Limits:** Accurate familiarity can support inference but not omniscience. A withheld plan need not always fail; robust local actions can still work.\n- **Evaluation layers:** Behavioral action and contrary are the two fields above; typed consistency is recorded separately and cannot supply behavioral support. A local opposite remains adverse without automatic whole-model retirement.\n- **Typed integrity only:** Preserve each agent's actual information access. A trace may not assert private knowledge without a route, but coincidentally correct action or a supported local inference is not itself mind-reading. Unknown source access is missingness.\n",
+              "reason": "R1-E05 separated evaluation layers"
+            },
+            {
+              "before_exact": "- **State/eligibility:** The boundary is known before the act; the affected actor perceives the violation and can express or act on it. Changed preference, coercion and altered states are recorded rather than assumed.",
+              "after_exact": "- **State/eligibility:** The recipient's still-operative boundary is independently known before the act; the recipient perceives the violation and has an adequately observable opportunity and ability to express or act on it. Bind coercion, incapacity, competing needs and any independently changed preference before response. Do not infer unchanged or changed willingness from the response being tested.",
+              "reason": "R1-E06 state_eligibility"
+            },
+            {
+              "before_exact": "- **Disconfirmation:** A clearly matched active boundary is treated as authorized solely from affection/arousal or all agency cost disappears after a joke. A genuine observed change of preference is data, not automatic retrospective permission.",
+              "after_exact": "- **Disconfirmation:** On one adequately shown eligible occasion, the recipient remains silent, yields or makes no objection/resistance/limit/repair response despite the still-unwanted act and prebound opportunity/ability. This is locally adverse to the behavioral response forecast even if the trace correctly preserves absence of consent. Unknown/off-page response is missingness, not observed acquiescence. An independently established changed preference changes current eligibility; it is not behavioral confirmation and cannot retroactively authorize an earlier imposition.",
+              "reason": "R1-E06 disconfirming_observation"
+            },
+            {
+              "before_exact": "- **Limits:** This is not a universal actor stop rule: wrongdoing can continue. Gen03 tearsF remains, and one person cannot consent for another.\n",
+              "after_exact": "- **Limits:** This is not a universal actor stop rule: wrongdoing can continue. Gen03 tearsF remains, and one person cannot consent for another.\n- **Evaluation layers:** Behavioral action and contrary are the two fields above; typed consistency is recorded separately and cannot supply behavioral support. A local opposite remains adverse without automatic whole-model retirement.\n- **Typed integrity only:** Permission is specific to person, act, scope and time. Prior affection, arousal, practical dependence or later participation cannot authorize an imposed start. Correct ethical labeling is not behavioral support.\n",
+              "reason": "R1-E06 separated evaluation layers"
+            },
+            {
+              "before_exact": "- **State/eligibility:** Actual availability, acceptance, limits and participant knowledge are given; do not infer a completed entire campaign from the proposed provider.",
+              "after_exact": "- **State/eligibility:** Fix a concrete feasible local phase, actual provider availability, accepted contribution, finite limits and a provider/participant actor set before response. Their knowledge and opportunity to initiate that phase are given, with competing objectives and genuine dependencies prebound. A proposed entire campaign is not treated as performed; no mandatory Kazuma direction is added without independent local grounds.",
+              "reason": "R1-E07 state_eligibility"
+            },
+            {
+              "before_exact": "- **Action:** Useful phase-level organization or execution can proceed through the outside provider and participant initiative, with costs and credit attributed correctly.",
+              "after_exact": "- **Action:** The preidentified provider and/or participating actors initiate an attempt at the concrete local phase using the accepted outside contribution, rather than withholding all useful phase action solely until Kazuma personally directs it when no such local prerequisite exists. Actual initiation is predicted; mere possibility, correct outsider attribution or a declared rejection of universal Kazuma necessity does not satisfy it. Successful execution and full-campaign equivalence remain separate.",
+              "reason": "R1-E07 predicted_action"
+            },
+            {
+              "before_exact": "- **Disconfirmation:** A clearly compatible accepted provider is denied useful phase action solely because Kazuma is absent, or the output instead makes the resource unlimited/party-owned, contradicts the model. Full-campaign equivalence remains untested separately.",
+              "after_exact": "- **Disconfirmation:** On one adequately shown eligible occasion, the preidentified actors make no attempt at the feasible accepted phase, reject its use or wait solely for Kazuma without a prebound substantive dependency or competing motive. That is locally adverse even if the world/ownership trace is otherwise correct. A failed initiated phase is an attempt plus execution failure. Unlimited outside resources, invented party ownership or a fabricated mandatory coordinator are separate typed integrity defects, not behavioral support.",
+              "reason": "R1-E07 disconfirming_observation"
+            },
+            {
+              "before_exact": "- **Limits:** No universal coordinator/institution requirement. Free-fighting announcement, outsider refusal and different objectives remain.\n",
+              "after_exact": "- **Limits:** No universal coordinator/institution requirement. Free-fighting announcement, outsider refusal and different objectives remain.\n- **Evaluation layers:** Behavioral action and contrary are the two fields above; typed consistency is recorded separately and cannot supply behavioral support. A local opposite remains adverse without automatic whole-model retirement.\n- **Typed integrity only:** Outside resources retain their actual availability, ownership, limits and costs. No universal Kazuma node, universal institution/coordinator or complete replacement campaign is inferred. Unknown source dependencies stay unknown.\n",
+              "reason": "R1-E07 separated evaluation layers"
+            },
+            {
+              "before_exact": "- **State/eligibility:** The rewarding commitment and incomplete assurance are established before the response; current resources, injuries, alternatives and dissent are explicit. It is not classified safe merely because someone survives.",
+              "after_exact": "- **State/eligibility:** Identify the implicated committed actor set, rewarding commitment and incomplete assurance before response, together with current resources, injuries, known alternatives, dissent and competing goals. Do not select an actor from later persistence or call the course safe from survival. Predeclare an adequate opportunity to continue, stop or respond.",
+              "reason": "R1-E08 state_eligibility"
+            },
+            {
+              "before_exact": "- **Disconfirmation:** A clearly matched configuration consistently yields immediate internally initiated safe coordination from every implicated actor before any correction/new information is supplied is adverse. No unshown compliance or survival can be used to claim that happened.",
+              "after_exact": "- **Disconfirmation:** On one adequately shown matched occasion, no preidentified committed actor initially persists or presses the risky course and the implicated actors instead immediately initiate the safer coordinated course before correction/new information. This is locally adverse without any repetition floor. If persistence occurs but no other actor attempts the predicted correction/persuasion/alternative, retain that failed component rather than a full confirmation. Actual contrary actor choices remain visible even if another component fits. A local opposite does not automatically retire the whole mechanism; no unshown compliance or later survival can substitute for observed behavior.",
+              "reason": "R1-E08 disconfirming_observation"
+            },
+            {
+              "before_exact": "- **Limits:** V17 D425claim/M426shareddeath differ;427unknown/437later/438persuasion/Aqua446later. Preserve D01C/M05AMB/M06P; do not predict inevitable suicidal firing.\n",
+              "after_exact": "- **Limits:** V17 D425claim/M426shareddeath differ;427unknown/437later/438persuasion/Aqua446later. Preserve D01C/M05AMB/M06P; do not predict inevitable suicidal firing.\n- **Evaluation layers:** Behavioral action and contrary are the two fields above; typed consistency is recorded separately and cannot supply behavioral support. A local opposite remains adverse without automatic whole-model retirement.\n",
+              "reason": "R1-E08 separated evaluation layers"
+            },
+            {
+              "before_exact": "| A fitted handoff can produce a jointly possible phase; absence, refusal or resource mismatch blocks that edge. No mandatory Kazuma node. |",
+              "after_exact": "| Participants attempt the accepted fitted handoff and adapt to observed limits. Phase result/provider integrity are separate; no mandatory Kazuma node. |",
+              "reason": "R1-E01 compact mechanism projection"
+            },
+            {
+              "before_exact": "| The operation remains incomplete, requires adaptation/outsider help or incurs cost; victory cannot automatically close recovery. |",
+              "after_exact": "| A preidentified cue-receiving actor attempts a dependency-directed intervention or concrete request/proposal. Stalled recovery and no-free-reset are structural states, not behavioral support. |",
+              "reason": "R1-E03 compact mechanism projection"
+            },
+            {
+              "before_exact": "| Otherwise competent actions can conflict; coordination improves only through actual information or a robust plan, not omniscience. |",
+              "after_exact": "| A preidentified partner asks or acts observably from the differing account. Correct private-state bookkeeping alone is not support; robust/coincidental coordination can be behaviorally contrary while world-consistent. |",
+              "reason": "R1-E05 compact mechanism projection"
+            },
+            {
+              "before_exact": "| Actual objection and relational cost remain possible; practical help/affection can coexist with violation and do not erase it. |",
+              "after_exact": "| The able informed recipient objects/resists/sets a limit or seeks repair. An adequate absence of that response is behaviorally adverse even when lack of consent is correctly retained. |",
+              "reason": "R1-E06 compact mechanism projection"
+            },
+            {
+              "before_exact": "| Useful phases can work without continuous Kazuma direction; outsider constraints and untested full-campaign replacement remain. |",
+              "after_exact": "| The available accepted provider/participants initiate the specified local phase. Possibility, correct attribution and no-universal-K integrity alone are not behavioral support; full-campaign replacement remains untested. |",
+              "reason": "R1-E07 compact mechanism projection"
+            }
+          ],
+          "full_inverse_exact": true
+        }
+      ],
+      "forecast_record_operations": [
+        {
+          "forecast_id": "R1-D06",
+          "field": "disconfirming_observation",
+          "before_exact": "A clear eligible refusal or inability without a supplied local motive/resource limit is contrary to the predicted domain-matched attempt. Effortless expertise in an unlearned domain also contradicts the decomposition. Distinguish attempted action from successful result.",
+          "after_exact": "On one adequately shown eligible occasion, she declines or makes no domain-fitted practical attempt/offer despite the prebound opportunity and absent a prebound competing need or resource limit. That is locally adverse to this behavioral tendency. An attempted contribution that fails is not the same as nonattempt; actual execution and result are recorded separately. Invented unlearned expertise is a separate typed capability defect, not behavioral confirmation or behavioral disconfirmation."
+        },
+        {
+          "forecast_id": "R1-D06",
+          "field": "evaluation_contract",
+          "before_absent": true,
+          "after_exact": {
+            "behavioral_action_field": "predicted_action",
+            "behavioral_contrary_field": "disconfirming_observation",
+            "typed_consistency_checks": [
+              "Do not grant expertise, training, authority or equipment absent from the selected state or supplied new facts. A literary source's unreported training is unknown, not proof of a violation."
+            ],
+            "separate_findings_rule": "Score actual predicted behavior against its own action/contrary signature. A correct capability, information, permission, provider or cost trace alone is not behavioral confirmation. A response can be behaviorally contrary and typed-consistent, or behaviorally compatible and typed-defective; record both findings separately.",
+            "per_case_rule": "One adequately observed eligible opposite remains locally adverse. Confidence/tendency is not universality, and local adverse does not automatically retire an entire model. No unstated repeat floor delays recording a contrary occasion. Aggregate revision, if later used, must be predeclared separately."
+          }
+        },
+        {
+          "forecast_id": "R1-D07",
+          "field": "predicted_action",
+          "before_exact": "She can initially thank/accept the answer and then object, become angry or retaliate at the new event; earlier composure does not persist automatically.",
+          "after_exact": "She initially thanks or accepts the answer as an honest answer, then objects, shows anger or makes a boundary response to the separately perceived new ridicule. This is the expected direction, not merely a possible sequence; no particular physical retaliation is required."
+        },
+        {
+          "forecast_id": "R1-D07",
+          "field": "disconfirming_observation",
+          "before_exact": "A matched continuation that treats the later stipulated ridicule as uniformly welcome or erases the original honest acknowledgment is contrary. A genuine sustained calm response is adverse to the predicted shift and should not be rationalized away.",
+          "after_exact": "On one adequately shown matched occasion, either the initial honest answer receives no acknowledgment/acceptance, or the later stipulated ridicule is met with genuinely sustained calm, welcome or no boundary response despite a prebound ability and opportunity to respond. Retain the contrary phase as locally adverse even if the other phase fits. Earlier appreciation does not authorize a later imposition. A local opposite does not automatically retire the whole mechanism, and no unspecified repetition floor is required to record it."
+        },
+        {
+          "forecast_id": "R1-D07",
+          "field": "evaluation_contract",
+          "before_absent": true,
+          "after_exact": {
+            "behavioral_action_field": "predicted_action",
+            "behavioral_contrary_field": "disconfirming_observation",
+            "typed_consistency_checks": [],
+            "separate_findings_rule": "Score actual predicted behavior against its own action/contrary signature. A correct capability, information, permission, provider or cost trace alone is not behavioral confirmation. A response can be behaviorally contrary and typed-consistent, or behaviorally compatible and typed-defective; record both findings separately.",
+            "per_case_rule": "One adequately observed eligible opposite remains locally adverse. Confidence/tendency is not universality, and local adverse does not automatically retire an entire model. No unstated repeat floor delays recording a contrary occasion. Aggregate revision, if later used, must be predeclared separately."
+          }
+        },
+        {
+          "forecast_id": "R1-E01",
+          "field": "disconfirming_observation",
+          "before_exact": "In a clearly eligible scene they ignore the accepted complementary arrangement for unsupported interchangeable actions, without changed incentives/information/resources; or the output grants success despite a missing edge. Actual failed execution is recorded, not hidden.",
+          "after_exact": "On one adequately shown eligible occasion, participants do not attempt the accepted fitted handoff or persist with interchangeable isolated actions despite known observed component limits, without a prebound changed incentive, information or resource constraint. This is locally adverse to the attempted cooperation/adaptation forecast. A failed attempted handoff remains a real execution failure; invented success despite a missing resource/provider edge is a separate typed world-integrity defect."
+        },
+        {
+          "forecast_id": "R1-E01",
+          "field": "evaluation_contract",
+          "before_absent": true,
+          "after_exact": {
+            "behavioral_action_field": "predicted_action",
+            "behavioral_contrary_field": "disconfirming_observation",
+            "typed_consistency_checks": [
+              "Resource/provider/geometry edges must exist for claimed execution. Do not grant success from a missing edge or confuse a component success with a full operation."
+            ],
+            "separate_findings_rule": "Score actual predicted behavior against its own action/contrary signature. A correct capability, information, permission, provider or cost trace alone is not behavioral confirmation. A response can be behaviorally contrary and typed-consistent, or behaviorally compatible and typed-defective; record both findings separately.",
+            "per_case_rule": "One adequately observed eligible opposite remains locally adverse. Confidence/tendency is not universality, and local adverse does not automatically retire an entire model. No unstated repeat floor delays recording a contrary occasion. Aggregate revision, if later used, must be predeclared separately."
+          }
+        },
+        {
+          "forecast_id": "R1-E02",
+          "field": "state_eligibility",
+          "before_exact": "Participants know the metric and have an opportunity to seek credit; current grievance/status motives are instantiated before the result.",
+          "after_exact": "Participants know the metric and have an opportunity to seek credit. Identify the implicated actor set, actual tempting gain and current grievance/status motives before any response; do not select whichever actor later happens to fit. Competing goals are also prebound."
+        },
+        {
+          "forecast_id": "R1-E02",
+          "field": "disconfirming_observation",
+          "before_exact": "A fully eligible metric consistently produces unprompted complementary work and explicit credit for enabling roles without reward/objective revision, or the presumed competitor refuses the tempting gain before any conflict, is adverse.",
+          "after_exact": "On one adequately shown eligible occasion, none of the preidentified implicated actors pursues the tempting metric gain or interpersonal competition, and they instead sustain unprompted complementary work/credit or explicitly decline the gain before conflict without an objective/reward revision. This is locally adverse to the group 'at least one' commitment; no repeat count is required. An individual implicated actor's opposite choice remains actor-level contrary evidence even if another actor satisfies the group commitment. A local opposite is not automatic global model retirement."
+        },
+        {
+          "forecast_id": "R1-E02",
+          "field": "evaluation_contract",
+          "before_absent": true,
+          "after_exact": {
+            "behavioral_action_field": "predicted_action",
+            "behavioral_contrary_field": "disconfirming_observation",
+            "typed_consistency_checks": [],
+            "separate_findings_rule": "Score actual predicted behavior against its own action/contrary signature. A correct capability, information, permission, provider or cost trace alone is not behavioral confirmation. A response can be behaviorally contrary and typed-consistent, or behaviorally compatible and typed-defective; record both findings separately.",
+            "per_case_rule": "One adequately observed eligible opposite remains locally adverse. Confidence/tendency is not universality, and local adverse does not automatically retire an entire model. No unstated repeat floor delays recording a contrary occasion. Aggregate revision, if later used, must be predeclared separately."
+          }
+        },
+        {
+          "forecast_id": "R1-E03",
+          "field": "state_eligibility",
+          "before_exact": "The dependency and available providers/resources are specified. No off-page automatic remedy is assumed. Agents may initially believe the first objective completed the task.",
+          "after_exact": "The dependency, cue, available providers/resources and a cue-receiving actor set are specified before response. At least one actor actually receives a perceivable sign and has an adequate opportunity to communicate or act; whether that actor recognizes its implication is part of the prediction. Competing urgent demands and known incapacities are prebound. No off-page automatic remedy is assumed; agents may initially believe the first objective completed the task."
+        },
+        {
+          "forecast_id": "R1-E03",
+          "field": "predicted_action",
+          "before_exact": "Someone identifies or responds to the remaining problem; adaptation, request, outsider recruitment, stalled recovery or admitted cost follows rather than a free reset.",
+          "after_exact": "At least one preidentified cue-receiving actor makes a dependency-directed intervention or communicates a concrete request/proposal to address the remaining problem at the declared opportunity. The attempt may fail, but mere stalled recovery, an unresolved dependency, passive cost or a correct no-free-reset description alone does not satisfy this behavioral commitment."
+        },
+        {
+          "forecast_id": "R1-E03",
+          "field": "disconfirming_observation",
+          "before_exact": "A clearly observable unresolved dependency is silently removed by ensemble feeling or an unsupported provider, or all informed actors act as if it does not exist with no local explanation, contradicts the forecast. A failed attempt is compatible but its cost stays.",
+          "after_exact": "On one adequately shown eligible occasion, every preidentified cue-receiving actor ignores, denies or leaves the remaining dependency without any concrete dependency-directed act/request/proposal despite the prebound opportunity and absent a prebound competing constraint. That is locally adverse even when the operation correctly stays stalled and costs persist. A failed genuine response is recorded as an attempt plus execution failure, not a free success. A silent unsupported reset is instead a separate typed integrity defect."
+        },
+        {
+          "forecast_id": "R1-E03",
+          "field": "evaluation_contract",
+          "before_absent": true,
+          "after_exact": {
+            "behavioral_action_field": "predicted_action",
+            "behavioral_contrary_field": "disconfirming_observation",
+            "typed_consistency_checks": [
+              "Recovery/extraction/treatment/restraint/liability does not reset without an actual supplied route. Attribute the actual provider, action, time and cost; persistent unresolved cost is not behavioral success."
+            ],
+            "separate_findings_rule": "Score actual predicted behavior against its own action/contrary signature. A correct capability, information, permission, provider or cost trace alone is not behavioral confirmation. A response can be behaviorally contrary and typed-consistent, or behaviorally compatible and typed-defective; record both findings separately.",
+            "per_case_rule": "One adequately observed eligible opposite remains locally adverse. Confidence/tendency is not universality, and local adverse does not automatically retire an entire model. No unstated repeat floor delays recording a contrary occasion. Aggregate revision, if later used, must be predeclared separately."
+          }
+        },
+        {
+          "forecast_id": "R1-E05",
+          "field": "state_eligibility",
+          "before_exact": "The belief difference is fixed before action, with no unprovided mind-reading route. Roles and disclosure choices are specified.",
+          "after_exact": "Fix the relevant private premise, each partner's available account and actor set before action, including any source-supported familiarity, inference route or robust common action. Predeclare an adequate opportunity to ask or reveal a task interpretation; do not define the belief difference from the later behavior. Roles and disclosure choices are specified."
+        },
+        {
+          "forecast_id": "R1-E05",
+          "field": "predicted_action",
+          "before_exact": "A partner seeks clarification or acts on a locally different account; the hidden plan cannot be perfectly coordinated without actual inference, disclosure or robust contingency.",
+          "after_exact": "At least one preidentified partner seeks clarification or takes an observable task step reflecting the independently fixed different account before the missing premise is disclosed. This predicts an actual response/divergence; merely preserving private knowledge in the trace does not satisfy it. Independently useful or coincidentally aligned actions remain possible competitors."
+        },
+        {
+          "forecast_id": "R1-E05",
+          "field": "disconfirming_observation",
+          "before_exact": "A clear eligible actor performs the hidden plan’s specific steps without any available information/inference route, or all agents are treated as knowing a private premise by default: this is contrary evidence. A source-supported correct inference must be explicitly retained.",
+          "after_exact": "On one adequately shown eligible occasion, all preidentified partners proceed through the declared opportunity with neither clarification nor an observable differing-account step. That is locally adverse to this behavioral prediction even if correct inference, a robust common action or coincidence makes the coordination world-consistent. Performing hidden-plan steps alone does not prove mind-reading. If source access, actor opportunity or response is not observable enough, record that missingness rather than a pass or a source-world violation."
+        },
+        {
+          "forecast_id": "R1-E05",
+          "field": "evaluation_contract",
+          "before_absent": true,
+          "after_exact": {
+            "behavioral_action_field": "predicted_action",
+            "behavioral_contrary_field": "disconfirming_observation",
+            "typed_consistency_checks": [
+              "Preserve each agent's actual information access. A trace may not assert private knowledge without a route, but coincidentally correct action or a supported local inference is not itself mind-reading. Unknown source access is missingness."
+            ],
+            "separate_findings_rule": "Score actual predicted behavior against its own action/contrary signature. A correct capability, information, permission, provider or cost trace alone is not behavioral confirmation. A response can be behaviorally contrary and typed-consistent, or behaviorally compatible and typed-defective; record both findings separately.",
+            "per_case_rule": "One adequately observed eligible opposite remains locally adverse. Confidence/tendency is not universality, and local adverse does not automatically retire an entire model. No unstated repeat floor delays recording a contrary occasion. Aggregate revision, if later used, must be predeclared separately."
+          }
+        },
+        {
+          "forecast_id": "R1-E06",
+          "field": "state_eligibility",
+          "before_exact": "The boundary is known before the act; the affected actor perceives the violation and can express or act on it. Changed preference, coercion and altered states are recorded rather than assumed.",
+          "after_exact": "The recipient's still-operative boundary is independently known before the act; the recipient perceives the violation and has an adequately observable opportunity and ability to express or act on it. Bind coercion, incapacity, competing needs and any independently changed preference before response. Do not infer unchanged or changed willingness from the response being tested."
+        },
+        {
+          "forecast_id": "R1-E06",
+          "field": "disconfirming_observation",
+          "before_exact": "A clearly matched active boundary is treated as authorized solely from affection/arousal or all agency cost disappears after a joke. A genuine observed change of preference is data, not automatic retrospective permission.",
+          "after_exact": "On one adequately shown eligible occasion, the recipient remains silent, yields or makes no objection/resistance/limit/repair response despite the still-unwanted act and prebound opportunity/ability. This is locally adverse to the behavioral response forecast even if the trace correctly preserves absence of consent. Unknown/off-page response is missingness, not observed acquiescence. An independently established changed preference changes current eligibility; it is not behavioral confirmation and cannot retroactively authorize an earlier imposition."
+        },
+        {
+          "forecast_id": "R1-E06",
+          "field": "evaluation_contract",
+          "before_absent": true,
+          "after_exact": {
+            "behavioral_action_field": "predicted_action",
+            "behavioral_contrary_field": "disconfirming_observation",
+            "typed_consistency_checks": [
+              "Permission is specific to person, act, scope and time. Prior affection, arousal, practical dependence or later participation cannot authorize an imposed start. Correct ethical labeling is not behavioral support."
+            ],
+            "separate_findings_rule": "Score actual predicted behavior against its own action/contrary signature. A correct capability, information, permission, provider or cost trace alone is not behavioral confirmation. A response can be behaviorally contrary and typed-consistent, or behaviorally compatible and typed-defective; record both findings separately.",
+            "per_case_rule": "One adequately observed eligible opposite remains locally adverse. Confidence/tendency is not universality, and local adverse does not automatically retire an entire model. No unstated repeat floor delays recording a contrary occasion. Aggregate revision, if later used, must be predeclared separately."
+          }
+        },
+        {
+          "forecast_id": "R1-E07",
+          "field": "state_eligibility",
+          "before_exact": "Actual availability, acceptance, limits and participant knowledge are given; do not infer a completed entire campaign from the proposed provider.",
+          "after_exact": "Fix a concrete feasible local phase, actual provider availability, accepted contribution, finite limits and a provider/participant actor set before response. Their knowledge and opportunity to initiate that phase are given, with competing objectives and genuine dependencies prebound. A proposed entire campaign is not treated as performed; no mandatory Kazuma direction is added without independent local grounds."
+        },
+        {
+          "forecast_id": "R1-E07",
+          "field": "predicted_action",
+          "before_exact": "Useful phase-level organization or execution can proceed through the outside provider and participant initiative, with costs and credit attributed correctly.",
+          "after_exact": "The preidentified provider and/or participating actors initiate an attempt at the concrete local phase using the accepted outside contribution, rather than withholding all useful phase action solely until Kazuma personally directs it when no such local prerequisite exists. Actual initiation is predicted; mere possibility, correct outsider attribution or a declared rejection of universal Kazuma necessity does not satisfy it. Successful execution and full-campaign equivalence remain separate."
+        },
+        {
+          "forecast_id": "R1-E07",
+          "field": "disconfirming_observation",
+          "before_exact": "A clearly compatible accepted provider is denied useful phase action solely because Kazuma is absent, or the output instead makes the resource unlimited/party-owned, contradicts the model. Full-campaign equivalence remains untested separately.",
+          "after_exact": "On one adequately shown eligible occasion, the preidentified actors make no attempt at the feasible accepted phase, reject its use or wait solely for Kazuma without a prebound substantive dependency or competing motive. That is locally adverse even if the world/ownership trace is otherwise correct. A failed initiated phase is an attempt plus execution failure. Unlimited outside resources, invented party ownership or a fabricated mandatory coordinator are separate typed integrity defects, not behavioral support."
+        },
+        {
+          "forecast_id": "R1-E07",
+          "field": "evaluation_contract",
+          "before_absent": true,
+          "after_exact": {
+            "behavioral_action_field": "predicted_action",
+            "behavioral_contrary_field": "disconfirming_observation",
+            "typed_consistency_checks": [
+              "Outside resources retain their actual availability, ownership, limits and costs. No universal Kazuma node, universal institution/coordinator or complete replacement campaign is inferred. Unknown source dependencies stay unknown."
+            ],
+            "separate_findings_rule": "Score actual predicted behavior against its own action/contrary signature. A correct capability, information, permission, provider or cost trace alone is not behavioral confirmation. A response can be behaviorally contrary and typed-consistent, or behaviorally compatible and typed-defective; record both findings separately.",
+            "per_case_rule": "One adequately observed eligible opposite remains locally adverse. Confidence/tendency is not universality, and local adverse does not automatically retire an entire model. No unstated repeat floor delays recording a contrary occasion. Aggregate revision, if later used, must be predeclared separately."
+          }
+        },
+        {
+          "forecast_id": "R1-E08",
+          "field": "state_eligibility",
+          "before_exact": "The rewarding commitment and incomplete assurance are established before the response; current resources, injuries, alternatives and dissent are explicit. It is not classified safe merely because someone survives.",
+          "after_exact": "Identify the implicated committed actor set, rewarding commitment and incomplete assurance before response, together with current resources, injuries, known alternatives, dissent and competing goals. Do not select an actor from later persistence or call the course safe from survival. Predeclare an adequate opportunity to continue, stop or respond."
+        },
+        {
+          "forecast_id": "R1-E08",
+          "field": "disconfirming_observation",
+          "before_exact": "A clearly matched configuration consistently yields immediate internally initiated safe coordination from every implicated actor before any correction/new information is supplied is adverse. No unshown compliance or survival can be used to claim that happened.",
+          "after_exact": "On one adequately shown matched occasion, no preidentified committed actor initially persists or presses the risky course and the implicated actors instead immediately initiate the safer coordinated course before correction/new information. This is locally adverse without any repetition floor. If persistence occurs but no other actor attempts the predicted correction/persuasion/alternative, retain that failed component rather than a full confirmation. Actual contrary actor choices remain visible even if another component fits. A local opposite does not automatically retire the whole mechanism; no unshown compliance or later survival can substitute for observed behavior."
+        },
+        {
+          "forecast_id": "R1-E08",
+          "field": "evaluation_contract",
+          "before_absent": true,
+          "after_exact": {
+            "behavioral_action_field": "predicted_action",
+            "behavioral_contrary_field": "disconfirming_observation",
+            "typed_consistency_checks": [],
+            "separate_findings_rule": "Score actual predicted behavior against its own action/contrary signature. A correct capability, information, permission, provider or cost trace alone is not behavioral confirmation. A response can be behaviorally contrary and typed-consistent, or behaviorally compatible and typed-defective; record both findings separately.",
+            "per_case_rule": "One adequately observed eligible opposite remains locally adverse. Confidence/tendency is not universality, and local adverse does not automatically retire an entire model. No unstated repeat floor delays recording a contrary occasion. Aggregate revision, if later used, must be predeclared separately."
+          }
+        }
+      ],
+      "forecast_top_level_operations": [
+        {
+          "field": "status",
+          "before_exact": "INITIAL_AUTHOR_CANDIDATE_BEFORE_CASEBANK_AND_NEW_PEER_MODELS",
+          "after_exact": "PRECASE_RECEIVING_SUCCESSOR_V2_NOT_ACCEPTED_NO_RESPONSES"
+        },
+        {
+          "field": "evaluation_policy",
+          "before_absent": true,
+          "after_exact": {
+            "behavioral_and_typed_outcomes_separate": "Score actual predicted behavior against its own action/contrary signature. A correct capability, information, permission, provider or cost trace alone is not behavioral confirmation. A response can be behaviorally contrary and typed-consistent, or behaviorally compatible and typed-defective; record both findings separately.",
+            "prebinding": "Before any response/outcome, bind selected chronology/world/mode, source-access limits, implicated actor set, independently known roles/goals/beliefs/resources/permissions, competing goals, exception facts and the adequate observation opportunity. Do not add exceptions or select the fitting actor after seeing a response.",
+            "case_level_adverse": "One adequately observed eligible opposite remains locally adverse. Confidence/tendency is not universality, and local adverse does not automatically retire an entire model. No unstated repeat floor delays recording a contrary occasion. Aggregate revision, if later used, must be predeclared separately.",
+            "missingness_not_violation": "Unknown source knowledge, unshown act or missing opportunity is recorded as unknown/non-testable, not a pass and not proof the source violates world constraints. A hypothetical simulator can be checked against supplied facts; a literary source with undisclosed premises cannot be treated as fully specified by default.",
+            "outcome_storage": "External behavioral, typed-consistency, execution-result and missingness findings belong in a separate later validation artifact against exact model/forecast hashes. All baseline external outcomes remain null/empty. No concrete casebank or response was read for this repair."
+          }
+        },
+        {
+          "field": "receiving_successor_provenance",
+          "before_absent": true,
+          "after_exact": {
+            "created_utc": "2026-10-17T13:51:21.856588+00:00",
+            "initial_combined_seal": {
+              "path": "/workspace/scratch/konosuba/v17-independent/main-only-reconstruction-initial-v1/INITIAL_DARKNESS_PARTY_COMPLETE_AUTHORING_SEAL.json",
+              "bytes": 2073,
+              "sha256": "f1b79ccdb0e2aadc06f08e63a7ff0d8a274cf2c8ce4cf0a926e3f836cb13a828"
+            },
+            "initial_forecasts": {
+              "path": "/workspace/scratch/konosuba/v17-independent/main-only-reconstruction-initial-v1/INITIAL_R1_DARKNESS_AND_PARTY_FORECASTS.json",
+              "bytes": 41570,
+              "sha256": "5c725f6ab686ac0b8bad321d048d8eb72bb8bd09f7fbe2304a21bd98bc48b9cf"
+            },
+            "attribution": "Producer full model-only receiving R01/R02 and root complete model-only receiving agree typed/directional ambiguities; author adopts bounded pre-case operational repairs. Initial definitions and all original IDs remain preserved in exact beforeimages.",
+            "peer_report": {
+              "path": "/workspace/scratch/konosuba/v17-producer/model-only-peer-receiving-darkness-party-v1/MODEL_ONLY_PEER_RECEIVING_REPORT.md",
+              "bytes": 14130,
+              "sha256": "31cd8fd42c0602dff47635a36274a391a1ec40542729fbbc3289bda790a8cb8d"
+            },
+            "root_report": {
+              "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/ROOT_DARKNESS_PARTY_INITIAL_FULL_RECEIVING_PRECASE.json",
+              "bytes": 3456,
+              "sha256": "90f99a024d42ee73d606637a5c99a73d717fd74e58603106b9d97127c5e6af23"
+            },
+            "casebank_prompts_read": false,
+            "responses_generated": 0,
+            "new_primary_for_this_repair": 0,
+            "scope": "This repair changes outcome typing/direction, not source evidence, old forecasts, thresholds or external findings. Shared model-only peer QA is disclosed; no independent re-authoring claim."
+          }
+        }
+      ],
+      "full_MD_and_JSON_inverse_byte_exact": true,
+      "all16_original_IDs_unchanged": true,
+      "seven_unaffected_records_byte_value_exact": true,
+      "all_source_claims_confidence_modes_and_external_blank_pairs_unchanged": true,
+      "casebank_prompts_read": false,
+      "responses_generated": 0
+    }
+  },
+  "M06_pre_case_repair": {
+    "original_identity": {
+      "path": "/workspace/scratch/konosuba/v17-producer/reconstruction-models-main-only-r1-receiving-v2/R1_M06_EXACT_BOUNDED_SUCCESSOR_AND_INVERSE.json",
+      "bytes": 3472,
+      "sha256": "39da44639844ff38fcabe3b9836b8f82c2b11f8b521cfc5567e122384830f0a5"
+    },
+    "complete_original_object": {
+      "created_utc": "2026-10-17T13:43:36.750026+00:00",
+      "attribution": "Independent full model-only receiving identified ambiguity in voluntary-choice alternative and typed free-renegotiation vs behavioral confirmation. Producer agrees; no cases/prompts or outcomes seen. Root informed.",
+      "operations": [
+        {
+          "forecast_id": "R1-M06",
+          "field": "predicted_action_or_choice",
+          "before_exact": "Acknowledge, negotiate or make a specific voluntary choice about the changed step before treating it as agreed; neither automatic maximal escalation nor blanket prohibition is predicted.",
+          "after_exact": "Establish the counterpart's specific freely given agreement to the changed step through a sufficiently informed request/answer or another independently clear reciprocal choice before treating the new step as mutually agreed. The initiator's deliberate voluntary advance alone does not satisfy this branch; a deliberate unilateral breach remains adverse. Neither automatic maximal escalation nor blanket prohibition is predicted."
+        },
+        {
+          "forecast_id": "R1-M06",
+          "field": "contrary_evidence_definition",
+          "before_exact": "A full still-operative-boundary case is treated as automatically permitted from affection/earlier contact, without acknowledgment or agency for the changed step; or the model wrongly refuses a genuinely freely renegotiated change.",
+          "after_exact": "A full still-operative-boundary case proceeds to the changed step without the counterpart's specific sufficiently informed, freely given agreement, even if the initiator makes a deliberate choice: this is adverse to the behavioral forecast. An incorrect claim that prior affection supplies permission is additionally a typed permission error. Actual independent free renegotiation is a state fact, not by itself confirmation that the forecasted boundary-respecting behavior occurred."
+        },
+        {
+          "forecast_id": "R1-M06",
+          "field": "failure_threshold_and_branch_rule",
+          "before_exact": "One strong full opposite is meaningful adverse evidence to this limited persistence rule. Score current agreement and actual consent separately; later participation cannot authorize an imposed start.",
+          "after_exact": "One strong full unilateral-breach opposite is meaningful adverse evidence to this limited persistence rule. A correctly identified freely renegotiated agreement changes state eligibility; score that as a typed-state check, not behavioral confirmation or an R1-M06 failure. Score the actual response to an applicable changed step separately; later participation cannot authorize an imposed start."
+        }
+      ],
+      "model_forward_inverse_exact": true,
+      "forecast_JSON_value_inverse_exact": true,
+      "all_other_M_fields_and_model_bytes_exact": true,
+      "Aqua_model_and_forecasts_byte_identical": true,
+      "original_initial_pair_seal": {
+        "path": "/workspace/scratch/konosuba/v17-producer/reconstruction-models-main-only-r1-initial/INITIAL_COMPLETE_PAIR_AUTHOR_SEAL.json",
+        "bytes": 1992,
+        "sha256": "53e189d5813f38718d6b27981773da0db9ceb8dca1300e6b28d7863e5e2eee5c"
+      },
+      "no_old_history_or_source_change": true,
+      "new_exposure_after_initialseal": "Root authorized full model-only Darkness/Party peer receiving; both whole bodies and all16contracts read. No concrete casebank/prompt or expectedanswer, response or holdout narrative/findings opened. This successor is post-peer, not an initial independent baseline."
+    }
+  },
+  "A08_pre_case_repair": {
+    "original_identity": {
+      "path": "/workspace/scratch/konosuba/v17-producer/reconstruction-models-main-only-r1-receiving-v3/R1_A08_EXACT_SOURCE_ROUTE_SUCCESSOR_AND_INVERSE_v3.json",
+      "bytes": 4188,
+      "sha256": "0a7c67b44382993a391b91dc65e548b310803cb79fcac0fbc127c5077d48bb92"
+    },
+    "complete_original_object": {
+      "created_utc": "2026-10-17T13:49:57.214200+00:00",
+      "attribution": "I's full model-only receiving identified the missing actual named-loss/replacement route. Producer agrees after fresh bounded native check; no case or outcome seen.",
+      "model_operations": [
+        {
+          "component": "R1-A08 source claims/routes",
+          "before_exact": "**Source claims/routes:** A-C09 ordinary sources; V12C1P190-204 named game loss; V10C2P426-445 prized bottle; V16particular company only distinct analogy; Accepted Aqua monograph§2/§7",
+          "after_exact": "**Source claims/routes:** A-C09 ordinary sources; V12C1P190-204 valued device/character-loss setup (text/part0010.html); V12C2P6-12 actual named Schneider demand, Kazuma's same-progress replacement claim, narrated crying and imagined reassurance (text/part0011.html); the reassurance is a story, not established reincarnation; V10C2P426-445 prized bottle; V16particular company only distinct analogy; Accepted Aqua monograph§2/§7"
+        },
+        {
+          "component": "A-C09 evidence index row",
+          "before_exact": "| A-C09 ordinary losses and wagering | V10 C4P8–9/155/223–239, C5P280–281/324–336; V13 FP16–29; V12 C1P190–204; V10 C2P426–445. | Stated omens/loss reasoning, own-resource choices, a particular named game loss and a prized bottle are distinct witnesses; do not treat them as one repeated full mechanism. |",
+          "after_exact": "| A-C09 ordinary losses and wagering | V10 C4P8–9/155/223–239, C5P280–281/324–336; V13 FP16–29; V12 C1P190–204 (setup) and C2P6–12, text/part0011.html (actual Schneider claim/replacement exchange); V10 C2P426–445. | Stated omens/loss reasoning, own-resource choices, a particular named game loss and a prized bottle are distinct witnesses; do not treat them as one repeated full mechanism. Aqua demands Schneider at C2P6; Kazuma claims equivalent progress at P7; her actual crying is narrated P9. His imagined other-world reassurance P7/10–12 is a story, not a world fact or proof of full repair. |"
+        }
+      ],
+      "forecast_operations": [
+        {
+          "forecast_id": "R1-A08",
+          "field": "source_claims_and_routes",
+          "before_exact": [
+            "A-C09 ordinary sources",
+            "V12C1P190-204 named game loss",
+            "V10C2P426-445 prized bottle; V16particular company only distinct analogy",
+            "Accepted Aqua monograph§2/§7"
+          ],
+          "after_exact": [
+            "A-C09 ordinary sources",
+            "V12C1P190-204 valued device/character-loss setup (text/part0010.html); V12C2P6-12 actual named Schneider demand, Kazuma's same-progress replacement claim, narrated crying and imagined reassurance (text/part0011.html); the reassurance is a story, not established reincarnation",
+            "V10C2P426-445 prized bottle; V16particular company only distinct analogy",
+            "Accepted Aqua monograph§2/§7"
+          ]
+        }
+      ],
+      "native_source_note": {
+        "path": "/workspace/scratch/konosuba/v17-producer/reconstruction-models-main-only-r1-receiving-v3/A08_BOUNDED_NATIVE_SOURCE_ROUTE_CHECK.json",
+        "bytes": 2841,
+        "sha256": "23389cd8f93996f718dcaf266fcae7030da579575173e9e8330358331787026f"
+      },
+      "model_forward_inverse_exact": true,
+      "forecast_JSON_byte_inverse_exact": true,
+      "all_other_Aqua_model_bytes_and_forecast_values_exact": true,
+      "Megumin_current_v2_model_and_forecasts_byte_identical": true,
+      "initial_seal_preserved": {
+        "path": "/workspace/scratch/konosuba/v17-producer/reconstruction-models-main-only-r1-initial/INITIAL_COMPLETE_PAIR_AUTHOR_SEAL.json",
+        "bytes": 1992,
+        "sha256": "53e189d5813f38718d6b27981773da0db9ceb8dca1300e6b28d7863e5e2eee5c"
+      },
+      "v2_seal_preserved": {
+        "path": "/workspace/scratch/konosuba/v17-producer/reconstruction-models-main-only-r1-receiving-v2/CURRENT_PAIR_RECEIVING_SEAL_v2.json",
+        "bytes": 1209,
+        "sha256": "bc04e274979fa1160ce369f5f05acea378f8799617aaeaf1b34984e36054ed2b"
+      },
+      "old_scores_and_frozen_forecasts_unchanged": true,
+      "exposure_note": "Post-initial model-only peer receiving and newly disclosed 16-slot native scene check. Not an independent initial baseline, not a whole MAIN12 read, no bank/prompts or responses or holdout narrative/findings."
+    }
+  },
+  "D_W03_two_op_source_precision": {
+    "original_identity": {
+      "path": "/workspace/scratch/konosuba/v17-independent/main-only-reconstruction-source-precision-proposal-v4/PROPOSED_TWO_OP_DW03_AND_UNSPECIFIED_AGE_SUCCESSOR_FULL_INVERSE.json",
+      "bytes": 4062,
+      "sha256": "36d3fe397a46974887f577cd96dc9393480cf1c2f0a2625c3f1e8afcfb6b958a"
+    },
+    "complete_original_object": {
+      "created_utc": "2026-10-17T14:14:58.180485+00:00",
+      "status": "PROPOSED_ONLY_PENDING_ROOT_REVIEW_AND_S_BINDING_PIN",
+      "generation": "V1",
+      "model_version": "MAIN_ONLY_R1",
+      "attribution": "Root independently inspected the bounded source and identified unsupported childhood age; author adversarially agrees from its actual260-slot read. Corrects earlier author receiving judgment explicitly.",
+      "input_v2_model": {
+        "path": "/workspace/scratch/konosuba/v17-independent/main-only-reconstruction-receiving-v2/KONOSUBA_DARKNESS_RECONSTRUCTION_MODEL.md",
+        "bytes": 61047,
+        "sha256": "d6fe078eb1e02b86071ac3dbd3577970088a487268b1817b645bff185572b62f"
+      },
+      "preserved_locator_only_v3_model": {
+        "path": "/workspace/scratch/konosuba/v17-independent/main-only-reconstruction-locator-proposal-v3/KONOSUBA_DARKNESS_RECONSTRUCTION_MODEL.md",
+        "bytes": 61166,
+        "sha256": "0509ac9ac1c493dd4368cd26e48106ab5f81750c0b0e936f434fe128f7b077fd"
+      },
+      "proposed_two_op_model": {
+        "path": "/workspace/scratch/konosuba/v17-independent/main-only-reconstruction-source-precision-proposal-v4/KONOSUBA_DARKNESS_RECONSTRUCTION_MODEL.md",
+        "bytes": 61217,
+        "sha256": "dc70739ab5613e70b6387421f324330735a0b79d1944100a3fd613f1cd2a310f"
+      },
+      "exact_operations": [
+        {
+          "kind": "LOCATOR_REPRODUCIBILITY",
+          "route": "§27 D-W03 locator cell",
+          "before_exact": "V03 C3 identity/family account; C4P380–438/585–694.",
+          "after_exact": "V03 C3 identity/peer response, `item/xhtml/p-008.xhtml` P116–153; father's report/Kazuma's gloss, `item/xhtml/p-011.xhtml` P22–39 (sceneP22–66); C4P380–438/585–694."
+        },
+        {
+          "kind": "UNSUPPORTED_AGE_QUALIFICATION",
+          "route": "§3 identity and self-conception, first paragraph",
+          "before_exact": "Her childhood companionship history in V03 is family testimony, while her later gratitude and re-entry request directly express the value of belonging.",
+          "after_exact": "Her earlier social difficulty and companionship history in V03 are reported by her father without a specified age, while her later gratitude and re-entry request directly express the value of belonging."
+        }
+      ],
+      "full_forward_and_inverse_to_v2_byte_exact": true,
+      "reverting_age_sentence_returns_exact_preserved_locator_only_v3": true,
+      "all_other_model_bytes_equal": true,
+      "all_16_forecasts_unmodified": {
+        "path": "/workspace/scratch/konosuba/v17-independent/main-only-reconstruction-receiving-v2/CURRENT_R1_DARKNESS_AND_PARTY_FORECASTS_v2.json",
+        "bytes": 59272,
+        "sha256": "98e57d35fb720c160033ba0a8141904b4512fcb73bc7da20339a8dad3c96bbc0"
+      },
+      "unchanged_Party_model": {
+        "path": "/workspace/scratch/konosuba/v17-independent/main-only-reconstruction-receiving-v2/KONOSUBA_PARTY_INTERACTION_MODEL.md",
+        "bytes": 66517,
+        "sha256": "13c288a0278f87af60ee0b1c01d04ed6336977e9f34d36e9f163a9e6399b0271"
+      },
+      "all_initial_v2_v3_seals_preserved": true,
+      "existing_source_finding": {
+        "path": "/workspace/scratch/konosuba/v17-independent/model-route-source-recheck-v1/DW03_BOUNDED_SOURCE_FINDING_SEAL.json",
+        "bytes": 1188,
+        "sha256": "0d261a6feec4309f011c7af2ee73d935c25f5bcbc2d2b36e55e564d5d145db30"
+      },
+      "receiving_judgment_erratum": {
+        "path": "/workspace/scratch/konosuba/v17-independent/main-only-reconstruction-source-precision-proposal-v4/AGE_QUALIFICATION_AND_PRIOR_RECEIVING_JUDGMENT_ERRATUM.md",
+        "bytes": 2950,
+        "sha256": "96628edc818f5f0acd66681e14cf4cf09133332a40c7150b4752b9a97d590a80"
+      },
+      "exact_published_old_routes": {
+        "path": "/workspace/scratch/konosuba/v17-independent/main-only-reconstruction-source-precision-proposal-v4/EXACT_PUBLISHED_AGE_CLAIMS_AND_SOURCE_QUALIFICATION_ROUTES.json",
+        "bytes": 3042,
+        "sha256": "dd343f538277b65e1c9640f2dcf98574937f42305caf6d87e128e695a210c4ca"
+      },
+      "new_native_slots_after260_scope": 0,
+      "behavioral_contract_or_score_change": false,
+      "cases_opened": false,
+      "responses_generated": 0,
+      "canonical_git_writes": false,
+      "root_review_required_before_execution": true
+    }
+  }
+}
