@@ -2574,13 +2574,15 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Analysis subject ID: `tomozaki:hinami@light-novel`
 - Series: `tomozaki`
 - Continuity: `tomozaki-light-novel`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `reviewed-character-monograph`: LIGHT_NOVEL VOLUME: Reviewed formation, developmental, ethical and recipient-conditioned analysis through Japanese V11, with V06.5/V08.5 only at their story-local placements; V08.5 private focalization and the V11 family retrospective are treated as reader access, not as knowledge held by other characters. Speech coverage is selective Japanese prose/register analysis, not acoustic performance or an exhaustive idiolect. Coverage follows material episodes and stated gaps, not uniform analysis in every volume; V12, adaptations and hypothetical literary probes are excluded.; continuity `tomozaki-light-novel`
   - `reviewed-foundation-corpus`: LIGHT_NOVEL VOLUME: Reviewed V01–V02 effort, competition and goal-ownership analysis, including the source's explicitly distinguished gaming, social, electoral and athletic contexts. Coverage is this specialist domain, not a general completed character model; no V03 or later outcomes are claimed.; continuity `tomozaki-light-novel`
 - Reviewed current evidence:
+  - [`reviewed-character-monograph` — Hinami Aoi reviewed character monograph](series/tomozaki/04%20Character%20Analysis/Hinami%20Aoi/HINAMI_AOI_CHARACTER_MONOGRAPH.md)
   - [`reviewed-shared-synthesis` — Hinami analysis in shared synthesis](series/tomozaki/03%20Longitudinal%20Ledgers/TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md)
 
 ### Hinase Naoki
@@ -4636,20 +4638,23 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 
 - Entity ID: `tomozaki:mimimi`
 - Entity aliases:
-  - _None._
+  - Nanami Minami (en, ALTERNATIVE) — Full name; Mimimi is her nickname, per the monograph.
+  - 七海みなみ (ja, ORIGINAL_SCRIPT) — Full name in the monograph front matter.
 
 #### Subject: Bottom-Tier Character Tomozaki light novel
 
 - Analysis subject ID: `tomozaki:mimimi@light-novel`
 - Series: `tomozaki`
 - Continuity: `tomozaki-light-novel`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `reviewed-character-monograph`: LIGHT_NOVEL VOLUME: Reviewed developmental, ethical and recipient-conditioned analysis through Japanese V11, with V06.5/V08.5 only at their story-local routes and the V07 Special Edition main novel only; the V08.5 parallel story and V07 art material are excluded. Speech coverage is selective Japanese prose/register analysis, not acoustic performance or an exhaustive idiolect. Coverage follows material episodes and stated gaps, not uniform analysis in every volume; V12, adaptations and hypothetical literary probes are excluded.; continuity `tomozaki-light-novel`
   - `reviewed-foundation-corpus`: LIGHT_NOVEL VOLUME: Reviewed V01–V02 effort, competition and goal-ownership analysis, including the source's explicitly distinguished gaming, social, electoral and athletic contexts. Coverage is this specialist domain, not a general completed character model; no V03 or later outcomes are claimed.; continuity `tomozaki-light-novel`
 - Reviewed current evidence:
+  - [`reviewed-character-monograph` — Nanami Minami (Mimimi) reviewed character monograph](series/tomozaki/04%20Character%20Analysis/Nanami%20Minami/NANAMI_MINAMI_CHARACTER_MONOGRAPH.md)
   - [`reviewed-shared-synthesis` — Mimimi analysis in shared synthesis](series/tomozaki/03%20Longitudinal%20Ledgers/TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md)
 
 ### Mini Yaemori
