@@ -101,7 +101,7 @@ class FakeAPI:
             return self.pr
         if path == 'pulls/8/merge':
             if self.merge_error:
-                raise ApiError(method, path, 409)
+                raise self.merge_error if isinstance(self.merge_error, BaseException) else ApiError(method, path, 409)
             self.main = M
             return {'merged': True, 'sha': M}
         raise AssertionError((method, path, payload))
@@ -150,6 +150,19 @@ class ControllerTests(unittest.TestCase):
                 self.assertEqual(GitHub('test', preview=True).request('GET', path), {})
                 request = transport.call_args.args[0]
                 self.assertEqual(request.full_url, expected)
+
+    def test_transport_labels_json_payloads_as_json(self):
+        # Without an explicit type, urllib sends a JSON body as a form post and the proxy answers 415.
+        with mock.patch('nightly_integration.urllib.request.urlopen') as transport:
+            transport.return_value.__enter__.return_value.read.return_value = b'{}'
+            GitHub('test').request('PUT', 'pulls/8/merge', {'sha': S, 'merge_method': 'merge'})
+            request = transport.call_args.args[0]
+            self.assertEqual(request.get_header('Content-type'), 'application/json')
+            self.assertEqual(json.loads(request.data), {'sha': S, 'merge_method': 'merge'})
+        with mock.patch('nightly_integration.urllib.request.urlopen') as transport:
+            transport.return_value.__enter__.return_value.read.return_value = b'{}'
+            GitHub('test').request('GET', 'pulls/8')
+            self.assertFalse(transport.call_args.args[0].has_header('Content-type'))
 
     def test_apply_preflight_checks_runtime_owner_ruleset_and_main_audit_before_writes(self):
         worker = self.worker()
@@ -264,6 +277,18 @@ class ControllerTests(unittest.TestCase):
         with self.assertRaisesRegex(Blocked, 'not confirmed'):
             worker.process('series/a', S, B, {})
         self.assertEqual(len(worker.api.writes), 1)
+
+    def test_merge_failures_name_the_status_or_error_type(self):
+        cases = ((ApiError('PUT', 'pulls/8/merge', 409), Blocked, r'not confirmed \(HTTP 409\)'),
+                 (ApiError('PUT', 'pulls/8/merge', 502), Halt, r'uncertain \(HTTP 502\)'),
+                 (TimeoutError('timed out'), Halt, r'uncertain \(TimeoutError\)'))
+        for error, expected, message in cases:
+            with self.subTest(error=error):
+                worker = self.worker()
+                worker.api.merge_error = error
+                with self.assertRaisesRegex(expected, message):
+                    worker.process('series/a', S, B, {})
+                self.assertEqual(len(worker.api.writes), 1)
 
     def test_holds_and_foreign_prs_are_respected(self):
         for changes in ({'draft': True}, {'labels': [{'name': 'nightly-hold'}]}, {'user': {'login': 'someone-else'}}):

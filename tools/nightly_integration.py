@@ -148,6 +148,9 @@ class GitHub:
         if self.token:
             headers["Authorization"] = "Bearer " + self.token
         data = None if payload is None else json.dumps(payload).encode("utf-8")
+        if data is not None:
+            # urllib would otherwise label the JSON body as a form post, which the GitHub proxy rejects with 415.
+            headers["Content-Type"] = "application/json"
         request = urllib.request.Request("https://api.github.com" + endpoint, data=data, headers=headers, method=method)
         try:
             with urllib.request.urlopen(request, timeout=30) as response:
@@ -608,9 +611,11 @@ class Integrator:
         except (ApiError, OSError) as exc:
             observed_pr = self.api.request("GET", f"pulls/{pr['number']}")
             if not observed_pr.get("merged"):
+                # Name the failure (status or error type, never a response body) for diagnosis.
+                failure = f"HTTP {exc.status}" if isinstance(exc, ApiError) else type(exc).__name__
                 if not isinstance(exc, ApiError) or exc.status not in {403, 405, 409, 422}:
-                    raise Halt("Merge outcome is uncertain; inspect the PR before the next run") from None
-                raise Blocked("Merge was not confirmed; no mutation retry was issued") from None
+                    raise Halt(f"Merge outcome is uncertain ({failure}); inspect the PR before the next run") from None
+                raise Blocked(f"Merge was not confirmed ({failure}); no mutation retry was issued") from None
             result = {"merged": True, "sha": observed_pr["merge_commit_sha"]}
         if result.get("merged") is False:
             raise Blocked("GitHub did not confirm a protected merge")
