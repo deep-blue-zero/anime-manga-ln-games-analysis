@@ -5,10 +5,10 @@ artifact_type: longitudinal_ledger
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.25"
+version: "1.26"
 status: active_provisional
 scope: "Directional relational states and the lifecycle of rules, consent, negotiation and commitments"
-source_boundary: "I1 through E0005 plus complete BW02,BW04 historical backfill; web E0006+/V1 and main LN10 excluded"
+source_boundary: "I1 through E0005 plus complete BW02,BW04,BW05 historical backfill; web E0006+/V1 and main LN10 excluded"
 canonical_home: series/shuukura/04 Longitudinal Ledgers/SHUUKURA_RELATIONSHIP_RULE_AND_BOUNDARY_LEDGER.md
 created: "2026-10-17"
 planning_date: "2026-10-16"
@@ -21,7 +21,9 @@ do_not_use_as_literary_evidence: true
 
 # Directional relationships, rules and boundaries
 
-Revision1.25 is current through complete BW-JP-V04 historical backfill. [BW04 observation index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_BW_JP_V04_DEEP_READING.md#observation-locator-index) owns12observations over11originalcaptures/110native-story-member paragraphs. Five new claims/four earlier claim revisions,14newpropositions/zero earlier revisions and1new historical S-private self-instruction/1earlier rule extension;6character/5relationship events and3historical projections/readiness reviews. Totals163claimIDs/517formulations/777propositions/180rules. Scoped lane2/5, supplements20, additive completion34/463; original I1 unchanged. Web paused afterE5, mainLN10/V1 excluded; M0.13/S0.14 noncurrent/UNTESTED,18forecasts/13attempts unchanged and zero validated domains.
+Revision1.26 is current through complete BW-JP-V05 historical backfill. [BW05 observation index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_BW_JP_V05_DEEP_READING.md#observation-locator-index) owns12observations over11originalcaptures/103native-story-member paragraphs. Four new claims/four earlier claim successors,16newpropositions/zero earlier revisions and1reported historical cleaning-turn identity/1earlier meal-rule extension;6character/8relationship events and2historical projections/readiness reviews. Breakfast cook/cleanup and floor-cleaning turns remain distinct; two wiper contacts/pain and actual final hallway entry retain their order and unresolved limits. Totals167claimIDs/525formulations/793propositions/181rules. Scoped lane3/5, supplements21, additive completion35/463; original I1 unchanged. Web paused afterE5, mainLN10/V1 excluded; M0.13/S0.14 noncurrent/UNTESTED,18forecasts/13attempts unchanged and zero validated domains.
+
+Prior BW04 scope notice (preserved historical routing): Revision1.25 is current through complete BW-JP-V04 historical backfill. [BW04 observation index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_BW_JP_V04_DEEP_READING.md#observation-locator-index) owns12observations over11originalcaptures/110native-story-member paragraphs. Five new claims/four earlier claim revisions,14newpropositions/zero earlier revisions and1new historical S-private self-instruction/1earlier rule extension;6character/5relationship events and3historical projections/readiness reviews. Totals163claimIDs/517formulations/777propositions/180rules. Scoped lane2/5, supplements20, additive completion34/463; original I1 unchanged. Web paused afterE5, mainLN10/V1 excluded; M0.13/S0.14 noncurrent/UNTESTED,18forecasts/13attempts unchanged and zero validated domains.
 
 Prior BW02 scope notice (preserved historical routing): Revision1.24 is current through complete BW-JP-V02 historical backfill. [BW02 observation index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_BW_JP_V02_DEEP_READING.md#observation-locator-index) owns14observations over16originalcaptures/181native-story-member paragraphs. Five new claims/five earlier claim revisions,16newpropositions/two earlier revisions,one new unilateral historical self-rule/one earlier rule extension yield158claimIDs/508formulations/763propositions/179rules. Eight character/eight directional events, six projection rows/seven direction IDs and five readiness/role reviews retain individual clocks/access. New scoped lane1/5, supplements19, additive completion33/463; original I1 and older states remain exact. Web stays paused afterE5, mainLN10/V1 excluded, M0.13/S0.14 noncurrent/UNTESTED and18forecasts/13attempts unchanged; zero validated domains.
 
@@ -1748,3 +1750,35 @@ Local O### references resolve to OBS-BW-JP-V04-O### in [BW04 observation index](
 | --- | --- | --- | --- | --- | --- |
 | `RULE-BW-JP-V04-001` / v1 / R180 | Sendai-private / next-morning road | Distinguish yesterday from today and switch feelings to attend prep school rather than follow desired return | Locally performed hurrying, no other party agreed/enforced it | O011–012;p88–110 | Historical self-instruction, not durable contract, evidence of no desire or completed school arrival |
 | `RULE-LN-JP-007` / v19 after v18 | Inherited initiative expectation; historical differentiated evidence | PRESERVE v18 all dates/domains. Add M arranging guest/conditional continuation/initial exit grip and S actively releasing/rejecting excuse | Each has local initiative and restraint; private reasons not shared | O002–012;p3–110 | STRENGTHEN contextual agency; graduation promise not revoked, no blanket access/permission or claim every initiative is safe |
+
+
+## BW-JP-V05 retrospective backfill — 2026-10-22
+
+Local O### references resolve to OBS-BW-JP-V05-O### in [BW05 observation index](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_BW_JP_V05_DEEP_READING.md#observation-locator-index). Native p ordinals belong to `OEBPS/text/part_002.xhtml`; original-capture corrections control OCR noise. This late-admitted source has its own historical actor/event clock, distinct from publication and current reading dates. All older formulations, rows, tests, errata and later adult states are preserved; no new held-out prediction, validation score, main LN10, V1 or web E0006 narrative is admitted.
+
+### Append-only directional events
+
+| Event ID / revision | Direction / clock | Transition | Initiative / response / consequence | Exact evidence | Limit |
+| --- | --- | --- | --- | --- | --- |
+| `REL-BW-JP-V05-001` / v1 | S→M / early-morning drinks | Sleepy greeting/offer → actual separate drink choices | S offers drink, M distracted then asks orange juice, supplies glass; S pours it and own barley tea | O002–003;p8–20 | Own preferences persist; no complete breakfast or agreed shared tastes; sleep-shortage affirmation is S report |
+| `REL-BW-JP-V05-002` / v1 | M→S / appearance conversation | M private fixation → limited spoken observation/report | M points using own hair; S touches own head, briefly pulls/releases hair, explains morning expectation and reports other disheveled times | O004–005;p21–46 | No M grooming/touch of S, explicit spring-back, forced appearance rule or objective fake-persona conclusion |
+| `REL-BW-JP-V05-003` / v1 | M→S then S→M / breakfast agreement | Awkward pause → volunteered cook/cleanup division | M says she will make breakfast; S says she will clean up; M private gap-filling reason not voiced | O006;p47–52 | Agreement in first section, not depicted cooking/washing. Later after-breakfast cleaning is a separate duty/context |
+| `REL-BW-JP-V05-004` / v1 | M→S / after-breakfast floor cleaning | M own turn/help refused → S moves chair-to-door | S offers help; M says own turn/no need and asks move; S apologizes/stands/moves to doorway as M cleans around chairs | O007–008;p59–74 | Reported alternating cleaning is established before this scene, not newly negotiated; moving aside does not grant later bodily contact |
+| `REL-BW-JP-V05-005` / v1 | S→M / work-preference exchange | S apparent contradiction → explicit practical distinction | S recalls shared-plate stew/rice and asks about tomorrow washing; M says fewer dishes preferable and dislikes leaving dishes in kitchen | O009;p75–86 | Old meal recalled, not a new stew meal; S dirt/mood causal reading remains inference, no global cleaning pleasure/compulsion |
+| `REL-BW-JP-V05-006` / v1 | M→S / wiper contact sequence | Move request → first contact/pain → direction/reason → second contact | M bumps the floor wiper against S foot; S says it hurts; M says return to room if painful/being watched bothers her, then contacts foot again | O010;p87–90 | Two contacts actually represented; pain report precedes second. Chore duty, flat delivery and S later enjoyment establish no advance permission/harmlessness or proven medical injury |
+| `REL-BW-JP-V05-007` / v1 | S→M / renewed help after second contact | Renewed offer → refusal and M hall departure | S again asks to help only after second wiper contact; M refuses, says hall first, takes dust/wiper to hall | O010;p91–93 | Offer not accepted; no new global help prohibition, completed whole-house cleaning or pain repair shown |
+| `REL-BW-JP-V05-008` / v1 | S→M / actual final approach | Valued time → door opened → question unanswered/entry | S sees cleaned area, privately values shared time, opens dining-kitchen/hall door; hears M ask why coming this way, does not answer and steps into hall | O011–012;p94–103 | Hall is common circulation, not an observed private-bedroom-entry breach; no assent to help, renewed request to join or resolved boundary inferred |
+
+### Historical directional projections
+
+| Projection ID | As-of source clock | State / knowledge | Prior/later packets retained |
+| --- | --- | --- | --- |
+| DIR-BW-JP-V05-M_TO_S-v1 | M early-morning private endpoint; separate S-observed after-breakfast conduct | M explicitly learns old knowledge partial, hears S late-bedtime/no-mirror reports; own greater surprise/gap-filling reason withheld. Later M voices cleanup/being-watched preferences and asks why S approaches. O002–006/O008–012;p3–52/60–103 | No full S private pleasure packet reaches M. M later interior absent; tidy/loose are M appraisal, not a new reciprocal appearance policy; adult state retained |
+| DIR-BW-JP-V05-S_TO_M-v1 | S after-breakfast/hall-entry endpoint | Knows own morning report, breakfast division and established turn-taking; observes cleaning/hears practical preferences/space requests, reports pain, remains interested in shared time and approaches. O003–012;p9–103 | Does not receive M full surprise/private breakfast motive; S claim M also enjoys learning is inference. Pleasure is not contact permission; hallway entry does not establish help acceptance |
+
+### Reported cleaning turn and established-meal-rule extension
+
+| Rule / revision | Parties / clock | Formulation and force | Recognition / consequence | Evidence | Counterlimit / lineage |
+| --- | --- | --- | --- | --- | --- |
+| `RULE-BW-JP-V05-001` / v1 / R181 | M/S / reported Golden Week household practice | S reports already-decided rule that cleaning is done in turns; M says today her turn and actually cleans | Reported existing norm plus M voiced turn and work, not a freshly negotiated agreement within this bonus | O007–008;p54–74;O010;p91–93 | No exact rotation interval, complete duty matrix, standing prohibition of all help or bodily sanction/permission. Breakfast cleanup R039 is a different task |
+| `RULE-LN-JP-039` / v6 / historical addendum after v5 | M/S / historical specific breakfast coordination; later v5 scopes retained | PRESERVE v5 and all dates/domains. M volunteers breakfast/S undertakes cleanup; later S section follows breakfast, compatible with established cook/wash convention | Specific voiced division; cooking and promised washing not depicted in first section or independently completed by later floor-cleaning scene | O006–008;p47–74; accepted LN05-O021/O027;p005339–377/p00668–102 | No newly negotiated global meal rota, menu or proved wash outcome. Reported alternating floor-cleaning R181 is distinct; all later meal/autonomy histories retained |

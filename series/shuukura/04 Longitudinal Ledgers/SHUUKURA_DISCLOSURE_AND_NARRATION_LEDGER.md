@@ -5,10 +5,10 @@ artifact_type: longitudinal_ledger
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.25"
+version: "1.26"
 status: active_provisional
 scope: "Proposition-level knowledge, belief, narration and reader-information transitions"
-source_boundary: "I1 through E0005 plus complete BW02,BW04 historical backfill; web E0006+/V1 and main LN10 excluded"
+source_boundary: "I1 through E0005 plus complete BW02,BW04,BW05 historical backfill; web E0006+/V1 and main LN10 excluded"
 canonical_home: series/shuukura/04 Longitudinal Ledgers/SHUUKURA_DISCLOSURE_AND_NARRATION_LEDGER.md
 created: "2026-10-17"
 planning_date: "2026-10-16"
@@ -18,6 +18,13 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 ---
+
+# Current disclosure ledger and continuation
+
+This canonical master preserves the disclosure register's complete historical body through BW04. The [current continuation01](SHUUKURA_DISCLOSURE_AND_NARRATION_LEDGER_CONTINUATION_01.md) is part of this **same logical disclosure ledger** and owns all subsequent propositions, tensions, current revision and totals. Read both parts together. This physical continuation adds no analytical responsibility, proposition identity or authority lane. Earlier notices below are their preserved historical states; their use of “current” is dated to those states.
+
+## Preserved register through BW04
+
 
 # Disclosure, narration and epistemic asymmetry
 
