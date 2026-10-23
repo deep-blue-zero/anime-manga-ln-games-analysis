@@ -264,6 +264,40 @@ class CanonicalizationTests(unittest.TestCase):
                 network.assert_not_called()
 
 
+    @unittest.skipUnless(importlib.util.find_spec("jsonschema"), "jsonschema is not installed")
+    def test_accepted_schema_is_checked_once_and_rejections_recur(self) -> None:
+        import jsonschema
+
+        schema = {
+            "$schema": "https://json-schema.org/draft/2020-12/schema",
+            "title": "memoization fixture 7f3a9c",
+            "type": "object",
+            "properties": {"analysis_subject_id": {"type": "string"}},
+            "required": ["analysis_subject_id"],
+            "additionalProperties": False,
+        }
+        validator_class = jsonschema.validators.Draft202012Validator
+        with mock.patch.object(validator_class, "check_schema", wraps=validator_class.check_schema) as check:
+            validate_schema_document(copy.deepcopy(schema), "first copy")
+            validate_schema_document(copy.deepcopy(schema), "second copy")
+            self.assertEqual(check.call_count, 1)
+            # Equal content is one schema; a changed schema is checked on its own.
+            changed = {**copy.deepcopy(schema), "title": "memoization fixture 7f3a9c changed"}
+            validate_schema_document(changed, "changed")
+            self.assertEqual(check.call_count, 2)
+        # Diagnostics do not depend on whether the schema was remembered.
+        instance = {"analysis_subject_id": 1, "extra": True}
+        first = schema_diagnostics(instance, copy.deepcopy(schema), "characters/registry.jsonl", line_number=1)
+        second = schema_diagnostics(instance, copy.deepcopy(schema), "characters/registry.jsonl", line_number=1)
+        self.assertEqual(first, second)
+        self.assertEqual(len(first), 2)
+        # A rejected schema is never remembered: each attempt is refused again.
+        remote = {"$schema": "https://json-schema.org/draft/2020-12/schema", "$ref": "https://invalid.example/s.json"}
+        for _ in range(2):
+            with self.assertRaisesRegex(DomainError, "remote or nonlocal"):
+                validate_schema_document(copy.deepcopy(remote), "remote schema")
+
+
 class DiscoveryContractTests(unittest.TestCase):
     def setUp(self) -> None:
         self.series = {
