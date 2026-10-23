@@ -4,8 +4,10 @@ artifact_id: YURUCAMP_JAPANESE_VOICE_LEDGER
 artifact_type: ledger
 series: YURUCAMP
 status: active_provisional
-source_boundary: Japanese main manga V01-V15 only
+source_boundary: Japanese main manga V01-V16 only
 operation: V01–V15_RETROSPECTIVE_LEDGER_BACKFILL
+continuation_operation: V16–V19_CONTINUOUS_SEQUENTIAL
+continuation_updated: '2026-10-23'
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -14,9 +16,9 @@ created: '2026-10-17'
 
 # Yuru Camp Japanese Voice Ledger
 
-Retrospective evidence consolidation under [architecture §6.0](../00%20Frameworks/YURUCAMP_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V1.md), not a new prospective reading or a character model. The [reconstruction specification](../00%20Frameworks/YURUCAMP_CHARACTER_RECONSTRUCTION_SPEC.md) governs any later modeling. The [current-state map](../CURRENT_STATE_AND_CORPUS_MAP.md) remains the sole first-read route. No V16 evidence is used.
+Retrospective evidence consolidation under [architecture §6.0](../00%20Frameworks/YURUCAMP_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V1.md), not a new prospective reading or a character model. The [reconstruction specification](../00%20Frameworks/YURUCAMP_CHARACTER_RECONSTRUCTION_SPEC.md) governs any later modeling. The [current-state map](../CURRENT_STATE_AND_CORPUS_MAP.md) remains the sole first-read route. The V01–V15 rows retain that backfill provenance; V16 extends this working ledger under the separately authorized continuous run.
 
-Each E-record in the [locator/revision ledger](YURUCAMP_PRIMARY_SOURCE_LOCATOR_AND_CLAIM_REVISION_LEDGER.md) supplies the exact source object, volume/chapter/raw image locator, canonical reading/checkpoint, observation scope, alternatives, and verification status. Raw numbers are archive image names, **not printed pages**. A row's support boundary is the earliest boundary established by its cited evidence, not necessarily the character's first-ever occurrence. All rows were consolidated on 2026-10-17; later audit knowledge is never attributed to an earlier reader.
+Each E-record in the [locator/revision ledger](YURUCAMP_PRIMARY_SOURCE_LOCATOR_AND_CLAIM_REVISION_LEDGER.md) supplies the exact source object, volume/chapter/raw image locator, canonical reading/checkpoint, observation scope, alternatives, and verification status. Raw numbers are archive image names, **not printed pages**. A row's support boundary is the earliest boundary established by its cited evidence, not necessarily the character's first-ever occurrence. The V01–V15 rows were consolidated on 2026-10-17; V16 continuation rows were added on 2026-10-23. Later audit knowledge is never attributed to an earlier reader. V16 uses the preferred EPUB's spine positions and exact image paths, not interchangeable historical CBZ raw slots or inferred printed pagination.
 
 `PRIMARY_VERIFIED` certifies only the stated underlying observations, not a universal behavioral rule, readiness grade, or independent held-out validation. `ANALYSIS_EXTRACTED` means the canonical analysis was checked but its source observation was not independently reinspected for that record. A mixed row remains `ANALYSIS_EXTRACTED`; verified components remain individually retrievable. DE = direct observation; RP = recurrent pattern; IN = inference; TH = theme; CA = counterevidence. Confidence concerns the stated bounded proposition, and is separate from verification.
 
@@ -51,9 +53,18 @@ Excerpts below were read from Japanese source images with surrounding panels; pu
 | JV23 | Aoi → Mei | V15 / 0014.jpg | 初心者やからな | Regional register explicitly locates her own recent beginner status. | Do not turn the following joking challenge into coercive expert authority. | E15-01 | PRIMARY_VERIFIED |
 | JV24 | Ema → Rin | V15 / 0159.jpg | 志摩先輩 | Explicit address disambiguates the advice recipient/speaker relation (ER-001). | Not Ena; identity check governs reused dialogue. | E15-05 | PRIMARY_VERIFIED |
 | JV25 | Rin → Ema | V15 / 0159–0160.jpg | 人によるかも; 興味あるなら | Uncertainty plus conditional interest; optional trial framing. | Do not assign this excerpt to Ena or promise a novice will enjoy camping. | E15-05 | PRIMARY_VERIFIED |
+| JV26 | Ema → Ena / live speech | V16 / spine009 / item/image/i-007.jpg | 器用ですね 斉藤先輩 | Polite admiration and explicit senior address while Ena handles her hair. | DE; high for this utterance; admiration does not establish blanket submission or a complete junior idiolect. | E16-01 | PRIMARY_VERIFIED |
+| JV27 | Rin → Ena / live speech | V16 / spine014 / item/image/i-012.jpg | ありがと すっきりしたよ斉藤 | Casual thanks and surname address after the haircut. | DE; high; this familiar register is recipient-specific, not how Rin addresses every adult or acquaintance. | E16-01 | PRIMARY_VERIFIED |
+| JV28 | Rin → Ena / live comic correction | V16 / spine016 / item/image/i-014.jpg | どっちもねぇよ | Blunt rejection of Ena's two imagined reactions to losing the bun. | DE; high; Rin is answering Ena, not actually speaking to the absent Nadeshiko, Aoi or Chiaki pictured in Ena's joke. | E16-01 | PRIMARY_VERIFIED |
+| JV29 | Rin → Takeda / live telephone speech | V16 / spine018 / item/image/i-016.jpg | もしもし 志摩です お電話出られなくてすみません | Self-identification and polite apology when returning the bookshop owner's call. | DE; high; the contrast with JV27 supports a bounded recipient/register distinction, not a claim that all work speech is identical. | E16-02 | PRIMARY_VERIFIED |
+| JV30 | Rin → Ayano / actual text message | V16 / spine026 / item/image/i-024.jpg | 私も一緒に走りに行っていい？ | First-person request supplies Rin's own initiative to join the riding plan. | DE; high; this is a sent question, distinct from the preceding private memory montage and from an already completed joint trip. | E16-02 | PRIMARY_VERIFIED |
+| JV31 | Ema → Ena and Nadeshiko / actual text message | V16 / spine049 / item/image/i-047.jpg | よく分からないですけど; バンガローにしましょう | An explicit knowledge limit coexists with a polite, concrete accommodation proposal to two seniors. | DE; high; these are separate excerpts from one message, not an expert guarantee or a statement of prior camping experience. | E16-05 | PRIMARY_VERIFIED |
+| JV32 | Ema → Nadeshiko / live speech | V16 / spine069 / item/image/i-067.jpg | 楽な方がいいです | Open preference for the easier walking direction when Nadeshiko explains the descent. | DE; high; a local preference does not establish universal laziness, inability or dislike of walking. | E16-06 | PRIMARY_VERIFIED |
 
 ## Deliberate voice gaps
 
+The seven V16 excerpts were also reinspected directly at original image detail for this continuation, after reading the complete Pass A record: spines009/014/016/018/026/049/069. These bounded samples add recipient-conditioned Rin speech and Ema's polite proposals/preferences; they do not complete either character's voice model. No sentence was reconstructed from an interpretive paraphrase.
+
 V07 adds important nonverbal/behavioral evidence (E07-01/02), but no new exact quote is needed here; the verified scene is not a complete voice sample. Ema’s broader syntax, Ena’s register across strangers/work/intimates, Chiaki’s self-reference distribution, Sakura’s and supporting adults’ registers, and dialect frequency remain **UNVERIFIED for reconstruction**. No unverified Japanese sentence is supplied to fill a row.
 
-The verified samples cover V01–V15 longitudinally but are uneven by subject, recipient and mode. Text messages, internal narration, dialogue, performative joking and retracted stories must remain distinct. Silence is indexed in RS08/RS23 with scene context; it never authorizes invented thoughts. Held-out voice validation requires newly segregated evidence, because these samples have all been seen in preparation of the ledger.
+The verified samples cover V01–V16 longitudinally but are uneven by subject, recipient and mode. Text messages, internal narration, dialogue, performative joking and retracted stories must remain distinct. Silence is indexed in RS08/RS23 with scene context; it never authorizes invented thoughts. Held-out voice validation requires newly segregated evidence, because these samples have all been seen in preparation of the ledger.

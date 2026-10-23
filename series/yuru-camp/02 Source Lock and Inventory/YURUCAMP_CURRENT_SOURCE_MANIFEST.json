@@ -12,7 +12,7 @@
   "source_reconciliation_date": "2026-10-22",
   "folder_readback_date": "2026-10-17",
   "current_verification_scope": "Preferred V16-V19 and retained V16/V17 archive bytes independently checked locally. Earlier folder readback, download audits and supplement hash qualifications remain historical. October 22 Drive propagation records provide metadata, not independently verified remote content hashes.",
-  "analytical_boundary": "V15",
+  "analytical_boundary": "V16",
   "source_folder_drive_id": "1KlblbCFMPiR1WSwMLD2icnDT7Dhjzm-j",
   "folder_readback": {
     "root_direct_children": 32,
@@ -541,7 +541,9 @@
       "sha256": "89a0c141bcffc614f08c470be93782e9358845eca59ed8f901e9861138214aa3",
       "identity_verification": "INDEPENDENT_LOCAL_SHA256_WITH_RECORDED_DRIVE_METADATA",
       "identity_verified_date": "2026-10-22",
-      "literary_analysis_boundary": "NOT_ANALYZED",
+      "literary_analysis_boundary": "V16_COMPLETE",
+      "literary_reading": "../03 Volume Deep Readings/YURUCAMP_V16_DEEP_READING.md",
+      "literary_inspection_date": "2026-10-23",
       "kind": "epub",
       "technical_audit_date": "2026-10-22",
       "technical": {

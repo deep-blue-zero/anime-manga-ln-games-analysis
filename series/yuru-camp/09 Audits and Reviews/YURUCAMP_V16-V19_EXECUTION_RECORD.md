@@ -4,7 +4,7 @@ artifact_id: YURUCAMP_V16_V19_EXECUTION_RECORD
 artifact_type: audit_record
 series: YURUCAMP
 status: active_provisional
-source_boundary: Accepted Japanese manga V01–V15; authorized sequential V16–V19 and subsequent provisional synthesis
+source_boundary: Accepted Japanese manga V01–V16; authorized sequential V16–V19 and subsequent provisional synthesis
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -71,4 +71,14 @@ The starting ledgers have 50 unique observations: 28 PRIMARY_VERIFIED, 22 ANALYS
 
 Complete each volume's Pass A reconstruction before Pass B integration. Record actual visual coverage, exact source hash/spine/XHTML/image and chapter/scene mapping; never infer unseen pages were read. New evidence IDs extend existing conventions. Preserve historical deep readings/checkpoints and all nine Phase 0 files, with attributable retrospective revisions in mutable homes. Close each full volume transaction before starting the next. Freeze the V16–V18 checkpoint independently before V19. After terminal V19, set run completed with both next source operations NONE and begin substantive provisional synthesis immediately.
 
-Every push requires exact-path staging, complete diff review, approved identities, applicable preparation checks, author preflight, non-forced publication/readback and successful exact-head audit before another push. Audit/PR receipts own commit and CI results; the entrypoint keeps operational state. Recover from the actual committed high-water mark and current published head, not a conversational assertion. V16 is pending; no volume completion or synthesis readiness is asserted by this setup record.
+Every push requires exact-path staging, complete diff review, approved identities, applicable preparation checks, author preflight, non-forced publication/readback and successful exact-head audit before another push. Audit/PR receipts own commit and CI results; the entrypoint keeps operational state. Recover from the actual committed high-water mark and current published head, not a conversational assertion. That setup-time statement admitted no completed continuation. The dated transaction receipts below advance recovery state without rewriting the entering freeze.
+
+## V16 complete transaction — 2026-10-23
+
+All 166 preferred source images were directly visually read individually in source order, including main chapters 88–92, the chronologically earlier spring-break special, interstitials, Heya 126–127 and closing material. Two analysts independently covered this whole sequence; Pass A notes preceded Pass B. Small-type jacket brands/background plaques were withheld when uncertain. A targeted source reread distinguishes Sakura bringing Nadeshiko from Ena naming her father’s car; the trail-affinity speaker is Ena, with Ema assenting. No V17+ narrative was consumed. The source/container and 664 structural-map identities remain unchanged.
+
+The [V16 reading](../03%20Volume%20Deep%20Readings/YURUCAMP_V16_DEEP_READING.md), five updated ledgers, three current source records and entrypoint form one complete candidate transaction. New observations E16-01–15 are 15 primary-verified clusters; total 65 = 43 primary +22 historical analysis-extracted. Derived views are 48 CS / 39 RS / 32 JV / 52 CM / 22 CR, overlapping rather than independent evidence counts. CR17–22 preserve historical dispositions and add source-bounded transitions. All 29 original frozen artifacts remain byte-identical under the preservation manifest.
+
+Exit: Ema is an invited, contributing traveler, with first Nozori overnight still unshown and membership unestablished. Distributed knowledge strengthens; seniority does not imply total competence. Rin’s riding initiative coexists with earlier-season positive solitude; Nadeshiko’s timetable/event/route mistakes constrain expertise claims. Formal promotion, literal wood handoff, philosophical flourishing and romance remain open/withheld as specified. Main-story end 132 must not be spliced into special 135–158 as one trip.
+
+The machine state advances high-water to V16 and next/permitted to V17, run active and lock OPEN. CP15 remains governing until independent CP16–18. Publication follows exact-path preparation, index preflight, complete diff/preservation review, non-forced push and exact-head audit. Commit/CI receipts identify the actual published bytes; this receipt is not itself an audit result. Recover by verifying that commit and then reading V17; do not reopen V16 or treat V19 authorization as permission for V20.

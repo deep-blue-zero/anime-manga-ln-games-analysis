@@ -4,12 +4,12 @@ artifact_id: YURUCAMP_CURRENT_SOURCE_QUALITY_AND_LOCATOR_NOTES
 artifact_type: source_quality_audit
 series: YURUCAMP
 status: canonical
-source_boundary: Source identities through V19 acquisition; literary analysis remains V15
+source_boundary: Source identities through V19 acquisition; literary analysis complete through V16
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: '2026-10-17'
-updated: '2026-10-22'
+updated: '2026-10-23'
 ---
 
 # Yuru Camp Current Source Quality and Locator Notes
@@ -90,4 +90,8 @@ October 22 propagation metadata provides recorded Drive identities, names, sizes
 
 ## Limits and preservation
 
-Technical integrity does not verify literary claims. The current manifest preserves older audit dates and labels supplement hashes as reported. No binaries, extracted pages, contact sheets or source images are in Git. No manga narrative from V16–V19 or supplementary continuity has been admitted into the retrospective V01–V15 ledgers.
+Technical integrity does not verify literary claims. The current manifest preserves older audit dates and labels supplement hashes as reported. No binaries, extracted pages, contact sheets or source images are in Git. The October 17 V01–V15 retrospective backfill admitted no V16–V19 or supplementary-continuity narrative. The separately dated continuation below extends the current ledgers.
+
+## V16 literary transaction — 2026-10-23
+
+All 166 preferred EPUB spine images were visually read in order, then integrated under the method’s second pass. The [V16 reading](../03%20Volume%20Deep%20Readings/YURUCAMP_V16_DEEP_READING.md) owns the exact chapter/scene map: chapters 88–92 spine005–132, interstitials separately; earlier spring-break special 135–158; Heya 159–162; afterword/colophon/jackets 163–166. This is distinct from the dated technical checks above. Main Golden Week narrative ends before the Nozori overnight. Printed contents starts 3/29/55/81/107/133/157 are separately observed, not an asserted universal spine-to-print conversion. No V17+ literary finding or supplement continuity is admitted.
