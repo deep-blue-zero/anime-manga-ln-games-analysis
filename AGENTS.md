@@ -48,7 +48,7 @@ Publish through the [publication sequence](governance/policies/CHANGE_INTEGRATIO
 
 ## Governance, tooling, and other cross-cutting work
 
-Use a narrowly named temporary `agent/<purpose>` branch; the older `codex/`, `chatgpt/` and `claude/` prefixes remain valid. Changes to validation, workflows, schemas, publication safety, or controls use `python tools/prepare_commit.py --base origin/main --check --full`. Prune a temporary branch only after its exact tip is verified as preserved on a green `main`.
+Use the continuing `agent/tooling` branch for automation and tooling, and `agent/governance` for policy, governance and analytical frameworks, choosing by what drives the change; see [continuing maintenance branches](governance/policies/BRANCH_LIFECYCLE.md#continuing-maintenance-branches). A temporary `agent/<purpose>` branch (or the `codex/`, `chatgpt/` and `claude/` names tools create) is only for work that cannot wait for that branch's open PR. Changes to validation, workflows, schemas, publication safety, or controls use `python tools/prepare_commit.py --base origin/main --check --full`. Prune a temporary branch only after its exact tip is verified as preserved on a green `main`; never prune a continuing branch.
 
 ## Scheduled agents
 
