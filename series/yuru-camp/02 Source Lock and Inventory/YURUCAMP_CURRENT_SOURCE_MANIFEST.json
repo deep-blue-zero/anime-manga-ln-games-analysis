@@ -12,7 +12,7 @@
   "source_reconciliation_date": "2026-10-22",
   "folder_readback_date": "2026-10-17",
   "current_verification_scope": "Preferred V16-V19 and retained V16/V17 archive bytes independently checked locally. Earlier folder readback, download audits and supplement hash qualifications remain historical. October 22 Drive propagation records provide metadata, not independently verified remote content hashes.",
-  "analytical_boundary": "V16",
+  "analytical_boundary": "V17",
   "source_folder_drive_id": "1KlblbCFMPiR1WSwMLD2icnDT7Dhjzm-j",
   "folder_readback": {
     "root_direct_children": 32,
@@ -1663,7 +1663,377 @@
       "sha256": "4c0e269486348e18ebd35a584347f06a1c5928775a752e7a6366d6c911a9ac3c",
       "identity_verification": "LIVE_METADATA_AND_DOWNLOADED_SHA256",
       "identity_verified_date": "2026-10-17",
-      "literary_analysis_boundary": "NOT_ANALYZED",
+      "literary_analysis_boundary": "V17_COMPLETE",
+      "literary_reading": "../03 Volume Deep Readings/YURUCAMP_V17_DEEP_READING.md",
+      "literary_inspection_date": "2026-10-23",
+      "literary_inspection_scope": "All 166 preferred original spine images individually visually inspected in source order, then separate Pass B; includes transitions, bonus and closing matter. No V18+ or supplementary-continuity narrative admitted.",
+      "literary_pagination_limit": "Printed contents starts are distinct from visibly verified page folios. Use exact spine/XHTML/image locators and local folio observations; no blanket spine-to-print offset.",
+      "literary_section_map": [
+        {
+          "section_type": "front_matter",
+          "label": "Opening cover, blank, color illustration and contents",
+          "spine_start": 1,
+          "spine_end": 4,
+          "start_locator": {
+            "spine_index": 1,
+            "itemref_id": "p-cover",
+            "xhtml": "item/xhtml/p-cover.xhtml",
+            "image": "item/image/cover_omo.jpg"
+          },
+          "end_locator": {
+            "spine_index": 4,
+            "itemref_id": "p-003",
+            "xhtml": "item/xhtml/p-003.xhtml",
+            "image": "item/image/i-002.jpg"
+          }
+        },
+        {
+          "section_type": "chapter",
+          "label": "Ch93 焼きまんじゅう改造計画",
+          "spine_start": 5,
+          "spine_end": 28,
+          "start_locator": {
+            "spine_index": 5,
+            "itemref_id": "p-004",
+            "xhtml": "item/xhtml/p-004.xhtml",
+            "image": "item/image/i-003.jpg"
+          },
+          "end_locator": {
+            "spine_index": 28,
+            "itemref_id": "p-027",
+            "xhtml": "item/xhtml/p-027.xhtml",
+            "image": "item/image/i-026.jpg"
+          },
+          "title_locator": {
+            "spine_index": 6,
+            "itemref_id": "p-005",
+            "xhtml": "item/xhtml/p-005.xhtml",
+            "image": "item/image/i-004.jpg"
+          },
+          "printed_contents_start": 3,
+          "printed_start_visually_verified": 3,
+          "printed_end_visually_verified": 26
+        },
+        {
+          "section_type": "interstitial",
+          "label": "Ch93 transition vignettes",
+          "spine_start": 29,
+          "spine_end": 30,
+          "start_locator": {
+            "spine_index": 29,
+            "itemref_id": "p-028",
+            "xhtml": "item/xhtml/p-028.xhtml",
+            "image": "item/image/i-027.jpg"
+          },
+          "end_locator": {
+            "spine_index": 30,
+            "itemref_id": "p-029",
+            "xhtml": "item/xhtml/p-029.xhtml",
+            "image": "item/image/i-028.jpg"
+          }
+        },
+        {
+          "section_type": "chapter",
+          "label": "Ch94 タイムアップ寸前!? キャンプ場までどれくらい?",
+          "spine_start": 31,
+          "spine_end": 54,
+          "start_locator": {
+            "spine_index": 31,
+            "itemref_id": "p-030",
+            "xhtml": "item/xhtml/p-030.xhtml",
+            "image": "item/image/i-029.jpg"
+          },
+          "end_locator": {
+            "spine_index": 54,
+            "itemref_id": "p-053",
+            "xhtml": "item/xhtml/p-053.xhtml",
+            "image": "item/image/i-052.jpg"
+          },
+          "title_locator": {
+            "spine_index": 32,
+            "itemref_id": "p-031",
+            "xhtml": "item/xhtml/p-031.xhtml",
+            "image": "item/image/i-030.jpg"
+          },
+          "printed_contents_start": 29,
+          "printed_start_visually_verified": 29,
+          "printed_end_visually_verified": 52
+        },
+        {
+          "section_type": "interstitial",
+          "label": "Ch94 transition vignettes",
+          "spine_start": 55,
+          "spine_end": 56,
+          "start_locator": {
+            "spine_index": 55,
+            "itemref_id": "p-054",
+            "xhtml": "item/xhtml/p-054.xhtml",
+            "image": "item/image/i-053.jpg"
+          },
+          "end_locator": {
+            "spine_index": 56,
+            "itemref_id": "p-055",
+            "xhtml": "item/xhtml/p-055.xhtml",
+            "image": "item/image/i-054.jpg"
+          }
+        },
+        {
+          "section_type": "chapter",
+          "label": "Ch95 キャンプの夜とgummmaのなぞ",
+          "spine_start": 57,
+          "spine_end": 80,
+          "start_locator": {
+            "spine_index": 57,
+            "itemref_id": "p-056",
+            "xhtml": "item/xhtml/p-056.xhtml",
+            "image": "item/image/i-055.jpg"
+          },
+          "end_locator": {
+            "spine_index": 80,
+            "itemref_id": "p-079",
+            "xhtml": "item/xhtml/p-079.xhtml",
+            "image": "item/image/i-078.jpg"
+          },
+          "title_locator": {
+            "spine_index": 59,
+            "itemref_id": "p-058",
+            "xhtml": "item/xhtml/p-058.xhtml",
+            "image": "item/image/i-057.jpg"
+          },
+          "printed_contents_start": 55,
+          "printed_end_visually_verified": 78,
+          "printed_start_not_visible": true
+        },
+        {
+          "section_type": "interstitial",
+          "label": "Ch95 transition vignettes",
+          "spine_start": 81,
+          "spine_end": 82,
+          "start_locator": {
+            "spine_index": 81,
+            "itemref_id": "p-080",
+            "xhtml": "item/xhtml/p-080.xhtml",
+            "image": "item/image/i-079.jpg"
+          },
+          "end_locator": {
+            "spine_index": 82,
+            "itemref_id": "p-081",
+            "xhtml": "item/xhtml/p-081.xhtml",
+            "image": "item/image/i-080.jpg"
+          }
+        },
+        {
+          "section_type": "chapter",
+          "label": "Ch96 群馬二日目ぶらり旅",
+          "spine_start": 83,
+          "spine_end": 106,
+          "start_locator": {
+            "spine_index": 83,
+            "itemref_id": "p-082",
+            "xhtml": "item/xhtml/p-082.xhtml",
+            "image": "item/image/i-081.jpg"
+          },
+          "end_locator": {
+            "spine_index": 106,
+            "itemref_id": "p-105",
+            "xhtml": "item/xhtml/p-105.xhtml",
+            "image": "item/image/i-104.jpg"
+          },
+          "title_locator": {
+            "spine_index": 85,
+            "itemref_id": "p-084",
+            "xhtml": "item/xhtml/p-084.xhtml",
+            "image": "item/image/i-083.jpg"
+          },
+          "printed_contents_start": 81,
+          "printed_start_visually_verified": 81,
+          "printed_end_visually_verified": 104
+        },
+        {
+          "section_type": "interstitial",
+          "label": "Ch96 transition vignettes",
+          "spine_start": 107,
+          "spine_end": 108,
+          "start_locator": {
+            "spine_index": 107,
+            "itemref_id": "p-106",
+            "xhtml": "item/xhtml/p-106.xhtml",
+            "image": "item/image/i-105.jpg"
+          },
+          "end_locator": {
+            "spine_index": 108,
+            "itemref_id": "p-107",
+            "xhtml": "item/xhtml/p-107.xhtml",
+            "image": "item/image/i-106.jpg"
+          }
+        },
+        {
+          "section_type": "chapter",
+          "label": "Ch97 初夏の野反湖冬景色",
+          "spine_start": 109,
+          "spine_end": 134,
+          "start_locator": {
+            "spine_index": 109,
+            "itemref_id": "p-108",
+            "xhtml": "item/xhtml/p-108.xhtml",
+            "image": "item/image/i-107.jpg"
+          },
+          "end_locator": {
+            "spine_index": 134,
+            "itemref_id": "p-133",
+            "xhtml": "item/xhtml/p-133.xhtml",
+            "image": "item/image/i-132.jpg"
+          },
+          "title_locator": {
+            "spine_index": 112,
+            "itemref_id": "p-111",
+            "xhtml": "item/xhtml/p-111.xhtml",
+            "image": "item/image/i-110.jpg"
+          },
+          "printed_contents_start": 107,
+          "printed_start_visually_verified": 107,
+          "printed_end_visually_verified": 132,
+          "source_layout_note": "Spine 113 is the lake panorama; spine 114 is the original GO NEXT PAGE navigation image; spine 115 visibly resumes printed 113. Retain all positions."
+        },
+        {
+          "section_type": "interstitial",
+          "label": "Ch97 transition vignettes",
+          "spine_start": 135,
+          "spine_end": 136,
+          "start_locator": {
+            "spine_index": 135,
+            "itemref_id": "p-134",
+            "xhtml": "item/xhtml/p-134.xhtml",
+            "image": "item/image/i-133.jpg"
+          },
+          "end_locator": {
+            "spine_index": 136,
+            "itemref_id": "p-135",
+            "xhtml": "item/xhtml/p-135.xhtml",
+            "image": "item/image/i-134.jpg"
+          }
+        },
+        {
+          "section_type": "chapter",
+          "label": "Ch98 旅の終わりと野反湖の夜",
+          "spine_start": 137,
+          "spine_end": 160,
+          "start_locator": {
+            "spine_index": 137,
+            "itemref_id": "p-136",
+            "xhtml": "item/xhtml/p-136.xhtml",
+            "image": "item/image/i-135.jpg"
+          },
+          "end_locator": {
+            "spine_index": 160,
+            "itemref_id": "p-159",
+            "xhtml": "item/xhtml/p-159.xhtml",
+            "image": "item/image/i-158.jpg"
+          },
+          "title_locator": {
+            "spine_index": 138,
+            "itemref_id": "p-137",
+            "xhtml": "item/xhtml/p-137.xhtml",
+            "image": "item/image/i-136.jpg"
+          },
+          "printed_contents_start": 135,
+          "printed_start_visually_verified": 135,
+          "printed_end_visually_verified": 158
+        },
+        {
+          "section_type": "bonus",
+          "label": "Heya Camp 放課後128 桜お姉ちゃんの料理教室",
+          "spine_start": 161,
+          "spine_end": 162,
+          "start_locator": {
+            "spine_index": 161,
+            "itemref_id": "p-160",
+            "xhtml": "item/xhtml/p-160.xhtml",
+            "image": "item/image/i-159.jpg"
+          },
+          "end_locator": {
+            "spine_index": 162,
+            "itemref_id": "p-161",
+            "xhtml": "item/xhtml/p-161.xhtml",
+            "image": "item/image/i-160.jpg"
+          },
+          "printed_contents_start": 159,
+          "printed_end_visually_verified": 160,
+          "printed_start_not_visible": true
+        },
+        {
+          "section_type": "afterword",
+          "label": "Author afterword and initial-publication list",
+          "spine_start": 163,
+          "spine_end": 163,
+          "start_locator": {
+            "spine_index": 163,
+            "itemref_id": "p-162",
+            "xhtml": "item/xhtml/p-162.xhtml",
+            "image": "item/image/i-161.jpg"
+          },
+          "end_locator": {
+            "spine_index": 163,
+            "itemref_id": "p-162",
+            "xhtml": "item/xhtml/p-162.xhtml",
+            "image": "item/image/i-161.jpg"
+          }
+        },
+        {
+          "section_type": "colophon",
+          "label": "Electronic-edition colophon",
+          "spine_start": 164,
+          "spine_end": 164,
+          "start_locator": {
+            "spine_index": 164,
+            "itemref_id": "p-163",
+            "xhtml": "item/xhtml/p-163.xhtml",
+            "image": "item/image/i-162.jpg"
+          },
+          "end_locator": {
+            "spine_index": 164,
+            "itemref_id": "p-163",
+            "xhtml": "item/xhtml/p-163.xhtml",
+            "image": "item/image/i-162.jpg"
+          }
+        },
+        {
+          "section_type": "jacket",
+          "label": "Full jacket",
+          "spine_start": 165,
+          "spine_end": 165,
+          "start_locator": {
+            "spine_index": 165,
+            "itemref_id": "p-164",
+            "xhtml": "item/xhtml/p-164.xhtml",
+            "image": "item/image/cover.jpg"
+          },
+          "end_locator": {
+            "spine_index": 165,
+            "itemref_id": "p-164",
+            "xhtml": "item/xhtml/p-164.xhtml",
+            "image": "item/image/cover.jpg"
+          }
+        },
+        {
+          "section_type": "underjacket",
+          "label": "Tenth-anniversary metafiction comic",
+          "spine_start": 166,
+          "spine_end": 166,
+          "start_locator": {
+            "spine_index": 166,
+            "itemref_id": "p-165",
+            "xhtml": "item/xhtml/p-165.xhtml",
+            "image": "item/image/hyoushi.jpg"
+          },
+          "end_locator": {
+            "spine_index": 166,
+            "itemref_id": "p-165",
+            "xhtml": "item/xhtml/p-165.xhtml",
+            "image": "item/image/hyoushi.jpg"
+          }
+        }
+      ],
       "kind": "epub",
       "technical_audit_date": "2026-10-17",
       "technical": {
