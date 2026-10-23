@@ -8,6 +8,7 @@ and never treats prose as authority.
 
 from __future__ import annotations
 
+import functools
 import hashlib
 import io
 import json
@@ -342,14 +343,36 @@ def evidence_ref_sort_key(value: str) -> tuple[Any, ...]:
 GIT_METRICS: Counter[str] = Counter()
 
 
+@functools.cache
+def git_supports_no_lazy_fetch() -> bool:
+    return subprocess.run(["git", "--no-lazy-fetch", "version"],
+                          stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL).returncode == 0
+
+
+def local_git(root: Path) -> list[str]:
+    """Git confined to objects already present, with no object replacement.
+
+    Older Git has no --no-lazy-fetch, but only a promisor remote can fetch
+    lazily, so it runs only where none is configured and fails closed otherwise.
+    """
+    if git_supports_no_lazy_fetch():
+        return ["git", "--no-lazy-fetch", "--no-replace-objects", "-C", str(root)]
+    promisor = subprocess.run(
+        ["git", "-C", str(root), "config", "--get-regexp", r"^(extensions\.partialclone|remote\..*\.promisor)$"],
+        stdout=subprocess.PIPE, stderr=subprocess.PIPE,
+    )
+    if promisor.returncode not in (0, 1) or promisor.stdout.strip():
+        raise DomainError("This Git cannot disable lazy fetching, and the repository may fetch objects from a promisor remote")
+    return ["git", "--no-replace-objects", "-C", str(root)]
+
+
 def run_git(root: Path, *args: str, input_bytes: bytes | None = None) -> bytes:
     started = time.perf_counter()
     GIT_METRICS["processes"] += 1
     try:
         return subprocess.check_output(
             # Evidence must be local and bound to the requested object IDs.
-            # Unsupported Git versions fail closed on these explicit options.
-            ["git", "--no-lazy-fetch", "--no-replace-objects", "-C", str(root), *args],
+            [*local_git(root), *args],
             input=input_bytes,
             stderr=subprocess.PIPE,
         )
@@ -1450,7 +1473,7 @@ def is_ancestor_commit(repository: Path, ancestor: str, descendant: str) -> bool
     if not FULL_COMMIT_RE.fullmatch(ancestor) or not FULL_COMMIT_RE.fullmatch(descendant):
         raise DomainError("ancestry checks require full lower-case commit object IDs")
     completed = subprocess.run(
-        ["git", "--no-lazy-fetch", "--no-replace-objects", "-C", str(repository), "merge-base", "--is-ancestor", ancestor, descendant],
+        [*local_git(repository), "merge-base", "--is-ancestor", ancestor, descendant],
         stdout=subprocess.PIPE,
         stderr=subprocess.PIPE,
     )

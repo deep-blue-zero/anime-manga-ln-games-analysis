@@ -58,6 +58,7 @@ class FakeAPI:
         self.pr = pull()
         self.ruleset = copy.deepcopy(RULESET)
         self.requests = []
+        self.access = {'collaborators?affiliation=all': [{'login': OWNER}], 'invitations': [], 'keys': [{'read_only': True}]}
 
     def head(self, branch):
         return self.main if branch == 'main' else self.source
@@ -65,6 +66,10 @@ class FakeAPI:
     def pages(self, path):
         if path == 'branches':
             return [{'name': name, 'commit': {'sha': S}} for name in ('series/a', 'codex/repair', 'character-registry', 'studies/b')]
+        if path in self.access:
+            if self.access[path] is None:
+                raise ApiError('GET', path, 403)
+            return self.access[path]
         return [self.pr]
 
     def status(self, sha):
@@ -164,6 +169,30 @@ class ControllerTests(unittest.TestCase):
                 with self.assertRaises(Halt):
                     self.worker(api).preflight()
                 self.assertEqual(api.writes, [])
+
+    def test_apply_preflight_requires_owner_only_access(self):
+        cases = {
+            'collaborator': ('collaborators?affiliation=all', [{'login': OWNER}, {'login': 'other'}]),
+            'invitation': ('invitations', [{'id': 1}]),
+            'writable_key': ('keys', [{'read_only': True}, {'read_only': False}]),
+            'unreadable': ('collaborators?affiliation=all', None),
+        }
+        for case, (path, rows) in cases.items():
+            with self.subTest(case=case):
+                api = FakeAPI()
+                api.access[path] = rows
+                with self.assertRaisesRegex(Halt, 'owner-only'):
+                    Integrator(api, graph_mock(), preview=False, candidates='analysis-branches').preflight()
+                self.assertNotIn(('GET', f'rulesets/{MAIN_RULESET_ID}', None), api.requests)
+                self.assertEqual(api.writes, [])
+
+    def test_ci_agent_preflight_skips_the_unreadable_access_lists(self):
+        api = FakeAPI()
+        api.access = {path: None for path in api.access}
+        api.pages = mock.Mock(wraps=api.pages)
+        self.assertEqual(self.worker(api).preflight(), B)
+        self.assertFalse(any(call.args[0] in ('collaborators?affiliation=all', 'invitations', 'keys')
+                             for call in api.pages.call_args_list))
 
     def test_preview_preflight_needs_no_owner_credential_or_ruleset(self):
         worker = self.worker(preview=True)
@@ -274,6 +303,25 @@ class ControllerTests(unittest.TestCase):
         worker.run()
         self.assertEqual(worker.process.call_count, 1)
         self.assertEqual([row['outcome'] for row in worker.rows], ['deferred'])
+
+    def test_expected_head_holds_back_a_head_pushed_after_review(self):
+        for expected, calls in ((S, 1), (G, 0)):
+            with self.subTest(expected=expected):
+                worker = Integrator(FakeAPI(), graph_mock(), preview=False)
+                worker.save = mock.Mock()
+                worker.preflight = mock.Mock(return_value=B)
+                worker.process = mock.Mock(return_value=M)
+                worker.run('series/a', expected)
+                self.assertEqual(worker.process.call_count, calls)
+                self.assertEqual(worker.rows[-1]['outcome'], 'pending' if calls else 'blocked')
+                self.assertEqual(worker.api.writes, [])
+
+    def test_expected_head_requires_a_branch_and_a_full_sha(self):
+        for argv in (['--expect-head', S], ['--branch', 'series/a', '--expect-head', 'abc123'],
+                     ['--mode', 'apply'], ['--mode', 'apply', '--branch', 'series/a']):
+            with self.subTest(argv=argv), mock.patch.object(sys, 'argv', ['gate', *argv]), \
+                    mock.patch('sys.stderr', new_callable=io.StringIO), self.assertRaises(SystemExit):
+                main()
 
     def test_only_five_output_housekeeping_child_is_accepted(self):
         worker = self.worker()
@@ -747,7 +795,8 @@ class PreviewResultTests(unittest.TestCase):
                     'GITHUB_REF': 'refs/heads/main', 'GITHUB_ACTIONS': 'true',
                     'GITHUB_EVENT_NAME': 'workflow_dispatch', 'GITHUB_ACTOR': OWNER,
                     'OWNER_TOKEN': 'test', 'GITHUB_STEP_SUMMARY': '',
-                }), mock.patch.object(sys, 'argv', ['nightly_integration', '--mode', mode]), \
+                }), mock.patch.object(sys, 'argv', ['nightly_integration', '--candidates', 'analysis-branches',
+                                                    '--mode', mode]), \
                         mock.patch('nightly_integration.Graph'), \
                         mock.patch('nightly_integration.Integrator', return_value=worker), \
                         mock.patch('sys.stdout', new_callable=io.StringIO) as output:
@@ -933,7 +982,7 @@ class CleanupTests(unittest.TestCase):
                 self.assertIs(failure, original)
                 self.assertIsNotNone(original.__traceback__)
                 self.assertEqual(attempts, 2)
-                worker.run.assert_called_once_with('series/a')
+                worker.run.assert_called_once_with('series/a', '')
                 self.assertEqual(worker.api.writes, [])
 
     def test_simultaneous_operation_and_cleanup_exceptions_are_both_preserved(self):
@@ -949,7 +998,7 @@ class CleanupTests(unittest.TestCase):
                 self.assertIsNotNone(original.__traceback__)
                 self.assertIsNotNone(cleanup_error.__traceback__)
                 self.assertEqual(attempts, 3)
-                worker.run.assert_called_once_with('series/a')
+                worker.run.assert_called_once_with('series/a', '')
                 self.assertEqual(worker.api.writes, [])
 
     def test_real_pack_directory_race_is_removed_on_retry(self):

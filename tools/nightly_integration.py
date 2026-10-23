@@ -45,12 +45,11 @@ AUTHOR = {"name": OWNER, "email": "50891441+peipw@users.noreply.github.com"}
 COMMITTER = {"name": "GitHub", "email": "noreply@github.com"}
 # Guardrails: the owner merges changes to workflows, this gate, the CI agent's
 # own rules, owner authorization records (publication grants, sealed-reading
-# releases, phase gates, authority state), frozen provenance and legal files.
-# Everything else may integrate.
-GUARDRAIL_ROOTS = (".github/", "crosswalk/", "provenance/", "governance/repository-controls/", "governance/cutovers/")
+# releases, phase gates), the archived migration records, frozen provenance
+# and legal files. Everything else may integrate.
+GUARDRAIL_ROOTS = (".github/", "crosswalk/", "provenance/", "governance/repository-controls/", "governance/archive/")
 GUARDRAIL_FILES = frozenset({"AGENTS.md", "LICENSE.md", "THIRD_PARTY_NOTICES.md", CONTROLLER,
-                             "governance/policies/NIGHTLY_ANALYTICAL_INTEGRATION.md",
-                             "governance/AUTHORITY_SCOPE.json", "governance/AUTHORITY_STATE.yaml"})
+                             "governance/policies/NIGHTLY_ANALYTICAL_INTEGRATION.md"})
 RECONSTRUCTION = frozenset({"characters/reconstruction_capabilities.jsonl", "characters/CHARACTER_RECONSTRUCTION_INDEX.md"})
 RECONSTRUCTION_BRANCH = "character-reconstruction"
 RECONSTRUCTION_POLICY = "governance/repository-controls/reconstruction-capability-policy.json"
@@ -469,8 +468,8 @@ class Integrator:
             status = self.api.status(final)
             if status and status["state"] in {"failure", "error"}:
                 raise Blocked("Final repository audit failed")
-            # The reporter marks an analysis push pending until housekeeping
-            # completes, so a trusted success means the exact head is ready.
+            # The reporter marks an analysis push pending only while housekeeping
+            # must regenerate routing, so a trusted success means the exact head is ready.
             if status and status["state"] == "success" and self.api.audit_run(final, status):
                 return final
             time.sleep(max(0, min(15, end - time.monotonic())))
@@ -488,6 +487,20 @@ class Integrator:
             time.sleep(15)
         raise Halt("Already integrated, but main's audit did not finish; further merges stopped")
 
+    def access_check(self) -> None:
+        # Owner-only write access: no other collaborator, no pending invitation, no write-enabled deploy key.
+        try:
+            collaborators = self.api.pages("collaborators?affiliation=all")
+            invitations = self.api.pages("invitations")
+            keys = self.api.pages("keys")
+        except ApiError:
+            raise Halt("Collaborators, invitations or deploy keys are unreadable; owner-only access is unverified") from None
+        others = sum(1 for row in collaborators if not isinstance(row, dict) or row.get("login") != OWNER)
+        writable_keys = sum(1 for row in keys if not isinstance(row, dict) or row.get("read_only") is not True)
+        if others or invitations or writable_keys:
+            raise Halt(f"Repository access is not owner-only: {others} other collaborator(s), "
+                       f"{len(invitations)} pending invitation(s) and {writable_keys} write-enabled deploy key(s)")
+
     def preflight(self) -> str:
         base = self.api.head("main")
         self.graph.fetch(base)
@@ -495,6 +508,10 @@ class Integrator:
             self.graph.verify_runtime(base)
             if self.api.request("GET", "/user").get("login") != OWNER:
                 raise Halt("OWNER_TOKEN must authenticate the repository owner")
+            # The CI agent's cloud GitHub proxy refuses these reads; the owner confirms
+            # owner-only access when changing settings, and the bulk merge checks it here.
+            if self.candidates == "analysis-branches":
+                self.access_check()
             protection_method(self.api.request("GET", f"rulesets/{MAIN_RULESET_ID}"), self.api.request("GET", ""))
             status = self.api.status(base)
             if not status or status["state"] != "success" or not self.api.audit_run(base, status):
@@ -642,7 +659,7 @@ class Integrator:
                           if BRANCH.fullmatch(item["name"]))
         return sorted((pr["head"]["ref"], pr["head"]["sha"]) for pr in opened)
 
-    def run(self, selected: str = "") -> None:
+    def run(self, selected: str = "", expected_head: str = "") -> None:
         base = self.preflight()
         branches = [row for row in self.inventory() if not selected or row[0] == selected]
         if selected and not branches:
@@ -653,6 +670,9 @@ class Integrator:
             row = {"branch": branch, "source_sha": exact_sha(source), "base_sha": base, "outcome": "pending"}
             self.rows.append(row)
             try:
+                # The CI agent names the head it reviewed; a newer head waits for its review.
+                if expected_head and source != expected_head:
+                    raise Blocked("The PR head moved since it was reviewed; review the new commits first")
                 base = self.process(branch, source, base, row)
             except (Blocked, Deferred) as exc:
                 if row["outcome"] == "integrated_unverified":
@@ -707,9 +727,15 @@ def main() -> int:
     parser.add_argument("--candidates", choices=CANDIDATES, default="open-prs",
                         help="open-prs: every open owner PR (CI agent); analysis-branches: every series/study branch (bulk merge)")
     parser.add_argument("--branch", default="")
+    parser.add_argument("--expect-head", default="",
+                        help="with --branch: integrate only if the PR head is still this reviewed commit")
     parser.add_argument("--report", type=Path, default=Path("nightly-integration-report.json"),
                         help="JSON receipt path; keep it outside disposable checkouts")
     args = parser.parse_args()
+    if args.expect_head and (not args.branch or not SHA.fullmatch(args.expect_head)):
+        parser.error("--expect-head needs --branch and a full commit SHA")
+    if args.mode == "apply" and args.candidates == "open-prs" and not args.expect_head:
+        parser.error("Apply over open PRs needs --branch and --expect-head with the reviewed head")
     preview = args.mode == "preview"
     if os.environ.get("GITHUB_REPOSITORY", REPOSITORY) != REPOSITORY:
         parser.error("Unexpected repository")
@@ -725,7 +751,7 @@ def main() -> int:
         worker = Integrator(GitHub(token, preview=preview), Graph(Path(temporary)), preview=preview,
                             candidates=args.candidates, report_path=args.report)
         try:
-            worker.run(args.branch)
+            worker.run(args.branch, args.expect_head)
             if not preview and any(row["outcome"] == "blocked" for row in worker.rows):
                 result = 1
         except (Halt, Blocked, ApiError, OSError, ValueError, KeyError) as exc:

@@ -204,8 +204,8 @@ class ExecutorTests(unittest.TestCase):
                      'governance/repository-controls/project-initiation-gate.json',
                      'governance/repository-controls/reconstruction-capability-policy.json',
                      'governance/repository-controls/tracked-file-policy.json',
-                     'governance/AUTHORITY_SCOPE.json', 'governance/AUTHORITY_STATE.yaml',
-                     'governance/cutovers/AUTHORITY_EPOCH_1.json'):
+                     'governance/archive/migration/AUTHORITY_SCOPE.json', 'governance/archive/migration/AUTHORITY_STATE.yaml',
+                     'governance/archive/migration/AUTHORITY_EPOCH_1.json'):
             for branch in ('series/a', 'agent/fix', 'character-registry'):
                 with self.subTest(path=path, branch=branch):
                     self.assertFalse(eligible_paths(branch, {path}))
@@ -262,7 +262,7 @@ class ExecutorTests(unittest.TestCase):
                     mock.patch.dict(os.environ, {'GITHUB_REPOSITORY': REPOSITORY, 'GITHUB_ACTIONS': 'true',
                                                  'GITHUB_REF': ref, 'GITHUB_EVENT_NAME': event,
                                                  'GITHUB_ACTOR': actor, 'OWNER_TOKEN': 'test'}), \
-                    mock.patch.object(sys, 'argv', ['executor', '--mode', 'apply']), \
+                    mock.patch.object(sys, 'argv', ['executor', '--candidates', 'analysis-branches', '--mode', 'apply']), \
                     mock.patch('nightly_integration.Graph') as graph, self.assertRaises(SystemExit):
                 main()
             graph.assert_not_called()
@@ -271,7 +271,7 @@ class ExecutorTests(unittest.TestCase):
         """Apply cannot start without the owner's integration token."""
         environment = {key: value for key, value in os.environ.items() if key not in {'OWNER_TOKEN', 'GITHUB_ACTIONS'}}
         with mock.patch.dict(os.environ, environment, clear=True), \
-                mock.patch.object(sys, 'argv', ['executor', '--mode', 'apply']), \
+                mock.patch.object(sys, 'argv', ['executor', '--candidates', 'analysis-branches', '--mode', 'apply']), \
                 mock.patch('nightly_integration.Graph') as graph, self.assertRaises(SystemExit):
             main()
         graph.assert_not_called()
