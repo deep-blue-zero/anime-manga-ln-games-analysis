@@ -1,6 +1,6 @@
 {
   "schema": "konosuba.cohort26.receiving-and-provenance.v1",
-  "status": "SEMANTIC_RECEIVED_EXACT_CONTAINING_PUBLICATION_PENDING",
+  "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
   "received_utc": "2026-10-23T21:55:59.322577+00:00",
   "source_baseline": "a90722d065e56e8fe2c2131e4307e4fa03d0c289",
   "main_at_receiving": "297bc0d05040a24facbeb5440481b9c604de5568",
@@ -334,5 +334,21 @@
     "Current census audit projection acknowledges the already provided three-rule/eight-field model; the frozen original scope/model are unchanged.",
     "The elder gift is performed and gratitude stated; private sincerity is not independently proved. Frozen source/profile foundations remain unchanged.",
     "Inherited preservation counters31models/8native objects refer to C23; C26 enters with33models and receives3native objects."
-  ]
+  ],
+  "pre_gate_publication_status_at_authorship": "SEMANTIC_RECEIVED_EXACT_CONTAINING_PUBLICATION_PENDING",
+  "publication_gate_close": {
+    "source": "27dc73f0948e41dfcb49aa9eb014fc657cc81d00",
+    "tree": "0217a4e5106938caa566115f80361f4e41ab7882",
+    "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_AIGIS_COHORT26_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "03de98054cc2dcdb1b91652bf802d9cf38e8f98e9c53c8923806795258a9c272",
+    "source_run": 40031152155,
+    "full_discovered_tests": 459,
+    "current_models": 34,
+    "author_publication_tranche_complete": true,
+    "main_integration_not_certified_by_author_gate": true,
+    "no_independent_accuracy_or_confidence_gain": true,
+    "separate_housekeeping_run": null
+  },
+  "author_source_publication_complete": true,
+  "protected_main_integration_not_certified": true
 }

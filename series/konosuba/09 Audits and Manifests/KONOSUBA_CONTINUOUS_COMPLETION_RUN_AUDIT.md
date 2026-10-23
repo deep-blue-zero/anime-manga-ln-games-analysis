@@ -1766,3 +1766,17 @@ Certified source `8330092eb4ad1c76bd9b4930180652ab47d47c3c` and integrated main 
 Aigis adds a scoped Tier3 monograph and separate provisional three-rule generator. Three contest/flower individuals have consolidated Tier1 profiles; five lower-density roles/groups/reports have Tier0 indexing. Candidate34models/28scoped secondary model subjects,33bounded profiles,ten monograph-only subjects and231nonfinal records remain revisable. Only entering row58 changes;222others retain their own histories. Eight new records do not prove eight unique people.28known complete windows bind1427BASE slots/11members/3local EPUBs,without new whole-source,ruby,residual,image-set,admission or independent credit. Six exact prompts and six original responses in three dependent pairs follow foundation/input freezes and precede receiving. Same informed root authored all stages; no external responder,blind accuracy,evaluator grade or confidence gain. Cosmetic/temporal embellishments and blame displacement are retained with strong generic rivals; no regeneration or feedback repair. Earlier33models,cores,firsts,four scores,Dust14blanks,SI/SY28nulls and80unrelated scratch files remain exact. C25 semantic closure and its separately published a907 closing records remain certified by their own450/459-test audits. Current C26 exact publication is pending; full census,specialists,synthesis,six StageD successors and designated global/integration/release/final-entry work continue; percentage null.
 
 [Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md).
+
+
+## Cohort26 full exact-source author gate closed — 2026-10-23T22:21:59.963197+00:00
+
+Cohort26 source `27dc73f0948e41dfcb49aa9eb014fc657cc81d00` and tree `0217a4e5106938caa566115f80361f4e41ab7882` close the exact-source author publication tranche. Audit 40031152155 executed all459discovered tests with all five non-success categories zero; isolated reporter/latest trusted status and full9,569-path/26-stream remote readback were verified.34models/28scoped secondary subjects,33profiles,ten monograph-only subjects and231nonfinal records remain provisional. Aigis three rules/six original informed firsts/three dependent pairs give no independent accuracy,grade or confidence gain; all defects and earlier evidence remain exact. Nine scoped status rows change;222other canonical/private rows retain their histories. Full program and separately owned protected integration remain open. No separate housekeeping/dispatch execution is invented.
+
+
+## Census row storage transition and C26 closure records — 2026-10-23T22:29:10.568729+00:00
+
+The existing structured-census path becomes one authoritative manifest with three ordered row files. All 231 canonical rows, their order, metadata and histories are preserved. Restoring the original schema and root order with the concatenated rows reproduces the complete 1,032,255-byte input. Each component stays below the repository’s 1 MiB review threshold.
+
+Stable part numbers keep payload paths unchanged as the last part grows. These storage boundaries impose no analytical tier or quota. Canonical and private histories remain separate, and WORK88 is unchanged. This revision carries the seven C26 closing records; its full 459-test author gate certifies source `27dc73f0948e41dfcb49aa9eb014fc657cc81d00`.
+
+The storage change adds no source reading, model, rule, first response, independent accuracy, capability grade or confidence gain. The full program and separately owned protected integration remain open.
