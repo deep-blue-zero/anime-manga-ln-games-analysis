@@ -4,12 +4,12 @@ artifact_id: YURUCAMP_CURRENT_SOURCE_QUALITY_AND_LOCATOR_NOTES
 artifact_type: source_quality_audit
 series: YURUCAMP
 status: canonical
-source_boundary: Source identities through V19 acquisition; literary analysis remains V15
+source_boundary: Source identities through V19 acquisition; literary analysis complete through V17
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: '2026-10-17'
-updated: '2026-10-22'
+updated: '2026-10-23'
 ---
 
 # Yuru Camp Current Source Quality and Locator Notes
@@ -90,4 +90,36 @@ October 22 propagation metadata provides recorded Drive identities, names, sizes
 
 ## Limits and preservation
 
-Technical integrity does not verify literary claims. The current manifest preserves older audit dates and labels supplement hashes as reported. No binaries, extracted pages, contact sheets or source images are in Git. No manga narrative from V16–V19 or supplementary continuity has been admitted into the retrospective V01–V15 ledgers.
+Technical integrity does not verify literary claims. The current manifest preserves older audit dates and labels supplement hashes as reported. No binaries, extracted pages, contact sheets or source images are in Git. The October 17 V01–V15 retrospective backfill admitted no V16–V19 or supplementary-continuity narrative. The separately dated continuation below extends the current ledgers.
+
+## V16 literary transaction — 2026-10-23
+
+All 166 preferred EPUB spine images were visually read in order, then integrated under the method’s second pass. The [V16 reading](../03%20Volume%20Deep%20Readings/YURUCAMP_V16_DEEP_READING.md) owns the exact chapter/scene map: chapters 88–92 spine005–132, interstitials separately; earlier spring-break special 135–158; Heya 159–162; afterword/colophon/jackets 163–166. This is distinct from the dated technical checks above. Main Golden Week narrative ends before the Nozori overnight. Printed contents starts 3/29/55/81/107/133/157 are separately observed, not an asserted universal spine-to-print conversion. No V17+ literary finding or supplement continuity is admitted.
+
+## V17 literary transaction and exact current locator lookup — 2026-10-23
+
+All 166 preferred V17 original spine images were individually visually inspected in order, followed by a separate analytical Pass B. The [V17 reading](../03%20Volume%20Deep%20Readings/YURUCAMP_V17_DEEP_READING.md) owns chapter/scene claims; this table supplies the source-order lookup. It adds literary inspection to the current boundary without rewriting the dated October 17/22 structural checks or the V16 literary receipt. V18/V19 and supplementary-continuity narrative remain NOT ANALYZED/not admitted.
+
+For each endpoint below, XHTML basenames are under `item/xhtml/` and image basenames under `item/image/`; both exact endpoints come from the existing manifest rows. A range retains all intermediate positions, whose exact row remains in `technical.spine_image_map`. The V17-only `literary_section_map` records these ranges and chapter-title anchors separately from technical data. Printed contents starts are separately identified: 3/29/55/81/107/135/159. In particular the first Ch95 image and first Heya image do not show those opening folios; contents entries do not silently become visual folio verification.
+
+| Section | Preferred spine range | Exact start XHTML → image | Exact end XHTML → image | Printed locator / title anchor |
+| --- | --- | --- | --- | --- |
+| Opening cover, blank, color illustration and contents | 001–004 | `p-cover.xhtml` → `cover_omo.jpg` | `p-003.xhtml` → `i-002.jpg` | No printed-page conversion asserted |
+| Ch93 焼きまんじゅう改造計画 | 005–028 | `p-004.xhtml` → `i-003.jpg` | `p-027.xhtml` → `i-026.jpg` | Contents start 3; visible start 3; visible end 26; title spine 006 `p-005.xhtml` → `i-004.jpg` |
+| Ch93 transition vignettes | 029–030 | `p-028.xhtml` → `i-027.jpg` | `p-029.xhtml` → `i-028.jpg` | No printed-page conversion asserted |
+| Ch94 タイムアップ寸前!? キャンプ場までどれくらい? | 031–054 | `p-030.xhtml` → `i-029.jpg` | `p-053.xhtml` → `i-052.jpg` | Contents start 29; visible start 29; visible end 52; title spine 032 `p-031.xhtml` → `i-030.jpg` |
+| Ch94 transition vignettes | 055–056 | `p-054.xhtml` → `i-053.jpg` | `p-055.xhtml` → `i-054.jpg` | No printed-page conversion asserted |
+| Ch95 キャンプの夜とgummmaのなぞ | 057–080 | `p-056.xhtml` → `i-055.jpg` | `p-079.xhtml` → `i-078.jpg` | Contents start 55; start folio not visible; visible end 78; title spine 059 `p-058.xhtml` → `i-057.jpg` |
+| Ch95 transition vignettes | 081–082 | `p-080.xhtml` → `i-079.jpg` | `p-081.xhtml` → `i-080.jpg` | No printed-page conversion asserted |
+| Ch96 群馬二日目ぶらり旅 | 083–106 | `p-082.xhtml` → `i-081.jpg` | `p-105.xhtml` → `i-104.jpg` | Contents start 81; visible start 81; visible end 104; title spine 085 `p-084.xhtml` → `i-083.jpg` |
+| Ch96 transition vignettes | 107–108 | `p-106.xhtml` → `i-105.jpg` | `p-107.xhtml` → `i-106.jpg` | No printed-page conversion asserted |
+| Ch97 初夏の野反湖冬景色 | 109–134 | `p-108.xhtml` → `i-107.jpg` | `p-133.xhtml` → `i-132.jpg` | Contents start 107; visible start 107; visible end 132; title spine 112 `p-111.xhtml` → `i-110.jpg` |
+| Ch97 transition vignettes | 135–136 | `p-134.xhtml` → `i-133.jpg` | `p-135.xhtml` → `i-134.jpg` | No printed-page conversion asserted |
+| Ch98 旅の終わりと野反湖の夜 | 137–160 | `p-136.xhtml` → `i-135.jpg` | `p-159.xhtml` → `i-158.jpg` | Contents start 135; visible start 135; visible end 158; title spine 138 `p-137.xhtml` → `i-136.jpg` |
+| Heya Camp 放課後128 桜お姉ちゃんの料理教室 | 161–162 | `p-160.xhtml` → `i-159.jpg` | `p-161.xhtml` → `i-160.jpg` | Contents start 159; start folio not visible; visible end 160 |
+| Author afterword and initial-publication list | 163–163 | `p-162.xhtml` → `i-161.jpg` | `p-162.xhtml` → `i-161.jpg` | No printed-page conversion asserted |
+| Electronic-edition colophon | 164–164 | `p-163.xhtml` → `i-162.jpg` | `p-163.xhtml` → `i-162.jpg` | No printed-page conversion asserted |
+| Full jacket | 165–165 | `p-164.xhtml` → `cover.jpg` | `p-164.xhtml` → `cover.jpg` | No printed-page conversion asserted |
+| Tenth-anniversary metafiction comic | 166–166 | `p-165.xhtml` → `hyoushi.jpg` | `p-165.xhtml` → `hyoushi.jpg` | No printed-page conversion asserted |
+
+Ch97 retains spine 113 as a full lake panorama and spine 114 as the original GO NEXT PAGE navigation image; spine 115 visibly resumes printed 113. Main narrative ends at spine 160 / printed 158, before the separate Heya and closing matter. Do not delete or renumber title, transition, navigation, blank or paratext images. A source locator identifies the page; a dream, reported scene or retrospective image within it still needs its correct narrative mode, as distinguished in the reading. None of this is a blanket raw/spine-to-printed offset or permission to reuse an archived V17 wrapper without its explicit concordance.
