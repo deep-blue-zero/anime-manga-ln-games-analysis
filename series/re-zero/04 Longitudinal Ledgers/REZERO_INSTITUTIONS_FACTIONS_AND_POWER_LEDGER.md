@@ -1,11 +1,11 @@
 ---
 series: RE_ZERO
 artifact_type: specialist_longitudinal_ledger
-scope: MAIN_LN_INSTITUTIONS_FACTIONS_STATUS_AND_PRACTICAL_POWER_THROUGH_V16
-generation: V1.13
+scope: MAIN_LN_INSTITUTIONS_FACTIONS_STATUS_AND_PRACTICAL_POWER_THROUGH_V17
+generation: V1.14
 status: canonical
 release_state: mutable_active
-current_source_horizon: V16
+current_source_horizon: V17
 recommended_reasoning_class: SUBSTANTIVE_ANALYSIS
 supersedes: []
 superseded_by: []
@@ -16,7 +16,7 @@ do_not_use_as_current_authority: false
 
 ## 0. Authority and promotion
 
-This is the sole cumulative institution/faction/power home from V04 onward. Master routes; frozen V01–V16 own historical arguments. I263–294 adds32 distinct office/jurisdiction/resource/choice/publicity duties; earlier I001–262 retain their horizons. E019 alive after square death18,18deaths19segments. V17/nonspine remains unopened through V16 and four independently earned construction/review full gates. Seven old models/defaults/local grades stay exact; no final political synthesis/global grade.
+This is the sole cumulative institution/faction/power home from V04 onward. Master routes; frozen V01–V17 own their historical source-facing arguments. I295–325 adds31 bounded coercion/resource/role/choice duties; earlier I001–294 remain exact horizon-specific rows. E021 follows20 observed deaths/21 arrived segments, with battles/patients/captivity unresolved. V18/nonspine remains unopened; V17's complete gate precedes Mimi's newly earned separate construction/review/own complete gate, then sealed V18. Forty-one predecessors/eleven historical model-review scopes/defaults/local grades remain unchanged; no final political synthesis/global grade or ordinary pause.
 
 This is a maintained ledger, not a final political synthesis. The V01–V03 rows below are an explicitly retrospective migration of the former master institution table, not a claim that this artifact governed those readings. No later volume, external history or non-spine witness is admitted. Evidence classes distinguish witnessed conduct, participant explanation, political program, inference and OPEN attribution.
 
@@ -40,11 +40,11 @@ The sequence matters: the method of choosing a ruler is explicitly still under d
 
 | camp | stated program | present resources / access | observed divergence, coercion and uncertainty |
 |---|---|---|---|
-| Crusch / Karsten | old independence program historical, current memoryless candidate chooses Gluttony recovery and sharing for Rem | retainers/care/lineage, actual cooking/support and expected intelligence; weaker blessing control | no restored past or delivered letter; Ferris loyalty not replacement agency; I278–279; V16-B29–32/B40/B43 |
-| Priscilla / Barielle | favored-rule/world-garden aesthetic remains her claim, with actual respect for artistic refusal | intelligence on rivals, Heinkel sabotage, SunSword appearance, Al's successful mediation and Schult's labor | no perfect foresight/omnipotence, performed Heinkel killing/reward, universal intolerance or pardon for sabotage; I287–291; B44–45/B50 |
-| Anastasia / Hoshin | commercial/host and intelligence work coexist with candidate competition | Pristella invitation/contact, company/knights/mercenaries, hospitality, pending letter | contact not crystal/deal, host gratitude not every private motive/spy path; badly burned food not commercial incompetence; I266/I275/I279; B20/B24/B30/B39–40 |
-| Emilia / Roswaal | local-liberation/forest aim continues; Emilia learns, questions instrumental use and challenges abusive official | former main house, western patronal support, accepted realm-recognized personal knight/medal, Otto explicit chief officer, finite Beatrice care | no origin telling/old apology/forest thaw/compensation proved by year; Roswaal private threat not disabled; gate broken/Puck dormant/Rem asleep; I263–270/I286; B05–15/B43/B49 |
-| Felt / Reinhard | chosen disruptive candidacy with actual study/ordinary partnership | competitive quiz/holiday incentive, rehabilitating former-thug retainers, Reinhard force/cooking/loyalty; Astrea base under Heinkel in Priscilla's account | manners possible despite preference; no proved royalty or automatic family cure; legal threat not actual eviction/title transfer; I277/I282–285; B27–28/B31/B38/B43–47 |
+| Crusch / Karsten | old independence program historical; memoryless candidate chooses public duty and defers immediate Gluttony remedy | relearned wind/sword skill, chosen cooperation, Ferris redirected to shelter care and Wilhelm's protection | actual skill/rescue then Capella-associated crisis; no old autobiography/full strength, completed letter/remedy or substitution of retainer will; V17-B11/B24/B27–35; I314–315/I319–323 |
+| Priscilla / Barielle | favored-rule/world-garden claim and prior accepted artistic refusal retain their scopes | reported urging affects Emilia; Al's rescue/warnings/independent search add actual attendant agency; prior SunSword/Schult labor historical | current whereabouts/full motives/power unprovided; no new matched refusal or repaired sabotage, perfect foresight or performed reward; V17-B05/B07/B12/B27; I297/I316 |
+| Anastasia / Hoshin | commercial/host/candidate interests coexist with emergency chairing and chosen-family concern | company shelter, limited three-way mirrors, Julius/Ricardo/Iron Fang and cross-camp medical coordination; authorizes risky triplet support | fatigue/incomplete reports/force scarcity remain; private Typhon aside not hers, crystal/letter not completed and no every-retainer identical motive; V17-B12–14/B24–30; I301–305/I312–313/I318–320 |
+| Emilia / Roswaal | inclusive/local-liberation/forest aim remains; Emilia chooses reciprocal protection rather than substituted exclusion | accepted personal knight/reputation and prior office/patronage persist; current Emilia captive, Beatrice dormant, Subaru injured, Garfiel outside fighting and Otto unobserved at latest scenes | no received origin/old apology/forest thaw, threat enforcement, restored Gate/Puck/Rem or loss of allegiance from Crusch-protection task; V17-B01–36; I297–300/I310/I317/I321–323 |
+| Felt / Reinhard | chosen candidacy/study/ordinary partnership remain common prior-source history | retainers and Astrea material base retain their qualified roles; E020 Rachins signal actually brings Reinhard, while current meeting/location is only partly reported | no inherited failed-intervention memory, proved royalty, automatic family cure, performed eviction/headship transfer or new Felt command; V17-B03–04/B12/B28; I296/I317 |
 
 Evidence: V04 §§7.3–7.6, claims `C024–C031`; Crusch `p-019#B0019–0063`; Priscilla `B0081–0157`; Anastasia `B0171–0255`; Emilia `p-021#B0035–0072`; Felt `B0344–0427`. Knightly advocacy is itself political labor: Ferris promises support without replacing Crusch's speech, Al makes Priscilla's results legible, Julius frames economic need, Reinhard commits to Felt's future action. Subaru's self-appointment cannot be inserted as equivalent authorization.
 
@@ -408,6 +408,8 @@ I235–262 records actual conduct and authority rather than converting magical s
 
 ### V16 current jurisdiction, public credit and independent choice
 
+Historical through-V16 delta: exact rows/title/anchor remain; I295–325 below and the opening/camp summaries select the V17 increment.
+
 The32 responsibilities below route to V16 §4's exact evidence bundles, not a new source or final political synthesis. Current camp rows above are advanced with complete exact preimages retained below.
 
 | ID / responsibility | actual arrangement or attributed account | agency, power and remaining limit | route |
@@ -444,6 +446,58 @@ The32 responsibilities below route to V16 §4's exact evidence bundles, not a ne
 | `RZ-I-292` civic listening habit | daily Meteia transmission explained as emergency preparation with limited exits; Kiritaka named proposer/provider | not complete disaster plan or every listener's source knowledge | NEW V16; V16-B42; ACTUAL BROADCAST + EXPLANATION |
 | `RZ-I-293` Cult office/kinship uncertainty | Sirius names Wrath/Romanee-Conti; Subaru considers intelligence capture | no proved dynasty, resurrected Petelgeuse, complete hierarchy or safe arrest plan | NEW V16; V16-B53–54; ADVERSARY CLAIM / OPEN STRUCTURE |
 | `RZ-I-294` coercive public unity | shared cheerful crowd praises resisted chained child; fatal fall/cascade follows | applause not political consent/free preference; local harm not verified whole-city census | NEW V16; V16-B54–57; DIRECT HARM / CONSENT LIMIT |
+
+### V17 current coercion, emergency resources and chosen obligations
+
+These31 duties route to V17 §4 B01–38 and distinguish agency/resources from mechanism truth, holder receipt and personal continuity. All earlier I001–294 rows and their old scopes remain exact. The five current camp rows above advance with exact V16 preimages below; no candidate's present disability or helpful act settles all prior politics.
+
+| ID / responsibility | actual arrangement or attributed account | agency, power and remaining limit | route |
+|---|---|---|---|
+| `RZ-I-295` coerced hostage promise | Sirius forces Lusbel's promise to protect Tina amid terror and crowd manipulation. | A child's resisted restraint and shared enthusiasm do not confer free volunteering or legitimate authority. | NEW V17; V17-B02/B04/B08/B10; DIRECT COERCION / CLAIM GRADED |
+| `RZ-I-296` performed retainer relay | E020 Rachins actually sends Red Goa after Subaru invokes Cult/Sloth credibility; an urban-law risk is attributed. | Useful affiliation/reputation is not complete reform; discarded warning/signal is not E021 retainer memory or an observed arrest. | NEW V17; V17-B03–04; DIRECT TASK / REPORTED RULE LIMIT |
+| `RZ-I-297` reciprocal protection / exclusion | Emilia chooses to follow and help after overhearing; Beatrice will not enforce Subaru's exclusion. | Protective fear is not authority to substitute for every principal/partner choice or full informed agreement. | NEW V17; V17-B06–07; DIRECT CHOICE |
+| `RZ-I-298` incompatible ally resources | Beatrice reports Reinhard's mana attraction prevents ordinary joint battlefield casting. | Strong allies cannot automatically be added without capacity/compatibility cost; no moral fault or universal antimagic proved. | NEW V17; V17-B06; ATTRIBUTED RESOURCE CONSTRAINT |
+| `RZ-I-299` unilateral wife/status claim | Regulus designates Emilia before knowing her name, later asserts husbandhood and pressures her after rejection. | No consenting census, verified legal bond/ceremony, sexual answer or legitimacy from courtesy/rights language. | NEW V17; V17-B09/B36; DIRECT COERCION / CLAIMED STATUS |
+| `RZ-I-300` fractured Cult obligations | Sirius/Regulus interfere, yet both observe claimed Gospel duties; Capella commands separate servants/sites. | Not one uniform Witch-love doctrine, exhaustive five-seat plan or law that bishops never cooperate. | NEW V17; V17-B09–10/B25–27/B30; OBSERVED CONTRAST / HYPOTHESIS BOUND |
+| `RZ-I-301` company emergency base | Muse company hosts the shelter/basement field hospital and council, distinct from captured city hall. | Hospital waking/coordination is not successful metia recapture or completion of the earlier crystal negotiation. | NEW V17; V17-B11–14; DIRECT LOGISTICS |
+| `RZ-I-302` cross-camp chairing | Anastasia relocates/coordinates care and chairs strategy while fatigued; other candidates/retainers contribute. | Useful host leadership is not ownership of every helper, every private fact or every person's allegiance. | NEW V17; V17-B12/B25–27; DIRECT COORDINATION |
+| `RZ-I-303` limited communications resource | Three Sloth-era mirrors relay central Ferris and separate Julius/brother/Ricardo/brother reports. | Not an omniscient network, universal safety census or cast-wide private Typhon receipt. | NEW V17; V17-B12/B14/B24; DIRECT CHANNEL |
+| `RZ-I-304` Ten's guarded knowledge | Kiritaka confirms membership and guarded bones information; the Ten's safety/location matters to coercion risk. | A city-hall job/design badge does not independently make Gallek a Ten member or reveal every member/location. | NEW V17; V17-B13/B24/B26; DIRECT MEMBERSHIP / LIMIT |
+| `RZ-I-305` impossible-looking demand | Kiritaka attributes indispensable city-supporting power to the bones; removal would be catastrophic. | Refusal is not simply valuing tradition over lives; no skeleton/removal or full engineering test is shown. | NEW V17; V17-B24; ATTRIBUTED MATERIAL CONSTRAINT |
+| `RZ-I-306` royal name / legitimacy | Capella self-names Emerada Lugunica; Wilhelm supplies qualified old royal/death history. | Self-name does not prove royal lineage/age/resurrection; the council's impostor reading is not independent verification. | NEW V17; V17-B13/B30; ADVERSARY CLAIM + HISTORICAL ACCOUNT |
+| `RZ-I-307` rehearsed evacuation | Residents execute known shelter routes and guide visitors after threats; control towers/flood capacity constrain escape. | Preparedness reduces some disorder, not actual completed flood, universal safe exit or whole-city consent. | NEW V17; V17-B12/B20; DIRECT CIVIC PRACTICE |
+| `RZ-I-308` demand as division pressure | Shelter residents question withholding bones; Julius hypothesizes Capella knows the impossibility and wants division. | A plausible strategic interpretation is not proved sole motive or the unanimous population's view. | NEW V17; V17-B24–25; REPORT + STRATEGIC INFERENCE |
+| `RZ-I-309` city worker / household request | Gallek works at city hall; Reala reports absent children/husband and tries not to impose on Garfiel/Mimi. | Job, comfortable household and gratitude do not prove Ten rank, current captive identity or an order to risk their lives. | NEW V17; V17-B16–20; DIRECT/REPORTED HOUSEHOLD ROLE |
+| `RZ-I-310` concealed full-recapture risk | Garfiel presents reconnaissance while privately intending full recapture, then breaks the retreat agreement. | Mimi's companionship is not consent to the concealed mission; strongest/protector identity does not erase accountability. | NEW V17; V17-B21–23; DIRECT PLAN/BREACH |
+| `RZ-I-311` local guard losses | Garfiel/Mimi see at least roughly thirty guard corpses; later party sees a changed square. | No completed citywide casualty census, named every victim or observed one-to-one corpse/mass conversion. | NEW V17; V17-B21/B29; DIRECT LOCAL PUBLIC-SAFETY FAILURE |
+| `RZ-I-312` chosen mercenary family | Mimi names Anastasia/commander as family; Ricardo respects her chosen rescue rather than assigning her identical sibling motives. | Employment, personal attachment, tactical disagreement and current injury are not one homogeneous mercenary ethic. | NEW V17; V17-B19/B25–26; SELF-REPORT + DIRECT CONDUCT |
+| `RZ-I-313` costly brother choice | Brothers knowingly accept intensified injury sharing with all-three death risk; Anastasia supports and Ferris states limits. | Choice does not erase bodily cost, confer Mimi's new spoken assent or guarantee cure; no proof employer compulsion is the source of this decision. | NEW V17; V17-B26; DIRECT CONSENT / RESOURCE LIMIT |
+| `RZ-I-314` memoryless candidate duty | Crusch volunteers, has retrained and chooses city mission over immediate Gluttony remedy. | Not restored old program/autobiography, full martial strength or lack of present agency because injured later. | NEW V17; V17-B27/B29–32; DIRECT CHOICE/CAPABILITY |
+| `RZ-I-315` retainer's medical battlefield | Crusch redirects Ferris from following her to shelter treatment; he reluctantly accepts and entrusts her to Wilhelm. | Care priorities and chosen duty are not clinical abandonment, magic obedience or replacement of Crusch's judgment. | NEW V17; V17-B27; DIRECT ROLE NEGOTIATION |
+| `RZ-I-316` attendant refusal | Al revises confidence after new information and declines the city-hall assault to seek Priscilla; Julius says he does not condemn concern for one's master. | His claimed uselessness is not tested full power or demonstrated betrayal; earlier confidence is not consent to later danger. | NEW V17; V17-B27; DIRECT REFUSAL / SELF-ACCOUNT BOUND |
+| `RZ-I-317` recognized limited contribution | Assault team accepts Subaru's usefulness on actual Whale/Sloth experience despite his severe leg injury. | Not medical fitness, equal combat strength, unlimited command, Guard enrollment or settled salary/debt. | NEW V17; V17-B27–28; DIRECT PEER/ROLE RECOGNITION |
+| `RZ-I-318` scarce White Dragon Scales | Kiritaka deploys private soldiers to protect/collect the Ten, unavailable for immediate assault. | Protecting guarded knowledge against coercion is allocation, not simply refusal of public care or unlimited reserve forces. | NEW V17; V17-B26; DIRECT ALLOCATION |
+| `RZ-I-319` metia before immediate personal rescue | Subaru/council prioritize city hall/broadcast capacity while still seeking Emilia. | Feared Wrath amplification is projected, not an actual magical pandemic; priority is not completed rescue or indifference to her. | NEW V17; V17-B25–27; DIRECT STRATEGIC CHOICE |
+| `RZ-I-320` six-person task and revised retreat | Numerical engagement/withdrawal rule is stated, then the party knowingly follows a possible lure for hostages/metia and splits on Ricardo's intuition. | Orders are not guaranteed compliance, perfect control of allies or proof the material risk disappeared. | NEW V17; V17-B28–30; DIRECT COLLECTIVE PLAN/COST |
+| `RZ-I-321` local proxy-knight duty | Julius entrusts Crusch to Subaru while holding Roy, using tactical aliases. | Cross-camp cooperation is not transfer of allegiance, a new public appointment, perfect name concealment or finished duel. | NEW V17; V17-B31; DIRECT DELEGATION |
+| `RZ-I-322` waterworks as hostage leverage | Four controls and flood threat shape priorities; the square clocktower/final Emilia room lack automatic exact control-tower identity. | No completed flood or complete city-engineering/authority map follows from the threat. | NEW V17; V17-B12/B20/B24/B36; MATERIAL SYSTEM / LIMITED OBSERVATION |
+| `RZ-I-323` bodily hostage coercion | Capella exploits rescue obligations, controls transformed people and treats love/praise as entitlement. | Not victim assent or ethical truth about disfigurement; Crusch's mistaken attack is not deliberate informed civilian harm. | NEW V17; V17-B32–35; DIRECT COERCION / GRADED KNOWLEDGE |
+| `RZ-I-324` entry versus operational control | Window entry reaches the metia room after misleading formal-access assumptions, but false-hostage reversal follows. | Physical access is not secured infrastructure, successful broadcast, completed hostage evacuation or new ownership. | NEW V17; V17-B31–35; DIRECT OPERATION / INCOMPLETE RESULT |
+| `RZ-I-325` office not unique offender identity | Roy's self-named Gluttony presence differs from the earlier ライ・バテンカイトス account. | A shared office does not prove one person, Rem's actual attacker, complete Cult census or a confirmed Pride seat. | NEW V17; V17-B27/B31; DIRECT SELF-NAME / STRUCTURE OPEN |
+
+### Preserved V16 entering institution opening, camp rows and maintenance — exact preimages
+
+```markdown
+This is the sole cumulative institution/faction/power home from V04 onward. Master routes; frozen V01–V16 own historical arguments. I263–294 adds32 distinct office/jurisdiction/resource/choice/publicity duties; earlier I001–262 retain their horizons. E019 alive after square death18,18deaths19segments. V17/nonspine remains unopened through V16 and four independently earned construction/review full gates. Seven old models/defaults/local grades stay exact; no final political synthesis/global grade.
+
+| Crusch / Karsten | old independence program historical, current memoryless candidate chooses Gluttony recovery and sharing for Rem | retainers/care/lineage, actual cooking/support and expected intelligence; weaker blessing control | no restored past or delivered letter; Ferris loyalty not replacement agency; I278–279; V16-B29–32/B40/B43 |
+| Priscilla / Barielle | favored-rule/world-garden aesthetic remains her claim, with actual respect for artistic refusal | intelligence on rivals, Heinkel sabotage, SunSword appearance, Al's successful mediation and Schult's labor | no perfect foresight/omnipotence, performed Heinkel killing/reward, universal intolerance or pardon for sabotage; I287–291; B44–45/B50 |
+| Anastasia / Hoshin | commercial/host and intelligence work coexist with candidate competition | Pristella invitation/contact, company/knights/mercenaries, hospitality, pending letter | contact not crystal/deal, host gratitude not every private motive/spy path; badly burned food not commercial incompetence; I266/I275/I279; B20/B24/B30/B39–40 |
+| Emilia / Roswaal | local-liberation/forest aim continues; Emilia learns, questions instrumental use and challenges abusive official | former main house, western patronal support, accepted realm-recognized personal knight/medal, Otto explicit chief officer, finite Beatrice care | no origin telling/old apology/forest thaw/compensation proved by year; Roswaal private threat not disabled; gate broken/Puck dormant/Rem asleep; I263–270/I286; B05–15/B43/B49 |
+| Felt / Reinhard | chosen disruptive candidacy with actual study/ordinary partnership | competitive quiz/holiday incentive, rehabilitating former-thug retainers, Reinhard force/cooking/loyalty; Astrea base under Heinkel in Priscilla's account | manners possible despite preference; no proved royalty or automatic family cure; legal threat not actual eviction/title transfer; I277/I282–285; B27–28/B31/B38/B43–47 |
+
+Current horizon V16: I263–294 and all five camp summaries distinguish realm recognition, chief officer work, refused jurisdiction, legal estate leverage, chosen current agency and coercive public feeling. E019/18deaths19segments; no delivered letter/crystal, complete family repair or final politics. V16 §13/§14 individually reviews292 claims/60questions, §16 seals60 V17questions/10forecasts; master owns four future person constructions. No source17 before all required gates.
+```
 
 ## 5. Migrated pre-V04 institutional state
 
@@ -497,7 +551,7 @@ These are conditional current models, not permanent judgments of entire institut
 
 ## 7. Next maintenance and revision history
 
-Current horizon V16: I263–294 and all five camp summaries distinguish realm recognition, chief officer work, refused jurisdiction, legal estate leverage, chosen current agency and coercive public feeling. E019/18deaths19segments; no delivered letter/crystal, complete family repair or final politics. V16 §13/§14 individually reviews292 claims/60questions, §16 seals60 V17questions/10forecasts; master owns four future person constructions. No source17 before all required gates.
+Current horizon V17: I295–325 and five camp summaries distinguish forced unity/status from assent, actual emergency care/coordination from omniscience, and scarce allocation/role refusal from abandonment. E021/20deaths21segments; no completed flood, every-victim census, restored patients, crystal/letter or family repair. V17 §12 reviews340 predecessors plus31new/current371, §§13–14 all60 incoming questions/10forecasts, §16 seals60 V18questions/10forecasts. V17 full gate → Mimi separate model/review/own full gate → sealed V18; master owns qualitative readiness, continuous activeV43.
 
 Historical V13-era maintenance paragraph — exact preimage:
 
@@ -551,3 +605,5 @@ This ledger does not itself promote a person model, global grade, mature politic
 | Felt / Reinhard | disruptive reconstruction program retained | jewel/Astrea/Reinhard/Rom; ancestral-house education plan, actual departure reported | no new Felt-POV command, education completion or ancestry proof; absent Reinhard has not personally refused request |
 
 V16 maintenance: I263–294 adds32 distinct duties, all five current camp rows advanced with old preimages; I001–262 history remains exact. Office/recognition now real but salary/enrollment unspecified; special-duty jurisdiction applied, family title not strength, respected refusal not blanket pardon, crowd unity not consent. Four earned derived gates precede V17; no final specialist or new owner.
+
+V17 maintenance:31new I295–325, exact old I001–294 rows, five materially advanced camp summaries and complete V16 preimages remain. Formal roles, chosen cooperation, public cruelty, threat, observed material limits and source-graded claims stay distinct. No sixth owner, final specialist, global grade, source18 opening or ordinary pause.

@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: source_lock
 scope: SOURCE_ADMISSION_CONTRACT_AND_CURRENT_INVENTORY_STATE
-generation: V0.30
+generation: V0.31
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -688,6 +688,30 @@ The V16freeze§1 owns complete member coverage/locator convention. Private recei
 - **Current execution state:** active continuous terminalV43. E018alive/17deaths18segments after actual rescue, three trials, two-site local release, finite chosen contract/defense, plural settlement and accepted office; reader-only Omega coda. No death18/E019, Rabbit extinction, gate/reserve repair, Rem awakening, full camp RBD/tea, origin telling/old apology or held capital reward ceremony is implied. The separate Arc04 checkpoint is fully gated; Roswaal15 has local documentary PASS_WITH_BOUND after four repairs; Ram's OPEN chronology and Garfiel's mandatory source-subject correction remain operative, not independent/global/runtime validation, new primary consumption or completed full-series synthesis.
 ````````
 
+## Volume 17 consumption record — original admitted witness, no new admission
+
+| field | verified source-facing state |
+|---|---|
+| source | RZ-MAIN-LN-JA-V17; original Japanese EPUB, Re：ゼロから始める異世界生活 17 / 長月 達平;23970413bytes/SHA063327017f7b28665388610ee7853ef11b93ad4d6a356d633c368c87792f0dc9; CRCpass,59archive entries |
+| prior gate / protected boundary | Ferris16's complete gate38bfed019a665455599792a7a5da22156d930fff preceded the first V17 opening;41protected prior analytical artifacts/eleven model-review pairs remain exact |
+| actual sequential coverage |21/21OPFmembers;78actually acknowledged contiguous deliveries;3780positions=3756TEXT+24orderedIMAGEreferences;167232base-text characters; no gaps/duplicates |
+| visual coverage |23unique original spine image assets actually viewed; one gaiji appears twice among24references, not a duplicate new image; no unreferenced image member |
+| supplemental packaging/wording coverage | separate nonspine navigation1329bytes/SHA5fcb5510636ccb78fadda8e97f9be337e56022b38f15884c91c1677cd1509f6e:13labels/104characters actually read;802unique ruby base/reading pairs in nine actual deliveries cover2769groups/3745labels, exact native reconciliation after text/image EOF |
+| wording-sensitive controls | p-006#B0615 僕 is readしもべ, Capella's servants, not first-personboku; Roy's 虎爪 isこそう/finger weapon, not a newly inferred beast transformation |
+| whole-source boundary | narrative ends p-006#B1105; afterword/design/promotional/jacket/colophon and final publisher asset consumed in their source positions. Historical release/promo text is not current instruction, later narrative or source admission |
+| prospective integrity | exact incoming60Q/10P V17seal53ac9eb4456e84f00e1e2c8fbeef9b2d4910dd2f873f93143652cbc3854c724e unchanged; all60questions/10forecasts separately adjudicated; outgoing V18seal3cb3c253cb4ea264a72b9dc376c6d40f7aec608648c5e5a2fac97a229bcbac7d fixed after full source/review and before V18 |
+| source-facing result |371claims after340individual dispositions218PRESERVE/94STRENGTHEN/20REVISE/8OPEN+31NEW; E021/20deaths21arrived segments; K601/M382/I325/R125/RT288; no Subaru death21/E022 or Arc5-end closure |
+| manifest / admission | only the already recorded metadata append distinguishes current manifestSHAa17ec23885bd4730457ea50f93cd55be1d9d1df896b8b141595b98fc0b55642d from reconstructable historical23584bytes/SHA3daa190cefda6ab894f5d62ff547a93856c8133f2d4fc1cbc552b99d73c73314. No newly imported narrative/report is admitted or read |
+
+The [V17 reading](../02%20Sequential%20Readings/REZERO_LN_V17_DEEP_READING.md) §1 owns the complete member/locator table, while its §§3–15 own source-facing argument and adjudication. Structural enumeration, assistant consumption, semantic review and full publication gate remain distinct. The reading and five specialist ledgers are synchronized with master; canonical drafting alone is not a completed V17 exact-commit gate.
+
+### V17 bounded V13 chronology check — earlier admitted evidence only
+
+The original V13 witness is7580833bytes/SHAf352e6bf101a26c3b0cfc35bec32677afc886315cf4082ead6bace727acb1a41, CRCpass. Actual bounded retrieval p-025#B0183–0257 and p-027#B0040–0082 checks the mother's departure/trial/scar context and Ram's explicit statement that Garfiel is fourteen that year. The ten-year references concern the earlier trial/scar experience, not an independently certified maternal-departure date. V17's agefifteen is compatible with the common year; no exact birthday, retcon, second departure or invented full chronology is supplied. This is not a complete V13 reread, new source admission or alteration of its frozen reading. Ram's separate OPEN chronology and currentC116/M344's Frederica-subject correction stay binding.
+
+### Exact entering source-state summary — historical Ferris16 boundary
+
+````````markdown
 ## Current source-state summary
 
 - **Acquired/admitted Japanese main LN:** V01–V43 continuous; V41 bounded replacement unchanged.
@@ -698,3 +722,16 @@ The V16freeze§1 owns complete member coverage/locator convention. Private recei
 - **Derived-use source reconciliation:** Ferris revisits51bounded Japanese deliveries/3560uniqueTEXTpositions/154558characters in already-consumed V04/V05/V06/V07/V08/V09/V10/V12/V16, original hashes/CRC checked, no image/duplicate credit. One initially context-truncated V07 delivery was reread completely in two contiguous windows before its single credit. This is not nine fresh complete novel rereads, new admission, changed original or additional current narrative claim generation. Source high-water remainsV16; all39older artifacts/five owners/current340claims/formal/reserved tails and exact V17seal remain protected. Earlier Crusch reconciliation remains historical.
 - **Current execution:** active continuous terminalV43; E019 alive after square death18/19segments. Common year/travel/family history survives, later atrocity Subaru-only; narrator short-point timing not yet recognized by him. No decodedWrath, complete family repair, crystal/Puck/Rem/Gate result or full campRBD. Award/medal now retrospectively confirmed without exact enrollment/date/type.
 - **Source admission and acquisition priority:** unchanged43-original lock/V41exception; V44/V45 acquisition before authorized boundary is reached, not done here. New metadata/report does not admit unread works. V17+/nonspine/new import narratives remain unopened.
+````````
+
+## Current source-state summary
+
+- **Acquired/admitted Japanese main LN:** V01–V43 continuous; the bounded V41 replacement is unchanged.
+- **Known dated published but unadmitted gaps:** V44–V45; no new complete-to-date or freshness claim.
+- **Admitted translation/supplement/EX/IF/WN/anime:** none. Retained EnglishV21/archivedV31 remain nonadmitted/unopened.
+- **Consumed source-facing horizon:** V01–V17 Japanese main LN. V17 full text/image/navigation/ruby consumption and371claim adjudication are complete; its atomic publication gate is still required. The map retains verified committedV16 until actual V17 gate closure. All eleven older model/review full gates, latest Ferris38bfed01, are closed and their scopes/defaults/local grades remain exact.
+- **Next analytical operation:** MIMI_V01_V17_MODEL_AND_FIDELITY_REVIEW only after V17's complete publication gate; construction and separate actually applied nineteen-dimension fidelity review/own full gate must precede V18. Readiness is earned, not an existing model or grade.
+- **Next unread main source:** V18, against exact60Q/10P body15685UTF-8bytes/SHA3cb3c253cb4ea264a72b9dc376c6d40f7aec608648c5e5a2fac97a229bcbac7d. Derived retrieval cannot silently rewrite it or add a later primary unit.
+- **Current execution:** active continuous terminalV43; E021/20observed deaths21arrived segments. Subaru's severed right thigh/applied black blood/flame aftermath and Emilia's coercive captivity are unresolved; Garfiel's prior-day family backfill adds no reset. Mimi is alive/unconscious under critical wound treatment, not cured or available for a new default reply.
+- **Source/claim controls:**41older protected artifacts/eleven pairs keep exact bytes/defaults/local grades; all prior prospective freezes survive. Ram chronologyOPEN, C116/M344 Frederica-subject correction, Garfiel's targeted chronology distinction and Roswaal's source/recipient/agency qualifiers remain operative. V17 reconciliation is not inherited independent/runtime/global fidelity.
+- **Acquisition priority and exclusions:** unchanged43-original lock/V41exception; V44/V45 acquisition remains outside this operation and does not automatically extend authorizedV43. V18+/nonspine/new import narratives remain unopened; metadata/report is not admission.

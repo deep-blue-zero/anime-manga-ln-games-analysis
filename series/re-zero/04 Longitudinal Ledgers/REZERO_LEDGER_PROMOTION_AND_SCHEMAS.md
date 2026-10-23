@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: ledger_architecture
 scope: LONGITUDINAL_LEDGER_PROMOTION_AND_SCHEMA_CONTRACT
-generation: V0.29
+generation: V0.30
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -24,7 +24,7 @@ At the project-initiation architecture-repair boundary after the V02 freeze, the
 
 `REZERO_MASTER_LONGITUDINAL_LEDGER.md`
 
-The master was backfilled from frozen V01/V02 and now advances through the fully gated V16 source boundary without rewriting earlier freezes. It owns claims/person/ordinary/Japanese/prospect/readiness; institutionV04, event/knowledgeV06, mechanicsV07 and relationshipV09 remain five soleowners. Ten prior model/review pairs including Crusch16 retain exact scopes/defaults/local documentary grades and complete gates. Ferris V01–V16 now has its integrated model and separate actually applied nineteen-dimension same-analyst nonblind documentary PASS_WITH_BOUND; its own full publication gate remains before sealed V17. Earlier reviews below preserve their named phase decisions, not current defaults. No field contract changes.
+The master was backfilled from frozen V01/V02 and now holds the synchronized V17 source-facing candidate under its own complete publication gate. It owns current371claims/person/ordinary/Japanese/prospect/readiness; institutionV04, event/knowledgeV06, mechanicsV07 and relationshipV09 remain five sole owners. V16 and all eleven earlier model/review pairs, latest Ferris16 at38bfed01, have closed gates and retain exact scopes/defaults/local documentary grades. Mimi V01–V17 construction/separate actually applied review is qualitatively earned, not implemented or graded; after V17 full gate, its own complete operation/gate precedes V18. Earlier reviews below preserve historical phase decisions, not current defaults or reopened gates. No field contract changes; exact formal/reserved tails remain.
 
 The following candidate sections now define responsibilities that may later split out of the master ledger when independent retrieval/revision burden warrants specialization. They are not unpromoted gaps and do not authorize parallel competing homes.
 
@@ -111,6 +111,18 @@ The [Ferris model](../05%20Character%20Analysis/REZERO_FERRIS_FELIX_ARGYLE_V01_V
 Useful bodily care and finite clinical resources, coercion and value judgments, protective intention and refused substitution, prior-treatment power conditions and unproved informed disclosure fit existing fields. Discarded care/terminal harm, changed operation, Rem erasure, memoryless Crusch, unmarked lateV09 timing and qualified trial depictions require existing event/knowledge/relationship conditioning, not a new axis or owner. Default is latest V16 interrupted-breakfast aftermath, no clinical refusal or invented E019 placement.
 
 All39older artifacts/ten prior full-gated pairs/five owners/master§§2–12/340claims/formal and reserved tails/exact V17 prospect remain unchanged. Ferris16's own complete gate precedes V17; no new source, field contract, sixth ledger, competing evidence/ordinary/voice/readiness home, global grade or routine pause.
+
+### Post-V17 current ownership and unchanged field-contract review
+
+E021/K601/M382/I325/R125/RT288 fit existing fields. Twenty observed deaths/21arrived segments distinguish failed solo rescue, shared bisection and present unresolved assault; the hospital/captive waking and Garfiel prior-day backfill add no reset. New56K/37M/31I/21R/49RT,28changedR with exact preimages/76stableR/239oldRT exact are evidence/state increments, not a reason by count to invent another ledger.
+
+V17's340individual claim dispositions218PRESERVE/94STRENGTHEN/20REVISE/8OPEN+31NEW make371current claims. All60incoming questions/10forecasts are separately adjudicated; exact entering340body/incoming V17 prospect remain historical. Outgoing V18body60Q/10P/15685bytes/SHA3cb3c253cb4ea264a72b9dc376c6d40f7aec608648c5e5a2fac97a229bcbac7d is fixed before later source/derived work. Holder distinctions, consent/power, selective resistance, physical care/analgesia, partial form and transformed victims' personhood all use existing fields with named source/recipient/cost bounds.
+
+Ordinary play/hospitality/food, chosen-family report, received comfort and changing touch/proximity remain master§10; actual Japanese speakers/readings/alias counterexamples remain master§11. Mimi's qualitative construction trigger belongs to master§13/protocol§18, not a new readiness owner, source admission, existing grade or new formal fidelity dimension. Garfiel's V17 bounded reconciliation does not rewrite his V10–V15 pair, and all41older artifacts/eleven pairs remain exact. Ram chronologyOPEN/C116-M344 Frederica-subject control/Roswaal qualifications stay operative.
+
+Measured master growth requires six old §3 snapshots, V12–V07, to move verbatim into the existing changelog with original-heading routers and inverse/native-byte checks. Current/entering claim bodies, both seals and the entire prior append-only§14prefix remain preserved. This is historical storage, not a sixth owner, claim index or file-limit exception. No independent ordinary/voice/readiness/index maintenance burden, new field, final specialist or Arc5-end checkpoint is earned.
+
+V17 full publication gate → Mimi V01–V17 model/separate actually applied nineteen-dimension review/own complete gate → V18. Continuous activeV43/no routine pause and unchanged43-original source lock/V41exception/datedgaps remain. The entire registered candidate/schema tail below is byte-unchanged.
 
 ### Registered exact candidate homes
 
