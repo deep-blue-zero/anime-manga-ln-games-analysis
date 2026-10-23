@@ -5,7 +5,7 @@ scope: JP_LIGHT_NOVEL_V01-V12_PLUS_STORY_LOCAL_V06_5_AND_V08_5
 source_boundary: "Locked Japanese main V01–V12 plus story-local V06.5/V08.5; historical audit 2026-08-29 and separately corrected/admitted V12 witness 2026-10-22"
 analytical_boundary: V12_SOURCE_END_CURRENT_OVERLAY_WITH_HISTORICAL_V11_STATE
 analytical_generation: V2_REMEDIATION
-generation: V1.2_V12
+generation: V1.3_COVERAGE_PRECISION
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -199,7 +199,7 @@ Maintenance is therefore neither trivial nor automatically reparative. It can pr
 | Field or system | Achieved state | Current fracture, missing rule, or unresolved responsibility | Confidence |
 |---|---|---|---|
 | **school friendship network** | Years of ordinary contact, crisis work, romance mediation, festival production, and shared care create durable differentiated ties. | Third-year course separation and Hinami's absence remove passive repair opportunities; the group disagrees about blame and intervention; no standing crisis process exists. | HIGH |
-| **class atmosphere** | Earlier hostility ceased; Tama gained legibility and refusal capacity; former antagonists returned to ordinary participation; festival work became possible. | No later evidence establishes acknowledgment, restitution, a durable anti-bullying norm, or repaired Konno/Akiyama/Tama trust. Political peace remains the last demonstrated accountability state. | HIGH |
+| **class atmosphere** | Earlier hostility ceased; Tama gained legibility and refusal capacity; former antagonists returned to ordinary participation; festival work became possible. | Akiyama and other group members briefly apologize to Tama in V05 after Konno leaves (§18). Full acknowledgment of participation, Konno's own apology, restitution, a durable anti-bullying norm and repaired trust remain unestablished; political peace does not complete accountability. | HIGH |
 | **status and reputation system** | Reputations are shown to be accumulated, revisable priors that allocate attention, credibility, and response costs. Tomozaki, Tama, Yuzu, and others acquire new public standing through repeated action. | Stored reputations still simplify persons; Hinami's public excellence becomes both access and burden; high-status framing can still outrun informed consent. | HIGH |
 | **Hinami's public-role network** | Her work produced real gratitude, practices, council continuity, and admired routes for others. | Her governing reason collapses; she stops school and council work without normal handoff. Beneficiaries' reliance does not oblige her to continue performing. | HIGH on effects; OPEN on return |
 | **student-council/event continuity** | Mimimi and peers assume unfinished work and preserve an event despite Hinami's absence; Mimimi's improvisation creates audience value. | Substitution keeps the institution functioning but does not repair Hinami, settle role succession, or show sustainable burden allocation. | HIGH / bounded |
@@ -326,14 +326,14 @@ This result must be decomposed:
 | reverse persecution of Konno | stops after Tama's intervention |
 | Tama's class reception | materially improves |
 | Konno's ordinary peer participation | later resumes, aided by Yuzu |
-| acknowledgment of harm | not demonstrated |
-| apology to Tama | not demonstrated |
+| acknowledgment of harm | brief Akiyama/group apology is direct; full participation/responsibility account and Konno acknowledgment remain unestablished (§18) |
+| apology to Tama | Akiyama and other group members directly apologize after Konno leaves; no Konno apology shown (§18) |
 | restitution for the destroyed strap | not demonstrated |
 | Akiyama's full participation/account | unresolved |
 | formal institutional resolution of the harassment | not demonstrated; distinguish the earlier V04 teacher's local questioning of coerced role acceptance |
 | general anti-bullying rule or future procedure | not demonstrated |
 
-The correct state is **cessation plus re-entry, without completed justice**.
+The correct state is **cessation, brief Akiyama/group apology and re-entry, without completed justice**. The attributable source correction and earlier generic negative are preserved in §18.
 
 Yuzu is central to that distinction. She repairs the strap, monitors Hinami, follows the fallen Konno when others do not, and helps her regain ordinary peer life. This is valuable maintenance and a barrier against permanent expulsion. It also permits the class to function without forcing responsible actors to complete acknowledgment or restitution.
 
@@ -538,7 +538,7 @@ These states must be recorded separately:
 | **functional coexistence** | people can share space or project work again | Konno/Akiyama group and class function in V06–V07 |
 | **re-entry** | a fallen/excluded person resumes ordinary participation | Yuzu helps Konno return to her group |
 | **acknowledgment** | responsible actor names conduct and responsibility | not demonstrated for Konno→Tama or Akiyama's full role |
-| **apology** | recipient-directed recognition and regret | not demonstrated in the controlling class case |
+| **apology** | recipient-directed recognition and regret | direct for Akiyama/other group members toward Tama after Konno leaves; no Konno apology established (§18) |
 | **restitution** | material or symbolic loss is addressed by an accountable party | destroyed strap is repaired by Yuzu, not shown restituted by its destroyer |
 | **trust repair** | altered practice makes future reliance reasonable | not demonstrated across Konno/Akiyama/Tama |
 | **norm/institution repair** | group or institution adopts a rule/procedure against recurrence | not demonstrated |
@@ -601,7 +601,7 @@ These gaps are not narrative invitations to supply the most convenient answer. T
 | **SOC-C08** | Changing the target changes the punitive mechanism. | **REJECT.** Grievance, moral license, distributed attack, and reply-cost reproduce when Konno replaces Tama as the authorized target. | V05 §§8–10 |
 | **SOC-C09** | Hinami alone controls the V05 crowd outcome. | **REVISE.** She intentionally engineers and escalates key cues; Konno and Akiyama retain agency; accumulated resentment enables distributed attack that exceeds singular control. | V05 §§8–9 |
 | **SOC-C10** | Tama's adaptation validates victim-borne accommodation as the solution to bullying. | **REJECT.** Her owned adaptation expands communicative reach, but the coercive field is unfair, early restraint increases victim cost, and institutional/accountability gaps remain. | V05 §§4–6, 10 |
-| **SOC-C11** | The V05 ending completes justice. | **REJECT.** It achieves cessation, changed reception, and re-entry without demonstrated acknowledgment, apology, restitution, safeguard, or trust repair. | V05 §§10–11; V06 §6 |
+| **SOC-C11** | The V05 ending completes justice. | **REJECT closure / REVISE apology baseline (§18).** Cessation, changed reception, brief Akiyama/group apology and re-entry are direct. Full accounting, Konno apology, restitution, safeguard and durable trust remain unestablished. | V05 §§10–11; exact text/part0028.html P2–25; V06 §6 |
 | **SOC-C12** | Konno's later help and festival participation prove moral repair. | **REJECT.** Prosocial capacity is direct and should be preserved; it is not recipient-directed accountability for prior harm. | V06.5 §11; V07 §14.4 |
 | **SOC-C13** | Yuzu's maintenance is either passive conformity or complete repair. | **REVISE.** Much of it is chosen, skilled agency that preserves affiliation and projects; it can also absorb consequences and invite an unbounded facilitator burden. | V04 §6; V05 §11.4; V06 §6; V10 §5.5; V11 §5.7 |
 | **SOC-C14** | Formal public roles are fake masks opposed to authentic selfhood. | **REJECT.** Election, festival, council, game-community, and performance roles can become owned capacities with real consequences. Compulsory universality and overload remain distinct risks. | V02 §8; V06 §§8–11; V07 §§10–11; V11 §§4.3–4.4 |
@@ -697,7 +697,7 @@ Primary route: `TOMOZAKI_V08_5_SUPPLEMENTAL_READING.md` §6 “Story-local evide
 
 #### Class harm and accountability
 
-- Do Konno or Akiyama ever acknowledge their specific conduct, apologize, or make restitution?
+- Beyond Akiyama/group’s brief V05 apology, is full conduct/participation acknowledged, restitution made or trust repaired; does Konno herself apologize?
 - Does Tama receive any choice in what repair would count for her?
 - Has the class acquired a durable norm against covert harassment and reverse persecution, or only a memory of one stopped event?
 - Would the acquired interpretive prior protect Tama during a new high-cost disagreement?
@@ -998,3 +998,11 @@ This current overlay feeds the six-owner atomic transaction and later social-sys
 ### V1.2 — 2026-10-22 — V12 source-facing extension
 
 Updated only the declared current metadata/title/routing, retained earlier chronological argument and SOC-C01–22, and added §17 with source-grounded current adjudication. The original V1.0/V1.1 history and accepted R01 attribution corrections remain unchanged. Full V12 consultation is complete; acceptance of the combined six-owner transaction and repository/publication validation remain with the integrating author.
+
+## 18. Coverage-audit correction — apology is an act, not a completed justice system
+
+**2026-10-23; REVISE current generic negatives; preserve SOC-C11's rejection of completed justice.** V05 `text/part0028.html` P2–6/P16–25 was independently read by the middle-bucket reviewer and integrating author in the verified Japanese V05 witness (`f43355c286c8b33db529febb6389cb08fa9ef5a65a7e13e3c2a8490214965e89`). Konno has left before Akiyama apologizes at P17–18; other group members apologize at P19. Tama's weighty acknowledgment at P21–24 and the class response at P25 do not establish a full confession, restitution, blanket forgiveness, institutional procedure or guarantee of future trust. Qualified forgiveness is not ruled out by the absence of a light dismissal.
+
+Earlier §5.5 cells said “acknowledgment of harm | not demonstrated” and “apology to Tama | not demonstrated”; §8's taxonomy and SOC-C11 repeated a generic no-apology result. Those formulations were too broad. They are corrected above with this dated revision history. The §3/open-question shorthand is narrowed accordingly. Konno's own apology remains unshown; Akiyama's full participation and durable accountability remain OPEN. Yuzu's strap repair and re-entry work do not become aggressor restitution. Useful Konno conduct in V06.5/V07 remains genuine without inheriting Akiyama's act.
+
+The full-witness V12 finding remains **NO NEW RELEVANT ACCOUNTABILITY TEST**; final reunion supplies no missing earlier remedy. This correction changes the retrospective baseline, not the V12 event register or any immutable reading. Neighboring character/claim owners and current-map summary carry the same actor-specific formulation. All twenty-two SOC identities remain intact; no claim of completed coverage, R06 maturity, specialist convergence or release follows from this local repair.

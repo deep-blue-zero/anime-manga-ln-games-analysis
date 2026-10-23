@@ -5,7 +5,7 @@ scope: GIT_NATIVE_ANALYTICAL_ROOT
 source_boundary: "Admitted Japanese main V01-V12 plus separately routed V06.5/V08.5; historical audit 2026-08-29 and additive V12 admission 2026-10-22; analytical high-water mark V12"
 source_audit_date: 2026-08-29
 source_admission_date: 2026-10-22
-generation: V2.8_V12_COMPLETION
+generation: V2.9_COVERAGE_AUDIT_ACTIVE
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -178,7 +178,7 @@ The volume also exposes the ethical and systemic limits of local optimization. T
 
 V05 rejects a universal-deficit reading of Tama. Her expressive fundamentals already exceed Tomozaki's; the copied drills fail until the training is rebuilt around her actual strengths, limited curiosity about classmates, recipient fit, settled public character, and the exceptional cost of failure under harassment. The resulting curriculum is genuinely distributed across Tama, Tomozaki, Mizusawa, Takei, Mimimi, and Kikuchi. Tama changes delivery, relational orientation, and public legibility while retaining the governing reason and evaluative core of her action.
 
-The climax tests that distinction. Hinami precisely engineers Konno's overreach and public collapse by using grievance, directional ambiguity, class resentment, and Konno's romantic wound. The class converts justified grievance into licensed retaliation and makes Konno the substitute target. Tama uses her newly trained interface to transmit the same principle she held before training: collective attack remains wrong even when its target has done wrong. The immediate harassment stops and Yuzu helps Konno re-enter ordinary peer life, but no apology, restitution, institutional response, or durable systemic safeguard is shown. V05 therefore establishes cessation and partial repair rather than completed justice.
+The climax tests that distinction. Hinami precisely engineers Konno's overreach and public collapse by using grievance, directional ambiguity, class resentment, and Konno's romantic wound. The class converts justified grievance into licensed retaliation and makes Konno the substitute target. Tama uses her newly trained interface to transmit the same principle she held before training: collective attack remains wrong even when its target has done wrong. The immediate harassment stops. After Konno leaves and Yuzu follows, Akiyama and other group members directly apologize to Tama, whose weighted assent is not blanket forgiveness. Yuzu helps Konno re-enter ordinary peer life. Konno’s own apology, full responsibility accounting, restitution, institutional response and durable safeguards remain unestablished. The dated retrospective correction is owned by [CRI §19](03%20Longitudinal%20Ledgers/TOMOZAKI_CLAIM_REVISION_AND_EVIDENCE_INDEX.md#19-retrospective-correction-to-the-class-accountability-baseline--2026-10-23), source V05 `text/part0028.html` P2–25. Cessation, apology and re-entry remain distinct from completed justice.
 
 V05 also retests Mizusawa's owned desire after rejection: he acts, accepts risk, discloses his continuing feeling, and refuses to extract privileged information about Hinami from Tomozaki. Kikuchi's forward movement becomes broader social participation and independent interpretive contribution. Tomozaki functions as a team-supported teacher and leader, wants to know Hinami more deeply, and has not yet demonstrated whether understanding her will include confronting her method. The exact evidence, supplemental routing, claim adjudications, abstentions, and V06 freeze are in `02 Sequential Readings/TOMOZAKI_V05_DEEP_READING.md`.
 
@@ -403,7 +403,7 @@ At the V12 boundary this project deliberately does **not** claim:
 - that Rena has durably reformed or respects consent, relationship, age, message, or contact boundaries because Tomozaki removes her touch and Kikuchi objects;
 - that Mizusawa's delayed opportunity is withdrawal, surrender, or a terminal pursuit rule;
 - that Yuzu's facilitation is costless or establishes her absorber limit;
-- that Konno or Akiyama acknowledged harm, offered restitution, or adopted durable accountability;
+- that Konno supplies her own apology, that Akiyama/group’s actual brief V05 apology establishes full responsibility accounting, or that either actor offers restitution or adopts durable accountability;
 - that the commissioned game is commercially licensed or distributable beyond the described private use;
 - that the promotional barter proves professional status, sponsorship income, sustainable economics, advertising compliance, or a viable career;
 - that the three-month follower promise succeeds or the agreement has adequate written and termination protections;
@@ -425,4 +425,4 @@ Those claims require later source-grounded work.
 
 ## 10. Current next action
 
-**Complete actual repository validation/publication of this atomic V12 candidate, then begin the fourteen-witness character-evidence/omission audit. Continue automatically through R06, targeted updates of four accepted monographs, the three central relationship specialists, ensemble/Mimimi–Tama responsibility and seven themes, adversarial convergence, full-series synthesis LAST, literary release and justified derived models. The completed/NONE run fields authorize no further source. Global discovery/capability outputs remain specialist-owned; formal terminal sealing requires its separately authorized owner-merged governance transaction.**
+**V12 source transaction was validated and published at `406b26c4591a9bce99c83a54600286f56a35678e` in PR 288 with exact-head audit SUCCESS; the later repository reconciliation and its new-head audit are tracked in the [completion audit §6.5](08%20Audits%20and%20Manifests/TOMOZAKI_V12_SEQUENTIAL_COMPLETION_AUDIT.md#65-published-source-transaction-and-later-reconciliation--2026-10-23). The fourteen-witness character-evidence/omission audit is active; local findings are being independently integrated and do not yet certify aggregate completeness. Continue automatically through R06, targeted updates of four accepted monographs, the three central relationship specialists, ensemble/Mimimi–Tama responsibility and seven themes, adversarial convergence, full-series synthesis LAST, literary release and justified derived models. The completed/NONE run fields authorize no further source. Global discovery/capability outputs remain specialist-owned; formal terminal sealing requires its separately authorized owner-merged governance transaction.**
