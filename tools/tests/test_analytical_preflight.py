@@ -36,8 +36,7 @@ def entry(path: str, data: bytes) -> SnapshotEntry:
 
 
 def fixture(*, new_root: bool = True) -> GitSnapshot:
-    state_path = "governance/AUTHORITY_STATE.yaml"
-    entries = {state_path: entry(state_path, b"state: GIT_ACTIVE_ACCEPTED\n")}
+    entries = {}
     for namespace, schema in (
         ("series", "anime-manga-ln-games-analysis/series-registry/v2"),
         ("studies", "anime-manga-ln-games-analysis/study-registry/v1"),
@@ -280,8 +279,13 @@ class AnalyticalPreflightTests(unittest.TestCase):
             env=environment, capture_output=True, check=True,
         )
 
-    def stage_cli_fixture(self, root: Path, environment: dict[str, str], candidate: GitSnapshot) -> None:
-        """Make the clone's index exactly `candidate`, normalize its baseline, then add the synthetic root."""
+    def stage_cli_fixture(self, root: Path, environment: dict[str, str], candidate: GitSnapshot,
+                          *, pin_main: bool = False) -> None:
+        """Make the clone's index exactly `candidate`, normalize its baseline, then add the synthetic root.
+
+        With `pin_main`, the normalized candidate becomes the clone's main, so
+        the staged delta models a series branch carrying only the synthetic root.
+        """
 
         cloned = GitSnapshot.from_index(root)
         candidate_paths = sorted(
@@ -313,6 +317,20 @@ class AnalyticalPreflightTests(unittest.TestCase):
         if changed:
             subprocess.run(
                 ["git", "-C", str(root), "add", "--", *changed],
+                env=environment, capture_output=True, check=True,
+            )
+        if pin_main:
+            identity = dict(
+                environment,
+                GIT_AUTHOR_NAME="deep-blue-zero", GIT_AUTHOR_EMAIL="50891441+peipw@users.noreply.github.com",
+                GIT_COMMITTER_NAME="deep-blue-zero", GIT_COMMITTER_EMAIL="50891441+peipw@users.noreply.github.com",
+            )
+            subprocess.run(
+                ["git", "-C", str(root), "commit", "-q", "--allow-empty", "--no-verify", "-m", "fixture main"],
+                env=identity, capture_output=True, check=True,
+            )
+            subprocess.run(
+                ["git", "-C", str(root), "update-ref", "refs/remotes/origin/main", "HEAD"],
                 env=environment, capture_output=True, check=True,
             )
         source = fixture()
@@ -385,7 +403,7 @@ class AnalyticalPreflightTests(unittest.TestCase):
             # A local full gate runs before commit: overlay its exact staged
             # candidate so nested CLIs do not accidentally test the old HEAD.
             self.clone_checkout(root, environment)
-            self.stage_cli_fixture(root, environment, GitSnapshot.from_index(TOOLS.parent))
+            self.stage_cli_fixture(root, environment, GitSnapshot.from_index(TOOLS.parent), pin_main=True)
             command = [
                 sys.executable, str(root / "tools/validate_repository.py"),
                 "--phase", "current", "--snapshot", "index", "--repo", str(root),

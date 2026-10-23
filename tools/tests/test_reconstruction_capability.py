@@ -60,6 +60,7 @@ from validate_repository import (  # noqa: E402
     validate_audit_workflow,
     validate_discovery_branch_confinement,
     validate_reconstruction_domain,
+    validate_routing_branch_scope,
 )
 
 
@@ -1459,10 +1460,10 @@ class IntegrationControlTests(unittest.TestCase):
         source = (REPOSITORY / path).read_bytes()
         line = b"      - character-reconstruction\n"
         self.assertIn(line, source)
-        self.assertIn(
-            b"startsWith(github.ref_name, 'series/') || startsWith(github.ref_name, 'studies/')",
-            source,
-        )
+        # The reporter publishes the validator's state for every branch; only stale
+        # routing on an analysis branch is pending, so this branch never waits on housekeeping.
+        self.assertNotIn(b"ANALYTICAL_SOURCE", source)
+        self.assertIn(b"state = integration\n", source)
         changed = source.replace(line, b"", 1)
         snapshot = GitSnapshot(REPOSITORY, "IN_MEMORY", {path: SnapshotEntry(path, "100644", changed)})
         failures = validate_audit_workflow(snapshot, {"allowed_workflows": [path]})
@@ -1741,9 +1742,10 @@ class DiscoveryBranchConfinementTests(GitRepositoryFixture):
                 self.assertIn(
                     "repository-audit workflow missing required contract: " + fragment.decode(), failures
                 )
-        housekeeping = (REPOSITORY / ".github/workflows/global-index-housekeeping.yml").read_text(encoding="utf-8")
-        for output in DISCOVERY_OUTPUTS:
-            self.assertIn(f'"{output}"', housekeeping)
+        # An analysis branch may still carry a coordinated two-file curation repair.
+        self._edit_discovery()
+        head = self._commit("coordinated repair", "characters/registry.jsonl", "CHARACTER_ANALYSIS_INDEX.md")
+        self.assertEqual(validate_routing_branch_scope(self.repository, "commit", head, "series/example"), [])
 
 
 if __name__ == "__main__":

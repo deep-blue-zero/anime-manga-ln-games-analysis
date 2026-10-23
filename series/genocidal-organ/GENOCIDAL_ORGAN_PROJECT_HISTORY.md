@@ -79,7 +79,7 @@ The transformed EPUB's acquisition/edition lineage and publisher-master equivale
 
 This root owns one prose novel. The other Project Itoh novel remains an independent source-facing context; common authorship establishes no shared fictional continuity or argument. Source payload stays outside Git, and no comparison study or global curation/governance record is authored here.
 
-Live [AGENTS](../../AGENTS.md), [authority state](../../governance/AUTHORITY_STATE.yaml), [scope](../../governance/AUTHORITY_SCOPE.json), [routing](../../governance/CHATGPT_AUTHORITY_AND_ROUTING.md), [initiation](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md), [continuation](../../governance/source-policies/MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY.md) and [integration checklist](../../governance/policies/CHANGE_INTEGRATION_CHECKLIST.md) govern. Global routing/character curation and owner-controlled integration retain their own authority.
+Live [AGENTS](../../AGENTS.md), [authority state](../../governance/archive/migration/AUTHORITY_STATE.yaml), [scope](../../governance/archive/migration/AUTHORITY_SCOPE.json), [routing](../../governance/AGENT_ROUTING.md), [initiation](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md), [continuation](../../governance/source-policies/MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY.md) and [integration checklist](../../governance/policies/CHANGE_INTEGRATION_CHECKLIST.md) govern. Global routing/character curation and owner-controlled integration retain their own authority.
 
 
 <a id="go-g3-current-studies"></a>

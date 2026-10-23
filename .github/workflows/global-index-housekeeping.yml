@@ -6,6 +6,9 @@ on:
       - Repository audit
     types:
       - completed
+    branches:
+      - "series/**"
+      - "studies/**"
 
 permissions:
   contents: write
@@ -28,7 +31,6 @@ jobs:
     env:
       BRANCH_NAME: ${{ github.event.workflow_run.head_branch }}
       SOURCE_SHA: ${{ github.event.workflow_run.head_sha }}
-      SOURCE_AUDIT_CONCLUSION: ${{ github.event.workflow_run.conclusion }}
       GH_TOKEN: ${{ github.token }}
       PIP_DISABLE_PIP_VERSION_CHECK: "1"
       PYTHONDONTWRITEBYTECODE: "1"
@@ -39,13 +41,7 @@ jobs:
         run: |
           set -euo pipefail
           echo "ready=false" >> "${GITHUB_OUTPUT}"
-          if [[ "${BRANCH_NAME}" =~ ^series/([a-z0-9][a-z0-9-]*)$ ]]; then
-            namespace="series"
-            slug="${BASH_REMATCH[1]}"
-          elif [[ "${BRANCH_NAME}" =~ ^studies/([a-z0-9][a-z0-9-]*)$ ]]; then
-            namespace="studies"
-            slug="${BASH_REMATCH[1]}"
-          else
+          if [[ ! "${BRANCH_NAME}" =~ ^(series|studies)/[a-z0-9][a-z0-9-]*$ ]]; then
             echo "FAIL: branch is outside the stable analytical branch contract" >&2
             exit 1
           fi
@@ -60,40 +56,8 @@ jobs:
           fi
           test "$(git rev-parse --is-shallow-repository)" = "false"
           git checkout --detach "${SOURCE_SHA}"
-          if ! git merge-base --is-ancestor origin/main HEAD; then
-            echo "FAIL: incorporate current main before housekeeping can finalize this branch" >&2
-            exit 1
-          fi
-          python - "${namespace}" "${slug}" <<'PY'
-          import subprocess
-          import sys
-
-          namespace, slug = sys.argv[1:]
-          # Branches may carry agent-authored character repairs for coordinated integration.
-          # These two files are read-only to housekeeping; only five outputs may be written.
-          allowed_branch_globals = {
-              "CHARACTER_ANALYSIS_INDEX.md",
-              "characters/registry.jsonl",
-              "governance/MANGA_ANIME_CORPUS_INDEX.md",
-              "series/README.md",
-              "series/registry.json",
-              "studies/README.md",
-              "studies/registry.json",
-          }
-          allowed_prefix = f"{namespace}/{slug}/"
-          changed = subprocess.check_output(
-              ["git", "diff", "--name-only", "-z", "origin/main...HEAD", "--"]
-          )
-          bad = sorted(
-              path
-              for raw in changed.split(b"\0")
-              if raw
-              for path in [raw.decode("utf-8", "strict")]
-              if path not in allowed_branch_globals and not path.startswith(allowed_prefix)
-          )
-          if bad:
-              raise SystemExit(f"FAIL: analytical branch contains out-of-scope paths: {bad}")
-          PY
+          # The source audit already confined the branch to its root, the five
+          # routing outputs and the two discovery outputs.
           echo "ready=true" >> "${GITHUB_OUTPUT}"
 
       - name: Install hash-locked validation dependencies
@@ -156,23 +120,13 @@ jobs:
               raise SystemExit(f"FAIL: automation staged a prohibited path: {unexpected}")
           PY
           if git diff --cached --quiet HEAD --; then
-            if [[ "${SOURCE_AUDIT_CONCLUSION}" != "success" ]]; then
-              echo "FAIL: source audit failed and no allowlisted generated repair exists" >&2
-              exit 1
-            fi
-            remote_sha="$(git ls-remote --heads origin "refs/heads/${BRANCH_NAME}" | cut -f1)"
-            if [[ "${remote_sha}" != "${SOURCE_SHA}" ]]; then
-              echo "::notice::Superseded before no-op certification; no final audit was dispatched."
-              exit 0
-            fi
-            remote_main="$(git ls-remote --heads origin refs/heads/main | cut -f1)"
-            if [[ "${remote_main}" != "$(git rev-parse origin/main)" ]]; then
-              echo "::notice::Main advanced before no-op certification; reconcile and audit again."
-              exit 0
-            fi
-            dispatch_exact_audit "${SOURCE_SHA}"
-            echo "PASS: unchanged routing and branch boundaries verified; final audit dispatched"
+            echo "PASS: routing outputs are current; the source audit already reported this exact head"
             exit 0
+          fi
+          # Routing outputs list every root, so they are regenerated only on a branch that contains current main.
+          if ! git merge-base --is-ancestor origin/main HEAD; then
+            echo "FAIL: incorporate current main before housekeeping can regenerate routing outputs" >&2
+            exit 1
           fi
           python tools/prepare_commit.py --base origin/main --check --full
           export GIT_AUTHOR_NAME="deep-blue-zero"
