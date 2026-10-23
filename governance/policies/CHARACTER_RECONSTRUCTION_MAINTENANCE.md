@@ -13,13 +13,13 @@ The evaluator decides what an exact, commit-bound evidence set can responsibly s
 
 The two-file boundary applies to the evaluator's authored delta. It grants no authority to modify `characters/registry.jsonl`, `CHARACTER_ANALYSIS_INDEX.md`, analytical prose, evidence or authority metadata, schemas, tools, workflows, other registries, governance records, or Drive files. The repository validator enforces the boundary mechanically: a delta that changes either production output may change no other path unless the same reviewed change also amends `governance/repository-controls/reconstruction-capability-policy.json`, which only an owner-reviewed governance change may do.
 
-The recurring task runs in a cloud environment with Git, Python, the hash-locked validation dependencies, and authenticated GitHub access. Its schedule and credentials are configured externally by the owner. This policy does not install, schedule, or activate a task.
+The evaluator follows the shared rules for scheduled agents in `../../AGENTS.md`.
 
 ## Publication phases
 
 `governance/repository-controls/reconstruction-capability-policy.json` is the machine-readable publication gate.
 
-- `CALIBRATION` is the initial phase. The registry may hold only `CANDIDATE` records and their `STALE` or `SUPERSEDED` history. `REVIEWED` is rejected by validation. No evaluator PR is automatically integrated; the owner reviews and merges every publication.
+- `CALIBRATION` is the initial phase. The registry may hold only `CANDIDATE` records and their `STALE` or `SUPERSEDED` history. `REVIEWED` is rejected by validation. The merge gate leaves every reconstruction PR for the owner, who reviews and merges each publication.
 - `ROUTINE` begins only through an owner-reviewed governance change that records calibration acceptance under `governance/reports/` and names that record in `calibration_acceptance_record`. The evaluator cannot make this change.
 
 Production never admits `UNASSESSED` placeholder records. Eligible-but-unassessed state is derived from the discovery registry and the absence of a capability record; manufacturing records to populate the registry is prohibited.
@@ -56,7 +56,7 @@ python tools/reconstruction_status.py currentness --snapshot commit --commit <fu
 
 ## Inputs and Git-derived work discovery
 
-Before each run, read the live repository instructions, authority records, integration checklist, this policy, the specification and schema, `characters/README.md`, and the discovery maintenance policy. Verify repository identity and approved commit identities.
+Before each run, read the live repository instructions, integration checklist, this policy, the specification and schema, `characters/README.md`, and the discovery maintenance policy. Verify repository identity and approved commit identities.
 
 Capture the full current `main` SHA. Derive all work from integrated Git state at that SHA:
 
@@ -149,34 +149,20 @@ The readiness gate for `ROUTINE` is an owner-accepted calibration record under `
 
 ## Discovery and reconstruction referrals
 
-Work discovery is Git-derived. Referrals are prioritization hints only and never authority to publish, promote, or enroll anything.
-
-- **From discovery.** An existing discovery PR description may contain a section titled `Reconstruction referrals (advisory, nonauthoritative)` naming the exact subject, the reviewed evidence references, the relevant basis commit, the material analytical change, apparent limits or gaps, and why a review may help. The evaluator may read such sections in PRs merged since its checkpoint and pass the subjects as `--hint` values. A referral cannot add a subject the queue does not already contain.
-- **To discovery.** If the evaluator finds substantial character analysis that is not enrolled, it records the path, apparent subject, and reason under `Discovery candidates (advisory, nonauthoritative)` in its current PR description, or in its task report when it has no PR, and keeps it in its checkpoint until a later discovery PR or registry state resolves it. It never invents or adds a discovery identity, and never opens a PR solely to transmit referrals.
+Work discovery is Git-derived. Either agent may note leads for the other in its PR description: discovery may name subjects whose analysis changed materially, which the evaluator may pass as `--hint` values; the evaluator may name substantial analysis that is not enrolled. Leads are prioritization hints only. A hint cannot add a subject the queue does not already contain, and the evaluator never invents or adds a discovery identity.
 
 ## Branch, publication, and integration
 
-1. Use the exact reusable `character-reconstruction` branch and at most one open PR to `main`. Reconcile current `main` by an ordinary merge without force-pushing or rewriting published history. After a squash merge, merge current `main` into the branch before further work; recreate the branch from `main` only after a verified deletion.
-2. The complete branch delta may contain only the two production outputs.
-3. A PR whose only registry changes are `STALE` reconciliations that `reconstruction_status.py currentness` reports at the reconciled head, with `stale_reason` citing the derived reasons, is **mechanical maintenance**. Any other change, including a new candidate, a supersession, or a promotion, is **substantive**. While substantive work is open, append mechanical reconciliations to that PR rather than opening a second one; the whole PR is then substantive.
-4. Publish normally under approved identities. The Repository audit runs on pushes to `character-reconstruction` and reports `Repository integration audit` directly on the exact audited SHA; this branch never enters the series/study pending-housekeeping state. If a token-originated push does not start a run, use the existing exact-commit or manual dispatch and verify the audited SHA.
-5. Merging requires a successful `Repository integration audit` for the exact current head, both heads rechecked, and an enabled merge method compatible with live protection. Substantive PRs and every PR during `CALIBRATION` are merged only by the owner after review. During `ROUTINE`, the owner authorizes the evaluator to merge mechanical-maintenance PRs itself under the same checks. Passing checks never establish semantic correctness and confer no other merge authority.
-6. Verify the integrated patch and the Repository audit for the exact integration commit on `main`. Report a post-merge failure as integrated but unverified; never revert or rewrite `main` automatically.
+1. Use the reusable `character-reconstruction` branch with at most one open PR to `main`. Merge current `main` into it without force.
+2. The complete branch delta may contain only the two production outputs; the merge gate accepts them from no other branch.
+3. A PR whose only registry changes are `STALE` reconciliations that `reconstruction_status.py currentness` reports at the reconciled head, with `stale_reason` citing the derived reasons, is **mechanical maintenance**. Any other change, including a new candidate, a supersession or a promotion, is **substantive**. While substantive work is open, add mechanical reconciliations to that PR rather than opening a second one; the whole PR is then substantive.
+4. Push and open or update the PR. The repository audit reports `Repository integration audit` directly on the exact audited SHA; this branch never waits on housekeeping.
+5. During `CALIBRATION` the merge gate leaves every PR for the owner. During `ROUTINE` the CI agent may merge mechanical-maintenance PRs under `NIGHTLY_ANALYTICAL_INTEGRATION.md`, and holds substantive ones for the owner's review. Only the owner merges a promotion. Passing checks never establish semantic correctness.
 
-## Checkpoints and coverage accounting
+## Checkpoints, conflicts and failures
 
-Keep durable checkpoints in cloud task storage and in the relevant PR description, never in a disposable checkout. Record the reviewed `main` SHA, the queue derived at it, subjects assessed, deferred subjects with reasons and basis SHAs, mechanical reconciliations, open PR number and head, integration SHA, post-merge audit result, and outstanding referrals in both directions.
+In addition to the shared rules, record in the checkpoint and PR description the reviewed `main` SHA, the queue derived at it, subjects assessed, deferred subjects with reasons and basis SHAs, mechanical reconciliations, and outstanding leads. Advance completed coverage only to work verified on `main`; without a trustworthy checkpoint, establish a documented baseline from the integrated registry and recompute the full queue.
 
-Track review, publication, integration, and post-merge verification separately. Advance the completed-coverage checkpoint only to work verified on `main`. An interrupted or failed run leaves the previous checkpoint in force and preserves unfinished work on the branch or in the checkpoint; it never silently discards it. Without a trustworthy checkpoint, establish a documented baseline from the integrated registry and audit records and recompute the full queue.
+The discovery registry, analytical evidence and `main` may advance at any time. Before every push, re-derive currentness for the PR's added or transitioned records and revalidate. Resolve conflicts only within the two outputs by re-deriving them from the reconciled registry and the generator. A conflict that needs discovery or analytical changes is reported, not repaired.
 
-## Concurrency and conflicts
-
-Serialize evaluator runs. Inspect unexpected branch content before any write and preserve it. The discovery registry, analytical evidence, and `main` may advance at any time; before every push and merge, recheck heads, re-derive currentness for the PR's added or transitioned records, and revalidate. Resolve conflicts only within the two outputs by re-deriving them from the reconciled registry and the generator, never by whole-file `ours` or `theirs` selection. A conflict that requires discovery or analytical changes is reported, not repaired.
-
-## Failure reporting and recovery
-
-Successful no-change runs remain quiet; do not create empty commits or PRs. Report verified integrations, substantive unresolved findings, historical-validity failures, access or validation failures, blocked integration, post-merge failure, incomplete review, and outstanding referrals. A historical-validity failure on `main` is a repository defect: report it with the exact validator output and repair it forward through an authorized change. Never disable or weaken a check to complete a run.
-
-## Activation and scheduling
-
-Merging the activation change makes this policy and the empty production registry effective but publishes no assessment. The owner separately configures the scheduled task, its credentials, and the cloud checkpoint store, and later accepts calibration. Pilot and subsequent subject selection follow the standing selection authorization above. Until calibration is accepted through the required governance change, the evaluator may prepare calibration candidates and publish them only through owner-reviewed, owner-merged PRs.
+A historical-validity failure on `main` is a repository defect: report it with the exact validator output and repair it forward through an authorized change.

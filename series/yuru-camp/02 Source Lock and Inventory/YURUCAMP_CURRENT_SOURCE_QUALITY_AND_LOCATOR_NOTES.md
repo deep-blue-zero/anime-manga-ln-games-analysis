@@ -4,16 +4,17 @@ artifact_id: YURUCAMP_CURRENT_SOURCE_QUALITY_AND_LOCATOR_NOTES
 artifact_type: source_quality_audit
 series: YURUCAMP
 status: canonical
-source_boundary: Source metadata through V19 publication; literary analysis remains V15
+source_boundary: Source identities through V19 acquisition; literary analysis complete through V17
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: '2026-10-17'
+updated: '2026-10-23'
 ---
 
 # Yuru Camp Current Source Quality and Locator Notes
 
-## Audit scope and results
+## Historical October 17 audit scope and results
 
 Fresh checks on 2026-10-17: exact live Drive ID/name/size/parent readback, independent SHA-256, ZIP CRC on every member, full Pillow image decoding, and EPUB container/OPF/manifest/spine parsing. Every referenced reading-spine XHTML resolves to exactly one existing image. This corroborates the independently reported October 16 technical audit, but makes no claim of EPUBCheck validation, complete visual editorial quality review or narrative analysis.
 
@@ -23,9 +24,9 @@ Fresh checks on 2026-10-17: exact live Drive ID/name/size/parent readback, indep
 | V17 | 1sAvxxFVzSOtobfs2HTjPTK1QqNjxyu96 | 4c0e269486348e18ebd35a584347f06a1c5928775a752e7a6366d6c911a9ac3c | 166 / 1350×1920 | PASS / PASS / 166 complete |
 | V18 | 1QEgPUH9Sr-3jVH2C5vr-3ZRJ7xKK4uH4 | 2bea54a3bdefb97905910bd0038d3066e662bfb770ddf446164f8d7e99053395 | 166 / 1350×1920 | PASS / PASS / 166 complete |
 
-## V16 — quality flag and raw locators
+## V16 — retained CBZ quality flag and raw locators (historical October 17 audit)
 
-Retain `LOCKED_WITH_QUALITY_FLAG` / `USABLE_WATERMARKED_WITH_EXTRANEOUS_INSERTS`. The archive contains **168 JPEG images, all 1125×1600**. Persistent third-party corner watermarks remain a limitation. Bottom-strip inspection of raw `0016.jpg`, `0042.jpg`, `0081.jpg`, `0120.jpg` and `0167.jpg` corroborates that flag without beginning story reading. This sampling does not claim every panel is unobscured.
+For the retained historical CBZ, preserve `LOCKED_WITH_QUALITY_FLAG` / `USABLE_WATERMARKED_WITH_EXTRANEOUS_INSERTS`. These flags no longer describe the preferred V16 source. The archive contains **168 JPEG images, all 1125×1600**. Persistent third-party corner watermarks remain a limitation. Bottom-strip inspection of raw `0016.jpg`, `0042.jpg`, `0081.jpg`, `0120.jpg` and `0167.jpg` corroborates that flag without beginning story reading. This sampling does not claim every panel is unobscured.
 
 Raw `0079.jpg` and `0131.jpg` are **byte-identical non-story advertisements**, SHA-256 `2a9e7083c99b24cf06ee65e61dd7dd1427cfeacaa304f9d2a75a1f203f887fad`. One was visually checked after byte equality established the identity. They are excluded from narrative interpretation but retained in archive indexing. Do not remove them and silently renumber later pages. Nor should the remaining 166 images be called 166 story pages: covers, contents and other matter require their own source-unit map when V16 is authorized.
 
@@ -54,6 +55,71 @@ This follow-up corroborates the bounded structural crosswalk **old 1-based spine
 
 The new Kobo object has 166 distinct reading-spine images/assets at 1350×1920; Japanese metadata and pre-paginated fixed layout; all CRC, decoding and mapping checks pass. Its full mapping is in the current manifest and uses the same **structure** as preferred V17; this is not a claim that their content is the same. The Phase 0 missing-source statement remains historically intact. V18 is available but has not been analyzed here.
 
+## October 22 local integrity recheck and source upgrades
+
+Fresh verification used the exact accessible local bytes for preferred V16–V19. All four passed independent SHA-256, every-member ZIP CRC, full in-memory Pillow decoding of all images, EPUB container/OPF/resource checks and all 166 spine→XHTML→image resolutions. Each ZIP has 340 members, an uncompressed first `mimetype` member containing `application/epub+zip`, `item/standard.opf`, right-to-left spine direction and no encryption descriptor. This is not full EPUBCheck validation, exhaustive visual editorial review, a fresh Drive download or narrative reading.
+
+| Preferred source | Drive ID | Bytes | Independently recomputed local SHA-256 | Images / dimensions / spine |
+| --- | --- | ---: | --- | --- |
+| V16 | 1S6wIlhB--XXMdja34Y-uzrdcR6xOMXNv | 93,334,575 | 89a0c141bcffc614f08c470be93782e9358845eca59ed8f901e9861138214aa3 | 166 / 1350×1920 / 166 complete |
+| V17 | 1sAvxxFVzSOtobfs2HTjPTK1QqNjxyu96 | 108,379,583 | 4c0e269486348e18ebd35a584347f06a1c5928775a752e7a6366d6c911a9ac3c | 166 / 1350×1920 / 166 complete |
+| V18 | 1QEgPUH9Sr-3jVH2C5vr-3ZRJ7xKK4uH4 | 115,153,335 | 2bea54a3bdefb97905910bd0038d3066e662bfb770ddf446164f8d7e99053395 | 166 / 1350×1920 / 166 complete |
+| V19 | 1SUFejNLxWBLfvvfY2xCwyhhvYX8ud3bN | 118,272,724 | b77d071322e1321e52b6d68b254843becedc339b807c982865d99b0d5e32a043 | 166 / 1350×1920 / 166 complete |
+
+### V16 preferred-source replacement and archive crosswalk
+
+Use the Japanese publisher EPUB as `LOCKED_PRIMARY` / `PREFERRED_JAPANESE_PUBLISHER_FIXED_LAYOUT`. The October 22 acquisition review reports no watermark in its sampled new pages; this reconciliation independently confirms dimensions, structural order and integrity, not an exhaustive absence-of-watermarks judgment. The old CBZ remains preserved under Drive ID `1U_krzsI0k5fQkE4H8mAmNPBZD1ueWNKS` in archive folder `19Yo7DYiZdhsxT3GnEBRSX-fH6abgBjIk`. Its independently rechecked SHA-256 remains `3a6665014f96cc6c7245ec54989bce651fcb42659b2838e6525c9fc96bd2f584`, with all 168 images intact. Keep the preceding historical quality flags and printed-page anchors attributable to that CBZ.
+
+An independent non-displayed raster comparison reproduced every row of the acquisition crosswalk: RGB 48×48 Lanczos resampling, mean absolute difference against all 168 old images, 166 unique nearest matches, no ties and strictly increasing old positions. Maximum matched MAE was 1.4327256944/255, mean 0.8848135598/255. The comparison verifies correspondence, not identical image bytes, exhaustive Japanese wording equality or printed pagination.
+
+| Preferred one-based spine position | Retained CBZ one-based raw image position |
+| --- | --- |
+| 1–78 | Same position |
+| 79–129 | Preferred position + 1 |
+| 130–166 | Preferred position + 2 |
+
+Old raw79 (`0079.jpg`) and raw131 (`0131.jpg`) have no preferred counterpart; their non-story-advertisement classification remains supported by the preserved October 17 visual check and October 22 acquisition review. They are retained in the old object. The acquisition comparison's initial same-index page comparisons are not the crosswalk after the first insertion; the ordered nearest-page alignment is the appropriate mapping.
+
+### Exact preferred EPUB locator scheme and V19 admission
+
+The current machine manifest records all 166 structural rows for each preferred V16–V19 EPUB, independently checked in full. Their shared wrapper scheme is: spine1 → `p-cover` → `item/xhtml/p-cover.xhtml` → `item/image/cover_omo.jpg`; spine2–164 → id `p-{spine-1:03}` and matching XHTML → image `item/image/i-{spine-2:03}.jpg`; spine165 → `p-164.xhtml` → `cover.jpg`; spine166 → `p-165.xhtml` → `hyoushi.jpg` (the latter two under `item/xhtml/` and `item/image/`). Sharing a structure does not imply sharing content. Use the exact recorded row, object hash, chapter and scene; printed pages require visual verification. Source-order chapter/scene maps belong to the authorized sequential reading, not this structural reconciliation.
+
+V19 is now acquired and technically mapped; the earlier published-but-unacquired observation remains historical. No V19 narrative claim is admitted here. The accepted October 17 V17 old-spine-N→preferred-spine-N concordance and its wording/crop/pagination limits remain unchanged above.
+
+October 22 propagation metadata provides recorded Drive identities, names, sizes, MIME types and parents. Local byte hashes have been independently verified; no remote content hash has been independently verified by this reconciliation. Preserve older live-readback dates rather than treating metadata readback or a matching size as remote byte equality.
+
 ## Limits and preservation
 
-Technical integrity does not verify literary claims. The current manifest preserves older audit dates and labels supplement hashes as reported. No binaries, extracted pages, contact sheets or source images are in Git. No manga narrative from V16–V19 or supplementary continuity has been admitted into the retrospective V01–V15 ledgers.
+Technical integrity does not verify literary claims. The current manifest preserves older audit dates and labels supplement hashes as reported. No binaries, extracted pages, contact sheets or source images are in Git. The October 17 V01–V15 retrospective backfill admitted no V16–V19 or supplementary-continuity narrative. The separately dated continuation below extends the current ledgers.
+
+## V16 literary transaction — 2026-10-23
+
+All 166 preferred EPUB spine images were visually read in order, then integrated under the method’s second pass. The [V16 reading](../03%20Volume%20Deep%20Readings/YURUCAMP_V16_DEEP_READING.md) owns the exact chapter/scene map: chapters 88–92 spine005–132, interstitials separately; earlier spring-break special 135–158; Heya 159–162; afterword/colophon/jackets 163–166. This is distinct from the dated technical checks above. Main Golden Week narrative ends before the Nozori overnight. Printed contents starts 3/29/55/81/107/133/157 are separately observed, not an asserted universal spine-to-print conversion. No V17+ literary finding or supplement continuity is admitted.
+
+## V17 literary transaction and exact current locator lookup — 2026-10-23
+
+All 166 preferred V17 original spine images were individually visually inspected in order, followed by a separate analytical Pass B. The [V17 reading](../03%20Volume%20Deep%20Readings/YURUCAMP_V17_DEEP_READING.md) owns chapter/scene claims; this table supplies the source-order lookup. It adds literary inspection to the current boundary without rewriting the dated October 17/22 structural checks or the V16 literary receipt. V18/V19 and supplementary-continuity narrative remain NOT ANALYZED/not admitted.
+
+For each endpoint below, XHTML basenames are under `item/xhtml/` and image basenames under `item/image/`; both exact endpoints come from the existing manifest rows. A range retains all intermediate positions, whose exact row remains in `technical.spine_image_map`. The V17-only `literary_section_map` records these ranges and chapter-title anchors separately from technical data. Printed contents starts are separately identified: 3/29/55/81/107/135/159. In particular the first Ch95 image and first Heya image do not show those opening folios; contents entries do not silently become visual folio verification.
+
+| Section | Preferred spine range | Exact start XHTML → image | Exact end XHTML → image | Printed locator / title anchor |
+| --- | --- | --- | --- | --- |
+| Opening cover, blank, color illustration and contents | 001–004 | `p-cover.xhtml` → `cover_omo.jpg` | `p-003.xhtml` → `i-002.jpg` | No printed-page conversion asserted |
+| Ch93 焼きまんじゅう改造計画 | 005–028 | `p-004.xhtml` → `i-003.jpg` | `p-027.xhtml` → `i-026.jpg` | Contents start 3; visible start 3; visible end 26; title spine 006 `p-005.xhtml` → `i-004.jpg` |
+| Ch93 transition vignettes | 029–030 | `p-028.xhtml` → `i-027.jpg` | `p-029.xhtml` → `i-028.jpg` | No printed-page conversion asserted |
+| Ch94 タイムアップ寸前!? キャンプ場までどれくらい? | 031–054 | `p-030.xhtml` → `i-029.jpg` | `p-053.xhtml` → `i-052.jpg` | Contents start 29; visible start 29; visible end 52; title spine 032 `p-031.xhtml` → `i-030.jpg` |
+| Ch94 transition vignettes | 055–056 | `p-054.xhtml` → `i-053.jpg` | `p-055.xhtml` → `i-054.jpg` | No printed-page conversion asserted |
+| Ch95 キャンプの夜とgummmaのなぞ | 057–080 | `p-056.xhtml` → `i-055.jpg` | `p-079.xhtml` → `i-078.jpg` | Contents start 55; start folio not visible; visible end 78; title spine 059 `p-058.xhtml` → `i-057.jpg` |
+| Ch95 transition vignettes | 081–082 | `p-080.xhtml` → `i-079.jpg` | `p-081.xhtml` → `i-080.jpg` | No printed-page conversion asserted |
+| Ch96 群馬二日目ぶらり旅 | 083–106 | `p-082.xhtml` → `i-081.jpg` | `p-105.xhtml` → `i-104.jpg` | Contents start 81; visible start 81; visible end 104; title spine 085 `p-084.xhtml` → `i-083.jpg` |
+| Ch96 transition vignettes | 107–108 | `p-106.xhtml` → `i-105.jpg` | `p-107.xhtml` → `i-106.jpg` | No printed-page conversion asserted |
+| Ch97 初夏の野反湖冬景色 | 109–134 | `p-108.xhtml` → `i-107.jpg` | `p-133.xhtml` → `i-132.jpg` | Contents start 107; visible start 107; visible end 132; title spine 112 `p-111.xhtml` → `i-110.jpg` |
+| Ch97 transition vignettes | 135–136 | `p-134.xhtml` → `i-133.jpg` | `p-135.xhtml` → `i-134.jpg` | No printed-page conversion asserted |
+| Ch98 旅の終わりと野反湖の夜 | 137–160 | `p-136.xhtml` → `i-135.jpg` | `p-159.xhtml` → `i-158.jpg` | Contents start 135; visible start 135; visible end 158; title spine 138 `p-137.xhtml` → `i-136.jpg` |
+| Heya Camp 放課後128 桜お姉ちゃんの料理教室 | 161–162 | `p-160.xhtml` → `i-159.jpg` | `p-161.xhtml` → `i-160.jpg` | Contents start 159; start folio not visible; visible end 160 |
+| Author afterword and initial-publication list | 163–163 | `p-162.xhtml` → `i-161.jpg` | `p-162.xhtml` → `i-161.jpg` | No printed-page conversion asserted |
+| Electronic-edition colophon | 164–164 | `p-163.xhtml` → `i-162.jpg` | `p-163.xhtml` → `i-162.jpg` | No printed-page conversion asserted |
+| Full jacket | 165–165 | `p-164.xhtml` → `cover.jpg` | `p-164.xhtml` → `cover.jpg` | No printed-page conversion asserted |
+| Tenth-anniversary metafiction comic | 166–166 | `p-165.xhtml` → `hyoushi.jpg` | `p-165.xhtml` → `hyoushi.jpg` | No printed-page conversion asserted |
+
+Ch97 retains spine 113 as a full lake panorama and spine 114 as the original GO NEXT PAGE navigation image; spine 115 visibly resumes printed 113. Main narrative ends at spine 160 / printed 158, before the separate Heya and closing matter. Do not delete or renumber title, transition, navigation, blank or paratext images. A source locator identifies the page; a dream, reported scene or retrospective image within it still needs its correct narrative mode, as distinguished in the reading. None of this is a blanket raw/spine-to-printed offset or permission to reuse an archived V17 wrapper without its explicit concordance.

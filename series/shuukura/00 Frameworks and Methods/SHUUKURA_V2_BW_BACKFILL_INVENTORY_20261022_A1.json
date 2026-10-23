@@ -1,0 +1,567 @@
+{
+  "inventory_id": "SHUUKURA-V2-BW-BACKFILL-20261022-A1",
+  "status": "FROZEN_METADATA_ADMISSION_ONLY",
+  "owner_instruction": "I've added all of the remaining Bookwalker short stories to my local paths - you can read those then backfill any information from them",
+  "scope": "Five complete Japanese BOOKWALKER bonus stories; main LN10, web E0006+ and V1 interpretations excluded",
+  "original_inventory": {
+    "id": "SHUUKURA-V2-20261017-I1",
+    "sha256": "6e78ec763843f0617a178ac8a8696e799cf2654b55a28d4011595459fe47c42b",
+    "immutable": true,
+    "available_at_freeze": 458,
+    "mandatory_gap_candidates_at_freeze": 51
+  },
+  "ordered_units": [
+    "BW-JP-V02",
+    "BW-JP-V04",
+    "BW-JP-V05",
+    "BW-JP-V08",
+    "BW-JP-V10"
+  ],
+  "terminal_unit": "BW-JP-V10",
+  "units": [
+    {
+      "unit": "BW-JP-V02",
+      "I1_gap_alias": "RETAIL-JP-V02-BOOKWALKER-SS",
+      "membership": "I1_NAMED_GAPFILL",
+      "source_filename": "Buying a Classmate Once a Week - Volume 02 - BOOK WALKER Bonus Short Story [Japanese].epub",
+      "acquired_text_witness": {
+        "bytes": 433142,
+        "sha256": "9c352646f8a15e09177f4402e7a4e1df66b8febe6b32700d832c813bd0a5407d"
+      },
+      "page_faithful_witness": {
+        "bytes": 13162308,
+        "sha256": "9399a10acee5febe797ba39c1655b46e000dc1e65acbe14c9d0229de1597a83e"
+      },
+      "capture_pages": 16,
+      "corpus_paragraphs": 181,
+      "native_spine_paragraphs": 213,
+      "native_ruby": 7,
+      "native_page_map": {
+        "private_evidence_key": "intake-review/BW_V02_NATIVE_AND_PAGE_MAP_METADATA_ONLY.json",
+        "bytes": 310412,
+        "sha256": "26661b298b1fac008d4e3521e89c5982431858b777a5536e44b7c623bc65901c"
+      },
+      "inspection_at_admission": "METADATA_BYTES_STRUCTURE_ONLY; ORIGINAL_PAGE_READING_PENDING",
+      "capture_page_identities": [
+        {
+          "ordinal": 1,
+          "locator": "SK-JA-V02-BWSS:p001",
+          "original_capture_sha256": "75c7e814fde4f1b000b27c37efdf23bd8faf9a7738e8adc91a1aef77c7e29e30",
+          "OCR_derivative_sha256": "e062bc24bb929e32affeb6cc6b593fc93cdfecb9355f55065c3d83b44f471d68",
+          "page_faithful_image_sha256": "b9984184a02acf9604beeb7589b1540b19af63b347964bbb632fbf73e078c1c8"
+        },
+        {
+          "ordinal": 2,
+          "locator": "SK-JA-V02-BWSS:p002",
+          "original_capture_sha256": "90f5bde37dc57ff02768208ca5289d5e2e67317ddd223b84914b302ec958f191",
+          "OCR_derivative_sha256": "e8e9172f5911e126132d1f162f0359e5608c5cdac548148f9dd30703023259f7",
+          "page_faithful_image_sha256": "af199ecbce82642dae600418eb475a83853d4e010ebcae163b298d2f0e1c3bf7"
+        },
+        {
+          "ordinal": 3,
+          "locator": "SK-JA-V02-BWSS:p003",
+          "original_capture_sha256": "3535af73085073fd9323bc989b136cfb707de5b5d79ac510a38611bfdec1eb60",
+          "OCR_derivative_sha256": "96483cbe081a3edb0f664707d6f90dfcb1e215b7e691ebf5c52caf1b24af962c",
+          "page_faithful_image_sha256": "db1b06bb3a8d5e652d3788ce18f26984f19e4cd070071476a87a524049958081"
+        },
+        {
+          "ordinal": 4,
+          "locator": "SK-JA-V02-BWSS:p004",
+          "original_capture_sha256": "94e5b118bb1860c4b6bd9d65f6e7b8c09bc61b9c74b4ebfa51bbe94704c0e55c",
+          "OCR_derivative_sha256": "ba8e67954615e187dd4c5cc49c5e3401b5957a34325adad692ced25fecc80f85",
+          "page_faithful_image_sha256": "6970dd07eb82be857a32c69ed31a736c4ef00af39a89cdd80a4aeccde503ae27"
+        },
+        {
+          "ordinal": 5,
+          "locator": "SK-JA-V02-BWSS:p005",
+          "original_capture_sha256": "0f702e50b6f8a1adea53b3cf68c9482885d2cb2a3afb63222455a4dae87ae41d",
+          "OCR_derivative_sha256": "3dbbca3d3ace58a51b1ee68de673ce9abbaa5c669e3fd506ecaab4e9bbed955b",
+          "page_faithful_image_sha256": "b4fed0e5f59d13400a3ac16d6d27bbfaed165d7fa5bafafc5434b725fe080ba9"
+        },
+        {
+          "ordinal": 6,
+          "locator": "SK-JA-V02-BWSS:p006",
+          "original_capture_sha256": "e12326822159973447307c6a71faa5b39cd91990a4382e61f3a078ef4e94e8ad",
+          "OCR_derivative_sha256": "7ba0848165c039d5eb2e38cb1554fe9c8e83ff4fa0d01dca822abc9cb287a447",
+          "page_faithful_image_sha256": "ce742780b28a668623ad8acf59be82ef495a3008c8f79e375ca179531b95a074"
+        },
+        {
+          "ordinal": 7,
+          "locator": "SK-JA-V02-BWSS:p007",
+          "original_capture_sha256": "a0a4009f82353032aab3d151fbf35391a4fe2241d0e28acf571f3630be28d432",
+          "OCR_derivative_sha256": "eae45471fde64a9770af3de027eb89dd79d0a856d7d95feefd75e82e1a1e6615",
+          "page_faithful_image_sha256": "fcc8a727933eb93baf8d528e5646393dbaae9c1549fe95812701aedd501b4ad1"
+        },
+        {
+          "ordinal": 8,
+          "locator": "SK-JA-V02-BWSS:p008",
+          "original_capture_sha256": "4ee4ff2d567b686c727da309aaaa9dc5bf7955872e23ed1478d94d0fcca269d0",
+          "OCR_derivative_sha256": "b7b82c8ab92c1154ba80866e0d22ab246979540308b70c34d5ae28cb68478aaa",
+          "page_faithful_image_sha256": "2a77031b8eb937fcdeeae4019e5d019327b3ca11f9d094d173c64d76279ddc8a"
+        },
+        {
+          "ordinal": 9,
+          "locator": "SK-JA-V02-BWSS:p009",
+          "original_capture_sha256": "019759fae10a7e08b338a2718922c7b9f3ff3e3bbe47cd3f9fc91f77e0e35d80",
+          "OCR_derivative_sha256": "da034532fb786d27c997d25792bd5e86606ca4d37ceb1c412b7a55fc3e5e15bb",
+          "page_faithful_image_sha256": "df93a925a86d7e0796daaf8b93327d0fc8212d3fe17447f7aad905213e311452"
+        },
+        {
+          "ordinal": 10,
+          "locator": "SK-JA-V02-BWSS:p010",
+          "original_capture_sha256": "139f4abfaa951f6b932d0eead11a333d687fdf02520d7630d94f085eac614921",
+          "OCR_derivative_sha256": "fbb5d72a409c7ad67f30a952b69f053d12d16710cc87207a1484ecc4fc1d749b",
+          "page_faithful_image_sha256": "19e9f54462c90045e94110ee6220a9e3ce4bc2454927fb21d27b6eada0d789c5"
+        },
+        {
+          "ordinal": 11,
+          "locator": "SK-JA-V02-BWSS:p011",
+          "original_capture_sha256": "81d1d6573d3806e740fd7e5ef5cb1901094f492f28d25903baba26fb3a5205d7",
+          "OCR_derivative_sha256": "c0542947376799945f988d525823d240111c677e072c4eeea7fd31da710f69d5",
+          "page_faithful_image_sha256": "58b8034f6673ebb65212c6c0d5b931df3caa46fe08b5688f0e34dae1b82d7a63"
+        },
+        {
+          "ordinal": 12,
+          "locator": "SK-JA-V02-BWSS:p012",
+          "original_capture_sha256": "499bb3cd6d97316aa1a822ffe38ce02a0da43436f763b2904bc33697efcd7512",
+          "OCR_derivative_sha256": "82735071a885458158bb6919df9e29358dae23728c120d233786c9a85b1e118b",
+          "page_faithful_image_sha256": "9a078d00e6cf7aba1268f4c128dd2fd17807c232dfc00e621623c65907de930e"
+        },
+        {
+          "ordinal": 13,
+          "locator": "SK-JA-V02-BWSS:p013",
+          "original_capture_sha256": "9c2eb9694c48c21329d2221f1476d3b909a20956f6a3d1ef5e81e886364a916d",
+          "OCR_derivative_sha256": "bd11844194c80501cac67ea20d810fcd5a2a59de1cb44369523f005c774dae0d",
+          "page_faithful_image_sha256": "d845c9938ecc9b3c8d288978933a7bf431fa8210cabbff8b01799be4b39c66a4"
+        },
+        {
+          "ordinal": 14,
+          "locator": "SK-JA-V02-BWSS:p014",
+          "original_capture_sha256": "eb127cf8a229731d6c5ab2e891a2a8d1d76a3df4c2076db8e268a352ee19ad93",
+          "OCR_derivative_sha256": "c49e160c67ad77dddc8b56fc51fb1f82a8717c79e2b93639e12b489763b866f1",
+          "page_faithful_image_sha256": "06af4f7b3080de33df53325f07602ae046c1f161520983da476303f44157987c"
+        },
+        {
+          "ordinal": 15,
+          "locator": "SK-JA-V02-BWSS:p015",
+          "original_capture_sha256": "f1a378c7342ed507fda541f5b20175e7471a1f44b5eb2dbaf6732bd7fb61c630",
+          "OCR_derivative_sha256": "a042872c3fdfe9f13b5b1564e15a5f719c9389e838a1f8ff301312f1d610779c",
+          "page_faithful_image_sha256": "41afeb28317c605cba156bd21b13a00e6a6094d1378aca3e67648cf7b8d864f7"
+        },
+        {
+          "ordinal": 16,
+          "locator": "SK-JA-V02-BWSS:p016",
+          "original_capture_sha256": "e503570a5f99969ef7c91fcb6434d9d629e659006f0968ce446fb30d640cf334",
+          "OCR_derivative_sha256": "ff3d7846b089e32507dfe6fff0c23b73fa6c7dbba1384f2982b471ec71742483",
+          "page_faithful_image_sha256": "0047abdb30cff4ce41f39f724d7364716f79a785f4f7df149c53b601f904e1d8"
+        }
+      ],
+      "canonical_build_member_drift": []
+    },
+    {
+      "unit": "BW-JP-V04",
+      "I1_gap_alias": "RETAIL-JP-V04-BOOKWALKER-SS",
+      "membership": "I1_NAMED_GAPFILL",
+      "source_filename": "Buying a Classmate Once a Week - Volume 04 - BOOK WALKER Bonus Short Story [Japanese].epub",
+      "acquired_text_witness": {
+        "bytes": 534309,
+        "sha256": "422b9e28d38d2baea5e00ed654db9767e1a629d329831c2939b3cb376fcd364e"
+      },
+      "page_faithful_witness": {
+        "bytes": 10473156,
+        "sha256": "97094c7238dce6ace8499047a93563ca72300a98e3e3d7cb1c00770d8661a796"
+      },
+      "capture_pages": 11,
+      "corpus_paragraphs": 110,
+      "native_spine_paragraphs": 141,
+      "native_ruby": 0,
+      "native_page_map": {
+        "private_evidence_key": "intake-review/BW_V04_NATIVE_AND_PAGE_MAP_METADATA_ONLY.json",
+        "bytes": 207855,
+        "sha256": "47b4f985d7f4cfa3e50ad842be7325c09d14b03dc95520dba80026f913dba93d"
+      },
+      "inspection_at_admission": "METADATA_BYTES_STRUCTURE_ONLY; ORIGINAL_PAGE_READING_PENDING",
+      "capture_page_identities": [
+        {
+          "ordinal": 1,
+          "locator": "SK-JA-V04-BWSS:p001",
+          "original_capture_sha256": "9e7e4c7253d5b67b4bfe3ce1f85644113b3988cb8d49d1bd4350f1d5c08445b3",
+          "OCR_derivative_sha256": "b8311537b4be301b4fb90497ca417ef29d53393991922c4428897e30c376792b",
+          "page_faithful_image_sha256": "e41f45648719edd5471fa37f4e4e71b9a918c8b207a4d5e1917e4c1692477269"
+        },
+        {
+          "ordinal": 2,
+          "locator": "SK-JA-V04-BWSS:p002",
+          "original_capture_sha256": "65ee0f687347c7a554c0e5f55205a1ddd56ae9d654c6329f06bf32305ab8e2e9",
+          "OCR_derivative_sha256": "48e8338506260b475278db9e656be9c536076a9e812a3b2a902e30a26074e78b",
+          "page_faithful_image_sha256": "c614663ec0320b3f965889e66ba2727a8771aa4de7c3a571dd0916564d1a1ce5"
+        },
+        {
+          "ordinal": 3,
+          "locator": "SK-JA-V04-BWSS:p003",
+          "original_capture_sha256": "994a1540c3d31d12a1f274292e7d49b689cfd30fe12d81379332333d3f67ba2f",
+          "OCR_derivative_sha256": "4294204f36dc4fe837d7caff8ce9d737d638a82fb65b045eae8c78204d16436e",
+          "page_faithful_image_sha256": "8798bb97db5b6806ec5deffcdf04c2c4e813cb93df5701e5f65a960d6ee7bda3"
+        },
+        {
+          "ordinal": 4,
+          "locator": "SK-JA-V04-BWSS:p004",
+          "original_capture_sha256": "4268c2d802e7d7aa80f2092f42ce75687b52238ed9d2f216586218c1f79ce65f",
+          "OCR_derivative_sha256": "126d72e22864f28bf5a12b2e9f9ec0fa2b54a380cd06c9a10e019c78385234bc",
+          "page_faithful_image_sha256": "bc31bb4d7f252fcf1f14d7d8932888bd3841058c35d01096b78961dd266b6d36"
+        },
+        {
+          "ordinal": 5,
+          "locator": "SK-JA-V04-BWSS:p005",
+          "original_capture_sha256": "90f2fb3d3e57ce8bef168d0346602ccd23734115c59e5c6da7dce9df47a88132",
+          "OCR_derivative_sha256": "77148ff6f9ce506e7f4f886ad744a9817122d4fae097119fc0524cb8e302b8af",
+          "page_faithful_image_sha256": "1600b996e07bb0c0cc5e59d6d9281c3ed9c467466c33449112eaee15a8bf0c3d"
+        },
+        {
+          "ordinal": 6,
+          "locator": "SK-JA-V04-BWSS:p006",
+          "original_capture_sha256": "18f8ec7938ee552c25443e085cb108742e0d8b28bdead41d3eb04257a83391e3",
+          "OCR_derivative_sha256": "1f8199db211f7e4f592f78ec3c6e9e3c0dfe036799d3879c05b9d757069ae308",
+          "page_faithful_image_sha256": "736b7db743c15484773fbf47beddece67e4d14d57c55264d840d47ae053878e8"
+        },
+        {
+          "ordinal": 7,
+          "locator": "SK-JA-V04-BWSS:p007",
+          "original_capture_sha256": "42ef635ad479a7a92a1cd5b14f0e528a4bde74f6d54132951ada7dd05b5e5ac2",
+          "OCR_derivative_sha256": "22d848dc8b78a633fdbaa7b81dabfcd3758ba68a10c9edb89f66c3050e0d38db",
+          "page_faithful_image_sha256": "e2e63729d16eaf144c9fc2ba44fc9e208313eb26861e5709d815a3d4f83a686d"
+        },
+        {
+          "ordinal": 8,
+          "locator": "SK-JA-V04-BWSS:p008",
+          "original_capture_sha256": "0df4e8e942517a2ce943f5ae2a99213003a3fd5f77d4a13056b41b90bb091cf0",
+          "OCR_derivative_sha256": "59b9d3fddc940fa1e90fd78a030937eeb7151900ffe9625cafc73b25cfad4aaa",
+          "page_faithful_image_sha256": "11f0ea97d2e9dcd963565446870662f5cbe382caeffd3a4b0a2a74579b43e28c"
+        },
+        {
+          "ordinal": 9,
+          "locator": "SK-JA-V04-BWSS:p009",
+          "original_capture_sha256": "a28e7621b9df2c21d1b7667f2613c5630b3b3545102f007add68b2a2f16d324f",
+          "OCR_derivative_sha256": "c0f0ea3e2faab2025484755b5b53ef86b76463fbf33ae0aa3ccac0e638f44f2f",
+          "page_faithful_image_sha256": "f699c4d1b62b49461c66ba8ab3402c89e9fb1f01511c329122f069cc56653c9f"
+        },
+        {
+          "ordinal": 10,
+          "locator": "SK-JA-V04-BWSS:p010",
+          "original_capture_sha256": "51b7c6c13267e18f048cb418681bbee78a9763c6dbb820f66bdbed75b3c1a329",
+          "OCR_derivative_sha256": "4667ddcb01ee6c487b4da1781e5434719f036a3ec65c8d187acaea578ed11639",
+          "page_faithful_image_sha256": "a43b7c0a614d58bc6881a602aa3f1ed8443636ec0c95c4942a623678926391ac"
+        },
+        {
+          "ordinal": 11,
+          "locator": "SK-JA-V04-BWSS:p011",
+          "original_capture_sha256": "52f7e8fe8a133abe0621ff6544022dd79eb12c930debd164c97ff10e4ea7a54b",
+          "OCR_derivative_sha256": "7906725b5c34dbe4aeeed8e3ce9d50368ddfe834f344f66456afc25f3652b559",
+          "page_faithful_image_sha256": "92477f7fc8ff6762beef2513ccad5e3f6b269d56bc82a3ac8d817149927779f0"
+        }
+      ],
+      "canonical_build_member_drift": []
+    },
+    {
+      "unit": "BW-JP-V05",
+      "I1_gap_alias": "RETAIL-JP-V05-BOOKWALKER-SS",
+      "membership": "I1_NAMED_GAPFILL",
+      "source_filename": "Buying a Classmate Once a Week - Volume 05 - BOOK WALKER Bonus Short Story [Japanese].epub",
+      "acquired_text_witness": {
+        "bytes": 503129,
+        "sha256": "d88dfb5cc04b2903e398a91c03ceb4e0b5d99996e3a1534122155aea346860cb"
+      },
+      "page_faithful_witness": {
+        "bytes": 9841905,
+        "sha256": "5468b535dce6dddda32f6599503809735ef084c95bb5d487371303263b4b5d03"
+      },
+      "capture_pages": 11,
+      "corpus_paragraphs": 103,
+      "native_spine_paragraphs": 134,
+      "native_ruby": 0,
+      "native_page_map": {
+        "private_evidence_key": "intake-review/BW_V05_NATIVE_AND_PAGE_MAP_METADATA_ONLY.json",
+        "bytes": 198187,
+        "sha256": "19c044c0b38f6f5ad853798df1de54aef8a976be907fbd1d8f52a8174f133471"
+      },
+      "inspection_at_admission": "METADATA_BYTES_STRUCTURE_ONLY; ORIGINAL_PAGE_READING_PENDING",
+      "capture_page_identities": [
+        {
+          "ordinal": 1,
+          "locator": "SK-JA-V05-BWSS:p001",
+          "original_capture_sha256": "8b720772ccee87cce6a075d878e9fe66f1ce4aee85556ae0e47334892d20efd2",
+          "OCR_derivative_sha256": "46a6f36ed3c1515cec6b0f146b729d0b9469aea9ec21d62ab0ca78d4520bb585",
+          "page_faithful_image_sha256": "5a1ea708b6e7fd11ebb03babd88239e8e28ceba4014c648194bae865e2624d31"
+        },
+        {
+          "ordinal": 2,
+          "locator": "SK-JA-V05-BWSS:p002",
+          "original_capture_sha256": "e75718a5fbe38ec0a3c2cd39c44b196fe048d0a1f1a5d3bc8f6581a91a0664e8",
+          "OCR_derivative_sha256": "f7c119ec22433d9b54c93f34556b8444a514ceb9e7916702ee5be4ef4e6d7ff5",
+          "page_faithful_image_sha256": "5442f9f7c27d70f7740b91b3da1ead44ecdc59f8894d611cdeda93ad2f507b13"
+        },
+        {
+          "ordinal": 3,
+          "locator": "SK-JA-V05-BWSS:p003",
+          "original_capture_sha256": "82331be27b98d9d51fc05c57a8f5d74d6449a16f7188b7ff1ed984188e59010f",
+          "OCR_derivative_sha256": "a9a3ede07adbe0969466dd4ab401239d7d26cd3671d0cc6258dc61c09bc606c9",
+          "page_faithful_image_sha256": "c27c08083d4901a2129e3e73b73b84a88aaeaf37f2ae06f7dfc3d8a4dc1a4dac"
+        },
+        {
+          "ordinal": 4,
+          "locator": "SK-JA-V05-BWSS:p004",
+          "original_capture_sha256": "ce1f909cb1788d6531f6712c8f186a3c1693866e6b1d92d7a301ca84ae3fb60e",
+          "OCR_derivative_sha256": "3b10b468167537f1ba16a50163196d58388184f557e00cb0f84f945a05990059",
+          "page_faithful_image_sha256": "7c75acfef78c7ed478a90d4c0816cf66c33e0e9f5f92e5eb94119468f4e58b0c"
+        },
+        {
+          "ordinal": 5,
+          "locator": "SK-JA-V05-BWSS:p005",
+          "original_capture_sha256": "9c89336cee195426d8b4027441e34d6bdb7572fc1c182f490988e4fe560ac0c1",
+          "OCR_derivative_sha256": "a48c6f8b8abd8af1a10cd9178905f416ec71aa2b8a38499f682fdb2b4d3324d0",
+          "page_faithful_image_sha256": "e78177d0dd7784cbf84a1ce643dc2d0437cb604e1198af608f9f85f482416469"
+        },
+        {
+          "ordinal": 6,
+          "locator": "SK-JA-V05-BWSS:p006",
+          "original_capture_sha256": "13909f071c8827d747f72ca9fddb06d3212158fdbf4aa98b97f4799d8abb3ef1",
+          "OCR_derivative_sha256": "e83bf2ae0c174afb3f58c13f73ec1fcd54686ae43136e09e3b5c96f1615aceba",
+          "page_faithful_image_sha256": "7b893422baebe5a12cd7de0d37116efe1573b26ddc11b2abeffd9732e191726f"
+        },
+        {
+          "ordinal": 7,
+          "locator": "SK-JA-V05-BWSS:p007",
+          "original_capture_sha256": "32b7bb3b08bc84726238482a7c6d2c3561b125c5d1c9e6a9878efa27f1489c8d",
+          "OCR_derivative_sha256": "677645ebf3e4f6c951fd5e9783162ee5b9d0a76e43399d67dbdf69f1fc0916c9",
+          "page_faithful_image_sha256": "0744f3f8d567d078907b7e4040507a355a1b7417ba29e8a56dfb04b622513b3e"
+        },
+        {
+          "ordinal": 8,
+          "locator": "SK-JA-V05-BWSS:p008",
+          "original_capture_sha256": "43950944166d7cffe0fdff37f61f50cd9a816cf5cb12da632ac1d6af61d7ff67",
+          "OCR_derivative_sha256": "5ada03dbf1a8aca298d3e015dd626ce3cae79b703c93f5963762220b054192c5",
+          "page_faithful_image_sha256": "b14a183110e39a3467048d13d76e1ad29af5bf8eaa6d1dd5367845b5d728fbc0"
+        },
+        {
+          "ordinal": 9,
+          "locator": "SK-JA-V05-BWSS:p009",
+          "original_capture_sha256": "62cd48d0eb9b3f542182f44ca842db2f670ea3275b8c5953a6db24030b2e4cae",
+          "OCR_derivative_sha256": "def02356960bb0ad6c96ca32adbde3c1ba594017e2e9bbab0d30d3a021b53801",
+          "page_faithful_image_sha256": "797a470b6ba18f15227c512311367052bcad5fb00b3bdeede5a4018c3cb27240"
+        },
+        {
+          "ordinal": 10,
+          "locator": "SK-JA-V05-BWSS:p010",
+          "original_capture_sha256": "3b2192eb5b34a0f1f55d41de3834da7fa00ff20d704c938d587221d3a6b99913",
+          "OCR_derivative_sha256": "3602d1ae5a37a79a9ad19c5d2f11fb2898aca833e0640ee75d7b6a7720746eb9",
+          "page_faithful_image_sha256": "2b8e640f31f52ee57864db0dce439db91eb8359f4a7ae907669f5b921083a60e"
+        },
+        {
+          "ordinal": 11,
+          "locator": "SK-JA-V05-BWSS:p011",
+          "original_capture_sha256": "0a7ded2167c6651b16594706eb0426d61cd9ce43b7cb6b39bebfbdc9253e5eda",
+          "OCR_derivative_sha256": "c7fdf6d4b491c34b13a84dd6bb495c3ae0d0a1c99befc1b0daba2e2fdfa926f2",
+          "page_faithful_image_sha256": "96f512cc672d60ad3d844f752bd10c4cae355146911ed9d10f039438eac046f9"
+        }
+      ],
+      "canonical_build_member_drift": []
+    },
+    {
+      "unit": "BW-JP-V08",
+      "I1_gap_alias": "RETAIL-JP-V08-BOOKWALKER-SS",
+      "membership": "I1_NAMED_GAPFILL",
+      "source_filename": "Buying a Classmate Once a Week - Volume 08 - BOOK WALKER Bonus Short Story [Japanese].epub",
+      "acquired_text_witness": {
+        "bytes": 504312,
+        "sha256": "b411a7dc9e0161f348d366367ecde62d5f94d23e0ba35ede2577e004e3bc895c"
+      },
+      "page_faithful_witness": {
+        "bytes": 8830450,
+        "sha256": "8560d0002b653767b302d88770b884d834356c36883fd4ce13c494d5f684d1e7"
+      },
+      "capture_pages": 9,
+      "corpus_paragraphs": 88,
+      "native_spine_paragraphs": 118,
+      "native_ruby": 0,
+      "native_page_map": {
+        "private_evidence_key": "intake-review/BW_V08_NATIVE_AND_PAGE_MAP_METADATA_ONLY.json",
+        "bytes": 173293,
+        "sha256": "492744469e86640fbe8147cd189cd88bf47f1a7e9ed6a4e0eef393d187a7bc84"
+      },
+      "inspection_at_admission": "METADATA_BYTES_STRUCTURE_ONLY; ORIGINAL_PAGE_READING_PENDING",
+      "capture_page_identities": [
+        {
+          "ordinal": 1,
+          "locator": "SK-JA-V08-BWSS:p001",
+          "original_capture_sha256": "9bafc7632f9bb2476dbee1d9060268ec7d6f60ecde6512222b4039bd8b1a3619",
+          "OCR_derivative_sha256": "c23b2e88fd55ccda6da6324ac8c34e2f37483c10f2b4e4d59ec5caa8146d1f4d",
+          "page_faithful_image_sha256": "6bcf0bec55cedaa5db64665e32a8632d05ec7c3e8186a01b3f0a7c4c8a7be407"
+        },
+        {
+          "ordinal": 2,
+          "locator": "SK-JA-V08-BWSS:p002",
+          "original_capture_sha256": "53c56f478ee529bb98d435099e091e4b5207b5f1d9d4a2173a7df7479e5e2081",
+          "OCR_derivative_sha256": "7331e4635becb781066be9ba49b071aa05177866acce0f60c5950040b7dac62e",
+          "page_faithful_image_sha256": "25d3925b7058b6a488b3bfe1c5d815a5af1b9afc77d47f66b327c8546429cdc9"
+        },
+        {
+          "ordinal": 3,
+          "locator": "SK-JA-V08-BWSS:p003",
+          "original_capture_sha256": "3bc87b6bcf194253041d56ce70ff1264026f6bf0629095b6d91fedee932e7d16",
+          "OCR_derivative_sha256": "7ce034566056dfd7963c2c1d7bceba136cd7e2412b67d71de875430476e0236c",
+          "page_faithful_image_sha256": "83e3c335bbd55f95072159aa1dd718426ef874f72e3cb1d7d21987cdf35f7b16"
+        },
+        {
+          "ordinal": 4,
+          "locator": "SK-JA-V08-BWSS:p004",
+          "original_capture_sha256": "0c3247fdbaf0dc95f1b9cafc4e2b7e17aad27753e2a654058629b4a5083e0775",
+          "OCR_derivative_sha256": "c07f0b9bef722fdfb6bf792cd5b94e4e5e428ef8dab0e4416c1468f813d98b7e",
+          "page_faithful_image_sha256": "798083f5fadcb90b7d70c776f7899959320d3a87d5efb0ae0d8afbacd5576106"
+        },
+        {
+          "ordinal": 5,
+          "locator": "SK-JA-V08-BWSS:p005",
+          "original_capture_sha256": "5be6a1ad1b1389e1aa37c0984f170d8ceaefa4477408aae7a622aedec335925f",
+          "OCR_derivative_sha256": "68b02e3da410d2b24ad985725170512fce6936d83d44e139dc05b7f4a47dcb78",
+          "page_faithful_image_sha256": "35fd3a6d4a9d3dfb924f03c9a34190b80f2fbaa3c978342fa084db83824903ac"
+        },
+        {
+          "ordinal": 6,
+          "locator": "SK-JA-V08-BWSS:p006",
+          "original_capture_sha256": "891e822c993a205c0881e542837970a35194b36148efbf2a72704deda0296d9d",
+          "OCR_derivative_sha256": "0815df7a90c822b798eceb6cfb10af9b04386ea27469e30166778b4817096a4c",
+          "page_faithful_image_sha256": "11461b934498fce9b556f2b80e7556b15142e6ea17e36a86ab16e0fa4f639a84"
+        },
+        {
+          "ordinal": 7,
+          "locator": "SK-JA-V08-BWSS:p007",
+          "original_capture_sha256": "4045f79981e8bbc5d223bccb50a9d073f575e02de8690f6b7e2f13878e66e324",
+          "OCR_derivative_sha256": "4f2ff469139bbbf59c3f6ddee9d2c7fe427c68cffeb6e2852ea559f4ab40c108",
+          "page_faithful_image_sha256": "5318c63070bc0cbe63c225a9ad12ca5b3e4f1ab2ac766cf24e49341277ac66b6"
+        },
+        {
+          "ordinal": 8,
+          "locator": "SK-JA-V08-BWSS:p008",
+          "original_capture_sha256": "d433d8ce92b48cf6944e0711d36c2291e4a37218ff20896e077583c1db64f8f8",
+          "OCR_derivative_sha256": "4eea4c61484f4233405fba1794c675854b6c3fd66a6e89fc7cb3595d92f180a9",
+          "page_faithful_image_sha256": "e1a3986a0598361847f846a00b3ee94d180080975ceeb55d9dd38fae3d893edc"
+        },
+        {
+          "ordinal": 9,
+          "locator": "SK-JA-V08-BWSS:p009",
+          "original_capture_sha256": "7b3597dd32125ac6930828fa2d79f88f751c460c059f465ca4154a3aac264beb",
+          "OCR_derivative_sha256": "5f263aab440a67c08c2495aed6b5d05e14d13d19aa9b7247e364c957b25f84c1",
+          "page_faithful_image_sha256": "aeaefb824f75fb6d013b9f809bc74dd4dde32500c5b33e45ca3d936400722630"
+        }
+      ],
+      "canonical_build_member_drift": []
+    },
+    {
+      "unit": "BW-JP-V10",
+      "I1_gap_alias": null,
+      "membership": "NEW_BONUS_ONLY_OUTSIDE_I1",
+      "source_filename": "Buying a Classmate Once a Week - Volume 10 - BOOK WALKER Bonus Short Story [Japanese].epub",
+      "acquired_text_witness": {
+        "bytes": 507337,
+        "sha256": "272d5efa006918015d5b444a65be3a4afb1acf51823164fcdfa1929b8015647f"
+      },
+      "page_faithful_witness": {
+        "bytes": 8788727,
+        "sha256": "b5f5d87023dc516a024a529b1e0075f1fbc5b6aa3bd11ec71fc89eb38c93e276"
+      },
+      "capture_pages": 9,
+      "corpus_paragraphs": 89,
+      "native_spine_paragraphs": 119,
+      "native_ruby": 0,
+      "native_page_map": {
+        "private_evidence_key": "intake-review/BW_V10_NATIVE_AND_PAGE_MAP_METADATA_ONLY.json",
+        "bytes": 174907,
+        "sha256": "cb5fc5f8adceeb538be20baf9e3c9fc9fa7bd4e64629ea9e7421c273b0136fd8"
+      },
+      "inspection_at_admission": "METADATA_BYTES_STRUCTURE_ONLY; ORIGINAL_PAGE_READING_PENDING",
+      "capture_page_identities": [
+        {
+          "ordinal": 1,
+          "locator": "SK-JA-V10-BWSS:p001",
+          "original_capture_sha256": "8cf0e382e856bb06b433384185182bbcc35c80064903179666387eaa5f375815",
+          "OCR_derivative_sha256": "c6baedb83b7b944cef971cbdaf18dc422117bb4116e63a4609a989b0b844ea35",
+          "page_faithful_image_sha256": "635b1210d63283b8ac276935bb474c09681f37c0291f3df273612750624e0d07"
+        },
+        {
+          "ordinal": 2,
+          "locator": "SK-JA-V10-BWSS:p002",
+          "original_capture_sha256": "4999a2d5045a21515b77d9623f32d49341a7a3d3f5cf1a55205904ecba411c00",
+          "OCR_derivative_sha256": "e43873ad738fc700510c53d2ee3cc1c8d9354f4b1df2a0caa5d049259111b1b6",
+          "page_faithful_image_sha256": "6771dbad6da4d5c920d022db068ad21067c3205a419ee0451e3705e83449ce85"
+        },
+        {
+          "ordinal": 3,
+          "locator": "SK-JA-V10-BWSS:p003",
+          "original_capture_sha256": "150fd2246e9f588915463b6b234d0bfe751ecd7953945e35e18ea0fc2ff9a4f5",
+          "OCR_derivative_sha256": "8c75c76d2c09e864918d9731206efff875cc6687f7baf142ca328a8a35655f52",
+          "page_faithful_image_sha256": "8d63d5b6806637b7f70872f581a22b926218b73594040ef501ebe1cbec055e58"
+        },
+        {
+          "ordinal": 4,
+          "locator": "SK-JA-V10-BWSS:p004",
+          "original_capture_sha256": "f10a2fb66ab7b5d5557e9ff80fba9ee6d3174a26170e8bc9d6aa0f223f2ba01d",
+          "OCR_derivative_sha256": "49b626fdf10700710fec645ec62da5cc1a170b2f7142c14c272115fa3a5f4370",
+          "page_faithful_image_sha256": "c148768b5f8fa960592f90e729c3e96c0e436248292c3370fa51c2bf79d62fc7"
+        },
+        {
+          "ordinal": 5,
+          "locator": "SK-JA-V10-BWSS:p005",
+          "original_capture_sha256": "29bfb71c9e4e88612526a34f5342006f4218b70d933e43189f8f5607917c8abc",
+          "OCR_derivative_sha256": "ec747df7a7f92776a9d1b16290555cf04e4d25e28a5d590898d40963d017d8e2",
+          "page_faithful_image_sha256": "a25ecde9ddb470d93ba87909b2c10fe0efb33e7e97cc83a7cdc2185166de131d"
+        },
+        {
+          "ordinal": 6,
+          "locator": "SK-JA-V10-BWSS:p006",
+          "original_capture_sha256": "8745d79e2f0d09756ebb78e090d8dc10da7f3546288fc9a686981c15dae96d6a",
+          "OCR_derivative_sha256": "fc7c0e0ec75821f6bd5c1381188526798d3de2513e054419575add9c11a89c11",
+          "page_faithful_image_sha256": "2e7720f8653b36118348a79b5dbc76d5b033e835a4ccfb75743883531df8ecb1"
+        },
+        {
+          "ordinal": 7,
+          "locator": "SK-JA-V10-BWSS:p007",
+          "original_capture_sha256": "0ce053c19da7037a32fd3fc241604943746450f31e2d79fb8b6a655d7f99a2c3",
+          "OCR_derivative_sha256": "1c840df1f943a19e730a553f0559d9b7233aded6b1531ecce69641d851a36344",
+          "page_faithful_image_sha256": "1728724a67786d65f2d3bde2485fa0013aa0c6a38e7f2ffb2276e2f43c8a43b2"
+        },
+        {
+          "ordinal": 8,
+          "locator": "SK-JA-V10-BWSS:p008",
+          "original_capture_sha256": "ed2e77c786b196f0353fd0714e68f01b361bc380c78c297eec3590f4cb6a903d",
+          "OCR_derivative_sha256": "875591c28c723322c440c2d3d681898716f444c871daa3edb8a190f9c3f089e5",
+          "page_faithful_image_sha256": "1f3bd28001e6ad014c508440887781e8a5d7d34b2b97a206fe8d37b2c0b44a15"
+        },
+        {
+          "ordinal": 9,
+          "locator": "SK-JA-V10-BWSS:p009",
+          "original_capture_sha256": "785de2607e24db6fc962a321b1881c5609b36b126c7c696590d61b33360a573c",
+          "OCR_derivative_sha256": "2cb13719f8578984e8e715f50f96dac913d633f73891dca53fc1f978b12b5c57",
+          "page_faithful_image_sha256": "11b3b1d98746c411986f1d602a14d04f53eb9f46ee46a5747fc0920f25a9c58c"
+        }
+      ],
+      "canonical_build_member_drift": [
+        {
+          "member": "META-INF/calibre_bookmarks.txt",
+          "canonical_bytes": 220,
+          "canonical_sha256": "d8a59b5c89cdd4811e3e6cda1f0ef89e857259bc0703c87ece7dd61d36b989f0",
+          "build_bytes": null,
+          "build_sha256": null
+        }
+      ]
+    }
+  ],
+  "counting": {
+    "prior_completed": 32,
+    "original_available": 458,
+    "newly_available": 5,
+    "current_additive_available": 463,
+    "gap_closure_requires_whole_unit_acceptance": true
+  },
+  "preservation": "BW03/06/07/09 exactly match I1 and are not reread or credited again; all old freezes and source identities remain intact",
+  "source_equivalence_limit": "User-acquired page captures and OCR derivatives; not an attestation of equivalence to a publisher retail binary"
+}

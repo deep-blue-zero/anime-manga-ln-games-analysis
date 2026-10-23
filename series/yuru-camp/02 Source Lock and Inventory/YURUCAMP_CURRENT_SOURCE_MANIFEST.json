@@ -9,7 +9,10 @@
   "do_not_use_as_current_authority": false,
   "authority_role": "current source routing; historical Phase 0 retained, not invalidated",
   "audit_date": "2026-10-17",
-  "analytical_boundary": "V15",
+  "source_reconciliation_date": "2026-10-22",
+  "folder_readback_date": "2026-10-17",
+  "current_verification_scope": "Preferred V16-V19 and retained V16/V17 archive bytes independently checked locally. Earlier folder readback, download audits and supplement hash qualifications remain historical. October 22 Drive propagation records provide metadata, not independently verified remote content hashes.",
+  "analytical_boundary": "V17",
   "source_folder_drive_id": "1KlblbCFMPiR1WSwMLD2icnDT7Dhjzm-j",
   "folder_readback": {
     "root_direct_children": 32,
@@ -38,22 +41,28 @@
     15,
     16,
     17,
-    18
-  ],
-  "latest_official_published_volume": 19,
-  "unacquired_published_main_volumes": [
+    18,
     19
   ],
+  "latest_official_published_volume": 19,
+  "unacquired_published_main_volumes": [],
   "publication_evidence": {
     "volume": 19,
     "release_date": "2026-10-09",
     "isbn": "9784832297579",
     "official_catalog": "https://houbunsha.co.jp/comics/detail.php?p=%25A4%25E6%25A4%25EB%25A5%25AD%25A5%25E3%25A5%25F3%25A2%25A4",
     "verified_date": "2026-10-17",
-    "acquisition_status": "PUBLISHED_UNACQUIRED",
-    "drive_id": null,
-    "sha256": null,
-    "scope": "No V19 object in inspected root/archive; not a claim about every possible external account or source. No marketing plot content admitted."
+    "acquisition_status": "ACQUIRED_VERIFIED_LOCAL_NOT_ANALYZED",
+    "acquisition_verified_date": "2026-10-22",
+    "drive_id": "1SUFejNLxWBLfvvfY2xCwyhhvYX8ud3bN",
+    "sha256": "b77d071322e1321e52b6d68b254843becedc339b807c982865d99b0d5e32a043",
+    "scope": "October 22 acquisition reconciled to independently hashed local bytes; dated Drive metadata is not remote content-hash verification. No marketing plot content admitted.",
+    "historical_acquisition_observation_2026_10_17": {
+      "acquisition_status": "PUBLISHED_UNACQUIRED",
+      "drive_id": null,
+      "sha256": null,
+      "scope": "No V19 object in inspected root/archive; not a claim about every possible external account or source. No marketing plot content admitted."
+    }
   },
   "main_manga": [
     {
@@ -523,47 +532,1125 @@
     },
     {
       "volume": 16,
-      "file": "Laid-Back Camp - Vol. 16 [Japanese].cbz",
-      "drive_id": "1U_krzsI0k5fQkE4H8mAmNPBZD1ueWNKS",
+      "file": "Laid-Back Camp - Vol. 16 [Japanese].epub",
+      "drive_id": "1S6wIlhB--XXMdja34Y-uzrdcR6xOMXNv",
       "source_class": "main_manga",
       "preferred": true,
       "source_role": "primary_manga",
-      "size_bytes": 53707024,
-      "sha256": "3a6665014f96cc6c7245ec54989bce651fcb42659b2838e6525c9fc96bd2f584",
-      "identity_verification": "LIVE_METADATA_AND_DOWNLOADED_SHA256",
-      "identity_verified_date": "2026-10-17",
-      "literary_analysis_boundary": "NOT_ANALYZED",
-      "kind": "cbz",
-      "technical_audit_date": "2026-10-17",
+      "size_bytes": 93334575,
+      "sha256": "89a0c141bcffc614f08c470be93782e9358845eca59ed8f901e9861138214aa3",
+      "identity_verification": "INDEPENDENT_LOCAL_SHA256_WITH_RECORDED_DRIVE_METADATA",
+      "identity_verified_date": "2026-10-22",
+      "literary_analysis_boundary": "V16_COMPLETE",
+      "literary_reading": "../03 Volume Deep Readings/YURUCAMP_V16_DEEP_READING.md",
+      "literary_inspection_date": "2026-10-23",
+      "kind": "epub",
+      "technical_audit_date": "2026-10-22",
       "technical": {
         "zip_crc_ok": true,
-        "image_count": 168,
+        "image_count": 166,
         "image_decode_ok": true,
         "dimensions": [
           {
-            "width": 1125,
-            "height": 1600,
-            "count": 168
+            "width": 1350,
+            "height": 1920,
+            "count": 166
           }
         ],
-        "ad_inserts": [
+        "opf": "item/standard.opf",
+        "mimetype": "application/epub+zip",
+        "spine_count": 166,
+        "spine_image_mapping_complete": true,
+        "distinct_spine_images": 166,
+        "language": [
+          "ja"
+        ],
+        "fixed_layout_metadata": [
+          {
+            "property": "rendition:layout",
+            "text": "pre-paginated"
+          },
+          {
+            "property": "rendition:spread",
+            "text": "landscape"
+          },
+          {
+            "name": "fixed-layout",
+            "content": "true",
+            "text": null
+          }
+        ],
+        "spine_image_map": [
+          {
+            "spine_index": 1,
+            "itemref_id": "p-cover",
+            "xhtml": "item/xhtml/p-cover.xhtml",
+            "image": "item/image/cover_omo.jpg"
+          },
+          {
+            "spine_index": 2,
+            "itemref_id": "p-001",
+            "xhtml": "item/xhtml/p-001.xhtml",
+            "image": "item/image/i-000.jpg"
+          },
+          {
+            "spine_index": 3,
+            "itemref_id": "p-002",
+            "xhtml": "item/xhtml/p-002.xhtml",
+            "image": "item/image/i-001.jpg"
+          },
+          {
+            "spine_index": 4,
+            "itemref_id": "p-003",
+            "xhtml": "item/xhtml/p-003.xhtml",
+            "image": "item/image/i-002.jpg"
+          },
+          {
+            "spine_index": 5,
+            "itemref_id": "p-004",
+            "xhtml": "item/xhtml/p-004.xhtml",
+            "image": "item/image/i-003.jpg"
+          },
+          {
+            "spine_index": 6,
+            "itemref_id": "p-005",
+            "xhtml": "item/xhtml/p-005.xhtml",
+            "image": "item/image/i-004.jpg"
+          },
+          {
+            "spine_index": 7,
+            "itemref_id": "p-006",
+            "xhtml": "item/xhtml/p-006.xhtml",
+            "image": "item/image/i-005.jpg"
+          },
+          {
+            "spine_index": 8,
+            "itemref_id": "p-007",
+            "xhtml": "item/xhtml/p-007.xhtml",
+            "image": "item/image/i-006.jpg"
+          },
+          {
+            "spine_index": 9,
+            "itemref_id": "p-008",
+            "xhtml": "item/xhtml/p-008.xhtml",
+            "image": "item/image/i-007.jpg"
+          },
+          {
+            "spine_index": 10,
+            "itemref_id": "p-009",
+            "xhtml": "item/xhtml/p-009.xhtml",
+            "image": "item/image/i-008.jpg"
+          },
+          {
+            "spine_index": 11,
+            "itemref_id": "p-010",
+            "xhtml": "item/xhtml/p-010.xhtml",
+            "image": "item/image/i-009.jpg"
+          },
+          {
+            "spine_index": 12,
+            "itemref_id": "p-011",
+            "xhtml": "item/xhtml/p-011.xhtml",
+            "image": "item/image/i-010.jpg"
+          },
+          {
+            "spine_index": 13,
+            "itemref_id": "p-012",
+            "xhtml": "item/xhtml/p-012.xhtml",
+            "image": "item/image/i-011.jpg"
+          },
+          {
+            "spine_index": 14,
+            "itemref_id": "p-013",
+            "xhtml": "item/xhtml/p-013.xhtml",
+            "image": "item/image/i-012.jpg"
+          },
+          {
+            "spine_index": 15,
+            "itemref_id": "p-014",
+            "xhtml": "item/xhtml/p-014.xhtml",
+            "image": "item/image/i-013.jpg"
+          },
+          {
+            "spine_index": 16,
+            "itemref_id": "p-015",
+            "xhtml": "item/xhtml/p-015.xhtml",
+            "image": "item/image/i-014.jpg"
+          },
+          {
+            "spine_index": 17,
+            "itemref_id": "p-016",
+            "xhtml": "item/xhtml/p-016.xhtml",
+            "image": "item/image/i-015.jpg"
+          },
+          {
+            "spine_index": 18,
+            "itemref_id": "p-017",
+            "xhtml": "item/xhtml/p-017.xhtml",
+            "image": "item/image/i-016.jpg"
+          },
+          {
+            "spine_index": 19,
+            "itemref_id": "p-018",
+            "xhtml": "item/xhtml/p-018.xhtml",
+            "image": "item/image/i-017.jpg"
+          },
+          {
+            "spine_index": 20,
+            "itemref_id": "p-019",
+            "xhtml": "item/xhtml/p-019.xhtml",
+            "image": "item/image/i-018.jpg"
+          },
+          {
+            "spine_index": 21,
+            "itemref_id": "p-020",
+            "xhtml": "item/xhtml/p-020.xhtml",
+            "image": "item/image/i-019.jpg"
+          },
+          {
+            "spine_index": 22,
+            "itemref_id": "p-021",
+            "xhtml": "item/xhtml/p-021.xhtml",
+            "image": "item/image/i-020.jpg"
+          },
+          {
+            "spine_index": 23,
+            "itemref_id": "p-022",
+            "xhtml": "item/xhtml/p-022.xhtml",
+            "image": "item/image/i-021.jpg"
+          },
+          {
+            "spine_index": 24,
+            "itemref_id": "p-023",
+            "xhtml": "item/xhtml/p-023.xhtml",
+            "image": "item/image/i-022.jpg"
+          },
+          {
+            "spine_index": 25,
+            "itemref_id": "p-024",
+            "xhtml": "item/xhtml/p-024.xhtml",
+            "image": "item/image/i-023.jpg"
+          },
+          {
+            "spine_index": 26,
+            "itemref_id": "p-025",
+            "xhtml": "item/xhtml/p-025.xhtml",
+            "image": "item/image/i-024.jpg"
+          },
+          {
+            "spine_index": 27,
+            "itemref_id": "p-026",
+            "xhtml": "item/xhtml/p-026.xhtml",
+            "image": "item/image/i-025.jpg"
+          },
+          {
+            "spine_index": 28,
+            "itemref_id": "p-027",
+            "xhtml": "item/xhtml/p-027.xhtml",
+            "image": "item/image/i-026.jpg"
+          },
+          {
+            "spine_index": 29,
+            "itemref_id": "p-028",
+            "xhtml": "item/xhtml/p-028.xhtml",
+            "image": "item/image/i-027.jpg"
+          },
+          {
+            "spine_index": 30,
+            "itemref_id": "p-029",
+            "xhtml": "item/xhtml/p-029.xhtml",
+            "image": "item/image/i-028.jpg"
+          },
+          {
+            "spine_index": 31,
+            "itemref_id": "p-030",
+            "xhtml": "item/xhtml/p-030.xhtml",
+            "image": "item/image/i-029.jpg"
+          },
+          {
+            "spine_index": 32,
+            "itemref_id": "p-031",
+            "xhtml": "item/xhtml/p-031.xhtml",
+            "image": "item/image/i-030.jpg"
+          },
+          {
+            "spine_index": 33,
+            "itemref_id": "p-032",
+            "xhtml": "item/xhtml/p-032.xhtml",
+            "image": "item/image/i-031.jpg"
+          },
+          {
+            "spine_index": 34,
+            "itemref_id": "p-033",
+            "xhtml": "item/xhtml/p-033.xhtml",
+            "image": "item/image/i-032.jpg"
+          },
+          {
+            "spine_index": 35,
+            "itemref_id": "p-034",
+            "xhtml": "item/xhtml/p-034.xhtml",
+            "image": "item/image/i-033.jpg"
+          },
+          {
+            "spine_index": 36,
+            "itemref_id": "p-035",
+            "xhtml": "item/xhtml/p-035.xhtml",
+            "image": "item/image/i-034.jpg"
+          },
+          {
+            "spine_index": 37,
+            "itemref_id": "p-036",
+            "xhtml": "item/xhtml/p-036.xhtml",
+            "image": "item/image/i-035.jpg"
+          },
+          {
+            "spine_index": 38,
+            "itemref_id": "p-037",
+            "xhtml": "item/xhtml/p-037.xhtml",
+            "image": "item/image/i-036.jpg"
+          },
+          {
+            "spine_index": 39,
+            "itemref_id": "p-038",
+            "xhtml": "item/xhtml/p-038.xhtml",
+            "image": "item/image/i-037.jpg"
+          },
+          {
+            "spine_index": 40,
+            "itemref_id": "p-039",
+            "xhtml": "item/xhtml/p-039.xhtml",
+            "image": "item/image/i-038.jpg"
+          },
+          {
+            "spine_index": 41,
+            "itemref_id": "p-040",
+            "xhtml": "item/xhtml/p-040.xhtml",
+            "image": "item/image/i-039.jpg"
+          },
+          {
+            "spine_index": 42,
+            "itemref_id": "p-041",
+            "xhtml": "item/xhtml/p-041.xhtml",
+            "image": "item/image/i-040.jpg"
+          },
+          {
+            "spine_index": 43,
+            "itemref_id": "p-042",
+            "xhtml": "item/xhtml/p-042.xhtml",
+            "image": "item/image/i-041.jpg"
+          },
+          {
+            "spine_index": 44,
+            "itemref_id": "p-043",
+            "xhtml": "item/xhtml/p-043.xhtml",
+            "image": "item/image/i-042.jpg"
+          },
+          {
+            "spine_index": 45,
+            "itemref_id": "p-044",
+            "xhtml": "item/xhtml/p-044.xhtml",
+            "image": "item/image/i-043.jpg"
+          },
+          {
+            "spine_index": 46,
+            "itemref_id": "p-045",
+            "xhtml": "item/xhtml/p-045.xhtml",
+            "image": "item/image/i-044.jpg"
+          },
+          {
+            "spine_index": 47,
+            "itemref_id": "p-046",
+            "xhtml": "item/xhtml/p-046.xhtml",
+            "image": "item/image/i-045.jpg"
+          },
+          {
+            "spine_index": 48,
+            "itemref_id": "p-047",
+            "xhtml": "item/xhtml/p-047.xhtml",
+            "image": "item/image/i-046.jpg"
+          },
+          {
+            "spine_index": 49,
+            "itemref_id": "p-048",
+            "xhtml": "item/xhtml/p-048.xhtml",
+            "image": "item/image/i-047.jpg"
+          },
+          {
+            "spine_index": 50,
+            "itemref_id": "p-049",
+            "xhtml": "item/xhtml/p-049.xhtml",
+            "image": "item/image/i-048.jpg"
+          },
+          {
+            "spine_index": 51,
+            "itemref_id": "p-050",
+            "xhtml": "item/xhtml/p-050.xhtml",
+            "image": "item/image/i-049.jpg"
+          },
+          {
+            "spine_index": 52,
+            "itemref_id": "p-051",
+            "xhtml": "item/xhtml/p-051.xhtml",
+            "image": "item/image/i-050.jpg"
+          },
+          {
+            "spine_index": 53,
+            "itemref_id": "p-052",
+            "xhtml": "item/xhtml/p-052.xhtml",
+            "image": "item/image/i-051.jpg"
+          },
+          {
+            "spine_index": 54,
+            "itemref_id": "p-053",
+            "xhtml": "item/xhtml/p-053.xhtml",
+            "image": "item/image/i-052.jpg"
+          },
+          {
+            "spine_index": 55,
+            "itemref_id": "p-054",
+            "xhtml": "item/xhtml/p-054.xhtml",
+            "image": "item/image/i-053.jpg"
+          },
+          {
+            "spine_index": 56,
+            "itemref_id": "p-055",
+            "xhtml": "item/xhtml/p-055.xhtml",
+            "image": "item/image/i-054.jpg"
+          },
+          {
+            "spine_index": 57,
+            "itemref_id": "p-056",
+            "xhtml": "item/xhtml/p-056.xhtml",
+            "image": "item/image/i-055.jpg"
+          },
+          {
+            "spine_index": 58,
+            "itemref_id": "p-057",
+            "xhtml": "item/xhtml/p-057.xhtml",
+            "image": "item/image/i-056.jpg"
+          },
+          {
+            "spine_index": 59,
+            "itemref_id": "p-058",
+            "xhtml": "item/xhtml/p-058.xhtml",
+            "image": "item/image/i-057.jpg"
+          },
+          {
+            "spine_index": 60,
+            "itemref_id": "p-059",
+            "xhtml": "item/xhtml/p-059.xhtml",
+            "image": "item/image/i-058.jpg"
+          },
+          {
+            "spine_index": 61,
+            "itemref_id": "p-060",
+            "xhtml": "item/xhtml/p-060.xhtml",
+            "image": "item/image/i-059.jpg"
+          },
+          {
+            "spine_index": 62,
+            "itemref_id": "p-061",
+            "xhtml": "item/xhtml/p-061.xhtml",
+            "image": "item/image/i-060.jpg"
+          },
+          {
+            "spine_index": 63,
+            "itemref_id": "p-062",
+            "xhtml": "item/xhtml/p-062.xhtml",
+            "image": "item/image/i-061.jpg"
+          },
+          {
+            "spine_index": 64,
+            "itemref_id": "p-063",
+            "xhtml": "item/xhtml/p-063.xhtml",
+            "image": "item/image/i-062.jpg"
+          },
+          {
+            "spine_index": 65,
+            "itemref_id": "p-064",
+            "xhtml": "item/xhtml/p-064.xhtml",
+            "image": "item/image/i-063.jpg"
+          },
+          {
+            "spine_index": 66,
+            "itemref_id": "p-065",
+            "xhtml": "item/xhtml/p-065.xhtml",
+            "image": "item/image/i-064.jpg"
+          },
+          {
+            "spine_index": 67,
+            "itemref_id": "p-066",
+            "xhtml": "item/xhtml/p-066.xhtml",
+            "image": "item/image/i-065.jpg"
+          },
+          {
+            "spine_index": 68,
+            "itemref_id": "p-067",
+            "xhtml": "item/xhtml/p-067.xhtml",
+            "image": "item/image/i-066.jpg"
+          },
+          {
+            "spine_index": 69,
+            "itemref_id": "p-068",
+            "xhtml": "item/xhtml/p-068.xhtml",
+            "image": "item/image/i-067.jpg"
+          },
+          {
+            "spine_index": 70,
+            "itemref_id": "p-069",
+            "xhtml": "item/xhtml/p-069.xhtml",
+            "image": "item/image/i-068.jpg"
+          },
+          {
+            "spine_index": 71,
+            "itemref_id": "p-070",
+            "xhtml": "item/xhtml/p-070.xhtml",
+            "image": "item/image/i-069.jpg"
+          },
+          {
+            "spine_index": 72,
+            "itemref_id": "p-071",
+            "xhtml": "item/xhtml/p-071.xhtml",
+            "image": "item/image/i-070.jpg"
+          },
+          {
+            "spine_index": 73,
+            "itemref_id": "p-072",
+            "xhtml": "item/xhtml/p-072.xhtml",
+            "image": "item/image/i-071.jpg"
+          },
+          {
+            "spine_index": 74,
+            "itemref_id": "p-073",
+            "xhtml": "item/xhtml/p-073.xhtml",
+            "image": "item/image/i-072.jpg"
+          },
+          {
+            "spine_index": 75,
+            "itemref_id": "p-074",
+            "xhtml": "item/xhtml/p-074.xhtml",
+            "image": "item/image/i-073.jpg"
+          },
+          {
+            "spine_index": 76,
+            "itemref_id": "p-075",
+            "xhtml": "item/xhtml/p-075.xhtml",
+            "image": "item/image/i-074.jpg"
+          },
+          {
+            "spine_index": 77,
+            "itemref_id": "p-076",
+            "xhtml": "item/xhtml/p-076.xhtml",
+            "image": "item/image/i-075.jpg"
+          },
+          {
+            "spine_index": 78,
+            "itemref_id": "p-077",
+            "xhtml": "item/xhtml/p-077.xhtml",
+            "image": "item/image/i-076.jpg"
+          },
+          {
+            "spine_index": 79,
+            "itemref_id": "p-078",
+            "xhtml": "item/xhtml/p-078.xhtml",
+            "image": "item/image/i-077.jpg"
+          },
+          {
+            "spine_index": 80,
+            "itemref_id": "p-079",
+            "xhtml": "item/xhtml/p-079.xhtml",
+            "image": "item/image/i-078.jpg"
+          },
+          {
+            "spine_index": 81,
+            "itemref_id": "p-080",
+            "xhtml": "item/xhtml/p-080.xhtml",
+            "image": "item/image/i-079.jpg"
+          },
+          {
+            "spine_index": 82,
+            "itemref_id": "p-081",
+            "xhtml": "item/xhtml/p-081.xhtml",
+            "image": "item/image/i-080.jpg"
+          },
+          {
+            "spine_index": 83,
+            "itemref_id": "p-082",
+            "xhtml": "item/xhtml/p-082.xhtml",
+            "image": "item/image/i-081.jpg"
+          },
+          {
+            "spine_index": 84,
+            "itemref_id": "p-083",
+            "xhtml": "item/xhtml/p-083.xhtml",
+            "image": "item/image/i-082.jpg"
+          },
+          {
+            "spine_index": 85,
+            "itemref_id": "p-084",
+            "xhtml": "item/xhtml/p-084.xhtml",
+            "image": "item/image/i-083.jpg"
+          },
+          {
+            "spine_index": 86,
+            "itemref_id": "p-085",
+            "xhtml": "item/xhtml/p-085.xhtml",
+            "image": "item/image/i-084.jpg"
+          },
+          {
+            "spine_index": 87,
+            "itemref_id": "p-086",
+            "xhtml": "item/xhtml/p-086.xhtml",
+            "image": "item/image/i-085.jpg"
+          },
+          {
+            "spine_index": 88,
+            "itemref_id": "p-087",
+            "xhtml": "item/xhtml/p-087.xhtml",
+            "image": "item/image/i-086.jpg"
+          },
+          {
+            "spine_index": 89,
+            "itemref_id": "p-088",
+            "xhtml": "item/xhtml/p-088.xhtml",
+            "image": "item/image/i-087.jpg"
+          },
+          {
+            "spine_index": 90,
+            "itemref_id": "p-089",
+            "xhtml": "item/xhtml/p-089.xhtml",
+            "image": "item/image/i-088.jpg"
+          },
+          {
+            "spine_index": 91,
+            "itemref_id": "p-090",
+            "xhtml": "item/xhtml/p-090.xhtml",
+            "image": "item/image/i-089.jpg"
+          },
+          {
+            "spine_index": 92,
+            "itemref_id": "p-091",
+            "xhtml": "item/xhtml/p-091.xhtml",
+            "image": "item/image/i-090.jpg"
+          },
+          {
+            "spine_index": 93,
+            "itemref_id": "p-092",
+            "xhtml": "item/xhtml/p-092.xhtml",
+            "image": "item/image/i-091.jpg"
+          },
+          {
+            "spine_index": 94,
+            "itemref_id": "p-093",
+            "xhtml": "item/xhtml/p-093.xhtml",
+            "image": "item/image/i-092.jpg"
+          },
+          {
+            "spine_index": 95,
+            "itemref_id": "p-094",
+            "xhtml": "item/xhtml/p-094.xhtml",
+            "image": "item/image/i-093.jpg"
+          },
+          {
+            "spine_index": 96,
+            "itemref_id": "p-095",
+            "xhtml": "item/xhtml/p-095.xhtml",
+            "image": "item/image/i-094.jpg"
+          },
+          {
+            "spine_index": 97,
+            "itemref_id": "p-096",
+            "xhtml": "item/xhtml/p-096.xhtml",
+            "image": "item/image/i-095.jpg"
+          },
+          {
+            "spine_index": 98,
+            "itemref_id": "p-097",
+            "xhtml": "item/xhtml/p-097.xhtml",
+            "image": "item/image/i-096.jpg"
+          },
+          {
+            "spine_index": 99,
+            "itemref_id": "p-098",
+            "xhtml": "item/xhtml/p-098.xhtml",
+            "image": "item/image/i-097.jpg"
+          },
+          {
+            "spine_index": 100,
+            "itemref_id": "p-099",
+            "xhtml": "item/xhtml/p-099.xhtml",
+            "image": "item/image/i-098.jpg"
+          },
+          {
+            "spine_index": 101,
+            "itemref_id": "p-100",
+            "xhtml": "item/xhtml/p-100.xhtml",
+            "image": "item/image/i-099.jpg"
+          },
+          {
+            "spine_index": 102,
+            "itemref_id": "p-101",
+            "xhtml": "item/xhtml/p-101.xhtml",
+            "image": "item/image/i-100.jpg"
+          },
+          {
+            "spine_index": 103,
+            "itemref_id": "p-102",
+            "xhtml": "item/xhtml/p-102.xhtml",
+            "image": "item/image/i-101.jpg"
+          },
+          {
+            "spine_index": 104,
+            "itemref_id": "p-103",
+            "xhtml": "item/xhtml/p-103.xhtml",
+            "image": "item/image/i-102.jpg"
+          },
+          {
+            "spine_index": 105,
+            "itemref_id": "p-104",
+            "xhtml": "item/xhtml/p-104.xhtml",
+            "image": "item/image/i-103.jpg"
+          },
+          {
+            "spine_index": 106,
+            "itemref_id": "p-105",
+            "xhtml": "item/xhtml/p-105.xhtml",
+            "image": "item/image/i-104.jpg"
+          },
+          {
+            "spine_index": 107,
+            "itemref_id": "p-106",
+            "xhtml": "item/xhtml/p-106.xhtml",
+            "image": "item/image/i-105.jpg"
+          },
+          {
+            "spine_index": 108,
+            "itemref_id": "p-107",
+            "xhtml": "item/xhtml/p-107.xhtml",
+            "image": "item/image/i-106.jpg"
+          },
+          {
+            "spine_index": 109,
+            "itemref_id": "p-108",
+            "xhtml": "item/xhtml/p-108.xhtml",
+            "image": "item/image/i-107.jpg"
+          },
+          {
+            "spine_index": 110,
+            "itemref_id": "p-109",
+            "xhtml": "item/xhtml/p-109.xhtml",
+            "image": "item/image/i-108.jpg"
+          },
+          {
+            "spine_index": 111,
+            "itemref_id": "p-110",
+            "xhtml": "item/xhtml/p-110.xhtml",
+            "image": "item/image/i-109.jpg"
+          },
+          {
+            "spine_index": 112,
+            "itemref_id": "p-111",
+            "xhtml": "item/xhtml/p-111.xhtml",
+            "image": "item/image/i-110.jpg"
+          },
+          {
+            "spine_index": 113,
+            "itemref_id": "p-112",
+            "xhtml": "item/xhtml/p-112.xhtml",
+            "image": "item/image/i-111.jpg"
+          },
+          {
+            "spine_index": 114,
+            "itemref_id": "p-113",
+            "xhtml": "item/xhtml/p-113.xhtml",
+            "image": "item/image/i-112.jpg"
+          },
+          {
+            "spine_index": 115,
+            "itemref_id": "p-114",
+            "xhtml": "item/xhtml/p-114.xhtml",
+            "image": "item/image/i-113.jpg"
+          },
+          {
+            "spine_index": 116,
+            "itemref_id": "p-115",
+            "xhtml": "item/xhtml/p-115.xhtml",
+            "image": "item/image/i-114.jpg"
+          },
+          {
+            "spine_index": 117,
+            "itemref_id": "p-116",
+            "xhtml": "item/xhtml/p-116.xhtml",
+            "image": "item/image/i-115.jpg"
+          },
+          {
+            "spine_index": 118,
+            "itemref_id": "p-117",
+            "xhtml": "item/xhtml/p-117.xhtml",
+            "image": "item/image/i-116.jpg"
+          },
+          {
+            "spine_index": 119,
+            "itemref_id": "p-118",
+            "xhtml": "item/xhtml/p-118.xhtml",
+            "image": "item/image/i-117.jpg"
+          },
+          {
+            "spine_index": 120,
+            "itemref_id": "p-119",
+            "xhtml": "item/xhtml/p-119.xhtml",
+            "image": "item/image/i-118.jpg"
+          },
+          {
+            "spine_index": 121,
+            "itemref_id": "p-120",
+            "xhtml": "item/xhtml/p-120.xhtml",
+            "image": "item/image/i-119.jpg"
+          },
+          {
+            "spine_index": 122,
+            "itemref_id": "p-121",
+            "xhtml": "item/xhtml/p-121.xhtml",
+            "image": "item/image/i-120.jpg"
+          },
+          {
+            "spine_index": 123,
+            "itemref_id": "p-122",
+            "xhtml": "item/xhtml/p-122.xhtml",
+            "image": "item/image/i-121.jpg"
+          },
+          {
+            "spine_index": 124,
+            "itemref_id": "p-123",
+            "xhtml": "item/xhtml/p-123.xhtml",
+            "image": "item/image/i-122.jpg"
+          },
+          {
+            "spine_index": 125,
+            "itemref_id": "p-124",
+            "xhtml": "item/xhtml/p-124.xhtml",
+            "image": "item/image/i-123.jpg"
+          },
+          {
+            "spine_index": 126,
+            "itemref_id": "p-125",
+            "xhtml": "item/xhtml/p-125.xhtml",
+            "image": "item/image/i-124.jpg"
+          },
+          {
+            "spine_index": 127,
+            "itemref_id": "p-126",
+            "xhtml": "item/xhtml/p-126.xhtml",
+            "image": "item/image/i-125.jpg"
+          },
+          {
+            "spine_index": 128,
+            "itemref_id": "p-127",
+            "xhtml": "item/xhtml/p-127.xhtml",
+            "image": "item/image/i-126.jpg"
+          },
+          {
+            "spine_index": 129,
+            "itemref_id": "p-128",
+            "xhtml": "item/xhtml/p-128.xhtml",
+            "image": "item/image/i-127.jpg"
+          },
+          {
+            "spine_index": 130,
+            "itemref_id": "p-129",
+            "xhtml": "item/xhtml/p-129.xhtml",
+            "image": "item/image/i-128.jpg"
+          },
+          {
+            "spine_index": 131,
+            "itemref_id": "p-130",
+            "xhtml": "item/xhtml/p-130.xhtml",
+            "image": "item/image/i-129.jpg"
+          },
+          {
+            "spine_index": 132,
+            "itemref_id": "p-131",
+            "xhtml": "item/xhtml/p-131.xhtml",
+            "image": "item/image/i-130.jpg"
+          },
+          {
+            "spine_index": 133,
+            "itemref_id": "p-132",
+            "xhtml": "item/xhtml/p-132.xhtml",
+            "image": "item/image/i-131.jpg"
+          },
+          {
+            "spine_index": 134,
+            "itemref_id": "p-133",
+            "xhtml": "item/xhtml/p-133.xhtml",
+            "image": "item/image/i-132.jpg"
+          },
+          {
+            "spine_index": 135,
+            "itemref_id": "p-134",
+            "xhtml": "item/xhtml/p-134.xhtml",
+            "image": "item/image/i-133.jpg"
+          },
+          {
+            "spine_index": 136,
+            "itemref_id": "p-135",
+            "xhtml": "item/xhtml/p-135.xhtml",
+            "image": "item/image/i-134.jpg"
+          },
+          {
+            "spine_index": 137,
+            "itemref_id": "p-136",
+            "xhtml": "item/xhtml/p-136.xhtml",
+            "image": "item/image/i-135.jpg"
+          },
+          {
+            "spine_index": 138,
+            "itemref_id": "p-137",
+            "xhtml": "item/xhtml/p-137.xhtml",
+            "image": "item/image/i-136.jpg"
+          },
+          {
+            "spine_index": 139,
+            "itemref_id": "p-138",
+            "xhtml": "item/xhtml/p-138.xhtml",
+            "image": "item/image/i-137.jpg"
+          },
+          {
+            "spine_index": 140,
+            "itemref_id": "p-139",
+            "xhtml": "item/xhtml/p-139.xhtml",
+            "image": "item/image/i-138.jpg"
+          },
+          {
+            "spine_index": 141,
+            "itemref_id": "p-140",
+            "xhtml": "item/xhtml/p-140.xhtml",
+            "image": "item/image/i-139.jpg"
+          },
+          {
+            "spine_index": 142,
+            "itemref_id": "p-141",
+            "xhtml": "item/xhtml/p-141.xhtml",
+            "image": "item/image/i-140.jpg"
+          },
+          {
+            "spine_index": 143,
+            "itemref_id": "p-142",
+            "xhtml": "item/xhtml/p-142.xhtml",
+            "image": "item/image/i-141.jpg"
+          },
+          {
+            "spine_index": 144,
+            "itemref_id": "p-143",
+            "xhtml": "item/xhtml/p-143.xhtml",
+            "image": "item/image/i-142.jpg"
+          },
+          {
+            "spine_index": 145,
+            "itemref_id": "p-144",
+            "xhtml": "item/xhtml/p-144.xhtml",
+            "image": "item/image/i-143.jpg"
+          },
+          {
+            "spine_index": 146,
+            "itemref_id": "p-145",
+            "xhtml": "item/xhtml/p-145.xhtml",
+            "image": "item/image/i-144.jpg"
+          },
+          {
+            "spine_index": 147,
+            "itemref_id": "p-146",
+            "xhtml": "item/xhtml/p-146.xhtml",
+            "image": "item/image/i-145.jpg"
+          },
+          {
+            "spine_index": 148,
+            "itemref_id": "p-147",
+            "xhtml": "item/xhtml/p-147.xhtml",
+            "image": "item/image/i-146.jpg"
+          },
+          {
+            "spine_index": 149,
+            "itemref_id": "p-148",
+            "xhtml": "item/xhtml/p-148.xhtml",
+            "image": "item/image/i-147.jpg"
+          },
+          {
+            "spine_index": 150,
+            "itemref_id": "p-149",
+            "xhtml": "item/xhtml/p-149.xhtml",
+            "image": "item/image/i-148.jpg"
+          },
+          {
+            "spine_index": 151,
+            "itemref_id": "p-150",
+            "xhtml": "item/xhtml/p-150.xhtml",
+            "image": "item/image/i-149.jpg"
+          },
+          {
+            "spine_index": 152,
+            "itemref_id": "p-151",
+            "xhtml": "item/xhtml/p-151.xhtml",
+            "image": "item/image/i-150.jpg"
+          },
+          {
+            "spine_index": 153,
+            "itemref_id": "p-152",
+            "xhtml": "item/xhtml/p-152.xhtml",
+            "image": "item/image/i-151.jpg"
+          },
+          {
+            "spine_index": 154,
+            "itemref_id": "p-153",
+            "xhtml": "item/xhtml/p-153.xhtml",
+            "image": "item/image/i-152.jpg"
+          },
+          {
+            "spine_index": 155,
+            "itemref_id": "p-154",
+            "xhtml": "item/xhtml/p-154.xhtml",
+            "image": "item/image/i-153.jpg"
+          },
+          {
+            "spine_index": 156,
+            "itemref_id": "p-155",
+            "xhtml": "item/xhtml/p-155.xhtml",
+            "image": "item/image/i-154.jpg"
+          },
+          {
+            "spine_index": 157,
+            "itemref_id": "p-156",
+            "xhtml": "item/xhtml/p-156.xhtml",
+            "image": "item/image/i-155.jpg"
+          },
+          {
+            "spine_index": 158,
+            "itemref_id": "p-157",
+            "xhtml": "item/xhtml/p-157.xhtml",
+            "image": "item/image/i-156.jpg"
+          },
+          {
+            "spine_index": 159,
+            "itemref_id": "p-158",
+            "xhtml": "item/xhtml/p-158.xhtml",
+            "image": "item/image/i-157.jpg"
+          },
+          {
+            "spine_index": 160,
+            "itemref_id": "p-159",
+            "xhtml": "item/xhtml/p-159.xhtml",
+            "image": "item/image/i-158.jpg"
+          },
+          {
+            "spine_index": 161,
+            "itemref_id": "p-160",
+            "xhtml": "item/xhtml/p-160.xhtml",
+            "image": "item/image/i-159.jpg"
+          },
+          {
+            "spine_index": 162,
+            "itemref_id": "p-161",
+            "xhtml": "item/xhtml/p-161.xhtml",
+            "image": "item/image/i-160.jpg"
+          },
+          {
+            "spine_index": 163,
+            "itemref_id": "p-162",
+            "xhtml": "item/xhtml/p-162.xhtml",
+            "image": "item/image/i-161.jpg"
+          },
+          {
+            "spine_index": 164,
+            "itemref_id": "p-163",
+            "xhtml": "item/xhtml/p-163.xhtml",
+            "image": "item/image/i-162.jpg"
+          },
+          {
+            "spine_index": 165,
+            "itemref_id": "p-164",
+            "xhtml": "item/xhtml/p-164.xhtml",
+            "image": "item/image/cover.jpg"
+          },
+          {
+            "spine_index": 166,
+            "itemref_id": "p-165",
+            "xhtml": "item/xhtml/p-165.xhtml",
+            "image": "item/image/hyoushi.jpg"
+          }
+        ],
+        "metadata_identifier": [
+          "urn:uuid:ef3a777a-cf8a-4bfd-a69b-0c80796b5e3b"
+        ],
+        "zip_entry_count": 340,
+        "page_progression_direction": "rtl",
+        "encryption_descriptor_present": false
+      },
+      "status": "LOCKED_PRIMARY",
+      "quality": "PREFERRED_JAPANESE_PUBLISHER_FIXED_LAYOUT",
+      "locator_scheme": "1-based OPF spine index + XHTML member + image member; full mapping in technical.spine_image_map",
+      "local_reverification": {
+        "date": "2026-10-22",
+        "identity_verification": "INDEPENDENT_LOCAL_BYTES_SHA256",
+        "sha256_matches_preferred_identity": true,
+        "zip_crc_ok": true,
+        "all_166_images_fully_decoded": true,
+        "container_manifest_and_spine_ok": true,
+        "spine_mapping_checked_rows": 166,
+        "dimensions": {
+          "width": 1350,
+          "height": 1920,
+          "count": 166
+        },
+        "remote_content_hash_verified": false,
+        "remote_metadata_scope": "Dated acquisition propagation metadata; not fresh remote content verification",
+        "full_epubcheck_performed": false,
+        "narrative_inspection": false
+      },
+      "drive_metadata_record_date": "2026-10-22",
+      "supersedes_source_drive_id": "1U_krzsI0k5fQkE4H8mAmNPBZD1ueWNKS",
+      "source_crosswalk": {
+        "from_sha256": "3a6665014f96cc6c7245ec54989bce651fcb42659b2838e6525c9fc96bd2f584",
+        "to_sha256": "89a0c141bcffc614f08c470be93782e9358845eca59ed8f901e9861138214aa3",
+        "old_locator_unit": "one-based CBZ raw image position, member NNNN.jpg",
+        "preferred_locator_unit": "one-based EPUB reading-spine position",
+        "rules": [
+          {
+            "preferred_spine_start": 1,
+            "preferred_spine_end": 78,
+            "old_raw_offset": 0
+          },
+          {
+            "preferred_spine_start": 79,
+            "preferred_spine_end": 129,
+            "old_raw_offset": 1
+          },
+          {
+            "preferred_spine_start": 130,
+            "preferred_spine_end": 166,
+            "old_raw_offset": 2
+          }
+        ],
+        "unmatched_old_raw_positions": [
+          79,
+          131
+        ],
+        "unmatched_old_members": [
           "0079.jpg",
           "0131.jpg"
         ],
-        "ad_insert_byte_identical": true,
-        "ad_insert_sha256": "2a9e7083c99b24cf06ee65e61dd7dd1427cfeacaa304f9d2a75a1f203f887fad",
-        "watermark_visual_sample_images": [
-          "0016.jpg",
-          "0042.jpg",
-          "0081.jpg",
-          "0120.jpg",
-          "0167.jpg"
-        ],
-        "watermark_verification": "Persistent third-party corner mark corroborated in five sampled bottom strips; no complete story-page visual audit."
-      },
-      "status": "LOCKED_WITH_QUALITY_FLAG",
-      "quality": "USABLE_WATERMARKED_WITH_EXTRANEOUS_INSERTS",
-      "locator_scheme": "exact CBZ member basename; retain ad slots"
+        "unmatched_classification": "non-story advertisements per preserved October 17 visual check and October 22 acquisition review",
+        "independent_verification": {
+          "date": "2026-10-22",
+          "method": "All 166 preferred images against all 168 archived images; RGB 48x48 Lanczos resampling and mean absolute difference",
+          "unique_nearest_match_count": 166,
+          "nearest_match_ties": 0,
+          "strictly_ordered": true,
+          "max_matched_mae_0_to_255": 1.4327256944444444,
+          "mean_matched_mae_0_to_255": 0.8848135597947345,
+          "matches_dated_acquisition_crosswalk": true
+        },
+        "limits": "Structural page correspondence; not byte identity, exhaustive wording equality, printed-page equivalence, or chapter/scene mapping. Narrative pages were not visually read during reconciliation."
+      }
     },
     {
       "volume": 17,
@@ -576,7 +1663,377 @@
       "sha256": "4c0e269486348e18ebd35a584347f06a1c5928775a752e7a6366d6c911a9ac3c",
       "identity_verification": "LIVE_METADATA_AND_DOWNLOADED_SHA256",
       "identity_verified_date": "2026-10-17",
-      "literary_analysis_boundary": "NOT_ANALYZED",
+      "literary_analysis_boundary": "V17_COMPLETE",
+      "literary_reading": "../03 Volume Deep Readings/YURUCAMP_V17_DEEP_READING.md",
+      "literary_inspection_date": "2026-10-23",
+      "literary_inspection_scope": "All 166 preferred original spine images individually visually inspected in source order, then separate Pass B; includes transitions, bonus and closing matter. No V18+ or supplementary-continuity narrative admitted.",
+      "literary_pagination_limit": "Printed contents starts are distinct from visibly verified page folios. Use exact spine/XHTML/image locators and local folio observations; no blanket spine-to-print offset.",
+      "literary_section_map": [
+        {
+          "section_type": "front_matter",
+          "label": "Opening cover, blank, color illustration and contents",
+          "spine_start": 1,
+          "spine_end": 4,
+          "start_locator": {
+            "spine_index": 1,
+            "itemref_id": "p-cover",
+            "xhtml": "item/xhtml/p-cover.xhtml",
+            "image": "item/image/cover_omo.jpg"
+          },
+          "end_locator": {
+            "spine_index": 4,
+            "itemref_id": "p-003",
+            "xhtml": "item/xhtml/p-003.xhtml",
+            "image": "item/image/i-002.jpg"
+          }
+        },
+        {
+          "section_type": "chapter",
+          "label": "Ch93 焼きまんじゅう改造計画",
+          "spine_start": 5,
+          "spine_end": 28,
+          "start_locator": {
+            "spine_index": 5,
+            "itemref_id": "p-004",
+            "xhtml": "item/xhtml/p-004.xhtml",
+            "image": "item/image/i-003.jpg"
+          },
+          "end_locator": {
+            "spine_index": 28,
+            "itemref_id": "p-027",
+            "xhtml": "item/xhtml/p-027.xhtml",
+            "image": "item/image/i-026.jpg"
+          },
+          "title_locator": {
+            "spine_index": 6,
+            "itemref_id": "p-005",
+            "xhtml": "item/xhtml/p-005.xhtml",
+            "image": "item/image/i-004.jpg"
+          },
+          "printed_contents_start": 3,
+          "printed_start_visually_verified": 3,
+          "printed_end_visually_verified": 26
+        },
+        {
+          "section_type": "interstitial",
+          "label": "Ch93 transition vignettes",
+          "spine_start": 29,
+          "spine_end": 30,
+          "start_locator": {
+            "spine_index": 29,
+            "itemref_id": "p-028",
+            "xhtml": "item/xhtml/p-028.xhtml",
+            "image": "item/image/i-027.jpg"
+          },
+          "end_locator": {
+            "spine_index": 30,
+            "itemref_id": "p-029",
+            "xhtml": "item/xhtml/p-029.xhtml",
+            "image": "item/image/i-028.jpg"
+          }
+        },
+        {
+          "section_type": "chapter",
+          "label": "Ch94 タイムアップ寸前!? キャンプ場までどれくらい?",
+          "spine_start": 31,
+          "spine_end": 54,
+          "start_locator": {
+            "spine_index": 31,
+            "itemref_id": "p-030",
+            "xhtml": "item/xhtml/p-030.xhtml",
+            "image": "item/image/i-029.jpg"
+          },
+          "end_locator": {
+            "spine_index": 54,
+            "itemref_id": "p-053",
+            "xhtml": "item/xhtml/p-053.xhtml",
+            "image": "item/image/i-052.jpg"
+          },
+          "title_locator": {
+            "spine_index": 32,
+            "itemref_id": "p-031",
+            "xhtml": "item/xhtml/p-031.xhtml",
+            "image": "item/image/i-030.jpg"
+          },
+          "printed_contents_start": 29,
+          "printed_start_visually_verified": 29,
+          "printed_end_visually_verified": 52
+        },
+        {
+          "section_type": "interstitial",
+          "label": "Ch94 transition vignettes",
+          "spine_start": 55,
+          "spine_end": 56,
+          "start_locator": {
+            "spine_index": 55,
+            "itemref_id": "p-054",
+            "xhtml": "item/xhtml/p-054.xhtml",
+            "image": "item/image/i-053.jpg"
+          },
+          "end_locator": {
+            "spine_index": 56,
+            "itemref_id": "p-055",
+            "xhtml": "item/xhtml/p-055.xhtml",
+            "image": "item/image/i-054.jpg"
+          }
+        },
+        {
+          "section_type": "chapter",
+          "label": "Ch95 キャンプの夜とgummmaのなぞ",
+          "spine_start": 57,
+          "spine_end": 80,
+          "start_locator": {
+            "spine_index": 57,
+            "itemref_id": "p-056",
+            "xhtml": "item/xhtml/p-056.xhtml",
+            "image": "item/image/i-055.jpg"
+          },
+          "end_locator": {
+            "spine_index": 80,
+            "itemref_id": "p-079",
+            "xhtml": "item/xhtml/p-079.xhtml",
+            "image": "item/image/i-078.jpg"
+          },
+          "title_locator": {
+            "spine_index": 59,
+            "itemref_id": "p-058",
+            "xhtml": "item/xhtml/p-058.xhtml",
+            "image": "item/image/i-057.jpg"
+          },
+          "printed_contents_start": 55,
+          "printed_end_visually_verified": 78,
+          "printed_start_not_visible": true
+        },
+        {
+          "section_type": "interstitial",
+          "label": "Ch95 transition vignettes",
+          "spine_start": 81,
+          "spine_end": 82,
+          "start_locator": {
+            "spine_index": 81,
+            "itemref_id": "p-080",
+            "xhtml": "item/xhtml/p-080.xhtml",
+            "image": "item/image/i-079.jpg"
+          },
+          "end_locator": {
+            "spine_index": 82,
+            "itemref_id": "p-081",
+            "xhtml": "item/xhtml/p-081.xhtml",
+            "image": "item/image/i-080.jpg"
+          }
+        },
+        {
+          "section_type": "chapter",
+          "label": "Ch96 群馬二日目ぶらり旅",
+          "spine_start": 83,
+          "spine_end": 106,
+          "start_locator": {
+            "spine_index": 83,
+            "itemref_id": "p-082",
+            "xhtml": "item/xhtml/p-082.xhtml",
+            "image": "item/image/i-081.jpg"
+          },
+          "end_locator": {
+            "spine_index": 106,
+            "itemref_id": "p-105",
+            "xhtml": "item/xhtml/p-105.xhtml",
+            "image": "item/image/i-104.jpg"
+          },
+          "title_locator": {
+            "spine_index": 85,
+            "itemref_id": "p-084",
+            "xhtml": "item/xhtml/p-084.xhtml",
+            "image": "item/image/i-083.jpg"
+          },
+          "printed_contents_start": 81,
+          "printed_start_visually_verified": 81,
+          "printed_end_visually_verified": 104
+        },
+        {
+          "section_type": "interstitial",
+          "label": "Ch96 transition vignettes",
+          "spine_start": 107,
+          "spine_end": 108,
+          "start_locator": {
+            "spine_index": 107,
+            "itemref_id": "p-106",
+            "xhtml": "item/xhtml/p-106.xhtml",
+            "image": "item/image/i-105.jpg"
+          },
+          "end_locator": {
+            "spine_index": 108,
+            "itemref_id": "p-107",
+            "xhtml": "item/xhtml/p-107.xhtml",
+            "image": "item/image/i-106.jpg"
+          }
+        },
+        {
+          "section_type": "chapter",
+          "label": "Ch97 初夏の野反湖冬景色",
+          "spine_start": 109,
+          "spine_end": 134,
+          "start_locator": {
+            "spine_index": 109,
+            "itemref_id": "p-108",
+            "xhtml": "item/xhtml/p-108.xhtml",
+            "image": "item/image/i-107.jpg"
+          },
+          "end_locator": {
+            "spine_index": 134,
+            "itemref_id": "p-133",
+            "xhtml": "item/xhtml/p-133.xhtml",
+            "image": "item/image/i-132.jpg"
+          },
+          "title_locator": {
+            "spine_index": 112,
+            "itemref_id": "p-111",
+            "xhtml": "item/xhtml/p-111.xhtml",
+            "image": "item/image/i-110.jpg"
+          },
+          "printed_contents_start": 107,
+          "printed_start_visually_verified": 107,
+          "printed_end_visually_verified": 132,
+          "source_layout_note": "Spine 113 is the lake panorama; spine 114 is the original GO NEXT PAGE navigation image; spine 115 visibly resumes printed 113. Retain all positions."
+        },
+        {
+          "section_type": "interstitial",
+          "label": "Ch97 transition vignettes",
+          "spine_start": 135,
+          "spine_end": 136,
+          "start_locator": {
+            "spine_index": 135,
+            "itemref_id": "p-134",
+            "xhtml": "item/xhtml/p-134.xhtml",
+            "image": "item/image/i-133.jpg"
+          },
+          "end_locator": {
+            "spine_index": 136,
+            "itemref_id": "p-135",
+            "xhtml": "item/xhtml/p-135.xhtml",
+            "image": "item/image/i-134.jpg"
+          }
+        },
+        {
+          "section_type": "chapter",
+          "label": "Ch98 旅の終わりと野反湖の夜",
+          "spine_start": 137,
+          "spine_end": 160,
+          "start_locator": {
+            "spine_index": 137,
+            "itemref_id": "p-136",
+            "xhtml": "item/xhtml/p-136.xhtml",
+            "image": "item/image/i-135.jpg"
+          },
+          "end_locator": {
+            "spine_index": 160,
+            "itemref_id": "p-159",
+            "xhtml": "item/xhtml/p-159.xhtml",
+            "image": "item/image/i-158.jpg"
+          },
+          "title_locator": {
+            "spine_index": 138,
+            "itemref_id": "p-137",
+            "xhtml": "item/xhtml/p-137.xhtml",
+            "image": "item/image/i-136.jpg"
+          },
+          "printed_contents_start": 135,
+          "printed_start_visually_verified": 135,
+          "printed_end_visually_verified": 158
+        },
+        {
+          "section_type": "bonus",
+          "label": "Heya Camp 放課後128 桜お姉ちゃんの料理教室",
+          "spine_start": 161,
+          "spine_end": 162,
+          "start_locator": {
+            "spine_index": 161,
+            "itemref_id": "p-160",
+            "xhtml": "item/xhtml/p-160.xhtml",
+            "image": "item/image/i-159.jpg"
+          },
+          "end_locator": {
+            "spine_index": 162,
+            "itemref_id": "p-161",
+            "xhtml": "item/xhtml/p-161.xhtml",
+            "image": "item/image/i-160.jpg"
+          },
+          "printed_contents_start": 159,
+          "printed_end_visually_verified": 160,
+          "printed_start_not_visible": true
+        },
+        {
+          "section_type": "afterword",
+          "label": "Author afterword and initial-publication list",
+          "spine_start": 163,
+          "spine_end": 163,
+          "start_locator": {
+            "spine_index": 163,
+            "itemref_id": "p-162",
+            "xhtml": "item/xhtml/p-162.xhtml",
+            "image": "item/image/i-161.jpg"
+          },
+          "end_locator": {
+            "spine_index": 163,
+            "itemref_id": "p-162",
+            "xhtml": "item/xhtml/p-162.xhtml",
+            "image": "item/image/i-161.jpg"
+          }
+        },
+        {
+          "section_type": "colophon",
+          "label": "Electronic-edition colophon",
+          "spine_start": 164,
+          "spine_end": 164,
+          "start_locator": {
+            "spine_index": 164,
+            "itemref_id": "p-163",
+            "xhtml": "item/xhtml/p-163.xhtml",
+            "image": "item/image/i-162.jpg"
+          },
+          "end_locator": {
+            "spine_index": 164,
+            "itemref_id": "p-163",
+            "xhtml": "item/xhtml/p-163.xhtml",
+            "image": "item/image/i-162.jpg"
+          }
+        },
+        {
+          "section_type": "jacket",
+          "label": "Full jacket",
+          "spine_start": 165,
+          "spine_end": 165,
+          "start_locator": {
+            "spine_index": 165,
+            "itemref_id": "p-164",
+            "xhtml": "item/xhtml/p-164.xhtml",
+            "image": "item/image/cover.jpg"
+          },
+          "end_locator": {
+            "spine_index": 165,
+            "itemref_id": "p-164",
+            "xhtml": "item/xhtml/p-164.xhtml",
+            "image": "item/image/cover.jpg"
+          }
+        },
+        {
+          "section_type": "underjacket",
+          "label": "Tenth-anniversary metafiction comic",
+          "spine_start": 166,
+          "spine_end": 166,
+          "start_locator": {
+            "spine_index": 166,
+            "itemref_id": "p-165",
+            "xhtml": "item/xhtml/p-165.xhtml",
+            "image": "item/image/hyoushi.jpg"
+          },
+          "end_locator": {
+            "spine_index": 166,
+            "itemref_id": "p-165",
+            "xhtml": "item/xhtml/p-165.xhtml",
+            "image": "item/image/hyoushi.jpg"
+          }
+        }
+      ],
       "kind": "epub",
       "technical_audit_date": "2026-10-17",
       "technical": {
@@ -1615,7 +3072,25 @@
       "status": "LOCKED_PRIMARY",
       "quality": "PREFERRED_KOBO_FIXED_LAYOUT",
       "locator_scheme": "1-based OPF spine index + XHTML member + image member; full mapping in technical.spine_image_map",
-      "supersedes_source_drive_id": "1itEg_5CH3XR138EBsbTxYeZyiUk9uOT1"
+      "supersedes_source_drive_id": "1itEg_5CH3XR138EBsbTxYeZyiUk9uOT1",
+      "local_reverification": {
+        "date": "2026-10-22",
+        "identity_verification": "INDEPENDENT_LOCAL_BYTES_SHA256",
+        "sha256_matches_preferred_identity": true,
+        "zip_crc_ok": true,
+        "all_166_images_fully_decoded": true,
+        "container_manifest_and_spine_ok": true,
+        "spine_mapping_checked_rows": 166,
+        "dimensions": {
+          "width": 1350,
+          "height": 1920,
+          "count": 166
+        },
+        "remote_content_hash_verified": false,
+        "remote_metadata_scope": "Dated acquisition propagation metadata; not fresh remote content verification",
+        "full_epubcheck_performed": false,
+        "narrative_inspection": false
+      }
     },
     {
       "volume": 18,
@@ -2666,10 +4141,1174 @@
       },
       "status": "LOCKED_PRIMARY",
       "quality": "PREFERRED_KOBO_FIXED_LAYOUT",
-      "locator_scheme": "1-based OPF spine index + XHTML member + image member; full mapping in technical.spine_image_map"
+      "locator_scheme": "1-based OPF spine index + XHTML member + image member; full mapping in technical.spine_image_map",
+      "local_reverification": {
+        "date": "2026-10-22",
+        "identity_verification": "INDEPENDENT_LOCAL_BYTES_SHA256",
+        "sha256_matches_preferred_identity": true,
+        "zip_crc_ok": true,
+        "all_166_images_fully_decoded": true,
+        "container_manifest_and_spine_ok": true,
+        "spine_mapping_checked_rows": 166,
+        "dimensions": {
+          "width": 1350,
+          "height": 1920,
+          "count": 166
+        },
+        "remote_content_hash_verified": false,
+        "remote_metadata_scope": "Dated acquisition propagation metadata; not fresh remote content verification",
+        "full_epubcheck_performed": false,
+        "narrative_inspection": false
+      }
+    },
+    {
+      "volume": 19,
+      "file": "Laid-Back Camp - Vol. 19 [Japanese].epub",
+      "drive_id": "1SUFejNLxWBLfvvfY2xCwyhhvYX8ud3bN",
+      "source_class": "main_manga",
+      "preferred": true,
+      "source_role": "primary_manga",
+      "size_bytes": 118272724,
+      "sha256": "b77d071322e1321e52b6d68b254843becedc339b807c982865d99b0d5e32a043",
+      "identity_verification": "INDEPENDENT_LOCAL_SHA256_WITH_RECORDED_DRIVE_METADATA",
+      "identity_verified_date": "2026-10-22",
+      "literary_analysis_boundary": "NOT_ANALYZED",
+      "kind": "epub",
+      "technical_audit_date": "2026-10-22",
+      "technical": {
+        "zip_crc_ok": true,
+        "image_count": 166,
+        "image_decode_ok": true,
+        "dimensions": [
+          {
+            "width": 1350,
+            "height": 1920,
+            "count": 166
+          }
+        ],
+        "opf": "item/standard.opf",
+        "mimetype": "application/epub+zip",
+        "spine_count": 166,
+        "spine_image_mapping_complete": true,
+        "distinct_spine_images": 166,
+        "language": [
+          "ja"
+        ],
+        "fixed_layout_metadata": [
+          {
+            "property": "rendition:layout",
+            "text": "pre-paginated"
+          },
+          {
+            "property": "rendition:spread",
+            "text": "landscape"
+          },
+          {
+            "name": "fixed-layout",
+            "content": "true",
+            "text": null
+          }
+        ],
+        "spine_image_map": [
+          {
+            "spine_index": 1,
+            "itemref_id": "p-cover",
+            "xhtml": "item/xhtml/p-cover.xhtml",
+            "image": "item/image/cover_omo.jpg"
+          },
+          {
+            "spine_index": 2,
+            "itemref_id": "p-001",
+            "xhtml": "item/xhtml/p-001.xhtml",
+            "image": "item/image/i-000.jpg"
+          },
+          {
+            "spine_index": 3,
+            "itemref_id": "p-002",
+            "xhtml": "item/xhtml/p-002.xhtml",
+            "image": "item/image/i-001.jpg"
+          },
+          {
+            "spine_index": 4,
+            "itemref_id": "p-003",
+            "xhtml": "item/xhtml/p-003.xhtml",
+            "image": "item/image/i-002.jpg"
+          },
+          {
+            "spine_index": 5,
+            "itemref_id": "p-004",
+            "xhtml": "item/xhtml/p-004.xhtml",
+            "image": "item/image/i-003.jpg"
+          },
+          {
+            "spine_index": 6,
+            "itemref_id": "p-005",
+            "xhtml": "item/xhtml/p-005.xhtml",
+            "image": "item/image/i-004.jpg"
+          },
+          {
+            "spine_index": 7,
+            "itemref_id": "p-006",
+            "xhtml": "item/xhtml/p-006.xhtml",
+            "image": "item/image/i-005.jpg"
+          },
+          {
+            "spine_index": 8,
+            "itemref_id": "p-007",
+            "xhtml": "item/xhtml/p-007.xhtml",
+            "image": "item/image/i-006.jpg"
+          },
+          {
+            "spine_index": 9,
+            "itemref_id": "p-008",
+            "xhtml": "item/xhtml/p-008.xhtml",
+            "image": "item/image/i-007.jpg"
+          },
+          {
+            "spine_index": 10,
+            "itemref_id": "p-009",
+            "xhtml": "item/xhtml/p-009.xhtml",
+            "image": "item/image/i-008.jpg"
+          },
+          {
+            "spine_index": 11,
+            "itemref_id": "p-010",
+            "xhtml": "item/xhtml/p-010.xhtml",
+            "image": "item/image/i-009.jpg"
+          },
+          {
+            "spine_index": 12,
+            "itemref_id": "p-011",
+            "xhtml": "item/xhtml/p-011.xhtml",
+            "image": "item/image/i-010.jpg"
+          },
+          {
+            "spine_index": 13,
+            "itemref_id": "p-012",
+            "xhtml": "item/xhtml/p-012.xhtml",
+            "image": "item/image/i-011.jpg"
+          },
+          {
+            "spine_index": 14,
+            "itemref_id": "p-013",
+            "xhtml": "item/xhtml/p-013.xhtml",
+            "image": "item/image/i-012.jpg"
+          },
+          {
+            "spine_index": 15,
+            "itemref_id": "p-014",
+            "xhtml": "item/xhtml/p-014.xhtml",
+            "image": "item/image/i-013.jpg"
+          },
+          {
+            "spine_index": 16,
+            "itemref_id": "p-015",
+            "xhtml": "item/xhtml/p-015.xhtml",
+            "image": "item/image/i-014.jpg"
+          },
+          {
+            "spine_index": 17,
+            "itemref_id": "p-016",
+            "xhtml": "item/xhtml/p-016.xhtml",
+            "image": "item/image/i-015.jpg"
+          },
+          {
+            "spine_index": 18,
+            "itemref_id": "p-017",
+            "xhtml": "item/xhtml/p-017.xhtml",
+            "image": "item/image/i-016.jpg"
+          },
+          {
+            "spine_index": 19,
+            "itemref_id": "p-018",
+            "xhtml": "item/xhtml/p-018.xhtml",
+            "image": "item/image/i-017.jpg"
+          },
+          {
+            "spine_index": 20,
+            "itemref_id": "p-019",
+            "xhtml": "item/xhtml/p-019.xhtml",
+            "image": "item/image/i-018.jpg"
+          },
+          {
+            "spine_index": 21,
+            "itemref_id": "p-020",
+            "xhtml": "item/xhtml/p-020.xhtml",
+            "image": "item/image/i-019.jpg"
+          },
+          {
+            "spine_index": 22,
+            "itemref_id": "p-021",
+            "xhtml": "item/xhtml/p-021.xhtml",
+            "image": "item/image/i-020.jpg"
+          },
+          {
+            "spine_index": 23,
+            "itemref_id": "p-022",
+            "xhtml": "item/xhtml/p-022.xhtml",
+            "image": "item/image/i-021.jpg"
+          },
+          {
+            "spine_index": 24,
+            "itemref_id": "p-023",
+            "xhtml": "item/xhtml/p-023.xhtml",
+            "image": "item/image/i-022.jpg"
+          },
+          {
+            "spine_index": 25,
+            "itemref_id": "p-024",
+            "xhtml": "item/xhtml/p-024.xhtml",
+            "image": "item/image/i-023.jpg"
+          },
+          {
+            "spine_index": 26,
+            "itemref_id": "p-025",
+            "xhtml": "item/xhtml/p-025.xhtml",
+            "image": "item/image/i-024.jpg"
+          },
+          {
+            "spine_index": 27,
+            "itemref_id": "p-026",
+            "xhtml": "item/xhtml/p-026.xhtml",
+            "image": "item/image/i-025.jpg"
+          },
+          {
+            "spine_index": 28,
+            "itemref_id": "p-027",
+            "xhtml": "item/xhtml/p-027.xhtml",
+            "image": "item/image/i-026.jpg"
+          },
+          {
+            "spine_index": 29,
+            "itemref_id": "p-028",
+            "xhtml": "item/xhtml/p-028.xhtml",
+            "image": "item/image/i-027.jpg"
+          },
+          {
+            "spine_index": 30,
+            "itemref_id": "p-029",
+            "xhtml": "item/xhtml/p-029.xhtml",
+            "image": "item/image/i-028.jpg"
+          },
+          {
+            "spine_index": 31,
+            "itemref_id": "p-030",
+            "xhtml": "item/xhtml/p-030.xhtml",
+            "image": "item/image/i-029.jpg"
+          },
+          {
+            "spine_index": 32,
+            "itemref_id": "p-031",
+            "xhtml": "item/xhtml/p-031.xhtml",
+            "image": "item/image/i-030.jpg"
+          },
+          {
+            "spine_index": 33,
+            "itemref_id": "p-032",
+            "xhtml": "item/xhtml/p-032.xhtml",
+            "image": "item/image/i-031.jpg"
+          },
+          {
+            "spine_index": 34,
+            "itemref_id": "p-033",
+            "xhtml": "item/xhtml/p-033.xhtml",
+            "image": "item/image/i-032.jpg"
+          },
+          {
+            "spine_index": 35,
+            "itemref_id": "p-034",
+            "xhtml": "item/xhtml/p-034.xhtml",
+            "image": "item/image/i-033.jpg"
+          },
+          {
+            "spine_index": 36,
+            "itemref_id": "p-035",
+            "xhtml": "item/xhtml/p-035.xhtml",
+            "image": "item/image/i-034.jpg"
+          },
+          {
+            "spine_index": 37,
+            "itemref_id": "p-036",
+            "xhtml": "item/xhtml/p-036.xhtml",
+            "image": "item/image/i-035.jpg"
+          },
+          {
+            "spine_index": 38,
+            "itemref_id": "p-037",
+            "xhtml": "item/xhtml/p-037.xhtml",
+            "image": "item/image/i-036.jpg"
+          },
+          {
+            "spine_index": 39,
+            "itemref_id": "p-038",
+            "xhtml": "item/xhtml/p-038.xhtml",
+            "image": "item/image/i-037.jpg"
+          },
+          {
+            "spine_index": 40,
+            "itemref_id": "p-039",
+            "xhtml": "item/xhtml/p-039.xhtml",
+            "image": "item/image/i-038.jpg"
+          },
+          {
+            "spine_index": 41,
+            "itemref_id": "p-040",
+            "xhtml": "item/xhtml/p-040.xhtml",
+            "image": "item/image/i-039.jpg"
+          },
+          {
+            "spine_index": 42,
+            "itemref_id": "p-041",
+            "xhtml": "item/xhtml/p-041.xhtml",
+            "image": "item/image/i-040.jpg"
+          },
+          {
+            "spine_index": 43,
+            "itemref_id": "p-042",
+            "xhtml": "item/xhtml/p-042.xhtml",
+            "image": "item/image/i-041.jpg"
+          },
+          {
+            "spine_index": 44,
+            "itemref_id": "p-043",
+            "xhtml": "item/xhtml/p-043.xhtml",
+            "image": "item/image/i-042.jpg"
+          },
+          {
+            "spine_index": 45,
+            "itemref_id": "p-044",
+            "xhtml": "item/xhtml/p-044.xhtml",
+            "image": "item/image/i-043.jpg"
+          },
+          {
+            "spine_index": 46,
+            "itemref_id": "p-045",
+            "xhtml": "item/xhtml/p-045.xhtml",
+            "image": "item/image/i-044.jpg"
+          },
+          {
+            "spine_index": 47,
+            "itemref_id": "p-046",
+            "xhtml": "item/xhtml/p-046.xhtml",
+            "image": "item/image/i-045.jpg"
+          },
+          {
+            "spine_index": 48,
+            "itemref_id": "p-047",
+            "xhtml": "item/xhtml/p-047.xhtml",
+            "image": "item/image/i-046.jpg"
+          },
+          {
+            "spine_index": 49,
+            "itemref_id": "p-048",
+            "xhtml": "item/xhtml/p-048.xhtml",
+            "image": "item/image/i-047.jpg"
+          },
+          {
+            "spine_index": 50,
+            "itemref_id": "p-049",
+            "xhtml": "item/xhtml/p-049.xhtml",
+            "image": "item/image/i-048.jpg"
+          },
+          {
+            "spine_index": 51,
+            "itemref_id": "p-050",
+            "xhtml": "item/xhtml/p-050.xhtml",
+            "image": "item/image/i-049.jpg"
+          },
+          {
+            "spine_index": 52,
+            "itemref_id": "p-051",
+            "xhtml": "item/xhtml/p-051.xhtml",
+            "image": "item/image/i-050.jpg"
+          },
+          {
+            "spine_index": 53,
+            "itemref_id": "p-052",
+            "xhtml": "item/xhtml/p-052.xhtml",
+            "image": "item/image/i-051.jpg"
+          },
+          {
+            "spine_index": 54,
+            "itemref_id": "p-053",
+            "xhtml": "item/xhtml/p-053.xhtml",
+            "image": "item/image/i-052.jpg"
+          },
+          {
+            "spine_index": 55,
+            "itemref_id": "p-054",
+            "xhtml": "item/xhtml/p-054.xhtml",
+            "image": "item/image/i-053.jpg"
+          },
+          {
+            "spine_index": 56,
+            "itemref_id": "p-055",
+            "xhtml": "item/xhtml/p-055.xhtml",
+            "image": "item/image/i-054.jpg"
+          },
+          {
+            "spine_index": 57,
+            "itemref_id": "p-056",
+            "xhtml": "item/xhtml/p-056.xhtml",
+            "image": "item/image/i-055.jpg"
+          },
+          {
+            "spine_index": 58,
+            "itemref_id": "p-057",
+            "xhtml": "item/xhtml/p-057.xhtml",
+            "image": "item/image/i-056.jpg"
+          },
+          {
+            "spine_index": 59,
+            "itemref_id": "p-058",
+            "xhtml": "item/xhtml/p-058.xhtml",
+            "image": "item/image/i-057.jpg"
+          },
+          {
+            "spine_index": 60,
+            "itemref_id": "p-059",
+            "xhtml": "item/xhtml/p-059.xhtml",
+            "image": "item/image/i-058.jpg"
+          },
+          {
+            "spine_index": 61,
+            "itemref_id": "p-060",
+            "xhtml": "item/xhtml/p-060.xhtml",
+            "image": "item/image/i-059.jpg"
+          },
+          {
+            "spine_index": 62,
+            "itemref_id": "p-061",
+            "xhtml": "item/xhtml/p-061.xhtml",
+            "image": "item/image/i-060.jpg"
+          },
+          {
+            "spine_index": 63,
+            "itemref_id": "p-062",
+            "xhtml": "item/xhtml/p-062.xhtml",
+            "image": "item/image/i-061.jpg"
+          },
+          {
+            "spine_index": 64,
+            "itemref_id": "p-063",
+            "xhtml": "item/xhtml/p-063.xhtml",
+            "image": "item/image/i-062.jpg"
+          },
+          {
+            "spine_index": 65,
+            "itemref_id": "p-064",
+            "xhtml": "item/xhtml/p-064.xhtml",
+            "image": "item/image/i-063.jpg"
+          },
+          {
+            "spine_index": 66,
+            "itemref_id": "p-065",
+            "xhtml": "item/xhtml/p-065.xhtml",
+            "image": "item/image/i-064.jpg"
+          },
+          {
+            "spine_index": 67,
+            "itemref_id": "p-066",
+            "xhtml": "item/xhtml/p-066.xhtml",
+            "image": "item/image/i-065.jpg"
+          },
+          {
+            "spine_index": 68,
+            "itemref_id": "p-067",
+            "xhtml": "item/xhtml/p-067.xhtml",
+            "image": "item/image/i-066.jpg"
+          },
+          {
+            "spine_index": 69,
+            "itemref_id": "p-068",
+            "xhtml": "item/xhtml/p-068.xhtml",
+            "image": "item/image/i-067.jpg"
+          },
+          {
+            "spine_index": 70,
+            "itemref_id": "p-069",
+            "xhtml": "item/xhtml/p-069.xhtml",
+            "image": "item/image/i-068.jpg"
+          },
+          {
+            "spine_index": 71,
+            "itemref_id": "p-070",
+            "xhtml": "item/xhtml/p-070.xhtml",
+            "image": "item/image/i-069.jpg"
+          },
+          {
+            "spine_index": 72,
+            "itemref_id": "p-071",
+            "xhtml": "item/xhtml/p-071.xhtml",
+            "image": "item/image/i-070.jpg"
+          },
+          {
+            "spine_index": 73,
+            "itemref_id": "p-072",
+            "xhtml": "item/xhtml/p-072.xhtml",
+            "image": "item/image/i-071.jpg"
+          },
+          {
+            "spine_index": 74,
+            "itemref_id": "p-073",
+            "xhtml": "item/xhtml/p-073.xhtml",
+            "image": "item/image/i-072.jpg"
+          },
+          {
+            "spine_index": 75,
+            "itemref_id": "p-074",
+            "xhtml": "item/xhtml/p-074.xhtml",
+            "image": "item/image/i-073.jpg"
+          },
+          {
+            "spine_index": 76,
+            "itemref_id": "p-075",
+            "xhtml": "item/xhtml/p-075.xhtml",
+            "image": "item/image/i-074.jpg"
+          },
+          {
+            "spine_index": 77,
+            "itemref_id": "p-076",
+            "xhtml": "item/xhtml/p-076.xhtml",
+            "image": "item/image/i-075.jpg"
+          },
+          {
+            "spine_index": 78,
+            "itemref_id": "p-077",
+            "xhtml": "item/xhtml/p-077.xhtml",
+            "image": "item/image/i-076.jpg"
+          },
+          {
+            "spine_index": 79,
+            "itemref_id": "p-078",
+            "xhtml": "item/xhtml/p-078.xhtml",
+            "image": "item/image/i-077.jpg"
+          },
+          {
+            "spine_index": 80,
+            "itemref_id": "p-079",
+            "xhtml": "item/xhtml/p-079.xhtml",
+            "image": "item/image/i-078.jpg"
+          },
+          {
+            "spine_index": 81,
+            "itemref_id": "p-080",
+            "xhtml": "item/xhtml/p-080.xhtml",
+            "image": "item/image/i-079.jpg"
+          },
+          {
+            "spine_index": 82,
+            "itemref_id": "p-081",
+            "xhtml": "item/xhtml/p-081.xhtml",
+            "image": "item/image/i-080.jpg"
+          },
+          {
+            "spine_index": 83,
+            "itemref_id": "p-082",
+            "xhtml": "item/xhtml/p-082.xhtml",
+            "image": "item/image/i-081.jpg"
+          },
+          {
+            "spine_index": 84,
+            "itemref_id": "p-083",
+            "xhtml": "item/xhtml/p-083.xhtml",
+            "image": "item/image/i-082.jpg"
+          },
+          {
+            "spine_index": 85,
+            "itemref_id": "p-084",
+            "xhtml": "item/xhtml/p-084.xhtml",
+            "image": "item/image/i-083.jpg"
+          },
+          {
+            "spine_index": 86,
+            "itemref_id": "p-085",
+            "xhtml": "item/xhtml/p-085.xhtml",
+            "image": "item/image/i-084.jpg"
+          },
+          {
+            "spine_index": 87,
+            "itemref_id": "p-086",
+            "xhtml": "item/xhtml/p-086.xhtml",
+            "image": "item/image/i-085.jpg"
+          },
+          {
+            "spine_index": 88,
+            "itemref_id": "p-087",
+            "xhtml": "item/xhtml/p-087.xhtml",
+            "image": "item/image/i-086.jpg"
+          },
+          {
+            "spine_index": 89,
+            "itemref_id": "p-088",
+            "xhtml": "item/xhtml/p-088.xhtml",
+            "image": "item/image/i-087.jpg"
+          },
+          {
+            "spine_index": 90,
+            "itemref_id": "p-089",
+            "xhtml": "item/xhtml/p-089.xhtml",
+            "image": "item/image/i-088.jpg"
+          },
+          {
+            "spine_index": 91,
+            "itemref_id": "p-090",
+            "xhtml": "item/xhtml/p-090.xhtml",
+            "image": "item/image/i-089.jpg"
+          },
+          {
+            "spine_index": 92,
+            "itemref_id": "p-091",
+            "xhtml": "item/xhtml/p-091.xhtml",
+            "image": "item/image/i-090.jpg"
+          },
+          {
+            "spine_index": 93,
+            "itemref_id": "p-092",
+            "xhtml": "item/xhtml/p-092.xhtml",
+            "image": "item/image/i-091.jpg"
+          },
+          {
+            "spine_index": 94,
+            "itemref_id": "p-093",
+            "xhtml": "item/xhtml/p-093.xhtml",
+            "image": "item/image/i-092.jpg"
+          },
+          {
+            "spine_index": 95,
+            "itemref_id": "p-094",
+            "xhtml": "item/xhtml/p-094.xhtml",
+            "image": "item/image/i-093.jpg"
+          },
+          {
+            "spine_index": 96,
+            "itemref_id": "p-095",
+            "xhtml": "item/xhtml/p-095.xhtml",
+            "image": "item/image/i-094.jpg"
+          },
+          {
+            "spine_index": 97,
+            "itemref_id": "p-096",
+            "xhtml": "item/xhtml/p-096.xhtml",
+            "image": "item/image/i-095.jpg"
+          },
+          {
+            "spine_index": 98,
+            "itemref_id": "p-097",
+            "xhtml": "item/xhtml/p-097.xhtml",
+            "image": "item/image/i-096.jpg"
+          },
+          {
+            "spine_index": 99,
+            "itemref_id": "p-098",
+            "xhtml": "item/xhtml/p-098.xhtml",
+            "image": "item/image/i-097.jpg"
+          },
+          {
+            "spine_index": 100,
+            "itemref_id": "p-099",
+            "xhtml": "item/xhtml/p-099.xhtml",
+            "image": "item/image/i-098.jpg"
+          },
+          {
+            "spine_index": 101,
+            "itemref_id": "p-100",
+            "xhtml": "item/xhtml/p-100.xhtml",
+            "image": "item/image/i-099.jpg"
+          },
+          {
+            "spine_index": 102,
+            "itemref_id": "p-101",
+            "xhtml": "item/xhtml/p-101.xhtml",
+            "image": "item/image/i-100.jpg"
+          },
+          {
+            "spine_index": 103,
+            "itemref_id": "p-102",
+            "xhtml": "item/xhtml/p-102.xhtml",
+            "image": "item/image/i-101.jpg"
+          },
+          {
+            "spine_index": 104,
+            "itemref_id": "p-103",
+            "xhtml": "item/xhtml/p-103.xhtml",
+            "image": "item/image/i-102.jpg"
+          },
+          {
+            "spine_index": 105,
+            "itemref_id": "p-104",
+            "xhtml": "item/xhtml/p-104.xhtml",
+            "image": "item/image/i-103.jpg"
+          },
+          {
+            "spine_index": 106,
+            "itemref_id": "p-105",
+            "xhtml": "item/xhtml/p-105.xhtml",
+            "image": "item/image/i-104.jpg"
+          },
+          {
+            "spine_index": 107,
+            "itemref_id": "p-106",
+            "xhtml": "item/xhtml/p-106.xhtml",
+            "image": "item/image/i-105.jpg"
+          },
+          {
+            "spine_index": 108,
+            "itemref_id": "p-107",
+            "xhtml": "item/xhtml/p-107.xhtml",
+            "image": "item/image/i-106.jpg"
+          },
+          {
+            "spine_index": 109,
+            "itemref_id": "p-108",
+            "xhtml": "item/xhtml/p-108.xhtml",
+            "image": "item/image/i-107.jpg"
+          },
+          {
+            "spine_index": 110,
+            "itemref_id": "p-109",
+            "xhtml": "item/xhtml/p-109.xhtml",
+            "image": "item/image/i-108.jpg"
+          },
+          {
+            "spine_index": 111,
+            "itemref_id": "p-110",
+            "xhtml": "item/xhtml/p-110.xhtml",
+            "image": "item/image/i-109.jpg"
+          },
+          {
+            "spine_index": 112,
+            "itemref_id": "p-111",
+            "xhtml": "item/xhtml/p-111.xhtml",
+            "image": "item/image/i-110.jpg"
+          },
+          {
+            "spine_index": 113,
+            "itemref_id": "p-112",
+            "xhtml": "item/xhtml/p-112.xhtml",
+            "image": "item/image/i-111.jpg"
+          },
+          {
+            "spine_index": 114,
+            "itemref_id": "p-113",
+            "xhtml": "item/xhtml/p-113.xhtml",
+            "image": "item/image/i-112.jpg"
+          },
+          {
+            "spine_index": 115,
+            "itemref_id": "p-114",
+            "xhtml": "item/xhtml/p-114.xhtml",
+            "image": "item/image/i-113.jpg"
+          },
+          {
+            "spine_index": 116,
+            "itemref_id": "p-115",
+            "xhtml": "item/xhtml/p-115.xhtml",
+            "image": "item/image/i-114.jpg"
+          },
+          {
+            "spine_index": 117,
+            "itemref_id": "p-116",
+            "xhtml": "item/xhtml/p-116.xhtml",
+            "image": "item/image/i-115.jpg"
+          },
+          {
+            "spine_index": 118,
+            "itemref_id": "p-117",
+            "xhtml": "item/xhtml/p-117.xhtml",
+            "image": "item/image/i-116.jpg"
+          },
+          {
+            "spine_index": 119,
+            "itemref_id": "p-118",
+            "xhtml": "item/xhtml/p-118.xhtml",
+            "image": "item/image/i-117.jpg"
+          },
+          {
+            "spine_index": 120,
+            "itemref_id": "p-119",
+            "xhtml": "item/xhtml/p-119.xhtml",
+            "image": "item/image/i-118.jpg"
+          },
+          {
+            "spine_index": 121,
+            "itemref_id": "p-120",
+            "xhtml": "item/xhtml/p-120.xhtml",
+            "image": "item/image/i-119.jpg"
+          },
+          {
+            "spine_index": 122,
+            "itemref_id": "p-121",
+            "xhtml": "item/xhtml/p-121.xhtml",
+            "image": "item/image/i-120.jpg"
+          },
+          {
+            "spine_index": 123,
+            "itemref_id": "p-122",
+            "xhtml": "item/xhtml/p-122.xhtml",
+            "image": "item/image/i-121.jpg"
+          },
+          {
+            "spine_index": 124,
+            "itemref_id": "p-123",
+            "xhtml": "item/xhtml/p-123.xhtml",
+            "image": "item/image/i-122.jpg"
+          },
+          {
+            "spine_index": 125,
+            "itemref_id": "p-124",
+            "xhtml": "item/xhtml/p-124.xhtml",
+            "image": "item/image/i-123.jpg"
+          },
+          {
+            "spine_index": 126,
+            "itemref_id": "p-125",
+            "xhtml": "item/xhtml/p-125.xhtml",
+            "image": "item/image/i-124.jpg"
+          },
+          {
+            "spine_index": 127,
+            "itemref_id": "p-126",
+            "xhtml": "item/xhtml/p-126.xhtml",
+            "image": "item/image/i-125.jpg"
+          },
+          {
+            "spine_index": 128,
+            "itemref_id": "p-127",
+            "xhtml": "item/xhtml/p-127.xhtml",
+            "image": "item/image/i-126.jpg"
+          },
+          {
+            "spine_index": 129,
+            "itemref_id": "p-128",
+            "xhtml": "item/xhtml/p-128.xhtml",
+            "image": "item/image/i-127.jpg"
+          },
+          {
+            "spine_index": 130,
+            "itemref_id": "p-129",
+            "xhtml": "item/xhtml/p-129.xhtml",
+            "image": "item/image/i-128.jpg"
+          },
+          {
+            "spine_index": 131,
+            "itemref_id": "p-130",
+            "xhtml": "item/xhtml/p-130.xhtml",
+            "image": "item/image/i-129.jpg"
+          },
+          {
+            "spine_index": 132,
+            "itemref_id": "p-131",
+            "xhtml": "item/xhtml/p-131.xhtml",
+            "image": "item/image/i-130.jpg"
+          },
+          {
+            "spine_index": 133,
+            "itemref_id": "p-132",
+            "xhtml": "item/xhtml/p-132.xhtml",
+            "image": "item/image/i-131.jpg"
+          },
+          {
+            "spine_index": 134,
+            "itemref_id": "p-133",
+            "xhtml": "item/xhtml/p-133.xhtml",
+            "image": "item/image/i-132.jpg"
+          },
+          {
+            "spine_index": 135,
+            "itemref_id": "p-134",
+            "xhtml": "item/xhtml/p-134.xhtml",
+            "image": "item/image/i-133.jpg"
+          },
+          {
+            "spine_index": 136,
+            "itemref_id": "p-135",
+            "xhtml": "item/xhtml/p-135.xhtml",
+            "image": "item/image/i-134.jpg"
+          },
+          {
+            "spine_index": 137,
+            "itemref_id": "p-136",
+            "xhtml": "item/xhtml/p-136.xhtml",
+            "image": "item/image/i-135.jpg"
+          },
+          {
+            "spine_index": 138,
+            "itemref_id": "p-137",
+            "xhtml": "item/xhtml/p-137.xhtml",
+            "image": "item/image/i-136.jpg"
+          },
+          {
+            "spine_index": 139,
+            "itemref_id": "p-138",
+            "xhtml": "item/xhtml/p-138.xhtml",
+            "image": "item/image/i-137.jpg"
+          },
+          {
+            "spine_index": 140,
+            "itemref_id": "p-139",
+            "xhtml": "item/xhtml/p-139.xhtml",
+            "image": "item/image/i-138.jpg"
+          },
+          {
+            "spine_index": 141,
+            "itemref_id": "p-140",
+            "xhtml": "item/xhtml/p-140.xhtml",
+            "image": "item/image/i-139.jpg"
+          },
+          {
+            "spine_index": 142,
+            "itemref_id": "p-141",
+            "xhtml": "item/xhtml/p-141.xhtml",
+            "image": "item/image/i-140.jpg"
+          },
+          {
+            "spine_index": 143,
+            "itemref_id": "p-142",
+            "xhtml": "item/xhtml/p-142.xhtml",
+            "image": "item/image/i-141.jpg"
+          },
+          {
+            "spine_index": 144,
+            "itemref_id": "p-143",
+            "xhtml": "item/xhtml/p-143.xhtml",
+            "image": "item/image/i-142.jpg"
+          },
+          {
+            "spine_index": 145,
+            "itemref_id": "p-144",
+            "xhtml": "item/xhtml/p-144.xhtml",
+            "image": "item/image/i-143.jpg"
+          },
+          {
+            "spine_index": 146,
+            "itemref_id": "p-145",
+            "xhtml": "item/xhtml/p-145.xhtml",
+            "image": "item/image/i-144.jpg"
+          },
+          {
+            "spine_index": 147,
+            "itemref_id": "p-146",
+            "xhtml": "item/xhtml/p-146.xhtml",
+            "image": "item/image/i-145.jpg"
+          },
+          {
+            "spine_index": 148,
+            "itemref_id": "p-147",
+            "xhtml": "item/xhtml/p-147.xhtml",
+            "image": "item/image/i-146.jpg"
+          },
+          {
+            "spine_index": 149,
+            "itemref_id": "p-148",
+            "xhtml": "item/xhtml/p-148.xhtml",
+            "image": "item/image/i-147.jpg"
+          },
+          {
+            "spine_index": 150,
+            "itemref_id": "p-149",
+            "xhtml": "item/xhtml/p-149.xhtml",
+            "image": "item/image/i-148.jpg"
+          },
+          {
+            "spine_index": 151,
+            "itemref_id": "p-150",
+            "xhtml": "item/xhtml/p-150.xhtml",
+            "image": "item/image/i-149.jpg"
+          },
+          {
+            "spine_index": 152,
+            "itemref_id": "p-151",
+            "xhtml": "item/xhtml/p-151.xhtml",
+            "image": "item/image/i-150.jpg"
+          },
+          {
+            "spine_index": 153,
+            "itemref_id": "p-152",
+            "xhtml": "item/xhtml/p-152.xhtml",
+            "image": "item/image/i-151.jpg"
+          },
+          {
+            "spine_index": 154,
+            "itemref_id": "p-153",
+            "xhtml": "item/xhtml/p-153.xhtml",
+            "image": "item/image/i-152.jpg"
+          },
+          {
+            "spine_index": 155,
+            "itemref_id": "p-154",
+            "xhtml": "item/xhtml/p-154.xhtml",
+            "image": "item/image/i-153.jpg"
+          },
+          {
+            "spine_index": 156,
+            "itemref_id": "p-155",
+            "xhtml": "item/xhtml/p-155.xhtml",
+            "image": "item/image/i-154.jpg"
+          },
+          {
+            "spine_index": 157,
+            "itemref_id": "p-156",
+            "xhtml": "item/xhtml/p-156.xhtml",
+            "image": "item/image/i-155.jpg"
+          },
+          {
+            "spine_index": 158,
+            "itemref_id": "p-157",
+            "xhtml": "item/xhtml/p-157.xhtml",
+            "image": "item/image/i-156.jpg"
+          },
+          {
+            "spine_index": 159,
+            "itemref_id": "p-158",
+            "xhtml": "item/xhtml/p-158.xhtml",
+            "image": "item/image/i-157.jpg"
+          },
+          {
+            "spine_index": 160,
+            "itemref_id": "p-159",
+            "xhtml": "item/xhtml/p-159.xhtml",
+            "image": "item/image/i-158.jpg"
+          },
+          {
+            "spine_index": 161,
+            "itemref_id": "p-160",
+            "xhtml": "item/xhtml/p-160.xhtml",
+            "image": "item/image/i-159.jpg"
+          },
+          {
+            "spine_index": 162,
+            "itemref_id": "p-161",
+            "xhtml": "item/xhtml/p-161.xhtml",
+            "image": "item/image/i-160.jpg"
+          },
+          {
+            "spine_index": 163,
+            "itemref_id": "p-162",
+            "xhtml": "item/xhtml/p-162.xhtml",
+            "image": "item/image/i-161.jpg"
+          },
+          {
+            "spine_index": 164,
+            "itemref_id": "p-163",
+            "xhtml": "item/xhtml/p-163.xhtml",
+            "image": "item/image/i-162.jpg"
+          },
+          {
+            "spine_index": 165,
+            "itemref_id": "p-164",
+            "xhtml": "item/xhtml/p-164.xhtml",
+            "image": "item/image/cover.jpg"
+          },
+          {
+            "spine_index": 166,
+            "itemref_id": "p-165",
+            "xhtml": "item/xhtml/p-165.xhtml",
+            "image": "item/image/hyoushi.jpg"
+          }
+        ],
+        "metadata_identifier": [
+          "urn:uuid:0bc2b0e7-2498-4e7e-b41f-fdf2fe40c3ff"
+        ],
+        "zip_entry_count": 340,
+        "page_progression_direction": "rtl",
+        "encryption_descriptor_present": false
+      },
+      "status": "LOCKED_PRIMARY",
+      "quality": "PREFERRED_JAPANESE_PUBLISHER_FIXED_LAYOUT",
+      "locator_scheme": "1-based OPF spine index + XHTML member + image member; full mapping in technical.spine_image_map",
+      "local_reverification": {
+        "date": "2026-10-22",
+        "identity_verification": "INDEPENDENT_LOCAL_BYTES_SHA256",
+        "sha256_matches_preferred_identity": true,
+        "zip_crc_ok": true,
+        "all_166_images_fully_decoded": true,
+        "container_manifest_and_spine_ok": true,
+        "spine_mapping_checked_rows": 166,
+        "dimensions": {
+          "width": 1350,
+          "height": 1920,
+          "count": 166
+        },
+        "remote_content_hash_verified": false,
+        "remote_metadata_scope": "Dated acquisition propagation metadata; not fresh remote content verification",
+        "full_epubcheck_performed": false,
+        "narrative_inspection": false
+      },
+      "drive_metadata_record_date": "2026-10-22"
     }
   ],
   "archived_main_manga": [
+    {
+      "volume": 16,
+      "file": "Laid-Back Camp - Vol. 16 [Japanese] - superseded.cbz",
+      "historical_file": "Laid-Back Camp - Vol. 16 [Japanese].cbz",
+      "drive_id": "1U_krzsI0k5fQkE4H8mAmNPBZD1ueWNKS",
+      "folder_id": "19Yo7DYiZdhsxT3GnEBRSX-fH6abgBjIk",
+      "source_class": "main_manga",
+      "preferred": false,
+      "status": "SUPERSEDED_SOURCE_RETAINED",
+      "superseded_by_drive_id": "1S6wIlhB--XXMdja34Y-uzrdcR6xOMXNv",
+      "replacement_operation": "2026-10-22 publisher EPUB upgrade; original 168-image CBZ preserved",
+      "size_bytes": 53707024,
+      "sha256": "3a6665014f96cc6c7245ec54989bce651fcb42659b2838e6525c9fc96bd2f584",
+      "local_reverification": {
+        "date": "2026-10-22",
+        "sha256_independently_recomputed": true,
+        "zip_crc_ok": true,
+        "image_count": 168,
+        "dimensions": {
+          "width": 1125,
+          "height": 1600,
+          "count": 168
+        },
+        "remote_content_hash_verified": false
+      },
+      "historical_preferred_record_2026_10_17": {
+        "volume": 16,
+        "file": "Laid-Back Camp - Vol. 16 [Japanese].cbz",
+        "drive_id": "1U_krzsI0k5fQkE4H8mAmNPBZD1ueWNKS",
+        "source_class": "main_manga",
+        "preferred": true,
+        "source_role": "primary_manga",
+        "size_bytes": 53707024,
+        "sha256": "3a6665014f96cc6c7245ec54989bce651fcb42659b2838e6525c9fc96bd2f584",
+        "identity_verification": "LIVE_METADATA_AND_DOWNLOADED_SHA256",
+        "identity_verified_date": "2026-10-17",
+        "literary_analysis_boundary": "NOT_ANALYZED",
+        "kind": "cbz",
+        "technical_audit_date": "2026-10-17",
+        "technical": {
+          "zip_crc_ok": true,
+          "image_count": 168,
+          "image_decode_ok": true,
+          "dimensions": [
+            {
+              "width": 1125,
+              "height": 1600,
+              "count": 168
+            }
+          ],
+          "ad_inserts": [
+            "0079.jpg",
+            "0131.jpg"
+          ],
+          "ad_insert_byte_identical": true,
+          "ad_insert_sha256": "2a9e7083c99b24cf06ee65e61dd7dd1427cfeacaa304f9d2a75a1f203f887fad",
+          "watermark_visual_sample_images": [
+            "0016.jpg",
+            "0042.jpg",
+            "0081.jpg",
+            "0120.jpg",
+            "0167.jpg"
+          ],
+          "watermark_verification": "Persistent third-party corner mark corroborated in five sampled bottom strips; no complete story-page visual audit."
+        },
+        "status": "LOCKED_WITH_QUALITY_FLAG",
+        "quality": "USABLE_WATERMARKED_WITH_EXTRANEOUS_INSERTS",
+        "locator_scheme": "exact CBZ member basename; retain ad slots"
+      }
+    },
     {
       "volume": 17,
       "file": "Laid-Back Camp - Vol. 17 [Japanese].epub",

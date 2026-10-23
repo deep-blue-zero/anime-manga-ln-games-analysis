@@ -151,3 +151,56 @@ Use `CURRENT_STATE_AND_CORPUS_MAP.md` §3 for the mandatory read order and §9 f
 The independently prepared acceptance commits also incorporate the concurrent final handoff `14f4313b39c45f3d93546bb6d6a47698e048168e` through an ordinary three-way merge. Its current-map route, final acceptance sections and milestone history are preserved. The only text conflict was two distinct audit additions at the same insertion point; both complete sections were retained, with the execution-route limitation updated from the observed successful preview above. The original eighteen-volume architecture horizon is explicitly labeled historical rather than a terminal source boundary.
 
 The E14-01/CM27 private-information correction is the source-grounded reason for this superseding publication under the checklist's diagnosed-correction route. The prior handoff's pending audit cannot certify this changed tree. Author preflight and the full source → housekeeping → exact-head sequence must certify the reconciled head before release of the draft hold and protected integration. No earlier published work is discarded or force-pushed.
+
+
+## Later correction addendum — 2026-10-23
+
+The preceding October 17 repair record and its historical counts/scope remain intact. Bounded older Japanese-source reinspection for the authorized provisional synthesis revealed the following current-use corrections. Their source epochs remain V05/V08; their discovery and admission are retrospective on October 23. The locator ledger owns separately dated inspection scopes, nine new bounded complements and CR23–26; the current map routes these overlays before reuse. All earlier frozen bytes, local evidence IDs and22 extracted statuses remain preserved. These corrections use no V17+ narrative to reinterpret the old source.
+
+### ER-003 — V05 holiday liquor-store worker correction (PRIMARY_VERIFIED, bounded scene)
+
+Discovered during older-evidence retrieval and resolved by direct original Japanese-image inspection on2026-10-23. Source: preferred `Laid-Back Camp - Vol. 05 [Japanese].cbz`, source object `12SENoLFSwXVQ_bXu5kvPK7BcX5HHHUlY`, exact 125628428 bytes, SHA-256 `b63502cfa371059182e387b0b8886866b0eac9951f08010405a1ce4432c99e59`. Only Ch.24 raw0017–0020.jpg was reviewed, individually at original resolution; this is not a completeV05 reread. The preferred source was independently rehashed before inspection. Root separately corroborated the same original pages.
+
+**Original frozen formulation (V05/CP04–V06 boundaries):** Rin works liquor-store holiday shifts throughJanuary4. The attribution appears in frozenV05 §§3.4,9.5,30/StrongDE anchor2,31/localV05-E04, and CP04–V06 §27/Volume5 (V05 lines265/1095/2143/2199; CP04–V06 line1894, retrieval at the unchanged frozen bytes).
+
+**Verified attribution and context:** raw0017 depicts Chiaki with glasses/short hair handling liquor-store stock. On raw0018, the store and apron context are consistent; Nadeshiko explicitly addresses Aki-chan and Chiaki reports alcohol-sales workload/full shifts through the4th. Raw0019 separately gives Aoi's January1–3 days off and Rin's December31–January4 days off through their distinct avatars. Raw0020 has Rin propose another solo camp while the final workplace gag returns to Chiaki. The initial named exchange becomes a shared group chat; it is not a private disclosure of Rin's employment.
+
+**Transition: REVISE worker attribution / PRESERVE bounded scheduling proposition.** Assign the liquor-store/full-shift example to Chiaki. Preserve the claim that paid work and unequal days off shape leisure. Rin's separate reported holiday window remains hers. Exclude the liquor-store/full-shift example from Rin's biography and competence/availability model. These four pages do not identify Rin's own employer or all her actual shifts and do not establish the completed execution of every announced holiday plan.
+
+Confidence: high for the bounded visual/speaker attribution, schedule reports and distinction between participants. Alternatives Rin or Aoi as the full-shift speaker are rejected by character design, named response, avatar continuity and the opposing individual day-off messages. Confidence in any wider recurrent pattern or motive remains a separate analytical judgment.
+
+The original reading/checkpoint bytes and localV05-E04 identifier remain preserved. This is one source cluster with five propagated erroneous references, not five new observations. The broad longitudinal **E05-01 and E05-03 remain ANALYSIS_EXTRACTED** with their original scopes; all 22 old extraction statuses remain unchanged. The bounded E05-04/CR23 bridge is now admitted without upgrading either whole old record. No later-volume narrative is needed for this correction.
+
+### ER-004 — V08 hybrid-travel proposal speaker correction (PRIMARY_VERIFIED, bounded scene)
+
+Discovered during older Rin-family evidence retrieval and resolved by direct original Japanese-image inspection on2026-10-23. Source: preferred `Laid-Back Camp - Vol. 08 [Japanese].cbz`, source object `15btenYpQpad_B88EzR_Nk_zOSvsP9L4-`, exact 122433473 bytes, SHA-256 `7be122c49a2d95ccb3255139ad8fdd1d57dd0d1e9d5caaee4991a157bcf03d38`. Complete relevant Ch.41 exchange raw0010–0014.jpg was viewed individually at original resolution after independent archive hashing. The decisive proposal is on raw0013 upper-right; the distinct permission reply is upper-left. The separately inspected Ch.42 family scenes are not the basis for this speaker correction and do not expand it into a whole-volume verification.
+
+**Original frozen formulation (V08 boundary):** Toba originates the plan to leave Rin's scooter at camp and use the car for sightseeing to reduce fatigue. This appears in frozenV08 §2.1 line183, §3.3 line638 and §4.4 line789. The current CP07–V09 statements that Toba permits the route with safety conditions are accurate and remain intact.
+
+**Verified attribution and context:** Rin asks for scooter travel on raw0011 and explains her reason on raw0012. Nadeshiko interprets the desired travel experience and Ena supports Rin with prior-trip references. On raw0013 **Chiaki**, visibly identifiable in the upper-right panel, supplies the camp-bike/car-sightseeing mitigation; Rin agrees. Toba, in the upper-left panel, subsequently grants permission with caution and no-overexertion conditions. Raw0014 supplies the farewell/topic boundary.
+
+**Transition: REVISE proposal attribution / PRESERVE bounded cooperative-risk-management proposition.** The particular mitigation is Chiaki's practical contribution. Toba's distance concern, permission and safety responsibility remain hers. Rin's authorship/choice, Nadeshiko's interpretation and Ena's support remain distinct contributions. Do not replace the old adult-only shorthand with a claim that one student alone designed the entire trip or eliminated its risks.
+
+Confidence: high for proposal speaker, subsequent permission and sequential context. Alternative Toba as the proposal speaker is rejected by visible Chiaki design, balloon placement and the separate Toba panel/reply. The scene supports a local cooperative planning observation; a universal noncoercion rule or generalized competence grade does not follow.
+
+FrozenV08 remains byte-identical. This is one source cluster with three propagated wrong references, not three independent observations. LocalV08-E005 (Toba's permission) remains correct. Broad **E08-01/CS16/RS16/CM12 remain ANALYSIS_EXTRACTED** and unchanged; the prior bounded Akari observation E08-02 and its verification history remain intact. E08-04/CR24 now supplies the scoped complement without claiming that the original repair verified the whole broader record. No later-volume narrative is used.
+
+### ER-005 — V05 grandmother/Ayano literal-member locator correction (bounded underlying observations PRIMARY_VERIFIED)
+
+Fresh bounded Japanese-image reinspection distinguishes exact archive member names from printed pagination in the preferred V05 CBZ, SHA-256 `b63502cfa371059182e387b0b8886866b0eac9951f08010405a1ce4432c99e59`, 125,628,428 bytes. The grandmother's welcome occurs in **literal `0126.jpg`, printed p124**. Nadeshiko introduces Toki Ayano as her own childhood friend in **literal `0127.jpg`, printed p125**. Nadeshiko's grandmother is the host; she is not Rin's or Ayano's grandmother. Ayano identifies her prior recognition of Rin through Nadeshiko's camping photographs; this is not an already established direct Rin–Ayano friendship.
+
+**Original frozen routing:** the accepted V05 reading and downstream V04–V06 checkpoint cite `0124.jpg` for the welcome and `0125.jpg` for the introduction. Those exact members instead show the eel meal. The scene descriptions survive on the corrected source locators; confusing the printed number with the literal member misroutes their verification.
+
+| Frozen artifact | Affected section and baseline lines | Original → exact literal member |
+|---|---|---|
+| `03 Volume Deep Readings/YURUCAMP_V05_DEEP_READING.md` | §30 strong DE anchors13–14; lines2154–2155 | Welcome `0124` → `0126`; introduction `0125` → `0127`. |
+| Same V05 reading | §31 embedded V05-E24/V05-E25; lines2219–2220 | Same two locator corrections. |
+| `03 Volume Deep Readings/YURUCAMP_V04-V06_CHECKPOINT.md` | §27 / Volume5 routing index; lines1899–1900 | Same downstream repetition. |
+
+These are two scene-locator errors repeated in six explicit frozen references, not six independent evidentiary discoveries. V05 frozen SHA-256: `550f017459a633f1d5d2b3f794f320eb80eee3a0777d4d29458c487dd3905cf1`. CP04–06 frozen SHA-256: `6914948de292105c891971282b4c1696d8228da2be03a99d354098e361684f57`. Line numbers are retrieval aids verified against the unchanged `d96651243d33e00192e4e7667dbd4080234fcb25` baseline; filename, section, local ID and exact digest remain the durable identifiers.
+
+**Longitudinal limitation:** existing E05-03 routes money, meals and the pre-existing Ayano friendship through `0117–0125.jpg`. That literal range covers the restaurant episode and stops before the directly depicted host welcome/introduction at `0126–0127.jpg`. Keep E05-03 unchanged as ANALYSIS_EXTRACTED; its range does not primary-verify the friendship/host component merely because the restaurant component was reinspected. E05-07/CR25 now routes the household bridge through `0126–0128.jpg`, preserving E05-03 unchanged.
+
+**Transition: REVISE retrieval locators / PRESERVE bounded observations and frozen history.** This correction neither rewrites the frozen prospective artifacts nor upgrades their entire analyses. Source `0120.jpg` does contain the eel-money explanation, so a blanket two-image offset would introduce a new error. Exact member names must be checked scene by scene. Printed124/125 remain useful secondary locators when expressly labeled as printed pages.
+
+Confidence is high for these two locators and actor identities. Alternatives tested: that literal0124/0125 already contain the welcome/introduction, or that all historical locators share one uniform offset. Direct inspection rejects both. No later-volume evidence is needed. This is a current retrospective correction to how earlier evidence is retrieved; it must not be backdated into the original V05 or V06 freeze.

@@ -129,7 +129,7 @@ The canonical Japanese archive and the owner's local EPUB differ only by an addi
 
 ## Governing operation and ownership
 
-Live [AGENTS](../../AGENTS.md), [authority state](../../governance/AUTHORITY_STATE.yaml), [scope](../../governance/AUTHORITY_SCOPE.json), [routing](../../governance/CHATGPT_AUTHORITY_AND_ROUTING.md), [initiation](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md), [continuation](../../governance/source-policies/MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY.md) and [integration checklist](../../governance/policies/CHANGE_INTEGRATION_CHECKLIST.md) govern. Existing source-map/method/architecture routes select reasoning, capabilities and handoff controls. Housekeeping owns global routing outputs; the curator owns global character discovery.
+Live [AGENTS](../../AGENTS.md), [routing](../../governance/AGENT_ROUTING.md), [initiation](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md), [continuation](../../governance/source-policies/MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY.md) and [integration checklist](../../governance/policies/CHANGE_INTEGRATION_CHECKLIST.md) govern. Existing source-map/method/architecture routes select reasoning, capabilities and handoff controls. Housekeeping owns global routing outputs; the curator owns global character discovery.
 
 ## Final review and repository release
 

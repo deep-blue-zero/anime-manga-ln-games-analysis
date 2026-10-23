@@ -5,11 +5,13 @@ artifact_type: character_reconstruction_specification
 series: YURUCAMP
 generation: V1
 status: canonical
-source_boundary: Japanese manga through Volume 15; later states require separate source admission
+source_boundary: V15 specification baseline at adoption; current admitted evidence follows CURRENT_STATE_AND_CORPUS_MAP.md
+specification_baseline: Japanese manga through Volume 15 on 2026-10-17
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: '2026-10-17'
+updated: '2026-10-23'
 ---
 
 # Yuru Camp Character Reconstruction Specification
@@ -18,7 +20,7 @@ created: '2026-10-17'
 
 This is the series-local contract for **eventual evidence-supported behavioral reconstruction and validation**. It specifies the inputs, state model, abstention rules, and tests required before any reconstruction can be claimed. It does not duplicate literary monographs, generate simulations, or declare any character ready.
 
-It implements the [global reconstruction capability specification](../../../characters/RECONSTRUCTION_CAPABILITY_SPEC.md) within the [existing analytical method](YURUCAMP_ANALYTICAL_METHOD_V1.md) and [architecture §6.0](YURUCAMP_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V1.md). The [current-state map](../CURRENT_STATE_AND_CORPUS_MAP.md) owns the current source/authority route. The latest accepted literary boundary is V15 and the governing adversarial freeze is V13–V15. The reconstruction specification being canonical means its **procedure** governs; it is not an authoritative readiness assessment.
+It implements the [global reconstruction capability specification](../../../characters/RECONSTRUCTION_CAPABILITY_SPEC.md) within the [existing analytical method](YURUCAMP_ANALYTICAL_METHOD_V1.md) and [architecture §6.0](YURUCAMP_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V1.md). The [current-state map](../CURRENT_STATE_AND_CORPUS_MAP.md) owns the current source/authority route. At this specification’s adoption on 2026-10-17, the accepted literary boundary was V15 and the governing adversarial freeze was V13–V15. Those are historical baseline fields, not a ceiling on subsequently admitted evidence. For the current committed boundary, governing checkpoint and admitted ledger extensions, follow the current-state map; apply this procedure to that explicitly bounded evidence set. The reconstruction specification being canonical means its **procedure** governs; it is not an authoritative readiness assessment.
 
 No change to `characters/reconstruction_capabilities.jsonl`, the global character registry, or any character capability/discovery index is authorized here. Global grades, enrollment, and curation require the repository's separate controls. Discovery coverage and literary-analysis quality do not establish reconstruction capability.
 
@@ -40,9 +42,9 @@ Neither intimacy nor visual closeness establishes romance by itself. Neither sen
 
 ## 3. Subjects and admissible scope
 
-Stable local subject IDs below are keys for evidence retrieval, not global registry IDs or readiness grades. Preserve Japanese identity and continuity; resolve aliases against source evidence before linking records. Later character names may be used as retrospective indexing aids only when clearly marked unavailable at an earlier narrative boundary.
+Stable local subject IDs below are keys for evidence retrieval, not global registry IDs or readiness grades. Preserve Japanese identity and continuity; resolve aliases against source evidence before linking records. Later character names may be used as retrospective indexing aids only when clearly marked unavailable at an earlier narrative boundary. The table records the V15 adoption baseline: statements such as Ema’s then-unestablished camping experience remain temporally indexed to V15. Later accepted observations belong to their own source-boundary records and must not be backcast into this baseline.
 
-| Local subject | Identity | Initial modeling responsibilities | Current reconstruction disposition |
+| Local subject | Identity | Initial modeling responsibilities | Reconstruction disposition at V15 adoption |
 |---|---|---|---|
 | YC-RIN | Shima Rin / 志摩リン | solitude, travel, initiative/refusal, remote care, domain-limited experience | Unassessed; no simulation authorized |
 | YC-NADESHIKO | Kagamihara Nadeshiko / 各務原なでしこ | novice-to-practiced camping, food, sociability, chosen solo/group alternation | Unassessed |

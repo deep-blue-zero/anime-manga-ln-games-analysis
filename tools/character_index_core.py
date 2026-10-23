@@ -8,6 +8,7 @@ and never treats prose as authority.
 
 from __future__ import annotations
 
+import functools
 import hashlib
 import io
 import json
@@ -19,7 +20,7 @@ import unicodedata
 from collections import Counter, defaultdict, deque
 from dataclasses import dataclass
 from pathlib import Path, PurePosixPath
-from typing import Any, Iterable, Mapping, Sequence
+from typing import Any, Iterable, Mapping, MutableMapping, Sequence
 
 
 UNICODE_VERSION = "15.0.0"
@@ -342,14 +343,36 @@ def evidence_ref_sort_key(value: str) -> tuple[Any, ...]:
 GIT_METRICS: Counter[str] = Counter()
 
 
+@functools.cache
+def git_supports_no_lazy_fetch() -> bool:
+    return subprocess.run(["git", "--no-lazy-fetch", "version"],
+                          stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL).returncode == 0
+
+
+def local_git(root: Path) -> list[str]:
+    """Git confined to objects already present, with no object replacement.
+
+    Older Git has no --no-lazy-fetch, but only a promisor remote can fetch
+    lazily, so it runs only where none is configured and fails closed otherwise.
+    """
+    if git_supports_no_lazy_fetch():
+        return ["git", "--no-lazy-fetch", "--no-replace-objects", "-C", str(root)]
+    promisor = subprocess.run(
+        ["git", "-C", str(root), "config", "--get-regexp", r"^(extensions\.partialclone|remote\..*\.promisor)$"],
+        stdout=subprocess.PIPE, stderr=subprocess.PIPE,
+    )
+    if promisor.returncode not in (0, 1) or promisor.stdout.strip():
+        raise DomainError("This Git cannot disable lazy fetching, and the repository may fetch objects from a promisor remote")
+    return ["git", "--no-replace-objects", "-C", str(root)]
+
+
 def run_git(root: Path, *args: str, input_bytes: bytes | None = None) -> bytes:
     started = time.perf_counter()
     GIT_METRICS["processes"] += 1
     try:
         return subprocess.check_output(
             # Evidence must be local and bound to the requested object IDs.
-            # Unsupported Git versions fail closed on these explicit options.
-            ["git", "--no-lazy-fetch", "--no-replace-objects", "-C", str(root), *args],
+            [*local_git(root), *args],
             input=input_bytes,
             stderr=subprocess.PIPE,
         )
@@ -360,13 +383,22 @@ def run_git(root: Path, *args: str, input_bytes: bytes | None = None) -> bytes:
         GIT_METRICS["seconds"] += time.perf_counter() - started
 
 
-def read_blob_objects(root: Path, object_ids: Iterable[str]) -> dict[str, bytes]:
+def read_blob_objects(
+    root: Path,
+    object_ids: Iterable[str],
+    *,
+    cache: MutableMapping[str, bytes] | None = None,
+) -> dict[str, bytes]:
     """Read raw blobs in one Git process, preserving exact byte boundaries.
 
     Communicate through subprocess.check_output so input, output and stderr are
     drained without a pipe deadlock. Only object IDs enter the batch protocol;
     paths, filters and symlink traversal are never interpreted by cat-file.
-    Deduplication is confined to this acquisition, including mutable indexes.
+    Deduplication is confined to this acquisition, including mutable indexes,
+    unless the caller supplies ``cache``: a mapping it owns, keyed by object ID
+    and holding only bytes this function verified against that ID. Content
+    addressing makes those bytes immutable, so serving them again reads the
+    same object a fresh ``cat-file`` would return.
     """
     requested = list(object_ids)
     if any(not isinstance(oid, str) or not FULL_COMMIT_RE.fullmatch(oid) for oid in requested):
@@ -375,12 +407,24 @@ def read_blob_objects(root: Path, object_ids: Iterable[str]) -> dict[str, bytes]
     if not unique:
         return {}
     GIT_METRICS["blob_requests"] += len(requested)
-    GIT_METRICS["unique_blob_reads"] += len(unique)
     GIT_METRICS["duplicate_blob_reads_avoided"] += len(requested) - len(unique)
-    raw = run_git(root, "cat-file", "--batch", input_bytes=("\n".join(unique) + "\n").encode("ascii"))
-    stream = io.BytesIO(raw)
     blobs: dict[str, bytes] = {}
-    for oid in unique:
+    pending = unique
+    if cache is not None:
+        pending = []
+        for oid in unique:
+            cached = cache.get(oid)
+            if cached is None:
+                pending.append(oid)
+            else:
+                blobs[oid] = cached
+        GIT_METRICS["cached_blob_reads"] += len(unique) - len(pending)
+    GIT_METRICS["unique_blob_reads"] += len(pending)
+    if not pending:
+        return blobs
+    raw = run_git(root, "cat-file", "--batch", input_bytes=("\n".join(pending) + "\n").encode("ascii"))
+    stream = io.BytesIO(raw)
+    for oid in pending:
         header = stream.readline()
         match = re.fullmatch(rb"([0-9a-f]{40}|[0-9a-f]{64}) blob (0|[1-9][0-9]*)\n", header)
         if match is None or match[1].decode("ascii") != oid:
@@ -397,6 +441,8 @@ def read_blob_objects(root: Path, object_ids: Iterable[str]) -> dict[str, bytes]
         if digest.hexdigest() != oid:
             raise DomainError("Git batch blob bytes do not match the requested object ID")
         blobs[oid] = data
+        if cache is not None:
+            cache[oid] = data
         GIT_METRICS["blob_bytes"] += size
     if stream.read(1):
         raise DomainError("unexpected trailing Git batch output")
@@ -429,8 +475,15 @@ class GitSnapshot:
 
     @classmethod
     def from_commit(
-        cls, root: Path, commit: str, *, paths: Iterable[str] | None = None
+        cls,
+        root: Path,
+        commit: str,
+        *,
+        paths: Iterable[str] | None = None,
+        blob_cache: MutableMapping[str, bytes] | None = None,
     ) -> "GitSnapshot":
+        """Load one commit; ``blob_cache`` lets a caller share verified blobs across commits."""
+
         if not FULL_COMMIT_RE.fullmatch(commit):
             raise DomainError("basis commit must be a full lower-case 40- or 64-hex object ID")
         object_format = run_git(root, "rev-parse", "--show-object-format").decode().strip()
@@ -462,7 +515,12 @@ class GitSnapshot:
             if selected is not None and path not in selected:
                 continue
             rows.append((path, mode, kind, oid))
-        blobs = read_blob_objects(root, (oid for _, _, kind, oid in rows if kind == "blob"))
+        wanted = (oid for _, _, kind, oid in rows if kind == "blob")
+        blobs = (
+            read_blob_objects(root, wanted)
+            if blob_cache is None
+            else read_blob_objects(root, wanted, cache=blob_cache)
+        )
         entries = {
             path: SnapshotEntry(path, mode, blobs[oid] if kind == "blob" else b"")
             for path, mode, kind, oid in rows
@@ -620,8 +678,20 @@ def parse_authority_front_matter(data: bytes, path: str) -> AuthorityMetadata | 
         raise DomainError(f"{path}: unterminated YAML front matter")
     if closing == len(lines) - 1:
         raise DomainError(f"{path}: YAML front-matter closing fence must be LF-terminated")
-    front_lines = lines[1:closing]
-    front = "\n".join(front_lines) + "\n"
+    front = "\n".join(lines[1:closing]) + "\n"
+    return _authority_from_front_matter(front, path)
+
+
+@functools.lru_cache(maxsize=65536)
+def _authority_from_front_matter(front: str, path: str) -> AuthorityMetadata | None:
+    """Recognize the authority quartet in one exact LF-terminated front-matter block.
+
+    The result is a pure function of the block and the path, so it is memoized:
+    the many snapshots that share an unchanged document parse its YAML once.
+    Rejections raise and are never cached, so every call re-derives them.
+    """
+
+    front_lines = front.split("\n")[:-1]
     loaded = _restricted_yaml_load(front, path)
     if not isinstance(loaded, dict):
         raise DomainError(f"{path}: front matter must be one mapping")
@@ -1450,7 +1520,7 @@ def is_ancestor_commit(repository: Path, ancestor: str, descendant: str) -> bool
     if not FULL_COMMIT_RE.fullmatch(ancestor) or not FULL_COMMIT_RE.fullmatch(descendant):
         raise DomainError("ancestry checks require full lower-case commit object IDs")
     completed = subprocess.run(
-        ["git", "--no-lazy-fetch", "--no-replace-objects", "-C", str(repository), "merge-base", "--is-ancestor", ancestor, descendant],
+        [*local_git(repository), "merge-base", "--is-ancestor", ancestor, descendant],
         stdout=subprocess.PIPE,
         stderr=subprocess.PIPE,
     )
@@ -1494,10 +1564,15 @@ def evaluate_reconstruction_assessments(
     basis_record_cache: dict[str, list[dict[str, Any]]] = {}
     basis_authority_cache: dict[str, AuthorityGraph] = {}
     ancestry_cache: dict[str, bool] = {}
+    # Basis commits share nearly every blob; verified bytes are read once per
+    # evaluation and shared by object ID instead of once per basis commit.
+    blob_cache: dict[str, bytes] = {}
 
     def snapshot(commit: str) -> GitSnapshot:
         if commit not in snapshot_cache:
-            snapshot_cache[commit] = GitSnapshot.from_commit(repository, commit)
+            snapshot_cache[commit] = GitSnapshot.from_commit(
+                repository, commit, blob_cache=blob_cache
+            )
         return snapshot_cache[commit]
 
     def records_at(commit: str) -> list[dict[str, Any]]:
@@ -1951,7 +2026,31 @@ def load_reconstruction_policy(snapshot: GitSnapshot) -> tuple[str | None, list[
     return (phase if not errors else None), errors
 
 
+_CHECKED_SCHEMA_CLASSES: dict[str, Any] = {}
+
+
 def _schema_validator_class(schema: Mapping[str, Any], label: str) -> Any:
+    """Return the Draft 2020-12 validator class once ``schema`` passes inspection.
+
+    Inspection and metaschema checking depend only on the schema's content, so
+    an accepted schema is remembered by its canonical JSON form: validating a
+    registry of many records against one schema checks that schema once rather
+    than once per record. A rejected schema raises and is never remembered.
+    """
+
+    try:
+        canonical = json.dumps(schema, sort_keys=True, ensure_ascii=False)
+    except (TypeError, ValueError) as exc:
+        raise DomainError(f"{label}: schema is not canonical JSON: {exc}") from exc
+    accepted = _CHECKED_SCHEMA_CLASSES.get(canonical)
+    if accepted is not None:
+        return accepted
+    accepted = _check_schema_validator_class(schema, label)
+    _CHECKED_SCHEMA_CLASSES[canonical] = accepted
+    return accepted
+
+
+def _check_schema_validator_class(schema: Mapping[str, Any], label: str) -> Any:
     try:
         import jsonschema
     except ImportError as exc:
